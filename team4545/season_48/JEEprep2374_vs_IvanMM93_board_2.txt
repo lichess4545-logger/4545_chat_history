@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/lTLUgcR7
+White     : jeeprep2374
+Black     : ivanmm93
+Time      : 45+45
+Captured  : 2026-04-14 09:05:20 UTC
+Game ended : 2026-04-14 07:44:21 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[06:03:47] JEEprep2374: (4.d3) I didnt have time to review all the variations here, only the mainline, but my memory should be good enough to play the best ...
+[06:03:47] JEEprep2374: ...moves here.
+[06:05:00] JEEprep2374: (4...Na5) this is the main line. very happy that I just reviewed this
+[06:05:38] JEEprep2374: (5.Qf3) I shouldn't have many games with Qf3, so hopefully my opponent is no longer in prep
+[06:07:44] Tranzoo: go jee
+[06:09:30] JEEprep2374: (6...c6) I am not quite sure what black wants here. d5 is not really a move like ever, and Nd5 didn't seem that immidiate of a threat
+[06:10:35] JEEprep2374: (6...c6) I could maybe play Qg3 here, put pressure of e5 and g7
+[06:11:39] JEEprep2374: (6...c6) but Nh5 could be annoying in some positions
+[06:15:26] gavalanche20: (6...c6) Masters db likes Nge2
+[06:16:02] gavalanche20: (6...c6) Curious because d5 looks unlikely so if Black plays d6 instead doesn't that pawn get a bit weak
+[06:17:01] gavalanche20: (7.Be3) Lichess db scores seem pretty reasonable from here tho
+[06:18:39] JEEprep2374: (7.Be3) maybe I will play c5 at some point, it looks very annoying for black
+[06:18:53] JEEprep2374: (7.Be3) not right now, Qa5 just wins the pawn
+[06:23:13] JEEprep2374: (9.b3) pretty much exactly my prep except for the addition of d6/Be3
+[06:23:25] JEEprep2374: (9.b3) or sorry c6/Be3
+[06:32:49] JEEprep2374: (9...Qa5) oof. That is a big difference between the mainline position and this. now d5 is a major threat.
+[06:33:15] JEEprep2374: (9...Qa5) I forgot that Qa5 pins my knight so d5 is possible now
+[06:34:46] JEEprep2374: (10.Bd2) Not what I wanted to play ideally, but d5 is too big a threat and I would have to play this anyway
+[06:42:11] JEEprep2374: (11...Be7) I want to go g4, but the black can just long castle. maybe I go a4-a5, anticipating long castle?
+[06:54:59] JEEprep2374: (15.Ng3) very sharp
+[07:14:29] gavalanche20: (7.Be3) Wow it's just over now I guess
+[07:15:54] gavalanche20: (24.Qe7+) Wait I'm silly Kg6 is possible
+[07:16:21] gavalanche20: (24.Qe7+) I thought it was forced mate or lose a rook lol. Still exposed king can't be very fun
+[07:19:47] JEEprep2374: (25...Rg4) O-O-O is quite interesting
+[07:21:18] JEEprep2374: (25...Rg4) but I cannot find anything concrete after d5
+[07:22:03] JEEprep2374: (25...Rg4) Ah d5 Nc5 probably
+[07:27:11] JEEprep2374: (26...d5) there is also just the simply Rdg1 to consider.
+[07:30:01] jdannan: wasn't Rxh5 fatal?
+[07:30:24] gavalanche20: (27.Rdg1) Ooo maybe
+[07:30:34] gavalanche20: (27.Rdg1) I was looking at it earlier and it worked if Re4 wasn't check I think
+[07:31:16] JEEprep2374: (27.Rdg1) I am either dead lost or completely winning. I do not know which one it is for sure.
+[07:33:07] jdannan: there could also be a perpetual :-)
+[07:33:19] JEEprep2374: (27...Rf4) I hate to think that Nf6 might be a valid move here
+[07:35:45] jdannan: Nc5 also
+[07:36:33] gavalanche20: (27...Rf4) I am wondering if Rg4 does anything
+[07:36:34] JEEprep2374: (27...Rf4) oh my god it is. Nf6 is absolutely diabolical
+[07:37:13] JEEprep2374: (28.Nf6) GOTM right here if this works
+[07:37:22] gavalanche20: (27...Rf4) ah and the point here is Rg4 allows Qh7
+[07:37:28] gavalanche20: (28...Rxf6) Rg4 hg4 I mean
+[07:38:30] gavalanche20: (30...Kg5) Or is there a mate?
+[07:38:41] JEEprep2374: (30...Kg5) Ok I miscalculated here, but maybe this still works
+[07:39:15] gavalanche20: (30...Kg5) Is Rh5 Kf4 Qd3 enough?
+[07:39:24] gavalanche20: (31...Kf4) d4 White has perp but is there more
+[07:40:12] JEEprep2374: (32.Qd3) there is no way I do not mate here right
+[07:40:19] jdannan: this is mate I think
+[07:40:41] jdannan: or not
+[07:42:35] jdannan: where's the mate after d4?
+[07:43:06] gavalanche20: (32.Qd3) Ah! d4 Qg3 Ke4 Qg4 Rf4 Qe2#
+[07:43:06] jdannan: that must be even better....the point is to cover e3
+[07:43:39] JEEprep2374: (34.Qxg4+) gg?
+[07:43:40] gavalanche20: (32...Qb6) Pretty much same pattern here funny enough except Qe2 you have to give queren?
+[07:43:57] gavalanche20: (34...Rf4) And well it's still mate
+[07:44:32] eoskar: nice game!
+[07:44:33] jdannan: gg
+[07:45:57] JEEprep2374: GG, this was an absurdly tactical game
+[07:47:01] Pineapplechiffoncake: Gg
+[09:03:44] ipr: let's see if logger will track everything
