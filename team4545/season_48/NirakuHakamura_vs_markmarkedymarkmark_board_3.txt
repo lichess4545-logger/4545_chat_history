@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/G2aNCJuZ
+White     : nirakuhakamura
+Black     : markmarkedymarkmark
+Time      : 45+45
+Captured  : 2026-04-15 21:48:38 UTC
+Game ended : 2026-04-15 20:28:34 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[19:03:20] NameGoesInHere: go mark!
+[19:08:09] markmarkedymarkmark: looks like my opponent has lost connection
+[19:10:26] Le_Merovingien: Go m^4
+[19:12:43] Le_Merovingien: The central tension is irresistible
+[19:12:59] Le_Merovingien: Your opponent probably collapsed
+[19:16:01] STCLion: ;?))   almost the same game going on ,  until dxc5
+[19:20:35] NameGoesInHere: (6...g5) whoa that's not something I've seen before. guess the idea is fxg5 ...Nf5 followed by ...e6 with maybe ...Bg7 to come?
+[19:21:05] Le_Merovingien: WTF is that?
+[19:21:21] Le_Merovingien: I have a nice quiet French at my end. Here it's all whacky!
+[19:22:22] NameGoesInHere: (6...g5) maybe ...Ng4 instead of ...Nf5 actually, to directly go after the e5 pawn
+[19:23:38] STCLion: B-f4  p-d4
+[19:24:08] STCLion: or Nxe5 anyway
+[19:25:09] NameGoesInHere: (7...Ng4) yeah, black is winning e5 by force here and then c5+g5 will be under quite a bit of pressure after ...e6
+[19:25:39] STCLion: about to be quite "noisy "  indeed
+[19:31:14] NameGoesInHere: (9.Bb5) pins galore
+[19:31:45] NameGoesInHere: (9.Bb5) guess ...Bg7 is fairly forced
+[19:32:00] guitarspider: go Niraku
+[19:34:02] STCLion: hmm    the problem with 'getting whacky  "  you might be leaving open more than you think ...
+[19:35:02] STCLion: forced to play D   and lose tempo  ...
+[19:35:02] Kayrosas: go niraku!
+[19:50:16] fulmarsky: go nm!
+[19:52:33] Kayrosas: time situation is a bit concerning
+[19:53:03] Kayrosas: ive looked at these g5 lines before but it's so rare, you forget about it before you face it the next time
+[19:53:19] STCLion: no worries  until they go under 5 minutes
+[19:55:05] fulmarsky: (10.Nf3) ooh complexities...
+[19:55:21] fulmarsky: (10.Nf3) all those knights and bishops, angst, and tension on the 64 squares
+[19:56:06] STCLion: does Black  0-0 into the open g column  ....
+[19:56:37] STCLion: or 0-0-0  to the open c ..
+[20:01:41] fulmarsky: (11.O-O) oh i'm nervous in case white misses something tactical
+[20:01:41] fulmarsky: (11.O-O) this is tense...
+[20:01:56] fulmarsky: (11.O-O) all those 'en prises' pieces...
+[20:02:42] STCLion: Stay Frosty  !
+[20:02:57] fulmarsky: (11.O-O) at least, for noe [Nc6] is pinned, but i wonder if ...O-O may taketh place in just a moment...
+[20:06:00] fulmarsky: (11...O-O) i wonder if white can allow  ...Bxf3   gxf3  to undouble the f5 pawn
+[20:06:15] fulmarsky: (11...O-O) g5* pawn
+[20:07:01] fulmarsky: (11...O-O) i'm not surprised with white's time management... right now upon those 64 squares  T E N S E
+[20:14:52] markmarkedymarkmark: I think Nxf3 looks strong, Nxf3 gx Bh3 with Qxg5 incoming
+[20:21:28] fulmarsky: (14...Bh3) angst
+[20:21:43] fulmarsky: (14...Bh3) angst in regards to ...Qxg5+
+[20:22:59] fulmarsky: (14...Bh3) is Rf2 ...Qxg5+  acceptible
+[20:23:15] fulmarsky: (14...Bh3) Rf2 covers the g2 checkmate square
+[20:23:30] fulmarsky: (14...Bh3) oh dear oooh
+[20:23:30] NameGoesInHere: (14...Bh3) Rf2 Qxg5+ Kh8 black has Qc1+ I think?
+[20:24:00] fulmarsky: (15.Rf2) me too, i just noticed that c1 square issue.  oooh just ooh ... what canneth one ponder... ooh
+[20:24:00] NameGoesInHere: (15.Rf2) funky geometry there
+[20:24:00] STCLion: Q-c2  seemed best for W there
+[20:24:31] STCLion: small gamble  that Black takes pawn instead of R
+[20:25:31] fulmarsky: (16.Kh1) white may have to give up 'the exchange', i'm guessing
+[20:27:03] NameGoesInHere: (16.Kh1) I think it might end up being at least a full rook? problem is white king has no squares after Qc1+ so have you to block on f1
+[20:29:20] fulmarsky: oh dear, i looked down one moment and it be over, i didn't expect this.  wow...oooh
+[20:29:35] fulmarsky: i feel for white
+[20:30:05] fulmarsky: a tense chess game
+[20:30:05] NameGoesInHere: yeah that ...g5 line was vicious to have to try and figure out
+[20:31:06] NirakuHakamura: well played
+[20:31:37] NirakuHakamura: 10. Nf3 Kotov move k
+[20:32:07] STCLion: QA-c2 stopped this
+[20:32:53] fulmarsky: i like the panda and turtle  during this chess game... gg both
+[20:34:54] NirakuHakamura: snapping turtle
+[20:36:41] markmarkedymarkmark: yeah the ...g5 move was in my caro-kann course
+[20:37:57] NirakuHakamura: you made a course?
+[20:39:43] NirakuHakamura: I looked at the 5... e6 line before the game, and there's faznaz83 in the database, which I thought was funny, as our B1 played him in R1
+[20:47:34] markmarkedymarkmark: oh I meant in the course I have rather than I made a course haha
+[20:48:35] NirakuHakamura: seems it won you a game, not sure how much you payed but it was worth at least something :)
+[20:49:21] markmarkedymarkmark: yeah it's the one on chessly which I can recommend
+[20:49:36] markmarkedymarkmark: gg again, best of luck in the rest of the season!
+[20:56:11] NirakuHakamura: thanks, you too!
