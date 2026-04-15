@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/85unDUDW
+White     : micomps
+Black     : drgarras
+Time      : 45+45
+Captured  : 2026-04-15 21:41:55 UTC
+Game ended : 2026-04-15 20:21:51 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[18:11:45] Micomps: (5...d6) so I know black plays the Sveshnikov, like me - but this isn't the normal move order
+[18:12:00] Micomps: ordinarily we'd have Knights on c3 and f6 here, and I'd just play Bg5 as normal
+[18:18:05] fritsj: Let's go Micomps!
+[18:18:51] fritsj: Ooooh the Kalashnikov
+[18:19:52] Micomps: (10.Be3) b6 looking like a nice square all of a sudden
+[18:20:52] Micomps: normally in Sveshnikov, black is covering c4 with the b5 pawn, but not here
+[18:22:39] fritsj: I think Nxd5 was needed after Nc4 and Black should have easy development there
+[18:23:40] fritsj: After Be3 Nc5 looks like it loses immediately after Nxe7 and the only alternative is Nd4 where c3 is an option
+[18:23:55] fritsj: Wow
+[18:27:13] Micomps: (11.f3) going into b6 next and I think I pick up d6 in a few moves to even up material
+[18:27:43] Micomps: Bh4 just gets met with g3 I think, without issue
+[18:30:31] fritsj: Black might be able to develop a dangerous initiative here after Qxd6 Nxd6 Be6
+[18:32:02] fritsj: There are some lines in the Kalashnikov where that happens that are very similar to this
+[18:32:17] fritsj: Only White has really nice control of the back rank here which makes a big difference
+[18:32:48] fritsj: Probably no initiative at all for Black
+[18:36:21] Alex_The_Great15: What would White have done against 15. ...Nb4?
+[18:42:41] Micomps: (16...b6) part of me really wants to play 0-0-0, but not sure I want to give up the bishop pair
+[18:43:27] Micomps: though I'm not 100% sold on Ba3 either
+[18:43:27] nyanners: yea Nb4 looked interesting. maybe Kd2
+[18:45:13] Micomps: looking at 0-0-0 again though, if we exchange then c5 and e5 are loose so...might be ok
+[18:45:44] Micomps: need to spend some time thinking about this, feels like a key part of the game
+[18:59:41] precisionplay28: go micomps!
+[19:06:16] Tigermoth1: surely had to take there 17.Kbd4 ?
+[19:09:34] Alex_The_Great15: agreed
+[19:10:35] Alex_The_Great15: 18. ...Nxa2 shouldn't be possible right? (Knight is trapped?)
+[19:11:21] Tigermoth1: What does Napolean think ?
+[19:16:10] Tigermoth1: c3 was cuter on 19
+[19:18:42] Tigermoth1: but white has far better development
+[19:18:42] fritsj: I like how Micomps has handled this position
+[19:23:46] fritsj: Rhe1 then only way to defend e5 is Nc6, you can threaten that Knight with Bd5. Only way to defend it is Bd7
+[19:23:46] fritsj: That position looks like it might collapse any second for Black
+[19:24:47] fritsj: Oh actually there is just Re7 here haha
+[19:24:47] fritsj: Nevermind
+[19:25:02] fritsj: f4 though?
+[19:25:18] Tigermoth1: yes nowhere to run
+[19:31:23] fritsj: Wowww what is this
+[19:33:40] fritsj: Maybe Rc3 threatening to trap the Knight?
+[19:33:40] fritsj: Rc5*
+[19:34:41] fritsj: That might just win both Queenside pawns if Black is forced to play a5 to save the Knight
+[19:41:47] Tigermoth1: seventh heaven !
+[19:42:48] Tigermoth1: thanks for the lesson Micomps, well played both
+[19:44:34] fritsj: I guess Black's best try might be g5 to try to get Bf5 in
+[19:45:05] fritsj: But if White responds with g4 then the threats persist
+[19:49:23] Micomps: (29.b3) I thought about R1e7 immediately but I got a bit spooked by lines where black can get Nc4. b3 just a little waiting move
+[19:49:54] Micomps: the a5 knight is going nowhere
+[19:52:26] Alex_The_Great15: what about King walk to pick up the Knight lol
+[19:53:27] fritsj: That would have been funny haha
+[19:53:42] fritsj: But with the Rook also looks convincing
+[19:58:16] fritsj: This King is looking mighy hungry on c1
+[19:58:31] fritsj: But the fridge is all the way on a5
+[20:00:18] fritsj: Well now that the King has gotten off the couch I daresay it will make it to the fridge just fine
+[20:01:34] fritsj: It's kind of zugzwang anyway
+[20:01:34] fritsj: What a game from Micomps
+[20:08:09] fritsj: Kxb5 Rxc2 Rh6 h4 a4 Rxg2 a5 Rxh2 a6 Ra2 Kb6 and White is faster
+[20:09:10] fritsj: There is Kg7 though and maybe White can't maintain the rook on the h-file...
+[20:09:56] fritsj: Kg7 Rd6 h3 a7 h2 Rd1 I guess White is still winning?
+[20:10:11] fritsj: Closer than you would expect though
+[20:10:11] fritsj: Maybe f4 here to break up the pawns
+[20:12:43] fritsj: After Rc2 now f4 Rxg2 fxg5 Rxh2 and Black cannot make progress
+[20:12:43] fritsj: Nice find I think
+[20:22:07] fritsj: GG
+[20:22:22] fritsj: VERY nice game Micomps!!
+[20:22:52] Micomps: Thank you, I feel like I nearly messed up that R&P ending there
+[20:24:23] fritsj: Haha yeah easy to start seeing ghosts there but it was never in doubt
+[20:24:39] fritsj: f4 very nice move
+[20:24:54] Micomps: I was looking at 15....Nb4 as well - was thinking either 0-0-0 or Kd2
+[20:26:55] Micomps: @fritsj - when was that "wowww what is this"?!
+[20:26:55] fritsj: When you took on f7
+[20:27:26] fritsj: I was looking at it but I thought more preparation was needed
+[20:27:56] fritsj: But it's just strong
+[20:29:27] fritsj: And you played excellently afterwards as well, Black could hardly move at some points
+[20:31:44] Micomps: Thank you! Very close game - only determined by one mistake with the knight getting trapped
+[20:38:50] nyanners: gg
