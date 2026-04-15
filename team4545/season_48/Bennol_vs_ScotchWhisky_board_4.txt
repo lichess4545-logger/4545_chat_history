@@ -1,0 +1,116 @@
+Lichess game chat log
+Game      : https://lichess.org/63v1XgGE
+White     : bennol
+Black     : scotchwhisky
+Time      : 45+45
+Captured  : 2026-04-15 19:41:09 UTC
+Game ended : 2026-04-15 18:21:04 UTC
+Messages  : 106
+────────────────────────────────────────────────────────────
+
+[16:12:44] Leverkuhn: Is 12.f5 a possibility?
+[16:12:59] Leverkuhn: Black would like to respond with 12...exf5 and 13...Bxf5, but there's a discovery
+[16:13:14] Leverkuhn: White has indeed done it
+[16:14:00] Leverkuhn: Black not phased at all, still moving quickly
+[16:15:16] NxN: both moving too quickly
+[16:15:31] Leverkuhn: could still be prep maybe, if not I agree
+[16:15:47] Leverkuhn: big decisions from both sides have already been made
+[16:16:32] NxN: like white after the  opening
+[16:19:20] Leverkuhn: it's a tricky position for me
+[16:19:35] Leverkuhn: the weakness on c2 will definitely become annoying eventually
+[16:20:05] Leverkuhn: okay if White had to play 14.fxg6 I like
+[16:20:05] Leverkuhn: *like Black
+[16:20:20] NxN: Yes but white pieces was more active
+[16:20:36] NxN: didn't like fxg6 , would prefere Ng3
+[16:20:51] Leverkuhn: even 14.g4 maybe
+[16:21:06] NxN: and go too wild :D
+[16:21:21] Leverkuhn: the f5-pawn felt powerful, keeping the sword of f5-f6 looming over Black
+[16:21:37] NxN: yes that was one factor i liked white for
+[16:21:37] Leverkuhn: also restrains the c8-bishop
+[16:22:07] Leverkuhn: without it, I'm not seeing White's edge; c2 is as weak as d4 at least
+[16:22:22] Leverkuhn: surprised Black recaptured away from the center
+[16:22:53] NxN: black has better pieces now , active and  aggrissive
+[16:29:13] Leverkuhn: Black could become strong on the a8-h1 diagonal eventually
+[16:29:28] Leverkuhn: White has no lsb and no access to f3 to blunt the diagonal
+[16:29:59] Leverkuhn: for example one plan for Black could be 15...Qb6 followed by ...Qc6, ...b5, and ...Bb7
+[16:41:23] Leverkuhn: SW taking his time here to choose his plan
+[16:41:23] Bennol: really curious, what he is thinking about. This feels like a long think for this type of position
+[16:42:40] Leverkuhn: if he doesn't want to develop the lsb to b7, Black could consider 15...Re8
+[16:42:55] Leverkuhn: that would delay White's Qg3, and enable ...Be6 in the future
+[16:43:40] Leverkuhn: personally I'm sold on the long diagonal, so I'd be playing 15...b5, 15...Qb6, or 15...Qc7 with similar final setups in any case
+[16:45:27] Leverkuhn: okay 15...Bg4 is the call
+[16:45:27] Leverkuhn: this prevents 16.Qg3, but what about 16.h3?
+[16:46:13] Leverkuhn: I don't want to give my bishop pair back so easily, so that's why 15...Bg4 wasn't appealing to me
+[16:47:44] Leverkuhn: he could just play 16...Be6 I guess, there's no great discovery
+[16:49:46] NxN: if all that time for Bg4 and  not though about h3  then there is a problem
+[16:49:46] NxN: there is no plan at all
+[16:50:16] Leverkuhn: okay he was just planning to take, hmmm
+[16:50:46] Leverkuhn: very counterintuitive to give up the good bishop for such a knight
+[16:50:46] NxN: why , the  knight is passive  than his bishop
+[16:51:17] Leverkuhn: I feel like maybe SW has been heavily overrating the White position for some reason
+[16:51:32] Leverkuhn: first with 14...fxg6, now with this exchange
+[16:52:03] Leverkuhn: he's playing to neutralize some kind of initiative that I don't think existed at all after 14.fxg6
+[16:52:03] NxN: but isn't fxg6 better than hxg6 ?
+[16:52:18] Leverkuhn: I wouldn't think so
+[16:53:03] NxN: why ? i see it activated his pieces more
+[16:55:05] Leverkuhn: I didn't see the opening of the f-file as important, but maybe
+[16:55:36] Leverkuhn: Black probably intends 19...Be5 with further simplification
+[17:18:10] Leverkuhn: Now White probably wants to play a pure bishop endgame where the weakness of c2 won't matter
+[17:18:25] Leverkuhn: it nevertheless seems easily drawn for Black
+[17:21:28] Inter-temporal: (22) (22.Bg5) go Scotch Whiskers!
+[17:21:43] Inter-temporal: (22) (22.Bg5) whispers
+[17:21:58] Inter-temporal: (22) (22.Bg5) whisky!
+[17:23:14] Bennol: Probably should have went Bg5 immediatly. I think the inclusion of b3 d5 helps him more then me
+[17:24:00] NxN: Be5 lose the  bishop
+[17:51:08] Leverkuhn: who will benefit from White's queen sortie to the queenside?
+[17:51:39] Leverkuhn: if anyone Black I'd say as there's suddenly scenarios where c2 drops with check after ...Qc1+
+[17:55:12] Leverkuhn: 29.Be1 looks like a good move to me, Black should probably give perpetual
+[17:57:44] Leverkuhn: White can run to d1 I suppose
+[17:58:14] Leverkuhn: 31.Ke2 Qe3+ 32.Kd1 Bf4 looks strange, but I can't refute it exacly
+[18:01:02] NxN: Bf4 Bd2
+[18:01:17] NxN: and  white is solid
+[18:01:47] Leverkuhn: I think White is trying to win
+[18:01:47] Leverkuhn: justifiably or not
+[18:03:04] NxN: No Bd2 is  not good cause of Qg1+ Be1 Qxg2 or Qg1+ Ke2 Qxg2+
+[18:03:34] NxN: but what is white played Qd2 is  the  end  game  good for him ?
+[18:03:49] Leverkuhn: well but there's 33.Bd2 Qg1+ 34.Be1 Qxg2 35.Qe7+ with a draw since Black can't play 35...Kh6? 36.Qh4+
+[18:04:50] NxN: You right
+[18:05:05] NxN: now white won a tempo
+[18:05:05] NxN: sorry black
+[18:05:21] Leverkuhn: well White is going to defend c2 now and ask Black what he wants to do
+[18:05:51] Leverkuhn: kind of a confusing situation: the bishop on f4 blocks the immediate perpetual
+[18:06:21] Leverkuhn: 34.Qc6 Qc1+ 35.Ke2 Qe3+ 36.Kf1 and there's no 36...Qf4+= available
+[18:06:37] Leverkuhn: for example
+[18:06:52] Leverkuhn: Black has to have a draw anyway, but he could go wrong with little time
+[18:08:38] Leverkuhn: I was thinking 35...Bg5!? or something might be important; keep White tethered to c2
+[18:08:54] nyanners: um not sure. Kf1 seems safe regardless
+[18:08:54] Leverkuhn: now 36.Kf1 and I'm getting worried for Black; Qxd5 will defend g2
+[18:09:24] nyanners: of course rushing the king to f1 should help white
+[18:09:39] Leverkuhn: maybe there was no obvious draw anymore?
+[18:09:39] Leverkuhn: that's so weird
+[18:09:39] nyanners: it is
+[18:11:26] Leverkuhn: this defensive bishop is quite a bizarre and effective motif for White,
+[18:11:56] NxN: should black try to draw the  game ?
+[18:11:56] Leverkuhn: for sure, he has been for awhile
+[18:12:11] Leverkuhn: but he may not succeed
+[18:12:11] NxN: thinking can't do anything with white bishop there
+[18:13:43] NxN: still there is a hope , Qf6
+[18:14:44] NxN: donw
+[18:14:59] NxN: done*
+[18:16:15] nyanners: bd2 right
+[18:16:15] Leverkuhn: 39.Bd2+ should wrap it up
+[18:16:30] nyanners: kh5 qh6
+[18:16:30] karasso: (38) h4 Bxh4 Bd2+ looks good
+[18:16:30] nyanners: so that leaves Winning
+[18:16:45] nyanners: umm i suppose thats an improvement
+[18:17:01] Leverkuhn: very impressive from White, suddenly asking questions with his creative 29.Be1! setup
+[18:18:47] nyanners: umm i guess white has to trade here
+[18:18:47] Leverkuhn: my current thinking is that 29...Kh6 was the safe move, and if 30.Qxb7 then 30...Qh2+ 31.Kf1 Qh1+ 32.Kf2 Bg3+= as e1 is no longer defended
+[18:20:03] Leverkuhn: Black isn't in the square: 43.b4 Kf4 44.b5 axb5 45.a5! +-
+[18:20:03] nyanners: not sure if a5 is required on axb5
+[18:20:03] nyanners: yea i was just thinking that
+[18:20:19] nyanners: seems it is
+[18:20:49] Leverkuhn: gg
+[18:25:07] nyanners: gg
+[18:25:23] NxN: gg
+[18:28:55] Leverkuhn: 29...Kh6 ran into 30.Bd2, so I'm sure what should have been done
