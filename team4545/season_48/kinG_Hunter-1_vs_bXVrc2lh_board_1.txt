@@ -1,0 +1,42 @@
+Lichess game chat log
+Game      : https://lichess.org/qzvrjGHx
+White     : king_hunter-1
+Black     : bxvrc2lh
+Time      : 45+45
+Captured  : 2026-04-15 12:06:12 UTC
+Game ended : 2026-04-15 10:46:01 UTC
+Messages  : 32
+────────────────────────────────────────────────────────────
+
+[09:08:53] bXVrc2lh: don't like this line but a pawn is pawn
+[10:02:08] physicist153: Hi
+[10:09:15] karasso: Rxf7 wow
+[10:10:00] bXVrc2lh: wow
+[10:10:15] kinG_Hunter-1: Let's see if it's correct or not?
+[10:14:04] YuriyVint: Not correct
+[10:14:04] karasso: (20) Kxf7 Rf1+ Ke7 Qxg5+ Kd7 (Qg7+ Ne7 Rf7 Rhe8) Rf7+ Kc8 Qxe6+ Kb7
+[10:14:49] karasso: might have missed sth, but i think black should be winning after Kxf7
+[10:16:05] bXVrc2lh: hmmmm I run away to b7... looks like a blunder
+[10:17:37] karasso: my line doesn't even work ^^
+[10:17:52] karasso: Qxe6 it not possible
+[10:18:53] karasso: after Kc8 Qg7 is still intersting
+[10:25:59] karasso: (23. ... Kc8)  Rxc7 is funny with Qg7+ and Qh8+, but it's not enough for white
+[10:31:18] karasso: even then, AfteRxc7+ Kxc7 Qg7+ Kb8 (Ne7 Qxe7+ shouls be draw with perpetual check) Qxh8+ Kb7 Qg7+ Ka6 h6 is not completly hopeless, but
+[10:31:49] karasso: most likely it's still lost
+[10:33:35] karasso: Qg7 should be the move here, Qe4+ you go to d1 to keep the bishop defended, Kf1 instead Qd3+ Kg1 Kb7 Rxc7+ Ka6 Rxc6 Qxd2 is bad for white
+[10:34:51] karasso: If Qg7 Kb7 Rxc7+ Ka6 Rxc6 Qe4+ and Raf8....looks still bad for white
+[10:37:54] karasso: instead ofQ Qe4+ just Rg8 with Rxg2+
+[10:38:40] karasso: maybe then white should have actually tried Rxc7+
+[10:39:10] KamagayaJiji: Rxc6 Rhg8 Qf6 Rxg2+
+[10:40:57] bXVrc2lh: Nxd4?
+[10:41:42] KamagayaJiji: Nxd4+
+[10:44:45] karasso: Qe4+ Kd1 (Kf1 Rf8) Qb1+ Bc1 Qc2+ with mate
+[10:45:00] KamagayaJiji: Qb1+ Kf2 Qf5+ was0-1
+[10:45:00] karasso: it's already happening
+[10:45:15] KamagayaJiji: Same
+[10:45:30] karasso: gg
+[10:45:46] KamagayaJiji: Gg
+[10:46:16] kinG_Hunter-1: gg
+[10:46:31] bXVrc2lh: not sure about Rxf7, don't think it works
+[10:51:20] kinG_Hunter-1: Yes, for some reason, when I was calculating this variation, I thought that after Ka6 White has a normal position, I missed the move Rg8
+[11:08:34] bXVrc2lh: not sure if I would go for it, probably Qe4+ and Rxh4 or something like that
