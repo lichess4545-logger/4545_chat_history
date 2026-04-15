@@ -1,0 +1,110 @@
+Lichess game chat log
+Game      : https://lichess.org/zbL4a0hT
+White     : tommeketoch
+Black     : xvx_amanda_xvx
+Time      : 45+45
+Captured  : 2026-04-15 21:57:08 UTC
+Game ended : 2026-04-15 20:37:04 UTC
+Messages  : 100
+────────────────────────────────────────────────────────────
+
+[18:06:55] Inter-temporal: go tommeketoch!!
+[18:07:26] tommeketoch: I am firing up stream
+[18:07:56] Oachkatzerlschwoaf: go chess runner
+[18:08:26] Inter-temporal: probably gonna be on twitcher https://www.twitch.tv/thechessrunner
+[18:09:12] Oachkatzerlschwoaf: I lost access to my twitch account
+[18:10:13] Inter-temporal: shadow-banned again?
+[18:10:28] Inter-temporal: yeh, i hate when that happens
+[18:10:28] Oachkatzerlschwoaf: can only watch until 19 UTC anyway then champions League starts
+[18:10:59] a2c4: go amanda
+[18:10:59] Inter-temporal: but that's only 2 screens?
+[18:10:59] Oachkatzerlschwoaf: no I just lose my account data all the time
+[18:11:14] Oachkatzerlschwoaf: I'm a mess
+[18:11:14] a2c4: i remember tomme from being on the same team a while back but right now amanda is on my team
+[18:11:29] omertil: Go chess!
+[18:11:29] Inter-temporal: (1.e4) what do you have running on ur other 12 screens oach?
+[18:12:15] Oachkatzerlschwoaf: images of squirrels
+[18:12:15] Inter-temporal: (1) (1...c5) he's got the stream workin
+[18:13:16] Oachkatzerlschwoaf: no my old man is in town so we go to a bar to watch
+[18:14:01] Inter-temporal: (6) (6.Bg5) but ya'll bring ur tablets and phones, oc
+[18:19:36] omertil: Isn't 12.e5 a move?
+[18:21:07] Oachkatzerlschwoaf: no borg defense? shame
+[18:22:23] Oachkatzerlschwoaf: still theory
+[18:50:32] Inter-temporal: (16) (16...Nd7) stream is good https://www.twitch.tv/thechessrunner
+[19:47:06] a2c4: bxe4?
+[19:49:38] Inter-temporal: (24) (24.Nf3) i think if ...Bxe4, QxQ RxQ, Nxe5 Bxc2+, Ka1 Bxd1, Nxc4 bxc4, Rxd1 and wth...
+[19:50:24] Inter-temporal: (24) (24.Nf3) down a pawn, but white likely has a better pawn structure in the endgame
+[19:51:40] Inter-temporal: (24) (24...O-O) or other lines, oc. lol
+[19:52:56] Inter-temporal: (24) (24...O-O) "UnDef'd Bs on a rank"--Tom
+[20:00:17] a2c4: rc8?
+[20:01:18] a2c4: but then does rxf7 work
+[20:01:49] bufferunderrun: Rxf7 looks wrong
+[20:02:04] bufferunderrun: but you can certainly move the knight somewhere
+[20:02:19] bufferunderrun: Idk, Nd2 for example
+[20:02:34] bufferunderrun: Ng1
+[20:03:35] bufferunderrun: the thing with Ng1 is Bg2 is a bit annoying, but maybe Rd1 is fine
+[20:04:51] a2c4: why did rec2 not work
+[20:04:51] a2c4: ?
+[20:05:06] bufferunderrun: just Be3 then
+[20:07:39] a2c4: white looks to be on the defensive now
+[20:08:09] Inter-temporal: (35) (35...Rh1) been on the defensive since he went up material, imo. lol
+[20:08:09] a2c4: ne2?
+[20:08:24] a2c4: rd1?
+[20:08:39] karasso: ne2 Bf3
+[20:08:39] bufferunderrun: Ne2 Bf3, if Rd1 h4... this is coplicated
+[20:09:56] karasso: tbh, it looks winning for black, white has also no time
+[20:10:41] bufferunderrun: Idk about winning
+[20:10:41] karasso: Bb2 is a good move
+[20:11:12] karasso: mybe f6 instead of h3
+[20:15:00] karasso: why Rd8?
+[20:15:15] Inter-temporal: (41) (41...Be8) it stops the clock
+[20:15:46] bufferunderrun: Ne2 looks losing though
+[20:16:01] bufferunderrun: I was thinking maybe Be5
+[20:16:16] karasso: Bd4 instead of Rd8
+[20:16:16] Inter-temporal: (42) (42.Ne2) Rb1+?
+[20:16:31] NaveenGeorge: rb1 wins surely
+[20:16:47] karasso: Rb1 wins, but Rg1 is even stronger i think
+[20:17:17] Inter-temporal: (42) (42.Ne2) greedy
+[20:17:17] Inter-temporal: (42) (42.Ne2) lol
+[20:17:32] NaveenGeorge: Rg1 is nice
+[20:19:49] NxN: this allow Ng3 ?
+[20:20:04] a2c4: rb1+ would have been a nice check
+[20:20:04] NaveenGeorge: ng3 then rg1 I guess
+[20:20:20] bufferunderrun: Re1 looked starnge
+[20:20:50] karasso: yeah, Re1 is not great. Maybe after Rg1 it's still enough
+[20:21:05] karasso: But rg1 Rd2
+[20:21:36] NxN: Rg1 Rd2
+[20:23:07] NaveenGeorge: Re2+ Rg2?
+[20:23:37] NxN: will win the  piece back but not queening i think
+[20:24:08] karasso: Re2 is nice
+[20:24:23] NaveenGeorge: Re2+ Rg2 how does white win the pawn? I think it's the best move
+[20:25:09] NxN: Re2+ Ka3 Rg2 Rd4 Rxg3 Rh4
+[20:25:09] karasso: Re2 Kc1 Rg2 Rd1 Rxg3 Be5
+[20:25:39] NxN: if white can  get his rook to h4 there is a mate
+[20:25:54] Inter-temporal: (43) (43.Ng3) nice!
+[20:26:10] NaveenGeorge: Oof
+[20:26:10] karasso: Rd4 is brutal :D
+[20:27:26] karasso: well, now Re2 is back, no Ka3 anymore
+[20:27:56] NaveenGeorge: Why is black playing so quickly
+[20:28:42] karasso: idk
+[20:28:57] karasso: no black holds by keeping the rook on the h file
+[20:29:12] karasso: now*
+[20:31:44] NaveenGeorge: Rxa3 could be a juicy trick white dangles for black
+[20:32:00] NaveenGeorge: Surely black smells a rat now lol
+[20:32:30] Inter-temporal: (49) (49.Kd2) no doubt. i mean, i can smell it from here
+[20:32:45] karasso: i think black had this position in mind, when they played a5 and a4 to get his pawns on the light squares protected by his bishop
+[20:33:01] Inter-temporal: (49) (49.Kd2) Eau de Parfum de rat
+[20:33:01] karasso: there should be no way he takes a3
+[20:35:18] NxN: we waiting for Rxa3 :D
+[20:35:48] NaveenGeorge: Lol
+[20:36:03] NaveenGeorge: But just Rd8+ and repeat
+[20:36:18] NxN: yes win time
+[20:36:18] NaveenGeorge: Always repeat!
+[20:36:49] NaveenGeorge: Draw
+[20:36:49] NxN: GG
+[20:37:19] Inter-temporal: (53) gg
+[20:37:19] karasso: gg
+[20:37:50] NaveenGeorge: Rg1 the magic move
+[20:39:06] bufferunderrun: gg
+[20:39:21] tommeketoch: gg
+[20:39:36] tommeketoch: still doing a little post mortem with little energy left on stream
