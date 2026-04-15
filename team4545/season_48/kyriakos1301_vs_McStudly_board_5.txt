@@ -1,0 +1,122 @@
+Lichess game chat log
+Game      : https://lichess.org/XcQxCd91
+White     : kyriakos1301
+Black     : mcstudly
+Time      : 45+45
+Captured  : 2026-04-15 05:13:34 UTC
+Game ended : 2026-04-15 03:53:30 UTC
+Messages  : 112
+────────────────────────────────────────────────────────────
+
+[01:30:59] nyanners: omg the game link has XcQ :o
+[01:31:14] nyanners: my mind is sickly poisoned
+[01:31:29] kyriakos1301: Hi there, nyanners, I think I fell a bit behind in the opening again
+[01:32:15] nyanners: good prep from b i see. but it was all for naught because white is crushing it
+[01:32:30] nyanners: instead of g6-Bf5 i prefer c6-b5, it Just Works
+[01:33:16] nyanners: good reaction from white afterwards
+[01:34:16] kyriakos1301: 15 d5 threatens Bc5
+[01:34:16] nyanners: no way black can open the position with e5. i dont believe it
+[01:34:47] nyanners: d5 also kinda interesting but i really like the fluid pieces with dxe5
+[01:37:04] nyanners: like, with the position closing feels like the pawn counts more
+[01:38:35] nyanners: but is it holdable? i dont wanna think about it tbh
+[01:40:06] kyriakos1301: renew the threat
+[01:40:52] kyriakos1301: I shouldn't be making one move threats, I guess.
+[01:41:07] nyanners: they are good if they are not bad
+[01:41:22] kyriakos1301: but I think black is now forced to play b6
+[01:41:53] nyanners: maybe nb3 but kinda concrete
+[01:41:53] nyanners: depends if c4 hangs later
+[01:42:08] nyanners: or can bail with Nc5 i guess
+[01:42:23] nyanners: but yea black would rather hold the pawn
+[01:42:54] nyanners: maybe Qd7 is about that? eyeing b5
+[01:44:10] nyanners: so 17 N-moves and hits a5 and c4 maybe.. and probably even ish after like Nb3 Qxc4
+[01:44:25] Acebulf: (16...Qd7) I think b5 for black, yeah
+[01:44:40] nyanners: yea so white has to do something NOW
+[01:44:55] kyriakos1301: Na3, Nb3, Qxc4 (finally) but not sure if it is good. Maybe Bc2 first?
+[01:45:11] kyriakos1301: I meant Be2
+[01:45:41] nyanners: yea i think it has to be now. i think b5 Just Works
+[01:45:56] kyriakos1301: or even Be1?
+[01:45:56] nyanners: my reflex is Ne2 but the best move might well be Nb1 for all i know
+[01:46:27] Acebulf: (16...Qd7) Na2?
+[01:46:27] nyanners: like, Nxd2-Nb3-Nc5 maybe
+[01:46:42] nyanners: im just assuming black goes Nb3
+[01:47:12] nyanners: in all N-moves lines
+[01:47:43] nyanners: so well, the question is where? Ne2-Nc1-Nd3, Nb1-Nd2-Nb3/c4, Na2-Nb4-Nd3..
+[01:47:58] kyriakos1301: or Bb4 :)
+[01:48:28] kyriakos1301: No he as Nd4
+[01:48:59] Acebulf: (16...Qd7) I think Ne2 and the knight and pawn are both attacked?
+[01:49:29] nyanners: yeah i mean, i think N-moves wins the pawn on c4
+[01:49:44] nyanners: i also think black is fine after that
+[01:50:00] nyanners: but if white doesnt act then b5 would be better than fine, so yeah
+[01:50:00] Acebulf: (17.Na2) fireworks about to happen
+[01:52:01] Acebulf: (17...Nb3) delicious free pawn
+[01:52:17] Acebulf: (17...Nb3) om nom nom
+[01:52:17] kyriakos1301: now I have to calculate Rxd4 after Nd4
+[01:55:34] nyanners: umm true Nd4 is a better move than Nxd2 probably
+[01:55:50] nyanners: and  Qd3 would drop a4. how utterly annoying
+[01:56:05] kyriakos1301: Bb4 Qxa4? is that a threat?
+[01:57:21] Acebulf: (17...Nb3) Nd4 is stronge
+[01:58:07] Acebulf: (17...Nb3) Qxc4 Nd4 Be2
+[01:58:52] nyanners: still drops a4
+[01:58:52] nyanners: could be the lesser evil
+[01:58:52] Acebulf: (18.Qxc4) and e4
+[01:59:08] nyanners: nah can defend in time
+[01:59:08] nyanners: like Nd4 Be2 Nxe2 Qxe2 Qxa4 Nc3
+[01:59:23] nyanners: but yea seems kinda pawn down ish
+[02:01:55] kyriakos1301: maybe I should have gone for Bb4, I really don't like Nd4
+[02:05:43] Acebulf: (19.Rxd2) Didn't see Nd4, or maybe it's not solid
+[02:05:58] kyriakos1301: well that's a relief, even though that was my best piece and my other bishop looks silly at the moment
+[02:06:59] Acebulf: (19.Rxd2) What is the game's continuation here
+[02:08:31] nyanners: nah i think Nd4 was really nice
+[02:09:16] nyanners: as played im not sure. b5 is interesting definitely
+[02:10:02] nyanners: could be a strength or a weakness
+[02:10:47] kyriakos1301: 21 ... c6 is now annoying
+[02:21:11] kyriakos1301: now I wish my knight was on b4 :)
+[02:31:05] nyanners: seems its going black's way
+[02:31:35] nyanners: maybe id double on c
+[02:32:36] kyriakos1301: and I am sitting here sweating about Bf8 lol
+[02:32:51] nyanners: yea Bf8 was good
+[02:33:22] nyanners: absolutely no idea about this one. i feel id just roll with it
+[02:33:37] nyanners: black's idea being Qx b4 and Nxe4 of course. but white Na4 hits Rb6
+[02:33:37] nyanners: and then Nxb6 hits Qd7
+[02:34:07] nyanners: if that works then c5 wasnt good
+[02:34:38] nyanners: this line is some sort of good for black for sure
+[02:35:54] nyanners: black's connected pawns are more impactful than white's
+[02:37:56] nyanners: ooh b3 is a good one
+[02:37:56] nyanners: but okay Nd6 is also a good one
+[02:46:18] kyriakos1301: took him awhile to see he had a bishop. Not a good sign for me.
+[02:46:48] nyanners: umm yea Bh6 seems good
+[02:47:04] nyanners: Rc8 wins?
+[02:47:04] kyriakos1301: I think I am lost here
+[02:47:49] kyriakos1301: Re2 was way better
+[02:49:05] nyanners: for that reason yea
+[02:49:36] nyanners: ooh
+[02:49:51] kyriakos1301: Rc8 was a killer no?
+[02:49:51] nyanners: is this some sort of hope? probably not really
+[02:50:52] kyriakos1301: I think I am still worse there though
+[02:59:44] nyanners: ooh?
+[02:59:44] nyanners: now with Nxb6 its unclear again
+[03:00:30] nyanners: these are the dramatic swings i watch for
+[03:02:01] nyanners: but how does white get rid of that oppressive formation? is it even possible? stay tuned
+[03:05:19] nyanners: bringing the king has to be neat i suppose
+[03:09:23] kyriakos1301: all this time he could take on e4, no?? I saw it earlier too and missed it.
+[03:14:27] nyanners: just an 1 for 1 trade, which should be good for white because the b-pawn is more valuable
+[03:24:36] Acebulf: (48.Re2) Rc3 mate?
+[03:25:21] nyanners: not quite
+[03:25:21] Acebulf: (48.Re2) no there is still Kd1
+[03:29:25] kyriakos1301: I though here Ra3 might work (move 50)
+[03:30:56] nyanners: naaaaahh dont give back the rook
+[03:31:42] Acebulf: (49...Kf4) Re6 then Rf7... Rg4
+[03:33:28] nyanners: yea i liked that
+[03:34:44] Acebulf: (50.Ra3) Rxg2 here and then Knight for Rook exchange
+[03:37:47] nyanners: so d5 just hangs? thats kinda sad :o
+[03:38:02] nyanners: cant even try the bait with 52 Ra4 because Kxd5 Be4+ but cant take g2 because b1Q
+[03:38:33] nyanners: while on the other side it does work for black, 52 Ra5 Bd2+
+[03:46:39] nyanners: AHAH i jus missed Kc4
+[03:47:40] nyanners: so close for white but Rd2 is a good find
+[03:47:56] nyanners: might be gg
+[03:48:41] Acebulf: (56...Rd2) not just d7?
+[03:48:56] gavalanche20: (55...hxg4) Does Re3-e7 do anything
+[03:48:56] gavalanche20: (57.Re3+) d7 I saw Black's B gets back in time
+[03:50:13] nyanners: yea just Bg5, doesnt matter when d7 happens
+[03:53:00] Acebulf: (62...b1=Q) thats ggs?
+[03:53:15] nyanners: gg
