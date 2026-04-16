@@ -1,0 +1,134 @@
+Lichess game chat log
+Game      : https://lichess.org/UmHZyx6W
+White     : irongalaxy
+Black     : shampanjasosialisti
+Time      : 45+45
+Captured  : 2026-04-16 20:57:47 UTC
+Game ended : 2026-04-16 19:37:43 UTC
+Messages  : 124
+────────────────────────────────────────────────────────────
+
+[17:42:29] Shampanjasosialisti: 7... Be6 is my sideline for Kalashnikov. Nc4 is the best move for White now and alterantively Nd5 is okay, but equal-ish
+[17:47:03] Shampanjasosialisti: (10 Bxf6) now I'm out of prep. I only have 10. Ne3 and Nd5 covered
+[17:48:49] Shampanjasosialisti: I didn't even realise I'm loosing a pawn but it doesn't seem horrible
+[17:49:04] Shampanjasosialisti: gxf6 should've been played
+[17:52:53] Shampanjasosialisti: (13) Nd4 and Qg5 both look tempting
+[17:53:39] Shampanjasosialisti: Nd4 Bd3 thorugh, no follow up
+[17:56:11] Shakko: sharp stuff
+[18:03:18] glbert: go Shampanjasosialisti!
+[18:08:53] Shakko: maybw just Rd1 for white
+[18:09:23] regrettablebeet: Let's go let's go!
+[18:12:41] Shakko: my friend shampanjasosialisti is a bit in trouble
+[18:20:18] glbert: hmmm.
+[18:20:33] glbert: i kind of would want to play Bx and e4. so that is probably terrible.
+[18:22:50] irongalaxy: (14.Nd5) After Bxd5 exd5 the knight is not actually threatened but my queen can't be pressured either
+[18:25:37] nyanners: bx nd4 legal?
+[18:25:52] nyanners: its a bit awkward because c3 would enable Nc2
+[18:26:23] nyanners: and moving bf1 enables qxg2
+[18:26:53] nyanners: and g3 nf3.. thats not mate actually. but good for black surely
+[18:33:29] cham: go shampan
+[18:41:51] urjah: Qxf2 threatens Nb3+, wonder what white has in mind
+[19:03:11] nyanners: pretty complicated. just enjoying the ride
+[19:04:42] irongalaxy: (19.Rhe1) Need to be careful not to fall for any Ne2+ back rank tricks
+[19:05:28] nyanners: this development might be in white's favour
+[19:07:45] Shampanjasosialisti: (20.. f5) definitely everythin 100% completely calculated no problem
+[19:08:15] Shampanjasosialisti: no idea, idea that now f3 and I can take with Kngith as if I 19... f5 20. f3 looked bad
+[19:08:31] Shampanjasosialisti: White might have compensation for the Pawn :D
+[19:09:01] Shnippy: trying to calculate Bxe4 here
+[19:09:01] urjah: 21.Bxe4 seems to not quite work because of back rank
+[19:10:33] urjah: Also Bxe4 fe Rxe4+ Kf7 Rxd4 Rxd4 Qf3+ Rf4
+[19:10:48] urjah: Might of course be missing something
+[19:11:03] Shnippy: interpolate Bxe4 fxe4 Rxe4+ Kf7 f4 maybe?
+[19:11:34] Shnippy: idk
+[19:11:49] Shnippy: would have played 18...Qd6 as black, seemed way safer
+[19:12:04] nyanners: umm yea i assumed white would have something but i dont see it
+[19:12:19] nyanners: could be just Bc4 and claim weird king something
+[19:13:05] urjah: Qc5 maybe? Pins the f-pawn and the check seems annoying with Bc4
+[19:13:51] nyanners: i like that better
+[19:13:51] nyanners: nice
+[19:14:21] irongalaxy: (21.Qc5) I was looking at the immediate Bxe4 and didn't see a conclusive win
+[19:14:52] irongalaxy: (21.Qc5) I'll check with compy after the game
+[19:15:52] Shnippy: this looks very strong
+[19:16:08] Shnippy: hope white can pull this off while low on time
+[19:20:57] urjah: 21...Ne6 maybe?
+[19:26:17] Shnippy: 22...b5 and 0-0 if there isn't a refutation
+[19:37:43] Tranzoo: oh
+[19:37:58] Tranzoo: gg
+[19:37:58] Shampanjasosialisti: crazy
+[19:37:58] nyanners: gg
+[19:38:13] Shnippy: gg
+[19:38:13] Shampanjasosialisti: idk what is happening
+[19:38:13] Shampanjasosialisti: gg
+[19:38:13] Shampanjasosialisti: I think I was lost
+[19:38:13] Shampanjasosialisti: at some point
+[19:38:44] irongalaxy: You actually never were
+[19:38:44] Shampanjasosialisti: wow
+[19:38:44] irongalaxy: Says equal if Bxe4
+[19:38:44] Shampanjasosialisti: after f5 I thought I had to be
+[19:38:59] irongalaxy: Nvm I am actually worse
+[19:38:59] irongalaxy: At least I evaluated that right
+[19:39:14] Shampanjasosialisti: I wasn't even supposed to hang a pawn in the opening
+[19:39:29] irongalaxy: I'm apparently not supposed to take it
+[19:40:00] Shampanjasosialisti: I have Rb8 and then I have Nd5 and Ne3 in my files
+[19:40:00] Shampanjasosialisti: just captured with the Queen without thinking
+[19:40:15] irongalaxy: It worked out for you, Qxf6 is best
+[19:40:30] Shampanjasosialisti: wow, would've taken with g pawn if I could've taken it back
+[19:40:45] Shampanjasosialisti: somehow everything worked out
+[19:41:00] Shampanjasosialisti: whole game I felt like having have to find only moves to not be dead
+[19:41:16] Shampanjasosialisti: e4 was stupid
+[19:41:31] Shampanjasosialisti: if you play the nartura Rhe1
+[19:41:46] irongalaxy: yeah i thought it was giving some chances in practice
+[19:42:01] Shampanjasosialisti: I had pallned 19... f5 but f3 looked terrible for black
+[19:42:01] irongalaxy: yeah
+[19:42:16] irongalaxy: Qg5+ only move to stay level
+[19:42:32] Shampanjasosialisti: I came to that conclusion
+[19:42:32] Shampanjasosialisti: just with process of elimination
+[19:42:47] Shampanjasosialisti: everything else looked outrigght lost
+[19:42:47] Shampanjasosialisti: and that looked just wrose
+[19:42:47] Shampanjasosialisti: apparently it's ok
+[19:43:17] Shampanjasosialisti: engine giving me too much credit this was horrible decision to go to this type of position
+[19:44:03] irongalaxy: i expected 18...Qd6
+[19:44:18] irongalaxy: where i probably take and play Rhe1
+[19:44:18] Shampanjasosialisti: that was my intution move
+[19:44:33] Shampanjasosialisti: I changed to e4 in the last second
+[19:44:48] irongalaxy: you got me out of book early i had some prep vs the taimanov
+[19:44:48] Shampanjasosialisti: I was expecting that as I have played that recently
+[19:45:04] Shampanjasosialisti: What did you have prepped if I may ask
+[19:45:19] irongalaxy: 6. Be3 a6 7. Qf3 Ne5 8. Qg3 h5 9. 0-0-0
+[19:45:34] Shampanjasosialisti: I was considering to play Taimanov first but figured to play Kalashnikov as I've played quite a lot
+[19:45:34] Shampanjasosialisti: haha
+[19:45:34] Shampanjasosialisti: Exactly
+[19:45:34] Shampanjasosialisti: the killer line
+[19:45:49] irongalaxy: yeah i thought your Nc6 stuff was the classical
+[19:45:49] irongalaxy: which youve played against me before
+[19:46:04] irongalaxy: but i didnt look into it
+[19:46:20] Shampanjasosialisti: 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 Ne5 8. Qg3 h5 9. Nf5
+[19:46:20] Shampanjasosialisti: also interesting
+[19:46:50] Shampanjasosialisti: Yeah when we started I saw that we had played a game
+[19:46:50] Shampanjasosialisti: But I didn't remember what I had played
+[19:48:21] Shampanjasosialisti: oooh wow
+[19:48:21] Shampanjasosialisti: 14. Qe3
+[19:48:21] Shampanjasosialisti: possible
+[19:48:36] Shampanjasosialisti: I kind of have to trade Queens and I'm just down a Pawn
+[19:49:07] Shampanjasosialisti: probably holdable for Black but must be unpleasent
+[19:50:38] Shampanjasosialisti: Bxd5 also only one
+[19:50:53] Shampanjasosialisti: I was heavily considering f5?? but figured Bxa6 is a problem
+[19:54:26] irongalaxy: Bxd5 was the only move
+[19:54:26] irongalaxy: That I knew during the game
+[19:54:56] irongalaxy: Actually my Bd3 idea was even better instead of Nd5
+[19:55:12] irongalaxy: e4 pawn doesn't drop
+[19:57:13] Shampanjasosialisti: right
+[19:57:13] Shampanjasosialisti: I would've definitely taken on g2 afterwards
+[19:57:28] Shampanjasosialisti: then probably 0-0-0 Qg5+
+[19:57:44] Shampanjasosialisti: yikes f4
+[20:00:01] irongalaxy: i was looking at f4 ideas too
+[20:00:16] irongalaxy: anyway i have to run
+[20:00:16] irongalaxy: interesting game, well played
+[20:00:31] Shampanjasosialisti: 21. Bxe4 fxe4 Rxe4+ Kf7 Rexd4 looks quite hard position for Black
+[20:00:46] irongalaxy: you have Qg1 ideas
+[20:00:46] irongalaxy: so i dont just win the piece bac
+[20:02:33] Shampanjasosialisti: Yeah
+[20:02:48] Shampanjasosialisti: I was afraid of Bishop/Rook sacrifices
+[20:03:49] Shampanjasosialisti: I was looking Nf3 and Ne6 for a while but I don't think it works
+[20:03:49] Shampanjasosialisti: Oooh
+[20:04:04] Shampanjasosialisti: 21... nf3 and then Bxe4 works
