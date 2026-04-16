@@ -1,0 +1,39 @@
+Lichess game chat log
+Game      : https://lichess.org/KZwIk0vg
+White     : ponderinsilence
+Black     : reelrunner
+Time      : 45+45
+Captured  : 2026-04-16 03:24:13 UTC
+Game ended : 2026-04-16 02:04:10 UTC
+Messages  : 29
+────────────────────────────────────────────────────────────
+
+[00:03:12] PonderInSilence: (7...O-O) Bd6 and O-O are different than Reelrunner's last Caro Kann game
+[00:07:46] bufferunderrun: let's go ponder!
+[00:25:31] PonderInSilence: (12.d5) Not sure whether that was correct or not, but it was the one move that stood out
+[00:26:01] PonderInSilence: (12.d5) I am not a fan of where my King is, but I don't think I can stand here and let the Black pawns march forward
+[00:35:09] bufferunderrun: dxc and Bc5 looks good ig
+[00:48:20] bufferunderrun: Bc5 looked better, since Bxf4 comes with a check
+[01:32:43] bufferunderrun: 21...Bxf3 perhaps
+[01:36:01] bufferunderrun: Rxe3 looks forced now, since white needs to prevent Be4
+[01:37:17] bufferunderrun: but now Rxe3 Qxe3 Bxd1, exchange down
+[01:38:03] nyanners: yea just winning.. of sorts
+[01:39:34] nyanners: i dont like d5 too much but it makes sense. id just go with g3
+[01:39:34] nyanners: (12)
+[01:42:52] nyanners: its just like, d5 seems quite principled, but double-edged in a way that feels more dangerous for white than for black
+[01:43:22] nyanners: like now. 25..Rxd4 and all
+[01:43:22] PonderInSilence: (25.Qf4) Rxd4....
+[01:43:53] nyanners: does white resign :o
+[01:44:54] nyanners: no resigning before black actually plays it, of course
+[01:45:09] nyanners: there we go
+[01:45:39] nyanners: id be kinda tempted to trade queens if the kingside mass didnt look so scary
+[01:45:39] bufferunderrun: Qf1 seems alright ig
+[01:46:25] nyanners: yea Qf1 is natural. this one.. is not good
+[01:46:25] bufferunderrun: this just runs into Bg6
+[01:47:11] bufferunderrun: gg
+[01:47:11] PonderInSilence: (26...Bg6) I missed that easy one...
+[01:48:27] nyanners: the play is to take and immediately resign, so the opponent gets startled
+[01:49:12] bufferunderrun: Qxb5, Rd1 or Qd6, everything basically works
+[01:49:27] nyanners: rd1 into qb5 i like
+[02:03:40] nyanners: i like this. not taking the bishop, and rook in front is safe
+[02:03:40] nyanners: gg
