@@ -1,0 +1,30 @@
+Lichess game chat log
+Game      : https://lichess.org/pE91BTFn
+White     : ivanhomeless
+Black     : skulm93
+Time      : 45+45
+Captured  : 2026-04-16 17:21:10 UTC
+Game ended : 2026-04-16 16:01:05 UTC
+Messages  : 20
+────────────────────────────────────────────────────────────
+
+[14:27:00] Leverkuhn: Skulm in the house!
+[14:27:15] Leverkuhn: tactics are in the air after White didn't break the pin
+[14:27:45] Leverkuhn: 9...d4 10.exd4 exd4 11.Nxd4 Qe5--does that win for Black?
+[14:28:16] Leverkuhn: hmmm 12.a3 might have saved White
+[14:31:49] Leverkuhn: we see 9...e4 instead also attempting to punish White
+[14:33:20] Leverkuhn: 10...exd3 11.Bxd3 dxc4 12.Bxc4 Ne4 and the pin remains very scary for example
+[14:34:52] Leverkuhn: another idea for Black is ...Qc7-e5-g5, which will force kingside weakening now that ...e4 has ejected the knight from f3
+[14:37:39] Leverkuhn: 11...Nc5 played too quickly imo; this has serious implications in that after an eventual a2-a3 we're going to have to give up the good bisho
+[14:38:55] Leverkuhn: I would have preferred 11...Qe5 I think, part of the point being that a3 will be met by ...Bd6 again provoking kingside weakening
+[14:41:58] Leverkuhn: Okay White allowed Black to claim the bishop pair, but has completed development nicely
+[14:43:29] Leverkuhn: The c8 bishop isn't exactly setting the board on fire yet, so the position is a litte tricky for Black to play
+[14:43:59] Leverkuhn: Maybe 14...dxc4 so that we don't end up with an isolated d-pawn
+[14:44:15] Leverkuhn: maybe 14...Qe5!? still an idea as mentioned above
+[14:45:16] Leverkuhn: oof after 14...Qc7, the c1 rook will have a conversation with Black's queen
+[14:45:16] Leverkuhn: errr 14...Bd7?!
+[14:46:16] Leverkuhn: 15.Nxd5 wins a pawn; 15.cxd5 Bxc3 might not, but still dangerous for Black on the long diagonal
+[15:18:59] Leverkuhn: I like this exchange sacrifice, getting some intiative back in case of 21.Nxe8 Rxe8
+[15:19:45] Leverkuhn: probably White won't take but will sidestep with the king
+[15:21:32] Leverkuhn: oops, Black missed that 22.Nxf6+ is check
+[15:21:47] Leverkuhn: one good intermezzo deserves another, and Black will have to concede
