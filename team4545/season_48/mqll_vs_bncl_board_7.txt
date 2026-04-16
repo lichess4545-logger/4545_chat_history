@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/wSTC0KJc
+White     : mqll
+Black     : bncl
+Time      : 45+45
+Captured  : 2026-04-16 14:46:47 UTC
+Game ended : 2026-04-16 13:26:43 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[12:50:27] bncl: not sure if greek gift is working for me here, I don't think I've ever pulled it off before (move 19)
+[12:55:46] omertil: Seems killer...
+[12:58:18] omertil: But, yeah, hard to see the continuation after 21.Kg3
+[12:59:34] Joonaf: Go bncl!
+[13:02:37] Joonaf: Do I remember right that ..e4 is needed for the greek gift to work?
+[13:03:07] Feet_Barbie: (19...Bxh2+) i think you cant always base it off memory, like this position is so much different
+[13:03:23] Feet_Barbie: (19...Bxh2+) shouldnt work becayse of e4 though maybe
+[13:03:38] Feet_Barbie: (19...Bxh2+) usually e4 is needed cos theres no nf3 stuff but white doesnt also have that knight
+[13:03:53] Feet_Barbie: (19...Bxh2+) but never seen a greek gift with a rook on c4 for example ahah that could affect things in some positions
+[13:04:24] Feet_Barbie: (19...Bxh2+) yeah but also f4 is a move you re right
+[13:04:39] Feet_Barbie: (19...Bxh2+) kxh2 ng4 qg5 f4
+[13:05:09] Joonaf: Yeah, it's not as simple. I just remember some position where as white pawn on e5 was needed to restrict black from defending
+[13:05:40] Feet_Barbie: (19...Bxh2+) yeah that def usually blocks the f pawn and the knight
+[13:05:40] Feet_Barbie: (19...Bxh2+) advance french etc
+[13:05:55] Feet_Barbie: (19...Bxh2+) i dont think this one works but there are chances
+[13:08:27] Feet_Barbie: (20.Kh1) well this works now
+[13:08:42] omertil: Oh, one does not refuse the Greek Gift...
+[13:08:58] bncl: assumed bishop would be taken
+[13:09:13] Feet_Barbie: (20.Kh1) never trust your opponent s calculation
+[13:11:14] Joonaf: I never trust my calculations
+[13:14:17] Feet_Barbie: (21.Rfd1) bg3 bxf2?
+[13:14:32] Feet_Barbie: (21.Rfd1) xd
+[13:14:47] Feet_Barbie: (21.Rfd1) take my bishoppp
+[13:15:03] Feet_Barbie: (21.Rfd1) but maybe just keep the bishop there king is trapped
+[13:15:03] Feet_Barbie: (21...Qe5) ng4 and stuff
+[13:26:43] Joonaf: ggwp!
+[13:26:58] tomb85: Ggs
+[13:27:28] Joonaf: I was looking at 23..Bg1+, Kxg1, Qh2+, Kf1, Qh1+, Ke2
+[13:27:43] Joonaf: but you found a better move
+[13:32:02] omertil: gg
