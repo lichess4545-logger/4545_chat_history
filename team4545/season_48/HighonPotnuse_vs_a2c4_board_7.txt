@@ -1,0 +1,49 @@
+Lichess game chat log
+Game      : https://lichess.org/m9DYdm0s
+White     : highonpotnuse
+Black     : a2c4
+Time      : 45+45
+Captured  : 2026-04-16 20:51:08 UTC
+Game ended : 2026-04-16 19:31:04 UTC
+Messages  : 39
+────────────────────────────────────────────────────────────
+
+[17:06:42] HighonPotnuse: 3. b4 (obi-wan) benoni structure for white
+[17:11:46] a2c4: probably not a good move by me there
+[17:14:49] a2c4: I am wondering why my opponent is taking a while to think. Maybe I am not playing the standard lines for this opening
+[17:15:35] Inter-temporal: (5) (5...Nf6) go HighonPotnuse!
+[17:15:50] Inter-temporal: (5) (5...Nf6) i have to be mobile soon, but i'll be checking in
+[17:29:47] a2c4: probably taking with the pawn on c6 if he goes that way
+[17:31:49] a2c4: cxb7 was a huge threat
+[17:33:35] a2c4: I am content with having so much time and not feeling like my position is collapsed
+[17:34:51] nyanners: a fair evaluation
+[17:36:53] a2c4: was considering a crazy idea with qh6
+[17:37:23] a2c4: or saccing the knight on f2 but those kinds of moves have messed things up in the past
+[17:39:25] a2c4: wondering what to do about ba3
+[17:42:43] HighonPotnuse: 10. Na3 happy enough with my position, tired so possibly missed something but got the bishop pair, no big weaknesses and a target on c6
+[17:49:49] a2c4: now if ba3 just c5
+[17:52:52] a2c4: If I can get to castle, this position becomes a lot easier
+[17:55:39] Inter-temporal: 12...c5
+[17:56:10] Inter-temporal: might be helpful to fiachetto lsb
+[17:56:55] Inter-temporal: nice
+[18:15:27] a2c4: at least the a pawn seems poisoned
+[18:16:43] a2c4: if he takes the a pawn it looks like a queen trap
+[18:17:29] HighonPotnuse: 16.... Rab8 a7 unprotected now as well, dexd3 Bxa8 Rxa8 might have been better for black to get rid of whites lsb
+[18:18:30] a2c4: still eyeing the queen
+[18:20:31] a2c4: the position, despite being a pawn down, feels not so bad
+[18:21:32] Bpack: Rb8 with tempo feels not so bad :)
+[18:22:33] a2c4: perhaps I will come out winning the c pawn soon to even it up
+[18:31:27] HighonPotnuse: 21. Qf4 looking at Nh5, Qc1, Rab6, Nxd4?
+[18:31:27] a2c4: my first instinct was nxc4 right away but what about nh5?
+[18:43:53] HighonPotnuse: 24. Nb5 should have gone Nc2 this gives 2 pieces and a rook for the queen, we'll see if black goes for that
+[18:46:55] a2c4: i was wondering about taking the knight and playing a queen down, but I don't feel too confident in that
+[18:47:26] a2c4: 24... nxb5 rxd6 bxd6
+[18:58:51] a2c4: oops
+[19:01:53] HighonPotnuse: 32. Qxa7 lsb got the a8 queening square sorted just need to stop blacks pawn i guess
+[19:25:44] Inter-temporal: (41) (41...Qe4) i think 42.Bd3 could backfire?
+[19:26:45] Inter-temporal: (42) (42.Qd3) better indeed
+[19:29:17] HighonPotnuse: 44. Rxc2 pressure is off a bit now
+[19:29:32] Inter-temporal: (44) (44...g6) is the N toast?
+[19:30:48] Inter-temporal: (46) (46...Re7) oh. but the K is not in the square, yeh?
+[19:31:04] Inter-temporal: (47) gg
+[19:31:34] Inter-temporal: (47) honestly, i wuz hopeing to see black trade all the pawns and test white with B+R v R
