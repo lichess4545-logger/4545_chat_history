@@ -1,0 +1,107 @@
+Lichess game chat log
+Game      : https://lichess.org/bh7b6ZIH
+White     : genturgidson
+Black     : whitetpo1son
+Time      : 45+45
+Captured  : 2026-04-16 19:40:21 UTC
+Game ended : 2026-04-16 18:20:16 UTC
+Messages  : 97
+────────────────────────────────────────────────────────────
+
+[16:02:42] GenTurgidson: 1...Nf6 Already out of theory! Well, might as well be. Had totally prepared for e5.
+[16:03:28] Minot: go genturgidson!
+[16:03:58] GenTurgidson: We'll just tanspose it into something Nimzo-ish I guess?
+[16:06:00] GenTurgidson: Maybe Catalan? Memory isn't 100 on these lines. I'll just play.
+[16:21:14] GenTurgidson: 5.cxd5. Couldn't make any Nd4 or Ne5 supporting Qa4+ tactics work because of pawn pushes. I think takes seems most sane.
+[16:21:29] GenTurgidson: I felt like there might have been something hence the long think.
+[16:24:32] GenTurgidson: 6.Qa4+ Nc6 7.Ne5 Looks like some sort of attack but not very convincing and d pawn rolls.
+[16:26:04] GenTurgidson: Although 6.Qa4+ Nc6 Nd4 looks threatening.
+[16:29:22] GenTurgidson: 6.Qa4+ Nc3 Nd4 Bxc3 Nxc6 Bxc6 Qxc6+ Bd7 Qxc3 is the line I'm kind of hoping for. Probably rubbish.
+[16:30:38] GenTurgidson: I'm probably too under developed to be playing like this. As soon as I inveitably trip up and loose the tempo, I'm getting crushed.
+[16:32:24] GenTurgidson: Yep... underestimated the simple defensive strength of Bd7 here.
+[16:35:12] GenTurgidson: Hard to calculate but I think it's holding together maybe.
+[16:37:59] GenTurgidson: 8...Bd7 Nxd8 Bxa4 Bxc3 but there's also Bxd2+ as an intermezzo at some point, but just Bxd2 back. I really don't know.
+[16:44:51] RPCX: what happens after 8...bxd2 9 bxd2 qd7?
+[16:49:10] bufferunderrun: let's go!
+[16:55:00] GenTurgidson: 10.Nxb7 looks tempting, Bb4 threatens to trap it but can I just start kicking the bishops with pawns?
+[16:58:33] GenTurgidson: 10. Nxb7 Bb4 a3 and I cut out an escape I think. I don't think Rb8 scares me all that much.
+[17:03:07] GenTurgidson: I don't really want him to get Bb6.
+[17:04:24] bufferunderrun: I think bxc instead of Nxb7 was better
+[17:05:40] GenTurgidson: The obvious e3 Bb6 b3 with Ba3 idea doesn't work because after b3 the LSB goes to c6. Otherwise it would be a cool escape.
+[17:06:56] GenTurgidson: I think Na5 must be played.
+[17:08:27] GenTurgidson: Wait... e3, Bb6, b4 perhaps?
+[17:09:43] GenTurgidson: Damnit... might have missed Bxb2 sacrifice.
+[17:10:14] GenTurgidson: No it's fine I think. Bx Bx Rb8. No ideal perhaps but playable.
+[17:10:44] GenTurgidson: could also hit back with Nc5 potentially in that line.
+[17:12:46] GenTurgidson: Interesting bishop sacrifice. Idea is clear. Is it sound?
+[17:13:16] GenTurgidson: He wants exd4 Re8+ Be2 then Bb5 or something like that.
+[17:14:02] GenTurgidson: What if I just kick a4 bishop immediately with b3? Will shut up now because of low time.
+[17:17:51] GenTurgidson: Let's... not.
+[17:19:07] RPCX: now white can play d4 instead of b4 I think
+[17:19:52] RPCX: oh bxd4
+[17:20:53] GenTurgidson: Never considered Rb8 first. I guess he made time for that.
+[17:21:39] RPCX: ba6 and d4
+[17:22:09] GenTurgidson: Losing a pawn and inviting a rook to my 2nd rank. Bit annoying.
+[17:24:26] GenTurgidson: Considered 16.Bd1 but 9 seconds.
+[17:24:42] GenTurgidson: Time is not really the factor here.
+[17:25:27] GenTurgidson: I would be reasonably happy with Bxb3 axb3 Rxb3 Rxa7 I think.
+[17:26:13] GenTurgidson: Most likely his knight is going to get involved now perhaps on e4.
+[17:28:00] GenTurgidson: Although Ne4 Bf3 with his dangling d5 maybe after the exchanges it's playable.
+[17:29:46] GenTurgidson: I think if I played well the position isn't lost.
+[17:33:50] GenTurgidson: Oops...  would have been quite happy if that d pawn didn't remain protected.
+[17:35:36] GenTurgidson: 22...Bb3 I just play Rb1 I think.
+[17:35:51] GenTurgidson: That forces an exchange of rooks.
+[17:36:52] bufferunderrun: looks kind of lost for white
+[17:39:09] bufferunderrun: Idk a5 looked better than c4
+[17:40:41] GenTurgidson: Now Bb3 should be good and playable for him probably. No forced rook exchanges because his king has escape squares.
+[17:42:42] GenTurgidson: Does the tempting 27.Bxd5 run into c3 issues?
+[17:42:42] GenTurgidson: Do I use this tempo just to play Ke1?
+[17:43:43] GenTurgidson: I think it's fine because after dx my rook covers the bishop.
+[17:44:44] GenTurgidson: Kind of forgot I have to take that threat seriously.
+[17:46:00] bufferunderrun: now is the time to figure out whether c3 works or not
+[17:46:15] RPCX: isn't the endgame after the pawn and b trade drawn?
+[17:47:01] GenTurgidson: I sense some drawishness coming potentially.
+[17:47:16] bufferunderrun: if c3 doesn't work, then Rxd2 and it should be a draw, unless someone blunders
+[17:48:17] RPCX: isn't the b endgame more drawish than the rook one?
+[17:49:03] GenTurgidson: Draw offer rejected - respectable.
+[17:49:48] bufferunderrun: it's the same colored bishops, but a1 is a dark square, so more drawish
+[17:52:21] RPCX: it would be so funny if white won now
+[17:53:52] GenTurgidson: 36.g3 g4 if he locks his pawns on light squares this could even be good for me, but my white bishop has to babysit the a file pass.
+[17:54:53] RPCX: I feel like 35 h4 would have been cleaner just trade two sets of pawns and sack you're b for the third
+[17:56:24] RPCX: why is this man so determined to give me anxiety
+[17:57:10] GenTurgidson: Saw Bc2 a bit too late...
+[18:05:33] bufferunderrun: Bf1 looked better
+[18:06:49] jdannan: Missed a trick with Bd1+ and Kg4 maybe
+[18:07:20] jdannan: move 48 that was for black
+[18:08:05] bufferunderrun: Kd4 made more sense, since this would also stop any Be4
+[18:08:20] GenTurgidson: His bishop positioning is clever. I need to be so careful. Not sure if this is as draw as I thought.
+[18:08:51] GenTurgidson: No should be drawn I think. When h pawn runs I just sac the bishop. Play Ke5 now.
+[18:09:21] GenTurgidson: Wait no... He has Bg4
+[18:09:37] bufferunderrun: 53...Be4 maybe
+[18:09:52] bufferunderrun: black queens first
+[18:10:38] bufferunderrun: now it should be a draw after Bxf5
+[18:10:53] bufferunderrun: Bg4 Be4
+[18:11:54] jdannan: h3 h2 and bf3 and...
+[18:14:11] GenTurgidson: I might have found something. If Bg4 now I have Be4 but I don't know. I think it's lost.
+[18:14:56] jdannan: I don't see any plan for white
+[18:15:12] bufferunderrun: yeah
+[18:15:12] bufferunderrun: this is lost for white
+[18:15:27] jdannan: can't even start to push teh pawn
+[18:15:57] GenTurgidson: Yeah, there's not really a way to dodge out of it.
+[18:16:28] GenTurgidson: Bh1 there's Bf3
+[18:17:29] GenTurgidson: He will know how to convert this queen vs pawn endgame, at least I hope haha. I've made it slightly easier for him.
+[18:18:14] jdannan: oh great another 10 moves of slow-motion triviality
+[18:18:30] jdannan: well at this point I'll say gg
+[18:18:45] GenTurgidson: I could have chose a different line to the same queen vs pawn endgame but with my pawn running more dangerously.
+[18:18:45] GenTurgidson: But still dead won of course.
+[18:20:01] GenTurgidson: GG, very well played.
+[18:20:16] GenTurgidson: Thank you very much for the game and congrats on winning again.
+[18:20:31] bufferunderrun: gg
+[18:22:03] whitetpo1son: for some reason I thought I had a tactic to win the bishop if he took d5 around move 26 let him back into the game
+[18:22:33] whitetpo1son: I purposfully kept bishop instead of rooks cause I liked my chances
+[18:23:19] GenTurgidson: Ah, he was always going to get that pawn rolling blocked by his LSB, I had to roll mine also.
+[18:24:35] whitetpo1son: I liked my chancesw going a pawn down early with extra development
+[18:26:06] whitetpo1son: i missed d3 bxd3 and be3 recource if you took my bishop
+[18:27:07] GenTurgidson: Wow - I should have taken that bishop apparently.
+[18:27:52] GenTurgidson: I saw exd4 Bb5 d3 but after Bxd3 I stopped thinking because that looked bad. Should have just played Be3 after.
+[18:28:08] GenTurgidson: I knew there might have been some escape but had no time to think.
