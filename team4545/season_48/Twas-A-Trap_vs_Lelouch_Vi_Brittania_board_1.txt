@@ -1,0 +1,37 @@
+Lichess game chat log
+Game      : https://lichess.org/hs8D6H1C
+White     : twas-a-trap
+Black     : lelouch_vi_brittania
+Time      : 45+45
+Captured  : 2026-04-17 19:52:46 UTC
+Game ended : 2026-04-17 18:32:42 UTC
+Messages  : 27
+────────────────────────────────────────────────────────────
+
+[16:12:26] Lelouch_Vi_Brittania: (14...Ra5) yay, I actually get my prep on the board
+[16:16:15] Lelouch_Vi_Brittania: (14...Ra5) the critical line is 15.Nd6 Bxc1 16.Qxc1 Nf2 17.Rxf2 Qxf2 18.Qg5! then we get an unclear endgame after Qf6
+[16:21:50] Lelouch_Vi_Brittania: (14...Ra5) 15.Nd2 cxd5 16. Nxd5 is also playable but very risky
+[16:36:32] ysgwydd: (16.Bxe3) Both were blitzing until 15.b4
+[16:39:50] Lelouch_Vi_Brittania: (17.Qxb3) its either Qd4 or Qd8
+[16:42:07] Lelouch_Vi_Brittania: (17.Qxb3) ok Qd4 Rf4, so not that one
+[16:42:37] Lelouch_Vi_Brittania: (17.Qxb3) i can also just play Qxb3
+[16:47:42] Lelouch_Vi_Brittania: (17...Qd8) white was too active in the endgame after like 17...Qxb3 axb3 Rxa1 Rxa1 cxd5 Nd6
+[16:48:27] Lelouch_Vi_Brittania: (17...Qd8) keeping queens just has to be right with my good knight on e3
+[16:59:22] Lelouch_Vi_Brittania: (18...cxd5) i don't see the point
+[17:14:35] Lelouch_Vi_Brittania: (19...Nc6) the pawn on d5 does a nice job restricting those knights, so let's keep it there at least for a second
+[17:15:05] Lelouch_Vi_Brittania: (19...Nc6) 20.d4 g5 is my other point
+[17:53:23] Lelouch_Vi_Brittania: (26...Nd4) maybe 24...Qf2 was winning who knows. this also looks good though
+[17:55:40] Lelouch_Vi_Brittania: (26...Nd4) 27.Kg1 Rc8 28.Kf2 Rxc3 for example
+[18:04:33] Grzybozbur: the rooks will come off and it looks okayish for white, no?
+[18:12:40] nyanners: hard to say
+[18:13:11] nyanners: some black initiative remaining for sure
+[18:14:27] Grzybozbur: i mean with rooks on, sure
+[18:26:22] Grzybozbur: ok, now trade and the pawn endgame is lost
+[18:26:52] Grzybozbur: because the white king is tied to the kingside
+[18:29:55] SycoraxCirce: 42... f5 just played, looks like a good choice to me
+[18:32:27] ysgwydd: gg
+[18:33:13] nyanners: gg
+[18:33:43] Lelouch_Vi_Brittania: ah 24...Qf2 Bf1
+[18:34:44] Lelouch_Vi_Brittania: and I overestimated the endgame after 26..Nd4 somewhat
+[18:34:59] Lelouch_Vi_Brittania: Nf1 is strong and important
+[18:38:47] SycoraxCirce: gg
