@@ -1,0 +1,60 @@
+Lichess game chat log
+Game      : https://lichess.org/o0qqXoBl
+White     : bortvinik
+Black     : hpors
+Time      : 45+45
+Captured  : 2026-04-17 12:05:40 UTC
+Game ended : 2026-04-17 10:45:36 UTC
+Messages  : 50
+────────────────────────────────────────────────────────────
+
+[10:07:18] SirNyquist: (6) Seems a premature advance
+[10:11:06] Tranzoo: Go Bortvinnik! I like spirit
+[10:32:09] Parmon: Go candidudes!
+[10:38:30] Parmon: (15...Qd7) i like White's attacking prospects. 16.Rae1 seems good, with ideas of Ne5 and maybe taking on d5 after trades on e7
+[10:39:31] Parmon: Nf5 is annoying though
+[10:39:31] King12-life: (15... Qd7) After 16... Nf5, attacking won't be easy
+[10:41:02] Parmon: yeah it seemed much better without the Nf5 resource
+[10:41:48] Parmon: now, i guess, there's no mate, but white can still pretend there is
+[10:42:18] King12-life: (17... Bf6) 18. Qh7+ Kf8 19. Rxf6 might work
+[10:42:18] JEEprep2374: (17...Bf6)  Is Qh7+ Kf8 Rxf6 possible here
+[10:42:33] King12-life: :D
+[10:42:33] Parmon: i don't see what's after Qxf6
+[10:42:48] JEEprep2374: (18.Qh7+) probably not actually LSB defends
+[10:43:04] King12-life: But then 19. Rf1 Qd4+ 20. Kh1 Re7 and it's not clear, 21. Ne2 and 22. Nf4 could work idk
+[10:43:34] Parmon: (19.Nae1) oh, nice, the knight isn't hanging actually
+[10:43:34] Tranzoo: oh right the kniwght isnt hanging
+[10:43:34] JEEprep2374: (19.Rae1)  Ohh black cant take the knight
+[10:43:34] King12-life: (19. Rae1) 19... Bd4+ and 20... Qxg5 ?
+[10:43:34] Tranzoo: heh, yeah
+[10:43:49] King12-life: Oh and then 21. Rxe6
+[10:43:49] King12-life: Wow
+[10:44:05] JEEprep2374: (19.Rae1) Imma be honest Bort is playing better than I would here
+[10:44:20] JEEprep2374: (19.Rae1) given the amount of time spent
+[10:44:35] Parmon: oh
+[10:44:50] King12-life: Oh well
+[10:44:50] Tranzoo: oooo
+[10:44:50] King12-life: gg
+[10:44:50] Tranzoo: gg
+[10:44:50] Parmon: gg
+[10:44:50] JEEprep2374: (19...Bxg5) gg
+[10:45:05] Tranzoo: thats kinda funny how so many of us in the chat didnt notice its not hanging
+[10:45:05] Tranzoo: and neither did black
+[10:45:21] King12-life: I mean Bd4+ and Qxg5 was winning the knight
+[10:45:21] King12-life: But there was Rxe6
+[10:45:21] King12-life: sooo
+[10:45:51] King12-life: It wasn't that easy
+[10:45:51] Parmon: i wonder if @Bortvinik saw it up to Rxe6 or blundered
+[10:47:07] Parmon: also curious if 6.f5 and 7.fxg6 were prep
+[10:47:53] JEEprep2374: I wouldn't play f5 in 4 seconds without it being prep TBH
+[10:48:08] Bortvinik: yeah that was prep
+[10:48:38] JEEprep2374: fxg6 too?
+[10:48:53] Bortvinik: i noticed hpors plays this system a lot so picked up a few engine moves, though i think it should have been fxd6?
+[10:49:09] Bortvinik: misremembered it
+[10:49:09] Parmon: it's just that 7.fxg6 turns out to be so bad, according to the engine
+[10:49:39] Parmon: but black would have to not castle after that, i guess
+[10:50:09] Parmon: or castle long
+[10:50:55] Bortvinik: it was a pretty forcing position, i had Rxe6 but didn't know there was forced mate
+[10:51:10] Bortvinik: just felt right in my bones
+[10:53:12] Parmon: well, great game! must be very satisfying to get that after playing grand prix
+[10:53:27] Bortvinik: thanks mate!
