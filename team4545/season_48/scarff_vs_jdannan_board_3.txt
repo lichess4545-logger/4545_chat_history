@@ -1,0 +1,106 @@
+Lichess game chat log
+Game      : https://lichess.org/CLhwvtUQ
+White     : scarff
+Black     : jdannan
+Time      : 45+45
+Captured  : 2026-04-17 16:16:04 UTC
+Game ended : 2026-04-17 14:56:00 UTC
+Messages  : 96
+────────────────────────────────────────────────────────────
+
+[13:07:06] jdannan: (9.Nbd2) unusual Bd3 move
+[13:13:57] jfiras: Goo Scarff !
+[13:14:28] Scarff: I looked at this a bit before the game. Unsure if the move here was Qc2 or Qe1, but both seem fine
+[13:14:28] jfiras: fantasy, this will be interesting
+[13:14:43] Scarff: maybe other options entirely too. But I think unpinning the knight is useful. Not sure yet where the c1 bishop goes
+[13:22:35] Scarff: Bxf3 doesn't feel like the most testing move to me. I like this
+[13:25:23] jdannan: (12...b5) Ne3-f5 looks a bit awkward
+[13:30:43] Scarff: I think black might get some activity with Bb6 on the diagonal to my king
+[13:31:13] Scarff: But I hope that Nf4 Qh4 or g3 and also the bishop and rook on the kingside, should be more danger
+[13:31:13] jdannan: (13...g6) desperate measures
+[13:35:32] Scarff: Not unhappy to just put my knight on c2, solidify d4 and opens up my bishop
+[13:36:03] Scarff: and g6 feels very weakening with the bishop on c7 away from the kingside for now
+[13:39:05] kinG_Hunter-1: I think White needs to put pressure on the knight on f6. Moves like Bg5 and Qh4
+[13:39:51] kinG_Hunter-1: move g6 looks like a weakening of the dark squares
+[13:43:24] jfiras: (16.Qh4) nice
+[13:43:40] sphynx: (16.Qh4) Nd5 now?
+[13:44:10] kinG_Hunter-1: You can also add the move Rf1 and it seems that black's position is not very good.
+[13:44:25] sphynx: (16.Qh4) but what if 16...Nd5 now?
+[13:44:41] Scarff: Feels like this is a winning attack, if you ask stockfish
+[13:45:11] jfiras: (16.Qh4) Nd5 exd5?
+[13:45:11] Scarff: and my moves seem somewhat straight forward, Rf1, Ne3, maybe Rh3
+[13:45:26] jfiras: (16.Qh4) nah nvm
+[13:45:41] jfiras: (16...Nd5) i think that's a good move
+[13:45:41] sphynx: (16...Nd5) nice, let's see how White solves this
+[13:46:27] Scarff: ah dang, missed that this tactic works with my bishop attacked now :/
+[13:46:27] kinG_Hunter-1: Rh3 seems to solve white people's problems
+[13:47:13] Scarff: shouldn't have allowed this...
+[13:47:28] kinG_Hunter-1: I think the whites have already won
+[13:48:59] kinG_Hunter-1: But black has the move Nf6 to Rh3
+[13:49:15] kinG_Hunter-1: How did I miss this move?
+[13:49:45] sphynx: (16...Nd5) and just h5 also defends against the mate threat
+[13:50:16] jdannan: (17.Rh3) oh that's interesting
+[13:50:31] kinG_Hunter-1: And it turns out that Rh3 wins, I just miscalculated the position in my analysis
+[13:50:31] sphynx: (17.Rh3) maybe g4 after h5 though
+[13:50:46] Scarff: at least with Rh3 I can force Nxe7 I think, which still looks a bit clumsy for black
+[13:51:32] jdannan: (17...h5) not sure what it changes ...h3 seems a worse square for the R but ...
+[13:51:32] kinG_Hunter-1: White should probably play Bxe7 and g4
+[13:52:18] jdannan: (18.Bxe7) ah now Qx doesn't work!
+[13:52:33] kinG_Hunter-1: I think white has a better position.
+[13:53:49] Scarff: and also without the DSB's I have less worry about counterplay on the g1-a7 diagonal. So not all bad?
+[13:54:04] Scarff: should still be a strong attack, I think!
+[13:56:06] sphynx: (19.g4) yeah, this looks bad for Black
+[13:56:37] sphynx: (19...Kg7) Nc8 probably, to open the Queen?
+[13:56:52] jdannan: (19...Kg7) losing a pawn at least...
+[13:56:52] sphynx: (19...Kg7) looks ugly though
+[13:57:22] sphynx: (19...Kg7) White can exchange Qs and win a pawn, but I'd probably keep going with the attack and Queens on board
+[14:01:41] sphynx: (21.Qxg4) hm, maybe it's ok now
+[14:01:56] sphynx: (21.Qxg4) Nf6, Rh8
+[14:04:14] jdannan: (21...Rh8) seem to be clinging on a few more moves
+[14:06:15] jdannan: (21...Rh8) and as a bonus I'm not in time trouble yet :-)
+[14:13:37] jfiras: (23...f6) white should move the queen
+[14:13:52] jdannan: (23...f6) ah Qe6....
+[14:15:39] jdannan: (24.Ne3) huh?
+[14:16:09] Scarff: oh no... did I blunder Rg5???
+[14:16:09] jfiras: (24.Ne3) yeah you did :(
+[14:16:24] kinG_Hunter-1: oh(
+[14:17:41] jdannan: (24...Rg5) did my opponent just miss this then?
+[14:20:28] Scarff: okay. Have to play on, try to fight. But this is a very sad oversight. Really frustrating!
+[14:23:46] jdannan: (26.Ng4) pieces rather unhappy still but I'd always rather have a Q than a R
+[14:24:32] Scarff: still have some hope. blacks king is not safe yet, my pieces are still good, so chances to make something of this still
+[14:27:04] Scarff: dang, now missed this too. Should have played R+ first.... :(
+[14:31:53] jdannan: (27...Qe6) think I'm ok now
+[14:39:00] jdannan: (29...Qxe4) Rf7 Kh8 and I'm not sure he really has much
+[14:39:46] jdannan: (29...Qxe4) Nf5 incoming maybe though of course d7 also hangs
+[14:40:01] jdannan: (29...Qxe4) but i'm also up 2 pawns now
+[14:40:16] jfiras: (30.Rf7+) you played really well scarff, it was an unfortunate miss
+[14:40:16] jfiras: (30...Kh8) and it happens
+[14:41:02] jfiras: (30...Kh8) wait
+[14:41:02] jfiras: (30...Kh8) Rh7+ ?
+[14:41:17] jfiras: (30...Kh8) oh no nvm
+[14:41:17] jfiras: (30...Kh8) Nf6+ Nxf6 :'(
+[14:45:36] jdannan: (31...Rd8) cats!
+[14:45:51] jdannan: (31...Rd8) dont' mix well with an eboard!
+[14:46:21] jdannan: (31...Rd8) if I make a completely random move it's a cat kicking a piece
+[14:47:22] jdannan: (31...Rd8) 67o9
+[14:47:38] jdannan: (31...Rd8) or typing in the chat
+[14:47:53] jdannan: (31...Rd8) greedy sods are at least 2h early for dinner
+[14:53:58] jdannan: (32.Nf6) -=[[[[[[[[[[[[[[[
+[14:56:00] jfiras: gg !
+[14:56:00] PaulWithAnS: (34) gg
+[14:56:30] Scarff: Mmmm, sad loss. Felt like I was completely winning, playing a great game, then one moment of carelessness and it's done
+[14:56:45] jdannan: yeah that was a lucky swindle on my part
+[14:57:01] Scarff: Good game James. You defended well and then you did convert where I failed to do so
+[14:57:31] jdannan: I did have the threat in mind when I played f6
+[14:57:31] jdannan: but that's as much credit as I can claim!
+[14:58:17] Scarff: Making threats is good enough sometimes if your opponent is asleep at the board!
+[14:58:32] Scarff: Have to give yourself the chances to win somehow
+[14:59:02] Tranzoo: gg
+[15:02:05] Scarff: After 26.Rf7+ it's still savable... really poor to have two huge blunders in a row :(
+[15:03:36] jdannan: Damn that Nc5 tactic is a well-known theme in this opening and I completely missed it
+[15:03:51] jdannan: eg 11 exd4 and if cxd4, then Nc5
+[15:04:37] jdannan: WHAT?? it doesn't even like my Rg5 move!
+[15:04:52] jdannan: that's nuts
+[15:04:52] Scarff: I had that on the board earlier today, did a bit of prep for the maroczy
+[15:05:53] jdannan: oh it's just that it prefers exd4 first, you cannot take back or I have the same tactic
+[15:05:53] Scarff: I had a way to defend in the end, if I go Rf7+. Apparently you had even better than winning my queen!
