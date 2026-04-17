@@ -1,0 +1,138 @@
+Lichess game chat log
+Game      : https://lichess.org/Ex83VoMi
+White     : rufusson_dufus
+Black     : chatakkuma
+Time      : 30+30
+Captured  : 2026-04-17 15:23:06 UTC
+Game ended : 2026-04-17 14:03:01 UTC
+Messages  : 128
+────────────────────────────────────────────────────────────
+
+[12:03:03] rufusson_dufus: really tired today, so I'm just playing a cookie-cutter system opening. Bxc6...Qe1...Qh4...Qh7# is the plan ;)
+[12:05:35] rufusson_dufus: 8.d3 Nge7 and then black recaptures with a knight on c6
+[12:05:50] rufusson_dufus: I will have to check this later, maybe I should wait for black to play a6
+[12:07:37] rufusson_dufus: briefly considered 9.f5, but then I can't go Ng5, so I think I need d3
+[12:10:24] rufusson_dufus: ah I'm playing too fast, I'm really dog tired, need to focus a bit more
+[12:10:55] rufusson_dufus: I thought I had overlooked 11....f5, but 11....f5?? Ng5 wins immediately
+[12:13:12] rufusson_dufus: if it was my turn, then 12.f5? gxf5 Bh6? Ng6! and I'd lose. So I need to set up something, maybe Qh3 ?
+[12:18:46] rufusson_dufus: black is threatening f5. Mmm.
+[12:19:17] rufusson_dufus: 12.Nb5? Nc8 looks like a waste of time
+[12:20:02] rufusson_dufus: 12.f5 gxf5 Ng5 h6 Nf3 maybe? Not a huge fan of that.
+[12:20:18] sphynx: (11...Bd7) wow, everyone is going Grand Prix nowadays, even Rufus! :)
+[12:20:18] rufusson_dufus: ok maybe I force the h pawn to move.
+[12:20:48] sphynx: (12.Ng5) I just had two Grand Prix games played against me in Menorca Open
+[12:21:49] rufusson_dufus: 12....h5 g4!? but then f6, maybe a bit much
+[12:22:04] rufusson_dufus: my plan A was just to go Nf3 after 12....h5
+[12:23:20] rufusson_dufus: yeah, maybe 12.Ng5? was too slow. My eval after 13.Nf3: -0.4, black has a bishop pair and can play f5
+[12:24:21] rufusson_dufus: wait, I am threatening ... 14.f5 g5 Bxg5!!
+[12:25:37] rufusson_dufus: 13....f5 probably Qg3 ?
+[12:26:08] rufusson_dufus: Instead of 12.Ng5, I should have settled my queenside with Rb1, Ne2, b3, Bb2 or such a maneuver
+[12:26:53] rufusson_dufus: actually I should do that even after 13....f5
+[12:27:08] rufusson_dufus: ok nvm
+[12:28:25] rufusson_dufus: 14.Qh3 f5 doesn't look so great
+[12:28:25] rufusson_dufus: Qe1 is passive, so I guess Qg3 it is
+[12:29:10] rufusson_dufus: 14....Nb4 I have Rf2 or Ne1
+[12:32:58] rufusson_dufus: my eval after 14.Qg3: -0.4, black has the bishop pair, and white's queenside is terrible
+[12:33:29] rufusson_dufus: 14....Qb6 I guess I go Kh1
+[12:35:31] rufusson_dufus: from a distance I thought 15.Nxd4
+[12:35:46] rufusson_dufus: 15.Nxd4 cxd4 Ne2 Rc8 is a problem, mmm
+[12:36:31] sphynx: (14...Nd4) Nd4 -- a classical move in Grand Prix. It's interesting that here it's done with another knight though who traveled far
+[12:37:32] rufusson_dufus: I guess I have the cute 15.Nxd4 cxd4 Nb1!? Rc8 Na3
+[12:38:03] sphynx: (14...Nd4) Bxa4 then, no?
+[12:38:03] rufusson_dufus: 15.Ne1 Bf6 I don't have a good move. Same for 15.Rf2 Bf6
+[12:39:34] rufusson_dufus: my eval after 16.Nb1: -0.6
+[12:40:50] rufusson_dufus: maybe I want my bishop on a3
+[12:41:05] rufusson_dufus: 17.Rf2 Bf6 Qf3 and then I threaten f5, that should be fine
+[12:43:37] rufusson_dufus: b3...Ba3...Ra2...Nd2 maybe? Seems very slow but not clear how black defends that in a sustainable manner
+[12:46:25] rufusson_dufus: I figure I want to play Ba3 anyway, this makes it come with tempo
+[12:46:55] rufusson_dufus: 18....Qc7 Ra2 Rc8? Ba3, maybe even b4
+[12:49:28] rufusson_dufus: but this must still be bad, all my pieces are so passive. eval after 19.Ra2: -0.6
+[12:50:44] rufusson_dufus: ok the alternative is 20.Na3 d5 Nb1!?, but that looks like a waste of time, mmm
+[12:51:45] rufusson_dufus: ah darn, I forgot 20.b4.
+[12:52:45] sphynx: (20...Rh5) what if 21.e5 now?
+[12:53:01] rufusson_dufus: 21.Nd2 is the calm move, but if 21.f5 works I wanna play it
+[12:53:31] rufusson_dufus: 21.f5 e5 fxg6+ fxg6 Rxf8 Bxf8 Nd2, mmm, not that great
+[12:54:47] rufusson_dufus: wait, 21.f5 e5 f6!? Bh8 Nd2, how does black defend d6? But I guess Rg5...Bg4 is a huge threat
+[12:57:19] rufusson_dufus: I thought I had 21....e5 covered, but maybe it's more complicated
+[12:58:05] rufusson_dufus: I'm not outright losing anything but 21....e5 f5 gxf5 Nc4 feels a bit iffy
+[13:00:07] rufusson_dufus: 22.Nf3 and my queen looked low on squares, so Qf3 was the only remaining candidate
+[13:01:38] rufusson_dufus: 23.g3 Be7 g4 Rh4 f5 is so tempting, mmm
+[13:01:53] sphynx: (22...Bh4) Rook on h5 is also somewhat low on squares, I wonder if it's possible to trap it with b4 and g4
+[13:02:08] rufusson_dufus: ah maybe not a good idea
+[13:02:24] sphynx: (22...Bh4) ah, right, there is also h4 square, indeed
+[13:02:54] rufusson_dufus: I figure I want my pawns on light squares
+[13:03:40] sphynx: (24.h3) why?
+[13:04:25] rufusson_dufus: eval after 24.h3: -0.4
+[13:04:56] sphynx: (24.h3) I wonder if Rg8 is a good move, that rook is not doing much but might be useful if g-file opens
+[13:05:57] sphynx: (24...Bc6) ah, nice, Bc6 prepares ...f5
+[13:06:42] rufusson_dufus: 25.g4 Ra5 Nc4 Ra6 f5 looks really nice, mmm
+[13:06:58] sphynx: (24...Bc6) but not sure if it's good
+[13:07:13] rufusson_dufus: 25.g4 Rh4 Qg3 ...Nf3 should win material
+[13:08:14] sphynx: (27.f5) yeah, I think this looks good for White now
+[13:08:29] rufusson_dufus: I'm playing too fast :(
+[13:08:59] sphynx: (27.f5) it's 15 minutes vs 3, and Black is under pressure...
+[13:10:46] sphynx: (27...d5) nice move
+[13:11:47] sphynx: (28.Bxe7) 29.Ne5 is unpleasant though
+[13:13:03] sphynx: (29...Bxd5) loses a pawn I presume?
+[13:13:33] sphynx: (29...Bxd5) after QxB exd RxQ dxc...
+[13:13:49] rufusson_dufus: so I get a piece for a black attack?
+[13:14:04] rufusson_dufus: 30.fxg6+ Kg8 maybe? But nah, that must be terrible
+[13:14:19] rufusson_dufus: alright, I'll take it
+[13:15:35] rufusson_dufus: alright, I just assumed this must be bad somehow
+[13:16:21] sphynx: (30...Kxg6) I don't see how this wins a piece...
+[13:17:06] rufusson_dufus: 31.Qxd5 exd5 Rxe7 dxc4 dxc4 f5 looks like a lot of play for black.
+[13:17:37] rufusson_dufus: 31.Ne5+ Kg7 Qf4 f6 I don't have a good move :(
+[13:19:08] rufusson_dufus: maybe just 31.Qf4 Bxc4 dx4 Qc5. But nah, that doesn't look too good
+[13:19:39] sphynx: (32...dxc4) Qxd5, a pawn is a pawn
+[13:20:09] rufusson_dufus: my eval after 33.dxc4: +0.3
+[13:21:25] rufusson_dufus: actually f5 looks really good, maybe it's more like -0.2
+[13:22:11] Grzybozbur: there's no way this is better for black
+[13:22:26] rufusson_dufus: I guess I can technically defend with 33....f5 c3! dxc3 Re3
+[13:22:56] sphynx: (33.dxc4) Black may just lose on time
+[13:25:44] rufusson_dufus: 34.Kf2 Rad6 mmm, but maybe jusst Ke2 d3+ cxd3 Rxd3 Re3 there ?
+[13:29:02] rufusson_dufus: 37.Kg3 also looked tempting, but I figured black can always play Rg1+ there
+[13:29:47] rufusson_dufus: I figured my rooks belong on the f file, where I can play h4...h5...Rxf7
+[13:31:18] rufusson_dufus: my king is safe on h4! So Kg2 was a mistake :(
+[13:32:50] rufusson_dufus: 40....Rff1 Kg3 and I should be safe
+[13:35:22] rufusson_dufus: darn, this is way more complicated than what I hoped for
+[13:39:56] rufusson_dufus: my king wants to go to b7 now. I allowed way too much counterplay
+[13:42:13] rufusson_dufus: 49....Rg5+ Kd6 Rc1 Rc3 looked fine
+[13:42:43] rufusson_dufus: 50.Rde3+ Kf7 Kd6 Rgd1+ Kc7 Rbc1 Rc1 looks fine
+[13:45:46] rufusson_dufus: thinking about 43.Kb4, mmm
+[13:47:02] rufusson_dufus: ah darn I overlooked 53.Rc3 Rxc5+!
+[13:49:19] rufusson_dufus: I need to be careful of a5+, mmm
+[13:50:35] rufusson_dufus: after a5 I have at least a rook trade with Rc7+
+[13:52:22] rufusson_dufus: 57....Rg1? Rb6+!
+[13:55:09] rufusson_dufus: 62.Rh7 Kd4 b6 Rh2+ Ka3 Kc3 Rc7+ is winning
+[13:55:55] rufusson_dufus: so this should bind the black rook on b8, which must be winning
+[13:57:56] rufusson_dufus: I also have Rh5+ and Rb7 here
+[13:58:57] rufusson_dufus: I am a coward, taking the simple 2v0 pawns rook endgame
+[13:59:13] rufusson_dufus: oh I'm also stupid, Rb5. Obviously. :p
+[14:00:29] rufusson_dufus: 65. Rb5 Rf2+ Ka3 Kc3 I have time for b7 even, Rc5+ always saves
+[14:02:46] rufusson_dufus: 67....Kc7 would have been tricky, maybe I should have played the flashy 67.Rc5+!
+[14:03:01] sphynx: gg
+[14:03:31] rufusson_dufus: gg! Thanks for kibitzing, everyone! Will have a read-through with my analysis. After a long sleep ;)
+[14:06:03] chatakkuma: 33...Rd8 was stupid
+[14:06:34] chatakkuma: I was planning 33...f5 but why did I thought there was Rf1?
+[14:06:34] chatakkuma: what am I thinking
+[14:06:49] chatakkuma: I still got a chance to draw
+[14:07:04] chatakkuma: 44...f5 Rf3 I didn't like
+[14:07:35] chatakkuma: I was planning 46...Rb2+ but then Ke3 is a bit dangerous
+[14:08:05] chatakkuma: I guess 46...Rxc5 Rxf6 b5?
+[14:08:20] chatakkuma: a5 b4
+[14:08:35] chatakkuma: gotta find this in time trouble
+[14:09:06] chatakkuma: I thought 53...Rcxc5 and I can hold this
+[14:09:51] chatakkuma: 16.Nb1 was weird
+[14:10:07] chatakkuma: is this some candidates prep
+[14:10:22] chatakkuma: 10...O-O I regret a lot
+[14:10:37] chatakkuma: Qh4 and I have to defend kingside attack
+[14:10:52] chatakkuma: 10...Qc7 or some other move might be better
+[14:11:23] chatakkuma: why did you play 12.Ng5 13.Nf3
+[14:11:38] chatakkuma: I was considering 13...Qe8 with the idea f5 too
+[14:11:53] chatakkuma: no 13...f5 right away
+[14:12:23] chatakkuma: oh why didn't you play 21.e5?
+[14:12:39] chatakkuma: I thought I was losing after that
+[14:13:09] chatakkuma: 21.e5 dxe Bxf8 Bxf8 fxe5 why is this ok for B
+[14:13:39] chatakkuma: 23...f5 wow
+[14:13:39] chatakkuma: or Be8 or Kg7 or Kg8
+[14:13:55] chatakkuma: surprising
