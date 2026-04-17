@@ -1,0 +1,137 @@
+Lichess game chat log
+Game      : https://lichess.org/z5L2WQtb
+White     : abdulrahman_sayed
+Black     : classicalprac
+Time      : 45+45
+Captured  : 2026-04-17 17:02:44 UTC
+Game ended : 2026-04-17 15:42:40 UTC
+Messages  : 127
+────────────────────────────────────────────────────────────
+
+[13:01:46] EnPriseWithEase: Let's go,  classicalprac!
+[13:02:01] classicalprac: the exchange. a pleasant surprise
+[13:03:17] Warvold: (4.Bd3) Go Abdo!
+[13:05:04] okady: go prac
+[13:16:14] EnPriseWithEase: Let's hope white plays the exchange as successfully as I do. Ha.
+[13:24:37] okady: why didn't white take on move 9 isn't it just a mistake?
+[13:24:52] Warvold: (10...e6) There is some line i know on the caro kann
+[13:25:07] Warvold: (10...e6) Where if you take on f5, it opens the g-file
+[13:25:23] Warvold: (10...e6) And can be quite dangerous
+[13:25:38] Warvold: (10...e6) The black king hides on h8 and you have a good attack
+[13:25:38] okady: the g line open is better for white right
+[13:25:53] okady: or do you get your rook on the g file
+[13:28:25] Warvold: (11.Bb5) It'd have been better for black :)
+[13:28:56] Warvold: (11.Bb5) semi open file in front of the white king, that coulb end badly
+[13:28:56] Warvold: (11.Bb5) Abdo wants to threaten g4
+[13:28:56] EnPriseWithEase: Yeah, not necessarily, it's complicated like Warvold said. I think we're still even here.
+[13:29:11] Warvold: (11.Bb5) Yep, very equal
+[13:29:42] Warvold: (11.Bb5) Even if white manages to play g4 and trap the bishop, I'm not sure it's good because of Nxg4 hxg4 Bxg4
+[13:35:47] classicalprac: 11.Bb5 really regret not trading lsb now. forgot about ne5 and my bishop getting trapped
+[13:38:05] Warvold: (11...Nd7) Hmm
+[13:38:20] Warvold: (11...Nd7) g4 could be interesting now?
+[13:39:51] classicalprac: maybe i can sac my bishop in the future here and salvage something since my queen now has easy access to the king side
+[13:40:52] EnPriseWithEase: Black stll has Be4 and f5. I don't think the bishop is a liability yet.
+[13:52:33] classicalprac: okay looks like that problem was taken care of
+[13:53:18] EnPriseWithEase: That quiets things down.
+[13:53:34] Warvold: (14...bxc6) Yes, quite a lot
+[13:53:49] Warvold: (14...bxc6) There is a small trap
+[13:54:04] Warvold: (14...bxc6) c5 is tempting for black, but the pawn falls to Bd6
+[13:58:54] EnPriseWithEase: Ah, yes
+[13:59:09] Warvold: (15...Re8) Welp, no trap anymore x)
+[13:59:39] EnPriseWithEase: Yes, I understood
+[14:02:12] EnPriseWithEase: If I am white, I am attacking kingside, and if I am black, I am trying to figure out how to play c5. Not sure if either of those is correct.
+[14:03:13] Warvold: (16.Rfe1) e5 looks interesting here
+[14:03:43] Warvold: (16.Rfe1) c5 is a bit hard to play right now, but you could support it with Rc8 maybe
+[14:03:43] Warvold: (16.Rfe1) A bit slower
+[14:04:44] Warvold: (16...Nf6) Let's not forget the bishop :)
+[14:05:45] Warvold: (16...Nf6) Be5? Looks good
+[14:10:04] Warvold: (18.Bxg7) Bxg7 Kxg7 Qf4?
+[14:10:50] Warvold: (18...Kxg7) Funny line, Qf4 Qg5 to trade queens, there is Rxe4
+[14:14:23] Warvold: (20.f3) Position could get dangerous for both
+[14:14:23] Warvold: (20.f3) Yep, f3 does that
+[14:19:27] Warvold: (20...Nf6) h4-g4 would be bold
+[14:20:13] Warvold: (20...Nf6) Nc5 Nd7 Nd3 is interesting too
+[14:20:43] Warvold: (20...Nf6) c5 can't be played after that because of dxc5 Nxc5 Nxc5 Rxc5 Qd4+
+[14:28:51] Warvold: (22.Nb7) Oh, unexpected, does it work?
+[14:29:36] Galfrid: (22.Nb7) spicy move!
+[14:30:07] Warvold: (22.Nb7) Kinda spicy
+[14:30:22] Warvold: (22.Nb7) I like it, even if I'm not 100% sure
+[14:30:22] classicalprac: 22.Nb7 what a blunder.....
+[14:31:23] Warvold: (22...Qc7) Not sure about that
+[14:31:38] Warvold: (22...Qc7) Nd6 threaten f7
+[14:32:39] classicalprac: or wait maybe not hmmm
+[14:33:09] Warvold: (22...Qc7) Nd6 if Re7 g3 e5 dxe5 Nxe5 Rxe5 Qxd6 Rxe7 Qxe7 Kf2
+[14:33:40] Warvold: (22...Qc7) The c8 rook must defend the black queen, else, there is discovery attack
+[14:34:26] EnPriseWithEase: Oh, the discovered attack
+[14:35:57] simonWasHere: Wow, tricky, didn't see that one
+[14:36:43] DavidSifre: Gooo Abdo!
+[14:37:44] EnPriseWithEase: Can black defend against Nd6 then?
+[14:38:45] Warvold: (23...Rxc7) Maybe with e5, in some lines, not sure
+[14:38:45] Warvold: (23...Rxc7) But that's not the way it went
+[14:39:46] Warvold: (24...Rb8) I really like b4 here
+[14:40:31] Warvold: (25.Re2) Not only it defends b2 but prevents c5
+[14:40:31] Galfrid: We could end up with opposite rook batteries here just smashing through opposite sides
+[14:42:03] Galfrid: Black seems rather cramped on all fronts
+[14:43:49] simonWasHere: After c5 black ought to have a decent position
+[14:54:44] EnPriseWithEase: Na4?
+[14:56:30] EnPriseWithEase: Doesn't work here anymore though?
+[14:57:16] EnPriseWithEase: Nb6
+[14:58:02] EnPriseWithEase: Hmm
+[14:58:02] Warvold: (31...Nc5) c4 here?
+[14:58:17] Warvold: (31...Nc5) c4 Nc7 Nb5
+[15:02:20] Galfrid: We guarding d6 now let’s go
+[15:03:52] Warvold: (33...Ne4) c4 now? :)
+[15:12:44] Galfrid: Does 37...Ng3 work
+[15:16:17] Warvold: (38.c4) What was the plan with Ng3?
+[15:16:33] Warvold: (38.c4) c4 is good
+[15:17:49] Galfrid: Well the d5 pawn is the only defender of the knight and is always going to be attacked.
+[15:18:19] Galfrid: If the knight moved then d5-d4 becomes a threat was my idea
+[15:18:34] Warvold: (40...dxc4) Ah right
+[15:19:20] Warvold: (41.Rxa5) It's getting a bit drawish here
+[15:19:35] Warvold: (41.Rxa5) Maaaybe better for white tho
+[15:19:50] Warvold: (41.Rxa5) cxb3 Rxc7+ Rxc7 axb3
+[15:20:06] Warvold: (41.Rxa5) c3 tho
+[15:20:51] Warvold: (43...Rc1+) Hmm
+[15:21:37] Warvold: (46.Ke2) Ke2 Rc2+ Kd3 Rh2 Rxg5
+[15:33:32] Warvold: (55...g3) Well, gotta prove it's a draw
+[15:34:03] Warvold: (55...g3) Ke2 i think
+[15:34:33] Galfrid: Classicalprac says I didn’t play for 2.5 hours to walk away too soon
+[15:35:04] Warvold: (55...g3) Ke2 Rb2+ Kf3 Rc8 g1=N, interesting
+[15:36:35] EnPriseWithEase: This has to be a draw, but I am confident I could find a tricky way to mess it up.
+[15:36:50] Warvold: (55...g3) Ah, I played twice with white in my line
+[15:37:20] Warvold: (55...g3) Ke2 Rb2+ Kf3 g2* Rc1
+[15:37:51] Warvold: (55...g3) Kf3 Kh4, there is some checks
+[15:37:51] Warvold: (55...g3) Looks like a draw
+[15:41:54] Mizrab: gg
+[15:42:10] Galfrid: Gg
+[15:42:25] simonWasHere: gg
+[15:42:40] Abdulrahman_Sayed: Thanks for the support everyone
+[15:44:11] Warvold: gg
+[15:44:42] Abdulrahman_Sayed: Maaan I completely missed that they couldn't move the rook that's protecting their queen
+[15:44:57] Warvold: Haha
+[15:45:12] Warvold: Not easy to see that
+[15:45:27] Warvold: I completely missed Nb7, it was a nice move
+[15:45:43] classicalprac: i did think about nb7 but then i figured knight was pinned after that and there is no fork
+[15:45:43] classicalprac: but apparently not
+[15:45:43] Abdulrahman_Sayed: Yeah I thought I was winning there but then I said oops maybe not so much
+[15:45:58] Abdulrahman_Sayed: I just assumed that my knight will get trapped
+[15:45:58] classicalprac: *nd6
+[15:46:28] classicalprac: but apparently you can just move your queen but i can just move my rooks right. dont see any material loss there still
+[15:46:43] classicalprac: other than a very active knight
+[15:46:43] Abdulrahman_Sayed: You can't move the rook that's protecting the queen
+[15:46:59] classicalprac: ah
+[15:46:59] Abdulrahman_Sayed: Cause I'll give a check with the knight and win your queen
+[15:46:59] classicalprac: right!
+[15:47:14] classicalprac: discovered attack!
+[15:47:14] Abdulrahman_Sayed: That's what I missed too haha
+[15:47:14] classicalprac: shit
+[15:47:14] Abdulrahman_Sayed: Yep
+[15:47:29] classicalprac: yeah i was right definitely blundered there then haha
+[15:47:29] classicalprac: happy you missed it
+[15:48:15] classicalprac: was definitely a hard tactic to see tho
+[15:48:45] classicalprac: damn
+[15:48:45] classicalprac: gg
+[15:49:00] classicalprac: good luck for the rest of your seasons. thanks for the game!
+[15:49:15] Abdulrahman_Sayed: Yep, I did saw the possibility of a check with the knight but I said your queen is protected anyway
+[15:49:31] Abdulrahman_Sayed: Thanks, you too!
+[15:50:31] EnPriseWithEase: Gg both!
