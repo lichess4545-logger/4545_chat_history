@@ -1,0 +1,694 @@
+Lichess game chat log
+Game      : https://lichess.org/9jhCKH3a
+White     : rufelos
+Black     : mrscribbles
+Time      : 45+45
+Captured  : 2026-04-17 22:37:10 UTC
+Game ended : 2026-04-17 21:17:06 UTC
+Messages  : 684
+────────────────────────────────────────────────────────────
+
+[18:13:42] Silkthewanderer: (1) Go Scribbles
+[18:14:13] MrScribbles: (1.c4) hi pitarsguider, wilktheswanderer
+[18:14:58] Silkthewanderer: (2) Hot take, f5 is the most principled reply there is against 1. c4
+[18:17:31] MrScribbles: (6...c5) One of these days, I'm going to sit down and actually learn how to play the Dutch.
+[18:18:47] Silkthewanderer: (6) This isn't really a Dutch anymore though
+[18:19:02] Silkthewanderer: (6) It looks like it could translate to a Delayed Hyperaccelerated Pterodactyl
+[18:20:03] Silkthewanderer: (6) No wait, that isnt it
+[18:20:48] MrScribbles: (6...c5) hi Pope Pope the 123rd
+[18:20:48] Silkthewanderer: (6) Whatever this is, it isn't something I know by name
+[18:21:19] MrScribbles: (6...c5) This early c5 stuff always gets people thinking. The problem is, they're probably thinking about how bad it is
+[18:21:34] MrScribbles: (6...c5) But I win a lot ith it so... shrug
+[18:21:34] Silkthewanderer: (7) It doesn't look bad I have to admit
+[18:21:49] Pope123: Good luck mr scribbles first of his name
+[18:22:04] Silkthewanderer: (7) 6. 0-0 might have been a bit imprecise there because it allowed 7. d5 b5
+[18:22:50] Silkthewanderer: (8) Besides 7. ...Na6 there was also 7. ....Ne4
+[18:23:05] Pope123: Watching scribbles play makes me question everything I know about
+[18:23:05] Pope123: ... Chess
+[18:23:20] Pope123: What the hell is c4 f5
+[18:23:36] Silkthewanderer: (8) c4 f5 is a perfectly normal way to reach the Dutch
+[18:23:36] Silkthewanderer: (8) White really has nothing better than transposing to the main lines
+[18:24:06] Silkthewanderer: (8) and Black avoided a lot of the tricky sidelines like 2. Nc3 or 2. Bg5
+[18:25:22] MrScribbles: (8.Be3) Qa5, or Qc7 maybe?
+[18:25:22] Silkthewanderer: (8) Maybe 7. ...Ne4 was more precise to avoid the Be3-d4 maneuver
+[18:25:37] MrScribbles: (8.Be3) don't believe I've ever had this position before
+[18:26:38] Silkthewanderer: (8) 8. ...Qa5 9. Qd2 looks iffy. Qc7 seems cleaner
+[18:27:09] Silkthewanderer: (8) OTOH Qc7 invites Nc3 Nxc5 Nb5
+[18:28:10] MrScribbles: (8...Qa5) hi ywdwgggsywydddddddddddddd
+[18:28:25] MrScribbles: (8...Qa5) are you related to ysgwyneth paltrow?
+[18:28:40] Silkthewanderer: (8) Hindsight is 20/20 but yeaaahh, I am beginninig to suspect Ne4 over Na6 might have been important
+[18:29:56] MrScribbles: (8...Qa5) hi aactrl and temporarily-international
+[18:30:11] Silkthewanderer: (8) Qd2 Qxd2 Nbxd2 Ng4 still works though to keep things reasonably sane
+[18:30:11] Inter-temporal: (8) (8...Qa5) gooo Mr.Kibitizing-on-other boards
+[18:30:42] Silkthewanderer: (9) Just wanted to mention a3, lol
+[18:30:57] Silkthewanderer: (9) This one I was not sure about either
+[18:31:27] Silkthewanderer: (9) Once again Ng4 must be the critical move
+[18:31:43] ysgwydd: (9.a3) I had this against Scribbles. I went 7.d5 though
+[18:31:43] MrScribbles: (9.a3) Does Ng5 do some stuff
+[18:31:58] MrScribbles: (9.a3) Gotta watch out for Qd5+
+[18:32:13] MrScribbles: (9.a3) hi leavenedtongs
+[18:32:28] MrScribbles: (9.a3) maybe leavenedtongs can help pope make some leavened bread
+[18:32:28] Silkthewanderer: (9) Ng4 you mean? I suspect it might be the only move not to yield a clear advantage to White
+[18:32:59] Pope123: Sup tongs
+[18:34:00] ssyx: Go Scribbles!
+[18:35:01] Silkthewanderer: (9) Ng4 Bd4 Bxd4 Qxd4 Qxc5 b4 still looks more fun for White tbh
+[18:36:01] MrScribbles: (10.Bd4) they won't fall for it of course, but b4 Nxe3 would have been satisfying
+[18:38:34] MrScribbles: (10...e5) b4 now possibly?
+[18:39:04] Silkthewanderer: (10) Yes. And then queen retreats and Bb2 and White looks very solid
+[18:39:19] MrScribbles: (10...e5) after b4 I can't go Nxb4 of course, due to Bc3
+[18:39:34] Silkthewanderer: (10) Was Bxd4 Qxd4 Qxc5 that bad for Black to discard it so quickly?
+[18:40:05] guitarspider: (10...e5) probably just doesn't want to trade queens
+[18:40:35] Silkthewanderer: (10) Avoiding a queen trade when you are the side with the open king is certainly a choice
+[18:41:21] MrScribbles: (10...e5) hi ssyx
+[18:41:36] MrScribbles: (10...e5) I feel like I might have given myself too many weaknesses here but we'll see.
+[18:41:51] nyanners: white can b4 here
+[18:41:51] Silkthewanderer: (10) In isolation I don't mind speculative pawns sacs to initiate some trickery but right now I am only seeing fun for White
+[18:41:51] guitarspider: (10...e5) I agree but this seems very much like MrScribbles to me :)
+[18:41:51] nyanners: seems kinda crushing tbf
+[18:41:51] ssyx: Hi mate, long time, still playing orthodox chess i see...
+[18:42:22] Silkthewanderer: (10) The Black Queenside pieces are kinda struggling to find purpose, too
+[18:43:38] Silkthewanderer: (10) If Black could teleport the pieces to Qd8, Be6, Bc7, pawna6 in one move then the position would be a lot more fun for Black
+[18:44:08] nyanners: seems a lot has gone wrong if black needs that much..
+[18:44:24] Silkthewanderer: (10) Getting that setup with legal moves while White also does things is trickier
+[18:44:24] nyanners: no okay im being a hater
+[18:44:24] Silkthewanderer: (10) Of the Dutch or Scribbles? :D
+[18:44:54] nyanners: i like dutch and i also even like dutch with c5 but yea white has played extremely convincing so far
+[18:45:25] Silkthewanderer: (10) I'm really interested in what would have been the eval of 10. ...Bxd4 11. Qxd4 Qxc5
+[18:45:25] nyanners: but you can put this in the dutch hate tab
+[18:45:25] ysgwydd: (10...e5) b4 here?
+[18:45:40] nyanners: yes
+[18:46:10] Silkthewanderer: (10) Yes, b4 Nc7 and then you kinda hope to get in e5 before you get crushed
+[18:46:56] MrScribbles: (11.Bc3) I feel like they're letting me off the hook here by not playing b4
+[18:47:11] Silkthewanderer: (11) Mightily so
+[18:47:26] nyanners: just regular terrible now :o
+[18:47:26] guitarspider: (11.bc3) xd
+[18:47:42] Silkthewanderer: (11) The degree of terrible you accept with 1. ..f5
+[18:47:57] MrScribbles: (11.Bc3) It's gotta be Qxc5, right?
+[18:48:12] MrScribbles: (11.Bc3) then I need to figure out what I do after h3, but that's a problem for Future Scribs
+[18:48:42] nyanners: qxc4 n-something bd5+ can be........ omg
+[18:48:42] MrScribbles: (12.b4) Wow, ok
+[18:48:58] nyanners: seems like white sees
+[18:49:13] Silkthewanderer: (12) Ah fun trick
+[18:49:28] Silkthewanderer: (12) And Nxe5 comes with a tempo, too
+[18:49:43] nyanners: i mean i still prefer 11 b4
+[18:49:43] Silkthewanderer: (12) Sooo walk of shame to e7 then?
+[18:50:29] Silkthewanderer: (12) Qe7, Nh6, Nc7, pawnd6 and grovel
+[18:51:45] MrScribbles: (12.b4) So Qxc4 h3 is soemthign I need to calculate
+[18:51:45] MrScribbles: (12.b4) hi jfire and nyan-set
+[18:52:31] ysgwydd: (12.b4) Doesn't black lose a pawn after Qe7 h3?
+[18:52:31] jfiras: (12.b4) haha like that, hello and good luck !
+[18:52:31] ysgwydd: (12.b4) With Qd5+ maybe
+[18:52:46] nyanners: nh6 nf7 for b
+[18:53:47] ysgwydd: (12.b4) Qe7 Qd5+ Kh8 h3 Nh6 Nxe5
+[18:54:17] nyanners: on qd5 first maybe  black goes nf6 and speculates
+[18:54:32] nyanners: nah i guess not
+[18:54:48] nyanners: nc7 though? idk
+[18:55:03] Silkthewanderer: (12) c7 is actually a really good square for the knight
+[18:55:18] nyanners: if white wanted to be up a pawn should def have chosen 11 b4 :o
+[18:55:18] Silkthewanderer: (12) covers d5 and e6 which is really needed
+[18:55:48] Silkthewanderer: (12) Besides, having that pawn on c5 would have clamped down on d6
+[18:56:04] nyanners: just gives a good aesthetic impression XD
+[18:56:49] MrScribbles: (12.b4) Ah, Qxc4 is very dangerous due to future Bd5 forks
+[19:01:54] MrScribbles: (12...Qe7) on the downside, my knights are stupid.
+[19:01:54] MrScribbles: (12...Qe7) On the plus side, I have rescue plans for them.
+[19:02:09] MrScribbles: (12...Qe7) On the downside, my rescue plans are also stupid. :D
+[19:03:10] Inter-temporal: (12) (12...Qe7) "all Ns are stupid"--Capablanca
+[19:03:10] Pope123: Im not seeing the Bd5 forks, why not take a free poawn
+[19:03:25] Silkthewanderer: (12) Big question now is whether White can make something happen with b5 Nc5 Bb4 d6 Nc3 right away
+[19:04:11] Silkthewanderer: (12) Feels wrong to move the solid White structure on the Queenside
+[19:04:41] stevenlongs: Pope the king is on same diag as the c4 pawn
+[19:05:42] Silkthewanderer: (12) Classy playes would probably just play Qb3 Bb2 Nc3 Rd1 and claim that Black is always worse with the hole on d
+[19:06:28] MrScribbles: (13.Qd5+) (12...Qe7)There's nothing in a queen move, right? Just Kh1?
+[19:06:28] MrScribbles: (13.Qd5+) kh8 I mean
+[19:06:43] Silkthewanderer: (13) Yeah, I am not getting it either tbh
+[19:06:58] Silkthewanderer: (14) h3 next explains it
+[19:06:58] nyanners: i think white misses nc7?
+[19:07:13] Silkthewanderer: (14) Yes
+[19:07:29] MrScribbles: (14.h3) Doesn't Nc7 help
+[19:07:59] Silkthewanderer: (14) Aaaah, maybe that was the way for White to get somethign: 13. b5 to get the knight to commit to c5 or c7
+[19:08:29] Silkthewanderer: (14) If c7 White gets Bb4, If c5 White gets Qd5+ and h3
+[19:08:45] ysgwydd: (14.h3) Nc7 Qa5?! b6 Qa4 Nh6 and a8 rook is loose?
+[19:09:15] nyanners: i suppose youre right but that leaves a poor aesthetic impression XD
+[19:09:15] nyanners: b5 line i mean
+[19:10:01] Silkthewanderer: (14) It is a typical line I would play as White to either win now or (more likely) squander all advantage
+[19:11:02] MrScribbles: (14...Nc7) hi anonymous
+[19:11:47] gavalanche20: Go Scribs
+[19:12:33] MrScribbles: (14...Nc7) no idea what the eval is, but I feel like my opponent passed up several killer moves.
+[19:12:33] MrScribbles: (14...Nc7) I might still be in trouble tho, not sure
+[19:13:03] MrScribbles: (14...Nc7) They're thinking here, maybe they didn't see Nc7
+[19:13:03] guitarspider: (14...Nc7) isn't White still much better after Qd2 or Qd1?
+[19:13:19] MrScribbles: (14...Nc7) Qa5 looks like the most trying move, but could cause problems for white.
+[19:13:34] MrScribbles: (14...Nc7) Could cause problems for black too, as a matter of fact :D
+[19:14:04] ysgwydd: (14...Nc7) I hope for the dubious looking Qa5
+[19:14:04] guitarspider: (14...Nc7) I guess maybe Qd2 instead of Qd1 to keep an eye on the Nh6, but anyway Black can't develop easily
+[19:14:19] MrScribbles: (14...Nc7) Qc4 d6 is kind of a cool move, protects both my pawn and Knight
+[19:14:35] MrScribbles: (14...Nc7) does leave my d-pawn a bit silly but that's probably going to happen anyway
+[19:15:05] MrScribbles: (14...Nc7) I wonder if they saw Nc7 but not Qc5 ...d7
+[19:15:05] MrScribbles: (14...Nc7) d6 I mean. I can't type today
+[19:16:21] MrScribbles: (14...Nc7) Oh, would Qa5 b6 Qa4 b5 be cute?
+[19:16:36] nyanners: keeping an eye on the nh6 is funny actually
+[19:16:36] MrScribbles: (14...Nc7) nah prolly not
+[19:16:52] nyanners: qd2 nh6 xe5? and qxh6 hits f8 because the king has moved
+[19:16:52] MrScribbles: (14...Nc7) gotta be careful about their LSB when I'm moving that b-pawn
+[19:17:07] MrScribbles: (14...Nc7) also gotta be careful about LSD but that's a different conversation
+[19:17:22] MrScribbles: (14...Nc7) they've been thinking a long time
+[19:17:22] MrScribbles: (14...Nc7) they've been thinking a stevenlongs time
+[19:17:22] nyanners: always be careful about lsd
+[19:17:52] stevenlongs: Lol
+[19:17:52] ysgwydd: (14...Nc7) Yeah I think Qd2 Nh6 Nxe5 works
+[19:18:23] MrScribbles: (15.Qd2) all right, they've made the coward's move
+[19:18:23] MrScribbles: (15.Qd2) (just kidding)
+[19:18:23] MrScribbles: (15.Qd2) sorta kidding
+[19:18:38] MrScribbles: (15.Qd2) Gotta be Nh6, yes? I don't like the knight on the rim but should be OK after Nf7
+[19:19:24] MrScribbles: (15...Nh6) My position is a bit silly but I think I dodged a couple bullets.
+[19:19:54] MrScribbles: (15...Nh6) Now we both have to figure out how to develop our queenside and connect rooks
+[19:20:55] Silkthewanderer: (15) Nxe5 Bxe5 Bxe5 Qxe5 Qxh6 Ne6 and Black at least gets active somewhat
+[19:20:55] MrScribbles: (15...Nh6) I'm glad they made me go Kh8, I think forcing me to do was a blunder maybe
+[19:21:26] MrScribbles: (16.Bxe5) What is this?
+[19:21:26] nyanners: its happening eh
+[19:21:41] MrScribbles: (16.Bxe5) Oh shoot!
+[19:21:41] MrScribbles: (16.Bxe5) oopsies
+[19:21:41] gavalanche20: Wait is this the right way
+[19:21:56] nyanners: i guess this is more forcing? thought nx
+[19:21:56] MrScribbles: (16.Bxe5) OK, let's regroup.
+[19:21:56] nyanners: but we are taking back on e5 anyway
+[19:22:11] Silkthewanderer: (16) Probably no difference
+[19:22:11] ysgwydd: (16.Bxe5) It doesn't matter?
+[19:22:42] ysgwydd: (16.Bxe5) In Qd5+ Nc7 Qd2 lies genius
+[19:22:42] Silkthewanderer: (16) Ah.... This might be fun
+[19:22:57] Silkthewanderer: (16) After Qxh6 Black wants Ne6 but then Bd5 is nasty
+[19:23:12] Inter-temporal: (16) (16.Bxe5) is 16...Ne6 a blunder
+[19:23:27] gavalanche20: True more forcing
+[19:23:43] Silkthewanderer: (16) Ne6 just drops the knight for nothing
+[19:23:58] gavalanche20: Yea Ne6 Qh6
+[19:23:58] Inter-temporal: (16) (16.Bxe5) bishop pin. yeh. just returning to the game. lol
+[19:24:28] Silkthewanderer: (16) Ne8 is sad but worth a thought
+[19:25:14] nyanners: hanging n again
+[19:25:29] GenTurgidson: Uh... why are there googly eyes on the knights?
+[19:25:44] MrScribbles: (16.Bxe5) hmmmmmmm
+[19:27:01] MrScribbles: (16.Bxe5) hi genturgidson
+[19:27:01] Silkthewanderer: (16) Bxe5 Nxe5 Qxe5 Qxh6 and then I guess Re8 maybe?
+[19:28:01] Silkthewanderer: (16) Fun line: Bxe5 Bxe5 Nxe5 Qxe5 Qxh6 Re8 Nd2 Qxe2 Re1
+[19:28:01] ysgwydd: (16.Bxe5) After Re8 Ra2 I guess to defend e2
+[19:28:17] Inter-temporal: (16) (16.Bxe5) dang. this is sticky
+[19:28:17] Silkthewanderer: (17) ...and I don't think Black survives that
+[19:28:47] ysgwydd: (17.Nxe5) Ah Re1 is nice
+[19:29:33] Silkthewanderer: (17) 17. ...d6 drops another pawn to Nxg6 otherwise that would have been the desirable move
+[19:30:03] Silkthewanderer: (18) Oooh, am I getting my line? :D
+[19:30:34] nyanners: how bad is this..
+[19:31:04] Silkthewanderer: (18) My hypothesis is that Nd2 already forces Qg7
+[19:31:19] nyanners: that would be kinda bad for b then
+[19:31:50] GenTurgidson: Ooh I didn't really see Ng2 that is clever.
+[19:32:05] GenTurgidson: Cannot take that pawn now.
+[19:32:51] GenTurgidson: Although I mean he did have to sort out that hanging rook I guess. But I mean I missed that nuance of it with Nf3.
+[19:34:37] MrScribbles: (19.Nd2) hi gav
+[19:34:37] MrScribbles: (19.Nd2) this doesn't look very good
+[19:34:37] Silkthewanderer: (19) Qxe2 Re1 Qxe1 Rxe1 Rxe1 Kh2 Ne6 Nf3 you mean?
+[19:34:52] Silkthewanderer: (19) Followed by a very horrible Ng5
+[19:34:52] Marco_Chess13: this is too high level for me. See material and grab material. Save the thinking for the next game.
+[19:35:23] Silkthewanderer: (19) That next game might be very soon if he grabs
+[19:35:23] guitarspider: (19.Nd2) this is puzzle storm stuff ;)
+[19:35:23] GenTurgidson: Yeah. But I'm thinking maybe Qxe2 Nf3 playable immediately with Ng5 threat. Gobble my c pawn too I don't care.
+[19:35:38] Silkthewanderer: (19) Ah Qxe2 Nf3 is also fun
+[19:35:53] GenTurgidson: But actually Re1 forces exchanges because if Rxe8 Nxe8 then Qf8#
+[19:35:53] Marco_Chess13: i always lose grabbing pawns, they are so tempting
+[19:35:53] nyanners: youre probably both right
+[19:36:08] nyanners: that must mean we are reaching Too Winning territory
+[19:36:08] Silkthewanderer: (19) There is Ne6 defense but I guess then Re1 and the same motives apply
+[19:36:39] Silkthewanderer: (19) Which means Qg7 is forced and then we play the very sad endgame
+[19:38:10] Silkthewanderer: (19) If White actually saw these Nf3-g5 motives already when going for the Qd5, h3, Qd2 line I am EXTREMELY impressed
+[19:38:25] nyanners: i didnt even see qxh6 xd
+[19:38:25] nyanners: but im not playing
+[19:38:41] Feet_Barbie: (19...Ne6) go scrabble
+[19:39:11] GenTurgidson: Yeah I thought white had gone down a piece. But I had only just tuned in to be fair.
+[19:39:26] nyanners: i mean this position is good enough for white even with even material
+[19:39:41] nyanners: but yea picking 11 b4 just looks clearer throughout
+[19:39:41] GenTurgidson: Nf3 followed even by Nh4 looks tempting but maybe too hope-chessy.
+[19:39:57] MrScribbles: (19...Ne6) time trouble starting to loom
+[19:39:57] stevenlongs: Scribble's LSB working from home
+[19:40:12] MrScribbles: (19...Ne6) hi charco_mess and jdw10
+[19:40:27] MrScribbles: (19...Ne6) and stanker_w***er
+[19:40:42] GenTurgidson: LSB will arrive in 5-6 business days.
+[19:40:58] Feet_Barbie: (19...Ne6) was there some 15 e4 maybe?
+[19:40:58] Marco_Chess13: lol
+[19:41:13] GenTurgidson: Stanker *what*?
+[19:41:13] MrScribbles: (19...Ne6) stinky_drinky
+[19:41:28] MrScribbles: (19...Ne6) toes_doser
+[19:41:58] nyanners: there are actually a lot of positions where bishops do serious work from home. this is not one of them
+[19:41:58] Feet_Barbie: (19...Ne6) mr scrub my b**t
+[19:41:58] Inter-temporal: (19) (19...Ne6) lol
+[19:42:44] MrScribbles: (19...Ne6) sock_****er
+[19:42:59] Silkthewanderer: (19) Ne6 looks most tenacious to me
+[19:43:14] Silkthewanderer: (19) At least I don't see quick win for White
+[19:43:14] Inter-temporal: (19) (19...Ne6) did he go too far? i think he went too far with that one. yeh. offsides
+[19:43:14] GenTurgidson: Unpopular opinion I feel like Scribbles might hold this.
+[19:43:30] Feet_Barbie: (19...Ne6) ahah monsieur scrambled eggs should focus
+[19:43:45] MrScribbles: (19...Ne6) Well I've solved my Silly Knights problem, now I need to solve my Silly Bishop problem.
+[19:44:15] MrScribbles: (19...Ne6) pacer_chaser
+[19:44:15] Feet_Barbie: (19...Ne6) yeah he can def hold
+[19:44:31] nyanners: finally, white relents
+[19:44:31] Inter-temporal: (20) (20.e3) (19) "All Bs are silly"--Capablanca
+[19:44:31] Marco_Chess13: that bishop rules. reminds me of myself when my wife asks me to do anything.
+[19:44:31] nyanners: 20 nf3 qxe2 re1 and ng5
+[19:44:31] GenTurgidson: I feel like e3 gives Scribbles time now.
+[19:44:46] MrScribbles: (20.e3) Wow, they keep playing moves I don't expect.
+[19:44:46] Feet_Barbie: (20.e3) scribbles is a 2000 strenght player that starts every game -3 xd
+[19:44:46] Zubenelgenubi: Go Zgribz!
+[19:45:16] Zubenelgenubi: fHi everyone
+[19:45:31] Silkthewanderer: (20) Was e3 necessary?
+[19:45:31] GenTurgidson: Hi Zube
+[19:45:47] Inter-temporal: (20) (20.e3) f'in Hi to u too zube
+[19:45:47] Silkthewanderer: (20) I thought 20. Nf3 was still the most consequential move. Qxe2 is still answered by Re1 and Ng5
+[19:46:02] GenTurgidson: e3 doesn't look right to me but I can see why he was worried about his e pawn hanging now.
+[19:46:02] Zubenelgenubi: f was me typing 'f' instead of flipping :-)
+[19:46:02] Inter-temporal: (20) (20.e3) lol
+[19:46:17] nyanners: f to pay respects??
+[19:46:32] Inter-temporal: (20) (20.e3) f to the black lsb
+[19:46:32] nyanners: f
+[19:46:48] Silkthewanderer: (20) Give Black time to play Rb8, b5 then things can look better
+[19:46:48] GenTurgidson: Anyone else seeing googly eyes on the knights for some reason?
+[19:46:48] nyanners: you pressed shift g
+[19:47:03] nyanners: why would you do that....
+[19:47:18] ysgwydd: (20.e3) The knights has always had googly eyes
+[19:47:18] Silkthewanderer: (20) ctrl shift g that is
+[19:47:33] GenTurgidson: Oh. No idea how I managec to do that.
+[19:47:33] Inter-temporal: (20) (20.e3) mine have Bingy eyes
+[19:48:04] ysgwydd: (20.e3) Write more, we got to inflate Tranzoo's stats
+[19:48:04] MrScribbles: (20.e3) hi zube
+[19:48:34] Silkthewanderer: (20) Is 20. ...a5 an option?
+[19:49:05] Silkthewanderer: (20) I am dreaming of trading queenside pawns and/or getting a knight entrenched on c5
+[19:49:20] Silkthewanderer: (20) from where it covers b7 so we can finally take care of the tall pawn on c8
+[19:49:35] nyanners: i mean white ignores a5, right. whats our actual poin
+[19:49:50] nyanners: we want to see b5 yes but how
+[19:49:50] Silkthewanderer: (20) a5 threatens axb4, doesn't it?
+[19:49:50] GenTurgidson: d5!!
+[19:50:06] nyanners: the rook is protected
+[19:50:06] GenTurgidson: Wait no garbage. I keep forgetting that LSB on g2 haha.
+[19:50:21] nyanners: oh
+[19:50:21] nyanners: its not. im a silly
+[19:50:21] MrScribbles: (20...d6) don't think this is good but I don't have enough time to work out something better
+[19:50:36] nyanners: so okay that might have been nice
+[19:50:36] MrScribbles: (20...d6) they keep playing sort of meek moves, hopefully they continue doing so
+[19:51:06] GenTurgidson: I mean the bishop is free-ish now. White will play Nf3 finally, probably.
+[19:51:22] GenTurgidson: Potentially some Nh4 hope chess.
+[19:51:52] Silkthewanderer: (20) Nf3 Qf6 and then?
+[19:52:07] Silkthewanderer: (20) I am not a big fan of how White cut off the queen on the kingside
+[19:52:23] Silkthewanderer: (20) Except I am on Scribbles team so actually I am a fan of that
+[19:52:23] nyanners: d6 is kinda normal but it doesnt reeeeeaally help the bishop
+[19:52:53] ysgwydd: (21.Nf3) Bishop is only helped by teleportation
+[19:52:53] Silkthewanderer: (21) Except now White willingly blocked the diagonal
+[19:53:08] Silkthewanderer: (21) So after Qf6 Black is actually threatening Bd7
+[19:53:23] nyanners: ng5 is still tempo sometimes
+[19:53:39] MrScribbles: (21.Nf3) trade queens because I'm less active, or keep queens to avoid bad endgame? don't know
+[19:53:39] MrScribbles: (21.Nf3) need more time
+[19:53:54] nyanners: avoid the bad endgame probably :o
+[19:53:54] Silkthewanderer: (21) Ng5 is traded and then Bc6 comes
+[19:54:24] Silkthewanderer: (21) Without any minor pieces things would look a lot better for Black already
+[19:54:24] Inter-temporal: (21) (21.Nf3) at our level, bad endgames don't matter at all.
+[19:54:39] Inter-temporal: (21) (21.Nf3) zero. maybe less
+[19:54:55] nyanners: yea i was thinking a line like ..b6 ng5 but even then the exchange sac is kinda sorta appealing
+[19:55:10] nyanners: or maybe its not. i dont know
+[19:56:11] nyanners: okay i mean. on this endgame its not so much that white is already a pawn up
+[19:56:11] nyanners: but it seems like it will easily get to 2 and the pieces are still better
+[19:56:26] Silkthewanderer: (21) Not a fan of Qg7 tbh
+[19:56:26] Inter-temporal: (21) (21...Qg7) practical decision. Qs take too long to analyze, esp in time trouble
+[19:56:41] GenTurgidson: Qxg7+ Kxg7 Rad1 Rd8 Ne5
+[19:56:56] nyanners: rook on d8 is protected
+[19:57:12] GenTurgidson: ...aand that is how I would lose!
+[19:57:42] nyanners: nah youd see it in time. but youd feel bad about having missed it in calculation
+[19:57:42] Pope123: (21...Qg7) Id just decline the endgame as white tbh - Qh4
+[19:57:42] GenTurgidson: Alternatively Qxg7 Nxg7 Nd4 looks active for white.
+[19:57:57] nyanners: yea then youd play rd1 nd4 which i think is kinda great
+[19:58:13] Silkthewanderer: (21) Qxg7 Kxg7 Rd1Rd8 Nd4 would be my choice
+[19:58:28] nyanners: seems kinda dead winning to me
+[19:58:43] nyanners: its probably like normal winning in reality
+[19:59:14] Silkthewanderer: (21) Dead winning for really good players, borderline winning at our level
+[20:00:14] nyanners: no yeah it usually turns out to not be THAT easy somehow
+[20:00:14] Silkthewanderer: (21) Qxg7 Kxg7 Rd1 Rd8 Nd4 Kf6 and we just hope to hold all entry squares
+[20:00:30] nyanners: but yea that just doesnt seem to be holding for b
+[20:00:45] nyanners: with the second pawn in it should be done
+[20:00:45] Silkthewanderer: (21) and hope that White goes wrong when opening the second weakness
+[20:01:00] Silkthewanderer: (21) There is no second pawn yet is it?
+[20:01:15] Silkthewanderer: (21) Qxg7 Kxg7 Rd1 Rd8 Nd4 Kf6 Nb5 Ke7
+[20:01:46] nyanners: indeed :o
+[20:01:46] nyanners: but does not inspire confidence
+[20:02:16] nyanners: white might choose to delay Nb5 for doubling on d and prepare c5
+[20:03:02] Silkthewanderer: (22) Sure. But that is actual technique and chess skill that still needs to be shown
+[20:03:32] MrScribbles: (23.Rfd1) Well, I have a backwards pawn, my LSB has nowhere to go, no pawn breaks, and my rook is begging for death.
+[20:03:47] nyanners: no hesitation :o
+[20:03:47] MrScribbles: (24.Nd4) But on the plus side, I have no time on the clock so I don't have to suffer throug this for long. :D
+[20:04:03] nyanners: kf6 definitely important
+[20:04:48] MrScribbles: (24.Nd4) hmmmmmmmmm
+[20:04:48] ysgwydd: (24.Nd4) Kf6 Nxe6 and how does black plan to get out?
+[20:05:04] nyanners: nxe6 is probably a good one tbh
+[20:05:19] nyanners: then doubling on d and c5 seems unstoppable
+[20:05:49] MrScribbles: (24...Nc7) really wish I had more time to find trying moves
+[20:06:20] nyanners: nc7 is good if its not bad :o
+[20:06:35] ysgwydd: (24...Nc7) Good if true
+[20:06:50] Zubenelgenubi: defending against both Nxe6 and Nb5
+[20:07:21] Pope123: (24...Nc7) d5 is in the air
+[20:07:36] Pope123: (24...Nc7) but it blunders something probably
+[20:09:07] nyanners: d5 definitely not trustworthy but im not seeing the win
+[20:09:38] ysgwydd: (25.Rd2) d5 cxd5 Nxd5 Nb5 Be6 Rd1
+[20:09:53] nyanners: that would do
+[20:10:08] Silkthewanderer: (25) Against d5 White can double first, then retreat, then take
+[20:11:09] stevenlongs: Yo that bishop still WFH
+[20:11:54] Silkthewanderer: (26) Rb8 and then you finally threaten to move the LSB
+[20:12:10] MrScribbles: (26...Ke7) think this is over
+[20:12:25] Silkthewanderer: (26) Does Ke7 allow c5?
+[20:13:26] Silkthewanderer: (26) Then d5 is forced but you just go b5 and break through on Q
+[20:14:11] Silkthewanderer: (26) Alternatively, White could go Nb3-a5
+[20:14:42] Silkthewanderer: (26) Also followed by c5
+[20:16:13] nyanners: 27 c5 ..d5 ne2 nf4 i think
+[20:16:28] MrScribbles: (27.f3) huh
+[20:16:28] nyanners: just works
+[20:16:28] MrScribbles: (27.f3) ok
+[20:16:28] MrScribbles: (27.f3) I never know what they're going to play on any move
+[20:16:59] ysgwydd: (27...Be6) f3 is curious
+[20:16:59] Pope123: (27...Be6) 1700 blitz vs 1400, im predicting a draw
+[20:16:59] MrScribbles: (27...Be6) what a weird game
+[20:17:45] GenTurgidson: I'd say this is still nowhere near blitz speed. Go off their rapid ratings haha.
+[20:18:15] Zubenelgenubi: blitz is a state of mind
+[20:18:30] nyanners: tru..
+[20:18:45] MrScribbles: (28...Nxe6) I never ever ever would have thought of f3
+[20:19:01] MrScribbles: (28...Nxe6) It's probably fine I guess, idk. just feels like, off topic
+[20:19:46] Zubenelgenubi: when I get under 5 min in a 90 + 30 I play way worse than 3 + 2
+[20:20:01] nyanners: nah i agree f3 is weird
+[20:20:17] Pope123: (29.Kf2) Same, except my opponents usually have 20 min
+[20:20:17] nyanners: white could be losing the thread
+[20:20:32] MrScribbles: (29.Kf2) now I'm up on time. So weird
+[20:20:32] Silkthewanderer: (29) Surely it must still be a lot better for White
+[20:20:32] GenTurgidson: I would make the draw offer here.
+[20:20:32] MrScribbles: (29.Kf2) now I can gang up on c4?
+[20:20:47] nyanners: i mean, scrib fans should be happy with this development, clearly :o
+[20:21:02] nyanners: though it remains objectively terrible
+[20:21:18] Silkthewanderer: (30) Sure. But this right now is actually genuinely challenging to convert
+[20:22:18] Silkthewanderer: (30) White will need to open another front on the kingside now with Be2 and pawn pushes
+[20:22:49] Silkthewanderer: (31) Without second weakness I don't see the queenide alone falling anymore
+[20:23:04] Silkthewanderer: (31) g4 immediately also looks sensible
+[20:23:35] nyanners: yea this one i dont give myself over 50% vs an active grandmaster
+[20:24:20] ysgwydd: (32.hxg4) vs inactive GM?
+[20:24:20] Silkthewanderer: (32) 31. ...f4 was worth a consideration
+[20:25:21] Pope123: (32.hxg4) Rd7 maybe?
+[20:25:36] Silkthewanderer: (32) This setup of backwards d AND backward h will be very grindable
+[20:25:52] MrScribbles: (32...Rd7) don't ask me what I'm trying to do here, I don't know
+[20:26:07] Pope123: (32...Rd7) I thought Rf8
+[20:26:07] nyanners: i mean an inactive gm tends to be in ~2300 range so not super insane
+[20:27:38] nyanners: 2300-2400, i mean
+[20:27:53] Inter-temporal: (34) (34.f4) give or take 200 points
+[20:28:54] ysgwydd: (34...Rdd8) Fair enough
+[20:29:09] MrScribbles: (34...Rdd8) need more time
+[20:29:25] MrScribbles: (34...Rdd8) does anyone happen to have an ocarina?
+[20:29:25] MrScribbles: (34...Rdd8) bagpipes are also fine
+[20:29:40] Inter-temporal: (34) (34...Rdd8) my kids have a kazoo
+[20:29:40] Inter-temporal: (34...Rdd8) and a whistle, i think
+[20:29:55] Silkthewanderer: (35) I have four ukuleles and a didgeridoo
+[20:30:41] Inter-temporal: (36) (36.Bg2) a quintet
+[20:30:41] nyanners: umm white seems to be progressing on the new front
+[20:30:56] nyanners: starting to look easy-ish again
+[20:31:11] Zubenelgenubi: my list is really long
+[20:31:11] Inter-temporal: (36) (36...Nc7) an orchestra
+[20:31:11] Pope123: (36...Nc7) not this again
+[20:32:12] Marco_Chess13: lol ^
+[20:32:27] Zubenelgenubi: no ukeleles, no didgeridoos, no bagpipes, I do have an ocarina
+[20:32:27] Silkthewanderer: (36) Eh, there still needs to be that final breakthrough
+[20:32:58] Zubenelgenubi: and I have everything if you count samplers
+[20:33:28] Silkthewanderer: (36) Double on h and then try to make spmething happen on b1h7?
+[20:33:28] Zubenelgenubi: just writing random stuff to get Scribs in the stats
+[20:33:28] Inter-temporal: (37) (37...Rh8) sampling does not count!
+[20:33:43] ysgwydd: (38.Be4) Vuvuzela anyone?
+[20:33:43] Zubenelgenubi: fair enough
+[20:34:44] nyanners: f5 next looking simple enough
+[20:35:30] Inter-temporal: (38) (38) (38.Be4) i always wish i could blast a french horn, but percussionists have no embouchure
+[20:36:46] Silkthewanderer: (38) And now g5+ Kg7 and switch back to the other weakness?
+[20:37:01] Pope123: (38...Kf6) Maybe Nc7 wasn't so bad or we'd potentially see Nf8
+[20:37:01] Inter-temporal: (38) (38...Kf6) wth is going on with my prepend script
+[20:37:16] MrScribbles: (38...Kf6) just trying to stay calm, not give away any pieces and hope they make some horrific blunder
+[20:37:32] Inter-temporal: (38) (38...Kf6) double and triple prepend? so obnoxious
+[20:37:47] nyanners: maybe 39 Rh6 was sneaky. and THEN f5
+[20:38:02] Zubenelgenubi: Re7?
+[20:38:17] Pope123: (40.Kf3) They saw it :(
+[20:38:48] Silkthewanderer: (40) 39. Rh6 Ke7 and then?
+[20:39:03] nyanners: then g6 has dropped finally :D
+[20:39:03] nyanners: so kg7 f5
+[20:39:49] Silkthewanderer: (40) 39. Rh6 Re7 attacks the bishop so Rxg6 doesn't work
+[20:39:49] MrScribbles: (40...d5) need more time
+[20:40:04] Inter-temporal: (40) (40...d5) maybe just give their lsb tooo many moves, to push their clock
+[20:40:04] MrScribbles: (40...d5) mainly because I have to pee lol
+[20:40:04] Zubenelgenubi: if you can't convince them, confuse them, that's the spirit
+[20:40:04] Silkthewanderer: (40) Did you want Bxe6 and threat of discovery there nyan?
+[20:40:19] Silkthewanderer: (40) Bxg6....
+[20:41:05] Inter-temporal: (41) (41...gxf5) push another pawn!
+[20:41:05] nyanners: yea Bxc6 of course :o
+[20:41:20] nyanners: *Bxg6
+[20:41:20] Inter-temporal: (41) (41...gxf5) ahh. oh. yeh, give em too many choices
+[20:41:35] Silkthewanderer: (41) I was interested in 41. Rhe8 to at least get maximal chaos
+[20:42:06] Inter-temporal: (42) (42.gxf5) dang. when Ne5 is four freakin moves away
+[20:42:21] nyanners: Rxe3 would be a tiny bit strange but two connected passers with good support should work
+[20:42:36] Inter-temporal: (42) (42...dxc4) hey! black has a passer now
+[20:42:51] ysgwydd: (42...dxc4) Rh6+
+[20:43:22] nyanners: rh6 ke5 bc4 kxf5 r1h5# :o
+[20:43:22] MrScribbles: (42...dxc4) Rh6+ looks annoying
+[20:43:22] Silkthewanderer: (42) 41. f5 Rhe8 42. fxg6 Rxe3 Kf2 hxg6 was my hope
+[20:44:07] Inter-temporal: (43) (43.Bxc4) is f5 poisoned
+[20:44:07] nyanners: maybe black could even bluff call there. but spooky ofc
+[20:44:07] nyanners: yes
+[20:44:07] Inter-temporal: (43) (43.Bxc4) ye
+[20:44:23] Inter-temporal: (43.Bxc4) toxic
+[20:44:38] Silkthewanderer: (43) Kxf5 Rh6 you mean?
+[20:44:53] Inter-temporal: (43) (43.Bxc4) indeed
+[20:45:08] nyanners: rg7 doesnt work, r1h5 anyway and e4
+[20:45:54] Inter-temporal: (45) (45...Ke5) ...Nxf5 threat
+[20:46:09] Inter-temporal: (45) (45...Ke5) still poisoned?
+[20:46:24] nyanners: probably
+[20:46:24] Inter-temporal: (46) (46.Rh6) crap, looks like Rh5 there?
+[20:46:24] nyanners: white induces..
+[20:46:39] Silkthewanderer: (46) Maybe but I think you just take it and hope White slips
+[20:46:39] nyanners: oooohh bluff territory. i like it
+[20:46:55] Silkthewanderer: (46) I don't think you get a better chance than this
+[20:46:55] nyanners: i feel its not time to bluff yet
+[20:47:25] Zubenelgenubi: Nxf5 R1h5 and?
+[20:47:40] Silkthewanderer: (46) Nxf5 Rh5 Rf8 and does White have a save retreat?
+[20:47:40] nyanners: and rf8 and white retreats the bishop
+[20:47:56] nyanners: any tbh
+[20:47:56] MrScribbles: (46...Nb5) f6
+[20:47:56] nyanners: the illusion shatters
+[20:47:56] Silkthewanderer: (46) Ke2 Kd4 and pawn is pinned
+[20:48:11] nyanners: rf8 ba2 or something
+[20:48:11] Silkthewanderer: (46) Kg4 Rg8 and the king goes back or to the h file
+[20:48:26] Silkthewanderer: (46) Ah bishop retreats first
+[20:48:41] Silkthewanderer: (46) That makes the bluff less bluffy indeed
+[20:48:57] Pope123: (46...Nb5) I know where that knight is going next
+[20:48:57] Inter-temporal: (46) (46...Nb5) Ns are also time consuming for us lower boards....
+[20:48:57] Zubenelgenubi: that would be a bluf
+[20:48:57] nyanners: maybe black taking a long road with nd4 nf5 XD
+[20:49:12] nyanners: umm
+[20:49:12] Zubenelgenubi: oh
+[20:49:27] Inter-temporal: (48) (48...Nd4+) wow
+[20:49:27] Pope123: (48...Nd4+) Draw!! I called it
+[20:49:27] nyanners: yea that was questionable
+[20:49:42] Silkthewanderer: (48) Outside pawn, we are playing this for a win now!!
+[20:49:42] Inter-temporal: (48) (48...Nd4+) see? bad endgame doesn't matter here
+[20:49:42] nyanners: not-bluffing rewarded
+[20:49:42] MrScribbles: (48...Nd4+) I have absolutely no idea what happens in this endgame
+[20:49:57] Inter-temporal: (48) (48...Nd4+) and Ns take too long to calculate.
+[20:50:13] nyanners: i do like Nb5 a lot tbh. like Nd4+ could induce Ke3 and then Nxf5 just works i think
+[20:50:13] Inter-temporal: (49) (49.Ke3) lop it off!
+[20:50:28] Inter-temporal: (49) (49.Ke3) gain some clock time
+[20:50:43] Zubenelgenubi: oh Nb5 is cheeky
+[20:50:58] Silkthewanderer: (50) Was Kf4 over e4 the winning move?
+[20:50:58] Silkthewanderer: (50) 44.Kf4 that is
+[20:51:29] nyanners: kf4 seemed a bit more natural for sure
+[20:51:29] MrScribbles: (50...Kxe6) real rollercoaster of a game
+[20:51:44] nyanners: as played should be fine but you have to watch out for the nonsense, like maybe 47 r1h5
+[20:51:44] Marco_Chess13: This endgame has been pretty entertaining.
+[20:52:45] MrScribbles: (51.Rh5) need more time
+[20:53:00] Silkthewanderer: (51) h6 is good
+[20:53:00] Inter-temporal: (51) (51...h6) looks good to me.
+[20:53:00] Inter-temporal: (51) (51...h6) ...Rh7 and go pee
+[20:53:30] Zubenelgenubi: just Rh7 next if nothing happens
+[20:53:46] Silkthewanderer: (51) You can even premove Rh7 safely
+[20:54:01] ysgwydd: (51...h6) Wasn't 47.f6 something?
+[20:54:01] Inter-temporal: (51...h6) "always pre move when you must go pee"--Capablanca
+[20:54:16] nyanners: could be
+[20:54:47] Silkthewanderer: (52) 47. f6 Rf8 48. R1h5+ does look good indeed
+[20:55:17] Inter-temporal: (52) (52.Kd4) "R[1]h5" and not the other rook?
+[20:55:32] Pope123: (52.Kd4) our troops are very passive tbh
+[20:55:47] Inter-temporal: (52) (52...a6) oh. i wasn't following. srry
+[20:56:03] Inter-temporal: (52) (52...a6) wait! who let that pawn out?
+[20:57:04] Inter-temporal: (53) (53.e5) woof
+[20:57:49] Silkthewanderer: (53) Okay so there is exactly one idea for White
+[20:58:04] Silkthewanderer: (53) which would be Ke4, Rh1, Rd1, Rd6
+[20:58:35] Inter-temporal: (54) (54.Ke4) why did we move the a-pawn *sobbing emoji*
+[20:59:21] Silkthewanderer: (54) I guess Black was worried about Kb5
+[20:59:36] nyanners: feel i just repeat
+[20:59:51] nyanners: trying to win is trying to lose
+[20:59:51] MrScribbles: (54...Kf7) lost
+[21:00:06] nyanners: like this yea
+[21:00:06] Inter-temporal: (55) (55.Kd5) ur all in now
+[21:00:21] MrScribbles: (55.Kd5) it's over
+[21:00:37] Pope123: (56.Rh2) Why not 54...Rh8?
+[21:00:37] GenTurgidson: Wait what does black even do now?
+[21:00:52] nyanners: yea i think this is Bad
+[21:01:07] Silkthewanderer: (56) Rd7+ and then?
+[21:01:22] nyanners: just move in probably
+[21:01:22] nyanners: id go with Rh3 for peace of mind
+[21:01:37] Inter-temporal: (56) (56.Rh2) i mean, ...h5, what else. he's committed to it i think
+[21:01:53] GenTurgidson: Kd6
+[21:01:53] nyanners: re7 is definitely time panik
+[21:02:08] nyanners: no universe where that is good
+[21:02:08] MrScribbles: (57...Re8) dead lost
+[21:02:38] GenTurgidson: Kf6 Rf2+
+[21:02:54] GenTurgidson: What do you even do
+[21:02:54] Zubenelgenubi: gg wp both, got to go
+[21:04:10] Pope123: (59.Kc7) Rd3 only move that make sense
+[21:04:25] Pope123: (59.Kc7) maybe not
+[21:04:55] GenTurgidson: Come on Scribbles pull a rabbit out of a hat!
+[21:05:11] Inter-temporal: (59) (59...Ra8) (57)  yeh! pull ur head out of ur hat!
+[21:05:11] MrScribbles: (59...Ra8) Dang, I fought so hard to claw this back!
+[21:05:26] GenTurgidson: Ra8 good move to make white think.
+[21:05:26] nyanners: having a linkin park moment
+[21:05:26] Inter-temporal: (60) (59...Ra8) srry., it hurts.
+[21:05:41] GenTurgidson: Although just Kd6
+[21:05:41] Inter-temporal: (60) (60.e7) Ra7+
+[21:05:56] GenTurgidson: Wait...
+[21:05:56] nyanners: omg??
+[21:05:56] Pope123: (61.Kd7) thats a pawn
+[21:05:56] Inter-temporal: (61) (61.Kd7) still
+[21:06:11] GenTurgidson: No way.
+[21:06:11] Inter-temporal: (61) (61.Kd7) Ra7+ to his majesty
+[21:06:11] jfiras: (61...Ra7+) wow
+[21:06:11] nyanners: no wait theres kd8
+[21:06:27] GenTurgidson: The game continues.
+[21:06:27] GenTurgidson: Rxe7 Rxh6
+[21:06:27] GenTurgidson: And we have more chess.
+[21:06:42] Inter-temporal: (63) (63.Rxh6) it's something
+[21:06:42] MrScribbles: (63.Rxh6) gg
+[21:06:42] GenTurgidson: Needs to not miss Rh7+
+[21:06:42] Inter-temporal: (63) (63.Rxh6) grap the a3 pawn please
+[21:06:57] nyanners: 62 kd8 would win again probably, ra8 kc7 and take b6 that way
+[21:06:57] MrScribbles: (63.Rxh6) I mean
+[21:06:57] Inter-temporal: (63) (63.Rxh6) or is there time...
+[21:07:12] MrScribbles: (63.Rxh6) can I survive the endgame? lol
+[21:07:12] GenTurgidson: Oh it's still winning for white I guess.
+[21:07:12] nyanners: this one seems like draw?
+[21:07:28] MrScribbles: (63.Rxh6) What's my best try?
+[21:07:43] Silkthewanderer: (63) I think it still wins
+[21:07:43] MrScribbles: (63.Rxh6) Would like to swing some sort of rook pawn thing
+[21:07:43] Inter-temporal: (63) (63.Rxh6) play a5 maybe?
+[21:07:43] MrScribbles: (63.Rxh6) my king is prolly too far away tho
+[21:07:43] nyanners: just re3
+[21:07:43] Silkthewanderer: (63) Re3 a4 and White gets a passer with a cut off king
+[21:07:58] GenTurgidson: Ah yeah.
+[21:07:58] GenTurgidson: Re3
+[21:07:58] nyanners: re3 a4 ra3
+[21:08:13] nyanners: that should do
+[21:08:13] Inter-temporal: (63) (63...Re3) just worried about black's K getting cut off
+[21:08:13] MrScribbles: (63...Re3) maybe they don't know how to mate with King and Rook, that would help
+[21:08:28] GenTurgidson: Lmao
+[21:08:28] MrScribbles: (63...Re3) maybe they don't even know the ladder mate
+[21:08:44] GenTurgidson: That's the sort of comment I'd send lol
+[21:08:44] Inter-temporal: (63) (63...Re3) lol. it could help
+[21:08:44] Silkthewanderer: (63) Ah b5 Rxa4 and no pawns remain
+[21:09:14] Pope123: (64...Rxa3) Black just refuses to die..
+[21:09:14] Silkthewanderer: (64) Rh5 Ra4 and again draw
+[21:09:29] Inter-temporal: (64) (64...Rxa3) seems all good now
+[21:09:29] nyanners: okay no linkin park moment probably. in the end it did matter
+[21:09:29] ysgwydd: (64...Rxa3) Rh7+ Ke6 Ra7
+[21:09:29] MrScribbles: (64...Rxa3) this is absolutely lost but might as well probe
+[21:10:00] Silkthewanderer: (64) Really need that Ra4 as the last important move
+[21:10:15] MrScribbles: (64...Rxa3) I think if my King were over on the Queenside I could maybe have tricks
+[21:10:15] MrScribbles: (64...Rxa3) but even then probably not
+[21:10:30] Silkthewanderer: (65) Against Ra7+ Kf6 Ra7 also once again Ra4 is what holds
+[21:10:30] Pope123: (65.Rh5) im predicting Ke7
+[21:10:30] Inter-temporal: (65) (65.Rh5) run King, run!
+[21:10:45] nyanners: yea white king not having b5 is funny
+[21:11:16] Silkthewanderer: (65) That consteallation of a6 and Ra4 is so important
+[21:11:31] Silkthewanderer: (65) Just cover all the squares and protect each other
+[21:11:31] Pope123: (65...Ke7) sorry..
+[21:11:46] nyanners: id love to suggest 65..Ra4 Kc5 a5 bxa5?? and black wins but it turns out a5?? b5 and white wins (probably)
+[21:11:46] MrScribbles: (65...Ke7) mumble mumble rook pawn draw mumble mumble philidor
+[21:12:02] Silkthewanderer: (65) Wait... even this draws right
+[21:12:02] ysgwydd: (65...Ke7) Ra5?
+[21:12:17] nyanners: very convoluted
+[21:12:32] nyanners: i guess it does
+[21:13:02] Silkthewanderer: (66) Ra5 Rb3 Kc5 Rc3+ and king reaches b file in time
+[21:13:18] nyanners: white still had the moral duty to play ra5 i think
+[21:13:18] Inter-temporal: (67) (67.Kd4) yeh, why not
+[21:13:48] ysgwydd: (68...Ra3) Now Ra5
+[21:14:03] nyanners: now its just worse
+[21:14:19] Silkthewanderer: (69) Trade and walk to a8 and draw
+[21:14:19] nyanners: yea
+[21:14:19] MrScribbles: (69.Ra5) well I gotta take it
+[21:14:34] ysgwydd: (69.Ra5) I want to see only kings on board
+[21:14:49] nyanners: taking probably not mandatory either XD
+[21:14:49] GenTurgidson: Takes is draw I think.
+[21:14:49] nyanners: but why not
+[21:14:49] MrScribbles: (70...Kd6) very weird game
+[21:15:19] MrScribbles: (71.Kb4) I feel like they missed so many deadly moves
+[21:15:19] GenTurgidson: yeah no one's going anywhere now
+[21:15:19] ysgwydd: (71.Kb4) It was equal all along, right?
+[21:15:19] Inter-temporal: (71.Kb4) (67) typical game
+[21:15:19] MrScribbles: (71.Kb4) let's see if they know their king and rook pawn endings
+[21:15:35] nyanners: black can win the pawn. that will show them
+[21:15:35] Inter-temporal: (71) (71...Kd5) (71) but it's not too late for someone to get cute
+[21:15:50] nyanners: it is too late
+[21:16:05] ysgwydd: (74...Kxa5) Moral victory
+[21:16:05] GenTurgidson: Oh yeah black has opposition here but edge pawn endgame.
+[21:16:05] nyanners: i agree. definitely take
+[21:16:20] MrScribbles: (77.Ka3) No doubt they know the draw of course
+[21:16:20] Inter-temporal: (77) (77.Ka3) goooo all the way
+[21:16:36] ysgwydd: (77...a4) We demand stalemate!
+[21:16:51] Inter-temporal: /w (77) (77.0-1White resigned • Black is victorious) (77.0-1White resigned • Black is victorious) stale-mate! stale-mate!
+[21:16:51] Pope123: whaat?\
+[21:16:51] ysgwydd: ?
+[21:16:51] Inter-temporal: (77) what?
+[21:17:06] Pope123: its a rookpawn, damn
+[21:17:06] GenTurgidson: What????
+[21:17:06] Inter-temporal: (77) i bet he hit the wrong button
+[21:17:06] nyanners: umm im gonna have a drink and come back to read later
+[21:17:06] MrScribbles: oh no
+[21:17:06] fritsj: ????
+[21:17:21] nyanners: this is too much
+[21:17:21] GenTurgidson: I thought that was a draw agreement...
+[21:17:52] Rufelos: shit, clicked the wrong button. well, that is life
+[21:17:52] Inter-temporal: wonder if it was draw offer, but mistakenly hit resign button
+[21:17:52] Rufelos: gg
+[21:18:07] Inter-temporal: nooo. move take back
+[21:18:07] ysgwydd: Well that was unexpected
+[21:20:24] ysgwydd: gg
+[21:20:24] Pope123: https://pastebin.com/Pwh8heri ----- saved chat from move 12 onwards
+[21:20:39] MrScribbles: well that's the  biggest rollercoaster I've ever played
+[21:20:54] Inter-temporal: i saved it all and DMd to scribs.
+[21:20:54] Rufelos: great game mate!
+[21:20:54] MrScribbles: I'm inquiring with teammates to see what they think about the accidental resign thing
+[21:21:09] Inter-temporal: the chat is about 30 pages long
+[21:21:09] MrScribbles: thanks @inter-tempy and @pope123 <3
+[21:22:25] Rufelos: damn, so many chances missed. played well the early and mid game
+[21:22:41] Rufelos: but disastrous endgame
+[21:22:41] MrScribbles: @rufelos check your slack DMs real quick please
+[21:22:41] MrScribbles: But, yeah I'm happy to talk about the game here
+[21:23:11] MrScribbles: really crazy stuff, I was begging for my life almost the entire game
+[21:26:13] MrScribbles: Did you prep for me rufelos?
+[21:26:13] Rufelos: I made 45.Bd5 super fast, I noticed your blunder 1 sec after I moved
+[21:26:29] Rufelos: Yeah, I always prep
+[21:26:59] MrScribbles: :o what was my blunder on 45?
+[21:27:14] MrScribbles: Oh, cool mate
+[21:27:29] Rufelos: when you made Kd6
+[21:27:45] Rufelos: Nd6*
+[21:28:00] Rufelos: I'm terrible at end games
+[21:28:00] Rufelos: hahaha
+[21:28:15] Rufelos: let's play more, loved the game
+[21:29:01] MrScribbles: Yeah it was super fun. What did you prep for me
+[21:29:01] MrScribbles: I felt very lucky to escape with my life
+[21:29:31] MrScribbles: Did you think about 11. b4?
+[21:30:17] MrScribbles: Also, wow 54... Rh8 would be a draw. I thought that was dead lost
+[21:30:32] Feet_Barbie: oh noo
+[21:34:35] Rufelos: I preped against f5 and e5, but I didn't consider 6.c5
+[21:35:05] MrScribbles: I also thought about 1... Nf6 and trying some Benko
+[21:36:52] Rufelos: b4 I was trying to make you take on c4
+[21:37:07] MrScribbles: Yeah I saw Qxc4 was horrible
+[21:37:22] Rufelos: trading queens was the right call? Thought about keeping them
+[21:37:53] MrScribbles: I wasn't sure if I should trade Queens. On one hand it puts me in a bad endgame, but on the other you were more active and dangerous with...
+[21:37:53] MrScribbles: ... the queens on
+[21:44:13] nyanners: oh a misclick. yea that makes sense
