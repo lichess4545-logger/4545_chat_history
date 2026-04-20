@@ -1,0 +1,129 @@
+Lichess game chat log
+Game      : https://lichess.org/g7rpkKxr
+White     : pepepibote
+Black     : nemo628
+Time      : 45+45
+Captured  : 2026-04-20 04:53:40 UTC
+Game ended : 2026-04-20 03:33:36 UTC
+Messages  : 119
+────────────────────────────────────────────────────────────
+
+[02:10:09] GoldenRetrieverChess: Gooo pepepibote!
+[02:12:41] SrinivasBharathNK: Go Nemo
+[02:14:27] SrinivasBharathNK: E5 amd queen trade, seems to be a good variation of queen's gambit declined a d black coming up with its own gambit
+[02:15:28] SrinivasBharathNK: If this gambit is taken, it will lead to queen trades with white losing castling rights
+[02:17:15] GoldenRetrieverChess: I like this line as white. 4. Bxc4 exd4 exd4  and usually Nf6 Nf3. White has an IQP but is super solid.
+[02:18:16] Banshee3333: Good luck nemo!
+[02:26:38] Fischer_and_Chips88: 5 Qe7 Nf3 and O-O and black's king is stuck in the centre
+[02:26:53] Fischer_and_Chips88: I like white's attacking chances here
+[02:28:09] Banshee3333: Maybe but Black can stymy White's attack with ...Qb4+ if things get scary
+[02:28:55] SrinivasBharathNK: Qb4 will get black a pawn too
+[02:29:25] Banshee3333: I'm worried about the development advantage White gets if Black grabs the pawn thbough
+[02:29:40] nyanners: black can bail with 6..qb4
+[02:29:40] nyanners: probably should
+[02:30:26] SrinivasBharathNK: But if he takes the pawm after qb4 the development advamtage is nullified
+[02:30:26] Banshee3333: So ...Qb4+ Bd2 Qxb3 say Bxb3 dxe3 Bxe3
+[02:30:56] Banshee3333: I'm very skeptical of claiming the development advantage is nullified just because queens are traded
+[02:30:56] nyanners: without q its not as dangerous for sure. but i mean, you can just decline in that case
+[02:31:12] nyanners: q trade is good for black in all cases for sure
+[02:31:27] Banshee3333: Def agree Qb4+ is good. Grabbing the pawn after is what I question
+[02:31:57] nyanners: i think id grab. my main concerns here are actually c7 (e.g. Nb5/Nd5) and Re1+
+[02:31:57] nyanners: but if not grabbing then probably Nc6 to force white to go iqp
+[02:33:59] nyanners: or well, you could just pretend nothing has happened and go Nf6 etc, but then i think white is just a bit better
+[02:34:30] nyanners: qd8-e7-b4-xb3 is clearly a bit slow while white has played constructive moves
+[02:35:46] nyanners: umm interesting one
+[02:35:46] Banshee3333: now I'd def grab the pawn I think
+[02:36:31] nyanners: yea that was my reflex thought, as it removes both Nb5/Nd5 and Bf4
+[02:36:31] Banshee3333: I think 7...dxe3 was better
+[02:36:47] nyanners: i like this. just insert dxe3 now
+[02:37:02] nyanners: though maybe Ke2 is a good move
+[02:37:17] nyanners: could be that this tempo for the rook is more important
+[02:40:04] Banshee3333: Ah but 7...dxe3 8. Qxe3+ looks scary at a glance.
+[02:40:20] nyanners: ooh i read it wrong. you said 7..dxe3
+[02:40:35] nyanners: i think thats just a no because of Bxf7
+[02:41:20] Banshee3333: Ah yep, didn't think it through before I typed XD
+[02:41:51] nyanners: 8..dxe3 vs Bb4+ is a fair question though
+[02:42:37] nyanners: maybe black is playing a bit quickly but well, the thing with playing quickly is that it's good if it's not bad XD
+[02:42:37] nyanners: and so far its been good
+[02:47:26] nyanners: Ke1 i dont like. difficult to find targets on black's camp without the rook so the pawn up is looking very good
+[02:47:26] Bpack: Interesting choice, is this theory?
+[02:48:26] nyanners: its been a long time since i played this with either side. i know 5 exd4 is the main move
+[02:48:42] nyanners: but i dont know if this was a 0 alternative or not supposed to be a thing for white
+[02:49:27] nyanners: so far black has been convincing :p
+[02:49:58] SrinivasBharathNK: hi Bpack
+[02:50:13] SrinivasBharathNK: I would have taken the pawn
+[02:50:13] Bpack: Only time I've really touched 1.d4 was with the London. Tho feel like white generally is able to castle and avoid situations like this
+[02:50:28] nyanners: so black bails at the final moment XD fair
+[02:50:28] Bpack: Hey Srinivas!
+[02:50:43] nyanners: if white had played Ke2 instead white would definitely be better
+[02:51:14] nyanners: the Rh1 problem feels annoying
+[02:54:32] MrScribbles: (9...Nf6) that's why you play h4 @nyan-set
+[02:55:02] nyanners: yea i mean, its probably a fine move but not actually dangerous
+[02:55:48] nyanners: more on the developing side than the aggressive side
+[02:56:49] SrinivasBharathNK: i need to take something out of white's books, they have taken 30 minutes for the first 9 moves
+[02:57:04] nyanners: that's fork's book, a quite revolutionary read
+[03:00:22] nyanners: exd4 makes sense as white wanted to develop the dsb but maybe the structure was more important in such a slow position
+[03:00:22] nyanners: or maybe not :o
+[03:02:39] Mennonite: Oddly the h1 rook requires fewer tempo to activate than its counterpart on a8
+[03:02:54] Mennonite: So I'm not as worried about that specific aspect
+[03:03:09] nyanners: ke2 rhe1 xd
+[03:04:25] nyanners: okay white is making this work. 14 Ng5 maybe?
+[03:04:56] Mennonite: This is an IQP on Xanax
+[03:05:11] nyanners: ahahah
+[03:07:43] Banshee3333: I think 13...Nd8 better, no? Keep f7 covered, and I want my DSB on b6 later
+[03:07:43] Banshee3333: 13...Bd8
+[03:07:58] Banshee3333: I mean
+[03:08:14] Banshee3333: The bishop got itself knighted in my line
+[03:08:44] SrinivasBharathNK: 14 has to be bd8
+[03:08:59] SrinivasBharathNK: Bd8 i mean
+[03:10:00] nyanners: 13..Bd8 leaves a bit of a weird impression but its probably better than running into Ng5
+[03:10:15] nyanners: if all of this isnt great then maybe 11..c6 was a bit automatic and black needed to keep the pawn to have Bd6 as retreat
+[03:11:01] nyanners: but that would give up the structural advantage
+[03:11:16] SrinivasBharathNK: white continues to think, this is going to be interesting
+[03:13:18] nyanners: on one hand this is kinda critical but also you want some time for later
+[03:14:49] SrinivasBharathNK: that balance is very important
+[03:15:35] nyanners: in terms of time balance white is just kinda busted
+[03:15:35] Banshee3333: I think if Black can get in ...Kf8 and ...Nb6 I'd start to feel happy
+[03:15:50] nyanners: feel the way out is to start to think about making the position easy to play
+[03:16:21] nyanners: yea i think black will live
+[03:16:21] nyanners: and be better
+[03:16:51] nyanners: if thats right then white should definitely start to damage control
+[03:20:39] Banshee3333: ...Kf8 seems important though to start untying Black's pieces
+[03:20:39] nyanners: i agree :o
+[03:20:55] nyanners: your plan seems good to me
+[03:21:25] nyanners: Bf8 is good if its not bad. feels a bit slow
+[03:21:25] nyanners: maybe it doesnt matter
+[03:21:40] nyanners: it probably doesnt, actually
+[03:22:41] Banshee3333: Say Rxe8 Nxe8 d5 though?
+[03:23:27] nyanners: should be at worst equal ish
+[03:23:42] nyanners: like say, takes, Nef6 back, b6
+[03:24:58] Banshee3333: Sure, but I think letting White get rid of the IQP is a small defeat for Black, no? Black seems to have better winning chances with the IQP
+[03:24:58] Banshee3333: on
+[03:25:29] nyanners: no yeah for sure. but i mean, black cant be worse, i think
+[03:25:29] nyanners: its possible black can do better than that line though
+[03:25:59] Banshee3333: I think ...Kf8 instead of ...Bf8 and White wouldn't have had the opportunity for d5 if I calculated correctly
+[03:27:00] nyanners: i mean, black probably has some interesting options regardless. id spend a lot of time on d5 Nb6
+[03:27:15] nyanners: getting bishop pair and maybe a target on the b-file in exchange for the structure
+[03:27:30] nyanners: d5 Nb6 dxc6 Nxc4 Nxc4 bxc6
+[03:28:16] nyanners: a calculation-heavy alternative would be d5 ..c5
+[03:28:16] nyanners: sucks for someone, most likely
+[03:28:46] Banshee3333: lol XD
+[03:29:02] Bpack: Hah
+[03:30:18] ChessisHard101: Feels like white's lack of clock may bite them soon
+[03:30:18] Bpack: Pepe is setting up nicely to beat Ttor's earlier performance of 50 moves made with less than 1 min
+[03:30:33] SrinivasBharathNK: Yes white is not thinking
+[03:31:49] nyanners: now this isjust necessary pacing
+[03:32:04] nyanners: oof
+[03:32:04] SrinivasBharathNK: Oh
+[03:32:04] Bpack: El tactico
+[03:32:19] ChessisHard101: Uh oh
+[03:32:35] nyanners: do we just make a wild claim that white's time trouble net him this tactic
+[03:32:50] nyanners: feels black got caught up
+[03:32:50] nyanners: gg :o
+[03:32:50] Banshee3333: gg
+[03:33:05] SrinivasBharathNK: Gg
+[03:33:20] Bpack: Wowzers what a finish. Gg
+[03:34:36] pepepibote: got to nervous to talk gg
+[03:36:53] Bpack: Generally best not to spend time typing when your that low on time. Unless a bullet god
+[03:37:08] nyanners: thats the advanced portion of the fork2020 book
+[03:39:25] pepepibote: yea good round Bpacks, ill check the fork book thanks for the lines ill see thm
