@@ -1,0 +1,121 @@
+Lichess game chat log
+Game      : https://lichess.org/nathVTGP
+White     : chatakkuma
+Black     : tommeketoch
+Time      : 45+45
+Captured  : 2026-04-21 15:39:49 UTC
+Game ended : 2026-04-21 14:19:44 UTC
+Messages  : 111
+────────────────────────────────────────────────────────────
+
+[12:30:55] chatakkuma: I'm happy to see 9...Nd7
+[12:30:55] chatakkuma: Now I can play Bb2
+[12:31:10] chatakkuma: 10...Nde5 Nxe5 Nxe5 Bb2 looks nice
+[12:32:56] mini_karpov: the lifetime score between these two is extremely surprising
+[12:33:12] chatakkuma: maybe Bxe5
+[12:34:43] mini_karpov: a case of styles make matchups I guess
+[12:41:49] Fischer_and_Chips88: I thought the same thing, I would have expected chatakkuma to be ahead
+[12:42:04] chatakkuma: I'm trying to play Nd5 and attack the N on d4
+[12:42:19] mini_karpov: I've played both of them a lot (a couple years ago) and I agree
+[12:42:35] mini_karpov: but very different styles and both strong players!
+[12:43:51] mini_karpov: tommeketoch has always had a very strong repertoire. he's been playing this accelerated dragon for years now
+[12:48:25] mini_karpov: so I am watching tommeketoch's stream. I'm old, and never really do streams but I am both shocked and reminded of how much a dinosaur I am
+[12:48:55] mini_karpov: the use of arrows all over the board, moving pieces on the board with move confirmation and analyzing before confirming
+[12:49:26] mini_karpov: all perfectly legal of course! this is not OTB. but beyond my expectations of how to play and calculate
+[12:53:29] chatakkuma: I didn't play 14.f4 Qb6 Kh1 Nxf4 Rxf4 Bxf4 Qxf4 f5 looked a bit nasty
+[12:54:46] chatakkuma: now if f5 then exf Rxf Bc2
+[12:59:04] Fischer_and_Chips88: Arrows are fine imo, I don't think they help too much with calculation
+[12:59:19] Fischer_and_Chips88: but analysis with move confirmation before confirming is a bit iffy imo
+[13:01:52] mini_karpov: yeah, it's an every move thing. to be clear, tommeketoch is totally playing by the rules!
+[13:01:52] mini_karpov: I'm just bringing my 30 years OTB perspective to watching an online classical game
+[13:02:22] mini_karpov: maybe chatta does it too for all we know
+[13:02:37] mini_karpov: considering the meta, you'd be crazy not to really
+[13:02:37] Fischer_and_Chips88: well obviously online chess is different from OTB in many ways, most relevant here is probably touch move.
+[13:03:23] mkubecek: I'm aware that it's allowed; but I still wouldn't do it, it feels over the line. (To me, that is.)
+[13:03:38] Fischer_and_Chips88: The move confirmation feature is intended for mouseslips, not to help visualise the position
+[13:04:08] Fischer_and_Chips88: yeah it is a bridge too far for me, but impossible to police really
+[13:05:09] mkubecek: After all, being able to see the position after your move (in case of END aka "electronic scoresheets") is AFAIK the reason why it's...
+[13:05:25] okady: i have moveconformation on for mouse slips indeed
+[13:05:25] mini_karpov: changing topics I am learning some things about this structure from a few of tommeketoch's comments. he has good experience here
+[13:05:40] okady: happens way to often when playing on phone
+[13:05:40] mkubecek: ...forbidden to record your move before playing it in an OTB game.
+[13:05:55] okady: wait is t forbidden to write your move on the paper before making it?
+[13:06:10] mini_karpov: mouse slip prevention I get, but putting the move on the board and analzying for 30s or longer before confirming?
+[13:06:10] mkubecek: Yes. But it wasn't always so.
+[13:06:25] mini_karpov: yes, it is forbidden for probably 15 years now
+[13:06:25] okady: i do that quiet often lol never knew it wasn't allowed
+[13:06:25] okady: nobody ever told me
+[13:06:41] okady: or made a problem of it
+[13:06:41] mkubecek: When I played as a kid in 80's, many coaches recommended to write your move down, then check one more time and only then to play it.
+[13:07:26] mini_karpov: that was the classic blunder check. now they have modernized it and do somethign similar with recording times of both players
+[13:07:42] mkubecek: The only exceptions are when you want to claim a threefold repetition or 50 move draw after your move. Or when adjourning.
+[13:07:57] mkubecek: The latter never happening any more...
+[13:09:28] RPCX: i have always found the way you claim a threefold to be nonsense that should have been changed a long time ago
+[13:09:59] chatakkuma: threat is e5
+[13:10:14] mkubecek: The problem is that once you make your move, your opponent is allowed to reply.
+[13:12:31] okady: how do you claim three fold usoft repetition
+[13:13:32] mkubecek: When the repetition happened by opponent's move, you just stop the clock and call an arbiter.
+[13:13:47] mkubecek: (In practice, you tell the opponent and only call an arbiter when he/she disagrees.)
+[13:14:32] mkubecek: When it's going to happen after your move, you write it down to the scoresheet, stop the clock and call an arbiter.
+[13:14:32] mkubecek: (But you don't make the move on the board.)
+[13:16:04] okady: okay
+[13:16:04] okady: thanks
+[13:19:22] Fischer_and_Chips88: 19 Bxd5 surely cx
+[13:25:12] mini_karpov: Rxd5 unexpected. looks nice, looking to capitalize on black's lack of development
+[13:26:43] Fischer_and_Chips88: I was thinking cx because it leads to a symetric pawn structure where white has more space on the kingside and the open c file
+[13:27:29] jdannan: I thought Rx was the only move that didn’t leave white with a terrible B
+[13:27:44] Fischer_and_Chips88: rxd5 is definetly interesting though, ideas for Rb5 and e5 to target b7
+[13:28:30] mini_karpov: I think exd5 would be the clear first candidate move, when you cement e7 pawn as a long term weakness. also with a5 having been played
+[13:28:45] jdannan: Now white has ideas like Rb5 and e5 immediately
+[13:28:45] mini_karpov: b7-b5 to attack the a2-b3-c4-d5 chain might be more difficult to achieve
+[13:29:30] mini_karpov: but I like Rxd5. it holds a lot of tension and keeps more possibilities
+[13:30:01] Fischer_and_Chips88: good point about the weakness on e7 after exd5, probably would go for that over cx now that I think about it more
+[13:34:35] okady: well who do we think is better
+[13:34:50] okady: i would go for white but i am not that good at chess :)
+[13:35:05] mini_karpov: only white can be better, the question is it significant
+[13:41:41] mini_karpov: I think white rushed e5
+[13:41:56] okady: should have prepared it with a3 and b4 first
+[13:44:28] mini_karpov: I was thinking more that the queen and rook on f1 could both be improved before changing the structure
+[13:45:44] chatakkuma: not sure if f5 or Bd5
+[13:45:44] chatakkuma: both looked good
+[13:46:00] mini_karpov: but really the rook on b5 looks dominated by the Nc5
+[13:47:31] mini_karpov: bishop is a monster though. this is really interesting
+[13:48:17] mini_karpov: f5 is nice
+[13:53:21] Fischer_and_Chips88: 27 Bd5 is white also threatening Qf6 and Qxg6 along with the threats on f7
+[13:58:41] Fischer_and_Chips88: I think black is just lost here honestly the bishop is so good
+[14:01:13] okady: queen c2 i think otherwise you get annoying rook check on e2
+[14:01:58] okady: i think this was the only move
+[14:15:40] lorb: 34.h6 maybe?
+[14:16:11] okady: he is calculating that probably
+[14:16:11] okady: didn't expect that
+[14:17:12] Bpack: (34...Rxa2+) kind of looks like he's wriggling out of this attack
+[14:17:57] Fischer_and_Chips88: I don't think so
+[14:18:13] karasso: Qc2+ and Qxg6 was a better option instead of Rxa2+
+[14:18:43] mkubecek: (35.Kg1) Or perhaps Qe2+ Rf2 Qh5+
+[14:19:13] mkubecek: (35...fxg6) ???
+[14:19:29] Fischer_and_Chips88: gg
+[14:19:29] Bpack: ggs
+[14:19:44] okady: gg
+[14:19:44] chatakkuma: finally I beat tommeketoch
+[14:19:44] Micomps: gg
+[14:19:59] chatakkuma: I thought Qb6+ was bad
+[14:20:14] okady: took you some tries :)
+[14:20:14] Bpack: after 4 long years, what a streak
+[14:21:30] okady: h5 was almost a draw
+[14:21:46] okady: never expected that
+[14:26:04] chatakkuma: yeah I was just playing on time
+[14:26:19] chatakkuma: a bit worried about Ne4 there
+[14:27:05] chatakkuma: really a bad habit not to think when I have loads of time
+[14:27:35] chatakkuma: I think 31.bxa4 was too hasty
+[14:28:06] chatakkuma: 11...dxe5 I would not ever think of that
+[14:28:36] chatakkuma: But Nd4 makes sense
+[14:30:07] mkubecek: Well, the engine says *it* would draw that...
+[14:33:25] chatakkuma: I was expecting 24...Qxd6
+[14:33:40] chatakkuma: exd6 was too weakening
+[14:33:55] chatakkuma: Qxd6 Rd1 Qc7 and still black is fighting
+[14:38:29] tommeketoch: Yeah normaly white isn't able to get this quick attack in when I play these structures. So played it a bit to much positional
+[14:40:00] tommeketoch: Yeah normaly white isn't able to get this quick attack in when I play these structures.
+[14:40:31] tommeketoch: Oops
+[14:40:46] tommeketoch: Looked like that message didn't went through at my end. So I send it again :p
+[14:44:19] tommeketoch: Ah yeah should have considered dxe4 for sure since I later realized that Bxe5 dxe5 was good for me
+[14:44:49] tommeketoch: exd6 was just a very elimentar lazy calculation blunder of me
