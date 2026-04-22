@@ -1,0 +1,104 @@
+Lichess game chat log
+Game      : https://lichess.org/On0rWfi5
+White     : silkthewanderer
+Black     : inter-temporal
+Time      : 30+30
+Captured  : 2026-04-22 22:38:55 UTC
+Game ended : 2026-04-22 21:18:51 UTC
+Messages  : 94
+────────────────────────────────────────────────────────────
+
+[20:03:47] Inter-temporal: (1) (1.Nf3) spinney wheel predicted 1.Nf3
+[20:04:17] Inter-temporal: (2) (2...g6) oc. what else
+[20:04:32] Inter-temporal: (3) (2...g6) i know my first 5 moves. i think...
+[20:05:18] Inter-temporal: (3) (3...Bg7) at least it's not like #11 already. hopefully
+[20:05:49] Inter-temporal: (3) (3...Bg7) i'll be pissed if it's #11 already. **shaking fist emoji**
+[20:07:05] Inter-temporal: (3) (3...Bg7) he's thinking, "dang it might be too late for a saemisch?"
+[20:07:05] MrScribbles: (3...Bg7) :shakefist:
+[20:07:35] guitarspider: (4...d6) curious what silk will go for
+[20:07:50] Inter-temporal: (6.h3) makagonov
+[20:08:06] Inter-temporal: (6) (6.h3) with Nf3. okee dokee
+[20:08:06] guitarspider: (6.h3) that'll be interesting
+[20:08:06] Inter-temporal: (6) (6.h3) i play my N out too.
+[20:08:36] Inter-temporal: (6) (6.h3) or do i play e5. hm
+[20:09:22] MrScribbles: (6...Nc6) g4!
+[20:09:37] Inter-temporal: (6) (6...Nc6) if d5 Nb4 and re-route to Na6-c5
+[20:09:37] Inter-temporal: (6) (6...Nc6) maybe a7-a5 somewhere
+[20:09:52] MrScribbles: (6...Nc6) Silk, you outrate him by 242 points, you can get away with g4
+[20:10:07] Inter-temporal: (6) (6...Nc6) i also play a different line, but i wanna try this one
+[20:11:08] Inter-temporal: (7) (7...Nb4) gotta try to recall the center pawn moves. i think it's just e6
+[20:11:39] MrScribbles: (7...Nb4) it's a good day to be a dark square bishop, for either side
+[20:13:25] MrScribbles: (9...Nc5) g4!
+[20:13:25] Inter-temporal: (9) (9...Nc5) should i be surprised if Bxc5?
+[20:13:40] MrScribbles: (9...Nc5) no, but you would be surprised if g4!
+[20:13:56] guitarspider: (9...Nc5) with a black e5 there were decent chances for g4 I think
+[20:13:56] Inter-temporal: (9) (9...Nc5) did someone play this in candidates?
+[20:14:11] guitarspider: (9...Nc5) but not here
+[20:14:56] Inter-temporal: (9) (9...Nc5) if no Bxc5 then i play a5 and i think e6 or smth. maybe b6
+[20:18:14] Inter-temporal: (10) (10.e5) i think Ne8 is required
+[20:19:00] Inter-temporal: (10) (10.e5) Ne4 is what i want, but ... hm. maybe it's okay
+[20:19:46] Inter-temporal: (10.e5) gotta have an answer for b4 in most lines
+[20:21:32] Inter-temporal: (10) (10...Nfe4)  probably loses. and now it's probably #11. lol
+[20:24:35] Inter-temporal: (10) (10...Nfe4) earlier i reviewed some positions where Black can trade his dsb for the a-rook without getting immediately checkmated
+[20:31:10] Inter-temporal: (14) (14...e6) so white's lsb won't be so bad, but feels like i gotta hit this center or get immediately squished
+[20:59:19] Inter-temporal: (19) (19...Qe8) geez
+[20:59:50] Inter-temporal: (19) (19...Qe8) this is supposed to be a fun game, no?
+[21:08:43] Inter-temporal: (22...Qxf7) he had no respect for my awesome Q-side majority.
+[21:09:59] Inter-temporal: (23) (23...Qxb3) i can't stop the pasers cann i...
+[21:18:21] Inter-temporal: gg
+[21:19:06] Inter-temporal: Q-sac was totally trolling me
+[21:20:07] Silkthewanderer: Sorry not sorry. Too fun to not play
+[21:20:22] Inter-temporal: i'm glad u did
+[21:20:22] Inter-temporal: had to let the mate play out.
+[21:20:22] Inter-temporal: :)
+[21:20:38] Silkthewanderer: I think 10. Nfd7 was perfectly fine for you
+[21:21:08] Silkthewanderer: After 10 Nfe4 things get a bit tricky and I am not sure if there is a good way for you from there
+[21:21:08] Inter-temporal: i didn't realize the central pawns would be so mobile
+[21:21:54] Inter-temporal: after 13.Bxc5 i started to understand the trouble i was in
+[21:22:24] Inter-temporal: and 15.Qb3 was too much. good move
+[21:23:25] Silkthewanderer: That whole position is a mess where normal KID principles dont apply
+[21:23:40] Inter-temporal: i don't have much experience there
+[21:24:10] Inter-temporal: maybe 18...Kh8 could have helped
+[21:24:10] Silkthewanderer: Nf3 + h3 isnt really a thing but I didnt check the main line KID in a while
+[21:24:26] Inter-temporal: it's a thing, for sure.
+[21:24:41] Inter-temporal: makagonov with Nf3, Be3 in my book. but i didn't look at it
+[21:25:42] Inter-temporal: so, this early e5, i misunderstood
+[21:25:57] Silkthewanderer: Nf3 Be3 h3 is a major setup against the Pirc, against KID I was less sure what it does
+[21:26:42] Silkthewanderer: For instance I had no idea whether g4 was a serious option if you had played more slowly
+[21:26:58] Inter-temporal: i'm quite sure it is. but i gotta look it up
+[21:27:13] Inter-temporal: 10.e5, i considered both Ne8 and Nfd7, but went wrong
+[21:27:43] Inter-temporal: you made b4 a threat. not sure if it was a ghost or real, but that threat threw me off
+[21:28:14] Inter-temporal: when i compared N-moves, it didn't truly cross my mind that you'd trade ur dsb there
+[21:28:29] Inter-temporal: one of those exceptions to the rules
+[21:28:59] Inter-temporal: ahhh. i see now that 9...Nc5 was wrong
+[21:29:14] Inter-temporal: that is where i forgot ...e6
+[21:29:30] Inter-temporal: my move order was wrong
+[21:29:30] Inter-temporal: and you showed why. lol
+[21:29:45] Silkthewanderer: Bc2 was also perfectly okay
+[21:30:00] Inter-temporal: geez. that is not so obvious
+[21:30:31] Inter-temporal: i mean, in retrospect, it's obvious. but i need to dwell on that a bit more.
+[21:30:46] Silkthewanderer: Whereas against Bxc5 you have to solve very concrete threats in order to not just lose
+[21:31:31] Inter-temporal: yeh and the addition of Qb3, so i can't get b5 right away... that sucked to be black
+[21:32:17] Inter-temporal: by the time i played b5 i think. idk. i haven't checked the eval, but won't be surprised if it's already too much
+[21:32:47] Inter-temporal: ahhh'
+[21:32:47] Inter-temporal: toggle engine off
+[21:33:03] Inter-temporal: did u do that?
+[21:33:18] Silkthewanderer: Nope
+[21:33:18] Inter-temporal: i usually wait a few hours before i check it. lol
+[21:34:03] Silkthewanderer: I was checking one specific line with engine but didnt request the full analysis
+[21:34:34] Inter-temporal: i'm guessing all of my pawn moves were suspicious. ...e6, a6, b5...
+[21:34:49] Silkthewanderer: I was curious about what happens after 19. e6 c4 20. Qb4
+[21:35:50] Inter-temporal: i expected either exf7+ or Qb4.
+[21:36:05] Silkthewanderer: Turns out that there you can go Qd6 and I actually don't have anything and am plain worse
+[21:36:20] Silkthewanderer: Would have never guessed that this was already trouble for me
+[21:36:35] Inter-temporal: i went thru so many candidates there
+[21:37:21] Inter-temporal: fxe6, f6, f5, Qd6, Qe7, c4, Kh8, .... and more
+[21:38:07] Inter-temporal: tried a process of elimination, which worked i guess since every move got eliminated.
+[21:38:37] Silkthewanderer: That was part of the charm of the line. So many candidates and very likely all but 1-2 lose
+[21:39:53] Inter-temporal: really wish i'd reviewed the line to recall ...e6 before Nc5. but maybe needed to lose it to appreciate it
+[21:41:39] Silkthewanderer: Not sure it would have made that much difference if we play normal from there
+[21:42:25] Silkthewanderer: The big silliness was of course e5 and Nfe4. Those were worse misjudgments than any of the tactics oversights
+[21:43:41] Inter-temporal: wondering if 9...Nfd7 might have been good
+[21:43:56] Inter-temporal: later, i'm sure i'll have another question or two, if ur available.
+[21:45:43] Silkthewanderer: Sure. Let’s talk in Slack
+[21:46:28] Inter-temporal: thanks!
