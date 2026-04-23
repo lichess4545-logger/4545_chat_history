@@ -1,0 +1,95 @@
+Lichess game chat log
+Game      : https://lichess.org/8a8lbLnO
+White     : konrder
+Black     : karasso
+Time      : 45+45
+Captured  : 2026-04-23 22:34:51 UTC
+Game ended : 2026-04-23 21:14:47 UTC
+Messages  : 85
+────────────────────────────────────────────────────────────
+
+[18:43:03] AnXiou: Let's go, karasso!
+[18:48:07] KonrDer: need to be mindful of my development
+[18:48:22] KonrDer: Bf4 there was Nh5, if g3 trying to fianchetto the bishop there is Ng4
+[18:48:53] KonrDer: hmm I thought he would not go for this
+[18:49:23] KonrDer: b5 there is d4
+[18:53:57] KonrDer: although if I go Bg5 there is still d4
+[18:54:43] KonrDer: maybe b5 d4 cxd4 exd4 Bg5
+[18:55:44] ivanhomeless: Oh, big crowd of spectators! Let's go Konrad!
+[19:33:01] KonrDer: Nc3 Qxd4 Bf6 I might have rxc3 giving up the queen for two pieces
+[19:35:48] KonrDer: Qxd4 there was nxc5 followed by Nxb3 and a nasty check on b4
+[19:36:19] KonrDer: now I have the intermediate nc6 depending on what he recaptures with
+[19:37:20] KonrDer: he might have a move such as Bd7 or so, Bb7 there is Nf5
+[19:37:35] KonrDer: I am still not out of the woods
+[19:40:07] AnXiou: Nxf2 possible here?
+[19:41:54] KonrDer: I am still 3 move away from casteling
+[19:42:55] KonrDer: Bd7 e3 bxc5 Bd3 Bb4+ Ke2 Nc3+ Rxc3 Bxc3 Nxc5
+[19:43:25] KonrDer: Ah I am tripping there is no Bb4+
+[19:43:40] KonrDer: wow completely missed Bh4
+[19:43:55] KonrDer: not even on my radar
+[19:44:26] KonrDer: does g3 not work
+[19:44:56] KonrDer: if Nxg3 fxg3 Bxg3+ I can play Kd2 and run
+[19:45:27] KonrDer: if g3 Qf6 I have Nf3
+[19:46:12] KonrDer: if bxc5 I can take on h4 and after cxd4 qxd4 Qxh4 I have nf3 again
+[19:46:43] AnXiou: g3, Qf4, Nf3, Nxg3, and the rook comes to d8?
+[19:46:43] KonrDer: i mean there is no other move than g3
+[19:47:28] KonrDer: ah maybe g3 bxc5 gxh4 qxh4 but then i should have rh2
+[19:47:59] KonrDer: and again I just realized ther is no Nf3 in one of the variations
+[19:47:59] KonrDer: I am hallucinating pieces
+[19:48:45] KonrDer: and of course I let out a crucial move: Nxf2
+[19:49:00] KonrDer: But there i dont see the follow up
+[19:52:18] KonrDer: this sac must be unsound
+[19:52:33] KonrDer: but It is still very possible to mess up
+[20:00:25] KonrDer: Now he has Bb7 and if Rg1 there is Bf2
+[20:02:42] KonrDer: looking at Rxg7+ there
+[20:04:00] KonrDer: alternatively there is Rc6 giving back material, there i have to  wary of Qg5+ ideas again
+[20:04:00] KonrDer: but Rxg7 does not look like it works
+[20:04:31] KonrDer: Rg1 Bf2 Rg4 there is f5
+[20:05:47] KonrDer: it looks tempting though
+[20:08:04] KonrDer: or maybe rg4 first and then take on g7
+[20:08:19] KonrDer: Rc6 feels wrong and slow
+[20:15:41] KonrDer: thinking about Ke2, Qg4 was my initial idea but the king hides on f8
+[20:24:03] KonrDer: this might not work at all
+[20:24:18] King12-life: Only hope tbh
+[20:27:36] AnXiou: Rxb3 was an option? (25)
+[20:28:06] AnXiou: maybe some checks were trouble
+[20:30:39] King12-life: Maybe it was an option but with so little time it is very messy
+[20:33:11] King12-life: I wonder if 27
+[20:33:26] King12-life: 27... Qf6 was a thing
+[20:35:28] KonrDer: crazy game
+[20:35:28] ivanhomeless: wow
+[20:35:43] KonrDer: I have played my opponent irl probably 8 times or so
+[20:35:43] KonrDer: never won a single game, but always get crazy games
+[20:35:58] King12-life: This could be the win, but it's still very technical
+[20:36:29] King12-life: Maybe black can get away with a perpetual somewhere
+[20:38:15] AnXiou: easy to blunder forks with a wide open king like this
+[20:39:01] King12-life: After 31. Nf5, everything was defended though
+[20:39:31] AnXiou: except a1?
+[20:40:02] AnXiou: a2
+[20:41:48] King12-life: Yeah but you threaten mate
+[20:44:20] AnXiou: details :)
+[20:47:23] KonrDer: this is very hard to convert, I feel like I am messing it up
+[20:48:09] King12-life: I feel like black is already better
+[20:54:29] King12-life: Now white is making progress though, it is very complicated
+[21:03:37] AnXiou: you lose the rock now?
+[21:03:37] King12-life: No, 50. Ke7
+[21:03:52] AnXiou: right
+[21:04:08] King12-life: But you lose the b5 pawn to Qe6+ Kd8 Qb6+
+[21:04:38] King12-life: Idk if it's good to go for that pawn though as you'd lose both of your remaining pawns
+[21:05:39] KonrDer: uff did I just blunder
+[21:06:25] KonrDer: I can repeat to get time
+[21:06:55] KonrDer: actually that drops b5 because if ke7 qxb5 rxa7 there is qc5+
+[21:07:41] KonrDer: I did blunder didnt I, he just needs to trade pawns and sac his queen for my rook
+[21:07:56] King12-life: Oh yeah that's an easy way to draw for black
+[21:07:56] KonrDer: I messed it up probably when I marched my king up
+[21:08:11] KonrDer: Kf6 which allowed Qg6+
+[21:08:41] KonrDer: man
+[21:08:57] KonrDer: this sucks
+[21:09:12] KonrDer: that was a really fun game though
+[21:10:13] KonrDer: two knights can checkmate if the opponents pawn is I think on the fourth rank
+[21:10:28] KonrDer: but how am i supposed to stop his pawns
+[21:10:28] King12-life: Maybe you can throw a couple more checks on the 7th with the rook just in case
+[21:12:45] KonrDer: if I want to keep any winning chances alive I cant take that pawn
+[21:13:00] KonrDer: but I am afraid I might screw it up
+[21:14:32] KonrDer: I'll call it a day
+[21:20:37] nyanners: gg
