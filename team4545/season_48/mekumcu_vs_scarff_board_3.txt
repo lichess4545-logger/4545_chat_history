@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/jrEDp7GY
+White     : mekumcu
+Black     : scarff
+Time      : 45+45
+Captured  : 2026-04-23 21:37:08 UTC
+Game ended : 2026-04-23 20:17:03 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[18:09:43] Scarff: I looked through some KID variations today, and this Nd4 idea is common with Nc6
+[18:10:29] Scarff: Not sure if I saw exactly this position, but it feels similar enough. The d4 pawn can be saved or sac'd
+[18:10:59] Scarff: Nxd4 exd Ne2 c5 for example, is a line I saw in a position like this
+[18:22:39] mynameismund: Go scarff!
+[18:29:45] jfiras: Good luck scarff !
+[18:55:07] Scarff: I think the e pawn is pinned because Re3
+[18:55:53] Scarff: and I see a line 18.Re1 fxe Nxe Rxe Rxe Bf5 which looks like a solid exchange sac
+[18:56:08] Scarff: but I win it back for sure, I think? And then have pressure on b2 in the end?
+[19:16:10] jfiras: (20...Bxh3) nice !
+[19:16:26] Scarff: not 100% sure about this resulting endgame-ish position. But hopefully it's winning!
+[19:16:26] jfiras: (20...Bxh3) i like this but i didn't calculate the line
+[19:16:41] Scarff: giving back the piece, but winning a different type of material back for it?
+[19:17:27] jfiras: (20...Bxh3) even if it seems like a good position for you scarff, but i think this is double edged too
+[19:24:33] jfiras: (22.Kh2) i like this move too, maybe retreating the lsb ttoo at some point
+[19:26:35] jfiras: (22.Kh2) Bf5 maybe
+[19:29:22] Scarff: mmm, not the best conversion. Think I should not have played Bxh3!
+[19:29:52] Scarff: not entirely sure this is winning anymore, although it does look good
+[20:16:48] jfiras: gg !
+[20:17:03] EnPriseWithEase: Good game both!
+[20:18:04] Scarff: Ah shit.... I was debating between 26...Qe4 and Qxc4... such a blunder!
+[20:18:35] Scarff: Just Qe4 there and my position is solid. Way too much risk to leave my king to go pawn grabbing there
+[20:23:23] Scarff: Oh, 20.Bxh3 is best. I just missed a few very simple tactics after... Bf4 attacks R on b1 for example
+[20:25:40] Scarff: Looks like it was not the cleanest game from either of us, in that mess at the end of the middlegame
