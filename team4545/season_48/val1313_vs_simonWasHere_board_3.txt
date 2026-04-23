@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/0i3qfO3i
+White     : val1313
+Black     : simonwashere
+Time      : 45+45
+Captured  : 2026-04-23 21:35:10 UTC
+Game ended : 2026-04-23 20:15:04 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[17:59:06] omertil: Goooo Val!
+[17:59:21] val1313: (8...O-O) hey guys !
+[17:59:37] omertil: I'm not used to seeing Val's dsb... So used to the Tromp!
+[18:00:53] guitarspider: (9.Bd2) cool that he's trying something new!
+[18:19:55] val1313: (12.Bxc3) ngl I am very surprised by this trade
+[18:39:11] GoldenRetrieverChess: Gooo Simon!!
+[18:44:16] omertil: This 15.Ba2 16.Bb1 maneuver's really potent!
+[18:44:31] DavidSifre: Go go Simon!!
+[18:47:18] omertil: 17.e4 18.e5?
+[18:54:55] guitarspider: (16...Nb6) that does look kinda dangerous, yeah
+[18:56:56] DavidSifre: Why doesn’t e4 lose the pawn?
+[18:57:27] DavidSifre: Never mind. Missed bishop.
+[18:57:42] omertil: Yeah, that sneaky b1 Bishop...
+[19:12:25] omertil: Was 21.Bb4 just winning?
+[19:13:11] omertil: Anyways, yeah, just 22.Bxe5?
+[19:23:04] omertil: Weird how the b and e pawn restrict both the black Knight and the White B
+[19:28:39] omertil: 29.Bd3? Rxb3 30.Be2?
+[19:29:40] omertil: Alright! Push'em baby!
+[19:36:46] prostidude: Go go Val!
+[19:37:31] Feet_Barbie: Go val
+[19:43:52] omertil: 33...Nd3 34.Rc7+ 35.Bf5+ 36.Bxd3 is a pretty safe bailout
+[19:46:24] omertil: I mean that fails to 36...Rd1 mate...
+[19:48:56] jdannan: isn't it just mate?
+[19:48:56] omertil: Still, you can't protect f2 a third time, so you're really better off with Rc7+
+[19:48:56] omertil: Oh boy
+[19:49:12] jdannan: Rc7+ I mean
+[19:49:42] jdannan: oh no Kg6...
+[19:49:42] omertil: Rc7+ Kg6
+[19:49:57] omertil: And Bf5 wins a piece, but drops the backrank...
+[19:49:57] jdannan: yes
+[19:52:29] omertil: I couldn't see the mate, and Simon has 20 minutes on the clock
+[19:57:49] omertil: What happens on 35...Nxf2?
+[19:58:50] DavidSifre: It’s tough to have pigs on the seventh of your king is on the 8th
+[19:59:05] King12-life: Bf5 maybe ?
+[19:59:20] omertil: If he had more time maybe calculate 36.Kg2
+[20:01:22] RMNL: Should be ok now. Clock was making me nervous.
+[20:01:53] DavidSifre: Rh2
+[20:03:55] DavidSifre: Rh2 will lead to mate.
+[20:04:10] omertil: There's Kg1?
+[20:04:10] RMNL: Kg1..Rbg2
+[20:04:25] RMNL: +
+[20:04:25] omertil: That could leat to perpetual check.
+[20:04:40] omertil: With a minute on the clock Val might take it
+[20:05:11] ItsASecret2000: Go val
+[20:05:26] King12-life: 37... Rh2 looks winning to ùe
+[20:05:26] King12-life: me*
+[20:05:26] DavidSifre: Nah. No perpetual here with the knight at the ready.
+[20:06:27] DavidSifre: Knight takes the rook with a fork to the king. That’s why this board 8 sees.
+[20:06:42] ItsASecret2000: knight drops
+[20:06:42] RMNL: was it ..Rh2,Kg1..Rbg2+,Kf1..Nd2#
+[20:06:42] King12-life: yes
+[20:07:12] King12-life: Rh2 Be2 was the only move to hold, and then Nd2+ was better for black but not easy to win
+[20:07:12] omertil: Oh. Wicked @RMNL
+[20:09:29] RMNL: Rook is always in bad shape if it can only move in one direction
+[20:09:29] omertil: 40...Rxf1 41...N2+ 42.Kd3 just reaches that lsb
+[20:10:00] King12-life: Rxf1+ Kxf1 Nd2+ Ke2 Nxc4 bxc4 a4 Kd2 and the king gets the pawn yes
+[20:10:15] DavidSifre: Rh2 was the move. This is just pain.
+[20:10:46] jdannan: Rx kx a4 maybe
+[20:11:31] ItsASecret2000: white is winning
+[20:11:46] King12-life: Yes
+[20:11:46] jdannan: yes
+[20:11:46] ItsASecret2000: nice move Rf1 to force the trade
+[20:12:02] King12-life: Rf1 didn't force the trade, Ng5! was a possibility
+[20:12:17] ItsASecret2000: I mean the trade of rooks
+[20:12:32] King12-life: After Ng5 you wouldn't trade the rooks with white I think
+[20:13:48] ItsASecret2000: i think the endgame is still good for white, maybe not winning but there are chances
+[20:14:19] DavidSifre: I think pigs on the 7th with a knight or a bishop is a won game
+[20:14:34] ItsASecret2000: bc you end with Ke3 and the knight on f4 has to move while you keep marching towards a5
+[20:14:34] ItsASecret2000: gg
+[20:14:49] omertil: This is tablebase
+[20:14:49] omertil: ggwp!
+[20:14:49] DavidSifre: To the bad cave!
+[20:15:20] omertil: 37.Re1 -6.8 ... Val gets another Houdini award!
+[20:16:05] DavidSifre: Sigh. Stupid engine confirms Rh2 was winning.
+[20:16:36] omertil: Also, love how Val missed 20.Bxe5 and 21.Bb4! You're just not used to playing with a dsb, are you? :rofl
