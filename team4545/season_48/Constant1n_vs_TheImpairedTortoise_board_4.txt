@@ -1,0 +1,44 @@
+Lichess game chat log
+Game      : https://lichess.org/Pq3BhgdX
+White     : constant1n
+Black     : theimpairedtortoise
+Time      : 45+45
+Captured  : 2026-04-23 22:59:00 UTC
+Game ended : 2026-04-23 21:38:56 UTC
+Messages  : 34
+────────────────────────────────────────────────────────────
+
+[21:06:28] Constant1n: (7) glad I looked at Bh6 beforehand, was expecting the French or this line
+[21:08:14] TheImpairedTortoise: my opponent had this position a few weeks ago and their opponent played exf4 which leads to a pretty worse position :)
+[21:09:30] Constant1n: (10) pretty sure Kb1 is always a move here early just to get rid off the pressure
+[21:09:30] Constant1n: (10) hope I ́m not missing anything here
+[21:11:32] Constant1n: (11) There is an exchange sac idea I remember with Nge2 Bg4 Nxd4, but not sure whether its a strtegic or concrete sacrifice
+[21:15:51] Constant1n: (12) Nxd4 Bxd1 Nxd1 exd4 Qxd4 Bg7 and then?
+[21:18:23] Constant1n: (13) I ́m pretty sure now the line continues Qxd4 Bg7 Rc1 and there is a Qxg7 sac in one prep line
+[21:18:38] Constant1n: (13) Don ́t like that he is still deep in preparation
+[21:19:09] Constant1n: (14) Afraid he looked into this significantly more than i have
+[21:21:10] Constant1n: (14) trying to recall the Qxg7 line, if I ́m correct it was Rc1 Nxe4 Qxg7 Kxg7 Nxe4 where White has good compensation
+[21:21:56] Constant1n: (14) Impressive prep from his side, glad I looked into the Bh6 stuff otherwise I ́d be lost
+[21:21:56] TheImpairedTortoise: I think Rc1 here is a forced draw after the queen sack on g7
+[21:22:11] Constant1n: (15) Still will be a super difficult game though
+[21:23:12] Constant1n: (15) very confident that Qxg7 is the move, but can ́t calculate the repercussions of it
+[21:24:28] TheImpairedTortoise: I think white is lost if they don't play Qxg7+ Kxg7 Nxe4+ Kf8 Nf6 perpetual
+[21:24:59] Constant1n: (15) f6 after Nxe4+ and I end up up a pawn, Kg8 and Nf6 is a fork, Kh8/Kf8 and its a rook/Bishop fork too
+[21:28:01] Constant1n: (18) now I am out of ideas, Rg1 and then
+[21:29:48] TheImpairedTortoise: My prep ends with a perpetual here, curious if white will decide to play on
+[21:30:03] Constant1n: (19) Insanely impressive he is still playing this quickly
+[21:31:34] Constant1n: (19) Nxe8 Qxe8 Bc4 and I am surely just worse right
+[21:32:20] Constant1n: (19) Could force Ke7 or a draw with Nh7+
+[21:32:50] Constant1n: (19) Ke7 Bf6+ and I win the Queen, so forced draw I reckon
+[21:33:21] Constant1n: (19) was that the endpoint of the line that White needs to go for that
+[21:33:36] Constant1n: (19) seems vaguely familiar
+[21:33:51] Constant1n: (19) would be a dull ending, but we are ahead by a win currently
+[21:36:08] Constant1n: (19) dont see any way to continue without being significantly worse, I suppose Nh7+ was the reason why this line was included in the ...
+[21:36:08] Constant1n: ...prep
+[21:37:09] Constant1n: (19) After Nh7+ Kg8 Nf6+ Kg7/Kh8 Nxe8+  I am surely better right
+[21:38:10] Constant1n: (21) hmm, seems like he probably looked at the identical prep just from the other side
+[21:38:25] nyanners: the legendary prep draw. very masterly
+[21:38:40] nyanners: gg
+[21:39:11] TheImpairedTortoise: Thank nyanners
+[21:39:11] TheImpairedTortoise: I see you watching games a lot :)
+[21:39:26] nyanners: :o
