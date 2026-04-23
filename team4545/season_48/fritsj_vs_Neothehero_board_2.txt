@@ -1,0 +1,92 @@
+Lichess game chat log
+Game      : https://lichess.org/9Xvhiv6O
+White     : fritsj
+Black     : neothehero
+Time      : 45+45
+Captured  : 2026-04-23 15:31:31 UTC
+Game ended : 2026-04-23 14:11:27 UTC
+Messages  : 82
+────────────────────────────────────────────────────────────
+
+[12:04:38] Micomps: Go fritsj!
+[12:09:12] Neothehero: (12.Rfd1) I'm out of book here
+[12:14:17] Neothehero: (12.Rfd1) e5 or Qe8?
+[12:19:06] fritsj: Starting to see more and more reasons why Rad1 was probably better
+[12:32:17] Neothehero: (15.e4) I 'm thinking f4, fxe4, or Qh5
+[12:34:49] Neothehero: (15.e4) Qh5 there's Qd5+
+[13:04:14] Neothehero: (18.e5) wow didn't expect e5 at all
+[13:06:31] fritsj: I don't know for sure but I think there's some compensation at the end of the lines if Black takes this pawn
+[13:07:02] fritsj: Like Nxe5 Nxe5 Qxe5 Re1 Qd6 Re8+ Kf7 Qxd6 Rxd6 Rae1 and Black's pieces on the Kingside are stuck
+[13:09:34] Neothehero: (18.e5) Re6 Ng5 Rxe5 Bd5+ Kh8 seems bad
+[13:18:11] nyanners: the ole anecdote about thinking about which rook to move and choosing the other one
+[13:27:19] Micomps: black should be marginally ahead I think - maybe play B/Q to e6 now?
+[13:27:19] Micomps: But time could be a factor
+[13:27:50] Micomps: 19...g5 was...not on my bingo card
+[13:28:20] Neothehero: (19...g5)  Be6 Bh3 Rh5 Bxe6 Qxe6 Qd5 Re8 doesn't look good for me
+[13:28:51] Micomps: I'd be playing 20.Bh3 I think, with e6 to follow
+[13:55:59] fritsj: f3 and it's not looking great...
+[13:58:31] Micomps: f3 was nice but I don't get Rf7
+[13:58:46] Micomps: Maybe planning Rg7 and push g-pawn?
+[13:58:46] Neothehero: (24...Rf7) wait did Rf4 just wins???
+[13:59:47] Micomps: 3-result game this. Not sure Rf4 was a home run
+[14:01:03] Neothehero: (25...Rf4) hopefully it's not too late
+[14:01:49] Micomps: Bashing out Kh1 is strong
+[14:02:34] Micomps: Bc4+.....Oooof
+[14:03:51] mini_karpov: have to go back with Bf1?
+[14:04:06] mini_karpov: bg2 kg1 Qxh2 is the threat
+[14:04:21] mini_karpov: oh nevermind
+[14:04:21] mini_karpov: silly
+[14:04:51] Micomps: e6 is classy
+[14:06:23] Neothehero: (29...Ke7) wah I think I'm losing now
+[14:06:38] Neothehero: (29...Ke7) I just blundered
+[14:08:09] Neothehero: (29...Ke7) Qg7+ Ke8 Qd7+ Kf8 e7+ should be it
+[14:12:43] Micomps: gg
+[14:12:58] fritsj: Interesting game, after f3 I thought I would likely lose
+[14:14:30] Neothehero: I should have gone c5 first after f3
+[14:14:45] Neothehero: blocking the a2-g8 diagonal completely
+[14:15:30] fritsj: Yeah that looks very strong
+[14:15:30] fritsj: Wasn't on my radar at all during the game
+[14:16:01] Neothehero: I thought about it, and thought giving you Rde4 was a waste of time
+[14:16:01] fritsj: Was still busy assessing your threats on the Kingside
+[14:16:01] Neothehero: Turned out I was completely wrong
+[14:16:16] Neothehero: but yeah very fun game nonetheless
+[14:16:46] fritsj: Yeah the line the computer gives looks very convincing but after f3 of course you're looking for some king of mating net
+[14:17:01] fritsj: Also I think the moment after e5 was very interesting
+[14:17:17] fritsj: I thought it was very dangerous to take but not sure
+[14:18:33] fritsj: I was looking at Nxe5 Nxe5 Qxe5 Re1 Qd6 Re8+ Kf7 Qxd6 Rxd6 Rae1 during the game
+[14:19:03] fritsj: Looks like compensation with the Queenside pieces tied up and White's active pieces
+[14:20:04] Neothehero: oh I didn't take that pawn because I thought after Nxe5 you had Qd4+
+[14:20:04] Neothehero: I missed that I had Nf7
+[14:20:19] Neothehero: backward knight moves are difficult to find haha
+[14:20:50] Neothehero: I meant Qd5+
+[14:21:05] fritsj: Ahhh yeah easy to miss
+[14:22:36] fritsj: You mentioned you were out of book after Rad1
+[14:22:51] fritsj: I mean Rfd1
+[14:22:51] Neothehero: Rfd1 you mean
+[14:22:51] Neothehero: yeah
+[14:23:06] Neothehero: Rad1 was what I had in mind
+[14:23:06] fritsj: But you knew the book move was Rad1?
+[14:23:37] Neothehero: after Rad1 I would go Qe8
+[14:23:37] Neothehero: and that was it
+[14:23:37] Neothehero: that was all I remembered
+[14:23:37] fritsj: Righta
+[14:24:07] Neothehero: I think Rad1 was certainly better because the f-rook should go to the e-file to support e4
+[14:24:07] fritsj: Yeah I remembered Rad1 was supposed to be the move but I couldn't figure out why not Rfd1
+[14:24:53] fritsj: Well if White gets time to prepare e4 like that then sure but like we saw in the game there is no time
+[14:25:38] fritsj: e5 is coming so quickly and e4 will follow if White doesn't play it immediately
+[14:25:54] Neothehero: true
+[14:26:39] Neothehero: When you played e4 it was quite unexpected for me as well
+[14:26:54] fritsj: I looked at this before the game or I wouldn't have known it at all
+[14:27:25] fritsj: There's a game in the masters database with precisely our game except Rad1 instead of Rfd1
+[14:27:40] fritsj: Perez Fernandez vs Salter
+[14:28:26] fritsj: But after all the exchanges on f4 and f6 you can see that White's rooks coordinate immediately on the d and e files
+[14:28:41] fritsj: Whereas in our game my rooks were a bit clumsier
+[14:29:26] Neothehero: yeah you played Re1 anyway
+[14:29:57] fritsj: I wanted to play Rae1 but the d1 Rook is in the way haha
+[14:32:14] Neothehero: not sure if my g5 move was bad
+[14:32:29] Neothehero: I wanted to prevent Bh3 and also defend f4
+[14:32:44] fritsj: Yeah didn't feel like a bad move at all during the game
+[14:33:14] fritsj: Weakens the King a lot though
+[14:33:30] fritsj: Very double edged
+[14:36:17] fritsj: Well I have to go, thanks for the game and the chat afterwards. And good luck in the next rounds!
+[14:36:32] Neothehero: thank you! good luck to you too!
