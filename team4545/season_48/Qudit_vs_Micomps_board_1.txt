@@ -1,0 +1,87 @@
+Lichess game chat log
+Game      : https://lichess.org/ExkvsmZR
+White     : qudit
+Black     : micomps
+Time      : 45+45
+Captured  : 2026-04-23 23:23:17 UTC
+Game ended : 2026-04-23 22:03:13 UTC
+Messages  : 77
+────────────────────────────────────────────────────────────
+
+[19:32:47] fritsj: Let's go Micomps!!
+[19:32:47] Micomps: (7. Re1) was prepared for either Re1 or e5 here. Think Re1 is the better option for white
+[19:32:47] precisionplay28: lets go micomps
+[19:32:47] Micomps: (10.Nc3) so I had prepared against 10.h3, a fairly common move in the Rossolimo
+[19:32:47] Micomps: Nc3 is a little unexpected, as it allows me to play Bg4, which h3 would stop
+[19:32:47] Micomps: (12...Nd7) I had planned to drop the knight back here if white played 10.h3 anyway
+[19:48:00] Micomps: (18...axb6) I'm quite content with this position. Active queen, half-open a-file
+[19:48:15] Micomps: Rc4 now I can just play Qb5 and it's fine
+[19:48:46] Micomps: don't think I'm winning by any stretch, but position feels ok
+[19:49:31] Micomps: (20.Rc5) and there it is. Think I just drop back to b5, as a3/a5 allow white to gain tempo
+[19:58:54] Micomps: I didn't actually think of 20.a4 as a possibility, but think this is still fine
+[20:00:10] fritsj: Interesting that Micomps didn't consider a4 at all, it was my #1 candidate move for White
+[20:00:41] fritsj: Making the Queen commit to a6 or somewhere along the 5th so that option cannot be postponed
+[20:01:27] fritsj: And I assumed a4 would likely be needed anyway for White since the a-pawn was vulnerable on the half open file on a half open file
+[20:09:33] Micomps: (23.Bd2) hoped white would play that, now I think I can play Qa7 and attack both a4 and d4
+[20:10:34] Micomps: think white then has to play axb5 and....then what. I think I can come out a pawn up, but need to calculate
+[20:13:22] Micomps: Qa7, axb Bxd4, Be3 Bxe3, Rxe3 Qa1+ then Qe5 and pick up b5. Does that work?
+[20:18:11] Micomps: now I'm not so sure. Qa7, Bc3 bxa, axb Qxa4, Ra1 - can I just drop back to b5?
+[20:23:00] echo3s: go qudit!
+[20:37:27] fritsj: After Qd4 maybe c5 Qd5 Qb7, then maybe Qc4 Rc6 with Rb6 to follow
+[20:39:44] Micomps: (30.Qd5) pawn up, but no idea how I should go about trying to improve on that material advantage. b3 could be a target but easy to defend
+[20:40:00] Micomps: I am a little worried about e5 coming in at some point and disrupting my nice pawn chain
+[20:40:45] Micomps: think I may need to kick the queen out and then think about stopping e5, or make it less appealing
+[20:48:07] fritsj: I like Qa8 here after Qc4
+[20:49:08] fritsj: Making it so Rb4 becomes an option and also allowing Black to meet e5 with d5
+[20:49:08] Micomps: I was silly, e5 isn't actually a threat right now, with the Queen on c4.  Back to the drawing board
+[21:14:30] fritsj: 40. b5 looks like a mistake to me by White
+[21:15:15] fritsj: d5 will come now
+[21:17:02] Micomps: I don't think the b-pawn is too much of a threat. Famous last words....
+[21:27:42] Micomps: back rank possibilities there - 43...Rxb7, RxR QxR, Rxd6 Qxe4, Rd8+ and mate to follow
+[21:29:59] Micomps: g4 is annoying
+[21:31:00] fritsj: Maybe Qf6 is a move
+[21:31:15] Grzybozbur: just take, what can white do?
+[21:31:30] fritsj: h5
+[21:32:01] fritsj: Crack open the Kingside while Black still needs time to deal with the b7 pawn
+[21:32:16] fritsj: Or did you mean take on b7?
+[21:32:46] Grzybozbur: no, i meant hg
+[21:33:32] Grzybozbur: hg h5 gh i don't see any threat
+[21:34:18] Grzybozbur: white king seems much weaker than black to me
+[21:35:34] fritsj: Maybe g4 hxg4 Qg3 Rxb7 Rxb7 Qxg4 aiming for quick h5 after
+[21:36:04] fritsj: I mean White is dead lost so seems like a decent try to randomize the position
+[21:38:06] Grzybozbur: i agree that g4 might be the best try, but i don't see what this h5 idea can do, black seems to be able to always defend g6 comfortably
+[21:38:52] Grzybozbur: if white attacks g6 with queen, then black can defend with queen, and if white attacks g6 with rook, then black rook is free to defend
+[21:40:08] Micomps: even though my king is more exposed now, I don't think I could play 48...gxh5
+[21:40:53] Micomps: my queen being centralised must be more important. White can't move the rook at the moment, or freely move the queen
+[21:43:56] Micomps: (50...Rc7) now I can swing rook to a7, f7 or h7 at will, think this is better square for it
+[21:44:26] fritsj: Those moves allow Rxc4 right?
+[21:44:26] Micomps: not now because of Rxc4, but in the future
+[21:45:27] fritsj: I liked Rb5-b3 better
+[21:45:58] Micomps: Kh7 a bit panicky with time, but keeps white pressed in for now
+[21:53:34] nyanners: should be game
+[21:54:05] fritsj: Qg5 d4 Rc6 Rg7 h5?
+[21:54:05] Grzybozbur: there's h5 rg7 h6 maybe?
+[21:57:08] fritsj: Oh noooo
+[21:58:08] alp_arslan92: (60...Qf3+) 61.Kg1 Rg7?? 62.Rc8+! xD
+[21:58:08] nyanners: okay maybe not that easy XD
+[21:59:09] nyanners: now Rh7 may be a thing
+[21:59:40] nyanners: okay that IS game
+[22:00:10] alp_arslan92: (63.Kg1) Yeah, Qf2+ and Rh7+
+[22:01:11] nyanners: uhh
+[22:01:11] nyanners: repeat i guess..
+[22:01:26] fritsj: Rh7+ Kg2 Qd2+
+[22:01:41] nyanners: seems very risky
+[22:02:12] fritsj: The other one is far cleaner
+[22:02:27] nyanners: there we go XD
+[22:02:42] tommeketoch: gg
+[22:02:58] fritsj: Very nice Micomps!!
+[22:02:58] alp_arslan92: (66...Rh7+) gg
+[22:02:58] tom_nors: gg
+[22:02:58] nyanners: gg
+[22:03:28] alp_arslan92: 58...c1Q was a nice find
+[22:03:43] Micomps: I was about 5 seconds away from playing Rg7 at the end there.....
+[22:04:29] nyanners: thats not how you wanna become famous
+[22:06:15] Micomps: Not a perfect game by either of us that
+[22:06:46] Micomps: i thought c3-c2 was good for me but compy says blunder
+[22:07:01] Micomps: That surprises me (the c2 being a blunder), not sure what I should have played instead
+[22:07:46] Micomps: Gosh, just Qg4+. That surprises me
