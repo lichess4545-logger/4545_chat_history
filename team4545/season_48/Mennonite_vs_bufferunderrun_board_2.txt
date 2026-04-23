@@ -1,0 +1,157 @@
+Lichess game chat log
+Game      : https://lichess.org/vweMxNA1
+White     : mennonite
+Black     : bufferunderrun
+Time      : 45+45
+Captured  : 2026-04-23 17:10:33 UTC
+Game ended : 2026-04-23 15:50:28 UTC
+Messages  : 147
+────────────────────────────────────────────────────────────
+
+[13:02:34] bufferunderrun: Bird huh...
+[13:02:49] Mennonite: my laptop died. i have a new one coming today so i borrowed my wife's laptop
+[13:03:34] Mennonite: but i'm having a hard time figuring out how to actually use it so i may just have to play on my phone
+[13:04:05] bufferunderrun: I kind of played a bit of Nc6 here in blitz, not that it's the best option, probably a bit dubious
+[13:04:50] bufferunderrun: I can't remember the last time I checked From's gambit, but here we go...
+[13:05:21] Mennonite: she has some weird setting apparently and i can't figure out how to actually make my moves on it. so i guess i can use the phone
+[13:07:53] RPCX: go buffer
+[13:09:55] RPCX: it's probably drag and drop if i had to guess
+[13:15:30] bufferunderrun: can't remember anything about d3, I think white normally went with d4, but who knows what people play now
+[13:16:46] bufferunderrun: so I might have e5 square if one compares d4 with d3, what else...
+[13:16:46] Minot: Go bufferunderrun!
+[13:18:17] Minot: this is the weirdest opening I have seen, white plays 1.f4 and black sacs a pawn
+[13:19:03] bufferunderrun: I have c5, d3 helps with e4-e5 push
+[13:19:18] RPCX: this has a short on it i think i remember watching a couple of years ago
+[13:19:33] bufferunderrun: the question is, do I go on with Ng4 or not?
+[13:20:49] nyanners: the bird is extremely scary so black players cop out by playing 1..e5
+[13:20:49] nyanners: ive been there
+[13:21:50] nyanners: 5 d3 i have not seen either
+[13:24:22] nyanners: might go with the thematic Ng4. Nxh2 seems like a real threat
+[13:24:37] nyanners: and g3 h5
+[13:25:23] NaveenGeorge: From's gambit I see
+[13:26:09] RPCX: oh that's the idea behind ng4 i was so focused of the f2 square
+[13:26:54] nyanners: yea like, the two main lines are 4..Nf6 and 4..g5
+[13:26:54] nyanners: different types of tricks
+[13:27:40] nyanners: the problem for white in these Nf6 lines is that its not so easy to deal with this knight due to the missing f-pawn
+[13:29:11] nyanners: i think what makes the most sense for white is 5 d4 Ng4 Qd3
+[13:29:42] nyanners: though i recall engine liked something else
+[13:31:13] bufferunderrun: Has it been like 20 years or so? Hmmm, I don't think I have touched the Bird with either colors since Polar Bear fame.
+[13:31:59] bufferunderrun: It was an Icelandic GM pushing it at the time, for white.
+[13:33:15] bufferunderrun: f6 or not f6, that is the question...
+[13:34:16] bufferunderrun: kind of what to keep the queen on the dark squares, but f6 block the diagonal for Qh4 later on
+[13:35:17] bufferunderrun: Be7 might be an option, but then what did I sacrifice the pawn for?
+[13:42:23] fulmarsky: Go Menno!
+[13:45:10] fulmarsky: (6.Bg5) wow seeing black's time management, i think Menno has made some good moves, to get the cogs wurring
+[13:45:25] fulmarsky: (6.Bg5) ponder and ponderings...
+[13:49:13] RPCX: black is slightly better here I think
+[13:50:45] RPCX: g5?
+[13:51:00] bufferunderrun: Ne3 is possible now
+[13:51:15] fulmarsky: (7.Bh4) oh dear
+[13:51:15] fulmarsky: (7.Bh4) oooh dear please not ...Ne3
+[13:51:30] bufferunderrun: doesn't look like I'm sacrificing anything on h2 anymore
+[13:53:02] bufferunderrun: g5 seems a bit too aggressive, given that the pieces on the Q-side are not developed yet
+[13:55:34] bufferunderrun: Bf4 Qb4 I guess, so I might want to play Qe7 first
+[13:56:04] bufferunderrun: hold on, Qb4 Nxc2
+[13:59:22] bufferunderrun: maybe Qc3 then, still trying to figure out whether I want Qe7 first on not
+[14:02:40] fulmarsky: (8.Qd2) please eateth not Bf1, let him be,  please.....
+[14:04:42] NaveenGeorge: Nxf1 would have been a bad move btw
+[14:05:43] fulmarsky: (8...Qe7) as i give a measure of hindsight i now give appreciation to the splendour of that knight on the 6th rank.... but still of that
+[14:05:58] fulmarsky: (8...Qe7) knight be of most discomfort to the player with the white pieces
+[14:07:44] bufferunderrun: should at least have some compensation for the pawn in terms of development
+[14:09:31] fulmarsky: (8...Qe7) i can sense black's appreciation of the 45 second time increment, of it be of most eloquence in this context
+[14:10:16] fulmarsky: (8...Qe7) yes wonder ponders now also... ponders, how to nudge that Ne3,  oooh nudgity nudgity, please move
+[14:11:33] fulmarsky: (8...Qe7) this position seemeth somewhat awkward for white.... one word,  tense...  tense...
+[14:13:04] fulmarsky: (8...Qe7) that Bf1 is stuck stuck, just stuck is if its shoe soles be thick with glue, how to move how to develop, this is the angst on the
+[14:13:04] fulmarsky: (8...Qe7) 64 squares
+[14:14:20] fulmarsky: (8...Qe7) i would say   Rg1  and g3 and Bg2, but ...g5 stops all that,  ouchyness
+[14:14:50] fulmarsky: (8...Qe7) oh i'm guessing, all i know is, this just    tense
+[14:17:53] fulmarsky: (8...Qe7) i ponder  Kf2    just to say, knight move, just move away please
+[14:19:24] fulmarsky: (8...Qe7) Kf2 ...Bf4 is that awkward though.... oooh i all knoweth be this,  this game be-eth not a blitz game
+[14:19:55] bufferunderrun: yeah, I thought Bf2 was a must
+[14:20:10] fulmarsky: (9.Bf2) that move appeareth more sensitible than my Kf2
+[14:21:26] fulmarsky: (9...Bf4) WQ where do thou go, tread upon those squares find refuge on the queenside, and hastily so
+[14:22:12] fulmarsky: (9...Bf4) or doth the Ne3 knight be no more, should white tread that path
+[14:23:28] fulmarsky: (10.Bxe3) giveth prudence, take heed.  Be Bxe3 the most optimal route..oooooohhh sift though all these thoughts please
+[14:30:34] fulmarsky: (12...Be6) black's kights be of splendour, indeed black hath compensation for the deficit of that precious pawn
+[14:31:04] fulmarsky: (13.Nc4) mineself hath made an error, i had the intention to write bishops,  those two bishops of black's be of splendid eloquence
+[14:32:20] bufferunderrun: hmmm do I keep the bishop pair?
+[14:32:36] fulmarsky: (13.Nc4) yet there be complexities.... these 64 squares hold many tensions and nuances ups and downs, oooh its desperate place sometimes
+[14:32:36] fulmarsky: (13.Nc4) those 64 squares
+[14:33:52] fulmarsky: (13...Bxc4) black LSB, why hath though sacrificed thyself?
+[14:34:07] RPCX: o-o-o
+[14:34:53] fulmarsky: (14.Qxc4) oh think, letteth my cognitive matter knoweth what taketh place on those tense tense squares
+[14:35:23] bufferunderrun: Qe4 coming anyway, so...
+[14:35:38] fulmarsky: (14...Qb4+) smug
+[14:36:39] fulmarsky: (16.Kd1) too much tenseness...  64 squared dilemmas and ponderings
+[14:37:25] fulmarsky: (16...O-O-O) how doth white develop the bishop and rooks, and do so in haste, i see-eth not how this be done in haste
+[14:37:55] bufferunderrun: maybe castling short was better
+[14:40:27] fulmarsky: (17...g5) i perceive the astonishing development  Bh3+   Rf1, oooh have the kingside found inspiration at this moment
+[14:41:28] fulmarsky: (17...g5) Bishop doth though feel the longing to put up a deck chair on h3 and taketh rest there....
+[14:41:43] fulmarsky: (17...g5) thou loveth that h3 square
+[15:11:55] Kayrosas: lets go mennonite :o looks good, pawn up endgame
+[15:16:13] Kayrosas: 38.Rh1 strong i think
+[15:17:45] fulmarsky: (38.d5+) it was a very tense start to the chess game, and now its settled into an endgame... still tenseness simmering over the squares
+[15:20:32] Kayrosas: if he goes b4 now i think it's quite straightforward for white
+[15:21:02] nguyenmanhduc_2x: hallo
+[15:21:33] Kayrosas: hi
+[15:22:03] nguyenmanhduc_2x: Good luck and may you win! @bufferunderrun
+[15:25:52] Kayrosas: 43.c5 is possible i think but i dont like giving black the opportunity to sac for 3 pawns
+[15:27:08] fulmarsky: (43.b5) oh these complexities... ooooh and earlier on it was black behind on time, and now it's reversed
+[15:30:10] Kayrosas: that 42.Nf6 move killed white's harmony a bit
+[15:31:42] Kayrosas: 46.Nh7? bit tought to be low on time here
+[15:35:45] nguyenmanhduc_2x: I think the match will end in a draw.
+[15:36:31] fulmarsky: (49...Ke5) why hath white given up the pawn, i knoweth not why that sac tooketh place
+[15:37:32] fulmarsky: (50.Ke3) bit a touch of anxiety... be that bishop stronger? because pawns are on both sides of the board... oh dear....
+[15:38:02] Kayrosas: yea bit worrisome now
+[15:38:48] fulmarsky: (50...Bb4) oooh dear..... oooh please optimism saturate thinself over those 64 squares... oooooh  this is tense.... tense....
+[15:39:03] Kayrosas: 51.Kd3 Kf4 Nf6 maybe
+[15:39:33] fulmarsky: (51.Kd3) this is zugzwang of the most anguished nature...
+[15:40:19] Minot: whatabout Be7 Nd5 Kxg4 after that, is that draw
+[15:41:05] fulmarsky: (51.Kd3) oooh one can hope that this shall resulteth in a draw
+[15:41:35] Minot: 2 connected passed pawns vs a knight, who is faster tho
+[15:41:50] Kayrosas: hm
+[15:41:50] RPCX: be7 c5 then what ?
+[15:42:06] Minot: Bxf6
+[15:42:36] samisasleep: Kf4 c5?!
+[15:42:51] samisasleep: To stop bishop from getting back
+[15:42:51] Minot: you just take Bxc5, no?
+[15:43:06] nguyenmanhduc_2x: I think Black has seen the advantage and has already taken more than one good shot.
+[15:43:06] samisasleep: Bxc5 impossible
+[15:43:22] Minot: why
+[15:44:23] samisasleep: Passed pawns on queen side: NxB followed by a5 wins
+[15:44:23] RPCX: i think white may have had some way to force a pawn through after be7 after sacing 2 pawns
+[15:44:53] Kayrosas: now Be7 c5 maybe
+[15:45:08] Minot: ah yeah black is slower there, true
+[15:45:08] Kayrosas: dont think white has another option after Be7
+[15:45:39] NirakuHakamura: (53.Ne4) how about Ba3-b2?
+[15:45:54] Kayrosas: hm
+[15:45:54] NirakuHakamura: (53.Ne4) go Mennonite
+[15:46:09] Minot: endgames are brutal
+[15:46:24] RPCX: be7 c5 bxc5 a4 bd8 works for black
+[15:47:10] bufferunderrun: Kxg4 seems risky
+[15:47:56] jdannan: Be7 looked winning to me
+[15:47:56] Kayrosas: 53...Be7 c5 bxc a5 Bd8 b6 seems ok for white?
+[15:47:56] nguyenmanhduc_2x: 53. Kxg4 blunder
+[15:48:11] Kayrosas: hm
+[15:48:26] Minot: ax and a6 right? in that line
+[15:48:41] Kayrosas: yea
+[15:49:27] samisasleep: c5 before Nf6
+[15:49:27] bufferunderrun: yeah, I guess I have to
+[15:49:42] Kayrosas: phew
+[15:49:42] Minot: gg
+[15:49:57] Pineapplechiffoncake: gg
+[15:49:57] nguyenmanhduc_2x: Both players contributed to a great game of chess.
+[15:50:13] Kayrosas: gg
+[15:50:13] NirakuHakamura: gg
+[15:50:43] RPCX: ggs
+[15:51:29] Minot: Bd6 is a so unnatural move
+[15:52:45] Minot: ah even then, it gives a draw after certain depth
+[15:57:34] fulmarsky: gg both
+[16:09:43] bufferunderrun: I didn't look at Bd6 at all. My initial idea was Be7, but then I spotted Nd5 fork and it looked losing.
+[16:12:00] bufferunderrun: thought also about Be1, like with the knight on f6, but c5 and Kc4 looked scary
+[16:13:01] Mennonite: I didn't even consider 46.Kh7. I wanted to play 46.Ne4 but with seconds to go couldn't work out wither 46...Rxf5 ends up losing
+[16:13:31] Mennonite: *46.Nh7
+[16:13:47] Mennonite: c5/Kc4 was my idea there but I suspect it would have been too slow
+[16:16:19] Mennonite: I don't understand the computer's suggestion of 6.e3 for me. I thought that just loses to Nxh2 and frankly don't understand the suggested
+[16:16:19] Mennonite: computer line at all
+[16:23:39] bufferunderrun: no idea, not up-to-date on the latest theory, frankly also old theory, but that's what weekend is for hehe
