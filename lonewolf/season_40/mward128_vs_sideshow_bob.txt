@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/FY3qEb1i
+White     : mward128
+Black     : sideshow_bob
+Time      : 30+30
+Captured  : 2026-04-23 22:10:12 UTC
+Game ended : 2026-04-23 20:50:08 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[19:08:10] uga40: Go Mward128!
+[19:08:25] HyruleanTubist: go mward!
+[19:08:40] HyruleanTubist: I just checked the database, 7... Qb6 is apparently a sideline
+[19:09:56] uga40: 8. And blacks knight is ready to come to f5
+[19:10:27] HyruleanTubist: How is white supposed to defend f2?
+[19:10:42] HyruleanTubist: Qg3?
+[19:10:57] uga40: Was thinking the Queen but ... Nf5 is a threat
+[19:11:43] HyruleanTubist: Well, the database says Bd3, you just let black have it
+[19:12:13] HyruleanTubist: That's a tough move to come up wiht on the fly
+[19:13:14] HyruleanTubist: And probably why we've got hefty time usage for the opening lol
+[19:15:16] uga40: Looks like white lost a key Tempi with a3
+[19:19:20] uga40: This is why I prefer the 2 knights against the Caro
+[19:22:37] uga40: 5. Bb5+ instead of a3 would have gotten white castled
+[19:32:46] uga40: 11. Queen trapped?
+[19:33:32] uga40: 11. Not yet
+[19:35:34] HyruleanTubist: White's not in as much danger as it looks I feel like
+[19:35:49] HyruleanTubist: Black doesn't haven't any reinforcements
+[19:36:04] HyruleanTubist: So Nxe3 Kc1 and white's honestly not in a horrible spot for being down a pawn
+[19:37:05] HyruleanTubist: I guess the question is, if Qxe3 does white want to trade queens
+[19:37:35] HyruleanTubist: Actaully, white doesnt' get that choice lol
+[19:38:21] uga40: 12. White might survive this
+[19:38:51] HyruleanTubist: Wait
+[19:38:51] HyruleanTubist: Bxf5?
+[19:39:07] HyruleanTubist: nvm its a trade
+[19:41:39] HyruleanTubist: Ah but he does go for it this way
+[19:42:25] HyruleanTubist: I like the fast 15. Nc3
+[19:42:25] uga40: 14. White is fine here, just the time
+[19:43:10] uga40: Doubled pawns for black and isolated pawn for white
+[19:43:25] HyruleanTubist: I think Be6 might have been a mistake
+[19:43:41] HyruleanTubist: c7 and d6 both super weak for black
+[19:43:41] HyruleanTubist: Lots of dark squares for the knights to abuse
+[19:44:41] HyruleanTubist: So does black play something like Na6?
+[19:44:41] HyruleanTubist: Is there even a choice?
+[19:45:12] HyruleanTubist: I suppose there is a choice
+[19:45:58] uga40: 17. White is going to have a monster knight
+[19:47:29] HyruleanTubist: Yeah, Ne6 and it lives there
+[19:47:44] HyruleanTubist: Though is there argument for Nd4, too?
+[19:48:15] HyruleanTubist: Maybe not
+[19:49:00] uga40: 19. Nd6 and push c pawn
+[19:49:15] HyruleanTubist: Seems like an easy plan
+[19:50:32] uga40: Well black locked down c4
+[19:51:02] HyruleanTubist: for now
+[19:51:02] HyruleanTubist: a4 is always available
+[19:51:32] uga40: White can rook lift to get in
+[19:52:03] uga40: Needs to take advantage of the Tempi while having c8 locked down
+[19:52:48] uga40: Black needs 3 Tempi to trade knights, white can get the rooks going in that time
+[19:53:34] uga40: Hmm, not in time
+[19:55:05] HyruleanTubist: Giving up e5 isn't ideal
+[19:56:06] uga40: Yep,  Ke2 might have been imprecise
+[20:01:56] HyruleanTubist: This is a troublesome position for white
+[20:03:43] uga40: 25. Yep, black is gaining space
+[20:15:38] HyruleanTubist: That's too many pawns on the 5th rank lol
