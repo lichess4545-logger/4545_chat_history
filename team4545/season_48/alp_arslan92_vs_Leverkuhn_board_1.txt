@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/Mr1CygFn
+White     : alp_arslan92
+Black     : leverkuhn
+Time      : 45+45
+Captured  : 2026-04-23 22:54:11 UTC
+Game ended : 2026-04-23 21:34:07 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[19:55:42] BLang316: Go alp!
+[19:55:42] R0B-W: Go, alp!
+[19:55:42] Leverkuhn: thought we were going to have a nice, chill 5.Re1 Berlin, but no!
+[19:55:42] fork2020: Go alp_arslan92
+[19:55:42] Leverkuhn: I don't know this 11.Bf4 move; it's quite possible taking on move 12 was important
+[19:55:42] Leverkuhn: as I played it I sort of had to take on move 13 as after 13...c6 14.d5 there's nothing good about my position
+[21:17:38] Inter-temporal: (33) (33.Qb5) go Lever-alp-chess!
+[21:24:14] GoldenRetrieverChess: Go Alp!
+[21:34:37] R0B-W: gg
+[21:34:37] BLang316: gg
+[21:34:53] GoldenRetrieverChess: gg
+[21:35:38] Leverkuhn: felt like there should be a draw after 40.b5, but seems it just lost by a tempo
+[21:35:38] alp_arslan92: Me too in fact
+[21:36:09] alp_arslan92: I saw 41...Ne5 42.b6 Rc5 43.b7 Rb5 and didn't think further
+[21:36:09] alp_arslan92: But it seems 44.Rc3 wins then, yikes
+[21:36:39] Leverkuhn: once the passed pawn doesn't fall there's no hope
+[21:36:54] alp_arslan92: Right, the bishop is just doing wonders in that case
+[21:36:54] Leverkuhn: I was playing somewhat reasonably until 20...Qf6?!
+[21:37:10] alp_arslan92: I thought 21...Nc5 was unfortunate
+[21:37:25] alp_arslan92: 21...Bf5 or Be6 should be fine
+[21:37:25] Leverkuhn: I planned on winning with 21.Qe3 Ne5?, but then I noticed 22.Bxe5
+[21:37:40] Leverkuhn: I got so rattled that even though I saw it I immediately blundered the same tactic
+[21:37:40] alp_arslan92: Yeah, exactly, the loose Bg4 does a good job for me
+[21:38:26] Leverkuhn: it was weird case of blunders always coming in pairs
+[21:38:41] Leverkuhn: 20...Qf6 wasn't a blunder exactly, but the thinking behind it was and it had the same psychological effect
+[21:38:56] alp_arslan92: Yeah, that was unfortunate. I was wondering if you actually just gave the pawn to simplify a bit
+[21:39:11] Leverkuhn: presumably I could have played 20...Bf3 with at least some advantage
+[21:39:42] alp_arslan92: That was what I thought to be best actually
+[21:39:42] alp_arslan92: Because 21.Qe3 Bc6 22.b4 b6
+[21:39:42] alp_arslan92: And I don't see a clear path forward
+[21:39:57] alp_arslan92: Should still have some compensation I reckoned, but I'm struggling
+[21:40:12] Leverkuhn: that was my origianal plan, then I got excited by 20...Qf6 21.Qe3 Ne5 22.Bg2 Nf3+ and miscalculated
+[21:40:58] alp_arslan92: I understand, if that worked, it would really put a dent to my compensation
+[21:41:13] alp_arslan92: I think 13.Nc3 was also way to over ambitious
+[21:41:13] alp_arslan92: Just 13.c3 or 13.Qd2
+[21:41:13] Leverkuhn: 25.a3!! Nxb3 26.Re4 was a beautiful idea
+[21:41:28] alp_arslan92: And it's a microscopic edge for White I guess
+[21:41:28] Leverkuhn: I couldn't believe it
+[21:41:43] alp_arslan92: Re4 or Rf4?
+[21:41:58] Leverkuhn: Rf4 Qb2 though
+[21:41:58] alp_arslan92: I thought 25.a3 Nxb3 26.Rf4 Qb2 27.Qe7 Rf8 28.c5
+[21:42:14] alp_arslan92: With the idea Rxf7 Qe8+ Bc4+
+[21:42:29] alp_arslan92: Oh wow
+[21:42:29] alp_arslan92: It seems 28...Nd2 holds
+[21:42:44] Leverkuhn: hmmm that doesn't seem convincing to me but interesting
+[21:43:14] alp_arslan92: I guess it's good for me 26.Re4 works then... xD
+[21:43:30] alp_arslan92: I would've 95% played 26.Rf4
+[21:43:45] alp_arslan92: But yeah
+[21:43:45] alp_arslan92: 26.Re4 is much cleaner lol
+[21:43:45] alp_arslan92: Just wins the Nb3
+[21:44:00] Leverkuhn: yes
+[21:44:46] Leverkuhn: I wonder what the right move was instead of 24...Rd8
+[21:44:46] alp_arslan92: I thought simply 24...b6?
+[21:45:01] alp_arslan92: Then maybe Kf8 Rd8
+[21:45:01] alp_arslan92: Or so
+[21:45:01] alp_arslan92: *Re8
+[21:45:16] Leverkuhn: I guess you could still play a3
+[21:45:16] alp_arslan92: I guess 24.b6 25.a3 again
+[21:45:16] alp_arslan92: xD
+[21:45:16] alp_arslan92: yeah, same idea
+[21:45:46] alp_arslan92: Actually, 23...a5 striked me as unfortunate
+[21:45:46] alp_arslan92: It's always kind of loose
+[21:46:02] alp_arslan92: 23...Ne6
+[21:46:02] alp_arslan92: To stop 24.Rd4
+[21:46:17] alp_arslan92: 24.Re4 is nice I guess, but maybe not more than that
+[21:46:17] Leverkuhn: yeah I think you're right
+[21:47:02] Leverkuhn: I was trying to set up with ...a5, ...b6, and ...Rd8 and didn't really see how the move order mattered
+[21:47:18] Leverkuhn: but I was counting on a3 ...Nxb3 tactics which transpired not to work
+[21:47:48] alp_arslan92: Right, it feels like a good setup, but it seems to be simply too slow/tactically flawed
