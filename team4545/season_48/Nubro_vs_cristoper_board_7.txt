@@ -1,0 +1,130 @@
+Lichess game chat log
+Game      : https://lichess.org/Q8Pv6UqC
+White     : nubro
+Black     : cristoper
+Time      : 45+45
+Captured  : 2026-04-23 21:34:09 UTC
+Game ended : 2026-04-23 20:14:03 UTC
+Messages  : 120
+────────────────────────────────────────────────────────────
+
+[18:00:52] matthewhuber: go Nubro!
+[18:05:27] oOoSHONUFFoOo: Gooo cristoper!
+[18:12:48] bronasberger: Go cristoper!
+[18:20:24] Joonaf: Go Nubro!
+[18:29:02] cowtone: Go numbro
+[18:52:37] Joonaf: 15..Nf6 or ..f5
+[18:52:37] Joonaf: if ..Bf5, then f3
+[18:53:23] Joonaf: white can take the pawn on b7
+[18:57:41] Joonaf: Is ..Qg5's idea Bh3? But Bxe4 (and Qxe4) defends that
+[18:58:27] Joonaf: so looks like white will win a pawn and get a nice center
+[18:59:13] Joonaf: or would something like f3, Nf6, e4 work too?
+[19:01:15] Joonaf: 16.Bxe4 seems simple and good
+[19:02:00] cowtone: Be5?
+[19:02:15] cowtone: D5
+[19:02:15] Joonaf: oh
+[19:02:15] Joonaf: damn, you're right D:
+[19:02:31] Joonaf: I totally missed that. I hope they both do too
+[19:02:46] Joonaf: I mean, Nubro missed it too, and I hope Black does too
+[19:03:01] Joonaf: and I thought it was a simple and safe move
+[19:03:32] Joonaf: it's easy to blunder if I think a move is simple and then don't calculate anything
+[19:03:47] Joonaf: ..Bd5, h4 maybe
+[19:04:02] Joonaf: does that save White
+[19:04:17] Joonaf: at least they have a lot of time to think
+[19:04:32] Joonaf: h4 saves this, right? The Black Q cannot stay on the g-file
+[19:05:03] Joonaf: So it's either Q trade or both Qs go to safety
+[19:05:48] Joonaf: and good thing the d4-pawn is there. Otherwise 18.h4, Qf6, and both Q and R would be attacked
+[19:06:49] Joonaf: so 18.h4, and Black needs to either trade queen or go ..Qh5 or ..Qd8
+[19:16:28] cowtone: f4 and h4 saved the day, didn't see those
+[19:17:13] cowtone: Rc8, looks quite problematic for white?
+[19:18:45] Joonaf: What do you mean Rc8
+[19:19:15] Joonaf: This 21..Rc8?
+[19:19:30] cowtone: 20..
+[19:20:01] cowtone: Black lost one move with taking
+[19:20:16] Joonaf: I guess it's a bit problematic here too. ..Rc2+ would win the g2-pawn, and for white Ra2 isn't possible
+[19:20:46] cowtone: And black has an initiative vs one less pawn so tine was crucial
+[19:20:46] Joonaf: so, Bd2 maybe?
+[19:21:02] Joonaf: is Bd2, Rc2, Rd1 too passive
+[19:21:17] Joonaf: then ..Ra2 and white cannot defend the pawn
+[19:21:32] Joonaf: or does White go 22.Kg1
+[19:22:02] Joonaf: I was thinking Kg1, Rc2, g3, but then ..Rg2+
+[19:22:48] Joonaf: White's pieces are bad
+[19:23:34] Joonaf: everything looks bad
+[19:24:50] cowtone: Yso black can win the a pawn and both will hace nice passed pawns
+[19:25:20] cowtone: But black's pieces are more active, especiallt B
+[19:26:21] Joonaf: if white can go Rc1, then there's backrank threat
+[19:26:37] cowtone: Hopefully this won't end by blunder, interesting end game
+[19:27:07] matthewhuber: should be a boring draw in my opinion
+[19:27:22] Joonaf: rook trade, ..Rc6, or ..Be4
+[19:27:38] Joonaf: your games are so wild and crazy that everything else is boring to you :P
+[19:27:53] matthewhuber: not everything, but certainly opposite colored bishop endgames
+[19:27:53] cowtone: Ok now it looks like a boring draw
+[19:28:08] Joonaf: opposite colored bishop endgames might be boring at high level, but at our level they are not easy draws
+[19:28:23] Joonaf: anything can happen
+[19:28:38] matthewhuber: this middle game looked really exciting though, i think there was a lot more oppurtunities for both sides
+[19:29:09] Joonaf: and with 'our' I mean me and these guys. You two are on elite level
+[19:29:09] cowtone: Yes i wouldn't take a draw for granted yet
+[19:29:39] matthewhuber: im nowhere near elite, but you are right that nothing is easy for us mortals
+[19:29:54] Joonaf: pawns can be so tricky
+[19:29:54] matthewhuber: just takes one brain fart
+[19:29:54] Joonaf: they get special powers in endgames
+[19:30:25] Joonaf: they seem so predictable, but are not
+[19:30:55] Joonaf: every white pawn is on dark square
+[19:31:11] Joonaf: that's good, right?
+[19:31:11] Joonaf: now just activate the king and bishop
+[19:31:41] matthewhuber: yes its good since the black bishop cant target them
+[19:32:57] cowtone: Promoting square of d pawn matches with white's bishop so they will win
+[19:33:12] Joonaf: Go king, go! And then I suggest you push the f-pawn! And by f-pawn I mean the d-pawn
+[19:33:43] matthewhuber: i wish it was that simple
+[19:33:43] cowtone: Ok they won't win but if we lost hope, we lose everything
+[19:34:44] Joonaf: good time advantage too. Maybe this will take long and that will come into play
+[19:34:59] cowtone: Or they will agree for a draw next move
+[19:36:46] Joonaf: ..b5 could stop the White king from coming to c4, so maybe the king goes the other way, Kf2-g3-f4
+[19:37:31] Joonaf: do you ep
+[19:38:47] cowtone: Didn't that give white's king more time to come into play
+[19:39:18] cowtone: I meant black's king, white could have moved their king instead
+[19:39:33] cowtone: As if it mattered
+[19:40:03] Joonaf: did it?
+[19:40:34] Joonaf: if I calculate correctly, it didn't
+[19:40:34] Joonaf: but might be wrong
+[19:41:20] Joonaf: black lost a tempo by capturing, and gained it back by moving the king forward instead of sideways
+[19:41:35] cowtone: Yes you are right
+[19:41:50] Joonaf: and if white doesn't ep, then black still lost and gained tempo the same
+[19:42:20] Joonaf: not sure if en passant has other effects or not
+[19:49:42] aldric123: All pawns on your bishop's color are great for drawing in opp bishops. You want it on the other color to limit the bishop if you're trying
+[19:49:57] aldric123: to win. But you can't win without being preferably 2 but at least 1 pawn up.
+[19:51:28] Joonaf: Yeah, I guess you guys are right. Low time doesn't affect either if the moves are easy
+[19:54:31] aldric123: I think the combo of the time and the likelyhood of white being able to win a pawn that white has chances.
+[19:54:46] aldric123: In a perfect world this is a dead draw though.
+[19:55:47] aldric123: Black can just jettison f6 pawn and move his light square bishop forever
+[19:56:33] aldric123: Though putting queenside pawns on dark squares is -- something
+[20:10:45] Joonaf: Umm
+[20:11:01] Joonaf: Why Bh2
+[20:11:16] Joonaf: Oh no
+[20:11:46] Joonaf: Or did it even matter
+[20:11:46] Joonaf: Did white blunder before that
+[20:12:47] Joonaf: 2v1 and one pawn advanced too far on the other side
+[20:13:33] Joonaf: King on the wrong side, not catching tve pawns in time
+[20:13:33] bronasberger: Good game!
+[20:13:33] Nubro: gg
+[20:13:48] Joonaf: Wrong side as behind/in front of
+[20:13:48] cowtone: Gg
+[20:13:48] Joonaf: Ggwp!
+[20:13:48] Nubro: Yeah, wrong side
+[20:14:03] Nubro: I think this was winnable after rook trade
+[20:15:19] Nubro: I also missed the move 17..Bd5, glad I found a counter
+[20:16:35] Nubro: Should I've gone straight to the queenside with my king instead of kingside?
+[20:20:08] Nubro: From move 26 onwards I mean
+[20:26:59] cristoper: At first I thought you couldn't play 16.Bxe4 because of 17..Bd5, but then I saw you had f4. And h4 too, apparently, which I didn't look at
+[20:30:01] Nubro: engine thinks h4 was better
+[20:30:16] Nubro: I'm glad I found f4/h4 that
+[20:36:06] Nubro: Now I see why h4 is better: Rc2 does not threaten g2. Because the f pawn is still there
+[20:37:07] cristoper: yes. interesting that we both saw f4 instead
+[20:37:37] cristoper: the reason I went for the queen trade after f4 is because I though Rc2 would be good, but I couldn't find better than trading down
+[20:38:08] Nubro: Rc2 was good, but I thought you would've doubled the rooks instead of taking mine
+[20:39:08] Nubro: I would've played Bd2 then and maybe Raf1?
+[20:39:24] cristoper: I didn't double because I thought you would play Bd2
+[20:39:54] cristoper: yep. I thought by trading I could at least keep pressure on g2
+[20:40:40] Nubro: Yeah true. I'll try to remember that: if a rook can infiltrate to look which pawns are weak if I'm debating between two
+[20:41:25] Nubro: Wp, really solid and nice accuracy. Got to go now. Good luck in other rounds
+[20:41:40] cristoper: same to you!
