@@ -1,0 +1,239 @@
+Lichess game chat log
+Game      : https://lichess.org/BXV2R9qg
+White     : pope123
+Black     : omertil
+Time      : 45+45
+Captured  : 2026-04-24 20:06:54 UTC
+Game ended : 2026-04-24 18:46:49 UTC
+Messages  : 229
+────────────────────────────────────────────────────────────
+
+[16:00:40] guitarspider: (1.d4) go pope!
+[16:02:26] omertil: Hey guys, thanks for watching, even if you are on the wrong side!
+[16:03:12] MrScribbles: Lol hi omer
+[16:03:12] omertil: I do appreciate the lack of surprises
+[16:03:12] omertil: (In the first two moves :face-palm)
+[16:03:27] MrScribbles: And yes, go pope, sorry omer
+[16:04:43] Pope123: (3.Nc3) I need to check the Bg4 Qd3 line
+[16:04:58] Pope123: (3.Nc3) Bb4 I mean
+[16:05:59] omertil: Hey Val!
+[16:06:14] omertil: Now they either go Bd3 and Nf3 or Qf3
+[16:06:14] omertil: The point behind Qf3 is Bxf4 Qxf4
+[16:06:30] omertil: But I didn't like these dry positioins.
+[16:06:45] omertil: Hey Gav!
+[16:07:00] val1313: (4...Nf6) go go Omer !
+[16:08:31] omertil: But yeah 6.h4 I Bxf4 for sure
+[16:12:04] Zubenelgenubi: Go Pope! hey omertil, have a gg1
+[16:13:05] omertil: In Blitz he would've played Bd3 in a wink.
+[16:13:05] omertil: Or h4.
+[16:15:37] omertil: 6.Bg5 after ¬10 minutes of thought: wild
+[16:17:54] omertil: I tihnk 6..c5 works move by move
+[16:17:54] Pope123: (6.Bg5) I dont really like what I played tbh, banking on c5 Nb5 Be7 dcx5  Bxc5 Nd4 or something to get the tempo back
+[16:18:10] omertil: 7.e4 dx 8.Nx Be7 now e4 is hanging
+[16:18:10] omertil: Oh but then Nxc5
+[16:18:55] Pope123: (6.Bg5) Normally I play 6.Ne5, but I think the engine didnt like it
+[16:20:42] omertil: Huh. 7.Nb5 Be7 8.Bf4 a6 Nxc7 Ra7
+[16:20:57] omertil: I think I'm getting two pieces for R and P?
+[16:25:01] omertil: I don't get it
+[16:26:47] omertil: I mean I wanted to just 8...e5 but that hangs d5 in some lines
+[16:31:06] Pope123: (8...Bb7) I think I want my bishop on e2 due to e5-e4
+[16:33:53] Pope123: (9...e5) That feels premature
+[16:35:55] Pope123: (9...e5) Maybe im overestimating my position after e4 Nd2
+[16:37:11] omertil: Interesting. 10.Nxd6 Qx 11.dx5 Qb4+ and I take b2
+[16:37:26] omertil: Wait for a move, 10.0-0 e4 and then 11.Nxd6 exf3 seems killer
+[16:37:41] justonefix: gooo omertil!
+[16:37:57] omertil: So 10.0-0 e4 11.e4 Ne5 12.BxN dxN Qxe
+[16:38:12] omertil: I tihnk I'm happy with this?
+[16:38:12] omertil: I think I'll have nice pawn chain and I'll redploy the lsb
+[16:38:12] scrooge: (9) go chess! go omertil!
+[16:38:42] omertil: What I didn't like about the hwole Qb4+ Qxb2 shenanigans was how barren my King looks
+[16:39:43] omertil: I imagined cxd6 0-0 e4 Ng5 in all the lines, mssing the fact their Knight hsa to retreat to d2 or e1
+[16:39:58] omertil: And we like open files, right?
+[16:43:01] omertil: Didn't wanna allow 11...Nd7 h4 and then 12...e4 Ng5 is annoying
+[16:44:48] omertil: Their Knight has less prospects. My Knight will have prospects once her majesty moves
+[16:46:34] Pope123: (12...Nd7) Qa4 Qe6 Bb5 Rfd8 everything is defended
+[16:46:49] omertil: Either a5, a4 or Qg5 f5 f4
+[16:47:05] Pope123: (12...Nd7) struggling to find a plan, c4 seems like the only sensible option
+[16:47:05] omertil: The issue with the f pawn push is that his King is still in the center
+[16:47:50] Pope123: (12...Nd7) c4 dxc4 Nxc4 d5 then what..
+[16:49:52] Pope123: (12...Nd7) Lets just castle?
+[16:51:54] Pope123: (13.O-O) Maybe b3 was a move
+[16:52:24] Pope123: (13.O-O) Which black can prevent now with Rc8
+[16:55:42] Pope123: (14.Qa4) Rfd8/Nf6 both take the sting from f5
+[16:56:43] omertil: 15.Qa3 Bc8 probably doesn't bode too well after Qxd6 Bh3 Qg3
+[16:56:58] omertil: This shocks me
+[16:57:13] omertil: They help me get rid of my weakness.
+[16:58:29] Pope123: (15...dxc4) Ng4 Qd7 Nxe3 Qxb7 Nxf1 Kxf1 Qxd2... nvm
+[16:59:00] omertil: Nxc4 d5 Ne5 does stop my later Ng4
+[16:59:30] Pope123: (15...dxc4) Nxc4 b5 Qb4 i lose a pawn
+[17:02:33] omertil: Status: checking my opponent is still connected (andt hat I'm still connected)
+[17:03:19] omertil: Losing my mindhere. What was wrong witih Nxc4?
+[17:06:36] omertil: I mean, is 16...d5 terrible? Isn't my attack with Bc8 to Bh3 quick?
+[17:06:52] Pope123: (16...d5) Suprises me a bit, was expecting Rc8 -- i can just Qc7-Qg3 and defend now
+[17:08:23] omertil: Alright sure 17...Bc8 Qg3 would be a bugger
+[17:09:24] Pope123: (17.Qc7) I thought I blundered Rc8 Qg3 Rc2 for a second
+[17:12:57] Pope123: (18.Rac1) Rfd8 Qxb7!
+[17:15:44] Pope123: (19.Qxb7) Rio pretending to spectate, whilst playing a game of his own! Nothing escapes me
+[17:19:48] rio2018: (20...Rxc8) i got caught :D
+[17:19:48] omertil: I'm sorry guys.
+[17:21:34] rio2018: (22.Rc1) i have to get more clever. maybe next time i start spectating, and only than start a game...
+[17:22:05] omertil: "But there's comp, he uttered"
+[17:23:51] omertil: Kidding aside, eeryone finds 25.Qa6
+[17:23:51] Pope123: (24...Qxg4) Rip, i blundered the same backrank
+[17:24:07] MrScribbles: (24...Qxg4) lol
+[17:24:37] MrScribbles: (24...Qxg4) let's see if pope keeps their head on their shoulders
+[17:24:37] Pope123: (24...Qxg4) looking for something better than f3
+[17:24:52] rio2018: (24...Qxg4) this is the funniest chat conversation i saw between 2 players during the game
+[17:25:08] omertil: My a pawn must be sweating buckets
+[17:26:39] rio2018: (25.f3) lol
+[17:26:39] Pope123: (25.f3) This is hard now
+[17:26:54] rio2018: (25.f3) i mean, its still good, considering Qb8-g3
+[17:26:54] MrScribbles: (25.f3) I would have recommended Qc8+ and hope they don't notice
+[17:26:54] Pope123: (25.f3) I thought I could just Qb8-Qg3 at any time
+[17:27:09] Pope123: (25.f3) That had to be played asap
+[17:29:11] Pope123: (27.Qg3) f2+ Kxf2 Qf5+ Qf4 Qc2+ Ne2 Qxb2 might have to settle for a draw
+[17:29:11] Pope123: (27.Qg3) with some sort of perpetual
+[17:30:12] rio2018: (27.Qg3) whaaat? draw? with a knight up?
+[17:30:58] Pope123: (27...Qc8) Not what I was expecting, Nc3?
+[17:31:13] rio2018: (27...Qc8) that would be the best move for sure. sadly its not legal
+[17:33:14] MrScribbles: (28...fxg2) Gotta be Qx
+[17:33:30] MrScribbles: (28...fxg2) well actually Kxg2 Qc2+ Qf2 looks fine maybe?
+[17:33:45] MrScribbles: (29.Qxg2) then maybe ...Qb1 would be annoying
+[17:36:32] MrScribbles: (30.Qe2) Qb1+ wins a pawn I guess?
+[17:36:47] MrScribbles: (30.Qe2) who knows, too complicated
+[17:37:18] Pope123: (30...Qb1+) Naked king + Queen endgame + time pressure  ... I hate chess
+[17:37:33] MrScribbles: (30...Qb1+) yeah I don't envy you
+[17:37:48] rio2018: (31.Kf2) time pressure with 8 mins on your clock. didnt you learn anything from me? :D
+[17:38:19] rio2018: (31...Qf5+) above 10 seconds is still a lot of time!
+[17:40:36] omertil: I dare not hope
+[17:40:36] omertil: Fun fact: I never learned how to count up to 3
+[17:40:51] omertil: I am the product of lifelong of online chess, where it's someone else's job to LMK when it's fine to claim a draw
+[17:41:06] omertil: But truly I dare not hope
+[17:42:38] Pope123: (36.Kg1) Hoping for Qg5+ Kh1 to escape the checks
+[17:42:53] Pope123: (36.Kg1) Which doesnt tbh
+[17:43:23] nyanners: im afraid to inform that otb players cant count to 3 either
+[17:43:23] omertil: I thought it'll be the hardest with their King on e1
+[17:45:40] MrScribbles: (38.Ke1) no draw
+[17:46:11] rio2018: (38.Ke1) fine choice. Qb1 Qd1 Qxb2 Qd2 is better for sure
+[17:46:11] Pope123: (38.Ke1) Qb1+ Qd1 best try, but I think its threefold
+[17:46:41] rio2018: (38.Ke1) or even Qxh5 could work at one point if you really want to do that
+[17:48:28] rio2018: (38...Kh6) Kd1 is a fun idea now with Nc1 inc
+[17:48:58] rio2018: (38...Kh6) or d2 could also work, going to c3 or c1
+[17:49:44] Astronominoff: (39.Nd2) Black is clearly winning with a passed pawn on the kingside.
+[17:52:01] Pope123: (40.Qf3) Just Qe6, what am i doing
+[17:53:17] omertil: 42.Nxe4 would be a nice break
+[17:53:32] omertil: Or even 42.Kd1, unpinning
+[17:54:02] rio2018: (41...dxe4) Qxe4 black cant trade queens
+[17:54:33] rio2018: (42.Qxe4) so probably gonna take on a2, right?
+[17:56:50] Pope123: (43.Qe5) Mouse batteries low, panic!
+[17:57:05] Pope123: (43.Qe5) I dont think I have any in reserve
+[17:57:36] omertil: I don't like 43...Qxb2 Qf6+ wining my kingside pawns
+[17:57:36] omertil: And all the checks end quickly
+[17:58:21] omertil: The sad thing is, I think after we swap Qs this is holdable, I just don't know how
+[17:58:21] rio2018: (44...fxe6) was Qxe6 necesairy?
+[17:59:07] rio2018: (45.Nc4) im not even sure its not better for black now!
+[18:00:54] McStudly: Probably an objective draw? I'd probably lose on both side of the boards though.
+[18:01:39] Pope123: (45...b5) I wish i played 44.Nf3 in hindsight
+[18:02:10] rio2018: (45...b5) probably. but if white can play lets say b4, he might have ideas to win the pawns
+[18:02:55] rio2018: (46.Ne5) now a5 fails to Nc6 a4 Nb4 with the idea of Na2-c3
+[18:02:55] rio2018: (46.Ne5) at least, i think it fails
+[18:03:26] Pope123: (46.Ne5) a5 Nc6 a4 Nd8 b4 i think thats losing
+[18:03:41] MrScribbles: (46.Ne5) I've already lost this with both sides at the same time just by watching. It'll be a double forfeit sorry guys
+[18:03:56] omertil: 46...g4 Nc6 a6 Nd8 wins the e pawn
+[18:04:27] Pope123: (46.Ne5) Lets keep the knight in the center
+[18:06:44] rio2018: (49.Kf3) why to f3, and not e3?
+[18:08:45] omertil: 49...h4 50.Ng4 is a problem
+[18:10:02] Pope123: (49...g4+) i overlooked Kg3 Kg5
+[18:10:32] rio2018: (50.Kg3) that one dosnt work, due to Nf7
+[18:10:32] Astronominoff: Ke4 you mean.
+[18:10:47] rio2018: (50.Kg3) i would have thought that. but maybe not?
+[18:11:33] rio2018: (50.Kg3) i guess Ke4 Nc6 Kd5 Nxa7 Kx Nx Kc4 Nc7 is maybe winning
+[18:12:34] omertil: It's either 50...Kg5 or Ke4
+[18:13:19] omertil: I think they go 50...Ke4 Nc6 a6 Kh4
+[18:13:19] omertil: And I can't save my Kingside pawns
+[18:13:50] omertil: They don't have to go for Nb8 Kxd4 Nxa6 e5
+[18:14:51] rio2018: (50...Kg5) i still dont see why isnt Nf6 just winning here
+[18:15:06] rio2018: (50...Kg5) f7*
+[18:15:36] Astronominoff: How does it make progress?
+[18:16:07] rio2018: (52...a6) Nf7? Nf7 Kf5 Nd6+ Kg5 Nxb5 would have been easily winning i think
+[18:17:08] omertil: If I had an extra move to push them to the 1st rank I could queen with check
+[18:17:23] omertil: After e.g. 53.Nb8 a5 bxa5 b4
+[18:17:23] MrScribbles: (52...a6) I feel like Nb8
+[18:18:09] omertil: Strangely enough they don't have a check after queening
+[18:18:24] omertil: With the Knight on b8 and no checks on the long diagonal
+[18:19:10] Pope123: (52...a6) Nb8 is another queen endgame.. f* that
+[18:20:10] omertil: But I do'nt actually queen, do I?
+[18:20:41] omertil: As previously stated I have issues counting y they have a check from e4 to hop to d2
+[18:21:27] omertil: b4 Nd7 b3 Nc5 b2 Ne4+ Nd2 just in time
+[18:21:27] omertil: Oh boy, what's happening!
+[18:21:27] omertil: I thought htye just go for it...
+[18:21:57] rio2018: (53.Ne5) this is starting to get ugly for white
+[18:26:01] omertil: It's eithre 54...g6 or h6 or Ke4
+[18:26:01] omertil: Or Kf5
+[18:26:31] omertil: I do'nt think I can hope for more than liquifying the Kingside and winning d4
+[18:26:46] Pope123: (54.Kf2) im in trouble
+[18:30:35] omertil: Oh nice now if I 57...Kd5 they queen with check
+[18:30:50] nyanners: super interesting :o
+[18:31:05] Pope123: (57.Nc6) Nb8 is too slow now, king can cover for a9
+[18:31:05] Pope123: (57.Nc6) a8
+[18:31:20] Pope123: (57.Nc6) maybe not
+[18:31:51] omertil: (Nothing forcing me to meet Nb8 with a5)
+[18:31:51] rio2018: (58.Nb8) this chat is amazing! Qa6/f3, Nc3, a9. its like i dont know how to play chess :D
+[18:32:21] nyanners: pressure is too high
+[18:33:37] rio2018: (59.Nxa6) i have a feeling, this will end in a draw
+[18:33:53] nyanners: knights are weird in those endings
+[18:34:08] nyanners: draw is a good bet
+[18:34:23] omertil: I do wonder whether it's holdable without all my pawns
+[18:34:23] omertil: Or maybe just with my b pawn
+[18:35:09] nyanners: losing e and g should win for white
+[18:35:09] omertil: I think 59...e5 60...e4 61...e3 etc, loses to Kxg3 Kf2 Ke1
+[18:35:09] omertil: They capture my g and e pawns and leave me sad
+[18:35:24] omertil: Meet Kxg3 with Kd3?
+[18:38:57] Silkthewanderer: Kd3 seems correct yes
+[18:39:12] rio2018: (60.Kxg3) Kd3 Kf2 draws, no?
+[18:39:27] nyanners: probably XD
+[18:39:43] Silkthewanderer: Basically White wins if they ever stabilize with the king in front of the pawn and knight stable on a6
+[18:39:43] rio2018: (60...Kd3) since d4 fails to Nc5
+[18:39:58] Silkthewanderer: I dont think White is in much danger tbh
+[18:40:43] Silkthewanderer: Kf2 kd2 Nc5 Kc3 Na6 Kd2 is the logical draw
+[18:40:43] rio2018: (61.Kf2) wait. is there Kd2 Nc7 e4 Nxb5 e3 Kg2 e2 Nd4?  Nf3 check would draw aswell :D
+[18:41:14] nyanners: if anything black should be concerned :p
+[18:41:14] nyanners: but probably not
+[18:41:29] Pope123: (61.Kf2) I need some miracle like Ke4 Nc7
+[18:42:00] Pope123: (61...Kd2) That might also be  a draw tbh
+[18:42:30] Silkthewanderer: There are like five different draws here
+[18:42:45] nyanners: yea time to accept? :o
+[18:43:31] nyanners: ooh. why not
+[18:43:46] MrScribbles: (64...Kc3) pope isn't interested in draws
+[18:44:01] nyanners: i mean, why not try. but yea kinda too easy still
+[18:44:17] rio2018: (65.Na6) i like pope's attitude. theres no risk in trying a different move
+[18:44:32] nyanners: black almost has no choice but to play well
+[18:44:47] rio2018: (65.Na6) yes. but does it hurt if i give him a chance?
+[18:45:17] nyanners: having choices means one can choose wrong :o
+[18:45:33] rio2018: (65.Na6) but we could have a new position, where black can blunder
+[18:45:48] rio2018: (65.Na6) like if you dont play Kd2 here, after Ke1, i might have something
+[18:45:48] nyanners: i always like a little shuffling
+[18:46:03] nyanners: the timing is good too
+[18:46:18] omertil: Right sorry it was either 65...Kd2 or Kd3
+[18:46:18] omertil: I thikn e5 finally loses to Ke3
+[18:46:34] Pope123: (65.Na6) I think i might have something if i can avoid 3peat
+[18:46:34] nyanners: yea dont push that
+[18:46:49] nyanners: gg
+[18:46:49] guitarspider: gg
+[18:46:49] scrooge: (65) g
+[18:46:49] nyanners: good fight :D
+[18:47:04] scrooge: (65) gg w ell fought
+[18:47:04] rio2018: gg
+[18:47:04] Zubenelgenubi: gg
+[18:47:34] Pope123: Thanks for the comments
+[18:48:05] omertil: Damn we lost all the chat before I was lost! @"I'm sorry guys" is the first message I see
+[18:48:05] omertil: did anyone save it?
+[18:48:20] rio2018: i have the start of the chat
+[18:48:20] rio2018: i'll send it to you two in a sec
+[18:48:50] omertil: Thanks for watching!
+[18:51:22] Pope123: ohhh 53.Nb8 a5 bxa5 and I can actually catch the pawn due to a check, i couldnt make it work
+[18:56:27] omertil: @Pope123 if you're not too tired and want to talk about the opening? Why Bg5?
+[18:58:28] Pope123: My browser doesnt pick up the last messages for some reason, sure
+[19:00:30] Pope123: I didn't like my pawn structure after Bxf4 exf4 c5 dxc5
+[19:00:30] Pope123: perticularily the f-pawn
+[19:02:47] omertil: Interesting.
