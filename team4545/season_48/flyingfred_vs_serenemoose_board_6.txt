@@ -1,0 +1,64 @@
+Lichess game chat log
+Game      : https://lichess.org/K8sdA6ZA
+White     : flyingfred
+Black     : serenemoose
+Time      : 45+45
+Captured  : 2026-04-24 18:26:51 UTC
+Game ended : 2026-04-24 17:06:47 UTC
+Messages  : 54
+────────────────────────────────────────────────────────────
+
+[15:08:34] Shurbz: Moose! Lets go!!
+[15:08:34] Shurbz: Hey nyanners!
+[15:14:55] NameGoesInHere: (8.gxf3) go moose!
+[15:16:41] Shurbz: Nice white has to be careful though we are playing with our pretty pieces
+[15:17:57] NameGoesInHere: (8...Nxd4) yeah, looks nice for black already I think
+[15:21:46] NameGoesInHere: (9.Be3) hmm, maybe it's not so easier to keep the extra pawn. I would be tempted just to develop with ...Nf6/...g6/...Bg7/...0-0
+[15:22:16] NameGoesInHere: (9.Be3) and try and use bishop pair + better structure
+[15:23:32] NameGoesInHere: (9...Rd8) ...0-0-0 might be better objectively but is somewhat riskier imo
+[15:24:33] NameGoesInHere: (9...Rd8) interesting, I think I preferred ...0-0-0 over ...Rd1 if you want to play like this because of Qa4+ ideas, but it might be fine
+[15:28:06] Shurbz: Yeah I agree, the compensation is in pawn structure more than the pawn, though this move I did not consider yet
+[15:28:52] Shurbz: We might have some practical development problems now
+[15:30:08] serenemoose: I just blew it again, didn't I? Ah man. Why do I do this to myself?
+[15:30:54] Shurbz: eh it isn't over Qd7
+[15:31:54] NameGoesInHere: (11.cxb5) oooh yeah ...Qd7 is a nice defensive move, although I'm worried about the lack of k-side development
+[15:32:40] Shurbz: Yeah you need to get the queen away from the e pawn so  that e6 or e5 can work I think
+[15:33:11] Shurbz: and so that we create some defense around the king
+[15:33:41] NameGoesInHere: (11.cxb5) plus it stops the very annoying b6 at least for a move or two
+[15:35:43] Shurbz: I'd love to play nf6 but yeah b6 just cuts through too much
+[15:36:13] Shurbz: Ah okay also good
+[15:39:01] NameGoesInHere: (11...Qb6) yeah this might just be a better version of the same idea
+[15:39:46] NameGoesInHere: (12.Nc3) interesting choice for black between developing the bishop with ...e6/...e5 or ...g6
+[15:40:17] Shurbz: I was wondering if a knight getting to c4 was going to be whites idea
+[15:40:32] NameGoesInHere: (12.Nc3) I would lean towards ...g6/...Bg7 to take the diagonal and blunt the g-file but probably depends on concrete lines
+[15:40:32] Shurbz: I like e5, make the bind
+[15:41:02] Shurbz: but thats why I'm 1700 lol
+[15:41:48] Shurbz: woah
+[15:41:48] Shurbz: what
+[15:43:04] NameGoesInHere: (12...f5) I guess this is aimed against Ne4, but feels quite drastic
+[15:43:34] Shurbz: Couldn't Nf6 also work against ne4?
+[15:44:05] NameGoesInHere: (12...f5) yeah ...Nf6 seems like a better way to deal with it
+[15:44:20] NameGoesInHere: (12...f5) or just ...e6/...e5 to defend the c-pawn preemptively
+[15:44:51] Shurbz: I mean I do love chaotic positions so this is fun but I wasn't feeling so bad after Qb6
+[15:45:21] NameGoesInHere: (13.O-O-O) maybe ...e5/...f4 is an idea but that surely doesn't work with the k-side undeveloped
+[15:46:07] Shurbz: I'm worried moose is in their head feeling lost
+[15:51:57] NameGoesInHere: (13...Nf6) is Bc4 an interesting pawn sacrifice here?
+[15:52:12] NameGoesInHere: (13...Nf6) trying to use the diagonal opened by ...f5
+[15:55:45] Shurbz: It would prevent castling at least
+[15:56:15] Shurbz: and moves the bishop to a more useful diagonal
+[15:57:01] NameGoesInHere: (14.Qc4) yeah, black probably has to go ...e6 there (and here!) which is a bit ugly
+[16:00:49] Shurbz: e6 na4 and I'm scared
+[16:02:51] NameGoesInHere: (14.Qc4) ...e6 Na4 you might be able to solve some of your problems tactically with ...Nxe2+ but looks sketchy
+[16:05:39] NameGoesInHere: (14...e5) ok, kind of like this, guess the idea is to go ...Qe6 soon?
+[16:14:46] Shurbz: Queen can get overworked but this seems playable for black now
+[16:15:47] Shurbz: Maybe white should just take this knight
+[16:27:28] Shurbz: So Qe6 and we’re feeling okay as long as it doesn’t fail tactically
+[16:29:29] NameGoesInHere: (17.Na4) I was wondering about starting with Nxe2+ but maybe you don't want to give up the knight yet
+[16:31:31] Shurbz: That’s probably better
+[16:37:06] NameGoesInHere: (18...cxd4) feel like Bxd4 helped black unless there's a followup I'm not seeing
+[16:37:21] serenemoose: 18.b4 looked like lights out.
+[16:47:30] serenemoose: Oh no, not again, good grief no.
+[16:49:16] Le_Merovingien: Mooooooose
+[16:51:33] Le_Merovingien: Devious Mooooooose has an idea
+[17:06:46] Le_Merovingien: Mooooooose
+[17:07:17] serenemoose: When I saw 25. Rxg4 my heart sank.
