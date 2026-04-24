@@ -1,0 +1,46 @@
+Lichess game chat log
+Game      : https://lichess.org/3VCgvYmN
+White     : samisasleep
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-04-24 12:22:15 UTC
+Game ended : 2026-04-24 11:02:12 UTC
+Messages  : 36
+────────────────────────────────────────────────────────────
+
+[09:14:24] Scarff: Good luck Artur! Already looks a bit scary, but also seems under control so far
+[09:15:10] Scarff: Only the queen and bishop attacking for now. And I feel like you know the theory here too
+[09:17:58] Scarff: (not is in, I know this too, I have very little clue about this passed move 7 :)
+[09:21:31] kinG_Hunter-1: 14.(Nce2) maybe i can just Ne5 and Nc4 or Ne5 Ng6
+[09:27:51] Scarff: Ne5 looks nice. Both defense and offense options. Maybe to g6 and then Nf6 and all is solid
+[09:28:21] Scarff: But to c4 also looks nice, if there is no real worry about king safety
+[09:28:37] kinG_Hunter-1: 15.f4 Nc4 16. Bxc4 bxc4 17. f5 e5 and Kh8 i thunk its fine
+[09:32:40] kinG_Hunter-1: now 15...Nc4 i think not good move becauce white can 16.Nh5
+[09:36:13] kinG_Hunter-1: now i can 15...Ng6 and white must take 16...Nxg6,  15...Ng6 16.Bg5??  Bxg5 17.Qxg5 Nxf4  and e5 fork
+[09:38:45] kinG_Hunter-1: Kh8 dont think its work
+[09:39:31] kinG_Hunter-1: 15...Kh8 16. Bg5 f6 17. Nfxe6!
+[09:44:50] kinG_Hunter-1: maybe i should go 17...a5 18. a3 a4 19. Ba2 e5 20. Nf3 Qxc2, if 17...a5 18.c3 a4 19. Bc2 a3! and good position
+[09:50:25] kinG_Hunter-1: my kingside is much strong, i dont think he has counterplay
+[09:52:57] Scarff: Feels that way to me too. You held back the storm on the kingside, and have a lot of defenders there too
+[09:53:12] Scarff: And now you get counterplay against their queenside
+[09:53:43] Scarff: Overall blacks pawns and pieces looks super solid. Little space, but also no weaknesses
+[09:54:44] jfiras: Go king hunter !
+[09:58:32] kinG_Hunter-1: 21.Ne2 Rxa3 22. Bb3 Nf6
+[09:59:33] jfiras: good position so far, i like this
+[10:02:05] kinG_Hunter-1: Qxg6??
+[10:03:06] jfiras: qx rx i guess
+[10:11:43] jfiras: i hope u avoid the time trouble, seems like a complicated position
+[10:15:32] kinG_Hunter-1: I thought he would take 24.Qxg6
+[10:16:48] kinG_Hunter-1: i should play faster
+[10:49:00] kinG_Hunter-1: Qc4 Nc1 Qxc3 Nxa2 Qxe3 Kh1 Ng3!!
+[10:49:31] kinG_Hunter-1: no its not work
+[10:50:16] kinG_Hunter-1: Qc4 Nc1 Qxc3 and white have Rb3
+[10:52:33] kinG_Hunter-1: Bd2 only move maybe
+[10:53:34] kinG_Hunter-1: 31. Bd2 Qa7 32. Kh1 Qf7 and somewhere maybe Ng3
+[10:56:52] kinG_Hunter-1: 33...Rxf4 and 34...e2 must winning
+[10:59:09] kinG_Hunter-1: 33.Rxf4 e2 34. Qe1 exd1=Q 35. Qxd1 exf4 36. Qd5 Qf7-+
+[11:00:55] kinG_Hunter-1: 36...Qa7 also winning
+[11:02:11] Micomps: gg
+[11:02:27] samisasleep: Gg
+[11:02:42] kinG_Hunter-1: gg
+[11:07:31] jfiras: gg
