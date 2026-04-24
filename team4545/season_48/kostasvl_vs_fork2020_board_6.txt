@@ -1,0 +1,99 @@
+Lichess game chat log
+Game      : https://lichess.org/93eICOJc
+White     : kostasvl
+Black     : fork2020
+Time      : 45+45
+Captured  : 2026-04-24 15:59:40 UTC
+Game ended : 2026-04-24 14:39:36 UTC
+Messages  : 89
+────────────────────────────────────────────────────────────
+
+[12:59:09] fork2020: ...1. Hello ysgwydd and NaveenGeorge!
+[12:59:39] R0B-W: Go, fork!
+[13:00:25] fork2020: 1. Hello R0B-W! Hopefully this is long enough for lichess to not decapitalize your name!
+[13:03:43] fork2020: ...5. We deviated from the line that ysgwydd gave me, but I looked at this line too, since kostasvl has played it before.
+[13:06:00] fork2020: ...7. I believe that kostasvl usually captures on c6 by now, so I'm out of the book.
+[13:06:30] fork2020: ...7. But six moves of prep is better than my usual three or four!
+[13:07:01] fork2020: ...7. I'm going to guess that e5 is probably not a very good move.
+[13:07:31] ysgwydd: (7.Nc3) Just castle and then play a6+b5
+[13:08:02] fork2020: ...7. I suppose I could play Qc7 to prevent e5.
+[13:11:35] fork2020: ...8. Maybe I could play 16 now, with the idea of opening the d-file.
+[13:11:35] fork2020: ...8. Or maybe I should just castle.
+[13:15:54] fork2020: ...9. Interesting.
+[13:16:09] NaveenGeorge: e pawn could be up for grabs but looks dangerous without castling
+[13:16:39] fork2020: ...9. I guess I just force a bishop trade? b4 Bb3 Na5?
+[13:17:10] fork2020: ...9. Or maybe opening the a-file would be a bad idea.
+[13:17:10] fork2020: ...9. Hello jg777!
+[13:17:40] fork2020: ...9. Hello nyanners!
+[13:19:12] nyanners: :o
+[13:19:27] NaveenGeorge: is B5 b4 then Nxe4 too risky before castling?
+[13:20:12] NaveenGeorge: I feel this often occurs in the Bc4 Najdorf and it's usually the wrong thing to do
+[13:21:13] fork2020: ...9. I'll probably castle and hold off on the b5 decision for another turn.
+[13:21:29] nyanners: yea kinda weird line
+[13:21:29] fork2020: ...9. My calculation hasn't woken up yet today.
+[13:21:44] nyanners: conceptually i like b5 Na5 quite a lot
+[13:21:44] nyanners: while i dislike b5 b4
+[13:22:45] nyanners: does it really have to do with not castling? umm i feel its more that provoking Nd5 is just kinda wrong
+[13:23:15] NaveenGeorge: ah yes
+[13:23:46] nyanners: like, i feel you need a reason not to play b5 Na5, while you do need a strong reason to play b4
+[13:24:46] nyanners: i might have played b5 Na5 as delaying it might enable Nxc6?
+[13:25:47] nyanners: im not too sure. theres a tiny bit of tension with all these pawn pushes and Nd5 business
+[13:26:33] nyanners: like yea actually 9..b5 Bb3 Na5 Nd5 seems quite convincing
+[13:27:19] nyanners: or is it? trades, Bb7, go for Nc4. strange things
+[13:27:49] ysgwydd: (9...O-O) b5 Bb3 Bb7 then later Na5
+[13:29:20] nyanners: this particular line does seem kinda based on Nc4
+[13:30:06] ysgwydd: (9...O-O) I wasn't a fan of 7.Qc7, as it encourages Nd5
+[13:30:36] nyanners: i think i agree
+[13:31:22] fork2020: 10. Hello d0wnh0me!
+[13:32:08] nyanners: black says "preventing e5" which is, like, fair. but to play e5 white would have to play Bxc6, and then e5 is still met by Nd5 maybe
+[13:32:38] fork2020: 10. Hello BLang316!
+[13:34:09] fork2020: ...10. Hello GoldenRetrieverChess!
+[13:36:26] GoldenRetrieverChess: Hey fork! Good luck
+[13:40:30] fork2020: ...10. I think I can safely play b5.
+[13:47:21] fork2020: 12. Hello Pineapplechiffoncake!
+[13:47:36] Pineapplechiffoncake: Hi Fork! Good luck!
+[13:50:39] NaveenGeorge: Ng4 would've been nice
+[13:50:54] NaveenGeorge: Instead of bb7
+[13:51:24] ysgwydd: (12...e6) Yes
+[13:53:26] fork2020: ...13. Hello AnXiou!
+[13:53:41] NaveenGeorge: Kh1. Very mysterious
+[13:54:42] fork2020: ...13. I guess I can play Na5 now that my rook is defended, so maybe that's a move here.
+[13:57:14] alp_arslan92: go fork!
+[13:57:29] ysgwydd: (13.Kh1) Na5 then d5 I guess
+[13:58:00] fork2020: ...13. Na5 Ncxb5 Nxa3 Nxc7 Nxd2 Nxa8 Nxf1 and I should be up material, so that's not a problem.
+[13:58:30] fork2020: ...13. Hello alp_arslan92!
+[13:59:31] alp_arslan92: I like Black's position a lot after 13...Na5
+[13:59:31] alp_arslan92: Very dynamic!
+[14:01:33] nyanners: having time to do b5 e6 Bb7...... the dream
+[14:12:28] nyanners: a fair response from white
+[14:12:28] nyanners: dark squaresss
+[14:14:45] fork2020: ...20. I'm kind of without a plan right now, usually I try to make a clear target.
+[14:22:36] fork2020: ...20. When in doubt, shuffle around a bit.
+[14:27:56] NaveenGeorge: Interesting
+[14:28:57] fork2020: 25. I'm lucky, my bishop should've been trapped.
+[14:31:14] fork2020: ...27. Bxb4 should be safe.
+[14:31:59] fork2020: ...27. Bxb4 Qe5 f6 and the queen and knight are both threatened.
+[14:33:15] NaveenGeorge: Nicely calculated
+[14:33:46] kostasvl: hmm this looks very losing for me
+[14:34:01] fork2020: 29. I should be winning a piece here, unless I'm missing something?
+[14:34:01] kostasvl: so I have to give up the knight and black has a nice setup here
+[14:38:20] kostasvl: I don't think I can comeback from this
+[14:39:06] kostasvl: this will take too much of a toll on me so I will resign. Sorry team :/
+[14:39:21] R0B-W: gg
+[14:39:36] Pineapplechiffoncake: Gg
+[14:39:36] kostasvl: gg
+[14:39:51] nyanners: gg
+[14:40:06] nyanners: resign when the existential dread kicks in. standard
+[14:40:06] kostasvl: a lot of viewers nice
+[14:40:06] ysgwydd: gg
+[14:40:22] kostasvl: I usually keep going until the game is over but just can't lately
+[14:40:52] nyanners: umm the problem is when the position lacks ideas
+[14:40:52] kostasvl: yeah exactly
+[14:40:52] nyanners: maybe here you still have like f4 qh4
+[14:41:07] kostasvl: I didn't feel I could maybe pull a trick here either
+[14:41:23] kostasvl: didn't cross my mind
+[14:43:09] fork2020: My plan if f4 was played was to play Bc7 and e5.
+[14:43:39] fork2020: And then just use the extra bishop to win the endgame.
+[14:44:40] nyanners: ya after that i think the ideas run out and its "more valid" to resign
+[14:45:41] nyanners: i mean, resigning is about the existential dread. when your belief in your chances runs out, it will self-fulfill
+[14:45:56] nyanners: its noticeable when a player is just going through the motions
