@@ -1,0 +1,623 @@
+Lichess game chat log
+Game      : https://lichess.org/km6UfLds
+White     : thestormingeagle
+Black     : cowtone
+Time      : 45+45
+Captured  : 2026-04-24 22:27:03 UTC
+Game ended : 2026-04-24 21:06:59 UTC
+Messages  : 613
+────────────────────────────────────────────────────────────
+
+[18:00:14] Joonaf: Go cowtone!
+[18:04:18] bronasberger: Go stormingeagle go!
+[18:05:19] thestormingeagle: hi bronasberger
+[18:05:49] bncl: Go cowtone!
+[18:16:59] thestormingeagle: (12. c3) I think if 12. ..c4 13. Qf3 h5, the white knight on e5 might be trapped
+[18:18:46] thestormingeagle: Qc2 seems wrong. I wanted to play Ng3 to trade knights and Ne5 (which may have been a mistake was a way to recapture with the queen
+[18:18:46] thestormingeagle: instead of the f pawn
+[18:19:16] thestormingeagle: I didn't want to move the f pawn because there are only dark-square bishops
+[18:21:48] thestormingeagle: (12. ..f6) Trying to figure out if I should play Nf3 or Ng4 then Ne3
+[18:23:04] thestormingeagle: Ne3 blocks in the DSB and Nf3 prevents me playing f3
+[18:23:50] thestormingeagle: I went with Nf3 because I think the bishop is more important than the f3 option (which I don't want to play until bishops are traded anyw
+[18:24:05] thestormingeagle: *anyway
+[18:25:21] matthewhuber: go cowtone!
+[18:25:52] thestormingeagle: (14. Qc2) While the pawns are in their current structure Ng3 Nxg3 fxg3 is probably not as weakening
+[18:26:07] thestormingeagle: but the plan probably is Bf4 first
+[18:26:07] matthewhuber: black looks pretty good here positionally speaking
+[18:26:22] aldric123: Unfortunately I think you're right.
+[18:26:53] aldric123: I don't think black is winning, but I'm pretty sure I'd rather be him
+[18:27:08] matthewhuber: certainly not winning at this point
+[18:27:38] thestormingeagle: (15. Bf4) Nd2 is also an option to trade knights
+[18:29:10] thestormingeagle: Hi aldric!
+[18:29:25] aldric123: Hi thestormingeagle!~
+[18:29:40] matthewhuber: while the kknight is really good on e4, i think most of blacks advantage  comes from the QS play. black is going to get b4 and white is
+[18:29:40] matthewhuber: struggling for a plan here
+[18:29:55] aldric123: I unfortunately agree I think.
+[18:30:11] aldric123: It's certainly not hopeless, but black's ideas just spring at you
+[18:30:11] aldric123: White has to get creative
+[18:30:41] matthewhuber: maybe white can try some g4 g5 ideas to break open the KS and take advatange of f6
+[18:30:56] matthewhuber: I think trading the DSB benfits white
+[18:31:27] thestormingeagle: (15. Bd6) I think I'm very happy to trade bishop given blacks queenside pawns are mostly on light squares.
+[18:32:12] thestormingeagle: I just want to find a way to do it that doesn't give his Queen and knight control over g3
+[18:32:28] thestormingeagle: the way might be to accept the trade and then play Nd2
+[18:32:58] bronasberger: Seems white can trade a bad bishop for a good one here. a4 looks like an interesting follow up
+[18:33:13] aldric123: I was even thinking of playing a4 first
+[18:33:29] thestormingeagle: wondering if that is too passive and if declining to trade bishops and doing something else allows Qc2 ideas
+[18:33:44] thestormingeagle: considering Nd2 immediately
+[18:33:59] bronasberger: a4 and then b3 to challenge blacks space on the queenside could free whites game a little perhaps
+[18:34:14] aldric123: I don't hate Nd2, though I assume he'll play f5
+[18:35:00] matthewhuber: f5 gives white the e5 outpost
+[18:35:15] aldric123: Which is why playing Nd2 first feels bad for white
+[18:35:30] aldric123: But yeah, maybe it's just a move or two to get it back to e5
+[18:36:01] matthewhuber: not sure. seems like the position is a lot different now with the bishops staring at each other then just a move before
+[18:36:31] thestormingeagle: am I happy with 16. Nd2 Bxf4 17. Nxe2  Bc7
+[18:37:32] matthewhuber: The unopposed DSB for black would be really good in that resulting position^
+[18:37:47] thestormingeagle: What about ignoring this and playing a4 before rooks are connected?
+[18:38:48] thestormingeagle: I like a4. What's the best way to do it?
+[18:40:04] aldric123: I think immediate a4 is met by b4 by black
+[18:40:20] aldric123: At least maybe
+[18:41:05] thestormingeagle: I think just trade bishops, the e2 knight looks bad but actually can just go to g3 when the e4 knight moves
+[18:41:36] aldric123: I'm not sure what's making the e4 knight move soon though
+[18:42:06] matthewhuber: im not sure how goo the knight would be on g3 either. I think ideally white gets a knight to e3 to pressure d5
+[18:42:52] aldric123: I do like a4 here I think
+[18:43:37] matthewhuber: a4 is a nice move, if b4, do you play cx?
+[18:43:37] aldric123: If b4 I think you need to take and then probably play Nc3
+[18:43:53] thestormingeagle: (17. a4) to be entirely honest I didn't consider b3 would be supported by the queen on d6
+[18:44:23] matthewhuber: that d4 pawn will be a target forever, but white seems to have enough to defend it
+[18:44:38] aldric123: It's a target, but so will be d5
+[18:44:38] matthewhuber: true
+[18:44:54] aldric123: Though neither are easy to attack
+[18:45:09] matthewhuber: i dnt really see what else black could do besides b4 here
+[18:45:09] thestormingeagle: but I'm thinking about 17. ..b3 18. cxb3 Qxb3 19. Nc3
+[18:45:09] aldric123: Me either
+[18:45:24] matthewhuber: both players have lots of time though so def no problem thinking about your options
+[18:45:39] aldric123: I guess you could try speculative pawn sac stuff cuz white likely couldn't keep  it
+[18:45:54] thestormingeagle: Hi Shonuff
+[18:46:10] aldric123: Hmm the lines I was thinking are crap, nevermind
+[18:46:10] matthewhuber: i dont think any pawn sacs would be good because white gets too much play on the a file
+[18:46:25] aldric123: Yeah once I looked closer I hated the lines I was looking at for black
+[18:47:26] aldric123: One of these years Black will need to finish developing his queenside
+[18:47:41] thestormingeagle: (18. cxb4) Maybe I should have given b3 some consideration
+[18:47:41] matthewhuber: am i crazy for thinking 18...Nc6?
+[18:47:56] aldric123: I was considering it too
+[18:47:56] matthewhuber: b5 Na5 and its heading to b3
+[18:48:12] aldric123: But I don't think it's that good
+[18:48:27] aldric123: Those are similar lines I was thinking without pushing b4 first, but I didn't like them that much then
+[18:48:42] matthewhuber: i dont think so either, but Qxb4 Nc6 looks like a boring position
+[18:48:57] aldric123: That would spice it up!
+[18:48:57] matthewhuber: well maybe then black plays f5 and you have a game
+[18:49:13] matthewhuber: lets see what theseguys decide. this is a really cool game so far
+[18:49:28] aldric123: If a knight gets to d3 that is pretty tasty
+[18:49:58] aldric123: So 18...Nc6 19.b5 Nb4 Queen moves, Nd3
+[18:50:14] nyanners: d3 isnt as stable as it seems
+[18:50:14] aldric123: No really good places for the queen
+[18:50:29] aldric123: Probably correct nyanners
+[18:50:44] nyanners: qxb4 is sensible if a bit lame
+[18:50:59] matthewhuber: aldric and i are dreamers. It is so fun to play with other peoples pieces
+[18:50:59] aldric123: Hehe
+[18:50:59] matthewhuber: there are no consequences
+[18:50:59] nyanners: nah i like the spirit
+[18:51:15] nyanners: i mean, nc3 now and white has to be better
+[18:51:15] nyanners: might as well explore the alternatives
+[18:51:30] aldric123: I wasn't SURE if better, but I was a lot happier now than like 4 moves ago
+[18:51:45] matthewhuber: I think the DSB trade was a change in tempo
+[18:51:45] aldric123: I agree
+[18:52:00] aldric123: Now black has to either get rid of his perfect e4 knight or lamely defend d5
+[18:52:15] nyanners: sounds about right
+[18:52:31] matthewhuber: Qb7 or Nxc3 look like the only moves to me
+[18:52:31] thestormingeagle: hi nyanners
+[18:52:31] matthewhuber: maybe Qe7 too
+[18:52:46] matthewhuber: no, disregard Qe7
+[18:52:46] nyanners: hi :o
+[18:53:16] nyanners: yea i think it has to be nxc3. i dont like to throw around such wording but qb7 and qxc4+ seems terrible for b
+[18:53:16] nyanners: and if it has to be nxc3 then something hasnt gone right
+[18:53:47] nyanners: but well its not THAT bad
+[18:54:02] aldric123: Oh you meant if Qb7 you trade on e4 first and then Qx
+[18:54:02] nyanners: yes
+[18:54:02] matthewhuber: I see
+[18:54:32] nyanners: like, black has a few things. maybe can pick one of the files and the knight can still dream of e4 or d3
+[18:54:32] aldric123: Now White get's the B file if he wants it and Black's undeveloped queenside feels even worse
+[18:55:33] nyanners: i feel im mostly concerned about some sort of nf5 thing but white isnt super well placed for that yet
+[18:55:33] aldric123: At least f6 still keeps out Ne5 from black's perspective
+[18:55:48] matthewhuber: i think blacks underdevlopement isnt that bad. white doesnt seem fast enough to stop black from developing
+[18:56:04] aldric123: This is hard to decide between Rfe1 Rab1 or Nh4 for me
+[18:56:19] nyanners: yea exactly :o like, if black gets a little time, it seems kinda whatever
+[18:56:19] thestormingeagle: (20. ..Qd6) I don't have a way of preventing black from bringing their knight into the game
+[18:56:49] thestormingeagle: I can either try for control of an open file or improve my knight
+[18:57:05] nyanners: i like rfe1 on principle
+[18:57:05] thestormingeagle: I would like it on e3 and that will take 3 moves but I can attack the queen for a tempi
+[18:57:05] nyanners: Re6 is potentially valuable
+[18:57:20] aldric123: Yeah Rfe1 seems most flexible
+[18:57:35] nyanners: and re7 of course :o
+[18:57:35] nyanners: rb5/rb7 seem slightly worse in comparison
+[18:57:50] thestormingeagle: the knight manuever takes 3 moves and still isn't enough to win the pawn immediately
+[18:57:50] nyanners: but there could be a line like rb5 rxd5 ne7+
+[18:58:06] thestormingeagle: I think I'll try to double up rooks on the b file
+[18:58:21] thestormingeagle: choosing b over e since e5 is guarded by f6
+[18:58:36] aldric123: It sorta makes sense what he's saying
+[18:58:51] nyanners: i mean yea its logical but i dont agree. its not like you want a rook on e5
+[18:58:51] thestormingeagle: and I think putting a rook on each file just lets my opponent trade a pair to open whichever file they want
+[18:59:07] aldric123: I mean pressuring d5!
+[18:59:07] aldric123: :)
+[18:59:22] nyanners: im thinking more along the lines of "nc6 and rb8 is easier to trade"
+[18:59:37] aldric123: yeah
+[18:59:52] nyanners: i mean, i could be wrong too XD
+[19:00:07] aldric123: If Nd7 you also need to figure if you want to push the a pawn, or do the rook lift immediately
+[19:00:07] thestormingeagle: (21. Rfb1) maybe Rab1 makes more sense. I just had the a rook defending the pawn but the pawn is already defended by the queen
+[19:00:07] nyanners: maybe it doesnt really matter and you trade one pair and do some knight play
+[19:01:08] thestormingeagle: if I manage to double the rooks it wont matter which went first unless there is a plan I overlooked for black
+[19:01:39] nyanners: like say, Rxb8 could even enable Re1 uncontested
+[19:01:39] aldric123: If Nc6 I think you definitely want to play a5 next, you do not want to see Na5
+[19:01:54] nyanners: nc6 is a concrete line i think
+[19:02:09] nyanners: like, what happens on rb5 etc
+[19:02:09] aldric123: I think a5 with a likely Qa4 next move
+[19:02:25] nyanners: though a5 cannot be a bad lazy move
+[19:02:55] nyanners: i know lazy moves usually have a negative connotation in chess but i tend to like them
+[19:02:55] aldric123: Hehe
+[19:03:10] nyanners: like i mean, a lazy move is appropriate when you should not be burning too much time
+[19:03:26] nyanners: this could be such a situation
+[19:03:26] thestormingeagle: (21. ..Nc6) the dream is something like having a rook on b7 then playing Nh4 Nf5 with an attack on the queen and then having some Nh6+
+[19:03:41] thestormingeagle: tactic
+[19:03:41] aldric123: So if Rb5 Rab8 I suppose
+[19:04:11] thestormingeagle: I don't think it will work out like that butI do want a rook on the 7th rank
+[19:04:27] nyanners: im feeling white is looking at rb7 :o that definitely incentivizes na5
+[19:04:27] thestormingeagle: if I do that immediately black has Na5 attacking it
+[19:04:27] nyanners: good
+[19:04:27] aldric123: Rb7 is very unhappy after Na5 I'd think
+[19:05:12] thestormingeagle: Rb5 watches a5 and attacks d5 but what if a6?
+[19:05:12] aldric123: So other thing you have to look at after Rb5 is a6
+[19:05:28] aldric123: Apparently thestormingeagle and I are brainconnected
+[19:05:58] nyanners: that adds a lot of responsibility
+[19:06:13] thestormingeagle: Rb6 after that gives a discovered attack on my queen which can move defending the rook
+[19:06:13] aldric123: I guess I do like my laze a5 a bit
+[19:06:29] aldric123: lazy
+[19:06:44] nyanners: yea like i dont want to go below 20 min here
+[19:06:44] nyanners: if i dont care for anything else def go with a5
+[19:07:14] thestormingeagle: but 22. Rb5 a6 23. Rb6 Nxd4 24. Qb2 Nxf3+ is horrible for me
+[19:07:30] aldric123: 22.Rb5 a6 Rb6 Hmm
+[19:07:45] aldric123: ouchy Nxd4
+[19:08:00] nyanners: n is trapped?
+[19:08:00] nyanners: trade and ra2
+[19:08:15] aldric123: good point nyanners I think
+[19:08:15] thestormingeagle: a5 a6 is a plan but I'm worried that rook trades are forced and I lose the pawn
+[19:08:30] nyanners: not that i saw that in advance
+[19:08:30] nyanners: or Nxd4 for that matter
+[19:09:01] aldric123: The knight does look trapped on c2
+[19:09:16] aldric123: Not that Nxd4 is forced of course, but it does look unwise
+[19:09:31] thestormingeagle: a5 followed by Qa4 seems sensible though
+[19:09:47] aldric123: Yep, back to my first lazy idea, yay!
+[19:12:49] nyanners: white kinda mentally settling into plus equals mode which i kinda like
+[19:13:50] aldric123: Black almost can't trade rooks because I don't think he can then play the other rook to b8
+[19:14:21] aldric123: I guess he could trade and play other rook to e8, but looks dangerous
+[19:14:36] thestormingeagle: (23. Qa4) My knight is very far from the queenside action
+[19:17:23] thestormingeagle: (23. Qa4) I wonder if black aims to trade rooks off the board and win the a pawn
+[19:17:23] aldric123: I guess if he can't figure out anything else for his knight he would play the lengthy Nh2-Nf1-Ne3
+[19:18:24] thestormingeagle: (23. ..g6) g6 is mysterious - it takes f5 away from my knight but I wasn't going to play that immediately
+[19:18:40] thestormingeagle: not needed to double rooks either
+[19:18:55] aldric123: I think partly g6 was because he didn't see a great way to improve
+[19:19:10] thestormingeagle: is it a waiting move and a6 is a mistake?
+[19:19:25] aldric123: I think a6 is unnecessary
+[19:19:25] thestormingeagle: I'm thinking a6 here
+[19:19:25] aldric123: Or is it, hmm
+[19:19:56] thestormingeagle: I was thinking black would try to trade both rooks and I would trade a second pair but play Ra1 to decline the second trade
+[19:20:11] aldric123: I don't think black could trade all the rooks before g6
+[19:20:26] aldric123: He'd have lost a knight or been mated by Qe8 in the end
+[19:20:41] thestormingeagle: (23. ..g6)  I'm trying to figure out how black stops a6 Rb7
+[19:21:27] thestormingeagle: Rb5 might also be an option
+[19:21:42] thestormingeagle: if Rb7 is no good
+[19:22:13] nyanners: i didnt like a6 on reflex but i mean, rb7 does make a lot of sense conceptually
+[19:22:28] nyanners: lots of good things can happen there
+[19:22:28] aldric123: Maybe ....Rb6 Rxb6 axb6 a7 Ra8!
+[19:22:43] aldric123: hee
+[19:22:58] nyanners: if theres a reason a6 is bad, it has to be rb6
+[19:22:58] nyanners: i dont trust it
+[19:22:58] nyanners: like okay just dont play a7
+[19:23:14] aldric123: I also felt a6 was premature, but I'm certainly not sure
+[19:23:14] thestormingeagle: the pawn advances might be wrong for the simple fact that the white knight is further than the black knight
+[19:23:14] aldric123: true, a7 is certainly not forced
+[19:23:59] aldric123: Maybe Qb5 instead of a7
+[19:23:59] thestormingeagle: so I guess I'm counting on it being too slow for black to coordinate giving me a chance to bring my knight close or the massing of pieces
+[19:24:14] thestormingeagle: on the queenside leaving the kingside weak
+[19:24:14] aldric123: though then Na7 I suppose
+[19:24:45] thestormingeagle: for the latter - I would need queens on the board to be able to take advantage
+[19:25:00] thestormingeagle: and I said queenside I meant the kingside (and the king in particular)
+[19:25:00] nyanners: ne1 nc2 whatever
+[19:25:15] aldric123: I suppose now Black could trade a pair of knights and play the funny Nb8
+[19:25:31] aldric123: But that can't be good, but amuses me
+[19:26:16] aldric123: Rb7 does look annoying, almost has to play Rb6 I think
+[19:26:31] thestormingeagle: (24. a6) if the black knight is targetting a6 then it can't be defending a7 so a rook on b7 should be able to capture it
+[19:26:31] thestormingeagle: so it does seem difficult for black to coordinate
+[19:26:47] thestormingeagle: or might be easy but not trivial
+[19:26:47] aldric123: ah interesting
+[19:27:32] aldric123: perhaps Rb5 now
+[19:28:03] aldric123: With the obvious idea of doubling up or getting the Queen to b5 when Rb8 by black can't come
+[19:28:33] thestormingeagle: (24. Rf7) I think Rb5 now?
+[19:28:33] aldric123: Still connected!
+[19:29:19] thestormingeagle: wait tactic?
+[19:29:19] thestormingeagle: Rxb7 if Queen captures I take a knight
+[19:29:34] thestormingeagle: if knight captures I have a check
+[19:30:05] thestormingeagle: which he can defend with the rook which attacks my queen and also defens the knight
+[19:30:35] aldric123: Yeah taking on b8 and checking doesn't immediately win unless you have somewhere to go from e8
+[19:31:21] thestormingeagle: I don't see a way to win a piece and I think Rb5 is stronger than trading here
+[19:31:21] aldric123: agreed
+[19:32:52] aldric123: I guess he could still try Rb6 here
+[19:33:07] thestormingeagle: (25. Rb5) What is my knight going to do long term?
+[19:33:38] aldric123: Go to e3 or something or the position will be different then
+[19:33:53] thestormingeagle: it can go Ne2 Nc2 Nb4
+[19:34:23] aldric123: Ne1 yeah
+[19:34:54] thestormingeagle: and it could go Nh4 Nxg6 to help in some very situations where I get to play Qe8+ but the latter seems very far fetched
+[19:36:40] aldric123: The tricky slow way for black to get to the B file!
+[19:37:41] thestormingeagle: (26. ..Rf8) I think I just bring my knight into the game and retreat my queen to a a4 if attacked by the rook
+[19:37:56] thestormingeagle: I will not be able to control the b file
+[19:38:27] thestormingeagle: or maybe I will with Nd2 and then Rb1 trading rooks
+[19:38:42] thestormingeagle: my knight will still be far but I might be able to check the black king with my queen
+[19:38:42] aldric123: He can attack a6 with 3 things faster than it can be defended I think
+[19:38:57] aldric123: Something like Rb8 Rb6 Nb8
+[19:39:12] thestormingeagle: also if I decide it doesn't work later I can play Nf1 Ne3
+[19:39:28] aldric123: Of course there'd be a check on e8 in there
+[19:41:29] thestormingeagle: (27. ..Rb8) I think I'm worse but there might also be a Nxc4 dxc4 Qc4+ idea in this position later
+[19:41:29] aldric123: Yeah Qa4 Rb6 I guess there's Rb1
+[19:42:45] thestormingeagle: Not sure how much I *think* I'm worse but I fear it and I'm worried there is a tactic for black I will miss
+[19:42:45] aldric123: Though that probably just delays the fact that a6 will be attacked more than it can be defended
+[19:43:16] thestormingeagle: though if the knight moves do I have some Re1 ideas?
+[19:43:16] thestormingeagle: probably not since the white king just goes to f2 and shuts them down
+[19:43:46] thestormingeagle: so the current plan is to trade rooks
+[19:44:02] thestormingeagle: and try to bring my knight in through a long manuevre
+[19:45:02] aldric123: Tricky. I was thinking of winning the a6 pawn, black wants more
+[19:45:18] thestormingeagle: 28. ..Rb2 is interesting
+[19:45:33] aldric123: Ra2 perhaps
+[19:45:33] thestormingeagle: is Ra2 the best response?
+[19:45:33] aldric123: Slightly scary
+[19:46:03] aldric123: He can probably then just trade trades and win a6 with the ugly Nb8
+[19:46:19] thestormingeagle: Rb2 is nothing Nf1 and black can pose questions with Qf4
+[19:46:19] aldric123: Trade rooks rather
+[19:46:49] thestormingeagle: actually Nf1 Qf4 Ra2
+[19:46:49] nyanners: maybe rb5 was wrong
+[19:47:04] nyanners: i liked just going ne1 nc2 at that point
+[19:47:19] aldric123: I'm pretty sure Rb5 was wrong, but I didn't think so at the time I suggested it
+[19:47:35] thestormingeagle: fear is Nf1 Rb3
+[19:48:35] nyanners: im thinking like ra2 rb6 into nb8 but maaaybe qe8 kg7 re1
+[19:48:51] aldric123: Yeah I was looking at all those lines without starting with Rb2
+[19:49:06] aldric123: You can also just trade the rooks and still play Nb8
+[19:49:21] aldric123: cuz the queen will be on a2
+[19:49:36] thestormingeagle: (29. a2) Nf1 Rb3 Rc1 seems too passive
+[19:50:37] nyanners: umm yea xa2 nb8 seems good
+[19:50:37] nyanners: didnt see that
+[19:52:09] thestormingeagle: (29. Ra2) it seems my knight is stuck on d2 until the rooks are traded
+[19:52:39] aldric123: Maybe after Nb8 Qb2 and try to force N to take and invade on b7?
+[19:52:54] thestormingeagle: (30. Qxa2) black choosing this moment to win a6 I think
+[19:53:25] aldric123: That looks a bit ackward at least
+[19:54:10] aldric123: since you'll be hitting a7 and d5
+[19:54:10] thestormingeagle: I'm going to assume 30. ..b8
+[19:54:26] thestormingeagle: Qa4 doesn't give me enough checks because the queen on d6 is well placed
+[19:54:41] thestormingeagle: so I think I go for Nf1 Ne3
+[19:54:56] aldric123: I prefer Qb2 but I hear ya
+[19:55:11] nyanners: umm some weirdness maybe
+[19:55:11] nyanners: qa5 forces nxa6, then you play ne3
+[19:55:26] thestormingeagle: would love to have a Nxc4 dxc4 Qxc4+ tactic
+[19:55:26] nyanners: is there time for black to hold
+[19:55:57] thestormingeagle: but if he takes on a6 with the knight it will be defended by the queen
+[19:55:57] nyanners: ke6 is just in time eh
+[19:56:12] nyanners: no its not. take d5 anywyay
+[19:56:27] thestormingeagle: * should say black rather than assume
+[19:56:27] thestormingeagle: sorry if I got it wrong
+[19:56:58] thestormingeagle: if black takes with the queen then I will have to move mine to avoid a trade
+[19:57:13] nyanners: so what if black doesnt play nxa6 immediately and starts with Ke6
+[19:57:28] nyanners: changes nothing huh
+[19:57:28] aldric123: I don't know what line you're talking about
+[19:57:43] nyanners: 30..nb8 qa5 nxa6 nf1 kf7 ne3 ke6
+[19:57:59] aldric123: Hmm ok
+[19:58:14] thestormingeagle: I think I can't afford to trade queens in that circumstance
+[19:58:29] kyriakos1301: let's go thestormingeagle!
+[19:58:29] aldric123: I was more looking at 30...Nb8 Qb2 Nxa6 Qb7
+[19:59:15] aldric123: It seems to sorta paralyze black
+[19:59:15] nyanners: that also seems right
+[19:59:30] nyanners: thats so funny
+[19:59:45] nyanners: like it did look like a free pawn on the surface to me as well but somehow white's pieces are good and black's pieces are bad
+[20:00:00] nyanners: very mysterious
+[20:00:00] aldric123: yep
+[20:00:16] thestormingeagle: What about 30. ..Nb8 Qa5
+[20:00:16] aldric123: ah black also thought his pieces would suck by taking on a6
+[20:00:16] kyriakos1301: nice find Aldric, I was thinking black wins the pawn
+[20:00:31] thestormingeagle: Qb8 is unexpected
+[20:00:31] nyanners: yea seems white has at least two ways to hold if not even be better
+[20:00:31] aldric123: hey hey
+[20:00:46] aldric123: Doesn't Nxc4 now woirk?
+[20:00:46] nyanners: good one
+[20:01:01] thestormingeagle: was planniong Nb8 Qa5
+[20:01:01] kyriakos1301: good one, fingers crossed he finds it
+[20:01:01] nyanners: long think wrong think, etc
+[20:01:32] matthewhuber: Nxc4 Nxd4
+[20:01:32] aldric123: Granted, after Nxc4 I think he can try Nxd4
+[20:02:02] thestormingeagle: no!!!
+[20:02:02] thestormingeagle: I missed Nxc4
+[20:02:02] aldric123: he saw it now?
+[20:02:17] matthewhuber: that always happens to me too
+[20:02:17] aldric123: but as I and Matthew said black likely had Nxd4
+[20:02:17] matthewhuber: see the move right after you play a move
+[20:02:33] thestormingeagle: hi kyri
+[20:02:33] aldric123: yep, happens to me with sad regularlity
+[20:02:33] matthewhuber: can be bad mentally if you think you missed something
+[20:03:03] kyriakos1301: yes happens to all of us, but maybe Ne3 next move renews the threat?
+[20:03:03] aldric123: e3 is a nice square at least
+[20:03:34] nyanners: nxd4 white would be a pawn up with a lot of potential at least
+[20:03:49] aldric123: probably Nxc4 Nxd4 Ne3 and I think white is better
+[20:03:49] nyanners: but well some funnies possible here XD qe2 qe6..
+[20:03:49] nyanners: nah just trade
+[20:03:49] thestormingeagle: I was just so worried I was missing something huge with Qb8 that I messed up my thought process
+[20:04:04] nyanners: d-pawn is very strong, might have qb7 anytime
+[20:04:19] thestormingeagle: I was thining about 31. Nf1 Qb3
+[20:04:50] thestormingeagle: well the knight is going to e3 and the same tactic might present itself
+[20:05:51] nyanners: okay qe2 might have been too artificial. qa1 is very sensible
+[20:06:21] nyanners: i might have been too frustrated to play this if i saw i missed Nxc4 XD
+[20:07:07] aldric123: You Ke6 from the earlier line may come to pass!
+[20:07:37] aldric123: Ne3 Ke6 Qe1 Kd6?
+[20:07:37] thestormingeagle: (32. Kf7) Well Ne3 has no point now
+[20:07:52] nyanners: i like it for w
+[20:08:07] nyanners: is this some sort of draw in the making
+[20:08:07] thestormingeagle: admitting you are wrong and moving back sucks
+[20:08:23] aldric123: Qa3 to invade on d6 hmm
+[20:08:38] thestormingeagle: and this is just worse now
+[20:08:53] nyanners: im kinda feeling white has had enough of this game
+[20:09:08] aldric123: he's getting frustrated it sounds like
+[20:09:24] nyanners: black could offer a draw. or play to win..
+[20:09:39] nyanners: like i dont think white is worse at all
+[20:09:39] aldric123: Qa3 and if Ke6 Qf8?
+[20:09:54] aldric123: It seems balanced on an edge
+[20:10:09] nyanners: on principle black can probably never actually do anything because q invades with perpetual or something
+[20:10:55] thestormingeagle: (34. Qa3) have to not tilt but I do think things are desparate
+[20:10:55] aldric123: be funny if he has to redo Nf1 Ne3 to drum up more threats
+[20:11:10] nyanners: too late to not tilt it seems
+[20:11:25] thestormingeagle: the white knight is quite far from serving a useful function
+[20:11:41] thestormingeagle: I'm looking at trying to get a queen infilitration and perpetual
+[20:11:41] aldric123: It got the black queen out of b3 and keeps it out of b1, that's not nothing
+[20:12:42] nyanners: yea like. now youre forced to play a good move??
+[20:12:57] nyanners: qd6 into ne3
+[20:13:12] nyanners: and black is stuck
+[20:13:27] aldric123: yeah though it's irritating that Ne3 takes two moves, but it is what it is
+[20:14:43] thestormingeagle: trading queens on b4 splits my pawns but means the a pawn isn't a passer
+[20:14:43] kyriakos1301: Qd6 would such a hard move for me to find in this position
+[20:14:58] aldric123: It's the only one on tap to invade atm
+[20:15:14] aldric123: Black will be tied down again kinda
+[20:15:14] aldric123: ewww
+[20:15:29] nyanners: yea as far as i am concerned qd6 is the only move in the position
+[20:15:44] nyanners: im not sure if thats good or bad
+[20:15:59] nyanners: i do have a tendency to tunnel too early
+[20:16:45] aldric123: yeah his king moves are letting black untangle
+[20:16:45] nyanners: okay now you need ne3 surely
+[20:17:00] nyanners: the timing is just right too with na6 undefended
+[20:17:00] nyanners: so no qb3
+[20:19:02] thestormingeagle: (38. Qa3+) Queen on a3 until I can get my king on c2 to watch b2
+[20:19:02] thestormingeagle: then trying to capture kingside pawns
+[20:19:32] thestormingeagle: or rather I'm just trying to capture kingside pawns anyway
+[20:19:48] aldric123: Time almost under a min!
+[20:20:18] aldric123: of course we all know this is the 45 _45_ league, hah
+[20:20:33] nyanners: kc2 eh. feel i dont like that
+[20:20:33] nyanners: kingside feels vulnerable
+[20:20:49] aldric123: trying to invade f8 seemed more fruitful, but white may have already lost the chance
+[20:20:49] thestormingeagle: (39. Qa4) hoping for the black king to go to d6
+[20:21:04] nyanners: ooooh queen out of the file
+[20:21:04] nyanners: promising
+[20:23:51] nyanners: maybe black just hangs d5 idk
+[20:23:51] aldric123: maybe!
+[20:24:06] aldric123: probably he just keeps moving his king though
+[20:24:37] nyanners: this is not difficult to lose with b at all
+[20:24:37] nyanners: if you get frustrated
+[20:24:52] nyanners: maybe its draw time
+[20:25:07] aldric123: So now if check Nb8, home!
+[20:25:22] nyanners: here its the same thing like, black got the king to the queenside and now the kingside is permanently weak
+[20:25:38] nyanners: unless q trade
+[20:25:38] nyanners: which should win
+[20:26:23] nyanners: that said, i feel i dont like the immediate qe8. would rather get ne3 first
+[20:26:23] nyanners: black has a little more freedom here
+[20:26:39] aldric123: I think I like Nf1 instead of Qf7
+[20:27:09] thestormingeagle: 45.Qf7  My queen is now far away from the a pawn but the black king will be exposed when they push it
+[20:27:09] nyanners: nf1 instead of qe8
+[20:27:24] aldric123: right, I was thinking about nowish, but I know what you're saying
+[20:27:24] aldric123: We've been wanting N to e3 for a while now
+[20:27:24] nyanners: right :o
+[20:27:39] thestormingeagle: do I have time to grab pawns?
+[20:27:39] nyanners: q can take the chute from g6 to b1
+[20:27:39] thestormingeagle: is there anything I can do other than grab pawns?
+[20:28:40] kyriakos1301: Qf2 Nxc4, is that a threat?
+[20:28:40] kyriakos1301: Qf5 I meant
+[20:29:56] nyanners: maybe this worked out nicely XD i dont know
+[20:29:56] nyanners: but white's own h-pawn has a lot of potential now
+[20:29:56] aldric123: this game is madness I have no idea
+[20:30:12] aldric123: g3 h4 now that it's all back on the queenside
+[20:30:27] nyanners: on nxc4 i feel i would only give knight for 3 pawns, not for 2
+[20:30:42] nyanners: so a+c+d might be a deal
+[20:30:57] thestormingeagle: (49. Qb5) Trade queens and run the h pawn?
+[20:30:57] Joonaf: Why not 49..Nc6 instead of ..Qb5?
+[20:31:12] aldric123: he doesn't have to trade queens I don't think
+[20:31:28] nyanners: q trade now winning for white? idk
+[20:31:43] DavidSifre: Go Cowtone!
+[20:31:43] aldric123: Yeah both of them are having issues using their knights instead of Queens
+[20:32:13] aldric123: I was saying that to joonaf
+[20:32:44] Joonaf: Well, there goes the queens
+[20:32:44] aldric123: go big harry the h pawn!
+[20:32:59] aldric123: yeah no choice now!
+[20:32:59] thestormingeagle: (51. Nxb1) Is f4 the best way to run the h pawn?
+[20:33:29] nyanners: in general, the best way to run the pawn is to push the pawn itself
+[20:33:29] nyanners: this seems to be no exception. g3 h4
+[20:33:29] thestormingeagle: g3 is as fast but the h pawn will be forever isolated
+[20:33:45] aldric123: He can stop the h pawn in 2 moves by going to f8
+[20:33:45] aldric123: So you can just only "race"
+[20:34:00] thestormingeagle: if f4 my king can march up the f file and allow the g pawn to support
+[20:34:30] aldric123: This does maybe allow the king to invade quicker maybe
+[20:34:30] nyanners: so yeah the next level is okay, the pawn can be stopped, so we go for infiltration
+[20:34:46] nyanners: i suppose black is in time
+[20:35:01] thestormingeagle: If Kc6 then I have to play Na3 to close play on the queenside
+[20:35:01] nyanners: like the first priority of infiltration would be to just go for kf5 without f4 but yea
+[20:35:16] nyanners: white doesnt get there
+[20:35:31] matthewhuber: if blacks king can stop the white pawns, then black is basically up a knight since the white knight will be tied down
+[20:35:31] aldric123: I don't think he can keep black's king out. he pushes to a4 and gets in via a5
+[20:35:31] aldric123: err wait
+[20:35:46] aldric123: My brain is not working again
+[20:35:46] matthewhuber: computer probably says draw but i am willing to bet black is winning this more times than not
+[20:35:46] nyanners: no yea this is a bit weird
+[20:36:02] nyanners: i think black k just goes to hold the kingside
+[20:36:02] aldric123: Na3 does seem to keep the king out
+[20:36:02] nyanners: and then nothing happens
+[20:36:17] aldric123: I think you're right, but I'm hardly certain
+[20:36:17] nyanners: my reflex thought something would happen
+[20:36:32] thestormingeagle: hi aldric! hi kyriakos!
+[20:36:32] aldric123: hihihi
+[20:36:32] thestormingeagle: I can't remember if I said hi earlier
+[20:36:32] matthewhuber: why no hi matthewhuber:(
+[20:36:47] aldric123: YOu did, but you can say hi as much as you want!
+[20:36:47] thestormingeagle: and hi pineapplechiffoncake
+[20:36:47] aldric123: Cuz you're the dirty enemy!
+[20:36:47] aldric123: :)
+[20:37:03] nyanners: >:)
+[20:37:03] matthewhuber: teehee
+[20:37:48] aldric123: Kf2 to f4
+[20:37:48] thestormingeagle: black king is outside the h pawns square but the knight is definitely in time to stop it so I will look at winning the f pawns before I p
+[20:37:48] aldric123: The h pawn can wait
+[20:37:48] nyanners: not sure if this changes anything but white has to be happy to see that
+[20:37:48] thestormingeagle: push
+[20:37:48] aldric123: invade with the manly king!
+[20:38:03] aldric123: I was thinking the same thing
+[20:38:19] aldric123: now he has to defend f6
+[20:38:34] aldric123: Basically d5 may eventually fall by giving up the h pawn for it
+[20:39:04] thestormingeagle: (53. Kf2) Now if Kc6 do I play Na3 or just push?
+[20:39:20] aldric123: If he does Kc6 you do play Na3 immediately
+[20:39:20] thestormingeagle: just mobing my king forward is probably best
+[20:39:20] aldric123: fast fast fast
+[20:39:50] thestormingeagle: as my race should be faster given the black king has to get to b1 to stop the knight
+[20:39:50] aldric123: If Kb5 I think white hates his life
+[20:39:50] thestormingeagle: and I defend h8 once my king gets to f6
+[20:40:05] aldric123: Black has Nd7 f8 to stop the h pawn
+[20:40:05] thestormingeagle: going to try to calculate it though
+[20:40:51] thestormingeagle: black is 10 moves from queening on the kingside with the king involved
+[20:41:06] thestormingeagle: I am 5 moves from queening the h pawn
+[20:41:21] thestormingeagle: and four moves from capturing f6
+[20:41:21] thestormingeagle: and I move first
+[20:41:36] thestormingeagle: and black wastes tempi with knight moves
+[20:41:36] thestormingeagle: I think I should be faster
+[20:42:37] aldric123: This has been a very exciting game
+[20:42:53] thestormingeagle: (56. g4) black unfortunately does not want to race
+[20:43:08] thestormingeagle: so stopping h5 for now
+[20:43:23] thestormingeagle: but the plan is to trade the kingside pawns and run to the queenside
+[20:43:54] thestormingeagle: I would rather leave them as a lingering threat than trade
+[20:44:09] thestormingeagle: I'm just waiting for my king to be closer than the black king to the a pawn
+[20:44:54] aldric123: h4 already, harry is getting impaitient!
+[20:45:10] thestormingeagle: (57 h4) preparing h5 if Nf8
+[20:45:40] thestormingeagle: then I will play Na3 and think of sacrificing to create another passer
+[20:45:55] nyanners: naah not the geometry for cxf4 i think
+[20:45:55] nyanners: *nxc4
+[20:45:55] thestormingeagle: but hopefully zugzwayg just gives me kingside progress
+[20:46:26] nyanners: maybe white had to keep the pawns on g4 and h4 for a bit
+[20:46:26] nyanners: no zugzwang with ng5-nh7
+[20:47:42] thestormingeagle: (60. Nb5) Heading towards a knight dance draw
+[20:47:57] aldric123: now this is going to end peacefully with knights dancing back and forth?
+[20:47:57] thestormingeagle: but threatening Nc7+
+[20:48:12] thestormingeagle: to try and provoke something
+[20:48:12] nyanners: seems that way
+[20:48:58] nyanners: h5 cashed the potential too early
+[20:48:58] nyanners: blockades means no ideas left
+[20:48:58] thestormingeagle: repeat once to provoke a mistake before thinking about h6
+[20:48:58] aldric123: probably
+[20:51:30] thestormingeagle: trying to think if h6 has downsides
+[20:51:45] aldric123: I like h6 if you don't he can think about Ne4
+[20:52:01] thestormingeagle: if the black king captures h6 I should be able to capture f6
+[20:52:16] thestormingeagle: though they could move their knight to defend it
+[20:52:46] thestormingeagle: it will change the cycle of the knight dance
+[20:53:32] thestormingeagle: I think we reached this position twice
+[20:53:47] thestormingeagle: Na3 is also a position reached twice
+[20:54:17] thestormingeagle: I mean if I play Na3
+[20:54:17] thestormingeagle: I haven't checked that closely
+[20:54:17] bronasberger: That’s a nice little saying «change the cycle of the knight dance»
+[20:54:48] thestormingeagle: I did want to play Na3 to give me Nxc4 ideas to create a passed e pawn
+[20:54:48] thestormingeagle: * d pawn but the a pawn is faster
+[20:55:18] thestormingeagle: I queen the tempi after
+[20:55:34] thestormingeagle: so I there is a check it might be an option
+[20:56:04] thestormingeagle: that said h6 first and getting the black king offside might make it better
+[20:56:19] thestormingeagle: I hope it isn't tilt to play for a win in this position
+[20:56:19] thestormingeagle: I don't think it is
+[20:56:34] thestormingeagle: but h6 has risks
+[20:56:50] Joonaf: Does anyone have full chat?
+[20:56:50] thestormingeagle: though I think it will get me kf5
+[20:57:05] nyanners: dont think it matters if the h-pawn is gone or not
+[20:57:20] SpacebarIsTaken: @joonaf the first message I can see is ewwww
+[20:57:20] aldric123: I don't really see how the pawn dies anyway without you getting something in return
+[20:57:20] matthewhuber: yes i do Joonaf
+[20:58:06] aldric123: Here we go, you already get the f5 square
+[20:58:51] aldric123: That is a move I didn't expect, Nh3
+[20:59:07] nyanners: is black tilting now
+[20:59:07] matthewhuber: oh my is this zugzwang?
+[20:59:07] thestormingeagle: (64 .. Nh3) Do I have Nd6+ Nxd5 ideas?
+[20:59:22] matthewhuber: no theres always knight moves
+[20:59:37] Joonaf: 63..Nh3+ instead of ..Kf7?
+[20:59:37] cowtone: i thought Nh3 was a check
+[20:59:37] nyanners: i mean dont you just h7 for h6 and then take everything
+[20:59:37] nyanners: *for f6
+[20:59:52] aldric123: yeah shove the h pawn to win f6 and then d5
+[21:00:08] thestormingeagle: or push grab f?
+[21:00:38] nyanners: nh3 being an exhaustion mistake makes sense
+[21:00:53] Nubro: Nh3 on the 3h mark is poetic
+[21:00:53] SpacebarIsTaken: Was black still fine after Kf7? Was Nh7 in that position better?
+[21:00:53] matthewhuber: yeah its been a long game. totally understandable
+[21:00:53] aldric123: h7 h8 the black king is stuck on h8 then f6 falls AND THEN THE REST OF THE WORLD
+[21:00:53] Joonaf: 63..Nh3+, K moves, Knight back to Ng5
+[21:01:24] thestormingeagle: push h grab f and my knigh defends c3 looks like the plan
+[21:01:24] nyanners: yea i think you just premove ng5 nh7 and thats literally it
+[21:01:39] nyanners: like nd6 is nothing because white cannot afford to allow a3
+[21:01:54] aldric123: agreed
+[21:02:09] aldric123: Nh3 was out of left field
+[21:02:55] nyanners: black thinking it was check is like understandable but still a bit random to me. trying to win?
+[21:02:55] aldric123: it is annoying though that Nf4 will protect d5
+[21:03:10] thestormingeagle: (67. ..Kg8) Now I just try to grab the d and c pawns
+[21:03:25] thestormingeagle: No sense in pushing the g pawn and moving it closer to the black king
+[21:03:25] aldric123: Oh I guess you just go to e5 not e6 like I was thinking
+[21:03:41] aldric123: my brain works like half as well while observing, it's weird
+[21:03:56] thestormingeagle: has to be Ke5 to guard f4
+[21:04:11] nyanners: ke6 nf4 ke5 is like actually same i think
+[21:04:26] nyanners: where is the knight going
+[21:04:26] thestormingeagle: actually would it have been better to go Ke6 allow Nf4+ then play Ke5 with an attack on the knight?
+[21:04:57] aldric123: dunno, then the Knight goes to e2 and is touching c3
+[21:04:57] aldric123: they stack a pawn for c3
+[21:05:12] aldric123: still should be winning, but seems silly to allow
+[21:05:12] nyanners: okay so it DOES matter
+[21:05:27] nyanners: thats fair
+[21:05:27] thestormingeagle: also maybe I should just stream my games so I can draw arrows instead of typing lines
+[21:05:58] thestormingeagle: and say ideas rather than type them
+[21:05:58] aldric123: drawing arrows seems like a bad habit to get into unless streaming is literally your job
+[21:06:13] nyanners: personally i just throw ideas and let chat calculate them
+[21:06:13] matthewhuber: ^^
+[21:06:43] aldric123: I can just see an otb game. Dammit, I need to draw my arrows, how am I supposed to calculate!
+[21:06:59] matthewhuber: great game to both players
+[21:07:14] nyanners: ooh resigns :o fair tho
+[21:07:14] nyanners: gg
+[21:07:14] Nubro: Gg!
+[21:07:14] aldric123: GG to both
+[21:07:14] bronasberger: Good game!
+[21:07:14] Joonaf: Ggwp!
+[21:07:29] thestormingeagle: gg wp
+[21:07:44] thestormingeagle: thanks everyone
+[21:08:15] matthewhuber: Beginning of chat: https://pastebin.com/LDjymCCH
+[21:08:30] cowtone: gg, thanks for the game. yeah nh3 was a blunder, thought it was a check
+[21:09:00] thestormingeagle: gg wp thanks for the game
+[21:11:32] thestormingeagle: what is your twitch account nyanners?
+[21:11:48] nyanners: assuming i stream :o
+[21:11:48] cowtone: actually, if it was a check, then it would have been a checkmate as well
+[21:12:48] cowtone: too much to calculate with q end games, when kings were quite open
+[21:13:04] thestormingeagle: I assumed since you said talk to chat
+[21:13:19] cowtone: a short analysis?
+[21:13:34] nyanners: ahh this chat i mean
+[21:13:49] thestormingeagle: I thought you did because you mentioned talking to chat
+[21:14:04] thestormingeagle: also wow the chat history is too long to see the first messages - thanks matthew for the link
+[21:14:20] cowtone: my opening: never played it before. tried to just make sure that we both were out of the book
+[21:16:06] cowtone: i was expecting 13. Ng4
+[21:18:08] aldric123: Interesting. 31.Nxc4 was winning. Mainly because ...Nxd4 still loses.
+[21:18:08] cowtone: 18.. was going to play Nc6 but couldn't give material away.. 13.. b5
+[21:19:54] cowtone: 31. there is always one missed tactics in a game of 60+ moves
+[21:20:24] aldric123: For sure
+[21:20:55] cowtone: i thought about sacrificing Nxd4 and getting a passed c pawn but i don't think there was a chance
+[21:22:41] thestormingeagle: @cowtone did you decide to go for it in game or before?
+[21:23:27] cowtone: opening? never played those moves before, no prer
+[21:25:59] cowtone: it was an interesting end game, after queen sacrifices, i thought i was better but not really
+[21:26:29] cowtone: not sacrifice but queen trade
+[21:28:01] cowtone: looks like all top moves were basically 0.0 by stockfish, until nh3
+[21:30:48] cowtone: the game was a brain overload for me
+[21:30:48] cowtone: GG
