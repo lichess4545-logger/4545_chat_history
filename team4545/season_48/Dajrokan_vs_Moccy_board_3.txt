@@ -1,0 +1,69 @@
+Lichess game chat log
+Game      : https://lichess.org/eSmeW0cU
+White     : dajrokan
+Black     : moccy
+Time      : 45+45
+Captured  : 2026-04-24 17:21:21 UTC
+Game ended : 2026-04-24 16:01:17 UTC
+Messages  : 59
+────────────────────────────────────────────────────────────
+
+[14:33:01] basyaar: Go captain!
+[15:14:06] basyaar: a6 seems a threat, Nb6?
+[15:14:37] basyaar: a file opens axb7
+[15:15:38] basyaar: oh king side pawns
+[15:16:54] basyaar: black has play here, but plan?
+[15:20:57] basyaar: h5?
+[15:26:01] karasso: c4 instead of Qxh6 looked like it would have won a piece
+[15:26:17] karasso: There was Rg8, my bad
+[15:27:17] basyaar: Black king feels unsafe to me
+[15:28:03] basyaar: Rc1
+[15:28:18] basyaar: wow queen can be trapped?
+[15:28:49] basyaar: Rb1 and Bc6?
+[15:30:05] basyaar: Nd4
+[15:32:07] karasso: I guess, Ka8 probably has to be played at some point
+[15:32:37] basyaar: Queen sac? Nc3 Ra1, Qxa1 and knight x bishop
+[15:33:38] karasso: Would try to avoid that, if possible
+[15:34:08] basyaar: Q on h6 is out of play
+[15:34:54] karasso: Can come very fast back into the game. Also right now, white might just take twice on g6 after e.g. Ka8
+[15:35:40] karasso: Maybe a6 b6 first
+[15:36:10] karasso: Or a6 Nb6...everything looks bad for black here
+[15:36:25] basyaar: Ba6 and Nc6 r threats
+[15:36:56] basyaar: Nc7 then?
+[15:37:26] karasso: Ka8, Ba6 bxa6 Nc6 Rdd8
+[15:37:41] karasso: Ree8*
+[15:38:12] basyaar: Rc7 is nice
+[15:38:27] basyaar: exchange 1 attacker
+[15:42:30] basyaar: Nc6+?
+[15:44:47] basyaar: oh wow; Kxc7. was expecting Nxc7
+[15:52:39] karasso: Kxe4 and pray
+[15:52:54] basyaar: oh Kxd4 and Rd1+ mate?
+[15:53:10] karasso: Still kxe4
+[15:53:40] karasso: Just Nxf6 if not Kxe4
+[15:54:41] karasso: Nxf6 Nxf6 Bd3+ Kg5 Qg7+
+[15:56:12] karasso: Not sure why Kxe4 was not played. Takes a piece and don't saw a direct win for white, even though there might be one
+[16:01:17] basyaar: gg
+[16:02:02] karasso: gg
+[16:03:49] Dajrokan: yes short castle would prolong your life
+[16:04:49] Dajrokan: if black castles short then white got nothing out of the opening
+[16:05:35] Moccy: Yeah, I guess that was my main mistake. After that, I would have required really, really good play, which I obviously did not show
+[16:07:37] Dajrokan: I actually completely blundered a piece with d4
+[16:07:52] Moccy: Gg and well played!
+[16:07:52] Dajrokan: only after playing it noticed it hangs knight
+[16:08:07] nyanners: gg
+[16:09:23] Dajrokan: like who would have ever play Rd1 after black takes the free knight
+[16:11:40] Moccy: I wasn't courageous enough to take on e4 because I thought Qxe6 and there was some mate.
+[16:11:55] Moccy: Obviously in this case I should have trusted my calculation more than my intuition :)
+[16:12:56] Moccy: Anyway, it would have been a more realistic try than what I did instead.
+[16:13:26] Dajrokan: yes that is correct
+[16:13:57] Dajrokan: "at least mate me with a piece down" scenario
+[16:14:27] Moccy: haha, right :)
+[16:15:43] Dajrokan: what's more sad is that additionally I calculated mate in two after you would take the knight
+[16:16:14] Moccy: Then we probably did the same calculation o0
+[16:16:29] Dajrokan: LOL, same rating level players problems
+[16:16:44] Moccy: It's a pity but what can you do.
+[16:16:59] Dajrokan: this actually happens a lot OTB, that similar players only see to a certain depth
+[16:17:14] Dajrokan: by the way kudos for the nice opening, old school
+[16:17:30] Moccy: Right, have had thast before too
+[16:17:30] Moccy: Anyway, best of luck for the remainder of the season!
+[16:17:45] Dajrokan: you too, good luck
