@@ -1,0 +1,44 @@
+Lichess game chat log
+Game      : https://lichess.org/3gxWzPiW
+White     : philippbrandenbrett
+Black     : sednomini
+Time      : 45+45
+Captured  : 2026-04-25 17:18:52 UTC
+Game ended : 2026-04-25 15:58:47 UTC
+Messages  : 34
+────────────────────────────────────────────────────────────
+
+[14:02:05] Pineapplechiffoncake: Go SedNomini!
+[14:02:35] PhilippBrandenbrett: 1...e6 well.. there goes all my prep :)
+[14:02:35] berndwind: Go go sed!
+[14:03:06] berndwind: Susiedent should be here. Our resident French expert
+[14:03:52] berndwind: They both know their Tarrasch!
+[14:23:54] GroneN: Go Philipp!
+[14:24:09] GroneN: I hate the French
+[14:53:19] GroneN: (16) (16) Piece sac for white if g6? It looks plausible.  Qh6 would trap the queen
+[14:54:51] GroneN: (16) Either way, with most of black's pieces on the queen side the attack looks promising
+[14:57:53] GroneN: (16) The DSB is lined up for a sac as well if h6, though the knight is a bit awkward to reposition
+[14:58:54] GroneN: (16) (16) Nxe6 would of course be great but it's tough to calculate
+[15:00:26] GroneN: (16) If Nxe5 fxe5 then Bxh6 and black can't recapture but also seems to be just in time to defend
+[15:00:56] GroneN: (16) *Nxe6
+[15:02:58] GroneN: (16) Ah but maybe Bg6 there would be winning actually
+[15:06:46] GroneN: (16) White should have the draw here at the very least, but the DSB and knight on h2 can jump into action quick as well
+[15:10:19] GroneN: (20) Re3 looks good
+[15:12:21] GroneN: (20) though Bh4 seems to hold things together somewhat
+[15:14:38] GroneN: (21) I guess there's always Nf3 and white can just settle for the pawns and positional advantage
+[15:21:13] GroneN: (24) Rc3 to keep the tension and involve the other rook seemed more promising to me
+[15:21:59] GroneN: (24) But this should be a smooth win regardless
+[15:48:08] GroneN: (34) Qe8 Ka5 b4 would be a pretty mate :)
+[15:49:24] GroneN: (35) But black could also sac the knight to avoid mate
+[15:49:39] GroneN: (35) :/
+[15:58:17] GroneN: (54) just pushing to f5 is the easiest way to mate without stalenate risks
+[15:58:32] GroneN: (55) f6
+[15:58:47] GroneN: (56) gg to both players
+[15:59:03] Pineapplechiffoncake: Gg
+[15:59:33] SedNomini: nice sacrifice, I thought I had solved the problems and could get to safety, but the attack just kept coming
+[16:00:49] PhilippBrandenbrett: gg! still you defended extremely well
+[16:01:20] PhilippBrandenbrett: I didn't expect 26...Bd1 at all, great find!
+[16:01:35] SedNomini: needed to find Bh4, that's a tough one lol
+[16:02:20] PhilippBrandenbrett: engine being ridiculous as always finding a way to hold there
+[16:03:52] SedNomini: also, needed to play f3 early on, which I had looked at, but thought I could prolong
+[16:14:00] PhilippBrandenbrett: yeah it's tricky to time it right, so often there is some Nxe6 stuff to watch out for after ...f6
