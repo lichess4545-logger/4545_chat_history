@@ -1,0 +1,88 @@
+Lichess game chat log
+Game      : https://lichess.org/Tngjwv4M
+White     : stevenlongs
+Black     : tomb85
+Time      : 45+45
+Captured  : 2026-04-25 01:23:41 UTC
+Game ended : 2026-04-25 00:03:37 UTC
+Messages  : 78
+────────────────────────────────────────────────────────────
+
+[22:07:12] Pope123: (7.c3) Silk warned about protecting the pawn, but b4 is very tempting if allowed
+[22:12:47] Pope123: (8...Nxe5) Maybe he meant the e-pawn
+[22:15:04] Pope123: (9...Nc6) Go stephen!
+[22:17:21] Pope123: (10.c4) This move scores really well in the database -- very promising
+[22:20:39] Silkthewanderer: Go Steven
+[22:21:55] Silkthewanderer: That is reassuring, your holiness
+[22:22:25] Silkthewanderer: I don't know that line exactly and my first impression was that I would like it a lot forbBlack
+[22:23:41] Silkthewanderer: Nc3 is clearly a trap but what if we fall for it as Black?
+[22:24:27] Silkthewanderer: Ah wait Rxd8 is check, that makes d4 untenable
+[22:25:12] Silkthewanderer: Although....d4 Rd1 Bxc5 still exists
+[22:25:28] Silkthewanderer: And might be the cleanest solution for Black
+[22:26:29] stevenlongs: hello fellow FEN enjoyers
+[22:26:44] Silkthewanderer: Ah...d4 Bxc6 bxc6 Qxc6 is the way because then Ke7 Rd1 and Nd7 Bxd4
+[22:26:59] Silkthewanderer: Okayokay, trap is valid
+[22:32:18] Pope123: (12...exd5) Catles long kind of wins the pawn?
+[22:37:53] Silkthewanderer: Yes. I wonder if Qa5 over Be7 could have avoided that
+[22:39:25] Silkthewanderer: But there I guess cxd5 Nxd5 Bd2 might be tricky
+[22:40:56] Silkthewanderer: 14. Nxd5 and then?
+[22:42:12] Silkthewanderer: I guess Black trades, castles short and seeks counterplay against the more exposed king
+[22:44:14] Silkthewanderer: Whites best still I think is to just grab all pawns he can get
+[22:44:59] Silkthewanderer: Nxd5 Nxd5 0-0 Bxc6 bxc6 Qxc6 Rb8 Qa4 and Black doesnt have enough play for two pawns
+[22:46:15] Silkthewanderer: Lol wait Bb5 is hanging there, because Qd7 does nothing. I should sleep
+[22:48:17] Silkthewanderer: I was wondering about 14. Rd4 btw
+[22:49:03] Silkthewanderer: Looks silly but it prepares Ra4
+[22:49:18] Pope123: (14.Kb1) ohh thats a cool idea
+[22:49:33] Silkthewanderer: And Bxc5 Ra4 Bxe3 Qxe3 is a check of course
+[22:50:19] stevenlongs: feel like i missed somethjing
+[22:51:20] Pope123: (14.Kb1) I kind of like 14.Rxd5
+[22:52:05] Pope123: (14...a6) nvm im blundeirng the bishop
+[22:54:38] Silkthewanderer: How? Rxd5 Nxd5 Nxd5 Qxb5 Nc7+ is a thing
+[22:55:23] Silkthewanderer: Bigger issue to me with 14. Rxd5 was that Black just castles and White has no good follo2-up
+[22:56:24] Zubenelgenubi: go steven!
+[22:56:39] nyanners: not qxb5 but taxb5
+[22:57:25] Silkthewanderer: We meant 14. Rxd5 not 15. Rxd5
+[22:58:11] nyanners: umm. i like it??
+[22:58:26] nyanners: castles bxc6 at worstt
+[22:58:56] nyanners: now okay you might not wanna Bxc6 but maybe the rook can stick around
+[22:58:56] Pope123: (15.Ba4) Oh yeah true Nc7+!
+[23:01:59] nyanners: like, 14 Rxd5 O-O Bxc6 bxc6 Re5 and somehow theres no easy way to remove the rook
+[23:02:14] nyanners: or Rf5 without Bxc6 maybe
+[23:02:14] Silkthewanderer: Yes that was also my impression
+[23:02:45] Silkthewanderer: Thus 14. Rd4 because the fourth rank is more fun to use for rook swings
+[23:03:00] nyanners: like, you just won a pawn. its black who needs the followup :o
+[23:03:15] Silkthewanderer: Anyway, here at move 15 I liked ...0-0 for Black
+[23:03:46] Silkthewanderer: Use the opportunity that just now nothing was threatened
+[23:06:02] nyanners: it would be most ironic if Rd8 lost a crucial tempo by virtue of trying to be too careful :o
+[23:06:02] nyanners: seems fine tho
+[23:06:18] Silkthewanderer: Then again I am struggling to name a good move for White now
+[23:06:18] nyanners: yea feeling the same
+[23:07:03] nyanners: sure i guess
+[23:07:19] nyanners: thats gotta be a good move
+[23:07:19] Silkthewanderer: Rhe1 looked good
+[23:08:04] Silkthewanderer: 17. Bg5 is actually carrying some threats now
+[23:08:19] nyanners: yea might also need to deal with d4
+[23:08:50] nyanners: even if okay Rxe7 maybe..
+[23:09:05] nyanners: nah Nxd4 hits Qf3
+[23:11:07] Silkthewanderer: Wait, what is that line exactly?
+[23:11:22] nyanners: pass d4 Bxd4 Nxd4 Rxe7 Nxf3
+[23:11:37] nyanners: but okay you could insert Bxc6 actually..
+[23:11:52] nyanners: but it seems like it has to be bad on principle
+[23:13:54] nyanners: yea this seems kinda problematic now that Bxc6 has been removed
+[23:13:54] stevenlongs: idk
+[23:13:54] Silkthewanderer: I didnt consider that motive much after Bg5, with Bb3 it becomes very relevant
+[23:14:09] nyanners: i mean Bg5 you just removed the piece, right. so no problem
+[23:14:25] nyanners: now with Bb3 white removed a piece.. in a different meaning of that
+[23:14:55] stevenlongs: wait
+[23:15:56] nyanners: cant really blame white here but thats rough
+[23:21:46] Pope123: (17...d4) Crap :(
+[23:22:32] nyanners: Bxc6 would reduce the damage to positional rot
+[23:25:19] nyanners: cant be like super pessimistic about like 19 Rxd4 into Rxe7 but this is a pretty bad position to be down an exchange in
+[23:31:24] stevenlongs: queen is running low on squares
+[23:48:09] stevenlongs: it's cooked
+[23:53:59] Pope123: (26.bxc3) Or you're about to cook, who knows
+[23:59:49] stevenlongs: im already mated if check then Qf2?
+[00:02:21] Marco_Chess13: i like black here
+[00:03:06] jcarmody: gg
+[00:03:22] Marco_Chess13: gg guys
+[00:03:52] Pope123: gg
