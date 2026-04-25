@@ -1,0 +1,51 @@
+Lichess game chat log
+Game      : https://lichess.org/2SfDLMMa
+White     : parmon
+Black     : betolini
+Time      : 45+45
+Captured  : 2026-04-25 07:52:24 UTC
+Game ended : 2026-04-25 06:32:20 UTC
+Messages  : 41
+────────────────────────────────────────────────────────────
+
+[04:03:28] Parmon: (2.Nf3) and there goes my Caro preparation, ok
+[04:15:08] Parmon: (5.Qe2) i'm not happy to be out of prep after move 4. Nc6 is uncommon, but good. I had to figure out what to do about the idea of 5...e5
+[04:15:23] Parmon: I'm not sure why not 5.Bf4, it just felt like it's not the move here.
+[04:18:41] Parmon: (6.Nbd2) i think i'll have to play some kind of King's Indian Attack. I played it a bit, but i'm not an expert. Played it more often...
+[04:18:41] Parmon: with black actually
+[04:20:43] Parmon: (7.g3) i'm waiting for Black to castle before i play e5. otherwise he may not castle at all, and i'm not sure what i'm going to attack
+[04:21:44] Parmon: i think the idea for black is to play ...dxe4 8.dxe4 e5 before castling, and there won't be any attack, maybe black would even be better
+[04:21:59] Parmon: good to see my opponent is spending time now too
+[04:35:10] Parmon: (10.d4) in general i wouldn't want to push d4, but i can't protect e5 otherwise. i considered not pushing e5 on move 9, but even if...
+[04:36:11] Parmon: i got to play O-O, Re1, Nf1, then black could ...dxe4 dxe4 e5 and that wouldn't be fun. so pushing pawns seems to be better
+[04:42:16] Inter-temporal: (12.Qe3) go betolinguini alfredo Ratatouille!
+[04:42:16] Parmon: (12.Qe3) i didn't see it in advance that he'd rush to attack on d4 (which is bad) but anyway i don't see any problems here for me
+[04:43:02] Parmon: ...Nb4 13.Qc3 even, i don't see how it's dangerous. the knight on d7 is very bad
+[04:43:17] Parmon: i think the only viable plan for black here is connected with f6
+[04:47:05] Parmon: (13.Qc3) maybe ...f6 now, that he can re-capture with a bishop and attack on d4 again, since e6 wouldn't be hanging?..
+[04:48:06] Parmon: (14.Bf1) that bishop wasn't good on g2 anyway. now he has prospects to get on d3
+[04:51:24] Parmon: (15.Kd1) yeah i missed the idea of 14...Qc6, with me being unable to castle. that's not ideal.
+[04:52:10] Parmon: maybe not as bad as i initially thought. if he takes on c3, d4 is not a weakness, and c3 is much easier to defend
+[04:54:42] Parmon: and i wonder if he must take on c3 in the end, since after a3 his knight can't go to c6, and on a6 it'd be out of the game forever
+[05:10:40] Parmon: (18.Bh3) his idea is, of course, to play e5 asap and exploit my king's position in the center. it's good for me that i can trade queens..
+[05:10:56] Parmon: but in general i wouldn't like that because then he can play c6-c5.
+[05:11:41] Parmon: for now, i'm targeting a knight on d7 (in addition to directly attacking the pawn) and opening up the rook so it can go to e1 vs 18...Re8
+[05:16:30] ttsgosadow: Great game so far! Also interesting that you share your thoughts
+[05:17:16] ttsgosadow: *now puts up his Betolini flag
+[05:17:16] ttsgosadow: Go Go beto!
+[05:18:17] Parmon: (19.Re1) now when i think about it, he's actually in a bit of trouble to defend the e6 pawn. he can't push it now because after trades...
+[05:18:32] Parmon: on c6 and d7, i just win it
+[05:19:02] Parmon: and if Nd7-somewhere (f8?) then i can play Ne5, right away or later
+[05:27:25] Parmon: (20.Nb3) defending d4 another time for a moment, planning Bf4, Nc1-d3-e5, and Rc1 at some point. it's getting better... or it seems so
+[05:31:59] Parmon: (21.Bf4) unfortunately i'm getting low on time, and i need to switch to the mode of not calculating things as carefully as i can
+[05:42:53] Parmon: (25.Nc5) i wasn't very happy giving away my bishop for that knight that used to be so bad, but i guess it took so much time for him...
+[05:43:08] Parmon: that it allowed me to develop my pieces
+[05:43:39] Parmon: (26.Nd3) that looks like a dream position, if not for a king in the center
+[05:45:10] ttsgosadow: That's a harsh 'if' :'D
+[05:45:56] Parmon: (27.Kc2) seems like the last chance to evacuate - at least without trading a knight for black dark-squared bishop
+[05:48:28] Parmon: (29.Rxc1) ...e5 is actually possible now? Bxd7 Nxd7
+[05:49:13] Parmon: ...e5 30.dxe5 is probably better, ...Bxe5 31.Nxe5
+[05:55:49] Parmon: (31.Bg4) ok, things seem to have stabilized, i don't see counterplay for black, but i'm low on time and not *entirely* sure how to win it
+[05:56:04] Parmon: for now i want to play h4
+[06:19:39] Parmon: (36.Nde5) i didn't want to trade queens, but didn't have time to find a cleaner way. the endgame is probably good for me still
+[06:31:04] Parmon: (42.h6) now my queen heads to g7
