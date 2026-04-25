@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/2pelk9F0
+White     : regrettablebeet
+Black     : pvgibson
+Time      : 45+45
+Captured  : 2026-04-25 21:10:40 UTC
+Game ended : 2026-04-25 19:50:35 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[17:04:27] glbert: go regrettablebeet!
+[17:27:47] glbert: wonder why 7.Bd3 and then 10.Be2 instead of back to d3.
+[17:37:56] cham: go beet!
+[17:38:57] glbert: with 13.Rc1 they are finally out of the lichess data base.
+[17:39:12] glbert: out of master db after 9.Nx.
+[18:31:57] nyanners: yea Bd3 back for sure. but Be2 is clearly aimed against Bg4
+[18:32:58] nyanners: think white had a few options, could Be2 then, or g4, or just roll with gxf3
+[18:34:14] nyanners: Qb3 blocks the minority attack but its a tricky position because the bishop on f5 didnt let white put a rook on b1 anyway
+[18:34:14] nyanners: so thats probably fine
+[18:35:00] nyanners: Qa3 was very nice
+[18:40:04] glbert: never sure how smart it is to exchange a N for a B in an endgame like this.
+[18:40:50] glbert: now i made it sound like i think it's not smart. but i really never know.
+[18:41:21] glbert: on the one hand, B has more range. on the other hand, seems so easy to put everything on dark squares.
+[18:43:22] nyanners: b has no squares so you just dont do it
+[18:43:22] nyanners: very professional opinion
+[18:43:38] glbert: makes sense, yes.
+[18:43:38] nyanners: when the bishop gets a square then you consider
+[18:52:45] nyanners: black kinda sorta taking the upper hand
+[18:53:01] nyanners: nothing was ever happening on the queenside with Nd6 in but black had to be sure
+[18:54:01] nyanners: yea white needs to give that up
+[18:54:17] nyanners: i even wonder if the rook could get trapped with 31..b5
+[18:55:18] glbert: white probably hoping that black does something random, so they can play Bx. not sure that works even if black plays something random indeed
+[18:56:03] glbert: not sure what the Rs do there otherwise.
+[18:56:49] nyanners: probably just a bit of a lack of ideas
+[18:57:19] nyanners: but yea probably should regroup towards the centre or kside
+[19:12:48] glbert: hmmm.
+[19:21:10] nyanners: Nb5 absolute godsend for white
+[19:21:10] nyanners: suddenly the entire position makes sense
+[19:40:42] glbert: are they queening at the same time?
+[19:41:27] glbert: but then white's king is a thousand moves away from the action.
+[19:42:13] glbert: maybe something like Ke6? so complicated.
+[19:44:45] jfiras: (55.Kxd5) interesting position
+[19:48:18] jfiras: (57...f5) maybe the queening option was better for white
+[19:48:33] glbert: yeah, that has to be lost for white now.
+[19:49:04] nyanners: yea dead
+[19:49:50] nyanners: most principled to me seemed to be 47 a3 (preparing b3 a4). not 47 b3 because then black plays b4
+[19:50:20] glbert: good game.
+[19:50:35] glbert: yes, 47.Ke5 was just a wasted move.
+[19:50:35] nyanners: dxc5 starts to get weird
+[19:50:35] nyanners: gg
+[19:50:35] jfiras: gg !
+[19:51:36] regrettablebeet: I really messed up the endgame huh
