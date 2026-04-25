@@ -1,0 +1,152 @@
+Lichess game chat log
+Game      : https://lichess.org/Usc2ZgWP
+White     : mixxanber
+Black     : ow4121
+Time      : 45+45
+Captured  : 2026-04-25 16:31:38 UTC
+Game ended : 2026-04-25 15:11:33 UTC
+Messages  : 142
+────────────────────────────────────────────────────────────
+
+[13:09:32] Le_Merovingien: Ow ow ow
+[13:11:49] mixxanber: my experience with sicilians is that its not worth the time trying to navigate the opening
+[13:12:04] mixxanber: instead i just get to a bad position quickly, and then look for tricks
+[13:15:07] mixxanber: if g4, then Nxd4 e5 is an issue, maybe... although potentially also fine since I get d5
+[13:15:07] mixxanber: shit im calculating
+[13:15:52] NameGoesInHere: (9...Qc7) go ow4121!
+[13:16:08] NameGoesInHere: (10.Kb1) looks like another sharp one already
+[13:18:25] mixxanber: 10. Bxb5 doesn't look correct, but I do find these tricky to calculate
+[13:18:40] mixxanber: is a3 a forbidden move in opposite sides castling? seems simplest
+[13:19:25] mixxanber: b4 Na4 also looks like an okay square for the knight, even though I hate playing b3 in general
+[13:21:27] Shurbz: Ow! Put the hurt on them
+[13:21:58] mixxanber: Bb7 is one of those moves I see with a bit of relief
+[13:22:13] mixxanber: because no caveman b-file stuf for the moment
+[13:22:13] NameGoesInHere: (11...Bb7) I was wondering about ...Rb8 to prepare ...b4 (or even ...b4 directly), but ...Bb7 can't be a bad move
+[13:22:28] mixxanber: 11. g4 looks better now
+[13:22:58] Shurbz: Namego, does bb7 get in the way of an attack on the queen side?
+[13:24:30] NameGoesInHere: (12...Rc8) yeah, that's definitely why I would prefer ...Rb8, but you could try a slower approach, try and use the a/c files
+[13:27:48] mixxanber: ncxb4 still doesn't seem to work
+[13:27:48] NameGoesInHere: (13...Nd7) there's also maybe some ideas against the h1-rook on the diagonal, but white will probably play Rg1 soon and get out of it
+[13:27:48] mixxanber: b5*
+[13:28:18] mixxanber: ncxb5 axb5 nxb5 qb8
+[13:29:04] mixxanber: I guess I just play f4 and see how black wants to fight
+[13:29:04] Shurbz: I was wondering if Nxe4 just worked tactically
+[13:29:49] mixxanber: c4 in general seems like black will converge on
+[13:32:06] mixxanber: still haven't really caulcated anything, just playing moves until things get more concrete
+[13:32:06] mixxanber: although amazing still have burned a quarter of my time
+[13:32:37] NameGoesInHere: (14.f4) ooh shurbz I think you're right, 13...Nxd4 Nxd4 Nxd4 and if you try Qxd4 to defend the bishop there's Qxc2+
+[13:33:07] NameGoesInHere: (14.f4) by which I mean 13...Nxe4 14.Nxe4 Nxd4 15.Qxd4
+[13:33:38] mixxanber: need to stay cognizant of d5 pawn sacs, and then Bxa3 stuff
+[13:36:55] mixxanber: this approach of making me calculate Nxb5 every single move is very strong
+[13:38:11] mixxanber: nxb5 axb5 nxb5 qd8 looks fine for black
+[13:40:29] mixxanber: just getting of this diagonal
+[13:42:15] mixxanber: unacceptable knight
+[13:46:18] mixxanber: calculating f5 e5 here, potentailly my e4 pawn hangs but may be worth the attack
+[13:47:19] mixxanber: f5 e5 nde2 bxe4 nxe4 qxe4 nc3 looks okay to me for white
+[13:47:35] mixxanber: I'm getting the d5 square
+[13:54:41] Le_Merovingien: Umph. Looks good for White
+[13:55:42] Le_Merovingien: Qc6 Nd5 f6  Nxe7 Kxe7 gxf6 gxf6 Bh6 or something like that
+[13:56:58] mixxanber: this position did materialize, and I think my evaluation is correct that white has compensation for the pawn
+[13:57:28] NameGoesInHere: (21.Nd5) yeah that line up to gxf6 looks pretty forced
+[13:58:29] NameGoesInHere: (21.Nd5) still not entirely clear how to continue there as white after e.g. Bh6 Rg8, black will eventually get counterplay with ...a5/...b4
+[14:00:15] mixxanber: f6 looks incorrect to me
+[14:01:01] NameGoesInHere: (21...f6) i didn't see the alternative to ...f6, you really can't allow white to play f6 and at least the centre stays closed
+[14:01:47] Le_Merovingien: I don't think Black's counterplay is fast enough with perfect play
+[14:02:02] Le_Merovingien: But I don't see what White does either
+[14:02:17] Le_Merovingien: Should be winning for White nonetheless
+[14:02:17] NameGoesInHere: (21...f6) yeah that was my feeling, white surely has something but I don't quite see what it is
+[14:02:48] Le_Merovingien: Bh6 Rg1 Rg7 Rdg1?
+[14:05:50] mixxanber: I didn't really know what to do, so I just held the position
+[14:06:06] mixxanber: h4 feels useful even if Rf8 and the king tries to wriggle to kingside
+[14:06:21] mixxanber: just trying to force black to make some commital decisions
+[14:06:51] Le_Merovingien: Wow, White does not realize the advantage. That is fun :)
+[14:09:39] mixxanber: queen looks like it may want to live on b2
+[14:11:10] mixxanber: bxf6 bxf6 qb2 looks strong
+[14:11:40] mixxanber: gfx6**
+[14:12:11] Le_Merovingien: Oh la la... notation fiasco
+[14:12:26] Le_Merovingien: White is excited or depressed.
+[14:12:26] mixxanber: I didn't calculate ne4, but f7 i'd imagine is strong
+[14:13:27] mixxanber: if Bxf6 i don't know whether I should just take on d6
+[14:14:28] Le_Merovingien: Qg2... horror
+[14:14:58] mixxanber: Qb2 first might be really strong as well
+[14:15:29] mixxanber: sorry g2, i absolutely cannot do coordinates when castling queenside
+[14:15:59] mixxanber: Qg2 Nxf6 Nxe7
+[14:17:31] mixxanber: maybe miscalculating, but this feels very strong
+[14:19:02] mixxanber: wow I missed Qxg2
+[14:19:17] mixxanber: shouold have played f7...
+[14:20:49] mixxanber: okay maybe lets think about trading everything
+[14:21:50] NameGoesInHere: (24...Nxf6) Qxg7 is still very strong no?
+[14:22:35] Le_Merovingien: Qxg7 is game over, no?
+[14:22:35] NameGoesInHere: (24...Nxf6) ...Qxc2+ is just one move, no follow up for black
+[14:23:51] Le_Merovingien: What is the defense against Qxg7?
+[14:23:51] NameGoesInHere: (24...Nxf6) maybe not quite game over, Qxg7 black can try Nxd5? (maybe include Qxc2+ or maybe not)
+[14:24:22] Le_Merovingien: The h8 Rook falls...
+[14:24:37] mixxanber: Qxg7 directly is very tricky to calculate
+[14:24:37] NameGoesInHere: (24...Nxf6) yeah but you get 2 pawns + knight for the rook
+[14:24:52] Le_Merovingien: OK... Nxe7 first?
+[14:25:07] Le_Merovingien: Everything falls in White, no?@
+[14:25:23] NameGoesInHere: (24...Nxf6) Nxe7 the queen is hanging
+[14:25:23] Le_Merovingien: Oops.
+[14:25:38] Le_Merovingien: Qxg7, here we go
+[14:25:53] mixxanber: my instinct is that this doesn't work, but I can't really see the board this mroning
+[14:26:39] Le_Merovingien: Also, threats of f6
+[14:27:09] NameGoesInHere: (25.Qxg7) hmmm Qxc2+ Ka1 Nxd5 Qxh8 Kd7 and black is attacking the queen and the bishop?
+[14:27:55] NameGoesInHere: (25.Qxg7) maybe white goes Qxh7 Nxe3 f6?
+[14:29:11] Le_Merovingien: f6 is dangerosus
+[14:30:27] Shurbz: f6 qxc2+ ka1 bxf6
+[14:31:28] mixxanber: truly no idea whats going on
+[14:31:28] mixxanber: my instinct black is better
+[14:31:43] mixxanber: but maybe not that clear
+[14:32:29] Shurbz: I think we have to take that rook but idk
+[14:32:59] mixxanber: Qxc2 Ka1 Rf8 I think I'm okay with
+[14:32:59] NameGoesInHere: (26.Rxd5) I was trying to calculate Rf8 (prob including Qxc2+) but idk what's happenign there
+[14:34:00] Le_Merovingien: Careful calculation is needed. One must be winning
+[14:34:15] mixxanber: wow Bf6 is the idea huh
+[14:34:30] NameGoesInHere: (27.Ka1) like Ka1 f6 I think Bxf6 is possible?
+[14:34:46] NameGoesInHere: (27...Rf8) (Ka1 Rf8 f6 I mean)
+[14:35:01] Le_Merovingien: I stand my word: f6 is strong
+[14:35:01] NameGoesInHere: (27...Rf8) oh no I forget the bishop covers c1
+[14:35:16] mixxanber: got lucky, does Rc1 win here?
+[14:35:47] Le_Merovingien: Gimme that board 1, Namego :P
+[14:37:48] mixxanber: can't see the board at all haha
+[14:38:34] NameGoesInHere: (29...Qxc8) maybe 28.f6 black could go ...Rf7?
+[14:39:04] NameGoesInHere: (29...Qxc8) and some sort of bizzare repetition
+[14:39:35] NameGoesInHere: (29...Qxc8) ah no 28.f6 Rf7 29.Qg8+ Rg8 30.f7+!
+[14:41:21] mixxanber: missing everyting this game, but I think still tricky for black to consolidate
+[14:46:56] Le_Merovingien: Ahem... we winning?
+[14:49:28] NameGoesInHere: (35.Rc6) looks very good, the d-pawn looks like it's getting down the board quickly
+[14:53:02] Le_Merovingien: h you mean?
+[14:53:17] Shurbz: Oh nice b5 now
+[14:53:32] Shurbz: b4*
+[14:54:02] NameGoesInHere: (37...Rf6) I was thinking 35...d5 36.Ra3 d4 but this looks fine too
+[14:54:02] Le_Merovingien: Oh, Rf6 was good
+[14:54:33] NameGoesInHere: (37...Rf6) I meant 35...d5 36.Rxa6 d4
+[14:56:19] mixxanber: I think Rd8 doesn't work
+[14:56:35] mixxanber: but assuming the pawn down same color bishop endgame is busted?
+[14:57:20] NameGoesInHere: (38...Ke7) yeah if you trade rooks there white's bishop is in a terrible place to stop the h-pawn
+[14:57:51] mixxanber: but this looks a little weird for black, no?
+[14:57:51] mixxanber: lots of pieces on dark squares
+[14:59:07] NameGoesInHere: (40...Kf7) oh no
+[14:59:22] Le_Merovingien: Draw...
+[15:01:09] mixxanber: I don't know whether the king or the rook should try and stop the pawns
+[15:01:54] mixxanber: I guess lets just run this b pawn and see what happens
+[15:03:10] mixxanber: lets bring em both over so we don't lose lol
+[15:03:10] ExirK: oooof missing Bd8+ with 30+ mins on the clock was bad
+[15:05:12] Le_Merovingien: @ExirK : You don't belittle my player! Grr
+[15:05:27] ExirK: sorry haha I can be blunt lol
+[15:05:27] ExirK: also about my own games
+[15:05:27] Le_Merovingien: ;)
+[15:05:43] Le_Merovingien: I agree, though...
+[15:05:43] Le_Merovingien: But it happens to all
+[15:05:58] ExirK: although without missing Bd8+ I also wasn't sure how else black can stop the loss of a pawn
+[15:06:43] ExirK: also... I'm wondering maybe 47. b4 was the chance/timing for white to push the pawn.... at that moment the two pawns and the bishop are all
+[15:06:59] mixxanber: rxe5 i have a draw i guess
+[15:06:59] ExirK: on the same rank and loose
+[15:09:16] mixxanber: this is wrong color bishop but i don't know whether my extra pawn makes a diff
+[15:09:31] Le_Merovingien: Draw
+[15:09:46] Shurbz: Isn’t this a move too late for white?
+[15:10:47] Shurbz: I guess king in the corner etc
+[15:10:47] NameGoesInHere: (53.Kg1) it's drawn, Bxe5 Kg1 h2 Kh1 and just push the b-pawn until you lose it, then go Ka1-b2 forever
+[15:11:02] NameGoesInHere: (53.Kg1) Kh1-Kg2 forever
+[15:11:32] Shurbz: ggs
+[15:15:21] mixxanber: haha after Qxg7 I thought i had messed things up horribly
