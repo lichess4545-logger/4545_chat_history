@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/gQiH0im5
+White     : thehippocrates24
+Black     : psymar2
+Time      : 30+30
+Captured  : 2026-04-26 20:14:37 UTC
+Game ended : 2026-04-26 18:54:33 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[18:05:06] PsyMar2: [7...Nb6] a rare case where I prepare a line and my opponent seems to be following it... *and* they seem to be out of prep first
+[18:54:18] PsyMar2: I have no idea what the Karpov just happened to me
+[18:54:48] PsyMar2: oh god I think I forgot my prep
+[18:55:03] PsyMar2: 8...e6 was the line, yeah.  8...e6 9.f3 Bb4
+[18:55:34] PsyMar2: I was expecting 8.Ne5 and there I play a5
+[18:55:34] thehippocrates24: Annoyingly I have 7...Nb6 in a different set of prep, but didn't look at it before this game, I think you've mostly played a5 and e6 before?
+[18:56:04] PsyMar2: a5 here is me getting the lines confused
+[18:56:04] thehippocrates24: Haha very fair
+[18:56:04] PsyMar2: I needed to play e6, a5 is the line if you go back to e5 with the knight
+[18:56:50] PsyMar2: apparently you didn't punish a5 though
+[18:56:50] PsyMar2: the punish is 9.Qb3
+[18:57:35] thehippocrates24: Oh right because if you take the knight I take back with the bishop and I'm forking f7 and b7
+[18:57:35] thehippocrates24: That makes sense
+[18:57:35] PsyMar2: I didn't actually look at why lol
+[18:57:51] thehippocrates24: I'm just assuming haha
+[18:58:06] PsyMar2: yeah it looks like it
+[18:58:06] thehippocrates24: f3 was basically me trying to get back into something that resembled my prep
+[18:58:21] PsyMar2: computer line is 9.Qb3 Nxc4 10.Bxc4 e6 11.Qxb7
+[18:58:21] thehippocrates24: Wasn't looking for tactical lines the way I should have at that point
+[18:58:36] PsyMar2: I was really regretting taking the pawn with 15.Qxd4+
+[18:58:51] thehippocrates24: Yeah I have no idea if that sacrifice was sound or not by me
+[18:59:07] thehippocrates24: Just felt like I got all of the lines once my rook swung over, you had so few moves
+[18:59:22] PsyMar2: computer thinks it isn't, but a few moves later the computer is sugesting you play h5 and I play Kh8
+[18:59:52] PsyMar2: er h4 not h5
+[18:59:52] PsyMar2: I think I needed to play Bb4 way earlier than I did
+[19:00:07] thehippocrates24: Yeah it's usually called for in these lines
+[19:00:38] PsyMar2: the entire reason I played e5 was so If I played Qc7 you couldn't hit it with Bg3... I never considered Bb6, that was a shot
+[19:00:53] thehippocrates24: As you said e6 then Bb5, instead of a5
+[19:00:53] thehippocrates24: Yeah I was very happy with Bb6
+[19:00:53] thehippocrates24: At that point you're just so cramped
+[19:00:53] PsyMar2: honestly I'm not sure taking the pawn was a mistake but I was regretting it anyway because it made it harder for me to resign
+[19:01:08] thehippocrates24: Hahah I get what you mean
+[19:01:23] PsyMar2: but really I could resign after Bb6
+[19:01:23] thehippocrates24: Eh, I've bungled better positions haha
+[19:01:39] PsyMar2: I mean I've won from worse positions
+[19:01:39] PsyMar2: but factoring in my mood and my headache...
+[19:01:54] thehippocrates24: Entirely fair, been there myself for sure
+[19:02:09] PsyMar2: just really wanted the game to be over but couldn't justify resigning up a pawn
+[19:02:24] thehippocrates24: Also checking my files it looks like I actually don't have Nb6 in any of my prep, so that's definitely an oversight from me
+[19:02:24] PsyMar2: apparently the game was still somewhat close until Rd2, that was another blunder
+[19:03:10] PsyMar2: like it's +1.5 if I play 25...Nf4 and there's still plenty of chance for you to blunder
+[19:03:10] PsyMar2: but after Rd2 I just lose everything
+[19:03:10] thehippocrates24: Yeah Nf4 is what I was expecting
+[19:03:25] PsyMar2: so in a way I'm glad I did that it meant I didn't ahve to suffer any more
+[19:03:40] thehippocrates24: Since otherwise I'm getting ready to play g4, h5, trade rooks and take on f7
+[19:03:40] PsyMar2: the whole time I was just thinking "what kind of Karpov is this"
+[19:03:56] thehippocrates24: Hahah
+[19:03:56] PsyMar2: I had *so* no moves to play
+[19:04:26] PsyMar2: honestly I think I need to change up my openings, this slav line just does not suit my style
+[19:04:41] PsyMar2: I don't know if I need to ditch this line, or just the slav in general, it so often goes so poorly...
+[19:04:56] thehippocrates24: I've been similarly conflicted about my slav recently, I play it as black too
+[19:05:12] PsyMar2: the problem is I don't know what else i would play against d4 d5 c4
+[19:05:12] thehippocrates24: I play the Chebanenko, some lines in it I really like but then others just get super cramped
+[19:05:12] PsyMar2: and I do love my d4 d5 (notc4) openings
+[19:05:42] thehippocrates24: I'm in the exact same boat with black, yep
+[19:06:12] thehippocrates24: I've thought about switching to 1...Nf6 and then playing a Nimzo against c4
+[19:06:28] PsyMar2: maybe I just switch to 2...c5
+[19:06:28] thehippocrates24: And then most other lines you can just transpose back by playing d5 at some point
+[19:06:28] PsyMar2: it's what I play against every other second move!
+[19:06:43] PsyMar2: and the computer seems to think it's not even that awful, only +0.5
+[19:06:58] thehippocrates24: I hate facing the Austrian tbh
+[19:06:58] thehippocrates24: So from that perspective probably not a bad choice
+[19:07:13] PsyMar2: sounds good then, I love playing lines other people hate to face
+[19:07:13] PsyMar2: see also the schliemann ruy
+[19:07:28] PsyMar2: (1.e4 e5 2.Nf3 Nc6 3.Bb5 f5.  has served me VERY well)
+[19:07:44] PsyMar2: and I like games where I'm not cramped
+[19:08:14] PsyMar2: anything where it's my opponent who has to walk the tightrope to keep the evaluation
+[19:08:29] PsyMar2: which this slav line is... not that
+[19:10:00] thehippocrates24: Yeah you have to accept a cramped position in the slav from time to time
+[19:11:01] thehippocrates24: Whereas as white I'm actually pretty happy to see this slav line these days
+[19:11:16] thehippocrates24: Having prepared it a bit now, I think white definitely gets the more dynamic play
+[19:11:32] thehippocrates24: Also that ruy sounds wild, is that actually somewhat sound?
+[19:14:19] thehippocrates24: Also not surprised Rd8 from me was actually an inaccuracy, felt like I was cashing in the tension for too little gains
