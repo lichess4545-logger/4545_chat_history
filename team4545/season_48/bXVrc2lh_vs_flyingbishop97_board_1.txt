@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/vRU4gRvo
+White     : bxvrc2lh
+Black     : flyingbishop97
+Time      : 45+45
+Captured  : 2026-04-26 00:14:59 UTC
+Game ended : 2026-04-25 22:54:55 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[21:40:06] YuriyVint: По ходу ш3 помилка
+[21:45:56] Inter-temporal: (11) (11) (11.Ne4) Giuoco Pianississimo
+[21:47:27] Inter-temporal: (11) (11) (11.Ne4) or Giuoco fortissimo
+[21:47:57] nyanners: depends on the result
+[21:48:58] Inter-temporal: (11) (11.Ne4) what's the strategy. they both aim at d4?
+[21:49:29] nyanners: idk takes bishop takes bishop probably
+[21:50:30] nyanners: i only recall Ne4 isnt the main move
+[21:50:45] Inter-temporal: (11.Ne4) if black grabs the lsb, then f5 is easier?
+[21:51:31] nyanners: perhaps. some weird lines
+[21:54:18] nyanners: 11..nxc4 nxc5 nd6 g4 bg6 nxe5
+[21:56:20] Inter-temporal: (12) (12...Qd7) interesting. black declines the trades
+[21:56:50] AnXiou: (13) Nxe5 possible?
+[21:57:21] nyanners: not sure
+[21:57:51] Inter-temporal: (13) (13.Ng3) maybe d3 hangs in return
+[21:57:51] nyanners: like, black takes d1 and b3, white takes d7 and f8, but its black to move and the knight is trapped
+[21:58:21] nyanners: white cant take b6 because axb6 and theres a pin on the a-file
+[21:58:52] Inter-temporal: (13) (13) (13.Ng3) i wuz considering 13.Nxe5 Nxe5 14.Qxh5 Nxd3
+[21:59:22] nyanners: highly likely to be good for white
+[21:59:22] Feet_Barbie: (13.Ng3) who are we rooting for?
+[21:59:22] nyanners: not only black didnt win any material but the knight is loose
+[21:59:38] Inter-temporal: (13) (13.Ng3) we're rooting for u
+[22:01:09] Inter-temporal: (13) (13...Bg6) maybe now Nxe5
+[22:01:39] nyanners: yea white playing good sensible chess
+[22:01:39] nyanners: i think the pawn is just free
+[22:01:54] nyanners: loose piece on e7
+[22:02:25] Inter-temporal: (14) (14...Nxe5) oooh. both Bs for a rook
+[22:02:25] Inter-temporal: (15) (15.Rxe5) if now Bxd3
+[22:02:40] Feet_Barbie: (15.Rxe5) bf6 qxd3 nh5 is cook
+[22:02:55] Feet_Barbie: (15.Rxe5) cool
+[22:03:11] nyanners: id think just re3
+[22:03:41] nyanners: but okay its not like super trivial, like d4 ..c5
+[22:03:56] Inter-temporal: (15) (15) (15.Rxe5) sooo. no ...Bxd3. maybe ...Bd6
+[22:04:27] Feet_Barbie: (15...Rfe8) also re3 nd5
+[22:04:42] nyanners: nd5 is only good as rerouting
+[22:04:42] Inter-temporal: (15) (15...Rfe8) white seemed unattached to his lsb. lol
+[22:04:57] nyanners: blocking the d-file should be good for white
+[22:05:28] Inter-temporal: (15) (15...Rfe8) ...Bd6 is my coffee-house candidate.
+[22:05:58] nyanners: i feel anytime you block the d-file white is just a pawn up
+[22:05:58] nyanners: which, well, might be the point
+[22:06:13] nyanners: i liked ..bf6 ..rad8 tho
+[22:06:13] Inter-temporal: (15) (15...Rfe8) just move my pieces to checking distances. lol
+[22:09:01] Inter-temporal: (16) (16.d4) yeh, why not
+[22:09:46] nyanners: d4 enables c5 maybe
+[22:09:46] nyanners: then again, maybe not
+[22:11:02] nyanners: like okay the queen is protected but.. 16..c5 dx qx bx Bxc5 Rxc5 Re1+ is something that wont happen
+[22:11:02] Inter-temporal: (16) (16.d4) Bd6
+[22:12:18] Inter-temporal: (17) (17.Re3) still Re3 though. how about ...Re7
+[22:12:18] nyanners: Bd6 has to be the right square even if it means black has completely given up on the d-file
+[22:12:34] nyanners: THAT is the point of contention
+[22:13:04] nyanners: like well the normal course of the game is youre just setting up for some big mass trades and youre a pawn down..
+[22:13:04] Inter-temporal: (17) (17.Re3) maybe black needs ...c6 to aim at d5
+[22:14:05] Inter-temporal: (17) (17.Re3) then drop the dsb back to c7--true coffee house style
+[22:15:06] Inter-temporal: (17) (17.Re3) ...Nd5-f4, sac, sac, mate
+[22:15:36] Inter-temporal: (17) (17.Re3) maybe just one sac. lol don't want to be reckless
+[22:15:51] nyanners: white's position is too good
+[22:16:07] Inter-temporal: (17) (17.Re3) yeh. reality sucks
+[22:16:07] nyanners: too real
+[22:22:42] Inter-temporal: (18) (18...Rad8) how would a gm complicate the position.
+[22:22:42] Inter-temporal: (18) (18...Rad8)  or would they just go for a walk and conclude they gotta defend 'till the end
+[22:23:28] nyanners: umm thats a tough one. like, probably you play normal and consider your main out to be drawable pawn down endings
+[22:23:43] Inter-temporal: (18) (18...Rad8) rough.
+[22:23:59] nyanners: in terms of chaotic options there could be timely f5
+[22:24:14] nyanners: but Kh8 is a bit of a commitment
+[22:24:29] nyanners: and Kf8.. goes to f8
+[22:24:29] Inter-temporal: (19) (19.Qf3) yeh, black had that lsb earlier, and his rook was still on f8
+[22:24:59] Inter-temporal: (19) (19.Qf3) but avoided the bishop trade
+[22:25:15] Inter-temporal: (19) (19.Qf3) maybe regrettable now
+[22:25:30] nyanners: the game continuation def makes a good case for 11..Nxc4
+[22:26:15] Inter-temporal: (19) (19.Qf3) i'm an expert at inter-temporal hindsight bias
+[22:26:31] nyanners: good..
+[22:27:16] nyanners: c5 could be very good or very bad. i like it
+[22:27:32] Inter-temporal: (19) (19...c5) yeh. mix it up
+[22:27:47] nyanners: "very good" as far as options go in this position, not equalizing or anything of course
+[22:28:17] Inter-temporal: (20) (20.dxc5) white says, "nah, let's keep it simple"
+[22:28:48] nyanners: i mean, black got the files.. but no entry squares. worthless??
+[22:29:33] Inter-temporal: (21) (21.Rxe8+) e1 is open atm
+[22:29:33] nyanners: yea white will probably just play bishop wherever
+[22:31:20] Inter-temporal: (22) (22.Bf4) d3 is a square, but how to get there... nuthin
+[22:36:09] Inter-temporal: (22) (22.Bf4) keeping the pressure on a4 seems good. likely need ...h6 , but it undefends the lsb
+[22:37:40] Inter-temporal: (22) (22.Bf4) seems like only black's R can move, but it needs to stay on the e-file to cover e4. lol is this zugzwang
+[22:38:26] Inter-temporal: (22) (22.Bf4) maybe the dsb can move
+[22:39:12] Inter-temporal: (22) (22...h6) yeh. ...Bf8 would be sad
+[22:55:41] Inter-temporal: gg
+[22:57:27] bXVrc2lh: nice game
+[22:57:58] flyingbishop97: whatever i did was clearly wrong
+[22:58:13] flyingbishop97: just lost a pawn for nothing
+[22:59:14] flyingbishop97: nice clean conversion tho
+[22:59:29] bXVrc2lh: hmmm I was almost always better according to machine... but certainly didn't feel like it before Bf4
+[22:59:59] flyingbishop97: yeah earlier on I thought there was something
+[22:59:59] flyingbishop97: but I have no real targets
+[23:00:30] bXVrc2lh: I was worried you would play Qc6
+[23:00:30] bXVrc2lh: to exchange Queens and open B file
+[23:01:15] flyingbishop97: didn't even consider that
