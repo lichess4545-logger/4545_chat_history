@@ -1,11 +1,51 @@
 Lichess game chat log
-Game      : https://lichess.org/ynvDtIEu
+Game      : https://lichess.org/X8ADV8N4
 White     : sterpfi
 Black     : rajjsinghh
 Time      : 45+45
-Captured  : 2026-04-24 18:28:02 UTC
-Game ended : 2026-04-24 17:07:58 UTC
-Messages  : 0
+Captured  : 2026-04-26 22:54:58 UTC
+Game ended : 2026-04-26 21:34:54 UTC
+Messages  : 41
 ────────────────────────────────────────────────────────────
 
-(no chat messages were recorded)
+[19:53:42] RajjSinghh: okay 2. d4 makes me considerably happier
+[19:57:15] RajjSinghh: I don't remember my recent results in the Jobava London but I don't think they're good
+[19:57:30] ChessisHard101: Better luck this time Rajj!
+[19:57:45] RajjSinghh: my c8 bishop is sad, but also not a target for some weird g4 ideas
+[19:58:46] RajjSinghh: I'm less tilted after the first game so maybe it'll be okay, but this is must win
+[20:01:33] RajjSinghh: I suppose that's the tradeoff of playing e6, that g4 is playable, but it doesn't do anything
+[20:05:37] RajjSinghh: I suppose we can argue that e4 is now easier to play, but it's not playable right now
+[20:05:37] RajjSinghh: d4 could be a weakness, etc
+[20:10:56] RajjSinghh: i wonder if his time usage is psychological or if he's just slow. That should have been in my prep
+[20:11:12] RajjSinghh: but I also didn't expect a Jobava London so there's that
+[20:12:13] RajjSinghh: You really can live on the increment in this league so his time usage isn't a problem for him
+[20:15:15] RajjSinghh: I'm a bit nervous that I'm playing for endgame prospects against a guy with an endgame course
+[20:17:47] RajjSinghh: ah, that's the idea. Nd6+ Bxd6 Bxd6 is a problem
+[20:31:29] RajjSinghh: Nd6 is basically unstoppable because Nb6 c5 hangs. now I get Qb6 at least
+[20:32:00] RajjSinghh: like Qb6 d5 ed Qxd5 is less problematic
+[20:39:21] RajjSinghh: Nxd4 Qxd4 e5? Bxe5 Qa5+ i really can't see what i'm missing
+[20:41:38] RajjSinghh: ah, Qe3 exf4?? Nd6 mate
+[20:45:26] RajjSinghh: so it's not a piece but I also would say I've solved a lot of opening problems
+[20:51:16] RajjSinghh: is he thinking qbout Rxd7  and Nf6+ with Rg1 and bad stuff?
+[20:54:19] RajjSinghh: he gets Rg1 but at least I can keep an eye on f6
+[20:56:21] RajjSinghh: if i can get Be6 or Bf5 I might be okay, but i also have a bad feeling about my position
+[20:59:39] RajjSinghh: so my question is whether the bishop on c4 is good or a target for b5
+[21:00:09] RajjSinghh: and i can still play Bf8 and Rc8 so this could be worse
+[21:03:12] Mennonite: I was curious due to the rating disparity, but it does look like black is playing up a board
+[21:03:27] Mennonite: Obviously getting to play against an FM is a great experience
+[21:03:42] RajjSinghh: now that I think about it maybe the bishop is very well placed on c4
+[21:09:48] RajjSinghh: it's getting difficult to put anything anywhere
+[21:11:19] RajjSinghh: I should be okay if I'm not already lost though
+[21:13:36] RajjSinghh: wait did I just blunder Bc7
+[21:21:28] RajjSinghh: do i really have to play Rg8? even then Bxg8 Rxg8 Rd8 and I have all the same problems
+[21:22:44] RajjSinghh: when did this get so desperate?
+[21:27:48] RajjSinghh: well ok Bc7 Qxc7 defends mate, so i just burned too long on what should have been an easy decision
+[21:28:19] RajjSinghh: but I have more faith in my position so there's that
+[21:31:21] RajjSinghh: it's hard to even be mad about that one
+[21:31:21] nyanners: seems like game
+[21:31:52] MilsBees: yeah that's nasty
+[21:34:09] guitarspider: (26.Qxd8+) Bb8 is a great move
+[21:34:54] nyanners: gg
+[21:34:54] guitarspider: gg
+[21:36:41] sterpfi: I hoped for some Qxg7+ fb Be5#, but Bb8 was also pretty
+[21:38:12] sterpfi: going to sleep now... bye!
