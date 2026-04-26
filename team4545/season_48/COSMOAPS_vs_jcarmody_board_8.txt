@@ -1,0 +1,127 @@
+Lichess game chat log
+Game      : https://lichess.org/RMvX39ZX
+White     : cosmoaps
+Black     : jcarmody
+Time      : 45+45
+Captured  : 2026-04-26 13:00:35 UTC
+Game ended : 2026-04-26 11:40:30 UTC
+Messages  : 117
+────────────────────────────────────────────────────────────
+
+[10:07:40] jcarmody: (7.Re1) here's where I think of playing e5, but maybe c6 is better? c5?
+[10:08:57] jcarmody: do i care that the R is on e2?
+[10:11:44] nightsub: Go Cosmo!
+[10:12:14] jcarmody: (9.Bc4) he may want to play Ng5 so my first thought is h6
+[10:14:31] Tranzoo: go jcarmody! go chess!
+[10:15:02] Zubenelgenubi: go jc!
+[10:16:03] Silkthewanderer: Go jc
+[10:16:33] jcarmody: (10.b3) now c6-b5
+[10:20:37] nyanners: like how black is thinking
+[10:20:52] nyanners: though 6..Nbd7 is a theoretical inaccuracy due to e5
+[10:21:07] nyanners: 7..dx dx ng4 e6 typical
+[10:22:23] nyanners: white playing with great energy but 12..b5 comes first
+[10:22:54] jcarmody: (12.Nh4) he's looking to take g6! sneaky!
+[10:23:09] jcarmody: he's probably seen me think my f-pawn defends it...
+[10:24:40] jcarmody: c5 still works, right? the bishop has to move and Nxg6 doesn't help if bxB
+[10:24:55] nyanners: ooooohh thought black was going to get bluffed. nice
+[10:29:44] nyanners: a5 seems clean. playing b4 should be a better way to win the pawn than 13..Nxe4 (for Qxh4) which could lead to Nxe4 Qxh4 Nd6
+[10:31:31] omertil: Go Cosmo! Go chess! Sorry jc
+[10:32:01] nyanners: its looking good for jc so.. he can take a little heat rn
+[10:32:17] nyanners: i would like some drama in the game
+[10:32:32] omertil: Move 14, still 45 on the clock...
+[10:34:18] jcarmody: (14Bb2) I'm thinking b4 then Nxe4, attacking h4. I wonder if Nxe4 then QxN is better?
+[10:34:49] nyanners: b4 is definitely better. no doubt
+[10:35:34] nyanners: misplace the Nc3 and take e4 with tempo, instead of enabling Nxe4-Nd6
+[10:38:37] scrooge: go cosmo!
+[10:38:52] omertil: 16.Nxg6, 17.Bc4+?
+[10:39:07] omertil: Ou
+[10:39:38] jcarmody: (16.Bc4) blunder? QxN protects my N
+[10:40:54] nyanners: Nxg6 was worth a shot. hadnt seen that in advance
+[10:41:24] nyanners: maybe black could respond with Nxf2 at least
+[10:42:25] nyanners: i think white blundered but also i think you dont keep the piece after g3
+[10:42:25] nyanners: but Nxf2 is "thematic" in this scenario
+[10:42:25] scrooge: my thought as well
+[10:43:11] nyanners: see this in e4e5 openings sometimes
+[10:44:12] nyanners: or well, bullet ones, i might say :p
+[10:44:27] scrooge: (17) still openings :)
+[10:44:42] jcarmody: (17.g3) did I blunder back? Maybe give the N back with Nxg3? Qh5, offering to trade doesn't keep the N.
+[10:44:58] jcarmody: I think I'll take another pawn and lick my wounds
+[10:45:13] nyanners: its not that rare that a game goes 3..Nf6 4 O-O Nxe4 and then white runs into some variation of this
+[10:46:59] nyanners: nxg3 is fair
+[10:48:00] jcarmody: (18.fxN) I expected hx. Oh, well.
+[10:53:20] nyanners: umm did black forget c6
+[10:53:20] nyanners: seems like a bit of a big deal as it also hits g6
+[10:54:05] compact-hausdorff: (19...Rf8) let's go jc!
+[10:54:36] jcarmody: that's not good
+[10:54:51] nyanners: kinda like white's chances after qxg6 :o
+[10:55:06] nyanners: white has been playing with great energy and now the broken kingside gives some good potential
+[10:57:08] omertil: I mean, jc did notice g3 hanging last time around.
+[10:57:08] omertil: *g6
+[10:57:23] omertil: I gues not to be this time.
+[10:58:24] nyanners: i mean black couldnt do anything about it on 20. now he can..
+[10:58:54] nyanners: does this change anything? probably still can xg6
+[10:59:40] nyanners: feeling its escaped their radar now
+[11:01:11] nyanners: okay wait a moment. Qb5 threatens Bd4!?!?!?
+[11:02:12] nyanners: thats kinda insane
+[11:02:28] scrooge: (23) Bc5 is a nice move indeed
+[11:02:28] scrooge: (23) Bd4 :)
+[11:02:28] nyanners: white sees????? white is a god???
+[11:02:43] nyanners: love to see it
+[11:04:14] omertil: I was sure this is a mouseslip
+[11:04:29] nyanners: yes this is amazing
+[11:04:45] nyanners: :D
+[11:05:30] nyanners: trying to make some Ba6 Qxa5 line work but its some nonsense
+[11:05:45] nyanners: lets see what they do
+[11:06:31] nyanners: didnt find a save for black here
+[11:06:46] compact-hausdorff: Nb8 probably?
+[11:07:01] nyanners: yea but white has Qb6
+[11:07:01] jcarmody: (24.Qxa5) I think I've lost.
+[11:07:47] compact-hausdorff: Doesn't Qb6 run into Rb7, or Qb6 somewhere else
+[11:07:47] compact-hausdorff: Ah after B:
+[11:07:47] nyanners: yea
+[11:08:02] compact-hausdorff: Yeah makes sense
+[11:08:02] jcarmody: maybe not? R7a8, BxB, Qd6 double attack?
+[11:08:33] nyanners: theyre so good????
+[11:08:33] nyanners: love to see it :D
+[11:09:03] nyanners: genuine praise btw
+[11:09:03] compact-hausdorff: (25. B:a6) This game is definitely above my skill level, insane level of play
+[11:09:49] compact-hausdorff: (25...Qd6) Raa8 was amazing
+[11:10:04] nyanners: yess
+[11:10:04] omertil: Maybe White uses some of their time to figure this out...
+[11:10:19] omertil: 26.Bc5?
+[11:10:35] nyanners: messy
+[11:10:35] nyanners: i like it
+[11:11:51] nyanners: aw wrong piece :p
+[11:12:06] nyanners: probably forgot qxd4 is CHECK
+[11:12:36] omertil: Yeah I think this losees, as you lose both the dsb and the c5 Knight
+[11:12:52] nyanners: yess
+[11:12:52] compact-hausdorff: (26 q:d4+) yes jc!!!!
+[11:13:52] nyanners: i mean if it wasnt check white would be quite alright i think
+[11:15:24] nyanners: the bishop also hangs to add insult to injury
+[11:16:40] guitarspider: go jc
+[11:16:55] jcarmody: (28.Rad1) that's the one move I didn't want.
+[11:17:10] nyanners: a bit spooky but can just rxa6
+[11:18:11] nyanners: or this i guess
+[11:18:11] guitarspider: Rxa6 looked lights out, just collect the second piece
+[11:18:26] nyanners: will collect now regardless
+[11:26:33] Pope123: (30.Qb6) Win goddamnit! We need it!
+[11:26:49] Pope123: (30.Qb6) I mean, go Jcarmody!
+[11:34:25] nyanners: okay seems black has stabilized
+[11:34:40] nyanners: i dont see any plausible turnarounds so might have to play for stalemate
+[11:34:56] nyanners: rooks are very boring pieces to fight back with
+[11:35:26] nyanners: for this type of situation, at least :o
+[11:38:13] Pope123: (35.b4) The b-pawn is very dangerous, luckily we have 2 pieces to throw at it :)
+[11:38:44] Pope123: (36.Kf2) e3+ tricks
+[11:39:29] compact-hausdorff: (37...Nf5+) Now we just need someone to guard jc's router
+[11:40:00] compact-hausdorff: GG
+[11:40:00] guitarspider: gg
+[11:40:00] omertil: gg
+[11:40:00] Pope123: Probably a doctor too to check his heartrate
+[11:40:00] Pope123: gg JC
+[11:40:15] Pope123: wp both
+[11:40:15] jdw10: gg
+[11:42:32] scrooge: gg both
+[11:47:21] nyanners: gg
+[11:47:51] nyanners: some really amazing moments this game
+[11:50:38] jcarmody: I did miss that g6 was hanging the second time.
+[12:27:08] Zubenelgenubi: gg
