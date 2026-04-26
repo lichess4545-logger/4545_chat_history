@@ -1,0 +1,269 @@
+Lichess game chat log
+Game      : https://lichess.org/O6uYjjqw
+White     : switchoffengine
+Black     : kayrosas
+Time      : 45+45
+Captured  : 2026-04-26 17:48:44 UTC
+Game ended : 2026-04-26 16:28:39 UTC
+Messages  : 259
+────────────────────────────────────────────────────────────
+
+[12:03:49] Kayrosas: i wonder if they have some idea against this. h6-d6 italian is a bit dubious after all
+[12:05:21] Kayrosas: 6.0-0 I like to see. the more annoying lines are where white delays castling
+[12:07:22] Kayrosas: 7.d4 should be good for me iirc. it's not critical at least. I don't remember if it was equal or black advantage
+[12:08:23] Kayrosas: I think should be advantage, if knight moves I win a pawn and 8.de5 gf3 ef6 Ne5 is good
+[12:10:10] Kayrosas: 8.Nfd2 is the practical choice I think. I still have to finish development and my kingside structure is always a bit weak
+[12:13:28] Kayrosas: 9...Qe7 or Qd7 hmm. Qd7 is more awkward but Na5 threat maybe worth it
+[12:13:58] Kayrosas: but probably Na5 wastes too much time before I castle
+[12:18:17] switchoffengine: i forgot Bxf7+ Qxf7 Qa4+ Nc6 lol
+[12:18:17] Mennonite: Go Kayrosas!
+[12:19:02] Kayrosas: 11.Qc3 c5 might be an option, but big commitment
+[12:20:18] Kayrosas: Nc3-d5 ideas look a bit scary 11...Ne6 would allow me c6, but seems very awkward
+[12:20:34] Kayrosas: I think I get Nc6-e5 quick enough to not worry
+[12:21:04] Mennonite: Nc6 is a useful multi purpose move.
+[12:21:34] Kayrosas: I think white thought they are worse than their position actually is and tried to play this too hectic
+[12:22:51] Mennonite: Whites minor pieces are so clumsy
+[12:23:51] switchoffengine: we will just claim its a long term c pawn sacrifice. :D
+[12:25:38] bufferunderrun: let's go switch!
+[12:26:24] Kayrosas: I was a bit worried about f4 ideas, so glad to see Re1
+[12:26:24] switchoffengine: thats interesting, i thought he would castle qside
+[12:26:24] Mennonite: I was trying to make an immediate attack work on the kingside
+[12:27:09] Mennonite: Black is banking on being able to maintain their pawns long term
+[12:30:57] switchoffengine: i need Nf1 Bd2 Nd3 Nf5
+[12:31:13] Kayrosas: 15.Qe2 now I'd say I consolidated my extra pawn and it's time to look for active plans
+[12:33:30] switchoffengine: ok at least he is out of prep, im not playing stockfish anymore :D
+[12:34:46] Kayrosas: 16.Nc4 is a bit annoying tho
+[12:38:34] Kayrosas: maybe there are no active plans yet after all. 16.Nc4 Be6 and just enjoy the pawn
+[12:39:50] Kayrosas: or maybe trade, Ne3-f5 can be annoying
+[12:40:05] Kayrosas: Nf1-e3-f5 is another route ofc
+[12:42:38] Kayrosas: my kingside is always so awkward here, maybe Kh8 Rg8 at some point but always a gamble if it's good
+[12:43:54] switchoffengine: Ne3 Qh4 Nf5 Bxf5 exf5 Nf3+ gxf3 g3 is scary
+[12:46:26] Kayrosas: 17...Qh4 threatens Nf3 i think which is nice
+[12:47:27] Mennonite: This is what separates high level players from those of us on board 2
+[12:47:57] Mennonite: I don't understand how black can castle kingside and still maintain so many threats
+[12:48:12] Kayrosas: wait no it doesnt
+[12:48:28] Mennonite: It's like sorcery
+[12:49:29] Kayrosas: 17...Kh8 or Be6 it is
+[12:50:45] switchoffengine: ok he wants f5, that is clear
+[12:52:46] switchoffengine: can i tickle him with Qd2
+[12:53:47] switchoffengine: hmm maybe Rad1 was better, then Qd2 double threat
+[12:56:20] Kayrosas: i wanna sac stuff but I dont see it
+[12:56:50] nyanners: thats a vibe
+[12:58:37] switchoffengine: im trying to lure Kh7 then any f5 will weaken the c2-h7 diagonal and allow Bc2
+[13:00:38] switchoffengine: Rad1 f5 exf5 Rxf5 Qd2 i was worried it was too slow,, but no threats from black so probably the better way to go
+[13:00:38] Kayrosas: hm, not happy with how I'm handling this. should still be objectively better but still weird
+[13:03:11] fulmarsky: Go Kayrosas!
+[13:04:27] fulmarsky: (19...Rd8) Oh it's extra tense to see these top chess games... wow, just wow on the 64 squares
+[13:04:27] nyanners: >h6 d6 g5 >omg this is so weird
+[13:04:27] Kayrosas: could use some caffeine right about now
+[13:04:27] switchoffengine: thinking of Bc5 hahaha always the craziest thoughts
+[13:04:27] nyanners: no okay i get the point
+[13:04:27] fulmarsky: (19...Rd8) every square simmering with tenseness
+[13:11:02] Kayrosas: oh 21...Be6 was too rushed
+[13:11:33] Kayrosas: at least Qg6-h5 is a bit scary but i think Ne2-f4 is in time for white
+[13:12:03] switchoffengine: ok gotta speed up, playing like an old man
+[13:13:04] Kayrosas: and Qg6 would prevent this at least
+[13:15:36] switchoffengine: trying for some Rh1 counterplay obviously. i dont see a good way for him to defend
+[13:16:07] switchoffengine: Nc4 i will just chop and go b3 Rh1
+[13:16:22] switchoffengine: oh no not b3 :D
+[13:19:40] Kayrosas: Qg6 and Kh7 will have to suffice somehow and then d5 at some point
+[13:20:41] Kayrosas: oh i wanted to go Kh7 first bc of 25.Bd4
+[13:21:42] Kayrosas: even if it's nothing critical my lack of concentration rn is sad
+[13:33:06] switchoffengine: wonder if Qf4 Bxd4 Nxe4 works
+[13:34:22] switchoffengine: only one way to find out
+[13:34:38] Kayrosas: I don't understand 27.Qf4 at all
+[13:35:08] Kayrosas: ok now I do maybe
+[13:37:10] Kayrosas: I don't think it works? 27...dxe4 Ne4 Bxd4 Ng5 Kg7 is fine?
+[13:39:11] Kayrosas: oh there is Nf6
+[13:39:11] switchoffengine: dxe4 Nxe4 c5 i missed, Nxc5 but feels like im losing after Qc2
+[13:40:28] switchoffengine: thats sad..
+[13:40:43] Kayrosas: 27...Bxd4 Rxd4 c5 is simple option I guess
+[13:42:45] switchoffengine: looks like gg because other lines like Bxg7 is just losing endgame
+[13:45:17] switchoffengine: dxe4 Nxe4 c5 Nxc5 Qc2 Rxh6+ so he cant do that, but im sure theres something else
+[13:45:32] Kayrosas: 28.Nxe4 f5 is the idea
+[13:46:02] fulmarsky: (28.Nxe4) oooh this is a treat to know both players thought process
+[13:46:48] fulmarsky: (28...f5) even if the ideas seem too nuanced for myself, yet, this chess game is of most refreshment
+[13:47:34] Kayrosas: expecting 29.Nc3 and still awkward but at least Qf4 doesnt do anything
+[13:48:50] switchoffengine: time to think about Kh2 to connect the rooks again lol
+[13:50:21] Kayrosas: activity! finally
+[13:52:08] Kayrosas: bruh
+[13:55:10] switchoffengine: wanna just grab a7
+[13:57:58] fulmarsky: (34...Bd5) angst on the 64 squares
+[13:58:59] fulmarsky: (34...Bd5) what shall taketh place upon those tense 64 squares...
+[13:59:14] switchoffengine: Rh5 Kg6, no tricks with Rxf5 sadly
+[14:01:16] switchoffengine: oops
+[14:01:16] fulmarsky: (35...b6) oh it's too much anguish, would a draw please be agreed to and let the simmering tension dissipate
+[14:03:02] suspendedplayer75: The White Rook is offside!
+[14:03:33] Kayrosas: never been happier about forcing a queen trade
+[14:03:48] fulmarsky: (36...Qe5) oh he be secluded stuck on that h-file, perhaps having a croissant or some biscuit snacks
+[14:04:34] switchoffengine: is it really that bad? Qxe5 Rxe5 Rh1
+[14:04:49] Kayrosas: 37.Ne2 Qxe2?? Qf6 is a cute trap
+[14:05:34] fulmarsky: (36...Qe5) how doth one calculate this kind of stuff.. tense.... oooh tense....
+[14:06:51] switchoffengine: Be4 Qe3
+[14:07:51] Kayrosas: Qe1 Kh2 Qxf2 Nxd5 Re1 hmm
+[14:08:37] Kayrosas: nvm theres Nf6+Rxg4
+[14:09:23] switchoffengine: wait he just has Qxf2...
+[14:10:39] switchoffengine: blind spot by me. now Qe1+ Qf1 is way worse version. rook is stuck
+[14:11:40] switchoffengine: had Nxd5 luckily in that line
+[14:12:41] Kayrosas: now it should work if b5 or some other passive move
+[14:13:11] switchoffengine: the rook is coming out :)) hopefully
+[14:13:26] switchoffengine: long term compensation guys
+[14:13:57] fulmarsky: (38.Rh1) breaking free from that clautrophobic h-file, oooh rookie you please break out, break out, into the outer 64 squres
+[14:14:58] fulmarsky: (38.Rh1) it be a point of much fascination that the time management be so closely aligned between the two players
+[14:19:01] fulmarsky: (41.Qxg3) ...Qe1+  Rxe1  ...Rxe1#
+[14:19:01] fulmarsky: (41.Qxg3) i'm guessing
+[14:19:16] fulmarsky: (41.Qxg3) (my error the king not be on h1)
+[14:19:32] fulmarsky: (41.Qxg3) angst
+[14:20:32] switchoffengine: outside passed pawn
+[14:22:19] fulmarsky: (42...bxc5) oh dear
+[14:22:34] fulmarsky: (42...bxc5) oh dear, the outside passed pawn on the a-file...
+[14:24:36] fulmarsky: (43...c4) the tension between WQ and BQ is too much anguish
+[14:25:22] fulmarsky: (45.Kg3) now sigh....  i not know the outcome of the chess game
+[14:25:37] fulmarsky: (45...h5) one mere ought guess
+[14:26:53] nyanners: white has made it.. somehow
+[14:38:33] nyanners: and yet.. danger returns
+[14:38:48] fulmarsky: (53...gxh3) two outside passers
+[14:38:48] fulmarsky: (53...gxh3) ooooohh just tense...... tense....
+[14:39:19] bufferunderrun: 54.Ne4+ seemed okay
+[14:39:49] nyanners: nah
+[14:39:49] nyanners: rxe4 and bf5+(!)
+[14:39:49] nyanners: takes h7
+[14:40:04] bufferunderrun: Kf3 then
+[14:40:35] nyanners: i mean rxe4 into h2 and white cant prevent promotion without rh7
+[14:40:35] fulmarsky: (54...Re1) i knoweth not the nuances of what taketh place upon those squares, i merely know... it be of immense tension
+[14:41:21] bufferunderrun: ah h2 first, got it
+[14:43:38] nyanners: i have this habit of getting ahead of myself in commentary :p
+[14:44:08] nyanners: thats my bad
+[14:46:25] fulmarsky: (57.Ke5) both players now writeth not.. ooooh it be far too tense to let their thoughts be condensed into mere mere text
+[14:46:40] nyanners: the only thoughts are i go here they go there
+[14:46:55] switchoffengine: sweaty game
+[14:47:26] fulmarsky: (57.Ke5) i and i suppose they must a be aware of their chess clocks.. oooh thank you 45 second increment, thank you
+[14:47:41] Kayrosas: 57...Bc8 looks good but I dont trust my calculation
+[14:48:42] nyanners: maybe would be R vs N best case?
+[14:48:57] nyanners: probably more winning chances in shuffling
+[14:49:28] Kayrosas: probably a draw now due to Ne2-g3 tricks
+[14:52:30] fulmarsky: (59.Ne2) there be a question i ponder at this time, it be this: can white draw this game, is the combined momentum of the two passers too
+[14:52:30] fulmarsky: (59.Ne2) immense...
+[14:53:01] nyanners: seems difficult to keep both and do anything meaningful
+[14:53:31] switchoffengine: i think i should have done Ne2 one move earlier, Bg4 looked winning for him
+[14:53:46] fulmarsky: (59...Ra2) oh these nuances.ooooooh passed pawns, knight versus bishop... just tense..... i repeat, tense
+[14:54:02] nyanners: nf4-nxh3 yay or nay?
+[14:54:32] nyanners: seems fine to me
+[14:54:47] nyanners: same on Bg4 actually
+[14:55:18] nyanners: rh5 and cant save
+[14:56:03] nyanners: on Bg4 (instead of Ra2) there would be Rh4
+[14:59:21] nyanners: ng1 a tiny bit spooky but seems enough
+[14:59:36] nyanners: white can choose Kxc4 even
+[15:00:22] nyanners: like, Kxc4 and no Bg4 domination theme because of Rg5+
+[15:00:53] Kayrosas: I kinda wanna make up for the bad chess by swindling this
+[15:01:23] nyanners: while the pawn is alive there may be adventures..
+[15:01:38] Mennonite: Oh cool the game is still goong
+[15:01:38] Mennonite: Going
+[15:03:09] Kayrosas: there isn't really enough to swindle with tho
+[15:03:55] nyanners: the standard technique is to shuffle 30 without losing the pawn but on the negative side white is the side with the knight
+[15:05:42] nyanners: bishops dont tend to lend themselves to weird moments
+[15:05:57] Mennonite: No context
+[15:05:57] nyanners: AHAH
+[15:06:12] nyanners: im wondering if theres an universe where black helpmates
+[15:08:14] nyanners: i didnt find it
+[15:09:45] switchoffengine: why did i do this to myself lol
+[15:12:02] fulmarsky: (73.Kf4) 3 hour plus epic ooooooohh they have have an element of 64 squared exhaustion
+[15:14:50] Mennonite: 50 moves would be around 112 so not really a factor at this point
+[15:16:06] nyanners: black king approaching?
+[15:16:52] Mennonite: I assume ..Rd3 here
+[15:17:07] nyanners: yea which gives time for kc5
+[15:18:23] Kayrosas: hm, keep this or cash in for RBvR
+[15:19:24] nyanners: uh oh its one of Those
+[15:19:39] nyanners: 130 moves now
+[15:20:10] Mennonite: So it'll for sure fall short of league record
+[15:20:40] Kayrosas: if vidit can lose this surely they can too
+[15:22:42] fulmarsky: (87.Rf3) t
+[15:22:42] fulmarsky: (87...Rh5) ense
+[15:22:57] Mennonite: Every tempo is precious for Black with a hard limit ahead
+[15:27:31] Kayrosas: can someone extend the 50 move rule pls
+[15:28:32] Mennonite: There was that one game in an Eastern European tournament that went 269 moves when the limit was longer
+[15:31:04] switchoffengine: move 130 is the draw
+[15:32:05] Need2StudyMore: Go go go switchoffengine! 130 :D
+[15:42:14] switchoffengine: you shall not pass!! :D
+[15:44:46] Mennonite: Fly, you fools!
+[15:45:17] Kayrosas: i didnt recall it being this difficult to get the king to the backrank
+[15:46:48] Kayrosas: i think i need my rook on the rank of my king at first, but w/ever
+[15:47:49] nyanners: feel white got this
+[15:48:04] Mennonite: Defending this is like being in the dentist chair, you intellectually know you're safe but it's unpleasant and feels interminable
+[15:48:19] WadeWilson: it's fine, magma practiced this the other day https://lichess.org/s1SkLQPk/black#144
+[15:49:20] switchoffengine: the final stretch usually the hardest lol
+[15:50:06] nyanners: dentist chair probably safer tbh
+[15:50:51] bufferunderrun: so 20 more moves...
+[15:51:52] Kayrosas: I genuinely just want this game to end
+[15:51:52] RPCX: so can white end it with a silly rook ? like putting the rook somewhere it can be captured on the 50 move or not ?
+[15:52:38] bufferunderrun: sure
+[15:52:38] WadeWilson: yes it's possible
+[15:52:38] WadeWilson: but not forced
+[15:53:08] bufferunderrun: but why risking it?
+[15:53:24] nyanners: im not sure ive ever seen anyone with the courage to do so
+[15:53:24] nyanners: stockfish really likes to do it tho
+[15:53:54] Mennonite: You'd have to have a lot of faith in how Lichess programs it i guess
+[15:55:25] bufferunderrun: Lichess auto-claims 50-move rule draw. But you need to have faith in your ability to correctly calculate when 50-move rule kicks in.
+[15:55:56] bufferunderrun: It would be really silly if you hang a rook on purpose and it's move 49 instead of 50.
+[15:55:56] Kayrosas: 16 more moves, not enough
+[15:56:26] Kayrosas: but backrank now, huh
+[15:56:42] Kayrosas: or siderank, backfile, whatever it's called
+[15:57:42] nyanners: aint that intense
+[15:59:29] Mennonite: Approaching the 4 hour mark
+[15:59:44] nyanners: white is absolutely terrified
+[15:59:44] nyanners: most reasonably so
+[16:00:30] jfiras: (117.Ka3) wow 4 hours
+[16:01:00] WadeWilson: Sabatian Sawe could have run two marathons in that time
+[16:04:33] WadeWilson: oh boy
+[16:06:05] nyanners: are we going to have a linkin park moment
+[16:06:20] Mennonite: Does one of the players Faint?
+[16:06:35] bufferunderrun: I wonder if it would be just easier to grab on c4 on move 69 and just play K+N vs K +R
+[16:06:35] WadeWilson: maybe white will be crawling in their skin
+[16:06:50] nyanners: AHAH i love it
+[16:07:06] switchoffengine: i feel like im gonna lose at move 45 or so lol
+[16:07:21] nyanners: white could just have played 64 Kxc4 im quite sure
+[16:09:53] Mennonite: I would be numb after playing so long
+[16:09:53] Kayrosas: it feels winning but i genuinely cant tell
+[16:10:08] nyanners: moment of truth
+[16:10:23] nyanners: threatening kc3
+[16:10:54] Kayrosas: if it is winning 120.Rg3 is the mvp
+[16:11:24] WadeWilson: oh boy
+[16:11:55] Kayrosas: 122.Rb4 still
+[16:12:10] WadeWilson: Bc2+ at the end no
+[16:12:25] nyanners: nah opens kb5
+[16:12:40] WadeWilson: oh fudge
+[16:12:56] nyanners: yea maybe fine for w
+[16:15:13] switchoffengine: actually i think its move 129 that it ends
+[16:15:43] nyanners: give rook on 129. do what you must
+[16:15:43] switchoffengine: so i need to survive 8 more moves
+[16:16:59] switchoffengine: Rb1 Rc5+ Bc4 Ka5 seems to hold
+[16:18:31] jcarmody: (123.Ra5) Bc2+
+[16:18:31] Mennonite: Rb8 was what I was mostly looking at
+[16:18:46] Mennonite: Bc2 Kb5 rinse repeat
+[16:19:16] jcarmody: (123.Ra5) Bc2+, Ka3, Rxa5#
+[16:19:31] RPCX: bc2+ kb5
+[16:19:47] jcarmody: doh!
+[16:21:03] jfiras: (124.Rc5+) i dnt think a forced mate in five moves is still doable, white seems doing great
+[16:21:18] RPCX: bc4 ra5 rb6  then what ?
+[16:22:04] switchoffengine: wait i think i messed up
+[16:24:05] switchoffengine: ah nvm im hallucinating
+[16:26:07] switchoffengine: its the final  countdown dudududu
+[16:26:07] MoonlightAnomaly: I'm willing to bet switchoffengine survives this on Polymarket
+[16:27:08] Kayrosas: kinda chose the wrong setup, bit too late now to correct, 3 more moves
+[16:27:08] nyanners: :)
+[16:27:23] fulmarsky: (128...Bd3) no!!! this can't still be going on surely
+[16:27:54] jdannan: Time for RxB surely
+[16:28:09] switchoffengine: yeaaaa
+[16:28:09] nyanners: gg XD
+[16:28:09] jdannan: oh wait that gives 50 more moves  :-)
+[16:28:09] jfiras: gg !
+[16:28:09] MoonlightAnomaly: Come on!!!!!!
+[16:28:09] RPCX: ggs
+[16:28:09] bufferunderrun: Gg
+[16:28:09] Need2StudyMore: Ggwp!!
+[16:28:39] WadeWilson: gg
+[16:28:39] fulmarsky: that chess game = beyond tense,  gg both
+[16:28:39] WadeWilson: well played
+[16:28:39] Pk1n94l1v3: gg
+[16:28:39] switchoffengine: thank you all :D
+[16:29:25] Mennonite: Gg
