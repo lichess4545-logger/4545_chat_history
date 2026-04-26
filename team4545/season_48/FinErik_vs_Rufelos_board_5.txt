@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/AlnBdD6Z
+White     : finerik
+Black     : rufelos
+Time      : 45+45
+Captured  : 2026-04-26 19:23:33 UTC
+Game ended : 2026-04-26 18:03:29 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[15:01:05] Pineapplechiffoncake: Go FinErik!
+[17:04:37] Mennonite: I suspect this is objectively drawn
+[17:26:11] irongalaxy: (43...cxd4) go erik!
+[17:29:29] irongalaxy: (44...Rxc4) I was inclined to give the exchange back on the previous move
+[17:29:45] irongalaxy: (44...Rxc4) Which would imply equality
+[17:37:52] RS-ClassicalOnly: hello everyone
+[17:39:38] RS-ClassicalOnly: is a repetition avaliable here?
+[17:40:24] irongalaxy: (49...Qf5) Can white play for a win by going after a6?
+[17:41:09] RS-ClassicalOnly: i would probably say not
+[17:41:09] irongalaxy: (49...Qf5) Three results are always possible under increment
+[17:41:55] RS-ClassicalOnly: (50. Qe2) I suspsect black is doing better, if they could reposition their queen
+[17:44:12] RS-ClassicalOnly: (52. Ra2) Qb1 looks scary
+[17:45:28] irongalaxy: (53.Kh2) Nf1 Ne3 perpetual?
+[17:45:43] irongalaxy: (53.Kh2) Black will want to press
+[17:46:14] RS-ClassicalOnly: (53. Kh2) Nf1 followed by d3 d2 looks too scary
+[17:46:44] irongalaxy: (53...Qb4) Nf1 d3 maybe you take
+[17:47:15] RS-ClassicalOnly: (53... Qb4) the queen on b1 was protecting all pieces
+[17:47:15] irongalaxy: (54.Rb2) on f1
+[17:47:45] irongalaxy: (54.Rb2) ehh the passed a pawn looks very strong in that q+p ending
+[17:48:31] RS-ClassicalOnly: (54... Qc3) white is at least delaying blacks progress right now, he hasnt made much progress
+[17:48:46] RS-ClassicalOnly: not trivial for black
+[17:50:02] RS-ClassicalOnly: (55... Ng4) im surprised black isnt playing these easy moves to gain some time, both players are very
+[17:50:17] RS-ClassicalOnly: low on time
+[17:51:18] irongalaxy: (57.Qd2) Very nice Qd2
+[17:51:33] irongalaxy: (57.Qd2) Does this not pick up a pawn?
+[17:52:34] RS-ClassicalOnly: (58... Qd5) I believe it is, i wonder if the d-pawn can be stopped though
+[17:53:20] RS-ClassicalOnly: (58... Qd5) Qxa5 Qd4 Kh1 Qe4 maybe
+[17:53:35] irongalaxy: (59.Qg2) Rxa5 I liked better
+[17:54:06] RS-ClassicalOnly: (59.Qg2) that probably worked too, just dont want to loosen up the 2nd rank defense
+[17:54:51] RS-ClassicalOnly: (60. Qd2) both players are picking up more time though
+[17:55:06] irongalaxy: (60...a4) Ra3 now wins the d pawn
+[17:55:52] irongalaxy: (60...a4) Then maybe Qb1 Kg2 Ne3+!
+[17:56:07] RS-ClassicalOnly: (60... a4) Ra3 was a blunder to Qc4 check fork
+[17:56:07] irongalaxy: (61...Qc5+) oops
+[17:56:23] RS-ClassicalOnly: (61... Qc5) your thinking is pragmatic though
+[17:56:53] RS-ClassicalOnly: (61... Qc5) white has been doing a good job at making it difficult though, i must give credit
+[17:59:25] RS-ClassicalOnly: (63... Nc4) i think Nc2 was winning, a3 is unstoppable
+[17:59:40] RS-ClassicalOnly: (63... Nc4) now the d-pawn is lost right after Rb8 and Qxd3
+[18:00:56] RS-ClassicalOnly: (64. Rg2) an unfortunate miss, draw chances were high after that
+[18:01:27] irongalaxy: (65...Ne3) My first thought was also Qc3 to be fair
+[18:01:57] RS-ClassicalOnly: (65... Ne3) yea i cant blame, the clocks are so low, I wonder where all the time was spent
+[18:02:13] irongalaxy: (67.Qxg2) d2 for some extra spice
+[18:02:13] irongalaxy: (67...d2) gg wp
+[18:02:58] RS-ClassicalOnly: exciting watch
+[18:03:13] Rufelos: gg!
