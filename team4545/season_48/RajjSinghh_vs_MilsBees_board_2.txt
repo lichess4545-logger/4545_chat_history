@@ -1,0 +1,120 @@
+Lichess game chat log
+Game      : https://lichess.org/Sl43VBAf
+White     : rajjsinghh
+Black     : milsbees
+Time      : 45+45
+Captured  : 2026-04-26 19:56:31 UTC
+Game ended : 2026-04-26 18:36:26 UTC
+Messages  : 110
+────────────────────────────────────────────────────────────
+
+[16:02:12] LeporEd: go
+[16:02:27] LeporEd: mills!
+[16:04:29] RajjSinghh: playing the morra against someone who has definitely prepped the morra is an interesting feel
+[16:06:00] MilsBees: (1.e4) A Smith-Morra after all... let's see if I remember what I looked at
+[16:08:17] guitarspider: (5...Nf6) go mils
+[16:08:17] MilsBees: (3.c3) I only really looked at 1 line here, so if that doesn't happen we're on our own
+[16:08:47] MilsBees: (5...Nf6) Ng5 d5
+[16:09:03] MilsBees: (5...Nf6) hello guitarspider!
+[16:09:48] MilsBees: (5...Nf6) I'm still a bit hungover from my bday party last night
+[16:09:48] MilsBees: (5...Nf6) So conditions could be better
+[16:11:50] guitarspider: (7...Na5) smith morra on a hangover is probably not what I'd pick, yeah :D
+[16:13:21] MilsBees: (6.Ng5) so this is exactly what I looked at so far
+[16:13:37] MilsBees: (8...Bd7) With Qa4 Be7
+[16:19:42] MilsBees: (8...Bd7) I'm on my own now
+[16:19:57] MilsBees: (10.cxd4) for some reason only looked at castles
+[16:23:30] MilsBees: (10.cxd4) There's some tricky stuff here actually
+[16:24:01] MilsBees: (10...exd4) Like castles Nxd5 Bxd7 Qxd7 Qxa5 Bb4 and the queen is trapped
+[16:24:01] MilsBees: (11.O-O) that's wild
+[16:29:36] MilsBees: (11.O-O) Okay, didn't expect that
+[16:30:21] RajjSinghh: I think this works out equal but with the weak king on f7 and d4 pawn
+[16:37:58] MilsBees: (12.Nxf7) I guess my opponent missed that, this just wins material
+[16:37:58] RajjSinghh: did I really miss QxB KxN and I'm not winning either knight?
+[16:57:45] RajjSinghh: I really must have thought the a5 knight was getting trapped
+[16:57:45] MilsBees: (12...Bxb5) I'm having a lot of trouble calculating longer sequences than 3 moves
+[16:57:45] RajjSinghh: oh thank the lord
+[16:58:00] MilsBees: (16...Nc6) Nc6 Qf3+ Bf6 is about as far as I got
+[16:58:16] MilsBees: (16...Nc6) g4 there and I think h6 works?
+[16:58:16] MilsBees: (17.Qe6+) yeah, there we go
+[16:58:46] RajjSinghh: I wonder if I can claim I'm better again
+[17:02:04] MilsBees: (17.Qe6+) so unbelievably unnecessary
+[17:09:41] RajjSinghh: wow, my idea was Bf4 here to hit the rook... it's a bad chess day
+[17:15:16] MilsBees: (18.Qxc6) I should probably go for a bit of a walk or something
+[17:15:16] MilsBees: (23.Qf5) Still very frustrated with myself :(
+[17:19:19] MilsBees: (23.Qf5) the thing is, I'm not even down material, which I should remember
+[17:20:05] nseek: 24 Bb4?
+[17:20:20] MilsBees: (23.Qf5) gotta get out the pin with Bb4
+[17:20:20] MilsBees: (24...Kf7) white has a damaged pawn structure
+[17:20:20] nseek: lol i cant count 25
+[17:20:35] MilsBees: (24...Kf7) my rook can get into the game next
+[17:21:21] MilsBees: (24...Kf7) I have a passed pawn
+[17:29:58] MilsBees: (24...Kf7) a fantasy way I could win this: Rc4 Qxa3 Rxd4 Qc1+ Bx Re1#
+[17:35:03] RajjSinghh: Qf3 feels too passive with the d4 pawn and I want to play g4 but not let Qe6 force a trade
+[17:37:35] MilsBees: (28...Qd6) wow, can I not just take on h3?
+[17:38:51] MilsBees: (30.g4) I guess they missed that g5 would hang their queen?
+[17:40:22] RajjSinghh: this is genuinely one of the worst games I've ever played
+[17:40:38] ChessisHard101: 30. Was Rc7+ not a better try?
+[17:46:28] ChessisHard101: Maybe Qg5... But then the queen trade is just game over for white
+[17:53:03] RajjSinghh: I love how every idea I've had has just been horrible for very obvious reasons that I seem to be missing
+[17:53:49] RajjSinghh: but maybe this endgame is salvageable
+[17:54:04] RajjSinghh: but then I have to beat the FM next game even if I manage to draw this one...
+[17:55:05] guitarspider: (32.Rd7) oooh, he's playing up a board too
+[17:56:21] ChessisHard101: A queen trade just seems winning for black here... Qxg4+
+[17:59:24] MilsBees: (30...Qxh3) This is still quite scary
+[17:59:54] MilsBees: (32...Re4) I was looking at Rd8 Ke7 Rd7+ where I can't take with the knight because my rook would hang with check so I have to play Ke8
+[18:00:10] MilsBees: (32...Re4) and then I think I can safely take on g4 after that
+[18:01:26] RajjSinghh: I missed Nx was legal but at least the Re4 is weak
+[18:02:11] OneKindKing: this trades into a winning endgame for black
+[18:06:15] OneKindKing: I liked Ng4-e5-c6 defending d4 and a5
+[18:07:00] OneKindKing: then black can push his b pawn and keep his king on the kingside
+[18:07:31] OneKindKing: like Ke8-e7-e6
+[18:12:20] OneKindKing: h4 was very tempting
+[18:13:06] OneKindKing: now it's just bad
+[18:13:21] MilsBees: (32...Re4) I thought I missed Be1 there for a second
+[18:13:21] MilsBees: (41...h4) had a mini heart attack
+[18:14:37] MilsBees: (41...h4) oh no, did I mess this up STILL?
+[18:14:52] MilsBees: (42.Ke3) well if I did, I kind of deserve it
+[18:20:12] guitarspider: (46.a4) I guess white could still draw this if they somehow traded a pawn and sacrificed the bishop for the last one maybe?
+[18:21:43] sterpfi: Yes bc the pawn is on h2. Knight + pawn on h2 alone is a fortress
+[18:21:43] MilsBees: (42.Ke3) Hmm, I thought this was winning but I don't think it is
+[18:21:43] MilsBees: (46...b5) I have to stalemate
+[18:22:44] sterpfi: But it should be winning with the a pawn. Knight can block the diagonal
+[18:22:44] MilsBees: (46...b5) I thought I could trade and then bring my king over, but both my knight and pawn are immobile aren't they?
+[18:23:14] guitarspider: (47.Bd8) ah, so you ditch the hpawn
+[18:23:14] sterpfi: a pawn is the bishop's worst enemy
+[18:23:30] OneKindKing: black can win this
+[18:23:30] sterpfi: Yes you have to give the h pawn
+[18:23:45] sterpfi: I meant 'an a-pawn'
+[18:24:00] guitarspider: (47.Bd8) Ne3-d1-c3 for example
+[18:24:00] sterpfi: Yes
+[18:24:31] RajjSinghh: This is probably losing but after i get a5, sac the bishop for the other pawn, can I just shuffle Kh1 Kg2?
+[18:24:46] OneKindKing: pawn reaches a2, king at b1, h1+, Kxh1, Nf2+ - d3-b2
+[18:25:01] guitarspider: (48.Bxa5) the pawn goes to a2 really quickly now
+[18:25:01] OneKindKing: plugging the diagonal and winning
+[18:25:01] sterpfi: There is the idea of putting the bishop on a1 before Nc3 happens and when the Black king captures the bishop, to lock him with the own king
+[18:25:31] sterpfi: But I think the white king is too far away for that bc it has to take the h pawn first
+[18:25:31] guitarspider: (48.Bxa5) I wonder if axb5 was better because now it seems to go faster
+[18:25:47] RajjSinghh: knight can't move without dropping h2, and the king can't take g2 away without stalemate
+[18:25:47] OneKindKing: axb5 was a draw
+[18:26:02] MilsBees: (46...b5) Or do I give up the h-pawn and arrange something with the pawn on a2, knight on b2 and queen that way?
+[18:26:17] sterpfi: Would for sure have been the better chance, but I guess even that was winning for Black
+[18:26:32] MilsBees: (48.Bxa5) no, he can just park the bishop on a1
+[18:27:03] OneKindKing: MilsBees has seen half of the solution
+[18:27:18] guitarspider: (49...Kd5) he's also got enough time to find the rest I think
+[18:27:18] sterpfi: He will get to the solution
+[18:28:49] OneKindKing: Rajj feels safe
+[18:29:20] guitarspider: (53...Nc4) yeah, this is it
+[18:29:35] sterpfi: (52...Ne3) a bit early, should have first put the king on b1 and the pawn on a2, but should still win
+[18:30:05] OneKindKing: if calculated, bravo to him!
+[18:30:21] sterpfi: Now White must try 54.Ba1 hoping for Ka2 Bc3 Nb2?? Bb4
+[18:30:21] MilsBees: (49.Bc3) glad I didn't push all the way to a2 then
+[18:30:21] guitarspider: (53...Nc4) does it make a difference? even if Ba1 Nb2 first
+[18:30:51] sterpfi: Ah yeah that also works
+[18:32:22] MilsBees: (53...Nc4) okay, my heart rate is coming down finally
+[18:32:38] MilsBees: (53...Nc4) I'm 97% sure it's over now
+[18:32:53] MilsBees: (53...Nc4) This was 'find the hardest way to win 101'
+[18:34:55] RajjSinghh: I guess there's one last trick. Ba1 Ka2?? Bc3 and Bb4 seems like maybe i win the pawn
+[18:35:56] guitarspider: gg
+[18:35:56] sterpfi: Over and out. gg
+[18:35:56] jcarmody: gg
+[18:36:56] OneKindKing: gg
