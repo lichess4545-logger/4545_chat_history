@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/2IWG5UVh
+White     : jdannan
+Black     : fischer_and_chips88
+Time      : 45+45
+Captured  : 2026-04-26 13:56:53 UTC
+Game ended : 2026-04-26 12:36:48 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[11:02:27] jdannan: (2.c4) assuming some prep against me...I'm just doing my normal
+[11:04:14] Fischer_and_Chips88: 4 Nf3 declines the Benko, which I was hoping to try. But b4 is good here for black I think
+[11:10:34] Fischer_and_Chips88: a3. Qa5 is interesting, pinning the a pawn to the rook. Bd2 but white would remain tangled on the q side for a while
+[11:10:49] Fischer_and_Chips88: because the knight can't move to a3 c3 or d2 if Bd2, meaning the rook can never be defended
+[11:11:35] Fischer_and_Chips88: Qa5 Bd2 but my b-pawn also pinned, so I just need to judge who the tension benefits
+[11:14:07] Fischer_and_Chips88: I think it benefits me, I can play g6 Bg7 Ne4 and then take on d2 and my bishop pins his b pawn in that line
+[11:16:55] jdannan: (6.Nbd2) that seems to invite the move I was probably making anyway...
+[11:17:40] Fischer_and_Chips88: Nd2 is logical, threat Nb3 to chase the queen away
+[11:22:29] Fischer_and_Chips88: e6. Nb3 Qb6 axb4 cxb4 and c5 is now defended twice
+[11:23:15] Fischer_and_Chips88: dxe6 and fxe6 is thematic to castle and have the open f-file, especially with the g8-a2 diagonal being pretty closed
+[11:26:02] Fischer_and_Chips88: I did not realise e4 was possible, what is happening
+[11:27:03] Fischer_and_Chips88: I am thinking exd5 Nh5 and will the knight get trapped ...
+[11:28:04] Fischer_and_Chips88: no I need to castle and get my pieces out
+[11:30:21] Fischer_and_Chips88: I think cx is best here, Nc4 would be great for white
+[11:36:57] Fischer_and_Chips88: So Ba6 was necessary to prevent Nc4. Now Nb3
+[11:37:12] Fischer_and_Chips88: my original plan was to go back to b6
+[11:37:27] Fischer_and_Chips88: which I think still makes sense.
+[11:37:57] jdw10: Lets go Fischer!!
+[11:40:45] Fischer_and_Chips88: Bxa6 Now how to recapture...
+[11:41:31] Fischer_and_Chips88: I know normally the idea is Qxa6 to prevent white from castling. also keeps the a file pin.
+[11:42:16] Fischer_and_Chips88: but I think I prefer Nxa6, idea to play c4 and Bc5
+[11:45:19] Fischer_and_Chips88: ok e5, not too surprising. I really don't want to allow Be3
+[11:52:25] Fischer_and_Chips88: spent too long there considering O-O-O but I just couldn't make it work
+[12:08:24] Fischer_and_Chips88: relieved to see some trades I think white has let me off the hook a little here
+[12:08:39] Fischer_and_Chips88: I guess the plan is to play 17 d6
+[12:11:11] Fischer_and_Chips88: so the bishop has to get out somehow, hence g6 Bg7. Re8  and maybe I can even get the e pawn
+[12:11:42] Fischer_and_Chips88: my c5 pawn is a target for black and my king is not very safe
+[12:13:43] Fischer_and_Chips88: Qd5 wow the threat is Rxa7
+[12:15:15] Fischer_and_Chips88: or is it
+[12:15:30] Fischer_and_Chips88: Rc8 Rxa7 Kxa7 Ra1+ Kb6
+[12:16:15] bXVrc2lh: wow, looks not that good for black
+[12:18:32] Fischer_and_Chips88: why can't I just play c4
+[12:21:05] bXVrc2lh: does black understand they are playing without 3 pieces :) I try to cheer for teammate but it's hard in this positino
+[12:21:50] bXVrc2lh: wait my team mate is white.. all good
+[12:22:36] Fischer_and_Chips88: Ra5 very nice
+[12:24:38] bXVrc2lh: why why... Qa6
+[12:24:53] bXVrc2lh: Qa5 I mean
+[12:24:53] jdannan: (22...Kxb7) wow that was an eboard mistake I moved the wrong queen!
+[12:24:53] bXVrc2lh: lol
+[12:25:08] Fischer_and_Chips88: the knight and rook are both hanging what clever resource does my opponent have
+[12:25:23] bXVrc2lh: Ra4 and it's still winning but yeah
+[12:26:24] jdannan: (22...Kxb7) I have a lucky escape I think
+[12:27:25] Fischer_and_Chips88: ladder mate...
+[12:28:56] bXVrc2lh: it looks kind of forced mate, but hard to calculate
+[12:30:12] Fischer_and_Chips88: this is resignable
+[12:30:28] bXVrc2lh: King escapes to e6 but with expense of a rock
+[12:30:58] Fischer_and_Chips88: if I play a move like f6 to try undermine then Rxb4 and Rxc4 and the world ends
+[12:31:13] Fischer_and_Chips88: the only move I see to play on is Ra8
+[12:31:44] jdannan: (23...Ra8) interesting that the eboard registered my queen move to b7 as I thought it usually rejected illegal moves and the black
+[12:31:59] jdannan: (23...Ra8) black Q was still physcally on b4
+[12:34:16] Fischer_and_Chips88: nothing better but to give up the exchange
+[12:36:33] bXVrc2lh: good win, but eboarrd slip was scary
+[12:38:19] Fischer_and_Chips88: well played
+[12:38:19] jdannan: yes it was!
+[12:38:34] PaulWithAnS: (26) gg
+[12:38:34] Fischer_and_Chips88: I was just worse the entire time damn
+[12:38:50] jdannan: (scary I mean...I wasn't praising my play :-)
+[12:38:50] Fischer_and_Chips88: I only looked at Benko accepted lol so I was on my own after b4 Nd2. didn't go well.
+[12:39:05] Fischer_and_Chips88: very well played though I feel crushed
+[12:39:35] jdannan: I think your queen move worked out badly but I know if comes out in some lines
+[12:40:06] jdannan: nearly had a heart attack when I moved the wrong queen
+[12:40:21] Fischer_and_Chips88: when you traded queens I was very confused
+[12:40:21] jdannan: though in fact QxQ was just fine in the end
+[12:40:36] Fischer_and_Chips88: I thought I would escape into a losing endgame and have a chance, but Ra4 very nice
