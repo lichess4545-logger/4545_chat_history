@@ -1,0 +1,108 @@
+Lichess game chat log
+Game      : https://lichess.org/ZFnWxsaS
+White     : tranzoo
+Black     : acebulf
+Time      : 45+45
+Captured  : 2026-04-26 21:07:03 UTC
+Game ended : 2026-04-26 19:46:59 UTC
+Messages  : 98
+────────────────────────────────────────────────────────────
+
+[16:59:18] Acebulf: (4.) Oh no he's avoiding my lines :(
+[16:59:18] Tranzoo: we are avoiding any 4.Ng5 prep which is what I normally do
+[17:00:49] Tranzoo: I know Acebulf likes to play Italian from white side as well, so we will see how thi goes
+[17:01:04] Acebulf: (6. h3) is avoiding a pin on f3, he'll probably try that if I don't protect against it
+[17:02:20] Tranzoo: Nd4 is interesting
+[17:03:21] Planincline_DB_Press: Aww, no fried liver..
+[17:03:52] Tranzoo: I wanted to play c3 anyway is there a reason I shouldnt now?
+[17:05:38] Planincline_DB_Press: White seems to be comfortable here
+[17:10:27] Acebulf: (8...) Pianissimoing
+[17:20:37] Acebulf: (12.) That's a bit surprising... what's the goal here?
+[17:22:38] Tranzoo: we might be about to gambit a pawn
+[17:22:38] Acebulf: (15.) I had calculated this line, what am I missing?
+[17:22:54] Tranzoo: but maybe I can make it worh it
+[17:24:40] Planincline_DB_Press: Qb3 looks interesting.
+[17:24:40] Acebulf: (15.) Qb3 wins a pawn? Bd2 Rxa4. Lack of castling is problematic but not immediately so
+[17:24:55] Planincline_DB_Press: Great minds think alike.
+[17:25:26] Planincline_DB_Press: I don't see a concrete way white could blast black's king
+[17:25:41] Tranzoo: so my idea would be something like on Qb3 maybe Be3 with the plan of Rfb1
+[17:26:27] Acebulf: tempos very important rn. I gotta watch out
+[17:26:57] Tranzoo: that makes intuitively a lot of sense for me
+[17:27:12] Tranzoo: I think in must win game the best strategy probably inst to try to hang on to pawn
+[17:27:12] Planincline_DB_Press: Ah Be3 does attack b6, true
+[17:27:43] Planincline_DB_Press: But if Rfb1, can blaxk not take on a1 as the rook's pinned? Then take on d3
+[17:28:13] Planincline_DB_Press: One thing's for sure, this is a really enterprising game for a match decider
+[17:28:29] JEEprep2374: (15...Qb3) does Qxd3 not hang Ra8?
+[17:29:29] Acebulf: (15...) Only response that scares me a bit is Be3 followed by Rb1, but I think it's still ok for me
+[17:29:45] Planincline_DB_Press: Ah, nice catch
+[17:29:45] Planincline_DB_Press: Oops
+[17:30:15] Planincline_DB_Press: Luckily, I'm not playing this game or I would've hung a rook wink
+[17:30:46] Planincline_DB_Press: But yeah, so many pawns en prise here, so many paths
+[17:31:01] Planincline_DB_Press: Very rich position
+[17:31:01] JEEprep2374: (16.Be3) I mean still just go for that but instead of Qxd3 just O-O? b4 is still hanging
+[17:42:56] Tranzoo: hmm that might have been not great
+[17:44:27] Acebulf: (19.d4) Not sure if he just overlooked the threat? I must be missing something
+[17:48:31] Tranzoo: this makes me wanna go Bc5 instantly
+[17:55:37] Acebulf: (19...) 20. dxe5 Nxe4 21. Be2 Qxe5, up a pawn?
+[18:13:23] Subhraneil24: go go acebulf
+[18:30:38] Acebulf: (27.) opportunity for shenanigans
+[18:35:42] Planincline_DB_Press: Nice tactickery
+[18:45:05] Tranzoo: gotta go now for some sort of attack involving Re3 I think
+[18:45:05] Tranzoo: its mate or bust
+[18:46:06] Tranzoo: hmmm maybe Re3 would be even more sensible than taking on the pawn...ok not here
+[18:46:36] Tranzoo: well, maybe even here
+[18:57:46] Planincline_DB_Press: Aw what happened
+[18:57:46] Inter-temporal: (37) (37.Qe7) what is this
+[18:58:47] Planincline_DB_Press: White is in a mustwin situation, so he has to play for a win. This definitely spices up the game
+[18:59:33] Inter-temporal: (37) (37.Qe7) ah. looks like a difficult situation
+[19:01:19] Inter-temporal: (37) (37...Rb8) ...Rg8, g3 Qb6 and pushes
+[19:01:19] Inter-temporal: (37) (37...Rb8) or not
+[19:02:20] Inter-temporal: (37...Rb8) does it give up the d-pawn. interesting
+[19:02:50] Inter-temporal: (38) (38...Qe6) if the Q was on b6 there'd have been Qxf2+. i think
+[19:03:51] Inter-temporal: (38) (38...Qe6) maybe white has chances now
+[19:04:06] Tranzoo: I think I can win a pawn maybe, but is that enough?
+[19:04:22] Tranzoo: or maybe i cant, ever mind
+[19:04:37] Inter-temporal: (38) (38...Qe6) pretty sure white's gotta stop the b-pawn first?
+[19:06:54] Inter-temporal: (39) (39.Qc5) these Q endings are nutty
+[19:07:55] Planincline_DB_Press: Can white create counterplay in time? These endings are so complex..
+[19:09:41] Inter-temporal: (40) (40.Rd6) and time pressure looming. should be dramatic. lol
+[19:14:30] Inter-temporal: (41) (41.Qc6) black just needs a draw tho
+[19:14:46] Acebulf: (40. Rb5) is good I like that I found that
+[19:15:01] Inter-temporal: (41) (41.Qc6) is there perpet
+[19:15:16] Tranzoo: too bad Qc2 didnt work I think
+[19:15:47] Inter-temporal: (41) (41...Qe5+) maybe not quite, but exposes white K now
+[19:17:48] Inter-temporal: (43) (43.Rxh6+) uh
+[19:17:48] Inter-temporal: (43) (43.Rxh6+) yeh
+[19:18:19] Inter-temporal: (43) (43.Rxh6+) checks!
+[19:19:05] Inter-temporal: (43) (43...Kg7) now there might be perpet on White's Q tho
+[19:19:35] Inter-temporal: (43) (43...Kg7) nutty endings
+[19:20:36] Inter-temporal: (43) (43...Kg7) maybe black now needs to keep Qs on.
+[19:21:37] Inter-temporal: (44) (44.Qd6) ...Qg5 looks like smth
+[19:22:07] Inter-temporal: (44) (44.Qd6) does ...Qg5 trap the rook?
+[19:25:40] Inter-temporal: (45) (45.Rh4) threatens Rg3+ Kh7, Qb8
+[19:26:41] Inter-temporal: (45.Rh4) then ...Rc8 and white takes the b-pawn
+[19:30:29] Inter-temporal: (46) (46...Kg8) here we go. one K gets flushed out into the open
+[19:31:00] Inter-temporal: (46) (46...Kg8) oh wait
+[19:32:31] OneKindKing: 47.Qg5+ was far more powerful
+[19:34:02] pepepibote: go tranzo
+[19:34:33] Inter-temporal: (50) (50.Rh4) yeh. 47.Qg5+ might have mated
+[19:34:33] OneKindKing: for sure
+[19:35:03] pepepibote: or lost a piece
+[19:38:52] Inter-temporal: (51) (51.Rh5) i think i found a funny mate after 47.Qg5+
+[19:40:08] Inter-temporal: (51) (51...Re4) it ends by rolling the Q & R on white squares down the 5th and 7th ranks all the way to the a-file. lol
+[19:41:09] OneKindKing: Qc6+
+[19:41:24] Inter-temporal: (53) (53.Qc6+) started with 47.Qg5+ Kf8 48Qd8+ Kg7 49Qh8+ Kg6 50.Qh7+ Kg5 51.Rh5+ then roll
+[19:42:55] Inter-temporal: (56) (55) (55...Qd4) at move 47 white could have claimed "mate-in-10" lol
+[19:43:56] OneKindKing: Qf4+
+[19:43:56] Inter-temporal: (57) (57...Kf6) time pressure in this kind of ending is brutal
+[19:44:11] jcarmody: (58..Kf6) Qh8+
+[19:44:11] Tranzoo: oh  thught my gueen is on a diffeterent sqare
+[19:44:11] OneKindKing: Qh8+
+[19:44:11] Tranzoo: ok but we still have Qh8
+[19:45:58] Inter-temporal: (69) (69...Kd7) respect. "Never resign (unless you feel like it)"--Capablanca
+[19:46:13] Inter-temporal: (71) (70...Kc6) maybe not capa, but someone
+[19:46:13] Inter-temporal: (73) gg
+[19:46:28] jcarmody: gg
+[19:46:28] OneKindKing: gg
+[19:46:28] tomb85: Gg
+[19:46:28] pepepibote: Ggg
