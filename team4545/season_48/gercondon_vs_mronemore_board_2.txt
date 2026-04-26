@@ -1,0 +1,149 @@
+Lichess game chat log
+Game      : https://lichess.org/wY60X8wW
+White     : gercondon
+Black     : mronemore
+Time      : 45+45
+Captured  : 2026-04-26 10:18:47 UTC
+Game ended : 2026-04-26 08:58:43 UTC
+Messages  : 139
+────────────────────────────────────────────────────────────
+
+[07:36:17] Oachkatzerlschwoaf: f4 rawr
+[07:36:32] Oachkatzerlschwoaf: white is out for blood this game
+[07:36:48] Oachkatzerlschwoaf: i have played the colle myself a bit but never this hyper aggressive
+[08:00:23] nyanners: good one. i played a similar idea with 4 h3 intending 5 g4
+[08:00:53] nyanners: if black sees it coming they can play 4..h6 immediately
+[08:01:23] nyanners: on that note, i dont like 3..Bf5 that much. if you want to be lazy id go with Bg4 and Bxf3 on h3
+[08:02:09] nyanners: jobava enjoyers would recognize 6..Nxe5 as a bail possibility
+[08:04:26] nyanners: interesting sequence. feel id go with 15 Bxb7 and switch to statics mode
+[08:04:56] nyanners: Qb3 is pretty clever
+[08:05:42] nyanners: though im not sure white actually wants to meet g5 with f5
+[08:05:57] Jox997: I would be worried about opening up the b-file for Black, but then again I'm always worried about everything :)
+[08:06:13] nyanners: like its a bit ironic that f5 could make it more likely for the f-file to be opened
+[08:06:58] nyanners: yea i mean, there are a few points that favour taking i think. b2 is protected, and on q takes then c7 is hanging with tempo,
+[08:06:58] nyanners: feels sorta relevant
+[08:07:59] nyanners: now well, of course if the bishop is stuck defending b2 thats a problem, but you might have the lateral Rh2
+[08:08:14] Jox997: You prefer Rh2 to b3?
+[08:08:14] nyanners: if youre 2 pawns up and bishop pair you can afford to try to survive
+[08:08:29] nyanners: if it looks realistic
+[08:08:45] nyanners: b3 is probably good. but i feel the structure i want is with e4
+[08:08:45] nyanners: and the bishop defends f4 from c1
+[08:09:00] nyanners: but might be a bit early to make the call
+[08:11:02] Jox997: (15.Qb3) Is Black choosing between Rab8 and Nb6?
+[08:11:32] nyanners: probably trying to give the pawn if i have a read on black's style XD
+[08:11:32] Jox997: (15.Qb3) hahahah
+[08:12:02] Jox997: (15.Qb3) Okay, there are some chances for kingside attack for Black
+[08:12:18] nyanners: yea its very weird like, this is surprisingly difficult to open
+[08:13:03] Jox997: (15...Nb6) Bxb7 now? :)
+[08:13:03] nyanners: like you have g5 and h5 but like ..h5 g5 Bxg5 Rg1!!?
+[08:13:19] nyanners: and black is the one dying.. probably
+[08:13:49] nyanners: i think i take on b7 yeah. not because i think its like super clearly accurate but it gives a clear game direction
+[08:14:04] nyanners: white has a lot of static advantages so just hold on and see what happens
+[08:14:35] Jox997: (15...Nb6) What is more accurate then :)
+[08:15:05] nyanners: idk you can look at development, trying to use the f-file yourself
+[08:15:20] nyanners: could be something like Ke2 Rf1
+[08:15:36] nyanners: i think either Ke2 or Kg2 get played eventually
+[08:15:51] Jox997: (15...Nb6) Yeah, it kinda sucks that White has undeveloped queenside
+[08:16:06] nyanners: like i feel Ke2 Bd2 Raf1 is the harmonious way and king goes to qside
+[08:16:36] Jox997: (16.a4) This was the first move that crossed my mind, but I didn't want to mention it :)
+[08:16:52] nyanners: a4 is, like, white really wants to take with q i guess. black can put a rook on b, or just embrace it
+[08:17:07] nyanners: in an abstract sense this is slightly bad for white's king safety
+[08:17:37] nyanners: probably wont matter
+[08:18:08] nyanners: yea the claim here is basically like okay Nd5 and dont care
+[08:18:08] nyanners: i kinda like it
+[08:18:38] Jox997: (16...Rhd8) I kinda like it for White :)
+[08:19:09] nyanners: i mean, white is always better, of course. but maybe it can start to get weird
+[08:19:24] nyanners: a5 nd5 qxb7 g5
+[08:19:39] nyanners: and white can take another pawn :)
+[08:21:10] Jox997: (17.a5) In general I don't like the idea of going after pawns before finishing development, but if it works it works :)
+[08:22:26] nyanners: yea you could ignore this entirely and proceed with some Kg2 kinda move
+[08:22:42] nyanners: but then why did you bother with Qb3 a4 a5..
+[08:23:12] Jox997: (17...Nd5) a4-a5 gains space
+[08:23:27] Jox997: (17...Nd5) Stockfish usually likes those moves :)
+[08:24:13] nyanners: i mean, i am the last person who will advocate for "having a plan", but this can be a bit all over the place
+[08:24:13] nyanners: like you did all that and your bishop is still on c1
+[08:24:43] Jox997: (17...Nd5) At least it defends e3 from c1 :)
+[08:24:59] Jox997: (17...Nd5) It's a good defensive piece
+[08:24:59] nyanners: and f4 :o
+[08:24:59] nyanners: d2 is clearly the square though
+[08:25:14] nyanners: unless.. you take on b7
+[08:25:59] Jox997: (17...Nd5) This is going to be a time scramble, it's not even move 20 and they are both pretty low on time
+[08:26:15] nyanners: yea white kinda psychologically committed
+[08:26:45] Jox997: (18.Qxb7) As you said, it's kinda hard to go back after a4-a5
+[08:27:15] nyanners: with the power of hindsight, i feel i liked early Bxb7 better than this. but black did well to prepare Nd5
+[08:28:01] Jox997: (18.Qxb7) Can you try to guess the eval here?
+[08:28:16] nyanners: uhhhhhh
+[08:28:32] nyanners: i mean, it kinda feels like its a either black has something or black doesnt situation
+[08:28:32] Jox997: (18.Qxb7) Yeah, it's very unclear
+[08:28:47] nyanners: could be like 0 to +3 ish
+[08:28:47] Jox997: (18.Qxb7) And I'm not even trying to calculate lines :)
+[08:29:02] nyanners: like if black has nothing its whatever, right. pawn up, bishop pair, potential
+[08:30:03] nyanners: like say white to move just goes Qc6. that looks very good
+[08:31:04] Jox997: (18.Qxb7) You don't want to grab more pawns with Bxd5 and Qxc7 :)
+[08:31:49] nyanners: im kinda concerned that a situationship could happen with the light squares
+[08:31:49] nyanners: Qa6+!?!?!
+[08:32:05] Jox997: (18.Qxb7) Yeah, I wouldn't trade that LSB
+[08:32:35] nyanners: also opens the e-file, whatever
+[08:32:35] nyanners: oooh its the g5 line..
+[08:32:50] nyanners: thats what i had thought :o
+[08:33:05] nyanners: this is honestly a bit scary
+[08:33:36] nyanners: like i cant believe this should "objectively" mean anything but, well, its a concrete moment
+[08:33:51] nyanners: white's resources are taking n, or Kg2/Ke2 Rf1, idk
+[08:34:22] nyanners: but black can also combine this with Rb8
+[08:34:22] nyanners: so Bxf4 allows Rxb2
+[08:34:52] nyanners: which would be a problem if the king is on e2/g2
+[08:35:07] Jox997: (18...g5) It looks like you're leaning towards Black is better :)
+[08:35:22] nyanners: naaaahh
+[08:35:53] nyanners: this is more like "things are happening more than they should"
+[08:36:23] nyanners: like the kind of position where if youre up against a better player you feel things are likely to go horribly wrong very soon
+[08:36:54] Jox997: (18...g5) I would be terrified as White :)
+[08:37:09] nyanners: yes sense of danger and all
+[08:37:39] nyanners: but well, if im up against lower, i feel inclined to trust in the adequacy of white's resources
+[08:38:25] Jox997: (18...g5) Is Rxh4 too much :)
+[08:39:41] nyanners: umm you have one useless piece for one useless piece of sorts
+[08:39:41] nyanners: which one is likely to spring? feels it could go either way
+[08:39:56] Jox997: (20...Kg8) We mentioned this line and you didn't like it
+[08:39:56] nyanners: i did not
+[08:40:27] nyanners: black has a bunch of infiltration potential
+[08:40:42] nyanners: qe6, qa6
+[08:40:57] nyanners: giant light square void
+[08:41:43] nyanners: maybe kg2 qe6 kh3 qe3 rf1 is enoug
+[08:42:13] Jox997: (18...g5) Trade light-squared bishop and then put all your pawns on dark-squares is not a good approach it seems? :)
+[08:42:29] nyanners: the ancients disapprove, yes :o
+[08:42:44] nyanners: but i feel the main issue is one of king safety
+[08:42:59] Jox997: (21.Qe5) This is why I wanted to bail out with Rxh4 which is probably too drastic
+[08:43:14] nyanners: if the kingside wasnt overextended that would be playable maybe
+[08:43:45] nyanners: yea in this line Rxh4 makes sense
+[08:43:45] nyanners: i feel white just missed Qa6 entirely. weird geometry stuff
+[08:44:15] Jox997: (22.Kg1) Not a position you want to be in with less than 10 minutes
+[08:44:30] nyanners: okay now you can play Rxh4 :o
+[08:44:46] nyanners: no yea this seems kinda terrible
+[08:44:46] Jox997: (22.Kg1) I said it first :)
+[08:45:16] nyanners: i suppose the core problem is that Rxh4 first doesnt really solve this either
+[08:45:31] nyanners: like okay queen wouldnt get to e2 but qd3 would still be bad
+[08:45:46] nyanners: and the bishop does not have any prospects anyway
+[08:47:33] nyanners: its actually kinda impressive how bad white's position is
+[08:47:48] nyanners: all the pieces are working together to tie each other
+[08:48:03] Jox997: (23...gxh4) hahahah
+[08:48:19] Jox997: (23...gxh4) Yeah it's not good to have 2 pieces on their starting squares on move 23
+[08:48:19] nyanners: i didnt think it was THAT bad but the more i look the more i feel white  could even just resign
+[08:48:49] nyanners: like qh5 forced?? but qe1 qg3 and push
+[08:52:37] nyanners: i cant see the actual end tho
+[08:53:08] nyanners: white gets Bd2 just in time to stop promotion
+[08:53:53] nyanners: so okay now white looks for the universe with Bd2-Be1. its possible black can counter that with pressure on e3
+[08:54:39] nyanners: in which case white would play, like, Kd3 Re1/Rh1 ish
+[08:58:58] IroncladUnicorn: GG
+[08:59:59] nyanners: gg
+[09:00:59] Jox997: gg
+[09:02:31] nyanners: really nice finds of active resistance
+[09:03:31] Jox997: Yes, but 19.Bxd5 is the mistake that cost White the game
+[09:04:17] nyanners: umm seems like thats already a tough call
+[09:04:17] nyanners: so personally id try to trace it back to something earlier
+[09:04:17] Jox997: I feel bad for White because they got a big advantage out of the opening
+[09:04:48] nyanners: like either Qb3 or Qxb7
+[09:04:48] nyanners: but its really difficult not to play Qxb7
+[09:06:04] Jox997: You pointed out Ke2 on more than one move which is a good prophylaxis against g5.
+[09:06:19] nyanners: was never too sure on ke2 vs kg2. like i wanted to go to the queenside eventually but after a4 that became less clear
+[09:07:20] nyanners: seems ke2 is generally favoured even after a4
+[09:08:05] nyanners: so im having some wrong concept somewhere, e.g. maybe a4 doesnt weaken queenside safety at all
+[09:08:05] nyanners: or maybe its just the kingside is inherently dangerous
