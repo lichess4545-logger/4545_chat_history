@@ -1,0 +1,109 @@
+Lichess game chat log
+Game      : https://lichess.org/YmLLoLTf
+White     : electricfalcon
+Black     : chessishard101
+Time      : 45+45
+Captured  : 2026-04-27 23:47:13 UTC
+Game ended : 2026-04-27 22:27:09 UTC
+Messages  : 99
+────────────────────────────────────────────────────────────
+
+[20:38:35] RajjSinghh: oh wow early game
+[20:40:52] Pineapplechiffoncake: They scheduled like 2 minutes before they started :)
+[20:44:10] RajjSinghh: that's not a pawn right? a6 Nc7 Ke7 or something
+[20:44:55] RajjSinghh: or Nd6 Bxd6 Bxd6 Kd7
+[20:46:27] jcarmody: (15..Nc4) b3, Nd2, Rfd1, Ne4, f3, Nf6, Bd6, Bxd6, Nxd6+
+[20:48:13] RajjSinghh: not forced though. you don't need to take on d6
+[20:48:59] RajjSinghh: Nc7+ Kd7 Nb5 a6 feels pretty nice for black though
+[20:52:32] RajjSinghh: hey Ekors
+[20:59:07] electricfalcon: hello all!
+[20:59:07] electricfalcon: not talked much this game
+[20:59:23] electricfalcon: I think we're alright with the opening. No major mistakes
+[20:59:53] electricfalcon: just gotta make sure not to lose any silly pawns. c2 is at risk.
+[21:00:08] RajjSinghh: black should be able to pick off c2, but I feel like there's something missed with the knight on c7
+[21:01:24] RajjSinghh: Be5, b5, double the rooks on the c file, shouldn't be too hard to get c2
+[21:03:41] RajjSinghh: 20...Rf8? too slow :/ wonder if we're ever playing c2-c4
+[21:27:47] electricfalcon: not really a good move here
+[21:27:47] electricfalcon: going to lose the d4 pawn
+[21:31:06] electricfalcon: not even sure thats the least worst move
+[21:44:17] electricfalcon: slow pawn death I can forsee
+[21:46:49] RajjSinghh: should black trade rooks with Rd2?
+[21:47:20] Darktigr: falcon feels the weight of his position..
+[21:48:05] Darktigr: there is no world where this isn't winning for black
+[21:48:36] Darktigr: (33...Kc5) Kd3 e5
+[21:50:07] Darktigr: 35.b4+ places that pawn on a dark square
+[21:50:22] Darktigr: whit wants e4
+[21:50:22] Darktigr: *white
+[21:51:08] Darktigr: perhaps 36.e4 holds then, if 35...Kd6 then after e4 black has Ke5
+[21:51:38] Darktigr: 36.Nd4, I don't see what white's idea is
+[21:51:53] Darktigr: after 36...e5 white has nothing
+[21:52:24] Darktigr: 37.Nf5 Kc6
+[21:52:54] Darktigr: 36...Bxd4 black has to be sure they're winning after 37.Kxd4
+[21:53:25] Darktigr: 37...Kx6
+[21:53:25] Darktigr: *Kc6
+[21:53:40] RajjSinghh: and that's how it's not necessarily clear that black wins this ;)
+[21:53:55] Darktigr: if 37...Kc7 then Kc5 holds
+[21:54:10] RajjSinghh: Kc6 Ke5 Kd7?
+[21:54:10] Darktigr: it's not abundantly clear that black wins even after that
+[21:54:26] Darktigr: 37...a5 38a3
+[21:54:56] Darktigr: black can get a passer in the center, but that's the weakest passer in a K+P endgame
+[21:56:12] Darktigr: 41.a4 is probably best. white can't even attempt zugzwang, so they might as well put a pawn closer to queening on the kingside
+[21:56:58] Darktigr: 41.h3 and black shouldn't touch b7
+[21:56:58] Darktigr: the further back their pawn is, the better
+[21:57:13] Darktigr: if black doesn't touch their b7 pawn, they should be winning
+[21:58:14] Darktigr: 42...hxg4 42.hxg4 Kd7
+[21:58:44] electricfalcon: if I can get a draw here I'll be happy
+[21:59:00] Darktigr: white is probably winning
+[21:59:00] Darktigr: i meant black
+[21:59:15] Darktigr: black is probably winning :P
+[21:59:15] RajjSinghh: was gonna say aha
+[22:00:00] ExirK: 42 Kf4 to Kg5 was a chance for white to win cleaner no?
+[22:00:16] Darktigr: can't help but blunder, even in chat
+[22:00:31] ExirK: a chance for white to try to clean up the pawns
+[22:00:31] Darktigr: white can't make a break for the kingside quite yet
+[22:00:46] Darktigr: there's still some play left after 43...Kd7 44.g5
+[22:01:01] Darktigr: 44...Ke7 45.g6
+[22:01:32] Darktigr: but if black plays g5 then..
+[22:01:47] Darktigr: okay black plays g5
+[22:02:02] ExirK: 41 Kf4, I meant. Not 42
+[22:02:02] Darktigr: the problem for black is white can make a break for the kingside or queenside
+[22:02:02] RajjSinghh: e4 de Ke4 Kd7 is pretty good?
+[22:02:33] RajjSinghh: of course it's good, white's stuck
+[22:02:33] Darktigr: Kd7 Kd4 tho
+[22:03:03] Darktigr: Kd6 Ke4
+[22:03:18] Darktigr: and if e5 there you have to calculate Kd5 Kxg5
+[22:03:33] Darktigr: e4 Kf4 Kd4 g5
+[22:03:49] Darktigr: honestly this could be a draw
+[22:05:05] Darktigr: *Kg5 Kd5 Kxg5
+[22:05:05] Darktigr: *Kf5 Kd5 Kxg5 ugh
+[22:05:20] RajjSinghh: no, de Kxe4 Kd6 Kd4 e5+ is quite simple
+[22:08:38] Darktigr: 46...Ke4 Ke6 Kd3 Kd5 Ke3 e4 then
+[22:08:53] Darktigr: 47.Ke4
+[22:09:08] Darktigr: Ke6 and if Kd3 then Kd5 wins
+[22:09:54] Darktigr: but if 47.Ke4 Ke6 48.Ke3 Kd5 49.Kd3 e4+ Ke3 does black win?
+[22:10:55] Darktigr: 50...Ke5 Ke2 yeah
+[22:11:10] RajjSinghh: Yeah, i mean black can play Ke5, and also make plays agains the other pawns
+[22:11:40] Darktigr: okay now I see the win for black
+[22:12:26] Darktigr: 49.Kd3 e4+ 50.Ke3 Ke5
+[22:15:29] electricfalcon: can the opponent even blunder here?
+[22:15:59] RajjSinghh: I was wondering if black still wins if he gets distracted with 51 Kc4 Kxe4 Kxb4 Kf5 Kc3 Kxg5 but it looks so
+[22:16:45] RajjSinghh: Kf4 is probably the most straightforward
+[22:20:03] RajjSinghh: you can resign this as white
+[22:20:18] RajjSinghh: Kf3 or e3 in some order
+[22:20:33] electricfalcon: pretty lost unless a stalemate accident occurs
+[22:22:50] electricfalcon: fully lost but lets see, never give up
+[22:23:51] jcarmody: (61.Ka8) Qxb7+ give it away and make another one
+[22:24:36] RajjSinghh: I don't like the decision to not take the white pawn
+[22:25:37] electricfalcon: I'll let him get the mate
+[22:26:38] electricfalcon: gg
+[22:26:38] electricfalcon: phew!
+[22:26:38] jcarmody: gg
+[22:27:09] pepepibote: gg
+[22:29:56] nyanners: gg
+[22:29:56] electricfalcon: tough game. didn't feel as bad as the computer says
+[22:30:11] electricfalcon: missed opportunity to bring it back at 37
+[22:31:57] jcarmody: pawn endgames are the worst!
+[22:32:13] RajjSinghh: It did look pretty rough, the knight on c7 was probably in too deep, the c2 pawn was a weakness, then you're a pawn down with very little
+[22:32:43] RajjSinghh: It's just that it's very easy to blunder a draw in king and pawn endings
+[22:34:45] electricfalcon: yeah indeed! I was trying to find a way to get the king round but those b and g pawns were just in the worst places
+[22:35:00] electricfalcon: well gg to opponent! It's late now, I shall review more tomorrow!
