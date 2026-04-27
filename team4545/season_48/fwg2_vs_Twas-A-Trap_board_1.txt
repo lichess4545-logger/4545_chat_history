@@ -1,0 +1,180 @@
+Lichess game chat log
+Game      : https://lichess.org/zICiDOWT
+White     : fwg2
+Black     : twas-a-trap
+Time      : 45+45
+Captured  : 2026-04-27 01:56:15 UTC
+Game ended : 2026-04-27 00:36:11 UTC
+Messages  : 170
+────────────────────────────────────────────────────────────
+
+[22:08:50] fwg2: after 6...Nc6, this is theory, but I need to think if a3 or 0-0 then a3
+[22:09:21] fwg2: or maybe it's not a3 unless he plays e4 in between
+[22:12:38] fwg2: 8...Rb8 was definitely not in my prep...have to wonder if b4 is still the right move here
+[22:19:29] fwg2: (11. Nd2) I know that Be3 in front of the pawn is sometimes an idea...not sure if it's correct here, but okay
+[22:22:01] fwg2: I'm still kanda annoyed I didn't have 8...Rb8 in my file...It naturally protects against the b4 sac...I look forward to checking with
+[22:22:16] fwg2: the engine
+[22:27:21] fwg2: is it just me or does 13. f4 look kinda good
+[22:29:38] fwg2: I'm thinking after 13. f4, b5 might be black's best move...but I hope I'm still fine
+[22:32:10] fwg2: Hopefully, I'm not weakening my king too much...will probably have to avoid losing the dark squared bishop
+[22:34:57] fwg2: Maybe Bg4 is also good for white and only then b5
+[22:35:58] fwg2: maybe Nd2 was a better idea than f4
+[22:39:47] fwg2: them spending something on the order of 10 min (hopefully) means they think it's not ideal but can't find a winning response
+[22:48:54] fwg2: they're the NM and all, but Be6 felt wrong...
+[23:00:19] fwg2: (17. Nf3)...I felt that while Bb3 or Nb3 look scary at first site, they don't do much long term
+[23:00:34] fwg2: we'll see if I was right
+[23:07:40] nyanners: some random maroczy goodness
+[23:15:17] nyanners: white seems happy? im not sure
+[23:17:19] Grzybozbur: i never know what's going on in the english, after a game sf always tells me half my moves made my position worse
+[23:18:04] fwg2: ahh mistake
+[23:20:21] Grzybozbur: even if there was no bg5, why would you want to play nc5 ever, where black can just take it?
+[23:21:07] nyanners: that trade seemed really good for white
+[23:21:37] Grzybozbur: hm
+[23:21:37] nyanners: even here there might still be a significant light square initiative
+[23:22:23] nyanners: umm well maybe not
+[23:22:53] nyanners: like opp b def to white's benefit but the pieces are a bit all over the place
+[23:23:09] ecoarrivazumashoomzo: go fwg2!! good luck out there
+[23:25:10] nyanners: i did think of qf7 and couldnt make any sense of it. that might be really good or really bad for white's chances
+[23:30:45] fwg2: (26. Qf7) I should be objectively losing, but I hope I can be a bit poisonous
+[23:31:00] ecoarrivazumashoomzo: can u take on b2?
+[23:31:00] nyanners: who knows XD
+[23:31:16] nyanners: i dont see the loss
+[23:31:16] ecoarrivazumashoomzo: ill take that as a yes? :)
+[23:31:31] nyanners: umm well you shouldnt
+[23:31:46] Grzybozbur: i don't know, but this knight gives a lot of compensation
+[23:32:01] fwg2: nothing would make me happier than seeing 26...Bxb2
+[23:32:16] fwg2: Bh6 seems best
+[23:32:47] fwg2: but then I have Qxa7 and b4
+[23:33:33] Grzybozbur: if black can somehow hold the kingside with just the heavy pieces, then bxb2 will pickup all the white queenside
+[23:33:33] ecoarrivazumashoomzo: ok fwg2, im with u i think u got comp
+[23:33:48] Grzybozbur: bh6 i didn't even consider
+[23:38:37] nyanners: the vibes are not bad for white id say
+[23:40:39] nyanners: like black has no clear way of dealing with any of this light square nonsense
+[23:41:24] Grzybozbur: but bf3 can't move, no?
+[23:41:39] nyanners: depends..
+[23:41:55] nyanners: kh3 is probably safe in most lines
+[23:42:10] nyanners: you could start with Kg2 when theres time
+[23:42:25] Grzybozbur: can black play 30....g5?
+[23:44:12] Grzybozbur: i somehow don't believe in this light square counterplay for white
+[23:44:27] nyanners: im only concerned when b2 is successfully taken
+[23:44:42] ecoarrivazumashoomzo: yh it looks crazy hard to play
+[23:47:29] nyanners: black is clearly concerned given the time usage XD
+[23:47:29] Grzybozbur: wait, that's 29...g5, not 30
+[23:47:29] nyanners: i would be too
+[23:47:45] nyanners: one issue with g5 is weakening h7
+[23:48:00] nyanners: it could be fine regardless
+[23:48:15] nyanners: i feel the main thing is i dont really fundamentally believe in g4 being worth it
+[23:48:30] fwg2: I doubt I'll truly get them under time pressure, but it sure would be nice (29. Nc5 3:40 min)
+[23:50:47] nyanners: going for qe1/qc1? :o
+[23:51:18] nyanners: if in time trouble id take this moment for 30 Kg2
+[23:51:33] nyanners: white can afford to look at random stuff
+[23:54:36] nyanners: this is probably good
+[23:59:09] Grzybozbur: i don't like qh6. where does it go from there? you can't offer queen trade and e3 is where you want the bishop to be
+[00:01:11] Grzybozbur: qf6 was defending the light squares and creating problems on f-file
+[00:01:11] ecoarrivazumashoomzo: 31.. but it could be g5 time
+[00:02:12] nyanners: it all remains to be seen
+[00:02:42] Grzybozbur: now i don't like g5, because the rook is no longer on g-file
+[00:03:43] Grzybozbur: ah, wait
+[00:05:30] Grzybozbur: maybe white can't take b5?
+[00:08:02] nyanners: g4 not working yet
+[00:10:04] nyanners: h3 is lazy but fair
+[00:10:34] nyanners: surely white is preferable at this point
+[00:11:20] Inter-temporal: (36) (36.Qc6) how do u evaluate it?
+[00:11:50] Grzybozbur: incorrectly!
+[00:12:06] Inter-temporal: (36) (36...Qg6) lol. but yeh, how do we do it anyway?
+[00:12:36] Inter-temporal: (36) (36...Qg6) how does nanners, MD, MS, PhGM, eval it?
+[00:12:51] Inter-temporal: (36) (36...qg6) dds
+[00:13:06] Inter-temporal: (36) (36...Qg6) let's see. there's checks, captures...
+[00:14:22] Grzybozbur: i only know that white has to avoid a queen trade
+[00:15:08] Inter-temporal: (37) (36...Qg6) via interference/self-pin or move it
+[00:16:09] Grzybozbur: i just mean in general
+[00:16:39] Grzybozbur: the moment queens are off white initiative disappears
+[00:18:26] nyanners: yea qg6 was a nice find for b
+[00:18:56] nyanners: maybe they just repeat soon
+[00:18:56] nyanners: white doesnt want to trade and black cant leave king defense
+[00:19:12] Inter-temporal: (40) (40.Qd6) i wuz even impressed by Bg4. kinda forgot it could move. lol
+[00:19:12] nyanners: but has enough feints
+[00:19:57] ecoarrivazumashoomzo: if qxa6 rxe4 woking?
+[00:20:43] Inter-temporal: (41) (41.Bf5) looks right to me
+[00:20:58] nyanners: white kinda sorta moving forward..
+[00:21:13] Inter-temporal: (41) (41.Bf5) nice. lsb come back to close the file
+[00:21:59] Inter-temporal: (41) (41.Bf5) on a scary outpost
+[00:22:14] Inter-temporal: (42) (42.Qe5+) oc, nanners was right all along. white better
+[00:22:45] nyanners: eh i feel white takes a draw
+[00:22:45] Inter-temporal: (44) (44.Qe6) yeh. 100%
+[00:23:15] Inter-temporal: (44) (44.Qe6) only 'cause white's better
+[00:23:15] nyanners: like i think white has more freedom but nothing to do with it
+[00:23:15] ecoarrivazumashoomzo: with the bishop on f5 i suddenly bealieve yo u
+[00:23:30] ecoarrivazumashoomzo: about the light squares
+[00:24:01] Inter-temporal: (44) (44...Qc7) ah. therez two files
+[00:24:31] Grzybozbur: but if white tries to play on light squares, black will get to f2
+[00:24:31] Grzybozbur: or g1 or something
+[00:24:46] Inter-temporal: (45) (44...Qc7)  the black Q leaves her K?
+[00:24:46] nyanners: umm i kinda missed that
+[00:24:46] nyanners: white moving waaaayy too fast??
+[00:25:02] nyanners: but ok qc1 qe5 i suppose
+[00:25:17] Mennonite: White must be a lot more confident about this than I am
+[00:25:32] nyanners: stalemate remains probably
+[00:25:47] nyanners: not as in like actual stalemate but in the world of ideas :o
+[00:26:18] Inter-temporal: (45) (45.g4) if i was black K and my Q dove into c1 or c2, we'd be having "words" later
+[00:27:19] nyanners: now e5 is covered.. but qc1 loses bite
+[00:27:49] nyanners: so white would have time for qe7 probably
+[00:27:49] Grzybozbur: there's qc2 maybe
+[00:28:19] nyanners: yea that seems potentially complicated
+[00:28:35] Mennonite: Qc2 then Qd7?
+[00:28:35] nyanners: maybe??
+[00:29:36] Inter-temporal: (45) (45...Bf4) so after ...Qxe2+ you play Nf2?
+[00:29:51] Mennonite: I'm looking at Qh6 here too
+[00:30:36] Grzybozbur: but nf2 can no longer take part in an attack
+[00:30:52] Inter-temporal: (46) (46.Qxa6) yeh, that's what i was thinkin too
+[00:31:07] Inter-temporal: (46) (46.Qxa6) not this move, but the Nf2 line.
+[00:31:22] nyanners: black is just trying to reduce the game to 0+45 and then we can win with our degen superiority
+[00:31:52] nyanners: okay this looks concerning to me
+[00:32:08] Inter-temporal: (47) (47.Kf2) the gentle art of self defense
+[00:32:23] nyanners: infiltration on the first seems actually meaningful
+[00:33:54] nyanners: yea its just....... lost??
+[00:34:09] nyanners: just like that
+[00:34:25] Inter-temporal: (48...Qd1) Qxa6 was possibly too expensive
+[00:34:40] ecoarrivazumashoomzo: tough game
+[00:34:55] nyanners: it sure was
+[00:35:26] nyanners: white is just going through the motions
+[00:35:26] nyanners: this is barely an attempt
+[00:35:41] nyanners: gg
+[00:35:41] ecoarrivazumashoomzo: wp both
+[00:35:41] Inter-temporal: gg
+[00:35:41] Mennonite: gg
+[00:35:56] Mennonite: Surprising given that White had plenty of time
+[00:35:56] fwg2: hey :)
+[00:36:11] Inter-temporal: apparently 47.Qa7 survives
+[00:36:26] fwg2: 46. Kh6 should've been played either way
+[00:36:42] Inter-temporal: or Qh6 as menno suggested
+[00:36:57] fwg2: Qh6 I meant
+[00:36:57] Inter-temporal: yeh
+[00:37:12] Inter-temporal: time pressure, oc
+[00:37:27] fwg2: I held my ground well against a NM
+[00:37:42] Inter-temporal: oh. wait, u had lots of time there.
+[00:37:58] Inter-temporal: pushing his clock?
+[00:37:58] fwg2: yeah....
+[00:38:13] Inter-temporal: so close
+[00:38:28] fwg2: to be fair, I thought I had something after Qxa6...miscalculated
+[00:38:43] Inter-temporal: ah. still. it was okay apparently
+[00:38:58] Inter-temporal: but made it harder, oc
+[00:39:29] fwg2: yeah, that's annoying
+[00:39:44] fwg2: I was very proud of my game until the rook vs Bishop trade
+[00:40:14] Inter-temporal: that turned the tables for a bit
+[00:40:30] fwg2: but I was quite amazed how I held on
+[00:40:45] fwg2: I was feeling as if I had the advantage again after some point
+[00:41:00] Inter-temporal: totally! never give up
+[00:41:15] fwg2: apparently 36. Bh5 was really good
+[00:41:30] fwg2: Qxa5 was essentially the opposite of a draw offer
+[00:41:46] fwg2: Qxa6*
+[00:42:01] fwg2: I thought Qh6 was a draw as they can never move the queen and neither can I
+[00:42:31] fwg2: okay...It's very late here...byeeee :)
+[00:42:31] Twas-A-Trap: bye!
+[00:42:31] Inter-temporal: a lot to gleen from this game. good one!
+[00:42:31] Twas-A-Trap: Well played
+[00:42:46] fwg2: thank you :)
+[00:43:17] nyanners: gg :D
+[00:43:32] Inter-temporal: "Always threaten mate-in-one"--Capablanca
+[00:43:47] Inter-temporal: lol or maybe that was nanners
+[00:44:18] Inter-temporal: :)
