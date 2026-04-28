@@ -1,0 +1,189 @@
+Lichess game chat log
+Game      : https://lichess.org/ACYp6i5d
+White     : tristanbrown17
+Black     : robertjackson
+Time      : 45+45
+Captured  : 2026-04-28 16:53:52 UTC
+Game ended : 2026-04-28 15:33:47 UTC
+Messages  : 179
+────────────────────────────────────────────────────────────
+
+[14:03:30] Pineapplechiffoncake: Let's go Tristan!
+[14:03:30] TristanBrown17: the database was all over the place
+[14:03:30] TristanBrown17: so I'm somewhat expecting a scandinavian, but we'll see
+[14:03:30] parziwal08: Have a good one, Tristan!
+[14:04:00] parziwal08: Hi pineapple and macha!
+[14:04:00] macha1313: (1...d5) Go Tristan!
+[14:04:46] Pineapplechiffoncake: Hi parziwal!
+[14:04:46] TristanBrown17: my Scandinavian theory is not fantastic.
+[14:05:01] TristanBrown17: and I saw he recently played this variation, so I don't think I have to do anything particularly special
+[14:09:04] TristanBrown17: alrighty. We might transpose into something similar
+[14:09:20] TristanBrown17: my guess is that if my oppo has studied Scandi, he knows that based on the LSB interaction, the development scheme should be different
+[14:09:50] TristanBrown17: i.e. an early c6 typically has positions against white with c3 and d4, but I've already committed to an early d4
+[14:09:50] TristanBrown17: no matter, it's just a game of chess.
+[14:12:22] TristanBrown17: very passive
+[14:12:37] TristanBrown17: it's move 6. KISS
+[14:12:53] TristanBrown17: keep it simple stupid for my non-english first language peeps. :)
+[14:13:23] TristanBrown17: hi nick (I don't know who nick is
+[14:13:38] Pineapplechiffoncake: English is my first language but I had to google it :D
+[14:13:53] TristanBrown17: but hello to all my team. You guys (and gals) are fantastic!
+[14:14:09] TristanBrown17: and hi fischer, I was just thinking about our game from last season
+[14:14:24] Fischer_and_Chips88: game you schooled me in
+[14:15:40] Fischer_and_Chips88: this position is much more tame an equal
+[14:17:11] Fischer_and_Chips88: c4 Nc3 Re1 all looks nice for white
+[14:17:11] hpors: Go Robert !
+[14:17:42] Fischer_and_Chips88: I'm off to sleep now, go Tristan!
+[14:19:13] robertjackson: 8.c4 coming up - methinks
+[14:21:30] macha1313: (8.c3) I'm a little surprised we didn't get c4 a while ago. At least, that's how I've learned to play against the Scandinavian, but
+[14:21:30] parziwal08: Huh. c3. Triatan playing slow and solid. It's fine but c4 would be more energetic.
+[14:21:45] macha1313: (8.c3) maybe at higher ratings people know how to deal with it better
+[14:21:45] robertjackson: (8) 8.c3 was unexpected
+[14:23:16] robertjackson: still to decide whether 0-0 or 0-0-0 and charge king side  - depends on the position I guess
+[14:24:17] macha1313: (8...Be7) c3 does pretty severely restrict the DSB? though that piece feels a lot less dangerous since there was no real threat in Bb4
+[14:25:33] nyanners: yes c4 is thematic for this variation
+[14:25:33] parziwal08: That's right. And c4 would seek to prod at black's unfinished development too by gaining a tempo on the queen.
+[14:25:49] parziwal08: Hi Nyanners! Nice to have you.
+[14:26:04] susiedent: go tristan !!!!!!!
+[14:26:04] TristanBrown17: my gosh, hello everybdoy
+[14:26:04] nyanners: white might have a bit of scandi ptsd. i feel most players have played some game where they play c4 and black mysteriously goes O-O-O Nc6 e5
+[14:26:19] nyanners: and somehow you cant do anything about it
+[14:26:19] nyanners: but yea this position is pretty different from those
+[14:26:34] TristanBrown17: thinking of rerouting my knight to f1 via d2 like in the tartakower caro kann
+[14:26:50] TristanBrown17: because where does the DSB really want to go anyways?
+[14:27:20] TristanBrown17: probably Be3
+[14:27:35] TristanBrown17: this is a completely novel position for me, so it'll be a fun game regardless
+[14:27:35] TristanBrown17: also hi nyanners! Don't judge me too harshly today. I don't know my Scandi theory
+[14:27:50] nyanners: too late D:
+[14:27:50] TristanBrown17: but I did just finally cross 1700 USCF, so now I get to play the Open section!
+[14:28:51] nyanners: nice :D
+[14:29:07] TristanBrown17: potentially looking to expand in the center with c4 at some point
+[14:29:07] nyanners: i mean, this is no big deal. black's setup is too passive and white should still be better
+[14:29:22] TristanBrown17: this feels like a completely playable position
+[14:29:22] TristanBrown17: well, I'm going to go make a coffee
+[14:29:37] TristanBrown17: be back in 5
+[14:29:52] nyanners: black's only true theoretical counter is fastplay with Bg4 Nc6 O-O-O
+[14:31:23] TristanBrown17: well that's odd
+[14:31:23] TristanBrown17: I didn't attack your queen yet
+[14:31:23] TristanBrown17: free tempo for me xD
+[14:33:56] TristanBrown17: alright
+[14:33:56] TristanBrown17: half assed evaluation time
+[14:34:26] TristanBrown17: my knight on g3 is positionally a nice piece, holding e4, and serves to pressure the kingside, with an available retreating square
+[14:34:41] TristanBrown17: my f knight is just kinda there, but fights for e5, and supports d4
+[14:35:12] TristanBrown17: LSB kinda stinks, but should be strong if it stays on due to pawn structure
+[14:35:27] TristanBrown17: my DSB is my worst piece, so it's probably what I should look at first to improve, although I'm still not sure where to develop it
+[14:35:42] TristanBrown17: and my rooks are fine I guess. I don't know what to do with the queen here, and they're disconnected, but idk man
+[14:35:57] nyanners: i like it
+[14:36:13] TristanBrown17: so anyways. I would argue slight edge to white due to space and piece activity
+[14:36:28] robertjackson: thinking 12....BxNf6 here
+[14:36:28] nyanners: just wouldnt be so harsh to lsb
+[14:37:29] TristanBrown17: woot woot
+[14:37:29] TristanBrown17: I got the bishop pair
+[14:37:44] TristanBrown17: warm up the buses
+[14:37:44] TristanBrown17: jk, we've got a ways to go
+[14:41:17] robertjackson: ....well I am still in the game!
+[14:42:33] nyanners: both sides happy, i guess :o
+[14:43:34] nyanners: though i would say white is clearly better
+[14:45:51] robertjackson: bit wary of attempts to trap my Queen or diag attacks from B on f3
+[14:51:26] macha1313: (13...Rfd8) is there anything to white playing Nh5 here? Black's N on f6 doesn't have really good places to go, it seems.
+[14:52:26] TristanBrown17: my middlegame is still so trash
+[14:52:42] TristanBrown17: but I'm starting to work on How to Reassess Your chess by Silman, which should help?
+[14:58:16] nyanners: nh5 is, like, a thing you can do but doesnt really change things for the better for white
+[14:58:16] robertjackson: must try to slow down .....as usual
+[14:58:32] nyanners: black can just replace the knight with the other one
+[14:58:47] TristanBrown17: please play c5
+[14:58:47] TristanBrown17: it's a tricky little mistake
+[14:58:47] TristanBrown17: hi scrooge
+[14:59:33] TristanBrown17: dangit
+[15:00:18] TristanBrown17: no no mr knight. stay over there
+[15:01:50] nyanners: ahh the Nc4 feint. black's true purpose now revealed :o
+[15:03:36] robertjackson: probably wise to stop and think here (19...)
+[15:06:54] nyanners: im not even sure white is still better
+[15:07:09] nyanners: this pressure black has with the major pieces seems kinda relevant
+[15:07:25] nyanners: but bishop pair?? if white can get c4 and remain stable should be fine
+[15:10:12] robertjackson: vague threat 20...QxNg3
+[15:13:30] robertjackson: oooh is that possible - better double think 20...QxNg3
+[15:15:01] TristanBrown17: f**k me
+[15:15:32] nyanners: XD
+[15:15:47] robertjackson: will find out shortly if I have blundered (21)
+[15:17:18] nyanners: time to assess the damage
+[15:17:49] nyanners: i feel if the b4 pawn was still on b2 this would be like a pretty acceptable position
+[15:18:04] nyanners: as is there is some risk of the entire thing crumbling
+[15:19:20] nyanners: yea without the bishop pair white has nothing to be happy about
+[15:19:20] nyanners: but there might be some regular swindling opportunities
+[15:22:53] robertjackson: f7 looks a bit of a target for white - not to mention back rank mate threats
+[15:34:18] nyanners: gg :o
+[15:34:48] parziwal08: Why did black take a draw in such a position? My goodness.
+[15:35:03] nyanners: maybe didnt count? big spook? 3 pieces on f7 after all
+[15:36:19] parziwal08: After qh4, black could at least play re8 to keep the queen out and f7 is protected twice too.
+[15:37:05] TristanBrown17: I'm going to count my blessings to escape with a draw there
+[15:37:20] TristanBrown17: I thought I had such an edge out of the opening, bummer to not convert
+[15:37:35] TristanBrown17: but better than a loss
+[15:37:51] nyanners: yeah there are many ways to defend f7, of course. i feel most likely black thought it was still twofold
+[15:38:06] TristanBrown17: I was trying to make Qxf7+ work xD
+[15:38:06] TristanBrown17: would've been cool. But I'm not that good
+[15:38:36] TristanBrown17: very well played by robert man
+[15:38:36] TristanBrown17: ggs
+[15:39:07] TristanBrown17: awh dangit
+[15:39:07] TristanBrown17: it was one of those c4 positions
+[15:39:07] TristanBrown17: back to the books
+[15:39:22] TristanBrown17: I mean even then, I had an edge
+[15:39:37] nyanners: white is kinda fundamentally better if black takes it slow in this line
+[15:39:52] nyanners: the main issue with no-c4 is that its a bit harder to find squares for your pieces
+[15:40:38] nyanners: and, well, you arent taking as much of the center, no tempo on the queen, etc
+[15:40:53] TristanBrown17: yea, but I thought that I might have Ne3 to gain tempo on the queen, no?
+[15:41:39] nyanners: its only a true tempo if your piece improves
+[15:41:54] nyanners: is Ne3 a good square? umm it could go c4-e5
+[15:42:55] robertjackson: enjoyed the game Tristan - all the best
+[15:42:55] nyanners: but that doesnt seem great compared to Ng3
+[15:43:10] TristanBrown17: and wow
+[15:43:40] TristanBrown17: I missed that at 17, apparently c4 is playable
+[15:43:55] TristanBrown17: but I thought after Nb4, Qe4, it doesn't feel real comfortable
+[15:44:41] nyanners: you would be right
+[15:44:56] nyanners: dont want c4 hanging
+[15:45:11] nyanners: the bishop getting trapped is kinda crazy
+[15:45:11] TristanBrown17: ...
+[15:45:11] TristanBrown17: the engine is brutal
+[15:45:27] TristanBrown17: if Nb4, Bxb4, Bxb4, c5!!
+[15:45:42] TristanBrown17: Sorry nyanners, my chat is being laggy and I have to keep refreshing the screen
+[15:46:12] nyanners: that said i feel you missed c5?
+[15:46:27] nyanners: like, black's c5
+[15:46:43] TristanBrown17: Oh. I saw c5
+[15:46:58] TristanBrown17: but I didn't think it was as bad as it actually ended up being
+[15:46:58] TristanBrown17: poor evaluation by me
+[15:47:28] nyanners: fair
+[15:47:59] TristanBrown17: I just missed the attack on the knight
+[15:48:14] TristanBrown17: so that stinks
+[15:48:29] TristanBrown17: because I was also considering Ne4, but then I thought the knight felt misplaced ther
+[15:48:44] nyanners: its a bit sneaky because you might have only seen Bxc5 as a recapture and not as a "development", and surely not a threat
+[15:48:44] nyanners: not uncommon
+[15:49:15] nyanners: when setting traps its good to disguise them under a layer of plausibility :p
+[15:49:30] TristanBrown17: Yea, I think it's yet another lesson in needing to pause and re-evaluate the position with threats, weak squares/pieces, etc.
+[15:49:45] TristanBrown17: all of which is middlegame stuff where I'm just trash
+[15:50:00] TristanBrown17: but, pertinent positives, I feel like I'm playing better and my opening made more sense than it has in previous games
+[15:50:46] nyanners: umm its hard to say. like, its easy to get caught up in hindsight bias like ooh obviously should have reevaluated
+[15:51:01] nyanners: okay, its a long game. but consciously going through some sorta checklist every move is very cumbersome
+[15:51:31] nyanners: i tend to think of it more in terms of tactical radar being "on" or "off"
+[15:51:47] nyanners: if you can induce it to be off that can create lots of opportunities, subjectively :o
+[15:52:32] nyanners: a lot of opening traps work that way, theres the infamous christiansen-karpov 12 move loss, etc
+[15:54:34] nyanners: and developing that tactical radar awareness is like.. experience and practice? or something
+[15:55:04] nyanners: like a really good player can blitz a bunch of moves and stop at just the right moment
+[15:56:20] nyanners: theres a lot said about how to be excessively intrincate
+[15:56:35] nyanners: but not much is said about the importance of pruning and zoning in the most relevant variations and saving time and energy
+[15:57:06] nyanners: thats my digression on thought process and the dangers of excessive structure :D
+[15:57:06] nyanners: gg
+[15:58:22] nyanners: worth concluding by saying this is not quite a mainstream opinion on my part so take it for what it seems worth
+[15:58:37] TristanBrown17: ggs naynners!
+[15:58:52] TristanBrown17: I'm not that good of a player, but I'm working at it. I'm going to try and get to National Master at some point, but I don't think it's
+[15:58:52] TristanBrown17: very likely
+[15:59:07] TristanBrown17: I always appreciate your insight!
+[15:59:23] nyanners: ummmmm i mean, its still like a dozen thousand hours or whatever from where you are
+[15:59:53] nyanners: its as possible as you care for it to be..
+[16:00:08] nyanners: i dont think youre like approaching a hard limit and suddenly it will become impossible or w/e
+[16:00:23] TristanBrown17: I've got time. Sorta
+[16:00:23] TristanBrown17: xD
+[16:00:23] nyanners: it just might simply be not worth it
+[16:00:23] nyanners: adults often have better things to do
+[16:01:24] nyanners: like, you need strong inner motivation. if your life is going well it might be better placed on a job, or your loved ones, whatever
+[16:02:10] nyanners: the "local prodigy" is most likely spending 10 hours a day and even more
+[16:02:40] nyanners: it might not be very deliberate or structured but it sure is dedication
+[16:06:28] nyanners: cya gl :D
