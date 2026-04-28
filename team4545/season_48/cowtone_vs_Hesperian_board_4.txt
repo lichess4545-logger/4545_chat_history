@@ -1,0 +1,126 @@
+Lichess game chat log
+Game      : https://lichess.org/NBy4kBcm
+White     : cowtone
+Black     : hesperian
+Time      : 45+45
+Captured  : 2026-04-28 20:52:58 UTC
+Game ended : 2026-04-28 19:32:54 UTC
+Messages  : 116
+────────────────────────────────────────────────────────────
+
+[17:08:20] Joonaf: go cowtone!
+[17:17:13] simonWasHere: Go Hesperian!
+[17:29:38] Joonaf: maybe 12.b4?
+[17:31:10] Joonaf: or now 12..a5 for black, to stop b4, and to make it easier to do ..c5 in the future
+[17:31:55] Joonaf: and maybe Ba6
+[17:34:58] simonWasHere: The pawn on e5 looks annoying
+[17:35:59] Joonaf: black could aim to do ..c5 to attack d4 and that way weaken e5
+[18:03:07] Warvold: (17.exd6) Hi guys!
+[18:03:07] Warvold: (17.exd6) Go Hesperian!
+[18:06:55] matthewhuber: go cowtone!
+[18:07:26] Joonaf: Hi!
+[18:25:41] Darktigr: 23.Rxe4 gives a game!
+[18:29:29] Warvold: (22...Qf4) Does it?
+[18:30:30] Warvold: (22...Qf4) Rxe4 Rxe4 Qxf4 Rxf4 Re7 Rxd4 Rxc7 Rd1+ Kh2 Ra1
+[18:30:46] Warvold: (22...Qf4) or maybe d4
+[18:31:01] Warvold: (22...Qf4) Ahh
+[18:31:16] Warvold: (22...Qf4) Nevermind
+[18:32:02] Warvold: (22...Qf4) Rxe4 Qxd2 Rxe8+, is that good for black tho?
+[18:32:32] Darktigr: he might not wanna go for it
+[18:33:33] Joonaf: I wouldn't dare Q for RR trade, with either color :D
+[18:33:48] Warvold: (24.Rxe8+) Welp
+[18:33:48] Warvold: (24...Kf7) Here we go
+[18:34:19] Warvold: (24...Kf7) R1e7+ Kg6 Rxc7 Qd1+ Kh2 Qxd4 R8e7
+[18:35:04] Warvold: (24...Kf7) Or maybe better to play Qxd4 without the check first R8e7 Qa1+ Kh2 Qxa3
+[18:35:04] Darktigr: 25.R1e7+ Kg6 Rxc7 Qxd4
+[18:35:35] Warvold: (26.Rxc7) I wanted Qd1+ first to win the f2 pawn, but it may be better to win the a-pawn
+[18:36:05] Warvold: (26.Rxc7) Qxd4 looks better, then Qa1+
+[18:36:20] Darktigr: maybe 27.Re3, maybe Ree7
+[18:38:07] Darktigr: if black threw in the check first, they would've had Qxf2 here
+[18:38:22] Warvold: (27.Ree7) Rooks annotations will always be funny to me x)
+[18:38:22] fireball100: Just got here - interesting game! looking kind of drawish..
+[18:38:53] Warvold: (27.Ree7) I don't think it'll end in a draw at all
+[18:39:38] Warvold: (27.Ree7) It's quite unbalanced, the strength of both rook vs the mobility of the queen
+[18:39:38] fireball100: a win for Hesperian would be great!:)
+[18:39:53] Warvold: (27.Ree7) He is considering f5 I think
+[18:40:24] Warvold: (27.Ree7) It does not look great tho
+[18:41:40] fireball100: f5 yes Qb2 is another option but that is worse for black I tink
+[18:41:55] Warvold: (27...Kf5) Qa1 was great
+[18:42:10] Warvold: (27...Kf5) Still playable, Rf5 was almost force next move anyway
+[18:42:41] Darktigr: Kf5 indicates he wants Qa1+ followed by Qe5+ after Rxg7
+[18:42:41] Warvold: (27...Kf5) Right
+[18:42:56] Warvold: (27...Kf5) That's a good idea
+[18:43:11] Warvold: (27...Kf5) A drawish idea probably
+[18:44:43] Darktigr: maybe white opts for Rc5 to play on
+[18:49:01] Warvold: (28.Rc5) a5?
+[18:52:50] Warvold: (28.Rc5) Not that easy
+[18:53:05] Warvold: (28.Rc5) a5 Rxa5 obviously too
+[18:53:05] Warvold: (28.Rc5) Guess my rook blindness is not gone yet
+[18:54:06] Warvold: (28.Rc5) Rg6 i guess
+[18:56:53] Warvold: (28...g5) Hmm, interesting
+[19:03:59] fireball100: Qc4 I guess
+[19:05:00] Darktigr: Qc4 Re1 and Rd1 is coming
+[19:17:11] fireball100: qf4
+[19:20:44] Warvold: (37...Qe2) a4 f4 Rg8+
+[19:21:29] Warvold: (38.a4) Kf5 R3xf4 f3 maybe
+[19:22:15] Warvold: (38...Qe6) It's a good idea
+[19:24:02] Warvold: (39...Qf6) I like Qe5 more
+[19:25:02] Warvold: (40.Rdd3) Nevermind
+[19:25:02] Warvold: (40.Rdd3) It was a good trap too
+[19:25:02] Warvold: (40.Rdd3) Just got it
+[19:25:48] Warvold: (40.Rdd3) Qh4 Kg1 f4?
+[19:26:03] Warvold: (41.Kg1) Rd6+ Kf5
+[19:26:34] Warvold: (41.Kg1) I think there is at least repetition?
+[19:27:04] Warvold: (42...Kf5) Maybe more
+[19:28:05] Warvold: (43...Ke4) Repetition is good
+[19:30:22] Warvold: (46.Kg1) Yep
+[19:30:37] Darktigr: it's a draw
+[19:30:52] Warvold: (47.Kh2) A nice one
+[19:31:08] Warvold: (47.Kh2) Very interesting endgame
+[19:32:08] Darktigr: hard to tell where white missed a win
+[19:32:39] Joonaf: ggwp
+[19:32:54] simonWasHere: gg
+[19:32:54] Warvold: gg
+[19:32:54] fireball100: fgg
+[19:33:25] Darktigr: gg
+[19:35:41] Hesperian: was quite close, a little too close for comfort
+[19:35:57] cowtone: didn't check the computer analysis yet, i think the end game was losing to me
+[19:36:27] Hesperian: 27. Kf5 in mind of 28 g4 trying to either trap my K and perhaps mating, f5 seemed quite weakening
+[19:36:57] Hesperian: It felt like I had a chance at some point after Rg3, but you defended well
+[19:37:58] Hesperian: Tbh I knew RR v Q was possible after Qf4 but didn't do my due diligence making sure it was playable. I'd have probably chose another way
+[19:39:14] cowtone: i felt before my king got in trouble in end game, i had a chance to push my q side pawns
+[19:39:45] Hesperian: my guess is that if you're more aggressive with the Rs it probably is winning for white
+[19:40:00] Hesperian: I'm not checking the computer right now
+[19:40:15] cowtone: shouldn't have let you to weaken my king safety
+[19:41:31] cowtone: probably I played too passively at some point
+[19:41:46] Hesperian: 29. Re3 was confusing to me
+[19:42:01] Hesperian: I figured you'd at least grab the free h pawn
+[19:42:17] Hesperian: after I got in h5 I felt a lot less pressure
+[19:43:02] cowtone: actually, 29. Rxh7 would have prevented your king side push as well
+[19:43:17] Hesperian: definitely
+[19:43:48] cowtone: my idea was to block all of the counterplay, and i thought that your counterplay was to push the d pawn somehow
+[19:44:18] cowtone: and i wanted to push my q side pawns, so i defended the a pawn as well
+[19:45:50] Hesperian: Makes sense, but generally I've found that passive play in endgames either draws wins or loses draws
+[19:46:05] cowtone: yeah that applies to chess in general I think
+[19:46:20] Hesperian: haha of course
+[19:46:50] cowtone: i read somewhere that in RR vs Q, q is better when kings are open as there are more possibilites for forks
+[19:47:21] cowtone: it's more difficult to keep rooks connected than to play with queen
+[19:47:36] Hesperian: I see
+[19:47:51] cowtone: so it was probably the right idea to push k side pawns
+[19:50:23] Hesperian: that opening choice definitely threw me for a loop
+[19:50:54] Hesperian: I understood the only difference is that my and your King B isn't deployed but I still didn't know what to do
+[19:51:24] cowtone: i knew 5 first moves
+[19:52:55] Hesperian: I see, occurs to me now that I probably should've taken on c3 and fought for the e pawn
+[19:53:26] Hesperian: but either way I guess there's always exd6 which I forgot about
+[19:54:57] cowtone: there is an interesting line against ponziani opening, 4.. Nxe4 5. d5 Bc5
+[19:56:28] cowtone: i think I would play 3.. d5 against 3. c3, white has to play Qa4
+[19:59:46] Hesperian: I think I was missing a lot early on because I was only considering d5 after Nxe5 and forgot about 5.d5
+[20:01:47] cowtone: i am little confused of what you mean
+[20:04:04] Hesperian: sorry I meant I forgot you had 4.d5 after Nxe4
+[20:04:35] Hesperian: feels like I lost to that before a long time ago
+[20:04:50] Hesperian: I too forgot I had 3...d5
+[20:05:35] cowtone: all in all, I think the opening was pretty even
+[20:06:36] cowtone: felt like I was able to create some weak pawns on your q side just before trading the rooks and queens
+[20:07:07] cowtone: ok, thanks for the game. it was an interesting one
+[20:14:27] Hesperian: yes gg
+[20:16:29] GoldenRetrieverChess: gg both!
