@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/FHmZtQ37
+White     : le_merovingien
+Black     : wolfsblut
+Time      : 45+45
+Captured  : 2026-04-28 21:21:32 UTC
+Game ended : 2026-04-28 20:01:28 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[19:01:36] NameGoesInHere: go merovingien!
+[19:02:06] Pineapplechiffoncake: let's go merovingien!
+[19:02:22] markmarkedymarkmark: Go Merovingien!
+[19:03:53] Le_Merovingien: Hi Chiffon, hi Namego, hi m^4
+[19:04:23] Le_Merovingien: Ah, the clock does nto start. Cool :)
+[19:04:54] Le_Merovingien: Tonight, we face a wolf butt...
+[19:04:54] Le_Merovingien: Did I misread?
+[19:05:24] Le_Merovingien: A French. That's big prep and yoghurt county (cf two games ago)
+[19:06:25] Le_Merovingien: He's flicking through his book or what?
+[19:07:26] Le_Merovingien: 4. c3 novelty in the French advance...
+[19:07:56] NameGoesInHere: (4.c3) presumably deciding between the usual ...Nc6 lines and these ...Qb6/...Bd7 sideline where you try and trade the LSBs
+[19:09:58] Le_Merovingien: Wait, I have a doubt. Everyone plays Qb6 here... is it Na3 or Bd3?
+[19:10:13] Le_Merovingien: In doubt, play the safe move
+[19:12:00] Le_Merovingien: now it's muddy
+[19:12:30] Le_Merovingien: No. It's g4. Pretty sure.
+[19:12:30] wolfsblut: good point. I'm usually not that chatty.
+[19:13:16] Le_Merovingien: and if Nh6, it's the Rg1 line, otherwise h4 business. He loses an attacker on d4.
+[19:14:02] NameGoesInHere: (8.g4) early g4, always fun for the spectators!
+[19:14:02] Le_Merovingien: We're in book. I think...
+[19:14:17] Shurbz: Mero!!!
+[19:14:47] Pineapplechiffoncake: One master game in the database at this point
+[19:15:33] NameGoesInHere: (9.Rg1) yeah, I've seen this idea before but usually in setups where white has a3-b4 instead of Na3-c2
+[19:15:33] NameGoesInHere: (9...Bd7) interesting to see how it plays out here
+[19:16:03] Shurbz: Kind of love the position
+[19:16:03] Le_Merovingien: I am not sure I remember why I need to play these moves but it is in my rep'
+[19:17:04] Le_Merovingien: I remember lines with Ng5... it's weird. I think it should be mostly uncomfortable for Blakc who conceded a lot of space
+[19:18:36] Le_Merovingien: No clue what to do...
+[19:18:51] Shurbz: Well what does black do after ng5?
+[19:20:07] NameGoesInHere: (10...O-O-O) well Ng5 doesn't threaten anything immediately right?
+[19:20:22] NameGoesInHere: (10...O-O-O) ...f6 or something that prepares it is always on the agenda in these french structures
+[19:20:52] Le_Merovingien: Bg5 natural but opens lines. dxc5 natural but develops Black and might lead to exchanges, whcih woudl favor Black because they lack space
+[19:23:09] Le_Merovingien: Be2 feels too passive. Bh3?
+[19:23:25] NameGoesInHere: (10...O-O-O) maybe white should try and prepare something on the q-side, but not clear how to do so
+[19:24:26] wolfsblut: just in case there are any germans here:
+[19:24:41] Le_Merovingien: That looks interesting, planning to push g5.
+[19:25:26] wolfsblut: Dein Satz sieht (ohne Zensur) sehr wahrscheinlich ungefähr so aus:
+[19:25:42] wolfsblut: „Nom de Dieu de putain de bordel de merde de saloperie de connard d’enculé de ta mère.“
+[19:25:57] wolfsblut: echt jetzt?
+[19:25:57] Shurbz: My candidates were Na3 and Bxh6
+[19:26:43] Le_Merovingien: OK. I have space. Black has the pawn breaks. I need to make sure they lead nowhere
+[19:26:58] Pineapplechiffoncake: I don't speak French but I have a feeling I don't want to google what he just wrote :D
+[19:27:13] NameGoesInHere: (12.g5) I was considering 11.Bxh6, but not sure how I feel about the open g-file there
+[19:27:59] Le_Merovingien: thematic exchange... do I go for it or not?
+[19:27:59] Le_Merovingien: I have second thoughts...
+[19:28:59] Le_Merovingien: Bxf5 exf5 Bf4 and danger for Black
+[19:29:45] NameGoesInHere: (14.Bf4) eh, ...Be6 seems like it shut down any discovery
+[19:32:02] NameGoesInHere: (15.b3) interesting position. If black can get it ...f6 they look pretty good, but the g5-pawn is doing a good job at stopping that atm
+[19:32:17] Le_Merovingien: It's not clean chess but the French is always messy. Wine stains all over.
+[19:32:33] serenemoose: Go Merovingien!
+[19:33:18] Le_Merovingien: I need to close the game to let my two chevaux win over the two fous
+[19:35:20] Shurbz: I guess kf1 -> kg2-> kh is always an escape idea
+[19:37:22] Le_Merovingien: Ncxd4 Nxd4 Nxd4 Bb5 cageing the King is prevented.
+[19:37:37] Le_Merovingien: But the lines open. Pfff... Black is better.
+[19:38:07] NameGoesInHere: (16.Ncxd4) yeah, at least Kf1 I think is quite likely, but black can open the k-side pretty easily
+[19:39:23] Le_Merovingien: Rc1 is obvious. Kg1 is what I want to play.
+[19:40:40] Le_Merovingien: Kf1 Nxd4 Nxd4 Rxc3 down a Pawn with a Rook in my camp.
+[19:41:25] Le_Merovingien: Kf1 Nxd4 cxd4 and Ba3 gets me from behind...
+[19:41:56] Shurbz: Do we need to leave our bishop on f4
+[19:42:11] Le_Merovingien: Can I play Kf1 here?
+[19:46:45] Le_Merovingien: Kg2 Nxd4 Nxd4 Bxd4 cxd4 Rxc2 Qxc2 Qxd4... miserable
+[19:48:01] Le_Merovingien: Methinks that I need to take the c6 Knight but the line is the same afterwards...
+[19:48:47] Le_Merovingien: Nxc6 Rxc6 Nd4 Bxd4 cxd4 Rxc2 Qxc2 Qxd4 boom
+[19:49:02] NameGoesInHere: (19...Bc5) maybe you can get away with allowing ...Nxd4 if you recapture with the pawn first?
+[19:49:47] Le_Merovingien: The Kg2 line also makes the Bishop vulnerable since the black Queen ends on d4...
+[19:50:18] Le_Merovingien: wait. Nxc6 Rxc6 Qxd5!!!?
+[19:50:48] Le_Merovingien: Duh, that works
+[19:51:19] Le_Merovingien: So he has to take with the Bishop, then the Rook is not a threat and I can play Nd4?
+[19:52:04] Le_Merovingien: I hope I am getting out of the wolf butt...
+[19:59:26] Le_Merovingien: ... just saw the tactic...
+[19:59:41] wolfsblut: Bb5 next
+[19:59:56] Le_Merovingien: It's dead...
+[20:00:11] Le_Merovingien: like hanging mate in one...
+[20:00:27] Le_Merovingien: and my pieces are terrible..
+[20:00:57] Le_Merovingien: ah well... Rc2
+[20:00:57] Le_Merovingien: Jesus
