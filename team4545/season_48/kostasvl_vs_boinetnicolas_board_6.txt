@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/vcOPMCMu
+White     : kostasvl
+Black     : boinetnicolas
+Time      : 45+45
+Captured  : 2026-04-29 18:10:11 UTC
+Game ended : 2026-04-29 16:50:06 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[15:22:21] Leverkuhn: if White achieves g4, h6, and g5, he could inter the bishop on h8 forever
+[15:23:21] Leverkuhn: Black will have to use his development lead to prevent that somehow
+[15:23:37] Leverkuhn: certainly could consider 14...Ng3
+[15:24:38] Leverkuhn: 14...a6 is mysterious, and 15.g4! looked strong to me,
+[15:27:40] jfiras: (16...Rc8) Good luck Nicolas !
+[15:33:45] jfiras: (18.g4) i expected 14...Ng3
+[15:34:01] jfiras: (18.g4) but maybe not that good as after Nxh5 the knight has no good square to go to
+[15:34:46] boinetnicolas: 18... Qa8 let's try this out
+[15:35:01] Leverkuhn: nice move!
+[15:35:01] jfiras: (18...Qa8) yeah seems good
+[15:35:32] Leverkuhn: It seems like White has to try 19.Nf2, but Black's initiative is now crushing
+[15:36:48] Leverkuhn: look for Black to keep his foot on the gas with 19...Rb8!
+[15:42:23] boinetnicolas: 21... Bh8 probably the worst bishop in the world currently
+[15:42:23] jfiras: (21...Bh8) these pawns are scary
+[15:42:53] jfiras: (21...Bh8) feels like black can't take advantage of this space behind them
+[15:43:24] jfiras: (21...Bh8) black is struggling :(
+[15:49:14] jfiras: (23.f5) Rc4?
+[15:49:44] jfiras: (23.f5) Rc4 Qd2 Rc8+
+[15:49:59] jfiras: (23.f5) maybe
+[15:49:59] jfiras: (23...Rc4) Qd3*
+[15:50:14] Leverkuhn: queen trap on an open board!
+[15:50:14] boinetnicolas: 23... Rc4 is the queen trapped ?
+[15:50:45] jfiras: (23...Rc4) i hope so i don't trust my calculations xD
+[15:51:00] jfiras: (24.Qd3) do it
+[15:51:46] boinetnicolas: I think it's worth
+[15:51:46] jfiras: (24...Rc1+) absolutely
+[15:53:02] Leverkuhn: Black needs a few more good moves to close this out
+[15:54:18] Leverkuhn: if White gets to solidfy with Ke2 and Rhd1 or something, he's still in the game because of the h8-bishop
+[15:54:18] jfiras: (27.gxf5) be careful, Rg1+
+[15:54:33] Leverkuhn: Black should certainly looks for a winning tactic against the loose f3 knight right now
+[15:55:34] Leverkuhn: he gave White a tempo for defending f3, and now the very late 28.0-0!? should be considered
+[15:57:21] Leverkuhn: Wow Black moved instantly rather than considering any more agressive knight moves
+[15:57:36] Leverkuhn: 28...Nc3+ was more natural
+[16:01:39] boinetnicolas: 29... Qd5 this is getting tricky.
+[16:02:25] Leverkuhn: White still fighting
+[16:05:58] jfiras: (31...Bxe5) nice
+[16:06:28] Leverkuhn: Black shouldn't have too much trouble now
+[16:06:44] Leverkuhn: 31.Re1 made the capture on e5 dicier
+[16:10:32] jfiras: (34.Kc2) trade rooks maybe?
+[16:21:42] boinetnicolas: 38...Rf7 doesn't feel good to play as black right now
+[16:22:12] jfiras: (38...Rf7) it's double edged in my opinion
+[16:35:39] boinetnicolas: 41. Bb4 I think I'm mated here ?
+[16:36:55] Leverkuhn: there's 41...Qa4+ 42.Kb1 Na3+ 43.Kxb2 Qc2+ with unclear consequences
+[16:39:12] boinetnicolas: Did i even need to sac lol
+[16:41:14] Leverkuhn: crazy game
+[16:41:59] Leverkuhn: unfortunately for White he can't hold after 43.Re8+ Kf7 44.R1e7+ Qxe7
+[16:42:30] Leverkuhn: so he has to deal with ...Qd2+ and ...Na3+ both, and probably can't
+[16:42:30] jfiras: (42...Qxb4) wow Qxe7 is courageous
+[16:42:45] jfiras: (42...Qxb4) but yeah clearly winning
+[16:43:00] Leverkuhn: it think it would be pretty easy for
+[16:43:00] Leverkuhn: Black actually; the king has to babysit b1
+[16:43:46] jfiras: (43...Kf7) i hope you go for Qx Nicolas
+[16:44:01] boinetnicolas: Oh, it says my opponent left. Maybe wifi issues ? In any case I'll just wait, naturally
+[16:44:16] boinetnicolas: They're back !
+[16:44:47] jfiras: (44...Kf6) oh :(
+[16:45:17] Leverkuhn: didn't look like Black even considered it; got distracted by the brief disconnect maybe
+[16:46:33] samisasleep: Is there a win for white?
+[16:47:34] Leverkuhn: I don't see it, but it's a huge mess
+[16:47:34] Leverkuhn: weird that White didn't want to calculate with 30 min there
+[16:48:20] Leverkuhn: 46.Rf7+ was more natural to remove the rooks from the queen's gaze, but who knows?
+[16:49:36] Leverkuhn: White played a variation that runs out of gas quickly; I was looking at 46.Rf7+ Kg4 47.Nf6+
+[16:49:51] boinetnicolas: 47...Kh5 I think it's over
+[16:49:51] jfiras: gg !
+[16:50:06] Leverkuhn: but 47...Kg6 48.Nxh7+ Kxh6 also wasn't getting there, so maybe it was just lost the whole time
+[16:50:06] Leverkuhn: gg!
+[16:50:37] boinetnicolas: That was extremely well played by my opponent there. Honestly feels that I got lucky to not get mated at the end
+[16:51:37] Leverkuhn: yes, good fight after losing the queen
