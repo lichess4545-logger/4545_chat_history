@@ -1,0 +1,87 @@
+Lichess game chat log
+Game      : https://lichess.org/njqyWEsZ
+White     : cjsailer
+Black     : ttotr
+Time      : 45+45
+Captured  : 2026-04-29 03:35:47 UTC
+Game ended : 2026-04-29 02:15:44 UTC
+Messages  : 77
+────────────────────────────────────────────────────────────
+
+[23:54:13] karasso: go TTotr
+[00:59:08] nyanners: very sicilian
+[00:59:23] nyanners: closing the c-file should be a bit in black's favour
+[00:59:39] nyanners: white probably wanting to hit b but it's more difficult
+[01:15:37] KamagayaJiji: Looks better for black (sez a guy with low confidence in his B vs. N assessment)
+[01:17:24] jdw10: i think whoever figures out how to centralize their king first will win this one
+[01:20:11] KamagayaJiji: Time for black to bring their king to the party...
+[01:35:39] nyanners: nah i think youre right. white is a bit stuck
+[01:35:55] nyanners: if the white king was a bit worse itd probably be lost
+[01:39:43] KamagayaJiji: b4 was a bit too hasty, I think
+[01:40:44] nyanners: its either really good or really bad :o
+[01:40:59] nyanners: probably closer to really bad
+[01:41:14] jdw10: king steps into the square of pawn so it is lost
+[01:41:29] nyanners: naaahh you see
+[01:41:44] nyanners: white wins the pawn but.... costs everything??
+[01:41:44] jdw10: blacks only hope is to hold a draw if white accepts the exchange
+[01:42:00] nyanners: Kxa3 Kc3 and black wins
+[01:42:00] nyanners: i think
+[01:42:45] nyanners: or, more specifically, Bxa3 bxa3 Kc3 Kd5 Kb3 Kd4 Kxa3 Kc3
+[01:43:01] nyanners: so white seems wise to decline the temptation
+[01:43:31] nyanners: and now.. maybe black ijust loses the pawn? im not totally sure
+[01:44:01] nyanners: white can take it on the b-file since then the black king doesnt manage to invade that way
+[01:44:32] nyanners: but there are resources like, b3 Kxb3 Nd4+ into Ne2
+[01:45:33] nyanners: of course white can take it slow..... maybe? :D thats for them to figure out
+[01:46:49] nyanners: b4 might have been hasty but its also weirder than i thought
+[01:48:05] nyanners: after e3 i feel i kinda like black again
+[01:48:20] nyanners: black really making the most out of that tension
+[01:49:21] nyanners: now maybe 43..f4!? to get some squares. exf4 and black will get at least the pawn back soon
+[01:49:21] nyanners: *exf4 Kf5
+[01:50:52] karasso: 43. ... Ne1 looks also strong
+[01:51:08] jdw10: how does black respond to kb3?
+[01:52:24] nyanners: yea i mean, i think the issue here is that black lost the squares for now
+[01:52:39] nyanners: all black wants is to get the king in
+[01:52:39] nyanners: and then can play to win despite being a pawn down
+[01:53:40] nyanners: like if im white here i offer a draw while that isnt looking obvious yet
+[01:54:10] nyanners: white is definitely on the worse side of it
+[01:55:11] karasso: 45. ... b3, Kxb3 Kd5 and than ke4 Ng2
+[01:55:26] nyanners: even here seems like white cant prevent Ke4 longterm even if this was a bit weirder
+[01:55:57] nyanners: yess. strong
+[01:56:27] nyanners: is this like just lost
+[01:56:42] nyanners: kinda crazy
+[01:58:14] karasso: Yeah...Kxb3 Kd5 Kc2 Ke4 Kd2 Nxf4
+[01:58:29] nyanners: 47 Kc3 forced i think. still havent solved that one
+[01:58:29] nyanners: *Kd3
+[01:59:45] jdw10: such an interesting position, it looks like whit is better until you start calculating and everything changes
+[02:00:00] nyanners: like Kd3 Kd5 but then it seems a bit difficult to give check while not leaving the knight loose so you can play Ke4
+[02:01:16] nyanners: but white is in some trouble for sure
+[02:01:31] nyanners: this one i think is lost yes
+[02:02:17] karasso: Yeah, i also could  it find sth directly but it looks like there should be sth
+[02:04:19] nyanners: okay Nxf4 wins like almost for sure. looking at Kf3 for science
+[02:04:34] nyanners: yea felt black was missing it
+[02:04:49] nyanners: this one seems unclear because white can actually make the pawn count in many lines
+[02:05:35] karasso: Seems now like a draw again
+[02:05:50] nyanners: or maybe not. like, e4 Kg4 leads to another situationship
+[02:05:50] nyanners: but maybe white just doesnt push
+[02:06:05] nyanners: and e3Bd4 is unbreakable
+[02:06:05] nyanners: no wait, then black has h6 etc
+[02:06:21] nyanners: but thats weird.. can allow e4 probably.. idk
+[02:06:36] nyanners: what is for sure is that white's chances greatly improved
+[02:09:38] nyanners: yea i didnt like this one. might be trivially winning even
+[02:10:09] karasso: Kd4 maybe. Nxf4 Bxf4 Kxf4 e5
+[02:10:24] nyanners: this is a good optical illusion but doesnt work
+[02:10:39] nyanners: black promotes first
+[02:10:55] nyanners: so okay qvq+2 but yeah shouldnt hold
+[02:11:55] karasso: Well at least it's a queen endgame. Always some hopes
+[02:11:55] nyanners: or well my bad, black doesnt promote first. but it doesnt really matter
+[02:12:26] nyanners: ooh bluff went through
+[02:12:56] nyanners: so okay i suppose black tries to get Kf5 but im not sure thats possible
+[02:13:42] nyanners: in some universe black tries too hard and loses to Kxh7 Kxg6
+[02:14:12] nyanners: probably <1% though
+[02:15:28] nyanners: fair
+[02:15:28] nyanners: gg
+[02:15:28] karasso: gg
+[02:15:28] nyanners: good fight :D
+[02:15:44] jdw10: gg
+[02:16:45] nyanners: heh 53..Kf3 is clean. didnt see that
+[02:16:45] nyanners: though Nxf4 also indeed works
