@@ -1,0 +1,112 @@
+Lichess game chat log
+Game      : https://lichess.org/o8KRjmuj
+White     : paulze2000
+Black     : banshee3333
+Time      : 45+45
+Captured  : 2026-04-30 18:15:42 UTC
+Game ended : 2026-04-30 16:55:38 UTC
+Messages  : 102
+────────────────────────────────────────────────────────────
+
+[14:29:45] Banshee3333: I prepped for 2. e4, but so be it. I have some lines here
+[14:31:16] Banshee3333: Nice to get this one on the board. I think I messed this line up last time I played it
+[14:31:31] Banshee3333: Will be good to play it again.
+[14:31:46] Banshee3333: Admittedly though my prep is sparse after this. I have 7. Ne5, but anything else and I have to think for myself :P
+[14:32:47] Banshee3333: I guess against most things other than Ne5 I can just develop
+[14:34:34] Banshee3333: Nice moves to eventually play in those cases might be ...b5, ...Nd5, ...Be7, not necessarily in that order
+[14:34:34] Banshee3333: But good, we stick with my prep
+[14:35:35] Banshee3333: Oh and if no Ne5, I think ...Nc6 was probably best next
+[14:35:50] Banshee3333: in principle
+[14:36:36] Ekors55: (7...Qc8) go banshee!!!
+[14:38:07] Banshee3333: White's move was supposed to be 8. Qd3 in my line. I think this is better for me; I can recapture with the queen after Nxd7
+[14:39:23] Banshee3333: Lemme just take a sec to make sure Qxd7 is right here
+[14:39:38] Banshee3333: My prep move is 8. Qd3 Nc6 9. Nxd7 Nxd7
+[14:40:39] Banshee3333: Point here is that after 8. Qd3, I would have had to recapture with the knight to avoid the queen trade, losing some time later
+[14:41:25] Banshee3333: Eventual Na5 might be interesting if I can control a few more squares on the 4th rank
+[14:41:40] Banshee3333: I think premature here though
+[14:42:56] Banshee3333: Will also need to keep an eye on the pressure along h1-a8
+[14:43:42] Banshee3333: My theory plan here though is O-O and rooks to the center
+[14:43:57] Banshee3333: In some cases after I can go ...h4-h5 and start an attack
+[14:44:58] Banshee3333: Maybe 11...O-O 12. Bg5 and I might have to worry about c5.
+[14:48:31] Banshee3333: I was looking forward to an IQP after 2. e5 :'(
+[14:50:48] Banshee3333: 11...O-O 12. Bg5 b6 13. say Qb5 and I have ...Rc1 to keep things under control
+[14:51:34] Banshee3333: I think O-O looks okay
+[14:53:05] Banshee3333: Lot of queenside light squares start to open up after ...b6 though
+[14:56:38] Banshee3333: Assuming ...Rac8 isn't forced, do I want rooks on e and d or d and c? e rook prepares pawn breaks maybe?
+[14:57:54] Banshee3333: c rook might prepare later ...c4 break too though
+[14:59:25] Banshee3333: Maybe a plan like ...Rc1, ...Na5, and ...c4 under the right conditions
+[15:01:57] Banshee3333: I could also try to play with the d4 and b4 squares
+[15:04:45] Banshee3333: I think Bg5 and Bxf6 isn't really that scary. I play ...b6 and ...Rc8 if necessary, and my dark bishop is as nice as White's light bishop
+[15:06:31] Banshee3333: Well Black doesn't have to take on f6 to force moves like ...b6 and ...Rc8 though
+[15:08:03] Banshee3333: Another idea in some cases might be ...Nd4 and ...b5, but  I don't know if that's worth weakening c5 like that
+[15:09:04] Banshee3333: The e2 pawn might be something to watch for an idea like that
+[15:09:34] Banshee3333: If ...Nd4 threatens ...Nxe2, it might be stronger.
+[15:11:05] Banshee3333: Anyway, ...Nb4 features a lot in my prep for these positions. Should watch for that too, especially with the queen cut off from c2
+[15:12:37] Banshee3333: I wish I remembered what setup I studied for White here. Would be useful to compare against this setup
+[15:13:38] Banshee3333: Bg5 played. I could sac c5, or play ...b6
+[15:13:53] Banshee3333: Also should consider other ways to defend c5, but e.g. ...Qd6 seems precarious
+[15:14:38] Banshee3333: ...b6 seems like it makes some progress, solidifying my queenside pawns, which in principle sounds good since I'm up tempoagainst my prep
+[15:15:39] Banshee3333: I'm just rather worried about my e7 bishop being bad and my queenside light squares being weak there
+[15:16:55] Banshee3333: The pressure against the c6  knight there is never fun either, but I think ...Rc8 fixes that
+[15:18:42] Banshee3333: Also should consider Qh4 ideas
+[15:19:58] Banshee3333: Say Bxf6 Bxf6 Qh4 and Be4. Probably just ...h6 there and I'm fine
+[15:20:44] Banshee3333: Another option maybe is to try to chase White's queen away from c5?
+[15:21:14] Banshee3333: Say ...Ne5, and the knight can go to g6 later
+[15:22:00] Banshee3333: I'd rather not condemn the knight to g6 though. I don't see what future it has from there
+[15:22:30] Banshee3333: I think trying to keep access to d4 and b4 is better for the knight
+[15:23:01] Banshee3333: I probably want to play ...b6 eventually anyway.
+[15:25:03] Banshee3333: ...Rac8 next, maybe ...Rfd8 after and maybe throw in ...h6 at some point
+[15:25:33] Banshee3333: At a glance I don't think a plan like ...h5-h4 is in the cards today
+[15:26:49] Banshee3333: Also worth pointing out -- if ...h6 Black probably doesn't have Bh4 because ...g5. Need to account for the weakening, but probably fine
+[15:27:20] Banshee3333: So I remove White's bishop pair or White has to find a new place for the bishop
+[15:27:50] Banshee3333: If ...Bxf6 we get opposite colored bishops -- maybe not fun.
+[15:29:06] Banshee3333: I planned ...Rc8 here. ...Nd4 doesn't look like it works, so I don't think there's much to think about
+[15:32:24] Banshee3333: I'm calculating ...Nd5 first
+[15:33:10] Banshee3333: Eh what's the point of ...Nd5. ...Rac8 looks fine and is simple
+[15:33:41] Banshee3333: I guess ...Nd5 and I avoid the potential for opposite colored bishops
+[15:35:12] Banshee3333: Still have ...Nd5 to calculate later if I need it for something
+[15:37:29] Banshee3333: Should watch for ideas like e3, d4. I think ...h6 is a simple move here. Also with the queen on b5 maybe a kingside attack makes sense af
+[15:37:29] Banshee3333: ter all
+[15:39:00] RajjSinghh: I don't think black is set up for an attack, but trading the active white pieces can only help
+[15:41:02] RajjSinghh: I don't actually know what black is set up for, and that's the problem
+[15:42:49] Banshee3333: I want ...Rfd8, and I want to solve the problem of my poor bishop. Stabilizing a knight on d5 might be nice too
+[15:43:04] Banshee3333: Maybe ...Bd6 and ...Ne7 is an idea
+[15:43:35] ChessisHard101: Maybe Rfd8 with the plan of Nd4. Not sure if a queen trade is great though
+[15:44:05] Banshee3333: Maybe I could play for something like ...Qd4 and ...Ng5. If e3 then d3 is weak
+[15:44:51] Banshee3333: Immediate ...Nd5 might be okay too?
+[15:49:40] Banshee3333: If White refuses bishop trade, maybe ...h4-h5 starts to look a little better
+[15:51:12] Banshee3333: * ...h5-h4
+[15:52:13] Banshee3333: hmm maybe should have looked more carefully at 16. d4?
+[15:53:44] Banshee3333: Well d4 cxd4 Rxd4 Nxd4 Qxd7 Nxd7 Bxd6 Rfd8 I think is just an exchange for me.
+[15:55:31] Banshee3333: If we can keep some tension, my opponent might run into time trouble soon
+[15:55:46] Banshee3333: ok time to calculate 16. d4 more carefully since it's on the board
+[15:57:02] Banshee3333: Also ...cxd4 Rxd4 e5 might be an option
+[15:58:18] Banshee3333: ...cxd4 Bxc6 maybe needs to be considered
+[15:58:48] Banshee3333: I think this position is critical
+[15:59:04] Banshee3333: let's take my time
+[16:00:35] Banshee3333: Was calculating ...Bxf4, but I think cxd4 is prolly simpler. Let's start there
+[16:02:06] Banshee3333: So cxd4 Bxc6 might be a problem
+[16:08:42] Banshee3333: 17. Bxc6 I wasn't able to calculate entirely, but I thought the position looked kinda drawish after that
+[16:10:59] Banshee3333: ooh what about Bxh6 here? Did I blunder that?
+[16:10:59] Banshee3333: wait no
+[16:11:14] Banshee3333: Queen can't go to g5 after Bxh6 so I think it's fine
+[16:15:33] Banshee3333: Maybe Rxc6 and keep queens on to try to hit the light squares later
+[16:17:35] Banshee3333: Hope I got that right. I'm a little low on time now
+[16:18:20] Banshee3333: ooh but maybe Rxd4 I have e5
+[16:20:37] Banshee3333: not enough time but was looking at ...Rc5
+[16:20:53] Banshee3333: Just ...e5 and Bxe5 i think
+[16:20:53] RajjSinghh: yeah the position is getting really tricky, black needs to be careful
+[16:21:23] RajjSinghh: Rd6 Qd6 Rd1 etc
+[16:31:47] Banshee3333: I need some automatic moves
+[16:31:47] Banshee3333: so low on time
+[16:49:33] Banshee3333: Kingside seems somewhat stable. Let's try to infiltrate on the other side?
+[16:51:50] Banshee3333: oh no should have gone ...a5 first
+[16:51:50] Banshee3333: Now b4
+[16:53:06] Banshee3333: Now the queenside locks up
+[16:55:38] Banshee3333: Yeah I think I agree this is drawn. Shoulda gone ...a5.
+[16:56:08] Paulze2000: gg
+[16:56:23] Banshee3333: Good game!
+[16:57:24] Banshee3333: Computer thinks it's pretty much even all the way through. That's fun XD
+[16:58:25] Banshee3333: White's advantage was never more than 0.2, and Black never had the advantage
+[16:58:55] Banshee3333: Or no that's wrong. Computer doesn't like ...b6
+[16:59:26] Banshee3333: But the computer's line is something I never would have played in a million years XD
