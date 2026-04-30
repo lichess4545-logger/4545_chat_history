@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/IXYT8N1J
+White     : gmat20020
+Black     : m0r1
+Time      : 45+45
+Captured  : 2026-04-30 20:57:31 UTC
+Game ended : 2026-04-30 19:37:27 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[18:38:02] Mennonite: go M0r1!
+[18:52:01] Inter-temporal: (20) (20.O-O-O) undefended f2?
+[18:52:31] Inter-temporal: (20) (20.O-O-O) but double attacked d4
+[18:53:47] Inter-temporal: (20) (20.O-O-O) ...Qf6 might be an interesting counter, Qb4+ Kg8, ___ hm
+[18:58:21] Mennonite: the immediate threat here is Nb3+. If Kb1, does Black have anything immediate before h3 can be played?
+[19:00:08] Inter-temporal: (20) (20...Qd7) if Kb1 Nf2,
+[19:00:54] Inter-temporal: (20) (20...Qd7) Bc4 Nf2,
+[19:01:24] Mennonite: of course!
+[19:01:39] Inter-temporal: (21) (21.Rd2) uh ob
+[19:02:10] Mennonite: what if Nf2 anyway?
+[19:02:25] Inter-temporal: (21) (21.Rd2) ...Nb3+ is still there?
+[19:02:40] Inter-temporal: (21) (21.Rd2) ohhh. not
+[19:02:40] Inter-temporal: (21) (21.Rd2) lol
+[19:03:11] Inter-temporal: (21) (21.Rd2) but yeh, ...Nf2 is still there
+[19:03:26] Mennonite: Nf2 forks h1 and d3 after all
+[19:03:41] Inter-temporal: (21) (21.Rd2) what about ...e3, just looking at
+[19:04:12] Inter-temporal: (21) (21.Rd2) renews the ...Nb3+ idea
+[19:05:13] NxN: Nf2 Be3
+[19:05:28] Mennonite: Nf2 Be3 Nd3+ looks strong
+[19:07:14] NxN: Nf2 Be3 Nd3+ Bxd3 exd3 Qxd3
+[19:07:45] NxN: if Nxh1 Bxd4 sac the rook for strong attack
+[19:11:18] Inter-temporal: (22) (22.Be3) Nice!
+[19:12:34] Inter-temporal: (22) (22.Be3) the self-pin with ...Qd7 seemed risky
+[19:13:04] NxN: also the  other rook is prisoned
+[19:13:20] Mennonite: I think NxN has refuted my idea sadly
+[19:13:20] NxN: and white Bishops there will make  a dangers attackers
+[19:13:35] NxN: :D
+[19:14:21] Inter-temporal: (22) (22...Nxh1) there was a similar situation in Scarff v FunnylikeAclown
+[19:14:21] NxN: Cause didn't find a strong why for black after Nd3 , will lose the  e pawn
+[19:14:51] Inter-temporal: (22) (22...Nxh1) (black K on f8; white's 0-0-0; both h-rooks stuck, etc)
+[19:15:06] Inter-temporal: (22) (22...Nxh1) but they started to go separate ways. lol
+[19:15:21] Mennonite: wait isn't this just lost for black?
+[19:15:37] Inter-temporal: (23) (23.Bxd4) it's bad, yeh
+[19:16:07] Mennonite: 23...f6 24.Bxf6 Qxd2+ 25.Rxd2 Rxd2 26.Bxg7+ is hopeless
+[19:16:38] Inter-temporal: (23) (23.Bxd4) maybe get B+R for Q
+[19:16:38] NxN: f6 Bc5+ whith discover
+[19:16:38] NxN: on queen
+[19:16:53] NxN: king should go g8
+[19:17:23] Inter-temporal: (23) (23.Bxd4) not seeing a good defense
+[19:17:54] NxN: Kg8 Bc4 and  black may try to save
+[19:18:24] Mennonite: yes i think that is the only try
+[19:19:10] Inter-temporal: (23) (23...Qf5) resourceful!
+[19:19:56] Inter-temporal: (23...Qf5) but Bxg7+ and Rxd8 looks rough
+[19:20:11] Mennonite: what am i missing here? 24.Bxg7+ and Kg8 is M1, and if Ke8, Rxd8+ and if Ke7,
+[19:20:11] Mennonite: Qb4+
+[19:21:12] NxN: Qxf1 is hope for black
+[19:22:43] NxN: 2 B for N
+[19:22:58] Mennonite: time to put the pieces back in the box
+[19:23:14] NxN: Yeah :D
+[19:23:44] Inter-temporal: (28) (28...Nf2) "Never resign! (unless you feel like it)"--
+[19:24:30] NxN: h3 and try the  knight or get the  e pawn
+[19:25:16] Inter-temporal: (29) (29...f5) Ns are tricky. and a passer on e4 is smth
+[19:27:02] NxN: if white kan get his K to e3 quickly
+[19:27:02] Mennonite: huh. i tabbed away to another game for a second, and... the game at least continues
+[19:27:33] NxN: there is a hope as there is a passer :D
+[19:27:48] Inter-temporal: (32) (32...Kd6) i agree with this, oc. 100%. there's still play in the position
+[19:31:36] NxN: Expected Ba7 aim to screw the  N
+[19:32:53] Inter-temporal: (36) (36) (36.Bc3) oh. i just looked back. i guess the N needed to get out of there asap
+[19:33:08] NxN: Yes
+[19:38:13] Inter-temporal: (41) gg
+[19:38:58] Tranzoo: gg
+[19:39:13] Inter-temporal: 19...Nf3+ for real? wow
+[19:39:29] Tranzoo: thats cute
+[19:39:44] Inter-temporal: now that i see it, oc, i recognize it
+[19:40:14] Inter-temporal: but super sharp position
+[19:40:14] Tranzoo: cool move for sure
