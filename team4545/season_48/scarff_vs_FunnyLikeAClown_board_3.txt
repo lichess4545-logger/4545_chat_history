@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/upmksqaP
+White     : scarff
+Black     : funnylikeaclown
+Time      : 45+45
+Captured  : 2026-04-30 20:49:21 UTC
+Game ended : 2026-04-30 19:29:17 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[18:12:54] Scarff: looks pleasant out of the opening so far. Space, development, options to castle both sides
+[18:13:09] Scarff: No clue what the theory is on this g6 opening, but it feels like I did okay so far
+[18:18:29] Leverkuhn: Once White played Bc4 and Black answered with ...e6, I expected ...d5 to be the eventual central challenge
+[18:19:00] Leverkuhn: we saw 6...c5 instead, and I have to say it feel fishy to me
+[18:20:16] Leverkuhn: I feel going for the jugular right away with 7.Nb5 might have been effective for White
+[18:20:31] Leverkuhn: follow up with dxc5 and crack d6
+[18:21:01] Leverkuhn: he's castled instead, which intensifies that threat immensely, but also gives flac a tempo to address it
+[18:21:32] Leverkuhn: it's too late for 7...a6? 8.dxc5, so I think 7...cxd4 is forced
+[18:22:48] Leverkuhn: I guess there's also 7...Nb6--artificial move though
+[18:23:19] jfiras: Good luck scarff !
+[18:24:19] jfiras: seems good for you so far
+[18:25:36] Leverkuhn: the more I look at it, the more difficult Black's position seems
+[18:26:52] Leverkuhn: flac's going to have to use all of his creative capacities to find resources here
+[18:35:30] Leverkuhn: White might be thinking about the greedy option of 9.Bxe5 Bxe5 10.f4 Bg7 11.Qxd6
+[18:36:00] Leverkuhn: my intuition is that that's underselling the advantage and that the simple 9.Bb3 should be preferred
+[18:40:35] ScotchWhisky: go flac!
+[18:42:06] ScotchWhisky: 9...Kf8 instant move, whaaaa
+[18:42:52] ScotchWhisky: I guess to defend the bishop in case of f5?
+[18:43:07] ScotchWhisky: f4*
+[18:43:07] ScotchWhisky: weird spot for black
+[18:44:23] jfiras: the rook on h8 is funny x)
+[18:46:10] kinG_Hunter-1: White can win a pawn 10.f4 Ng4 11.Bxg7 Kxg7 12. h3 and 13.Qxd6
+[18:46:25] kinG_Hunter-1: Although in such a position you need to play on the attack
+[18:46:40] kinG_Hunter-1: Well, I would definitely attack xD
+[18:46:40] Scarff: spend a while looking at 10...Bd7 Bxd7 Qxd7 f4 Nc4 Bxg7 Nxd2 Rxd2 and eventually Bxh8
+[18:46:56] jfiras: i like this move
+[18:46:56] Scarff: looked winning for white, but also like a big mess
+[18:47:26] Leverkuhn: What was wrong with 9...Bd7?
+[18:47:41] kinG_Hunter-1: Yes, the white pieces are very active
+[18:47:57] Leverkuhn: 10.Bxd7+ Qxd7 11.f4 can be met with 11...Bh6 maybe
+[18:48:58] kinG_Hunter-1: 9...Bd7 10.Qxd6 maybe
+[18:48:58] Inter-temporal: (10) (10.Bc5) rooks on both sides want to get the "h" out of there
+[18:49:43] Leverkuhn: 9...Bd7 10.Qxd6 wouldn't be legal; still a bishop on d4
+[18:49:59] Inter-temporal: (10...Bh6) picky picky
+[18:49:59] Inter-temporal: (10) (10...Bh6) :)
+[18:53:01] Scarff: Pretty sure this is my 4th winning position in a row this season. Let's see if I can convert this one!
+[18:58:36] kinG_Hunter-1: 13.Bxc6 bxc6 14. Be5! Qxd2 15.Rxd2 looks white winning
+[19:11:17] ScotchWhisky: 15...*George Clooney in O Brother Where Art Thou* we're in a tight spot
+[19:15:20] Scarff: don't see a kill just yet. But this feel like it should be winning long term too
+[19:25:44] kinG_Hunter-1: 20. Nxd5 cxd5 21. Rxd5!! exd5 22.Qxd5#
+[19:25:44] ScotchWhisky: it does seem like white can just throw everything at black on the king side and white's king is much safer
+[19:26:15] ScotchWhisky: woah that's a scary line
+[19:26:45] jfiras: (19...Nd5) wow nice one
+[19:27:00] jfiras: (20.Nxd5) maybe scarff saw it
+[19:27:00] ScotchWhisky: we'll see
+[19:27:16] ScotchWhisky: don't necessarily HAVE to take the rook but idk what else you'd do
+[19:27:31] ScotchWhisky: Rc8?
+[19:27:46] ScotchWhisky: oh man he sees it but does FLAC
+[19:27:46] jfiras: (21.Rxd5) great !!
+[19:28:16] ScotchWhisky: there's also Qc8 maybe
+[19:28:32] ScotchWhisky: or Kg8?
+[19:28:32] ScotchWhisky: uh
+[19:28:32] jfiras: (21...exd5) wooow
+[19:28:32] jfiras: gg !!
+[19:28:32] ScotchWhisky: lol oof
+[19:28:47] Inter-temporal: gg
+[19:28:47] ScotchWhisky: gg
+[19:29:33] kinG_Hunter-1: Oh I predicted
+[19:29:33] Scarff: Funny mate at the end. Was thinking maybe Bh6 and it can keep going for a while still?
+[19:29:33] kinG_Hunter-1: gg
+[19:29:48] Inter-temporal: sf doesn't fancy 8...Ne5
+[19:30:18] FunnyLikeAClown: well played good luck with your season!
+[19:30:33] Scarff: Thanks! You too
+[19:30:49] Scarff: Was a good game! Weird opening, but a complicated middle game
+[19:31:04] Scarff: I was seeing some lines with 2 pieces and a rook, for my queen at some point
+[19:34:52] Scarff: Oh, you saw the mate too Artur. Nice :D
