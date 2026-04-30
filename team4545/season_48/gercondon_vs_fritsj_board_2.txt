@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/LL94YfWw
+White     : gercondon
+Black     : fritsj
+Time      : 45+45
+Captured  : 2026-04-30 22:43:02 UTC
+Game ended : 2026-04-30 21:22:58 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[20:24:38] Inter-temporal: (8) (8...c4) go gercondon!
+[21:17:54] fritsj: I don't see a way for White to survive but it's complicated enough that I might be missing some detail somewhere...
+[21:21:57] NxN: 21.. Nd3+ Nxb8 Rxb8#
+[21:23:29] fritsj: I was unsure what to do if you had played 15. f3
+[21:23:44] fritsj: All my ideas revolved around eliminating your c3 Knight with Ne4
+[21:23:59] fritsj: Or 17. f3
+[21:24:14] gercondon: I was considering it alright but thought it was too slow
+[21:24:14] gercondon: thought I needed to attack
+[21:25:15] fritsj: That makes sense but at the time it seemed to me that it would slow down my attack so much that it would be a very efficient tempo to spend
+[21:25:45] fritsj: Giving you more time to attack afterwards while the c3 Knight can keep defending very effectively
+[21:26:16] fritsj: f3 also partially clears the 2nd rank so there might be g4 followed by Qh2 afterwards
+[21:27:32] gercondon: true
+[21:28:02] fritsj: It turns out it's still way too slow for White but the way Black breaks through would be with Na6 backwards
+[21:30:34] gercondon: played Kb1 as I was afraid of Qa1+ and c3 ideas but turns out I can leave the knight on c3 and put the king on d2
+[21:32:05] fritsj: I guess once you see how the tactics unfold later on it makes sense not to commit the King so far to the Queenside
+[21:32:51] fritsj: Was happy to see that move though as it seemed to give me more time to start creating threats
+[21:33:21] fritsj: I didn't like having to play Rc8 but I had to cover c6 I think before being able to play Na6
+[21:34:22] gercondon: Thought Rc8 was a very good move. The e5 knight couldn't jump to the qside and if I move the c3 knight you have c3
+[21:35:38] fritsj: Well had it been possible I would have liked to play Na6 instead of having to prepare it with Rc8
+[21:35:53] fritsj: Gives you and extra tempo to develop your attack
+[21:36:09] fritsj: At that time it looked to me like it would be very close who could get their attack in first
+[21:39:57] fritsj: Well it's pretty late here so I'm gonna get to bed, thanks for the game and good luck in future rounds!
+[21:39:57] gercondon: best of luck to you
