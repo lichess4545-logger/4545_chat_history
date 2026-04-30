@@ -1,0 +1,98 @@
+Lichess game chat log
+Game      : https://lichess.org/KEoWRVkB
+White     : pemula64
+Black     : joonaf
+Time      : 30+30
+Captured  : 2026-04-30 17:29:17 UTC
+Game ended : 2026-04-30 16:09:12 UTC
+Messages  : 88
+────────────────────────────────────────────────────────────
+
+[14:31:46] matthewhuber: Go Joonaf!
+[14:35:19] Joonaf: (10.f4) I think the move was ..Nd7, even though it blocks the bishop
+[14:35:35] Joonaf: and not sure where it is going. maybe to Nf6
+[14:36:35] Joonaf: at least in all of the lines I practiced, where white played f4 and I had played d6, the move was Nd7
+[14:37:52] Joonaf: would be of course important to understand the reason behind the moves, but I had no time for that
+[14:38:07] Joonaf: so I'll just need to figure it out during the game
+[14:39:23] Joonaf: if I do ..Nf6, then white could maybe play g4
+[14:39:38] Joonaf: I'll first play Re8
+[14:40:09] Joonaf: (11.Bd3) well now g4 wouldn't be possible
+[14:40:54] Joonaf: but if white plays Na4, then my knight on d7 could be useful
+[14:42:10] Joonaf: what's the purpose of Bd3
+[14:43:57] Joonaf: maybe it's to get the queen closer
+[14:44:12] Joonaf: 12.Qh5, Nf6, Qh3 defends e3
+[14:45:13] Joonaf: well, not Qh3..
+[14:46:14] Joonaf: I was also thinking that maybe white does e4, but that's pinned
+[14:46:59] Joonaf: hmmm
+[14:46:59] Joonaf: Qh5 anyway
+[14:49:47] Joonaf: if 13.Qf3, would ..Bg4 do anything but lose the b7-pawn
+[14:50:48] Joonaf: good thing my opponent is taking their time
+[14:55:52] Joonaf: maybe Qxb7 would place the White queen in a bad spot
+[14:56:38] Joonaf: not sure
+[14:57:08] Joonaf: it can go Qc6 and if Rb6 it goes Qa4 and can then go to d1 or whatever
+[14:59:40] Joonaf: I'm freezing
+[14:59:56] Joonaf: maybe I just go for it and see what happens
+[14:59:56] Joonaf: have no idea
+[15:00:26] bncl: Go Joonaf!
+[15:00:41] bncl: Can't go wrong going for it and seeing what happens
+[15:01:27] Joonaf: 14..Ng4, Re1, Qh4
+[15:02:13] Joonaf: Ng4, Nd5, c6
+[15:02:13] Joonaf: Ng4, Nd1 and the knight is passive
+[15:02:58] Joonaf: Ng4, Re1, Qh4, Qg3, Qxg3
+[15:03:44] Joonaf: Ng4, Qh3,
+[15:04:45] Joonaf: I don't know. I have to do something
+[15:04:45] Joonaf: I can't calculate anything
+[15:05:46] Joonaf: Qh3, Bxe3+, Bxe3, Rxe3
+[15:06:01] Joonaf: or if Kh1, then Nf2+
+[15:06:16] Joonaf: or..
+[15:07:02] Joonaf: Qh3, Bxe3+, Bxe3, Rxe3, Qxh7+ comes with a check, Kf8, Qh8+, Ke7,
+[15:07:17] Joonaf: if Re1, I can take the queen, maybe it's ok
+[15:07:32] Joonaf: chess is too complex for my simple brain
+[15:08:03] Joonaf: I'm behind on time, but now I must not do the mistake of trying to move fast, and blundering something silly
+[15:08:18] Joonaf: need to speed up little by little
+[15:13:53] Joonaf: oh, b4 coming?
+[15:14:08] Joonaf: 14..c6, b4
+[15:16:40] Joonaf: if I make a slow move like ..a5, then h3,
+[15:18:57] Joonaf: I thinkk I'd win a pawn, but lose a lot.. other things
+[15:19:43] Joonaf: don't like this, but don't know what else to do
+[15:20:13] UpGoerFive: go joonaf!
+[15:21:45] Joonaf: or ..Bb6, Nxb6, Qxb6
+[15:25:18] Joonaf: I think white has to take on b6
+[15:25:33] Joonaf: that's what the knight came there to do. to stop the bishop from attacking e3
+[15:26:49] Joonaf: am I missing something
+[15:27:50] Joonaf: well, I did some how miss 17.Bd2
+[15:28:05] Joonaf: oh wait but that doesn't add a defender on e3
+[15:30:22] bncl: hmmmm c5 probably jams things up here
+[15:30:22] Joonaf: rook on e8 is undefended, but I do have disco attack
+[15:30:38] Joonaf: disco *check
+[15:30:53] Joonaf: oh no
+[15:31:08] Joonaf: I should've seen this
+[15:32:09] bncl: maybe can get rook and bishop for the queen?
+[15:32:24] Joonaf: best is maybe to get rook and bishop for the q
+[15:33:10] Joonaf: or two pawns for a knight?
+[15:33:10] Joonaf: well, three
+[15:33:10] Joonaf: if counting this e3 pawn
+[15:35:58] Joonaf: or rather three pawns for a bishop in the end
+[15:36:28] Joonaf: not great, not terrible
+[15:36:59] Joonaf: (don't use an engine to check that statement!)
+[15:37:44] Joonaf: I'm still doing pretty basic blunders
+[15:38:00] Joonaf: wouldn't need to be a master to see those
+[15:40:47] Joonaf: what is Qf2. can I just do c4
+[15:42:03] GoldenRetrieverChess: Gooo Joonaf!
+[15:42:19] Joonaf: or ..Qc3
+[15:43:20] Joonaf: ..c4, Bc5, maybe the queen gets kicked anda I lose c4
+[15:43:35] Joonaf: but ..Qc3 then gives time
+[15:45:06] Joonaf: I really should activate the other pieces too..
+[15:45:37] Joonaf: Be6, f5, Bd5
+[15:46:22] Joonaf: the bishops and Q may become a serious problem for the king
+[15:48:24] Joonaf: how does white save both bishops
+[15:54:45] Joonaf: 28.Rg3, Qe6
+[15:55:00] Joonaf: nooo
+[15:55:46] bncl: aw man that's a nice tactic
+[15:56:16] Joonaf: it ended up being queen for rook and bishop anyway..
+[16:07:11] Joonaf: what a great rook on g6....
+[16:07:26] Joonaf: so passive
+[16:07:56] Joonaf: doesn't even defend
+[16:08:42] Joonaf: :(
+[16:08:57] Joonaf: just not enough time
+[16:09:28] Joonaf: gg well played!
