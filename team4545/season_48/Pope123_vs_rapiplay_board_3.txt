@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/PuQwFSQ8
+White     : pope123
+Black     : rapiplay
+Time      : 45+45
+Captured  : 2026-04-30 20:11:13 UTC
+Game ended : 2026-04-30 18:51:09 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[17:01:49] Silkthewanderer: Go your holiness
+[17:03:05] Pope123: (4...g6) aaaand im out of book
+[17:08:25] Pope123: (5...Bg7) g4 h6 h4 I cant really play the move I want: g5
+[17:09:41] Pope123: (6.Nf3) Normal chess it is...
+[17:14:00] Zubenelgenubi: Go Pope!
+[17:17:48] Pope123: (7...Ne4) Interesting - I need to lose a bunch of time with the knight again if i take Nc4-Nd2
+[17:19:34] Pope123: (7...Ne4) Nxe4 dxe4 Bc4 kind of prevents f6 but the knight is short on squares
+[17:20:20] Silkthewanderer: There is also Ne5-c4-d2 with a plan to undermine e4
+[17:20:50] Silkthewanderer: Oh right, thats what Pope said
+[17:21:21] Silkthewanderer: I think it is perfectly fine as an attempt to get something from the position
+[17:21:51] Pope123: (8...dxe4) c3 b5 Qc2 f6 Qxe4 c3 Nxc3
+[17:22:06] Silkthewanderer: Maybe 9. h4 first to fix the rest of the structure too
+[17:23:07] Pope123: (8...dxe4) c3 b5 Qc2 Bf5 g4!
+[17:23:23] Silkthewanderer: In Blitz you could even go h4 h5 g4 and pretend to attack the kingside
+[17:23:38] Silkthewanderer: I dont think the engine likes that idea but for humans it will be not trivial to defend
+[17:24:23] Pope123: (8...dxe4) c3 b5 Qc2 Bf5 g4 Bxe5 fxf5 i think is fine with the open g-file for my rook
+[17:24:23] Silkthewanderer: c3 b5 Qc2 Bb7 is the better defense of e4
+[17:24:54] Silkthewanderer: Not sure why we assume the Bishop will defend from f5
+[17:27:41] Pope123: (9...b5) hmm forgot to look at that
+[17:32:00] Pope123: (10.f3) Safest move, dont want to burn more clock
+[17:35:48] Pope123: (10...f6) Qb6+ e6 only helps speeding up blacks kingside attack
+[17:37:35] Pope123: (11...g5) Both my pieces wanting the f2 square, this might be bad
+[17:46:12] guitarspider: go pope
+[17:49:15] Pope123: (15...Nc6) My plan was Bxg4 to put pressure on e6, but then I dont have the open h-file....facepalm
+[17:59:39] Pope123: (18.Qd1) I'd have played a4 if I wasn't down material
+[18:07:15] Pope123: (21.Bf2) Very suprised by 19...f4, but its not like I did myself any favors with Qd1
+[18:12:05] Pope123: (22.Bf3) b4 Qa4 Nc4 now, maybe should have kept it on that diagonal
+[18:12:35] Pope123: (22.Bf3) b4 Qd3 I guess
+[18:14:52] Pope123: (23.Qe2) Ne3 is probably not a bad idea for black -- i need the black bishops off if I ever want to win this game
+[18:18:40] Pope123: (23.Qe2) I think castling short and playing a slow game is the best approach
+[18:18:56] Pope123: (23...Rad8) Unlikely to happen though
+[18:21:28] Pope123: (24.b3) Hoping for Nd6 h5
+[18:21:58] Pope123: (24...Nb6) Ne3 g3 was the idea but i dont think it worked
+[18:23:30] Pope123: (25...c5) Bh4 Bf6 Bxf6 Qxf6 e5 does it work?
+[18:23:45] Pope123: (25...c5) No
+[18:28:03] Silkthewanderer: 28. e5 Bxf3 29. gxf3 maybe to at least open a file?
+[18:31:21] Pope123: (30.Qf2) totally did not miss that
+[18:32:37] Pope123: (31.gxf3) e3 square will kill me in the endgame, this is over
+[18:47:51] Pope123: (37.Rg1) Need a miracle
+[18:49:52] Pope123: (38.Kd3) Dont see the mate
+[18:50:08] Pope123: (38...R8f3+) ok now i do
+[18:50:38] Tsscfttsos: nice game
+[18:50:38] Tsscfttsos: ggs
+[18:53:25] guitarspider: gg
+[19:33:58] Zubenelgenubi: gg
