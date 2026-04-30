@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/MBxGWdq9
+White     : scotchwhisky
+Black     : mynameismund
+Time      : 45+45
+Captured  : 2026-04-30 00:25:22 UTC
+Game ended : 2026-04-29 23:05:18 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[22:27:31] jfiras: Good luck Mund !
+[22:27:46] Leverkuhn: Memo-worthy starting time here.
+[22:28:01] Leverkuhn: We have to hope that our contestants waiting 22 seconds after the chime of 22:22 to begin
+[22:28:17] jfiras: (4...dxc4) xD
+[22:28:17] Leverkuhn: *Meme-worthy
+[22:28:32] Leverkuhn: I can't type on this keyboard
+[22:29:17] Leverkuhn: We've got a Catalan with early acceptance 4...dxc4
+[22:30:03] jfiras: (5...a6) wow seems like qgd then qga haha, idk it
+[22:32:20] Leverkuhn: This is a complicated line; great choice by Black he seems to have deviated from his previous games and oppo's prep
+[22:32:50] Leverkuhn: White has no routine way to recover the pawn, so SW won't be comfortable
+[22:33:51] Leverkuhn: if I recall 7.e3 Rb8 8.Nfd2!? is one of the main lines, with a huge mess after 8...e5 9.Bxc6+
+[22:33:51] Leverkuhn: White played 7.a4 instead, a more natural move
+[22:34:22] jfiras: (7.a4) sw?
+[22:34:37] Leverkuhn: ScotchWhisky
+[22:34:37] jfiras: (7.a4) aah
+[22:35:07] Leverkuhn: We're long-time teammates
+[22:35:23] jfiras: (7.a4) yeah i noticed that, lexgrad too
+[22:35:38] Leverkuhn: and FunnyLikeaClown, who we call flac
+[22:36:24] Leverkuhn: I would expect 7...Rb8 here
+[22:36:24] jfiras: (7.a4) black seems out of book too
+[22:36:39] Leverkuhn: indeed
+[22:41:13] Leverkuhn: confusing position for White already
+[22:41:28] Leverkuhn: he can't return to the e3 line as he's lost a crucial tempo
+[22:42:29] Leverkuhn: and if Black gets ...b5 and ...Nb4 or something in he'll have fully evacuated the Catalan diagonal and have a huge advantage with his pawn
+[22:42:59] Leverkuhn: maybe 8.a5?!
+[22:43:14] Leverkuhn: can meet 8.a5 Bb4 with 9.Bd2
+[22:43:45] Leverkuhn: I don't have great suggestions for White
+[22:44:46] jfiras: (8.a5) nice
+[22:45:16] jfiras: (8.a5) let's see how black responds
+[22:53:23] jfiras: (11.Ne5) interesting
+[22:56:56] Leverkuhn: Yes great energy from White and he can beathe a sigh of relief as he recovers the pawn
+[23:02:16] jfiras: (14.Nxf7) oh wow
+[23:03:01] jfiras: (14.Nxf7) nice one, i like it
+[23:04:02] jfiras: (15.Bxd6) i thought white will get the c pawn, didn't expected this line
+[23:04:17] jfiras: (15.Bxd6) but this seems very good for white
+[23:05:03] ScotchWhisky: gg
+[23:05:03] Leverkuhn: gg
+[23:05:03] jfiras: what ?
+[23:05:18] ScotchWhisky: somehow it's equal after Ba4? wht?
+[23:05:18] jfiras: gg
+[23:05:34] Leverkuhn: wow, I drive home from work and the game's over?!
+[23:05:34] ScotchWhisky: nobody is finding that
+[23:06:04] ScotchWhisky: yeah guess he felt it was just over, I was gearing up for trying to win a won position but apparently it's equal
+[23:07:05] ScotchWhisky: I thought I was so slick with that series tactic too
+[23:07:35] jfiras: yeah well played honestly
+[23:07:35] ScotchWhisky: ty
+[23:07:35] jfiras: really liked it
+[23:07:50] jfiras: but didsn't expect the resignation too
+[23:08:06] ScotchWhisky: such a good bluff that it made my opponent resign in disgust lol
+[23:08:06] jfiras: haha
+[23:08:21] ScotchWhisky: I was feeling like now his king is open too
+[23:08:36] ScotchWhisky: just looks great for white
+[23:08:51] ScotchWhisky: I felt like I lost the thread in that opening, he switched up how he played
+[23:09:22] ScotchWhisky: apparently 12. Bd2 is better for some reason but I don't get it
+[23:09:52] ScotchWhisky: ah the fork
+[23:10:07] ScotchWhisky: I was thinking of something like 12. Ra4 for a while to chop the knight and get the fork
+[23:10:07] ScotchWhisky: but then he could probably do something
+[23:10:22] ScotchWhisky: Ra4 is second best move
+[23:10:53] ScotchWhisky: nah Bd7 counters it tho
+[23:11:23] ScotchWhisky: 12. Bd2 b5 13. Bxb4 Bxb4 14. Nc6
+[23:12:09] ScotchWhisky: but man 15...Ba4 16. Qxa4 Qxd6 and the game goes on :(
+[23:12:39] ScotchWhisky: that's not a move I would find tho
+[23:13:40] ScotchWhisky: 6...Nc6 did throw me
+[23:14:26] ScotchWhisky: also 5...a6 was confusing me
+[23:14:41] ScotchWhisky: There is 7. e3 and also 7. Nbd2
+[23:14:56] ScotchWhisky: but I don't know if I studied them much, the latter seems to be my course recommendation
+[23:16:12] ScotchWhisky: because after 7. Nbd2 if black takes Nxd4 8. Nxc4 Bc5 9. Nfe5
+[23:16:42] ScotchWhisky: ...O-O 10. Be3 Ba7 11. Rc1
+[23:17:28] ScotchWhisky: apparently slight edge for white, but yea I didn't know any of this going into the match, well now I know what to look at next
+[23:18:59] ScotchWhisky: I see a line with e3, it is indeed like you say Leverkuhn, and crazy
+[23:19:45] ScotchWhisky: 7... Rb8 8. Nfd2 e5 9. Bxc6+ bxc6 10. dxe5 Ng4 11. Nxc4 Be6 12. Nbd2 Bb4
+[23:19:45] ScotchWhisky: wild
+[23:20:00] ScotchWhisky: prolly wouldn't have done any of that
+[23:21:31] ScotchWhisky: so now I gotta brush up on 7. Nbd2 lines, it is kind of counter-intuitive to stop defending the d4 pawn, but apparently it works out..
+[23:23:33] ScotchWhisky: also I see 13. Nxd7 is better due to the discovery on the DSB
