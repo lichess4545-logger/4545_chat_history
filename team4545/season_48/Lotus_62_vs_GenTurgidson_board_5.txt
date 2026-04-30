@@ -1,0 +1,78 @@
+Lichess game chat log
+Game      : https://lichess.org/hHI0XJAf
+White     : lotus_62
+Black     : genturgidson
+Time      : 45+45
+Captured  : 2026-04-30 17:44:25 UTC
+Game ended : 2026-04-30 16:24:20 UTC
+Messages  : 68
+────────────────────────────────────────────────────────────
+
+[14:06:05] bufferunderrun: let's go GT!
+[14:21:03] GenTurgidson: 10.Qc2, I've lost.
+[14:21:49] GenTurgidson: I have to lash out on queenside now, only hope.
+[14:22:19] GenTurgidson: Going into the worst possible middlegame for my play style.
+[14:24:06] GenTurgidson: Maybe 10...Bg4. If f3, Bh5 idea Bg6 trade bishops.
+[14:24:21] GenTurgidson: That or a5 lashing out on queenside before he castles there.
+[14:24:36] GenTurgidson: Either way this is a dead lost game for black, for good players.
+[14:25:37] GenTurgidson: I think 10...Bg4 is the only try.
+[14:26:23] GenTurgidson: The plan is after g4 I go Bg6 forcing bishop exchange and I take with f pawn.
+[14:26:38] GenTurgidson: This is the only idea to keep the game alive.
+[14:27:24] GenTurgidson: Although... after 12.O-O-O, his pieces are quite loose.
+[14:28:40] GenTurgidson: His definitely winning line was 12.g4 immediately, comitting to the winning kingside attack.
+[14:29:10] GenTurgidson: Now I have moves to think about.
+[14:32:13] GenTurgidson: If my knight on c6 was on d7 or anywhere else this position might be good.
+[14:32:28] GenTurgidson: *On d7 I mean.
+[14:38:03] GenTurgidson: 14...c5 I'm king of getting what I want here. Not sure if what I want is the right thing.
+[14:40:35] GenTurgidson: I half missed Nb3. I'm starting to very much like my open c file though.
+[14:46:10] GenTurgidson: This forces exchanges. He cannot allow me to exchange knights on my terms ehre because Nxd4 cxd4 Rx8 wins his queen.
+[14:46:40] GenTurgidson: He will either exchange rooks first and give me the open file, or just play Nxc6.
+[14:48:12] GenTurgidson: On second thought, none of my stuff actually works. But it looks scary and could materialise into stuff that works.
+[14:51:45] GenTurgidson: He keeps giving me exactly what I want...
+[14:54:47] GenTurgidson: 18...Nb4 immediately looks tempting. Rac8 first is too slow because his knight jumps f4 and opens up for rook exchange again.
+[14:55:48] GenTurgidson: 18...Nb4 cxb4 Rac8 (maybe e), Nc3 Qxd4 Bxg6 Qf4+
+[14:56:49] GenTurgidson: I also have 18...Bxd3. He mus take with queen·
+[14:57:35] GenTurgidson: Actually, no. I keep assuming I already have a rook on c8 which would be ideal.
+[14:58:51] GenTurgidson: Let's do it. I think I've accounted for his Bxg6 revealed attack on queen with Qf4+ intermezzo.
+[15:00:52] GenTurgidson: Need to decide which rook now.
+[15:02:54] GenTurgidson: I have more options that I thought.
+[15:04:56] GenTurgidson: I have tempo of d4 pawn push with any queen move depending on what he does.
+[15:15:05] GenTurgidson: I've messed up badly. No 25...d4 because of Nb5. 25...a6 to stop it is too slow because of Rd1. Going to lose that pawn most likely
+[15:16:51] GenTurgidson: Back to dead lost - not exactly sure how.
+[15:17:22] GenTurgidson: Idea of Qd7, although it looks strange, is to cover b5 from his knight so I can push d4. But Rd1 is coming.
+[15:18:23] GenTurgidson: We're both going to have all of our pieces eyeing that pawn.
+[15:19:24] GenTurgidson: That said... if he continues concentrating all his power on that pawn, I end up having the flexibility here.
+[15:23:12] GenTurgidson: I missed 29.Ne4. Game over.
+[15:24:43] GenTurgidson: He's played more or less every move I've expected so far, so I expect him to play the winning move I guess.
+[15:30:48] GenTurgidson: I've managed to forget what my idea was after 19.g3.
+[15:37:39] GenTurgidson: Forgot to remember Ne4.
+[15:39:56] GenTurgidson: Not sure why I did this. Completely expected that.
+[15:40:42] GenTurgidson: I think I meant to play 30...Qe6 first, but that's also dodgy after Nc5.
+[15:47:48] GenTurgidson: Now I keep trying to force queen trade then march my king to his passed pawn.
+[15:48:34] GenTurgidson: I can maybe win the pawn back and fight for a draw now.
+[15:49:35] GenTurgidson: With our respective pawn majorities on the side of our kings, there may be a race on at the end.
+[15:54:55] GenTurgidson: 40.Kb3 feels weird. If Rx Rx I may be winning after the exchange. He probably doesn't intend to exchange though. I should take.
+[15:55:25] GenTurgidson: This doesn't look right for him.
+[15:56:26] GenTurgidson: I think 42...Kc6 is the proper way to keep opposition, if that matters yet.
+[15:57:12] GenTurgidson: I have the opposition now.
+[15:57:27] GenTurgidson: This should be winning.
+[15:58:28] GenTurgidson: Not 100% clear as I see scenarios where his king dashes for my b pawn.
+[15:58:58] GenTurgidson: if 45.b3 I just f6, maintaining opposition.
+[15:59:44] GenTurgidson: Actually maybe it is just a draw.
+[16:01:30] GenTurgidson: Playing 46...f6 that quickly was a slip of the mouse, but I probably would have settled on it anyway.
+[16:07:36] bufferunderrun: hmmm, is this winning?
+[16:09:37] bufferunderrun: so if white goes after the f-pawn, black might be in time to grab the pawns
+[16:09:53] GenTurgidson: Tricky test of our king and pawn endgames.
+[16:10:08] bufferunderrun: otherwise, white goes after the b-pawn, but I think black queens first
+[16:10:23] bufferunderrun: I don't want to calculate this...
+[16:13:56] bufferunderrun: must be winning, you just drop the queen on b8
+[16:14:27] GenTurgidson: If I can finess this pawn up the board then let him just have it, can I be silly and run my king over to gobble his pawns?
+[16:14:57] GenTurgidson: Do I just use this pawn as bait? If I can get to the other side of it.
+[16:18:00] GenTurgidson: I need to draw his king a little bit further to be safer. b file/g file passers can be stalematish.
+[16:18:45] GenTurgidson: Now he is far enough I can just abandon f pawn safely.
+[16:19:00] bufferunderrun: 62...Kd4 just wins, since Kd4 Kxf4 Kc3 Ke4 Kxb4 Kd3 Kxb3 is a win
+[16:19:31] GenTurgidson: Actually... maybe not. I'll send him farther up the board first.
+[16:21:02] GenTurgidson: I'm struggling to find how to clearly maintain the opposition after I gobble his pawns in the time his king runs back.
+[16:21:17] GenTurgidson: Pretty sure it's ok, just want to be careful.
+[16:25:06] GenTurgidson: Severe stupidity, forgot that was stalemate.
+[16:25:21] GenTurgidson: Played that easy endgame way too hastily.
