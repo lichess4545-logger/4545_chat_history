@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/U9ds4o2T
+White     : samisasleep
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-04-30 16:48:54 UTC
+Game ended : 2026-04-30 15:28:50 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[14:03:21] NG_Life: (8) his prep got me, I was expecting either a smith-morra or an early f4 sicilian (grand prix style)
+[14:04:37] NG_Life: 8.nh4 I still like my position, despite him completely avoiding my prep. nh4 feels a little early with dsb and rook trapped queenside
+[14:05:53] NG_Life: 8...be6 neutralizing Qh5+
+[14:10:42] NG_Life: 9. f4 bd6 fxe5 nxe5 and what's the problem?
+[14:17:18] NG_Life: 10. f5 surprising me, I wasn't looking at that move. It looks a bit awkward to keep moving the same piece when the queenside is stuck.
+[14:18:34] NG_Life: 10. my first instinct is Qd7 preparing O-O-O and defending g7.
+[14:20:21] NG_Life: (11) i
+[14:20:51] NG_Life: 11 I'm bracing for another move that surprises me, but I don't see any threats from white. I think he needs to liberate his trapped dsb.
+[14:26:56] NG_Life: 11. nc4 bxc4 exc4 O-O-O he might get the two bishops but I have more space and d pawn has great chance to become a passer later on
+[14:27:57] NG_Life: I don't see an alternative I guess 11... bf8?? would loses to fxe5
+[14:30:45] NG_Life: (13) I will need to play kb8 sooner rather than later to avoid any potential tactics with bishop h3
+[14:31:30] NG_Life: (13) in fact I think 13. bh3 would be a very reasonable move for white. I would play kb8.
+[14:32:01] NG_Life: (13) because I don't see a future for the wsb on the current diagonal, with my thrice protected e5 pawn blocking the e4 pawn from moving
+[14:34:02] NG_Life: (13) I guess 13 nxd6 Qxd6 bh3+ kb8 would also be a reasonable way to do the same thing
+[14:37:05] NG_Life: 13. a3 feels quite slow, it doesn't feel as if b4 would be any good even if he takes the d6 bishop next move
+[14:38:36] NG_Life: sample line a3 g6 nxd6 Qxd6 b4 cxb4 axb4 Qxb4 (necessary because knight defends a7)
+[14:39:22] NG_Life: 13. a3 my first instinct is g6 but two problems, bh3 is still possible and he will probably play nxd6 even if I don't play g6
+[14:40:08] NG_Life: 13. a3 other possibilities would be kb8 I guess, or maybe a5 although that actually looks rather bad if I don't already have kb8
+[14:44:41] NG_Life: 15. Qd3 I guess the idea is he wants to play rfb1 when the b file opens, but again feels slow to me... maybe kb8 a5 plan is in time now?
+[14:46:58] NG_Life: 15. Qd3 kb8 bd2 a5 b4 cxb4 axb4 axb4 rb1... feels loose for black... must be something better somewhere...
+[14:53:49] NG_Life: (18) rf1 to b1 back to f1 is not exactly a maneouver that screams confidence.
+[14:55:21] NG_Life: 18. rf1 h5 fxe5 fxe5 rf7 and he can double rooks, or I can play rdf1 now and cut off any infilitration before it begins
+[15:01:41] NG_Life: (25) I think I have compensation for a pawn here
+[15:07:16] NG_Life: 25. Qa4? Now the queen can't ricochet back to the kingside via e1 any more...
+[15:14:07] NG_Life: 28. b4 feels extremely desperate, now I have 10 min to see if I can find the right path forward
+[15:19:57] NG_Life: 31... nxc4 looks winning, so does ne7
+[15:22:14] NG_Life: ne3+ ke2 rh2+ kd3 ne5+ rxe5 nxe5... checkmate??
+[15:23:00] NG_Life: haha that was funny how bad my calculation was
+[15:23:15] pirateofthefrisians: Indeed
+[15:23:30] pirateofthefrisians: I was laughing before you did
+[15:26:33] NG_Life: I think I missed mate in 1. This is why I need to be on the daily tactical puzzle grind...
+[15:27:18] pirateofthefrisians: Probably your knight was still on c4, so ..c4 was not possible
+[15:27:33] pirateofthefrisians: ..c4 mate
+[15:28:19] pirateofthefrisians: At least that is consistent with your Pce5 visualization error
+[15:29:05] NG_Life: yes, that was funny, and you are right again it's the same vizualization error
+[15:29:50] NG_Life: @samisasleep my notes from game are in here
+[15:29:50] NG_Life: I was out of prep from move 3
+[15:30:21] NG_Life: I expected smith-morra or early f4 sicilian, did you prep against me?
+[15:30:51] samisasleep: Nah just vibes haha
+[15:31:22] NG_Life: cool, it was a very interesting position, I didn't know how to play. I played f6 because I play Samisch King's Indian with white
+[15:31:37] NG_Life: so I was trying to make it look more familiar to me
+[15:32:07] NG_Life: I thought the nh4 nf5 maneouver had a lot of potential, but maybe too early with your pieces trapped on queenside
+[15:32:22] NG_Life: what did you think after 10. nf5?
+[15:32:53] samisasleep: Yes it obv wasnt spectacular for black with Bd6 but i couldnt find the right sequence
+[15:33:38] NG_Life: yeah it felt awkward for me but without more pieces in the attack I didn't feel threatened either
+[15:33:54] NG_Life: then after a3 I got a little worried about b4 at some point, maybe around 16
+[15:34:09] NG_Life: but when you gave up on b4 and went to the king side I just thought I was better after that
+[15:34:39] samisasleep: Yes i justneeded toplay it i was better i did
+[15:35:10] NG_Life: yes I was getting a little scared, you can see in my notes at first 13. a3 didn't worry me but then I gradually realized I was underestimati
+[15:35:10] NG_Life: underestimating it*
+[15:35:40] samisasleep: Even a5 is so bad idk whyididnt just play it
+[15:35:40] NG_Life: I think I did something wrong after 13. a3 but I can't figure out what the right plan for black was
+[15:36:26] NG_Life: a5 felt shaky but I didn't see anything better, still right now I'm thinking somehow there was something better but I don't see it
+[15:37:11] NG_Life: I guess I was probably a little better until 25. Qa4 which seemed very bad to me, because your queen can't retreat
+[15:37:26] NG_Life: oh yes I'm right
+[15:37:26] NG_Life: on a5 you can bounce back to defend via e1
+[15:37:42] NG_Life: on a4 you're trapped on queenside and can't come back to help the king
+[15:37:57] samisasleep: Yes u are right
+[15:38:27] NG_Life: I was actually expecting Qe1 instead of Qa4, the pawn on c4 doesn't really matter if you drop it if you can defend
+[15:38:58] NG_Life: the engine suggests Qb6 which I didn't consider at all
+[15:39:13] NG_Life: kind of surprised I would think that would have the same problem, but I guess it helps you're threatening c5 so my Queen can't immediately
+[15:39:13] NG_Life: leave to attack
+[15:40:59] NG_Life: good game, it was very interesting, thank you.
+[15:40:59] NG_Life: good luck in the rest of your games
