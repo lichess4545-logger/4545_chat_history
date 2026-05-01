@@ -1,0 +1,132 @@
+Lichess game chat log
+Game      : https://lichess.org/pov8RYln
+White     : lorb
+Black     : markmarkedymarkmark
+Time      : 45+45
+Captured  : 2026-05-01 12:14:58 UTC
+Game ended : 2026-05-01 10:54:54 UTC
+Messages  : 122
+────────────────────────────────────────────────────────────
+
+[09:11:24] Le_Merovingien: Go m^4
+[09:11:39] Le_Merovingien: Wow.... Black gambit...
+[09:11:39] Le_Merovingien: He must know what he is doing
+[09:16:13] markmarkedymarkmark: hello merovingien!
+[09:17:44] Le_Merovingien: Hey hey hey
+[09:17:44] Le_Merovingien: You are already setting the board on fire
+[09:18:00] Le_Merovingien: I am keen to see how this develops
+[09:23:34] Le_Merovingien: White can resign, I think (move 7)
+[09:24:35] Le_Merovingien: Clearly m^4 knew what he was doing
+[09:25:21] Le_Merovingien: 8... Bd4 or 8... Bxf2? Everything should win at this stage
+[09:36:30] markmarkedymarkmark: I think I'm quite happy with that trade, white's light squares like d3 will be weak now
+[09:37:01] Le_Merovingien: I think this is too passive. The advantage felt overwhelming. It still is but that c7 Bishop is weaker.
+[09:37:31] Le_Merovingien: Or maybe was I impatient to rampage White?
+[09:38:32] Le_Merovingien: Next White's move has the potential to excite me :)
+[09:40:19] Le_Merovingien: No, Ne2 does not excite me. Sorry
+[09:44:22] Le_Merovingien: Yeah. Bd3 or Qd3 were the moves I was excited about. But Qd1 protects here. I thought Nf3 Bd3 prevents castling
+[09:47:55] markmarkedymarkmark: I think it white castles my ideas are e4, Ng4, Qh4
+[09:48:11] markmarkedymarkmark: hello NameGoes!
+[09:48:11] NameGoesInHere: (12...Bd3) hi!
+[09:48:56] NameGoesInHere: (12...Bd3) i like those idea, it'll take some time for white to get rid of the d3-bishop (with e.g. Re1/Nc1)
+[09:49:11] NameGoesInHere: (12...Bd3) and black has great attacking chances in the meantime
+[09:51:13] Le_Merovingien: Black is far from obscure today
+[09:53:15] Le_Merovingien: Boh boh boh boh. e4 Ng4 Qh4... mamma
+[09:55:17] Le_Merovingien: :o
+[09:57:18] NameGoesInHere: (13...e4) hmmm, how to best continue the attack after h3 here?
+[10:03:54] Le_Merovingien: f3 cannot be good
+[10:04:09] Le_Merovingien: Do we have time to throw in a h5 h4?
+[10:04:40] Shurbz: Lets go mark
+[10:05:10] Le_Merovingien: Not really sure what f3 point is. If fxe4, then Ng4 or Nxe4 followed by Qh4
+[10:10:45] markmarkedymarkmark: hello Shurbz!
+[10:11:00] NameGoesInHere: (15...Qxf6) I guess white wanted fxe4 in this position when they played f3, but I think just ...Qh6 in response
+[10:11:15] markmarkedymarkmark: I was thinking something like fxe4 Qe5 here
+[10:11:46] Shurbz: Its too early for me to calculate but I like what marks doing
+[10:11:46] NameGoesInHere: (15...Qxf6) or that too, similar idea
+[10:12:01] Le_Merovingien: Yeah, Qh6 and that's it. Then, Bxe2 is a massive threat if White does nto have a follow up
+[10:12:47] NameGoesInHere: (16.fxe4) and the problem is if you don't take on e4, black plays ...Qh6 anyway and then ...exf3 pretty much just wins material
+[10:15:04] Shurbz: I liked Qh6 with ba4 as an option too
+[10:15:04] Le_Merovingien: We agree that White's position is awful?
+[10:15:34] Le_Merovingien: Shurby: how Ba4?
+[10:16:04] Shurbz: Ba5 sorry
+[10:16:20] Le_Merovingien: Ah. But... why? (I can't see hte idea...)
+[10:16:35] NameGoesInHere: (16...Qe5) the idea is to hit d2 twice I presume?
+[10:17:05] Le_Merovingien: Oh. I think we have better thigns to do, no?
+[10:17:05] NameGoesInHere: (16...Qe5) but I worry if I try that we'll end up trading into an equal or even pawn down endgame
+[10:17:21] Shurbz: You’re right lol
+[10:17:36] Shurbz: Its 5am I’ll stick to reading your analysis
+[10:17:51] Le_Merovingien: There is a tempo with Be5 that could be useful as well but not anymore
+[10:17:51] Le_Merovingien: No no no. Participate, please.
+[10:18:06] Le_Merovingien: It's lunch time here. Digestion sinks my thinking :)
+[10:18:06] NameGoesInHere: (16...Qe5) Ba5 was definitely a move I noticed, but I feel the bishop is too good on the current diagonal to move it off
+[10:19:07] Le_Merovingien: I did not think of it because the Bishop is so well placed.
+[10:19:22] Shurbz: Agree I was like whats a move after g3
+[10:19:22] Le_Merovingien: Rad8 looks more appealing to me
+[10:19:38] Le_Merovingien: Aaah. Qh6 g3 Ba5?
+[10:19:53] Shurbz: But the answer is rxe5
+[10:19:53] Shurbz: Rxe4
+[10:20:08] Shurbz: Can’t do coordinates
+[10:20:54] Le_Merovingien: Qh6 g3 Rxe4 Re1, then I am already thinking of sacking the Bishop (Bxg3).
+[10:21:24] Le_Merovingien: I mean, everything should work given how much of a takeaway dumpster White's position is
+[10:21:54] Le_Merovingien: Ah, no. The Knight protects g3
+[10:21:54] Le_Merovingien: Bah
+[10:21:54] NameGoesInHere: (16...Qe5) after g3 in current position, is there anything other than ...Qxe4? I'm worried about g3 Qxe4 Nec3!? Qd4+ Rf2
+[10:22:10] NameGoesInHere: (16...Qe5) ah, but maybe Re2 at the end of that line
+[10:22:40] NameGoesInHere: (16...Qe5) no, the knight guards e2
+[10:22:55] Le_Merovingien: Yes... that looks complicated.
+[10:23:11] NameGoesInHere: (16...Qe5) i mean surely that is good for black but I can't find a knockout
+[10:23:11] Le_Merovingien: I don't like the Queen on the e-file (Qh6 or Qh4 looked better to me)
+[10:23:41] Shurbz: I’m curious about a rook lift
+[10:23:41] Le_Merovingien: Bring in the Rooks? Re6 Rad8?
+[10:25:27] Shurbz: Yeah re6 rh6 and qh4 (because the rules of chess now allow mark 3 moves in a row)
+[10:25:58] Shurbz: Qh5 I’ve done it again
+[10:26:28] Le_Merovingien: Gee, what?!?
+[10:26:44] NameGoesInHere: (17.Rf3) woah
+[10:26:44] Shurbz: Thats something interesting
+[10:26:44] Le_Merovingien: Rf3???
+[10:27:29] Le_Merovingien: Qh2 Kf1 Bxe4 that's two pawns.
+[10:27:29] Shurbz: Qxh2 and bxe4
+[10:28:45] Shurbz: Rook can’t easily move there either
+[10:29:31] NameGoesInHere: (17.Rf3) hmm, Qxh2 Kf1 Bxe4 Rf2 Qh1+ Ng1 Bg3 maybe?
+[10:29:46] Shurbz: Rf2 qh1 ng1 bg3
+[10:30:17] Shurbz: Yeah! Apparently I type slow too
+[10:30:32] NameGoesInHere: (17.Rf3) and then after Re2 at minimum there's Bd3
+[10:30:32] Le_Merovingien: Must be -3 at least here.
+[10:31:18] markmarkedymarkmark: trying to decide between Qxe4 and Bxe4
+[10:31:33] NameGoesInHere: (17.Rf3) can I include Qh1+ before Bxe4 or is that a worse version
+[10:32:34] Shurbz: What about re2 bf5
+[10:32:34] NameGoesInHere: (17.Rf3) maybe Qxh2+ Kf2 is white's idea? king seems very open though
+[10:32:34] Shurbz: In our earlier line
+[10:33:34] NameGoesInHere: (17.Rf3) possible as well, but Bd3 seems like it was just winning everything because of the pin
+[10:34:35] Shurbz: Oh yeah better
+[10:34:51] Le_Merovingien: I preferred more straightforward linse. But it should work
+[10:34:51] NameGoesInHere: (17...Bxe4) this seems good too, only way to defend h2 is Rh3 but then ...Bf5
+[10:35:36] Le_Merovingien: Rg3
+[10:36:07] NameGoesInHere: (18.Rg3) oh yeah, though I had a discovery but the knight defend every checking square
+[10:37:38] NameGoesInHere: (18.Rg3) Qh5 Rh3 Qg4 now?
+[10:37:38] Feet_Barbie: (18.Rg3) i didnt know this panov line interesting
+[10:38:39] Shurbz: I was just looking at bc3
+[10:38:39] Shurbz: Bc2
+[10:39:09] markmarkedymarkmark: Nac3 Qxc5+
+[10:39:25] Feet_Barbie: (18...Bg6) Bc2 interesting
+[10:48:02] NameGoesInHere: (22.Rg3) Bxg3 hxg3 Bg4
+[10:48:48] Feet_Barbie: (22.Rg3) i m gonna play this panov line every time wtf
+[10:50:50] Feet_Barbie: (22.Rg3) bxg3 nxg3 bishops hanging
+[10:51:20] NameGoesInHere: (22.Rg3) Bxg3 Nxg3 Qe3+
+[10:51:35] Feet_Barbie: (22.Rg3) yeah kh1 qxc3 nxf5
+[10:52:06] Feet_Barbie: (22.Rg3) ofc lack is better still
+[10:52:21] NameGoesInHere: (22.Rg3) ah yeah, not as good as I though then (but still good for black)
+[10:52:36] NameGoesInHere: (22.Rg3) somehow I thought the knight was pinned already
+[10:55:09] GoldenRetrieverChess: gg
+[10:55:24] Le_Merovingien: Whoop whoop
+[10:55:24] Le_Merovingien: gg m4
+[10:55:24] pepepibote: gg
+[10:55:39] Le_Merovingien: That opening...
+[10:59:12] markmarkedymarkmark: yeah I like that gambit idea after 3.exd5, doesn't work quite as well after 3.cxd5
+[10:59:58] Feet_Barbie: so white should go 4 d4
+[10:59:58] Feet_Barbie: interesting yes
+[11:00:13] Feet_Barbie: what a bad name for a cool gambit
+[11:00:28] Feet_Barbie: scandinavian defense panov transfer
+[11:00:28] markmarkedymarkmark: yeah I think it transposes to a Panov after 4.d4
+[11:00:28] Feet_Barbie: xD
+[11:00:43] markmarkedymarkmark: I have never heard of a transfer opening :D
+[11:06:03] markmarkedymarkmark: I gotta go, gg again, best of luck in the rest of the season!
