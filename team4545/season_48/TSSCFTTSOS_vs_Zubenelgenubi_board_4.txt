@@ -1,0 +1,187 @@
+Lichess game chat log
+Game      : https://lichess.org/alOefku4
+White     : tsscfttsos
+Black     : zubenelgenubi
+Time      : 45+45
+Captured  : 2026-05-01 17:57:40 UTC
+Game ended : 2026-05-01 16:37:34 UTC
+Messages  : 177
+────────────────────────────────────────────────────────────
+
+[14:02:49] Silkthewanderer: Go Zube
+[14:04:05] MrScribbles: (2...e6) Go el zubador
+[14:05:06] Zubenelgenubi: hi Silk Scribbles, Steven
+[14:10:41] Mennonite: Go Zube!
+[14:11:42] Silkthewanderer: So the professional move here is ....d5 and accept the Ragozin transposition
+[14:13:13] Silkthewanderer: Probably several other moves are also okay but d5 the most straightforward one
+[14:22:06] Silkthewanderer: This here I don't know. Looks fine for Black, too
+[14:31:45] Silkthewanderer: Tiny bit worried about the time usage. There will be a lot of middlegame and I'm not sure the moves here matter more than the later 10-30
+[14:34:47] nyanners: is fine
+[14:35:03] nyanners: black probably agonizing over g5 ne4
+[14:35:48] nyanners: this is thematic but too much time spent indeed tho
+[14:36:34] Silkthewanderer: I am usually a bit too cowardly with the g5 push in these structures
+[14:36:49] Silkthewanderer: g5 Bg3 Ne4 Qb3 and what is the thematic capture there?
+[14:37:50] Silkthewanderer: Both Nxg3 hxg3 and Nxc3 bxc3 Be7 b5 haven't convinced me yet
+[14:39:22] Silkthewanderer: Or is it Ne4 Qb3 a5 and ask White to spend a tempo ok a3 before you go Bxc3?
+[14:39:37] Silkthewanderer: So many options, okay that does justify some time usage
+[14:40:07] nyanners: bxc3 into nxg3 is common
+[14:40:53] nyanners: you can wait with f5 but its not entirely riskless of course
+[14:41:23] nyanners: though here i guess you can afford ..d6 ..f5
+[14:41:54] nyanners: yea really dislike this one
+[14:42:09] nyanners: but its probably more of a reflex reaction than a "fully objective" one
+[14:42:24] nyanners: just the pattern recognition kicking in, like people do Bxc3 here etc
+[14:42:55] nyanners: the obvious plus is black got the bishop pair but its not like this bishop has a real job
+[14:43:10] nyanners: like what now, Bf8-Bg7? maybe :o
+[14:43:40] nyanners: as ambitious as it is slow
+[14:44:56] Silkthewanderer: It is slow but it is consistent with previous play
+[14:45:12] Silkthewanderer: If not that, why are we giving White the h file
+[14:46:43] Silkthewanderer: And allowing the queen on c3 is really scary. So by now Bf8 looks most sensible by far
+[14:47:44] Silkthewanderer: (Provided an immediate e4 doesn't kill you)
+[14:47:44] Silkthewanderer: Anyway doesn't matter, Zubes as other plans
+[14:48:45] Zubenelgenubi: hi Menno nyanners Fischer
+[14:48:45] Silkthewanderer: What exactly does Black do next after 12
+[14:48:45] Silkthewanderer: 12. ne5
+[14:49:00] Silkthewanderer: 11. Ne5, damnit
+[14:50:01] nyanners: i kinda like qf6
+[14:50:16] nyanners: is ne5 a threat :o
+[14:50:31] nyanners: like okay d6 loses but so what
+[14:51:02] nyanners: could play Nc6 maybe
+[14:51:47] nyanners: and idk if O-O-O is good this position is already quite unusual
+[14:53:34] Silkthewanderer: My idea is 11. Ne5 Nc6 12. Nd3 Be7 13. f3 and start to claim the center
+[14:53:49] Silkthewanderer: Not sure if that is too convoluted
+[14:55:05] Silkthewanderer: 11. e4 did nor worry me as much tbh
+[14:55:05] Silkthewanderer: 11
+[14:55:21] Silkthewanderer: 11. e4 Bxc3 12
+[14:55:51] Silkthewanderer: 12. bxc3 d6 and things are fine for us, right?
+[14:56:37] nyanners: id take Bf8 over Be7
+[14:57:07] nyanners: i dont trust f3 too much because d4 and/or e5 are always weak
+[14:57:07] nyanners: very dark square problematic
+[14:57:37] nyanners: but its good if its not bad basically :o
+[14:58:38] nyanners: here too one has to wonder about 11..c5
+[14:59:09] nyanners: d5 is not easy to evaluate for me
+[15:00:10] Silkthewanderer: I was more worried about c5 e5
+[15:00:40] nyanners: umm that feels good (not that it means it is XD)
+[15:01:11] nyanners: like Qg7 feels like some dark square event is indeed coming
+[15:01:56] Silkthewanderer: c5 d5 makes the White LSB look pretty bad even if Black has to allow the pawn on d5
+[15:02:57] nyanners: time to find out XD
+[15:03:28] Silkthewanderer: Ah but I see the problem now. For White I kept calculating c5 e5  a3 lines but Black judt retreats
+[15:03:43] nyanners: ah right
+[15:03:58] nyanners: though Bxc3 also seems interesting there
+[15:04:13] nyanners: immediate Nc6 after
+[15:04:29] MrScribbles: (11...c5) Is white in trouble here?
+[15:04:44] nyanners: no clue
+[15:04:59] nyanners: i do prefer playing the "hypermodern" side in this kind of situation :o
+[15:05:45] Fischer_and_Chips88: what about 12 O-O-O is that a move
+[15:06:00] nyanners: its legal :o
+[15:06:15] nyanners: hard to say whats fine or not but i dont see anything obvious
+[15:06:30] nyanners: like, refuting it
+[15:06:30] Silkthewanderer: It certainly is the move you want to make here
+[15:07:01] nyanners: i like d5 if not for Bxc3 sometime
+[15:07:16] Silkthewanderer: But what if Black just takes? Do you give e4 or double the pawns?
+[15:07:31] Fischer_and_Chips88: double the pawns for sure
+[15:07:46] Fischer_and_Chips88: white's big centre is really important otherwise the diagonals will crumble
+[15:08:02] nyanners: this is like peak nimzo experience
+[15:08:47] Fischer_and_Chips88: when I first looked at this position I preferred white but the more I look at it the more I prefer black
+[15:10:18] Silkthewanderer: 0-0-0 Nc6 is also a concern btw
+[15:11:04] Fischer_and_Chips88: then d5 no?
+[15:11:19] Silkthewanderer: I am starting to come to the d5 camp, even if Bxc3 means that only White can be worse
+[15:12:05] Fischer_and_Chips88: I mean O-O-O Nc6 then d5
+[15:13:21] nyanners: i dont think Bxc3 is so bad for white. this looks typical but black has no easy access to c4
+[15:13:36] nyanners: black lsb is probably also going to be bad for quite a while
+[15:13:52] Silkthewanderer: I guess
+[15:14:22] nyanners: feels balanced or possibly even white better due to space
+[15:14:52] Silkthewanderer: But if anything the immediate d5 must be the idea. 0-0-0 Nc6 d5 Ne5 I actually like for Blacl
+[15:16:09] Silkthewanderer: d5 Bxc3 bxc3 e5 btw is something I also dont enjoy as White
+[15:16:24] nyanners: yea just trade queens
+[15:16:54] nyanners: omg doubled pawns queenless!! not so simple i think
+[15:17:25] Silkthewanderer: d5 Bxc3 Qxc3 Qxc3 bxc3 and then f6 looks silly...
+[15:17:40] nyanners: yea Nxg5 is a threat, and it might enable white to pursue kingside action
+[15:17:55] nyanners: double on h and/or Ng4 something
+[15:18:56] Silkthewanderer: That will get very concrete but yes..
+[15:19:11] Fischer_and_Chips88: this surely benefits white
+[15:19:11] Silkthewanderer: Black is a bit slow to develop and might lose h6
+[15:19:42] nyanners: exd5 benefits white no question
+[15:20:12] nyanners: unless theres a concrete idea here
+[15:20:12] Silkthewanderer: ....then again Black could actually still be fine even if h6 falls provided rooks come off with it
+[15:20:12] Silkthewanderer: Doesn't matter much anymore
+[15:20:12] Fischer_and_Chips88: Nh4 Nf5 so many holes in black's position
+[15:21:28] Fischer_and_Chips88: careful of bxd5 tactics but the queen sees f5
+[15:22:29] Fischer_and_Chips88: by the way sub 5 mins by move 15 is crazy
+[15:22:44] nyanners: yea not one of the best aspects of the fork2020 school
+[15:23:30] Fischer_and_Chips88: lol one time he spent 40 mins on one move against me just to play a completely unnecessary king walk and lose
+[15:25:01] nyanners: i do believe there is such a thing as a point where spending more time actually has negative effect
+[15:25:16] Fischer_and_Chips88: google Hikaru Nakamura
+[15:25:16] nyanners: AHAH
+[15:25:32] Silkthewanderer: Spending much time is usually a bad sign, not sure how much symptom how much cause
+[15:25:32] nyanners: its not only about time trouble but also about we only have so much energy for a game
+[15:25:47] Zubenelgenubi: went downhill really fast
+[15:25:47] Silkthewanderer: Nf5 then Rh5 is a funny idea btw
+[15:26:02] nyanners: and at some point you start to drift away from the fundamentals of the position
+[15:26:17] Fischer_and_Chips88: oh Rh5 is nice
+[15:27:03] Fischer_and_Chips88: agreed nyanners it is a big mental thing, have to just play a move sometimes.
+[15:28:19] nyanners: yeah the risks of spending time are generally understated :o
+[15:29:05] nyanners: maybe a bit of a cultural thing where its considered "acceptable" to get into time trouble often
+[15:29:05] nyanners: i.e. "we lost but spend all our time" kinda thing
+[15:29:35] nyanners: while theres some excessive fear of blundering early somehow
+[15:29:35] Mennonite: personally i get a real adrenaline rush out of time trouble... and i think i subconsciously find myself chasing that
+[15:29:35] Silkthewanderer: Might be a matter of youth training
+[15:30:06] nyanners: i chase it very consciously, as one could see from my game history :o
+[15:30:06] Silkthewanderer: I think most strong players at some point had a coach who got annoyed when you played without using the tim
+[15:30:36] nyanners: ooooh so that was my edge, i didnt have a coach :D
+[15:30:36] Silkthewanderer: Whereas it is entirely possible, especially for young players, to reach the full depth of understanding within seconds
+[15:31:06] nyanners: it does sound true tho
+[15:32:53] Zubenelgenubi: b.l.r.=beyond level of repair
+[15:33:23] nyanners: eh this is probably just regular terrible
+[15:33:23] nyanners: no existential dread yet
+[15:37:42] nyanners: reflex was Kf8 but.. Kd8? :o actually dont know
+[15:37:42] Silkthewanderer: Bb5 just pushes the king to a safer square but I guess the main purpose was to connect rooks
+[15:38:13] Silkthewanderer: I think Kd8 is best. c7 is the best square on the board for it IMO
+[15:39:44] Silkthewanderer: After Kf8 I think the knight can just go back to h4
+[15:40:14] Zubenelgenubi: Be2 now
+[15:48:37] Silkthewanderer: Bc6 looks fun but Black wanr
+[15:48:52] Silkthewanderer: ...ted to go Ra7 anyway
+[15:49:07] Silkthewanderer: This is starting to lool salvageabl
+[15:50:08] nyanners: yea im not too sure what has been happening but white pieces got worse and black pieces got better
+[16:00:02] nyanners: now time is even, too. momentum black?
+[16:15:45] Silkthewanderer: 36. ...Ra8 and then?
+[16:16:16] Silkthewanderer: Ah... Nb6 Re8 Rd8
+[16:16:46] Silkthewanderer: So Nb6 g2 Nxa8 Rh1 is a critical line
+[16:17:47] Silkthewanderer: This looks like a knightmare to evaluate on increment
+[16:18:33] Silkthewanderer: Rxe6 first and then fxe6 Nb6 g2 Nxa8 and White promotes first
+[16:19:18] Silkthewanderer: So after Rxe6, again, immediate g2 seems logical
+[16:20:35] Silkthewanderer: Oh wow... Nb6 g2 Rd8+ wins because Ke7 Nd5 is actually mate
+[16:24:23] Silkthewanderer: I wonder if 38. Rxe6 was winning
+[16:24:53] Silkthewanderer: Oh... wait
+[16:24:53] Silkthewanderer: Something went wrong
+[16:25:24] Silkthewanderer: 41. rxe6 rxc7 re8 kg7 nf5
+[16:25:24] Silkthewanderer: And trouble
+[16:26:25] Silkthewanderer: And this is the wrong move order c8 D Bxc8 RXE7 be6! And I think Black wins once again
+[16:27:10] Silkthewanderer: Oh
+[16:27:25] Silkthewanderer: Nf5 is a mate threat but also a bluff
+[16:27:25] Silkthewanderer: Because Rh1 pins
+[16:27:25] Pope123: (42...Be6) What is this madness
+[16:27:41] Silkthewanderer: So much stuff to overlook
+[16:27:41] Zubenelgenubi: why did I do that ?
+[16:28:11] Zubenelgenubi: lol maybe it's not bad
+[16:28:26] Silkthewanderer: Ah... Rb7-b1 might still win for White
+[16:28:57] Mennonite: 44...Rd4 lead to anything?
+[16:29:12] Mennonite: no, just 45.Rbb1
+[16:31:14] Pope123: (45.Rbb1) The 'why did I do that' comment hits hard
+[16:32:30] Silkthewanderer: The madness is not quite over yet
+[16:33:00] Mennonite: why not 46...f4?
+[16:33:31] Silkthewanderer: Zubes is doing a lot of things right after the rook loss. Restrict the knight, play against the clock
+[16:34:01] Silkthewanderer: f4 allows Ne4
+[16:35:02] Silkthewanderer: Ah, f4 Ne4 Bf5 you mean? That does look promising
+[16:35:17] Inter-temporal: goo Zubenelgenubi
+[16:37:04] Pope123: (51.Rxb7+) rip
+[16:37:04] Silkthewanderer: Aq
+[16:37:19] Inter-temporal: oof
+[16:38:50] Zubenelgenubi: lol I came back from hell only to jump in volunatarily
+[16:39:21] Inter-temporal: but Very few "mistakes"? :)
+[16:40:06] Zubenelgenubi: 10 blunders lol. must be my record
+[16:40:22] Pope123: 50% accuracy means you passed the test
+[16:40:22] Zubenelgenubi: I understood nothing in this game
+[16:41:07] Zubenelgenubi: the whole time I was 'how do I stop that'
+[16:41:22] Zubenelgenubi: only to find out I allowed smth worse
+[16:43:39] Zubenelgenubi: 4 min on move 12 didn't help, but that's my fault
+[16:48:59] nyanners: so close yet so far
