@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/4NAbBxMK
+White     : neothehero
+Black     : che55m45ter
+Time      : 45+45
+Captured  : 2026-05-01 12:24:07 UTC
+Game ended : 2026-05-01 11:04:03 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[09:22:36] Neothehero: (17...Na5) should I play f4 or g4???
+[09:23:36] Neothehero: (17...Na5) or even h4?
+[09:30:12] Neothehero: (18.f4) I thought h4 would be met by h5, then I have no further pawn breaks
+[09:30:27] Neothehero: (18.f4) at least f4 seems to be the most typical move
+[09:30:27] Neothehero: (18.f4) expecting Nc4 by black
+[09:30:43] Neothehero: (18.f4) f4 also prepared Rf3
+[09:37:33] Neothehero: (18...Nc4) g4 Nd7 g5 Ndxe5 fxe5 I
+[09:37:49] Neothehero: (18...Nc4) 'm scared that I will have no attack
+[09:38:04] Neothehero: (18...Nc4) candidate moves are f5, g4 and Rf3
+[09:43:39] Neothehero: (19...a5) Rh3 b4 Nxc4 dxc4 Bb1 I lost the f4 pawn
+[09:44:24] Neothehero: (19...a5) Rh3 b4 ab4 ab4 cb4 seems like I will lost the b4 pawn
+[09:44:39] Neothehero: (19...a5) is Rc1 a move here?
+[09:46:41] Neothehero: (19...a5) Rc1 b4 cb4 Qb6 Nxc4 dxc4 Bxc4 Qxd4+ doesn't look good
+[09:50:14] Neothehero: (19...a5) I'm just gonna ignore the queenside
+[09:50:45] Neothehero: (20.Rh3) expecting b4 from black
+[09:52:16] Neothehero: (20.Rh3) I decided that 20. Rc1 didn't work
+[09:56:04] Neothehero: (20.Rh3) I just saw that Nxf7 followed by Qxe6+ is a possible idea
+[09:57:20] Neothehero: (20...g6) deciding between 21. g4 and 21. Rf1
+[09:58:36] Neothehero: (20...g6) Rf1 h5 g4 hxg4 Nxg4 Nxg4 Qxg4 Nxb2 also looks good for me
+[10:00:53] Neothehero: (20...g6) g4 Nd7 Nxf7 Qxf4 Nh6+ Kg7 Qxe6 looks good
+[10:03:56] Neothehero: (21.g4) Nxe5 doesn't work because fxe5 and I wing the b5 pawn
+[10:06:28] Neothehero: (21.g4) the threat is now g5. If Nh5 then Rxh5 gxh5 Qxh5 not sure if this works
+[10:06:43] Neothehero: (21.g4) if g5 Nd7 then Nxf7 surely works
+[10:07:44] Neothehero: (21.g4) if g5 Ne8 then I have no idea what to do
+[10:08:45] Neothehero: (21.g4) maybe if g5 doesn't work I could play f5 as well
+[10:10:01] Neothehero: (21...Kg7) wow didn't expect Kg7
+[10:11:17] Neothehero: (21...Kg7) f5 or g5?
+[10:13:49] Neothehero: (21...Kg7) f5 Nxe5 dxe5 Qc5+ Kh1 is super unclear
+[10:15:21] Neothehero: (21...Kg7) or maybe I should play a passive move like Kh1
+[10:17:07] Neothehero: (22.g5) screw it let's just go g5, I don't want to waste any more time
+[10:18:39] Neothehero: (22.g5) perhaps the point of Kg7 was to play Rh8
+[10:18:54] Neothehero: (22.g5) Nh5 Rxh5 Qxh5 Rh8 Qh6+ Kg8 at least I jail the rook
+[10:19:39] Neothehero: (22...Ng8) Ng8 wow
+[10:33:06] Neothehero: (23...Ne7) wait Nxf7???
+[10:37:25] Neothehero: (24.Rxh7+) Hopefully this works
+[10:38:10] Neothehero: (24.Rxh7+) oh no did I miss Kxh7Qh5+ Kg8???
+[10:38:41] Neothehero: (25.Qh5+) should've played 24. Nxf7
+[10:40:27] Neothehero: (26.Qh6) I think I'm losing now
