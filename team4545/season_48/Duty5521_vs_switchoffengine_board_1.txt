@@ -1,0 +1,81 @@
+Lichess game chat log
+Game      : https://lichess.org/gVA73n5x
+White     : duty5521
+Black     : switchoffengine
+Time      : 45+45
+Captured  : 2026-05-02 11:55:37 UTC
+Game ended : 2026-05-02 10:35:32 UTC
+Messages  : 71
+────────────────────────────────────────────────────────────
+
+[08:08:11] Duty5521: [7... d5] Out of theory, I need to figure out my plan there. I'm not sure if Nb6 d5 was a mistake or not.
+[08:11:44] Duty5521: [8. h3] I was really more trying to find a plan but I'll probably  just bring out my pieces for now. I need to keep an eye on a5 though
+[08:14:32] Duty5521: [11... O-O] I don't know what I'm doing with my bishops but I'll roll with it
+[08:16:03] Duty5521: [12. Bc2] I think it's okay for me to allow Nc4, it doesn't look like it really does anyhting there
+[08:18:05] Duty5521: [13... f6] I can kick that knight out if it ever comes to c4, it wasn't really a worry
+[08:22:23] Duty5521: [14. exf6] I think it's my only choice, I don't want to move my dark-squared bishop yet and Re1 looks kind of stupid to me
+[08:23:24] Duty5521: [15. Qe2] This was my idea, although I though there was going to be Rxf6 and I would have had to look out for sacrifices
+[08:26:57] Duty5521: [16. Rd1] I didn't realize but now that the bishop is on f6 I can play b3 anytime Nc4 is played without having to worry about Na3
+[08:28:59] Duty5521: [13... Rae8] This was the point for sure, but I'm tempted to allow e5, take and play against the d pawn
+[08:30:00] Duty5521: [17. Be3] I don't really see another plan anyway so that's what I'm doing
+[08:35:34] Duty5521: [19. fxe3] Trading was to be expected. Following my plan I should take with the queen but I'm worried about the tactics afterwards, ...
+[08:35:34] Duty5521: ...and taking with the pawn disallows 19... e5 because of 20 Nxd5!.
+[08:48:15] switchoffengine: wait whatt
+[08:48:31] switchoffengine: am i not winning after Rxf3
+[08:49:32] switchoffengine: mm Rxf3 Rxf3 Qh2+ Kf2 i see, nothing with Bg3+
+[08:53:35] switchoffengine: i have Qg3 or Rf5
+[08:54:21] switchoffengine: b5 looks nice too
+[08:55:06] switchoffengine: he wants b5 or e4 i think
+[08:58:24] switchoffengine: i wanna make Rxf3 work so bad
+[09:04:14] switchoffengine: but it does not :(
+[09:05:00] switchoffengine: Rxf3 Rxf3 Qh2+ Kf2 Bg3+ Rxg3 Rf8+ Rf3 Rxf3+ Kxf3 e5 Rf1 e4+ Nxe4 is easy for white
+[09:06:16] bufferunderrun: let's go switch!
+[09:10:50] switchoffengine: e4 Rf4 exd5 exd5 Nxd5 Rxd4 looks fun for me
+[09:11:20] switchoffengine: he does have Qb3 though
+[09:16:09] switchoffengine: g4 Rxf4 exf4 Qxf4 i will just go for it
+[09:17:25] Duty5521: |26... Rxf4] I saw it coming, I'm scared now
+[09:24:31] switchoffengine: passed pawns must be pushed!
+[09:25:32] switchoffengine: i think this is better than e5 Nxd4 Bxd4 Rd1 when i cannot push e4 and its awkward
+[09:26:33] switchoffengine: might be just lost for white, my pawns are coming down fast
+[09:28:35] switchoffengine: a4 e4 Rf1 d4 a5 Ba2 Rc1 d3 Rc7 e3 Rf2 Bd4 gg
+[09:28:50] King12-life: Very interesting ending, the passed pawns look very strong though
+[09:29:36] King12-life: Maybe Raf1 Rf7 Rxb7 R1f7 is the last hope for white, might work
+[09:29:51] OmegaEpsylon: yeah that's what i was thinking too
+[09:31:22] switchoffengine: i just realized another benefit of Nxf3, e4 comes with tempo now
+[09:33:24] King12-life: But 33. Raf1 e4 34. Rf7 e3 35. Rxb7 e2 is gg
+[09:37:12] switchoffengine: Rd5 probably the best try
+[09:40:15] switchoffengine: Rd5 maybe Kf7 Rf1+ Ke6 chase the rook away and activate my brave king
+[09:40:30] switchoffengine: Rd7+ is annoying though
+[09:43:17] switchoffengine: he can set up a light square blockade if i trade rooks
+[09:43:17] switchoffengine: maybe Kf8 is better
+[09:44:03] switchoffengine: d3 Re1 for the cheap trick Rxd3
+[09:44:18] switchoffengine: Kf8
+[09:46:51] switchoffengine: ah i have Re7 first then Kf7
+[09:47:51] switchoffengine: me likey
+[09:49:23] switchoffengine: Rf1 d3 Rd1 Kf7
+[09:50:08] switchoffengine: Re1 Kf7 i will just be patient
+[09:50:39] switchoffengine: need to watch out for Rf1 and Rd6 though
+[10:09:40] switchoffengine: forgot about this, sad
+[10:11:11] Duty5521: [42. Rd4] I was in a bad position after 41... Ba7 but I think that I'm actually winning now
+[10:13:59] switchoffengine: need to play better!
+[10:16:16] King12-life: Yeah probably winning for white but not obvious still
+[10:18:48] bufferunderrun: I like Rd5
+[10:19:49] bufferunderrun: black's problem are the pawns on the light squares on the Q-side
+[10:20:19] bufferunderrun: Rf4 made more sense
+[10:20:19] bufferunderrun: *f5
+[10:20:34] bufferunderrun: you definitely do not want to take on f4
+[10:24:53] bufferunderrun: 54.Rb6 seemed alright
+[10:25:24] King12-life: 54. Rb6 was definitely more precise
+[10:25:39] King12-life: Oh but I guess 55... Kb5 56. Rb6+ and it's fine
+[10:26:09] King12-life: Hmm it might not be that easy anymore
+[10:26:09] bufferunderrun: well, there was Bd6 aiming at a cheap Kxe3 Bc5
+[10:27:10] King12-life: I would have taken on h4 though
+[10:27:25] bufferunderrun: yeah
+[10:27:25] King12-life: Cause then maybe you can sac your bishop for the g pawn and hold the draw
+[10:30:13] bufferunderrun: I would have just 56.Rb6, grab the pawn and then go after h6 and then you can probably sac on e3, that pawn ending should be wining
+[10:30:28] bufferunderrun: *winning
+[10:32:14] King12-life: Yep
+[10:36:03] King12-life: ggs
+[10:36:18] Duty5521: i was on autopilot there at the end lol
+[10:36:33] bufferunderrun: gg
+[10:47:57] Duty5521: I looked at 36. Rd6 but I missed 36. Rd6 Ba7 37. Rd8+ Kf7 38. Rf1+ Ke6 39. Rf4 Ke5 40 Rf5. Ke6 41 Rdd5!
