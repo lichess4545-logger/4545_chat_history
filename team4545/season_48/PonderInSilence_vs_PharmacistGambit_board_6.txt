@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/hF8hRrAh
+White     : ponderinsilence
+Black     : pharmacistgambit
+Time      : 45+45
+Captured  : 2026-05-02 03:48:56 UTC
+Game ended : 2026-05-02 02:28:53 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[01:04:40] PonderInSilence: (2...d5) This was not what I prepped
+[01:08:44] PharmacistGambit: messed up my line shouldn’t have taken the pawn first
+[01:09:14] PharmacistGambit: still worked out though
+[01:40:26] Inter-temporal: (21)  7...Nxe5 is the old tactic from the de groot studies.
+[01:41:27] Inter-temporal: (21) (21.Qb5) some fancy sequences in this game
+[01:42:13] FoidManipulator: a6 b5
+[01:43:14] Inter-temporal: (21) (21.Qb5) no Qb6?
+[01:44:30] FoidManipulator: Rc8 Qxb7 Rac8 was my thought
+[01:44:45] FoidManipulator: Rc6*
+[01:45:00] Inter-temporal: (21) (21.Qb5) Qxb7
+[01:46:01] Inter-temporal: (21) (21.Qb5) i see.
+[01:46:01] FoidManipulator: 21. a6, 22. Qb6 Rc6, 23. Qxb7 Rac8
+[01:46:16] FoidManipulator: if Qxb7 immediately Rcb8
+[01:47:17] Inter-temporal: (21) (21...b6) this is different. white would be happy with a draw, most likely
+[01:51:05] Inter-temporal: (21) (21...b6) wonder how white resists... pick up a Q-side pawn; h4-h5 and invade the back rank; can't see an effective blockade. idk
+[01:51:21] FoidManipulator: Take the bishop before Rc5
+[01:51:36] Inter-temporal: (21...b6) right. first things first. lol
+[02:08:35] ButterPecan: (22) let's go pharmacist!
+[02:15:41] Inter-temporal: (25) (25.b3) might have wanted to keep it on b2, to prevent a heavy piece landing on c3
+[02:25:05] PonderInSilence: (32...dxc1=Q+) That was not smart  ̄\_(ツ)_/ ̄
+[02:27:22] PonderInSilence: (40.a4) No memes today :(
+[02:28:53] Inter-temporal: (41) gg
