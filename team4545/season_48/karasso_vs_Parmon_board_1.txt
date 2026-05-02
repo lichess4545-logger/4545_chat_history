@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/frm8rm13
+White     : karasso
+Black     : parmon
+Time      : 45+45
+Captured  : 2026-05-02 12:38:45 UTC
+Game ended : 2026-05-02 11:18:41 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[09:15:56] Parmon: (10...Ng6) I'm not sure if it's a good rule that i have: to capture on b2 whenever i don't see a specific punishment
+[09:21:30] Parmon: (11...Ncxe5) basically i need to keep white from overdefending c3 to prevent Bc1, and same with a2 to prevent Rb1
+[09:23:32] karasso: (14) still in prep, Ra2 will trap his queen. Best chance for black is Bxc5 Ra2 Qxb4 cxb4 Bxd4 with 3 pawns and two pieces for the Queen
+[09:25:49] Parmon: (14...Nf4) yeah of course i missed the trick with giving an a2 pawn with a plan of Ra2.
+[09:26:20] Parmon: i wonder if it was prepared
+[09:27:20] Parmon: unfortunately Nf4 also doesn't solve anything, Ra2 still works, ...Nd3+ Kf1
+[09:27:51] Parmon: but i'll have a few pawns and a rook for a queen, so will keep on suffering for a couple more hours i guess
+[09:35:27] Parmon: (17...Nh4) Nb5 is very annoying
+[09:42:49] Parmon: (18...Rc8) ...Bxb5  didn't work because of Bxb5+ Nc6/d7 Qa4
+[09:47:07] Parmon: (19...Bxb5) now with a bishop on f4, a knight on h4 is no longer hanging, so i guess it's now possible
+[09:53:12] karasso: (21) Bxc5 Nxc6 bxc6 Ba6 Rd8 Qa4 0-0 Bc7 Rd7 (Re8 Qxh4) Qxc6 is my idea
+[10:28:28] Parmon: (39...Kf8) i had already lost in my mind and decided to just suffer for a while, and now it actually looks holdable somehow
+[10:28:43] Parmon: or at least i don't see a clear way to win for white
+[10:29:28] Parmon: on the other hand, there's no easy way to draw, there are threats against which i'll have figure out a way to defend
+[10:39:22] Parmon: (43...Ng8) with my knight on h6, he cannot attack f7 many enough times, and if his bishop attacks e6 and queen is on the 7th...
+[10:39:37] Parmon: my king must be on the 8th rank
+[10:44:42] Parmon: (44...Kf8) Bxe6 fxe6 Kxe6 Be7 = (hopefully)
+[10:45:12] Parmon: with my knight on h6, that would be lost actually
+[11:09:18] Parmon: (47...Bh4) yeah unfortunately it's lost. i thought that with two pieces for a queen i'd draw rather easily, but nope
+[11:09:48] Parmon: white king is too active, my knight is too bad, an f-pawn is too alive
+[11:13:06] Parmon: (48...Kh6) any piece on e7 - 49.f4 and then trade on e7, the pawn endgame is losing
+[11:13:21] Parmon: Kh8 49.Qd4+
+[11:19:42] Parmon: great prep!
+[11:20:43] karasso: thanks
+[11:23:15] karasso: the first move i played on my own (Ra2 after Nf4) is directly an inaccuracy^^
