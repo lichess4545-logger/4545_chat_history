@@ -1,0 +1,140 @@
+Lichess game chat log
+Game      : https://lichess.org/w0yunqSf
+White     : acebulf
+Black     : psymar2
+Time      : 45+45
+Captured  : 2026-05-02 22:54:14 UTC
+Game ended : 2026-05-02 21:34:10 UTC
+Messages  : 130
+────────────────────────────────────────────────────────────
+
+[18:07:41] Acebulf: (5.Nc3) Weird variant of the English here, I don't think I play with the black bishop in that position often
+[18:08:27] Acebulf: There's a usual weakness on b2 that will be important to watch out for until that bishop is off the board
+[18:13:01] Pineapplechiffoncake: Go Acebulf!
+[18:20:22] PsyMar2: Maybe Qd7 was too passive and I should've played Ng4... but I couldn't convince myself I had adequate reason
+[18:24:41] Acebulf: )9... Kb8) I don't understand this move at all
+[18:56:53] bronasberger: Go Psymar2!
+[19:03:14] nyanners: almost definitely 5..Ng4, forcing Nh3 is nice and can proceed with h5
+[19:04:15] nyanners: 6..Ng4 7 O-O h5 8 h3 h4 9 hxg4 hxg3 may also be a line but i dont know by heart when that works
+[19:05:46] nyanners: at move 7 it might still be the same but it cant be better than at move 6 ofc
+[19:07:02] nyanners: enterprising play from black but seems white has blockaded successfully
+[19:08:03] nyanners: white is definitely happy to have traded the black lsb
+[19:09:04] nyanners: now black will blockade too? :D 24 b6+ is tempting but white can probably be sane and just stay a pawn up
+[19:16:56] thestormingeagle: Go PsyMar2!
+[19:17:26] PsyMar2: Would you believe that, when I played 25...Ng4, I didn't even see the follow-up threat of Rf6
+[19:19:43] nyanners: starting to get a little weird again
+[19:22:15] nyanners: d4 is nice
+[19:27:04] Acebulf: (27.Qc3) the attack is unraveling a bit
+[19:27:50] Acebulf: There were some nasty traps if I didn't go d4 on move 26
+[19:36:13] nyanners: nc6 may be an actual threat due to f6 loose
+[19:40:16] nyanners: rf4 sure is a way to deal with that :o
+[19:40:16] nyanners: a good one, probably
+[19:43:34] nyanners: now i like black again :o
+[19:44:20] nyanners: oh wait Nf5 Nh6. i hadnt seen that
+[19:44:50] nyanners: but okay Rf4 too..
+[19:45:21] nyanners: some strange things happening. good thing its not my problem
+[19:49:39] Acebulf: 31...Rxe4 looked interesting
+[19:50:25] nyanners: nah due to Qxc7 at the end
+[19:50:40] nyanners: Rh4 back is a great find
+[19:59:33] PsyMar2: I was expecting a repetition.  I'm not disappointed about continuing to play, but I don't get to use the one-liner I was preparing
+[20:00:49] PsyMar2: in retrospect the one-liner was undercooked anyway
+[20:14:46] ttsgosadow: Go Ace!
+[20:17:18] aldric123: Man I didn't notice this game had started, gotta catch up!
+[20:17:34] aldric123: Go PsyMar2!
+[20:21:52] nyanners: idk how white progresses to be honest
+[20:22:08] aldric123: I'm not sure either
+[20:22:08] nyanners: in fact black might even have some invasion opportunities
+[20:22:38] nyanners: wiiiide open
+[20:22:53] nyanners: i would be actually terrified
+[20:23:08] nyanners: Kf2 and offer draw
+[20:23:08] aldric123: You? Don't you have the heart of a lion!?
+[20:23:24] nyanners: black should :o
+[20:24:40] aldric123: It does look like black can probably either get a perpetual or start winning pawns like a4
+[20:26:11] nyanners: yea just place the queen somewhere
+[20:26:11] nyanners: see what happens
+[20:26:42] nyanners: i dont think its too dangerous for black to dive in
+[20:26:42] aldric123: yeah Qd4 or c3 look kind of tasty
+[20:27:58] aldric123: I was looking at this also, but the Q move seemed safer
+[20:28:58] aldric123: I guess if Qg7 you could still take on e4 since h1 is hanging with check
+[20:29:29] aldric123: or b1 since you'd take a2 with check
+[20:31:00] nyanners: basically i dont see how white wins but black can move around
+[20:31:15] aldric123: yeah, though black still has to be a bit careful
+[20:31:15] nyanners: probably Rg6 for white
+[20:31:31] nyanners: thats about it
+[20:31:46] nyanners: Rh6 is perfectly placed
+[20:32:47] aldric123: Rg8?
+[20:32:47] nyanners: sure
+[20:33:32] nyanners: i thought rg4 rx into qc4+ but qe2 back XD
+[20:36:50] aldric123: Maybe Qc1+ then likely back go g5
+[20:37:51] aldric123: White has the more obvious weaknesses but can black win
+[20:38:37] aldric123: 55...Rh1 looking to go after a4 was interesting
+[20:38:52] aldric123: But maybe just Rh2
+[20:42:56] aldric123: ouch
+[20:43:26] ttsgosadow: That might be a break through for white :)
+[20:43:26] aldric123: Yeah Kf7 is rough
+[20:51:18] ttsgosadow: It's tense now
+[20:52:19] aldric123: I think white is winning but black has some tricks of white isn't careful
+[20:52:34] aldric123: 76.Ke6 is very solid
+[21:03:28] aldric123: good job (at this point) of getting to what looks like a draw
+[21:06:31] aldric123: I think 88...Rh6 was easier, though still should draw
+[21:06:46] betolini: A Philidor position
+[21:06:46] aldric123: Rh6 is classic philidor yeah
+[21:07:47] aldric123: Yeah this could get tricky again after 89.Ke6
+[21:08:02] Mennonite: i think black knows the idea of the philidor but has the execution off
+[21:08:17] aldric123: 89... Rh1 is probably best now?
+[21:08:17] betolini: Rf1 was a mistake
+[21:08:33] betolini: Rh6 was better
+[21:08:33] aldric123: It's a mistake, but I think it's still drawable if Rh1
+[21:08:33] aldric123: Obviously, Rh6 was the classic move from endgame books
+[21:08:48] aldric123: But I think Rh1 still draws
+[21:08:48] ttsgosadow: Yeah
+[21:09:03] betolini: Ra8, Kc7, d6+
+[21:09:03] betolini: And the pawn runs
+[21:09:18] betolini: And it's not a Philidor anymore
+[21:09:33] aldric123: Oh crap, so now you have to do Rd1
+[21:09:33] aldric123: That other defense name I forget
+[21:09:33] aldric123: Hocksomething
+[21:09:49] betolini: If Rd1, Kd6 and white wins
+[21:10:04] aldric123: Nah
+[21:10:04] aldric123: If Rd1 Kd6 Kc8
+[21:10:19] betolini: Rh1 and now the rook is on the long side
+[21:10:19] aldric123: and you go short side
+[21:10:34] aldric123: but she didn't go Rd1
+[21:12:36] ttsgosadow: White needs to build a bridge, right?
+[21:13:07] betolini: Yes, but the black king is well placed
+[21:13:22] betolini: He lost a time with 91.-Ra7
+[21:13:52] aldric123: Is cling and horwitz what I was thinking?
+[21:14:07] aldric123: I think 93...Rd2 was correct
+[21:14:23] aldric123: stay on the pawn
+[21:14:23] betolini: This is a draw
+[21:14:38] aldric123: It's a draw if black doesn't mess up
+[21:14:38] Mennonite: it's not a Lucena until the pawn reaches the seventh rank
+[21:14:53] aldric123: not a lucena with enemy king in front of pawn
+[21:15:39] betolini: He was winning after 90.Kc8, but now this is a draw
+[21:16:09] aldric123: Ra6+ gets back to philidor kinda?
+[21:18:57] nyanners: how very interesting XD
+[21:19:12] nyanners: a most eventful game, for sure
+[21:19:57] aldric123: I guess Rd6 of all things looks easiest now
+[21:19:57] nyanners: i know its a theory draw but i say white wins like 30% ish
+[21:20:28] aldric123: Yeah, it's easy enough to mess up if you didn't know the earlier Rh6 easy draw
+[21:22:14] nyanners: the good thing for black is that both players have an unusually high amount of time to play this out XD
+[21:22:30] aldric123: They were both lower earlier, but got time from increment
+[21:22:45] nyanners: yes lots of time gain with the quick pawn chopping
+[21:23:00] Mennonite: i was previously a teammate of one of these players and they were a classical blitzer that season, so happy to see that's improved :)
+[21:24:01] aldric123: White's going exotic to see if black messes up
+[21:24:16] aldric123: Ka2 indeed
+[21:24:31] Mennonite: no harm in it
+[21:24:47] aldric123: Oh I agree, I'm just mildly amuses
+[21:24:47] aldric123: amused
+[21:25:32] aldric123: Oh it was Ka7 not a2, coordinates are hard
+[21:33:24] ttsgosadow: Draw, well played both!
+[21:33:39] Mennonite: gg
+[21:33:39] bronasberger: Good game!
+[21:34:10] PsyMar2: Tal once said that to win a game of chess, you must lead your opponent into a deep, dark forest...
+[21:34:10] PsyMar2: Sometimes, in order to draw a game of chess, you must set that forest on fire.
+[21:35:10] PsyMar2: For the record I was out of book from move 2
+[21:35:10] nyanners: gg
+[21:35:26] PsyMar2: Kb8 I played because, well, when castled queenside it just has a tendency to save your butt if you played Kb8
+[21:58:44] PsyMar2: appreciate the commentary
+[21:58:44] PsyMar2: I need to review KRPkp...
+[21:58:59] PsyMar2: er KRPkr
