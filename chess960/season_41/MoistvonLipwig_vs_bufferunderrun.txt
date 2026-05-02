@@ -1,0 +1,18 @@
+Lichess game chat log
+Game      : https://lichess.org/WgIawaQx
+White     : moistvonlipwig
+Black     : bufferunderrun
+Time      : 20+20
+Captured  : 2026-05-02 09:38:07 UTC
+Game ended : 2026-05-02 08:18:03 UTC
+Messages  : 8
+────────────────────────────────────────────────────────────
+
+[08:10:26] MoistvonLipwig: oops; but maybe it's fine
+[08:10:41] MoistvonLipwig: I have a lead in development and open line against the black king
+[08:12:58] MoistvonLipwig: surely this can't work for Black?
+[08:13:44] MoistvonLipwig: but even on 6...Bxc3 it looks good for White; maybe I just got lucky and the pawn couldn't be taken
+[08:19:04] MoistvonLipwig: Indeed looks this way
+[08:20:50] MoistvonLipwig: 1.g4, I was considering that; but then decided to play more normal
+[08:22:52] MoistvonLipwig: Did you see 4...Qxh2 5.g4 Nc6 6.Bxc6 Bxc6 7.d5 Bxc3 8.dxc6 ?
+[08:25:08] MoistvonLipwig: Engine simply gives 5.g4 Nc6 6.f4 and seize the space
