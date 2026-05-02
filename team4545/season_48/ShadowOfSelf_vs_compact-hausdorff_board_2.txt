@@ -1,0 +1,36 @@
+Lichess game chat log
+Game      : https://lichess.org/tx84Etoy
+White     : shadowofself
+Black     : compact-hausdorff
+Time      : 45+45
+Captured  : 2026-05-02 19:23:12 UTC
+Game ended : 2026-05-02 18:03:07 UTC
+Messages  : 26
+────────────────────────────────────────────────────────────
+
+[16:05:56] PaulWithAnS: (5) Go ShadowOfSelf!
+[16:07:58] cham: go hausdorff!
+[16:08:28] ShadowOfSelf: not sure if I'm supposed to go into this endgame but it seems reasonable
+[16:10:30] ShadowOfSelf: once again completely missed with my prep of 1. c4 e6
+[16:24:58] ShadowOfSelf: both 0-0-0 and Rd1 are tempting but i like getting in b4 now before Na6 prevents it
+[16:43:44] osumarko: Go shadow!
+[17:05:17] ShadowOfSelf: there's a funny line with 15. Nh4 where I lose the e pawn but probably win a pawn back
+[17:23:03] ShadowOfSelf: allowing Be4 feels pretty bad, I could be worse here soon
+[18:03:38] compact-hausdorff: Ah interesting, seems like the engine likes h6
+[18:03:53] compact-hausdorff: I was concerned I was being too slow, allowing Nd2 c5 business
+[18:03:53] ShadowOfSelf: yeah i thought preventing Ng5 was annoying for me
+[18:03:53] PaulWithAnS: gg. Interesting game
+[18:04:08] compact-hausdorff: indeed, thanks for the game!
+[18:04:23] ShadowOfSelf: h3 on the other hand I think was too slow
+[18:04:38] ShadowOfSelf: i was worried about e4 e3 Ng4 ideas but I think  there are bigger problems
+[18:04:54] compact-hausdorff: Yeah, I think you should've started pushing on the QS sooner while I'm still underdeveloped
+[18:04:54] compact-hausdorff: So that a5 can be met by b5
+[18:05:39] compact-hausdorff: Seems surprisingly tempo-sensitive for such a positional game lol
+[18:06:10] ShadowOfSelf: yeah was interesting
+[18:06:25] compact-hausdorff: indeed, seems like the engine likes 12. Nd2 Be6 13. b5
+[18:06:25] ShadowOfSelf: apparently black scores really well after the queen trade in this position
+[18:06:55] compact-hausdorff: Ah yeah, I'd studied this before the game and d:e5 wasn't in my file
+[18:07:10] compact-hausdorff: Figured black equalises
+[18:07:26] ShadowOfSelf: I was looking entirely at 1. c4 e6 lol
+[18:08:42] compact-hausdorff: I think after d6 white is supposed to go Nc3 Rd1 e4 and take up the center
+[18:09:58] compact-hausdorff: anyway not an English expert, first time I've played e5 since I saw my profile consisted entirely of c4 e6
