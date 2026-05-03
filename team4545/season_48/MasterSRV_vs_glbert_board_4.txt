@@ -1,0 +1,226 @@
+Lichess game chat log
+Game      : https://lichess.org/DeLjCaHn
+White     : mastersrv
+Black     : glbert
+Time      : 45+45
+Captured  : 2026-05-03 16:40:56 UTC
+Game ended : 2026-05-03 15:20:51 UTC
+Messages  : 216
+────────────────────────────────────────────────────────────
+
+[12:56:16] osumarko: go srv!
+[12:56:31] guitarspider: go glbert
+[12:57:01] Tranzoo: go glbert, go chess!
+[12:57:47] chraki: let's go glbbbbberttttt
+[12:57:47] chraki: hi osumarko :D
+[12:58:02] glbert: hi everyone, especially my good friend chraki.
+[12:58:02] chraki: <3 <3 <3
+[12:58:17] glbert: and tranzoo, who somehow manipulates the pairings to avoid playing me.
+[12:58:32] chraki: hi tranzoo!
+[12:59:03] chraki: chammmmm's in the houseeeee
+[12:59:03] cham: chammmmmmmmmmmmmmmm
+[12:59:03] chraki: number one number one
+[12:59:18] cham: number one, number one
+[13:01:05] cham: so what's everyone up to
+[13:01:20] chraki: watching a chess game wbu
+[13:01:20] cham: same
+[13:02:21] cham: bout to get on the exercise bike
+[13:02:36] cham: #stark
+[13:06:55] chraki: i plan to move as little as possible
+[13:09:42] cham: i need to be hotter for #austriansummer
+[13:10:13] cham: i also need to stop using hashtags but they crack me up #myfave
+[13:13:46] bufferunderrun: let's go glbert!
+[13:14:01] chraki: #österreichischersommer
+[13:14:31] cham: genauuuuu
+[13:15:47] cham: tbh this already looks complicated to me
+[13:15:47] cham: i dont get all the pawn movement
+[13:17:19] bufferunderrun: they move so that the pieces can pass or to restrict certain squares
+[13:18:35] GoldenRetrieverChess: Go glbert!
+[13:25:41] cham: dont like that
+[13:28:44] bufferunderrun: 12.Qg3 perhaps
+[13:32:17] bufferunderrun: now glorious bert will take on e1 (12) and play Ne7
+[13:36:05] bufferunderrun: hmm Nge4 might be a bit annoying
+[13:37:06] bufferunderrun: maybe Kf8 then, instead of Ne7
+[13:41:25] alex_makarets: (12) does ...Nf6 lose?
+[13:42:10] alex_makarets: Nf6 Qf2 0-0
+[13:47:45] bufferunderrun: Idk... seems a bit loose, like Qxe7 Kxe7 fxg
+[13:47:45] cham: this is a long ass think
+[13:48:00] cham: look lively glbert
+[13:48:15] bufferunderrun: well, it's justified, since the bum is on the line
+[13:49:16] bufferunderrun: I think Nge4 on Ne7 and it didn't look too good for black
+[13:49:47] bufferunderrun: Kf8 is also a bit iffy, but i think better chances to survive here
+[13:50:02] alex_makarets: ...Nf6 I didn't see anything for white after queen exchange
+[13:50:32] cham: inch resting
+[13:51:18] alex_makarets: (14) wow, I overlooked this
+[13:51:18] alex_makarets: it cannot be good, can it?
+[13:54:06] bufferunderrun: Bxe5 looked more attractive to me
+[13:55:52] bufferunderrun: Kd7 looks like the most glorious move ever
+[14:01:42] glbert: wtf.
+[14:01:42] glbert: i did not want to premove that.
+[14:02:13] glbert: guess it was the only move anyway though.
+[14:03:44] bufferunderrun: subconscious stepped in and saved glbert from Kxe6 g7
+[14:03:59] bufferunderrun: *subconsciousness
+[14:05:30] glbert: i *did* premove it, i am not denying that. it was not on purpose though.
+[14:05:30] bufferunderrun: I kind of feel black survived this now
+[14:05:46] glbert: i was nervously clicking around the board.
+[14:06:01] glbert: bad habit.
+[14:06:31] bufferunderrun: that's how subconsciousness works, duh
+[14:07:02] alex_makarets: now that black finally finished their development they shouldn't be worse, statically they were ok all the time I think
+[14:07:17] cham: i didnt like it at all
+[14:07:32] cinemashow: Rh5-f5
+[14:07:47] alex_makarets: me too, but that was due to white's activity
+[14:08:18] alex_makarets: (19) maybe Nh6 was a bit more cautious, not letting guys to f7
+[14:08:33] bufferunderrun: I'd be curious to check this after the game. Somehow it felt black was in trouble, but :shrug:
+[14:09:34] alex_makarets: yes, looked really dangerous
+[14:10:04] bufferunderrun: departing with the bishop, albeit not something one wishes to do, might be the correct thing to do
+[14:10:20] bufferunderrun: those horses are evil and must be stopped at all costs
+[14:10:35] alex_makarets: now some precision is still required
+[14:11:36] bufferunderrun: I thought g4 might be a problem, but I'm lazy at calculating stuff
+[14:11:51] alex_makarets: I thought that too, and then something like Nf6
+[14:12:06] alex_makarets: of Nf7
+[14:12:21] alex_makarets: white wants to prepare g4
+[14:13:07] alex_makarets: (21) it's time to kill one horsey, too many threats
+[14:13:53] cham: this is sooo scary
+[14:13:53] alex_makarets: or at least Ke7
+[14:14:23] alex_makarets: we have to avoid invasion
+[14:15:09] Feet_Barbie: (22.Nxe4) i see white is a blitzer
+[14:15:55] cham: fair play to you mastersrv
+[14:15:55] cham: game recognises game
+[14:16:10] PaulWithAnS: (22) It's a real clash of styles on the clock
+[14:16:25] alex_makarets: looking at the clock I would try to exchange the second knight too as black
+[14:17:41] alex_makarets: (23) Kc6 looks sus
+[14:19:58] alex_makarets: Rf2 pointing out that f file invasion can happen
+[14:20:59] bufferunderrun: maybe 23...Ne7
+[14:21:45] bufferunderrun: nah, Nd4
+[14:22:15] alex_makarets: Nd4 Ref1 Ne6 Rf6
+[14:22:45] bufferunderrun: Rf6 Nf5?
+[14:23:01] bufferunderrun: Nf4* i mean
+[14:23:46] alex_makarets: Rxd6+
+[14:24:17] cham: im stressed for chris's best friend glbert
+[14:25:33] alex_makarets: it sharpens and black has 3 min
+[14:25:33] alex_makarets: no bueno
+[14:25:48] bufferunderrun: Rxd6+ Kc7 and there is still stuff with Ne2+
+[14:26:19] bufferunderrun: and if g3 Ne2 Kg2 Rxh2 recovers the pawn, i think
+[14:26:34] bufferunderrun: 25...Ne3 let's go!
+[14:26:49] bufferunderrun: d6 hangs though
+[14:28:35] bufferunderrun: 28...b5 probably needed
+[14:29:21] chraki: me too cham :(
+[14:29:52] cham: tbh atp it could well be equal? i have no idea
+[14:30:07] cham: like two of those white pawns are hanging, he cant save them both
+[14:30:52] alex_makarets: white is probably pushing if we end up with equal pawns
+[14:30:52] bufferunderrun: looks bad, but who knows
+[14:31:08] alex_makarets: h3 I don't like
+[14:31:23] bufferunderrun: agreed
+[14:32:39] bufferunderrun: i wasn't a huge fan of Ke7 either
+[14:33:09] alex_makarets: me too, Nxc2 should have been played
+[14:34:10] cham: i thought that too but glbert is a better player than me so i kept my mouth shut
+[14:34:26] cham: but you guys are better than him, so
+[14:35:26] bufferunderrun: life is too short to keep quite
+[14:35:42] bufferunderrun: quiet*
+[14:35:42] cham: to be honest life is quite long in my opinion
+[14:35:57] cham: it';s the longest thing ive ever experienced so far
+[14:35:57] chraki: shrek
+[14:35:57] cham: no
+[14:36:12] chraki: oh okay
+[14:36:42] chraki: thank you wells
+[14:36:58] cham: but im a mod here so i can ban you
+[14:36:58] chraki: shrek motion passes with a majority vote
+[14:36:58] jwwells42: i fear we have given too many prawns
+[14:37:13] bufferunderrun: glorious play from glorious bert
+[14:37:13] cham: he really just gift wrapped them
+[14:38:14] alex_makarets: (34) we recover one of them, but no time to play g5
+[14:39:15] bufferunderrun: no time to think, eat pawns like you eat apples
+[14:39:45] cham: why!!
+[14:39:45] bufferunderrun: reasons
+[14:39:45] alex_makarets: true. Plus hard to imagine saving a knight endgame 2 pawns down without passers
+[14:39:45] cham: but which
+[14:40:00] bufferunderrun: doesn't like apples
+[14:40:16] cham: i have it on good authority he does like apples
+[14:40:16] cham: maybe teh knight doesnt
+[14:40:46] bufferunderrun: maybe decided to go after K-side pawns instead
+[14:41:32] alex_makarets: distant apples can seem tastier but in my experience once you reach them they taste the same
+[14:41:47] bufferunderrun: lol
+[14:43:18] cham: what is he up to
+[14:43:18] cham: this is such shenanigans
+[14:43:18] alex_makarets: (37) Ne6 was interesting  with the idea a4 ba ba Nc5
+[14:47:06] Tranzoo: what is with all this apples talk
+[14:47:37] cham: there are no doctors here
+[14:48:38] alex_makarets: there was time to play g5 and I think it should have been done
+[14:49:23] jwwells42: fix the structure as the ancients warned us to do
+[14:49:23] alex_makarets: on move 39 was a good moment I think
+[14:50:24] bufferunderrun: not sure about Kd4, kind of feels Nd6 and b-pawn falls
+[14:52:11] alex_makarets: still some hope, Nd6 I think b4 and if Nb5 Ke3
+[14:53:42] alex_makarets: I think white is not in control here
+[14:55:44] bufferunderrun: drawn now, I think
+[14:55:44] alex_makarets: I am not sure
+[14:56:45] bufferunderrun: like Kd5-c6-b7 and Nf2 grabbing one of the pawns there
+[14:57:15] bufferunderrun: still needs to be calculated, but feels like it should hold
+[14:58:16] bufferunderrun: okay, so Nb4 now
+[14:58:16] bufferunderrun: yeap
+[14:59:02] bufferunderrun: 46...Kd5 seems alright
+[14:59:17] bufferunderrun: Ke4 I don't like
+[15:00:03] bufferunderrun: 47.Nc5 and a6
+[15:00:48] alex_makarets: 47. Nc5 black is probably in time to eat all the apples
+[15:01:04] bufferunderrun: hold on
+[15:01:19] cham: if he does manage to make this a draw i will take back some of the nasty things i said
+[15:01:49] bufferunderrun: maybe he is planning Nc5 Kf3 a6 Nxa6! Nxa6 Kg3!
+[15:01:49] alex_makarets: that's what I am talking about
+[15:02:35] alex_makarets: what if now Kf4 Kf2 e4
+[15:03:20] bufferunderrun: I was too hasty and obviously no match to black's gloriousness
+[15:03:51] bufferunderrun: this is why I should play checkers instead of chess
+[15:04:52] cham: it still looks terrifying to me
+[15:05:07] chraki: hab keine Angst cham
+[15:05:07] chraki: ich bin hier
+[15:05:22] chraki: bin hier*
+[15:05:38] cham: ich habe
+[15:05:53] cham: ich habe viele angst
+[15:05:53] chraki: :(
+[15:06:23] bufferunderrun: 48.Kf3 and we pushkin the e-pawn, well, maybe
+[15:06:38] alex_makarets: Kf2 e4 a6 Nxa6 Nxa6 e3 Ke2 Kg3 g5 Kxh3 Nc5 Kg4 Ne4 Kf4
+[15:06:54] alex_makarets: looks like a draw
+[15:06:54] alex_makarets: by 1 tempo
+[15:06:54] bufferunderrun: Kf2* idk what's up with me and coordinates today
+[15:07:24] cham: schaut mal, es ist wirklich unheimlich
+[15:07:39] cham: whoops, chat didnt scroll
+[15:08:55] alex_makarets: hmmm... who is going to stop a pawn?
+[15:09:11] bufferunderrun: 48...Nd3+ is a bit scary
+[15:09:26] alex_makarets: Maybe also possible
+[15:09:41] bufferunderrun: I'm guessing a6 Nc6 is the idea
+[15:10:27] Tranzoo: wer hat mein apfel gefresst
+[15:10:27] chraki: ich wars nich
+[15:10:27] chraki: es war cham
+[15:10:57] cham: es war chris
+[15:10:57] chraki: neiiiheeiiin
+[15:11:12] cham: ich habe das gesehen
+[15:11:12] chraki: hast du gar nichttttt :(
+[15:11:58] bufferunderrun: so 50.Nc5 e4, otherwise Nd3+, a6 Nc6
+[15:12:28] alex_makarets: e4 we play
+[15:12:28] Tranzoo: its pferde krieg
+[15:12:59] bufferunderrun: Nc6 is also possible, i guess
+[15:12:59] cham: ich hoffe es, fuer frieden
+[15:13:29] alex_makarets: I am not sure Nc6 holds, the knight becomes very passive
+[15:14:15] bufferunderrun: the knight is passive, but the king is far far away
+[15:14:30] Tranzoo: Das Traurige Pferde
+[15:15:16] Tranzoo: aber der Konig ist weit
+[15:15:16] bufferunderrun: 51...Nc6, I'm not feeling the sac here
+[15:15:31] bufferunderrun: since Nc5-Nd3 might save the day for white
+[15:15:46] alex_makarets: yes, it does
+[15:15:46] bufferunderrun: oof
+[15:16:02] alex_makarets: :(
+[15:16:02] Tranzoo: uh what just happened
+[15:16:17] bufferunderrun: poisoned apple
+[15:16:32] cham: apfelgift
+[15:18:34] bufferunderrun: gg
+[15:19:19] Tranzoo: poisonstrudel
+[15:19:19] cham: gg :(
+[15:19:35] alex_makarets: probably black should have played 48...e4
+[15:20:20] alex_makarets: interesting endgame, I would like to see what fish has to say
+[15:20:51] Tranzoo: gg
+[15:20:51] cham: gg
+[15:20:51] chraki: gg
+[15:20:51] jwwells42: gg
+[15:20:51] alex_makarets: gg
+[15:21:06] mongreltiger: gg
+[15:22:52] MasterSRV: thanks all for watching and comments.
+[15:33:01] glbert: should have either moved my N earlier or not insisted on a R on the open file i guess.
+[15:43:54] glbert: good game again, and good luck for the rest of your games!
