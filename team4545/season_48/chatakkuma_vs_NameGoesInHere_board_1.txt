@@ -1,0 +1,69 @@
+Lichess game chat log
+Game      : https://lichess.org/r7NYyMMR
+White     : chatakkuma
+Black     : namegoesinhere
+Time      : 45+45
+Captured  : 2026-05-03 13:45:22 UTC
+Game ended : 2026-05-03 12:25:18 UTC
+Messages  : 59
+────────────────────────────────────────────────────────────
+
+[11:01:36] mini_karpov: very surprised that white repeats this
+[11:01:51] mini_karpov: excuse me, that black repeats this. white is happy of course
+[11:16:19] chatakkuma: hi karpov
+[11:21:54] Shurbz: Lets go namego!
+[11:38:38] Shurbz: Like a4 but I don’t really know any plans here
+[11:51:49] chatakkuma: pretty straightforward for me
+[12:25:18] chatakkuma: hmm I was worse
+[12:25:33] chatakkuma: something went wrong
+[12:25:48] NameGoesInHere: oh interesting, I thought I might be slightly better but not that much
+[12:25:48] chatakkuma: prolly 21.Qf1 was bad
+[12:26:03] chatakkuma: yea just 21.Rhg1
+[12:26:19] chatakkuma: I don't need to stop b5
+[12:26:49] chatakkuma: I was really pleasant
+[12:26:49] chatakkuma: around 18.g4
+[12:27:04] NameGoesInHere: yeah, I'm a bit slow too the b-file there if you only take once on b5
+[12:27:04] chatakkuma: but I guess black is able to defend
+[12:27:35] chatakkuma: I saw 21.Rhg1 b5 cxb5 Bxb5 and then Nd3 was annoying
+[12:27:35] chatakkuma: that's why I wanted to stop b5
+[12:27:35] chatakkuma: but I guess there I have Rg3
+[12:28:20] NameGoesInHere: I was a little worried around g4 but I couldn't see a clear way for you to open the k-side
+[12:29:06] NameGoesInHere: and I will always have counterplay with ...b5 and piling up on e4 if you give me long enough
+[12:29:21] chatakkuma: yea I wasn't much better
+[12:29:21] chatakkuma: black has enough counterplay
+[12:29:36] chatakkuma: 20.Rde1 I thought Rhg1 and g5
+[12:30:07] NameGoesInHere: I didn't expect 13.f5, I was kind of expecting you to prepare e5 instead
+[12:30:07] chatakkuma: but Rhe1 or Rd4
+[12:30:07] NameGoesInHere: taking advatnage of my queen
+[12:30:22] chatakkuma: f5 cuz I wanted to go g4
+[12:30:37] chatakkuma: I do give up e5 square but I thought it was a way forward
+[12:30:52] chatakkuma: damn but why not 14.g4
+[12:30:52] chatakkuma: I literally was planning that
+[12:31:07] chatakkuma: defends Bxf5
+[12:31:23] chatakkuma: I was also thinking 14.Bc2
+[12:31:38] NameGoesInHere: yeah I guess we get the game line with 14.g4 but you didn't spend a tempo on Qf2
+[12:31:38] chatakkuma: and if 14.Bc2 Bxf5 then Qxc5! dxc5 Rxd8 exf5
+[12:32:08] chatakkuma: looked interesting but didn't felt a need for that
+[12:32:23] NameGoesInHere: that's a fun line haha, guess I can just go 14...Bd7 though
+[12:32:39] NameGoesInHere: then Ne5 next
+[12:32:54] chatakkuma: lol right
+[12:33:09] chatakkuma: 14.Qf2 was a silly move
+[12:33:09] chatakkuma: I overestimated my position in general
+[12:33:24] chatakkuma: I thought everything was good, didn't spend a lot evaluating between options
+[12:34:25] NameGoesInHere: yeah, I've had these kind of positions a few times and black normally has just enough defensive resources and counterplay to be ok
+[12:34:25] NameGoesInHere: but it's usually quite scary for a while
+[12:34:55] mini_karpov: was 6...a5 something you prepared?
+[12:35:11] NameGoesInHere: yes, 6...a5 avoids the line 6...Nc5 7.Qg4 which is annoying
+[12:35:26] NameGoesInHere: 6...Bc5 Qg4 i mean
+[12:35:41] chatakkuma: it's a good alternative,
+[12:35:41] NameGoesInHere: haven't looked at it for a while though
+[12:35:41] chatakkuma: idk why it hasn't been tried in masters database
+[12:36:42] NameGoesInHere: my Budapest course mentions it but says if white plays very accurately blacks' position is questionable
+[12:37:12] chatakkuma: I would be scared for black
+[12:37:12] chatakkuma: white's attack looks faster
+[12:37:27] chatakkuma: and more development
+[12:39:44] chatakkuma: glad you accepted a draw
+[12:40:15] chatakkuma: I thought it was worse but ok for white, but I'm surprised to see the eval at the end
+[12:40:30] NameGoesInHere: tbf I considered playing on, but given team scores + the k-side I decided to take it
+[12:41:00] NameGoesInHere: I just thought if a move the queen you have gxf5, and if I don't how do I improve?
+[12:41:46] NameGoesInHere: although I guess after Nb3+ Bxb3 axb3 it doesn't seem like you have any great move either
