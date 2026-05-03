@@ -1,0 +1,51 @@
+Lichess game chat log
+Game      : https://lichess.org/eFOlZnIm
+White     : akristjansson
+Black     : foxitoplays
+Time      : 45+45
+Captured  : 2026-05-03 19:13:34 UTC
+Game ended : 2026-05-03 17:53:29 UTC
+Messages  : 41
+────────────────────────────────────────────────────────────
+
+[16:03:54] akristjansson: 11. h3 I was hoping for an archangelsk as I prepped for it and also desperately need practice vs
+[16:04:25] akristjansson: 11... 0-0 this is more of the classical mainline, 11... Bb7 is trendier and threatens the e-pawn immediately
+[16:04:40] akristjansson: Black will have a harder time getting Bb7 in now due to d5 tactics
+[16:04:55] akristjansson: lots  of tactics in the archangelsk
+[16:05:10] akristjansson: 12... Ra8 this is preparing Bb7 by protecting the a7 bishop
+[16:07:12] berndwind: (14.Nbd2) go go Alex!
+[16:07:42] akristjansson: 13... h6 shows Blacks set up, the lines I follow go Bc2 Bb1 playing prophylactically against ...exd4 and ...Nb4
+[16:12:32] akristjansson: 17... Ne7 pretty sure im supposed to play d5 here, without the inclusion of Bb7 Re8 and Bc2 Bb1 e5 works
+[16:14:03] susiedent: (18.d5) lets gooo
+[16:14:33] robertjackson: Good luck Foxito
+[16:16:50] akristjansson: 18... Ng6 now im on my own, I think it wouldve made more sense for Black to trade on e3 to misplace my rook, now I can misplace his
+[16:24:58] TimothyHa: (19) not too sure about misplacement, as c6 and R->e7 later?
+[16:25:13] TimothyHa: (19) these positions allow so much shuffling
+[16:27:15] akristjansson: trying to play on the queenside seems logical, but Black has good play on the kingside using the f4/e5 squares
+[16:27:45] akristjansson: 20. g3 looks tempting to take away the f4 square and possibly organize f4
+[16:33:05] robertjackson: 20...Nd7 maybe - to get control of e5
+[16:36:22] akristjansson: 21... Nh5 22. Rh1 Nh5 is an interesting try for Black
+[16:39:10] akristjansson: then maybe 23. Ng1 so that Nf4 doesn't work and the knight is attacked on h5
+[16:39:40] TimothyHa: (21) I just want to play Qd7 and c6 and if dxc6 when Qxc6 and Rae7
+[16:39:55] TimothyHa: (21) Kg2 also put the king on that diagonal...
+[16:40:11] TimothyHa: (21) Qe7 Ba2 is helping White maybe
+[16:40:41] akristjansson: 22. Nd4 Nxd5 23. Nc6
+[16:47:32] akristjansson: I feel like Black has a lot of ways to wreck my kingside like 22... Nf4+ 23. gxf4 Nh5
+[16:50:04] akristjansson: ideally I want to go for something like Re3 Nd4 f4 e5 but that seems difficult to achieve without dropping d5
+[16:50:35] akristjansson: Rc3 Nd4 Nc6 is a more grounded approach
+[16:59:28] akristjansson: 23... Qf6 24. Nf1 makes sense to threaten Rf3 without allowing Qxb2 and only then go for Nc6
+[17:16:58] akristjansson: 24. Nf1 Nde5 25. f4 Nc4 was annoying, blocking the queen with Rc3 is better
+[17:17:43] akristjansson: after 24. Nc6 Ra8 (maybe Black should try Rb7?) 25. Rc3 Black cant play Ne5 bc White takes on e5 then c7
+[17:25:20] akristjansson: 24... Rb7 b2 is a bit tricky to defend here and I dont want to let Black take
+[17:26:51] akristjansson: 25. b4 is an option, but 25. Rc3 Nde5 26. Nf3 may be a good way to sac the pawn after 26... Nxc6 27. Rxc6
+[17:32:11] akristjansson: 25... Ne5 26. Rc3 looks like it might work actually bc if the knight moves the rook can attack the queen with Rf3
+[17:36:14] akristjansson: taking on e5 was another option, but i never wanted to allow Black to play ...dxe5 and get more control of the center
+[17:37:31] akristjansson: 26... Nxc6 27. Rxc6 Qb2 wins the b pawn but seems risky for Black- a6 would also be hanging for him
+[17:45:07] akristjansson: 26... Nxc6 27. Rxc6 Qb2 28. Rxa6 Qxb4 29. Ra8  and the pin looks pretty annoying, e5 is a threat due to Bxg6 as an intermediate move or
+[17:45:38] akristjansson: if Black takes ...Nxe5, f4 would potentially win the knight due to the pin along the e file
+[17:52:28] akristjansson: oops
+[17:52:28] berndwind: (28...Nh4+) nooooo
+[17:52:44] akristjansson: shouldve thought about that more
+[17:52:44] berndwind: (28...Nh4+) I was just thinking he has to take back with the king
+[17:53:14] robertjackson: wow
+[17:53:14] robertjackson: what a finish
