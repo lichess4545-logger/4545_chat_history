@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/NzQRiSKF
+White     : lelouch_vi_brittania
+Black     : nlance
+Time      : 45+45
+Captured  : 2026-05-04 21:30:12 UTC
+Game ended : 2026-05-04 20:10:08 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[17:59:45] Tranzoo: first meeting in 4545 abut definitely not first meeting on Lichess haha
+[18:00:00] NLance: I'd prepped the Ruy!
+[18:00:15] Tranzoo: oh no
+[18:04:34] Lelouch_Vi_Brittania: (4...dxc4) I'm not a d4 player, what do you do here
+[18:04:49] bufferunderrun: resign
+[18:05:04] Lelouch_Vi_Brittania: (4...dxc4) I just wanted to avoid Berlin and thought he would play 4...Be7
+[18:06:51] SycoraxCirce: Are d4 openings more boring than e4 openings?
+[18:07:06] Tranzoo: is water wet?
+[18:07:21] SycoraxCirce: 1 vote for yes
+[18:07:37] SycoraxCirce: At least its not a london
+[18:08:07] NaveenGeorge: I can't remember but I'm sure this 4... dxc4 line was played at the candidates
+[18:12:10] Lelouch_Vi_Brittania: (6...Be7) 7.e4 c5 e5 Nd5 is the point I guess
+[18:14:27] Lelouch_Vi_Brittania: (7.Bg5) idk this make sense strategically because it discourages c5 or something
+[18:14:43] matthewhuber: go NLance! Love a good underdog
+[18:20:33] bufferunderrun: with Bh4, white decided not to play g3 I guess
+[18:21:34] bufferunderrun: 9.Ne5 or Bg3
+[18:22:35] bufferunderrun: e4-e5 maybe possible
+[18:23:51] bufferunderrun: Ne5 still seems alright to me
+[18:24:06] bufferunderrun: but I'm a e4 player
+[18:25:22] Lelouch_Vi_Brittania: (10.Be2) 10.Bd3 Na5 would have been tragic
+[18:36:32] Lelouch_Vi_Brittania: (12.O-O) ok if you force me to castle, then I reluctantly castle
+[18:36:47] bufferunderrun: this game is a bit weird
+[18:38:03] bufferunderrun: what's black's plan on a3? Nd6?
+[18:39:19] bufferunderrun: but there is always Qb3, like here (13) instead of a3
+[18:40:35] bufferunderrun: I guess Nd5 since the bishop is on e2 and not d3 and there is no e4
+[18:41:36] bufferunderrun: and e4 Nd6 white would have to take on d6
+[18:42:06] bufferunderrun: unless Qxb4 works out
+[18:44:08] bufferunderrun: Idk, I want to see e4
+[18:48:12] bufferunderrun: yeah, I don't like this for black
+[18:51:29] bufferunderrun: b4 or Ne5 I guess (16)
+[18:53:31] bufferunderrun: Be5 made no sense to me
+[18:54:17] Lelouch_Vi_Brittania: (16.Be5) let's not give up the bishop pair so easily. one trap is 16...Bd6 Qe3 Bxe5? Nxe5 which wins a piece in a6 or h5
+[18:57:04] NLance: The position is getting very cramped so I have to strike out with f6 f5 and let the chaos come.
+[18:59:37] Lelouch_Vi_Brittania: (17.Bg3) 17.Qe3 also looked good but let's just make some simple moves
+[19:13:34] NxN: Was  thinking of Bf3 and Re1 but Qd1 was amazing
+[19:14:20] NxN: unless Nxg3 white will win a piece i think
+[19:19:55] Lelouch_Vi_Brittania: (20.Qd1) Qd1 was a dumb move, 20.Rad1 was better
+[19:20:25] NxN: :D
+[19:21:56] NLance: I can't calculate the complications here. Qb3+ at some point looks scary. As do other moves.
+[19:31:50] NLance: I expected 25 Nd7 and I sac the exchange for some pawns and activity. But Nd5 is strong...
+[19:33:52] bufferunderrun: 26.Nxe7 Qxe7 Ng6 should get the exchange
+[19:35:38] Inter-temporal: (27) (27.b4) NLance in a bit of trouble. but go Nlance anyway!
+[19:52:53] bufferunderrun: 34.Ng6 looks good
+[19:56:11] bufferunderrun: perhaps Qe6+ and Rh5
+[20:05:19] bufferunderrun: Bxe7 looks forced, but a rook down, might as well resign just now
+[20:05:34] bufferunderrun: otherwise Rh5 xh6 just mate
+[20:10:08] Lelouch_Vi_Brittania: (43.Nc8) why is there no easy checkmate
+[20:10:23] bufferunderrun: gg
+[20:11:39] Tranzoo: gg
+[20:13:10] Lelouch_Vi_Brittania: oh there was some danger in the opening
+[20:13:41] Lelouch_Vi_Brittania: I planned 9..c5 to just play 10.dxc5 Na6 b4 but then there is a lot of play after Rc8
