@@ -1,0 +1,78 @@
+Lichess game chat log
+Game      : https://lichess.org/sE9WkTzx
+White     : stclion
+Black     : pepepibote
+Time      : 45+45
+Captured  : 2026-05-04 01:31:14 UTC
+Game ended : 2026-05-04 00:11:10 UTC
+Messages  : 68
+────────────────────────────────────────────────────────────
+
+[21:09:49] NameGoesInHere: (4...Qb6) go STCLion!
+[21:35:57] Le_Merovingien: Go Steak
+[21:39:30] pepepibote: hello jcarmody, wcome Le_M, NGH
+[21:42:33] Le_Merovingien: Heya, bot!
+[21:47:06] pepepibote: seems kinda rushed this side atack, ill try to be careful now that my pieces make sense
+[21:48:53] NameGoesInHere: (13.Be2) wonder what was happening after 13.Nb6? probably too materialistic but the a-pawn is awkward to defend
+[21:50:09] Shurbz: Lets go lion!
+[21:54:12] Shurbz: Nc6 looks good, also like O-O
+[21:54:43] pepepibote: (13) wow c6 is really weak i din't notice
+[22:05:37] NameGoesInHere: (14.f3) wonder about ...Nh5 here, trying to get into f4 and then d3
+[22:05:52] NameGoesInHere: (14.f3) maybe just g3 in response, but then the f-pawn is weak
+[22:06:23] NameGoesInHere: (14.f3) oh wait there's a fork
+[22:06:38] NameGoesInHere: (14.f3) I love blundering other people's pieces
+[22:08:55] NameGoesInHere: (14...g6) still, the idea is interesting if you can not blunder while doing it
+[22:12:13] NameGoesInHere: (16.Bxc4) hmmm, maybe Ndxc4 was interesting, with the idea ...Nxb5 Nxb6!?
+[22:12:13] NameGoesInHere: (16.Bxc4) looks complicated, at least
+[22:31:45] Shurbz: Can we find mate after Bh6?
+[22:32:31] Shurbz: I don’t think so
+[23:44:47] Feet_Barbie: Maybe rd6 was chilling
+[23:45:18] OneKindKing: shocking
+[23:45:33] nyanners: win for black still?
+[23:45:48] OneKindKing: he might still win it
+[23:46:04] nyanners: pretty sure its a theory win
+[23:46:34] nyanners: yes i like this
+[23:46:49] Feet_Barbie: Yeah yeah
+[23:48:36] nyanners: very principled :o
+[23:49:06] pepepibote: i forgot about this scary endgame, i shouldtnlet it happen
+[23:49:21] Feet_Barbie: He just wanted to demonstrate technique
+[23:49:37] Feet_Barbie: There's 2 types of players
+[23:52:39] nyanners: white doing well to not push
+[23:57:13] nyanners: nuuuu dont push
+[23:57:44] nyanners: 72..Kg7 enabled now and should be trivial if black can evaluate it in time
+[23:57:59] jfiras: (72.Ke6) what's the evaluation of this position ?
+[23:58:14] jfiras: (73.Kf6) i have no idea
+[23:58:14] nyanners: win for black
+[23:58:45] jfiras: (74.Kg5) and it was a draw before the push ?
+[23:58:45] nyanners: nah still 0-1. but black seemed to be out of ideas
+[23:59:00] jfiras: (74.Kg5) ah okay
+[23:59:15] nyanners: im not totally sure this idea is enough though
+[23:59:30] nyanners: curious about the followup
+[00:00:01] nyanners: though black should always be theoretically winning unless something actually weird happens
+[00:00:16] OneKindKing: Kg7 f6+ Kf8 fxe7+ Kxe7 Kh6 Kf8 Kh7 white wins
+[00:00:16] nyanners: yes i was thinking of that XD
+[00:00:31] nyanners: that would indeed be something weird
+[00:01:32] OneKindKing: keep the rook on the 5th
+[00:01:32] nyanners: yea Ra5 is a good reflex
+[00:01:47] nyanners: i think black is looking at 75..Re1
+[00:02:02] nyanners: okay nice
+[00:02:02] jfiras: (75...Rb5) nice
+[00:02:33] OneKindKing: white has to try g7+ but that does not work
+[00:03:03] nyanners: yea expecting Kg5 Kg7
+[00:03:34] OneKindKing: same idea with the rook on the 6th
+[00:03:49] nyanners: forcing the issue kinda forces black to win the game i think :p
+[00:04:50] OneKindKing: so close and yet, so far!
+[00:05:05] OneKindKing: from white's perspective
+[00:06:36] nyanners: yea white saw one line lost and just played the alternative
+[00:09:39] nyanners: 79..Kxg7 also enough with the interesting f6+ Kg6 and Re2+ picks the pawn
+[00:10:09] nyanners: Rg5 accurate finish
+[00:10:40] nyanners: but yeah with king on f8 its as good as finished
+[00:10:55] jfiras: gg
+[00:11:10] nyanners: gg
+[00:11:25] Le_Merovingien: Gg
+[00:11:25] GoldenRetrieverChess: GG both!
+[00:13:57] pepepibote: yh hard game
+[00:15:13] pepepibote: nice middl game i feel i was almost gone at one point
+[00:15:59] STCLion: pc4 was the problem
+[00:15:59] STCLion: x
+[00:17:30] STCLion: g struggle  ..  enjoy rest of the  tourney
