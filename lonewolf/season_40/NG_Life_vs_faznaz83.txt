@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/sMmgDbHD
+White     : ng_life
+Black     : faznaz83
+Time      : 30+30
+Captured  : 2026-05-05 16:48:46 UTC
+Game ended : 2026-05-05 15:28:39 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[14:04:11] bXVrc2lh: love faznaz :))
+[14:04:11] NG_Life: 1. nf3 was aiming for a Queen's Indian with colors reversed
+[14:04:26] bXVrc2lh: my boy always playing e6 like me :) and con't care about opponents
+[14:04:26] NG_Life: (4) now I'm already out of prep, though I guess I have many options
+[14:09:00] NG_Life: 6. g3 it looks awkward I didn't play c4, I guess I will fianchetto on g2, O-O, and play nd2 aiming for e4?
+[14:12:03] bXVrc2lh: I am always scared of d6 with bishop on b7... e6 pawn is very weak
+[14:12:03] NG_Life: 8. O-O d6 okay, now I guess if I play nd2 d5 would look a bit silly, although black couldn't play d5 here because it's too committal
+[14:13:04] bXVrc2lh: simple Ng5 would cause issues
+[14:13:49] bXVrc2lh: but now, the black according to Dutch rules are fine.. they managed to push e5 first
+[14:14:20] NG_Life: (11) I guess it was silly not to play c4, the knight on c3 looks so dumb
+[14:22:12] NG_Life: 11. e3 f4 exf4 exf4 might be a little premature for black with the knight on b8 and rook on a8, it would free my dsb too
+[14:24:44] NG_Life: 12. f4 ng4 Qf3 seems solid for white, not really threatened by Queen trade possibilities after Qc6+ and e4 is possible then too
+[14:28:02] NG_Life: 13. Qf3 d5 e4 fxe4 dxe4 dxe4 ndxe4 seems to work
+[14:29:18] NG_Life: 13. Qf3 d5 e4 exf4! exd5! I resign with both sides
+[14:35:38] NG_Life: 13. Qf3 exf4 might be possible here, the knight can come in with tempo if exf4 but that solidifies the pawn structure and no more breaks
+[14:37:55] NG_Life: 14. exf4 nd4 Qd1 looks very passive, maybe I underestimated this
+[14:38:25] NG_Life: 14. gxf4 may also be possible though
+[14:39:11] NG_Life: 14. Qxf4 ne5 d4 ng6 kicking the Queen away doesn't look great either
+[14:40:42] NG_Life: gxf4 I could route the useless c3 knight to g3 in two moves, with the bishop on b2 I could play for a kingside attack
+[14:42:44] NG_Life: 14... d5 a little surprising, it feels like it's prompting me to play ne2 which I wanted to do anyways
+[14:42:59] NG_Life: (15) I was expecting rae1 or ng4
+[14:43:45] bXVrc2lh: Bc5 and Ng4 can be the plan
+[14:46:02] NG_Life: 15... nb4 should be impossible btw because after a3 nxc2 rac1 the knight looks like it is trapped
+[14:48:19] NG_Life: and he plays nb4, did he miscalculate or me -_-
+[14:48:34] bXVrc2lh: Nxa3 after Rec1
+[14:49:20] NG_Life: oh I miscalculated
+[14:49:50] NG_Life: whoops, and sending messages without whisper, I'm shook
+[14:50:05] NG_Life: I guess I have to play ra2 (horrible) and try to trap him anyways
+[14:51:52] NG_Life: 18. bd4 this is lost now, ng4 brilliant, my calculation hasn't improved much I see...
+[14:55:25] NG_Life: 20. ne2 if Qe6 I have e3
+[14:55:55] NG_Life: 20. ne2 this is very obviously lost, probably at least -2.5 for black but I will try to trick at some point
+[14:57:57] bXVrc2lh: not sure d4 was good
+[15:03:32] NG_Life: 25. nc4 I guess fxe4 is straightest path to win for black, if notI am hoping for something where I take on e3 and then f5 with the knight
+[15:06:20] NG_Life: 25... nxc4 I guess the question is if I could play nxf5 here
+[15:08:06] NG_Life: (26) I guess I'm losing either way, nxf5 does look tricky at least
+[15:10:23] NG_Life: 26. nxf5 g6 nxe7 and I got the pawn back, right? If ne3 nxg7 he has two pieces for a rook
+[15:10:39] NG_Life: and is probably winning comfortably, but at least I got some counterplay somehow
+[15:13:57] NG_Life: 26... rxf5 didn't see this move, after exf5 why am I not back to equalish material?
+[15:14:27] NG_Life: I guess this is a position where analysis doesn't matter, because if exf5 doesn't work I just lose
+[15:14:42] NG_Life: although I guess 27. Qg4 might be an interesting idea
+[15:16:14] NG_Life: 27. ..Qe3 yes, but can't I threaten mate on g7 now by shifting the Queen to the g file?
+[15:16:44] NG_Life: actually, I could play Qh5 hitting the rook - even better?
+[15:18:00] NG_Life: (28) so candidate moves are Qg4 Qh5 and Qc6
+[15:21:18] NG_Life: ohhhh, I keep missing things today!
+[15:29:25] NG_Life: so Qg4 was equal, all of my candidate moves missed the best one Qf1 which I never considered at all
+[15:30:11] NG_Life: @faznaz83 my notes from the game are in here
+[15:30:11] NG_Life: I got out of prep immediately
+[15:30:26] NG_Life: I looked at how you usually played vs. nf3 and liked it, I was expecting a Queen's Indian with colors reversed
+[15:30:57] NG_Life: then I don't know why I played this way, so passive like a hedgehog
+[15:31:12] NG_Life: I just wanted to stay out of your prep, if you had any
+[15:32:13] NG_Life: I calculated bad the whole game - bad calc misssed e4, allowed nxc2, and finally missed nd6
+[15:33:44] NG_Life: Qf1 I don't mind missing that, because the reason it is good is too esoteric
+[15:34:14] NG_Life: I mean Qf1 nd6 I would never imagine that is better for white, it is difficult to perceive even when the engine shows it
+[15:37:32] NG_Life: kind of surprised after 28. Qg4 bf6 dxc4 Qxb3 re2 rg8 re6 qxc4 black isn't better
+[15:37:47] NG_Life: I looked at something like this and thought you would definitely get bishop + two pawns for the rook, and that must be winning for you
+[15:38:18] NG_Life: I think I would have lost that position, it looks very tough for white to hold out
+[15:39:49] NG_Life: very good game @faznaz83, you played great, good luck in next rounds
