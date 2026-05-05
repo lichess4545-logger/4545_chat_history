@@ -1,0 +1,45 @@
+Lichess game chat log
+Game      : https://lichess.org/ExLY9Gjh
+White     : davegiltinan
+Black     : ribrubrib
+Time      : 45+45
+Captured  : 2026-05-05 21:41:41 UTC
+Game ended : 2026-05-05 20:21:36 UTC
+Messages  : 35
+────────────────────────────────────────────────────────────
+
+[18:49:32] TimothyHa: (24) shaky game for both, some random tactics can pop up from anywhere
+[18:50:02] TimothyHa: (24) because of RRB
+[19:00:41] TimothyHa: (27) Re4 would be smart
+[19:00:56] TimothyHa: (27) but Black doesn't have to fix pawns for White
+[19:01:42] TimothyHa: (27) Re4 Rc8 is probably fine
+[19:14:38] TimothyHa: (29) White was way better with two rooks
+[19:14:53] TimothyHa: (29) now I'm not so sure
+[19:20:13] robertjackson: 30...Kd8 is strong
+[19:21:29] robertjackson: but not 31...Kd7 as that loses to 32. d6+
+[19:26:03] TimothyHa: (32) this should be a manageable draw now
+[19:29:21] TimothyHa: (33) R->b1->a1 or d1
+[19:29:51] TimothyHa: (33) or Rb4 could be even easier
+[19:34:10] TimothyHa: (34) actually tricking White into a losing pawn endgame via Rd1 d5 Rxd5 is more interesting
+[19:36:27] TimothyHa: (35) actually, Rxf3
+[19:45:20] TimothyHa: (38) I think this is still a draw, but White has to be careful
+[19:45:50] TimothyHa: (39) Kd5 and lift all pawns up and sac f7 maybe
+[19:46:21] TimothyHa: (40) if White isn't careful they get mated :-)
+[19:47:21] TimothyHa: (40) this too, Rg4+ and h-pawn up and king can take care of the a-pawn
+[19:50:54] TimothyHa: (43) to be fair, in this position Black has more tricks than White
+[19:52:26] TimothyHa: (44) h-pawn run up
+[19:53:42] TimothyHa: (44) but yeah, this wins the a-pawn already!
+[19:53:57] TimothyHa: (44) ok, not win, but stops the traffic
+[19:54:58] TimothyHa: (45) for White to draw they need to get the h-pawn to h6 I think
+[19:59:47] TimothyHa: (47) Rg4 is nice
+[20:00:18] TimothyHa: (47) I think 45... Rg6 instead of Rh5 kept the problems for White
+[20:00:18] TimothyHa: (47) now it's a draw
+[20:04:37] TimothyHa: (48) I wonder if Rh6 and Rg6 pinning is a winning pawn endgame
+[20:04:37] TimothyHa: (48) a file is too far though
+[20:16:01] TimothyHa: (52) Kb6 was a cool waiting move
+[20:16:01] TimothyHa: (52) now we can kick White back with a check
+[20:16:47] TimothyHa: (52) and move h-pawn after Rh3+ Kg2 Ra3...
+[20:17:18] TimothyHa: (52) it's a still "objectively" drawn
+[20:21:21] TimothyHa: (58) gg noth
+[20:21:21] TimothyHa: (58) both
+[20:22:22] ribrubrib: thanks timothy!
