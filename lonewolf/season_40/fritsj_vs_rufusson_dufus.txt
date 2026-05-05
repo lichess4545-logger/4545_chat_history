@@ -1,0 +1,49 @@
+Lichess game chat log
+Game      : https://lichess.org/XxaV8bMV
+White     : fritsj
+Black     : rufusson_dufus
+Time      : 30+30
+Captured  : 2026-05-05 16:08:07 UTC
+Game ended : 2026-05-05 14:48:03 UTC
+Messages  : 39
+────────────────────────────────────────────────────────────
+
+[14:02:09] rufusson_dufus: wow, I speculated wrong. Should've move-ordered better, now I'm in an Exchange Slav
+[14:02:39] rufusson_dufus: I had prepared something else :(
+[14:02:55] rufusson_dufus: but alright, this is fine, I've played this multiple times OTB
+[14:03:56] rufusson_dufus: I'm playing a bit too quick. Normally white goes Nf3, there might be a significant difference
+[14:05:42] rufusson_dufus: I want to play 10....g6 and then Nh5, but is that too slow?
+[14:06:58] rufusson_dufus: 10....g6 Bg5! is a problem, mmm
+[14:07:13] rufusson_dufus: 10....Bd6 Bg5 0-0 e4 looks a bit scary
+[14:07:59] rufusson_dufus: 10....g6 Bg5 Bg7 e4 Nxe4 Qe3 Nc6 exd5 is inconvenient
+[14:08:29] rufusson_dufus: I definitely messed up in the prep, should have move-ordered differently to get avoid the Exchange Slav
+[14:11:47] rufusson_dufus: 12.a3? looks wrong, shouldn't white have gone 12.Na4! ?
+[14:12:18] rufusson_dufus: 12....Qa5 g4 could be a problem, mmm
+[14:13:34] rufusson_dufus: 12....Rc8 Na4 I don't know how to proceed, maybe Nd7
+[14:14:04] rufusson_dufus: actually that looks fine
+[14:14:50] rufusson_dufus: maybe I shouldn't play on the queenside, and instead go Nd7...g6...Re8 in any order
+[14:15:35] rufusson_dufus: I considered 13....a5, but that looked terrible. And I don't want to allow Na4
+[14:17:07] rufusson_dufus: 14....Nb8 Rfc1 Nd7 Nxd5 is the plan I guess, mmm
+[14:18:23] rufusson_dufus: 14....Na7! Rfc1 Qd7 and the plan is Rc6...Rfc8
+[14:21:41] rufusson_dufus: my eval after move 15: +0.5, white is definitely in the driver's seat. I got move-ordered and maybe played a bit too quickly
+[14:23:58] rufusson_dufus: actually maybe more like +0.8, e4 and g4 look scary, I need my knight on f6
+[14:25:59] rufusson_dufus: my worst piece is the knight on a7 and I'd love for it to go to c4, but Rc6...Nc8 Nxd5, mmmm
+[14:28:16] rufusson_dufus: how bad is 17....Ne4 ? it opens up the whole position against a bishop pair, but other than that, it trades the scary rooks
+[14:29:02] rufusson_dufus: 17....Ne4 Nxe4 Rxc2 Rxc2 dxe4 Bxe4 Bxh4 g5! doh!
+[14:32:05] rufusson_dufus: the other idea I have is 17....a5. That looks absolutely bonkers, but I need some play
+[14:35:38] rufusson_dufus: ah darn, I overlooked Rc7!!
+[14:38:40] rufusson_dufus: this must be lost, but let's try to swindle something
+[14:41:12] rufusson_dufus: ok that was not even a threat, 21....Na7 doesn't really do anything :(
+[14:42:28] rufusson_dufus: if the white queen ever moves I have e5, that's something I guess
+[14:46:47] rufusson_dufus: I guess Qb8+ already wins :(
+[14:47:02] rufusson_dufus: yeah a5 was way too crazy
+[14:47:02] rufusson_dufus: but even before I was in trouble
+[14:48:18] fritsj: I was looking at a5 for you as well but it seemed unplayable
+[14:48:34] rufusson_dufus: I was way too scared of Rc7 though
+[14:49:04] fritsj: Like in what variation?
+[14:49:19] rufusson_dufus: 18....axb4 Rc7
+[14:50:20] fritsj: Ahhh yeah appearantly that doesn't work
+[14:50:50] fritsj: I didn't delve too deep into any of those lines, seems like in these 30+30 games there's just no time to check every move order
+[14:51:06] fritsj: Not at my calculation speed anyway
+[14:51:51] fritsj: I assumed Rxc2 was likely necessary and otherwise it didn't seem disastrous for me either
+[14:57:11] fritsj: Well thanks for the game!
