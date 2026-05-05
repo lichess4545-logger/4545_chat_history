@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/nq4f7Ns9
+White     : lexgrad
+Black     : speeder1987
+Time      : 45+45
+Captured  : 2026-05-05 21:00:06 UTC
+Game ended : 2026-05-05 19:40:00 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[18:00:02] speeder1987: wasn't expecting this!
+[18:02:19] speeder1987: Ok Caro, back on familiar ground although not prepped ...
+[18:04:36] Lexgrad: pity wanted to hit him with a tal :(
+[18:07:39] speeder1987: Well atleast I was on familiar ground for two moves ....
+[18:17:48] speeder1987: maybe this is slow but the darksquare diagonal seems very weak
+[18:25:25] Leverkuhn: Fresh position here on move 12; I don't recall seeing a Caro where gives up the b-pawn
+[18:26:26] Leverkuhn: interesting decision from Black to take the bad bishop on d4; probably a prelude to ...f6 hoping to spring free his own bishop
+[18:32:31] Leverkuhn: it's probably time for 14...f6, when Black's position is starting to look promising
+[18:38:36] Lexgrad: back to the old reliable dubious pawn storm.  think i got a greek here tho
+[18:38:51] Lexgrad: qc7 seems convinient for this plan anyway
+[18:50:32] Lexgrad: i worry maybe his attack might be faster
+[19:04:44] Leverkuhn: Unfortunate blunder of d4 with 16.Ng5?!
+[19:05:14] Leverkuhn: if White had prepared that with 16.Nb3, Black's position would have been difficult again
+[19:05:45] Leverkuhn: because the inclusion of h4 and ...h5 precludes ...f6 counterplay
+[19:11:19] speeder1987: wow that hung a rook and I missed it
+[19:12:51] speeder1987: that was so poor
+[19:18:26] speeder1987: for goodness sake
+[19:30:36] Leverkuhn: Lex very lucky to still be in the game, but the position remains confusing after 21...e4
+[19:31:22] Leverkuhn: the instinct is to play 22.Qxh5 setting up defensive queen trades in case of ...Be5
+[19:31:53] Leverkuhn: but we might end up giving more than a piece back after 22.Qxh5 Qxd2
+[19:33:09] Leverkuhn: 22.Be2 instead, proposing the draw 22...Be5 23.Ndf3 Qg4+ 24.Kh1 Qh3+ etc.
+[19:33:39] Leverkuhn: I should say 23.N4f3
+[19:38:28] Leverkuhn: Black has selected a winning try with 23...Bh3
+[19:38:43] speeder1987: This should be mate I think
+[19:38:59] speeder1987: even sacking the rook doesn't help
+[19:38:59] Leverkuhn: why can't White take e5 though
+[19:38:59] Leverkuhn: ?
+[19:39:29] Leverkuhn: 24.Kh1 was also a consideration, but White ignored the mate in two!
+[19:39:59] Leverkuhn: gg
+[19:40:15] FunnyLikeAClown: Gg
