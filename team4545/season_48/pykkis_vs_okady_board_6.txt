@@ -1,0 +1,228 @@
+Lichess game chat log
+Game      : https://lichess.org/mZDao0em
+White     : pykkis
+Black     : okady
+Time      : 45+45
+Captured  : 2026-05-05 20:51:07 UTC
+Game ended : 2026-05-05 19:31:01 UTC
+Messages  : 218
+────────────────────────────────────────────────────────────
+
+[17:29:30] DavidSifre: Go, pykkis!
+[17:29:46] simonWasHere: This looks like a solid position
+[17:29:46] okady: hello all
+[17:30:01] DavidSifre: (1.e4)  Black pawn faces off a knight's move away from white's
+[17:30:16] DavidSifre: (2.c3) that is a bad omen
+[17:30:46] DavidSifre: (4.Nf3) White drew first blood, and hopefully will draw the last
+[17:32:18] DavidSifre: (6.Bb5+) Take that!
+[17:32:18] okady: bored with caro kann so trying something new
+[17:33:19] DavidSifre: (8.O-O) I still have my knights set to googly eyes. Or I hit a keyboard shortcut to enable just now
+[17:34:04] okady: okay a little out of theory need to slow down and think more
+[17:37:07] simonWasHere: g4!!! or maybe not
+[17:38:23] simonWasHere: seems like blitz so far
+[17:40:55] DavidSifre: (11...O-O) The key in this position is to take all of his pieces. Starting witht he queen, sitting in the middle of the board like she owns
+[17:40:55] DavidSifre: (11...O-O) the place
+[17:41:10] DavidSifre: (12.Nc3) There you go.
+[17:41:41] simonWasHere: he should move a piece to protect the queen because it is attacked
+[17:42:11] DavidSifre: (12.Nc3) Yes, I find that Nb6 in this position is helpful.
+[17:42:26] DavidSifre: (12.Nc3) I always protect my lady with a knight.
+[17:42:26] DavidSifre: (12.Nc3) my signature play
+[17:42:26] simonWasHere: traditional, yes
+[17:42:57] DavidSifre: (12.Nc3) chivalry is very important in chess.
+[17:43:12] DavidSifre: (12.Nc3) Recently, my opponent was very non-gallant.
+[17:43:43] DavidSifre: (12.Nc3) Rather than fightmy knight with honor, he went after my queen.
+[17:43:58] simonWasHere: you can't trust anyone these days
+[17:44:13] DavidSifre: (12.Nc3) I shall not forget that. I will have my vengence.
+[17:45:14] DavidSifre: (12.Nc3) The longer he takes the more likely he will forget his queen is under attack.
+[17:46:15] DavidSifre: (12...Qa5) Having lost a tempo, it is now time to attack everything.
+[17:47:46] DavidSifre: (12...Qa5) Let me go on record by saying that fianchetto is a stupid word.
+[17:48:32] DavidSifre: (12...Qa5) Bufferunderrun, if you feel qualified to make commentary, please do so.
+[17:50:03] DavidSifre: (13.Ne5) White challenges the black knight by taking the important e5 square.
+[17:51:04] DavidSifre: (13.Ne5) Black has no choice but to take, yet dawdles away his time thinking.
+[17:51:34] DavidSifre: (13.Ne5) Or, he has gone to make a sandwich.
+[17:52:05] bufferunderrun: Idk if I am qualified
+[17:52:20] DavidSifre: (13.Ne5) True knowledge is knowing what one does not know.
+[17:52:35] simonWasHere: he could play Rd8 maybe
+[17:52:35] DavidSifre: (13.Ne5) As a result, your uncertainty makes you qualified.
+[17:53:06] DavidSifre: (13.Ne5) He could also play Qd8
+[17:53:06] bufferunderrun: I think I normally go with d4 instead of Nf3 in Qxd5 lines,
+[17:53:36] bufferunderrun: Also Na3 instead of Bb5+, with Bc4 idea.
+[17:56:08] bufferunderrun: black seems alright, I guess
+[17:56:23] DavidSifre: (13...Rad8) I concur with your analysis. Being a much weaker player, that seems best.
+[17:56:39] bufferunderrun: isolated pawn is potentially weak
+[17:57:09] bufferunderrun: feels like white is going to struggle to draw this
+[17:57:09] DavidSifre: (13...Rad8) White has no intention of drawing
+[17:57:24] DavidSifre: (13...Rad8) that IQP will become a queen before  you know it.
+[17:57:55] DavidSifre: (13...Rad8) Unfortunately, white is an alternate on a team that flogs alternates for drawing.
+[17:57:55] bufferunderrun: isolated pawn is not uncommon in this opening, but not so sure if you want to have it against g6 setup
+[17:58:40] bufferunderrun: usually, you'd have the light-square bishop on d3, so ideas against h7 square, but obviously not here
+[17:59:11] simonWasHere: Would be nice to move the queen but it is the only thing protecting the pawn
+[17:59:26] DavidSifre: (13...Rad8) well if you move the pawn the knight will protect it.
+[17:59:41] DavidSifre: (13...Rad8) or move the queen to d2 :)
+[17:59:56] simonWasHere: the pawn is protecting the other knight
+[18:00:27] DavidSifre: (13...Rad8) so is the bishop and rook.
+[18:00:27] simonWasHere: true
+[18:00:27] DavidSifre: (13...Rad8) knights don't need a lot of protection. They are fierce
+[18:00:57] simonWasHere: like hedgehogs
+[18:01:13] DavidSifre: (13...Rad8) snort snort
+[18:01:13] DavidSifre: (13...Rad8) that's my hedgehog noise
+[18:03:45] DavidSifre: (14.d5) uh oh
+[18:04:15] DavidSifre: (14.d5) I worry any time someone plays a move I considered
+[18:04:30] okady: i was expecting knight to c4
+[18:04:46] simonWasHere: d6 dxe7 dxf8=Q+ and we win!
+[18:05:01] simonWasHere: but maybe he will move first
+[18:05:01] DavidSifre: (14.d5) Exactly. Okady is so confused by the unexpected he might just let it happen.
+[18:06:32] DavidSifre: (14.d5) Igor Smirnov suggests that in this position black should find someting on white's side of the board and attack it.
+[18:07:03] DavidSifre: (14.d5) Qb4 attacks a bishiop and a pawn
+[18:07:03] DavidSifre: (14.d5) its a good fork.
+[18:07:48] DavidSifre: (14.d5) a good fork is something that might lead to a bluncer such as protecting the pawn and leaving the bishop hanging
+[18:07:48] DavidSifre: (14.d5) a bluncer is like a blunder and a cancer.
+[18:08:03] simonWasHere: Nf6 might be good
+[18:08:34] DavidSifre: (14.d5) my queen move was better
+[18:10:05] DavidSifre: (14...Nb6) The d pawn is lost unless a greather threat can be found.
+[18:12:22] DavidSifre: (14...nb6) b4
+[18:13:08] DavidSifre: (14...Nb6) That queen move did nothing but get out of hte way.
+[18:13:08] DavidSifre: (15.Qb3)
+[18:13:39] bufferunderrun: white is targeting b7, but b2 hangs as well
+[18:14:24] DavidSifre: (15.Qb3) I wonder if b4 would have worked.
+[18:15:10] DavidSifre: (15.Qb3) no, it would have been taken by the queen
+[18:15:25] DavidSifre: (15.Qb3) I wonder no further
+[18:15:40] bufferunderrun: you have c5 square, so Rb1 didn't seem to work, plus Nc3 would be hanging
+[18:17:12] bufferunderrun: and on any Bd2 d4 is available as well
+[18:17:42] bufferunderrun: and then issues with the Ne5
+[18:18:58] bufferunderrun: so as predicted, white is struggling
+[18:24:02] bufferunderrun: 17...Qb5 seems like a safer option, I didn't quite like Qa6, because of the discoveries on the rook
+[18:24:18] bufferunderrun: not that you would lose it
+[18:24:48] bufferunderrun: but maybe stuff like Ne3, grabbing the knight, recovering the pawn on e7
+[18:26:20] bufferunderrun: 19...Rb4 b3 b5 looks interesting
+[18:27:20] okady: shit i totally forgot i calculated rook c8 wins a pawn thats why i traded queens
+[18:27:36] okady: nervouse are taking control
+[18:27:36] bufferunderrun: though maybe Rb4 g4 is possible
+[18:27:51] okady: move 19
+[18:28:36] DavidSifre: (20.a4) Hoping the pressure cracks you right open, Okady.
+[18:28:52] bufferunderrun: lol
+[18:29:53] bufferunderrun: nah, g4 doesn't work, but maybe Bd6 does
+[18:30:53] bufferunderrun: loses the b2-pawn though
+[18:31:24] bufferunderrun: so similar position, but now black doesn't have b5
+[18:31:39] bufferunderrun: hold on...
+[18:32:25] bufferunderrun: yeah, forget everything I just rambled about
+[18:32:40] bufferunderrun: on Rb4 b3 b5 there is always Bd2
+[18:33:41] bufferunderrun: and actually here as well
+[18:34:11] bufferunderrun: 22.Bd2
+[18:34:42] bufferunderrun: g4 looks bad, since Nd4 and b3 is done
+[18:34:57] bufferunderrun: fork on f3 as well
+[18:34:57] DavidSifre: (22...Nd4) simon suggested g4 back o
+[18:35:12] DavidSifre: (22...Nd4) n move 9
+[18:35:12] simonWasHere: but mainly as a joke
+[18:35:27] DavidSifre: (22...Nd4) Yeah but every joke has a grain of truth in it
+[18:35:43] DavidSifre: (22...Nd4) especially your momma jokes
+[18:35:43] bufferunderrun: g4 is never a joke, except on move 1
+[18:36:13] DavidSifre: (23.Nd6) oooh, a fork of the rooks and king.
+[18:36:28] DavidSifre: (23.Nd6) by a blind knight
+[18:36:44] DavidSifre: (23.Nd6) Please be nice in the chat.
+[18:37:14] bufferunderrun: but before the fork, black probably wants to move the rook, let's say to c2
+[18:37:44] DavidSifre: (23.Nd6) You don't want rooks on the 2nd rank when playing us.
+[18:39:16] DavidSifre: (23.Nd6) it is disrespectful
+[18:42:03] bufferunderrun: if Re3 e5 looks good i think
+[18:42:18] bufferunderrun: since Bxe5 Bxe5 Rxe5 Nf3 is still a fork
+[18:43:50] bufferunderrun: so white is losing second pawn, g4 is weak, f3 is weak, the bishop on f4 is iffy, the knight on d6 is as well, so basically lost
+[18:44:20] DavidSifre: Focus on black’s weaknesses please.
+[18:45:06] DavidSifre: White had a king in the end game. Not confined to back rank.
+[18:45:36] simonWasHere: e5 still works I guess
+[18:46:07] bufferunderrun: 24...Nxb3 perhaps
+[18:46:22] bufferunderrun: so the idea is to grab on f4
+[18:46:22] bufferunderrun: the knight on d6 would have to go then
+[18:47:23] bufferunderrun: though need to calculate Kg3
+[18:48:39] bufferunderrun: or maybe 24...Bf8
+[18:49:40] simonWasHere: e5 Bd2 Rxb3
+[18:49:40] bufferunderrun: this would be the moment to invest some time into calculating different lines
+[18:50:41] bufferunderrun: yeah, e5, so Bd2 otherwise the knight is dead
+[18:54:29] bufferunderrun: 27...Bf8 maybe works
+[18:55:00] DavidSifre: Ideally you want to find what works for white.
+[18:55:30] bufferunderrun: like Bf8 Nxb7 Bxb4 Rb1 Rd3
+[18:56:16] bufferunderrun: I would, but it's too late
+[18:56:16] DavidSifre: Did he give up the pawn?
+[18:56:31] DavidSifre: Oh bishop.
+[18:56:46] bufferunderrun: what worked was 6.Na3
+[18:57:17] simonWasHere: build a time machine
+[18:57:32] DavidSifre: We can call a do over.
+[18:57:47] DavidSifre: Because bufferunderrun didn’t know whom to root for
+[18:58:48] DavidSifre: White is winning.
+[18:59:03] DavidSifre: If he takes the rook.
+[18:59:03] simonWasHere: Re4 and black resigns
+[18:59:18] DavidSifre: Fingers crossed.
+[18:59:34] bufferunderrun: from the practical chances, white probably wants to keep the rook
+[18:59:49] bufferunderrun: so 29.Rxe5
+[19:00:04] DavidSifre: Rb1 would have been better.
+[19:00:19] simonWasHere: passed pawn easy win
+[19:00:19] simonWasHere: oh no
+[19:01:20] DavidSifre: I wonder why chat is disabled in the new app
+[19:01:35] simonWasHere: swap all pawns, sac knight for last pawn, and hope black doesn't know B+N mate
+[19:01:51] bufferunderrun: 34...f6 g5 f5+
+[19:02:06] DavidSifre: I love BN mate.
+[19:02:36] DavidSifre: So satisfying.
+[19:02:36] bufferunderrun: I guess this works as well
+[19:02:52] DavidSifre: I once sacked all my pieces just to get it.
+[19:02:52] DavidSifre: Then I stalemated.
+[19:04:53] DavidSifre: It is remarkably hard to get to a bishop knight only endgame
+[19:05:24] simonWasHere: Hi fireball
+[19:05:24] bufferunderrun: I like 37.Kd5
+[19:05:54] fireball100: Hi all!
+[19:05:54] DavidSifre: Hello!
+[19:06:40] fireball100: Looking through the conversation - quite a lot of earlier possibilities as indicate by Simon...
+[19:09:12] DavidSifre: Yes. He kind of hogged the chat for a while.
+[19:09:42] bufferunderrun: 22.Bd2 is the possibility that white missed
+[19:09:42] simonWasHere: who would do a thing like that
+[19:10:13] DavidSifre: I don’t like to throw stones....
+[19:10:28] bufferunderrun: we can use pies instead
+[19:10:59] DavidSifre: People who work in bakeries should not throw pies.
+[19:11:44] simonWasHere: people who work in rockeries shouldn't eat stones
+[19:12:00] DavidSifre: Get thee to a nunnery.
+[19:12:00] fireball100: Kg2 m23...
+[19:16:49] DavidSifre: If white can promote the h pawn it is all good from there.
+[19:17:04] simonWasHere: white needs to persuade the f7 pawn to defect
+[19:17:34] DavidSifre: Nd7
+[19:17:50] DavidSifre: Then take the pawn.
+[19:18:20] DavidSifre: Black is in Zugzwang Zigzag
+[19:19:51] DavidSifre: Nd5+ and white has opposition. So it’s like mate.
+[19:20:07] DavidSifre: Or is mate.
+[19:20:07] DavidSifre: Mate on the board.
+[19:20:22] DavidSifre: Well no but it’s like one.
+[19:20:52] DavidSifre: Pushing king around is good fun
+[19:20:52] fireball100: Ke7 perhaps
+[19:21:38] fireball100: Then check, take pawn
+[19:21:38] DavidSifre: Nd7 and tak the pawn.
+[19:21:53] DavidSifre: Nd7+
+[19:22:24] DavidSifre: But not great to trade down here.
+[19:22:39] bufferunderrun: I assume you mean Nd6
+[19:22:39] DavidSifre: Never assume.
+[19:22:54] DavidSifre: I make stuff up a lot.
+[19:22:54] fireball100: Yes that was the upcoming check
+[19:22:54] bufferunderrun: for this reason Bb2, so that we have Ba3 on Nd6
+[19:23:09] fireball100: but now atatcking w pawn
+[19:23:24] DavidSifre: The w pawn is next level.
+[19:23:55] simonWasHere: white will now demonstrate the knight checkmate
+[19:24:10] fireball100: I wish teh K was a Q ha ha
+[19:24:25] DavidSifre: Yeah well another piece would of be helpful
+[19:24:41] DavidSifre: Knight checkmate could work if king goes to the corner.
+[19:25:26] simonWasHere: uh oh
+[19:25:26] bufferunderrun: I don't see a N checkmate, but Nf8 and Ng6 perpetual is possible
+[19:25:41] DavidSifre: I like Nd4
+[19:25:57] DavidSifre: Perpetual is good.
+[19:27:13] bufferunderrun: going after the pawn plan definitely doesn't work
+[19:27:43] DavidSifre: No. We need our knight.
+[19:27:58] DavidSifre: White.  Not we. I’m distancing myself from
+[19:28:29] DavidSifre: Can’t see how to get to ng6
+[19:29:15] fireball100: stalemate perhapes
+[19:29:45] DavidSifre: Too many pieces.
+[19:30:00] okady: opponent doesn't resign so lets play it out
+[19:30:00] fireball100: yes and black K blocking
+[19:30:15] fireball100: some blunders would help
+[19:30:31] fireball100: Be5 to start
+[19:30:31] DavidSifre: Yes.
+[19:30:31] simonWasHere: gg
+[19:30:46] fireball100: GG
+[19:31:47] DavidSifre: Gg
+[19:33:18] bufferunderrun: gg
+[19:36:20] okady: rook c8 a blunder
+[19:36:51] okady: i didn't think it was taught would be doable now i see how bad that move was
