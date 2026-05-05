@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/m4kJehzJ
+White     : patk74
+Black     : cjsailer
+Time      : 45+45
+Captured  : 2026-05-05 01:19:55 UTC
+Game ended : 2026-05-04 23:59:51 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[23:03:33] bufferunderrun: let's go cj!
+[23:11:39] nyanners: white seems very comfortable :o like in terms of move speed and such
+[23:11:55] nyanners: but black should be fine of course
+[23:14:27] nyanners: i understand the reluctance but you still gotta castle at some point
+[23:14:42] nyanners: the e-file is not better
+[23:18:45] bufferunderrun: flashbacks from glbert's game
+[23:19:31] bufferunderrun: there were no Nf6 there though
+[23:26:22] nyanners: yea i missed that one but just saw it :o
+[23:26:37] nyanners: black is doing better here i think XD
+[23:27:08] nyanners: actually think you can just bluff call with Nd5 or something
+[23:27:23] nyanners: Nd5 Ng5 Rxf1 into h6 seems to trade Q
+[23:27:53] bufferunderrun: I was thinking just Nh5
+[23:27:53] nyanners: this could be better :o
+[23:28:08] nyanners: should be actually
+[23:30:41] bufferunderrun: hmm, it's a nice bishop, but... maybe 16...Bxf3
+[23:32:27] nyanners: i like it. the other move is Nf4 i think
+[23:33:13] nyanners: like, Bxf3 cashes in immediately, Nf4 adds more to light squares
+[23:34:14] bufferunderrun: there is Ng2 though after gxf
+[23:34:44] nyanners: black still definitely better on principle
+[23:35:14] bufferunderrun: maybe Bd4 and then Nf4 or Qg5
+[23:35:45] bufferunderrun: but I'm always lazy to calculate things
+[23:36:15] bufferunderrun: probably doesn't work, since white has Qg3
+[23:36:46] nyanners: nf4 ne2
+[23:37:01] bufferunderrun: g2?
+[23:37:16] nyanners: i mean black's move order would be Nf4 and then Qg5. but white will move N
+[23:37:47] bufferunderrun: oh, yeah the fork after Qg3
+[23:38:48] bufferunderrun: I feel like Nf4 Ng2 and white might be fine
+[23:40:19] bufferunderrun: I wasn't sure if this works after c3 though
+[23:41:20] bufferunderrun: too bad we do not have guess the move :p
+[23:41:20] nyanners: yea idk if black saw anything. or the point could be just to provoke c3 long term
+[23:41:35] nyanners: now nf4 is better
+[23:41:51] nyanners: with d3 weak
+[23:42:21] bufferunderrun: Nf4 Kf1?
+[23:43:22] bufferunderrun: I would have definitely spend like 20 minutes here hehe
+[23:43:37] bufferunderrun: *spent
+[23:44:07] nyanners: ummm yea this didnt seem promising but now i see Re8 maybe
+[23:44:23] nyanners: this is a weird path
+[23:44:53] nyanners: like Bxe3 is clearly not super inspiring
+[23:44:53] bufferunderrun: unless h4
+[23:45:08] bufferunderrun: well, not anymore
+[23:45:39] nyanners: umm didnt see this one coming :o now Qh4 Qxh2 seems clean because Ng3+ is threatened
+[23:46:55] nyanners: so white could go Kd1.. not very inspiring
+[23:47:56] bufferunderrun: yeah
+[23:49:12] bufferunderrun: and Ng2 doesn't help
+[23:53:15] nyanners: 22..Ng3+ Ke1 Qh1+ Kd2 Nf1+ still not dead winning
+[23:54:47] bufferunderrun: I was looking at Bxe3 instead of Nf1
+[23:55:17] bufferunderrun: but Nf1 looks nice
+[23:55:32] nyanners: umm thats promising too
+[23:55:47] nyanners: as it turns out Kxe3 Re8+ Kf4 Qh4 happens to be checkmate
+[23:56:03] nyanners: so Kd2 Re2+ and black has cashed
+[23:56:33] bufferunderrun: or Nf1+ instead of Re8
+[23:57:04] nyanners: that seems less forcing if nothing else
+[23:57:19] nyanners: nah im wrong
+[23:57:19] nyanners: i think
+[23:57:34] nyanners: seems to end in R for Q too
+[23:58:04] bufferunderrun: oh no
+[23:58:04] nyanners: because Nf1 Ke2 Re8+ Kd1 Ne3 will be mate
+[23:58:20] bufferunderrun: gg
+[23:58:35] nyanners: yeaa
+[23:58:50] nyanners: not only black has Q for N but a total hold on the position
+[23:59:21] nyanners: gg
+[00:00:06] nyanners: i guess hindsight suggests that Nd1-Ne3 was a bit early since the whole f5 Qh4 thing didnt work out
+[00:00:37] nyanners: often fine to just play f5 as a pawn sac without this preparation
+[00:01:07] nyanners: so white also has Bg5/Bh6 in many lines
+[00:03:54] nyanners: okay 25 Kxe3 Qh6+ i didnt even really consider, probably unconscious cut it at Qh6+ f4 and white might have Kf3
+[00:05:10] nyanners: Qh6+ f4 Re8 Kf3 Nh1 Qg2 Qh5+ Qg4 Qd5#(!!).. i will pass
+[00:07:12] bufferunderrun: 9.e5 looks complex
