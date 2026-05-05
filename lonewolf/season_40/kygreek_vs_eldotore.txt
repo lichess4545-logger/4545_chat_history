@@ -1,0 +1,13 @@
+Lichess game chat log
+Game      : https://lichess.org/iXdV6iZN
+White     : kygreek
+Black     : eldotore
+Time      : 30+30
+Captured  : 2026-05-05 23:38:29 UTC
+Game ended : 2026-05-05 22:18:25 UTC
+Messages  : 3
+────────────────────────────────────────────────────────────
+
+[22:13:36] bufferunderrun: 34.Bxh6?
+[22:14:52] bufferunderrun: if Bxe5 then Bf4 is a check
+[22:17:24] bufferunderrun: f4 perhaps
