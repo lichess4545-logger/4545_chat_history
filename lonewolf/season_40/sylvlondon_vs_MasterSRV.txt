@@ -1,0 +1,22 @@
+Lichess game chat log
+Game      : https://lichess.org/kmbrFm2f
+White     : sylvlondon
+Black     : mastersrv
+Time      : 30+30
+Captured  : 2026-05-06 08:11:25 UTC
+Game ended : 2026-05-06 06:51:19 UTC
+Messages  : 12
+────────────────────────────────────────────────────────────
+
+[06:53:51] sylvlondon: the Nf6 scandinavian is tricky but also dubious.
+[06:54:36] sylvlondon: I got a super easy position to play, all space, clear plan attack on the king and it plays by itself.
+[06:55:07] MasterSRV: is it that dubious even if I play correctly?
+[06:59:10] MasterSRV: I thought 11.Bf6 is where everything went wrong.
+[07:05:15] sylvlondon: Well, the problem in this variation is that you can hold if you play extremely well and for white, all moves are obvious.
+[07:05:30] sylvlondon: You see you made an inacuracy Bf6 Be7 and you are already lost.
+[07:05:45] MasterSRV: Ok.
+[07:07:01] sylvlondon: So even if computer says small advantage to white like 0.6 in practice this is much more as all white moves are easy to find
+[07:07:16] sylvlondon: and black moves very difficults
+[07:09:18] MasterSRV: I should look into some other openings from black
+[07:10:49] MasterSRV: even though this usually works well in my level, I see the problem with it now.
+[07:11:20] MasterSRV: thanks for the game and analysis. bye
