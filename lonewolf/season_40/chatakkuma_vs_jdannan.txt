@@ -1,0 +1,19 @@
+Lichess game chat log
+Game      : https://lichess.org/8Xc5XvQQ
+White     : chatakkuma
+Black     : jdannan
+Time      : 30+30
+Captured  : 2026-05-06 15:13:41 UTC
+Game ended : 2026-05-06 13:53:35 UTC
+Messages  : 9
+────────────────────────────────────────────────────────────
+
+[13:46:44] jdannan: (43...Ne3) this suddenly looks winning??
+[13:53:04] chatakkuma: I blundered Ne3
+[13:53:19] chatakkuma: 43.Kd3 I had to play
+[13:54:20] chatakkuma: oh but 43.Kd3 c2 Qxc6 Nxf4+
+[13:54:20] chatakkuma: still losing
+[13:54:51] chatakkuma: 11...f4 was nice
+[13:55:21] chatakkuma: I found this idea 21.h4
+[13:56:37] jdannan: ah Rb1+ at the end was only drawing...that was my original idea before I saw teh forced swap
+[14:08:17] jdannan: engine doesn't think much of 11... f4. I was expecting e4 and wondering how I would survive...
