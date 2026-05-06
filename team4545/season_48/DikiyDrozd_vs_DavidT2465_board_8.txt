@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/FdhF8VVc
+White     : dikiydrozd
+Black     : davidt2465
+Time      : 45+45
+Captured  : 2026-05-06 22:03:01 UTC
+Game ended : 2026-05-06 20:42:55 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[18:42:55] Minot: Go Dikiy!C
+[19:14:08] bufferunderrun: let's go DD!
+[19:34:26] bufferunderrun: the issue with Nxd5 is 25...exd5 Rxd5 Bd6 with a mate threat on h1
+[19:35:27] bufferunderrun: 28.Rxd6 looks okay
+[19:36:12] bufferunderrun: since Kxd6 Rd1 and it's 2R vs Q
+[19:43:34] bufferunderrun: 35.Qa7+ seemed better
+[19:44:04] bufferunderrun: well, 36Qe6+
+[19:45:05] bufferunderrun: like Qe6 Kf8 Qxf6+ Ke8 and one can repeat, worse case
+[19:45:51] bufferunderrun: here I'd probably throw in 37.g3, just to make sure the king is safer
+[19:48:23] bufferunderrun: excellent
+[19:53:58] bufferunderrun: 42.Qa8+ and then one grabs on a6
+[19:54:43] bufferunderrun: here if g4  white needs Qc8+ to pick up the pawn
+[19:55:29] bufferunderrun: 45.Qa8+ and Qzh1
+[19:56:30] bufferunderrun: this looks good for white, I think
+[19:56:45] bufferunderrun: black's rook have poor coordination
+[19:57:31] bufferunderrun: 46...Rff1 looked better
+[19:57:46] bufferunderrun: now Kf6!
+[19:58:01] bufferunderrun: no
+[19:58:16] bufferunderrun: Kf6!
+[19:58:32] bufferunderrun: 48.g4
+[19:59:02] bufferunderrun: though maybe gxf is also possible
+[19:59:33] bufferunderrun: 49.gxf is fine
+[19:59:48] bufferunderrun: since trade Q for rooks and 2 pawns up
+[20:00:18] bufferunderrun: I don't like Qc7+
+[20:02:50] bufferunderrun: the issue with gxf now is that after Rg1/Rg2+ there  is no Kf5 hiding behind the pawn
+[20:09:41] bufferunderrun: 51.Qc5+ looked fine
+[20:10:12] bufferunderrun: Kf2 is forced
+[20:10:27] bufferunderrun: Kg2*
+[20:10:42] bufferunderrun: but it's a perpetual
+[20:10:57] bufferunderrun: since R3f2+ and Rf3+
+[20:11:58] bufferunderrun: and Rf4 was a blunder
+[20:12:13] bufferunderrun: now it's a win again
+[20:12:59] bufferunderrun: since black's king cannot take the b-pawn, white will be able to bring his king in
+[20:12:59] bufferunderrun: a5 was fine
+[20:13:14] bufferunderrun: a6 was a blunder
+[20:13:30] bufferunderrun: just b4 and bring the king in
+[20:14:46] bufferunderrun: now it looks like a draw, except that black blundered back with Ka4
+[20:15:31] bufferunderrun: needed Kc5
+[20:16:17] bufferunderrun: it's winning again
+[20:16:32] bufferunderrun: 64.Kb7 Kb5
+[20:16:47] bufferunderrun: or Ka7 Kc6
+[20:18:49] bufferunderrun: any 8 rank move Kb6 wins
+[20:19:04] bufferunderrun: Ka7 Kc6 and then Kb6 wins
+[20:20:21] bufferunderrun: I'll be hugely disappointed if DD doesn't bring it home, given the exactly the same position and explanation I've posted last week
+[20:21:52] bufferunderrun: there is one stalemate trick one needs to avoid, but otherwise it's easy
+[20:23:54] bufferunderrun: basically, in position with the king on g6 and pawn on b5, if Kc6 Ka7 and b6 Ka8 would draw
+[20:26:11] bufferunderrun: but if one goes to the shorter side, Ka6 instead, black's king cannot hind in the corner
+[20:27:42] bufferunderrun: yes! perfect!
+[20:27:57] bufferunderrun: Kb6!
+[20:29:44] bufferunderrun: Kb6 Kb8 Ka6 Ka8 b6 Kb8 a7 and there is no Ka8, next Ka7 and pwn promotes
+[20:30:14] bufferunderrun: you've got it! we had it in slack last week
+[20:32:16] bufferunderrun: no :pepecry:
+[20:32:16] bufferunderrun: now Ka7!
+[20:32:31] bufferunderrun: and white needs Kc7 and Kb6-Ka6 again
+[20:32:46] bufferunderrun: 70Kb6!
+[20:33:02] bufferunderrun: phew
+[20:35:49] bufferunderrun: Idk what black is thinking, Kf8 Ka7 loses on the stop, so Ka8 is basically the only move
+[20:36:35] bufferunderrun: it still loses, but some chances if white goes Kc6 after Ka7
+[20:37:20] bufferunderrun: ah nevermind
+[20:37:51] bufferunderrun: it's black's turn, white can just Kc7 and push the pawn
+[20:38:52] bufferunderrun: if it were white's turn then Ka6 Ka8 and b6-b7
+[20:42:40] bufferunderrun: gg!
+[20:42:40] Pineapplechiffoncake: gg!
