@@ -1,0 +1,143 @@
+Lichess game chat log
+Game      : https://lichess.org/Friqj5kD
+White     : versaumnisgrund
+Black     : joonaf
+Time      : 45+45
+Captured  : 2026-05-06 18:42:56 UTC
+Game ended : 2026-05-06 17:22:50 UTC
+Messages  : 133
+────────────────────────────────────────────────────────────
+
+[15:02:03] Joonaf: (5.Qd3) hmm.. what's this?
+[15:04:35] Joonaf: oh fast e4 was the idea. of course
+[15:05:21] GoldenRetrieverChess: Gooo Joonaf!
+[15:09:24] Joonaf: 9..c5 looks nice, or does it bring me trouble again
+[15:09:39] Joonaf: if I don't castle fast enough
+[15:09:39] bncl: Go Joonaf!
+[15:12:12] osumarko: Go @Versaumnisgrund!
+[15:20:19] Joonaf: if 10.d5, then I'm not sure if I take it right away ex, or if I first develop DSB and castle
+[15:20:49] Joonaf: because neither dxe6 or d6 seems to be a threat
+[15:21:35] Joonaf: but if I take ..exd5, then cxd5 opens up White's LSB
+[15:21:50] Joonaf: and it might cause some troubles that I cannot see
+[15:22:21] Joonaf: it would both allow Bb5+ and open the e-file towards my king
+[15:23:21] Joonaf: ..Be7 or ..Bd6
+[15:24:53] Joonaf: (10.dxc5) well, never mind
+[15:26:54] Joonaf: 11..O-O, Bg5 threatens Bxf and then Bxh
+[15:26:54] Joonaf: so maybe ..h6 first
+[15:29:42] fireball100: Hi Go Joonaf!
+[15:29:57] fireball100: I’ll be stepping back from my own game pretty soon!
+[15:31:13] UpGoerFive: Go joonaf!
+[15:34:01] matthewhuber: Go Joonaf!
+[15:36:17] Joonaf: 13..e5, Nxe5, Bd4, Bb2, Bxb2, Qxb2, Qxd3 no that doesn't work
+[15:37:18] Joonaf: I'm not feeling too good
+[15:37:18] Joonaf: hard to think
+[15:38:19] Joonaf: well, thinking is always hard for me
+[15:40:36] Joonaf: Bb2, Rd8, Re1, Ng4, Re2, Nxf2, Rxf2, Bxf2+, Qxf2, Rxd3
+[15:40:51] Joonaf: well, Kxf2 would be possible
+[15:41:37] Joonaf: 14..Rd8 or do I try to activate the LSB
+[15:42:08] Joonaf: ..e5 would be nice, but the queen isn't good at making that happen
+[15:43:09] Joonaf: ..Bd7, Ne5
+[15:44:25] Joonaf: or would Rd8+Bd7+Be8 make sense?
+[15:51:46] matthewhuber: I hope he doesnt go for Be8, that is super passive. Bc6 much better
+[15:55:19] Warvold: (16.Ne5) Go Joonaf!
+[16:10:32] cowtone: Go joonaf
+[16:20:41] simonWasHere: Rd7 perhaps
+[16:21:42] bncl: Who benefits when material is traded off? White volunteered the queen trade and black declined, can someone with more experience weigh in?
+[16:22:12] simonWasHere: Feel like trading queens might lead to a drawish position, could be wrong
+[16:22:12] bncl: (More experience than me, I mean -- I don't know what to think about the trades here)
+[16:23:59] simonWasHere: white has a 3v2 pawn majority on the queenside but the bishops are opposite colour if queens and rooks are all traded
+[16:24:14] simonWasHere: but now black has control of the d file which could be useful
+[16:24:45] simonWasHere: Rd2 would attack the f2 pawn which is pinned
+[16:29:34] Joonaf: 24..Bxf2+, Rxf2, Rd1+, Rf1, Qd4+,
+[16:30:35] Joonaf: if Kh1, then Rxf, Qxf, Qxe
+[16:31:36] Joonaf: but white can just do 24..Bxf2+, Kh1
+[16:32:37] Joonaf: or Qf2 instead of Kh1 later
+[16:33:07] simonWasHere: Qf2 would drop the bishop though I think?
+[16:34:38] nyanners: what a strange line
+[16:34:53] nyanners: saying white cant keep the piece. sounds true to me
+[16:35:39] nyanners: on the other hand, as of now, black is obviously clearly better by taking on a2
+[16:36:55] nyanners: b6 i like A LOT actually
+[16:38:42] nyanners: how to proceed? i feel just do all the waiting moves you can since white is stuck
+[16:38:57] nyanners: a5 g6 Q-something
+[16:40:44] nyanners: Rb2 also counts
+[16:42:30] Joonaf: not sure if I have anything
+[16:42:45] Joonaf: 26.Qd1, Rd2, Qf3
+[16:43:00] nyanners: Qd1 already enables Bxf2
+[16:43:16] nyanners: for realzies this time :o
+[16:43:31] Joonaf: I could temporarily win a pawn but then lose a pawn or more after that when White gets rook to Rd8+
+[16:44:32] Joonaf: unless White can't do Rd8+
+[16:45:33] Joonaf: Qd1, Qxd1, Rxd1, Rxf2,
+[16:45:48] Joonaf: I can't think
+[16:45:48] Joonaf: but I could be threatening mate
+[16:46:18] Joonaf: so if White needs to do ..Rxf2, Kh1, then something
+[16:46:18] bncl: Very bummed I have to stop watching but good luck again, Joonaf!
+[16:46:34] Joonaf: oh and my R on f2 would defend f7
+[16:49:21] nyanners: umm after qxd1 rxd1 you need to defend the back rank. Rxf2 Rd8+ comes first
+[16:49:36] nyanners: interestingly enough it might still win a pawn
+[16:50:07] nyanners: here again black can play Bxf2+ but i sorta feel white saw that and just wants to get the pieces out. i like it
+[16:50:22] Joonaf: hmmm
+[16:50:22] Joonaf: 26..Rxb1?
+[16:50:22] Joonaf: no
+[16:50:37] Joonaf: I'm dumb
+[16:52:39] DavidSifre: No.  You are human. Your opponent is an animal.
+[16:52:39] Joonaf: ..Rd2, Rxd2, Qxd2, Qa8+, Bf8
+[16:52:54] Joonaf: is that good
+[16:53:24] Joonaf: Bh7+
+[16:53:40] Joonaf: no that's ok
+[16:54:56] nyanners: i feel i dont want to like this move but somehow i still cant solve white's problems
+[16:55:41] nyanners: white needs a tempo real bad
+[16:56:12] Joonaf: Bc2, Qd5, Qa8+, Bf8,
+[16:57:58] Joonaf: Bf2, Qd4, Qa8+, Bf8, Qf3
+[16:58:59] Joonaf: and then I don't know if I have anything
+[17:02:02] nyanners: yea here i thought Bxf2 again XD
+[17:03:03] Joonaf: head hurts so much
+[17:03:18] nyanners: good draw timing XD
+[17:03:18] Joonaf: I hope I won't make a stupid blunder
+[17:04:04] Joonaf: like ..Qxb3
+[17:06:21] nyanners: i feel black wants to deal with this back rank thing at some point
+[17:08:53] nyanners: now 33 Qe4 forces opp b.. if thats what white wants
+[17:10:09] Joonaf: next I probably try to get g6+Kg7+Bc5
+[17:12:26] Joonaf: ..g6 also happened to stop Qe4 mate threat
+[17:12:57] Joonaf: didn't even see that before 33.Qb7
+[17:13:12] Joonaf: so 33.Qe4 might've been good for white
+[17:14:43] nyanners: yea not too sure what Qb7 was about :o
+[17:16:45] Joonaf: ..Ke5, f4
+[17:18:16] Joonaf: opposite colored bishops and only one pawn, but it is a passed pawn
+[17:18:31] Joonaf: I have no idea if this can be won or not
+[17:18:47] Joonaf: but I'll try
+[17:19:02] nyanners: yea feel you had to keep q
+[17:19:17] Joonaf: I can't kick the king, so I can't advance the pawn
+[17:19:17] nyanners: seems kinda trivial tbh
+[17:19:32] Joonaf: I'd need to infiltrate with my king or with my bishop to take the other pawns
+[17:20:18] Joonaf: 41..f4, g4 would close the pawns, not good
+[17:21:04] Joonaf: I hope I can't blunder the draw away
+[17:21:34] Joonaf: I guess there's nothing
+[17:21:34] Joonaf: for me
+[17:22:20] Joonaf: white can always defend both f3 and b3 with the bishop
+[17:22:20] Joonaf: so I can't ever win anything
+[17:22:35] nyanners: yea just no ideas here
+[17:23:06] simonWasHere: gg
+[17:23:06] Joonaf: please be draw
+[17:23:21] nyanners: XD
+[17:23:21] nyanners: dont worry
+[17:23:21] Joonaf: it's 0.00, yay
+[17:23:36] nyanners: gg
+[17:23:36] Joonaf: ggwp!
+[17:24:06] Joonaf: but I did miss the win earlier
+[17:24:37] nyanners: wouldnt say "the win", just to keep pressing
+[17:25:07] nyanners: need q on and timely Bxf2 capitalizes better but
+[17:25:07] nyanners: probably going to be very grindy
+[17:25:22] Joonaf: Well yes, not forced win, but clear advantage
+[17:25:38] Joonaf: chance for win, let's put it that way
+[17:26:08] Joonaf: missing a win would be missing a mate in x
+[17:27:39] Joonaf: I didn't know what to do with my LSB, and was glad when White traded their knight for it
+[17:28:25] Joonaf: I was planning on doing ..a5 and ..a4, but never got to it. Then I moved the a-rook away
+[17:30:26] Joonaf: I saw that after 16..Rac8 if White takes Nxd7 I need to take with the knight ..Nxd7, and I was a bit worried if there's something like ...
+[17:30:26] Joonaf: ...Bh7+, Kh8, Bxg7+, Kxg7, and then bring the rook. There's probably nothing, but I couldn't think it far enough. I just trusted my instict 
+[17:30:26] Joonaf: ...that it's ok. maybe..
+[17:31:12] Joonaf: I saw that I'd have ..f5 there, which seemed good
+[17:31:12] Joonaf: so I wasn't so scared anymore
+[17:31:42] Joonaf: I was thinking of ..Be8, but it looked stupid
+[17:34:45] Joonaf: Then I don't know what I should've done to keep the advantage. I just slowly lost it all
+[17:42:21] Joonaf: at the 35.Qe4 I could've kept the Q if I realized that without them it's a sure draw, but even then I had already lost most of the ...
+[17:42:21] Joonaf: ...advantage
