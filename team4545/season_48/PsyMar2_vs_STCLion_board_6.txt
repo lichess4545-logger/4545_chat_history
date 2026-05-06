@@ -1,0 +1,195 @@
+Lichess game chat log
+Game      : https://lichess.org/qffiR94Z
+White     : psymar2
+Black     : stclion
+Time      : 45+45
+Captured  : 2026-05-06 23:25:34 UTC
+Game ended : 2026-05-06 22:05:29 UTC
+Messages  : 185
+────────────────────────────────────────────────────────────
+
+[20:04:44] Le_Merovingien: Go Steak!
+[20:08:32] Le_Merovingien: I don't like this...
+[20:08:32] Le_Merovingien: Giving free tempi to White...
+[20:10:34] Le_Merovingien: Losing a piece?
+[20:11:20] Le_Merovingien: Hmm...
+[20:11:50] Le_Merovingien: Qa4?
+[20:12:36] Le_Merovingien: Qa4 e6 a3... preparing Bd3
+[20:12:51] Shurbz: Lets go Lion!
+[20:13:37] Le_Merovingien: Or could White go directly Bd3 Qa5 Kf1???
+[20:14:22] Shurbz: Qf3?
+[20:14:38] Le_Merovingien: I prefer Bd3, less comittal than the Queen
+[20:14:53] Le_Merovingien: Qf3 Qa5+, then what?
+[20:16:39] Shurbz: Yeah looking now you’re right
+[20:17:40] Le_Merovingien: So Bd3 Qa5+ Kf1 Nxf2 Kxf2 or something like that?
+[20:17:56] Le_Merovingien: Steak might want to defend the Knight with d5 but then f3 follows.
+[20:19:27] Le_Merovingien: f3 direct... Qa5+ Ke2 Qa6+...
+[20:19:27] Le_Merovingien: Looks OK for Staek
+[20:19:42] Le_Merovingien: Hi Chiffon
+[20:20:28] Pineapplechiffoncake: Hi!
+[20:20:28] Le_Merovingien: We were int he woods on move 4 but out of them on move 6 :)
+[20:20:43] PsyMar2: Well.  I panicked a bit after 6.f3 because I realized my PV didn't work the way I thought it did...
+[20:20:58] PsyMar2: but my PV started with 6...e6, so
+[20:21:29] Le_Merovingien: Oh... opponent is talking computer lingo. We're doomed.
+[20:21:44] Shurbz: Lol
+[20:21:59] Shurbz: Hey pineapple
+[20:22:15] Shurbz: I was wondering about Ke2
+[20:22:30] Le_Merovingien: Now, it's easy: Nx and we're safe
+[20:22:30] Le_Merovingien: That d-Pawn looks weak.
+[20:22:45] PsyMar2: Seriously I spent all that time on 6.f3 calculating 6...d6 7.fxe4 Qh4+ lines, I never once considered 6...Qa5+
+[20:23:00] Le_Merovingien: checks first...
+[20:23:31] Le_Merovingien: Qb6 violent if Steak finds it
+[20:23:46] Le_Merovingien: Go Steak
+[20:24:01] Pineapplechiffoncake: Hi Shurbz!
+[20:24:47] Le_Merovingien: Look at this Dark Square Pawn
+[20:25:17] Pineapplechiffoncake: Ok, I have googled and PV = principal variation? Is that right?
+[20:25:32] Le_Merovingien: Chiffon: yes. It's the main line in engine calculations
+[20:27:04] PsyMar2: [10.Bc4] I must now revert to my standard opening strategy of "when life hands you weirdness, make weirdnessade"
+[20:27:49] Le_Merovingien: I see White playing Ne2, then castling, handing a free Pawn to Black with Nxe5. Watch for it
+[20:28:35] Le_Merovingien: ...
+[20:29:06] PsyMar2: [11.Ne2] it occurs to me that black's kingside is going to be... very awkward
+[20:29:21] PsyMar2: did I say kingside? I mean queenside.  the a8 rook and c8 bishop
+[20:29:51] PsyMar2: sometimes it is hard to think chess and words at the same time
+[20:30:06] Le_Merovingien: I hear that @PsyMar2
+[20:33:39] PsyMar2: [11...Bb4] I was going to just castle, but now I see that kiiinda loses the e5 pawn, so probably better to play f4...
+[20:34:10] Le_Merovingien: Booh
+[20:34:10] Pineapplechiffoncake: Wow, spotted!
+[20:34:40] Le_Merovingien: I think I overhyped this :(
+[20:35:26] PsyMar2: I had actually considered playing 11.a3 to prevent Bb4, but then I realized i don't care
+[20:45:04] PsyMar2: [15...Nd5] Here I was thinking Black was finally going to play b5 and develop that bishop.  Go go Alekhine's Defense Four Pawns Deferred
+[20:45:20] PsyMar2: very, very deferred
+[20:45:20] PsyMar2: oh crap
+[20:46:21] PsyMar2: but also this positional bind on black's queenside is such that I'm still not convinced I'm losing
+[20:49:08] Shurbz: O-O Rd8 and d6 and it gets better for black, what can white do to stop that
+[20:50:09] Shurbz: Also b6 or b5
+[20:51:55] bronasberger: Go Psymar!
+[21:12:13] PsyMar2: [22...g6] Interesting.  I'd been planning on opening the f-file and attacking that way... but after some thought...
+[21:12:28] PsyMar2: I think I'd rather just slam a pawn on f6 and be the only player with a knight.
+[21:34:48] karasso: what an impressive pawn chain from white
+[21:36:04] karasso: the moment the knight lands on d6 black will be in big trouble
+[21:37:20] karasso: (25. Qf3)  would play d5 here
+[21:38:51] karasso: so after cxd6 or exd6 the d6 square is blocked. Then Bxe4 Nxe4 Kd7 to connect the rooks/get the h-rook into game
+[21:39:52] karasso: hmm, on the other hand then Nc5 still would be a big problem
+[21:51:32] aldric123: This game is so weird
+[21:52:33] aldric123: Black effectively has no extra rook that he's an exchange up, other than defensively. But black still seems way better, sigh.
+[21:55:51] aldric123: Hmm 34.Rc2 Qf4+ g3?
+[21:56:37] aldric123: not that he has to check
+[21:58:23] aldric123: On the attack PsyMar2!
+[21:59:24] Feet_Barbie: (36.Qc4) white must be winning at first glance
+[21:59:39] Feet_Barbie: (36.Qc4) and second
+[22:00:25] Feet_Barbie: (36.Qc4) cant hold the pawn
+[22:02:27] aldric123: Hey Feet_Barbie, is that an extension that says the move it's on when you talk?
+[22:02:42] Feet_Barbie: (36...b3) yepp
+[22:02:42] aldric123: What's it called?
+[22:02:57] Feet_Barbie: (36...b3) are you in the slack?
+[22:02:57] aldric123: Yes
+[22:03:28] Feet_Barbie: (37...Qxb3) there s 2 extensions one is ipr which nowadays only gives prepend move (the move number) and one is lichess tools which ...
+[22:03:28] Feet_Barbie: ...automates whispers
+[22:03:28] Feet_Barbie: (38.Qxc6)  ill send u on slack
+[22:03:43] aldric123: Ok thanks!
+[22:04:13] aldric123: She's threatening mate! Somehow I think opponent sees it, but it's still annoying
+[22:04:59] Feet_Barbie: (38...Qb6) qc8 qd8 xD
+[22:04:59] Feet_Barbie: (39.Qxb6) instant spotted
+[22:05:14] Feet_Barbie: /w (39...1-0Black resigned • White is victorious) if the rook sac was on purpose this is an amazing game
+[22:05:29] Feet_Barbie: damn
+[22:05:29] bronasberger: Goos game!
+[22:05:45] bronasberger: Good, not goos lol
+[22:05:45] Feet_Barbie: i need your opening files  @psymar2
+[22:06:15] aldric123: Amazing game!
+[22:07:01] PsyMar2: @feet_barbie I was out of book after 4...Nf6
+[22:07:31] STCLion: yes   thatw as the plan
+[22:07:46] PsyMar2: At least I think I was.  I was definitely out after Ne4
+[22:08:01] PsyMar2: As I said in whisper chat, I spent all that time calculating 6.f3 e6 7.fxe4 Qh4+...
+[22:08:01] STCLion: not that we strayed far from the Alapin
+[22:08:01] PsyMar2: never considered 6...Qa5+
+[22:08:32] STCLion: just got you out of your confortable sequence
+[22:08:32] PsyMar2: apparently the move is 5.d5
+[22:08:32] PsyMar2: frankly I'm not that well studied on the alapin
+[22:08:47] Feet_Barbie: as long as you dont play g3 on the qh4 move the tactic doesnt work
+[22:09:02] PsyMar2: I wasn't sure about that
+[22:09:18] PsyMar2: But I thinkI did convince myself of that and that's why I played f3
+[22:09:33] Feet_Barbie: well great game
+[22:09:33] STCLion: its a totally different game   if u pla p-d5
+[22:10:03] PsyMar2: apparently 5.d5 is winning and 6.Bd3 is also winning, according to the computer...I figured you just play 6.Bd3 d5, what'd I miss
+[22:10:18] PsyMar2: oh, 6.Bd3 d5 7.f3 is the line
+[22:10:34] STCLion: x
+[22:10:34] PsyMar2: because then after Qa5 the king can go to f1 lol
+[22:11:04] PsyMar2: yeah if 6.Bd3 d5 7.exd6 then you have Nd6 and escape
+[22:11:50] STCLion: at least you'd be out of the Alapin ,  if p-d5
+[22:12:05] PsyMar2: yeah, I mean, I was out of my prep anyway
+[22:12:20] STCLion: ;?))     half the goal here
+[22:12:35] PsyMar2: also I had a feeling that the fork on e3 wasn't actually that bad for me and it seems I was right
+[22:13:06] STCLion: which move
+[22:13:21] PsyMar2: 23.f6 was a really tough decision but I just figured, I don't see a way forward with the attack as-is...
+[22:13:21] PsyMar2: and if I just play f6 I have the only knight and that has to count for something
+[22:13:36] PsyMar2: 16...Ne3
+[22:13:36] PsyMar2: where you fork my queen and rook
+[22:13:51] PsyMar2: you get material, but I have such an edge in development and space it's still equal
+[22:14:06] STCLion: i had to take it
+[22:14:06] PsyMar2: You did, yeah, it was the best move
+[22:14:22] PsyMar2: and I shouldn't have allowed it
+[22:14:37] PsyMar2: but then I was like "I don't think that's actually enough to make my position worse"
+[22:14:37] STCLion: you would have seen it , had i moved N-d5
+[22:15:07] STCLion: and i don'ty get the added pressure of the c3 pin ,  to cause the blunder
+[22:15:38] PsyMar2: yeah it was right to take it
+[22:15:38] PsyMar2: it's still better than not getting that extra material
+[22:15:38] STCLion: walk the tightrope  , after that
+[22:15:53] PsyMar2: but just overall the position was so bad for you even before that
+[22:15:53] PsyMar2: that winning hte rook for knight only about evens it
+[22:16:08] PsyMar2: anyway the computer thinks 23.fxg6 or 23.fxe6 are both better than 23.f6, but I disagree
+[22:16:08] PsyMar2: no way am I finding the computer lines after a capture there
+[22:16:23] STCLion: open it up
+[22:16:54] PsyMar2: well, maybe, but I was a lot more confident of having at least a very good position after 23.f6
+[22:17:24] STCLion: gave me my path out ....K-g8 and maybe i survive
+[22:17:39] PsyMar2: when
+[22:17:39] STCLion: at the end
+[22:17:54] STCLion: which is impossible if u take
+[22:18:40] PsyMar2: I don't think so
+[22:18:40] PsyMar2: the king is the only thing protecting f7
+[22:18:40] STCLion: then its R trade   and maybe a B sac to open f up further
+[22:18:55] PsyMar2: if you get the king to g8 and h7 then I blast in through f7
+[22:19:26] STCLion: comp's basically saying waste a pawn or two   to open the position
+[22:19:56] PsyMar2: I did think you had to launch the qside pawns sooner
+[22:19:56] STCLion: yes  pretty much
+[22:20:26] STCLion: it wasn't working  until i get tyou off the diag to h6
+[22:20:26] PsyMar2: like even back on move 23 or so
+[22:20:42] PsyMar2: your qside pawns were the one thing you had
+[22:21:12] PsyMar2: also, bishop probably needed to go to c6 and not a8
+[22:21:27] STCLion: ahh but see i had to get B out of the way   without prompting the B trade
+[22:21:58] PsyMar2: thing is I can trade bishops immediately because now your Q can't recapture
+[22:22:13] PsyMar2: and I apparently should have
+[22:22:13] STCLion: exactly   so  i kept us both in the situation where neither wanted to initiate it
+[22:22:43] PsyMar2: if you play Bc6 I have far less incentive to trade bishops because your queen is now on the diagonal
+[22:22:58] PsyMar2: if I start the trade
+[22:22:58] STCLion: the actual problem   is that trading Bs allows N-e4
+[22:23:14] PsyMar2: yes, that too
+[22:23:29] STCLion: i held that off   as long as I could ...
+[22:23:29] PsyMar2: but if you had played 23....Bc6, then trading Bs has your queen guarding e4
+[22:23:59] PsyMar2: as it was, for the next several moves I can play Bxa8 Rxa8 Ne4
+[22:23:59] STCLion: which you can supplant simply
+[22:24:14] PsyMar2: I should've done it much sooner
+[22:25:46] PsyMar2: like yes then I still get the knight to d4, but now my queen is stuck guarding it, which gives you turns to run your king to c7
+[22:26:01] PsyMar2: apparently that was the strat was try to get the king to c7
+[22:26:16] PsyMar2: because then you can get the h8 rook to do something
+[22:26:16] STCLion: ok  but if B-c6   then you see it doesn't quite work for you  so you DON"T trade
+[22:26:31] PsyMar2: yes, and you didn't want me to trade
+[22:26:46] STCLion: matter of fact  you p-lay p-d5
+[22:27:02] STCLion: and i am blocked from my reply of Qxc5+
+[22:27:17] PsyMar2: p-d5 exd5 then what
+[22:27:32] PsyMar2: after I retreat the bishop there you still have Qxe5
+[22:27:32] STCLion: B takes   your Q protects
+[22:28:02] PsyMar2: You still take on e5
+[22:28:18] STCLion: so  no  had to duck that sequence
+[22:28:33] PsyMar2: that sequence is just good
+[22:28:48] PsyMar2: you clear out the center
+[22:28:48] STCLion: good for taking down ur pawn ad
+[22:29:34] PsyMar2: anyway, I'm tired, ggs
+[22:29:34] STCLion: but lose B to your pawn
+[22:29:49] STCLion: and your N protects your B
+[22:30:19] STCLion: ;?))    hoping your nap left your groggy  ...
+[22:30:35] STCLion: anyway  glad to see another ICCer around
+[22:30:50] STCLion: since most everyone just went their separate ways  ..
+[22:31:20] PsyMar2: it kind of did!
+[22:31:20] PsyMar2: I think that's why I didn't see 6...Qa5
+[22:32:06] PsyMar2: but I'm no stranger to being tired when the game starts and just having to drink water and eat and get my brain into gear as the game goes
+[22:33:37] STCLion: feed and hydrate
