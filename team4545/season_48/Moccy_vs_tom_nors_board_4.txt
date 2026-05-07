@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/DH4hDoGq
+White     : moccy
+Black     : tom_nors
+Time      : 45+45
+Captured  : 2026-05-07 18:10:04 UTC
+Game ended : 2026-05-07 16:49:59 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[14:18:32] tom_nors: I was expecting Qd2 or f4. Rb1 kind of spoils my plan of Rb8 b5
+[14:19:18] tom_nors: I've seen in some games b6 Bb7 is an idea, maybe pushing d5 at some point
+[14:22:51] tom_nors: I don't mind e5, gives me the d5 and f5 squares. just a case of Nxe2+ or Rb8 first
+[14:29:57] tom_nors: e5 pawn is not the best admittedly but it's not so easy to target for the moment and it controls f4
+[15:04:27] tom_nors: can I just have one week where I don't blunder away a good position
+[15:07:29] tom_nors: I should have Nxe4 Nxf2 so I can at least grab a pawn for the exchange
+[16:29:56] basyaar: Ah white can draw by capturing both pawns by sacking the rook
+[16:33:45] basyaar: Rg8(58)
+[16:36:17] basyaar: hmm..this can go for long
+[16:40:20] basyaar: 50 move rule will apply on move 99?
+[16:43:08] basyaar: Bd4/Bf2?
+[16:46:26] basyaar: I guess black can keep pushing and keep finding ideas. White will have to be on toes
+[16:46:26] basyaar: ooh
+[16:46:41] basyaar: Rxg!
+[16:47:11] basyaar: Be5?
+[16:47:26] basyaar: oh can white king keep on h1?
+[16:48:43] basyaar: hmm..seems white has stalemate tactic
+[16:51:45] basyaar: gg
+[16:53:01] Moccy: Gg
+[16:54:47] Moccy: It's interesting to see that the engine doesn't think it's a dead draw in the end. In my opinion, I have a solid fortress.
+[16:55:18] Moccy: The reasoning is that black can never ever hinder my king from going to h1.
+[16:55:48] Moccy: If I can go to h2, g1 or g2, fine. I can go back to h1 next move.
+[16:56:04] Moccy: And if I cannot go to any of these squares, it's a stalemate.
+[16:56:34] Moccy: So I am just going back and forth between h1 and any of the surrounding squares.
+[16:58:20] Moccy: Okay, nevermind the engine. The table base says it's drawn.
