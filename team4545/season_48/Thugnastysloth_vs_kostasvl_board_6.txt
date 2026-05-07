@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/eVjS1qbX
+White     : thugnastysloth
+Black     : kostasvl
+Time      : 45+45
+Captured  : 2026-05-07 21:58:43 UTC
+Game ended : 2026-05-07 20:38:38 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[19:50:57] LostFromOpening: isnt that just a free pawn?
+[19:51:27] LostFromOpening: c3 Nxc3
+[19:53:59] LostFromOpening: a3 Qa5
+[20:04:54] Leverkuhn: unlucky blunder from White here
+[20:05:09] LostFromOpening: i dont understand his decision to play a3 g5 tho
+[20:05:24] LostFromOpening: c3 should still be lost but this way ur not really fighting for anything
+[20:05:40] Leverkuhn: it felt natural to play 21.g5! as a prelude to Nd5; I wonder why he jumped the gun
+[20:05:55] Leverkuhn: even disregarding the tactics, it was weird to let Black trade knights
+[20:05:55] Leverkuhn: since g5 was something he wanted to do anyway
+[20:06:25] LostFromOpening: yea g5 looks quite annoying for black
+[20:06:40] LostFromOpening: Nd7 or what do u do
+[20:06:40] LostFromOpening: and then Nd5
+[20:06:40] Leverkuhn: also, agreed: 22.c3! needed to be tried to at least not be down a piece
+[20:07:57] LostFromOpening: im not a fan of blacks opening in this game
+[20:08:12] LostFromOpening: although with my name i cant talk much ^^
+[20:08:12] Leverkuhn: lol
+[20:08:27] LostFromOpening: Bc5 Qf6 feels weird
+[20:08:57] Leverkuhn: yeah I didn't catch the opening, but 14.b4 might have been an outright win
+[20:09:43] LostFromOpening: ah right Nxc7
+[20:09:43] Leverkuhn: 14.b4 Qa4 15.Bb5+!! +-
+[20:09:43] LostFromOpening: yea that just wins
+[20:09:58] LostFromOpening: o Bb5 even better ^^
+[20:10:29] LostFromOpening: Nxc7 i guess u have to be careful about a2
+[20:12:00] LostFromOpening: whats the plan now
+[20:12:00] LostFromOpening: getting knight to e5?
+[20:12:30] LostFromOpening: or rather Re5 / Qe5
+[20:13:01] Leverkuhn: I'd play 24...
+[20:13:16] Leverkuhn: 24...Re5 followed by 25...Rde8
+[20:14:47] LostFromOpening: gxf5 now should b pretty simple
+[20:40:09] Leverkuhn: gg
