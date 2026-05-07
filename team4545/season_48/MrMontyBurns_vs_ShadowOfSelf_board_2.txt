@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/eBcwzGw9
+White     : mrmontyburns
+Black     : shadowofself
+Time      : 45+45
+Captured  : 2026-05-07 20:48:24 UTC
+Game ended : 2026-05-07 19:28:18 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[17:04:27] Joonaf: Go MrMontyBurns!
+[17:10:32] MrMontyBurns: (7. d5) expected e5 instead of c5. comfortable with my position
+[17:15:37] PaulWithAnS: (8) Go ShadowOfSelf!
+[17:25:15] MrMontyBurns: (9... exd5) If there is a way to handle the pressure on e4, I will go cxd5
+[17:26:01] Joonaf: I'd do ex
+[17:26:16] Joonaf: I'd be scared of not being able to defend the backwards e4-pawn
+[17:27:32] PaulWithAnS: (9) Opening up the e file for blacks rook with whites king still uncastled looks a bit unpleasant
+[17:28:18] MrMontyBurns: cx re8 qc2 qe7 nd2 blocks the bishop, bd3 maybe c4 is annoying, bg5 there's h6 ...
+[17:33:53] Joonaf: but can White not just castle right away?
+[17:33:53] ShadowOfSelf: was surprised to see cxd5 feels like this opens  some space for me
+[17:34:23] Joonaf: 10.exd5, Re8, O-O, what could black do
+[17:35:54] Joonaf: but maybe this is good too. The f3-knight could go to c4 now
+[17:36:25] Joonaf: I mean, now that the pawn isn't on c4 anymore
+[17:36:40] Joonaf: the knight could aim for that square
+[17:38:57] osumarko: Go shadow!
+[17:39:58] MrMontyBurns: (11. Qc2) thinking about Qe7 Bg5 h6 e5 dx , might be dumb. Nd2 as a bailout isn't so bad I believe
+[17:40:13] Teydin: (11) I wonder if it is possible to play Nxe4
+[17:42:15] Joonaf: Oh, Nxe4, Nxe4, Bf5? then Bd3 pins the knight to the king
+[17:42:30] Joonaf: so yeah, maybe
+[17:43:00] Joonaf: maybe Nd2 instead of Bd3 for white
+[17:43:16] Joonaf: but then the knight is still pinned, to the queen this time
+[17:43:16] Teydin: (11) Thought about Nxe4 Nxe4 Bf5 Bd3 Bxe4 Bxe4 f5
+[17:45:32] Joonaf: funny how it seems that leaving the pawn to e4 caused troubles with the king in the center
+[17:45:48] Joonaf: whereas if white did exd5 instead, it seems to me at least that the king could've just castled right after
+[17:46:18] Joonaf: Maybe 12.Bg5?
+[17:47:49] ShadowOfSelf: I was really expecting 12. Bg5
+[17:58:29] bncl: Go MrMontyBurns!
+[18:09:54] MrMontyBurns: (15. a5) now Bf3 to start overdefending e4 and free up the knights
+[18:11:40] MrMontyBurns: not sure what blacks plan is here, nh5/7 then f5 looks bad currently
+[18:17:00] MrMontyBurns: a position to be reaally careful in for both sides
+[18:31:13] MrMontyBurns: (17. Na4) g5 Ne5 is strong by black, but takes pressure off e4 for a moment, maybe I can get the rook in?
+[18:37:18] MrMontyBurns: (18. Bf3) a little scared of some attack
+[18:43:39] ShadowOfSelf: what a weird mutually awkward position this is
+[18:55:34] cowtone: Is black better due to more active minor pieces
+[19:06:29] MrMontyBurns: (27. Bd2) probably spent too much time controlling the queenside, if the dark square bishop comes off I'm less worried about getting mate
+[19:12:34] MrMontyBurns: (31. e5) not sure what is going on, blacks king looks lufty
+[19:16:37] Joonaf: I thought 32.Qxf5 and the DSB could be useful later
+[19:16:37] Joonaf: oh wait,
+[19:17:08] Joonaf: I just thought Qxf5, and if Nf3+ then Qxf3, but then black can take twice on e2
+[19:17:23] fritsj: Rxe5 now?
+[19:17:38] PaulWithAnS: (33) Yup black is losing a pawn
+[19:18:54] PaulWithAnS: (35) Or not
+[19:19:25] fritsj: The open King is pretty bad for Black though
+[19:19:25] fritsj: White is for choice
+[19:23:44] fritsj: Qf7 only move I reckon
+[19:23:59] fritsj: Qe6 Re1 looks great for White
+[19:25:30] Joonaf: I'm still trying to think of the32.Qxf5 move. I'm sure I'm missing something :P 32. Qxf5, Nf3, Kg2, Qxe2, Qg6+, Kf8, Qxh6+, Kg8, Qg6+, ...
+[19:25:30] Joonaf: ...Kf8, Qf6+, if ..Kg8, Qh8+, Kf7, Qg7#
+[19:25:45] Joonaf: if ..Rf6, Qxd6+ and something
+[19:28:18] Joonaf: ggwp!
+[19:28:48] PaulWithAnS: (43) gg. Very interesting game
+[19:29:34] Joonaf: oops, I just did extra moves in my line that missed the mate
+[19:29:34] fritsj: But Joonaf isn't there just Rf7 to defend after Kf8 Qf6+? And if Qh8+ Ke7 there is no Re1 because of the Knight on f3
+[19:30:04] Joonaf: yeah, white could just do Qh8+ immediately
+[19:30:34] Joonaf: without the Qf6+
+[19:31:20] fritsj: Oooh right that works
+[19:32:06] Joonaf: I mean Qg6+ isn't the problem, other than wasting time, but Qf6+ would've been dumb
+[19:32:21] Joonaf: Qf6+ Rf7 like you said and it's 00
+[19:33:22] Joonaf: seems like even 32.Qxf5, Nf3+, Qxf3 would've been winning for white
+[19:33:52] Joonaf: then ..Qxe2 and instead of trading the queens white goes back to thrreaten the black king
+[19:34:38] Joonaf: but with so little time it'd have been really difficult to see all of these lines
+[19:35:08] Joonaf: well played both!
