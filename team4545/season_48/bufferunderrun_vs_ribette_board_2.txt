@@ -1,0 +1,38 @@
+Lichess game chat log
+Game      : https://lichess.org/OB1Yukhh
+White     : bufferunderrun
+Black     : ribette
+Time      : 45+45
+Captured  : 2026-05-07 22:10:18 UTC
+Game ended : 2026-05-07 20:50:13 UTC
+Messages  : 28
+────────────────────────────────────────────────────────────
+
+[17:57:56] bufferunderrun: Glek, Bb5 or something else... hmmm...
+[17:58:57] bufferunderrun: let's try something else then
+[18:00:59] bufferunderrun: it's a bit funky line
+[19:18:21] Inter-temporal: (30) (30.Re3) maybe there was a line with 29.Ra3 idk ...Rd5+ 30.Ke2 gxf4 31.Rxh6 Ke7 many branches i guess
+[19:20:08] Inter-temporal: (31) (31.Re4) oh but there was 31...Rxe5+
+[19:21:09] Inter-temporal: (31) (31...Rd5+) might perpet the c3-pawn?
+[19:23:10] Inter-temporal: (32) (32...Rc5) "check to the c3 pawn!"
+[19:25:43] Inter-temporal: (33) (33.Kd2) and "check to his majesty"
+[19:26:13] Inter-temporal: (34) (34.Kc1) commitment.
+[19:26:28] Inter-temporal: (34) (34.Kc1) this gives rise to some interesting instruction in Shereshevsky
+[19:26:59] Inter-temporal: (35) (35.Kb2) he calls this a "sharp rook endgame" because each side wants to queen a pawn on opposite wings:
+[19:27:44] Inter-temporal: (35) (35...Rd5) his rule was that "our K should go with our pawns (to queen)  while our R works against the enemy pawns"
+[19:28:00] Inter-temporal: (35) (35...Rd5½?) so driving the white K away from his pawn majority is probably a good strategy for black (if i'm understanding... idk)
+[19:31:33] Inter-temporal: (36) (36.g4) wonder if white can switch the potential queening pawns. seems risky here
+[19:36:22] Inter-temporal: (37) (37.c4) tactics!
+[19:37:54] Inter-temporal: (37) (37.c4) but what's the deal with just bxc4?
+[19:38:55] Inter-temporal: (37) (37.c4) ...bxc4, Kc3 maybe?
+[19:45:46] Inter-temporal: (41) (41...Rd5) considering a plan with Kg3 & h4
+[20:07:35] bufferunderrun: Idk, maybe Kd4 was better
+[20:11:39] Inter-temporal: (50) (50...Ra2+) well traveled K
+[20:11:54] Inter-temporal: (51) (51.Kg3) there it is! finally arrived
+[20:38:17] Inter-temporal: (60) (60.Kf4) "a sharp rook endgame" pretty clear now with passers on opposite wings. but Black's K is likely unhappy
+[20:40:50] Inter-temporal: (62) (62.Rf6+) (61) (61.Kg3)maybe this is one reason black's K likes to be on the other side
+[20:48:11] bufferunderrun: lol, okay
+[20:48:26] bufferunderrun: we are doing this now...
+[20:49:27] Inter-temporal: (75) gg
+[20:50:28] Inter-temporal: but
+[20:50:58] Inter-temporal: ya'll really gotta work on ur accuracy. come on
