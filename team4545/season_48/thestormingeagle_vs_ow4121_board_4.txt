@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/R0QPKRYO
+White     : thestormingeagle
+Black     : ow4121
+Time      : 45+45
+Captured  : 2026-05-08 15:08:48 UTC
+Game ended : 2026-05-08 13:48:43 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[12:11:17] thestormingeagle: (8. Bd3) I know this position is -0.1 according to stockfish (if I recall correctly)
+[12:14:35] thestormingeagle: (8. .. Nh6) The only square the knight could go to is g4. I don't see the harm in that. But I could prevent it with h3.
+[12:15:05] thestormingeagle: if black castles g4 then g5 could win the knight but it's easy to see and prevent and will probably leave me worse off
+[12:16:52] bronasberger: Go Stormingeagle!
+[12:17:22] thestormingeagle: Hi bronasberger! Thanks for supporting!
+[12:18:08] bronasberger: 3. f4 is a fun move, this will be a sharp game
+[12:23:12] thestormingeagle: (10. ..f6) I'm considering Nxd4. I think black wins the pawn back so I'm thinking about which pawns survive and where the pieces are.
+[12:23:58] thestormingeagle: there might be a danger from black controlling the a7-g1 diagonal amd then getting to play Ng4
+[12:26:00] thestormingeagle: 11. Nxe4 Qb6 12. c3 fxe4 13. fxe4 Bxe4 14. h3 looks like I have time to stop it
+[12:28:01] thestormingeagle: 11. Nxd4 fxe4 12. fxe4 Bxe4 13. c3 Ng4 and I can play h3 to kick the knight away before the queen goes to b6
+[12:28:01] thestormingeagle: Hi kyri thanks for supporting
+[12:28:16] thestormingeagle: quick check for something better
+[12:29:02] thestormingeagle: also of course the lines I mentioned are not the only choices black has
+[12:30:49] thestormingeagle: I am considering exf6 but the f4 pawn is weak and isolated and if I play Ng3 to support f5 then I'm worried black will get Bh4 and h3
+[12:31:04] thestormingeagle: would be very bad if I needed to play it
+[12:32:20] thestormingeagle: hi nyanners
+[12:37:40] thestormingeagle: (12. ..Bxe5) Nf3 looks dangerous because of Qb6+ and then Ng4. I did see this and planned to play c3 but I'm just rechecking my options.
+[12:38:40] thestormingeagle: It's a strange position. I'm castled but behind in development. Black is (kind of but not really prevented from castling but has a lot of
+[12:38:56] thestormingeagle: of development but three pawn islands for my two.
+[12:39:11] thestormingeagle: and c3 would allow black to give me double isolated pawns in exchange for the bishop pair
+[12:40:42] thestormingeagle: Nf3 might work but is tricky to calculate. Black can then castle and bring another piece into the attack
+[12:40:57] thestormingeagle: though not immediately of course
+[12:42:59] thestormingeagle: (13. c3) I didn't like the complication and am not confident in my ability to calculate it especially because
+[12:44:15] thestormingeagle: my pieces will have much less activity at the end of any line anyway. I would have played  it and hoped if c4 looked a lot worse
+[12:44:46] thestormingeagle: or if I could calculate until my pieces became active (but then I'd be a much better player)
+[12:47:03] thestormingeagle: (13. .. Qb6) have to protect my light squared bishop from a tactic
+[13:03:32] thestormingeagle: (16. Kh1) I definitely think I'm worse here. I'm wishing my bishop was on c2 rather than e3 but I'm not sure if it was possible at the
+[13:03:47] thestormingeagle: time because of the Ng4 threat
+[13:05:19] thestormingeagle: will definitely have to reconsider the Bd3 move in the opening. Either find out a later mistake that I can improve upon or play something
+[13:05:19] thestormingeagle: else
+[13:06:50] thestormingeagle: (16. ..Nxd4) Actually the position looks nice after 17. b3 Nxe2 18. Qxe2
+[13:09:52] thestormingeagle: calculating if black playes Qe6
+[13:10:53] thestormingeagle: Bd3 I guess? Qa4 is an option but I can't forget the bishop on e2 should still be moved because the queen is attacking it after NC6
+[13:11:54] thestormingeagle: (facepalm) Qa4 is not an option because of the pawn on b3 and I spent some time calculating it thinking what if Nc6 and what if Bd7
+[13:12:09] thestormingeagle: trading the knight for the e2 bishop
+[13:13:11] thestormingeagle: (18. Qxe2) Don't think I'm better but I do have questions that I can pose to black now
+[13:14:42] thestormingeagle: Black isn't castled and because of g6 my bishop might be better but I''m not sure if that is worth the pawn
+[13:16:59] thestormingeagle: (18. ..Bf5) Need to remember that black can castle long before I think of anything crazy like Rxf5
+[13:17:14] thestormingeagle: decidign where to put my bishop
+[13:18:46] thestormingeagle: will probably type less and think more given the time situation
+[13:20:48] thestormingeagle: (19. Ba3) 19. .. Qe6 20. Qxe6 Bxe6 21. Rae1
+[13:21:03] thestormingeagle: I guess black then has Kd7
+[13:22:34] thestormingeagle: Rfe1 instead will allow me to double up on the e file without black forcing a trade of rooks
+[13:25:07] thestormingeagle: (19. O-O-O) I see the pawn but grabbing it may cause problems and I might have something stronger
+[13:27:54] thestormingeagle: Bg2 with long term threats was my plan but I might accept a queen trade if I can win a pawn
+[13:28:25] thestormingeagle: but the pawns on light squares with the black king on a white square might facour my opponent
+[13:31:43] thestormingeagle: (23. b4) I should have taken more time to consider options before giving up a pawn but I saw a tactic
+[13:31:58] thestormingeagle: I also should have spent time checking if it worked
+[13:33:14] thestormingeagle: I mean should I reconsider or just give up the second pawn?
+[13:33:29] thestormingeagle: the idea is Ra1 and Qc7 with mating threats
+[13:33:29] thestormingeagle: what first though?
+[13:34:15] thestormingeagle: Qc7 Rc8 and black can sacrifice the exchange
+[13:34:30] thestormingeagle: does Ra1 just work?
+[13:35:01] thestormingeagle: Ra1 Qc4 is blacks best defence I think
+[13:38:34] thestormingeagle: (24. Ra1) Looks worse except for Qc4 Rfc1 Qb5 Ra5 ideas
+[13:39:19] thestormingeagle: maybe I should have jus taken the other line if it was a guaranteed exchange (though I didn't look to hard for ways for black to avoid it
+[13:39:35] thestormingeagle: not sure if this is pragmatic or hope chess as well hoping that black will grab on d2 rather than play Qc4
+[13:40:51] thestormingeagle: (25. Rfc1) Qc7 before Ra1 probably was better
+[13:41:36] thestormingeagle: (24. ..Qe4) Or maybe not!
+[13:42:07] thestormingeagle: ah black has Qe6 after Qc7
+[13:43:08] thestormingeagle: still should ask the question before trying to bail out for a pawn
+[13:43:23] thestormingeagle: especially because I'm two pawns behind
+[13:45:40] thestormingeagle: if not for Bd3 I had a pretty mate
+[13:46:26] thestormingeagle: less than 10seconds left
+[13:46:26] thestormingeagle: panicking and trying for the mate
+[13:46:41] thestormingeagle: because I couldt assess anything else properly
+[13:47:42] thestormingeagle: IT might have been a good try even if black didn't blunder the mate but I didn't have time to calculate it
+[13:52:31] nyanners: nice XD
+[13:52:46] nyanners: i like it given the circumstances
