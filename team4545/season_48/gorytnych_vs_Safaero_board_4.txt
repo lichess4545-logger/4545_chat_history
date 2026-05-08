@@ -1,0 +1,44 @@
+Lichess game chat log
+Game      : https://lichess.org/HAl8DjUE
+White     : gorytnych
+Black     : safaero
+Time      : 45+45
+Captured  : 2026-05-08 01:40:33 UTC
+Game ended : 2026-05-08 00:20:29 UTC
+Messages  : 34
+────────────────────────────────────────────────────────────
+
+[23:07:40] bufferunderrun: øet
+[23:07:56] bufferunderrun: let's go gorytnych!
+[23:19:51] bufferunderrun: I don't think b6 is playable
+[23:20:21] bufferunderrun: basically, Bf5 was bad
+[23:21:07] bufferunderrun: you'd have to go back to c8 with the bishop, but white is still kind of better
+[23:22:08] bufferunderrun: Nc6 is sort of semi-playable
+[23:22:38] bufferunderrun: It's still worse, but there are some practical chances
+[23:28:59] bufferunderrun: well, in blitz
+[23:31:31] bufferunderrun: 9.Ne5
+[23:34:03] bufferunderrun: yeah, Bb5+ first
+[23:40:09] bufferunderrun: 11.Bc6 perhaps
+[23:40:24] Feet_Barbie: (10...h6) damn
+[23:41:09] Feet_Barbie: (10...h6) bc6 yes funny move haha
+[23:41:25] bufferunderrun: yeah, I learned this lesson years ago in a blitz games against an IM in the club
+[23:42:10] Feet_Barbie: (10...h6) yeah is it like an uncommon trap?
+[23:42:10] Feet_Barbie: (10...h6) wtf
+[23:42:25] bufferunderrun: no, it's pretty common
+[23:42:41] bufferunderrun: never play Bf5 :p
+[23:42:56] Feet_Barbie: (10...h6) yeah at least it should only happen once
+[23:50:48] bufferunderrun: I'll just assume black forgot to insert dxc4 before Bf5
+[00:02:58] Mennonite: I was trying to make 13.Nc6 work just for fun
+[00:04:30] bufferunderrun: there is Qa6 there, I think, so I don't see it working
+[00:07:47] bufferunderrun: ah no, nevermind, but still Nc6 Nxc6 Bxc6 Qxc6 Nb5 Qd5 Rc7+ Nd7
+[00:10:50] Mennonite: yeah, i was hallucinating or something and thought Nd5+ worked in there
+[00:15:55] bufferunderrun: Idk, I would have grabbed the rook
+[00:16:41] bufferunderrun: though, maybe this still works
+[00:16:56] bufferunderrun: I kind of though for a second black could have taken on c1
+[00:17:26] bufferunderrun: but it's illegal :p
+[00:19:28] bufferunderrun: so the question is, exd or Nc5
+[00:19:58] bufferunderrun: gg
+[00:19:58] Mennonite: Nc5 would also have been illegal though
+[00:22:15] gorytnych: I wasn't sure if instead of Be3 I checked with queen and traded everything the endgame with exchange up would be winning enough
+[00:22:15] bufferunderrun: yeah, it's too late for me
+[00:22:15] bufferunderrun: lol
