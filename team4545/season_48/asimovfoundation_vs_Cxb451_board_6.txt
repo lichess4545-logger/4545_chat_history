@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/XAgiHbLA
+White     : asimovfoundation
+Black     : cxb451
+Time      : 45+45
+Captured  : 2026-05-08 01:55:46 UTC
+Game ended : 2026-05-08 00:35:42 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[23:04:53] TimothyHa: (8) maybe e4 and expand and attack on the kingside
+[23:08:26] TimothyHa: (11) they almost ask for d4-d5
+[23:15:17] TimothyHa: (12) now d5 Na6 I guess
+[23:15:32] TimothyHa: (12) but c4 is quick
+[23:21:53] Rolihlahla: go Nick!!!!
+[23:22:23] TimothyHa: (14) I don't think this is much better for White, but a nice technical position to play
+[23:22:54] TimothyHa: (14) Bf6 actually helps White protect the queen via Rad1
+[23:22:54] TimothyHa: (14) Bd6 used the pin better
+[23:30:15] TimothyHa: (16) N->d2->e4?
+[23:30:46] TimothyHa: (16) getting to c6 would be ideal but that's Be5 now I think
+[23:30:46] TimothyHa: (16) maybe that's even better!
+[23:37:06] Rolihlahla: Yes - Nc6 would be nice
+[23:39:23] TimothyHa: (19) Be5 could be found now
+[23:51:03] TimothyHa: (20) did they forget Bxf6 is playable?
+[23:51:33] TimothyHa: (20) there's no real backrank issue for White for now
+[23:52:50] TimothyHa: (21) Qc3 is a good attack already
+[23:57:39] TimothyHa: (24) win the knight?
+[23:57:54] TimothyHa: (24) Rxe8 Qxe8 loses the knight via Qg3+
+[23:58:09] TimothyHa: (24) Nxe8 isn't what Black wants
+[00:00:41] TimothyHa: (25) wrong order maybe but ok
+[00:03:44] TimothyHa: (25) Kg8 Rxe8 Kxe8 Qg8 mate would be hilarious, but too much time on the clock
+[00:03:59] TimothyHa: (25) ah, not mate
+[00:07:48] TimothyHa: (26) in this move order it's easier for Black to see the issue
+[00:08:03] TimothyHa: (26) Rxe8 before Qg3 can cause blunders
+[00:08:33] TimothyHa: (27) but peneration in queen endgame is good though
+[00:11:05] TimothyHa: (27) ok, this is a pure pawn loss, as d6 loses to Qd1+ Nf1 Qxd6
+[00:11:21] TimothyHa: (27) maybe luft first
+[00:12:52] TimothyHa: (28) I like Qd8 which supports d6 again
+[00:13:22] Rolihlahla: he should be quicke ....
+[00:13:22] Rolihlahla: quicker!!
+[00:13:53] TimothyHa: (28) Black will regret Kh8 soon
+[00:13:53] TimothyHa: (28) Kf8 made way more sense
+[00:14:54] TimothyHa: (28) Kg7 surprising but not bad :-)
+[00:15:09] TimothyHa: (29) this loses the pawn...
+[00:15:24] TimothyHa: (29) I think White is getting careless
+[00:15:55] TimothyHa: (29) luft was important
+[00:16:56] Rolihlahla: yep
+[00:17:26] TimothyHa: (31) still drawable, but it was a pleasant game before
+[00:17:56] TimothyHa: (32) tactics time
+[00:17:56] TimothyHa: (32) Qe5 Qxd6!
+[00:19:13] TimothyHa: (32) this is actually nasty now for Black to deal with
+[00:19:28] TimothyHa: (32) Qxd6 is a direct threat, and king doesn't have squares
+[00:24:17] TimothyHa: (32) Qa1+ Nb7 safest course, but dangers continue with Q and N
+[00:24:47] TimothyHa: (32) hurray!
+[00:25:03] TimothyHa: (32) Qxd6!!! please
+[00:25:18] TimothyHa: (33) Qe5 definitely the most human move
+[00:25:18] TimothyHa: (34) and it's a huge blunder
+[00:25:48] TimothyHa: (35) humans are huge blunderers...
+[00:26:19] Rolihlahla: nice attraction fork  :-)
+[00:28:05] TimothyHa: (36) run king to queenside and that's a win
+[00:32:09] TimothyHa: (39) one more fork
+[00:32:24] TimothyHa: (39) Na4 is safe after that
+[00:32:39] TimothyHa: (39) no entrance for black king
+[00:35:27] TimothyHa: (44) one more fork
+[00:35:42] TimothyHa: (45) gg
+[00:42:47] Rolihlahla: gg
+[00:42:47] asimovfoundation: gg
