@@ -1,0 +1,28 @@
+Lichess game chat log
+Game      : https://lichess.org/UsZGv2w5
+White     : moistvonlipwig
+Black     : aactrl
+Time      : 20+20
+Captured  : 2026-05-08 20:17:41 UTC
+Game ended : 2026-05-08 18:57:30 UTC
+Messages  : 18
+────────────────────────────────────────────────────────────
+
+[18:10:18] AACtrl: (3...e5) 3...b5!? then Nb4-Nd3?
+[18:11:19] MoistvonLipwig: possibly 3...Nb4 would have been strong; lets prevent that for the future
+[18:24:16] AACtrl: (8.Be2) 8.Bxe4 Nx Qx Ne7 Qb3 Bg2? I'd prefer 8...0-0
+[18:24:46] MoistvonLipwig: this was not ideal; 8.Bxe4 Nxe4 Qxe4+ Ne5 looks quite dangerous; both 8.g5 and 8.cxb5 look ok-ish but not great
+[18:25:01] MoistvonLipwig: The B retreat is passive that at least the diagonal stays closed this way
+[18:29:35] AACtrl: (10.gxf6) holding the tiger by its tail
+[18:30:36] MoistvonLipwig: I don't think this piece sac was necessary, and unsure whether it's good or not, but certainly it's interesting
+[18:32:08] MoistvonLipwig: actually Rxc4 looks quite good now, defending the 4th rank and preempting d5 locking down the pawn chain
+[18:38:13] MrScribbles: (15...Ba2) crazy position, I'm just checking in
+[18:38:59] MrScribbles: (15...Ba2) Nh3 doesn't save the piece I don't think. Anything better?
+[18:40:00] MrScribbles: (15...Ba2) maybe Rcc1 and accep tthat you're losing pawns, idk
+[18:41:16] MrScribbles: (18.Kg3) Oh, well they can't take e3 at least
+[18:41:16] MoistvonLipwig: bleh, I missed the simple 16.Nh3 Bxb1 Rxb1 Qxd2+xc3
+[18:41:46] MrScribbles: (18.Kg3) black most definitely can't take e3, i that's what you mean
+[18:42:16] MrScribbles: (18.Kg3) oh never mind, wrong line
+[18:50:08] AACtrl: (23.Qb3+) okay it was nice while it lasted!
+[18:52:41] AACtrl: (24.Ng5) I saw 23...Re6 Ng5, but I missed Rf7 Ng5....
+[18:59:01] AACtrl: ah 19...c5, of course!
