@@ -1,0 +1,90 @@
+Lichess game chat log
+Game      : https://lichess.org/T8kby9cV
+White     : guitarspider
+Black     : lloydret
+Time      : 45+45
+Captured  : 2026-05-08 17:17:02 UTC
+Game ended : 2026-05-08 15:56:58 UTC
+Messages  : 80
+────────────────────────────────────────────────────────────
+
+[13:55:56] Silkthewanderer: Go Spider
+[14:00:00] R0B-W: (1...d6) Go, LloydRet!
+[14:00:00] R0B-W: (2.d4) Hi, guitarspider!
+[14:04:34] Silkthewanderer: Oof. This is a line I know absolutely nothing about and would hate to play with either color.
+[14:04:49] Silkthewanderer: Apparently those two are enjoying it tho
+[14:06:21] MilsBees: The one week I don't talk to guitarspider about his prep he goes 6.g4
+[14:09:38] LloydRet: (7...b5) 8.a3 Qc7 to support the e5 pawn & prepare Nb6
+[14:12:41] Zubenelgenubi: Go Spider, may the paths of your pawn be strewn with roses! ;-)
+[14:12:56] Zubenelgenubi: *pawns
+[14:13:11] Silkthewanderer: g4 is a normal thing in the Philidor. I play that one too
+[14:13:27] Silkthewanderer: Inclusion of Rg1 is what gets me out of book
+[14:14:43] Silkthewanderer: Bd3 prepares a4 I assume
+[14:15:13] Silkthewanderer: b4 is not that much of a threat then because the knight has a viable path to g3
+[14:19:17] giziti: ooh early g4
+[14:19:47] Pope123: Go spidy
+[14:24:36] Silkthewanderer: exd4 Nxd4 and then I guess Ne5 Be2 b4 Na4 looks logical
+[14:25:07] Pope123: 9...b4 Woow
+[14:25:22] Silkthewanderer: b4 first is waaaay too spicy for me. How is Nxc6 not winning stuff?
+[14:26:38] Pope123: Not sure, Qa5-b3+ is not really a threat
+[14:26:38] giziti: yeah like b4 is normal in this type of position, but in this exact one?
+[14:26:38] Silkthewanderer: Especially when I just thought I understood the Black plan if 9. ...Ne5 and 10. ...b4 happened
+[14:26:53] Silkthewanderer: It is thematic, I just think it fails tactically
+[14:27:54] Silkthewanderer: Nxc6xb4-d5 and all White pieces are anchored while Black will only get one of the pawns back at best
+[14:28:25] giziti: yeah i'm not seeing black getting anything out of that
+[14:29:10] giziti: and white is so far ahead in development too
+[14:29:56] Pope123: Black thinking is a bad sign, maybe they just forgot about c6?
+[14:32:13] giziti: i mean like this is probably at least +4
+[14:42:07] LloydRet: I overlooked 10.Nxc6 or rather the 11.Nxb4 follow-up, so now its desperado time
+[14:45:40] Silkthewanderer: 13
+[14:46:25] Silkthewanderer: 13. Nxf6 and 14. Bb5 seem good enough
+[14:47:41] Silkthewanderer: Makes sense to think now, though. If smth like Nc7 wins quickly all the better
+[14:49:13] Silkthewanderer: Yeah, I assumed as much @Lloyd. One thing to see that after Qc7 both knights are attacked and not check thp
+[14:49:13] giziti: lot of candidates, I think f4 is interesting because of the Nc7 threat
+[14:49:13] Silkthewanderer: *thoroughly from there
+[14:49:58] Silkthewanderer: Why f4 over f3?
+[14:50:14] giziti: blocks the h2-c7 diagonal
+[14:51:30] Silkthewanderer: Ah here I was about to blunder stuff. I wanted f3 to consolidate, then Bf4+Nc7
+[14:51:45] Silkthewanderer: But of course Bf4 drops the Rg1
+[14:52:00] Feet_Barbie: (13.Kd2) go spiderr
+[14:52:15] Feet_Barbie: (13.Kd2) oh very famous line u can also go g4 immediately
+[14:52:46] Silkthewanderer: Kd2 was NOT a candidate for me but seeing it on the board, I like it lots
+[14:53:01] Feet_Barbie: (13.Kd2) white is cooking
+[14:53:01] giziti: I was also considering it
+[14:53:16] Silkthewanderer: Especially since it actually does what I wanted to do with Bf4 Nc7
+[14:53:47] giziti: do we just slip in Nxf6+ here before taking the bishop?
+[14:54:17] Feet_Barbie: (13...Bc5) qf3 idk
+[14:55:03] LloydRet: White's exposed King is some compensation, at least temporarily
+[14:55:18] Feet_Barbie: (13...Bc5) is white king exposed even
+[14:55:18] Feet_Barbie: (13...Bc5) feels like one of those white has material and compensation
+[14:55:33] Silkthewanderer: Maybe Nxf6 first to ruin the structure and only then gxf6 Qf3
+[14:56:19] Silkthewanderer: 15. Nd5 is also a move
+[14:56:49] giziti: I think we could trade the bishops, then Qf3.
+[14:56:49] Feet_Barbie: (14...gxf6) multiple moves yeah
+[14:58:21] Silkthewanderer: Also a plan. Good thing about Bxc5 Nxc5 Qf3 is that the knight is further away from e5
+[14:59:22] giziti: thing about Ne5 though is that White forces a queen trade and then Black has nothing
+[15:01:23] giziti: or Qxf6? lot of options
+[15:04:11] giziti: Bxc5 Nxc5 e5?
+[15:07:29] giziti: or just Nb5? Or Bf4?
+[15:09:46] giziti: there was a reason i didn't like immediate e5 but I forget now, maybe I was wrong
+[15:10:01] Feet_Barbie: (16.e5) spiders cooking
+[15:10:16] Feet_Barbie: (16.e5) the more i look at it the better e5 looks tbf
+[15:10:31] compact-hausdorff: (16. e5) Go spider!
+[15:11:32] fork2020: Go LloydRet!
+[15:27:16] giziti: Qf4?
+[15:27:46] LloydRet: (18...Ne5) at least I'm giving may opponent problems to solve - if he get his King safe its curtains
+[15:28:01] Feet_Barbie: (18...Ne5) spider about to play bb5 and go down in history
+[15:43:00] giziti: would white trading queens first have been more accurate?
+[15:44:31] giziti: qe4 kills black, no?
+[15:45:32] giziti: or qa4
+[15:45:47] OneKindKing: Qa4+
+[15:51:22] OneKindKing: I predict that black will lose his queen
+[15:54:41] giziti: qc6 should be GG right?
+[15:56:58] compact-hausdorff: GG
+[15:57:13] tomb85: Gg
+[15:59:15] guitarspider: thanks for commenting
+[16:02:02] LloydRet: good comments, thank you all
+[16:02:17] guitarspider: good resistance from a rotten position @LloydRet
+[16:02:32] guitarspider: After Ne5 my position was more awkward that I would have liked.
+[16:03:03] LloydRet: yes, I needed to chase your King compensation, but it didn't happen
+[16:04:34] guitarspider: oh nice, we got watch partied :D
