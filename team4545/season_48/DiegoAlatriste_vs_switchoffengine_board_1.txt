@@ -1,0 +1,28 @@
+Lichess game chat log
+Game      : https://lichess.org/cJE04QPV
+White     : diegoalatriste
+Black     : switchoffengine
+Time      : 45+45
+Captured  : 2026-05-09 18:23:22 UTC
+Game ended : 2026-05-09 17:03:17 UTC
+Messages  : 18
+────────────────────────────────────────────────────────────
+
+[15:12:41] switchoffengine: i prepped the rossolimo line as opponent usually plays it. but guess he wanted to surprise me. this is what i usually play though
+[15:12:41] switchoffengine: lets see what he has in store
+[15:17:30] switchoffengine: f4 Be7 Nf3 b5 e5 b4 is mainline if i recall correctly
+[15:23:51] switchoffengine: theres this interesting endgame Bxf6 Bxf6 Nxc6 Bxc6 Qxd6 Qxd6 Rxd6 where black should be fine after Bxc3, but its drawish though
+[15:23:51] bufferunderrun: let's go switch!
+[15:27:09] switchoffengine: im just assuming d6 is too dangerous to take
+[15:28:25] switchoffengine: Bxf6 Bxf6 Qxd6 Qb6 Qd2 Rad8 looks convincing enough for me
+[15:28:40] Practitioner1: if white does Bxf6 Bxf6 Qxd6 Rxd6. That should be a tricky one. Since white has a majority on the queenside
+[15:29:41] Practitioner1: Then it's a bishop pair vs bishop and knight, with 2 rooks endgame
+[15:31:43] switchoffengine: g4 Rad8 Bxf6 Bxf6 g5 hmm, i need a central d5 break before getting killed on the kingside
+[15:33:29] switchoffengine: maybe Rfd8 and Rac8 better
+[15:39:19] switchoffengine: i actually missed Bf4, understand his plan now
+[15:53:31] switchoffengine: Re1 fxe5 Rxe5 Rf6 Bd3 Nd6 g4 Nc4 Bxc4 dxc4 seems terrible for me
+[16:07:28] switchoffengine: i wanna trade this bishop away, one way or another
+[16:09:00] switchoffengine: thats surprising
+[16:11:01] switchoffengine: mm understand, he has Qxd5 at the end
+[16:14:04] switchoffengine: Rxe7 Rfa6 doesnt work too, a3 b4 Rxb7 bxa3 just b3
+[16:53:23] switchoffengine: Qxb5 Qh5 is my idea
