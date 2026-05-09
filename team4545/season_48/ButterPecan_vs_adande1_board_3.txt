@@ -1,0 +1,27 @@
+Lichess game chat log
+Game      : https://lichess.org/VB2eELCn
+White     : butterpecan
+Black     : adande1
+Time      : 45+45
+Captured  : 2026-05-09 04:36:01 UTC
+Game ended : 2026-05-09 03:15:55 UTC
+Messages  : 17
+────────────────────────────────────────────────────────────
+
+[01:52:42] Inter-temporal: (15) (15...Qa8) Go Pecan-adande!
+[02:51:03] Inter-temporal: (35...f6) can't see any weaknesses for black to attack; therez just the passed e5-pawn
+[02:51:34] Inter-temporal: (36) (35...f6) maybe ...g6 next
+[02:55:53] Inter-temporal: (38) (38.Ke3) wonder if it would have been easier to defend by keeping the base of white's pawn chains on the 2d rank.
+[02:56:23] Inter-temporal: (38) (38...Kd5) all of a sudden h3 is weak
+[03:02:13] Inter-temporal: (40) (40.Kg2) white's K can get tied down to h3
+[03:04:00] Inter-temporal: (41) (41.Rc2) maybe there's a counter with Rc4+ and Ra4
+[03:05:01] Inter-temporal: (41) (41.Rc2) i don't think the black could afford to lose the c5-pawn, but idk
+[03:06:32] Inter-temporal: (41) (41.Rc2) the e-pawn could roll pretty quickly
+[03:09:19] Inter-temporal: (41) (41) (41.Rc2) if 41...e4 42.Rc4+ Kd5 43.Ra4 maybe ...e3 44.Kf3 when ...e2+ could be good
+[03:09:35] Inter-temporal: (41) (41...e4) black would trade the e-pawn for the h3 pawn, but gets a lot of activity too
+[03:10:20] Inter-temporal: (42) (42...Ke3) ooh. good bye c-pawn?
+[03:12:37] Inter-temporal: (43) (43...Rd1+) oof. gave up a tempo
+[03:14:09] Inter-temporal: (46) (46...Kf3) white kinda needed that c-pawn already. i think the Rook needed that move to relocate
+[03:15:40] Inter-temporal: (46) gg
+[03:16:41] Inter-temporal: tough position to defend
+[03:17:11] Inter-temporal: nice SF tactic at move 30
