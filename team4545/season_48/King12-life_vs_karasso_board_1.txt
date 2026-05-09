@@ -1,0 +1,118 @@
+Lichess game chat log
+Game      : https://lichess.org/GNUtbG7z
+White     : king12-life
+Black     : karasso
+Time      : 45+45
+Captured  : 2026-05-09 12:33:07 UTC
+Game ended : 2026-05-09 11:13:01 UTC
+Messages  : 108
+────────────────────────────────────────────────────────────
+
+[08:42:47] King12-life: (10. Ndb5) Being in prep feels good
+[08:45:49] guitarspider: (10.Ndb5) idk, this looks a little bit scary for Black?
+[08:48:07] Duty5521: What can black do here?
+[08:48:07] guitarspider: (10.Ndb5) at least to me it's unclear what the plan is supposed to be and that's always difficult
+[08:48:22] Duty5521: Ng4 Ne5 I guess?
+[08:49:23] Duty5521: Or like b6 or something
+[08:49:53] guitarspider: (10.Ndb5) Ng4-e5's an idea, but then f4 becomes more scary later
+[08:50:24] Duty5521: True
+[08:50:39] Duty5521: a4 for Nxe4 is an idea
+[08:50:54] guitarspider: (10.Ndb5) that could work, yeah
+[08:54:42] guitarspider: (10...Ng4) ok, Ng4 it is
+[08:54:42] guitarspider: (10...Ng4) Bg5 I assume
+[08:56:29] Duty5521: Was Bd4 a move?
+[08:57:45] Duty5521: Ig not after Nx
+[08:58:15] guitarspider: (11.Bg5) giving up the bishop seems wrong, yeah
+[08:59:32] guitarspider: (11.Bg5) although now I don't really know where to put the bishop after h6
+[09:00:17] guitarspider: (11.Bg5) f4 probably, maybe d2?
+[09:00:32] Duty5521: d2 I think
+[09:01:03] Duty5521: f4 I'd be afraid of g5
+[09:01:49] guitarspider: (11.Bg5) but then you can still go back to d2 and Black has opened up their own king a bit
+[09:02:19] Duty5521: Yeah but you can't play f4 anymore
+[09:02:19] guitarspider: (11.Bg5) that's true
+[09:03:50] guitarspider: (11...h6) I wonder if this is still prep for White, the moves seem natural enough that it might be
+[09:07:39] guitarspider: (11...h6) the first long-ish think says no prep
+[09:19:20] King12-life: (12... Nge5) Was rather expecting g5 h5, I guess my opp wants to go for the c4 square instead
+[09:22:38] King12-life: (13. a4) I think 13... Be6 14. Nd5 looks good
+[09:24:24] Duty5521: Hard to say if it's good to take
+[09:28:28] King12-life: (14... Rc8) 14... Nb4 looked more interesting, now I'm thinking about 15. c3 to stop the c6 knight from going anywhere
+[09:29:29] guitarspider: (14...Rc8) c3 looks strong to me
+[09:36:35] King12-life: (15. c3) Was debating for a while between c3 and Be3. I think after c3, my opp will be forced to play with f5 and I prefer that ...
+[09:37:06] King12-life: Well the second half of the message got sent to my opponent instead somehow
+[09:37:36] King12-life: I was saying that I didn't want to allow Nb4, I think it's easier to play this way
+[09:44:12] King12-life: (16... Nd7) Am I going crazy for considering 17. Nxe7+ ?
+[09:44:43] King12-life: Probably, though it's probably only -1 afterwards
+[09:45:59] Duty5521: I can see it but Nx and you just wasted everything in your position
+[09:47:00] King12-life: Eh I get 3 pawns for the piece, idk
+[09:48:01] King12-life: It's probably playable but not my playstyle
+[09:50:48] King12-life: (16. Be3) The idea here is Nc5 Bc2/Ba2 Ne5 Bd4
+[09:51:03] King12-life: Okay not Ba2 because I don't want to lose a pawn
+[09:52:19] Duty5521: Is now the time for f4?
+[09:52:19] Duty5521: I feel like it is
+[09:56:54] guitarspider: (17.Bd4) looks like it's coming
+[10:02:44] King12-life: (18... g5) f5 is coming I guess
+[10:03:45] guitarspider: (18...g5) f4 is still possible here
+[10:07:02] King12-life: (19. b4) I don't really like 19. f4 gxf4 20. Rxf4 f5, I think b4 is better
+[10:11:06] King12-life: (20... Ncd7) Damn I keep forgetting that my b5 knight protects my d4 bishop
+[10:16:56] King12-life: (22... Kxg7) Now his king is weak... f4 looks interesting
+[10:19:13] Duty5521: f4 looks very interesting
+[10:19:44] King12-life: (23. a5) Stopping any Bxd5 Qb6+ ideas after f4
+[10:20:45] Duty5521: Okay, and now f4
+[10:20:45] Duty5521: ?
+[10:25:49] King12-life: (25. Rac1) I just can't figure out how to breakthrough on the kingside...
+[10:29:38] guitarspider: (26.Qd2) this is still very complex and both are low on time, anything can happen
+[10:29:53] guitarspider: (26.Qd2) but White must still be quite a bit better
+[10:31:55] King12-life: (27. exd5) I want to keep pieces to attack maybe
+[10:32:55] guitarspider: (28.f4) finally f4 :D
+[10:35:12] King12-life: (29. Rxc1) I think Ng6 will defend the king well, I want Rc7 now
+[10:40:47] King12-life: (33. Rxd7) Nxd6 is a huge threat now
+[10:41:49] Duty5521: Good position
+[10:43:35] Duty5521: Doesn't Nxd6 work????
+[10:46:53] Duty5521: There we go
+[10:47:39] Duty5521: Passed pawns must be pushed!
+[10:51:42] NaveenGeorge: bxg6 will end it
+[10:51:58] NaveenGeorge: Can transition into a king and pawn endgame
+[10:52:13] Duty5521: This is just fully winning
+[10:52:43] King12-life: 38. Qe4 looks like a nice finishing touch
+[10:53:14] Duty5521: Yep I mean everything lol
+[10:53:59] Duty5521: Careful on d5
+[10:57:17] Duty5521: It's done
+[10:58:33] NaveenGeorge: y though?
+[10:58:48] King12-life: Dude I really can't see anything else at move 41
+[10:59:04] NaveenGeorge: Qe2 surely at move 41
+[10:59:49] Grzybozbur: 42...qa1 the rook drops
+[11:01:05] NaveenGeorge: oh dear
+[11:02:06] King12-life: (44. Bb1) Actually insane wtf
+[11:03:07] Duty5521: Woah wth
+[11:03:07] King12-life: (46. h4) Last hope...
+[11:03:23] NaveenGeorge: back rank is weak though
+[11:03:38] Duty5521: Yeah I mean it's not over
+[11:04:23] Grzybozbur: it's a rook up
+[11:04:23] Grzybozbur: what can white do?
+[11:04:54] Duty5521: The pin is very inconvenient and king is weak ig
+[11:05:09] Grzybozbur: white has no threats
+[11:05:24] Duty5521: h5 Qf6 or something
+[11:05:24] Grzybozbur: rg7 covers everything
+[11:05:24] NaveenGeorge: noobs like me will mess this up though
+[11:06:40] NaveenGeorge: qf4
+[11:07:11] NaveenGeorge: oh wait knight drops lol
+[11:07:11] guitarspider: (47.Qh5) Rxf7 instead of a7 was my thought
+[11:07:11] Duty5521: yeah
+[11:07:26] guitarspider: (47.Qh5) now it's somehow turned terrible, what a turnaround
+[11:07:26] Grzybozbur: qg3 with mate threats
+[11:07:41] Duty5521: Wait what
+[11:07:56] Duty5521: Oh queen can't come back
+[11:08:42] NaveenGeorge: that looks like gg
+[11:08:57] Duty5521: Qxg6 Rxh3 Kg1 Qe1#
+[11:09:58] King12-life: sigh ggs
+[11:12:15] NaveenGeorge: qh6 wins the queen
+[11:12:30] Duty5521: Qh6+ queen drops
+[11:12:30] Duty5521: Yeah
+[11:13:01] NaveenGeorge: gg
+[11:14:02] guitarspider: gg
+[11:14:02] karasso: that was undeserved. Rh8+ and then a8Q instead of a8Q was game over
+[11:14:17] King12-life: I'm so blind smh it happens
+[11:14:32] King12-life: great defense on your own
+[11:15:02] karasso: thank you. You played clearly the better game
+[11:15:18] King12-life: Thanks!
+[11:25:41] Lucon2000: Well that's an unique graph right there
