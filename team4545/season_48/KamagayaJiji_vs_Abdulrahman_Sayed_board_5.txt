@@ -1,0 +1,97 @@
+Lichess game chat log
+Game      : https://lichess.org/bZ1FLn71
+White     : kamagayajiji
+Black     : abdulrahman_sayed
+Time      : 45+45
+Captured  : 2026-05-09 12:43:35 UTC
+Game ended : 2026-05-09 11:23:29 UTC
+Messages  : 87
+────────────────────────────────────────────────────────────
+
+[10:02:02] simonWasHere: You can do it!
+[10:17:16] simonWasHere: Bxf7 might be a problem
+[10:20:19] DavidSifre: Find a solution to Simon’s problem, Abdo!
+[10:21:20] DavidSifre: Qe1 to protect the pawn?
+[10:21:50] DavidSifre: Or attack the Queen.
+[10:22:36] DavidSifre: If he attacks the queen we attack the king!  Or push a pawn.
+[10:23:06] simonWasHere: We are hoping black wins remember
+[10:24:07] DavidSifre: It’s is locked already. We will be queen side castling and taking the open files on the king side.
+[10:24:53] DavidSifre: All the keys are on the board.
+[10:26:09] DavidSifre: Or cover the queen with the bishop works too.
+[10:26:24] simonWasHere: White probably had Bxe7 there
+[10:30:12] DavidSifre: Why trade the bishops?
+[10:30:43] DavidSifre: Better than moving it around aimlessly?
+[10:30:58] simonWasHere: Can take the pawn after
+[10:31:13] simonWasHere: He would recapture with the knight
+[10:31:29] simonWasHere: Or the queen I guess
+[10:31:44] simonWasHere: can take the d4 pawn anyway
+[10:33:00] DavidSifre: I would recapture with the queen to keep developing.
+[10:35:17] DavidSifre: A pawn here and a pawn there and soon white is without hope or even dreams of hope.
+[10:36:03] DavidSifre: I encouraged okady to quit while he was ahead. It was the merciful thing to do.
+[10:36:33] simonWasHere: Bxe5 fxe5 Qh5+
+[10:37:34] DavidSifre: Queen checks are cowardly and useless when unsupported.
+[10:37:49] simonWasHere: problem is it will take us ages to castle
+[10:38:04] DavidSifre: And he recovers the pawn.
+[10:38:20] DavidSifre: But we don’t worry about problems. We just find solutions.
+[10:38:20] simonWasHere: hope so :)
+[10:38:50] DavidSifre: With our extra pawn we just trade down, promote and win.
+[10:39:21] DavidSifre: Remember, when you are behind I. Development and your king is trapped in the center of the board, you want to promote a pawn and win.
+[10:39:36] simonWasHere: I like it
+[10:39:51] DavidSifre: I mean sure he is going to get the next pawn soon.
+[10:40:06] DavidSifre: And we won’t be ahead a pawn. But that’s a minor setback.
+[10:41:22] simonWasHere: just need to develop pieces and castle and then attack the white king
+[10:41:53] DavidSifre: Chess 101
+[10:42:08] DavidSifre: You can do that in any order.
+[10:43:39] DavidSifre: Release the bishop!
+[10:45:56] Warvold: (14...d6) Go Abdo!
+[10:46:42] DavidSifre: Greetings Warvold. Please don’t distract the players.
+[10:47:12] DavidSifre: King has its own different castle here.
+[10:51:16] DavidSifre: I’d line up rooks and queen on the king.
+[10:54:03] simonWasHere: Yeah it looks pretty bad tbh
+[10:55:35] Warvold: Qb6 maybe
+[10:55:35] simonWasHere: Qb6 Qxd6 Qxf2 could be amusing
+[10:55:35] Warvold: Right
+[10:56:51] Warvold: I'm going to get my hair cut, hopefully it'll better when I'm back!
+[10:57:21] Warvold: Kd7 may be an option?
+[10:57:52] Warvold: Aha!
+[11:00:09] simonWasHere: interesting
+[11:03:11] DavidSifre: A true lint castle is happening.
+[11:03:11] DavidSifre: Long
+[11:03:27] simonWasHere: he has to take with king though
+[11:05:13] DavidSifre: stockfish says take with the queen, give up the bishop and hope for the best
+[11:07:30] DavidSifre: (18...Rxc8) and the castle is almost done.
+[11:08:46] simonWasHere: I was thinking he would play Qxa7 maybe
+[11:09:17] DavidSifre: yeah, but a bishop or an exchange is more tasty
+[11:10:02] DavidSifre: double up the rooks
+[11:10:17] DavidSifre: white has lots of attacking power
+[11:10:33] DavidSifre: and there it is.
+[11:11:34] DavidSifre: (20.Re2) Also, Qxh7
+[11:13:05] DavidSifre: (20...Qe8) Rf7 next, and disaster averted?
+[11:13:35] DavidSifre: (20...Qe8) White should grab the pawn now.
+[11:14:52] DavidSifre: (20...Qe8) In other news, my comment about stockfish was not serious.
+[11:15:07] simonWasHere: white should resign, position is hopeless
+[11:15:22] DavidSifre: (20...Qe8) Basically, but we are not supposed to rub it in.
+[11:15:37] DavidSifre: (21.Qxh7) Hey, he did it!
+[11:16:08] DavidSifre: (21.Qxh7) When people follow my advice, bad things happen.
+[11:16:38] simonWasHere: probably stronger to bring the other rook in
+[11:16:54] DavidSifre: (21.Qxh7) maybe but he can do that now.,
+[11:17:09] DavidSifre: (21.Qxh7) Rf7 was a problem, but no longer.
+[11:17:09] simonWasHere: true
+[11:17:24] DavidSifre: (21.Qxh7) Now its time for black to trade queens.
+[11:17:39] DavidSifre: (21.Qxh7) Qe7 threatening the pawn and the queen,
+[11:18:40] DavidSifre: (21.Qxh7) Get em!
+[11:18:55] simonWasHere: nearly draw be repetition, but sadly not
+[11:19:10] DavidSifre: not needed anymore
+[11:19:26] DavidSifre: black is solid
+[11:20:11] DavidSifre: white's morale is crushed, its attacking power is gone
+[11:21:43] DavidSifre: (23...a6) Qa7 is good.
+[11:23:14] DavidSifre: tough game
+[11:23:14] simonWasHere: tricky position
+[11:23:44] DavidSifre: a lot of people would say that white was not playing fair
+[11:24:00] simonWasHere: moving the pieces should be banned
+[11:24:45] Abdulrahman_Sayed: GG, opponent
+[11:24:45] DavidSifre: well, sometimes black should get to move twice.
+[11:25:16] DavidSifre: Abdo, go figure out what went wrong and then never ever ever let it happen again.
+[11:25:31] Abdulrahman_Sayed: Yessir
+[11:27:32] DavidSifre: Wow, that first "mistake" was a killer. Taking with pawn good. Taking with knight, bad.
+[11:28:18] Abdulrahman_Sayed: Yeah, I rushed that decision :(
