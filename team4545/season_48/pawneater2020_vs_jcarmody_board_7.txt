@@ -1,0 +1,169 @@
+Lichess game chat log
+Game      : https://lichess.org/pWS8FrGf
+White     : pawneater2020
+Black     : jcarmody
+Time      : 45+45
+Captured  : 2026-05-09 22:49:33 UTC
+Game ended : 2026-05-09 21:29:28 UTC
+Messages  : 159
+────────────────────────────────────────────────────────────
+
+[20:00:55] MrScribbles: (1.e4) hmm jcarmody offline
+[20:00:55] MrScribbles: (1.e4) must be out of theory
+[20:09:48] Zubenelgenubi: jc!
+[20:11:19] R0B-W: (7.Bd3) Go, pawneater2020!
+[20:14:22] guitarspider: (8...Nc6) go skink
+[20:14:22] jcarmody: (8..Nc6) h3?
+[20:20:57] jcarmody: having traded in the center, this just feels weird
+[20:21:28] fork2020: Go pawneater2020!
+[20:22:28] jcarmody: But, I did expect it to be available.
+[20:32:37] ysgwydd: (17.Bxe6) Black has Bh2+ here
+[20:34:54] guitarspider: (17.Bxe6) that would be a nice tactic to play
+[20:35:25] DavidSifre: (17.Bxe6) why trade a bishop for a pawn?
+[20:35:55] guitarspider: (17.Bxe6) but even Bxe6 Qxe5 Qxe5 Rxe5 Rd1+ and Bxc4 should be totally fine for Black
+[20:36:10] guitarspider: (17.Bxe6) easier to play probably
+[20:36:10] guitarspider: (17...Bh2+) noice
+[20:36:56] ysgwydd: (18.Kh1) Bg5 Re8 Rd1 Qc7 Bf6 Bd6 Qe3 and there is still something to solve for black
+[20:36:56] jcarmody: 18..BxB still lets him trap my dsb, but I can take it and have another pawn AND expose the K
+[20:39:28] guitarspider: (19.b3) Bf4 probably
+[20:42:46] DavidSifre: (19.b3) White's king is sitting in the corner, slowly losing his religion
+[20:43:16] ysgwydd: (19...Qc7) Black's king is the one which is unsafe
+[20:43:16] DavidSifre: (19...Qc7) It can move.
+[20:43:32] guitarspider: (19...Qc7) so I guess the plan is Bd6-f8?
+[20:44:17] guitarspider: (20.c5) if pawneater and fork combined both would have reasonable time management :P
+[20:44:32] ysgwydd: (20.c5) Yeah tough to stop Bf8
+[20:44:32] DavidSifre: (19...Qc7) in fact, Be5 gets it back safe to Bg7
+[20:45:48] guitarspider: (20...Rd5) now Be5 unless Bb2
+[20:45:48] guitarspider: (20...Rd5) soo Bb2 Bf4 seems likely
+[20:48:51] guitarspider: (21...Bf4) the White doesn't seem to have any ways to set up a the queen and bishop battery
+[20:50:53] guitarspider: (22.Ba3) Ba3 can't be it. Be5, Rad8, lots of good options now
+[20:51:23] guitarspider: (22.Ba3) Re5 maybe
+[20:54:11] guitarspider: (23.Rad1) trading off all the rooks seems very helpful for Black
+[20:54:41] Feet_Barbie: (23...Qa5) what happened to whites lsb
+[20:54:57] guitarspider: (23...Qa5) it missed the tactics bus
+[20:55:27] Feet_Barbie: (23...Qa5) oh damn
+[20:55:42] DavidSifre: (23...Qa5) Move 18 took the LSB
+[20:55:42] DavidSifre: (24.Bc1) it was sacrificed in a weird way. Weird to me
+[20:56:13] guitarspider: (24.Bc1) well, the idea was to win a pawn because White would pick up Black's bishop
+[20:56:28] guitarspider: (24.Bc1) but the black bishop could move with check, so unfortunately...
+[20:56:28] ysgwydd: (24.Bc1) No it went on the tactics bus when it should have just stepped away
+[20:56:43] ysgwydd: (24.Bc1) 17.Bf3 is nice for white
+[20:56:58] Feet_Barbie: (24.Bc1) well they just didnt see the check yeah but maybe if it moved without check also it saves itself?
+[20:57:14] guitarspider: (24.Bc1) ride the bike for health reasons instead of taking the bus you think? Sound advice.
+[20:57:14] Feet_Barbie: (24.Bc1) oh no i m silly
+[20:57:14] Feet_Barbie: (24.Bc1) ahaha
+[20:57:14] Feet_Barbie: (24.Bc1) didnt check the position
+[20:57:29] Feet_Barbie: (24.Bc1) anyways
+[20:57:29] Feet_Barbie: (24.Bc1) i always said jcarmody is the best
+[20:57:59] Feet_Barbie: (24.Bc1) the only mod with "mod" in their name
+[20:58:30] guitarspider: (24.Bc1) ok, Bxc1 or Rxd1 both good, let's get rid of some pieces
+[20:58:45] Feet_Barbie: (24.Bc1) yeah though maybe b+q vs q is not the simplest way to win
+[20:59:15] guitarspider: (24.Bc1) Bxc1 Rxc1 Rxc5
+[21:00:16] guitarspider: (24.Bc1) or Rxd1 Rxd1 Bxc1 Rxc1 Qd2
+[21:00:32] guitarspider: (24.Bc1) I think those are both really good
+[21:01:02] DavidSifre: (24...Bd2) that's too weird
+[21:01:02] guitarspider: (24...Bd2) hnng
+[21:01:02] guitarspider: (24...Bd2) why so fancy :D
+[21:01:17] ysgwydd: (24...Bd2) The most fancy way to trade pieces
+[21:01:32] Zubenelgenubi: it does work
+[21:01:32] DavidSifre: (24...Bd2) Usually when you complicate things like that you open yourself to miscalculation
+[21:01:32] ysgwydd: (25.Bxd2) Yes but why
+[21:01:48] Feet_Barbie: (25.Bxd2) wait what ahha
+[21:01:48] guitarspider: (25.Bxd2) being fancy is how you miss stuff
+[21:02:03] Feet_Barbie: (25...Rxd2) jcarmody is crazyy
+[21:02:33] ysgwydd: (26.Rxd2) Qe5 Qb8 perpetual calling it
+[21:03:04] DavidSifre: (26.Rxd2) take the rook with the queen and go into the end game  with a rook on the seventh.../second
+[21:03:34] DavidSifre: (26...Rxd2) or take it with the rook and chase that queen away
+[21:03:34] guitarspider: (26...Rxd2) I don't like this
+[21:03:49] Feet_Barbie: (27.Qe3) jcarmody gonna play rd3 or something ahaha
+[21:03:49] DavidSifre: (27.Qe3) yeah, I think he should have gotten rid of the queen
+[21:04:05] guitarspider: (27.Qe3) Rd5 is a normal move
+[21:04:20] guitarspider: (27.Qe3) no harm done yet, except a rapidly ageing spider over here
+[21:04:20] DavidSifre: (27.Qe3) But, Qxa2 is good too, no
+[21:04:20] ysgwydd: (27.Qe3) Rxa2
+[21:04:35] Feet_Barbie: (27.Qe3) he s gonna play rd3 cos he s cool
+[21:04:50] DavidSifre: (27.Qe3) Queen move lets rook take the f pawn too
+[21:05:21] DavidSifre: (27...Qxa2) yeah baby
+[21:05:21] guitarspider: (27...Qxa2) Rxa2 is terrible on the grounds that this is not how you keep control
+[21:05:51] guitarspider: (27...Qxa2) and the black king is just open enough that you want control
+[21:06:06] guitarspider: (27...Qxa2) now the queen is offside
+[21:06:06] guitarspider: (27...Qxa2) f pawn is irrelevant
+[21:06:22] ysgwydd: (27...Qxa2) Agree, I was just guessing
+[21:06:37] DavidSifre: (28.Kg1) not so irrelevant that the king doesn't go defend it.
+[21:07:07] DavidSifre: (28.Kg1) Rb2 and take the b pawn
+[21:07:07] guitarspider: (28.Kg1) Rd5 still the best move I think
+[21:07:07] DavidSifre: (28.Kg1) all pawns are relevant
+[21:09:40] guitarspider: (29...Qd2) nice, get coordination sorted
+[21:10:10] DavidSifre: (29...Qd2) I don't like connected pawns running up the board
+[21:10:26] Feet_Barbie: (30.Qxd2) they re not going anywhere
+[21:10:26] DavidSifre: (30...Rxd2) maybe not in your games
+[21:10:41] guitarspider: (31.Rb1) Rd5, pawns are stuck in the mud
+[21:11:11] guitarspider: (31.Rb1) a6 also good enough
+[21:11:27] Feet_Barbie: (31.Rb1) or ba2 xd
+[21:11:27] guitarspider: (31.rb1) xd
+[21:11:57] Zubenelgenubi: :-)
+[21:12:12] Feet_Barbie: (31...Ba2) i am predicting jcarmodys moves
+[21:12:27] Feet_Barbie: (31...Ba2) hes really fancy tonight
+[21:12:58] Feet_Barbie: (32.Re1) kf8
+[21:13:13] Feet_Barbie: (33.Re4) this was easy xd
+[21:13:13] DavidSifre: (31.Rb1) Yay, I got another one
+[21:13:13] Feet_Barbie: (33.Re4) rd1 intermezzo
+[21:13:43] Zubenelgenubi: then Bd5
+[21:13:59] Feet_Barbie: (33.Re4) ahha i dont think he ll acc go rd1 too fancy
+[21:14:14] guitarspider: (33.Re4) at least with queens off none of this fancy pants Ba2 stuff is dangerous :D
+[21:15:30] guitarspider: (33...Rc2) Be6 so you can bring the king in, why not
+[21:15:30] Zubenelgenubi: going for Rc4
+[21:16:00] guitarspider: (34.Rd4) Ke7
+[21:16:31] DavidSifre: (34.Rd4) King should be getting to the center of the board
+[21:16:31] Zubenelgenubi: not going for Rc4
+[21:17:01] DavidSifre: (35...axb6) ooooh a spite check!
+[21:17:32] DavidSifre: (36.Rd8+) he wants the king in the center too, apparently
+[21:18:02] Zubenelgenubi: Rc6 we're still cool, right?
+[21:18:17] guitarspider: (37.Rb8) of course
+[21:18:17] DavidSifre: (37.Rb8) ok, not a spite check
+[21:18:33] guitarspider: (37...Rc6) Rb7 Ke6
+[21:18:33] guitarspider: (37...Rc6) all good
+[21:18:48] DavidSifre: (38.Rb7+) that king is going to do some damage now
+[21:19:18] guitarspider: (39.b5) Bc4 after rook move
+[21:19:18] Feet_Barbie: (39.b5) pawn on light
+[21:19:18] DavidSifre: (38.Rb7+) like, go grab the b pawn with it
+[21:19:34] Silkthewanderer: Go jc
+[21:19:49] DavidSifre: (39.b5) Bc4
+[21:20:04] DavidSifre: (40...Bc4) ding!
+[21:20:04] DavidSifre: (40...Bc4) Bxb5
+[21:20:35] DavidSifre: (41.Ra4) ding!
+[21:21:20] Zubenelgenubi: Bd7-e6
+[21:21:20] guitarspider: (42.Rb4) Bd3
+[21:21:35] guitarspider: (42.Rb4) so you can play b5 next
+[21:22:51] DavidSifre: (44.Rf4+)putting king back on side
+[21:23:22] DavidSifre: (46...Re6) get pawns down so you can mate the king
+[21:23:37] guitarspider: (47.Rb4) ok, Kd6 and time to resign
+[21:24:08] DavidSifre: (48...Kd5) we don't resign on board 8
+[21:24:23] DavidSifre: (49.Rf4) too many times one resigns when they could have won
+[21:24:53] DavidSifre: (49...f6) he is doing so well protecting his pawns
+[21:25:24] DavidSifre: (50.g4) oops
+[21:25:24] DavidSifre: (50...Re4) that was a bad error
+[21:25:39] ysgwydd: (51...Re6) You jinxed him
+[21:25:54] Zubenelgenubi: still a piece up
+[21:25:54] DavidSifre: (51...Re6) indeed
+[21:25:54] guitarspider: (52.Rf4) Ba6 is currently a pawn
+[21:26:10] DavidSifre: (51...Re6) a TALL pawn
+[21:26:25] Zubenelgenubi: b4
+[21:26:25] ysgwydd: (53.Rxg4) I wish all pawns to be traded
+[21:26:25] DavidSifre: (52.Rf4)
+[21:26:40] Zubenelgenubi: not a pawn
+[21:26:40] DavidSifre: (54.Kg2) (54.Kghe should have take n the pawn with the rook
+[21:26:55] guitarspider: (54.Kg2) Bc4 is a nice block
+[21:26:55] DavidSifre: (54.Kg2) oh he was in check
+[21:27:11] DavidSifre: (54.Kg2) my OTB games are more fun
+[21:28:11] DavidSifre: (54...Kc5) march of the pawn
+[21:28:42] DavidSifre: (58...Kd3) Black opposes the king
+[21:28:57] DavidSifre: (59.Kg4) and is about to be a rook up
+[21:29:12] Zubenelgenubi: gg
+[21:29:12] guitarspider: gg
+[21:29:28] Mennonite: gg
+[21:29:28] DavidSifre: gg fellas
+[21:29:28] fork2020: Wait, why does pawneater2020 have over an hour on the clock?
+[21:29:28] ysgwydd: gg
+[21:29:28] fork2020: gg
+[21:29:43] DavidSifre: because he moved fast at the end there
