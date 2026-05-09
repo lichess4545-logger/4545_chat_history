@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/wivvUYZO
+White     : miranova1
+Black     : inter-temporal
+Time      : 30+30
+Captured  : 2026-05-09 21:01:25 UTC
+Game ended : 2026-05-09 19:41:20 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[19:02:16] Inter-temporal: (1) (1.Nf3) what? already no 1.d4?
+[19:02:32] mongreltiger: Go @Inter-temporal
+[19:02:47] Inter-temporal: (4) (4.Nc3) ah just a transpo
+[19:03:02] Inter-temporal: (7) (7.Be3) gligoric? or
+[19:03:02] Inter-temporal: (7) (7.Be3) yeh
+[19:03:17] Inter-temporal: (7) (7...Qe8) tryni smth a little different
+[19:03:33] Inter-temporal: (7) (7...Qe8) main move is still d5, or de
+[19:03:48] Inter-temporal: (7) (7...Qe8) then ...Ng4
+[19:04:18] Inter-temporal: (7) (7...Qe8) hah. finally a game where i don't get surprised first. lol
+[19:04:18] Inter-temporal: (7) (7...Qe8) not that it will make a huge difference here.
+[19:04:33] Inter-temporal: (7...Qe8) since my opponent is 7000 points higher rated than me
+[19:05:34] Inter-temporal: (8) (8...Ng4) (8) Bg5 likely
+[19:05:49] Inter-temporal: (8) (8...Ng4) if exd6 i think it works out for black in the short run
+[19:06:20] Inter-temporal: (8) (8...Ng4) this line has my lsb coming to e6 and
+[19:06:35] Inter-temporal: (8) (8...Ng4) routing Ns towards the dark squares e5 and c5
+[19:07:36] Inter-temporal: (8) (8...Ng4) i collected a few model games, which had some similar maneuvers from here
+[19:07:51] sahkal: Who will win?
+[19:09:23] Inter-temporal: (8) (8...Ng4) i'm just noticing Nb5 here.
+[19:31:57] sahkal: White will win
+[19:32:12] sahkal: Nobody understands f5 and gxf5
+[19:33:28] sahkal: Oh he was scared of Nf6
+[19:33:59] Inter-temporal: (15) (15.Ne7+) i guess i shouldnt' have take the Nf3
+[19:34:14] Inter-temporal: (15) (15.Ne7+) i could allow a mate here with Kf7.
+[19:35:15] sahkal: Don't be scared of Nf6
+[19:36:31] sahkal: Haven't solved gxf5 yet
+[19:36:46] sahkal: What was he scared about on Rxf5?
+[19:37:32] sahkal: No clue
+[19:38:02] sahkal: Of course it's already bad after f5 because of f5
+[19:38:48] sahkal: Oh I know, solved it
+[19:39:03] sahkal: Rxf5 Ne7+
+[19:40:04] Inter-temporal: (18) (18.Bd5) i should have stayed in bed
+[19:40:50] sahkal: :D
+[19:41:35] Inter-temporal: 12...Qe5. hm
+[19:42:06] Inter-temporal: i guess with ...Qe8 there are some resources here i didn't notice
+[19:42:51] Inter-temporal: even 12...Qe6 or ...f6 or ...Kh8. i did consider ...Kh8 there
+[19:51:28] Miranova1: I completely overlooked 12. .. Qe5, I thought 12. ... f6 was the only move to maintain the balance.
+[19:54:00] Miranova1: I'm sure you saw it, but I was hoping for 12. ... Bxb7 when 12. Bf6 is a nicein-between move.
+[20:00:05] Inter-temporal: i didn't have enough experience yet to try this line.
+[20:00:36] Inter-temporal: i did seriously consider 11...Bxc3
+[20:01:37] Inter-temporal: before 11...f5 i didn't analyze long enough to realize i couldn't take back with B or R. if i had seen that, i most likely would have played
+[20:01:37] Inter-temporal: ...Kh8
+[20:02:37] Inter-temporal: without this game, it might have taken me a long time to find the ...Qe5 resource. now it's pretty emphatic
+[20:03:08] Inter-temporal: typo [before 12...f5 i didn't consider...]
+[20:04:39] Inter-temporal: i had expected 10.Nd2 or Ne1, so logically i concluded 10...Nxf3 might be right. mostly a lucky guess
+[20:06:26] Inter-temporal: but after that, i had zero clue about how to play the position
