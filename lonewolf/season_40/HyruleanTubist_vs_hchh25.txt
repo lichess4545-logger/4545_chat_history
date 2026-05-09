@@ -1,0 +1,84 @@
+Lichess game chat log
+Game      : https://lichess.org/UXYizPWJ
+White     : hyruleantubist
+Black     : hchh25
+Time      : 30+30
+Captured  : 2026-05-09 21:54:11 UTC
+Game ended : 2026-05-09 20:34:07 UTC
+Messages  : 74
+────────────────────────────────────────────────────────────
+
+[19:02:32] HyruleanTubist: 7. b3 all right this should be the first move that makes him think
+[19:02:47] HyruleanTubist: well he didn't think that long did he
+[19:03:03] HyruleanTubist: all according to prep so far
+[19:03:33] HyruleanTubist: well I know that's not accurate
+[19:03:48] HyruleanTubist: guess I'm thinking
+[19:04:19] uga40: lets go Hyrule
+[19:05:20] mward128: go ht
+[19:07:06] HyruleanTubist: (11) Rxa4 was interesting but I think this is better
+[19:07:52] HyruleanTubist: I'd like to not block my bishop's sight of d4, so Nc3 isn't where I want to deploy the b1 knight
+[19:10:39] HyruleanTubist: (12) several of the master games I looked at played Qd2, it seems especially necessary here
+[19:11:10] HyruleanTubist: just makes b1 even harder to get off its home without consolation, but I think I should stop worrying about taking with the bishop on d4
+[19:12:56] HyruleanTubist: (12) If  I can play a5 with tempo, Na3 to c4 to b6 is a nice route
+[19:13:27] HyruleanTubist: c4 is where it goes in my main line, to support Nfe5 anyway.  Basically, really looking forward to developing my knight lol
+[19:14:58] HyruleanTubist: (12, 27:40) glad he's finally thinking haha
+[19:15:28] HyruleanTubist: I would expect Be7 here?  Qc6 is an annoying "sneaky" mate threat too
+[19:16:29] HyruleanTubist: (13) a5 not needed, would rather just go ahead and get off the back rank
+[19:21:03] HyruleanTubist: (14) Rc8 with the discovery is spooky, but I should calculate further
+[19:24:06] HyruleanTubist: (14... Rc8) This is a turn to spend some time on I think
+[19:25:52] mythandvoid: is d5 a move or is the passed pawn too much?
+[19:26:07] HyruleanTubist: I think every variation besides Nc4 has problems I can't address
+[19:26:53] mythandvoid: maybe opening the g-file also helps black though
+[19:27:39] HyruleanTubist: 15. Nc4 cxd4 Bxd4 Qc6 Bxg7, something like that seems ok?
+[19:27:39] HyruleanTubist: I'm not sure where the queen will go
+[19:28:24] uga40: 15. queen has to moveso cxd4 aint happening
+[19:31:12] n8otom8o: But after ..cxd4 if Nxb6 then Rxc2 forking the bishops.  I wonder if that would have been good for black.
+[19:31:58] HyruleanTubist: (15... Qa7) ok does dxc5 ?xc5 Bxg7 win a pawn
+[19:31:58] uga40: thats right, maybe, i would want the queens on for now
+[19:32:58] HyruleanTubist: also is that too dangerous for g2
+[19:33:29] HyruleanTubist: Also the more thematic Nfe5 seems pretty good, but needs calculating
+[19:35:31] HyruleanTubist: its risky, maybe, but I'm going to go for the material
+[19:36:16] uga40: 16. black still has to spend a tempi to castle
+[19:39:19] HyruleanTubist: (16... O-O) so many options now, might need to just pick something
+[19:41:06] HyruleanTubist: I still don't love my queen lined up with the rook, but walking that line is starting to feel very dangerous
+[19:43:53] uga40: 18. will black grab the pawn back?
+[19:44:08] HyruleanTubist: (18 h3) Ng4 threatens f2, coudln't ignore it
+[19:44:54] uga40: thats an affirmative ghost rider
+[19:46:10] HyruleanTubist: (18... Bxc5) feels like I'm playing to his tempo right now.
+[19:46:25] HyruleanTubist: Bxe3 or Nxf2 is threatening, might just need to shut that down
+[19:49:43] HyruleanTubist: (20. Qb2) this feels a little more under control, but not perfect
+[19:55:48] HyruleanTubist: (21 Nfe5) looking at a5 and Rac1 for me.
+[19:56:49] HyruleanTubist: (21... Rb8) this feels al ittle one-mover-y to me?  Or is he planning Rb4
+[19:58:36] HyruleanTubist: (22 Qc2) If he does nothing or Rb4, I have Rxd5 Nxd5 Nc6 forking
+[19:58:51] HyruleanTubist: But that may have problems I'm not seeing yet
+[20:00:07] uga40: hyrule has to watch the time
+[20:02:39] HyruleanTubist: (23) this whole rook/queen xray is testing my patience, my queen is so open still
+[20:03:10] HyruleanTubist: I'd still like to play a5 and put the queen on a4 or something else that isn't getting xrayed
+[20:07:59] HyruleanTubist: (24. a5) There's no direct threat, I can stay calm
+[20:08:14] HyruleanTubist: man staying calm is hard with that xray
+[20:11:17] HyruleanTubist: (24 a5) I'm feeling his patience cracking that I've not handed anything over
+[20:13:03] HyruleanTubist: (25 Rxb1) yeah that feels like a "can't hold the tension any longer" move from him
+[20:13:18] HyruleanTubist: I'm so close to landing Nb6 finally
+[20:13:49] HyruleanTubist: more time usage here is telling that there was no plan with Rxb1
+[20:16:21] HyruleanTubist: (26 Rc1) pressure's still pretty high, and I don't have Rb6 at the moment because I lose my rook
+[20:17:22] HyruleanTubist: actually looking at Qb6 to try to get the pawn moving and grab a6 while I'm there
+[20:17:52] HyruleanTubist: but what's he gonna do here is the question
+[20:18:23] HyruleanTubist: ah not lose to back rank, that's probably a good choice lol
+[20:19:09] HyruleanTubist: does Nxf7 win
+[20:19:39] HyruleanTubist: I think so?
+[20:19:54] HyruleanTubist: he can't take it obviously
+[20:20:09] HyruleanTubist: but I don't know what he does if he doesn't take
+[20:20:40] HyruleanTubist: but all instincts says this is the play
+[20:21:41] uga40: wow, Nxf7, nice find
+[20:25:14] HyruleanTubist: Kx Ne5 Qx Qx Rxc1 is a problem?
+[20:25:29] HyruleanTubist: Kh2 Bd6 I can't play g2 I lose to Rh1# lol
+[20:25:59] HyruleanTubist: is a queen and pawn worth two knights and a rook
+[20:25:59] HyruleanTubist: qb vs bbr
+[20:26:15] HyruleanTubist: I don't think I have a choice in the matter really
+[20:27:16] uga40: oh man, the time situation and this position
+[20:29:02] HyruleanTubist: (21 Nb6) blech
+[20:30:03] HyruleanTubist: (32. Bh5+) this is just a cheap trap
+[20:32:05] uga40: watch the fork after the rook check 36
+[20:33:36] uga40: gg
+[20:33:51] mythandvoid: gg
+[20:33:51] mward128: Tough game
