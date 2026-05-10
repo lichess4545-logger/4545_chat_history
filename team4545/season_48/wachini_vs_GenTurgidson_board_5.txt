@@ -1,0 +1,42 @@
+Lichess game chat log
+Game      : https://lichess.org/gPZWuKEk
+White     : wachini
+Black     : genturgidson
+Time      : 45+45
+Captured  : 2026-05-10 20:52:39 UTC
+Game ended : 2026-05-10 19:32:34 UTC
+Messages  : 32
+────────────────────────────────────────────────────────────
+
+[18:19:45] Minot: Go GenTurgidson
+[18:50:41] bufferunderrun: let's go GT!
+[19:06:56] bufferunderrun: the issue with Ba6 is that there is always Nb6
+[19:08:12] GenTurgidson: 18...Ba6 is a nice pin but he forks with Nb6 and I think I end up worse.
+[19:08:28] GenTurgidson: Struggling to find anything sneaky in between.
+[19:08:58] GenTurgidson: I feel like I'm losing even, because Nb6 is so hard to stop now.
+[19:10:29] bufferunderrun: 18...Qb5 maybe the only hope, though I don't like it either
+[19:12:46] GenTurgidson: Yeah this is falling apart no matter what I do.
+[19:12:46] bufferunderrun: like Qb5 c4 perhaps
+[19:13:47] GenTurgidson: I maybe have to play a defensive 18...Ra6. It's that or Rb8.
+[19:14:18] GenTurgidson: I don't know if he managed this by accident, as he castled so quickly. Very lucky my pin doesn't work.
+[19:16:19] GenTurgidson: I think Ra6 is forced. I can't find anything to make Bb7 work.
+[19:17:36] GenTurgidson: I expect 19.Nc5 probably, although this gives me time to develop the dark bishop and castle.
+[19:18:06] GenTurgidson: ...after Rxa1 Rxa1 on my tempo.
+[19:19:53] GenTurgidson: He can actually still fight for Nb6 with something like 19.Bc7 which I missed.
+[19:20:23] GenTurgidson: I don't expect someone at our level to spot that though.
+[19:21:39] GenTurgidson: Okay... 19.Nc5, I think I am happy with that.
+[19:24:27] GenTurgidson: Didn't notice he's double attacking e4 now though. There's always something.
+[19:24:57] GenTurgidson: Blitz out an intuition move.
+[19:25:27] GenTurgidson: Ra7 is coming out of principle - rook on the 7th rank, book move.
+[19:27:14] GenTurgidson: I totally forgot about that. Was on my radar but only after Be7, which would allow me to castle in response.
+[19:27:45] GenTurgidson: That's game over.
+[19:28:15] bufferunderrun: now gxf, Qh5+ is possible
+[19:28:15] Minot: instead of f5, Bxc5 felt natural, removing the attacker on e4 and able to castle
+[19:30:47] bufferunderrun: 22.Qa6 looks strong
+[19:31:18] Minot: stop finding good moves for the opponent :D jk
+[19:32:03] bufferunderrun: well, 13...Ne4 shouldn't have happened
+[19:32:03] GenTurgidson: I'm not sure what he's thinking about.
+[19:32:19] GenTurgidson: Very weird.
+[19:32:34] bufferunderrun: gg
+[19:33:19] Minot: gg
+[19:33:50] GenTurgidson: gg
