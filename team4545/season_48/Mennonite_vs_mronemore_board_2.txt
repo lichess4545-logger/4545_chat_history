@@ -1,0 +1,93 @@
+Lichess game chat log
+Game      : https://lichess.org/YJdLpUIw
+White     : mennonite
+Black     : mronemore
+Time      : 45+45
+Captured  : 2026-05-10 05:31:44 UTC
+Game ended : 2026-05-10 04:11:40 UTC
+Messages  : 83
+────────────────────────────────────────────────────────────
+
+[01:05:29] Mennonite: I spent most of my time prepping if 4...Nxd4, I'm relieved that did not come up though
+[01:07:16] Mennonite: i was expecting 6...Bb4+. I think 7.h3 was my preferred move here
+[01:08:32] Mennonite: i don't mind taking a minute or two here
+[01:08:47] Mennonite: i wouldn't normally start a game at 9 PM local time, but here we are.
+[01:09:17] Mennonite: i prepared by making coffee with 75% decaf and 25% regular around 5:30, and light dinner
+[01:10:18] Mennonite: i'm also scheduled to play Lonewolf at 7:30 am. my opponent agreed to reschedule that to Monday should this go super long
+[01:11:49] fulmarsky: Go menno!
+[01:15:38] Mennonite: my normal bedtime is 10:30 or so, which is an  hour and 15 minutes from now.
+[01:20:57] Mennonite: i don't think this move is worth burning a lot of time on
+[01:23:15] Mennonite: my biggest problem is that i'm not sure what to do with the DSB. But if that's my biggest problem I can't be too upset
+[01:28:49] Mennonite: of course i need to keep an eye on that e4 pawn at all times.
+[01:30:51] Mennonite: my team is down 4-1. So as unlikely as a comeback is, I am obligated to play for a win nonetheless.
+[01:31:06] Mennonite: there's not an awful lot of imbalance thus far, which isn't good news on that front.
+[01:31:21] Mennonite: true, i have an evaporating lead in development, and more space... it's something to work with
+[01:31:52] Inter-temporal: (10) (10.Nc3) asymmetric pawns too
+[01:33:38] Inter-temporal: (10) (10...Na5) isn't there some kind of minority attack ideas here? on the Q-side
+[01:34:54] Inter-temporal: (11) (11...Nc6) ...Na5 seemed to signal ...c5 next. idk. seems odd. lol
+[01:35:25] Inter-temporal: (11) (11...Nc6) now a3 looks decent; and b4
+[01:35:40] Inter-temporal: (11) (11...Nc6) oh. hello d4 pawn
+[01:36:11] Inter-temporal: (11) (11...Nc6) Bb1 first then
+[01:36:56] Mennonite: black spent two moves to move my bishop to a better diagonal
+[01:37:11] Mennonite: at least, that's how i'm choosing to look at it. i'm trying to be a more optimistic player.
+[01:38:27] Mennonite: considering e5 here. i'm not sure how likely i am to actually play it, though.
+[01:40:14] Inter-temporal: (11) (11...Nc6) hard decisions. e4-e5 could make black's dsb more dangerous
+[01:48:06] Inter-temporal: (13) (13.Qd2) Bxh6 looms
+[01:49:07] Mennonite: i accidentally challenged him to chess960 at first, so i was worried i wouldn't be sharp enough
+[01:49:37] Mennonite: i'm playing a little faster than i normally would out of recognition i have relatively limited energy
+[01:53:25] Mennonite: i didn't think Bxh6 was a serious threat... but now... i'm not sure!
+[01:56:43] Inter-temporal: (13) (13) (13) (13...Ng6) indeed. looks right
+[01:56:58] Mennonite: maybe preparing with Rad1 first would be most accurate.
+[01:57:59] Inter-temporal: (13) (13...Ng6) it's there. you have e4-e5, and Ng5 with no opposing dsb
+[01:58:30] Inter-temporal: (13) (13...Ng6) but always risky. can't be truly certain
+[02:02:03] Mennonite: i'm starting to really like my position which with me is usually the kiss of death
+[02:09:39] Mennonite: Bxh6 seems unclear to me the more I look at it.
+[02:10:10] Inter-temporal: (14) (14...Be6)  it's always easier to sit out here and sac someone else's pieces. lol.
+[02:15:14] Mennonite: now i think Bxh6 is the only way forward.
+[02:15:29] Mennonite: granted,i *can* backpedal...
+[02:16:30] Mennonite: 16.Bxh6 gxh6 and ....Ndf4 becomes an interesting defensive resource
+[02:16:45] Mennonite: so perhaps I could throw nxd5 in there?
+[02:17:46] Mennonite: i can't see through all the way but i'm going to have to have faith i can find a resource. i need to play for a win.
+[02:17:46] Inter-temporal: (16) (15...Nd5) that seems to let black eliminate the threat of Ng5 via Bxf3, no?
+[02:18:01] Inter-temporal: (16) (16.Bxh6) oh good. this way
+[02:18:17] Mennonite: maybe ...dxe5 is actually best
+[02:18:47] Mennonite: well, no, after dxe5 i've just opened up another line
+[02:19:02] Inter-temporal: (16) (16.Bxh6) i was thining that 16.Nxd5 Bxd5 17.Bxh6 Bxf3 could have been a problem. idk
+[02:19:48] Inter-temporal: (16) (16.Bxh6) this seems like a proper sac.
+[02:20:34] Mennonite: 16...gxh6 17.Nxd5 Bxd5 18.Bxg6 is probably ok
+[02:28:25] Mennonite: actually now that the d file is open, the Ndf4 defense is no longer viable for Black.
+[02:32:14] Mennonite: my dog needs to go out, this might be my last chance.
+[02:37:03] Mennonite: ...Kh7 might be annoying
+[02:37:18] MrScribbles: (17...Nxc3) just checking in now. fun stuff
+[02:37:33] Mennonite: i thought Nxc3 just fell to Qxc3 which threatens Bxg6, no?
+[02:39:05] MrScribbles: (19.Bxg6) watchpartied
+[02:39:50] Mennonite: oh, i see. this threatens ...Ba5
+[02:42:38] Mennonite: going to stop whispering to focus on calculation
+[02:47:57] Mennonite: deep breath...
+[02:48:28] Mennonite: wow, he didn't play ...Ba5
+[02:54:48] Mennonite: going to repeat once to gain time
+[03:11:03] Mennonite: i'm starting to get really tired...
+[03:11:18] Mennonite: i want to bring this to a conclusion one way or the other here
+[03:11:48] basilcandle: next time 30% regular coffee
+[03:17:23] MrScribbles: (31...Qc5) White has a very powerful Bishop-Rook-Queen battery
+[03:28:02] Mennonite: i think i'm making progress...
+[03:38:11] MrScribbles: (54...Rg1+) luckily I won't be falling asleep for a while
+[03:38:26] MrScribbles: (54...Rg1+) I think Mennonite has had a number of marathon league games, possibly this will be another one
+[03:51:22] Mennonite: i don't see how to make progress.
+[03:53:55] Mennonite: i think i'm going to move to my phone and get in bed...
+[03:58:13] MrScribbles: (72.Rd7) You want to trade a set of pawns and get your king in front
+[03:58:13] MrScribbles: (72.Rd7) much easier said than done of course
+[03:58:29] MrScribbles: (72.Rd7) If you trade rooks first, I have no clue
+[03:58:29] MrScribbles: (72.Rd7) maybe trading rooks is good, I just don't know
+[03:59:29] MrScribbles: (72...Rb4+) I want to say trading rooks would be good, but I really have no clue. Good luck
+[03:59:45] MrScribbles: (73.Kf3) wow, not moving the king up?
+[04:00:00] MrScribbles: (73.Kf3) maybe nemommminte sees something I don't
+[04:09:54] fulmarsky: Oh wow, the time... I snoozed for part of the game, oh its still going on...
+[04:13:11] fulmarsky: Oh I can't tell I view the game on phone which I'm new to, oh wow white won... It was close and tense....
+[04:13:42] fulmarsky: Its too late or early to be on computer.   Tense chess game
+[04:14:58] fulmarsky: I think white won, the chessclocks are stationery....  Tense
+[04:15:43] MrScribbles: gg!
+[04:16:29] MrScribbles: I maybe would have kept trying, but yeah looks tough
+[04:17:30] MrScribbles: I know that KR vs KR+h&g pawns is surprisingly hard to win.
+[04:17:30] MrScribbles: I imagine f&g pawns is easier to convert
+[04:21:48] basilcandle: gg
