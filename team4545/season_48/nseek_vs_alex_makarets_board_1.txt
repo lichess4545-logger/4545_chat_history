@@ -1,0 +1,227 @@
+Lichess game chat log
+Game      : https://lichess.org/J3Z5S05B
+White     : nseek
+Black     : alex_makarets
+Time      : 45+45
+Captured  : 2026-05-10 18:02:06 UTC
+Game ended : 2026-05-10 16:41:59 UTC
+Messages  : 217
+────────────────────────────────────────────────────────────
+
+[14:03:53] nseek: spent a bit of time working with the slav this week, going to try the main g3 line out
+[14:05:55] alex_makarets: Hi, Lost
+[14:06:26] RajjSinghh: very tense game
+[14:06:26] LostFromOpening: hey :D
+[14:09:43] mkubecek: (11...f6) IIRC current theory prefers 11... g5 (invention of Morozevich) but some of the lines after that are quite crazy.
+[14:09:59] nseek: I glanced at this 11...f6 because it's the "older" line and alex played super correct openings in all the games I looked at though I didn
+[14:10:14] nseek: find one that got all the way here in the openings explorer for them
+[14:11:15] nseek: It looks like the move now is 11...g5 and  then we exchange some minor pieces
+[14:12:00] mkubecek: (11...f6) Sadly, learning mainline theory is kind of wast of time on my level, in two years I played ~5 games that got as far as 5. a4. :-(
+[14:12:16] nseek: but there was a levon aronian game I played thru with this 11...f6 thing with a really interesting Queen maneuver if I can remember it.
+[14:14:02] RajjSinghh: White needs to win, so the database giving a small edge to white seems promising
+[14:16:04] RajjSinghh: The pawn structure might be nice long term but we'll see
+[14:16:04] nseek: well now totally out of prep because I definitely didn't see anything with both f6 and g5
+[14:17:20] nseek: however it looks like the point is that black is trying to get me to play Bxe5 here so we're not gonna do that
+[14:18:52] RajjSinghh: The question is whether white also plays Nxd7 or not
+[14:19:22] nseek: lol alex played that immediately and is still in prep with it.
+[14:20:23] RajjSinghh: The pawn on f4 is good at stopping a potential e4 break
+[14:20:53] nseek: I don't think there's anything besides Nxd7 here...maybe Nd3?
+[14:21:54] nseek: then Queen takes back and do I want to trade queens?
+[14:23:11] alex_makarets: I hope he is uncomfortable
+[14:26:13] nseek: I'm pretty sure we need to win this game from a team standpoint so I probably have to keep the queens on
+[14:28:31] nseek: so back to d1 and then Rd8 forces me to Qc1 but also stops them from long castling?
+[14:29:47] RajjSinghh: I like that idea, but as black I'd play Qd7 and make white find a new idea
+[14:31:18] nseek: normal circumstances I probably go with the repetition here, higher rated and well prepped player
+[14:31:48] LostFromOpening: its move 16 what the fuck did i just come back to
+[14:32:04] nseek: but need a win so
+[14:33:50] LostFromOpening: who is better here
+[14:34:21] LostFromOpening: i guess alex idea is Rd1 Qc7 and O-O-O?
+[14:35:06] LostFromOpening: not a fan of blacks position here tbh
+[14:36:53] RajjSinghh: I mean black's problem is just the f4 pawn, which white really can't take because of Rg8 and Bh3 ideas
+[14:37:08] RajjSinghh: So black can play 0-0-0 and fg when he wants
+[14:38:09] nseek: Rd1 just seems most natural
+[14:38:24] RajjSinghh: black has the bishop pair, the king is safe enough on long castles
+[14:38:55] LostFromOpening: does black keep the bishop pair after 19. Ne4?
+[14:39:40] LostFromOpening: its either taking on e4 or castles then?
+[14:39:56] RajjSinghh: good point, but Ne4 0-0-0 Nxd6 Rxd6  and so on
+[14:40:41] LostFromOpening: Ne4 0-0-0 Nxd6 Rxd6 Qxd6 and u cant take on f5?
+[14:41:27] LostFromOpening: Rxd6 Rxd6 Qxd6 or sum
+[14:41:27] LostFromOpening: yea i think Bxe4 is must
+[14:41:42] RajjSinghh: Is black going to sac on g3?
+[14:41:57] LostFromOpening: might be an idea
+[14:42:13] mkubecek: (21.hxg3) Looks like either a perpetual or serious trouble for white.
+[14:42:13] RajjSinghh: White needs a win to stay in the match
+[14:42:13] mkubecek: (21.hxg3) But I would need more time to calculate.
+[14:42:13] LostFromOpening: how do u defend the bishop after Rg8?
+[14:42:28] LostFromOpening: there arent any checks no?
+[14:42:58] alex_makarets: (21) My prep ends here
+[14:43:14] LostFromOpening: damn bro sorry
+[14:43:14] mkubecek: (21.hxg3) Ah, right, the rook stands in the way of Qf1, missed that.
+[14:43:14] LostFromOpening: bro is the entire opening book
+[14:43:29] RajjSinghh: Black should castle first. No need to go in to this without bringing the rook from a8 to g8
+[14:43:44] LostFromOpening: castle seems safer if no castles Bf5 might be annoying?
+[14:43:59] LostFromOpening: what happens after Bxg3
+[14:44:14] LostFromOpening: is there another move than to take for white
+[14:45:00] LostFromOpening: or is something like Bxg3 fxg3 Qxg3 Kf1 just fine for white?
+[14:45:46] mkubecek: (21.hxg3) Kf1 Rg8?
+[14:46:47] mkubecek: (21.hxg3) Lot of time for black to figure it out.
+[14:47:02] RajjSinghh: I guess you could take now, but why not castle first? it's black's last problem
+[14:47:32] LostFromOpening: 0-0-0 maybe u have time for Rd3 or sum?
+[14:47:32] mkubecek: (21.hxg3) White might play f4 after 0-0-0 but Rg8 is still a problem.
+[14:47:48] LostFromOpening: not sure but if it works rn its probably best to do
+[14:48:18] alex_makarets: (21) 0-0-0 is a move I want to play anyway
+[14:48:18] RajjSinghh: either way, this isn't a position you want for a must win white game
+[14:48:33] LostFromOpening: i think 0-0-0 f4 is not critical due to Rg8
+[14:49:04] LostFromOpening: definetly the safer approach
+[14:49:19] RajjSinghh: black can also play h5 h4
+[14:49:19] alex_makarets: (22) the prep was not bad at all, now let's play
+[14:50:05] LostFromOpening: man i gotta join 4545 this looks fun
+[14:50:35] mkubecek: Good idea...
+[14:50:35] SrinivasBharathNK: Come on Nseek
+[14:50:50] RajjSinghh: just gotta not have a provisional classical rating but you'd be a top board
+[14:50:50] LostFromOpening: yea thats the problem right now
+[14:51:05] LostFromOpening: alex said he would play a match against me at some point
+[14:51:21] LostFromOpening: up to then i just play games in lichess ladders ig
+[14:51:21] RajjSinghh: idk I find classical chess suffering but I need to get better at it haha
+[14:51:51] LostFromOpening: classical chess > blitz and bullet imo
+[14:52:06] LostFromOpening: but nothing beats otb classical
+[14:52:06] mkubecek: I suffer in fast rapids - which, for me, is anything faster than 15+10 or 20+5.
+[14:52:37] LostFromOpening: i really wanna sac on g3 now
+[14:53:07] LostFromOpening: Bxg3 Rxd8 Rxd8 fxg3 Qxg3 what then
+[14:53:22] LostFromOpening: Bxg2 Rg8 Qf1?
+[14:53:22] LostFromOpening: Bg2*
+[14:53:22] RajjSinghh: It's difficult because Bg2 Rg8 is just mate
+[14:53:38] LostFromOpening: not if u trade a pair of rooks first
+[14:53:53] LostFromOpening: thats why maybe 0-0-0 wasnt correct
+[14:54:08] mkubecek: The trade is with check so it can be done after Rg8.
+[14:54:39] mkubecek: Would actually give white one more move, it seems.
+[14:54:54] nseek: thought about Qh6 there locking that h pawn in place but I dont think I actually want to win that f pawn and open lines
+[14:55:09] nseek: so gonna try to pressure c6
+[14:55:24] LostFromOpening: Qh6 seemed good
+[14:55:39] LostFromOpening: defends g3 too
+[14:55:39] LostFromOpening: maybe h5 rn?
+[14:55:39] mkubecek: Hm... how about Rdg8 first?
+[14:55:39] Kayrosas: Rdg8 seems quite logical
+[14:56:25] LostFromOpening: Rdg8 Rd3 maybe?
+[14:57:41] RajjSinghh: wonder where that rook is going
+[14:58:42] LostFromOpening: Rdg8 now?
+[15:00:59] RajjSinghh: it's important to remember that while we're talking about black's attack, white is in a must win game
+[15:02:46] LostFromOpening: whites idea with Ra4 is Rd4?
+[15:03:47] LostFromOpening: Rdg8 Qh6 so maybe black should start with h5?
+[15:04:48] alex_makarets: (24) Bxg3 is a threat. I think it didn't work before because of  Kf1
+[15:05:03] LostFromOpening: kinda ridiculous but is Bf5 g4 an idea for white?
+[15:05:33] alex_makarets: Rc4 and Bxc6 is something to watch out
+[15:05:33] LostFromOpening: h5 f3
+[15:09:07] alex_makarets: (24) hmmm
+[15:09:22] LostFromOpening: Bxg3 Bxc6 Bxf2?
+[15:09:37] nseek: we need the win going to ignore that king side stuff and go for it
+[15:10:08] LostFromOpening: Bxg3 Rxd8 u have to be careful with
+[15:13:26] nseek: plus i can sidestep the bishop sac with Rxd8 check after I make his king move with Bf5 check
+[15:13:56] alex_makarets: Bxg3 Bf5 Kb8 Rxd8 Rxd8 fg Qxg3 Kf1
+[15:15:12] alex_makarets: Rg8 Qf4
+[15:16:28] alex_makarets: did I miscalculate?
+[15:16:59] LostFromOpening: good calculation by alex
+[15:16:59] LostFromOpening: Bxg3 loses
+[15:17:29] LostFromOpening: Qxa5 is interesting no?
+[15:17:44] LostFromOpening: Qxa5 Bxc6 bxc6 Rxc6 Bc7
+[15:17:44] LostFromOpening: maybe too risky tho
+[15:21:33] alex_makarets: Be5 Rxd8 Rxd8 Bxc6 bc Rxc6 Rd1
+[15:22:49] LostFromOpening: Be5 is good
+[15:22:49] mkubecek: (24...Be5) Wondered about Bxg3 Rxd8+ Qxd8
+[15:23:19] LostFromOpening: not sure how white will continue to play for a win here
+[15:23:50] LostFromOpening: fxg3 mkubecek?
+[15:24:51] mkubecek: (24...be5) ok
+[15:25:36] mkubecek: (24...Be5) Now Bxc6 also fails for Rxd1+, right?
+[15:25:36] LostFromOpening: yes
+[15:25:52] LostFromOpening: and Rxd8 Rxd8 fails because of what alex wrote
+[15:26:22] LostFromOpening: b4 Rxd1 Qxd1 Bxg3 also wins for black
+[15:26:22] LostFromOpening: not sure how white continues
+[15:26:37] LostFromOpening: and i think u have to defend a5 at some point?
+[15:28:09] LostFromOpening: not sure what alex is thinking about here
+[15:28:24] LostFromOpening: Qxd8 Bxh7 looks annoying
+[15:29:10] alex_makarets: (27) I think Qxd8 was just weaker because queen becomes misplaced
+[15:32:58] nseek: idk if i can really make progress here, but maybe b4 solidifies those qside pawns and I can go Rh4?
+[15:33:13] LostFromOpening: Rd4 to stop Rh4
+[15:33:44] LostFromOpening: also i feel like Rd4 Rxd4 Bxd4 only black should be better due to b4 and a5 being fixed on dark squares
+[15:35:45] RajjSinghh: It is worth remembering that white needs a win to stay in the match
+[15:36:00] RajjSinghh: not being convinced by white's winning chances is a bad sign
+[15:36:00] LostFromOpening: yea however i feel like alex also wants to win
+[15:36:16] LostFromOpening: higher rated and afaik his last 4545 games didnt go too well
+[15:36:46] LostFromOpening: still Rd4 seems quite logical
+[15:37:01] LostFromOpening: u cant avoid the rook trade as white
+[15:37:01] LostFromOpening: and ur bishop should be the stronger one
+[15:37:17] RajjSinghh: true, but I also don't think there's any risk of Alex losing, which is a great position to be in
+[15:38:02] alex_makarets: (27) Qd6 Bxh7 Qd1 Qxd1 Rxd1 Kg2 Rd4
+[15:38:48] LostFromOpening: Rd4 Rxd4 Bxd4 and black plays for a setup with queen on e7 and bishop on d6
+[15:39:03] LostFromOpening: okay if alex sees Rd4 why not go for it right away?
+[15:40:04] LostFromOpening: also Qd6 Bxh7 doesnt work - Bxg3 fxg3 Qg3 and whereever king goes u pick up the white bishop
+[15:41:35] LostFromOpening: i dont think the opponent will take on h7
+[15:41:35] LostFromOpening: Bd3 looks more logical
+[15:41:35] LostFromOpening: just avoid trades
+[15:44:54] RajjSinghh: can either side make any progress?
+[15:45:09] LostFromOpening: dont think so but at least white can hope here
+[15:45:24] LostFromOpening: not sure why alex didnt play Rd4 right away if he even saw it in his variation
+[15:46:25] LostFromOpening: Qc7 or Qe7 to prepare Rd4 runs into Qe3 now
+[15:46:40] LostFromOpening: white keeps some pieces on the board at least
+[15:46:40] RajjSinghh: I wonder how white would feel about a draw offer here
+[15:47:11] LostFromOpening: decline in a must win ofc
+[15:47:11] LostFromOpening: its equal but u still have chances as white
+[15:47:41] LostFromOpening: Qe3 is important now
+[15:47:56] LostFromOpening: u dont wanna allow Rd4
+[15:48:11] alex_makarets: (28) I am not sure what to do. Maybe h5-h4
+[15:48:11] RajjSinghh: but where are those chances? I don't see how you target either kingside pawn
+[15:50:28] LostFromOpening: i dont see them rn either but i think white is happy that the rooks are still on the board ^^
+[15:52:15] alex_makarets: Bxg3 is a threat
+[15:56:19] RajjSinghh: is the h7 pawn enough to start believing white can win?
+[15:56:34] LostFromOpening: Rh8 just defend
+[15:56:49] LostFromOpening: looks passive but white cant make progress
+[15:57:04] nseek: I think I may have just won a pawn, but also dont think it's enough for a win. Very nervy game
+[15:57:50] LostFromOpening: dont see how he wins that pawn
+[15:58:05] LostFromOpening: Rh8 Qh6?
+[15:58:20] LostFromOpening: queentrade and Bc3
+[15:59:52] LostFromOpening: Qg5 might also be an idea
+[16:00:07] nseek: it's funny I made 4 or 5 decisions this game to push for a win and still dead even
+[16:00:53] alex_makarets: Qg5 Qxg5 fg Rxh7 Bc3
+[16:01:23] LostFromOpening: that is the more active approach id say
+[16:02:24] alex_makarets: if Rg4 instead of Rxh7 probably h6
+[16:03:55] LostFromOpening: i feel like this is still very loseable for both sides
+[16:05:27] LostFromOpening: Re8 Rh5 Bxb4 for example is losing for black according to fish
+[16:05:27] mkubecek: (34.Bc4) Rg7 perhaps?
+[16:06:12] Grzybozbur: re8 rh5 re5, no?
+[16:06:43] LostFromOpening: yea just trying to make a point that this isnt as easy as it could have been ^^
+[16:06:58] Grzybozbur: i have no idea how white could win this
+[16:07:13] Grzybozbur: both queenside pawns seem to drop
+[16:08:14] LostFromOpening: this is losing now
+[16:09:00] LostFromOpening: Rxg7 Bxg7 Kf3
+[16:09:30] alex_makarets: if he doesn't take I am better
+[16:09:45] alex_makarets: it he takes I don't think I am going to lose
+[16:10:16] LostFromOpening: gotta go now, praying that alex holds :D
+[16:10:31] nseek: can I run my king up now in time? RxR BxR and then King takes g pawn do I win the race?
+[16:11:02] Grzybozbur: i don't know if it's losing, but i'd keep rooks on as black
+[16:18:23] Grzybozbur: 41.kf6 looked simpler
+[16:22:11] alex_makarets: what am I doing
+[16:23:12] RajjSinghh: okay lets say Ke5 f7 Bd6, what are we doing?
+[16:25:14] mkubecek: (44...Ke7) Hm... now Kf5-e5-e6 and what
+[16:25:29] Grzybozbur: what are both these guys doing?
+[16:27:01] mkubecek: (45...Kf8) Now e5-e6 and white can go after the queenside?
+[16:27:46] mkubecek: (45...Kf8) Not so simple, after all...
+[16:28:02] alex_makarets: (45) I was happy to see f7, now I will not lose
+[16:28:17] Grzybozbur: it was resignable a moment ago
+[16:29:18] mkubecek: (47.Kf6) Bb4 should be fine.
+[16:30:34] glbert: go alex_makarets!
+[16:30:34] Grzybozbur: well, now white is fighting for a draw, not black
+[16:32:51] alex_makarets: I think this should be a draw but only black can win
+[16:34:37] nseek: not sure if i had a win or not but fairly certain drawn now
+[16:35:38] mkubecek: (49.Be2) Even without the black pawns, black can just keep the king on f8 and bishop on the f8-a3 diagonal and white can't do anything.
+[16:36:54] alex_makarets: (50) Am I winning? Kxc6 a3
+[16:37:10] RajjSinghh: this is losing right?
+[16:37:10] mkubecek: (50...a4) a3 whatever white plays, perhaps.
+[16:37:55] mkubecek: (51.Bg4) a3 Be6 c5 and then c4?
+[16:38:56] jdannan: Maybe just c5-c4 imediately
+[16:39:11] mkubecek: (51.Bg4) ...or that
+[16:39:27] jdannan: Prevent the B getting on that diagonal at all
+[16:40:43] mkubecek: (52.Kc6) Uff.. c4 Kxb5 a3?
+[16:40:58] Grzybozbur: even if you get the bishop on a2-g8 diagonal, once the pawns get to a3/c3, you can't stop them both
+[16:41:28] mkubecek: (53...c4) It's over, I guess.
+[16:42:14] glbert: good game.
+[16:42:29] cham: gg
