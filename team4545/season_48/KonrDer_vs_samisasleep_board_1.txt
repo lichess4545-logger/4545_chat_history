@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/Cid3dQbM
+White     : konrder
+Black     : samisasleep
+Time      : 45+45
+Captured  : 2026-05-10 14:03:34 UTC
+Game ended : 2026-05-10 12:43:29 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[11:20:01] KonrDer: nc7 gets back some material but I need to be wary of Qg6
+[11:22:03] KonrDer: I think he is almost in zugzwang if I play Kh1
+[11:23:34] KonrDer: Kh1 Qg6 g4
+[11:27:53] KonrDer: If only the pawn was on a3, then he wouldnt have any counterplay
+[11:28:39] KonrDer: g4 Kh7
+[11:31:11] KonrDer: g4 Kh7 Rg1 Rxa2 g5 fxg5 hxg5 Bg7 Rg2 Rxf5 Rh2+ Kg8 Ne7 is a possible variation
+[11:33:28] KonrDer: I also could think about inserting ne7 at some point so I have g6 +
+[11:36:15] karasso: I think in that line after hxg5, there might be Rxf5 exf5 Qxf5 hxg6 Qh3+ Qh2 Qxh2+ Kxh2 Nf3+ Kh1 Nxg1
+[11:37:01] KonrDer: I dont think my attack works
+[11:37:47] karasso: and if Nf6+ after Qxf5 just Kh8
+[11:39:03] KonrDer: a3 maybe Rg8
+[11:39:18] karasso: *hxg6 should be gxh6
+[11:40:34] KonrDer: also g5 Rxg5 is maybe an idea
+[11:41:35] karasso: (27. ... Rf7) looks good. covering the e7 square, preparing Rg8. And if g5 the line with Rxf5 should still work. If g5 fxg5 Rxf7 Nxf7 hxg5
+[11:41:50] karasso: Bxg5 is nothing for white as far as i can see
+[11:42:21] KonrDer: g5 fxg5 Rgxf5 Bxg5 Rxg5 Qh6 Rh5 Rf1+ Qxf1 Qxh5 Nf6+
+[11:43:22] KonrDer: If he had taken on a2 he would have had some nasty checks on the back rank
+[11:43:52] karasso: (28. g5) there is Rg8 as an option
+[11:44:23] KonrDer: ah he might have Rf1+ first and then Qxe4+
+[11:45:54] KonrDer: but there maybe Kg2?
+[11:46:40] karasso: (29 Rgxg5) Bxg5 Rxg5 Qe6
+[11:46:55] karasso: i can't find sth directly for white
+[11:46:55] KonrDer: also I should have calculated 29. Qe6
+[11:47:10] KonrDer: what do I do then
+[11:47:10] karasso: :D
+[11:48:11] karasso: Qh5+ Qh6 Rxe5 maybe
+[11:49:12] karasso: but black can just trade quees and remains an exchange up
+[11:49:57] KonrDer: Qe6 Nf4 followed by Kh5
+[11:50:58] karasso: Nf4 i think just Rxf4
+[11:53:00] karasso: *after Rxe5 there is even Rf1+ Kg2 dxe5 forcing Qxh6+ Kxh6 Kxf1 Rxa2 which is completly unplayable for white
+[11:54:31] karasso: also black is threating Qh3+ with Rg8 and also just Raf8 with Rf1+, so white really has to find sth right now (Qe6 just played)
+[11:55:17] KonrDer: Rh5 almost works but Kg7 and if Qg2+ then Ng6
+[11:55:47] KonrDer: Qh5+ was my backup plan although I am not sure of the arising endgame
+[11:57:19] karasso: (30. ... Qe6) Qg2 is also not really an option because of Qh6 with attack on h4
+[11:58:04] karasso: 27. ... Rf7 really was a star move
+[12:02:38] karasso: (32. Rxe5) if black finds Rf1+ dxe5 it should be game over. But i also couldn't find anything for white to keep the game going
+[12:07:13] karasso: (33 Rxh5) should stiil be winning for black but white can fight a little bit more.
+[12:08:59] karasso: tbh after Kg6 Rg5+ Kh6 a3 Re8 Rg4 and Rf2 it also should be a very easy win
+[12:10:46] karasso: (35. Ne3) probably a better try
+[12:12:02] karasso: Rf4 here looks nice targeting e4 and h4
+[12:13:18] karasso: (Rxa2) Nf5+ Kh7 Rh5+ Kg8 (Kg6 Rh6#) Nh6+ with Nxf7 was there.
+[12:14:49] karasso: i guess anfter Nf5+ Rxf5 with Rxb2 was a winning rook endgame for black. i still would have tried that with white
+[12:17:52] Pope123: Goo Konr!!!
+[12:21:10] karasso: (41. Re7) Black really misplayed this with Rxa2 Ra1 Re1 Re2+ Re3+
+[12:22:26] Pope123: Rook pair too strong
+[12:23:12] karasso: Rf4 instead of Ra1+ looked still very good for black Nf5+ Kh5 Nxd6+ Kxh4 and i might just mate white
+[12:24:58] karasso: but maybe also not colmpletly clear
+[12:26:45] karasso: (43 e5) white has some winning chances here
+[12:26:45] karasso: which is insane
+[12:28:01] karasso: driving the king towards the center with checks was not good
+[12:35:07] karasso: (48 Kg8) Kg8 is kind of soft to avoid the discovery check. Kg6 looked stronger since e7+ just Kf7. King on g6 covers g5 and also there is
+[12:35:37] karasso: maybe Rf2+ winning the knight. (not sure if that really worked, but at least the idea was there
+[12:38:25] karasso: (51 Rd6) looks now lost for black
+[12:38:40] KonrDer: I played Rd6 too quickly, I think Ke8 would have been a good try
+[12:40:42] KonrDer: Rxb2 I have the same mating pattern as in my last game
+[12:41:12] KonrDer: actually if he goes to h8 he can avoid it
+[12:41:58] KonrDer: Rf7+ Kg8 Ne7+ Kh8 Ng6+ Kg8 Rg7+
+[12:41:58] KonrDer: so its still there
+[12:42:13] KonrDer: and in the other direction the pawn assists
+[12:43:14] karasso: gg
+[12:43:29] jdw10: gg
+[12:49:34] jdw10: @konrder, nice game and congratulations on the win, and on securing a point for your team in the match!
