@@ -1,0 +1,181 @@
+Lichess game chat log
+Game      : https://lichess.org/qIIgLMW8
+White     : ttotr
+Black     : jamgrass741
+Time      : 45+45
+Captured  : 2026-05-10 19:24:18 UTC
+Game ended : 2026-05-10 18:04:13 UTC
+Messages  : 171
+────────────────────────────────────────────────────────────
+
+[16:01:24] NaveenGeorge: let's go jam grass!
+[16:01:54] NaveenGeorge: Nice classical opening
+[16:02:55] NaveenGeorge: d6 or castles?
+[16:03:25] NaveenGeorge: No Marshall lol
+[16:03:56] King12-life: Looks solid for now, hopefully jamgrass is used to that opening
+[16:04:26] NaveenGeorge: Both players know their theory so far
+[16:05:58] NaveenGeorge: wow the breyer
+[16:06:28] King12-life: I don't know anything about the Ruy Lopez but I think that's a common idea
+[16:06:43] NaveenGeorge: Yes it's a great move
+[16:06:43] NaveenGeorge: Looking for Nd7
+[16:12:18] NaveenGeorge: I think the move is g6 here. Need to keep the g3 knight in control
+[16:51:23] King12-life: Nb6 was the first novelty, impressive theory knowledge, though h6 is seemingly played way more often than Bg7
+[16:53:25] NaveenGeorge: Yeah Nb6 didn't quite feel right. Although white locking up the queenside doesn't seem right either
+[16:55:57] King12-life: I agree
+[16:56:28] King12-life: But if black cannot find a plan, maybe white's space advantage will prevail
+[16:56:28] karasso: white has d5 c4 plans
+[16:57:13] King12-life: I was considering c5 for black because black shouldn't stay passive imo
+[16:57:59] karasso: even though it would work better with the bishop on d3 instead of c2. after exchangiing the whites c-pawn for blacks b pawen a6 and c7
+[16:57:59] King12-life: But if white plays 19. Be3, then c5 bxc5 dxc5 dxe5 wins a pawn
+[16:57:59] karasso: become targets
+[16:58:45] King12-life: Yeah that's why I think black should try to play for c5 or to open with exd4
+[17:00:32] karasso: Maybe both. after Be3 exd4 Bxd4 c5
+[17:01:32] karasso: would have been complicated to calculate
+[17:01:48] King12-life: (19. Bc1) For Bb2 maybe ? But then after c5 c4 the bishop would be poorly placed on b2, and if everything gets traded on c5 the c-file ...
+[17:01:48] King12-life: ...is open for black and their knight is powerful on c5
+[17:04:35] karasso: i think the main goal from Bc1 is just to keep e4 defended.
+[17:05:36] karasso: not sure what happens after c5. Maybe bxc5 dxc5 d5 and the bishop goes to a3 or back to e3
+[17:06:22] RS-ClassicalOnly: (19... d5) hello everyone
+[17:06:52] RS-ClassicalOnly: immensely complex position
+[17:08:24] RS-ClassicalOnly: (19... d5) exd5 exd4 cxd4 Rx Qx how to evaluate this position, possibly slightly better for block
+[17:09:25] King12-life: (19... d5) dxe5 Nxe5 Nxe5 Rxe5 f4 Re8 e5 followed by Qd4/Be3 & Bd4 to block the b7 bishop looks annoying
+[17:09:40] King12-life: exd5 opens more lines so it looks less threatening
+[17:12:12] karasso: there is in the end also e6 option for white, because g6 is weak. Maybe the black rook can go to e6 instead of e8 to stop it
+[17:13:28] RS-ClassicalOnly: that plan seems more threatening yeah
+[17:13:59] King12-life: But Re6 allows f5
+[17:16:16] RS-ClassicalOnly: dxe5 Nxe5 Nxe5 Rxe5 f4 Re8 e5 Ne4 Nxe4 dxe4 Bxe4 Qxd1 Rxd1 Bxe4 is a trap to watch out for
+[17:17:02] King12-life: Maybe dxe5 Nxe4 is playable
+[17:19:03] RS-ClassicalOnly: dxe5 Nxe4 Nxe4 dxe4 Bxe4 Bxe4 Rxe4 Bf4 Qxd1 Rxd1 Nxf3 gxf3 Rxe4 fxe4 Bxc3 seems to win a pawn for black
+[17:20:35] King12-life: After Rxe4 it is black to play and Bf4 is not a valid move
+[17:20:50] RS-ClassicalOnly: i missed Nxe5 there
+[17:21:05] RS-ClassicalOnly: in the writing
+[17:21:05] King12-life: Ah I see
+[17:21:51] RS-ClassicalOnly: exd5 played
+[17:22:06] King12-life: Now Nxd5 threatens the c3 pawn as well black has more counterplay
+[17:22:21] King12-life: But that keeps more pieces on the board
+[17:22:36] King12-life: With white's space advantage it is understandable
+[17:23:22] RS-ClassicalOnly: exd5 Nxd5 Bb2 exd4 Nxd4 looks good for black
+[17:23:52] RS-ClassicalOnly: exd5 Nxd5 Bd2 exd4 Nxd4 looks a little better but c5 might be coming
+[17:24:23] RS-ClassicalOnly: looks good for black but the game is so complex here
+[17:25:09] King12-life: For sure!
+[17:26:10] RS-ClassicalOnly: i stopped playing the spanish once i realised im too stupid for this kind of game lol
+[17:28:27] NaveenGeorge: Yeah I play the ruy Lopez in spite of my noobness. It has helped me understand chess much better over time though
+[17:28:57] RS-ClassicalOnly: fundamentally it probably makes the most fundamental sense next to the scotch
+[17:29:28] King12-life: Why would the italian not make sense fundamentally
+[17:29:58] King12-life: (21. Bb2) I have no idea what black should do now
+[17:29:58] RS-ClassicalOnly: well it does, but variations in Bc4 Nf6 are so vastly complex
+[17:30:13] King12-life: Just play d3 if you don't want complexity :D
+[17:30:28] RS-ClassicalOnly: you just get the Bc5 variations then
+[17:30:28] NaveenGeorge: Lol
+[17:30:59] RS-ClassicalOnly: (21. Bb2) whites making a mistake here, c5 will come and pose significant problems
+[17:31:14] King12-life: I wouldn't be so certain (I don't understand anything in the position)
+[17:31:44] King12-life: 22. Rxe8+ kind of helps black to get Rd8 coming
+[17:32:15] King12-life: Black has to be better now, every single piece is in play or will shortly be
+[17:32:45] RS-ClassicalOnly: (22... Qxe8) Nxd4 c5 looks so scary, Bb2 hinders white if he wants to move the knight abck
+[17:34:32] King12-life: Black doesn't have to play c5 immediately, Rd8 is also fine I think
+[17:35:02] NaveenGeorge: c5 looks so juicy though
+[17:35:02] RS-ClassicalOnly: c5 feels so right there though
+[17:36:18] RS-ClassicalOnly: (23... Rd8) i wonder if Bb3 is playable
+[17:36:49] King12-life: Why not
+[17:37:04] King12-life: You'd probably rather activate the a1 rook with Qd2
+[17:37:19] King12-life: Or Qg4 but that's riskier
+[17:37:35] RS-ClassicalOnly: just thinking Bb3 kinda helps prevent c5 immediately
+[17:38:05] karasso: Maybe Ne4 to stop c5 and get the knight back into the game
+[17:38:05] RS-ClassicalOnly: Bb3 c5 Bxe5 Bxe5 Nxb5 axb5 Qxd5
+[17:38:20] King12-life: Yes
+[17:38:35] King12-life: Ne4 Nxb4 I think ?
+[17:38:51] King12-life: The knight on e4 wouldn't be stable
+[17:39:06] karasso: That's a proboem
+[17:39:06] karasso: Problem
+[17:39:36] RS-ClassicalOnly: probably not Ne4 then
+[17:39:52] RS-ClassicalOnly: Bb3 makes sense
+[17:40:22] King12-life: Bb3 Nf4 threatens g2
+[17:40:52] King12-life: Nf4 looks annoying for white
+[17:41:08] NaveenGeorge: They're really burning time. Understandably given the position
+[17:41:23] karasso: Be4 is also an idea
+[17:41:23] RS-ClassicalOnly: Bb3 Nf4 looks good
+[17:41:23] King12-life: Qf3 isn't playable and Qg4 looks wrong so Qd2 has to be the move
+[17:41:38] King12-life: Be4 Nxc3 -+
+[17:41:53] karasso: You are no fun :D
+[17:41:53] King12-life: hahaha
+[17:42:09] RS-ClassicalOnly: by our conclusions black has to be significantly better then
+[17:42:24] NaveenGeorge: Nxc3!
+[17:42:39] King12-life: (24. Be4) Well go jamgrass
+[17:42:54] NaveenGeorge: Will he find it
+[17:43:25] NaveenGeorge: I think it's tough
+[17:43:40] RS-ClassicalOnly: he might play f5 instead who knows
+[17:43:55] King12-life: The bishops are really looking at each other though it is definitely findable
+[17:44:10] King12-life: Plus when you notice that the knight on c3 attacks the bishop on e4 there is no doubt left
+[17:44:41] King12-life: Yes!
+[17:44:41] NaveenGeorge: Yes!
+[17:44:41] RS-ClassicalOnly: Beautiful!
+[17:46:27] RS-ClassicalOnly: I wonder how white will follow up now
+[17:46:58] NaveenGeorge: I mean it's still only a pawn. Lot of game still to be played
+[17:46:58] RS-ClassicalOnly: of course
+[17:47:13] RS-ClassicalOnly: im just struggling to find nice moves for white
+[17:47:13] RS-ClassicalOnly: combined with the low time, seems deadly
+[17:48:14] NaveenGeorge: qxe4 and the knight on d4 is in a little bit of trouble
+[17:48:44] King12-life: 27. Qf3 looks fine
+[17:48:59] King12-life: Nvm it is not fine
+[17:50:00] King12-life: After 27... Nf8/Nb8 28. Qf3 works now though
+[17:50:00] NaveenGeorge: Nf8 maybe?
+[17:50:16] RS-ClassicalOnly: i was calculating Nf8, but Qf3 might actually work there
+[17:50:16] NaveenGeorge: Yeah
+[17:51:01] NaveenGeorge: Nf8 qf3 rxd4 maybe?
+[17:51:01] King12-life: I'd rather play Ne5 for Nd3/Nc4, eg Ne5 Qc2 Nd3, but Ne5 Qe2 can be tricky
+[17:51:16] King12-life: Yeah Rxd4 in all those lines is definitely good but I don't know if jam will go for it
+[17:51:32] King12-life: It is risky
+[17:51:32] RS-ClassicalOnly: Ne5 looks a lot better to be fair
+[17:51:32] NaveenGeorge: Yeap definitely
+[17:52:02] RS-ClassicalOnly: even like Ne5 Qe2 Rxd4!
+[17:52:17] King12-life: Yeah wait
+[17:52:48] King12-life: Ne5 Qe2 Rxd4 Bxd4 Rxc7 Qa1+ Kh2 Nf3+! gxf3 Qe5+ Qxe5 Bxe5+ Kg2 Bxc7 0-1
+[17:52:48] King12-life: That would be insane
+[17:53:03] NaveenGeorge: Jam prob sense that there's a knockout blow here
+[17:53:03] NaveenGeorge: senses*
+[17:53:18] King12-life: I forgot Qxd4 after Bxd4 in my line oops
+[17:53:18] King12-life: Damn we won't get this line :(
+[17:53:49] NaveenGeorge: White still has to find Qf3
+[17:53:49] King12-life: Well the c7 pawn is still defended after Qf3 Rxd4 here
+[17:54:04] RS-ClassicalOnly: Nf8 i hope the game doesnt slip out of blacks hand
+[17:55:05] King12-life: (28. f3) Bxd4+ gg
+[17:55:05] NaveenGeorge: yeap
+[17:55:05] King12-life: Or Qe3+
+[17:55:05] RS-ClassicalOnly: Bxd4 seems like a win
+[17:55:20] NaveenGeorge: Cmon jam
+[17:55:35] RS-ClassicalOnly: i feel like white might still try to play on, after all the exchanges c7 is hanging and the knight is a bit poorly placed
+[17:55:51] RS-ClassicalOnly: but its definitely a win for black
+[17:56:06] King12-life: the b4 pawn will be hanging so it's an easy win for black
+[17:56:06] RS-ClassicalOnly: oh wait b4 is hanging too, 100% a win for black easy
+[17:56:06] RS-ClassicalOnly: yea i just saw lmaoo
+[17:56:51] King12-life: Nice
+[17:57:07] King12-life: I wonder if 28... Rxd4 also wins, it might be the case
+[17:57:07] RS-ClassicalOnly: im not even a part of either team, yet im so invested in this game
+[17:57:07] RS-ClassicalOnly: strange things
+[17:57:22] King12-life: That's what the league is for :D
+[17:57:52] RS-ClassicalOnly: this league is definitely forcing me to become stronger
+[17:59:39] King12-life: (30. Bxd4) Rxd4 keeps pressure on the c1 rook and it will be enough
+[17:59:54] RS-ClassicalOnly: honestly either recapture is good enough
+[18:00:25] King12-life: aw
+[18:00:25] NaveenGeorge: lol
+[18:00:40] King12-life: the thing is that the a6 pawn is going to fall
+[18:00:40] King12-life: And it can only be scary
+[18:01:10] RS-ClassicalOnly: no time for fear, so little time on the clocks
+[18:01:10] King12-life: Or black can not take the b4 pawn after Qxd4 Rxd4 Rxc7 and play Rd
+[18:01:10] King12-life: Rd6*
+[18:01:25] King12-life: Oh that's good for jam, just Ne6 and everything holds
+[18:01:56] NaveenGeorge: Qf4?
+[18:01:56] King12-life: I guess white will try to go for some perpetual check if possible
+[18:02:11] King12-life: Qf4 is quite beautiful indeed but tough to spot
+[18:03:12] NaveenGeorge: YES!
+[18:03:12] RS-ClassicalOnly: now Qf4 is forced lmao
+[18:03:27] RS-ClassicalOnly: not forced but i mean best
+[18:03:27] King12-life: Well that helps haha
+[18:03:27] NaveenGeorge: CMON
+[18:03:27] King12-life: NCE
+[18:03:42] NaveenGeorge: Yes!
+[18:03:42] RS-ClassicalOnly: resigns now
+[18:03:42] King12-life: nice*
+[18:03:58] NaveenGeorge: GG!
+[18:03:58] King12-life: GG, amazing game from jam!!
+[18:04:28] FinErik: gg
