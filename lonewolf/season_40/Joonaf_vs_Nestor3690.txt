@@ -1,0 +1,143 @@
+Lichess game chat log
+Game      : https://lichess.org/N05aCQ9m
+White     : joonaf
+Black     : nestor3690
+Time      : 30+30
+Captured  : 2026-05-10 17:59:31 UTC
+Game ended : 2026-05-10 16:39:25 UTC
+Messages  : 133
+────────────────────────────────────────────────────────────
+
+[15:12:25] Joonaf: (10.Ne5) maybe I could kick the knight with f3 and play e4
+[15:13:10] Joonaf: (10.Nd6) Well, no need to ki0ck
+[15:14:11] Joonaf: I could play e4, but I don't want to give my LSB for a knight
+[15:14:27] Joonaf: I could play Ndf3
+[15:15:27] Joonaf: yeah, that seems like a natural move
+[15:16:59] Joonaf: what to do with the DSB. My d4-pawn blocks that diagonal, so Bb2 seems passive
+[15:16:59] Joonaf: I could do Bg5 and trade it
+[15:17:14] Joonaf: or Bf4, but then ..Nh5
+[15:24:20] Joonaf: maybe I too could do Nd3 and then Nfe5 kind of swap. Not sure if it achieves anything
+[15:24:51] Joonaf: other than I could then play f3 to kick the knight
+[15:25:06] Joonaf: I wonder if Black will kick my knight with ..f6, or play ..f5
+[15:26:53] Joonaf: oh no, I didn't realize that by kicking my e5-knight, c4-pawn will behanging
+[15:28:24] Joonaf: 13.c5 doesn't look good either
+[15:31:57] Joonaf: hmmm, cxd5, fxe5, dxe5 and the knight is pinned to the Q
+[15:32:12] Joonaf: that works?!
+[15:32:27] Joonaf: wait what, there's my own pawn in the way
+[15:33:28] Joonaf: but both knights would be attacked, maybe it still works
+[15:36:00] Joonaf: Hi UpGoerFive!
+[15:36:46] Joonaf: what do you think of 13.cxd5? It's a nice move, if it works :;P
+[15:38:33] Joonaf: (13..exd5) now I think Nd3 is the only move
+[15:40:04] Joonaf: I'll probably do Nd2 in the near future
+[15:40:50] Joonaf: might trade my DSB for the other knight first. Not sure
+[15:41:35] Joonaf: because Nd2 to Nxe4, Nxe4 doesn't achieve anything. Still the annoying knight would be there
+[15:41:50] Joonaf: I could ofc do Nd2 to f3 too
+[15:43:22] Joonaf: well, Black forces me to do something with the DSB
+[15:44:23] Joonaf: (15..Bxd6) if ..g4, then I can do Nd2.
+[15:44:38] Joonaf: and if ..f5, I can go Ne5
+[15:44:53] Joonaf: so maybe I don't move the knight yet
+[15:44:53] Joonaf: If I have something else
+[15:45:08] Joonaf: Black might play ..h5
+[15:45:23] Joonaf: or actually ..Bf5
+[15:46:09] Joonaf: but if I do 16.Nd2, then Black maybe plays ..f5
+[15:47:40] Joonaf: Nd2, f5, f3, Nf6,
+[15:47:56] Joonaf: not sure what happens
+[15:47:56] Joonaf: but I need to do something
+[15:48:56] Joonaf: if 16..Bf5, then not sure if Nxe4 and then f3 or f3 straight away
+[15:50:13] Joonaf: or if Black retakes with the pawn, ..Bf5, Nxe4, dxe4, Nc5, ...
+[15:50:43] Joonaf: it seems like Black then couldn't defend the e4-pawn
+[15:50:58] Joonaf: would need to do ..Bxc5
+[15:54:46] Joonaf: (17..Qe7) Re1, f5
+[15:55:47] Joonaf: I could play b4 to be able to do Nc5, but where does it go then after it gets kicked with ..b6
+[15:57:03] Joonaf: does 18.f4 make sense?
+[15:58:20] Joonaf: Re1, f5, f4, and if e.g. ..Re8, then Ne5,
+[15:59:05] Joonaf: and if f4, gxf, then Nxf4 defends e2 and it can only be capturead with the bishop
+[16:02:23] Joonaf: maybe I could've considered 20.gxf4 more
+[16:02:38] Joonaf: then I would've had that Ne5
+[16:02:54] Joonaf: NOO
+[16:03:09] Joonaf: and it would've avoided this
+[16:04:25] Joonaf: I played a bit too fast
+[16:06:57] Joonaf: well, at the moment my f4-knight is better than their a8-rook :p
+[16:07:58] Joonaf: e2 is defended, but Qe3 is possible :/
+[16:08:28] Joonaf: maybe Kf2
+[16:08:44] Joonaf: or e3
+[16:08:59] Joonaf: Kf2 defends the rook too if ..Qb4
+[16:09:14] Joonaf: and gives rook room to go to f-h files
+[16:09:45] Joonaf: and activates the king! ready for the endgame
+[16:11:16] Joonaf: (23..Qg5) hmm, what is the queen doing
+[16:11:16] Joonaf: allowing ..h5?
+[16:11:46] Joonaf: and overprotecting f5
+[16:12:47] Joonaf: I could do h4
+[16:13:02] Joonaf: not sure what else I can do
+[16:13:18] Joonaf: moving a/b pawns feels way too slow
+[16:13:33] Joonaf: the rook doesn't do anything and I can't push e4
+[16:13:33] Joonaf: I could do Bh3, but maybe h4 first
+[16:14:34] Joonaf: My pieces don't really do anything
+[16:15:50] Joonaf: Bh3 or Rf1 or Rg1
+[16:16:20] Joonaf: I can't push g4 because ..Qxh4+
+[16:16:20] Joonaf: so maybe Rf1 and Ke1
+[16:16:36] Joonaf: and Bh3. focus everything on the f5-pawn
+[16:19:38] Joonaf: If Ke1, then if the knight moves, ..Qc1+ becomes possible
+[16:19:38] Joonaf: but Kg1 seems scary too
+[16:19:53] Joonaf: maybe Nh3 to Ng5 first
+[16:20:39] Joonaf: and possibley Bf3
+[16:20:54] Joonaf: Bf3 to defend the e2 when the knight doesn't defend it anymore
+[16:21:25] Joonaf: maybe Bf3 and then Kg2
+[16:22:10] Joonaf: I'll start with Ng5, and it might end up in Nf3 - Ne5 too
+[16:22:10] Joonaf: if it gets kicked
+[16:22:41] Joonaf: but then I can't do Bf3 if I need to keep that clear
+[16:22:41] Joonaf: so maybe Bh3 anyway
+[16:23:11] Joonaf: Bh3 and Kg2
+[16:23:11] Joonaf: oh but now I need to defend e2..
+[16:23:57] Joonaf: so I need to go back to Nh3 if it gets kicked
+[16:24:42] Joonaf: maybe I should stop writing
+[16:27:30] Joonaf: now I habe Rh1 threat (?)
+[16:31:18] Joonaf: damn
+[16:32:04] Joonaf: too little time. I wonder if I had anything there
+[16:39:25] Joonaf: gg well played!
+[16:40:26] Nestor3690: That was a great one! I definitely think your knight on f4 was great compensation for the rook
+[16:40:57] Joonaf: earlier I noted that my Q and N defend the b4 square. Then when I did Re1 I didn't realize that I lined them up like that, and then I ...
+[16:40:57] Joonaf: ...did 20.Nxf4 too fast, without thinking what you can do
+[16:41:27] Joonaf: but it wasn't over yet. I just didn't know how to use my pieces
+[16:41:57] Nestor3690: Was 20.gxf4 better? Then your kingside seems open to me
+[16:42:28] Joonaf: not sure
+[16:42:28] Joonaf: that's why I did Nxf, but maybe I would've been safe with gxf
+[16:42:43] Nestor3690: I didn't like the knight maneuver starting on move 26, it will give me the possibility to remove the f pawn and open up the bishop
+[16:42:43] Joonaf: and then knight to e5
+[16:43:13] Joonaf: yeah, ..f4 was nice
+[16:43:29] Nestor3690: That knight would have been a great piece on e5 probably
+[16:43:29] Joonaf: I had too little time, and I'm not good at speed chess
+[16:43:59] Joonaf: I'm proud I found 13.cxd5 :P
+[16:43:59] Nestor3690: I am happy that the position was already better for me when I started being low on time, else this could have become difficult
+[16:44:29] Nestor3690: Yeah really nice move! I considered it quickly but once you played it I realized it was better than I thought
+[16:45:00] Joonaf: I didn't realize I was going to lose the c4-pawn, and was lucky there was that cxd5 move
+[16:45:15] Nestor3690: I will need to analyze if I didn't rush too fast on the kingside, ending up blocking my LSB again
+[16:46:46] Nestor3690: Did I even go into theoretical moves here? I don't have anything consistent against g3
+[16:47:01] Joonaf: I was out of prep after 8..Ne4. No idea how good it is
+[16:47:47] Nestor3690: What's expected instead of Ne4?
+[16:47:47] Joonaf: I mean, my prep ended at my move 8.Rd1 already
+[16:48:02] Joonaf: so, nothing :D
+[16:48:17] Joonaf: and I haven't played this a lot, so don't know
+[16:48:33] Nestor3690: Oh ok, I was surprised by Rd1 but as I don't know anything in this opening I was like "maybe this is theory"
+[16:48:48] Joonaf: Rd1 or Nbd2
+[16:48:48] Joonaf: or b3 it seems
+[16:48:48] Joonaf: those are the top 3 moves
+[16:49:03] Nestor3690: I was thinking of 8...dxc4 then b5, it remembered me some Catalan lines I studied long ago
+[16:49:34] Joonaf: but ..dx, Qx, b5 drops c6
+[16:49:34] Nestor3690: I mean 7...dxc4, this is probably better without the knight on d7
+[16:50:04] Joonaf: yeah okay, then it doesn't
+[16:50:19] Joonaf: that would be ok  probably, if you're careful with my LSB
+[16:50:19] Joonaf: pointing at your rook
+[16:50:19] Nestor3690: Of course, let's not blunder a pawn in the opening! :D
+[16:50:50] Joonaf: although it's not always wise to trade that LSB for that rook if Black has LSB and it weakens my light squares around the king
+[16:51:05] Nestor3690: Yeah I was comfortable enough to open things up, I liked the fact that your bishop was hitting on that pawn barrier
+[16:51:20] Nestor3690: not comfortable*
+[16:51:35] Nestor3690: I think I would have been happy in that case to lose my rook for your LSB
+[16:51:35] Joonaf: I didn't know what to do with my DSB, as on b3 it too would point at a pawn
+[16:52:06] Joonaf: yeah, your Q + LSB would be deadly for my king if I didn't have LSB
+[16:52:21] Joonaf: so I didn't think much after ..g5 and just traded it away
+[16:52:21] Nestor3690: I guessed it, that's why I wasn't so happy with 14...g5, I wanted to move my knight first but couldn't find a way
+[16:52:51] Nestor3690: I didn't want it to end up too far on the queenside
+[16:55:08] Nestor3690: Alright, I will need to go now, thanks again for the game and good luck for the remaining games!
+[16:55:23] Joonaf: thank you, and good luck to you too! :)
+[16:56:09] Nestor3690: Thanks, bye!
