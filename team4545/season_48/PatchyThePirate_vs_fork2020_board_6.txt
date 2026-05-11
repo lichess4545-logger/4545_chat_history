@@ -1,0 +1,164 @@
+Lichess game chat log
+Game      : https://lichess.org/DTOSy8Vh
+White     : patchythepirate
+Black     : fork2020
+Time      : 45+45
+Captured  : 2026-05-11 01:27:05 UTC
+Game ended : 2026-05-11 00:07:00 UTC
+Messages  : 154
+────────────────────────────────────────────────────────────
+
+[22:03:28] compact-hausdorff: (1. e4) best by test! go patchy!
+[22:03:44] GoldenRetrieverChess: Goooo fork!
+[22:03:44] fork2020: ...1. Hello compact-hausdorff, MrScribbles, and GoldenRetrieverChess!
+[22:03:44] jcarmody: Arrrrrrrr. Go, patchy!
+[22:03:59] fork2020: ...1. And hello jcarmody!
+[22:05:15] fork2020: ...1. Playing 4545 about half an hour after my Lonewolf game ended, while half asleep. Nothing can go wrong, right?
+[22:05:30] fork2020: ...1. Hello NaveenGeorge!
+[22:05:45] guitarspider: (1...e5) go patchy!
+[22:05:45] jcarmody: Hey, fork. GL
+[22:05:45] fork2020: 2. Hello guitarspider!
+[22:06:31] fork2020: ...3. Well, it looks like my opponent might have prepped for me!
+[22:06:31] guitarspider: (3.d4) sorry fork, have to root for the pirate here
+[22:06:46] Mennonite: go fork!
+[22:07:01] fork2020: ...3. But unlike in my blitz catastrophes, I have 45 minutes to navigate this!
+[22:07:01] fork2020: ...3. Hello Pope 123 and Mennonite!
+[22:07:17] fork2020: ...3. Hello BLang316!
+[22:07:17] guitarspider: (3.d4) If he starts thinking for twenty minutes on move 4 I'm going to bed :D
+[22:07:32] Mennonite: Go ahead and get your pajamas on then.
+[22:08:33] jcarmody: Bed?!! It's only 6 PM.
+[22:08:33] fork2020: ...3. Taking usually leads me to disaster, but everything else usually does, so...
+[22:08:48] guitarspider: (3...exd4) midnight here
+[22:09:03] PatchyThePirate: ahoy FENs! thanks for tuning in
+[22:09:49] Pope123: (4.e5) Go Patchy
+[22:09:49] fork2020: ...4. I usually play Nd5, but do I have any alternatives?
+[22:10:34] fork2020: ...4. Maybe Ne4-c5?
+[22:10:50] Silkthewanderer: Ho Patchy
+[22:11:20] fork2020: ...4. That might be safer, or maybe it gives up too much tempo?
+[22:11:35] fork2020: ...4. Hello Silkthewanderer!
+[22:12:06] fork2020: ...4. Okay, I'm just doing it. Hopefully this doesn't backfire!
+[22:18:57] fork2020: ...6. Alright, what do I want to play next?
+[22:19:27] fork2020: ...6. Maybe Nc6, since it comes with a tempo.
+[22:19:57] fork2020: ...6. Or maybe d6 first?
+[22:19:57] PatchyThePirate: i should have spent more time on 4... Ne4 lines. I was anticipating 4... Nd5 based on my opp's game history, but Ne4 is more accurate
+[22:21:14] guitarspider: (6.Nc3) should already be quite a bit better, play sound chess and it'll work out :)
+[22:22:14] fork2020: ...6. Hello What_Are_Lurs and stevenlongs!
+[22:22:30] compact-hausdorff: (6. Nc3) this is what I'm talking about. nice, simple, low cortisol chess
+[22:23:00] compact-hausdorff: (6. Nc3) breath of fresh air after silk's immortal
+[22:30:52] fork2020: ...7. Well, I guess I'm developing my bishop to b7 now!
+[22:36:11] fork2020: ...7. I'm thinking maybe Ne6 to allow d6.
+[22:36:11] fork2020: ...7. Hello jg777!
+[22:36:42] MrScribbles: (7.Qe3) Try Nb4, maybe they wont' notice
+[22:38:59] BLang316: Go fork!
+[22:42:01] fork2020: ...8. Can somebody please keep an eye on the chat? I saw what happened to the chats of other games in this match!
+[22:43:48] jcarmody: https://github.com/lichess4545-logger/4545_chat_history/tree/main
+[22:44:03] jcarmody: For now, that collects all of the chat history.
+[22:44:49] fork2020: 9. Hello Feet_Barbie!
+[22:45:04] Feet_Barbie: (9...Bd7) hello fork playing quickly today
+[22:48:52] Mennonite: "resilient" is the word that i would associate with the Black setup
+[22:49:38] fork2020: ...10. Do I play a6?
+[22:50:39] jg777: So is the trick for Fork to play a warm up game before his TL game so he plays faster early on? :D
+[22:51:09] fork2020: ...10. Nb4 Qe4 d5 might be interesting.
+[22:51:25] Mennonite: That lonewolf game was really cool, his King glided across the board out of danger
+[22:52:10] PatchyThePirate: 10. Bd2 to continue development while Black is figuring out how to find safety for their king
+[22:52:25] jg777: Yeah I don't quite understand how fork gets into weird chaotic positions and somehow comes out on top.
+[22:52:56] fork2020: ...10. Maybe Nb4 Qe4 if I play Bxb5 then, Nxb5 d5 wins the pawn?
+[22:53:26] jg777: I know how he has been working on calculation and visualization a lot recently, so I guess that is helping out a lot.
+[22:53:57] jg777: I'd find his games quite stressful and probably blunder left and right.
+[22:53:57] fork2020: ...10. I don't think I'm missing anything, so I think I might try it.
+[22:54:42] jg777: But maybe the LW time control will speed him up this game since he is used to coming off a faster game pace
+[22:55:13] jg777: It was a good game though, I hope he saved enough mental energy for this one. :)
+[22:56:29] jg777: I don't think I'd want to play two league games nearly back to back myself. Sounds exhausting.
+[22:56:44] fork2020: ...12. That would be the minor detail that I was missing.
+[22:57:00] Mennonite: I essentially did that between last night and this morning, on maybe 5 hours of sleep. Not fun. But a younger player could probably get away
+[22:57:30] fork2020: ...12. Maybe d5 anyway?
+[22:59:01] jg777: Yeah, fork says playing chess energizes him or something earlier today.
+[22:59:17] jg777: Or wakes him up I believe he said
+[22:59:32] Mennonite: I think there's significant merit to d5
+[22:59:47] jg777: I like d5.
+[23:00:33] jg777: Puts some questions to patchy and frees his position up a bit too.
+[23:01:18] fork2020: 13. I'm probably winning a2, but we'll see if I can take more.
+[23:02:34] fork2020: 13. Only one hour in, and I'm already liking my position!
+[23:03:35] fork2020: 13. Hello pepepibote!
+[23:03:51] compact-hausdorff: (13. a3) good find by white
+[23:03:51] pepepibote: Hey fork
+[23:04:06] Mennonite: I don't know if this makes any sense but that d pawn feels like it has all the benefits of an isolani
+[23:04:06] compact-hausdorff: (13...d4) it's in the name!
+[23:04:06] Mennonite: Without actually being one
+[23:04:21] compact-hausdorff: (13...d4) now probably N:d4 only move
+[23:04:21] PatchyThePirate: perhaps going for the pawn doubling with 9. Bxc6 was the cleaner way to go, but alas
+[23:06:23] jg777: And they say, take, take, take.
+[23:07:54] jg777: Needs to be a bit careful with the D file and c3 ideas. Also king is getting a little airy.
+[23:08:09] fork2020: ...16. I think that I can castle queenside safely.
+[23:09:10] jg777: What’s this, 21 minutes for fork and it’s move 16!
+[23:09:41] jg777: I don't recall the last time I saw him with that much time so late in a game! :)
+[23:12:28] jg777: I wonder if Ne4 for white has anything, looks like white might be able to pressure on the D file perhaps
+[23:13:29] jg777: Maybe Nf5 here works? Nf5 queen move, BxB then move queen?
+[23:14:45] compact-hausdorff: (17...B:d2) Nf5 probably ran into Q:a7
+[23:15:00] compact-hausdorff: (17...B:d2) looking scary for B
+[23:15:46] jg777: Yeah I forgot a7 hangs there.
+[23:16:01] jg777: But this doesn't look like it works after Rxd2? with c3 coming?
+[23:17:48] jg777: I guess Qa4?
+[23:18:18] compact-hausdorff: (18...Qa4) b3 Qa3!
+[23:18:18] Mennonite: seems like the best try
+[23:18:49] Mennonite: Good spot
+[23:19:19] fork2020: 19. If b3, I have Qa3.
+[23:19:49] Mennonite: And this so happens to cover a7. Amazing
+[23:19:49] jg777: Well good that fork see’s it.
+[23:28:27] fork2020: 22. Hello Anonymous!
+[23:28:42] fork2020: 22. The threat of back rank mate limit's white's options.
+[23:32:15] PatchyThePirate: dang i have my own back rank issues!
+[23:34:47] Mennonite: I have seen quite a few losses by Anonymous in my chess books. They are very resilient and keep coming back for more
+[23:36:49] fork2020: ...24. Hello d0wnh0me!
+[23:38:20] Mennonite: Qa1 seems to suggest itself because the queen can probably do the most defensively from e5, no?
+[23:38:36] jg777: I thought Qa1+ Nf1 Qxe5 was stronger
+[23:38:36] PatchyThePirate: whoa i was expecting either 24... Qa1+ or 24... Qc1+, winning a pawn
+[23:38:51] compact-hausdorff: (24...Qe7) after Q:e5 I think white has Qd3 picking up h7
+[23:39:21] jg777: Sure but I'll trade e5 for h7 for black.
+[23:40:07] compact-hausdorff: (25...Nc6) probably... feels very draw-ish regardless
+[23:40:37] compact-hausdorff: (25...Nc6) 24. Nd2 was a superb move!
+[23:41:54] fork2020: 27. Allowing e6 might have been a huge mistake.
+[23:42:09] fork2020: 27. This is why you pay attention to move order, everyone!
+[23:44:41] jg777: I don’t know if it was enough to win, but I'd have looked at e6 there. If white gets f5 to create a protected passer there, surely good.
+[23:47:13] jg777: Maybe it isn't a huge deal but I still would have preferred Qa1+ and taking e5, allowing h7 to fall.
+[23:48:44] fork2020: 30. I think I miscalculated this.
+[23:50:31] fork2020: 32. This should be fine now.
+[23:51:17] fork2020: 32. Qxf7+ Kxf7 Nxe5+ Nxe5 fxe5 Ke6 and I win e5 back.
+[23:51:47] fork2020: 32. And my outside a-pawn means that I shouldn't be able to lose the resulting pawn endgame.
+[23:52:18] fork2020: 32. Although you never know with the h-pawn.
+[23:53:03] fork2020: 32. Hello Oachkatzerschwoaf!
+[23:54:19] jg777: Hmm but no guarantee white obliges and trades all the pieces off there.
+[23:55:35] jg777: But patchy does it seems.
+[23:55:35] Oachkatzerlschwoaf: why did they take with the N
+[23:56:36] jg777: I don't know. I wouldn't have been quick to trade pieces there as white myself.
+[23:57:07] fork2020: 37. Should be a draw.
+[23:57:52] Oachkatzerlschwoaf: idk white has done everything to lose
+[23:58:08] Oachkatzerlschwoaf: this might be lost for white
+[23:58:53] Oachkatzerlschwoaf: already here you need to go c4 yeah?
+[23:58:53] Oachkatzerlschwoaf: but then c6
+[00:00:40] jg777: Yeah I suspect the question is can white either trade off the black g pawn or created a protected h pawn passer; otherwise I think black
+[00:00:40] jg777: Can win.
+[00:00:55] Mennonite: I think Black is fast enough
+[00:01:25] Oachkatzerlschwoaf: i think c4 was required
+[00:01:25] Feet_Barbie: (37...b5) oh well why not fxe5 earlier
+[00:01:25] Oachkatzerlschwoaf: now black just crashes through
+[00:01:41] fork2020: 38. I'm pretty sure I'm winning now.
+[00:01:56] jg777: Oh actually white can't even go for the connected passer since g5 Kf5.
+[00:02:11] Oachkatzerlschwoaf: yeah
+[00:02:11] Oachkatzerlschwoaf: ggs
+[00:02:11] jg777: So fork should win here. Crazy.
+[00:02:26] Mennonite: White can resign
+[00:02:57] fork2020: ...46. And I defend c7 in time.
+[00:03:27] Feet_Barbie: (46...Ke6) do u even need to
+[00:03:27] Feet_Barbie: (46...Ke6) ahah
+[00:04:43] jg777: Yeah I don't think he needed to worry about the c7 pawn and just push the g pawn earlier but roads to Rome and all
+[00:05:44] PatchyThePirate: dang sorry team -- i think i lost this one
+[00:06:15] jcarmody: That's arrrrrrrrrrrrrrrrright, Patchy.
+[00:06:30] GoldenRetrieverChess: GGs
+[00:06:30] stevenlongs: gg
+[00:06:30] compact-hausdorff: gg
+[00:06:30] Mennonite: gg
+[00:07:31] jg777: Good games today and good match. On to the next round tomorrow!
+[00:12:50] PatchyThePirate: thanks for tuning in! i thought the K+P endgame would be winning for me... seeing ghosts. i shouldn't have traded everything...
+[00:15:22] fork2020: Did I never welcome you to the game, stevenlongs? If so, sorry about that!
+[00:18:40] stevenlongs: all good sir, well played!
