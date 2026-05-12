@@ -1,0 +1,26 @@
+Lichess game chat log
+Game      : https://lichess.org/2cELilQt
+White     : harald1309
+Black     : nguyencaptures
+Time      : 45+45
+Captured  : 2026-05-12 14:50:18 UTC
+Game ended : 2026-05-12 13:30:13 UTC
+Messages  : 16
+────────────────────────────────────────────────────────────
+
+[12:59:16] Minot: Go nguyen
+[13:01:48] bufferunderrun: let's go nguyencaptures!
+[13:02:49] bufferunderrun: I think 3...Nxe4 is pretty normal
+[13:06:53] Minot: does this count as kings gambit :d
+[13:06:53] bufferunderrun: 6...Bxg1 seemed interesting, like Rxg1 Nfg4
+[13:08:24] bufferunderrun: with Qf6, but need to calculate things like Bxf7+, Nd5
+[13:09:25] LeporEd: Go Harald! :)
+[13:10:56] bufferunderrun: the problem with Qe7 is that after Bg5 h6, there is no h6 square for the knight
+[13:11:11] bufferunderrun: or just simply Qe2 instead of Bg5
+[13:11:42] bufferunderrun: so... basically, black has to take on e5
+[13:13:28] bufferunderrun: so Qxg4, Nxc3, Bd2
+[13:18:02] bufferunderrun: if d5 instead of Nxc3 then I think Qf4 was alright
+[13:21:20] bufferunderrun: 11.Qxg7 was probably fine, e.g. Qh4+ Kf1 Rf8 Nf3
+[13:22:51] bufferunderrun: pretty much lost for black now
+[13:30:13] bufferunderrun: gg
+[13:30:28] nguyencaptures: yeah, i don’t think i had any prep or straight-up forgot my prep
