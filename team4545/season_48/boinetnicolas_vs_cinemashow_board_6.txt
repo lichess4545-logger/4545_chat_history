@@ -1,0 +1,161 @@
+Lichess game chat log
+Game      : https://lichess.org/qZPGgfGr
+White     : boinetnicolas
+Black     : cinemashow
+Time      : 45+45
+Captured  : 2026-05-12 22:16:45 UTC
+Game ended : 2026-05-12 20:56:41 UTC
+Messages  : 151
+────────────────────────────────────────────────────────────
+
+[19:01:14] boinetnicolas: cinemashow has been one of my closest friends in this League, so it's exciting to get to face him !
+[19:20:02] guitarspider: (9.O-O) go cinema
+[19:20:17] boinetnicolas: 9. O-O So far so good, it's an interesting position but not overly complex
+[19:21:48] guitarspider: (9.O-O) 0-0 might have been early, I would certainly think about g5 here as black
+[19:24:05] boinetnicolas: 9... g5 do i do the funny ? sac the knight ?
+[19:24:20] boinetnicolas: looks a lot more exciting than not saccing
+[19:25:06] guitarspider: (10.Nxg5) without black castling this sac should be bad
+[19:25:21] nyanners: unpromising
+[19:25:37] nyanners: rg8 after might refute unless theres some detail
+[19:25:52] guitarspider: (10.Nxg5) yeah
+[19:26:07] boinetnicolas: Over the course of the last two seasons, I'm pretty sure I've sacc'd one piece on average per game. Something like that
+[19:26:22] boinetnicolas: My final game of last season featured a knight sac and two rook sacs ! I love sacrifices
+[19:27:08] nyanners: best way to figure out when it doesnt work..
+[19:27:08] nyanners: i like it
+[19:27:38] nyanners: in general, if its unclear to you, it will also be unclear to your peers. then it comes down to your personal risk aversion
+[19:27:54] nyanners: theres probably a case for risk lovers here
+[19:28:54] guitarspider: (10.Nxg5) I guess you can gamble on black being paniced
+[19:29:40] guitarspider: (10.Nxg5) but Black can't even reasonably leave the knight here to go Rg8 or something, Nxe6 just loses another pawn
+[19:30:56] nyanners: i mean, the case for risk-loving is general. this specific instance yea should be bad
+[19:31:42] guitarspider: (10...Bxc4) huh, Nxf7 is probably way too much but it does seem to get messy
+[19:31:42] nyanners: and black doesnt bluff call.. not immediately
+[19:31:57] nyanners: possibly rewarded
+[19:31:57] guitarspider: (10...Bxc4) yep
+[19:32:12] nyanners: i wouldnt do xf7 because of Bxf7 back
+[19:32:43] guitarspider: (12.Bxg5) I was trying to figure out if Qf3 went anywhere after Bxf7 but it probably does not
+[19:32:43] nyanners: i was looking at 11 Nf3 with the idea of Nd5. Bxd5 exd5 and if Nd4 Nxd4 then white has Qf3
+[19:33:28] guitarspider: (12.Bxg5) interesting, I don't think Nf3 would have occured to me
+[19:33:28] nyanners: Bxf7 Qf3 is a bit complicated if black wants to be maximal but could just go Nd4
+[19:33:59] nyanners: kinda forcing Qxf6 and black has a really good piece for 2p
+[19:33:59] guitarspider: (12.Bxg5) yeah, it felt wrong somehow
+[19:34:29] nyanners: i mean the point of Nf3 is basically that Rg8 is too good
+[19:35:00] nyanners: so we are just keeping the pin really
+[19:35:15] guitarspider: (12.Bxg5) I like it
+[19:35:45] nyanners: Rg8 still is too good here probably :o
+[19:36:16] guitarspider: (12...Rg8) If it didn't come with tempo White would have something alright
+[19:36:46] boinetnicolas: 13. h4 looks very tempting
+[19:37:02] nyanners: yea then black always has Rxg5
+[19:37:17] nyanners: the bail tends to be in black's favour
+[19:37:32] nyanners: thats what Nf3 tries to avoid
+[19:37:47] guitarspider: (12...Rg8) Black's bishop is going to be annoying forever
+[19:43:53] guitarspider: (13...Nd4) that knight might be trapped after Nd5 Rxg5 hxg5, can't exchange on d5
+[19:44:08] guitarspider: (13...Nd4) luckily e4 is hanging then
+[19:44:23] nyanners: sounds about right
+[19:45:09] Oachkatzerlschwoaf: go cinemashow!
+[19:48:27] boinetnicolas: 17. Qh5 ? Does this work ?
+[19:48:57] boinetnicolas: Doesn't look like it since black just plays Nxg5
+[19:50:43] guitarspider: (17...Qxf6) looking very good for cinema now
+[20:05:57] guitarspider: (21...Rg7) not even b4 and c5 works against that bishop
+[20:06:12] guitarspider: (21...Rg7) Qh3 Nf4 is kinda funny
+[20:06:42] nyanners: yea seems like death
+[20:06:42] nyanners: qe2 same and qd1 has qxh4
+[20:06:58] boinetnicolas: 21... Rg7 this is not good
+[20:06:58] guitarspider: (21...Rg7) yeah, this is very close to over
+[20:07:13] nyanners: qf3 and hope black trades instead of qxh4 XD
+[20:07:28] guitarspider: (21...Rg7) Qf3 Nf4 anyway :D
+[20:07:43] nyanners: possibly but seems less clear
+[20:07:58] HighonPotnuse: go cinemashow!
+[20:07:58] guitarspider: (21...Rg7) for sure
+[20:08:14] guitarspider: (21...Rg7) but Black can already get away with a lot
+[20:08:14] nyanners: might be a good insertion
+[20:09:45] guitarspider: (21...Rg7) I think I prefer Qxh4 and then eventually Ng5-f3/h3
+[20:10:31] boinetnicolas: I've got two completely useless pawns lol
+[20:15:05] guitarspider: (22.Qf5) Qxh4 Rf3 Nf4 :D
+[20:18:38] MrScribbles: (22...Qxh4) What does white do about Rh7 next?
+[20:18:53] MrScribbles: (22...Qxh4) oh, would just be gxh4 lol
+[20:19:08] guitarspider: (23.Rfd1) yeah :D
+[20:19:08] cinemashow: (22...Qxh4) do I have Rxg3 next?
+[20:19:23] MrScribbles: (23.Rfd1) hi spitters_glitter
+[20:19:23] guitarspider: (23.Rfd1) hi
+[20:19:39] guitarspider: (23.Rfd1) this is going to end spectacularly
+[20:19:54] guitarspider: (23.Rfd1) he does indeed have Rxg3
+[20:20:09] MrScribbles: (23.Rfd1) oh, oopsies
+[20:20:24] guitarspider: (23.Rfd1) winning another pawn basically
+[20:20:39] guitarspider: (23.Rfd1) or he can keep building with Nf4 because why not
+[20:20:55] guitarspider: (23.Rfd1) or Qh6 threatening Rh7
+[20:21:40] guitarspider: (23.Rfd1) I think I'd go Nf4, it prevents Kf1
+[20:22:41] guitarspider: (25.Kf1) Black should keep the queen I think
+[20:22:56] guitarspider: (25.Kf1) so Qh4 maybe
+[20:23:12] guitarspider: (25.Kf1) then Nf4 threatens Qxf2
+[20:27:46] cinemashow: (25...Qh2) hoping to get knife f4 next
+[20:29:32] guitarspider: (26.b4) the reason I preferred Qh4 is because there's no Qg5+ after Nf4 then
+[20:29:32] guitarspider: (26.b4) but it probably doesn't matter
+[20:34:06] boinetnicolas: do i get anything for tripled pawns ? or does my opponent ?
+[20:35:53] cinemashow: (29...Qxe4) tense
+[20:38:25] guitarspider: (30...Kc6) unnecessary piece sac, all of a sudden this is a lot more exciting
+[20:38:55] guitarspider: (31.cxd6) Qh1#
+[20:39:11] guitarspider: (31.cxd6) almost :D
+[20:39:26] boinetnicolas: omg
+[20:39:26] boinetnicolas: i miscalculated
+[20:39:41] boinetnicolas: there goes my queen
+[20:39:41] guitarspider: (31.cxd6) Qxc4+ Kg1 Ne2+ wins the queen
+[20:40:11] boinetnicolas: wait maybe not
+[20:40:27] guitarspider: (31.cxd6) Qxc4+ Ke1 Nd3+ also wins the queen
+[20:40:57] jfiras: (31.cxd6) oh very nice, i didn't notice that
+[20:42:28] guitarspider: (31.cxd6) it's possible to find it, but maybe not easy
+[20:42:44] jfiras: (31...Qh1+) oh
+[20:44:00] guitarspider: (33.Ke1) ok, going for c3?
+[20:47:33] nyanners: maybe black is Too Winning
+[20:47:48] guitarspider: (34.Rd2) it's pretty messy now
+[20:48:34] nyanners: white's chances must have improved a bit but i dont see any actual play for white
+[20:49:04] guitarspider: (34.Rd2) Qc1 Rd1 Qxc4 threatening mate?
+[20:49:50] guitarspider: (35.Rd1) idk, the d6 pawn could be a hug problem with one wrong move
+[20:49:50] guitarspider: (35.Rd1) *huge
+[20:51:06] nyanners: yea im probably taking
+[20:51:52] nyanners: though you could get frisky with Qxc4 threatening m1..
+[20:52:07] guitarspider: (36.Rd2) I guess White can't play Qxc4 Qf1 because of Qe4+ and then black can take on d6
+[20:52:37] nyanners: maybe b takes a draw? :D
+[20:52:53] nyanners: i wont read this initial repetition for meaning anything yet
+[20:53:08] guitarspider: (36.Rd2) seems more likely that this was the plan to enable taking on d6
+[20:53:23] guitarspider: (36...Nd3+) but maybe I'm just hopeful :D
+[20:53:23] guitarspider: (36...Nd3+) ooo
+[20:54:24] guitarspider: (36...Nd3+) Ke2, what are we doing?
+[20:54:24] nyanners: umm this commits to Nc1+ because then we are actually repeating XD
+[20:54:24] nyanners: 3 times same FEN etc
+[20:54:54] nyanners: maybe black is fine with repeating. i dont like it but.. kinda fair
+[20:55:10] guitarspider: (37.Ke2) is e4 possible?
+[20:55:25] nyanners: i was more inclined towards qxc4 and then e4
+[20:55:40] guitarspider: (37.Ke2) oh, right
+[20:55:40] nyanners: not sure because i mean that just gets the exchange back
+[20:55:55] nyanners: okay there it goes
+[20:56:11] nyanners: gg
+[20:56:11] guitarspider: gg
+[20:56:11] jfiras: gg !
+[20:56:26] Scarff: gg!
+[20:56:41] Scarff: That was a tricky survival challenge at the end!
+[20:56:41] nyanners: okay theres a bunch of other weird moves apparently XD
+[20:57:11] boinetnicolas: Tense game !
+[20:57:27] guitarspider: wow, Nc1+ Kd1 Nb3
+[20:57:27] guitarspider: I did not see that
+[20:57:57] boinetnicolas: I don't even see how that works
+[20:58:12] nyanners: dual threat of mate and Qa1
+[20:58:43] cinemashow: I thought about Nc1+ but didn't see what after Kd1
+[20:58:43] nyanners: so okay white plays Qg2+ and.. yea thats weird
+[20:58:43] boinetnicolas: After Qg2+ followed by either f3 or Qd5 you're protected though, right ?
+[20:59:28] boinetnicolas: Seems cinemashow and I both missed each other's critical moves, Rxg3+ and Qg5+, respectively
+[20:59:28] cinemashow: whatever, it was a very fun game
+[20:59:43] guitarspider: winning the queen earlier was definitely easier than the Nc1-b3 line :D
+[20:59:43] boinetnicolas: That opening was super tense, too ! I'm glad I sacc'd
+[20:59:59] guitarspider: very entertaining game, thanks both
+[21:00:14] cinemashow: we were teammates the first time we ever played as full time players!
+[21:00:29] nyanners: i was thinking more along the lines of Nc1+ Kd1 Qa1 Qg2+ Kb6 d7 Nd3+ which works but.. Qa1 Kc2 okay
+[21:01:30] guitarspider: Kc2, what a move
+[21:01:30] nyanners: because Qa1 Kc2 Qa2+ Kxc1! and white has d7 after Qa1+-Qxg1
+[21:02:00] nyanners: which is like, not that difficult, but more difficult from afar
+[21:02:16] nyanners: and the position just looks too loose
+[21:02:46] boinetnicolas: Maybe this will end my sacrifice streak lol
+[21:04:32] nyanners: idk you get to live without regrets
+[21:04:48] nyanners: now you learn what went wrong
+[21:05:03] nyanners: or not.. thats fine too
+[21:06:49] boinetnicolas: I didn't have the necessary pressure. Without Nd5 there wasn't much followup
+[21:12:24] cinemashow: at the end, I don't think I could fully work it out as I was partly worried about your d-pawn promoting
