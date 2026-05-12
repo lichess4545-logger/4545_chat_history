@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/1x1oIJpf
+White     : klausza
+Black     : ascannerdarkly
+Time      : 45+45
+Captured  : 2026-05-12 21:35:29 UTC
+Game ended : 2026-05-12 20:15:24 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[18:42:33] Leverkuhn: White's 10.Nd5 looked exciting but didn't actually lead anywhere, and now he's lost a pawn
+[18:46:21] Leverkuhn: 15...c5!? unexpecte move; I guess the point is that White's pawns end up doubled after 16.Nb5 a6 17.Nc3
+[18:46:52] Leverkuhn: White didn't fall for that, and now Black has to justify the weakness he's created
+[18:47:52] Leverkuhn: maybe 16...b6 and ...Bb7 now with the long diagonal harder for White to contest
+[18:47:52] Leverkuhn: this was indeed the idea
+[18:59:18] Leverkuhn: might have been interesting to play 18...Qf6 to play ...Nc3 in case the b-pawn moved
+[19:00:34] Leverkuhn: 19...d5 seems a little loose, especially played so quickly
+[19:00:49] Leverkuhn: why not 19...Rfe8?
+[19:01:19] Leverkuhn: White has all kinds of e-file tactics now like 20.cxd5 Bxd5 21.Bxh6!?
+[19:02:20] MrMontyBurns: I don't think white has anything there's always Rxd1
+[19:02:51] MrMontyBurns: But smells like tactics for sure
+[19:07:10] MrMontyBurns: So complicated
+[19:15:47] Leverkuhn: yes good point--the ...Rxd1 wrinkle is frustrating White in a lot of lines
+[19:18:34] Leverkuhn: 23.Nxe4 fxe4 seems to win for Black now with the attack on f4, so I guess 23.Bxe4 has to be tried
+[20:00:26] MrMontyBurns: (33... Qe5) Feels like anyones game at this point, but I would guess it's winning for black
+[20:01:12] Leverkuhn: White still fighting for sure
+[20:01:27] KlausZA: Qe3+ was lights out
+[20:01:58] Leverkuhn: why so?
+[20:02:13] Leverkuhn: d6 would also drop and queen endings with no king safety are never safe wins
+[20:03:14] Leverkuhn: I like what scanner did and now I think 35...Nf7 is tempting to cover e7 and aim for e5
+[20:03:29] Leverkuhn: White will respond 36.f4 however
+[20:03:59] Leverkuhn: oof I don't like 35...Nc4--isn't this a perpetual?
+[20:05:15] Leverkuhn: I guess 36.Bxc4 d3+ 37.Kf1 Qxc4 38.Qe7+ Kg8 39.Qe8+ Kg7 40.Qe7+ Qf7 is the idea, but I'm not convinced
+[20:05:31] Leverkuhn: okay he didn't throw the check in
+[20:08:03] MrMontyBurns: (38... Kg7) Qd7 Kh5, Qe7 Qf7 I think black is find
+[20:08:03] MrMontyBurns: *fine
+[20:08:49] MrMontyBurns: The d pawn is scary
+[20:10:50] Leverkuhn: after 39...Kh6, maybe best for White is a mate threat on the back rank: 40.Qd8 or something
+[20:11:36] Leverkuhn: yep, Black is totally out of tries now
+[20:11:51] MrMontyBurns: Yeah missed that
+[20:13:07] MrMontyBurns: Maybe Qc1+ Qe3/f4+ Qe5 to saveguard
+[20:13:07] MrMontyBurns: But still Qf8 there...
+[20:13:53] Leverkuhn: if he'd thrown in the 36...d3+ intermezzo he could try ...Qc1+-xb2 or something
+[20:14:39] Leverkuhn: oh my
+[20:14:54] Leverkuhn: that's a painful loss indeed
+[20:14:54] MrMontyBurns: easy to miss
+[20:14:54] MrMontyBurns: gg
+[20:14:54] Leverkuhn: gg
