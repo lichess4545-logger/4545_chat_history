@@ -1,0 +1,148 @@
+Lichess game chat log
+Game      : https://lichess.org/NMhoyum1
+White     : nubro
+Black     : psymar2
+Time      : 45+45
+Captured  : 2026-05-12 21:48:33 UTC
+Game ended : 2026-05-12 20:28:27 UTC
+Messages  : 138
+────────────────────────────────────────────────────────────
+
+[18:26:26] bronasberger: Go PsyMar2!
+[18:36:34] ecoarrivazumashoomzo: go Nubro!
+[18:36:50] PsyMar2: The line I'd studied was with 5.e4 not 5.e3 but this feels like a strict improvement for me as in no lines would I target d4 anyway
+[18:37:05] PsyMar2: Also that line goes 7.Na2, not 7.Nb1
+[18:37:35] PsyMar2: This is about as far as I've studied it I think, but I'm happy with this position as of Bxc4
+[18:39:07] PsyMar2: of course, I'm also terrible at remembering my prep, so possibly I remember all this completely wrong
+[18:39:22] PsyMar2: or possibly the pawn being on e3 has hidden strategic advantages that are not yet apparent
+[18:39:37] PsyMar2: but I think it was supposed to be on e4 partly to stop Bf5, so
+[18:41:54] PsyMar2: [8...Bf5] we'll also have to see if I can actually figure out how to play given an opening advantage.
+[18:41:54] PsyMar2: usually I'm losing out of the opening and have to claw back
+[18:44:41] PsyMar2: if I were white here I'd probably go 9.O-O e6 10.e4 just to get teh queenside out
+[19:17:25] ecoarrivazumashoomzo: 15) def preffered qf3, i think bf5 was rushed
+[19:19:12] PsyMar2: [15.Qh5] I just realized all my calculations about the pawn being safe because the knight needs to guard the bishop were wrong
+[19:19:27] PsyMar2: because the knight, if White took on c6, would have been attacking the queen
+[19:19:27] PsyMar2: fortunately I can solve that and the mate threat at once
+[19:30:52] ecoarrivazumashoomzo: 17) interesting game!
+[19:31:53] ecoarrivazumashoomzo: i think rxe5 is good 18
+[19:36:57] PsyMar2: oh no.  I should've let that cook longer
+[19:37:43] PsyMar2: [19.Rxe6+) yep.  that's why
+[19:38:44] PsyMar2: I had been considering, and perhaps should have played, 18...O-O-O
+[19:44:19] ecoarrivazumashoomzo: 20) bg5+s provocative
+[19:44:49] ecoarrivazumashoomzo: kc8 we move the rook
+[19:44:49] ecoarrivazumashoomzo: f6 bh4
+[19:46:36] ecoarrivazumashoomzo: saccing h2 apparently ;) maybe no reason to go to h4
+[19:47:37] jfiras: (20...f6) i am considering rxf6 but idk
+[19:47:37] ecoarrivazumashoomzo: yh im just seeing it
+[19:48:07] ecoarrivazumashoomzo: i think it just wins material
+[19:48:22] ecoarrivazumashoomzo: cos kd7 theres qf7+
+[19:48:37] jfiras: (20...f6) yes
+[19:49:23] ecoarrivazumashoomzo: potential for bxh2+ somehwere then you can move the king up and take on h8
+[19:49:38] ecoarrivazumashoomzo: but i think we're up apwns in rvr endgame
+[19:49:38] ecoarrivazumashoomzo: awns* RvR
+[19:49:54] ecoarrivazumashoomzo: pawns*
+[19:50:24] PsyMar2: chat, am I cooked
+[19:50:39] ecoarrivazumashoomzo: u have to do it right away after rf6 tho
+[19:50:39] ecoarrivazumashoomzo: if it works
+[19:50:54] PsyMar2: I think i'm about 80% cooked.  It'd be closer to 95% if my opponent wasn't about to get low on time
+[19:51:40] ecoarrivazumashoomzo: 6 to 4
+[19:51:40] ecoarrivazumashoomzo: and passer on f5
+[19:52:11] ecoarrivazumashoomzo: what a game!
+[19:53:27] ecoarrivazumashoomzo: a problem might be this: 21) rcxf6 bxh2+ kh1 can black actually take on f6?
+[19:53:57] ecoarrivazumashoomzo: ok rae1 is stunning if it works
+[19:57:30] PsyMar2: [21.Rae1] Okay I can't take the bishop... but I think I'm about to do what's called a pro gamer move
+[19:57:30] ecoarrivazumashoomzo: if 21..bxh2 kh1 how does black get out
+[19:59:02] ecoarrivazumashoomzo: 21) kc8 seems good
+[20:03:05] ecoarrivazumashoomzo: 23) bf4! this is just incredible
+[20:03:51] ecoarrivazumashoomzo: ouch doesnt seem to work tho
+[20:03:51] jfiras: (23...Rhxe8) i don't understand bf4, seems like giving a free piece ?
+[20:04:06] PsyMar2: [23.Bf4] I believe that's the low on time kicking in for my opponent
+[20:05:53] ecoarrivazumashoomzo: if u had bd6 youd be okay
+[20:06:08] ecoarrivazumashoomzo: but rxe8 is mate threat
+[20:08:10] jfiras: (26.Qe4) another pawn
+[20:08:10] PsyMar2: [25...Bxf4] We take those.  In more ways than one
+[20:09:26] jfiras: (26...Bd6) :o
+[20:13:44] PsyMar2: If I'm not mistaken, Qe7 forces the queen trade to avoid checkmate...  so I better take my time here and make sure
+[20:26:41] PsyMar2: I probably could win with just the queenside pawns... but it feels  annoyingly stalemateable, and I'm tired, so why bother
+[20:29:59] Nubro: Too bad my attack did not work out. Well defended and wp in endgame was trying to stalemate indeed
+[20:33:01] PsyMar2: Yeah, I can't seem to win a game where I'm ahead out of the opening without first losing it
+[20:33:31] PsyMar2: Now that I think about it I'm not sure stalemate was a concern since your gpawn can still move
+[20:34:47] PsyMar2: apparently the computer wants 13...Nxe5 and trade queens because your qside is still kinda horrible
+[20:35:03] PsyMar2: like that bishop is never going much of anywhere and the rook will struggle too
+[20:35:18] PsyMar2: and I did consider playing that, in retrospect I overvalued my own attacking ideas
+[20:36:03] PsyMar2: ...And apparently I *wasn't* winning out of the opening, only equal, except for that one chance to trade the pieces on move 13
+[20:36:49] PsyMar2: in retrospect, I am not sure why I rejected 20...Kc8
+[20:37:04] PsyMar2: and thought I had to play f6 first
+[20:37:35] PsyMar2: I had, however, planned for 22.Re8 and 23.Bf4, that's what cost you the game
+[20:38:36] PsyMar2: computer seems to think your attack is good but you had to be just a bit more patient with it
+[20:38:51] PsyMar2: g3 at some point woudl definitely have prevented the back rank shenanigans that let me win the bishop and later trade queens
+[20:39:21] PsyMar2: sometimes it's worth taking a turn off from attacking just to make sure you don't lose
+[20:40:07] PsyMar2: even if there's a line where you can attack without making space for the king...
+[20:40:07] PsyMar2: ...if you just push g3 you no longer have to worry about calculating it
+[20:40:37] PsyMar2: plus, even if your attack fizzles, as long as it doesn't backfire -- you're up a pawn!
+[20:41:08] Nubro: Yes true. I had to be more patient
+[20:41:23] Nubro: Also a bit low on time so I missed the mate threat after playing Bf4
+[20:42:24] Nubro: Was debating Rxa8 instead of Bf4, would've been better
+[20:43:24] Nubro: And opening felt fine, sure my queenside was a bit messy but I was ahead in development imo
+[20:44:56] PsyMar2: ahead in development but no space
+[20:45:11] PsyMar2: if I spotted the computer suif I spotted 13...Nxe5 14.dxe5 Qxd1 then I think your bishop is a liability forever
+[20:45:26] PsyMar2: er, tried to edit that mid-typing and failed
+[20:46:12] PsyMar2: although I suppose you can maybe kick out my bishop and get yours out of jail on c1... hm
+[20:46:27] PsyMar2: maybe it's just my advanced queenside pawn majority that the computer likes there
+[20:46:27] Nubro: 11. Ne5 was on my radar. But played the more passive Re1 instead. Ne5 looks better in hindsight. Attacks the c pawn and a nice central ...
+[20:46:27] Nubro: ...spot
+[20:46:42] PsyMar2: anyway, yeah, the opening was apparently equal or better for you aside from that
+[20:47:43] Nubro: I thought after Nxe3 and queen trade it would be fine for me because I'd have the d-file. Thats how I calculated it
+[20:47:43] PsyMar2: 11.Ne5 is fine, but I think Re1 is equally fine
+[20:47:58] PsyMar2: like I can just defend the pawn
+[20:48:13] PsyMar2: after Nxe3 and queen trade you have the dfile for the moment, but then I move my bishop and castle and put a rook there myself
+[20:48:44] PsyMar2: although the computer wants me to play Bc2 first which is bonkers
+[20:49:45] PsyMar2: in fact after Bc2 and Bc5 the only way to keep your rook on the file is Rd2, and then I play b3, and ...
+[20:49:45] PsyMar2: yeah okay so ignore that the computer is a scumbag and I was never finding that
+[20:50:15] Nubro: After bishop move, I play b3 and castling looks equal. Computer agrees haha
+[20:50:30] PsyMar2: er, when
+[20:50:45] PsyMar2: 13...Nxe5 14.dxe5 Qxd1 15.Rxd1 Bc2, you don't have time to play b3 because your rook is attacked
+[20:51:01] Nubro: If you don't play the Bc2 and Be7 for example
+[20:51:16] PsyMar2: oh, yeah, if I don't play that you play b3 and you're fine
+[20:51:16] PsyMar2: so it's only if I find that exact line, which was never happening
+[20:51:31] PsyMar2: or at least not likely
+[20:52:01] PsyMar2: franlky I'm still not convinced it's actually good
+[20:52:47] Nubro: I think we can agree it's not a blunder like the computer says to not play Nxe3
+[20:53:02] PsyMar2: Yeah, although Bf5 was not great, I think I had to follow up by taking the bishop
+[20:53:17] PsyMar2: if only to deflect your knight
+[20:53:48] PsyMar2: ...computer says 14...f5 is playable too.  computer is insane
+[20:54:18] Nubro: 14. Qg4 was a provoking move. Getting you bishop out of the way or maybe mess up your kingside pawns a bit; That was the ideaa
+[20:54:34] PsyMar2: yeah and it works
+[20:55:04] Nubro: Was tired of being cramped so had to try something and play attacking moves
+[20:55:19] PsyMar2: the only other move I seriously considered was Bg6 right away, which is apparently even more losing if you find the right followup
+[20:55:34] PsyMar2: oh, because you're still attacking the cpawn
+[20:55:50] PsyMar2: I forgot about that so many times
+[20:56:05] PsyMar2: wait I thought Qc7 was a tactical defense wha -- oh, Bb5 and everything is defended
+[20:56:20] PsyMar2: yeah okay
+[20:56:20] Nubro: I think I would've played Nxg6 if you played Bg6
+[20:56:35] PsyMar2: yeah Nxg6 and it's fine
+[20:56:50] PsyMar2: I know a few times I was forgetting that if you played Nxc6 I couldn't take the bishop because you're attacking my queen
+[20:57:06] PsyMar2: I finally realized that after Qh5 which is why I went Qc7
+[20:57:36] PsyMar2: and then yeah Bd6 was a blunder I completely failed to see Rxe6
+[20:57:51] Nubro: Yeah I figured it was to defend both the f and c pawn
+[20:57:51] PsyMar2: if I play Be7 I think I'm fine
+[20:58:06] PsyMar2: although then I do start losing pawns, but
+[20:58:22] Nubro: Be7 I play fxe6 indeed. f pawn still pinned
+[20:58:37] PsyMar2: in retrospect I think Bd6 may actually give better practical chances
+[20:58:52] Nubro: Lost a lot of time calculating 21 Rae1
+[20:59:22] PsyMar2: Rae1 is fine, it's the follow up moves that were the issue
+[20:59:53] PsyMar2: but also, that's another example of:  maybe don't overcomplicate when you're already up a pawn with a better position
+[20:59:53] Nubro: Yes, but had to be sure it was mate if you took the bishop was not 100% sure so had to recalculate. Then I had to look at other ...
+[20:59:53] Nubro: ...responses as well which took a lot of time
+[21:00:08] PsyMar2: like yes Rae1 is still winning, but so is Be3
+[21:00:23] Nubro: True. Be3 was easier
+[21:00:54] PsyMar2: like sometimes it's not worth spending all the time to calculate a sacrifice when...
+[21:00:54] PsyMar2: ...you're down on clock and ahead on the board
+[21:01:09] Nubro: Good advice :)
+[21:01:24] Nubro: Still glad I tried Rae1 haha
+[21:01:39] PsyMar2: it was a worthy try, I did spend a couple minutes looking at it and convvincing myself I couldn't just take the bishop
+[21:01:54] PsyMar2: but again, I had more time to spend
+[21:01:54] Nubro: Anyway, gg. could've gone both ways but I blundered last! I'm going to bed now
+[21:02:10] Nubro: We might meet again on the board
+[21:02:10] PsyMar2: and I think if you had more time you don't play Bf4
+[21:02:25] PsyMar2: rest well
