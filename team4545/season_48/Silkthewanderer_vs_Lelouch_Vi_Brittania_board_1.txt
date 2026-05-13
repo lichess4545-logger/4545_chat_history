@@ -1,0 +1,293 @@
+Lichess game chat log
+Game      : https://lichess.org/zFfnOM8S
+White     : silkthewanderer
+Black     : lelouch_vi_brittania
+Time      : 45+45
+Captured  : 2026-05-13 22:26:18 UTC
+Game ended : 2026-05-13 21:06:14 UTC
+Messages  : 283
+────────────────────────────────────────────────────────────
+
+[18:01:32] Silkthewanderer: (1) Hi Steven, Hi everyone
+[18:09:38] Silkthewanderer: (5) I feel a bit guilty about playing the very boring line with many spectators present...
+[18:10:24] guitarspider: (5.e5) go Silk
+[18:10:24] Silkthewanderer: (5) But I am not recalling the more technical lines here well enough to play them with confidence
+[18:13:42] Silkthewanderer: (5) Hi Spider and others. Marvel at my super dangerous line... not
+[18:16:14] guitarspider: (5...Nc6) I've never really looked at e5 tbh
+[18:17:00] Lelouch_Vi_Brittania: (5...Nc6) I didn't really consider any alternatives to 6.Bb5
+[18:17:15] Lelouch_Vi_Brittania: (5...Nc6) 6.Qa4 is also reasonable I guess
+[18:20:03] Lelouch_Vi_Brittania: (5...Nc6) I think I dismissed 5... dxe5 too quickly. taking queens off wouldn't be so bad in this position maybe
+[18:21:49] Silkthewanderer: (6) I think after Bb5 Qa5 Nc3 Qxb5 Nxb5 Nxd4 I don't have anything
+[18:25:22] Lelouch_Vi_Brittania: (6...Nd5) let's go for the ambitious move
+[18:28:10] Lelouch_Vi_Brittania: (6...Nd5) there is a small risk, that some idea like 7.Bb5 Bd7 8.e6 exists
+[18:28:55] Lelouch_Vi_Brittania: (6...Nd5) but with my developement I think I should be fine
+[18:31:58] Silkthewanderer: (7) 7. ...Bd7 looks like the normal move. Then exd6 e6 looks solid for both sides.
+[18:32:44] Silkthewanderer: (7) I would love tomake 7. ...Bd7 8. e6 work but so far I am not convinced I have ways to exploit it
+[18:35:01] Lelouch_Vi_Brittania: (7...Bd7) like 8.e6 fxe6 9.Ng5 why not just 9...g6 then Bg7 and castle
+[18:38:49] nyanners: this both feels familiar and not
+[18:38:49] nyanners: probably not
+[18:39:20] nyanners: yea id go with e6 too
+[18:40:05] guitarspider: (8...e6) c4 maybe?
+[18:40:36] nyanners: if theres a reason why e6 would be not best then c4 it is
+[18:44:09] Silkthewanderer: (9) Qb6 c4 is my point. And f6 weakens the kingside enough for me to maybe find some play there
+[18:45:25] Grzybozbur: i thought the sicilian is all about tempi and piece play, not weakening the pawn structure?
+[18:45:40] Grzybozbur: although, admittedly, i'm out of book after 1...c5
+[18:46:41] nyanners: yea this is kinda too concrete for me to guess on vibes
+[18:46:56] nyanners: like of course f6 is "critical"
+[18:46:56] nyanners: we should also mention Qb8
+[18:47:42] Lelouch_Vi_Brittania: (9...Qb8) ahh so many decisions in the first few moves, very annoying
+[18:49:13] guitarspider: (9...Qb8) I feel that
+[18:49:44] guitarspider: (9...Qb8) I guess the c4 idea is still there, not sure what else
+[18:49:59] guitarspider: (9...Qb8) castling and just giving up the pawn seems lame
+[18:49:59] Lelouch_Vi_Brittania: (9...Qb8) hm Nd4 is a little annoying now
+[18:51:00] nyanners: umm c4 nb6 qc2 qxd6? feels not right
+[18:51:15] nyanners: for both XD
+[18:52:16] Lelouch_Vi_Brittania: (9...Qb8) ah but I always have Nb6 against Nd4 ideas
+[18:52:47] nyanners: yea immediate 10 Nd4 Nb6 looks good
+[18:53:32] guitarspider: (9...Qb8) idk, I just think if Black just plays Bxd6 it's gotta be good for them
+[18:53:32] guitarspider: (9...Qb8) so anything to stir something up
+[18:54:03] nyanners: yes i also agree with that
+[19:02:25] Lelouch_Vi_Brittania: (11.bxc3) hm 11...h6 12.Qh4
+[19:02:55] Silkthewanderer: (11) Okay this will likely not get a Novelty Of The Year Award
+[19:03:11] Silkthewanderer: (11) I do think it can be sneaky dangerous if Black isnt careful though
+[19:03:26] Silkthewanderer: (11) The f6 knight is missing on the kingside which can be trouble when the queen wings over
+[19:06:13] jcarmody: I just noticed that I have a perfect record against Silk.
+[19:06:13] Lelouch_Vi_Brittania: (11...a6) 12.Bd3 seems principled, to later attack with Qh4 etc
+[19:07:29] Silkthewanderer: (12) the c6 knight doesnt have a super convincing circuit. And the double c pawns are not attacked very quickly
+[19:09:46] nyanners: white is........ optimistic
+[19:10:01] nyanners: better than the alternative
+[19:10:47] Marco_Chess13: Go Silk!
+[19:11:17] Silkthewanderer: (13) Now Ne5 Qd4 and 0-0 Qg4 are also not trivial
+[19:11:17] Silkthewanderer: (13) So far I am not seeing something forcing for me
+[19:11:33] Silkthewanderer: (13) But my hope is to make enough nagging threats to at least compensate for the structural issue
+[19:14:05] Lelouch_Vi_Brittania: (13...Qc7) there is no reason to allow 13..0-0 14.Be7
+[19:17:08] Lelouch_Vi_Brittania: (13...Qc7) 14.0-0 0-0 Rd2 f6 Rfd1 is a small problem
+[19:30:50] Lelouch_Vi_Brittania: (15...Ne7) why is my position so uncoordinated
+[19:37:11] Silkthewanderer: (17) 17. Bxg7 Nxg7 Qd4 would be fun if I had any continuation after bf8
+[19:37:56] Silkthewanderer: (17) Really not a good day, every calculation and consideration takes me crazy long
+[19:38:11] Silkthewanderer: (17) This here isnt sooo complicated that it would justify going to increment
+[19:38:57] Silkthewanderer: (17) LVB also doesnt play super convincingly imo. This whole Nf5 plan doesnt seem like the best way to exploit what I am doing
+[19:39:28] Silkthewanderer: (18) Then again maybe it is enough to press me in a bad endgame
+[19:39:58] Silkthewanderer: (18) In good form I would be very very confident to hold this, lets see about today
+[19:40:13] Silkthewanderer: (18) With my tiny lead in development I should be just quick enough to prevent the weakness on c from getting blockaded
+[19:40:28] Silkthewanderer: (18) And if it doesnt get blockaded, I am not worse
+[19:40:28] guitarspider: (18.Qxe5) it definitely seems like this could have gone worse for Silk.
+[19:42:45] Silkthewanderer: (18) 18. Rc8 looks strongest, then I assume everone castles
+[19:45:03] Lelouch_Vi_Brittania: (18...Rc8) can't allow his bishop to get to f3 too easily
+[19:48:51] Buddins: Does anyone know how I get invited to slack? I put my registration in a few times and it’s been over a week.
+[19:49:37] Silkthewanderer: (19) Btw Hi jc, Pope, Scribbles, rest of team
+[19:49:52] Silkthewanderer: (19) Not very glorious but far from over
+[19:49:52] nyanners: black's advantage still seems not in doubt
+[19:50:07] Silkthewanderer: (19) This could become an interesting queenless middlegame. Sadly one where I am the one defending
+[19:50:53] nyanners: i think its pretty bad. probably want a rook on b1 to have anything
+[19:51:08] guitarspider: (20.c4) @Buddins you don't get invited, you join the league slack. Download the app and join. Your registration won't be accepted unless you
+[19:51:08] guitarspider: (20.c4) are on slack.
+[19:52:24] nyanners: c4 is very logical of course. im curious about lines where white would induce b5 and *then* play c4/a4
+[19:55:11] nyanners: reflex is to not allow this trade
+[19:55:27] nyanners: likely f6 will be fine
+[20:03:34] Silkthewanderer: (28) Not surprising :D
+[20:03:34] nyanners: yea dont like the timing here XD
+[20:03:49] Pope123: (28.Kf2½?) Now spam it until they accept
+[20:03:49] nyanners: though this trade might help white
+[20:03:49] Silkthewanderer: (28) This is probably holdable but also very grindable for Black
+[20:04:50] Silkthewanderer: (29) That king can not be allowed to c5 too easily
+[20:05:05] nyanners: black maybe looking at Be6 as well
+[20:06:36] Lelouch_Vi_Brittania: (29...Be8) my bishop belongs on e6
+[20:10:55] Lelouch_Vi_Brittania: (31...Bc6) not sure how I can make progress
+[20:11:25] Lelouch_Vi_Brittania: (31...Bc6) maybe trading one pair of rooks helps
+[20:11:41] samisasleep: Is there a reason lelouch didnt play e5 Bf7(or Be6)
+[20:11:56] samisasleep: Wasnt that the point of f6
+[20:14:13] Silkthewanderer: (33) You want to cross? Fix my structure first plz
+[20:27:40] nyanners: seems white is doing it :D
+[20:27:40] nyanners: the madman
+[20:27:56] nyanners: soon enough black might even need to be careful to not lose
+[20:28:26] samisasleep: Id prefer white even looks nice
+[20:28:41] Inter-temporal: (41) (41...h5) white's active K, active R, and Black's weaknesses on e6 and b7 are enough to defend? (or win?)
+[20:28:56] Inter-temporal: (41) (41...h5) wonder if black's R can get active
+[20:29:12] samisasleep: Yeah looks really good for white
+[20:29:42] Grzybozbur: white is not defending anymore
+[20:29:57] Inter-temporal: (42) (42...g6) what's white's target?
+[20:30:28] Inter-temporal: (43) (43.c4) Q-side Ps?
+[20:30:43] nyanners: maybe black is restricted to doing nothing
+[20:30:43] nyanners: which is actually a really annoying spot to be in as the higher rated
+[20:30:58] Grzybozbur: b7 looks weak and the kingside seems to be getting weaker too
+[20:30:58] Inter-temporal: (43) (43.c4) so maybe c6 is a threat
+[20:30:58] nyanners: as white id just play a few quick moves that dont change anything
+[20:31:13] nyanners: bluffing that i want a draw
+[20:31:13] nyanners: then decide if i actually want a draw later
+[20:31:29] nyanners: ooooohh black went first. great draw timing
+[20:31:44] Pope123: (44.Ke3) lol
+[20:31:44] nyanners: and white realizes it for what it is :o
+[20:31:44] nyanners: this is a great game
+[20:32:14] alex_makarets: decline? hmmm
+[20:32:30] Grzybozbur: you can go kc3
+[20:32:30] Silkthewanderer: (46) Okay, time to think - draw or c6
+[20:32:30] nyanners: i like decline. on the other hand now the ball is on white's court
+[20:33:15] nyanners: and yea id go kb4
+[20:33:15] Grzybozbur: black has no time to run after white kingside pawns anyway
+[20:33:15] nyanners: if we are looking at that direction
+[20:33:15] nyanners: c6 is definitely what black wants to see
+[20:33:30] nyanners: for better or for worse
+[20:33:30] Inter-temporal: (46) (46...Rc7) daredevil
+[20:33:46] alex_makarets: c6 is the only way for white to play for something
+[20:33:46] nyanners: i think there was kc3 kb4
+[20:34:01] nyanners: now itd be threefold?
+[20:34:31] nyanners: here i think id take the draw
+[20:35:32] Grzybozbur: kd6 kd3, black still has a lot of weak pawns
+[20:36:33] nyanners: e5 e4 possibly
+[20:36:33] nyanners: really wanna activate R
+[20:37:03] Pope123: (49.Kd3) Hope the decision to play on won't bite us back
+[20:37:49] guitarspider: (49.Kd3) probably fairly safe
+[20:38:04] Pope123: (49.Kd3) Rook endgames haunt me
+[20:38:04] Pope123: (49...e5) Nothing is safe
+[20:38:35] guitarspider: (49...e5) Black definitely has more problems here I think, but most likely this is balanced
+[20:39:36] nyanners: umm any tricks? i dont see
+[20:39:51] nyanners: fxe strong
+[20:40:21] guitarspider: (52.Rxg6) yeah now this is already a big issue
+[20:40:37] guitarspider: (52.Rxg6) down a pawn and everything isolated
+[20:40:37] nyanners: was expecting 50..e4+ i think
+[20:40:52] Grzybozbur: rc5 maybe holds?
+[20:40:52] nyanners: then at least you get an active rook
+[20:41:07] Silkthewanderer: (52) I should play bad openings more often
+[20:41:07] nyanners: here seems down pawn and position
+[20:41:22] Grzybozbur: rc5 with the idea to go after a2
+[20:41:53] Grzybozbur: this drops a pawn, no?
+[20:42:23] nyanners: yea this is deeply problematic
+[20:43:09] guitarspider: (53...Rd1) Rh6 what then?
+[20:43:09] nyanners: feel id already lose over 80% vs someone 300 lower
+[20:43:24] Silkthewanderer: (54) I think 53. Kf5 was necessary to keep this in narrow drawing margins
+[20:44:25] nyanners: then the c-pawn looks stronger
+[20:45:41] Silkthewanderer: (55) Interesting question will be whether I want the king on d2 or e2
+[20:45:41] guitarspider: (55...Rd1+) I struggle to see a defensive setup that's plausible
+[20:45:56] guitarspider: (55...Rd1+) maybe I just have limited imagination
+[20:45:56] Lelouch_Vi_Brittania: (55...Rd1+) nooo what did I do
+[20:46:42] guitarspider: (56.Ke2) not Kc2?
+[20:46:42] Silkthewanderer: (56) I think e2 is more accurate, that way Black doesnt get Kd4 with pawn attack AND opposition gain
+[20:46:57] Grzybozbur: what's with those king moves?
+[20:46:57] guitarspider: (56.Ke2) huh
+[20:47:12] nyanners: what is opposition good for
+[20:47:27] Grzybozbur: no idea
+[20:47:27] guitarspider: (57.Rxh5+) but now it's still opposition if Black wants?
+[20:47:43] guitarspider: (57...Kd4) if that's somehow an issue
+[20:48:13] nyanners: opposition is only as good as black's ability to immediately check
+[20:48:28] Silkthewanderer: (58) And here I am one tempo closer to the kingside.
+[20:48:28] nyanners: should have tried 57..f5 i think?
+[20:48:28] Silkthewanderer: (58) Not sure if Black has any good tries left
+[20:48:44] nyanners: this was crucial
+[20:48:59] nyanners: i think black just missed Ra5
+[20:49:29] Pope123: (58.Ra5) Silk crushing one 2400-2500 after the other, nothing but admiration sir
+[20:50:00] Pope123: (58...Kxc4) Totally jynxed you now
+[20:50:15] nyanners: xd should be fine
+[20:50:15] guitarspider: (59.Rxa6) might be too winning to jinx
+[20:50:15] nyanners: wouldnt call this Too Winning yet
+[20:50:45] PaulWithAnS: (60) Amazing turnaround by white considering how it looked in the middlegame
+[20:51:01] guitarspider: (60.Kf3) at the very least white's not going to lose this
+[20:51:16] Grzybozbur: i call it dead lost
+[20:52:01] nyanners: still just regular lost for now
+[20:52:01] Grzybozbur: two passers, on on the perfect a2, to let the rook control the whole board
+[20:52:47] samisasleep: Both wide passers lol
+[20:53:18] nyanners: going to f2, nice
+[20:54:18] nyanners: umm i dont like this coordination as much. rook behind the passed pawn and all that
+[20:54:18] guitarspider: (65...Ra1) agree
+[20:54:49] nyanners: like yea you defended the pawns but this kinda sucks
+[20:55:04] nyanners: maybe it IS Too Winning
+[20:55:04] guitarspider: (66.h5) but black won't stop both pawns, even with this white setup
+[20:55:35] guitarspider: (66.h5) also a5 was worth playing for the funnies
+[20:55:50] nyanners: nah keep it in reserve
+[20:56:05] guitarspider: (66.h5) too reasonable :D
+[20:56:20] nyanners: i suppose black's best might be ke6 anyway
+[20:57:06] PaulWithAnS: (66) the a pawn is kind of stuck now for white
+[20:57:21] guitarspider: (66...Ke6) Kf3 and Rh4?
+[20:57:36] nyanners: yea this is just more annoying than it should..
+[20:57:52] alex_makarets: there are positions with 2 rook pawns that are drawn but we are so far from them
+[20:57:52] Grzybozbur: yeah, i'd just keep the rook on f2, pawns on h2/a2, then march the king to g6 and receive resignation from black
+[20:58:37] Grzybozbur: instead, kg4 looks kind of useless now
+[20:58:52] guitarspider: (68.Rb7+) ok, with rook on a7 this is starting to look more normal again
+[20:59:23] nyanners: yea rook on side is the worst. in front is second best usually
+[21:00:24] guitarspider: (71.Kh5) Kh5, gogog
+[21:01:09] bufferunderrun: Kh3 seemed better to me
+[21:01:09] guitarspider: (71...Rb3) h7 wins I think
+[21:01:40] guitarspider: (71...Rb3) white king is close enough to force a rook v pawn trade
+[21:01:55] Pope123: (71...Rb3) Nice catch
+[21:01:55] nyanners: dont draw to h8q rh3, now
+[21:02:26] guitarspider: (71...Rb3) h7 Rxg3 Kh6
+[21:02:26] nyanners: yea has to be good enough
+[21:02:56] Pope123: (71...Rb3) Silk is rocking his chair to find it now
+[21:02:56] nyanners: but id play g4 like a boring person
+[21:03:11] guitarspider: (72.Rg7) g4 must be good enough as well
+[21:04:12] Silkthewanderer: (72) Not the prettiest technique but this should be enough
+[21:04:43] Pope123: (72...Ra3) h7, whats the plan?
+[21:05:43] bufferunderrun: now Rg4 is okay, I guess
+[21:05:43] guitarspider: (73...Ra1) ya
+[21:06:14] MrScribbles: gg
+[21:06:14] bufferunderrun: gg
+[21:06:14] Pope123: gg
+[21:06:14] WelshKebab: gg
+[21:06:14] MrScribbles: Congrats silk!
+[21:06:29] tomb85: Gg
+[21:06:29] nyanners: gg
+[21:06:29] PaulWithAnS: (74) gg
+[21:06:29] alex_makarets: gg
+[21:06:29] guitarspider: gg
+[21:06:29] jfiras: gg
+[21:07:30] Silkthewanderer: Phew. This was just plain nonsense in the opening. I am curious how bad it was
+[21:07:45] Silkthewanderer: And I am curious if around move 49 Black holds by repeating Rc6 and Rc7
+[21:08:00] Silkthewanderer: and chasing my rook all the time
+[21:08:16] Lelouch_Vi_Brittania: ah in the opening you had 9.c4 with the point Nb6 Qa3
+[21:08:16] Silkthewanderer: pawn endgame is def not winning for me, maybe even losing
+[21:08:46] Silkthewanderer: Aaah, that's how you are supposed to play it :D
+[21:08:46] Lelouch_Vi_Brittania: oh I thought I would lose the pawn endgame
+[21:08:46] Lelouch_Vi_Brittania: but youre right
+[21:09:01] Lelouch_Vi_Brittania: I just missed 51.fxe5
+[21:09:16] Silkthewanderer: I prepared for Caro and briefly looked at the Sicilian with 4. ..Nc6
+[21:09:47] Silkthewanderer: Against 4. ...Nf6 I couldnt recollect much and only remembered that the immediate e5 is not better but also not super bad
+[21:09:47] Silkthewanderer: And tried to figure it out move by move
+[21:09:47] Lelouch_Vi_Brittania: I only remebered that Gustaffson said Nf6 is the critical move nowadays
+[21:10:02] Silkthewanderer: ....which SHOULD have been punished
+[21:10:02] nyanners: a little knowledge is a dangerous thing
+[21:10:32] Lelouch_Vi_Brittania: I really should have played f6
+[21:10:48] Silkthewanderer: At what point?
+[21:10:48] Lelouch_Vi_Brittania: I gave you all that d-file pressure for no readson
+[21:10:48] Lelouch_Vi_Brittania: 9...f6
+[21:11:03] nyanners: Qb8 is sensible
+[21:11:03] nyanners: i mean it was good for black for sure
+[21:11:18] Silkthewanderer: I actually thought Qb8 was the really refined move
+[21:11:18] Silkthewanderer: f6 was what I wanted to provoke
+[21:11:18] nyanners: N trade on c6 was when it started to look getting fine ish to me
+[21:12:04] Silkthewanderer: When the knight started dancing from c6 to e7 to f5, I got a bit relieved
+[21:12:19] Silkthewanderer: I thought there must be more dangerous ways for Black to proceed
+[21:12:34] nyanners: i actually kinda liked 22..Be8 because of this traffic jam ish on 25
+[21:13:04] nyanners: like, be8, 25..f6, everything looking promising
+[21:13:20] Silkthewanderer: Be8 f6 Bf7 is a cool plan. Didnt see it at the time
+[21:13:35] Lelouch_Vi_Brittania: wanted Rfc8 first but the rook isnt super good there
+[21:13:35] Silkthewanderer: But to be fair I was just reacting to concrete stuff and trying to not lose quickly at that point
+[21:13:35] nyanners: ooh thats fair
+[21:14:05] nyanners: like yea it does look a bit loose for a moment for b
+[21:14:36] Lelouch_Vi_Brittania: I guess I shouldn't trade the knights in the endgame
+[21:15:06] nyanners: i think it was natural enough but yea felt black could get a bit stuck
+[21:15:06] Silkthewanderer: That move did surprise me, yes
+[21:15:21] nyanners: and then Be6/Bf7 never came
+[21:15:21] Lelouch_Vi_Brittania: but I thought a small static advantage is easier to convert
+[21:15:21] nyanners: so black was not better anymore
+[21:15:36] Silkthewanderer: I am defending and my pieces trip over each other, very generally any trade must be good
+[21:15:52] Lelouch_Vi_Brittania: I didn't see how to get in Bf7 e5 without allowing Bd5
+[21:15:52] Silkthewanderer: unless concrete things happen very quickly
+[21:16:07] Silkthewanderer: I thought your plan was to invade with the king on c5 and make any trades that allow this to happen
+[21:16:37] nyanners: i wanted to start with 29..Bd7 and probably e5 followup
+[21:16:52] nyanners: then theres some weird lines
+[21:17:08] Silkthewanderer: e5 too early and I start trading pawns on the kingside
+[21:17:08] nyanners: b7 traded
+[21:17:38] Lelouch_Vi_Brittania: too much counterplay on the c-file I felt
+[21:17:38] Silkthewanderer: I think it was a good idea to displace my rooks a little first and then pushing on the kingside
+[21:17:53] nyanners: b7 is weak enough to make it difficult
+[21:17:53] Lelouch_Vi_Brittania: hm yeah good idea
+[21:18:08] nyanners: so keeping knights feels like it helps a lot
+[21:18:39] nyanners: especially if you could land nd7 nc5 somehow..
+[21:19:09] Lelouch_Vi_Brittania: somehow I was just scared of 26.Be4
+[21:19:24] Silkthewanderer: Nc5 and somehow trading down to good knight vs. bad bishop is the dream for Black
+[21:19:40] Silkthewanderer: If that ever happens I'm ded
+[21:19:55] Silkthewanderer: Not sure if there is a way to get it move by move
+[21:20:10] Lelouch_Vi_Brittania: but it's at least way harder to defend
+[21:22:12] Lelouch_Vi_Brittania: ok, getting late
+[21:22:12] Lelouch_Vi_Brittania: good luck further and see you
+[21:24:44] Silkthewanderer: Thanks for the game, see you in the chat for the rest of the match :)
