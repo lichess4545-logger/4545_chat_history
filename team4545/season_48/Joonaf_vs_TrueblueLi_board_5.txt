@@ -1,0 +1,169 @@
+Lichess game chat log
+Game      : https://lichess.org/Xragp7BE
+White     : joonaf
+Black     : trueblueli
+Time      : 45+45
+Captured  : 2026-05-14 13:19:29 UTC
+Game ended : 2026-05-14 11:59:24 UTC
+Messages  : 159
+────────────────────────────────────────────────────────────
+
+[09:43:40] Joonaf: hi grc!
+[09:43:55] GoldenRetrieverChess: Gooo Joonaf!
+[09:45:42] Joonaf: hi Pineapplechiffoncake
+[09:45:57] Joonaf: I was expecting 13..Qc7
+[09:46:12] Joonaf: now I could go Ne5
+[09:46:27] Joonaf: Ne5, Qc7, Bf4 maybe
+[09:46:42] Joonaf: hi nyanners
+[09:47:28] Joonaf: hi Utterbawnbag and KamagayaJiji
+[09:47:28] nyanners: :o
+[09:47:28] Joonaf: Ne5, Qc7, Bf4, g5
+[09:47:43] Pineapplechiffoncake: Go Joonaf!
+[09:48:59] Joonaf: or maybe just b3 and Bb2
+[09:48:59] Joonaf: did I say b6. meant b3
+[09:49:30] Joonaf: Ne5, Qc7, f4 seems too risky
+[09:55:35] Joonaf: (14..Bd7) now I could play Ne5 and trade the knight for the bishop, but the d7-bishop doesn't seem very good
+[09:59:10] Joonaf: I just told my opponent: "(15..Qc8) I was just thinking, if Black does ..Qc7, then I could maybe do d5 and take on f6"
+[09:59:10] Joonaf: forgot /w :I
+[09:59:56] Joonaf: but my queen is undefended, so c4-pawn is pinned after d5, cxd5
+[10:00:41] Joonaf: maybe 16.Rc1, both defend and x-ray Black Q
+[10:01:42] Joonaf: will Black play ..c5?
+[10:01:58] Joonaf: hi cowtone!
+[10:02:43] Joonaf: Rac1, c5, d5, if ..exd5 then Bxf6
+[10:03:29] Joonaf: Rac1, c5, d5, e5?
+[10:04:15] Joonaf: or I just take on c5 and then take on f6
+[10:12:37] Joonaf: maybe I could do Ne5 and then move pawn to c5 to then jump the knight to Nc5 and Nd6
+[10:15:09] Joonaf: if the DSB was goinkg to Bb6, then c5 kicks it
+[10:15:24] Joonaf: if ..Ba5, then Nc5 attacks it
+[10:15:39] Joonaf: e.g. 17..Ba5, c5, b6, Nc4
+[10:16:55] Joonaf: at least I have a lot more space
+[10:18:42] Joonaf: oh, ..Nh7 is a surprise
+[10:20:13] Joonaf: do I want to stop ..Ng5 with h4?
+[10:20:59] Joonaf: kicking the knight with ..f6 doesn't seem good
+[10:21:14] Joonaf: can there be other ideas than ..Ng5
+[10:22:15] Joonaf: I don't want to go towards Nd6 if the DSB can take it
+[10:22:15] Joonaf: so not sure what else to do than h4
+[10:23:31] Joonaf: I could maybe get the queen towards the king-side
+[10:23:31] Joonaf: or a rook Rd3 to Rf3
+[10:29:06] Joonaf: maybe I keep the Q on that diagonal so that if ..f6, I can do Ng6, Nxg6, Qxg6
+[10:29:06] Joonaf: but Rd3 blocks it
+[10:30:22] Joonaf: 19.Qe4?
+[10:30:53] Joonaf: I'm too slow again
+[10:31:08] Joonaf: but as I say that, I usually play too fast and blunder
+[10:31:08] cowtone: F8 knight accounts for 22 % of moves that black has played
+[10:32:54] Joonaf: (19..f6) so, Nxd7 or Ng6
+[10:33:25] Joonaf: Ng6, f5
+[10:34:41] Joonaf: maybe Ng4 could be a move too
+[10:34:41] Joonaf: no... f5 still
+[10:34:56] cowtone: I think white could take lsb and black's light squares would be super weak on the ks
+[10:35:57] Joonaf: (20..Nxd7) oh, a surprise again
+[10:36:58] Joonaf: maybe 21.Bh3
+[10:37:43] Joonaf: can't think for too long
+[10:37:59] cowtone: Ba3 taking squares from knight maybe
+[10:37:59] Joonaf: if it doesn't look like a blunder, that's good enough
+[10:40:46] nyanners: yea wouldnt wanna let go of the time advantage
+[10:41:01] nyanners: if white gets too far behind on time that introduces more chances than black has
+[10:42:17] cowtone: Now the knight accounts for 29 % of black's moves
+[10:42:48] Joonaf: if Ba3, then ..f5, Q, Ng6
+[10:42:48] Joonaf: maybe I do 22.f4
+[10:43:33] Joonaf: f4, Bb6, Kh2
+[10:44:19] Joonaf: what happens after f4, g5
+[10:44:50] Joonaf: or maybe I do h5
+[10:45:20] Joonaf: h5, Nh7, and then f4
+[10:45:50] Joonaf: and h5 stops ..Ng6 after ..f5
+[10:49:54] cowtone: Qb8.. Let black to sac on g3 and lose after Qg2
+[10:50:55] cowtone: Don't stop your opponent to execute a losing pla
+[10:53:42] Joonaf: f4 with all the trades didn't seem good
+[10:53:58] Joonaf: f4, e5, dx, fx, fx, Bx and I think Re1 didn't work, and if Bx then Rx
+[10:54:13] Joonaf: and it might be even but looks to improve Black's position
+[10:54:43] Joonaf: now if ..e5 or ..c5 I can do d5, and if ..xd5, then Qxd5+
+[10:55:29] Joonaf: oh right, I didn't consider that now ..Nh7 to ..Ng5 is possible
+[10:56:15] Joonaf: should've gone to Qd3 instead
+[10:58:01] Joonaf: ..Qc3 allows ..e5
+[10:59:02] Joonaf: lost a tempo
+[10:59:17] Joonaf: and allowed ..Ng5
+[11:00:18] Joonaf: well, not sure if I could've played ..f4 anyway after 23.Qd3, Nh7
+[11:07:24] Joonaf: (24..f5) once again a surprise
+[11:08:41] Joonaf: f4 allows outposts on e4 and g4
+[11:09:57] Joonaf: ..Nf6 attacks the h5 pawn
+[11:10:27] Joonaf: 25.Re1, Nf6, Q back to Qf3?
+[11:10:42] Joonaf: but then ..Ne4 is still possible
+[11:12:59] Joonaf: I can't do f3 to stop the knight, but I can do Bf3
+[11:13:14] Joonaf: to stop ..Nxh5, ..Ng4 and ..Ne4
+[11:14:15] Joonaf: but Bf3, e5 I have to take dxe
+[11:21:21] cowtone: Now the sac was played, i think white is bettee
+[11:24:09] bncl: Go Joonaf!
+[11:24:54] Joonaf: (29.Ke1) I'm not sure if that sac works, but to me it feels like unnecessary risk
+[11:25:10] Joonaf: I think Black was doing well and had more time
+[11:25:25] Joonaf: but of course if it works, it's good. Let's see..
+[11:29:13] Joonaf: hi bncl!
+[11:41:24] nyanners: white seems a bit nervous
+[11:41:39] nyanners: escaping to the queenside looked nice
+[11:46:28] nyanners: honestly might well be 50/50 at this point
+[11:46:43] nyanners: i like black's momentum and white is not finding stability
+[11:47:29] cowtone: Black's pawns are rolling, something went wrong
+[11:47:44] cowtone: f3 - f2
+[11:48:30] nyanners: yea i mean, white lost like a half dozen tempi and didnt find a safety plan
+[11:48:30] nyanners: we can trace that to the time panic of course
+[11:49:31] nyanners: umm Rh3 seems to be like just enough
+[11:49:46] cowtone: Those e nd f pawns must be worth more than two pawnd now
+[11:50:16] nyanners: yea i really want to like white but this q trade does not help as much as one would think
+[11:50:32] nyanners: should still take it
+[11:50:32] nyanners: i think
+[11:51:17] nyanners: naaaaahhhh. this kingside is too small for white's pieces
+[11:52:03] nyanners: luckily for white Ne3+ does not seem immediately winning
+[11:52:33] cowtone: White king should have definitely moved towards the q side when it was possible
+[11:52:49] nyanners: or well, theres probably a win. its just not super immediately clearly obvious
+[11:53:04] nyanners: yea i dont think white considered that
+[11:53:04] nyanners: maybe because Kd2 gives a weird aesthetic impression
+[11:53:49] nyanners: i feel its just the kinda thing where if you see it its kinda clear that its at least very much worth considering
+[11:54:35] nyanners: but well, cant put it in your radar in time trouble if you havent seen enough examples
+[11:56:22] nyanners: damn i didnt see that XD
+[11:56:22] cowtone: Maybe there was..e4 after Kd2
+[11:56:52] nyanners: i was starting to think like if black cant find anything you can probably just reroute with Rf8 Rde8
+[11:57:07] Joonaf: I'm just too slow
+[11:57:22] nyanners: yea maybe white was afraid of e5, thats fair
+[11:57:38] nyanners: though 30 Kd2 e5 loses to Bd5+
+[11:58:23] nyanners: after that id probably go with 33 Qf2 preparing the queenside run again
+[11:58:23] Joonaf: yeah...
+[11:59:24] nyanners: gg
+[11:59:39] Joonaf: ggwp
+[12:01:11] Joonaf: I'm too slow and then in time trouble I blunder
+[12:01:41] cowtone: gg
+[12:01:56] nyanners: umm time was kinda fine for the most part
+[12:02:11] nyanners: we can blame 22-26 on time usage
+[12:02:27] nyanners: that part was probably particularly slow for the circumstances
+[12:03:12] Joonaf: well, let's put it this way then: I'm bad at speed chess
+[12:03:12] Joonaf: I needed more time
+[12:03:28] nyanners: i mean, if the time situation is starting to get out of control, you need to play some Good Enough moves
+[12:03:43] nyanners: especially when your position is better and there is little risk
+[12:03:58] nyanners: when youre playing on increment, there will always be risk, so dont get there
+[12:05:14] TrueblueLi: I smiled when you comment came through, I only saw it several moves later so no damage done. Was funny .
+[12:06:45] nyanners: this league has a long history. surely someone must have done something like that on purpose at some point
+[12:06:45] Joonaf: heh, it's always good idea to tell your opponent your plans
+[12:07:31] Joonaf: Oh like "I hope my opponent doesn't take my knight" to set a trap? :P
+[12:07:46] nyanners: something like that XD
+[12:07:46] nyanners: proper execution is that it must be just plausible enough
+[12:08:16] Joonaf: /w "I hope my opponent doesn't sac their queen on a2, as that would start a devastating attack D:"
+[12:08:47] nyanners: :D
+[12:09:02] Joonaf: Not the best season for us..
+[12:09:17] Joonaf: not going well for me personally either
+[12:09:17] nyanners: not to encourage gamesmanship but...... in this game it could go like "i hope black doesnt sac on g3", or the opposite :D
+[12:09:17] nyanners: depending on how you eval it
+[12:10:33] nyanners: there are even some otb anecdotes about similar methods actually
+[12:10:33] Joonaf: TrueblueLi you're having an amazing season :)
+[12:11:04] nyanners: most infamously fischer-tal, fischer wrote a move and tal grinned
+[12:11:04] nyanners: so fischer played something else
+[12:11:34] nyanners: but the original move was good
+[12:12:20] cowtone: There was a game that involved tactic with moving the king. They didn't want to move the king so their opponent would get the tactic.
+[12:12:35] nyanners: ahahahah yes i like those stories. i kinda get the picture
+[12:12:50] nyanners: sometimes you realize that doing something might draw the opponent's attention to something
+[12:12:50] cowtone: Instead they made an illegal move and opponent had right to claim that they move the kinf
+[12:13:05] nyanners: OOOOHH yes i know that one
+[12:13:05] nyanners: its so good
+[12:13:20] TrueblueLi: fun reading the commentary but getting late for me. Take care and God bless,
+[12:13:36] nyanners: gg
+[12:14:52] Joonaf: thanks for the game!
+[12:15:07] TrueblueLi: you too.
+[12:16:23] cowtone: Gg, sad result but it was interesting to follow!
+[12:32:21] Joonaf: So I should've played d5 at many points
