@@ -1,0 +1,97 @@
+Lichess game chat log
+Game      : https://lichess.org/s49w3KeT
+White     : ssyx
+Black     : pineapplechiffoncake
+Time      : 45+45
+Captured  : 2026-05-14 14:36:04 UTC
+Game ended : 2026-05-14 13:15:57 UTC
+Messages  : 87
+────────────────────────────────────────────────────────────
+
+[11:01:01] berndwind: Go pineapple!
+[11:01:32] berndwind: Oh god not this. Curious how they play this. Centre game stuff urgh
+[11:06:21] berndwind: These gambit lines are just tricky!
+[11:06:36] berndwind: Very old romantic chess
+[11:07:06] berndwind: I’d probably just play Nc6 and go from there
+[11:07:22] berndwind: There’s always Nh6 if they go for the instant attack
+[11:07:37] berndwind: As in Ng5
+[11:08:23] berndwind: This I’m not sure about. Now Ng5 is nasty, no?
+[11:10:40] berndwind: He’s really determined to gambit ya
+[11:12:26] Pineapplechiffoncake: no idea what this is or what I am doing
+[11:17:46] berndwind: You’re doing good now I think. Unless I’m missing a trap.
+[11:18:01] berndwind: Just a pawn up
+[11:50:44] berndwind: Take the queen, then protect the pawn. Better pawn structure a pawn up? Sounds nice!
+[11:53:01] Pineapplechiffoncake: endgames, blah
+[12:04:10] jfiras: Go Pineapple !
+[12:18:07] nyanners: ahh the gambit people
+[12:18:38] nyanners: i think this is an example of a surprising 7 Bxf7+
+[12:19:08] nyanners: because after Kxf7 Ne5+ taking e5 would drop the queen on d8
+[12:19:24] nyanners: the line works for black if Bb4 is check after that, so not here
+[12:20:24] nyanners: as played odds are white still had something but not super obvious
+[12:21:10] nyanners: i like white's energy
+[12:28:01] nyanners: e6 is super nice. big turnaround
+[12:34:52] nyanners: this king position is a major annoyance for black
+[12:37:09] macha1313: (25.Re2) go pineapple! You've got this!
+[12:37:54] nyanners: if the knight can be removed from c6 that would indeed be nice. but i think white will just defend it
+[12:39:56] nyanners: i suppose black is fine-ish with Rf8 and the rooks are sorta in
+[12:42:28] nyanners: nice :D
+[12:54:09] nyanners: this development is definitely in black's favour
+[12:54:54] nyanners: maybe even better with 31..c5
+[12:54:54] nyanners: of course, the question is whether the a-pawn is strong or weak. i think its weak
+[12:56:41] nyanners: black leaves it which is, well, fair
+[12:56:56] nyanners: im more concerned about white's rook activity than the c-pawn
+[12:58:42] nyanners: yea this seems like kinda trouble
+[12:58:58] ysgwydd: (32...Be5) Rb4 to attack b2
+[12:59:13] nyanners: kc2
+[12:59:28] ysgwydd: (32...Be5) Then Rf4
+[12:59:59] nyanners: umm thats clever, so its check
+[13:00:14] nyanners: i like it
+[13:00:29] ysgwydd: (32...Be5) Or Rh7 Rh4
+[13:00:59] nyanners: i think id go with your line
+[13:02:31] ysgwydd: (32...Be5) White has to passed pawns, they must be winning. Right??
+[13:02:31] ysgwydd: (32...Be5) two*
+[13:03:16] nyanners: exactly why we want active defending
+[13:03:47] nyanners: seems unclear to me
+[13:04:02] ysgwydd: (33.Rh7) Active defending for both
+[13:07:20] ysgwydd: (35...Rb4) Always repeat
+[13:07:35] nyanners: id be a bit concerned with Na5 here
+[13:08:05] nyanners: this is better than say 34 Na5 because the white king is out
+[13:09:52] ysgwydd: (36.Na5) Good that h8 is covered
+[13:10:07] nyanners: yeaa was thinking the same
+[13:10:22] nyanners: but then white could reenable with Ra7
+[13:10:53] nyanners: Rd4 is no help im afraid
+[13:11:08] ysgwydd: (36...Rd4+) Not sure how you stop Ra7-Ra8
+[13:11:23] ysgwydd: (37.Ke3) If knight is on c6
+[13:11:39] nyanners: maybe it was already too late :o
+[13:11:54] ysgwydd: (37.Ke3) Ra4?
+[13:12:24] nyanners: ra6 rc7 in some lines
+[13:12:39] nyanners: and nc6 prevents kd8
+[13:12:55] Feet_Barbie: (38.Nc6) another pineapple special
+[13:12:55] nyanners: so okay black has ra8 but..... being a pawn down thats not the kinda line you can go into
+[13:13:40] nyanners: h8 uncovered
+[13:13:40] nyanners: but okay black has a check next
+[13:13:55] nyanners: (probably not actually okay)
+[13:14:11] berndwind: This looks terrifying for black
+[13:14:11] ysgwydd: (38...Bf4+) Can't stop both Rh8 and Ra7-a8
+[13:14:26] nyanners: yea i think is lost
+[13:14:56] berndwind: Yeah :-(
+[13:15:12] ysgwydd: (39.Kf3) Na5 was a nice find
+[13:15:42] ysgwydd: gg
+[13:15:42] nyanners: as fair as any :c
+[13:15:42] nyanners: gg
+[13:15:57] berndwind: gg
+[13:16:43] ysgwydd: 36...Rxb2 37.Nc6 Rb6 was the defense
+[13:16:43] ssyx: Thanks for watching
+[13:16:58] ssyx: That was really intense
+[13:17:29] nyanners: umm i thought 36..Rxb2 Nc6 Rb6 Rc7 was lost
+[13:17:29] nyanners: Rxc6 XD and draws the B vs R
+[13:17:44] nyanners: not so difficult in hindsight but quite unexpected
+[13:17:59] Pineapplechiffoncake: Someday I will learn to play with more sense with less than 5 minutes on the clock
+[13:18:14] berndwind: Not much time is tough!
+[13:18:14] Pineapplechiffoncake: I just stop thinking!
+[13:18:29] nyanners: thats good, dont wanna flag :o
+[13:18:29] Pineapplechiffoncake: Maybe I should play blitz to get used to it :)
+[13:18:45] ysgwydd: Good moves quickly
+[13:18:45] nyanners: how hard could it be
+[13:19:30] nyanners: (very)
+[13:19:30] Pineapplechiffoncake: Lol
