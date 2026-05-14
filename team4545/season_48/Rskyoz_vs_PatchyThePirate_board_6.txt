@@ -1,0 +1,78 @@
+Lichess game chat log
+Game      : https://lichess.org/rcv0Sevu
+White     : rskyoz
+Black     : patchythepirate
+Time      : 45+45
+Captured  : 2026-05-14 00:58:24 UTC
+Game ended : 2026-05-13 23:38:19 UTC
+Messages  : 68
+────────────────────────────────────────────────────────────
+
+[21:31:28] Silkthewanderer: (1) Go Patchy
+[21:32:29] PatchyThePirate: hey silk, nice win earlier!
+[21:32:44] jcarmody: Arrr. It be my favorite buckaneer, Patchy! Go Patchy!
+[21:33:00] PatchyThePirate: hey stevenlongs! hello jcarmody!
+[21:33:45] Silkthewanderer: (2) We are getting to see a Caro after all, yay
+[21:34:16] Jarolos: go Rskyoz!
+[21:34:46] Silkthewanderer: (4) Panov is my least favorite Caro tbh, so many forced lines so much early simplification
+[21:34:46] Silkthewanderer: (4) Fingers crossed this will be a game with little of those
+[21:38:50] Silkthewanderer: (6) Bg4 is what often leads to early endgames after Qb3. g6 is a good way to avoid early simplification...
+[21:39:05] Silkthewanderer: (6) ...but actually getting something for the pawn is a bit of work
+[21:43:54] Silkthewanderer: (6) Bf5 is something I don't remember.... what is Black doing after Qb3 here?
+[21:44:10] guitarspider: Go patchy
+[21:45:10] PatchyThePirate: 7... Nxd5, okay a different move order but we got where i was expecting
+[21:45:41] Silkthewanderer: (7) Hm... I thought Qb3 without cxd5 is the way to go in order to avoid a Qb3 Nb4 scenario
+[21:49:29] PatchyThePirate: to be clear, just because i looked at this position earlier doesn't mean i feel confident about it :)
+[21:51:16] PatchyThePirate: but alas, any pirate worth their boots needs to be able to improvise
+[21:52:47] Pope123: Exchange caro-con scores poorly for me
+[21:53:48] Silkthewanderer: (9) This looks fine for Black. I dont see any way for White to generate seomthing quickly
+[21:54:34] Silkthewanderer: (9) White isnt in much danger either, the d pawn is too easy to liquidate. But the point where White will have to do so...
+[21:54:49] Silkthewanderer: (9) ...in order to not be worse, might come quite soon
+[21:55:34] Silkthewanderer: (10) Bb5 more or less forces Bd6, right?
+[21:58:37] Silkthewanderer: (10) After Rc8 I think White can get a little something with Ne5 Bd6 Nxc6 bxc6 Ba6
+[21:59:08] compact-hausdorff: (10...Rc8) go patchy! hoist the colours high!
+[22:03:57] Silkthewanderer: (11) Bd6 or Be7 I assume is the question
+[22:04:27] Silkthewanderer: (11) You would like the bishop on f6 but after Be7 Ne5 White gets to break the Black structure, too
+[22:07:15] Zubenelgenubi: go Patchy!
+[22:10:02] Rskyoz: well that was dumb
+[22:10:33] PatchyThePirate: 12. Nh4? hmmm is that a free knight
+[22:11:03] compact-hausdorff: (12. nh4) plunder!!!
+[22:11:03] Rskyoz: was thinking of lines where I play Bg5 and then maybe play Nh4 and just confused myself
+[22:11:18] Silkthewanderer: (12) Its 11 pm local time for Rskyoz and it shows
+[22:11:34] Silkthewanderer: (12) Bg5 def looked like the normal move there
+[22:12:19] compact-hausdorff: (12. Nh4) d5 also looked very interesting to me at a superficial glance
+[22:12:34] PatchyThePirate: uhhh it sure does look free... if i'm wrong, i sincerely apologize to my teammates
+[22:13:20] Silkthewanderer: (13) compact: 12. d5 and what if I just take?
+[22:15:22] PatchyThePirate: i wonder if 12. Nh4 was a misclick or something. I was calculating a lot of 12. Ne5 lines.
+[22:17:08] compact-hausdorff: (13) silk: d5 N:d5 N:d5 e:d5 Bg5 looked annoying, but on a non-superifical look maybe simply Qd7 is good for black
+[22:18:55] Silkthewanderer: (14) event f6 is possible in that line IMO
+[22:18:55] Silkthewanderer: (14) *even
+[22:19:26] Silkthewanderer: (14) if you gain the tempo on the bishop, artificial castling via f6 becomes an option and the check doesnt hurt
+[22:19:56] compact-hausdorff: (14) that's true, it was probably nonsense
+[22:33:38] Silkthewanderer: (17) 17. ...Be7 and White has nothing
+[22:37:57] PatchyThePirate: 18. Rxe6? i am fairly sure this exchange sac leads nowhere -- White doesn't have enough developed material to sustain an attack
+[22:53:10] Silkthewanderer: (22) Bc5 next to trade away the defender and then do bad things to White on f2
+[22:57:28] Silkthewanderer: Nc6 is a step in the wrong direction IMO. Still massively winning but now there is no quick Bc5
+[22:57:28] Silkthewanderer: And White can create a thewqt
+[22:57:43] Silkthewanderer: Threat with Bd3
+[22:59:45] Silkthewanderer: Now Bd3 h6 Rc1 and Black needs to make some accurate moves
+[23:00:01] Silkthewanderer: Should still be possible but not quite as fun as the position was 5 moves ago
+[23:06:51] MrScribbles: (26.Rc1) Go itchythepipette
+[23:18:17] Inter-temporal: (26) (26...Rcd8) Go riskypatch!
+[23:19:17] Inter-temporal: (26) (26...Rcd8) go MrScribowlzz!
+[23:24:07] Pope123: Rxc6 is a bit too much lol
+[23:24:22] Inter-temporal: (27) (27.Rxc6) (26) kitchen sink and all
+[23:25:23] compact-hausdorff: (27) kitchen sink, drain pipe, and sewer
+[23:27:10] compact-hausdorff: (27) slightly prefer black in this position
+[23:31:44] Pope123: If you ignore the material difference, white is better
+[23:33:15] Inter-temporal: (29) (29...Be5) true. better pawn structure; King safety; bishop pair;
+[23:33:45] Pope123: I'd sack the exchange as black
+[23:34:46] Pope123: 31.h4 question is which one
+[23:35:17] Silkthewanderer: But why? Just Bd4 kills all the White ideas
+[23:35:47] Pope123: Rxe3 fxe3 Qd6 feels strong idk
+[23:37:34] compact-hausdorff: (31...Bd4) if you ignore all other pieces it's a pretty interesting king and pawn endgame
+[23:37:34] compact-hausdorff: gg
+[23:38:35] Zubenelgenubi: gg
+[23:41:07] PatchyThePirate: gg
+[23:41:07] PatchyThePirate: thanks for tuning in everyone
+[23:45:10] Pope123: Gg
