@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/OMmF5iKK
+White     : switchoffengine
+Black     : sterpfi
+Time      : 45+45
+Captured  : 2026-05-14 19:28:41 UTC
+Game ended : 2026-05-14 18:08:37 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[16:21:34] bufferunderrun: let's go switch!
+[16:43:23] switchoffengine: i think he is considering if the king and pawn endgame is winning for him
+[16:44:39] switchoffengine: Bg5 Rg3 h6 i guess
+[16:49:28] switchoffengine: can i just take the pawn lol
+[16:50:14] gary0892: Think so
+[16:50:29] gary0892: not with the knight
+[16:51:15] gary0892: Well maybe with the knight now
+[16:51:15] switchoffengine: im taking it, calling the bluff
+[16:52:46] switchoffengine: hmm on second thoughts, gxh4 Rg2 Rd3 Bb6
+[16:54:02] switchoffengine: Ne5 is better
+[16:59:22] switchoffengine: i think he missed Ne5, because i did too :D
+[16:59:52] switchoffengine: probably he should have gone Bg5 to squeeze me when my knight on d2
+[17:05:42] switchoffengine: idea to go b4 in future. if b5 Rc5 Bb6 Nd7+ for example
+[17:07:44] switchoffengine: b4 Bc7 i cannot take Nxf7 as Rg7 traps knight
+[17:08:45] switchoffengine: or do i have Nh6 there and Rh4
+[17:09:15] switchoffengine: looks too dangerous for 1 pawn
+[17:10:46] switchoffengine: he has f4 g4 f3.. too much counterplay
+[17:14:20] switchoffengine: Nxf7 Rg7 Rh4! do i have this
+[17:16:21] switchoffengine: learning experience
+[17:20:10] switchoffengine: looks like draw after Rh4 Bxg3 though
+[17:20:25] switchoffengine: Nh6 looks bad though
+[17:22:27] switchoffengine: i go for win
+[17:26:00] switchoffengine: missed this..
+[17:30:49] switchoffengine: cant even trap the bishop with Rd4 Bg5+ f4 Bxh6 Rd8+ Kc7 Rh8 Rg6
+[17:32:05] switchoffengine: ah g4 Bb5+ f4 Bxh6 g5 ??
+[17:32:50] switchoffengine: pawn down, should still be losing, more chances than piece down though
+[17:34:06] switchoffengine: Nh6 such a stupid move, should just go Rh4 easy draw
+[18:08:06] ameyer: good game. exciting endgame!
+[18:09:38] bufferunderrun: gg
+[18:09:38] switchoffengine: right i had a blockade with my king with Ke4
+[18:09:53] switchoffengine: Re1 Ke4, hard to spot
+[18:11:39] sterpfi: Hmmm how? Which move?
+[18:11:54] switchoffengine: Nxf7 a little too ambitious
+[18:12:10] switchoffengine: 44. Re1
+[18:12:25] sterpfi: Yeah although I must say I was lucky that the knight is trapped there... not that I forsaw this
+[18:12:55] switchoffengine: i had a bad feeling but still went for it. i missed Bd8 of course, was only looking at Rg7
+[18:13:10] sterpfi: Ah I see, 44.Re1 is nice
+[18:14:11] switchoffengine: Rg6* i mean
+[18:14:11] sterpfi: I was under the impression that when my king comes into play, I'm winning, but the white king is very strong on e4
+[18:14:26] switchoffengine: mm yea
+[18:14:57] switchoffengine: just the typical blockade, i forgot about it, i was trying to keep the king out of the c file, thought it was the best
+[18:15:58] switchoffengine: i think the game was just decided with Nh6 blunder, i should go Rh4 and i even calculated it
+[18:16:13] switchoffengine: opening i thought i had more but this line gave black no problems it seems
+[18:17:59] switchoffengine: ggwp! good luck for the rest of your games
+[18:21:02] sterpfi: Thanks, you too
