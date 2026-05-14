@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/OMlY3clY
+White     : m_h_r
+Black     : sivakumarr
+Time      : 45+45
+Captured  : 2026-05-14 15:52:30 UTC
+Game ended : 2026-05-14 14:32:25 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[14:33:11] sivakumarr: I really should stop playing the Grunfeld
+[14:33:41] sivakumarr: 9...Nc6 was probably a mistake, but I couldn't figure out an effective plan
+[14:34:12] sivakumarr: Maybe b6, Nd7, Bb7?
+[14:34:57] sivakumarr: 11...Na5 doesn't look too bad, maybe I should have tried it
+[14:35:28] sivakumarr: After 13, I'm really struggling for knight squares
+[14:37:29] sivakumarr: I think 16. dxe6 fxe6 17. Qd6 was crushing. The bishop can go to g4 or b5 for whichever pin is better. Re1 is a non-starter, but Kf7 ...
+[14:37:29] sivakumarr: ...also looks disastrous
+[14:38:30] sivakumarr: 16...Qe8 was a mistake in light of Bg4. I didn't want d6 with tempo, but I now needed to make space for my knight anyway
+[14:39:00] sivakumarr: 18...Nxe5 - if I was going to lose, I at least wanted some activity
+[14:39:16] sivakumarr: Nothing else looks good - just death by a thousand cuts, so might as well
+[14:41:02] sivakumarr: Maybe Qh4 before Bxe5 would've been trickier, but I didn't like Rf4 as an immediate response. I may win an exchange, but my dark squares ...
+[14:41:02] sivakumarr: ...will then be naked against any king attacks
+[14:41:33] sivakumarr: At least with the game order, I put the LSB in Siberia
+[14:42:49] sivakumarr: I didn't see 24. Re4, but I don't think I had much better anyways. I can't trade rooks with f7 so weak, so there's not much else but to ...
+[14:42:49] sivakumarr: ...grab a pawn.
+[14:44:20] sivakumarr: 29...g5 might've been better in light of what happened in the game, but I didn't want to allow Bf5, g4 cutting up my kingside
+[14:44:50] sivakumarr: Even without that, f5 would be permanently weak, so I think I made the right call
+[14:45:51] sivakumarr: 31...Rd8 looked too easy for white's Queen to block considering I can't lend any light-square support
+[14:47:07] sivakumarr: 34. Ra8+ Kg7 35. Ra3 was a terrible waste of tempi, White needs to consolidate above everything else, and Ra3 threatens no Queen trade
+[14:48:08] sivakumarr: Ra6 looked a lot better; It would prevent my b5 flicks
+[14:49:09] sivakumarr: By 36...g4, I was pretty sure I had a draw somewhere
+[14:49:39] sivakumarr: It wasn't until 37 I found Qd2+ to secure the draw
+[14:50:09] sivakumarr: 40 was exceptionally greedy from White, and they paid for it immediately
