@@ -1,0 +1,86 @@
+Lichess game chat log
+Game      : https://lichess.org/5t2gPwc4
+White     : kayrosas
+Black     : qudit
+Time      : 45+45
+Captured  : 2026-05-15 00:45:32 UTC
+Game ended : 2026-05-14 23:25:28 UTC
+Messages  : 76
+────────────────────────────────────────────────────────────
+
+[21:03:55] Kayrosas: been a while since I had this line. I hope they dont have it prepped that well
+[21:04:41] Kayrosas: I remember 17.Nd2 should still be correct bc I had a blitz game go Qxd3?? Bc2?? instead of Rd4 winning a piece
+[21:05:26] Kayrosas: them starting to think here has me a bit worried tho
+[21:05:57] Kayrosas: there are some exchange sac lines like 17...g5 Rh6 Ng4 Ne4 but they are fine for white bc of the weak g pawn
+[21:06:43] Kayrosas: ....I hope (or remember?)
+[21:11:47] Kayrosas: ok I don't recall 17...Qg6 being critical
+[21:20:55] Kayrosas: my mind feels like a tired block of jello rn
+[21:23:12] Mennonite: Go Kayrosas!
+[21:23:27] Mennonite: About to begin my long drive home, we'll see if the game is still going when I return
+[21:23:42] Kayrosas: ok I'm moderately worried about 18...Bg4 being blitzed, huh
+[21:24:58] Kayrosas: dont think any Bxg3 stuff works
+[21:26:30] Kayrosas: like 19...Bf5 Ne4 Bxe4 dxe4 Bxg3 e5 should be good for me
+[21:34:22] fulmarsky: Go Kayrosas!
+[21:37:09] Kayrosas: 20.d4 forces trades, surely desirable. just checking if Ne4 has any value instead
+[21:39:11] Kayrosas: the essence of playing against the marshall: you're up a pawn, just trade
+[21:40:12] Kayrosas: it could get a bit drawish if I'm not careful tho
+[21:44:31] Kayrosas: 23.Bf4 Bb6 Nxf6 Qxf6 Be5?? Qxe5 would be a funny way to blunder the game
+[21:45:01] Kayrosas: 23.Nxf6 Qxf6 Re4 seems safest
+[21:46:17] Kayrosas: my bishop is a bit worse for now but should be alright
+[21:46:48] Kayrosas: I just have to be a bit careful of c5 ideas
+[21:48:04] Kayrosas: todo-list: Qe2, Bf4, Re1, Kg2
+[21:55:25] Kayrosas: 26.Be3 seems a bit more solid than Bf4, but not very harmonic. but c5 is a bit scary
+[21:56:56] Kayrosas: 26.Bf4 Bb6 Re1 c5 Re8 Rd8 idk if this is desirable
+[21:57:42] Kayrosas: oh, maybe a bit, Rxd8 Qxd8 dxc5 seems chill
+[21:59:29] Kayrosas: there's also some a4 ideas but not sure if it's worth the time
+[22:01:00] Kayrosas: I might be blitzing a bit much but I'm feeling confident and I really want to go to bed
+[22:05:34] Kayrosas: oh there might be 28...Rd8 d5 maybe, but seems very loose
+[22:13:26] Kayrosas: 29.d5 g5 looks weird
+[22:14:57] fulmarsky: (29.d5)  it is so immense to know the thought process
+[22:15:27] fulmarsky: (29.d5) shall the 'weird' ...g5 move be played.....
+[22:15:43] fulmarsky: (29.d5) This is tense......
+[22:16:13] fulmarsky: (29.d5) and complex...
+[22:16:44] fulmarsky: (29.d5) oh dear!!  ...c5-c4 gives check, hopefully it's not an issue
+[22:25:21] Kayrosas: i kinda missed 32...f6 but doesnt appear to be a problem
+[22:26:52] Kayrosas: now which way does my king go
+[22:27:38] Kayrosas: gotta make sure Im always read for Re8
+[22:37:16] Kayrosas: now 37.Be7 is actually a threat
+[22:38:47] Kayrosas: 36...Re8 Rx Kx g4 seems good i think. I dont see the breakthrough but trading with Bc7 never works for black
+[22:40:04] fulmarsky: (36...c4) this chess is another level
+[22:40:04] fulmarsky: (36...c4) the tenseness...
+[22:40:19] fulmarsky: (36...c4) the Board 1 tenseness
+[22:40:19] Kayrosas: hm, I thought 37.Be7 wins cleanly here but I dont win a second pawn
+[22:44:22] fulmarsky: (37.Ba3) oh!!! Ba3  oooh that's interesting
+[22:45:08] Kayrosas: took me a while to realise 37...Bg1 Kf1 lol
+[22:45:54] Kayrosas: there might also be just Re7+ and d6 instead, but difficult to calculate
+[22:47:40] Kayrosas: oh I forgot Re8 is still a ressource here, but should be good for me? my bishop is a bit offside tho
+[22:48:11] fulmarsky: (37.Ba3) oh at least the Ba3 bishop controls some key squares
+[22:49:27] fulmarsky: (37.Ba3) oh i imagine that white means  ...Bg1  Kf1 ...Bxh2  Kg2
+[22:53:30] Grzybozbur: i'm pretty sure 39...h4 requires at most 3 seconds to decide on
+[22:53:30] fulmarsky: (39.g4) these is complex the pawn endgame fo rme
+[22:53:45] fulmarsky: (39.g4) tense.....
+[22:54:31] Grzybozbur: probably still losing, but at least white would have to think a bit
+[22:56:33] Kayrosas: important detail is that black's bishop cant move off the a7-g1 diagonal with tempo so I always get Ke3 (hence g4 and h3 next)
+[23:01:22] Kayrosas: difficult to tell if I have enough, doesnt quite seem that way
+[23:03:08] Grzybozbur: i don't see how black can stop the invasion on the light squares
+[23:04:55] Grzybozbur: hm, maybe that's how
+[23:08:13] Grzybozbur: maybe f5-f4 and delegate the bishop to defend g5?
+[23:08:58] Kayrosas: I think 42...f4 might be a blunder, Bf2-g3 was an important ressource to contest the diagonal
+[23:08:58] Grzybozbur: and the king could somehow hold the queenside and the passer both?
+[23:09:44] Grzybozbur: what does bg3 do?
+[23:09:59] Grzybozbur: it just lets white play ke3-e4
+[23:10:14] Kayrosas: well, only a blunder if I can actually break through here somehow
+[23:14:03] Kayrosas: there is a line where we trade bishops and black ends up in zugzwang, not sure if its forcing yet tho
+[23:17:21] Grzybozbur: yeah, the pawn ending, i refuse to calculate that
+[23:17:51] karasso: Bd4 Bxd4 cxd4 should be winning for white
+[23:20:54] Grzybozbur: but even if bishops come off and black wins d5, either a6 or c4 will surely fall. right?
+[23:21:09] karasso: yes
+[23:21:09] Grzybozbur: and then it's over
+[23:21:39] karasso: Black should have played Bd8 right away
+[23:21:54] Grzybozbur: i was thinking black could try getting the king to b5 somehow
+[23:21:54] karasso: but probably still lost after Bc5+
+[23:22:10] Grzybozbur: with the bishop on d8
+[23:23:11] Grzybozbur: now it's easy
+[23:24:42] Grzybozbur: ah, but even with kb5/bd8 white would have d6 and black has no moves
+[23:24:57] karasso: gg
+[23:48:46] MrScribbles: gg
