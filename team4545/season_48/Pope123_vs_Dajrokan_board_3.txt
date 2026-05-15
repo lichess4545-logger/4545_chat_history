@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/c9JSLzIL
+White     : pope123
+Black     : dajrokan
+Time      : 45+45
+Captured  : 2026-05-15 18:37:16 UTC
+Game ended : 2026-05-15 17:17:11 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[16:04:21] Pope123: (4...c6) Don't know that move
+[16:05:07] guitarspider: go pope
+[16:05:22] Pope123: (4...c6) h4-h5 or Qd2?
+[16:06:08] Pope123: (4...c6) f4 also worthy of consideration
+[16:06:54] guitarspider: e5 too maybe
+[16:08:10] Jarolos: go Dajrokan!
+[16:10:58] Pope123: (5...b5) ok maybe e5 was better
+[16:11:28] Pope123: (5...b5) if h6 I auto chop @stevenlongs
+[16:15:31] Pope123: (5...b5) im losing a tempo with e5, but the resulting endgame seems ok idk
+[16:17:03] Pope123: (5...b5) e5 dxe5 dxe5 Qxd2 Kxd2 Ng4 Nf3 c5
+[16:17:03] Pope123: (5...b5) c5 drops b5 nvm
+[16:17:48] guitarspider: F2 is hanging in that line now with Qd2
+[16:18:49] Pope123: (6.e5) Weak e-pawn might cause issues perhaps
+[16:20:51] Pope123: (8...Ng4) oh no why did i premove that
+[16:21:06] Jarolos: Kxd2 ?
+[16:24:24] Pope123: (9.Ne4) Never trust your calculation
+[16:28:28] Pope123: (10.Re1) I wish I could pretend like that was a brilliant pawn sacrifice if this leads to something
+[16:34:33] Pope123: (10.Re1) f6 is probably --=
+[16:34:48] Pope123: (10.Re1) nvm I can just take
+[16:39:07] Pope123: (10.Re1) Be6 f4 Nc4+ Bxc4 Bxc4 ok i just refuted my gambit
+[16:39:22] Pope123: (10.Re1) although Be6 Nc5 is maybe something
+[16:41:55] Pope123: (10.Re1) Be5 Nc5 Nc4+ Kc1 Bg7 c3 hmmm
+[16:43:41] Pope123: (10.Re1) Or i can just ignore the threat on b2 and sack the exchange or something
+[16:45:13] Pope123: (10.Re1) Be6 Nf6+ probably easiest
+[16:46:59] Pope123: (10.Re1) Be6 Nf6+ Kd1 Rxe5 wins the pawn back, but not very convcincing
+[16:48:46] Pope123: (10.Re1) Definitely going for Be6 Nc5
+[16:53:20] Pope123: (11.Nf6+) Hmm maybe my rook gets trapped -- need to sloow down
+[16:58:41] Pope123: (13.Ne4) I think im losing an exchange
+[16:59:11] Pope123: (13.Ne4) f6 Rc5 e6 Rc3 Bb4
+[16:59:57] Pope123: (13.Ne4) at least il get the f6 pawn for it
+[17:00:12] Pope123: (13.Ne4) or g5
+[17:01:43] Pope123: (13...Nd7) ah right that too
+[17:02:29] Pope123: (13...Nd7) Thats a nice move, didnt see Bh6
+[17:07:03] Pope123: (14.Nf3) Bishop pair + exchange, I dont think there is much hope
+[17:07:33] Pope123: (14.Nf3) Great knights though
+[17:08:34] Pope123: (14.Nf3) bg7 Rxg5 Bh6 at least its the same line with a tempo up
+[17:10:51] Silkthewanderer: Go Pope
+[17:15:40] guitarspider: Unfortunately I don't think there'll be much going anymore. :(
+[17:17:27] guitarspider: gg
+[17:22:31] Pope123: I think Silk meant; 'go back to Kxd2'
+[17:23:32] Jarolos: test
+[17:25:03] Dajrokan: after re1 I thought I'm almost loosing, no variations worked for me, so I opted at least to attack your piece with h6
