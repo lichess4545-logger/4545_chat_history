@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/SUcRB4Nf
+White     : cxb451
+Black     : enprisewithease
+Time      : 45+45
+Captured  : 2026-05-15 22:21:21 UTC
+Game ended : 2026-05-15 21:01:17 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[19:41:06] EnPriseWithEase: (8...Qb6) I don't know why any self-respecting French player would play this line.
+[19:41:06] EnPriseWithEase: (8...Qb6) It is full of landmines for black.
+[19:41:06] EnPriseWithEase: (10...Qa3) Let's see where my theory runs out. Gulp.
+[19:41:06] EnPriseWithEase: (11...Qe7) was considering Qa5 but this feels safer
+[19:41:06] EnPriseWithEase: (11...Qe7) expecting Bb5
+[19:41:06] EnPriseWithEase: (11...Qe7) i have two main things to worry about in this position. first, getting my king castled which is tricky.
+[19:41:06] EnPriseWithEase: (11...Qe7) second, not letting my queen get trapped.
+[19:41:06] EnPriseWithEase: (11...Qe7) and third (ok, 3 things), defending d5 after the f5 push
+[19:41:06] EnPriseWithEase: (12.Ncb5) definitely out of book here
+[19:41:06] EnPriseWithEase: (12...Qd8) and my king doesn't get to castle after Nd6
+[19:41:06] EnPriseWithEase: (12...Qd8) or maybe i do
+[19:41:06] EnPriseWithEase: (12...Qd8) maybe i have Nc5 followed by Ne4 at some point
+[19:41:06] EnPriseWithEase: (12...Qd8) Be7 or a6 or Nxd4 or Qa5 are all ideas
+[19:41:06] EnPriseWithEase: (13...bxc6) Nxa7?
+[19:48:43] EnPriseWithEase: (14.Nxa7) thinking about Bc5
+[19:52:31] EnPriseWithEase: (14.Nxa7) i can't find a flaw, so here goes
+[19:54:33] EnPriseWithEase: (14...Bc5) I guess Nxc8 Bxe3 Qxe3 Qxc8, but oh, check first? so take the knight first? hmmm.
+[19:59:07] EnPriseWithEase: (15.Nxc6) ok, i feel i miscalculated now
+[19:59:07] EnPriseWithEase: (15.Nxc6) lets see
+[20:13:51] EnPriseWithEase: (15...Qc7) need to be careful not to get my queen skewered
+[20:15:07] EnPriseWithEase: (15...Qc7) but I also want to castle
+[20:27:17] EnPriseWithEase: (16...Bxe3) was worried about the discovered attack after N retakes on c5, so figured to trade first
+[20:27:32] EnPriseWithEase: (16...Bxe3) i want that a2 pawn
+[20:29:19] EnPriseWithEase: (17...Rxa2) really need to get castled
+[20:29:49] EnPriseWithEase: (17...Rxa2) and f5 will come soon maybe
+[20:30:50] EnPriseWithEase: (18.O-O) am i greedy?
+[20:31:36] EnPriseWithEase: (18.O-O) i want to be greedy
+[20:33:53] EnPriseWithEase: (18...Rxc2) i don't see the response
+[20:34:08] EnPriseWithEase: (18...Rxc2) I am also threatening Rxc6 maybe?
+[20:37:26] EnPriseWithEase: (19...Rc5) f5, f5, f5, what else?
+[20:38:42] EnPriseWithEase: (19...Rc5) f5 and pushing e6, yikes
+[20:38:57] EnPriseWithEase: (20.f5) my knight is still pinned
+[20:40:44] EnPriseWithEase: (20.f5) dangerous
+[20:45:03] EnPriseWithEase: (20...Ke7) i don't know
+[20:45:03] EnPriseWithEase: (20...Ke7) had to make some move
+[20:45:03] EnPriseWithEase: (20...Ke7) e6 is such a dangerous fork
+[20:45:33] EnPriseWithEase: (20...Ke7) and i don't want the f file open but don't see any alternative
+[20:46:19] EnPriseWithEase: (20...Ke7) this is the kind of game i wanted, i need to practice tactical positions
+[20:49:06] EnPriseWithEase: (21...Kf8) time pressure is getting to me now a bit.
+[20:49:06] EnPriseWithEase: (21...Kf8) i do not love the triple fork possibility
+[20:50:53] EnPriseWithEase: (21...Kf8) i might have Qe5
+[20:51:23] EnPriseWithEase: (21...Kf8) Rg8 if f6?
+[20:51:54] EnPriseWithEase: (21...Kf8) too many threats
+[20:55:42] EnPriseWithEase: (23...Bc8) game over
+[20:55:42] EnPriseWithEase: (23...Bc8) i had to defend e6
+[20:57:44] EnPriseWithEase: (26...Ke8) not sure exactly where i went wrong
+[21:00:16] EnPriseWithEase: (28...Ba6) i know i should resign
+[21:00:46] EnPriseWithEase: (29...Kd7) good game, Cxb451
+[21:01:01] jdw10: gg
