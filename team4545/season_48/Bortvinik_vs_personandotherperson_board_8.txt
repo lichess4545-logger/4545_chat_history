@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/R02OlpcL
+White     : bortvinik
+Black     : personandotherperson
+Time      : 45+45
+Captured  : 2026-05-15 06:10:27 UTC
+Game ended : 2026-05-15 04:50:22 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[03:28:27] Bortvinik: 28. feel like there has to be some way to continue the attack against the king but I can't see it
+[03:28:58] Bortvinik: maybe i pivot to the queenside to try pick up the weak c or a pawns?
+[04:00:40] JEEprep2374: (33...Kg7) Qxc7 should be possible here maybe?
+[04:01:10] JEEprep2374: (33...Kg7) white's e-pawns are just overpowering
+[04:03:12] Bortvinik: is 34. Qxc7 actually working?
+[04:04:13] Bortvinik: 34. Qxc7 Rxc7 35. Nxe6
+[04:04:28] JEEprep2374: (34.Qxc7) lesgooo
+[04:26:17] JEEprep2374: (46...Ra8) Ra2 seems logical here
+[04:27:02] JEEprep2374: (47.Ra2) just dont blunder e6 in trying to go after c4
+[04:27:18] JEEprep2374: (47...Raa7) maybe Re4 or something first to go Ke3 Kd4
+[04:28:03] JEEprep2374: (48.Re4) or Kf4 Ke5 Kf6 even
+[04:30:20] JEEprep2374: (49.Ke3) c2 is a nice way to lose
+[04:31:36] JEEprep2374: (50...Ra8) Just Rc4 here probably
+[04:32:07] JEEprep2374: (51.Kc2) I mean sure but be carefull of Rd8-d2
+[04:32:37] JEEprep2374: (51.Kc2) probably even sac the pawns there with e7 and win using the a pawn
+[04:40:29] JEEprep2374: (54.Rf4) Rxc3 Kxc3 Ra8 f8Q is an easy way to win this
+[04:42:15] JEEprep2374: (54.Rf4) Kf8 e7+
+[04:43:16] JEEprep2374: (55...Ra8) f8=Q+ and white is in time to defend e6, and it should be easy from there
+[04:44:32] JEEprep2374: (57.Ke5) sure this works too but queening was cooler >:(
+[04:45:03] nyanners: looking for the stalemate net but i dont see it
+[04:45:18] nyanners: and black has a mobile pawn of course
+[04:45:18] nyanners: but even if not
+[04:45:33] JEEprep2374: (58.Rd4) Well there is a very clear mating net so like close enough
+[04:45:48] nyanners: XD
+[04:45:48] nyanners: yea i feel thats not what black wants
+[04:46:04] nyanners: it could be. sometimes you must end the suffering
+[04:46:19] JEEprep2374: (58...Rc8) The only time where something is better stale.
+[04:48:05] nyanners: i was wondering if you have a premovable
+[04:48:05] nyanners: like premove 60 Kf6 and Rd8 e7# no matter what
+[04:48:21] nyanners: either Rd8 is mate, or e7 is mate
+[04:48:51] nyanners: funny line like 60..Re8 Rd8 h5 e7# still mate
+[04:50:07] JEEprep2374: GG
+[04:50:07] nyanners: gg
