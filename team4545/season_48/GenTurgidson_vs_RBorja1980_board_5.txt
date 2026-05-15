@@ -1,0 +1,96 @@
+Lichess game chat log
+Game      : https://lichess.org/tgMq0wGn
+White     : genturgidson
+Black     : rborja1980
+Time      : 45+45
+Captured  : 2026-05-15 21:15:19 UTC
+Game ended : 2026-05-15 19:55:14 UTC
+Messages  : 86
+────────────────────────────────────────────────────────────
+
+[18:28:58] Feet_Barbie: (1.c4) goo
+[18:28:58] GenTurgidson: Been playing some absolutely awful Blitz games with the English today, so let's take it for a spin in classical.
+[18:28:58] RBorja1980: Hello Barbie and Scribbles
+[18:28:58] bufferunderrun: let's go GT!
+[18:28:58] GenTurgidson: This is probably why I shouldn't play the English. In this position I have no idea what to do.
+[18:28:58] GenTurgidson: Considering offering a draw because I genuinely can't find a move.
+[18:28:58] GenTurgidson: Maybe a4.
+[18:28:58] GenTurgidson: Candidate moves are 10.a4, e4 or a3. Maybe d4.
+[18:29:43] bufferunderrun: the only one that makes sense to me is a4
+[18:36:19] GenTurgidson: 10.Ng4 is the first weird move. I play h3 to kick it, weakening my king, he reatreats... now I have no idea what to do, again.
+[18:37:05] bufferunderrun: Ng4 prepares Ne5 I guess
+[18:39:22] bufferunderrun: dxe perhaps
+[18:40:23] bufferunderrun: it looks a bit weird, but after Nxe5 f4 and then e4 white gets position rolling
+[18:41:39] bufferunderrun: dxe also prevents e4, since d3 would be weak, and f4 isn't ideal
+[18:41:54] bufferunderrun: b4 makes no sense to me
+[18:42:10] bufferunderrun: it just made the a-pawn weak
+[18:46:59] bufferunderrun: b6 looks bad to me
+[18:47:14] bufferunderrun: now bxc5 and dxc is forced
+[18:47:29] GenTurgidson: I feel like he's helping me find moves.
+[18:47:29] bufferunderrun: but you can even play a5 here now
+[18:48:45] GenTurgidson: Although not sure that was the right move, looks aggressive though.
+[18:51:33] bufferunderrun: if 16.Nc3 Nxc4 works I guess
+[18:52:03] bufferunderrun: ah no, nevemind
+[19:00:11] bufferunderrun: 18.a5 still looked like an option
+[19:01:27] bufferunderrun: Rd7 seems alright, I guess
+[19:01:42] bufferunderrun: then perhaps f5, Nxc4
+[19:01:57] bufferunderrun: this time it should work
+[19:22:46] GenTurgidson: I think I actually weirdly have the upper foot depending on how he plays this.
+[19:22:46] GenTurgidson: *hand
+[19:24:32] Feet_Barbie: (25...Rxb5) *foot
+[19:24:48] Feet_Barbie: (25...Rxb5) lmao i m stealing this quote ahah
+[19:25:18] bufferunderrun: Rb2 maybe next
+[19:25:48] GenTurgidson: Forgot about the revealed check as I made that move. I will still fight down the exchange.
+[19:26:04] GenTurgidson: Actually it's not so bad, he's not taking a piece with the check.
+[19:26:19] Feet_Barbie: (26.Ra1) how does it win the exchange ahahah
+[19:27:35] Feet_Barbie: (27.Qa8) ok doesnt look great uh
+[19:28:36] Feet_Barbie: (27...Nc6) but if anyone can find a tactical shot in a hopeless position its my boy
+[19:28:36] bufferunderrun: 28.Ra6 looks fine
+[19:28:51] Feet_Barbie: (27...Nc6) oh i thought not great for black
+[19:29:07] Feet_Barbie: (27...Nc6) but also when i wrote i thought it was white to move xd
+[19:30:07] bufferunderrun: I guess 28...Ne7 is forced now
+[19:30:53] bufferunderrun: I guess not
+[19:31:08] Feet_Barbie: (28...Rb7) nc4?
+[19:31:23] bufferunderrun: yeah, makes sense
+[19:31:39] Feet_Barbie: (28...Rb7) e5 doesnt work
+[19:31:39] Feet_Barbie: (28...Rb7) i think
+[19:32:55] bufferunderrun: Idk, maybe it does
+[19:33:40] bufferunderrun: I don't see how else to stop Nd6+
+[19:34:11] Feet_Barbie: (29.Nc4) yeah mmh e5 rxc6 maybe? but qxc6holds cos of rb1 stuff too
+[19:34:11] Feet_Barbie: (29.Nc4) yeah
+[19:34:26] Feet_Barbie: (29.Nc4) funny
+[19:34:41] bufferunderrun: unless Bf8 hmmm
+[19:34:41] bufferunderrun: ah no
+[19:34:56] bufferunderrun: Rxc6 then
+[19:35:12] Feet_Barbie: (29.Nc4) e5 rxc6 qxc6 bxe5 rb1+
+[19:35:27] Feet_Barbie: (29.Nc4) yeah in the bf8 line rxc6 also
+[19:35:42] Feet_Barbie: (29.Nc4) borja will play e5 gen think he wins a pawn and borja wins the queen
+[19:35:42] Feet_Barbie: (29.Nc4) xP
+[19:36:28] bufferunderrun: see, I wanted Ne7 earlier
+[19:36:43] Feet_Barbie: (29...Rb1+) holy guacamoli now everything black has is hanging
+[19:39:46] bufferunderrun: Qd5 what else?
+[19:45:20] bufferunderrun: 31.Bd6, then grab on e7 i guess
+[19:47:38] Feet_Barbie: (30...Ne7) mmh idk nd6 also
+[19:47:53] Feet_Barbie: (30...Ne7) or bg5 xd
+[19:48:23] Feet_Barbie: (30...Ne7) also threatens mate
+[19:48:38] Feet_Barbie: (31.Bg5) oof he plays it
+[19:49:09] Feet_Barbie: (31.Bg5) i dont see anything heree
+[19:49:24] bufferunderrun: I thought this allowed Qd5
+[19:49:24] Feet_Barbie: (31.Bg5) qd5 nd6
+[19:49:39] Feet_Barbie: (31.Bg5) but ok maybe engine will say rh1
+[19:49:39] Feet_Barbie: (31.Bg5) ahah
+[19:49:39] bufferunderrun: ah, Nd6+, right
+[19:49:54] Feet_Barbie: (31.Bg5) to last 3 moves
+[19:52:42] bufferunderrun: will be funny if Nc8 work, probably isn't once again because of Nd6+
+[19:54:13] GenTurgidson: I think this is quite sneaky because if 32...Bg7 then Ne5+ and if Bx then Qf8#.
+[19:54:44] GenTurgidson: Maybe the safest approach because I'm getting tired and struggling to calculate.
+[19:54:44] bufferunderrun: yeah
+[19:54:59] bufferunderrun: what about g5?
+[19:55:14] Feet_Barbie: (33.Ne5+) oof
+[19:55:14] Feet_Barbie: (33...Bxe5) gg
+[19:55:14] GenTurgidson: Although he maybe could have played Nc8 there.
+[19:55:29] bufferunderrun: gg
+[19:55:29] GenTurgidson: GG, well played.
+[19:56:45] GenTurgidson: Engine says Nd6+, which I was obviously looking at but couldn't make it work with 100% clarity. I was looking at Nd6+ Kf6 Ne8+ Kf7 Nxg7.
+[19:57:01] GenTurgidson: and it got hazy in my brain.
+[19:57:31] GenTurgidson: Yeah, computer like that because it was a mate in 22 or something stupid - no wonder.
