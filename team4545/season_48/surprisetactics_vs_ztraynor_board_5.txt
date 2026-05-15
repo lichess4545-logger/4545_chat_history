@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/b8Vx4oxh
+White     : surprisetactics
+Black     : ztraynor
+Time      : 45+45
+Captured  : 2026-05-15 02:15:06 UTC
+Game ended : 2026-05-15 00:55:02 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[23:27:47] ztraynor: too much time trying to make the b7 sack work, if I
+[23:28:17] ztraynor: really hope that's the other team no-showing on board 5 right now...
+[23:42:29] ztraynor: I was a lot more worried about Ne5 so Nd2 is a bit of a relief?
+[23:50:21] ztraynor: (14...c5) I call this the extremely delayed Tarrasch
+[00:16:14] ztraynor: wow and here I was sure BxQ NxQ BxR simply won a rook (RxB Rxf5B), what's this now?
+[00:18:00] gorytnych: wow everything is hanging
+[00:22:49] ztraynor: two pawns for the piece, I'll take that
+[00:26:53] ztraynor: oh wtf guys...
+[00:29:40] ztraynor: there's about to be some surprise tactics for someone, I just need to be sure it isnt' me...
+[00:31:42] ztraynor: Rxd2 Bxf7 Kf8! because any discovery is met with Rxf2, right?
+[00:35:00] ztraynor: the version where I lose the f-pawn seems better than the one where I can't hold the c-pawn
+[00:35:45] ztraynor: oh but not if there's also an a=pawn issue
+[00:47:10] ztraynor: oh no, now I can't defend my c-pawn, how tragic (he says in an overperformative manner)
+[00:56:18] ztraynor: Yeah the thing about having multiple pieces hanging is that one's opponent can only take one of them at a time
+[00:58:04] surprisetactics: I looked at Bxd8 for a long time but I’m pretty sure I only win a pawn
+[00:58:34] surprisetactics: I think I only win a pawn with Bxd8
+[01:00:06] ztraynor: Ahhh Nd3 kicking the rook is an option at the end of the BxQ NxQ line, didn't see that far
+[01:01:52] ztraynor: The knight eventually hanging on d2 was why I thought I could get away with some of the lines
+[01:02:53] surprisetactics: Ack. Was trying to type it out but basically Bxf7+ intermezzo is all I get after the Bxd8 line
+[01:02:53] ztraynor: And Rxd2 doesn't work because I go from having two pawns for the piece, with activity and a passer, to instead being an exchange down...
+[01:03:08] ztraynor: ...without activity, once the pawns that can't be defended anymore drop
+[01:03:38] surprisetactics: I was really worried about g5 Qc1 Nxe3 and black gets a lot for the piece I think
+[01:03:38] ztraynor: Glad my internet chose to wait until after the game to be weird
+[01:05:25] ztraynor: I think too much is hanging if ...g5, and Black really never wants to take on h4 with the g pawn, structure is wrecked forever
+[01:06:10] surprisetactics: Anywho GG. I thought I was a lot better after c4 but c5 and I guess I didn’t have anything.
