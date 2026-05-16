@@ -1,0 +1,207 @@
+Lichess game chat log
+Game      : https://lichess.org/5PUYgRWu
+White     : inter-temporal
+Black     : ysgwydd
+Time      : 45+45
+Captured  : 2026-05-16 22:45:01 UTC
+Game ended : 2026-05-16 21:24:56 UTC
+Messages  : 197
+────────────────────────────────────────────────────────────
+
+[19:02:20] R0B-W: Go, ysgwydd!
+[19:02:50] Inter-temporal: (1) (1.e4) expecting sicilian
+[19:02:50] Feet_Barbie: (1...c5)  big game
+[19:03:36] Inter-temporal: (1) (1...c5) gonna try the opening our board 8s played. some kind of weird Alekhine
+[19:03:51] Inter-temporal: (2) (2.c3) maybe
+[19:03:51] Inter-temporal: (2) (2.c3) but i noticed the branches were voluminous
+[19:04:52] R0B-W: (4.Nd5) Sicilian Alapin, I think, but similarities to Alekhine
+[19:05:07] Inter-temporal: (4) (4.Nf3) gonna be a test of memory after i castle, likely move 9
+[19:05:53] Inter-temporal: (9) (9.O-O) first major branch
+[19:05:53] mongreltiger: go it!
+[19:06:08] Inter-temporal: (9) (9.O-O) he once played ...g6
+[19:06:23] Inter-temporal: (9) (9.O-O) but ...Bg4 is probably more crazy
+[19:06:23] ysgwydd: (9.O-O) I believe mongreltiger played ...g6 here
+[19:06:39] Inter-temporal: (9) (9.O-O) my main target is the pawn on c4, oc
+[19:07:09] Inter-temporal: (9) (9...Bg4) if black managed to land a piece on d3 and castle, i'd be totally lost
+[19:07:40] HighonPotnuse: go it!
+[19:07:40] Inter-temporal: (10) (10.Re1) now ...Ne5 is a move, but there are others, oc. ...0-0-0, ...Qf6,
+[19:07:40] Feet_Barbie: (10.Re1) oh is this from rob vs mongreltiger
+[19:07:55] Feet_Barbie: (10.Re1) already inspiring future generations
+[19:08:25] HighonPotnuse: Yay another Alekhine: sicilian variation just as IT promised
+[19:08:41] Inter-temporal: (10) (10.Re1) i'll have to slow down now and try to recall stuff. or maybe even calculate. ahhhh
+[19:08:56] R0B-W: (10.Re1) Replaying the classics ;-)
+[19:09:42] Inter-temporal: (10) (10.Re1) i'm already getting fuzzy.... about the lines
+[19:10:27] oOoSHONUFFoOo: Gooo Inter!
+[19:12:29] Inter-temporal: (10) (10.Re1) if i had my way, i'd get smth like Na3, Qe2 or b3 or both
+[19:12:44] Inter-temporal: (10) (10.Re1) or maybe a4 first, especially if he plays ...e6
+[19:13:15] Inter-temporal: (10) (10.Re1) or maybe ...e6, Na3 right away
+[19:13:45] Inter-temporal: (10) (10.Re1) black move here should signal where he wants to castle
+[19:14:01] Inter-temporal: (10) (10.Re1) especially if he castles. lol
+[19:16:02] Inter-temporal: (10) (10.Re1) we're in a tabiya for the "weird Alekhine variation" of the alapin. lol
+[19:16:18] Inter-temporal: (10) (10.Re1) honestly, it's too much. i might not try this one again.
+[19:18:20] Inter-temporal: (10) (10.Re1) i even noticed some lines where the d2-pawn stays put forever.... strangeness
+[19:19:20] Inter-temporal: (10) (10.Re1) good strategy on black's part, because the longer he waits, the fuzzier my short-term memory gets. lol
+[19:19:51] Inter-temporal: (10) (10...O-O-O) here, i think is  when i play h3 and a4, but gotta think
+[19:20:52] ysgwydd: (10...O-O-O) I had a brief look at 10.h3 Bh5 Qe2 before the game and I don't think all ideas work here also
+[19:21:07] ysgwydd: (11.h3) I know O-O-O is thematic
+[19:25:11] Inter-temporal: (12) (12.a4) honestly, i can't recall anymore
+[19:25:41] Inter-temporal: (12) (12.a4) back at 10...Ne5 was top main line, iirc
+[19:27:13] Inter-temporal: (12) (12.a4) Na3 threatens the c4 pawn, seems like a likely candidate
+[19:27:43] Inter-temporal: (12) (12.a4) maybe b3 so i break the c4-pawn and have Ba3
+[19:28:29] Inter-temporal: (12) (12.a4) maybe Qe2 also threatens the c4 pawn via a4-a5
+[19:28:59] Inter-temporal: (12) (12.a4) i also noticed white allows doubled f-pawns often in these lines.
+[19:30:46] Inter-temporal: (12) (12...Na5) hm. gotta consider b4 too
+[19:31:32] Inter-temporal: (12) (12...Na5) nah. just develop smth most likely
+[19:34:19] Oachkatzerlschwoaf: go mr. temporal!
+[19:35:51] Inter-temporal: (13) (13.Na3) our poor dsbs. just twiddling their thumbs
+[19:39:24] Inter-temporal: (13) (13.Na3) i think i missed smth
+[19:43:12] ysgwydd: (13...Qf6) Be4 Nb3 Rb1 Nc5
+[19:44:28] ysgwydd: (13...Qf6) Qf6 is a move in Qe2 lines. There probably is some difference to this, but can't see it.
+[19:44:59] ysgwydd: (13...Qf6) I know that stockfish likes g4 in similar positions. Not sure if we'll see that here
+[19:44:59] Inter-temporal: (13) (13...Qf6) maybe Be4 if i care about the f-pawns, idk or just Qe2 Bxf3, gxf3
+[19:45:29] ysgwydd: (13...Qf6) Hi all spectators!
+[19:45:45] ysgwydd: (13...Qf6) Even jg77 who stopped streaming right when this game started
+[19:47:16] ysgwydd: (13...Qf6) As you can see I am a fan of symmetrical pawn structures
+[19:47:46] fork2020: Go ysgwydd!
+[20:06:02] ysgwydd: (15.gxf3) To check or not to check
+[20:08:19] ysgwydd: (15...Qh4) Plan is Rd5-Rg5
+[20:09:05] ysgwydd: (15...Qh4) If d4 then cxd3 Bxd3 Nb3 and if I get the DSB then Rg5 is hard to stop.
+[20:10:06] ysgwydd: (15...Qh4) I think there is something similar in Qe2 lines and the fact that the rook doesn't protect f2 matters
+[20:10:21] ysgwydd: (15...Qh4) If Kh2 and Kd5 then I have Qxf2+
+[20:12:23] ysgwydd: (15...Qh4) Maybe white can give up on h3 here
+[20:13:09] ysgwydd: (15...Qh4) Qe4 or something
+[20:13:39] ysgwydd: (15...Qh4) Qh4 might be wrong. Qg5+ Kh2 Qh4 attacks f2 and stops Qe4
+[20:14:25] ysgwydd: (15...Qh4) e6 + Bd6 is also a problem for white
+[20:14:40] ysgwydd: (15...Qh4) Or Bc5
+[20:18:13] ysgwydd: (16.Kg2) Rd5 f4!?
+[20:33:42] ysgwydd: (18...Nb3) Be3 Rh5 Rh1 Nxa1
+[20:40:02] Inter-temporal: (19) (19.Be4) idk. kinda complicated and i probably already went wrong somewhere
+[20:40:18] Inter-temporal: (19) (19.Be4) also considered Rb1, oc and c4, and others
+[20:40:48] Inter-temporal: (19) (19.Be4) he can play Rg5+ anyway, which seemed complicated
+[20:41:03] Inter-temporal: (19) (19.Be4) or Nxa1, which also seemed complicated. lol
+[20:41:03] ysgwydd: (19.Be4) Nxc1 or Rh5
+[20:41:49] Inter-temporal: (19) (19.Be4) i think black is playing very well, which i expected
+[20:45:52] Inter-temporal: (19) (19.Be4) i kinda missed Nxc1 hits my Q
+[20:51:27] alp_arslan92: (21...Rxa5) Go ysg!
+[20:57:02] ysgwydd: (24...Nb3) Not good
+[20:57:17] alp_arslan92: (24...Nb3) Really? It looks okay for me
+[20:59:49] ysgwydd: (26...Nxc5) Somehow a piece up
+[21:00:20] oOoSHONUFFoOo: Surprice piece up beats surprice piece down.
+[21:00:35] ysgwydd: (26...Nxc5) Maybe time to develop
+[21:02:37] alp_arslan92: (26...Nxc5) e6 with the threat Bd6 suggests itself next
+[21:05:55] guitarspider: (29.Kg2) Kc7 looks safe enough
+[21:07:57] nyanners: 30 b4?
+[21:08:12] nyanners: umm qg5 nxe4
+[21:08:42] nyanners: like b4 Nd7 Qc4+ would seem quite unclear
+[21:09:28] Bpack: Maybe Qc4 first to get the party started
+[21:09:43] nyanners: this introduces Qd7+. feels reasonable
+[21:10:44] nyanners: like yea 31 b4 now?
+[21:10:44] nyanners: nxe4 qd7+ wins
+[21:11:14] nyanners: so you need..... i dont know what you need. to give the piece back, maybe
+[21:13:16] nyanners: yea qd7 qd8 ra1 premoves
+[21:13:31] oOoSHONUFFoOo: qe8 no
+[21:13:46] nyanners: oops yea
+[21:14:02] Inter-temporal: (34) (34.Qe8+) did i catch him? don't hope too soon
+[21:14:17] nyanners: i just saw it wrong tho. i saw it with qd8
+[21:14:17] nyanners: total oopsie
+[21:14:47] nyanners: this one is not premovable but yea Rd7+ now
+[21:15:33] guitarspider: (34...Kc7) lack of development coming back to haunt ysg
+[21:15:48] guitarspider: (34...Kc7) that's brutal
+[21:16:04] nyanners: and ummmmm.. then what? am i really so tired i dont see how to win this position XD
+[21:16:19] Inter-temporal: (35) (35.Rd7+) wait
+[21:16:19] nyanners: okay rd8 and queen controls b5
+[21:16:34] nyanners: so yea rd8 premove qd7 for real this time
+[21:17:20] ysgwydd: (35...Kc6) It's mate
+[21:17:20] guitarspider: (35...Kc6) kind of amazing that black has four pieces and none can do anything about it
+[21:18:21] ysgwydd: (35...Kc6) Rd8 Kc7 Qc8#
+[21:18:36] nyanners: well rook is in the way. qd7# tho
+[21:18:51] ysgwydd: (35...Kc6) Qd7# sorry
+[21:19:37] nyanners: yea i spent way too much time looking at Rd4
+[21:20:22] nyanners: i dont see the followup, i.e. the only win i see is repeat into mate
+[21:20:22] Bpack: Mate is kind of difficult to see
+[21:20:53] nyanners: maybe white will draw. im sorta feeling it :D
+[21:21:23] oOoSHONUFFoOo: Jeebus...
+[21:21:23] oOoSHONUFFoOo: :D
+[21:22:09] oOoSHONUFFoOo: Close your eyes Inter. Feel...the force...
+[21:22:24] nyanners: ahead in the match, time trouble, higher rated opponent, too few pieces. its time to let go..........
+[21:22:24] oOoSHONUFFoOo: And move your rook to d8
+[21:22:54] Bpack: Force ghost karpov is encouraging inter to move a single square. Will they find it!?
+[21:23:25] nyanners: run out the time and repeat. a classic
+[21:23:25] Inter-temporal: (37) (37...Kc6) (35) i can't see it
+[21:23:25] Inter-temporal: (37) (37...Kc6) it's too risky
+[21:23:40] oOoSHONUFFoOo: Haha
+[21:24:11] nyanners: now its 3fold right. so yea
+[21:24:26] nyanners: gg
+[21:24:26] oOoSHONUFFoOo: gg
+[21:24:26] mongreltiger: gg
+[21:24:41] Bpack: Ggs
+[21:24:41] Pineapplechiffoncake: Gg
+[21:24:56] nyanners: no blame
+[21:25:11] oOoSHONUFFoOo: Great game
+[21:25:11] Inter-temporal: i see. Rd8
+[21:25:11] Inter-temporal: never really crossed my mind
+[21:25:27] ysgwydd: Blessed by Caissa today
+[21:25:27] Inter-temporal: me tooo
+[21:25:42] ysgwydd: Well done finding counterplay there
+[21:25:57] Inter-temporal: you had so much pressure on me
+[21:25:57] ysgwydd: I thought you had some, but not that much
+[21:26:12] Inter-temporal: very complicated and i couldn't catch my breath. lol
+[21:26:12] guitarspider: gg
+[21:26:43] Inter-temporal: i was already preparing my loser speech, "it wasn't my day...
+[21:26:43] ysgwydd: Yeah it should be winning after I take the rook
+[21:26:43] Inter-temporal: "my opponent found all the best moves..."
+[21:27:28] Inter-temporal: i'll wait to check the engine. this line is so crazy to me
+[21:27:28] ysgwydd: 22...Rc5 was probably a step in wrong direction
+[21:27:59] ysgwydd: I haven't checked with engine
+[21:27:59] ysgwydd: What line?
+[21:27:59] Inter-temporal: this whole alapin 4.Nf3 line
+[21:28:59] ysgwydd: Ah it's complicated for sure
+[21:29:15] Inter-temporal: i felt like i had no idea what to do after 12...Na5
+[21:29:15] Inter-temporal: that move seemed too strong somenow
+[21:29:15] ysgwydd: I have looked at it, but only briefly before this game
+[21:29:30] nyanners: i thought black played alright. just missed the timing for Nxe4
+[21:29:45] ysgwydd: Nxe4 was because I didn't see a better move
+[21:30:00] ysgwydd: Bishop looked strong
+[21:30:15] ysgwydd: I think 29...Kc7 was wrong
+[21:30:31] nyanners: i mean, 28..Nxe4 looked good. then of course the line is Qe8
+[21:30:46] Inter-temporal: well, my book popped up. engine is off, but i saw where we went oob
+[21:30:46] nyanners: Qe8 Kc7 Ra8 and.. you seem to have some options actually
+[21:31:16] ysgwydd: Yeah I saw 28...Nxe4 I it looked decent
+[21:31:32] ysgwydd: A case of seeing a good move and not playing it
+[21:31:47] ysgwydd: I saw that my king would be safe on c7
+[21:31:47] nyanners: when you see a good move, look for a bad one
+[21:31:47] Inter-temporal: i spent a long time on 19.Be4, there was no way i could find all the replies
+[21:31:47] nyanners: then play it, let all that extra effort be wasted
+[21:32:17] Inter-temporal: i had other candidates... it seemed pretty critical
+[21:32:32] ysgwydd: Well Qe8 is annoying, can't get out the pieces
+[21:32:32] ysgwydd: 19.Be4 was the best try I think
+[21:32:48] ysgwydd: Maybe Qe4?
+[21:33:03] Inter-temporal: at the end?
+[21:33:03] ysgwydd: No, 19.Qe4
+[21:33:33] ysgwydd: Be4 is probably stronger as it keeps queen
+[21:33:33] Inter-temporal: ahh. yes. i considered that too, but couldn't' find my joy. lol
+[21:36:06] Inter-temporal: considered 14.g4 for a bit, but seemed really risky
+[21:37:22] Inter-temporal: seemed like this line obligated white to accept doubled f-pawns
+[21:38:07] ysgwydd: Were you inspired by last game in the variation. Against Igoka
+[21:38:07] Inter-temporal: i was. yes
+[21:38:38] Inter-temporal: i was planning an open sicilian, but that game changed my mind. lol
+[21:38:38] ysgwydd: Fair enough
+[21:38:53] ysgwydd: I think Igoka played that game really well
+[21:39:08] Inter-temporal: for sure
+[21:39:23] Inter-temporal: looked far more pleasant than what i did.
+[21:39:54] ysgwydd: Well you could've repeated 9.Na3
+[21:40:24] Inter-temporal: i figured that might be a tad too predictable lol
+[21:40:39] ysgwydd: True
+[21:41:25] Inter-temporal: that ur board 8?
+[21:41:55] Inter-temporal: oh wait. i mixed up the games
+[21:41:55] Inter-temporal: it your board 8 that inspired me
+[21:42:56] Inter-temporal: he went 9.0-0 but then my mate went 9...g6
+[21:42:56] ysgwydd: Yeah g6 is also fine
+[21:43:11] ysgwydd: A bit more straighforward for white though
+[21:43:42] Inter-temporal: seemed like it could be
+[21:44:27] ysgwydd: I wonder if you had a defense after 15...Qh4
+[21:44:27] Inter-temporal: your mate Rob played 11.d4, which Lichess put as ?!. however, it worked great against humans
+[21:46:44] Inter-temporal: looks like the rest of match is tomorrow--mostly before i wake up
+[21:47:30] ysgwydd: Yep
+[21:47:45] ysgwydd: Thanks for the game and the chat! Good luck in future rounds
+[21:47:45] Inter-temporal: thanks!  you tooo! :)
