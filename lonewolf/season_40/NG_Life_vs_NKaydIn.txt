@@ -1,0 +1,65 @@
+Lichess game chat log
+Game      : https://lichess.org/MmB8z33t
+White     : ng_life
+Black     : nkaydin
+Time      : 30+30
+Captured  : 2026-05-16 21:47:17 UTC
+Game ended : 2026-05-16 20:27:12 UTC
+Messages  : 55
+────────────────────────────────────────────────────────────
+
+[19:00:57] NG_Life: 2. g3 not my usual cup of tea but wanted to avoid the Queen's Gambit transposition
+[19:04:00] NG_Life: (5) so the idea as I understand it is d4 is indirectly discouraged because it frees the lsb, and if you invite him all the way to d3
+[19:04:15] NG_Life: (5) then both bishops are free
+[19:05:31] NG_Life: (7) also d4 is possible for white basically always, if I wish for a more Catalan-esque setup
+[19:09:50] NG_Life: 8...b6 looks a little awkward somehow, I should think here
+[19:20:44] NG_Life: 10.d3 with this move I am both defending c4 and preparing e4 which is quite troublesome for him at the moment with the a8 rook
+[19:38:15] NG_Life: 22. nb2 somehow I got quite a bad position, I'm clearly worse here. Estimated eval: -1.5 for black
+[19:40:16] NG_Life: 25. kf1 if kg1 ng4 and that looks rather bad...
+[19:41:02] NG_Life: 27. h3 seems forced, otherwise the rook will come to e2 and lights out
+[19:51:11] NG_Life: 35. bd8 estimated eval: -3.8 for black, would require much to save this
+[19:56:31] NG_Life: (40) be3 rc2 bxg5 rc1 rxc1 dxc1=Q bxc1 that doesn't work for black
+[19:59:18] NG_Life: (40) be3 bxe3 kxe3 rc2 rd1 rxa2 rxd2 rxd2 kxd2 kf8 b4 ke8 b5 axb5 cxb5 kd7 he is in time
+[20:02:05] NG_Life: (40) ke2 rc2 ba3 rc1 rxc1 dxc1=Q bxc1 bxc1 0-1 can't do that
+[20:03:06] NG_Life: rd1 doesn't work either, e.g. rd1 rxa2 he will just collect my pawns
+[20:03:22] NG_Life: (40) it clearly loses, but I might need to just play be3 anyways
+[20:06:55] NG_Life: hmmm, I didn't look at kf8 here, rc2 seems the simpler win, this should still be winning for black somehow though
+[20:07:25] NG_Life: kd3 -> kc3 might be a viable plan for white here?
+[20:08:26] NG_Life: this should still be completely winning for black, but I would have taken rooks off if I was him; black wouldn't have to think then
+[20:08:56] NG_Life: the basic geometry of the position hasn't changed, he'll give away the d pawn for the a pawn and his kingside majority is much stronger
+[20:09:12] NG_Life: than my queenside majority
+[20:09:42] NG_Life: (43) but with rooks on I will of course try to swindle him somehow or other
+[20:10:43] NG_Life: 43... rxa2 oh that's brilliant, I didn't see that. Now it's easier to win with the rooks on.
+[20:14:46] NG_Life: 45. c5 I see no chances swindle here, I guess I will try not to lose immediately and wait for a chance
+[20:23:54] NG_Life: (54) rxb7 kxb7 kb5 (opposition) kc7 kc5 kd7 kd5 ke7 ke5 kf7 (opposition lost) g5 kg7 h6 gxh6 kxh6 (key position -win or draw?)
+[20:27:43] NG_Life: my notes are here, I seriously underestimated how bad d4 destroyed my position
+[20:28:13] NKaydIn: you have so much analysis here
+[20:28:29] NG_Life: yes I was using /whisper in the game
+[20:28:29] NG_Life: then those notes go here after game ends
+[20:29:14] NKaydIn: why rxb7
+[20:29:29] NKaydIn: you miscalculated I guess
+[20:29:45] NG_Life: yes you can see my note I thought the king's went over to the pawn (dumb) and I would try to draw the king and pawn vs. king.
+[20:32:17] Grzybozbur: sf shows 41.rd1 rxa2 b4, still losing, but only if black plays ke7 kd4 a5!
+[20:32:32] Grzybozbur: which is not at all obvious
+[20:32:47] NG_Life: I think you have wrong move number
+[20:33:02] NG_Life: 41. rd1 he is up a bishop
+[20:33:17] Grzybozbur: right, 42.rd1
+[20:35:19] NKaydIn: there are more draws than I expected
+[20:35:19] Grzybozbur: i'd probably not find b4 anyway
+[20:35:19] NG_Life: that's a nice sequence to try to swindle
+[20:37:05] NG_Life: the engine's suggest line with 36. cxb5 is also an amazing way to get counterplay I didn't consider
+[20:38:37] NG_Life: and in fact it's equal or white advantage without 38... c4 in that same line which is not obvious when it looks like you can just take that
+[20:38:37] NG_Life: pawn for free with the rook
+[20:39:07] NG_Life: much to be learned here, I missed a lot of ideas to get counterplay in this losing position
+[20:40:39] NKaydIn: how did I miss 25...Qf3
+[20:42:25] NG_Life: 25. Qf3 would really be a crushing finish
+[20:44:11] NG_Life: I prepped this because I wanted to avoid QGD but my instincts were really bad in the opening
+[20:44:57] NG_Life: I guess I should study this more and play it more to learn it properly, because here I went off course in the opening and losing too fast
+[20:45:12] NG_Life: did you do any prep @NkaydIn?
+[20:46:13] NKaydIn: I play nearly same with white
+[20:46:28] NKaydIn: and b6 Ba6
+[20:46:59] NKaydIn: is effective way
+[20:47:44] NG_Life: I just looked at some random sample games and engine lines, I never saw b6 so this idea was new to me.
+[20:47:59] NKaydIn: I play d4 early to stop black from playing d4
+[20:49:15] NG_Life: it was a really nicely played game from you @NkaydIn, gg and good luck in your future matches
+[20:49:46] NKaydIn: yeah it was fun to play good luck to you in next rounds
