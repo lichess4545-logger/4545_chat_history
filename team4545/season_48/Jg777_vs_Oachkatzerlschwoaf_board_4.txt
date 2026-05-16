@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/9Gv19rdb
+White     : jg777
+Black     : oachkatzerlschwoaf
+Time      : 45+45
+Captured  : 2026-05-16 00:45:41 UTC
+Game ended : 2026-05-15 23:25:37 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[21:03:33] Inter-temporal: (4) (4...e6) go  Oachkatzerlschwoaf!
+[21:04:34] mongreltiger: Go Oach!
+[21:04:34] Inter-temporal: (4) (4...e6) go go Obi-wan Benoni!
+[21:16:14] R0B-W: Go, jg777!
+[21:27:09] Oachkatzerlschwoaf: (13) whew, feels like I escaped from a very bad opening
+[21:38:48] Oachkatzerlschwoaf: ugh and ofc I immediately blunder a pawn
+[21:46:40] bufferunderrun: Idk, might have been better to keep the knight
+[21:50:44] Feet_Barbie: (22.Nc3) oh what happened to the fantasy ck
+[21:50:59] Feet_Barbie: (22.Nc3) exchanged everything
+[21:58:20] fork2020: Go jg777!
+[22:30:03] bufferunderrun: I wonder if 27.Re1 works
+[22:31:19] bufferunderrun: like Re1 Rxd4 Rxd4 Rxd4 Re8+ Nc8 looks forced, otherwise Nb5 fork
+[22:32:05] bufferunderrun: and then perhaps Ke3
+[22:33:21] bufferunderrun: so the idea was to play Nb5 and Nxa7, but i guess white doesn't want to allow Rd2+
+[22:36:54] nyanners: definitely did not expect the fantasycaro-iqp connection
+[22:40:12] nyanners: 27 Re1 is more interesting than i want for now probably :p
+[22:41:13] bufferunderrun: I tried to make it work, but seems black is holding
+[22:41:28] bufferunderrun: or I am miscalculating something
+[22:42:13] nyanners: i think youre right
+[22:44:15] Oachkatzerlschwoaf: (28) idk everything looks losing
+[22:44:46] nyanners: that sounds rather pessimistic
+[22:45:01] bufferunderrun: everything is, but maybe not in this game
+[22:45:01] bufferunderrun: well, not yet anyway
+[22:45:16] nyanners: too real :o
+[22:49:04] Oachkatzerlschwoaf: nd5+ just loses i think...
+[22:49:35] nyanners: def prefer to keep the knights
+[22:50:20] bufferunderrun: I would have exchanged, if not for e7 square, it's kind of a weak spot
+[22:50:51] Oachkatzerlschwoaf: (28) going for cheap tricks
+[22:50:51] nyanners: wait this might be a great find actually
+[22:51:06] nyanners: what does white even do? moving the king still NOW enables Nd5
+[22:52:07] nyanners: at the very least its a better version of the other stuff
+[22:53:08] bufferunderrun: Ne2 probably
+[22:53:38] nyanners: yea but then black's pieces improved
+[22:53:53] nyanners: whether that means anything is a fair question
+[22:53:53] bufferunderrun: yeah, Rc8 was spicy
+[22:54:24] Oachkatzerlschwoaf: no idea whats happening after nb5/ne4
+[22:55:40] nyanners: probably recovers the pawn
+[22:55:40] bufferunderrun: on both Rxd4+ and Rxc1 I guess
+[22:56:10] nyanners: Rxd4 seems suspicious
+[22:56:10] nyanners: leads to nc8 stuff
+[22:56:26] nyanners: id go with rxc1-rc2
+[22:56:41] nyanners: also just the impression the rooks make is much better for black
+[22:56:56] bufferunderrun: not sure Nc8 stuff is dangerous though
+[22:57:11] nyanners: i mean its not about it being dangerous but about the white pieces being way more active than in the rxc1 line
+[22:57:27] nyanners: it could also be dangerous :o
+[22:57:57] bufferunderrun: yeah, but it's a pawn... hehe
+[22:57:57] nyanners: but i mean, youre getting the pawn in rc2
+[22:58:12] bufferunderrun: okay, fine
+[22:58:43] nyanners: that said id probably venture Rxd4 otherwise :o
+[22:58:58] nyanners: though wouldnt be surprised if it loses very embarassingly and horribly
+[22:59:13] bufferunderrun: yeah, maybe not with 3 mins left
+[23:01:15] nyanners: maybe forcing black to play the good line here :p
+[23:01:15] nyanners: usually you dont wanna do that
+[23:02:16] bufferunderrun: hmm... is g5+ out of question?
+[23:02:31] nyanners: probably not. i just see Rc2 and im happy
+[23:02:46] nyanners: im a simple person in time trouble
+[23:03:02] nyanners: now g2 is protected..
+[23:03:17] bufferunderrun: not for long
+[23:04:48] nyanners: Rc2 still seems extremely annoying
+[23:05:03] nyanners: perhaps Nc4 Rd2 for white
+[23:06:35] bufferunderrun: 32...Nc3 perhaps
+[23:06:35] bufferunderrun: with Ne2+
+[23:07:20] nyanners: check is good but uncoordinating
+[23:07:20] nyanners: i like re2
+[23:08:21] nyanners: now they could venture some illegal line like 33 Nc4 b5 Rd2
+[23:08:21] bufferunderrun: if Kh3 Nf4+ fork :p, otherwise a discovery with Nxd4
+[23:08:52] nyanners: king can go up
+[23:08:52] nyanners: umm then nc1?
+[23:08:52] nyanners: yea idk
+[23:09:22] bufferunderrun: it can, but weaker pawns, g5, h5 ideas, Idk...
+[23:09:52] bufferunderrun: actually, I just spotted 32...Rxg2
+[23:10:38] bufferunderrun: though not sure about it
+[23:10:53] bufferunderrun: the knight on d3 would be weirdly placed
+[23:11:09] bufferunderrun: and Ne1 for white
+[23:11:24] bufferunderrun: *Ne8
+[23:12:40] nyanners: yea im too tired for this XD
+[23:12:40] nyanners: also got a headache
+[23:12:40] nyanners: time equalizing
+[23:14:26] bufferunderrun: hmmm Rc3
+[23:14:26] bufferunderrun: yeah, exactly
+[23:15:27] nyanners: very funny..
+[23:16:28] nyanners: black could win in rc8 ka7 rc7 rxg2 kf4 nd5+ :p
+[23:16:43] nyanners: but white could play the other king move instead
+[23:17:29] nyanners: so who is this good for? no one :p
+[23:18:31] bufferunderrun: 37...Kb6, since why not
+[23:21:03] nyanners: im just enjoying the ride at this point
+[23:25:22] bufferunderrun: oh no
+[23:26:08] bufferunderrun: gg
+[23:26:38] jg777: Sorry team, I just had that one big what are you thinking move.
+[23:27:39] Inter-temporal: oof. freakin checks
+[23:28:24] nyanners: gg :o
+[23:28:40] Oachkatzerlschwoaf: yeah sorry for that
+[23:28:40] jg777: Yeah I just gave that game away there, Rxh7 and so on. I talked myself into thinking I had a faster win and it was a faster win- for Oach!
+[23:28:55] jg777: :D
+[23:28:55] Oachkatzerlschwoaf: you outplayed me the whole game
+[23:29:10] Oachkatzerlschwoaf: my chat isnt loading properly
+[23:29:40] mongreltiger: gg
+[23:29:56] Oachkatzerlschwoaf: even the opening i messed up
+[23:30:11] Oachkatzerlschwoaf: this is one of the weird variations where you just give up the e pawn
+[23:31:12] bufferunderrun: well, R+N are always tricky, especially with no time left
+[23:33:44] Oachkatzerlschwoaf: well totally undeserved. have a good one jordan thanks for the game
