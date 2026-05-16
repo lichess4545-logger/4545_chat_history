@@ -1,0 +1,117 @@
+Lichess game chat log
+Game      : https://lichess.org/PbdBOo5y
+White     : rmnl
+Black     : mkubecek
+Time      : 45+45
+Captured  : 2026-05-16 21:30:22 UTC
+Game ended : 2026-05-16 20:10:17 UTC
+Messages  : 107
+────────────────────────────────────────────────────────────
+
+[18:09:15] cham: lets go our new alt
+[18:14:49] glbert: go mkubecek!
+[18:21:40] mkubecek: (9...Rb8) I might have been supposed to play b5 anyway but it didn't seem to work.
+[18:25:44] Feet_Barbie: Go rmnl
+[18:32:50] mkubecek: (13.Ng3) Qa7 Bb7 Nxb5 Nxe4 looked quite fine...
+[18:41:28] alex_makarets: Hello people!
+[18:44:16] ExirK: (14) I slightly prefer black here
+[18:45:17] alex_makarets: (13) I am not sure what white should do here. Pawn structure suggests some kind of a kingside attack
+[18:47:34] ExirK: (14) the problem is white knight is really weirdly placed for kside attack
+[18:47:34] ExirK: (14) I don't even know where to route it
+[18:48:50] ExirK: (14) b4 and Bb7 looks interesting
+[18:49:20] ExirK: (14) b4 Ne2 Bb7, b4 Nd5 NxN pxN Bb7, am I missing anything
+[18:50:06] alex_makarets: I don't think so
+[18:50:06] ExirK: (14) there's also c5, b4 although that's more committal. Either way I really wanna play Bb7
+[18:50:36] ExirK: (14) c5 Rd1 is annoying
+[18:51:37] ExirK: (14) ...d5 should be candidate move too right
+[18:51:53] ExirK: (14) d5 Rd1 though
+[18:52:08] ExirK: (14) I like b4 a lot
+[18:52:08] alex_makarets: if we don't play b4 right now white will probably go a3
+[18:52:54] ExirK: (14) how about Bb7 right now, saccing a pawn?
+[18:53:24] ExirK: (14) Omg yes. I see it now
+[18:53:24] ExirK: (14) white can't take pawn
+[18:53:39] ExirK: (14) cuz Ba6
+[18:53:39] ExirK: (14) well seen mkubecek
+[18:54:25] ExirK: (14) @alex I don't think a3 here is any good, I'm happy if white wastes a tempo on it
+[18:57:59] alex_makarets: I think it should be played, otherwise ...b4 will come at the most inconvenient moment
+[18:58:44] alex_makarets: that said if we play a3 white admits he is considerably worse
+[18:59:15] ExirK: (14) Ng3 is one of those pieces that visually look fine but functionally is worse than an entombed piece
+[18:59:30] ExirK: (15) yeah you're right b4 Ne2 and the knights are getting in each other;s way
+[19:02:02] alex_makarets: to me Ng3 looks ugly visually, functionally and whatever else adverbs you may use
+[19:03:49] alex_makarets: Meanwhile black should choose a plan
+[19:04:19] alex_makarets: one idea is Bc6, b4, Qc8-Qb7
+[19:04:50] alex_makarets: Qd7-Qc6 I like less if this is the idea
+[19:05:20] ExirK: (15) maybe Rd8 Qe8 is the idea?
+[19:06:21] alex_makarets: I am not sure this is an improvement
+[19:06:52] ExirK: (15) Agree yeah
+[19:07:07] alex_makarets: another plan that comes to mind is to protect e5 and play c6-d5
+[19:08:08] alex_makarets: I guess Qd7 is just to protect the pawn
+[19:12:11] alex_makarets: I guess white should play Nd5 and after the exchange the dumb Ng3 will get a decent e4 square
+[19:13:27] ExirK: (16) if Qd7 was to protect the pawn that's the wrong reason, pawn awas already tactically protected
+[19:13:43] ExirK: (16) i actually do like Qc6
+[19:13:43] ExirK: (16) looks weird but might work
+[19:18:17] ExirK: (16) applauding the creativity, I would never even consider this
+[19:18:47] alex_makarets: You just considered this
+[19:18:47] ExirK: (16) Nh5 isn't scary IMO, Nh5 NxN QxN b4 and white has nothing imo
+[19:19:02] ExirK: (16) @alex only after your suggestion
+[19:19:02] ExirK: (16) didn't even think of it before your comment
+[19:19:18] mkubecek: (16...Qc6) There is some crazy stuff after Nh5 Nxe4 Qg4 Qc5+
+[19:22:51] ExirK: (16) after Kh1 in your line... what does black have?
+[19:23:37] ExirK: (16) Nf2 RxN and then?
+[19:23:52] ExirK: (16) white still has that mate threat
+[19:24:53] ExirK: (17) oh but then g6, black is fine and up material
+[19:25:08] ExirK: (17) b4!!
+[19:25:39] ExirK: (17) ...b4 Ne5?
+[19:26:09] ExirK: (17) b4 Ne5 Qc5?
+[19:26:39] ExirK: (17) yeah white is uncomfortable
+[19:27:40] ExirK: (17) Nevermind ***Nd5 Qc5 is terrible idea. Black should Nxd5
+[19:29:27] ExirK: (17) Hmmm maybe 17...Qc4 now?
+[19:30:12] ExirK: (17) Nd5 NxN exd5 Qc4
+[19:33:00] ExirK: (19) ...Qc4 was better... it also included ...e4 threat
+[19:33:15] ExirK: (19) while attacking a2
+[19:33:45] ExirK: (19) if inducing b3, that would be bad for white fixing that pawn structure
+[19:34:31] alex_makarets: I am afraid of f6 as black
+[19:34:46] ExirK: (19) yeah me too
+[19:35:17] mkubecek: (19...Qc5) Ne4 looks uncomfortable :-(
+[19:38:04] alex_makarets: maybe black should have played Qc5 instead of b4
+[19:38:20] alex_makarets: and if Nd5 then take with the bishop
+[19:38:20] ExirK: (19) good call
+[19:39:20] alex_makarets: then knights would be probably exchanged and black plays f6
+[19:40:06] alex_makarets: (20) what if ...f6?
+[19:42:54] alex_makarets: Ne4 Qc4 Nxf6+ ooops
+[19:45:11] ExirK: (20) "what if.... ahahaha... unless?"
+[19:45:56] ExirK: (20) Nxf6+ Kf7 is not the end of the world, black should avoid panick
+[19:46:27] alex_makarets: Qxc4 then, the queen is lost
+[19:46:57] alex_makarets: (21) this is I am happy to see
+[19:47:12] ExirK: (21) kf7 asap?
+[19:47:58] ExirK: (21) maybe even c6
+[19:48:13] alex_makarets: Kf7 - why? Seems like white finished his attack with his last move
+[19:48:28] alex_makarets: Ng3 is in the way again :)
+[19:51:16] jcarmody: Go Michal!
+[19:52:01] alex_makarets: (22) what exactly white is going to do after h5 h6?
+[19:57:06] alex_makarets: (23) ...Rfa8, ...Ra1?
+[19:57:36] alex_makarets: Ra5 is also nice
+[19:58:22] alex_makarets: c6 cannot be bad
+[19:58:37] alex_makarets: and white didn't expect it
+[20:04:12] alex_makarets: (27) this should be winning for black. Ba4 Rxd6 Rxd6 Rxd6 Rxc2
+[20:04:27] ExirK: (27) never retreat
+[20:04:43] alex_makarets: Ra7 is bad, not sure how bad it is
+[20:06:44] ExirK: (29) Ba4 still possible
+[20:08:16] alex_makarets: Nf1 I thought so that Ba4 Ne3
+[20:08:31] alex_makarets: Rook!
+[20:08:31] ExirK: (30) nooooooooooo
+[20:08:46] mkubecek: (30...Be4) Oh no... :-(
+[20:09:16] glbert: sigh. i know the feeling.
+[20:09:32] ExirK: (31) Ra7 was definitely seeing ghosts somehow
+[20:10:02] glbert: good game.
+[20:10:17] ExirK: (31) gg
+[20:10:17] alex_makarets: gg
+[20:11:03] mkubecek: Sorry, I still have mental blackouts like this. :-(
+[20:20:25] RMNL: I don't know why I rejected 20.f6, I was blind to black playing f6 which  seems ridiculous.
+[20:21:11] mkubecek: Thought about 27... Ba4 but didn't realize after 28. Rxd6 Rxd6 29. Rxd6 Rxc2 30. Rd8+ Kf7 there is no Rd7+
+[20:22:27] mkubecek: 9... Rb8 is the kind of move you know to be wrong as you play it but you still do.
+[20:24:29] RMNL: gg
+[20:24:29] mkubecek: I even thought I was supposed to play b5 but I still haven't adopted the "material for activity" concept.
+[20:26:30] mkubecek: c6 seemed to be popular in masters but I was afraid I wouldn't be able to push d5 fast enough and d6 would turn into long term weakness.
+[20:28:32] mkubecek: And, of course, Be4 was a good idea at the end, but *after* the rook trade.
+[20:46:01] mkubecek: Sadly, the idea behind 27... Ra7 was to trade the rooks and go into a nice B vs N endgame. And then... I didn't.
