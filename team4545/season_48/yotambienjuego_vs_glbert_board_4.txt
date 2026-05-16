@@ -1,0 +1,131 @@
+Lichess game chat log
+Game      : https://lichess.org/Z9P5Meqs
+White     : yotambienjuego
+Black     : glbert
+Time      : 45+45
+Captured  : 2026-05-16 17:54:07 UTC
+Game ended : 2026-05-16 16:34:01 UTC
+Messages  : 121
+────────────────────────────────────────────────────────────
+
+[14:27:24] cham: go glbert!
+[14:32:13] PaulWithAnS: (10) Black is playing a dangerous game moving pieces twice in the opening without castling
+[14:43:53] Feet_Barbie: (13.Qe2) go yotaa
+[14:44:39] Feet_Barbie: (13.Qe2) our team hasnt won a game in 2weeks
+[14:44:54] PaulWithAnS: (13) A single game?
+[14:45:09] Feet_Barbie: (13.Qe2) yeah
+[14:45:24] Feet_Barbie: (13.Qe2) ahah sounds like a joke but its not
+[14:45:24] PaulWithAnS: (13) Ouch
+[14:45:55] Feet_Barbie: (13.Qe2) this is the one
+[14:46:25] PaulWithAnS: (13) I'm not sure about Qe2 though. Doesn't this just let black off the hook with their king stuck in the centre?
+[14:46:41] PaulWithAnS: (13) Not stuck but still in the centre
+[14:47:42] Feet_Barbie: (13...Nf6) black king is pretty safe anyways
+[14:48:27] Feet_Barbie: (13...Nf6) unless you know how to exploit it
+[14:48:27] Feet_Barbie: (13...Nf6) doesnt look like white had something
+[14:48:27] PaulWithAnS: (13) Still I would have thought keeping the queens on would favour white
+[14:48:42] Feet_Barbie: (13...Nf6) yeah i mean or making a more useful move
+[14:49:28] PaulWithAnS: (14) Yeah
+[14:49:59] Feet_Barbie: (14...Rxc4) or two more useful moves xd
+[14:50:14] glbert: maybe i should have taken on a3. maybe i should have moved the Q.
+[14:51:15] glbert: but the important thing is nobody got hurt, everyone is fine.
+[14:51:45] Feet_Barbie: (14...Rxc4) white pieces look a bit awks
+[15:07:14] Feet_Barbie: (16.Nd2) backwards knight moves and all that
+[15:07:59] Feet_Barbie: (16...Bxg2) wasnt it better to give the exchange
+[15:22:12] jose684: I think it was somewhat an unnecessary risk by playing 15..Bxe4
+[15:27:01] glbert: i missed 16.Nd2 before completely. didn't see it at all. stupid backwards N moves.
+[15:27:32] glbert: that kind of thing hasn't happened to me in a while though, so i guess i should be glad.
+[15:48:35] glbert: hm. maybe Rb4 was trickier.
+[16:22:36] ExirK: (44) i hate these endgames
+[16:23:22] glbert: jebus this does look terrible.
+[16:23:22] nyanners: black should
+[16:23:52] nyanners: 45 b7 i suppose
+[16:23:52] nyanners: fork ay
+[16:24:22] ExirK: (45) oh no
+[16:24:22] nyanners: wait theres already a fork
+[16:24:38] nyanners: talk about board vision
+[16:24:38] jwwells42: i believed you completely
+[16:24:38] nyanners: i mean im also right..
+[16:24:53] jwwells42: that is my excuse for believing you
+[16:25:08] nyanners: when i see a good move, i dont keep looking
+[16:25:08] ExirK: (47) 44... Rc4 would've avoided fork right?
+[16:25:08] nyanners: THEN b7 i think
+[16:25:08] ExirK: (47) Rc4 and Rb4 next, I don't see how white could've protected the pawn
+[16:25:23] nyanners: new one on b8
+[16:25:23] ExirK: (47) ah nevermind
+[16:25:23] ExirK: (47) Rb4 would've been a fork too
+[16:25:39] nyanners: or that
+[16:25:39] ExirK: (47) damn these tricky knights
+[16:25:39] nyanners: damn its cursed
+[16:25:54] nyanners: 43..rc4? :d
+[16:25:54] nyanners: just keep going back until it works
+[16:26:09] ExirK: (47) lol yeah I just arrived here ha
+[16:27:55] cham: this looks terrible
+[16:28:11] nyanners: yea no draw
+[16:28:56] jwwells42: we just have to delete the c2 pawn through force of will / remove it from the board while oppo is in the bathroom
+[16:29:27] jwwells42: and then hope oppo does not do the thing where the knights can give mate
+[16:29:57] nyanners: naah removing pawn is enough
+[16:30:13] nyanners: na1 seems sufficient for worst case tho
+[16:30:43] nyanners: i like the absolute lack of concern from white
+[16:30:58] nyanners: seems justified..
+[16:34:01] jfiras: gg !
+[16:34:16] nyanners: gg
+[16:34:31] cham: rip
+[16:34:47] cham: g
+[16:35:02] cham: lichess eating messages again?
+[16:35:02] cham: ok no
+[16:35:17] glbert: well, that was not a great game by myself, i have to admit.
+[16:36:33] glbert: thought for ages on move 15 to decide between Bx and Nx, and still managed to miss the backwards N move.
+[16:37:19] glbert: the worst thing about it: even without Nd2, sf still thinks Nx would be better. :facepalm:
+[16:38:50] guitarspider: gg
+[16:41:07] nyanners: i dont understand Bx tbh
+[16:41:52] nyanners: like yea you want white to take. and then why is the knight so much better
+[16:42:07] glbert: i saw ghosts with Na5, forking the B and the R.
+[16:42:23] nyanners: oooohh. okay thats a decent reason
+[16:42:38] nyanners: even if a flawed one
+[16:42:38] glbert: i even saw that it did not work for white.
+[16:42:53] glbert: but i did not trust my calculation there, and thought: isn't Bx just avoiding all that stuff?
+[16:43:08] nyanners: ahh i see. okay this doesnt work but what if it does...... lets play the safe move.........
+[16:43:23] glbert: exactly.
+[16:43:54] glbert: i wonder: should i trust my calculations more?
+[16:44:09] glbert: or should i simply not miss backwards N moves?
+[16:44:24] nyanners: my avoidance-move would be Rxc3 probably :D
+[16:44:24] glbert: heh.
+[16:44:39] nyanners: like, 15..Nxe4 for sure. Na5 and i dont want/dont have time/whatever? Rxc3
+[16:45:10] glbert: yeah, makes complete sense.
+[16:45:25] nyanners: as long as c4 and a4 are bad theres no way you can be worse
+[16:45:25] glbert: but i think at that point i would have probably gone for Nxc3 already.
+[16:45:56] nyanners: Nxc3 is also easier to see from a closer distance :p
+[16:46:11] nyanners: but you saw it!!!!!! so umm yea
+[16:46:56] nyanners: id say part of the reason you missed the backwards knight move (maybe even a big one) was because you had already decided Bxe4 was safe
+[16:47:12] glbert: it's just me telling myself to not pretend to be smarter than i am. going for the complicated lines has not served me well.
+[16:47:12] nyanners: very common alternative move thing
+[16:47:42] nyanners: you calculated everything in Nxe4 (correctly!) and then had already decided that you can bail with Bxe4
+[16:47:42] glbert: yeah, probably right.
+[16:47:57] nyanners: like, what could go wrong? nothing could go wrong
+[16:48:12] glbert: i barely looked at possible disadvantages there. it's an easy safe move!
+[16:48:12] glbert: nothing could go wrong, i agree.
+[16:48:28] glbert: nothing bad can happen, only good can happen.
+[16:48:43] nyanners: and then the panic impact was so much you didnt even consider Rxc3
+[16:48:43] nyanners: because if you did obv it gets played
+[16:48:58] glbert: obv.
+[16:49:59] glbert: ok. not even mad about not holding the endgame. i should have of course.
+[16:50:29] glbert: but that was just more panic mode with the time ticking down.
+[16:51:15] nyanners: Rc3+ is top 10 anime betrayals
+[16:51:45] nyanners: that should be generally a good move but its actually not free, worsens the rook, and actually improves the white king by bringing it closer
+[16:52:16] glbert: yeah. i want it on c4 so i can go to b4.
+[16:53:17] nyanners: like yea i can read but i do think Rc3+ makes it pretty hard to follow up correctly
+[16:53:47] nyanners: umm Rb4 is nice. but yea Rc3-Rc4-Rb4 gives a bit of a weird impression even if its good
+[16:54:02] nyanners: very concrete tbh
+[16:54:17] nyanners: like could be vulnerable to Nc6
+[16:54:33] glbert: i was a bit frustrated that white managed to keep the Ns coordinated. felt several times that there was something close to working.
+[16:55:03] nyanners: or just king to qside..
+[16:55:33] nyanners: coordinating Ns is not so difficult, theyre just kinda slow to move around
+[16:56:34] glbert: mmm.
+[16:56:49] glbert: quick enough for me, in this game at least.
+[16:57:35] nyanners: never lucky :o
+[16:58:36] glbert: good learning experience though.
+[16:59:06] glbert: (1) don't trust that "safe" alternative move you just found.
+[17:00:07] glbert: (2) try to recognize earlier that i'm fighting for a draw instead of trying to win.
+[17:00:37] glbert: (3) i should know this, but don't panic after missing something.
+[17:03:25] nyanners: gg :o
+[17:12:32] glbert: alright. thanks for the game again to my opponent, and good luck for the remaining games!
