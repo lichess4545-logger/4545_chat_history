@@ -1,0 +1,124 @@
+Lichess game chat log
+Game      : https://lichess.org/Hu3jRgOS
+White     : jc123987
+Black     : warvold
+Time      : 45+45
+Captured  : 2026-05-16 14:49:17 UTC
+Game ended : 2026-05-16 13:29:11 UTC
+Messages  : 114
+────────────────────────────────────────────────────────────
+
+[12:05:26] Warvold: (1...d5) Hi there Simon
+[12:05:42] simonWasHere: Go Warvold!!
+[12:06:12] simonWasHere: d5 solid move, I like it
+[12:06:43] Warvold: (2...Nf6) And David
+[12:07:13] Warvold: (2...Nf6) It should be e3 here
+[12:07:13] DavidSifre: Warvold Watvold, he’s our man! If he can’t do it, no one can.
+[12:07:44] DavidSifre: Get well soon, Warvold!
+[12:07:59] DavidSifre: I started a collection
+[12:08:14] Warvold: (3...c5) Alright, c3 now
+[12:08:29] Warvold: (4...e6) Bd3
+[12:08:29] simonWasHere: white dsb blocked in, hopeless position
+[12:11:01] Warvold: (5.Bd3) Perfect
+[12:11:01] Warvold: (5.Bd3) I was worried for a moment
+[12:11:17] Warvold: (5...Bd6) Nbd2 or O-O ?
+[12:11:32] DavidSifre: Hmm Black’s
+[12:11:47] DavidSifre: LSB is blocked.
+[12:12:02] DavidSifre: But black can force a knight for bishop exchange.
+[12:12:33] DavidSifre: Such asymmetry is pleasing.
+[12:13:34] simonWasHere: no no, white dsb is blocked, black lsb is well defended
+[12:14:19] Warvold: (6...Nbd7) Great, O-O O-O and we'll see if white plays Re1 or Qe2
+[12:16:36] Warvold: (7...O-O) So far so good
+[12:18:08] DavidSifre: Good thinking to protect the bishop. Weird that white chose to block his.
+[12:20:40] Warvold: (8.Re1) Alright, Re1, it's the best move
+[12:21:26] Warvold: (8...e5) Let's go forward, e5 should be new territory for my opponent
+[12:29:17] Warvold: (9.e4) exd4 would be bad, because of e5
+[12:29:33] Warvold: (9.e4) dxe does not look good either
+[12:29:48] Warvold: (9.e4) I think Re8 is best here
+[12:30:18] Warvold: (9.e4) Re8 exd5 Nxd5 c4 Nf4 is ok
+[12:31:19] Warvold: (9.e4) Re8 dxe5 Nxe5 Nxe5 Bxe5 Nf3 Bg4
+[12:32:05] Warvold: (9...Re8) Time management is good so far, but I know myself, I'll tank some time later on
+[12:32:35] Warvold: (9...Re8) White is quite stuck right now, no easy development
+[12:34:22] DavidSifre: I think he fails to see the symmetry.
+[12:35:08] DavidSifre: Qxd5
+[12:35:23] Warvold: (12.exd5) Hmm, Qx or Nx
+[12:35:23] DavidSifre: And black controls the board.
+[12:37:55] simonWasHere: Qx looks most logical to me
+[12:38:10] Warvold: (12.exd5) Qx is quite interesting
+[12:38:26] DavidSifre: It has the approval of all important spectators.
+[12:39:26] Warvold: (12...Qxd5) Qxd5 Nf3 Bg4 Be2 there is Qxd1 if Rxd1 Bxh2+ K or Nxh2 Rxe1
+[12:39:42] Warvold: (13.Nf3) if Bxe2, same idea but I win a rook
+[12:40:27] Warvold: (13...Bg4) Hopefully, no greek gift
+[12:40:58] DavidSifre: Rxe5
+[12:41:28] DavidSifre: Then we win
+[12:42:14] DavidSifre: Greek gift trumped by Trojan horse.
+[12:43:15] DavidSifre: But is it? Because once knight moves the queen is lost.
+[12:44:46] Warvold: (14.Be3) Seems like I can double these pawns
+[12:44:46] simonWasHere: Bxf3 seems good now?
+[12:45:01] Warvold: (14.Be3) Question is, should I play c4 first
+[12:45:32] Warvold: (14.Be3) Yep, no
+[12:46:02] DavidSifre: C4 be2
+[12:46:17] simonWasHere: good point
+[12:47:18] Warvold: (14.Be3) I'm not sure doubling pawn would be that good here
+[12:47:34] simonWasHere: Rad8 is an option
+[12:49:35] simonWasHere: Surely Bxf3 gxf3 Rad8 must be nice for black
+[12:49:51] Warvold: (14...Bxf3) Let's not use too much time
+[12:50:21] Warvold: (15.gxf3) Ok, I half expected that, but I don't think that's so good
+[12:52:38] simonWasHere: Maybe even just Re6
+[12:53:09] Warvold: (15...Rad8) Just checking the  sac on h3, but I need more attackers
+[12:55:10] DavidSifre: Billy half? If he didn’t take you would take him.
+[12:55:10] DavidSifre: Only
+[12:55:41] simonWasHere: yeah it seems like gxf6 was forced
+[12:55:56] DavidSifre: Qe6
+[12:56:26] DavidSifre: Or knight takes bishop
+[12:56:26] Warvold: (16.Be4) Bxh2?
+[12:57:12] simonWasHere: yeah, he can't take back probably
+[12:57:12] Warvold: (16.Be4) Bxh2+ Kxh2 Qh5+ Kg2 Rxd1
+[12:58:43] DavidSifre: I think if knight takes bishop queen takes queen rook
+[12:58:59] simonWasHere: Bxh2 looks like it ought to win to me
+[12:58:59] DavidSifre: Then pawn takes knifht
+[12:59:14] Warvold: (16...Bxh2+) Looks good
+[13:01:16] simonWasHere: Qh5 looks like a strong move
+[13:01:16] DavidSifre: Should have taken
+[13:01:46] simonWasHere: or Qc4 even
+[13:02:17] Warvold: (17.Kf1) Alright
+[13:02:47] DavidSifre: Sack the rook
+[13:03:02] DavidSifre: You don’t need two at this point.
+[13:03:17] simonWasHere: I like Qh5 here
+[13:03:17] Warvold: (17.Kf1) Qc4 does not work sadly, because of Qe2
+[13:03:33] DavidSifre: Or take bishop with knight
+[13:03:33] Warvold: (17.Kf1) Qh5 looks good
+[13:03:48] Warvold: (17.Kf1) Qh5 Qc2 or b3
+[13:04:18] DavidSifre: Nxe4
+[13:05:50] simonWasHere: Think black can at least get to an endgame with two extra pawns
+[13:06:20] DavidSifre: Here is where Queen is blundered.
+[13:09:08] DavidSifre: Take the bishop and the pawn.
+[13:10:39] Warvold: (18...Nxe4) I don't see the finishing move yet
+[13:11:40] DavidSifre: Qf3
+[13:12:10] simonWasHere: Re6
+[13:12:41] simonWasHere: Rd6 actually
+[13:13:41] DavidSifre: Doesn’t re6 leave the d file under control?
+[13:13:57] DavidSifre: Opposite.
+[13:15:13] Warvold: (19...Qf3) Ok, I guess, if white plays Rad1, I don't trade but play Rc8
+[13:15:13] Warvold: (19...Qf3) Qe2 would be nice here
+[13:15:59] DavidSifre: Back rank mates are not for this level.
+[13:16:29] DavidSifre: Bastard.
+[13:17:15] Warvold: (20.Bxc5) Oh
+[13:17:30] Warvold: (20.Bxc5) Qh1 winning?
+[13:18:16] Warvold: (20.Bxc5) Qh1+ Ke2 Rxe4+ Be3 Rxe3 if fxe3 Qg2+ wins the queen
+[13:21:18] Warvold: (20.Bxc5) If Kxe3 Rd8+ // Kd3 Qd4# // Kd2 Bf4+ Kd1 Qxe1#
+[13:21:49] Warvold: (20.Bxc5) There is also Bf4+ Re3 Bxe3+ fxe3 Qxa1 in the last line
+[13:21:49] Warvold: (20.Bxc5) And last but not least
+[13:22:04] DavidSifre: Rxe4+ Qxe4
+[13:23:36] Warvold: (20.Bxc5) I just win both rooks, right?
+[13:23:51] DavidSifre: Oh then Qxe4
+[13:24:06] Warvold: (20.Bxc5) I don't win the queen on fxe3
+[13:24:06] Warvold: (20.Bxc5) It's mate
+[13:24:21] Warvold: (20.Bxc5) Kxe3 forced then
+[13:25:22] Warvold: (20...Qh1+) Alright, too some time but it should be over. If I did not miss anything
+[13:25:53] DavidSifre: Time well spent for someone in your condition.
+[13:26:38] DavidSifre: Always marvel at people taking so long when there is one legal move.
+[13:28:40] simonWasHere: this looks good
+[13:29:11] simonWasHere: gg
+[13:31:43] DavidSifre: Gg fellas
+[13:43:23] GoldenRetrieverChess: GGs
