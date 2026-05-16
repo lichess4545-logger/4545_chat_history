@@ -1,0 +1,106 @@
+Lichess game chat log
+Game      : https://lichess.org/PkS1oSrX
+White     : meeklydim
+Black     : grizzzly1000
+Time      : 45+45
+Captured  : 2026-05-16 21:44:36 UTC
+Game ended : 2026-05-16 20:24:31 UTC
+Messages  : 96
+────────────────────────────────────────────────────────────
+
+[18:34:53] ttsgosadow: (13) Go Meekly!
+[19:18:02] Duty5521: It seems I have arrived at an interesting turn in the game, 17. Nxe6!!
+[19:20:34] King12-life: !! or ??, that is the question
+[19:20:50] Duty5521: Oh wait my teammate is black
+[19:20:50] Duty5521: so Nxe6??
+[19:21:35] jfiras: lol
+[19:21:51] gavalanche20: I suppose the planned followup was Bg6?
+[19:22:06] Duty5521: g4 doesn't look right
+[19:22:06] gavalanche20: I guess not
+[19:22:21] Duty5521: Bxg6+ at least there was a draw
+[19:22:36] Duty5521: And if it was winning I have no idea
+[19:22:36] King12-life: g4 Ng7 Bxg6+ hxg6 Qxg6+ Kf8 Rf1+ Kg8 Rf7 wins I think
+[19:22:51] jfiras: Good luck Meekly !
+[19:23:07] King12-life: So g4 makes sense
+[19:23:07] Duty5521: Ng7 Qxg6+ wins
+[19:23:22] King12-life: Oh wait no there is Rh7 at the end of my line
+[19:23:37] Duty5521: oh
+[19:23:37] Duty5521: wait
+[19:23:52] Duty5521: what did i do in my head why was the h7 pawn not there
+[19:23:52] King12-life: lmaoooo
+[19:24:08] Meeklydim: (18.g4) I usually regret these tactical punches but I couldnt contain myself this time
+[19:24:23] Meeklydim: (18.g4) fingers crossed
+[19:24:53] Duty5521: uuuh yeah idk i think you're supposed to leave the knight there to die lol
+[19:24:53] Duty5521: and you're worse
+[19:24:53] Duty5521: welp
+[19:25:54] King12-life: I'd play 18... Qd8 as black
+[19:26:09] Duty5521: isn't there still Bxg6+?
+[19:26:24] King12-life: Yeah but Qd8 Bxg6+ hxg6 Qxg6+ Ke7 Rf1 Qg8
+[19:26:55] Duty5521: Rf7+ Qxf7 Rxd7+ Kxd7 Qxf7+?
+[19:27:25] King12-life: Indeed
+[19:27:56] King12-life: Is 18... Bf3 a move !?
+[19:28:41] Duty5521: whats the idea
+[19:28:41] King12-life: Block the f file, attack the rook
+[19:28:57] King12-life: Also gxh5 Bxh5
+[19:28:57] Duty5521: oh yeah you're blocking the f file
+[19:30:28] Duty5521: Nc5 for Bxg6+ hxg6 Qf7?
+[19:30:43] Duty5521: Qxg6+ Qf7*
+[19:31:14] King12-life: That's another idea yes
+[19:31:59] King12-life: Nc5 Bxb5 does not work that's very sad
+[19:34:32] Meeklydim: (18...Qd8) Oh wow!!
+[19:34:47] King12-life: (18... Qd8) Probably misses Duty's idea at the end ?
+[19:34:47] King12-life: Though will meeklydim see it
+[19:35:33] Duty5521: not my idea
+[19:35:33] Duty5521: chess speaks for itself
+[19:35:33] Duty5521: !!
+[19:38:51] jfiras: (18...Qd8) so if i understand correctly what both of you said, it’s now Bxg6+, then Qx, and then Rf1 right?
+[19:39:36] King12-life: Yes
+[19:40:07] King12-life: 19. Bxg6+ hxg6 20. Qxg6+ Ke7 21. Rf1 Qg8 22. Rf7+! Qxf7 23. Rxd7+ Kxd7 24. Qxf7+ and white is probably better
+[19:40:22] Duty5521: Bxg6+ hxg6 Qxg6+ Ke7 Rf1 Qg8 Rf7+ Qxf7 Rxd7+ Kxd7 Qxf7
+[19:40:22] Duty5521: yeh
+[19:40:37] King12-life: White is definitely better with queen + pawns vs 2 rooks and weak king
+[19:40:52] jfiras: (18...Qd8) nice
+[19:41:38] Duty5521: nah crazy
+[19:41:38] jfiras: (19.Qh6) oh :(
+[19:41:38] Duty5521: well probably still winning
+[19:41:38] King12-life: (19. Qh6) This is the other candidate move
+[19:41:53] King12-life: But Bf3 now eh :)
+[19:42:24] gavalanche20: (19.Qh6) I thought surely Bg6 here, or was Black somehow surviving after Kf8?
+[19:42:39] King12-life: Oh yes black is fine I can't calculate
+[19:42:39] Duty5521: no black wasn't surviving
+[19:42:39] King12-life: Bxg6+ hxg6 Qxg6+ Ke7 Rf1 Nxe5 -+
+[19:42:54] gavalanche20: (19.Qh6) I didn't think so either but you never know haha
+[19:43:09] King12-life: Oh nvm there is Qg5+
+[19:43:09] King12-life: sigh
+[19:43:40] gavalanche20: (19.Qh6) I guess at least if Bf3 and Meeks didn't think Bg6 worked before then is 200% does now
+[19:44:25] King12-life: Why would it after Bf3
+[19:44:56] Duty5521: everything works
+[19:46:58] King12-life: Oh wait I just realized the rook on h8 would be hanging after Bxg6 now zzzzzzz
+[19:47:13] gavalanche20: (19.Qh6) Maybe it's still messy but I thought that would make it easier to see at least
+[19:47:28] gavalanche20: (19.Qh6) Scratch the maybe it's definitely still messy haha
+[19:51:32] Duty5521: yeah Qe7 definitely makes sense
+[19:51:32] King12-life: 19... Qe7 seems like a decent try but white will get their material back
+[19:53:03] Duty5521: yeah Kd8 Bxh5 white is doing reaaaally well
+[19:56:21] Duty5521: I wonder if there was Rd2
+[19:58:53] Meeklydim: (21.Bxh5) Rxc3 might be annoying?
+[20:00:09] Duty5521: meh
+[20:04:43] jfiras: (23...Kb8) Rf7
+[20:04:43] jfiras: (24.Rf7) nice !!
+[20:04:58] Duty5521: bro castled queenside by hand on move 23
+[20:05:14] Duty5521: short-castled queenside
+[20:09:32] King12-life: White converted very well, impressive
+[20:17:39] Duty5521: Nc6+
+[20:17:39] Duty5521: ?
+[20:21:13] King12-life: 36. nc6 :d
+[20:21:13] jfiras: (35...Ka8) yes
+[20:21:43] jfiras: (35...Ka8) what a game
+[20:22:59] Duty5521: uuuh
+[20:23:14] Duty5521: maybe it's time to resign?
+[20:23:14] Duty5521: just maybe
+[20:24:00] jfiras: gg !
+[20:24:00] King12-life: gg
+[20:24:15] jfiras: Nxe6 is impressive !!
+[20:24:15] Duty5521: welp
+[20:25:16] Meeklydim: I also considered Nxb5
+[20:25:31] Meeklydim: tbf I didnt feel fully confident with either but glad it worked
+[20:25:47] Meeklydim: thanks for watching guys
