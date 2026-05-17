@@ -1,0 +1,131 @@
+Lichess game chat log
+Game      : https://lichess.org/d7eqUuHu
+White     : dama_x_rey
+Black     : chraki
+Time      : 45+45
+Captured  : 2026-05-17 22:59:06 UTC
+Game ended : 2026-05-17 21:39:01 UTC
+Messages  : 121
+────────────────────────────────────────────────────────────
+
+[19:59:04] glbert: go chraki!
+[19:59:04] glbert: release the chraken.
+[20:06:11] chraki: hello glbert my best friend
+[20:10:29] glbert: hello chraki!
+[20:10:44] glbert: looking good so far.
+[20:13:32] chraki: idgi. is this a trap?
+[20:19:52] ExirK: (8) 6... Qd4 was the move -- important motif! It's a fork on the e5 pawn and the f2 checkmate square
+[20:20:23] ExirK: (9) *e5 Knight
+[20:21:39] alex_makarets: chraki's coach doesn't impress me so far. Are they still working?
+[20:21:54] ExirK: (9) coach?
+[20:22:25] alex_makarets: If I am not mistaken he tried a coach at some point of the league season
+[20:26:28] ExirK: (9) I'm trying to understand if Nxe4 was a result of mixing up with a different opening. I know Nxe4 occurs in many 1. e4 e5 openings
+[20:28:00] alex_makarets: I am not sure
+[20:34:20] glbert: chraki still has just very few games played. not sure how quickly a coach can help someone who has played a grand total of 30 games.
+[20:36:22] glbert: speaking of which, i wanted to keep practicing endgames with him. but i was too busy with other stuff.
+[20:57:10] ExirK: (18) Yeah this is very good for 30 games ever played
+[20:59:27] glbert: at least as far as i know he does not have games on a secondary account. but i might be wrong.
+[21:01:13] alex_makarets: I thought this is the coach's first task - to make sure your student has equal amount of pieces 10 moves into the game
+[21:01:59] alex_makarets: everything else of course comes with experience
+[21:01:59] ExirK: (20) I quickly looked through the games and I definitely notice that they have a pattern of playing "desperado" minor piece on like f2/f7
+[21:02:14] ExirK: (20) without there being any pressure or motivation behind it
+[21:02:29] ExirK: (20) We could talk more about it later with them, but t hat seems to suggest it's more psychological than lack of vision
+[21:03:30] ExirK: (20) just tweaking that one thing could really improve their rating
+[21:04:16] glbert: oh, looks like he has won some games in the pool.
+[21:04:16] glbert: only a matter of time for league games to follow.
+[21:06:03] ExirK: (21) I have no doubt, just need a confidence boost!
+[21:09:05] alex_makarets: Winning/losing is one thing. Obtaining good/bad habits is another.
+[21:09:51] ExirK: (24) he played this really nice game like 5 days ago, definitely will progress a ton once getting rid of the piece-losing
+[21:09:51] ExirK: (24) https://lichess.org/DldbXFQJ#37
+[21:10:06] jfiras: (24...Re2+) nice one !
+[21:12:38] nyanners: typical adulting knowledge-accumulation
+[21:12:54] nyanners: when the way early on is to just like lose 1000 games as soon as possible
+[21:13:09] nyanners: i know this is controversial :D
+[21:13:39] ExirK: (26) No I agree... 10+5 is really best for beginners
+[21:13:39] nyanners: like some would say omg my habits but if you are "motivated" way easier to pick up knowledge than it is to pick up board vision
+[21:13:39] ExirK: (27) enough time to blunder check not dropping pieces in one move
+[21:13:54] ExirK: (27) but you gotta play volume to get a sense of intuition
+[21:14:55] nyanners: like imo its not quite about omg Nxe4 doesnt work, etc. like yea it is about that but
+[21:14:55] nyanners: Nxe4 is played precisely because of a lack of experience
+[21:15:10] nyanners: so yea get out there and lose 20 times with Nxe4 and then you get a feel for it
+[21:15:41] ExirK: (28) right yes, I believe in "spamming" games and easy puzzles to build intuition for beginner
+[21:15:56] nyanners: that said, black has pretty good chances here :o
+[21:15:56] alex_makarets: 20 times? 3-4 times should be enough
+[21:15:56] ExirK: (29) (27) in my observation the biggest pitfall for beginner study is they do too much of "I go here, he goes there, I go there" too early
+[21:16:27] nyanners: i have definitely lost a few dozen to N(x)c7+
+[21:16:42] nyanners: clearly i was truly hopeless
+[21:16:57] alex_makarets: on the receiving side of it?
+[21:16:57] nyanners: yess
+[21:17:43] alex_makarets: I recall losing maybe 3 games to Nc7 specifically in Jobava London
+[21:17:43] nyanners: as long as it has been at this point, i still remember a tiny bit..
+[21:17:58] ExirK: (29) like to your point, I remember watching Michelle Khare (whose Youtube channel usually has great content) being hyper motivated
+[21:17:58] nyanners: i also lost quite a lot to the e4 Bc4 Bxf7+ opening
+[21:18:13] nyanners: somehow they went Ng5+ Qb3+ and it was mate on the diagonal
+[21:18:13] ExirK: (30)  to learn chess, but I was cringing the whole time because she was doing SOOO much of "calculating" but almost all of it was irrelevant
+[21:18:28] nyanners: i had to look at the lichess database to see how i even lost to that because i couldnt figure it out now
+[21:18:28] ExirK: (30) like she was trying too hard to learn it like it's a science and taking tons of notes and just overloading with knowledge
+[21:18:28] ExirK: (30) she can't use
+[21:18:43] glbert: don't understand 29...d4.
+[21:18:43] ExirK: (30) whereas what she really needed to do was just mindlessly spam like 100 games fast
+[21:18:43] ExirK: (31) to get a sense of basic board vision etc
+[21:18:59] alex_makarets: I think d4 is a kind of a blackout
+[21:19:14] alex_makarets: they are 1:20 into the game, right?
+[21:19:29] nyanners: eh well, its hard for me to say what one "should" do. but a lack of playing does seem to be a common theme with adults
+[21:19:29] glbert: maybe thought that after cx white cannot defend both pawns?
+[21:20:15] nyanners: like well, we have to do it slow before we can do it fast. or maybe we just have to let the unconscious do the job? im not sure
+[21:20:15] nyanners: i def took the latter route :o
+[21:21:01] nyanners: my spite and curiosity were greater than the embarrassment
+[21:21:31] glbert: can black construct some funny mate here?
+[21:21:46] alex_makarets: I thought the same? Is he cooking?
+[21:22:17] alex_makarets: if it is true I retract my suspisions towards the coach
+[21:22:32] nyanners: XD
+[21:23:02] ExirK: (37) chraki has demonstrated much better resilience mindset than I ever have lol
+[21:23:02] ExirK: (37) I crash out when I lose a piece :')))
+[21:23:18] nyanners: youre just jaded. being down a piece is still new and exciting
+[21:24:03] nyanners: Bf1 was cool but i didnt work it out to a clear win
+[21:24:03] ExirK: (37) I think my problem is more I have a hard time handling prolonged psychological tension
+[21:24:18] ExirK: (37) a lot of my problems with long TC game that isn't strictly related to lack of chess skill has to do with that
+[21:24:34] chraki: not sure why i didn't bishop to f1
+[21:24:49] ExirK: (37) like pushing deeper or more thorough when I'm reaching a critical position
+[21:25:04] nyanners: umm yea some people love this kind of thing. i have to admit thats also not me
+[21:25:19] nyanners: but i have crazy determination, i always rise to the occasion when it comes down to it
+[21:25:50] ExirK: (37) yeah I feel like if I can learn to handle emotional regulation better playing long TC, that's already a win
+[21:25:50] ExirK: (37) more than chess results
+[21:26:20] alex_makarets: do you mean performing under pressure? Or something else?
+[21:26:51] ExirK: (37) Yes, or learning to take a deep breath when my position is not going my way and look for resources rather than
+[21:27:06] ExirK: (37) "oh I'm already lost, whatever, I'll just get it over with"
+[21:27:51] nyanners: its definitely noticeable when someone is actually fighting vs when someone is just going with the motions
+[21:28:07] nyanners: that said it still beats resigning
+[21:28:22] nyanners: sometimes you just drift into a playable position and then you can still find it in yourself to wake up
+[21:28:22] glbert: i think i might be a motion person. at least lichess claims that i am disgustingly bad at turning games around.
+[21:29:08] ExirK: (38) I also have trouble when I have tried to push a better position but my opponent doesn't collapse, around 2 hr mark
+[21:29:23] ExirK: (38) that's when I notice I lose tension, and start playing just "looks good enough" moves because I subconsciously
+[21:29:23] ExirK: (38) want to get it over with
+[21:29:38] glbert: not sure if my tutor page is visible to everyone. i think it should be.
+[21:29:53] glbert: https://lichess.org/tutor/glbert/2023-01-06_2026-03-06
+[21:29:53] nyanners: is that even a setting
+[21:30:08] nyanners: i cant see it
+[21:30:08] glbert: :'(
+[21:30:24] nyanners: im also quite sure that if there was an option to make it public id have done it
+[21:30:24] glbert: i have my insights set to public, was hoping tutor would be affected by the same thing.
+[21:30:54] glbert: maybe it will be possible when it is out of beta.
+[21:30:54] glbert: anyway. it says there that my resourcefulness is awful.
+[21:31:09] glbert: motion person.
+[21:33:26] jfiras: (40...Bf1) gtg, regardless of the result, chraki you are doing an amazing job keep it up, and well played to both.
+[21:33:57] nyanners: :D
+[21:34:58] glbert: stopping the pawn will be disgustingly difficult.
+[21:34:58] alex_makarets: yes, this game is much more competitive than the first one
+[21:35:13] nyanners: needed Bxg2
+[21:35:28] nyanners: is this game? kinda looks like game
+[21:35:43] nyanners: i suppose Bxg2 also didnt help
+[21:35:58] nyanners: Bb4 is too good
+[21:36:44] glbert: what
+[21:36:44] glbert: i thought the idea was Rxg4 to get to the d-file in time.
+[21:37:30] glbert: can still check if white knows how to mate.
+[21:39:01] glbert: good game.
+[21:39:47] nyanners: gg
+[21:40:48] alex_makarets: gg
+[21:41:49] chraki: can't believe i didn't see 34...Bf1
+[21:43:05] ExirK: if there's one motif to remember it's 6...Qd4
+[21:43:05] ExirK: idea is that you fork the knight and the f2 mating square
+[21:43:35] ExirK: Do you remember what was the motivation behind 6...Nxe5
