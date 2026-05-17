@@ -1,0 +1,127 @@
+Lichess game chat log
+Game      : https://lichess.org/74y9vO64
+White     : joonaf
+Black     : mennonite
+Time      : 30+30
+Captured  : 2026-05-17 18:03:47 UTC
+Game ended : 2026-05-17 16:43:41 UTC
+Messages  : 117
+────────────────────────────────────────────────────────────
+
+[15:22:15] Joonaf: (8.d5) hmm, if ..exd5, cxd5, then ..Bb4
+[15:22:46] Joonaf: maybe I could do ..exd5, Nd4 as the pawn would be pinned, but would that do anything?
+[15:23:01] Joonaf: I could also do ..exd5, Nxd5
+[15:23:31] Joonaf: well, ..exd5, Nd4 would attack the f5-pawn
+[15:25:18] Joonaf: I remember some line in my 1.d4 prep which had d5 and then Nd4, but I don't even remember if it was Dutch or not
+[15:25:18] Mennonite: maybe 8...c5 would come as a surprise. it would force white to make up their mind with the d pawn
+[15:25:33] Mennonite: and cement that d4 square
+[15:26:03] Joonaf: there was too much to prep against Mennonite. I couldn't know what he would play
+[15:26:19] Joonaf: at least d5 made him think. And I do like it, even if I don't know how I will continue
+[15:26:34] Mennonite: issue here.. 8...c5 9.dxe6 fxe6 10.Qxd8 Rxd8 11.Ng5 Bxg2 12.Kxg2 and my weaknesses are real
+[15:27:04] Mennonite: do i have time to just play h6 first?
+[15:27:20] Joonaf: I'd like to retake with the pawn, but that ..Bb4 is a problem
+[15:27:35] Joonaf: so I think Nd4 would be the move
+[15:27:35] Joonaf: but Black plays ..h6 instead
+[15:28:05] Joonaf: I didn't consider this at all, and don't know what the idea is. To stop Bg5? To start pushing the pawns towards my king?
+[15:28:51] Joonaf: Nd4 or Ne5 could be good
+[15:30:37] Joonaf: or maybe Qc2 and then Rd1
+[15:31:53] Joonaf: Qc2, exd5, Nd4, Ne4,
+[15:32:24] Joonaf: my queen moves are always the worst moves
+[15:33:40] Joonaf: Nd4, c5
+[15:35:11] Joonaf: Nd4, c5, Nb5, a6, Bxg2, dxe7, Qxe7, Kxg2, axb5
+[15:38:14] Joonaf: is 9.Ne5 ok...
+[15:38:59] Joonaf: maybe the DSB will move to b4 or something
+[15:40:46] Joonaf: I just need to do something..
+[15:41:47] Joonaf: Qc2, exd5, Nd4, Ne4, cxd5
+[15:46:51] Joonaf: if 11..Nxc3, then not sure if Qx or bx is better
+[15:47:22] Joonaf: bx if I can then do c4 to defend d5
+[15:47:52] Joonaf: and Q would keep attacking f5 with the knight
+[15:50:40] Joonaf: can I do 12.Nxf5, or is the threats on f2 dangerous?
+[15:52:11] Joonaf: Nxf5, Nxf2, Rxf2, Bxf2, Kxf2, Qf6
+[15:54:28] Joonaf: Nxf5, Nxf2, Nxh6+, gxh6, Qg6+, Kh8, ...
+[15:59:02] Joonaf: can I do Nxf5, Bxf2+, Kh1
+[16:02:04] Joonaf: I'm not sure what I do if ..Nxf2. because if I do Nxh6, then Black can do ..Kh8
+[16:02:20] Joonaf: but maybe something like ..Nxf2, e3 works?
+[16:02:35] Joonaf: or move the knight, or..
+[16:03:05] Mennonite: considering 12...Nxf2 13.Rxf2 Bxf2 14.Kxf2 g6
+[16:03:05] Joonaf: I don't know, but I will figure something out..
+[16:03:36] Mennonite: the big problem with that is that 13.Nxh6+ is also a move.
+[16:07:09] Joonaf: e3 does block my bishop
+[16:07:24] Mennonite: i watched a john bartholomew video last night advocating trying to keep the game more complicated  if you're higher rated
+[16:07:39] Joonaf: but I think it forces the knight to Ng4
+[16:07:39] Mennonite: having said that i've played Joonaf enough that i consider us about even on a practical level
+[16:08:10] Joonaf: something else than e3 and there could be double check
+[16:08:25] Joonaf: well, Be3 is an option
+[16:10:27] Mennonite: i didn't think e3 would be a problem but i was too quick to brush it off.
+[16:11:12] Joonaf: I wonder if I could do ..Ng4, b4 sacing the pawn, ..Bxb4, Bb2
+[16:11:28] Joonaf: b-pawn is not important
+[16:11:28] Joonaf: ..Bxb4 would stop the pin
+[16:11:28] Joonaf: Bb2 would help me develope
+[16:11:58] Joonaf: it looks interesting
+[16:13:29] Joonaf: without the d5-pawn there would even be Qb3+
+[16:13:45] Joonaf: but if I do d5 then Black can do ..Bxc3
+[16:14:00] Joonaf: or just ..Bxd6....
+[16:14:45] Joonaf: oh but there's also the LSBs looking at each other
+[16:15:01] Mennonite: i can't see concretely why i can't take it, so take it and fingers crossed
+[16:15:01] Joonaf: Bb2 or Qb3
+[16:16:17] Joonaf: there might be some tactics with d5, but I don't have enough time to calculate
+[16:16:32] Joonaf: or skill
+[16:17:48] Joonaf: there could be something like d5, Bxg2, Ne7+
+[16:18:19] Joonaf: d5, Bxd6, Bxb7
+[16:19:04] Joonaf: what does ..Ne5 do
+[16:19:04] Joonaf: no idea
+[16:19:35] Joonaf: oh it stops Ng6
+[16:20:51] Joonaf: not enough time..
+[16:21:21] Joonaf: oh no, I was going to do Raf1 to attack Q on f8
+[16:21:37] Joonaf: but Bxg2 defends that
+[16:22:07] Joonaf: :(
+[16:22:22] Joonaf: not like this..
+[16:22:22] Joonaf: why I have to be so slow
+[16:22:37] Joonaf: and I had Qxg2
+[16:22:37] Joonaf: lol
+[16:22:37] Joonaf: how I missed that too
+[16:22:53] Joonaf: oh but now I do havbe Qb3+
+[16:23:08] Joonaf: no but..
+[16:23:08] Joonaf: .:Bxd6 of course
+[16:24:24] Mennonite: 17...Ng4 18.Ne7+
+[16:24:54] Joonaf: I must've had a great position
+[16:27:27] gavalanche20: Wondering if 16. Nb5 was the answer, I was looking at how to make Nh6 work for White
+[16:31:00] Warvold: (21...Qe8) Go Joonaf!
+[16:32:16] Mennonite: Qe8 was no good, because i can't play Qf7 after all.
+[16:32:46] Mennonite: i don't think i have the courage to play ...g5
+[16:37:35] Mennonite: i almost lost track of time and flagged
+[16:42:40] Joonaf: lol
+[16:43:10] Joonaf: /w oh well, it was mate anyway
+[16:43:10] Joonaf: ggwp
+[16:43:41] Joonaf: I keep getting good positions (at least I think I had a good position), but then lose everything in time trouble
+[16:44:11] Joonaf: I used way too much time on 12.Nxf5
+[16:44:26] Mennonite: Lonewolf feels like blitz really
+[16:44:26] Joonaf: well it's the same for me in 4545
+[16:44:42] Joonaf: what ever time I have, I will use too much of it
+[16:45:42] Mennonite: I was really strugging to calculate
+[16:45:42] Joonaf: me too
+[16:45:42] Mennonite: too many alternate branches in every line.
+[16:47:14] Joonaf: I need to learn to save time, but also I'd need to be able to play faster. I'm really bad at speed chess
+[16:47:44] Joonaf: our classical ratings are not that far apart, but on blitz and bullet the difference is huge
+[16:48:00] Mennonite: i feel like time management is the only thing i'm really that good at
+[16:48:30] Joonaf: managing your time while doing good enough moves is a great strategy
+[16:49:00] Mennonite: yeah, the key is determing whether a given move is really that pivotal or not
+[16:49:00] Mennonite: but easier said than done
+[16:49:00] Mennonite: because they all feel pivotal when the clock is ticking
+[16:49:16] Joonaf: yeah
+[16:49:31] Joonaf: I went from 18:04 to 5:55 at 12.Nxf5
+[16:49:31] Joonaf: that's just bad
+[16:50:01] Joonaf: and from 30:29 to 17:41 at 9.Qc2
+[16:50:16] Joonaf: didn't even realize I used THAT much time on that one..
+[16:50:16] Mennonite: That was my goal with 11...Bc5, to just complicate the position
+[16:50:16] Joonaf: horrible
+[16:50:32] Mennonite: I knew I was worse, but could maybe drain some of your time and swindle something
+[16:50:47] Joonaf: did I fell asleep at 9.
+[16:51:17] Joonaf: two moves wasted most of my time
+[16:51:48] Joonaf: I used 26 minutes on those two moves D:
+[16:51:48] Joonaf: on 30+30...
+[16:52:18] Mennonite: my wife just got home so i have to go
+[16:52:18] Mennonite: see you around!
+[16:52:18] Joonaf: thanks for the game!
+[16:52:33] Joonaf: always nice to play against you
+[17:54:39] MrScribbles: gg
