@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/ohOP7g9k
+White     : yaminejamal1
+Black     : konrder
+Time      : 45+45
+Captured  : 2026-05-17 19:56:23 UTC
+Game ended : 2026-05-17 18:36:18 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[16:43:09] KonrDer: I know Nbd2 is a move but I am out of book now
+[16:43:40] KonrDer: I think b6 Bb7 makes sense as he now blocked his bishop
+[16:45:57] KonrDer: even though I commited with b6 it could make sense to develop with Bf5 to hinder his development with Qc2
+[16:47:28] KonrDer: but Bf5 Nh4 he might get in Qc2 anyway
+[16:48:29] KonrDer: although there I have Nxd4 maybe
+[16:49:14] KonrDer: just need to think about Ne4/Nc4 discoveries
+[16:52:47] KonrDer: h6 played too quickly, should have thought about Re8
+[16:53:03] KonrDer: Nh4 is less scary than ne5
+[16:55:35] ivanhomeless: Let's go Konrad!
+[17:07:31] KonrDer: dxc4 Bxa8 Bxd6 Qxd8 Rxd8 Bxe5 Rxa8 Bxf6 gxf6 Rxc4?
+[17:07:46] KonrDer: not sure how to evaluate this, if I just play Bc7 there is Ne3
+[17:08:16] KonrDer: which honestly is not the end of the world after Be6
+[17:09:47] KonrDer: due to Rxc5 Bxe5 Bxe5 Nd7
+[17:14:37] yaminejamal1: hanging pawns is targetable
+[17:16:39] KonrDer: ah Bxe5 Bxe5 Nd7 there is Bc7
+[17:18:40] KonrDer: there Nxc5 Bxd8 Rfxd8 looks interesting though
+[17:19:11] KonrDer: down material with a rook and piece vs queen and pawn but his pieces are a bit akward
+[17:20:12] KonrDer: Bb6 Rc3 looks like nothing
+[17:20:27] KonrDer: Rc8 Qc1
+[17:25:01] yaminejamal1: Nd4 e3 is good enough probably
+[17:39:44] KonrDer: f5 looks tempting but he has Qh5/Qg6
+[17:41:00] KonrDer: Ne2+ follwed by Nc3 Rdd2 also looks appealing
+[17:42:46] KonrDer: now he doesnt have Rf1 back
+[17:43:17] KonrDer: if Be4 maybe I can take play Rdd2 and after Qa8+ Kh7 Qxa7 I have Nd4
+[18:13:28] KonrDer: I think even 40. axb4 is possible
+[18:13:58] KonrDer: since after the exchange it will hard for him to break through
+[18:14:29] KonrDer: but I think 40. Ra3 is also good
+[18:26:55] KonrDer: I should have gone Rc5 instead of Rb2
+[18:27:10] KonrDer: If he goes b6 I think I have to play Rab3 and try to go for the fortress again
+[18:33:30] yaminejamal1: Don't really see a way to stop this
+[18:36:03] yaminejamal1: 42. Re3 hmm
+[18:37:49] yaminejamal1: Didn't know 7.b6 was a thing cxd5 would be better w/ the knight on c3
+[18:38:04] KonrDer: Damn Re3
+[18:38:04] KonrDer: crazy defense
+[18:44:40] KonrDer: I was thinking about 33. Nf5
+[18:44:55] KonrDer: But didnt calculate further after Qc8+ sadly
+[18:45:10] KonrDer: There I have Nf8
