@@ -1,0 +1,97 @@
+Lichess game chat log
+Game      : https://lichess.org/4d0Wa7a1
+White     : tsscfttsos
+Black     : oooshonuffooo
+Time      : 45+45
+Captured  : 2026-05-17 22:11:30 UTC
+Game ended : 2026-05-17 20:51:25 UTC
+Messages  : 87
+────────────────────────────────────────────────────────────
+
+[18:30:21] bronasberger: Go oshonuffo!
+[18:34:55] aldric123: Gogogo!
+[18:34:55] Pineapplechiffoncake: Go shonuff!
+[18:35:56] aldric123: Hmm hard to decide here for Black
+[18:36:12] aldric123: e3 so far I like better than c5
+[18:39:29] aldric123: I kind of like this even if it's going backward. I suppose the knight could do c7 to e6
+[19:11:27] Inter-temporal: (23) (23.kf1) goo oooshonuffooo!
+[19:21:36] jcarmody: I concur with I-t. To wit, go osno!
+[19:24:39] guitarspider: (25...b6) very double edged position
+[19:36:04] ecoarrivazumashoomzo: go tsscfttsos!
+[19:56:52] jcarmody: People saying the players' names sounds like sneezing.
+[19:58:23] bronasberger: Bless them
+[19:58:54] kyriakos1301: let's go oooshonuffooo
+[20:00:25] kyriakos1301: 34 -- Bf1?
+[20:14:38] guitarspider: (39.Rec1) f6 and g5 locks down the black king for good, that's gong to be dangerous for sho
+[20:16:09] kyriakos1301: i think 39 -- Bh6  works
+[20:17:40] kyriakos1301: 40 ... c4?
+[20:22:14] Silkthewanderer: Kf3 should hold the draw
+[20:22:45] guitarspider: (42...Rxc8) might still be good for white if there's time for f6
+[20:23:46] guitarspider: (42...Rxc8) being up a king is powerful stuff
+[20:23:46] Silkthewanderer: Dont see when tbh. 43. f6 d2 looks good for Black
+[20:24:01] guitarspider: (42...Rxc8) I agree that Kf3 has to come first
+[20:24:16] Silkthewanderer: White just needs a draw too
+[20:26:03] Silkthewanderer: Hm...Kf3 Rc1 Rh2 Rc2 Rh1 Rxa2 is still not trivial though
+[20:27:04] Silkthewanderer: Maybe 43. Rh3 was the safer way
+[20:28:05] Silkthewanderer: Kf3 Rc1 Rh2 Rf2 is refuted by d2
+[20:29:05] guitarspider: (43...Rc2) now there's Rh1 to d1
+[20:30:37] guitarspider: (44.e6) huh
+[20:30:52] Silkthewanderer: I think e6 is a good idea
+[20:31:22] guitarspider: (45.fxe6) yeah
+[20:31:22] Silkthewanderer: It might be unaboidable that black gets a and keeps at least one passer on d
+[20:31:38] Silkthewanderer: So White will only elmininate the d pawns with a rook trade
+[20:32:08] Silkthewanderer: And for that to be not losing, pawn trades on the kingside are giod
+[20:32:08] guitarspider: (46...Rxe6) maybe this wasn't a good idea after all, now the king is cut off
+[20:33:24] guitarspider: (47...Re3+) Kf4 Re2 Rh1
+[20:34:10] Silkthewanderer: Rh1 over Rh3 why?
+[20:34:40] stevenlongs: closer to my heart
+[20:35:26] guitarspider: (49.Rh1) Ra2 probably, clear off that a-pawn and keep d4
+[20:35:56] guitarspider: (49.Rh1) d2 doesn't lead anywhere
+[20:35:56] Silkthewanderer: I think even that might still hold because White gets the time to play g5
+[20:36:27] guitarspider: (49.Rh1) white king is very active there too
+[20:36:27] Silkthewanderer: Kf4, Rd3 and g5 control both pawns
+[20:36:58] Silkthewanderer: White keeps attacking d4 and h7 and claims Black cant make progress
+[20:37:13] guitarspider: (49...Ra2) sounds plausible
+[20:38:29] guitarspider: (49...Ra2) although maybe Rd1 is necessary instead of Rh3, Rh3 Ra3 and there might be funny d2 rook sac ideas
+[20:38:29] Silkthewanderer: And the good thing is that it is pretty much the only defensive plan so you arent tempted to calculate much else
+[20:38:59] Silkthewanderer: Yes. I meant Rh3 over Rh1 to grab the d3 pawn a move quicker
+[20:39:15] guitarspider: (50...d2) ah yeah
+[20:40:00] Silkthewanderer: Ooookay, a5 is a surprise
+[20:40:16] Silkthewanderer: This allows the rook behind the pawn, now I am somehwat triubled
+[20:40:31] guitarspider: (52.Rxd2) agree
+[20:41:16] Silkthewanderer: Maybe White thinks the pawn endgame holds
+[20:41:32] Silkthewanderer: But if Black gets h6 in, it wonr
+[20:42:02] Silkthewanderer: Ah Ke4, Rd8 g5 - maxbe I miscounted
+[20:42:33] guitarspider: (53...Rd8) Rg5 was kind of interesting too
+[20:42:48] guitarspider: (53...Rd8) Kf4 h6, Rg2 h5
+[20:43:03] guitarspider: (53...Rd8) but I might have missed something
+[20:43:18] stevenlongs: if they all chop is it winning?
+[20:43:49] Inter-temporal: (54) (54.Ke5) should white K blockade to free the R?
+[20:43:49] Silkthewanderer: It is a very very tough pawn endgame
+[20:44:04] guitarspider: (54...Kg7) it's possible to mess up the pawn endgame
+[20:44:19] guitarspider: (54...Kg7) but on principle White shouldn't want to go there
+[20:44:49] Inter-temporal: (55) (55.g5) "Pure pawn endgames are a freakin horror show"--Capablanca
+[20:45:35] Silkthewanderer: This now seems lost. Black gets to trade with h6
+[20:46:36] guitarspider: (56.Kf4) must be lost now
+[20:46:36] Silkthewanderer: And after that White just gets pushed back
+[20:47:06] guitarspider: (56...Rd4+) Black even gets to improve the king because white has no tempo with the rook
+[20:47:06] Silkthewanderer: 54. g5 was the last exit to a draw I think
+[20:47:22] guitarspider: (56...Rd4+) whereas Black can move the rook no problem
+[20:49:39] guitarspider: (61.Ke4) now it's a formality
+[20:50:55] jcarmody: I'd still have a lot of work to do as black. All I can think about is "Rook endgames are drawn."
+[20:51:10] guitarspider: /w (66...0-1Weiß hat aufgegeben • Schwarz gewinnt) black just needs to put the rook somewhere on the f-file where it can't be attacked
+[20:51:10] Inter-temporal: (66) gg
+[20:51:25] guitarspider: then the pawns shelter the king
+[20:51:25] guitarspider: gg
+[20:51:25] bronasberger: Good game
+[20:51:25] compact-hausdorff: gg
+[20:51:25] jcarmody: fantastic!
+[20:51:56] ivanhomeless: gg
+[20:51:56] Inter-temporal: SF wanted the pure pawn endgame, oc
+[20:52:26] Inter-temporal: stupid engine *shaking fist emoji*
+[20:52:41] oOoSHONUFFoOo: Thanks for watching and all the comments guys. And thanks for the game Tss
+[20:52:41] Tsscfttsos: gg
+[20:53:12] oOoSHONUFFoOo: Yeah I just remembered the technique better with connected pawns and a rook :p
+[20:53:42] Inter-temporal: that pure pawn ending looks impossible
+[20:54:12] Inter-temporal: just goin thru different branches. so many only moves for white that seem counter
+[20:54:12] Feet_Barbie: Go shuffoo
