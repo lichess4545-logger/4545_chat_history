@@ -1,0 +1,149 @@
+Lichess game chat log
+Game      : https://lichess.org/O9GNc5iU
+White     : jcarmody
+Black     : catatafish
+Time      : 45+45
+Captured  : 2026-05-17 12:18:33 UTC
+Game ended : 2026-05-17 10:58:28 UTC
+Messages  : 139
+────────────────────────────────────────────────────────────
+
+[08:55:41] Silkthewanderer: Go jc
+[08:56:43] gavalanche20: go jc
+[08:58:44] guitarspider: go jc
+[09:00:31] jcarmody: Here we go!
+[09:01:01] gavalanche20: (1.Nf3)  3. Bf4?
+[09:01:01] stevenlongs: go jc go sports!
+[09:02:17] jcarmody: this reminds me of something I prepped for earlier this season.
+[09:02:33] Silkthewanderer: Simple chess is just early Qb3 whenever the Bc8 moves early
+[09:02:48] jcarmody: I wish I had a better memory than... What kind of fish has a notoriously bad memory?
+[09:02:48] jcarmody: anyway, that's me
+[09:04:04] Jarolos: go Catatafish!
+[09:04:19] Zubenelgenubi: go jc
+[09:06:51] jcarmody: I usually think about Nbd2, Re1 and e4, but he's got three attackers
+[09:07:22] jcarmody: 7.Ne5 gives me another defender and keeps him from playing e5
+[09:07:22] Silkthewanderer: There is also Nfd2 Nc3 and then e4. Very thematic.
+[09:07:37] jcarmody: Nbd2 first, I think.
+[09:12:26] jcarmody: first thought was Re1. second thought is that he can play dxc and I don't have Ne5 because of NxN
+[09:12:41] jcarmody: but, duh, Nxc4...
+[09:13:12] jcarmody: b3, Bb2 eventually?
+[09:14:43] jcarmody: how good/bad would it be if I played c5?
+[09:16:45] jcarmody: do i want c5 b4?
+[09:17:46] Silkthewanderer: Nh4 is a move
+[09:18:01] Silkthewanderer: Trade away the black LSB and then you get to play e4
+[09:18:31] jcarmody: Ne5-e4 seems ambitious
+[09:20:03] guitarspider: (8...O-O) I like Nh4
+[09:23:51] Pope123: (9.c5) go jc!
+[09:24:22] Silkthewanderer: c5 is s
+[09:24:22] jcarmody: 9..b5?
+[09:24:37] Silkthewanderer: ...an approach I personally dont like that much for White
+[09:25:07] Silkthewanderer: There is no LSB on the queenside anymore that would get cramped by it
+[09:25:07] jcarmody: i was thinking b4 or Qa4 (iffy)
+[09:25:22] Silkthewanderer: And the White pawn chain there can be the target for an attack later
+[09:28:10] Silkthewanderer: Or I guess even right now
+[09:28:55] jcarmody: 11. Ba3?
+[09:32:28] Pope123: (11.Ba3) b5 cxb5 c5 followed by Ne5 was an interesting sac
+[09:33:29] Pope123: (11.Ba3) c6*, don't believe in it though
+[09:34:15] jcarmody: I started worrying at a5.
+[09:35:01] guitarspider: (11...axb4) Looks like white loses the center here, maybe in addition to a pawn
+[09:35:16] jcarmody: now, Bxb, bxc, dxc, Nxc (I think it's better for me than Bxc)
+[09:36:17] jcarmody: guess: eval -1.8
+[09:37:48] Pope123: (12...bxc5) -0.8, still some play with Qc1-Nd4
+[09:38:03] Pope123: (12...bxc5) and put pressure on c6
+[09:41:06] jcarmody: I feel like I can't leave that DSB staring at my K like that.
+[09:42:07] jcarmody: but, BxB, NxB, Ne5?
+[09:43:38] jcarmody: 15. Nd4 double attacks the pawn and LSB
+[09:44:09] jcarmody: frees my LSB, too
+[09:46:10] Pineapplechiffoncake: go jc!
+[09:46:10] jcarmody: I don't like the LSB sitting there, unchallenged
+[09:48:12] jcarmody: my Q isn't going anywhere. maybe e3 would be useful soon?
+[09:49:13] Zubenelgenubi: tis but a pawn
+[09:50:14] Zubenelgenubi: c file is hot
+[09:50:44] stevenlongs: chop on f5 then Qc2 looks attractive as an idea
+[09:51:30] Silkthewanderer: I like Nd4. Trading away the LSB opens up some counterplay
+[09:51:45] Zubenelgenubi: is Rc1 or Qc1 a thing now?
+[09:52:16] jcarmody: e4 is still his.
+[09:52:31] Silkthewanderer: Nxf5 and then maybe even Nb3. Trading away the minors is not that...t
+[09:52:46] Silkthewanderer: ...bad and the open position gives more counterplay IMO
+[09:53:16] jcarmody: Qc1 to kick the N? Qc1, Qd6 I guess
+[09:54:02] jcarmody: NxB, exb, e3 and I can get my LSB into the game with Bh3 or Bf1 (more likely?)
+[09:54:32] jcarmody: or, e3 first?
+[09:55:03] guitarspider: (15...Qd7) Nx5 ef Q2 Nfe4 maybe
+[09:55:49] jcarmody: N2f1-e5?
+[09:56:49] guitarspider: (15...Qd7) Rc1 maybe?
+[09:57:20] guitarspider: (15...Qd7) if all the pawns end up on one side of the board that'll be good for white, so the a-pawn could be ditched provided we win one
+[09:57:20] guitarspider: (15...Qd7) pawn back
+[10:01:54] jcarmody: I no longer like e3. The pawn prevents Nd3.
+[10:10:47] jcarmody: 19. Bh3, g6
+[10:11:02] jcarmody: I just bet he wants BxN
+[10:21:11] pepepibote: 19... ng4 with ne5- nc4 ideas
+[10:22:12] stevenlongs: was wondering whether Nxf5 was possible
+[10:24:44] Pope123: (21.Qe3) Loses a piece, f3 doesnt work
+[10:25:14] Pope123: (21...Ng4) Black can save the knight and defend the queen with Nf6
+[10:25:29] Silkthewanderer: I think taking on f2 actually gives White more chances
+[10:26:00] jcarmody: (21.. Ng4) that was definitely coming
+[10:26:15] Silkthewanderer: Qd4 Ngxf2 Ne3 and then White gets back the pawn anyway
+[10:26:46] Pope123: (21...Ng4) Steven's comment was on 20.Nxf5 I think
+[10:26:46] stevenlongs: Pope: ah right, did you mean Nd6?
+[10:26:46] Pope123: (22.Qd4) yes
+[10:27:01] jcarmody: never play f3 unless it forks two Ns?
+[10:27:31] Silkthewanderer: This one I would actually not ve surprised to be almost equal
+[10:28:02] Pope123: (22...Ngxf2) Really? What do you not like here for black?
+[10:28:02] Silkthewanderer: I find the Black knights very displaced and White might get to breqk the centeal steucture
+[10:29:33] Pope123: (23.Ne3) I really like Ne3
+[10:29:48] Silkthewanderer: 23. Ne3 Rd8 24. Rf1 and then you get either both knights for the rook ir enter on f5 with the rook
+[10:30:03] jcarmody: I won't even try to guess the eval here after 23.Ne3
+[10:30:34] Silkthewanderer: It is either -0.8 or -3 I think, not much in between
+[10:31:35] Silkthewanderer: If Black doesnt win with a quick rush of the c pawn I think White is very mich okay
+[10:32:20] Silkthewanderer: Black has no way to get a knight to cover c1 though.
+[10:32:36] Pope123: (23...Ng4) this loses a piece
+[10:32:51] Silkthewanderer: Yep
+[10:33:36] Silkthewanderer: Many candidates here but the old advice to check captures threats will apply
+[10:33:52] Pope123: (23...Ng4) Both captures work luckily
+[10:34:07] Pope123: (23...Ng4) Nvm not true
+[10:34:53] jcarmody: nxn, fxn, bxn
+[10:35:08] Pope123: (23...Ng4) Yes!
+[10:35:08] jcarmody: retaking hangs the Q?
+[10:37:09] guitarspider: Nice find
+[10:38:10] jcarmody: still, c3?
+[10:39:26] guitarspider: Ne5 wins a second piece no?
+[10:39:42] Pope123: (25...fxg4) Never premove :/
+[10:39:57] Pope123: (25...fxg4) Also Nh6+ wasn't so bad
+[10:39:57] jcarmody: (25.. fxg4) trade Qs?
+[10:40:27] guitarspider: Still, this is good for jc
+[10:40:27] jcarmody: i feel like I can't leave the protected & passed pawn
+[10:45:17] guitarspider: Kinda lucky that Rb6 gets black mated
+[10:45:32] jcarmody: ??
+[10:46:02] jcarmody: not a lot of time to see if that was a trap or a mistake
+[10:46:02] guitarspider: Woah
+[10:46:33] guitarspider: Rab1
+[10:46:48] stevenlongs: lets go
+[10:46:48] Pope123: (29...Qb6) Wins on the spot but im okay with Bg2
+[10:47:03] Pope123: (30.Be4) even better
+[10:47:18] Pope123: (30...Qh6+) maybe not :D
+[10:47:34] guitarspider: Kg1 is ok
+[10:48:19] Pope123: (31.Kg2) Repetition is also ok
+[10:49:05] Silkthewanderer: Just Kg1 and Bg2
+[10:49:05] guitarspider: Won't repeat, Bg2
+[10:49:05] Silkthewanderer: Ah  even better
+[10:49:51] jcarmody: is he getting his Q trapped?
+[10:50:21] Pope123: (33...Qh6) Jc sees everything today
+[10:50:36] Pope123: (34...Qb6+) Damn :/
+[10:51:07] guitarspider: Rab1 was best again
+[10:51:22] guitarspider: Just use that extra rook
+[10:51:52] Pope123: (35.Kf1) Terrible cordination now
+[10:52:23] Pope123: (35...g6) Qf2
+[10:52:53] guitarspider: That's one rook gone
+[10:55:25] jcarmody: is his Q coming to b2?
+[10:56:26] guitarspider: Be4 was a good move
+[10:56:26] guitarspider: Kills a few tactical motives
+[10:56:41] Silkthewanderer: Yep. Stabilizes a lot
+[10:57:12] Silkthewanderer: Qf6 Qf3 and then Kg2 and Bd3 and Black has no motives at all
+[10:57:58] guitarspider: Free rook
+[10:58:28] stevenlongs: gg!
+[10:58:28] guitarspider: gg
+[10:58:28] Zubenelgenubi: gg!
+[10:58:43] pepepibote: gg
+[10:58:43] Pope123: Interesting game
+[10:58:43] Pope123: gg
+[10:59:14] guitarspider: JC is on fire
