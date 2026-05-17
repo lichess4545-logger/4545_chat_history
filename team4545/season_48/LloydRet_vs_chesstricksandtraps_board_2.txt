@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/mJG46RX6
+White     : lloydret
+Black     : chesstricksandtraps
+Time      : 45+45
+Captured  : 2026-05-17 19:19:50 UTC
+Game ended : 2026-05-17 17:59:43 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[14:30:26] R0B-W: (3.e4) Go, LloydRet!
+[15:29:01] LloydRet: (17.d5) Before a Black Knight land there (and with the Black King in the centre)
+[16:01:00] fork2020: Go LloydRet!
+[16:42:21] jdannan: Why not Ra1-a7(eg)
+[17:19:23] fork2020: That should be a winning exchange sacrifice.
+[17:19:53] jdannan: Really?
+[17:21:09] jdannan: Take take Ke4 Kd6 looks equal?
+[17:22:10] fork2020: Maybe Rxc6+ Kxc6 Ke4 Kd6 Kf5 Kd5 Kf6 Kc4 doesn't win.
+[17:22:41] jdannan: I still prefer the rook going to a-file wheee it can’t be so easily harassed
+[17:24:58] jdannan: And playing e4 and Ke3 would make it hard for the B to defend the wing pawns
+[17:25:43] fork2020: The problem is, the king can cover two of the pawns.
+[17:26:44] fork2020: Not very well, I guess, since something like Rc5 would win one of them.
+[17:29:47] jdannan: Rg5 Bd1 e4 and Ke3, then the rook can swing from side to side and I don’t believe black can hold
+[17:30:17] fork2020: I was just thinking that too.
+[17:31:03] jdannan: Because the B has to go to a4 and then Kd2 stops it from gettingback
+[17:31:49] fork2020: This should work too. If Bd3, Rb6+ Kf5 e4+ should win b5 or h5.
+[17:33:05] fork2020: e4+ should be good since e1 is a dark square, right?
+[17:34:06] fork2020: Or would e4+ Kg4 be a problem?
+[17:37:54] jdannan: Looks like b4 is in trouble
+[17:39:10] fork2020: e5 is threatened for now, so b4 should be temporarily safe.
+[17:41:12] ysgwydd: (72...Kd6) Rc5 forces Bd7
+[17:41:27] ysgwydd: (72...Kd6) Then advance with king
+[17:42:13] fork2020: The problem is that the bishop easily guards e4.
+[17:42:28] jdannan: I guess white will eventually play e4 when they get close to the 50 move rule :-)
+[17:44:14] fork2020: Kf3 Kc7 Rh8 Bg4 Ke4?
+[17:45:15] fork2020: And if Bf5 Rh8 forces Bg4+ because Bg6 Rh6.
+[17:46:01] fork2020: Either way, e5 or h5 should fall now.
+[17:47:02] fork2020: Ke4 and Rb6+ is threatened.
+[17:49:19] jdannan: Rd8+ is a quick win now
+[17:49:34] jdannan: Pin and swap the B
+[17:50:04] jdannan: Oh well
+[17:50:20] jdannan: I’m only sitting in an airport anyway :-)
+[17:57:11] MrScribbles: (87.Rc7) this must be won for white
+[17:58:27] ysgwydd: (88...Bh7) Yeah now it's winning
+[17:58:57] MrScribbles: (89...Kc6) Just Re5 and take the pawn
+[17:59:13] MrScribbles: (90.Re5) yep
+[17:59:28] ysgwydd: (90...Kd6) And give back the exchange. The horror
+[17:59:43] MrScribbles: gg
+[17:59:43] ysgwydd: gg
+[18:00:29] MrScribbles: I'm scrolling through the endgame now, black put up a good fight
+[18:01:30] chesstricksandtraps: Thanks @MrScribbles
+[18:02:17] chesstricksandtraps: Really thought it might be a draw
+[18:02:17] chesstricksandtraps: After analyzing turns out it was always winning for white
+[18:03:33] LloydRet: I thought the win would be forced (RvsB with pawns both sides) but now I'm not so sure
+[19:11:43] R0B-W: gg
