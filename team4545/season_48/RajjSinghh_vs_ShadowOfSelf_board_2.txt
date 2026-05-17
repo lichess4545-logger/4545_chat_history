@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/URt7y2W6
+White     : rajjsinghh
+Black     : shadowofself
+Time      : 45+45
+Captured  : 2026-05-17 21:16:53 UTC
+Game ended : 2026-05-17 19:56:48 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[17:29:23] RajjSinghh: I wonder if he's surprised it's not a Morra
+[17:29:23] RajjSinghh: we're following the same lines he played against me last time
+[17:29:23] ShadowOfSelf: so far just a mirror of our game last season
+[17:29:23] voylento: Let's go ShadowOfSelf!
+[17:29:23] voylento: Ha, you both made the same comment!
+[17:29:23] ShadowOfSelf: last season it was 10. exd5 but all 3 captures are possible
+[17:29:23] RajjSinghh: so last time I played exd5 here, the question is whether I want to deviate or not
+[17:29:23] RajjSinghh: the right move is Nfxd5, last time he played Nbxd5
+[17:29:23] RajjSinghh: I do wonder how much of this he actually remembers
+[17:29:23] PaulWithAnS: (12) Go ShadowOfSelf!!
+[17:29:23] RajjSinghh: I'm going to take that as he doesn't really remember this position even though he found the improvement
+[17:29:23] RajjSinghh: that's what I misremembered, I'm up a pawn here. the exchange blunder was winning but I'm still better here
+[17:29:23] RajjSinghh: maybe not by much, but the queenside majority looks nice
+[17:31:25] RajjSinghh: I remember in our last game (Nb4 was on f6) he played e5? a mistake
+[17:31:56] RajjSinghh: I shouldn't be overconfident but his time usage is nice to see
+[17:39:17] RajjSinghh: being up 20 minutes means a lot less on a 45 second increment but he could panic
+[17:43:20] ShadowOfSelf: was looking at 13...Rxa4  14. Bxa4 Bxb2 and couldn't really work out the resulting position
+[17:48:10] RajjSinghh: I remember variations with Bf5 and Rc1 or 0-0 but is a3 winning?
+[17:48:40] ShadowOfSelf: although maybe Bf5 is worse after a3 I don't actually have b5 I think
+[17:56:48] RajjSinghh: I don't see it so lets hope i'm not eating humble pie
+[18:01:22] ShadowOfSelf: burned too much time calculating various Rxa4 stuff. white can probably just 0-0 and I have to find compensation for the pawn
+[18:09:14] RajjSinghh: I have a pawn, black's pieces may be slightly awkward, I have a comfy time advantage
+[18:09:29] RajjSinghh: what's not to like?
+[18:18:37] RajjSinghh: I can't get too ahead of myself because the increment is so big
+[18:18:37] RajjSinghh: but the longer he spends the harder this endgame gets to hold
+[18:22:11] RajjSinghh: he probably missed Bxa3 Qxd5 Qxd5 Bxd5 Bxc5 there's Bxc5
+[18:23:11] RajjSinghh: ah, the Ne2 hangs with check
+[18:27:00] RajjSinghh: I guess I now just convert two passed queenside pawns
+[18:31:34] RajjSinghh: he's very active though, so after like Rd2 this gets tricky
+[18:36:23] Pineapplechiffoncake: Go shadow!
+[18:36:38] ShadowOfSelf: woah was not expecting Bg3
+[18:39:26] RajjSinghh: miscounted, thought this was an exchange... oops
+[18:39:26] RajjSinghh: still. not terrible
+[18:44:00] ShadowOfSelf: don't quite get it, e7 is a bit weak but I don't think it's a huge problem to defend it
+[18:50:35] RajjSinghh: I don't like this while the other game is crazy
+[18:51:36] RajjSinghh: there's realistically no way I win from here
+[18:52:22] RajjSinghh: I'd need a passed pawn and I won't get one
+[18:55:25] RajjSinghh: now it's uber drawn
+[18:58:58] ShadowOfSelf: probably was reasonable to take the draw but I don't feel much danger, I think I'll always have that option
+[18:59:43] RajjSinghh: and the other game is drawn
+[19:02:46] RajjSinghh: well now there's not even a sac on f3 to get some pawns
+[19:10:07] RajjSinghh: wonder if he knows bishop + knight mate, could be relevant
+[19:12:55] RajjSinghh: huh, dark square pawn that can never be attacked more than twice
+[19:30:56] voylento: Huh, I thought RxB was winning for white
+[19:31:11] voylento: on Move 53 I think
+[19:31:41] voylento: Rxd5, exd5 f5...
+[19:32:42] voylento: Oh, wow
+[19:33:13] voylento: ShadowOfSelf, just wow!
+[19:33:28] voylento: Don't know if you can convert, but great job getting the pawn for free
+[19:36:15] RajjSinghh: well, we're approaching bishop knight mate territory
+[19:38:32] voylento: Yeah, who has been practicing mate with bishop+knight? I couldn't do it
+[19:40:19] voylento: I think Shadow has it
+[19:41:20] RajjSinghh: wait is this lost now? Rc8 would have given me Re8 but now he jas Bc2 Bd1
+[19:49:27] RajjSinghh: all i do is choke winning positions :/
+[19:52:44] RajjSinghh: he promotes with check so Rh8 Re8+ isn't an option
+[19:56:18] voylento: gg both
+[19:56:18] PaulWithAnS: (70) gg
+[19:58:04] RajjSinghh: Terrible. how do I mess that position up
+[19:58:19] RajjSinghh: Shadow, out of curiosity, do you actually know bishop and knight mate?
+[19:59:05] ShadowOfSelf: somewhat
+[19:59:20] ShadowOfSelf: haven't practiced it in a while but I know roughly the idea
+[19:59:35] ShadowOfSelf: probably like...50% on me actually being able to execute
+[20:00:21] RajjSinghh: you did well in that endgame, my king was really cut off
+[20:02:23] ShadowOfSelf: I didn't think I'd actually have a chance to grab f4, but I do get infinite time to pose the challenge
+[20:03:23] RajjSinghh: It looks like the endgame was a lot more sensitive than I thought
+[20:03:54] ShadowOfSelf: I was surprised you wanted to do B+N for R+P
+[20:04:24] RajjSinghh: I missed that on Bxf7+ it's two pieces, not just a clean exchange
+[20:04:39] ShadowOfSelf: oh gotcha
+[20:05:10] RajjSinghh: even that position is quite delicate, which makes sense looking back that it's not just a clean exchange
+[20:06:26] RajjSinghh: I knew i was slightly better in the opening and knew I was better after Bxb2, I thought I was still better after Rb8, then I jjust fell apar
+[20:06:41] RajjSinghh: didnt think it was as bad as the engine suggests, though
+[20:07:42] ShadowOfSelf: yeah I thought it was going to be a draw
