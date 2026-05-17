@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/GWitXB0j
+White     : jwwells42
+Black     : val1313
+Time      : 45+45
+Captured  : 2026-05-17 22:17:29 UTC
+Game ended : 2026-05-17 20:57:24 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[19:08:49] ExirK: (11) Go Jwwells42!
+[19:14:24] alex_makarets: Hello Exir!
+[19:15:56] alex_makarets: According to our match situation I don't mind a really boring draw
+[19:16:41] alex_makarets: Queen exchange on move 8 is a big step in that direction :)
+[19:17:27] alex_makarets: (12) h6-g5 is probably a threat now
+[19:20:30] alex_makarets: (13) c7 is so weak. Black should do something about it right now
+[19:38:46] jwwells42: Rc1 came from a miscalc, i didnt miss h6 g5 but i did forget that it enabled Re7
+[19:39:31] jwwells42: often am going 0-0-0 in these structures but ok we are still solid enough
+[19:39:46] alex_makarets: (16) I didn't see a way to do better than 14.Rc1
+[19:43:20] alex_makarets: (17) a good question how black is going to develop his light square bishop
+[19:45:52] alex_makarets: As white I want to double the rooks and I don't see a good way to defend the pawn
+[19:46:22] alex_makarets: maybe 16...Rf7 should have been played with the idea Bf8-Bd6
+[19:47:23] alex_makarets: how did white manage to pose such problems? It looked drawish
+[19:52:12] cham: go wells!
+[19:54:14] alex_makarets: (18) Is the idea Rfc1 Na8? But then Bxa7 resigns
+[19:58:18] alex_makarets: maybe black wants Rfc1 c6, but then dc bc Rxc6. Although this is probably the best black has
+[19:59:18] glbert: go jwwells42!
+[20:05:09] alex_makarets: (19) Bc5 looks sneaky.
+[20:07:41] alex_makarets: Rxc7 is also ok but to me Bc5 looked more precise
+[20:08:57] jwwells42: sound got turned off so i was waiting lol
+[20:13:31] alex_makarets: (22) Nc4 Rc8 Bd3 (Bb5 Nxd6)
+[20:14:16] alex_makarets: some more exchanges are definitely in white's favor even objectively
+[20:22:54] ExirK: (23) feels like a two result game, excellent
+[20:26:58] alex_makarets: time is the only (mild) concern
+[20:27:59] ExirK: (23) Nc4 still looks good
+[20:27:59] ExirK: (23) black a7 is weak
+[20:29:15] alex_makarets: now I would consider h3 too
+[20:30:16] alex_makarets: black's only source of "sort of counterplay" is g4 push
+[20:30:31] ExirK: (23) yup
+[20:35:20] ExirK: (25) I like white's posish
+[20:37:22] ExirK: (27) even if Bxa5 white's 2 connected passed pawns are superior
+[20:37:37] ExirK: (27) Nc4 is also an option holding on to the pawn
+[20:37:52] ExirK: (27) Bc5+ to simplify
+[20:37:52] ExirK: (27) many options
+[20:38:08] alex_makarets: I wouldn't give black Bxa5. Just Bc5+
+[20:38:08] alex_makarets: exchanging the only good piece of black's
+[20:39:08] alex_makarets: btw it is time to simplify, 3 minutes
+[20:39:08] ExirK: (27) bc5+ bxb rxb kd6 nxd7
+[20:41:41] ExirK: (29) Bb5
+[20:44:58] ExirK: (31) 31 BxB was an opportunity -- if KxR, N fork on d7!
+[20:45:29] alex_makarets: cool
+[20:45:59] ExirK: (31) don't panic.... e5+?
+[20:46:15] alex_makarets: I thought e5
+[20:47:00] ExirK: (31) yeah e5+ works
+[20:47:15] ExirK: (32) cool as a cucumber jwwells has it all under control!
+[20:47:46] nyanners: white thinking here is slightly concerning
+[20:48:01] ExirK: (32) nerves I think
+[20:48:01] nyanners: yes i think so :o
+[20:48:32] ExirK: (32) I have faith
+[20:48:47] alex_makarets: too much calc to my taste
+[20:48:47] nyanners: okay good
+[20:49:02] nyanners: probably even Rc7 exchangesac is good too
+[20:49:02] nyanners: might be Too Winning
+[20:49:17] ExirK: (33) Ke6 Bc4+ also works
+[20:49:33] ExirK: (33) but yeah this is so fancy... Rc7+ was less stress
+[20:49:33] nyanners: nah i like this better
+[20:49:33] nyanners: rc7 involves giving the rook
+[20:49:48] nyanners: rc7 kd8 and it seems you have to let go
+[20:50:03] ExirK: (33) yeah you're right actually
+[20:50:18] nyanners: honestly that doesnt even look bad either
+[20:51:04] ExirK: (33) forgive us jwwells -- the time management isn't nerves, it's good understanding of critical positions :')))
+[20:51:49] alex_makarets: actually if look at the time graph it will show ideal time management
+[20:51:49] nyanners: i just never trust playing on inc
+[20:52:05] alex_makarets: especially calculating
+[20:52:20] nyanners: okay Nxd6 is basically resigns
+[20:52:50] alex_makarets: Rxg5 and chilling
+[20:53:06] nyanners: yea this gets *my* nerves going XD
+[20:53:21] nyanners: like does he not see Rxg5? of course he does
+[20:53:36] nyanners: this somehow feels more complicated
+[20:53:51] nyanners: like bluff time with Rxb6 Bxe8 Rxb3
+[20:54:06] nyanners: i suppose you just let go of the N and its whatever still
+[20:54:22] ExirK: (36) I'm just gonna say his time control is saying "I know this is the last critical position, so I can afford to use all my time :')))"
+[20:55:07] nyanners: chessdojo theorists happy
+[20:55:07] ExirK: (36) lol yeah
+[20:55:07] nyanners: im happier when im gaining time
+[20:56:08] alex_makarets: this 35. ab and actually spending some time on it... he has some balls
+[20:56:39] nyanners: ahahah yes
+[20:56:39] ExirK: (36) he should just offer draw I can't take this
+[20:56:39] ExirK: (36) my heart
+[20:57:24] glbert: good game, well played.
+[20:57:40] ExirK: (37) Well played!
+[20:57:40] ExirK: (37) so clean
+[20:57:55] alex_makarets: yes, really impressive
+[20:58:10] nyanners: gg :D
+[20:58:25] alex_makarets: I blinked and blacks position went from drawish to borderline lost
+[20:58:40] nyanners: peak olegas mode
+[20:58:40] ExirK: olegas?
+[20:58:56] nyanners: questionable person but strong inspiration for this type of game
+[20:59:41] nyanners: i know wells has looked into his repertoire and so have i :p
+[20:59:56] jwwells42: yes it's a nice lifestyle
+[21:00:27] nyanners: when it works it makes you wonder why ever play something else
+[21:00:42] nyanners: that would be because sometimes it doesnt
+[21:01:28] glbert: :D
+[21:01:43] jwwells42: ..f5 was interesting but it was a kind of surprise that didn't leave normal themes of the line
+[21:01:58] jwwells42: so i felt relatively comfortable
+[21:02:28] nyanners: yea f5 isnt too scary
+[21:02:44] nyanners: queens off and rook on e
+[21:02:59] nyanners: scary for black if anything
+[21:04:00] jwwells42: i did look at 20.d6 but i wasnt sure about it, found ways to lose the pawn
+[21:05:16] nyanners: i like as played
+[21:05:16] nyanners: gives a sense of stability
