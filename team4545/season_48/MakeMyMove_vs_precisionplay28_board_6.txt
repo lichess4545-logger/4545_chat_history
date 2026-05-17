@@ -1,0 +1,107 @@
+Lichess game chat log
+Game      : https://lichess.org/TqGgRJa5
+White     : makemymove
+Black     : precisionplay28
+Time      : 45+45
+Captured  : 2026-05-17 09:12:45 UTC
+Game ended : 2026-05-17 07:52:41 UTC
+Messages  : 97
+────────────────────────────────────────────────────────────
+
+[05:28:07] fritsj: Let's go PP!
+[05:30:08] MakeMyMove: opp has disconnected and not coming back
+[05:42:03] fritsj: Very worrying that PP has not made a move in over 15 minutes here
+[05:51:57] fritsj: Equally worried about how fast he's playing now... Think he's overcompensating for losing all that time earlier
+[05:57:01] jose684: go pp !
+[05:57:17] jose684: Hello @fristj
+[05:57:32] jose684: Fritsj*
+[05:59:18] MakeMyMove: (4)should have gone for theoritical moves. these 15 moves do not gel well
+[05:59:18] jose684: Jobava Rapport system kinda set up by White to start the game
+[06:00:34] fritsj: Hey jose!
+[06:00:34] fritsj: And micomps
+[06:00:50] Micomps: Go precision!
+[06:00:50] Micomps: Morning all
+[06:02:51] fritsj: Happy to see PP taking some time here, he has literally been blitzing last 11 moves after seemingly disconnectin for 15 minutes on move 4
+[06:05:08] MakeMyMove: (15) ne5 qg5 f5 qg3 rf3 qg4 ng6
+[06:07:25] MakeMyMove: ne5 qe8 bh5  g6 not possible
+[06:07:40] MakeMyMove: that line is forcing let me recalculate
+[06:09:27] MakeMyMove: queen is chased out of g file so his ne4 discovery wont lead to an extra move to defend g2
+[06:09:57] MakeMyMove: looks complicated. lets try that
+[06:10:13] fritsj: Qg4 is covered by the pawn in these lines
+[06:11:13] MakeMyMove: (15) huh i thought he wud also take some time to mvoe
+[06:12:14] jose684: e6 pawn is weak which is usual problem with these Dutch pawn set ups and weak back rank as well.
+[06:13:30] MakeMyMove: (16) queen could reappear on g5 via d8 pretty complicated. c3 is also dead in everyline
+[06:14:16] MakeMyMove: should have gone for c4 in opening instead of  experimenting with nc3
+[06:14:16] jose684: 17. ..Qd8 ? or is there a better move ?
+[06:15:17] fritsj: Probably he's looking at Nxc3
+[06:17:34] jose684: yea not a bad choice
+[06:19:20] MakeMyMove: (17)  ng6 to f4 threatening e6 is again a fork on Rand Q
+[06:22:08] jose684: White got multiple pieces hanging. is there a way out ?
+[06:24:10] jose684: 19. Nxe3 is also available if White decides to save his Bishop/
+[06:24:10] fritsj: Rxd1 Rxe8 Nd3 and everything is fine
+[06:24:55] jose684: yea looks good. too lazy to calculate when you are a spectator :)
+[06:25:26] fritsj: I mean Black is up a pawn and has a fantastic Bishop so White will likely struggle but still
+[06:25:41] fritsj: That c3 pawn was always gonna drop
+[06:25:56] fritsj: And by going for this Black has given up the nice Kingside pressure he had before
+[06:26:11] jose684: sounds good. With best play, Black's game to lose
+[06:26:11] fritsj: Given the match situation it's great for us though!
+[06:26:27] fritsj: Gonna be hard to win for White normally
+[06:26:42] fritsj: Unless Black makes some serious blunders
+[06:26:57] jose684: lets hope it doesnt happen that way :)
+[06:28:13] jose684: I didnt realize they played a game with wrong colors before staring correctly lol
+[06:28:28] fritsj: Haha neither did I!
+[06:35:19] fritsj: Now Nxe3 is a good move probably
+[06:36:20] MakeMyMove: (17) be5 c4 dxn cxb nc3 be6+ and picking  the pawn on e5
+[06:49:01] Micomps: (21.Nf4) Think black has come out of this reasonably well here
+[06:49:31] fritsj: Very nice position for PP here yeah
+[06:50:02] Micomps: Be4 now?
+[06:50:02] fritsj: Don't wanna defend e6?
+[06:50:17] Micomps: Or even just Nd5
+[06:50:17] Micomps: Bd5*
+[06:50:47] fritsj: Black's Bishop seemed better than White's Knight to me
+[06:50:47] fritsj: I was thinking Kf7 to keep them on the board
+[06:51:03] Micomps: It's too early for me
+[06:51:18] Micomps: For some reason I thought black couldn't play Kf7
+[06:51:33] Micomps: Brain fade
+[06:51:48] fritsj: Sunday morning miscalculations
+[06:51:48] fritsj: All good
+[06:52:19] fritsj: I've been up for a couple hours for work but still waking up
+[06:55:52] fritsj: Black's Knight is restricting White's Rooks so badly
+[06:57:23] Micomps: Rg6 is a very nice move
+[06:58:39] fritsj: Oooooof g4
+[06:58:54] fritsj: This seems so wrong
+[07:00:10] Micomps: Take take Bf3?
+[07:00:41] Micomps: Was looking at Ne2+ but not sure it achieves too much at first glance
+[07:00:41] jose684: yes g4 looks wrong
+[07:01:57] jose684: c3 Knight is doing a good job of taking out d1 square. Ne2+ - not sure if any thing good in long term
+[07:02:28] fritsj: Also if Ne2+ then take take Bf3 loses its impact since there will be Kg3
+[07:03:13] fritsj: Rf8 also not bad at all
+[07:03:28] fritsj: Maybe White should play f3 ugly as it looks
+[07:03:44] fritsj: Just damage control
+[07:08:18] Micomps: Ne2 another nice move
+[07:08:48] Micomps: For trap setting anyway. Not sure what the plan is next if white doesn't take it
+[07:12:06] fritsj: Now the Rook can activate
+[07:12:36] fritsj: Ne2 was hopechess
+[07:13:07] fritsj: But actually what happens if Ba6 here
+[07:15:08] fritsj: Maybe 31...Nd5 Rc4 Nxe3+ was nice
+[07:15:39] fritsj: Oh Nxe3 wasn't check but still
+[07:20:58] jose684: 32...Nb5 ?
+[07:21:44] fritsj: Looks great for Black yeah
+[07:24:16] fritsj: Nxe3 once again a threat now
+[07:24:47] fritsj: Nxe3 fxe3 Rxg3+ Kxg3 Rxf1
+[07:25:17] jose684: yes I too thought about the same sequence :)
+[07:29:51] jose684: all the black pawns are disconnected
+[07:30:22] jose684: but should be able to convert I suppose
+[07:33:24] fritsj: Well whether PP can convert or not we've surely got the win for the team in the bag now!
+[07:34:56] jose684: yes of course
+[07:42:02] jose684: Internet connection issue ?
+[07:43:03] fritsj: Oh god please no
+[07:43:18] fritsj: Not again
+[07:43:33] fritsj: Did I jynx us again by saying we had the win in the bag
+[07:43:33] jose684: ha ha
+[07:43:49] jose684: hope you didnt jinx :)
+[07:45:20] MakeMyMove: (19) these disconnections are pretty annoying
+[07:52:57] fritsj: GG
+[07:53:42] jose684: GG
+[07:53:42] precisionplay28: GG
+[07:57:30] Micomps: Gg!
