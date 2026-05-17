@@ -1,0 +1,39 @@
+Lichess game chat log
+Game      : https://lichess.org/GO0Tl4Xi
+White     : neothehero
+Black     : mennonite
+Time      : 45+45
+Captured  : 2026-05-17 13:15:48 UTC
+Game ended : 2026-05-17 11:55:44 UTC
+Messages  : 29
+────────────────────────────────────────────────────────────
+
+[10:02:36] Pineapplechiffoncake: Go Mennonite!
+[10:16:18] Pineapplechiffoncake: It's 6:00am Mennonite's time and he was playing  bullet just 7 hours ago!
+[10:34:18] Neothehero: (11...hxg6) c5 or Bf4
+[10:38:52] Neothehero: (11...hxg6) c5 Nd5 Nxd5 exd5
+[10:43:41] Neothehero: (13...Qxd6) c5, Qd3 or Bf3
+[10:44:42] Neothehero: (13...Qxd6) Qd3 Nh5
+[10:58:09] Neothehero: (15...e5) c5 or d5
+[11:19:43] Neothehero: (21...f5) a4 or Rac1
+[11:21:14] Neothehero: (21...f5) Rac1 Rac8 Rxc8 Rxc8 d7 Rd8 I dont' see a continuation
+[11:22:00] Neothehero: (21...f5)  a4 a5 bxa5 Rxa5 Bb5?
+[11:23:31] Neothehero: (21...f5) a5 Rac8 a4 Nc4 Rac1 Nxd6 Rxc8 wins
+[11:25:33] Neothehero: (21...f5)  Nc4 Rac1 Na3 Rxc8 Rxc8 d7 Rd8
+[11:29:21] Neothehero: (21...f5) a4 Nc8 Bc4+ Kf8 d7 Nb4 Be6 Ke7 a5 Nxd7 I lose a pawn
+[11:34:56] Mennonite: i played the first hour and a half or so on my phone in bed... now i'm up and have the laptop going
+[11:36:27] Mennonite: i have a hard time limit of 13:20 UTC so I'm hoping this doesn't peter out to a long endgame
+[11:36:58] Neothehero: (22...Rac8) a5 Nc4 Rac1 b5!? axb6 Nxb6 still better than 22...Nc8
+[11:38:44] Neothehero: (23.a5) Nc4 a6 b5
+[11:40:01] Mennonite: i miscalculated. I now see that 23...Nc4 just doesn't work.
+[11:40:01] Mennonite: so now i'm worse
+[11:40:16] Neothehero: (23...Nd7) a6 is possible
+[11:42:48] Mennonite: i wish my king were on f6
+[11:45:35] Neothehero: (25.Rac1) I'm worried that there might be some tricks with Nb8
+[11:46:36] Neothehero: (25.Rac1) Rxc1 Rxc1 Nf8 Rc7
+[11:48:08] Mennonite: wait why on earth did i play Nb8?
+[11:48:23] Neothehero: (26.Rc7) Am I winning?
+[11:57:00] Neothehero: I thought that 23...Nc4 works though
+[11:57:15] Neothehero: I might be wrong
+[11:57:30] Neothehero: 23...Nc4 24. Rac1 b5
+[11:57:46] Neothehero: was what I expected
