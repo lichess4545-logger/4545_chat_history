@@ -1,0 +1,203 @@
+Lichess game chat log
+Game      : https://lichess.org/e91CVFj7
+White     : namegoesinhere
+Black     : micomps
+Time      : 45+45
+Captured  : 2026-05-18 22:18:25 UTC
+Game ended : 2026-05-18 20:58:20 UTC
+Messages  : 193
+────────────────────────────────────────────────────────────
+
+[18:26:22] Shurbz: Namego!!! Go fight win!
+[18:27:53] fritsj: Let's go Micomps!!
+[18:31:26] Micomps: I was expecting a London, but here we are in the Benoni
+[18:33:13] fritsj: Oh dear another Benoni
+[18:33:13] fritsj: This will get the blood pumping again I'm sure
+[18:33:28] Micomps: (7.h3) I would normally expect Nf3, but it may be white is just trying to mix up move orders and play it next
+[18:33:43] Micomps: or maybe thinking of 8.g4. Let's see
+[18:37:01] Micomps: (8...O-O) all very normal Benoni so far, Bd3 being the "normal" move next
+[18:38:02] Micomps: (9.Be3) ok, bit different, time to think...
+[18:40:04] Le_Merovingien: Namego!!!!
+[18:40:20] Le_Merovingien: Is Be3 book? I don'r really get it
+[18:42:06] Micomps: If white had played Bd3, I'd have gone b5 straight away. I think I can still play that here, but I wonder if Re8 first is more accurate
+[18:43:07] Le_Merovingien: What was the issue with Bf4?
+[18:43:22] Micomps: (9...b5) went this way in the end as I want to play b5 and Re8 I think limits that a little
+[18:46:25] fritsj: So this is the idea behind Be3 then
+[18:46:25] fritsj: Aiming at c5
+[18:52:00] Le_Merovingien: You were wondering too?
+[18:52:30] fritsj: Yeah it's unusual in the Benoni right?
+[18:52:45] fritsj: That Bishop usually develops later
+[18:52:45] Le_Merovingien: It is. I did not think of b5 so early to be honest
+[18:52:45] fritsj: And not to e3 anyway
+[18:53:00] Le_Merovingien: I was thinking Bf4 Bh2 if need be to target the weakness.
+[18:53:16] fritsj: It's a typical tactic that it works this early, b5
+[18:53:31] fritsj: If you do it then you want to of course as Black
+[18:53:46] fritsj: If you can do it*
+[18:53:46] Le_Merovingien: Indeed
+[18:54:17] Le_Merovingien: Bxb5 looks strong now
+[18:55:17] fritsj: e4 after that I suppose?
+[18:56:33] Micomps: (11.Bxb5) spicy board
+[18:58:51] Le_Merovingien: Hmm
+[18:59:06] fritsj: Ng5 Nxd5
+[19:02:24] fritsj: Not sure what to suggest for Black now...Qe7?
+[19:06:43] Micomps: (12.Ne8) feeling a little cramped but I think this is fine...ish
+[19:08:29] Micomps: Bxc5 is no concern, in fact I think I'd like white to play that
+[19:09:15] fritsj: There's an interesting line with Bf4 Bxe5 Bxe5 Qg5 Bg3 e3 0-0 exf2 Bxf2 Bxh3...
+[19:10:01] fritsj: I mean I would not consider giving up the DSB at all if it was my own pieces I was giving up but as a spectator it seems interesting
+[19:13:34] Micomps: (13.Nc4) thought Nc6 was coming there, but this looks ok for white. Hmm
+[19:17:07] serenemoose: Go Name!
+[19:28:16] nyanners: does black have a benoni addiction problem
+[19:28:16] nyanners: ive been there
+[19:28:47] nyanners: i suppose its only a problem if you lose. if you win its a benoni addiction solution
+[19:30:49] nyanners: idk this is either kinda fine for black or really bad
+[19:30:49] Micomps: (15.Bb3) I was thinking of exchanging down and taking d5 but something doesn't feel right about that
+[19:30:49] Micomps: and I can't put my finger on what
+[19:31:19] nyanners: i tend to agree
+[19:31:34] nyanners: something something dark squares i guess
+[19:32:20] nyanners: the alternative is what, Nd7? yea this is a pretty big decision
+[19:32:50] Micomps: Bxc3, bxc3 Qxd5, Qxd5 Nxd5, Bh6 with ideas of Ne5 and threatening f7. Not sure
+[19:33:06] nyanners: yea i dont like that very much for b
+[19:34:06] Micomps: Bxc4 ix no option...maybe Nd7? d6 Ne6, Nxe4 then a few options. Looks ok I think
+[19:34:22] nyanners: okayy i know this IS a big decision but you almost definitely want more than 10 minutes for the rest of the game
+[19:34:22] nyanners: there we go
+[19:44:15] nyanners: smoke clearing and its looking good for black :o
+[19:44:46] Micomps: ((18...Bd3) that bishop is locked in now, hopefully
+[19:45:16] Micomps: need to try and undermine d5 next and then hopefully get these pawns rolling
+[19:55:40] nyanners: ooooooohh c4
+[19:56:10] nyanners: oh fxe4 is a good response
+[19:56:10] nyanners: okay
+[19:57:26] nyanners: yea what does black even do actually
+[19:58:43] nyanners: f5 is in the spirit
+[19:58:58] Micomps: (20...f5) this looked better in my head. I was going to play Re8 but missed white could just drop back to f2 with the bishop
+[19:59:13] nyanners: no idea whats happening here, which is very much the benoni way
+[19:59:13] Micomps: that position is probably still ok, but I want to try and push here with that bishop on d3 sitting pretty
+[19:59:59] nyanners: giving d5 i dont like for white
+[20:00:14] nyanners: this is almost definitely the line black wanted
+[20:01:15] fritsj: How insane is Qxd3 here? Haha
+[20:01:30] nyanners: but well, what else? i couldnt "refute" 21 Bxb6
+[20:01:30] nyanners: ooh
+[20:01:46] nyanners: i mean i really dislike the direction the game is going so......
+[20:02:01] nyanners: Qxd3 is definitely something i would consider
+[20:02:46] nyanners: as far as piece count goes, its actually kinda even if you take on a8? so its about the quality of the pieces remaining
+[20:03:17] nyanners: black's dsb still makes a good impression
+[20:03:17] fritsj: Oh i was gonna take with the Knight
+[20:03:32] Micomps: (21...Nxd5) oh, can white play Qxd3?!
+[20:03:32] fritsj: On d5
+[20:03:47] nyanners: yea thats the full commit approach :D
+[20:04:03] fritsj: Facilitates Bxb6 and Re7 as well
+[20:04:03] nyanners: like..... yea? i dont hate it :D
+[20:04:03] Micomps: apparently so.
+[20:04:03] fritsj: Big initiative
+[20:04:18] fritsj: Oh dear
+[20:04:33] Micomps: I have to take it, surely, but I have no idea what's happening next
+[20:04:48] nyanners: as black id have premoved cxd3, just to pretend im not scared
+[20:04:48] fritsj: Black can decline with Nxe3 no?
+[20:04:48] nyanners: the small things are important
+[20:05:03] nyanners: surely white is better in the decline i think
+[20:05:19] nyanners: its 2 pawns?
+[20:05:49] nyanners: Nxe3 Bxc4
+[20:05:49] fritsj: But DSB comp?
+[20:05:49] fritsj: Hahaha unlikely
+[20:06:04] nyanners: and gives time for fxg6
+[20:06:04] fritsj: Light squares even weaker yeah
+[20:06:20] fritsj: Black might just get mated
+[20:06:20] nyanners: i probably wouldnt even hate it if the black king was safer
+[20:06:50] nyanners: but fxg6 at the end is too much
+[20:06:50] fritsj: Yeah
+[20:07:05] fritsj: But in this line I kinda like Black I think
+[20:07:21] nyanners: yea seems unclear to me. i think i agree
+[20:07:21] fritsj: Theres no intiative and the Queen is gonna make itself felt I think
+[20:07:36] Micomps: (24...Qxa8) dust settles and it's...equal?
+[20:07:36] fritsj: Nxd5 seemed much more challenging
+[20:08:52] nyanners: hindsight does make me prefer Nxd5 too :D
+[20:09:07] nyanners: good call
+[20:09:07] fritsj: Although after Nxd5 I was kind of counting on Black having to react to the discovered attack but maybe he could simply have played Rxf5?
+[20:10:23] nyanners: no clue XD
+[20:10:38] fritsj: Yeah hard to tell
+[20:10:38] nyanners: one good part of taking on f5 is breaking the structure
+[20:10:54] nyanners: so i think i would
+[20:10:54] nyanners: def  better to take rook with N than with  B
+[20:12:25] jose684: Go Micomps !
+[20:13:11] Le_Merovingien: Ta ta ta
+[20:13:41] Micomps: (26...Qa6) toyed with Qd8 but this keeps the pressure on the q-side pawns
+[20:14:11] Micomps: I feel like I need a plan here. I am not sure who's better or if this is equal. d3 pawn is crucial
+[20:23:19] nyanners: black may be stuck, but white even more so
+[20:23:19] jose684: This is complicated position !
+[20:26:22] Le_Merovingien: Black isn't stuck... b5 b4
+[20:26:53] jose684: Black should challenge the Knigjt by pushing b5-b4 I think
+[20:27:08] Micomps: (31.Be3) my problem here is going to be dislodging the rooks, how do I free the d3 pawn?
+[20:27:38] jose684: lol captain heard me :)
+[20:28:09] Micomps: I'm not even convinced I'm threatening Bxc3, for that reason
+[20:28:54] nyanners: yea after some dancing black has managed Qc4
+[20:29:10] jose684: Kh7 , Bh6 and trade the B’s ?
+[20:29:40] Micomps: unless white plays something like a3, I don't think there's any merit in taking the knight yet
+[20:30:10] Micomps: white may play a3 to try and free the knight, but otherwise no reason to play it I guess. Not sure how this is going to unravel here
+[20:30:10] nyanners: nah Kh7 Bh6 should be in white's favour
+[20:30:26] nyanners: now black is definitely better but im not sure whats the best method
+[20:31:26] jose684: More trades benefit White here ? Or DSB benefit White because of the unchallenged Kinght ?
+[20:31:57] nyanners: like, the major pieces are committed to holding d3. the bishop is the free piece
+[20:31:57] jose684: I meant to say DSB trade*
+[20:32:12] nyanners: so when you trade the bishop you have less ideas possible
+[20:33:13] nyanners: more than that, white can prepare to take the pawn after that with some sort of Nd1-Nf2 thing
+[20:33:13] jose684: Make sense
+[20:33:13] nyanners: which i suppose is what white is going to do right now..
+[20:33:28] nyanners: but also gives black a tempo to move rook or queen
+[20:37:17] Micomps: (34.Nf2) not ideal, but think if I swap the b2 pawn for d3 we might be ok here
+[20:38:02] Micomps: (34...Qb3) fortunately I can drop the Queen back to e6 after Rd1 Bxb2, Rb1
+[20:40:19] nyanners: not sure what happened but i think i like it
+[20:40:19] nyanners: for black, that is
+[20:41:50] jose684: This should be in the bag now I think
+[20:42:06] fritsj: Black has to be winning surely
+[20:42:21] fritsj: If not objectively then practically for sure
+[20:49:42] MrScribbles: (44...Qc3) agreed
+[20:54:16] Micomps: (46...Kf8) not Kf6.....
+[20:55:48] nyanners: okay thats game
+[20:57:04] nyanners: not even a bluff
+[20:57:49] nyanners: you can probably premove b1Q every opportunity but i dont think even i would do that
+[20:57:49] nyanners: should be good though
+[20:57:49] nyanners: gg
+[20:58:05] Pineapplechiffoncake: Gg
+[20:58:05] fritsj: GG both!
+[20:59:36] Micomps: Wild game, few mistakes from us both in there
+[20:59:36] nyanners: thats to be expected :o
+[20:59:51] Micomps: Thanks for the game @namegoesinhere
+[20:59:51] nyanners: pretty good graph for what it was XD
+[21:00:06] Micomps: Nyanners - I do love a Benoni
+[21:00:22] NameGoesInHere: yeah, that d3 bishop was a killer, I totally underestimated this Ba6-d3 idea
+[21:00:37] nyanners: another benoni high :o how did i ever manage to quit
+[21:00:37] nyanners: the highs are so good.......
+[21:01:07] Micomps: Ba6 was a move I found by accident when looking at all options
+[21:01:22] Micomps: After that I was always eyeing up the d3 square
+[21:02:08] NameGoesInHere: yeah, I guess that's why I should've gone Nc6 instead of Nc4, but at the time it felt like c4 was a great square for the knight
+[21:02:38] NameGoesInHere: these positions always swing on such fine margins...
+[21:02:38] Micomps: It surprised me when you played it, but then I thought it looked really smary
+[21:02:38] Micomps: smart*
+[21:02:54] nyanners: it WAS very clever, just not as good
+[21:03:09] nyanners: doesnt make it not clever tho
+[21:03:24] Micomps: Soon as I saw I could play Nc7 and Ba6 I felt a bit more comfortable
+[21:03:54] nyanners: yea that was probably pretty necessary
+[21:05:10] Micomps: Surprised b4 was a "blunder"!
+[21:05:26] NameGoesInHere: that seems harsh haha
+[21:05:56] Micomps: Ohhh, Re7 was the move
+[21:06:11] Micomps: Yeah, I can see now why it calls it a blunder, ha!
+[21:06:11] NameGoesInHere: I saw Re7 at the time but I thought it wasn't great for some reason
+[21:06:11] NameGoesInHere: but I forget why
+[21:06:42] Micomps: Stockfish knows all...
+[21:07:42] NameGoesInHere: ah the point is Rf2 Bh6 and unlike earlier I don't have a check on d4 because Bd4 Qxd4 Rxe7 Rxf2
+[21:07:58] NameGoesInHere: Qxf2 at the end
+[21:07:58] NameGoesInHere: complicated stuff
+[21:08:28] Micomps: Yeah, I don't think I'm calculating that
+[21:08:58] NameGoesInHere: I don't think I was calculating anything by that point...
+[21:08:58] Micomps: Maybe if you tell me b4 isn't the best move I can find that...
+[21:08:58] Micomps: But b4 looked so natural
+[21:09:14] NameGoesInHere: mostly just muttering too myself 'don't blunder a fork don't blunder a fork'
+[21:09:44] Micomps: It was a complex game - I completely overlooked Qxd3 (as you probably can see in the chat!)
+[21:10:14] Micomps: Wow, Stockers even says that was the best move - Qxd3 was a great find
+[21:11:30] NameGoesInHere: yeah I was pleased with finding that one, I just couldn't see anything else I liked and wanted to make it complicated
+[21:12:16] NameGoesInHere: because I felt like my a1-rook was getting trapped in a lot of lines
+[21:12:16] Micomps: I was having flashbacks to you making things complicated in the simul...
+[21:12:46] NameGoesInHere: turns out it's easier to deal with complications when you're not playing 9 other games though...
+[21:13:17] Micomps: Who knew?!
+[21:13:32] Micomps: I'd best get off - thanks again for the game, really interesting one that tonight - have a good evening!
+[21:13:47] Micomps: And good luck for the last round next week :)
+[21:13:47] NameGoesInHere: you too!
