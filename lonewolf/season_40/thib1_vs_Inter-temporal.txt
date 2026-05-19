@@ -1,0 +1,96 @@
+Lichess game chat log
+Game      : https://lichess.org/WMeDw0mE
+White     : thib1
+Black     : inter-temporal
+Time      : 30+30
+Captured  : 2026-05-19 22:17:59 UTC
+Game ended : 2026-05-19 20:57:53 UTC
+Messages  : 86
+────────────────────────────────────────────────────────────
+
+[19:12:22] Inter-temporal: (5) (5...Nf6) not an ambitious opening choice, but i should be able to get castled without a lot of drama
+[19:14:24] Inter-temporal: (7) (7...O-O) (5) all good moves by white
+[19:15:40] Inter-temporal: (8) (8.a4) i think i can liquidate the center
+[19:26:04] Inter-temporal: (9) (9...c5) make some weaknesses, but what else can i do?
+[19:26:19] Inter-temporal: (9) (9...c5) white will roll is K-side, so i think i gotta try to push the Q-side
+[19:38:30] Oachkatzerlschwoaf: go mr. temporal!
+[19:39:15] Oachkatzerlschwoaf: (12) Qf3 looks strong for white
+[19:39:31] Inter-temporal: (12) (12...Nxe4) white has alot of pressure aimed at my K
+[19:57:31] Inter-temporal: (17) (17...Ra6) sharp game. white is playing well
+[20:11:43] Inter-temporal: (20) (20...Bg7) (20) i think 20.Bd2 might have been complicated
+[20:15:32] Inter-temporal: (21) (21...Rf6) i don't think i first confirmed 22.Bg5 was manageable
+[20:15:47] Inter-temporal: (21) (21...Rf6) i think it is, but just by luck
+[20:40:23] Inter-temporal: (35) (35...Kf6) nice move by white
+[20:46:59] Inter-temporal: (43) (43...Bb6) 38.Rc6 was a good move
+[20:57:53] GoldenRetrieverChess: gg
+[20:58:39] Inter-temporal: i wouldn't resign there. :)
+[20:58:54] thib1: you mean you would ve earlier ? :)
+[20:59:09] Oachkatzerlschwoaf: nah
+[20:59:09] Inter-temporal: nooo. lol you have the "wrong color" corner for a draw
+[20:59:09] Oachkatzerlschwoaf: never resign
+[20:59:25] Oachkatzerlschwoaf: unless you want to
+[20:59:25] Oachkatzerlschwoaf: who said that again?
+[20:59:25] Inter-temporal: it's still tough, but if you feel like playing on, you should
+[20:59:25] Inter-temporal: Capablanca!
+[20:59:40] Inter-temporal: i think. i mean, idk
+[21:00:10] thib1: oh yeah that wrong color bishop stuff. i thought about it and then forgot haha
+[21:00:25] Inter-temporal: i forget too sometimes.
+[21:00:41] thib1: no you're right i can try to sac the bishop for the passed pawn and see what happens on the k side
+[21:00:41] Inter-temporal: but here it's a real thing. even GMs should not be expecting u to resign
+[21:01:26] Inter-temporal: but there's also the psychology. so, if ur not having any fun defending, then yeh. just bag it.
+[21:02:42] Inter-temporal: gg. i'm gonna review first without the engine.
+[21:02:42] thib1: b3 felt awful
+[21:02:58] Inter-temporal: i have it toggled off, but i saw i made a blunder somewhere.
+[21:03:13] Inter-temporal: seemed a bit tricky there
+[21:03:28] Inter-temporal: earlier, some miscalculation to drop a pawn?
+[21:03:43] Inter-temporal: 10.f4 was a big move
+[21:03:58] Inter-temporal: i couldn't calculate it all
+[21:03:58] thib1: yes i spent like 10mn on it
+[21:04:14] thib1: i forgot e4 was just hanging :(
+[21:04:14] thib1: after 12.Nd5
+[21:04:29] Inter-temporal: it's complicated!
+[21:04:29] Inter-temporal: and there were quite a few branches
+[21:04:59] Inter-temporal: after a few minutes, i just kinda guessed
+[21:06:30] Inter-temporal: i wasn't even sure it was bad for white.
+[21:07:01] thib1: 10...cxd4 11.fxe5 dxc3 12. exf6 cxb2 13.fxe7 bxa1=Q 14.exd8=Q Rxd8 15.Bxf7+ i saw something like this, bishop pair + king safety for a rook
+[21:07:16] thib1: for an exchange i mean
+[21:07:16] thib1: but long variation, wrong variation
+[21:07:46] Inter-temporal: it could work out. but yeh. that's a big one.
+[21:08:02] Inter-temporal: but as usual, if i can't coordinate after gaining a pawn, the attack can be overwhelming
+[21:08:17] Inter-temporal: and i was certainly feeling it! lol
+[21:09:33] thib1: i should probably have played the rook lift
+[21:09:48] Inter-temporal: i think ur right, around 20.b3 i think it settled down. but
+[21:09:48] Inter-temporal: i was worried about Bd2 there
+[21:10:03] thib1: Ra3 without playing the rook next was more or less pointless
+[21:10:03] Inter-temporal: 21.Bd2, i think
+[21:10:18] Inter-temporal: instead of 21.b3 {typo]
+[21:10:49] Inter-temporal: no wait, it was earlier
+[21:10:49] thib1: 12.Bd2 Rxb2
+[21:11:04] thib1: *21
+[21:11:04] Inter-temporal: 20.Bd3 i think is where i wondered about 20.Bd2
+[21:11:19] Inter-temporal: yeh, it's in my whispers during the game
+[21:11:50] thib1: aaargh 20.Bd2 Rxb2?? 21.Qxf6
+[21:12:05] Inter-temporal: right
+[21:12:05] thib1: didn't see the bishop needed the rook
+[21:12:05] Inter-temporal: exactly
+[21:12:20] Inter-temporal: i actually said outloud,
+[21:12:35] Inter-temporal: "fu*C, my rook is overworked"
+[21:12:50] thib1: lol
+[21:13:21] thib1: and then the rook moves and Bxb7 regains the pawn
+[21:13:36] Inter-temporal: right. i figured u get the pawn back there
+[21:13:51] Inter-temporal: unless i could find smth, but had not yet
+[21:15:22] thib1: 32.dxc3 i expected 32.Be3+
+[21:15:38] thib1: 32...Be3+ i mean. instead of 32...dxc3
+[21:15:53] Inter-temporal: it was a bit of a toss-up, but i went for the less risky choice, imo
+[21:15:53] thib1: yeah
+[21:16:08] Inter-temporal: if not, then white's b-pawn is passed with the R in place...
+[21:16:38] Inter-temporal: even worse, white's dsb covers the queening square.
+[21:17:09] Inter-temporal: lucky i had enough time to talk myself out of the check there
+[21:17:39] Inter-temporal: so yeh, i think 32.c4 was a great practical move
+[21:18:55] Inter-temporal: honestly, u were playing so well i had already decided i'd be fine with a loss. lol
+[21:19:26] thib1: thank you! but time management was as usual a real problem
+[21:19:41] Inter-temporal: indeed.
+[21:20:42] Inter-temporal: thanks also to Oach and GRC for watching!
+[21:20:57] Inter-temporal: hit me up in slack if there's ever anything u want to discuss about the game, the league, chess, whatever. :)
+[21:21:12] thib1: ok thanks! thanks for the game
+[21:21:12] Inter-temporal: u2 gl!
