@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/9UTeUB06
+White     : ascannerdarkly
+Black     : littleoak12
+Time      : 45+45
+Captured  : 2026-05-19 21:44:41 UTC
+Game ended : 2026-05-19 20:24:37 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[18:08:19] Mennonite: Go Little oak!
+[18:18:03] Kayrosas: hm i wonder if 10.Nf5 is a thing
+[18:18:18] Kayrosas: probably not
+[18:39:06] Leverkuhn: A little Maroczy action today!
+[18:39:37] Leverkuhn: I'm starting to learn how to play this type of position from the White side since adding the Samisch to my repertoire
+[18:40:37] Leverkuhn: for now far from an expert however
+[18:42:24] Leverkuhn: in this particular position there's a possibility for Black to play 13...Nxd4 14.Bxd4 Bxa4!? 15.Qxa4 Nd7 trying to aim for a knight vs. lsb
+[18:42:39] Leverkuhn: . . . situation, which is always nice for Black
+[18:43:25] Leverkuhn: White would want to duck out of the bishop trade with 16.Be3, but this does allow 16...Bxb2
+[19:08:16] Leverkuhn: 17.c5 might have been interesting
+[19:09:17] Leverkuhn: I'm not sure if I'd want to trade dsbs. It's good in the sense of weakening Black's king, less so in terms of pawns structure
+[19:10:18] Leverkuhn: 17...Bxh6 18.Qxh6 f4 is something I'd consider as Black, trying to lock White's queen out
+[19:15:22] Leverkuhn: or even just 17...Bxh6 18.Qxh6 Qb6+, pick up the pawn
+[19:21:42] Leverkuhn: Black has gone for the former line
+[19:21:42] Littleoak12: I succumbed to the temptation to isolate Scanner's queen from the rest of their pieces.
+[19:21:58] Littleoak12: The bigges threat for white seems c5 Bc4+, but I think my king is fine on h8
+[19:22:28] Leverkuhn: 19.c5! still seems almost necessary positionally
+[19:23:29] Littleoak12: long term Ng8 can threaten to trap the queen? but that is very wishful
+[19:45:18] Littleoak12: I have no clue if my attack is fast enough
+[19:45:48] Littleoak12: my intention is to sac bishop on h3 and use a rook on h8 to push my h pawn
+[19:49:52] Leverkuhn: Black missed the chance to play 22...c5! with positional domination based the the dark squares and vastly superior bishop
+[19:52:24] Leverkuhn: I still think I'd like to see Scanner shatter Black's pawns with 27.c5
+[19:53:10] Leverkuhn: ...h3 can be parried with a rook and the second if it needs to be answered at all
+[20:09:54] FunnyLikeAClown: Some queen sac?
+[20:10:09] FunnyLikeAClown: Hx and rxh2
+[20:10:55] Leverkuhn: such ideas are starting to appear
+[20:11:10] Littleoak12: perhaps 31..e4 was better to prevent e5 and Ne4 from Ascanner
+[20:11:26] Leverkuhn: in general White needed to find counterplay rather than play all these defensive moves
+[20:11:41] Leverkuhn: he's agreed to play the game on Black's terms
+[20:14:59] Leverkuhn: 32...Qg3 33.hxg3 h2+ 34.Kh1 Nh5 almost mates but White can counter-sac the queen on g3
+[20:15:29] Leverkuhn: there's little doubt Black has a winning sequence here, but time is tough
+[20:17:16] Leverkuhn: the knight clearly can't be taken, but what is Black's threat?
+[20:19:02] AScannerDarkly: I can feel the eyes of Lever and FLAC boring into me telling me not to blunder mate in 1 again
+[20:21:34] Leverkuhn: oof, Black succumbed to a trick in time pressure
+[20:24:07] Leverkuhn: gg
+[20:24:37] Leverkuhn: 36...Rxh2 37.Rxh2 and were the discoveries winning?
+[20:24:52] FunnyLikeAClown: So tough low on time gg
+[20:25:23] Leverkuhn: 37...Ne2+ 38.Kf2 Rxh2+ 39.Ke1 Qg3+ 40.Kd1 Nxc3+ 41.Qxc3
+[20:25:23] FunnyLikeAClown: I was always looking at taking on h2 I think it could have been played at a few points
+[20:25:38] Leverkuhn: somehow still not clear because of the a-pawns
+[20:26:54] FunnyLikeAClown: Maybe not, but yeah at least then the discovery threat looks winning
+[20:27:09] Littleoak12: I was trying to make Rxh2 work and I thought I had mate after Ne2+ double check
+[20:27:39] Littleoak12: but I realised just before I moved Kf2 was possible and panic moved something else
+[20:27:39] Leverkuhn: story of my life right there
+[20:27:55] Leverkuhn: every chess player can relate
+[20:28:25] FunnyLikeAClown: But actually in lots of lines the rook can slide back to g2? Idk, certainly couldn’t have worked it out in 2 min
+[20:28:40] Leverkuhn: playing moves anyway even when you realize they aren't as good as you thought is a very difficult aspect of chess discipline
+[20:29:11] AScannerDarkly: What's the Ne2 move? I don't see that on 37...
+[20:29:26] Leverkuhn: if 36...Rxh2 instead of 36...Bh3?
+[20:29:26] Littleoak12: yeah if 36 Rxh2
+[20:29:26] FunnyLikeAClown: Yeah it’s not just a one mover that’s for sure. Congrats scanner!
+[20:29:56] Littleoak12: yes well done! it was thrilling to play
+[20:30:11] AScannerDarkly: Ah I see
+[20:30:11] AScannerDarkly: Will be good one to analyze later
+[20:30:27] AScannerDarkly: Thanks for the tough match and watching fellas
+[20:32:28] Littleoak12: yes leverkuhn I think at least in time pressure its best to go with the move already considered
+[20:32:43] Littleoak12: switching moves with only a few seconds of calculation oft leads to my demise
+[20:32:59] Littleoak12: thank you for the tip
+[20:33:14] Littleoak12: thx for watching yall
+[20:34:15] Littleoak12: Maroczy bing is fascinating, personally I think 9.Nc2 is most in the spirit of the position, keeping black confined and avoiding trades
+[20:34:30] Littleoak12: I wonder if Scanner studied this opening in detail, I do often play the hyperaccelerated dragon
+[20:35:00] Littleoak12: when I play it as white myself I usually find it hard to keep it all together and black breaks out
+[20:37:32] Littleoak12: 22. ...c5 is a very interesting idea that I'll think over, I was too scared about Nd5 but perhaps it was no threat
