@@ -1,0 +1,157 @@
+Lichess game chat log
+Game      : https://lichess.org/AuIzgK2T
+White     : mennonite
+Black     : j3084
+Time      : 45+45
+Captured  : 2026-05-19 22:32:09 UTC
+Game ended : 2026-05-19 21:12:04 UTC
+Messages  : 147
+────────────────────────────────────────────────────────────
+
+[19:01:26] Mennonite: ok, this is one opening i've never looked at
+[19:02:27] Mennonite: although i remember maybe 20 years or so ago there was a guy at the kansas city chess club who wanted to prove to me
+[19:02:42] Mennonite: he could play anything and beat me, and played this in a causal game and crushed me, i think
+[19:03:58] j3084: that was not intended, in case anyone wonders...
+[19:04:14] Leverkuhn: quite rude do that irl; glad it didn't sour your relationship with chess, Mennonite!
+[19:05:30] Mennonite: so i guess i treat this as a Pirc where I'm up a tempo and have to watch the queenside a bit
+[19:06:00] Leverkuhn: yeah, it's a (much) less ferocious version of the Tiger Modern
+[19:06:15] Leverkuhn: the Mouse(slip) Modern
+[19:07:01] Pineapplechiffoncake: Was it a mouseslip on the first move? Bad luck!
+[19:11:05] Mennonite: i'm probably going to castle kingside but no harm in leaving the door open a little
+[19:11:50] Mennonite: it's too bad that sterpfi and faznaz are playing at the same time, i wanted to watch that game!
+[19:12:05] Leverkuhn: always nice to play h3 in the Pirc because Black has to worry about e4-e5 much more frequently
+[19:13:21] Leverkuhn: This White setup doesn't really menace e5 however as d5 is available for the knight
+[19:13:52] Leverkuhn: Setups with Nc3 instead of c3 would likely have punished Black's lost tempo more effectively
+[19:15:23] guitarspider: (7...Na6) c3 is very useful long term to maintain the center though
+[19:15:39] Leverkuhn: true
+[19:18:56] Mennonite: i see... taking aim at b2. i think i could meet Qb6 with b3 though
+[19:19:27] Mennonite: probably want to go ahead and trade bishops to keep the lines simpler
+[19:20:12] Leverkuhn: Black might just be intending 11.Bc2 b5 and 12...Bb7
+[19:20:28] Leverkuhn: with a sort of Breyer-like situation
+[19:20:28] Mennonite: but first let me convince myself that i really can't take on c4
+[19:20:43] Leverkuhn: doesn't look too bad honestly
+[19:22:14] Mennonite: the problem i'm running into with the 11.Bc2 lines is, what am i going to do with the knight and rook?
+[19:31:52] Leverkuhn: did Black fall into a positional trap here? He really needs to meet 13.a4 with 13...b5, but can he?
+[19:32:08] Leverkuhn: * 13...b4
+[19:33:39] Leverkuhn: the distration motif on e4 was still doing something for Black, but 13.a4 b4 14.e5!? looked worth investigating to me
+[19:34:25] Leverkuhn: Black doesn't find a4 critical
+[19:34:55] Leverkuhn: I would have leaned towards 13...a4, getting there before White
+[19:40:30] Leverkuhn: the a4 ship has sailed, and White will instead look for play on the kingside and in the center
+[19:40:45] Mennonite: i'm at a loss for what to do here
+[19:41:00] Leverkuhn: 15.Nh2 is possible, intending f2-f4 and Ng4 when convenient
+[19:41:46] guitarspider: (14...Rac8) maybe even e5 directly
+[19:42:01] guitarspider: (14...Rac8) although you'd probably want the rooks in the center first
+[19:42:47] Leverkuhn: yeah I'm not sold on 15.e5; after 15...Nd5 Black's pieces are activated and ...b4 will now pressure c3
+[19:43:02] Leverkuhn: and ...Nf4 is always on the table
+[19:43:48] Leverkuhn: White has selected the typical Spanish manuever of Nd2-f1-g3
+[19:44:18] Mennonite: black's position is pretty solid, and playing for the e5 push not only doesn't concretely achieve much
+[19:44:33] Mennonite: but it also leaves me vulnerable to disaster on g2.
+[19:45:04] guitarspider: (15.Rfe1) g3 doesn't seem like a good square for the knight
+[19:45:04] Leverkuhn: indeed, it's not the best
+[19:45:34] Leverkuhn: I still say the f-pawn was the key participant
+[19:46:05] Leverkuhn: after 15...e5, the position is very Breyer-like indeed
+[19:46:35] Leverkuhn: White can always consider d4-d5 to embarass Black's bishop, but it gives up c5
+[19:47:06] guitarspider: (15...e5) it does
+[19:47:06] Leverkuhn: *embarrass
+[19:47:21] guitarspider: (15...e5) also f5 might be on the cards then and I'm not sure white is able to deal with that so well
+[19:51:39] Mennonite: g3 is such a concession but i don't see a good alternative
+[19:57:29] Mennonite: i was thinking of Bd1 to try to pressure that knight, but i need that bishop eyeing f5
+[20:05:06] Leverkuhn: okay interesting, White has revealed the purpose of his 16.Rac1 move
+[20:05:21] Mennonite: if i lose this game it's going to be really demoralizing
+[20:05:21] Leverkuhn: he wants to exploit the rook-queen vis-a-vis as the queenside opens
+[20:06:07] Leverkuhn: great time for Black to invest some time to figure out what's going on after 18...exd4 19.Nxd4, among many other lines
+[20:08:39] Leverkuhn: after 18...exd4 19.Nxd4 Qb6 20.bxc4 b4!? Black has some tactical energy based on the undermining of d4 and pin on f2, but White also has Nf5
+[20:09:40] giziti: 1. ...a5! worked out well enough i guess
+[20:09:40] Leverkuhn: I didn't really want to contemplate 19.cxd4 c3 for White, but maybe it's possible
+[20:10:26] Mennonite: i was going to take with the pawn but now i wonder if the knight would be superior. 19.cxd4 c3 looks  like it would tie me down
+[20:10:41] Mennonite: i don't really want to cede c5 to the knight but yeah
+[20:14:14] Mennonite: this also introduces the idea of Nf5+ though i don't know if it does much at this point
+[20:15:45] giziti: i feel like this really lets up on the pressure on the c-file
+[20:18:02] Mennonite: i can't calculate this all the way so going partly on intuition
+[20:20:19] Leverkuhn: 21...Ng7 looks okay if Black doesn't find better
+[20:21:50] giziti: I def liked Ng7 more than f6
+[20:23:37] Mennonite: the line i'm really struggling to calculate is 22...Nxe4 23.Bxe4
+[20:24:07] guitarspider: White has real threats here imo
+[20:26:24] Mennonite: the truth is i'm terrible at tactics/calculation. i don't know how i got as high as i did rating wise
+[20:27:41] giziti: I like the idea of Nc5 here?
+[20:30:43] Mennonite: 25.Bc2 is the safe move. trying to make Re3 work but i don't think i can
+[20:31:29] Mennonite: i had intended on Bd5 but didn't see Nd3
+[20:31:29] guitarspider: Bd1 doesn't seem to work out
+[20:31:59] Leverkuhn: 25.Re3 also possible maybe
+[20:35:02] guitarspider: I thought maybe g4 and N2f3-g5 could have worked. Not sure.
+[20:35:48] Leverkuhn: very ambitious, but I would think too risky
+[20:37:04] Leverkuhn: f4 definitely still interesting for White
+[20:37:04] giziti: would f5 have worked?
+[20:37:34] Leverkuhn: in which position?
+[20:37:49] giziti: instead of Qe8
+[20:37:49] Leverkuhn: White would just take, no? No e-file pin yet
+[20:38:35] guitarspider: I like f4
+[20:39:21] Leverkuhn: feels right for sure, but what next after 27.f4 Re7?
+[20:40:52] Leverkuhn: 28.Qh4 back maybe, prevent ...Nf6 ideas
+[20:40:52] Leverkuhn: complicated position
+[20:41:07] Feet_Barbie: (27...Re7) go
+[20:43:24] Leverkuhn: look for White to throw in Rb1 at some point to talk to b5
+[20:44:25] Leverkuhn: Black has thrown the gautlet: he must intend to take on e4
+[20:44:40] Leverkuhn: it works or it doesn't
+[20:45:11] guitarspider: Looks risky, but it's all concrete now
+[20:45:56] Leverkuhn: hmmm I would have thought f6 was part of White's win
+[20:46:27] Leverkuhn: what has White calculated here?
+[20:46:42] guitarspider: Nf3 now maybe, Bxg6 ideas if the knight moves
+[20:48:44] Kayrosas: this is where you make an illegal move with the h-pawn so you get some extra time to think while the arbiter is called
+[20:48:59] Mennonite: want to play 31.Nxb5 but can't defeat ...g5
+[20:48:59] Littleoak12: go mennonite!!!
+[20:49:45] Kayrosas: grabbing b5 is probably not the correct priority
+[20:50:00] Leverkuhn: 31.Nxe4 Nxe4 32.Rxe4 Bxe4 33.Qf6+ Kg8 34.Bb3+ sort of close but 34...d5-+
+[20:51:16] Kayrosas: i like N2f3
+[20:51:47] Leverkuhn: good call
+[20:52:02] Kayrosas: g5 could still be strong here tho
+[20:52:17] Leverkuhn: what White's threat here?
+[20:52:33] Leverkuhn: I might play 31...Rcc7, break the pin
+[20:53:49] Kayrosas: Qf8 seems like a nice candidate to me, if black has time Rce8 is def preferable over Rcc7
+[20:54:04] Mennonite: i honestly had no idea what to play there but had to just not flag
+[20:55:05] Kayrosas: no matter what finding a good move with 50sec will be difficult. i don't really see the plan
+[20:55:05] Mennonite: if i could have a do-over, maybe Re2
+[20:56:06] Kayrosas: 32.Rf1 perhaps
+[20:57:06] Kayrosas: sometimes in time pressure these simple moves are easier to play ^^
+[20:57:06] Mennonite: i almost forgot i was in time trouble and flagged
+[20:57:22] Mennonite: looked up and saw 4 seconds
+[20:57:37] Kayrosas: black does only need to consolidate tho :/ so Qg7 is probably fine
+[20:58:23] Leverkuhn: White could take b5 at least
+[21:01:40] Leverkuhn: gotta take b5 here, make Black prove it
+[21:02:11] giziti: do we just have Nxc3 here?
+[21:02:11] nyanners: i know this FM who plays 1 a4 and 1..a5 every game and this game very much reminds me of that
+[21:02:56] Kayrosas: 34...Nxc3 Qxd6 mayhaps
+[21:03:12] nyanners: theres some argument that a4/a5 often turns out useful in those pirc/kings indian structures
+[21:03:42] Kayrosas: yea it's a bit weird to punish correctly sometimes
+[21:03:42] giziti: but then Rxe1 and things get complicated
+[21:04:13] Kayrosas: so it's not 'just' Nxc3 at least :P
+[21:04:28] Littleoak12: Why not play h4 and h5 that attacks the kings indian even more
+[21:04:28] Kayrosas: i think it kinda works out alright for white. still down a pawn in the end and a2 might fall+ weak king
+[21:04:43] nyanners: on principle, as black id rather keep positional tension rather than blow anything up
+[21:04:43] nyanners: like i dontl ike this..
+[21:04:58] nyanners: id only like this if theres a trap in Nxe6
+[21:04:58] nyanners: is there :o
+[21:05:14] Kayrosas: i dont think so
+[21:05:29] nyanners: white is very happy to see this for sure
+[21:05:44] Kayrosas: 36.Bxe4 and hope for Bxe4 Ng5?
+[21:05:44] Leverkuhn: in the online era things like 1...a5 are even more annoying since your opponent will suspect cheating
+[21:05:59] Kayrosas: if Rxe4 we get d6 in the end
+[21:05:59] nyanners: sounds about right
+[21:06:14] Leverkuhn: 3-day-old accounts love to play 1...a5, 2...a4 and then unleash Stockfish on you
+[21:06:14] Kayrosas: noo
+[21:06:45] Mennonite: oh no i threw it
+[21:06:45] Kayrosas: so precise for most of the time trouble
+[21:07:15] Mennonite: ...Nxg5 and elastic band on e6.
+[21:07:30] giziti: oof
+[21:08:01] Kayrosas: you can still hope for a trick
+[21:08:16] ScotchWhisky: and Nxh3+
+[21:08:16] Kayrosas: Rxe6 and hope for Nxh3
+[21:08:31] Kayrosas: aw
+[21:09:32] Kayrosas: i think Rxe6 Nxh3 could be good for white like Kh2 Nxf4 Rxe8 would win the queen back
+[21:10:48] nyanners: i suppose that will do now
+[21:12:04] Kayrosas: gg
+[21:12:04] Leverkuhn: gg
+[21:12:04] Littleoak12: gg, bad luck mennonite
+[21:12:20] ScotchWhisky: gg
+[21:12:35] nyanners: gg
+[21:15:37] guitarspider: gg
