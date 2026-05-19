@@ -1,0 +1,136 @@
+Lichess game chat log
+Game      : https://lichess.org/sbRUSIH9
+White     : giziti
+Black     : philippbrandenbrett
+Time      : 45+45
+Captured  : 2026-05-19 16:58:51 UTC
+Game ended : 2026-05-19 15:38:46 UTC
+Messages  : 126
+────────────────────────────────────────────────────────────
+
+[14:02:22] giziti: tromp time!
+[14:02:53] giziti: i feel exf6 is the better way
+[14:04:39] giziti: hmm i forget whether i'm supposed to take on c5 immediately
+[14:06:56] giziti: i don't think Qxb2 is a real threat here
+[14:07:11] giziti: I mean he can do it but there are too many risks
+[14:16:04] giziti: I was considering Qf3 and c4
+[14:16:49] giziti: I need to get my bishop out somewhere
+[14:28:45] giziti: now that is interesting
+[14:35:05] nyanners: gx is the "ambitious" move
+[14:35:36] nyanners: black was rewarded but Ke7 seems like a bit much
+[14:35:36] nyanners: O-O seems perfectly fine
+[14:40:40] nyanners: white would really like nf1-ng3 but that still seems horrifically slow
+[14:40:55] nyanners: i guess black is still for choice
+[14:41:11] nyanners: c4 is nice
+[14:41:26] nyanners: thats probably a way better idea
+[14:42:27] nyanners: if black has to do this then white is looking pretty good
+[14:44:29] nyanners: Qxb7 really exposes the drawbacks of Ke7
+[14:45:29] nyanners: like O-O instead and white doesn't have Qxb7 and black might be kinda crushing
+[14:54:07] giziti: i was condiering Nb3 (Qxb2) and Rd1 also
+[14:55:08] nyanners: fair but expect black to meet both with Qb6 regardless
+[14:55:08] giziti: should have a massive advantage here but one mistake could throw
+[14:55:53] nyanners: umm if Qb6 Qxb6 white has an extra pawn but the pieces arent actually very good
+[14:56:09] nyanners: and if the queen retreats then maybe black has some initiative
+[14:56:39] giziti: I guess Qd6->c6 gets out without a lot of damage, need to find resources
+[14:56:39] nyanners: probably a small-ish advantage
+[14:57:09] nyanners: but wouldnt be super surprised if black has full compensation
+[14:57:55] giziti: maybe for that reason Nb3 was right, could jump to c5
+[14:58:26] nyanners: nb3 does look higher potential than nf3
+[14:59:11] nyanners: we also have to mention 16 Rd1 of course :o
+[15:00:12] nyanners: though thats in weird territory
+[15:01:28] giziti: I guess if Qd6 Rd1 Qc6 I could simplify down to the ending
+[15:01:43] giziti: pawn up, better structure, but two bishops and open position
+[15:03:30] nyanners: umm im afraid thats a long think wrong think moment
+[15:03:30] giziti: Qxb8, yeah?
+[15:03:30] nyanners: yeah
+[15:03:30] JEEprep2374: (16...Rhb8) Nxd4 Bf3 wins a exchange right?
+[15:03:45] JEEprep2374: (16...Rhb8) Or that. I really am tilted lol
+[15:04:00] nyanners: that seems also true but more confusing
+[15:04:00] giziti: or Qxa8?
+[15:04:16] nyanners: qxa8 qxb2 is probably what black saw
+[15:04:16] giziti: no thats silly, b8
+[15:06:17] nyanners: yea black thinking here makes me afraid that black simply forgot about this one capture
+[15:06:33] nyanners: this is clearly insufficient
+[15:06:48] JEEprep2374: (17.Qxb8) Now the position just looks miserable. the dsb is going to take a move or 2 to get to a decent square, not to mention black is ...
+[15:06:48] JEEprep2374: ...just a pawn down
+[15:07:03] nyanners: exchange too
+[15:07:18] JEEprep2374: (18...exd4) and that.
+[15:07:18] nyanners: yea i like being maximalist h ere
+[15:07:33] nyanners: b3 helps a lot
+[15:07:49] nyanners: though maybe 19 O-O-O was the same but better
+[15:08:19] nyanners: though even with 19 O-O-O odds are one would still go 20 b3..
+[15:08:19] JEEprep2374: (20.Bd3) Now it should be smooth sailing, I dont see any tricks for black now.
+[15:08:34] nyanners: i feel white still wants the king on the queenside
+[15:08:34] nyanners: because of this
+[15:09:05] nyanners: yea Kd2. i like it
+[15:09:50] giziti: this isn't easy but this isn't so bad
+[15:10:06] giziti: those bishop are beasts though
+[15:10:36] nyanners: theres some potential but i dont see it yet
+[15:10:51] JEEprep2374: (22...a4) IMO the bishops are quite bad
+[15:11:07] nyanners: yes
+[15:11:37] nyanners: this position is closed in just the right ways for white
+[15:14:24] JEEprep2374: (23...Bc6) Probably just g3-f4 here
+[15:14:40] nyanners: bxf5 xd
+[15:14:40] nyanners: then d3? eh
+[15:15:10] JEEprep2374: (23...Bc6) White is still winning there probably but why even allow that? :P
+[15:15:25] nyanners: i didnt see it immediately xd
+[15:15:56] nyanners: i would still like to leave the  bait tho
+[15:16:11] nyanners: like Rb1
+[15:16:11] giziti: interesting idea: bxf5, e3+, Bxe3, Bxa1, Rxa1
+[15:18:13] nyanners: this is definitely in white's favour
+[15:18:13] nyanners: the rook trade, that is
+[15:18:28] nyanners: feel id still go with b4 tho
+[15:18:59] JEEprep2374: (26.Re1) Now black has no counterplay whatsoever. still like f4-g3
+[15:19:29] nyanners: umm f4 feels more like a preparation for Rf3 to me
+[15:19:44] nyanners: thats good, of course
+[15:22:47] nyanners: okay white wants an open file..
+[15:24:03] giziti: just push the a pawn. or Bd7 g4 fg fg Bxg4? Rg1
+[15:24:18] nyanners: really the only wrong choice is giving away your pieces for free
+[15:24:49] nyanners: anything thats not bad is good
+[15:25:34] JEEprep2374: (29.Ka3) This just feels like the rook is begging to go to the 7th rank now
+[15:25:50] nyanners: yea id go with 29 Re7 but you can do it on 30
+[15:26:05] nyanners: or not. anything really
+[15:26:20] JEEprep2374: (30.g4) Re7 Bf8 Rd7? Kc6 is something to be minful of there
+[15:27:06] JEEprep2374: (31.fxg4) I dont love this, it feels like white is running out of pawns
+[15:27:06] nyanners: good one. maybe Ka3 is a bit weird
+[15:28:06] nyanners: i think its fine but now white went to a position where you need to be like a tiny bit mindful
+[15:28:37] JEEprep2374: (31.fxg4) So does black, I have ony now realized Bxg4 just hangs a piece XD
+[15:28:37] nyanners: yea thats the Trick :o
+[15:29:07] nyanners: so like, h6 and Be6
+[15:30:23] giziti: Kb3, Bxh7, etc
+[15:30:54] giziti: or a4, tihngs like that
+[15:31:24] JEEprep2374: (31.fxg4) or Re7. its like teasting a monkey with a fruit its never going to get
+[15:31:40] nyanners: Kb3 is a significant improvement
+[15:31:55] nyanners: dang
+[15:31:55] nyanners: okay getting the pawn on h7 does help a lot
+[15:32:10] JEEprep2374: (32.g5) oof
+[15:32:10] giziti: maybe Re5+ first instead of this cute move
+[15:32:10] giziti: oh well
+[15:32:25] nyanners: this seems perfectly best to me
+[15:33:26] giziti: I think Rxe6 actaully works, should be a winning oppo bishop game
+[15:34:12] nyanners: sounds true actually
+[15:34:12] nyanners: but yea push all the pawns first even if you do that eventually
+[15:34:12] giziti: not going to risk it though
+[15:34:27] JEEprep2374: (34.h4) No need to rush tho, Rxe6 is always avilable
+[15:35:28] nyanners: probably the time is on 36
+[15:35:58] nyanners: though h5 does disincentivize Bg3 :p
+[15:36:14] nyanners: like 35..Bg3 Rxe6 is good flow
+[15:36:29] JEEprep2374: (35.h5) is there a universe where black can blockade the pawns and run with their central pawns?
+[15:36:44] JEEprep2374: (35.h5) say with a g6-h5 structure?
+[15:37:14] nyanners: almost every universe i see is still losing for black
+[15:37:30] nyanners: other universes involve, like, hanging Bxc4 for free
+[15:37:30] nyanners: and such
+[15:38:00] nyanners: like yea this one isnt very good
+[15:38:00] JEEprep2374: (35...f5) That clears things up atleast
+[15:38:00] nyanners: gg
+[15:38:00] JEEprep2374: GG
+[15:41:33] giziti: that was fun
+[15:43:35] giziti: Ah yeah Nf3 was bad, I missed Qb6 being so strong
+[15:44:20] giziti: in both cases of Nf3
+[15:44:36] giziti: also yeah c4 instead of c3...
+[15:44:51] nyanners: tbf Nf3 was also the first move i considered
+[15:45:06] nyanners: then a bit after Nb3 looked better. but ideally id play neither
+[15:45:52] nyanners: 16 Qb4+ protecting the knight (!) is very nice
+[15:46:07] nyanners: also hurts black's coordination
+[15:47:08] PhilippBrandenbrett: So did I, so no harm done I guess
+[15:48:39] nyanners: tough game gg
