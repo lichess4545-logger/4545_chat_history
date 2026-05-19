@@ -1,0 +1,143 @@
+Lichess game chat log
+Game      : https://lichess.org/18abDw1y
+White     : scarff
+Black     : chesstricksandtraps
+Time      : 45+45
+Captured  : 2026-05-19 15:38:07 UTC
+Game ended : 2026-05-19 14:18:02 UTC
+Messages  : 133
+────────────────────────────────────────────────────────────
+
+[11:41:31] Scarff: was thinking about Ng5 h6 Nh3 g5. Maybe sac there. But probably Bf4 is better?
+[12:49:31] okady: feels drawish
+[13:13:21] Scarff: starting to get sloppy and tired. Not feeling very optimistic. Even though I think I've been better most of the game
+[13:13:37] Scarff: Also frustrating to take a lot of time, and my opponent takes none, and somehow it doesn't get me anywhere
+[13:30:51] Scarff: finally a crack in blacks position? Exchanging f pawns feels very useful for me
+[13:55:58] nyanners: playing fast is ok as long as you dont blunder
+[13:56:13] Fischer_and_Chips88: didn't black have 64 Nf8
+[13:56:28] nyanners: black is defending the pawn first
+[13:56:28] nyanners: i think
+[13:56:59] Fischer_and_Chips88: probably ends up having to give back a piece for the a pawn anyway, so makes sense
+[13:56:59] nyanners: yea b is trapped after all
+[13:57:14] Fischer_and_Chips88: well there's Bg7
+[13:57:29] nyanners: honestly forgot about that XD
+[13:57:29] nyanners: but yea then both bishops are out..
+[13:57:45] nyanners: dont see how to win here
+[13:57:45] Scarff: silly move to take that pawn!
+[13:58:00] Fischer_and_Chips88: but both black's pieces are keeping both the bishops there
+[13:58:00] Scarff: should have just kept things as they were.... they're doing justice to their name...
+[13:58:45] nyanners: maybe the way was 62 Be4 which threatens Bxg6 in many lines
+[13:59:01] Fischer_and_Chips88: what if white walks the king to f6
+[13:59:01] nyanners: very funny that the bishop is now a hindrance
+[13:59:16] nyanners: can white do that :o
+[13:59:16] nyanners: if you can you should
+[13:59:31] nyanners: i dont think the king passes
+[13:59:31] nyanners: but gotta try, what else
+[14:00:02] nyanners: not like THAT
+[14:00:17] Scarff: ugh, and now blunders from me too. I suck at converting games
+[14:00:32] nyanners: is it still draw? :p
+[14:00:32] Scarff: somehow I always make them last too long!
+[14:00:47] Scarff: might somehow turn out okay, but definitely not planned!
+[14:01:33] nyanners: i think its losing
+[14:01:33] nyanners: but not sure
+[14:03:19] Fischer_and_Chips88: Nxf8 Kf6 Nxh7+ Kxf7 Nxg5+ Kxg6 and I think the black knight will stop the pawn and then win on the other side of the board
+[14:03:35] nyanners: maybe a draw there actually
+[14:03:50] nyanners: black doesnt get to park the knight
+[14:03:50] nyanners: so its k chases n forever
+[14:04:35] Fischer_and_Chips88: after Nxf8 is there Bxg6 first I wonder
+[14:04:51] nyanners: i mean if that draws then white probably shouldnt do that
+[14:05:06] nyanners: but yea i was looking at that first
+[14:05:06] nyanners: i think it goes like Nxg6 Be8
+[14:05:21] nyanners: and black wins(?)
+[14:05:36] Fischer_and_Chips88: oh and there's no Ke7 right
+[14:05:51] nyanners: yeaa
+[14:06:07] Fischer_and_Chips88: another try by white is to force black to do a knight bishop mate and hope they don't know it
+[14:06:22] Fischer_and_Chips88: not easy with the b pawn though
+[14:06:22] nyanners: yea that was my first thought but i dont see how XD
+[14:06:22] nyanners: this seems working tho
+[14:06:37] nyanners: so white chose correctly (probably)
+[14:06:52] Fischer_and_Chips88: yeah I think this is right
+[14:07:08] nyanners: now keep chasing
+[14:07:38] Fischer_and_Chips88: does it matter how white chases
+[14:08:08] nyanners: not totally sure
+[14:08:39] Fischer_and_Chips88: wait so white plays Kf6 then Nf6 then Kf7 and then what
+[14:08:39] Fischer_and_Chips88: Nf8 I mean
+[14:09:09] nyanners: nf8 kf7 nh7 kg7 ng5 is some theory-looking thing
+[14:09:25] nyanners: or you could go kg7 for.. more of the same
+[14:09:55] Fischer_and_Chips88: Kf7 Nh7 Kg7 Ng5 Kg6 Ne6 repeats
+[14:09:55] nyanners: yea basically
+[14:11:11] Fischer_and_Chips88: Kg6 though
+[14:11:11] nyanners: nf8
+[14:11:11] Fischer_and_Chips88: Kg7
+[14:11:26] Fischer_and_Chips88: Ne6+
+[14:11:26] Fischer_and_Chips88: ok
+[14:11:57] nyanners: yea knight's circuit works
+[14:12:12] nyanners: h7 f8 e6 g5
+[14:12:27] nyanners: thats Theory
+[14:12:58] nyanners: the funny here was whether black could force take the pawn to win but yeah no
+[14:13:43] nyanners: Kd6 funny. i like it
+[14:13:59] Fischer_and_Chips88: yeah nice trick
+[14:14:14] Fischer_and_Chips88: just Kf6 I assume
+[14:14:14] nyanners: yea
+[14:16:16] Fischer_and_Chips88: does Kg7 lose to Ke7
+[14:16:31] Fischer_and_Chips88: crazy if it does
+[14:17:01] nyanners: good q :D
+[14:17:01] nyanners: on the other hand the black king is getting away from the action
+[14:17:32] nyanners: and it has to wait until white actually pushes h7
+[14:17:47] nyanners: umm
+[14:17:47] Fischer_and_Chips88: wait up does white get in zugzwang
+[14:17:47] Fischer_and_Chips88: omg
+[14:18:02] Fischer_and_Chips88: no just repeat Kh7 h8
+[14:18:02] Fischer_and_Chips88: ok that was funny
+[14:18:02] nyanners: yea its fine XD
+[14:18:02] nyanners: gg
+[14:18:17] nyanners: did not see that turnabout coming tho
+[14:18:48] Fischer_and_Chips88: Black really did live up to their name with all the tricks
+[14:18:48] Scarff: Ugh. What a frustrating game at times! Really feels like I should have won at multiple times
+[14:18:48] nyanners: good one both
+[14:18:48] Scarff: But somehow I kept allowing you to show all the tricks and traps! :D
+[14:19:18] Scarff: Feels like so many games of me this season have gone this way, winning, but never actually won
+[14:19:33] nyanners: dont think this was ever super clear tbh
+[14:19:33] Scarff: GG tricks and traps! Was a good game! You were very resourceful
+[14:19:49] nyanners: like yea the opening is clearly better for white but it doesnt seem to be as crushing as it looks
+[14:20:04] nyanners: black's c5 is very adequate
+[14:20:19] Scarff: I felt like at some point I should have had a winning kingside attack, but could never find it
+[14:20:34] nyanners: on that sense id argue c3 might be actually counterproductive
+[14:20:34] Scarff: And that endgame with the space felt so strong, thought it had to be winning too
+[14:21:20] chesstricksandtraps: I enjoyed the game, this game really improved my confidence to play minor piece endgames, Thanks @Scarff, well played!
+[14:21:20] Scarff: Oh man.... 54.Bxg6! Not even that difficult either
+[14:21:20] nyanners: like in general i just wanna meet c5 with dxc5
+[14:21:50] Scarff: Thanks Tricks and Traps! This was a fun game! In every stage it was a good battle :)
+[14:22:36] nyanners: h6 is very committal but it does enable Bxg6 :p
+[14:22:51] nyanners: if you keep the option of taking the h-file there might still be attacking chances
+[14:23:21] nyanners: like f3 and slide Rh1 Qh2
+[14:23:52] nyanners: not saying its good, just about options
+[14:23:52] Scarff: True. I felt like h6 would be winning long term with blacks kingside so cramped
+[14:24:22] Scarff: So just went for that because I already committed to it in my mind, didn't want to doubt too much
+[14:24:53] nyanners: with the time situation i cant blame it too much but yea i would eval it as rather balanced
+[14:25:08] nyanners: +0.6 is more than id expect XD
+[14:26:24] nyanners: the problem in the endgame is that you have no pawn breaks so you'll have to do some f5 Bxg6 stuff
+[14:26:39] Scarff: I guess I should have been more aware that h6 would need a Bxg6 sac! Have to look a bit further ahead like that :D
+[14:26:54] Scarff: Yeah. I obviously didn't think about that all. But it just seemed strong to me
+[14:27:25] Scarff: And then the rest I figure out later, I hope. But later also means even less time to think
+[14:27:40] nyanners: nah thats fair
+[14:27:40] nyanners: its the kinda thing you learn in analysis, not figure out during the game
+[14:28:25] Scarff: I am suprised that SF gives it such an equal eval. Bishop pair and space felt better to me. But I did eventually realise I got a bit stuck
+[14:28:41] nyanners: the principle of i go here they go there beats all the other principles
+[14:29:11] nyanners: but in principle-land id say that the matter is that the lack of pawn breaks makes your advantages worthless
+[14:29:11] Scarff: It does!
+[14:29:11] nyanners: then black slips by allowing Bb5-Be8 and it matters again :o
+[14:29:26] nyanners: because now something can happen with the pawns
+[14:29:26] Scarff: Yeah, I realised that later too. Either you have to get the king in, or pawn breaks
+[14:29:41] Scarff: Otherwise you shuffle back and forth and nothing changes
+[14:30:12] nyanners: that said, a line like 53 Bxf7 Nxf4 is risky for both
+[14:30:27] nyanners: but black is risking more because your pawns are so much closer
+[14:30:57] nyanners: well.. that in abstractland :D very concrete position
+[14:30:57] nyanners: like maybe white loses the bishop in some universes idk
+[14:32:44] Scarff: That was what I expected, and felt like it gave me chances to push finally
+[14:32:44] nyanners: and maybe it doesnt matter! like in the game
+[14:33:14] nyanners: so we could say in the end the space WAS worth something :D
+[14:33:29] Scarff: It was! But only for a very short moment, easy to let that pass by
+[14:34:00] Scarff: Thanks for spectating and commenting btw :)
+[14:34:15] nyanners: gg :D
+[14:34:15] Scarff: Thanks :D
