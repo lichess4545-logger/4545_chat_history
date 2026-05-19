@@ -1,0 +1,70 @@
+Lichess game chat log
+Game      : https://lichess.org/dvYTHizF
+White     : franconianchess
+Black     : spacebaristaken
+Time      : 45+45
+Captured  : 2026-05-19 22:48:02 UTC
+Game ended : 2026-05-19 21:27:58 UTC
+Messages  : 60
+────────────────────────────────────────────────────────────
+
+[19:57:40] UpGoerFive: Go Spacebar!
+[20:01:28] Pineapplechiffoncake: Go Heinz! Go Spacebar!
+[20:01:59] ssyx: GL Franconian!!
+[20:05:01] SpacebarIsTaken: i was expecting the fiancetto early on from white so all my plans are out the window
+[20:05:01] SpacebarIsTaken: i have like 0 experience playing against the English opening.
+[20:07:03] bncl: Go spacebar!
+[20:07:48] SpacebarIsTaken: queen blocks knight blocks or c6?
+[20:10:21] SpacebarIsTaken: heading for c5 if allowed
+[20:10:36] Duty5521: am I crazy for considering Nxe5 as the first move that came to mind
+[20:17:27] SpacebarIsTaken: this position looks absolutely fantastic for black but I have no idea what to do
+[20:19:44] SpacebarIsTaken: some thoughts: would like to play Ng6, but that runs into g4, trapping the bishop. I  am worried about white's knight heading to b3. ...
+[20:19:44] SpacebarIsTaken: ...If that's played I don't know if I should take the bishop or retreat the knight. Rb8, good prophylatic move in event of Rb1. Bg6, ...
+[20:19:44] SpacebarIsTaken: ...prepping Bh7, Ng6 possibly too many moves. b6, prepping for Nb3, completely clamping down on the d4 square, but that square is ...
+[20:19:44] SpacebarIsTaken: ...controlled by a pawn that's probably not going to be moving for a while.
+[20:20:29] SpacebarIsTaken: perhaps Nxd3, f5?
+[20:21:15] SpacebarIsTaken: if knight takes immediately then white's knight is stuck in the way of the DSB.
+[20:21:30] SpacebarIsTaken: the LSB sucks is my problem, why take it?
+[20:22:31] matthewhuber: go spacebar!
+[20:23:02] SpacebarIsTaken: technically Ng6, g4 does trap the bishop, but after Nf4 the LSB is hit twice and only defended once. Then I can move the bishop to ...
+[20:23:02] SpacebarIsTaken: ...safety and I have induced weaknesses on the king side.
+[20:24:02] Duty5521: worst part is that you can't even take that bishop on h5 or there's Qg5+
+[20:24:33] SpacebarIsTaken: I don't think Ng6 works after Nb3
+[20:25:34] Duty5521: this works?
+[20:25:49] Duty5521: exf5 Nxf5 g4 and what
+[20:25:49] cowtone: Go spacebar
+[20:27:05] Duty5521: or Rxf5? and g4 Rg5?
+[20:27:20] Duty5521: ah but ther's Nf3
+[20:27:51] Duty5521: f4 looks weird
+[20:31:09] SpacebarIsTaken: did not even consider f4 after f5. Well technically I didn't consider anything but still
+[20:31:39] Duty5521: well exf5 looked winning for white
+[20:32:09] Duty5521: because idk how you were getting that pawn back
+[20:37:59] SpacebarIsTaken: rook takes rook takes queen takes? This end game has got to be better for me with white's pawn structure right? Alternatively, knight ...
+[20:37:59] SpacebarIsTaken: ...takes centralizes the knight and pretty sure it runs into a fork via g4
+[20:38:45] SpacebarIsTaken: you know what, everything runs into a fork doesn't it
+[20:41:02] SpacebarIsTaken: my god runs right into Ne5 doesn't it I'm terrible today ig
+[20:43:04] SpacebarIsTaken: where did it all go wrong lol
+[20:44:35] Duty5521: uuuh f5 ig
+[20:51:41] SpacebarIsTaken: what do you even do in this position. How does one deal with f6? bishop is coming to e4, would play h6 but it gives the knight the g5 ...
+[20:51:41] SpacebarIsTaken: ...square
+[20:51:41] Duty5521: idk
+[20:52:42] bncl: is it crazy to try taking on f5 with the knight? Removing some cover from the white king being the idea
+[20:53:28] bncl: Then down more material but maybe with some attacking chances
+[21:08:56] SpacebarIsTaken: I think Kh1 was my best move of the game, I don't know if it was actually good, but  rerouting the knight was the best move I could ...
+[21:08:56] SpacebarIsTaken: ...come up with
+[21:18:04] SpacebarIsTaken: the most annoying part of this is that if we trade both rooks and both knights I'm going to still have to deal with his 2 rooks, ...
+[21:18:04] SpacebarIsTaken: ...queen, and my king is completely exposed.
+[21:18:34] SpacebarIsTaken: i wonder if my opponent is calculating something crazy. My plan is very simple, force as many trades as I can and try not to get ...
+[21:18:34] SpacebarIsTaken: ...checkmated.
+[21:23:09] Duty5521: well this turned around
+[21:23:54] Duty5521: oops
+[21:24:10] Duty5521: 33... Qd4+ forced a queen trade for the win!
+[21:24:40] Duty5521: well this is better
+[21:27:58] bncl: gg!
+[21:27:58] GoldenRetrieverChess: gg
+[21:28:13] Duty5521: wild
+[21:28:13] Duty5521: gg
+[21:28:13] cowtone: Gg
+[21:29:29] Duty5521: oh wait i was thinking 33... Qg3+ Kh1 Rf2 Qe5 trades the queen i forgot the pawn lol
+[21:30:30] Duty5521: now what is that line with Nxf5?????
+[21:31:31] SpacebarIsTaken: Unbeliveable, f5 was the engine best move. Was going great until I didn't play Nxf5! I was just so worried about the fork
