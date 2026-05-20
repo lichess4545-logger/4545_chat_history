@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/8M0idLvQ
+White     : michielvdg
+Black     : mward128
+Time      : 30+30
+Captured  : 2026-05-20 19:43:50 UTC
+Game ended : 2026-05-20 18:23:45 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[18:02:26] HyruleanTubist: go mward
+[18:05:59] HyruleanTubist: 7... e5 is this pawn sac theory?
+[18:06:30] HyruleanTubist: 7... e5 8. dxe5 Qxd1 9. Kxd1 Ng4 threatening the fork and picking the pawn back up?
+[18:07:31] mward128: this is all engine stuff. Hopefully spectators see this and not my opponent. trying that  slash-w thing.
+[18:08:31] HyruleanTubist: 8... Qa5 nice he's got the prep
+[18:11:49] HyruleanTubist: 10. Be2 looks like mward's out of prep
+[18:14:06] mward128: not engine stuff anymore with Be2.
+[18:20:27] HyruleanTubist: 14. Bf4 wait is this already gg
+[18:20:27] HyruleanTubist: yes, Qxc6 is mate
+[18:21:43] mward128: ok, I definitely didn't see that coming.
+[18:24:15] michielvdg: I didn't really have time to prepare deeply so I figured I'd play a sideline I heard about once or twice
+[18:24:45] michielvdg: I wasn't really aware of the pawn sac possibility though, anything after move 7 I was out of book
+[18:25:16] HyruleanTubist: 14... Rh4 only move is tough to find
+[18:25:16] mward128: You definitely surprised me with the queen sac.
+[18:25:31] michielvdg: It's a somewhat known pattern in tactics so when I saw the option I just had to set it up :)
+[18:25:46] michielvdg: I didn't see Rh4, that's a cool move
+[18:26:01] michielvdg: I thought after Qe6 Rfe1 there would be some trouble though
+[18:26:01] HyruleanTubist: Yeah I was still trying to figure it out when Qe7 was played
+[18:26:17] HyruleanTubist: I think b5 or Nb6 were my candidate moves
+[18:26:47] michielvdg: b5 Qa6 picks up the queen, Nb6 looks like Black is in big trouble after Qxa7 too but probably no immediate mate
+[18:28:03] michielvdg: My idea with Be2 was that either Black goes kingside and I take on g6, or he goes queenside and I start attacking quickly with Qa4
+[18:30:05] michielvdg: Thanks for the game, good luck in the next few rounds! :)
