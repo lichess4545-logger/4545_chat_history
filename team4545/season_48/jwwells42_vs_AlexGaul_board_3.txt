@@ -1,0 +1,56 @@
+Lichess game chat log
+Game      : https://lichess.org/PXayZtC5
+White     : jwwells42
+Black     : alexgaul
+Time      : 45+45
+Captured  : 2026-05-20 21:08:06 UTC
+Game ended : 2026-05-20 19:47:58 UTC
+Messages  : 46
+────────────────────────────────────────────────────────────
+
+[18:44:16] jwwells42: ok spent a lot of time and hallucinated
+[18:44:47] jwwells42: somehow believed that e6 stopped Rxc1
+[18:47:49] jwwells42: the whole point of Qb3 is Na5 Qa4+ and sacrifice on b5 since Rxc1 isnt possible
+[18:48:05] jwwells42: still have such a hard time recovering in these moments
+[19:06:36] jwwells42: didn't notice the knight could take first
+[19:34:31] jwwells42: Qh3-f1
+[19:38:34] TimothyHa: (30) Qh3 Nxf7
+[19:38:50] TimothyHa: (30) ah, Q controls f5
+[19:47:42] TimothyHa: (39) well played!
+[19:49:29] jwwells42: never really recovered mentally
+[19:49:44] AlexGaul: the Qb3 line is not very good I think
+[19:49:59] jwwells42: the Qb3 line is quite good
+[19:49:59] jwwells42: blundering Qb3 when it hangs a rook is less good
+[19:49:59] AlexGaul: What do you mean?=
+[19:50:30] jwwells42: Qb3 Na5 Qa4 b5 N/Bxb5 is a common theme
+[19:50:30] AlexGaul: But not in this position
+[19:50:30] jwwells42: yes obviously
+[19:50:45] AlexGaul: Thats what I mean with the line is not good there
+[19:51:00] jwwells42: as explained above when I played Be2 it was because I saw that Qb3 Na5 Qa4 b5 Nxb5 allows Rxc1
+[19:51:00] jwwells42: and I thought somehow that Be2 e6 disallowed Rc1
+[19:51:00] jwwells42: was just a hallucination
+[19:51:15] AlexGaul: ah I see
+[19:51:15] jwwells42: ah yes usually when people refer to a line they mean a real line, not something someone blundered
+[19:51:31] jwwells42: this one is not good indeed
+[19:51:31] AlexGaul: I had an otb in the same line recently, so I thought its just something people play
+[19:51:46] jwwells42: it is but specifically when Na5 b5 is bad due to the sac
+[19:52:01] AlexGaul: ya
+[19:52:01] AlexGaul: If I dont play Rc8 its good
+[19:52:16] jwwells42: just not at the level where I can calc two ply
+[19:52:31] jwwells42: Rc8 white should still have some pull
+[19:52:47] jwwells42: standard 0-0 and Na4 plan
+[19:53:17] AlexGaul: yeah ofc
+[19:53:17] jwwells42: but knowing that doesnt help when white can't see Rxc1
+[19:53:32] AlexGaul: its interesting that Qe6 didnt work
+[19:53:48] jwwells42: yeah i believed you fully, i guess the rook gets active and we start to climb into a draw margin
+[19:54:03] AlexGaul: ya I believed myself too
+[19:54:48] AlexGaul: I also didnt believe in Bxe5 earlier like stockfish suggests
+[19:55:04] AlexGaul: that feels very holdable for White somehow
+[19:55:34] jwwells42: that was my faint hope
+[19:55:34] jwwells42: but i see it was quite faint lol
+[19:57:21] AlexGaul: As white I would have been happy
+[19:57:21] AlexGaul: Computer says its dead lost lol
+[20:03:56] jwwells42: will have to analyze those endgames, like I actively rejected Qc6 also
+[20:04:11] jwwells42: will go sulk a bit first however xD
+[20:04:11] jwwells42: thanks for the game, gg & gl
+[20:04:27] AlexGaul: Thanks too, until next time!
