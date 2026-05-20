@@ -1,0 +1,86 @@
+Lichess game chat log
+Game      : https://lichess.org/yNoIovrd
+White     : timothyha
+Black     : shampanjasosialisti
+Time      : 45+45
+Captured  : 2026-05-20 08:52:42 UTC
+Game ended : 2026-05-20 07:32:32 UTC
+Messages  : 76
+────────────────────────────────────────────────────────────
+
+[06:02:58] Inter-temporal: go TimothyHa!
+[06:05:30] Shampanjasosialisti: I've never really played these revers Sicilians against c4 but wanted to try
+[06:07:01] robertjackson: Good luck Tim
+[06:07:01] Shampanjasosialisti: hmm where do the pieces belong. Be7 and Be6 to castle short makes sense and looks Siciilian Reversed
+[06:08:17] Shampanjasosialisti: or should have I thought a bit longer of possibility to castle long as if we're playing Revers Dragon
+[06:08:48] Shampanjasosialisti: Be7 also slow move so maybe it more sense to have more position approach with Be7 and 0-0
+[06:17:40] TimothyHa: (8) looks like a reversed Sicilian if Na6
+[06:20:43] Shampanjasosialisti: I wasn't sure about dropping b7 Pawn so this keeps it. (9. Be6 Qxb7 Qd6 Qb5) and I didn't know how to evaluate but I guess I would ...
+[06:20:43] Shampanjasosialisti: ...have had ennough compensation but guess this is ore of safe approach
+[06:34:55] TimothyHa: (16) hard to judge whose bishops are better...
+[06:35:10] TimothyHa: (16) so far it's been calm, but this is VERY open
+[06:36:11] TimothyHa: (17) maybe I need to swap one pair of bishops
+[06:37:12] robertjackson: Safe play and development are strong features here
+[06:41:15] MrScribbles: (18...Rfd8) Does that username mean "champagne socialist"?
+[06:42:16] MrScribbles: (19.b4) Huh, "shampanja is the Albanian word for champagne"
+[06:42:47] MrScribbles: (19.b4) and if "sosialisti" doesn't mean "socialist" I'll move to the hills of albania and never speak again
+[06:42:47] TimothyHa: (19) I've got a plan now
+[06:42:47] TimothyHa: (19) which helps...
+[06:43:02] MrScribbles: (19.b4) hi jobertrackson
+[06:44:18] robertjackson: I like that username!
+[06:44:33] robertjackson: Hi MrScribbles
+[06:47:21] TimothyHa: (20) it's surprising how suddenly c6 is a target
+[06:47:36] TimothyHa: (20) looks defendable though
+[06:54:42] robertjackson: MrScribles info: In Finland, samppanjasosialisti ("champagne socialist") is a derogatory political term used to criticize left-wing or socia
+[07:01:03] MrScribbles: (24.Bxb7) thanks for the info robert, interesting
+[07:01:18] MrScribbles: (24.Bxb7) does that mean that shampanjasosialisti is left wing, or right wing?
+[07:01:33] MrScribbles: (24.Bxb7) I'm guessing left wing
+[07:02:04] MrScribbles: (24...b4) that's a great term to re-appropriate, I should start calling myself a champagne socialist
+[07:12:29] TimothyHa: (29) looks bad now
+[07:12:44] TimothyHa: (29) but have to learn these type of positions anyway
+[07:26:42] TimothyHa: (32) somewhere my Rd1 was too slow I guess
+[07:26:57] TimothyHa: (32) should have at least swapped pawns on c and the endgame would be different
+[07:32:17] TimothyHa: (37) Kh2
+[07:32:32] TimothyHa: (37) not g2...
+[07:32:32] TimothyHa: (37) I didn't look at Qd5+
+[07:32:48] Shampanjasosialisti: good game
+[07:33:03] MrScribbles: gg
+[07:33:18] TimothyHa: my play on queenside was too slow
+[07:34:04] Shampanjasosialisti: Yeah, maybe you needed to get that minority attack rolling quicker
+[07:34:04] TimothyHa: 8. Qb3 not in Master DB, interesting
+[07:34:04] TimothyHa: yeah
+[07:34:04] Shampanjasosialisti: Kh8 also to prepare f5 so that would've been interesting
+[07:34:19] TimothyHa: that I could grasp, thus d4
+[07:34:19] Shampanjasosialisti: https://lichess.org/OHRvIoZD/black#21 Peter Leko game
+[07:34:19] Shampanjasosialisti: like this
+[07:34:34] Shampanjasosialisti: I guess you could've allowed f5
+[07:34:34] TimothyHa: after Kh8 I had to play d4 as far as I could understand
+[07:34:50] TimothyHa: I didn't like playing against f5
+[07:35:05] Shampanjasosialisti: it makes sense
+[07:35:20] Shampanjasosialisti: I'm forced to make all the trades
+[07:35:35] TimothyHa: true, Bd2 with e4 makes sense
+[07:35:50] TimothyHa: will know for next time
+[07:35:50] Shampanjasosialisti: AFter 19. b4 I think you might have preferable position though
+[07:36:06] TimothyHa: are you active OTB?  Since you're playing this weekend, I guess you are :-)
+[07:36:06] Shampanjasosialisti: Yeah
+[07:36:21] Shampanjasosialisti: I have 150 ish OTB classical games
+[07:36:21] TimothyHa: I also play a bit too much
+[07:36:36] Shampanjasosialisti: I would like to play more
+[07:36:36] Shampanjasosialisti: But not a lot of tournametns in Finland
+[07:36:52] TimothyHa: why are we goint to work! :-)
+[07:36:52] TimothyHa: I want OTB chess to be my job
+[07:37:07] Shampanjasosialisti: That would be cool but but quite hard to achieve
+[07:37:07] TimothyHa: our club tries to make a lot of OTB
+[07:37:07] Shampanjasosialisti: I'm teaching chess for kids
+[07:37:22] TimothyHa: but I have to play against kids and my rating suffers
+[07:37:22] Shampanjasosialisti: so that makes me some side money while studying
+[07:37:22] TimothyHa: yeah, that's good
+[07:37:37] TimothyHa: thank you for the game, probably time for you to leave now
+[07:37:37] Shampanjasosialisti: I had a bit of a slump but I gained 190 elo this year
+[07:37:52] TimothyHa: have a good day
+[07:38:08] Shampanjasosialisti: Thanks! Good night? I guess?
+[07:38:08] TimothyHa: yeah, evening
+[07:38:23] TimothyHa: bye, will see you around in the Leagues
+[07:38:23] Shampanjasosialisti: ciao gl for the future games!
+[07:38:38] Shampanjasosialisti: Till next game
+[07:38:38] TimothyHa: thanks
