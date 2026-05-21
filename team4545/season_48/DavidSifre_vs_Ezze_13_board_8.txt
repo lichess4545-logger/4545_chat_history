@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/x2vTtYmW
+White     : davidsifre
+Black     : ezze_13
+Time      : 45+45
+Captured  : 2026-05-21 15:26:24 UTC
+Game ended : 2026-05-21 14:06:19 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[12:11:07] simonWasHere: I am here before either player so I win the game
+[12:16:27] DavidSifre: (1.d4) Greetings Simon and Gingersquirrelnuts, as well as to enemy combatgant #2
+[12:16:42] simonWasHere: Hi guys :)
+[12:16:42] Gingersquirrelnuts: We  have a game
+[12:36:14] DavidSifre: (11.Be2) c4 might have trapped the bishop
+[12:36:29] DavidSifre: (11.Be2) still a good move for shutting down my development
+[12:39:33] DavidSifre: (11...cxd4) Taking with the queen develops the queen to a royal fork
+[12:39:33] DavidSifre: (11...cxd4) that WOULD be exciting.
+[12:41:50] DavidSifre: (11...cxd4) A family fork would have been better for the excitement... now I have to kick that knight
+[12:42:05] DavidSifre: (12.exd4) assuming he does not give me something more exciting to do.
+[12:49:11] simonWasHere: Does 13...Qxd4 work for black?
+[12:50:12] simonWasHere: apparently he thinks so
+[12:50:27] simonWasHere: I was thinking probably yes as well
+[12:50:42] DavidSifre: (13...Qxd4) the fork is in play anyway. He is up a pawn but I don't wan to give him an exchange too.
+[12:51:28] DavidSifre: (13...Qxd4) hmm, my bishop and knight are not looking too good at the moment
+[13:02:53] fireball100: Go David!
+[13:06:41] simonWasHere: David has the advantage of the two Knights
+[13:07:12] DavidSifre: (16.Qd2) He is castled, he has central pawns and he can battery my h1 pawn
+[13:07:27] DavidSifre: (16.Qd2) But, I have HIGH hopes.
+[13:08:13] DavidSifre: (16.Qd2) My h pawn is going to break through the king's defenses and save the day.
+[13:15:49] DavidSifre: (18.bxc5) Na4 threatens some nice forking material...
+[13:15:49] simonWasHere: might want to castle at some point
+[13:16:20] DavidSifre: (18.bxc5) but the bishop will take it. :(
+[13:16:50] DavidSifre: (18...Rc8) trading down and going to be down two pawns
+[13:17:21] DavidSifre: (19.Na4) not the best situation but  it is what it is.
+[13:24:42] DavidSifre: (22...Ne4) Queen goes up one or down 1
+[13:25:28] DavidSifre: (22...Ne4) up and Rc3 forks queen and  pawn.
+[13:25:58] DavidSifre: (22...Ne4) down and  his rook comes to c3
+[13:26:13] simonWasHere: down and Nc3 fork
+[13:26:29] DavidSifre: (22...Ne4) but anywhere else and he gets the pawn
+[13:29:16] DavidSifre: (22...Ne4) stockfish probablyu says to exchange the rook for my queen but I can't go on probabilities here.
+[13:29:46] fireball100: Qc1 could be ok
+[13:30:02] DavidSifre: (22...Ne4) Queen down forks the queen and the rook
+[13:30:17] simonWasHere: Qc1 Nc3 looks difficult
+[13:30:17] fireball100: Q for R doesn't look good
+[13:30:32] DavidSifre: (22...Ne4) so maybe its not such a bad idea
+[13:31:02] DavidSifre: (22...Ne4) could also Qd4, lose the rook, exchange queens and then move the bishop out of the way
+[13:33:19] DavidSifre: (23.Qd4) did not really consider what happens after e5 though
+[13:33:50] DavidSifre: (23.Qd4) I guess I just take on d5
+[13:34:20] DavidSifre: (23.Qd4) supposed to think of that before I move. I'm a work in progress.
+[13:34:35] DavidSifre: (23.Qd4) going to be down 3 pawns
+[13:34:51] DavidSifre: (23.Qd4) this is uncomfortable but not without hope
+[13:36:07] DavidSifre: (23.Qd4) he really has to just take the pawn as there is nothing better to do with the rook.
+[13:37:23] DavidSifre: (23.Qd4) no choice but to recapture. Time wasted but he is way ahead...
+[13:37:53] DavidSifre: (24.Qxa7) like if you don't take you are mated
+[13:47:02] DavidSifre: (24.Qxa7) This is probably an easy win for you spectators but I am sure there is room for error
+[14:04:32] DavidSifre: (63.Ke4) sigh
+[14:04:47] simonWasHere: You can still win!
+[14:05:02] simonWasHere: Hack lichess
+[14:06:03] simonWasHere: gg
+[14:06:18] tomb85: Gg
+[14:06:18] GoldenRetrieverChess: gg
+[14:06:18] fireball100: gg
+[14:06:18] mongreltiger: gg
+[14:06:49] DavidSifre: I tried opening multiple tabs to crash the system, but it was to no avail
+[14:08:51] mongreltiger: In situations like this I'm always hoping for a power failure
+[14:09:06] Ezze_13: oh wow computer thinks i was pretty accurate
+[14:13:55] DavidSifre: I should havea castled before kicking that knight.
+[14:13:55] DavidSifre: lesson learned
+[14:13:55] DavidSifre: again
+[14:14:40] Ezze_13: yeah I was like "hmm STILL not castled?"
+[14:15:26] Ezze_13: and at the end castling probably wasnt even that important, we just threatened each other with backranks because of that :D
