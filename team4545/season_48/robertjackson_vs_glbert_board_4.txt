@@ -1,0 +1,95 @@
+Lichess game chat log
+Game      : https://lichess.org/rqtzjIxL
+White     : robertjackson
+Black     : glbert
+Time      : 45+45
+Captured  : 2026-05-21 21:31:37 UTC
+Game ended : 2026-05-21 20:11:31 UTC
+Messages  : 85
+────────────────────────────────────────────────────────────
+
+[18:31:17] chraki: let's go glbertttttttttttttttt
+[18:31:32] glbert: and a special hello to my good friend chraki.
+[18:36:06] chraki: hehehe
+[18:40:55] robertjackson: slow down (8) 46.57
+[18:54:53] jfiras: Good luck Robert !
+[18:57:10] glbert: not sure my opponent notices, but he's greeting people in player chat.
+[18:57:25] glbert: mentioning it so everyone knows that he said hello to everyone.
+[18:58:11] cham: hi robertjackson :D
+[18:58:41] TimothyHa: (10) hi @cham :)
+[18:58:56] cham: hi @timothyha!
+[18:58:56] TimothyHa: (10) and @chraki
+[19:02:29] chraki: hi!
+[19:09:52] TimothyHa: (13) the bishops are so ready
+[19:20:00] cham: i kinda like robert's position i think
+[19:23:03] TimothyHa: (16) needs a rook to finish the attack
+[19:23:34] TimothyHa: (16) Bg5 then Ng5 if allowed, then f4 and lift rooks, I think
+[19:23:49] TimothyHa: (16) Black's defence is probably Bf8 and h6
+[19:28:53] nyanners: the position definitely does look better for white with a bishop up
+[19:29:39] nyanners: this is a cool version of the cambridge springs business
+[19:30:55] nyanners: https://lichess.org/NmNTl1Eq#15 for reference
+[19:31:25] nyanners: that bishop on g4 can become loose in quite many lines
+[19:32:11] nyanners: the c3-colle IS just the semi-slav with white yknow
+[19:44:37] TimothyHa: (19) Qc7 is so slow, Ng5 cracks things open now
+[19:44:37] nyanners: Rg7 i guess? not very aesthetic
+[19:45:23] nyanners: thats usually the kinda thing you subject yourself to when youre a piece *up*
+[19:45:23] TimothyHa: (19) :)
+[19:52:14] JohnJPershing: Lets go glbert!
+[19:52:30] JohnJPershing: Just got back from a break after my game
+[19:53:46] nyanners: Re8 not very inspiring unfortunately
+[19:54:01] nyanners: not that there were any particularly inspiring moves
+[19:57:49] JohnJPershing: That happens in chess. Sometimes you just have to pick your poison
+[19:59:06] nyanners: i think Bg7 is a good start but im not seeing how Re8 fits in
+[19:59:21] nyanners: also enables Nf8 if needed and at least defensively its ok..
+[20:02:08] TimothyHa: (22) now I see why Re8 is bad
+[20:02:23] TimothyHa: (22) the knight is busy and can't go to f8
+[20:02:23] nyanners: yea this is kinda insult to injury that Re8 enables this
+[20:02:39] nyanners: thats a good find
+[20:03:09] TimothyHa: (24) so Bf6 should be enough now?
+[20:03:09] nyanners: might be
+[20:03:09] nyanners: things come in FAST
+[20:03:09] TimothyHa: (24) h5 last try
+[20:03:24] TimothyHa: (24) or h6
+[20:04:40] nyanners: dont see a way to get in h6
+[20:04:56] nyanners: that is indeed concerning
+[20:05:11] robertjackson: such a lot of tension - hope I can make it count
+[20:05:11] nyanners: i just noticed the funny option 24..h5 Qf4 with the same principle :o
+[20:05:57] nyanners: 25 Qf4 Kh7 Ng5+ Kh8 Nxf7+ Qxf7 Qh6# ayy
+[20:06:42] nyanners: g4 is the normal move
+[20:06:42] nyanners: also seems very sufficient
+[20:07:13] nyanners: now well, black gets gxh5 with check
+[20:07:28] nyanners: does it mean anything? probably not
+[20:07:43] nyanners: time for Rg6 Kg8 perhaps
+[20:08:14] nyanners: but Ng5 remains strong
+[20:09:30] TimothyHa: (27) oooh, Re5 is nice
+[20:10:00] nyanners: yea my reflex was to take like the basic individual i am
+[20:10:15] nyanners: but preventing Qd5 does help a lot
+[20:10:15] nyanners: also threatens mate..
+[20:11:01] TimothyHa: (27) all forcing now
+[20:11:16] nyanners: suppose black semi-bluffed because yea what else
+[20:11:16] nyanners: might as well play into it
+[20:11:16] jfiras: nice
+[20:11:16] nyanners: gg
+[20:11:16] jfiras: gg !
+[20:11:16] cham: gg
+[20:11:31] ExirK: (29) that was a nasty tactic to win the piece, and it's easy to miss
+[20:11:47] nyanners: we have to mention 28 Qxh5 was the same thing
+[20:12:02] nyanners: for those who care about such things
+[20:12:32] TimothyHa: (29) great finish
+[20:12:32] TimothyHa: (29) but Qxh5 yeah, more Capablanca like
+[20:12:32] nyanners: i also take with the rook. i dont care
+[20:13:03] TimothyHa: (29) Capablanca had a game winning in that tunnel
+[20:13:48] nyanners: like i mean, its generally accepted that giving the piece with greater material value has better aesthetic value
+[20:13:48] nyanners: i feel its the contrarian in me
+[20:14:03] nyanners: i kinda *want* to take with the lower value piece
+[20:17:36] glbert: yeah, can't really say anything about that. missing tactics is simply not ideal.
+[20:18:07] nyanners: 11 e5 is kinda illuminati stuff. love to see it
+[20:18:37] nyanners: but yea id call Qb6 kinda pointless
+[20:19:08] nyanners: though this is tricky for black to play in general
+[20:19:53] nyanners: arguably one just goes 7..cxd4 and has less worries
+[20:19:53] nyanners: Nbd2 is a decent trigger
+[20:20:24] nyanners: some cursed caro-kann transposition
+[20:22:40] glbert: should have just gone 9...Bd6 and castled. but for that to happen i would have to see that 10.Bb5 does not work.
+[20:23:11] nyanners: Bd6 is interesting in that it covers e5
+[20:23:41] nyanners: move 8 seems to be a poor timing for cxd4 because white got the extra option as played
+[20:43:27] glbert: alright. thanks for the game again, and good luck for the last round!
