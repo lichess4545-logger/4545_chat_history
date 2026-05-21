@@ -1,0 +1,275 @@
+Lichess game chat log
+Game      : https://lichess.org/WnTU7Zoq
+White     : lexgrad
+Black     : fulmarsky
+Time      : 45+45
+Captured  : 2026-05-21 22:23:48 UTC
+Game ended : 2026-05-21 21:03:44 UTC
+Messages  : 265
+────────────────────────────────────────────────────────────
+
+[18:59:16] fulmarsky: (2...Bc5) no prep
+[18:59:31] fulmarsky: (2...Bc5) i've not prepped i expected the london... so.. it's time for, just see what happens on those 64 squares
+[19:01:02] Leverkuhn: epic clash here between two league stalwarts!
+[19:01:17] fulmarsky: (3...d6) ok i missed Qa4+
+[19:01:33] fulmarsky: (3...d6) is that going to be a problem i ponder...
+[19:01:48] Leverkuhn: Would have been hard to anticipate the English; Lexgrad does indeed usually play 1.d4
+[19:02:03] Leverkuhn: 4.Qa4+ didn't look at all dangerous; Black has many excellent blocks
+[19:03:34] Leverkuhn: in this setup White has the option of playing e3, Nge2, and eventually d4;
+[19:04:05] Leverkuhn: or alternatively d3, Nf3, 0-0, and eventually queenside expansion with a3, b4, etc.
+[19:04:51] fulmarsky: (4...a6) i have have a hunch why white is taking time on this move
+[19:04:51] Leverkuhn: Black's slightly slow 4...a6 perhaps biases us towards playing for a quick d4, but I'm not sure
+[19:05:06] fulmarsky: (4...a6) is the consideration  Qa4+  ...Bd7  Nb5!?
+[19:05:21] fulmarsky: (4...a6) ...axb5??  Qxa8 oh can the WQ be trapped there?
+[19:05:51] fulmarsky: (4...a6) this be of much tenseness... tense....
+[19:06:07] fulmarsky: (4...a6) need  to castle asap
+[19:06:52] Leverkuhn: 4.Qa4+?! Bd7 5.Nb5? Nc6! and White has lost two-three tempi for nothing
+[19:06:52] fulmarsky: (4...a6) i feel Qa4 may happen
+[19:07:38] fulmarsky: (5.e3) ...Nf6 versus ...Ne7
+[19:08:08] fulmarsky: (5.e3) surely ...Nf6 is better
+[19:08:24] fulmarsky: (5.e3) d4 is going to happen
+[19:08:39] fulmarsky: (5.e3) oh please ponder... please think...... think....
+[19:08:39] Leverkuhn: playing ...f5 isn't out of the question for Black in this structure actually, so there is some point to ...Ne7
+[19:09:40] fulmarsky: (5.e3) ...Qe7 is interesting
+[19:09:40] fulmarsky: (5.e3) but a bit hopeful, hoping for d4
+[19:10:10] fulmarsky: (5.e3) problem is  ...Qe7  Nd5   is a bit too much tenseness
+[19:11:57] Leverkuhn: Lexgrad has selected plan A from above; I like it
+[19:26:09] Leverkuhn: 8...exd4 somewhat cooperative perhaps, giving White the central superiority
+[19:27:10] Leverkuhn: White also has the freedom to develop his dsb along the c1-h6 diagonal, though the queenside fianchetto looks tempting anyway
+[19:27:56] fulmarsky: (9...Bb6) oh mineself ponder what white thinketh
+[19:28:11] fulmarsky: (9...Bb6) e5 perhaps this be there a possibility
+[19:28:11] fulmarsky: (9...Bb6) d5*
+[19:28:41] fulmarsky: (10.Na4) i reasoned that in the event of Na4, i would move the bishop to c7
+[19:29:12] Leverkuhn: 10.Na4 very mysterious; White must intend a c4-c5 followup but I don't get why this would be appealing
+[19:30:13] fulmarsky: (10...Bc7) d5  then what shall my reply be to that bold push
+[19:30:43] fulmarsky: (10...Bc7) ..cxd any i don't particularly relish having and iso d pawn
+[19:30:58] fulmarsky: (10...Bc7) so there is ...c5
+[19:31:29] fulmarsky: (10...Bc7) BUT my dsb is blocked in then on c7 should it stay there
+[19:31:59] fulmarsky: (10...Bc7) Qside development is desperately required
+[19:32:45] fulmarsky: (10...Bc7) i could say after d5.  Hey take on c3,  my knight be most content
+[19:32:45] fulmarsky: (10...Bc7) with ...Nxc6
+[19:33:46] fulmarsky: (10...Bc7)  i feeleth that my lsb belongeth on f5
+[19:35:17] fulmarsky: (11.Bf4) i want to pya ...Bf5
+[19:35:17] fulmarsky: (11.Bf4) HOwever, what be white's current agenda
+[19:35:47] fulmarsky: (11.Bf4) be ...Bf5 a safe move at the current moment, i should ponder...
+[19:36:18] fulmarsky: (11.Bf4) what concerth mineself, well that be d4d5 right now
+[19:37:19] fulmarsky: (11...Bf5) there is a fair amount of complexitiy to this position
+[19:37:19] fulmarsky: (11...Bf5) i feeleth this be tricky
+[19:37:49] fulmarsky: (11...Bf5) c5  ...d5! i think that helps black
+[19:38:19] Leverkuhn: 12.Qb3 might be a tricky move now, defending b7 is inconvenient
+[19:38:19] fulmarsky: (11...Bf5) d4d5 is the move, that is the croissant
+[19:39:05] Leverkuhn: 12.Qb3 Qc8?! 13.Nb6 for example
+[19:39:05] fulmarsky: (11...Bf5) after d5 i am tempted to play ...c5
+[19:39:51] fulmarsky: (11...Bf5) ..b5 looks interesting also though
+[19:39:51] fulmarsky: (11...Bf5) ..b5  dxb5  ..axb!
+[19:40:06] Leverkuhn: 12.Qb3 Ra7 might be satisfactory, but White can consider 13.c5, securing b6 for his knight
+[19:40:21] fulmarsky: (11...Bf5) Nc3 and my Ra8 has an open file
+[19:40:37] fulmarsky: (11...Bf5) maybe ...b5 was the move i should have played before
+[19:40:52] fulmarsky: (11...Bf5) YET, my Qside is so behind in development, of course, i wanted to get that bishop out
+[19:43:24] fulmarsky: (12.Re1) So Re1 is played
+[19:43:39] fulmarsky: (12.Re1) can i get that ...b5 move in safely?
+[19:44:10] fulmarsky: (12.Re1) what achieveth such a move? ponder that now please, what achieveth ...b5 and does white have an agenda i haven't noticed...
+[19:44:25] fulmarsky: (12.Re1) ...b5  dx  ax is great
+[19:44:55] fulmarsky: (12.Re1) ...b5  Nc3  ...bxc4!?  is that a safe move? ponder please
+[19:46:11] fulmarsky: (12...b5) my bad
+[19:46:11] fulmarsky: (12...b5) oh no no no no no no
+[19:46:27] fulmarsky: (12...b5) i left c6 'en prise'
+[19:46:57] fulmarsky: (12...b5) oh [nb8] covers it  BUT the point is, i missed that,  i should not have missed that ...b6 causes [c6] to be loose
+[19:49:14] fulmarsky: (13.cxb5) my reason was that i would play ...axb5 but that was before i remembered that c6 is loose
+[19:49:14] fulmarsky: (13.cxb5) rethink please... rethink...
+[19:50:15] fulmarsky: (13...axb5) it's a bit awkward now
+[19:50:15] fulmarsky: (13...axb5) because c6 is so weak
+[19:50:15] fulmarsky: (13...axb5) that is the cost of this plan
+[19:50:15] Leverkuhn: fulmarsky playing well to exploit 10.Na4?!
+[19:50:45] fulmarsky: (14.Nac3) i must take, because ...d5 now falls into Nxb5!
+[19:51:01] fulmarsky: (14.Nac3) [c6] is pinned
+[19:51:16] fulmarsky: (14.Nac3) what is the gut instinct what is the move to pya
+[19:51:31] fulmarsky: (14.Nac3) play
+[19:51:31] Leverkuhn: Black can consider 14...d5!?, when the blunting of the g2-bishop counts for more than the backwards pawn on c6
+[19:51:46] fulmarsky: (14.Nac3) there be two candidates i think
+[19:52:01] fulmarsky: (14.Nac3) ...b4 looks tempting  as does ...Ba5 pin both those i now conside
+[19:52:17] Leverkuhn: 14...Ra6 also possible to unpin and prepare ...Nbd7
+[19:52:47] fulmarsky: (14.Nac3) i like ...b4
+[19:53:02] fulmarsky: (14.Nac3)  where does that knight go?
+[19:53:18] Leverkuhn: presumably back to a4, but White isn't so happy about that
+[19:53:18] fulmarsky: (14.Nac3) well it can hop back to a4, but then what be the evaluation of that resultant position?
+[19:54:18] fulmarsky: (14.Nac3) do i dare go down the route of ...b4  Na4
+[19:55:50] fulmarsky: (14.Nac3) ...b4  Na4     WQ probably will go to b3
+[19:56:35] fulmarsky: (14.Nac3) ...b4 Na4  ...Ba5 that has some interest...
+[19:57:36] fulmarsky: (14.Nac3) wait!
+[19:57:36] fulmarsky: (14.Nac3) ...b4  Nb5 is a valid move
+[19:58:07] fulmarsky: (14.Nac3) i may need to play ...d5
+[19:59:38] fulmarsky: (14...d5) the tense between the dsbs
+[19:59:54] fulmarsky: (14...d5) ooooh that d6 square would be of sublimity for my bishop to be on
+[20:00:09] fulmarsky: (14...d5) i feeleth the dsbs may be off that board sooneth
+[20:01:40] fulmarsky: (14...d5) i don't mind  Bxc7 ...Qxc7 as the BQ is then developped somewhat
+[20:02:11] fulmarsky: (14...d5) the question is if white doeseth not exchange dsbs, do i initiate a dsb exchange,  or do say no thanks
+[20:04:28] fulmarsky: (15.b3) i could simple develop Nb8 and perhaps that be the best sensible move
+[20:04:58] fulmarsky: (15.b3) but let's just ponder, be there something a bit better
+[20:05:13] fulmarsky: (15.b3) i really cannot allow that knight to get to c5
+[20:05:13] fulmarsky: (15.b3) that cannot happen
+[20:05:29] fulmarsky: (15.b3) so i'm very relucant to push  ..b4
+[20:06:14] fulmarsky: (15.b3) i'm nervous about Rc1 and how weak c6 is
+[20:08:46] fulmarsky: (15.b3) in the scheme of things
+[20:09:02] fulmarsky: (15.b3) maybe i need to play ...b4
+[20:09:17] fulmarsky: (15.b3) ..b4  Na4  ...Na6  Nc5  ...NxN dxN and my weak c6 issues are over
+[20:09:32] fulmarsky: (15.b3) i like it
+[20:09:47] fulmarsky: (15.b3) problem is, will the b pawn fall?
+[20:10:02] fulmarsky: (15.b3) or be a liability?
+[20:11:19] fulmarsky: (15.b3) ...b4   Na4   ...Na6   Rc1 pressure pressure on c6 and c5, can i deal with that, or is it too much
+[20:14:21] fulmarsky: (15...Na6) my knight wants to get to b4
+[20:14:21] fulmarsky: (15...Na6) why?
+[20:14:21] Leverkuhn: Now that c5 is a weak square, Black is no longer necessarily interested in ...b4, invinting White's knight to a4 and c5
+[20:14:37] fulmarsky: (15...Na6) ooon the eloquence of c2 and d3 for knight.  wow, just thank you those squares!
+[20:14:52] fulmarsky: (15...Na6) so i wonder if   a3 will be played
+[20:15:07] fulmarsky: (15...Na6) white may exchange bishops first   Bxc7 ...Qxc7
+[20:15:22] Leverkuhn: 15...Na6!? intersting move indeed
+[20:15:22] fulmarsky: (15...Na6) but wait, in that event, is ...Nxc7 worth a ponder?  just think on that
+[20:15:53] fulmarsky: (15...Na6) my knight would love it on b4 if white alloweth it
+[20:16:08] fulmarsky: (15...Na6) the issue with Bxc7 ...Qxc7 is then a3!
+[20:16:38] fulmarsky: (15...Na6) but wait look a bit further
+[20:16:53] Leverkuhn: in addition to ...Na6-b4-c2/d3 as fulmarsky mentioned, Black can also consider ...Na6-c7-e8-d6
+[20:17:09] fulmarsky: (15...Na6) ...Bxc7  Qxc7 a3  ...b4!?  axb4  ...Nxb4  Rxa8  ...Rxa8  it's not too bad maybe, i just ponder
+[20:17:39] fulmarsky: (15...Na6) i can take over the a-file
+[20:18:25] fulmarsky: (16.a4) now,  a4 i didn't think would be played, because  of ..b4  now, that was my reasoning earlier, let us just reponder this just a
+[20:18:25] fulmarsky: (16.a4) bit
+[20:18:40] fulmarsky: (16.a4) ...b4  ooooh!  Na2  ouchy
+[20:19:41] fulmarsky: (16.a4) what are the options, please think...
+[20:19:56] Leverkuhn: d6 a classic square for a knight in Carlsbad structures
+[20:19:56] Leverkuhn: which this is sort of becoming
+[20:20:11] fulmarsky: (16.a4) what if i just say, i'll do it anyway, and plonk that knight down on b4 right now
+[20:20:42] fulmarsky: (16.a4) ...b4  axb5   ...Nc3!?
+[20:21:12] Leverkuhn: 16...Nb4 17.axb5 Rxa1! 18.Qxa1 Nc2 does indeed seem to win material for Black
+[20:21:12] fulmarsky: (16.a4) ...Nb4  axb5    ...Nc2   Rxa8  ...Qxa8   Rf1 (i'm down a pawn) is there any compensation
+[20:22:13] Leverkuhn: fulmarsky's move order doesn't work because of the looseness of c7 after ...Qxa8
+[20:22:28] fulmarsky: (16.a4) well the compensation is, an amazing knight on c2
+[20:22:28] fulmarsky: (16.a4) And i have the a-file
+[20:23:29] fulmarsky: (16.a4) ...Qa3  QC1  ...Qx  Rx  ...Ra8  i have the a-file, but i'm still down a pawn
+[20:24:00] fulmarsky: (16.a4) but i stategically have that amazing c2 knight still
+[20:24:00] fulmarsky: (16.a4) iu'm going for it
+[20:24:15] Leverkuhn: we can mention that if Black for some reason doesn't want to play 16...Nb4, 16...b4 17.Nb1 c5!? probably also leads to a huge advantage
+[20:24:46] fulmarsky: (16...Nb4) it's tense oooh  oooh dear
+[20:25:01] fulmarsky: (16...Nb4) i missed the Bxc7 in between move
+[20:25:01] fulmarsky: (16...Nb4) that could be costly
+[20:25:16] fulmarsky: (17.axb5) oh that is costly
+[20:25:16] Leverkuhn: oof 17.axb5 played way too quickly
+[20:25:47] Leverkuhn: it seems Lexgrad has given up hope on the board and is just playing for clock pressure
+[20:25:47] fulmarsky: (17.axb5) right, rethink   ...Nc2   Rxa8   ...Qxa8  Bxc7  not much fun down that route
+[20:26:02] fulmarsky: (17.axb5) on wonderful!!!!!!!
+[20:26:02] fulmarsky: (17.axb5) wonderful!!!!!!!
+[20:26:17] fulmarsky: (17.axb5) ...Rxa1  Qxa1   ...Nc2!
+[20:26:47] fulmarsky: (17.axb5) oh i haven't got time to think
+[20:27:03] fulmarsky: (17.axb5) the time scenario is desperate, just play it please
+[20:27:48] fulmarsky: (18...Nc2) Qa7 now is a bit annoying
+[20:28:19] Leverkuhn: it loses to either 19.Qa7 Bb6, or 19...Bxf4
+[20:28:19] fulmarsky: (18...Nc2) because  ...Nxe1  Qxc7  oh how canneth i work that one out,, i don't know, i just know not not not
+[20:29:05] Leverkuhn: White will have to give Black the well-earned exchange with something like 19.Qc1
+[20:29:05] fulmarsky: (18...Nc2) Qa7  ...Bxf4  Rc1!?
+[20:29:20] fulmarsky: (18...Nc2) oh phew my bishop covers c1
+[20:29:50] fulmarsky: (18...Nc2) still... in the possibility that Qa7 be played, what be my reply and i sense... oooooh i sense that move order be most
+[20:29:50] fulmarsky: (18...Nc2) critical after Qa7
+[20:31:06] fulmarsky: (19.Bxc7) i didn't expect that... oh how i can i work this out....  ooh dear...
+[20:31:37] fulmarsky: (19.Bxc7) ...Qxc7  and then   ...Nxe1 i think i'm up by the exchange for a pawn
+[20:32:22] fulmarsky: (20.Qb1) it's angst on these 64 squares, just angst
+[20:32:53] fulmarsky: (20.Qb1) clever, ooh that's clever
+[20:32:53] fulmarsky: (20.Qb1) the WQ hitting my 'en prise'  Bf5
+[20:33:08] fulmarsky: (20.Qb1) that is a bit awkward
+[20:33:39] fulmarsky: (20.Qb1) ...Nxe1   oh i suppose i have  ...Nxg2  maybe it's ok... maybe... i'm not entirely convinced
+[20:34:41] fulmarsky: (21.Qxe1) now what.... oh the time... the time!!!!
+[20:35:15] fulmarsky: (21.Qxe1) so many candidate to consider
+[20:35:15] fulmarsky: (21.Qxe1) so little time on these 64 squares.. oooh dear  ooh dear ooh dear
+[20:35:30] fulmarsky: (21.Qxe1) i repeat,  oooooooohhh dear
+[20:37:16] fulmarsky: (21.Qxe1) melancholy on these 64 squares
+[20:39:22] fulmarsky: (21...Rb8) To'ing and Fro'ing between b8 and a8
+[20:39:22] fulmarsky: (21...Rb8) still i know not if i hath made the right decision
+[20:39:38] fulmarsky: (21...Rb8) for now i have giventh white Qa1
+[20:40:23] fulmarsky: (21...Rb8) Qa1 ...cxb5  Nxb5  ...Rxb5    Qa8+!!
+[20:40:39] fulmarsky: (21...Rb8) phew! i have the ...Rb8 resource i think... to block
+[20:41:09] fulmarsky: (21...Rb8) Nf4 looks a bit concerning right now hitting d5 another time
+[20:42:40] fulmarsky: (22...qxc6) i expect qd1
+[20:42:40] fulmarsky: (22...Qxc6) to cover b3
+[20:44:12] fulmarsky: (23...Rb4) noteth to minself
+[20:44:12] fulmarsky: (23...Rb4) alloweth not back rank mate
+[20:44:27] fulmarsky: (23...Rb4) it's blimin close, oooh is it close
+[20:44:27] fulmarsky: (23...Rb4) wow it is
+[20:44:42] fulmarsky: (23...Rb4) Nxd5  ...Nxd5  Bxd5 oooh i've messed up
+[20:44:42] fulmarsky: (23...Rb4) there's a back rank
+[20:44:57] fulmarsky: (23...Rb4) i've messed up
+[20:44:57] fulmarsky: (23...Rb4) will white see it....
+[20:45:28] fulmarsky: (24.Bxd5) white's seen it alright
+[20:45:43] fulmarsky: (24.Bxd5) breathe, just take stock
+[20:45:43] fulmarsky: (24.Bxd5) retake stock, think....
+[20:47:29] fulmarsky: (24...Qd7) Qe5 i expect now
+[20:47:45] fulmarsky: (24...Qd7) oh Qe5 that is very concerning
+[20:48:00] fulmarsky: (24...Qd7) because i have no Rb5 to play
+[20:48:15] Leverkuhn: 25.Bc4 also logical; 25...Qxd4 26.Qe7 maybe
+[20:49:01] fulmarsky: (24...Qd7) need to move that rook!!!!!
+[20:49:01] ScotchWhisky: tactics with 25. Ne4?
+[20:49:16] ScotchWhisky: no
+[20:49:16] fulmarsky: (24...Qd7) ...Rb1 maybe
+[20:49:16] Leverkuhn: shame for fulmarsky that the tactical control slipped in time pressure; the game was being played at an extraordinarily high level
+[20:49:31] fulmarsky: (24...Qd7) no!!!! not ...Rb8
+[20:49:31] fulmarsky: (24...Qd7) for Qd5 is ouchyness in that case
+[20:49:46] fulmarsky: (24...Qd7) oh!!!  hmmmm
+[20:49:46] fulmarsky: (24...Qd7) Qd5 is really annoying if it happens
+[20:50:02] fulmarsky: (24...Qd7) now
+[20:50:17] fulmarsky: (24...Qd7) i want to play ...Rb8, but will white giveth minself the chance to play ...Rb8
+[20:51:18] Leverkuhn: what I don't like about 25.Qe5 is that is doesn't threaten anything; just 25.Qe5 h6
+[20:51:33] Leverkuhn: 25.Bc4! nice--unlikely Black can take on d4
+[20:52:03] Leverkuhn: now White can keep the d-pawn and material equality is restored
+[20:52:03] fulmarsky: (25...Rb8) not to self, avoid passivitiy
+[20:52:03] fulmarsky: (25...Rb8) passivity will cost me
+[20:52:19] fulmarsky: (25...Rb8) those passed pawns, stoppeth i cannot
+[20:52:19] fulmarsky: (25...Rb8) this is desperate...... DESPERATE
+[20:52:49] fulmarsky: (25...Rb8) ok plan
+[20:52:49] ScotchWhisky: Re8 coming though
+[20:52:49] fulmarsky: (25...rb8) plan
+[20:52:49] fulmarsky: (25...Rb8) ...Bh3    Qb7/Qc6
+[20:53:19] fulmarsky: (25...Rb8) setup checkmate??? while i'm still in this endgame without advnacing and annoying passed pawns
+[20:53:35] Leverkuhn: White might prefer 26.N1e2 to 26.d5, getting ready to head to f4 in some cases
+[20:54:20] fulmarsky: (26...Qb7) plan is  ...Bh3
+[20:54:20] Leverkuhn: okay 26.Qd2 setting a trap: 26...Ne4? 27.Nxe4 Bxe4 28.Qf4
+[20:54:20] fulmarsky: (26...Qb7) i'm usually too passive
+[20:54:36] fulmarsky: (26...Qb7) and it costs me
+[20:54:36] fulmarsky: (26...Qb7) particularly with those two passed pawns, if i'm passive, this won't go well
+[20:54:36] Leverkuhn: not sure that was acually a trap, but Black didn't bite
+[20:55:06] Leverkuhn: now it's time for 27.d5 to shut out the queen
+[20:55:21] fulmarsky: (26...Qb7) but still white can push that d pawn right now, it's just tense.  T E N S E
+[20:55:21] ScotchWhisky: gooooooo Lexgrad
+[20:55:37] Leverkuhn: tension on the 64 squares!!
+[20:55:37] Leverkuhn: as fulmarsky would say
+[20:56:07] Leverkuhn: time to route a knight to f4
+[20:56:22] fulmarsky: (27...Bh3) new plan is!!!
+[20:56:22] fulmarsky: (27...Bh3) ...Re8
+[20:56:22] fulmarsky: (27...Bh3) again setting up a possible Re1 check
+[20:56:37] fulmarsky: (27...Bh3) but the WQ covers it currently
+[20:56:53] ScotchWhisky: I like N1e2 to Nf4
+[20:57:08] fulmarsky: (27...Bh3) just keep applying that pressure,   if i'm passive i've lost
+[20:57:08] fulmarsky: (27...Bh3) i might as well throw the kitchen sink and just see what happens
+[20:57:23] ScotchWhisky: He could be planning Qh4 with that
+[20:57:54] ScotchWhisky: just don't blunder d6!
+[20:58:09] Leverkuhn: he might be, but it's the wrong piece to eject the bishop
+[20:58:24] ScotchWhisky: yeah Qh4...Qc8?
+[20:58:39] ScotchWhisky: now Re1 is a threat
+[20:58:39] ScotchWhisky: Nd3?
+[20:58:54] Leverkuhn: surely 29.N2e2 now, but I guess 29.Nd3 also conceivable
+[20:59:25] fulmarsky: (28...Re8) i feel ...Ng4 may be necessary
+[20:59:40] fulmarsky: (28...Re8) to cover the f2 escape square if f2 is pushed
+[20:59:40] Leverkuhn: looking shaky for White; look for 29...Qa8 next trying to enter on a1
+[21:00:10] fulmarsky: (28...Re8) i expect   Qd2 maybe in which case ...Qe7 could work
+[21:00:26] Leverkuhn: 29.N1e2 Qa8 30.f3 Qa7 31.Qd4 and White somehow glues it together
+[21:00:41] ScotchWhisky: ...Re1 Qc4 barely handing on
+[21:00:56] ScotchWhisky: or is this just losing now
+[21:00:56] Leverkuhn: he's blundered it
+[21:00:56] fulmarsky: (29.Bf1) oooh chess is tough
+[21:01:11] fulmarsky: (29.bf1) just  t e n s e
+[21:01:27] Leverkuhn: that was a strange one actually; maybe just missed that it's a pin?
+[21:01:42] ScotchWhisky: well if Qc4 the knight on c1 is lost
+[21:02:12] Leverkuhn: and/or the queen after ...Rxf1; it's resignable
+[21:02:12] ScotchWhisky: oh yep
+[21:02:43] ScotchWhisky: I get checkmated like this all the time
+[21:02:43] ScotchWhisky: Scanner got me like this twice
+[21:03:13] Leverkuhn: gg!
+[21:03:13] Pineapplechiffoncake: Gg
+[21:03:44] ScotchWhisky: gg
+[21:05:30] fulmarsky: Tense on the 64 squares... it was tense, it was gg, could have gone either way
