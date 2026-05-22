@@ -1,0 +1,116 @@
+Lichess game chat log
+Game      : https://lichess.org/lXjshNOe
+White     : patrickvrielink
+Black     : jcarmody
+Time      : 45+45
+Captured  : 2026-05-22 22:34:20 UTC
+Game ended : 2026-05-22 21:14:16 UTC
+Messages  : 106
+────────────────────────────────────────────────────────────
+
+[19:59:26] jcarmody: center-fork trick again?
+[19:59:41] jcarmody: it worked well last time
+[19:59:56] Silkthewanderer: Go jc, Go Pirc
+[20:00:11] jcarmody: (5.Bc4) Nxe4 , Nxe4 , d5 , Bd3 , dxe4 , Bxe4 , Bg4
+[20:00:27] jcarmody: nobody wants that! so, I'll play it!
+[20:00:42] stevenlongs: Go jc, Go Pirc, Go broccoli!
+[20:01:12] Silkthewanderer: Bxf7 intermezzo is also a thing there
+[20:01:43] jcarmody: I've seen this before, too.
+[20:01:58] Silkthewanderer: Shouls be fine for Black too
+[20:02:13] jcarmody: (6.Bxf7+) Kxf7 , Nxe4 , Bf5/g4?
+[20:02:28] jcarmody: or just castle by hand
+[20:02:43] Silkthewanderer: Probably engine will throw around a 0.8 or so one direction or the other because it dislikes Black king or White knight pair
+[20:02:43] Silkthewanderer: At am
+[20:03:14] Silkthewanderer: Amateur level it is a reasonably fair dynamic equality anyway
+[20:03:44] Silkthewanderer: Bg4 just drops a piece right away though
+[20:04:00] jcarmody: (7.Nxe4) Bg4 , h3 , Bxf3 , Qxf3+ doesn't appeal to me
+[20:04:00] Silkthewanderer: Rf8 and premove Kg8 is more prudent
+[20:04:30] jcarmody: (7.Nxe4) Rf8 , Nfg5 , Kg8 is ok, I think
+[20:05:31] jcarmody: (7..Rf8) O-O , Bg4 , h3 , Bxf3 , Qxf3+ , Kg8 is more appealing
+[20:06:47] jcarmody: how bad is this?
+[20:09:34] jcarmody: (9.d5) h6 , Ne6 , Bxe6 , dxe6
+[20:10:20] Zubenelgenubi: go jc
+[20:11:06] jcarmody: (9.d5) c6 , dxc6 , Nxc6?
+[20:11:36] jcarmody: (9.d5) c6 , xd5 , Qxd5+ is ugly
+[20:12:22] jcarmody: then h6?
+[20:14:24] jcarmody: (11.dxe6) c5  Nc6
+[20:17:26] jcarmody: (12.Qg4) Qa5+ , Bd2 , Qb5 and he's still in the center
+[20:19:43] jcarmody: I don't want O-O
+[20:20:14] jcarmody: so he can O-O-O
+[20:20:59] jcarmody: but not really
+[20:21:15] jcarmody: (13..Qb5) O-O-O , Qxb2#?
+[20:21:15] Inter-temporal: (13) (13...Qb5) go jcarmody!!
+[20:23:16] Inter-temporal: (14) (14.Bc3) is ...Nc6 safe. or ...Bxc3 first
+[20:25:49] Inter-temporal: (15) (15.bxc3) i see silly stuff, like ...Nc6, Ng5 Kg7, Qh4 Rh8
+[20:26:04] MrScribbles: (15...Nc6) c4 allows castling here I think
+[20:26:19] MrScribbles: (15...Nc6) Why is white playing so fast?
+[20:26:34] Inter-temporal: (16) (16.Qh4) for sure. no ...c4 yet. unless it's forced
+[20:26:49] MrScribbles: (16.Qh4) I meant c4 from white
+[20:26:49] Inter-temporal: (16) (16.Qh4) ahhh. right
+[20:26:49] Inter-temporal: (16) (16.Qh4) nice one.
+[20:27:05] MrScribbles: (16.Qh4) :)
+[20:27:05] MrScribbles: (16.Qh4) 52 minutes :sob:
+[20:27:35] Inter-temporal: (16) (16.Qh4) hmm. ya know "sob" can be misunderstood?
+[20:27:50] jcarmody: (16.Qh4) Ne5 , Qxe7 and I don't know how bad I am.
+[20:28:51] Inter-temporal: (16) (16.Qh4) (16.Qh4) is ...Kg7 sane. just get out of the check at least.
+[20:31:23] guitarspider: (16.Qh4) go jc
+[20:32:24] jcarmody: I can't help looking at Nd4! (or Nd4?)
+[20:33:25] Silkthewanderer: Qh4 Kg7 Ng5 h6 Nf7 is annoying
+[20:33:40] jcarmody: that was fast
+[20:34:11] guitarspider: (17.Qh6) Qc4?
+[20:34:41] jcarmody: (17.Qh6) Rf5?
+[20:35:27] Silkthewanderer: 16. Rf5 was my best idea and I think it is still good now
+[20:37:59] guitarspider: (19.Qxg5) at least Re5+ should have been given before that sac no?
+[20:39:15] Silkthewanderer: Yes
+[20:39:30] Silkthewanderer: I thought that was the main purpose there
+[20:42:18] Silkthewanderer: Welp, at least theres a pawn for the exchange kow
+[20:42:33] Silkthewanderer: The king will be plenty safe on f1 though
+[20:53:58] jcarmody: (33..Rxg3) g6 , h6
+[20:54:13] jcarmody: (33..Rxg3) g6 , Rxc3 , gxh7 , Kxh7
+[20:58:01] Zubenelgenubi: what happened? I left for a moment and it's random pawns dropping and everyone blitzing out moves
+[21:00:19] guitarspider: (42.Rd5) I have no idea what happened, but somehow we're up three pawns
+[21:01:19] Zubenelgenubi: just b6?
+[21:01:50] Zubenelgenubi: nevermind this is probab;y good enough
+[21:02:35] guitarspider: (44.Rxc5) yeah, good enough
+[21:02:35] guitarspider: (44.Rxc5) taking on c3 was maybe most precise
+[21:03:06] guitarspider: (44.Rxc5) dxc3+ Kxc3 Rxa3+ Kc4 b6 for example
+[21:06:09] guitarspider: (48.Rxb7) ok, this I don't like so much
+[21:06:24] guitarspider: (49.Ra7) now the c-pawn is free
+[21:06:24] Zubenelgenubi: yes, why give that pawn?
+[21:06:39] guitarspider: (50.Ra8) b5 and Rh5 was a stale construction with zero counterplay
+[21:06:39] guitarspider: (50.Ra8) stable
+[21:06:54] guitarspider: (51.c3) a2!
+[21:06:54] Zubenelgenubi: a2
+[21:07:09] guitarspider: (51.c3) haha
+[21:07:09] Zubenelgenubi: yes
+[21:07:09] Silkthewanderer: Or Rh2 first
+[21:07:25] guitarspider: (51...Rh2+) also fine of course
+[21:07:40] guitarspider: (52.Kc1) but now you have to be careful with Rh8+
+[21:07:40] Silkthewanderer: Instead of c3 spproaching with Ke1 was a lot more tenacious
+[21:07:55] Zubenelgenubi: argh
+[21:08:10] Silkthewanderer: Oh
+[21:08:41] Silkthewanderer: Kc1 a2 Rh8 Kg4 and the pawn queens
+[21:08:56] Inter-temporal: (59) (59.Rc4) stop that pawn!
+[21:09:27] Inter-temporal: (62) (62...g2) wow. what a race.
+[21:09:42] guitarspider: (62...g2) ok, still winning I think. But too close for comfort.
+[21:09:42] Inter-temporal: (62) (62...g2) the K goes with it's own pawn
+[21:10:12] Inter-temporal: (63) (63.Rc2) i read that somewhere
+[21:10:27] Zubenelgenubi: Queen the King
+[21:10:27] Silkthewanderer: c7 and Rc6 was still drawing I think
+[21:10:43] Silkthewanderer: A while ago
+[21:10:58] Silkthewanderer: White puts pawn on c7 rook on c6 and waits
+[21:11:13] guitarspider: (64...Kxg2) yeah, this can't have been winning when down to one pawn each
+[21:11:13] Silkthewanderer: King gets checked until it moves then Rg6
+[21:11:43] guitarspider: (67.Ke4) does he want to play out KR v K?
+[21:11:43] Silkthewanderer: White king just needs to not be ok the c file
+[21:12:44] Marco_Chess13: I like black here
+[21:12:44] fritsj: The time usage in this Rook endgame was shocking to me
+[21:13:15] guitarspider: (79...Kd4) almost twice the time white started with, is certainly something
+[21:14:00] Silkthewanderer: I think 60. c7 was the last exit to the draw that White haf
+[21:14:00] Silkthewanderer: Lets see what tablebase will say
+[21:14:16] guitarspider: gg
+[21:14:16] Zubenelgenubi: gg
+[21:14:16] Pineapplechiffoncake: Gg
+[21:14:16] Marco_Chess13: gg
+[21:14:16] PatchyThePirate: gg
+[21:16:17] Inter-temporal: (94) gg
