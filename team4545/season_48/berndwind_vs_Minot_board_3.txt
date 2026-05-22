@@ -1,0 +1,119 @@
+Lichess game chat log
+Game      : https://lichess.org/3aFxYxfL
+White     : berndwind
+Black     : minot
+Time      : 45+45
+Captured  : 2026-05-22 12:24:26 UTC
+Game ended : 2026-05-22 11:04:21 UTC
+Messages  : 109
+────────────────────────────────────────────────────────────
+
+[09:07:40] Pineapplechiffoncake: Go Berndwind!
+[09:07:40] berndwind: (2.Nf3) very happy to see 1...e5
+[09:07:40] berndwind: (2.Nf3) was expecting mostly c5 or d5
+[09:07:40] berndwind: (2.Nf3) this is potentially a kind of weird and improved Scotch
+[09:07:40] berndwind: (2...Nc6) hi pineapple!
+[09:07:40] berndwind: (3.d4) This is quite fun and has some poison in it... White is already decently better out of the opening
+[09:07:40] berndwind: (3.d4) The lack of an e pawn makes this a lot better than the regular Scotch
+[09:11:44] berndwind: (5.Nf5) hi kama!
+[09:11:59] berndwind: (5.Nf5) If Qf6, craziness happens after I play g4!
+[09:19:05] TristanBrown17: It is 2 am. I'm going to bed. But gooo bernd
+[09:19:05] TristanBrown17: I forgot to record a video for today, so I had to stay up extra late xD
+[09:20:21] berndwind: (5.Nf5) hi Tristan! Do you like the opening? haha
+[09:20:52] TristanBrown17: Is this that dancing knight thing?
+[09:23:09] Minot: (6) this is a crazy prep
+[09:23:09] berndwind: (6.g4) hi series champion ysgwydd!
+[09:23:24] berndwind: (6.g4) This is all prep and a very sharp line
+[09:27:42] berndwind: (6.g4) hi rpcx!
+[09:28:28] RPCX: i'm assuming the engine has some weird refutation for this that i will be more confused after seeing
+[09:32:47] RPCX: i feel like black could probably get away with d5 if they were a engine but as a human this looks terrifying
+[09:38:06] berndwind: (7.Bd2) 6...Bb4 is basically the only move
+[09:38:06] berndwind: (7.Bd2) so he's finding great moves in a tough position
+[09:38:52] berndwind: (7.Bd2) the threat was to have the knight coming in with either a fork (Q+B) or to threaten c7
+[09:39:23] berndwind: (7.Bd2) now the threat of Nd5 is renewed
+[09:40:08] guitarspider: Go bernd
+[09:40:08] berndwind: (7.Bd2) this becomes a pawn sac from white if black plays all best moves
+[09:40:24] berndwind: (7.Bd2) And white is still a little better there
+[09:40:24] berndwind: (7.Bd2) hi spider!
+[09:40:54] berndwind: (7...Qe5) ok I'm out of book lol
+[09:41:09] berndwind: (7...Qe5) my turn to think
+[09:42:10] berndwind: (7...Qe5) first candidates are the simple a3
+[09:42:25] berndwind: (7...Qe5) or f4
+[09:42:41] berndwind: (7...Qe5) I normally wouldn't want to play f4, a bit crazy perhaps
+[09:43:26] berndwind: (7...Qe5) but here it basically forces the queenback to f6, no?
+[09:44:58] berndwind: (7...Qe5) i still like inserting a3 here as taking looks suicidal
+[09:45:58] berndwind: (7...Qe5) He doesn't even have Qe4 after the capture as I insert f3 prior to taking the g pawn with check
+[09:45:58] berndwind: (7...Qe5) so there's not way he can take my knight
+[09:46:14] berndwind: (7...Qe5) so the bishop retreats. Then what?
+[09:47:14] berndwind: (7...Qe5) and where does he retreat? a5 or c5?
+[09:52:19] Minot: (7) should have made inferior moves at the start just to not get in these crazy lines, impossible to find only moves back to back
+[09:57:38] Minot: was in between Qf6 and Qa5
+[09:59:25] Minot: Nd5 Bxd2 Qxd2 Qxb2 Nxc7 Kd8 Qd6 Qxa1 Kd2 Qf6 and I live
+[10:00:56] berndwind: (9...Ba5) These were the two moves I wanted to play, just wasn't sure of the move order
+[10:01:57] Minot: Qe5 was probably a mistake
+[10:05:15] berndwind: (10.b4) parz! hello! Do you like the madness?
+[10:05:30] parziwal08: (10) haha I really like the opening. g4!
+[10:08:48] Minot: Nxb4 looked fun but inaccurate
+[10:17:41] bufferunderrun: let's go Minot!
+[10:18:11] Minot: there are crazy tactics
+[10:18:26] Minot: e3 looks like the best move to me
+[10:18:42] berndwind: (11...Qg6) I mean Bc3 looks interesting
+[10:18:57] berndwind: (11...Qg6) but there are some potential issues down the g file
+[10:19:12] Minot: or maybe after Bc3
+[10:19:27] berndwind: (11...Qg6) the more I look at it, the more I want to get rid of his dsb and then play Rg1 perhas
+[10:19:43] berndwind: (11...Qg6) if the g pawn wasn't hanging, h4 would be nasty
+[10:19:43] Minot: even a simple c4 might be winning for white
+[10:19:58] berndwind: (11...Qg6) but right now i think it's just bad
+[10:20:13] berndwind: (11...Qg6) If I take the tempo to play e3... just looks a bit weird and not ideal
+[10:20:43] bufferunderrun: interesting opening, I would have probably grabbed the knight on move 4
+[10:20:59] berndwind: (11...Qg6) get rid of their bishop, play Rg1 or e4 perhaps and go from there
+[10:22:15] Minot: that was a weird trade
+[10:22:15] berndwind: (12...axb6) ok so Bc3 or Rg1 or something else
+[10:27:04] RPCX: what was wrong with nf6?
+[10:29:06] Feet_Barbie: Go wind
+[10:29:36] Feet_Barbie: Wait the Napoleon attack this is a win for white
+[10:30:22] berndwind: (14...d6) Hi Barbie!
+[10:30:22] Feet_Barbie: White probably had better I'm feeling
+[10:30:37] Feet_Barbie: Like should have been winning
+[10:30:53] Feet_Barbie: Is this gonna be a Waterloo? Napoleon would have won if it didn't rain
+[10:30:53] Feet_Barbie: Kinda crazy
+[10:31:38] Feet_Barbie: I woke up thinking my eyesight fixed itself but I just slept with contacts
+[10:31:53] guitarspider: Black has a lot of work to do before this turns into a Waterloo :D
+[10:32:54] Feet_Barbie: Ahaha yeah but I can't shake the feeling that white missed smth idk just woke up
+[10:32:54] guitarspider: That I agree with
+[10:33:10] Feet_Barbie: I used to main nc3 every time they played E5 I'd smile
+[10:33:25] guitarspider: Also congratulations on your miraculous healing
+[10:34:56] Minot: it's been 15 moves, but it was like a 60 move match
+[10:35:57] Feet_Barbie: The trickster xP
+[10:36:27] Feet_Barbie: Time will be a factor probably position is still complicated
+[10:36:58] guitarspider: Castling super risky for black too
+[10:40:46] Feet_Barbie: What a charge
+[10:41:47] guitarspider: Vive le Bempereur
+[10:56:14] guitarspider: Well, this is definitely not as winning as it was in the sense that this is certainly not winning.
+[10:56:30] bufferunderrun: opposite color bishops, but still probably slightly better for black
+[10:56:30] bufferunderrun: which is quite a turnaround
+[10:58:47] guitarspider: B5 is a good move
+[11:01:49] bufferunderrun: Re3 seemed alright, I don't think black could afford to trade the rooks
+[11:04:06] bufferunderrun: gg
+[11:04:21] RPCX: ggs
+[11:04:21] parziwal08: (37) gg
+[11:04:37] Pineapplechiffoncake: Gg
+[11:04:52] Minot: wow crazy game
+[11:05:07] Minot: very good prep
+[11:07:24] berndwind: thanks! I like my prep. Still I missed some stuff obviously...
+[11:07:54] guitarspider: gg
+[11:07:54] Feet_Barbie: I guess no reason to take the b6 bishop
+[11:07:54] Feet_Barbie: Gg
+[11:08:40] berndwind: Yeah I was just getting concerned about my pinned knight but it wasn't necessary
+[11:08:40] berndwind: I didn't know you used to play this stuff, Barbie!
+[11:09:10] Feet_Barbie: Ill send you my first titled scalp as a 1600
+[11:09:10] Feet_Barbie: In this opening
+[11:09:26] Feet_Barbie: *wcm
+[11:09:26] berndwind: Oh wow nice
+[11:09:41] berndwind: Yes please send!
+[11:09:56] Feet_Barbie: Its a nasty opening, its not dubious and black never faces it
+[11:10:26] berndwind: Which was my idea playing it. Have messed around in blitz on cheese
+[11:10:26] berndwind: and did really well with it
+[11:11:42] Minot: anywya I gotta go, thank you for showing the crazy side of chess
+[11:11:42] berndwind: Thanks for the game! Haha yup always like to keep it crazy
+[11:11:58] berndwind: Good luck in the rest of the season!
