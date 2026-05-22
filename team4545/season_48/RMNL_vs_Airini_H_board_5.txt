@@ -1,0 +1,120 @@
+Lichess game chat log
+Game      : https://lichess.org/6ZXEE442
+White     : rmnl
+Black     : airini_h
+Time      : 45+45
+Captured  : 2026-05-22 02:10:18 UTC
+Game ended : 2026-05-22 00:50:13 UTC
+Messages  : 110
+────────────────────────────────────────────────────────────
+
+[22:25:24] ChessisHard101: Probably a bit early for this with some pieces still undeveloped but 9...b6 looks enticing
+[22:30:43] RMNL: maybe 8.0-0-0 instead of time wasting h3, if ..Bg4 I have Qf2. 0-0 probably also fine.
+[22:32:15] RMNL: ..d5 is making me calculate a lot
+[22:37:49] nyanners: i like the 9..b5 insertion
+[22:37:49] nyanners: its tempo so its not a problem
+[22:38:05] nyanners: b5 a5 and decide
+[22:42:23] RMNL: 10..d5, Bb3..d4, exd4..exd4,Nce2
+[22:42:23] ChessisHard101: Yeah b5 is what I meant lol
+[22:44:10] nyanners: i figured :o
+[22:45:26] RMNL: no more 11..d5?
+[22:47:43] nyanners: yea as white id be a bit more concerned :o
+[22:48:13] nyanners: though maybe Qc7 is a bit dangerous
+[22:48:28] nyanners: lots of potential now with Nf5-Nxh6 unprotecting f6, Qg3
+[22:48:59] nyanners: white is all in on dynamics and.. it might work out :o
+[22:49:45] nyanners: Nf5 is kind of a really big deal actually
+[22:50:00] nyanners: i like 11..g6 in hindsight and hopefully Kg7 holds
+[22:50:45] nyanners: like now black would like 12..Nbd7 but after Nf5 the only way to defend d6 is Ne8 and.. that cant be right. that knight is never leaving
+[22:57:21] RMNL: I've been screwing up these pawn storms
+[22:57:36] nyanners: now white has at least 14 Nxh6
+[22:57:51] nyanners: i think id play it. the initiative still doesnt fade
+[22:58:07] nyanners: pawn storm/Qg3 can be considered
+[23:02:10] RMNL: 14.g4 or Nxh6?
+[23:03:26] nyanners: yea dont see a need to be too maximalist here
+[23:03:57] nyanners: this is still really uncomfortable
+[23:04:27] nyanners: being a pawn up already gives some mental cushion
+[23:04:42] nyanners: even if the actual value of this pawn is not very high because of the pawn structure
+[23:19:40] Feet_Barbie: Go rmnls
+[23:27:47] RajjSinghh: oh dear
+[23:28:33] RajjSinghh: h5 is just crushing surely
+[23:30:19] RMNL: h5 allows ..Qg5 I dunno
+[23:37:10] nyanners: not seeing the end here
+[23:37:25] nyanners: though it probably exists
+[23:39:12] nyanners: Qh3 looks like something of sorts
+[23:40:28] RajjSinghh: I mean surely this just wins quite easily after Qh3? if it's not forced mate, mate is getting blundered
+[23:41:14] nyanners: could be Qh3 Rh8 hxg6 Ng5
+[23:41:29] nyanners: so thatd be a deep think
+[23:42:30] nyanners: not seeing The End here either though it definitely got better for white
+[23:43:15] nyanners: but Ng5 is probably coming
+[23:45:02] nyanners: oooohh i think i like this
+[23:45:48] nyanners: its a way of preventing Rh8 :o
+[23:46:03] nyanners: probably keep Nf5 in reserve
+[23:47:19] RMNL: your heart rate go up in these situations? i'm sweating
+[23:49:21] RMNL: maybe 24.Rf3 works
+[23:52:54] nyanners: N pinned now
+[23:53:09] nyanners: progressing :o
+[23:54:56] RMNL: only move
+[23:55:26] nyanners: anything concrete here?
+[23:57:43] nyanners: black still has f6-Rf7
+[23:57:58] RMNL: move confirmation now a prob
+[23:58:13] nyanners: i prefer moving by click-click in longer games
+[00:02:02] Mennonite: move confirmation is easy to turn off, i usually turn it off under 5 minutes
+[00:02:02] RajjSinghh: do we just try some Nd2 and bring the other knight?
+[00:02:02] aiRini_h: OMG! This is stressful
+[00:04:03] nyanners: stressful, but black does not seem demotivated XD
+[00:04:19] nyanners: and now with Neg5 you have like a real defensive setup
+[00:04:34] RMNL: I guess I have time now, Rg6?
+[00:05:50] RMNL: fudge
+[00:07:52] nyanners: seems fine too i guess
+[00:08:07] nyanners: "fine" as far as this can be fine, of course :o
+[00:09:54] nyanners: white might need ne2 ng3 nf5 or something of the sort
+[00:11:40] RMNL: damn I think I missed Qe8+
+[00:11:55] RajjSinghh: oh no
+[00:11:55] nyanners: nef8 perhaps
+[00:12:26] nyanners: oh
+[00:12:26] nyanners: well
+[00:12:41] RajjSinghh: oopsie
+[00:12:41] nyanners: make 10 consecutive threats and the opponent will blunder, they said
+[00:12:41] nyanners: seems like a good general rule
+[00:12:56] RajjSinghh: looks like black got too comfortable shuffling
+[00:13:11] nyanners: nah feels like mental overload to me
+[00:14:12] RajjSinghh: honestly, can easily be both. having to move back and forth while also having to think about not blundering mate
+[00:14:12] aiRini_h: well that stinks
+[00:14:58] nyanners: yea :o
+[00:15:13] RMNL: among other things I likely missed
+[00:15:59] nyanners: b3 is like, just taking a breather. i love it
+[00:32:13] RajjSinghh: white should just bring the knight. no reason not to
+[00:32:43] nyanners: like 5% white flags XD
+[00:35:15] RajjSinghh: nd2 ng3 nf5 feels sensible to me. the queen and rook could use help
+[00:36:31] nyanners: maybe white wanted e4 protected first
+[00:37:02] RajjSinghh: fair point, forgot e4 hangs
+[00:38:03] nyanners: i mean, i dont think it really matters (like yea for obvious reasons but getting the knight in is just worth it)
+[00:38:18] nyanners: like even without considering the material imbalance
+[00:38:33] RajjSinghh: theres probably a world where Nd5!? to get a passed pawn also wins immediately
+[00:38:48] nyanners: naaaahh not doing that
+[00:39:04] nyanners: you want to combine that with some mating threats
+[00:39:49] RajjSinghh: I mean king on g7 knight on e8 some moves ago, wouldn't be surprised if it works
+[00:40:20] RajjSinghh: i mean we don't need to risk it haha
+[00:41:36] nyanners: no i like the hypothetical XD
+[00:42:06] nyanners: like the thing is, queens dont tend to work super well with pawn structure
+[00:42:06] nyanners: especially vs two knights black can blockade
+[00:43:07] ChessisHard101: Any realistic chances for black to survive?
+[00:43:22] RajjSinghh: it's such a strange time control because the players are back to rapid pace when a few minutes ago they were under a minute
+[00:43:38] nyanners: if the knights get in white could hang a fork
+[00:43:38] RajjSinghh: it can be a tricky adjustment to slow down again
+[00:43:38] nyanners: thats approximately it
+[00:43:53] nyanners: like i dont think any stalemate motifs will be coming up
+[00:44:08] ChessisHard101: ...Nxe4?
+[00:44:23] RajjSinghh: yeah, but black's the type to play on
+[00:44:23] nyanners: white is looking at qc8
+[00:44:38] nyanners: on the other hand, theres also qxf6
+[00:44:38] ChessisHard101: Here it comes
+[00:44:38] nyanners: so yea this could be it
+[00:45:09] ChessisHard101: I guess black goes Kd6 after?
+[00:45:24] nyanners: qc7 and wins the knight
+[00:46:25] nyanners: now hanging a fork doesnt cut it either
+[00:47:41] nyanners: yea thats the dramatic version
+[00:47:56] nyanners: non-zero stalemate chances tho
+[00:50:28] nyanners: gg
+[00:59:51] aiRini_h: That was so nuts
+[01:09:29] nyanners: it was a good effort :o
