@@ -1,0 +1,114 @@
+Lichess game chat log
+Game      : https://lichess.org/9Y12RGox
+White     : guitarspider
+Black     : aalvarob
+Time      : 45+45
+Captured  : 2026-05-22 16:50:59 UTC
+Game ended : 2026-05-22 15:30:53 UTC
+Messages  : 104
+────────────────────────────────────────────────────────────
+
+[12:56:54] Silkthewanderer: Go Spidey
+[13:00:27] berndwind: Go spider!
+[13:03:30] Silkthewanderer: I keep forgetting the move orders in the Nc6 Botvinnik Carls
+[13:03:45] Silkthewanderer: Bd4 is a thematic move obviously, not sure if it is here
+[13:04:46] Silkthewanderer: I assume so at least. Against Bd4 you want to undermine with b6 and a5, the move a6 clashes with that
+[13:06:48] Silkthewanderer: After Nbd2 Qc7 and then I assume Black actually starts threatening to retake
+[13:10:36] Silkthewanderer: This line is tricky. Never clear to me which of the White pawns is a target and which is too dangerous to try and claim
+[13:17:42] Silkthewanderer: I assume this is all theory
+[13:17:57] Silkthewanderer: If it wasnt, there certainly would have needed to be time devoted to evaluate h3 or Nf4 respectively
+[13:20:29] Feet_Barbie: (13.Nxf3) go spiderrr
+[13:27:20] Zubenelgenubi: Go spider!
+[13:35:58] Silkthewanderer: Big question I guess is whether 16. ...e5 works
+[13:36:13] Silkthewanderer: It feels like a trap but I dont see the refutation
+[13:37:59] Silkthewanderer: Qd8 to prepare Bf6 or what?
+[13:38:30] Silkthewanderer: That feels a bit slow. Queenside pawn rushes look very interesting to me now
+[13:40:32] Silkthewanderer: Like 17. a4 Bf6 Bxf6 Qxf6 Qd4 and how is Black defending the queenside
+[13:41:17] Silkthewanderer: The extra c paw will also have its use for a c pawn push if White ever gets the queenside rolling
+[13:43:19] Silkthewanderer: Maybe Qd7 over Qd8 was an option because then Black gets f6+e5 ideas
+[13:58:02] Silkthewanderer: Maybe 17. a4 was less good because of an immediate a5 counterstrike?
+[13:58:48] Silkthewanderer: But if the plan here doesnt involve queenside play eventually I know nothing about chess
+[13:59:33] Silkthewanderer: Btw I really like 19. ...Nf4 for Black
+[14:00:49] Silkthewanderer: It kinda forces Qxf6 and then the extra central pawn and open g file gives Black at least a plan
+[14:04:38] Silkthewanderer: Black is dallying waaaay too much and Spidey just makes slow moves with a purpose
+[14:04:53] Silkthewanderer: Wouldnt be surprised if this here is already strategically losing
+[14:06:55] Silkthewanderer: Maaaaaybe Black holds with Qc7 Rc8 Ne7 and not allowing any breakthrough
+[14:07:10] Silkthewanderer: In practice this is a nightmare tho
+[14:11:29] Silkthewanderer: Interesting question: Who wants to trade how many rooks?
+[14:13:30] Silkthewanderer: IMO trading exactly one pair of rooks helps White in this situation but is it worth the time to go Rd1 Rxd1 Bxd1?
+[14:14:31] Silkthewanderer: My first hunch is "Yes" but it feels very artificial
+[14:25:10] Silkthewanderer: That maneuver also makes sense I guess
+[14:25:56] Silkthewanderer: Looks like White is pretty firmly in control and Blacl pretty badly in need of some counter trick
+[14:27:12] NxN: maybe doubling the  rook help in a counter attack
+[14:27:27] Silkthewanderer: b5 Rad8 c6 Rd2 you mean?
+[14:28:43] Silkthewanderer: If we are playing for the gallery b5 Rad8 c6 Rd2 b6 Qxb6 c7 is a thing
+[14:28:43] NxN: must deal with c6 before Rd2
+[14:29:14] Silkthewanderer: Wait no that line is dumb queen retakes on d8
+[14:29:14] jcarmody: Go spider!
+[14:29:14] Silkthewanderer: Trust me to find ways to lose this as White
+[14:29:44] NxN: don't think white lose , but black may make it hard win
+[14:30:15] jcarmody: I trust you, Silk.
+[14:30:30] Silkthewanderer: Prop bet: If Black plays Ne5 how many seconds to sac the exchange?
+[14:31:31] Silkthewanderer: (Bxb7 is also possible I guess)
+[14:33:33] Silkthewanderer: So I guess no need to rush. But definitely need to reserve time
+[14:33:33] Silkthewanderer: I assume both win but require calculation
+[14:34:03] Silkthewanderer: Bxb7 Qxb7 Rxe5 a5 looks iffy, I would prefer to make the exchange sac work
+[14:35:34] Silkthewanderer: Very important line Rxe5 Qxe5 Bxb7 Rd7 Bxa8 Qxa1 Kh2 Re1 g3
+[14:35:34] Silkthewanderer: Stuff like that
+[14:35:50] Silkthewanderer: Needs to work, so yeah maybe no quickie after all
+[14:37:36] Silkthewanderer: Bxb7 Qxb7 Rxe5 axb5 c6 and premiv
+[14:37:51] Silkthewanderer: premove Rxb5 is maybe easier after al
+[14:38:22] Silkthewanderer: i swear i am guessing wrong every singly move
+[14:38:37] Silkthewanderer: Spidey still crushes so what does it say about me :D
+[14:41:25] Silkthewanderer: After 27. Rad8 I wonder if Rf1 Rd2 Qe4 is enough to win
+[14:42:56] Silkthewanderer: Rc4 was not worrying me that much tbh. That is a happy trade for White
+[14:43:26] Silkthewanderer: Rd7 and Rad8 were my toughest candidates for Black
+[14:44:58] Silkthewanderer: Pawn just makes brr brr now
+[14:49:47] Silkthewanderer: Huh? What was wrong with axb5?
+[14:52:04] Silkthewanderer: Axb5 Ra4 Qe2 and again threatening pawn pushes
+[14:52:34] Silkthewanderer: This here sadly looks like it might already be hard to save for White
+[14:54:36] Silkthewanderer: Rb8 and Qf4-c7 is the plan for Black to stop all threats
+[14:55:37] Silkthewanderer: And Rb8 forces a pretty awkwar decision where best to put the bishop
+[14:55:52] berndwind: Is c6 any good here?
+[14:56:07] berndwind: Yup there it is
+[14:56:38] Silkthewanderer: Qf4+ then Qc7
+[14:56:53] berndwind: It’s certainly an annoying bishop sitting up there
+[14:57:23] Silkthewanderer: Sure but White has no way to break through. And Black can try to get something forever
+[14:57:23] berndwind: Ah. Yeah just leaves white horribly passive
+[14:58:24] Silkthewanderer: f4 and Qe5 is the one way I see to force something
+[14:58:24] Silkthewanderer: And that leaves White waaaaay too exposed
+[14:58:55] berndwind: Oh that just looks suicidal
+[14:59:41] Silkthewanderer: A White plan is very tough to find
+[14:59:56] Silkthewanderer: Rd8 Rd5 h5,h4 OTOH is very straightforward
+[15:00:26] NxN: aren't 30.axb5 better for white than 30.Qxb5 ?
+[15:00:26] berndwind: And if you just try to respond to threats move after move, it’ll fail eventually. This already looks very dangerous immediately.
+[15:00:57] Silkthewanderer: I think 30 axb5 was outright winning
+[15:01:27] Silkthewanderer: I DIDNT see Ra4 either from afar
+[15:01:42] berndwind: Two connected passed pawns certainly would have been a very different story
+[15:02:13] NxN: may that move game the  game from white
+[15:02:13] Silkthewanderer: But I thought White can retreat and win with the pawns eventually
+[15:02:28] Silkthewanderer: I think Spidey was worried about Ra4 Qe2 Ra2 etc hunting the Queen
+[15:03:14] Silkthewanderer: But smth like Ra4 Qe2 Re2 Qe3 Re3 Qf4 gains the crucial tempo
+[15:03:44] NxN: yes but in the  same  time he have  a strong connected pawns in the  way for queening , Plus black has a back rank mate
+[15:04:15] NxN: two dangers threads black should deal with , while hunt the  queen
+[15:04:45] Silkthewanderer: Will also be interesting to check whether Bxb7 over Rxe5 was a thing. Rxe5 was my first candidate but Bxb7 first grew on me over time
+[15:05:16] Silkthewanderer: Kf8 Qb4 is a trap at least
+[15:06:32] NxN: He may valued the B better than the R in that position so he went Rxe5
+[15:06:47] NxN: continue the  queening plan
+[15:07:48] Cantseesheet: (37...g6) Go spidy
+[15:07:48] NxN: Bxb7 Qxb7 Rxe5 axb6
+[15:08:03] Cantseesheet: (37...g6) Its le Pope
+[15:08:18] NxN: Rxe5 still very strong
+[15:29:22] NxN: Qb6 is comming ?
+[15:30:08] NxN: opps
+[15:31:24] guitarspider: ugh
+[15:31:39] guitarspider: well play ALvaro
+[15:32:55] NxN: Rxe5 was marked as blunder !!
+[15:33:10] NxN: but really looks strong move
+[15:33:25] guitarspider: I couldn't really decide between that and Bxb7
+[15:33:40] guitarspider: Rxe5 looked more dangerous to me, but it's totally possible I was wrong
+[15:34:11] NxN: yes very difficult , when we talked about both we still saw Rxe5 strong
+[15:34:56] NxN: but white still good after it anyway and  was wining
+[15:34:56] guitarspider: I just never thought of Qf1
+[15:35:27] guitarspider: it makes a lot of sense now that I see it.
+[15:35:42] NxN: another difficult move to see too
