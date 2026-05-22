@@ -1,0 +1,22 @@
+Lichess game chat log
+Game      : https://lichess.org/kVsbUpW6
+White     : sivakumarr
+Black     : lloydret
+Time      : 45+45
+Captured  : 2026-05-22 15:55:06 UTC
+Game ended : 2026-05-22 14:35:01 UTC
+Messages  : 12
+────────────────────────────────────────────────────────────
+
+[13:03:28] R0B-W: (3.Nc3) Go, LloydRet!
+[14:12:57] fork2020: Go LloydRet!
+[14:13:43] fork2020: Although I have to say that this isn’t looking very good.
+[14:15:44] LloydRet: (20...b6) this is dire; the move I missed (until immediately after playing the move) was 17.Qxd4 when playing 14...Nh5
+[14:35:16] R0B-W: gg
+[14:35:16] BLang316: gg
+[14:35:47] sivakumarr: I think 14...Nd7 was fine
+[14:36:02] sivakumarr: Black should have been just in time to diffuse my knight jumps
+[14:36:17] sivakumarr: I was happy not to see the center fork trick on move 4
+[14:38:03] sivakumarr: I couldn't tell if I missed forced mate on move 29, irrespective, I just went into an endgame where I'd certainly be able to trade queens
+[14:40:35] sivakumarr: Oh wow, the center fork is bad on move 4
+[14:40:51] sivakumarr: Ah, the line makes sense
