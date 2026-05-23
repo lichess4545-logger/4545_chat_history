@@ -1,0 +1,39 @@
+Lichess game chat log
+Game      : https://lichess.org/ctj5m3LY
+White     : bufferunderrun
+Black     : rs-classicalonly
+Time      : 45+45
+Captured  : 2026-05-23 20:32:29 UTC
+Game ended : 2026-05-23 19:12:23 UTC
+Messages  : 29
+────────────────────────────────────────────────────────────
+
+[18:02:18] Pineapplechiffoncake: go rs!
+[18:12:12] berndwind: (7...Ne7) go rs!!
+[18:24:08] GenTurgidson: Go buffer!
+[19:07:03] berndwind: (39...Kd6) wow this is wild stuff!
+[19:07:03] berndwind: (39...Kd6) Very interesting.
+[19:07:18] berndwind: (40.f4) King in the middle of the board, but I don't see how to get to him
+[19:12:07] RS-ClassicalOnly: very rough game eesh
+[19:12:53] berndwind: interesting one actually! I thought there was still something to play for with the two bishops
+[19:12:53] bufferunderrun: I shouldn't have taken on f6, I guess
+[19:13:08] berndwind: but very dangerous for both players
+[19:13:24] RS-ClassicalOnly: there might have been berndwind, but im lucky to make it out with a draw
+[19:13:24] RS-ClassicalOnly: i couldve easily been destroyed
+[19:13:54] RS-ClassicalOnly: once I realised Ne5 was gonna be on the board I was sweating
+[19:15:40] RS-ClassicalOnly: I was a little happy to be relieved of the pressure on f6 though
+[19:16:11] RS-ClassicalOnly: it clarifies which pieces im stuck with so i can at least strategize
+[19:16:26] RS-ClassicalOnly: Rc6-Rb6-Rb4 was basically the save though, anything else I couldve been wiped
+[19:17:27] berndwind: Yeah i totally get that. I think in your shoes I would have been rather happy with the repetition too!
+[19:17:42] RS-ClassicalOnly: yea i was panicked beyond belief
+[19:18:12] RS-ClassicalOnly: 25. Qg6 is completely game over
+[19:18:28] RS-ClassicalOnly: no way to recover that position
+[19:18:28] bufferunderrun: yeah, it was my other option
+[19:19:28] bufferunderrun: I missed quite a few things, like 26.Qh7+ and Ne5+
+[19:19:28] RS-ClassicalOnly: hindsight but if you had probably taken on d4 with your knight, and if you got the same lines you couldve had a way better game
+[19:19:28] bufferunderrun: I mean I saw Qh7+, but missed Ne5+
+[19:19:28] RS-ClassicalOnly: with the pawns protected i have no counterplay
+[19:25:33] bufferunderrun: 25.Rf2 also doesn't look too bad.
+[19:26:19] bufferunderrun: I thought exchanges on f6 would simplify and make it easier for me, but it didn't and it wasn't.
+[19:26:19] bufferunderrun: Anyways, gg
+[19:26:19] RS-ClassicalOnly: ggs
