@@ -1,0 +1,143 @@
+Lichess game chat log
+Game      : https://lichess.org/74DTXtwQ
+White     : precisionplay28
+Black     : shurbz
+Time      : 45+45
+Captured  : 2026-05-23 16:19:45 UTC
+Game ended : 2026-05-23 14:59:39 UTC
+Messages  : 133
+────────────────────────────────────────────────────────────
+
+[13:03:12] fritsj: Let's go PP!!
+[13:04:13] NameGoesInHere: (1.d4) go shurbz!
+[13:04:43] Shurbz: Hi namego
+[13:06:45] Shurbz: and just like that out of my prep, though I see no reason to not make the queen move twice
+[13:10:33] Shurbz: oh I know what is going on, we're following a game I had in series where I played dxc qxc be6 qb5+. I think I had a okay position
+[13:11:04] Shurbz: I think that position was okay but not everything I wanted
+[13:16:54] NameGoesInHere: (7...Nbd7) ooh, could we see e5 Nb6 exf6 Nxc4 fxg7 Kxg7 Bxc4 with three pieces for the queen?
+[13:17:09] Shurbz: my whole position stakes a claim on the queen being misplaced. I could use a grunfeld theory workshop
+[13:19:56] fritsj: Namegoesinhere, that line you mentioned is a thing but I've only seen it when the Queen is threatened by Be6
+[13:20:27] fritsj: I guess it's better to get both bishops for the queen
+[13:20:57] NameGoesInHere: (9.Qd3) ah, so something like 7...Nc6 8.e5 Be6 instead of the game continuation?
+[13:21:43] fritsj: Yeah
+[13:21:43] fritsj: And engine gives like +2 in those positions
+[13:22:29] fritsj: So probably if you get one bishop and 2 knights for the queen it might still be better for white
+[13:22:29] fritsj: But not +2 I think
+[13:27:48] Shurbz: I was looking at g5 re8 and c5
+[13:30:20] fritsj: h3 kind of prevents e5 I guess?
+[13:33:08] Shurbz: basically always need time to rescue my knight
+[13:33:38] jose684: go pp !
+[13:34:39] jose684: kick the Black N with h3 at some stage.
+[13:35:40] fritsj: How does Black save the Knight actually?
+[13:36:26] jose684: yea true !
+[13:36:41] fritsj: Whatever Black does the Knight is trapped after h3
+[13:36:41] NameGoesInHere: (13.Qd2) I was thinking Nc4 Queen moves h5 and then you can drop back to h6, but if Qd2 that doesn't work
+[13:36:56] jose684: PP should find that I reckon.
+[13:36:56] NameGoesInHere: (13.Qd2) Qe2 I mean
+[13:37:27] fritsj: c4 is covered either way though right?
+[13:37:57] jose684: Does 13..g5 work ?
+[13:38:12] NameGoesInHere: (13.Qd2) oh right the bishop lol
+[13:38:43] fritsj: g5 Bg3 and then h5 to make room for the Knight on h6 I guess?
+[13:38:43] fritsj: It straight up drops g5 though
+[13:38:58] fritsj: And the whole Kingside is in shambles
+[13:39:13] jose684: f6 doesnt work
+[13:39:44] fritsj: h3 fxe5 hxg4 exf4 gxf5?
+[13:39:59] jose684: that sounds good for White :)
+[13:43:02] fritsj: Let's goooo PP her found it
+[13:43:17] fritsj: He*
+[13:47:51] fritsj: I guess Kxd2? Not sure if Rad8+ is gonna give Black any play but looks kind of unlikely
+[13:48:06] Shurbz: well there goes the streak, but hey at least I learned something
+[13:49:23] jose684: Where you want to go with K in case of a rook check ?
+[13:50:08] jose684: Kc1 ?
+[13:50:54] fritsj: Mmmm maybe even e3?
+[13:51:24] fritsj: c1 and e1 kinda messes with your Rooks development
+[13:51:40] fritsj: e2 blocks the bishop
+[13:51:40] fritsj: e3 looks safe enough for now no?
+[13:51:55] jose684: yea e3 is not bad considering LSB covers d3 and c4
+[13:52:25] Shurbz: I was too obsessed with winning time this game, like I saw the knight could get trapped but not that I was allowing it because of Bf5
+[13:53:26] jose684: Kxd2 Rad8+ Ke3 Nc4+ Bxc4 Rd3+ Ke2 sounds ok to me
+[13:54:42] jose684: sorry Nc4 is possible, what I am thinking :)
+[13:56:14] fritsj: In that line you have after Rd3 there is Bxd3
+[13:56:29] fritsj: Gave*
+[13:57:15] fritsj: Black can't really do anything right now it seems
+[13:57:30] fritsj: Looks like White will have time to develop
+[13:58:00] fritsj: Oh the idea is f5 threatening f4 I think
+[13:58:16] fritsj: So maybe play e6 now, also threatening c7?
+[13:59:16] fritsj: Oh dear this is trouble now
+[13:59:32] fritsj: Black wins the piece back
+[13:59:47] jose684: oops
+[13:59:47] fritsj: Guess just Rd1 and take twice on f4 and you're a pawn up
+[14:00:33] Shurbz: they should have taken two pawns for the piece, its a little unclear now
+[14:01:33] jose684: @fritsj Yea the line I gave was completely wrong :)
+[14:01:33] fritsj: I guess 19.e6 f5 Ne5 was critical
+[14:04:21] Shurbz: also maybe it should have been the other rook
+[14:05:07] jose684: Black got the double Bs, so it is still ok for them I guess even though a pawn down. But 2 weak pawns on king side.
+[14:12:13] Shurbz: trying to figure out if Rxf3 works but obviously is doesn't because of gxf3
+[14:13:29] precisionplay28: i still think i must be better here but e5 is very weak so lets see
+[14:14:14] precisionplay28: his e6 pawn is weak too
+[14:18:03] jose684: get one Knight to d6 if possible
+[14:19:04] Shurbz: this I think may be a very tricky endgame for me so I'll have to be deliberate
+[14:19:49] jose684: Black can double the White pawns here if he want
+[14:20:05] jose684: and he might go for that
+[14:30:13] precisionplay28: i think my e pawn is faster then  the queenside counterplay
+[14:30:29] jose684: why f5 now ?
+[14:31:30] jose684: I was thinking 36. g4 and then f5 since Black can not on f5 pawn break
+[14:32:00] jose684: that way you get connected passers probably
+[14:32:30] jose684: But still this is fine I guess
+[14:33:16] jose684: Black cant go after the weak b2 pawn because of h6 pawn
+[14:34:32] jose684: now he can forget about b2 :)
+[14:42:24] jose684: White needs to be precise here.
+[14:43:25] precisionplay28: ok this might be a draw i was thinking it is a win
+[14:44:41] Shurbz: that is what I get for rushing
+[14:44:56] jose684: I think this was a win for White at some stage
+[14:44:56] jose684: probably still is
+[14:45:27] precisionplay28: i had not prepared the 7 nbd7 line
+[14:48:45] precisionplay28: i am not even thinking anymore just playing on vibes
+[14:50:16] fritsj: Ke4 instead of b5 looked so clean
+[14:50:16] jose684: why rush with pawn :) ? probably Ke4
+[14:50:16] Shurbz: I think I love bishops?
+[14:50:31] fritsj: I guess Kd4 and Black's King cannot infiltrate
+[14:50:47] fritsj: Although Bf2+ Kd3 Kg3...
+[14:51:02] fritsj: Might be a draw now
+[14:51:17] jose684: White should have been more careful
+[14:51:32] fritsj: h4 probably best now
+[14:51:32] fritsj: Yeah really dislike the time management here
+[14:51:47] jose684: had all the time in the world :)
+[14:52:03] fritsj: Maybe h4 keeps some winning chances?
+[14:52:33] fritsj: Kxh4 Ke2 Kg3 Kf1?
+[14:52:33] fritsj: Yeah now it's a draw
+[14:52:48] Kborman: I was thinking 52.Kc6 and planting the knight on c7 to block the diagonal but not sure if that worked
+[14:52:48] jose684: it is gone now
+[14:53:19] fritsj: Playing off vibes doesn't work in concrete endgames
+[14:53:34] jose684: I would have played 36. g4 and then followed by f5
+[14:53:49] fritsj: Yeah that also looked better than the game continuation to me
+[14:54:20] precisionplay28: yea its a draw he could sac his bishop for my b pawn after he takes on h3
+[14:54:35] fritsj: Wowwww
+[14:54:35] fritsj: Nf4??
+[14:54:50] fritsj: It's winning again I think
+[14:56:06] fritsj: Never mind
+[14:56:21] jose684: :)
+[14:58:23] precisionplay28: sorry guys ik i was winning but i threw this one bad
+[14:59:09] jdw10: gg
+[14:59:09] fritsj: GG
+[15:00:25] jose684: GG both
+[15:01:56] precisionplay28: i should really practice endgames man
+[15:01:56] precisionplay28: i threw a plus 5 position
+[15:02:57] jose684: it happens, just take your time
+[15:03:12] fritsj: Yeah idk if practice is the issue
+[15:03:43] precisionplay28: in my mind i had already jusd decided the game as a draw
+[15:03:58] precisionplay28: ik time managment was bat too
+[15:04:13] precisionplay28: bad
+[15:05:29] fritsj: If you had taken some more time in this endgame I'm sure you would have won this
+[15:05:29] precisionplay28: i let him them off the hook so easily
+[15:05:44] fritsj: It's not your skill that's the problem
+[15:05:59] precisionplay28: my coach is gonna kill me on this one
+[15:05:59] fritsj: Just not calculating
+[15:06:30] precisionplay28: because they had teached me this type of endgame countless times
+[15:07:15] fritsj: These endgames are always more complex than they seem at the surface so making mistakes in them is totally normal
+[15:08:16] fritsj: Good on Shurbz by the way for hanging in there though!
+[15:08:31] fritsj: Good defence
+[15:09:17] precisionplay28: yea
+[15:10:48] fritsj: Chin up PP, this is a very valuable lesson that will hopefully win you many points in the future and it now cost you only half a point
+[15:11:03] fritsj: Great value
+[15:11:19] precisionplay28: thanks fritsj
