@@ -1,0 +1,132 @@
+Lichess game chat log
+Game      : https://lichess.org/T4MYSonk
+White     : paulze2000
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-05-23 21:55:45 UTC
+Game ended : 2026-05-23 20:35:40 UTC
+Messages  : 122
+────────────────────────────────────────────────────────────
+
+[19:01:34] NG_Life: 5. nf3 expected 5. e4 botvinnik system this must be some prep
+[19:03:35] NG_Life: 8. cxd5 a little surprised, he moves so fast this must be prep
+[19:04:06] NG_Life: having trouble to see why Qxd5 doesn't work - hitting the knight, x-ray on the bishop?
+[19:05:07] NG_Life: ex. 8... Qxd5 nbxd4 nxd4 nxd4 Qxg2 0-1 so what does he do instead?
+[19:05:52] NG_Life: ohhhhh nc7+ yes Qxd5 nc7+ 1-0 white wins, how blind of me, not a good start.
+[19:06:53] NG_Life: (9) Qb5+ also looked good but I don't know, difficult to analyze, I would rather just calm things down.
+[19:07:54] NG_Life: despite daily tactics puzzles and some rating gain this year I remain very board blind, it troubles me
+[19:11:27] NG_Life: I think 9. bf4 was possible for white and very strong, since he didn't I will play a6 kicking the knight immediately
+[19:16:01] NG_Life: 10. Qa4 ne7 bf4 O-O nc7 ra7? Looks a little shaky but I also have ideas eying b2
+[19:18:03] NG_Life: 10. Qa4 bg4 nbxd4 the knight on c6 is threatened, looks a bit too delicate
+[19:18:18] NG_Life: (11) it seems his prep worked out well, I don't like my position
+[19:21:36] NG_Life: (11) looking back, 8. Qb5+ was probably better and that's where I went wrong
+[19:25:39] NG_Life: 12. nd6 I guess I'm happy, I think nc7 was a little stronger
+[19:26:40] NG_Life: 12... d3 exd3 bxb2 rab1 doesn't seem good for black, I will lose the b7 pawn and maybe a6
+[19:27:56] NG_Life: 12... nf5 nxc8 rxc8 bg5 eh
+[19:33:31] NG_Life: (14) although my pieces still seem rather gangly and uncoordinated, I seem to have solved my most pressing issues. Eval: black -0.3
+[19:36:49] NG_Life: 14. rd1 d3 rxd3 bxb2 rb1 bg7 rxd5 not good for black
+[19:39:06] NG_Life: h6 g4 nh4 nxh4 qxg4! fork bxh6 Qxh6 nf3?
+[19:40:07] NG_Life: no that doesn't work h6 g4 nh4?? nxh4 Qg4 bg3 1-0
+[19:40:22] NG_Life: now... if that d pawn wasn't there...
+[19:46:28] NG_Life: 15. rd2 seems to block off escape for dsb, now h6 looks stronger e.g. h6 g4 ne7 h3 is that not good for me?
+[19:47:29] NG_Life: 15. rd2 h6 g4 g5 might even be possible here, can't rule out this idea without some thought
+[19:50:16] NG_Life: 16. g4 g5 gxf5 gxf4 I'm threatening f5 it looks good
+[19:54:50] NG_Life: 18. bh3 eval: -1.2 for black
+[19:56:06] NG_Life: 18. bh3 defending the f5 pawn in an extremely awkward way, albeit there is no alternative
+[19:56:06] NG_Life: pressure along the h1 a8 diagonal is greatly alieviated now
+[19:59:54] NG_Life: 19. kh1 Qf6 rad1 re4 Qb3 rae8 Qxb7 rxe2 rxe2 rxe2 Qa8 kh7 rxd5 ehhhhh
+[20:11:34] NG_Life: 21... Qh4 bg2 Qxf3 bxe4 Qg1+ sample line to show threats white has to guard against
+[20:11:50] NG_Life: 22. Qf3 is good, might be only move as far as I can see
+[20:12:20] NG_Life: I quickly played 22... rbe8 to keep time advantage, but now I'm looking knight e5 might have been stronger
+[20:20:42] NG_Life: 27. rc7 Qf6 rxb7 Qc6 rook moves Qc1+ winning rook
+[20:20:57] NG_Life: actually that's checkmate - even better!
+[20:36:41] NG_Life: @Paulze2000 talk here or other chat? I was answering you in the other chat but my notes are here
+[20:37:42] Paulze2000: love your cmment about being board blind...welcome to the club
+[20:37:57] NG_Life: yes >_<
+[20:37:57] NG_Life: if you play 9. bf4 I don't know how I answer that?
+[20:38:12] Paulze2000: yes that was prep..
+[20:38:27] Paulze2000: oh 9Bf4
+[20:39:28] NG_Life: actually can I play 9. Qb5+ then?
+[20:39:28] NG_Life: Qa5+*
+[20:39:43] Paulze2000: do you find using notews helpful...i thonk iot takes time away to type
+[20:40:14] NG_Life: yes because I like to remember what I was thinking later... I save my LoneWolf games in a study and review after season end
+[20:40:29] NG_Life: if I don't take notes I just look later and think "why did I play that move, it looks garbage"
+[20:40:29] Paulze2000: i am going to have to try that
+[20:40:59] Paulze2000: do you have a coach
+[20:40:59] NG_Life: no, no coach
+[20:42:00] Paulze2000: i found him  here Gm Morandy  from poland. He sent me a lot of opening files icluding the symmetrical English
+[20:42:31] NG_Life: I love the symmetrical English, I have played the English since I was 1200 and when I face with black I always play c5 symmetrical
+[20:43:32] NG_Life: I really debated 8... Qa5+, the db says both moves are played Qa5+ sharper more decisive games
+[20:44:02] Paulze2000: these online  games are training games  for me  My love is for OTB tournament chess
+[20:44:17] Paulze2000: ill be plaing in one next weeked
+[20:44:48] NG_Life: We had a baby last year so I think it will be a few years before I can go to another OTB tourney
+[20:45:18] Paulze2000: you n=mean istead of ed5
+[20:45:18] NG_Life: Yes
+[20:45:33] Paulze2000: i had that moved prepped
+[20:45:48] NG_Life: In db it's 55% Qa5+ 45% exd5, a lot more draws for exd5
+[20:46:04] NG_Life: I wanted to quiet the game down, because we were in your prep, exd5 looked calmer so I played that
+[20:46:19] NG_Life: gl in your tourney, what OTB tourney are you playing in?
+[20:46:49] Paulze2000: a local for Pennsylvania
+[20:47:04] Paulze2000: i have 3 other toureys lined up for thesummer
+[20:47:04] NG_Life: very nice
+[20:47:20] Paulze2000: im on the floor at 1800  uscf
+[20:47:20] Paulze2000: fyi im 76
+[20:47:50] NG_Life: very nice, chess is fun at every age. I am in my 30s and enjoying it more than ever.
+[20:47:50] Paulze2000: my highest was 2104 back in the early 90's
+[20:48:20] Paulze2000: but rating deflation  with all the kids playing..they stel my rating points and i stay on the floor
+[20:48:51] NG_Life: I only ever went to one OTB tournament, so I don't know if I have a USCF rating yet, and that was many years ago
+[20:49:21] Paulze2000: seems my lichess rating is stuck too..cant seem to sustain an over 2000 rating..but acttally im leanring not to care about the rating here
+[20:49:36] Paulze2000: these are training games for me
+[20:50:07] Paulze2000: you wol probably be around 1800  i would think
+[20:50:37] NG_Life: for the game I think you were clearly better with 12. nc7 but nd6 seemed a little weaker to me, what do you think?
+[20:51:38] NG_Life: I think if you play nc7 I have to play ra7 a little awkward
+[20:52:54] NG_Life: on 11 I didn't like my position at all, but by 14-15 I thought I was equal or better it seems you went awry there somewhere
+[20:52:54] Paulze2000: ya but then you could play  b6 and my N o9n c7 is doesnt have many squares
+[20:53:24] NG_Life: yes hmm
+[20:53:40] Paulze2000: i thought about i thinking a quick draw...but the after Ra7 i coulldnt go back to b5
+[20:53:55] NG_Life: that's right, I saw that too
+[20:54:25] NG_Life: hmmm, when do you think you lost the advantage then?
+[20:55:11] Paulze2000: so i decided to exchange for the bishop pair...and now iim thinking my B on g2 has no opposition
+[20:55:56] Paulze2000: i think my Rd2 was where i started to go worong..i saw you a6 and now i have to do soemthing about my B
+[20:56:42] NG_Life: It looks like the engine wants 12. nbxd4, playing the knight in was wrong on both squares
+[20:56:42] Paulze2000: stockfish thinks my Nd6 was a mistake
+[20:56:57] NG_Life: man it wants me to sack the b7 pawn I would never do that
+[20:57:28] NG_Life: It looks like it was equal
+[20:57:43] NG_Life: way longer than I thought
+[20:57:58] Paulze2000: i saw that too you arent sacoing it you just givining it back
+[20:58:13] Paulze2000: you are a pwan up at this point
+[20:58:28] NG_Life: yes but I like b7 more than the doubled center pawns, I would rather keep b7 and give back d4
+[20:58:44] NG_Life: the engine is right of course, like always, but I just mean I would never think of doing that
+[20:59:14] Paulze2000: we think statically
+[20:59:29] NG_Life: yes
+[21:00:00] Paulze2000: iit wold take time for me to capture the b7 pawn in the mantime you can get you peices coordianted  by constantly haraasssing my N on b7
+[21:00:30] Paulze2000: and you hang on to your light square bishop[
+[21:00:30] NG_Life: 29.... f3 requires a lot of analysis, I didn't have enough time e.g. 29... f3 exf3 re1+ kg2 is not easy to see that's winning with time
+[21:01:00] NG_Life: rxe2 more practical, I'm surprised it's completely equal though, I thought I was better
+[21:01:00] Paulze2000: i was actually thinking about Ne1  to set up a blockade on d3
+[21:02:01] NG_Life: ne1 letting the Queen in feels very dangerous but Qf3 really holds everything together more than I thought
+[21:02:17] NG_Life: then I missed 22... ne5 because I played too fast, wanted to keep pressure with your low time
+[21:02:17] NG_Life: I saw it after I played rbe8
+[21:02:17] Paulze2000: my coach will be going over this game with me on thursday
+[21:03:02] NG_Life: it was a very, very interesting game, I liked it a lot
+[21:03:17] Paulze2000: yes....always try to learn from every game
+[21:03:33] NG_Life: symmetrical english is very rich, you can get all kinds of different positions from it depending on how you want to play
+[21:04:03] Paulze2000: have to play d4 for white
+[21:04:49] Paulze2000: 12 Nbxd4  seems to be the way to go
+[21:04:49] Paulze2000: keep the game simple
+[21:05:04] NG_Life: yes, simple and equal, we played more excitingly and got a different mostly equal position though
+[21:06:05] NG_Life: after 17... gxf4 the position is crazy and only small black advantage, chess is very rich
+[21:06:35] Paulze2000: but i couldnt resist the outpost on d6.  but after you castled didnt lead to much...except me wasting time exhanging you B  that hadnt movED
+[21:06:50] NG_Life: yes
+[21:07:05] Paulze2000: for my N which moved for the 4th time
+[21:07:21] NG_Life: by the way here's a crazy idea:
+[21:07:36] Paulze2000: anyhow thats for the game i need to eat
+[21:08:06] NG_Life: 14... h6 g4 nh4?? nxh4 Qg4 bg3 1-0 but if there's no d pawn you can't play bg3 because of an x-ray on the Queen
+[21:08:06] NG_Life: so I thought about sacking d pawn to try to get this to work
+[21:08:37] NG_Life: good game, thank you for the game, enjoy your meal!
+[21:08:37] NG_Life: And good luck in your OTB tourney!
+[21:08:52] Paulze2000: next time i play i am going t try using notes
+[21:09:07] Paulze2000: can you save the notes as paert of the game?
+[21:10:08] Paulze2000: good luck in the rest of the games
+[21:10:23] Paulze2000: im out
+[21:10:23] NG_Life: @Paulze2000 unfortunately no, I don't think so
