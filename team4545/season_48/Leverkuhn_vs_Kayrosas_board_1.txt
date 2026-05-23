@@ -1,0 +1,115 @@
+Lichess game chat log
+Game      : https://lichess.org/Qt1kNeys
+White     : leverkuhn
+Black     : kayrosas
+Time      : 45+45
+Captured  : 2026-05-23 22:16:44 UTC
+Game ended : 2026-05-23 20:56:39 UTC
+Messages  : 105
+────────────────────────────────────────────────────────────
+
+[18:06:06] Kayrosas: well, let's see if they prepped anything here. didn't find any games of them in this line so a bit vulnerable perhaps
+[18:06:37] Kayrosas: if they didn't check recent games 3...c5 mightve come as a surprise, but I don't think so
+[18:09:55] Feet_Barbie: (9...Re8) go lk
+[18:10:26] fulmarsky: Go Kayrosas!
+[18:12:12] Kayrosas: 11...Nbd7 still in prep so far, but i think this is one of white's more solid tries
+[18:12:27] Kayrosas: 12.Bf4 Ng4 is still a move I know here
+[18:12:58] fulmarsky: (12...Ng4) wow in opening prep still... such tension... tenseness...
+[18:13:28] Kayrosas: I expected to get into some annoying line in the queens indian so I'm quite happy with the opening outcome
+[18:16:31] Kayrosas: 13.Bxd6 Qb6 Bf4 c4 e3 Qxb2 ofc. c4 is a nice inclusion there to minimise counterplay
+[18:18:18] Kayrosas: I think 13.Qc1 is in my files still, but probably will have to think by myself next move
+[18:26:10] Kayrosas: trying to figure out if there's any difference between 13...Nge5 and Nde5
+[18:30:29] Kayrosas: probably not. Nde5 just feels a bit better if they decide to decline the trade. but I don't think that's good for white either way
+[18:30:44] WadeWilson: and now white goes Nd2
+[18:32:46] Kreia: lol
+[18:33:01] Kayrosas: huh
+[18:34:02] Kayrosas: I thought 14...g5 is quite nice, maybe is
+[18:34:02] Kreia: g5 very tempting here
+[18:34:48] Kayrosas: it creates a hook white can use with f4, but usually my dsb should be strong enough there
+[18:35:49] WadeWilson: I thought it's somewhat beneficial for white since Bf5 isn't possible anymore
+[18:37:35] Kreia: Does the bishop want to go there? e4 will come
+[18:37:51] WadeWilson: does white want to play e4?
+[18:38:06] Kayrosas: shoutout to all the bishop pair fans
+[18:38:21] Kreia: I assume.. what else is white doing if not the e4 + f4 thing
+[18:39:22] Kreia: eventually black is going to find play on the b file I guess
+[18:39:22] WadeWilson: hm
+[18:39:53] WadeWilson: seems like white wants to clamp down on f5
+[18:40:23] Kayrosas: 16...h5 would be fun to play but I'm leaning towards Ng6
+[18:40:38] WadeWilson: not sure I like Ng6
+[18:41:24] Kayrosas: Qd7 also interesting
+[18:41:39] WadeWilson: I think white always has Nf1
+[18:44:42] Kreia: I don't want to retreat the nice knight if not necessary hm
+[18:44:57] WadeWilson: what about the nike knight
+[18:45:12] WadeWilson: do you want to retreat it
+[18:45:12] WadeWilson: make it nighty knight for it?
+[18:45:28] Kreia: jigglypuff
+[18:45:43] WadeWilson: :val_pout:
+[18:47:45] Kayrosas: I really want to sac h7 but I can't justify it :(
+[18:50:48] Kayrosas: h5 feels a bit loose but I didnt see a way to exploit it and I potentially want g4 supported in an endgame
+[18:52:04] Kreia: I guess we're taking the eventual Nf5
+[18:55:37] Kayrosas: I was thinking 17.Bf5 Bx Qx Qf6 but maybe Bf5 Qf6 also an option. not sure how weak b7/d6 are if I keep the queens on
+[19:08:03] Kayrosas: 17...Ng4 h3 Nh6 seems like a nice reroute but not sure what better options than h3 white has
+[19:10:05] Kayrosas: usually i wanna play Rb8 and b5 but I think I committed too much on the kingside to ignore
+[19:16:56] Kayrosas: 18...Rb8 just making sure Nb6 never comes with tempo after Qf6
+[19:17:27] Kayrosas: I underestimated my weakness on f5 a bit in hindsight I guess
+[19:21:00] Kayrosas: difficult to judge if/when I'm allowed to go h4
+[19:24:02] Kayrosas: Bd7-b5 is a nice short plan I have if white is passive. or h4, but maybe forcing too much there
+[19:29:38] Kayrosas: expected 20.Nb6 or Ra3. this is a bit of a surprise
+[19:30:23] Kayrosas: Rxe4 Qxe4?? Bf5 would be nice
+[19:34:57] Kayrosas: almost as if they calculated Rxe4 doesn't work, cant have fun in classical :(
+[19:40:17] Kayrosas: 22.Nxc4 now either Bd7-b5 or try the weird h4 business
+[19:52:58] Kayrosas: 24...Qd8 not sure what this position demands
+[19:56:01] Kayrosas: definitely cant allow e4 with some 26...Kf8
+[19:56:46] Kayrosas: ideally I just get to put a rook on e3
+[19:58:17] Kayrosas: 27...Re3 Be4 seems a bit awkward but I have Bd4 and f5 in time probably
+[20:05:54] Grzybozbur: nde3 already looked bad when white played it, and it keeps looking worse and worse with every next move
+[20:06:25] Kayrosas: i think I'm winning a5 in the end
+[20:06:55] Kayrosas: didnt even consider Qe4, huh
+[20:07:56] Kayrosas: still winning a5 I guess
+[20:08:26] Kayrosas: opposite coloured bishops but a nice majority
+[20:15:18] WadeWilson: but it's a silent majority
+[20:20:52] Kayrosas: i think the key might be a5+b5 when there is no Bd3 in response to a5 and get 2 passers
+[20:21:53] Grzybozbur: the key might be the fact that white has just opened files for the black rook
+[20:23:55] Grzybozbur: hm
+[20:24:56] Grzybozbur: can anyone explain to me why white played f4 and why black didn't take it?
+[20:26:58] Kayrosas: idk, g4 was maybe too much
+[20:27:28] Kayrosas: but my point is 42.Bd3 Rc8 and get in b5 that way
+[20:27:43] Kayrosas: but ofc I gave white a bit much to create a blockade somehow
+[20:29:15] Kayrosas: 43.e4 seems like a bit much
+[20:29:45] Kayrosas: now do I have enough time for a kingwalk or not
+[20:34:34] Kayrosas: 47. Re2 Kc7 e5 Kb6 i think is good
+[20:35:20] Kayrosas: not sure if white has enough activity to justify b6+ after Kc7
+[20:45:44] fulmarsky: (55.bc4) tense
+[20:47:16] Zolaconcabeza: Why are White pawns in blacks side and black pawns in Whites side xd
+[20:48:47] nyanners: i think your board is flipped
+[20:48:47] nyanners: maybe a glitch
+[20:51:19] Zolaconcabeza: Oh thx
+[20:53:06] Kayrosas: 58.Bxf5 Rxf5 is funny
+[20:56:09] nyanners: gg :o
+[20:56:09] Zerk30: gg
+[20:56:09] jfiras: gg !
+[20:56:24] fulmarsky: tense, gg
+[20:56:39] Leverkuhn: I felt like 46...Kd8!? was the move that gave me almost too many plans
+[20:56:54] Leverkuhn: possibly I chose that only one that didn't hold
+[20:57:55] Leverkuhn: tried to be too concrete, but missed the beautiful 53...Kb6, 54...Kc7!! maneuver
+[20:58:25] Kayrosas: I expected you to go for Re2+e5 ideas around there
+[20:59:11] Leverkuhn: my first instinct was 47.b6 sacrificing the b-pawn for the c6-square
+[20:59:41] Leverkuhn: possible but hard to assess
+[21:00:27] Kayrosas: oh wow 20...Rxe4 was possible after all
+[21:00:57] Leverkuhn: whoa is in an engine-influenced comment?
+[21:01:13] Kayrosas: yea
+[21:01:28] Leverkuhn: oh I prefer to avoid engine input
+[21:01:28] Kayrosas: fair
+[21:05:16] Leverkuhn: interesting opening
+[21:05:46] Leverkuhn: possibly the 17.Nd1 move was too extravagant
+[21:06:32] Leverkuhn: I originally planned 20.Ra3, but wasn't finding the right way around the coming ...h4 and ...Qh6 counterplay
+[21:07:33] Leverkuhn: 20.f3 was (I thought) safer, but Black chose an excellent time to switch from the unusual to the standard with ...Nxc4 and ...Bc8-d7-b5
+[21:07:48] Leverkuhn: I never achieved the lsb trade that needed to happen and only Black could be better
+[21:08:18] Leverkuhn: conceivably the 'automatic' 19.a5 was incorrect for that reason
+[21:09:04] Leverkuhn: 26.Bh7+? unfortunate blunder missing that I obviously can't continue with e4
+[21:09:04] Kayrosas: yea Nd1 surprised me a lot, I thought you were just gonna go Bf5
+[21:10:20] Leverkuhn: it was the greed, I was hoping to wait for you to spend a tempo on the lsb first
+[21:10:35] Leverkuhn: but 17.Bh7+ followed by 18.Bf5 might have been the correct approach
+[21:11:51] Leverkuhn: 17.Rab1 also was a candidate for me
+[21:14:08] Leverkuhn: alright, thanks for the interesting game
+[21:14:54] Kayrosas: thank you too ^^
