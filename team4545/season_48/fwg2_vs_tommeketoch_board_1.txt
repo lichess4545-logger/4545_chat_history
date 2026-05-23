@@ -1,0 +1,116 @@
+Lichess game chat log
+Game      : https://lichess.org/cpsOTQ4N
+White     : fwg2
+Black     : tommeketoch
+Time      : 45+45
+Captured  : 2026-05-23 21:25:06 UTC
+Game ended : 2026-05-23 20:05:01 UTC
+Messages  : 106
+────────────────────────────────────────────────────────────
+
+[18:06:18] ecoarrivazumashoomzo: gogo fwg2!
+[18:06:18] fwg2: hi eco :)
+[18:06:18] fwg2: I'm assuming they go c5
+[18:06:18] fwg2: and there we go
+[18:07:19] fwg2: I knew they'd essentially play c4 prep up to a change of moves
+[18:07:50] fwg2: 5...e5 -> I think I played this a couple of weeks ago
+[18:08:05] fwg2: move should be 6. a3
+[18:10:22] Inter-temporal: (6) (6...Nge7) to tom!  [streaming]
+[18:10:22] fwg2: I hope I'm not misremembering because there are two quite similar lines. Either I play b4 and sac the pawn or I castle and go Ne1-c2-e3
+[18:10:22] Inter-temporal: (6) (6...Nge7) https://www.twitch.tv/thechessrunner
+[18:10:52] Feet_Barbie: (6...Nge7) go chessrunener
+[18:13:40] fwg2: I hope the idea Ba3 Nb5 works...It looks good and I doubt they'll take the free pawn
+[18:14:41] fwg2: (8. axb4) It seems they might indeed want the free pawn
+[18:15:11] fwg2: Unless I'm misremembering my prep, this is very dangerous
+[18:16:12] fwg2: (9. Ba3) Greedy greedy
+[18:18:29] fwg2: I feel like I should start calculating different lines where e4 appears...Nb5 is very committal
+[18:19:00] fwg2: my internet seems pretty spotty btw...every couple of min I see the red "reconnecting"...hope there won't be any issues
+[18:20:16] fwg2: But long story short...I think Nb5 -> Bd6 -> Bc7 is very much a threat
+[18:22:48] fwg2: (9...Ba3) If Na6, I need to think a bit...But I'm okay with the pawn sac
+[18:22:48] nyanners: LOVE those for white
+[18:28:23] HighonPotnuse: go tom!
+[18:33:27] fwg2: (10. Nb5) I hope I didn't just blunder, but all of the e4 shenanigans seem to go in my favor
+[18:41:19] fwg2: no, 11...a6 just doesn't work, no?
+[18:44:52] Inter-temporal: (14) (14.Qxa1) Bc7 was sneaky
+[18:47:54] ecoarrivazumashoomzo: this is way less clear than i hoped after bc7...? what am i missing
+[18:48:55] fwg2: maybe the position isn't as bad for them as expected...3 pieces for queen and 2 pawns (I think)...is still fighting but I think I have
+[18:48:55] fwg2: the edge
+[18:49:26] ecoarrivazumashoomzo: i guess i was only looking at qe8 nd6 xd
+[18:50:27] fwg2: 1 pawn
+[18:51:12] ecoarrivazumashoomzo: fun game ahead, good luck fwg2
+[18:58:03] fwg2: (20. d3) I feel like I'm winning a piece...but I don't like my king safety atm
+[18:59:34] fwg2: If e4 dxe4 dxe4 Bc3...then I think Ke2 is losing to Nd4...but maybe Kf2 works???
+[19:04:24] fwg2: I'm hoping Bc3 Rd2 doesn't kill
+[19:07:26] fwg2: need to recalculate the Ke2 line....maybe Ke2 Kd3 secretly works...what a mess
+[19:11:30] fwg2: (N2. g4) Now I feel my life is easier as I have Kf2 as wel.
+[19:14:48] guitarspider: (25.Bf1) I get the feeling castling instead of g4 was much easier to play
+[19:15:18] guitarspider: (25.Bf1) at best that bishop ends up on g6 not doing much, at worst it still gets trapped
+[19:15:33] Inter-temporal: (25) (25.Bf1) was this a literal Queen's gambit?
+[19:16:49] fwg2: I'm a little worried at how quickly I''m playing tbh...but I am 'ok' with this position for now
+[19:17:20] guitarspider: (25.Bf1) I wonder if Bc3+ Kf2 Rd2+ Ke3 can be played
+[19:17:50] guitarspider: (25.Bf1) it looks insane but I don't know how Black handles all of their attacked pieces
+[19:20:38] fwg2: (26. Kf2) my bishop is doing some heavy lifting
+[19:22:55] fwg2: Ke2 or Kg2...that is the question
+[19:23:25] Inter-temporal: (26) (26...Rd2+) 3. :)
+[19:24:11] fwg2: If Ke2, I need to make sure Ned5 does not work...
+[19:27:44] giziti: I don't think there's a good discovered check here
+[19:28:29] giziti: actually maybe there is something, I guess I need to actually calculate
+[19:29:30] ItsASecret2000: (28.gxh5) it's scary but i think white should survive
+[19:35:05] giziti: is there time to get the other knight in? like gxh5, Ng6 before White untangles?
+[19:35:21] fwg2: (28. gxh5) I think I may have underestimated gxh5 for black. Let's see if they play it
+[19:39:55] fwg2: If 29...Nf6, is it a forced draw?
+[19:42:27] giziti: we're going for a walk!
+[19:43:58] giziti: I gu ess Bd6 f8...
+[19:45:45] giziti: nice
+[19:45:45] nyanners: the smoke has cleared
+[19:46:00] Inter-temporal: (35) (35.Rg1) (32) amazing
+[19:46:15] nyanners: now to avoid Bc4 Rg8# XD
+[19:46:15] nyanners: i think black can do it
+[19:46:30] giziti: yeah I mean Ng6 (either)
+[19:47:01] fwg2: Bc4 first...
+[19:47:01] nyanners: talk about prophylaxis
+[19:47:31] giziti: too much stuff around for stalemate tricks
+[19:50:03] giziti: hmm black does have to worry about back rank tricks (eg Ra1) but this should be fine
+[19:50:49] Inter-temporal: (36) (36...Rg2)  bring everyone back home
+[19:50:49] nyanners: 5% of black flagging? probably not :o
+[19:50:49] giziti: maybe there is enough time for stalemate tricks given that.
+[19:50:49] giziti: Ra1 now!
+[19:51:19] nyanners: i guess the idea is ne7
+[19:51:19] nyanners: white has to go with the motions regardless
+[19:52:20] nyanners: fair enough too i guess
+[19:53:36] giziti: b6!
+[19:53:36] nyanners: i like the pawn on b7
+[19:53:36] nyanners: though yea theres that One Weird Idea
+[19:53:52] giziti: b6 doesn't quite work because Ne6 but
+[19:54:07] giziti: b6 now!
+[19:54:22] nyanners: but why? XD id leave the pawn there too
+[19:54:22] Inter-temporal: (43) (43.Rc3) b6 and Rc7, but Black's N seems to defend?
+[19:54:52] nyanners: but yea it should be good. it somehow feels more correct to prevent Rc6
+[19:55:38] nyanners: but it really shouldnt matter
+[19:56:54] Inter-temporal: (47) (47.Kg3) "Never trap Tom's Q"--Capablanca
+[19:59:11] giziti: I don't really like f4, now the king has less cover
+[19:59:57] nyanners: anything concrete here? not seeing it
+[20:00:12] nyanners: surely this was entirely in black's favour
+[20:00:58] Inter-temporal: (51) (51.Kf4) white sees just two more pawns to trade [*praying hands emoji*]
+[20:00:58] nyanners: i suppose the idea was Kg5
+[20:01:28] nyanners: but now white is te one risking losing a pawn..
+[20:01:59] nyanners: seems bluff callable, like, Nc4
+[20:02:29] nyanners: Nd7 probably "safer"
+[20:02:44] nyanners: maybe even Ng6 funnily enough, like Re6 Kb5 and win that way
+[20:05:01] Inter-temporal: (57) (52.Re3) gg
+[20:05:17] Pineapplechiffoncake: Gg!
+[20:05:17] guitarspider: gg
+[20:05:32] FinErik: gg
+[20:05:47] fwg2: crazy game
+[20:06:32] fwg2: afteer 11.a6, I wouldn't have guessed e4 is best
+[20:06:48] fwg2: it's so boring almost haha
+[20:06:48] fwg2: but I see why
+[20:07:18] fwg2: apparently 21. e4 is wrong...should've castled
+[20:07:33] fwg2: the safe option...
+[20:08:04] tommeketoch: I am going through the game on stream
+[20:08:34] fwg2: which stream?
+[20:08:34] fwg2: link pls
+[20:09:50] Inter-temporal: https://www.twitch.tv/thechessrunner
+[20:09:50] fwg2: thx
+[20:10:21] Inter-temporal: oc. :)
+[20:23:46] fwg2: nice recap
