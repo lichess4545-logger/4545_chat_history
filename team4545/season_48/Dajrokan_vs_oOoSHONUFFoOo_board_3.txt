@@ -1,0 +1,187 @@
+Lichess game chat log
+Game      : https://lichess.org/VDr2cTy3
+White     : dajrokan
+Black     : oooshonuffooo
+Time      : 45+45
+Captured  : 2026-05-23 22:00:07 UTC
+Game ended : 2026-05-23 20:40:00 UTC
+Messages  : 177
+────────────────────────────────────────────────────────────
+
+[17:37:20] aldric123: (1...c5) Let's go oOoSH!
+[17:37:20] oOoSHONUFFoOo: Hi Inter and aldric
+[17:37:20] aldric123: (1...c5) Hi!
+[17:37:20] Inter-temporal: (4...g6) go oOoSHO!
+[17:39:07] aldric123: (8.h4) oooh the relatively early h4. Aggressive.
+[17:40:08] aldric123: (8.h4) I almost feel like white can't do h5 next move without losing it to Nxd4 Qxd4 Nxh5, but I don't know if that's true
+[17:41:09] aldric123: (8.h4) Not sure the most constructive move for Black here if it's not something like d6
+[17:41:09] Inter-temporal: (8) (8.h4) even there, maybe not such an easy decision for black
+[17:41:55] aldric123: (8.h4) In these lines isn't black's point often to play d5 directly without playing d6? To gain a tempo. But with h4 in the mix, I have ...
+[17:41:55] aldric123: ...no idea. I don't quite play these lines
+[17:42:40] Inter-temporal: (8) (8.h4) maybe smth drastic like ...d5, e5 Nxd4, Qxd4 Nd7 or smth
+[17:42:56] aldric123: (8.h4) maybe
+[17:43:11] Inter-temporal: (8) (8.h4) oh, but the d-pawn doesn't survive
+[17:43:26] Inter-temporal: (8) (8.h4) see. that's why i can't play bullet. takes me a minute to talk myself out of bad moves
+[17:43:41] aldric123: (8.h4) I think maybe if it's that line you jump straight in with d5 e5 Ne4
+[17:43:56] Inter-temporal: (8) (8.h4) ahhh. yes. "Always play ...Ne4"--Capablanca
+[17:44:12] aldric123: (8.h4) Instinctively d5 feels like the right move, but finding the exact lines are tricky
+[17:44:27] aldric123: (8...d6) he goes for the "safer" way
+[17:44:57] Inter-temporal: (8) (8...d6)  wants to be sure the water is warm before diving in
+[17:45:43] aldric123: (10.h5) Yeah he wants to play h5 without the other line I mentioned, so trades the knights first
+[17:46:59] aldric123: (10.h5) h6 could be annoying, have to look at ways to mitigate that idea or do something yourself
+[17:47:14] Inter-temporal: (10) (10.h5) ...h6, hxg6 fxg6, Bc4+ Kh8,
+[17:47:14] aldric123: (10.h5) or white's thinking of going truly crazy and playing g4
+[17:48:30] Inter-temporal: (10) (10.h5) but after Bc4+ e6 is possible too. but i just don't want to be pinned
+[17:49:31] aldric123: (10.h5) I think I ignore the kingside stuff and play a5 with ideas of perhaps just Ba6 among others
+[17:49:47] aldric123: (10.h5) I'm not sure the kingside stuff is dangerous quickly
+[17:50:48] Inter-temporal: (10) (10.h5) maybe the N-trade was helpful for black
+[17:52:49] Inter-temporal: (10) (10.h5) ...Nxh5, Bxh5 gxh5, Qxh5 e5, seems  defensible
+[17:53:35] aldric123: (10.h5) I think it might be defensible, but I don't know if I like it that much
+[17:53:50] Inter-temporal: (10) (10.h5) yeh. just thinking of trading off white's lsb
+[17:53:50] aldric123: (10.h5) I think I like 10...Qb6 or 10...a5 myself
+[17:54:21] Inter-temporal: (10) (10.h5) then 11.h6 he won't like it
+[17:54:36] Inter-temporal: (10) (10...Qa5) or he's fine with it. lol
+[17:54:36] aldric123: (10...Qa5) I was also thinking of this, but decided I liked Qb6 a bit more
+[17:55:52] aldric123: (10...Qa5) The nice thing about this too though is next move potentially he can do your line but include queen trades, so it's pure ...
+[17:55:52] aldric123: ...bishop pair advantage without slight worry about being attacked
+[17:57:08] Inter-temporal: (10) (10...Qa5) nice. maybe i see ghosts with h6. just bad memories. lol
+[17:57:08] aldric123: (10...Qa5) Also can offer bishop trade with Ba6 if he wants or do Rb8 to tie down the DSB
+[17:57:23] aldric123: (10...Qa5) In this exact case h6 doesn't seem to do much after Bh8
+[17:57:38] aldric123: (11.hxg6) Sometimes it's nasty though
+[17:58:09] Inter-temporal: (11) (11.hxg6) ...Ba6 seemed like a luxury. but  maybe?
+[17:58:39] Inter-temporal: (11) (11.hxg6) maybe we get enough time to trade that dude
+[17:58:54] aldric123: (11.hxg6) Yeah hx seems for sure better than fx
+[18:00:11] Inter-temporal: (11) (11...hxg6) whew! survived the first wave with just little dramas
+[18:00:41] aldric123: (11...hxg6) If he doesn't want to trade the bishops Be6 doesn't look horrible either, but that's before seeing what White's move is
+[18:02:12] aldric123: (11...hxg6) If Bd2 I wonder what to do hmm
+[18:02:43] Inter-temporal: (11) (11...hxg6) expecting Re1 if Ba6, Bf3
+[18:03:59] Inter-temporal: (12) (12.Bf4) okay. allows the lsb trade. i'd take it...
+[18:04:14] Inter-temporal: (12) (12.Bf4) but i play caveman chess
+[18:04:29] aldric123: (12.Bf4) I dunno, I'd also consider a knight move here, perhaps Nh4
+[18:04:45] aldric123: (12.Bf4) which also threatens c3 theoretically, though dunno if you you want to trade off DSB for just a pawn
+[18:05:30] Inter-temporal: (12) (12.Bf4) :) ...Nh5 reminds me of Jesse Krai's saying, "pawns are not people!"
+[18:05:45] Inter-temporal: (12) (12.Bf4) (which i'm sure he copied from Capablanca, oc)
+[18:06:31] aldric123: (12...Be6) Ah, the Be6 move I mentioned if he didn't want to trade bishops
+[18:06:46] Inter-temporal: (12) (12...Be6) yeh. "very professional"
+[18:07:17] aldric123: (12...Be6) I don't think I understand the saying about pawns not being people
+[18:07:32] Inter-temporal: (13) (13.Qd2) i'll dm you the link.
+[18:07:32] Inter-temporal: (13) (13.Qd2) oof. i just realized my B1 mate is playing
+[18:07:47] aldric123: (13.Qd2) Ok, go check that game out
+[18:08:18] Inter-temporal: (13) (13.Qd2) i've saved chat from here in case it gets cut off
+[18:09:34] aldric123: (13.Qd2) In positions like this you have to be sure moves like Nd5 don't potentially win a pawn on e7 with the unprotected queen
+[18:10:19] Feet_Barbie: (13...Rab8) go shufflle
+[18:12:36] aldric123: (13...Rab8) I suppose though with b2 hanging and potentially e4 it doesn't really work here
+[18:13:07] aldric123: (13...Rab8) So like Nd5 Qxd2 Nxe7+ Kh7 Bxd2 Rxb2 with both c6 and e4 hanging by both sides
+[18:24:32] aldric123: (14.Rab1) I'd consider Kh7 I think. To take the nastiness out of Nd5 and avoid Bh6
+[18:27:19] nyanners: white's position does not make a great aesthetic impression
+[18:27:34] nyanners: like what was all that kingside demonstration about
+[18:27:34] nyanners: where's the checkmate or whatever
+[18:28:35] aldric123: (14.Rab1) Yeah I agree, and was agreeing a bit ago about h4-h5 not doing a ton
+[18:28:50] nyanners: Kh7 is pretty creative (good!). i feel normal is 14..Rfe8
+[18:29:06] aldric123: (14.Rab1) Oh I agree, just defend e7
+[18:29:06] aldric123: (14.Rab1) I meant I agree it's normal
+[18:29:36] aldric123: (14...Rb7) This also should work at first glance
+[18:29:36] nyanners: oooooohh this is Deep
+[18:29:36] nyanners: i like it more
+[18:31:07] NxN: why not Bxa2 ?
+[18:31:38] nyanners: looks ugly.....
+[18:31:53] nyanners: didnt even think about that tbh. but even if it does win a pawn i dont like the idea
+[18:31:53] NxN: yes can be refuted ?
+[18:31:53] nyanners: dont see it immediately
+[18:32:24] nyanners: like okay Bxa2 Ra1 Rxb2 everything is hanging
+[18:32:24] nyanners: sucks for someone probably
+[18:32:54] NxN: more than a pawn i think , Bxa2 Nxa2 Qxa2 and e4 , b2 is under attack
+[18:32:54] nyanners: like yeah, if it works, then its two pawns :o
+[18:33:09] nyanners: its a worthy thought
+[18:34:10] nyanners: that said, this is clearly better for black by "normal" means, so at this time situation its probably not the direction id like to consider
+[18:35:57] nyanners: but the reward IS pretty high
+[18:36:12] nyanners: so is the risk XD
+[18:37:43] nyanners: wouldnt it be funny if now black went Rh8 and doubled on h
+[18:38:29] aldric123: (17.b3) Turnabout!
+[18:41:16] nyanners: now no Nd5 as the queen is unprotected
+[18:41:32] nyanners: as well as Nx not being check of course
+[18:42:02] nyanners: i might just start premoving Qxd2 just in case
+[18:42:17] aldric123: (17...Rh8) Hah! oOoSHO is all about the h file white helpfully opened as you suggested
+[18:43:18] nyanners: maybe another path can be Bg4/Ng4 for Qh5 :o
+[18:43:33] nyanners: though f3 is what white "wants" probably
+[18:45:05] nyanners: so its like, ideally maybe doubling on h causes f3, then black can play Qc5+. but yea waaaaaaaayy too many tempi there
+[18:46:21] nyanners: maybe some lines with like Qh5 f3 Qc5+(!) Rf2 Qh5 back
+[18:46:36] nyanners: umm nah Rf1 back i guess XD
+[18:47:22] bronasberger: Go Shonuffo!
+[18:51:56] NxN: Black queen need to find a good place but not e5
+[18:58:46] aldric123: (18...Qe5) Qe5 seems like he's trying to force f4 which forces a queen trade after Qc5+. Not certain why black wanted that though
+[19:02:35] aldric123: (20...Qa5) I'm confused.
+[19:04:36] nyanners: yea whites situation must have improved a bit
+[19:05:53] aldric123: (20...Qa5) He got like 2-3 free tempos
+[19:17:02] aldric123: (23...Bxg4) I think white's Bxg4 wasn't required and black is a bit better than he was before that
+[19:17:48] aldric123: (24.f5) oooh, Black can play Qe5 again and get back into moving the queen to similar squares!
+[19:17:48] aldric123: (24.f5) But this time I like the square
+[19:26:10] aldric123: (24...Qe5) Be funny if white goes Qg3 and black tries to force perpetual with Qc5+ Qe5
+[19:27:42] aldric123: (25.Qg5) Hmm Qc5+ seems to almost force the queen back to e3
+[19:31:45] aldric123: (26.Kf2) Doing Qh7+ instead of Qc5+ seems to place the bishop on g4 in great jeapardy
+[19:32:46] aldric123: (26...Bxf5) OOh I didn't even consider Bxf5, interesting
+[19:33:32] nyanners: what happened here XD
+[19:34:02] nyanners: seems holding for white
+[19:35:18] aldric123: (28...Rf4+) (28.Qg3)Rxf5+ Rf3 Rxf3 Qxf3 or Kxf3 seems problematic
+[19:35:18] aldric123: (28...Rf4+) You can do it this order too I think
+[19:36:04] nyanners: Qxf3 Rf4 but Kxf3 seems alright
+[19:36:04] aldric123: (29.Ke2) I guess I forgot though that the Queen is defended by the rook so king moving isn't a problem
+[19:37:05] nyanners: rf3 i guess?
+[19:38:06] aldric123: (31...Re5+) with 2 pawns for knight and more active rooks at least black can fight in this
+[19:38:22] aldric123: (31...Re5+) Though presumably white is solidly better
+[19:38:52] nyanners: something like that :o
+[19:39:22] nyanners: which is why Rf3 seemed important
+[19:39:38] nyanners: with 1 rook its weird endgame territory but better for white
+[19:50:02] aldric123: (40...cxd5) smash him with all these pawns oOoSHONUFF!
+[19:56:53] aldric123: (44.Kf2) Seems like you have to get the rook somewhere more useful with either Re4 or Rg5 to go to h4
+[19:57:54] aldric123: (44.Kf2) Unless g5 intending f4 next move is a valid plan
+[19:57:54] aldric123: (44...Rg5) seems too likely to trap the rook though
+[20:01:42] aldric123: (47...Rh7) Just Rh7 or 8 intending to either get behind your own pawns or attack b3
+[20:01:57] aldric123: (47...Rh7) oops he played it before I finished typing.
+[20:05:30] aldric123: (50.axb4) if he wins the b pawn or the king gets good position he could turn this yet!
+[20:11:05] aldric123: (52.Kf2) Maybe just g5 intending f4 next move
+[20:22:30] aldric123: (59.Ke3) B pawn should fall now, black should be the one going for the win, dunno if he'd be better but I'd prefer to be him if b pawn ...
+[20:22:30] aldric123: ...falls
+[20:25:18] Inter-temporal: (60) (60.Nd6+) just came from a R v R+N endgame
+[20:26:03] Inter-temporal: (60) (60...Kxb4) but there, the R had fewer pawns too. soooo.
+[20:26:49] Inter-temporal: (61) (61.Rh1) wonder if ...d7 works
+[20:27:35] aldric123: (61.Rh1) I assume you mean d2. I don't think so because of Rd1
+[20:27:50] Inter-temporal: (61) (61.Rh1) ah. gotta flip my coordinates
+[20:28:51] aldric123: (61...Kb3) Rd7 makes the knight go to Ne8 I think
+[20:28:51] aldric123: (61...Kb3) which makes it looks stupid
+[20:29:21] aldric123: (61...Kb3) Well e8 or c8
+[20:31:23] Inter-temporal: (63) (63.Nb5) (61) force the Black R where it might want to go anyway ...h7
+[20:32:39] nyanners: 63..Rc2 and you cant take XD but seems useless
+[20:32:54] nyanners: Rh7 gives a better impression
+[20:34:26] Inter-temporal: (64) (64...Rh1) how to make progress... (in time trouble).
+[20:35:26] Inter-temporal: (65) (65...Kc4) ...Kc4, yeh
+[20:35:57] Inter-temporal: (65) (65...Kc4) aiming for c3 maybe
+[20:36:27] nyanners: rf1 ke3 rf3 wins
+[20:36:27] nyanners: 66
+[20:36:27] aldric123: (66.Rb2) d7 here should win the knight
+[20:37:13] nyanners: probably good but feels a tiny bit unclear
+[20:37:13] nyanners: i prefer this one
+[20:37:13] nyanners: ke5 e3 and no doubt
+[20:37:13] Inter-temporal: (67) (66...Rf1+) lots of tempting ways to make progress
+[20:37:28] nyanners: same here of course
+[20:37:28] Inter-temporal: (67) (67.Kg5) oof.
+[20:37:28] aldric123: (67.Kg5) Yeah this is likely stronger, winning the knight or rook the other way is what occurred to me first
+[20:37:43] Inter-temporal: (67) (67.Kg5) ...e3, yeh?
+[20:37:43] nyanners: yea
+[20:38:14] Inter-temporal: (67) (67...e3) that's too much. might not even need the black rook
+[20:38:14] nyanners: you dont
+[20:39:30] nyanners: just probably not, like, actually literally
+[20:39:45] nyanners: but yea as far as support is concerned i think the pawns make it
+[20:39:45] bronasberger: Good game!
+[20:40:00] nyanners: gg
+[20:40:16] Inter-temporal: gg
+[20:40:16] Utterbawbag: enjoyable watch. thx 2 both
+[20:40:46] Inter-temporal: i saved the early chat, which got cut off
+[20:41:01] oOoSHONUFFoOo: Thanks Inter <3
+[20:44:35] Dajrokan: omg kf3...I would not find that move in a milion years
+[20:46:36] nyanners: kf3 is kinda funny
+[20:46:36] Dajrokan: so hard to find a move in the endgame, rd2 seemd natural, oh well
+[20:46:51] nyanners: very strange mating net with Nb5#
+[20:47:07] nyanners: d2 Nb5+ Kd3 Rc3#
+[20:48:23] Dajrokan: what is even lesson from this endgame, no idea
+[20:51:10] Dajrokan: good night, thanks for the game
