@@ -1,0 +1,66 @@
+Lichess game chat log
+Game      : https://lichess.org/20FOwsMf
+White     : gpetris
+Black     : sednomini
+Time      : 45+45
+Captured  : 2026-05-23 17:51:10 UTC
+Game ended : 2026-05-23 16:31:05 UTC
+Messages  : 56
+────────────────────────────────────────────────────────────
+
+[15:02:48] Minot: Go gp
+[15:03:04] Pineapplechiffoncake: Go sed!
+[15:24:07] bufferunderrun: let's go gp!
+[15:43:24] berndwind: Go go sed!
+[15:52:32] RPCX: i feel like white is better but it feels pretty difficult to break through on the queenside
+[15:53:33] PonderInSilence: (19.a3)  What makes you feel that white is better?
+[15:55:35] RPCX: white has a nice rook black will need to figure out  how to deal with a eventual kingside break with g4/f5 if black wants to dislodge -
+[15:55:50] RPCX: the rook they need to remove their knight from its outpost
+[16:11:49] bufferunderrun: 23.f5 seems alright
+[16:27:17] bufferunderrun: I don't like this for white
+[16:32:52] SedNomini: Nice opening choice! I didn't see it coming, it wasn't in my prep, so I was playing just straight repertoire
+[16:33:37] SedNomini: I see this as the Nimzo, but the opening DB is calling it the French Alekhine Chatard Attack?
+[16:34:23] SedNomini: I guess I didn't even consciously recognize it as a French, which I have actually had a lot of trouble with in the past
+[16:34:23] bufferunderrun: gg
+[16:34:38] gpetris: I guess the first 8 or 9 moves were just standard preparation against the French, although initially I was going for a different opening.
+[16:35:24] SedNomini: I definitely did not know that the main move for black was Bxg5 on move 6
+[16:35:24] gpetris: It was a Jobava London transformed into a French...
+[16:36:25] SedNomini: Jobava london would have been something like Bf4, e3 sort of structure?
+[16:37:25] SedNomini: Qh5 was a nice trapping kind of move, I really had to calculate the loss of the Rook on h8 if I initiated the captures
+[16:38:11] gpetris: Yes, Bf4 and e3 would be the standard continuation for a Jobava London.
+[16:38:57] gpetris: I think there was some attacking potential at the end of the opening, but I was not able to capitalize on it.
+[16:39:12] SedNomini: Move 10 seems to be a completely new game as far as I can tell?
+[16:39:27] SedNomini: I think you're right...
+[16:39:57] SedNomini: I kept waiting for your N to mobilize and then come crashing into the Qside
+[16:40:43] SedNomini: I almost wonder if the trades on a4 let me establish some counterplay and build a better defense?
+[16:40:43] gpetris: I was initially planning something like 10.Bd3 or pushing the K-side pawns.
+[16:41:44] gpetris: But a bishop on d3 would have been kiked easily by your knight, then I changed my plan.
+[16:41:44] SedNomini: that makes sense, the Bb5 move is a nice developing move also
+[16:42:45] gpetris: I felt some urgency of developing the knight and bishop that had not moved yet from their starting squares.
+[16:42:45] SedNomini: The DB has Qg4 as the main move for white...I wonder why
+[16:43:00] SedNomini: again not an engine move, but just what 2400s play
+[16:43:00] SedNomini: lol
+[16:43:30] SedNomini: Yes, development seemed to be essential, I agree especially with Qside castling
+[16:44:16] gpetris: Qg4 attacks black's g pawn, and there is still the option of the rook lift, which I eventually did.
+[16:44:46] SedNomini: I kept getting worried about my Q running out of room on the Qside, so I had to keep calculating replies
+[16:45:47] gpetris: I thought your Q was pretty safe, especially with the knight on c4 controlling a bunch of squares.
+[16:46:33] SedNomini: That makes sense, then g6, f4, Bd7, Nf3 0-0-0 and we basically have a similar structure just with your B on the original square instead ...
+[16:46:33] SedNomini: ...of the N, but your B would have better long term potential than mine
+[16:48:34] SedNomini: ...while still defending
+[16:48:34] SedNomini: The rest of the middle game seems fairly thematic I thought, opening files on the Kside, then fighting for the open file and space, ...
+[16:49:20] SedNomini: I figured the Q trade was pretty good, at least winning a pawn. I wondered about opening the file for your rook, but I figured there ...
+[16:49:20] SedNomini: ...should be tactics if the K went back to the 1st rank
+[16:49:50] gpetris: Longer term maybe, but we never got there. I had to deal with the pressure of your knight and Q, and the need to control d2.
+[16:50:06] gpetris: That seemed to have been the story of the game.
+[16:50:36] gpetris: the fight around d2, I mean.
+[16:50:36] SedNomini: that's true. I kept prepping Kb1, Nd2, and strangely enough, the Q kept some sneaky pressure on the back rank for most of the game
+[16:51:06] SedNomini: Shall we consult the Computer now and see what it says?
+[16:52:38] gpetris: But if, as white, I have to fight around d2, that means that something went wrong earlier on! :-)
+[16:53:38] SedNomini: :)
+[16:54:09] gpetris: Do you see, by any chance, what led me there?
+[16:54:39] SedNomini: honestly, I think it was the trades on a4, a lot of defenders and pressures
+[16:54:54] SedNomini: I felt a lot better when I could trade off those pieces
+[16:58:58] SedNomini: I gotta run to the store with the wife. Thank you for a great game and for analyzing with me. Have a great week and good luck the rest ...
+[16:58:58] SedNomini: ...of the way :)
+[16:59:13] gpetris: The engine has very sensible suggestions.
+[17:03:31] gpetris: Have a good rest of the day!
