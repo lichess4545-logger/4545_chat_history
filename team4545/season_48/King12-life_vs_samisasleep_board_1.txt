@@ -1,0 +1,46 @@
+Lichess game chat log
+Game      : https://lichess.org/ypyWGPFE
+White     : king12-life
+Black     : samisasleep
+Time      : 45+45
+Captured  : 2026-05-24 15:01:46 UTC
+Game ended : 2026-05-24 13:41:40 UTC
+Messages  : 36
+────────────────────────────────────────────────────────────
+
+[11:23:55] King12-life: (15... d5) Not what I had prepped ; also I don't think d5 is a move here, gotta find why
+[11:24:25] King12-life: Right now I'm thinking that a6 is gonna be hanging in several lines, I should be precise though
+[11:26:12] King12-life: Oh wait maybe I can trade everything on d5 and play Nf5
+[11:27:43] King12-life: (17. exd5) Maybe Bd6 is a move but the d5 pawn will still not be hanging
+[11:29:30] King12-life: Alright I'm guessing that I'm better here which would make sense as d5 is not supposed to be playable immediately
+[11:33:03] King12-life: Maybe bxa5 Nb3, and Bd6 h3/h4 Bh2+ Kf1
+[11:35:20] King12-life: (17... bxa5) Nvm Nb3 Bd6 looks annoying and too much to calculate
+[11:38:38] King12-life: Nf5 Bh6 ideas maybe ?
+[11:52:19] King12-life: (18. Nf5) Hesitated between Nf5 Bc5 d6 and Bf4 Bd6, ultimately I think pushing d6 will benefit me more
+[11:58:40] King12-life: (18... Bb4) Ngl I hope that Bh6 is a good move, I really want it to be good
+[12:04:30] King12-life: I don't see a followup after Bh6 gxh6 Qxh6 Ne8... looking at Bd4 now
+[12:06:47] King12-life: (19. Bd4) This looks particularly strong for several tactical reasons : Qg5 ideas, Nxg7 ideas, Nh6 ideas... the list goes on
+[12:16:10] King12-life: (20. Bd3) The good thing about this position is that I can still choose to play it positionnally
+[12:16:25] King12-life: e.g. 20... Bc5 21. Be4 and hold on to the pawn
+[12:21:15] King12-life: (21. Be4) Looks like black's defense holds, somehow... I probably missed something, whatever
+[12:22:00] King12-life: Their king is still weak so it's alright
+[12:40:01] King12-life: (23. Rf1) 23. Bxg7 Qf4 so playing Rf1 instead, to keep the threats and the initiative (hopefully)
+[12:40:31] King12-life: The e4 rook is very unstable and the king is still weak
+[12:40:46] King12-life: e.g. both Bc5 and Bf8 are not playable even though they'd be very good moves
+[12:47:52] King12-life: (25. Nf5) It is still a very complicated game for sure
+[13:03:51] King12-life: (27. Qe2) I just don't see what I'm supposed to do, Nxh6+ ideas don't work, Nc4 is coming and I can't find a way to get counterplay
+[13:08:25] Lucon2000: Isn't this simply winning for black
+[13:08:55] Lucon2000: Bc5 Kh1 Bc4 gg?
+[13:09:26] Lucon2000: :c
+[13:23:23] Duty5521: Nf6+!!
+[13:23:23] King12-life: (34. Nf6+) wait a sec
+[13:23:38] Duty5521: Kh8 Rxh6+!!
+[13:24:09] King12-life: (35. Rxc1) Damn , not over though
+[13:24:55] Duty5521: whats wrong on Qf3
+[13:27:12] Lucon2000: Damn he lucky
+[13:41:56] Pineapplechiffoncake: Gg
+[13:42:11] FinErik: gg
+[13:43:12] jdw10: gg
+[13:43:12] King12-life: @samisasleep You defended very well! I feel like I don't deserve it but it happens
+[13:43:27] samisasleep: Yes i oopsied
+[13:44:43] jdw10: very tense and entertaining game!
