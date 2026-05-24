@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/AVlVrx07
+White     : neothehero
+Black     : madvillain39
+Time      : 30+30
+Captured  : 2026-05-24 10:23:44 UTC
+Game ended : 2026-05-24 09:03:40 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[07:02:40] Neothehero: (9...Nbd7) I'm out of the book here
+[07:04:12] Neothehero: (9...Nbd7) black may want to play e5 now
+[07:04:57] Neothehero: (9...Nbd7) O-O e5 Re1
+[07:05:28] Neothehero: (9...Nbd7) candidates are O-O, Qb3, Be3, Bf4
+[07:06:44] Neothehero: (9...Nbd7) Bf4 first to prevent Qc7  may be a good idea
+[07:07:45] Neothehero: (9...Nbd7) Bf4 Bb4 Qb3
+[07:08:46] Neothehero: (10...Nb6) didn't expect Nb6
+[07:09:16] Neothehero: (10...Nb6)  b3 or Qd3
+[07:10:02] Neothehero: (10...Nb6) b3 Bb4
+[07:10:02] Neothehero: (10...Nb6) Qd3 there is c5
+[07:12:49] Neothehero: (10...Nb6)b3 Bb4 Rc1
+[07:14:51] Neothehero: (10...Nb6) b3 Bb4 Rc1 c5 d5 doesn't work
+[07:17:23] Neothehero: (10...Nb6) Be2 Bb4 O-O Bxc3 bxc3
+[07:19:55] Neothehero: (11...Bb4) Qd3 Na4
+[07:23:28] Neothehero: (12...O-O) candidates are Rc1, Qd3, Bbg5
+[07:24:29] Neothehero: (12...O-O) Qd3 also threatens Qg3 then Bh6
+[07:27:17] Neothehero: (12...O-O) Qd3 c5 dc5 Qd3 Bd3 Bc3 bxc3 I'll have tripled pawns
+[07:29:03] Neothehero: (13.Qd3) c5 there might be Nb4
+[07:30:20] Neothehero: (13.Qd3) I meant Nb5
+[07:33:07] Neothehero: (13...Qe7) c5 possible now?
+[07:34:38] Neothehero: (13...Qe7) c5 Nbd5 Nxd5 seems like there's no trick
+[07:36:40] Neothehero: (14.c5) Bxc3 Qxc3 Na4 Qb4
+[07:38:11] Neothehero: (14...Nc8) Now Qg3?
+[07:38:42] Neothehero: (14...Nc8) or Ne4 to trap the bishop later
+[07:38:57] Neothehero: (14...Nc8) Qg3 Rd8
+[07:39:27] Neothehero: (14...Nc8) Ne4 Nxe4 Qxe4
+[07:44:32] Neothehero: (15.Qg3) Bxc3 Bh6 Nh5 Bxh5 Bxd4 I missed this
+[07:45:02] Neothehero: (15.Qg3) Bxc3 I might need Qxc3
+[07:46:18] Neothehero: (15.Qg3) Bxc3 bxc3 Ne4 Qf3 Nf6 also looks good for me
+[07:50:52] Neothehero: (16...cxd5) I fully expected exd5
+[07:53:40] Neothehero: (18...Bd8) b5 or Rfc1
+[08:32:59] n8otom8o: Does 43... Rf4 save the pawn?
+[09:06:12] Neothehero: wow 63...Kd6 wins for black
