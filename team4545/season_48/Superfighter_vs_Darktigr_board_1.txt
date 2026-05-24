@@ -1,0 +1,100 @@
+Lichess game chat log
+Game      : https://lichess.org/wx5SgbYh
+White     : superfighter
+Black     : darktigr
+Time      : 45+45
+Captured  : 2026-05-24 19:25:07 UTC
+Game ended : 2026-05-24 18:05:02 UTC
+Messages  : 90
+────────────────────────────────────────────────────────────
+
+[16:04:31] simonWasHere: Go Darktigr!
+[16:12:38] Superfighter: (7) No real prep today since my opponent plays many things. I remember vaguely this line as a Kasparov idea. Point is 7...c5 8.Ne5
+[16:15:55] Superfighter: (8) Listening to some Dua Lipa today which is new for me
+[16:18:28] Superfighter: (8) 8...cxd4 9.Bb4+ is supposed to be nice for White somehow. After 8...a6 I guess 9.Be3
+[16:43:51] fireball100: Go Darktigr!
+[17:08:28] Warvold: (13...Bb7) Go darktigr
+[17:08:58] GoldenRetrieverChess: Gooo Darktigr :D
+[17:13:48] simonWasHere: That dsb has been quite busy
+[17:19:23] fireball100: Time to castle?!
+[17:19:53] GoldenRetrieverChess: good call
+[17:25:28] fireball100: Pretty close game. A draw wins the round for us so it can stay close - though a black win would be fantastic!
+[17:28:00] fireball100: Ra d8 perhaps I don't see any huge move here
+[17:29:01] simonWasHere: Was wondering if white could play Ng6 but don't think it actually works
+[17:30:02] simonWasHere: last turn at least, but maybe after Rad8 it would?
+[17:30:17] simonWasHere: probably not though
+[17:30:47] simonWasHere: oh yes, stupid me, because the rook is no longer there
+[17:31:03] simonWasHere: after Rfd8 I mean
+[17:43:43] DavidSifre: Go DarkTigr!
+[17:46:46] DavidSifre: Good to see the whole team turn out for this game.
+[17:48:17] DavidSifre: Lost queen to a discovery check.
+[17:48:48] DavidSifre: About to!
+[17:49:03] DavidSifre: Bxf2+
+[17:49:18] simonWasHere: If only it worked
+[17:49:49] DavidSifre: Why didn’t it?
+[17:50:04] simonWasHere: Queen is protected
+[17:50:19] DavidSifre: Oh sure.
+[17:50:34] DavidSifre: If he sees the knight.
+[17:50:50] simonWasHere: But Ng4 is a cunning attempt to take advantage of the situation
+[17:53:37] DavidSifre: It’s ok. But my way was a lot bolder.
+[17:54:07] simonWasHere: That is very true
+[17:54:53] Grzybozbur: so white has to play for a win here?
+[17:55:24] simonWasHere: yes but it looks tricky to me
+[17:55:39] DavidSifre: If white moves the knight the black queen is attacked.
+[17:55:54] fireball100: Game is down to the wire!
+[17:55:54] simonWasHere: but then your idea works
+[17:56:09] simonWasHere: the knight is kind of pinned to defending the queen
+[17:57:10] simonWasHere: personally I don't see a good move for white but could easily be missing something
+[17:57:56] DavidSifre: Move a rook to defend the pawn.
+[17:58:26] fireball100: If w moves Q - bam N xf2
+[17:58:57] simonWasHere: if rook defends pawn can take the knight renewing the threat to the queen
+[17:58:57] Grzybozbur: maybe trade on d8 and rc1 or something
+[17:59:27] DavidSifre: Take rook with check. Then take the a pawn
+[18:02:00] fireball100: I just don't see a move for white...
+[18:04:17] fireball100: wow what a finish!
+[18:05:02] simonWasHere: gg
+[18:05:02] fireball100: gg!
+[18:06:03] Darktigr: so i think white had to play 22.Rxd8 Rxd8 Kf1
+[18:06:18] Darktigr: 23...Rd4
+[18:06:49] Grzybozbur: or just go on with a middlegame with 19.bb1 or maybe even bc2
+[18:07:04] Grzybozbur: especially in a must win situation
+[18:07:04] Darktigr: oh yeah white went wrong at 19.c4
+[18:07:19] Darktigr: I thought 19.b3 (Qb7 20.Ng4) was best
+[18:08:35] Darktigr: but white's last try was 22.Rxd8 Rxd8 23.Kf1 Rd4 24.Nxg4 (Rxc4 Bxc7 Rxg4)
+[18:09:06] Superfighter: Actually turns out 22.Kf1 is necessary since Whtie needs Qe4 with a fork in the end
+[18:09:36] Darktigr: also 18.a4 was what I was worried about, Rad1 kinda let me off the hook (also Bg5 felt strong)
+[18:09:51] Superfighter: I agree, 18.Rad1 was pretty soft
+[18:10:22] Superfighter: After playing it I considered 18.Bg3 to be a better try
+[18:10:22] Darktigr: i thought after 22.Kf1 black has Rxd1 (Rxd1 Nxe5) and wins a piece
+[18:10:37] Superfighter: Then Qe4 in the end forking rook and knight
+[18:10:37] Darktigr: Bg3 is definitely a solid approach
+[18:11:07] Darktigr: ah i didn't see that the rook hands in the corner
+[18:11:07] Darktigr: *hangs
+[18:11:38] Darktigr: black should still be fine after Rd8 there, if not better
+[18:12:38] Darktigr: looks like we followed a master game up until move 14, when you played Re1 instead of 14.a4
+[18:12:54] Darktigr: i thought after 14.a4 I had to go c4 to not lose b5
+[18:13:39] Superfighter: I considered this but it didn't look all that promising
+[18:13:54] Darktigr: fair
+[18:14:40] Superfighter: White is supposed to play 10.Qa4+ I guess
+[18:14:55] Darktigr: i didn't feel okay out of the opening until 18.Bd5, even though objectively it was fine
+[18:15:26] Darktigr: i knew after 19.c4 I was in the clear
+[18:15:56] Superfighter: I considered it but didn't see what to do after 10...Nd7 11.Bb5 cxd4, but then 12.Bxd7 Bxd7 13.Qd4 is strong
+[18:16:57] Superfighter: The only way to keep the bishop pair is 13...Qc8 which should be better for White with the activity
+[18:17:12] Darktigr: i thought you might play Qa4+, but after Bd7 I get to trade off my bad bishop for your good knight
+[18:18:13] Darktigr: not to mention after 10...Bd7 Nxd7 Qxd7, the queens come off in a must-win scenario
+[18:19:14] Superfighter: Those positions all look very comfortable for White to me
+[18:20:15] Superfighter: Was there any particular reason you chose this opening against me btw?
+[18:20:15] Darktigr: perhaps, but it doesn't look bad enough for black to justify the queen trade and two pairs of minor pieces
+[18:20:45] Darktigr: well i chose the french because your winrate is poor against it
+[18:21:00] Darktigr: i expected you to play the advance variation because of the match circumstance
+[18:21:46] Darktigr: and I've played the Rubenstein enough to feel comfortable holding a draw
+[18:22:01] Darktigr: so the french felt like the right choice
+[18:22:47] Superfighter: Fair enough. I have been playing more 3.Nc3 recently, but have done very little work so I don't really have any prep against the Rubinstein
+[18:23:47] Darktigr: it's very unpopular, but that's because black doesn't get many winning chances. playing for a draw, it's perfect
+[18:24:18] Superfighter: I feel like with some preparation White should have nothing to fear. For instance, I would be very happy playing for a win after those
+[18:24:48] Superfighter: 10.Qa4+ lines if I had looked at them once before
+[18:25:03] Superfighter: But if Black knows their stuff too it's tough to crack
+[18:25:49] Superfighter: Gg and have a good day!
+[18:25:49] Darktigr: i mean i didn't know that line either, just following themes
+[18:25:49] Darktigr: thanks for the analysis
+[18:26:04] Darktigr: gg and bye
