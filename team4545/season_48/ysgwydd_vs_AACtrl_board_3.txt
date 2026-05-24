@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/hPC1sfrA
+White     : ysgwydd
+Black     : aactrl
+Time      : 45+45
+Captured  : 2026-05-24 20:27:45 UTC
+Game ended : 2026-05-24 19:07:39 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[16:35:11] R0B-W: Go, ysgwydd!
+[16:38:14] AACtrl: (3...e6) oh I forgot Nf6, I'm allowing e4
+[16:39:00] ysgwydd: (4.e3) Hi R0B and val!
+[16:39:00] AACtrl: (4.e3) nice!
+[16:39:45] AACtrl: (4.e3) considering f5 just to mix it up
+[16:40:31] BLang316: Go ysgwydd!
+[16:41:01] ysgwydd: (4.e3) In our first encounter I played 4.a3 instead with Bf4. 4.e3 should be a small surprise
+[16:42:33] ysgwydd: (5...Nf6) I thought 4...Nf6 was more likely. But hey it's a ducth now
+[16:43:49] ysgwydd: (6.O-O) I know that AACtrl also plays this kind of setup as white.
+[16:44:34] AACtrl: (6.O-O) Bb4 a3 Bxc3 bxc3 good in this instance?
+[16:45:51] AACtrl: (6.O-O) I wanted the e7 square for my queen and castle long
+[16:46:51] AACtrl: (6.O-O) I could play Nc6 as a waiting move, or Be7 and castle short
+[16:48:08] AACtrl: (6...Be7) too scared of change
+[16:50:55] ysgwydd: (8...Nbd7) Ng5 perhaps
+[16:55:14] ysgwydd: (9.Ng5) I see a weak square, let's attack it!
+[16:56:15] ysgwydd: (9.Ng5) Does look awkward for black
+[16:56:15] AACtrl: (9.Ng5) ah yes, that's why I don't play f5
+[16:56:45] jg777: This is the way ysgwydd!
+[16:57:00] AACtrl: (9.Ng5) guess I'l castle long then... every move a new plan
+[16:57:46] jg777: Yeah e6 is often tender in many Dutch lines. I've fallen multiple times in the Dutch in blitz over the years with forgetting that.
+[16:58:32] jg777: But Nf8 seems annoying but fine for now. Less okay is Bf3 possibly, and it feels like black's good pieces are becoming less so.
+[16:58:47] ysgwydd: (9.Ng5) Nf8 is a sad move
+[16:59:02] jg777: It is a bit sad, but later it has g6 and one could argue is making a case for e5.
+[16:59:17] ysgwydd: (9...Nf8) Here I was thinking Bf3
+[16:59:48] jg777: I like Bf3. Trade off the LSB's and b6 now seems a weakening move.
+[17:02:50] ysgwydd: (9...Nf8) Bf3 d5
+[17:03:21] AACtrl: (9...Nf8) 10.Bf3 d5!? looks iffy
+[17:05:23] ysgwydd: (10.Bb2) ...h6 Bf3
+[17:06:23] ysgwydd: (10.Bb2) ...Ne4 Ngxe4 fxe4 d5 should be good for me
+[17:07:24] AACtrl: (10.Bb2) h6 Bh5!??+ g6 Bf3 d5...
+[17:07:24] ysgwydd: (10.Bb2) Actually ...h6 Bf3 d5 is a problem
+[17:09:41] ysgwydd: (10...h6) Now I'm less confident about my position. With g5 coming
+[17:15:31] AACtrl: (10...h6) 11.Nxe6 Nxe6 Bh5+ Kd7 d5 Ng5...
+[17:15:31] ysgwydd: (10...h6) Nh3 g5 Bf3 d5 Bh5+ Nxh5 Qxh5+ Kd7 cxd5 exd5 Rc1
+[17:16:32] ysgwydd: (10...h6) Problem if not Nxh5
+[17:18:19] jg777: Maybe Nf3 and go for d5 is fine here
+[17:19:04] AACtrl: (10...h6) I wish to castle now if you don't mind
+[17:23:08] ysgwydd: (11.Nh3) Nf3 did not look convincing either
+[17:24:39] ysgwydd: (11.Nh3) Nh3 g5 Bf3 d5 Bh5+ Kd7 cxd5 g4 Nf4 and the bishop is protected. Maybe it's still in trouble
+[17:25:09] ysgwydd: (11.Nh3) Bf7 would be funny after that
+[17:25:25] ysgwydd: (11.Nh3) We both misplayed this I assume
+[17:25:55] AACtrl: (11.Nh3) 11...g5 Bh5+ worries me, and 11...Qd7 c5!?
+[17:28:43] AACtrl: (11.Nh3) also Qd7 Bf3 Ne4 d5 Nxc3 Bxc3 e5?
+[17:32:46] AACtrl: (11...Qd7) it looks wrong, did not want that
+[17:34:17] AACtrl: (11...Qd7) 12.Bf3 Ne4 Nxe4 fxe4 Bg4!?
+[17:36:50] ysgwydd: (12.Bf3) Bxf3 Qxf3 O-O-O Qa8#
+[17:38:21] AACtrl: (12...c6) nice bishops I have
+[17:39:52] ysgwydd: (12...c6) I thought d5 here
+[17:41:39] AACtrl: (13.d5) check 13.Nf4 g6
+[17:41:54] ysgwydd: (13.d5) cxd5 cxd5 e5 I guess
+[17:43:56] AACtrl: (14...e5) which piece can I make worse next?
+[17:44:26] jg777: Be2 looks interesting, I think forces a6? Then f3-e4 ideas perhaps?
+[17:45:58] ysgwydd: (15.Rc1) ...g5 Be2 g4 Bb5
+[17:45:58] jg777: Hmm but this allows Ba6, right? Then the piece is okay again?
+[17:47:44] AACtrl: (15...Kf7) my new masterplan is Nh7-Ng5
+[17:48:15] ysgwydd: (15...Kf7) Be2 to aim for Bb5 Qd8 Bc6 Bxc6 dxc6 Rc8 Nd5
+[17:52:33] AACtrl: (16.Be2) 16...g5 Bh5+ Nxh5 Qxh5+ still an issue
+[17:53:34] AACtrl: (16.Be2) but Nh7 Nb5 a6 Nc7...
+[17:54:05] AACtrl: (16.Be2) so let's react again
+[17:58:54] AACtrl: (17...N8h7) 18.g4 looks scary
+[18:10:19] ysgwydd: (19.Nf2) Glad to have a simple position in time pressure
+[18:11:05] AACtrl: (19...Ngh7) 19...g6 f4 too annoying
+[18:14:07] jg777: Lets go ysgwydd! Maybe gxf5 first before allowing g6 though.
+[18:15:23] jg777: But okay, maybe not h4-h5 stuff.
+[18:15:23] jg777: now*
+[18:19:12] ysgwydd: (21.Be2) Is Na4 Nxd5 Bc4 possible?
+[18:20:58] AACtrl: (21...Rac8) I have no idea....
+[18:21:14] AACtrl: (21...Rac8) 21...h5 g5 Nxg5 f4 I didn't like
+[18:38:29] ysgwydd: (31.Nh1) Oops
+[18:41:01] jg777: Hang in there ysgwydd!
+[18:43:03] AACtrl: (32.Bc3) that was dumb
+[18:43:03] ysgwydd: (32.Bc3) There is no mate with a knight on h1
+[18:44:34] fork2020: Go ysgwydd!
+[19:07:55] R0B-W: gg
+[19:08:10] BLang316: gg
+[19:12:28] AACtrl: funny how at move 10 we were both thinking only defensively
+[19:12:59] ysgwydd: I didn't understand any of the positions we had
+[19:13:29] ysgwydd: It felt like I was in trouble from the start
+[19:16:32] AACtrl: 31...Nxe4 ouch!
+[19:18:33] ysgwydd: Well you didn't need such fancy tactics
+[19:20:20] ysgwydd: Why did i not consider 11.Bh5+
