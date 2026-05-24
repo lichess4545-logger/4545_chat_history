@@ -1,0 +1,441 @@
+Lichess game chat log
+Game      : https://lichess.org/hOHgyYCx
+White     : fritsj
+Black     : le_merovingien
+Time      : 45+45
+Captured  : 2026-05-24 14:37:46 UTC
+Game ended : 2026-05-24 13:17:40 UTC
+Messages  : 431
+────────────────────────────────────────────────────────────
+
+[10:33:32] Shurbz: Lets go Mero!!!
+[10:33:47] precisionplay28: Lets go fritsj
+[10:34:02] NameGoesInHere: (2...g6) go mero!
+[10:34:17] Le_Merovingien: Hello all
+[10:36:04] Le_Merovingien: Which Knight first, here?
+[10:36:04] Shurbz: Lots of theory, g5 was cool
+[10:37:05] Le_Merovingien: Gotta be this one, Rf7 Bf8 is typical
+[10:37:50] Le_Merovingien: But I am too slow, of course. So Nf6?
+[10:40:07] Le_Merovingien: Rf7 c6  and the pressure is never on d6, so Rf7 is useless for now (except Rook lifts but we are not there yet)
+[10:41:39] Le_Merovingien: he is not pushing...
+[10:42:09] Le_Merovingien: In a way, Rf7 is free. But do I not take the offensive lead with h5?
+[10:43:25] Shurbz: Yes but your king is also over there very scary
+[10:43:40] Le_Merovingien: h5 cxd6 cxd6 Nb5 is annoying
+[10:44:11] NameGoesInHere: (15.Rc1) I think the black king is normally ok in these positions even if you push the pawns
+[10:44:11] NameGoesInHere: (15.Rc1) white's pieces are much more set up to attack on the q-side
+[10:44:56] Le_Merovingien: But it is the same thing with Rf7...  Playing a6 is not in the spirit of the Mar del Plata
+[10:44:56] fritsj: Hello PP and jose :)
+[10:45:12] jose684: Go Frits !
+[10:45:12] Le_Merovingien: perhaps it is one of these KID positions where White gets a Queenside Pawn but gets mated
+[10:45:57] Shurbz: That’d be cool for us
+[10:46:12] jose684: man, Frits is still in theory, lol
+[10:46:43] NameGoesInHere: (15.Rc1) the other question is whether black can achieve ...g4 without needing to start with ...h5
+[10:46:58] Le_Merovingien: Don't see how Rf7 would get anything here.
+[10:48:45] NameGoesInHere: (17.Nb5) I guess now black should go ...Rf7 to avoid any Rc7 nonsence?
+[10:49:00] NameGoesInHere: (17.Nb5) or Nc7 even
+[10:49:46] NameGoesInHere: (17.Nb5) I guess you're not too unhappy to sac the a-pawn if it buys time for a kingside attack
+[10:50:01] nyanners: should be theory still
+[10:50:01] fritsj: This is gonna be an interesting struggle for sure
+[10:50:16] nyanners: like rf7 nxa7 bd7 probably
+[10:50:47] Shurbz: For the record I don’t think g4 would have worked
+[10:51:17] Le_Merovingien: Sounds like the moment to get Rf7 in, otherwise, I lose the exchange
+[10:51:17] nyanners: my main thought to that is just "g4 isnt in theory" :p
+[10:51:32] nyanners: which is very much a lazy answer
+[10:51:47] Le_Merovingien: but is this a bad exchange to give?
+[10:53:04] NameGoesInHere: (17...Rf7) so what does the exchange sac look like? g4 Nc7 h4 Nxa8 g3 bishop moves then like gxh2 or h3?
+[10:53:19] Le_Merovingien: Too hard to calculate with all the g4 g3 h4 business...
+[10:53:49] Le_Merovingien: Nxa7 Be7 or Bxa7 g4
+[10:54:50] Le_Merovingien: a6?
+[10:55:05] Le_Merovingien: ah no. Argh... terrible
+[10:55:36] NameGoesInHere: (18.Qc2) ...Ne8 covers c7 again but feels like a move in the wrong direction
+[10:55:51] fritsj: It's a holiday here in the Netherlands and my neighbors are having a raucous hardstyle party
+[10:55:51] fritsj: at 1 pm
+[10:56:06] Shurbz: Yeah why not a6?
+[10:56:06] fritsj: Not ideal
+[10:56:37] nyanners: ive lost a few games as white to those Nxa8 lines even when its unsound
+[10:56:37] nyanners: just kings indian things
+[10:57:07] Le_Merovingien: He is after my Rook again... g4 Nc7 Rb8 Bxa7...
+[10:57:22] markmarkedymarkmark: Go Mero!!
+[10:57:22] Le_Merovingien: Have I got to play Ne8?  This is bad!
+[10:58:08] Shurbz: Okay b6 then?
+[10:58:38] Le_Merovingien: I can't let him get the Rook: g4 Nc7 g3 Nxa1 h4 Qxc8, game over.
+[10:58:54] nyanners: in general, black is less likely to err by sacrificing everything than by trying to hold the queenside
+[10:59:09] Shurbz: Huh fun opening
+[10:59:39] nyanners: that said, i do think Ne8 is called for. theres time
+[11:00:40] nyanners: ne8 is not so uncommon
+[11:00:55] nyanners: black doesnt have to feel bad
+[11:02:11] precisionplay28: can white go a4?
+[11:02:11] precisionplay28: to play nb5
+[11:02:42] nyanners: honestly i might be feeling uncomfortable as white
+[11:03:12] nyanners: like, if white's queenside demonstration is over, its time for black to play
+[11:03:43] Le_Merovingien: Anyone knows who is better here?
+[11:03:58] nyanners: so like, "can" you go a4 Nb5? yea sure but black is going g4 g3
+[11:04:13] Shurbz: You’re always better in our hearts mero
+[11:04:28] nyanners: i would take black at this point for what its worth. seems more fun
+[11:04:44] nyanners: a bit afraid white has hit a dead end
+[11:04:44] Le_Merovingien: Wow, we have a crowd
+[11:04:44] Shurbz: I was looking at Nc6
+[11:05:14] precisionplay28: white cant even play h3 cuz it weakens g3 a lot
+[11:05:14] Shurbz: Doesn’t work but I was looking at it
+[11:06:00] nyanners: sometimes you have things of the sort when white has bishop on c4
+[11:06:30] NameGoesInHere: (19...Bd7) so like Nc6 bxc6 dxc6 Be6 and try and somehow get the pawns down the board fast enough?
+[11:06:45] Zubenelgenubi: Nb4?
+[11:07:46] Shurbz: So Rfd1 and Ne1 and play for Bc4 Nc6, that’ll cost too much time
+[11:08:02] nyanners: maybe Nc6 worth consideration after this one
+[11:08:47] Le_Merovingien: Do I have cojones?
+[11:09:02] Zubenelgenubi: oui
+[11:09:02] nyanners: too late to be asking that
+[11:09:18] Shurbz: Lol
+[11:09:48] ResetAndRise: i will take black here
+[11:10:19] Shurbz: My hand wants Qa5
+[11:11:04] ResetAndRise: g4 now?
+[11:11:04] Le_Merovingien: g4 Qxb7 needs cojones. g4 Bb6 Qg5?
+[11:11:19] fritsj: Curious if Black is gonna defend b7 with Rb8 or Qb8... but there are ideas against both moves for me
+[11:11:50] nyanners: defend b7? i would never
+[11:12:05] Le_Merovingien: g4 with the Knight on e8 is not the ideal
+[11:12:36] NameGoesInHere: (20.Qb3) trying to defend b7 seems sketchy - black wins if the attack works and probably loses if it doesn't whether you're down 1 or 2 pawn
+[11:12:51] ResetAndRise: id go nf6 qxb7 g4
+[11:13:06] nyanners: yea the main question is in which order you push the stuff
+[11:13:21] Le_Merovingien: g4 Qxc7 g3 hxg3 fxg3 Bxg3 Qg5,
+[11:13:21] ResetAndRise: and bring all the house to whites king
+[11:13:21] nyanners: i think i do start with g4
+[11:13:36] nyanners: like, it just seems more critical than Nf6
+[11:13:52] nyanners: not like youre going to play Nxg4 or anything
+[11:14:07] Le_Merovingien: g4 Qxc7 g3 Be1 h4 h3 Bxh3 sac
+[11:14:53] nyanners: Be1 Qh4 perhaps
+[11:14:53] nyanners: looks pretty forcing to me
+[11:15:08] NameGoesInHere: (20.Qb3) also ...g4 is nice because it opens up g5/h4 for the queen in case of white's Qb6 trying to force the queen trade
+[11:15:23] Shurbz: !!
+[11:15:23] Shurbz: Lets go mero
+[11:15:38] Zubenelgenubi: oui
+[11:16:39] Le_Merovingien: Captain, we're going for the win. I have no choice.
+[11:17:25] precisionplay28: fxg4 hxg4 nb5?
+[11:17:56] precisionplay28: if g3 after thatbe1
+[11:17:56] nyanners: then its good that the knight is on e8
+[11:18:11] nyanners: the thing with fxg4 is that then white has some extra pushes to worry about like f3
+[11:18:26] nyanners: Qg5-f3, g3, whatever
+[11:18:26] nyanners: so usually white doesnt do that
+[11:19:42] ResetAndRise: but if he dosent take whites kingside is getting busted anyways
+[11:19:57] ResetAndRise: and it might be worse if black lands g3
+[11:24:31] nyanners: black probably lands g3 regardless
+[11:24:31] nyanners: though the choice of f3 could be even stronger
+[11:25:17] nyanners: white might already be in trouble for all i know
+[11:25:17] Le_Merovingien: Is this right???
+[11:25:47] Le_Merovingien: What is the point?
+[11:25:47] nyanners: to trade queens, of course XD
+[11:25:47] Le_Merovingien: he loses a tempo?
+[11:26:03] nyanners: yea g3 is tempo and bishop cant take on g3
+[11:26:18] Le_Merovingien: I have g3 here, no?
+[11:27:49] Le_Merovingien: What's the venom, then?
+[11:28:04] Le_Merovingien: g3 wins, no?
+[11:28:50] Le_Merovingien: What does he do against g3?
+[11:29:36] Le_Merovingien: A piece vs 2 Pawns?
+[11:29:51] Le_Merovingien: I must be better
+[11:29:51] Shurbz: Bishop for two pawns but also is the knight lost?
+[11:31:22] Shurbz: Thats a pretty pawn structure
+[11:31:53] Le_Merovingien: I end up with the Bishop pair, an extra piece. He has two Pawns.
+[11:35:11] guitarspider: (24.Nb4) Doesn't look like the knight can be trapped, for example Nb4
+[11:35:11] guitarspider: (24.Nb4) too late :D
+[11:35:56] guitarspider: (24.Nb4) it's true that black is up a piece currently, but the Bg7 is not fantastic and using it will be difficult
+[11:36:27] fritsj: Well this is gonna be hard to salvage now...
+[11:36:57] fritsj: Ra7 was threatened so unfortunately I had to move the Knight to this poor square, but at least it's defending a2 in case of Ra8
+[11:37:28] Shurbz: Ra8 nb5 bxb5 bxb5 Rc7
+[11:37:58] Shurbz: Lets just simplify
+[11:40:00] Le_Merovingien: Knight goes to c5
+[11:45:04] fritsj: He wanted to play Bxb5 followed by Nd7-c5...if that poor Bishop stays on d7 then it kind of clogs up his coordination
+[11:47:06] guitarspider: Now the Bg7 has a clear path to b6 and activity
+[11:47:52] Le_Merovingien: I am just bullying him into exchanging... My Bishops will hopefully hold this
+[11:47:52] nyanners: something about endgames being generally bad for black in the kings indian
+[11:48:07] nyanners: though this one seems like a bit much
+[11:53:11] guitarspider: It's still work. Doesn't seem super easy to me.
+[11:53:42] nyanners: i agree :D
+[11:53:57] nyanners: not easy to solve the bad pieces
+[11:54:28] nyanners: this Rc8 situation also turning out to be more annoying than i thought actually
+[11:54:58] nyanners: Re7 "forced"? ughhhhh
+[11:55:13] nyanners: like Bd7 Rb8 and i dont see a good answer
+[11:55:44] NameGoesInHere: (30...Re7) yeah this look awkward for black. otoh, if ...Re7 followed by ...Kf7 what is white's plan to make progress
+[11:56:29] Le_Merovingien: I need to get out of this tangle before he can activate his Queenside majority
+[11:56:29] nyanners: so in hindsight if we have to trade a pair of rooks it would be better to do so with 28..Rxc7
+[11:56:45] nyanners: rather unintuitive
+[11:58:46] Shurbz: Bc4 now for white and we revisit nc6 ideas
+[11:59:02] nyanners: ooooooohh interesting direction
+[11:59:17] Le_Merovingien: I remember the plan Nc5. LOL
+[12:00:18] Shurbz: Three connected passers wit protection would be hard to stop
+[12:00:33] Shurbz: Crazy in concept to give up another piece though
+[12:01:49] nyanners: pawns are probably the piece with the most flexible value in general (im making this up)
+[12:02:19] nyanners: like its just so easy for a pawn to be (worse than) worthless or worth a full piece or something
+[12:04:06] guitarspider: Would black have been better off not winning the piece?
+[12:05:07] Le_Merovingien: Nb6 Na4 looks interesting
+[12:05:22] nyanners: naaaaahh no way. id go with 28..Rxc7 i think
+[12:05:22] nyanners: i agree white is pretty playable right now
+[12:06:08] nyanners: like, rook on b8 would be much better than rook on e7
+[12:06:23] guitarspider: True
+[12:07:09] fritsj: This looks really annoying now for Black, gonna take several moves to untangle
+[12:07:24] fritsj: Meanwhile my Knight is headed for c4 or b5
+[12:07:39] Le_Merovingien: More tangles...
+[12:07:39] Shurbz: Give the check
+[12:07:39] Le_Merovingien: Would Bh4  work?
+[12:08:10] nyanners: Bh4 sets up a sneak where white forgets to expect the bishop coming back for Bxd8
+[12:08:40] Shurbz: King probably has to go kf1
+[12:10:11] Shurbz: Actually now with where the king is Kf8 with the intention of Rg7
+[12:10:11] nyanners: im not entirely convinced black already wants to play Bf2 immediately. like, what are we trying to control
+[12:10:42] nyanners: are we going for Bg1??
+[12:10:42] Shurbz: Bishop is better on that side of the pawns though
+[12:10:57] Shurbz: Right?
+[12:10:57] nyanners: but surely the highest priority has to be improving that piece mass
+[12:11:12] fritsj: Ooooo that's very clever... should I have played Kf1?
+[12:11:27] Shurbz: Now kf8 and Rg7
+[12:11:43] Micomps: Finally home to watch. This looks a tangled mess
+[12:11:43] Micomps: Go Fritsj!
+[12:11:58] nyanners: yea i mean, you could have done that without Bf2. then youd have the bonus of the discovered attack
+[12:13:14] nyanners: to be clear, its not that i think Bf2 is actively bad. just that there are more important things to do
+[12:13:29] Shurbz: Yes agreed but now the king can’t walk back to the kingside
+[12:14:00] nyanners: Nb6 is pretty good actually
+[12:14:15] nyanners: (i think)
+[12:14:45] nyanners: Kd2 seems to be announcing that the king was never going back anyway
+[12:14:45] nyanners: though this could be a long term problem with Bg1/Rg7
+[12:15:16] Micomps: Much wrong with 36. Rxd6
+[12:15:16] Micomps: ?
+[12:15:31] nyanners: probably white has to play it
+[12:15:46] nyanners: but black has like a dozen tempi
+[12:16:01] Micomps: Decent practical move I think though
+[12:16:01] nyanners: and the queenside is locked
+[12:16:17] nyanners: yea i mean, create another win condition of sorts. might as well
+[12:16:32] Micomps: Rxd6 prevented Bg1-h2 ideas temporarily as well
+[12:16:47] Le_Merovingien: He does not want the Pawn... Less risk for me.
+[12:17:17] nyanners: yea i think i agree with that assessment
+[12:18:34] Le_Merovingien: I really thought that Nb6 Rxd6 Rc7 Rh6... was a concession from me
+[12:21:21] Shurbz: h4
+[12:21:52] Shurbz: I really want to see Bg3 sac
+[12:22:22] nyanners: dont like this. h3 is annoying to deal with
+[12:22:22] nyanners: id rather go Bg1 so that on h3 the king can invade
+[12:22:52] fritsj: VERY happy to see h4, I was worried that if I had to play h3 at some point his King could walk in through h4 and g3 later
+[12:22:52] nyanners: exactlyyyyy
+[12:23:08] Le_Merovingien: I did not fully calcaulte the line with Kd2...
+[12:23:08] fritsj: He closed off that infiltration route now
+[12:23:23] Le_Merovingien: Should be fine
+[12:23:38] Micomps: Just play h3 now right?
+[12:23:53] nyanners: there it is
+[12:23:53] Micomps: Hmm. Can white mobilise on the queen side quick enough?
+[12:24:09] fritsj: On the other hand my extra pawn on the Kingside is useless now and I'll be playing down a piece on the Queenside...
+[12:24:09] nyanners: probably not
+[12:25:40] Le_Merovingien: This is a draw, right? I need to stop these Pawns
+[12:25:55] Shurbz: Its like 5 knight moves to get a knight on g5 but then we could sac
+[12:26:10] nyanners: once you sac, the pawns are equal and white has a4
+[12:26:25] nyanners: that said, i very much doubt its a draw yet
+[12:26:41] Le_Merovingien: My light square Bishop will be matched by his, so I can't really use it.
+[12:26:56] Le_Merovingien: dark square Bishop is not useful and kept in check by the Knight
+[12:26:56] Le_Merovingien: I need my Knight to do something.
+[12:27:11] Shurbz: Yeah, I’m looking at Ba4
+[12:27:11] Shurbz: Try to take off the knight
+[12:27:42] fritsj: Crap I allowed Be1+
+[12:27:42] nyanners: yea wins a pawn?
+[12:27:42] nyanners: definitely not a draw then
+[12:27:42] Le_Merovingien: Wow... this is a Pawn, no?
+[12:27:57] fritsj: If he finds that I lose the crucial b4 pawn
+[12:28:27] nyanners: indeed, losing the a-pawn would be less bad
+[12:28:27] Le_Merovingien: Be1 Kb3 Ba4 ?
+[12:29:28] fritsj: Mannnn I'm pretty sure it was a draw and now...
+[12:29:28] Le_Merovingien: My pieces are safe, I think
+[12:29:59] Le_Merovingien: Without this Queenside majority, it feels good!!!
+[12:30:29] nyanners: eh i mean, black had some ideas to try. Ba4, Na8-Nc7-something to b5, whatever
+[12:30:44] nyanners: might be a draw but plenty of shuffling to happen
+[12:32:31] Le_Merovingien: OK, now he will try to mess things up
+[12:32:46] nyanners: funny. take?
+[12:33:01] nyanners: not ocb with an extra piece
+[12:34:02] Le_Merovingien: His Knight can't go through. Na4 Kb3 Nc5 Kxb4 Nxd3 Ka5 Ne1 and I win on the Kingside, no?
+[12:34:02] nyanners: then get that king on the queenside
+[12:34:32] nyanners: B+N should do it
+[12:34:32] Le_Merovingien: This needs to be calculated precisely
+[12:35:03] nyanners: oooohh thats an interesting line
+[12:35:03] fritsj: Idk it's still not gonna be easy for him to get his King and Knight through on the Queenside but it should be lost somehow
+[12:35:03] fritsj: Slowly
+[12:35:49] nyanners: i suppose even if the line gets declined its still an improvement on the immediate Bxb5
+[12:36:04] serenemoose: Is Na4+ a thing? Try and land it on e1 or e3 somehow?
+[12:36:19] nyanners: thats indeed what black is looking at
+[12:37:05] nyanners: since the "accepted" line with Ne1 seems to win easily i expect white to decline with e.g. Na4+ Kc2
+[12:37:35] Le_Merovingien: Na4 Kb3 Nc5 Kxb4 Nxd3 Ka5 Ne1 Kb6 Nxg2 Kxb7 Ne1 a4 can't go because I take it!!!
+[12:37:35] Le_Merovingien: It works.
+[12:37:50] Le_Merovingien: I think
+[12:38:36] nyanners: i mean theres Bxb5 in the air there right
+[12:38:51] nyanners: so its like double works
+[12:40:07] Le_Merovingien: obviously, if he does something else, I forgot to calculate...
+[12:40:23] Shurbz: Oh I see that was tough for me to spot, I thought kb3 and whoops but now I see
+[12:42:24] Le_Merovingien: Kb1 loses a piece
+[12:43:10] Micomps: Think white finds Kc2 here
+[12:43:40] Micomps: As you look at Kb3 first then see Nc5 as the logical next step
+[12:43:56] nyanners: yea pretty much
+[12:44:26] Le_Merovingien: The other line with Kb6, I can take the Knight wiht the Bishop to win by one tempo, I think
+[12:44:57] fritsj: Kb3 Nc5 Kxb4 Nxd3+ Ka5 Ne1 Na7 Kd8 Kb6 Bc8 and Black wins...
+[12:47:14] Le_Merovingien: he is going to play Kb3
+[12:47:29] Micomps: He's going to play Kc2
+[12:47:29] fritsj: But Kc2 Bxb5 Bxb5 Nc3 Bc4 looks hopeless as well
+[12:47:44] Micomps: Uh oh
+[12:47:44] serenemoose: So Kc2 takes takes then say Nc3 Bc4 Ba5 then white shuffles between a1 and b2?
+[12:47:59] nyanners: it IS probably hopeless
+[12:48:14] Micomps: Kc2 has more holding chances, but neither particularly desirable
+[12:48:30] Micomps: Wooo
+[12:50:32] fritsj: At least here he has to find some moves, the other line was too straightforward
+[12:51:02] nyanners: i can only agree
+[12:51:48] Le_Merovingien: I think we need to go around wiht the King here
+[12:52:03] Micomps: I mean, this should be winning for black, but I don't think it's immediately obvious how to get the king in
+[12:52:03] Le_Merovingien: Captain, we can't lose this.
+[12:52:03] Le_Merovingien: Hey Popot!
+[12:52:18] Micomps: This is where Rxd6 about 20 moves ago would have been handy!
+[12:52:18] nyanners: ahah yes..
+[12:54:20] jcarmody: Is the idea that the black K goes after g2, and the white K can't stop it and the b pawn?
+[12:55:06] Le_Merovingien: But can I do something?
+[12:55:21] nyanners: white should get overloaded. has to defend against Ne3/Ne1, the a-pawn, and king invasion
+[12:55:21] Micomps: If the clocks were reversed here, I'd be betting on a draw
+[12:55:36] nyanners: all that without having any active plans whatsoever
+[12:56:06] nyanners: naaaahh i think black just plays normal moves and stumbles upon a win
+[12:56:06] Le_Merovingien: hmm...
+[12:56:22] giziti: yeah i don't think the black king can be kept out
+[12:56:37] Micomps: If white had gone Be8, the king can't get through without moving the knight...
+[12:56:52] Micomps: Which maybe you could keep at bay with a well placed King
+[12:57:23] Micomps: Hmm, white thinking Kb2 then Bd1 now?
+[12:57:38] nyanners: not uninteresting XD
+[12:57:38] Micomps: N can't go to E1 now
+[12:57:53] nyanners: yea i dont think Ka5 is the way
+[12:57:53] serenemoose: Now Na4 and gets in to e3?
+[12:57:53] Micomps: Hmm. bf1 now a bad idea
+[12:58:24] Micomps: Not*
+[12:58:39] nyanners: can route to e3?
+[12:58:39] Micomps: Wait
+[12:58:39] Micomps: Can white at some point play g4?!
+[12:58:54] serenemoose: Na4 c3 d1 e3
+[12:58:54] nyanners: now youre thinking with portals XD
+[12:59:09] nyanners: is it a tiny bit too late
+[12:59:09] Micomps: If that king moves one more square into the white camp though...
+[12:59:40] Micomps: D1 could be covered soon Serene, but yes I think that's blacks idea
+[13:00:10] Micomps: White is dangling the carrot. I am manifesting g4
+[13:00:25] nyanners: okay so. now g4!!!!?!?!?
+[13:00:25] nyanners: this is your DESTINY
+[13:00:41] giziti: does g4 really work? the pieces get back soon enough don't they?
+[13:00:56] Micomps: Probably, but wouldn't it be fun!
+[13:00:56] nyanners: actually i just saw a most boring line
+[13:01:11] nyanners: g4 hx h4 g2
+[13:01:26] Micomps: Boooooo nyanners
+[13:01:42] serenemoose: but g4 fx?
+[13:01:42] nyanners: i knowwww. im sorry
+[13:01:42] giziti: yeah bishop has to be on f1 for g4 to work, right?
+[13:01:57] Micomps: Yup
+[13:02:12] Micomps: Can white make a fortress here now to keep the king and knight out?
+[13:02:27] Le_Merovingien: How to make progress?
+[13:02:58] nyanners: thats a lot of jumps to manage
+[13:03:28] serenemoose: sac and e3?
+[13:03:28] JEEprep2374: (56...Nb3) The knight finda its way to e3! thats how you make progress
+[13:03:59] nyanners: not that easy..
+[13:04:14] giziti: g4 here?
+[13:04:44] nyanners: umm have to be careful with black's own g2
+[13:04:59] Micomps: Think white just sits in now
+[13:04:59] giziti: oh yeah king has to be closer
+[13:05:15] jdannan: This is painful to watch
+[13:05:30] Micomps: But ensure the Bishop can cover D1 so the king can't get in
+[13:05:45] Le_Merovingien: We're getting there. Kb3 Nc2 Ne1 if possible
+[13:05:45] giziti: I guess g4 now gets Nxf3
+[13:05:45] Micomps: Bf7 a good move
+[13:06:00] Micomps: D7*
+[13:06:31] giziti: yeah i think Kb3 walk gets there, W king boxed out in this configuration
+[13:06:31] Micomps: Be8 only move?
+[13:06:46] JEEprep2374: (60...Kb3) but Kb2-c1 no?
+[13:06:46] Micomps: Kb3 then Ba4...Nc2 then then Ke2
+[13:07:01] JEEprep2374: (60...Kb3) the white king is stuckl
+[13:07:01] JEEprep2374: (60...Kb3) Ah righy
+[13:07:01] Shurbz: Mero can you b+n mate?
+[13:07:01] giziti: Kb2 Kc1 I guess Ba4...
+[13:07:01] Micomps: Kb2 then Ba4*
+[13:07:16] Le_Merovingien: I can sac the Knight against the Bishop, so I am not too worried.
+[13:07:47] Le_Merovingien: I just don't know how to win if he does not excahgne
+[13:08:02] Micomps: Yes, great move 61.Be8
+[13:08:17] Micomps: Now Ke2 right?
+[13:08:17] nyanners: 50 move counter on 54..Kxb4
+[13:08:33] nyanners: feels noteworthy somehow
+[13:08:48] fritsj: I think Ba4+ is a draw now
+[13:09:03] Micomps: Ooh, Ba4 now. Wild
+[13:09:18] nyanners: could it be??
+[13:09:18] Micomps: Not 100% convinced
+[13:09:33] Le_Merovingien: Maybe this is the wrong diagonal for the Bishop. It is doing the same job as the Pawns
+[13:09:33] nyanners: i dont think i believe it
+[13:09:33] giziti: I don'tt hink W can box out the king
+[13:09:49] Le_Merovingien: This wins
+[13:09:49] giziti: but I guess we'll see!
+[13:09:49] NameGoesInHere: (62...Kxa4) i feel like Ba4+ isn't a draw? black has the ability to waste tempi while white doesn't
+[13:09:49] JEEprep2374: (62.Ba4+) I dont think this is a draw
+[13:10:04] nyanners: its a draw if white doesnt have the g-pawn? XD
+[13:10:04] NameGoesInHere: (63.Kxc2) guess we'll find out
+[13:10:19] Micomps: Kd3 then g4
+[13:10:19] nyanners: nah that doesnt work either
+[13:10:19] JEEprep2374: (63.Kxc2) then the entire pawn chain falls
+[13:10:19] nyanners: yea i think its just a bust
+[13:10:19] Micomps: Nahhh
+[13:10:19] Micomps: Doesn't work
+[13:10:34] nyanners: i was like okay, white plays Kf1 and gets stalemated but has to give the g-pawn
+[13:10:50] nyanners: and then black wins that way
+[13:10:50] Le_Merovingien: ah, need to be careful
+[13:10:50] nyanners: without g-pawn then white would have Kg2
+[13:11:05] nyanners: so maybe what white needs is a black pawn on g3 (!!)
+[13:11:05] nyanners: and then it might be a draw
+[13:11:20] JEEprep2374: (64...Kb3) could white win here if black is not careful? g4 hg3 and the h-pawn runs?
+[13:11:35] Micomps: Fg3 is the problem !
+[13:11:35] Le_Merovingien: I actualyl have no clue...
+[13:11:35] nyanners: white will have to play g4 sooner or later XD
+[13:11:50] Le_Merovingien: I think it is a draw but his whisper makes me think not
+[13:11:50] NameGoesInHere: (65.Ke2) the bishop gets back in time: g4 hxg3 Bb6 a5 Bd8 a6 Bf6
+[13:12:06] jdannan: The B only have to get round to f6 to stop the h pawn
+[13:12:21] nyanners: yea pretty sure this is a bust
+[13:12:21] NameGoesInHere: (65.Ke2) and the king has to watch the g3 pawn so eventually black jsut walks and takes the a-pawn with th eking
+[13:12:36] nyanners: even in hx
+[13:12:36] Micomps: Hmm, but if it was whites move here then would g4 now work?
+[13:12:51] Le_Merovingien: oh no... it's winning
+[13:12:51] nyanners: dont think so. Bf6 in time?
+[13:12:51] fritsj: Missing a lot this game so pretty deserved loss
+[13:12:51] Micomps: Ahh, bishop gets back in time
+[13:13:06] giziti: yeah I think blakc just walks in and forces whtie to give up
+[13:13:06] Le_Merovingien: Hi Chiffon!
+[13:13:22] giziti: Kd1 forces g4, right?
+[13:13:22] nyanners: okay so this is the funny position
+[13:13:22] nyanners: where black pawn on g3 would be a draw
+[13:13:37] nyanners: and i dont think black would be able to avoid it
+[13:14:07] nyanners: this one seems just trivial
+[13:14:07] Micomps: What did black mean re: his whisper a few mins ago?
+[13:14:23] giziti: that's indeed a puzzling question
+[13:14:38] JEEprep2374: (68.Kg2) just Ke2 here, Kh1 Kf2-g2-g1q
+[13:14:53] NameGoesInHere: (68.Kg2) probably fritsj accidently put their whisper in the game chat instead
+[13:14:53] Shurbz: Probably that he sent a message he ment to whisper
+[13:15:08] NameGoesInHere: (68.Kg2) I've done that a few times
+[13:15:08] JEEprep2374: (68.Kg2) f4 then ef4 wins
+[13:15:08] giziti: that's my assumption
+[13:15:08] Micomps: Oops :')
+[13:15:39] nyanners: i dont even try to win, i just play Ke2 and premove all pawn captures and take it from there
+[13:16:24] giziti: why not just Ke3 and start taking?
+[13:16:40] nyanners: yea taking with pawn here
+[13:16:55] nyanners: i suppose now you dont need to take it slow
+[13:16:55] nyanners: king on e2 too good
+[13:16:55] nyanners: gg
+[13:17:10] Pineapplechiffoncake: gg
+[13:17:10] Shurbz: Gg
+[13:17:10] Micomps: Gg!
+[13:17:40] nyanners: my reflex was to just keep premoving dxe5 and the bishop controls d8 but... yea the mate actually is kinda obvious now
+[13:17:40] JEEprep2374: gg
+[13:17:56] nyanners: what a fight :o
+[13:18:11] serenemoose: gg, have a good end to your season, Micomps and co
+[13:18:41] fritsj: And you guys as well!
+[13:19:27] nyanners: Ba4+ with an extra black pawn on g3 is actually a draw
+[13:19:42] nyanners: that was a creative thought but unfortunate
+[13:19:42] fritsj: Yeah I remembered those kind of positions
+[13:19:57] fritsj: But I didn't use my time there
+[13:21:13] nyanners: at least it was never a draw, it seems :o
+[13:21:13] nyanners: unclear whether thats consolation
+[13:21:13] Micomps: Same to you guys!
+[13:21:44] fritsj: I looked at that position after 21. Qxb7 gxf3 Bxf3 Bg4 Qa6 and it looked so clumsy with my Queen pinned
+[13:22:29] fritsj: If Qb6 didn't drop a piece it would have been a clever move I thought haha
+[13:23:45] nyanners: ah Qxb7 definitely looked like trouble
+[13:23:45] nyanners: i think someone suggested Nc6 actually :o
+[13:24:01] fritsj: Wow really
+[13:24:01] nyanners: i didnt really believe it
+[13:24:16] fritsj: Nahh that wasn't on my radar at all
+[13:24:16] nyanners: though with queen on b3 it does make enough sense
+[13:25:47] fritsj: Yeah I can kind of see it now but still it looks so insane
+[13:28:19] nyanners: agree XD
+[13:31:52] Le_Merovingien: I feared Qxb7
