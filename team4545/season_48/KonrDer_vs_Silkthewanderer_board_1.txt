@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/G11zHuX5
+White     : konrder
+Black     : silkthewanderer
+Time      : 45+45
+Captured  : 2026-05-24 22:21:21 UTC
+Game ended : 2026-05-24 21:01:16 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[18:33:37] jcarmody: Go Silk!
+[18:59:45] guitarspider: (13...Nh5) go Silk!
+[19:02:02] KonrDer: potentially some sacs in the air
+[19:03:03] stevenlongs: threat of e6 on next?
+[19:20:33] KonrDer: critical position, Bf5 was a clever move
+[19:34:15] Zubenelgenubi: Go Silk
+[19:38:04] ivanhomeless: Let's go Konrad! Very interesting and enterprising position here!
+[19:44:24] KonrDer: nice defense by my opponent
+[19:44:39] KonrDer: I think white still stands quite well though
+[19:48:58] KonrDer: b4, Bg3 and h3 look all like good moves
+[19:48:58] KonrDer: but if h3 or Qg3 he might have Qb6
+[19:50:14] KonrDer: also a Knight on e3 would be nice
+[19:56:04] KonrDer: now if 18. Qb6 I have b4
+[19:56:35] Grzybozbur: why would black play qb6?
+[20:11:48] KonrDer: I feel like I misplayed this somewhere
+[20:12:34] Grzybozbur: my guess is bxd5
+[20:12:49] Grzybozbur: unless b4 worked later at some point
+[20:16:37] MrScribbles: (22...b6) Just checking in now. Why is there a Knight on a5?
+[20:17:08] MrScribbles: (22...b6) Looking back through the game, a 2250 had both knights on the edge of the board at the same time
+[20:17:08] guitarspider: (22...b6) it's on vacation
+[20:17:23] MrScribbles: (22...b6) apparently I know nothing about chess
+[20:17:38] MrScribbles: (23.b4) lol guitarspider
+[20:17:53] guitarspider: (23.b4) it was actually limiting the white pieces quite a bit on the queenside, because Nb3 and Nc4 could have been awkward
+[20:20:56] KonrDer: what the hell
+[20:21:11] KonrDer: Am I hallucinating
+[20:21:26] Grzybozbur: not anymore!
+[20:21:26] MrScribbles: (24.Rad1) ... am I hallucinating?
+[20:21:41] MrScribbles: (24.Rad1) Is there some trick
+[20:21:57] KonrDer: holyyyy
+[20:22:12] KonrDer: he is doing well I think
+[20:22:12] KonrDer: but that was insane
+[20:22:27] Grzybozbur: wait, am i hallucinating?
+[20:22:42] Silkthewanderer: what the crap did we both just do???
+[20:23:13] KonrDer: now the problem is I think I have to take on d3
+[20:23:28] KonrDer: b4 was a really poor move by me
+[20:24:14] jcarmody: I'm over here thinking Rx Rx Qx+ Qx+ Rx and Silk moves a pawn. I'll never understand.
+[20:24:44] Grzybozbur: well, without b4 it just looked like slow death
+[20:25:45] KonrDer: maybe Nfd2
+[20:26:15] KonrDer: that blunders a piece again
+[20:26:15] KonrDer: I dont know whats going on
+[20:38:56] Pineapplechiffoncake: Sounds like I've been missing a fun game judging by the comments here
+[20:43:00] guitarspider: (33...Bc4) it's been good
+[20:43:15] MrScribbles: (33...Bc4) Yeah why wasn't it a free rook on 24... Rxd1?
+[20:43:15] guitarspider: (33...Bc4) very complex position
+[20:45:32] guitarspider: (34...Rxd2) idk why it wasn't
+[20:45:47] guitarspider: (34...Rxd2) there might have been some way to get counterplay for White that Silk was worried about
+[20:45:47] Grzybozbur: white blundered the rook, and black was completely winning, so wasn't looking for a faster win
+[20:46:18] Silkthewanderer: 34. e6 was the tenacious move
+[20:47:19] Silkthewanderer: 35. Rxc4 Rxf2+ was of course the big idea
+[20:49:20] guitarspider: (36...Bxe6) Rd4 Rd1
+[20:49:51] stevenlongs: god i was panicking there GS lol
+[20:50:21] guitarspider: (37.Rd4) it's still a bit complicated, there is Qb8+ to consider
+[20:50:52] guitarspider: (37.Rd4) but Kh7 should be fine
+[20:51:22] Zubenelgenubi: Rc2?
+[20:51:37] Zubenelgenubi: ah
+[20:51:37] Zubenelgenubi: no
+[20:55:41] guitarspider: (40.Qxa7) ooh, Qd6 is check and wins the b pawn
+[20:55:56] guitarspider: (40...Qf3) or not!
+[20:56:11] Grzybozbur: who cares about the b pawn?
+[20:56:26] guitarspider: (41.Kg1) without the white b-pawn it's over for sure
+[20:56:42] stevenlongs: what's wrong with Bd5?
+[20:56:42] STCLion: Qxb4   protects B's b and e pawns
+[20:57:12] STCLion: but   silk's taking the direct approach
+[20:58:13] Grzybozbur: directly missing bf3
+[20:58:28] KonrDer: will probably resign in a few moves
+[20:58:59] MrScribbles: (45.Qb8) just checking back in now, wow what happened
+[20:58:59] KonrDer: very unlikely he will blunder a perpetual or something
+[20:59:59] guitarspider: (48...Bf3) nice
+[21:00:15] Zubenelgenubi: gg
+[21:00:45] MrScribbles: gg
+[21:00:45] bronasberger: Gg
+[21:00:45] guitarspider: gg
+[21:01:00] jcarmody: gg
+[21:02:32] Silkthewanderer: Taking a hanging rook is overrated anyway :D
+[21:02:47] guitarspider: :D
+[21:04:48] KonrDer: I misevaluated the position
+[21:05:04] KonrDer: should have gone for the repetition after Nd5
+[21:05:04] Silkthewanderer: a4 and Ba2 is something I didnt prepare for,
+[21:05:19] Silkthewanderer: I spent waaay too much time trying to recall what my file said
+[21:05:34] KonrDer: This is one of the ideas in the line
+[21:05:49] Silkthewanderer: But my file is just blank there, I should have just played the position in the first place
+[21:05:49] KonrDer: I couldnt recall the exact move order though
+[21:06:04] KonrDer: h3 first instead of a4 could have been the move
+[21:06:04] KonrDer: need to check my lines as well
+[21:06:35] Silkthewanderer: I have 10. Re1 h6 11. Bh4 Nh5 12. a4 in my file
+[21:07:05] Silkthewanderer: But the nuances when to tickle each bishop and where they move are quite tricky
+[21:07:05] KonrDer: yeah
+[21:07:20] Silkthewanderer: And the line is rare enough that there arent many online resources to consult
+[21:07:20] KonrDer: there are a lot of lines where white sacs on g5 if black plays g5
+[21:07:36] KonrDer: but Bf5 was really good
+[21:07:51] Silkthewanderer: Oh, I am definitely not playing g5 unless it wins by force
+[21:07:51] KonrDer: I think after that it is almost a forced draw
+[21:08:06] Silkthewanderer: Pushing the DSB to h4 and having it in a standoff with Nh5 seems sane
+[21:08:37] KonrDer: yes one of the critical ideas
+[21:08:52] KonrDer: I completely misevaluated Bxd5
+[21:08:52] KonrDer: otherwise I would have gone for the repetition
+[21:09:37] Silkthewanderer: I expected the repetition there, didn't think either of us had a good way to avoid
+[21:10:08] KonrDer: yeah true
+[21:10:23] KonrDer: But well played!
+[21:10:23] KonrDer: Gonna log off now
+[21:13:10] Silkthewanderer: Thanks for the game, see you around
