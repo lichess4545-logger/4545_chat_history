@@ -1,0 +1,92 @@
+Lichess game chat log
+Game      : https://lichess.org/8N3Di9eT
+White     : inter-temporal
+Black     : tsscfttsos
+Time      : 45+45
+Captured  : 2026-05-24 21:54:41 UTC
+Game ended : 2026-05-24 20:34:35 UTC
+Messages  : 82
+────────────────────────────────────────────────────────────
+
+[19:02:16] Inter-temporal: admittedly playing under suboptimal conditions:
+[19:02:31] Inter-temporal: both a strong opponent and my kids got me sick. lol
+[19:02:46] Inter-temporal: (1...c5) again, they got me sick. lol
+[19:03:01] oOoSHONUFFoOo: Gooo Inter!
+[19:03:01] Inter-temporal: (1...c5) maybe Tsscf will get a miniature.
+[19:03:47] Inter-temporal: (4...e6) how does this go again
+[19:04:17] Inter-temporal: (5...Bc5) or is it Be3... or smth else?
+[19:05:03] Inter-temporal: (5...Bc5) can i violate some opening principles?
+[19:05:49] Inter-temporal: (6.Nb5) endgame sounds good right now. how about ...Qa5+, Qd2 my friend
+[19:06:04] Inter-temporal: (6.Nb5) i probably have N1c3 there too, but ...
+[19:06:49] Inter-temporal: (6...e5) i think i'm threatening smth here.
+[19:07:35] Inter-temporal: (6...e5) nice. neither one of us care about opening principles. lol
+[19:08:21] Inter-temporal: (6...e5) considering Be3 Qa5+, idk
+[19:10:22] Inter-temporal: (7.Be3) main expectation is ...Bxe3, fxe3 Qh4+, g3
+[19:11:08] Inter-temporal: (7.Be3) the whole time, black needs to find a way to counter Nc7+, i think. or just checkmate white? lol
+[19:14:41] Inter-temporal: (7...Be7) i think this is similar to 5...Be7, but smth different?
+[19:15:57] Inter-temporal: (7...Be7) (7) Nd6+ Bxd6, Qxd6 idk
+[19:21:17] Inter-temporal: (9...Qe7) (7) am i allowed to move my dsb again
+[19:32:11] Inter-temporal: (12.Bd6) not sure where to aim my N. but if ...Nd4, Na3 probably
+[19:35:14] Inter-temporal: (13.Na3) (12) if ...Bb7, f3 seems okay
+[19:39:33] Inter-temporal: (14...a6) (13) Nc4 might be a fork...
+[19:39:33] bufferunderrun: a6 was a bit weird
+[19:40:49] tommeketoch: something like c3 Nb5 was unpleasant to meet for black, but could be that the solution is worse.. Position maybe was just already very bad
+[19:41:34] Inter-temporal: (15.Nc4) (14) i think i was forced to aim my N at d6 rather than d5. soooo. what am i walking in to
+[19:41:34] bufferunderrun: Nd4 was too opportunistic
+[19:42:20] tommeketoch: Bd6 are very annoying black had no queen to sack for it :p
+[19:42:50] Inter-temporal: (15.Nc4) not sure i even want the b-pawn here. could backfire
+[19:43:36] tommeketoch: nah there is no attack on the bi file
+[19:43:51] tommeketoch: which pieces are going to attack on b2
+[19:43:51] Inter-temporal: (15.Nc4) (15) it does look a little difficult on black's Q-side
+[19:44:06] HighonPotnuse: go inter!
+[19:44:06] tommeketoch: and the knight is going straight into d5 after
+[19:44:37] Inter-temporal: (15...b5) gosh. now i gotta calculate ... come on. lol
+[19:45:07] tommeketoch: What is there to calculate after Nxe5?
+[19:45:38] rapiplay: Nb6?
+[19:45:38] bufferunderrun: Nb6 Ra7 Nxc8 Rb7 Bc5 and the knight gets away
+[19:45:53] tommeketoch: Ah yeah that just wins
+[19:46:08] bufferunderrun: exactly,
+[19:46:54] Inter-temporal: (15...b5) (15) i think i whittled down to Nb6 or Nxe5
+[19:48:25] Inter-temporal: (15...b5) (15) Nxe5 seems easier to calculate
+[19:48:40] bufferunderrun: probably Bb7 after Nb6 is the best option, but this should lose in the long run
+[19:51:13] Inter-temporal: (15...b5) (15) but...
+[19:51:58] Inter-temporal: (15...b5) trying to see Nb6 Ra7, Nxc8 Rb7, Bc5 ___ maybe ...Ne6, Nd6+ a fork?
+[19:52:13] Inter-temporal: (15...b5) (15) but it's complicated and i can easily miss smth
+[19:52:44] mongreltiger: Go Inter-temporal
+[19:54:46] bufferunderrun: wonder if 18.c4 is too crazy
+[19:56:17] Inter-temporal: (19.a4) "Always play a4 (even if it loses)"--Capablanca
+[19:57:03] Inter-temporal: (19.a4) black still has the forever tricky Ns, which are killers at our level
+[19:58:03] Inter-temporal: (19.a4) i'm recalling a somewhat similar position with the hole on d3/d6 (there it as d3)
+[19:58:19] Inter-temporal: (19.a4) they asked about why it could be worth so much to SF.
+[19:58:49] Inter-temporal: (19.a4)  sometimes even humans can do smth with it? we'll see. this aint over
+[20:02:53] bufferunderrun: I thought Nxb5 was kind of forced...
+[20:05:25] bufferunderrun: 23.Ba6, because we can
+[20:08:58] ecoarrivazumashoomzo: go tsscfttsos, its clutch time
+[20:09:59] Inter-temporal: (23.Kd2) (19) both Bs are undefended now... can't be good
+[20:11:15] MrScribbles: (23.Kd2) Go rskyoz! Because it helps my team in the standings if you win :D
+[20:11:15] MrScribbles: (23.Kd2) oops wrong game, please ignore
+[20:12:16] Inter-temporal: (23.Kd2) (23) i guess Nc6 is not really pinned anymore either
+[20:12:16] bufferunderrun: baiting to see that game, ic... well, it worked :p
+[20:12:31] Inter-temporal: (23.Kd2) i just want to shuffle my K to the K-side, if i can
+[20:13:32] Inter-temporal: (23.Kd2) i think Ke3 is an okay square for a bit
+[20:14:18] Inter-temporal: (23.Kd2) maybe ...Na5 is decent
+[20:14:48] Inter-temporal: (23...Na5) good move
+[20:23:10] bufferunderrun: 25.Bb4 looks alright, Nb3 Bxc6 forcing dxc6 and then Rd7
+[20:25:12] Inter-temporal: (25.Be2) (23) idk
+[20:25:58] Inter-temporal: (25.Be2) just preferred this with ...Nf4, g3 Nxe2, Kxe2 then Nc4 is not check
+[20:26:28] Inter-temporal: (25.Be2) among other things. idk
+[20:31:48] Inter-temporal: (28...Bb5+) (28) maybe K should return to Q-side
+[20:33:19] Inter-temporal: (29.Kf2) (28) gotta remember tactics.
+[20:34:35] Inter-temporal: thank you all for watching! and thank you Tsscfttsos for a good game
+[20:34:50] ecoarrivazumashoomzo: good match, good luck for podium guys
+[20:34:50] nyanners: gg
+[20:35:36] Inter-temporal: i toggled off the engine (if ya'll could delay engine analysis from the chat i'd appreciate mucho)
+[20:35:51] Tsscfttsos: gg
+[20:36:07] Inter-temporal: you too! it was not easy.
+[20:36:53] Inter-temporal: i was expecting 5...d6 or 5...Nf6.
+[20:37:23] Inter-temporal: or 5...a6 was the other top Lichess move from our levels, i think
+[20:37:38] Inter-temporal: 6...e5 was good, i think
+[20:37:53] bufferunderrun: gg
+[20:38:54] Inter-temporal: ty. i'm just a bit under the weather, so imma go rest. hit me up in slack if you'd like to discuss?
+[20:48:02] MrScribbles: gg
+[20:48:17] MrScribbles: congrats el tempador
