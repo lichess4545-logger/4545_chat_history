@@ -1,0 +1,174 @@
+Lichess game chat log
+Game      : https://lichess.org/OYySxP4G
+White     : hamsamisch
+Black     : jg777
+Time      : 45+45
+Captured  : 2026-05-25 01:15:51 UTC
+Game ended : 2026-05-24 23:55:46 UTC
+Messages  : 164
+────────────────────────────────────────────────────────────
+
+[22:03:38] GoldenRetrieverChess: Gooo jg777! Love the name HamSamish :D
+[22:04:39] jg777: Looks like this game decides the outcome of the team match, so I thought well d4, lets try something besides d5 and try to spice it up.
+[22:07:27] jg777: Pretty sure e5 is the move here, then Qg6 which annoys Bf1 development a bit, maybe prompting g3 stuff.
+[22:10:14] jg777: Well didn't expect that, I suppose I play fxe4 and castle to target f2. It isn't super important since moves like Nf3 are fine.
+[22:10:14] fork2020: Go jg777!
+[22:11:45] jg777: I think I'd rather wait to take c3 if white castles queenside, they will play bxc3 anyway, not like I'd win a pawn or anything there.
+[22:12:00] jg777: fxe4 seems the move.
+[22:12:00] bufferunderrun: not sure I like Qd3
+[22:13:47] Mennonite: go jg777!
+[22:14:48] bufferunderrun: 8...Bxc3 perhaps, bxc3 c5
+[22:16:04] R0B-W: Go, jg777!
+[22:20:07] nyanners: ive had this type of position but something feels off
+[22:20:23] jg777: Qh6 or g6...
+[22:20:23] bufferunderrun: Bxc3 and then g6
+[22:20:53] nyanners: its probably Bxf6. white didnt need that to play e4
+[22:21:39] jg777: Qh6 prevents 0-0-0 and Rf4 next; But I lose pressure on d4 and potentially f2. g6 weakens the king a bit, but keeps those tension points.
+[22:21:54] nyanners: i like baiting O-O-O. then you play Qf4+
+[22:22:09] nyanners: but yea shouldnt happen
+[22:22:40] nyanners: im mostly concerned about Qh6 going like h4 Ng5 or something of the sort and the queen being kinda stuck
+[22:22:55] bufferunderrun: Qh6, h4, Ng5 it just feels wrong
+[22:23:10] nyanners: for both :D
+[22:23:25] jg777: There is Qh6 h4 with the idea of Ng5, but I think the immediate Rf4 disrupts that idea. Then again queen moves, knight goes to g5...
+[22:24:26] nyanners: the concern with g6 is h4-h5.. eventually
+[22:24:57] nyanners: im not too sure. i kinda like some dream of g6 d5 e5
+[22:24:57] bufferunderrun: I played the Dutch once OTB and then thought to myself, why do I need to play an opening where I have to make a bunch of only moves?
+[22:25:42] nyanners: to play the dutch is to pursue an *ideal*
+[22:25:57] nyanners: not a very good one to be honest
+[22:26:58] nyanners: the evaluation of this position hangs on the immediate dynamics. black's static pluses are significant
+[22:27:44] nyanners: bishop pair and central pawn, and can trade the bishop pair for the doubled pawns which is also not bad
+[22:29:15] ecoarrivazumashoomzo: go jg777!
+[22:31:17] jg777: I am wondering if I should give a weak E pawn and play for d5 to disrupt the piece coordination with the idea of Bd7 Eae8 and e5 maybe
+[22:33:35] jg777: I suppose it depends if they throw h4 now, castles, or something else.
+[22:34:05] jg777: Because h4 Rf4 Qe3 makes it difficult for the f3 knight to go to g5 safely.
+[22:35:21] jg777: But there is a tactic with Bxh7+ Kxh7 Ng5+ where the rook on f4 hangs.
+[22:35:52] HamSamisch: h4 Rf4? idk.
+[22:37:23] jg777: I guess  I have a move, so Qf6 or something there keeps the queen on the rook, then Bxh7+ doesn't work.
+[22:37:23] bufferunderrun: h4 Rf4 g4, because why not?
+[22:37:54] Inter-temporal: is 10.Ng5 safe
+[22:38:09] bufferunderrun: I don't think it works
+[22:38:24] guitarspider: b6 and Bg7 seems good but maybe d5 is a problem
+[22:38:54] bufferunderrun: booo
+[22:39:25] Inter-temporal: just needed a move to stop the clock.
+[22:40:26] bufferunderrun: Bd6 Ne5 I suppose
+[22:40:41] bufferunderrun: otherwise, Rxf3 is coming
+[22:40:56] jg777: c3 isn't pinned anymore so Bd6 to offer a checkmate if allowed Rxf3?
+[22:41:11] bufferunderrun: yay
+[22:41:42] jg777: Ne5 seems strong there though.
+[22:42:27] bufferunderrun: does Rf4 makes things tricky?
+[22:42:43] jg777: c7 is something too, now that Nb5 is possible.
+[22:42:58] HamSamisch: maybe this was a little too tame, but it seems my position is still good.
+[22:43:13] HamSamisch: I wanted Ng5 to work, but I didn't see it.
+[22:43:13] jg777: So that suggest the other idea I had, which was d5 Bd7.
+[22:43:28] nyanners: something funny to watch for is d5 Qxd5 supports Ng5
+[22:44:14] nyanners: its also probably mostly irrelevant
+[22:45:00] Inter-temporal: after Nxd5, or before?
+[22:45:15] bufferunderrun: there is also Nd5 from white that needs to be calculated
+[22:45:15] jg777: Leaning towards d5. It does give me the backward pawn, but it solves a lot of other issues and controls e4.
+[22:46:01] bufferunderrun: not after d5, which I'm not sure about
+[22:46:16] bufferunderrun: I kind of want Rf4 to work
+[22:47:17] nyanners: d5 is either kinda good or really bad
+[22:47:32] nyanners: i think its good tho
+[22:48:03] nyanners: like, Qe2 black can consider exchange sac?
+[22:48:03] nyanners: and then things get kinda rolling
+[22:48:33] nyanners: Qe3 Qxe3 is a bit of a weird situation but cant be too bad for black
+[22:48:33] bufferunderrun: there is g3 though, so Idk about the sac
+[22:48:48] nyanners: its not for mate. its for Nxd4 and pawn mass
+[22:49:34] bufferunderrun: d5 seems alright, if black gets Bd6 in
+[22:49:49] nyanners: though theres a good point in there that, like, Qe2 you might well just insert Bd6 first
+[22:50:04] bufferunderrun: then Rf4 can be annoying, with Nxd4 threats
+[22:51:05] nyanners: the more i look the more i like black so maybe white should bail with Qe3
+[22:51:20] nyanners: this is looking pretty dangerous actually
+[22:51:51] nyanners: like Bd6 seems like an improvement on the immediate Rxf3
+[22:53:07] bufferunderrun: and Nb5 doesn't help, since Nxd4
+[22:53:22] HamSamisch: he can sac the rook for some pawns. idk who is better in that mess
+[22:53:37] HamSamisch: d5 seems weakening as hell, but it's definitely procoative when you look at the concrete stuff. scary.
+[22:56:10] jg777: I don't think Rf4 is worth it in light of Nb5 that I can see, as c3 comes next.
+[22:56:40] jg777: Bd7 and Bd6 both seem to have their own points, and maybe even blend together depending on what Ham does.
+[22:57:26] nyanners: i like a Threat
+[22:57:26] nyanners: Bd6 Nb5 Rxf3 Nxd6 Rxd3? can i count?
+[22:58:57] jg777: Although Bd7 Ne5 may have a move order issue as Nxd4 Qe3  gives me two pieces under attack.
+[23:00:13] jg777: I guess then I don't take d4 and take e5, pawn has to take back or Bd6 comes, which makes e6 less of an issue for me.
+[23:01:44] jg777: Maybe there is some merit to a6, stopping a lot of the N or B b5 ideas. Seems slow, but it also restricts white minor pieces too.
+[23:04:17] jg777: After the game I need to check that position and see where I was in my evaluation and if I used my time well or not.
+[23:04:17] jg777: well, even if I found the right idea I suppose I still used to much time for it, but anyway.
+[23:05:33] jg777: Anyway, now Bd6 is more on the table since Ne5 is met with Nxd4, and there is no Nb5.
+[23:05:33] bufferunderrun: can't you just take on d4 after Bd6 Nd5
+[23:06:03] bufferunderrun: I meant Nb5
+[23:07:50] ecoarrivazumashoomzo: maybe nbxd4 there
+[23:08:35] bufferunderrun: oh, yeah, this makes sense
+[23:09:21] jg777: I still need to get Bd7 in sometime soon and Rae8, but such a difficult time to find when to do it.
+[23:09:51] bufferunderrun: let's go!
+[23:10:52] jg777: I need to remember that Ne5 Nxd4 can be met with Bxh7+ now
+[23:12:08] jg777: although maybe the idea can be Ne5 Bd7, as it is immune because of the threat on h2 if it moves.
+[23:14:10] jg777: Yeah, I wonder if the idea to play Ne5 Bd7-e8-h5 for example is worthwhile transfer there. I think I prevent f4 ideas there too.
+[23:15:11] jg777: Well, see if h3, g3, or Ne5 gets played. I think those are the three options.
+[23:16:57] jg777: Okay Bd7 is my top move idea, simply because I need to finish development here.
+[23:16:57] bufferunderrun: 13...Rf4?
+[23:17:43] nyanners: take d4
+[23:17:58] bufferunderrun: jg didn't like Bxh7
+[23:18:29] nyanners: pawn mass and remove white's most dangerous attacker? count me in
+[23:19:14] nyanners: Rf4 was a fair alternative
+[23:19:14] bufferunderrun: Idk... I want SF to like Rf4
+[23:19:14] nyanners: i like it. does it count :o
+[23:19:45] bufferunderrun: you are smarter than I am, so yes! :p
+[23:20:00] nyanners: maybe a better player. idk about smarter :o
+[23:20:00] bufferunderrun: both
+[23:20:31] nyanners: very kind :D
+[23:21:16] bufferunderrun: hmmm, but now Be8 is interesting
+[23:21:16] jg777: if only Nxd4 worked and I could reach f3 with it.
+[23:22:32] jg777: There is a Kh8 idea to try for it, but NxN happens and spoils it all.
+[23:25:20] jfiras: (14...Be8) @bufferunderrun i checked with the engine, do you want me to tell you its opinion abt Rf4?
+[23:25:20] nyanners: whatever this is, its definitely going black's way
+[23:26:21] bufferunderrun: I'll check if after the game, otherwise, what's the fun of suggesting semi-random moves :p
+[23:26:51] jfiras: (14...Be8) fair enough haha
+[23:32:11] HamSamisch: maybe g4 was better
+[23:32:26] HamSamisch: I feel like I can get these pawns rolling though.
+[23:32:26] jg777: Okay so he weakened the g1-c5 diagonal so now Nxd4 should be good as Bxh7+ and Rxd4 gets bet with Bc5, pinning the rook to the king.
+[23:35:44] jg777: and my team collectively holds their breath to see if I blunder a piece here. Understandably, since I have several times this season!
+[23:37:00] bufferunderrun: the trick is Bc5 pining the rook after Rxd4
+[23:38:01] Inter-temporal: if Qd3+ Nf4,  g4 maybe craziness
+[23:38:31] HamSamisch: I will have to resign soon
+[23:38:31] Inter-temporal: crazy, but prolly not good
+[23:38:46] HamSamisch: I wonder where this went wrong.
+[23:39:17] Inter-temporal: right. ...QxB!
+[23:39:32] bufferunderrun: that's the thing with Dutch, neither sides know
+[23:41:34] HamSamisch: I wonder if g4 earlier was winning? Bh5 seemed really speculative to me at the time, but maybe it was just a good move?
+[23:43:05] jg777: Trying to find the right continuation here. Bxd4 is an obvious move, but maybe Rae8 first makes sense, too.
+[23:44:52] gavalanche20: Is Qf5 worth throwing in?
+[23:44:52] bufferunderrun: why Rae8 when we can Rf6 :p
+[23:45:37] jg777: Also there is a concern over Rh4 after swapping on d4 that I need to likewise solve.
+[23:47:24] HamSamisch: curious the evaluation on this game throughout. has to be wild.
+[23:48:10] HamSamisch: d5 really looked like an ugly move. I wonder if it was and I didn't refute it correctly, or if it was just good actually.
+[23:52:59] bufferunderrun: is h4 any good?
+[23:53:29] jg777: I did not evaluate that position right, I think Re8 was a waste overall. We will see.
+[23:55:16] bufferunderrun: gg
+[23:55:31] jfiras: gg !
+[23:55:46] ecoarrivazumashoomzo: well played, great game!
+[23:55:46] Inter-temporal: gg
+[23:57:17] HamSamisch: this is what I get for not studying lol
+[23:57:17] HamSamisch: Qd3 is already garbage.
+[23:57:33] jg777: I thought it was a bit weird move. I anticiapted e5.
+[23:57:48] HamSamisch: yeah I shouldn't have played this line
+[23:58:03] HamSamisch: I do not know it
+[23:58:03] jg777: Ah, a6 wasn't even the right move, it was Bd6.
+[23:58:18] jg777: I don't know it either, I just threw a Dutch out and thought lets see what happens.
+[23:59:04] jg777: Okay, g6 was better than Qh6, I suppose that makes sense, I debated the two.
+[23:59:04] HamSamisch: I normally don't wing things, and you can see why LOL. You are obviously much better at thinking it out over the board.
+[23:59:34] HamSamisch: good job!
+[23:59:49] jg777: I hate openings, I am bad at them. I just figure most things out over the board. I was slowly learning some openings last year but took
+[23:59:49] jg777: a chess hiatus so back to "winging" it mostly.
+[00:00:05] HamSamisch: I'm the opposite
+[00:00:20] HamSamisch: Hate not having seen smething before. Want to feel prepared
+[00:00:35] HamSamisch: But I had a very long week and no time.
+[00:00:35] HamSamisch: But it's good experience for me.
+[00:00:35] jg777: I get that too
+[00:00:35] HamSamisch: Gotta be able to do it all, right?
+[00:00:50] jg777: busy life and then sit down for a game not feeling prepared for it is not fun.
+[00:01:21] jg777: Hm yeah, okay, kid wants to go play so I need to go, but thanks for the game and I will review this more later
+[00:01:36] HamSamisch: it was still fun though.
+[00:01:36] HamSamisch: yah ggwp!
+[00:01:36] jg777: it looks like I missed the mark in the positions I was trying to find the best idea
+[00:01:51] jg777: cheers to your round 8 game!
+[00:01:51] jg777: See you.
+[00:33:01] nyanners: gg
