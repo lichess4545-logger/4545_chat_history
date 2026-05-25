@@ -1,0 +1,136 @@
+Lichess game chat log
+Game      : https://lichess.org/6V5FwKSw
+White     : langew0w
+Black     : bufferunderrun
+Time      : 45+45
+Captured  : 2026-05-25 20:52:50 UTC
+Game ended : 2026-05-25 19:32:45 UTC
+Messages  : 126
+────────────────────────────────────────────────────────────
+
+[18:01:10] LANGEw0w: i thought he would play the french...
+[18:01:40] GoldenRetrieverChess: Gooo buffer!!
+[18:01:40] bufferunderrun: let's try something new...
+[18:03:27] GoldenRetrieverChess: ...3 e5!!
+[18:05:44] LANGEw0w: Feels like I have been out-prepped here, I
+[18:07:15] LANGEw0w: My plan is to plan my knight at c4, but dunno how to respond to ba6. I guess I am just happy for that trade if it happens
+[18:08:01] LANGEw0w: also, his Knight also has no obvious squares to me. Seems like h3 is a candidate move
+[18:10:18] LANGEw0w: im pretty sure we are in a marockzy bind. I have played it, but rarely (never?) against it
+[18:12:19] LANGEw0w: i dont even know what my knight on c4 would do tbh. He should be happy with  a trade on his dark squared bishop
+[18:16:38] LANGEw0w: my initial plan here is to trade my knight for a bishop just to plant my other knight on c4. I will try to open up my rook
+[18:16:53] LANGEw0w: i see no future on the king side
+[18:18:55] LANGEw0w: i dont see any tactics related to his unprotected bishop
+[18:20:11] LANGEw0w: i wonder was his plan is. I only see Ng6, Nf4
+[18:20:57] LANGEw0w: he has the worlds worst bishop. Mine atleast has some targets on the queenside
+[18:23:14] LANGEw0w: damn, Bc7 was annoying
+[18:24:45] LANGEw0w: can't be bad to connect rooks and prepare b4
+[18:25:31] LANGEw0w: my pawns are telling me to attack his kingside, but pieces are pointing towards the queenside. Chess is hard folks!
+[18:25:46] nyanners: umm not a maroczy but i see why one would think that. but no pawn trade
+[18:26:01] nyanners: just a kinda unique structure overall
+[18:26:01] nyanners: anyway names are not important
+[18:26:32] LANGEw0w: i wonder if my king rook should go to d1 or b1
+[18:26:47] nyanners: as white im just going 9 a5
+[18:27:02] nyanners: ..probably
+[18:27:17] LANGEw0w: i feel like my position has more plans considered how I felt 3 moves ago
+[18:27:33] nyanners: with black whether to a5 yourself or not is always an interesting question
+[18:27:48] nyanners: in general i like it but sometimes white has a good c3-b4 or even b4 right away(!)
+[18:28:03] LANGEw0w: he could trade take this game to a heavy piece endgame with Bxc4.  Seems like  the best plan right now tbh
+[18:28:18] ysgwydd: (11.Qd2) Nd5 would create a very short lived marozcy
+[18:28:18] nyanners: AHAH
+[18:28:49] nyanners: is that so bad?? like cxd5 tempo and d4 next
+[18:28:49] nyanners: what ARE we doing
+[18:29:19] ysgwydd: (11.Qd2) Oh I wasn't serious
+[18:29:19] nyanners: i know. but i am
+[18:29:34] nyanners: look what you did :o
+[18:29:34] ysgwydd: (11.Qd2) Yeah I see it now
+[18:29:34] LANGEw0w: i wonder how strong a6 is for him. Obviously after castling first
+[18:30:05] nyanners: if this was anything but a "serious" game i would play Nd5. you cant just not
+[18:30:20] LANGEw0w: i mean after a6, I have b4. Seems not that good for him
+[18:30:35] ysgwydd: (11.Qd2) I would not consider the move
+[18:30:50] nyanners: same
+[18:31:36] nyanners: didnt like this trading. feels it emphasizes the bishops
+[18:31:36] nyanners: which is good for white of course
+[18:31:36] LANGEw0w: okay, lets go endgame time
+[18:32:06] LANGEw0w: this screams draw
+[18:32:06] ysgwydd: (13...a5) Here white has an obvious move
+[18:32:37] nyanners: i dont know but im going with Rd1 B.. not sure. but Nd2 Nf1 Ne3
+[18:32:52] nyanners: could be Be1 f3 for all i know
+[18:33:07] ysgwydd: (13...a5) Nd4 of course. Surely this time
+[18:33:07] nyanners: :D
+[18:33:38] LANGEw0w: new plan: b4, but can't allow Rd3. I want to play c3-b4
+[18:33:38] glbert: go bufferunderrun!
+[18:33:53] ysgwydd: (14.Rfd1) Nc8-d6 maybe
+[18:34:24] LANGEw0w: if I know anything about endgames I should be SLIGHTY better just because his pawns are fixated on dark squares
+[18:35:24] LANGEw0w: if I had two free moves I would play h4-h5
+[18:35:40] LANGEw0w: either that or Nxe5-Nxc6 :D
+[18:36:25] glbert: if i had two free moves as white, i would play Nxe5 Nf3.
+[18:36:41] LANGEw0w: his king seems to have a better route to activity. Via f7
+[18:37:11] nyanners: c3 b4 can be the last thing you do probably
+[18:37:11] LANGEw0w: I guess against Ng6 I will play g3 to shut down the horse
+[18:39:28] LANGEw0w: oh thats nice, didnt see that
+[18:42:00] Inter-temporal: (14...Nc8) ...Ne6 to advance b5?
+[18:42:46] LANGEw0w: i could go Be1, Nd6 - Nd2, but I dont think I like to fix my knight to a defensive role
+[18:43:01] ysgwydd: (14...Nc8) Nd6 also attacks e4 and c4
+[18:43:16] Inter-temporal: (14...Nc8) yeh ...N[d]6
+[18:44:48] LANGEw0w: i dont see anything else. Re1 loses a tempo and is passive. Sacrificing a pawn also seems dumb
+[18:44:48] Inter-temporal: (14...Nc8) someone complained about my slack edits. fact is, i'm just a typo magnet. lol
+[18:45:49] LANGEw0w: b3 seems so drawish, but seems like he has succesfully defended against b4
+[18:46:04] ysgwydd: (17.f3) I mean a knight on e6 isn't terrible
+[18:46:19] Minot: why are they blitzing here lol
+[18:46:49] ysgwydd: (17...Rhd8) Both came up with a short plan I guess
+[18:47:05] Inter-temporal: (17...Rhd8) arguing over time advantages. maybe
+[18:47:20] nyanners: just embrace the typos
+[18:47:50] nyanners: i think these are fine fast moves. id play a fast b3 too
+[18:48:06] Inter-temporal: (17...Rhd8) i try! [*sobbing emoji*]
+[18:48:36] Inter-temporal: (17...Rhd8) weird. my earth flag pops up now
+[18:49:06] Inter-temporal: (17...Rhd8) except, perhaps, when i say "earth flag"?
+[18:49:37] LANGEw0w: i think my king belongs to e2
+[18:50:38] Inter-temporal: (19...Rad8) earth flag is slow-rolling me.  i thought maybe black wanted Rab8 and b5?
+[18:51:08] ysgwydd: (19...Rad8) They are trying to get a symmetrical position. Some more shuffling required
+[18:51:54] ysgwydd: (20...Nb7) Nf7-g5-e6-d4
+[18:52:24] Inter-temporal: (20...Nb7) freezing white's Nd2
+[18:53:25] Inter-temporal: (20...Nb7) maybe not yet. i don't understand...
+[18:53:56] ysgwydd: (20...Nb7) What is Nb7 doing though?
+[18:54:26] Inter-temporal: (20...Nb7) like aiming to trade Rs? then Nd8-e6 or smth
+[18:54:57] Inter-temporal: (23...Nd6) or just back to d6
+[18:55:27] LANGEw0w: cant seem to figure out whether I should aim to play b4 or fix the position with b3
+[18:55:27] nyanners: white managed b3-less somehow
+[18:55:27] nyanners: b3 does not discard b4 yknow
+[18:58:15] ysgwydd: (24...g6) You can move each pawn only once is what I was told
+[18:59:00] Inter-temporal: (24) (24...g6) opening principles, 101.
+[19:00:01] LANGEw0w: where tf does my pieces go here
+[19:00:47] Inter-temporal: (24...g6) lol. minor pieces are not enjoying this position. but the suffering seems mostly symmetric
+[19:02:49] LANGEw0w: I have no idea where my knight and bishop should go. Queenside seems locked. b5 gives me access to d5
+[19:03:34] Inter-temporal: (25.g4) (25) endgame strategy: just crash ur pawns into their pawns
+[19:03:34] LANGEw0w: If I draw here, I am happy
+[19:04:50] LANGEw0w: my bishop goes to g3, i think. But Ke6 seems strong , defending  e pawn
+[19:05:36] LANGEw0w: wait, surely my kings belongs to d3
+[19:16:00] LANGEw0w: Now I am uncomfortable
+[19:19:18] Inter-temporal: (29...Bh6) (25) black's making progress?
+[19:21:04] LANGEw0w: pretty sure trading bishop for knight here would give him the advantage with f5
+[19:22:05] LANGEw0w: his bishop is trapped now, no?
+[19:22:36] nyanners: "you think i'm trapped with you, but you're the one trapped with me" moment
+[19:22:51] LANGEw0w: dont see it..
+[19:23:06] nyanners: i dont like g5. surely f4 would have been in black's favour
+[19:23:06] Inter-temporal: (31...g5) "we traced the call, it's coming from INSIDE ur house"
+[19:23:21] ysgwydd: (31...g5) The knight is more trapped than the bishop
+[19:24:53] LANGEw0w: well, he always has bf4
+[19:28:11] MrScribbles: (33...exf4) drawest draw that ever drew
+[19:28:11] MrScribbles: (34.Ne1) but of course, anything can happen
+[19:28:41] LANGEw0w: ne1-nc2 seems like only plan
+[19:29:27] ysgwydd: (36.Ke2½?) Is it time to ask who wins the pawn endgame?
+[19:29:42] MrScribbles: (36.Ke2½?) nobody
+[19:29:42] MrScribbles: (36.Ke2½?) but might as well play on for funsies
+[19:29:57] MrScribbles: (36.Ke2½?) again, anything can happen
+[19:30:58] LANGEw0w: I dont even think there is more practical play here
+[19:31:59] MrScribbles: gg
+[19:32:14] ysgwydd: gg
+[19:32:14] Pineapplechiffoncake: Gg
+[19:32:44] nyanners: gg
+[19:33:00] Inter-temporal: gg
+[19:33:15] ysgwydd: Nd5 was indeed fine for black
+[19:33:30] ysgwydd: 11...Nd5 that is
+[19:34:16] nyanners: i thought it was good!
+[19:34:16] nyanners: like, better than that XD
+[19:34:31] nyanners: but its just about on par with Bxc4
+[19:35:47] ysgwydd: Much fancier though
