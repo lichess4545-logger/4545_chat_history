@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/ad7gLbzB
+White     : debrx
+Black     : emadbakry1980
+Time      : 45+45
+Captured  : 2026-05-25 15:34:05 UTC
+Game ended : 2026-05-25 14:14:00 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[12:41:40] JEEprep2374: (3...Nc6) 40 minutes after pairings realesed, very quick game!
+[12:43:42] GoldenRetrieverChess: And it’s a cool looking English!
+[12:44:12] Mennonite: I offered to play immediately but my opponent isn't on Slack right now
+[12:44:58] ecoarrivazumashoomzo: these guys are not horsing around
+[12:44:58] Mennonite: Looks like we'll be seeing opposite castling
+[13:02:43] bufferunderrun: Nd5 is tempting, but there will be issues with the rook on a1, I think
+[13:03:29] bufferunderrun: hmm maybe Nf4 then
+[13:06:32] JEEprep2374: (14...h4) I dont love how black has gone about this, I feel like d6 is going to be weak forever
+[13:07:02] JEEprep2374: (14...h4) so if white survives the attack the endgame will most likely be better for white
+[13:08:49] JEEprep2374: (14...h4) Black's bishop on e7 is also quite bad, and I dont see a good way to develop it
+[13:09:34] JEEprep2374: (14...h4) maybe if the rook ever moves of d8 there is Bd8-b6, but again d6 will be a problem there
+[13:09:49] bufferunderrun: the endgame isn't going to be pretty for black, but white needs to get there first
+[13:12:37] JEEprep2374: (14...h4) I am liking Ncd5 here honestly, white's f4 knight is doing an amazing job right now defending h3 from any shenanigins, worst ...
+[13:12:37] JEEprep2374: ...case white will play Bg2
+[13:13:23] JEEprep2374: (14...h4) or build pressure on d6 with Ba3-Qd2_Rad1 or something
+[13:13:38] JEEprep2374: (15...Qxh3) This cannot be good
+[13:14:08] ecoarrivazumashoomzo: 16. bg2 only qf5 or qd7 look playable for black, i think this is ok for white
+[13:14:08] JEEprep2374: (15...Qxh3) ehh maybe Bg2 holds but it certainly isnt pretty
+[13:14:23] Mennonite: Black's playing like they have to go somewhere and they're running late
+[13:14:39] JEEprep2374: (15...Qxh3) black does play too fast oftentimes
+[13:15:09] Mennonite: Bartholomew-esque "using your clock as a weapon"
+[13:15:24] JEEprep2374: (15...Qxh3) I am thinking maybe Bg2 is responded with Qf5-h7
+[13:15:39] JEEprep2374: (15...Qxh3) but there is no checkmate as far as I can tell
+[13:16:25] bufferunderrun: Qe2 looks wrong to me
+[13:16:40] JEEprep2374: (16...hxg3) Qe2 is bold
+[13:16:56] ecoarrivazumashoomzo: asking for trouble
+[13:16:56] JEEprep2374: (16...hxg3) Bg2 no longer possible
+[13:17:26] JEEprep2374: (17.fxg3) not to mention Nfg4 is basically crushing
+[13:17:26] Mennonite: Qg2 is an idea but then you have to look for Nf3+ tactics
+[13:17:26] JEEprep2374: (17.fxg3) unless I am missing something
+[13:19:58] JEEprep2374: (17...Nfg4) could Qg2 be playable actually? Nf3+ Qxf3 Qxh2 Kf1? it isnt immedaitly obvious how black continues
+[13:20:44] JEEprep2374: (17...Nfg4) obviously black could go into and endgame with Qxh1, but at the end of the day thr attack is no more
+[13:20:59] JEEprep2374: (17...Nfg4) quite possible that endgame is a draw
+[13:22:46] Mennonite: 18.Qg2 Qxh2+ 19.Qxh2 Rxh2 20.Re2 and I feel like there should be *something*
+[13:22:46] JEEprep2374: (17...Nfg4) then again there is the possiblty that black goes for none of that and plays Qxh2
+[13:23:01] bufferunderrun: maybe just Qg2 Qxg2 Bxg2 Nxh2 with later Bf6, white is still kind of bad here I think
+[13:23:47] ecoarrivazumashoomzo: eveb if theres nothing black wins a pawn with qg2 qxh2 right
+[13:26:34] JEEprep2374: (17...Nfg4) maybe that is white's best shot right now
+[13:26:49] JEEprep2374: (17...Nfg4) otherwise Nxh2 seems like a massive threat
+[13:27:20] JEEprep2374: (18.Nd5) Could black disregard the bishop here?
+[13:28:05] JEEprep2374: (18...Bf6) nevermind black is just playing fast.
+[13:29:21] JEEprep2374: (19...gxf6) my god slow down let me process wether Nxh2 was possible there!
+[13:31:23] JEEprep2374: (19...gxf6) I guess Nxh2 there is Ne4 there, but f5 maybe? its very weird
+[13:31:54] JEEprep2374: (20.Rf1) Nxf2 has to be winning here right?
+[13:34:26] JEEprep2374: (21...Rxh2) Nxh2* anyway that did not happen, I am already liking white's chances a lot better
+[13:36:12] JEEprep2374: (21...Rxh2) black is up a pawn, but their structure is in complete shambles
+[13:37:59] ecoarrivazumashoomzo: its very imbalanced white has bishop pair, but the a1 rooks not playing yet, black has rook on 7th, good knights up a pawn
+[13:52:26] ecoarrivazumashoomzo: 24) bg2s prety clever if it means the a1 rook can get out
+[14:01:49] giziti: (27.Rd2) just started watching, man, Bg2 seemed necessary earlier to kick the queen
+[14:03:06] ecoarrivazumashoomzo: yh, but i think whites consolidated a bit, i think 25 rad1 was good
+[14:03:21] giziti: (27.Rd2) Bxb7+ and then Rxh2?
+[14:03:36] giziti: (27...f5) nice
+[14:04:22] ecoarrivazumashoomzo: and now its turning around!
+[14:06:08] ecoarrivazumashoomzo: 30) rh7 can you even take g3
+[14:07:40] Mennonite: i like seeing superior clock usage rewarded
+[14:12:59] giziti: (33.R4xf5) yeah just have to be careful about tricksy knight jumps
+[14:13:30] giziti: (33...Rg4) oof Rb5 is over
+[14:15:01] GoldenRetrieverChess: gg
+[14:15:31] debrx: thanks, very exciting game
+[14:15:47] ecoarrivazumashoomzo: ahh 26.. rxg2 i totally missed
+[14:16:02] ecoarrivazumashoomzo: good game
+[14:16:17] debrx: yeah, I saw that when it was too late; got lucky my opponent missed it
