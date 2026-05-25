@@ -1,0 +1,184 @@
+Lichess game chat log
+Game      : https://lichess.org/hVY9vLyA
+White     : jg777
+Black     : morganbp
+Time      : 45+45
+Captured  : 2026-05-25 22:10:30 UTC
+Game ended : 2026-05-25 20:50:25 UTC
+Messages  : 174
+────────────────────────────────────────────────────────────
+
+[18:55:44] fritsj: Let's go morgan!!
+[18:59:47] fork2020: Go jg777!
+[19:00:17] jg777: Rare for me to get a game played on Monday pairings day, but it worked out today!
+[19:00:33] jg777: Now just waiting for my opponent to come online.
+[19:01:18] R0B-W: (1...e5) Go, jg777!
+[19:01:34] jg777: e5?! Do I dare King's Gambit? I think I shall!
+[19:02:04] jg777: Last game of the season, why not have a go with a fun opening!
+[19:02:04] fritsj: Oh boy a King's Gambit!!
+[19:03:05] jg777: Well, we won't see the g5 lines it seems, but that is okay. A King's Gambit usually holds promise of fun.
+[19:04:36] jg777: Well, we could see some type of g5 stuff I suppose after all.
+[19:08:40] jg777: I don't recall the last time I was able to get a King's Gambit on a league board. Brilliant fun though!
+[19:09:26] jg777: I do hope my visualization and calculation are up to the task though, it usually gets tactical early and likely often.
+[19:10:42] jg777: doesn't seem to crazy yet though. I want to castle ASAP. There should be some fun stuff along the F file and Ng5 with Nxd5 stuff though.
+[19:11:12] jg777: I think if they are stubborn on the f4 pawn, I can play g3 stuff and really have a go at the craziness.
+[19:12:59] jg777: So the awkward knight on h5 is always a potential target, so Ng5 is an option if I want to ramp up the fun.
+[19:14:15] jg777: It's really hard not to play Ng5 here, it looks fun, I think in the spirit of the opening I must go for it.
+[19:17:18] jg777: The important part is they don't get g5 in, which makes f4 weak. the pin keeps d4 safe, so this all should work out nicely.
+[19:19:20] jg777: g6 is good I think, because there is a high chance for the DSB to trade off, so then those squares are weak.
+[19:19:35] jg777: I can also ruin the queenside pawns and then black's king has less safe areas to be.
+[19:20:05] jg777: i.e. Bxc6 bxc6 Na4 looking at Nc5, is a nice square for the knight.
+[19:21:37] jg777: Okay already trying to castle queenside and keep the pawns together, so Na4 to c5 now?
+[19:23:08] jg777: Yeah I think this makes the most sense, the f4 pawn can be taken later I think, not a rush.
+[19:24:40] jg777: Okay, retreating pieces are not bad for me here, but now I need to take f4 because g5 is possible.
+[19:25:56] jg777: I wonder if I need to prepare the V pawns, c3 with b4 and then Nc5. But I doubt I will be given such time.
+[19:27:13] jg777: The knight is safe on a4 for now, because a6 then maybe Be2 and if something like Nxd4 then Qxd4 and a4 is protected, if Nxe5 then Bxe5
+[19:27:58] jg777: Okay, c3-b4 seems correct now that the king is on the queenside.
+[19:28:13] jg777: but now is a good time to use some clock and think, I've got 45 minutes!
+[19:29:45] jg777: there may also be reason to play Qe2, then a6 Bxa6 perhaps? Is that even possible with Be7 though?
+[19:30:30] jg777: Qe2 a6 Bxa6 bxa6 Qxa6+ Kb8 Bg5 (trying to get access to Nc5)?
+[19:31:31] jg777: Perhaps to ambitious. If Be7 wasn't there, maybe. But I don't think I have the ability to bring pieces to the king fast enough there.
+[19:32:02] jg777: so maybe just be "safe" with c3 idea, if a6 then Bd3 or something, and later b4, Nc5, Qe2 and whatever comes after.
+[19:33:18] jg777: oh but maybe c3 a6 Bd3 b5!? But that looks dubious as Nc5 Bxc5 dxc5 and now I have things like a4..so that should be fine.
+[19:34:49] jg777: Lets prepare for the queenside attack and hope I didn't do something silly, but I don't see any issues yet.
+[19:41:40] jg777: initiating the kingside attack, okay, makes sense.
+[19:42:10] jg777: Probably in some lines it makes e5 weak too, like lines I need to play Nc5 stuff.
+[19:42:41] jg777: So it is a real question of Bg3 or Be3, because Bg3 walks into h5 stuff.
+[19:43:26] ecoarrivazumashoomzo: go jg777
+[19:43:42] jg777: Yeah, I don't think I am right now worried about e5, because if Be3, then the lines with Nc5 Bxc5 dxc5 Nxe5 I have Bd4- pin on N and R.
+[19:45:13] jg777: Oh wait, there is f6 move there though, with Rxf6 allowing Nc6 and Rxe6 Nxd4.. Yeah it may be okay for black there actually. Difficult.
+[19:45:43] jg777: but first they need to play a6 before any of that can be happening.
+[19:46:44] nyanners: pretty sure this line is supposed to be good for black but im not sure where black went wrong
+[19:47:15] nyanners: maybe 7..g5
+[19:47:30] nyanners: or g6
+[19:47:45] jg777: So the typical idea of this set up is that I go for b4, Nc5 Qa4 and then try for things like Nxb7 Kxb7 Qa6+ Bxc6 and such.
+[19:48:00] nyanners: yea white is happy
+[19:48:00] jg777: but I am fairly confident black will snap Nc5 in that case.
+[19:48:00] jg777: Okay, a6 here. calculating time.
+[19:49:47] jg777: So my original idea was Bd3 here but now with Be3 on the board, the e5 pawn is an issue if b5 Nc5 Bxc5 dxc5 Nxe5- if Bd4 doesn't work.
+[19:51:49] jg777: Okay but maybe there is a way to do this round about with a sac, since the DSB and knight aren't important to the attack
+[19:52:34] jg777: So Bd3 if b5 I go b4! bxa4 Bxa6+ Kb8 Qxa4. This looks right I think?
+[19:52:34] nyanners: i like it
+[19:54:06] jg777: Yeah but I missed a step it is Bxa6+ Kb8 Bb5- Very important- then Qxa4...
+[19:55:22] jg777: Oh wait, but that is a move to slow, Bb5 Kb7 Qxa4 Ra8- I don't have Qa6+ there.
+[19:56:07] nyanners: umm still looks promising with a4 a5 coming
+[19:56:38] nyanners: but okay definitely speculative
+[19:57:23] jg777: Yeah, so I don't think I have that idea after all. One move missed in my earlier calculation makes the idea bust.
+[19:58:09] nyanners: he says all that and goes Bd3? looked like Be2 is the natural conclusion because of the Nxe5 Bd4 line
+[19:58:40] jg777: Hmm, then do I have to play Nc5? Because that will be a bit ugly since e5 is loose.
+[19:58:40] ysgwydd: (16.Bd3) How does Be2 improve the Nxe5 line?
+[19:58:55] jg777: I thought I calculated that Bd4 won't work because f6.
+[19:58:55] nyanners: then Nxe5 doesnt hit the bishop
+[19:59:10] jg777: Oh, they didn't play it. Well, yay for me, I don't have to look at the e5 stuff now.
+[19:59:10] ysgwydd: (16...h5) But f6 was also a problem there
+[19:59:56] nyanners: yea i mean, Be2 b5 Nc5 Bxc5 dxc5 Nxe5 Bd4 f6 Rxf6
+[19:59:56] jg777: so b4 and then, Nc5 and if Bxc5 bxc5 and opens the B file for me.
+[20:00:11] nyanners: and with bishop on d3 black just goes Nxd3 Bxh8 Nxb2 or something
+[20:00:26] nyanners: its definitely at least less clear
+[20:00:57] ysgwydd: (17.b4) Yeah Be2 was better
+[20:01:42] nyanners: now id say white is "winning" but, like, in the "the rest is technique" sense
+[20:02:13] nyanners: nobody actually believes that
+[20:02:28] jg777: It is amazing to play chess without headaches and such issues, I feel brilliant today! A fun game if I don't make a mess of it too. :D
+[20:02:28] ysgwydd: (17.b4) On this episode of Whose attack is faster
+[20:02:43] ysgwydd: (17.b4) I bet on white
+[20:02:43] nyanners: oh black does not have anything whatsoever
+[20:02:43] jg777: a6 is now my hook so lets go get some fun in!
+[20:03:14] jg777: if b5, I play Nc5, otherwise I have b5 next.
+[20:04:14] fritsj: I guess Black can play for a g4-h4-g3 plan? And if White plays h3 to try to close then Bxh3?
+[20:04:30] nyanners: yea white has plenty of defence along the second
+[20:04:45] fritsj: White will for sure get threats in before that but it's something
+[20:05:00] fritsj: Yeah you'll still be playing sloly with Qg4 and then pushing the pawns into White's King
+[20:05:15] fritsj: slowly*
+[20:05:31] jg777: Ah, Na7! Why didn't I realize that wasn't pinned anymore and was a move now? :P
+[20:06:01] nyanners: i suppose that IS something :o
+[20:06:01] nyanners: but yea shouldnt happen
+[20:06:01] jg777: luckily that is not a major issue for me, I just need to consider Nc5 or Rb1 perhaps
+[20:07:17] jg777: Well Rb1 and I still can't force b5 though, right?
+[20:07:48] nyanners: its either Nc5 or Nb2 i guess
+[20:08:03] nyanners: you definitely need a4
+[20:08:33] nyanners: then Nc5 Bxc5 brings a second question
+[20:08:48] nyanners: b-file or a4-b5 potential? that needs some calculation
+[20:09:04] jg777: So maybe it is Qb3 or Nc5 here to consider, as Nb5 is possible next attacking c3 ect.
+[20:09:49] nyanners: i suppose Qb3 is fair but then black might start to prepare to not Bxc5.. if thats possible
+[20:09:49] nyanners: might not be
+[20:10:50] jg777: Nc5 seems most correct because it allows immediate a4 if Nb5, and I do not mind Bxc5 bxc5 there.
+[20:12:52] nyanners: umm i saw this move but it looks, like, a claustrophobia trigger
+[20:13:07] jg777: Oh okay, so interesting choice here. Then a4 here?
+[20:13:07] ysgwydd: (18...Qc6) No one dared to mention this option
+[20:13:22] nyanners: i dont think you can do without Bxc5 in the medium term
+[20:13:38] nyanners: like yea white will go a4..
+[20:13:38] ysgwydd: (18...Qc6) Maybe black was warried about g5
+[20:13:38] ysgwydd: (18...Qc6) worried
+[20:14:08] fritsj: Black would probably thank White if he opened the g-file
+[20:14:54] jg777: Seems like somehow I can make b5 idea work here.
+[20:15:24] nyanners: yea b5 is already winning if allowed basically
+[20:16:25] jg777: like black makes a move, Rdg8 or something lets say. b5, there is no a5, so queen moves and bxa6; if axb5 then axb5 and there is no Nxb5
+[20:16:55] jg777: since Nxb5?? Bxb5 Ra8
+[20:17:26] jg777: So it seems to me Bxc5 is almost forced, no?
+[20:18:42] jg777: Okay Kb8 should help me with b5 ideas right?
+[20:19:12] nyanners: i thought this would be dead winning one way or the other but its time to find out
+[20:19:28] nyanners: like okay, ax ..Qb6 and white probably(?) has Qa4 Ra2 Ra1
+[20:19:28] jg777: I don't see how this prevents b5 here. b5 idea has to open the king up I think, has to be good here for me.
+[20:20:44] nyanners: black can also decline and play, like, axb6 b6. that.. cant be good
+[20:24:17] jg777: if Nxb5 Qa4 is game, so Qb6 here?
+[20:26:49] jg777: So it holds for now I guess but I am just going to triple my pieces on A file I think. I don't see how that isn't good.
+[20:27:19] GoldenRetrieverChess: Goo jg777!
+[20:27:35] nyanners: yea..
+[20:27:50] jg777: Like Ra2 then Rfa1 for example. I win the knight on a7 as it can't move or be additionally defended.
+[20:28:20] jg777: Oh I see, c6! Maybe that is the way.
+[20:30:22] jg777: I don't understand Rdf8. Going to triple up on A file here.
+[20:32:24] jg777: I thought c6 there gave me the biggest challenge to my attack. now c6 is to late as c6 Rfa1 and the knight is mine on a7 at least.
+[20:33:40] ysgwydd: (24...Nxb5) Nxb5 though
+[20:33:40] jg777: Oh I am reckless he has Kc7 here lol
+[20:34:56] fritsj: Black is... kind of fine now?
+[20:35:11] ysgwydd: (24...Nxb5) Rb1 perhaps
+[20:35:11] nyanners: no way XD
+[20:35:42] nyanners: though bxc6 would certainly have been more convincing
+[20:35:57] ysgwydd: (24...Nxb5) Yeah bxc6 with Rb1 to follow
+[20:36:12] nyanners: but yea i think Rb1 still cuts it. or Rb2, gives a better impression
+[20:37:43] jg777: Okay time to reassess here. Qb4 pins the queen and keeps Ra8+ ideas open. if Kc7 then Nxe6+ and wins e7. So there is a threat there.
+[20:37:43] fritsj: How about Bc8?
+[20:37:59] fritsj: Anticipating the pressure on b7
+[20:38:29] jg777: if Qb4 Bxc5, dxc5 and the queen has no square to go that doesn't get lost after Ra8+ (or mate).
+[20:38:44] fritsj: Rb2 Bc8 I mean
+[20:38:44] jg777: Okay that looks like it all works.
+[20:40:46] jg777: Well this defense has so far been more resilient than I had anticipated!
+[20:42:33] jg777: I was just beginning to type, what if Bd8!
+[20:43:03] jg777: Okay, time to look for another idea.
+[20:44:19] jg777: So Ra8+ Kc7 Na4 and the queen is trapped, yes?
+[20:44:35] nyanners: oooh thats a good one
+[20:44:50] nyanners: i was looking at Bxb5 Qxb5 Nd7+ Bxd7 Qd6+ and mate..
+[20:45:05] nyanners: but theres cxb5 of course
+[20:45:05] nyanners: still a significant concession
+[20:45:20] nyanners: and maybe you could follow that with Ta8 Ra7
+[20:45:20] ysgwydd: (25...Bd8) jg is sharp today
+[20:45:36] jg777: It looks like it is to me, if c5 there, then I can either take b5, or even dxc5 then take b5.
+[20:47:07] fritsj: Yeah no way to continue
+[20:47:22] fritsj: Nice attack from jg
+[20:47:53] nyanners: big plays :o
+[20:48:38] nyanners: to add insult to injury, the queen is still trapped
+[20:49:09] ysgwydd: (28.dxc5) Bxb5 says hello
+[20:49:24] jg777: queen is still trapped after Qc6 Bxb5
+[20:50:25] fritsj: GG
+[20:50:25] guitarspider: gg
+[20:50:40] GoldenRetrieverChess: GG
+[20:50:40] ysgwydd: gg
+[20:50:40] BLang316: gg
+[20:50:40] tomb85: Gg well played
+[20:50:55] ecoarrivazumashoomzo: well played
+[20:51:56] morganbp: Wow, crowdy today! Hope you enjoyed the beatdown! :)
+[20:52:42] jg777: Yeah really, hello to all :)
+[20:52:57] nyanners: gg
+[20:53:27] morganbp: I was anticipating a Kings gambit, could not prepare well enough anyway! Enjoyable game though.
+[20:54:28] morganbp: was out of book after 7. Bb5, and think that Be6 was a bad move allowing an unfortunate trade of the knights.
+[20:54:28] nyanners: Nf6 seems like a clear prep sign but i think you want some practice games in this line before deploying it
+[20:54:43] nyanners: cant just wing it with a knight on h5
+[20:54:59] nyanners: as much as the propaganda claims this line is Easy i cant agree
+[20:55:14] morganbp: nope, but I have to get experience somehow :)
+[20:55:59] jg777: It's been a long time since I saw the Nh5 knight lines, but I haven't had a chance to play a King's Gambit since forever.
+[20:56:15] jg777: That was fun surprise to see 1. e5!
+[20:57:15] morganbp: Fun game yeah.. Kings Gambit is always nasty to meet.. but can't be afraid of a fight ;)
+[20:58:47] jg777: Yeah, I like the King's Gambit, I just never usually get one on the board. Often leads to some fun wild games!
+[20:59:02] jg777: Well, I gotta go, family is waiting for me for a cook out now. Cheers all!
+[20:59:17] morganbp: Thanks for the game though!
+[21:25:39] R0B-W: gg
