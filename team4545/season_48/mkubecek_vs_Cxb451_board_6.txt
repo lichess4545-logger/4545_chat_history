@@ -1,0 +1,50 @@
+Lichess game chat log
+Game      : https://lichess.org/0zlTIWE8
+White     : mkubecek
+Black     : cxb451
+Time      : 45+45
+Captured  : 2026-05-26 19:57:48 UTC
+Game ended : 2026-05-26 18:37:44 UTC
+Messages  : 40
+────────────────────────────────────────────────────────────
+
+[16:04:31] ecoarrivazumashoomzo: go mkubecek1
+[16:04:47] ecoarrivazumashoomzo: !
+[16:09:36] ecoarrivazumashoomzo: opening books not working rn?
+[16:15:26] mkubecek: (9...Nxe3) Naturally, prep took bxc6 for granted. :-) Not much of a choice here, though, I guess.
+[16:33:41] mkubecek: (12.Bd3) Maybe I should have played f5 after all.
+[17:06:25] mkubecek: (15.Qg3) Once again I spoiled a good position within few moves.
+[18:02:28] ecoarrivazumashoomzo: 25) the kingside pawns are stunning, im hoping we can do something cool with them
+[18:02:43] ecoarrivazumashoomzo: even with few pieces the space there might be very useful
+[18:18:27] ecoarrivazumashoomzo: 35) rh1 i dont see enough
+[18:19:13] ecoarrivazumashoomzo: the downside of qb7+ is the knight on e2 over playing ng3 maybe, however
+[18:19:13] ecoarrivazumashoomzo: this might be good
+[18:20:29] ecoarrivazumashoomzo: but maybe qa6 or qc7 instead of qc6, its hard to say
+[18:21:14] ecoarrivazumashoomzo: 36 at least perpet. here i hope
+[18:23:47] ecoarrivazumashoomzo: 38) if this works this is brilliance
+[18:26:19] ecoarrivazumashoomzo: difficult) 39. qh8 kd7 qd4 grab an important pawn at ;least
+[18:28:51] ecoarrivazumashoomzo: 40.. this looks unplayable but bd6 didnt look much better
+[18:30:38] ecoarrivazumashoomzo: 42.. ka8 im worried about
+[18:30:53] ecoarrivazumashoomzo: 42) qc6 could black escape checks?
+[18:32:55] ecoarrivazumashoomzo: 43) qb6 also looks fighting though
+[18:33:56] ecoarrivazumashoomzo: 44.. time pressure on too
+[18:37:59] ecoarrivazumashoomzo: gg both
+[18:38:14] tomb85: Gg
+[18:39:15] mkubecek: Sheer luck... not taking the Qc6+/Qc8+ perpetual was a lot of risk.
+[18:40:31] mkubecek: Come on... I was thinking about 37. Rh1. Why didn't I play it?
+[18:41:02] Cxb451: rh1 was simply winning
+[18:41:32] ecoarrivazumashoomzo: i completely missed it but it makes sense, no exc square for black and no checks!
+[18:41:32] ecoarrivazumashoomzo: escape
+[18:42:02] mkubecek: I'm sure I was thinking about it.
+[18:42:18] Cxb451: 19...Rd8 was a waste of time, should have played Qb7
+[18:42:33] mkubecek: Then I somehow managed to convince myself I have to check instead.
+[18:43:18] Cxb451: for some reason I discarded 20...axb4 - I thought that things got too complicated after Rc1
+[18:45:20] Cxb451: Anyway - good game and hope to play you again soon!
+[18:45:50] mkubecek: Oops... I completely missed that 39. Qc6+  Rd7 40. Qc8+ allows Bd8 and I would have been doomed.
+[18:45:50] mkubecek: See you...
+[18:48:07] ecoarrivazumashoomzo: @mkubecek what did you mean btw about a qc6 - c8 perpetual you missed?
+[18:50:39] mkubecek: See my comment a moment ago. In the game I was convinced it was a sure perpetual (because I missed 40... Bd8).
+[18:50:54] mkubecek: Luckily I decided to go for a checkmate instead... which wasn't there either.
+[18:51:25] mkubecek: 42. Qc6 is also so obvious now...
+[18:51:55] ecoarrivazumashoomzo: haha, ah got you, very tricky to see everything with low time
+[18:54:12] mkubecek: To be honest, I was quite surprised black didn't rather simply return back (40... Ke8), I would just have to keep repeating.
