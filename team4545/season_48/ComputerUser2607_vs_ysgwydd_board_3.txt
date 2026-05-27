@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/JQBAh6f9
+White     : computeruser2607
+Black     : ysgwydd
+Time      : 45+45
+Captured  : 2026-05-27 15:28:51 UTC
+Game ended : 2026-05-27 14:08:46 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[12:03:23] R0B-W: (4.Qc2) Go, ysgwydd!
+[12:03:38] R0B-W: (5...Bxc3+) Ah, a3 it is
+[12:05:09] fritsj: Let's go CU!
+[12:05:24] guitarspider: Go ysg
+[12:05:24] ysgwydd: (6...d5) Hi spectators!
+[12:05:55] ysgwydd: (6...d5) Opponent has one game in this line. Chose 7.Bg5 that time
+[12:06:56] ysgwydd: (6...d5) 7.Nf3 is also a common move
+[12:07:56] ysgwydd: (7...dxc4) Their one game here went 7...c5
+[12:13:16] ysgwydd: (8...b6) These pauses makes me think that Bfx6 isn't unlikely on some move
+[12:17:04] Micomps: go go cpu!
+[12:24:56] ysgwydd: (10.Rc1) To h6, or not h6, that is the question
+[12:25:27] R0B-W: (10.Rc1) My thoughts too
+[12:26:43] ysgwydd: (10...h6) I know I need h6 for later on
+[12:26:58] ysgwydd: (10...h6) At least one of them
+[12:28:30] ysgwydd: (10...h6) Qxc7 is not something I checked I think
+[12:29:15] ysgwydd: (10...h6) I should win the pawn back though
+[12:29:15] ysgwydd: (10...h6) The critical move is Bh4
+[12:30:47] fork2020: Go ysgwydd!
+[12:31:47] ysgwydd: (11...c5) This is about to get sharp. Or really sharp
+[12:33:49] ysgwydd: (12...Nbd7) cxb6 is not great for white
+[12:34:04] ysgwydd: (12...Nbd7) Critical is c6
+[12:35:05] ysgwydd: (13.e3) That's a lame move
+[12:35:36] ysgwydd: (13.e3) And a bad one? Maybe? If I remember correctly
+[12:37:38] ysgwydd: (13.e3) The c-file is not fun to handle for white
+[12:39:39] ysgwydd: (13...Rc8) b4 bxc5 Qf4 cxb4 Rxc8 Qxc8 Qxb4 Qc1+ Ke2 Ba6
+[12:42:12] ysgwydd: (13...Rc8) Qf4 now is probably what needs to be played
+[12:48:47] ysgwydd: (14.Rd1) I wonder if there is something crushing here. Like bxc5 and Qa5+ and somehow hinder white from castling.
+[12:49:18] ysgwydd: (14.Rd1) I don't see it bxc5 Qa4 and what do I do
+[13:00:58] ysgwydd: (16.Qd4) I feel this shouldn't work for white
+[13:17:27] ysgwydd: (16.Qd4) Ne5 Nxe5 Rxe5 Qd7 bothers me
+[13:25:34] ysgwydd: (16...Rd5) For sure not worth the time
+[13:27:21] ysgwydd: (17...Nxf6) Spend 20 min and choose the most equal line possible
+[13:28:07] ysgwydd: (17...Nxf6) This is what I get for saying it would get sharp
+[13:31:55] guitarspider: Rd8 0-0 Bxf3 is sharp
+[13:34:12] LloydRet: (19...Rc8) 19...Rd8 20.Ke7
+[13:34:27] LloydRet: Sorry, Ke2 not Ke7
+[13:34:58] guitarspider: There are a bunch of ways to avoid it :D
+[13:50:11] guitarspider: It got plenty sharp without that trick too
+[13:52:43] LloydRet: (24...Nc5) b4 Nxd3 Kxd3 Bxf3 gxf3 Rh7 Ke2 h5 Rd8+ Kh7 Rd7 and we have a pawn race
+[13:54:02] LloydRet: Oh gawd, I missed out ..Rh1 etc.
+[13:56:03] ysgwydd: (24...Nc5) Rc2 Bxf3+ Kxf3 Nxd3 Rxc1 Rxc1
+[13:56:34] ysgwydd: (24...Nc5) Rc2 Bxf3+ gxf3 Rh1 and h2 is lost
+[13:59:06] ysgwydd: (26...Rh1) I probably had 25...Bxg2
+[14:05:43] ysgwydd: (29...g5) Operation Rescue Rook
+[14:07:30] ysgwydd: (31...Rxg2) That's too bad
+[14:09:01] Micomps: gg
+[14:10:02] R0B-W: gg
+[14:10:02] guitarspider: Gg
+[14:10:32] BLang316: gg
