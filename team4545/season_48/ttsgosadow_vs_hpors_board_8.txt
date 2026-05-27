@@ -1,0 +1,36 @@
+Lichess game chat log
+Game      : https://lichess.org/0WWGGs28
+White     : ttsgosadow
+Black     : hpors
+Time      : 45+45
+Captured  : 2026-05-27 22:28:52 UTC
+Game ended : 2026-05-27 21:08:48 UTC
+Messages  : 26
+────────────────────────────────────────────────────────────
+
+[20:14:00] TimothyHa: (19) h5 is a bit impatient, should help White
+[20:28:43] robertjackson: I did like (21...) hxg4 then BxNg5 then Qe6 threaten + to win a rook or simply winning g4
+[20:31:46] TimothyHa: (21) wow, takeback in 4545 :-)
+[20:32:32] TimothyHa: (22) I have takebacks disabled but once made a League friend when they misplaced their queen
+[20:32:47] TimothyHa: (22) I had to make a non-move so the queen could avoid capturing, then move things back
+[20:33:48] TimothyHa: (22) Qd8
+[20:34:18] TimothyHa: (22) White self-pinned themselves
+[20:34:48] TimothyHa: (22) but Ne6 and it has to be Bxe6
+[20:35:19] TimothyHa: (22) although fxe6 is also ok, king protects f6 too
+[20:35:19] TimothyHa: (22) R+Q looking at f6
+[20:38:21] TimothyHa: (22) would be nice to find Qd8
+[20:40:38] robertjackson: 22..Qb4 threat to R then Qe7 winning either Knight
+[20:41:39] TimothyHa: (22) so complicated and risks fxg6 and Ne6+
+[20:42:25] TimothyHa: (22) but Qd8 also has fxg6 and gxf7 to be calculated
+[20:42:55] TimothyHa: (22) btw, Bxg5 is a fork on Q and Rd2 anyway
+[20:43:26] TimothyHa: (22) but I guess Black is currently defending and missing this...
+[20:43:41] TimothyHa: (22) easy to miss when the mindset is defending
+[20:43:56] TimothyHa: (22) now fxg6 is too good
+[20:44:42] TimothyHa: (22) unless fxg6 hxg4
+[20:50:17] TimothyHa: (23) double knight forks on e6 fortunately don't work here
+[21:00:56] nyanners: scary but Kxg6 seems sufficient
+[21:01:42] nyanners: id say Qf2-Qxf7 but black has a Thing
+[21:05:15] nyanners: uh oh white did it
+[21:06:01] nyanners: yeaa
+[21:06:16] TimothyHa: (26) wow
+[21:08:18] nyanners: gg
