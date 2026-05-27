@@ -1,0 +1,139 @@
+Lichess game chat log
+Game      : https://lichess.org/9jmdhfIK
+White     : okady
+Black     : littleoak12
+Time      : 45+45
+Captured  : 2026-05-27 10:37:58 UTC
+Game ended : 2026-05-27 09:17:53 UTC
+Messages  : 129
+────────────────────────────────────────────────────────────
+
+[07:05:14] Kayrosas: lets go littleoak!
+[07:27:02] okady: very happy he didn't move his knight because i think my bisshop was trapped
+[07:38:27] Littleoak12: 18.. tal would sacrifice the knight here
+[07:40:44] Kayrosas: the structure is quite nice for black, just dont rush things too much
+[07:41:30] Kayrosas: 18...Ne6 seems very reasonable
+[07:42:30] Littleoak12: there is also the much more sensible Nh3+. I can't see how white could dig that knight out later
+[07:43:01] Littleoak12: but it might prevent me from pushing f5 which I really want to do
+[07:45:18] DrGarras: Hi Kayrosas! Looking for ideas for our game? :)
+[07:45:48] DrGarras: I didn't like the b4 - Bxc5 plan, I think black has a nice advantage here
+[07:47:20] Kayrosas: not much of a 1.c4 player myself so the first 2 games havent been much help in finding ideas yet ^^
+[07:48:51] Kayrosas: oh nvm we might get a sicilian too, right
+[07:50:07] Kayrosas: not that happy with how much time black is spending here
+[07:52:09] Littleoak12: I saw kayro playing g5 in one of his games. I wonder..
+[07:55:12] Kayrosas: not when my knight was hanging i think ^^
+[07:56:43] DrGarras: yes, Ne6 looks natural, not sure why black is taking that long
+[07:57:44] DrGarras: maybe worried about Na4 - Nb6, that is the only plan I see for white
+[07:57:59] DrGarras: at least snatch the bishop pair
+[07:58:45] Kayrosas: wow
+[07:59:00] Kayrosas: slight proble is that we have no pieces really positioned to join the attack
+[07:59:46] okady: 18 by the way
+[08:01:47] DrGarras: wow, really going for it
+[08:02:03] Kayrosas: some speculative sacrifices are alright but you usually need some idea of a piece configuration you're looking to achieve
+[08:02:18] okady: looks like bisshop g4 can work now i will lose a pawn but the dangerouse looks gone for what
+[08:02:48] Kayrosas: white thinks they can't take it?
+[08:03:19] DrGarras: it is easier to keep calm when it is not your game
+[08:03:34] Kayrosas: that is true and why I prefer watching ^^
+[08:03:49] DrGarras: but yeah, i would take that night, I dont think black has enought firepower
+[08:04:04] Pope123: (18...g5) wow
+[08:04:20] okady: does thanking the knight work is a little bit the quenstion if i can go queen h1 and rook g1
+[08:05:20] Pope123: (18...g5) gx gx Bf3 Qg5+ Bg2 Bh3 Qf3 h5 Kh1 seems more than fine with Rg1 coming
+[08:06:37] okady: ireally want to gamble taking the knight but i have a feeling it can't work
+[08:07:37] okady: but i can't figure out why it won't work
+[08:07:37] Kayrosas: gx gx Kh1 seems a bit simpler I think? and Bg4 or Rg1 next
+[08:07:53] Littleoak12: the problem with a sacrifice is you have to threaten something very bad if they don't accept, which I don't think I'm doing!
+[08:08:38] Pope123: (18...g5) That does look better
+[08:09:09] DrGarras: are you assuming gxf5? taking with exf5 gets an extra tempo, maybe black needs that
+[08:09:09] Kayrosas: keeping the knight on f4 is somewhat desirable if you get to play Bh3+Rad8, so in that sense it is a bit justified
+[08:09:24] okady: pff lets go for it if it won't work i can go back to work
+[08:09:24] DrGarras: to try Qd7 and g4
+[08:09:39] Kayrosas: yea I think ex is better but less critical?
+[08:09:39] Kayrosas: wow, white didnt expect ex
+[08:09:54] DrGarras: oh, night blunder
+[08:10:55] Kayrosas: that's unfortunate
+[08:11:26] Kayrosas: maybe 21...Kh8 now
+[08:19:17] DrGarras: this is really difficult now, black got the material back and the attack is still rolling
+[08:19:48] DrGarras: Rg8 planning g4 looks strong
+[08:22:05] okady: i would love for him to take my knight and weaken those squares but a shame it didn't happen.
+[08:29:42] Kayrosas: i dont like allowing Nxd4, 24...Bf6 seemed like a good alternative
+[08:34:00] Kayrosas: Qh4 Rf6-h6 could be quite strong. depends how quickly white can get on the a1-h8 diagonal
+[08:36:33] Kayrosas: the lack of stability is a bit annoying with the time situation tho
+[08:41:52] DrGarras: I think black has it under control. I dont see any good continuation after Qf6
+[08:43:08] DrGarras: or maybe Ra6 is better, bringing that rook into the attack
+[08:45:10] Pope123: (30.Bc2) What does Bc2 even do
+[08:45:25] Pope123: (30.Bc2) Id rather sack it
+[08:45:41] Pope123: (30.Bc2) then whatever that is
+[08:45:41] Pope123: (30.Bc2) than*
+[08:45:56] Pope123: (30.Bc2) Connect rooks.. gotcha
+[08:49:44] Kayrosas: it's more like dynamic stability (which is a bit of an oxymoron). black king is open, the rooks are seemingly on random squares, Bc8 is weak
+[08:50:45] Kayrosas: i dont like giving up the e-file
+[08:51:15] Kayrosas: 33...Re5 Rxe5 Qxe5 Qh6 seemed worth considering with white's weak backrank
+[08:58:21] Kayrosas: but black is playing this well so far I think
+[09:06:13] DrGarras: it wsa trickier than I expected, now I am not sure if black can win this
+[09:06:44] guitarspider: (43.Kh2) put king on a5, put bishop on c7, force white king to walk over, play g3
+[09:06:44] guitarspider: (43.Kh2) is something like the plan I suppose
+[09:08:00] Kayrosas: gxh3 actually seems good i think
+[09:08:15] Kayrosas: wait, not yet
+[09:08:30] Kayrosas: Kg5 now and gxh3 after
+[09:09:16] Kayrosas: i like 44...h4
+[09:09:46] Kayrosas: the plan with hxg and g3 later on seems enough too but h4 feels a bit cleaner
+[09:10:47] Kayrosas: just gotta make some quick moves here so we have time to calculate
+[09:11:18] guitarspider: (46.Bd1) yeah, I would have preferred h4 in this specific instance too
+[09:12:03] Kayrosas: black could've shuffled the bishop a bit for extra time
+[09:13:35] okady: well i asked 2 times for a draw
+[09:14:20] Kayrosas: there is still some g3 trickiness
+[09:14:35] Kayrosas: 50...Bxa4!
+[09:14:51] guitarspider: (50.Ke5) nice trick
+[09:16:07] Kayrosas: it is a bit brutal bc white doesnt lose just a pawn, they cant even save their bishop there
+[09:16:37] guitarspider: (51...Kc7) ok, going back makes it more easy for sure
+[09:16:53] guitarspider: (51...Kc7) especially if you don't see the tricks
+[09:17:23] Kayrosas: still have to calculate if Bxa4 works
+[09:17:38] guitarspider: (55...Kb4) you can walk the king to d2
+[09:17:38] Kayrosas: oh nvm, yea
+[09:17:53] Kayrosas: brutal
+[09:17:53] guitarspider: (57.Bb1) yes
+[09:17:53] Kayrosas: wow
+[09:18:09] guitarspider: gg
+[09:18:09] Kayrosas: really taking no prisoners with Kb2
+[09:18:09] Kayrosas: gg
+[09:18:24] tomb85: Gg
+[09:19:09] okady: well i don't think i even played that bad
+[09:19:25] Kayrosas: engine gives 0.0 after 18...g5, wow
+[09:19:40] Kayrosas: i didnt believe in it at all
+[09:19:40] okady: crazy
+[09:19:40] Littleoak12: that kind of position is not something you expect to be drawn
+[09:19:55] okady: i couldn't do anything
+[09:20:10] Littleoak12: did you intend to give the knight back on move 20?
+[09:20:10] okady: yeah
+[09:20:25] okady: i was way to afraid for g4
+[09:20:25] Littleoak12: yeah g4 was really exciting
+[09:20:41] Littleoak12: did you consider refusing the sacrifice?
+[09:20:41] okady: yes i did multiple times
+[09:21:11] okady: that knight on f4 was a monster i couldn't refuse it
+[09:21:26] Littleoak12: yeah fairs
+[09:21:41] okady: wel b3 could be draw but is was to afraid.
+[09:21:57] Littleoak12: I really disliked my move 28.. h5 which stopped me from putting a rook on the h-file, would have been a strong attack
+[09:22:12] Littleoak12: yeah, I was expecting you to play Rc1
+[09:22:27] okady: i think my biggest mistake was letting the knight come to f4
+[09:22:27] okady: in the first place after that i didn't have any breathing room
+[09:22:27] okady: and youp layed very wel
+[09:22:42] Littleoak12: you did a really good job later on centralising the queen and it would have been all too easy for me to make a time trouble blunder
+[09:22:57] Littleoak12: thank you too gg
+[09:22:57] okady: yeah i was hoping on that
+[09:23:28] Littleoak12: yeah strategically I was really happy when we traded on c5 and when you retreated your knight to d2
+[09:23:58] okady: yeah i didn't expect my king to be so unsafe
+[09:23:58] okady: then but you played it wonderfull
+[09:24:13] okady: was looking for repetition
+[09:24:29] okady: crazy how d5 queen check was a blunder
+[09:25:14] Littleoak12: yeah endgames are so complicated
+[09:25:29] okady: yeah i knew you were better i couldn't move my bisshop
+[09:25:45] Littleoak12: engine likes a5 bxa5 followed by Qxc5 but I was sure if you moved your queen off the e file I could win
+[09:25:45] okady: but didn't expect it to be this much better
+[09:26:00] okady: i couldn't let you get the efile then it was over
+[09:26:15] okady: but it was a very fun game
+[09:26:15] Littleoak12: yes! I'm glad you enjoyed too
+[09:26:15] okady: glad i could make some time for this game
+[09:26:30] Littleoak12: <3 all the best
+[09:26:30] okady: wouldn't want to miss this one
+[09:26:45] okady: yeah you to i am going to work now :D
+[09:26:45] Littleoak12: alright
