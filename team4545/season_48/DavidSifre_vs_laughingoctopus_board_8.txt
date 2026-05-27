@@ -1,0 +1,57 @@
+Lichess game chat log
+Game      : https://lichess.org/wqxYMTq0
+White     : davidsifre
+Black     : laughingoctopus
+Time      : 45+45
+Captured  : 2026-05-27 16:27:25 UTC
+Game ended : 2026-05-27 15:07:20 UTC
+Messages  : 47
+────────────────────────────────────────────────────────────
+
+[12:56:41] DavidSifre: welcome to the show. He seems to lose a lot against the english. I have never played the English as white.
+[12:58:12] simonWasHere: Go David!
+[13:03:32] DavidSifre: the english four knights variation.  I put that in game chat by mistake.  Meant for a whisper.
+[13:05:18] DavidSifre: what is "funny" is I have no idea what to play if he goes to e4. It must be a bad move but not sure why.
+[13:10:22] DavidSifre: I am officially out of my book.
+[13:14:11] tom_nors: Assume David meant e5. One of the better moves for black, a reversed 4 knights sicilian
+[13:16:43] tom_nors: This looks like an improved monte carlo exchange french since black wasted a tempo on Bf5 to b4
+[13:16:58] tom_nors: Bc5*
+[13:19:00] simonWasHere: I would have just castled
+[13:23:49] tom_nors: My first message is complete nonsense haha. Someone needs to teach me proper notation
+[13:29:24] simonWasHere: Presumably Bxd5 is good?
+[13:31:56] tom_nors: Missed opportunity not playing Nxd5 or Bxd5
+[13:35:29] simonWasHere: Re1 now
+[13:35:44] tom_nors: Either rook to e1 looks tempting but I think there's just Be5
+[13:35:59] simonWasHere: ah right
+[13:40:49] GoldenRetrieverChess: Gooo David!
+[13:50:43] DavidSifre: so, I'm thinking to attack that c pawn with the bishop...
+[13:51:43] tom_nors: Was wondering if black had time for a cheeky Nd8 Ne6 manoeuvre at some point to blunt whites rooks on the e file
+[13:52:14] tom_nors: Would also defend c7
+[13:54:00] DavidSifre: The thinking, such as it is, is that I can put my queen on e2 now.
+[13:54:46] DavidSifre: Simon, I am trying to take his pieces like we talked about.
+[13:57:18] simonWasHere: you can do it
+[13:58:04] simonWasHere: start with a pawn and work your way up
+[14:05:25] DavidSifre: I think this works
+[14:07:28] DavidSifre: Not the best position to be in, down a pawn. I am glad I have the queen.
+[14:20:24] DavidSifre: Qd3 seems interesting but will likely lead to a queen exchange
+[14:20:39] DavidSifre: I am still eying the c pawn.
+[14:24:43] DavidSifre: Qg3 looks interesting too. But the rook and queen on the second rank is ugly.
+[14:26:14] tom_nors: Qg3 blunders mate
+[14:26:45] tom_nors: Qe2+ Kg1 Qe1+
+[14:33:05] mongreltiger: Go David! And take that English opening with you.
+[14:35:37] DavidSifre: Pretty surehe has to take the queen
+[14:36:53] DavidSifre: my internal engine says that I am in the worse position as he is up a pawn and has a knight  that covers all colors while I have a DSB
+[14:49:04] DavidSifre: I am glad I did not have to deal with Qh3+
+[14:49:50] DavidSifre: But I feel like the game has gotten away from me.
+[14:50:05] DavidSifre: passed pawn on the a file, isolated white pawn on the c.
+[14:51:21] DavidSifre: if I trade queens on Qd7 I have a rook on the seventh but he can force a trade of rooks too.
+[14:51:51] DavidSifre: oh no he can't. bishop protects the d8 square. So that is what I am thinking.
+[14:52:07] DavidSifre: is king has an escape hatch so it may not be useful thing to do...
+[14:54:55] DavidSifre: Maybe he will run out of time.
+[14:55:10] DavidSifre: if I can pull a "lets switch sides" trick
+[15:02:31] DavidSifre: so maybe I will have a useless bishop but he won' t have a knight.
+[15:03:32] DavidSifre: or, I suppose, maybe a rook.
+[15:06:50] DavidSifre: oops
+[15:07:51] mongreltiger: gg
+[15:07:51] DavidSifre: stupid ending
+[15:08:06] DavidSifre: but, alas, it is what it is.
