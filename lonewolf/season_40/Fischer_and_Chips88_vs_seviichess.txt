@@ -1,0 +1,71 @@
+Lichess game chat log
+Game      : https://lichess.org/ks9uSLsX
+White     : fischer_and_chips88
+Black     : seviichess
+Time      : 30+30
+Captured  : 2026-05-27 06:25:24 UTC
+Game ended : 2026-05-27 05:05:20 UTC
+Messages  : 61
+────────────────────────────────────────────────────────────
+
+[03:16:31] Fischer_and_Chips88: Nxf7 Kxf7 Bg6 Kxg6 Ne5 Kh7 Qd3+ Kg8 Qg6 is interesting
+[03:17:01] Fischer_and_Chips88: sac 2 pieces, king goes for a walk but probably is safe after Be6 and Qe8
+[03:18:48] Fischer_and_Chips88: maybe Nxf7 Kf7 Ne5 first
+[03:18:48] Fischer_and_Chips88: has to go to g8
+[03:19:03] Fischer_and_Chips88: then Bg6
+[03:19:33] Fischer_and_Chips88: after Be6 there's f4 f5
+[03:19:49] Fischer_and_Chips88: and I only sac one piece here too
+[03:21:20] Fischer_and_Chips88: so Bf7 followed by Qd3 is a mating threat, has to address that
+[03:24:07] Fischer_and_Chips88: maybe black should have played 10 Ke6, which I didn't actually consider.
+[03:26:24] Fischer_and_Chips88: Be6. So here my plan was f4 f5, but maybe c4 first to kick the knight so it can't take f4
+[03:27:55] Fischer_and_Chips88: if Qa5, not Bd2 because that blocks my eventual Qd3. Probably just Kf1
+[03:29:57] Fischer_and_Chips88: after f5 Bxf5 Bf7+ Kh7 there's no Qd3 cause the bishop is on f5. so after f5 Bxf5 I should probably just recapture
+[03:30:43] Fischer_and_Chips88: maybe Qd3 then f5
+[03:31:44] Fischer_and_Chips88: oh after f5 he can just play Bd7 and Qd3 is no longer a threat
+[03:35:17] Fischer_and_Chips88: Nd7 is tricky, f5 Nxe5 attacks the bishop on g6
+[03:35:17] Fischer_and_Chips88: maybe I just castle here
+[03:37:49] Fischer_and_Chips88: Qh5 Nxe5 fxe5 Bc4 is annoying
+[03:39:21] Fischer_and_Chips88: decided to castle, Nxe5 fxe5 Bxc4 there's Qf3
+[03:41:07] Fischer_and_Chips88: don't care about Qxd4 in that line pretty sure it doesn't do anything just Kh1
+[03:41:38] Fischer_and_Chips88: no, I can play Be3 to block cause the queen is on f3 so yeah
+[03:42:38] Fischer_and_Chips88: and if he doesn't take on e5 then there is Qh5, he has to take the knight eventually
+[03:46:57] Fischer_and_Chips88: Nf6 (don't care which) Bf7 Bf7 Qf7 Kh7 Qg6 Kg8 f5 and the file will open somehow and there's Bxh6 ideas too
+[03:47:58] Fischer_and_Chips88: e knight is better cause he can take on e5 in that line
+[03:49:45] Fischer_and_Chips88: wrong knight I think
+[03:51:01] Fischer_and_Chips88: he wants Nd6 I think
+[03:53:48] Fischer_and_Chips88: Rf3 - if Qxd4 I have Be3, also threat to swing to the h file
+[03:54:03] Fischer_and_Chips88: Nd6 Qg6
+[03:54:49] Fischer_and_Chips88: if it wasn't for Nd6 there would be a funny mate with Rh3 Rxh6 Kh6 Qg6
+[03:59:08] Fischer_and_Chips88: he is trying to play Qe8...
+[04:01:55] Fischer_and_Chips88: just keep the queens on somehow
+[04:04:58] Fischer_and_Chips88: plan is f5 and Bh6. Is my opponent really up a piece here?
+[04:08:15] Fischer_and_Chips88: Be3 try to bring the other rook to the party
+[04:08:46] Fischer_and_Chips88: So many spectators, I must be on TV! I am using the lichess feature called Whisper to talk to all of you
+[04:09:01] Fischer_and_Chips88: You can see my text in the spectator room, but I can't see anything you (or me) write
+[04:09:47] Fischer_and_Chips88: Bd6 - That bishop had an important job defending g8
+[04:10:02] Fischer_and_Chips88: g7
+[04:12:49] Fischer_and_Chips88: another consideration is my opponent is running into time trouble, and the king is still in danger
+[04:15:37] Fischer_and_Chips88: knight is short on squares
+[04:18:55] Fischer_and_Chips88: credit to my opponent for defending by the way, I thought he was toast ages ago. Qxe5 Bd4. Ideas of h4. not out of the storm yet.
+[04:21:27] Fischer_and_Chips88: h4 Nf7 Bc5 Rc8 Rg3 Qe5 Bd4 Rd8 is interesting
+[04:22:12] Fischer_and_Chips88: that line is probably nonsense
+[04:28:02] Fischer_and_Chips88: missed Rd8, missed that it was defended after Nf7
+[04:31:05] Fischer_and_Chips88: I think Re1 is better than f1
+[04:36:09] Fischer_and_Chips88: well now I guess I have to hold this endgame down an exchange. Not the best outcome, not the worst
+[04:36:25] Fischer_and_Chips88: But I definetly was winning at some point around Qh5
+[04:38:11] Fischer_and_Chips88: to the people spectating - if you want to play high quality chess games like this one then checkout
+[04:38:26] Fischer_and_Chips88: https://www.lichess4545.com/team4545/
+[04:38:42] FNQ_ChessPlayer: this game was not high quality lol
+[04:38:57] FNQ_ChessPlayer: the thought process  behind moves however was quite good
+[04:39:12] Fischer_and_Chips88: h5 to keep the king stuck, no Kg6
+[04:47:04] Fischer_and_Chips88: not an easy endgame for black to win, I don't even know if it is drawing or what
+[04:55:41] Fischer_and_Chips88: if the rook ever takes the h pawn I take the g pawn
+[04:59:14] Fischer_and_Chips88: I think it is a draw but I still don't  really know
+[05:03:18] Fischer_and_Chips88: I thought I could play Bg1
+[05:03:18] Fischer_and_Chips88: fuck
+[05:04:19] Fischer_and_Chips88: ok...
+[05:04:49] Fischer_and_Chips88: gg
+[05:09:08] Fischer_and_Chips88: well playde
+[05:09:23] Fischer_and_Chips88: defended like a champ, turns out I was never winning
+[05:20:47] seviichess: gg. that sacrifice was sound. had me sweatin the whole game
+[05:21:48] Fischer_and_Chips88: yeah I thought you were toast honestly
