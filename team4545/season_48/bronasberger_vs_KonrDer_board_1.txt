@@ -1,0 +1,166 @@
+Lichess game chat log
+Game      : https://lichess.org/x084bq7G
+White     : bronasberger
+Black     : konrder
+Time      : 45+45
+Captured  : 2026-05-27 19:24:05 UTC
+Game ended : 2026-05-27 18:04:00 UTC
+Messages  : 156
+────────────────────────────────────────────────────────────
+
+[16:32:56] AAlvaroB: Let’s go KonrDer!
+[16:41:18] KonrDer: a bit risky to give the bishop pair like that but I didnt see another choice
+[16:51:57] KonrDer: 17. ... b5 was tempting, but it feels off to neglect development
+[16:52:12] KonrDer: and if he really wants to prevent it with a4 then I think I will be able to play around it and maybe prepare it slowly
+[16:52:43] KonrDer: I need to be vary of ideas of Kg2 and Rh1
+[16:53:13] KonrDer: but Nf8 is always there
+[16:56:46] KonrDer: actually the check does not even look that scary
+[16:58:18] KonrDer: If i preamaturely retreat my knight to f8 h7 is defended but my position is more passive
+[17:01:05] KonrDer: 18. ... b5 Rh1 Qf6 Qh7+  Kf8 Qh5 could be a bit uncomfortable though witht he g pawn attacked
+[17:02:52] PsyMar2: just got here... my static evaluation is that white's got the bishop pair and I feel like black's king might be looser...
+[17:03:07] PsyMar2: ...wouldn't be surprised if this is +1 or more
+[17:03:37] KonrDer: maybe b5 Rh1 Nf8 Be4 Qf6 Bh7+ Nxh7 Qxh7+ Kf8  Qh5 Re5
+[17:03:53] KonrDer: b5 feels a bit wrong but looks good
+[17:07:11] PsyMar2: I don't think Be4 is the play after Nf8, I'd go Bd2 to connect the rooks.  maybe I'm crazy
+[17:07:41] PsyMar2: or possibly Rh5 to threaten Bxg5
+[17:11:14] PsyMar2: it worries me that bronas is thinking the same way I am
+[17:11:44] PsyMar2: I'm board 6 for a reason lol
+[17:13:31] PsyMar2: see I hadn't even realized the rook could come to e5
+[17:17:19] PsyMar2: Huh, it's so much easier to see now Bronas played 22.Rah1...
+[17:17:34] PsyMar2: ...I was worried about b3 to deflect the queen maybe giving Black a useful tempo, but... it doesn't feel very useful
+[17:18:20] PsyMar2: if anything the bigger deal is it'd give White the c3 square for their bishop, which is probably what b4 was played to prevent
+[17:19:06] PsyMar2: can white now go b3->a3->Bc3, or am I tripping.  I'm probably tripping
+[17:19:36] PsyMar2: feels like probably a terrible idea to give black a passer on a3
+[17:21:53] KonrDer: interesting idea, he is planning Bc1-Bb2
+[17:23:24] KonrDer: Re8 Bc1 f6 Bb2 Rxe2 looks like a playable endgame
+[17:23:40] PsyMar2: oh, yeah, Bc1-Bb2 is probably a lot better lol
+[17:24:10] PsyMar2: however I don't think it's a playable endgame
+[17:24:25] PsyMar2: Re8 Bc1 f6 Bb2 Rxe2 Bxg7 and I think white wins pretty fast
+[17:24:56] PsyMar2: oh wait, no, I'm hanging the quene in that line
+[17:25:11] aldric123: (23.b3) I mean that, and f6 would have blockedf g7
+[17:25:41] PsyMar2: wait, no, 23...Re8 24.Bc1 f6 25.Bb2 Rxe2 26.Rh8+ Bxh8 27.Rxh8# no?
+[17:25:57] PsyMar2: oh right, f6
+[17:25:57] PsyMar2: that's why f6
+[17:25:57] PsyMar2: okay, nevermind
+[17:26:12] PsyMar2: so maybe not Bb2 if f6
+[17:26:27] aldric123: (23...Re8) There's always e3 if you're worried about the exchange sac
+[17:26:58] aldric123: (23...Re8) Sure it lowers pressure against g5 but if you're worried about it
+[17:27:58] PsyMar2: nah I think you make black sac the exchange, trade queens, then try to trade off some pawns to make your rooks better
+[17:28:29] PsyMar2: but of course not too many pawns
+[17:29:45] PsyMar2: the only reason to avoid that line is if you think you have a win, but if you play e3 I don't think you have a win anymore\
+[17:29:45] nyanners: yea id be encouraging xe2 probably
+[17:29:45] nyanners: dont believe it
+[17:30:00] KonrDer: f6 looks really ugly though
+[17:30:00] aldric123: (23...Re8) In the line outlined looks like both e2 and a2 would be falling
+[17:30:15] NxN: next may be g4 ? sac the  pawn to improve his pices ?
+[17:30:15] PsyMar2: e2 falls, a2 falls, but g5 falls too
+[17:30:31] PsyMar2: and actually you can push a3 I think because of the bishop on c1
+[17:30:46] aldric123: (23...Re8) I didn't see how g5 falls, that's the point of the ugly f6
+[17:30:46] PsyMar2: oh right I keep forgetting f6
+[17:30:46] PsyMar2: but still you can then push a3
+[17:30:46] nyanners: for maximum bait you remove your rook from h5
+[17:31:16] nyanners: 24 Rh2 Rxe2 takes and Re1 at the end and Qe2 doesnt hit Rh5
+[17:31:32] nyanners: thats how to 2700 bullet
+[17:31:32] PsyMar2: if 24.Rh7 is anything there or no
+[17:31:47] NxN: g5 Bxg5 Rxh5 Rxh5 Qe4+ Qxe4 Rxe4
+[17:32:02] NxN: sac the  pawn and  do the  exchange that favor black
+[17:32:02] nyanners: oh wait Qxe2 Re1 black still has Qb5 to defend e8. lame
+[17:32:32] nyanners: in any case yea i definitely wouldnt e3
+[17:32:48] nyanners: but it shouldnt be a big deal
+[17:33:49] PsyMar2: this is probably still much better for white, but for me personally I'll take an endgame where I'm up an exchange and down 5 pawns to 6
+[17:33:49] PsyMar2: now, if it's 1 pawn to 2 maybe I don't take that
+[17:34:34] nyanners: this is obv going for Bc1-Bb2 but the question is what happens in the meantime
+[17:35:20] aldric123: (24...Qf6) I think he's going for Qg6
+[17:35:35] NxN: but a3 ?
+[17:36:06] aldric123: (25.Bc1) Though I guess also Rf5 is a potential threat too
+[17:36:21] PsyMar2: if Qg6 I feel like you could even just e4
+[17:37:06] nyanners: not e4 ..g4
+[17:37:06] aldric123: (25.Bc1) If e4 likely g4
+[17:37:52] PsyMar2: and that's why I try not to play moves in 5 seconds
+[17:38:07] PsyMar2: when spectating, however
+[17:38:53] aldric123: (25.Bc1) Both Qg6 and Rf5 look interesting for black, which I don't like
+[17:39:39] nyanners: Rf5 seems less promising
+[17:39:54] aldric123: (25...Qg6) It does, but what do you do as white?
+[17:39:54] aldric123: (25...Qg6) Both Bg4 and Be4 don't work quite right
+[17:40:09] KonrDer: Rf5 Qe2 looked a bit uncomfortable
+[17:40:24] nyanners: Bb2
+[17:40:39] aldric123: (25...Qg6) Qxb2
+[17:40:39] nyanners: the roooook. or something
+[17:40:55] aldric123: (25...Qg6) That was one point of Rf5
+[17:41:10] nyanners: yes, it exposes the rook :o
+[17:41:25] aldric123: (25...Qg6) Hmm I guess that's true actually hmm@
+[17:42:26] nyanners: i wouldnt mind Rf5 Qe2 because black is happy to deny Bb2 but maybe black IS just worse
+[17:44:58] aldric123: (26...R5e7) Think it's time for Qg4 to try to force f6?
+[17:45:44] nyanners: sure but then what
+[17:45:44] nyanners: id probably leave that for future me
+[17:45:44] Grzybozbur: but qg4 f6 qh3?
+[17:45:44] nyanners: seems good
+[17:45:59] aldric123: (26...R5e7) Yeah I was thinking maybe trippling up on h file, but I wasn't sure if you could force anything or not
+[17:45:59] aldric123: (26...R5e7) Which is mainly why I was question marking it
+[17:46:14] nyanners: threat is rh8 bh5
+[17:46:14] nyanners: otherwise probably wouldnt be very good
+[17:47:30] KonrDer: not a fan of my position
+[17:47:30] aldric123: (27...f6) Hmm if Qh3 can black do f5 with threats?
+[17:48:01] nyanners: doesnt deal with rh8 bh5
+[17:48:16] aldric123: (27...f6) Yeah that's true
+[17:49:02] nyanners: so okay start with Kf7. then what
+[17:49:32] aldric123: (28.Qh3) Perhaps Rh7 with the same threat
+[17:49:47] aldric123: (28.Qh3) oh that doesn't work
+[17:50:03] nyanners: umm you could do Rh8. then some weird counting happens
+[17:50:18] nyanners: R+N for Q. is that even good
+[17:50:33] aldric123: (28.Qh3) usually
+[17:50:33] aldric123: (28.Qh3) But depends on position
+[17:50:48] nyanners: so what about this one XD
+[17:51:03] aldric123: (28.Qh3) I think white would have to be better in this position, hmm
+[17:51:03] KonrDer: f5 there is g4
+[17:51:19] NxN: Kf7 is forced ?
+[17:51:19] aldric123: (28.Qh3) But as he pointed out, f5 you just Rh8+
+[17:51:49] aldric123: (28.Qh3) Vs most thinks Rh8 wins we think, perhaps including Kf7
+[17:52:35] nyanners: yea i think you just ignore this
+[17:52:50] aldric123: (28...Re4) I think it's still Rh8 yeah
+[17:53:05] aldric123: (28...Re4) If Bxh8 then you take the bishop before doing the skewer
+[17:53:36] KonrDer: uff missed that
+[17:54:37] aldric123: (29...Kf7) Err sorry I said he, I meant she nyanners :)
+[17:55:07] nyanners: AHAH its fine
+[17:55:07] aldric123: (30.Bh5) pronouns on the internet are tricky!~
+[17:55:37] aldric123: (31...Nxg6) Well, we are going to perhaps get the Q for R and minor
+[17:55:53] NxN: Kxg6 not Nxg6
+[17:55:53] aldric123: (32.Qd7+) Though you can at least win d6 here right?
+[17:56:08] aldric123: (32.Qd7+) If K takes the bishop fell I think
+[17:56:23] NxN: now lose the  N too , Qh7+
+[17:56:38] Grzybozbur: if white wins d6 it must be over
+[17:56:38] aldric123: (32...R4e7) Qh7 Bg7
+[17:57:24] nyanners: this version is definitely better for white than the Kf7 one
+[17:58:10] aldric123: (34...Bg7) I mean, likely, but I think Rh8 still worked vs Kf7
+[17:58:40] nyanners: id probably still take it because what else
+[17:58:55] kyriakos1301: Let's go Bronas!
+[17:58:55] aldric123: (34...Bg7) I don't disagree, and he is kyriakos!
+[17:58:55] KonrDer: I am playing really poorly this season
+[17:59:11] aldric123: (35.Rh7) f6 threatened now!~
+[17:59:41] nyanners: is that it :o
+[17:59:56] aldric123: (35.Rh7) seems almost resignable yeah, but who knows what KonrDer thinks
+[18:01:12] aldric123: (35.Rh7) Along with the direct attack on f6 I guess also Rxg7 followed by Bxf6 is also threatened
+[18:01:28] aldric123: (35.Rh7) Not sure that totally works though
+[18:01:43] kyriakos1301: why not Rxg7 followed by Qxf6?
+[18:01:43] nyanners: rxg7 is like a billionaire donating to charity
+[18:02:13] nyanners: get a nice tax write off out of it too
+[18:02:28] kyriakos1301: 36 Rxg7 now is forced?
+[18:02:44] aldric123: (36.Rxg7+) Is that your way of saying white is so winning that there are lots of ways to win?
+[18:02:44] aldric123: (36.Rxg7+) Or a different analogy?
+[18:02:44] nyanners: yes
+[18:02:59] nyanners: rx qe6, kx bf6
+[18:02:59] nyanners: its not exactly surprising that it wins by force but yea i wouldnt even calculate it
+[18:03:14] aldric123: (36...Rxg7) Yeah I hear ya
+[18:03:29] KonrDer: now Qe6
+[18:04:00] nyanners: gg
+[18:04:00] kyriakos1301: GG
+[18:04:00] aldric123: gg!
+[18:09:35] bronasberger: Thanks for watching people!
+[18:10:05] aldric123: Well, looks like you were right that Kf7 was best, and I was right that it's still Rh8 and white is still winning
+[18:12:07] nyanners: :D yes
+[18:15:09] bronasberger: I looked breiefly at Ke7, and I would have played Rh8 either way
+[18:15:24] bronasberger: Maybe
+[18:16:25] KonrDer: 26. ... g4 was an interesting defensive try
+[18:16:40] bronasberger: This was my last game this season, it has been a pleasure. Good luck to the rest of you, particularily my team! :)
+[18:17:26] nyanners: oooh nobody saw that XD
+[18:17:41] nyanners: probably because it "just" gives a pawn but yea the pieces that remain give black great drawing chances
