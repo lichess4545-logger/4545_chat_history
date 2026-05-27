@@ -1,0 +1,75 @@
+Lichess game chat log
+Game      : https://lichess.org/7Tnr167r
+White     : nirakuhakamura
+Black     : seawake
+Time      : 45+45
+Captured  : 2026-05-27 23:36:12 UTC
+Game ended : 2026-05-27 22:16:08 UTC
+Messages  : 65
+────────────────────────────────────────────────────────────
+
+[21:10:41] guitarspider: (7...g6) go Niraku
+[21:13:44] nyanners: oooh Deep Prep
+[21:17:32] nyanners: this Nd5 still feels familiar but i dont know what comes next
+[21:17:47] nyanners: after Nx
+[21:25:09] nyanners: time to find out
+[21:39:21] nyanners: feel i might have considered 13..Bxa4 into Qd7
+[21:39:51] nyanners: but its difficult to evaluate the real value of the e5-pawn
+[21:40:37] nyanners: like, after Kxd7 you have Re8-Re7-Rae8
+[21:41:07] nyanners: but if that doesnt work black is kinda dead lost
+[21:44:10] guitarspider: Curious how stable that center can be
+[21:44:10] nyanners: white should probably have inserted Bxd7 in hindsight
+[21:44:40] nyanners: Qh4 is a nice find. this sequence must have been in black's favour
+[21:45:26] nyanners: then not only black's d4 would be attacked, black would not have Qg4 (the equivalent of this Qh4)
+[22:04:13] Mennonite: 20...Rad8 looks problematic
+[22:15:07] nyanners: this is definitely problematic
+[22:15:07] nyanners: checkmating-like problematic
+[22:15:22] nyanners: qf3 qh5 rf2 qh2
+[22:16:08] nyanners: umm okay this is also winning everything if nothing else
+[22:16:08] nyanners: gg
+[22:16:23] GoldenRetrieverChess: gg
+[22:20:57] seawake: I did consider 13 Bxa4 and Qd7, but after Qxd7 Kxd7 re8 Bf4 I thought it was kind of a sad position
+[22:21:42] nyanners: yea its a difficult call to make
+[22:21:42] nyanners: you might win the pawn! but the risk is kinda high
+[22:22:13] nyanners: 13..Bxa4 14..b5 was definitely not in the radar tho :o
+[22:22:28] seawake: yeah i wouldn't have found that
+[22:22:58] seawake: I guess because the d5 pawn is hanging huh
+[22:22:58] NirakuHakamura: I didn't see that b5 either
+[22:22:58] seawake: after cxb5
+[22:23:14] NirakuHakamura: that's what everyone missed it seems
+[22:23:29] seawake: yeah Bxa7 certainly seems better,  I was planning maybe c5 after Bxd7 Qxd7, but I don't totally understand why it's so bad for me
+[22:23:44] seawake: *Bxd7
+[22:24:14] nyanners: the Real Line is 14..b5 cxb5 O-O Qb3 Re8 and wing it, ..Bxe5 ..Qd6
+[22:24:45] nyanners: kinda abstract but makes sense conceptually of course
+[22:25:15] seawake: wow
+[22:25:15] seawake: very strong
+[22:25:30] nyanners: b5 cxb5 Qxd5 bxa6+(!) is annoying enough
+[22:25:46] nyanners: so O-O gives white a tempo to defend d5 again
+[22:26:01] nyanners: but its kinda positionally busted
+[22:26:46] seawake: definitely O-O !! there, but i'm probably 500+points away from finding that
+[22:26:46] NirakuHakamura: interesting yeah
+[22:27:32] NirakuHakamura: I wouldn't have played Qb3 there but it collapses immediately in all lines
+[22:27:47] nyanners: yeaa
+[22:28:02] nyanners: this prep is interesting, like c4 is the clear computer move but it hasnt really caught on among strong players afaik
+[22:28:18] NirakuHakamura: well not collapse just strong passer
+[22:28:18] nyanners: probably because of this weird nature
+[22:28:33] NirakuHakamura: well I found it from the database, so some strong players have played it with success
+[22:29:03] nyanners: the proportion definitely increases the more recent you go
+[22:29:18] nyanners: i suppose for the most part black has the element of surprise and thus white prefers to stay in normal waters
+[22:29:34] NirakuHakamura: I just didn't see anyone with White get mated in the middle game from the couple of games I checked.
+[22:29:49] nyanners: well that's unlucky XD
+[22:30:19] nyanners: blame it on move 11 i guess
+[22:30:34] nyanners: i thought 14 actually
+[22:30:50] NirakuHakamura: well I was already disappointed I couldn't get 11. Nf6# in and had no plan after that
+[22:31:20] NirakuHakamura: 10. Nf6#
+[22:31:20] nyanners: yea those positions are a bit deceptive
+[22:31:35] nyanners: black's resources are surprisingly adequate so white has to go kinda deeper
+[22:34:38] nyanners: like you see 9 Nd5 +0.9 and it just looks like "yeah makes sense" but not THAT easy actually
+[22:34:53] NirakuHakamura: 11. Bxd7 Qxd7 Nxd4 Be7 Bh6 0-0-0 makes sense and is easy
+[22:35:08] NirakuHakamura: but if Ng4 instead of 0-0-0 I'm already losing it
+[22:35:39] nyanners: ah superficially discarded that because of Nxc4
+[22:35:54] nyanners: but Qe2+ is sufficient
+[22:36:09] NirakuHakamura: yep
+[22:42:44] seawake: I probably would have played O-O-O before Bh6 and sent the kingside pawns tbh
+[22:42:44] seawake: before Be7
+[22:54:54] seawake: im off, thanks for the game and chat and gl for future games
