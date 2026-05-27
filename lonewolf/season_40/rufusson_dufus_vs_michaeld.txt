@@ -1,0 +1,81 @@
+Lichess game chat log
+Game      : https://lichess.org/ysD37nMV
+White     : rufusson_dufus
+Black     : michaeld
+Time      : 30+30
+Captured  : 2026-05-27 15:31:29 UTC
+Game ended : 2026-05-27 14:11:24 UTC
+Messages  : 71
+────────────────────────────────────────────────────────────
+
+[13:02:08] rufusson_dufus: I'm prepared for 3....Bb4 here. Had not enough time for any deep prep, but let's see
+[13:03:09] rufusson_dufus: 6.Qf3 is the end of my prep. I know the basic plan is to castle queenside. Makes a lot of sense to me
+[13:04:25] rufusson_dufus: alright, I want my g1 knight on f3 or h3. So Ne2 looks passive.
+[13:04:25] rufusson_dufus: 6.Qe2 or Qe3 seems bad.
+[13:05:11] rufusson_dufus: 6.Be2 b6 is not possible, 6.Be2 Bxc3 Qxc3 b6 Bd2 Ba6 0-0-0! that looks fine
+[13:05:26] rufusson_dufus: ah, but black will play Nc6 next
+[13:07:43] rufusson_dufus: mm, I'm not finding a good continuation. Maybe Qe2 after all?
+[13:08:59] rufusson_dufus: certainly 7.Qe2 is not the best move, but I couldn't find any clear way to deal with all the problems after Nc6
+[13:10:30] rufusson_dufus: my eval after move 8: +0.6. I must still be fine but I wasted so much time
+[13:12:02] rufusson_dufus: 9.Bg5 would have come with tempo, but I was scared of Qxe2+...h6...g5
+[13:13:33] rufusson_dufus: alright, I got the bishop pair and pawn structure weaknesses (whole black kingside is on light squares) for nothing, so it can't be THAT...
+[13:13:48] rufusson_dufus: ... bad, even though I fumbled the opening
+[13:14:34] rufusson_dufus: I think black has to go a6 or Qxe2 here, I have a threat of 12.Qb5 and then Re1
+[13:16:35] rufusson_dufus: ok, black wants to play Bd7 ...0-0-0, pretty much no matter what. How can I counter that?
+[13:18:37] rufusson_dufus: I need to open the position, if I go 13.Bd2 or 13.Ne5, those are fine moves, but my bishops are still iffy
+[13:19:23] rufusson_dufus: 13.h4 Bd7 h5 0-0-0 hxg6 hxg6 looks fine for black, mmm
+[13:19:53] rufusson_dufus: ah, how about I go h6? that gets me a quasi-outpost on g5
+[13:20:24] rufusson_dufus: my DSB still needs to go somewhere else, but I think I have some time there
+[13:21:10] rufusson_dufus: alright, so my default plan is 15.h6...Bd2...c3...Ng5.
+[13:22:10] rufusson_dufus: I considered Ne5, still might play it at some point, but it closes so much. Plus I have a space advantage, technically
+[13:23:27] rufusson_dufus: 16.Ng5 Ng8 Bf3 Nf6 Nf7, don't I win material?
+[13:24:12] rufusson_dufus: I should slow down a bit, playing a bit too fast. But this looked so good
+[13:24:58] rufusson_dufus: black's best option is probably to sac the exchange
+[13:26:14] rufusson_dufus: What about 17.Bb4 ?
+[13:27:15] rufusson_dufus: 17.Bb4 Nf6 Nf7 Ne4 Rdf1 Looks a bit complicated, especially as there's always Nxd4 Bxd7+ Rxd7 attacking my knight
+[13:28:01] rufusson_dufus: ok, positionally it's all a bit dubious at the end, but I do get an exchange
+[13:29:17] rufusson_dufus: I think 17....Re7? was a huge blunder. Now I open up the position, and I'm up a pawn
+[13:30:18] rufusson_dufus: I guess 19....Ng4 is the plan but then 20.Bxg4 fxg4 d5 Nb8 Bc6, doesn't that win material?
+[13:31:19] rufusson_dufus: maybe the idea is 19....Be6? But that looks so bad in general
+[13:32:35] rufusson_dufus: yeah 19....Be6 Rhe1 Bb8 Bxc6 wins at least another pawn (Rxe1 Bxb7+! Kxb7 Rxe1)
+[13:33:36] rufusson_dufus: 20.Bxe4 fxe4 d5 Ne5 Nxe4 I guess that's borderline ok?
+[13:33:51] rufusson_dufus: ok I have plenty of time, should go slow here
+[13:34:36] rufusson_dufus: ok so 20.Bxe4 fxe4 d5 Ne5 Bxe5 Rxe5 and I have both Nxf7 and Nh7, something should win there
+[13:35:22] rufusson_dufus: if ever Bg4 I have f3, and two pieces are hanging
+[13:36:23] rufusson_dufus: I also have 22.Nxe4, but that could become a bit complicated
+[13:37:09] rufusson_dufus: taking the exchange seems to be clearly best, if I go 22.Bxe5 Rxe5 Nxh7 there might be Rf5
+[13:38:10] rufusson_dufus: I want my king on e3, maybe I'll need to play c4 for that?
+[13:39:41] rufusson_dufus: ok f2 is hanging and after Rhf1 there's Rh5
+[13:39:41] rufusson_dufus: so I think 25.Rd2 was the only candidate
+[13:39:56] rufusson_dufus: still I'm playing too fast
+[13:41:12] rufusson_dufus: I still want my king on e3 or d4, that should be the next priority. Maybe play c4 to enable Kc2? Or b3 for Kb2...Kc3 ? It's same distance
+[13:41:58] rufusson_dufus: 26.g3 Bg4Rh4 Bf3. It should still be good but I'm not really interested I guess.
+[13:43:29] rufusson_dufus: my rooks are both a bit misplaced, but that should be temporary
+[13:46:17] rufusson_dufus: 27....Bf5 is a major concession to rook activity, but I think that's the move
+[13:46:48] rufusson_dufus: 27....Re5 f4 exf3 Rxe5+ very important for this to be check, otherwise f2 would win
+[13:47:03] rufusson_dufus: love to see 27....Rxd5, this removes my weakest pawn
+[13:48:49] rufusson_dufus: argh too fast again, I'm blitzing. But the position is great, I'd give a pawn to trade rooks
+[13:49:35] rufusson_dufus: maybe not the a pawn though ;)
+[13:52:07] rufusson_dufus: 31.Rh1 Rg5? Rd1+! wins material or trades rooks, that's great
+[13:52:38] rufusson_dufus: 31.Rh1 Rf5? Rd1+ Ke7 Rde1 Rf6 holds on, but this looks amazing, whenever the bishop moves I go Re7
+[13:53:08] rufusson_dufus: feels a bit scary to have all my rooks lined up on a light diagonal
+[13:54:39] rufusson_dufus: after 32.Re8 there was Kd7 in some lines (Rh8 g5!)
+[13:55:25] rufusson_dufus: 32....c4 Rd1 Bd3 Rde1! looks decent. Can even think about Rxd3, but that would be a bit radical
+[13:56:41] rufusson_dufus: actually, I prefer the bishop on f5 I guess, there it blocks the h file
+[13:57:42] rufusson_dufus: also, the king can't move because of Re5
+[13:58:12] rufusson_dufus: (once I've forced the g pawn to g5)
+[13:59:29] rufusson_dufus: huh, don't I win h7 now? 34.Re6+ Kc7 Re7+ and black would need to trade rooks to avoid that
+[14:01:15] rufusson_dufus: alright, king activity next. I'm threatening to bring the king to f6, that would win
+[14:02:01] rufusson_dufus: (although I guess pretty much everything would be winning, my eval after 38.Kd2 is +10)
+[14:03:02] rufusson_dufus: ah darn, that was too impulsive. Mmm
+[14:05:49] rufusson_dufus: 41.Rxe6 should be a technical win
+[14:06:20] rufusson_dufus: 41.Rg5 followed by g4 f5... looks great though, gives space to my rook
+[14:06:50] rufusson_dufus: ah but the black king is on f6 in time. Maybe not so easy, after all!
+[14:07:20] rufusson_dufus: I can go g4 now, just to give some space to my rook. Or Rxe6...g4 after all?
+[14:08:37] rufusson_dufus: yeah in retrospect I should have played the pawn endgame
+[14:09:53] rufusson_dufus: this was a lazy conversion, but fortunately the margin was large enough
+[14:13:41] michaeld: dachte du nimmst den Laeufer und dann die 2 Bauern mehr .. haette ich sofort aufgegeben aber so eigentlich auch .. wollte nur sehen wie du
+[14:13:56] michaeld: es machst
+[14:15:12] rufusson_dufus: Du siehst ja meine Gedanken oben im Chat, hatte ich überlegt!
+[14:18:30] michaeld: ja danke spannend muss ich mal alles anschauen wie hast du das so schnell eingetippt?
+[14:24:35] rufusson_dufus: Öh, ich hab ein gutes Framework-Keyboard :p
