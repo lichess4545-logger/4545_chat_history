@@ -1,0 +1,113 @@
+Lichess game chat log
+Game      : https://lichess.org/dVTpPKpu
+White     : duty5521
+Black     : alex_makarets
+Time      : 45+45
+Captured  : 2026-05-27 14:45:29 UTC
+Game ended : 2026-05-27 13:25:24 UTC
+Messages  : 103
+────────────────────────────────────────────────────────────
+
+[11:02:02] Duty5521: [3. Nc3] hehe
+[11:10:55] Duty5521: [11. h3] Taking time... I wonder if they still have theory here and they can't remember of if they want to try to take me out of ...
+[11:10:55] Duty5521: ...book...
+[11:12:57] Duty5521: [11... f5] That's not a move
+[11:15:59] King12-life: There are lines where f5 is playable, though I think usually you play Nd7 Nf8 first
+[11:17:31] Duty5521: [13. Rae1] I'm playing what was in my prep, doesn't seem bad at all and it looks like I have Qc1 next move
+[11:24:37] Duty5521: [14... Be7] I want my knight on e5 but I can't possibly reroute it on Bc4, I don't have the time
+[11:25:38] alex_makarets: (14) I think the opening is ok. But now I have to play this position
+[11:26:39] alex_makarets: I think I will start from Nf8 and probably Bf6. White has to show his cards while I am doing this
+[11:29:26] King12-life: (14... Be7) White could try Bc4 Nf4 maybe but after Kg7 there is nothing else
+[11:29:26] King12-life: It looks tough to make progress
+[11:32:13] Duty5521: [15. Nf4] I get the same lines than on Bc4 but I force black to commit beforehand so I can adapt! And probably reroute my knight...
+[11:32:29] Duty5521: [15. Nf4] Sounds simpler than it was...
+[11:42:22] Duty5521: [19... Be6] I don't know if I can put my knight on e5 anymore because of this f6 bishop
+[11:44:54] alex_makarets: (19) ok, I am finishing my development, lack of space is not a concern
+[11:47:42] Duty5521: [20. b3] I kind of like the cluster of pawns I can get
+[11:54:04] Duty5521: [20... b5] Not fun :(
+[11:55:20] alex_makarets: (21) a serious decision, c6 is weak now, but there are b4 ideas
+[11:59:24] Duty5521: [22. b4] I don't know what to do and c5 looks annoying
+[12:08:47] alex_makarets: (23) it was a tough call. Now minor piece endgames are in my favor, but what do I do with my rook?
+[12:09:48] Duty5521: [24. Nf4] Alright, no pony on f4 but I couldn't find another way to not immediately draw
+[12:13:36] Duty5521: [25. Qd1] I have no idea why Nf8 was layed. Maybe put the knight on c4, but that seems weird.
+[12:13:36] alex_makarets: feels like my knight and queen should stay on the board to use his weak light squares
+[12:16:39] alex_makarets: (28) I missed that
+[12:17:25] Duty5521: [28. d5] Can I sac the bishop on Qd8?!
+[12:18:41] alex_makarets: in any case I have to take
+[12:18:41] Duty5521: [29. Nxd5] Welp, we won't know yet...
+[12:36:57] alex_makarets: (31) very unpleasant
+[12:41:01] alex_makarets: I feel that I have to do something, if he allows me to activate the queen i have decent chances
+[12:41:01] Duty5521: [32. f4] Interesting
+[12:45:35] alex_makarets: my guys are paralized
+[12:47:37] Duty5521: [34... Kh8] What is this
+[12:55:13] alex_makarets: I think it is lost in the long run, I have to activate my queen, only this gives me chances
+[12:56:14] Duty5521: [36... Ng5] Why can't I take???
+[12:56:45] King12-life: The duality of these comments amazes me, white is confused while black is desperate for counterplay
+[12:57:15] Nubro: Haha yes, I like that they both comment makes it interesting. Duty's comments are funny as well
+[12:58:01] alex_makarets: I thought it was impossible...
+[12:58:46] King12-life: Unfortunately the king is on h8 now :/
+[12:59:02] King12-life: Be5 no longer works
+[13:00:02] King12-life: Wasn't 39... Ne4 better ?
+[13:00:18] King12-life: Oh Bb2 yeah makes sense
+[13:00:48] King12-life: But Bxa3 Bc7 and b6 b7 b8 looks unstoppable
+[13:01:03] Duty5521: [41. b5] chess is hard
+[13:04:52] Duty5521: [45. b6] uuh
+[13:05:07] King12-life: why did Duty play so quickly ?
+[13:05:07] Duty5521: [45. b6] Why did I make this harder for myself
+[13:05:52] LostFromOpening: 46. ... a3 should just be drawn?
+[13:06:08] King12-life: Probably yeah
+[13:06:38] LostFromOpening: black gets his pawn to a2, king will collect b7 and draw
+[13:07:39] alex_makarets: a3 Bc5
+[13:08:55] King12-life: ohhh
+[13:09:41] LostFromOpening: o wow completely missed that
+[13:10:57] alex_makarets: (46) I don't see a win
+[13:13:44] alex_makarets: my plan is to go with the king to b7
+[13:14:45] alex_makarets: wait... he doesn't have to play Bb2
+[13:15:31] alex_makarets: I cannot go to b7
+[13:16:01] alex_makarets: I can if he plays with the bishop now
+[13:17:48] LostFromOpening: ok i checked with fish and this is winning for white
+[13:18:03] LostFromOpening: if he finds this im really impressed tho
+[13:18:49] Duty5521: [46... Bb8] Looks like a draw eh, just try not to lose
+[13:19:04] LostFromOpening: idea for white is Bb2 rn
+[13:19:19] LostFromOpening: and when king goes to collect b7 we push the h pawn
+[13:21:21] LostFromOpening: ok this will happen on the board im pretty sure
+[13:21:36] LostFromOpening: a3 Ba1
+[13:22:06] Duty5521: [54. Ba1] No draw?
+[13:22:22] alex_makarets: f*ck
+[13:22:22] King12-life: Couldn't black try to go back to the kingside ?
+[13:22:37] King12-life: instead of Kc6
+[13:22:37] LostFromOpening: Bxa3 also worked because of Be5 Bf8 and Bg7
+[13:23:07] alex_makarets: how did I miss Ba1 at the end?
+[13:23:07] LostFromOpening: blacks best chance was not going for b7 ig
+[13:24:08] alex_makarets: this is resignable now
+[13:25:09] guitarspider: gg
+[13:25:09] Nubro: gg
+[13:26:56] Duty5521: sad Nd3
+[13:27:56] Duty5521: why is Bb2 practically the only winning move
+[13:27:56] Duty5521: i mean i just wanted to stop the a3 pawn
+[13:29:12] Duty5521: oh i COULD sac on Qd8
+[13:29:28] LostFromOpening: cuz the pawn can be protected with Bd6?
+[13:29:43] LostFromOpening: otherwise it stays on a4 and king can come take it maybe
+[13:30:28] Duty5521: woah
+[13:30:44] LostFromOpening: honestly no idea
+[13:30:44] Duty5521: there is an idea with a3 a2 e5 e4
+[13:30:44] Duty5521: i think it's because of this
+[13:30:59] LostFromOpening: o and u cant stop both pawns?
+[13:30:59] Duty5521: yeah
+[13:31:14] LostFromOpening: o wow
+[13:31:14] LostFromOpening: too high lvl for me ^^
+[13:31:14] Duty5521: me too
+[13:31:29] Duty5521: i didn't see it lol
+[13:31:29] LostFromOpening: Bb2 instinctively feels right anyways
+[13:31:29] Duty5521: yeah
+[13:31:44] Duty5521: that's what i was about to say
+[13:31:44] LostFromOpening: Bxa3 should also work btw
+[13:32:00] LostFromOpening: Bf8 and Bg7
+[13:32:15] Duty5521: eh
+[13:32:15] Duty5521: simpler to just not tak
+[13:32:30] LostFromOpening: yea for sure
+[13:33:00] LostFromOpening: Qxf4 is a nice move
+[13:33:16] LostFromOpening: completely missed Bd4
+[13:34:16] Duty5521: crosspin
+[13:35:02] Duty5521: at first i was like "hmmm Qxf4 Be5 Nf6" and then i realized the king was on h8
+[13:35:17] Duty5521: and then i realized there was Bd4
