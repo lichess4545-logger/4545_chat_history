@@ -1,0 +1,69 @@
+Lichess game chat log
+Game      : https://lichess.org/YbZUT5Ob
+White     : giziti
+Black     : berndwind
+Time      : 30+30
+Captured  : 2026-05-28 19:30:59 UTC
+Game ended : 2026-05-28 18:10:54 UTC
+Messages  : 59
+────────────────────────────────────────────────────────────
+
+[17:02:53] giziti: (7.g6) hmm haven't encountered this exact line before, maybe should've thought a little
+[17:03:54] giziti: (7.g6) I wnat Bd3 but also want e4. Hmm.
+[17:04:09] giziti: (7...fxg6) I can sac a pawn
+[17:04:40] giziti: (7...fxg6) but Bf5 is coming
+[17:05:10] giziti: (7...fxg6) I think the line was supposed to be Qd3, not Nd2
+[17:05:10] berndwind: (7...fxg6) hi spider! Tromp time
+[17:05:10] berndwind: (7...fxg6) hi pirate!
+[17:05:25] berndwind: (7...fxg6) I wonder who these mythical frisians are. Will have to look it up one day
+[17:07:58] giziti: (8.e3)  yes a little unhappy, 5.Qd3 is maybe the way
+[17:08:13] berndwind: (8.e3) so I guess the idea is to develop the lsb to d3 ad threaten the pawn?
+[17:08:13] giziti: (8.e3) maybe dxe6 was needed
+[17:08:13] berndwind: (8.e3) hi pineapple!
+[17:08:28] Pineapplechiffoncake: Hi Bernd! Good luck!
+[17:08:43] berndwind: (8.e3) Why am i being attacked this early in the game? What did i ever do to ofend this giziti?
+[17:09:14] berndwind: (8.e3) Ok I'd like to develop and get my king safe
+[17:09:44] berndwind: (8.e3) but where is that gonna happen?
+[17:10:30] berndwind: (8.e3) Looking at Qf6 but can that wait a move?
+[17:11:00] berndwind: (8.e3) taking the d pawn looks risky but it does liberate my pieces a little?
+[17:12:47] NG_Life: (8... Qf6) this position already looks crazy.
+[17:15:19] giziti: (11.Bd3) I think the queen gets in trouble pretty quick here
+[17:17:52] giziti: (12.Nf3) something like Qxb2 seems suicidal with the weak b7 pawn
+[17:20:09] NG_Life: white is clearly doing well here, but 11. bd3 felt a little awkward blocking the d file
+[17:20:39] guitarspider: Nh4 will make sense of Bd3
+[17:20:39] NG_Life: I guess it was worth it to bully the queen
+[17:20:54] NG_Life: he'll need to reroute these pieces though, since I assume he wants O-O-O and attack down the open d file
+[17:21:09] NG_Life: to do that he'll need to re-route both e4 knight and d3 bishop, so black might have time to stabalize
+[17:21:40] giziti: (14...Kxf7) Now that is an interesting one
+[17:22:56] NG_Life: (14... kxf7) I guess bc4 must be good here.
+[17:22:56] giziti: (14...Kxf7) Nh4 just wins an exchange, right? or Bxg6 is painful
+[17:23:26] giziti: (14...Kxf7) or immediate Bxg6?
+[17:23:26] NG_Life: bc4 ke8 Qd5 and ready to castle long
+[17:23:57] NG_Life: nh4 can not possibly be right idea here, surely
+[17:25:28] NG_Life: nh4 g5 ng5 Qg3! kxh8+ kg8 (tempo gain on knight) kng5 Qxg2 black has massive counterplay
+[17:25:43] NG_Life: oops my calc was wrong, you need to play it like this
+[17:25:59] NG_Life: but black is correct
+[17:26:14] NG_Life: possibly after 15. nh4?? black is better now
+[17:27:15] NG_Life: Qf3+ is a good move, but white must be careful here
+[17:28:16] NG_Life: kg8 only move, white Queen is threatening b7 but not sure taking there is a good idea
+[17:30:48] NG_Life: (17. nxg6) nc6 nxh8 ne5 tempo gain on Queen Qxb7... white seems to still be doing well
+[17:31:19] NG_Life: I guess white has rh5 coming too, white must be winning here
+[17:31:34] giziti: (14...Kxf7) there was probably a knockout blow in there somewhere
+[17:31:49] berndwind: (19.Qe4) I'll have to see where I went wrong
+[17:32:04] giziti: (18...Kxh8) but this should be good enough
+[17:32:20] NG_Life: I guess the best try to continue the game is 19.... kg8 for black and just walk away
+[17:32:35] NG_Life: this is looking grim for black
+[17:35:22] giziti: (19.Qe4) I could for a queen trade, but maybe i want to see if i can force concessions first
+[17:35:53] NG_Life: I guess after Qh7+ kf7 Qf5+ Qxf5 bxf5 it would be an easy conversion
+[17:36:08] NG_Life: because black has the backward d pawn with no prospects of protecting it
+[17:36:23] NG_Life: if you push to d5 then it's on a white square
+[17:45:32] giziti: (30.Rhd1) considering b4 temp pawn sac, does that work?
+[17:46:48] NG_Life: (30...h5) b4 cxb4 axb4 nxb4 rxe5 dxe5 hmm, not sure it's temporary
+[17:47:03] NG_Life: it would open it up but at what cost
+[18:01:46] giziti: (41.bxc4) Rd8 a8 and it should be over
+[18:03:02] giziti: (42.Rd8) b5 is slightly annoying but not going anywhwere
+[18:11:55] giziti: yeah i think exd5 was the right idea
+[18:12:10] giziti: and yeah Qd3 not Nd2
+[18:13:41] giziti: okay yeah Bxg6 was cleaner than Nxg6, that's what I was thinking, but I saw a way to take the material and run...
+[18:14:27] giziti: gg, thanks for the game
+[18:15:28] berndwind: thanks for teaching me more about the dangers of the Tromp haha
