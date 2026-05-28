@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/a4JPoEMM
+White     : lexgrad
+Black     : rajib_r_c
+Time      : 45+45
+Captured  : 2026-05-28 20:46:47 UTC
+Game ended : 2026-05-28 19:26:41 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[18:15:09] Leverkuhn: hmmm does this work?
+[18:15:55] Leverkuhn: 5.Bxe7 Nxc3 6.Bxd8 Nxd1 7.Bxc7 Nxb2 8.a4!? playing for the knight trap
+[18:16:10] Leverkuhn: oof Lexgrad accepts being a pawn with no resistance!
+[18:17:56] Leverkuhn: that's a shame, that was absolutely a critical moment and deserved thought
+[18:18:57] Leverkuhn: even if White decides the knight trap is not on, 7.Bxc7 Nxb2 8.Bd6!? would give White massive positional compensation on the dark squares
+[18:20:44] Leverkuhn: now White will have to generate an initiative with queens off; it won't be easy
+[18:21:14] Leverkuhn: with 9.Bd3 he's hinted at a Ng5 fork
+[18:22:00] Leverkuhn: if 9...h6, 10.h4!? inteding to target g7 with Rh1-h3-g3 could be an idea
+[18:24:02] Leverkuhn: have to beware ...e5 discoveries if going for that plan, but for example 10.h4 Nc6 11.Rh3 e5 12.Nxe5! Nxe5 (12...Bxh3 13.Nxf7+) 13.Re3!
+[18:32:09] Leverkuhn: Black surprisingly didn't rush to trade White's e5-knight
+[18:32:24] Leverkuhn: isn't 13.f5 kind of a thing now?
+[18:33:10] Leverkuhn: 13.f5 Nd7 too late: 14.Nxd7! Kxd7 15.fxe6+ and the rook cracks f7
+[18:33:40] Leverkuhn: maybe 13...Nc6!? though
+[18:35:26] Leverkuhn: Black has indeed allowed the king to be distracted, and Lexgrad has an amazing opportunity to get the party started again!
+[18:42:02] Leverkuhn: 18.Rxg8 seems quite a soft move; the other rook will not reach the seventh: 19...Ke7!
+[18:42:33] Leverkuhn: Black is once again a favorite to hold the draw
+[18:43:34] Leverkuhn: interesting position at White's 17th: how to most precisely build on the positional advantage of the seventh-rank rook?
+[18:44:50] Leverkuhn: I hadn't reached any conclusions by the time White moved: one interesting line was 17.Bb5 Bc6 18.Bxc6 Kxc6 19.Rd3 Kb7 20.Rc3 Rac8 21.Rxg7
+[18:46:36] Leverkuhn: Lexgrad finally thinking a bit, but marginal utility of thought was so much higher on the previous two moves
+[18:47:22] Leverkuhn: 20.Rf4 will likely be the try, preparing Rh4 and Kg1-f2-e3
+[18:59:32] Leverkuhn: hold the phone: White's king reaches f4
+[19:00:33] Leverkuhn: 24.Kf4! and White should win the endgame by creating an outside passed pawn and eventually cracking e5 with the king
+[19:02:35] Leverkuhn: White must maintain the dark-square grip with 26.c3
+[19:03:05] Leverkuhn: White should not allow Black's bishop to eventually block on g6
+[19:03:51] Leverkuhn: 26...Bd7 27.h4 Be8 28.g5?! hxg5 29.hxg5 Bg6! for example
+[19:03:51] Leverkuhn: rather, 28.Bd3! +- in that line
+[19:04:52] Leverkuhn: of course White could calculate whether 29.Kxg5 e5 offers chances, but that is unnecessarily complicated
+[19:06:23] Leverkuhn: another plan would be 28.h5 before 29.g5, that also seems very convincing actually
+[19:07:09] Leverkuhn: one thing's for sure: White should spend some time here!
+[19:08:25] Leverkuhn: he didn't think, but did play my preferred move
+[19:10:12] Leverkuhn: we can see Lexgrad's skills in this game, with better time utilization I think he can push towards 1800
+[19:10:42] Leverkuhn: Black had to cede the e5-square and I doubt he can create further difficulties for White
+[19:19:04] Leverkuhn: Black will soon run out of pawn moves and fall into zugzwang
+[19:21:37] Lexgrad: think its zug zug
+[19:23:54] Leverkuhn: slight loss of style points for 39.g7+; one more pass from White's bishop and the king would have completed a glorious journey all the way t
+[19:24:09] Leverkuhn: *to g8
+[19:26:41] Leverkuhn: gg
+[19:27:42] Leverkuhn: nice exploitation of the bad bishop in the endgame, Lex
+[19:28:43] Lexgrad: Thanks man will have to work through your comments during the game
+[19:31:45] rajib_r_c: really want to review this one in depth later
+[19:32:16] rajib_r_c: you exploited my poor piece development well
+[19:33:32] Lexgrad: I saw Nxe4 but thought if i traded bs first it didnt work lol
+[19:33:47] Lexgrad: (will play it off as a gambit line i totally prepped)
