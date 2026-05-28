@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/dHhHMKQL
+White     : seniorjriii
+Black     : dikiydrozd
+Time      : 45+45
+Captured  : 2026-05-28 19:08:51 UTC
+Game ended : 2026-05-28 17:48:45 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[17:09:41] GenTurgidson: Go dikiy!
+[17:14:31] bufferunderrun: let's go DD!
+[17:17:03] bufferunderrun: 17...Na5 perhaps
+[17:26:26] bufferunderrun: still looked like a goo option
+[17:26:41] bufferunderrun: not sure about b6
+[17:27:27] bufferunderrun: now Rae1 and on Re8 there is Bd5 I guess
+[17:28:12] bufferunderrun: so basically forces Kf6, which might be okay
+[17:28:43] GenTurgidson: Yeah if Re8 Bd5 is nasty.
+[17:31:15] GenTurgidson: I thought white had 20.Bb5, if Bb7 Bxc6 Bxc6 *then* Nd4.
+[17:31:30] bufferunderrun: and now DD dropped the pawn
+[17:32:01] bufferunderrun: and more, actially
+[17:33:01] GenTurgidson: Yeah. Rxe6+ Kg7 Re7+ winning yet another pawn.
+[17:33:17] GenTurgidson: If Kf7 then Rxb6+, can't go on f7/.
+[17:34:02] bufferunderrun: Kg7 Re7+ Kh6 or Kh8 Rxc7 Be4 and position went from plus a pawn to a minus a pawn and a passer for white
+[17:35:34] GenTurgidson: If Kh6 then Rf3 might be a threat.
+[17:36:19] GenTurgidson: So maybe DK does need to play Kh8.
+[17:36:34] bufferunderrun: not really, the rook would be hanging, but yeah Rh3 via let's say d3 or e3 would be something to worry about
+[17:36:34] GenTurgidson: How do you address Rf3 now? I guess g5.
+[17:36:50] bufferunderrun: but this applies to Kh8 as well actually
+[17:36:50] GenTurgidson: Oh yeah I forgot about that sniper bishop, convenient.
+[17:37:35] bufferunderrun: well, maybe not quite since h5 is possible, but yeah, black is suffering
+[17:38:06] bufferunderrun: I'm more concerned about the passer...
+[17:38:51] GenTurgidson: 25.Bd3??
+[17:39:07] GenTurgidson: If Bxd3, Rf3 idea
+[17:39:52] bufferunderrun: you can probably play g5 at some point
+[17:39:52] GenTurgidson: Yes but takes, takes, h pawn hangs also.
+[17:40:08] bufferunderrun: h-pawn for the bishop :p
+[17:41:24] GenTurgidson: Ok, not in that order. Bd3 Bxd3 Rf3 g5 Rxd3 gxf4 Rxf4
+[17:41:24] GenTurgidson: Is what I'm looking at.
+[17:42:24] bufferunderrun: there is no Rxf4 and there is g4 instead of gxf
+[17:42:40] bufferunderrun: also you do not have to take on d3, Bd3 Bd5 for example
+[17:43:41] bufferunderrun: 25...Rfc8 now
+[17:44:11] GenTurgidson: Go easy on me I'm a beginner
+[17:44:26] bufferunderrun: no, you are not
+[17:44:26] GenTurgidson: My board vision here begs to differ
+[17:46:13] bufferunderrun: the problem with this line is that there is Bb3 covering c2
+[17:46:59] bufferunderrun: if b3 then b5
+[17:46:59] bufferunderrun: but Bb3 is annoying
+[17:47:14] bufferunderrun: ouch
+[17:47:14] bufferunderrun: Bxd3!!
+[17:47:29] GenTurgidson: Wait that doesn't look right.
+[17:47:44] GenTurgidson: After the bishop exchange it smells drawish?
+[17:48:00] bufferunderrun: it's a checkamte
+[17:48:15] GenTurgidson: Oh... takes, takes, Rc1+
+[17:48:15] GenTurgidson: Haha.
+[17:48:30] GenTurgidson: go dk!!!
+[17:48:30] bufferunderrun: yes, DD saw it!
+[17:48:45] bufferunderrun: gg
+[17:48:45] GenTurgidson: Yess!!! gg
+[17:49:01] bufferunderrun: a bit lucky turn around, but we'll take it
+[17:51:48] bufferunderrun: yeah Kh6 was bad
