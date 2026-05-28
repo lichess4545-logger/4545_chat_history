@@ -1,0 +1,41 @@
+Lichess game chat log
+Game      : https://lichess.org/PUWiO6bK
+White     : gpetris
+Black     : tjcanavan
+Time      : 45+45
+Captured  : 2026-05-28 20:55:52 UTC
+Game ended : 2026-05-28 19:35:47 UTC
+Messages  : 31
+────────────────────────────────────────────────────────────
+
+[18:01:56] GenTurgidson: Go gpetris!!!
+[18:03:27] GenTurgidson: Ooh, 2.Nc3 is a rare move here.
+[18:03:58] GenTurgidson: Chigorin variation?
+[18:04:13] bufferunderrun: let's go GP!
+[18:08:01] bufferunderrun: isn't it Jobava London?
+[18:08:32] GenTurgidson: Yeah looks like it's transposed into something like that?
+[18:09:17] GenTurgidson: London with the Nc3.
+[18:10:03] bufferunderrun: did black drop the piece here?
+[18:10:34] bufferunderrun: Bxb8 and Nh4?
+[18:11:19] bufferunderrun: yeah, but now Nxf4 keeps it, I guess
+[18:11:19] GenTurgidson: Nh4 played immediately but now black is surviving.
+[18:11:50] GenTurgidson: Crazy games this evening.
+[18:13:06] bufferunderrun: Ng6 seemed batter
+[18:13:21] bufferunderrun: now white has an option of grabbing the pawn on g7
+[18:16:08] bufferunderrun: so Nxg7 Bxg7 exf4 Qe6+ Ne2, otherwise Qf6 and d4 and f4 under attack
+[18:20:58] bufferunderrun: Maroczy in the other game looks like with a small plus
+[18:21:43] GenTurgidson: Oh thanks for reminding me the other game is on also.
+[18:28:34] bufferunderrun: alright, GP spotted Qf6
+[18:29:35] bufferunderrun: I preferred c3 over g3
+[18:29:50] bufferunderrun: now Qe4 and Rg1 is forced
+[18:31:52] bufferunderrun: maybe c5 is an option for black as well
+[18:32:22] bufferunderrun: Idk, I would have Qe4 to force the rook on a weird square and then castled
+[18:37:42] bufferunderrun: 14.h4 or h3 is what I'm looking at
+[18:38:58] bufferunderrun: h-pawn push shouldn't be that dangerous without the light-square bishop
+[18:40:45] bufferunderrun: but still was probably not great to allow it, just leads to unnecessary calculations
+[18:46:19] bufferunderrun: I don't like this...
+[19:26:55] bufferunderrun: Qxg7 Rh6 Qg5 seems fine
+[19:32:45] GenTurgidson: Yeah black's completely out of gas.
+[19:32:45] GenTurgidson: Go gp!
+[19:36:33] bufferunderrun: gg
+[19:38:50] GenTurgidson: gg
