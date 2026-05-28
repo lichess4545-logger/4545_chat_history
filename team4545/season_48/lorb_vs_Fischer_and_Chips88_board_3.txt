@@ -1,0 +1,68 @@
+Lichess game chat log
+Game      : https://lichess.org/oiO9MVwQ
+White     : lorb
+Black     : fischer_and_chips88
+Time      : 45+45
+Captured  : 2026-05-28 07:05:25 UTC
+Game ended : 2026-05-28 05:45:21 UTC
+Messages  : 58
+────────────────────────────────────────────────────────────
+
+[04:05:56] MrScribbles: (3.Nc3) A penguin versus an extremely suspicious username. Interesting matchup
+[04:06:11] MrScribbles: (5.f4) This opening can be fun. I always play dxc3 so don't know how this goes
+[04:06:41] MrScribbles: (6.Nf3) I would guess Nf3
+[04:06:41] MrScribbles: (6.Nf3) ayo
+[04:10:14] Fischer_and_Chips88: Rb1 I vaguely remember that black is supposed to sac the b pawn here with Bf5
+[04:11:00] Fischer_and_Chips88: the idea I think is Nd7-b6
+[04:18:36] gavalanche20: Hey Scribs
+[04:18:52] gavalanche20: Very curious position this
+[04:20:38] Fischer_and_Chips88: I think I was actually supposed to castle before Bf5, opponent had Rxb7 Nd7 and Bb5+ would have been annoying
+[04:34:05] Fischer_and_Chips88: Bb5 can I play c4 then Nb6
+[04:35:36] Fischer_and_Chips88: not necessary, Nb6 is good, I was worried about dxc5 but I think that benefits me cause Qx
+[04:36:07] Fischer_and_Chips88: and c4 is a threat to trap the bishop
+[04:38:24] Fischer_and_Chips88: c4 and there is Ra3 though
+[04:44:59] Fischer_and_Chips88: c4. I think white has to play Ra3 here or a6 just traps the bishop
+[04:46:00] Fischer_and_Chips88: then I think I'll play Rab8 Nd5. Qb1 maybe but then I think I double rooks on the b file.
+[04:47:31] Fischer_and_Chips88: oh but the bishop can go to a4
+[04:48:02] Fischer_and_Chips88: also idea of Bg4 dxe4 and there's tactics on c5
+[04:51:35] Fischer_and_Chips88: I doubt they'll fall for it, just Kh1
+[04:52:05] MrScribbles: (15.h3) hi gav, responding a bit late haha
+[04:52:20] MrScribbles: (15...Bxf3) and snehulcz
+[04:53:21] Fischer_and_Chips88: looks like I get the pawn back here unless I am missing something
+[04:55:38] Fischer_and_Chips88: ok there's that. I have Bh2+ but Kh1 Rc8 Bh6 is a little scary
+[04:55:54] Fischer_and_Chips88: also Rc8 or even Bd6
+[04:59:11] Fischer_and_Chips88: Bh2 is no good I think after Rc8 I am not even threatening c6 cause the queen is tied to h2
+[05:03:00] Fischer_and_Chips88: there's Qd6 Ra5 then Bh2 Kh1 Rc8 difference being the rook can take the bishop on c6
+[05:05:01] Fischer_and_Chips88: best bet honestly might be Bg7 and play down the exchange
+[05:05:17] Fischer_and_Chips88: mmm no
+[05:05:47] Fischer_and_Chips88: ooooh Rd8 pins the d pawn
+[05:06:17] Fischer_and_Chips88: Bh6 Bg7, dxe5 rxd2 I think I am fine
+[05:07:03] Fischer_and_Chips88: that took me too long to find I was looking at other stuff like Qd6 Bh2 Rc8 lalala
+[05:18:28] gavalanche20: Oh interesting is Black losing a pawn after all
+[05:20:14] Fischer_and_Chips88: e5. rook is getting into a7...
+[05:21:46] Fischer_and_Chips88: I think Bg3 is a mistake now I can take twice on d4 after the rook moves
+[05:22:31] gavalanche20: Oh heh forgot Qc5+ exists
+[05:24:18] gavalanche20: Nvm looking at a completely different position but Black has got some good counterplay now
+[05:25:34] Fischer_and_Chips88: queen short on squares but I don't think it will be trapped
+[05:29:22] Fischer_and_Chips88: Bc7 is a move I should watch out for
+[05:30:54] Fischer_and_Chips88: Nd5 maybe
+[05:31:09] Fischer_and_Chips88: or 25 d3
+[05:31:54] Fischer_and_Chips88: I like Nd5
+[05:34:27] nyanners: damn this is crazy
+[05:35:27] nyanners: black getting a pawn? but maybe worthless
+[05:41:02] nyanners: okay thats a line. but a risky one
+[05:42:03] nyanners: 30..Bh4 yea
+[05:42:03] nyanners: think it wins
+[05:42:33] nyanners: could take on e1 and play Re8
+[05:42:33] nyanners: im on a roll
+[05:44:20] Fischer_and_Chips88: Re8 I can just take it other rook is pinned
+[05:44:50] nyanners: this will do
+[05:45:06] nyanners: gg
+[05:47:07] Fischer_and_Chips88: gg
+[05:48:54] Fischer_and_Chips88: computer is saying I have an advantage after 14 a5, is the idea a4 and Ra5
+[05:49:09] Fischer_and_Chips88: very surprised to see Nd5 is a mistake too
+[05:49:39] nyanners: sounds about right
+[05:50:25] nyanners: nd5 looked right but i suppose white can deny your d3 and thats the point
+[05:50:25] nyanners: bxd5 into ra6-rd6
+[05:50:40] nyanners: very precise
+[05:50:55] Fischer_and_Chips88: oh I see
