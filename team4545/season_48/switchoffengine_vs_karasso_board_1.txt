@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/VgpIgJYx
+White     : switchoffengine
+Black     : karasso
+Time      : 45+45
+Captured  : 2026-05-28 22:08:55 UTC
+Game ended : 2026-05-28 20:48:50 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[18:04:28] bufferunderrun: let's go switch!
+[18:21:58] GenTurgidson: Go switchoffengine!
+[18:22:28] Inter-temporal: (17...Nc3) high level positional stuff
+[18:25:46] bufferunderrun: okay, I missed the hanging a-pawn
+[18:35:40] switchoffengine: it was not blunder, but sacrifice :D
+[18:47:50] Inter-temporal: (21.Bg5) opening lines for the B-pair.  :)
+[19:11:11] karasso: i cound't make e6 Rd1 d5 Rcd2 work
+[19:36:48] Inter-temporal: (27.h4) oh! just attack. man i'm confused here
+[19:41:06] bufferunderrun: looks dubious for switch
+[19:41:06] Inter-temporal: (28.Bxc5) what about ...axb3
+[19:41:21] Inter-temporal: (28...bxc5) ah. no
+[19:41:37] Inter-temporal: (28...bxc5) right, there was another in-betweener
+[19:41:37] bufferunderrun: yeah, just bxc and b3 is backwards
+[19:42:22] Inter-temporal: (28...bxc5) at least it's on a light square... idk
+[19:42:37] Inter-temporal: (28...bxc5) or maybe that doesn't even help here
+[19:44:54] bufferunderrun: Idk, this has to be completely lost
+[19:49:44] bufferunderrun: Bf6 or Be5, maybe Bf6 first and then Be5
+[19:50:14] Grzybozbur: i thought the bishop should be on d4
+[19:51:00] Inter-temporal: (31...e6)  similar tactic in Norway (Keymer v Pragg (17.Rc2)) as here 18.Rc2
+[19:51:15] Grzybozbur: it looks like white has given up the bishop pair to get about 6 weak pawns in compensation
+[19:52:31] Inter-temporal: (32...Rxa4) (32) (31) maybe miscalc on 28.Bxc5
+[19:54:18] Grzybozbur: i don't know, i'd never calculate a trade on c5
+[19:55:04] Inter-temporal: (33...Ra3) (32) or maybe just wanted ocb
+[19:55:04] Grzybozbur: forget the bishop pair, b6 was black's only weakness
+[19:55:49] Inter-temporal: (34...Bd4+) yeh. yet even that was discouraging because it seemed hard to get at it
+[20:11:18] Grzybozbur: wow
+[20:11:48] Grzybozbur: i mean, probably anything wins, so maybe not that wow
+[20:12:18] Grzybozbur: but black could have just traded on b1, which freed the black king
+[20:12:34] Grzybozbur: and the black pawns would be easy to defend
+[20:12:49] Grzybozbur: and all the white pawns seem doomed in the long run
+[20:13:19] Grzybozbur: so why leave an extra pair of rooks on the board?
+[20:13:35] switchoffengine: i can try for Bh5 Rf7# cheap trick
+[20:13:35] Grzybozbur: and give white a file and a rank to rule over
+[20:20:10] NxN: maybe Rc1+ need to be first
+[20:20:25] NxN: Rc1+ Re1 Rxc4
+[20:21:57] Grzybozbur: so it seems
+[20:23:28] Grzybozbur: all this counterplay could have easily been avoided with a simple 39...rxb1
+[20:24:59] Grzybozbur: should still be winning with so many pawns, but with 2 minutes on the clock maybe not that simple anymore
+[20:26:00] GenTurgidson: switchoffengine making this complicated, and black with so little time. Could be interesting!
+[20:26:15] Inter-temporal: (44.a5) white's passer is first to trespass, nice drama
+[20:26:31] GenTurgidson: d5 expected though, cutting off the B.
+[20:28:17] NxN: not easy for white to go with his passer , black has better chances
+[20:30:34] NxN: is trying to exchange the b rook a good idea for black ?
+[20:31:05] Grzybozbur: in general yes, because it frees the black king
+[20:31:35] Grzybozbur: and it's already well placed
+[20:31:35] Minot: Bh5 set up the mate and pray
+[20:32:06] NxN: black king is not in danger , indeed Bh5 will make white fall to some tactics
+[20:32:06] Inter-temporal: (44...d5)  Rxh7 fails to idk ...Rb1+,
+[20:32:06] NxN: Bh5 Rc1+
+[20:32:21] Inter-temporal: (45.Rxh7) wuz just trying to analyze this...
+[20:32:36] NxN: and  black will free king and screw the white rook
+[20:32:51] Grzybozbur: but now there are 2 outside passers and for example rb1-b2 to trade rooks i'm not sure i like
+[20:33:37] Grzybozbur: several moves ago all those white pawns were completely useless
+[20:40:58] Inter-temporal: (49...Rxb2) (49) then there was 47.Bh5 and "nothing to see here, folks" lol
+[20:45:17] Inter-temporal: (52.Rc7) (50) come on. this is a really kewl endgame position
+[20:46:03] Inter-temporal: (53.Rxc4) even better if there's a defense
+[20:47:19] Minot: Bh3
+[20:47:34] NxN: Rh2 was the move
+[20:48:04] Grzybozbur: bh3 rg1 bf1 d2 maybe?
+[20:48:04] bufferunderrun: Bh3 d2+
+[20:48:04] Minot: ah yeah
+[20:48:20] Grzybozbur: right, even better
+[20:48:50] NxN: GG
+[20:49:05] Inter-temporal: (55.0-1White resigned • Black is victorious) wuz there a defense... probably not. but good show
+[20:49:05] bufferunderrun: gg
+[20:49:05] Minot: gg
+[20:49:05] Inter-temporal: gg
+[20:50:52] switchoffengine: I saw 17. Ba5 after i played Be3
+[20:51:07] switchoffengine: totally missed the pawn loss
+[20:52:08] switchoffengine: 14. f4 much better
+[20:52:08] switchoffengine: punished for trading pieces
+[20:59:29] switchoffengine: very well played! gl for rest of tourney
+[20:59:44] switchoffengine: thanks for game
