@@ -1,0 +1,131 @@
+Lichess game chat log
+Game      : https://lichess.org/neidpbsF
+White     : silkthewanderer
+Black     : king12-life
+Time      : 45+45
+Captured  : 2026-05-28 10:49:34 UTC
+Game ended : 2026-05-28 09:29:29 UTC
+Messages  : 121
+────────────────────────────────────────────────────────────
+
+[07:32:02] King12-life: Prepped everything but caro, but this Nf3 line should be fine
+[07:33:03] guitarspider: Go Silk
+[07:35:35] Pineapplechiffoncake: Go King12!
+[07:37:37] stevenlongs: goooooo silk
+[07:37:37] Silkthewanderer: Hi Spider and Steven
+[07:40:40] Silkthewanderer: This is pretty much the main line after Nf3. Now the big question is Re8 or Qc7
+[07:41:25] King12-life: (11. c3) c4 worried me slightly more, now I could maybe play for Bc7 Nb6 Qd6
+[07:42:11] Silkthewanderer: Both moves allow me different ideas to unpin, both of them a bit tactical
+[07:43:12] Silkthewanderer: Re8 allows Rxe8 Qxe8 Qe2
+[07:44:13] Silkthewanderer: Huh. Qc7 I knew but not that one
+[07:45:44] Silkthewanderer: I mean... I get the Qd6 and Qh2 plan... but there must be a reason its not theory
+[07:45:59] stevenlongs: hmmm the battery threat seems annoying with the knight pinned currently
+[07:49:32] Zubenelgenubi: Go Silk
+[07:51:34] King12-life: (12. Qc2) Hmm is Bxf3 playable, with Bxh7+ Kh8 gxf3 g6 ?
+[07:52:35] Silkthewanderer: This is most principled. Now things could get wild.
+[07:52:50] Silkthewanderer: Hi Zube
+[07:54:06] stevenlongs: I assume black will take on f3 but i wanted to ask earlier if Bg6 and Bxg6, should black go fx or hx?
+[07:56:23] Silkthewanderer: Very generally speaking, this becomes viable whenever Black plays too slowly against my setup
+[07:58:10] King12-life: (14... g6) If Re4 is winning for white then it's whatever surely I can do something against that move
+[07:58:40] King12-life: Oh I just have f5 that's nice
+[07:59:11] King12-life: Definitely feeling good here unless I missed something
+[07:59:41] Zubenelgenubi: Bxg6 and then Re4?
+[08:00:57] King12-life: Bh6 Kxh7 Bxf8 Qxf8 is probably the critical line but with Qd6 coming and the h-file open, I like it
+[08:01:12] Silkthewanderer: Both Bxg6 and Qd2 look interesting
+[08:01:58] Silkthewanderer: Problem with Qd2 is Re8 Rxe8 Qxe8 Qh6 Qf8
+[08:03:29] Silkthewanderer: 15. Re4 is also thematic but there I am worried about f5 Qd2 fxe4 Qh6 Nf6
+[08:05:31] King12-life: There are tricky lines, like Bh6 Kxh7 Bxf8 Qxf8 Re4 Qd6 Rh4+ Kg7 Qd2
+[08:06:01] King12-life: But I probably have Qh2+ Kf1 Qh1+ followed by Re8+ there (and the a1 rook hangs)
+[08:09:35] Silkthewanderer: yeah and I spotted Bxg6 Rg8 by now
+[08:17:11] King12-life: (15. Qd2) Hmm tricky indeed
+[08:25:03] Silkthewanderer: the Problem here is Re8 Rxe8 Qxe8 Qh6 Qf8 Qh4 and then Qg7! that line I missed from afar
+[08:28:06] King12-life: (15... Re8) Rxe8+ Qxe8 Qh6 Qf8 Qh4 Qg7 and Bxg6+ Kg8, the bishop is pinned and still lost
+[08:29:07] King12-life: If at the end Bh6 Qxg6+ Kh1 wins bruh that's not cool
+[08:30:38] King12-life: I guess after Kh1 I at least have Bg3 to only stay down 2 pawns
+[08:30:38] King12-life: Do I really not have anything else ??
+[08:34:11] King12-life: (17... Qf8) I guess I can play Qh4 g5 Qh5 Kg7 but that looks so sad, I thought I'd win the bishop
+[08:34:11] King12-life: If I don't see anything better I'll have to go for that
+[08:35:42] King12-life: Well maybe Bf5 still wins in this line sigh
+[08:36:58] King12-life: So the Bg3 line would be better overall I guess (well less worse)
+[08:40:46] Silkthewanderer: Yeah no that is not my plan. mixed up the Qc7 and Bc7 plans badly
+[08:42:33] Silkthewanderer: One last trick is Qg7 Bf4 and then the tempting g5 is met with Bg6 Kg8 Qh7+ and I dont lose a piece after all
+[08:43:19] Silkthewanderer: Buuuuut Black can just take on f4, take on h7 and I don't really have anything
+[08:43:49] King12-life: (18... Qg7) Can't find anything else, that's just wild
+[08:45:36] guitarspider: These are some difficult lines. I would also have assumed Qg7 was losing for White.
+[08:46:06] Micomps: Interesting position where both players think they're worse off.....
+[08:46:52] stevenlongs: wasn't that line that king12 wrote works? one with Qxg6 and Kh1
+[08:46:52] Micomps: Surprised white hasn't considered Bxg6 more (unless they have and not saying it)
+[08:47:53] Micomps: There, white found it!
+[08:47:53] Micomps: (if he plays Kh1 now, that is
+[08:48:08] Silkthewanderer: I Lied. I found one other trick. Playing first, calculating second
+[08:48:23] guitarspider: Hahaha
+[08:48:23] stevenlongs: lol
+[08:48:38] guitarspider: Kh1 is the only logical move here
+[08:48:53] King12-life: (21. Kh1) Qh7 doesn't even work because of Rg1+ Kh8 Bg7+
+[08:49:54] Micomps: Bg3 and pray now
+[08:49:54] Silkthewanderer: Probably too late to pretend this was actually prep if it ends up working
+[08:50:55] Silkthewanderer: Right now I only see Bg3 and accepting the very bad endgame for Black
+[08:55:29] guitarspider: Taking with the f pawn was also interesting... This is probably easier
+[08:56:15] Micomps: Was there merit in not taking the queen?
+[08:56:46] Micomps: Going Kh7 first maybe?
+[08:57:01] Micomps: As Qxg3 fxg just helps white's pawn structure
+[08:57:16] guitarspider: I thought that was going to happen, yes
+[08:57:46] Micomps: Re2 next but doesn't achieve much...think white just goes Rg1 now to prevent any shenanigans
+[08:58:02] Micomps: Rg1 Re2, Rg2
+[08:58:17] guitarspider: Yes. Will take some time to untangle, but should be completely winning.
+[09:00:03] gavalanche20: Dang how did Silk get out of taht
+[09:00:34] stevenlongs: he is a wizard after all
+[09:00:34] guitarspider: The one question mark I can see for White is the bishop. That piece will struggle a bit to be really good.
+[09:04:22] King12-life: (26... Nd5) I might be getting some counterplay here
+[09:04:53] Micomps: This is clearly winning for white BUT black can might be able to make life a little uncomfortable
+[09:04:53] King12-life: Though idk how to progress after Bd2
+[09:05:38] King12-life: (27. c4) Oh going for the passed pawn hmm
+[09:06:54] Micomps: Hmmm
+[09:07:10] Micomps: f4 falling right?
+[09:07:25] Micomps: If white king gets to g3, then Rg8+...if d5 then c4 locks the rook out
+[09:07:55] Micomps: Still good for white but black is countering
+[09:08:10] guitarspider: Either that or a2, definitely giving back one pawn here
+[09:08:41] Zubenelgenubi: we can give back 2 foe a Q, good deal
+[09:08:56] Zubenelgenubi: *for
+[09:09:27] guitarspider: It's most likely going to be a passive rook for the returned pawn, not a queen.
+[09:09:42] guitarspider: That should still win
+[09:09:57] Micomps: Black can't go for a2, d pawn just runs I think
+[09:10:12] Micomps: Either play c3 or Kf5 here I think
+[09:10:27] Micomps: c5*
+[09:10:43] Micomps: or takes...
+[09:10:58] King12-life: (29... cxd5) Pretty sure this is quite hopeless
+[09:11:43] King12-life: (30... Kf5) Missing Rd4 here does not help, whatever
+[09:14:16] guitarspider: Rg8 maybe. If white pushes the pawn you can maybe get a passive king instead of a passive rook and cut off white for a while
+[09:21:22] guitarspider: Now Silk can bring the king
+[09:26:11] Silkthewanderer: This is probably not the cleanest technique but it must be good enough
+[09:26:42] Silkthewanderer: rook tied down to the queening square without any counterplay must suffice
+[09:28:58] jcarmody: gg
+[09:28:58] Micomps: gg
+[09:28:58] tomb85: Gg
+[09:29:44] King12-life: Wow this is insane I just had nothing
+[09:29:44] King12-life: All along
+[09:29:59] King12-life: Unbelievable
+[09:30:45] Silkthewanderer: With Qc7 instead of Bc7 I have a bit of research in that line, the same motive works there too
+[09:31:00] guitarspider: gg
+[09:31:15] Silkthewanderer: I missed the Qf8-g7 defensive resource when deciding that this line should also work there
+[09:31:46] King12-life: When I played Re8 I calculated everything until Qg7
+[09:31:46] Silkthewanderer: And I was very, very lucky that a winning line for me exists there too
+[09:31:46] King12-life: But did not push my calculations further
+[09:32:01] Silkthewanderer: I failed to appreciate Qg7 and was very tempted to ragequit right there
+[09:32:47] Silkthewanderer: Fortunately for me I didn't find anything even remotely decent until I more or less stumbled into the line that actually wins
+[09:32:47] King12-life: I had no clue about the theory btw I just know there is a line where you play for Bc7 Qd6 but it's not exactly this one
+[09:32:47] King12-life: Thought it looked good though
+[09:33:17] King12-life: Yeah the line itself is fully forced
+[09:35:03] Silkthewanderer: The entire position there is completely illogical. Qc2 shouldnt be working bit move by move it often does
+[09:35:49] Silkthewanderer: I switched to 11. ...Re8 in my own Tartakover repertoire because this annoys me too much from the Black side, too
+[09:36:19] King12-life: Well now that I know I would be fine to play Bg6 instead of Bxf3 tbh
+[09:37:05] Silkthewanderer: That works too. Gives a sane and balanced middlegame
+[09:37:51] Zubenelgenubi: gg
+[09:39:37] Lucon2000: yes caro got destroyed
+[09:39:37] Lucon2000: woohooooooooooooooooooo
+[09:40:23] Lucon2000: @King12-life Is that enough motivation to start playing sicilian? ;3
+[09:41:08] Silkthewanderer: I think that line alone should really not discourage from the Caro. It is one sneaky trick and if Black doesnt play into it they are fine
+[09:41:39] Silkthewanderer: Sicilian has waaaay worse homebrew traps one can face.
+[09:44:41] Lucon2000: But it's so fuuuuuuuuuun
+[09:44:41] Lucon2000: Sicilian for da win
+[09:47:28] Silkthewanderer: Anyway, thanks for the game, see you in spectators for the next ones
