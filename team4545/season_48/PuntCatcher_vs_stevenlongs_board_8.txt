@@ -1,0 +1,109 @@
+Lichess game chat log
+Game      : https://lichess.org/lOgLlg0Y
+White     : puntcatcher
+Black     : stevenlongs
+Time      : 45+45
+Captured  : 2026-05-29 02:59:21 UTC
+Game ended : 2026-05-29 01:39:16 UTC
+Messages  : 99
+────────────────────────────────────────────────────────────
+
+[23:15:27] guitarspider: Go Steven!
+[23:19:46] PatchyThePirate: go steven!!
+[23:20:46] jcarmody: GoSteven!
+[23:22:03] stevenlongs: Bd6 seems very annoying
+[23:22:33] stevenlongs: i cant remember if  d6 takes takes and queens traded off if i'm fine here, i think i am
+[23:24:19] stevenlongs: hmmm either d6 and queens off line or di just uncomplicated by cxd4 then d5
+[23:26:06] stevenlongs: qx kx Rd1+ Ke7 Bd6+ seems annoying af, plus i lose the pawn on c5?
+[23:26:36] stevenlongs: guess i dont have to go to e7, i must be confusing some line
+[23:28:23] stevenlongs: hey wait Qa5 seems nice
+[23:31:41] jcarmody: I thought so, too.
+[23:34:59] stevenlongs: i think im causing issues here
+[23:40:49] jcarmody: I hope so!
+[23:41:04] jcarmody: (issues for white, that is)
+[23:42:05] stevenlongs: hm yea maybe i gotta chop to deal with Bd6 ideas
+[23:42:20] stevenlongs: i need to get a d5 break in
+[23:43:21] PatchyThePirate: yeah i think black needs to figure out what to do with this d-pawn and find a way to castle
+[23:43:51] stevenlongs: im double attacking c4 and bishop at end of this line? maybe
+[23:47:09] jcarmody: Yes!!!
+[23:48:10] jcarmody: No?
+[23:49:11] stevenlongs: ah my rook is hanging, so maybe i gotta qx
+[23:49:41] PatchyThePirate: maybe he meant the c3 pawn is double attacked after d5 cxd5 nd5?
+[23:49:56] PatchyThePirate: but yes g7 is loose with a tempo in that line
+[23:54:00] stevenlongs: this queen takes g7 line is so scary
+[23:55:16] PatchyThePirate: 11... Nxd5 12. Qxg7 Qxc3+ 13. Qxc3 Nxc3
+[23:56:17] jcarmody: Don't! Please.
+[23:56:17] stevenlongs: i think i'd be stuck and dead with bishop on e5 or something
+[23:57:18] stevenlongs: pawwn take or qx
+[23:59:04] stevenlongs: i was fearing doubling on my knight after exd5
+[23:59:19] stevenlongs: my bishop is a bit sad
+[00:00:05] stevenlongs: ok this is fine though
+[00:01:36] stevenlongs: should i play e5 here ? if i castle e4 Nb5 e5 Nc4 f4
+[00:02:37] nyanners: ahh first nimzo steps
+[00:02:37] stevenlongs: wait i dont havve control of c4
+[00:02:52] nyanners: black did well and white also did well to survive that
+[00:03:23] nyanners: i liked 9..e5 probably, doesnt win material but those are good pawns
+[00:03:53] nyanners: here white's bishop pair probably should be enough
+[00:05:25] stevenlongs: e5 speaks to me but
+[00:05:40] nyanners: 13..e5 is probably good, or "fastplay" with Bd7 Rc8, or "slowplay" with b6 Bb7
+[00:05:40] nyanners: at this time situation i dont think you can afford a big think here
+[00:05:55] nyanners: just pick one
+[00:06:10] stevenlongs: like do i want f5 here so if he kicks my knight i can go to f6
+[00:06:10] nyanners: yea whatever you want..
+[00:06:26] stevenlongs: idk
+[00:06:26] nyanners: though f5 is the most committal of all
+[00:06:56] nyanners: vs kick im probably choosing b6 over f6
+[00:06:56] nyanners: nf6 is basically refuted by f3
+[00:07:11] stevenlongs: i think rerouting to c6 is also acceptable
+[00:07:26] stevenlongs: bishop on e6, b6 Nc6 setup
+[00:07:42] nyanners: c6 isnt so attractive with a pawn on c3
+[00:09:59] nyanners: white plays normal moves and lets black think about it
+[00:10:44] nyanners: i was just thinking "Bb5+ would probably cause another long think" XD
+[00:10:59] nyanners: but i dont think white actually wants to trade on Bd7
+[00:10:59] stevenlongs: honestly seems fine to just block
+[00:11:15] nyanners: yeaa
+[00:11:30] stevenlongs: c4 might be more annoying than takes although it gives me an outpost
+[00:12:16] nyanners: this is like either equal or better for black
+[00:13:17] nyanners: white probably wants to trade a pawn on the queenside to improve that
+[00:14:17] nyanners: on black's part, probably pile on c and Nc6-Na5 in some order
+[00:17:20] nyanners: or maybe Nc8-Nd6? i dont know
+[00:19:06] jcarmody: I never like playing against people that play so quickly.
+[00:20:07] nyanners: playing fast has no downside, as long as you play well
+[00:20:23] nyanners: that would be the issue
+[00:21:08] jcarmody: Yup. I tend to wonder how much better they'd play slowly. But that's neither here nor there.
+[00:21:54] nyanners: all things considered, white has played quite well :o
+[00:22:55] nyanners: if it goes to trade all rooks then i like the bishop a bit more
+[00:24:26] nyanners: 22 Bg5 forces f6 but thats probably just a good move
+[00:24:56] nyanners: and Bg5 f6 Rxd8 Nxd8 is not trading all rooks yet
+[00:25:57] nyanners: umm the obvious feature of c4 is that it allows Nd4+
+[00:26:13] nyanners: but it does not seem to mean anything yet
+[00:28:30] nyanners: yea not sure how to evaluate this
+[00:29:00] nyanners: chess
+[00:29:15] stevenlongs: hmm maybe Bg5 is an idea
+[00:29:30] nyanners: probably. seems fine tactically
+[00:29:46] nyanners: but also white is a bit looser than before with c4 played
+[00:29:46] stevenlongs: did not consider that
+[00:31:47] nyanners: Bg5 Nx cx Kd7 Bxd8 Kxd8 black has kept the file, Kd2 Rc4
+[00:31:47] nyanners: to a4
+[00:33:19] stevenlongs: check on c3 is nice in that case
+[00:47:01] nyanners: pawn or knight? i think id go with knight
+[00:51:04] Silkthewanderer: Go Steven
+[00:58:26] stevenlongs: kinda regretting the knight takes, maybe this is way harder
+[01:05:17] Silkthewanderer: I like 34. g6 and h5 next
+[01:25:50] stevenlongs: this is my plan
+[01:26:05] stevenlongs: it may be simple but it is a plan
+[01:26:20] stevenlongs: maybe i still cant advance idk
+[01:26:51] nyanners: what is the plan :o
+[01:27:21] nyanners: h6 commits the knight unfortunately
+[01:27:51] nyanners: feel id like to see it support a queenside push
+[01:28:07] stevenlongs: idk how to deal with Bc5
+[01:33:26] stevenlongs: i think this is winning
+[01:33:42] nyanners: ah yea white couldnt do that
+[01:33:57] stevenlongs: wait but what if he doesnt go to a5 lol
+[01:34:12] stevenlongs: oh zugzwang
+[01:34:12] nyanners: then you go kb6
+[01:38:00] nyanners: now well, i think 49..b4 is forced
+[01:38:15] nyanners: yea there we go :o
+[01:38:15] nyanners: should be game
+[01:39:16] nyanners: white came real close tho. should be not too difficult without 46 Bxg5
+[01:44:36] nyanners: gg
