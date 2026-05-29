@@ -1,0 +1,120 @@
+Lichess game chat log
+Game      : https://lichess.org/sQjYzTYk
+White     : davidt2465
+Black     : chessishard101
+Time      : 45+45
+Captured  : 2026-05-29 03:53:46 UTC
+Game ended : 2026-05-29 02:33:41 UTC
+Messages  : 110
+────────────────────────────────────────────────────────────
+
+[00:23:34] RajjSinghh: Well at least we have a game. An English is interesting
+[00:24:04] Banshee3333: I was beginning to worry XD
+[00:24:19] RajjSinghh: white seems like mainly an e4 player so lets see how he handles this
+[00:26:06] RajjSinghh: actually, white plays a lot of English. This shouldn't have been a surprise
+[00:28:08] Banshee3333: Already out of my book; I play ...e6 against the English XD.
+[00:29:24] RajjSinghh: this is a good sign, now it's a Slav where g3 is not really a move
+[00:49:56] Banshee3333: 8. Bg5 a bit odd in combination with g3. Now ...h6 and White has to trade on f6 or go back with the bishop, since Bh4 gets trapped
+[00:51:12] Banshee3333: On the other hand, the position is rather closed, and trading the dark bishop for a knight might synergize well with White's dark-square
+[00:51:12] Banshee3333: setup
+[00:52:29] Banshee3333: And eliminating the f6 knight might clear the way for a later e4
+[01:00:35] Banshee3333: I would have rather seen Black's dark bishop on d6 I think. 8...Be7 seemed too automatic
+[01:01:21] Banshee3333: The bishop is better placed guarding e5 IMO, and the pin isn't scary. Black could have eliminated it at will with ...h6
+[01:03:53] Banshee3333: I think here Black's idea is 11. Bxf6 Bxf6 and White has to go e3
+[01:05:25] Banshee3333: White has e.g. Rd1 though, which looks okay to me
+[01:22:25] Banshee3333: (12...Rac8) For Black, maybe plans like ...Na5-b3 and ...Ne5 to get good control of the c-file?
+[01:23:56] Banshee3333: ...Na5 threatens a fork so it should be a tempo move
+[01:24:26] Banshee3333: and we can get in ...Ne4 before Black plays e.g. Nh4
+[01:25:12] Banshee3333: ...Na5 on the board so we'll see XD
+[01:25:58] Banshee3333: I think c4 is a tempting outpost, but IMO b3 is the better spot for the knight
+[01:27:29] Banshee3333: Black can gain the c-file and White will be hard-pressed to contest it with c8 covered. Then c7 can be used to infiltrate
+[01:30:47] Banshee3333: Here just 14...Qb5 and White has nothing better than to repeat, after which Black can put the queen somewhere better?
+[01:33:34] Banshee3333: Or maybe 14...Qa6 was better, leaving the c-file open while White has to deal with the threat of ...Nb3
+[01:34:05] Banshee3333: Perhaps giving black a chance to get in ...Rc7 before White closes the gates again
+[01:39:24] Banshee3333: (16...Qd8) As long as White doesn't blunder the fork, I think White is taking over the game now. Black doesn't have enough control over e4
+[01:39:39] Banshee3333: anymore to use it to open the c-file
+[01:40:56] Banshee3333: And White can prevent Nb3 so White will have Rc1. I don't see what Black's plan is now
+[01:43:43] Banshee3333: 17. Ra2 seems a bit weird though. I guess White wants to push the b-pawn and cover c7, but Nb3 is still possible for Black
+[01:50:49] Banshee3333: 19...Nh5?
+[01:51:35] Banshee3333: I'm worried about 20. g4 and 21. g5, looking at ...Nh5 and ...Ng4 to address it
+[01:52:36] Banshee3333: Also maybe just ...h5
+[01:58:10] Banshee3333: Uh oh
+[01:58:41] Banshee3333: Now Black recovers the piece with ...a6?
+[01:59:27] Banshee3333: I don't like the damaged pawns, but Black still has good control over the c-file
+[02:01:13] Banshee3333: Black should have time to double rooks before White can contest the c-file
+[02:01:28] Banshee3333: And helpful of White to put Black's bishop back in contact with c7
+[02:03:00] Banshee3333: Now this looks very weakening for White. I don't think temporarily curtailing the bishop was worth all that
+[02:03:45] nyanners: what a strange sequence
+[02:04:16] nyanners: not sure about all that but this end result is definitely in black's favour
+[02:04:31] nyanners: chess IS hard
+[02:04:46] Banshee3333: XD
+[02:05:47] Banshee3333: White should probably keep the queen from coming to f2
+[02:06:02] nyanners: yea id be afraid of like 29 exd5 Qf2 but i like this
+[02:06:02] nyanners: i think black is likely to recapture
+[02:06:02] nyanners: then you can play b4
+[02:06:17] nyanners: and the situation has improved greatly
+[02:06:48] nyanners: a semi-bluff, if you may
+[02:07:03] Banshee3333: What if Black plays Qxd5 and plays for the passed pawn
+[02:07:18] nyanners: chopping off pieces definitely in white's favour compared to now
+[02:07:34] nyanners: its unclear if black even has any advantage at all
+[02:07:49] nyanners: black would need a second front
+[02:09:35] Banshee3333: What about inserting ...Rc5 first
+[02:09:50] Banshee3333: well then just Qxb7
+[02:10:21] nyanners: the more i look at it the more it seems black should just invade on the seventh
+[02:10:21] nyanners: qf2 rc2
+[02:10:51] nyanners: so well, Qf2 will trigger white to play Qe2, and okay we still have Qxg3 whatever. but in the bluffing realm Rc5 Qxb7 is a good distraction
+[02:10:51] nyanners: then Qf2 should be KO
+[02:11:22] nyanners: you may not like it, but this is what high level thought process looks like
+[02:11:37] Banshee3333: ...Qf2 Qe2 Qxg3
+[02:11:52] nyanners: yes thats good for sure
+[02:11:52] nyanners: you can bluff to get more ambitious
+[02:12:07] nyanners: wouldnt call it worth it but also hey, theres no Qxb7
+[02:12:07] Banshee3333: Sorry just got the bit where you mentioned that same line XD
+[02:12:53] nyanners: XD
+[02:13:23] Banshee3333: For the record, my first instinct was Qf2. I was looking at recaptures because you said you thought Black was likely to recapture XD
+[02:13:23] nyanners: see? black just did
+[02:13:23] nyanners: works every time
+[02:13:39] Banshee3333: lol xd
+[02:14:09] nyanners: re8 is kinda spooky
+[02:14:40] nyanners: have to admit i didnt see that one. in an ultrabullet game id be terrified
+[02:15:10] Banshee3333: Can Black just go Qf2 anyway though? I don't see a mate
+[02:15:25] nyanners: yea this does require some care for sure. probably Qf2 Qe2 Qxg3 line is still fine
+[02:16:26] Banshee3333: If Qf2 Rxf7+ there's Qb4+ but I don't think that does anything
+[02:16:57] nyanners: yeah from a safety perspective black should probably get that bishop out of h7
+[02:17:12] nyanners: this seems to be intending Rc2
+[02:17:57] nyanners: 31 Qe2 might be good?
+[02:17:57] Banshee3333: I'd be happier with Qf2 for sure. Rc2 is still possible, but we also have other ideas
+[02:18:13] nyanners: yeah Qf2 seems a bit more pointy
+[02:19:44] Safaero: Id go back Re2 and look forward to play b4 to get my other rook in
+[02:19:44] nyanners: i actually like this 31 Ra1 a lot i think
+[02:19:59] nyanners: like, you have a good point, but Rc2 can be just be met by Re2 anyway
+[02:20:14] nyanners: so white is just going Rae1
+[02:20:14] Safaero: True dat
+[02:21:30] Banshee3333: Maybe Black can still go ...Qf2 though.
+[02:22:01] nyanners: yea then maybe Rxf8+ Qb4+ Qf4
+[02:22:16] nyanners: or not. long line wrong line
+[02:22:16] Banshee3333: What about Rc2 at the end of that line?
+[02:22:31] nyanners: depends, like, black needs to worry about the back ranker too
+[02:23:02] nyanners: so Qb4 Kg8 doesnt allow Rc2
+[02:23:02] Banshee3333: Ah yes, true. We could maybe just trade queens and try to race pawns?
+[02:23:32] nyanners: i feel black might get in trouble tbh
+[02:24:03] nyanners: time running and if queens get traded in a reasonable way then the d-pawn could be weak
+[02:24:18] nyanners: and now 32 Rae1 is unpleasant tension..
+[02:24:48] nyanners: white is likely to see it because of the mate in e8 theme
+[02:25:34] nyanners: thought this would be easier but its also pretty unpleasant
+[02:25:49] Banshee3333: Black has to drop b7 I think
+[02:26:05] nyanners: could play g
+[02:26:05] Banshee3333: Tru
+[02:27:21] nyanners: maybe we can already say this is trouble
+[02:28:07] nyanners: 3 results for sure tbh
+[02:28:22] nyanners: but it favours the side with more time
+[02:28:22] nyanners: as well as current initiative
+[02:30:24] nyanners: whote
+[02:30:24] nyanners: white's
+[02:30:39] nyanners: king position is just unstable enough for it to not be clear
+[02:30:39] nyanners: the d-pawn can also be worth something
+[02:32:56] nyanners: this is a good game
+[02:33:41] Banshee3333: gg
+[02:33:57] nyanners: fair result
+[02:33:57] nyanners: gg
+[02:34:57] stevenlongs: gg
