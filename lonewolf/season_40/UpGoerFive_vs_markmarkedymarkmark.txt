@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/Xg43Q2Ug
+White     : upgoerfive
+Black     : markmarkedymarkmark
+Time      : 30+30
+Captured  : 2026-05-29 18:22:30 UTC
+Game ended : 2026-05-29 17:02:23 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[16:53:00] UpGoerFive: oh damn that was bad (kc6)
+[16:53:15] UpGoerFive: should have done Rb5 immediately
+[16:56:48] UpGoerFive: playing entirely too fast
+[17:28:15] UpGoerFive: ah yeah you were right, 8.Be2, 9.Bf3 is the engine choice
+[17:30:31] markmarkedymarkmark: wow, didn't realise 61.h4?? was a blunder!
+[17:30:31] UpGoerFive: I also can't believe it's a draw before h4, not sure how you hold this as white
+[17:30:31] markmarkedymarkmark: yeah same!
+[17:31:32] markmarkedymarkmark: oh I think it's because h4 means the black g and white h pawns are closer together
+[17:31:47] markmarkedymarkmark: so when everything trades and we are in that king and pawn endgame...
+[17:31:47] UpGoerFive: ah yeah good point
+[17:32:03] markmarkedymarkmark: you can get you king back to stop it
+[17:32:03] markmarkedymarkmark: so it's one tempo differnece
+[17:32:18] markmarkedymarkmark: which is crazy
+[17:32:33] UpGoerFive: I think that's the sane way of looking at it, but the engine line is somewhat baffling there
+[17:32:48] UpGoerFive: gets the rook behind the f pawn and then still plays h4
+[17:33:49] markmarkedymarkmark: ah yeah I was just looking at if we both take the pawns with our rooks
+[17:34:04] UpGoerFive: ok a little depth and it's giving the Kc7 line as top, so all is right with the world
+[17:34:19] UpGoerFive: though apparently more than one drawing path
+[17:34:35] markmarkedymarkmark: yeah, endgames are hard
+[17:34:50] markmarkedymarkmark: anyway, I gotta go, thanks for the interesting game!
+[17:34:50] UpGoerFive: thanks for the game!
+[17:34:50] markmarkedymarkmark: best of luck in the rest of the season!
+[17:35:05] UpGoerFive: you too
