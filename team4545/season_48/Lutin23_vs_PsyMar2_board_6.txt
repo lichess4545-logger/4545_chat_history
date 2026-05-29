@@ -1,0 +1,88 @@
+Lichess game chat log
+Game      : https://lichess.org/83jfDwIi
+White     : lutin23
+Black     : psymar2
+Time      : 45+45
+Captured  : 2026-05-29 18:53:42 UTC
+Game ended : 2026-05-29 17:33:33 UTC
+Messages  : 78
+────────────────────────────────────────────────────────────
+
+[16:02:11] PsyMar2: [4.d3] the hesitation on playing that makes me think he didn't look at my past openings and review the Schliemann before the game
+[16:02:42] Silkthewanderer: Go Psymar
+[16:09:02] AAlvaroB: Go Lutin
+[16:09:02] ivanhomeless: Yes, let's go Lutin!
+[16:17:09] PsyMar2: [10.Nd5] Oh?  You're approaching me?  Instead of running away, you're actually coming closer?
+[16:19:57] aldric123: (10...Qf7) Go Psymar2!
+[16:20:42] aldric123: (11.Bc4) Hmm that move is scary as hell, ruh roh
+[16:20:58] PsyMar2: [10...Qf7] I probably should have gone Qd8...
+[16:21:28] aldric123: (11.Bc4) 11...Be6 fails to Ng5. I hope Na5 works to eventually win two pieces for the rook, it's all I see atm
+[16:21:59] PsyMar2: [11.Bc4] but that's not the move that had me worried.  Should it have been?
+[16:23:45] aldric123: (11.Bc4) I think Na5 probably works
+[16:25:01] aldric123: (11.Bc4) Although Na5 and still Ng5 is complicated
+[16:26:32] aldric123: (11.Bc4) Crap, I think Na5 Ng5 is losing, still thinking
+[16:26:32] PsyMar2: hold up.  11...Be6 Ng4 Bxf2 Kh1 Qg6 Nxe6 Ne7+ yeah then I'm toast.  so can't play Be6
+[16:26:48] PsyMar2: I mean I can try not throwing in the f2 check but that doesn't change anything
+[16:27:18] PsyMar2: so I think I have to get out of that nonsense *now*.
+[16:27:18] PsyMar2: the question is whether to move the king or the queen
+[16:27:49] aldric123: (11.Bc4) Yeah I guess Kh8 Nb6 Be6 is "just" losing the exchange
+[16:27:49] aldric123: (11.Bc4) Might be best you can do
+[16:28:04] PsyMar2: if I move the king, Ng4 means I still have to move the queen, and then I lose the c7 pawn, but maybe can get something for it
+[16:28:19] aldric123: (11.Bc4) Crap, White still has Ng5 in that line which wins more
+[16:28:34] PsyMar2: if I move the queen to protect the c7 pawn... no, I can't.  Qd7 Nf6++ wins the queen
+[16:29:50] bronasberger: Go Psymar!
+[16:30:06] aldric123: (11...Kh8) She needs our cheers, this is a scary position
+[16:32:38] PsyMar2: [11...Kh8] Rather annoyed with myself that I didn't even consider Bc4 before my opponent played it.  Wake up, me.
+[16:33:08] PsyMar2: 10...Qf7 is probably survivable but it's symptomatic of a larger weakness with my game, a good player would probably have played Qd8
+[16:33:24] aldric123: (11...Kh8) If 12. Nb6 I think you have to do an ugly move like Qe7 intending to move the bishop later because the knight will be kind of ...
+[16:33:24] aldric123: ...trapped. Nb6 Be6 Ng5 doesn't work
+[16:34:40] aldric123: (12.Nb6) Of course my line goes down an exchange and a pawn min, but I don't see anything better yet
+[16:35:10] Silkthewanderer: Qe7 Nxa8 Bg4 then?
+[16:35:10] aldric123: (12.Nb6) yeah probably
+[16:35:25] aldric123: (12.Nb6) Mainly my thought was that line and move the bishop, Bg4 is solid
+[16:36:11] PsyMar2: [12.Nb6] priority one is at least get the knight for the rook
+[16:36:26] aldric123: (12...Qe7) Assumed then Nxc7 Qxc7 and we're down the exchange and a pawn, but I couldn't find anything better
+[16:36:57] aldric123: (12...Qe7) At least then there's some pressure against f3 and f2
+[16:37:12] aldric123: (12...Qe7) Surely it's losing, but things can turn around!
+[16:44:49] GoldenRetrieverChess: Gooo PsyMar! A comeback is always possible :D
+[16:53:12] PsyMar2: [16.Qd5]  Unfortunately for my opponent, I know Philidor's Legacy.
+[16:59:48] PsyMar2: [18.Rad1] it occurs to me there's a chance that my opponent doesn't know the Philidor's Legacy mate
+[17:14:00] guitarspider: (21.Nc4) What's Philidor's Legacy? :D
+[17:15:32] bronasberger: Smothers mate is it not?
+[17:16:02] guitarspider: (22.Ne3) I just googled it, apparently it's the Qg8+ Rxg8 Nf7 kinda mate
+[17:16:48] bronasberger: Must be nice having a mating pattern named after you
+[17:17:34] guitarspider: (23.Qd2) but then you're going to be disappointed every time some doofus doesn't know it
+[17:18:50] bronasberger: So the mating pattern to have named after oneself is one that you’re never going to be able to use, because it’s too famous
+[17:18:50] bronasberger: The best mating pattern*
+[17:19:51] Mennonite: you know who I really feel bad for? Damiano. He initially analyzed 1.e4 e5 2.Nf3 f6 as bad.
+[17:19:51] Mennonite: but he still got the opening named after him
+[17:21:22] guitarspider: (24...Bb4) Imagine how Shepherds must feel. Everyone assumes they can't play chess.
+[17:21:22] bronasberger: But they sure can make a pie
+[17:21:37] guitarspider: (25.c3) Indeed.
+[17:21:53] guitarspider: (25.c3) I guess Damiano can't even do that anymore.
+[17:23:40] guitarspider: (25...Bc5) Bb4 was a bit unfortunate
+[17:27:13] PsyMar2: The magic just isn't working today... and I feel like I'm about to pass out I'm so tired.  should probably resign...
+[17:31:01] PsyMar2: oh no I'm winning a pawn.  dammit.  I can't resign *now*
+[17:32:17] oOoSHONUFFoOo: Qd3 Nxc3 c4 traps the knight though...
+[17:32:48] PsyMar2: oh wait, I see
+[17:33:03] guitarspider: (31.Qd3) Ne5 and threefold repetition :P
+[17:33:33] guitarspider: gg
+[17:33:48] oOoSHONUFFoOo: Gg
+[17:34:19] PsyMar2: I have a nasty feeling that I actually studied this line -- up to and including 10.Qd8, which I then failed to play
+[17:34:49] bronasberger: Gg
+[17:34:49] PsyMar2: oh no, the line I studied was Bb4
+[17:35:20] PsyMar2: 6...Bb4
+[17:35:20] PsyMar2: whoops
+[17:37:06] PsyMar2: apparently Qf7 instead of Qd8 was just completely losing already
+[17:40:39] PsyMar2: anyway the full Philidor's Legacy line I was thinking of is, 17.Ng4 Qxb2?? 18.Nf7+ and I have to sac the rook
+[17:40:54] PsyMar2: because if not, 18...Kg8 19.Nh6+ Kh8 20.Qg8+ Rxg8 21.Nf7+
+[17:41:09] aldric123: Hmm so the only way not to be utterly losing was to the inbetween move 14...Bxf3 before taking back on c7
+[17:41:40] aldric123: Still worse, but not utterly losing
+[17:41:40] PsyMar2: well, and also my opponent could have played 14.Be2 to prevent that
+[17:41:55] GoldenRetrieverChess: gg
+[17:42:10] PsyMar2: probably the best line is white leaves the knight on a8 and black doesn't take it
+[17:42:25] PsyMar2: because as long as the knight is trapped, there's no urgency to take it...
+[17:42:41] PsyMar2: ...but also white can always use the possibility of saving the knight as a threat.
+[17:43:26] PsyMar2: On the other hand, I totally understand the desire to get the extra pawn for it
+[17:43:41] PsyMar2: and it turns out it probably woudl be the best move if I didn't have Bxf3, so
+[17:43:57] PsyMar2: really it boils down to I forgot my prep on move 6 and blundered with Qf7 on move 10
