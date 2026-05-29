@@ -1,0 +1,60 @@
+Lichess game chat log
+Game      : https://lichess.org/m0oklacc
+White     : kayrosas
+Black     : drgarras
+Time      : 45+45
+Captured  : 2026-05-29 17:28:47 UTC
+Game ended : 2026-05-29 16:08:39 UTC
+Messages  : 50
+────────────────────────────────────────────────────────────
+
+[15:06:13] Kayrosas: my openings are quite predictable so im surprised how in most of my games i seem to be the last in book
+[15:07:14] Kayrosas: I know 13...a5 and a4 is supposedly a bit inaccurate bc my pieces get on very harmonic squares, but still have to prove it
+[15:07:45] Kayrosas: 13...Be7 and g6 are the main moves I looked at
+[15:09:31] Kayrosas: expecting 16...Be6 and then I'll have to figure out some plan
+[15:10:17] Kayrosas: 16...Be6 Nxf6 actually forces gxf so maybe not the move for black
+[15:11:18] Kayrosas: 17.g3 or h5
+[15:12:03] Apocalyptias: Go Magma!
+[15:12:49] Kayrosas: Qf3 also interesting
+[15:14:35] Apocalyptias: Am I the dumb or was 13.. Bxh4 a choice?
+[15:14:51] Apocalyptias: Oh I am
+[15:15:06] Apocalyptias: Qh5, double threat
+[15:16:52] Kayrosas: I'm thinking 17.h5 and then try to delay castling as long as possible to discourage g6
+[15:17:53] Kayrosas: getting Qd3 and Rd1 ideally
+[15:18:39] Kayrosas: Nf5 always looks interesting too but I couldnt convince myself so far
+[15:19:55] Apocalyptias: After h4 I wouldn't castle, that seems like a great attack
+[15:20:25] Kayrosas: 18.Qa4 also looks interesting, not sure what black should do there
+[15:23:13] WadeWilson: hoping for Qd7
+[15:25:15] Apocalyptias: Bb5 seems pretty good
+[15:25:30] Apocalyptias: Rb1 is coming next
+[15:27:32] Kayrosas: 19...Rc8 did seem quite forced. I dont think Rxb5 works
+[15:29:34] Kreia: these are the positions I'm avoiding by playing the rossolimo? :o
+[15:30:35] Apocalyptias: I feel like we want to go Nc4 to go Nb6
+[15:30:50] Kayrosas: now I'm not sure yet where I get more pressure. ideally I can prevent 20...Nb8
+[15:31:20] Apocalyptias: Oh.. Nb8 would make that not good..
+[15:31:51] Kayrosas: there is an idea with 20.h6 g6 and Nb8 no longer works there, but not sure if it's worth the weak h pawn
+[15:34:23] Apocalyptias: Nc4 Nb8 Nb6 Bxb5 Qxb5... Rc5?
+[15:35:09] Apocalyptias: Probably don't want to allow that
+[15:38:43] Kayrosas: cant really find a better plan than 20.h6, assume g6 is forced and then maybe Rd1
+[15:42:31] Kayrosas: not sure if Ive underestimated f5
+[15:47:05] Kayrosas: 21...f5 Nc4 I think should be good
+[15:47:51] Kayrosas: but the position is less clear than i thought. I wonder if Nf5 was any good earlier
+[15:51:39] Apocalyptias: Castling in this position seems fine now that g6 was played
+[15:54:42] Kayrosas: trying to find smth after 21...f5 Nc4 Nb8
+[15:57:29] FracturedTruth: not the biggest fan of 17 h5
+[15:57:29] Kayrosas: 21...Nb8 I thought I had tactics here
+[15:58:46] Kayrosas: 22.Nxe7 Qx Nd5 Qg5!? maybe? but I have Ne3 in the end, king is quite open tho
+[15:59:46] FracturedTruth: isnt 22.Nxe7 just a clean piece here
+[16:00:02] FracturedTruth: Bx*
+[16:00:47] Kayrosas: after Qxg2 I also have Ke2 and it looks perfectly safe there so I think its good
+[16:00:47] FracturedTruth: okay so Bxd7 Nxd7 Nxe7 Qxe7 Nd5
+[16:02:19] FracturedTruth: yea this too
+[16:02:34] Kayrosas: maybe not perfectly safe, I saw my knight on d5 and e3 somehow in that line. but surely black doesnt have enough comp there
+[16:06:22] Kayrosas: 26.Nf6 Kh8 Qh3 also looks sorta clean but then my queen is a bit passive
+[16:08:24] Kayrosas: 27...Qg5 Qh4 is pretty clear after all with d6 hanging
+[16:12:12] DrGarras: yeah, 17 Bg5 was the move, I feel stupid cause I was going to play it
+[16:12:28] DrGarras: just didn ́t because I felt dumb playing so many bishop moves
+[16:12:58] Kayrosas: yea I thought I was still doing well with Nc4 there but you get some counterplay and f5 is always complex
+[16:14:14] Kayrosas: oh I was looking at 21...Bg5
+[16:15:00] Kayrosas: felt a bit weird to allow Bg5 with h5 but I also thought it cant be that bad since you already committed to Be7
+[16:15:46] Kayrosas: with 17.g3 I was always a bit worried about creating hooks when I eventually castle
