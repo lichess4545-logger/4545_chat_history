@@ -1,0 +1,197 @@
+Lichess game chat log
+Game      : https://lichess.org/czGe4dwk
+White     : qudit
+Black     : darktigr
+Time      : 45+45
+Captured  : 2026-05-29 00:11:20 UTC
+Game ended : 2026-05-28 22:51:15 UTC
+Messages  : 187
+────────────────────────────────────────────────────────────
+
+[20:03:33] simonWasHere: Go Darktigr!
+[20:23:05] DavidSifre: Roarrrr!
+[20:26:07] DavidSifre: Qudit should move the pawn and give up the queen.
+[20:28:40] DavidSifre: Mom says to castle.
+[21:07:28] DavidSifre: 16...Bg7 is practically forced.
+[21:07:43] DavidSifre: Bh7 I meant.
+[21:08:29] DavidSifre: Followed by short castle I think.
+[21:10:15] DavidSifre: Bh6 Jesus I can’t notate
+[21:11:01] simonWasHere: Bi9
+[21:12:17] DavidSifre: That h2 long diagonal seems like a good target for the queen and bishop.
+[21:13:03] DavidSifre: g3 will shut it down but at what cost.
+[21:14:04] DavidSifre: hRg8
+[21:23:12] DavidSifre: Hanging pawns like it’s laundry day.
+[21:24:43] DavidSifre: Take the bishop. It is needed to protect those weak dark squares.
+[21:26:30] Inter-temporal: (19) (19.Qxh5) opening was unfamiliar to me. like a quasi-grunfeld somehow?
+[21:30:03] Inter-temporal: (21...f4) black is quicker to initiate attacks?
+[21:32:35] Inter-temporal: (22...Qf5) or maybe just wants ...d5
+[21:35:38] DavidSifre: I call everything kings Indian if they fianchetto king side.
+[21:35:53] DavidSifre: It makes it easier if everything has the same name.
+[21:36:08] Inter-temporal: (23...e5) lol
+[21:36:39] Inter-temporal: (23...e5) my notation sucks too. i meant "maybe just wants ...[e5]" lol
+[21:50:35] Grzybozbur: i don't know what's going on, but white must be winning, right?
+[21:51:21] Inter-temporal: (28.Rd3) can black get ...f5, ...e4
+[21:52:22] Grzybozbur: no idea, but that's a lot of moves
+[21:53:23] Inter-temporal: (28.Rd3) definitely north of just 1 move. maybe too far north
+[21:53:54] Grzybozbur: right, but in two moves re1 could already on the queenside
+[21:54:09] Grzybozbur: while black is still a piece down
+[21:54:09] Inter-temporal: (28.Rd3) ...f5, Rb3 or
+[21:56:41] Inter-temporal: (28...Rd7) ...f5, Bxb7+ might have worked too
+[21:57:11] Inter-temporal: (28...Rd7) oc ur right. even 2 moves was too many
+[21:57:42] DavidSifre: Stop focusing on problems and find solutions for black.
+[21:59:28] Inter-temporal: (29.Red1) ...Rh7 or. idk. this is hard to defend
+[21:59:44] Inter-temporal: (29.Red1) no not ...Rh7, back rank is too weak
+[21:59:44] DavidSifre: f5 e4 and capture the rook.
+[22:00:14] DavidSifre: That’s the plan. Now it just needs execution. And a passively played game by white.
+[22:03:02] Inter-temporal: (29...Kb8) seemed good. just get out of the checks and stop the clock.
+[22:04:02] DavidSifre: Re8 e4
+[22:04:18] DavidSifre: Now it won’t work.
+[22:04:33] Inter-temporal: (30.Qe4) nice move. maybe ...Rc7
+[22:05:18] DavidSifre: Rb3 probably incoming
+[22:05:49] Inter-temporal: (30.Qe4) black also considers ...f3 pawn sac
+[22:06:35] DavidSifre: White is overconfident. It will be his downfall.
+[22:06:50] Inter-temporal: (30...Rc8) ahh. the other rook hits c2. gotta counter smth.
+[22:08:06] Inter-temporal: (31.c4) which provokes the pawn storm. so maybe some prayers
+[22:08:52] Inter-temporal: (31...Rcd8) now Bxb7, i think
+[22:09:52] simonWasHere: Bxb7 Rxd3
+[22:10:39] Inter-temporal: (31...Rcd8) maybe so, yeh
+[22:12:10] Inter-temporal: (33.Qf5) oc.
+[22:12:26] DavidSifre: Picturesque place for the Queen.
+[22:14:12] DavidSifre: Time for black to bring the king out and grab the pawns.
+[22:14:27] DavidSifre: We can’t wait till the queens are off the board due to timing problems.
+[22:15:28] Inter-temporal: (33...Re8) giving white smth to think about again
+[22:16:14] Inter-temporal: (34.b4) white allows ...e4
+[22:16:29] DavidSifre: e4
+[22:17:00] simonWasHere: think would have lost the rook
+[22:17:15] DavidSifre: The e pawn can capture both of white’s rooks.
+[22:17:15] DavidSifre: Hope chess 101
+[22:17:30] Inter-temporal: (34...Rc7) did i miss another tactic... lol
+[22:17:30] simonWasHere: at the same time with a slight bending of the rules
+[22:18:31] Inter-temporal: (34...Rc7) what came after 34...e4
+[22:18:46] DavidSifre: After it takes the rook the queen moves to the efile and is capture by  the other pawn which is now an e pawn they can march up and snag
+[22:18:46] DavidSifre: The other rook.
+[22:18:46] DavidSifre: Totally winning for black.
+[22:19:02] simonWasHere: e4 Bxe4 Qxe4 Qxd7 or something I was thinking
+[22:19:17] DavidSifre: Free bishop.
+[22:20:18] DavidSifre: Maybe a mate would have followed if he took it.
+[22:20:33] Inter-temporal: (35...Rec8) was looking at ur other in-between move, after 35.Bxe4 Rxd3
+[22:20:48] DavidSifre: Time is compressing for white.
+[22:20:48] DavidSifre: Soon time parity
+[22:21:34] simonWasHere: but after Rxd3 would Bxd3 work?
+[22:22:20] Inter-temporal: (36...Qf8) so black drops a pawn but gets to trade some Rs. idk
+[22:22:35] DavidSifre: C5
+[22:24:37] Grzybozbur: maybe black could trade into a lost queen endgame? any side can easily blunder in those
+[22:25:07] Inter-temporal: (38...Rc7) yeh. and black was able to trade Rs without giving up the e-pawn. nice defense?
+[22:25:07] DavidSifre: Darktigr does not blunder.
+[22:25:23] DavidSifre: This is all calculated for victory.
+[22:25:38] simonWasHere: he saw this position from move 1
+[22:25:53] DavidSifre: Bd5 to set up mate
+[22:26:39] GoldenRetrieverChess: Goo Darktigr
+[22:26:39] Inter-temporal: (40) (40...Qc8) (40) tigr: "1.e4?? Mate in 72."
+[22:26:54] DavidSifre: I told him this was going to happen if he played kings Indian.
+[22:27:39] DavidSifre: Hey Kevin.
+[22:28:10] Inter-temporal: (41.Qd5) that dang king's indian
+[22:30:12] DavidSifre: Always leads to this garbage.
+[22:30:42] Inter-temporal: (43.Qd5) (41) draw?
+[22:30:42] GoldenRetrieverChess: Hey David!
+[22:30:42] DavidSifre: Unless played against the london
+[22:31:43] Inter-temporal: (43...Qc6) really great defense
+[22:31:58] DavidSifre: lol we have more time on black clock than on white.
+[22:31:58] DavidSifre: Einstein was right.
+[22:32:14] Darktigr: i think white had to keep a pair of rooks on the board in order to win
+[22:32:44] DavidSifre: Well for sure in order to mate without promoting a pawn.
+[22:32:44] Inter-temporal: (43...Qc6) the game (is a "great defense"), not the king's indian, oc
+[22:32:44] Grzybozbur: black is still a piece down
+[22:32:59] DavidSifre: A pawn down. Not a piece.
+[22:33:30] Inter-temporal: (44...Qc8) lol. it is blockading white's passer
+[22:34:00] Grzybozbur: but yeah, how did that bishop end up on f7?
+[22:34:30] Grzybozbur: hm, now maybe qf8-g7?
+[22:34:46] DavidSifre: It swept down to attack a rook and to tempt the queen to take it.
+[22:34:46] Hesperian: Yeah with h4 incoming
+[22:34:46] Hesperian: Looks real scary
+[22:35:01] Grzybozbur: ok, but it was good on d5
+[22:35:16] Grzybozbur: and if white wanted to trade, you could go to e4
+[22:35:16] karasso: maybe c6 was possiable after Qd6+ Qc7
+[22:35:31] Grzybozbur: it doesn't do anything useful on f7
+[22:36:02] Inter-temporal: (47.Qg7)  okay. we still got a game
+[22:36:32] DavidSifre: Goes to d5
+[22:36:32] Inter-temporal: (47.Qg7) white has to give up a lot of control to go for the win?
+[22:37:03] Grzybozbur: ok, i think i know
+[22:37:18] Grzybozbur: now bd5, the queen has to defend b7, then qh7 and h4
+[22:37:33] Grzybozbur: maybe
+[22:37:48] simonWasHere: f3
+[22:38:04] Inter-temporal: (47.Qg7) right. black might want to sac that f-pawn about now
+[22:38:34] karasso: in gerneral two passed pawns with 3 files between them are winning in opposite color bishop endgames. so a d-passer and an h-passer could be
+[22:39:04] Inter-temporal: (47...f3) (47) good call simon!
+[22:39:04] karasso: enough here to win it
+[22:39:20] Grzybozbur: there's g3
+[22:39:35] DavidSifre: There is no pawn on the d file.
+[22:40:05] Inter-temporal: (48...fxg2) time pressure
+[22:40:21] karasso: yes, but you could have gone 46. c5
+[22:40:51] karasso: or after 43...Qc6 leave your queen on d5.
+[22:41:37] karasso: i am not sure if i would have done it, i am not sure about the bishop endgame, but it does look to me, like white has decent winning chances
+[22:42:07] karasso: if black trades the queens on the d-file and white can recapture with a pawn
+[22:42:22] nyanners: this is absolutely terrifying
+[22:42:22] nyanners: no way out for black and strong h-pawn
+[22:42:22] DavidSifre: Black will win on time.
+[22:42:37] Grzybozbur: yeah, looks very winning
+[22:42:53] Inter-temporal: (49...a6) (49) h-pawn is still stuck covering g4
+[22:42:53] Grzybozbur: i'd still blunder this
+[22:43:08] nyanners: yea thats black's only plus
+[22:43:23] nyanners: maybe try to create a new thingy by pushing queenside
+[22:43:23] Grzybozbur: i don't think qg4 is a threat
+[22:43:38] Grzybozbur: ah, qg4 wins the pawn
+[22:43:38] nyanners: white can afford to take it slow regardless
+[22:44:09] nyanners: dont see why immediate b5 tho. id definitely rather prepare this with a4
+[22:44:09] nyanners: or could black do something
+[22:44:24] nyanners: not like black can do something now, i suppose
+[22:44:39] Inter-temporal: (51.cxb5) Q-endings in time trouble are the absolute worst, ime. i can't draw enough circles on increment
+[22:45:25] DavidSifre: Qc7
+[22:45:25] nyanners: brave
+[22:45:40] DavidSifre: Called it. :)
+[22:45:40] Micomps: Necessary I think
+[22:45:40] DavidSifre: Broken clock here.
+[22:45:55] nyanners: i think id trade
+[22:46:11] nyanners: but okay i am always eager to go two results
+[22:46:11] DavidSifre: Now the king can gobble the pawns.
+[22:46:11] nyanners: chances seem very real tho
+[22:46:41] nyanners: but i like this sequence
+[22:46:41] Inter-temporal: (53.Qb4) h4 is real now
+[22:46:56] nyanners: yea lots of ideas introducted
+[22:46:56] Grzybozbur: i don't understand qb4
+[22:47:11] nyanners: well you enable h4 and a4a5
+[22:47:11] Grzybozbur: you want the king off the 8th rank
+[22:47:27] Micomps: Bf4 now?
+[22:47:42] simonWasHere: f5
+[22:47:42] Micomps: Then Qg7 next
+[22:48:12] Micomps: Tbh maybe just Qg7 immediately last move
+[22:48:12] Inter-temporal: (54.b6) ouch
+[22:48:12] nyanners: f5 is either kinda good or really bad
+[22:48:28] nyanners: but b6.. probably bad
+[22:48:28] nyanners: *allowing b6
+[22:48:43] DavidSifre: Fixing pawn on dark square with dsb on the board is risky. But it forms a nice wedge for a queen mate.
+[22:48:58] nyanners: qa5 i guess
+[22:48:58] karasso: after b6 it has to be complelty lost
+[22:48:58] nyanners: game??
+[22:48:58] Inter-temporal: (54...Qd8) i don't see defense
+[22:49:13] karasso: i think so too
+[22:49:44] DavidSifre: Be6 to cut king off
+[22:50:29] Inter-temporal: (55.Qa5) i saved early chat, if they ask.
+[22:51:00] nyanners: gg
+[22:51:00] Inter-temporal: gg
+[22:51:00] simonWasHere: gg
+[22:51:15] Micomps: Gg
+[22:51:30] karasso: gg
+[22:51:30] DavidSifre: Tough one. Gg guys.
+[22:51:30] Darktigr: that became a huge problem all the sudden
+[22:52:31] nyanners: a bit of a thankless defensive task
+[22:53:32] nyanners: okay 53..f5 was good after all :o
+[22:54:18] DavidSifre: Inter-temporal all chats are being saved by a bot now.
+[22:54:33] Inter-temporal: oh? is there a link?
+[22:54:33] nyanners: yes. inter-temporal is the bot
+[22:54:33] Inter-temporal: lol
+[22:54:48] DavidSifre: https://github.com/lichess4545-logger/4545_chat_history/tree/main
+[22:55:03] Grzybozbur: aaa, i forgot about f5
+[22:55:03] Inter-temporal: ty
+[22:55:49] DavidSifre: DM’d the link on slack so you can click
+[22:57:50] Inter-temporal: excellent! ty. i was just searching...
