@@ -1,0 +1,128 @@
+Lichess game chat log
+Game      : https://lichess.org/ravbMfBZ
+White     : aalvarob
+Black     : aldric123
+Time      : 45+45
+Captured  : 2026-05-29 20:20:11 UTC
+Game ended : 2026-05-29 19:00:05 UTC
+Messages  : 118
+────────────────────────────────────────────────────────────
+
+[17:58:38] oOoSHONUFFoOo: Gooo aldric!
+[17:59:54] bronasberger: Alright go Aldric!
+[18:00:09] aldric123: (1.e4) :)
+[18:02:11] guitarspider: (5.Nc3) go aldric
+[18:03:12] aldric123: (5...d6) Boy, once you add the addons for the whisper or whatever, it's apparently tricky just to talk to your opponent and not ...
+[18:03:12] aldric123: ...whisper.
+[18:05:46] oOoSHONUFFoOo: I can sense a delayed Bird coming...
+[18:06:01] oOoSHONUFFoOo: The feistiest of birds
+[18:06:31] aldric123: (7...Bg7) I didn't expect 6.Nge2. I'm more used to 6.Nf3. I'm basically playing the same so far.
+[18:07:17] aldric123: (8.f4) I thought about the center fork trick with 6...Nxe4, but I'm too far from castling and his bishop on b2 would have been scary.
+[18:11:05] oOoSHONUFFoOo: Bird activated. Win is pretty much guaranteed at this point.
+[18:15:55] oOoSHONUFFoOo: I’m a former Bird acolyte aldric. Forgive me for I know the power of soaring...
+[18:18:12] nyanners: whats the lore here..
+[18:19:58] oOoSHONUFFoOo: I just did too much Bird. Hoping for the famous counter Bird with f5 though.
+[18:21:45] guitarspider: (10.Nd5) I guess you should go Be6 first
+[18:22:00] guitarspider: (10.Nd5) Feels like you can't just leave the d5 knight alone
+[18:22:46] nyanners: h3 surely
+[18:23:47] guitarspider: (10...Rb8) a4 also makes sense
+[18:25:33] oOoSHONUFFoOo: Threatening f5
+[18:25:48] guitarspider: (11.Nec3) exf4 maybe?
+[18:26:34] NxN: that d5 N is a pain
+[18:26:49] oOoSHONUFFoOo: Now pretty much forcing the counter Bird. Two birds will fight. This is the way
+[18:27:20] guitarspider: (11...exf4) actually Qh4 is a bit of a threat now
+[18:27:50] aldric123: (11...exf4) There's some tricky stuff here with if he takes back the pawn Bd4+
+[18:28:05] aldric123: (11...exf4) And the c3 knight is pinned atm
+[18:28:05] nyanners: white missed the timing and is in actual trouble now
+[18:28:21] guitarspider: (11...exf4) is it that bad yet?
+[18:28:36] nyanners: ranges from regular bad to really bad
+[18:28:51] aldric123: (11...exf4) I guess I'm wondering what happens if White doesn't take back and plays something like Na4 to trade off the bishops
+[18:28:51] nyanners: threats include Bd4 and Qh4
+[18:29:06] guitarspider: (11...exf4) I guess that's true, there are suddenly a lot of dangerous-looking ideas.
+[18:29:06] oOoSHONUFFoOo: Bxf6 and b5 as well
+[18:29:06] nyanners: b5 immediately
+[18:29:21] aldric123: (11...exf4) Possibly I trade off the bishops and then play Ne3
+[18:30:37] NxN: Ne3 is difficult now , Rxf4 and  h3 too
+[18:31:08] nyanners: first thing is to see what white does
+[18:32:09] nyanners: black has so many good-looking options id be concerned about running out of time if this was a blitz game
+[18:32:09] aldric123: (12.Qf3) Interesting. I didn't really consider Qf3. Nd4 comes to mind but have to think more
+[18:32:09] NxN: if Be6 and  exchange with the  knight would make Ne3 too strong there
+[18:32:09] oOoSHONUFFoOo: Does be6 work now?
+[18:32:39] nyanners: i mean.. im looking at Bd4 Qh4
+[18:32:39] nyanners: you can also look at Nd4
+[18:32:39] nyanners: or Qh4 immediately
+[18:32:39] Kayrosas: b5 also nice
+[18:33:10] nyanners: yeah, or b5. if nothing else, then Be6 cant be bad
+[18:33:25] nyanners: really spoiled for good choices here, which makes it easy to pick a less good one
+[18:33:55] NxN: depend on his plan , but as  black was prepare Ne3 , it is not easy now
+[18:34:11] aldric123: (12.Qf3) There's still of course Bd4+, you just can't yet do something on f2
+[18:34:26] nyanners: you can probably play Ne3 too, just because
+[18:34:41] nyanners: theres some weirdness around the pawn
+[18:34:57] Kayrosas: Bd4 Kh1 Nce5 looks really compact but i dont think it does much
+[18:35:42] nyanners: funny line in Bd4 Kh1 Qh4 Qxf4 Be5
+[18:35:42] Kayrosas: g5 could also be an option
+[18:35:57] aldric123: (12...Bd4+) I think I see something fun
+[18:35:57] Kayrosas: oh Nxh2
+[18:35:57] Kayrosas: good find if they see it
+[18:36:13] nyanners: oh okay thats convincing
+[18:36:13] aldric123: (13.Kh1) I think Nxh2 looks fun, but I wanna look a bit more
+[18:36:43] aldric123: (13.Kh1) I don't see how I don't win at least an exchange hmm
+[18:36:58] NxN: is Qf3 a blunder ?
+[18:37:14] Kayrosas: really impressive to find the best out of all those options
+[18:37:14] nyanners: id say Nec3 is likely to be the bad one
+[18:37:30] nyanners: exf4 seems kinda too good
+[18:38:01] nyanners: if white gets out of this down just an exchange and a pawn that feels like profit at this point
+[18:39:02] nyanners: but yeah given Nxh2 its also likely that Qf3 wasnt best
+[18:39:02] Kayrosas: there is still b5 at the end still
+[18:39:47] nyanners: does the bishop get out
+[18:40:02] aldric123: (14.Qxf4) I could take on f1, but Ng4 threatening Qh4+ almost looks more fun
+[18:40:02] nyanners: nxb5 c3
+[18:40:02] Kayrosas: hm
+[18:41:03] aldric123: (14.Qxf4) the sad part is that perhaps just Ng4 g3 stops a quick mate
+[18:41:18] NxN: what about Be5 then Qh5
+[18:41:49] Kayrosas: looks interesting
+[18:41:49] nyanners: worth a thought
+[18:42:04] nyanners: but in this kind of situation i tend to just take the material
+[18:42:04] nyanners: then you have a clear direction for the rest of the game
+[18:42:35] aldric123: (14.Qxf4) If I just take the material I have to be careful White's own attack doesn't start nailing me, sigh
+[18:42:35] NxN: Be5, Qh5, Ng4 , a mate net or get the  Q at least
+[18:43:05] nyanners: idk like white could sac the queen and try to conjure dark magic on the dark squares
+[18:43:20] Silkthewanderer: Go aldric
+[18:44:36] nyanners: say 14..Be5 Qxh2 into Nf6+
+[18:45:22] Silkthewanderer: Nxf1 Rxf1 b5 is just a full piece right?
+[18:45:37] nyanners: we were looking at that one. maybe c3 traps the b
+[18:45:52] nyanners: as far as i am concerned play Nxf1 before 30 minutes and then think about b5
+[18:46:23] nyanners: its good that it trades the bishop..
+[18:46:23] nyanners: ooooohh well then
+[18:46:53] aldric123: (14...Ng4) taking the material seemed wrong. Hmm we'll see if I regret this or not
+[18:47:39] Silkthewanderer: Ng4 g3 b5 Bxb5 Rxb5 Nxb5 Bxb2 Rab1 Be5 also looks really good
+[18:48:25] nyanners: thats a really good point actually, now Bxb2 is tempo
+[18:48:40] nyanners: so this is actually a pretty good materialistic line
+[18:48:55] oOoSHONUFFoOo: Is Rf3 a resource?
+[18:49:26] NxN: can 15.g3 stop the attack
+[18:49:26] nyanners: i suppose rf3 qh4 rh3 nf2 thing
+[18:49:26] nyanners: g3 is most natural
+[18:49:56] nyanners: then b5 seems really good as in silk's line
+[18:49:56] oOoSHONUFFoOo: Yeah that’s a good point
+[18:50:57] NxN: the  bad thing now is black didn't win the  exchange nor continue the  attack
+[18:51:58] aldric123: (15.g3) Be5 seems kinda nice now
+[18:52:44] nyanners: wins everywhere
+[18:52:44] nyanners: Qf3 Nd4 Qg2 b5
+[18:53:44] Kayrosas: Qf3 Qg5 also
+[18:54:00] nyanners: if not Qf3 then g3 hangs but maybe that 1 tempo is worth something on the dark squares? probably not
+[18:56:32] nyanners: very maximalist throughout :o
+[18:56:32] Kayrosas: black is really ruthless here
+[18:57:03] nyanners: yess. love to see it
+[18:57:18] Kayrosas: Kg2 Nd4 Qd1 Ne3 and shake hands
+[18:58:04] NxN: Mate
+[18:58:19] ivanhomeless: Ouch
+[18:58:34] Silkthewanderer: Very impressive
+[18:58:34] guitarspider: (17...Qh5+) gg
+[18:58:34] nyanners: good watch
+[18:58:49] nyanners: wp
+[18:59:05] oOoSHONUFFoOo: Gg
+[18:59:05] Kayrosas: i want to play more like black did in that conversion
+[18:59:05] Silkthewanderer: Not the most elaborate finish but the hard work was already done
+[18:59:35] Kayrosas: gg
+[18:59:35] NxN: gg
+[18:59:35] bronasberger: Good game!
