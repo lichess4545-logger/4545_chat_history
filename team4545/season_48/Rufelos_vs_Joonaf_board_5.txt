@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/64I4zwdK
+White     : rufelos
+Black     : joonaf
+Time      : 45+45
+Captured  : 2026-05-29 16:34:30 UTC
+Game ended : 2026-05-29 15:14:21 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[13:52:54] giziti: (9...g5) is Be5 a move?
+[13:53:09] giziti: (10.Be5) and there it is!
+[13:53:39] giziti: (10.Be5) I feel like Nxd5 is coming quick and isn't good for black
+[13:57:28] bncl: Go Joonaf!
+[14:08:07] matthewhuber: go joonaf!
+[14:09:23] DavidSifre: Go Joonaf!
+[14:18:16] giziti: (15.Qxe4) maybe Bc6 here is okay?
+[14:20:02] giziti: (16.Bxe4) or maybe black wants to keep the two bishops but not sure the best way to keep b7
+[14:20:33] bncl: Maybe still Bc6 on move 16?
+[14:20:48] bncl: Trading bishops and then taking the b2 pawn?
+[14:21:19] giziti: (16.Bxe4) yeah that's an idea, I'm just trying to think about how to keep both bishops for black
+[14:23:51] giziti: (18...f5) getting some interesting ideas in
+[14:28:55] giziti: (19.Bxb7) is white fast enough after Rb8, Bc6?
+[14:29:56] giziti: (20.Nf3) oh wait Bxc6 would be check
+[14:33:29] giziti: (21.Nh4) I think Kf7 instead of g4 on the last move because the knight gets annoying
+[14:43:39] giziti: (21...Kd8) so i guess the idea is Bf6 and then Kc7?
+[14:47:27] giziti: (21...Kd8) acutally maybe just Bc6 immediately?
+[14:48:59] giziti: (22.e4) so is it Bf6 Ng6 maybe Rg8 Nf4 or something, Bc6?
+[14:49:29] Joonaf: I thought 22.Rb3 wouldve beengood for White
+[14:49:44] giziti: (22.e4) I guess Rd1+ escapes. tricky
+[14:50:00] giziti: (22.e4) the clogged diagonal is handy
+[14:51:16] giziti: (22.e4) maybe Bf6 somewhere Kc7 now?
+[15:03:42] giziti: (24...Re8) so white's in deep trouble, right?
+[15:05:59] giziti: (25.f3) Bb5+ looks painful
+[15:09:16] giziti: (26.Kg2) is there a mate or does this just win all the material?
+[15:10:33] giziti: (26.Kg2) okay yeah there's a mate
+[15:14:36] Joonaf: ggwp!
+[15:14:51] Rufelos: gg! missed Re8
+[15:16:23] giziti: oh wow i didn't know that was theory, looks sharp
+[15:19:10] Joonaf: 4.d4 was new to me
+[15:19:40] Joonaf: Wait.. it's the most played move
+[15:20:41] Joonaf: Oh well, I didn't prepare well enough. Im just glad I survived the opening
+[15:27:01] Joonaf: Wasn't sure what to do if 25.Ng2
