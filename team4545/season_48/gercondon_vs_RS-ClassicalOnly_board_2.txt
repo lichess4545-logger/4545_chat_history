@@ -1,0 +1,14 @@
+Lichess game chat log
+Game      : https://lichess.org/cAVJRks6
+White     : gercondon
+Black     : rs-classicalonly
+Time      : 45+45
+Captured  : 2026-05-30 22:44:23 UTC
+Game ended : 2026-05-30 21:24:15 UTC
+Messages  : 4
+────────────────────────────────────────────────────────────
+
+[20:08:39] Inter-temporal: (13...Rc7) go gercondon!
+[20:26:40] RS-ClassicalOnly: is this working
+[20:27:41] RS-ClassicalOnly: I suspect Rxc2 Bxc2 Qxc2 can be followed up by Qe2 and Qe3 for a beautiful checkmate but I suspect it's not right
+[20:28:11] RS-ClassicalOnly: Qe8 looks sufficient to stop white gaining an advantage right now however
