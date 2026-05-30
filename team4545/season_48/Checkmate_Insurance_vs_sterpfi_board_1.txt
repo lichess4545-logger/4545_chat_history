@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/H9Ew8HBl
+White     : checkmate_insurance
+Black     : sterpfi
+Time      : 45+45
+Captured  : 2026-05-30 09:48:15 UTC
+Game ended : 2026-05-30 08:28:05 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[06:06:59] Checkmate_Insurance: (13) i think f4 c4 b4 Nc2 a5 g3 is the line here
+[06:06:59] Checkmate_Insurance: (13) if i'm remembering correctly
+[06:09:16] Checkmate_Insurance: (15) Nxd5 Be6 is a funny trick
+[07:13:30] Checkmate_Insurance: (34) no way that works
+[07:13:30] Checkmate_Insurance: (34) i thought g4 just won?
+[07:14:01] Checkmate_Insurance: (34) g4 fxg4 f5+ kg5 and surely anything wins
+[07:14:16] Checkmate_Insurance: (34) like Ng2+ e3 Nxe3 how does he stop me from just checking on the next turn
+[07:16:18] Checkmate_Insurance: (34) g4 Qh3 doesn't work either I just have gxf5+ kh5 Qe2+ Kh4 Ng2+
+[07:18:04] Checkmate_Insurance: (34) i guess g4 fxg4 f5 Kg5 Ng2 e3 Nxe3 Be5 is the point with escaping back to f6 but i can't imagine it's good
+[07:21:52] Checkmate_Insurance: (34) if g3 instead of Be5 i think Ng2+ Kg4 Qe2+ wins since after Kh3 i have Nf4+ winning the queen
+[07:22:07] Checkmate_Insurance: (34) this feels more complicated than it should be
+[07:24:40] Checkmate_Insurance: (34) i also thought about g4 fxg4 f5+ Kg5 Nxg4+ but i'm not even sure what is happening after Kh4
+[07:35:04] Checkmate_Insurance: (35) i just realised i forgot i had also seen Ng4+ Kxg4 wasn't actually mate in 1
+[07:42:25] Kayrosas: 37.Nxg4 Kxg4 Rf4 Kg5 Rf3 should suffice in that line
+[07:42:55] Kayrosas: but cant figure out Nxg4 e3
+[07:43:26] nyanners: what a strange position
+[07:43:56] Kayrosas: Nxe3 has to be enough there surely
+[07:44:11] nyanners: feels that way
+[07:44:27] Checkmate_Insurance: (37) i just can't find the mate
+[07:44:42] Checkmate_Insurance: (37) i feel like i've spent way too much time on the past few moves
+[07:46:59] Aikansh220318: hello
+[07:47:29] Kayrosas: hi
+[07:48:30] Aikansh220318: kaytosas what is your fide rating
+[07:50:32] Kayrosas: above 7
+[07:51:02] Kayrosas: so what does white do after 38...Be5
+[07:51:48] Kayrosas: Nxg4 might be an option
+[07:52:03] nyanners: rg2 maybe
+[07:52:03] Checkmate_Insurance: (38) i think Be5 or Rb2 are the logical options
+[07:52:49] Kayrosas: 38...Be5 Nxg4 Kx Rc4 Kh3 and idk
+[07:53:04] nyanners: no yea im trippin
+[07:53:35] Kayrosas: with 37.Nxg4 this line would be a bit simpler
+[07:53:50] nyanners: maybe just Nc4
+[07:54:05] nyanners: on Be5
+[07:54:20] Kayrosas: oh that square exists, right
+[07:54:51] Kayrosas: but not a KO yet
+[07:55:06] nyanners: yea the wins are elusive
+[07:55:06] nyanners: if they exist
+[07:55:52] nyanners: kinda wanna guess 40% black though that sounds insane
+[07:56:07] nyanners: it probably is XD
+[07:57:53] Kayrosas: well if there isnt a KO soon white will probably lose
+[07:58:09] nyanners: something like that :o
+[07:58:09] nyanners: just hard to believe it doesnt exist
+[07:59:10] Kayrosas: 39...Rxc2 Nc2 Kh4 Ne1 maybe
+[07:59:40] Aikansh220318: https://lichess.org/api/rel/follow/nyanners?mini=1
+[07:59:56] Checkmate_Insurance: (40) i thought this won for me easily
+[08:00:26] nyanners: lets see it..
+[08:02:13] gavalanche20: Just tuning in so no idea just find it funny that Black is saying this while walking the king to h4
+[08:02:43] Kayrosas: it is white making the comments
+[08:02:58] gavalanche20: Oh nvm yeah I see that now
+[08:03:13] Kayrosas: Ne1 Qg5 maybe, or Be5
+[08:03:59] Kayrosas: oh, not sure why I wanted to go to e1 and not e3, probably bc e3 is where we came from
+[08:04:30] nyanners: not super clear e3 is better anyway
+[08:04:45] nyanners: probably doesnt matter but i like e1
+[08:05:15] Kayrosas: yea we've established that with Ne8/Ne1 ^^
+[08:05:15] nyanners: XD
+[08:06:16] Kayrosas: Qg5 is prolly not good enough I guess after Ng2-f4
+[08:07:32] Kayrosas: so Be5 Ng2 Kh3 Qd3 g3 Rf4 maybe
+[08:07:47] nyanners: what on qg5 ng2 kh5 nf4 kh4
+[08:08:18] Kayrosas: i was thinking Rg2 or f3
+[08:08:48] nyanners: yea idk seems deceptive
+[08:09:19] Kayrosas: g2 probably, and difficult to deal with Qf2+
+[08:09:34] nyanners: like, black might have Qxf5, which allows Kg5
+[08:09:34] Kayrosas: oh i missed f5 hanging
+[08:09:49] Kayrosas: but you win the queen i think
+[08:10:35] Kayrosas: nvm
+[08:10:35] nyanners: something should give..... just like its been for this entire portion XD
+[08:10:50] nyanners: theres no psychologically winning here unless you actually find it
+[08:11:05] nyanners: if there wasnt anything it feels bad, if there was it feels worse
+[08:12:06] Kayrosas: :o
+[08:13:07] Kayrosas: Rf4 could be strong
+[08:13:53] nyanners: yea im not seeing it for b
+[08:14:08] nyanners: lots of good-looking choices after rf4
+[08:15:24] nyanners: Rf4 Qe5(?!) Rxg4 Kh5 Qe2...... this time surely
+[08:15:24] Kayrosas: Rf4 Bg5 Rg4 Kh5 Qe2 is a bit funny
+[08:15:39] nyanners: yeaa
+[08:17:26] Checkmate_Insurance: (42) Bg5 Rxg4 Kh5 Rxg5 Kxg5 Ng2+ Kh5 Qf4 sets a mating net i think
+[08:17:41] nyanners: okay THIS time for sure
+[08:17:41] Checkmate_Insurance: (42) after Qe7 i'll play h4 and he runs out of moves
+[08:18:57] Kayrosas: Ng2 Kxf5 in that line tho perhaps
+[08:19:58] nyanners: yea i prefer qe2 tbf
+[08:20:28] nyanners: kxf5 does give the rook tho
+[08:20:44] nyanners: e1 is covered
+[08:20:44] nyanners: but not omega convincing..
+[08:20:59] Kayrosas: oh right
+[08:26:19] Kayrosas: 44.Qd1
+[08:26:34] nyanners: take the other light square i guess
+[08:26:34] Kayrosas: thats brutal
+[08:26:34] Checkmate_Insurance: (44) qb3 Rh4!!
+[08:26:49] Kayrosas: nice find
+[08:27:04] nyanners: i saw Rg5 XD
+[08:27:04] nyanners: which type of person are you etc
+[08:27:19] Kayrosas: which one gets more points
+[08:27:19] nyanners: gg
+[08:27:19] Kayrosas: gg
+[08:27:19] tomb85: Gg well played
+[08:29:21] nyanners: okay we are all bad i guess
+[08:30:22] Checkmate_Insurance: at least i blundered it less than usual
+[08:30:37] nyanners: yea you get to not feel bad about throwing this :o
+[08:30:52] nyanners: has to count for something
+[08:30:52] Checkmate_Insurance: in my other games vs sterpfi i blundered draws in winning positions that he missed
+[08:31:38] Checkmate_Insurance: i didn't see Rf4 on Nxg4 Kxg4
