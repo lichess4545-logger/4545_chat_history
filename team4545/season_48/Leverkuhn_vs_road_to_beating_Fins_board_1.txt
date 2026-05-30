@@ -1,0 +1,39 @@
+Lichess game chat log
+Game      : https://lichess.org/jqyMdMqP
+White     : leverkuhn
+Black     : road_to_beating_fins
+Time      : 45+45
+Captured  : 2026-05-30 19:59:22 UTC
+Game ended : 2026-05-30 18:39:16 UTC
+Messages  : 29
+────────────────────────────────────────────────────────────
+
+[18:38:15] MrScribbles: (32...Be4) No way out of this, right?
+[18:38:15] MrScribbles: (32...Be4) I don't think Bxg7+ will do anything
+[18:39:16] Leverkuhn: gg
+[18:39:31] road_to_beating_Fins: gg
+[18:39:46] MrScribbles: gg
+[18:39:46] Leverkuhn: I feel like that exchange sac had some potential, but unfortunately I don't play that kind of position well yet
+[18:40:01] road_to_beating_Fins: Yeah it was interesting]
+[18:40:17] road_to_beating_Fins: Plus I thought if you just won it back with Nd7 you would've had a great position
+[18:40:32] Leverkuhn: when?
+[18:40:32] road_to_beating_Fins: Move 21
+[18:40:47] Leverkuhn: 21.Nd7 Qf4 seemed a problem
+[18:41:02] road_to_beating_Fins: Oh I didn't see it lucky resource
+[18:41:02] Leverkuhn: that was my original intention with 20.b4?!
+[18:41:48] Leverkuhn: I figured I could always at least win the exchange back, but that was a miscalculation
+[18:42:34] road_to_beating_Fins: Definitely surprised me but looks like you had full comp
+[18:43:19] Leverkuhn: 22.Nd7 was probably better than 22.Qc3, with line like 22...Nxd7 23.Rxd7 Rf7 24.Rxf7 Kxf7 25.Qc3 e5, but of Black must be better there
+[18:43:34] Leverkuhn: I was hoping 22.Qc3 would be a bit more confusing, but that was not the case
+[18:45:21] Leverkuhn: unopposed dsb on the diagonal 'should' be worth an exchange, but I failed to figure out the position
+[18:49:09] road_to_beating_Fins: Good prep I don't like this line
+[18:50:25] Leverkuhn: 14...f5 was a shocker, especially so quickly
+[18:50:55] road_to_beating_Fins: Yes I've lost in this kind of position before so i studied the early middlegame ideas
+[18:51:11] road_to_beating_Fins: Looks so ugly but you need breathing room
+[18:51:41] Leverkuhn: I spent huge amounts of time trying to resolve 16.Rfe1 cxd4 17.Nxd4 Bb4 in White's favor\
+[18:52:27] Leverkuhn: didn't find anything convincing
+[19:01:34] Leverkuhn: I might have been in the game as late as move 27, but the time disparity was too large for a position that hadn't clarified
+[19:04:21] Leverkuhn: I thought 27.Be5 was refuted by 27...Re7, but looking at it now White might have been able to continue with 28.Bxc7 Rxe6 29.Kf2
+[19:04:36] Leverkuhn: due to the weak back rank
+[19:05:22] Leverkuhn: if White anchors the bishop on d6 or e5 there could be drawing chances
+[19:07:23] road_to_beating_Fins: Yes bishops were annoying till the end
