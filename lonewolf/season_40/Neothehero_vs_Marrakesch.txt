@@ -1,0 +1,25 @@
+Lichess game chat log
+Game      : https://lichess.org/kViHDqir
+White     : neothehero
+Black     : marrakesch
+Time      : 30+30
+Captured  : 2026-05-30 08:42:16 UTC
+Game ended : 2026-05-30 07:22:09 UTC
+Messages  : 15
+────────────────────────────────────────────────────────────
+
+[06:16:25] Neothehero: (9...a5) a4 d5 ed5 cd5 Bb5
+[06:16:55] Neothehero: (9...a5) a4 d5 ed5 Nd5 O-O-O
+[06:21:29] Neothehero: (10...d5) ed5 cd5 Bd3?
+[06:22:30] Neothehero: (11.exd5) Black might have Bb4
+[06:30:37] Neothehero: (13.O-O-O) Bb4 Qd3
+[06:31:08] Neothehero: (13.O-O-O) Bc5 Rhe1
+[06:39:33] Neothehero: (14...Nc6) Qd3 or Bg5
+[06:40:34] Neothehero: (14...Nc6) Qd3 Bc5 seems unpleasant
+[06:52:29] Neothehero: (16.Qd3) wait I missed Ne5
+[06:53:30] Neothehero: (16.Qd3) Ne5 Bxf6 Qxf6 Nxd5 Qd6 Qb3
+[06:54:46] Neothehero: (16...Nxd4) Bxd7 or Qxd4 or Bxf6
+[06:55:47] Neothehero: (16...Nxd4) Nxd5 might even be possible
+[07:18:21] Neothehero: (25.Kc1) I think I'm winning now
+[07:18:36] Neothehero: (25.Kc1) Black can't defend f7
+[07:19:07] Neothehero: (25.Kc1) Qf1+ Kd2 Qxg2+ Re2 threatening both the queen and Re8#
