@@ -1,0 +1,18 @@
+Lichess game chat log
+Game      : https://lichess.org/jJrldStj
+White     : upgoerfive
+Black     : aactrl
+Time      : 20+20
+Captured  : 2026-05-30 18:01:08 UTC
+Game ended : 2026-05-30 16:40:59 UTC
+Messages  : 8
+────────────────────────────────────────────────────────────
+
+[16:10:15] AACtrl: (5.O-O-O) check 5.Na5
+[16:13:48] AACtrl: (7...Nd6) check 7...Qf6 e4
+[16:17:06] AACtrl: (8.Nb4) Qf6 d4, 8...a5 Nd3 Qf6 Bxb6!?
+[16:18:37] AACtrl: (8.Nb4) 8...0-0-0 Qf3 ugh...
+[16:23:11] AACtrl: (10...Qf6) 11.Bd4 Qg5+ Kb1 Bxd4 Nxd4 then what...
+[16:24:58] AACtrl: (10...Qf6) oh, c5
+[16:29:33] AACtrl: (11.c3) Nd5 or Nb5?
+[16:38:11] AACtrl: (11...Nb5) 12.dxe4 Rxd1 Rxd1 Rxe4/fxe4
