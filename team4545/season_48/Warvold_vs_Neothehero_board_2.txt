@@ -1,0 +1,178 @@
+Lichess game chat log
+Game      : https://lichess.org/ZUuh6JkO
+White     : warvold
+Black     : neothehero
+Time      : 45+45
+Captured  : 2026-05-31 11:51:56 UTC
+Game ended : 2026-05-31 10:31:47 UTC
+Messages  : 168
+────────────────────────────────────────────────────────────
+
+[08:02:47] Neothehero: (5.Qf3) wow this wil be my first time playing the von Bardelebn
+[08:05:49] Neothehero: (6.Nh3) I am out of the book here
+[08:06:05] Neothehero: (6.Nh3) does g5 work?
+[08:07:06] Neothehero: (6.Nh3) candidates are g5, c5. Nc6
+[08:07:36] Neothehero: (6.Nh3) g5 Qh5+ doesn't look good
+[08:08:07] Neothehero: (6.Nh3) Nc6 how does black defend e5?
+[08:08:07] Neothehero: (6.Nh3) I mean white
+[08:10:55] Neothehero: (6.Nh3) Nc6 d3 Nxc3 bxc3 Nxe5
+[08:11:56] Neothehero: (6.Nh3) Nc6 Qf4 g5
+[08:12:11] Neothehero: (6.Nh3) Nc6 Bb5 is possible
+[08:12:26] Neothehero: (6.Nh3) Maybe  Nd7 instead?
+[08:14:28] Neothehero: (6.Nh3) Nc6 Bb5 Bd7 Nxd5 Nxe5
+[08:15:14] simonWasHere: Go Warvold!
+[08:15:29] Neothehero: (6.Nh3) Nc6 bb5 Bd7 Bxc6 Bxc6 d4 is unclear
+[08:15:44] Neothehero: (6.Nh3) maybe I should play c5 first
+[08:16:15] Warvold: (6.Nh3) Hi Simon
+[08:17:15] Neothehero: (6.Nh3) Nc6 Bb5 Bd7 Bxc6 Bxc6 d4 I have Bb4
+[08:17:15] Neothehero: (6.Nh3) I like it
+[08:18:01] Warvold: (7.d3) Welp, not the line I hoped, but i'm kinda prepared against it
+[08:18:47] Neothehero: (7.d3) does Nd4 work?
+[08:20:03] simonWasHere: I see the position is massively complicated already!
+[08:21:34] DavidSifre: It’s best for white to take black’s pieces.
+[08:21:49] DavidSifre: That’s how we trained it.
+[08:22:05] simonWasHere: true
+[08:22:05] Neothehero: (7.d3) Nd4 Qd1 Qh4+ g3 Nxg3 hxg3 Qxg3+ Nf2  Nf3+ Ke2
+[08:22:05] Warvold: (7.d3) Hi David
+[08:22:35] Warvold: (7.d3) Isn't it very early for you?
+[08:23:06] simonWasHere: yes, when do you sleep?
+[08:23:06] DavidSifre: Howdy Warvold. I’ve heard it said if you can support a knight with two pawns like black has do me here, it is difficult to beat.
+[08:24:06] simonWasHere: if he can support the knight with three pawns it will be indestructible
+[08:25:53] DavidSifre: Fortunately , nf4 wins one of them
+[08:26:54] simonWasHere: it is blacks turn to move though
+[08:27:09] DavidSifre: Yeah and his bishop can protect it anyway
+[08:27:39] Neothehero: (7.d3) Nd4 Qd1 Qh4+ g3 Nxg3 Bg5!
+[08:28:10] DavidSifre: I think it’s best to take the knight. Black will probably let it happen.
+[08:28:40] Warvold: (7...Nxc3) Alright
+[08:28:40] Warvold: (7...Nxc3) Let's think a bit
+[08:28:55] simonWasHere: white has a time advantage
+[08:30:27] DavidSifre: What is there to think about? Don’t you have to recapture?
+[08:30:27] Warvold: (7...Nxc3) First line is bxc3 Nxe5 Qe2 Qe7 Bg5 Qe6 Nf4 Qd6 d4 wins a knight
+[08:31:12] simonWasHere: maybe you can throw in Bg5 first, not sure?
+[08:31:43] Warvold: (7...Nxc3) But I wonder about Bg5 Be7 bxc3 Bxg5 Qh5+ g6 Qxg5 Qxg5 Nxg5 Nxe5 O-O-O
+[08:32:29] Neothehero: (7...Nxc3) bxc3 Nxe5 Qe2 Qe7 Bg5 qe6 Nf4 looks like I lose a piece
+[08:32:59] Neothehero: (7...Nxc3) I might need to consider d4
+[08:32:59] Warvold: (7...Nxc3) First line looks better
+[08:33:14] DavidSifre: I think that the e pawn is lost with check if black moves the bishop before taking the knight.
+[08:37:18] DavidSifre: Nf6 and Qh5+ is a nice combo.
+[08:38:03] DavidSifre: But Be2 is probably more sound because development is important
+[08:38:49] DavidSifre: Oh, yeah. Saving the pawn is too.
+[08:38:49] simonWasHere: we laugh in the face of piece development
+[08:39:19] DavidSifre: But it should have been saved with the bishop.
+[08:40:05] Neothehero: (9.Qg3) dc3, Bc5 or Qd5
+[08:40:20] DavidSifre: bf4>qg3
+[08:45:55] Warvold: (10.Be2) Damn, there is some wild lines
+[08:46:56] Warvold: (10.Be2) Nd4 Bh5+ if g6 Bxg6+ hxg6 Qxh6+ Kd7 e6 Ke7 Ba3#
+[08:47:11] guitarspider: (10.Be2) I haven't seen a boring Warvold game yet :D
+[08:49:43] DavidSifre: 10...Bc5 > than moving the knight again.
+[08:49:59] DavidSifre: Stopping your castle and developing his bishop is the move.
+[08:53:02] DavidSifre: Seems that the queen can’t do that job because fhe bishop can kick it.
+[08:54:18] DavidSifre: I would have traded bishops before trading queens because the queen move could have come after and won the pawn I think.
+[08:54:49] Neothehero: (10...Qd4) just now my candidate moves were Qd4, Qd5 and Nd4
+[08:55:04] Warvold: (10...Qd4) Alright
+[08:55:50] Neothehero: (10...Qd4) I thought after Qd4 Be3 Qxe5 Bf4 Qe76 Bxc7 is not possible due to Nd4
+[08:55:50] Warvold: (10...Qd4) Bh5+ g6 Bxg6+ hxg6 Qxg6+
+[08:55:50] Warvold: (10...Qd4) 3 options
+[08:56:35] Neothehero: (10...Qd4) I might go g6 Bg7 next
+[08:57:21] Neothehero: (10...Qd4) Bf4 g6 Ng5 Bg7 Nf3 is annoying
+[08:58:07] Neothehero: (10...Qd4) Bf4 Be6 Ng5 Bd5?
+[08:58:22] DavidSifre: Qe3 seems safer because it gets queen off your territory.
+[08:58:22] Neothehero: (10...Qd4) doesn't look good
+[08:59:08] Neothehero: (10...Qd4) Bf4 Nb4 Bd1 Be6 might work
+[09:00:24] DavidSifre: Sure now everybody says Bf4. Where were they on move 9
+[09:03:43] Neothehero: (10...Qd4) Bf4 Nb4 Bd1 Be6 Ng5 Bxa2 Nf3 then white might be able to play d4
+[09:04:43] Neothehero: (10...Qd4) but that still looks best
+[09:05:29] Neothehero: (10...Qd4) Be6 a3 Nc6 Ng5 I'll lose a lot of tempi
+[09:05:59] Neothehero: (10...Qd4) or should I just go Bd7 and O-O-O
+[09:06:15] Neothehero: (10...Qd4) but then e6 might come
+[09:06:15] Neothehero: (10...Qd4) looks scary though
+[09:06:45] Warvold: (11.Bh5+) Let's go
+[09:06:45] Neothehero: (11.Bh5+) wow this was unexpected
+[09:07:00] Warvold: (11.Bh5+) Kd7 looks like the best move here
+[09:07:00] Warvold: (11.Bh5+) Everything else is madness
+[09:07:31] Neothehero: (11.Bh5+) g6 Bxg6 hxg6 Qxg6+
+[09:08:16] DavidSifre: 11. e5 Bxe5 Qxc2 then bring in the bishop and mate with the queen.
+[09:08:16] Neothehero: (11.Bh5+)  Kd8 Bg5+ Be7 Bxe7 Nxe7
+[09:09:17] DavidSifre: It’s a plan that could have worked if the other bishop weren’t there.
+[09:09:48] Neothehero: (11.Bh5+) Kd7 might be safe though
+[09:10:18] DavidSifre: Wondering what is wrong with g6
+[09:10:18] Neothehero: (11.Bh5+) Kd7 Qxf5+ certainly I'm doomed
+[09:11:04] Neothehero: (11.Bh5+) Kd8 now Qg5+ Be7 Qxg7
+[09:11:19] DavidSifre: Oh he covered that with the queen check above.
+[09:11:19] Neothehero: (11.Bh5+) Kd8 Qg5+ Ne7 hopfully there's nothing
+[09:11:50] DavidSifre: Bu lt a queen check is worthless by itself and getting the bishop seems good.
+[09:13:21] simonWasHere: the dark squared bishop can come in though
+[09:15:38] DavidSifre: I think because white has a DSB as well it would likely get traded. But I was wrong once before.
+[09:16:24] DavidSifre: It’s better to get pieces off than to run away with the king. That seems a temporary solution at best.
+[09:18:26] Warvold: (11...Kd7) Alright!
+[09:18:26] Neothehero: (11...Kd7) this is very scary
+[09:19:57] DavidSifre: Fear should be on both sides with both kings exposed and both queens on the board.
+[09:22:14] Neothehero: (11...Kd7) wait e6 Ng5+ I can go back to d7
+[09:22:14] Neothehero: (12.Bf4) nevermind
+[09:22:14] DavidSifre: Ng5 looks ok
+[09:26:03] Neothehero: (13...Bg7) e6+ Kxe6 Bxc7 Be5
+[09:29:51] DavidSifre: Castle long and get a room behind the e pawn
+[09:30:21] Neothehero: (13...Bg7) I could play Re8
+[09:30:37] Neothehero: (13...Bg7) Rb1 Re8
+[09:30:52] DavidSifre: But that’s a shitty castle forget what I said.
+[09:32:08] DavidSifre: Ng5 then e6+ it protects e6
+[09:32:53] Warvold: (13...Bg7) Alright
+[09:33:24] Warvold: (13...Bg7) e6 Kxe6 Kd1 looks good
+[09:33:24] Warvold: (13...Bg7) 2 pawns but lot of activity
+[09:33:54] Neothehero: (15.Kd1) wow kd1
+[09:35:41] DavidSifre: Qb4 is going to be a problem.
+[09:36:27] DavidSifre: I think keeping the central pawn would have been better.
+[09:36:57] Neothehero: (15...Kd7) I don't know if I'm safe, either I"m a bit better of I'm completely losing
+[09:37:59] Neothehero: (15...Kd7) Bxc6 Kxc6 should be safe
+[09:39:46] Warvold: (16.Re1) It's blitzing time
+[09:40:01] DavidSifre: Qb4 is going to win the rook.
+[09:40:46] simonWasHere: how?
+[09:41:02] Neothehero: (16...Nb4) screw it
+[09:41:02] DavidSifre: Qb4 then Qb2
+[09:41:17] simonWasHere: Rc1
+[09:42:03] DavidSifre: No you can’t do that. It ruins my next move b
+[09:42:18] simonWasHere: sorry
+[09:42:33] GoldenRetrieverChess: Gooo Warvold!
+[09:42:33] Neothehero: (16...Nb4) If it works it works
+[09:42:48] DavidSifre: Believe it or not, a lot of times people ruin my moves.
+[09:43:03] DavidSifre: People suck.
+[09:43:34] GoldenRetrieverChess: Good morning to you too David :P
+[09:43:49] DavidSifre: The knight is useless on the h file. Move it
+[09:44:35] DavidSifre: Good morning Kevin. You don’t suck.
+[09:45:36] DavidSifre: There was a time I was afraid to comment here for fear of looking stupid. Now I am numb to the feeling.
+[09:46:52] PaulWithAnS: (16) We all post moves that don't work from time to time. I do it a lot of the time
+[09:47:22] simonWasHere: 17.Qg4!!
+[09:47:53] DavidSifre: I play those sort of moves, Simon...
+[09:48:23] simonWasHere: It is a good psychological strategy to confuse your opponents
+[09:48:38] Neothehero: (16...Nb4) Be6 Qd6
+[09:48:38] Neothehero: (16...Nb4) I mean Bd3
+[09:49:39] DavidSifre: A stunning queen sacrifice sometimes throws them off their game.
+[09:50:40] Neothehero: (17...Nxc2) Qa4+ Kc1 then what
+[09:50:55] DavidSifre: Let’s find out!
+[09:51:11] simonWasHere: omg
+[09:51:11] Warvold: (19.Kc1) Smells bad
+[09:51:26] Neothehero: (19.Kc1) ahhh
+[09:51:41] Neothehero: (19.Kc1) the king escapes
+[09:51:56] Neothehero: (19.Kc1) c2 there's Be5
+[09:52:42] DavidSifre: Qa3+ and chase to the open file then check with the rook
+[09:52:57] DavidSifre: Or lose the rook first. That’s not right.
+[09:53:58] Neothehero: (19.Kc1) Rxe8 Qa3+ Kd1 c2+ Kd2 Bxh1?
+[09:54:29] DavidSifre: Oh maybe he is setting up to take the other rook or 3 fold  check.
+[09:55:45] nyanners: has science gone too far again
+[10:00:34] simonWasHere: best comment so far
+[10:05:24] DavidSifre: How did the time imbalance shift
+[10:06:55] DavidSifre: Rb2 then mate with queen.
+[10:07:10] DavidSifre: Rc2
+[10:09:43] DavidSifre: Nd1
+[10:12:15] DavidSifre: Connected passed a and b pawns are a problem
+[10:12:30] DavidSifre: I am sorry to say
+[10:14:16] Warvold: (33...b5) Still 2 less pawns but a whole lot less activity
+[10:16:03] DavidSifre: Oh maybe for you. But there is a lot of pawn activity to come.
+[10:16:33] Neothehero: (34...Kc6) don't screw this up pls
+[10:17:19] DavidSifre: Pawn majority to the right of you. Passed pawns to the left. It’s the charge of the light brigade
+[10:18:20] DavidSifre: Kb6 a5
+[10:19:06] DavidSifre: Neo, you can’t lose from here. He has no threats. So just hit the flag button.
+[10:24:56] DavidSifre: This is a game of the month showing the power of a bishop pair.
+[10:31:47] Warvold: (46...b3) Welp, gg!
+[10:33:18] PaulWithAnS: (46) gg
+[10:33:18] simonWasHere: gg
