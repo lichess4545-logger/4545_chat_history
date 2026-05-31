@@ -1,0 +1,36 @@
+Lichess game chat log
+Game      : https://lichess.org/0CO51fRa
+White     : pezzo17
+Black     : rusty_2003
+Time      : 45+45
+Captured  : 2026-05-31 02:20:32 UTC
+Game ended : 2026-05-31 01:00:27 UTC
+Messages  : 26
+────────────────────────────────────────────────────────────
+
+[00:06:09] pezzo17: (3...b6) interesting opening.   i did not prep, maybe this is normal
+[00:08:56] guitarspider: (5...Ne7) go pezzo
+[00:08:56] guitarspider: (5...Ne7) it's not normal :D
+[00:23:55] Inter-temporal: (13.Nc4) but what is "normal" anyway?
+[00:25:57] Inter-temporal: (13...Be7) looks as if black somehow played ...dxe3, fxe3
+[00:26:58] guitarspider: (14.e4) White has a nice center
+[00:27:43] Inter-temporal: (14.e4) nice. e4 is a bit soft, atm. and doesn't black still need ...c5 somehow?
+[00:27:58] Inter-temporal: (14...b5) no i'm wrong. oc
+[00:28:14] Inter-temporal: (14...b5) idk
+[00:28:44] guitarspider: (14...b5) I don't think you're wrong, but e4 is hard to attack and c5 needs more preparation
+[00:29:45] Inter-temporal: (15...axb5) i still need to learn how to analyze breaks in unfamiliar positions---pretty much all positions...
+[00:30:15] Inter-temporal: (16.Nce5) ...b5 turned out well, i think
+[00:31:47] Inter-temporal: (16...Nxe5)  e4 is still an issue (as always)
+[00:32:48] Inter-temporal: (17...f6) we gotta drop thousands of e4-pawns before... oh forget it
+[00:34:04] Inter-temporal: (18.Nf3) tough choices but i think trade the e for the b
+[00:36:36] Inter-temporal: (19...Bxe4) from 4-2 v 2-4  -->  3-2 v 1-4--we have total asymmetry
+[00:38:07] Inter-temporal: (20.Bxb5) ...c5 break again, i think, is a candidate
+[00:40:40] Inter-temporal: (20...Qa8) but might have backfired facing connected passers
+[00:41:25] Inter-temporal: (20...Qa8) so maybe e5 is better
+[00:54:37] Inter-temporal: (23...Kf7) re1 looks like smth
+[00:55:22] Inter-temporal: (24...Bf5) ...Bf5, h3 h5, Nf3
+[00:56:38] Inter-temporal: (25.d5) yeh. nice
+[00:57:09] Inter-temporal: (25...Bc5+) very dynamic!
+[00:57:54] Inter-temporal: (26...exd5) oof.
+[00:58:25] Inter-temporal: (27.Bxd5+) maybe 26...Ke7 was a lesser evil?
+[01:03:14] Inter-temporal: gg
