@@ -1,0 +1,127 @@
+Lichess game chat log
+Game      : https://lichess.org/Ll5awrMp
+White     : pope123
+Black     : kykyche
+Time      : 45+45
+Captured  : 2026-05-31 14:35:43 UTC
+Game ended : 2026-05-31 13:15:34 UTC
+Messages  : 117
+────────────────────────────────────────────────────────────
+
+[11:07:38] jcarmody: Who is that on the balcony with Dave?
+[11:08:08] stevenlongs: paging all jobava theoreticians...is this theory? lol
+[11:09:24] NameGoesInHere: (3...a6) i woudl guess it's transposed to some sideline of the dutch?
+[11:10:10] oOoSHONUFFoOo: Guess it might turn into some sort of stonewall
+[11:10:40] Zubenelgenubi: Pope!
+[11:11:41] Silkthewanderer: Go Pope
+[11:11:41] oOoSHONUFFoOo: So the only way to have more suspense is if Pope and team score 4 points before the last game?
+[11:12:27] Pineapplechiffoncake: Go kykyche!
+[11:12:27] guitarspider: (4...Nf6) yes sho :D
+[11:12:27] guitarspider: (4...Nf6) go pope!
+[11:12:42] oOoSHONUFFoOo: Gooooo pope!
+[11:13:58] oOoSHONUFFoOo: Guess white would have wanted the c3 knight somewhere else.
+[11:17:01] FinErik: Go Kykyche!
+[11:22:51] Pope123: (6...c5) dxc5 Bxc5 Na5 Qa5+ c3  Be7 Qb3 b5 and im a bit worried about my knight
+[11:31:30] Pope123: (7.dxc5) Where did all my time go?
+[11:36:04] Pope123: (8.a3) d4 is fine i hope
+[11:52:03] guitarspider: (10.Nxg4) this somehow turned into a pretty decent position for Black
+[11:52:18] Pope123: (10.Nxg4) Very much like my position now, i guess they castle
+[11:55:21] guitarspider: (10.Nxg4) maybe I'm underestimating the kingside action for White
+[11:55:21] guitarspider: (10.Nxg4) kinda tricky to castle for Black
+[11:57:38] Silkthewanderer: White wants Be5 and Nxf6 in that order
+[11:57:53] Silkthewanderer: And Nxg4 is a concession
+[11:58:54] Silkthewanderer: This looks like a typical Jobava line where the engine laughs you out of the room and shows a clean way to a -0.5 for Black
+[11:59:24] Silkthewanderer: ...while humans struggle to find just that
+[12:00:56] Silkthewanderer: Nxg4 Qxg4 Qf6 Rg1 e5 is what I think Black wants
+[12:08:02] Pope123: (12...O-O) I thought Nc6 was stronger tbh
+[12:08:17] Fischer_and_Chips88: castling into Be5 and Rg1 seems crazy
+[12:09:03] Silkthewanderer: Nc6 seemed very natural, ye
+[12:10:19] Silkthewanderer: 13. Bd3 maybe first to take away Qg6?
+[12:11:20] Fischer_and_Chips88: agreed, Qg6 would be annoying for white
+[12:11:50] Fischer_and_Chips88: there it is
+[12:12:36] Silkthewanderer: Nc6 Bg5 Qf3 annoys me
+[12:13:21] Silkthewanderer: Nc6 0-0-0 makes sense then, after e5 White still has Bg5
+[12:14:53] Silkthewanderer: Am really curious why Nc6 wasnt played quickly. That seemed like the one easy move to make before a bunch of trickier ones
+[12:17:10] Silkthewanderer: 0-0-0 Bxa3 is a problem because Bg5 Qxc3
+[12:17:40] Silkthewanderer: 14. Na4 maybe?
+[12:18:10] Fischer_and_Chips88: Ba3 is easy to miss
+[12:18:26] Silkthewanderer: Bishop retreats and then 0-0-0 might work
+[12:19:57] Pope123: (14.Rg1) I dont really see how to break through here
+[12:21:59] Silkthewanderer: Bg5 Qf3 Qh4 is a threat
+[12:22:14] Silkthewanderer: Which was well prepared by the last few moves
+[12:26:03] Fischer_and_Chips88: doesn't Qh3 just walk into e5
+[12:26:18] Fischer_and_Chips88: oh qh7
+[12:29:05] guitarspider: Qg3 and h4-h5?
+[12:32:24] Silkthewanderer: Apparently
+[12:32:39] Pope123: (16.Qg3) I could consider Na4 Bf8 Qxb2 Rb1 next move, but feels unnescessary
+[12:32:39] Pope123: (16.Qg3) h4-h5 much more straightforward
+[12:33:25] Fischer_and_Chips88: Nxb2
+[12:33:25] Fischer_and_Chips88: but yeah h4 h5 looks good
+[12:33:40] Pope123: (16.Qg3) Nvm i would need to connect rooks first
+[12:34:10] Pope123: (16.Qg3) for Rb1
+[12:36:58] Pope123: (16.Qg3) Bf8 h4 Rg7 looks really weird but kind of strong?
+[12:42:32] Pope123: (17.Na4) damn Na5
+[12:42:48] Pope123: (17.Na4) Im tired
+[12:43:03] Pope123: (17.Na4) Althought then Be5
+[12:46:52] Pope123: (18.Nb6) Lets just go for it
+[12:50:11] Feet_Barbie: Go chess
+[12:50:11] Fischer_and_Chips88: O-O-O now?
+[12:51:42] compact-hausdorff: 20. go pope!
+[12:51:58] Pope123: (20.Nc8) They might keep the bishop, not unreasonable
+[12:53:14] Fischer_and_Chips88: not often you see a knight on c8
+[12:53:44] Pope123: (20.Nc8) how to deal with e5?
+[12:53:59] Pope123: (20.Nc8) Nxe7 is check luckily
+[12:53:59] Fischer_and_Chips88: e5 Nxe7 is check
+[12:54:45] guitarspider: Nxa7 Bg7 c3 looks sage enough?
+[12:55:15] Fischer_and_Chips88: I'd still go for h4 h5
+[12:55:46] guitarspider: Yeah, I don't quite get it. But I'm also not calculating.
+[13:02:22] Pope123: (24.Be5) I did consider Bd6 earlier, would have been better than ax
+[13:02:37] jg777: What a game!
+[13:04:39] Zubenelgenubi: funky pawn formations
+[13:07:12] jg777: pope's DSB is a rockstar piece right now, just doing everything at once, beautiful piece.
+[13:08:28] bufferunderrun: Idk about Qa5 tbh... I thought Bg7 was kind of needed here
+[13:08:43] jg777: I agree, Bg7 would have been what I played.
+[13:08:58] bufferunderrun: now I'm thinking maybe hxg and sac the exchange back
+[13:09:14] jg777: There isn't much to attack right now, Qa1 doesn't do anything for kykyche.
+[13:09:14] jg777: I like Rb3 for white here. Lets invite on the 8th if allowed.
+[13:09:29] jg777: invade*
+[13:10:14] jg777: Qg4 looks good too, going after e6 and all.
+[13:11:15] Zubenelgenubi: Is Rc3 an idea?
+[13:11:31] guitarspider: Feels more difficult for Black in time trouble
+[13:11:46] Mennonite: Agreed
+[13:12:01] Zubenelgenubi: Oh Bb4 then
+[13:12:01] jg777: Yes! One reason I'd want to trade off the DSB's as kykyche, make my king a little bit safer generally.
+[13:12:16] Silkthewanderer: hxg6 is a pretty severe threat rn
+[13:12:31] Pope123: (27.Qg4) Not playing Qg5 was weird but whatever
+[13:12:31] Silkthewanderer: If you can force the pawn to take back, the h file might decide
+[13:12:47] jg777: whoa, big move!
+[13:13:02] Zubenelgenubi: we have a mate threat
+[13:13:02] Silkthewanderer: Qxe6 and Qc8 are checks, fortunately
+[13:13:17] jg777: Yes, but Qxe6 and always b3 is there for white
+[13:13:17] Silkthewanderer: But very strong as a bluff
+[13:13:32] Silkthewanderer: This is what you DONT want to see on increment
+[13:13:48] jg777: Oh no, the star bishop!
+[13:14:03] jg777: I thought pope ha Qxe6+ then b3, allowing the bishop to cover a1.
+[13:14:18] Zubenelgenubi: we're good
+[13:14:33] Zubenelgenubi: B and e6 threatened
+[13:14:48] fritsj: It's still excellent for White
+[13:14:48] guitarspider: c3 was probably also good
+[13:14:48] jg777: Qxe6+!
+[13:14:48] PatchyThePirate: rook is loose!!!
+[13:15:04] Zubenelgenubi: Qc8
+[13:15:19] bufferunderrun: I wanted hxg first
+[13:15:19] PatchyThePirate: gg
+[13:15:19] fritsj: GG
+[13:15:19] PatchyThePirate: what a game!
+[13:15:19] jg777: What a game!!
+[13:15:19] bufferunderrun: gg
+[13:15:34] Micomps: Gg
+[13:15:34] jfiras: gg !
+[13:15:34] guitarspider: GG
+[13:15:34] Fischer_and_Chips88: gg
+[13:15:34] Zubenelgenubi: gg
+[13:15:34] FinErik: gg
+[13:15:34] Mennonite: gg
+[13:15:49] jg777: one win down, that's 3.5/4 to go today! WOW! :)
+[13:16:35] jg777: MrScribbles is up next I think in less than an hour! Wuhooo!
+[13:16:50] fritsj: See you all there!
