@@ -1,0 +1,218 @@
+Lichess game chat log
+Game      : https://lichess.org/fuQgfilh
+White     : jcuriel85
+Black     : zubenelgenubi
+Time      : 45+45
+Captured  : 2026-05-31 20:01:08 UTC
+Game ended : 2026-05-31 18:40:56 UTC
+Messages  : 208
+────────────────────────────────────────────────────────────
+
+[16:07:45] guitarspider: goooo Zube!
+[16:10:48] Zubenelgenubi: hi everyone, I'll be in zen mode mostly, quite nervous.
+[16:12:04] Silkthewanderer: Go Zubes
+[16:16:38] guitarspider: (9...Bd7) Be2 is very unusual
+[16:18:40] Silkthewanderer: It seems on brand for White. They have a bunch of early sidelines in their repertoire
+[16:18:55] Silkthewanderer: R-R is pretty good at pressuring these, not worried for us
+[16:22:43] guitarspider: (10...h6) It's a good start at least.
+[16:22:58] jcarmody: Go zube!
+[16:23:29] Zubenelgenubi: there's a Nxe4 tactic after the K goes to b1, not with the B on g5 though
+[16:26:16] Zubenelgenubi: I think I'm ok with both Qb6 and a5 after Qxd6
+[16:30:20] guitarspider: (13.f3) I don't really understand White's plan. Trade everything any play something?
+[16:30:20] guitarspider: (13.f3) simple?
+[16:31:51] MrScribbles: (13.f3) Goooo zube!
+[16:36:10] guitarspider: (13.f3) I assume 0-0 Qxd6 Qb6
+[16:36:56] fritsj: Be7 wouldn't be too bad I suppose
+[16:37:11] fritsj: I don't like that Qb6 blocks the b-pawn
+[16:37:56] guitarspider: (13.f3) maybe Qa5 instead
+[16:38:12] guitarspider: (13.f3) Be7 feels like a concession without reason, but it's got to be ok.
+[16:38:57] fritsj: How about Ke7?
+[16:39:13] guitarspider: (13.f3) wild :D
+[16:39:28] guitarspider: (13.f3) I think you can just sac the d6 pawn, some Najdorf positions are like that as well.
+[16:39:58] fritsj: Yeah happens a lot... but the Bishop on c6 is kinda hanging so takes a lot of time to get the b-pawn moving
+[16:39:58] fritsj: Not sure...
+[16:40:29] fritsj: I mean in that Qxd6 Qa5 line
+[16:40:44] fritsj: But White is also not attacking very quickly
+[16:42:00] Zubenelgenubi: Qa5 is my only idea after Qxd6
+[16:42:15] guitarspider: (13...O-O) with the Bf6, do you really need b5 quickly?
+[16:42:46] guitarspider: (13...O-O) it's kinda hard to defend all the Rc8 Bxc3 type ideas type
+[16:43:01] guitarspider: (13...O-O) maybe I'm too optimistic
+[16:43:47] Zubenelgenubi: maybe Qb6 does work too, after e5 a R to d8
+[16:45:33] guitarspider: (14.Bc4) ok, now b5 is suddenly very attractive
+[16:46:53] stevenlongs: yesss.....yes it does *rubs hands together*
+[16:47:24] guitarspider: (14.Bc4) I think b5 Bb3 might just be straight up lost
+[16:47:54] guitarspider: (14.Bc4) So the bishop would have to return to d2 or maybe Bd3
+[16:48:25] guitarspider: (14.Bc4) but if Bd2 b4 the knight is stuck, so that won't work either
+[16:50:11] guitarspider: (14.Bc4) so b5 Bd3 Qb6 is logical and that's scary for White
+[16:51:12] NameGoesInHere: (14...Qa5) go zube!
+[16:51:12] guitarspider: (14...Qa5) or b5 Bd3 b4 of course
+[16:52:13] Tranzoo: Ne2 is my blitz move
+[16:54:00] guitarspider: (14...Qa5) definitely don't want to trade queens, so I guess Ne2 Qb6
+[16:56:47] guitarspider: (15.Ne2) then c3 Rdf8 probably
+[16:57:03] guitarspider: (15...Qc5) maybe you can also put the queen somewhere else.... and as I type that it goes to c5
+[16:57:18] guitarspider: (15...Qc5) that keeps the b5 push alive and also looks nice
+[16:58:03] PatchyThePirate: go zube!!
+[16:58:34] guitarspider: (15...Qc5) Bb3 Rfd8 something and then a5
+[16:58:49] guitarspider: (15...Qc5) also scary for White
+[16:59:50] MrScribbles: (16.Bb3) yeah I would want black here
+[16:59:50] MrScribbles: (16.Bb3) But I'm definitely biased
+[16:59:50] PatchyThePirate: dang spider you're just predicting every move huh
+[17:03:08] guitarspider: (16...Rfd8) it's mostly typical play, so it looks more impressive than it is :D
+[17:03:38] guitarspider: (16...Rfd8) but also luck, there were a bunch of other reasonable options and Zube could easily have gone with those.
+[17:05:25] Silkthewanderer: Blacks move at least are thematic. The White ones are a bit harder to predoct
+[17:09:44] MrScribbles: (17.Nd4) Does Be8 do anything?
+[17:10:30] guitarspider: (17.Nd4) Are we even sad if White takes on c6 and opens the b-file?
+[17:11:02] MrScribbles: (17.Nd4) I was trying to figure that out guitarspider
+[17:11:17] MrScribbles: (17.Nd4) Open b-file looks nice, though it's hard to attack with the c-pawn and maybe you want to attack with both a and b pawns
+[17:11:32] MrScribbles: (17.Nd4) well, maybe you can attack with Charlie. Idk hard to say
+[17:11:32] fritsj: Well the b-file is only useful if you can dislodge the b3 Bishop but after a5 White could always play a4
+[17:11:48] MrScribbles: (17.Nd4) Also, trading pieces makes draw more likely
+[17:11:48] guitarspider: (17.Nd4) I'm not sure, but I'm definitely tempted to just play a5 here. If Nxc6 the Bb3 is an awful awful piece to be left with and Black
+[17:11:48] guitarspider: (17.Nd4) has amazing central control
+[17:12:18] guitarspider: (17.Nd4) plus different color bishops should favor the attack, so black as well
+[17:12:48] guitarspider: (17.Nd4) what I haven't figured out yet is if a5 Bxe6 works
+[17:13:34] MrScribbles: (17.Nd4) good point, I think it does
+[17:13:49] guitarspider: (17.Nd4) well, we have Qe5 threatening mate and the knight?
+[17:14:35] MrScribbles: (17.Nd4) good point, I not think doesn't it not think work
+[17:14:35] guitarspider: (17.nd4) :d
+[17:14:50] guitarspider: (17.Nd4) if you're really worried about it you can probably start with d5
+[17:16:52] guitarspider: (17...Bd7) hmmm, that seems like an awkward spot for the bishop
+[17:20:41] guitarspider: (17...Bd7) yeah, I don't like it, even if I understand why that move was made
+[17:21:27] guitarspider: (18.h4) the reason I was happy to trade this bishop is that it does not have a good square and it won't have one for a long time
+[17:21:57] guitarspider: (18.h4) Bd7 and Be8 are not good squares
+[17:22:12] Pope123: (18.h4) Come on Z! God wills it!
+[17:28:48] Zubenelgenubi: I can almost premove a4 here
+[17:32:06] NameGoesInHere: (20.Ba2) b5-Rb8-b4 seems like the obvious plan for black here?
+[17:32:52] guitarspider: (20.Ba2) the other typical plan would be d5
+[17:33:07] guitarspider: (20.Ba2) but I'm not sure how to evaluate either with the Bd7
+[17:35:09] NameGoesInHere: (20...Ra6) yeah, and if you planned to go b5 you might hold off on a4?
+[17:39:12] guitarspider: (21.g3) Rb6 must have been the idea?
+[17:39:27] guitarspider: (21...Rb6) oof
+[17:39:43] guitarspider: (22.Ka1) I do not envy white.
+[17:52:10] Pope123: a4 instead of g5-g4 feels like a lost opportunity
+[17:52:56] guitarspider: (23...d5) Bd7 was the culprit I think
+[17:53:26] guitarspider: (24...Bxd5) wait but...
+[17:53:41] guitarspider: (24...Bxd5) this is still super dangerous with e5 coming
+[17:54:57] Pope123: Oh yes
+[17:55:43] Pope123: (25) Qe3 or something?
+[17:55:58] MrScribbles: (24...Bxd5) g5 counterattack next
+[17:56:29] GoldenRetrieverChess: Late to the party, but gooo zube!
+[17:56:29] guitarspider: (24...Bxd5) Qe3 might work, e5 Nc2
+[17:58:46] MrScribbles: (25.Qe3) g5 counterattack
+[18:00:02] NameGoesInHere: (25.Qe3) take on a2 then ...Rbd6?
+[18:02:05] guitarspider: (25.Qe3) looks good
+[18:04:07] Mennonite: just finished up my own game, is the dream alive?
+[18:04:07] guitarspider: (27.Ka1) Yes!
+[18:04:37] guitarspider: (27.Ka1) We need 2,5 from the last three games. It's possible!
+[18:04:37] Pope123: 5-0 currently
+[18:05:23] Pope123: I'm curious if black should have picked up 2 rooks for the queen
+[18:06:24] MrScribbles: (27.Ka1) g5!
+[18:08:25] fritsj: f4? Qc1?
+[18:08:41] MrScribbles: (27...Rbd6) g5
+[18:08:56] guitarspider: (27...Rbd6) Now g5 is illegal :P
+[18:09:11] MrScribbles: (27...Rbd6) -- g5
+[18:09:11] guitarspider: (27...Rbd6) Does White have to give up a pawn here?
+[18:09:42] Pope123: I thought you meant b5 all this time scribs, what's wrong with you :)
+[18:09:42] fritsj: Don't see a way to hold on to it while also dealing with the e5 threat
+[18:09:57] MrScribbles: (27...Rbd6) I meant g5 because I'm not a coward
+[18:09:57] guitarspider: (27...Rbd6) yeah, I can't see it either
+[18:10:42] fritsj: It still won't be easily winning for Black with only major pieces on the board
+[18:10:42] Pope123: I can't argue that, you're the bravest player I know
+[18:10:58] fritsj: Will take a while
+[18:11:13] guitarspider: (27...Rbd6) True it's still work
+[18:11:43] Tranzoo: just dont flag
+[18:12:44] Inter-temporal: (28.Rc1) goo ZubenelBenoni!
+[18:18:04] guitarspider: (32.Rhc1) probably b5 so you have Rd5 as Black
+[18:19:05] Silkthewanderer: 32. ...Kf8 - bring the king
+[18:19:20] Silkthewanderer: You are unlikely to win it with the rooks alone
+[18:19:51] guitarspider: (32...Kf8) can't argue with that
+[18:20:07] MrScribbles: (32...Kf8) I just saw your message calling me brave @pope123 haha thanks
+[18:22:08] fritsj: If White does nothing Black just walks in to f4
+[18:22:24] MrScribbles: (34.f4) I agree that white should do nothing
+[18:22:39] fritsj: Hahaha
+[18:22:39] Inter-temporal: (34.f4) did smth
+[18:23:25] guitarspider: (34.f4) but now R3d4 looks good
+[18:25:57] guitarspider: (35.Rc4) ok, now the b5 and Rd5 construction is useful
+[18:26:27] Tranzoo: whatever you do just dont flag. neither side please
+[18:29:45] guitarspider: (38...Rd5) now Scribbles can get his wish with Kf6 and g5 if White allows :D
+[18:30:31] guitarspider: (38...Rd5) the white king is beautifully cut off, so this will be very difficult
+[18:30:46] fritsj: I guess White should play b3 axb3 Rxb3 and aim for Rd3?
+[18:32:17] guitarspider: (41.Re4) that looks reasonable
+[18:32:33] fritsj: Too late now I think
+[18:32:48] Inter-temporal: (41.Re4) does black make a passer by preparing g6 and e5 first? or smth else
+[18:33:03] fritsj: Or well that plan was intended against Black trying to promote on the Kingside
+[18:33:18] guitarspider: (42.Re5+) that's what I would play for inter
+[18:33:34] guitarspider: (42.Re5+) as the white king is cut off
+[18:33:49] Inter-temporal: (42...Kc6) ty. :)
+[18:34:19] fritsj: Maybe f5 is a move here
+[18:34:34] Inter-temporal: (43.f5) totally
+[18:34:51] fritsj: How about a nice turnaround: f5 Kd6 fxe6 Kxe5 e7
+[18:34:51] fritsj: Oh nevermind there is Rc1+ Rc8 haha
+[18:35:21] guitarspider: (43.f5) Rd5 I guess
+[18:35:36] guitarspider: (43.f5) if rook trade exd5 is always winning
+[18:35:51] fritsj: Then fxe6 Rxe5 exf7 wins no?
+[18:35:51] MrScribbles: (43.f5) I might go Rc1+ first
+[18:36:07] fritsj: If Rd5
+[18:36:07] waterlorda7890: rd5 fxe6?
+[18:36:22] guitarspider: (43.f5) Rxe5
+[18:36:22] MrScribbles: (43.f5) good point
+[18:36:37] waterlorda7890: exf7
+[18:36:37] NameGoesInHere: (43.f5) rd5 exf6 Rxe6 exf7 there is Re3+ for black
+[18:36:52] fritsj: Yesss very clever
+[18:37:08] waterlorda7890: yeah missed the check
+[18:37:08] Inter-temporal: (43...Rd5) then Re3+ and Rf3, i think
+[18:37:08] fritsj: At least White will succeed in giving Black a heart attack before losing
+[18:37:23] guitarspider: (43...Rd5) yes :D
+[18:37:38] Inter-temporal: (43...Rd5) lol. for sure
+[18:37:38] EnPriseWithEase: Is that a mistake?
+[18:37:53] EnPriseWithEase: fxe?
+[18:37:53] guitarspider: (44.fxe6) I mean Rd5 Re4 just loses another pawn as far as I can see, so might as well try fxe6
+[18:37:53] Tranzoo: what
+[18:38:08] Tranzoo: oooo
+[18:38:08] fritsj: And Black should be winning now
+[18:38:08] Tranzoo: ok yeah of course
+[18:38:24] Inter-temporal: (44.fxe6) time pressure though
+[18:38:24] Tranzoo: this is where I would panic
+[18:38:39] Mennonite: Panicking is allowed since season 42 is over
+[18:38:54] guitarspider: (44.fxe6) If Zube doesn't find it he can get a drawn endgame with fxe6
+[18:38:54] Pope123: Big moments
+[18:39:09] Inter-temporal: (44.fxe6) ugh. menno. had to go there?
+[18:39:09] EnPriseWithEase: exf now
+[18:39:25] guitarspider: (45...Re3+) nice
+[18:39:25] Tranzoo: there it is
+[18:39:25] fritsj: Good game!
+[18:39:25] EnPriseWithEase: Ohhh
+[18:39:25] guitarspider: (45...Re3+) that was a good try by white
+[18:39:25] GoldenRetrieverChess: Wow awesome
+[18:39:40] Pope123: 6-0 totally not rigged
+[18:39:40] Tranzoo: no panic by zubel
+[18:39:55] EnPriseWithEase: Missed the check
+[18:39:55] Tranzoo: jcarmody is up next
+[18:40:10] MrScribbles: (45...Re3+) I say we give them a sporting chance, let them queen
+[18:40:10] guitarspider: (45...Re3+) It's easy to miss @EnPriseWithEase
+[18:40:10] Pope123: I'm watching finals right now @tranzoo :P
+[18:40:26] guitarspider: gg!
+[18:40:26] Tranzoo: gg
+[18:40:26] Mennonite: gg
+[18:40:41] Inter-temporal: gg
+[18:40:41] Pope123: Gg wp
+[18:40:41] GoldenRetrieverChess: gg
+[18:40:41] fritsj: GG
+[18:40:41] EnPriseWithEase: Under pressure
+[18:40:41] jcarmody: gg
+[18:41:11] EnPriseWithEase: Cheering for you guys
+[18:41:11] Zubenelgenubi: wow
+[18:41:11] EnPriseWithEase: Good game
+[18:41:26] Pope123: Apreciated <3
+[18:41:26] fritsj: 6-0 right now, this is wild
+[18:41:26] Zubenelgenubi: good game, nice fight
+[18:41:43] Pope123: Perks of having the pope on your team
+[18:41:58] Pope123: Miracles can happen
+[18:41:58] fritsj: Hahaha
+[18:42:59] fritsj: Well if you guys pull it off then surely your whole team deserves to be declared holy by you
+[18:43:14] guitarspider: haha
+[18:45:00] Tranzoo: its a sensational final weekend
+[18:45:17] Zubenelgenubi: my head is on fire, glad I didn't mess up in time trouble
+[18:45:47] Zubenelgenubi: 6 games otb with a LW tc helped
+[18:52:38] Zubenelgenubi: thx for all the comments everyone
+[18:52:53] Zubenelgenubi: and yes, I totally did panic
