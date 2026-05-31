@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/K9bih2gn
+White     : aactrl
+Black     : aloo_bhaloo
+Time      : 45+45
+Captured  : 2026-05-31 18:41:56 UTC
+Game ended : 2026-05-31 17:21:45 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[15:02:35] Joonaf: Go aloo_bhaloo!
+[15:03:20] sivakumarr: Go AACtrl!
+[15:04:21] AACtrl: (4...e6) what if I played g3 for a change?
+[15:08:09] AACtrl: (7...b6) Nbd2 c5 e4!??
+[15:14:45] AACtrl: (9...Ba6) Qc2 Rc8 Re1 c5 worries me
+[15:16:16] AACtrl: (9...Ba6) do I need to prepare e4 that much? guess so
+[15:17:17] AACtrl: (10...Rc8) if I push e4 now, I'll forget about my rook lined up with their bishop...
+[15:25:39] AACtrl: (11.Rfe1) 11...dxc4 bxc4 c5 dxc5 Nxc5 b4...
+[15:28:56] AACtrl: (12...Nxc5) b4 or Rad1?
+[15:29:42] AACtrl: (12...Nxc5) b4 doesn't do much
+[15:35:02] AACtrl: (13...Qc7) Be5 Bd6 Bxf6 gxf6 b4 Nd7 e4?
+[15:36:48] AACtrl: (14.Be5) although 14...Qb7 Qb2 Ncd7 my bish looks silly
+[15:37:34] AACtrl: (14...Qc6) althoooough, black queen on my lsb' sight...
+[15:39:05] AACtrl: (14...Qc6) b4 Qa4 then....?
+[15:41:37] AACtrl: (14...Qc6) or Nd4 first?
+[15:42:53] AACtrl: (14...Qc6) b4 doesn't seem to work
+[15:48:29] AACtrl: (14...Qc6) Ng5!? g6 Qb2 Nfd7 nothing..
+[15:49:45] AACtrl: (14...Qc6) wait, then Ba8, oh I must be miscalculating, too crude to work
+[15:52:02] AACtrl: (16.Qb2) Ba8 f6, you idiot!
+[16:03:27] AACtrl: (22...Nxe4) I messed-up somewhere
+[16:11:19] AACtrl: (24...Bb7) Qc7 Bxe4 Qxd7 Bf8 Bxe4 Qxe4 Qxa7 Qe1+=?
+[16:17:57] AACtrl: (25...f5) I messed-up more
+[16:41:48] AACtrl: (35...Bc5) don't crack don't crack don't crack
+[16:44:35] AACtrl: (36...Ke7) check 36...Kc8
+[16:52:48] AACtrl: (40.Bc4) I'm gonna regret this
+[16:53:03] jfiras: (40.Bc4) no you will be fine (i hope)
+[16:53:18] AACtrl: (40.Bc4) 40.Qxa5 pretty sure is terrible
+[17:06:45] AACtrl: (49.f3) I know the future, I'm going to lose
+[17:23:31] aloo_bhaloo: 27.. kf7 went wrong  I guess, totally missed this bf1-c4 thing and wasted a bunch of moves
+[17:23:46] aloo_bhaloo: was going to be an easy draw otherwise
