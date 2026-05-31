@@ -1,0 +1,86 @@
+Lichess game chat log
+Game      : https://lichess.org/m0mHDN85
+White     : micomps
+Black     : compact-hausdorff
+Time      : 45+45
+Captured  : 2026-05-31 22:38:05 UTC
+Game ended : 2026-05-31 21:17:59 UTC
+Messages  : 76
+────────────────────────────────────────────────────────────
+
+[19:01:03] R0B-W: (1...d5) Go, compact-hausdorff!
+[19:01:18] R0B-W: (1...d5) Ooh, Scandi
+[19:01:33] fritsj: Let's go micomps!
+[19:01:33] Micomps: fully prepared for 1...c5. Alas...
+[19:02:19] Micomps: (3..Qd6) I used to play the Scandinavian a lot, but played 3...Qa5
+[19:04:36] Micomps: (5.d4) I am not sure on any theory here, so just playing principled, simple and steady chess
+[19:06:22] Micomps: (6..Nd7) so I guess castles long for black. Fun! Now debating maybe g3 or h3
+[19:06:38] Micomps: g3 after Be2 looks a bit odd, but with black looking queenside to castle, might be nice. Need to give this a bit of thought now I think
+[19:07:08] Micomps: also need to try and be (controlledly) aggressive as our team needs a win in this game to tie at 4-4
+[19:09:56] Micomps: (7.h3) went h3 in the end, just feels a bit more structured than g3
+[19:10:41] compact-hausdorff: (7...Bh5) Good old Scandi... IMO overhated by engines, and a fantastic way to get out of book on move 1
+[19:11:12] compact-hausdorff: (7...Bh5) Which I hope to have already achieved, but let's see
+[19:15:30] Micomps: (8.g3) I like this position, feels like I'm going to be able to keep ahead in development
+[19:18:03] Micomps: (10.a3) pretty sure black won't fall for Qxb2 here
+[19:19:19] Micomps: not sure if Qa5 or Qb6 is better for black
+[19:21:05] fork2020: Go compact-hausdorff!
+[19:23:07] Micomps: (10..Qb6) two choices. o-o or g4. g4 feels too loose, not terrible but too aggressive too soon
+[19:23:22] Micomps: and o-o just gets king out of the way
+[19:46:13] Micomps: (12..Qd8) so I think I'm going to play c4 here. I was looking at b4 to prevent c5, but actually c4 kind of does that as well
+[19:46:28] Micomps: also frees up the queen to come to c2 or b3
+[19:47:44] Micomps: (13.c4) this also now prevents b5 as well. b4 for me is still an option, but maybe a rook move next, depends on black's reply I guess
+[19:48:15] Micomps: this feels comfortable for me at the moment, but not entirely sure it is anywhere near winning
+[20:02:13] Micomps: (14.Nxb6) I am not convinced this was best. Did look at Re1 but thought might be passive. Need to keep pushing here
+[20:04:46] Micomps: hoping for Qx then I can go c5 and keep the bishop pinned in
+[20:05:01] Micomps: but don't think axb is disastrous , maybe just Qb3 there?
+[20:11:38] compact-hausdorff: (15...Qd8) I take it back, the Scandi is a BAD OPENING
+[20:11:53] compact-hausdorff: (15...Qd8) Mr. Bartholomew I don't feel so good
+[20:17:28] Micomps: (16.Re1) feels like a consolidation period here, just getting ready for next phase of the game
+[20:17:59] Micomps: not sure if my a1 rook belongs on b1 to try and get b5 in sometime, or on d1 to anchor d4
+[20:20:16] Zubenelgenubi: go ch
+[20:30:56] compact-hausdorff: (20...Rfe8) I think I've improved somewhat with the B:f3 business, but still feeling nauseous about the current position
+[20:32:28] compact-hausdorff: (20...Rfe8) I think I'll need to play simply and wait for an opportunity
+[20:32:43] Micomps: (21.Be5) I would like black to try and kick this bishop away with Nd5 and f6, hopefully then make some inroads
+[20:33:13] Micomps: not sure where to push otherwise, maybe Qc4 and push the b-pawn a little?
+[20:35:46] Micomps: (22.Qc4) I would be very happy with...f6, Bf4 Nxf4, gxf4. But not sure black will allow that somehow
+[20:41:37] Micomps: (23.h4) this is getting blocked, need to try and find an opening somewhere
+[20:43:24] Micomps: can I go Kh3 and push g4?! That seems a bit much...but maybe something to keep in mind as an option
+[20:46:43] compact-hausdorff: (24...Red8) Lord help me
+[20:48:14] Micomps: (25.Rd4) I mean, I now have a path to the kingside, but how quick I can get this rolling is another matter
+[20:49:47] Micomps: (25...Nb6) ooh, isn't that just a pawn on b7? Need to double check this
+[20:58:09] Micomps: (28...g6) feel like I have a few options here and not sure which is best...Bxc6, Rb4, Re2 all look ok
+[21:02:43] Micomps: (30.Bf3) thinking Rxc, b4 Rxe, Rxr, NxR, Rxa7
+[21:02:43] Micomps: gives me two connected passers
+[21:03:44] Micomps: (30...Nxb2) surprised they took that one. Just push the c-pawn now...right? Or is Nd3 a problem....
+[21:04:15] Micomps: not sure it is but need to check before throwing c6 in
+[21:05:00] Micomps: c6 Nd3, Re2 RxR, BxR Nxe5, c7 and then black can't go Kf8 because of Rb8
+[21:05:31] Micomps: if Kg7 then I think I can just reroute the bishop to attack c8
+[21:08:04] Micomps: (32.Re2) heart froze then when I saw Ne1+ but thankfully does nothing
+[21:09:20] Micomps: actually Ne1 did nothing, RxN...thought I was pinned for some reason
+[21:13:54] Micomps: (37...Rf8) Oh *&£% I did not follow this line through and thought I was winning here
+[21:13:54] Pope123: (37...Rf8) Go potsdorf!
+[21:14:09] Micomps: this might still be ok but now my Rd8 plan doesn't work
+[21:14:41] Micomps: think it's fine, a-pawn to the rescue
+[21:15:11] nyanners: close one XD
+[21:16:27] nyanners: this should do it
+[21:16:58] nyanners: rd8 rc5 c8q still forces both rooks off
+[21:17:13] nyanners: gg
+[21:18:44] Micomps: man, I thought I had thrown that away when you played Rf8 at the end for a moment
+[21:19:00] compact-hausdorff: haha that was a pure vibe check
+[21:19:15] Micomps: I was fully expecting a Sicilian, then you played the Scandi!!!
+[21:19:30] compact-hausdorff: second game in a row where I blunder a basic tactic... obviously didn't see R:b7
+[21:19:30] compact-hausdorff: oh well, back to chesstempo
+[21:19:45] Micomps: I think having Bxc6 as an option helped there, tbh
+[21:20:16] compact-hausdorff: never playing this again though, that was horrific
+[21:21:01] Micomps: It felt like I always had a bit more room to move everything around
+[21:21:16] compact-hausdorff: I don't think I even did something super bad out of the opening, but after you get Bf4 AND c4 in the position is just claustrophobic
+[21:21:47] Micomps: Yeah, after 15...Qd8 I'm feeling happy. Computer says +1.2 at that point, even though it's not super clear what I'm meant to do next
+[21:21:47] compact-hausdorff: If you played g4 instead of Re1 it would've been resignable hahah
+[21:22:17] nyanners: ive become a Qd6 hater with time. its Qa5 or Qd8 unfortunately
+[21:22:17] Micomps: I didn't even look at g4 there
+[21:22:32] compact-hausdorff: the idea of Qd6 is even to NOT allow Ne5, and clearly it doesn't work
+[21:23:03] nyanners: that said im a bit partial to Qa5. kinda like it these days
+[21:24:04] compact-hausdorff: In any case, well played Micomps! I think you've successfully removed this from my repertoire :D
+[21:24:04] compact-hausdorff: And sorry team for the L
+[21:25:20] Micomps: Yeah, Qa5 is what I used to play in the Scandbi "back in the day"
+[21:26:05] Micomps: Hahaha, thanks compact - good game and thank you for playing, shared the points for our teams this week1
