@@ -1,0 +1,165 @@
+Lichess game chat log
+Game      : https://lichess.org/XNSyAZSW
+White     : echo3s
+Black     : mizrab
+Time      : 45+45
+Captured  : 2026-06-01 12:36:09 UTC
+Game ended : 2026-06-01 11:15:58 UTC
+Messages  : 155
+────────────────────────────────────────────────────────────
+
+[09:06:45] simonWasHere: Go Mizrab!
+[09:47:21] bufferunderrun: last game of the season, let's go!
+[10:01:33] glbert: yes, let's make some noise in here.
+[10:02:34] bufferunderrun: I fell asleep and missed tonight's drama.
+[10:03:04] bufferunderrun: This one has to be as exciting now!
+[10:03:36] DavidSifre: Green those 3 points Mizrab!!
+[10:03:51] DavidSifre: Grab
+[10:03:51] glbert: or green.
+[10:04:06] DavidSifre: However you do it!
+[10:04:37] DavidSifre: Free pawn
+[10:07:39] DavidSifre: Board 8 says take the pawn. I don’t know what happens next but it looks good to trap the king
+[10:08:56] DavidSifre: Or Qa3 and take one of the other two
+[10:09:11] DavidSifre: My plan would be to take all of them.
+[10:09:11] bufferunderrun: black takes a pawn, white takes a pawn, everybody takes the pawn
+[10:09:41] DavidSifre: White can’t take a pawn.
+[10:10:12] bufferunderrun: c6 pawn?
+[10:10:57] DavidSifre: You are talking to a person that will lose to a bunch of blindfolded players.
+[10:11:58] bufferunderrun: oh no, you won't trick me like mr. scribbles, I won't fall for this trap again :p
+[10:18:34] bufferunderrun: Idk, insert a4 and break the pin, so that c5 could be played...
+[10:22:23] bufferunderrun: the reason why I kind of looking at a4 is that after Rb4 c5 attacks th rook and any captures come with a check on c5 and c3 hangs
+[10:23:23] simonWasHere: s5 maybe
+[10:23:23] simonWasHere: e
+[10:24:09] simonWasHere: This works too maybe better actually
+[10:24:24] bufferunderrun: e5 doesn't work, like dxe5 and Qxe5 blunders a queen after Bh7+
+[10:25:10] DavidSifre: Qxg3 ALSO blunders a queen. Even though it was a free pawn earlier.
+[10:25:10] KamagayaJiji: 24... e5 dxe5 Qxe5?? Bh7+
+[10:25:40] simonWasHere: ah true
+[10:25:40] bufferunderrun: but I still kind of think black should have played a4 before c5
+[10:27:12] bufferunderrun: also, in case of Qe3 covering Qxc5+ and protecting the pawn on c3, there is Rd2+
+[10:27:27] KamagayaJiji: Yeah, there’s a good argument for a5 first, giving opp a chance to make mistakes
+[10:27:27] bufferunderrun: so this would tragically blundered a queen as well
+[10:29:29] bufferunderrun: I guess one can insert a4 later, like if 25.dxc5 Qxc5+ Kf1 (since Qe3 Rd2+) a4 and c3 hangs again
+[10:30:14] bufferunderrun: Rd1 now protects against Rd2+, enabling Qe3
+[10:30:14] DavidSifre: 25...c4?
+[10:30:14] DavidSifre: ?
+[10:30:45] bufferunderrun: ooh
+[10:30:45] bufferunderrun: nice
+[10:31:00] bufferunderrun: Bd3 c4
+[10:31:31] bufferunderrun: actually, no lol
+[10:31:31] bufferunderrun: what am I talking about
+[10:31:31] KamagayaJiji: Bb7?
+[10:31:46] DavidSifre: That’s where I would go. So it’s not very good.
+[10:32:01] bufferunderrun: but Bd3 cxd4 though
+[10:33:32] KamagayaJiji: Ba6
+[10:36:05] KamagayaJiji: Or f4 fixing the backward e pawn...
+[10:36:51] KamagayaJiji: f4 g5 and a fight...
+[10:37:37] bufferunderrun: Ba6 e5 or does white just play d5 hmmm
+[10:38:38] bufferunderrun: I guess e5 is still on the table despite f4
+[10:38:53] simonWasHere: How about cxd4
+[10:39:09] bufferunderrun: like e5 fxe5 Rxe5 Qxe5 Qxe5 dxe5 Rxd1
+[10:39:24] tommeketoch: They have only 1 hour and half to finish the game? Can they make it a 100 move classic?
+[10:40:40] guitarspider: go both
+[10:41:26] bufferunderrun: cxd looks wrong to me
+[10:42:27] bufferunderrun: the issue with the rook on d1 is basically resolved, e6 is backwards
+[10:43:12] DavidSifre: As the last game of the season Mizrab has a chance to win the finals!
+[10:43:58] KamagayaJiji: Rb5
+[10:44:59] bufferunderrun: or Qd3 perhaps
+[10:45:45] DavidSifre: That at least protects the pawn too
+[10:45:45] KamagayaJiji: Well, Rb5 hangs the c pawn...
+[10:46:15] DavidSifre: Yes that’s why queen move may be better
+[10:46:30] NameGoesInHere: (28...Qc5) Rb5 Qxc3 we can try Rxd8 Rxd8 Qxc6+? no sure what's happening there
+[10:47:01] KamagayaJiji: Rb5 Qxc3 Rxa5...
+[10:47:31] bufferunderrun: doesn't Rxa5 hang d4 rook?
+[10:47:46] KamagayaJiji: Well, trade off the rook first...
+[10:48:02] bufferunderrun: yeah, and then Qxe6+
+[10:48:02] KamagayaJiji: sorry my lazy calc...
+[10:49:18] bufferunderrun: no worries, I'm not calculating anything myself either
+[10:49:33] bufferunderrun: just throw in some semi-random moves and let others calculate them for me :p
+[10:51:04] DavidSifre: I’m the only one here thinking three moves ahead.
+[10:51:04] NameGoesInHere: (29.Rb5) the queen doesn't actually have many squares here, so i guess Qe7 to hold the e6 pawn?
+[10:51:04] bufferunderrun: that is correct
+[10:51:50] DavidSifre: Some say that thinking wrong from move 1 means the whole calculation is flawed.
+[10:52:05] bufferunderrun: this is exciting
+[10:52:20] bufferunderrun: someone is getting chechmated
+[10:52:36] bufferunderrun: I'm not sure who though yet
+[10:53:06] simonWasHere: Think is ok for black but not sure
+[10:53:21] DavidSifre: All of white pieces are misplaced.
+[10:54:22] KamagayaJiji: Kg1 and will be safe on h2...
+[10:54:22] DavidSifre: Rd2+ then mate.
+[10:54:53] DavidSifre: Or win the Queen.
+[10:55:23] DavidSifre: Or at least 2 pawns.
+[10:56:09] bufferunderrun: I don't see a mate yet
+[10:56:24] DavidSifre: No because king can run to the a file.
+[10:56:24] NameGoesInHere: (32.Qxf5) hm, a random line could be Qxf5 Rd2+ Kg1 Qxg3 Qf8+ Kh7 Be4+ g6 and a perpetual (all of these moves are probably wrong)
+[10:56:39] bufferunderrun: let's say Bf3 Rd2+ Kg1 Qa1+ Kh2 there is no Rd1 yet
+[10:58:11] DavidSifre: Took check. Queen takes the g pawn
+[10:59:12] DavidSifre: Then there is a mate I think.
+[10:59:27] bufferunderrun: there is always a mate, mate
+[10:59:42] NameGoesInHere: (32.Qxf5) hm, can we start with Qd4+ to stop Kg1?
+[10:59:57] guitarspider: Isn't it mate?
+[11:00:12] tommeketoch: it should be
+[11:00:28] DavidSifre: Rd2, Kg1, Qxg2 then Rd1#
+[11:00:43] tommeketoch: but then white has perp
+[11:00:58] NameGoesInHere: (32.Qxf5) Qd4+ Kf1 Qd1+ Kf2 Rd2+ Ke3 Qe2#?
+[11:00:58] tommeketoch: so it needs to be all checks. the moment the rook leaves d8
+[11:01:13] simonWasHere: Yeah Qd4 is clevet
+[11:01:29] simonWasHere: Clever
+[11:02:29] tommeketoch: and white has not even something clever to do. Any square the king goes to Qd1 is the follow up check
+[11:03:00] DavidSifre: Now to see it with short time.
+[11:03:00] bufferunderrun: see, this why I wanted moves like Bf3 :p
+[11:03:30] tommeketoch: would be very nice end for the season
+[11:03:46] NameGoesInHere: (32.Qxf5) Qd4+ Kf3 Qd1+ Ke4 Qe2# is a nice one
+[11:04:01] bufferunderrun: yeah, Qd4+ is nice
+[11:04:16] NameGoesInHere: (32.Qxf5) the king is blocked in by his own queen
+[11:04:31] tommeketoch: I guess getting to Ke3 is maybe triciest defence?
+[11:04:46] bufferunderrun: but we need more drama
+[11:04:46] tommeketoch: after Qd1
+[11:05:18] bufferunderrun: yay, more drama!
+[11:05:33] tommeketoch: Yeah I felt like Qd4 was high ask. Feels that would be automatic promotion of board for black
+[11:06:04] tommeketoch: white now winning?
+[11:06:04] bufferunderrun: hld on, what about Be4 here?
+[11:06:34] tommeketoch: King is super safe on h2
+[11:06:49] DavidSifre: Be4 here? Just ignore the check?
+[11:07:20] bufferunderrun: I think Qxg3 instead of Qe3+
+[11:08:21] tommeketoch: Was that not still losijg to Qf8 Be4?
+[11:08:36] tommeketoch: I guess that b5 rook is a bit out of the attack
+[11:08:36] bufferunderrun: there is g6
+[11:08:51] NameGoesInHere: (34...Qe8) I think Qf8 Kh7 Be4 g6 I couldn't see more than a perpetual because the black queen guards g6
+[11:09:06] NameGoesInHere: (34...Qe8) (in the Qxg3 line)
+[11:09:21] KamagayaJiji: What about Re5?
+[11:10:22] NameGoesInHere: (35.Re5) black also has a perpetual threat with Qf2-h4 so Re5 after g6 would draw I think?
+[11:10:53] tommeketoch: You can get the queen to f6 with checks than something Bf3 stop the mate treat
+[11:11:08] bufferunderrun: yeah, Qg8 Be4 and Re8 is a threat now
+[11:11:08] tommeketoch: And white mate attack should get their in slow motion
+[11:11:39] tommeketoch: but I would expect that the game their would have ended in a draw
+[11:11:54] tommeketoch: ow Be4 Re8 would be magistic end of the season
+[11:11:54] bufferunderrun: might need to play Rd8 to prevent Re8
+[11:13:10] tommeketoch: I guess at that point just take on a5 and white has material+position
+[11:13:56] tommeketoch: If I am not blundering any forks :p
+[11:14:11] tommeketoch: now do they see the Re! treat?
+[11:14:26] bufferunderrun: we will find out shortly
+[11:14:41] bufferunderrun: oof
+[11:14:41] bufferunderrun: nor Rd8
+[11:15:12] tommeketoch: I think white sees it
+[11:15:12] NameGoesInHere: (36...Nc4) Rd8 Rxg2 Kxg2 Ne2+ is funny
+[11:15:27] bufferunderrun: there is a Rxg2 tactic
+[11:15:27] tommeketoch: gg!
+[11:15:27] bufferunderrun: but it doesn't work
+[11:15:27] NameGoesInHere: (37.Re8) albeit white still emerges up a piece
+[11:15:42] NameGoesInHere: (37.Re8) also just Rxg2 Kh3
+[11:15:42] bufferunderrun: still worth a try
+[11:15:57] bufferunderrun: gg
+[11:15:57] simonWasHere: gg
+[11:16:13] KamagayaJiji: gg
+[11:16:13] tommeketoch: Oh damm they should have let Qh7# be played
+[11:16:28] DavidSifre: Gg
+[11:17:14] tommeketoch: What a full season. We got great league opener, great last round top offed with great final game
+[11:18:00] echo3s: Oh god, didn't know there was this much expectation haha
+[11:18:00] Kayrosas: gg
+[11:19:16] echo3s: cool game. blundered mate in 4 there lol
+[11:20:02] tommeketoch: Qd4 very instructive. Taking away the escape square. Not letting the king get to it cozy home of h2
+[11:21:18] glbert: good game.
+[11:22:49] echo3s: Yeah, tbh I didn't even see that check, only calculated horizontal checks ^^'
+[11:25:21] tommeketoch: Wow after 36Rd8 Re6 setting up Rxh6!
+[11:25:52] guitarspider: gg
