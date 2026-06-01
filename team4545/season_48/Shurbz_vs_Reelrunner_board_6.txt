@@ -1,0 +1,266 @@
+Lichess game chat log
+Game      : https://lichess.org/wUDBGf7q
+White     : shurbz
+Black     : reelrunner
+Time      : 45+45
+Captured  : 2026-06-01 01:40:47 UTC
+Game ended : 2026-06-01 00:20:37 UTC
+Messages  : 256
+────────────────────────────────────────────────────────────
+
+[21:58:55] Le_Merovingien: Shurby Shurby Shurby!
+[21:59:10] Shurbz: Mero! I will do my best!
+[21:59:56] Le_Merovingien: This looks so promising! Go Panov!
+[22:01:43] Shurbz: e6 already feels slightly wrong
+[22:02:59] Le_Merovingien: Yup yup typ
+[22:04:30] Shurbz: hello all
+[22:05:31] NameGoesInHere: (6...Be7) i think e6 is pretty normal in these structures
+[22:05:31] Le_Merovingien: With the Bishop on c8?
+[22:07:18] NameGoesInHere: (6...Be7) often if you get to an IQP postion you can go Bd7-c6 where the bishop controls c6 nicely
+[22:07:18] NameGoesInHere: (7.Bf4) cotronls d5 i mean
+[22:08:19] NameGoesInHere: (7.Bf4) or b6-Bb7 is often a useful place for the bishop in an IQP position
+[22:08:19] Le_Merovingien: Hmm... not very enthralled by it.
+[22:08:49] Le_Merovingien: Anyway, it's the bad guy's problem :)
+[22:10:05] Shurbz: so I know this very quickly becomes a iqp, and therefor bf4 may be inaccurate, however what are we doing now after Nb5
+[22:15:55] Shurbz: so I'm winning the worlds most dangerous pawn
+[22:17:26] Le_Merovingien: What is Shurby talking about?
+[22:17:57] Le_Merovingien: Bxb8 Rxb8 Qa4+Bd7 Qxa7?
+[22:19:43] Le_Merovingien: Nooooʻooooooooʻooooo
+[22:19:43] NameGoesInHere: (8...Rxb8) I don't like winning the pawn, Ra8 at the end and the queen is close to trapped
+[22:20:29] Le_Merovingien: He really does not believe in his dsb to jettison it like that
+[22:21:30] nyanners: e6 is one of The Lines
+[22:21:30] nyanners: Bxb8 is definitely unlikeable
+[22:22:15] nyanners: yea i thought black might not bluff call, which.. is good for black too
+[22:22:46] nyanners: as white id be a bit demoralized
+[22:27:05] Kayrosas: 11...Bb4 would be pragmatic
+[22:28:36] Shurbz: so positionally I've made some mistakes, my development is behind  but I think there can be some awkward piece placement for black
+[22:28:51] Le_Merovingien: What does Praggnanandhaa have to do with thi
+[22:29:06] Shurbz: haven't yet decided what to do about the c-pawn
+[22:29:06] Le_Merovingien: sm?
+[22:31:09] nyanners: umm black cant keep the bishop pair at least
+[22:31:54] nyanners: Rb7 is a bit weird
+[22:31:54] nyanners: like, id go with Nxd7. maybe black plays Rx
+[22:32:11] nyanners: and cxd5 is awkward for b
+[22:34:28] Shurbz: c: a3, g3, and something with cxd and ba6
+[22:36:15] Shurbz: I'm almost certainly being to precious about the c pawn and not moving my bishop
+[22:36:45] Le_Merovingien: Go Shurby
+[22:39:48] Shurbz: tactic?
+[22:40:03] Le_Merovingien: Where?
+[22:40:18] nyanners: he might be looking at Nxd7 now :o
+[22:40:18] NameGoesInHere: (12...a5) Nxd7 related maybe?
+[22:40:18] Le_Merovingien: Ooooh
+[22:40:33] Le_Merovingien: cxd5
+[22:41:04] Le_Merovingien: Ah ben non. Black can take with the King
+[22:41:19] nyanners: seems sufficient but is weird-looking
+[22:41:34] Shurbz: not really but I think it is kxd7
+[22:41:34] nyanners: i dontl ike starting with cxd5, its too obvious what youre doing XD
+[22:42:51] nyanners: black is way less likely to not find Kxd7 now
+[22:43:06] Le_Merovingien: Try again without the double negative
+[22:43:06] Shurbz: a case where maybe not castling in the endgame by black was dubious
+[22:43:51] nyanners: i like double negatives. you can do the counting
+[22:43:51] nyanners: of course it was tempting to phrase that as a double negative too
+[22:44:07] Le_Merovingien: Indeed indeed
+[22:44:52] nyanners: do you nxc3 in this move order just because
+[22:45:23] Kayrosas: dont like the open b-file there
+[22:45:23] nyanners: unclear if the structure becomes better or worse
+[22:46:39] nyanners: why did black play a5
+[22:46:54] nyanners: oh to prevent b4. i see
+[22:47:10] nyanners: i dont agree but i see
+[22:47:10] Le_Merovingien: I did not agree but I could not see. THank you
+[22:49:42] Kayrosas: white has a bit of a pull now
+[22:50:27] nyanners: idk feels like both sides stuck
+[22:50:58] nyanners: though white feels a bit easier in some sense
+[22:50:58] nyanners: dont see anything actually happening soon tho
+[22:52:29] Kayrosas: i think we want 18.f4 to prevent e5
+[22:53:00] Kayrosas: but not sure if e5 is actually that undesirable for white
+[22:53:45] Kayrosas: white has a lot of useful moves still. Kd3, f4, stacks rooks on the b-file
+[22:53:45] Le_Merovingien: Why am I tempted to play Kd3?
+[22:53:45] Shurbz: for some reason I feel that white is better, but trying to find moves is tricky
+[22:54:00] nyanners: those are all normal thoughts
+[22:54:00] Shurbz: f4!? is an idea
+[22:54:16] Le_Merovingien: Are they?
+[22:54:16] nyanners: yes :o
+[22:54:16] Le_Merovingien: Booh
+[22:54:46] Shurbz: assuming I understand the point of bf6
+[22:55:02] Le_Merovingien: It's like this f3 business after you ascertained that it is the only move that prevents being mated in one. Yet, you still hesitate
+[22:55:17] nyanners: just like "does cleaning a vacuum cleaner make you a vacuum cleaner"
+[22:55:17] nyanners: and then you conclude "yes of course"
+[22:55:32] nyanners: so, well, Kd3. of course
+[22:55:32] Le_Merovingien: Shurby: Bf6 protects g7 against Rad1 Rd3 Rg3. Simple
+[22:55:47] Shurbz: which rook belongs on d1
+[22:56:03] Kayrosas: none Imo
+[22:56:18] nyanners: white might be expecting the position to open
+[22:56:33] nyanners: it might!
+[22:56:48] Le_Merovingien: Not sure I like this.
+[22:57:03] nyanners: feels like another road to nowhere
+[22:57:19] Le_Merovingien: no-where but now-her
+[22:57:34] Le_Merovingien: *no-where but now-here
+[22:57:34] Shurbz: the a rook may want to be on b1 or c1
+[22:58:04] nyanners: like, e5 dxe5 Kxe5, does it matter? it does not matter
+[22:58:04] nyanners: something about the pointlessness of it all
+[22:58:50] Shurbz: that is a misunderstanding of what I wand to play I think
+[22:58:50] Le_Merovingien: c4 e5 d5?
+[22:58:50] Kayrosas: 18...Rc7 looked more interesting
+[22:58:50] nyanners: that one could matter
+[22:59:21] nyanners: i feel Rd1 is connected to dxe5
+[22:59:51] Le_Merovingien: I think none of the players have a plan :)
+[23:00:06] nyanners: i think they do
+[23:00:22] Le_Merovingien: Do they?
+[23:00:22] nyanners: now the position becomes planless
+[23:00:37] nyanners: i mean, black clearly intended this e5 thing
+[23:00:37] Le_Merovingien: You mean they had a plan to planlessness?
+[23:00:52] nyanners: i did not expect d5 from white
+[23:00:52] Le_Merovingien: That f6 Bishop looks strong
+[23:01:07] Le_Merovingien: It's a passed Pawn
+[23:01:07] nyanners: yea now i kinda wonder if black should push his chances actually
+[23:01:22] Shurbz: Rc1 was a visualization blunder by me, better was Rb1, I was just missing that the e pawn blocks the bishop
+[23:01:22] nyanners: do e4. all shall burn
+[23:01:38] Kayrosas: 20...Kc5 cause why not
+[23:01:38] Kayrosas: oh, d6
+[23:01:53] nyanners: still nothing?
+[23:01:53] Kayrosas: oh true
+[23:02:08] Le_Merovingien: e4 is logical
+[23:02:23] Kayrosas: maybe offer a draw just as a vibe check
+[23:02:23] nyanners: black probably doing f5
+[23:02:39] nyanners: but Rb1 is good?
+[23:02:39] Shurbz: more accurate to say I saw that and then forgot.
+[23:02:54] nyanners: i like draw offer all other things being equal
+[23:03:09] nyanners: wouldnt be too happy with the game direction as white
+[23:03:24] NameGoesInHere: (21.Rb1) don't think we'll have a draw soon cause of standings situations
+[23:03:40] NameGoesInHere: (21.Rb1) draw doesn't help us, a win might
+[23:03:40] Le_Merovingien: Bc6 Rb5 Bdb1?
+[23:03:40] Le_Merovingien: Not happy
+[23:04:25] Le_Merovingien: Black has to defend b
+[23:04:40] Kayrosas: i wish there were live standings, always a bit weird to check
+[23:05:11] Shurbz: I should probably appologize to my team for getting into an ocb endgame but c'est la vie
+[23:05:41] nyanners: so things are not equal
+[23:05:57] Le_Merovingien: You don't apologize, Shurby. You keep your head down and surf the vibes of our cheerleading chants
+[23:06:27] Le_Merovingien: Bc6!
+[23:06:42] Le_Merovingien: No. He's clogging the toilet
+[23:07:28] Le_Merovingien: Draw. Sign. Hop to bed.
+[23:08:29] nyanners: ooh NOW e4
+[23:08:29] nyanners: okay
+[23:08:44] Le_Merovingien: What about e4?
+[23:08:44] nyanners: probably still good. who knows
+[23:08:59] nyanners: someone would
+[23:09:14] NameGoesInHere: (22...e4) c4 e3 Rb3 maybe?
+[23:09:30] Le_Merovingien: No. c4 e3 f3.
+[23:09:30] Le_Merovingien: Clogged toilet
+[23:09:45] nyanners: dont think black should e3. just push all the pawns and see what happens
+[23:10:00] nyanners: probably nothing
+[23:11:16] nyanners: but space does tend to have some correlation with winning chances in those
+[23:12:32] NameGoesInHere: (23...f5) g3 seems prudent now
+[23:13:03] Le_Merovingien: or c4
+[23:13:18] Le_Merovingien: Toilet clogged.
+[23:13:33] nyanners: its unclear whether black actually wants to play f4 immediately
+[23:13:49] nyanners: if not, then you could let it happen
+[23:15:05] nyanners: like, what happens in 24 Rdb1 f4 Bc6? i dont even know
+[23:15:20] nyanners: could be a big waste of time
+[23:15:50] Le_Merovingien: Is that... a kitchen sink?
+[23:16:51] Shurbz: I'm not really seeing a good way for black to defend b6.
+[23:17:22] Le_Merovingien: How do you want to attack b6?
+[23:17:52] NameGoesInHere: (25...Bf6) double on the b-file and Bc6? maybe there are some problems with the c-pawn though
+[23:18:07] Le_Merovingien: Oh. Idiot me
+[23:18:07] Le_Merovingien: I am so upset he played a4...
+[23:19:24] Kayrosas: Kc7 Be5-d6-c5
+[23:19:24] nyanners: weird idea c4 c5+
+[23:19:24] Shurbz: I'm in no rush, slow down and consider just walking my king up now
+[23:20:55] Shurbz: g5 might be interesting
+[23:22:11] Le_Merovingien: Kc7. Drat
+[23:23:27] NameGoesInHere: (27.Rdb1) Kc7 we can try Ke3 and then c4-c5?
+[23:23:58] nyanners: i suppose bblack can take the other route with Bd6 Bc5
+[23:25:14] Shurbz: lateral defense and attack, a multipurpose move
+[23:27:16] Le_Merovingien: Shurby in high spirit. This is good
+[23:29:17] Shurbz: bd6, can I then use my king? ke3 f4 g5?
+[23:29:17] Le_Merovingien: Do you think d6 wants to be a light square Bishop?
+[23:29:33] nyanners: okay so black has solved that
+[23:35:23] Shurbz: that was a hard move to play, I don't love it either
+[23:36:24] Le_Merovingien: You will have to explain to me what th epoint of it was
+[23:36:54] nyanners: defending f2 in the Ke3 Kf4 line
+[23:37:10] nyanners: of course black preempts it
+[23:37:55] nyanners: so now it looks a bit silly
+[23:38:57] Le_Merovingien: It's so high level prophylaxis... I am amazed
+[23:39:58] Shurbz: do I believe in this position if I play Rb5 Rxc5
+[23:40:13] nyanners: no
+[23:40:43] Le_Merovingien: Jesus
+[23:40:59] NameGoesInHere: (29...Bc5) i mean if you can play like 4 moves and go Rb5-xc5 Rd2 and d6 all at once it might work
+[23:41:44] NameGoesInHere: (29...Bc5) but yeah if you just trade the other pairs of rooks it's just bad
+[23:41:44] Le_Merovingien: (looks for hidden Bishop in sleeve)
+[23:42:30] nyanners: white is trying but im afraid the ideas might simply not exist
+[23:46:03] Shurbz: this will be tragic if we only need a draw
+[23:46:03] nyanners: is draw basically same as loss? if so then white is definitely doing it
+[23:46:18] nyanners: white hears the calling and its too strong
+[23:46:50] NameGoesInHere: (30.Rb5) we can never need a draw with the way the standings are
+[23:47:35] Le_Merovingien: Shurby, I thought you read my Slack post!!!
+[23:47:35] nyanners: okay black just avoids it entirely
+[23:47:51] nyanners: thats a good move too......
+[23:48:21] nyanners: damn white really feels stuck after this :o
+[23:48:51] nyanners: yea no way
+[23:49:07] Le_Merovingien: What?!?
+[23:49:07] Le_Merovingien: Mammaaaaaaaa
+[23:49:22] nyanners: i suppose Rb5 and not Rb7
+[23:49:52] Le_Merovingien: I guess the toilet is still clogged after Bb5
+[23:50:23] nyanners: if you play Bb5 you kinda just die on kside
+[23:50:38] nyanners: that open file cost everything and you might as well use it
+[23:50:38] Le_Merovingien: Can't he just clog it?
+[23:50:53] nyanners: f4 is a good move
+[23:50:53] Le_Merovingien: Ah yeah. Not anymore
+[23:50:53] bufferunderrun: Rb5?
+[23:51:24] nyanners: yea i felt inserting Rb7 just improves f4
+[23:51:24] nyanners: or rather, improves all lines for black with c5 defended
+[23:52:40] nyanners: umm Be8 threat?
+[23:52:40] nyanners: i suppose thats something
+[23:52:55] Shurbz: Rb6 I thought was nice
+[23:53:10] Le_Merovingien: Nah but the King penetrates. Ke5 is strong
+[23:53:10] nyanners: yea i think so
+[23:53:26] Le_Merovingien: Opposite color from the Bishop and supported by Rooks.
+[23:54:26] nyanners: i just wanna be nice to whte here but yea i think its dead lost..
+[23:54:57] Le_Merovingien: Please be nice
+[23:54:57] nyanners: :<
+[23:55:12] Le_Merovingien: Shurby is mighty
+[23:55:27] NameGoesInHere: (33...Ke5) Ke3 f4 gxf4 Rxf4 d6 we can try?
+[23:55:27] nyanners: i do feel sometimes im not nice. but its never personal, its just chess
+[23:56:28] Le_Merovingien: You can be cold indeed. But not tonight.
+[23:57:14] Le_Merovingien: You've been warming the chat with good ideas and lines
+[23:57:44] NameGoesInHere: (33...Ke5) d6 can maybe be a bit tricky in some line at least
+[23:57:59] nyanners: now no time either..
+[23:57:59] nyanners: pawn promotes on light square
+[23:58:15] Le_Merovingien: f4 arrives first
+[23:58:30] Le_Merovingien: And Black rips off White's defenses
+[00:06:53] Le_Merovingien: fxg fxg looks logical
+[00:07:24] Le_Merovingien: Ooooor you push the King
+[00:10:11] nyanners: thats a find
+[00:10:42] Le_Merovingien: Mate threats ...
+[00:10:57] NameGoesInHere: (40.Rd7) think Kc2 might've been necessary
+[00:11:58] nyanners: Kc2 Rfb8 might be it
+[00:11:58] Le_Merovingien: Kc3 Bxe4 Re2 Kf1 Rxe4 game over
+[00:13:31] nyanners: was just wondering for science if Re8 Rd3+ Kxc4 Re3 Kd4 still wins a piece
+[00:13:46] nyanners: then white has the funny Rd3+
+[00:15:02] bufferunderrun: Idk 44...Rd4+ seemed easiest
+[00:15:02] nyanners: sure
+[00:15:17] nyanners: black probably didnt see
+[00:15:17] nyanners: respected the pawn
+[00:15:32] Le_Merovingien: Black does not need sight anymore
+[00:15:48] Shurbz: bummer but I tried, sorry team
+[00:16:03] nyanners: you did :o
+[00:16:03] Le_Merovingien: Great job, Shurby
+[00:17:49] nyanners: rd4 ra1
+[00:18:05] nyanners: or that :o
+[00:18:05] NameGoesInHere: (47...Ra1+) Re1+ Kxe1 Kxc2 anything Ra1# if you want to be fancy
+[00:18:35] nyanners: you just play any check and randomly stumble upon a win i guess
+[00:19:05] nyanners: theyre difficult to avoid at this point :o
+[00:19:05] Le_Merovingien: You wrote a similar comment in my game last week :)
+[00:19:36] nyanners: it does sound like something id do
+[00:19:36] Le_Merovingien: :D
+[00:19:36] Le_Merovingien: Wow, weird moves
+[00:19:51] Le_Merovingien: GG Shurby
+[00:19:51] nyanners: gg
+[00:20:06] bufferunderrun: gg
+[00:20:06] Le_Merovingien: We love you
+[00:20:06] NameGoesInHere: gg shurbz, great effort!
+[00:20:06] basilcandle: gg
+[00:21:07] NameGoesInHere: hey, the exchange was actually the best move (albeit the position was bad already)
+[00:21:38] nyanners: thats surprising :o
+[00:21:53] nyanners: i guess you cant deal with the f-file otherwise
+[00:22:08] nyanners: thats tough
+[00:33:02] Shurbz: I saw Ke3, but thought I could somehow exchange the rook and still have ideas
