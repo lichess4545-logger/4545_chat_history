@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/eYdpuM03
+White     : eight_x_eight
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-06-04 17:52:59 UTC
+Game ended : 2026-06-04 16:32:50 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[15:02:43] NG_Life: usually I play the Taimanov with e6, I prepped this Kan variation today to try
+[15:03:29] NG_Life: 5. c4 I think third most common move, I didn't look at this as much
+[15:04:30] NG_Life: 6... nf6 because with the Queen on c7 he can't play e5
+[15:05:16] NG_Life: 7... be2 wondering if I should play bb4 threatening e4
+[15:08:18] NG_Life: (8) usually I like to have a bind on the center, not often I play the other side
+[15:10:05] NG_Life: 8. Qd3 Qe5 maybe? If f4 I can just play Qxe4 because the c3 knight is pinned
+[15:10:51] NG_Life: (9) well, it looks interesting at least
+[15:11:36] NG_Life: (9) if 9. bf3 d5 cxd5 nxd5! e4 and c3 both pinned
+[15:14:09] NG_Life: 9. f3 feels very "timid" I feel I have the initiative here
+[15:15:09] NG_Life: 9... O-O preparing rd8 with d5 potential
+[15:16:10] NG_Life: I guess 10. be3 would make sense
+[15:16:26] NG_Life: 10. O-O?! Either bc5 or bd6 must be good here, right?
+[15:19:59] NG_Life: 10... bc5 be3 d5 f4 dxe4 fxe5 exd3 exf6 dxe2 fxg2 exf1+ 0-1 black wins
+[15:24:18] NG_Life: 10... bc5 many other moves possible such as cxd5, exd5, quiet moves, but still this should be good for black I would imagine
+[15:25:03] NG_Life: re8 at an opportune moment would be key
+[15:40:47] NG_Life: 12. cxd5 after 12 min think from white, exd5 and I have idea of re8 or rd8 attacking e2 or d5 respectively depending on how we play
+[15:42:19] NG_Life: 13. exd5 question is if I should start with nxe5 or rd8, if rd8 worried a little f4?
+[15:43:50] NG_Life: 13... rd8 f4 Qc7 na4 too passive
+[15:44:05] NG_Life: 13... nxd5 nxd5 Qxd5 I have various ideas, rd8 coming soon
+[15:53:59] NG_Life: 15. Qc4 Qxc4 bxc4 nc6 rad1 rd8 re1 nxd4 bxd4 bxd4 rxd4 white has re1# saving it
+[15:56:32] NG_Life: 15. Qc4 Qe5 bf2 b5 Qd3... don't see anything
+[16:00:05] NG_Life: 17. rad1 rd8 rfe1 be6 nxe6 rxd1 rxd1 bxe3+ kf1 fxe6 0-1 black wins?
+[16:02:37] NG_Life: 18. nc2 very nice move, I missed this
+[16:05:55] NG_Life: (20) now it seems to be headed for a draw
+[16:10:45] NG_Life: 22. kf2 does that lose a pawn to nb4? I guess we'll see
+[16:34:06] NG_Life: My whisper notes are here, I got out of prep pretty early, around Qd3
+[16:35:22] NG_Life: Around when I played d5 I thought I was a bit better, but couldn't find anything concrete
+[16:35:52] NG_Life: @eight_x_eight did you prep at all?
+[16:36:08] eight_x_eight: a little, I saw you play the French, classical sic and this
+[16:36:23] eight_x_eight: so I refreshed a few things, but no special prep
+[16:36:38] NG_Life: Yes, I checked and saw you score worse against 2. e6 than 2.d6
+[16:36:53] eight_x_eight: I forgot to play a3 stopping Bb4, which isn't essential but I like to avoid those lines
+[16:37:24] NG_Life: Yes I agree with bb4 it feels easier to play for black
+[16:37:39] eight_x_eight: I like the Maroczy structures in general, but most of those are from an acc. Dragon
+[16:37:54] eight_x_eight: for me
+[16:38:25] NG_Life: I like getting a center bind with white too, normally I don't have black in a bind
+[16:38:40] eight_x_eight: same, (I play the sic as black)
+[16:39:10] NG_Life: 10. O-O surprised me, from there I felt comfortable
+[16:39:41] NG_Life: I thought be3 first looked more solid for white, probably you could even castle long if you want
+[16:39:56] eight_x_eight: I thought 9.O-O was basically essential, because of e5 opening things up
+[16:40:41] eight_x_eight: 8. Qe5 didn't seem right, against principles and without a threat that couldn't be addressed with a devoloping move
+[16:41:27] eight_x_eight: but I felt some pressure considering you didn't have q-side minors developed
+[16:41:42] NG_Life: Yes Qe5 a little crazy, but it looked tricky I was hoping for you to blunder with f4 of something
+[16:41:57] NG_Life: Yes maybe too early
+[16:42:13] eight_x_eight: ah ok. Well no f4 before castles for sure
+[16:43:29] NG_Life: I thought maybe I had something in the middlegame but it never worked out, then I thought it would be a draw
+[16:43:29] NG_Life: Until
+[16:43:29] NG_Life: le2
+[16:43:29] NG_Life: Ke2*
+[16:43:44] eight_x_eight: in these e6 lines White can't keep their bind, black can always disolve the centre if they want. I sometimes forget that. In contrast to ...
+[16:43:44] eight_x_eight: ...d6 lines
+[16:43:59] eight_x_eight: Yeah, I saw the too features of that tactic, but didn't put them together
+[16:43:59] NG_Life: Yes
+[16:44:14] NG_Life: I see the engine analysis we can discuss now?
+[16:44:14] eight_x_eight: I should have taken the time to play a3
+[16:44:14] eight_x_eight: easy to say now!
+[16:44:14] eight_x_eight: sure
+[16:44:30] NG_Life: I completely missed the mate threat
+[16:44:45] NG_Life: For white
+[16:45:00] eight_x_eight: yeah, I just saw the massive spike in the eval.
+[16:45:00] NG_Life: With rf7# that would have been sad for me to see on the board
+[16:45:15] eight_x_eight: I guess from the eval it is unstoppable without giving up material
+[16:45:46] NG_Life: Probably we both missed that because we both thought black had edge, so our minds preclude white winning threats
+[16:46:01] eight_x_eight: I spent too much time in a basic position, didn't give myself a chance to spot Rd7
+[16:46:01] NG_Life: It's so hard to keep your mind open to all three results, when the game seems lopsided
+[16:46:31] NG_Life: You spent time in a
+[16:46:46] eight_x_eight: agreed. In fairness, the hook mate patter is right there - puzzle storm style
+[16:47:02] NG_Life: Very complicated middlegame position, but from a practical position it's better to just play something instead of going to so little time
+[16:47:17] NG_Life: For example you can see in my notes on d5 it was too many things to analyze, so I analyzed what I thought was
+[16:47:17] eight_x_eight: yeah I really need to stop doing that
+[16:47:17] NG_Life: Most critical and then just played
+[16:48:18] NG_Life: Gg and gl in last rounds, it was a good fight
+[16:48:48] eight_x_eight: thanks, and thanks for your time on the analysis
