@@ -1,0 +1,50 @@
+Lichess game chat log
+Game      : https://lichess.org/dJ1spHfB
+White     : switchoffengine
+Black     : jdannan
+Time      : 30+30
+Captured  : 2026-06-07 15:30:04 UTC
+Game ended : 2026-06-07 14:10:03 UTC
+Messages  : 40
+────────────────────────────────────────────────────────────
+
+[13:08:48] sphynx: ooh, London with c5 and Qb6, nice choice :)
+[13:13:52] switchoffengine: didnt see d6 in my prep, shouldnt be good. i play a4 to prevent b5, not sure if its the best but my knight has not manty squares if b5
+[13:16:25] jdannan: (7...Nc6) hey it's a carlsbad again
+[13:16:25] sphynx: e3 might be a nice square actually, for the knight
+[13:16:25] jdannan: (7...Nc6) maybe
+[13:17:10] sphynx: Carlsbad if d5 with tempo and then e6, I suspect
+[13:17:26] sphynx: but first the LS bishop outside pawn chain I suspect?
+[13:18:42] jdannan: (8...Bg4) guess I can angle for Qd7, e6,d5 but it seems a bit cumbersome and slow
+[13:19:58] jdannan: (8...Bg4) maybe g6 and Bg7 is a better plan?
+[13:24:17] switchoffengine: Bxf3 Bxf3 e5 dxe5 dxe5 Bxc6+ Qxc6 Nxe5 Qe4+ Qd2 Qxf4 i have Qb5+
+[13:26:19] jdannan: (9...Rc8) eboard has disconnected
+[13:26:35] jdannan: (9...Rc8) that's annoying
+[13:43:21] jdannan: (15...d5) hello carlsbad my old friend
+[13:56:03] sphynx: spicy!
+[13:56:34] jdannan: (18...Bxe1) am surprised at that
+[13:57:20] jdannan: (19.dxc6) Bd2 Ba3 etc looked nice but is this really a better plan for white?
+[13:58:05] sphynx: maybe some miscalculation...
+[14:05:28] sphynx: two connected passers, somewhat dangerous
+[14:06:14] sphynx: Bd1 seems to be ok, becacuse of backrank weakness
+[14:07:31] jdannan: (28.Rb7) this looks awks
+[14:07:46] sphynx: yeah, much better than Bd1
+[14:10:34] jdannan: thought that was going well!
+[14:10:49] jdannan: and then it wasn't
+[14:10:49] jdannan: story of my life
+[14:10:49] switchoffengine: i think my exchange sac wasnt the best
+[14:11:04] switchoffengine: but the endgame maybe u messed up somewhere
+[14:11:50] jdannan: didn't see Rb7 looks like a nice move
+[14:11:50] switchoffengine: 14. Ne3 was weak by me, probably c3 better
+[14:12:05] switchoffengine: yea the 2 passed pawns was dangerous )
+[14:12:35] sphynx: maybe it's possible to improve on Rb4
+[14:13:06] switchoffengine: mm yea
+[14:13:06] switchoffengine: just Kf8 or something
+[14:13:51] switchoffengine: i think 23. ..Bb6 line was not the best too, because the endgame gave me chances to hold
+[14:14:07] jdannan: I probably shouldn't have given up a7 so easily
+[14:14:37] switchoffengine: yea, my plan was d5 and taking on a7, i have to take a7 for any chances
+[14:16:09] jdannan: good luck for the last round!
+[14:16:39] jdannan: seems like I just needed to reload the page to connect the eboard again...didn't try that.
+[14:17:40] switchoffengine: thank you, you too!
+[14:17:40] switchoffengine: all the best
+[14:17:56] switchoffengine: tough game! thanks for the game
