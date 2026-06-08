@@ -1,0 +1,27 @@
+Lichess game chat log
+Game      : https://lichess.org/YQRgS9r2
+White     : beppino
+Black     : n8otom8o
+Time      : 30+30
+Captured  : 2026-06-08 21:27:41 UTC
+Game ended : 2026-06-08 20:07:33 UTC
+Messages  : 17
+────────────────────────────────────────────────────────────
+
+[19:32:55] nyanners: nobody expects the colle-caro connection
+[19:34:12] nyanners: i think 9 Qe2 is a good version of a theoretical exchange caro line? not completely sure
+[19:35:12] nyanners: if thats the case then black could have tried 7..e6 with maybe a good exchange caro because white temporarily blocked in the Bc1
+[19:35:58] nyanners: oooh theres a Funny. 20..Nexf2 to clear the e3-square
+[19:38:15] cordalis: What about Qxd5
+[19:38:31] nyanners: yeah Nexf2 would have denied that too, since d5 is also in Ne3+ forking range :o
+[19:38:46] nyanners: as played id really want to take on d5 yes
+[19:39:01] nyanners: i dont see a refutation
+[19:39:47] nyanners: i suppose black could still try 21 Qd5 Nexf2 again but its weirder
+[19:42:36] cordalis: White Nbc5 or c3
+[19:43:21] cordalis: then Nd3
+[19:59:25] nyanners: probably 28..d4 now or never
+[19:59:25] nyanners: never i guess. white should be happy
+[20:00:11] nyanners: 29 Qd4 or maybe Nf5, like Nf5 d4 Kg1 dxc3 Qg5!? and two threats in Qxg7# and Ne7+
+[20:07:02] nyanners: oh
+[20:07:02] nyanners: gg :<
+[20:17:42] n8otom8o: I considered 28...d4, but missed that, after Kh3, dxc3 hits the queen.
