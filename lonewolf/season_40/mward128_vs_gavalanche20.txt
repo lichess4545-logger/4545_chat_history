@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/YF2OAS2z
+White     : mward128
+Black     : gavalanche20
+Time      : 30+30
+Captured  : 2026-06-13 22:10:30 UTC
+Game ended : 2026-06-13 20:50:28 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[19:03:33] gavalanche20: (1.e4) Hey Scribs
+[19:04:03] gavalanche20: (1.e4) Last round, prepared some two knights so let's see how this goes
+[19:05:05] MrScribbles: (7.Qe2) go gav
+[19:05:05] gavalanche20: (2.Nf3) This Bd7 stuff has been trending lately instead of the more usual c6, first time trying it out in a real game
+[19:05:05] MrScribbles: (7...Bd6) also, why does gav have a knight on a5?
+[19:06:36] MrScribbles: (7...Bd6) I have a crazy question. Does b4 do some stuff?
+[19:06:51] MrScribbles: (7...Bd6) I feel like gav is in prep so I'm guessing not
+[19:07:22] MrScribbles: (8...c6) oh, the bishop just takes b4 lol. Chess is hard
+[19:09:54] gavalanche20: (7.Qe2) Hi n8otom8o
+[19:14:29] gavalanche20: (10.Nge4) How silly is Nd4 here
+[19:16:01] n8otom8o: I think that would be a bad idea, since Bxd7+ comes with check. Maybe Bc8 is best?
+[19:19:34] gavalanche20: (12.Nc5) Main thing here is Bc8 Qf3 I assume I have to gambit a second pawn
+[19:21:21] gavalanche20: (12.Nc5) Maybe there's Qd6 somewhere if Qf3
+[19:21:37] gavalanche20: (12...Bc8) Nd4 just liquidates from what I could see
+[19:27:12] gavalanche20: (12...Bc8) I admittedly have no concrete solution but surely I have some kind of comp right
+[19:31:00] jcarmody: Go Gav!
+[19:32:02] gavalanche20: (15.Qxc6) Rg6 h3 maybe Qh4
+[19:32:32] uga40: lets go Mward
+[19:34:19] gavalanche20: (18.d3) Bg4 Qe3...?
+[19:37:07] gavalanche20: (18.d3) Maybe that's where f5 comes in
+[19:38:54] gavalanche20: (19.Qe3) And maybe the tempo is worth because Qe3 blocked DSB and maybe one day I will have a tempo move on Nc5
+[19:40:41] gavalanche20: (20.f3) Hm I saw myself throwing in f4 first but is there any merit to Bh3 immediately
+[19:40:56] uga40: 20. f4 is needed here for  black
+[19:41:27] gavalanche20: (20.f3) I'm actually kind of team Bh3 now
+[19:41:42] gavalanche20: (20.f3) Because f4 Qe4 and Qc4+ is on the table
+[19:42:58] uga40: 20. h3 21. Rf3? f4 22. Qe2
+[19:43:13] uga40: *bishop h3
+[19:48:03] gavalanche20: (20.f3) Random Nc5 weirdly holding everything together is giving flashbacks of me losing to fork2020 haha
+[19:48:49] gavalanche20: (21...Qd6) But threats on the table are e4 threatening h2 and also f4 dislodging queen from guarding the knight
+[19:53:54] gavalanche20: (22...exf4) Tricky
+[19:54:09] gavalanche20: (22...exf4) Banking on Qh3 Qc5 and it's weirdly difficult to unravel the pin because f4 controls Be3?
+[19:56:43] gavalanche20: (24...Bb6) I think best is take the material and run
+[20:00:32] uga40: 27. white has some passed pawns
+[20:06:24] uga40: 30. d4, does this lost a pawn to Re4?
+[20:06:39] uga40: *lose
+[20:07:09] gavalanche20: (24...Bb6) could be dumb but maybe it's worth the e file
+[20:07:09] uga40: 30. no it doesn't
+[20:07:09] gavalanche20: (30...g5) wonder if i cashed in too early
+[20:09:43] gavalanche20: (30...g5) Need to make a passer and an open file
+[20:21:25] gavalanche20: (32...h5) more risks wooooo
+[20:32:06] uga40: 43. thought mabye white should give the pawn, get his rook to c2 and push the c pawn
+[20:35:09] gavalanche20: (45...Rxd2+) Disappointing but I can at least  hold right, as long as b-pawn doesn't turn into a monster?
+[20:35:25] Mennonite: as long as we've both been in the leagues and with similar ratings i'm really surprised gav and i have never played
+[20:40:32] gavalanche20: (45...Rxd2+) Is this right?
+[20:48:41] Mennonite: 57...Kh3 seems to do it
+[20:49:57] uga40: gg
+[20:49:57] Mennonite: gg
+[20:50:28] jcarmody: gg
+[20:51:14] gavalanche20: Ah my a-pawn was strong enough that I didn't need to guard g
