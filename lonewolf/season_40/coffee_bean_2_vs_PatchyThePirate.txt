@@ -1,0 +1,51 @@
+Lichess game chat log
+Game      : https://lichess.org/olxvj4tw
+White     : coffee_bean_2
+Black     : patchythepirate
+Time      : 30+30
+Captured  : 2026-06-13 20:30:27 UTC
+Game ended : 2026-06-13 19:10:24 UTC
+Messages  : 41
+────────────────────────────────────────────────────────────
+
+[19:14:14] coffee_bean_2: Ok, so the endgame is completely drawn. As we both thought.
+[19:15:15] PatchyThePirate: yes as is usual with opposite colored bishops... my 32... e4 push seems anti-positional at first, but i am creating my own backwards pawn
+[19:15:15] PatchyThePirate: to target
+[19:16:00] coffee_bean_2: Yes I though about the f5 pawn. But it's hard to target.
+[19:16:16] PatchyThePirate: looks like there were opportunities after 15... a6
+[19:16:31] coffee_bean_2: Yes. Somehow my bishop belongs on d3.
+[19:16:46] PatchyThePirate: yes in the endgame my king can shuffle g6 f6 e6
+[19:17:01] coffee_bean_2: Then I have an advantage. But I would still have to convert it.
+[19:17:32] PatchyThePirate: i see -- Bd3 - Bd4 and your bishop is a monster
+[19:17:47] PatchyThePirate: sorry... Bd3-Bf4
+[19:18:02] PatchyThePirate: Bd3-Bf5 i mean lol
+[19:18:17] coffee_bean_2: Oh yeah, Bf5. It's pretty strong.
+[19:18:48] PatchyThePirate: there's also a nice 18. e4 idea
+[19:19:18] PatchyThePirate: but still, not super clear
+[19:19:34] coffee_bean_2: Ah. To prevent your f5 push?
+[19:19:34] coffee_bean_2: But stockfish pushes it anyway.
+[19:19:49] PatchyThePirate: stockfish is a maniac
+[19:20:04] coffee_bean_2: Total maniac.
+[19:20:50] coffee_bean_2: Cool, the computer analysis thinks we both played pretty acurately :)
+[19:21:35] coffee_bean_2: I suspect the advantage in the middlegame is a computer advantage, nothing for my level of play :D
+[19:22:06] PatchyThePirate: yes it would likely become a high-level maneuvering battle
+[19:22:06] coffee_bean_2: Later I'll take a look at it on maiachess.com
+[19:22:21] PatchyThePirate: did you prepare for the opening?
+[19:22:52] coffee_bean_2: I looked at your d4 reponses but I simply played my normal d4 opening moves.
+[19:23:07] PatchyThePirate: i played a new line so i'm curious what you were expecting
+[19:23:22] coffee_bean_2: Absolutely I was expecting something different :D
+[19:23:37] coffee_bean_2: 5..c5 was already a surprise and I was more or less "out of book".
+[19:23:53] coffee_bean_2: Did you prepare?
+[19:24:23] coffee_bean_2: I was expecting simply 4...Be7
+[19:24:38] PatchyThePirate: yes 4... dxc4 and 5... c5 are new moves in my repertoire
+[19:25:09] coffee_bean_2: That's so cool that you can prepare for opponents in the league
+[19:25:24] coffee_bean_2: You can't do that when simply playing on lichess.
+[19:25:24] PatchyThePirate: before the game i had looked at the queen trade ideas after 7... e5 right before the game
+[19:25:54] coffee_bean_2: I was trying to avoid a queen trade. But no chance.
+[19:26:10] PatchyThePirate: 10... Be6 was my first out of book move... and my first inaccuracy
+[19:26:56] PatchyThePirate: 8. Qa4+ is how you can avoid the queen trade
+[19:26:56] coffee_bean_2: Ah ok. But after the queen trade I was sure you would play Be6.
+[19:27:12] coffee_bean_2: That's what I would have played.
+[19:27:27] coffee_bean_2: Ah ok, there's the qa4+
+[19:27:27] PatchyThePirate: it feels natural, but of course stockfish understands i cannot hold on to the c pawn in the long term
+[19:27:57] coffee_bean_2: Yes holding on to the pawn is generally a bad idea in the queens gambit, I think.
