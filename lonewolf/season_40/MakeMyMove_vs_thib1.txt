@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/fB3B3Qax
+White     : makemymove
+Black     : thib1
+Time      : 30+30
+Captured  : 2026-06-14 18:00:10 UTC
+Game ended : 2026-06-14 16:40:01 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[15:34:07] MakeMyMove: Nb5 NxG3 nc7+ kd7 -+
+[15:36:09] MakeMyMove: (13) Bb5 is calculatable. nb5 loses to rc8
+[15:36:55] MakeMyMove: after ba5 i dont have bb4 retreat
+[15:37:41] MakeMyMove: so only feasible move looks bb5 forcing exchaneges but d4 pawn starts becomeing weaker
+[15:37:41] MakeMyMove: may be 0-0-0 and pushing
+[15:38:59] MakeMyMove: what about d4 then
+[15:40:31] MakeMyMove: d4 is also playble but luks complicated
+[15:40:46] MakeMyMove: lets simplify and look for d5 push later
+[15:47:53] MakeMyMove: (13) should be ok except this d pawn weakness
+[15:54:44] MakeMyMove: (16) still should be ok
+[15:54:59] MakeMyMove: my propblem is i had no way to stop f5 f4
+[15:55:14] MakeMyMove: so king cant proerly protect d4 pawn
+[15:55:30] MakeMyMove: some opening mistake that i cant keep my d4 pawn and push it
+[15:55:45] MakeMyMove: this should be fine
+[15:56:15] MakeMyMove: (22) offcourse with proper play
+[16:40:01] thib1: i thought i had the advantage in the endgame but couldn't find how to convert
+[16:41:19] thib1: I thought you would play 9.exd4 instead of Nxd4
+[16:41:49] thib1: keeping pieces on the board with an IQP
+[16:43:36] thib1: 17...Nxg3 before moving the rook from h8 was maybe better
+[16:44:37] thib1: i didn't notice i would have a backward pawn after the exchange
+[16:48:26] MakeMyMove: yes you were winning
+[16:48:41] MakeMyMove: it is so hard to defend this
+[16:49:12] MakeMyMove: as soon as d5 became impossible white is no longer playing for win
+[16:49:27] MakeMyMove: rook endgames are tough
+[16:52:00] MakeMyMove: i whispered in comments d5 is  playable and was necessity but i was not able to calculate
+[16:52:00] thib1: wow. is seems that black's plan was to put white in zugzwang. i tried to but didn't achieve that well lol. 38...Rf1 zugzwang
+[16:52:15] thib1: yes I wondered if you would sacrifice to have activity
+[16:53:16] MakeMyMove: sack where
+[16:54:17] MakeMyMove: kc2 kb3 was a better plan
+[16:54:47] MakeMyMove: but rook is defended so i thought how will i force things there
+[16:55:03] thib1: at what move ?
+[16:55:33] MakeMyMove: 35
+[16:55:33] thib1: in the end stockfish claims -2 but the plan is not that clear for me
+[16:55:48] MakeMyMove: yeah i also thought i am doing ok there. but computers are sick
+[16:56:19] thib1: yes I think Raa2 gives oblack opportunities. whereas if you just move your king I think I can't progress
+[16:56:34] thib1: everything is protected
+[16:56:49] MakeMyMove: i should not have allowed access to rank 1 and 2 to black
+[16:56:49] thib1: yes
+[16:57:05] MakeMyMove: makes play much more difficult
+[16:57:35] MakeMyMove: but i am more frustrated about why i couldnt or didnt play d5. as it is a usual plan
+[16:57:50] thib1: you defended well. again in the end I think black's plan is to put white in zugzwang and force a piece to move away from a defensive square
+[16:57:50] MakeMyMove: push the weak pawn and xchange it
+[16:58:05] thib1: impossible to find for me
+[16:58:05] MakeMyMove: my endgame is weak
+[16:58:36] thib1: i think you can push d5 if you haven't exchanged the pieces
+[16:58:51] MakeMyMove: yes
+[16:58:51] thib1: that's why i think 9.exd4 was better
+[16:59:22] MakeMyMove: ok see you sometime in next tourney. you can message me about game if you find something. I have to play another one in a min
+[16:59:22] thib1: here we reach an endgame where white has an isolated pawn which is just a weak point to defend
+[16:59:37] thib1: thanks ! good luck for your next game
+[16:59:37] thib1: bye !
+[16:59:37] MakeMyMove: yes d5 and try to xchange is usual plan
+[16:59:52] MakeMyMove: Bye
+[16:59:52] MakeMyMove: but for that i had to keep my light bishop alive
+[17:00:07] MakeMyMove: i was too scared of calculating rc8 eying my both bishops at once
+[17:00:22] thib1: yes !
+[17:00:53] MakeMyMove: nice game overall. i learnt and reinforced d5 is such an important move to have a comfortable play
