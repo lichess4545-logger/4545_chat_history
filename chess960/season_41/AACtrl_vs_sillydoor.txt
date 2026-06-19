@@ -1,16 +1,13 @@
 Lichess game chat log
-Game      : https://lichess.org/I39WShwE
+Game      : https://lichess.org/sq5aPkvh
 White     : aactrl
 Black     : sillydoor
 Time      : 20+20
-Captured  : 2026-05-22 19:21:15 UTC
-Game ended : 2026-05-22 18:01:10 UTC
-Messages  : 6
+Captured  : 2026-06-19 19:02:08 UTC
+Game ended : 2026-06-19 17:42:06 UTC
+Messages  : 3
 ────────────────────────────────────────────────────────────
 
-[17:26:25] AACtrl: (16.Qxe4) check if 0-0-0 legal or if I need to move my lsb...
-[17:33:46] AACtrl: (18...Bc7) darn, can't castle!
-[17:43:55] AACtrl: (25...Rxd4) oops
-[18:02:56] AACtrl: oh my, 16...Qxc4 is ""equal""
-[18:03:57] sillydoor: i calculated Qc4 but did not like Bf4 Bf4 Bd3
-[18:04:12] sillydoor: did not condider f5
+[17:10:32] AACtrl: (8...c6) check 8...Ne6 Be3
+[17:25:48] AACtrl: (18.a6) 18.Bxa7+ Rxa7 Qb6+ Rb7 to check
+[17:36:30] AACtrl: (21.c4) oh shitshitshit
