@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/kG0WGlUB
+White     : kauberdi
+Black     : pratikbora
+Time      : 45+45
+Captured  : 2026-06-29 22:42:45 UTC
+Game ended : 2026-06-29 21:22:36 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[19:30:36] bufferunderrun: Our first game! Let's go!
+[19:37:28] Pineapplechiffoncake: Go Pratik!
+[19:38:14] rajib_r_c: don't se 1..d6 very often
+[19:54:13] rajib_r_c: I wonder how white can set up a kingside attack with h4 - h5
+[19:59:48] NaveenGeorge: Black really needed to stake a claim in the centre
+[20:01:50] bufferunderrun: Idk about Qc7
+[20:04:22] bufferunderrun: there is stuff like Rc1 and Nd5 perhaps
+[20:06:39] bufferunderrun: either c5 or e5 now, I guess
+[20:14:10] NaveenGeorge: oof
+[20:14:10] NaveenGeorge: do not like that
+[20:14:56] bufferunderrun: the knight on c5 is pretty, but not exactly sure what it does there
+[20:15:42] bufferunderrun: now black needs a plan after b4
+[20:16:12] NaveenGeorge: a5 maybe
+[20:16:12] bufferunderrun: a5 only stops it temporarily, since a3, b4
+[20:16:42] NaveenGeorge: a5 a3 a4
+[20:16:42] bufferunderrun: Idk how I feel about the knight on a6
+[20:19:15] bufferunderrun: yeah, maybe a5 a3 a4 is possible
+[20:19:31] bufferunderrun: there is b3 square
+[20:19:31] NaveenGeorge: Yeah I feel a5 was the move there
+[20:20:16] NaveenGeorge: It's quite thematic in the Petrosian KID which this looks like
+[20:21:32] bufferunderrun: a5 Na4 maybe was possible
+[20:21:48] bufferunderrun: Idk, it just feels off to me
+[20:22:33] NaveenGeorge: I just want to push f5 for black eventually I think
+[20:49:13] bufferunderrun: I wonder if the best thing is to play g5 and then drop the bishop to g6,,,
+[20:54:18] bufferunderrun: does Nxd6 work?
+[20:55:19] bufferunderrun: like Nxd6 cxd6 Qxd6 (Nd3 hangs) Bc4 b5
+[20:56:06] bufferunderrun: maybe f3 there though and Rd1
+[20:57:52] bufferunderrun: but now that f4 is played, maybe Nxd6 is on the table
+[20:58:38] bufferunderrun: or maybe not, there would be issues with f7
+[21:01:41] nyanners: white playing well
+[21:01:56] bufferunderrun: yeah, this is winning
+[21:02:11] nyanners: this is surprisingly really bad for alleged equal material
+[21:03:13] nyanners: can probably just trade here
+[21:14:58] bufferunderrun: Bxe6 fxe6 Qg4 Qe8 e5 then knight goes to e4, this is rip
+[21:14:58] nyanners: like i dont think the nature of white's advantage here requires keeping the pieces
+[21:14:58] nyanners: but qg4 is maximalist
+[21:14:58] nyanners: id be happy to be like, trade on f8, play e5 and all remaining pieces are bad
+[21:14:58] nyanners: b6 is likely to give time for something
+[21:14:58] bufferunderrun: but why trade, black's position is so sad...
+[21:14:58] nyanners: remains just as sad because the bad pieces stay on the board
+[21:14:58] nyanners: now well, youre forced to play Qe8? thats not all that bad
+[21:14:58] bufferunderrun: yeah, but e5, Ne4 Nf6 what you are going to do?
+[21:14:58] nyanners: i suppose youre right :D
+[21:14:58] bufferunderrun: you may even Rf6 instead of Nf6
+[21:14:58] nyanners: nf6 just wins the e6-pawn? at that point i stop looking XD
+[21:14:58] nyanners: we could say rf6 also does
+[21:14:58] nyanners: i probably like it less
+[21:14:58] nyanners: dont see white benefiting from keeping that tension
+[21:15:29] nyanners: i somehow didnt think of Nf6 exf6
+[21:15:29] nyanners: powerful
+[21:18:01] nyanners: id finish on premoves. Qxg8 f7 Rce1 cxd6
+[21:19:18] nyanners: maybe Qxg8 d7 was more convincing
+[21:20:19] nyanners: nah im too tired. well played
+[21:20:34] nyanners: forgot Na7
+[21:20:49] nyanners: 37 d7 though
+[21:21:35] bufferunderrun: yeah and Re8
+[21:21:50] bufferunderrun: gg
+[21:21:50] nyanners: if white just played Re8 immediately i wouldnt blame that XD
+[21:21:50] nyanners: gg
+[21:47:11] kauberdi: Thanks everyone. Well learned. I overestimate my position a few times. Glad black did
+[21:48:43] kauberdi: Not find counter moves. Fina moves, I thought about d7 but missed to think over. Good luck everyone in the round 1
+[21:50:14] kauberdi: Not find the counter moves with Nxd6. In the last moves I thought about d7 but misjudge the position. Thanks. Good luck on round 1
