@@ -1,0 +1,50 @@
+Lichess game chat log
+Game      : https://lichess.org/TbIgrOhb
+White     : atrueravenclaw
+Black     : semlegesnev
+Time      : 45+45
+Captured  : 2026-06-30 19:30:07 UTC
+Game ended : 2026-06-30 18:09:52 UTC
+Messages  : 40
+────────────────────────────────────────────────────────────
+
+[16:16:46] handknit: (12.Bg5) a scotch(!)
+[16:20:52] handknit: (13.a4) I mean, it's a try. I would've been tempted by the more modest 12...Bxb3 and Qe6
+[16:21:07] handknit: (13.a4) though that line looks even better now that white's played a4
+[16:21:37] handknit: (13.a4) Bxb3 followed up by Qe6 and Nd4 seems like it could be pretty serious, even
+[16:21:53] handknit: (13.a4) N from f6 to d7 then c5
+[16:21:53] handknit: (13.a4) idk, thinking out loud
+[16:30:31] handknit: (16.bxc3) looks like we might be heading to two weak kings
+[16:34:51] handknit: (18.Bc1) I feel like the B pair means that white should still be better here even after black solves the f6 problem
+[16:35:21] handknit: (18.Bc1) white's king definitely has some issues tho'
+[16:48:49] handknit: (21...Qc5) feels like the endgame is in white's favour
+[17:05:18] a3353446: i think black is winning
+[17:07:23] handknit: (27.h4) how so?
+[17:09:25] handknit: (28.g4) oh, is there Nxe4 here?
+[17:09:40] a3353446: i just feel knights are super strong
+[17:09:40] a3353446: but I'm weak
+[17:09:56] a3353446: so probably not
+[17:09:56] handknit: (28.g4) ah
+[17:11:27] handknit: (28.g4) I don't think the knight sac works but maybe black gets some pressure with Rae8
+[17:13:59] handknit: (28.g4) dunno how easy it is to organize but some kind of Ne6, Ne5-Ng6 to control f4
+[17:14:45] handknit: (28...Nxe4) ah, he's going for it, but I don't think it works
+[17:15:00] handknit: (28...Nxe4) still, black can get 3 pawns for the N
+[17:15:46] handknit: (28...Nxe4) What I figured was 29.fxe4 Rxe4 30.Rh3 Rae8 31.Rd3 and then Ne5 runs into 32.Rd4
+[17:16:16] handknit: (28...Nxe4) there's 32...Nxg4 for the third pawn but you don't get the piece back
+[17:21:22] handknit: (30.Rd3) oh, Rd3 first allows Ne5
+[17:22:07] handknit: (30.Rd3) I guess white's still in decent shape after 30...Ne5 31.Kc2 Nxd3 32.Kxd3
+[17:22:53] handknit: (30.Rd3) maybe even better
+[17:25:40] a3353446: Bxc5
+[17:26:26] handknit: (30...Nc5) Bxc5 Rxe2+ is the idea
+[17:26:41] handknit: (30...Nc5) might still be equal afterwards because of white's rook activity but black'll be up a pawn
+[17:27:13] a3353446: oh handknit i see that u r black team
+[17:27:28] handknit: (30...Nc5) that's right, I'm biased as all freakin' heck
+[17:32:47] handknit: (34...Kh7) yeah I think after bf3 white is probably comfortably better
+[17:39:39] handknit: (37.Bf3) e5 isn't the craziest idea
+[17:39:55] handknit: (38.Bxe3) 37...e5, I mean. Probably still wrong but interesting
+[17:57:55] handknit: (40...Re1) feels like the path for white is clear now
+[17:58:26] handknit: (41.bxa5) bxa5, Bc6, c4, Bc3
+[18:10:53] semlegesnev: hm, Ra1 was terrible, didn't consider Bc6
+[18:11:39] semlegesnev: I calculated either a6 or axb Bxb
+[18:22:18] atrueravenclaw: Was surprised at 21...Qc5 offering to trade queens when I had more space & bishop pair
+[18:24:04] atrueravenclaw: I was surprised at 21...Qc5 offering to trade queens when I had more space & the bishop pair
