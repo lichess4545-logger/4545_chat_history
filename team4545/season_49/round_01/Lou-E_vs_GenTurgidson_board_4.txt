@@ -1,0 +1,148 @@
+Lichess game chat log
+Game      : https://lichess.org/UN0pcraV
+White     : lou-e
+Black     : genturgidson
+Time      : 45+45
+Captured  : 2026-06-30 20:00:22 UTC
+Game ended : 2026-06-30 18:40:16 UTC
+Messages  : 138
+────────────────────────────────────────────────────────────
+
+[17:01:56] mennonite: Go Lou-E!
+[17:02:12] lou-e: Hello to any teammates or spectators, let's goooooooo
+[17:02:42] lou-e: Interesting. I was expecting a Two Knights French here. Would've been fun.
+[17:02:57] lou-e: My opponent has never played a Sicilian seriously as far as I'm aware
+[17:02:57] lou-e: So absolutely no reason not to play my usual Alapin
+[17:06:00] lou-e: This 2. Nc6 is rarely played, but there is a legit line here after 3. d4 cxd4 4. cxd4 d5
+[17:06:00] genturgidson: I spontaneously played the Sicilian to throw him off guard, but he's gone with the Alapin so I've already lost.
+[17:06:46] ysgwydd: (3...e6) This could be tough for black if they don't know some stuff
+[17:07:01] lou-e: Hmm... 4. d5 tempting here
+[17:08:48] lou-e: I can't remember if it's good in this particular positon. I know it's busted for Black in some
+[17:08:48] lou-e: But actually a bit better for Black in others
+[17:09:03] lou-e: 4. Be3 seems like a worthy substitute
+[17:10:19] mennonite: I thought that might be the case. The long pause after 2.c3 made me wonder
+[17:11:35] ysgwydd: (3...e6) White should have a solid advantage here. d5 is probably good here.
+[17:12:36] lou-e: The line I'm looking at is 4. d5 exd5 5. exd5 Qe7+ 6. Be2 Ne5
+[17:13:22] lou-e: I think maybe Bf4 in the end there is good
+[17:13:37] mennonite: I kind of like 6.Be3 instead in that line
+[17:14:08] lou-e: I didn't like 4. Be3 Nf6 so much. And 4. Nf3 didn't seem to confer anything beyond a normal opening advantage.
+[17:14:23] ysgwydd: (4.d5) f4 is also an option after Ne5
+[17:14:38] mennonite: I think White can afford to take a greedy approach here. Even not being privy to the chat,
+[17:14:38] ysgwydd: (4.d5) If think d5 is why masters rarely play 2..Nc6
+[17:14:53] mennonite: White knows that Black is likely unprepared based on the game database + time usage
+[17:15:08] mennonite: and above all else, the choice of 2...Nc6
+[17:15:24] ysgwydd: (5...Nb8) Agree
+[17:15:54] ysgwydd: (5...Nb8) Nb8 is certainly a choice
+[17:16:24] ysgwydd: (5...Nb8) Now white can simply develop comfortably
+[17:16:24] mennonite: this is sort of like the brooklyn variation of the alekhine, except with more open lines
+[17:16:41] mennonite: is 6.c4 worth considering?
+[17:16:56] genturgidson: Maybe I was meant to take and give him the pawn centre and strike with d5.
+[17:17:26] ysgwydd: (6.d6) c4 looks good, no rush though
+[17:18:12] lou-e: I had something similar to this in an OTB game last year
+[17:18:27] lou-e: I'm sure this 6. d6 turned out to be the winning idea, but I was too chicken to play it at the time
+[17:18:42] ysgwydd: (6...Qf6) Often d6 is good in these situations, if you can keep it there.
+[17:19:14] mennonite: but here, I think it's premature
+[17:19:59] lou-e: Hmm...although, hadn't counted on the king being able to slide away to d8 here
+[17:20:30] ysgwydd: (6...Qf6) Yeah, maybe.
+[17:21:00] lou-e: Maybe this is one of those lines where Black is better lol
+[17:21:46] ysgwydd: (6...Qf6) Qe2+ Qe6 bf4 scores really well in lichess database
+[17:22:16] ysgwydd: (6...Qf6) Qe2+ Kd8 though.
+[17:25:34] lou-e: I think 7...Kd8 was possibly better. I think I'm going down a pawn in that line and have to find compensation against Black's dodgy king
+[17:26:20] lou-e: This seems a little more straightfoward in terms of piece play, but I could be wrong
+[17:27:36] lou-e: Ah but I've miscalculated this haven't I. Didn't see that after Be5 there's Nc6
+[17:28:37] ysgwydd: (10...Nh5) Be5 Nc6 f4?!
+[17:35:58] genturgidson: 14.Bg6+ Maybe I am manually castling where I wanted to go anyway.
+[17:38:00] lou-e: (16...d5) here I thought 17. c4
+[17:38:15] lou-e: I honestly feel I've got compensation, I just have to not drop any more material
+[17:39:16] lou-e: Nf3 is a bit more classically minded, but after say Kc7 there's not really anywhere good for the e4 knight to go
+[17:40:17] lou-e: and if c4 d4 Nf3 my e4 knight actually has a nice post on e4 there. But then Nc6 and not sure the follow up
+[17:43:04] ysgwydd: (17.c4) Maybe 15.Nc4 was better to have Ne5
+[17:52:12] genturgidson: I've messsed up allowing 19.Nf3. My idea was Bd7, Bc6, Nd7 but I think it was always going to be slow.
+[17:52:27] genturgidson: Not scared about 20.Ng5, I just castle I think.
+[17:52:58] ysgwydd: (20.g4) I'd be shocked if we see castle after Ng5
+[17:53:13] genturgidson: Wait I can't castle of course... just manual castle Kc7 is probably ok too.
+[17:53:13] mennonite: 20.Rh5 b6 probes for weaknesses but I don't really see how to exploit it
+[17:53:28] lou-e: I think gotta push for some initiative here. If Black gets a handle on the position I might be in trouble long term
+[17:53:28] lou-e: Pawn down vs bishop pair
+[17:53:43] genturgidson: My pieces are tied up now annoyingly - I specifically wanted my bishop on that c6 but Nc6 got forced.
+[18:07:28] lou-e: Seems sensible actually. Yes Black gave up their bishop pair but I was pretty close to plonking a knight on e5 defended by f3
+[18:07:44] lou-e: So they probably would've ended up snapping it off with the bishop eventually anyway
+[18:19:40] lou-e: Hmm. Complicated
+[18:22:13] lou-e: 26. Rxh8 Rxh8 27. Rd2 is a fun way to lose
+[18:27:34] lou-e: Not looking good lads
+[18:29:51] lou-e: Looks passive I know. But everything else seemed to lead to bad stuff
+[18:30:06] lou-e: Maybe this also
+[18:34:56] lou-e: When I catch the guy who played all those moves that got me into the exact kind of position I hate to play....
+[18:35:11] lou-e: he's getting a knuckle supper, that's for sure
+[18:40:16] lou-e: (26...Kd6) huh? Haven't I got Nf7+ now?
+[18:40:31] genturgidson: Couldn't think of a move - a few options. Played something spontaneous and it was rubbish.
+[18:40:31] ysgwydd: gg
+[18:40:46] genturgidson: Wait... engine says I was winning?
+[18:40:46] lou-e: That's an early resignation for sure
+[18:40:46] ysgwydd: Knight looks trapped
+[18:41:01] ysgwydd: on h8
+[18:41:01] genturgidson: Knight is winning the rook though.
+[18:41:17] lou-e: Yeah but you win the bishop
+[18:41:32] genturgidson: What are you talking about?
+[18:41:32] lou-e: I didn't realise the knight was trapped, but even so, you've gotta play those complicated positions out
+[18:41:32] genturgidson: I would be cleanly sown an exchange.
+[18:42:03] ysgwydd: 2 pieces for a rook, white can't save the knight
+[18:42:03] lou-e: Nf7+ Kxe6 Nxh8 Kf6
+[18:42:03] namegoesinhere: it's not a clear exchange because the knight never gets out of h8
+[18:42:19] namegoesinhere: Nf7+ Kxe6 Nxh8 Kf6!
+[18:42:49] genturgidson: Engine thinks I have some long term plan trapping that knight.
+[18:42:49] lou-e: So effectively you're up two pieces for the rook. But admittedly you do have to do some work to keep it caged
+[18:43:20] genturgidson: He's just going to double his rooks though.
+[18:43:35] ysgwydd: Even Bc6 instead on Kf6 gives compensation. g2 is vunerable
+[18:43:35] genturgidson: I genuinely have no idea how I was winning.
+[18:43:50] genturgidson: At all during that game.
+[18:44:05] lou-e: Your knight on e3 was a deeply annoying piece
+[18:44:20] namegoesinhere: well, the d-pawn is very strong if a few more pieces get traded and the e3-knight is very strong
+[18:44:51] genturgidson: I'm really struggling to understand how I was winning.
+[18:45:22] genturgidson: Is is that I would just start pushing e pawn and one of white's rooks is always stuck to defending that trapped knight on h8?
+[18:45:22] genturgidson: Because I see no way to actually threaten that knight.
+[18:45:37] ysgwydd: You had better pieces and g2 is weak
+[18:46:07] ysgwydd: Also a passed pawn
+[18:46:38] genturgidson: All I saw was Nf7+ Kxe6 Nxh8 Rxh8 Rxh8 and I'm dead lost.
+[18:48:54] genturgidson: I messed up out of the opening, the Alapin practically refuted the Caro-Kann at beginner level.
+[18:48:54] genturgidson: *refutes
+[18:49:25] lou-e: I did think Sicilian was an odd choice
+[18:49:55] genturgidson: Apparently you're supposed to play cxd4 cxd4 and give your opponent the massive centre.
+[18:49:55] lou-e: Like the Sicilian simply can't throw me off because more or less every game I play 2.c3
+[18:50:26] genturgidson: Making the Sicilian generally a dumbass opening for that reason haha.
+[18:51:11] genturgidson: Yeah I didn't research you at all because I knew it was a foregone conclusion when I saw your ECF rating.
+[18:51:11] lou-e: Did you mean 'refutes the Sicilian' rather than 'refutes the Caro-Kann'?
+[18:51:42] genturgidson: Yeah I mean Sicilian.
+[18:51:42] lou-e: bc I'm a huge proponent and fan of Alapin but even I think that's a bit of an ambitious statement :D
+[18:51:57] genturgidson: At our level is GG, game over, is what I realised as you played it.
+[18:52:12] lou-e: Like 2...d5 is a very respectable response. As is 2...Nf6. Even what you played is fine after d4 cxd4 cxd4 d5
+[18:52:58] genturgidson: What did you think of Qf6?
+[18:53:28] genturgidson: From then on the plan was just desperation to complicate it.
+[18:54:29] lou-e: Qf6 seemed good to me. I did suspect after Qe2+ that Kd8 was better though
+[18:54:44] lou-e: And then when you played Qe6 I messed up by trading queens. Bf4 apparently the move there
+[18:54:44] genturgidson: I realised I had a line to win that pawn back and perhaps even win the centre after all.
+[18:55:30] genturgidson: Apparently you needed to just play Be3 and let me have it, if Bxd6 then Ne4 which was on my radar.
+[18:56:31] lou-e: Be3 in what position?
+[18:57:02] genturgidson: After Nh5.
+[18:57:32] lou-e: Be5 is actually best there. I missed the follow up after Nc6, f4
+[18:57:47] genturgidson: If Be5, Nc6. I knew with Bg3 Nxg3 hxg3 I had the long term risk of that open rook.
+[18:57:47] lou-e: Yeah then f4
+[18:58:18] lou-e: ysgwydd suggested it in chat, and it is the engine move
+[18:58:33] genturgidson: And you did try to trick me with Bd3 which could have lost me on the spot if I played smething like g6.
+[18:58:48] lou-e: Yeah indeed, but even after h6 I like that I can play Bg6+ there
+[18:59:49] lou-e: Honestly after that I felt I had compensation for the pawn
+[19:00:04] genturgidson: Ohh, yeah you're outposting it with f4.
+[19:00:04] lou-e: Just had to keep pressing and hope for a mistake before you could sort your position out
+[19:00:35] genturgidson: I got my pieces in a twist trying to achieve my dream setup in the middlegame.
+[19:00:50] lou-e: Haha, it happens to us all
+[19:01:05] genturgidson: But apparently despite my frustration, hopelessly lost position, ready to resign... I was -2.0 in that position.
+[19:01:20] lou-e: Overall you played well though. Outplayed me in the opening, fought well in the middlegame
+[19:01:51] lou-e: I just think you've always gotta take a second and have a good look before resigning
+[19:02:21] genturgidson: Anyway, GG, thanks for the game.
+[19:02:36] lou-e: You too, good luck in the rest of the season!
+[19:02:52] genturgidson: I wasn't seeing any nuance in any of the positions, diabolical game, but thanks regardless.
+[19:02:52] genturgidson: I thought you played a lot better.
+[19:03:22] lou-e: Stockfish thinks otherwise!
+[19:03:37] genturgidson: Stockfish doesn't know what it's talking about!
+[19:03:53] genturgidson: Take care, best of luck with rest of your season haha.
+[19:03:53] lou-e: Cheers :)
