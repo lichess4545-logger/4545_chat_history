@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/BtC3Gdpy
+White     : lexgrad
+Black     : ribrubrib
+Time      : 45+45
+Captured  : 2026-06-30 19:58:24 UTC
+Game ended : 2026-06-30 18:38:13 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[18:03:35] leverkuhn: Provocative KID here, r3 loves this stuff
+[18:04:51] leverkuhn: in their previous games Lex has tended to make tactical errors in converting the massive space advantages he gets
+[18:05:06] leverkuhn: relatable for all chess players
+[18:05:21] lexgrad: Big pawn energy
+[18:05:52] leverkuhn: 8.g4!? with no hesitation! That's probably one more pawn than I would have thrown into the fray personally
+[18:07:54] leverkuhn: 9.Bg2 maybe? It looks like Black will anchor with 9...a5 no matter what White does and it will take some time to eject that knight
+[18:08:39] leverkuhn: White can play Be3 and look for opportunities to undermine favorably with e4-e5 at some point
+[18:09:40] leverkuhn: hmmm Black doesn't even need to play ...a5 due to long diagonal pins
+[18:10:41] leverkuhn: I'm getting a bad feeling about this if Black just plays ...0-0, ...e6, and ...Re8
+[18:11:12] leverkuhn: okay 9...c6 is not bringing the heat as quickly but does open up some dangerous queen developments
+[18:12:44] leverkuhn: I like 10.Be3; Bxc5 could actually be a good option to have in some cases
+[18:21:53] scotchwhisky: Kinda scary for white's king - planning to long castle?
+[18:22:38] leverkuhn: 12.Kf2 possible here, I don't think the ...Bxg4 tactic quite works
+[18:23:24] leverkuhn: White could throw in 12.Bb5+ here but I think that brings Black's rook to c8 too quickly
+[18:24:25] leverkuhn: queenside castle is way too loose here imo
+[18:25:42] scotchwhisky: what about a3 b4 ideas
+[18:25:42] scotchwhisky: eyyy
+[18:26:28] leverkuhn: 12.Bg2 Nfxe4+ 13.Bxe4 Nxe4 14.Qxe4 Bxc3+ 15.bxc3 Qxc3+ 16.Kf2 Qxa1 17.Bd4 Qa2+ Black escapes the fork and wins
+[18:26:43] scotchwhisky: but with his knight pinned, the e4 pawn kinda hangs
+[18:26:43] leverkuhn: so I think 12.Kf2 was basically forced
+[18:27:14] leverkuhn: 12.a3?! is not how chess works unfortunately
+[18:27:30] leverkuhn: 12...Ncxe4 13.b4 Qc7 should be good enough
+[18:28:15] scotchwhisky: that's hard to see but maybe black will find it
+[18:29:01] scotchwhisky: still complications with Bb5+ in that line
+[18:29:01] leverkuhn: 12...Nfxe4 also wins right?
+[18:29:33] scotchwhisky: oh because of Bxc3+
+[18:30:03] leverkuhn: if 13.Bxc5 even 13...Qxc5!? works
+[18:31:04] scotchwhisky: 13...Bxc3+ 14. Qxc3 Nxc3 15. bxa5
+[18:32:05] scotchwhisky: 15...Nxd5 yea I guess that's 2 pawns at least
+[18:32:36] scotchwhisky: not over but rough
+[18:32:51] leverkuhn: this line is a slight reprieve for White I think--13...Qc7 was crushing
+[18:33:21] leverkuhn: ooh nice rook trap! Didnt see that one
+[18:34:53] scotchwhisky: oof
+[18:34:53] leverkuhn: yeah it's time to concede this one
+[18:35:08] leverkuhn: great game from rx3
+[18:35:24] lexgrad: damn
+[18:36:25] scotchwhisky: gg
