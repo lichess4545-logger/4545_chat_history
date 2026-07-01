@@ -1,0 +1,130 @@
+Lichess game chat log
+Game      : https://lichess.org/HRok3vbY
+White     : sahkal
+Black     : drgarras
+Time      : 45+45
+Captured  : 2026-07-01 19:53:06 UTC
+Game ended : 2026-07-01 18:33:02 UTC
+Messages  : 120
+────────────────────────────────────────────────────────────
+
+[16:02:36] sahkal: (2) we are back again with a new season of 45+45 games
+[16:03:37] sahkal: (3) here we see the tarrasch opening, as expected. i have in mind a certain equal endgame position that i want to get on the board
+[16:03:52] sahkal: (3) let's see if it works out
+[16:04:53] sahkal: (4) it goes Nf3 Nc6 cxd5, a move i've never really played before, then d4 Na4 Bxc5 Nxc5 Qa5 Qd2 Qxc5 e3 dxe3 Qxe3 Qxe3 Bxe3
+[16:05:39] aymansoki: good
+[16:05:39] aymansoki: play fast
+[16:06:26] sahkal: (5) and then we get a sort of equal boring position, the kind that i like, difficult to lose hopefully
+[16:08:28] sahkal: (7) but i also get the bishop pair, so long-term i can hope for a little something if he misplays it
+[16:08:43] sahkal: (8) so we are getting all that now by force pretty much
+[16:09:29] sahkal: (9) there is also the alternative move Bd2 now, and then Qxc5 i looked at the move b4 where he has replied incorrectly before with Qb6
+[16:10:00] sahkal: (9) but why go into some unclear position
+[16:10:46] sahkal: (9) let's just play nice and easy
+[16:11:32] sahkal: (9) especially since he's playing quite fast i'm sure he knows a lot of opening theory
+[16:12:17] sahkal: (10) a3 was an alternative to e3, playing with b4 next, he has also made a bad move in that position before with ...a5
+[16:13:49] sahkal: (11) but bad move for the engine doesn't necessarily mean bad move against me
+[16:15:36] sahkal: (12) and now i'm pretty much out of book, many things can happen. the engine liked the move Nge7 instead of Nf6 but both are just fine
+[16:16:37] sahkal: (13) and now i have to think about what i want to do here, where to develop my other bishop, which direction to castle
+[16:16:52] sahkal: (13) how to deal with Bg4, etc
+[16:17:07] rajjsinghh: it amazes me how much B1s really like boring drawish chess
+[16:20:56] sahkal: (13) i think Bb5 doesn't make sense as he replies Bd7 and i don't want to trade those bishops
+[16:21:27] sahkal: (13) Bc4 makes more sense. Bc5 is an option but his knights start jumping around it's a bit scary, he can also castle queenside
+[16:21:58] rajjsinghh: I'll have to ask him about Bc4 Bg4 and the threat to damage the pawns
+[16:22:44] sahkal: (13) i think castling is too early here, so Bc4 looks like the move, then Be6 i take, Bg4 maybe castle or something
+[16:23:45] sahkal: (13) i'm sure many moves are playable, fluid position, no clear weaknesses
+[16:26:17] rajjsinghh: I guess 13...Bg4 runs into Ng5 0-0 h3 or something
+[16:31:53] sahkal: (14) unexpected move! i thought in this case i can castle queenside and the knight is misplaced on b4
+[16:32:39] sahkal: (14) very badly misplaced, running into Bc5 ideas
+[16:33:25] sahkal: (14) maybe he wants Be6 then and get the knight to d5
+[16:36:28] sahkal: (14) Be6 Bb5 Nc6 maybe, Be6 Bxe6 fxe6 Rd6 looks strong though
+[16:42:03] sahkal: (14) Bc5 is a big threat
+[16:42:33] sahkal: (14) maybe i can play Bc5 against Be6, we'll have to think about that
+[16:43:19] sahkal: (14) no then probably Rc8
+[16:45:21] inter-temporal: (14.O-O-O) go sahkal!
+[16:45:21] sahkal: (14) Be6 Bxe6 fxe6 though looks good with the e6 pawn
+[16:45:36] inter-temporal: (14.O-O-O) i'm early just for this.
+[16:45:36] sahkal: (14) but maybe then he can use that d5 square
+[16:47:08] sahkal: (14) okay different move, very controversial allowing Bc5, then Rc8 but that loses i think to Rhe1
+[16:47:23] sahkal: (15) Bc5 what does he want to do?
+[16:47:53] inter-temporal: (14...Bf5) hah! sahkal admitted knowing more than three opening book moves!
+[16:48:09] inter-temporal: (14...Bf5) case closed. we have the confession.
+[16:49:10] sahkal: (15) plenty of tactical possibilities, like Nxa2 but that's a strange one
+[16:50:41] sahkal: (15) Nc2 doesn't work, Rc8 i don't think works either
+[16:51:11] sahkal: (15) Rc8 Rhe1 Be6 (Be4, Ne4) Bb5 wins
+[16:51:42] sahkal: (15) wins is a strong word but that would be a good position
+[16:52:58] sahkal: (15) Bc5 Nxa2 Bxa2 Rc8 Rhe1 Be6  Bxe6 Rxc5 Bc4 and Rd8 mate
+[16:54:14] sahkal: (15) but he could play Be4 instead in that line, it gets pinnes though, b4 b6 Ng5
+[16:55:15] sahkal: (15) so let's say Bc5 Nc6 Rhe1 that's just a huge advantage
+[16:56:01] inter-temporal: (14...Bf5) k. i made my coffee, i'm back. (im not usually here for another hour)
+[16:56:32] inter-temporal: (14...Bf5) wow. so much has changed...
+[16:57:33] sahkal: (15) i don't see it
+[16:58:34] sahkal: (15) might be losing if i'm missing something great but i have to play Bc5
+[16:59:19] inter-temporal: (15.Bc5)  concrete
+[17:01:06] sahkal: (16) wow okay, what is happening
+[17:01:52] sahkal: (16) starting with Rhe1 actually looks even stronger
+[17:03:08] sahkal: (16) Rhe1 Be6 Bb5 Nc6 and Nd4 maybe
+[17:07:12] inter-temporal: (15...Rc8) anti-boring, imo
+[17:07:42] sahkal: (16) looks good i think
+[17:08:44] a3353446: Why does white have 10 min?
+[17:09:00] a3353446: Did they go away
+[17:09:15] sahkal: (17) Bxe6 Rxc5 would be mate but he has fxe6 Rxe6 Kf7 and that saves him
+[17:09:45] inter-temporal: (16...Be6) sahkal still has 10 minutes? might be a record
+[17:10:16] inter-temporal: (16...Be6) usually on increment by now
+[17:10:31] sahkal: (17) Rxe6 is an option but fxe6 Bb5 Nc6
+[17:11:32] inter-temporal: (17...Nc6) am i stupid or has this been some awesome bits of calculation (or both)?
+[17:12:03] sahkal: (18) so yeah we get this great position, and now i thought Nd4 or Ng5
+[17:13:04] inter-temporal: (17...Nc6) 15.Bc5 (in that position) is still making my head spin
+[17:15:06] sahkal: (18) Nd4 i like. his king cannot move, maybe he plays Nd7 Bxc6 bxc6 Nxe6 and then i win
+[17:15:36] sahkal: (18) so maybe he plays a6, then Bxc6 bxc6 Nxe6 fxe6 Rxe6 huge position
+[17:17:07] inter-temporal: (18.Nd4) Q: "should i attack Nc6 or Be6?" answer: "yes"
+[17:23:44] sahkal: (19) Nxe6 fxe6 Rxe6 Kf7...
+[17:25:01] sahkal: (19) Bxc6 bxc6 Nxe6 fxe6 Rxe6 Kf7 Rd6
+[17:25:31] sahkal: (19) Rxe6 fxe6 Nxe6 speculative
+[17:25:46] sahkal: (19) i like Bxc6 most i think, it closes the c file
+[17:26:32] sahkal: (19) strong c5 bishop at the end, and extra pawn
+[17:26:47] sahkal: (20) now i see Nxc6 is also an option...
+[17:27:18] sahkal: (20) but that's scary and not too clever
+[17:29:04] sahkal: (20) should be a winning endgame. not sure what he's thinking about
+[17:32:08] rajjsinghh: games like this are so strange to me. White did nothing all game and is now a pawn up
+[17:32:24] sahkal: (22) Rhd8 R6e4
+[17:33:09] inter-temporal: (22.Rde1) 15.Bc5 would be hard for me to play. maybe impossible
+[17:33:24] inter-temporal: (22.Rde1) (not in retrospect, oc, where everything is obvious)
+[17:34:10] sahkal: (22) then try to get the king higher up the board, a3-b4 if he allows it is probably a good idea
+[17:35:11] inter-temporal: (23.R6e4) seemed like black was not entirely in the mood to calculate. but idk.
+[17:36:43] sahkal: (24) maybe f4 to gain some kingside space, i have a majority there afterall
+[17:39:32] sahkal: (25) wasn't sure about f4, putting pawns on my bishop's color
+[17:40:03] sahkal: (25) he put his rooks in a defensive position, Rcd8 was scarier
+[17:45:23] inter-temporal: (29...Kh7) need a name for own pigz on our 2d rank
+[17:45:54] sahkal: (30) i didn't like Rfe8 Nf4 R8e4 g5
+[17:46:10] inter-temporal: (30.Rf3) tame, well-fed, optically superior, pigs?
+[17:46:25] sahkal: (30) but also Nd3!
+[17:46:56] inter-temporal: (30.Rf3) ahh, d3 could be weak
+[17:47:26] inter-temporal: (30.Rf3) i miss Rs creating outposts for Ns like that
+[17:53:17] sahkal: (34) not much to say, we are just making moves but still a winning endgame for white i think
+[17:53:17] sahkal: (34) just takes some time
+[17:54:03] sahkal: (34) queenside weaknesses, bishop better than the knight here. i can play it slow
+[17:59:10] sahkal: (36) control the knight
+[18:02:13] sahkal: (36) next up Rd6-c6
+[18:03:14] sahkal: (36) the bishop is such a great piece here, attacking the pawns and also defending f2, very important
+[18:05:16] sahkal: (36) something like Nd5 Bxc5 Nf4 Bxa7 Nxg2 should be winning
+[18:06:17] sahkal: (36) if c4 then b4 and Rd6 next chasing the knight around
+[18:07:18] sahkal: (36) c4 b4 Kg8 Rd6 Nd5 Bxa7 Re2 Kd1 is fine
+[18:08:50] sahkal: (36) no it's not there is Nc3 at the end but okay we have something else
+[18:13:25] sahkal: (39) wow is that possible, don't i get Rd7 at the end?
+[18:14:26] sahkal: (40) i think he has to go back with his rook to defend it
+[18:15:12] sahkal: (40) oh he can do that i forgot about that one
+[18:16:28] sahkal: (43) and then i blundered the f2 pawn as well, pretty bad :D
+[18:22:50] sahkal: (49) pretty bad conversion but it is what it is
+[18:23:51] inter-temporal: (50.Ra7) this looks tricky now
+[18:24:07] inter-temporal: (50.Ra7) and i gotta go mobile in a minute...
+[18:24:52] inter-temporal: (50.Ra7) how fast are the rook-Ps
+[18:24:52] grzybozbur: well, the knight can't move
+[18:25:08] grzybozbur: oh
+[18:25:38] inter-temporal: (51...Kf5) desperadp?
+[18:26:08] grzybozbur: i don't think it matters at this point
+[18:26:24] inter-temporal: (52.Rxg7) or just that. yeh
+[18:29:13] inter-temporal: (54.Kc6) wow
+[18:50:02] sahkal: 41.Be5 is actually an accidental great move :D give up the pawns just to keep the bishop around
+[18:50:48] sahkal: but then it wants 42.Bxf4 and thinks that's winning, okay
+[18:51:18] sahkal: yeah that makes sense. well i wasn't thinking along those lines at all
+[19:07:20] sahkal: and i missed a free piece on move 19!
