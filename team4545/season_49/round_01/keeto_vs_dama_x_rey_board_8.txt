@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/RGqcvq4q
+White     : keeto
+Black     : dama_x_rey
+Time      : 45+45
+Captured  : 2026-07-01 16:30:59 UTC
+Game ended : 2026-07-01 15:10:52 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[13:25:12] markmarkedymarkmark: go dama_x_rey!
+[13:49:22] mongreltiger: Go dama_x_rey!!!
+[13:53:29] jfiras: Good luck keeto !
+[14:26:33] keeto: (42) took a season off, definitely let the blitz playing influence me.
+[14:26:48] keeto: (42) i shoudl not still have 30 minutes left given how wild this end game position is here
+[14:28:50] keeto: (42) unsure if they intentionally disconnected here or not, but i know i need to let the clock run out either way
+[14:36:15] matman: White is very likely to win this
+[14:37:01] giziti: (43...Ne2) yeah there are few drawing ideas, I don't think the'll work
+[14:38:48] keeto: (47) i said that, but now it seems pretty clear to just push forward unless i'm missing some knight trickery
+[14:39:33] giziti: (48...Nf3+) black would definitely have an easier time if the king were on the f file and not the h
+[14:39:49] keeto: (49) oh this kind of trickery
+[14:41:36] giziti: (52.f6) trading this pawn is dangerous for white because now black is just a knight trade away from a draw
+[14:47:11] giziti: (54.Kf5) this has to be dead drawn now, right?
+[14:48:12] giziti: (57.Ke3) does Nd7 work to force the pawns off, the king is too far away
+[14:48:27] giziti: (58.Ke4) or even Ng4?
+[14:48:43] keeto: (58) can't wait to see the eval here, but feels like this is a draw lol
+[15:07:49] keeto: (70) going to feel bad if this was just drawn for like 20 minutes but up two pawns and just knights on the board? feels like it can't be
+[15:09:51] jfiras: (70.Ne7) you shouldn't feel bad, that happens, knights are very tricky and too easy to mess up
+[15:10:06] giziti: (69...Kg7) yeah the problem was getting rid of the non-rook pawns
+[15:10:06] jfiras: gg !
+[15:10:21] giziti: (70...Kh6) a rule of thumb i heard is that basically if it would be a drawn pawn endgame, it's a drawn knight endgame
+[15:10:52] jfiras: nice one
+[15:11:53] mongreltiger: gg
