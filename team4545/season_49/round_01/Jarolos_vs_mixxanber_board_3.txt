@@ -1,0 +1,45 @@
+Lichess game chat log
+Game      : https://lichess.org/ew4LKchc
+White     : jarolos
+Black     : mixxanber
+Time      : 45+45
+Captured  : 2026-07-01 21:16:20 UTC
+Game ended : 2026-07-01 19:56:17 UTC
+Messages  : 35
+────────────────────────────────────────────────────────────
+
+[17:06:37] mixxanber: 6... a5, wasn't so sure, but this felt useful if the knight was coming to b3
+[17:11:11] mixxanber: c3 looks a tad weird to me, isn't d4 not really being threatend yet?
+[17:19:50] mixxanber: didn't consider this move, missed that this atacks the pawn on a5
+[17:25:11] mixxanber: 9... Re8 a little weird self-pinning, but I would imagine useful
+[17:27:59] mixxanber: I'm perhaps guessing that I have at least some compensation here, due to the awkwardness of the white knight?
+[17:28:29] mixxanber: Bb6 is weird though, allowing Nc4
+[17:28:45] mixxanber: I think playing a little weird this opening, I should tighten up
+[17:33:35] mixxanber: okay, wasting a ton of time, but focusing from here on out :)
+[17:44:48] mixxanber: very unsure the correct way forward here, but I think sticking with development is logical
+[17:46:04] mixxanber: Ne3 is odd at first glance to me, d5 feels logical now?
+[17:47:05] mixxanber: I guess d5 Bxc6 bxc6 Nxe5 is annoying
+[17:52:25] mixxanber: I found Ng5 way too annoying in all lines
+[17:52:40] stevenlongs: Looks to be some d4-d5 threats
+[17:56:45] mixxanber: need to take care about Nh4 to f5
+[17:59:33] mixxanber: this bishop is preventing any d5 ideas, so I think preparing b5 is important
+[18:00:03] mixxanber: my bishops look a little better placed, so I want to open the position
+[18:07:10] mixxanber: I feel like my position is improving finally? after feeling like I regretted every single move I played
+[18:20:25] mixxanber: wasn't too sure, but it seems like undoing my previous moves has been my best strategy
+[18:20:40] mixxanber: most of my decisions are bad, so i can at least undo them and lead to a net neutral game
+[18:26:16] mixxanber: this looks relatively strong
+[18:27:33] mixxanber: it looks like I win the bishop pair here, and have a really nice open posiiton?
+[18:36:12] mixxanber: taking on b2 seems unecessary at first, but now I'm starting to like it
+[18:37:13] mixxanber: becuase I may have Bb6 trapping the rook
+[18:42:33] mixxanber: I also think I have enough pieces where trading queens I can hunt down these queenside pawns
+[18:51:28] mixxanber: I'm not convinced this is easy to defend for white
+[18:51:43] mixxanber: my c-pawn should run quite fast, and be well supported by the bishop
+[18:56:17] mixxanber: hmm, i feel like I should be winning here
+[19:04:41] mixxanber: (34) ba6 Be5 Rd5 looks like I pick up the pawn?
+[19:05:42] mixxanber: Ba6 Rcb1 Rd8 looks good
+[19:06:13] mixxanber: ba4** not ba6
+[19:10:01] mixxanber: even if I pick up the pawn< i don't want to trade both rooks yet
+[19:14:20] mixxanber: a little unsure of exactly how to convert
+[19:21:28] mixxanber: I'm trying to prevent their bishop from coming to b4
+[19:21:58] mixxanber: I think with this many pieces on, as long as I maintain the position progress will be made
+[19:29:20] mixxanber: I did miss this check
