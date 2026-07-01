@@ -1,0 +1,89 @@
+Lichess game chat log
+Game      : https://lichess.org/zIhPZVEu
+White     : kezberg
+Black     : lynnpv
+Time      : 45+45
+Captured  : 2026-07-01 22:38:47 UTC
+Game ended : 2026-07-01 21:18:42 UTC
+Messages  : 79
+────────────────────────────────────────────────────────────
+
+[20:03:40] handknit: (17...Qxe4) collect collect
+[20:14:36] handknit: (20.Nf5) Bd5 is an interesting idea here to defend d6 without entombing the B on b7
+[20:23:00] atrueravenclaw: Okay Be2 Najdorf
+[20:27:35] handknit: (22.Qf3) d4 is a neat idea here
+[20:28:36] handknit: (22.Qf3) Qe4 is probably cleaner
+[20:30:07] atrueravenclaw: if 22...d4 can white just take Qxb7
+[20:30:22] atrueravenclaw: oh Nxg4
+[20:30:38] handknit: (22.Qf3) yeah
+[20:31:23] handknit: (22.Qf3) but I think both Qh3 and Qf4 aren't actually that pleasant to meet
+[20:32:09] handknit: (22.Qf3) Qe4 to trade the queens and un-iso the isolani seems like the smoothest for black
+[20:32:40] handknit: (22.Qf3) Follow up with Bd5 and cruise in a two pawn up endgame
+[20:32:40] atrueravenclaw: what's the simplest way for black to convert? Is just 22...Nxg4 23. Qxg4 23...g6 fine
+[20:32:55] atrueravenclaw: wow he finds 22...d4
+[20:33:10] handknit: (22...d4) I think the simplest way is to get rid of white's counterplay, thus wanting to trade the queens
+[20:33:56] handknit: (22...d4) 22...Nxg4 leaves white with some ideas. 23.Qxg4 g6 24.Nh6 with pressure on f7. I feel like it objectively doesn't work but...
+[20:33:56] handknit: (22...d4) chances
+[20:33:56] atrueravenclaw: I guess Qxb7 Nxg4 Rf1 gets hit with Ne3
+[20:34:11] handknit: (22...d4) Qxh2# there
+[20:34:26] atrueravenclaw: oh yes Qxh2# lol
+[20:35:42] atrueravenclaw: so then 23. Qxb7 drops the exchange 23. Qxb7 Nxg4 g3 Nxf2
+[20:35:58] atrueravenclaw: very tricky
+[20:35:58] handknit: (22...d4) yeah, Qxb7 loses
+[20:36:28] handknit: (22...d4) but Qh3 or Qf4 are less clear to me. I mean, it feels like the material means black should still be winning, but there's friction
+[20:37:14] atrueravenclaw: Qf4 all the pieces are coming off right. Qxf4 Rxf4 Nxg4
+[20:39:31] handknit: (23.Qh3) And maybe even Bc8 to get rid of the knight
+[20:40:02] handknit: (23.Qh3) but I think white gets a pawn back, and RR5 v RR4 is rarely a gimme
+[20:46:22] handknit: (23...g6) Haven't calculated but things could get very frisky if white plays Rbf1 here
+[20:50:11] handknit: (23...g6) Qh6 is also a clever try but it doesn't quite work
+[20:50:26] handknit: (23...g6) 24.Qxh6 gxf5 25.Rxf5 Nxg4
+[20:55:31] nyanners: umm does white have anything ever
+[20:55:31] handknit: (24.Nh6) anything is possible
+[20:55:46] nyanners: eventually :o
+[20:57:18] nyanners: i suppose black needs one tempo to be totally safe
+[20:57:18] nyanners: there could be some events on the f-file still
+[20:57:48] handknit: (24.Nh6) It's also a blunderable position
+[20:58:03] handknit: (24.Nh6) Like Bc8 to try and trade bishops instantly loses
+[20:58:03] handknit: (24...Bc8) oh hey
+[20:58:03] nyanners: XD
+[20:58:03] handknit: (24...Bc8) look what I made happen
+[20:58:19] nyanners: yeah i mean, thats what i meant :o i was looking for plausible blunders but i didnt think of Bc8
+[20:58:35] nyanners: i was looking at like, Kg7, or Nxg4. looked okay
+[20:59:05] nyanners: maybe white wont see? :o
+[20:59:21] handknit: (24...Bc8) honestly just let the piece go, black still has two pawns for it
+[20:59:21] nyanners: Qe3 still weird-looking yea
+[20:59:51] nyanners: i feel white wont see
+[21:00:06] nyanners: so maybe you bluff with Rxc8
+[21:00:37] handknit: (24...Bc8) I mean, white can still do things like just start with Nxf7+, pick up a pawn
+[21:00:37] handknit: (25.Rbf1) there are options beyond The Win
+[21:00:52] nyanners: yea white stuck to the original plan
+[21:01:07] handknit: (25.Rbf1) ah, now Bxg4 to stimplify the position and black should cruise
+[21:01:07] nyanners: Bxg4 seems quite forcing unfortunately
+[21:01:38] nyanners: or well, unfortunately for white. do we have sides here XD
+[21:03:24] ysgwydd: (25.Rbf1) Black is on my fantasy team, so please find the win
+[21:03:55] handknit: (25...Bxg4) is Qh4 ever anything?
+[21:05:11] nyanners: umm this should be totally winning and yet i feel id still be a bit uncomfortable against a gm here
+[21:05:26] ysgwydd: (28.Qh4) Big rating differences in the other formats fro these two
+[21:05:41] ysgwydd: (28.Qh4) None are GM it seems
+[21:05:57] nyanners: :D i mean, white is somehow still not totally out of ideas i think
+[21:06:12] nyanners: maybe you send it with g4
+[21:06:27] nyanners: and if d4 hangs that would be a good start
+[21:06:27] handknit: (28...Rac8) g4 f4
+[21:06:42] handknit: (28...Rac8) "all the way up there" - rick from rick and morty
+[21:06:58] ysgwydd: (28...Rac8) I would prefer white to not seek immediate counterplay
+[21:07:13] ysgwydd: (28...Rac8) Just play nice and slow
+[21:07:28] handknit: (29.Rd2) Qe3+ a nice inserto
+[21:07:28] nyanners: umm yea i was looking at g5 but definitely too much
+[21:07:58] handknit: (29.Rd2) just 29...Qe3+ 30.Rdf2 Rxc2 and I think that's resignable
+[21:11:18] handknit: (30...Qxf2+) mutual time pressure encroaching
+[21:11:33] ysgwydd: (30...Qxf2+) On this episode of: Do I want to have rook endgame?
+[21:11:48] handknit: (30...Qxf2+) [anna from frozen voice]
+[21:12:34] ysgwydd: (31...Rfe8) A pawn is a pawn and two pawns are two pawns
+[21:12:50] handknit: (31...Rfe8) and two rooks on the 7th is a perpetual, which is probably the thing to watch here
+[21:13:20] nyanners: okay with 1 less rook now id feel comfy playing up
+[21:13:35] handknit: (32.Re1) swap on e1, play Rc4-Ra4
+[21:13:35] nyanners: like THIS is a win
+[21:13:51] handknit: (32.Re1) and three pawns, three pawns is gucci
+[21:16:55] handknit: (36.Kf4) d3+ 0-1
+[21:17:55] nyanners: gg :o
+[21:18:41] ysgwydd: (36...d3+) gg
