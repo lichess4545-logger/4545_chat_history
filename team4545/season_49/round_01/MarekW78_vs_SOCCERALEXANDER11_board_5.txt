@@ -1,0 +1,108 @@
+Lichess game chat log
+Game      : https://lichess.org/tnJj4jTz
+White     : marekw78
+Black     : socceralexander11
+Time      : 45+45
+Captured  : 2026-07-02 21:02:12 UTC
+Game ended : 2026-07-02 19:42:10 UTC
+Messages  : 98
+────────────────────────────────────────────────────────────
+
+[18:03:29] pineapplechiffoncake: that's better!
+[18:03:45] pineapplechiffoncake: Go Marek!
+[18:07:33] guitarspider: (6.Nxe4) Go Marek!
+[18:10:06] cinemashow: go Marek!
+[18:14:55] guitarspider: (10...cxb5) This opening seems to have worked out nicely
+[18:15:25] cinemashow: (11.Qxe4+) this is a weird start
+[18:20:30] guitarspider: (12...O-O) ojectively this should be winning, but White has some development issues still
+[18:21:16] guitarspider: (12...O-O) maybe d3 should be the first move because of that. There's no good discovery
+[18:21:16] cinemashow: (12...O-O) Qd5 or Qe4 W develops the bishop with tempo
+[18:21:47] cinemashow: (12...O-O) eg Bf5 hits c2
+[18:21:47] cinemashow: (12...O-O) so Qxa7?
+[18:22:33] guitarspider: (13.Qxa7) Should be totally fine, but I still prefer getting our pieces out a bit.
+[18:24:35] guitarspider: (13...Bd6) now definitely d3
+[18:27:38] cinemashow: (15...Bb7) this is gettting weirder :)
+[18:29:25] guitarspider: (17.f3) turning the kingside into swiss cheese is definitely an achievement for black
+[18:29:55] cinemashow: (17.f3) at least we have the dsb
+[18:30:11] cinemashow: (17...Qg3) if it ever leves c1
+[18:32:28] cinemashow: (17...Qg3) king heading for the e-file?
+[18:32:43] guitarspider: (17...Qg3) with the lack of white development and the super active black bishops this is a pretty good illustration of the concept of
+[18:32:43] guitarspider: (17...Qg3) compensation
+[18:33:44] guitarspider: (17...Qg3) maybe? I think you might have to move the rook because d3 Qh2+ Kf2 Bg3+ Ke1 Qxg2 is not great for white
+[18:34:15] guitarspider: (17...Qg3) but if you can go to f1 without the bishop check maybe it'll be ok.
+[18:34:30] cinemashow: (17...Qg3) yes that's it, was just looking at g2 hanging
+[18:37:02] guitarspider: (17...Qg3) on a very abstract level, this is the result of not prioritizing development with d3. It's a difficult position now
+[18:37:48] cinemashow: (17...Qg3) don't think that's abstract, it's fundamental :)
+[18:41:21] guitarspider: (18...Qh2+) true, but I suspect Qa3 was the real problem? because Qa7 prevents Bb7 among other moves
+[18:43:24] cinemashow: (19.Kf1) Black gets g2 now anyway?
+[18:46:12] cinemashow: (20...Bc6) Re8 incoming
+[18:46:42] cinemashow: (20...Bc6) we may need Qg1
+[18:48:14] cinemashow: (20...Bc6) maybe Bd2 to connect rooks and control e1
+[18:49:30] pineapplechiffoncake: I like qg1 but I am a chicken. Or maybe d5?
+[18:51:16] cinemashow: (20...Bc6) I vote Bd2
+[18:52:17] cinemashow: (21.d5) the hanging d1 rook makes me nervous for one thing
+[18:53:34] cinemashow: (21...Bd7) Bd2 please
+[18:56:21] cinemashow: (22...Qe5) it's like the Wayward Queen on steroids
+[18:57:07] cinemashow: (22...Qe5) have you ever seen a castled king position like this?
+[18:59:09] guitarspider: (23...Qg3) I'm sure I've had something like this in a blitz game somewhere :D
+[18:59:39] guitarspider: (23...Qg3) Bd2-e1 maybe
+[19:02:27] cinemashow: (25...Re8) Bishop on c5 will be tough
+[19:02:27] cinemashow: (25...Re8) Qf2 here
+[19:04:14] cinemashow: (27.Re1) Be3
+[19:05:15] cinemashow: (28...Rc8) we play Be3 to block
+[19:06:16] cinemashow: (28...Rc8) go Marek!
+[19:09:19] cinemashow: (31...Bc5) back rank!
+[19:09:35] cinemashow: (31...Bc5) take the B
+[19:09:51] cinemashow: (32.Rxg6) it's hanging
+[19:11:07] cinemashow: (33...Bxg6) well the exchange is returned but at least we are in a 2 pawn up endgame
+[19:11:37] guitarspider: (33...Bxg6) yes, this should be good for Marek
+[19:11:53] guitarspider: (33...Bxg6) the black bishop is in danger of being shut out and the white king is active
+[19:12:23] cinemashow: (33...Bxg6) wait, I'm an idiot, he made luft
+[19:12:38] guitarspider: (34...Rd8) yes, back rank wasn't going to be an issue in that way
+[19:13:56] cinemashow: (36...Kf8) I cac't cope, it's too crazy, er, exciting
+[19:14:41] guitarspider: (37.Be3) Ke3 and b4 is a sneaky plan
+[19:15:27] guitarspider: (37...Ke7) now Rc7 probably
+[19:15:42] guitarspider: (37...Ke7) keep the rook active
+[19:24:21] cinemashow: (44...Rb7) d7+?
+[19:24:36] nightsub: go socceralex
+[19:25:06] cinemashow: (44...Rb7) no
+[19:26:54] guitarspider: (47.g4) uh
+[19:26:54] cinemashow: (47.g4) oh no
+[19:27:10] guitarspider: (47.g4) it actually works
+[19:27:10] cinemashow: (47.g4) ha he can't take
+[19:27:25] guitarspider: (47.g4) but it seems a bit unnecessary
+[19:27:40] guitarspider: (47...Bh7) Bb4 needs to be played sooner or later anyway
+[19:28:26] cinemashow: (48.f5) f5 to shut the bishop
+[19:29:12] cinemashow: (48...Kd7) is this a draw now?
+[19:30:28] guitarspider: (48...Kd7) I'm not sure, it might be
+[19:30:58] guitarspider: (49.h4) I don#t think white can force black to move the bishop
+[19:31:29] guitarspider: (49...Kc6) and you can't play g5 without losing f5 now, so that needs to be carefully considered
+[19:32:45] cinemashow: (49...Kc6) feels like he's burned his bridges with h4
+[19:33:00] cinemashow: (49...Kc6) no return for the king now
+[19:34:01] guitarspider: (50...Kd7) probably g5 Bxf5 gxf6 is winning?
+[19:35:02] guitarspider: (53...gxf6) fancy
+[19:35:02] guitarspider: (54.Kxh6) let's hope it works
+[19:35:33] guitarspider: (55.Kg7) but I think it does, Kg7 and you either get the bishop or the third pawn
+[19:35:48] guitarspider: (55.Kg7) and black needs too long to win white's c-pawn, wrong color for the bishop
+[19:36:03] cinemashow: (55...Bd5) push h
+[19:36:18] cinemashow: (55...Bd5) 4 moves to Q
+[19:37:20] cinemashow: (56...Bf3) hmm Bf5
+[19:37:51] cinemashow: (56...Bf3) so g5
+[19:38:06] guitarspider: (56...Bf3) h5 also seems to work
+[19:38:21] guitarspider: (56...Bf3) the pawn just runs
+[19:38:52] cinemashow: (59...Kc5) yep winning
+[19:38:52] guitarspider: (61.h8=Q) Bxf6 was a nice find
+[19:39:07] cinemashow: (61...Ka4) indeed
+[19:40:08] aactrl: (63.Ke4) 63.Qb1!
+[19:40:23] cinemashow: (63.Ke4) ooh yes
+[19:40:38] macha1313: (63.Ke4) looks like I'm tuning in just in time to see the win for our team?
+[19:41:24] guitarspider: (64.Ke3) yeah :)
+[19:41:24] cinemashow: (64.Ke3) I haven't seen your game at all
+[19:41:24] baberle: nice win macha
+[19:41:39] cinemashow: (66...Ka1) this has just beem too heart-stopping
+[19:41:54] guitarspider: gg
+[19:41:54] macha1313: nice!
+[19:41:54] cinemashow: gg
+[19:41:54] baberle: gg
+[19:41:54] macha1313: gg
+[19:41:54] blang316: gg
