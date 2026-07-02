@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/eaOFpk5h
+White     : leverkuhn
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-07-02 20:31:52 UTC
+Game ended : 2026-07-02 19:11:46 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[17:10:26] king_hunter-1: Let's experiment
+[18:35:22] timothyha: (21) I think Qf6 was necessary
+[18:35:22] timothyha: (21) to not drop the f4 pawn
+[18:35:52] timothyha: (21) but maybe the idea is Qxf4 Rf8
+[18:36:08] timothyha: (21) amd Nxh3
+[18:36:08] timothyha: (21) and Bxh3
+[18:46:18] timothyha: (24) Black cannot not sac exchanges in this game
+[18:47:35] timothyha: (25) wow, allowing Bxh3+
+[18:48:20] scarff: Oh, this is a fun looking game! Good luck Artur!
+[18:49:38] timothyha: (25) maybe Qh4 first, then take on h3
+[18:52:56] scarff: Taking with the queen instead of the bishop might be nice yes
+[18:54:43] timothyha: (25) I thought of Qh4 Bxh3 to limit the king
+[18:55:14] timothyha: (25) but Black might be looking for something to sac
+[18:55:44] timothyha: (25) oh Bd4 is a nice touch too
+[18:55:44] timothyha: (26) Boden's mate
+[18:56:00] timothyha: (26) not with Qe4, but almost
+[18:57:00] timothyha: (26) a net is being weaved...
+[18:59:03] timothyha: (27) Ba5+ is available too, depending on White moves
+[18:59:18] timothyha: (27) Ba5 and Bc3 after b3.... interesting
+[18:59:49] timothyha: (28) premoves in 4545? :-)
+[19:01:05] timothyha: (29) I wonder if Bf5 is safe with all the Qe8 stuff
+[19:01:20] timothyha: (29) king runs to h5
+[19:01:51] timothyha: (29) but Bxf5 is available after Qe8+ so Bf5 doesn't seem to work
+[19:04:08] grzybozbur: ok, qxa2 makes no sense
+[19:04:54] grzybozbur: black could have played qa1 first and only then qxa2 if you want to take the pawn
+[19:05:09] timothyha: (30) yeah, to cut the rook from play
+[19:05:55] grzybozbur: i mean to just not give white a tempo for no reason
+[19:06:56] grzybozbur: white has just got qe7 for free, with qa1 first bc2 would be hanging
+[19:08:43] timothyha: (31) draw then
+[19:09:14] grzybozbur: why not re7?
+[19:09:29] timothyha: (32) king runs up
+[19:09:44] grzybozbur: it just looked like mate somewhere with rook threatening rxh7
+[19:11:31] grzybozbur: white had 4 minutes!
+[19:12:02] grzybozbur: you can perp at any time if you don't find mate
+[19:12:32] king_hunter-1: I think he could have found a mate; I thought I was going to lose.
+[19:12:47] timothyha: yeah, the graph shows mating chances
+[19:12:47] king_hunter-1: It wasn't that complicated a checkmate, and White wasn't taking any risks.
+[19:13:02] leverkuhn: What was the mate?
+[19:13:18] king_hunter-1: What a stupid move, Qxa2.
+[19:13:18] grzybozbur: i don't know, but you can repeat at any moment
+[19:13:48] king_hunter-1: Damn, I ruined such a good position.
+[19:14:03] leverkuhn: 32.Re7+ Kh6 33.Qf8+ Kh5 and where's the check?
+[19:14:03] king_hunter-1: h4
+[19:14:19] king_hunter-1: Kxh4 Qf4
+[19:14:34] leverkuhn: hmmm, why didn't I do that?
+[19:14:49] king_hunter-1: I don't know, I thought I was done for.
+[19:16:05] leverkuhn: funnily enough, I was missing that after 33...Kh5 I can just play 34.Rxh7+
+[19:16:21] leverkuhn: I saw that ...Kg5 was dangerous
+[19:17:06] leverkuhn: 17.Rf2 Ne4! was a surpising problem
+[19:17:21] leverkuhn: couldn't find anything for White to do there, but it felt like there might be something
+[19:17:52] king_hunter-1: Yeah, that was a fun match—thanks for the game, buddy.
+[19:18:07] leverkuhn: you too, gl in the season
