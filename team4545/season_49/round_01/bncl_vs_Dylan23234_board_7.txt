@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/01IEcICg
+White     : bncl
+Black     : dylan23234
+Time      : 45+45
+Captured  : 2026-07-02 17:11:57 UTC
+Game ended : 2026-07-02 15:51:42 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[14:11:13] bncl: was also considering 10. Rf3
+[14:20:23] edmachado: Let’s go Dylan!!!
+[14:41:14] edmachado: Oof. How to avoid Ne3 without loosing the d4 knight?
+[14:41:14] edmachado: Is white in trouble?
+[14:55:43] nyanners: yes :o
+[14:56:14] nyanners: think taking d4 with bishop was mandatory
+[14:56:29] nyanners: as in 13 Bxd4
+[14:57:00] edmachado: Yeah
+[14:57:31] nyanners: this seems nontrivial though
+[14:57:31] edmachado: But can white get the piece back?
+[14:58:17] edmachado: I can’t seem to find a good solution for black now
+[14:58:32] nyanners: imo the line is probably 17..O-O cxb5 Ng4 exploiting that Qxg4 undefends the long diagonal
+[14:58:47] nyanners: and white has the problem on f2
+[14:59:33] edmachado: That’s clever yeah
+[15:00:03] edmachado: Does 17...e5 work?
+[15:00:19] nyanners: at best its a worse version, white is just taking on b5
+[15:00:19] edmachado: Making the white pawn block the long diagonal?
+[15:00:49] nyanners: like the point isnt exactly to keep the piece but to keep the threats rolling
+[15:01:05] nyanners: O-O is much better in that sense
+[15:01:05] edmachado: Let’s see, maybe he’s going for it
+[15:04:08] nyanners: umm yeah i thought black might do that
+[15:04:23] rborja1980: Lest go bncl!!!
+[15:04:23] nyanners: bncl fans happy about this sequence
+[15:05:24] nyanners: this seems easier to deal with, like Re2 or Rf1
+[15:06:40] edmachado: Is he going to see the smothered menace?
+[15:06:55] edmachado: Yeah he did
+[15:07:10] nyanners: not only that but Nf2-Nxd3 would be a fork. no way they miss it
+[15:07:25] mtsundance: Should Dylan have gone Ng4 before Bxb2?
+[15:07:25] nyanners: yes
+[15:07:56] edmachado: Black is still fine tho
+[15:08:12] edmachado: Could have been better of course, but we still have a game
+[15:08:12] nyanners: yeah material parity with some initiative
+[15:08:27] nyanners: but white has some potential with f5
+[15:08:27] nyanners: probably shouldnt really work but it might
+[15:11:32] nyanners: i kinda want Qf5 just to mechanically block f5 but things could get weird with like h3 g4
+[15:11:32] nyanners: but thats probably worse for white than for black
+[15:15:05] bncl: greed got me into trouble once in this game already, so now it should be fine, right? Eyeing e7
+[15:16:06] nyanners: qxe7 qxd3 hits f1
+[15:16:06] nyanners: but seems like a good trade on the surface
+[15:17:22] bncl: or finally develop my knight I guess... Qxd3 looked scary after all
+[15:17:22] nyanners: nc3 is disappointing after that whole greed speech.......
+[15:17:22] nyanners: should be good tho
+[15:19:09] edmachado: It will come down to the isolated pawn
+[15:20:56] edmachado: Never mind...
+[15:48:54] nyanners: well then :o
+[15:49:40] nyanners: think white was always winning from when g6 was taken
+[15:50:56] nyanners: where'd black go wrong? okay, you dont play 41..Rb4+, but before that 31..Ra3 to take b3 is probably not worth it
+[15:51:11] nyanners: maybe could find the time for 28..e6 too
+[15:51:26] nyanners: gg
+[15:57:47] bncl: Thanks as always for the comments, nyanners!
+[16:03:22] nyanners: :D
