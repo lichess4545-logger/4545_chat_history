@@ -1,0 +1,158 @@
+Lichess game chat log
+Game      : https://lichess.org/jIh3r7bf
+White     : saybeginner
+Black     : qrs
+Time      : 45+45
+Captured  : 2026-07-02 00:02:58 UTC
+Game ended : 2026-07-01 22:42:55 UTC
+Messages  : 148
+────────────────────────────────────────────────────────────
+
+[20:30:42] tomb85: Go qrs!
+[20:31:58] karasso: Go qrs
+[20:52:35] qrs: (11. ... Nb4) I will have to revisit this position. Was debating Qa5 and d5 as alternatives.
+[21:30:12] qrs: 16. ... Rb8 probably I am blindly missing something, but I have convinved myself  17. Rg3 Rf5 works as well as other variants :D
+[21:31:59] nyanners: if you play petroff when you are young, what will you play when you are old
+[21:32:15] nyanners: this position is kinda terrifying
+[21:32:30] nyanners: i dont see any immediately crushing lines but white's pieces seem to be coming way faster
+[21:36:18] nyanners: i think we start with hxg6 because theres some chance that black ..g5 is good
+[21:36:18] nyanners: to keep things closed
+[21:43:55] karasso: does not look good. Bf6 Rh6
+[21:44:11] nyanners: there might be a Trick
+[21:44:11] nyanners: Bf6 Rh6 Bxb2
+[21:44:41] nyanners: and white might lose by heart attack :o but if no heart attack then the king might actually be safe on the d-file
+[21:44:41] karasso: i guess Kd1
+[21:44:56] nyanners: so yea its indeed not looking good
+[21:45:27] karasso: but i obv. missed Bxb2
+[21:45:27] nyanners: yea see. shock value sometimes is all you need
+[21:46:43] nyanners: Kd1 could enable some Rb1+ sometime
+[21:46:58] nyanners: its probably bad but not as bad as it looks either
+[21:49:00] karasso: After Kd1 bxc4 Rxg6 Bg7 Rxg7 is already mate so there should be no time for black
+[21:50:32] nyanners: ah Rxg7 yes
+[21:50:32] karasso: maybe first Bg7
+[21:50:47] karasso: but than white should have enough time.
+[21:51:18] nyanners: umm Rg3 feels less right
+[21:51:18] nyanners: still Bxb2? why not :D
+[21:52:04] nyanners: might also free for Rf6
+[21:52:04] karasso: still relevant here, Bxb2 Kd1 (maybe also d2, so no Rb1+, but i just wanted to have the king on light squares) and Bg7 back
+[21:52:04] nyanners: though the entire thing looks dubious
+[21:52:19] nyanners: but well, it already looks terrible, so nothing is lost :o
+[21:52:49] karasso: agree, you never know, maybe white takes on b2 ^^
+[21:54:51] karasso: maybe Bxb2+ Kd1/2 Rb7
+[21:56:22] karasso: let's go :D
+[21:56:38] nyanners: :o
+[21:57:39] karasso: After Rb7 Rxg6+ Rg7 Rxg7+ Bxg7 Qh7+ Kf7 (Bh6 Qg6) it is maybe not directly over
+[21:58:40] karasso: however Rh3 with Rf3+ after Kf7 is a problem
+[21:58:40] nyanners: rh3 lift
+[21:58:40] nyanners: yea
+[21:58:40] karasso: ^^
+[21:59:10] karasso: and black is down to 4 min, will be a hard defense
+[22:00:26] karasso: ok, so Rb7 Rxg6+ Bg7 maybe a better try
+[22:00:57] nyanners: ummm this one shouldnt work
+[22:00:57] karasso: bxc4 should loose
+[22:00:57] karasso: lose*
+[22:01:12] karasso: Rxg6 Kf7 Rh7+ gg
+[22:01:27] karasso: and Bg7 again Rxg7
+[22:01:27] nyanners: maybe white is baited into Qxg6
+[22:01:58] nyanners: but white must be focused now after the Bxb2 jumpscare so probably will find it XD
+[22:02:28] qrs: Damn. I think I missed 23. Rxg7
+[22:02:43] qrs: This might actually be fatal.
+[22:02:43] nyanners: umm yea you did but in fairness it was already really bad
+[22:02:58] qrs: And there it is.
+[22:03:59] nyanners: maybe im bad but i dont see the win
+[22:03:59] nyanners: somehow
+[22:04:30] nyanners: absolute cinema??
+[22:05:01] karasso: it is not fair, but i also don't see it
+[22:05:17] nyanners: maaaaaaybe white went a bit too fast
+[22:05:17] karasso: f4 instead of Rh6 was stronger i guess
+[22:05:17] qrs: (25. ... Ke5) Previous moves were forced, so I gained some valuable time. I dont see the knock out yet, so lets hope
+[22:05:32] nyanners: okay nobody sees it. at least thats comforting
+[22:06:17] nyanners: if nothing happens, black slips away with Kd5 Kc6
+[22:06:17] qrs: 26. f3 maybe, i ll stop chatting and focus on calculating
+[22:06:33] nyanners: oh thats a good one
+[22:07:18] karasso: f3 Rf5 ?
+[22:07:18] nyanners: or is it? umm
+[22:07:34] nyanners: difficult to evaluate
+[22:08:50] nyanners: like f3 Rf5 g4 Rxf3 and things are happening
+[22:08:50] nyanners: for sure
+[22:09:51] nyanners: f3 Rf5 g4 Rxf3 Rh5+ Kf6 Bg5+ Ke5..
+[22:10:06] karasso: after g4 there is at least the option to go Rb1+ and Qa4
+[22:10:21] nyanners: oooh funny
+[22:11:07] nyanners: white might just be feeling regret right now
+[22:11:07] nyanners: i think black has fair chances
+[22:11:53] karasso: yes
+[22:12:08] karasso: Rh6+ was way to fast
+[22:13:55] nyanners: maybe 24 Bh6+ was better than i thought
+[22:14:10] nyanners: at least given the game continuation :p
+[22:14:25] nyanners: moment of truth soon
+[22:15:11] karasso: Bh6+ would have won, you're right
+[22:15:41] nyanners: this looked most convincing on the surface
+[22:16:42] karasso: (Bh6+ Kf6 Qf3+ Ke7 Rh7+ Ke8 Qc6+) if anyone is wondering
+[22:17:13] karasso: after Ke7 Bxf8 Qxf8
+[22:17:43] karasso: and then the line, is what i meant
+[22:18:29] nyanners: rf5 forced?
+[22:18:29] nyanners: not Kd5 of course :D
+[22:18:44] karasso: i think so
+[22:18:44] nyanners: d5 Qc7 almost
+[22:19:14] nyanners: yeaa
+[22:19:30] karasso: with 3 seconds
+[22:20:16] nyanners: g4 seems like the only real way to not allow black the Kd5 ride
+[22:21:48] karasso: Rb1+ to gain some time
+[22:21:48] karasso: or not...
+[22:23:04] nyanners: yea i stopped my line at Bg5+ Ke5
+[22:23:20] nyanners: and its still not any clearer to me now
+[22:24:05] nyanners: not g5 Ke5 i guess :o
+[22:24:51] karasso: g5 looks wrong yes
+[22:25:22] nyanners: Ke2 Rxe3 Kxe3 Qf7
+[22:25:22] nyanners: somehow
+[22:25:52] karasso: this game is crazy
+[22:27:23] karasso: it kind of drives me crazy to find a win for white here
+[22:27:40] nyanners: draw by repetition. thats the finish this game deserves
+[22:29:12] karasso: after the Ke2 Rxe3 Kxe3 Qf7 line Qe4 with Rh6+/Rh7
+[22:29:27] nyanners: how about qe4 now actually
+[22:30:28] nyanners: yea idk
+[22:30:43] karasso: Rf1+ R8b1....
+[22:31:14] nyanners: nah that one might be mate at least
+[22:31:14] karasso: probalby winning for white
+[22:31:29] karasso: with Bg5+
+[22:31:29] karasso: yes
+[22:31:44] karasso: so again Rxe3
+[22:35:03] karasso: white also down to 5 min. i personally would be extremly angry at the universe that here is no easy win
+[22:35:18] nyanners: i feel that
+[22:36:19] karasso: i'd go for Ke2
+[22:37:05] nyanners: 3 results now
+[22:37:20] nyanners: maybe you just take the draw
+[22:37:20] nyanners: with bg5 be3
+[22:37:51] karasso: i`d play on, but if he doesn't see anything he might go for it
+[22:38:36] karasso: Ke2 Rxe3 Kxe3 Qf7 Rh6+ Ke7 Qe4 with Rh7 threat and if Rg8 Qb7+ should still be winning for white
+[22:39:37] nyanners: AHAH love the offer
+[22:39:37] nyanners: might be actually accepted tbh
+[22:39:52] nyanners: no blame whatsoever
+[22:40:08] karasso: "it is clearly a draw bro"
+[22:40:38] nyanners: now you repeat differently
+[22:41:09] nyanners: as white id be kinda paranoid like is it being offered because im clearly missing an obvious win
+[22:41:09] nyanners: which, well, we might, for all i know
+[22:41:39] karasso: i am very sure the position is winning for white, but we just don't see it
+[22:41:54] nyanners: cant be that easy if it is
+[22:42:25] karasso: no, but the Ke2 or Qe4 lines looked still good
+[22:42:40] karasso: but no direct knock out
+[22:42:40] nyanners: yeah i liked Qe4
+[22:42:40] nyanners: gg
+[22:42:40] karasso: gg
+[22:43:10] karasso: yes, Qe4 wins, Ke2 not
+[22:43:10] qrs: Thanks for watching. Guess that was a lucky escape.
+[22:43:26] nyanners: umm okay Qe4 Rxe3 Qf4+ funny
+[22:44:11] nyanners: then yea not so difficult
+[22:44:11] karasso: ok, that is not easy :D
+[22:44:27] tomb85: Ggs
+[22:44:27] nyanners: qf4 is just mating net basically
+[22:45:43] nyanners: but taking qf4 further in advance is the hard part
+[22:45:58] nyanners: like ah yea i dont need to take the rook
+[22:46:13] karasso: in between moves, always hard
+[22:47:14] karasso: instead of Rh6+ Rh4 is the only move, that wins directly, also not easy. my first thought f4 doesn't work at all
+[22:47:44] qrs: Well, glad we gave you guys some good entertainment, just read the chat :D
+[22:48:30] nyanners: both sides found a lot of good moves and then white failed the final one
+[22:49:31] qrs: I think 11. ... Nb4 was the wrong move - I was very uncertain at this point how to continue and it all went downhill from there
+[22:50:17] qrs: This strat to delay O-O-O proved very tricky, will have to look into it
+[22:51:48] qrs: Well, once again, thanks for watching and all your valuable comments, I will make sure to look at this game again and attempt to learn sth
+[22:51:48] qrs: Good luck in your games and see yall
