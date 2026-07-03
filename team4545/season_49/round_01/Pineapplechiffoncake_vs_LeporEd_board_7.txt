@@ -1,0 +1,156 @@
+Lichess game chat log
+Game      : https://lichess.org/AHyc0ydV
+White     : pineapplechiffoncake
+Black     : lepored
+Time      : 45+45
+Captured  : 2026-07-03 13:43:31 UTC
+Game ended : 2026-07-03 12:23:28 UTC
+Messages  : 146
+────────────────────────────────────────────────────────────
+
+[11:07:27] cinemashow: go Pineapple!
+[11:10:30] macha1313: go go gadget pineapple!
+[11:16:37] guitarspider: Go captain pineapple!
+[11:17:53] berndwind: Ooh I like it. Captain Pineapple ahoy!
+[11:23:43] cinemashow: my knowledge of the Sicilian is sketchy at best
+[11:26:30] berndwind: I don't know this delayed Alapin stuff so well.
+[11:27:01] berndwind: I still like white slightly more here, especially if black wants to give up the bishop pair
+[11:27:16] macha1313: I've heard both those words before. That's the extent of my understanding here.
+[11:27:16] berndwind: But that's purely subjective, I don't actually know who is better here
+[11:27:31] berndwind: haha macha
+[11:27:47] cinemashow: what do you think of a bishop on f3 though rather than a knight?
+[11:28:02] berndwind: btw macha, was talking to parziwal about you today and we were both saying your rating is finally catching up to your full strength after
+[11:28:02] cinemashow: not sure I like that
+[11:28:02] berndwind: the wins this week
+[11:28:17] berndwind: yeah but it's temporary
+[11:28:32] berndwind: I would (and this is not calculated(
+[11:28:48] cinemashow: Nd2 was the other move I was considering to trade lsbs
+[11:28:48] berndwind: move the bishop to e2 and look for f4
+[11:29:49] berndwind: I actually prefer this I think? I like the bishop pair rather a lot haa
+[11:29:49] macha1313: move f pawns always makes me nervous. Seems it's tricky to know when they're safe to use.
+[11:30:04] nyanners: you could just go Be2 Bf4 if in doubt
+[11:30:04] nyanners: which i might
+[11:30:04] nyanners: but yeah f4 should be right
+[11:30:34] berndwind: I'm sadly an overly aggressive bastard and would find it very hard to turn down f4
+[11:30:34] nyanners: like, white is just better if nothing happens. f4 could make something happen and you dont want that
+[11:30:34] nyanners: or well, some people might :o
+[11:30:50] berndwind: Ok maybe Kh1 first haha
+[11:31:05] nyanners: i am more of a nothing happens kinda person
+[11:31:05] berndwind: That's my little not to safety
+[11:31:35] berndwind: Well a coach i worked with for a while recommended that to me. Just wait and let the opponent lose the game
+[11:31:35] berndwind: Oh I meant little nod
+[11:32:06] nyanners: i mean, id say the nuance here is about the direction you want the game to go
+[11:32:21] nyanners: here white has strong static advantages in bishop pair and space and structure
+[11:32:36] berndwind: Ah yes good point. No need to push or rush
+[11:32:51] nyanners: so random small improving moves seem to be called for over drastic changes of the structure
+[11:32:51] nyanners: but well, f4 is what you do if the position is balanced
+[11:33:07] nyanners: because then you arent risking as much expected value
+[11:33:07] nyanners: at least thats what i think, anyway :o
+[11:33:22] berndwind: ooh light bulbs are going off. Like that a lot
+[11:33:37] nyanners: good :o
+[11:33:53] berndwind: Ok so simply a 4 here perhaps for a start? To not give black anything over there
+[11:33:53] macha1313: I have been trying to get in that mindset more. When you're winning, play safe and don't throw the game.
+[11:34:08] macha1313: it's easier said than done
+[11:34:24] berndwind: says macha who just had a 15 move crush ;-)
+[11:34:39] nyanners: the main question is about the b4-square i think
+[11:34:54] nyanners: and theres c4 too
+[11:35:25] nyanners: so well, if we worry about Rc8-Nc4, then f4 comes into consideration as prophylaxis (!)
+[11:35:40] nyanners: but i think id roll with 14 Be3 into Qb3 if Rc8 happens
+[11:35:40] nyanners: or Bf4. not totally sure
+[11:35:55] berndwind: haha love it. f4 as prophylaxis :-o
+[11:36:10] nyanners: like, Bf4 Qb6 Rb1? thats slightly ugly
+[11:36:26] berndwind: I like Be3. Was thinking of that as a decent way forward if not f4 or a4
+[11:36:41] nyanners: so we can start with Qb3. that might force b5 and.. is that good? heh
+[11:37:12] nyanners: the evaluation of such lines usually hangs on a4
+[11:37:12] nyanners: Qb3 b5 a4. i like it
+[11:37:28] berndwind: Ah ok... if a4 is good or not
+[11:37:28] berndwind: Yes I like that too
+[11:38:14] nyanners: Be3 is the normal move. Qb3 might be Too Deep, for better or for worse
+[11:38:29] berndwind: if b5 here, does look a little tricky. Not sure what I'd play. Would be a long think moment
+[11:38:44] berndwind: I like your Qb3 idea actually
+[11:39:15] nyanners: Be3 may enable some tricks with b5 a4 Nd5 Nxe4 Bb6
+[11:39:30] nyanners: nah dont see it
+[11:40:00] berndwind: haha Qb3 now?
+[11:40:31] berndwind: and if nothing happens, Rad1 and go from there
+[11:41:01] nyanners: yeah this seems improved for white
+[11:41:16] nyanners: like Qb3 b5 a4
+[11:41:47] nyanners: immediate a4 is.. are we going Bc1
+[11:42:02] berndwind: if b5 a4, is there any trickery with b4 followed by Qxb4 and d5?
+[11:42:17] berndwind: I meant the line with Qb3
+[11:42:48] cinemashow: shame we didn't get Qb3
+[11:43:18] nyanners: short answer is i dont know
+[11:44:19] nyanners: one good thing would be that a6 would be hanging
+[11:45:05] berndwind: true. I was worried about fork tactics but yeah i don't think it works
+[11:46:21] nyanners: black's position is kinda coming together
+[11:47:22] berndwind: Yeah it's looking a lot better. Funny how a couple of moves can make such a difference. And white didn't do anything horrendous
+[11:48:08] nyanners: Bxc4 is a wrong step and Qb3 seems superficial
+[11:48:23] nyanners: Qc7 refuted it entirely and now you dont have Qd3
+[11:49:09] berndwind: True. I didn't like Bxc4 and was thinking Qd3 rather than b3
+[11:49:55] berndwind: Do we have to play f3 here? :-(
+[11:50:40] nyanners: i dont know but if you play f3 black is definitely taking over
+[11:50:55] nyanners: sicilian blood has to make one find d5
+[11:51:27] berndwind: Well let's see if there's Sicilian blood!
+[11:51:27] nyanners: d5 also threatens Rb4 by the way..
+[11:51:42] berndwind: Yeah that was my main concern re d5
+[11:53:14] berndwind: Ok if in panic mode, I would play a5 here
+[11:53:29] berndwind: Just to stop any tricks and loose pieces
+[11:53:59] nyanners: umm this tempo should help a lot. does it
+[11:54:30] nyanners: a5 helps but probably just deny d5 with Rd1
+[11:54:45] nyanners: not sure which..
+[11:55:00] nyanners: f probably
+[11:57:02] nyanners: nice :D ill take a break before this gets too demanding. gl
+[11:59:04] berndwind: Eh? Surely this doesn't work? Or hang on.... Hmmm
+[11:59:34] berndwind: Oh there are some nasty back rank things for white if black tries to get too fancy
+[12:00:35] berndwind: exd Nxd Nxd and we are threatening Nxe7 followed by Rd
+[12:00:35] berndwind: Rd8
+[12:01:06] berndwind: Take the rook and then the queen
+[12:01:21] berndwind: piece up
+[12:01:36] cinemashow: yep
+[12:01:51] berndwind: and there are no in between moves that work
+[12:02:07] berndwind: pineapple can find this. Go captain pineapple!
+[12:03:08] berndwind: Ok this is awesome for white
+[12:04:39] cinemashow: Rd8
+[12:05:09] berndwind: If Rd8, Bc5 would be a blast of cold air
+[12:05:25] berndwind: Still better for white, but not necessary
+[12:05:25] cinemashow: oops
+[12:07:12] berndwind: I'd even seriously consider taking that knight
+[12:07:27] berndwind: But not necessary
+[12:07:27] berndwind: Bd4 should be fine?
+[12:08:13] macha1313: would Ba5 not work, too?
+[12:08:13] berndwind: Or if you want to give a pawn and simplify, a5
+[12:08:13] berndwind: No
+[12:08:28] berndwind: there's a fork on e3
+[12:08:28] macha1313: oh, because ne3?
+[12:08:28] berndwind: yup
+[12:08:28] macha1313: I got there eventually :)
+[12:08:43] berndwind: hehe didn't take you long!
+[12:08:58] berndwind: Also even if not for that, the bishop is awkward there
+[12:09:44] berndwind: Pineapple is using her time really well and is being rewarded with a completely winning position
+[12:09:44] macha1313: I was thinking that would try to maintain its view of d8, but maybe that's not so important
+[12:10:30] berndwind: Yeah it's nice to keep threatening the trade on the back rank, but at the same time we need to always watch out, especially with tricky knig
+[12:10:30] berndwind: knights
+[12:11:15] berndwind: actually this is nice
+[12:11:31] berndwind: She wins back the pawn with Rdc1
+[12:11:31] berndwind: and the rook gets active
+[12:11:31] berndwind: I like it
+[12:12:32] berndwind: And if black gets careless and responds with Ne2, Re1 just wins it
+[12:12:47] berndwind: Ok this is fine too I think
+[12:13:02] berndwind: Gives black a chance to hang back rank mate lol
+[12:14:49] berndwind: Yeah this is why Rdc1 was a little better
+[12:15:04] berndwind: Still great of course.
+[12:15:04] berndwind: Yup this is why
+[12:15:19] berndwind: Actually the knight is trapped I think
+[12:15:35] berndwind: Yup
+[12:15:35] berndwind: Haha of course not oops
+[12:15:50] berndwind: But now we take the pawn and threaten back rank mate and the a6 pawn
+[12:17:06] mennonite: Go Pineapple!
+[12:17:22] berndwind: I would have just taken the pawn haha
+[12:17:37] berndwind: Now there are pawns to take care of
+[12:17:52] berndwind: Ra8 should finish things off though
+[12:17:52] mennonite: Ra8
+[12:18:08] berndwind: yup
+[12:20:56] mongreltiger: Go Pineapple Go!
+[12:22:58] berndwind: gg
+[12:33:08] blang316: gg
+[12:47:06] baberle: gg
+[13:14:02] mongreltiger: gg
