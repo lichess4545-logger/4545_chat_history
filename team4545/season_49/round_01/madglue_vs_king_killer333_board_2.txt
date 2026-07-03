@@ -1,0 +1,50 @@
+Lichess game chat log
+Game      : https://lichess.org/8cXqqCqm
+White     : madglue
+Black     : king_killer333
+Time      : 45+45
+Captured  : 2026-07-03 15:40:32 UTC
+Game ended : 2026-07-03 14:20:17 UTC
+Messages  : 40
+────────────────────────────────────────────────────────────
+
+[12:16:28] jeeprep2374: (15.Bb5) both players have played quite fast till now, but I dont love black's position right now
+[12:16:58] jeeprep2374: (15.Bb5) It seems like black is just a pawn down with little to show for it
+[12:17:44] jeeprep2374: (15.Bb5) I might be wrong and black may be fine, but I would take white in a heartbeat
+[12:20:16] bncl: go king killer!
+[12:22:49] bncl: I play something like this as well, I think black is fine
+[12:24:05] bncl: I'm also guessing most of this is prep so far for black since it's been played so quickly
+[12:25:36] jeeprep2374: (16.Re1) Certainly seems like prep, but black's lead in development dosent feel like enough compensation for a full pawn
+[12:26:07] jeeprep2374: (16.Qa5) with d5 also being quite weak.
+[12:26:37] jeeprep2374: (16.Qa5) am I missing something or can white just play a4-Ba3-Bb4?
+[12:29:25] bncl: seems like they are having the same idea
+[12:32:43] fischer_and_chips88: black could probably sac the exchange and take on c3, probably easier to play than allowing Bb4
+[12:33:14] jeeprep2374: (19.Bb4) Still possible to sac the exchange, if black dosent, a5 shuts down all counterplay
+[12:33:14] fischer_and_chips88: or equivalently take twice on b4
+[12:33:44] fischer_and_chips88: yep, this looks lost for black I think
+[12:34:31] jeeprep2374: (20.a5) looking at it further, saccing an exchange dosent help black much anyway, still no counterpaly
+[12:38:04] jeeprep2374: (20.a5) It does still feel difficult for white to proceed, d5 is defended, and black dosent have any other major weaknesses
+[12:38:34] bncl: I'm not following why this is so bad for black
+[12:39:20] jeeprep2374: (20.Re5) pawn down, mostly.
+[12:39:20] bncl: I'm much lower rated, but I do play in this line and I know losing the pawn is theory
+[12:39:35] bncl: at least up to move 10 I have the same stuff prepped
+[12:39:35] bncl: maybe I should change that!
+[12:40:06] bncl: But assuming it's fine through the first ten moves, I wonder where things went wrong...
+[12:40:36] jeeprep2374: (20.Re5) I think black rushed with trades, especially the Bb4-Bxc3, opening up the c1 bishop for a3-f8 diagonal
+[12:41:07] jeeprep2374: the less pieces there are the more white's pawn advantage is important.
+[12:41:52] bncl: okay, that makes some sense -- I think 11... Bd6 is the move I have played before but would need to double check
+[12:42:08] bncl: I know I'm supposed to come out of it with a development advantage, but maybe we're watching that slowly slip away here?
+[12:42:54] bncl: (rather than having one move to point to as a where things went wrong)
+[12:45:58] jeeprep2374: it has already slipped away, if anything white has the developmental lead
+[12:46:29] fischer_and_chips88: the pawn sac doesn't make much sense to me because black also had to move the bishop twice
+[12:46:29] fischer_and_chips88: Bf5 then Bd7
+[12:46:59] fischer_and_chips88: normally if you sac a pawn in the opening it is followed with an immediate counter strike, not a defensive retreating move
+[12:48:00] jeeprep2374: I would assume that is prep, but even if the engine likes it this is not something I would go for
+[13:45:43] jeeprep2374: "a draw in hand is better than a potential win" - JEEprep2374, 2026, hoping that black holds this position
+[14:12:40] jeeprep2374: (44.Ne6) looking at this I am not so sure this is winning
+[14:13:11] jeeprep2374: (45.g3) after d3 Nc7 or something
+[14:18:31] jeeprep2374: (48.Nd5) what is this
+[14:18:46] jeeprep2374: (48.Nd5) pretty sure Bc4 just wins on th spot
+[14:19:01] jeeprep2374: Bc5*
+[14:20:02] jeeprep2374: (51.d5) missed black had Nc7, but 2 paws is 2 pawns
+[14:22:50] jeeprep2374: huh, the game was pretty much equal for a lot longer than I thought
