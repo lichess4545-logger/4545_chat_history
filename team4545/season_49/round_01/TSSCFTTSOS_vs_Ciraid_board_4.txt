@@ -1,0 +1,49 @@
+Lichess game chat log
+Game      : https://lichess.org/BFl0Gdul
+White     : tsscfttsos
+Black     : ciraid
+Time      : 45+45
+Captured  : 2026-07-03 20:46:35 UTC
+Game ended : 2026-07-03 19:26:32 UTC
+Messages  : 39
+────────────────────────────────────────────────────────────
+
+[18:04:03] ciraid: my opp plays pretty much what he has in his database.. He avoided my slight move order trick. let's see what I prepared against Be2
+[18:05:04] ciraid: three possible takes let's see what he decides. quite fast decision
+[18:05:04] basilcandle: go ciraid!
+[18:07:21] ciraid: here usually black goes re8 but there is the annoying e5. Hence Nbd7 first playing next Re8
+[18:07:36] kayrosas: lets go tssc!
+[18:10:54] ciraid: white had to defend e4. now we continue with our plan for QS expansion
+[18:12:41] kayrosas: 12.a4 seems automatic i think
+[18:13:43] ciraid: my plan is simple b5 c4 and Nc5. Hence it makes sense now to stop b5 with a4
+[18:15:30] kayrosas: a4 Rb8 a5 b5 axb6 Nx6 seems like typical benoni position. give up a6 and have decent pressure on b2
+[18:17:32] kayrosas: maybe white also has a4 Rb8 Re1, but Im not familiar enough with these positions to judge
+[18:18:33] ciraid: white spot the right idea to stop my plan momentarily
+[18:18:49] ciraid: now Qc7 c4 Nc5
+[18:23:38] ciraid: why to give up the e5 squre so easily . d4 is a serious weakness now
+[18:25:10] kayrosas: yea I dont like f5. I think usually the breakthrough for white is e5 fxe5 f5, to make sure black doesnt get the e5 square
+[18:26:26] kayrosas: but maybe with fxg6 white has enough play with Ng5 to justify it it
+[18:31:32] ciraid: the center is about to collapse and the white pieces are  not holding it
+[18:31:32] kayrosas: whats the plan after 15...h6?
+[18:36:37] ciraid: I casn take twice on e4 and the Bf5 pin but Rxf5 l;eaves me wit h a wrecked KS but material up. The other candidate is H6to kick back ...
+[18:36:37] ciraid: ...the knight, this softens KS but is not as bad as Nfxe4
+[18:42:44] kayrosas: Im afraid white is lacking active pieces here to justify the sac
+[18:52:08] kayrosas: 23.Kh1 there can be some swindle ideas but I think Re7-g7 shuts them all down :(
+[18:55:42] lorb: suppose white tries 24.Rg1 and 25.e4 what is blacks best plan?
+[18:58:15] kayrosas: could be winning now? not sure
+[19:00:01] kayrosas: Rg1 Kh6 Qf2 maybe, Kf7 Qf2 Ke8 Rg7 Kd8 Qf7, what does black do?
+[19:00:47] kayrosas: I considered 24.Qf2 first, but I think there black has Re7-g7 again, think white needed to be more forcing
+[19:20:25] basilcandle: 27...Kh7 only move yeah?
+[19:21:26] kayrosas: yep
+[19:21:41] lorb: unfortunately after Kh7 white can take on e4 with check and go into a non-trivial endgame
+[19:21:57] basilcandle: so is this a draw?! I'm not sure what to play
+[19:21:57] kayrosas: well, Kh8 also works, just have to repeat after Qh6 Kg8 Qe6
+[19:22:43] kayrosas: whites king is very weak, the rooks should get active quite fast and then make the difference
+[19:22:58] lorb: I'm sure it's technically winning for black, just not so easy to convert as being a full piece up
+[19:23:28] kayrosas: i think whites best try might be Kh7 Qf5 Kh8 Nxe4, that looks unclear actually
+[19:23:59] basilcandle: hmm was there something better than 26...Nxe4, I was wondering if Re8 was a move at first
+[19:25:00] kayrosas: Qd3 maybe
+[19:26:01] kayrosas: will we see a repetition?
+[19:26:17] basilcandle: tricky!
+[19:26:17] kayrosas: gg!
+[19:26:17] basilcandle: good game!!!
