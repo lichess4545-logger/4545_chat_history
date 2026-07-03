@@ -1,0 +1,107 @@
+Lichess game chat log
+Game      : https://lichess.org/KVHLCpa1
+White     : aloo_bhaloo
+Black     : rajjsinghh
+Time      : 45+45
+Captured  : 2026-07-03 22:06:02 UTC
+Game ended : 2026-07-03 20:46:00 UTC
+Messages  : 97
+────────────────────────────────────────────────────────────
+
+[18:06:52] inter-temporal: go Raj!
+[18:08:08] inter-temporal: go Baberle!
+[18:08:23] baberle: lol go inter-temporal!
+[18:08:38] baberle: I’m watching from a cloudy dream state of consciousness
+[18:10:40] inter-temporal: me too. 1st coffee
+[18:11:41] rajjsinghh: I love playing sharp positions on vague memories of what i'm supposed to do
+[18:12:27] inter-temporal: it's interesting, for sure
+[18:13:12] sahkal: i am rooting for the black side
+[18:13:58] sahkal: because it's my teammate playing black
+[18:14:14] rajjsinghh: i was watching some Naroditsky game where he showed this line
+[18:19:03] rajjsinghh: vague memories tell me 10...d5 was inaccurate so now let's see
+[18:45:18] rajjsinghh: i think a big difference here is that i can play b6 Bb7 but b3?! b5 is strong
+[18:46:19] rajjsinghh: so i feel quite happy with this position and i'd imagine it can only get better
+[19:57:23] ipr: (34...Rfd8) test
+[19:57:53] rajjsinghh: i definitely missed something in the attack and now the mistakes start
+[20:02:28] nrv773: Black is clearly better; look at the king activity.
+[20:02:43] nrv773: :p
+[20:08:35] nrv773: I was looking at Rf6, does that work
+[20:08:50] nrv773: ?
+[20:10:22] nrv773: I guess you want to avoid Re7+
+[20:20:17] inter-temporal: (39...Rxh3) tricky spot
+[20:21:48] inter-temporal: (40.Re8) hey! my prepend move is working again :)
+[20:26:09] inter-temporal: (43...Bxd5) maybe Re5 holds on for white
+[20:27:10] inter-temporal: (44...Rg2+) why does that looks scary for white? maybe it's just me
+[20:27:40] inter-temporal: (44...Rg2+) not just me
+[20:29:12] inter-temporal: (45...fxg2) maybe white can sac back
+[20:30:45] inter-temporal: (45...fxg2) if 46.Rc1 Kf6 47.Rh8 seems to defend. sooo
+[20:32:16] inter-temporal: (46.Rec8) what's white's move if Kf6 now
+[20:32:47] inter-temporal: (46.Rec8) Rh8 probably
+[20:34:34] inter-temporal: (46...Kh6) sneaky. aiming for ...Rh7, i think
+[20:34:49] inter-temporal: (47.Rh8+) white saw it
+[20:35:50] inter-temporal: (48.Rh3) white's going for the win, yeh?
+[20:37:21] inter-temporal: (49.Rb3) maybe ...Kf6 now is more effective
+[20:38:22] inter-temporal: (49.Rb3) oh, but Rb6+
+[20:38:37] inter-temporal: (49.Rb3) then ...Kg8 or smth
+[20:41:55] inter-temporal: (49.Rb3) walk the Black K to a7. lol
+[20:42:26] sahkal: What is going on
+[20:42:26] sahkal: Epic game
+[20:42:41] inter-temporal: (49...Kh6) extraordinary
+[20:42:41] sahkal: Because it reached the endgame
+[20:42:57] inter-temporal: (49...Kh6) they're both going for it
+[20:42:57] sahkal: But what happened in the middlegame, I have to take a look
+[20:43:28] inter-temporal: (49...Kh6) symmetric KID
+[20:43:58] inter-temporal: (50.Rb6) but after 10...cxd5 white went 11.exd5
+[20:44:13] sahkal: All sorts of things happened
+[20:44:13] sahkal: Long and nice game
+[20:44:44] sahkal: But now did white blunder this?
+[20:44:44] inter-temporal: (51.Rxb7) he's defending well so far
+[20:44:59] sahkal: No?
+[20:44:59] inter-temporal: (52.Kh3) it looked over
+[20:45:14] sahkal: gg
+[20:45:29] inter-temporal: /w (52.0-1White resigned • Black is victorious) (52.0-1White resigned • Black is victorious) then i missed the end
+[20:45:29] inter-temporal: lol
+[20:45:45] sahkal: Huge win, congrats raj!
+[20:45:45] inter-temporal: imean. what seemed to be defending well
+[20:46:00] inter-temporal: he was!
+[20:46:30] inter-temporal: just as we turned to analyze the middlegame, after 49...Kh6 it turned
+[20:47:31] sahkal: True
+[20:47:31] inter-temporal: i thought after 49...Kh6 there'd be 50.Rh3+
+[20:47:46] aloo_bhaloo: Could've bailed out a while ago
+[20:48:02] rajjsinghh: Rh3 Kg7 Rb3 I thought he'd bail out
+[20:48:02] rajjsinghh: engine says it's winning
+[20:48:02] sahkal: f3
+[20:48:17] rajjsinghh: yeah i saw f3 late oops
+[20:48:17] inter-temporal: sahkal showed up and the game flipped on white. hmmm. coincidence?
+[20:48:17] sahkal: Play f3 and take g2 with the king yeah
+[20:48:32] sahkal: Bringing luck to my teammate
+[20:48:47] inter-temporal: or is sahkal bad luck for aloo?
+[20:48:47] sahkal: No
+[20:48:47] inter-temporal: maybe both
+[20:48:47] inter-temporal: lol
+[20:49:18] inter-temporal: no. aloo why 50.Rb6
+[20:49:48] rajjsinghh: i know naroditsky said engines hate these positions so idk how much is me misevaluating
+[20:50:03] aloo_bhaloo: I completely missed f3 ideas
+[20:50:34] rajjsinghh: I was trying to play Be4 to not let you sac the exchange and then i saw f3
+[20:51:05] rajjsinghh: I'm surprised the attack wasn't outright winning
+[20:51:20] inter-temporal: white rooks became monsters
+[20:51:50] rajjsinghh: like around where you played c5 i thought white was in a lot of trouble
+[20:52:36] aloo_bhaloo: I felt I was always well covered. infact i could slowplay c5
+[20:53:06] sahkal: Do you guys have fide or other types of otb ratings?
+[20:53:37] rajjsinghh: I'm around 1750 ECF, 1820ish FIDE rapid
+[20:53:37] aloo_bhaloo: I've never played otb
+[20:53:52] nrv773: I only have cfc
+[20:53:52] sahkal: I see
+[20:54:07] nrv773: And provisional fide
+[20:54:07] sahkal: Nice
+[20:54:38] inter-temporal: "human belief matters more than SF evals"--Capablanca
+[20:55:09] sahkal: Depends on what you mean by matters
+[20:55:24] aloo_bhaloo: This is my second heartbreak of the day, and its 2 am here. couldn't get worse
+[20:55:40] aloo_bhaloo: really underestimated the endgame
+[20:55:40] sahkal: You can still win next round
+[20:56:25] inter-temporal: you'll be back!
+[20:56:56] nrv773: I am sorry, hope things go better the rest of the day
+[20:57:11] aloo_bhaloo: its telling you guys immediately pointed out f3
+[20:58:27] rajjsinghh: i mean them seeing f3 is easier when they're not playing
+[20:58:42] aloo_bhaloo: @rajj did you consider 20..e4?
+[20:59:28] aloo_bhaloo: looks bad for me
