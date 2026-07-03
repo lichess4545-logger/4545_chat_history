@@ -1,0 +1,45 @@
+Lichess game chat log
+Game      : https://lichess.org/liybwVxs
+White     : rosey001
+Black     : ekopp2000
+Time      : 45+45
+Captured  : 2026-07-03 23:44:06 UTC
+Game ended : 2026-07-03 22:23:58 UTC
+Messages  : 35
+────────────────────────────────────────────────────────────
+
+[21:01:35] warvold: Go go rosey!
+[21:01:35] warvold: Do the jedi's tricks
+[21:01:35] namegoesinhere: (3.d4) go ekopp!
+[21:01:35] warvold: hey ngih
+[21:02:36] namegoesinhere: (4.dxe5) hey warvold
+[21:04:23] namegoesinhere: (5.Nd4) this looks a little spicy already
+[21:04:38] namegoesinhere: (5.Nd4) which is suprising for a petrov
+[21:05:24] rosey001: I knew he played the petrov sometimes but I was hoping he'd let me play into the scotch gambit
+[21:12:00] rosey001: he must think i don't know about en passant
+[21:28:00] aldric123: Go Rosey001!
+[21:32:34] kborman: Go ekopp!
+[21:48:35] rosey001: never play f3
+[21:56:29] rosey001: I'm calculating a queen sac line but I don't think it works
+[22:06:42] aldric123: I'm kinda impressed with 15.Nxc6, Took me a sec to understand how it worked
+[22:06:57] warvold: It was a nice tactic :)
+[22:07:43] namegoesinhere: (17.Qxe3) yeah, it's not a super complicated line but it's kind of hard to start considering the move in the first place
+[22:08:13] aldric123: Yep, that's mainly what I was impressed with. Once I saw it I understood it pretty quickly. But seeing to try in the first place is ...
+[22:08:13] aldric123: ...often the tricky part. Though I see I've just restated what you said. :)
+[22:09:29] aldric123: Maybe Rad1 and say it's about equal? Not sure I don't prefer black a bit though
+[22:13:33] warvold: It looks very equal I must say
+[22:13:48] aldric123: I agree that white should be able to draw it. It's just the fact that f3 was played and slightly preferring black's queens position
+[22:14:19] aldric123: But I imagine an engine would draw this with white. Be interesting to see what humans do.
+[22:15:04] aldric123: crap that's a good move
+[22:15:35] aldric123: Hmm that addon isn't prepending the move. I'm meaning 18...Qa4 is a good move. If anybody is reading the chat later.
+[22:16:36] namegoesinhere: (18...Qa4) yeah the move number addon broke for a while, it should be fixed if you update it
+[22:16:51] namegoesinhere: (18...Qa4) and I agree Qa4 is nice, feels like white will have to trade rooks and at least temporarily give up the d-file
+[22:17:06] rosey001: oh shoot
+[22:17:21] aldric123: Ouch
+[22:17:37] aldric123: How do you update the addon btw?
+[22:18:22] aldric123: Well you played well rosey, but it's over
+[22:18:37] namegoesinhere: (19...Rxd1) should be a button that says update here if you're using the same one as me:
+[22:18:37] namegoesinhere: (19...Rxd1) https://greasyfork.org/en/scripts/422291-lichess-wh
+[22:18:37] namegoesinhere: (20.Qe7) https://greasyfork.org/en/scripts/422291-lichess-whisper-switch-by-ipr
+[22:19:08] aldric123: Thank you NameGoesInHere, I'll check em out now
+[22:21:10] aldric123: Testing
