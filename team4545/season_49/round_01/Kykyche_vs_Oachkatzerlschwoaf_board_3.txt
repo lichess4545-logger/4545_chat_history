@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/1ocz9XCL
+White     : kykyche
+Black     : oachkatzerlschwoaf
+Time      : 45+45
+Captured  : 2026-07-03 20:51:34 UTC
+Game ended : 2026-07-03 19:31:32 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[18:04:47] oachkatzerlschwoaf: hi it
+[18:05:03] oachkatzerlschwoaf: maybe ill whisper this game. staying silent hasnt worked out so well the last few games
+[18:05:03] inter-temporal: go Oachkatzerlschwoaf!
+[18:05:18] inter-temporal: wherez my prepend move...
+[18:05:33] oachkatzerlschwoaf: 4...Bb4 there are some funny lines with Qb3 a5 here
+[18:05:48] inter-temporal: (5.Bd2)
+[18:05:48] inter-temporal: i might have to relead or smth
+[18:06:04] oachkatzerlschwoaf: Bd2 is also fine
+[18:06:34] oachkatzerlschwoaf: dont think e4 is possible rn, lets stay mindful of that
+[18:08:36] oachkatzerlschwoaf: in general, white can only claim an advantage if they get e4 with tempo or they go for a g3 setup
+[18:08:36] oachkatzerlschwoaf: which they do
+[18:08:51] oachkatzerlschwoaf: thats annoying
+[18:10:54] oachkatzerlschwoaf: yeah the combination of g3 and Qb3 seems not so great for me
+[18:11:40] inter-temporal: (6.g3) my auto-prepend move is gonna irritate me...
+[18:11:55] oachkatzerlschwoaf: transpose to stonewall? 6...d5?
+[18:14:28] oachkatzerlschwoaf: (6) lets evaluate candidates: d5, d6, Bxc3, b6
+[18:15:59] oachkatzerlschwoaf: but if I go d5 then c5 I lose my dsb
+[18:16:14] oachkatzerlschwoaf: and im weak on the dark squares in a stonewall
+[18:16:45] inter-temporal: whittle down the candidates to just 2, asap
+[18:17:15] inter-temporal: otherwise you burn too much time, my dude
+[18:20:33] inter-temporal: still no prepend move... (6.g3)
+[18:21:49] oachkatzerlschwoaf: (6...b6) not very sure about this
+[18:22:05] rborja1980: Let's go Kykyche!!!!
+[18:22:50] inter-temporal: smth wrong with the whipser script
+[18:23:21] oachkatzerlschwoaf: i did my weekly long run before this game, like 14km, and can barely stand up
+[18:23:36] oachkatzerlschwoaf: probably a good thing
+[18:24:06] inter-temporal: wow! that's like 8.5 miles.
+[18:24:52] oachkatzerlschwoaf: these slow setups with g3 are the worst to play against
+[18:25:22] oachkatzerlschwoaf: too much tension. i think my results are fine but white always has a small edge out of the opening
+[18:26:08] oachkatzerlschwoaf: on the white side I wouldnt even think what to play here
+[18:26:39] oachkatzerlschwoaf: Bg2 O-O Qb3
+[18:26:55] inter-temporal: i remember, the symmetric fianchettos used to bug me. but not so much anymore
+[18:27:10] oachkatzerlschwoaf: I guess a3 works too
+[18:27:10] inter-temporal: (7.a3)
+[18:27:56] oachkatzerlschwoaf: normally youd want to trade here with black
+[18:28:11] oachkatzerlschwoaf: but not sure about positions where the bishop retakes
+[18:29:27] oachkatzerlschwoaf: "Bishops are overrated" - Capablanca
+[18:32:30] oachkatzerlschwoaf: luckily chesster failed to alert my team channel. fewer people to witness my pedantic play
+[18:39:52] bncl: Go Kykyche!
+[18:42:40] oachkatzerlschwoaf: (10...Nbd7) quite content with this position
+[18:43:40] oachkatzerlschwoaf: (I think) I have easy plans, Qe8->h5, possibly e5, Ne4 etc.
+[18:43:56] oachkatzerlschwoaf: the bishop tension is a bit awkward though
+[18:46:28] oachkatzerlschwoaf: (11.Ng5) mhhhh I calculated this ??
+[18:54:06] oachkatzerlschwoaf: (12...Qe7) well thats embarassing
+[18:54:22] oachkatzerlschwoaf: Nxf8 just wins material I guess
+[18:58:41] oachkatzerlschwoaf: 13.Kxg2 what
+[18:58:56] oachkatzerlschwoaf: wow not taking my rook is very strange
+[18:59:11] oachkatzerlschwoaf: nxf8 would have won on the spot...
+[18:59:42] oachkatzerlschwoaf: I get a second chance, yey
+[19:04:02] oachkatzerlschwoaf: Im still shocked, Kxg2 is a howler after finding Ng5
+[19:05:49] mtsundance: Unsure why Kykyche didn’t take rook. Ideas bncl?
+[19:07:51] bncl: not sure
+[19:08:06] bncl: But I don't think it would necessarily have been winning, black could have responded by taking rook
+[19:08:37] bncl: Probably was still the only move though, otherwise down a piece!
+[19:10:08] oachkatzerlschwoaf: I think my opponent thought that after Nxf8 Bxf1 Nxd7 I play Bxe2 but they can play Nxf6+ with check
+[19:10:08] oachkatzerlschwoaf: No other explanation really for not taking the Rook
+[19:11:55] bncl: but even then the checking knight can be captured, restoring material equality
+[19:13:42] mtsundance: Still a pawn and the exchange up? Think I lost count
+[19:16:14] bncl: The line I think is 13. Nxf8 Bxf1 Nxd7 Bxe2 Nxf6+ gxf6
+[19:17:00] bncl: and both sides captured a rook and lost two minor pieces and a pawn in the process
+[19:27:41] inter-temporal: (18.Qc3)
+[19:29:30] inter-temporal: i see that trade (after 11.Ng5) went wrong for white
+[19:31:32] inter-temporal: gg
+[19:32:48] mtsundance: Ah, bncl I see my error. Thought white could do Qxe2, black queen would have a word
+[19:35:51] oachkatzerlschwoaf: nxf8 is 0.0?
+[19:35:51] oachkatzerlschwoaf: bra im legit so terrible at chess
+[19:36:06] inter-temporal: yeh. the capture-chain balances out
+[19:36:21] inter-temporal: tricky to follow the whole chain when a N is involved
+[19:36:36] kykyche: wow,  completely missed that line
+[19:37:07] inter-temporal: maybe "sequence" is the more common word. but i like "chain," cause it gives me a visual
+[19:38:23] oachkatzerlschwoaf: engine does not reflect game
+[19:38:38] oachkatzerlschwoaf: the lichess chat is still bugged for me
+[19:38:53] oachkatzerlschwoaf: when will they fix that
+[19:38:53] inter-temporal: me too. no prepends
+[19:38:53] kykyche: yeah, it does
+[19:38:53] kykyche: (speaking of the buggy chat)
+[19:39:09] inter-temporal: these capture sequences are like a hidden skill
+[19:39:24] oachkatzerlschwoaf: I think I calculated all of that
+[19:39:39] oachkatzerlschwoaf: But I calculated wrong lol
+[19:39:54] inter-temporal: they're especially hard when they involve multiple squares
+[19:40:25] inter-temporal: unlike when everything trades ON d4 or smth
+[19:40:40] kykyche: did not at all calculated the Nxf8, Nxd7 and Nxf6 ; was completely focused on trading rooks and winning a couple pawn...
+[19:41:10] kykyche: witthout seeing i did lose a bishop at the start xD
+[19:41:41] inter-temporal: tracing the B's path of captures is quite a bit simpler, for me
+[19:42:27] kykyche: anyway, well played, have a nice season o7
+[19:42:42] inter-temporal: i might want to collect this one.
+[19:42:57] inter-temporal: :)
+[19:43:12] oachkatzerlschwoaf: you too, thank you for the game
+[19:43:28] oachkatzerlschwoaf: I throught I was completely lost after Qe7 and wanted to resign
+[19:43:59] oachkatzerlschwoaf: Im misevaluating a lot of positions these days
+[19:45:00] oachkatzerlschwoaf: i hate the lichess chat
+[19:45:00] oachkatzerlschwoaf: barely usable anymore
+[19:45:30] oachkatzerlschwoaf: maybe ill open a forum thread...
