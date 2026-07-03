@@ -1,0 +1,163 @@
+Lichess game chat log
+Game      : https://lichess.org/GQwlIMwE
+White     : marketmike
+Black     : monocarp
+Time      : 45+45
+Captured  : 2026-07-03 02:58:23 UTC
+Game ended : 2026-07-03 01:38:21 UTC
+Messages  : 153
+────────────────────────────────────────────────────────────
+
+[00:01:39] namegoesinhere: (1...e6) go marketmike!
+[00:06:59] monocarp: (4. Bb5+) very much not normal, although I looked at this move a bit in different french positions. I think both Nc6 and Bd7 are good
+[00:10:02] namegoesinhere: (5.Bxd7+) hmm, think black is happy to get the LSBs traded off
+[00:10:33] namegoesinhere: (5...Nxd7) although it does mean they can't get the 'optimal' set-up with Qb6+Nc6 as easily
+[00:13:51] monocarp: (7... Bc5) played that way to quickly
+[00:14:06] monocarp: as Qg4 is just good...
+[00:15:07] namegoesinhere: (8.Qg4) I think ...Ne7 should be playable here for black
+[00:16:08] namegoesinhere: (8.Qg4) maybe even ...Qb6 if you're feeling brave
+[00:17:55] namegoesinhere: (8...Ne7) like Qxg7 Rg8 Qxh7 Rxg2 looks good for black here
+[00:18:41] monocarp: (8... Ne7) in some lines I've missed that my queen no longer sees g5, just a visualisation error
+[00:20:12] monocarp: e.g. Qxg7, Rg8, Qxh7, Rxg2, maybe? there Ng5 was possible for white
+[00:24:32] monocarp: also, it's too late now, but maybe h5 was interesting instead of Bb6. Didn't think of it at all
+[00:27:19] aldric123: (10.a4) Go monocarp!
+[00:29:21] aldric123: (10...Ng6) I think I like black here ok. Though 11.h4 might be annoying
+[00:29:21] aldric123: (10...Ng6) I guess you could just do h5 in return
+[00:30:07] aldric123: (10...Ng6) I mean e5 is hanging but if you took then g7 is too
+[00:31:38] namegoesinhere: (10...Ng6) yeah, interesting question if the white e5 or black g7 pawn is more important in that line
+[00:31:53] aldric123: (11.Bg5) So now seems like f6 or Qc8 is forced I think
+[00:31:53] monocarp: (11. Bg5) I thought this one dropped a pawn
+[00:32:24] aldric123: (11.Bg5) Err f6 would hang e6 with check hmm
+[00:32:39] aldric123: (11.Bg5) Which mainly leaves Qc8 or Qb8
+[00:32:55] monocarp: to Ndxe5, but I need to look at quite a few moves there
+[00:33:10] namegoesinhere: (11.Bg5) is taking on e5 totally out of the question? you do hit the queen and if it moves you can take f3 with check
+[00:33:10] aldric123: (11.Bg5) That's true, I didn't really look at the counterattack, sloppy of me
+[00:33:41] aldric123: (11.Bg5) I think you're right, I just hadn't been looking at it
+[00:34:57] aldric123: (11.Bg5) Something like Ndxe5 Nxd5 Nxd5 Qf4 Qd6 perhaps?
+[00:35:27] aldric123: (11.Bg5) or maybe even f6 instead of Qd6
+[00:36:13] aldric123: (11.Bg5) Jeez, why was I changing e5 to d5, impossible to follow my crap
+[00:36:44] namegoesinhere: (11.Bg5) nah it made sense, that line seems sensible for both sides
+[00:37:29] namegoesinhere: (11.Bg5) I was trying to make Bxf2 shenanigans work at some point but it doesn't seem to be quite there
+[00:37:45] aldric123: (11.Bg5) In our game when I first went wrong, I'm annoyed I forgot the idea of Qe4 to play Bf4 next move. I'm used to the idea from a ...
+[00:37:45] aldric123: ...slightly different line
+[00:38:30] aldric123: (11.Bg5) I mean on move 15.Qe4
+[00:39:16] namegoesinhere: (11.Bg5) yeah, I was happy to see Bg5 there
+[00:39:16] namegoesinhere: (11.Bg5) but it
+[00:39:31] namegoesinhere: (11.Bg5) it's a pretty sharp line, not easy to play for either side
+[00:40:02] aldric123: (11.Bg5) Bg5 happens in lots of other lines, but your 14...Ba7 slightly confused me. Even if it's the top engine move, it's not what my ...
+[00:40:02] aldric123: ...slightly older "book" expected
+[00:40:02] monocarp: currently think about white trading knights and Qg3...
+[00:40:47] aldric123: (11.Bg5) NameGoesInHere and I both seem to agree you can get away with snagging e5, like you first thought about doing
+[00:41:48] aldric123: (11...Ndxe5) That whole slightly dubious (but not horrid) gambit I play vs Bc5 is stuff that works WAY better if people aren't prepped ...
+[00:41:48] aldric123: ...vs you. Aka I shouldn't play it in this league
+[00:42:03] aldric123: (11...Ndxe5) :)
+[00:42:34] namegoesinhere: (11...Ndxe5) funnily enough, I prepped that line for our previous game where you played 1.d4
+[00:42:34] namegoesinhere: (11...Ndxe5) so I was happy to finally get to play it
+[00:42:34] aldric123: (11...Ndxe5) I kind of assumed. Which is why I played d4 last time
+[00:42:49] monocarp: (the g knight also possible, and then in the Bxd8 line maybe at the end b6 can be recaptured with a knight instead)
+[00:43:04] aldric123: (11...Ndxe5) I then assumed I'd just play my current stuff vs you to be "surprising". It didn't work
+[00:43:04] monocarp: (but I think white shouldn't go into that line)
+[00:43:35] aldric123: (11...Ndxe5) Yeah he can double your pawns but you still win e5
+[00:43:50] aldric123: (11...Ndxe5) It should still be worth it, not that e5 is easy to defend long term for white
+[00:44:20] namegoesinhere: (11...Ndxe5) I'd be pretty happy open the a-file for the rook in that line ending with Bxb6
+[00:45:06] aldric123: (11...Ndxe5) that's true, but I'd mainly be happy with the extra center and string structure
+[00:45:21] aldric123: (12.Nxe5) strong
+[00:45:53] aldric123: (12...Nxe5) I'm mainly curious what you expect your guy to play this move
+[00:45:53] aldric123: (12...Nxe5) Where to put the queen
+[00:46:08] aldric123: (13.Bxd8) I was just assuming f4, but dunno what's absolutely best
+[00:46:08] aldric123: (13.Bxd8) Oh he's gonna trade?
+[00:46:23] aldric123: (14.Bxb6) Yeah this should be winning for black I think
+[00:46:39] aldric123: (14...axb6) If not trivial to actually win
+[00:46:39] namegoesinhere: (14...axb6) I was trying to work out the different between Qg3 and Qf4, but looks like we got trades instead
+[00:47:24] aldric123: (15.O-O) the c4 square for the knight and the weak c4 pawn and whatnot look tasty
+[00:47:40] aldric123: (15.O-O) Yeah being down the pawn, I don't think I'd want to have traded queens there
+[00:48:11] namegoesinhere: (15.O-O) yeah, c4 looks like a nice square
+[00:48:26] aldric123: (15.O-O) I'm torn for black here between b5, Ne5 Ke7 0-0
+[00:48:42] aldric123: (15.O-O) lots of tolerable moves here
+[00:48:42] namegoesinhere: (15.O-O) maybe white can try and put a knight on the b5 outpost
+[00:49:12] aldric123: (15.O-O) probably not Ne5 because Nd2 or Na3 make getting to c4 problematic
+[00:49:59] namegoesinhere: (15.O-O) ah, missed that blakc has the option of ...b5
+[00:49:59] aldric123: (15.O-O) Yeah Na3 is nice for either Nb5 or to trade Black's knight if he tries for c4
+[00:50:29] namegoesinhere: (15...Ne5) I slightly prefer ...Ke7 over ...0-0 to activate the h8-rook but both should be fine
+[00:50:44] aldric123: (15...Ne5) the slight problem with b5, is white could try to do a5 and plan on tickling the pawn with Na3 soon
+[00:50:44] aldric123: (15...Ne5) Yeah I agree, I prefer to keep it in the center
+[00:51:15] aldric123: (15...Ne5) I wanted to do Kd7 on principle but c4 looked silly potentially allow, so I assumed e7
+[00:51:15] aldric123: (16.f4) Ewww
+[00:51:45] aldric123: (16.f4) forcing him to where he wanted to go
+[00:52:01] namegoesinhere: (16.f4) maybe the idea is to follow up with f5, but I think that's just met with e5
+[00:52:16] aldric123: (16.f4) yep
+[00:53:01] aldric123: (16...Nc4) I mean maybe he also did it to try to immediately do Na3 to try to trade knights
+[00:53:32] namegoesinhere: (16...Nc4) well but Na3 hangs the a-pawn here
+[00:53:47] aldric123: (17.Rf3) Geez so it does
+[00:54:18] aldric123: (17.Rf3) b5 is again interesting, though eventually something like Ke7 needs to be played
+[00:54:33] aldric123: (17.Rf3) Ke7 or Kd7 now that the knight is on c4
+[00:56:05] monocarp: (17. Rf3) I will say, white's moves have not been the ones i've been anticipating
+[00:56:36] aldric123: (17.Rf3) I think I can't resist b5 even if I feel I should probably play Ke7 or Kd7
+[00:57:22] aldric123: (17.Rf3) it's just a nice way to likely get rid of the doubled pawn and try to win a pawn if white messes up
+[00:58:08] monocarp: trying to figure out if Kd7 is better than castling
+[00:58:39] aldric123: (17.Rf3) 17...b5 18.a5 b6, if white tries to push past
+[00:58:54] aldric123: (17.Rf3) I'd do Kd7 over castling in a heartbeat
+[00:59:40] aldric123: (17...O-O) oh well. We can't all be cool enough to never castle
+[00:59:55] namegoesinhere: (17...O-O) ...b5 a5 b6 I guess white could try a6, but it feels like the pawn will be lost in the long run
+[01:00:25] aldric123: (17...O-O) He can likely also win b5 with Nc3, but in the process you'd win the a pawn
+[01:00:41] aldric123: (17...O-O) So it'd be a trade getting rid of the doubled pawn when black is already up a pawn
+[01:01:42] aldric123: (18.Rc3) I don't understand that move
+[01:02:13] namegoesinhere: (18.Rc3) hmm, though Nxb5 threatened a fork in that ...b5 a5 b6 line with the king still on e8
+[01:02:28] aldric123: (18.Rc3) Yeah that's true it's a factor
+[01:02:44] aldric123: (18.Rc3) Which is why I was saying I likely SHOULD play Kd7 or Ke7 first. I'd just find b5 hard to resist
+[01:04:00] namegoesinhere: (18...b5) yeah I agree
+[01:04:00] aldric123: (18...b5) I mean I guess Rc3 intends to invade on the c file after a potential Na3, but Na3 always dropped the a pawn
+[01:05:16] aldric123: (19.a5) b6 still seems one of the best moves now
+[01:06:17] aldric123: (19.a5) You could start to double with Ra6, but seems unnecessary compared to starting with b6
+[01:06:47] aldric123: (19...Ra6) Now I think white could finally get his Na3 move in without losing
+[01:08:03] aldric123: (20.Na3) I think perhaps Nd6 is better (for black) than trading on a3
+[01:08:50] namegoesinhere: (20.Na3) yeah, if Nxa3 then suddenly the c3-rook starts making sense
+[01:09:05] aldric123: (20.Na3) and if black tries 20...Nd6 21.Rc5 you still have b6 there
+[01:09:05] namegoesinhere: (20.Na3) and I don't see another way to defend b5 apart from Nd6
+[01:09:21] monocarp: sort of missed that the a pawn is probably too dangerous if we play Nx, then Rax, then Rc6, Rx, bx
+[01:10:06] aldric123: (20.Na3) I mean. You could also ignore the b pawn and play b6 intending to liquidate and win the a pawn
+[01:10:06] aldric123: (20.Na3) But I think I like Nd6 more
+[01:10:37] monocarp: the only alternative here to Nxa3 is Nd6, but if the former works I would much rather play it
+[01:10:52] namegoesinhere: (20.Na3) only thing I'm worried about with Nd6 is Rc5 b6 Rc6
+[01:11:38] aldric123: (20.Na3) oh crap, I visualized that not being possible because of the rook on a6, but we just covered it up with b6
+[01:11:38] aldric123: (20.Na3) good catch
+[01:12:55] aldric123: (20.Na3) Hmm yeah I don't love black's position quite as much as I did 2-3 moves ago
+[01:12:55] namegoesinhere: (20.Na3) it might still be okay for black, but as you say maybe it's better to temporarily give back the pawn
+[01:14:11] monocarp: pretty sure my king is in time, but if white instead moves for the kingside pawns...
+[01:15:12] aldric123: (20.Na3) 19...b6 kept this much more simple, but that's in the past
+[01:15:12] monocarp: also, b6 instead of Rc6 might work, although letting a rook onto the 7th isn't thrilling
+[01:15:58] aldric123: (20.Na3) At this point I think black's best is that 20...b6 move. 21.Nxb5 bxa5 and it goes from there
+[01:16:28] aldric123: (21.Raxa3) I think white gets more active rook than should have been the cast
+[01:16:28] aldric123: (21.Raxa3) case
+[01:17:29] aldric123: (21.Raxa3) I no longer hate white's position. Kudos to your guy
+[01:17:44] kborman: Go Mike!!
+[01:18:00] namegoesinhere: (21.Raxa3) yeah he's done a great job after it looked dicey earlier
+[01:18:45] aldric123: (22...bxc6) This is interesting for black
+[01:19:01] aldric123: (23.Rc3) Not nearly as good as it used to be, but if he gets his king over to b7 area he might again look ok
+[01:20:02] aldric123: (24.a6) Hmm 23...Rc8 24.a6 Kf8 a7 Ra8 etc
+[01:20:32] aldric123: (24.a6) Or I guess 24...Rc7 also
+[01:21:18] namegoesinhere: (24.a6) think I prefer ...Rc7 to not allow a7
+[01:21:18] namegoesinhere: (25.a7) but then again you do need your king at some point
+[01:21:33] aldric123: (25.a7) I do like not being able to be backranked though the way it's played this way
+[01:22:19] aldric123: (26.Rxc6) And I don't think b5 can fall without c2 falling in turn
+[01:22:19] aldric123: (26...Rxa7) So it should end up being a pawn up still for black
+[01:22:19] momor: Go Monocarp!
+[01:22:34] aldric123: (26...Rxa7) Which has all the winning chances though draw potential
+[01:23:05] namegoesinhere: (27.Rb6) yeah, I thought white was getting the pawn back but you're right that c2 is too weak
+[01:23:35] namegoesinhere: (27.Rb6) still gives white a passer to work with though
+[01:23:35] aldric123: (27.Rb6) agreed
+[01:23:50] aldric123: (27.Rb6) Because of the passer it's still a 3 chance result
+[01:24:36] aldric123: (28...Rxc2) the fact that the white king is cut off should count for something
+[01:25:22] namegoesinhere: (28...Rxc2) agreed, black seems well set up to try and run the d-pawn
+[01:26:38] monocarp: being punished on my lack of rook endgame knowledge. Can't recall if 4 vs 3 pawns on the kingside with the rooks is a draw or win
+[01:26:53] aldric123: (30.b5) the passed pawns and abilities of the kings to do something is more important
+[01:27:55] monocarp: because if I knew how to win it then I'd like ...d4 and we could trade passers
+[01:33:15] aldric123: (32.Ke1) Hmm
+[01:33:15] aldric123: (32.Ke1) You can just take g2 here I think
+[01:33:30] aldric123: (32.Ke1) It's certainly not the only way to win, but it's doable
+[01:33:45] aldric123: (32.Ke1) the b pawn isn't advanced enough yet to be THAT scary
+[01:36:34] aldric123: (35.Kd1) Just in time
+[01:37:20] aldric123: (36.Rf8) I think I liked 35...Kf6 more but this should work
+[01:38:21] thegreattoddman: gg
+[01:38:36] aldric123: gg!
+[01:40:22] aldric123: Hmm on 13.Qg3 was much better than Qf4 because of f6
