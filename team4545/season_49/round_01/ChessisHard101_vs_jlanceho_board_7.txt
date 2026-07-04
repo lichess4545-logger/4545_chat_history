@@ -1,0 +1,137 @@
+Lichess game chat log
+Game      : https://lichess.org/2ywMMmqg
+White     : chessishard101
+Black     : jlanceho
+Time      : 45+45
+Captured  : 2026-07-04 16:41:58 UTC
+Game ended : 2026-07-04 15:21:52 UTC
+Messages  : 127
+────────────────────────────────────────────────────────────
+
+[12:17:23] handknit: (13...O-O) time to find out how hard chess really is
+[12:30:36] handknit: (17.Qd3) So I think white definitely doesn't have comp for the pawn here but I can see avenues of play
+[12:31:22] handknit: (17.Qd3) Black's a bit tight for space. The queenside is potentially loose enough that black has to pay attention. White has space kingside.
+[12:36:58] semlegesnev: Nxd4, Rc4 looks dangerous
+[12:42:34] handknit: (19.Be3) Trying to figure if white has clever responses to 19...e5
+[12:42:49] handknit: (19.Be3) Maybe 20.Nf5
+[12:45:52] addead: I do not see any benefit of complicating thing so much for white
+[12:46:53] addead: I can not see any pice very active for white
+[12:47:08] handknit: (21...Nd7) I think the benefit is "this position is objectively losing for me so I need to make something splodey happen to get lucky"
+[12:47:24] addead: ok
+[12:48:25] handknit: (22.f4) if you close your eyes and wish upon a star you can imagine things like Kh1, Rg1, Nh5, Bd4
+[12:48:55] addead: Haha Yes
+[12:49:41] addead: King Side Attack is only option
+[12:49:41] semlegesnev: Well f4 opened the diagonal for h1
+[12:49:56] handknit: (22...Bf6) Yeah it'll take some imagination
+[12:50:42] handknit: (23.Bd4) But it's important to stay live to the ideas your position has, just in case
+[12:51:28] semlegesnev: Is there an add-on to write the move in front of ur messages?
+[12:51:43] addead: Yes, if we exchange everything in bad position , we are helping opponent
+[12:52:29] handknit: (23...Bxd4) @semlegesnev there is. If you ask about it in the general channel for the league I think they're actively working on it
+[12:52:59] semlegesnev: But this also closes the long diagonal, allowing eventual Kh1
+[12:53:14] semlegesnev: Ty, I'll check it out
+[12:53:30] semlegesnev: Well, I was thinking cxd
+[12:53:30] handknit: (24.Qxd4) 24.cxd4 was a worthwhile thought. Fixes your backwards pawn and QvRR is at least an asymmetry you can use
+[12:54:15] handknit: (24.Qxd4) Of course black don't gotta take on c1, and can just play Qd6 preparing Rc4
+[12:55:31] handknit: (25.Re3) Okay. I understand f6-e5 but this creates some softnesses for white to play around
+[12:56:17] semlegesnev: Trading the doublepawn and getting the Q to g4 seems good for white
+[12:57:35] semlegesnev: The knight on c4 will be very annoying
+[13:01:23] handknit: (26...Rfe8) This is an oddly tricky move for white. You don't really want to move any of your pieces
+[13:02:09] semlegesnev: F5 here?
+[13:02:39] addead: no, he will just move e5
+[13:03:25] semlegesnev: Then Qg4
+[13:03:55] handknit: (27.Kh1) I was thinking h4, maybe, though it's all kinda grim
+[13:04:11] handknit: (27...Nc4) I think the K on h1 now makes Nc4-e5 quite devastating
+[13:08:30] handknit: (28...Qb6) Okay... life...
+[13:08:45] handknit: (30.Rg1) The material balance is still only a pawn so if white's rooks get active anything is possible
+[13:10:47] addead: ahh one move attack
+[13:11:33] semlegesnev: Rdg3 would have been a nice trap but its purely hopechess
+[13:11:48] addead: ke2
+[13:12:19] semlegesnev: Oh yeah it obv doesnt work lol
+[13:13:35] handknit: (35.Rgg3) now to slowly walk the K to d2 and shout HOLD THE LINE
+[13:15:06] semlegesnev: Ke7 e5 d4 is coming
+[13:15:37] handknit: (35...Ke7) without the queens that's not *that* bad
+[13:15:52] handknit: (36.Kg2) and white can dream of counterplay either on the f file or targeting the e pawn
+[13:16:53] handknit: (38.Rh3) What white would really like to magick here is trading off the knights
+[13:19:26] addead: Yes
+[13:19:26] handknit: (38...Ke6) Weird dreaming time: 39.Rxh7 Nxc3 40.Rhf7 e4 41.R3f6+ Ke5 42.Nf4
+[13:19:26] handknit: (38...Ke6) is this anything?
+[13:21:43] handknit: (39...Kd6) Black's still better but there's weaknesses all over the place now.
+[13:21:58] handknit: (39...Kd6) Maybe white's h-pawn gets a clear path
+[13:22:14] semlegesnev: Rg7 will get the other pawn too, but the d looks threatening
+[13:24:15] handknit: (39...Kd6) the d4 pawn is really strong and what wins objectively, I'm pretty sure.
+[13:24:31] handknit: (40.Reg3) But yeah, white lining up, improving the threat of Rxh7
+[13:25:01] handknit: (40.Reg3) after R8c7, it might be worthwhile to play a3 to defend b4
+[13:25:17] handknit: (40.Reg3) so b4 isn't immediately hanging after black pushes d4
+[13:25:32] addead: now, I like this Rg3
+[13:26:03] handknit: (41.Rxh7) there's almost a mate here lmao
+[13:26:48] handknit: (41.Rxh7) 41...dxc3 42.Rxg6+ Kd5 43.Rd7+ Ke4 44.Ng3#
+[13:26:48] semlegesnev: This looks much better for white than a few moves ago
+[13:27:22] semlegesnev: There's Kd3
+[13:27:22] handknit: (42...Kd5) now to play Ng3 before Rd7+
+[13:27:37] semlegesnev: f3 is tricky
+[13:27:37] handknit: (43.Rd7+) @semlegesnev yeah it only worked on dxc6
+[13:28:38] handknit: (43...Ke4) I mean, 44.Ng3+ Kd3 45.Rxa6 white can play on at least for a bit
+[13:29:09] semlegesnev: Ng3 Re6 also seems somewhat viable
+[13:29:24] handknit: (43...Ke4) Yeah, that's an idea too
+[13:29:24] handknit: (43...Ke4) And then you start jamming the h pawn for counterplay
+[13:29:39] handknit: (43...Ke4) Again, I'm pretty sure black is still 'winning' here but it's a schmoz now.
+[13:30:25] semlegesnev: Lets offer a draw and take the win lmao
+[13:31:10] handknit: (43...Ke4) offering a draw OTB with the most "do you REALLY know how to play endgames?" look I can muster
+[13:45:41] addead: why Black is complicating his life so much, I prefer to exchange most of pices before pawn push
+[13:46:42] semlegesnev: Yes. I really think we should start pushing the h to have counterplay
+[13:47:13] addead: see how active white pices are now
+[13:47:44] addead: one wrong move and all the advantage for black will be gone
+[13:47:59] semlegesnev: Well, the pressure on f2 is... unpleasant
+[13:53:05] semlegesnev: d3 blunders the pawn, lets pray
+[13:53:20] semlegesnev: Oh wow lool
+[13:53:51] semlegesnev: Actually I might have miscalculated
+[13:56:54] semlegesnev: Well, the pawn still falls
+[13:59:58] addead: Na5
+[14:00:44] semlegesnev: Hm, whats next after Ka7?
+[14:03:01] semlegesnev: Rb6 here?
+[14:04:33] addead: go for a draw
+[14:04:48] addead: fin a postion to repeat
+[14:05:34] semlegesnev: Re8 leads to Rc8, so I'm tzinking Rb6 is must
+[14:09:53] addead: Re7
+[14:14:43] addead: that lose a kinght ?
+[14:14:43] semlegesnev: Nb7 looks amazing
+[14:16:14] semlegesnev: Well, the a pawn still falls and the black has to be moved
+[14:18:31] semlegesnev: A rook has to be kept on the sixth row, otherwise Nf6 threatens mate
+[14:30:15] semlegesnev: Rd4 loses to Rc4, but I'm not sure Nd3 works
+[14:38:23] semlegesnev: Rg1? Nf2 can be sacrificied
+[14:40:10] semlegesnev: Well, if not played correctly. Still winning for black, but if he gets impatient...
+[14:45:31] semlegesnev: Can d2 be hold after Ra2?
+[14:47:02] semlegesnev: Nd3+
+[14:49:04] semlegesnev: Nc5 and Nb3? Seems we can trade the knight for the two pawns
+[14:50:05] addead: Yes
+[14:50:36] semlegesnev: Intense game
+[14:51:07] addead: Black made major mistakes
+[14:51:22] addead: never bring you king out if oppenent has two rooks
+[14:51:37] addead: Pawn push was too early
+[14:52:08] addead: White is playing Good after Bad opening
+[14:53:24] semlegesnev: Well tbh even 72. Rf1 was winning
+[14:54:25] addead: Yes
+[14:54:55] handknit: (76...Kd1) This game is still going?
+[14:55:10] addead: Haha Yes
+[14:55:41] semlegesnev: We were thinking we can trade the knight for the two pawns here
+[14:55:41] handknit: (76...Kd1) You know, Rxa6 and you can dream on drawing chances
+[14:55:56] handknit: (76...Kd1) Yeah, if you can get away with it
+[14:56:42] handknit: (77.Kg3) The one I'm curious about is 64.Nb3+ instead of Nb7+
+[14:57:12] handknit: (77.Kg3) I was checking in on my phone during breakfast and I guess the new app has no comment box
+[14:57:43] handknit: (77.Kg3) I had last seen 71.Rxc4 and thought that was it
+[14:58:13] semlegesnev: Hmm, thats weird, I am on my phone tho with the old app
+[15:01:47] handknit: (77.Kg3) I assume black is trying to calculate 77...Ke2 78.Nf4+ Rxf4 79.Kxf4 Ke8 and if the knight can tilt the ensuing pawn race
+[15:03:18] handknit: (77...Ke2) Because after 80.Ra1+ d1=Q 81.Rxd1+ Kxd1 82.Kxe3 I think white might actually win that
+[15:03:48] handknit: (77...Ke2) so it would have to be 81...Nxd1
+[15:04:04] semlegesnev: I think we king on f4 we can cut off the knight
+[15:11:12] semlegesnev: What if Nf4 Kd1?
+[15:11:27] mennonite: then Ra1
+[15:11:57] mennonite: oh..
+[15:12:13] mennonite: ok yeah never mind
+[15:16:17] handknit: (80.h4) I think Ng2+, Nxh4, and Ke1 wins here
+[15:16:33] handknit: (80.h4) good on black for finding a5 if he sees taht
+[15:17:18] handknit: (81.Kg3) Of course white can still play Rxa5 and demand black play out QvR
+[15:19:51] handknit: (83.Rxa5) Here we go. One last phase of the game.
+[15:20:51] semlegesnev: Qh1 is coming
+[15:21:07] mennonite: but white's king essentially ran to its death in this case
+[15:21:37] semlegesnev: Gg!
