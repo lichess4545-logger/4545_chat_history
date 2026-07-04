@@ -1,0 +1,44 @@
+Lichess game chat log
+Game      : https://lichess.org/hxBMjFs3
+White     : eight_x_eight
+Black     : butterpecan
+Time      : 45+45
+Captured  : 2026-07-04 19:58:18 UTC
+Game ended : 2026-07-04 18:38:04 UTC
+Messages  : 34
+────────────────────────────────────────────────────────────
+
+[17:08:39] jdw10: good luck Eight!
+[17:47:49] butterpecan: i didn't see Rc7, but maybe Qb4 and Rb7 is met by Re6?
+[17:48:35] enprisewithease: (18...exd5) Yeah, dominate the 64, eight_x_eight!
+[17:50:23] butterpecan: i do notice that my queen is being attacked now so yay for me
+[17:54:14] enprisewithease: haha, sometimes I don't
+[17:56:16] butterpecan: 19...Qe6 20.f4 Nc6 21.e5 Nd7 22.Bg4 loses a piece
+[17:56:46] butterpecan: and kinda want the d7 square vacant for the knights so d8 by process of elimination
+[18:10:47] butterpecan: i may be down a pawn, but my winning personality and charming smile is sufficient compensation
+[18:11:17] butterpecan: plus wild dreams of Nf4 stuff?
+[18:13:34] enprisewithease: (23.Ba3) I feel like there is a tactic here but I don't see it.
+[18:15:51] butterpecan: needed to deal with Rc8, Rc8, Ba6
+[18:22:15] enprisewithease: (24...Nf4) Bf1? Kf2 doesn't work, I don't think because of the double fork at d3.
+[18:23:00] enprisewithease: (24...Nf4) Kf1 and there is a discovered attack, no?
+[18:23:46] enprisewithease: (24...Nf4) No, there isn't because Kxd3.
+[18:23:46] enprisewithease: (24...Nf4) I'll be quiet now. :-D
+[18:32:27] butterpecan: i kinda have to do that?  ne5 re1
+[18:33:13] butterpecan: but nc5 is tricky?
+[18:33:44] butterpecan: Nc5 Bc8 but oh....the knightand bishop both can't be on c5 at the same time
+[18:33:59] enprisewithease: (28...Nxe1) was there nf4 though or something else? trading rooks seems bad for black
+[18:35:16] enprisewithease: (29...Bc8) maybe black can double white's a & b pawns and hold to a draw?
+[18:37:03] enprisewithease: (30.Bb4) I like that move
+[18:37:33] intenselotion: I don't understand that chat -  the players obviously can't see what we're typing right?
+[18:39:05] enprisewithease: they cannot see what we are typing, no
+[18:39:35] enprisewithease: they use /w at the beginning of their messages to talk to us, it's called whispering
+[18:39:50] intenselotion: Ah, that explains it, thanks
+[18:40:06] enprisewithease: of course :-)
+[18:41:22] enprisewithease: nice win eight_x_eight!  good game both
+[18:42:53] eight_x_eight: thanks, would have been highly non trivial to win without the blunder at the end, especially with the time difference
+[18:43:54] eight_x_eight: wow, 29.Nc5 prepares to trap the Knight, didn't see of course
+[18:44:10] eight_x_eight: 29.Nc1 rather
+[18:45:10] enprisewithease: I still don't see it :-D
+[18:45:26] enprisewithease: staring right at it
+[18:45:41] intenselotion: also who plays backward knight movies in an end game like this
+[18:46:11] enprisewithease: lol
