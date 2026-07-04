@@ -1,0 +1,56 @@
+Lichess game chat log
+Game      : https://lichess.org/ZsE9KKlw
+White     : rjhoro
+Black     : jayhamburglar
+Time      : 45+45
+Captured  : 2026-07-04 01:43:05 UTC
+Game ended : 2026-07-04 00:22:56 UTC
+Messages  : 46
+────────────────────────────────────────────────────────────
+
+[21:32:13] yotambienjuego: hola Jay Hamburglar
+[21:32:58] bufferunderrun: let's go Jay!
+[23:27:32] bufferunderrun: 30...Qc7 perhaps
+[23:28:17] bufferunderrun: 31...fxg3 and then Rc8 should be alright
+[23:29:18] bufferunderrun: g5 just dropped a pawn for no reason
+[23:38:28] bufferunderrun: yeah, Rb8 makes sense
+[23:39:29] bufferunderrun: on c5 Kd4, you do not want to drop the K-side pawns
+[23:39:29] bufferunderrun: Kd5*
+[23:42:32] bufferunderrun: Rb3 Ra2 Rc3, white is dropping one of the pawns
+[23:45:50] bufferunderrun: I kind of thought 40...Ke6 was a must
+[23:47:06] bufferunderrun: Re3 saves the pawn, but also prevents any counter-play
+[23:48:52] bufferunderrun: this looks double-edged to me
+[23:59:47] bufferunderrun: this looks wrong
+[00:01:34] jcarmody: This looks bad to me. The white R gets traded for the black pawn.
+[00:01:49] bufferunderrun: 49.g7 seemed fine, like a2 Ra5
+[00:02:35] bufferunderrun: and this is won for black
+[00:03:05] bufferunderrun: well, maybe not quite
+[00:04:22] nyanners: white retains the pawn i think
+[00:04:22] bufferunderrun: Kh2 Rxa1 g8=Q Rh1+ Kxh1 a1=Q+ and maybe white can get a perpetual
+[00:04:38] nyanners: i mean, only white can win here
+[00:05:08] bufferunderrun: Idk
+[00:05:39] nyanners: the queen promotes defending the c-pawn and black cant realistically take f
+[00:06:24] nyanners: and the f-pawn seems enough of a shield so maybe checks run out early
+[00:06:55] bufferunderrun: I don't see how white is winning this, looks more like a draw
+[00:07:25] nyanners: i mean, probably a draw. but extra pawn allows you to trade q
+[00:07:40] nyanners: and if the checks run out then white gets their own checking series in
+[00:09:42] bufferunderrun: 52...Rb2+ looks interesint
+[00:09:58] bufferunderrun: interesting
+[00:10:28] nyanners: i was thinking if black could reasonably bail but then i think youre just down everything for nothing
+[00:10:43] bufferunderrun: nah, I'm dumb
+[00:10:59] nyanners: like black will never have a better version of Rxa1
+[00:10:59] bufferunderrun: there is Rxa2
+[00:11:29] nyanners: well its check XD but yeah doesnt help
+[00:12:00] bufferunderrun: oh oh
+[00:12:15] bufferunderrun: Qa8+
+[00:12:30] nyanners: as far as QvR go this seems relatively easy
+[00:12:45] bufferunderrun: yeah, this is rip
+[00:13:16] bufferunderrun: too bad they didn't see Rg1+
+[00:13:31] nyanners: maybe black saw and thought Rd1 was better
+[00:14:01] bufferunderrun: never look for better moves :p
+[00:14:17] nyanners: when you see a good move, play it before you find a bad one
+[00:17:20] nyanners: is the rook just dropping immediately
+[00:20:23] jcarmody: I always appreciate a trade like that.
+[00:22:55] bufferunderrun: gg
+[00:22:55] jcarmody: gg
+[00:36:44] nyanners: gg
