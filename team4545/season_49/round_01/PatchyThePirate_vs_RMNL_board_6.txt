@@ -1,0 +1,136 @@
+Lichess game chat log
+Game      : https://lichess.org/1d1KHVBv
+White     : patchythepirate
+Black     : rmnl
+Time      : 45+45
+Captured  : 2026-07-04 22:56:53 UTC
+Game ended : 2026-07-04 21:36:38 UTC
+Messages  : 126
+────────────────────────────────────────────────────────────
+
+[18:05:21] stevenlongs: Go patchy! :)
+[18:13:13] jcarmody: gl ptp
+[18:18:49] ivanhomeless: Let's go Roman!!!
+[18:28:30] patchythepirate: hey spider
+[18:28:45] patchythepirate: hey ivan
+[18:28:45] patchythepirate: hey steven
+[18:28:45] patchythepirate: thanks for tuning in!
+[18:29:00] ivanhomeless: Hi hi!!!
+[18:37:23] patchythepirate: (14. c4) i am learning the spanish again... apologies if my ideas so far are anti-positional
+[18:50:52] guitarspider: hi
+[18:51:08] guitarspider: the bishop on c2 is about as bad as the one on b6 :)
+[18:54:41] stevenlongs: How closed do you want the position?... Yes
+[18:57:13] jcarmody: Yo no puedo ayudarte como juger el Espanol.
+[18:58:14] stevenlongs: yo no comprende
+[18:59:15] jcarmody: 'El Espanñol" o mi español?
+[19:00:16] ivanhomeless: okay queens side closed, now everybody shift over!
+[19:01:02] voylento: !vamos picha!
+[19:01:02] stevenlongs: porque no los dos?
+[19:27:29] jcarmody: I knew he was looking at 27..Bxg4. I don't think it works because I thought it would be fun and I'm usually wrong.
+[19:30:47] patchythepirate: after 29. Rg1 I believe i'm just in time to escape via f1
+[19:53:40] planetchessclub: RMNL, LET'S GOOOOO! and don't forget to give that Sanity Check!
+[19:56:58] planetchessclub: Note for RML: 30. ... Rf7
+[20:00:01] jimq0: w/ nice!
+[20:00:47] planetchessclub: Note for RMNL: 8. ... d6 or a5 or O-O (what happens on 9. cxb4 after your Bb6?)
+[20:01:47] planetchessclub: Heya Jimq0, I left some light notes in the study.
+[20:02:33] jimq0: Thanks PlanetChessClub,!
+[20:13:59] stevenlongs: I guess fx?
+[20:23:08] planetchessclub: Note for RMNL: 39. ... Qf4 (40. Re3 Qf6.) Black needs time to play either displace the g6 bishop and get the e7 bishop to e5 to help ...
+[20:23:08] planetchessclub: ...combat the back rank threats from White.
+[20:24:25] planetchessclub: Same idea... Qd4 may be a blunder... because of Re1.
+[20:25:10] planetchessclub: Likely better is Bf6 trying to get some breathing room.
+[20:25:25] planetchessclub: But then f2 IS hanging, lulz.
+[20:34:49] zubenelgenubi: go Patchy!
+[20:35:04] planetchessclub: oh no
+[20:35:50] planetchessclub: Rf8 Kh7 Bg8+-f7+-g6 1-0
+[20:37:21] planetchessclub: Safe!
+[20:41:40] stevenlongs: Qd2 Ke4 Qc2?
+[20:55:09] aalvarob: go go go rmnl
+[21:04:19] mysonnevercallme: Go patchy!
+[21:05:20] nyanners: i dont wanna call it totally dead but it seems totally dead
+[21:06:21] zubenelgenubi: we can try for d6 and h6
+[21:06:21] nyanners: black has no way whatsoever of fighting for the critical light squares like g4 e4
+[21:06:36] zubenelgenubi: ah that kind of dead
+[21:06:36] nyanners: white just takes it slow
+[21:06:51] zubenelgenubi: yes
+[21:07:07] zubenelgenubi: not the draw kind of dead
+[21:07:07] nyanners: XD yeah
+[21:07:38] zubenelgenubi: :-)
+[21:08:40] nyanners: is this like zugzwang
+[21:08:40] nyanners: Ke4 enables Bg6
+[21:08:55] nyanners: okay this should be good too
+[21:09:10] mysonnevercallme: sac the roooook
+[21:09:10] mysonnevercallme: we can yes?
+[21:09:25] nyanners: umm that may be actually dangerous
+[21:09:25] nyanners: our bishop isnt ideal for this
+[21:10:11] nyanners: it would be fine if the queenside was even
+[21:10:41] nyanners: but here we have three issues like, we have to cover the kingside and b3 and black can make a queenside passer
+[21:11:27] zubenelgenubi: good enough
+[21:11:43] jcarmody: I wanted the R to go after the h-pawn by Rd3+ -> h3
+[21:11:43] nyanners: maybe even if the queenside was even its still dangerous
+[21:11:43] nyanners: b3 is just too weak
+[21:11:58] nyanners: and you dont wanna allow h5
+[21:11:58] nyanners: so yeah white doing good
+[21:12:29] nyanners: bluff call with Kxh6? probably not :o
+[21:13:45] zubenelgenubi: doesn't change much, but there's not much black can do
+[21:14:00] karasso: seems unnecessary ^^
+[21:14:31] zubenelgenubi: oh Bg4 is an idea now
+[21:14:46] nyanners: now you can bluff call i think
+[21:15:01] nyanners: trade the bishop for the g-pawn and then Rxd6
+[21:15:17] nyanners: and win the pawn ending
+[21:15:17] zubenelgenubi: Bg4 Rf3 then Kxh6 is super safe
+[21:15:47] nyanners: okay that is simpler :D
+[21:16:18] karasso: Rh3 now
+[21:16:33] mysonnevercallme: Rh3 can reset 50 move rule. i like that move
+[21:16:33] mysonnevercallme: i'd do it myself
+[21:16:33] nyanners: im hesitant to allow the king near the queenside
+[21:17:04] nyanners: now we dont have Rxd6 simplifications
+[21:17:19] nyanners: or well, we might eventually
+[21:17:34] nyanners: but its weirder
+[21:18:35] mysonnevercallme: ummm
+[21:18:35] nyanners: but yeah now i think the game is more interesting :D
+[21:18:35] mysonnevercallme: is there a way for black to trade pawns?
+[21:18:35] nyanners: i am a drama fiend yall know
+[21:18:50] nyanners: i think black just sits and waits for white to prove it
+[21:19:05] nyanners: its good that the pawns are where they are
+[21:19:05] jcarmody: Now the white K just walks all the way over to a5. Right?
+[21:19:21] nyanners: black can try Bd2-Bc3
+[21:19:51] mysonnevercallme: yea but white can defend with Rh2 Bc2
+[21:19:51] mysonnevercallme: i like the king walk to a5 personally
+[21:20:21] nyanners: yeah  this seems less resilient
+[21:20:21] zubenelgenubi: so does Patchy apparently
+[21:21:38] jcarmody: RMNL doesn't see the B blocking. :( Go Patchy!
+[21:22:39] karasso: after Bd2 there is always Rh2
+[21:22:54] jcarmody: yeah...
+[21:23:09] karasso: Kc3 and the bishop doesn't get to c3, so propably Be5 to c3 was the way
+[21:23:24] mysonnevercallme: i bet white's bpm is higher than black
+[21:23:55] nyanners: naah
+[21:23:55] karasso: bpm?
+[21:24:10] zubenelgenubi: beats per minute
+[21:24:25] planetchessclub: lol
+[21:24:25] planetchessclub: 4/4
+[21:24:25] planetchessclub: naaah 12/8
+[21:24:40] mysonnevercallme: :D
+[21:24:40] zubenelgenubi: yay 12/8
+[21:24:56] planetchessclub: @85 bpm
+[21:25:27] mysonnevercallme: but i swear it's much more relaxing to defend than to convert something that is not obvious. it's probably going down for white now
+[21:25:27] mysonnevercallme: with all the time and simplifying
+[21:25:58] zubenelgenubi: 12/8 at 85 is great, I'd play bass or percussion to that
+[21:26:13] planetchessclub: Yes! I need a bass player!
+[21:26:13] zubenelgenubi: dm me
+[21:26:13] zubenelgenubi: haha
+[21:26:13] planetchessclub: lulz
+[21:29:31] mysonnevercallme: sac the rooooooooooook?
+[21:31:49] zubenelgenubi: sacked the bishooooop instead:-)
+[21:32:35] zubenelgenubi: rook is stronger, has more o's
+[21:32:35] mysonnevercallme: let's goooooooooooo
+[21:33:05] zubenelgenubi: 100
+[21:35:22] mysonnevercallme: the game is so interesting i forgot i had food on fire. it smells like something is burning in my kitchen lol
+[21:35:53] zubenelgenubi: gg
+[21:35:53] karasso: gg
+[21:35:53] mysonnevercallme: gg
+[21:35:53] pineapplechiffoncake: gg
+[21:36:08] planetchessclub: GG
+[21:37:39] jcarmody: fg
+[21:40:27] guitarspider: g
+[21:53:23] nyanners: gg
