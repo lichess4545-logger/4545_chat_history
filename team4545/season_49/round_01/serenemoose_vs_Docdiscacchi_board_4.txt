@@ -1,0 +1,100 @@
+Lichess game chat log
+Game      : https://lichess.org/9aONrg1j
+White     : serenemoose
+Black     : docdiscacchi
+Time      : 45+45
+Captured  : 2026-07-04 14:56:16 UTC
+Game ended : 2026-07-04 13:36:09 UTC
+Messages  : 90
+────────────────────────────────────────────────────────────
+
+[11:41:06] namegoesinhere: (1.Nf3) go moooose!
+[11:41:06] namegoesinhere: (1...d5) make the meese proud!
+[11:44:09] namegoesinhere: (5.d4) oooh a reversed grunfeld
+[11:45:57] kborman: Go moose!
+[11:50:01] nyanners: this is nearly impossible for black to navigate without theory, in my experience
+[11:51:17] namegoesinhere: (8...Bb7) yeah, I feel like already ...Bb7 feels a bit wrong (although i know very little theory here)
+[11:52:03] nyanners: it is :o
+[11:52:49] nyanners: a common line of sorts is Qa4 Qd7 Rd1 d4 e3 and something will give
+[11:53:51] nyanners: you can also play into it with cxd5 cxd5 Nc3 and its strangely difficult to move
+[11:57:24] nyanners: its a bit funny that in the "worst case" black would rather play d4 allowing Bxa8 Qxa8 than putting the Bb7 on that line of fire
+[11:58:10] momor: Go Docdiscacchi§
+[11:58:25] kborman: My first OTB game a few months ago my opponent played a Grunfeld and attacked my backward pawn with the queen.
+[11:58:40] kborman: It was a memorable game but not in a good way
+[11:58:56] nyanners: sorry that we have to make you remember that :o
+[11:59:11] kborman: :)
+[12:02:14] namegoesinhere: (9.Qa4) so I guess Qd7 here probably? I suppose you can try Be7 but that walks into cxd5 Nxd5 Rd1
+[12:03:14] nyanners: yeah Qd7 plays into the common line i mentioned above :o
+[12:03:14] serenemoose: I'm totally drawing a blank on how to deal with Ne4-c5. May have already messed up? Shall have to look later.
+[12:03:45] nyanners: its definitely the move most people play
+[12:04:31] namegoesinhere: (9.Qa4) I hadn't thought about ...Ne4, but at worst you can probably take in and Rd1
+[12:05:01] nyanners: Ne4 ive never seen at least :o
+[12:05:17] namegoesinhere: (9.Qa4) maybe you can just ignore and play Rd1 or something then drop back with the Q if Nc5
+[12:07:49] le_merovingien: Mooooooose!
+[12:10:06] nyanners: seems they will play into it :o
+[12:10:06] nyanners: both sides go with the motions and black realizes its not holding
+[12:15:26] le_merovingien: Nc3, no?
+[12:16:58] serenemoose: Hope I do regain the piece after the sac. Should calculate some more.
+[12:17:13] nyanners: yea just Nc3
+[12:17:28] namegoesinhere: (12...Kxd7) I don't think the sac on d5 works because Ke6 at some point gets out of the pin and defends
+[12:18:14] le_merovingien: What sac? It's white's best piece!
+[12:18:14] nyanners: white is clearly tempted
+[12:18:29] serenemoose: Or just 13.Nc3, no sac required? But the king steps forward.
+[12:18:29] nyanners: Nc3 Ke6 Bh3 ayy
+[12:18:44] nyanners: then Bg5 i think
+[12:19:16] le_merovingien: If you sac, I cut your antlers
+[12:19:31] nyanners: i mean, if white saw Nc3 Ke6, you should see xd5 Ke6
+[12:19:46] nyanners: and the end result is just losing the bishop pair
+[12:20:33] serenemoose: Classic wishful thinking. The king can obviously go to c6 or e6 post sac. Might have already blown it.
+[12:21:34] nyanners: havent lost it while you have the pin on the long diagonal
+[12:22:04] namegoesinhere: (12...Kxd7) yeah, the position is still good after Nc3
+[12:22:04] namegoesinhere: (12...Kxd7) maybe can start with Bg5 as well
+[12:22:35] le_merovingien: I like Nc3 first. Gotta develop
+[12:23:36] le_merovingien: I guess either works
+[12:24:06] le_merovingien: But Ke6 Nb5 ought to be calculated
+[12:25:23] namegoesinhere: (13.Nc3) oooh yeah Ke6 Nb5 is interesting, leave the threat of Bh3+ in the air
+[12:26:39] le_merovingien: But Rhd8 might be played
+[12:27:55] serenemoose: Am I supposed to give up the bishop pair to get the pawn? It is an open position.
+[12:30:27] le_merovingien: Open position = keep Bishops
+[12:31:28] le_merovingien: I mean, maybe for a Pawn but it has to be very well calculated
+[12:32:14] le_merovingien: I would certainly not part with the fianchetto Bishop. The b7 Bishop would become a monster
+[12:33:00] namegoesinhere: (14.Nxe4) i mean if you trade the LSBs to win a pawn i think it's fine, but yeah maybe not trading bishop for knight
+[12:33:15] le_merovingien: Ah yes, both LSB, of course.
+[12:33:15] namegoesinhere: (14.Nxe4) but in the game looks like white gets the pawn without trading the LSB off
+[12:33:30] le_merovingien: Yep. It looks strong
+[12:34:46] le_merovingien: I never know here... Bf3 or Bg2?
+[12:35:17] le_merovingien: Bg2 always looks better to me nut engines keep saying Bf3.
+[12:36:18] namegoesinhere: (16.Bg2) Bf3 defend the e-pawn, but if you ever go e3 or e4 then the bishop is undefended so there might be some annyoing tacitcs
+[12:36:33] namegoesinhere: (16.Bg2) so Bg2 is probably more straightforward
+[12:37:34] le_merovingien: The idea of Bf3 is to never move the Pawn as far as I can tell so the problem is d4 d3
+[12:37:50] le_merovingien: Or g5 g4
+[12:38:05] le_merovingien: But I really don't get why it can be better than the safer Bg2
+[12:39:07] le_merovingien: Black going wild.
+[12:41:39] namegoesinhere: (18.Bd2) f5 was forced I think, but now there are a bunch of targets and weak central squares for white to work with
+[12:42:10] le_merovingien: Yeah, Rac8 is wil
+[12:42:25] le_merovingien: D
+[13:22:23] namegoesinhere: (27...Rc6) Ree7 seems strong now
+[13:22:54] namegoesinhere: (27...Rc6) creates some mating ideas and hits g7 as a bonus
+[13:23:10] le_merovingien: Yes. f falls. But c falls too. Activity is on White's side, Silman would be proud
+[13:24:26] kborman: Does Ra1 force R6c8?
+[13:25:12] serenemoose: Torn between 28.Rea1 and R1e7.
+[13:25:28] le_merovingien: Excellent point
+[13:25:43] namegoesinhere: (27...Rc6) oh yeah Ra1 is a good shout too, for some reason I thought the bishop would just move but there's no squares
+[13:25:59] le_merovingien: I did not even contemplate it :)
+[13:26:29] le_merovingien: It's just R1e7 direct from me. Silman. Activity. Stare opponent in the eyes. Take a sip of coffee.
+[13:27:31] namegoesinhere: (28...Rcc8) after Rcc7 do you give the check R1a6+ immediately? I don't see an immediate continuation after Bc6 but there might be something
+[13:27:31] namegoesinhere: (28...Rcc8) ...Rcc8 i meant
+[13:30:19] le_merovingien: Wasn't there Bc6?
+[13:31:20] namegoesinhere: (30...Kh5) yeah, I though Bc6 was a better was to meet the check but maybe I missed something
+[13:31:35] le_merovingien: Rxg7 Rcg8 Rxg8 Rxg8 Bg2 game over
+[13:32:21] namegoesinhere: (31.Rxg7) I was wondering about Bg2 immediately with similar ideas
+[13:32:36] le_merovingien: If Bg2 immediately, g5 comes
+[13:33:06] namegoesinhere: (31.Rxg7) yeah Bg2 g5 fxg5 and if Kxg5 I think Rg7+ wins
+[13:33:21] namegoesinhere: (31.Rxg7) but probably Rcg8 instead of Kxg5
+[13:33:37] le_merovingien: Aaah. I stopped at fxg5 as it gave an escape to the King.
+[13:34:07] serenemoose: Cannot calculate to save my life today. Should be mate in ten different ways, can't find one.
+[13:34:38] namegoesinhere: (31...h6) actually I think in the line I gave with Rcg8 there was Bf3+ Kxg5 h4#
+[13:35:24] namegoesinhere: (31...h6) now Bxf5 hits the rook and threatens Bg4#
+[13:35:39] kborman: Bg2 - f3
+[13:38:11] kborman: gg
+[13:45:17] le_merovingien: gg
