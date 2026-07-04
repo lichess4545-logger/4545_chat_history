@@ -1,0 +1,164 @@
+Lichess game chat log
+Game      : https://lichess.org/gsImwKhf
+White     : berndwind
+Black     : funnylikeaclown
+Time      : 45+45
+Captured  : 2026-07-04 03:48:17 UTC
+Game ended : 2026-07-04 02:28:12 UTC
+Messages  : 154
+────────────────────────────────────────────────────────────
+
+[01:02:43] mennonite: go bernd!
+[01:03:45] macha1313: Go go bernd!
+[01:06:18] berndwind: hi macha!
+[01:06:33] berndwind: hi ABishop1
+[01:06:33] guitarspider: go bernd
+[01:08:05] macha1313: well, I'll get to see how a much better player handles my fav opening for black!
+[01:08:50] berndwind: hi spider! Still awake!
+[01:09:06] macha1313: seems right around here, nearly every player with white pieces has some sort of trick up their sleeve
+[01:09:06] berndwind: there are two lines I know here, deciding which one
+[01:09:21] berndwind: my new favorite fun line is Qf3
+[01:09:36] mennonite: when I play the Caro, I find Nc5 to be really obnoxious
+[01:09:36] berndwind: but I had a game in it earlier this week on lichess so they would have seen it
+[01:09:51] berndwind: I'll just play mainline stuff
+[01:10:37] macha1313: I don't often get Nc5. I usually see both knights on the king side, and the lsb ends up stuck on g3 to prevent terrible things from happenin
+[01:11:23] berndwind: as far as I remember, h5 not precise because the pawn becomes weak?
+[01:11:38] berndwind: the usual move is h6 of course
+[01:11:38] macha1313: sorry, not g3, g6. Had it flipped in my head.
+[01:12:39] berndwind: hi basilcandle
+[01:12:39] berndwind: hi mennonite!
+[01:13:09] berndwind: whisperscript not working. Back to the little w command prior to each nugget of thought
+[01:13:40] mennonite: yeah I don't think h5 is good here
+[01:14:11] macha1313: iirc I saw in general that ipr is looking at the whisper script, so hopefully it's running nicely soon
+[01:14:26] macha1313: yeah, I think h5  has gotten me in trouble before. It's used in some other lines, but not with the bishop in this position
+[01:15:13] basilcandle: hi berndwind gl hf
+[01:15:58] mennonite: Black almost has to play something like ...Nd7 to prevent Ne5.
+[01:16:14] mennonite: the LSB is the pride and joy of Black's position in the mainline Caro and Black is spending too much time trying to take care of it
+[01:16:44] macha1313: yes, and then that knight on d7 can be come a problem if you don't castle quickly enough.
+[01:16:59] mennonite: yep!
+[01:17:15] macha1313: (ask me how I know....)
+[01:17:15] mennonite: hmm black may be having internet problems
+[01:18:00] berndwind: hehe I'm glad I know the rules about not being able to claim victory in case of opponent leaving the game!
+[01:18:00] berndwind: hello aloo_bhaloo!
+[01:18:16] berndwind: they must be having daily life chaos on their end
+[01:18:31] berndwind: I guess it's Friday night over there
+[01:18:46] berndwind: maybe there is a horde of invading teenagers in their home? Trying to steal all the whiskey
+[01:19:17] mennonite: two years ago i made the mistake of scheduling my game on the night of July 4, and my dog spent the whole game agitated by fireworks
+[01:19:17] macha1313: at least around here, we're having some awful weather. Maybe they're having power/internet issues? tbh I wouldn't be surprised if my power
+[01:19:32] macha1313: flickers soon
+[01:19:32] berndwind: or maybe their job is ACTUALLY being a clown and they are doing a kids birthday party between moves
+[01:19:48] berndwind: ok they're back from between sets
+[01:19:48] mennonite: hope everything is ok there
+[01:20:33] berndwind: hi Scribbler!
+[01:21:19] mennonite: Ne5. harass that poor bishop
+[01:22:05] macha1313: yup. I dream of white playing something like Bd3 in these situations, at least I'd be able to trade off with equal material
+[01:23:22] macha1313: keeping the lsb just becomes too tricky really quickly
+[01:25:24] berndwind: I mean Ne5 is very tempting but I don't think it leads anywhere
+[01:26:40] berndwind: have been calculating Ne5 Bh7 Bc4 but after either e6 or Nd5 I don't see anything
+[01:27:26] aloo_bhaloo: What is this chess? Why hasn't bernd blundered already?
+[01:27:41] aloo_bhaloo: Bc4 e6 Ne5 Bh7  Qe2
+[01:28:42] macha1313: Qe2 can get *really* tricky for black there. Too easy to get smothered.
+[01:28:57] mennonite: i like that line ^
+[01:42:13] berndwind: hi Brandon!
+[01:42:29] berndwind: and hello Stimizot, that was a brutal and well played win against our board 2
+[01:51:53] berndwind: so also been looking at Ng5 and Kb1
+[01:52:08] berndwind: don't see anything immediately forcing, just a nice position
+[01:52:39] berndwind: if Ng4, I always have Qe2
+[01:53:39] berndwind: if you're reading this later, funnylikeaclown, thanks for giving me a week of Modern prep haha
+[01:53:55] berndwind: it'll come in handy eventually
+[01:55:57] berndwind: I feel like this helps me even
+[01:55:57] berndwind: I want this move anyway
+[01:58:14] berndwind: first thought here is Nf5
+[01:59:46] berndwind: does it force Bf8?
+[02:00:47] berndwind: if so, I can follow it up with Ng5
+[02:01:17] berndwind: there are also some tactical issues around the h5 pawn and his knight
+[02:05:06] berndwind: my initial thought here was Nd6+ followed by a potential Nc4
+[02:05:51] berndwind: or even a knight sac on f7
+[02:06:37] berndwind: surely Nxf7 has to work
+[02:10:26] berndwind: I mean I could just capture, but looking at Ng5
+[02:10:41] inter-temporal: (17...Kg6) Go Bernd (srry FLC, go u next round!)
+[02:10:56] berndwind: hi nyanners! Haha my turn today
+[02:11:26] nyanners: qe4?
+[02:12:12] nyanners: idk i feel id end up just taking on d7
+[02:13:13] nyanners: here it could become a wild ride with Qxd4 Qf7 Kf5 and ?????
+[02:14:29] inter-temporal: (18.Ng5) might get a perpet if it looks bad
+[02:14:44] mennonite: white's team is up 3-1 so that wouldn't be the worst outcome
+[02:15:15] mennonite: in that sense
+[02:18:33] nyanners: there they go
+[02:18:48] nyanners: did white calculate this :o
+[02:18:48] inter-temporal: (19...Kf5) nanners! look what u did
+[02:20:04] inter-temporal: (19...Kf5) not Bc3 Qd5, i think, but that also has some branching
+[02:20:04] nyanners: heres a bad line: 20 Bc3 Qd5 Re6 Raf8
+[02:20:19] nyanners: so dont do that
+[02:20:19] inter-temporal: (19...Kf5) lol. that's the line i was lookin at
+[02:20:35] inter-temporal: (20...Kg6) and white too. so. perpet is fine
+[02:21:05] berndwind: Oh man did I mess this up?
+[02:21:20] berndwind: Maybe I should have just taken the piece
+[02:21:20] berndwind: ok let's see if there's something else here
+[02:21:36] inter-temporal: (20...Kg6) nah. this is more fun
+[02:22:06] nyanners: could be Bc3 Ne6 for Nxg7
+[02:22:21] berndwind: the problem is Qd5 if I play Bc3
+[02:24:54] nyanners: im feeling some frustration. might be a repeat
+[02:25:24] berndwind: as far as I can see, I don't have anything better than a draw
+[02:25:24] berndwind: perhaps being royally stupid
+[02:25:54] berndwind: but with the queen coming to d5, I don't think I have any way of carrying on the attack
+[02:26:10] nyanners: there it goes
+[02:26:55] nyanners: i think the Ne6 line is promising actually
+[02:27:41] nyanners: gg
+[02:27:41] mennonite: gg
+[02:27:41] inter-temporal: gg
+[02:27:41] goldenretrieverchess: gg
+[02:27:56] aloo_bhaloo: gg
+[02:28:11] angborxley: gg
+[02:28:27] inter-temporal: lichess ratings are weird sometimes. how does B lose a point here
+[02:28:42] mennonite: white gets disadvantaged with draws
+[02:28:58] mrscribbles: gg
+[02:28:58] inter-temporal: truly?
+[02:28:58] funnylikeaclown: well played berndwind nice spot
+[02:29:13] mennonite: relatively recent formula change is my understanding
+[02:29:13] nyanners: yes
+[02:29:28] funnylikeaclown: good luck with your season and sorry for jumping in and out early on
+[02:30:44] berndwind: Thanks FunnyLikeAClown! Was certainly a fun game
+[02:30:59] berndwind: And all good re jumping in and out. Glad you're ok at least!
+[02:31:14] inter-temporal: SF says 22.c3 is smth with ...Qd5 and 23.Ne6!! (per nanners)
+[02:31:30] nyanners: c3 or Re4.. what the
+[02:31:30] nyanners: i was thinking Bc3 Ne6
+[02:31:45] nyanners: which seems working
+[02:31:45] berndwind: Yes I just saw that! Wild stuff
+[02:32:00] inter-temporal: there too
+[02:32:00] berndwind: Ok need to work on my attacking play it seems haha
+[02:32:15] inter-temporal: nanners, did you see enough that you'd play Ne6?
+[02:32:31] nyanners: i think this one is just hard
+[02:32:31] nyanners: i think id just take d7
+[02:32:46] inter-temporal: yeh. oc. but what about the perpet?
+[02:33:01] nyanners: no clue
+[02:33:17] nyanners: think id go with the bc3 ne6 one
+[02:33:49] inter-temporal: a dangerous risk-taker!?
+[02:34:04] nyanners: eh i mean, white didnt even invest a lot
+[02:34:19] nyanners: 1 pawn for piece, maybe 2
+[02:34:35] inter-temporal: to get the K out to f5. i see
+[02:34:35] berndwind: yeah there are some very nice lines with Ne6 after c3
+[02:34:50] berndwind: very hard to stop mate without giving up the queen
+[02:34:50] nyanners: i still prefer Bc3
+[02:35:05] nyanners: seems similar overall
+[02:36:36] berndwind: looking at that and yeah it is
+[02:36:52] berndwind: I think if I'd seen Ne6, I would have played that
+[02:37:37] inter-temporal: i didn't see it. i was still rejecting Re6
+[02:38:08] berndwind: Ne6 is just an amazing move. How do you even stop mate after that??
+[02:42:11] aloo_bhaloo: bc3 qd5 ne6 g5 ng7+ kf4 g3+ kf3 is fun
+[02:42:11] inter-temporal: if Bc3 Qf4+, Kb1 is bad
+[02:43:58] inter-temporal: Bc3 Qf4+, Bd2 and either repeat or find c3
+[02:44:58] inter-temporal: then after you find c3, you gotta also find Ne6. lol
+[02:44:58] nyanners: ah i see XD
+[02:45:14] nyanners: didnt think much of Qf4
+[02:47:01] inter-temporal: if i found all that here, someone might want to check my lipstick case for electronics...
+[02:47:32] inter-temporal: lol. it's a reference. i don't have lipstick. it's a joke! come on
+[02:48:02] inter-temporal: tough crowd.
+[02:48:32] inter-temporal: i miss "funny" already
+[02:48:32] inter-temporal: c ya
+[02:48:48] nyanners: oh thats a good reference
+[02:49:04] inter-temporal: :) and today the Kramnik decision came down from FIDE. soooo
+[02:49:19] inter-temporal: i'm clever
+[02:49:34] inter-temporal: k. bye ya'll
+[02:49:49] nyanners: this makes lichess the biggest platform to not ban kramnik (?)
+[02:50:20] nyanners: not saying they should its just funny to put it like that XD
