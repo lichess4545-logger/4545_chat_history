@@ -1,0 +1,16 @@
+Lichess game chat log
+Game      : https://lichess.org/ZXs8fepG
+White     : lorb
+Black     : neothehero
+Time      : 45+45
+Captured  : 2026-07-04 08:57:33 UTC
+Game ended : 2026-07-04 07:37:19 UTC
+Messages  : 6
+────────────────────────────────────────────────────────────
+
+[06:25:55] neothehero: ok, Qd3 was not expected
+[06:27:41] neothehero: candidates are c6 and Bc8
+[06:28:27] neothehero: c6 Bxc6 Nxc6 Qxf5 Qxf5 Rxf5 looks ok
+[06:29:58] neothehero: c6 Bb3 Qh4+ g3 Qe4+
+[06:30:29] neothehero: c6 Bb3 Qh4+ Kd2 Qf4+
+[06:31:15] neothehero: surely Qh4+ works now?
