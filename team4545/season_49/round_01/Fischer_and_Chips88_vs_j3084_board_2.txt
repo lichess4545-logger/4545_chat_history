@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/qsNh3YEi
+White     : fischer_and_chips88
+Black     : j3084
+Time      : 45+45
+Captured  : 2026-07-04 14:55:00 UTC
+Game ended : 2026-07-04 13:34:54 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[12:04:41] fischer_and_chips88: oooohhh Sicilian, surprised to see this. Was expecting a Caro Kann or Scandi, but I did see that my opponent plays a lot of openings.
+[12:06:58] fischer_and_chips88: d6 after Nc3 is one of the less interesting variations, most play Nc6 or g6 or e6
+[12:09:30] fischer_and_chips88: Bd7. There's 2 plans here for white I think, one is to trade on c6 play d3 and castle and go for typical Grand Prix with f5
+[12:09:46] fischer_and_chips88: another is b3 Bb2 Qe2 and long castling
+[12:10:01] fischer_and_chips88: with either d4 or e5
+[12:12:03] fischer_and_chips88: lets give this b3 thing a try I have been doing a lot of the f5 stuff lately and normally the bishop is needed on c4
+[12:16:52] fischer_and_chips88: Be7 is a little surprising, not contesting the long diagonal and both the bishops are passive right now
+[12:17:07] fischer_and_chips88: I do plan to trade off my light bishop it is just a question of when
+[12:17:38] fischer_and_chips88: I remember there's a Magnus game with this b3 Sicilian where he waits for a6 before trading
+[12:18:23] fischer_and_chips88: just going to continue the plan of castling long and playing either d4 or e5
+[12:20:40] fischer_and_chips88: I am leaning towards 11 e5 over d4 but I will spend some time here considering both
+[12:24:29] fischer_and_chips88: there are also other moves like Rg1-h3-g4 or even g4 right away
+[12:24:59] banshee3333: Good luck Fischer and Chips!
+[12:28:49] fischer_and_chips88: 11 d4, I think g4 is a little premature at this stage but maybe was possible. I decided against e5 as it could lead to the dark squares
+[12:29:04] fischer_and_chips88: being shut
+[12:32:07] fischer_and_chips88: hmm Qa5. Normally the whole point of c5 is to take when white plays d4. but I guess black didn't want to allow Nd4
+[12:33:08] fischer_and_chips88: the principled move here would be d5 I think. exd5 exd5 would be a double attack on the bishops
+[12:35:41] fischer_and_chips88: so after d5 the logical reply would be Bb5 I assume which I wouldn't take cause I don't want to open the a file
+[12:36:11] fischer_and_chips88: so Qe1 maybe to keep the queen on the e file and maybe swing to g3 or h4
+[12:37:43] fischer_and_chips88: I think Qa5 was inaccurate by black but we'll see
+[12:44:50] fischer_and_chips88: Nxd5 and I think Qd8 is the only move.
+[12:47:22] fischer_and_chips88: Qxe1 Nxe7+ in between.
+[12:47:52] fischer_and_chips88: Bd8 Nxf6+ and has to play gx which would be pretty bad
+[12:48:08] fischer_and_chips88: so expecting Qd8.
+[12:48:38] fischer_and_chips88: then I will play e5 and I think black is in trouble but we'll see
+[12:50:25] fischer_and_chips88: either e5 or Qg3
+[12:51:26] bronasberger: Go j3084!!
+[12:51:41] fischer_and_chips88: not Qg3 that hangs e4
+[12:52:42] fischer_and_chips88: e5 Nxd5 Rxd5 Bc6 exd6 and if Bxd5 dxe7 forks queen and rook since my queen defends.
+[12:54:45] fischer_and_chips88: ok here it goes...
+[12:55:45] banshee3333: Black maybe has Bh4 before Bxd5?
+[12:56:01] fischer_and_chips88: exd6 and Bxd6 though
+[12:56:16] fischer_and_chips88: no Rg5 cause Bxf4 gah that's annoying
+[12:57:02] banshee3333: So 17. exd6 Bh4 18. Nxh4 Bxd5 or 18. Qxh4 Bxd5 either way
+[12:57:47] banshee3333: And I think that refutes 17. exd6, no?
+[13:00:04] banshee3333: And 17. exd6 Bh4 18. Qc3 just meets 18...Bf6
+[13:00:50] fischer_and_chips88: hm this isn't getting anywhere I should just move my rook.
+[13:02:22] fischer_and_chips88: post move clarity, very happy with Rd1. Keep the d file pressure and the dark squared bishop is great.
+[13:04:39] fischer_and_chips88: 18 Qg3 briefly considered f5
+[13:04:39] fischer_and_chips88: huh queen back to a5 really
+[13:07:58] fischer_and_chips88: e6 looks nice at first but after f6 black is safe for a while. planning Re1 and f6 myself. don't really care about Qxa2 it is too slow
+[13:09:59] fischer_and_chips88: maybe I have Ng5 here
+[13:11:00] fischer_and_chips88: threat is Ne6
+[13:11:31] jcarmody: go j
+[13:12:01] jcarmody: ??
+[13:13:48] fischer_and_chips88: oh I don't know if this works actually because after he takes on g5 the pin is broken on the g file
+[13:15:04] fischer_and_chips88: maybe after takes I have to play h4...
+[13:15:34] fischer_and_chips88: black is thinking which is good
+[13:15:34] fischer_and_chips88: wow that's a relief I think
+[13:19:55] fischer_and_chips88: hm I feel a momentum shift now, queen side pawn storm incoming.
+[13:22:12] fischer_and_chips88: um free pawn. little unclear
+[13:23:58] fischer_and_chips88: Nxc6...
+[13:24:59] fischer_and_chips88: I think this wins a piece
+[13:25:14] fischer_and_chips88: no checks
+[13:30:04] fischer_and_chips88: really happy about this game so far. Ng5 was probably a blunder but interesting nonetheless, curious to see what comp thinks
+[13:30:04] fischer_and_chips88: and spectators
+[13:32:22] fischer_and_chips88: double attack on a8 and c4
+[13:33:08] fischer_and_chips88: pp on the pp
+[13:33:23] fischer_and_chips88: don't blunder back rank funny business somehow
+[13:34:54] fischer_and_chips88: gg
+[13:36:11] fischer_and_chips88: oh Qg3 was right not e5 I thought he could take on e4 but Qg7
+[13:36:56] banshee3333: Ah so my line I thought was a stronger refutation of ed6 fails to Qe5 at the end
+[13:41:32] banshee3333: Looks like White gets overwhelming compensatation for the exchange after ...Qf3
