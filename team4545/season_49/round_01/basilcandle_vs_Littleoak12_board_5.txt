@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/gFZDPui3
+White     : basilcandle
+Black     : littleoak12
+Time      : 45+45
+Captured  : 2026-07-04 19:23:49 UTC
+Game ended : 2026-07-04 18:03:43 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[16:05:54] kayrosas: let's go littleoak!
+[16:11:31] kayrosas: a6 very nice stabilising move
+[16:11:46] kayrosas: maybe not necessary but makes the Nc3 even more misplaced
+[16:21:57] goldenretrieverchess: Gooo basilcandle!
+[16:22:28] littleoak12: b5 should be bad because it leaves an outpost on c5, but I am attracted to it here, I could follow it with Qb6 to pressure d4
+[16:23:13] lorb: We have reached move 6, where is the mate?
+[16:23:13] kayrosas: i dont think there's any dynamical reason to go b5 yet, just finish development and go from there
+[16:24:29] littleoak12: after h3, I guess my lsq bishop will have to chill on c8 for the time being
+[16:25:15] kayrosas: 7...g6 or e6 is the big question imo
+[16:25:30] kayrosas: I'm leaning towards g6 bc we keep some potential Bf5 in the future
+[16:26:01] basilcandle: this is nothing like how I thought the game would be going LOL
+[16:26:01] kayrosas: Nb4 also always an idea
+[16:26:31] basilcandle: hi everyone!
+[16:27:17] goldenretrieverchess: :D
+[16:30:36] littleoak12: 7.. Nb4 8 Be2 Bd4 would be great but I feel like white would just allow the exchange instead
+[16:31:06] littleoak12: and then white could go Ne5 freely, at which point I'd probably give up my own bishop to take the knight off
+[16:40:17] basilcandle: 8...Bd7 guess they want to try and trade for my lsb with Bb5 at some point
+[16:40:32] littleoak12: my long term plan is to reposition c knight on g6, and combine b5 with a long term kingside threat?
+[16:41:33] littleoak12: I was relying on Qb6 to prevent white from playing Bf4 but I realise that's not a threat.. so i hope basil doesn't play Bf4 now
+[16:42:34] basilcandle: so many moves look appealing!
+[16:48:54] basilcandle: 9. Bf4, other candidates - a3, Re1, Bg5, Be3, Ne2
+[16:52:28] kayrosas: probably still the first priority for black is develop the dsb and castle. then prevent white's activity. and then start a minority attack
+[16:56:16] basilcandle: I expected them to play Nb4 at some point, but nvm!
+[16:56:47] basilcandle: can I transport my knight in one move to c7... Plz?!
+[17:05:56] kayrosas: getting the c6 knight to g6 is often an idea but not sure if in this structure it actually does a lot
+[17:06:11] kayrosas: I'd prefer to keep the option of b5 + Na5,Nc4 or use it on the queenside in another way
+[17:11:04] littleoak12: If Bxf6.. wouldn't it be fun to take back with the g pawn?
+[17:28:05] kayrosas: 14
+[17:28:05] kayrosas: *14.Nxf7 could be a threat
+[17:28:35] kayrosas: maybe not good yet, but black has to be careful
+[17:43:34] littleoak12: oh I missed Qxb7
+[17:45:05] littleoak12: Nxc6 Nxc6 16. Bxe4 dxe4 17. Qxe4 Nxd4 18. Qxb7
+[17:47:23] kayrosas: you can do 17...Qxd4 instead i think, but good calc
+[17:48:54] kayrosas: black's knights are a bit awkward
+[17:49:09] kayrosas: f3 could be strong at some point
+[17:51:11] lorb: well, f3 is not gonna happen
+[17:52:28] kayrosas: automatic reaction is to not take on g4 but f4 is undefended for now
+[17:53:14] kayrosas: difficult position and both are low on time
+[17:56:01] kayrosas: 20...fxg4 surely?
+[17:56:33] kayrosas: i dont like allowing white g5 at least
+[17:58:22] basilcandle: geez I'm getting crushed
+[18:01:56] basilcandle: sorry team!
+[18:03:58] kayrosas: gg
+[18:04:13] littleoak12: gg thx for watching guys
+[18:04:28] littleoak12: that was quite a thrilling endgame, we both spent a lot of time early on, could have gone either way
+[18:04:28] goldenretrieverchess: GG both
+[18:11:05] godgifu: gg
+[18:11:20] littleoak12: the big question this game for me was whether to do a queenside push or not
+[18:11:36] littleoak12: like magma mantioned it would have been a minority attack
+[18:12:22] littleoak12: b5, Na5 + Nc4, etc. Eventually b4. But I didn't see what that would do for me other than gain space!
+[18:12:22] littleoak12: somethign to think about
+[18:12:52] littleoak12: and basil was also thinking about Nb4 which is in a similar vein
