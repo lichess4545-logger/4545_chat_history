@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/29mOiFIL
+White     : asimovfoundation
+Black     : tomshko
+Time      : 45+45
+Captured  : 2026-07-04 19:16:56 UTC
+Game ended : 2026-07-04 17:56:49 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[16:10:44] bufferunderrun: let's go Asimov!
+[16:19:37] merricks: I wonder if qf3 was strong instead of trading
+[16:28:17] bufferunderrun: 27.Re3 would threaten cxb4
+[17:10:30] bufferunderrun: not sure I like this
+[17:11:16] bufferunderrun: 34...Bxd4 and now Rxd4 bxc3 bxc3 Rb2 may cause issues
+[17:11:46] wolfsblut: Rdg1 and h6 is white's idea, I think
+[17:11:46] bufferunderrun: and if cxd4 then d5 is no longer weak
+[17:12:01] bufferunderrun: well, as weak as it was
+[17:14:34] bufferunderrun: not a fan of bxc3 either
+[17:19:39] bufferunderrun: 38.Rg1 seems alright
+[17:24:43] bufferunderrun: yeah, Kh7 Kg4 dxc3 h6 Kg8 hxg7 and Rh8
+[17:30:49] bufferunderrun: can just take on d4 now
+[17:31:51] bufferunderrun: or g7 also works
+[17:35:26] bufferunderrun: Idk about Rc1
+[17:38:59] bufferunderrun: 52.Re4 looks strong
+[17:39:15] merricks: yeah i would have preferred pushing right away to keep the king out
+[17:39:46] bufferunderrun: 53.Re4 is again strong
+[17:43:50] bufferunderrun: 60.Ra7+ and then kng up
+[17:46:07] bufferunderrun: well, now 61.Kf4 rf2+ Ke4 Re2+ Kf3 Ra2 Ra7 Kf6 Rf7+ should be okay
+[17:49:56] bufferunderrun: finally
+[17:57:20] bufferunderrun: gg
+[17:58:05] merricks: good game
