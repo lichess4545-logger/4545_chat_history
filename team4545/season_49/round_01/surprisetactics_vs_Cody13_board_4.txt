@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/07eCiIUR
+White     : surprisetactics
+Black     : cody13
+Time      : 45+45
+Captured  : 2026-07-04 21:55:27 UTC
+Game ended : 2026-07-04 20:35:26 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[19:09:28] aloo_bhaloo: Go Dave!
+[19:14:47] aloo_bhaloo: Do you mind 10 qc2 bxf3 as white?
+[19:16:19] aloo_bhaloo: looks good to me
+[19:45:03] nyanners: yeah Bxf3 is bait
+[19:46:04] nyanners: id play with bxc3 to avoid this Ne4 line, as played you could consider retreating the bishop instead of 14 bxc3 to keep the bishop pair
+[19:46:50] nyanners: with all those trades black might be even getting the advantage
+[19:52:26] aloo_bhaloo: i think white had to include a4 before deciding withthe rooks
+[19:52:57] aloo_bhaloo: i dont know if Bxc4 dxc is playable, but black looks better off
+[19:53:43] nyanners: weird one. maybe white is better
+[19:54:14] nyanners: but even on bxc then c5 could still shake things up
+[19:55:46] aloo_bhaloo: white's king is close enough I guess. that is huge
+[19:57:17] aloo_bhaloo: black wishes to teleport c6 to e6
+[20:11:17] aloo_bhaloo: rxa1 looks weird from black. isnt white faster after rb7+ ?
+[20:12:48] aloo_bhaloo: rd7 rx kx kf3 ke6 kg4
+[20:14:34] nyanners: yea i think id go with that
+[20:14:50] nyanners: maybe white wanted to bait this
+[20:15:51] nyanners: now you can try hx into Ra7 Rg7 maybe, Kf5 Rf7+ and if the black king goes forward then white may try e6e7e8
+[20:16:52] aloo_bhaloo: ooh its happening
+[20:19:09] nyanners: there they go :o
+[20:19:24] nyanners: yeah this just looks really good to me
+[20:20:10] nyanners: all options look good tbh
+[20:20:40] nyanners: worst case white can take and protect fx hx rx rb3 kd2 rb2 ke1 rb3 rg3
+[20:20:55] nyanners: but id look at other lines
+[20:21:26] nyanners: this distraction might give black some drawing chances, its difficult to mobilize
+[20:23:44] aloo_bhaloo: rxg4 rb3 rg6+ kd7 rd6+ kc7 kd2  to send f pawn rolling
+[20:25:15] aloo_bhaloo: bunch of silly checks I guess
+[20:26:32] nyanners: white should be faster
+[20:27:02] nyanners: def has to be careful though
+[20:27:18] nyanners: now everything dies and you have to make a run for it
+[20:27:48] nyanners: kf7 e6 kf6 rg6 kxf5 e7
+[20:28:19] nyanners: or rg6 ke7 rg7 into rf7
+[20:29:19] nyanners: Ke7 seems like the same thing but better for white
+[20:29:50] nyanners: if you go Ke8 then f6 kinda just wins easily
+[20:30:51] aloo_bhaloo: sac rook - queen working mostly
+[20:35:10] aloo_bhaloo: gg
+[20:37:59] surprisetactics: Gg. I think bishop takes and dxc4 had to be right and maybe I’m in trouble?
+[20:41:33] aloo_bhaloo: my initial thoughts as well
+[21:14:20] goldenretrieverchess: gg both
