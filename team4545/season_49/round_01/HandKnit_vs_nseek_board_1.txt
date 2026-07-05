@@ -1,0 +1,108 @@
+Lichess game chat log
+Game      : https://lichess.org/FYmaXdk2
+White     : handknit
+Black     : nseek
+Time      : 45+45
+Captured  : 2026-07-05 20:13:21 UTC
+Game ended : 2026-07-05 18:53:17 UTC
+Messages  : 98
+────────────────────────────────────────────────────────────
+
+[17:01:51] handknit: we goin' manual prepend, I guess
+[17:02:22] handknit: (1.d4) Oh hey, I made move 1 and it's back
+[17:02:22] handknit: (1.d4) kick ass
+[17:02:38] handknit: (2.c4) let's play some Keres
+[17:02:38] handknit: (2...Nf6) or not
+[17:03:24] handknit: (7.Bg5) okay, let's see how this plays out
+[17:05:58] handknit: (8...c5) okay, a second to remember. I played this last year OTB, I think
+[17:07:30] handknit: (10.e3) In that game, I got into a bit of trouble but had the balance by the end
+[17:07:30] nseek: in the one game in this position I found for handknit in prep they played 10 long castles
+[17:07:45] handknit: (10.e3) I seem to remember that I played Nh3 when I was supposed to castle
+[17:08:00] handknit: (10.e3) The takeaway was that taking on f6 quickly isn't so simple
+[17:08:00] nseek: 10 e3 is the better move tho I think long castles was blitz
+[17:08:16] sriramkarunajothy: Be careful you are playing with A CM CANDITAE MASTER
+[17:08:31] handknit: (11.O-O-O) point rook at d7, have K defend b2
+[17:10:18] handknit: (11.O-O-O) f6 is still a soft spot. There's this Nh3-Nf4-Nh5 path
+[17:10:18] handknit: (11.O-O-O) h4-Rh3 a sort of perennial idea
+[17:10:33] handknit: (11.O-O-O) I'm trying to remember what I end up doing with the Bf1
+[17:12:05] handknit: (11.O-O-O) Play list is CBC Radio 3. Current song is Wellington's Wednesday by Weakerthans
+[17:12:50] nseek: we need a win here so I have a technically dubious tactic to go for that leaves me a little bit worse if played correctly
+[17:13:21] nseek: but keeps most of the pieces on the board and gives me an interesting game, also easy to misplay for white and I end up better
+[17:14:07] nseek: with ...Ne4 here, ...d5 I think is the best move, but after Bxf6 Qxf6 Qxf6 gxf6 I dont really have winning chances
+[17:14:37] handknit: (11...Ne4) oh, we be forcing things
+[17:15:08] handknit: (11...Ne4) So I have some pre-theoretical confidence that this doesn't work, from the original game review
+[17:16:09] handknit: (11...Ne4) So, after first review, what stands out is fxe4 and Rxd7
+[17:17:56] handknit: (11...Ne4) I mean, there's only two moves, and I'm pretty sure Bxd8 is not so good
+[17:18:41] handknit: (11...Ne4) like on the Bxd8 line, I have to take on c3, and then I can't protect c4 to Ba6-Na5
+[17:19:12] handknit: (11...Ne4) So after fxe4 Qxb5, what is there other than Rxd7?
+[17:19:27] handknit: (11...Ne4) Nf3-e5 is probably worth thinking about
+[17:21:30] handknit: (11...Ne4) 12.fxe4 Qxg5 13.Rxd7 Rab8 14.Nf3 Qg6. What then?
+[17:22:15] handknit: (11...Ne4) ah, Bd3 because there's no Qxg2
+[17:24:02] semlegesnev: I wonder if the b file would cause problems for White later Rab8 and eventual Ba8
+[17:24:32] nseek: fxe4 was the right move for white per the prep, but at least the queens are still on and I think I have attacking chances
+[17:31:09] handknit: (14...Qg4) okay, so I think the basic threat is e5, closing the diagonal and attacking d7
+[17:33:57] handknit: (14...Qg4) It's a bit frisky, but I can think about 15.h4 Qxe4 15.Bd3 Qxe3+ 16.Kb1.
+[17:33:57] handknit: (14...Qg4) Go down a pawn but get a good attack
+[17:35:59] handknit: (14...Qg4) liking this pawn sac idea more and more
+[17:38:16] semlegesnev: Computer doesn't hate HandKnit's idea, but it also doesn't love it. Seems like defending the pawn with the bishop and allowing e5 is fine
+[17:39:17] addead: I was calculating the same
+[17:39:17] handknit: (15.Rd2) we choose the coward's option
+[17:40:33] semlegesnev: hm, this still gives up the e pawn, and the Bishop will be a bit locked in unless white gives another pawn
+[17:41:50] handknit: (15.Rd2) Feeling a bit uncomfortable about the pressure on b2
+[17:42:35] handknit: (15.Rd2) The extra pawn isn't worth a ton but it's not nothing. The dual control over d6 and d4 could be significant
+[17:43:36] handknit: (17.h3) you know, I completely whiffed on the Q going back to g4
+[17:44:07] handknit: (17.h3) Still, it's a game, and I *think* this is a bit better for white
+[17:44:53] semlegesnev: White has gained quite some space now and g4 could continue with tempo, tho it certainly opens the long diagonal for black
+[17:45:08] semlegesnev: or Qg3, hehe
+[17:47:25] handknit: (18.h4) Ng5-Ne4 has some sauce as a route
+[17:47:40] handknit: (18.h4) Not sure how I feel about Bc2 as c4 might get weak
+[17:47:55] handknit: (18.h4) but it's the natural withdrawal square if I want to double the rooks on D
+[17:51:44] handknit: (19.h5) simple play
+[17:53:01] handknit: (20.Rh3) I think white just cavemans it here
+[17:53:46] handknit: (20.Rh3) hm, maybe not so clear
+[17:54:17] handknit: (20.Rh3) 20...Qc7 21.g4 f6 22.g5 hxg5 23.h6 g4
+[17:55:03] handknit: (20.Rh3) genuinely thinking about the repeititon after Qg4, which is almost certainly wrong
+[17:55:48] handknit: (20.Rh3) I guess I can repeat once to assert dominance
+[17:56:19] handknit: (20...Qg4) How much does Bb1-Qc2 get me?
+[17:58:06] handknit: (20...Qg4) Nh2-Nf1 doesn't quite work because I give up e5
+[17:59:08] semlegesnev: Might actually have to repeat moves here, I don't see anything else working. Then again, that wins the duel for white
+[18:00:08] handknit: (20...Qg4) I feel like black can improve simply with Rd7 and Rbd8, which I'm not thrilled about
+[18:01:55] handknit: (22.Rh3) 22.Be4 might be a way to play on
+[18:02:10] handknit: (22.Rh3) But I feel like my pieces are on weird squares
+[18:02:10] nseek: back to that whole I have to win thing lol
+[18:02:41] nseek: would normally be super happy to repeat here against such a strong player but now we have to see if Qc7 is just as playable
+[18:02:56] handknit: (23.g4) okay, game continues
+[18:03:27] mrscribbles: (23.g4) if you repeat for a boring draw I'm unsubscribing from your chesster notifications lol
+[18:04:27] handknit: (23.g4) gotta be careful about my rook
+[18:05:14] handknit: (23.g4) Bringing my rook back is really hard here
+[18:05:29] semlegesnev: Black now has  some ideas of going Na5, trading on f3, and playing Rb3 with a tempo
+[18:08:18] nseek: threat here is to get the bishop out of the way with tempo and fork
+[18:10:35] nseek: plus the natural looking R2h2 and I get RxB QxB BxN and the h3 rook is overworked
+[18:14:09] handknit: (24.g5) oh, I definitely just played this based on a phantom
+[18:14:24] handknit: (24.g5) well, let's see what happens
+[18:15:10] handknit: (24.g5) I had Rh8+-Rh7+ at the end of this line, forgetting the second h pawn
+[18:15:10] nseek: well g5 is scary but I think I still have BxN then the N check fork
+[18:17:58] nseek: gxh6 is quite scary too though. so Bxf3 gxh6 (threatens mate in one) gxh6 and neither rook can take the g file becuase both g3 and g2 are
+[18:18:44] nseek: covered by B and Q so I think I end up enough material its worth opening the king
+[18:19:29] semlegesnev: BxN b4 is an idea
+[18:25:05] handknit: (28.Qxd2) ah, I missed Rd1+ in some lines. Probably very lost now
+[18:25:50] handknit: (28.Qxd2) Qb7 is very hard to meet now
+[18:28:08] handknit: (30.Bg6) Feels pretty over
+[18:30:55] semlegesnev: Qc3 leads to mate with Rd1 and Qb3 now
+[18:31:41] nseek: I don't think Bxf5 is a real threat here I think I can just run to the queenside so I have time to try an attack
+[18:31:56] handknit: (31.Rg3) Other than the ghosts, what went wrong? Rh3 feels wrong. There was probably a simpler move there.
+[18:32:11] nseek: Qc3 looks really cool and stays on the diagonal, plus I threaten Rd2 and a pair of pawns
+[18:33:58] handknit: (32.Qc2) no solution to Rd1
+[18:34:44] nseek: is this a free rook?
+[18:35:14] nseek: or Is qh8 gonna be a mate somehow?
+[18:36:31] handknit: (34.Qc3) So we shuffle on a bit longer
+[18:39:49] handknit: (35.Qe5) Rbc8 is easiest, I think
+[18:40:19] handknit: (35...Ke7) I guess he's headed to f6?
+[18:42:51] semlegesnev: Maybe Qc7 qf7 Qc7 would have been slightly better to try and chase
+[18:43:52] handknit: (37.Qxa7) Does Qg2 get it done?
+[18:46:40] handknit: (39.Qg7) Rxb2 Rd2 ends it
+[18:49:28] handknit: (39.Qg7) even the rook sac to trade queens on b2 does it
+[18:52:15] nseek: oh man Rxb2 works, it worked last move too I guess lol
+[18:52:31] semlegesnev: ggs
+[18:52:31] raindy: congrats
+[18:52:46] karasso: gg
