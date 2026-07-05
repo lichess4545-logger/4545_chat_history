@@ -1,0 +1,138 @@
+Lichess game chat log
+Game      : https://lichess.org/HRFHKHNq
+White     : ascannerdarkly
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-07-05 21:55:51 UTC
+Game ended : 2026-07-05 20:35:42 UTC
+Messages  : 128
+────────────────────────────────────────────────────────────
+
+[18:02:53] rolihlahla: hi Captain  :-)
+[18:04:25] hpors: Go Eric !!
+[18:05:57] timothyha: Qd7 and castle long, too!
+[18:05:57] timothyha: Just for fun :)
+[18:06:27] timothyha: but for Messi, @Scarff would say castle short
+[18:06:27] rolihlahla: hi Teammates  :-)
+[18:07:13] scarff: 0-0 does invite an attack, which does scare me a little. Maybe leave the king in the centre, and just attack like that
+[18:07:43] scarff: Push the queenside and attack without moving the king yet?
+[18:08:29] scarff: Good luck Eric! Would be nice to score a first win against Scanner Darkly!
+[18:15:21] timothyha: tricky play by White
+[18:15:36] timothyha: b6 loses to Bb5 c6 Rxd6
+[18:15:51] timothyha: maybe just castle long now and let the b-pawn be a poisoned one
+[18:16:22] timothyha: with these pieces the endgame down a pawn is nothing
+[18:16:22] timothyha: and an attack is fun here
+[18:17:08] timothyha: (12) my move number plugin is not active for some reason
+[18:25:01] timothyha: (13.Bd3) ok, re-enabled ipr's extension
+[18:27:49] timothyha: (13...a5) this and then take on a2 and on b3 play a4
+[18:40:16] leverkuhn: hmmm 16.Qf4 Be5? 17.Bxf5 seems like a problem for Black, as does 16...Bxd3 17.Qxf6
+[18:41:47] leverkuhn: I guess he has to just play the doubled f-pawns after 16.Bf4 Be5 17.Bxf5 Qxf5 18.Qxf5 gxf5?
+[18:42:18] leverkuhn: That's the kind of position where White's pawn reaching h6 wins it though
+[18:44:50] leverkuhn: maybe Black can try 16...h5, hoping that 17.g4 hxg4 18.h5 Be5 doesn't win for White
+[18:46:07] leverkuhn: hmmm that doesn't help; just 16...h5 17.Bxf5 Qxf5 18.Qxf5 gxf5 19.Rd5 and the rook cleans up
+[18:47:23] leverkuhn: I don't have any suggestions for Black; the f5-bishop being pinned to its more valuable colleague is a brutal dynamic
+[18:48:39] leverkuhn: whoa
+[18:49:10] rolihlahla: that was not great ...
+[18:49:25] leverkuhn: he's going to try 17.Qxf6 Qf5, but that can't work
+[18:51:57] leverkuhn: 18.Qd4 Bxc2 19.Rd2 Be4 20.Bh6 f6 and the exchange drops, but might be able to fight a bit
+[18:51:57] leverkuhn: *but Black
+[18:54:30] leverkuhn: White could also play 18.Bd4 Qxf6 19.Bxf6 Bf5 20.h5 with some winning chances based on the ensconced bishop
+[18:55:00] leverkuhn: currently I endorse going for the exchance
+[18:55:00] leverkuhn: *exchange
+[18:58:03] leverkuhn: 18...Bxc2 19.Rd2 c5!? sows some confusion, so is the correct move order 19.Bh6?
+[18:59:04] leverkuhn: 19.Bh6 f6 20.Rd2 c5 21.Qxd6 and I like that we can respond to ...Rd8 with a mate threat on the seventh rank
+[19:07:14] timothyha: (20...Bb1) g4 is interesting?
+[19:07:29] leverkuhn: I was just noticing there an additional possible nuance with throwing in Qc4+ somewhere; we'll see how scanner feels about that
+[19:07:44] timothyha: (20...Bb1) g4 Qe4 though
+[19:08:15] leverkuhn: indeed; I don't think that favors White as h1 is loose
+[19:11:33] leverkuhn: 21...Bxa2!! beautiful idea from Black keeping himself in the game (I think)
+[19:12:49] timothyha: (21...Bxa2) Kc1 Bb3+ and Re8 is a lot of fun for Black
+[19:13:20] timothyha: (21...Bxa2) Kd1 of course not c1
+[19:13:35] leverkuhn: White will presumably play 22.Qd3 here, but Black has two pawns for his exchange
+[19:14:21] leverkuhn: or maybe 22.Rd3, not sure why I didn't think of that
+[19:17:54] leverkuhn: 23...Kxf8 probably an astute move; 23...Rxf8 would have seen a White rook reach e7
+[19:18:40] leverkuhn: 24.h5! quite imporant now I would think, as the h6-pawn will positionally monstrous if White can achieve it
+[19:19:10] timothyha: (24.Re1) yeah h5 would cause most problems
+[19:19:26] timothyha: (24.Re1) Black would have no time to consolidae
+[19:19:26] timothyha: (24.Re1) consolidate
+[19:19:41] leverkuhn: now 24...h5! from Black and he'll make a miraculous draw
+[19:20:11] leverkuhn: 24...h5 25.Rde3 Bf7 26.Re7 Re8!=
+[19:22:44] leverkuhn: neither player respecting the positional h4-h5
+[19:24:15] leverkuhn: so did White lose his advantage somewhere, or did I overestimate the position after 17.Qxf6?
+[19:25:47] timothyha: (26.Rxe3) Black is a mathematician, he's busy proving the game is a draw
+[19:25:47] timothyha: (26.Rxe3) but move :-)
+[19:28:34] timothyha: (27...a4) yeah, this does look like a proof
+[19:29:05] leverkuhn: some old school pre-neural net chess happening here
+[19:29:20] timothyha: (27...a4) :-) given that it's a senior player playing!
+[19:29:20] leverkuhn: post alphazero I feel humans overuse the h5-h6 motif because you look so cool
+[19:29:50] leverkuhn: it's gone from being a hallmark of computer play to a hallmark of humans trying to larp is Leela
+[19:30:21] timothyha: (27...a4) well, there's a video series by Grischuk - the h-pawn moves before AlphaZero
+[19:30:36] leverkuhn: for sure, Bent Larsen will always be the true og
+[19:30:51] timothyha: (27...a4) old-school chess players push h5 h4 h6 a lot or similarly with a-pawn, long term investment
+[19:31:22] leverkuhn: I do think it's fair to say that h4-h5-h6 as a purely positional idea with no attacking intention was underrated before neural nets
+[19:31:52] timothyha: (28...Kf7) I lost so many games to that...
+[19:36:26] timothyha: (29...b5) ok, so now Black can't enter the queenside
+[19:36:42] timothyha: (29...b5) White, I mean :-)
+[19:36:57] timothyha: (29...b5) without losing the b-pawn there's no way in
+[19:36:57] juancruzariastdf: I would buy +-, = or -+ if an engine told me
+[19:36:57] timothyha: (29...b5) is it a proof of a draw yet?
+[19:37:13] timothyha: (29...b5) White can still play h5 with no risk at all
+[19:37:43] timothyha: (29...b5) and ask questions to Black
+[19:37:43] timothyha: (29...b5) FM Juan might have some ideas here
+[19:38:29] leverkuhn: 'engine told me' doing a lot of work there, juan! I'd be stunned if this isn't equal, but I've been stunned before . . .
+[19:38:29] timothyha: (30.g4) our team is "Messi Mates" this time @JuanCruzariasTDF
+[19:38:59] juancruzariastdf: that's awesome
+[19:38:59] timothyha: (30...c5) what is this brave c5
+[19:39:15] juancruzariastdf: it looks like Black can't lose
+[19:39:30] rolihlahla: hi Juan :-)
+[19:39:45] juancruzariastdf: because they can lock the kingside if needed
+[19:39:45] leverkuhn: Black starting to get interested in exploring his winning chances maybe
+[19:40:31] timothyha: (30...c5) or simplifying the proof by removing the queenside question
+[19:40:31] juancruzariastdf: and even if it came open and White'ss rook filtered through, there is not much to hit
+[19:41:17] juancruzariastdf: yeah probably pushing c5 is risk-free... anything further would create some issues even if small
+[19:42:02] juancruzariastdf: pushing b4 does give White's king the d4 square
+[19:42:33] juancruzariastdf: probably Black can't win either, as long as their king is restricted
+[19:42:48] juancruzariastdf: whoever tries too hard to win loses maybe jaja
+[19:43:03] leverkuhn: it feels like that kind of position, indeed
+[19:45:20] king_hunter-1: If both play it safe, it will likely be a straightforward draw. We'll see—maybe someone will take a risk?
+[19:45:36] juancruzariastdf: yeah! its a game of chicken
+[19:46:06] juancruzariastdf: sometimes you can signal you are ok with the draw as if to say 'yeah im close to losing'
+[19:46:06] juancruzariastdf: to have them go forward
+[19:46:37] juancruzariastdf: it does require great certainty you have no way to improve though
+[19:47:22] timothyha: (31...Be6) it's worth trying to play on for both here
+[19:47:22] timothyha: (31...Be6) a technical exercise
+[19:47:22] leverkuhn: I don't love that Black let his h-pawn get stuck on h7, though I guess it doesn't matter
+[19:47:37] juancruzariastdf: feels like automatic g5
+[19:47:37] timothyha: (31...Be6) three more pawns need to disappear from both sides before seeing a clear draw
+[19:48:08] juancruzariastdf: oh maybe Be6 also has intentions of shielding the king's path to the queenside
+[19:53:28] juancruzariastdf: keeping the tension would be wise
+[19:53:44] timothyha: (32.g5) yeah, no need to take
+[19:53:44] juancruzariastdf: maybe White takes out of impulse and then Black's king is active on f4-h4
+[19:54:29] timothyha: (32...f5) Black is in math-proving mode
+[19:54:45] timothyha: (32...f5) no entry = no win
+[19:55:16] juancruzariastdf: jajaja
+[19:55:16] juancruzariastdf: thats true
+[19:55:31] leverkuhn: White could carve himself an h-file with 33.Rh3 and h5 if he wants
+[19:55:31] juancruzariastdf: just keeping it safe and waiting for a chance
+[19:59:04] juancruzariastdf: gotta be careful about h5...
+[20:00:05] juancruzariastdf: if the king is going away
+[20:01:22] leverkuhn: 33.Rh3 was more accurate when ...Bf7 wasn't available
+[20:06:58] leverkuhn: seems like a good time for 36...Bb3+ 37.Kd2 Bf7 draw agreed
+[20:14:20] leverkuhn: okay, Black does want something here!
+[20:14:35] leverkuhn: I'd be concerned about White's king making its way back to d4 after an exchange on b4
+[20:18:40] leverkuhn: hmmm 39.Rd3 suprising, not keeping Black's king honest to the threat of Re7
+[20:23:00] leverkuhn: 39...Kc6 40.Re3 d5 41.Re7 d4 42.Rxh7 d3 43.Kc1 a3 44.bxa3 bxa3 45.Ra7 a2 46.h5 gxh5 and Black would win as the bishop also stops the g-pawn
+[20:24:16] leverkuhn: it (unsurprisingly) went a completely different direction, but this blockade looks shaky for White at best
+[20:26:18] leverkuhn: with Black's bishop controlling g8 soon, White's pawns are super slow to queen and Black should win
+[20:33:55] timothyha: (48.Kd2) b2
+[20:33:55] leverkuhn: that'll do it
+[20:34:26] leverkuhn: I thought Black was going to overpress and get into danger, but in fact his courage was rewarded
+[20:35:11] king_hunter-1: gg
+[20:35:11] leverkuhn: tough loss for Scanner, but very interesting game
+[20:35:27] leverkuhn: gg
+[20:36:28] timothyha: chat backup https://www.dropbox.com/scl/fi/megyi7ak8vvfbn18fill5/R1_Rolihlahla.txt?rlkey=mtleskp0qx2pkthntdlhusrug&dl=0
+[20:36:28] rolihlahla: Thanks Captain!
+[20:38:45] leverkuhn: I cheated: the super clean win was 20.g4!! Qe4 21.Bxf8 when Black's queen and bishop have unlucky coordination
+[20:39:15] leverkuhn: can't trade queens without saving the rook, can't take the rook without losing the queen, beautiful
+[20:39:31] leverkuhn: we considered 19.g4 and 21.g4 during the game, but somehow not 20.g4
+[20:41:17] leverkuhn: chess will never run out of move order naunces!
