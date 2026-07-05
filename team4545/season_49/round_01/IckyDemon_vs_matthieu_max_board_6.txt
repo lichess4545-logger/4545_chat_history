@@ -1,0 +1,42 @@
+Lichess game chat log
+Game      : https://lichess.org/ENeSVEym
+White     : ickydemon
+Black     : matthieu_max
+Time      : 45+45
+Captured  : 2026-07-05 20:30:45 UTC
+Game ended : 2026-07-05 19:10:30 UTC
+Messages  : 32
+────────────────────────────────────────────────────────────
+
+[17:01:35] sirfasunnyboy: go matthieu!
+[17:15:34] sirfasunnyboy: (10) now it gets interesting :)
+[17:16:35] sirfasunnyboy: doesn't seem to be that easy for white to get something back but black of course has to be pretty commited right now
+[17:31:51] sirfasunnyboy: (12) mh maybe the position is worse than I expected. Maybe Na5 to prevent Rb3 and prepare Bd7? But it's not pretty
+[17:42:30] karasso: (14... Qxa2) don't see the queen trap.
+[17:48:07] karasso: Qa1 Be2 a5 Qb3 Bd7 Ra2 Bxa4 Qxa4 Qc3 Bd2 was the problem i guess?
+[17:49:38] karasso: but what about Qa1 Be2 Bd7 Rxb4 a5
+[17:53:12] sirfasunnyboy: Rb5?
+[17:53:42] sirfasunnyboy: lets you keep material
+[17:55:29] karasso: Bxb5 (in my variation) or are you somewhere else
+[17:56:15] karasso: but yes, thats not so good
+[17:57:31] karasso: very complicated anyway
+[17:58:01] karasso: but the position now looks very sad for black
+[17:59:17] sirfasunnyboy: yes, of course Bxb5 but after Bxb5 the Na4 is covered
+[17:59:48] sirfasunnyboy: agreed, doesn't look that much fun to play
+[18:00:03] karasso: i know, that is a problem...
+[18:00:19] karasso: Nxc8 should make it somewhat easier for black
+[18:00:49] sirfasunnyboy: yeah, i think so too. Even material, maybe there is little hope after all
+[18:06:55] karasso: (22. Re1) Bd8 to prepare b6 is here an idea
+[18:28:17] karasso: not sure about e5, kind of activatesthe bishop on b2 and the rook on e1
+[18:43:48] sirfasunnyboy: (31) Bb4 seems kind of counterintuitive for me. Wouldn't you want to "threaten" mate at some point?
+[18:44:19] sirfasunnyboy: and also: Bb4 doesn't do much bc you can't take on c3 anyway
+[18:56:31] sirfasunnyboy: (35) this seems to be winnable for black. Maybe d3 to prepare Re2 and Ra1?
+[18:56:46] karasso: Rb2 insteadm of Re8+
+[18:58:03] karasso: this is probably also winning
+[19:00:50] karasso: but much more complicated
+[19:10:14] matthieu_max: gg well played
+[19:10:14] sirfasunnyboy: gg, very interesting game
+[19:10:30] karasso: gg
+[19:10:45] matthieu_max: haha it was an interesting game for sure
+[19:11:31] matthieu_max: maybe need to get more used to classical since the last move was... yeah
+[19:16:05] matthieu_max: (10) might be a little bit overconfident here because I decided to trade my queen
