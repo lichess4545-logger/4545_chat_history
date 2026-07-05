@@ -1,0 +1,41 @@
+Lichess game chat log
+Game      : https://lichess.org/wRVRk7Jx
+White     : rufelos
+Black     : welpe
+Time      : 45+45
+Captured  : 2026-07-05 16:50:46 UTC
+Game ended : 2026-07-05 15:30:44 UTC
+Messages  : 31
+────────────────────────────────────────────────────────────
+
+[13:30:53] leverkuhn: alright, strategic battle here
+[13:31:23] leverkuhn: Can White crack Black's central wedge before Black develops?
+[13:33:10] leverkuhn: sacrifices on e4 leading to a fork on d5 could be a relevant tactical theme:
+[13:33:25] leverkuhn: : for example 8.Nh3 Be6 9.Ng5 Qd7 10.Nxe6 Qxe6 11.fxe4 fxe4 12.Nxe4! dxe4 13.d5!
+[13:35:43] leverkuhn: if 8...Nf6 I think White is happy throwing the bishop in with 9.Bg5
+[13:36:13] leverkuhn: so perhaps 8...Be7 first, meeting 9.Nf4 with Nf6
+[13:39:46] leverkuhn: Just noticed my forking line above doesn't work because of 13...Bb4+ at the end, but anyone I was just trying to illustrate the theme
+[13:40:17] leverkuhn: Black has selected the ultra-strategic 8...h6, trying to play ...Nf6 without allowing Bg5
+[13:40:47] leverkuhn: it comes at the huge price of weakening g6 and delaying development by yet another tempo
+[13:44:22] leverkuhn: White will likely take the chance to play 10.Ng6, when after 10...Rg8 he has a pleasant choice between 11.Nxf8 or 11.0-0
+[13:45:53] leverkuhn: there is also a point to starting with 10.0-0, as it prevents 10...Bd6 due to 11.Nxd5
+[13:46:23] leverkuhn: and Black can't manage the invasion on g6 anyway
+[13:49:58] leverkuhn: White opts for that approach and Black's position is starting to look very scary
+[13:50:59] leverkuhn: maybe 10...g5!? in the spirit of "when you've said A, say B"
+[13:51:29] leverkuhn: 10...Kf7?! is again the best strategic move, but isn't how chess works
+[13:51:45] leverkuhn: Black will surely lose to f-file tactics now
+[13:53:46] leverkuhn: 11.fxe4 fxe4 12.Nfxd5! or 11...dxe4 12.Qb3+ are crushing
+[14:12:20] leverkuhn: hmmm not sure about 13.d5, he's allowed Black to sneak in 13...Bc5+
+[14:17:25] leverkuhn: hmmm there are some issues with Qb5+ in that case though
+[14:32:25] leverkuhn: wait, 16...g5 17.Ne6 Nexd5!?
+[14:32:55] leverkuhn: that might actually work
+[14:34:26] leverkuhn: big opportunity to get back in the game if so
+[14:34:57] leverkuhn: who would have thought that White's 16th move required vigilance?
+[14:37:44] leverkuhn: oof Black didn't go for it
+[14:39:16] leverkuhn: I didn't see a refutation
+[14:40:02] leverkuhn: now White can win with 18.Nc7 followed by d6 and/or Bxb6
+[14:44:06] ascannerdarkly: Let's go Welpe!
+[15:34:03] rufelos: damn... I thought about 24.b4 but after b6 I thought I had to retreat my bishop and I didn't like my position there...
+[15:34:18] rufelos: didn't see Bb5 after b6...
+[15:36:50] welpe: there's so many things I didn't see
+[15:37:36] welpe: you completely outplayed me for most of the game, I can be really glad that I got away with a draw
