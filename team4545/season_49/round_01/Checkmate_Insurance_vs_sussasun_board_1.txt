@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/uOfUWeL6
+White     : checkmate_insurance
+Black     : sussasun
+Time      : 45+45
+Captured  : 2026-07-05 12:17:12 UTC
+Game ended : 2026-07-05 10:57:10 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[08:33:31] pratikbora: Go Checkmate
+[08:33:31] checkmate_insurance: honestly i can't remember much specific theory in these kind of scandi lines
+[08:34:32] checkmate_insurance: i looked a little at what they play but it was so many different first moves that i decided not to prep
+[08:36:34] checkmate_insurance: i wonder if d5 and sacking ideas are ever serious here
+[08:43:41] bufferunderrun: let's go checkmate!
+[08:53:05] checkmate_insurance: i could claim the bishop pair with g4 but i'm not convinced it's worth weakening the king for
+[08:54:37] bufferunderrun: can you though? g4 Nxe5 and Bc4 hangs
+[09:22:18] checkmate_insurance: i'm ok with the knight for bishop trade after Ne4 Qe3 Nxg3
+[09:23:04] checkmate_insurance: if Nd5 i'll play Nf4 and i'm ok with the trade but if he doesn't take it right away i think i can reroute to d3 and be better
+[09:29:11] checkmate_insurance: g4?
+[09:31:13] checkmate_insurance: if g4 g5 gxf5 gxf4 Qxe4 i think there are no tricks
+[09:31:43] checkmate_insurance: g4 e5 dxe5 Qxe3 Rxe3 i also think is a win
+[09:32:29] checkmate_insurance: actually g4 e5 dxe5 Qxe3 Rxe3 Nd2 isn't game over
+[09:32:44] checkmate_insurance: but i think Bxf7+ Kxf7 gxf5 should leave a pretty easy endgame
+[09:37:18] checkmate_insurance: the best option i've seen for him is losing a piece for two pawns but it think the position is too closed for  my king safety to matter
+[09:38:50] checkmate_insurance: i just realised after all the whole line i calculated Rxe5 Rxe5 Nf3+ wins back a pawn for him
+[09:43:42] checkmate_insurance: i'm between gxf5 Nxb3 Re1 Nd2 and maybe Nd3 or Bd1 Bc8 Be2
+[10:02:30] checkmate_insurance: i'm not sure if i should trade a pair of rooks or keep them all on
+[10:09:22] checkmate_insurance: i think i should have gone Ra7+ and put my rook on c7 to stop c5 from being possible
+[10:15:58] checkmate_insurance: can't believe i just did that
+[10:16:13] checkmate_insurance: i saw multiple moves that are easy wins and i play kf1
+[10:18:30] checkmate_insurance: maybe it's still a win but it's not clear at all
+[10:38:35] checkmate_insurance: this feels winning
+[10:48:30] karasso: At least this is now a very interesting endgame
+[10:49:46] karasso: I like Nd6
+[10:50:48] sideshow_bob: I think the pawns are too strong now f6+ and what does balck do
+[10:52:05] checkmate_insurance: i think i've calculated to a win
+[10:52:20] checkmate_insurance: if kh7 kh5 is a pretty simple win
+[10:52:35] checkmate_insurance: if kf7 there was a much more complicated line but nvm
+[10:54:37] checkmate_insurance: if kf7 i think i had h7 Kg7 h8=Q Kxh8 Kf6 Kg8 Ke6 Nb7  Ke7 Na5 f6 Nc6+ Ke8
+[10:54:37] checkmate_insurance: and he can't stop both pawns
+[10:57:41] karasso: Imstead of Nb7 there is also Ne4 (b7 Nc5+). Not sure it would change sth
+[10:57:56] karasso: gg
+[10:58:42] sideshow_bob: gg
+[10:59:12] bufferunderrun: gg
+[10:59:12] checkmate_insurance: i can't believe i saw Rc5 and just played Kf1
+[11:01:14] pratikbora: Gg
