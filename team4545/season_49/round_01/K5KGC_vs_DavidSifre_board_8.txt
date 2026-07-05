@@ -1,0 +1,66 @@
+Lichess game chat log
+Game      : https://lichess.org/bQ3bSFop
+White     : k5kgc
+Black     : davidsifre
+Time      : 45+45
+Captured  : 2026-07-05 03:29:47 UTC
+Game ended : 2026-07-05 02:09:46 UTC
+Messages  : 56
+────────────────────────────────────────────────────────────
+
+[00:04:51] berndwind: Go go David!
+[00:42:16] nvasquez: Go David!
+[00:42:16] goldenretrieverchess: Goo David!!
+[00:52:41] kborman: Bxc3 would probably lock whites bishop up and preserve the b5 pawn but I reckon it’s hard to get rid of it.
+[00:59:48] mennonite: oh doesn't 23.Nxd7 just win material?
+[01:00:18] kborman: Yeah
+[01:01:04] davidsifre: (22...Rc8) That just hung my bishop.
+[01:01:04] davidsifre: (22...Rc8) Maybe he won't see it. :)
+[01:01:19] berndwind: I was just thinking the same thing. Ouch
+[01:02:05] davidsifre: (23.Qd4) whew
+[01:05:08] kborman: Nc6 might run into similar fate.
+[01:05:54] kborman: I guess not QxQ
+[01:09:12] kborman: I’m having a hard time wrapping my head around this position.
+[01:10:28] davidsifre: (23...Rd6) I'm down a pawn but maybe his isolated doubles gives me hope along with is blocked bishop.
+[01:11:29] davidsifre: (23...Rd6) though they won't stay doubled if we trade queens.
+[01:14:01] davidsifre: (24.Qe4) Hmm, I can put a second attacker on that knight...
+[01:16:04] davidsifre: (24.Qe4) Or just chase queen with bishop and take the knight.
+[01:16:34] davidsifre: (24.Qe4) that seems better.  But I think we wind up trading bishop for knight.
+[01:17:35] davidsifre: (24...Bf5) look mom! I saved the bishop.
+[01:18:06] davidsifre: (24...Bf5) and I am xraying both double isolated pawns
+[01:18:06] davidsifre: (24...Bf5) Things are looking up.
+[01:19:22] davidsifre: (24...Bf5) They are setting off fireworks to celebrate
+[01:19:37] davidsifre: (24...Bf5) Nobody from my team is watching though. I will have to give them a stern talking to.
+[01:21:08] davidsifre: (24...Bf5) to those who say I should have developed my b-knight, I say, that piece is doing guard duty on the d7 square.
+[01:22:09] davidsifre: (25.Ng4) That seemed good but it still loses the knight.
+[01:23:42] davidsifre: (25.Ng4) I got lucky tonight. Lets hope I can convert this.
+[01:23:57] davidsifre: (26...Rxf6) Trapped bishop (unless I take that d pawn, and then I woudl free the bishop...
+[01:24:13] davidsifre: (26...Rxf6) c pawn, I mean.
+[01:24:58] davidsifre: (27.Bb1) defending that which I have no intention of taking because I am essentially up that bishop right now.
+[01:31:19] nvasquez: 29...Rd2 looks winning for black.   Have to watch for a4 later
+[01:35:08] inter-temporal: (30...Ba6) whew just finished my last Series game as black against an 1800 FIDE.
+[01:35:08] inter-temporal: (30...Ba6) i managed to sweat out a draw.  :)
+[01:39:44] inter-temporal: (33.Rb2) looks like David found an overworked Q.
+[01:39:59] inter-temporal: (33.Rb2) just catching up here
+[01:40:14] inter-temporal: (33.Rb2) opening was interesting
+[01:40:29] inter-temporal: (33.Rb2) reminded me of a Benko gambit but without giving up any Ps
+[01:42:31] davidsifre: (27.Bb1) I'm hanging stuff left and right
+[01:43:02] davidsifre: (34...Rdc6) well maybe not hung but still.
+[01:43:17] kborman: Bishop hanging too right
+[01:44:03] mennonite: White is still looking for his first team league win, so that would be cool to see
+[01:46:51] inter-temporal: (38.Rb3) david overworked his own R.
+[01:47:07] inter-temporal: (38...Kg6) one of my major weaknesses as well. overworked defenders
+[01:47:52] inter-temporal: (38...Kg6) we don't get enough "counting" exercises before we jump into all the offensive tactics, and My System, etc.
+[01:48:08] inter-temporal: (38...Kg6) "we" = adult beginners
+[01:49:56] inter-temporal: (39...Rc6) this is tough for black now
+[01:50:56] inter-temporal: (39...Rc6) doesn't work to swing around behind the c-pawns when they're doubled
+[01:51:57] inter-temporal: (40.Ra3) defend the a-pawn & Black K march to c4 maybe?
+[01:52:58] inter-temporal: (40...Rc5) if he can blockade the c-pawns, it might free his R. idk
+[01:59:51] davidsifre: (46...h5) the eval graph on this one is going to be bumpy. :)
+[01:59:51] inter-temporal: (46...h5) or just capture them... i guess
+[02:09:00] davidsifre: (49...Re1) I sure hope he does not go Kh3
+[02:09:15] davidsifre: (49...Re1) Cuz i don't play hope chess.
+[02:09:15] davidsifre: (49...Re1) Except, I was hoping.
+[02:09:46] inter-temporal: gg
+[02:09:46] goldenretrieverchess: gg
+[02:09:46] kborman: gg
