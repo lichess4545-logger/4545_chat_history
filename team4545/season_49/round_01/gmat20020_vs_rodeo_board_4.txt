@@ -1,0 +1,51 @@
+Lichess game chat log
+Game      : https://lichess.org/fmaEnrqR
+White     : gmat20020
+Black     : rodeo
+Time      : 45+45
+Captured  : 2026-07-05 17:48:30 UTC
+Game ended : 2026-07-05 16:28:16 UTC
+Messages  : 41
+────────────────────────────────────────────────────────────
+
+[15:20:07] mrscribbles: (14...Rde8) hi stevenloooooooooongs
+[15:20:22] mrscribbles: (14...Rde8) Fun position. How often do you see both sides castle long? I would imagine not very often
+[15:20:38] stevenlongs: hahaha whats up man!
+[15:20:53] rodeo: i play this line as white
+[15:21:08] rodeo: not really looking to take d5 anytime soon as it would give his LSB lots of scope from g2
+[15:21:39] rodeo: 15...Kb8 is my desired move
+[15:22:39] mrscribbles: (15.Qd2) rodeo we need to get you the move number extension
+[15:23:40] rodeo: 15...Bg4 16.Be2 Bxe2 17.Qxe2 Nxd5 works?
+[15:23:56] stevenlongs: is ipr's broken? i feel like i keep seeing mention of this but forget to copy the fix or something
+[15:24:26] mrscribbles: (15.Qd2) It was broken for me for a few days then magically fixed itself, I didn't do anything
+[15:24:42] mrscribbles: (15.Qd2) But yeah sometimes it gets drunk and people have to reset it or something, idk what exactly
+[15:25:12] mrscribbles: (15.Qd2) We've been asking lichess to make it a native feature for years, but I'm sure the devs have higher priorities
+[15:26:59] rodeo: 15...Bg4 16.Re1 Bg3 17.Rf1 and if i take on d5 will Nd4 will be a threat
+[15:32:19] stevenlongs: this line is the Hogwarts approved Potter variation :D
+[15:33:35] rodeo: N or B xd5?
+[15:33:35] rodeo: so much for not taking on d5 quickly
+[15:34:21] rodeo: i absolutely have to trade LSB when it comes up
+[15:35:38] rodeo: 17.Rg1 Nxd4 18.Bg2 Bxg2 19.Rxg2 Qf3 holds everything I think
+[15:37:55] rodeo: (18) I think i am ok for Bxd5 next turn
+[15:38:57] rodeo: no that loses to Rxe7
+[15:40:58] tranzoo: gooo rodeo
+[15:43:47] rodeo: (18) i would rather have an active knight than the pawn
+[15:44:18] rodeo: Ne5 and threat Nc4, g5-g4 could be a good idea too
+[15:49:22] rodeo: been a while since my last 4545 i have a mini heart attack after each time i move...
+[15:50:08] rodeo: (20) my desired knight placement
+[15:54:27] rodeo: general idea is to fight on QS and keep d-file blocked
+[15:55:28] rodeo: my question to white: what are your pieces doing?  Mine are holding your QS pawns as targets.
+[15:56:14] rodeo: white has Nd4 and trading on f3 but i will keep QS pawnstorm while that goes on.  I hope this is the right approach.
+[15:57:14] rodeo: and I have Nxf3 forks if he is careless
+[15:57:14] rodeo: ok that's a good plan
+[16:05:23] rodeo: i may be in trouble, lots of white pieces on KS
+[16:14:32] rodeo: here we go
+[16:21:24] tranzoo: hmmm
+[16:22:09] tranzoo: dangerrrous
+[16:24:42] rodeo: rb8 defends?
+[16:25:12] tranzoo: but you are giving up a bishop, no?
+[16:25:12] tranzoo: Bc4
+[16:25:43] tranzoo: that doesnt seem great :/
+[16:27:30] tranzoo: gg
+[16:27:45] rodeo: gg
+[16:28:46] stevenlongs: gg
