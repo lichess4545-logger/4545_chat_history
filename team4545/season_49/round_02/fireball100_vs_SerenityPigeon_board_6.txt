@@ -1,0 +1,114 @@
+Lichess game chat log
+Game      : https://lichess.org/wGdwMMg2
+White     : fireball100
+Black     : serenitypigeon
+Time      : 45+45
+Captured  : 2026-07-06 20:34:02 UTC
+Game ended : 2026-07-06 19:13:46 UTC
+Messages  : 104
+────────────────────────────────────────────────────────────
+
+[17:03:57] goldenretrieverchess: Gooo Brian! Hey Joonaf :D
+[17:04:42] simonwashere: Go Fireball! Hi guys
+[17:05:13] goldenretrieverchess: Hey Simon!
+[17:08:46] joonaf: go fireball!
+[17:09:02] joonaf: hi!
+[17:14:53] davidsifre: Go fireball!
+[17:15:08] davidsifre: What a nest we have here.
+[17:22:31] fireball100: hmmm now where do I castle?
+[17:33:42] nvasquez: Go fireball!
+[17:34:29] nvasquez: 13.Qe4!   Developing with tempo!
+[17:34:59] nvasquez: Black is forced to drop a piece now.   Maybe Bxd2+ Rxd2 Nf6
+[17:35:45] nvasquez: Other options are worse... f5, Nf6, Ng6
+[17:35:45] nvasquez: Loose pieces fall off...
+[17:37:16] nvasquez: ok 19...f5 White has nice options:   Qxb4 is probably best since after e4 Bxe4 fxe4 Qxe4 White is up two pawns
+[17:38:18] nvasquez: If gxf Nf6 Qxb4 e4 is a little better for Black.... I think.... Those white bishops are so strong ehre
+[17:44:10] davidsifre: Those rooks are disconnected and that castle is weird.
+[17:44:40] davidsifre: Line em up on the g file and make the king wet his pants.
+[17:45:41] nvasquez: White I think is still much better but calculation is hard
+[17:46:27] davidsifre: Remember, if playing your best is not good enough, play someone else’s best.
+[17:46:58] nvasquez: White might think about 17.c4 to give the bishop room back on b1 but probably Rg2 here
+[17:47:28] nvasquez: no Rg2 falls to Nf4...
+[17:47:28] nvasquez: so Rg1
+[17:47:43] nvasquez: or Bc4
+[17:55:23] nvasquez: So many juicy options for White for move 19.... Bc4, Nxe5
+[17:55:53] nvasquez: If Bc4+ d5 Bxe5
+[17:56:24] nvasquez: If Nxe5 dxe5 Bc4+
+[17:56:39] nvasquez: I like the knight sac best I think
+[17:56:54] nvasquez: Nxe5 Nxd3+ Nxd3
+[17:57:10] madglue: Nxe5 there is nxd3+
+[17:57:40] madglue: Bc4+ looks like lights out to me but maybe there is a defense
+[17:58:26] nvasquez: Nice...
+[18:03:16] nvasquez: 22.Bxe5 looks most forcing
+[18:03:47] nvasquez: But any capture looks good
+[18:04:17] nvasquez: Very nice... 23.Nd3
+[18:05:33] dylan23234: ...Nxd3+ cxd3, Rxf2 and black equalizes material?
+[18:06:19] nlance: Rxf2 Bxf2 Rg5
+[18:07:05] nvasquez: I like 25...Rhg2 since it' forces the issue.
+[18:07:36] nvasquez: Rhg2 Rxg2 Rxg2
+[18:07:51] nlance: 26 Rg5 is pretty forcing
+[18:08:06] nvasquez: nice
+[18:08:06] nlance: and found
+[18:10:39] nlance: Be5 looked better than c4
+[18:10:54] nlance: But still nice
+[18:16:46] nvasquez: 30 Rxc7 looks dangerous for Black
+[18:34:34] davidsifre: Bc6 seems useless.
+[18:35:35] joonaf: Bg6 and then h5 might've been better
+[18:35:50] nvasquez: agree
+[18:36:51] joonaf: white's DSB is stuck
+[18:37:38] joonaf: Bg6+h5 and then king to d1 to let the DSB out
+[18:39:55] fireball100: well My B is trapped, but I have the only passed pawn. Like draw I feel
+[18:40:41] joonaf: noo don't do useless moves
+[18:40:56] joonaf: if Black wins your h4-pawn, then the knight becomes dangerous
+[18:45:46] joonaf: what if 46..Ke3
+[18:46:01] joonaf: 47. Bf1, Kf2
+[18:47:32] davidsifre: Since DSb is useless why not take a pawn with it.
+[18:47:32] joonaf: I would've tried to go save it with the king
+[18:48:18] davidsifre: Yeah. Keep the Bishop pair
+[18:49:04] davidsifre: But that bishop move to attack the knight is a good one!
+[18:49:34] davidsifre: Bg6 vg
+[18:50:51] bufferunderrun: 49...Kf3 perhaps
+[18:51:07] davidsifre: Now he gets the bishop and pawn for a knight.
+[18:51:37] simonwashere: The moral of the story is that pigeons can be annoying
+[18:51:52] davidsifre: White king can run up and eat the pawns.
+[18:52:07] joonaf: Black's DSB can defend b6
+[18:52:23] joonaf: but at least then  white gets their own dsb out
+[18:52:38] davidsifre: Not and block the white dsv
+[18:55:11] davidsifre: No move besides taking the knight works.
+[18:55:57] davidsifre: But black gets opposition and blocks white king?
+[18:56:27] davidsifre: White can then run up then file and come around.
+[18:56:58] davidsifre: Never mind. Black can’t get opposition. It’s game over.
+[18:56:58] madglue: Think black shld have left the pawn on h5 and played for a win
+[18:57:28] goldenretrieverchess: Just walk the king up the stairs Brian
+[18:57:43] davidsifre: Easy peasy
+[18:57:59] davidsifre: Like quills on a hedgehog
+[18:59:15] davidsifre: Takes too long to make the simple moves.
+[18:59:30] davidsifre: Ke4
+[18:59:46] davidsifre: You got this.
+[19:01:48] davidsifre: ugh why Kd1... that's a terriblem ove.
+[19:02:03] bufferunderrun: Ke4 Bf4 Kd5 Bc7 Kc6 Bd8 Kd7 Bf6 and then there is a chance of Kf3 Ke2 Kxd3
+[19:02:18] bufferunderrun: I don't like Kd1
+[19:02:18] davidsifre: don't need to trade off bishops
+[19:02:18] davidsifre: can do that at he top of the pyramid and eat pawns.
+[19:02:18] bufferunderrun: thought maybe it's still alright
+[19:02:34] bufferunderrun: just shuffle the bishop
+[19:03:05] simonwashere: yeah can still be drawn
+[19:03:37] bufferunderrun: I  preferred the same thing, but with the king on e2
+[19:03:37] davidsifre: I'm sure its doable, but not nearly as easy as running the king up to take the pawns
+[19:03:52] davidsifre: if he moved his dsb to defend, then white dsb was freed to attack
+[19:05:08] bufferunderrun: you are forgetting about the weak d6
+[19:05:08] bufferunderrun: d3*
+[19:06:09] madglue: Black didn’t spend any time this game?
+[19:12:15] fireball100: I am sure I missed an easy win earlier, but that's chess. Opponentg defended and attacked really well.
+[19:13:00] bufferunderrun: I wonder if b4 could be tried here... hmmm...
+[19:13:16] simonwashere: gg
+[19:13:16] bufferunderrun: gg
+[19:13:31] goldenretrieverchess: gg
+[19:13:46] fireball100: Good game!
+[19:14:01] davidsifre: look at that analysis graph!
+[19:15:02] bufferunderrun: nah, the bishop is in time to reach b8
+[19:15:33] davidsifre: It was an EASY win for white, if black did not do the exact same thing and scoop up the white pawns with his king.
+[19:15:48] davidsifre: totally drawn
+[19:16:18] davidsifre: chess is crazy
+[19:17:50] davidsifre: Didn't see that at all when I was leading the peanut gallery
+[19:26:14] fireball100: Ah I did miss winning moves! Oh well :)
