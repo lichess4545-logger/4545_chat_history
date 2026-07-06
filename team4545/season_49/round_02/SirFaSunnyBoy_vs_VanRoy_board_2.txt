@@ -1,0 +1,123 @@
+Lichess game chat log
+Game      : https://lichess.org/9WFdAsQI
+White     : sirfasunnyboy
+Black     : vanroy
+Time      : 45+45
+Captured  : 2026-07-06 21:36:20 UTC
+Game ended : 2026-07-06 20:16:16 UTC
+Messages  : 113
+────────────────────────────────────────────────────────────
+
+[18:30:41] sirfasunnyboy: (3) I'm a little sad he played d6 since he never played it before..
+[18:37:49] tomb85: Go Sir!
+[18:46:12] sirfasunnyboy: (9) I feel good with this position but it will also be hard to generate a clear advantage. Let's see what options black offers up
+[18:55:52] karasso: (12) i guess Nc3 an 0-0-0 is the idea of white here
+[18:56:24] karasso: and c3 instantly played ^^
+[18:57:10] karasso: But d3 is now kind of weak. Maybe Be6 for black here
+[18:59:27] karasso: There is also Qb6+ Kh1 Ne3 with Nxc4
+[18:59:42] karasso: That is annoying
+[19:01:29] sirfasunnyboy: (13) hm, seems like I blundered Qb6+ Kh1 Ne3. That's not good..
+[19:01:59] bxvrc2lh: let's go VanRoy
+[19:03:31] bxvrc2lh: but having 2180 fide on second board is cheating :) for the record
+[19:11:24] sirfasunnyboy: (18) don't think my position is much worse but clearly it's not better, so I just try to exchange rook(s) ig
+[19:11:54] karasso: a6 instead of any rook to d8 seems wrong
+[19:12:09] sirfasunnyboy: (18) not putting a rook on the d-file seems like a massive blunder to me..
+[19:12:25] karasso: :D
+[19:13:11] karasso: probably Rad8 better than Rfd8, since Nb5 can be answered with c6
+[19:13:26] bxvrc2lh: yeah.... now white can control d file
+[19:13:42] karasso: (and Nc7 does not attac the rook on a8/Nxa7 Ra8 wins the knight)
+[19:14:28] bxvrc2lh: it's still fine because white can't do anything with d file and black has time to bring king to center and fight for it
+[19:14:28] sirfasunnyboy: (19) I guess now black should have nothing to play for a win
+[19:14:58] bxvrc2lh: like Rd8, change one rock and move king to e8
+[19:15:13] bxvrc2lh: in the end bishop is better than knight here I think
+[19:15:13] karasso: would still pick black here, but white should not be in any problems anymore
+[19:15:44] sirfasunnyboy: it was much easier to reach an even position than expected, so now let's try to find something to outplay a measly 1700 fide xD
+[19:16:30] sirfasunnyboy: (don't think I will unless black blunders again)^^
+[19:18:48] karasso: i would probably keep the rooks on the board with black
+[19:19:18] bxvrc2lh: keeping the rocks is hard because black rock is stuck
+[19:19:33] karasso: there are no entry squares on the d-flle and the bishop+rook is better than rook+knight
+[19:19:49] bxvrc2lh: but bishop is better than knight in here
+[19:19:49] karasso: would have gone Rf8 g6 f5
+[19:20:04] karasso: (or sth like that)
+[19:20:19] bxvrc2lh: ouh I just notice your nickname... we have a game on Saturday
+[19:20:19] karasso: yeah ^^
+[19:20:34] bxvrc2lh: :D
+[19:22:06] inter-temporal: (25.Kf2) 23...Rf8 was a good plan. we have to learn how to avoid exchanges...
+[19:22:36] sirfasunnyboy: (25) I plan to play Nb4 - Nd5/d3, but all those variants need my king somewhat centralized..
+[19:25:09] sirfasunnyboy: (26) I'm pretty sure this will end in a draw but I also think black overestimates his position. Let's hope he plays like it too
+[19:25:54] bxvrc2lh: I don't like this push.... King is too far away and not in the game
+[19:29:12] sirfasunnyboy: (27) don't really know if I want to exchange pieces if the opportunity arises.. My pawn structure says yes but my heart wants the win
+[19:30:13] karasso: Yes. I also think black should have gone g6 f5 (after bringing the king)
+[19:30:44] karasso: (The yes was for bXVrc2lh)
+[19:31:14] sirfasunnyboy: (27) at least f5 should not work for black and every other pawn move weakens blacks pawn structure too
+[19:31:30] sirfasunnyboy: i guess he should just centralize his king too
+[19:35:19] karasso: Nc5 looks nice, but i don't see the follow up after Bc8
+[19:35:19] karasso: So maybe c5
+[19:35:34] bxvrc2lh: c5 with potential Nd6?
+[19:36:05] bxvrc2lh: or just Kd3 and push Queen side
+[19:36:05] sirfasunnyboy: (29) maybe I can get my knight to g3 to attack the h5 pawn
+[19:36:35] karasso: Nd6 would be great after c5, but i don't think the knight gets there
+[19:37:06] sirfasunnyboy: of course I will always have to look out for the queenside pawns but I hope to be on top of that
+[19:37:36] karasso: Knight to g3 to provoke h4 seems not right.
+[19:38:52] sirfasunnyboy: I also think time could be interesting. Not in the sense that someone will lose on time but it seems like he is playing fast (too)
+[19:39:08] sirfasunnyboy: which should benefit me more than him
+[19:39:53] bxvrc2lh: I tihnk I would have push f5 for black at some point... the more open position the better bishop is
+[19:40:09] bxvrc2lh: but first the king needs to be fixed
+[19:42:26] sirfasunnyboy: (30) don't think I would want to allow his king to infiltrate my queenside. Plus i thought about putting my pawns on black anyway
+[19:42:57] karasso: I would go for g3 h4 here with white
+[19:43:27] karasso: Don't like the pawns on light squares
+[19:46:30] bxvrc2lh: so h5 is forced and this locks kingside
+[19:47:01] sirfasunnyboy: (31) to close the kingside should benefit my knight against his bishop
+[19:47:31] bxvrc2lh: too lazy to calculate what can happen if hxg, Nxg4-Bxg4, Kxg4... but looks lost for black
+[19:47:46] sirfasunnyboy: as long as I don't blunder Bxg4 somwhere in the future, I should be fine after h4
+[19:47:46] sirfasunnyboy: (which I think is blacks best move)
+[19:48:02] sirfasunnyboy: hxg4 seems bad for black
+[19:48:17] karasso: Yeah, h5 seems forced. But there is also till the end ofthe game Bxg4 hxg4 h3 tactic, white has to watch out for
+[19:48:32] bxvrc2lh: yeah but still after h4 it's only white can play for the win
+[19:48:32] karasso: H4, not h5 of course
+[19:49:18] sirfasunnyboy: although it seems counterintuitive to put my pawns on white..
+[19:51:50] sirfasunnyboy: (32) I don't know what I'm doing.. Just making any move and hoping your opponent is worse doesn't seem like great chess..
+[19:52:51] sirfasunnyboy: at least I'm somewhat optimistic he doesn't know what he's doing either^^
+[19:53:06] prostidude: Lol
+[19:53:21] prostidude: I guess 2100 and I kinda think alike
+[19:53:37] bxvrc2lh: why,,,,
+[19:53:52] sirfasunnyboy: I'm just sorry for all the spectators who want to chop off their moving hand
+[19:54:07] karasso: cxb bxc5 is not it
+[19:54:22] tomb85: I kinda like white now in this endgame
+[19:54:38] bxvrc2lh: yeah.... after b6 and bxc5 I like white also
+[19:55:54] karasso: Should still be a draw. Kd3 already loses to Bxg4
+[19:56:09] bxvrc2lh: could be the ideas is to try and harass h3 pawn through Ba6 and Bf1?
+[19:56:24] bxvrc2lh: but knight won't move from c5...
+[19:56:24] karasso: If white blunders that yes
+[19:56:40] karasso: Would go b4 here
+[19:56:40] bxvrc2lh: yeah
+[19:56:55] karasso: And then a4 a5 to fix a6
+[19:57:41] bxvrc2lh: and after fix move knight to f5 but needs to be accurate
+[19:57:57] bxvrc2lh: like Kd3, and pawns on c4,b4,a5
+[19:58:27] sirfasunnyboy: (35) I feel like this position is somewhat good for me but other than optics I'm not sure why yet..
+[19:58:58] sirfasunnyboy: but this setup with a4, b4 and a knight which dominates the black bishop looks nice af
+[19:59:28] karasso: Normally white should not win this. I go Kd6 Kc7 till the end of time
+[19:59:28] sirfasunnyboy: not sure how to progress from that tho, since my king shouldn't blunder this Bxg4 idea
+[20:01:15] sirfasunnyboy: (36) I think b6 was just another blunder. Don't see any positive side (for black) for it but now I can start to calculate if I'm ahead
+[20:02:01] karasso: Not sure of a5. Gets gid of the weakness, but after Nb3 axb4 cxb4 white has an a pass pawn
+[20:02:16] bxvrc2lh: yeah
+[20:02:47] bxvrc2lh: I would probably consider ba6 on Nb3
+[20:04:04] karasso: Probably bxa5+ Kc7 Nc5 Bh1 a6
+[20:04:35] karasso: Should be winning for white
+[20:04:35] karasso: Bf1*
+[20:07:22] sirfasunnyboy: (37) I guess as long as I have Nd3-f2-h1, I can activate my king. But still, I'm not completely sure^^
+[20:07:38] karasso: Kd2 is basically just a waiting move.
+[20:08:23] karasso: Or not, i guess
+[20:10:10] karasso: Tbh, after thinking  little bit i like Kd2
+[20:10:56] karasso: Black has really no move except axb4, has he?
+[20:11:41] karasso: Hmm, yeah that maybe works.
+[20:12:57] karasso: (40) now it does look kind of winning for white
+[20:14:14] sirfasunnyboy: (40) this a-pawn seems like a game winner if it get's to running :)
+[20:15:30] bxvrc2lh: ok, it's gg
+[20:15:45] sirfasunnyboy: (40) I didn't blunder right? RIGHT?? ...
+[20:16:01] tomb85: The knight gets there in time doesn’t it?
+[20:16:16] bxvrc2lh: yeah
+[20:16:16] karasso: 1-0
+[20:16:31] tomb85: Gg well played
+[20:16:31] karasso: gg
+[20:17:47] vanroy: gg
