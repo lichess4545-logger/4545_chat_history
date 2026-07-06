@@ -1,0 +1,206 @@
+Lichess game chat log
+Game      : https://lichess.org/Vc6vQzok
+White     : jwwells42
+Black     : cole77
+Time      : 45+45
+Captured  : 2026-07-06 20:19:22 UTC
+Game ended : 2026-07-06 18:59:17 UTC
+Messages  : 196
+────────────────────────────────────────────────────────────
+
+[17:02:26] cole77: hi everyone
+[17:05:14] cole77: to be honest i didn't prep for Bb5+, I looked at the main line more. This cought me off guard
+[17:05:45] sidyphus: tricky line
+[17:06:15] king12-life: At least prep won't matter much for white either if black doesn't know the main line
+[17:07:32] cole77: on move 6 can I just take on e4? they do have better development though.
+[17:11:51] jwwells42: prob not a great line to play when it is what you were going to prep but didnt
+[17:15:55] cole77: 8.. b5 kicking out the bishop, it will probably drop back to c2. I am up a pawn but white has way better development here.
+[17:17:11] cham: weeeeeeeeeeells
+[17:19:43] cole77: 9.. g6 I looked at Bxf7 ideas but couldn't find anything for white. If Ng5 I will play c4
+[17:22:01] king12-life: It looks good but I can't find anything either
+[17:30:24] cole77: 10.. c4 if Bxd6, I play cxb3 white has some attacking ideas but I don't see anything worth a piece.
+[17:31:42] thegreattoddman: Can they see the chat during the game?
+[17:32:12] king12-life: No, they can only speak in the spectator chat, they don't see it
+[17:34:29] cole77: 11.. Qb6 defending the d6 pawn. If d5, my light squared becomes much worse and I didn't like Qc7.
+[17:36:46] thegreattoddman: Gotcha, thanks for the clarification. I play in Zen mode, so I never see the chat until after the games haha
+[17:39:19] cole77: 12.. Bb7 trying to catch up in development as quick as possible. Trying to untangle myself out of this so I can play Bg7 and 0-0.
+[17:40:05] nubro: Go cole!
+[17:40:35] king12-life: (13. Nbd2) Could Nd5 be a move ? Though Bg5 looks annoying, Nd5 Bg5 N7f6 Ne4
+[17:40:50] glbert: go jwwells42!
+[17:41:06] cole77: 13.. Nd5 attacking the bishop while at the same time preparing Bg7 and 0-0
+[17:41:06] king12-life: Maybe O-O-O is the play here
+[17:41:22] king12-life: As the c3 pawn is hanging in case of b3
+[17:45:56] king12-life: (15... O-O) 15. Be4 felt more annoying for black than a4, I think white lost an important tempo there
+[17:47:13] hesperian: Be4 N7f6 and what's the threat?
+[17:47:43] hesperian: Oh Bx
+[17:47:58] hesperian: Nbm
+[18:03:45] inter-temporal: (17...dxe5) is there comp for the pawn?
+[18:07:49] king12-life: (18. Qg4) Barely any compensations now I'd say... Qh4 will be met with h6
+[18:08:04] king12-life: As long as the e pawn holds, black should be better
+[18:08:51] king12-life: 18... N7f6 19. Qh4 h6 20. Nf3 g5 even wins a piece
+[18:09:21] king12-life: Though white gets a lot of initiative
+[18:09:36] king12-life: (18... f5) This also looks fine, with e4 ideas
+[18:09:36] jwwells42: hmm i calculated this but insufficiently
+[18:09:52] cole77: 18.. Trying to gain space while also defending my knight on d7.
+[18:12:24] okady: Looks a fun game
+[18:13:56] inter-temporal: (19.Qh3) jw is not satisfied with his comp
+[18:14:57] king12-life: Definitely, the queen is also quite bad on h3
+[18:15:12] king12-life: f4 g5 ideas are also around the corner
+[18:15:12] inter-temporal: (20.Ngf3) facing a wall of Ps
+[18:15:43] king12-life: Black can just take his time, centralize the rooks and enjoy the position
+[18:16:13] okady: F4 g5 you can get the knight to g5 and attack as white
+[18:16:13] inter-temporal: (20.Ngf3) how does he resist ...f4
+[18:16:13] king12-life: Well the main problem of f4 now is the knight on d7 hanging
+[18:16:44] inter-temporal: (20.Ngf3) oh. hello! lol
+[18:17:00] inter-temporal: (20.Ngf3) sharp position
+[18:17:15] king12-life: e4 could be playable as I don't think Nxe4/Bxe4 works, but it's not necessary
+[18:17:30] inter-temporal: (20.Ngf3) if f4, Qxd7 Bc8 might be smth
+[18:17:30] king12-life: f4 Qxd7 Bc8 Qxd5+ +- :p
+[18:18:01] inter-temporal: (20.Ngf3) hey.
+[18:18:01] inter-temporal: (20.Ngf3) gonna keep refuting my cheepos?
+[18:18:16] inter-temporal: (20.Ngf3) :)
+[18:19:17] king12-life: :D
+[18:20:18] king12-life: (20... e4) Here comes a massive decision for white. Sac the piece with Nxe4 to keep some sort of initiative or suffer with Nd4 Bxd4 cxd4 ...
+[18:20:18] king12-life: ...Qxd4 ?
+[18:20:33] inter-temporal: (20...e4) google says, "A "cheapo" (or "cheap trick") is a primitive trap set in a lost or equal position to swindle a win or draw"
+[18:20:33] king12-life: Or play Nh4, I forgot this square existed
+[18:23:36] inter-temporal: (20...e4) soo many squares. what a great position
+[18:25:39] inter-temporal: (20...e4) white considers giving up another pawn via Nd4, but ...e3, soooo. no
+[18:26:55] inter-temporal: (21.Nxe4) but black would have to trade first. oh
+[18:27:40] king12-life: (21. Nxe4) Interesting. fxe4 Bxe4 N7f6 Bxg6 looks comfortable for black
+[18:28:11] king12-life: So fxe4 Qxd7 exf3 and then Be4 looks good hmm
+[18:28:26] inter-temporal: (21.Nxe4) oh nice spot!
+[18:28:57] inter-temporal: (21.Nxe4) but still too much cost, for me
+[18:28:57] king12-life: fxe4 Qxd7 exf3 Be4 Rad8 Bxd5+ Bxd5 holds, and after Rad8 Qg4 doesn't do anything as g6 is defended by the b6 queen
+[18:29:12] king12-life: So I believe black is just winning
+[18:29:27] king12-life: Oh I missed 22. Qxd7 exf3 23. Re6 this is tricky!
+[18:29:59] king12-life: But after 23. Re6 Bc8 black might be fine !?
+[18:31:00] inter-temporal: (22.Qxd7) yeh. ...Bc8 looks like too much for White to handle
+[18:31:00] jwwells42: calculating basically zero this game, one of the reasons i chose this Qx was ef Re7
+[18:31:00] king12-life: (22. Qxd7) 22... Bc6 doesn't work because of Qe6+, and 22... Bc8 fails because of Qxd5+ so exf3 looks forced
+[18:31:00] jwwells42: but knight can go backward
+[18:31:15] king12-life: Yeah Re7 isn't a thing xd
+[18:31:30] king12-life: Wait 22... Nf6 is just the easiest way to go probably
+[18:32:19] king12-life: (22... exf3) Alright let's see if white finds anything here
+[18:32:50] inter-temporal: (23.Rad1) bring another toy to the party
+[18:32:50] king12-life: (23. Rad1) This was played very quickly, I'm not convinced by the time usage here
+[18:33:20] king12-life: I guess white wants to force Reè
+[18:33:20] king12-life: Re7*
+[18:33:35] zahara2025: hi
+[18:34:21] mtorkich: Friends, how can I join this tournament?
+[18:34:36] king12-life: lichess4545.com/team4545/register
+[18:35:07] inter-temporal: (24.Qg4) this one is probably too late to join, but there are others
+[18:35:22] inter-temporal: (24.Qg4) Lone Wolf is open
+[18:35:37] jwwells42: unclear why ppl are still watching this
+[18:35:53] inter-temporal: (24.Qg4) it aint over JW
+[18:36:08] inter-temporal: (24...g5) look at that e6 square
+[18:36:23] inter-temporal: (24...g5) and ur rook...
+[18:36:23] inter-temporal: (24...g5) it's a move?
+[18:36:38] cole77: 24.. g5 my king is now pretty weak but I am up a piece. As long as I can trade off material quickly I should be fine.
+[18:36:54] king12-life: (24... g5) Re6 definitely is a move, but why are both players playing so quickly ?
+[18:37:09] inter-temporal: (25.Qe4) that would be MY move... which King would refute immediately
+[18:37:09] king12-life: Okay 25. Qe4 is a nice find
+[18:37:25] inter-temporal: (25.Qe4) oh? go JW!
+[18:37:25] king12-life: Even though there is not really a threat
+[18:37:40] inter-temporal: (25.Qe4) slow roller
+[18:37:55] hesperian: Any reason not to have thrown re6 in first?
+[18:38:10] king12-life: Well they didn't use enough time I guess
+[18:38:41] king12-life: But with Re6 first I don't see much difference, it might even be better without Re6
+[18:38:56] king12-life: Because after Nf6 black can play Rxd1, and if the rook is on e6 you have to play Bxd1
+[18:39:57] king12-life: (26. Qg6) Now Re7 is finally a threat
+[18:40:27] king12-life: Rxd1 seems like the most obvious move to play here, to simplify pieces
+[18:41:30] cole77: 27.. Rd8 just trying to trade every piece I can
+[18:41:30] king12-life: I don't like Rd8 that much because of Re1
+[18:41:30] king12-life: Re8 looked better
+[18:42:15] king12-life: (28. Re1) Qc5 Be5 Qf8 might hold
+[18:42:15] king12-life: But it is very spicy for sure
+[18:42:31] inter-temporal: (28.Re1) drama
+[18:42:31] jwwells42: Rd2 Re8 would be fun
+[18:43:01] king12-life: Re7 is just gg ?
+[18:43:01] inter-temporal: (28...fxg2) black's pieces are not happy
+[18:43:47] inter-temporal: (28...fxg2) that's why we all stayed. it aint over until JW resigns...
+[18:44:17] inter-temporal: (29.h4) missed
+[18:44:17] inter-temporal: (29.h4) the fun continues
+[18:44:17] king12-life: wait wtf
+[18:44:32] king12-life: White's whole idea was Re7
+[18:44:32] king12-life: Why are they playing so quickly
+[18:44:48] inter-temporal: (29.h4) he's speeding up a bit too much
+[18:44:48] king12-life: I didn't see any backrank mates and if they worked before they would still work
+[18:45:03] tranzoo: Re7 looked cool
+[18:45:18] inter-temporal: (29.h4) welcome to us sub-B1s... we miss stuff
+[18:45:33] king12-life: @Tranzoo Re7 wasn't just cool it was 1-0 I think xd
+[18:46:04] inter-temporal: (29...Bd5) still
+[18:46:04] tranzoo: hmmm what about Ne8 then
+[18:46:19] king12-life: Ne8 hangs the b6 queen
+[18:46:19] tranzoo: no
+[18:46:19] inter-temporal: (30.hxg5) now there's not even a ...Rd1+ ghost
+[18:46:19] tranzoo: yeah
+[18:46:19] tranzoo: well ok still not happening
+[18:46:19] cole77: 29.. Bd5 I'm trying to re route the bishop to f7. After hxg5 I will play Bf7
+[18:46:34] king12-life: This is insane
+[18:46:34] okady: Why not rook e7 last move
+[18:46:34] okady: Just
+[18:46:34] king12-life: Okay that would have been a perfect way to think if Re7 was not a move xD
+[18:46:50] okady: Come back from the shower
+[18:47:05] king12-life: jw stated in the chat earlier that they played Nxe4 for Re7 ideas
+[18:47:35] king12-life: Now black is winning again, no threats anymore after hxg5
+[18:48:06] okady: Jezus he had his chance
+[18:48:36] okady: I am gonna insult him like a good teammate after the match (joking) ofcourse i blunderd in my last game
+[18:49:07] inter-temporal: (32.Qxg5) it still aint over... just the last "wave" lol
+[18:49:07] cole77: I feel like I made this more complicated then it should be lol. Still have a lot of work to do on the board to convert this.
+[18:49:22] glbert: i agree that it is kind of surprising that neither player saw Re7.
+[18:49:37] tranzoo: especially if jwells mentioned in the chat? if I understand correctly
+[18:49:52] tranzoo: I guess sometimes you have an idea and forget it later
+[18:49:52] tranzoo: or you see ghosts
+[18:49:52] inter-temporal: (32...Re8) Black reset his K-side castled position, lol
+[18:50:07] king12-life: :D
+[18:50:53] king12-life: Can they use more than 2 minutes for a single move they have 15 minutes
+[18:50:53] king12-life: please
+[18:51:08] king12-life: If black misses Rd6...
+[18:51:54] king12-life: (33... Re2) eh that's fine, Rd6 might even not be a threat because of Re1+ Kxg2 Qb7+, but Re1+ Kh2 might be good for white in this line
+[18:52:40] king12-life: (34. Rd6) Oh 34... Re1+ 35. Kh2 Qb7! looks okay :)
+[18:53:26] inter-temporal: (35.Kxg2) black is back
+[18:53:26] inter-temporal: (35.Kxg2) or back in black
+[18:53:26] inter-temporal: (35.Kxg2) smth
+[18:53:26] king12-life: (35. Kxg2) Qb7+ is gg
+[18:53:41] king12-life: nice find
+[18:54:12] inter-temporal: (35...Qb7+) good fight
+[18:54:12] cole77: yep, over complicating this for sure
+[18:56:15] king12-life: Oh I forgot the knight on f6 was hanging
+[18:56:30] king12-life: great
+[18:57:46] cole77: defending against Rxf6 while also threating the rook and the bishop on c2
+[18:58:32] hesperian: Ok but this is actually GG this time
+[18:58:32] cole77: I'm hoping they just play Rd2 so we can trade :)
+[18:58:32] king12-life: (37... Qe7) Rd2 is forced
+[18:58:47] king12-life: well
+[18:59:02] inter-temporal: gg
+[18:59:02] king12-life: I don't know what to say, gg
+[18:59:02] finerik: gg
+[18:59:17] cole77: ggs :)
+[18:59:48] inter-temporal: now that's entertainment
+[19:00:18] cole77: LOL 50% accuracy
+[19:00:18] jwwells42: oh good it's one for laughability, not for analysis
+[19:00:18] king12-life: xd
+[19:00:34] inter-temporal: nooooo. lots of good stuff.
+[19:00:34] jwwells42: i dont mind playing a bad game but the community pointing and laughing is a bit much
+[19:00:34] jwwells42: ggs
+[19:00:34] okady: Rook e7 would have worked lol
+[19:00:34] okady: Mate in 6
+[19:00:49] inter-temporal: no one laughing. it was complicated
+[19:00:49] cole77: Dang the I feel bad for the eval bar
+[19:01:04] jwwells42: yeah i thought Re7 Rd1
+[19:01:04] jwwells42: i did mention couldn't calc anything
+[19:01:34] okady: Was a great game to wat h
+[19:01:34] okady: Watch
+[19:01:34] okady: Nothing to be ashamed off
+[19:01:50] king12-life: @jwwells42 blunders happen all the time, the point wasn't to laugh at them but sorry if that is what you feel
+[19:01:50] jwwells42: .. as already stated, i dont mind the game
+[19:01:50] cole77: It will be fun to analyze this :)
+[19:01:50] okady: Its always easier to spot things when not playing
+[19:01:50] king12-life: You had lots of counterplay, and Nxe4 definitely ended up being a great practical decision
+[19:05:07] king12-life: why was I considering Kh2 on Re1+ smh
+[19:23:10] jwwells42: needed a6 c4 apparently
+[19:23:56] jwwells42: black is not scoring particularly well in master db tho
+[19:24:27] jwwells42: *white
+[19:24:42] jwwells42: ah lichess is eating chat again
+[19:25:58] jwwells42: a6 is a hook for c4 in other lines of this too i suppose so prob should have worked this out
