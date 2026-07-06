@@ -1,0 +1,149 @@
+Lichess game chat log
+Game      : https://lichess.org/sNpBcaud
+White     : qrs
+Black     : mynameismund
+Time      : 45+45
+Captured  : 2026-07-06 23:16:56 UTC
+Game ended : 2026-07-06 21:56:53 UTC
+Messages  : 139
+────────────────────────────────────────────────────────────
+
+[20:25:10] tomb85: Let’s go qrs!
+[20:31:03] sirfasunnyboy: forza qrs!
+[20:35:23] mrscribbles: (13.f3) No way f3 is a good move. No chance
+[20:35:54] mrscribbles: (13.f3) also, go mund, which may be coloring my opinion
+[20:36:40] mrscribbles: (14.Qxd2) oh, maybe I'm wrong, because Qd4+ is threatened next
+[20:36:40] mrscribbles: (14.Qxd2) so, what do I know?
+[20:37:11] qrs: (13. ... Nxd2) isnt 15. Qd4+ a problem now?
+[20:37:11] mrscribbles: (14.Qxd2) looks like it, indeed
+[20:39:43] sirfasunnyboy: I think Qb6 somewhat saves black position...
+[20:39:58] mrscribbles: (14.Qxd2) Ah nice one SirWhatever
+[20:40:14] karasso: (14 Qxd2) Be6 Qd4+ Kg8 Qxc5 g5 wins back the piece
+[20:40:29] sirfasunnyboy: plus, what Karasso says^^
+[20:41:15] mrscribbles: (14...Be6) I prefer the option where we don't bork all our pawns in frnt of our already-weak king. But this works too
+[20:41:30] mrscribbles: (14...Be6) Qb6 might be hard to find; I didn't see it
+[20:41:30] karasso: Qb6 Qd4+ e5 Qxe5+ f6 Qd4 looked bad
+[20:41:45] mrscribbles: (14...Be6) wait
+[20:42:00] mrscribbles: (14...Be6) Would white have still won material with Qb6 Qd4+ Kf8 Qxg4?
+[20:42:00] karasso: ok Kg8 instead of f6
+[20:43:01] karasso: yes, Qxg4 Nb3+ Kh1 Nxa1 also good for white
+[20:43:01] mrscribbles: (14...Be6) Then like Nb3+ Kh8 Nxa1 Rxa1 and white has two pieces for a rook
+[20:43:16] mrscribbles: (14...Be6) yeah what karasso says
+[20:43:47] mrscribbles: (14...Be6) Though, as black I might have preferred that instead of this g5 stuff
+[20:44:17] mrscribbles: (14...Be6) But the only reason I see any of this is because all the 2200+ folks pointed out Qb6 so I'm standing on the shoulders of giants
+[20:44:48] karasso: i do prefer Be6 with g5 over Qb6
+[20:45:49] karasso: I mean, even if i don't take the two pieces for the rook, taking the e5 pawn with check has to be very bad for black
+[20:46:19] sirfasunnyboy: disclaimer: I just thought about Qb6 bc as I often play f4, I often get crushed by this b6-g8 diagonal, so it's not bc my rating i saw that
+[20:46:50] mrscribbles: (14...Be6) @SirFaSunnyBoy I also play f4 a lot and I didn't see it :D
+[20:47:20] sirfasunnyboy: are you sure you get that much material? ... Nxa1 Rxa1 Qxb2 and you sac a lot of pawns too..
+[20:47:36] mrscribbles: (14...Be6) fair
+[20:47:51] karasso: White should still go for Qd4+ Qxc5
+[20:47:51] qrs: (15 ?) Qd4+ Kg8/f6 Qxc5 g5 is clear. Just wondering whether sth like f4 would potentially be better
+[20:48:06] sirfasunnyboy: at this point sure, but I'm talking about this Qb6 variant
+[20:48:37] karasso: idk, just take e5 with check
+[20:48:52] sirfasunnyboy: seems fair
+[20:49:22] mrscribbles: (14...Be6) What's this about taking on e5? When is there something on e5
+[20:49:22] nyanners: stranger things
+[20:49:22] karasso: i can also take e5 with chech and than go fxg4
+[20:49:53] karasso: Nd7+ or Nd3 + Qd4 saves the queen
+[20:50:38] karasso: after Qb6 Qd4+ you have to go e5. if Kg8 fxg4 and you are just a piece down without any discovered checks
+[20:52:10] mrscribbles: (15...Kg8) maybe white won't see the hanging piece
+[20:52:25] nyanners: how did black get into this. just play 4..cxd4 like the ancients would
+[20:52:25] karasso: :D
+[20:52:25] mrscribbles: (15...Kg8) these 1900s are basically useless anyway
+[20:54:28] sirfasunnyboy: and now Spain is winning. What a great day :)
+[20:54:43] mrscribbles: (15...Kg8) :shakefist: my boi mund will pull through
+[20:54:59] mrscribbles: (15...Kg8) I'm pretty sure white doesn't see the hanging Knight, they've been thinking way too long
+[20:54:59] karasso: Qxc5 g5 Qd4 gxh4 (not forced but maybe best) Qxh4 looks very good for white
+[20:55:14] mrscribbles: (16.Qxc5) ugh this kid's a genius
+[20:55:29] sirfasunnyboy: not taking the knight would have been hillarious xD
+[20:55:44] karasso: qd4 qb6 :d
+[20:56:00] nyanners: this looks extremely unpleasant
+[20:56:30] mrscribbles: (16...g5) On the bright side, buddy's King is going to have a LOT of luft
+[20:57:01] nyanners: such a thing as too much i guess
+[20:57:16] karasso: f4 gxh4 f5 also an idea
+[20:57:31] karasso: winning d5
+[20:57:31] karasso: and f6 at the right moment
+[20:58:32] nyanners: this is almost surely some sort of winning, just needs a few more precise moves
+[20:59:03] nyanners: would f4 be it? i think so
+[20:59:48] sirfasunnyboy: nice
+[21:00:04] sirfasunnyboy: seems like qrs is in control
+[21:00:19] mrscribbles: (18.f5) white made the earlier brilliancy f3! Preparing the eventual thematic f4!
+[21:00:34] mrscribbles: (18...Bc8) Fun fact: Qrs is their first name, pronounced "Chris"
+[21:00:49] sirfasunnyboy: f4 is always the winning move ;)
+[21:00:49] mrscribbles: (18...Bc8) And last name is Tuvwxyz, pronounced tuvwuxiz
+[21:02:21] karasso: a lot of good moves here for white, hard to chose
+[21:02:51] nyanners: id go with lazy bx?
+[21:03:22] karasso: can't be wrong
+[21:03:22] nyanners: like you can calculate Rad1 e6 f6 but.. i wouldnt spend over 2 min
+[21:03:22] sirfasunnyboy: me too. Just don't overthink it and make time an issue here
+[21:04:23] nyanners: black  probably just looking for the best pawn down endings instead of actual counterplay
+[21:04:54] karasso: jo...maybe Qb6 is the best move here, which would be sad
+[21:05:24] karasso: but it feels like you are getting mated if you don't trade queens asap
+[21:06:40] sirfasunnyboy: thought about hxg3 but it seemed more open files were not that great for black
+[21:06:55] karasso: Rad1 should force Qb6
+[21:07:56] karasso: but there is probably sthe better for white
+[21:08:12] sirfasunnyboy: don't think i want to force Qb6 as white?
+[21:09:43] karasso: here we go
+[21:10:14] karasso: this looks extremly bad for black
+[21:10:44] karasso: was maybe the best, but that endgame is just suffer
+[21:12:47] karasso: long term plan for white can be to double the rooks on the h-file
+[21:13:48] karasso: e4 Kf2 Rh1 Rh6 Rah1
+[21:14:03] karasso: Kg2 maybe better than Kf2
+[21:14:49] karasso: black might have to go for e6
+[21:16:21] karasso: Ra7 can't be good
+[21:16:51] karasso: Rad1 now stops Bd7
+[21:18:53] karasso: maybe Kg7 now, stepping out of Bxf7+
+[21:23:43] nyanners: i thought this was all bad but it's even worse than i thought
+[21:23:43] nyanners: black speculating with xa2 tho
+[21:24:13] nyanners: i think i bluff call and Rf2
+[21:24:29] nyanners: white's rook is superior
+[21:25:14] karasso: i also looked at Rxa2 in the end, but i would still go for it
+[21:25:45] karasso: e7 b7 everything is so weak and the rook on d7 so strong
+[21:29:03] karasso: f6 instead of Rf2 was interesting
+[21:29:03] nyanners: dont want interesting
+[21:29:34] karasso: f6 now is interesting :D
+[21:29:34] karasso: (or just very good)
+[21:29:34] nyanners: kinda dont want to somehow
+[21:30:51] nyanners: like it cant be bad but.. the end result seems to be some sort of Rxe7 and maybe e4 is a target in some lines
+[21:33:25] nyanners: now Rh6 into f6 seems like a good version
+[21:33:40] nyanners: or we can just go Rxb6 if black allows of course
+[21:33:55] nyanners: actually yea Rh6 Rb6
+[21:33:55] karasso: f6 Re8 take verything on e7 Rh2 with Rxh7+.
+[21:34:10] karasso: This is also nice
+[21:34:10] nyanners: Rh2 first just seems more controlling
+[21:34:10] nyanners: i like this way better
+[21:34:41] nyanners: though this is perhaps some sort of "too winning" discussion XD
+[21:35:26] karasso: i guess just playing style. I like to go for concrete winning lines, even if i have to calculate a little bit more
+[21:35:42] karasso: yes :D
+[21:37:59] karasso: Ke8 Rd5 does not help a lot
+[21:38:44] karasso: but what else
+[21:41:17] karasso: maybe Rd4 instead of Rd5,, but should not matter to much
+[21:42:18] karasso: tactic
+[21:42:18] karasso: nice find
+[21:42:48] karasso: Rxa6 bxa6 c4 still completly winning for white
+[21:42:48] karasso: or anything else
+[21:43:34] nyanners: back to h2 for me
+[21:43:49] nyanners: then black wants neither Rb6 nor Ra5
+[21:45:36] sirfasunnyboy: just play e5 e6 and Rbh4 no?
+[21:45:51] sirfasunnyboy: but again, anything seems good enough
+[21:46:06] karasso: Rxa6 leads to a rook ending with two extra pawns + black pawns isolated, while we have g,f and e pawn connected. I would have gone for it
+[21:46:22] karasso: i also would go e5 here
+[21:46:37] sirfasunnyboy: sure, but I'm not sure whether or not qrs saw it..
+[21:47:07] nyanners: Rh5 way worse than Rh2 (just totally winning instead of totally winning)
+[21:47:23] karasso: was more the discussion with nyanners for what winning endgame we would go ^^
+[21:48:39] karasso: Rh6 back and then Rb6
+[21:48:54] karasso: just because it is funny
+[21:49:40] nyanners: no that's genius. Rh6 to provoke Ra6 and then you can go Rh2
+[21:51:11] karasso: Rxb5 is possible here, but not really good
+[21:51:41] karasso: f6 is the same, but in boring and still not good
+[21:52:12] karasso: should be still winning of course
+[21:54:44] sirfasunnyboy: don't think black should have kept the rook on the board..
+[21:55:00] karasso: rb6+ first here
+[21:55:00] sirfasunnyboy: Rb6+ looks to good
+[21:56:08] karasso: gg
+[21:56:08] sirfasunnyboy: gg
+[21:56:23] tomb85: Gg well played
+[21:56:23] nyanners: gg
+[22:02:16] qrs: Thanks for watching guys :)
+[22:02:47] qrs: Even if not the greatest of games, it seems to me it was able to entertain according to the chat :D
