@@ -1,0 +1,69 @@
+Lichess game chat log
+Game      : https://lichess.org/u8ovIAZ1
+White     : angborxley
+Black     : apidae
+Time      : 45+45
+Captured  : 2026-07-07 21:33:07 UTC
+Game ended : 2026-07-07 20:13:05 UTC
+Messages  : 59
+────────────────────────────────────────────────────────────
+
+[18:04:47] tomb85: Go Ang!
+[18:05:48] angborxley: (3...c5) not the opening i was expecting...
+[18:06:33] sirfasunnyboy: go AngBorxley!
+[18:34:45] angborxley: (11...Qb6) /i guess that's going to win them a p...
+[18:34:45] angborxley: (11...Qb6) Na4?
+[18:39:19] angborxley: (12...Qxd4) i think i have to trade
+[18:41:06] angborxley: (14.Rad1) i'm better developed - is that enough comp for the P?
+[18:42:22] qrs: (14 Bf6) Not sure there is compensation
+[18:43:24] qrs: (15 Rfe1) I was considering that move but maybe just 15. ... O-O and white has no threats?!
+[18:43:54] qrs: I mean ofc, if black doesnt O-O now, then there is Rxd5, but black is probably going to see that
+[18:44:55] qrs: I think white may have needed to play more actively after losing the pawn, but its not easy to suggest a good move 14.
+[18:44:55] qrs: (Or 15)
+[18:45:41] angborxley: (15...O-O) i want to get my N off the edge
+[18:46:27] qrs: Maybe 15 Nc5 couldve been tried, hoping for 15 Nc5 Bxb2 16 Rb2 Bd4/Bf6 17 Nxb7
+[18:47:44] qrs: Maybe still Nc4 and if not Bxb2 (leading to a similar line as above) then Nd3 next
+[18:47:59] qrs: Let this be enough random suggestions for the moment :D
+[18:47:59] angborxley: (15...O-O) take care of b2 first, then Nc4 - d2
+[18:48:14] angborxley: (15...O-O) c5*
+[18:48:30] angborxley: (15...O-O) d3
+[18:48:46] karasso: i think c4 instead of b3 was the way
+[18:49:01] qrs: Mh, okay, last comment. Not sure it was worth protecting b2 when we couldve gotten b7 and active peace placement
+[18:49:33] karasso: you need to get that diagonal open, before black can develop his Bishop on c8
+[18:50:19] qrs: Yea, I was considering c4 too - do you think its better than the Nc5 plan?
+[18:50:49] karasso: Nc5 b6
+[18:52:06] angborxley: (16.b3) i think i want my N on e5
+[18:52:06] qrs: Nc5 b6 Nd3 Bb7 (?) c4 ?
+[18:53:37] karasso: but it has to be worse than dirtly c4, because black already has played b6 and Bb7 and the Rd1 is not attacking d5
+[18:53:37] karasso: just Rad8
+[18:54:23] angborxley: (16...Bd7) b6 would have made it hard to get my N out of there
+[18:55:54] karasso: also Rb8 instead of Bb7 in that line is probably good
+[18:55:54] qrs: But 16 c4 dxc4 17 ?? Rb8 - do you really get anything?
+[18:57:11] karasso: i don't know, but if that does not work, nothing works.
+[18:57:11] qrs: Like black is evem threatening 18. ... b5 in some lines and you have a hard time to get your c4 pawn back and are down 2 instead of 1
+[18:57:26] karasso: Probably Re4-Rxc4-Rc7 was my first thought
+[18:57:42] karasso: might run into b5
+[18:58:12] qrs: Ye was starting to calculate that
+[18:58:27] qrs: Re4 b5 i meant
+[18:58:42] qrs: Mh, tricky. And ofc we're looking for something to recover from just losing the pawn
+[19:00:29] qrs: Mh 19 Nb4 maybeee
+[19:02:01] karasso: yeah, probably c4 was also not working. But this is also quite bad.
+[19:02:16] karasso: Black should not allow Nxc6
+[19:08:07] angborxley: (20.c4) looking at b7 if they take or push, probably cxd5
+[19:11:10] karasso: (20.Rc5) b4
+[19:18:03] angborxley: (21.b4) Ba4 then i think i move Rd1-d3
+[19:30:49] angborxley: (22.Rc1) if Bxe5 i'm down another pawn i think :eek:
+[19:39:43] karasso: (24 b6) Bf1 bxc5 Ba6
+[19:41:30] angborxley: (25.Bf1) i think this is slipping away
+[19:43:17] sirfasunnyboy: Ba6 cxb4 seems lost?
+[19:43:17] karasso: yes
+[19:43:32] karasso: but maybe black doesn't see it
+[19:43:32] sirfasunnyboy: then why call for Bf1?^^
+[19:43:47] karasso: i mean it is anyway lost
+[19:44:02] sirfasunnyboy: fair
+[19:47:06] angborxley: (26.b5) i've got time in my favor but i don't feel great about the position
+[19:51:25] karasso: hard to imagnie black messing this up now
+[20:12:50] angborxley: gg
+[20:13:21] karasso: gg
+[20:15:53] angborxley: thanks for spectating, will really appreciate the comments as i reveiw
+[20:20:13] qrs: GG
