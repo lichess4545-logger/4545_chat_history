@@ -1,0 +1,201 @@
+Lichess game chat log
+Game      : https://lichess.org/aKyBS9oz
+White     : ztraynor
+Black     : asimovfoundation
+Time      : 45+45
+Captured  : 2026-07-07 02:18:19 UTC
+Game ended : 2026-07-07 00:58:13 UTC
+Messages  : 191
+────────────────────────────────────────────────────────────
+
+[23:03:17] jcarmody: Go Zach!
+[23:03:33] jcarmody: Although, I like Asimov's Foundation series... I'm conflicted.
+[23:06:36] ztraynor: I think I've had this position roughly one million times
+[23:06:36] ztraynor: oh wait not with that move nvm
+[23:06:51] mrscribbles: (5...Bb4+) that's a lot of times
+[23:06:51] mrscribbles: (5...Bb4+) hey yay-car
+[23:08:37] thegreattoddman: howdy, made it in time to watch
+[23:08:37] jcarmody: Hey, MrS.
+[23:09:08] jcarmody: Hello, Todd. Man, you seem great!
+[23:09:23] thegreattoddman: haha
+[23:09:23] thegreattoddman: Hey Jcar
+[23:09:39] mrscribbles: (6.Nc3) I might be the todd man out but I think he seems even better than great
+[23:10:55] thegreattoddman: Feeling tht way now that I'm home from work. It was around 110 feeling today. RIP
+[23:13:28] mrscribbles: (7.dxc5) Bxc3 with tripled pawns would be funny
+[23:13:43] ztraynor: felt like the reason one plays Bb4+ is to take c3 but maybe I'm about to walk into prep
+[23:14:29] ztraynor: would be great if this ends in the next 46 minutes so I can watch the Belgium/USA game
+[23:16:31] bufferunderrun: let's go Asimov!
+[23:16:31] ztraynor: if we're going to have a pawn culling, let's not do it with a king still on e1
+[23:18:49] thegreattoddman: Bxc3 has to be the play here
+[23:23:08] ztraynor: this before cxd4 so the bishop can't slide back to e6
+[23:24:24] ztraynor: I think I'm okay with a queen trade if dxc4 hits but I'm taking f5 first
+[23:24:39] ztraynor: just gotta make sure there's nothing weird here
+[23:24:54] mrscribbles: (9...dxc4) wN bp wp bN is a funny battery on the c file
+[23:25:56] ztraynor: yeah and Bg5 coming too
+[23:26:11] ztraynor: tripled pawns would really be fun
+[23:26:27] ztraynor: plus whatever's going on with the c-file
+[23:26:57] ztraynor: oh man the c5 pawn covering both Rd6 and Be7 is nice
+[23:27:58] ztraynor: I need to write up my OTB games from this past weekend but that feels like something I shouldn't do while playing
+[23:29:29] ztraynor: maybe I should move the N before playing Bg5 (or other B development) but if Black wants to play NN vs BB on an open board... fine?
+[23:31:31] ztraynor: Hm Black probably wants to move the f6 N but also doesn't want to allow Rd7 I think
+[23:32:17] ztraynor: though Bxc3 bxc3 Ne4 looks plausible
+[23:33:18] thegreattoddman: What a muddy game
+[23:34:34] ztraynor: how annoying IS Ne5 though, really
+[23:34:49] ztraynor: Nge5 that is, though wait maybe ce5 too
+[23:35:35] ztraynor: the other thought is actually to take on c6 and play Be7 covering c5 with tempo
+[23:35:35] thegreattoddman: Nd5 looks fun
+[23:35:50] ztraynor: which combined with Rd4 looks like it's material
+[23:38:53] ztraynor: does it count as connect 4 if the pawns are of alternating colours?
+[23:42:27] ztraynor: oh now I get Ng4
+[23:51:35] ztraynor: is my bishop getting trapped? Is that what's going on here?
+[00:03:47] ztraynor: wait a minute that doesn't feel right
+[00:05:34] ztraynor: takes takes takes takes takes and that's the pawn back and surely c4 drops too?
+[00:06:35] ztraynor: f4 to kick the knight
+[00:07:36] ztraynor: Nd4+ looks like there could be tactics
+[00:09:09] bufferunderrun: yeah, 23.Nd4+ looked strong
+[00:09:24] ztraynor: oh wait is the d-file about to be a problem?
+[00:10:25] ztraynor: vamos die belgique
+[00:10:40] ztraynor: or something european to that effect
+[00:16:00] bufferunderrun: Nd3 seemed better, now 24.Kf2 Nd2 Nd5 is still dangerous
+[00:18:02] ztraynor: surely this knight is offsides
+[00:18:02] ztraynor: where's the VAR when you need one
+[00:18:17] inter-temporal: (25...Nf3) it's hitting h2, so that's smth
+[00:18:17] inter-temporal: (25...Nf3) looks like it has two paths to safety?
+[00:19:48] inter-temporal: (26.h3) now just one path. :)
+[00:20:49] inter-temporal: (26.h3) it could also wreck its pawns for another path or two. but not simple
+[00:21:04] nyanners: adventure!!!!
+[00:21:50] nyanners: no loot, but making it out alive.. no being greedy
+[00:21:50] inter-temporal: (26.h3) can it just stay put with ...g4? adventure later?
+[00:22:05] nyanners: hard to say
+[00:22:21] nyanners: could go ne4 nf2 to hit
+[00:22:51] nyanners: black really making it count
+[00:22:51] nyanners: i like it
+[00:22:51] inter-temporal: (26...Rd8) i like this move. but admittedly not calculating all the stuff
+[00:23:52] nyanners: its good if its not bad, basically
+[00:24:07] inter-temporal: (27.Kf2) makes sense
+[00:24:07] nyanners: sometimes mistakes happen in calculation
+[00:24:22] inter-temporal: (27...g4) i thought ...Rd2 might work there
+[00:24:38] nyanners: nah
+[00:24:38] inter-temporal: (27...g4) but not... lol
+[00:24:53] nyanners: or well, you definitely have to prove that
+[00:24:53] nyanners: h5 is covered
+[00:24:53] nyanners: and then white gets e4 here
+[00:25:08] nyanners: so it doesnt work for many reasons
+[00:25:23] ztraynor: well if Black will allow me to play Ne4+...
+[00:25:38] inter-temporal: (28...fxg4) black just moved before i could count the defenders. lol
+[00:25:54] nyanners: i suppose white did a good counter-calculation
+[00:26:09] nyanners: but theres still nd2?
+[00:26:24] nyanners: and white doesnt really have a good answer
+[00:26:24] nyanners: this is so weird
+[00:27:25] nyanners: black doing well with the hyperdynamics
+[00:27:40] inter-temporal: (30...Nd2) concrete = weird
+[00:27:40] nyanners: i think :o
+[00:28:57] nyanners: black has to be for choice here
+[00:29:12] inter-temporal: (32.Kf1) ...Rxb2, Ra4 f5, Rxa7+ Kg5, idk
+[00:29:42] inter-temporal: (33.Ra4) ...Kg6 i mean
+[00:29:42] bufferunderrun: looks close to a draw, i think
+[00:29:59] nyanners: id start giving everything
+[00:29:59] nyanners: kf6 kxa7 kf5 kxf7 ke4
+[00:30:14] nyanners: so white should probably not allow that
+[00:30:14] nyanners: kg6 should be slightly better than that
+[00:30:29] ztraynor: this feels like the sort of position that could be mess-up-able
+[00:30:29] nyanners: aww you got so close just to play Rb7
+[00:30:44] nyanners: now yeah this is definitely some sort of theory draw even if maybe not a practical one
+[00:31:00] inter-temporal: (33...Rb7½?) sooo e4 gets mobile then
+[00:31:15] inter-temporal: (33...Rb7½?) maybe that's better
+[00:31:30] nyanners: yeah kg6 e4 probably
+[00:31:30] bufferunderrun: Rb1+ seemed also alright
+[00:31:46] nyanners: i think  itd be cool to ask the question
+[00:31:46] nyanners: and if white plays e4 then you bail
+[00:32:16] inter-temporal: (33...Rb7½?) isn't 34.e4 coming now?
+[00:32:31] nyanners: im not sure if white is for choice yet
+[00:32:47] nyanners: the question with e4 is, does black want to play f5
+[00:32:47] nyanners: im not sure. that means the king has no lateral cover
+[00:33:02] ztraynor: no, no I don't think so, yet
+[00:33:48] nyanners: i suppose its easier to go wrong with black
+[00:35:50] nyanners: i suppose the counter-journey doesnt work for white yet
+[00:36:05] nyanners: kf2 re2 ke3 rg2 f5 rxg3 kf4 rf3 kg5 g3 is not it
+[00:36:51] nyanners: yeah its looking a bit rigid
+[00:37:52] bufferunderrun: maybe 35.Ra5
+[00:37:52] nyanners: Ra3 valid
+[00:37:52] ztraynor: we're going to defendthe g-pawn with the rook
+[00:38:07] nyanners: i thought Ra5 Rb4 idk
+[00:38:07] ztraynor: f5 and brinigng the king up allows the king in
+[00:38:53] nyanners: f5 is very committing
+[00:39:08] nyanners: i feel if you play it you have to be really sure you are going to get in the Kf4
+[00:39:24] inter-temporal: (35.Ra3) rook endgames fascinate me
+[00:40:56] inter-temporal: (35.Ra3) sometimes it is what it is. then those other times when some study-like move pops up out of nowhere
+[00:41:57] inter-temporal: (35.Ra3) might be late in the game when black busts out ...h4 and ...g3-g2.
+[00:41:57] inter-temporal: (35.Ra3) it's still an adventure. :)
+[00:43:28] inter-temporal: (36.Ke2) that ...f6 move seems right again. good play.
+[00:43:28] nyanners: looks like 200 points difference wins this endgame with both sides but i dont see how
+[00:43:43] nyanners: opportunities are just going to happen
+[00:43:59] inter-temporal: (36...Rd7) Magnus knows
+[00:44:14] nyanners: white has e5 or f5 and king in, black has rook in. Rd7 i really dislike
+[00:44:44] nyanners: prefer keeping the Rb2 option
+[00:45:00] nyanners: though i suppose Rd7 cannot be, like, objectively bad. just lowers winning chances
+[00:45:00] nyanners: if thats what black wants
+[00:45:15] inter-temporal: (38.e5) here we go. burn some bridges
+[00:45:45] nyanners: yeah there it goes. white definitely for choice now
+[00:46:01] nyanners: even if that might not mean anything in tablebase realm
+[00:46:16] inter-temporal: (39.Rxe5) proving black wanted to preserve ...Rb2
+[00:46:46] bufferunderrun: Rh7 is super weird
+[00:47:01] nyanners: i like it
+[00:47:17] nyanners: i think h4 works as a response to white trying too hard
+[00:48:02] ztraynor: maybe this is just drawn
+[00:48:02] nyanners: Kf2 respects it
+[00:48:02] nyanners: but then how do you win..
+[00:48:48] nyanners: i was wondering about fxe5 instead
+[00:49:03] inter-temporal: (40...Kf6) i thought fxe5 was the idea
+[00:49:19] inter-temporal: (41.Ra5) i wuz wrong
+[00:49:50] nyanners: maybe i overreacted and black is just alright
+[00:49:50] nyanners: if a bit passive
+[00:50:21] inter-temporal: (41...Ke6) black offerred the draw, probably not much changed in their mind
+[00:50:21] nyanners: here id calculate f5
+[00:50:36] nyanners: i guess ke3 is preparing it with less commitment
+[00:51:07] nyanners: 42..h4 maybe black is a pawn down but its the easy kind
+[00:51:22] ztraynor: I can't see anything better than getting this down to just the a-pawn and you can't Lucena that
+[00:51:37] inter-temporal: (42...Kf6) they can vancuver it
+[00:51:52] inter-temporal: (42...Kf6) lol
+[00:52:23] nyanners: id go for it
+[00:52:38] nyanners: black has to be a bit spooked
+[00:52:38] nyanners: see what happens
+[00:53:08] nyanners: oh wait the idea is f5 kg5
+[00:53:08] nyanners: okay
+[00:53:24] inter-temporal: (42...Kf6) the f-pawn can pull the Black-K away from g7, h7, right?
+[00:53:39] ztraynor: gotta be careful to not end up in a place where the g-pawn runs
+[00:53:54] bufferunderrun: Re7+ or black is losing this
+[00:53:54] inter-temporal: (43.Ke4) but black's g-pawn is still around
+[00:53:54] ztraynor: I'm currently evaluating Re7+ and trades as winning
+[00:54:25] nyanners: that assessment seems right
+[00:54:40] nyanners: but okay re7 and back
+[00:54:40] nyanners: and the rook has been distracted from the lateral check
+[00:54:40] ztraynor: unless I'm miscounting how quickly the kings race back to the a-file
+[00:54:55] nyanners: dont think you need to race there
+[00:55:10] inter-temporal: (43.Ke4) at our level, captures are required.
+[00:55:26] inter-temporal: (43.Ke4) no "moving away" type stuff
+[00:55:41] ztraynor: if Black lets me get this Ra6+ to push the K back, surely something like f5 and slipping over is good enough
+[00:56:26] bufferunderrun: you need to prevent Ra6+ and Rxa7+, so you need f5 square, thus Re7+
+[00:56:42] nyanners: yea this wont do..
+[00:56:57] bufferunderrun: this is unfortunately gg now
+[00:56:57] ztraynor: oh wait this is even better though
+[00:57:12] nyanners: did white not see Rxa7 until now XD
+[00:57:27] ztraynor: yep this should win
+[00:57:27] nyanners: though i agree f5 would still be scary
+[00:57:43] inter-temporal: (47.a4) was maybe trying to lure the white K away from the g1 square
+[00:58:13] ztraynor: h4 takes e3 Kf3 resigns, and Kg6 isn't quick enough
+[00:58:13] nyanners: gg
+[00:58:28] inter-temporal: gg
+[00:58:28] nyanners: yeah here you premove gxh4 every move
+[01:02:18] ztraynor: Yes lol White did not see Rxa7+ until we got there
+[01:03:49] nyanners: original idea was good too even though obviously way longer
+[01:04:04] nyanners: so pretty good endgame
+[01:04:35] ztraynor: Yeah I'm stronger at endgames relative to other phases of the game so I never really mind getting to an equal endgame
+[01:04:50] ztraynor: I do agree with chat that ...Rd7 was where Black started to go wrong
+[01:05:20] nyanners: its a good feeling :o
+[01:05:35] ztraynor: But I'm surprised that Kg6 is where it really slid off the rails, though maybe that's just when the engine can't defend it
+[01:07:07] nyanners: eh it seems normal enough that Re7 Re5 Rh7 white is slightly out of ideas
+[01:07:53] nyanners: id continue with Rf5+ Kg6 but Ra5 Re7+ and yeah
+[01:08:08] nyanners: black should just insert Re7 every time
+[01:08:23] nyanners: though i suppose then the rook has to swing to the queenside
+[01:08:39] nyanners: so still worth playing out
