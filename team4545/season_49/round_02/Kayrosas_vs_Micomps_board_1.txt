@@ -1,0 +1,156 @@
+Lichess game chat log
+Game      : https://lichess.org/kOanEcfd
+White     : kayrosas
+Black     : micomps
+Time      : 45+45
+Captured  : 2026-07-07 22:28:19 UTC
+Game ended : 2026-07-07 21:08:13 UTC
+Messages  : 146
+────────────────────────────────────────────────────────────
+
+[18:34:00] inter-temporal: (9.Nd5) go Micomps!
+[18:35:16] kayrosas: looked at a bit of stuff in the mainline they play. we'll see if they try to avoid
+[18:35:31] kayrosas: there's also a really cool line I wanna play against the svesh one of these days:
+[18:36:33] kayrosas: 8.Bxf6 gxf6 Na3 b5 Bxb5 I think it was. but they play f5 instead of b5 there
+[18:38:34] kayrosas: ah no, it was 8.Bxf6 gxf6 Na3 b5 Nd5 f5 Bxb5 i think? really weird looking sac at least
+[18:39:20] kayrosas: oh, they choose to dodge with 12...Rb8 . I looked at some stuff  here recently, just have to recall
+[18:40:06] kayrosas: if I mix something up here it could get draw-ish quite quickly
+[18:40:36] micomps: (13.a4) this ends my prep for this opponent. White has normally played 13.g3 here
+[18:41:22] micomps: a4 is a normal move, nothing unusual, but not quite what I anticipated tonight
+[18:42:38] micomps: there are some sharp lines with bxa4, Rxa4 Rxb2, Bxa6
+[18:42:54] micomps: trying to remember how good they are for white and black, little while since I looked at this
+[18:43:39] inter-temporal: (13.a4) yeh, B1s are unconcerned with tedious stuff like the d5-square.
+[18:46:13] micomps: (14.Ncb4) I think this is fine for me
+[18:47:14] inter-temporal: (15...O-O) not impressed with "pawn structures." that stuff is soooo 1990s
+[18:48:00] inter-temporal: (15...O-O) jk, oc. lol
+[18:49:16] kayrosas: these obscure lines are always a bit difficult to recall bc I forget what black is supposed to do
+[18:50:01] micomps: (16.Rxa4) now I have two choices I think - either a5 or f5. Both look interesting in their own way
+[18:50:32] kayrosas: I think it was 16...a5 maybe? and then b5 for some reason
+[18:50:47] otbquadsicles: a5 rxa5 what's the point?
+[18:50:47] otbquadsicles: of
+[18:51:02] otbquadsicles: rxb4
+[18:51:48] fracturedtruth: a5 you can do b5
+[18:51:48] fracturedtruth: and Bd7 nc3 I guess
+[18:52:03] otbquadsicles: dis is china or no?
+[18:52:18] fracturedtruth: no clue
+[18:52:18] kreia: main line yes
+[18:52:35] otbquadsicles: neat
+[18:52:35] kreia: h4 first
+[18:52:35] kreia: after a5
+[18:52:50] kreia: I suspect that white works on their openings a little bit
+[18:53:05] micomps: f5 is the more typical Sveshnikov move, but a5 solves a problem on the Q-side
+[18:53:36] fracturedtruth: oh ye h4 first makes some sense
+[18:54:52] kayrosas: there's some line in my head where my bishop is on e2 but I have no idea when it gets there. and also no idea where black's lsb goes
+[18:55:22] cutie_cup: Who is Micomps
+[18:55:22] highonpotnuse: go micomps!
+[19:09:20] kayrosas: maybe this is the line. but I recall some d5 exd5 f5 h4 Bh6 Be2 sequence which I don't see how it's happening here
+[19:09:36] micomps: (18.Nc3) this was the position I thought we'd end up in after I went a5, so not unhappy here
+[19:10:06] micomps: thinking Qb6 to look at f2 eventually, maybe f5 (probably need Kh8 first)
+[19:11:22] micomps: (18...Qb6) expecting 19.Bc4 now, maybe Be2 but think c4 more natural
+[19:12:54] kayrosas: always big question whether to include h4 Bh6 in these
+[19:13:54] kayrosas: also Qa1 to pawnmax but surely too slow. either Be2 or h4 and then Be2
+[19:14:25] bpack: Go micomps!!
+[19:16:27] kayrosas: i wonder if black is supposed to 19...Rfc8-xc3 and hold that
+[19:20:17] kayrosas: have to be a bit careful of nonsense like 20...f5 exf5 Rxf5 Bg4 Rxf2, my Ra4 is a bit misplaced
+[19:22:34] micomps: (20...f5) the f5 break is fairly common in the Sveshnikov, about to find out if it's good in this position!
+[19:28:09] kayrosas: ideally I want Nd5 Qd8 exf5 somethingxf5, but there is Bxb5 which is a bit annoying
+[19:29:27] kayrosas: so I think I have 21.exf5 Rxf5 Nd5, but not sure if the queen needs to go to d8 there
+[19:31:46] kayrosas: all that just for them to go Bx, bruh
+[19:34:50] kayrosas: oh I missed 23.Rc4 Qxb5 Rg4 Bxg4, bruh
+[19:37:53] micomps: (23.Nc3) not sure if I should have played Qd8 last move, and re-route, but wanted to keep some pressure on f2
+[19:39:09] kayrosas: maybe 22.Bd3 would've been good. Bxd3 Rxf2 Rxf2 Rf8 Ne4 bit shaky tho
+[19:39:24] kayrosas: oh I get to try again, nice
+[19:40:25] kayrosas: oh Bd3 Bxd3 Rxf2 Rxf2 Rf8 Qe2 just simple chess
+[19:41:27] kayrosas: nvm, not simple chess, Rxf2 Qxf2 Be3, oops
+[19:41:42] littleoak12: go magma!
+[19:42:43] kayrosas: so Bd3 Bxd3 Qxd3 Rxf2 Rxf2 Rf8 Ne4 d5 Kf1, cute tictac
+[19:43:59] kayrosas: Bd3 Be6 Qe2 I hope is alright, dont think Qh5 Bh6 does anything for me
+[19:44:45] kayrosas: Bf3 also interesting maybe
+[19:45:00] kayrosas: but looks wrong
+[19:46:32] kayrosas: oh also Bd3 Bxd3  Rxf2 Rxf2 Be3, oops
+[19:46:47] kayrosas: oh I have Nd1 ressource in those
+[19:47:33] kayrosas: so a lot of unnecessary calc. but I have a lot of caffeine rn so it's alright
+[19:48:19] littleoak12: lol gotta love caffeine
+[19:48:34] littleoak12: Nd1 is smart
+[19:50:05] littleoak12: endgame seems scary, black having the two undoubled central pawns
+[19:50:20] cutie_cup: (o|_|o)
+[19:53:08] kayrosas: 25.Qh5 Bh6 Qe2 or Qe2 immediately, hm
+[19:53:24] micomps: (24...Bd7) toyed with Be6, but like keeping an eye on that b5 pawn. Not worried about Qh4, Bh6 seems fine if that arrives
+[19:53:24] kayrosas: Qc2 could also be interesting but looks wrong
+[19:54:40] littleoak12: Qc2 Rc8 and then the knight on c3 is pinned
+[19:54:55] littleoak12: restricting the dsq bishop movement by forcing it to h6 seems nice
+[19:56:26] kayrosas: maybe Qc2 was op actually
+[19:57:43] kayrosas: just a bit scared to make weird looking moves in these open positions
+[19:58:59] micomps: (25.Qe2) I feel like I'm not sure what to do now, bit short of a plan. b5 is locked down so maybe move the b8-rook, but where?
+[20:01:16] littleoak12: if a white rook ends up on h7+, then it might be mate: ..Kxh6, Qh5+ Kg8, Bc4+ Rf7, Qe5+ or ..Kg8, Rh8+, Qh5+ and the same
+[20:01:32] kreia: pretty tragic that 25.Rh4 doesn't appear to be working, would have been very cute
+[20:06:36] littleoak12: yeahh Qh5 and h6 stops it?
+[20:08:38] kreia: Can Bxf2 even I think
+[20:09:39] littleoak12: night can get to e7 via d5 with tempo, might have some cool queen sac ideas on h7 after
+[20:10:10] littleoak12: oh true bxf2
+[20:11:26] littleoak12: this is so tense I can't tell who is attacking or defending!
+[20:11:56] kayrosas: i have run out of coherent thoughts for this position
+[20:11:56] littleoak12: waah
+[20:12:12] inter-temporal: (26.Ra3) so just a generic 3-2 v 3-2 pawn formation. nothing to see here. lol
+[20:13:58] kayrosas: allowing Qd4 is really uncomfortable but all other improving moves looked worse. maybe Raa1 was also fine
+[20:14:59] micomps: (26...Be6) now I can maybe think about playing d5 in the future. but need to secure e5 first. Not sure this will come to fruition
+[20:15:45] micomps: also Be6 allows a fallback of Bg8 if Qh5 ever becomes an option. Not ideal though...
+[20:20:04] kayrosas: ok I'm actually not sure what I liked about Ra3. I think I intended some Na4 but that doesn't do anything
+[20:20:50] kayrosas: allowing Qh5 is ballsy
+[20:23:38] littleoak12: Qh5 Bg7; Nd5 Q somewhere; Bxh7 Bxh7; Rh3
+[20:29:44] micomps: (28.Qe4) Bg8 or play g6. Bg8 feels last ditch, but every pawn move creates a weakness
+[20:30:00] micomps: but with no DSB to contend with, I think g6 is fine
+[20:30:30] kayrosas: either endgame with Qc6 or try to regain control over d5, hm
+[20:31:31] micomps: (28...g6) I am worried about time given white is basically a 2700 bullet and a 2550 blitz player
+[20:31:46] kayrosas: Qc6 Qd4 looks unpleasant
+[20:31:46] micomps: I'm no slouch in quick time control but...yeah, that's really good
+[20:43:47] micomps: (35...Qc5) this all seems to be holding together, but not sure how to make progress. Maybe Rf5 at some point?Problem is g4 after
+[20:44:02] micomps: but I think if I am too passive white will eventually break through
+[20:45:34] micomps: (36.f4) that surprised me. White can't take on e5 as I can play Rf2 I think
+[20:46:50] micomps: maybe Rf5 is ok...g4 and bring rook back to f7/f8, then what? Makes white's k-side look weaker
+[20:48:06] micomps: (36...Rf5) does Rf2 threaten much if white takes e5? I could do with another half an hour
+[20:49:38] micomps: (37.fxe5) wasn't expecting that, was expecting g4 first
+[20:49:53] micomps: think I can just take it?
+[20:54:43] inter-temporal: (39...Rb8) i sense a bit of conflict over the blockade on d5
+[20:57:45] micomps: (40.Qc3) time for that knight to go
+[21:00:50] rcyx: (42...Be7) isnt just bf6 good
+[21:01:36] inter-temporal: (43...dxe5) wow, the d6-pawn moved.
+[21:02:22] inter-temporal: (44...Bf6) now its unrecognizable. lol
+[21:02:22] micomps: (44...Bf6) I think this is just going to trade off to a draw now, but let's see
+[21:02:53] naveengeorge: Why not 42... Bf6?
+[21:03:23] inter-temporal: (45.Qf4) d6 was in trouble. now, white's K is still flirting with a weak back rank
+[21:03:39] micomps: (45.Qf4) that said, one should never be complacent, even in an opposite bishop ending
+[21:05:56] kayrosas: I played a bit too much for tricks in time trouble probably. but at least didnt blunder
+[21:06:11] inter-temporal: (46...Bg7) see, these dudes are responsible...
+[21:06:41] inter-temporal: (47...Qd6½?) they have a lot to learn about how to lose miserably in time trouble
+[21:06:57] inter-temporal: (47...Qd6½?) it's an art
+[21:07:12] naveengeorge: Or lose miserably even when not in time trouble!
+[21:07:42] inter-temporal: (47...Qd6½?) yeh, maybe we gotta lead them just one step at a time.
+[21:07:58] naveengeorge: gg
+[21:07:58] inter-temporal: gg
+[21:08:44] littleoak12: gg
+[21:09:14] micomps: fun game, thanks @kayrosas - looks like it was fairly even throughout
+[21:09:14] kayrosas: surprisingly accurate, thanks for the game
+[21:10:47] micomps: I like that we were both talking about the f5 break at the same time
+[21:11:02] littleoak12: wow, 96 accuracy for both
+[21:11:18] kayrosas: oh, 17.h4 I included in my study, hm
+[21:12:34] micomps: Your 13.a4 surprised me a little, I know it's a move but expected something different!
+[21:12:49] micomps: Hence me taking a while to think around those mid/late-teen moves, couldn't remember the plan
+[21:13:04] kayrosas: yea I made that change somewhat recently bc I revisited alot of my svesh stuff
+[21:13:35] micomps: I thought you'd play h4 at some point
+[21:13:50] micomps: To keep my dsb in the corner somewhat
+[21:14:35] kayrosas: I considered it a lot but I thought with the queen on b6 I don't mind Be7/f6 being possible
+[21:14:51] kayrosas: and saw some ghosts on my kingside bc the Ra4 is so far away
+[21:15:06] micomps: that's why I was hoping when I went Rf5 you'd play g4, just to open it up a bit
+[21:15:21] micomps: I need to stop the "hope chess"
+[21:15:36] kayrosas: I think with 2min each a bit of hope chess is warranted lol, I did too
+[21:17:09] micomps: I was really surprised you took on e5 on move 37
+[21:17:24] kayrosas: yea this fxe5+Qf3 idea was just hope chess
+[21:17:55] kayrosas: and evaluating the other positions was a bit tough. didn't wanna take any big risks
+[21:18:25] micomps: It did feel like that's when we started to liquidate the tension a little
+[21:18:56] micomps: The Sveshnikov does lead to these nice interesting games though, that's why I like playing this
+[21:19:11] kayrosas: yea, was good defense by you there
+[21:19:11] micomps: I don't remember the last time I played my bishop to d8 in any game
+[21:19:44] micomps: It had to be to stand up to your attack! Felt like a boxing sparring match at times
+[21:22:17] micomps: Anyway, I'm calling it a night - thanks very much for the game, good luck for the rest of the season :)
+[21:23:18] kayrosas: thank you too ^^ and good luck as well!
