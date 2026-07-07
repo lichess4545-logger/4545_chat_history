@@ -1,0 +1,135 @@
+Lichess game chat log
+Game      : https://lichess.org/iLycvbgi
+White     : scarff
+Black     : dafunkeymonkey
+Time      : 45+45
+Captured  : 2026-07-07 16:54:24 UTC
+Game ended : 2026-07-07 15:34:17 UTC
+Messages  : 125
+────────────────────────────────────────────────────────────
+
+[14:13:50] pezzo17: (8...Bxf3) lets go funkey!
+[14:18:39] nyanners: umm dont think this works
+[14:18:39] nyanners: for b that is
+[14:18:54] nyanners: like white opens the f-file and then can take f7
+[14:19:10] nyanners: in case of Bxf4 Bd6
+[14:21:42] rolihlahla: this is sharp!  lots to calculate (and miss)
+[14:21:42] pezzo17: (9...Bxd1) the only move I see is Nxc7+ ... is that not winning?
+[14:22:43] nyanners: yeah i mean
+[14:22:58] nyanners: in these lines, white's concern is that the N gets trapped
+[14:23:14] nyanners: since its kg and white has o-o, besides Bf4-Nc7, white has an extra out in Rxf7-Nc7
+[14:23:44] robertjackson: (10.Bxf4) first?
+[14:23:44] nyanners: say Nxc7 Kd7 Nxa8 Bg4 Bxf4 (threatening Nc7) Bd6 Bxd6 Kxd6 Rxf7
+[14:23:59] nyanners: thats the "main line" imo
+[14:24:15] nyanners: like, demonstrating the ideas
+[14:24:15] nyanners: so well, can black do better? i dont know
+[14:25:48] nyanners: also worth asking is if the final position is actually the end..
+[14:25:48] nyanners: i think it is
+[14:28:22] nyanners: ahh white didnt bluff call
+[14:28:37] scarff: Did some kings gambit prep. But out of it now obviously
+[14:28:52] scarff: Not sure what this position is, but it looks less exciting than what I had hoped for
+[14:28:52] nyanners: i really wanted to see this getting called but maybe white calculated it deeper
+[14:29:23] scarff: I think Nxc2+ ended up with my knight stuck on a8. Didn't find any ways to get him out alive
+[14:29:53] scarff: So I guess just a solid position with a bishop pair is what I should be happy with?
+[14:30:24] nyanners: i suppose black plays 10..Bd6 now
+[14:30:24] nyanners: to deny bpair
+[14:30:54] scarff: Will win back the pawn and have a bit more centre too, so feels like small edge for white?
+[14:33:12] nyanners: wait does black stay a pawn up
+[14:33:27] nyanners: taking on d4 is legal after the trade on f4
+[14:33:42] nyanners: i suppose white could insert Bxh7. sus
+[14:38:02] nyanners: so we must mention 11 c3 g5. seems fine i guess
+[14:43:52] nyanners: oooohh Bb5 i didnt see
+[14:43:52] nyanners: i wonder if it makes g5 stronger? and does it matter?
+[14:44:07] nyanners: like then white might be more discouraged from playing Bxc6
+[14:44:22] nyanners: since it kicks N
+[14:44:38] nyanners: and well, say you do execute Bxc6. then a lot of the eval hangs on whether ..c5 happens eventually
+[14:44:53] scarff: Feel like I spend too much time, and still don't understand what's going on!
+[14:45:39] rolihlahla: same here scarff :-)
+[14:46:55] nyanners: g5 is definitely critical in the world of ideas
+[14:47:11] nyanners: in the best case for black it makes all white pieces bad while keeping the pawn
+[14:47:26] nyanners: i feel its not so bad but i do think its working
+[14:47:26] robertjackson: ...that club membership is growing, Eric!
+[14:48:11] nyanners: like, next is O-O-O. and do you even want Bxc6? im not sure
+[14:48:11] rolihlahla: :-)
+[14:48:28] nyanners: and then both your Nd5 and your Bc1 are bad
+[14:48:43] nyanners: Nc3 i really like i think
+[14:48:58] nyanners: Nd5 wasnt looking good anymore
+[14:49:29] nyanners: but Ne4 does
+[14:49:29] scarff: Feels like it's a bad idea to go down a lot on time against someone who is way higher rated than me in everything but classical
+[14:49:59] nyanners: black might have Nxd4 if allowed
+[14:50:46] nyanners: does Ne4 allow it? Ne4 Nxd4 Rxd4 Bc5 Nxc5 Rxd4
+[14:51:01] nyanners: 2B for R+2p, seems good for white
+[14:52:32] nyanners: well Bxc6.. thats one potential solution
+[14:52:47] nyanners: im afraid black gets c5 tho
+[14:54:49] nyanners: is Be7 into f5 stoppable
+[14:55:50] nyanners: or well yea.. you could just do this. feels quite miserable for white now
+[14:56:21] nyanners: though i feel it could be even more miserable without allowing Nxd6
+[14:56:21] nyanners: this B vs N situation could give white some play
+[14:56:36] nyanners: and the knight wouldnt have any great retreats
+[14:57:22] nyanners: i feel this position isnt really about calculation but about positional intuition. and black has been doing better there
+[14:58:07] nyanners: "this position" i mean the whole thing starting from Rxd1
+[15:01:41] nyanners: no Nxd6..
+[15:01:57] nyanners: ..c5 is natural but also what white wants in a way
+[15:02:12] nyanners: this could be interesting
+[15:05:47] scarff: this is crazy time pressure in a classical game where I'm white and prepped a little
+[15:06:18] nyanners: well the position did get kinda bad
+[15:06:33] scarff: Either they are just way better than I am across all of chess. Or I am just too weak and slow today
+[15:06:33] nyanners: g5 paying off in spades
+[15:10:23] nyanners: 20 d5 now or never?
+[15:10:38] nyanners: reeks of desperation
+[15:10:38] nyanners: this one too..
+[15:16:44] scarff: No idea if this is drawable or not. Very tough game
+[15:19:46] nyanners: this gotta be lost
+[15:20:02] nyanners: maybe 24 e6 could get a little weird but didnt look too promising
+[15:20:17] nyanners: like, being annoying. Bd6 Bf6+, introduces Bg7, Be5
+[15:20:47] nyanners: here its just too easy
+[15:21:18] nyanners: actually no response to Bg7
+[15:24:21] nyanners: i mean, white put in an okay effort but was never back in the game after g5
+[15:24:51] nyanners: its possible Bb5 was too much
+[15:25:37] nyanners: in a bullet game you have gxf5 into e6 as a fairly good optical illusion
+[15:26:23] nyanners: here you still play it because its probably the last reasonable thing to do instead of resign
+[15:26:54] robertjackson: 31.e6 - looks good?
+[15:27:09] rolihlahla: Bf6 stops it
+[15:27:09] nyanners: well you know it doesnt work because i said so :D so exercise for the reader
+[15:27:24] nyanners: there
+[15:27:24] robertjackson: ha ha
+[15:28:10] nyanners: Bf8 is the inferior alternative too
+[15:28:26] rolihlahla: i hate losing when my opponent only used increments :-(
+[15:28:57] nyanners: black coasted with positional intuition
+[15:29:28] nyanners: as white id probably regret something in the opening
+[15:29:58] nyanners: i suppose theres still the Nxc7 bluff call to look at
+[15:32:15] nyanners: fair to go through the motions. after Kd7 its fine to resign
+[15:33:31] nyanners: gg
+[15:33:31] rolihlahla: gg to both
+[15:33:31] robertjackson: gg
+[15:33:47] scarff: I think this is one of the fastest and most crushing defeats I've had
+[15:34:17] scarff: Well played FunkeyMonkey!
+[15:34:47] tranzoo: gg
+[15:35:03] nyanners: okay black was bluffing after all
+[15:35:33] scarff: Ugh. I could have taken that rook on a8... Spend all my time there and still made the wrong choise
+[15:35:33] scarff: choice
+[15:35:48] scarff: Very frustrating
+[15:37:20] scarff: Got a completely winning position out of the opening, and somehow calculated my way out of playing it!
+[15:37:35] nyanners: umm i stopped the line a move early too
+[15:37:51] nyanners: though by good luck it wouldnt matter
+[15:38:36] scarff: Bf5+ is a nice resource I missed in those lines
+[15:39:07] nyanners: well this is damned if you do, damned if you dont
+[15:39:22] nyanners: ultimately you have to trust your calculation
+[15:39:22] nyanners: if its wrong you try to learn
+[15:39:53] nyanners: there is no general advice that can be given about situations like this
+[15:39:53] scarff: That's very true
+[15:41:40] scarff: And after that I made way too many mistakes too. Very poor game all around
+[15:41:40] nyanners: it was a thankless position
+[15:42:11] nyanners: though 24 e6 was way better than i thought
+[15:42:41] scarff: I considered it for a while too. But felt like it didn't get me anywhere. But misjudged that too
+[15:43:27] scarff: 24...Bc5+ Kf1 Ke7 and then h5 is an only move. Not sure if I would have found that
+[15:44:28] nyanners: i mean, other random inaccurate lines would also have been a little tougher probably
+[15:44:28] nyanners: Bg7 just got the pawn without any questions
+[15:45:13] nyanners: fxg3 leaves you without any ideas whatsoever
+[15:45:44] nyanners: down 1 soon to be 2
+[15:46:30] scarff: Yeah, really misplayed this ending very poorly
+[15:47:30] scarff: Had multiple chances to punish careless moves, and never did. Just a bad game in every aspect of it
+[15:47:46] nyanners: the game narrative wasnt good for white
+[15:47:46] nyanners: it can be difficult to snap out of it
+[15:48:47] scarff: Just had to find and play better moves
+[15:52:20] scarff: 11.Bxf4 is even winning, don't even need to take that rook. I just look at all the wrong things today it seems
