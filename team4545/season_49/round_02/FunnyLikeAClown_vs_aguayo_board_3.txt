@@ -1,0 +1,31 @@
+Lichess game chat log
+Game      : https://lichess.org/KwHBNK8z
+White     : funnylikeaclown
+Black     : aguayo
+Time      : 45+45
+Captured  : 2026-07-07 20:01:21 UTC
+Game ended : 2026-07-07 18:41:20 UTC
+Messages  : 21
+────────────────────────────────────────────────────────────
+
+[17:35:41] handknit: (3.cxd5) time to discover which setup white thinks is funniest
+[17:38:14] handknit: (4...Bg4) I seem to remember that this permutation is favourable for white because of the easy e4, but not critically so
+[17:39:15] handknit: (5.e4) like Nb6, e6, and black's a little stuck for space but not immediately exploding
+[17:45:37] handknit: (8.Nc3) I'm not super expert in these kinda of setups but I feel like with something like O-O, c6, Nbd7, a5 setup black should be good
+[17:45:37] handknit: (8.Nc3) Especially with white's B on e2 rather than d3
+[17:46:38] handknit: (9...N8d7) I think the trap for black is to punch with c5 too early. White being able to meet c5 with d4 is how black gets into trouble.
+[17:50:58] handknit: (11...Bxc5) Ah, white takes on c5, this is just equal now I think
+[17:51:44] handknit: (11...Bxc5) maybe black's queen gets tangled in the centre and white gets some play off that but the fundamentals say equality
+[17:59:06] handknit: (13.Qxe3) Worth thinking about Bxf3 here to immediately open up Ne5
+[17:59:36] handknit: (13.Qxe3) maybe start with a6, then, since you can respond to Nd6 with Bxf3
+[18:02:24] handknit: (13...Bxf3) Black's overarching goal here is just to get the queen and rooks developed.
+[18:02:39] handknit: (14.Bxf3) The lose condition is something like white being fast to Rc7. Black just has to avoid that.
+[18:03:40] handknit: (14...Ne5) I think one point in favour of 13...a6 is that 15.Be2 Qe7 runs into 16.Nxa7
+[18:29:53] inter-temporal: (23.g3) go Funny!
+[18:31:09] inter-temporal: (23...Nd3) oh. the only thing worse than N-endings are Q endings... (at our levels)
+[18:32:10] inter-temporal: (24...Qe8) just sitting there trying to find all the freakin Q-squares and N-paths. lol
+[18:36:30] nxn: That pawn is a pain
+[18:39:18] stclion: 29)   he needed the Q trade there
+[18:40:34] stclion: Q-e7  Qxe7  Nxe7+  K-f8  p-a7     and Black's N can't stop the Q
+[18:41:35] stclion: guessthis was enough ...
+[18:43:53] stclion: nmind  ..
