@@ -1,0 +1,128 @@
+Lichess game chat log
+Game      : https://lichess.org/hYkcumzy
+White     : markmarkedymarkmark
+Black     : timothyha
+Time      : 45+45
+Captured  : 2026-07-08 23:36:06 UTC
+Game ended : 2026-07-08 22:16:01 UTC
+Messages  : 118
+────────────────────────────────────────────────────────────
+
+[19:02:53] king_hunter-1: Good luck TimothyHa!
+[19:10:46] timothyha: (7...cxd4) we are simplifying too much by move 7
+[19:10:46] timothyha: (7...cxd4) but hopefully there are some issues due to b3
+[19:24:17] pezzo17: (10...Nc6) go mark go!
+[19:25:48] timothyha: (10...Nc6) will have to check the opening later, but looks like White did have a slow move
+[19:28:05] scarff: Good luck Tima! Hopefully you avenge my poor first game!
+[19:33:57] timothyha: (13.Rc1) looks like the rook is trapped
+[19:34:28] timothyha: (13...Ba3) that's b3 for you...
+[19:41:05] scarff: Good start! Maybe white does get a good knight on c5, but should be a long term winning position now
+[19:43:07] timothyha: (15.Qxc1) if I give up a pawn on c5, I might pin somebody and get the a pawn for it
+[19:43:53] timothyha: (15.Qxc1) not really, b4 a5 a3 is in time and they have a strong passed pawn.  Let's not help them
+[19:48:27] timothyha: (15.Qxc1) they want the pawn, but I can lift a rook at their expense I guess
+[19:52:46] timothyha: (16...Re6) it will be a "messi" attack from here
+[19:53:17] timothyha: (16...Re6) their defenders are all off
+[19:53:32] robertjackson: we hope so
+[19:54:03] scarff: Yes. I was thinking Qd6. But this rook lift look like a good plan too
+[19:54:18] scarff: Black is getting very active
+[19:55:04] timothyha: (17...Ne4) i have FOUR pieces attacking
+[19:59:54] timothyha: (18.Nc5) i probably still need my knight
+[20:05:14] timothyha: (19...Rac8) listerning to Alan Parsons Project right now
+[20:05:29] timothyha: (19...Rac8) I like how Sirius is being used even at the WC
+[20:07:46] timothyha: (20.Bd3) feels like messi tactics here, so many moving pieces...
+[20:08:17] scarff: Qg5? Feels like white doesn't want to exchange that LSB for the knight anyway?
+[20:13:21] timothyha: (20...Qg5) my plan is to take on e4 with a pawn so nobody comes to f3
+[20:19:12] timothyha: (21...dxe4) maybe they only calculated Bxe4
+[20:24:33] timothyha: (22.Qc4) there's a funny tactic B->f6->d5 like in the Marshall Attack
+[20:24:48] timothyha: (22.Qc4) where the bishop pins the queen and g2
+[20:25:19] timothyha: (22.Qc4) but Nxe6 works for them
+[20:28:38] timothyha: (22.Qc4) Be6 Nxe6 is ok for White, so let's be patient...
+[20:31:41] timothyha: (22...Qg6) I am not sure R vs Bp wins, especially with Qs on... so need to press a little more before swapping pieces
+[20:36:30] timothyha: (23...Qh5) I am so happy N on c5 can't check my king
+[20:38:33] robertjackson: (24...Rh6) looks devastating?
+[20:38:48] timothyha: (24...Rh6) this is more like Haaland style, not Messi
+[20:39:18] timothyha: (24...Rh6) but I missed the Be5 resource
+[20:39:35] timothyha: (24...Rh6) althought Be6 wins the bishop
+[20:40:51] timothyha: (24...Rh6) Be5 Be6 Qxa6 Qxe5 threatens mate
+[20:41:06] timothyha: (24...Rh6) and R on c8 is still protected by the bishop...
+[20:42:07] timothyha: (25.Be5) nah Qxe4 or Qd4
+[20:42:07] timothyha: (25.Be5) I'm missing some stuff, need to be more careful
+[20:47:12] timothyha: (26.Bg3) i might have to play for pawns for a while
+[20:52:17] timothyha: (27.Qd4) Qf6 Be5 is some initiative for them, and an easy choice to gain time
+[20:54:34] timothyha: (27...h5) maybe I'll win the blitz
+[20:55:51] timothyha: (28.h4) with h4 Qf6 is ok
+[20:56:37] timothyha: (28.h4) but also Qg4 and g5, h4
+[20:58:23] timothyha: (28...Qg4) thankfully the queen is not trapped with exf3 on f3
+[20:58:23] timothyha: (28...Qg4) Kh2 and f3 ideas
+[21:01:13] timothyha: (29.Rd1) ok, a Gukesh move now...
+[21:02:14] timothyha: (29...g5) I think one day they'll call it the Gukesh pawn
+[21:04:00] scarff: This might be the thing that breaks white
+[21:04:16] scarff: h4 h3 looks very destabilising
+[21:04:31] timothyha: (30...h4) Rh6 still doesn't work...
+[21:04:46] timothyha: (30...h4) but let's go on, we're Messi Mates
+[21:05:18] timothyha: (30...h4) Rg1 and Rg2 is hit by Bh3 I think
+[21:05:33] timothyha: (30...h4) so depends on how precisely they defend I have chances
+[21:11:39] timothyha: (32.Rg1) here f4 gives me the g3 square
+[21:12:09] timothyha: (32.Rg1) and f3 is probably just perpetual for me via g3 -> e1 and e2
+[21:15:58] timothyha: (33...Qh5) this is Messi again, not Haaland
+[21:23:35] timothyha: (36...Bc8) blitz quality now
+[21:27:39] scarff: Bd7 maybe? Trying to set up Rxe4 followed by Qxf2+
+[21:27:54] scarff: But not sure if that tactic even works, so many options for white too!
+[21:28:55] scarff: I was hoping for a good win for Tim. But this is a great watch too. Very Messi :)
+[21:35:02] timothyha: (43...Qh7) tough fight
+[21:35:17] scarff: Going down on time like Ivanchuck!
+[21:35:32] scarff: Probably no longer winning now. But still alive and playable, I think?
+[21:39:22] jtschuwirth: i was thinking Dc8
+[21:39:22] jtschuwirth: Qc8*
+[21:39:52] timothyha: (49...Rxa2) e and f probably not a draw
+[21:39:52] timothyha: (49...Rxa2) but couldn't find anything else
+[21:43:26] scarff: Have to get to bed now though. Good luck for the final tricks!
+[21:43:41] timothyha: (55...Rb1) h + f I'd hold but e + g needs them to blunder
+[21:44:43] timothyha: (57...Re1) this does look like a mistake but who knows
+[21:44:43] timothyha: (57...Re1) I have no theory for this
+[21:46:15] timothyha: (57...Re1) I hope @Scarff is happy I played an exciting game
+[21:48:47] timothyha: (60...Rg2) Kf6 would win the rook
+[21:52:20] inter-temporal: (62...Kg7) time to find out if thedefense against h- and f- can be useful against e- and g-, yeh?
+[21:53:21] jtschuwirth: rook vrs rook and h-f pawns is a theoretical draw? i only know that 2 connected pawns in rvr is a win but i don't know about disjointed pawn
+[21:54:22] inter-temporal: (64...Ra2) yes indeed. h- and f- pawns draws.
+[21:54:53] inter-temporal: (64...Ra2) first covereage i know of was Smyslov's book (with Levenfish) using his games
+[21:55:08] rcyx: (64...Ra2) i was also confused so i checked and h and f pawns still wins from what i seen
+[21:55:08] inter-temporal: (64...Ra2) of course DEM and 100EGs also cover it
+[21:55:23] timothyha: (65.e6) they lose a pawn and then we go all over again :-)
+[21:56:09] inter-temporal: (65.e6) check out 100EG #72 for the draws
+[21:56:24] jtschuwirth: thanks, will check it out
+[21:56:24] robertjackson: good tip
+[21:57:10] inter-temporal: (65.e6) #72 has a "series of positions" but #73 shows the actual drawing technique.
+[21:57:10] timothyha: (65.e6) Kg7 looks interesting, but keeps the pawn for them...
+[21:57:10] timothyha: (65.e6) can't be right...
+[21:58:26] timothyha: (65...Kxg5) Rf7 Kg6 is forced, I think
+[21:58:26] timothyha: (65...Kxg5) have to be in contact with the rook
+[22:00:14] inter-temporal: (66.Kf7) Rcyx would draw against the h- and f- pawns even if he doesn't "know" it. he just knows it anyway. lol
+[22:01:00] inter-temporal: (66...Rf2+) does this move help? i thought long-side checks might hold for awhile...
+[22:04:04] timothyha: (67...Ra2) not sure what went wrong with the middlegame today
+[22:04:34] timothyha: (68.Rf1) there was no good way to swap queens and go for exchange up endgame
+[22:06:36] timothyha: (69.e7) I think they win with Rf8 if I start checking
+[22:07:07] timothyha: (69.e7) and Kg7 Rg1+ Kf6 Kf8
+[22:11:27] jtschuwirth: isn't this a lucena?
+[22:12:12] timothyha: (75...Ra4+) i hope they see the idea now
+[22:12:28] timothyha: (75...Ra4+) too cute to not see
+[22:12:43] timothyha: (75...Ra4+) but for the team it's better to draw :-)
+[22:13:13] inter-temporal: (76...Ra3+) i keep checking back in and being surprised
+[22:13:13] timothyha: (76...Ra3+) actually rook swaps allow Kf7
+[22:13:29] inter-temporal: (76...Ra3+) what stopped 76...Kf7
+[22:13:44] timothyha: (76...Ra3+) or a Q v R endgame!?
+[22:13:59] timothyha: (76...Ra3+) that's like one more hour
+[22:14:30] inter-temporal: (77...Ra2+) this is good too, right?
+[22:14:45] timothyha: (78.Kf3) also king back to f3 and I can play Kf7 draw
+[22:15:00] inter-temporal: (78.Kf3) exactly
+[22:15:15] timothyha: (79.Re1) phew
+[22:15:15] inter-temporal: (79.Re1) draw
+[22:15:46] inter-temporal: /w (82.½-½Insufficient material • Draw) wow. great defense tim
+[22:15:46] inter-temporal: gg
+[22:16:01] rufelos: gg
+[22:16:01] robertjackson: gg
+[22:16:16] jcarmody: It was drawn when I thought the white pawn was going the other way, too.
+[22:16:16] jcarmody: gg
+[22:16:16] timothyha: what a game!
+[22:16:47] inter-temporal: jc draws coming and going; left and right; up and down.
+[22:17:02] markmarkedymarkmark: very fun game indeed!
