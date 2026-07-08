@@ -1,0 +1,148 @@
+Lichess game chat log
+Game      : https://lichess.org/aQlN0fKk
+White     : nseek
+Black     : checkmate_insurance
+Time      : 45+45
+Captured  : 2026-07-08 04:48:20 UTC
+Game ended : 2026-07-08 03:28:16 UTC
+Messages  : 138
+────────────────────────────────────────────────────────────
+
+[01:03:48] nseek: don't see the Nh5 line a ton, but they play it consistently. I think Nge2 might be my natural move after trading the bishops
+[01:04:19] nseek: but Gelfand, nepo and aronian all play this long castles move here so studied it a bit
+[01:13:43] nseek: need to slow down here. don't like getting in the habit of playing so fast in prep or not.
+[01:14:13] nseek: still in the gelfand game I just went over for prep tho so gonna stick with the plan
+[01:19:02] checkmate_insurance: i think Nxa4 Qxa4 Nd7 Rc3 Nb6 Qa5 Re8 Ra3 Nc8 looks logical
+[01:19:18] checkmate_insurance: i feel pretty safe there but i'm not sure how to create my own chances
+[01:23:07] checkmate_insurance: some Nd2 Nb3 Nc5 ideas might be dangerous if i'm too passive
+[01:27:57] ztraynor: go nseek!
+[01:35:34] checkmate_insurance: c5 Ra3 c4 Qxa7+ Be2 Ra8 Qxa8 Rxa8 Rxa8 b5 looks very interesting
+[01:36:36] checkmate_insurance: it's that or the Nb6 Nc8 idea
+[01:36:51] checkmate_insurance: i was trying to make Kc7 ideas work but i think in many lines b4 is too strong
+[01:39:54] checkmate_insurance: c5 Bb5 actually looks annoying if Nb6 Qa3 is too strong
+[01:40:25] checkmate_insurance: if a6 Bxd7 Bxd7 Qa3 is also annoying
+[01:41:26] checkmate_insurance: c4 Ra3 Nb6 Qxa7+ Kc7 there is Ba6
+[01:42:12] checkmate_insurance: Ra3 a6 Bxd7 Qxd7 Qb4 looks playable
+[01:42:42] nseek: I thought Nb6 is both very natural and the best move for black here, then I just would jump back with Qc2
+[01:42:58] nseek: c5 is a bit of a shock
+[01:43:59] nseek: Ra3 was a small threat before that i didnt think would come into play at all and was just using the lift to triple up on the c file
+[01:44:14] checkmate_insurance: i really should study this line more i know there shouldn't be a attack but it's hard to figure out fast
+[01:44:29] nseek: but now Ra3 looks awfully tempting but does c5-c4 lock things down maybe?
+[01:48:33] kborman: In my small brain, I thought Nb6 was a problem because of Qa5 and then bringing then Ra3 next and now a6 can’t be played
+[01:49:34] nseek: ok I think I see the trap now, at the end of Ra3 and Qxh7 the bishop is hanging after c4 and Rc1 saves the Bishop but then Ra8!
+[01:52:22] nseek: so dxc5 Nxc5 and Qa3/b4 threatens to win the knight and it's pinned to the lose queen which buys me a move to play Nd4 there and Rc1 look
+[01:52:52] nseek: super natural still. I think control the c file and d4 is a great square for my knight to work from
+[01:54:39] nseek: so Qa3 or Qb4 now. b4 makes more sense from an attacking standpoint directly oppose the king, but if I am planning Nd4 less ways to run
+[01:57:12] nseek: of course now both queens are loose
+[02:02:48] checkmate_insurance: honestly not super comfortable here i think bb5 should be played and i'm in some trouble
+[02:07:37] nseek: lol just spent like 5 minutes worried about a ghost
+[02:08:08] nseek: thought Rhc1 then Na6 was annoying but Bxa6 and the queen retakes allowing Nc6 check lol
+[02:19:04] nseek: think I dont want to give up my bishop for the knight even though my d4 knight has to be better than the e6 bishop
+[02:19:19] nseek: maybe its worth trading down tho with the isolani and the d4 knight
+[02:20:35] nseek: Qa3 total no brainer literally only move
+[02:21:06] nseek: oh Ne4 is exciting hits all over the place but now Nc6 and Bc6 are there too
+[02:23:23] nseek: so i think rook trade first and then it takes away the Nxc3 check threat at the end of everything
+[02:23:23] nseek: then i still can figure out which piece is going to c6
+[02:23:54] ztraynor: Isn't Nd2+ also still a problem?
+[02:25:10] nseek: thinking Bc6 followed by Nb5 now
+[02:25:25] nseek: maybe throw in f3 at the end
+[02:26:26] nseek: but Nc6 forces Ka8 and maybe theres fun with like Nxa5?
+[02:27:12] baberle: I love it when both sides whisper. Good battle here.
+[02:28:43] nseek: welp lets go with the attack that doesnt require a sac I cant calculate
+[02:28:59] nseek: keep up the pressure anyway and maybe invade with the queen
+[02:30:15] checkmate_insurance: i think my opponent missed this
+[02:31:31] nseek: bd7? whoa BxQ hangs mate. Nice!
+[02:32:01] ztraynor: where's the ma-- OH MY
+[02:35:04] nseek: every answer I find loses something...I think after b3 or Qa4 i give up two pieces for the rook and can hold
+[02:35:50] nseek: but Bc6 really doesnt look like a blunder MAYBE i have a save with f3 but idk
+[02:37:07] checkmate_insurance: i think Qa4 is best
+[02:37:22] nseek: ok so f3 N check I think Im totally fine, but cannot figure out f3 and instead Bxc6 maybe its fx e4 instead of Nxc6 check?
+[02:37:38] nseek: i think f3 is forced tho so lets see what he does first
+[02:37:38] checkmate_insurance: if f3 Nd2+ Ka1 Qc7 i think i'm better
+[02:38:08] nyanners: i dont see how Qa4 gives two pieces for rook? is that my bad
+[02:38:08] nyanners: f3 seems very interesting tho
+[02:38:23] nseek: ohhh once I get the knight out of there I have Qd6 check!
+[02:38:23] nyanners: maybe even good :o
+[02:38:54] baberle: :popcorn:
+[02:39:10] checkmate_insurance: i guess Qe7 is coming so maybe i just have to trade
+[02:39:10] nseek: Bd7 is super nice find tho
+[02:44:30] checkmate_insurance: i think this is pretty equaly so i'm just going to try to play logical moves quickly
+[02:45:16] nseek: ok i think after Bxd5 he has Nxb2 and after all the trades I get Bxf7 and come out up a pawn with N/B vs. N/B ending
+[02:46:02] checkmate_insurance: honestly missed that somehow
+[02:47:19] nyanners: i guess white may or may not be a tiny bit faster
+[02:47:19] nyanners: not up a pawn after ne1
+[02:50:07] nyanners: oh white had g4
+[02:50:07] nyanners: of course
+[02:51:08] merricks: They were playing really fast wasn't rb7 check just really winning
+[02:54:27] nyanners: thats a really good point actually XD
+[02:54:27] nyanners: i will excuse myself as a distracted observer
+[02:54:42] nyanners: seems you are actually the first to notice
+[02:55:13] baberle: Yep
+[02:55:28] nyanners: a bit too scary to "allow" mate in 1
+[02:56:44] nseek: this may be me making my classic mistake of using general rules for concrete endgames, but I think bishop is better than knight here
+[03:01:04] checkmate_insurance: i think my pawns are a serious threat if the bishop stays blocked i'll some sacrifices potentially
+[03:02:36] checkmate_insurance: my pawns are faster if he tries to play h4 g5 f5
+[03:03:22] nseek: gotta get back on the a2-g8 diagonal
+[03:04:07] nseek: i think Bg6 is the best way was wondering about bh7 but this seems more natural
+[03:04:38] baberle: Must...stay... awake. See end game,,,.....
+[03:13:01] nseek: pretty sure the bishop stops black queening
+[03:13:47] nyanners: nc4 huh
+[03:13:47] nyanners: cant you just take this
+[03:14:02] nyanners: there they go
+[03:14:02] nyanners: no??
+[03:14:17] ztraynor: absolutely not
+[03:14:33] ztraynor: though not insane given match situation and the time, idk
+[03:14:48] nyanners: the bluff timing is good at least. gotta offer it immediately
+[03:15:03] nseek: ok im pretty sure i can run the pawns now
+[03:15:03] checkmate_insurance: i think this just draws since neither of us can leave the pawns
+[03:15:18] nseek: idk where the draw is
+[03:15:34] nyanners: not like super trivial but like
+[03:15:49] nyanners: give the e-pawn and then you can take queenside and then white keeps the extra
+[03:16:19] nyanners: 48 Kd3
+[03:16:19] ztraynor: hm but given the relative king positions does Black get to h3 and hold?
+[03:16:19] checkmate_insurance: actually am i losing
+[03:16:34] checkmate_insurance: i thought Kd3 Kc4 allowed b3 but there will be Kc3
+[03:16:34] nyanners: Kd3 seems like soft zugzwang to me
+[03:17:05] nyanners: this also seems good
+[03:17:20] nseek: if g5 i take with the f pawn and then lock up the two pawns  after hx back h5
+[03:17:20] nyanners: yeaa
+[03:18:36] nyanners: like, black needs g5 to get rid of the e-pawn before they can do anything, right
+[03:18:36] nyanners: so white has figured out this one
+[03:19:07] nyanners: the other one was 48 Kd3 g5 f5 Kxe5 Kc4 which is also pretty easy it seems
+[03:19:37] nyanners: because theres no way to get rid of f
+[03:19:53] ztraynor: yeah not sure what Black is going to do here this looks grim
+[03:20:08] nyanners: though i suppose Kd3 g5 g6 would still force white into h4
+[03:21:54] nyanners: to black's credit, ive fallen for a similar optical illusion before
+[03:22:55] nseek: i think anything but g5 is met by h5 first and then i try to get the king to c4 just gotta be patient. i dont see a way for black to hold
+[03:23:41] nyanners: sounds about right
+[03:24:27] checkmate_insurance: i think all options lose but i'm not sure which is the most difficult
+[03:24:57] checkmate_insurance: g5 he has to play fxg5 hxg5 and h5 but that seems pretty obvious
+[03:25:13] checkmate_insurance: anything else i don't think i can ever draw though
+[03:28:16] nyanners: gg
+[03:28:16] thegreattoddman: gg
+[03:28:31] ztraynor: GG both, a fun watch!
+[03:34:37] nseek: ohhh yeah after the Qa5 move you have Nc4
+[03:35:23] checkmate_insurance: I didn't like the structure if you got Bxc4 but i guess i misevaluated that as well
+[03:35:23] checkmate_insurance: engine says i'm better
+[03:36:09] checkmate_insurance: i definitely didn't consider dxc5 as much as i should have
+[03:36:54] checkmate_insurance: oh we both missed Rb7
+[03:36:54] checkmate_insurance: on move 32
+[03:37:10] ztraynor: don't worry, so did the chat lol
+[03:38:56] nseek: oof lol
+[03:39:26] nseek: i didnt consider anything else after I figured out i was not gonna get checkmated and win the f7 pawn
+[03:39:26] checkmate_insurance: i guess i needed to get all your pawns on light squares to hold the bishop vs knight
+[03:41:29] nseek: gg anyway. How far did you know that opening line? You play the Nh5 pretty consistently I dont think Ive run into it too much
+[03:41:59] checkmate_insurance: basically until Qxa4
+[03:41:59] nseek: I saw a few top games in prep with the long castles lines and played through the games
+[03:41:59] checkmate_insurance: not exact theory but i knew the plan
+[03:42:14] checkmate_insurance: i really should know a couple moves further the attack is scary without being prepped for it
+[03:42:14] nyanners: this nh5 was already recommended by the ancients
+[03:42:29] nseek: The gelfand game I went through went Na4 Ne4
+[03:42:45] nyanners: i stopped with it because yeah whites play is quite fluid
+[03:43:15] nyanners: if i am going to put in actual effort there are more rewarding lines :p
+[03:43:15] nseek: just seemed very logical to line everything up on the c file
+[03:43:45] nseek: it's funny to me that those lines all involve both kings going to the b file and bringing the rook back, like we disagreed with the rules
+[03:44:01] nseek: about how many squares to move the king when castling long
+[03:44:01] checkmate_insurance: lol
+[03:47:04] nseek: anyway gg and good luck with the rest of the league
+[03:47:19] checkmate_insurance: you too
