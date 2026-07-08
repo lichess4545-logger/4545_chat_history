@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/PjymAr1y
+White     : rodeo
+Black     : paulze2000
+Time      : 45+45
+Captured  : 2026-07-08 17:32:50 UTC
+Game ended : 2026-07-08 16:12:35 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[14:06:55] rodeo: i expected a french...
+[14:10:13] elias_nl: i didn't expect qf5
+[14:10:28] elias_nl: looks kinda nice though
+[14:14:32] tranzoo: go rodeo!
+[14:21:24] jarolos: go rodeo!
+[14:21:54] rodeo: pretty sure this position isn't in my opening file :D
+[14:33:23] rodeo: Rg1 an idea, not sure which rook
+[14:34:09] rodeo: would be great to trap the queen
+[14:36:27] rodeo: Rdg1-Rg5 gets shut down by h6
+[14:38:13] rodeo: figuring out a way to play d5 would be great too
+[14:41:16] rodeo: if black o-o-o maybe Ba6 is an idea
+[14:42:17] rodeo: if o-o i think Rdg1 h6 Qe2
+[14:43:03] rodeo: but i think black is also secure enough for Nb6 and other moves to not commit the king right away
+[14:43:18] rodeo: Nb6 makes d5 very difficult
+[14:43:48] rodeo: position kinda feels like i need to find a pawn sac to open up the game for my bishops
+[14:51:11] rodeo: d5 sac?
+[14:55:32] nyanners: are we saying this is white's first rodeo
+[14:55:32] nyanners: (in this line)
+[14:56:17] nyanners: think white is still doing well
+[14:56:32] rodeo: i cant find anything concrete that works
+[14:56:32] rodeo: a bit concerned about h4 now
+[14:57:18] nyanners: Qh5 Rh1 worst case seems not so bad
+[15:02:24] rodeo: my calcs of d5 and ba6 didnt win so im trying to get Nd4 and improve my pieces
+[15:02:39] rodeo: lots of time used already by both of us
+[15:11:19] nyanners: yea this is sensible
+[15:11:50] rodeo: preventing Nd5, i think my plan will be Bf4-h2 and advance f-pawns
+[15:12:20] rodeo: maybe Bd2
+[15:14:53] nyanners: black a bit struggling for ideas
+[15:15:23] nyanners: i suppose one could go Kb8 if nothing else
+[15:16:09] rodeo: i think black wants to get Nf4, prep with Qd7
+[15:18:26] rodeo: maybe im ready to play f4 right away, moving DSB is fake aggression?
+[15:19:57] nyanners: ooooohhh e5
+[15:20:28] nyanners: very concrete. sucks for someone probably
+[15:21:14] nyanners: black's position feels a bit shaky so some sort of 17 d5 is worth a look
+[15:21:59] nyanners: probably not
+[15:22:30] nyanners: maybe its good? black is probably happy to get in exd4 if allowed
+[15:23:31] nyanners: though i am a bit fascinated by a line like 17 d5 cx cx Nx Bd2 Qb6 Bc4
+[15:23:31] nyanners: feels like lots of things opening
+[15:27:05] rodeo: i wanted to take more time on this, possible pawn sac but it looks interesting
+[15:27:36] rodeo: open c-file hurts black more since my K is already on b1
+[15:30:54] nyanners: this move order as played could be better
+[15:31:09] nyanners: or maybe just the same
+[15:33:26] rodeo: nf4 ideas for black
+[15:38:01] rodeo: 20...Nf4 21.Bxf exf4 22.Bxf7 Rgf8 23.Rxg7 +=
+[15:49:26] rodeo: tactics with Qxe5+
+[15:50:12] rodeo: bd2 hangs to d-rook in some lines, careful
+[15:55:47] rodeo: welp didnt see that
+[16:10:48] rodeo: just a lost ending
+[16:12:51] paulze2000: gg
+[16:12:51] rodeo: gg
+[16:12:51] rodeo: i'm amazed this is a draw with connected outside passers for black
+[16:13:06] paulze2000: i prob ably couldhave played on
+[16:13:06] paulze2000: looks drawish
+[16:13:36] paulze2000: but you had 2 active piees
+[16:13:52] paulze2000: sttockfish actually gives you a slight advantage
+[16:14:07] paulze2000: i was lucky to find the Bd4 tactic
+[16:28:05] rodeo: Bd4 was a great move
