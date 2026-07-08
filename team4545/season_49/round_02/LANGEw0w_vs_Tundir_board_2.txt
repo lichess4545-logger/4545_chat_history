@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/qG5OCtLe
+White     : langew0w
+Black     : tundir
+Time      : 45+45
+Captured  : 2026-07-08 20:31:52 UTC
+Game ended : 2026-07-08 19:11:45 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[18:06:25] scotchwhisky: Go Lange!
+[18:20:24] scotchwhisky: Another Petrov but it seems white has gotten to safety unscathed
+[18:21:10] leverkuhn: Love White's position here, bishop pair for nothing
+[18:21:56] scotchwhisky: 12. Qd6 seems fun followed by a rook to d file but seems pretty equal after ...Nf6
+[18:22:57] scotchwhisky: pawn on e4 seems over extended but hard to attack it
+[18:23:12] leverkuhn: not at all imo, White's dsb is the best minor by a mile
+[18:23:58] scotchwhisky: was thinking if Nf6 Bg5 is annoying
+[18:24:28] scotchwhisky: or Qd6 followed by Qg3 to put pressure and threaten Bh6
+[18:24:59] leverkuhn: the pressure on a7 could be a factor long-term also, I can see a world where that pawn eventually moves and White's bishops gets to b6
+[18:25:14] leverkuhn: winning the d-file
+[18:25:29] scotchwhisky: I can see that
+[18:25:29] scotchwhisky: Bg4 seems to force trades after Nf6
+[18:26:00] leverkuhn: I disagree with this plan as White is voluntarily giving up his bishop pair
+[18:26:15] scotchwhisky: I was thinking white could play 12. Bc4 as well
+[18:27:01] leverkuhn: maybe but the bishop was fine on e2, I liked getting the queen and rooks going
+[18:27:16] scotchwhisky: maybe an idea is Bd4 and Rook to e1
+[18:27:46] scotchwhisky: but Nd5 is great for black
+[18:30:49] langew0w: i believe that e-pawn will be a disadvantage, not a strong point
+[18:32:21] leverkuhn: interesting move, if 16...Nxe3 White wins the d-file
+[18:33:06] leverkuhn: probably 16...f4 will come for Black, but White might drop back with 17.Bc1 or 17.Bd2 and look for c3-c4
+[18:35:39] scotchwhisky: I like Rfd1 and black can't really put a rook on the d file
+[18:50:23] scotchwhisky: I was hoping for Bc1 and Rfd1 to better claim the d-file but idk what white has planned
+[18:50:53] scotchwhisky: now black is in control
+[18:52:57] scotchwhisky: maybe if trades, Bx and c3 to plant the bishop, trade on f6 to mess up blacks pawns
+[19:07:41] inter-temporal: (22...gxf6) this looks hard to calculate
+[19:08:27] inter-temporal: (22...gxf6) experience says white should choose activity over defense?
+[19:09:59] inter-temporal: (24.Ke3) maybe ...Rxc2, Rf2
+[19:10:29] inter-temporal: (25.Rf2) oh. ..rxg2
+[19:11:45] inter-temporal: (28...Kf7) gg
+[19:12:16] tundir: gg
+[19:12:31] langew0w: good game
+[19:14:02] langew0w: Apperently I had to give up my entire back row of pawns
+[19:17:20] scotchwhisky: end games are hard
