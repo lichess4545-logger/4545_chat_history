@@ -1,0 +1,134 @@
+Lichess game chat log
+Game      : https://lichess.org/3Drsr3LA
+White     : nicalvarez
+Black     : cbpio
+Time      : 45+45
+Captured  : 2026-07-08 01:34:11 UTC
+Game ended : 2026-07-08 00:14:03 UTC
+Messages  : 124
+────────────────────────────────────────────────────────────
+
+[21:02:42] qrs: Go cbpio!
+[21:02:57] qrs: Time to tip the scale back in our favor! :D
+[21:03:12] qrs: (3 ... Nc6) oh wow!
+[21:07:16] karasso: stafford gambit, let's hope white does not know what to do, because if he does, this very bad for black
+[21:09:04] karasso: i play h3 here with white
+[21:10:35] karasso: Be2 was also fine, iirc.
+[21:11:36] karasso: h5 was instead of 0-0 an idea
+[21:13:39] karasso: followed by Ng4. But it's been some time, since i looked at all of this.
+[21:19:31] qrs: I don’t think black has anything after 6. ... O-O
+[21:20:17] karasso: no, it's just bad for black
+[21:20:32] qrs: I think h5 or Ng4 (Bxf4 Qh4) is necessary as black there
+[21:20:47] karasso: that's why you don't play the stafford gambit on any time conrtol longer than 3+0 ^^
+[21:22:34] qrs: Well, let’s see where this ends but right now there isn’t much to show for the pawn
+[21:24:05] karasso: Ng4 Bxg4 Qh4 d4 Bxg4 Qd3 0-0-0 c3 seems familiar, with white being better, but not sure whatssoever
+[21:26:07] tomb85: Go cbpio!
+[22:12:58] nyanners: ah i am the biggest stafford hater
+[22:13:29] nyanners: i have 50% against the man himself XD
+[22:16:47] nyanners: rosen and the stafford were really a victim of their own success
+[22:17:33] nyanners: its legitimately super dangerous but also.. once white knows any of the refutations whatsoever (not using "refutation" lightly) thats it
+[22:20:36] prostidude: You are probably right, however I always commend people with a fighting spirit
+[22:20:51] prostidude: Because that's highly entertaining to spectate
+[22:23:54] nyanners: what i am saying is that you gotta invest your fighting spirit in other lines
+[22:23:54] nyanners: this goes in the "tricks only" category unfortunately
+[22:24:09] nyanners: with an expiration rating
+[22:27:57] prostidude: Fair
+[22:28:28] nyanners: like only now black is getting the opportunity to show some skill
+[22:28:43] nyanners: had this big uphill battle for "nothing"
+[22:31:01] karasso: Ne4 with Rg3 next looks very solid
+[22:31:31] nyanners: yeah it might be white's last necessary find
+[22:33:34] karasso: Well, that is a turn of events
+[22:34:20] nyanners: white didn't XD
+[22:34:50] prostidude: In 4545 anything is possible
+[22:34:50] nyanners: is black.. better? XD
+[22:35:06] karasso: i wouls think so, yes
+[22:35:36] karasso: Kg8 here, Rxf8 Kxf8 and the king covers the e-file
+[22:35:36] karasso: and black is just a pawn up
+[22:37:08] karasso: Qxe8 less strong
+[22:37:38] prostidude: All rook endgames are drawn. But some are more drawn than others
+[22:38:08] karasso: dxc5 Rxc5 Re7 Rb5 b4 looks holdable for white
+[22:40:11] karasso: Kg6 Kf6 g5 and try to generate anything with black
+[22:40:11] nyanners: this feels in the margin but not sure
+[22:40:11] nyanners: black pawns are alright
+[22:40:42] nyanners: so it could be just a loss
+[22:40:57] nyanners: though both sides will have their chances certainly :p
+[22:41:27] karasso: yeah, it's not like the engine evaluation is that important here
+[22:43:29] karasso: tbh, i would lose this with wihte and draw it with black against any good opponent :D
+[22:46:17] inter-temporal: (41.Rb7) go Nic!
+[22:49:05] nyanners: white is kinda making it
+[22:51:55] karasso: looks like it
+[22:52:41] karasso: could be a very long g,h pawn vs g pawn rook ending
+[22:52:56] karasso: which obvs. is a draw, but you never know
+[22:53:42] karasso: now after b4 by black white at least can't go Kf2
+[22:54:58] karasso: h5 g6 Kh6 with black to get any progess
+[22:55:43] karasso: and then try to run the king to the queenside at some poin
+[22:55:43] karasso: t
+[23:02:35] karasso: if black could trade his a5 pawn for the g2 pawn it would be winning for him, so Kf4 to stop Kg5 should not be good
+[23:03:36] karasso: Rc3+ is now a threat
+[23:04:06] karasso: Rc3+ even without Kg5 was maybe very strong
+[23:04:52] karasso: probably it was only strong without Kg5
+[23:05:07] karasso: because now a5 falls with chech
+[23:05:07] karasso: check*
+[23:06:09] karasso: so after 48.Ra8 Rc3+ Ke4 (Kf2 Rc2+) Rc2 Rxa5 Rxg2 was probably winning ?
+[23:07:10] karasso: Rc2 Rxa5+ Kg4 should also have been winning instead of Rf5
+[23:16:50] karasso: if white loses this game he will have nightmares of 31.Qe7
+[23:17:20] nyanners: king in is a super big deal
+[23:21:54] karasso: Rg2 to answer Rg5+ with Kh2 and protect the g6 pawn
+[23:22:10] nyanners: id have liked 54..g5
+[23:22:55] karasso: would have definitly been easier.
+[23:24:27] nyanners: still easy i guess
+[23:24:27] nyanners: or is it..
+[23:24:27] nyanners: stay tuned :o
+[23:24:57] karasso: now g5 and it should be easy
+[23:25:43] nyanners: can we ever get a h2 Kg1 Ra1# helpmate :D
+[23:26:13] karasso: that would be cruel
+[23:27:45] karasso: h2 Rg8 h1Q Rxg6+ Kh2 Rh6+ Kg1 Rxh1 Kxh1 Kd4 draw (maybe)
+[23:29:31] karasso: just g5 at any moment before and he would not have to deal with this now
+[23:31:18] karasso: Rg3+ Kf2 Rh3
+[23:32:04] karasso: but Rg3+ Kf4 is tricky
+[23:32:35] karasso: Kf4 Kh3
+[23:33:06] karasso: would also have won
+[23:33:21] karasso: :d :d :d
+[23:33:21] thegreattoddman: :D
+[23:34:07] karasso: Rh3 was winning on the spot, or am i missing sth?
+[23:34:22] thegreattoddman: This is way more fun
+[23:35:23] nyanners: well well well
+[23:35:38] nyanners: you dont need my commentary for this XD
+[23:35:53] karasso: and that is not winning anymore...
+[23:35:53] thegreattoddman: Oh nooo
+[23:36:24] karasso: lets see if white knows any rook ending
+[23:36:54] karasso: Rh3 is a good start
+[23:43:46] nyanners: moment of truth approaches quickly
+[23:44:17] nyanners: a bit too quickly perhaps  XD
+[23:44:47] nyanners: white demonstrating knowledge
+[23:44:47] nyanners: with the fast response
+[23:45:17] karasso: still would have gone Rc3 Kh3 Rc1, just because
+[23:52:40] nyanners: rx premovable
+[23:53:56] karasso: rb2 to set up some useless discovery check
+[23:54:26] karasso: or Rb3 to finally end this game
+[23:54:57] nyanners: you  could play the R vs R. i have plenty of experience
+[23:55:12] nyanners: and yet i still havent found a fully premovable way to play it safely
+[23:56:59] enprisewithease: I have lost games where I have gotten too bored
+[00:02:05] enprisewithease: so I don't really fault people for trying
+[00:02:37] enprisewithease: maybe if I knew endgame theory at all, I would get annoyed
+[00:03:38] nyanners: people tend to get too annoyed over small things
+[00:03:38] karasso: depends on the level, but at 1850 i would not expect anyone to blunder here with 15 min on the clock
+[00:03:53] nyanners: if someone wants to play it out, just play it out
+[00:04:08] nyanners: we are already playing chess, our time cant be THAT valuable here
+[00:05:25] enprisewithease: ha, even worse for us though, we are watching someone else play chess
+[00:05:40] nyanners: yeaaa
+[00:05:40] nyanners: arent we glad we can afford that
+[00:05:55] nyanners: (hopefully :o)
+[00:06:41] enprisewithease: (95...Rd4) game over?
+[00:06:56] nyanners: not yet
+[00:07:26] nyanners: if going for the trade angle id rather put rook on f
+[00:11:31] jcarmody: maybe Black wants a post-season award for the longest game?
+[00:14:19] enprisewithease: good game both
+[00:14:49] nyanners: gg
+[00:16:51] karasso: gg
+[00:16:51] angborxley: gg
+[00:16:51] nicalvarez: gg
+[00:16:51] nicalvarez: that endgame was tough
+[00:17:21] nicalvarez: and I couldn ́t find a save when I was a piece up, too bad
+[00:19:38] nyanners: good fight from both
+[00:20:25] nicalvarez: thanks!
