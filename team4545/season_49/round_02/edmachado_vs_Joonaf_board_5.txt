@@ -1,0 +1,123 @@
+Lichess game chat log
+Game      : https://lichess.org/WBoyDr2i
+White     : edmachado
+Black     : joonaf
+Time      : 45+45
+Captured  : 2026-07-08 16:22:18 UTC
+Game ended : 2026-07-08 15:02:09 UTC
+Messages  : 113
+────────────────────────────────────────────────────────────
+
+[13:02:27] simonwashere: Go Joonaf!
+[13:04:44] joonaf: I expected 1.e4. I'm glad I didn't prepare :P
+[13:05:30] joonaf: well, barely prepared. Only looked at the very first probable moves
+[13:16:25] joonaf: (10.Bd3) ..h5, Bxe4, dxe4, Ne5, h4
+[13:17:26] joonaf: and if ..h5, h3, then ..Nxg3
+[13:19:43] joonaf: ..h5, a3, Bxc3, bxc3, h4 and the bishop doesn't have squares
+[13:19:58] joonaf: Bxe4 isn't possible because ..dxe4 attacks the knight, so can't save both
+[13:20:13] joonaf: this is the type of move where I miss the very first Black move after ..h5
+[13:20:29] joonaf: did I say Black move. Meant White move
+[13:30:24] joonaf: hmm.. maybe forcing the White LSB to  c4 wasn't good. now I can't do f6
+[13:31:25] joonaf: although, maybe ..Nb6, Bb3, and then f6
+[13:31:40] joonaf: but then the Queen gets to Qg6+
+[13:37:30] joonaf: maybe I'll go ..Nf6 to ..Ng4
+[13:37:30] joonaf: and sac the pawn
+[13:37:45] joonaf: maybe the night on g5 isn't dangerous
+[13:39:47] joonaf: I could start with ..gxh, gxh, Nf6, but then White can do Ne5 instead
+[13:48:26] joonaf: if 16.Qd3, then maybe ..b5, Bb3, c5
+[13:48:26] joonaf: my pawns are already all over the place, so why not
+[13:48:56] joonaf: Qd3, b5, Bb3, Ne5 probably does nothing
+[13:49:27] joonaf: oh
+[13:51:13] joonaf: 16..c5, dxc, Qc7
+[13:53:30] joonaf: c5, Rd1, cxd, Rxd, Qc7
+[13:54:01] joonaf: ..c5, Bb5+, Bd7
+[13:55:17] simonwashere: erm, don't sac ALL of your pawns, you might need some later
+[13:58:05] karasso: Looks very lost for black
+[14:09:32] joonaf: (17..Nh6) ..Rf8 would've allowed Qh7 or Nh7
+[14:10:02] joonaf: the knight doesn't look good now, but on f5 it would be good again
+[14:14:06] simonwashere: Rad1 Nf5 Rxf5 or something
+[14:18:40] joonaf: 18..f5, Qe5,
+[14:19:56] joonaf: ..f5, Qe5, Nf7, Nxf7, Kxf7,
+[14:20:42] karasso: R or Qxf5 then.
+[14:21:13] joonaf: ..f5, Qf4 and e6 is attacked twice.
+[14:22:13] karasso: f5 does not look right here. After the queen moves e6 is weak and e4 opening the e file might kill black.
+[14:30:21] joonaf: I thought 19..Qc7, Rc1, f5, but then Bb5+ :(
+[14:31:22] joonaf: maybe if Rc1, Qc6
+[14:32:08] joonaf: ..Qxg3 is possible too, but is it too dangerous to remove the Q as a defender
+[14:32:23] joonaf: if it cannot threaten anything at g3
+[14:33:09] basilcandle: Iif Rc1 maybe Bd7?
+[14:33:24] basilcandle: I'm not sure if you can afford pawn grabbing joonaf :)
+[14:43:19] nyanners: did black just forget g5 earlier :o
+[14:43:19] nyanners: that seemed rather important
+[14:44:05] nyanners: this is surprisingly terrible for just a pawn down
+[14:44:05] nyanners: or perhaps unsurprisingly :o
+[14:44:20] nyanners: d5 is really strong
+[14:44:36] nyanners: not too difficult, of course
+[14:45:52] nyanners: if black just flagged i wouldnt blame that
+[14:45:52] joonaf: damn d5 was a nice move I missed :(
+[14:47:23] nyanners: can insert Qg6+ when pawn takes
+[14:47:38] nyanners: looks like instawin
+[14:47:54] nyanners: so black doesnt take :o i like the spirit
+[14:48:09] nyanners: Rxf5 suggests itself but ew calculation..
+[14:48:40] nyanners: if youre really lazy i suppose Qf4 is fine. but it has to be Rxf5
+[14:48:55] nyanners: though i admittedly didnt calculate, so dont do as i say
+[14:48:55] joonaf: I failed to develop my LSB and a8 rook
+[14:49:10] joonaf: or the other rook
+[14:49:10] joonaf: and my knight is on the rim..
+[14:49:10] joonaf: and king in the center
+[14:49:25] joonaf: I have nothing
+[14:49:41] nyanners: is this a resignation speech
+[14:50:11] nyanners: or a "doesnt matter now we ball" speech
+[14:50:26] simonwashere: black is winning because reasons, just not very convincing reasons
+[14:51:27] nyanners: if white takes too long that adds some chances
+[14:51:58] nyanners: perhaps the decision to take on f5 has to come from the HEART
+[14:52:13] nyanners: if you dont want to, then you dont want to. if you want to, then you want to
+[14:52:13] nyanners: calculation probably wont change that
+[14:52:13] simonwashere: now is the time for a daring queen sac, Qxf5
+[14:52:28] nyanners: oooohh that one black is not expecting for sure
+[14:52:44] nyanners: so theres that
+[14:52:59] simonwashere: our main weapon is surprise
+[14:52:59] nyanners: wouldnt be the weirdest brain slip ive ever seen
+[14:52:59] nyanners: or made, for that matter
+[14:54:30] nyanners: i feel white wont play it
+[14:54:46] nyanners: he who hesitates is lost
+[14:57:49] nyanners: this i have no idea how to evaluate
+[14:58:04] nyanners: which has to be, well, some sort of improvement for black
+[14:58:04] simonwashere: dead drawn position
+[14:58:49] nyanners: maybe its as simple as "black is dead lost" as i just realized the actual purpose of that was to prepare Rc7+
+[14:58:49] nyanners: by blocking the diagonal
+[14:59:20] simonwashere: ouch
+[14:59:20] nyanners: and there it is
+[15:00:06] nyanners: even if white allows Qxg2+ that is not nearly good enough anymore
+[15:00:21] nyanners: resigns is fair enough at this point
+[15:01:38] simonwashere: run away
+[15:01:53] joonaf: didn't even see that I lose the rook :/ and with a check..
+[15:02:08] simonwashere: gg
+[15:02:08] nyanners: tough one :o gg
+[15:02:08] joonaf: ggwp
+[15:03:09] joonaf: I thought the opening went fine, and then I just failed to develop and get king to safety
+[15:03:25] joonaf: /w but White has a clear advantage after the opening
+[15:03:40] nyanners: seems black mixed like 3 systems
+[15:03:40] edmachado: yeah, your position on middle game is so much harder to play than mine
+[15:03:40] joonaf: :P
+[15:03:55] edmachado: I just blitzed the obvious moves, but you had things to sort out
+[15:04:26] edmachado: if you got to the endgame, you could have a chance, given my worse pawn structure
+[15:04:56] nyanners: Bb4 doesnt really fit well in this whole stonewall funnies thing
+[15:04:56] edmachado: gg, good luck for the rest of the season
+[15:05:11] joonaf: yeah, I misestimated the position
+[15:05:11] joonaf: thanks, same to you!
+[15:05:57] nyanners: so black goes for Bb4 Ne4 h5 which.. is also a thing in some lines. here white is too active though so on move 13 the lack of a move was fel
+[15:06:43] nyanners: like ideally youd go for some g4 and/or Qc7/Qd6 but yeah..
+[15:06:43] nyanners: Nd7 even sorta gets in the way now
+[15:07:59] joonaf: I really though after 12 moves I was at least equal
+[15:08:15] nyanners: yea clearly youve seen this idea before
+[15:08:30] nyanners: now well, theory is just the proof of the ideas :p
+[15:09:01] nyanners: time to dig into the nuances now
+[15:09:01] edmachado: surprised to see 16 Ke2 is a blunder :p
+[15:10:02] nyanners: i feel id prefer other blunders like 16 e4
+[15:10:32] nyanners: the most difficult part of O-O is seriously considering it :o
+[15:10:48] nyanners: basically e4 would be intending to meet Qc7 by closing with e5
+[15:11:34] edmachado: its a funny line!
+[15:12:05] edmachado: it's a funny line after 16. 0-0
+[15:14:24] nyanners: chess :o
+[15:14:24] nyanners: tough game gg
