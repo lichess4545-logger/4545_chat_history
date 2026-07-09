@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/BBHTDmM2
+White     : monocarp
+Black     : rmnl
+Time      : 45+45
+Captured  : 2026-07-09 03:38:19 UTC
+Game ended : 2026-07-09 02:18:05 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[01:01:14] rosey001: Lets go monocarp
+[01:07:04] monocarp: (4.Bg7) I had actually been expecting the move order of g6 before d6, but w/e
+[01:09:37] monocarp: no castles?
+[01:14:42] monocarp: pretty sure this is a free pawn. At the end Nec3 will double defend a knight on b5
+[01:15:12] monocarp: also, I've seen this position with O-O and Qd2 inserted
+[01:15:12] atrueravenclaw: 7...b5 is unexpected. 7...e5 is more typical. I think here 7...5 drops a pawn  since e4 is protected
+[01:15:43] monocarp: maybe here black has Nb4 at the end, though, which would have been otherwise disallowed
+[01:17:14] atrueravenclaw: what is idea of Nb4
+[01:17:44] atrueravenclaw: 9...Nb4 10. a3
+[01:39:07] monocarp: (12... Rfb1) I had been expecting the other rook. I mean I guess it makes sense because a and b are open as in the benko
+[01:39:22] monocarp: which this position bears at least some resemblence to
+[01:42:40] monocarp: I don't see a tactic for black yet (i.e. a really good knight move)
+[01:43:57] monocarp: (13.O-O) just hoping that any knight that goes to b4 I'll be able to kick evenually
+[01:45:43] monocarp: I suppose the benefit of gambiting a pawn with ...b5 was that I don't have a c pawn for when black plays ...c6 later
+[01:46:29] monocarp: (14... Na7) this drops the knight, no? I also have a bishop on that square
+[01:47:15] monocarp: I'll check for tactics
+[01:50:18] monocarp: (16. Qxe2) not to presume, but I imagine black had been calculating Na7 before I played d5 maybe? idk
+[02:04:19] monocarp: (19... f5) candidates here are Nb5 and Qb5, I think for now all kingside moves I make would just help black's desperation
+[02:08:23] monocarp: (21... f4) Bb6 is possible here, that or Bf2
+[02:09:40] monocarp: I sort of favour f2, because while I don't see anything wrong with Bb6, I don't have to take any risk at all to win
+[02:11:57] rosey001: That makes sense, Bb6 seems like the best move but Bf2 is obviously winning and is safer
+[02:17:35] monocarp: (26.Qa3) forcing a trade :)
+[02:18:05] rosey001: Rc8 to force a rook trade next?
+[02:18:05] rosey001: great game
+[02:18:36] monocarp: thanks
