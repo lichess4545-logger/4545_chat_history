@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/EbJviaJz
+White     : mqll
+Black     : time_lord19
+Time      : 45+45
+Captured  : 2026-07-09 14:50:27 UTC
+Game ended : 2026-07-09 13:30:14 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[12:07:46] versaumnisgrund: Good Luck @time_lord19 !
+[12:18:58] time_lord19: (...8) Opening has been interesting, I think its fine for me.
+[12:30:25] time_lord19: I think that was a pretty good move
+[12:30:40] time_lord19: was preping it for some time
+[12:31:26] time_lord19: ne4
+[12:32:12] mqll: Ok. First exchange of the game. Been building up to this.
+[12:39:49] time_lord19: by my calculation the horse is in a bad shape,
+[12:53:50] versaumnisgrund: Could black have won a pawn after Bxe5 dxe5 Nd7
+[12:58:11] versaumnisgrund: Nd7 with the idea f5
+[13:06:03] nyanners: umm Bxe5 is a reasonable positional concession which might not even be worth the pawn
+[13:06:18] nyanners: concretely white might have Rd6 or Qh5 that would try to hold the pawn
+[13:08:21] versaumnisgrund: Thank you!
+[13:10:08] goldenretrieverchess: Gooo mqll :D
+[13:10:38] nyanners: i mean, its still a reasonable question. maybe all of that fails idk
+[13:10:53] nyanners: ultimately the principle of i go here they go there beats all the others
+[13:11:24] versaumnisgrund: I don't calculate as quickly espescially when watchinig a game :)
+[13:11:39] nyanners: yeah more fun to not calculate at all :o
+[13:11:55] nyanners: but sometimes we still get tricked into doing it
+[13:11:55] nyanners: not cool
+[13:11:55] versaumnisgrund: Hahah
+[13:13:11] nyanners: like here. 28 trade or not trade might kinda take some calculation
+[13:13:11] nyanners: very annoying
+[13:13:41] versaumnisgrund: Of course or Bd5 instaead of Bc6
+[13:13:57] nyanners: yeahh
+[13:14:12] nyanners: id like Bd5 on principle i think. the principle being to block some Rd6
+[13:14:27] nyanners: like Bd5 Rd6 Ra7 idk
+[13:14:43] nyanners: and then a5 looking good
+[13:14:58] nyanners: this one is clearly better for white in comparison
+[13:15:13] nyanners: which.. might still not mean much
+[13:15:44] nyanners: like, surely white must be some sort of better? and yet i dont see what to do with this file
+[13:17:31] nyanners: so, maybe you do something with the bishop? but f3 is probably only good for black, Bf1-Be2-Bd1-Bb3 maybe unironically
+[13:18:32] nyanners: and now black might be going for a5. spooky
+[13:18:32] time_lord19: oops
+[13:19:03] nyanners: ah yea the pawn. forgot that too
+[13:19:03] nyanners: i guess thats actually a problem
+[13:19:03] nyanners: had to go Bd5 after all
+[13:19:18] time_lord19: should have played kf6 first
+[13:19:18] nyanners: yeah this is kind of a big problem
+[13:19:33] nyanners: now the rooks are actually working
+[13:19:49] nyanners: the pawn doesnt even matter
+[13:20:34] nyanners: now everything is hanging
+[13:20:49] nyanners: Be8 forced(?) Re5
+[13:20:49] nyanners: or Rxa6. or whatever you want really
+[13:21:50] nyanners: yea this is borderline resigns
+[13:21:50] nyanners: that escalated really quickly
+[13:22:36] time_lord19: looks super over
+[13:29:28] versaumnisgrund: gg
+[13:30:59] nyanners: gg
+[13:32:15] time_lord19: gg
