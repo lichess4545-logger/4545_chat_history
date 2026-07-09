@@ -1,0 +1,50 @@
+Lichess game chat log
+Game      : https://lichess.org/uCuXRNOx
+White     : enprisewithease
+Black     : marketmike
+Time      : 45+45
+Captured  : 2026-07-09 23:21:56 UTC
+Game ended : 2026-07-09 22:01:54 UTC
+Messages  : 40
+────────────────────────────────────────────────────────────
+
+[20:03:47] namegoesinhere: go mike!
+[20:04:33] enprisewithease: (4.Nf3) This line potentially has lots of crazy tactics if I can find them.
+[20:07:37] kborman: Let’s go Mike!
+[20:09:24] namegoesinhere: (6.d4) guess you should probably take here and not allow d5, but it's a bit annoying to run into cxd4 Nxd4 winning a tempo on the queen
+[20:14:16] namegoesinhere: (7.d5) just Qc7 here? exd5 exd5 Qc7 0-0 looks incrediblely dangerous so best to keep the file closed
+[20:21:38] namegoesinhere: (8...dxe6) ...fxe6 was interesting but probably not good with black so far from castling
+[20:22:09] namegoesinhere: (8...dxe6) this was if 0-0 Nf6 e5 at least we have d7 for the knight
+[20:22:09] namegoesinhere: (8...dxe6) *this way
+[20:23:25] enprisewithease: (9.e5) Maybe this will be a quiet game.
+[20:32:51] kborman: Bb5?
+[20:33:06] enprisewithease: (11...Bb5) wow, did I miss a tactic already
+[20:33:52] enprisewithease: (11...Bb5) i knew today was not my day
+[20:33:52] namegoesinhere: (11...Bb5) yeah I think this is just a clean(?) exchange for black
+[20:35:08] namegoesinhere: (11...Bb5) I guess something like Qe2 was neccessary
+[20:36:24] namegoesinhere: (12.Qe1) white should still have some attacking chances against the black though and it will take a while to develop the black k-side
+[20:36:39] namegoesinhere: (12.Qe1) *black king
+[20:36:55] kborman: 0-0-0 created a lot of tactics for both sides. Nf5 crossed my mind getting two rooks for the queen plus a pawn
+[20:39:27] namegoesinhere: (15.b4) hmm, don't love inviting the knight in to the e5 square like this
+[20:44:47] enprisewithease: (16.Nxe5) If I can hold on to this for a win or draw, then that blunder will become a sacrifice for initiative.
+[20:45:33] namegoesinhere: (16.Nxe5) I think white is winning the exchange back now? Nc7 looks hard to stop
+[20:45:48] kborman: b6 maybe
+[20:46:04] namegoesinhere: (16.Nxe5) b6 Nc6 fork
+[20:47:05] namegoesinhere: (16.Nxe5) the knight on e5 is a monster
+[20:47:50] kborman: That will take several moves, maybe just get the pieces active while white grabs a rook
+[20:48:51] namegoesinhere: (16...b5) yeah, I was wondering about something like Nf6 Nc7 Rd3 in that vein
+[20:49:52] namegoesinhere: (16...b5) *Rd7
+[20:59:16] namegoesinhere: (18...Kxd8) I like a4 here, just try and explode the queenside even more
+[21:04:20] enprisewithease: (19.Bxc5) I don't see anything. Wasted clock.
+[21:10:11] enprisewithease: (21.Rd1+) I don't feel  like I have enough time to contain black's pieces.
+[21:17:18] enprisewithease: (23.Ne4) I am not calculating at all today.
+[21:32:53] enprisewithease: (26.h3) I wanted to play Rd3
+[21:39:14] enprisewithease: (29.Rd3) I am playing more like blitz than classical. Part of me just wants this to be over.
+[21:40:00] enprisewithease: (30.Kh2) One last gamble.
+[21:42:03] enprisewithease: (31.Rg3+) probably not working with my rook pinned
+[21:45:06] enprisewithease: (33.Qxh7) now does the pin finish me off?
+[21:48:24] enprisewithease: (35...Rg8) I think he can move his king up with his pawns and I am toast.
+[21:51:13] enprisewithease: (37.Qb6+) don't by tricky EnPrise
+[21:59:21] enprisewithease: (43...Ke5) is this winnable?
+[21:59:51] namegoesinhere: (43...Ke5) it should be winning for white
+[22:00:22] namegoesinhere: (43...Ke5) black has no passer and the h-pawn means black can't try and take a2
