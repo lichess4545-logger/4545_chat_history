@@ -1,0 +1,86 @@
+Lichess game chat log
+Game      : https://lichess.org/I0fWSZoC
+White     : macha1313
+Black     : rjhoro
+Time      : 45+45
+Captured  : 2026-07-09 00:05:34 UTC
+Game ended : 2026-07-08 22:45:27 UTC
+Messages  : 76
+────────────────────────────────────────────────────────────
+
+[20:32:27] pineapplechiffoncake: Let's go macha!
+[20:32:43] cinemashow: gl macha!
+[20:46:59] cinemashow: (7...Bd6) h3 here I think?
+[21:12:40] cinemashow: (14.Qxe2) macha doing well so far I think
+[21:13:26] cinemashow: (14.Qxe2) she's thinking well on the stream
+[21:13:56] bufferunderrun: let's go macha!
+[21:14:11] guitarspider: (14...Bxe5) go macha!
+[21:19:01] bufferunderrun: Nf3 isn't bad, in general, but here it might make c4 an issue
+[21:19:46] cinemashow: (16.Nf3) yes ...dxc4 Nxc4 would have been great for White
+[21:19:46] bufferunderrun: since Qxc4 isn't possible due to Ncxe5 and on Qd4 Nxf3+
+[21:20:17] guitarspider: (16.Nf3) yeah, Nd2 was actually well placed
+[21:20:32] guitarspider: (16.Nf3) could have brought a rook to the center
+[21:21:02] bufferunderrun: yeah, maybe Rfe1 was better
+[21:22:19] bufferunderrun: black missed dxc4 though, so macha can do something about c4
+[21:25:21] bufferunderrun: 17.Rac1 perhaps
+[21:25:52] cinemashow: (16...a6) I think so too
+[21:29:41] bufferunderrun: dxc4 isn't the end of the world, since macha probably would have some counter-play against b7, but isolated pawns usually would be a
+[21:29:56] bufferunderrun: liability
+[21:31:59] bufferunderrun: with the rook on d1, however, Qxc4 maybe an option hmmm
+[21:32:29] sideshow_bob: Think I preferred 17... dxc4 and ..Qc7 for black
+[21:33:15] bufferunderrun: sincve Ncxe5 Qd4 targets the knight on d7 and threaten a mate on g7
+[21:37:04] cinemashow: (18...Nd7) not a fan of c5
+[21:37:50] bufferunderrun: 19.Rac1 made more sense
+[21:38:36] cinemashow: (19.Qe3) doesn't seem any need to rush when you cam play improving moves like Rac1
+[21:39:52] bufferunderrun: perhaps she was considering Rac1 Qa5 hitting both a2 and c5 hmm
+[21:40:22] bufferunderrun: but Qa5 a3 Nxc5 runs into b4, I think
+[21:42:09] bufferunderrun: 3 attackers on e5, 3 defenders, so the pawn is fine for now
+[21:42:24] bufferunderrun: Rac1 is still an option
+[21:44:57] bufferunderrun: there is a3, but I think a5 and there is no b4 and now b3 pawn is weaker
+[21:46:59] bufferunderrun: b6 wasn't great, this just solves white's weaker c5
+[21:47:44] bufferunderrun: cxb6 is looking good to me
+[21:48:45] bufferunderrun: and with b4 we are back to having an isolated c5 again
+[21:49:46] inter-temporal: (22.bxc5) go macha! (my fantasy team B8)
+[21:50:02] bufferunderrun: our fantasy b8 :p
+[21:53:20] guitarspider: (22...Ne7) the c-pawn isn't ideal but it's also not that easy to get for Black
+[21:53:20] guitarspider: (22...Ne7) Bd4, Rac1
+[21:53:20] bufferunderrun: tough position, would have to defend a pawn down, since c5 is gone, and  d5 is a protected passed pawn
+[21:53:20] inter-temporal: (22...Ne7) double go macha (srry rjhoro)
+[21:53:35] guitarspider: (22...Ne7) that's going to be annoying for black
+[21:53:35] bufferunderrun: Bd4 Nf5 unfortunately
+[22:01:13] bufferunderrun: Nxc5 then Rac1 to pin the knight and Bd4 perhaps
+[22:01:28] bufferunderrun: so for this reason I think black wants Qxc5
+[22:03:15] bufferunderrun: white gets free Bd4 and now maybe Qg3 f4-f5 would be possible
+[22:11:54] bufferunderrun: 25.g4 probably, you don't want to allow Nf5
+[22:12:39] bufferunderrun: and the knight isn't doing much on h4 anymore
+[22:13:56] bufferunderrun: I meant 26.g4, but maybe on move 25 as well
+[22:15:43] bufferunderrun: 27.Rb1 or Rxc4, probably Rb1 is a better choice
+[22:17:14] bufferunderrun: the knight isn't hanging, since Rxh4 Bg5
+[22:19:16] bufferunderrun: so Bg5 Rhc4 Rxc4! and then Bxe7
+[22:19:16] sideshow_bob: forced sequence now
+[22:20:02] bufferunderrun: otherwise, if Bxe7 directly Rxc1, 2 attackers on c1, 1 defender of c1, so drops the exchange there
+[22:20:17] bufferunderrun: she sees Bg5!
+[22:22:49] sideshow_bob: Rxc1 Rxc1 Rc4 Rxc4 dxc4 Bxe7 look good for black with passed pawn but N v B
+[22:23:35] bufferunderrun: Rxc1 Rxc1 Rc4 Rxc4 dxc4 Bxe7 c3 Bb4 c2 Bd2 Nc5 Kf1 Nd3 looks like black's best option here
+[22:25:52] bufferunderrun: this is still bad for white, but at least not down a whole piece
+[22:28:40] bufferunderrun: 31.f6 looks alright
+[22:31:12] berndwind: Go macha!
+[22:31:58] guitarspider: (32...Kf7) hi bernd
+[22:32:13] guitarspider: (32...Kf7) not looking too good unfortunately
+[22:32:13] guitarspider: (32...Kf7) but there is still some play
+[22:32:43] bufferunderrun: yeah, it's not completely hopeless
+[22:34:45] bufferunderrun: probably should have kept the bishop
+[22:35:16] bufferunderrun: you want to keep your pieces if you are down material
+[22:35:16] inter-temporal: (34...e4) and use ur K to keep out the enemy R
+[22:36:01] bufferunderrun: Kh2 also brings the king away from the pawns that are trying to promote
+[22:37:02] bufferunderrun: connected passers, can't be stopped, gg
+[22:39:05] bufferunderrun: 37...Rc2+, e2, then d3, d2 and Q
+[22:40:53] bufferunderrun: not sure I like d3
+[22:41:08] bufferunderrun: Rxe3 d2 Rd3
+[22:43:55] bufferunderrun: so 21.b4 was a blunder and 39.Kf4
+[22:44:26] rosey001: g5!
+[22:44:41] rosey001: yeeeeeeaaaahhhhhhhhh
+[22:44:41] bufferunderrun: unless I'm being blind Rxe3 d2 Rd3 created chances
+[22:45:11] bufferunderrun: gg
+[22:45:11] sideshow_bob: gg both
+[22:50:46] guitarspider: gg
