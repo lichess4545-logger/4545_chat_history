@@ -1,0 +1,129 @@
+Lichess game chat log
+Game      : https://lichess.org/ka187bvN
+White     : elias_nl
+Black     : electricfalcon
+Time      : 45+45
+Captured  : 2026-07-09 12:07:32 UTC
+Game ended : 2026-07-09 10:47:32 UTC
+Messages  : 119
+────────────────────────────────────────────────────────────
+
+[10:12:39] electricfalcon: how did I miscalculate that ?
+[10:12:54] electricfalcon: I spotted it with the knight and then thought with the bishop it was fine?!
+[10:13:39] electricfalcon: I should've just let the pawn go
+[10:27:54] nyanners: ah thats rough
+[10:27:54] nyanners: got some fight left though
+[10:28:55] genturgidson: Could there be some sort of repetiton coming for black?
+[10:29:10] genturgidson: Hmm, maybe not.
+[10:29:41] nyanners: umm Qf2 block would be really good i think
+[10:29:41] nyanners: the problem black has is needing the rook on f-file but wont happen
+[10:30:41] nyanners: maybe chances increase if you can bait some sort of Qxb7
+[10:30:57] nyanners: white's pieces are too well placed and need to be distracted
+[10:31:12] nyanners: ooh is white playing into it??
+[10:31:12] nyanners: or is this just a russian repeat twice thing
+[10:31:12] electricfalcon: I'll happily take a draw here, but guessing they're playing for added time?
+[10:31:27] nyanners: ummmmmmm playing with fire
+[10:31:27] nyanners: for sure
+[10:31:42] nyanners: now Qg5 Kf2 enables Rf8
+[10:31:58] genturgidson: Opening all the checking opportunities here. Risky.
+[10:32:13] gary0892: Wow Qf2 just seemed way safer
+[10:32:28] electricfalcon: dang sped that one. Got Ng4 to block the check train
+[10:32:28] nyanners: oh white still has Nf3 i guess
+[10:32:43] nyanners: so okay no panik.. yet.. probably
+[10:32:43] electricfalcon: well guess that would lear to h5
+[10:33:14] genturgidson: Nf3 Rf1 and at last black is exerting pressure.
+[10:33:29] genturgidson: Well other way around, Rf8 then Nf3
+[10:33:29] nyanners: eh i mean, this is absolutely nothing if white plays Nf3
+[10:33:29] nyanners: if white doesnt..
+[10:33:59] electricfalcon: expecting Nf3 to block
+[10:33:59] nyanners: a line like Kg1 Qe3+ might even be winning
+[10:34:15] nyanners: cant block with Q, cant move K, blocking with R has Qe1-+
+[10:34:30] nyanners: okay white sees
+[10:34:30] gary0892: Nf3 Qh4
+[10:34:30] nyanners: worthless unfortunately
+[10:34:45] gary0892: g3 potential blunder?
+[10:35:15] nyanners: i suppose its worth a shot. i dont like that in something like Qh4 Kg1 Qg3 Qf2 all youve done is give white the perfect defensive setup
+[10:35:15] electricfalcon: dang, think I lost the momentum there
+[10:35:34] genturgidson: This is good for black. Objectively not good, but at our level this a good chance to get white to make serious mistakes.
+[10:35:49] nyanners: these and next moves are critical for sure
+[10:36:04] nyanners: i mean, black is bluffing of course, so Qh4 might be what is called for
+[10:38:06] genturgidson: I don't believe in Qh4. Best chance for tricks is something like Qd5 I reckon.
+[10:38:21] nyanners: you could just leave things as is and play h5
+[10:38:21] nyanners: that could be highest aura
+[10:38:52] nyanners: eh i feel black should encourage Qxb7
+[10:38:52] nyanners: but okay maybe another direction is like its just 2 pawns for piece theres no need to bluff all-in
+[10:40:08] nyanners: not sure why not Kg1
+[10:40:08] nyanners: maybe white is averse to Qf2 for some reason
+[10:40:24] genturgidson: Ke1 is an interesting move.
+[10:40:39] nyanners: i mean, unpin is not bad. but g1 seems like the clear choice to me
+[10:40:39] genturgidson: Black needs to remember the knight is unpinned.
+[10:40:54] genturgidson: Queen is hanging.
+[10:41:09] nyanners: im terms of tricks maybe id have liked to see Qa3 intending Qxf8 :D
+[10:41:55] nyanners: i can see that one actually landing enough of the time
+[10:41:55] genturgidson: Ooh yeah Qxf8 would have been an evil trick.
+[10:42:42] genturgidson: Qa3 would probably bait a6 to defend pawn, considering he played b6 to defend pawn when it was on b2.
+[10:43:13] nyanners: yes!! its very subtle
+[10:43:28] nyanners: especially after you just defended b7 so the focus is kinda there
+[10:43:28] genturgidson: However, black would probably start playing around with Qd2+.
+[10:43:44] genturgidson: But I don't think it amounts to anything anyway.
+[10:43:59] nyanners: yea Qd2 would be "thematic" even if black doesnt see Qxf8
+[10:45:30] genturgidson: Big blunder.
+[10:45:30] electricfalcon: well what a stroke of luck
+[10:45:30] gary0892: Oh wow
+[10:45:30] genturgidson: Qxc1+
+[10:45:46] genturgidson: White should have thought about that move.
+[10:45:46] nyanners: tenacity
+[10:46:01] electricfalcon: "never give up!" japanese fisherman meme
+[10:46:16] nyanners: c5 baiting Rc1 90 trillion iq
+[10:46:31] genturgidson: Now white is effectively down the exchange and many pawns.
+[10:47:02] nyanners: if white gets in Qxe6 maybe we can get the reverse trend :D
+[10:47:02] electricfalcon: just have to be careful of that e6 pawn now and getting stuck in a check loop
+[10:47:02] nyanners: aw black sees
+[10:47:17] elias_nl: okay this game was an embarrasment
+[10:47:17] nyanners: that will lower the drama score
+[10:47:32] nyanners: dang
+[10:47:32] electricfalcon: good game!
+[10:47:47] nyanners: chess as tragedy, exhibit Z
+[10:49:20] electricfalcon: what a turn around.
+[10:49:50] electricfalcon: I hoped for getting opponent stuck in an infinite check but it turned out better
+[10:49:50] nyanners: it often pays off to be as annoying as you can
+[10:50:05] nyanners: on the board, of course :o
+[10:50:05] nyanners: though some people extend it to off the board too.....
+[10:50:21] electricfalcon: haha indeed! A tale about it not being done till its done!
+[10:50:36] nyanners: on that note, i wouldnt resign as white XD
+[10:50:51] nyanners: like, i just blundered. surely opp can still blunder back at this material count?
+[10:51:22] electricfalcon: yeah indeed, I was worried about that e6 pawn and think white could've targetted and made it tricky
+[10:51:37] nyanners: in the world of ideas theres a little potential with queen and knight
+[10:52:07] elias_nl: Maybe I shouldn't have resigned, but I really didn't see a way to win or draw anymore and I was tilting like crazy
+[10:52:07] elias_nl: Not my proudest game
+[10:52:23] electricfalcon: We've all been there for sure
+[10:52:38] electricfalcon: those diagonals have caught me many times in league games
+[10:53:08] nyanners: yea overcoming the existential dread after a blunder can be tough
+[10:53:23] electricfalcon: time on the clock was quite high - think its usually good to suggest using a full 45 seconds at least to review before you move.
+[10:53:39] nyanners: it should be sufficiently rewarding in terms of results tho
+[10:53:39] electricfalcon: Aware I don't always do that too
+[10:54:09] electricfalcon: and that even with a full 45 seconds + I still blunder
+[10:54:09] elias_nl: Yeah, my time management was really bad this game
+[10:54:24] nyanners: i feel this isnt so much about playing too fast or not but some sort of lapse in board vision
+[10:54:24] elias_nl: I'm still quite new to classical so that's something I struggle with
+[10:54:55] nyanners: as white, in general, i feel id prefer to keep all pieces protected on principle
+[10:54:55] nyanners: like the move id like to play fast is Re1
+[10:54:55] electricfalcon: Indeed, its a bit of a shift. Its probably a good tip to just force yourself to set a 45 second timer
+[10:55:41] electricfalcon: but also as nyanners say, I have often spent time reviewing and still missed it
+[10:56:11] electricfalcon: you've got the time so you could even draw all the arrows for pieces attacking lines
+[10:56:11] nyanners: this sort of "returning long move" is a surprisingly common blind spot tbf
+[10:56:26] nyanners: like, the queen just got out of c1 and is "doing something else entirely"
+[10:57:42] elias_nl: I think in my mind I assumed the queen was stuck guarding e6 and just completely overlooked that the rook was in the diagonal of the queen
+[10:58:29] nyanners: heres a mind tricks bit
+[10:58:44] nyanners: if youre in a situation where you need to set traps for whatever reason (e.g. being dead lost), look for moves with two ideas
+[10:59:15] nyanners: the best ones are like, your opponent threatened something, so you defend it. but you also set up a subtle counter-threat with it
+[10:59:30] nyanners: of course, moves with two ideas tend to be good in general just as a matter of efficiency
+[10:59:45] nyanners: but when you need to be sneaky theres also this psychology bit
+[11:00:46] elias_nl: thanks, that gives me something to think about
+[11:01:16] nyanners: like, you kinda sorta fell for it, right. what happens is that people see the first idea and stop there
+[11:01:16] nyanners: Qh6, defends e6, thats it
+[11:02:02] nyanners: it feels dumb but you are certainly by far not the only one
+[11:02:17] electricfalcon: This is the aim of this league as well in a sense! To learn :)
+[11:04:19] elias_nl: Yeah, that's true. Anyway, thanks to both of you
+[11:06:36] nyanners: gl next :o
+[11:07:07] electricfalcon: thank you and gl!
