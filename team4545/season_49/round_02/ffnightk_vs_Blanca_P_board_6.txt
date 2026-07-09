@@ -1,0 +1,28 @@
+Lichess game chat log
+Game      : https://lichess.org/3SxaNyR2
+White     : ffnightk
+Black     : blanca_p
+Time      : 45+45
+Captured  : 2026-07-09 22:57:27 UTC
+Game ended : 2026-07-09 21:37:25 UTC
+Messages  : 18
+────────────────────────────────────────────────────────────
+
+[20:38:22] tundir: always fun to watch the fantasy
+[21:04:34] leverkuhn: I like what White has going here; center is strong and that g6 knight is begging for h2-h4-h5 at some point
+[21:08:53] leverkuhn: is it time for 10.h4 already? I think so. 10.Kb1 also reasonable
+[21:15:47] leverkuhn: White doesn't agree that the g6 knight is misplaced and trades it. Black's position now looks satisfactory to me
+[21:17:20] leverkuhn: 11...Ba6 with the idea of ...Bxc3 and ...b4 was another approach for Black
+[21:17:35] leverkuhn: not sure how much the pawn on a3 is going to hurt White here, it's hard to say
+[21:19:06] leverkuhn: the mystery of why White rejected 10.h4 deepens
+[21:20:07] leverkuhn: but better late than never for sure, it's still a nice move that needs to happen
+[21:20:53] leverkuhn: 13...a3 definitely a threat now
+[21:21:39] leverkuhn: 13.Bd2 probably the only satisfactory answer, but a good one, threatening 14.a4 himself
+[21:21:54] leverkuhn: *14.a3
+[21:24:41] leverkuhn: now I like 14.a3 Bxc3 15.Qxc3, that's a wonderful dark-square grip for White
+[21:26:13] leverkuhn: 14.a3 Bxa3 15.bxa3 b4 16.axb4 Qxb4 17.Na2! seems to fail for Black, but worth calculating more carefully
+[21:28:45] leverkuhn: White laughs in the face of everything Black thinks he's doing with 14.e5!?
+[21:29:31] leverkuhn: Intuitively I don't like it because Black can start to unwind his misplaced pieces with something like 14...Qb6 and 15...Be7
+[21:30:32] leverkuhn: we don't have 14...Qb6 15.Nxd5 tactics as Kb1 hasn't been played yet
+[21:38:41] leverkuhn: unfortunate, White would have had a dream position with 15.Qxc3!
+[21:38:56] leverkuhn: gg
