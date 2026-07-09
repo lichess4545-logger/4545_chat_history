@@ -1,0 +1,144 @@
+Lichess game chat log
+Game      : https://lichess.org/bwZ5dQlJ
+White     : foxitoplays
+Black     : sahkal
+Time      : 45+45
+Captured  : 2026-07-09 21:00:36 UTC
+Game ended : 2026-07-09 19:40:31 UTC
+Messages  : 134
+────────────────────────────────────────────────────────────
+
+[16:04:13] sahkal: waiting for foxito's other game to finish
+[16:26:52] sahkal: (5) so we get the italian game as expected, now my idea was a6 Ba7, delaying castling for the time being
+[16:28:24] jokicinator15: (6...Ba7) mama mia
+[16:29:55] sahkal: (7) Ng4 is an option, or d6. i like d6, he still shouldn't play h3 probably otherwise i get the kingside attack
+[16:31:27] sahkal: (8) now castling seems logical, Ng4 or Bg4 are also available
+[16:34:46] sahkal: (8) i just want to make sure i know what to do against the weird move Bg5. probably h6 Bh4 g5 works out, Nxg5 hxg5 Bxg5 worst case Bxf2
+[16:38:04] sahkal: (9) Ng4 always possible, don't think it achieves much. Re8 is an option, Ne7 is an option
+[16:38:50] sahkal: (9) Ne7 he might do Nc4 Ng6 d4 Re8, i think that's quite all right
+[16:39:51] sahkal: (9) i have to be mindful of the Ng5 moves
+[16:41:22] sahkal: (9) Re8 Nf1 Be6 is also a good option, playing for a quick d5 break. looks pretty equal with Bxe6 Rxe6 Be3
+[16:42:53] sahkal: (9) Re8 Ng5 Re7 and then h6 is fine. i feel like Re8 is more to the point here than Ne7, my knight is not obviously that great on g6
+[16:44:55] sahkal: (10) now he's ready to trade my bishop with Be3 but i couldn't really prevent that. Ng4 unclear what i'm accomplishing after Re2 and h3
+[16:45:41] sahkal: (10) so i better go Be6 now i think, and at least i get to play the d pawn break first probably
+[16:48:13] sahkal: (10) Be6 Be3 d5 Bxa7 Rxa7 exd5 Bxd5 i guess, looks decent
+[16:50:30] sahkal: (10) Be6 Ng5 Bxb3 Qxb3 would be a double attack but Qd7 defends both indirectly
+[16:56:22] sahkal: (11) okay, now i could play d5, otherwise he might go d4 next with some force. d5 he should take probably, then i might go Nxd5
+[16:57:23] sahkal: (11) since d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 Qf6 Re2 Bg4
+[16:59:55] sahkal: (12) so here i thought taking on e4 gives me some advantage, as his bishop gets closed out
+[17:01:58] sahkal: (12) he can still neutralize my dsb with Be3 but then i'm left with the better bishop
+[17:03:44] sahkal: (13) maybe now Ng4 is a good option, if i can trade the f1 knight then it can't get into the light squares in the center
+[17:04:00] sahkal: (13) then i can also support the center with f6 if needed
+[17:12:09] sahkal: (14) and now maybe this is a nice opportunity to reposition the knight to g6 as the c3 pawn is dominating it currently
+[17:13:10] sahkal: (14) although maybe Ne7 allows Ng5
+[17:15:42] sahkal: (14) so then how about Qf6, maybe Nd5 Bxd5 exd5 Ne7, looks okay, Bg5 Qd6, f2 hanging
+[17:21:17] sahkal: (17) okay and now this just looks like a nice small advantage to black, Ne7 Qg5 i think is not an issue, we can trade and Bc4 is fine
+[17:23:19] sahkal: (17) if Ng5 then also Bc4 looks okay
+[17:24:20] sahkal: (17) if something like Rad1 then Ng6 into f4 is the idea, but may be advisable to start with h6 first
+[17:32:29] sahkal: (19) if Qc4 i can think about both Bb5 and Qxg5
+[17:34:31] sahkal: (19) Qc5 Bb5 Nf3 Ng6 Qxc7 Nf4 is difficult to believe in for white, looks like a strong position for me with the attacking pieces
+[17:35:32] sahkal: (19) Qc5 Qxg5 Qxc4 Ng6 maybe g3 that's maybe more playable for white
+[17:38:20] sahkal: (20) d7 looks like the better square here for the bishop
+[17:38:50] sahkal: (21) if Rd1 i can go Bc8, not a problem
+[17:41:22] sahkal: (22) moves like h6, Be6 and Ng6 likely. white's c2 bishop is quite useless and that gives me some advantage
+[17:45:42] sahkal: (22) i think it makes sense and i have time to stop Qg5, by playing h6
+[17:47:44] inter-temporal: go sahkal!
+[17:52:21] rajjsinghh: i wonder where all black's time went
+[17:52:36] sahkal: (24) now his kingside is weak, maybbe we can switch back and start attacking on the other side. let's see what he does
+[17:56:55] sahkal: (26) maybe trade some rooks and rotate my queen around to the center/queenside
+[18:06:07] sahkal: (29) could've played the endgame as well but he gets Bd3-c4 quickly
+[18:07:25] sahkal: (30) fix the a4 pawn on a light square
+[18:09:28] sahkal: (31) soon i could start thinking about repositioning the knight
+[18:10:29] inter-temporal: (31...Nf8) k. got my coffee
+[18:10:44] inter-temporal: (31...Nf8) but Qs are still on and sahkal is not yet on increment?
+[18:10:59] inter-temporal: (31...Nf8) which means the game hasn't even started
+[18:13:01] sahkal: (32) moves like f6, Qd6 and c5 coming up most likely
+[18:15:34] sahkal: (33) if he takes on a5 then Qd6 Qe3 Qa3 is good
+[18:16:20] inter-temporal: (33.f4) going back thru the game... that is really funny how black's lsb toured the whole board
+[18:16:20] inter-temporal: (33.f4) then went back home to c8. lol
+[18:17:21] inter-temporal: (33...Qd6) was he just stubbornly resisting playing ...h6 until way late. :)
+[18:22:26] sahkal: (33) i think white's position is still full of weaknesses, maybe more than ever, and the c2 bishop is still bad, so nice advantage here
+[18:22:26] inter-temporal: (33...Qd6) this Lichess tools Kmap says sahkal has slightly better "activity"  (or maybe white has it. idk)
+[18:23:27] inter-temporal: (33...Qd6) but duh. it comes from some kind of engine analysis, so i won't reference it again during the game.
+[18:23:57] inter-temporal: (33...Qd6) toggle lichess tools "Off" .  done
+[18:26:29] sahkal: (34) probably not winning, i feel like it was never winning, but a nice position
+[18:28:31] fulmarsky: (35...f6) this is tense
+[18:29:02] inter-temporal: (35...f6) there is tension
+[18:29:48] fulmarsky: (35...f6) Go Foxito, oooh white has some luxurious time on the clock... poor black and queens are on the board.... TENSE
+[18:30:03] sahkal: (36) Nc5 Bc4 Nxb7 Qb6 looks decent. i wouldn't want Bc8 instead probably because that allows Bb3+
+[18:30:49] sahkal: (36) Nxe5 fxe5 loses the b4 pawn of course
+[18:33:22] sahkal: (36) maybe bxa5, and then Qc6 Nxe5 Qxc3
+[18:35:08] sahkal: (36) taking advantage of the bad bishop again in that line
+[18:36:25] inter-temporal: (35...f6) black has too much time on the clock. i think he's tempted to drift off and play a bullet game
+[18:36:55] inter-temporal: (35...f6) u guys gotta keep him on a short leash
+[18:39:43] sahkal: (36) let's say he dislikes those lines and play Qe3, then maybe axb4 and if cxb4 Nxd3 looks good Qxd3 Qxb4 Qd8 Kh7 Qxc7 Qd2 Kg1 Bh3 e5 f5
+[18:40:44] sahkal: (36) if Nxb4 that's a nice pawn structure advantage
+[18:43:02] sahkal: (37) Nxb4 maybe Bc4 threatening to trap the knight
+[18:44:03] sahkal: (37) i also have the endgame option with Qd2 but that's probably not that great
+[18:46:21] sahkal: (37) Qd7 was also an option winning the h3 pawn, maybe better
+[18:47:06] inter-temporal: (38.Nd5) the e pawn? for the lsb v N ending?
+[18:47:52] inter-temporal: (39...Qxd5) what was this. Qa7 maybe?
+[18:48:07] sahkal: (40) playing this way is a bit controversial because now i'm making his bishop good
+[18:48:38] sahkal: (40) but i feel like my knight is also good, and i'm up a pawn as well
+[18:48:38] inter-temporal: (40.Be4) maybe overlooked smth. but i see now. lol
+[18:49:24] inter-temporal: (40...Qa2+) maybe what overlooked this. time pressure perhaps
+[18:49:39] inter-temporal: (40...Qa2+) [white] not "what" lol
+[18:50:25] inter-temporal: (41.Kh1) inviting a draw?
+[18:50:40] inter-temporal: (41...Qxa4) "Never draw! (unless you feel like it)"-- Capablanca
+[18:50:55] jokicinator15: (42.Bxb7) is that a real capablanca quote?
+[18:51:11] jokicinator15: (42.Bxb7) i always attributed it to IT lol
+[18:51:26] sahkal: (42) here i thought c6 might be a nice option
+[18:51:41] inter-temporal: (42.Bxb7) "always plagiarize capablanca"--me
+[18:52:27] inter-temporal: (42...c6) kewl move
+[18:52:57] inter-temporal: (43...Qd1+) gotta be careful here, yeh?
+[18:53:58] jokicinator15: (43...Qd1+) never too late to throw a game away
+[18:54:13] fulmarsky: (44.Kg2) chess is a toughy, oooooooh it's a toughy
+[18:54:29] inter-temporal: (44.Kg2) Qs are just impossible to calculate on these open boards
+[18:54:59] inter-temporal: (44.Kg2) literally 8 checks by the black Q are possible.
+[18:55:14] inter-temporal: (44.Kg2) not all safe, oc. but still...
+[18:55:30] fulmarsky: (44.Kg2) the angst of the seconds ticking down
+[18:56:31] fulmarsky: (45.Kg1) oh dear oh dear  ...Nf3+  oh dear
+[18:56:46] jokicinator15: (45.Kg1) Nf3 look solid
+[18:57:17] inter-temporal: (45...Qf3) yeh. AND there's minor pieces too. maybe not anymore
+[18:57:32] inter-temporal: (47.Kf2) then, then, all the freakin N moves....
+[18:57:47] inter-temporal: (47.Kf2) nutty endings with Qs or Ns, for me anyway
+[18:58:18] jokicinator15: (47.Kf2) bishop v knight, a tale as old as time
+[18:58:18] inter-temporal: (47.Kf2) tracing out N-paths
+[18:58:33] inter-temporal: (47...Ne5) yeh. keep it simple
+[18:59:03] sahkal: (48) let's see whether this endgame is winning or not. i thought it is, but at least it's a risk-free position
+[18:59:03] inter-temporal: (48.Ke3) two moves from c6
+[18:59:18] inter-temporal: (48...Kf7) but a tempo on the lsb helps, yeh?
+[18:59:18] inter-temporal: (49.Kd4) or no. probably no
+[18:59:34] inter-temporal: (49...Ke7) wait. definitely yes
+[19:00:35] inter-temporal: (50...Kd8) white aims for h5, but not gonna make it, i think
+[19:01:20] inter-temporal: (51...Kc7) we'll see
+[19:07:41] sahkal: (53) i think g4 was better there instead of Be4
+[19:12:15] inter-temporal: (59.Bc6) diligently tracing out N-paths again.
+[19:13:32] inter-temporal: (59.Bc6) should black just push the f-pawn? at every opportunity?
+[19:14:02] inter-temporal: (60.Kf3) it gets blockaded by Bf3 AND Bf1 though
+[19:15:34] sahkal: (61) now that we force c4 it becomes a lot more comfortable as the c pawn is difficult to attack
+[19:17:36] sahkal: (62) i think the blockade cannot be maintained on any square along the f file
+[19:19:38] sahkal: (64) this is easy and methodical now unless i'm misunderstanding something
+[19:21:25] sahkal: (66) should've done Kf4 first, that would've been more harmonious
+[19:22:26] jokicinator15: (66.Ke3) why not f4?
+[19:23:42] inter-temporal: (66.Ke3) i think he prefers the black K in front of the f-pawn?
+[19:24:13] jokicinator15: (67...Nb4) ah Nb4 Bc8 Kf4 eh?
+[19:25:14] inter-temporal: (68...Kf4) isn't this the "tail hook" by the lsb
+[19:25:14] inter-temporal: (68...Kf4) smth like that
+[19:26:00] sahkal: (70) back on track
+[19:26:00] inter-temporal: (70.Ke2) back to Nd4
+[19:26:30] inter-temporal: (71.Kf2) Kg5 now?
+[19:27:01] inter-temporal: (71.Kf2) gives up too much ground, perhaps. but it's another pawn, right?
+[19:33:38] sahkal: (74) now Nf6 Kg5 we can even take the h5 pawn without the white king getting active, so we'll do that
+[19:34:54] inter-temporal: (75.Kh3) surprise
+[19:35:09] sahkal: (77) good, nice win
+[19:35:24] inter-temporal: (77.Bc8) white K can't defend
+[19:36:41] inter-temporal: (79...f4) completely cut off.
+[19:40:00] inter-temporal: (92.Kh6) cute R
+[19:40:15] jfiras: gg !
+[19:40:15] inter-temporal: gg
+[19:40:15] rajjsinghh: gg
+[19:40:15] jokicinator15: gg
+[19:41:16] inter-temporal: this is some kind of record.
+[19:41:31] inter-temporal: when do we see sahkal win a game with 14+ minutes left?
+[19:44:05] sahkal: haha
