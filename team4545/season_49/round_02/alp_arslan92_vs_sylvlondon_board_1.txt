@@ -1,0 +1,105 @@
+Lichess game chat log
+Game      : https://lichess.org/jKw8FClA
+White     : alp_arslan92
+Black     : sylvlondon
+Time      : 45+45
+Captured  : 2026-07-09 21:07:41 UTC
+Game ended : 2026-07-09 19:47:33 UTC
+Messages  : 95
+────────────────────────────────────────────────────────────
+
+[18:01:28] sylvlondon: dawn, I was expection h4 he goes Qh3 ! I remember there is piece sac involved but I'll have to figure out by calculation.
+[18:24:52] alp_arslan92: (14...dxe5) Finally put the little ones to bed, gotta time my games differently from now on...
+[18:25:38] alp_arslan92: (14...dxe5) I'm not sure I played this correctly. I vaguely remember a bishop on f6 and e5 being played in this b5 line.
+[18:25:38] alp_arslan92: (14...dxe5) Not sure if this concrete one though...
+[18:26:08] alp_arslan92: (14...dxe5) A thematic idea in many lines was Nxe6 followed by g5. Not sure it does any good here though. Maybe?
+[18:27:09] alp_arslan92: (14...dxe5) 15.Ndxb5 axb5 16.Nxb5 Qa5 17.Nd6+ Ke7 18.Nxb7 Qxa2, not idea what's going on there.
+[18:27:40] sylvlondon: I though I was cooked on Nxb5 but looks like I have strong counerplay on a file.
+[18:30:12] alp_arslan92: (14...dxe5) I think 15.Ndxb5 axb5 16.Nxb5 Qb6 17.Nd6+ Ke7 18.Nxb7 exf4 is good for Black...
+[18:31:43] sylvlondon: what is Nxe6 ?! not even in my radar
+[18:32:44] alp_arslan92: (16.g5) 16...Be7 17.Bxb7 Qxb7 18.Qxe6 looks tricky enough
+[18:32:59] alp_arslan92: (16.g5) Those ideas existed in other lines anyway
+[18:33:15] alp_arslan92: (16.g5) e.g. 12...Rg8 13.Nxe6 fxe6 14.g5 was super strong in my prep, similar ideas.
+[18:34:01] alp_arslan92: (16.g5) Not sure how the Bg2 Bb7 opposition influences these positions, but if I get to nail down Black's king in the center, I'm happy
+[18:35:32] jg777: Wow such big moves this game, e5 followed with Nxe6 then g5- big stuff. Go Alp!
+[18:40:53] jg777: Knowing how Alp can have some super heavy prep, with these sequences of moves I’d be tempted to give the piece back with Bxg2 Qxg2 0-0,
+[18:41:39] jg777: Yeah, sylvlondon seems to agree there
+[18:42:56] alp_arslan92: (17...O-O) Obviously 18.gxf6 suggests itself. I think 18.Ne4 Rac8 doesn't really make sense.
+[18:43:11] c01b01: hello?
+[18:44:44] c01b01: anyone there?
+[18:45:14] jg777: Well, those in the spectator chat are.
+[18:45:29] c01b01: can the players see our spectator chat?
+[18:46:30] jg777: No, that is why it’s a spectators chat. They’ll be able to access it after the game.
+[18:46:46] goldenretrieverchess: Hey! No they can’t.
+[18:47:31] jg777: Possibly headed to a quick endgame.
+[18:52:05] fork2020: Go alp_arslan92!
+[18:53:52] jg777: I think Alp needs the pieces on the board for now, but I’m a bit worried as I don’t see a clear plan ahead.
+[18:54:23] jg777: The E pawn probably needs to be handled asap, but unsure how to go about it.
+[18:57:26] jg777: Yeah, Rge1 but I thought Qf4+ with Re8 and wasn’t sold on it.
+[19:00:29] jg777: e5? I thought white wins back the pawn here after Nd5 stuff?
+[19:05:03] jg777: Oh I guess Nd5 isn’t as good because Wf5, I thought Ne7+ there but duh, Ra7 holds that square.
+[19:05:18] alp_arslan92: (23.h3) Kind of trying to believe in my pseudo compensation
+[19:05:49] alp_arslan92: (23.h3) 23.Nd5 Nxd5 24.Qxd5+ Kh8 25.Qxe5 Qxe5 26.Rxe6 Rf2 didn't look right
+[19:07:35] jg777: Rook is on e5 not e6, I don’t think Rf2 was as much of a problem there. But not sure after Nd5 Qf5 there.
+[19:08:52] jg777: I think now the E pawn coupled with the super weak h pawn makes Alp’s position a real chore.
+[19:09:37] grzybozbur: rf2 looked very unpleasant for white, with the weak h2 and 1st rank
+[19:10:23] jg777: Yeah but rook can likely just hang on h file for a moment while back rank is fixed there, I certainly would prefer it to this stuff
+[19:10:38] grzybozbur: e pawn, on the other hand, looks very weak, as long as all the pieces are on the board
+[19:10:53] jg777: Yeah, Alp can keep pieces on the board here for sure
+[19:11:24] jg777: But even spending this time dealing with the E pawn, if we win it some point later, may be costly long term here.
+[19:11:24] grzybozbur: you don't want to put your rook on h1
+[19:12:10] grzybozbur: it doesn't even defend the pawn well, because black has mate on 1st rank
+[19:12:25] jg777: No, you put the e5 rook to hold h pawn, not the d1 rook.
+[19:13:56] grzybozbur: that just puts both rooks on the defence
+[19:14:43] jg777: I mean it is temporary because black doesn’t have 3 moves to coordinate their rooks anywhere in time, white challenges soon after
+[19:14:58] grzybozbur: the rh5 can't leave the file, h2 can't move, because it would restrict the rook and rd1 needs to stay on the 1st
+[19:15:44] grzybozbur: rf2 is already very well placed, and with white rooks so bad, the black king could maybe advance
+[19:16:14] grzybozbur: sf might maybe draw this, but i'd never go for this
+[19:21:20] jg777: I don’t see the issue, back rank is solved in one move, let’s say a4 or something, and we move on. It’s not a long term issue there
+[19:22:05] jg777: Here is going to be a long term issues dealing with h3 and black’s e pawn to me. More pieces add more complexity, sure, but a lot of effort
+[19:24:08] jg777: But Syvlv does have some piece coordination issues here, so there is that for Alp at the moment.
+[19:24:08] grzybozbur: yes, you can make a luft, and maybe you're fine, but it gives black a free move. i don't want to give the opponent moves
+[19:25:24] grzybozbur: especially when i don't know if there isn't any strong one
+[19:26:09] alp_arslan92: (26...a5) Maybe 27.Nxf6 Rxf6 28.Qe8+ Kh7 29.Qxe5 is not too bad
+[19:27:41] alp_arslan92: (27.Qc5) 27...Raf7 28.Nd6 Rd7 29.Nf5 looks like it's winning due to his on h4 and f8
+[19:29:12] alp_arslan92: (27...Raa8) Missed that...
+[19:30:44] jg777: Yeah I just think  other line with Nd5 and exchanges wasn’t bad for white, maybe just h4 worked there in some order and not even a R
+[19:30:59] sylvlondon: I have to finish in half an hour as my focus will decrease as France is playing !
+[19:30:59] jg777: A rook on Rh5 or h1 was needed, but this looks much more difficult for Alp to me
+[19:31:46] grzybozbur: maybe it wasn't, but it simplified the position and black has an easy game with no danger of losing
+[19:32:16] grzybozbur: here black still has problems to solve
+[19:32:47] jg777: Yeah I was going for a draw for Alp, not thinking of winning ideas there.
+[19:32:47] jg777: Yeah, more pieces here makes things more trick and complex for sure.
+[19:33:02] grzybozbur: or maybe he doesn't have problems any more
+[19:33:32] grzybozbur: can't black just take?
+[19:36:37] bxvrc2lh: is Nxh6 a threat?
+[19:36:37] jg777: I was wondering if sylv could have taken h3 there, yeah. Maybe there was some concern
+[19:37:08] jg777: Oh true, maybe syvl didn’t want the h file open for white rook
+[19:37:23] grzybozbur: i don't think it's about the h file
+[19:37:23] jg777: Not yet anyway with the queens on still
+[19:37:23] bxvrc2lh: yeah so like Qxh3-Nxh6 would ned to be considered
+[19:39:10] grzybozbur: if black can trade queens, then the e pawn suddenly can become dangerous
+[19:39:25] jg777: Hard for me to assess there. 7th rank could be weak enough but would there be enough pieces left? Although white gives a move before then
+[19:39:25] sylvlondon: I think I made progress in regrouping, my pieces are defending themselves and I set some tactical motive with the pin and backrank mate.
+[19:39:25] jg777: Yeah, queens have to stay for Alp here I think
+[19:40:57] jg777: I want to break some of the coordination without losing to much time for Alp, I thought perhaps Qc7
+[19:43:59] grzybozbur: this looks bad for white now, with a5 not hanging
+[19:44:30] grzybozbur: ok, now it looks lost
+[19:44:30] jg777: Trying to make the 4 pieces active and always threatening things here is a tough order for Alp. I don’t think I could manage it for long.
+[19:44:30] grzybozbur: am i missing something?
+[19:45:01] grzybozbur: g6, what does white do?
+[19:45:01] sylvlondon: g6 is wining ?!
+[19:45:16] bxvrc2lh: I would consider Rc8
+[19:45:31] bxvrc2lh: but g6 looks just winning
+[19:45:46] jg777: g6 Qc7, I don’t see a kill shot yet for sylv.
+[19:46:01] grzybozbur: a free piece?
+[19:46:17] jg777: Oh no queen takes duh
+[19:46:17] jg777: I was thinking gx
+[19:47:02] jfiras: gg !
+[19:47:02] goldenretrieverchess: gg
+[19:47:48] jg777: Yeah, what a game! That was insane ideas with e5-Nxe6-g5.
+[19:49:05] jg777: I thought Sylv made a good practical choice with giving the piece back and castling.
+[19:50:07] sylvlondon: I was expecting a sac on b5 but Nxe6 oaw ! This is thematic in this variation but still didn't expeted it.
+[19:50:22] jg777: Navigating the middle game there for both was interesting too. Good game.
+[19:52:11] jg777: Is this first time over 2400 now for Sylv? If so congrats. :)
+[19:53:42] sylvlondon: No I was 2400 but losg a couple of game recently
