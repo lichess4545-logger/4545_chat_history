@@ -1,0 +1,70 @@
+Lichess game chat log
+Game      : https://lichess.org/Nt8nILve
+White     : intenselotion
+Black     : kborman
+Time      : 45+45
+Captured  : 2026-07-09 00:40:09 UTC
+Game ended : 2026-07-08 23:20:07 UTC
+Messages  : 60
+────────────────────────────────────────────────────────────
+
+[21:01:12] namegoesinhere: go Kborman!
+[21:13:09] enprisewithease: Let's go IntenseLotion!
+[21:14:56] enprisewithease: (7.Re1) Already some interesting tension
+[21:15:57] enprisewithease: (7.Re1) Bxd5, exd5 exd6+ and does white get anything?
+[21:20:47] namegoesinhere: (8.Nc3) I like the look of Nxc3 and then d5 here
+[21:21:02] namegoesinhere: (8.Nc3) try and lock the bishop out of the game
+[21:21:17] namegoesinhere: (8.Nc3) does give up pressure on e5 though
+[21:24:51] enprisewithease: Nxc3 and d5 would have almost transposed to the French advance, with white having made some odd choices. Yeah, I like that sequence too.
+[21:26:53] enprisewithease: (10...Bxd6) Just d4 here?
+[21:28:09] namegoesinhere: (10...Bxd6) d4 seems logical
+[21:28:40] namegoesinhere: (10...Bxd6) break open the centre while you're slightly better equipped to take advantage
+[21:29:26] intenselotion: should probably stop wasting time checking Bxe6
+[21:29:41] namegoesinhere: (10...Bxd6) hard to really see another move, d3 seems just worse and none of your pieces have anywhere worth going to
+[21:31:12] namegoesinhere: (11.Nb5) Be7 is the obvious move here but Bb8 probably worth considering as well
+[21:35:02] enprisewithease: (11...Be7) For some reason, I feel like both sides are looking to attack but don't have their pieces quite ready to do so.
+[21:54:35] enprisewithease: (17.Ne2) both players playing quite well so far, white's a little cramped but that will change I suspect
+[21:58:24] namegoesinhere: (19.Rac1) hmm, wonder if Qf4 instead of Rc1 was possible
+[21:58:39] namegoesinhere: (19.Rac1) couldn't see a great way of defending d4 again
+[21:58:39] enprisewithease: (19.Rac1) yeah, black may be able to defend the d4 pawn now
+[22:00:26] enprisewithease: (19...b5) Qf4 should still work here too
+[22:01:58] enprisewithease: (20.Qf4) there we go!
+[22:05:47] namegoesinhere: (20.Qf4) there's a chance something tactical might work with ...Bb7 Nxd4 ...Nh5 or something but it looks messy
+[22:09:51] enprisewithease: that is beyond me, initially I thought just Qg4 but it's a lot more complicated than that
+[22:12:54] enprisewithease: (20.Qf4) Qg4 Nf6 Qh4 g5!? Qxg5 Kh8 threatening Rg8
+[22:13:41] enprisewithease: (20.Qf4) would love to come up with something like that in a game
+[22:14:26] namegoesinhere: (20...Nd5) I was thinking about Qe5 as a better square then g4, but honestly who knows
+[22:17:29] namegoesinhere: (21...Qxd5) two bishops vs two knight on an open-ish board is not nothing in terms of compensation
+[22:17:44] le_merovingien: Black's better, right?
+[22:18:15] le_merovingien: Hmm... the Knights are jumpy jumpy. White may have an attack
+[22:27:41] enprisewithease: (22...Bxd4) white has potential for a passed pawn I think
+[22:28:12] le_merovingien: And a mating attack
+[22:28:42] le_merovingien: When I see White's Queen, e-Rook and Knight, I think White is horny
+[22:28:57] le_merovingien: But Black has potential for a mate-in-one
+[22:29:13] enprisewithease: (23...Bb7) that would be such a sad way to end this really good game
+[22:29:13] goldenretrieverchess: Gooo Keith!
+[22:31:30] le_merovingien: Yeah! Keith, throw some goo at your opponent!
+[22:32:00] le_merovingien: (I am assuming Keith is Kaybow)
+[22:32:15] goldenretrieverchess: lol yes
+[22:33:16] le_merovingien: Oh la la... mating attack incoming
+[22:33:32] le_merovingien: Please play like a 1400...
+[22:34:33] namegoesinhere: (24...Qa2) how does white actually defend a3 here?
+[22:35:19] le_merovingien: By mating first
+[22:36:50] le_merovingien: Any Knight forward move or h4 h5 should do the trick
+[22:37:06] le_merovingien: I am not sure about a Rook lift but that could work too
+[22:37:36] che55m45ter: Qc7 should save the pawn. (Qc3 after black saves the bishop)
+[22:37:51] namegoesinhere: (24...Qa2) Qc7 there is ...Bxf3
+[22:38:22] che55m45ter: yeah I missed that
+[22:38:22] le_merovingien: Why defend the Pawn?
+[22:38:37] le_merovingien: Bxf3 is good for White. h4 h5 Kg2 Rh1
+[22:38:52] namegoesinhere: (24...Qa2) I agree there are surely attacking ideas for white but I just don't quite see the line
+[22:39:08] namegoesinhere: (24...Qa2) like white has to spend quite a lot of tempi to set something up
+[22:40:09] le_merovingien: Blacl's pieces are not playing. White should be able to afford it.
+[22:46:47] enprisewithease: (26.Qg3) There's your answer, white scares black into not taking it. I still think it was a bluff though.
+[22:54:24] enprisewithease: Are we sure this is Board 8?
+[22:56:26] le_merovingien: Yeah, I would be scared to face them. Maybe they should bump me down 7 boards... Arbiteeeeeeeer
+[23:05:20] enprisewithease: (35.Qxb8+) nice tactic
+[23:20:07] jdw10: gg
+[23:20:53] enprisewithease: really well played both
+[23:22:24] intenselotion: I was lucky with Ne5 after Qa2 to be honest, there was too much to calculate and I just hoped my threats were greater
+[23:27:59] nyanners: gg
