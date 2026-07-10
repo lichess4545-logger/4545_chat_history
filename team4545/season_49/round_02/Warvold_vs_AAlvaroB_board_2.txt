@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/zUl2ERM1
+White     : warvold
+Black     : aalvarob
+Time      : 45+45
+Captured  : 2026-07-10 20:34:19 UTC
+Game ended : 2026-07-10 19:14:13 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[18:03:12] warvold: (3...e6) First blunder of the game, I intented to play e4, but force of habit, my hand played d4 xD
+[18:08:02] warvold: (8.axb5) Hey Simon!
+[18:09:34] simonwashere: Hello :)
+[18:19:45] goldenretrieverchess: Gooo Warvold!
+[18:20:01] goldenretrieverchess: Hey Simon :D
+[18:21:47] warvold: (11.Bd3) Hey Golden!
+[18:21:47] warvold: (11.Bd3) So far so good
+[18:22:18] warvold: (11.Bd3) Even tho I did end up playing d4, it's not like it's not my main opening, and apparently, I managed to surprise my opponent
+[18:23:19] warvold: (11...Nbd7) I'm always having trouble in these kind of position : "should I play h3 before Nf3, as to keep my bishop if Nh5 is played ?"
+[18:24:35] warvold: (12.Nf3) Ehh, whatever, Bg3 Nxg3 hxg and I have a nice file
+[18:25:05] warvold: (12.Nf3) That b5 pawn is one hell of a thorn
+[18:25:20] warvold: (12.Nf3) c5 bxc6
+[18:25:51] simonwashere: Hi Golden!
+[18:27:22] warvold: (12...Bb7) I was wondering about Ne4 here, but if I play O-O Ne4 Bxe4 dxe4 Ne5 Nxe5 Bxe5 -whatever, I have c4 now?
+[18:27:53] warvold: (12...Bb7) Gosh, thanks a lot ipr, for fixing the whispering script, I can spam again :D
+[18:28:08] warvold: (12...Bb7) O-O Nh5 back tho
+[18:28:38] warvold: (12...Bb7) Ne5 Nxe5 Bxe5 is an idea
+[18:29:09] warvold: (12...Bb7) Because, O-O c5 is playable now, bxc6 Bxc6 and if dxc5 Nxc5 is trouble
+[18:29:24] warvold: (13.Ne5) I like that, prevents also Nh5
+[18:29:55] warvold: (13.Ne5) I got my fair share of Nh5 in these kind of position, as my opponents don't see the open diagonal, but never in classical yet
+[18:31:11] warvold: (13.Ne5) Hmm, it does not prevent c5 at all : c5 Nxd7 Nxd7, same position. But no big deal
+[18:31:27] warvold: (13.Ne5) c5 O-O c4 Bc2
+[18:34:30] warvold: (13.Ne5) Nevermind, c5 bxc6 Nxe5 cxb6 Nxd3+ Qxd3 and my bishop controls b8
+[18:36:31] warvold: (13...Nxe5) Hmm, question is dx or Bx
+[18:38:03] warvold: (13...Nxe5) Bxe5, natural Nd7 Bg3 c5 bxc6 Bxc6 O-O
+[18:38:18] warvold: (13...Nxe5) The a-pawn would be hard to stop, but doable
+[18:39:04] warvold: (14.Bxe5) I like this line
+[18:42:52] warvold: (15.Bg3) Ohhh
+[18:42:52] warvold: (15...c5) c5 Bd6?
+[18:43:38] warvold: (15...c5) That looks nice
+[18:44:08] warvold: (15...c5) Bd6 Re8 dxc5 ok clear advantage
+[18:44:24] warvold: (15...c5) Buuuut
+[18:45:40] warvold: (15...c5) Bd6 cxd4 Bxf8 dxe3 Ba3 forced exf2+ Kxf2 Qb6+ Ke2
+[18:45:40] warvold: (15...c5) Still good
+[18:47:12] warvold: (16.Bd6) There is also c4 Bxf8 Qxf8 or Nxf8 or Kxf8 Bc2
+[18:47:27] warvold: (16.Bd6) Still, I win something, I think
+[18:50:16] warvold: (17...Qxf8) Damn, I was starting to wonder if i considered everything after dxe3
+[18:50:31] warvold: (17...Qxf8) Now, I guess I must take back with the e-pawn
+[18:50:46] warvold: (17...Qxf8) cxd4 Qb4+, is it that annoying?
+[18:52:03] warvold: (17...Qxf8) Not much to be fair, and I get a backward pawn with exd4
+[18:52:48] warvold: (18.cxd4) Qb4+ Qd2
+[18:53:04] warvold: (18.cxd4) I'll bring the rooks on th a-c files
+[18:53:19] goldenretrieverchess: after cxd4 Qb4+ I think would play Qd2 and hope for the Q trade or win g7 with +
+[18:53:49] warvold: (18.cxd4) I don't think they'll be able to keep the b-pawn
+[18:56:06] warvold: (20.exd4) I was 100% sure i'd see e4
+[19:00:58] warvold: (20...Qd6) Ok, I think they want to play Nb6 Nc4
+[19:01:29] warvold: (21.Qd2) Flexibility is good
+[19:01:44] warvold: (21.Qd2) If Nf6 f3 is great
+[19:03:46] warvold: (21...a4) Ehh
+[19:03:46] warvold: (21...a4) Qc2?
+[19:04:32] warvold: (21...a4) Qc2 Qb4 Bxh7+ Kh8 Bf5 looks good
+[19:06:03] warvold: (21...a4) Qc2 a3 Bxh7+ Kh8 Bd3 Qb4 Qc7 Bc8 Bf5 maybe
+[19:06:33] warvold: (22.Qc2) Obviously, Rc8 Qxa4 is good
+[19:07:04] warvold: (22.Qc2) Rc8 Qxa4 Nb6 Qb3
+[19:09:06] warvold: (22...Qb4) Bxh7+ Kh8 Bf5 Rc8 Qe2 probably
+[19:09:37] warvold: (24.Bf5) Nf6 Qc5
+[19:10:07] warvold: (24...Nf6) Nf6 Qc7!
+[19:11:24] warvold: (24...Nf6) Qc7 Qxb5 Rfb1
+[19:11:39] warvold: (24...Nf6) Qc7 Ra7 Qd8 Qf8 Qxf8#
+[19:12:55] warvold: (25.Qc7) Hmm, there is a line
+[19:13:26] warvold: (25.Qc7) Qxb5 Rfb1 Ne8 Qxb7 Qxb7 Rxb7 Nd6
+[19:13:58] warvold: (25.Qc7) But, Qxb5 Rfb1 Ne8 Qxf7 Nd6 Qh5+
+[19:14:13] simonwashere: gg
+[20:09:25] goldenretrieverchess: gg
