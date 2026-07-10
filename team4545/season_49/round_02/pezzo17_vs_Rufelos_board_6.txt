@@ -1,0 +1,31 @@
+Lichess game chat log
+Game      : https://lichess.org/cIO2XRXO
+White     : pezzo17
+Black     : rufelos
+Time      : 45+45
+Captured  : 2026-07-10 22:21:57 UTC
+Game ended : 2026-07-10 21:01:52 UTC
+Messages  : 21
+────────────────────────────────────────────────────────────
+
+[19:25:13] pezzo17: (11.Rad1) i'm wondering if i take this to a N vs B game, how that favors me
+[19:57:44] markmarkedymarkmark: go pezzo!
+[19:59:00] pezzo17: (14...Qc7) Ng4 looms but I still have Bf4
+[20:11:58] pezzo17: (19.Qc2) need to have another look at c4
+[20:18:05] pezzo17: (21.a3) seems i'm playing very conservative today
+[20:18:21] jtschuwirth: (20 Rfe1) this allows Nb4 attack on the battery
+[20:21:55] pezzo17: (22...Nc4) what would a N sac get them.....
+[20:40:28] pezzo17: (27...b4) interesting
+[20:42:46] pezzo17: (28.Ra4) oof
+[20:44:02] pezzo17: (28...b3) fugh.  how do i recover
+[21:00:51] pezzo17: (33.Qh4) Ra1 might be end of me
+[21:01:37] pezzo17: (33...Ra1) not that i have much left anyway hah
+[21:01:52] rolihlahla: gg
+[21:02:07] rufelos: gg
+[21:02:23] pezzo17: gg sorry about that blunder.  kinda ruins a good game
+[21:03:54] rufelos: oh wow... 23...Ra8 is a huge mistake... why?
+[21:14:33] scarff: I think becauce b4 specifically is just good. Which is tough to see
+[21:15:20] scarff: 24.cxb4 fails tactically. And otherwise you can play bxc3 and white has a poor structure with weak c pawn
+[21:15:50] scarff: And in that position the rook is just good on the c file. But that is hard to see I think!
+[21:21:56] rufelos: yeah, I think it's an advantage only for computers... very difficult to claim it...
+[21:29:48] scarff: After 23...b4 Rc1 bxc3 I think humans can see black has a nicer position. But seeing that before it happens is the hard part
