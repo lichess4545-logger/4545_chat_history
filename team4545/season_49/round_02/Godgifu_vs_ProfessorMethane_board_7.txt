@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/73LtpIOj
+White     : godgifu
+Black     : professormethane
+Time      : 45+45
+Captured  : 2026-07-10 07:45:00 UTC
+Game ended : 2026-07-10 06:24:49 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[04:02:12] bpack: go Prof. Methane!
+[04:06:34] godgifu: d5 hmm. I think this is a dubious line if i remember correctly
+[04:10:23] godgifu: re1 c4 nc3? putting more pressure on the knight. Hopefully thats the right call
+[04:14:13] nyanners: d5 is main. Still Theory
+[04:17:01] godgifu: dont see a way for black to keep the knight in the center now. will have to lose time and move it
+[04:18:02] nyanners: i do like white in those even if its Still Theory territory
+[04:23:52] godgifu: aw no greek gift?
+[04:26:55] godgifu: 13...Qe7 definitely dont want to trade but I also dont like Bg4
+[04:29:14] godgifu: back rank is weak tho. does Bg5 Qxe1 Rxe1 work
+[04:35:37] godgifu: Bg5 Qxe1 Rxe1 be6 and the position just looks okayish unless im missing something
+[04:37:39] rpcx: i feel like h6 be6 qc7 would have been the plan i went for nd7 nb6 nc5 is also a long term plan
+[04:40:12] godgifu: 14.Bg5 dont like my position. Looks dry.
+[04:40:58] inter-temporal: go ProfessorMethane!
+[04:44:47] godgifu: yeah and now my dark square bishop is misplaced. Liking Bg5 even less now
+[04:45:02] rpcx: is g3 bf4 a good plan or just meh ?
+[04:47:05] inter-temporal: maybe 16.Rb1
+[04:51:24] godgifu: maybe c4 is an idea here. Not sure what else to do in this position
+[04:51:39] inter-temporal: sac a pawn?
+[04:51:55] rpcx: be4
+[04:52:40] inter-temporal: clearance sac
+[04:53:26] inter-temporal: but Be4 Nc6, and  idk
+[04:53:26] kayrosas: let's go godgifu!
+[04:53:26] rpcx: d5
+[04:53:41] inter-temporal: fork me
+[04:54:42] rpcx: but dxc be4 nd7 looks bad for white you're just giving black a passer for no good reason
+[04:54:42] inter-temporal: lots of things to attack
+[04:55:28] rpcx: fair point maybe just do h6 nc6 and just avoid all this
+[04:56:44] inter-temporal: after the fork i think there might be f5
+[04:56:59] inter-temporal: idk. im sleepy. lol
+[04:59:16] kayrosas: 16...dxc4 d5 / Bxc4 seems like interesting ideas but not sure either work
+[05:02:04] rpcx: the more i calculate the more i just want to just play nc6
+[05:05:07] kayrosas: am thinking 17.c5, otherwise the a-pawn might be too weak
+[05:06:54] godgifu: 17 c5 Bc7 and then b6 later  is going to be annoying
+[05:08:40] godgifu: 17.C5 Bc7 Bc1 b6 Ba3 is a line
+[05:11:58] inter-temporal: indeed. and im gonna go... dream of chess.  :)
+[05:13:45] godgifu: 17...Be7 huh this trade seems good for me. I dont really like that bishop anyway
+[05:16:48] godgifu: Bxe7 Nxe7 Ng5 g6 Bxe6 and im not looking too shabby
+[05:20:37] godgifu: 19.Ng5 i have to be winning a pawn here. What can black do
+[05:20:54] godgifu: 19...Nf5 ah i guess this
+[05:24:12] godgifu: Nxe6 fxe6 Rxe6 Nxd4 Rd6
+[05:24:42] rpcx: isn't there bxn bxb re7?
+[05:25:13] rpcx: oh f6
+[05:25:28] godgifu: but my queenside pawns become really weak in this line. might be a problem
+[05:28:01] godgifu: Nxe6 Fxe6 Bxf5 exf5 Re7 b7 c6? Do get a passed pawn there
+[05:29:03] godgifu: hope im not miscalculating anything here
+[05:30:34] rpcx: re6 is far simpler
+[05:31:35] godgifu: definitely have a more active position here. Just need to bring my king into the game after this
+[05:32:06] godgifu: can go for the weak d pawn as well
+[05:36:25] godgifu: 22...Rb8 looks way too passive
+[05:37:11] godgifu: rd7 just looks like im winning a pawn there
+[05:39:44] godgifu: just need to start pushing my d pawn now
+[05:44:35] godgifu: worried about back rank threats after b6. Might need to move my king out first
+[05:45:06] godgifu: Kf1 b6 Ke2 Bxc5 Rxc5
+[05:46:07] godgifu: black king too far from the c pawn
+[05:58:36] kayrosas: trading rooks should just be lost for black
+[06:00:39] godgifu: 27...Rxc5 okay this should be winning for me. Can just use my king to eat up all the pawns on the king side using my c pawn as decoy
+[06:04:28] godgifu: okay black can get to my a pawn but my h pawn should be faster after I get h7 and g6 i think
+[06:06:15] kayrosas: not a fan of 30.Kf4
+[06:07:16] godgifu: huh g5 and i might be busted
+[06:18:28] godgifu: yeah h pawn looks unstoppable now
+[06:23:02] kayrosas: gg
+[06:26:20] kayrosas: oh 16...dxc4 Bxc4 Bxc4 Re8 Bf8 Bf4, I only saw Be7 Nc6 and that is bad for white
+[06:28:22] godgifu: wait what
+[06:28:22] godgifu: be7 is what i calculated
+[06:28:37] godgifu: oh right
+[06:28:37] godgifu: two pieces for a rook
+[06:28:52] godgifu: welp
+[06:29:53] godgifu: 14, Bf4 missed. damn
+[06:29:53] godgifu: Thats a nice move
