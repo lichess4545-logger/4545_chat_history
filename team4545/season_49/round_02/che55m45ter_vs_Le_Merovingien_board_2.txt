@@ -1,0 +1,106 @@
+Lichess game chat log
+Game      : https://lichess.org/GFcQ89l1
+White     : che55m45ter
+Black     : le_merovingien
+Time      : 45+45
+Captured  : 2026-07-10 23:08:49 UTC
+Game ended : 2026-07-10 21:48:37 UTC
+Messages  : 96
+────────────────────────────────────────────────────────────
+
+[20:02:58] namegoesinhere: (1.d4) go mero!
+[20:03:29] le_merovingien: Hey Namego
+[20:04:30] le_merovingien: Gee, I have a doubt
+[20:05:47] le_merovingien: I think my book says d6 O-O Nc6 d5 Na5 with an equal game
+[20:06:48] le_merovingien: Don't know why, I was tempted to shoot c5. You know, like a nervous reaction...
+[20:08:35] le_merovingien: and now, besides the fact White is a tempo up (needs to castle), we have an equal game
+[20:11:54] pineapplechiffoncake: Go Mero!
+[20:14:27] le_merovingien: I need to solve the fianchetto diagonal problem here
+[20:19:01] le_merovingien: e6 is tempting. can't be bad. It's logical. But I feel my King gets naked quickly...
+[20:19:46] le_merovingien: e6 dxe6 Bxe6 Nd4 Bc8?!?
+[20:20:32] le_merovingien: Nah, I think I screwed up. I have no space. Probably lost already
+[20:21:03] enprisewithease: Go che55m45ter!
+[20:27:55] le_merovingien: hey team! I am trying to play strange moves as I think I am already lost.
+[20:28:40] namegoesinhere: (12.Nd4) this doesn't seem lost
+[20:28:56] namegoesinhere: (12.Nd4) bit cramped maybe but there can't be that much wrong
+[20:30:27] warvold: (12...Rc8) Go Mero
+[20:31:28] le_merovingien: Warvold, don't tell me you root for the other guy...
+[20:31:28] jdw10: go che55m45ter!!
+[20:31:58] warvold: (12...Rc8) Haha
+[20:32:14] jdw10: Merovingien is impossible to root against, so i hope he enjoys the game, haha
+[20:32:14] warvold: (12...Rc8) After our draw last week, never!
+[20:32:59] le_merovingien: It's terrible. I don't know if it is because I messed up the opening or if it happened before but I really don't want to play chess
+[20:32:59] warvold: (12...Rc8) Confession, I play this opening with black but know nothing about it
+[20:33:45] warvold: (13.Rc1) But I find Mero a bit pessimistic, it does no't look that bad to me
+[20:33:45] le_merovingien: Nc6 Nxa7 if I move my Knight... pff
+[20:38:35] le_merovingien: I want to shove my h-Pawn...
+[20:39:20] le_merovingien: really sorry...
+[20:41:07] le_merovingien: I have time to bring the Knight, here, no?
+[20:43:09] le_merovingien: Just reviewed the game. If anything, it's c6 the problem. I have no clue why. It feels logical. White has space, contest space.
+[20:43:39] le_merovingien: Maybe Ba6 but I felt lost already.
+[20:49:14] n8otom8o: (14. Nb7) Can White play b4 here, locking down the knight and threatening b5 (trapping bishop)?
+[20:51:17] le_merovingien: If Nb5, do I take? Is this Bishop good enough to keep?
+[20:51:48] le_merovingien: I am lacking space, so I should exchange. It can help tap onto the White Pawn, so I should keep
+[20:53:04] le_merovingien: Hmm... I think I take
+[20:53:19] kborman: Go Mero!
+[20:55:52] le_merovingien: ax?
+[20:55:52] le_merovingien: Oh, I get it.
+[21:08:36] intenselotion: Be5 looks fun here, maybe in a blitz game? or is there an obvious response
+[21:09:37] warvold: (23...Qe6) I think there was Ne8 still
+[21:10:07] warvold: (23...Qe6) Is Qe6 a good defense?
+[21:10:22] warvold: (23...Qe6) I fear there is e5 here
+[21:10:38] warvold: (23...Qe6) Ah
+[21:10:38] warvold: (23...Qe6) e5 Qxb3
+[21:12:09] le_merovingien: I missed e5... just trying to make stupid threats and did not look back...
+[21:12:09] le_merovingien: must be -10 now
+[21:12:24] le_merovingien: +10, sorry, I have Black
+[21:12:24] warvold: (23...Qe6) Haha, not that easy in my opinion
+[21:12:55] warvold: (23...Qe6) Here, I think white should play Rd3
+[21:12:55] warvold: (23...Qe6) Which is not that findable
+[21:13:25] le_merovingien: He does not see it
+[21:13:25] le_merovingien: weird
+[21:14:27] warvold: (24.Qc4) Qxc4 cxc4 Rxd6 Rxc4 Rd1+ Bf8 Bf6, not good
+[21:14:27] warvold: (24.Qc4) for black
+[21:14:42] warvold: (24.Qc4) cxc4 => bxc4*
+[21:14:42] le_merovingien: I think I have an idea.
+[21:15:12] warvold: (24.Qc4) Qc8 looks ok
+[21:15:28] warvold: (24.Qc4) Qc8 Qxc8 Rxc8, white can't play Rxd6
+[21:15:43] le_merovingien: no. It does nto work
+[21:15:43] warvold: (24.Qc4) Rc8 maybe
+[21:15:58] warvold: (24...Qe7) Rc8 Qxe6 fxe6
+[21:15:58] warvold: (24...Qe7) I liked that
+[21:18:01] warvold: (25.Bc3) Gotta activate this knight, Nd7 maybe
+[21:18:46] warvold: (25.Bc3) Nd7 Bxg7 Kxg7 Qd4+ tho
+[21:19:02] warvold: (25.Bc3) Ng4 then
+[21:20:34] le_merovingien: I am trying to liquidate...
+[21:23:22] le_merovingien: I think I will eventually lose this Pawn. I need to find some counterplay
+[21:24:23] le_merovingien: The Bf8 business does not work for 50 reasons
+[21:24:23] le_merovingien: But my calculation is trash anyway
+[21:25:24] le_merovingien: Really hanging on for one single thing: watching my opponent playing the clock gambit
+[21:26:41] warvold: (26...Qf6) Good strat
+[21:26:56] warvold: (26...Qf6) Not really close to get to zero yet tho
+[21:27:57] le_merovingien: This works. I can't pass the Queen. Pfff
+[21:28:43] le_merovingien: It's horrible
+[21:29:45] le_merovingien: Bc3 Qe7 for Qc7 and exchange?
+[21:30:16] le_merovingien: Ah but he won't exchange
+[21:35:06] le_merovingien: Wait, I can get rid of my weakness.
+[21:35:22] le_merovingien: Well.... one of my weaknesses. But this pawn was a thorn
+[21:37:23] le_merovingien: I need to be careful. Bd5 can be nasty
+[21:37:39] le_merovingien: Nd6 incoming
+[21:38:09] le_merovingien: Or Qe7? I might need to secure the Bishop against b4
+[21:38:40] le_merovingien: No, it should work
+[21:39:10] le_merovingien: wait. My Knight is pinned. Garbage
+[21:39:25] goldenretrieverchess: Goo Lemur!
+[21:40:43] le_merovingien: I am amazed to be still in this game.
+[21:44:17] le_merovingien: I win a Pawn here, no?
+[21:44:32] le_merovingien: Nxb5 Qxb5 Rxd5?
+[21:45:48] le_merovingien: Ah no, he can sac the Bishop agsint the f7 Pawn
+[21:46:18] le_merovingien: Whatever
+[21:47:04] le_merovingien: Do I take with the King or the Queen?
+[21:47:20] le_merovingien: Probably Queen to avoid a hypothetical pin?
+[21:48:06] le_merovingien: It's mate!
+[21:48:36] goldenretrieverchess: gg
+[21:48:52] pineapplechiffoncake: Gg
+[21:48:52] jdw10: gg
+[21:49:07] n8otom8o: gg!
+[21:49:07] kborman: gg
