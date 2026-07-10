@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/qDaQQ6Rp
+White     : aactrl
+Black     : wolfsblut
+Time      : 45+45
+Captured  : 2026-07-10 21:42:24 UTC
+Game ended : 2026-07-10 20:22:22 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[17:57:20] inter-temporal: another epic matchup!
+[17:58:06] thegreattoddman: o/
+[18:01:55] pineapplechiffoncake: Go AACtrl!
+[18:13:38] aactrl: (7...Bg7) 8.d3 Qa5+!?? Nc3 d4 Nxc6 should not be a problem?
+[18:13:38] inter-temporal: (7...Bg7) AA goes into these early think tanks.
+[18:14:24] inter-temporal: (7...Bg7) but then plays well on low time too. it takes some getting used to. lol
+[18:15:40] aactrl: (7...Bg7) 8.d3 0-0 Bxc6 bxc6 Nd2 do I want to castle long anyway?
+[18:18:45] aactrl: (10...Nd7) oh I dropped a pawn already?
+[18:19:15] inter-temporal: (10...Nd7) 3 attackers on e5...is there a refutation?
+[18:20:01] inter-temporal: (10...Nd7) like d4 perhaps
+[18:21:33] inter-temporal: (10...Nd7) d4 Ba6, Re1 seems okay. what am i missin
+[18:21:48] aactrl: (10...Nd7) I wondered if g6-Bg7 made a difference, now I see.
+[18:27:23] aactrl: (12.dxe5) so I was thinking, my pawns need to be on light squares...
+[18:29:56] inter-temporal: (12...f6) might be another way to get them off the dark squares. :)
+[18:31:43] inter-temporal: (14.Nd2) pile up on e3 and e4...
+[18:31:58] aactrl: (14...f5) yes please!
+[18:32:13] inter-temporal: (15.Bxg7) and e5, wow
+[18:32:59] inter-temporal: (15...Qxg7) Ne5 is gonna be a problem for black; Be4 a problem for white
+[18:33:15] inter-temporal: (16.Nf3) but how to get ...Be4
+[18:33:46] inter-temporal: (16...Ba6) hm. i was thinking a5-a4 first, but maybe this is good too
+[18:34:16] inter-temporal: (16...Ba6) ahh. ...a5, a4 might suck
+[18:46:29] inter-temporal: (19...Rac8) does black have a plan with ...d4, ...c4, ...c5
+[18:47:15] aactrl: (19...Rac8) Qxb4 cxb4 Nd7 Rf7 Nc5 Bb5 a4 bxa3 not quite...
+[18:50:03] aactrl: (19...Rac8) could try 20.a4 first but black could punish me
+[18:52:51] aactrl: (19...Rac8) no other idea, I'll play for tricks and expect punishment
+[18:58:26] aactrl: (21...Rc7) Rd2 or Nd3 Bxd3 cxd3 Rb7 Rb2 Re8 Kf2 ugh..
+[19:01:59] aactrl: (22...Rb8) R1d1 or Nd3 c4!? Nc5 Bc8......
+[19:05:17] aactrl: (23...Rb4) Kf2 or Nd3, damn choice!
+[19:13:10] aactrl: (26...c4½?) 27.Rd4 Re4 Rxe4 fxe4.. no
+[19:23:06] aactrl: (28.Ra3) I hate this move
+[19:27:11] aactrl: (29.Kf2) 29.Rd6 Rb1+ Kf2 Rb2 Rxc6 Rxc2+ :/
+[19:28:57] aactrl: (29.Kf2) stupid, I had Rc3 after Rb2
+[19:31:14] guitarspider: (32.Ra8) go AACtrl
+[19:32:00] inter-temporal: (33.Rc3) white seemed a bit more passive, but smth switched?
+[19:34:02] inter-temporal: (35...Kg8) oof. black has time; but it's tempting to push white's clock
+[19:40:38] inter-temporal: (39.Ke1) is this, like, balanced on a razor's edge?
+[19:40:53] pineapplechiffoncake: Huh, is this bait?
+[19:40:53] aactrl: (39.Ke1) ahhh I blew it
+[19:41:09] aactrl: (39.Ke1) 39...Ra2 draws I'm afraid
+[19:41:24] inter-temporal: (39.Ke1) it is bait
+[19:41:39] inter-temporal: (39.Ke1) can't allow Rc7
+[19:41:54] inter-temporal: (39.Ke1) unless ...Rxa6
+[19:41:54] aactrl: (39.Ke1) or not, hard to say, I might bring my king to b1...
+[19:43:11] aactrl: (39.Ke1) no, Ra2 Kd1 c3! Kc1 c2 and I can't make progress
+[19:44:11] inter-temporal: (39.Ke1) i found AA to be well above average in the endgame. the hard way. lol
+[19:52:04] aactrl: (41.Kc1) 41...c5!??? Kb1 Rb2+!??? Ka1 Rxg2 Rb7 Rg1+ Rb1 only hope?
+[19:53:20] inter-temporal: (41.Kc1) hope chess
+[19:59:57] namegoesinhere: (41...h5) the more question marks you add the more likely it happens
+[20:00:12] inter-temporal: (41...h5) Kb1????????
+[20:00:27] inter-temporal: (41...h5) testing
+[20:01:28] inter-temporal: (42.Ra8+) fake news
+[20:01:44] aactrl: (42.Ra8+) 42.Kb1 Rb2+ Ka1?? Rb5 would have been mad after more thought.
+[20:02:29] inter-temporal: (42.Ra8+) good call
+[20:03:00] inter-temporal: (42.Ra8+) i mean, really good spot!
+[20:07:34] inter-temporal: (45.Rxc6) the rear c-pawn would have been just in time, yeh?
+[20:12:56] aactrl: (46.Kb2) in case I had something, I blew it again.
+[20:13:12] inter-temporal: (46.Kb2) ...Re1????????? (new test)
+[20:13:27] inter-temporal: (46...Rb1+) fail
+[20:14:28] inter-temporal: (47...Rg1) "Additional question marks have no predictive value"--magic 8 ball
+[20:16:01] aactrl: (49.Rc2½?) is it time for punishment now?
+[20:16:16] inter-temporal: (49.Rc2½?) lol. come on. play the pure pawn ending!???????
+[20:20:35] inter-temporal: (53.fxg5+) white gets a better chance?
+[20:20:51] inter-temporal: (53...Kxg5) the pure pawn endgames are straight from hell
+[20:20:51] sahkal: why play h3
+[20:21:06] inter-temporal: (56...Kf5) whew!
+[20:21:36] aactrl: (58.Ke4) phew!
+[20:21:36] sahkal: well i thought white could try to win this pawn endgame
+[20:21:36] sahkal: but okay
+[20:22:22] inter-temporal: gg
+[20:22:22] pineapplechiffoncake: Gg
+[20:23:09] guitarspider: gg
+[20:23:09] cinemashow: gg
