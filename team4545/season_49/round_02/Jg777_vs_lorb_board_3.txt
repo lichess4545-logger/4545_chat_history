@@ -1,0 +1,440 @@
+Lichess game chat log
+Game      : https://lichess.org/7h5UHSjZ
+White     : jg777
+Black     : lorb
+Time      : 45+45
+Captured  : 2026-07-11 13:39:21 UTC
+Game ended : 2026-07-11 12:19:14 UTC
+Messages  : 430
+────────────────────────────────────────────────────────────
+
+[09:58:06] jg777: Wow, e5? I don't face this as much. Do I get a Saturday morning King's Gambit!? This should be fun!
+[10:00:24] jg777: Suspect a bit of prep here judging from how fast they are moving these opening moves.
+[10:00:24] jcarmody: gojg
+[10:03:27] jg777: Well if I walk into some prep then let it be in a KG :)
+[10:04:43] jg777: We can test these prep waters and see how deep it goes! :)
+[10:08:17] jg777: It has been a long time here. There is some idea of Nd5 here but I have to be careful because there is some mate trick with f2+.
+[10:10:03] nyanners: when you play kings gambit you should expect everyone to prep you
+[10:10:03] nyanners: thats either a happy moment or a terrible one
+[10:10:03] jg777: I'm trying to recall the ideas here. I think with f3-g4 pawns you play Bb5 to temp pin the c6 knight and allow Kf1 after Nd5 NxN Nd5 f2+.
+[10:10:19] nyanners: kings gambit is sound but you do need wide knowledge
+[10:10:49] nyanners: white is definitely familiar with the deep prep :o
+[10:11:20] jg777: But I am not sure I am suppose to give black the extra move, but don't I have to? Otherwise Nd5 NxN Nd5 f2+ Ke2 Qf3#?
+[10:11:20] nyanners: but here the move is 9 Qd2
+[10:11:20] nyanners: ive played that in otb blitz :o
+[10:11:50] nyanners: then i forgot one move later..
+[10:12:06] jg777: It has to be Bb5 here, I don't see how it can't be, so I'm playing it and if I am wrong we'll see after the game the correct move.
+[10:12:37] nyanners: 9 Qd2 Nbc6 and i went g3 :D but Nb5! and white has to play something weird
+[10:12:52] nyanners: *black
+[10:14:08] nyanners: though well, kg games anything happens. my IM opponent was better and then was lost and then won anyway..
+[10:14:24] nyanners: all in all i was happy :D
+[10:14:39] nyanners: so well, how bad is this? the big idea of Qd2 is to not allow this f3 thing
+[10:15:10] nyanners: im pretty sure black is doing well here
+[10:15:25] nyanners: theres no good way to deal with this kingside thing
+[10:16:11] nyanners: but well, black's pieces are a little weird and that could count
+[10:17:43] r0b-w: (12.Bd7) Go, jg777!
+[10:19:14] ysgwydd: (12...Bd7) Black has an extra pawn and that could count
+[10:19:29] nyanners: i mean, i am quite sure black is better
+[10:19:45] ysgwydd: (12...Bd7) I agree with that
+[10:20:00] fischer_and_chips88: also prefer black here
+[10:20:15] nyanners: though i do feel Bxf4 was in white's favour
+[10:20:15] nyanners: solves a little of the suffocation and, well, the bishop is like just better imo
+[10:20:46] fischer_and_chips88: the knight on f4 was pretty strong
+[10:21:01] fischer_and_chips88: with the weakness on d5
+[10:21:32] ysgwydd: (12...Bd7) So what do we do with the d4 pawn
+[10:21:32] nyanners: i suppose the concrete line was Nd5 with a double attack of sorts on c7 and h6
+[10:21:32] jg777: It has been a long time since I actively looked at KG lines and played it often.
+[10:22:03] nyanners: so okay fair.. though in the abstract realm white is happy about that trade of course
+[10:22:18] jg777: I know I am suppose to be active here, almost all KG games that is required, so I have to look for the right move here to keep the pace
+[10:22:33] nyanners: i think id just go with Be3
+[10:22:49] nyanners: also prevents f2+ stuff.. not that i believe in it
+[10:23:19] jg777: I know 0-0 stuff leads to disaster with the g-f pawns like this for black, so 0-0-0 is the hope- if I have time.
+[10:23:34] nyanners: i feel white is talking himself into d5
+[10:23:34] jg777: so trying to find the time for it with a pawn push here in some way
+[10:24:05] nyanners: my first impression of a line like d5 Ne5 Bxe5 Qxe5 Bxd7 Kxd7 is not good for white
+[10:24:20] nyanners: all important pieces traded
+[10:24:51] nyanners: you could try just regular d5 Ne5 Bxd7
+[10:24:51] nyanners: dont like it either
+[10:25:06] fischer_and_chips88: I wouldn't trade the DSB as white here
+[10:25:06] nyanners: but theres some strategic logic to it
+[10:25:21] nyanners: yeahh
+[10:25:21] nyanners: like, at least in the d5 Bxd7 line you keep, say, Be3-Bd4
+[10:25:52] jg777: Maybe I am just suppose to play BxN and Qd2 with 0-0-0 incoming. Maybe it is just that and not a pawn push immediately.
+[10:26:07] nyanners: oooohh i didnt see that
+[10:26:22] nyanners: Bxc6 Nxc6 Nd5 and Bg5 is unstoppable
+[10:26:37] nyanners: though black could just choose to sac everything
+[10:26:37] nyanners: its probably bad but, well, it has to be considered
+[10:26:54] jg777: both d and e pawn pushes here don't seem to lead anywhere promising to me unless I am just missing the boat completely here.
+[10:27:39] jg777: Okay time is up to make a move here so BxN it is
+[10:27:55] nyanners: so, say, Bxc6. what happens
+[10:27:55] nyanners: i suppose thats what white means. then d4 isnt attacked
+[10:28:25] paulwithans: After Bxc6 do we get a better version of the d5 push
+[10:28:56] nyanners: umm id say yes but also that white no longer has a reason to play it immediately
+[10:29:27] nyanners: the value of black d5 is unclear by itself but theres also ..d5 Be5
+[10:30:12] jg777: this is a game where you're looking forward to seeing afterwards the ideas missed and all.
+[10:30:58] nyanners: the kings are giving some anxiety
+[10:31:13] jg777: Not sure my opponent is still in prep but very confident they were earlier
+[10:31:13] nyanners: 14..o-o-o bg5 qe6 d5 nxd5
+[10:32:14] nyanners: so it might just be both o-o-o
+[10:33:00] jg777: But I know they have a really good endgame trump card now with the f-g pawns so the main worry is keeping pieces on the board for now
+[10:33:15] jg777: As I need to be doing something in this middlegame, trading off stuff is surely giving the game to my opponent in almost all cases
+[10:34:17] jg777: The main idea here that I am not sure on is the Ng6 stuff, which encourages more trades. I was not sure how I wanted to handle it.
+[10:35:03] nyanners: umm id think Bg5 looks good unless theres a concrete line
+[10:35:19] jg777: I think I have to play Bg5 there, because Qe6 is not playable, and I should be okay and avoiding more trades for the time.
+[10:35:19] nyanners: yeah i mean, why not
+[10:35:34] jg777: But Ng6 is not the only idea, nor does it need to be played immediately either.
+[10:36:20] nyanners: given how many lines with Bg5 there are, h6 is very logical
+[10:36:35] nyanners: maybe also prepares Ng6?
+[10:36:50] nyanners: id probably really go with O-O-O next though
+[10:37:36] jg777: Okay no Bg5 so the idea is h5 or 0-0-0. 0-0-0 is the play it safe and get the king out of the way idea, but h5 is prophylactic.
+[10:38:22] fischer_and_chips88: prophylactic against Ng6?
+[10:38:37] nyanners: seems white is really respecting that
+[10:38:37] jg777: So back to that old question- is king safe here and I have time for h5? Because Rh4 is also good for me and making h6 a long term target.
+[10:38:52] nyanners: i dont know. i feel Ng6 Be3 is whatever
+[10:38:52] nyanners: possibly even an improvement
+[10:39:23] paulwithans: I feel like h5 could have come later and been fine
+[10:39:23] fischer_and_chips88: bishop on f4 is a tall pawn sort of so I think e3 would be an improvement
+[10:39:38] nyanners: i think the comments do give the idea that white is very concerned about Ng6
+[10:39:38] nyanners: so there it is
+[10:40:09] jg777: Now I really need to castle queenside and then get something going for the center
+[10:40:09] fischer_and_chips88: /w I don't think delaying O-O-O one extra move is so bad
+[10:40:09] fischer_and_chips88: lmao /w
+[10:40:39] jg777: Seems like I need to make use of my central pawns somehow, soon.
+[10:41:10] nyanners: yeah i mean, it might well be that move order for h5 and O-O-O doesnt matter, but if there are any random options then O-O-O is more flexibl
+[10:41:25] nyanners: if Ng6 is not great..
+[10:41:40] jg777: Bravo for my opponent seeming to prep a KG this game, a fun Saturday morning surprise for me!
+[10:42:26] ysgwydd: (15...O-O-O) Where does the knight go if not g6? c6? Nowhere?
+[10:42:41] jg777: Yeah that seems to make sense. Maybe I need to look at d5 ideas here before castling too.
+[10:42:41] nyanners: i think its going to either f6 or f5
+[10:42:57] nyanners: could also be c6
+[10:43:12] nyanners: like i mean, say white allowed Ng6. then white just plays h5 later
+[10:43:28] ysgwydd: (15...O-O-O) Yeah Ng6 Be3
+[10:43:28] jg777: Just because I think black wants d5 themselves and maybe releasing f5 square for their knight and stuff.
+[10:43:28] ysgwydd: (15...O-O-O) Maybe h5 could be weak
+[10:43:58] nxn: How Ng6
+[10:44:13] nyanners: like i think Nf5 is cool but it takes A LOT of preparation
+[10:44:28] ysgwydd: (15...O-O-O) Ng6 before h5 was played
+[10:44:29] nxn: ok
+[10:44:44] jg777: Not sure if Bd7 c6 idea is good for me there though. But Maybe I can't have everything in a position :P
+[10:44:59] ysgwydd: (15...O-O-O) Nf5? Easy, just first sack on e4 and get the square
+[10:45:14] nyanners: you might have a point actually..
+[10:45:30] nyanners: Bxe4 into Qe6?
+[10:45:30] nyanners: Qe3 Nf5
+[10:45:45] ysgwydd: (15...O-O-O) I was serious but maybe?
+[10:45:45] nxn: Qe6 , f5
+[10:45:45] nyanners: so yeah castle NOW
+[10:46:00] fischer_and_chips88: woah that's a really cool udea
+[10:46:00] fischer_and_chips88: idea
+[10:46:15] nyanners: oh this one :o
+[10:46:15] nyanners: now white respects black d5
+[10:46:15] nyanners: which was too soon due to Be5
+[10:46:15] jg777: Yeah I just not okay with black getting in d5 there, seems wrong to allow that.
+[10:46:46] ysgwydd: (17.O-O-O) All my non-serious adeas are good and my serious ideas are bad
+[10:46:46] ysgwydd: (17.O-O-O) ideas*
+[10:47:01] ysgwydd: (17.O-O-O) d5, respecting Bxe4
+[10:47:01] nyanners: as far as d5 timings go this is probably one of the better ones
+[10:47:01] nxn: black till have  f5 to free and counter
+[10:47:16] jg777: Now to figure out how I am suppose to make something in this middle game
+[10:47:32] nyanners: Be3 asks a question
+[10:47:47] nxn: Qg7, f5
+[10:47:47] jg777: black has the better endgame presently with the protected passed f pawn, so I need to do something in this middle game
+[10:49:18] jg777: I suppose I need to find a target and optimize my pieces
+[10:49:34] nxn: Qg7 Be3 Rg8 Bd4 Qg5 Qxg5 Rxg5
+[10:49:49] nxn: and  prepare f5 break
+[10:50:19] nyanners: rhg8 drops h6
+[10:50:50] nyanners: but theres some benefit to playing f6 probably
+[10:50:50] nyanners: depends how fast white is
+[10:51:05] nyanners: if nothing happens, you could play f6 and rearrange everything behind to prepare for f5
+[10:51:52] lloydret: (17.0-0-0) Qe3 now hits Pa7 and support e5
+[10:52:07] nyanners: ooh Qe3. i like it
+[10:52:07] jg777: I can't find a way to get more than 2 pieces on g4 right now. I can get the rook on h4 and the knight somewhere to f2 or e3.
+[10:52:07] nxn: yes f6 but slow
+[10:52:22] nyanners: maybe black should do the standard Kb8 thing preemptively
+[10:52:38] jg777: Not saying I can't try to pressure it, or should, but winning it outright by force seems unlikely.
+[10:53:39] ysgwydd: (17...Kb8) White should probably focus on attacking? Not on winning g4
+[10:54:10] jg777: Okay maybe looking to reroute the knight to b6 perhaps
+[10:54:25] ysgwydd: (17...Kb8) With a knight on c8, there is no mate
+[10:56:12] jg777: I am trying to see if Rde1 makes sense here. It puts pressure to push e5 possibly, and allows my knight to reroute perhaps to e3 via d1.
+[10:56:27] jg777: Maybe even Nd1-f2-d3 in some cases.
+[10:56:58] jg777: but that commits my h1 rook to more or less sitting on h1 for now too.
+[10:57:59] jg777: I mean yeah it can go to Rh4 in some cases, sure, but it's a very limited rook overall for the time being. But Rhe1 doesn't seem correct
+[10:59:15] nyanners: moment of truth
+[10:59:30] nyanners: pretty quick
+[10:59:47] nyanners: thats fair i guess
+[10:59:47] jg777: Well, now is not the time to be using a lot of my clock here, it can't be super critical here.
+[11:00:18] nyanners: e5 is quite serious eh
+[11:00:33] nyanners: with this move
+[11:01:03] nyanners: though in that case id spend some time considering the other rook.. since e5 dxe5 d6 might be relevant sometimes
+[11:01:19] nyanners: like i agree with the reasons for keeping rook on h but maybe you can just run black over yknow
+[11:02:21] ysgwydd: (18.Rde1) Maybe it was better to play 17...Qg7 to meet Re1 with f6
+[11:02:36] ysgwydd: (18.Rde1) The queen would be stuck on g7 though
+[11:04:07] jg777: I do need to be aware of the Bb5-e2 stuff. That could lead to a forced exchange sac in some positions. Which means Nc3 is glued for now.
+[11:04:23] jg777: Which I need to maybe find a way to solve soon, as I'd like my knight to be a more active piece
+[11:05:08] jg777: Yeah my h1 rook is really sitting there questioning the coach's call here. Doesn't like sitting around... sorry. :(
+[11:05:55] nyanners: 19 e5 dxe5 Bxe5 f6 Bxc7
+[11:06:10] nyanners: i suppose black plays 19..N somewhere
+[11:06:26] jg777: Okay e5 is premature I think because now Nf5 looks annoying there
+[11:06:26] nyanners: like the obvious call is Nf5 but maybe youd want Nc8 defensively
+[11:06:41] ysgwydd: (18...Qg7) I like Nc8
+[11:06:57] jg777: I can work with f5 then e5, but they have to commit to f5 so that square is taken
+[11:06:57] paulwithans: but e5 dxe5 Bxe5 f6 Bxc7 the knight is defended?
+[11:07:27] nyanners: ah you see, the point comes a move later
+[11:07:58] paulwithans: ah yeah (what)
+[11:08:13] nyanners: Rxe7
+[11:08:13] nyanners: Qx d6
+[11:08:43] paulwithans: oohhhhhhhhhhhhhh nice
+[11:08:43] jg777: Maybe Re3 and try to double up with Rhe1?
+[11:08:59] paulwithans: wait then Qxd6?
+[11:09:14] nyanners: umm
+[11:09:29] ysgwydd: (18...Qg7) d6+ before Rxe7 works
+[11:09:45] jg777: but f6 is an annoying resource for them too
+[11:09:45] nyanners: yea i actually just saw it wrong. but d6+ first anyway
+[11:10:16] ysgwydd: (18...Qg7) e5 Nc8 e6 fxe6 dxe6 Bc6 looks good for black
+[11:11:02] okady: accepted nice
+[11:11:32] nyanners: if white doesnt play e5 now the past few moves make a bit less sense
+[11:11:47] nyanners: which, well, can be fine if e5 does happen to be bad. but yeah
+[11:12:03] ysgwydd: (18...Qg7) Yeah but does it work
+[11:12:03] nyanners: that cant feel good
+[11:12:49] jg777: I just can't pull the trigger on e5 there, seems wrong. I suppose a rook lift is somewhat more flexible for the time being.
+[11:12:49] nyanners: so okay, you play Rhe1. whats the actual point
+[11:13:04] jg777: I have to be mindful of my clock time, too.
+[11:13:19] paulwithans: f6 clogs things up on the e file doesn't it
+[11:13:35] nyanners: not saying that every move needs to have a point besides "improves piece" but like.. i dont see what we are improving towards
+[11:13:35] ysgwydd: (19.Re3) f6 would make the queen even more passive. Maybe not a problem
+[11:13:50] nyanners: besides that, white did have the reasons to keep the rook on h1
+[11:13:50] ysgwydd: (19.Re3) Ra3?
+[11:14:20] jg777: I could launch arbo down the board and see how they respond to that too
+[11:14:36] nyanners: Rh4 Nd1 Ra3 Ne3. this is your DESTINY
+[11:14:36] nyanners: (probably not)
+[11:15:21] nyanners: i mean, if white gets 4 free tempi, it might be nice
+[11:16:07] paulwithans: who's arbo
+[11:16:07] nyanners: a-pawn i guess
+[11:16:22] nyanners: cant say ive ever heard arbo tho
+[11:16:53] jg777: Ah but now there is no Nf5 so maybe e5 is playable.
+[11:17:23] nyanners: yeah like.. on one hand i like Nc8 but on the other hand the ghost of Nf5 is what was keeping white from playing it
+[11:18:09] jg777: Hmm but it I also need to be aware of trades
+[11:18:09] nyanners: on the other other hand, no more Bxe7? maybe?
+[11:18:09] nyanners: *Bxc7
+[11:18:55] ysgwydd: (19...Nc8) Nb6-c4
+[11:19:25] jg777: e5 Re8 for example doesn't seem promising
+[11:19:41] jg777: And they have ideas of Nb6 c4 in this configuration of pieces, too.
+[11:24:00] nyanners: well what about Re8 now
+[11:24:00] nyanners: is e5 coming or not
+[11:24:31] jg777: Oh that wasn't useful. I lost some flexibility and not sure I can commit to my idea here anyway
+[11:24:31] paulwithans: Surely not now
+[11:24:46] nyanners: maybe id go with Re8 to enable f5
+[11:25:16] nyanners: Rhe8, that is
+[11:26:02] jg777: ideas of f2 always have to be on my radar for now which is annoying. but I really missed the boat here, f6 here and I have nothing.
+[11:27:03] nyanners: okay f6 is sensible
+[11:27:03] ysgwydd: (21...f6) Qf7 to attack h5 also
+[11:27:03] nyanners: yeah opening on h5 is good now
+[11:27:18] jg777: Yeah and h5 is weak so guess Rh1 may need to go back soon.
+[11:27:18] ysgwydd: (21...f6) Or Be8 even
+[11:27:18] jg777: So misplayed this for sure.
+[11:29:52] jg777: I have some serious issues here and I don't think I can solve them anymore. Qf7 Rh1 even f2 is a problem here I think.
+[11:30:53] jg777: Maybe not f2 immediately, But h5 is weak. I was hoping for a4-a5 stuff here, but far to slow.
+[11:31:39] jg777: But probably have to just go for it
+[11:32:40] jg777: when in trouble, bluff I guess is my operating theory now. They can't see my face after all! :P
+[11:33:26] nyanners: might just go 23..Nc8
+[11:33:41] nyanners: that gets played in basically every line so
+[11:34:11] nyanners: the "main alternative" looks like Qe8 to enable a5 Na4 but i dont like it
+[11:34:11] ysgwydd: (23.a4) Is it really that bad if black allows for a5-a6?
+[11:34:42] nyanners: i mean, i dont know if i wanna allow a6 or not, i agree it probably doesnt matter
+[11:34:57] nyanners: but if white is going to play a5 and you are going to play Nc8 and theres nothing obvious to do
+[11:34:57] nyanners: then just do that now
+[11:34:57] ysgwydd: (23.a4) True
+[11:35:28] jg777: This has to be nearly lost. I mean h5 falls, sometime there is h5-h4, and the kingside just falls.
+[11:35:43] nyanners: if anything white has to try something on b7
+[11:35:43] nyanners: like, without a5 maybe
+[11:36:29] nyanners: though that doesnt seem promising
+[11:36:44] jg777: Hmm they didn't take h5 here, maybe I can save it for now with Rh1. Just to buy time if nothing else.
+[11:36:59] nyanners: as black i wouldnt want Qxh5 Qxf6
+[11:38:31] jg777: I suppose I can play things like b4 here and just go onward against their king here, arguing they now don't have time to organize on h5
+[11:39:17] nyanners: qx?
+[11:39:17] ysgwydd: (24...c5) Qxc5 is a bad move
+[11:39:32] jg777: free pawn with Qxc5?
+[11:39:32] ysgwydd: (24...c5) Or soory it's not
+[11:39:32] ysgwydd: (24...c5) sorry
+[11:40:03] nyanners: this has to sting
+[11:40:18] nyanners: now a lot of dangers are real again
+[11:40:18] ysgwydd: (25.Qxc5) If black had point I don't see it
+[11:40:49] nyanners: ummm interesting
+[11:41:20] nyanners: id take d6 but i dont really like it
+[11:41:20] jg777: I think it would be a mistake to take on d6 here. Let's keep the position bottled up a bit and move the queen somewhere.
+[11:41:50] nyanners: odds are thats right
+[11:42:21] ysgwydd: (25...Ka8) Black could take on a4 after trades on d6
+[11:42:21] nyanners: i mean, taking d6 might put e5 back in the cards..
+[11:42:51] nyanners: like Bxa4 Qf4 into e5 next
+[11:43:22] nyanners: tho i feel white has mentally checked out of e5 basically forever at this point
+[11:43:37] joonaf: Go chess!
+[11:43:52] ysgwydd: (26.Qd4) Not easy to find a move here
+[11:44:07] nyanners: yea i like Qd4 a lot
+[11:44:07] jg777: I am trying to decide if I want to play Nd1 here so the rook can go over, so Qd4 to protect a4 for now.
+[11:44:38] nyanners: we might end up with Nd1 Ne3 Rh4 after all XD
+[11:44:53] nyanners: but i suppose its not going to e3 too soon
+[11:45:08] fischer_and_chips88: why not Nb5
+[11:45:24] fischer_and_chips88: oh the knight defends a7
+[11:45:24] fischer_and_chips88: but Bxd6
+[11:45:39] jg777: Hmm. Now I like Nb5 stuff..
+[11:46:09] ysgwydd: (28...Qd7) Quick capture
+[11:46:09] nyanners: yea im not sure how to evaluate this
+[11:46:25] nyanners: like, Bxb5 was my reflex. but its a pretty big decision
+[11:46:41] nyanners: definitely a lot could happen on the a-file
+[11:46:41] ysgwydd: (29.c4) White does have the pawn breaks
+[11:46:56] nyanners: despite the knight being there
+[11:46:56] jg777: Low on the clock so I need to make some quicker moves here, but lining up A file here seems promising
+[11:47:26] nyanners: Nb6 i probably dislike
+[11:47:26] nyanners: like, its pretty obvious what white is doing
+[11:47:42] nyanners: Qc5 i guess?
+[11:47:57] nyanners: like okay that defends checkmate but maybe white can just play normally after q trade..
+[11:48:27] jg777: Kd2 Rha1 and I should be winning this that I can see.
+[11:48:43] fischer_and_chips88: a-file attack looks very powerful here once the other rook comes over I think
+[11:48:58] nyanners: ooooooooohh okay i see
+[11:48:58] nyanners: black will play b6
+[11:48:58] nyanners: and defend on the seventh
+[11:49:13] jg777: Ah b6 and defending on the 7th.
+[11:49:29] joonaf: heh
+[11:49:29] fischer_and_chips88: Rxa7
+[11:49:29] paulwithans: lol
+[11:49:29] nyanners: umm
+[11:49:44] jg777: Can I sac on a7 here maybe?
+[11:49:59] nyanners: i mean, black still has Qc5
+[11:49:59] nyanners: but maybe its mating net
+[11:49:59] paulwithans: So Kc2 here then
+[11:50:14] nyanners: i.e. dont take the knight
+[11:50:29] jg777: Rxa7+ Nxa7 b6 Qc5. Maybe now.
+[11:50:29] jg777: not*
+[11:50:45] nyanners: yea i mean, continue that line a bit
+[11:50:45] nyanners: Qxc5 into Kd2 into Ra1..
+[11:51:00] nyanners: Qxc5 opens the bishop diagonal covering b8
+[11:51:30] ysgwydd: (31...Nc8) Looks like mate
+[11:51:30] nyanners: definitely scary with one minute
+[11:51:46] nyanners: i will play it if i have 10 seconds or 10 minutes
+[11:51:46] nyanners: nothing in between
+[11:52:01] ysgwydd: (31...Nc8) That sneaky bishop has waited for a long time for this
+[11:52:16] nyanners: like, you need that time trouble to not give any time for hesitation, yknow
+[11:52:31] nyanners: umm
+[11:52:31] nyanners: now..
+[11:52:47] ysgwydd: (32...Rh7) Hmm
+[11:52:47] fischer_and_chips88: now Rxa7
+[11:52:47] nyanners: yea now its easy
+[11:53:02] fischer_and_chips88: dew it
+[11:53:02] nyanners: no doubt the main line works
+[11:53:02] nyanners: aw
+[11:53:17] nyanners: i think white missed the diagonal opening
+[11:53:32] ysgwydd: (34.b4) If it's not mate  it's not good
+[11:53:47] nyanners: yea exactly
+[11:54:03] ysgwydd: (35.c5) a7 is protected alright
+[11:54:03] nyanners: umm
+[11:54:03] nyanners: doesnt seem right
+[11:54:33] nyanners: idk
+[11:54:48] nyanners: white initiative is still something regardless
+[11:54:48] ysgwydd: (36...Qxc5) Watch this get decided by the f3 pawn
+[11:55:04] nyanners: naaaaaaahh you gotta take that queen
+[11:55:19] fischer_and_chips88: I think black is fine now if not winning
+[11:55:19] jg777: I messed that up. totally forgot Qxc5 was a move.
+[11:55:19] fischer_and_chips88: because now there will be nothing on a7
+[11:55:34] jg777: Started moving to quickly there, that cost me.
+[11:55:49] fischer_and_chips88: hard to sac the rook with 1 min
+[11:55:49] nyanners: Qxb5 with counterattack :o
+[11:56:05] nyanners: thats cold
+[11:56:20] ysgwydd: (37...Qxb5) Poor a7 being in the middle of all the fighting
+[11:56:35] nyanners: these black rooks are real mvps
+[11:56:35] ysgwydd: (37...Qxb5) Qe2+ threat?
+[11:56:35] nyanners: i suppose black has to be a bit careful to not randomly hang c8
+[11:56:50] nyanners: yes
+[11:56:50] fischer_and_chips88: I though it was kinda funny when black lifted them both to the seventh rank cause it seemed so slow
+[11:57:06] nyanners: i mean, it was
+[11:57:06] nyanners: b6 was late
+[11:57:21] ysgwydd: (37...Qxb5) Slow only if white is fast
+[11:57:21] jg777: and I don't have Rxa7, I rushed into a terrible position from what was looking super good. Bad Jordan. :P
+[11:57:36] fischer_and_chips88: Qc3 here?
+[11:57:51] nyanners: anything on qe2 rc7
+[11:57:51] fischer_and_chips88: Qe2 Kc2 Rc2 and there is funny business on a7/c8
+[11:58:07] fischer_and_chips88: Kc1 I mean
+[11:58:07] fischer_and_chips88: and Rc7
+[11:58:07] nyanners: umm
+[11:58:22] nyanners: i mean the problem is that the queen is pinned
+[11:58:22] nyanners: so okay Rxa7  you cant take but.. thats also it
+[11:58:22] fischer_and_chips88: yeah but the rook is pinned to the knight
+[11:58:37] jg777: if it wasn't a TL game I'd resign this as I have no business not losing such a game. But carry on I shall for now.
+[11:58:37] fischer_and_chips88: Kb8 only move then Ra8
+[11:59:07] nyanners: umm
+[11:59:23] nyanners: qe2 kc1 rc7 rxa7 nxa7 rxa7 kb8 right
+[11:59:38] nyanners: white lost a rook in the process
+[11:59:53] jg777: That was a terrible time mismanagement, I had a minute or so to look at that position previously before committing.
+[12:00:08] nyanners: eh if anything the mismanagement was earlier
+[12:00:08] jg777: it's these games that remind you the important lessons. :)
+[12:00:08] nyanners: you can only guess so much after youre down to inc
+[12:01:55] jg777: Trade queens, f5 or something, it should be winning I think
+[12:02:57] fischer_and_chips88: mm you're right nyanners I messed rx before nx
+[12:03:43] nyanners: fair
+[12:03:58] jg777: f5 seems like disaster for me, I can't push e5 but anything else looks terrible
+[12:03:58] ysgwydd: (39.Kxd3) Not that easy to untangle for balck I feel
+[12:04:14] nyanners: maybe its not so bad????
+[12:04:44] nyanners: it probably is
+[12:05:30] jg777: Problem is my pieces just don't make any sense anymore since a7 never falls and black just plays f5 stuff and goes after d5 and h5.
+[12:06:46] nyanners: like yeah f5 is critical. so how can white prepare..
+[12:06:46] jg777: I guess my best try if f5 is Bf4 and if fxe4 then Kxe4 and prevent Rf5 if possible
+[12:07:32] nyanners: Bf4 is fair
+[12:09:19] jg777: I offer bluff and tricks perhaps here
+[12:09:34] nyanners: as far as bluffables go, this isnt the worst
+[12:09:50] nyanners: black might just randomly win with some Rxf4 tho
+[12:10:20] nyanners: like, now? yeah now
+[12:10:51] jg777: Not saying lorb has to go for it, but Rxf4 could even be winning here
+[12:11:06] ysgwydd: (43.Kd4) Rxf4 looks very scary
+[12:11:06] nyanners: i think it just works
+[12:11:21] nyanners: like actually no way to deal with f2 Re1
+[12:11:36] nyanners: or f2 g2 of course
+[12:11:51] jg777: I probably can defend it with R6a3 if they do though, so maybe it doesn't work... yet.
+[12:12:07] ysgwydd: (43.Kd4) Rh8-e8+ was a nice manouver
+[12:13:08] nyanners: to be clear, i mean Rxf4 into g3 :p
+[12:13:23] nyanners: reading back that wasnt clear
+[12:13:23] nyanners: and then f2 whatever seems unstoppable
+[12:13:38] nyanners: like g3 R6a3 f2 and yeah Re1 coming
+[12:14:39] jg777: I am not even sure what I am thinking with Ra6 really, d6 can't be taken here becuase that allows f2 right?
+[12:14:54] jg777: So I threw a piece on a6 that actually has no future.
+[12:15:25] nyanners: okay f2 is definitely advertising Rxf4..
+[12:15:25] jg777: Oh yeah they are going for the Rxf4 idea, f2 preps that with Rf1 Rxf4 gxf4 g3 with g2 next.
+[12:15:40] ysgwydd: (43...f2) Re1 also
+[12:15:40] nyanners: yea :o
+[12:15:55] nyanners: i suppose thats a good lazy option because i dont see what white does about it
+[12:16:10] nyanners: of course Rf1 just plays into g3
+[12:16:56] ysgwydd: (43...f2) Rf1 is anyway forced
+[12:16:56] jg777: I was thinking of throwing Rc1 here as a trick but it's not even a trick- Re1 Rxc8+ Kb7 right.
+[12:17:12] nyanners: well i mean, that clearly loses, so this might be resigns
+[12:17:12] jg777: Once again, what is the rook on a6 doing there? :P
+[12:17:12] nyanners: and you have to pick one line to go with the motions
+[12:18:13] jg777: Yeah I don't even think there is a move to make here that isn't absolutely losing.
+[12:18:28] nyanners: Rf1 and R6a1?
+[12:18:43] ysgwydd: gg!
+[12:18:43] nyanners: gg
+[12:19:14] fischer_and_chips88: wow the rook sac works even before Kd2
+[12:19:14] nyanners: okay thats also losing but longer
+[12:19:29] nyanners: so the mating net was real :o
+[12:19:29] nyanners: but tough one
+[12:19:44] nyanners: way easier the next move for sure
+[12:21:46] jg777: Yeah, I really missed way to much this game, loss deserved on this one. Critical moments and I missed the boat.
+[12:21:46] lorb: I'm sure white should have won this at some point soon after Qxc5 ... I certainly got lucky to get to an endgame
+[12:22:01] jg777: I guess I will need to work on calculation if I am going to hang with these B3's this season :P
+[12:22:01] jg777: cheers
+[12:23:48] paulwithans: gg
+[12:24:33] jg777: Saw the Rxa7 idea, thought Qc5 stopped it. totally missed that b8 is cut off and I can walk my rook to a1.
+[12:25:04] jg777: I didn't calculate further ahead there and ask what if Qxc5 anyway. I guess I thought I had safer options.
+[12:25:49] nyanners: ooh i guessed right :o
+[12:26:20] nyanners: i mean, the comment about time management has to go somewhere earlier
+[12:26:20] nyanners: arguably you shouldnt be on inc at that point
+[12:27:06] nyanners: realistically you didnt really have time to calculate further
+[12:27:36] jg777: Right, I wasn't using time well, wasn't calculating the right lines well, it's a deserved loss and a good demonstration where I need to work
+[12:28:37] nyanners: good fight both
+[12:28:37] jg777: But if I'm going to lose, at least it was in a fun KG game, I rarely get them.
+[12:28:52] nyanners: 9 Qd2 preventing f3
+[12:29:53] jg777: Yeah I've not looked at KG lines much in a long time, forgot the Qd2 ideas, mixed up another line with g3
+[12:31:10] nyanners: yeah i like this line both sides :o
+[12:31:40] nyanners: white usually slips, black usually slips
+[12:31:55] nyanners: tough to face in targeted prep of course
+[12:32:56] jg777: Yeah maybe now with a loss on my record more opponents will spring for a KG, that would be a nice silver lining.
+[12:32:56] jg777: I'd rather be playing a KG than a lot of other openings if I had my choice. :)
+[12:34:28] nyanners: yeah most anti-kg propaganda is fundamentally flawed but we shouldnt talk about that in public........
+[12:35:14] jg777: Anyway, time for me to head out, bad for the team, but a deserved loss for me and worth the price if it motivates more to play KG with me :)
+[12:35:44] nyanners: gg :o
