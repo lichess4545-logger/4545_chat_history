@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/khQP2mJC
+White     : jessehf
+Black     : jviktorov
+Time      : 30+30
+Captured  : 2026-07-11 00:47:06 UTC
+Game ended : 2026-07-10 23:27:04 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[21:43:33] jessehf: i am streaming my game on twitch.tv/aztecachess
+[21:44:03] inter-temporal: (8...O-O) https://www.twitch.tv/aztecachess
+[21:44:18] inter-temporal: (8...O-O) with a link
+[22:06:43] bufferunderrun: 12.Nxd5 or Bd2, that is the question...
+[22:08:15] bufferunderrun: hmm, I don't like Qd2
+[22:08:45] bufferunderrun: can black Nxc3 and e4 now? with Bf6 threat
+[22:12:34] bufferunderrun: if this doesn't work, Nxe3 is fine
+[22:12:49] grzybozbur: but nxc3 qxc3 e4 de and then white can play e5
+[22:12:49] bufferunderrun: Idk why jessehf just gave up the bishop pair
+[22:13:50] bufferunderrun: maybe, I leave calculation to other people, I'm just throwing in  ideas :p
+[22:15:22] bufferunderrun: but still... 13...Bf6 and e4, e3 is going to be weak
+[22:15:22] bufferunderrun: d3*
+[22:16:39] grzybozbur: i don't actually like this bf6 idea much
+[22:20:27] grzybozbur: ok, maybe i should have liked it better
+[22:20:57] bufferunderrun: yeah, dropping the exchange
+[22:21:43] grzybozbur: but white should be ok, you get a pawn and central control
+[22:22:59] bufferunderrun: Nd2 e4 Qc2 Bxa1 Rxa1 exd3 exd3 with weak d3 :/
+[22:24:31] grzybozbur: no, you just play qc1/c2 and you get a pawn for the exchange
+[22:25:02] grzybozbur: and white seems solid
+[22:26:03] bufferunderrun: maybe there is Bxc6 there at some point, but probably not, since no e-pawn and Bd5 saves the c6-pawn
+[22:27:03] grzybozbur: qd2 i don't like
+[22:27:49] grzybozbur: what after e4 now? if you take, black will trade queens
+[22:31:07] grzybozbur: maybe qd2 was a clever way to complicate the position
+[22:31:38] grzybozbur: because i don't know what's happening here
+[22:31:53] bufferunderrun: well, it gives something at least
+[22:32:38] grzybozbur: white looked fine in qc2 line to me, here i have no idea
+[22:32:54] grzybozbur: maybe white is better, maybe losing, i don't know
+[22:33:55] bufferunderrun: definitely not better, but some compensation in form of the bishop pair
+[22:37:59] bufferunderrun: the bishop pair on its on is like worth a pawn, so kind of down two pawns here, weaker e5, weaker c7
+[22:38:44] bufferunderrun: Idk, if white gets another pawn, it would probably be close to a draw, generally speaking
+[22:38:44] grzybozbur: white can just take on c6
+[22:39:15] bufferunderrun: maybe
+[22:40:16] bufferunderrun: so 20.Bxc6 bxc6 Qc3 Rfd8...
+[22:40:46] bufferunderrun: d3 and a3 weak as well
+[22:41:17] grzybozbur: but white's solid, all the black pawns are weak
+[22:44:20] bufferunderrun: 22.Bxc6 and then Bg5
+[22:48:54] grzybozbur: just keep the queens on, and black must be ok?
+[22:51:12] bufferunderrun: the weak back rank is unfortunate for black
+[22:51:43] grzybozbur: so h6 or something
+[22:54:01] grzybozbur: this must be losing
+[22:55:47] bufferunderrun: probably, but rook endgames are tricky
+[22:56:33] grzybozbur: bur rb6 is forced, white plays rc5 re6 is forced and it looks dead lost
+[22:57:49] grzybozbur: i don't see how black can defend this
+[22:58:05] bufferunderrun: Rb3? probably lost, but Idk how lost
+[22:59:05] grzybozbur: rb3 rc5, e5 drops, easy win for white
+[23:00:06] bufferunderrun: too little time...
+[23:00:52] bufferunderrun: K to c3 or go after the pawns...
+[23:01:38] grzybozbur: kg2 seems the simplest
+[23:04:26] grzybozbur: i never understand why people trade into lost pawn endgames like that
+[23:04:42] grzybozbur: in a rook endgame the opponent can blunder something
+[23:05:42] bufferunderrun: hmm... dont' they both queen
+[23:06:44] grzybozbur: how?
+[23:06:44] bufferunderrun: so 7 moves to Q for black
+[23:07:00] grzybozbur: even g5 didn't work
+[23:07:15] bufferunderrun: 6 for white, but Qa1+
+[23:07:45] grzybozbur: hm, right
+[23:08:01] grzybozbur: i'd still prefer the lost rook endgame to this
+[23:08:16] bufferunderrun: probably a winning Q endgame, but yeah...
+[23:09:02] bufferunderrun: Qb8+ perhaps is worth a look
+[23:10:18] bufferunderrun: Qf5+ otherwise
+[23:12:04] bufferunderrun: 45.Qe8+ seems fine
+[23:16:39] bufferunderrun: 50,h4 next I guess
+[23:26:49] bufferunderrun: gg
