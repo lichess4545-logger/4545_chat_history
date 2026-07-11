@@ -1,0 +1,168 @@
+Lichess game chat log
+Game      : https://lichess.org/0x4lxTcj
+White     : milsbees
+Black     : computeruser2607
+Time      : 45+45
+Captured  : 2026-07-11 15:44:04 UTC
+Game ended : 2026-07-11 14:23:59 UTC
+Messages  : 158
+────────────────────────────────────────────────────────────
+
+[12:05:48] milsbees: hi val, first classical game playing this!
+[12:06:49] milsbees: I have the least amount of prep in this line, but it's also the most straightforward
+[12:07:19] milsbees: Either we get dxc3 Bxf7+ or this
+[12:15:45] val1313: (9...Nxd2) Go Mils !
+[12:19:49] milsbees: I've been out of prep since 8.cxd4. This was just one of the 'let's play chess' lines
+[12:21:37] milsbees: I can imagine we get something like Bh5 Qa4 trade on d2 and then Ne7
+[12:22:07] milsbees: I've never really played this, but is f4 g4 an idea or is that too crazy? XD
+[12:25:26] milsbees: maybe that line isn't completely forced, but on Be7 I can take on c6 and that doesn't look super great for black
+[12:25:41] ttsgosadow: let's go Mils!
+[12:28:44] val1313: (14...Ne7) position looks promissing
+[12:35:35] val1313: (14...Ne7) The problem now is that you have to re-route a lot of things because C6 is coming and you have to go back on the king side
+[12:36:36] val1313: (14...Ne7) is F4 a move now ? try to take advantage of the ND2 knight ?
+[12:38:23] val1313: (14...Ne7) giving up e4 is kind of scary though
+[12:40:09] nyanners: no good way to get there
+[12:40:25] nyanners: i like it
+[12:40:41] nyanners: how does black even deal with this
+[12:41:11] nyanners: f6 is risky
+[12:41:11] milsbees: Maybe g5 was better I don't know, but I thought that after Bg6 f4 black could have c6 maybe
+[12:43:13] milsbees: black has f6 as well, so I don't think I'm actually winning this bishop realistically
+[12:44:46] nyanners: no yeah, of course winning the bishop is a bit much. but getting a concession is nice
+[12:49:50] itsasecret2000: (16...f5) Go Mils
+[12:50:51] val1313: (16...f5) Is pushing a move here ? claiming black f pawn is kind of in the way ?
+[12:51:22] nyanners: reflex is to just leave it. black doesnt ever want to take on g4 probably
+[12:51:37] val1313: (16...f5) oh ok
+[12:51:37] itsasecret2000: (16...f5) what about h5 by black?
+[12:52:08] nyanners: i mean, there could be a point. but id like g5 to be a prelude to h4 h5 or so
+[12:52:23] nyanners: h5 instead of f5 you mean?
+[12:52:38] itsasecret2000: (16...f5) no i mean if white just make another move and keep the tension
+[12:52:38] nyanners: oooohh
+[12:52:53] nyanners: well worst bishop ever.. but be8 perhaps?
+[12:53:24] nyanners: so that makes us think about moving the white bishop now as to not run into Be8
+[12:53:39] itsasecret2000: (16...f5) yeah
+[12:53:54] nyanners: like the underlying thought is something like
+[12:54:10] nyanners: ..h5 might encourage g5
+[12:54:25] nyanners: and its good for black to trade the bishops when the structure is defined like that
+[12:54:25] nyanners: (of course)
+[12:54:55] nyanners: so is h5 a good move? tbf its not clear
+[12:55:10] nyanners: but theres good positional logic there
+[12:55:26] itsasecret2000: (16...f5) i dont pretend is good, but at least seems annoying bc it forces to do smt about g4
+[12:55:26] nyanners: but i mean, maybe white could just bluff call and be like okay youve traded but you have no space no plan
+[12:55:41] ttsgosadow: G5 would be a
+[12:55:56] ttsgosadow: move I would make
+[12:55:56] nyanners: of course black would try to get in Ne6 but that would need some more support
+[12:56:27] ttsgosadow: locks up black bisshop, and whites very happy with those pawns
+[12:56:42] nyanners: yeah thus the points about Be8 forcing a trade
+[12:56:42] milsbees: my first thought was Qa3 to just eye black's knight, but then after c6 Be2 Qb6 Qxe7 Qxd4 is a check
+[12:56:57] milsbees: although now I'm writing this I'm realizing I may have Rf2 there anyway
+[12:56:57] itsasecret2000: oof i was about to forget i have a 960 match in 4 min
+[12:57:13] itsasecret2000: ill be back later
+[12:57:29] itsasecret2000: go mils
+[12:57:29] milsbees: oh wait no, my bishop would be on e2
+[12:57:29] milsbees: okay so I think I did calculate that correctly
+[13:01:49] nyanners: maybe just Be8 without h5?
+[13:02:19] nyanners: doesnt feel very good regardless
+[13:15:02] milsbees: I'll be honest, Nf1 wasn't a reason why I played Rf2. But I didn't see another way now to save my pawn. Nf3 didn't work because of ...
+[13:15:02] milsbees: ...fxg and Rxf4
+[13:15:32] itsasecret2000: here i am
+[13:15:48] itsasecret2000: my opponent blitzed and blundered a couple of pieces lol
+[13:17:04] itsasecret2000: (19.Nf1) what about Qg4?
+[13:17:04] itsasecret2000: (19.Nf1) Qh4*
+[13:18:05] itsasecret2000: (19.Nf1) Qh4 Kg2 fxg h5 with treath over f4 and also Be4 Qh1# idea
+[13:19:06] val1313: (19.nf1) qh4 qb2 ?
+[13:19:06] val1313: (19.Nf1) B3 I meant
+[13:19:21] guitarspider: go Mils
+[13:19:21] itsasecret2000: (19.Nf1) Nxd4
+[13:19:36] itsasecret2000: (19.Nf1) white queen has to defend d4 also
+[13:19:36] val1313: (19.nf1) qxd5 ?
+[13:19:52] itsasecret2000: (19.Nf1) oh yeah oc
+[13:20:22] itsasecret2000: (19.Nf1) missed the check
+[13:20:52] itsasecret2000: (19.Nf1) then Qh4 Qb3 Rad8 maybe
+[13:22:09] val1313: (19.Nf1) and QG3 ?
+[13:22:40] val1313: (19...Qh4) oh but you drop D4
+[13:23:10] val1313: (19...Qh4) not easy
+[13:23:40] itsasecret2000: (19...Qh4) yeah it's a mess
+[13:24:11] val1313: (20...Rad8) so RAd1 after RD8 ?
+[13:24:26] itsasecret2000: (20...Rad8) yeah i guess smt like that
+[13:25:12] fischer_and_chips88: I just got here what's the deal with Nf1
+[13:25:42] guitarspider: b7 is a problem, so Rad1 looks good to me
+[13:25:42] val1313: (20...Rad8) N was tired to chill on D2
+[13:26:28] itsasecret2000: also Rafi's game is going on
+[13:28:30] milsbees: this is quite complicated, but I think I'm now threatening to take on b7? On Qxh3 I have Rh2 and the queen is trapped
+[13:29:17] val1313: (21.Rd1) nice one
+[13:31:49] milsbees: that's pretty greedy though, not sure if that's even worth it
+[13:35:53] nxn: fxg4 make  white have  the attack
+[13:38:10] val1313: (22...Be4) Just Rh2 ?
+[13:38:25] nxn: yeah
+[13:38:25] val1313: (22...Be4) and grab B7 ?
+[13:38:41] nxn: Rh2 Qe7 Qh3 g6 f5
+[13:39:57] val1313: (23...Qe7) if g6 you have NG3 ?
+[13:40:27] val1313: (23...Qe7) oh but F4 is unprotected now
+[13:41:44] val1313: (23...Qe7) I think I would go for B7 still
+[13:41:44] val1313: (23...Qe7) here
+[13:44:47] milsbees: aaaaaaah there's so much to look at
+[13:44:47] nxn: f5 first
+[13:46:20] nyanners: first thought was qg3 and second thought was qe3
+[13:46:20] nyanners: i didnt even notice b7 was hanging
+[13:46:35] nyanners: could be for the best
+[13:46:51] nyanners: qxb7 nb4 maaaaaybe weird
+[13:47:21] nyanners: f5 seems nice too
+[13:48:52] nxn: see white should act on the  KS not the QS
+[13:49:08] nxn: otherwise black will hit there
+[13:50:24] nxn: also white has more activitey on KS with a Pawn Storm
+[13:51:25] val1313: (24.f5) Yeah I agree. a lot easier to play for white now
+[13:53:12] nxn: now if black try to attack again with Qg5 , will pay for that
+[13:54:29] nxn: Qg5 Rh5 ( Qf4 is greedy and  make it out ) Qe7 Qh3
+[13:55:45] val1313: (24...Nb4) QH3 now I think
+[13:55:45] nxn: yes
+[13:56:46] nxn: but the  question is black will response with h6 or g6
+[13:57:02] nxn: g6 is more aggressive and  make  counter play
+[13:57:17] nxn: but complicate for calculation
+[13:57:17] val1313: (24...Nb4) G6 F6 looks scary ?
+[14:00:05] val1313: (26.a3) Here I thought Ng3 ? activate your knight
+[14:00:05] nyanners: lots of scary possibilities
+[14:00:51] nyanners: i want f6 but maybe too soon
+[14:00:51] val1313: (26...Nc6) yeah
+[14:01:06] nxn: me too looking for f6
+[14:02:22] nxn: white need to exchange black bishop
+[14:03:08] nxn: what ?
+[14:03:54] val1313: (27...Nxd4) desperate ? I mean the pin gets you nowhere right ?
+[14:04:24] nxn: Nxe4 Qxd4 Nf2
+[14:04:39] val1313: (28...Qc5) NxE4 here ?
+[14:04:39] val1313: (28...Qc5) yeah
+[14:04:55] itsasecret2000: i think there was no need to kick the knight with a3, on b4 it wasn't doing a lot
+[14:05:10] nxn: the  exchange was better for white
+[14:05:25] val1313: (30.Nf2) you drop e5 with tempo
+[14:05:40] val1313: (30.Nf2) annoying
+[14:05:56] itsasecret2000: yeah i think white is in danger now
+[14:06:26] paulwithans: Would 29 Nxe4 Dxe4 have worked out there for black
+[14:06:26] nyanners: a3 regret kicking in
+[14:06:26] val1313: (30.Nf2) maybe its better to take on b2 actually
+[14:06:41] val1313: (30.Nf2) for black
+[14:06:41] val1313: (30.Nf2) no nvmd
+[14:16:06] val1313: (34...Rfe8) rxe3 rxe3 Qh5 ?
+[14:16:21] milsbees: Oh what am I doing :(
+[14:16:37] val1313: (35.Qg3) I don't understand,
+[14:17:54] nyanners: tension overload
+[14:18:09] val1313: (36.g5) tough
+[14:18:39] nyanners: maybe re3 and white is done for
+[14:18:55] nyanners: (either rook?)
+[14:19:25] nxn: Re8e3
+[14:19:40] nyanners: i liked Re2e3 because now Qxd3 is check
+[14:20:26] nxn: yes better
+[14:20:26] nyanners: but e8e3 also seems winning
+[14:20:41] nyanners: or i should rather say simplifying immediately
+[14:21:12] nyanners: black not bothering with calculating Qxd3 which is fair tbh
+[14:21:27] nyanners: predicting h7 Kh8 resigns
+[14:21:57] val1313: (39...Kh8) yep
+[14:22:28] nxn: GG , nice Knigh sac
+[14:22:58] val1313: (39...Kh8) very good practical decision
+[14:22:58] milsbees: gg
+[14:22:58] val1313: (39...Kh8) especially with the time situation
+[14:23:29] nyanners: easy prediction :o
+[14:23:29] nyanners: tough game gg
+[14:23:29] val1313: gg gys !
+[14:23:29] val1313: tough one Mils
+[14:25:00] guitarspider: gg
+[14:26:01] paulwithans: gg
+[14:26:32] itsasecret2000: gg
