@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/hWx9cQRB
+White     : inter-temporal
+Black     : mobusel
+Time      : 45+45
+Captured  : 2026-07-11 22:11:34 UTC
+Game ended : 2026-07-11 20:51:26 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[18:32:02] inter-temporal: (2...d6)  lets' try open
+[18:32:33] inter-temporal: (5...a6) ahh. that move. i think i prefered Be3...
+[18:32:48] inter-temporal: (6...e6) try smth different
+[18:33:34] inter-temporal: (8...Qc7) black had a game where he played 12...Qc5, which is all i'm following now
+[18:35:36] inter-temporal: (10.g4) ...h6, take take, h4
+[18:35:36] inter-temporal: (10.g4) maybe
+[18:36:53] inter-temporal: (12.h4) here he played ...Qc5, which allows e5 & Ne4
+[18:37:23] inter-temporal: (12.h4) because ...Qc5 is N-distance from e4
+[18:37:38] inter-temporal: (12.h4) but maybe Nb6 or Qb6 is better
+[18:37:54] inter-temporal: (12.h4) if Qb6 my Nd4 is en prise
+[18:38:24] rpcx: go inter
+[18:38:39] inter-temporal: (12.h4)  im mostly aiming for g5, probably
+[18:39:10] inter-temporal: (12.h4) my Rh1 is defended by Qf3, so my h-pawn is not pinned
+[18:40:27] inter-temporal: (12...Nb6) interesting thing i noticed about Nb6 is it blocks the b-pawn for now
+[18:40:42] inter-temporal: (12...Nb6) g5 Be7, maybe Rg1
+[18:41:43] inter-temporal: (13.g5) indeed this 12...Nb6 is what i expected because  12...Qc5 was a mistake
+[18:42:29] inter-temporal: (15.Rd2) so surprising when narrow prep goes as planned.
+[18:42:44] inter-temporal: (15.Rd2) Bd7, Be2 i think
+[18:42:44] tommeketoch: let's go it
+[18:43:30] nyanners: i had forgotten about the unicorn flair
+[18:43:30] nyanners: is cute
+[18:43:30] inter-temporal: (15...Bd7) but if then ...Na5 that will be quite the coincidence that we both found the same engine line?
+[18:44:15] nyanners: i dont remember anything about these lines, either
+[18:44:31] inter-temporal: (16.Be2) i can hardly believe we're still on my prep line. lol. this rarely happens, except when i lose
+[18:44:46] inter-temporal: (16.Be2) it was Na4, Rd3 Rc8, Bd1 pretty sure
+[18:45:32] nyanners: usually the downside of landing deep prep is that opponent is also in deep prep
+[18:45:32] nyanners: so not a fan
+[18:46:18] inter-temporal: (16.Be2) if he follows that line, then oc short castle or no castle remain
+[18:46:33] inter-temporal: (16.Be2) and the g-file will likely open up
+[18:48:50] ysgwydd: (16...O-O-O) I think black is more on point for black
+[18:49:05] rpcx: there ends the prep
+[18:49:05] ysgwydd: (16...O-O-O) I think long catle is more on point for black
+[18:49:21] inter-temporal: (16...O-O-O) k. now i'm on my own.
+[18:49:51] ysgwydd: (16...O-O-O) These lines are messy
+[18:50:22] shamdi: Go Inter!!
+[18:51:23] rpcx: white is probably better but these positions are really annoying to find a plan in
+[18:52:09] inter-temporal: (16...O-O-O)  Rhd1 Bc6, Qg3 maybe
+[18:52:25] nyanners: yeah this is a kinda unfun point to have to figure it out
+[18:55:28] inter-temporal: (16...O-O-O) Qd3 Bc6, Bg4 ; but Qd3 hxg5, is trickier
+[18:58:16] oachkatzerlschwoaf: go tempy to tempy go tempy
+[18:58:31] oachkatzerlschwoaf: open sicilian finally
+[18:58:46] oachkatzerlschwoaf: heavy najdorf theory
+[18:59:01] oachkatzerlschwoaf: giri line
+[19:00:48] oachkatzerlschwoaf: O-O-O seems incorrect
+[19:02:35] bpack: (16...O-O-O) Go Inter!
+[19:19:22] ysgwydd: (18...d5) Still a game in the master's database
+[19:20:54] rpcx: so gxh does work
+[19:23:41] inter-temporal: (19.exd5) considered Rd4
+[19:40:58] bpack: (21.Rd3) cheeky
+[19:42:14] rpcx: f5 ?
+[19:43:46] bpack: (21...Kb8) would kinda want a clearer combo to follow f5
+[19:43:46] bpack: (21...Kb8) does seem like it should happen soon tho
+[19:57:16] bpack: (23.Rc3) Rd1d2 and Rc3 look fine but black is kinda wriggling out
+[19:57:31] bpack: (23...Qa5) can maybe aim to play Bxd5 and look to play against the isolani
+[20:16:04] inter-temporal: (28.Qd3) ...Qf2, gxh6 we'll see
+[20:16:50] tommeketoch: why a3 and Qd3 instead of Qb3. Now you are also never treatening to take on on d5
+[20:17:21] tommeketoch: I guess this defends f5
+[20:20:39] rpcx: what does kb1 do ?
+[20:20:54] bpack: (30.Kb1) save time =)
+[20:21:24] goldenretrieverchess: Gooo IT!
+[20:23:11] bpack: (30.Kb1) maybe for opening up an escape square so the rook or Q and be free to manuever. allow a near future check or sac the c2 pawn for
+[20:23:11] bpack: (30.Kb1) initiative
+[20:30:04] bpack: (32.gxf6) maybe b5 next?
+[20:30:04] ysgwydd: (32.gxf6) Rxf6 Rf2 g6
+[20:32:37] bpack: (32...Rxf6) er meant b4 but that's out the window now. that g6 line looks like fun for black
+[20:38:27] highonpotnuse: go inter!
+[20:39:13] tommeketoch: as long as both major pieces stays on the board we might have chances!
+[20:41:46] tommeketoch: Isn't Rxd4 very strong here?
+[20:42:01] bpack: (34...Qd5) Yasser says, take the pawn!
+[20:42:01] godgifu: gooo mobusel
+[20:42:16] bpack: (34...Qd5) looks very strong, but time trouble erodes confidence
+[20:42:47] bpack: (35.rxd4) nice!!!!
+[20:42:47] tommeketoch: critical line is Rxd4 Qxf4 Rd8 Ka7 Qd4 and now b6 forced
+[20:43:02] tommeketoch: and that king is very weak
+[20:43:17] bpack: (36.Rd8+) winning the g pawn soon?
+[20:43:17] bpack: (36...Ka7) maybe better
+[20:43:49] bpack: (36...Ka7) mmm maybe not
+[20:44:04] bpack: (36...Ka7) wait, maybe so, i should calcualte before typing =P
+[20:44:04] tommeketoch: Qd4 b6 Rd6
+[20:44:34] tommeketoch: oh no Qd6 maybe afer the check
+[20:45:20] tommeketoch: oh no
+[20:45:35] bpack: (38...Qc4+) oof
+[20:45:35] inter-temporal: (38...Qc4+) miscalculatec
+[20:46:06] inter-temporal: (38...Qc4+) go ahead and mate
+[20:46:21] ysgwydd: (38...Qc4+) This was a problem in the Qd4+ lines as well
+[20:47:07] inter-temporal: (41...g5) halluciated c4 and d5
+[20:47:07] tommeketoch: yeah, but Qd4 and then just b3 or something
+[20:49:39] bpack: (52.c3) dreams of stalemate...
+[20:50:40] bpack: (55...Qe2+) Qe2-Qc2
+[20:50:40] bpack: (56...Kxc3) or not =P
+[20:50:55] bpack: (56...Kxc3) this is nicer
+[20:50:55] guitarspider: gg
+[20:50:55] ysgwydd: gg
+[20:50:55] bpack: ggs
+[20:50:55] godgifu: GG!!
+[20:51:41] inter-temporal: good play mobusel
+[20:51:56] inter-temporal: i have the engine toggled off until later
+[20:52:57] inter-temporal: 37.Qd6 somehow thought i still had the check covered at c4.
+[20:53:12] inter-temporal: but the move uncovered the check.
+[20:53:43] inter-temporal: then i guess some time trouble panic after that... dang
+[20:53:59] inter-temporal: thanks for watching. i'm gonna put this in a study
