@@ -1,0 +1,80 @@
+Lichess game chat log
+Game      : https://lichess.org/TCUz2TSs
+White     : unspoke
+Black     : mcstudly
+Time      : 45+45
+Captured  : 2026-07-11 17:53:05 UTC
+Game ended : 2026-07-11 16:32:56 UTC
+Messages  : 70
+────────────────────────────────────────────────────────────
+
+[14:09:51] rajjsinghh: Seems like Mcstudly took my suggestions, black should probably be fine with accurate play
+[14:44:41] sahkal: Go mcstuddly!
+[14:45:42] sahkal: Even game
+[14:46:28] mcstudly: Hmm, went from better to, uh, not better lol. I think I still have tempos though, I don't think he can capitalize on his position yet
+[14:47:14] mcstudly: I want to play Rfe8, Ne6, e6. But it depends on what he can do right now.
+[14:47:14] sahkal: The g7 knight needs to be improved, maybe Rfe8 and Ne6, or alternatively Nh5-f66
+[14:47:44] sahkal: he's thinking about those sorts of moves
+[14:47:59] mcstudly: I knew his knight was landing on d5 regardless, so I thought maybe exchanging a pair of knights and centralizing my queen was OKay'ish.
+[14:51:49] mcstudly: Hmm. Rfe8 or Qb2 for "activity"
+[14:53:05] mcstudly: Ne8 maybe.
+[14:55:08] mcstudly: I have Ne6 now. Qb2 for activity.
+[14:58:11] mcstudly: oh nope, don't have Qb2. Nxe7+ is pretty gross maybe. Ne6 covers d8.
+[14:59:58] mcstudly: OK, so he wants to play f4.
+[15:15:59] mcstudly: we just playing for a blunder now lmao. this is probably -3-4
+[15:17:15] mcstudly: +3 to +4*
+[15:18:16] jokicinator15: (19...Qb8) you got this mcstudly!
+[15:18:46] sahkal: No +3 to +4
+[15:19:01] sahkal: Closer to equal
+[15:26:09] mcstudly: its nh6 or rxd5
+[15:26:24] mcstudly: nh5*
+[15:29:12] mcstudly: i think i play e6 next. c3 trapped his knight. my kingside is RIP tho after f5 e6 fxe6 fxe6
+[15:36:06] rajjsinghh: black needs an answer to 25 f5 and 26 Qh6
+[15:38:38] rajjsinghh: 25 Rxe8+ Qxd8 is easy, but 25. Re1 is probably more involved, I guess Rd5 f5 ef Qh6 Qf8 is good enough
+[15:53:40] jokicinator15: (31...Qxf6) white's going to love his q side pawns here
+[15:54:42] rajjsinghh: the main question is Kd7 Qxb6 Qxc3 if black has some perpetual
+[15:59:17] rajjsinghh: I guess the queen trade draws this
+[16:00:02] sahkal: Scary endgame
+[16:00:48] rajjsinghh: I think the worst is over. The black king on the qside means white's majority shouldn't go very far
+[16:01:34] jokicinator15: (36.Ke3) yeah idk trading queens was best for white but K+P much simpler to handle i guess
+[16:02:35] rajjsinghh: i mean the white queen was so active. Black trading it without dropping pawns is important
+[16:04:37] rajjsinghh: Kc7 Ke4 g6 g4 hg hg and i think black can handle the kingside. the only question is if the white queenside is a distraction
+[16:04:52] rajjsinghh: but he also needs kingside weaknesses for that to even matter
+[16:05:53] unspoke: I missed a lot of stuff. Like Kd3
+[16:06:39] unspoke: but maybe it's still ok
+[16:07:10] rajjsinghh: white showing a bit of doubt is a good sign
+[16:13:47] rajjsinghh: hey jc
+[16:15:04] gingersquirrelnuts: Pawn-tacular
+[16:17:21] rajjsinghh: a5 ba ba f6 a6 Kc6 a7 Kb7 a8Q Kxa6 Ke4 f6 Kd4 Kb7 might work
+[16:18:07] rajjsinghh: i think black has to find f6, otherwise the queenside passer is enough of a distraction for WK to enter
+[16:20:11] namegoesinhere: (40.Kd3) what does black do after f6 h4?
+[16:21:27] fulmarsky: (40...f6) oh dear oh dear
+[16:21:42] fulmarsky: (40...f6) who's winning...
+[16:21:42] fulmarsky: (40...f6) this is tense...
+[16:22:59] rajjsinghh: you're right namegoeshere, h4 may have jusst been blck out of moves
+[16:23:29] rajjsinghh: g4 hg hg may be holding, though
+[16:23:29] fulmarsky: (42.hxg4) oh dear oh dear
+[16:23:45] fulmarsky: (42.hxg4) now black has a sweat of choices  ...e5   ...f5   .g5   oh dear....
+[16:24:31] gingersquirrelnuts: I never know what to play as black in these positions
+[16:24:47] fulmarsky: (42.hxg4) Go unspoke!  oh please ponder... ponder upon those 64 squares
+[16:25:48] gingersquirrelnuts: Oh?
+[16:26:18] gingersquirrelnuts: Wasn't expecting Kc6. Might work tho?
+[16:26:18] rajjsinghh: well, g5 fg fg a5 is lost, f5 g5 is probably also lost, so e5 was probably the best try
+[16:27:19] rajjsinghh: I'm not sure about Kc6, the king is going there anyway after a5 so white gets Kd4 for free
+[16:27:35] gingersquirrelnuts: Yeah I can't see the win for black now.
+[16:28:05] rajjsinghh: i dont think it was ever winning, but now it's lost
+[16:28:05] mrscribbles: 45. A4 i think
+[16:28:20] gavalanche20: Curious what the evaluation is if White started with 37.  Ke4 and activating King first
+[16:30:54] rajjsinghh: I feel like 37 Ke4 f6 is drawing? or at least no worse than what happened. the mistake has to be 43 b5
+[16:32:26] goldenretrieverchess: gg
+[16:32:56] gingersquirrelnuts: gg
+[16:34:12] unspoke: I'm rarely get endgames like this on the board, such a joy
+[16:34:43] rajjsinghh: Looks like black did have some perpetuals, and e5 was the only drawing move
+[16:34:43] rajjsinghh: endgames are hard
+[16:34:43] gingersquirrelnuts: Ah, only 42... e5 was ok for black
+[16:35:28] namegoesinhere: 42...e5 and crucially 43.fxe5 Kxe5!
+[16:35:28] namegoesinhere: (not fxe5)
+[16:35:59] rajjsinghh: which isn't too bad when you evaluate that everything else loses
+[16:35:59] namegoesinhere: to keep the kingside pawns connected
+[16:41:21] sahkal: Unlucky, right gsn?
+[16:41:36] sahkal: This is my team who lost the game
