@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/IFsKxMns
+White     : neothehero
+Black     : shamdi
+Time      : 45+45
+Captured  : 2026-07-11 11:49:41 UTC
+Game ended : 2026-07-11 10:29:32 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[08:18:19] neothehero: (9...Bb7) Bg5 doesn't seem like a good place for the bishop, I don't have Nd5 when b4 comes
+[08:18:50] neothehero: (9...Bb7) Candidates are O-O, f4, Be3, Nd5
+[08:24:29] neothehero: (10.O-O) h4 gxh4 Rxh4 Ng3 followed by Bg5, Nf5 looks good for me
+[08:26:16] neothehero: (10.O-O) Be7 Be3 O-O f4?
+[08:27:01] kayrosas: lets go neo!
+[08:28:33] neothehero: (10...Be7) Be3 or Nd5
+[08:29:34] neothehero: (10...Be7) feel like after Nd5 Nxd5 exd5 I can't protect the d5 pawn after black plays Nd7-b6
+[08:30:20] kayrosas: i would think if white wants Nd5 the correct way to do it is by starting with a4, provking b4 and then Nd5
+[08:30:35] kayrosas: but I like Be3, just simple chess, get pieces out
+[08:31:36] neothehero: (11...O-O) f4? or Qd2 then f4
+[08:31:51] kayrosas: maybe Bg5 was also an option. but I'm not sure what either side is aiming for here. no experience with fianchetto against the najdorf
+[08:33:38] neothehero: (11...O-O) f4 b4 Nd5 Nxd5 exd5 exf4 if I play Bxf4 then Qb6+ then I lose the diagonal
+[08:35:09] neothehero: (11...O-O) or maybe even a3 to prevent b4
+[08:41:18] kayrosas: looks good. i think white has time for slow improving moves
+[08:42:19] neothehero: (12.a3) Now I have to be careful of Nd7-b6-c4
+[08:42:50] neothehero: (12...Qc7) seems like black wants to play Rd8 to play d5
+[08:44:37] neothehero: (12...Qc7) now Nd5 Nxd5 exd5 looks good, as I will play Nc3-e4
+[08:44:37] neothehero: (12...Qc7) but then black might play f5
+[08:45:22] neothehero: (12...Qc7) f4 Rd8 Nd5?
+[08:47:40] neothehero: (12...Qc7) f4 d5? Nd5 Nxd5 exd5 Rd8
+[08:55:02] neothehero: (13...Nbd7) Nd5 seems like the only move.
+[08:57:04] neothehero: (14.Nd5) I feel like I know nothing in the Adam's attack lines, should have studied more
+[08:59:07] neothehero: (15.exd5) Nb6 b3?
+[08:59:07] neothehero: (15.exd5) Nf6 Nc3
+[09:00:08] neothehero: (15.exd5) is f5 a move later?
+[09:00:38] neothehero: (15.exd5) b3 Rc1 then c4 seems good
+[09:02:10] neothehero: (15.exd5) or Nf6 b3 even
+[09:02:41] kayrosas: i'd like if we could target h5 eventually
+[09:02:41] neothehero: (15.exd5) or even crazier, I can go g4
+[09:03:11] kayrosas: Nb6 Nc3 Nc4 Bc1 maybe lol
+[09:04:28] neothehero: (15.exd5) f5 now for black might be strong
+[09:06:30] kayrosas: 15...f5 fxe4 seems good, Nxe5 Nf4 +-
+[09:06:45] kayrosas: and dxe5 d6 should win
+[09:10:03] neothehero: (15.exd5) why is black taking so long
+[09:10:34] neothehero: (15.exd5) currently my main idea is b3, Rc1, c4
+[09:12:05] neothehero: (15.exd5) Another idea is Nc3 Bf3 then f5 undermining h4, but this seems hard to achieve
+[09:13:22] neothehero: (15.exd5) If Nf6, does fxe5 dxe5 d6 work?
+[09:14:23] neothehero: (15.exd5) looks like it works though, unless I'm missing something
+[09:14:38] neothehero: (15.exd5) It even works on Nb6 I guess
+[09:16:09] rpcx: h4 looks reasonable
+[09:19:44] neothehero: (15...Rac8) Nc3, Rc1 or fxe5
+[09:20:14] neothehero: (15...Rac8) I think Rc1 is best, keeping things flexible
+[09:21:31] neothehero: (15...Rac8) Nc3 exf4 might be trouble for me
+[09:23:19] neothehero: (15...Rac8) Nb6 fxe5 Nc4 exd6 Nxe3 dxc7 Nxd1 Rfxd1 black can't take on c7 because of d6 fork
+[09:24:35] neothehero: (16.Rc1) I also need to consider Bf2 as a safe move
+[09:25:36] neothehero: (16...Nb6) waittt
+[09:25:52] neothehero: (16...Nb6) hold up
+[09:25:52] mongreltiger: go shamdi
+[09:26:38] neothehero: (16...Nb6) fxe5 dxe5 is my d pawn weak?
+[09:26:53] neothehero: (16...Nb6) or should I just go b3
+[09:27:23] tommeketoch: go shamdi
+[09:27:39] neothehero: (16...Nb6) but if b3 then my knight is never going to c3
+[09:29:42] neothehero: (16...Nb6) b3 seems necessary though
+[09:31:13] neothehero: (17...Bf6) yeah that makes sense
+[09:31:44] neothehero: (17...Bf6) now g4? to liberate my knight
+[09:32:30] neothehero: (17...Bf6) or Qd3 first
+[09:34:47] neothehero: (17...Bf6) how about Kh2 then Ng1-f3
+[09:36:34] neothehero: (17...Bf6) I think I'm going g4
+[09:38:20] neothehero: (17...Bf6) Kh2 Re8 Qd3 seems useless
+[09:39:36] neothehero: (17...Bf6) or fxe5 Bxe5 Bf4
+[09:42:10] rpcx: bb2?
+[09:42:26] neothehero: (19.hxg4) I feel like I don't have the advantage anymore
+[09:43:57] kayrosas: yea i don't like g4
+[09:44:28] neothehero: (20...Bb2) oh nice, I missed that
+[09:45:59] rpcx: qxc2 looks complicated
+[09:55:23] neothehero: (23.Be7) I'm certainly losing
+[09:55:23] rpcx: re8?
+[09:57:41] rpcx: d6 looks annoying
+[10:13:29] rpcx: nf4+
+[10:14:45] kayrosas: rip
+[10:27:30] rpcx: rd3+
+[10:30:18] kayrosas: gg
