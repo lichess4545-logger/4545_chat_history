@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/orAfrryA
+White     : lynnpv
+Black     : stclion
+Time      : 45+45
+Captured  : 2026-07-11 19:54:35 UTC
+Game ended : 2026-07-11 18:34:27 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[17:01:48] handknit: (1.c4) it is go time
+[17:02:03] lynnpv: Somehow, I felt it would be a c5 answer. :P
+[17:04:05] handknit: (3.Nf3) I used to play like this as black. These days I think white's best option is to just go get a good hedgehog
+[17:07:08] handknit: (4...a6) feel like black wants the hedgehog but not sure that's the right path against e3
+[17:08:40] lynnpv: Lets open the center, I find h6 rather passive, and I want to be proactive.
+[17:08:55] handknit: (5.d4) White's gonna get a chance to jam d5 and really make that bishop look foolish
+[17:10:12] handknit: (5...e6) On jamming d5, a6 at least supports the ideal of b5, but it also blocks off a6 from the knight
+[17:11:13] handknit: (6.d5) This could either get goofy-wild quickly or white's just gonna get a winning bind
+[17:15:33] handknit: (7.Be2) White probably wants to think about a4 soon to turn off any idea black has of playing b5
+[17:22:26] handknit: (8...h6) 8...exd5 9.cxd5 b5 was not that easy to solve
+[17:22:41] handknit: (8...h6) White probably has to play either a4 or e4 here
+[17:24:58] handknit: (9...e5) Okay. I think white should be much better now though it's not so simple to play
+[17:25:59] handknit: (9...e5) Probably h3-Be3-Qd2 as the right setup?
+[17:26:45] handknit: (10.Nh4) This way, I suspect 10...g6 11.f4
+[17:27:46] lynnpv: now his white bishop seems fixed, I'll try to blow up his e file and play for initiative as he lost tempo
+[17:28:16] handknit: (11...Bd6) f6 and f7 are very soft right now, h6 potentially too
+[17:29:02] handknit: (11...Bd6) I think g3 might be the right option here
+[17:29:17] handknit: (11...Bd6) keep your bind on the centre
+[17:30:03] handknit: (11...Bd6) One weird idea: 12.Kh1 exf4 13.g3
+[17:30:48] handknit: (11...Bd6) White can get in trouble here if they try to force it
+[17:33:51] handknit: (11...Bd6) Maybe N back to f3? Doesn't seem the best but it's an idea
+[17:35:08] handknit: (11...Bd6) 12.Nf3 exf4 13.e5 Bxe5 14.Nxe5 Qxe5 15.Bxf4 Qd4+ 16.Qxd4 cxd4 17.Be5 Seems quite good for white but maybe not conclusively so
+[17:39:13] lynnpv: i wanna try something crazy, giving up a pawn for initiative
+[17:44:34] handknit: (12.Nf3) One thing worth noting here is how much better this is if the B is on d3 rather than e2
+[17:44:49] handknit: (12.Nf3) One of those things to consider when you're reflecting on the "where to put the bishop" decision from earlier
+[17:50:39] handknit: (12...Rh7) Rh7? I get what that is trying to do but that is not a happy move
+[17:51:10] handknit: (12...Rh7) Keep defendin h6 while avoiding a potential Be5 pin from white
+[17:52:41] handknit: (12...Rh7) I think fxe4 is still good here. The b6/c5 structure is very soft
+[17:53:27] handknit: (12...Rh7) 13.fxe4 Bxe4 14.Nxe4 Qxe4 15.Bf4 Qd4+ 16.Qxd4 cxd4 17.Na4 wins material, I think
+[17:53:42] handknit: (12...Rh7) The threat of Nxb6 not just taking a pawn but dislodging the R from the defence of the N on b8
+[17:55:14] lynnpv: if I calculate right I see fxe, Bxe5, Nxe5, Qxe5, Bf4, Qd4+,Qxd4, cxd4, Bxb8,dxc3, Rf6, Rxb8
+[17:55:44] lynnpv: + possible cxb2 + Rb1 capturing the pawn eventually
+[17:56:15] handknit: (15...Qe7) Black begs off. e5 feels positionally winning here
+[17:56:30] lynnpv: perfect, that was the option I thought about in case he didn't want to deliver check
+[17:57:31] lynnpv: how can he defend b6 now ?
+[17:57:46] handknit: (15...Qe7) Qd8 defends b6
+[17:58:02] handknit: (15...Qe7) Black is getting messed up in the centre, don't bother with b6 yet. That weakness is forever
+[17:58:47] handknit: (15...Qe7) e5, Bd3, Qc2, Rae1. Violence is happening
+[17:58:47] ysgwydd: (15...Qe7) It feels like it went wrong early for black. Including a6 and h6 didn't do much.
+[17:59:18] ysgwydd: (15...Qe7) Also, e5 was optimistic and supporting it with Bd6 instead of d6 felt wrong
+[18:00:19] handknit: (15...Qe7) Yeah, a6 is a significant mistake after white plays e3. It's already a bit dodgy if white's playing for a hedgehog but
+[18:00:34] handknit: (15...Qe7) after e3, white's not doing that, and so a6 is just a waster
+[18:01:05] ysgwydd: (15...Qe7) Yeah, I play this as white and black usually doesn't have that much freedom if they want to be close to equality
+[18:01:05] handknit: (15...Qe7) That lets white get in d5, black misses the chance to strike back with b5, and white locks in the bind
+[18:04:23] ysgwydd: (17.Bd3) Still, white has to finish it off. "Only" positionally winning
+[18:06:10] handknit: (17...Kd8) Now Nb6 collects b6
+[18:06:26] handknit: (17...Kd8) *Na4 collects b6
+[18:07:11] ysgwydd: (17...Kd8) Another drawback of a6
+[18:07:27] handknit: (17...Kd8) Then bring the N back to a4 and collect c5, maybe
+[18:08:12] handknit: (18.Ne4) Qb3 was probably even better than Na4
+[18:08:12] ysgwydd: (18.Ne4) Black doesn't have many moves here
+[18:08:58] handknit: (18.Ne4) a5, just to make space for some pieces
+[18:11:17] handknit: (18.Ne4) worth noting that f6 runs into white having Bc7+ at the end
+[18:12:17] handknit: (18...b5) This fails to Nd6
+[18:13:03] handknit: (19...Bc8) I guess Ra7 actually could've tried to hold on
+[18:13:18] handknit: (19...Bc8) Now white can begin collecting
+[18:13:34] ysgwydd: (19...Bc8) Hard to play Ra7 when you already have a rook on h7
+[18:13:49] handknit: (19...Bc8) Qe1 or Qd2 is a funny option, trying to provoke b4
+[18:14:04] ysgwydd: (19...Bc8) Why provoke b4?
+[18:14:20] handknit: (19...Bc8) Undoes black's attempt at generating space
+[18:14:20] handknit: (19...Bc8) And then you just pick up c5 casually
+[18:14:35] handknit: (19...Bc8) Also black might miss the mate threat
+[18:14:50] ysgwydd: (19...Bc8) Ah yes the mate threat I totally didn't miss that
+[18:15:37] handknit: (19...Bc8) 20.Qe1 b4 21.Qf2 a5 22.Bg3
+[18:15:37] ysgwydd: (19...Bc8) Bg3-h4
+[18:17:09] handknit: (20.Be4) Nxc8 and d6 the idea, I suppose
+[18:17:25] ysgwydd: (20.Be4) Looks good
+[18:17:55] handknit: (20...Ra7) And is the plan to now take on b5 with tempo?
+[18:18:41] ysgwydd: (20...Ra7) Why not?
+[18:18:41] handknit: (20...Ra7) White has to remember to not get carried away avoiding taking material
+[18:18:56] ysgwydd: (20...Ra7) Yeah, still material equality
+[18:23:15] handknit: (21.cxb5) 21.cxb5 axb5 22.Nxb5 Rb7 23.Qa4 seems good. I want to get my queen on that diagonal in general
+[18:24:16] ysgwydd: (21...axb5) Qa5 would be deadly
+[18:25:32] handknit: (22.Nxb5) Ra5 is maybe the best option here? Have Ba6 to get the pieces going
+[18:25:48] handknit: (22...Ra5) I'm sure it's like plus a billion on the computer, just theorizing how black can try make something happen
+[18:26:19] handknit: (22...Ra5) a4 to prepare Qd2, I guess
+[18:27:04] ysgwydd: (23.d6) Or Qb3
+[18:27:04] ysgwydd: (23.d6) Or this I guess
+[18:27:50] handknit: (23.d6) It's probably all winning but i don't like giving the square on c6 and e6 to black
+[18:28:51] ysgwydd: (23.d6) Qe6 Nc7 Qc4 Bd5 maybe
+[18:29:06] handknit: (23...Qf8) Qd4+ trading queens then which I don't think white wants to allow
+[18:29:22] ysgwydd: (24.Nc7) Fair
+[18:29:37] ysgwydd: (24.Nc7) I want Bh4+
+[18:29:52] handknit: (24.Nc7) Bxg6 might be an idea now
+[18:29:52] handknit: (24.Nc7) also Qe1-Qh4+
+[18:30:23] ysgwydd: (24...Nc6) White has all the ideas and all the fun
+[18:30:23] handknit: (24...Nc6) yep
+[18:31:24] handknit: (25.Qd2) So I think on something like Ra7, white has Bxg6 and Bxh6
+[18:31:39] handknit: (25.Qd2) Bxh6 specifically against the response of Rg7
+[18:32:55] handknit: (26.Bxc6) and now the pieces go
+[18:32:55] handknit: (26.Bxc6) that should be ballgame
+[18:33:11] ysgwydd: (26.Bxc6) That should be it
+[18:34:58] ysgwydd: gg
