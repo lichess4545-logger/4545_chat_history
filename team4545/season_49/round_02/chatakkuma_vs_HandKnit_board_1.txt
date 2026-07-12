@@ -1,0 +1,115 @@
+Lichess game chat log
+Game      : https://lichess.org/ebbGW9xo
+White     : chatakkuma
+Black     : handknit
+Time      : 45+45
+Captured  : 2026-07-12 02:38:12 UTC
+Game ended : 2026-07-12 01:18:10 UTC
+Messages  : 105
+────────────────────────────────────────────────────────────
+
+[23:01:33] handknit: (2.c4) We are playing today's game in less than ideal circumstances. Let's see what happens
+[23:02:20] handknit: (4.Nc3) Think I'm feeling this more than a Bogo right now
+[23:07:25] handknit: (8...b6) Got way too much going on, haha
+[23:09:27] handknit: (9.Bd3) Weird permutations. Do I have something better than just playing a5?
+[23:13:00] handknit: (10...Ba6) When I was surveying their games, they had played this line before
+[23:13:15] handknit: (10...Ba6) They had played the line with taking on a6 and pushing b5
+[23:13:46] handknit: (10...Ba6) I think that line is considered sharp but also objectively not great. I think Qe2 is more common and popular
+[23:14:01] handknit: (10...Ba6) well, not Qe2 here exactly
+[23:14:32] handknit: (10...Ba6) I double my rooks a8, a6. Put the Q on b7, bring the B to c7
+[23:14:47] handknit: (10...Ba6) And then sometimes just defend forever
+[23:16:34] handknit: (12...cxb5) okay, here we go
+[23:20:23] handknit: (14.Nxb5) Oh. Doesn't white have to push c7?
+[23:21:08] handknit: (14...Qxc6) Time to discover if I blundered something
+[23:21:39] handknit: (14...Qxc6) I've got the soccer on in the background and trying to keep my cool even as the WRONG TEAM IS WINNING
+[23:22:55] handknit: (14...Qxc6) Trying to think of the response to a4
+[23:23:11] handknit: (14...Qxc6) Bb4+ jumps out but starting with Qc4 might be an idea
+[23:24:28] handknit: (14...Qxc6) Maybe the simplest Bb4+ and Rc8 is best
+[23:25:13] handknit: (14...Qxc6) Raa8 next move then the Ne4-Nc6 manoeuvre
+[23:27:30] handknit: (14...Qxc6) What do we do with Nc7?
+[23:28:31] handknit: (15.Nc7) Ra7, Qc3+, and e5 seem like the options
+[23:28:48] handknit: (15.Nc7) I think on e5 there's Rc1 direct
+[23:32:06] handknit: (15...Ra7) I don't think inserting Qc3+ does anything
+[23:34:53] handknit: (16...Qb7) I don't think there's anything other than Nb5 here
+[23:39:13] handknit: (17...a4) spaaaaace
+[23:39:43] handknit: (18.Qb2) b5 might've actually been better there
+[23:41:45] handknit: (18...b5) Feel like jamming a4 was actually a mis
+[23:41:45] handknit: (18...b5) should still be fine
+[23:44:02] handknit: (18...b5) I think white may have Qxb5 Bxa3 Rb1 here
+[23:47:51] handknit: (19...Bxa3) Seeing a bunch of names join the viewership as soon as the soccer ends
+[23:48:52] inter-temporal: (19...Bxa3) wuz dey playin dah foozhbahl behind my backs?
+[23:48:52] handknit: (19...Bxa3) 20.Rb1 Qc8 21.Qc6, maybe
+[23:49:53] handknit: (20.Ra1) Bb4+ an idea now
+[23:50:08] handknit: (20.Ra1) The thing is, white gets Ke2, which activates the rook
+[23:50:54] handknit: (20...Bb4+) This has to be fine
+[23:50:54] semlegesnev: I wonder if Bb2 a3 would have been an idea
+[23:54:27] handknit: (23...Rc8) I think I should now be able to get in Ne4 and then it should be consolidation hours
+[00:01:52] handknit: (25...Ra6) Got eyes on both Rb6 and Bd6
+[00:02:53] handknit: (25...Ra6) I'm a bit worried by this idea of Be5, Bxf6, and Ng5 going after f7
+[00:03:24] handknit: (25...Ra6) The point of this move is to meet Be5/g5 with Rb6, and then hit Ra7 with Rb2+
+[00:03:39] handknit: (26.Ne1) Hmm
+[00:12:02] handknit: (28...Nb6) Meeting Nd3 with Bxa3 is worth a thought
+[00:12:48] handknit: (28...Nb6) 29.Nd3 Bxa3 30.Rxa3 Rb3 31.R7xa4 Rb1+
+[00:14:36] handknit: (28...Nb6) Got some funky lines
+[00:23:29] handknit: (30...Ra8) trade the active rook
+[00:29:24] handknit: (34...Nc4) I gotta be thinking about h5 just for space/luft at some point
+[00:29:39] handknit: (34...Nc4) I don't think my advantage is huge here.
+[00:30:09] handknit: (34...Nc4) If whtie takes on c4 and plays Na3, it's worth thinking about Bxa3
+[00:30:25] handknit: (34...Nc4) leaves the pawn on a4 untouchable and I can get to work on improving my knight
+[00:31:11] handknit: (34...Nc4) I don't know that I like that. My knight's a bit awkward and I'm vulnerable to invasion on the b file
+[00:42:23] handknit: (41...Nc6) I think I get a transformation here
+[00:42:23] handknit: (41...Nc6) give the a pawn to pick up the f pawn
+[00:44:10] handknit: (42...Nb4+) hmm, can I start with a3 now?
+[00:45:56] handknit: (43.Kd2) I think a3 wins an exchange.
+[00:46:57] handknit: (43...a3) I think worse case I can transpose to the other line
+[00:47:12] semlegesnev: a3 Bd6 a2 Ra3 Rc2 Kd1 Rxf2 Bxb4 a1 Rxa1 Rf1+ -+
+[00:47:43] semlegesnev: I think rook trade might be mandatory here
+[00:50:00] semlegesnev: nvm, Be1 is possible
+[00:51:16] semlegesnev: But I still think it works with Rb2 instead of Rxf2
+[00:52:02] handknit: (44...a2) let's try the exchange up line and/or see how badly I botched the calculation
+[00:56:21] handknit: (49...Rxa1) 5 pawns should mean this isn't so hard
+[00:56:36] handknit: (49...Rxa1) first take space, then get to work creating two islands
+[00:57:53] handknit: (49...Rxa1) The f4 break seems particularly promising
+[01:08:34] handknit: (60...Ra6) Getting to the point where I can just give the R for the B
+[01:13:20] handknit: (65...f4) ah, careless. White's got Bg5 here
+[01:13:35] inter-temporal: (65...f4) exf4 Kxf4, Bg4+ Ke4 Be3, maybe?
+[01:13:35] inter-temporal: (66...Kxf4) [Bg5+]
+[01:14:06] semlegesnev: Ra3 and trade the rook for the bishop and pawn
+[01:15:07] inter-temporal: (66...Kxf4) so what to do then
+[01:16:39] semlegesnev: well, black is my captain, so hopefully nothing
+[01:16:39] handknit: (68.Kg6) Kf5 was maybe a bit cleaner but this should be plenty
+[01:17:09] inter-temporal: (68...Rxf2) lol. yeh the challenge is to find any defenses
+[01:17:55] semlegesnev: gg
+[01:18:26] chatakkuma: was the ending draw?
+[01:18:41] handknit: no
+[01:18:41] handknit: easy win
+[01:18:56] chatakkuma: ok I thought h4 was a mistake
+[01:18:56] chatakkuma: I mean h5
+[01:19:12] handknit: I mean it sort of is because I can just take and start cleaning up
+[01:19:27] handknit: there's stouter defences but it shouldn't be very hard for me
+[01:19:42] handknit: Too many pawns on the board
+[01:19:57] chatakkuma: I could have played 11.O-O
+[01:20:12] handknit: I mean yeah, there are options
+[01:20:12] handknit: There are many move orders but only really two setups
+[01:20:28] chatakkuma: I got excited by some complications
+[01:20:28] handknit: there's the one you played, and then the one where you castle and play Qe2 to make me take on d3
+[01:20:43] chatakkuma: yes that's the one I usually play
+[01:20:43] handknit: Nxb5 is a big mistake, though
+[01:20:58] handknit: you have to play c7
+[01:21:13] chatakkuma: 14.c7 b4 Nb5
+[01:21:29] handknit: You're down a pawn and development and I have good space. Holding the c-pawn is your justification
+[01:21:44] handknit: Yeah, that's how the line goes
+[01:21:44] handknit: And then you try to support the c pawn before I can clean it up
+[01:21:44] chatakkuma: ok that is better
+[01:21:59] handknit: I think it objectively isn't supposed to work for white
+[01:21:59] handknit: but it's messy and you get play
+[01:22:45] chatakkuma: after that did I had some chances to draw?
+[01:22:45] handknit: Here I just clean up your queenside pressure and get a massive position pretty quickly
+[01:23:00] handknit: I don't think you had very good drawing chances
+[01:23:30] handknit: It was hard for me around move 40, I felt I'd misplayed it a bit, but it's still objectively winning
+[01:24:01] chatakkuma: I thought 42.Bc7 was a mistake because the Bishop is loose after Nb4+ Kd2 a3 I have to move the bishop again
+[01:24:31] handknit: It's a mistake in that it gives me the exchange up endgame, but at that point I can already for a N5 v B4 endgame where you have two islands
+[01:24:31] chatakkuma: so 42.Bb6 Nb4+ Kd2 and a3 doesn't work
+[01:24:47] handknit: *force a N5 v B4
+[01:25:48] chatakkuma: ok but it's still losing
+[01:26:04] handknit: I was presuming 42.Bb6 at which point I had Nb4+ 43.Kd2 Rxc3 44.Kxc3 a3 45.Kb3 a2 46.Kb2 Nd3+ 47.Kxa2 Nxf2
