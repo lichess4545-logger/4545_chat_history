@@ -1,0 +1,84 @@
+Lichess game chat log
+Game      : https://lichess.org/RfZB5rbo
+White     : luwasserman
+Black     : serenemoose
+Time      : 45+45
+Captured  : 2026-07-12 13:30:47 UTC
+Game ended : 2026-07-12 12:10:41 UTC
+Messages  : 74
+────────────────────────────────────────────────────────────
+
+[10:02:14] namegoesinhere: (1.e4) go moose!
+[10:04:46] serenemoose: and my prep goes the window, should've started with ...d5. alas.
+[10:08:50] serenemoose: So I prepared this a couple of seasons back, exactly for one game, and all I remember is it's called the Milner-Barry.
+[10:08:50] serenemoose: Brain refuses to supply me a single line.
+[10:11:53] namegoesinhere: (9.Nbd2) didn't expect Nbd2, the line I know is Nxd4 Qxd4 Nc3 where taking e5 is very dangerous and the best move is ...a6
+[10:11:53] namegoesinhere: (9.Nbd2) but Nbd2 makes a lot of sense too
+[10:14:25] le_merovingien: Bc5?
+[10:14:41] le_merovingien: Ah.
+[10:14:41] le_merovingien: I don't like the Knight retreat
+[10:15:11] le_merovingien: Well... Nge7 Ng3 looks cool. But Black should castle at some point, no?
+[10:15:26] le_merovingien: Lack of development fear here
+[10:17:59] le_merovingien: What's the catch in getting the Pawn now?
+[10:19:00] serenemoose: If my opponent can throw away a second pawn like that, means I must have messed up badly.
+[10:19:15] serenemoose: Does it really fall apart if I take?
+[10:20:46] namegoesinhere: (11.Be3) the queen gets kicked around a bit, e.g. Nxe4 Nxe4 Qxe4 Re1 Qc7 Rc1
+[10:20:46] namegoesinhere: (11.Be3) kind of lacks good squares
+[10:21:17] namegoesinhere: (11.Be3) maybe there's a Rc1 intermezzo after Nxe4
+[10:21:48] namegoesinhere: (11.Be3) but two pawns are two pawns...
+[10:23:19] serenemoose: I don't get it. Takes, Rc1, takes takes, Queen somewhere that's not d6? Can I seriously not castle to safety?
+[10:24:35] le_merovingien: My only concern is the lack of development. But two Pawns, that's a gamble
+[10:29:09] le_merovingien: i don't like the Bishop block...
+[10:31:59] namegoesinhere: (14.Bd4) ...Qb8 here?
+[10:33:16] le_merovingien: i thought Qb8 too
+[10:37:35] namegoesinhere: (15...Qh6) worried about a queen trap here with Rf3-h3
+[10:37:50] namegoesinhere: (15...Qh6) oh I guess white needs to defend f4 before Rh3
+[10:38:06] namegoesinhere: (15...Qh6) but f5 is a move you want to play anyway
+[10:40:25] serenemoose: so 16.g4 and am I objectively busted?
+[10:43:43] enprisewithease: Qf3 seems to give up initiative? I liked white before but not sure here.
+[10:44:14] enprisewithease: I wanted white to attack the bishop
+[10:44:45] namegoesinhere: (16.Qf3) yeah, now if ...Bd6 it takes white a bit longer to arrange f5 because of the threat on h2, so black may be able to untangle
+[10:49:50] namegoesinhere: (16...f5) didn't think of this, but it does solve the problem of white playing f5 + makes the king safer
+[10:49:50] namegoesinhere: (16...f5) the e-file looks very scary though
+[10:50:51] namegoesinhere: (16...f5) *makes the queen safer I MEAN
+[10:57:43] enprisewithease: This gambit is so crazy fun
+[11:02:50] le_merovingien: Develop that Knight. C'mon.
+[11:06:09] le_merovingien: What is this move?
+[11:07:10] le_merovingien: g5 and the Knigh tis stuck
+[11:08:26] namegoesinhere: (19...Be7) g5 Nf6 using the pin
+[11:08:41] namegoesinhere: (19...Be7) then the knight gets to e4
+[11:08:41] le_merovingien: Doh
+[11:08:56] le_merovingien: Bump me down to board 9
+[11:09:57] jdw10: if white can move the king to the h file then his threats become more real?
+[11:10:28] le_merovingien: Yep. Instead of h3, Kh1 was much stronger
+[11:13:42] le_merovingien: I am out of my depth here. It's a fun game.
+[11:16:00] le_merovingien: Oh, there is a nice Knight rotation with Nd6.
+[11:16:15] le_merovingien: Or a Kingside challenge with h6.
+[11:16:15] le_merovingien: Can Black go quick enough?
+[11:17:01] le_merovingien: And White has a nasty Qe5 if the Knight movse
+[11:18:27] namegoesinhere: (22.h4) I think ...h5 is necessary now
+[11:18:27] le_merovingien: The blunder potential is huge
+[11:18:27] namegoesinhere: (22.h4) because h6 h5 Qa7 g6
+[11:18:42] le_merovingien: Yes. With h4 played, h6 is no longer on the tabel
+[11:19:12] le_merovingien: These board 9s are terrible
+[11:21:14] jdw10: Nc5 looks painful
+[11:23:01] namegoesinhere: (23...Qf7) Nc5 Ne4 maybe?
+[11:53:52] namegoesinhere: (33...Bb5) gxh7 wins I think? no way to stop Bxe8 then promotion
+[11:55:08] namegoesinhere: (34.Bxe8) maybe gxh7 Kd7 Bxe8 Rxe8 h8=Q Rzh8 Bxh8 Bxf1 Kxf1 is black's best try
+[11:55:38] namegoesinhere: (34...Kxe8) ah, Bxe8 first then gxf7 probably works too
+[11:56:40] namegoesinhere: (34...Kxe8) gxh7 Kf7 h8=Q Rxh8 Bxh8 Bxf1 Kxf1 and white is up a rook
+[12:04:18] le_merovingien: did they let the moose loose?
+[12:09:23] le_merovingien: C'mon, beat the plumber!
+[12:10:40] serenemoose: Some game.
+[12:10:56] jdw10: gg
+[12:10:56] n8otom8o: gg
+[12:11:26] le_merovingien: The clerical moose dispatched the ornithologist plumber!!!
+[12:11:26] le_merovingien: gg
+[12:11:42] le_merovingien: Great game both. I loved it.
+[12:11:58] serenemoose: I should've just sealed the kingside with 22...h5. I knew that was the right thing to do.
+[12:11:58] serenemoose: Missed basically every single move in that pawn storm.
+[12:12:59] le_merovingien: Pawn storms are weird to calculate.
+[12:14:15] serenemoose: Wow, I really thought I'd equalized with the three soon-to-be connected passers there.
+[12:14:30] serenemoose: Pawn storms are indeed weird to calculate.
+[12:16:01] le_merovingien: When I attack with a Pawn storm, I am never sure it is right. When I defend, sometimes (like here) nothing is concrete and I freak out.
+[12:16:01] le_merovingien: they are tough
