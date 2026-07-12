@@ -1,0 +1,44 @@
+Lichess game chat log
+Game      : https://lichess.org/B3lEbFIj
+White     : semlegesnev
+Black     : stlmizot0302
+Time      : 45+45
+Captured  : 2026-07-12 16:17:39 UTC
+Game ended : 2026-07-12 14:57:32 UTC
+Messages  : 34
+────────────────────────────────────────────────────────────
+
+[14:01:16] handknit: (3...Nf6) KG time yee haw
+[14:03:19] handknit: (6.d4) I don't understand the KG well enough to know whether this is good and if so for whom
+[14:03:34] handknit: (7.Bb5) I guess 6...Bf5 feels like black's got what he wants?
+[14:06:54] semlegesnev: hmm, I wonder if /w really works
+[14:07:09] handknit: (7...g5) Does e6-Ne5 do anything?
+[14:07:55] semlegesnev: I recall this is not so great for Black after Ne5 g4 O-O
+[14:11:59] handknit: (8.e6) Black at least seems to have to tank on this
+[14:16:49] handknit: (10...Qd6) you take on g5 now?
+[14:16:49] handknit: (10...Qd6) g4, I mean
+[14:17:50] semlegesnev: there are some funny lines here if Bg7 Nh6
+[14:25:59] semlegesnev: here we go
+[14:27:46] handknit: (12.Nh6) I guess f4 is about to fall and white's gonna be developed and active
+[14:31:35] semlegesnev: Ne2 and this is my last move out of prep. Should get f4 and have a pretty comfortable attacking position
+[14:32:20] handknit: (14.Ne2) On O-O-O I wonder if it's better to take on f4 immediately or start with c3
+[14:32:51] handknit: (14.Ne2) ah, Qb4 is not an issue, straight Bxf4 should be fine
+[14:37:10] handknit: (15...Qb4) So I figured here white takes on c6, plays c3, and gets the big open line pointing at black's king
+[14:40:13] handknit: (18.a4) I think black might've had a better shot taking on b2 and counterattacking.
+[14:40:59] handknit: (18...Qd3) White does have to show some technique coordinating after Qxb2, and black can attack quickly
+[14:42:00] semlegesnev: I can get a lot of tempo off of that Queen...
+[14:42:31] handknit: (19.Bg5) I don't know that black's worse after Qg6
+[14:43:47] handknit: (19.Bg5) White's under some pressure here because black having the bishop matter matters more as this thing slows down
+[14:44:48] handknit: (20.Nf4) Qe3+ and h6, maybe
+[14:45:34] handknit: (20.Nf4) white's Ra1 is also a bit far if things start opening up
+[14:50:39] handknit: (20...Qa6) Queen backing off seems wrong
+[14:50:54] handknit: (20...Qa6) Nxe6, Rf7, and Bf4 looks good
+[14:52:42] handknit: (22.Rf7) White's got sauce after Bf8. Rxc7+ jumps out
+[14:53:13] semlegesnev: I pick up at least a pawn here, but I wonder if I have more. After Bf8 I can take either c7 or h7, but my attack seem a bit out of fuel
+[14:53:43] handknit: (22.Rf7) Rxc7 and the attack continues because black's pieces suck in the corner
+[14:54:14] handknit: (22.Rf7) White's immediately pressing on d8, and Bg7 (to try and untangle) loses the bishop to Qf7+
+[14:54:14] handknit: (22...Rhg8) Rxg7 ballgame
+[14:54:44] semlegesnev: okay yeah, thats a much logical move lol
+[14:56:46] semlegesnev: wait, I think I can just take the bishop
+[14:59:49] semlegesnev: Don't mess with the King's Gambit
+[15:00:20] semlegesnev: Clearly the potenital of Alien Gambit was too scary to play the Caro-Kann
