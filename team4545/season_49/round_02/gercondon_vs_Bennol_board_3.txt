@@ -1,0 +1,29 @@
+Lichess game chat log
+Game      : https://lichess.org/EVPxmFbU
+White     : gercondon
+Black     : bennol
+Time      : 45+45
+Captured  : 2026-07-12 11:39:11 UTC
+Game ended : 2026-07-12 10:19:07 UTC
+Messages  : 19
+────────────────────────────────────────────────────────────
+
+[08:03:27] monocarp: let's go bennol!
+[08:03:58] bennol: hello Monocarp
+[08:48:00] monocarp: (21...Qd7) I guess the queen can't go to e7 because of Nxd5, but the queen is ugly on the light squares...
+[08:58:11] bennol: not happy with my position. 17. ... Nxd2 might have been a mistake
+[09:03:31] bennol: now im happier. I think i've found some nice play on the queenside and I have a defended passed pawn
+[09:15:29] bennol: Bxe5 followed by Qf4 looks strong
+[09:15:59] monocarp: (28.Rab1) I was really expecting Bd6 instead...
+[09:16:45] monocarp: yeah that does look good
+[09:22:07] bennol: didnt see Rxg6 before
+[09:22:37] monocarp: If Qxd4, then Rxg6 wasn't a threat
+[09:23:07] monocarp: as then after takes takes, your queen can block the check
+[09:23:54] monocarp: also I don't *think* Rxg6 would have worked after Qd2 (the other move that looked good to me) but my calculation could be wrong
+[09:26:11] monocarp: (33... Rfa8) but this looks good also
+[09:48:04] bennol: that was stupid by me
+[10:12:30] monocarp: (58... Kf5) undoubtably risker than Kd6
+[10:14:17] monocarp: but it does seem winning actually
+[10:14:47] monocarp: or at least never lost
+[10:17:04] monocarp: (66. Ke3) White's king is going the wrong way if they ever want to salvage a draw
+[10:19:22] jcarmody: gg
