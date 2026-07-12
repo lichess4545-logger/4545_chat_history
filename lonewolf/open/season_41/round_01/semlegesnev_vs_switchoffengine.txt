@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/r8IRvTuZ
+White     : semlegesnev
+Black     : switchoffengine
+Time      : 30+30
+Captured  : 2026-07-12 15:00:55 UTC
+Game ended : 2026-07-12 13:40:52 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[12:06:11] switchoffengine: prep ended move 11, not sure if Nh6 or Nf6 is better
+[12:11:16] switchoffengine: debating between d6 and Qc7. I think d6 is more flexible and keeps Ne5 out, no Nxf7 tricks
+[12:11:46] switchoffengine: i should delay castling for now to remain flexible
+[12:12:17] switchoffengine: Qd7 is possible too, eventually Qc6 and Rg8 target his kingside
+[12:14:49] switchoffengine: he has Ne4
+[12:34:41] switchoffengine: that e4 knight was too dangerous, i think now Bf6 and i should be fine
+[12:36:43] switchoffengine: maybe i should have left the king on g1 instead
+[12:47:24] switchoffengine: Qh4 Rg7 i think he has Qxh6+ with a perpetual
+[12:48:24] switchoffengine: but i found Qf8 i think this neutralizes
+[12:48:55] switchoffengine: Rg5 Qg7 Rag8 next
+[12:51:13] switchoffengine: when in doubt threaten mate lol
+[12:51:43] switchoffengine: im thinking Qh8 Kg7 Kf8
+[12:54:00] switchoffengine: i forgot about this lol
+[13:07:48] switchoffengine: i didnt expect this, rook endgame looks drawn
+[13:13:09] switchoffengine: ah he has Re6+ Kh5 g4+...
+[13:13:40] switchoffengine: this should be ok though
+[13:14:25] switchoffengine: now it should be draw
+[13:16:27] switchoffengine: the journey of a thousand miles begin with a single step
+[13:32:44] switchoffengine: should be winning back the pawn if my calculations are right
+[13:42:09] switchoffengine: i think Qxa6 would give me a lot of problems, rook endgame should be drawn bc your king is too passive
+[13:43:55] semlegesnev: I was considering that, but I didn't really like my rook on g1 and your pieces more active
+[13:44:56] semlegesnev: The rook endgame seemed drawn, but with attacking chances and no losing threats
