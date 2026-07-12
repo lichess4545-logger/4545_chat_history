@@ -1,0 +1,135 @@
+Lichess game chat log
+Game      : https://lichess.org/YJvUJF05
+White     : n8otom8o
+Black     : eight_x_eight
+Time      : 45+45
+Captured  : 2026-07-12 23:09:37 UTC
+Game ended : 2026-07-12 21:49:30 UTC
+Messages  : 125
+────────────────────────────────────────────────────────────
+
+[19:02:14] namegoesinhere: (4.Bc4) go n8otom8o!
+[19:16:29] n8otom8o: test
+[19:17:15] n8otom8o: I might have Qb3 here.
+[19:18:48] kborman: Go n8otom80!
+[19:18:48] n8otom8o: If Nxe4, I still have Qa4+ followed by Bxf7+, recovering the piece. If Bxf3, then I think Bxf7+ is good for me.
+[19:27:28] n8otom8o: Is Ng5 good here?
+[19:30:16] kborman: How does black deal with Qxb7 here with the possibility of Bb5 next?
+[19:31:17] kborman: Or even Ng5 after Qxb7
+[19:32:18] le_merovingien: Go Tomtom
+[19:35:36] namegoesinhere: (6.d3) Qxb7 Nbd7 was forced, but I wasn't sure what the follow up was for white
+[19:36:21] namegoesinhere: (6.d3) like Bb5 doesn't really threaten anything except a bunch of trades, so black might just take on f3
+[19:39:10] kborman: Ok, so maybe a little too risky with allowing counter play?
+[19:39:55] namegoesinhere: (6.d3) yeah, the queen on b7 often ends up a bit out of play; probably not really at risk of getting trapped but black has good compensation
+[19:40:56] le_merovingien: Cooking here. Are we in good shape? Can I open the Chateau Haut Brion ?
+[19:41:11] namegoesinhere: (6...Qc7) e.g. something like Qxb7 Nbd7 Bxf3 gxf3 Be7 d3 0-0 and compare the development for both sides
+[19:41:57] namegoesinhere: (6...Qc7) Ng5 ideas are interesting but I think they're probably only good if you can sac on e6 in response to ...h6
+[19:44:30] le_merovingien: Namego: we good?
+[19:45:00] namegoesinhere: (6...Qc7) looks like a solid position to me, still pretty even
+[19:45:16] le_merovingien: Very quickly, I prefer black. But I can't really think as I am cooking. What is your assessment?
+[19:45:16] le_merovingien: ah cool :)
+[19:45:16] le_merovingien: thanks
+[19:46:17] namegoesinhere: (6...Qc7) Nbd2 here seems sensible, unless you want to go all out and try and force black to take f3 and open the g-file
+[19:47:34] le_merovingien: Normally, i am not afraid to open the g-file. Ke2 is always super solid. But Bc4 looks horrible to me.
+[19:48:20] namegoesinhere: (7.Be3) yeah, the Bc4 looks a bit weird, I would like to get it to c2 maybe but the queen is in the way
+[19:48:35] le_merovingien: Ah. Nd2 d4 coming?
+[19:49:36] le_merovingien: Bc4 against the Sicilian, I have always been told "zis is rrrefuted by e6, 0-1" :D
+[19:50:22] namegoesinhere: (7.Be3) Bc4 is a little better when black has already commited to ...d6 as in this game
+[19:50:53] namegoesinhere: (7.Be3) but yeah, Nbd2 then d4 sounds like a good plan
+[19:51:23] gavalanche20: (5...e6) I remember some vagueness about 4. Ne4 being theory allowing Bf7 tactics
+[19:51:23] kborman: That was me last week in the Grand Prix
+[19:51:39] le_merovingien: It's like a Scheveningen. Black knows how to play it
+[19:52:09] le_merovingien: Wait. No. g6 has to be a mistake, no?
+[19:52:09] namegoesinhere: (7...g6) yeah I was looking at 4.Nxe4 and I think white was Qa4+ then Bxf7+ to regain the pawn with an advatnage
+[19:52:24] le_merovingien: the Bishop goes on e7...
+[19:52:55] gavalanche20: (7...g6) Ah yes this Qa4+ stuff rings a bell but I don't remember White having an advantage
+[19:53:10] gavalanche20: (7...g6) At least I sure hope not because iirc it's in my file for Black ehe
+[19:53:25] le_merovingien: g6?
+[19:53:25] namegoesinhere: (8.Nbd2) maybe it's not better for white then, I haven't checked with the engine
+[19:53:40] le_merovingien: Ah, drat
+[19:53:56] namegoesinhere: (8.Nbd2) I just looked and it looked nicer to play for white
+[19:53:56] le_merovingien: it sounds like a Dragon mistake.
+[19:54:11] namegoesinhere: (8.Nbd2) yeah ...g6 seems like it weakens the dark squares badly
+[19:54:11] le_merovingien: the Dragon never has d6 and e6 in my files.
+[19:54:57] gavalanche20: (8...Bg7) I feel like both sides are making development moves that don't fully go together haha
+[19:55:58] le_merovingien: Look, d4 cxd cxd Rc1 to pester the Queen. That and the Pawn structure issue for Black. Must be +1 or more. At least it feels like it to me.
+[19:56:13] namegoesinhere: (9.h3) if d4 then ...Bxf3, gxf3 is need not to hang the e4-pawn
+[19:56:28] namegoesinhere: (9.h3) the g-file looks less useful now ...g6 has been played
+[19:56:28] le_merovingien: ah yeah, but Bc4... Maybe between +0.5 and +1 then
+[19:57:14] le_merovingien: Noooooo... gx, not Nx...
+[19:58:45] le_merovingien: I want to see the eval at the end to see that I was wrong at every evaluation I made :D
+[20:01:04] kborman: If the bishop is bad. Bxe6 picking up a bunch of pawns
+[20:01:49] le_merovingien: Not to that extent, Kaybow
+[20:02:05] kborman: lol
+[20:02:35] namegoesinhere: (11.O-O) yeah, if I could pick up a third pawn I would consider ...Bxe6 but I don't think you're getting more than 2
+[20:02:51] le_merovingien: Maybe, yes.
+[20:03:36] namegoesinhere: (11...Nc6) I also thought about Ng5 to maybe set some of this up but I couldn't make it work
+[20:04:37] namegoesinhere: (11...Nc6) ...Qc2 to prepare d4 here?
+[20:07:40] le_merovingien: I really cannot find a p
+[20:07:55] le_merovingien: lan here. I wanted Nd2 d4. My brain is throwing a tantrum
+[20:08:26] namegoesinhere: (11...Nc6) Nd2 seems sensible too, maybe sets up f4 as well
+[20:10:58] namegoesinhere: (14.Ba2) Rc1-Bb1 is another plan now to prepare d4
+[20:23:10] le_merovingien: Yeah, but that's so many tempi late... It was so much better to go gxf3
+[20:24:26] namegoesinhere: (15...Rfc8) I think gxf3 got a lot worse once ...g6 was played
+[20:25:12] le_merovingien: No no no. Ke2 h4 h5... That should still work. I have used similar ideas
+[20:25:27] le_merovingien: Ah but going f4 is cool
+[20:36:07] kborman: e4 seems weak but maybe like you said before. Rc1 and Bb1
+[20:40:43] le_merovingien: Not sure what to do here...
+[20:41:44] kborman: Worst piece?
+[20:41:59] le_merovingien: Kh1? Bf2?
+[20:42:14] namegoesinhere: (19.f5) I was trying to work out if Nc4 was good, but seems risky
+[20:42:30] le_merovingien: I tried it and disliked
+[20:43:00] le_merovingien: but maybe it works
+[20:43:00] namegoesinhere: (19.f5) I like Bf2 now you mention it
+[20:48:37] kborman: There has to be some tactic here
+[20:49:07] kborman: But my brain hurts now
+[20:49:38] namegoesinhere: (20...Rf8) quite a mess to figure out in 3 minutes
+[20:51:56] namegoesinhere: (22.Nc4) ...Nd5 here?
+[21:00:04] le_merovingien: tense
+[21:07:00] le_merovingien: Wasn't Black one piece up?
+[21:07:30] namegoesinhere: (28.Qg4) 26.Bxd5 was a fork, but black could've gone for 2 pieces for a rook
+[21:07:45] le_merovingien: Ah
+[21:07:45] namegoesinhere: (28.Qg4) oh maybe there was 26...Ng3
+[21:08:02] namegoesinhere: (28.Qg4) it's going too fast to calculate haha
+[21:08:17] le_merovingien: Yeah
+[21:08:32] le_merovingien: I thought, strategically, Black has a piece. I did not calculate :)
+[21:09:03] le_merovingien: Bg5 looks annoying
+[21:09:33] namegoesinhere: (29.Bg5) ...Ne2+ maybe?
+[21:09:48] le_merovingien: (evil laughter)
+[21:10:04] namegoesinhere: (29.Bg5) maybe jsut Kh1 there
+[21:10:19] le_merovingien: Oh, I see
+[21:10:34] le_merovingien: No. Kh1 Ng3
+[21:10:34] le_merovingien: Hmmm.... The Rook is behind
+[21:10:49] namegoesinhere: (29.Bg5) ahha, if Qxg3 the other bishop hangs
+[21:10:49] le_merovingien: But Qx first and Ng3
+[21:11:20] namegoesinhere: (29...Qc5) yeah Qx is the correct move order in that line
+[21:11:20] le_merovingien: Wow... That's a piece ?
+[21:11:20] le_merovingien: No?
+[21:11:50] le_merovingien: The chat does not work
+[21:11:50] le_merovingien: I wrote "No!"
+[21:12:36] namegoesinhere: (30...Rc8) Rac1 now?
+[21:12:36] le_merovingien: Nice
+[21:12:51] le_merovingien: It's a misclic
+[21:12:51] le_merovingien: Retake!
+[21:13:07] le_merovingien: The fork....
+[21:13:22] le_merovingien: f5..
+[21:13:53] le_merovingien: and we live to see another day
+[21:14:38] kborman: Tall pawn en passant
+[21:15:54] le_merovingien: Rf5 comes to mind. Just making things messy
+[21:17:11] le_merovingien: Can one play Qh5?
+[21:17:11] le_merovingien: Ah no
+[21:29:53] namegoesinhere: (42...Qf4+) trade queens and Rb7 draws I think?
+[21:30:08] le_merovingien: Qxg7#. Forget about the check.
+[21:30:24] le_merovingien: Pray the referee does not see it
+[21:30:24] le_merovingien: There's no VAR in chess
+[21:30:54] namegoesinhere: (43...Rxf4) theres some trickyness with Rb7 Be5
+[21:30:54] le_merovingien: If we hold the draw, it's epic
+[21:30:54] namegoesinhere: (43...Rxf4) but I think just Kg1 there
+[21:31:25] le_merovingien: Kg1 is classy
+[21:31:55] le_merovingien: Yeah, they want to get dinner
+[21:32:41] le_merovingien: gg!
+[21:32:41] kborman: That’s a draw at least
+[21:32:56] intenselotion: gg
+[21:43:55] intenselotion: Does white not know this is a draw?
+[21:44:25] le_merovingien: Hmm... Does Black know? :)
+[21:49:30] kborman: gg
