@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/cq4H6960
+White     : inter-temporal
+Black     : rt2000otb
+Time      : 30+30
+Captured  : 2026-07-12 21:50:25 UTC
+Game ended : 2026-07-12 20:30:18 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[18:34:37] oachkatzerlschwoaf: poisened pawn variation??
+[18:34:52] oachkatzerlschwoaf: black not interested for now
+[18:35:07] oachkatzerlschwoaf: its it vs my board 1
+[18:35:07] oachkatzerlschwoaf: go both i guess
+[18:35:53] inter-temporal: (10.O-O-O) save poison pawn variation for a future game
+[18:38:56] inter-temporal: (11.g4) i don't recall this specifically in my prep
+[18:39:11] inter-temporal: (11.g4) if ...Nc5 maybe Qe1
+[18:41:44] inter-temporal: (12.Bxf6) main think i learned about studying the najdorf this week is that tempos matter... and
+[18:41:44] inter-temporal: (12.Bxf6) and i don't get it most of the time
+[18:42:14] inter-temporal: (12.Bxf6) yesterday i nearly lost from not wathching my clock tick down, then panicked and lost immediately after that...
+[18:42:29] inter-temporal: (12.Bxf6) i found an extension that announces 30 seconds every time we hit 30 seconds...
+[18:43:00] inter-temporal: (12.Bxf6) today, with such a strong opponent, i'm just kinda goin all out. fine if i lose.
+[18:43:45] inter-temporal: (12.Bxf6) if my K feels insecure, i can bring my N back to b3, maybe
+[18:44:48] inter-temporal: (12.Bxf6) i did spend a ton of time on najdorf this week--books, puzzles, games. etc. lol
+[18:45:18] inter-temporal: (12.Bxf6) i think yesterday's game showed me for sure that it's kinda nutty
+[18:45:49] inter-temporal: (12.Bxf6) if ...Bxf6, g5 and black can trade to an endgame
+[18:46:19] inter-temporal: (12.Bxf6) if ...Nxf6, then i don't have to worry about Nc5
+[18:48:06] inter-temporal: (12.Bxf6) no idea where my lsb might go
+[18:48:53] inter-temporal: (12.Bxf6) i don't know if i should pay some towards center or all in on the K-side
+[18:52:42] inter-temporal: (13.g5) endgame might be okay
+[18:55:15] oachkatzerlschwoaf: idk what 9. qd2 was tbh
+[18:55:30] oachkatzerlschwoaf: blind spot from both sides?
+[18:55:30] oachkatzerlschwoaf: its not in the master database
+[18:59:18] oachkatzerlschwoaf: (fxe5) noooo
+[18:59:18] oachkatzerlschwoaf: what are we doing lads
+[18:59:49] oachkatzerlschwoaf: rxd6 was clearly better?
+[19:00:04] inter-temporal: (16.fxe5) dream of h4, Bh3, and smth good. idk. lol
+[19:00:35] inter-temporal: (16.fxe5) my lsb on d5 could be smth
+[19:00:50] inter-temporal: (16.fxe5) no dsbs; pairs of Rs; and a couple of tricky Ns
+[19:02:38] oachkatzerlschwoaf: (rxe5) eh?
+[19:03:54] oachkatzerlschwoaf: rxd6 rxg5 bh3 wins?
+[19:04:24] oachkatzerlschwoaf: threat of bh3 is really strong after rxd6
+[19:04:40] oachkatzerlschwoaf: please dont play h4
+[19:05:40] oachkatzerlschwoaf: actually, h4 might be good too
+[19:07:13] inter-temporal: (17.h4) where'd he go
+[19:12:04] inter-temporal: (17...Nc5) b5 is weakening, but might be okay
+[19:12:04] inter-temporal: (17...Nc5) b4 i mean
+[19:15:52] inter-temporal: (19.Rxd6) pretty sure i'll need to give it back some day.
+[19:26:03] inter-temporal: (21.Rd5) idk. almost played Rf1, then Rd1, then Bd5 looked like a blunder
+[20:30:02] inter-temporal: ahh.
+[20:30:18] inter-temporal: toggle off engine
+[20:30:33] inter-temporal: i saw i had blunders, but i'd like to try to find them on my own first. :)
+[20:31:34] inter-temporal: 8.a3 was my anti-poison pawn. although i still really want to try 8.Qd2 sometime
+[20:31:49] oachkatzerlschwoaf: TIL you can press z to toggle off the server analysis
+[20:31:49] oachkatzerlschwoaf: ggs
+[20:32:04] inter-temporal: i did z the engine
+[20:32:19] oachkatzerlschwoaf: I didnt know the shortcut I always did it by hand
+[20:32:19] inter-temporal: but i already glimpsed it running
+[20:32:35] oachkatzerlschwoaf: Soo I think 9.Qd2 is a blunder, cuz it's not in the master database
+[20:32:50] inter-temporal: before i toggled it off it had already counted 2 blunders
+[20:32:50] oachkatzerlschwoaf: Black should just be able to grab the pawn
+[20:32:50] oachkatzerlschwoaf: I dont have analysis.
+[20:32:50] oachkatzerlschwoaf: But its not in the database
+[20:33:05] oachkatzerlschwoaf: Which must mean its wrong
+[20:33:05] inter-temporal: oh. then i mixed smth already
+[20:33:05] inter-temporal: lol
+[20:33:20] oachkatzerlschwoaf: Just wins a clean pawn for Black no?
+[20:33:35] oachkatzerlschwoaf: And where is your compensation
+[20:33:35] inter-temporal: ahh. maybe 9.Qd2 was after 8...Be7?
+[20:33:35] inter-temporal: yeh, that was it
+[20:34:06] inter-temporal: fine. it was a lot of stuff to try to memorize and understand...
+[20:34:21] inter-temporal: little tiny differences like that are everywhere
+[20:34:21] oachkatzerlschwoaf: Yeah well its arguably the most tactical opening in the history of chess
+[20:34:36] oachkatzerlschwoaf: Easy to get things wrong
+[20:35:22] inter-temporal: see, that was indeed one of teh nuances i missed in prep
+[20:35:52] inter-temporal: crazy i missed that one
+[20:35:52] oachkatzerlschwoaf: Another observation I made was why play 16.fxe5 instead of rxd6
+[20:36:38] inter-temporal: i thought there was less than 50% chance i'd actually see 7...Qb6 today
+[20:36:38] inter-temporal: lemme see
+[20:37:08] inter-temporal: i thought my was was more active for me
+[20:37:39] inter-temporal: his f4 pawn looked annoying
+[20:38:09] inter-temporal: in that line. and it seemed like his pieces came out faster
+[20:38:25] inter-temporal: how do i grab his f-pawn without giving up too much there?
+[20:38:25] oachkatzerlschwoaf: actually now that i think about it
+[20:38:40] oachkatzerlschwoaf: oh my god this chat is so annoying
+[20:38:40] oachkatzerlschwoaf: completely broken
+[20:38:40] inter-temporal: go to slack?
+[20:38:55] oachkatzerlschwoaf: I think an analysis board works too...
+[20:39:10] oachkatzerlschwoaf: A study I mean
+[20:39:25] oachkatzerlschwoaf: I think its just the game analysis chat that is broken
+[20:39:25] inter-temporal: invite me, if you have time. or we can do it later.
