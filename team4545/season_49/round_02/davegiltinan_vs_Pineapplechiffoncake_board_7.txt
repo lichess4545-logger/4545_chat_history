@@ -1,0 +1,68 @@
+Lichess game chat log
+Game      : https://lichess.org/uzNVqO7d
+White     : davegiltinan
+Black     : pineapplechiffoncake
+Time      : 45+45
+Captured  : 2026-07-12 16:36:03 UTC
+Game ended : 2026-07-12 15:15:59 UTC
+Messages  : 58
+────────────────────────────────────────────────────────────
+
+[13:40:18] pineapplechiffoncake: i couldn't face a spanish today so I played petrov, hoping for 4 knights
+[13:45:39] guitarspider: go Pineapplechiffoncake!
+[13:46:25] blang316: Go Pineapplechiffoncake!
+[13:48:57] cinemashow: (12.c4) go Pineapple!
+[13:50:44] ecoarrivazumashoomzo: Go cake
+[13:55:18] guitarspider: (13...b6) c5 looks a bit odd
+[13:56:04] cinemashow: (14.b4) b5?
+[13:57:36] cinemashow: (14.b4) hmm not in time?
+[13:58:21] cinemashow: (14.b4) a8 R hanging
+[14:01:10] cinemashow: (14.b4) so bxc5?
+[14:01:41] cinemashow: (15.Bg3) backward c pawn on open file will be bad?
+[14:02:57] guitarspider: (15.Bg3) kind of, but d4 will be isolated and weak as well if White takes
+[14:03:12] guitarspider: (15.Bg3) maybe Ne4 here, because Nxe4 dxe4 seems to work out ok
+[14:18:58] wolfsblut: /w I think Ba6 and Nxc6 would have been better
+[14:19:14] wolfsblut: \w
+[14:19:29] jdw10: go pcc!
+[14:19:44] wolfsblut: how do I get the current move prefixed to my comment?
+[14:21:00] guitarspider: (19.Rab1) there's a script for it
+[14:22:01] guitarspider: (19...Ng6) unfortunately this is a very good reminder of why Black can't just give up on e5
+[14:24:49] cinemashow: (20.Ba6) https://greasyfork.org/en/scripts/422291-lichess-whisper-switch-by-ipr
+[14:25:35] cinemashow: (20...Qd8) To install you'll need to have tampermonkey or violentmonkey add-on installed on your browser
+[14:30:40] cinemashow: (22.Qxc6) Bb7 next?
+[14:31:56] guitarspider: (22...Qa5) she is using her time, that's very good. Maybe we'll get a lucky break.
+[14:33:43] wolfsblut: thanks
+[14:33:43] wolfsblut: (22...Qa5) thanks
+[14:37:17] cinemashow: (23.Rb2) you soon did that wolfsblut :)
+[14:38:33] cinemashow: (23...Qc3) Nb3 better than Rb2?
+[14:38:49] guitarspider: (23...Qc3) just Nf3 probably, heading for e5 again?
+[14:39:19] guitarspider: (23...Qc3) at the very least d4 is falling now
+[14:42:07] guitarspider: (24.Rfb1) that's not nothing, c-pawn will no longer be a protected passer and e5 will be under control
+[14:42:53] wolfsblut: (24.Rfb1) Bb7 picks up the exchange
+[14:44:24] pineapplechiffoncake: stress
+[14:44:39] guitarspider: (24...Qxd4) Bb7 Rad8 Bc7 Bxc5 doesn't work because of Nf3 unfortunately
+[14:45:10] guitarspider: (25.Nb3) Rb2 will cover f2
+[14:53:18] wolfsblut: (25...Qg4) maybe h3. Qd7 doesn't work for black
+[14:55:21] cinemashow: (26.Rd2) I would play h3 - luft if nothing else
+[14:57:23] guitarspider: (26...Qe6) h3 would have been a very reasonable move
+[14:58:39] wolfsblut: (26...Qe6) exchange queens and run with the c-pawn. I like white's position
+[15:08:05] cinemashow: (29.Bb7) tough to find a move now
+[15:09:21] wolfsblut: (29.Bb7) true, Qxc6 didn't help black
+[15:09:21] cinemashow: (29.Bb7) wonder if there was there anything better than Bxc5?
+[15:12:41] tomb85: Go Pineapple!
+[15:12:56] cinemashow: (31.Nb4) worth chancing Ne4?
+[15:14:13] wolfsblut: (31.Nb4) but d4 first, otherwise the d-pawn is gone
+[15:14:28] cinemashow: (31.Nb4) how?
+[15:14:43] wolfsblut: (31.Nb4) Rxd5
+[15:14:58] cinemashow: (31.Nb4) Nc3
+[15:14:58] wolfsblut: (31.Nb4) ups :-)
+[15:15:13] cinemashow: (31.Nb4) exactly - tricks
+[15:15:44] blang316: gg
+[15:15:44] jdw10: gg
+[15:15:44] cinemashow: ah - shame
+[15:15:44] guitarspider: gg
+[15:15:59] goldenretrieverchess: gg
+[15:15:59] cinemashow: gg
+[15:15:59] tomb85: Gg
+[15:16:14] cinemashow: tough one Pineapple, well played dave
+[15:16:30] sideshow_bob: unlucky oversight -gg
