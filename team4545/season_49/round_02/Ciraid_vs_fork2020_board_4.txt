@@ -1,0 +1,171 @@
+Lichess game chat log
+Game      : https://lichess.org/AJ9QX082
+White     : ciraid
+Black     : fork2020
+Time      : 45+45
+Captured  : 2026-07-12 20:18:43 UTC
+Game ended : 2026-07-12 18:58:32 UTC
+Messages  : 161
+────────────────────────────────────────────────────────────
+
+[16:07:30] fork2020: 1. Hello Dorylus and R0B-W!
+[16:07:30] r0b-w: Go, fork2020!
+[16:07:30] fork2020: ...1. I think I'll play my usual petrov.
+[16:07:30] goldenretrieverchess: Go fork!
+[16:07:30] fork2020: ...1. Hello GoldenRetrieverChess!
+[16:07:30] basilcandle: go ciraid!!!
+[16:07:30] fork2020: ...1. Hello basilcandle!
+[16:07:30] fork2020: ...1. I have to treat this as a must-win, given the match score.
+[16:07:30] fork2020: 3. Hello Joonaf!
+[16:07:30] joonaf: Go chess!
+[16:07:30] joonaf: oh wow, fork is over 1900 already
+[16:07:30] fork2020: ...6. Do I want to play Be7? Or maybe d5?
+[16:07:30] fork2020: ...6. Hello jg777!
+[16:07:30] alp_arslan92: Go fork!!
+[16:07:30] fork2020: ...6. Hello alp_arslan92!
+[16:08:01] alp_arslan92: 5...Nf6, I also play that in Blitz mainly :D
+[16:08:16] ciraid: I don't understand the decision of black. He just admits the loses of a tempo
+[16:08:16] ciraid: I just continue with normal dev
+[16:10:33] jfiras: (7...O-O) Good luck fork2020 !
+[16:10:49] fork2020: 8. Hello jfiras! (If I haven't said that already.)
+[16:11:04] fork2020: 8. Hello SedNomini!
+[16:11:19] ciraid: now h3 with the idea to make the dev of his LSB  an issue and let him decide if he should developed passivley on d7 or just wait ...
+[16:11:19] ciraid: ...there on c8
+[16:11:49] fork2020: ...8. The three ongoing games might decide the match, but I hope not!
+[16:13:21] fork2020: ...8. Do I play Be6 here?
+[16:14:07] fork2020: ...8. I might want to play something like c6 first.
+[16:14:22] fork2020: ...8. Really, it depends on if I plan to develop my knight to c6 or d7.
+[16:14:37] fork2020: ...8. Hello BLang316!
+[16:15:07] blang316: Hi! Go fork!
+[16:21:29] fork2020: ...8. Hello InVacuum!
+[16:22:15] fork2020: ...8. I'm leaning towards h6 followed by Be6.
+[16:24:32] fork2020: 9. Hello lorb!
+[16:26:50] ciraid: another wasted tempo. h6 guards g5 allowing the LSB to come out to e6. Loking rior to his games  he always goes for a set up of Be6 Nc6
+[16:27:51] ciraid: one idea is to castel short and if Be6 (otherwise I do not understand h6)  then Ne2-f4 challenging the bishop  on e6
+[16:28:36] fork2020: 9. I think it's safe to say that we're both out of prep at this point.
+[16:29:22] fork2020: 9. Not that I had much in the way of prep to begin with, just knowing that I'd probably play the petrov against e4!
+[16:36:30] ciraid: now c44 is also on the table grapping more space in the center
+[16:36:30] fork2020: ...10. How much do I really care about an exchange on e6?
+[16:39:19] fork2020: ...10. I feel like my light squares would be fatally crippled there, I probably want to avoid that.
+[16:39:50] fork2020: ...10. The question is, do I prevent it now, or after Nf4?
+[16:39:50] fork2020: ...10. And how do I plan to prevent it?
+[16:40:05] fork2020: ...10. Bd7 might be a little passive.
+[16:40:51] fork2020: ...10. Nd5 would work, except for c4. Then it wouldn't work as well.
+[16:41:06] fork2020: ...10. Maybe Bd5?
+[16:41:21] fork2020: ...10. And if Nf4, just Bc6?
+[16:41:37] fork2020: ...10. Or maybe Bxf3 would be better there?
+[16:42:22] fork2020: ...10. But after Qxf3, b7 is hanging, while the f4 knight is temporarily very active.
+[16:42:53] fork2020: ...10. Would I be crushed by an attack if I played that?
+[16:43:23] fork2020: ...10. I'd probably be able to defend my king, but maybe I'd have to give up something for it?
+[16:45:40] fork2020: ...10. Maybe Nc6 followed by Nh7 to allow my queen and bishop to join the defense?
+[16:45:56] fork2020: ...10. What could white do during that time to add pressure?
+[16:47:27] fork2020: ...10. I might be overthinking this a little, is there something simpler that I could play now?
+[16:48:29] fork2020: ...10. Maybe Nc6? If Nf4, what do I play?
+[16:49:00] fork2020: ...10. Bd7 d5 might be annoying.
+[16:49:15] fork2020: ...10. I think I probably want to take care of Nf4 now.
+[16:49:15] fork2020: ...10. Hello d0wnh0me!
+[16:49:30] d0wnh0me: Hey, fork!
+[16:49:45] fork2020: ...10. g5 is tempting, but almost certainly a bad idea!
+[16:50:16] fork2020: ...10. Or is it?
+[16:50:31] fork2020: ...10. The e2 knight blocks Qg4.
+[16:51:17] fork2020: ...10. Still probably a bad idea, but not a "so bad you dismiss it without thought" move, I should probably calculate it.
+[16:52:03] fork2020: ...10. The LSB might be the biggest problem after a sacrifice.
+[16:53:34] fork2020: ...10. If Bxg5 hxg5 Nxg5, the control on h7 prevents Nh7, which would possibly be a problem.
+[16:54:20] fork2020: ...10. Nd5 might work there?
+[16:55:05] fork2020: ...10. But Nh7 Re8 Nf4 and the queen is coming in.
+[16:56:21] fork2020: ...10. Also, if Nf4 can still be played after all that in a line where I'm trying to prevent it, that's probably a sign that g5...
+[16:56:37] fork2020: ...10. ...is definitely not the move.
+[16:57:53] fork2020: ...10. After this game, I probably need to research how problematic Nf4 actually is. I think Allowing Nxe6 would be a big mistake, but...
+[16:58:39] fork2020: ...10. there is a chance that it is not and I'm just blathering about nothing here.
+[16:59:40] fork2020: ...10. This does seem to be a deep hole in my petrov knowledge, though; I probably should work to clear that after this game.
+[16:59:55] fork2020: ...10. Hello (and bye) Mennonite!
+[17:00:11] lorb: I feel like however bad Nf4 could be for black, this is reaching the point where the time pressure is worse
+[17:00:41] fork2020: ...10. Back to the Bd5 line, is there a problem with playing Bc6?
+[17:01:11] fork2020: ...10. What if Bd5 c4?
+[17:01:11] invacuum: lorb I totally agree I think overthing this is worse
+[17:01:27] invacuum: overthinking
+[17:01:57] fork2020: ...10. Oh, wait. The knight is blocking Qxf3 there, so I can just take.
+[17:02:28] fork2020: ...10. Bd5 Nf4 Bc6 c4 d5 probably works.
+[17:02:43] invacuum: I believe that allowing Nf4 and just develop the knight and at least take the open file when Nxe6
+[17:02:43] fork2020: ...10. I think I'll probably play that, hopefully this isn't another long think blunder!
+[17:07:02] fork2020: 11. If Nc3, I think I'll repeat.
+[17:07:32] fork2020: 11. If Nf4, I have to decide between Bc6 and Bxf3.
+[17:08:18] fork2020: 11. I don't have much time left, so I probably should spend this time calculating that one line instead of my usual...
+[17:08:33] fork2020: 11. ..."calculate everything on my opponent's turn" approach.
+[17:09:34] fork2020: 11. After the exchange and Nc6, what threats am I facing?
+[17:10:51] fork2020: 11. Qg3 and I play Kh8. Qh4 threats aren't possible there because of discovered attacks with my bishop.
+[17:11:06] fork2020: ...11. Oh no, do I have enough time to navigate this?
+[17:11:37] ciraid: the lsb has lost way many tempi. if Be4 then Re1 d5 c4
+[17:11:52] fork2020: ...11. Honestly, Qg3 seems like the only pressing move after Nc6.
+[17:12:07] fork2020: ...11. And Kh8 should solve that.
+[17:12:23] ciraid: if black then wants to exchanges his LSB for my LSB has lost way to many tempi. My opp overevaluates the bishop pair
+[17:12:38] fork2020: ...11. Anything else and I have Nh7, right? And everything comes to the defense?
+[17:13:24] fork2020: ...11. The knight blocks Bxh6 sacrifices for now, which buys me a bit of time.
+[17:13:24] fork2020: ...11. I think it's safe?
+[17:13:54] fork2020: ...11. Hopefully I don't regret this!
+[17:15:10] fork2020: 13. Have I welcomed you, Pineapplechiffoncake?
+[17:15:10] pineapplechiffoncake: No, I just got here :)
+[17:18:28] fork2020: ..13. If Nh7, Qe4 might be a problem.
+[17:18:59] fork2020: ...13. f5 Qd5+ followed by Ne6.
+[17:19:44] fork2020: 14. d5 was probably better.
+[17:20:15] fork2020: 14. Whatever, this probably works too.
+[17:21:01] fork2020: 14. Probably isn't a good sign if I'm not entirely sure if my position is safe, though! :)
+[17:22:02] fork2020: 14. Is Nh5 a problem?
+[17:22:48] fork2020: 14. Nxh5 Qxh5 probably loses on the spot.
+[17:23:19] fork2020: 14. No, Qe6 might be fine.
+[17:23:34] fork2020: 14. In fact, I don't see any attack for white after that!
+[17:25:06] fork2020: 14. Maybe Be6 Qf6 g4 continues it? But Qh4 and I force a queen trade, right?
+[17:25:51] fork2020: 14. Or just g4 without Bf5?
+[17:26:52] fork2020: 14. Nh5 Nxh5 Bf5 also might be a problem.
+[17:27:07] fork2020: ...14. Okay, this might give me a turn.
+[17:27:23] ciraid: black doesn't have useful moves all the minor pieces do not have active squares
+[17:28:08] fork2020: 15. That should make the sacrifices a bit easier to deal with.
+[17:28:24] fork2020: 15. I think.
+[17:29:40] fork2020: 15. Honestly, I don't know. The position might be equal, or it might be +8. White has so many possible attacking ideas...
+[17:30:10] fork2020: 15. ... and I can't make sure that all of them fail for certain!
+[17:30:56] fork2020: 15. It is always fun to play these frantic defensive games, but probably not good given the match score!
+[17:32:13] fork2020: 15. How much have I whispered the past few moves? I just realized that it's probably been a lot more than any of my other recent games!
+[17:34:30] fork2020: 15. The problem is, even a draw loses the match, so I need to somehow pressure Ciraid at some point.
+[17:34:45] fork2020: 15. How? I have absolutely no idea!
+[17:35:00] fork2020: 15. Maybe I hope for a dubious piece sacrifice?
+[17:35:16] fork2020: 15. Which is probably not going to happen!
+[17:35:31] fork2020: 15. Hello LloydRet!
+[17:36:02] fork2020: 16. Doesn't Bf8 pretty much shut down any attack?
+[17:37:18] fork2020: 16. All of the sudden, I don't think I'm getting blown off the board here!
+[17:38:35] fork2020: 16. (I'm just waiting to see "blunder. g5 was best" or some other nonsense.)
+[17:39:21] fork2020: 16. Time is getting pretty equal, so maybe I can get a win due to time pressure?
+[17:40:07] fork2020: 16. It'll be difficult to get a win from this position, even if the attack is nonexistent.
+[17:43:27] fork2020: 19. Having the rooks off the board probably reduces the chance of a draw.
+[17:45:14] fork2020: ...19. I'll gladly trade here!
+[17:47:01] fork2020: 21. I'll probably lose the b-pawn, but that's survivable.
+[17:55:55] fork2020: ...22. This might be a chance to save the b-pawn!
+[17:56:41] fork2020: ...22. Of course, I can't move it now (because of Ba4) but a6 brings me a step closer to b5!
+[17:57:58] fork2020: ...23. Does Bf6 work?
+[17:58:59] fork2020: ...23. I always have Nd8 if the queen moves to a8, so I think it does!
+[17:59:44] fork2020: 24. I was thinking "if Qf5, I'll play Qe7!"
+[18:00:15] fork2020: 24. I think I should probably reconsider that...
+[18:01:00] fork2020: 24. Qf5 forces a queen trade, so I might as well take it to avoid losing a tempo.
+[18:05:35] fork2020: 28. Hello Hanzo_19!
+[18:06:05] hanzo_19: hello fork2020
+[18:06:36] hanzo_19: good luck to you,
+[18:07:06] hanzo_19: let's go Ciraid bring the win home
+[18:13:12] fork2020: 37. This'll be an interesting endgame!
+[18:15:14] fork2020: ...37. Let the march of the pawns commence!
+[18:16:46] fork2020: ...37. Maybe I should offer a queen trade first.
+[18:17:01] fork2020: ...37. Probably a bad idea.
+[18:18:02] fork2020: ...38. Actually, I think I will offer the trade.
+[18:43:59] fork2020: 55. This is going to be perpetual.
+[18:44:15] fork2020: 55. But it was a fun game!
+[18:46:49] fork2020: 56. Okay, I guess we're continuing!
+[18:47:19] fork2020: 56. I should be fine if I stay on the dark squares.
+[18:47:50] fork2020: ...56. Or light squares that the bishop can't safely check.
+[18:49:21] fork2020: 57. b4 isn't a problem because I force the king to b2 and pin.
+[18:55:29] fork2020: 65. Be4 and I win the bishop, so I think white has to keep checking.
+[18:57:46] pawneater2020: go fork!
+[18:57:46] fork2020: 67. Hello pawneater2020!
+[18:58:17] pineapplechiffoncake: Gg
+[18:58:32] goldenretrieverchess: gg
+[18:58:32] pawneater2020: gg
+[18:58:32] ciraid: Gg
+[18:58:32] basilcandle: gg
+[19:04:55] fork2020: This was a fun game, gg!
