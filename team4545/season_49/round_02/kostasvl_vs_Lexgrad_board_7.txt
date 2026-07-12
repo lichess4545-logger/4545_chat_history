@@ -1,0 +1,64 @@
+Lichess game chat log
+Game      : https://lichess.org/E50PcKzn
+White     : kostasvl
+Black     : lexgrad
+Time      : 45+45
+Captured  : 2026-07-12 22:17:54 UTC
+Game ended : 2026-07-12 20:57:43 UTC
+Messages  : 54
+────────────────────────────────────────────────────────────
+
+[19:38:13] leverkuhn: from teammates to foes!
+[19:38:13] leverkuhn: I think I like what Lexgrad is cooking here; his rooks are into the game much more quickly
+[19:38:13] leverkuhn: 12.0-0 looks dangerous, but ...g4 was a threat
+[19:38:13] leverkuhn: he does castle, and now 12...h4 (to take away 13.Nh4) 13.Bh2 g4 would be a typical course of action
+[19:40:31] leverkuhn: okay we have 12...g4 right away and I was expecting White to sacrifice a pawn with 13.Nh4 gxh3 14.Nxf5 or 14.Bf3
+[19:41:16] leverkuhn: White instead seemingly riskily allows the h-file to open
+[19:42:02] leverkuhn: Lex needs to not get baited into trying to match kostas' incredible speed
+[19:43:33] lexgrad: is it a dick move to clame victory on a time out lol
+[19:44:04] leverkuhn: but I shouldn't offer too much advice because I historically also struggle against players who blitz all their moves
+[19:44:34] leverkuhn: sometimes games can get into a rhythm where it seems like both players are thinking on one player's time
+[19:45:05] leverkuhn: see my struggles against my bete noir NLance who is always able to use my time to perfectly predict my move
+[19:47:52] leverkuhn: game is still pretty messy here, watch out for 17...f4 tactics
+[19:48:23] leverkuhn: if 17.Qd2, Black might exploit the pin with 17...Ne5, activating the misplaced knight
+[19:48:53] leverkuhn: okay 17.Qd3 instead, but what's the plan after 17...f4?
+[19:52:12] leverkuhn: White just missed it and Black is back in charge!
+[19:52:58] leverkuhn: I was wondering if perhaps the greedy 18...Bf5 19.Be4 Bxg6 was called for, trying to avoid giving White the rook
+[19:52:58] leverkuhn: there was some messiness there however
+[19:53:29] leverkuhn: Whoa 20.Kxf2!?
+[19:53:44] leverkuhn: does White want to run all the way to the queenside?
+[19:55:46] leverkuhn: the minor pieces should certainly be superior to the rook+pawn in this middlegame, but these type of position is never easy to play well
+[19:55:46] leverkuhn: for either side
+[19:58:49] scotchwhisky: 21...Ne5 maybe
+[19:59:04] scotchwhisky: or Bf5
+[20:08:45] leverkuhn: should have worked the ...Ne5 intermezzo in somewhere; maybe missed that ...Nxd3+ came with check
+[20:09:00] leverkuhn: so no counter-intermezzos for White
+[20:10:31] leverkuhn: this dark-square coordination is really good for Black
+[20:11:02] leverkuhn: if he were to play ...Bf6 at some point, the minors and rock solid and the queen and rook can dance all over the board
+[20:11:47] leverkuhn: positionally the b2-d4 chain restricting Black's minors was the soul of White's position
+[20:12:18] leverkuhn: after 21.d5?! his position has become impossible to play
+[20:16:41] leverkuhn: 24...Bf6 good here actually; hint at either piece going to h4
+[20:17:12] leverkuhn: then ...Kb8 and ...Qb5 etc., look for inroads
+[20:17:57] scotchwhisky: Qb5 right now threatens Nd3+
+[20:18:13] scotchwhisky: and Qxb2+
+[20:18:13] scotchwhisky: but leaves Qf5+ now I see it
+[20:18:43] scotchwhisky: he may be thinking about Rf8+ too
+[20:33:16] ascannerdarkly: Let's go Lex!
+[20:36:19] leverkuhn: the rook trade is quite unfavorable for Black's chances to convert this in general terms
+[20:36:49] leverkuhn: specifically it's amazingly annoying that he doesn't have 28...Kb8 in response to 28.Qf5+
+[20:37:05] leverkuhn: due to back rank mate
+[20:37:35] leverkuhn: the 'tidying' moves ...Bf6, ...Kb8, ...maybe ...a6 would have been so good
+[20:40:53] leverkuhn: 29...Qc3 felt more dangerous keeping centralization
+[20:41:24] leverkuhn: White's holding chances starting to look decent after 30.Qc2
+[20:45:43] leverkuhn: Black still has the huge trump that he has a theoretical path to king safety while White doesn't
+[20:45:58] ascannerdarkly: Anyone's game still
+[20:46:13] leverkuhn: I would be aiming for ...b6, ...a5, and ...Kd8-c8-b7-a7
+[20:46:44] leverkuhn: even with unlimited tempi, White has nowhere equally good for his king
+[20:48:15] leverkuhn: alright let's go: 33...b6!!
+[20:49:16] leverkuhn: okay, we also endorse recentralization
+[20:52:04] leverkuhn: White responds with a nice centralization of his own, hinting at g2-g4
+[20:52:19] leverkuhn: time for 34...Qa3! followed by a different try on the next move
+[20:52:34] leverkuhn: always repeat!
+[20:55:38] leverkuhn: looks like he wants to take the draw
+[20:57:43] ascannerdarkly: gg
+[20:57:43] leverkuhn: gg
