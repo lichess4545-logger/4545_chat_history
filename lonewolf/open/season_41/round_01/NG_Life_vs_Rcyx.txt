@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/NXbh2tSi
+White     : ng_life
+Black     : rcyx
+Time      : 30+30
+Captured  : 2026-07-12 21:25:39 UTC
+Game ended : 2026-07-12 20:05:37 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[18:59:25] ng_life: test
+[18:59:25] ng_life: 6. bh4 this is my prep, the anti-moscow gambit
+[19:01:11] ng_life: (7) dxc4 was main move, I don't know be7 but I guess that's fine
+[19:02:12] ng_life: I guess bxf6 bxf6 e4 would be pretty reasoonable for white, kind of looks like a QGD Alekhine variation which I play
+[19:03:44] ng_life: I didn't want to play 7. e3 because that looks dumb if he plays cxd4 next move
+[19:10:51] ng_life: (9) I guess nc3 is common sense, but Qd2 Qxd2 kxd2 looks oddly tempting
+[19:12:53] ng_life: Qd2 Qxd2 kxd2 I still have the tempo on his bishop... be7 and I could maybe play g3?
+[19:13:24] ng_life: (9) I'm really not sure, because usually he has bb4 after Qa5 but here he doesn't. I've never looked at something like this on an engine.
+[19:14:40] ng_life: 9. Qd2 I'm sure this will work out as well as all my other 'original' ideas (sarcasm)
+[19:17:12] ng_life: 12... nd7 b4 nf6 bd3 ng4 ke2... that looks fine for white?
+[19:17:43] ng_life: the reason I want to play b4 is to reenforce against c5
+[19:20:00] ng_life: 13... a5 b5 cxb5 cxb5 nb6... looks fine?
+[19:20:31] ng_life: 14. b5 c5 doesn't look threatening any more
+[19:22:02] ng_life: I wonder if I play g3 would he play b6? It would rather kill the d7 knight but looks dangerous for white if bb7 contesting the diagonal
+[19:23:19] ng_life: (16) I guess bc4 is possible, so is bd3
+[19:24:04] ng_life: I guess I should also be considering h4 g4 as a plan of attack
+[19:24:35] ng_life: (16) yes, I don't think g3 is the right idea here, I should choose d3 or c5 and then maybe h4 next?
+[19:26:22] ng_life: I guess the problem with bd3, which I am more inclined toward, is if rfd8 followed by nb6 a lot of pressure on d4, ke3 bad because nc4+
+[19:26:52] ng_life: and kc3 would be bad because bd7 threatening rac8+
+[19:26:52] ng_life: so maybe bc4 is better after all?
+[19:27:23] ng_life: because then rad1 can reenforce the d pawn and b on that diagonal will defend from nb6
+[19:27:38] ng_life: (16) okay, I convinced myself, bc4
+[19:38:20] ng_life: 19. kc2 not entirely convinced by my pawn sac, but at least I restricted his pieces
+[19:39:06] ng_life: 19. kc2 I am now obviously threatening bxe6 winning the pawn back - he won't allow that I assume
+[19:43:14] ng_life: 19... bb4 current eval -0.6 for black
+[19:44:15] ng_life: 20. rad1 I would like to play g4 but I should reenforce first
+[19:47:03] ng_life: (21) I think nb7 is impossible, but nxd7 should be just fine anyways
+[19:54:25] ng_life: (25) this is getting worse for me, I think I need bb1 to defend against rc3+ followed by rc2 forking bishop and pawn
+[19:58:14] ng_life: 26. ke4 I should just keep going up regardless of risk, because an active king is the only possible counterplay I can hope for
+[20:00:46] ng_life: 26... bd6 threatening f5#
+[20:02:18] ng_life: (27) you know, I thought ne5 defended, but doesn't it lose to f6?
+[20:03:20] ng_life: (26) I guess ne5 f6 nd3 maybe f5 ke3 uhhh
+[20:03:50] ng_life: (27) the only alternative I see at the moment is an immediate bd3 which just looks similar but shakier so I guess ne5 only choice?
+[20:06:07] ng_life: @Rcyx my notes are here if you want to analyze
+[20:06:23] ng_life: I guess Qd2 was just dumb, I went awry early and got a bad position
+[20:06:38] rcyx: qd2 is the best actually
+[20:06:53] rcyx: everything else is worse
+[20:06:53] ng_life: oh good to know
+[20:06:53] ng_life: where did I screw it up then hmmm
+[20:07:08] rcyx: b4 was already a bit bad after a5
+[20:07:24] ng_life: yeah b4 I regret
+[20:07:40] ng_life: I also considered c5 the best move, b4 was way too loose I underestimated how many weaknesses I was creating
+[20:07:55] rcyx: yeah and after you dropped the pawn probably its already lost
+[20:08:10] ng_life: I lost the pawn the wrong way
+[20:08:25] ng_life: engine ssays 15. c5 is equal
+[20:08:25] ng_life: damn I didn't consider that
+[20:08:56] rcyx: its still aa bit weird after 0-0 and rd8
+[20:08:56] ng_life: so b4 was quite bad, the correct response to a5 was rb1 which I didn't consider because after the trade I give you the a-file
+[20:09:58] ng_life: then on 15. cxb5 engine says I'm -1 and I don't have any good options
+[20:10:13] ng_life: I lost quite quickly, I didn't manage to fight in my worse position
+[20:11:14] ng_life: @Rcyx I prepped for 6... dxc4 which I saw you usually played, was there a reason you didn't? Just random or did you try to avoid my prep?
+[20:11:45] rcyx: just to avoid the prep those anti moscow variations are way too sharp
+[20:12:00] rcyx: i never played be7 but i looked at it a few times
+[20:12:15] ng_life: yes I was prepped like 20 moves deep
+[20:12:30] ng_life: be7 I never looked at so I was on my own from move 7
+[20:13:46] ng_life: I played b4 quite quickly considering how weakening that is, it deserved way more thought
+[20:15:18] ng_life: it's a little hard for me to understand why I
+[20:15:48] ng_life: would be equal or slightly better after 14. rb1 axb4 axb4 ra2+ I don't think it would ever occur to me to do that
+[20:16:34] rcyx: rook isnt doing much there
+[20:16:34] rcyx: white can kick it with kc3 and kb3
+[20:17:36] ng_life: yeah I guess you're not developed yet but it looks like my position is full of weaknesses
+[20:17:51] ng_life: okay many lessons for me to learn here, thank you for the analysis
+[20:18:06] ng_life: @Rcyx you played amazing, good game and good luck in next rounds
+[20:18:21] rcyx: good luck to you too
