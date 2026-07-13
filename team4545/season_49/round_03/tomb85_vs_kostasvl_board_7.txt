@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/lKiNHFSH
+White     : tomb85
+Black     : kostasvl
+Time      : 45+45
+Captured  : 2026-07-13 19:02:28 UTC
+Game ended : 2026-07-13 17:42:26 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[15:28:26] thegreattoddman: First game of the week, good luck!
+[15:32:30] angborxley: Go tomb!
+[15:36:20] qrs: go tom!
+[15:44:57] sirfasunnyboy: (10) if white would be happy with a draw, maybe Ne5 was an idea? Don't think black could've taken and after Nxe7 pieces are getting fewer
+[15:45:13] sirfasunnyboy: *Nxd7
+[15:53:36] prostidude: Go go tomb!
+[15:56:38] sirfasunnyboy: (12) now again Ne5 might work
+[15:57:24] sirfasunnyboy: regardless of this concrete "opportunity" I think white should think about centralizing his knights
+[15:58:10] sirfasunnyboy: c5 and/or e5 seem like obvious candidates, although c5 is no real option for a few moves -> e5
+[15:58:56] sirfasunnyboy: maybe at some point I would like to play b4? But I'm not sure if c4 isn't to great a weakness to give up
+[16:00:12] sirfasunnyboy: (13) Na4 I thought briefly about but didn't see much advantage of this move after e.g. Qa5. Don't think white would want to play Qc2 or smth
+[16:15:56] sirfasunnyboy: (15) don't like this position but b4 was the right decision I think. Black will get c5 later but at least it exchanges material
+[16:16:27] sirfasunnyboy: maybe even Nc5 now?
+[16:28:09] nyanners: white might just end up winning
+[16:28:40] nyanners: i dont think black's position is bad but it seems more difficult for the moment
+[16:29:25] kayrosas: carlsgood/carlsbad
+[16:29:41] rpcx: b5 feels like the long term idea for white
+[16:30:26] kayrosas: yes, but I think white still has some improving moves before they should commit to that
+[16:31:42] kayrosas: not sure where our a4 knight goes in the long term. maybe we need it to control c5 or maybe Nb2-d3-e5
+[16:32:13] kayrosas: have to be careful of Nb6-c4 + b5 tho
+[16:34:15] rpcx: now ne4 looks tempting
+[17:09:06] sirfasunnyboy: (26) don't know about allowing c5.. Seems to work out more or less but didn't need to give up the option
+[17:09:52] sirfasunnyboy: just don't blunder a6 now
+[17:15:13] sirfasunnyboy: (28) man, why am I even talking? :D
+[17:17:00] lloydret: (28...a6) played quickly; 29.dxc5 axb5 30.axb5 and the two connected passed pawns look decent compensation
+[17:18:01] pineapplechiffoncake: rxc5 seems like a pretty nice find!
+[17:18:16] sirfasunnyboy: you're right, maybe there is some counterplay although I don't think it will be enough. Kicking the knight to g2 might help tho
+[17:25:53] karasso: Qb4 going for Qf8 now
+[17:27:40] lloydret: (34.Qc2+) next Qc5 hits Ra7, followed by Qf8
+[17:30:43] karasso: after Qf5 there is no Re7 or Qe7 after Qc5
+[17:31:30] sirfasunnyboy: yep, this suddenly looked really good, but trading queens wasn't the way..
+[17:32:31] karasso: tbh i don't have any idea why you trade queens here, with a4 and e3 hanging
+[17:34:02] karasso: i mean Qc5 Rxa4 Qf8 Ra1+ Kf2 looked also scary, but you anyway have to go for it
+[17:34:48] pineapplechiffoncake: I have a feeling as a fellow board 7 that white either forgot b1 was controlled
+[17:35:03] pineapplechiffoncake: or thought that time was too low to calculate with queens on the board
+[17:42:10] pineapplechiffoncake: Gg
+[17:42:26] sirfasunnyboy: gg
+[17:45:13] angborxley: gg
