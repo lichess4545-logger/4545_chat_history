@@ -1,0 +1,172 @@
+Lichess game chat log
+Game      : https://lichess.org/4QWrOek0
+White     : timothyha
+Black     : le_merovingien
+Time      : 45+45
+Captured  : 2026-07-13 21:49:42 UTC
+Game ended : 2026-07-13 20:29:31 UTC
+Messages  : 162
+────────────────────────────────────────────────────────────
+
+[18:32:31] namegoesinhere: go mero!
+[18:33:32] le_merovingien: Hi Namego
+[18:35:19] timothyha: (7...a6) interesting, I wouldn't think a6 is necessary
+[18:35:19] le_merovingien: They are all throwing d4-fianchetti at me this season. I should check my stats on Lichess.
+[18:36:20] robertjackson: good luck Tim
+[18:37:05] le_merovingien: Namego, so glad to see you here cheering!
+[18:38:52] le_merovingien: I am not convinced by the d5 break. Against a weaker player, I feel it is thematic. Here, I fear being grinded in a long game
+[18:39:07] le_merovingien: e5. Did I write anything else? It's the e5 break I am considering
+[18:39:53] le_merovingien: Rb8 too.
+[18:40:39] le_merovingien: I mean, the e5 break leads to a Pawn on e5 that will be clumsy.
+[18:40:39] le_merovingien: White keeps harmony.
+[18:40:54] scarff: Being grinded in a long game is tough to avoid against Tima
+[18:43:11] le_merovingien: This does not address the e5 problem but I don't want e5 now that I saw White's harmony
+[18:43:26] namegoesinhere: (8...Rb8) ...Rb8-b5 seems like a nice alternative to ...e5 against white's setup
+[18:44:58] le_merovingien: But then, if I don't play for e5, what am I playing for?
+[18:45:44] le_merovingien: Preparatory moves: Re8, Nd7 (cool one to take the diagonal)
+[18:47:15] namegoesinhere: (9.Bd2) combining b3 and Bd2 feels a little off to me
+[18:49:17] timothyha: (9.Bd2) KID games, they're so boring at the start
+[18:49:32] le_merovingien: I have to admit that I fear d5, my Knight looks stupid.
+[18:50:04] le_merovingien: With e5, I fall back onto KID themes.
+[18:51:20] le_merovingien: Hasty decision. Normally, I would go with the Knight but I remember a similar situation where the Pawn capture was better.
+[18:51:35] le_merovingien: Also, I never really think that he would not swap the Bishop
+[18:52:53] timothyha: (11...h6) I used to do this before just to get an endgame without any KID drama
+[18:52:53] timothyha: (11...h6) but recently my opponents would not allow this
+[18:54:24] le_merovingien: I did not calculate that
+[18:56:26] basilcandle: I wanted to try 14...Rxd5 with some e4 push after if possible. maybe nothing though
+[18:58:13] namegoesinhere: (15.Rad1) I think in that 14...Rxd5 15.cxd5 e4 line white can just keep on taking and ends up a pawn ahead at the end
+[18:58:43] timothyha: (15.Rad1) too many bad pieces from both
+[18:59:14] le_merovingien: Nxc7 Ne7+... At minima, I lose either a Pawn or the Bishop pair
+[18:59:44] le_merovingien: Is there a way to bury the Bishop? e4 f5?
+[18:59:44] le_merovingien: What about Kf8?
+[19:01:15] bufferunderrun: go Timothy!
+[19:01:46] timothyha: (15.Rad1) I'm also in a phase where I'm ok-ish without a bishop pair
+[19:02:01] timothyha: (15.Rad1) I used to love them :-)
+[19:02:16] le_merovingien: Rd7?
+[19:02:32] timothyha: (15.Rad1) but recently I had an OTB game with NN vs BB and I was ok
+[19:02:32] le_merovingien: Another horror...
+[19:03:02] le_merovingien: It's the only move?!?
+[19:03:02] le_merovingien: oh, hey, Chiffon!
+[19:04:18] le_merovingien: If it's like last week's game and my opponent hangs mate-in-one, listen, I'm happy
+[19:07:37] le_merovingien: a good move for White is Nxc7
+[19:08:22] inter-temporal: (15...Rd7) Nxc7 Rxc7, then ___Rd8+?
+[19:08:22] le_merovingien: Did anyone bite? :D
+[19:08:22] inter-temporal: (15...Rd7) no
+[19:08:22] inter-temporal: (16.e4) no good
+[19:08:38] timothyha: (16.e4) Bh3 was tempting but doesn't quite work
+[19:08:38] le_merovingien: Obviously, Ne7+ is better. It's (1) check, (2) captures, (3) threats :)
+[19:12:26] le_merovingien: There is an unpleasant Bh3 which I missed...
+[19:12:57] timothyha: (16...b5) ok guess I need to remove the bishop
+[19:12:57] le_merovingien: Pfff....
+[19:13:43] bufferunderrun: hmm, yeah, this looks strong
+[19:14:13] le_merovingien: Am I supposed to take the Knight?
+[19:14:28] pineapplechiffoncake: go Mero! Go Timothy!
+[19:14:44] le_merovingien: Oh yeah. i tickle the rook at the end.
+[19:15:45] le_merovingien: Rxd5 Rxd5 Bxh3 (already better) Rfd1 Nd4 Nxd4 exd4 looks interesting
+[19:16:15] namegoesinhere: (17.Bh3) Rxd5 I presure white will recapture cxd5 or exd5 to hit the knight
+[19:16:15] bufferunderrun: so Rd8 Bxc8 Rdxc8 seems necessary, cxb5 Rxb5 Rc1 Rb6 Rxc6 and Ne7+ fork
+[19:16:15] le_merovingien: Yeah because his Rook does not have access to my bottom two ranks
+[19:17:32] namegoesinhere: (17.Bh3) Rxd5 cxd5 Bxh3 dxc6 Bxf1 Kxf1 and I have no idea how to evaluate the position
+[19:17:47] le_merovingien: no wait... Rxd5 Rxd5 Bxh3 Rfd1 Nd4 Nxe5...
+[19:18:32] le_merovingien: Yeah. Got it
+[19:19:03] timothyha: (17.Bh3) just hoping for a NvB endgame
+[19:19:03] serenemoose: Go Mero!!
+[19:19:18] le_merovingien: Rxd5 Rxd5 Bxh3 Rfd1 Nd4 Nxe5 Bxe5 Rxe5 Nf3+ Kg2 Nxe5
+[19:19:33] le_merovingien: I want a calculation prize for htis.
+[19:19:49] le_merovingien: but obviously, I am wrong because the first move will be different
+[19:20:04] timothyha: (17.Bh3) last weekend at our OTB event they were giving away books
+[19:20:04] timothyha: (17...Rxd5) there was one Secret Life of Bad Bishops
+[19:20:35] le_merovingien: C'mon.  I sacked a Rook. I want to hear cheers
+[19:21:20] inter-temporal: (18.cxd5) there is only causality
+[19:22:06] le_merovingien: equal material.
+[19:22:06] timothyha: (20.Kxf1) achievement?
+[19:22:21] inter-temporal: (20.Kxf1) you are the one, timothyha
+[19:22:37] timothyha: (20.Kxf1) N->e1->d3->c5 I guess
+[19:22:37] timothyha: (20.Kxf1) something should just drop
+[19:22:52] le_merovingien: and White has a better game.
+[19:23:38] bufferunderrun: unless Rb6, Rd7 and the rook on c8 is dead and on Bf6 e5 hangs
+[19:25:09] namegoesinhere: (20.Kxf1) yeah I think Rb6 is neccesary here, I can't see another way to contest the d-file
+[19:25:25] le_merovingien: Rb6 Rd8 Kh7 Rd7 Rxc6 Rxf7 pinning the Bishop, later gnawing on e5 and throwing a mating attack
+[19:26:25] le_merovingien: This is lost?
+[19:26:56] le_merovingien: Kf8 Rd7 Rc8, then, he brings the Knight. I am tied down
+[19:28:12] timothyha: (20.Kxf1) they went for that critical line and only now start thinking...
+[19:29:13] namegoesinhere: (20.Kxf1) I dont think this line with Rxf7 is that bad, the black rook should be active enough to create counterplay
+[19:29:59] le_merovingien: Recalculating Rb6... it is the only reasonable move according to Silman (the Rook, activity, gnagnagna)
+[19:31:00] le_merovingien: But Rb6 Rd8 Kh7 Rxf7 Rc1 Kg2 Rc2 Nxe5... mating attack for White. I have a 3v2 on the Queenside
+[19:31:30] le_merovingien: This can't be losing already...
+[19:32:01] le_merovingien: What?
+[19:32:31] le_merovingien: The King coooooooomes
+[19:34:03] timothyha: (21...Kf8) world domination from the knight has to be delayed...
+[19:34:33] timothyha: (21...Kf8) or not... keep the knight and practice, I guess...
+[19:36:50] timothyha: (21...Kf8) but ok, for the team, another rook endgame...
+[19:38:37] le_merovingien: The idea is to give him the Pawn to get the c-Pawn
+[19:38:54] timothyha: (22.Rc5) not sure about the pawn endgame right now
+[19:38:54] le_merovingien: How to do that?
+[19:38:54] timothyha: (22.Rc5) 3v2 and 3v4 on sides...
+[19:39:55] le_merovingien: simply Bf6?
+[19:40:55] le_merovingien: the rest seems to walk onto some poor endgame. Also, the Bishop scopes the Knight on f6 and is not reachable from the Rook. Nice
+[19:43:43] timothyha: (23...g5) this is confusing, what are they trying to optimise
+[19:43:59] timothyha: (23...g5) I get too many moves and might even change the plan
+[19:43:59] le_merovingien: Hey Buffer! Hi Mooooooooose
+[19:44:29] le_merovingien: Look at this academic piece placement. Nimzowitsch is in heaven
+[19:46:48] le_merovingien: Now we need to calculate the Pawn breaks. This will drain my time
+[19:48:05] timothyha: (25...Ke6) I see, Nb4 Be7
+[19:49:37] inter-temporal: (26.Rc2) what about ...Kd6,
+[19:51:09] le_merovingien: The fork....!
+[19:52:25] le_merovingien: This is really tough. Not a single offensive move for the second game in a row. Pff...
+[19:53:41] timothyha: (27...Bg7) don't want to move pawns to dark squares, but a3 might be needed here
+[19:54:42] inter-temporal: (28.a3) one of those contradictory guidelines about pawns and bishops
+[19:55:43] le_merovingien: is there a catch? Nd5 Ne7 Nf5?
+[19:57:30] le_merovingien: OK, this looks vicious
+[19:58:16] timothyha: (30.Rd2) knight = calculation required...
+[19:58:46] inter-temporal: (30.Rd2) and white likely gets more activity
+[19:59:16] le_merovingien: plan is f5
+[20:00:48] le_merovingien: Starting to be difficult to remain focused
+[20:01:03] namegoesinhere: (30...Ke6) need to be careful of ...f5 exf5 Kxf5 Ne7+ fork if that's the plan
+[20:01:18] namegoesinhere: (30...Ke6) maybe ...Bf8 first
+[20:02:19] inter-temporal: (30...Ke6) nice one! (exf5+)
+[20:05:37] kborman: Go Mero!
+[20:05:53] timothyha: (30...Ke6) my knight isn't good soon
+[20:06:08] timothyha: (30...Ke6) need to find a better setup
+[20:06:38] le_merovingien: Kaybow, hi :)
+[20:06:53] bufferunderrun: Idk... either Kd3 or g4
+[20:13:16] jfiras: (33...Rc1) Good luck Timothy !
+[20:15:17] timothyha: (33...Rc1) I am seeing some fun tactics, if they allow them
+[20:16:18] timothyha: (33...Rc1) but need to be patient and not play hope chess
+[20:17:04] basilcandle: aw boo my hope chess line was Nc3 b4 Nb5 c6 Nc7+ Kd6?? Ne8+! :)
+[20:18:21] le_merovingien: I am losing c7...
+[20:18:21] le_merovingien: Drat...
+[20:19:37] timothyha: (34...b4) guess it's N v B today, but down a pawn
+[20:20:53] le_merovingien: I should have a draw here, no?
+[20:21:08] le_merovingien: Nasty...
+[20:21:23] timothyha: (37.Ne3) I feel like ok
+[20:21:39] jcarmody: Can't white get the a-pawn passed?
+[20:21:39] timothyha: (37.Ne3) but SF might say differently later...
+[20:22:24] le_merovingien: Rotation for c5
+[20:22:40] le_merovingien: Also fixing the Knight if he comes to f5
+[20:23:10] timothyha: (40.hxg4) the bishop strangulation begins!!!
+[20:23:56] le_merovingien: That, I had missed...
+[20:24:11] le_merovingien: must have been hanging all along...
+[20:24:26] timothyha: (41.Nc4) but my french opponent doesn't think of that one as a bishop
+[20:24:41] timothyha: (41.Nc4) it's a Jester in their beautiful language
+[20:24:41] le_merovingien: from move 38...
+[20:24:57] timothyha: (41.Nc4) but my knight has more fun now!
+[20:24:57] namegoesinhere: (41.Nc4) I think 40...Be7 might've saved a5 here
+[20:25:12] le_merovingien: It's dead.
+[20:25:27] namegoesinhere: (41.Nc4) although black can't make any progress there I think
+[20:25:42] le_merovingien: I can't pass the King, the Knight will always have c4...
+[20:25:42] timothyha: (41.Nc4) I think it should be losing for Black now
+[20:25:42] timothyha: (41.Nc4) with this late blunder
+[20:26:28] timothyha: (43...Kd6) i also win the g pawn now
+[20:27:29] le_merovingien: Baaaah... Nd2 is gorgeous
+[20:27:29] timothyha: (45.Nd2) our previous encounter was the same, late endgame blunder
+[20:28:30] le_merovingien: Wow...
+[20:30:01] jdw10: gg
+[20:30:01] paulwithans: gg
+[20:31:02] timothyha: the endgame seesaw is interesting... I missed something, and yes, I was worse
+[20:31:33] timothyha: I like how Lichess has stage accuracy eval now
+[20:31:48] namegoesinhere: yes, I think black can hold the draw by getting the bishop to d8 in time to defend a5
+[20:32:03] namegoesinhere: but hard to see with everything else going on of course
+[20:32:18] timothyha: Black was too confident converting an extra pawn
+[20:33:20] timothyha: now I even have for breakfast before going to work
+[20:33:35] timothyha: will get back to the game later, thanks for spectating
