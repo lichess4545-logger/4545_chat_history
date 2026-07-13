@@ -1,0 +1,110 @@
+Lichess game chat log
+Game      : https://lichess.org/zZJSephB
+White     : mennonite
+Black     : betolini
+Time      : 45+45
+Captured  : 2026-07-13 02:53:56 UTC
+Game ended : 2026-07-13 01:33:50 UTC
+Messages  : 100
+────────────────────────────────────────────────────────────
+
+[23:11:24] mennonite: yes, i am in the process of transitioning to 1.e4. It's a slow process
+[23:12:10] mennonite: i'm probably going to play most of the game in zen mode
+[23:21:04] metalpawn: Go Mennonite !!!
+[23:29:42] inter-temporal: (13...Rb8) is this some kind of anti-Najdorf?
+[23:30:12] inter-temporal: (13...Rb8) but it's still a Najdorf, isn't it?
+[23:30:43] inter-temporal: (13...Rb8) like, main line? lol. i had this position today in LW
+[23:30:58] inter-temporal: (13...Rb8) i mean at 7.h4
+[23:30:58] inter-temporal: (13...Rb8) dang. it 7.f4!!
+[23:31:44] inter-temporal: (13...Rb8) but maybe 7.f4 h6 was a sideline. i don't know much about it yet
+[23:35:17] neverness: Najdorf = too much theory
+[23:45:13] neverness: 15: Black's Queen might end up on h7, but Black's 1 pawn up!
+[23:45:43] neverness: Ah, I'm missing something. Never-mind.
+[23:45:58] mennonite: 16.Nxe5 Nxe5 17.fxe5 Qxe4 18.Bxe4 Bg5 19.Qxg5 hxg5 is unclear
+[23:46:59] inter-temporal: (16.Nxe5) Najdorf seems more interesting that i expected, despite the theory
+[23:47:30] goldenretrieverchess: Go Mennonite!
+[23:47:30] inter-temporal: (16.Nxe5) so far, trying to understand the "theory" seems beneficial somehow
+[23:49:16] inter-temporal: (17.fxe5) often had 2 analysis boards where i could change one piece
+[23:49:16] inter-temporal: (17.fxe5) to figure out why everything changes
+[23:54:21] mennonite: even if i have a weak e4 repertoire at this point... i just feel like i'm enjoying chess again and that counts for something
+[23:57:24] jcarmody: 100%
+[23:58:40] mennonite: suddenly a thunderstorm has arrived. hope i don't lose power. we badly need the rain
+[00:05:34] stephentaam: vamos captain Mennonite!
+[00:09:23] neverness: Rain is usually good, losing power never is! :-D
+[00:10:54] neverness: I just ate dinner (I ordered pizza), watching chess with an empty stomach isn't ideal! :-D
+[00:11:56] inter-temporal: (19...b4) must feed the chess machine
+[00:13:28] mennonite: i was planning on 20.Nd6 but there are too many ways that my knight ends up getting trapped and harvested on d6
+[00:13:43] neverness: My cats are fed too, no more meowing at me! I can finally chill! :-)
+[00:13:43] mennonite: what i don't like here is he gets in Rhc8 with tempo
+[00:14:59] inter-temporal: (20.Nd2) must feed the meow machine
+[00:20:50] neverness: 20: I'm even considering Bxa2+ for Black
+[00:22:37] inter-temporal: (20...b3) b-pawn knockin on the door
+[00:23:22] neverness: 20.b3 played: I thought about it... But I regarded Nxb3 is totally fine
+[00:23:38] neverness: But what do I know?
+[00:24:40] neverness: Ah, yes... 21.axb3 is even better!
+[00:30:00] ecoarrivazumashoomzo: Wow. Go mennonite
+[00:36:06] neverness: Oof! The chess skills I once had are indeed completely gone: I thought a6 was hanging.
+[00:37:07] inter-temporal: (23...Rxb3) ty nanners for comments during my game (loss) yesterday. i found it very helpful post mortem, sincerely. [*hug emoji*]
+[00:38:39] nyanners: if you say :D
+[00:39:25] inter-temporal: (25.Qd3) 100%. i had a second crack at it today and your comments were immediately useful there.
+[00:51:38] neverness: 27: Doesn't Nf5 win a pawn?
+[00:52:54] inter-temporal: (27...Rxg6) good call! pizza is doin its job
+[00:53:24] mennonite: 28.Nf5 is probably right but i can't help but keep looking at 28.e6
+[00:53:39] ecoarrivazumashoomzo: 28) Knife f5?
+[00:59:00] neverness: 30.Nd6 to disconnect the Rooks
+[00:59:00] nyanners: violent
+[00:59:15] nyanners: yea dont play e6 thats insane
+[01:00:01] nyanners: umm interesting. i feel id have defended the pawn
+[01:00:01] nyanners: maybe white wants to liquidate to draw
+[01:00:01] nyanners: which is fair
+[01:00:31] nyanners: you cant play 31 Rd8 tho
+[01:00:31] nyanners: so i dont think this is working out
+[01:00:46] neverness: 31.c4 is an idea
+[01:00:46] nyanners: i expected c4 yea
+[01:01:02] nyanners: c3 is.. more stable maybe
+[01:01:47] nyanners: im afraid this pawn could become impossible to remove tho
+[01:02:03] neverness: Then just play cxb3 and it's totally equal I guess
+[01:02:03] neverness: I don't get c3
+[01:02:33] inter-temporal: (31.c3) was there no way to keep an extra pawn?
+[01:02:33] nyanners: i assume the idea is for the king to defend it
+[01:02:33] mennonite: I'm not 100% sure how to respond to 31...Rg5
+[01:02:48] guitarspider: Ra6 maybe a bit of a problem too?
+[01:02:48] nyanners: yea id have played Kb2 on 30 but its not like super stable
+[01:03:03] nyanners: or well, im not sure i would. its my first thought XD
+[01:03:19] inter-temporal: (31.c3) yeh, just keep the pawn and see what happens
+[01:03:49] nyanners: at that point id be more afraid of Ra6 than Rb6 which would be defended by Nd4
+[01:04:20] nyanners: but maybe it doesnt really change much. white still goes Nd4 to defend the pawn to free for Ra1
+[01:04:35] nyanners: so black goes on the a-file.. but white should have many good choices including giving the pawn back
+[01:04:50] guitarspider: (31.c3) Kb2 Ba3+ Kxa3 b2 with a funny Ra6 check as well, in fantasy world :D
+[01:06:37] neverness: 31...Ra6 then 32.Rd8 I think
+[01:08:24] neverness: 34.Kb2 unless there's something phenomenal
+[01:09:55] neverness: Is 34...f6 playable?
+[01:10:56] neverness: I guess we'll find out! :-D
+[01:12:28] neverness: 35.Nf7 is my thought
+[01:13:14] guitarspider: (35.Nf7) f6 and Kg6 were the obvious candidates I thought
+[01:18:04] neverness: 37: Is White better here?
+[01:18:35] neverness: b3 is gonna fall.
+[01:21:07] mennonite: my cat curled up to me, she's here to support me to the end
+[01:21:37] inter-temporal: (38.Nf3) must feed the meow machine
+[01:22:38] neverness: There's a story Alekhine played a tourney with his cat on his lap
+[01:22:38] neverness: Or something like that
+[01:23:24] inter-temporal: (38...Rf8) therapy pets are allowed, i think
+[01:26:59] neverness: 41.c4 maybe?
+[01:28:15] guitarspider: (41.h3) g4 is a big threat
+[01:28:30] mennonite: almost played g4 but that allows Rf4-Rc4
+[01:29:01] guitarspider: (41.h3) although I guess Nd2 covered the immediate mate
+[01:29:31] neverness: But then Rf2
+[01:29:46] neverness: Yeah, I think cannot allow the entry
+[01:32:19] nyanners: ooh Nd2
+[01:32:19] nyanners: thats a good move
+[01:33:04] nyanners: gg
+[01:33:04] neverness: GG
+[01:33:04] guitarspider: gg
+[01:33:04] goldenretrieverchess: gg!
+[01:33:19] ecoarrivazumashoomzo: Big well done
+[01:33:19] thegreattoddman: gg
+[01:33:19] nyanners: one could argue you dont draw this but id rather tend to the cat tbh
+[01:33:35] inter-temporal: gg
+[01:33:50] guitarspider: In an ideal world you play on I guess, but great result for Mennonite still!
+[01:35:54] mennonite: thanks for watching all
+[01:37:10] betolini: Thanks for watching the game, people!
