@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/cKLWdD9Q
+White     : ekramymedad
+Black     : godgifu
+Time      : 45+45
+Captured  : 2026-07-14 13:24:00 UTC
+Game ended : 2026-07-14 12:03:55 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[10:18:52] godgifu: never thought this Bxb1 cheese would work in classical. Quite pleased
+[10:19:53] godgifu: 10.Qb3 Up a piece so a trade would be beneficial for me.  Qxb3 axb3 e6  and i try to finish development
+[10:20:38] godgifu: those double isolated pawns could be a nice weakness to target for me in the future
+[10:25:29] godgifu: 14.g4 seems weakening to me. Ng6 Nf4 is an idea now
+[10:27:16] godgifu: Ng6 and Bb4 is also an idea forcing bishops off the board. Nf4 seems stronger without lsb
+[10:37:25] kayrosas: lets go godgifu
+[10:37:40] kayrosas: oh we're up a piece, nice
+[10:39:42] kayrosas: anything is winning but 19...g5 might actually be a nice idea, followed by h5 to open up the kingside
+[10:49:37] godgifu: 22.Ne1 Too many choices here. Do I double up on the c file or play b6 a5. Ra4 seems annoying
+[10:53:27] godgifu: Rc7 Ra4 rc1 Kf1 Nd3? Probably winning more material there
+[10:54:59] godgifu: or Rc7 Ra4  Rc1 Rxb4 Rxe1 Kh2 b5
+[11:00:34] godgifu: 23.f3 seems slow. I can just continue my plan and play Rhc8 now.
+[11:08:11] godgifu: 24...Rc1 time to simplify
+[11:15:19] godgifu: uh oh
+[11:30:04] godgifu: damn did i just blunder
+[11:32:07] kayrosas: aw I saw this coming
+[11:32:07] kayrosas: but we have Nd3 at least and a solid pawn up
+[11:32:37] kayrosas: 26...Rc1 would've actually been a good way to simplify further
+[11:33:08] kayrosas: oh, our knight could actually be trapped on b2
+[11:35:56] kayrosas: 30...Nc1 maybe
+[11:37:27] godgifu: i think im in trouble. Nxb2 and my knight is trapped. Nc1 b4 and i dont see a bright future ahead of me
+[11:38:28] kayrosas: b4 and we can do Kc6-b5
+[11:43:49] kayrosas: black has to be a bit careful of some breakthrough on the kside now
+[11:46:52] kayrosas: 35...g6 is the safe option, not sure if we have smth else
+[11:52:59] kayrosas: 37.Nxb4 Kxb4 f6 should be winning for white
+[11:53:14] kayrosas: this way around maybe too
+[11:53:46] kayrosas: unfortunate
+[11:54:16] kayrosas: oh wait nvm
+[11:54:32] kayrosas: i just saw ghosts
+[11:55:18] godgifu: 37.f6 wow . i feel like im busted here. how did this even happen
+[11:55:33] kayrosas: g6 always saves black
+[11:56:19] kayrosas: now black should be winning
+[11:56:34] kayrosas: 39...g5 is cleanest to prevent any infiltration
+[11:57:50] godgifu: 38.Nxb4 feels like a mistake. Gxh5 gxh5 and that looks like zugzwang
+[11:58:51] kayrosas: yep
+[12:00:22] godgifu: 42...Kc4 yeah this is over whew. that was close. going to be winning all those pawns
+[12:06:43] kayrosas: gg
