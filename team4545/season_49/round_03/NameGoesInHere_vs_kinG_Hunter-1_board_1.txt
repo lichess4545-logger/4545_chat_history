@@ -1,0 +1,119 @@
+Lichess game chat log
+Game      : https://lichess.org/kgvzlOVH
+White     : namegoesinhere
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-07-14 20:52:46 UTC
+Game ended : 2026-07-14 19:32:31 UTC
+Messages  : 109
+────────────────────────────────────────────────────────────
+
+[17:14:01] kborman: Go Name!
+[17:20:53] le_merovingien: Go Namego!
+[17:22:39] le_merovingien: This is nearly in my book. I did not get Bc4.
+[17:22:55] le_merovingien: We sort of discussed it, it is not good against a Sicilian with e6. Not sure why he played it
+[17:23:10] le_merovingien: Maybe it is good in this case... chess is a game of exception and I am board 9, so...
+[17:23:25] serenemoose: Go Name!
+[17:23:56] le_merovingien: Look at this. We're Namego's 9th Pawn :)
+[17:25:57] serenemoose: :)
+[17:35:22] le_merovingien: This is very odd. I don't want exd6 because that frees the b7 Bishop. The logical move is Bb5
+[17:35:53] le_merovingien: But then, what to do against Bb5 Bc6? Exchanging the light square Bishop is better for Black.
+[17:35:53] le_merovingien: Oh well... I go back to my board 9
+[17:36:08] serenemoose: So I'm just thinking if we held on to that pawn structure, where would Black castle exactly?
+[17:36:08] le_merovingien: That cannot be good
+[17:36:54] le_merovingien: Mooose: where does White castle?
+[17:37:09] le_merovingien: Oh, we can. We tactically attack the a8 Rook
+[17:37:40] serenemoose: Maybe I have blitz-brain, but does White need to castle?
+[17:37:40] serenemoose: Oh, how?
+[17:38:11] le_merovingien: O-O Bxf3 Qxf3 Bxh2 Kh1 and that should be bad for Black because there is no way to cover the a8 Rook and the h2 Bishop
+[17:38:56] serenemoose: Ah you mean in the live position
+[17:39:12] le_merovingien: OK, there is a complication.... the Bishop on c4.
+[17:40:12] serenemoose: Great minds, Mero.
+[17:40:28] le_merovingien: And an even greater on in Namego. Did you see how fast he figured all this out?
+[17:45:34] le_merovingien: I feel like Bb3 is necessary here. Maybe go Bb3 Bc2 if time permits.
+[17:47:36] le_merovingien: Ouiiii!
+[17:48:37] serenemoose: Wow really? Can't White begin throwing pieces in short order?
+[17:49:07] serenemoose: But I suppose Black can too is the point.
+[17:50:23] le_merovingien: I think the Bishop on c4 was useless. It needed rerouting before Black can do something on it.
+[17:51:24] le_merovingien: But look at Black's pieces, it is Black who is attacking
+[17:51:24] le_merovingien: all this probably because Bc4
+[17:51:55] le_merovingien: ah, no, the en passant too
+[17:51:55] le_merovingien: these guys are way too strong
+[17:52:56] serenemoose: Yeah honestly decisions on both sides here are going way above my head.
+[17:53:11] serenemoose: Need to watch these top board games more often, might learn a thing or two.
+[17:54:27] robertjackson: Good luck kinG_Hunter
+[17:54:58] le_merovingien: yeah, me too. I have studied these positions, though, so I can follow
+[17:55:13] robertjackson: Don't learn too much serenemoose....
+[17:55:28] serenemoose: Ha!
+[17:57:30] robertjackson: :)
+[18:14:19] le_merovingien: I imagine that if Namego played Bb2 it is because he intends to push the c and d pawns.
+[18:15:52] le_merovingien: OK, let me tell you I understand nothing about Black's play.
+[18:16:07] serenemoose: g5 g4 being the point? But Bb3 Re1 Qe2 etc?
+[18:16:22] timothyha: (16...f5) just look at the name of the team
+[18:17:38] scarff: Good luck Artur! Looking interesting for sure
+[18:17:38] timothyha: (17.Bb3) Nc5
+[18:17:54] le_merovingien: Nc5 dxc5 Bh2+ wins the Queen!!!
+[18:17:54] timothyha: (17.Bb3) yeah
+[18:17:54] scarff: And definitely a compliment if the spectators don't understand anything about your play :D
+[18:18:09] scarff: (at least, if you're board 1 lol)
+[18:18:24] timothyha: (17.Bb3) we don't understand, but we support :-)
+[18:19:10] scarff: That pretty much sums up how chess makes me feel too often :)
+[18:19:40] le_merovingien: Free Pawn!
+[18:19:40] timothyha: (17...Re8) I don't understand that kid, but he seems to play with the same toys like I do
+[18:21:12] grzybozbur: erm, f5 was hanging?
+[18:21:12] grzybozbur: qxf5 what does black do?
+[18:21:27] timothyha: (18.c4) still time to find Nc5 now?
+[18:21:58] le_merovingien: Nc5 loses the Knight
+[18:21:58] scarff: Without the rook on d8 it doesn't work though?
+[18:21:58] serenemoose: Nc5 still works? This is hurting my head.
+[18:22:13] timothyha: (18.c4) right
+[18:22:13] timothyha: (18.c4) the rook has moved
+[18:22:28] timothyha: (18.c4) sorry
+[18:22:28] timothyha: (18.c4) I only woke up, leaving for coffee now
+[18:22:28] scarff: Kh8 maybe? Or Rad8?
+[18:23:44] timothyha: (18...Rad8) now Nc5 will work again :-)
+[18:23:44] le_merovingien: No worries. You were a morning person on the morning that counted :)
+[18:23:59] serenemoose: Black's seen Nc5 now.
+[18:25:00] timothyha: (18...Rad8) winning a strategically lost position, a morning story for me @Le_Merovingien
+[18:25:16] timothyha: (18...Rad8) and happy Bastille Day over there
+[18:27:02] le_merovingien: Thank you :)
+[18:29:35] guitarspider: I feel like I'm missing a bunch of things this game.
+[18:30:36] timothyha: (19.Qe2) just hang around until the mate and you won't have missed anything
+[18:31:06] timothyha: (19.Qe2) seriously, I guess Be4 is enough, or Nf6->e4
+[18:31:52] timothyha: (19.Qe2) White doesn't have similar rooks out yet
+[18:32:22] scarff: Is e5 a move to consider?
+[18:32:38] timothyha: (19.Qe2) no, because c5+
+[18:33:08] scarff: Oh, of course! I was just thinking if it's a good break, missing the straight forward tactics!
+[18:33:23] timothyha: (19...Be4) but positionally, yeah, should have been a candidate move
+[18:33:54] guitarspider: I thought it was a move earlier maybe.
+[18:34:24] serenemoose: So in a position like this how does White weigh moves like Ne4, Nd2, etc?
+[18:35:25] serenemoose: Assuming White wants to dislodge the bishop with the knight and/or f3?
+[18:37:28] timothyha: (20.Nd2) I don't think so, f3 makes things worse
+[18:48:55] timothyha: (22...Nf6) football soon
+[18:49:43] timothyha: (22...Nf6) I saw M Olise posed for a photo with a chess queen on his forehead
+[18:50:44] timothyha: (23.c5) Bd5 I guess?
+[18:50:59] scarff: I wanted Nd5. But either seems good, just to block the centre
+[18:52:16] timothyha: (23...Nd5) c6 is slightly unpleasant
+[18:52:46] timothyha: (23...Nd5) but maybe White wants Nc4 instead
+[18:54:33] timothyha: (24.cxb6) cxb6 feels like simplification now
+[18:54:49] timothyha: (24.cxb6) less pressure on Black (good for our team)
+[18:54:49] guitarspider: feels like Black has the better pieces now too
+[18:55:19] timothyha: (24.cxb6) I guess Nc4 will require calculation, but still looks ok
+[18:55:50] guitarspider: Qxb6 Nc4 Qa6 I think
+[18:58:07] timothyha: (25.Nc4) Qc7->b8 might be more attractive
+[18:59:08] guitarspider: What does the queen do on b8? You also give a tempo move for free.
+[19:00:39] serenemoose: Ba4?
+[19:00:54] scarff: I like it going to the kingside more. Both for attack and defense
+[19:01:10] scarff: Still looks like a very dynamic position to me, that could go both ways!
+[19:01:55] guitarspider: White can remove an important bishop with Nc6 if they want to
+[19:02:26] guitarspider: ok, taking the other bishop?
+[19:02:41] timothyha: (27...Qg5) messi mates soon
+[19:03:11] guitarspider: but you can't take that I think?
+[19:03:30] guitarspider: so maybe you have to take on d5 now
+[19:05:47] timothyha: (29...Qxf4) opposite colour bishops with queens on, perfect for time trouble
+[19:32:16] timothyha: gg!
+[19:32:46] king_hunter-1: That was an intense game!
+[19:33:32] scarff: GG both! Exciting game to watch too :)
+[19:34:33] guitarspider: gg
+[19:36:20] king_hunter-1: 17...Re8  I blundered the f5 pawn; how did I miss that?
+[19:37:51] serenemoose: gg
