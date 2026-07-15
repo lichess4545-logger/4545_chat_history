@@ -1,0 +1,187 @@
+Lichess game chat log
+Game      : https://lichess.org/o4xvHnTB
+White     : gronen
+Black     : langew0w
+Time      : 45+45
+Captured  : 2026-07-15 21:16:18 UTC
+Game ended : 2026-07-15 19:56:14 UTC
+Messages  : 177
+────────────────────────────────────────────────────────────
+
+[18:01:54] leverkuhn: unfamiliar opening for me
+[18:02:09] langew0w: I like this move order, but my knowledge stops here. I think we are in an old sicilian line
+[18:02:39] leverkuhn: I would guess 3.e5 is the main line against the Nimzowich?
+[18:03:55] leverkuhn: we're transposing back to Sicilian main lines after 4.d4
+[18:04:26] langew0w: I should really look into this line some more. I think I play d6 at some point
+[18:05:42] leverkuhn: Sveshnikov Sicilian
+[18:05:57] langew0w: There's actually some beef between me and him. We were scheduled to play 90+30, but he never showed up
+[18:06:12] leverkuhn: Big choice for White between 7.Bg5 which used to me automatic and the modern preference 7.Nd5
+[18:06:12] leverkuhn: *used to be
+[18:06:43] leverkuhn: White plays the old main line, and we will now see 7...a6 and 8...b5
+[18:08:14] leverkuhn: okay White traded the bishop to double Black's pawns
+[18:08:14] langew0w: im gonna spend some time here to come up with a plan
+[18:10:02] leverkuhn: definitely the kind of position you're hoping for as Black when you play the Sicilian
+[18:10:32] leverkuhn: powerful positional trumps, more center pawns, dynamic ideas (...f5!? in the future?)
+[18:11:03] langew0w: my brain only thinks f5
+[18:12:05] leverkuhn: long term for sure, but I wouldn't rush it
+[18:12:35] leverkuhn: I do think 9...b5 is fairly automatic, there's no way White can sac is there?
+[18:13:37] leverkuhn: another dynamic to consider is this structure is that Black might want to play ...h5 at some point to get there in front of White's queen
+[18:14:23] langew0w: i think he wants qd2 and o-o-o, so feels like I have to continue my initiative. f5 seems to also avoid a knight plantet on d5
+[18:15:08] leverkuhn: I don't like that he allowed the a3-knight to return to c4
+[18:15:24] langew0w: still havent gotten a plan though
+[18:15:39] langew0w: o-o is off the table, seems also for him
+[18:16:09] leverkuhn: 10.Nc4 fxe4?! 11.Nxe4 d5 12.Qxd5! +-
+[18:16:55] langew0w: im thinking keeping my king in the center and if I decide that b5 seems good also
+[18:16:55] leverkuhn: 10.Nc4 b5 11.Ne3 f4 12.Ned5 looks okay for Black though
+[18:17:25] leverkuhn: maybe 10.exf5 just to loosen things up
+[18:17:42] langew0w: for second game in a row I have managed to trade a bishop for a knight
+[18:18:12] leverkuhn: 10.exf5 Bxf5 11.Nc4 followed by Ne3, Bc4, Qh5 maybe
+[18:18:27] langew0w: I think b5 might come as a tactic. If I can play b5 with tempo, and I can play b4 after
+[18:19:28] langew0w: imagining something like, nc4, b5, ne3, f4, ng4, rg1 and the knight is trapped
+[18:20:14] langew0w: ofc, he would have nd2
+[18:21:00] langew0w: also, if I lose I will fall under 2000, which means I have to play classical chess all day tomorrow
+[18:21:30] langew0w: i wonder if my opponent also is thinking about england v argentina. This game has to be done in 40 minutes
+[18:22:31] langew0w: I think his best move is Qe2, but that also blocks the bishop, but that will become alive after o-o-o and f3
+[18:22:47] langew0w: but then again, a lot of tempi has to be spent there
+[18:24:18] langew0w: two moves comes to mind immediately: nc4 and fxe4 followed by f5 again
+[18:26:36] langew0w: nope, fxe4, f5 fails to Qh5+
+[18:26:52] langew0w: 'Never push the F-pawn' - Some GM probably
+[18:30:12] langew0w: im thinking between nb4 or Qg5 to threaten someone and then play nb4. Just seems like my kingside need pieces around it
+[18:33:14] langew0w: just found a problem with Qg5, and that is when I take in the center he can capture with tempo on my Queen
+[18:38:05] langew0w: didnt see that!
+[18:40:38] langew0w: attacking chess with two kings in the center, lets go
+[18:41:23] gronen: expected 10...Qg5, I thought the knight would be misplaced on b4
+[18:41:39] leverkuhn: I would agree Gronen
+[18:42:09] gronen: I can capture e4 because if d5 Bxd5 Nxd5 Qxd5 Nf6+
+[18:42:40] leverkuhn: 11.exf5 could have been played, no? How was Black getting f5 back
+[18:42:55] gronen: considering how long they thought about it I guess I might be missing something though
+[18:43:25] langew0w: if he doesnt take i dont know my follow up
+[18:43:25] langew0w: o-o here is a boss move
+[18:43:40] leverkuhn: also 12.Qh5 has to be a candidate
+[18:43:56] leverkuhn: okay ...d5 there however, so maybe not
+[18:44:11] leverkuhn: no 12.Qh5 d5 13.Qxe5+
+[18:44:26] gronen: I would rather have my knight on d5 though
+[18:45:43] leverkuhn: 12.Qh5 Qe7 13.0-0-0 and the attack continues
+[18:48:45] gronen: 12.Nxe4 but no real plan or 12.Qh5 Qe7 13.Nd5 Nxd5 14.Bxd5 with more actvity
+[18:49:31] langew0w: oh wait, can he sac?
+[18:50:02] langew0w: guys he is threatening mate
+[18:50:17] gronen: if 12...Qc7 then just long castle
+[18:52:34] langew0w: i defended mate in one
+[18:54:05] pepepibote: go GroneN!
+[18:55:37] gronen: 14.Nxe4 might be interesting now due to f6 being undefended
+[18:56:53] gronen: I'm expecting 13...b5 to open up their bishop
+[18:57:09] leverkuhn: Black can't really develop anymore, so may as well try 13...b5
+[19:00:00] gronen: 14. Don't want to give up my LSB but if Bb3 then Bb7 is pretty sttrong, so Bd5 and Nd5 are the most natural to me.
+[19:00:15] langew0w: if bd5, i dont think I am trading, because after nxd5, I dont like the nf6+
+[19:00:46] leverkuhn: yes 14.Bd5 Bb7 would be more prudent
+[19:01:46] gronen: 14. if nd5 I do expect them to decline the trade but they probably have to go Qd8
+[19:04:04] gronen: Ah yeah 15...Bb7 is pretty good here
+[19:05:50] leverkuhn: Black completely survived this, wow!
+[19:06:21] leverkuhn: White somehow left with the terrible knight on a3
+[19:07:22] gronen: 16. Qf5 and expecting Bxd5 Rxd5 b4 Nb1 Qc4
+[19:08:38] gronen: 16. but then I have Nd2 Qxa2 Qxe4/Nxe4
+[19:08:54] leverkuhn: watch out for a timely ...Bh6+ in those lines
+[19:09:24] leverkuhn: 16...Bh6+ 17.Kb1 Bxd5 18.Rxd5 b4 would actually trap the knight here
+[19:10:25] leverkuhn: does that just win for Black?
+[19:10:25] gronen: 16. Not sure who is better after Qa1+. Probably black objectively but I feel like I have a good initiative
+[19:11:41] leverkuhn: I think it does; maybe 19.Nc4 Qxc4 20.Rxe5+ desperation at the end but Black doesn't have to take
+[19:12:27] langew0w: i've calculated a win here
+[19:12:42] langew0w: nb1, bh6+
+[19:12:42] gronen: 16.  guess I should've also consider the tactical line 16...Bxd5 Rxd5 b4 Rxe5+
+[19:12:57] leverkuhn: but White will now play 17.Bxb7
+[19:13:28] langew0w: nvm he can trade bishops first
+[19:14:14] gronen: if 17.Qxe4 Bxe4 Qxe4 I guess mate would be unstoppable without sacrificing the knight after Rc8
+[19:15:00] langew0w: hold on a minute. Bxb7, b3! (?)
+[19:16:16] leverkuhn: does that even threaten anything? 17.Bxb7 b3? 18.Bxa8 bxa2 19.Kd2
+[19:17:32] gronen: 17. Qxe4 Bxd5 Rxd5 would defend c1 but I missed that it costs the knight . bxa3 Rxe5+ dxe5 Qxa8+ would be a little crazy
+[19:17:47] langew0w: I decided to not trade bishops before b4, because it felt like his king could run away. Maybe I am wrong, will be good to see analysis
+[19:18:03] gronen: 17. Bxb7 seems best
+[19:18:48] gronen: 17. Bxb7 Qxb7 Nc4
+[19:19:04] langew0w: now, do I trust my calculation or do the obvious
+[19:20:05] langew0w: b3, axb3 he seems just fine
+[19:23:55] leverkuhn: White owns all the light squares now and it will be hard for Black to put up any resistance
+[19:24:10] langew0w: from "i've calculated a win' to "I think he is fine now" in 3 moves
+[19:24:25] gronen: 19. Qf6 is tempting but might be too material oriented, 19.Ne3 comes most naturally. Also considered 17. b3 but looks too passive
+[19:24:40] leverkuhn: Qxe4, b3, Kb1, Rd5, Rhd1 in some order play themselves
+[19:25:11] gronen: 19.Qxe4 is also an option of course
+[19:27:14] gronen: 19.Qxf6 looks a bit too adventerous though, so 19.Qxe4 > Ne3 is probably the way to go
+[19:27:59] leverkuhn: I don't agree with White's reticene to play b32
+[19:28:15] leverkuhn: now 20...Bh6! and Black eliminates the inferior minor piece dynamic
+[19:28:15] gronen: 21...Bh6 looks natural. Didn't consider that
+[19:29:16] leverkuhn: Black far from out of the woods here with all these weak pawns, but he's not resigning just yet
+[19:30:16] leverkuhn: just 21...0-0 and pray
+[19:30:47] gronen: If they don't trade I think white is better because of the strong grip on the light squares
+[19:32:34] gronen: On 21...Rg8 I thought 22.g3 in preperation for f4
+[19:33:20] leverkuhn: 21...Rg8!? cool idea; 22.Qxh7 Bxe3+ and 23...Rxg2 wansn't totally clear
+[19:33:35] gronen: 22...Rg4 23.f4
+[19:33:35] leverkuhn: and now the rook sort of functions from g6 shielding h7 and defending d6
+[19:34:21] leverkuhn: f4 might indeed be a problem however, good plan from White
+[19:34:52] leverkuhn: could Black perhaps throw a queen trade here?
+[19:34:52] gronen: 22. I played too quickly, 22.Qxh7 looks good
+[19:35:07] leverkuhn: 22...Qc6!? 23.Qxb4?? Bxe3+
+[19:35:37] leverkuhn: 23.Qxh7 Rg6 with some coordination
+[19:37:24] gronen: 22. Qxh7 Rg6 and white would be in a lot of trouble, so I think I made the right choice
+[19:38:10] leverkuhn: White was ready for that shocker!
+[19:38:25] leverkuhn: what a game!
+[19:39:26] gronen: 23. I feel white is better now, 22...Rg4 allowing me to save the knight feels like a mistake
+[19:39:41] leverkuhn: I don't think that tactic worked: 23.Qxg4 Bxe3+ 24.Kb1 might have been good for White
+[19:40:12] langew0w: I've fucked it?
+[19:41:13] langew0w: king safety...
+[19:45:17] gronen: 27. I should've looked deeper into 27...Re6 - Qxh8 because I missed  Bxf4 as a reply
+[19:46:03] leverkuhn: Black also might start with 27...Re8 here
+[19:46:18] langew0w: i think I fucked it
+[19:46:49] langew0w: I am hoping for a complicated rook endgame, just like Leverkuhn taught me
+[19:47:19] leverkuhn: it's the place to hold a pawn down for sure
+[19:47:50] leverkuhn: but after 28.Qxb7 Rxb7 29.Nd5! we are far from a rook endgame sadly
+[19:48:36] langew0w: whats the point of that?
+[19:48:36] leverkuhn: wait, 29...Rg2
+[19:48:36] langew0w: ah, defend f4
+[19:48:51] gronen: 28. Qd4 would've been solid of course but I would've blundered if they had played it
+[19:48:51] leverkuhn: White missed that he has no second rank block, as I did at first
+[19:48:51] leverkuhn: oof!
+[19:49:21] langew0w: hold on a minute
+[19:49:52] leverkuhn: White lost all his pawns in a moment of carelessness!
+[19:50:07] gronen: 31. totally missed Rxb2
+[19:51:25] leverkuhn: White needs to gather himself and not let this drift all the way to a loss
+[19:51:25] gronen: 31.b3 Rxh2 - Rh1 would've probably been solid
+[19:53:26] leverkuhn: it's getting weird again; why didn't Black go for 34...Bg7 35.Rxh7 Rxa4?
+[19:53:42] inter-temporal: (35.Ne7) gonna be tricky
+[19:53:42] leverkuhn: ???
+[19:53:57] gronen: 35...Kf8 black is still better I guess they're going for a more dangerous strategy?
+[19:54:27] langew0w: I've calculated draw, lets see
+[19:54:58] leverkuhn: incredibly creative idea, but there was time to double check
+[19:55:28] langew0w: fuck, now I gotta prove myself
+[19:55:28] leverkuhn: White trusted him, but 38.Ng8 Kf7 39.Rg1 and where was the draw?
+[19:55:43] inter-temporal: (42.Ra5) drama.
+[19:56:29] leverkuhn: gg, what a wild game!
+[19:56:46] langew0w: ggs
+[19:56:46] leverkuhn: that was a fun one; thanks guys!
+[19:56:46] langew0w: felt lucky to get half a point there
+[19:56:46] leverkuhn: very
+[19:57:01] langew0w: Rook activity, Leverkuhn!
+[19:57:16] gronen: Yeah interesting game
+[19:57:16] inter-temporal: lol. SF can draw, oc
+[19:57:47] leverkuhn: I did think there was one win with 16...Bh6+, does comp agree?
+[19:58:02] gronen: Yeah Rg8 would've saved the piece, I just missed that
+[19:58:02] inter-temporal: ahh. was there a perpetual on the N if 38.Ng8?
+[19:58:17] leverkuhn: no Rg1
+[19:58:17] gronen: Rg1 I mean sorry'
+[19:58:32] inter-temporal: oh. yeh
+[19:59:04] leverkuhn: knight is still misplaced though, comp thinks Black can hold
+[19:59:34] inter-temporal: yeh. SF draws everything...
+[19:59:34] gronen: Ueaj ot
+[19:59:49] gronen: Yeah it looks very unstable for white
+[19:59:49] leverkuhn: 35...Rxa4!! incredible move in that case
+[20:01:37] gronen: I thought you'd want to push for the win though with those two passed pawns
+[20:02:07] gronen: I guess you lose h7 but still
+[20:02:38] gronen: idk I was just happy to get the draw in that endgame as well
+[20:03:39] gronen: ahhh I missed 30. b3 Rxa2 as well
+[20:04:24] gronen: I would guess it still holds but still very sloppy of me
+[20:04:40] gronen: Guess 29.Rf1 was the way to go
+[20:04:55] leverkuhn: I think 30.b4!? would be the positional move once it got there
+[20:05:41] gronen: yeah but it feels drawish at that point
+[20:06:11] leverkuhn: yeah definitely a lot of the advantage is gone
+[20:06:42] leverkuhn: I'd still take White any day though with the better minor and connected pawns
+[20:06:42] gronen: I guess I could try pushing c or something idk I dont see a good plan with everything so glued together
+[20:07:28] gronen: Yeah tryue
+[20:08:13] gronen: I have to go, but thanks for the game!
