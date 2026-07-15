@@ -1,0 +1,60 @@
+Lichess game chat log
+Game      : https://lichess.org/42f3jTD8
+White     : glbert
+Black     : genturgidson
+Time      : 45+45
+Captured  : 2026-07-15 15:42:20 UTC
+Game ended : 2026-07-15 14:22:17 UTC
+Messages  : 50
+────────────────────────────────────────────────────────────
+
+[13:05:22] okady: g
+[13:05:37] okady: go glbert
+[13:12:29] genturgidson: I don't know how to respond to 5.c3, I see no escape. I think I have somehow lost already.
+[13:14:00] genturgidson: 6. exd5 Nxd5 Bg5+ Nf6 and I resign probably.
+[13:16:17] genturgidson: Even 7.Nxe5 I saw, if Nxe5 back then d4.
+[13:16:32] genturgidson: Completely busted.
+[13:40:46] genturgidson: My position looks maybe okay but no matter what I do he has 11.Ne4 now.
+[13:45:21] genturgidson: I think the extremely risky 10...f5 is forced.
+[13:48:55] genturgidson: It's between 10...Nf6 and the more risky aggressive f5, intentionally pinning my knight.
+[13:49:41] genturgidson: Going to take the risk. If I play Nf6 I'm just going to lose for sure.
+[13:51:43] genturgidson: He can play 11.g4 though, weakens his king but still seems strong.
+[13:52:28] genturgidson: Actually no, it's probably not that great, opens line for my rook and bishop on f2.
+[13:53:29] genturgidson: I've kind of missed d4, but that was coming regardless. Lost position for a reason.
+[14:02:23] genturgidson: I think he just has 12.Bxd5 Qxd5 c4 and he's winning material.
+[14:04:41] genturgidson: Bf7 was always part of the plan if needed. I'm not sure what Qb3 was all about. If Nce5 Nxe5 Qd6 maybe.
+[14:16:25] genturgidson: I thought I had some counterplay, but forgot I am just hanging that f pawn to the rook that perfectly defends and attacked everythi
+[14:21:00] cham: i don't get why glubbo did that
+[14:21:16] genturgidson: I'm not sure what that was from my opponent...
+[14:21:31] genturgidson: He needed d4 or simply Rxf5.
+[14:22:17] genturgidson: Damn... really sorry about that. I totally thought you'd find d4 or Rxf5 which I think were great.
+[14:22:32] glbert: i looked at both of those moves.
+[14:22:32] genturgidson: I was trying to trick you into playing g3 and it somehow worked.
+[14:22:47] glbert: i quite simply and stupidly missed that the g3 square was not defended.
+[14:23:03] genturgidson: You were otherwise totally outplaying me the whole game I thought.
+[14:23:18] glbert: well, that happens.
+[14:23:18] genturgidson: Rxf5 would have been absolutely savage. Attacks my bishop with another piece, defends f2 from my queen + bishop attack. Just absolute GG.
+[14:23:33] genturgidson: I was already looking at my response, probably Nf6 and play a futile defence.
+[14:25:37] glbert: i was way too focussed on the h3 pawn hanging after g3.
+[14:27:54] genturgidson: Your intention was to bait me into taking h3 for something?
+[14:29:10] glbert: no, i did not think you would.
+[14:29:41] glbert: but if you get into my head for a minute and pretend like you cannot take on g3, it's really terrible for black.
+[14:29:56] glbert: taking on h3 will lead to nothing i don't think.
+[14:30:11] genturgidson: Yeah that makes sense, I certainly would not have the time to go pawn hunting. Winning that h3 pawn would have lead to nothing really.
+[14:30:26] glbert: but maybe i amwrong even there, sf thinks that is fine for black.
+[14:30:41] genturgidson: I guess because g3 is still hanging.
+[14:30:57] glbert: yeah, of course. :facepalm:
+[14:30:57] genturgidson: But in your scenario where g3 isn't hanging, yeah - absolutely not interested in h3 pawn.
+[14:31:27] glbert: right. so i thought you would likely have to go back somewhere with the Q, but the N is hanging.
+[14:31:42] glbert: so i thought most likely was Qf6 to attack the R.
+[14:31:57] glbert: which i can easily defend with something like Nf3.
+[14:32:13] glbert: and the N on d5 will still be hanging.
+[14:32:28] glbert: but yeah, none of that makes any sense whatsoever, with g3 hanging.
+[14:33:14] genturgidson: Which is why Qh4 was utter desperation, if g3 worked it was game over on the spot just like Rxf5 or d4
+[14:33:44] glbert: yeah.
+[14:33:44] glbert: honestly, my mistake there was not simply looking for the safest option.
+[14:33:59] glbert: which probably was d4.
+[14:33:59] genturgidson: But for that minor detail of the f2 pawn pin. Anyway, GG, thanks for the game and sorry about that.
+[14:34:14] glbert: no need to be sorry.
+[14:34:14] glbert: i think Qh4 was a very good attept.
+[14:34:30] glbert: attempt.
