@@ -1,0 +1,122 @@
+Lichess game chat log
+Game      : https://lichess.org/YN7p6XzV
+White     : ztraynor
+Black     : lou-e
+Time      : 45+45
+Captured  : 2026-07-16 20:36:56 UTC
+Game ended : 2026-07-16 19:16:52 UTC
+Messages  : 112
+────────────────────────────────────────────────────────────
+
+[17:01:23] mennonite: Go Lou-E!
+[17:01:54] lou-e: Hi to spectators / teammates, let's gooooo
+[17:02:09] lou-e: 1. d4 is a bit of a surprise. Maybe I'll get a London? I know he used to play that
+[17:02:40] lou-e: Guess not. Just glad I didn't get the Bird
+[17:02:56] mrscribbles: Go louseph. Sorry ztraynor :)
+[17:04:59] mennonite: The Bird is not the word
+[17:12:21] lou-e: 8. c4 is interesting. I'm tempted by 8...dxc4 but I also thought Be6 would be a decent move. 8...d4 I'm not as keen on because of 9. e3
+[17:14:25] lou-e: I can see some issues with dxc4. The intermezzi Bxc6+ and Qxd8+ have to be calculated
+[17:14:56] mennonite: dxc4 apparently scores well in the Lichess database but hasn't been played in the Masters database
+[17:15:57] mennonite: my initial instinct based on looking at it for a couple minutes and no more is that it's likely fine.
+[17:16:42] ysgwydd: (8.c4) dxc4, Be6, and d4 are all fine I think
+[17:17:28] lou-e: It does look cappable though, no?
+[17:18:29] ysgwydd: (8...dxc4) 9.Bxc6 looks good for black, white would want to keep that bishop
+[17:21:17] ysgwydd: (9.Qxd8+) Can black keep the pawn? Probably not long term
+[17:23:34] lou-e: 9...Bxd8 isn't Nd4 potentially going to be a thing fairly soon?
+[17:26:22] lou-e: if 11. Be3 then Ng4 looks good. If 11. Ne4 then surely Nd4?
+[17:27:54] lou-e: 11...Nd4 12. Nxf6 gxf6 13. Be4 f5!
+[17:29:41] ysgwydd: (11...Nd4) Also 12...Bxf6, or 13...Nxe2+
+[17:30:27] lou-e: Ah yes, ok that does somewhat solve the problem for White
+[17:31:58] ysgwydd: (12.Nbc3) Rb8 maybe
+[17:32:44] lou-e: I'm thinking Nxe4 Nxe4 f5 Nc3 e4 maybe
+[17:32:44] lou-e: Or should I just find a way to castle
+[17:33:46] ysgwydd: (12.Nbc3) Nxe4 Nxe4 Nxe2+ Kh1 f5 Nce Nxc3
+[17:33:46] lou-e: Oh well actually Nxe4 can't be met with Nxe4 because Nxe3+
+[17:42:26] ysgwydd: (13...Bf5) Bxb7?
+[17:42:42] ztraynor: surely that's a trap on b7 right?
+[17:46:01] lou-e: Yeah 11...Nd4 was probably a bit ambitious. Maybe I had something a bit more methodical there
+[17:46:31] lou-e: Still I think I'm okay here. Might lose the pawn eventually but my position is basically fine
+[17:46:47] ztraynor: Nope, don't see it, it'll be a trade for e2 at worst and my rooks look good after I think
+[17:48:50] ysgwydd: (14.Bxb7) Rb8 Bg2 Nc2 Rb1 and it's a bit awkward for white still
+[17:50:21] ysgwydd: (15.Be4) Now e2 falls
+[17:50:36] ysgwydd: (15.Be4) And b2?
+[17:50:36] lou-e: So is it 15...Nxe2+ directly here, or 15...Bxe4 first?
+[17:51:22] ysgwydd: (15.Be4) Nxe2+ might be stronger
+[17:55:41] ysgwydd: (17.Kg2) I think it's best to not take on c1 and b2 as Rc1 gives counterplay against a7 pawn
+[17:55:41] lou-e: Now the question is, after 17...Nxc1 Rfxc1 Rxb2 Rxc4, does White get too much activity?
+[17:55:56] lou-e: Maybe I actually quite like this knight
+[17:56:42] lou-e: If I don't take on c1, Re1 is coming and maybe that'll be annoying
+[17:57:12] lou-e: Ah maybe not actually after Nd4
+[17:57:43] ysgwydd: (17.Kg2) Just castle
+[17:57:43] lou-e: So who's to say I shouldn't just castle?
+[17:59:30] lou-e: I guess Be3 might force me to trade it off anyway somehow
+[17:59:45] lou-e: Hmm no White probably doesn't want that
+[18:02:32] ysgwydd: (18.Re1) Now black can protect a7 after Nxc1 Rexc1 Rxb2 Rxc4
+[18:04:34] lou-e: Considered Nxc1 again there but I don't gain any material and White's rooks just seem active there
+[18:05:05] lou-e: Whatever White plays now I can go Nc2 if I want next move
+[18:07:37] ysgwydd: (19.Rb1) ...f5 Nc3 Bb4
+[18:08:23] lou-e: Considered Bb4 but I like my bishop where it is. White's knight can't do much with him knocking around
+[18:08:39] lou-e: If the knight moves then sure
+[18:09:24] nyanners: eventful
+[18:10:10] nyanners: i know black should play 8..d4. but i dont think white responded correctly
+[18:10:56] nyanners: black has retained the advantage thingy
+[18:10:56] ysgwydd: (20.Be3) 8.dxc4 felt good to me and easier to play
+[18:11:11] nyanners: i think white just recovers with Nd2 Na3 and black plays c3 with a small edge
+[18:11:11] ysgwydd: (20.Be3) I like what black has done except Bf5
+[18:11:41] nyanners: like, that sounds good, but d4 is even better by some decent margin
+[18:11:41] ysgwydd: (20.Be3) Yeah, the pawn is probably lost with optimal play
+[18:12:12] nyanners: i like it all. Bf5 is a bit concrete but at least in the game it worked out
+[18:12:27] ysgwydd: (20...Nc2) Lou-E's seconds missed 8.c4
+[18:12:57] ysgwydd: (20...Nc2) 15.Bg2 though and yes white is a bit awkward but better than current position
+[18:13:59] ztraynor: oh 22...Rd3 is good
+[18:13:59] nyanners: some weird lines there
+[18:15:00] nyanners: on both 15 Bg2 and 22..Rd3 here XD
+[18:15:16] ysgwydd: (22...Rd3) True
+[18:15:31] nyanners: like on 15 Bg2 there would also be some chance this pin on the b-file becomes relevant
+[18:15:31] nyanners: just like now :o
+[18:16:17] nyanners: say, the reflex move is Re2. then c3 does not lose material for white but does it actually matter
+[18:16:17] nyanners: *for black
+[18:16:17] ysgwydd: (22...Rd3) Maybe 10.Nc5 was the mistake and Nbd2 was better
+[18:16:32] nyanners: yea i think so
+[18:17:03] lou-e: I have a feeling this trade is forced? Because if rook retreats, f5 and then what?
+[18:17:33] lou-e: I guess you could play Rf3...
+[18:18:19] lou-e: Oh also Re2 would defend the d2 square. Probs still better for me tho after Rbd8
+[18:18:34] lou-e: ok fine there's lots of moves
+[18:18:49] ztraynor: don't really love this board for NvB endgame
+[18:19:35] nyanners: Kf3 goes in the its good if its not bad category
+[18:19:35] nyanners: but i think its bad
+[18:26:43] ztraynor: idk if allowing 2 pawns for the piece was the most efficient route for Black here
+[18:27:44] ztraynor: and frankly that looks more holdable than Ke2
+[18:29:15] ztraynor: potentially notably, that bishop is the wrong colour for an h-pawn
+[18:30:33] lou-e: 26. Nxe4 damn really?
+[18:32:19] lou-e: Yeah I guess I see the logic. I think I do get a lot of activity here though right?
+[18:37:55] nyanners: well its just a full piece. this is very optimistic
+[18:38:26] nyanners: way too many pawns left here
+[18:43:32] lou-e: Spose I'll have to do something at some point
+[18:43:32] lou-e: Not sure what yet though
+[18:43:47] lou-e: Play h5 maybe. Bring king up. idk
+[18:47:51] ztraynor: a very significant problem here is that Black can just sack the bishop for the g3-pawn whilst forcing rooks off, and that should win
+[19:07:40] lou-e: Obviously I am making a bit of a meal of this. Endgames are boring so I don't study them, sue me
+[19:08:10] lou-e: Anyway I think the strat is to make my way over to the b5 pawn with the king and win it
+[19:15:05] mennonite: 53...Ra5 forces rooks off
+[19:15:35] lou-e: I guess we're still going!
+[19:16:36] mennonite: gg
+[19:16:36] lou-e: gg to my opponent
+[19:16:36] nyanners: gg
+[19:17:07] lou-e: v interesting middlegame after c4
+[19:17:38] ztraynor: I'm glad the engine actually likes Nxe4 and that I was just hosed beforehand
+[19:18:08] ztraynor: Yeah I didn't realize how bad my knight would be and I think I misplayed the untangling
+[19:18:38] ztraynor: Probably should have just traded off the g3 bishop first, which was original plan
+[19:18:54] lou-e: Yeah I think I can just plonk a pawn on d2 if you don't sack the knight
+[19:18:54] nyanners: Ke2 seems less practically lost than Nxe4 to me
+[19:19:24] nyanners: though of course then you have to blame something earlier
+[19:19:24] ztraynor: I had the reverse feeling, nyanners
+[19:19:55] ztraynor: which is wrong now that I see how good Black's rook was, but that was the belief at the time
+[19:20:10] nyanners: yeah i mean, in a way, it doesnt matter. have to find the earlier improvements
+[19:20:10] lou-e: I thought cxd3+ Ke1 Bf6 there and I just don't see what White does. Nd5 Bd4
+[19:20:25] nyanners: Bf6 is good yes
+[19:20:40] lou-e: Just going to have a quick scan of the chat
+[19:25:46] lou-e: Aaand we're back
+[19:26:16] lou-e: Yeah I felt like I had an edge throughout the game but White did pose some questions in the middlegame
+[19:27:02] lou-e: Not playing 20. Nd2 was the big error from a practical standpoint I think
+[19:27:47] lou-e: 20. Be3 gives Black an initiative that isn't really going away with f5 -> e4 etc
