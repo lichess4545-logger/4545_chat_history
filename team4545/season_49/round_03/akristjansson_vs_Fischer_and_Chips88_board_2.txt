@@ -1,0 +1,168 @@
+Lichess game chat log
+Game      : https://lichess.org/CvSCstGr
+White     : akristjansson
+Black     : fischer_and_chips88
+Time      : 45+45
+Captured  : 2026-07-16 02:19:26 UTC
+Game ended : 2026-07-16 00:59:23 UTC
+Messages  : 158
+────────────────────────────────────────────────────────────
+
+[23:10:22] akristjansson: man I really prepped the Alekhine for nothing xD
+[23:10:22] akristjansson: 4... Nf6 this move is not so accurate here
+[23:13:40] akristjansson: 8... c5, this is like a mainline Winawer with the kingside knights having been exchanged. Black has spent one more tempo than White
+[23:14:26] akristjansson: with the exchanges however. Also, there is no ...Ne7 in response to Qg4 saccing the pawn but getting in ...Rg8
+[23:15:27] akristjansson: 9... 0-0 would lose the exchange after 10. Bh6. Black can play ...Kf8 or ...g6. Kf8 is more standard in the mainline winawer
+[23:17:29] berndwind: Aaaah two awesome humans. Go chess!
+[23:18:46] berndwind: This already feels nice for white because of exactly that reason, Alex
+[23:19:16] fischer_and_chips88: hey again Berndwind!
+[23:19:31] fischer_and_chips88: decided to try a French
+[23:21:03] fischer_and_chips88: 9 Kf8 this is still some theory I think
+[23:21:18] fischer_and_chips88: Qc7 and there are big problems for white in the centre and c3
+[23:21:49] fischer_and_chips88: h4 this doesn't scare me
+[23:22:04] akristjansson: 10. Bd3 also came into consideration, the idea with 10. h4 is to protect c3 by Rh3 while also threatening Rg3
+[23:24:21] fischer_and_chips88: Rh3 ohh that's the idea
+[23:24:36] fischer_and_chips88: that's cool
+[23:24:36] fischer_and_chips88: defends c3 too
+[23:26:23] banshee3333: Good luck Fischer_and_Chips!
+[23:26:38] fischer_and_chips88: can't I still take on d4 then Qxc2
+[23:26:38] fischer_and_chips88: if Qxd4 Nc6
+[23:30:43] fischer_and_chips88: it is risky but my king seems surprisingly safe
+[23:30:58] akristjansson: 12... Qxc2 I missed the queen trade with Qe4+/Qf5
+[23:32:45] fischer_and_chips88: white's king is also unsafe. very unlikely white will castle at any point
+[23:33:31] berndwind: Mr Fisch rapidly becoming a fave to watch. Fascinating games guaranteed!
+[23:37:35] fischer_and_chips88: white having a big think here
+[23:38:05] fischer_and_chips88: one idea is to just calmly bring the queen back to g6 to try and trade queens and be up a pawn
+[23:38:05] fischer_and_chips88: shallow and pedantic way to win
+[23:38:05] fischer_and_chips88: also white doesn't have to trade
+[23:38:21] fischer_and_chips88: Qe4 isn't as good since white would almost certainly get the pawn back
+[23:39:06] fischer_and_chips88: ok we have a move, Be2. White maybe wants to play Kf1
+[23:41:54] fischer_and_chips88: Nc6 looks pretty reasonable here, just get the knight out
+[23:42:09] fischer_and_chips88: so clever how the rook defends c3, really cool idea
+[23:42:40] fischer_and_chips88: queen just chilling on c2
+[23:43:56] banshee3333: I'm a little worried for Black after something like h5 and Rg3
+[23:45:43] banshee3333: Maybe h5 Ne7 is okay, so that Rg3 can be met with Rg8
+[23:47:30] berndwind: Yeah h5 and Rg3 I was looking at too. Looks a little scary but ok with Rg8.
+[23:47:45] berndwind: Still I’d be on edge here as black
+[23:48:15] banshee3333: I think Black needs something like ...Ne7 before ...Rg8 though otherwise White has Bh6
+[23:49:01] berndwind: Here Qg6 looks very tempting
+[23:49:32] banshee3333: Yeah this I thought was okay since Black retains the option to put things on g6
+[23:49:47] banshee3333: (14. Rg3)
+[23:50:17] fischer_and_chips88: Rg3. I think it has to be Qg6 here. g6 or Rg8 are too weakening.
+[23:50:48] fischer_and_chips88: Qg6 and I would be very happy for the trade, but white would probably play Qf3
+[23:51:03] fischer_and_chips88: then Qf5
+[23:52:04] fischer_and_chips88: if he traded then, then after fx my bishop would probably become a tall pawn on e6
+[23:52:35] fischer_and_chips88: white has a good game with the 2 Bs on the open board will be tough to prove I'm up a pawn
+[23:53:05] fischer_and_chips88: don't see another good option though, this should be decent though I doubt it is bad
+[23:54:21] fischer_and_chips88: playing spot the difference here, but it;s the same thing
+[23:56:39] fischer_and_chips88: hm trade denied, good to know white isn't confident about the endgame I mentioned
+[23:57:10] fischer_and_chips88: either that or they just want to do more poking around on the kingside before
+[23:58:26] akristjansson: 16... Qe4 17. Rg4 Qf5 18. Rg5 is a perpetual
+[00:00:28] fischer_and_chips88: considering 16 f6 here but it is a little scary
+[00:01:13] fischer_and_chips88: f6 Rf3 Qg6 exf6 gxf6 Qh6 Qh6 Bh6 Kf7
+[00:01:28] fischer_and_chips88: queens are off, still up a pawn, French bishop could open up
+[00:01:59] fischer_and_chips88: Bh5 in that line somewhere possibly
+[00:02:45] fischer_and_chips88: Qh6 not right white doesn't want to trade and let me be safe
+[00:04:16] fischer_and_chips88: there's another move order too, f6 exf6 gxf6 Qh6 then I have to play Ke7. Bg5 Kd7...
+[00:04:31] fischer_and_chips88: that's bad
+[00:05:17] fischer_and_chips88: just off intuition too, f6 seems wrong with all the open lines white gets around the king
+[00:05:47] akristjansson: 16... h6 makes sense to take away the g5 square
+[00:06:18] fischer_and_chips88: Bd3 nearly traps my queen too
+[00:07:04] fischer_and_chips88: struggling to find a move here
+[00:07:34] fischer_and_chips88: Bd7 doesn't really do anything, if anything it just lets him target b7
+[00:08:50] fischer_and_chips88: Qe4 maybe
+[00:09:21] fischer_and_chips88: Rg4 then.
+[00:09:21] fischer_and_chips88: what is this
+[00:10:06] inter-temporal: (16.Qd2) go akristjansson! (my fantasy board 2)
+[00:10:52] fischer_and_chips88: Qe4 Qg4 Qf5 and the rook is just as good on the 4th rank as it was on the 3rd
+[00:11:07] fischer_and_chips88: I want to play h5 but Bd3 traps the queen
+[00:11:22] fischer_and_chips88: I need to move
+[00:13:40] banshee3333: 16...h6 I thought might have been the way to play for a win, using the weakness of h4 to buy time to evacuate the queen if Bd3 maybe
+[00:13:55] banshee3333: Haven't fully calculated it though
+[00:14:25] fischer_and_chips88: didn't see anything better than this. when my queen was on c2 I liked my position but now the queen feels offside, if you will, and I do
+[00:14:25] fischer_and_chips88: n't like it so much
+[00:19:15] akristjansson: 18. a4 intending 19. Rxg7 Kxg7 20. Qh6+ Kg8 21. Ra3 is interesting
+[00:21:17] fischer_and_chips88: in hindsight I think this manoeuvre was correct
+[00:21:32] akristjansson: 18. Qd1 intending 19. Bd3 Qh5, 18. Rf4 Qg6 19. Kf1 intending 20. h5
+[00:21:32] fischer_and_chips88: Qe4 tickle the rook Qf5 again
+[00:21:32] fischer_and_chips88: because now I can play h5
+[00:22:18] fischer_and_chips88: if he repeats we may get a very anticlimactic draw.
+[00:22:18] fischer_and_chips88: I think white has more to play for here though
+[00:25:05] fischer_and_chips88: Kf1 good move
+[00:25:20] fischer_and_chips88: idea is after h5 Rf4 Qg6 the g pawn is defended
+[00:26:52] akristjansson: 18. Kf1 this does give Black the extra possibility of 18... h6/h5 19. Rf4 Qh7 compared to 18. Rf4 first, but Black has to see pretty deep
+[00:26:52] akristjansson: for this
+[00:27:37] fischer_and_chips88: I think I need to play h5 anyway to let my queen run away
+[00:30:10] fischer_and_chips88: Bd3 Qh6
+[00:32:27] fischer_and_chips88: Qd1 setting up the fossil
+[00:32:57] fischer_and_chips88: I think I have to play g5
+[00:33:58] kurdd: "so exciting watching a chess game" says my wife with sarcasm ... actually, yes, what a great game to observe!  commentary is outstanding
+[00:36:47] fischer_and_chips88: didn't see Rf6
+[00:37:17] fischer_and_chips88: I don't normally play the French but this has been great fun
+[00:37:32] fischer_and_chips88: I think opponent had Bg6 there
+[00:39:04] fischer_and_chips88: I say great fun, though I am almost certainly worse here
+[00:40:50] fischer_and_chips88: Ke8 to stop Bg6 but now I can't take on d4
+[00:41:51] fischer_and_chips88: well I'll try bring the queen back to defend.
+[00:45:24] fischer_and_chips88: Rxh5 Qxh5 Qd3 I thought
+[00:46:10] fischer_and_chips88: I get the rook with check no matter what and should have time to defend f7 with at least Nd8
+[00:46:56] fischer_and_chips88: I think the bishop should have gone the other way like b5 rather than e2 h5
+[00:47:42] akristjansson: not the cleanest conversion
+[00:47:57] fischer_and_chips88: I don't think I have anything other than Nd8
+[00:48:12] fischer_and_chips88: it was a nice tactic but this could still be losing even
+[00:52:01] fischer_and_chips88: Qh8 Kd7 Rf7 Nf7 Qd8 Kc6 Qe8 Kb6 Bd8 Kh6 Qh4
+[00:52:16] fischer_and_chips88: ok nevermind lol, I have no idea if that is gibberish
+[00:53:02] banshee3333: ^ There's Nxd8 after Qd8 in that line I think
+[00:54:03] banshee3333: Rf3 was what I was looking at
+[00:54:03] fischer_and_chips88: this works too idea Qh8
+[00:54:18] fischer_and_chips88: I think Kd7 only move
+[00:54:18] banshee3333: White threatens Qxf7 and Qh8+
+[00:54:33] banshee3333: Oop not Qxf7 lol
+[00:55:19] fischer_and_chips88: he can probably sac the rook idk
+[00:55:34] fischer_and_chips88: he has to stop me from bringing the queen back to g6 and defending
+[00:56:35] banshee3333: What about just Qh8 here?
+[00:56:50] banshee3333: YUeah that
+[00:57:21] fischer_and_chips88: here I thought Qb6
+[00:58:22] banshee3333: Bxd8 Qxd8 Rxf7+
+[00:58:22] fischer_and_chips88: oh
+[00:59:23] banshee3333: gg
+[00:59:54] fischer_and_chips88: so it was losing after the tactic
+[00:59:54] fischer_and_chips88: gg
+[01:00:55] akristjansson: well played
+[01:01:10] fischer_and_chips88: you too
+[01:01:10] fischer_and_chips88: fun game
+[01:01:25] akristjansson: Im not looking at engine yet but I was quite worried about 13. Qe4/Qf5
+[01:01:41] akristjansson: Yeah I prepped a lot into the alekhine lol
+[01:01:56] akristjansson: then we got this
+[01:05:14] fischer_and_chips88: yeah I considered an Alekhine
+[01:05:29] fischer_and_chips88: I play that sometimes against e4
+[01:05:29] fischer_and_chips88: never the french
+[01:06:00] fischer_and_chips88: I went to an otb tourney and this dude smashed me in this Winawer French so I wanted to give it a try mysefl
+[01:06:15] fischer_and_chips88: I think I should have played Qe4 instead of Qf5
+[01:06:31] fischer_and_chips88: I just didn't like dxe4 the pawns are bad and the bishop is bad
+[01:06:31] fischer_and_chips88: better than what I got though
+[01:09:03] akristjansson: yeah its quite tricky
+[01:09:18] fischer_and_chips88: really cool Rh3 idea by the way, had never seen it
+[01:09:33] fischer_and_chips88: I should have prepped more before the game, I only decided to play the French on a whim
+[01:09:33] akristjansson: thanks! I think prob Bd3 was better
+[01:09:33] akristjansson: did you know I played the Nge2 line?
+[01:09:49] akristjansson: Nf6 is a bit dubious from my recollection
+[01:09:49] fischer_and_chips88: Qc3 though
+[01:10:04] fischer_and_chips88: no I didn't know you played Nge2
+[01:10:04] akristjansson: oh yeah, instead of h4 i meant
+[01:10:04] akristjansson: ah okay
+[01:10:34] akristjansson: ive been playing it for like a year but havent faced it much online
+[01:10:34] fischer_and_chips88: Bd3 first and the rook doesn't get out as fast, if ever
+[01:10:50] akristjansson: yeah
+[01:11:05] akristjansson: quite an interesting one, I need to check the opening more as well
+[01:11:35] fischer_and_chips88: I think my main problem was Nf6
+[01:11:51] fischer_and_chips88: I needed a knight on e7
+[01:12:06] akristjansson: Yeah that was my thought essentially
+[01:12:21] fischer_and_chips88: even 4 Ne7 looks pretty good
+[01:12:37] akristjansson: the mainline goes 4... dxc4 5. a3 Bxc3 5. Nxc3 Nc6
+[01:13:22] fischer_and_chips88: looks boring
+[01:13:38] fischer_and_chips88: *solid
+[01:14:23] akristjansson: lol its pretty funky, very different from normal french lines
+[01:15:39] fischer_and_chips88: I imagine both kings castle though and a fairly equal game
+[01:15:55] akristjansson: yeah its no mainline winawer
+[01:16:25] akristjansson: gotta run now, see ya around!
+[01:16:25] fischer_and_chips88: see ya, gg
