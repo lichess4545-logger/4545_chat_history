@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/zpvIud3t
+White     : blueside617
+Black     : cosmoaps
+Time      : 45+45
+Captured  : 2026-07-16 18:24:41 UTC
+Game ended : 2026-07-16 17:04:26 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[14:42:43] handknit: (2...d6) are we getting a hippo?
+[14:45:00] handknit: (4...g6) I think the hippo would normally have the knights on e7/d7, not f6. But I don't know how much hippo theory there is
+[14:48:48] handknit: (8.h3) Getting a very Pirc-y position, with the next question of how black plans to challenge the centre.
+[14:49:35] handknit: (8.h3) I usually preferred breaking with e5
+[14:49:52] handknit: (8.h3) I guess having played e6 and Nc6, c5 is less likely than usual
+[14:54:26] handknit: (10...Ne4) d5 feels like it sticks both of black's bishops, which I don't like, but sacrificing the pawn on e4 like this does happen in...
+[14:54:26] handknit: (10...Ne4) other openings
+[14:54:56] handknit: (10...Ne4) Though I feel like white's c pawn is usually traded off, which lets black totally control the d5 square
+[14:57:15] handknit: (11.c3) This feels like a minor reprieve for black and I wanna play f5. However...
+[14:57:30] handknit: (11...f6) I'm a bit worried about some kind of Ne1-f3, trapping the knight
+[14:58:00] handknit: (11...f6) This probably does the job too
+[15:04:37] handknit: (11...f6) Thinking on this, feels like black still has some meaningful problems to solve.
+[15:04:53] handknit: (11...f6) Specifically, the Bc8/Re8 need to know where they're going.
+[15:05:23] handknit: (11...f6) Maybe there's an e5 push in the works that solves both, though then the d5 pawn looks a bit rickety
+[15:05:38] handknit: (11...f6) The latest instalment of "can you tell hk doesn't play the french?"
+[15:12:46] handknit: (11...f6) I feel like white is looking for a concrete solution when the proper approach is just to take on f6 and say "my position is better
+[15:19:23] handknit: (13.Nxe5) Bd7 the natural move here. Bxe5 feels like it ends with the knight getting trapped
+[15:27:47] handknit: (15.Bd3) Maybe Nd6-Nf5 is a more interesting path for the knight than Nf6
+[15:28:03] handknit: (15...e5) Nd6-Nf7 to leverage e5, even
+[15:28:34] handknit: (15...e5) I don't like leaving the double iso c pawns, even if black gets the bishop pair out of it
+[15:31:37] handknit: (19.Rb1) I like the pawn on e4 but it feels like white's bishops are quite a bit better than black's
+[15:34:40] handknit: (21...Qe7) Qa6 and black's in trouble
+[15:35:56] handknit: (21...Qe7) 22.Qa6 Ra8 23.Bf4 Qd8 24.Qb7
+[15:39:44] handknit: (23.c4) c5 is an interesting idea here
+[15:40:15] handknit: (23.c4) 23...c5 24.dxc5 d4 is the central idea
+[15:41:01] handknit: (23...c5) black is going to have to balance the central pawns carefully but he suddenly has very good movement there
+[15:45:50] blueside617: chess is so hard
+[15:46:51] handknit: (25...Rf8) Feels like black's straining now. Lots of things hanging.
+[15:49:54] handknit: (26.Qd2) spitball: 26...c5 27.Bxg7 Kxg7 28.Qxd5 e3
+[15:50:39] handknit: (26.Qd2) Feels like white having Qd4+ as a resource keeps that under control
+[15:54:29] handknit: (26...Bf5) 27.Bxg7 Kxg7 28.Qxd5 Rd8 is some play but white can insert 28.Qd4+ maybe
+[15:55:45] handknit: (26...Bf5) 27.Bxg7 Kxg7 28.Qd4+ Kh6 29.g4 seems like it'll collect both central pawns
+[15:58:03] handknit: (27.Be3) This seems like it allows d4 and then black might be winning
+[15:58:48] handknit: (27.Be3) 27...d4 28.Bxd4 Rd8 29.Bc5 Rxd2 30.Bxe7 Rxc2
+[15:59:19] handknit: (27.Be3) 27...d4 28.Bxd4 e3 might win too
+[16:13:18] mixxanber: looks lik white is winning all central pawns now
+[16:17:08] blueside617: worried I get killed by this lbs and pawn running but I think I have kf2 just barely in time?
+[16:18:09] blueside617: still so scary
+[16:18:39] blueside617: like actually this dsb is also still  going to kill me somehow
+[16:27:04] handknit: (33.Be3) Taking on c1 for the OCB endgame is tempting
+[16:27:49] handknit: (33.Be3) It's hard to evaluate but I think black's king gets up in time to hold
+[16:33:25] handknit: (33...Re2) Alright, here we go
+[16:33:41] handknit: (33...Re2) Clock situation makes this very tough on white
+[16:34:41] handknit: (34.Rd1) So Be6. What then?
+[16:44:06] handknit: (38...Bb4) Be1+-Bg3
+[16:44:36] handknit: (38...Bb4) Black might even be winning that
+[16:44:51] mixxanber: Re5 for white here?
+[16:45:07] mixxanber: can take on e4 to prevent #
+[16:45:22] handknit: (39.Rd1) Re5 was probably best because I think white's king can get to d5 in the OCB endgame
+[16:45:52] handknit: (39.Rd1) here black probably wants to begin brining the king forward
+[16:46:07] handknit: (39...Bc5) because your main draw condition here is to trade rooks and get your king to d4
+[16:48:55] mixxanber: uh oh
+[16:50:42] handknit: (44.Kg2) fun times at the fun times corral
+[16:51:12] addead: fun times (:
+[16:51:12] handknit: (45...Rxc2) honestly if the e-pawn weren't so strong white would still have some gas here
+[16:54:46] handknit: (50.Kg2) no need to get fancy here
+[16:55:17] addead: I would simplify and then block king path and easy win ,
+[16:55:17] addead: Yes
+[16:55:48] handknit: (52...Re7) you don't even need to block the king, just hoover the pawns
+[16:57:50] addead: it could have been made even simple
+[16:58:35] handknit: (60...h6) we got there, though. Black will get Kc6 next move and begin taking pawns with the rook
+[16:59:06] addead: here it is important to move Black King to c6
+[17:01:38] handknit: (64.Kb6) The rook will take the h pawn then sacrifice itself for the a pawn
+[17:02:09] addead: this also looks good
