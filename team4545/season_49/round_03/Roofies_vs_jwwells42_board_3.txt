@@ -1,0 +1,30 @@
+Lichess game chat log
+Game      : https://lichess.org/ca34l23A
+White     : roofies
+Black     : jwwells42
+Time      : 45+45
+Captured  : 2026-07-16 03:01:22 UTC
+Game ended : 2026-07-16 01:41:18 UTC
+Messages  : 20
+────────────────────────────────────────────────────────────
+
+[00:00:32] inter-temporal: (23...axb5) go jw!
+[00:07:39] inter-temporal: (24...Nce4) an extra pawn for the exchange... perhaps Nd6 is an effective blockader?
+[00:52:43] nyanners: taking black for sure
+[00:52:58] irongalaxy: go wells!
+[01:02:22] inter-temporal: (41.Kg2) black has had to fight back
+[01:30:06] inter-temporal: (46.Ra8) "Always threaten mate in 1"--
+[01:30:21] mennonite: that goes both ways
+[01:30:36] mennonite: oh not quite
+[01:30:51] inter-temporal: (46.Ra8) "Never counter mate in 1 with mate in 1"--Capablanca
+[01:31:22] inter-temporal: (46.Ra8) "If you see mate in 1, look for a better move"--Lasker
+[01:34:10] nyanners: black is fine but i dont see the game end
+[01:35:11] inter-temporal: (48.Kh3) the dsb is double pinned
+[01:36:59] inter-temporal: (50.Kf4) should be okay with Qd6
+[01:40:48] inter-temporal: (55...Qf2+) gg
+[01:42:04] jwwells42: very nearly played Qc4-Qh4
+[01:44:36] jwwells42: had not understood the situation on 16...c4 17.e5 so got a bit lucky that the exsac was fine
+[01:44:52] jwwells42: abstractly giving r for dsb is often ok but it would have been nice to evaluate that ahead of time
+[01:45:22] jwwells42: & have realized beforehand that Nx hangs Nf6 etc
+[01:45:37] jwwells42: but it is pleasant to have the benoni queenside pawns decide
+[01:48:55] nyanners: wp :o
