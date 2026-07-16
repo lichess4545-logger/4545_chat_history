@@ -1,0 +1,44 @@
+Lichess game chat log
+Game      : https://lichess.org/bpoMg96X
+White     : rufelos
+Black     : marketmike
+Time      : 45+45
+Captured  : 2026-07-16 23:09:22 UTC
+Game ended : 2026-07-16 21:49:19 UTC
+Messages  : 34
+────────────────────────────────────────────────────────────
+
+[20:08:04] timothyha: (4.Nf3) Go, Rufelos!
+[20:25:07] timothyha: (11...O-O) time to strengthen d4 with Ne2 since Black hasn't grabbed it yet?
+[20:25:37] rolihlahla: or Be3?
+[20:25:53] timothyha: (11...O-O) you probably want Bb2 and swap DSBs later
+[20:25:53] timothyha: (11...O-O) Nf5 is coming
+[20:26:08] rolihlahla: ahh - ok
+[20:26:23] rolihlahla: that's why you beat me all the time  :-)
+[20:27:11] timothyha: (11...O-O) Nf5 was coming anyway, but b3 dxc4 just made d4 critical even faster
+[20:27:11] timothyha: (11...O-O) I think Rufelos missed that
+[20:27:42] timothyha: (11...O-O) right now everything is still fine with Ne2 and Bb2 and maybe Rb1
+[20:28:58] timothyha: (11...O-O) these two had an English game in the previous encounter, but a more closed structure
+[21:22:08] kborman: Go Mike!
+[21:34:34] timothyha: (28...Ne6) regrouping with Qf3 and Re1 should help I think
+[21:41:11] timothyha: (30...h3) why not Qf3 (wouldn't hang the rook behind)
+[21:41:42] timothyha: (30...h3) same tactical ideas would still work with Bxf7 when knight moves though
+[21:41:42] kborman: Well that stops Bx for now
+[21:41:42] timothyha: (30...h3) just slower
+[21:42:58] timothyha: (31.Qh4) slightly awkward to trade here
+[21:43:13] timothyha: (31.Qh4) still hoping for Bxf7 I guess
+[21:43:28] timothyha: (31...Rxd5) and now this blunder
+[21:43:28] timothyha: (31...Rxd5) Black wins
+[21:43:28] timothyha: (31...Rxd5) ah luckily cxd5
+[21:43:44] timothyha: (32.cxd5) White wins :-)
+[21:43:59] timothyha: (32.cxd5) a little bit of hope chess from both
+[21:44:14] timothyha: (33...Nf4) but winner is the next to last to blunder, so...
+[21:48:48] timothyha: (35...Nc3) d7 :-)
+[21:48:48] timothyha: gg
+[21:49:03] rolihlahla: gg!
+[21:49:49] rufelos: I was quite lost in the endgame... didn't know what was my plan
+[21:50:04] timothyha: 31. Qh4 is a solid draw for Black, White "lost the thread" there
+[21:51:05] rufelos: saw the boogieman with Qxa6, and went for Qb3
+[21:51:36] timothyha: 31. f4 from SF is quite interesting, but makes a lot of sense and Black queen can only retreat
+[21:52:07] rufelos: that's true
+[21:52:07] rufelos: completely missed f4
