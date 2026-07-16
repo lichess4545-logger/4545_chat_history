@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/lFMlsXDn
+White     : patchythepirate
+Black     : upgoerfive
+Time      : 45+45
+Captured  : 2026-07-16 23:36:58 UTC
+Game ended : 2026-07-16 22:16:53 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[19:31:58] joonaf: Go Up!
+[19:34:45] joonaf: ah, I love this as Black
+[19:35:31] joonaf: and hate as White when Black declines the SMG
+[19:36:17] joonaf: Oh, 9.Bxc6+ is a surprise
+[19:36:47] joonaf: but what was the reason it isn't good. If it isn't good
+[19:37:04] joonaf: Was there something with 10..Qd5 ?
+[19:37:34] joonaf: ..Ba6 stops castling
+[19:37:49] upgoerfive: was expecting Nxe5 Bd7 Nxd7 Qxd7 0-0
+[19:37:49] joonaf: me too
+[19:39:36] joonaf: ..Ba6+, Nxc6, Qd5
+[19:39:51] joonaf: not Ba6+, just Ba6
+[19:40:22] joonaf: But what does White do after ..Ba6?
+[19:41:40] joonaf: I think it looks really good for Black
+[19:43:42] joonaf: ..Ba6, Qf3 probably
+[19:44:27] joonaf: then ..Qd5
+[19:46:15] joonaf: ..Ba6, Qf3, Qd5, Nxc6, Qe6+, Be3, Bb7?
+[19:50:05] joonaf: yay, Ba6 on the board!
+[19:52:07] joonaf: now does Nxc6 happen too
+[19:53:08] joonaf: Nxc6, Qxf3, gxf3, Bb7, Ne5, f6, could also win the pawn back
+[19:53:39] joonaf: but does the other move win the knight
+[19:55:10] joonaf: Nxc6, Qe6+, Be3, Bb7, d5, Nxd5, Nd4
+[19:56:26] joonaf: oh right, this is a move too. I was too focused on the Nxc6
+[19:56:41] joonaf: now if 12..Qe6, then Qxc6+
+[19:57:12] joonaf: 12..Qxf3, Nxf3, material is even, but White still cannot castle
+[19:58:28] joonaf: without queens it's not so dangerous, but still looks nice
+[19:59:14] joonaf: now maybe e6 and then c5
+[20:00:45] joonaf: or just target the isolated d4-pawn with everything. Maybe this g6 and fianchetto is better
+[20:01:16] joonaf: hi matt!
+[20:01:16] matthewhuber: go UG5!
+[20:05:04] joonaf: is White planning to go ..Bg7, Be5?
+[20:08:53] matthewhuber: maybe. i thought 14. Ne5 was good
+[20:09:23] matthewhuber: but im out of practice so idk. Havent played in like a month
+[20:09:39] joonaf: oh yeah, maybe
+[20:10:09] joonaf: so ..e6 could've solved that. ..e6, Ne5, c5
+[20:10:09] joonaf: hi basilcandle!
+[20:11:25] matthewhuber: yeah joonaf i like your line. you trade weaknesses but opening the board should be good for the two bishops
+[20:20:51] basilcandle: Hi joonaf!
+[20:28:45] basilcandle: Go ugf
+[20:37:25] tristanbrown17: oh i never like this line i prefer Nf3
+[20:38:26] tristanbrown17: instead of taking back the pawn immediately
+[20:54:43] silkthewanderer: Go Patchy
+[21:28:49] silkthewanderer: Having one more tempo would make this a lot more holdable for White
+[21:30:05] silkthewanderer: a5 at least allows Rg3
+[21:30:35] silkthewanderer: Rd3 first doesnt look right to me
+[21:31:06] silkthewanderer: You want to break the kingside and if Black consolidates with Kf7 you never get that
+[21:59:05] somerapidplayer: go ug5!
+[22:02:24] somerapidplayer: should be draw?
+[22:04:56] somerapidplayer: a7
+[22:05:42] jcarmody: that's what I'd do
+[22:05:57] somerapidplayer: rb8 probably works too
+[22:06:12] stevenlongs: porque no los 54..Rxa4
+[22:08:29] genturgidson: Incredible draw hold
+[22:09:16] basilcandle: :)
+[22:14:05] genturgidson: try Rb7?
+[22:14:51] genturgidson: Idea Qb2
+[22:15:21] genturgidson: Both promote?
+[22:15:21] genturgidson: *Kb2
+[22:16:22] stevenlongs: gg!
+[22:16:52] jcarmody: gg
+[22:17:38] genturgidson: GG, Rb7 tricks would just be two queens anyway. Maybe might have been worth trying.
+[22:19:10] patchythepirate: gg
+[22:19:25] patchythepirate: thanks for tuning in
+[22:33:25] upgoerfive: Oh man 45...Rxf4+ and home free
