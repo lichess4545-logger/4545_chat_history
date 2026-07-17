@@ -1,0 +1,64 @@
+Lichess game chat log
+Game      : https://lichess.org/I2IwINZs
+White     : ascannerdarkly
+Black     : pepepibote
+Time      : 45+45
+Captured  : 2026-07-17 23:28:58 UTC
+Game ended : 2026-07-17 22:08:51 UTC
+Messages  : 54
+────────────────────────────────────────────────────────────
+
+[20:05:27] leverkuhn: seems like Scandi is not the main repertoire for pepe, but he's played it quite a bit
+[20:05:58] leverkuhn: we're surely still in Scanner's prep as he's played the extravagant 4.Bb5+ followed by 5.Be2!?, 'wasting' a tempo to force a knight capture
+[20:06:13] leverkuhn: now he's gained the tempo back favorably with 7.c4
+[20:08:15] leverkuhn: we're still following a previous pepe game; 8...g6 looks logical as 8...e6 might have run into some shenanigans with the e-file pin
+[20:09:31] pepepibote: Looks like a modern scandi, it seems i need a plan against those hanging pawns
+[20:09:46] pepepibote: Hey Leverkuhn, welcome ScothWhisky
+[20:10:02] leverkuhn: Hey pepe!
+[20:10:47] scotchwhisky: hello pepe
+[20:10:47] scotchwhisky: let's go scanner
+[20:12:34] leverkuhn: Should Black play for ...e6 and ...c5, or just sit tight with ...c6?
+[20:13:20] leverkuhn: Also, what is White's plan? Centralize everything and slam a knight on e5?
+[20:17:09] leverkuhn: If Black goes into turtle mode with ...c6 and ...e6, White could eventually play c4-c5 and give up the d5-square for the d6 outpost
+[20:18:56] leverkuhn: many questions, but unfortunately for pepe Scanner still has the answers from prep
+[20:27:19] leverkuhn: Nb5 something for Black to beware: 12...Re8?! 13.Nb5! for example and Black seems to be lost
+[20:30:07] leverkuhn: pepe's sense of danger did its job!
+[20:33:10] leverkuhn: White has the full setup, now it's going to get interesting. How does he crack Black's position?
+[20:36:28] leverkuhn: oh no, Black hung a pawn
+[20:40:01] leverkuhn: White could have considered the fancy 16.d5!? there
+[20:47:23] leverkuhn: wait what is Scanner doing?
+[20:47:38] leverkuhn: I don't see the tactic after 17...Qxc4
+[20:48:39] leverkuhn: 18.Ne4 he can just trade queens
+[20:48:55] pepepibote: (17... qxc) woah, this seems better for me, now d is isolated
+[20:49:56] leverkuhn: I guess after 18.Qxc4 Rxc4 19.Ne4 Rxc1 20.Nxf6+ Nxf6 21.Rxc1 White at least gets the c-file and should be okay
+[20:50:42] leverkuhn: Really unfortunate he didn't find 17.c5!, got too complacent with how smoothly the game was going
+[20:50:42] pepepibote: I was looking into 17. nd2 nh5 18. e4 nb6 ?
+[20:51:12] pepepibote: Hello Hesperian
+[20:51:28] pepepibote: welcome
+[20:53:45] pepepibote: AScannerDarkly Bi looks strong, my d6 seems really weak
+[20:54:00] pepepibote: (17)
+[21:04:56] pepepibote: I din't know how to play 19... rc6 20 ne5 nxe5, why let e5
+[21:14:22] leverkuhn: with this Ne4 timing, White has seemingly conceded the c-file
+[21:15:08] hesperian: Ne4 seems like a terrible move
+[21:15:08] leverkuhn: rook will be terribly misplaced on e4 after recapturing and Black is becoming a heavy favorite to win
+[21:15:23] hesperian: Exactly
+[21:16:09] leverkuhn: 19.Ne4! I think was strong as explained above, but this just doesn't work: c8 is protected
+[21:19:13] hesperian: Ah with lots of Nd6 forks coming
+[21:19:28] hesperian: Yeah quite the miss
+[21:20:14] hesperian: But even there after Rc1 black couldn't have been lost quite yet
+[21:21:15] hesperian: 19. Ne4 Rc1 Nf6 Nf6 Rc1 Ne5
+[21:21:31] hesperian: Nd5*
+[21:35:16] leverkuhn: oh Black's nowhere near lost, but neither is White!
+[21:37:34] leverkuhn: hard for White to create tricks here
+[21:37:49] leverkuhn: he'd like to move the knight, but 24...f5! will pick up a piece
+[21:38:19] leverkuhn: probably just has to play 24.Bg3, but 24...Rc2 will pick up the queenside and win
+[22:09:37] pepepibote: gf
+[22:10:38] pepepibote: dificult to convert, thanks for the comments Leverkuh
+[22:10:53] pepepibote: ill check them :>
+[22:11:08] pepepibote: and Hesperian too
+[22:11:23] pepepibote: cya
+[22:12:24] leverkuhn: gg
+[22:13:40] leverkuhn: one of the underrated difficulties in chess is switching modes from opening knowledge to actually thinking for yourself
+[22:14:11] leverkuhn: even when you know it's a danger, it's still easy to mess up
+[22:14:56] leverkuhn: helps a little to boot the brain up
+[22:15:57] leverkuhn: here Scanner's prep won him the game, but he played three more moves before switching to thinking mode, and everything was spoiled
