@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/pBiRdNW8
+White     : cowtone
+Black     : jg777
+Time      : 45+45
+Captured  : 2026-07-17 12:27:12 UTC
+Game ended : 2026-07-17 11:07:10 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[08:58:30] r0b-w: (1.c5) Go, jg777!
+[09:00:02] joonaf: go cowtone!
+[09:05:53] jg777: Starting out your Friday playing chess is a good way to begin the day I'd say.
+[09:13:32] simonwashere: Go cowtone!
+[09:15:49] jg777: While Bh6 isn't an immediate threat with Nd4 still on the board, Nxc6 then Bh6 could be and I don't want to trade the DSB's so I want Bh8
+[09:16:20] pineapplechiffoncake: Go chess!
+[09:25:28] jg777: I am trying to make my pieces make sense here. Nf6 lack squares, Not sure Rfe1 was necessary, maybe g4-f4 was a way forward for cowtone.
+[09:32:36] jg777: I think I didn't put my pieces on the right squares here, this feels like I misplayed it, and now I have to make this work somehow.
+[09:40:30] jg777: Yeah I don't like my piece set up, this is wrong. Re8 should be on c8, but there isn't a good way I can see to get the queen off to do it
+[09:41:16] jg777: This tells me I put my pieces on the wrong squares early on here, and now I have a difficult position to find an active idea to play for.
+[09:42:17] jg777: Right now I am trying to bait b4 ideas, trying to land a knight on c4, and possibly pressure on C file.
+[09:48:23] jg777: I am still not happy Nf6 doesn't have a retreat square yet. Maybe h5 was worth a moment to consider  after Bf1.
+[10:05:09] jg777: Well at least the clocks are a bit rebalanced now. Not sure if I am making any sense with my moves this game though, but playing on. :)
+[10:14:48] jg777: I need to look at that position after the game, I had two directions to go and I couldn't figure out which was best.
+[10:16:04] jg777: That felt like a position where I could easily go wrong (and maybe I did, we'll see). I had two directions I was looking at there.
+[10:24:12] jg777: Well I have a pawn with Nxa3, right?
+[10:30:02] jg777: Looking at Nxc2 here, is that to greedy?
+[10:31:03] jg777: Yeah, it doesn't quite work out after b4 Bxa6
+[10:33:20] jg777: wonder if b4 now though, as Bxa6 bxc3 Qxd6 Nxc2? What do I have going on there, just a mess, or more?
+[10:35:37] jg777: Looks messy, and I don't have the clock to do all the calculating. Maybe Nc4 is safest.
+[10:37:09] jg777: Although Nc4 Bxc4  and after Qxd6 I am getting hit along on a6.
+[10:38:25] jg777: Maybe Qa5 instead, bxa Qx c3 stuff or whatever
+[10:39:56] jg777: Oh this doesn't work, Ra1... What was I thinking?
+[10:40:27] jg777: Overthought the position, then made a quick decision
+[10:40:42] jg777: LOL this is even worse. Well, game over here I am afriad.
+[10:42:14] jg777: I guess I play Bd8 and pray
+[10:44:00] jg777: I think this game will be riddled with errors for me to look at and figure out why I made the choices I did.
+[10:44:15] jg777: It'll be a another game for me to learn from. Clearly I did not learn from my last game. :P
+[10:46:18] jg777: There's just little to show for this after bxa3, I am just down a piece for pawn, and a6 falls immediately afterwards
+[10:46:33] jg777: So I'm just playing down a piece now that I can see
+[10:47:49] jg777: Oh looks like he has even more here. Yeah this is likely just lost.
+[10:49:05] jg777: Tempted to just play Bxf6 Qxa5 Nxc2 and just be down a rook or something
+[10:49:36] jg777: Better to play on I guess for the team here
+[10:52:56] jg777: If I didn't have the a6 d6 weaknesses I might have been able to make a bit of fun here
+[10:53:57] jg777: Well, for the team, we try to make a game of it with what we have here. :)
+[10:54:28] r0b-w: (26...Qxa6) Yes, Jordan, that's the spirit!
+[10:55:29] guitarspider: (27.Qxa6) maybe there's some compensation with Be5 Rc1 Bc4 if Black gets two moves for free
+[10:55:59] guitarspider: (27.Qxa6) and the Bh6 somehow moves
+[10:56:29] guitarspider: (27.Qxa6) but I think you have to start with Be5
+[10:57:30] jg777: Yeah, there are just so many weaknesses for me to manage here
+[10:59:02] jg777: Yeah this doesn't work for me either.
+[10:59:48] jg777: When lost, go for the tricks. Tricks aren't just for kids. :)
+[11:01:04] jg777: The idea is Qxd6 Be5 and Ra1. But, it doesn't work because Qc6 after Be5. That was my miss there.
+[11:01:19] jg777: I can still try for Rec8 maybe though.
+[11:03:51] jg777: Oh that is a bit more annoying
+[11:04:37] jg777: No time to do much thinking there
+[11:06:24] jg777: Yeah, to many weaknesses to play on here. I don't see how to not lose critical pieces
+[11:06:55] joonaf: gg!
+[11:07:10] simonwashere: gg
+[11:08:11] cowtone: thanks for the viewers and comments
+[11:08:41] jg777: Yeah, Qa5 just sunk the ship. Oh well, more to learn from I suppose. Nc4 was correct, after all. I got to fancy.
+[11:09:12] jg777: Or rather, to reckless. :P
+[11:09:12] jg777: Cheers
+[11:09:12] cowtone: Nax3 was also a good move
+[11:09:58] cowtone: I got lucky when tactics appeared, could have gone either way
+[11:10:13] jg777: it was fine, I just didn't realize a6 was protected via b4 if you took; I thought Nc4 led to issues because of that so went with Qa5
+[11:10:13] jg777: Which was obviously terrible there.
+[11:10:43] jg777: Even Ra1 was winning there
+[11:11:14] jg777: It shouldn't even have been a move to consider, but I did and played it after tossing out Nc4 as an option without much consideration.
+[11:11:29] jg777: More for me to work on I guess. Was a fun game, gotta go
+[11:11:44] cowtone: it was fun, thank you as well
+[11:12:45] cowtone: a lesson on how pins and in-between moves work both ways
+[11:21:54] goldenretrieverchess: gg
