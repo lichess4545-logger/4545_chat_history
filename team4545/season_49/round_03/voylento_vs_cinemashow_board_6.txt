@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/0rZztQQu
+White     : voylento
+Black     : cinemashow
+Time      : 45+45
+Captured  : 2026-07-17 21:59:36 UTC
+Game ended : 2026-07-17 20:39:33 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[18:27:08] voylento: no prep for this game
+[18:28:39] pineapplechiffoncake: go cinemashow!!
+[18:30:26] voylento: Stonewall Attack is the only opening I know as white and it doesn't work against this setup
+[18:31:57] cinemashow: (5.O-O) hello spectators
+[18:34:15] cinemashow: (6.c4) not sure about 5...d6
+[18:34:30] cinemashow: (6.c4) too many prep lines to remember
+[18:35:16] cinemashow: (6...c5) get them all confused
+[18:37:17] guitarspider: (7.Nc3) go cinema!
+[18:39:04] voylento: hey guitarspider, hope you and qudit can get a match scheduled this week
+[18:40:37] jakubjaniak1994: good luck! voylento :)
+[18:43:40] voylento: hi pineapple. didn't see your game today (way too early in my timezone) but I did quickly go through it after I saw that it finished.
+[18:44:41] pineapplechiffoncake: yikes TT
+[18:45:58] pineapplechiffoncake: Possibly my most disappointing loss ever :(
+[18:47:14] voylento: hi jakubjaniak1994
+[18:49:46] voylento: I'm guess Nc6 is next move?
+[18:51:33] jakubjaniak1994: e5 is coming?
+[18:53:35] voylento: not sure if my dsb should be on e3 or b2
+[18:57:08] voylento: that is an annoying move and I thought about h3 to prevent it
+[19:03:46] cinemashow: (10.Qd2) was expecting and worrying about Bg5
+[19:04:01] voylento: if e5, I think I play d5
+[19:05:32] cinemashow: (10...Nxe3) I'll gladly take an unopposed dsb but must develop
+[19:06:34] voylento: was going to take with the queen, but my queen would be misplaced and this gives me a half open file for my f rook though my e pawn ...
+[19:06:34] voylento: ...is backwards
+[19:06:50] voylento: but the question is how do I now respond to e5?
+[19:08:06] voylento: I think I play e4 in response to e5, but need to go through it more
+[19:08:51] voylento: probably Qa5 coming soon
+[19:12:25] cinemashow: (11...h6) don't want Ne6 hence no f5 for now
+[19:12:25] voylento: I don't understand h6
+[19:12:55] voylento: can't be to initiate a k-side attack and my knight has no business on g5 as far as I can tell
+[19:13:57] voylento: btw these comments are for myself after the game to know what I was thinking. I always forget when doing analysis later
+[19:15:59] cinemashow: (11...h6) knight really looks like it would be better on c6 now
+[19:18:01] voylento: b4 was the prevent Qa5 and to deny black's knight the c5 square if I need to exchange or move my d4 pawn
+[19:18:48] voylento: downside is it removes the pawn defender of my knight on c3
+[19:19:03] voylento: so have to be careful of tactics with black's dsb
+[19:21:05] voylento: against e5 I'm pretty sure I'll play d5. Wait, but then d4...and I'll have to retreat knight to e1
+[19:21:20] voylento: no, I can put it on d4 for a bit
+[19:22:52] voylento: how do I improve my rooks?
+[19:23:38] voylento: black needs to find a way to get his lsb in the game
+[19:25:09] voylento: I want my rook off a1 for obvious reasons
+[19:26:40] voylento: but where should it go?
+[19:27:42] voylento: is it a bad plan to play Ne1 and then Bf3 to foil white's lsb plan?
+[19:28:27] voylento: my lsb isn't doing anything else useful
+[19:32:31] voylento: Bb7, Bf3, Bxf3, Nxf3, Rc8 gives black's a rook a solid landing place
+[19:36:37] voylento: I think Ne1 was a mistake
+[19:36:52] voylento: and I don't have to keep going with a mistake
+[19:38:08] voylento: alternative is d6, but that opens black's dsb diagonal
+[19:39:40] voylento: no, maybe I'm seeing monsters under the bed with my original idea
+[19:40:56] voylento: I'll need to defend my c pawn with my Q temporarily, but then my rook goes to c1 and I have some q-side play
+[19:41:57] voylento: and once I move my d pawn, I can never move it back...
+[19:48:07] voylento: it was between d3 and e2. e2 gets protection away from my N on c3 but there are fork potentials if black can play e4 and protect the ...
+[19:48:07] voylento: ...pawn
+[19:48:37] voylento: but I want my knight at d2 to help protect the c pawn and then swing my rook over (if black plays Qc7)
+[19:49:09] voylento: I have a space advantage. How do I use it?
+[19:50:25] voylento: oh, duh! I can't capture the pawn with my queen if I play d6 now
+[19:57:17] cinemashow: (17...f5) why is there never enough time AACtrl?
+[19:57:32] voylento: e4 may be a mistake
+[20:00:21] voylento: concerned about my queen being overloaded on defensive duties
+[20:02:08] voylento: and of course black isn't going to allow the fork at e6
+[20:02:53] voylento: Ne5 looks strong for black
+[20:07:14] voylento: I think Ne5 was much better
+[20:09:47] voylento: Qf6 to try to force a tradedown?
+[20:22:17] voylento: I think fxd4 for black?
+[20:26:36] voylento: Qxd6 was the only play I saw that made threats, but I'm not sure about it
+[20:37:31] voylento: forgot I have confirm move on and my timer was just running down
+[20:38:47] cinemashow: (29.Qd7+) the end
+[20:39:17] pineapplechiffoncake: Gg
+[20:41:35] jdw10: gg
+[20:46:54] voylento: looks like we were both making blunders near the end
+[20:48:56] voylento: I thought I had the extensions to show move numbers when I put text in chat. I guess it is not working correctly
