@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/ajNnASUm
+White     : checkmate_insurance
+Black     : chatakkuma
+Time      : 45+45
+Captured  : 2026-07-18 13:16:58 UTC
+Game ended : 2026-07-18 11:56:57 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[09:25:03] checkmate_insurance: i honestly scrolled through my sveshnikov files for 5 minutes as my prep for this game
+[09:25:03] checkmate_insurance: this is all still theory though
+[09:40:17] bufferunderrun: let's go checkmate!
+[09:41:02] checkmate_insurance: i thought Nxc4 was just winning but the Ra1 threat is annoying
+[09:41:18] checkmate_insurance: maybe i can just include h3 before Ne3
+[09:55:48] bufferunderrun: this kind of looks good for black
+[10:03:12] checkmate_insurance: h3 before rh4 would have been a lot stronger i think
+[10:11:05] chatakkuma: threat is d5
+[10:16:09] checkmate_insurance: definitely threw the advantage with Rh4
+[10:16:09] checkmate_insurance: i think i'm just much worse after Ra1 here
+[10:17:26] checkmate_insurance: Ra1 Rxa1 Qxa1+ Kh2 Re1 Nd5 Rh1+ Kg3 Qe1+  Kg4 and i feel like i should just lose somehow
+[10:31:11] checkmate_insurance: i really wasn't expecting Ra5
+[10:31:26] checkmate_insurance: it feels like a mistake
+[10:40:52] checkmate_insurance: Rg4 almost worked but after Rxf5 Nd5/Nd7 runs into Qe6
+[11:09:07] checkmate_insurance: Rg5 Re8+ Kh7 Ne4 Rxg4 Nxf6+ Bxf6 fxg4 should be winning i think
+[11:09:23] checkmate_insurance: the pawn is scary tho
+[11:55:40] bufferunderrun: gg
+[11:56:10] guitarspider: gg
+[11:56:10] paulwithans: gg
+[11:56:41] jayhamburglar: gg
+[11:56:41] chatakkuma: I got a pawn but things got bad quickly
+[11:57:12] checkmate_insurance: yeah i definitely shouldn't have played Rh4
+[11:57:27] chatakkuma: yes
+[11:57:27] chatakkuma: i thought Rh4 was a mistake
+[11:57:42] chatakkuma: Ra5 was wrong?
+[11:57:57] checkmate_insurance: it's funny one of the 4 lichess db games that reached 22 Rxa2 was mine
+[11:58:13] chatakkuma: i also thought Re2 Rg4 and then Ra5
+[11:58:13] checkmate_insurance: where i correctly calculated Ne3 but somehow i played it worse this time in classical
+[11:58:43] checkmate_insurance: I thought Ra1 first was best
+[11:58:43] chatakkuma: yea I was looking at your game
+[11:58:58] chatakkuma: instead of Ra5?
+[11:58:58] checkmate_insurance: yeah
+[11:59:13] checkmate_insurance: i thought i was deadlost
+[11:59:13] chatakkuma: Ra1 Rxa1 Qxa1 Kh2
+[11:59:13] checkmate_insurance: but i couldn't find a exact win for u
+[11:59:29] checkmate_insurance: then Re1
+[11:59:29] chatakkuma: and then Re1
+[11:59:29] checkmate_insurance: and my king can be hunted to g4
+[11:59:44] chatakkuma: right, I did calculate that
+[11:59:59] chatakkuma: why i didn't play it
+[12:00:14] chatakkuma: I thought there is Re1 Rg4
+[12:00:45] chatakkuma: like Qxh6 is coming
+[12:01:00] chatakkuma: and f6
+[12:01:15] chatakkuma: so Rg4 Rh1+ Kg3 Kf4 Qe5 is mate
+[12:01:30] checkmate_insurance: yeah
+[12:01:46] checkmate_insurance: I didn't realise how bad Rxe4 would have been for me
+[12:01:46] chatakkuma: hmm I remember calculating sth similar
+[12:01:46] chatakkuma: maybe it was some other line
+[12:02:01] checkmate_insurance: I thought the endgame was somewhat saveable but you can just run the a pawn
+[12:03:02] chatakkuma: definitely Ra1 was better
+[12:03:17] chatakkuma: I missed Ra5 Re4
+[12:03:17] chatakkuma: good move
+[12:03:32] chatakkuma: I wanted to win the f5 pawn and play slowly
+[12:03:47] chatakkuma: because I didn't see the blowout win
+[12:04:03] checkmate_insurance: yeah makes sense
+[12:04:33] chatakkuma: prolly Ree5 is also bad
+[12:05:19] checkmate_insurance: i was more scared of Rxe4 Ra1
+[12:05:19] chatakkuma: Ra1 again
+[12:05:19] checkmate_insurance: my king is so weak on the dark squares
+[12:05:34] chatakkuma: yeah
+[12:05:49] chatakkuma: I was blindly trying to win f5 pawn
+[12:05:49] chatakkuma: but dark square control is more important
+[12:09:07] checkmate_insurance: how long were you in prep for?
+[12:12:56] chatakkuma: until you played Kh1
