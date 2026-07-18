@@ -1,0 +1,175 @@
+Lichess game chat log
+Game      : https://lichess.org/Gs1spVal
+White     : computeruser2607
+Black     : inter-temporal
+Time      : 45+45
+Captured  : 2026-07-18 22:01:38 UTC
+Game ended : 2026-07-18 20:41:35 UTC
+Messages  : 165
+────────────────────────────────────────────────────────────
+
+[19:05:51] inter-temporal: (1.d4) that score between us is fake news. we played some causal games awhile back
+[19:05:51] bpack: (2.c4) go i-t!!!!!
+[19:05:51] bpack: (5.f3) hello again McScribs
+[19:05:51] inter-temporal: (5.f3) and we are tracing our last rated game...
+[19:05:51] inter-temporal: (5...O-O) where will the improvement be
+[19:05:51] inter-temporal: (5...O-O) Be3 is normal
+[19:05:51] inter-temporal: (6...Nc6) same as last game... but i have a feeling his next move will be different
+[19:05:51] inter-temporal: (6...Nc6) here it comes...
+[19:05:51] inter-temporal: (7.Qd2) nope same, which is fine
+[19:05:51] inter-temporal: (9.Nge2) okay. sooo, my move will be the improvement. last game i didn't play 9...c5. gonna try it this time
+[19:05:51] oachkatzerlschwoaf: goo it
+[19:05:51] inter-temporal: (9...c5) he should take e.p.
+[19:05:51] inter-temporal: (9...c5) and i will take back with my N exposing my weak d6 pawn. can't have everything
+[19:05:51] inter-temporal: (9...c5) i had considered 9...Nxe2 then move my other N and play ...f5. maybe next time
+[19:05:51] inter-temporal: (9...c5) 10 dxc6 Nxc6, 0-0-0 Be6 probably
+[19:05:51] inter-temporal: (12...Rc8) pretty sure i want ...Rc8. but not certain it was here
+[19:05:51] inter-temporal: (12.Ng3) also ...h5 to harrass the Ng3, but that seems wrong here with a pawn storm looming
+[19:05:51] inter-temporal: (12...Rc8) it might be a gambit. not sure yet
+[19:05:51] inter-temporal: (12...Rc8) if Qxd6 i think either ...QxQ or ...Qa5
+[19:05:51] inter-temporal: (12...Rc8) i think ...Qa5 threatens to trap the Q, so then Qc5 when Bh6 might be a thing
+[19:05:51] inter-temporal: (12...Rc8) no i'm not cacluating that. it came up in some lines i looked at. lol
+[19:05:51] inter-temporal: (12...Rc8) memory more than chess skill. lol
+[19:05:51] inter-temporal: (13.b3) certainly on our own now
+[19:05:51] inter-temporal: (13.b3) opening the long diagonal infers i should be willing to sac my e-pawn via Nd4. but maybe ...Qa5 first. or smth else
+[19:05:51] inter-temporal: (13...Qa5) a6 & b5 are possible plans
+[19:09:11] inter-temporal: (14.Nb5) ...Nb4 maybe
+[19:14:33] highonpotnuse: go inter!
+[19:16:04] highonpotnuse: (15. Kb1) does d5 work?
+[19:20:24] inter-temporal: (15...a6) idk. i'm makin an effort
+[19:20:39] inter-temporal: (16.Nxd6) no doubt i gotta give up pawns
+[19:27:20] sahkal: Let's see what happens here
+[19:27:35] oachkatzerlschwoaf: looks terrible for white
+[19:27:50] oachkatzerlschwoaf: maybe I need to flip the board
+[19:28:22] sahkal: I heard that oach is an intelligent person
+[19:28:22] oachkatzerlschwoaf: where did you hear that
+[19:28:52] sahkal: Classified sources
+[19:29:08] oachkatzerlschwoaf: your sources are questionable
+[19:29:23] sahkal: Maybe but I believe it for now
+[19:29:53] sahkal: But let's see, position looks complex here
+[19:30:39] inter-temporal: (17...Qc7) might be missin smth. (probably missin smth)
+[19:30:54] oachkatzerlschwoaf: what's happening
+[19:30:54] inter-temporal: (17...Qc7) can't take e5 due to Ne8
+[19:30:54] oachkatzerlschwoaf: why are we going back
+[19:31:40] oachkatzerlschwoaf: you need to go forward for checkmate
+[19:31:40] sahkal: To attack the knight
+[19:31:40] oachkatzerlschwoaf: most of the time
+[19:32:26] sahkal: Maybe Ne8 anyway
+[19:32:56] oachkatzerlschwoaf: ic
+[19:36:00] inter-temporal: (18.c5) sac a piece?
+[19:36:15] oachkatzerlschwoaf: woah easy partner
+[19:36:30] oachkatzerlschwoaf: what do you want to sac
+[19:39:48] oachkatzerlschwoaf: I don't get it
+[19:42:36] oachkatzerlschwoaf: imma go to sleep go get em it
+[19:49:59] inter-temporal: (20...Rxd6) i might be screwed
+[19:54:33] mrscribbles: (21.Bxe6) Are we crazy enough for fx?
+[19:55:19] mrscribbles: (21.Bxe6) Oh, is black about to lose to Rc1? oops
+[19:57:37] mrscribbles: (21.Bxe6) Does Nd3 do anything?
+[19:58:22] ysgwydd: (21.Bxe6) Nd3 Rxd3
+[19:59:08] ysgwydd: (21.Bxe6) Could try to block with Nc2 but that doesn't look fun
+[19:59:54] mrscribbles: (21.Bxe6) Nd3 Rxd3 Rxd3 then you're down two pieces for a rook, but better than losing everything with Rxe6 Rc1, yes?
+[19:59:54] mongreltiger: Go Team! Go!!
+[20:03:58] mrscribbles: (22.Rxd1) In bullet I would go fx and hope they don't see that the bishop covers c1
+[20:04:13] mrscribbles: (22.Rxd1) might as well try it in classical too if you don't see anything better
+[20:04:43] sahkal: Fancy shmancy
+[20:05:30] ysgwydd: (22...Nc2) Not fxe6 first?
+[20:05:30] mrscribbles: (22...Nc2) just Bxc8
+[20:05:45] mrscribbles: (22...Nc2) oh, Rc1 wins too. Even Na3 Qxa3!
+[20:05:45] sahkal: Pieces were hung
+[20:06:00] sahkal: In this game
+[20:06:31] sahkal: Bxe6 Rxe6 would've been possible right?
+[20:06:46] sahkal: Or do you still have Rc1
+[20:07:01] sahkal: You still have that
+[20:07:16] sahkal: So then Bh6 was incorrect maybe
+[20:07:16] ysgwydd: (22...Nc2) It's lost either way I think
+[20:08:02] sahkal: Which makes sense that it would be but Bc4 is a crazy good find
+[20:08:17] sahkal: If that's true
+[20:08:17] inter-temporal: (22...Nc2) i'm lost... missed that Rc1 problem
+[20:08:33] mrscribbles: (22...Nc2) yeah, tough game tempy
+[20:08:33] sahkal: Seeing that you can do Bc4-xe6 and Then threaten Rc1 and it cannot be stopped
+[20:08:48] sahkal: Who sees that?
+[20:09:03] mrscribbles: (22...Nc2) Might as well go fxe6 Rc1 Na3+ and hope they have some kind of aneurysm
+[20:09:03] ysgwydd: (22...Nc2) They didn't have to see that far
+[20:09:19] sahkal: Why not?
+[20:09:19] inter-temporal: (22...Nc2) gg by ComputerUser
+[20:10:04] ysgwydd: (22...Nc2) Because it's a natural move connecting the rooks. What else can you play
+[20:10:19] ysgwydd: (23.Rc1) Just hope there is some tactic with your better placed pieces
+[20:10:19] sahkal: So you mean they might have gotten lucky
+[20:10:35] sahkal: Yeah that's possible that they got lucky
+[20:10:50] ysgwydd: (23.Rc1) Yeah, but I wouldn't be surprised that they saw the problem on c-file
+[20:10:50] sahkal: But also possible that they didn't get lucly
+[20:11:36] sahkal: It's  an unlucky tactic for black
+[20:11:51] sahkal: But they were asking for it by playing the very fancy Bh6 move
+[20:11:51] inter-temporal: (23.Rc1) i thought Bxc8. but this still does it
+[20:12:06] ysgwydd: (23.Rc1) Na3+ Qxa3 is nice
+[20:15:09] sahkal: Rc1 ay?
+[20:15:09] mrscribbles: (23.Rc1) Wow, I hadn't seen that black played Bh6
+[20:15:25] mrscribbles: (23.Rc1) that was very ambitious
+[20:16:10] mrscribbles: (23.Rc1) I guess you try Na3+ and hope white lets you repeat, but that has like <1% chance of working
+[20:17:11] mrscribbles: (23.Rc1) maybe you try to survive down the piece instead, but that looks pretty grim
+[20:17:11] sahkal: Or you play fxe6 and play the endgame
+[20:18:12] sahkal: Good
+[20:18:28] ysgwydd: (24.Rxc2) Still lose a piece, no?
+[20:18:28] mrscribbles: (24.Rxc2) ok, tempy has decided to try the endgame, not that they had much choice
+[20:19:44] mrscribbles: (24...Qg1+) this still forces all major piece trades
+[20:19:59] sahkal: Yes after Qc1
+[20:19:59] mrscribbles: (24...Qg1+) well hmm
+[20:20:29] mrscribbles: (25...Rxc1+) might as well keep queens on and pray
+[20:20:29] mrscribbles: (26.Qxc1) Oh, well Qxg2 now I suppose
+[20:20:45] mrscribbles: (26.Qxc1) or, Qxh2
+[20:20:45] mrscribbles: (26.Qxc1) Does Qxh2 win a piece?
+[20:20:45] sahkal: Qxh2 is a double attack
+[20:21:00] mrscribbles: (26.Qxc1) no, mate
+[20:21:00] mrscribbles: (26.Qxc1) Qxh2 Qc8+
+[20:21:00] sahkal: But white probably has some checkmate somehow
+[20:21:15] ysgwydd: (26.Qxc1) Mate in 2?
+[20:21:15] mrscribbles: (26.Qxc1) yeah
+[20:21:15] sahkal: No mate in 2
+[20:21:46] sahkal: Or yeah it is mate in 2
+[20:21:46] sahkal: Thats crazy
+[20:22:01] mrscribbles: (26.Qxc1) Qh1 and white loses on time trynig to figure out why the computer won't let them play Qc8+
+[20:22:16] inter-temporal: (26.Qxc1) gonna allow the mate
+[20:22:31] inter-temporal: (26.Qxc1) or... idk. fight with one piece?
+[20:22:31] sahkal: Just play the endgame
+[20:22:47] sahkal: That's normal
+[20:22:47] ysgwydd: (26.Qxc1) Mate in 3 after Qb6
+[20:23:17] sahkal: Good
+[20:24:03] mrscribbles: (28.Bb2) Never resign when you have a knight
+[20:24:03] sahkal: But wow white was so accurate in this game
+[20:24:18] sahkal: Crazy
+[20:24:33] sahkal: Develop the king
+[20:24:48] sahkal: Good
+[20:26:05] mrscribbles: (32.g4) opposite colored knights draw
+[20:29:23] mrscribbles: (35.Kc5) it's a trap!
+[20:29:23] mrscribbles: (35.Kc5) Black was hoping for Bxe5 presumably. a good try
+[20:34:28] sahkal: Yeah nice
+[20:36:30] ysgwydd: (42...Nh4) Nxg5 Kxg5 Be7+
+[20:39:48] bpack: (48...Kd7) Let's go stalemate!!!
+[20:40:34] sahkal: Yes good try
+[20:41:34] bpack: ggs
+[20:41:34] sahkal: Now we can watch the bronze match or the US senior/junior
+[20:41:50] sahkal: gg
+[20:42:20] inter-temporal: didn't calculate far enough to see that Rc1 threat
+[20:43:06] sahkal: Interesting game!
+[20:43:36] inter-temporal: ...Bh6 was just not right
+[20:44:37] inter-temporal: and retreating my ...Qc7
+[20:44:52] inter-temporal: i didn't want to leave the e5-pawn and the long diagonal. but it was all wrong
+[20:45:23] inter-temporal: white played well
+[20:45:53] inter-temporal: took the d6-pawn and held it
+[20:46:39] inter-temporal: 18.c5 was good. i just glanced at it before hand.
+[20:46:39] inter-temporal: but when i saw it, it was good
+[20:47:40] inter-temporal: oh geez. and i miscounted at move 22... dang
+[20:48:10] inter-temporal: i saw a possible perpetual check, which fails, but then couldnt see anything else.
+[20:48:56] inter-temporal: wow. that counting error is kinda disappointing
+[20:49:27] computeruser2607: I was expecting 17.Rc6
+[20:50:12] computeruser2607: I'm pretty sure taking on d6 was a mistake
+[20:50:12] inter-temporal: i dismissed 18.c5 prematurely
+[20:50:58] computeruser2607: Yeah the position looks shaky
+[20:51:43] inter-temporal: i felt i was taking too long on move 17... Qc7. i didn't want to retreat my Q, but got impatient
+[20:54:00] inter-temporal: 13...Nd4 is not a move i would play without some prep
+[20:54:16] inter-temporal: or experience (like this game, lol)
+[20:56:32] inter-temporal: i thought 22...Nc2 was going to be a perpetual until saw you can just sac ur Q.
+[20:58:04] inter-temporal: four major mistakes. lol. lot's of lessons due to good play by ComputerUser. :)
+[20:59:05] inter-temporal: ty. gl. c ya'll in da slacks
+[20:59:05] computeruser2607: Yeah this was an interesting game
+[21:02:23] mongreltiger: gg
