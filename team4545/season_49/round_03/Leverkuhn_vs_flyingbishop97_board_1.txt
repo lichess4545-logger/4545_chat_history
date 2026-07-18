@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/Hi71dCEz
+White     : leverkuhn
+Black     : flyingbishop97
+Time      : 45+45
+Captured  : 2026-07-18 21:10:56 UTC
+Game ended : 2026-07-18 19:50:54 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[18:11:54] pepepibote: go fliyingbi!
+[18:33:32] pepepibote: there is master game that went 17.b4, and then a3 rd1
+[18:34:49] pepepibote: but couldt see much reached max depth
+[18:40:39] grzybozbur: b4/a3 looks much more solid than this
+[18:42:11] grzybozbur: it doesn't seem like white has enough compensation, if any
+[18:44:44] grzybozbur: unless ra1 will work?
+[18:48:03] pepepibote: seems edgy with back rank mate ideas, but i was guessing  flygin bi atack was faster, idk :o
+[18:50:50] grzybozbur: does this knight get out?
+[18:51:06] grzybozbur: qe6 nd6 g5?
+[18:54:09] pepepibote: ah nice
+[19:30:33] pepepibote: more chess heey
+[19:31:19] pepepibote: hahah those 1s moves
+[19:51:09] pepepibote: gg
+[19:51:55] leverkuhn: I didn't expect 17...Bxa2!?, seemed way too risky
+[19:52:25] leverkuhn: After I played 17.Rc1, I realized maybe 17...a5!? was interesting, keeping the knight on c5
+[19:52:56] leverkuhn: But also 17...Bxa2 maybe good judgment
+[19:53:11] flyingbishop97: it seemed loose but holding
+[19:53:11] leverkuhn: I had calculated everything up to 21.Nc6, but I missed 21...Qxe2! from afar
+[19:54:12] leverkuhn: I also missed the retreating move 23...Qe6!, after which I was scrambling
+[19:54:58] leverkuhn: problably 23.Nc8?! was wrong, should come back to c6 with decent comp for the pawn
+[19:55:28] leverkuhn: I also wonder if 21.Nf5 was a thing, but I wasn't sure after 21...Qf8
+[19:56:44] leverkuhn: sorry about the loss after overpressing, those always sting
+[20:00:02] leverkuhn: 47...Qd4 seemed dangerous, I thought that would be the move meeting Rg8 with ...Kh7
+[20:03:06] leverkuhn: 47...Qd4 48.Qxd5 Qxf2+ 49.Qg2 and 50.Rd2, might hold, but scary
+[20:06:40] basilcandle: gg
