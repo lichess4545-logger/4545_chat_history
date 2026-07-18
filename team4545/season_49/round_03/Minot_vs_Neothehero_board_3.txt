@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/BzD5WV91
+White     : minot
+Black     : neothehero
+Time      : 45+45
+Captured  : 2026-07-18 12:50:37 UTC
+Game ended : 2026-07-18 11:30:23 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[09:15:40] neothehero: (9.O-O) a5, Qe8, Nd7, Nc6 are candidate moves
+[09:15:55] sarahwynn: Go Minot!
+[09:21:31] neothehero: (11.Qxd2) Nd7 d5 e5 Ng5 Nc5 protects e6
+[09:23:02] neothehero: (11.Qxd2) white's plan of Nh4 + e4 shouldn't work as I can play f4
+[09:23:48] neothehero: (11.Qxd2) Nd7 Ng5 Qe8
+[09:24:18] neothehero: (11.Qxd2) candidate moves are Nd7, Qe8, h6
+[09:27:07] neothehero: (11.Qxd2) I want to keep my queen on d8 in case white plays Nh4 + e4, I can reply with f4
+[09:31:41] neothehero: (12.e4) what? e4 was unexpected
+[09:33:28] neothehero: (12.e4) I see the points, it's fxe4 Ng5 attacking both e6 and e4
+[09:43:53] neothehero: (13.dxe5) Nxe5 Qd5+ Nf7 exf5 Bxf5 Qxb7 Rb8 Qa7
+[09:48:12] neothehero: (13.dxe5) fxe4 Ng5 nxe5 Bxe4 Bf5 Qd5+ Kh8 is safe
+[09:51:30] neothehero: (13.dxe5) fxe4 Qd5+ Kh8 Qxe4 losing a pawn in a worse way
+[10:15:09] neothehero: (17...Nxf5) g4 Nh6 Qxd6 Qxd6 Rxd6 Nxg4
+[10:18:27] neothehero: (18.Rfe1) My guess for Rfe1 is white wants to prevent Be6
+[10:20:13] neothehero: (18.Rfe1) seeing that f2 is weak, I want to go Qf6, but there might be g4-g5
+[10:21:30] neothehero: (18.Rfe1) g6 is a move?
+[10:22:31] neothehero: (18.Rfe1) Qf6 g4 Nh4 Qxf2, so Qf6 does work
+[10:53:31] godgifu: Gooo neo!
+[10:55:48] minot: 25.c5 was my other idea
+[11:27:05] neothehero: (44.Rxg6) Oh wow I got lucky
+[11:30:08] godgifu: gg
+[11:33:26] neothehero: wow I didn't realise that after 41. Ra6, Bxg2 was a draw
