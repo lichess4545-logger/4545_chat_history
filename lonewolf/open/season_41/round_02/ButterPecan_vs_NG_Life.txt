@@ -1,0 +1,34 @@
+Lichess game chat log
+Game      : https://lichess.org/W3yDd7q8
+White     : butterpecan
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-07-18 22:01:15 UTC
+Game ended : 2026-07-18 20:41:02 UTC
+Messages  : 24
+────────────────────────────────────────────────────────────
+
+[19:36:56] butterpecan: testing the whisper move number plug in
+[19:36:56] ng_life: (7) I didn't prep this week because I saw he played everything.
+[19:36:56] ng_life: a little surprised it's an english, usually I score well in the symmetrical variation.
+[19:36:56] ng_life: (7) he seems to have some special line here, I don't know it. Qb6 is a little odd but hopefully getting out of his prep.
+[19:36:56] ng_life: 7. be3 a little surprisng, I don't see what's wrong with Qxb2?
+[19:36:56] ng_life: I guess the point is Qxb2 ncb5 threatening nc7+?
+[19:36:56] ng_life: maybe I should have played a6 first
+[19:36:56] ng_life: (8) I already don't like my position...
+[19:40:45] ng_life: (10) I got way behind in development, I played this opening quite poorly
+[19:44:49] ng_life: 13... Qd8 probably should have made the conscession and gone all the way back to d8 when I retreated the Queen before...
+[19:47:06] ng_life: 14. f3 probably an important choice here, between e5, e6, and nxd4
+[19:48:38] ng_life: 14... e6 nxf6 Qxf6 nxc6 bxc6 Qxd6... that loses a pawn, doesn't work
+[19:51:11] ng_life: e5 nxc6 bxc6 nxf6 Qxf6 - now defending d6, hmm, but where the lsb go?
+[19:52:12] ng_life: nxd4 bxd4 e5 be3 nxd5 if cxd5 bc7 and if Qxd5 be6?
+[19:54:00] butterpecan: on 16.Bf2 Bh6 becomes a possibility
+[20:03:38] ng_life: (20
+[20:03:54] ng_life: (20) my position is still quite bad, but I don't see a killing blow for him at least
+[20:08:30] ng_life: (22) feels like the pressure might be alleviating now
+[20:09:46] ng_life: (24) the more we trade, the less I get checkmated?
+[20:13:05] ng_life: 27. bc4 is a good move by him, but at least my king moves first now?
+[20:22:14] ng_life: (32) this is a draw, but slightly easier to play now that one of my bishops is free
+[20:40:16] ng_life: (49) damn, I played the opening, middlegame, and endgame all terribly. This was rough.
+[20:42:03] ng_life: it was really dumb and overambitious to move my king up, I should have stayed put and played for the draw
+[20:42:49] ng_life: nicely played on your end @ButterPecan
