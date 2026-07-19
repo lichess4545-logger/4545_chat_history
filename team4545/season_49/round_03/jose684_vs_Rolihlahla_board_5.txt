@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/NCx5SDCF
+White     : jose684
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-07-19 02:03:08 UTC
+Game ended : 2026-07-19 00:43:06 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[22:05:47] timothyha: (2...Bc5) go, Ro!
+[22:09:51] rolihlahla: seems like he prepared for something different ....
+[22:27:25] robertjackson: Go Eric - sleep beckons for me
+[22:29:57] timothyha: (11.Nxa2) removing that LSB is an achievement
+[22:44:42] kborman: Go Jose!
+[23:07:38] kborman: I just realized the white queen is in a precarious position. f3 f4 could be a bit annoying.
+[23:18:20] timothyha: (21...f6) I came back and counted pieces, Black is up one!
+[23:18:50] timothyha: (21...f6) ah, I miscounted
+[23:26:16] timothyha: (23.d4) White probably wants a knight on d4, so Black shouldn't help
+[23:28:03] kborman: And black wants one on c4
+[23:30:20] timothyha: (24.dxe5) take rook first I think
+[23:30:36] timothyha: (24.dxe5) then bishop, then pawn
+[23:31:06] timothyha: (24...Bxe3) this way it'll be a knight endgame
+[23:31:22] timothyha: (24...Bxe3) with a rook left it was more safe?
+[23:31:22] n8otom8o: oh! Take the rook!
+[23:32:08] timothyha: (25.fxe3) Ra1 check and it might become a knight endgame quickly
+[23:32:08] timothyha: (25.fxe3) ok, this way things are rather tame
+[23:35:27] kborman: Rxa8 intermezzo Bxf2?
+[23:36:12] n8otom8o: Then Kxf2, Rxa8 then e6+ fork. I think.
+[23:36:58] kborman: Oh damn
+[23:37:13] jose684: I might have missed some good moves in this game I guess, not concentrating fully today :(
+[23:38:30] jose684: Hello Keith and Inter-temporal :), thanks for popping in.
+[23:38:45] kborman: o/
+[23:40:01] timothyha: (27...Rxe5) this endgame is so technical
+[23:40:16] timothyha: (28.Kf2) Black has good chances actually
+[23:40:32] timothyha: (28.Kf2) c3 is awkward
+[23:41:03] jose684: all of a sudden, into a rook pawn ending. Havent played one for some time now.
+[23:49:56] kborman: Chuck Norris wins Rook endgames from both sides.
+[23:52:59] timothyha: (32...Ke5) White has that outside h-pawn, but as long as rooks are kept Black should be fine
+[23:53:45] inter-temporal: (33.g4) close to equal, probably
+[23:54:16] timothyha: (33...Kd6) I thought c5 was about time already
+[23:54:16] timothyha: (33...Kd6) but maybe Black is trying to win
+[23:54:31] timothyha: (33...Kd6) c5 would liquidate the whole queenside
+[23:55:16] inter-temporal: (33...Kd6)  i hope they go after the targets/weaknesses
+[23:56:33] inter-temporal: (33...Kd6) white might be a tad stretched to defend c3, h2, and e4; while black just has g7 and c6
+[23:57:18] inter-temporal: (34.Ra8) push a pawn! (since it's no longer pinned)
+[23:57:34] timothyha: (34.Ra8) now c5
+[23:58:35] inter-temporal: (34.Ra8) that appears to be the sole entry square for the white K, atm
+[00:01:37] jose684: n8otom8o , thanks for watching. Didnt realize you are also part of our team, lol.
+[00:02:08] rolihlahla: playing for the win
+[00:03:25] rolihlahla: Rd8+ Kc6
+[00:04:56] inter-temporal: (34...c5) Ra6+ Ke5, Ra5 maybe
+[00:05:12] kborman: Ra6+ Ra5 maybe?
+[00:05:27] inter-temporal: (34...c5) must be good
+[00:05:42] kborman: lol
+[00:18:27] inter-temporal: (38...Re7) get black's K to c4 might be something; with the Ra7. idk. everything looks hard
+[00:18:58] inter-temporal: (38...Re7) this seems like a waiting move with Black's K stuck on the Q-side
+[00:19:13] jose684: one too many weak pawns to defend.
+[00:20:14] inter-temporal: (39.Ke3) maybe so. Shankland says the opponenet needs "two MORE weaknesses" than we have. idk
+[00:23:17] inter-temporal: (39...Kc6) wonder what the pure-pawn ending is like
+[00:24:33] kborman: Rd5 Re5 Kd4
+[00:32:56] inter-temporal: (42.h3) might be too soon to dive in
+[00:33:11] inter-temporal: (42...Kc5) it's on now
+[00:34:27] inter-temporal: (42...Kc5) burn those ships (or bridges, whatever--no turning back)  lol
+[00:35:28] inter-temporal: (45.Kd2) i think Black can go pawn up
+[00:37:15] inter-temporal: (47.Rxf6) awesome fight
+[00:37:30] inter-temporal: (47.Rxf6) oh, but white does get it back. lol
+[00:37:46] inter-temporal: (47.Rxf6) still. great to see them go all the way.
+[00:39:32] inter-temporal: (49...Re7) even if black wins this pawn, it's an easy philidor draw, yeh? oh
+[00:39:32] inter-temporal: (49...Re7) Re7?
+[00:39:47] inter-temporal: (50.Rg4+) even easier draw then
+[00:40:18] inter-temporal: (50...Kc5) 49...Rh4, i think was worth a try
+[00:40:33] inter-temporal: (50...Kc5) maybe it's all the same though. lol
+[00:42:05] jose684: may be Black was winning at some stage in this rook ending I guess
+[00:42:35] inter-temporal: gg
+[00:42:35] kborman: gg
+[00:42:35] n8otom8o: gg
+[00:42:35] ivanhomeless: gg
+[00:48:41] inter-temporal: great game!
