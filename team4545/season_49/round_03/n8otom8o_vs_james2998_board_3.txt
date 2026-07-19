@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/v0dNIKc5
+White     : n8otom8o
+Black     : james2998
+Time      : 45+45
+Captured  : 2026-07-19 06:01:57 UTC
+Game ended : 2026-07-19 04:41:54 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[03:20:37] kborman: Go n8otom8o!
+[03:33:22] n8otom8o: Nf7 anyway?
+[03:35:40] n8otom8o: or maybe Ng4. If O-O, then Bg5...
+[03:37:42] james2998: 10... Nf6 tough game so far. I half thougt I might be lost if I hadn't remembered correctly but I think I've come through the worst of it
+[03:39:59] james2998: 10... Nf6 I would love to long castle but I'd also just like to castle. I don't see how I get the queen out fast enough. maybe some qh4 ng3#
+[03:44:34] james2998: 11 ng4 I'm looking at 0-0 or nxe4. the problem with 0-0 is after all the exchanges, even if I throw in the bishop pin, the g file opens. idk
+[03:47:21] james2998: 11ng4 if nxe4 I don't even see a way for them to exploit the king safety. cuz qf3 rf8 with the bishop and qh4 is coming, and qe2 I have qd5 
+[03:49:54] timothyha: (11.Ng4) maybe Qe7 and castle long from here
+[03:50:25] n8otom8o: I did not fully calculate Nxe4. Did not see his bishop covers f8. I might still have Qf3, then Bf4. Maybe not, could be lost.
+[03:52:28] james2998: there's also the much lamer option of nxg4, qxg4, qd7 preparing be7 if needed and 0-0-0 where everything is defended and I'm up a pawn. but 
+[03:58:38] n8otom8o: yeah i don't think this works for me, Qf3 Rf8 Bf4 Qd5 (or something.)  maybe Ne5 there.
+[04:01:41] james2998: 12 qf3 I think must be wrong because of re8, and then after the queen moves and the rook trade the night is undefened and I have qh4, with n
+[04:04:59] james2998: I think its playable. worst case scenario I have qxg4 and then the fork to get the queen back.
+[04:07:31] james2998: 13 I didn't see that
+[04:09:18] james2998: 13 ...qd5 maybe and the pressure is still on but its not as winning as I thought at least
+[04:11:05] james2998: 13...qd5. at some point g5 has to be a problem for white
+[04:20:00] james2998: 14 Ne5 first instinct 0-0-0. I don't see anything crushing, I'm up 2 pawns, g5 is still coming, and white is struggling to develop further. 
+[04:26:52] kborman: Was c4 possible there?
+[04:27:52] kborman: Nvm, en passant I guess
+[04:30:25] dragon19410: I'm kind of surprised white wants to open the d-file here.
+[04:33:00] james2998: 16..dxc3 if rd1 qxd1 rxd1 rxd1 qxd1 nf2+ I think is enough
+[04:33:46] james2998: if not rxf4 should be winning, or gxf4
+[04:38:36] n8otom8o: brutal.
