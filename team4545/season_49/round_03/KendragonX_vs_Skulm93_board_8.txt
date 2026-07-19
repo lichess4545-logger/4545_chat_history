@@ -1,0 +1,28 @@
+Lichess game chat log
+Game      : https://lichess.org/bwvPvzzg
+White     : kendragonx
+Black     : skulm93
+Time      : 45+45
+Captured  : 2026-07-19 16:58:13 UTC
+Game ended : 2026-07-19 15:38:09 UTC
+Messages  : 18
+────────────────────────────────────────────────────────────
+
+[14:07:02] leverkuhn: very fancy artificial castling from White
+[14:07:48] leverkuhn: I prefer White quite a bit in this structure actually; he can play a4, c3, Nd2 and use the c4 and c5 squares
+[14:09:19] leverkuhn: Black can eventually play it symmetrically, but his dsb won't function well until rerouted if he does
+[14:16:42] leverkuhn: White didn't achieve the desired structure at all and Black has won the bishop pair and created a weak pawn on d3
+[14:17:58] leverkuhn: 10.Be3 or 10.c3 followed by 11.Be3 would have been more astute, controlling ...c5
+[14:19:30] leverkuhn: 13...c5 tries to lock the pawn down, but White could maybe play 14.d4 here anyway
+[14:27:53] leverkuhn: interesting setup for W
+[14:27:53] leverkuhn: setup for White defending d3 from e5
+[14:28:23] leverkuhn: other knight can reinforce if Black plays ...Nd7
+[14:29:09] leverkuhn: and Ke2 is now available as well
+[14:30:25] leverkuhn: White might be interested in 16.a4 so that after 16...Nd7 17.Ndc4 there's no ...b5
+[14:32:27] leverkuhn: After 16.Rac1, 16...Nd7 17.Ndc4 b5 is a mess; 18.Nxd7 bxc4 19.Bxg7 Rxd7 20.Bb2 cxb3 seems to favor Black
+[14:33:13] leverkuhn: 18.Nc6? bxc4 doesn't work for White
+[14:35:45] leverkuhn: So my current thinking is Black should take the chance to play the long diagonal pin, and he does!
+[14:37:17] leverkuhn: oof, White didn't identify a critical moment to calculate!
+[14:38:02] leverkuhn: 17.f4?! in <10 sec. concedes the superiority of Black's idea far too readily
+[14:40:04] leverkuhn: our main line after 17.Ndc4 was certainly not resignable, and the analysis certainly wasn't exhaustive
+[15:17:45] lexgrad: picking the pawns off here
