@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/eVAz21aX
+White     : robertjackson
+Black     : serenemoose
+Time      : 45+45
+Captured  : 2026-07-19 13:29:39 UTC
+Game ended : 2026-07-19 12:09:37 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[10:16:38] robertjackson: playing too fast as usual !
+[10:17:39] robertjackson: got to watch my N on h4
+[10:27:35] robertjackson: looks dangerous for us both!
+[10:39:48] robertjackson: tension increases
+[10:45:54] timothyha: (16) looks like a good line
+[10:47:43] serenemoose: I don't see it.
+[10:58:10] timothyha: qxh2 and ok?
+[10:58:40] timothyha: ah some checks
+[10:58:40] serenemoose: This way when I check bishop blocks knight takes back, the other way queen blocks. I got nothing.
+[10:59:10] robertjackson: tricky 16.Qxh2 loses B on c1
+[10:59:57] cinemashow: (15...Ng3) Qg2?
+[11:06:03] robertjackson: 17.Be2 or even Kc2? maybe - but maybe not....
+[11:06:35] cinemashow: (16...Qg4+) the Ni is not pinned and Nxh1 is tempo on the Q
+[11:08:52] cinemashow: (17.Be2) I wanted the option of Qg1
+[11:09:07] cinemashow: (17.Be2) now, just take the rook?
+[11:10:38] jcarmody: (17.Be2) Nxh1 , Bxg4 , Nxf2+ , Ke1 , Nxg4
+[11:11:09] cinemashow: (17.Be2) plus h1=Q+
+[11:11:24] jcarmody: Just to rub salt into the wound!
+[11:11:55] cinemashow: (17.Be2) Qg2 would have the N pinned here
+[11:12:10] cinemashow: (17.Be2) instead of Qf2
+[11:12:10] robertjackson: this game feels very similar to England v France - both attacking
+[11:13:11] cinemashow: (17.Be2) not sure about that
+[11:13:41] robertjackson: well I am nearly attacking....
+[11:13:41] cinemashow: (17.Be2) many "players" not playing here
+[11:15:44] cinemashow: (19...Kc7) Bf3
+[11:15:59] cinemashow: (20.Rxh2) no Qd3+
+[11:19:18] cinemashow: (21.Qxh8) I did not see all that!
+[11:19:48] cinemashow: (21...h6) this is why I am where I am
+[11:20:34] cinemashow: (21...h6) the intermediate check Qf6
+[11:26:09] robertjackson: 22.Rxh6 feels dodgy!
+[11:26:09] cinemashow: (22...Rd8) I thought this allowed counterplay on e3
+[11:29:43] cinemashow: (22...Rd8) guess not because of f8=Q
+[11:32:31] nyanners: dont see any ideas left
+[11:38:07] nyanners: even if black somehow gets time all the squares are covered and even Ne5 doesnt do anything
+[11:44:28] nyanners: that said, id be slightly reluctant to resign when the king is on d1 and white isnt fully developed but it just shouldnt matter
+[11:44:28] nyanners: because black has nothing to do
+[11:45:29] nyanners: probably the best bluffs involve c5
+[11:46:15] nyanners: kinda nice how white's pieces coordinate to cover everything :o
+[11:46:30] nyanners: only need Bd2 to close the d-file
+[11:56:40] cinemashow: (30...Qd5) Bc4?
+[12:00:59] robertjackson: now where did all that time go!
+[12:08:36] cinemashow: (37.Rfc3) Bc7
+[12:08:51] nyanners: gg
+[12:08:51] cinemashow: gg
+[12:09:07] cinemashow: well played Robert
+[12:09:22] jose684: gg
+[12:09:52] serenemoose: Oh, the line's just objectively unsound. Ah well.
+[12:10:53] serenemoose: Could've sworn I've seen this Nh4 Be4 f3 Nh5 idea somewhere.
+[12:22:03] robertjackson: let me know if you spot this line elsewhere?  (Could've sworn I've seen this Nh4 Be4 f3 Nh5 idea somewhere)
