@@ -1,0 +1,30 @@
+Lichess game chat log
+Game      : https://lichess.org/AfKiWeIT
+White     : chesstrix01
+Black     : neothehero
+Time      : 30+30
+Captured  : 2026-07-19 14:20:21 UTC
+Game ended : 2026-07-19 13:00:18 UTC
+Messages  : 20
+────────────────────────────────────────────────────────────
+
+[12:08:38] neothehero: (6.Nc3) I'm out of the book here
+[12:10:56] neothehero: (6.Nc3) cxd4 Qh5+ Kf8 Bc4 I can't go d5, but e6 looks ok
+[12:11:26] neothehero: (7.Bc4) wait what?
+[12:12:43] neothehero: (7.Bc4) e6 Qh5+ Kf8 Bd6+ should I be scared of?
+[12:16:31] neothehero: (7.Bc4) e6 there's a Nb5 threatening both Nc7+ and Nd6
+[12:18:03] neothehero: (7.Bc4) d6, h5 or Nf6
+[12:22:54] neothehero: (8.Nb5) Na6 or d6
+[12:23:09] neothehero: (8.Nb5) d6 looks better, keeping the option of a6
+[12:23:24] neothehero: (8.Nb5) but d6 opens up the a4-e8 diagonal
+[12:24:25] neothehero: (8.Nb5) e6 Qa4 Bd7
+[12:24:56] neothehero: (8.Nb5) or Qa5+
+[12:26:58] neothehero: (8.Nb5) d6 Nxd4 e5
+[12:26:58] neothehero: (8.Nb5) or e5 now
+[12:27:29] neothehero: (8.Nb5) e5 Nd6+ then Nf7 is a fork, doesn't work
+[12:30:31] neothehero: (9.h4) candidates are g4, a6, Qa5+
+[12:40:26] neothehero: (10...Qb4) oh no I forgot about Nc7+
+[12:41:27] neothehero: (11.b3) oh white didn't call my bluff
+[12:42:29] neothehero: (11.b3) Qc5 or Na6
+[12:44:16] neothehero: (11.b3) Na6 a3 Qc5 exd4 doesn't look good
+[12:47:04] neothehero: (11...Qa5) oh just realised that Bxd6 might work here
