@@ -1,0 +1,92 @@
+Lichess game chat log
+Game      : https://lichess.org/t8XHHkyY
+White     : milsbees
+Black     : king_killer333
+Time      : 45+45
+Captured  : 2026-07-19 10:48:35 UTC
+Game ended : 2026-07-19 09:28:22 UTC
+Messages  : 82
+────────────────────────────────────────────────────────────
+
+[07:56:35] val1313: go Mils !
+[07:58:21] ttsgosadow: good luck Mils!
+[08:03:56] milsbees: Hi ttsgosadow. If I'm not mistaken, this is a mistake. It's not in my prep I'm pretty sure.
+[08:03:56] milsbees: Also hi Val.
+[08:04:28] milsbees: So Bxf7+ Ng5 and Qxg4?
+[08:08:02] ttsgosadow: ballsy move!
+[08:08:17] ttsgosadow: love how aggressive Italian game can be
+[08:14:39] val1313: (11...h6) just NF7 ?
+[08:17:42] milsbees: So maybe I got a little carried away and it's not winning at all and I'm just missing plausible moves in my prep
+[08:17:57] milsbees: but it's the first time I'm playing this particular line in a real game so that was bound to happen
+[08:18:28] milsbees: Still, I think I've got a decent position
+[08:35:59] val1313: (17...Rh7) just e7 e8 now ?
+[08:35:59] val1313: (18.Re2) why not ?
+[08:38:16] paulwithans: e7 Bd7 holds things up at least temporarily doesn't it?
+[08:38:31] val1313: (18.Re2) oh yeah of course
+[08:38:31] paulwithans: (before Re2)
+[08:39:47] milsbees: Oh I just spotted a cool idea maybe. If I can get my rooks to f5 and e1 to defend the e-pawn
+[08:40:18] milsbees: and threaten mate on f8 if the bishop leaves
+[08:40:33] milsbees: nothing there quite yet, but something to keep in mind
+[08:48:55] ttsgosadow: super nice to read with your thoughts
+[08:52:44] milsbees: My original plan after Re2 was to double, but Ba6 would be annoying and it gives black an extra move essentially
+[08:54:00] milsbees: I spent the most time looking at Bd6 here and whether Rae1 is good there.
+[08:54:15] milsbees: Which I think it is, black is so underdeveloped with the unsafe king as well
+[08:57:33] ttsgosadow: that black king can really play up later, the disparity in safety is astounding!
+[09:00:06] guitarspider: (19.Re5) go Mils
+[09:02:53] paulwithans: So do we think the rook sac is good after Bd6 Rael? I'm not sure at all
+[09:05:26] itsasecret2000: Go mils
+[09:06:42] paulwithans: Maybe after Bd6 white could throw in e7, force the bishop to d7 then retreat the rook nevermind...
+[09:09:15] itsasecret2000: not sure about 15.Qf4, with the queens on the board black king was very unsafe
+[09:09:30] itsasecret2000: maybe Qe2 instead was the way
+[09:12:03] aminson123: I am not liking black's position here
+[09:14:06] itsasecret2000: not easy for sure, but it seems somehow holdable
+[09:14:06] milsbees: what's the right time for e7? I like that it restricts the bishop on e6 but at some point....
+[09:14:37] itsasecret2000: just chill mils, restrict the bishop and take your time
+[09:14:52] itsasecret2000: (21...Bd6) maybe f4-f5-f6 could be and idea
+[09:15:07] itsasecret2000: (21...Bd6) after the rook is safe
+[09:15:22] val1313: (21...Bd6) and the B is no longer on C5
+[09:15:53] itsasecret2000: (21...Bd6) yeah but if Rd2 Bc5 Kh1 and ill go f4 next anyway
+[09:16:23] itsasecret2000: (21...Bd6) the only white piece that i dont like is the knight on a3 which is very bad
+[09:16:39] val1313: (21...Bd6) Re2 what if Ba6 ?
+[09:17:09] val1313: (21...Bd6) oh then Rd2 you meant
+[09:17:24] itsasecret2000: (21...Bd6) no i meant Re2 and i missed Ba6 ahaha
+[09:17:40] val1313: (21...Bd6) :)
+[09:17:40] itsasecret2000: (21...Bd6) but somehow makes sense so i'll pretend i saw everything
+[09:18:25] itsasecret2000: (21...Bd6) Rd2 Bb4
+[09:18:40] milsbees: hmmm, I made a mistake somewhere :(
+[09:20:12] val1313: (22...Ba6) is Ne7+ nxc6 an idea
+[09:20:42] itsasecret2000: (22...Ba6) yeah maybe
+[09:20:58] val1313: (22...Ba6) I meant before re2
+[09:21:28] itsasecret2000: (22...Ba6) yes, now seems less effective
+[09:22:29] itsasecret2000: (23.Be7) that's smart
+[09:22:44] itsasecret2000: (23.Be7) very smart
+[09:23:31] itsasecret2000: (23.Be7) maybe Bxa3 is the only move
+[09:24:16] itsasecret2000: (23...Ne8) Rd2 now
+[09:24:32] itsasecret2000: (23...Ne8) and we survived
+[09:25:49] itsasecret2000: (25.Re5) mmmh
+[09:26:05] itsasecret2000: (25.Re5) Why not 24...Bxe2?
+[09:26:20] val1313: (25.Re5) be7 was such a nice find
+[09:26:50] val1313: (25.Re5) we did more that survive I think
+[09:27:05] itsasecret2000: (25.Re5) yeah indeed, still Bxa3 seems good for black
+[09:27:05] val1313: (25.Re5) *than
+[09:27:05] itsasecret2000: (25.Re5) but he complicated the position enough
+[09:28:22] val1313: gg guys !
+[09:28:22] itsasecret2000: what
+[09:28:37] itsasecret2000: gg
+[09:28:37] val1313: seemed still holdable ?
+[09:28:52] itsasecret2000: yeah i didnt expect taht
+[09:28:52] itsasecret2000: that*
+[09:29:07] val1313: I mean I understand black being pissed
+[09:29:07] val1313: and don't want to suffer
+[09:29:07] guitarspider: gg
+[09:30:08] itsasecret2000: oh on 23...Bax3 there is a draw by repetition
+[09:31:55] king_killer333: guys, it was not ragequit .. firstly , it's rare for me to get a bad position out of the opening . second .. i had lonewolf match yesterday
+[09:32:10] king_killer333: misnight and this is kind of early to me .. so i am exxhausted
+[09:32:25] itsasecret2000: that's unfortunate
+[09:32:56] itsasecret2000: take care, too much chess is bad for health
+[09:33:43] milsbees: 20.Nb5 is crazy
+[09:34:13] milsbees: good game king_killer
+[09:34:28] itsasecret2000: yeah of course Nb5
+[09:34:28] itsasecret2000: val pointed it out in the comments
+[09:34:43] itsasecret2000: its an obvious move
+[09:34:59] paulwithans: gg
