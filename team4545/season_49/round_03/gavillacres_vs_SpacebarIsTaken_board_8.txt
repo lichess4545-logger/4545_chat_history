@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/5vgAOOmq
+White     : gavillacres
+Black     : spacebaristaken
+Time      : 45+45
+Captured  : 2026-07-19 18:42:42 UTC
+Game ended : 2026-07-19 17:22:39 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[15:01:57] joonaf: go spacebar!
+[15:04:45] spacebaristaken: was expecting 2.. d4. I don't know what that's opening called, he doesn't play the smith morra gambit, is it just called the smith ...
+[15:04:45] spacebaristaken: ...mora? e4 c5, d4 cxd4, qxd4 nc6 is what you I prepped
+[15:05:46] spacebaristaken: closed siccilian must be new for my opponent, good news is I also don't know how to play against it as black
+[15:24:20] jcarmody: go gav
+[15:42:07] dorylus: gonna say that early e6 is always a good choice in a closed sicilian
+[15:58:40] spacebaristaken: couldn't decide if I should take the bishop or not
+[16:09:53] ivanhomeless: lg gav!
+[16:12:42] basilcandle: Go spacebark
+[16:12:42] basilcandle: Spacebar* :)
+[16:15:29] lorb: bit late to comment that, but I think the bishop should have been taken on move 18
+[16:16:30] lorb: with the reasoning that it helps further ruin whites pawn structure
+[16:17:46] spacebaristaken: if a5, then b5, Ra4 Qxd3, cxd3 Rc8, then if white tries to defend with Rc1, I'm pretty sure I have Nxc3, Bxc3 b4
+[16:18:17] spacebaristaken: someone lmk if that was calculated proper.y
+[16:25:40] lorb: if a5, b5, than Ra4 looks very wrong. probably meant Rb4?
+[16:27:57] basilcandle: Think he meant when rooks were doubled
+[16:28:13] spacebaristaken: i think i made a mistake
+[16:30:15] spacebaristaken: i played Rb8  instead of Rc8 because I was worried about the backrank. Not sure what the move was, I need to check after the game ...
+[16:30:15] spacebaristaken: ...with the engine
+[16:42:59] jcarmody: (28.Rxb6) that's what I was thinking, so it must be wrong
+[16:43:29] ivanhomeless: lol, no I think it is right jc
+[16:48:49] spacebaristaken: is this winning for black? He can't stop the pawn right?
+[16:49:20] spacebaristaken: maybe c5 at some point holds?
+[16:49:20] jcarmody: (35..Ke7) Bc7 , a4 , Ba5 , a3 , Bc3 and the pawn can't queen
+[16:49:35] jcarmody: doh!
+[16:49:50] jcarmody: (37.f4) Be3 , a3 , e3d2 , a2 , d2c3
+[16:50:21] jcarmody: (37.f4) Be3 , a3 , Bd2 , a2 , Bc3 (instead of f4)
+[16:50:36] jcarmody: now
+[16:51:52] jcarmody: I'll just shut up and watch...
+[16:52:07] joonaf: this is winning for Black, righ?
+[16:52:22] spacebaristaken: well i wonder if it was *was* winning
+[16:52:38] joonaf: hey! stop reading chat!
+[16:52:38] joonaf: :P
+[16:53:24] joonaf: but what can White do?
+[16:53:39] joonaf: hmmm
+[16:53:39] joonaf: why
+[16:53:54] joonaf: why ..a2 instead of  ..fxe5
+[16:54:25] joonaf: now it's losing I think
+[16:54:55] spacebaristaken: is this drawable?
+[16:55:10] joonaf: looks bad
+[16:55:10] joonaf: now c5?
+[16:55:26] jcarmody: Anything's possible on board 8.
+[16:55:56] joonaf: c5 and Black king cannot go e5, d5 or d6, and ..d4 wasn't possible either
+[16:55:56] jcarmody: Even me, next season, with my performance lately.
+[16:56:11] joonaf: why are they playing so fast
+[16:57:12] spacebaristaken: i think kg2 was just better in every way
+[16:58:44] joonaf: the reason anything's possible if because they don't use their times :P They could be much higher if they did
+[16:59:46] ivanhomeless: wow
+[17:00:16] ivanhomeless: drama
+[17:01:33] joonaf: 59..Qg2+, Kf5, Qg4#
+[17:01:49] joonaf: Qg2+, Kh6, Qg8
+[17:05:07] spacebaristaken: i have no idea what to do, I feel like it's draw, but my king placement looks good like maybe there is a mate idk
+[17:08:10] joonaf: I think I'd do 60..Qb4
+[17:08:25] jcarmody: (60.f7) Qb4 , Bg7
+[17:08:55] basilcandle: Qe7+
+[17:08:55] joonaf: Qb4, Bg7, Qe7+, Kg6, Qe6+
+[17:09:11] basilcandle: Yes I like it
+[17:09:26] basilcandle: But i stopped calculating :)
+[17:11:28] basilcandle: Qf7 take the pawn, draw
+[17:11:43] basilcandle: Qf8 lol
+[17:13:30] joonaf: if you can pin the pawn, then you can get your king forward
+[17:14:16] joonaf: or rather, if you can make your opponent block the pawn or pin it for you
+[17:14:16] spacebaristaken: okay, all i have to do is push his king really far away from the pawn, and make every move with check
+[17:15:02] lorb: makes it sound easy ... the white king will probably not gonna go far away from the pawn volunarily
+[17:15:02] joonaf: close to the pawn can be good too
+[17:15:17] basilcandle: Im terrified
+[17:15:32] joonaf: make white lose moves blocking / pinning, and step by step you get your king closer
+[17:15:47] lorb: why terrified? even if white makes a queen, it should be easy enough to make a draw
+[17:16:03] joonaf: but does the White's bishop affect that plan? no idea
+[17:16:03] lorb: don't think black can lose this
+[17:17:34] lorb: like, white has to be careful where to move with the king. black can just keep giving checks and hope white makes an error.
+[17:17:34] joonaf: if 63.Kg7, Qg5+ then White needs to go to Kh7?
+[17:18:05] ivanhomeless: maybe this will repeat if both play carefully
+[17:18:51] lorb: yeah, definitely a draw if white plays perfectly
+[17:20:37] joonaf: this would be fun to play as Black without pressure
+[17:22:24] lorb: in terms of team result there already is no pressure
+[17:23:10] joonaf: ggwp
+[17:23:25] joonaf: but you both need to use more of your time :P
+[17:24:56] joonaf: Oh, at 39. I missed that Bc5 would be a fork with a check if the d-pawn disappears
+[17:25:11] joonaf: that's why you didn't do fxe, fxe, dxe
+[17:25:42] basilcandle: gg!
