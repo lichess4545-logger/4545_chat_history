@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/5Vk77obm
+White     : williewipeout
+Black     : docdiscacchi
+Time      : 45+45
+Captured  : 2026-07-19 22:16:09 UTC
+Game ended : 2026-07-19 20:56:01 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[19:10:10] handknit: (7...O-O) a grunny
+[19:45:35] handknit: (14...b5) I don't know that white wanted to trade the DSBs. Black's is kinda naff. Though I dunno exactly where white's goes otherwise.
+[19:45:35] handknit: (14...b5) Maybe Bg5
+[19:46:05] handknit: (14...b5) Follow it up with some kind of Ne2-g3-e4 to press on the f6 square
+[19:57:48] semlegesnev: Scheduling the penultimate game deciding the match on the world championship final is  definitely a decision, but I hope it leads to 2points
+[20:01:21] handknit: (16...Rc8) it's okay, black is Italian, they have no interest in the World Cup
+[20:01:21] handknit: (16...Rc8) ohhhhhhhhhhh
+[20:01:52] handknit: (16...Rc8) Anyway, Ne4 from white seems very good here and I assume that's the plan after Ng3
+[20:02:53] handknit: (17...Qh4) I think Bxd5 might be the right way to start here
+[20:03:38] handknit: (17...Qh4) 18.Bxd5 cxd5 19.Bxg7 Qxe4 20.Qh6 is mate, I think
+[20:04:09] handknit: (17...Qh4) If you don't have Bxd5, black can have Qf4 as an answer
+[20:06:57] handknit: (17...Qh4) ah, I guess Bxd5 Bxh6
+[20:06:57] handknit: (17...Qh4) so scrap that
+[20:07:12] handknit: (17...Qh4) 18.Bxg7 Qxe4 19.Bxd5 there's the move order
+[20:08:44] handknit: (17...Qh4) I think white finds Bxg7 by process of elimination
+[20:08:59] handknit: (17...Qh4) but 19.Bxd5 intermezzo is not so simple
+[20:10:00] handknit: (17...Qh4) And even after Bxd5, playing Qh6 direct before Bf6 is also not a gimme
+[20:12:02] semlegesnev: If white can get either the night or bishop to f6 at the end of this it looks great
+[20:13:48] handknit: (18...Qxe4) Anything other than Qxe4 drops an exchange to Nd6 here so it probably won't be the N
+[20:13:48] handknit: (18...Qxe4) Okay. Moment of truth. Does white find Bxd5?
+[20:14:19] handknit: (18...Qxe4) White's still better after Bh6, mind you
+[20:14:34] handknit: (18...Qxe4) And might even be trapping black's queen, mind you
+[20:15:20] handknit: (19.Bxd5) Okay, Bxd5 on the board. Now do we see Qh6 before Bf6
+[20:16:05] handknit: (19.Bxd5) Mind you, Bf6 stops Qh4
+[20:16:21] semlegesnev: Bf6 seems good first, I don't see what stops Qh6 after
+[20:16:36] handknit: (19.Bxd5) So I guess they're equally good. I guess black avoids getting mated immediately with g5-Qg6
+[20:17:21] handknit: (19.Bxd5) 19...exd5 20.Bf6 g5 21.Qxg5+ Qg6
+[20:17:37] handknit: (19.Bxd5) Big advantage for white though I guess with the oppo bishops there could still be quite a bit of play
+[20:18:22] semlegesnev: Looks pretty good for white, there are ideas of a5 or smth after with a pawn up
+[20:18:38] handknit: (19...cxd5) I think cxd5 is inferior to exd5 because it leaves black's B buried
+[20:19:39] handknit: (19...cxd5) but I think after 20.Bf6 g5 21.Qxg5+ Qg6 22.Qd2 now white gets Re1-e3-g3
+[20:20:25] handknit: (20.Qh6) Okay. This way, g5-Qg6 secures a queen trade
+[20:20:25] semlegesnev: Tbh, finding g5 in this line is harder than with Bf6 first
+[20:22:27] handknit: (20.Qh6) I think black finds g5 in each case because in both lines it's a true only move
+[20:22:57] handknit: (20.Qh6) okay, soccer time
+[20:27:16] nyanners: so how good is this :o
+[20:27:32] nyanners: is checkmate on h8 realistic
+[20:30:05] handknit: (23...Rc4) I don't think white's fast to that
+[20:31:06] handknit: (23...Rc4) White can get in trouble here, too
+[20:31:06] nyanners: yea black's position somehow feels adequate
+[20:31:06] handknit: (23...Rc4) Rec8 is fast
+[20:31:06] nyanners: id be optimistic facing lower here
+[20:31:21] handknit: (23...Rc4) Bg5 might be correct, here
+[20:32:07] semlegesnev: The queenside seems pretty locked in after an eventual a6... Take the draw and let me get back to the match lmao
+[20:34:09] handknit: (24.Rab1) Black recovers the c-pawn, the 2v1 on the queenside is more active than the extra h pawn
+[20:34:24] handknit: (24.Rab1) Though the fact that black is forever in a mating net probably matters a lot
+[20:35:55] handknit: (24.Rab1) 24...Rec8 25.Rb3 b4 and I can see things going wrong for white quickly
+[20:39:29] handknit: (24...a5) Another shot for Bg5 here. Defending the rook on c1 does a lot here
+[20:40:30] handknit: (25.a3) Maybe Rec8 Be7 is the plan
+[20:41:01] handknit: (25...Rec8) drop c3, stick the bishop on c5, draw
+[20:42:17] nyanners: white playing for draw? well then :o
+[20:42:17] handknit: (26.Be7) draw is match win
+[20:42:32] nyanners: yea i meant it like that
+[20:42:32] nyanners: that helps :o
+[20:42:47] handknit: (26.Be7) but I think also after Rc4 was on the board, draw is what this was
+[20:43:33] nyanners: umm a bit scarier than locking the rook
+[20:43:33] semlegesnev: Hmm, I would have been happier if that rook stayed on the 8th rank
+[20:44:19] semlegesnev: Is a4 an idea?
+[20:44:34] handknit: (28...Rxa3) oh
+[20:44:34] semlegesnev: Oh well
+[20:44:34] handknit: (29.Bxa3) very well then
+[20:44:49] nyanners: that does help
+[20:45:04] handknit: (29...b4) make it hard, make em squirm
+[20:45:19] handknit: (29...b4) just take on b4, imo
+[20:45:35] nyanners: yea at this situation id definitely take though its definitely suboptimal
+[20:45:35] handknit: (29...b4) simplify if right out
+[20:45:35] semlegesnev: Id just take it
+[20:45:35] nyanners: or well, what does suboptimal mean? not this probably
+[20:46:05] handknit: (29...b4) Bxb4 does the most important thing which is that it totally kills black's play
+[20:46:20] handknit: (30...axb4) then you have infinite time to win R5vB4 eventually
+[20:47:07] handknit: (31...Kg7) f4-g4, bring the rook to d6, push f5
+[20:50:56] semlegesnev: Rule #7: free pawns shall be taken
+[20:50:56] handknit: (37.Rxe6) 37.f4+ Kh5 38.Rh7#
+[20:51:27] handknit: (37...f4+) now for white to not get mated on f3
+[20:51:27] semlegesnev: When you have mate, look for something better (Rule Freestyle)
+[20:52:28] handknit: (40.Rxf4) okay, weird mate threat parried
+[20:52:43] semlegesnev: Take it and e promotes
+[20:55:16] handknit: (43.e7) chug chugga
+[20:55:31] semlegesnev: Gg
+[20:55:46] bufferunderrun: gg
+[20:59:20] nyanners: gg
