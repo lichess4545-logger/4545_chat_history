@@ -1,0 +1,131 @@
+Lichess game chat log
+Game      : https://lichess.org/5OVw8T8p
+White     : kayrosas
+Black     : king12-life
+Time      : 45+45
+Captured  : 2026-07-21 21:51:31 UTC
+Game ended : 2026-07-21 20:31:21 UTC
+Messages  : 121
+────────────────────────────────────────────────────────────
+
+[18:01:28] kayrosas: uh i wanted to play 4.Nf3, oops
+[18:03:30] kayrosas: a5 is new to me so at least not some deep prep
+[18:07:50] kayrosas: bit of a weird position with Qe2. haven't really looked at these without a queen trade
+[18:14:42] kayrosas: 9.b4 was probably more critical i guess. i do recall Nb3 against 8...f6 i think so, tho always an idea
+[18:14:42] king12-life: (12. Nd4) Why did it take me like 2 minutes to see that Nb3 is a threat
+[18:14:57] kayrosas: 7...f6 actually, or idk
+[18:16:29] kayrosas: 13.Nb5 should be desirable i think? helps me untangle a bit, dont think the Bd7 is bad enough to justify not doing it
+[18:20:33] kayrosas: i think i need to play f4 either way so just do that before committing to Nb5
+[18:23:20] kayrosas: 13.Qg4/h5 maybe
+[18:25:07] kayrosas: as usual boring chess is my answer
+[18:26:38] kayrosas: probably gonna have to go Be2 to keep a square for my queen
+[18:27:56] kayrosas: not playing very inspired so far. still annoyed i just didn't play my prep
+[18:28:42] kayrosas: feels like one of those positions where black eventually plays a bad f6 and i react wrong
+[18:30:30] lucon2000: Yesssssssssss at was new for him
+[18:30:30] lucon2000: *a5
+[18:30:30] lucon2000: Wonderful :DD
+[18:30:45] king12-life: (15... O-O) c4 seems interesting, wanna go for Qc6 in those lines I think
+[18:30:45] king12-life: else f6 probably
+[18:31:00] king12-life: g5 as a plan did not look appealing at all
+[18:31:00] kayrosas: 16.a4 might be desirable so i can go Bd3 without worrying about my queen. but not sure if f6 is quick there
+[18:31:31] duty5521: he prepped a5 while in vc with me
+[18:31:46] duty5521: otherwise I think the engine liked Qa6 with a crazy line
+[18:32:01] lucon2000: Yeah Qa6 is standard
+[18:32:32] lucon2000: But it was too lame, even for a Caro player
+[18:32:32] lucon2000: Very astounding
+[18:33:02] kayrosas: Qb3-d1 is also always kinda slow if I get Bd3, so maybe not the play
+[18:33:48] lucon2000: Also that feeling of instinctively blitzing out 4.dxc5 and then realizing you wanted to play 4.Nf3... Been there done that lol
+[18:35:35] lucon2000: Poor Kayrosas, I almost feel empathy here. Ruins the mood for the whole Rest of the game
+[18:37:06] kayrosas: oh also 16...f6 Bg4 lol, Nf5 Bxf5 exf 0-0-0 could be strong, but Ra6 instead of Nf5 looks annoying Im afraid
+[18:38:07] king12-life: (16. Be2) f6 Bg4 so probably Nf5 first
+[18:41:56] king12-life: (17... f6) I think my position is quite fine, I might take control of the e4 square via d6 (if white doesn't play g4 now)
+[18:41:56] king12-life: Also can get loads of counterplay via the f-file which will open
+[18:42:27] king12-life: And my sister brought me M&Ms for good luck :)
+[18:42:42] duty5521: yay
+[18:43:43] godgifu: goo kayrosas!
+[18:44:28] king12-life: (18. exf6) Rxf6 with Nd6 g5 ideas also looks fun...
+[18:44:44] kayrosas: 18.exf6 visually it looks like i'm in trouble a bit but can't see it. weak e6 + bishop pair should be good
+[18:46:00] king12-life: (18... Nxf6) But Rxf6 offers nothing immediately and Nxf6 simply looks more logical
+[18:46:30] king12-life: Threatening Qxf4 and planning Nd6 Ne4
+[18:47:01] king12-life: Nd6 basically forces Bc5, else the knight will stay on e4 forever, and the goal is to keep f4/the f-file as a weakness
+[18:47:47] king12-life: Maybe that's not super realistic after 19. g3 but I'll at least get the e4 square
+[18:49:34] kayrosas: 0-0 Qxf4 could be annoying. Bc5 Qg5 Bxf8 Ne3 Rf2 Ne4
+[18:50:35] duty5521: aren't you a piece up though
+[18:51:05] king12-life: omg duty congrats for new bullet peak :D
+[18:51:21] kayrosas: Bc5 at there end there probably works
+[18:51:21] duty5521: why is he looking at my profile
+[18:51:21] duty5521: and my peak is like 1 Elo more than yesterday
+[18:52:37] king12-life: (19. O-O) Hm that's indeed a move I did not see Bc5 xd
+[18:52:52] king12-life: Though the imbalance does not look too bad
+[18:53:23] duty5521: is it like not a pawn for a piece
+[18:53:23] duty5521: how is the imbalance not too bad
+[18:53:38] duty5521: eh i guess not the same variation and you just take
+[18:54:24] king12-life: Qxf4 Qxb7 also could be possible... less fun
+[19:05:51] king12-life: (19... Ne4) Most promising line I looked at was Qxf4 Bc5 Qg5 Bxf8 Ne3, but I think Bf3 holds, and if white plays Qxb7 before it could ...
+[19:05:51] king12-life: ...be even worse
+[19:06:37] king12-life: (20... Qc6) I didn't think much of Bb6 because of Qc6
+[19:06:52] king12-life: Maybe a4 is good though
+[19:09:40] king12-life: (20... Qc6) a4 Qxb5 axb5 a4 Bd1 Nd2 Rf2 Nc4 Bc5 Rfc8 Bb4 b5 holds ?
+[19:10:10] king12-life: no there is a pawn on b5 I can't play b5
+[19:10:41] king12-life: But Nfd6 for Bxa5 Nxb5 is fine ig
+[19:11:41] king12-life: (21. a4) Nfd6 also an option
+[19:12:12] king12-life: But then Qxc6 bxc6 b4 I guess
+[19:12:12] king12-life: no c3 is hanging aight
+[19:13:29] kayrosas: not really happy with the endgame after 21...Nfd6 but it's there are some dynamics
+[19:22:37] king12-life: (23... Kf7) Ultimately rejected Rfb8 because of Bxe6+ Kh8 Bd4 with f5 f6 ideas which looks very annoying
+[19:30:47] king12-life: (24... c5) I think this looks good
+[19:33:51] king12-life: (26. Rfe1) Looks very defensive
+[19:36:55] king12-life: (27... Nc4) Time to start trusting my intuition more
+[19:43:17] king12-life: (31... d4) Seems tough to make more progress
+[19:53:11] kayrosas: i kinda just want this game to end
+[19:56:45] grzybozbur: "seems tough to make progress", strangles white to death 3 moves later
+[19:58:17] grzybozbur: you could maybe try g4?
+[19:58:17] king12-life: (35... Kf6) g4 h5 h3 Rb3
+[19:58:32] grzybozbur: yeah
+[20:00:19] duty5521: Rb4 looks strong
+[20:00:34] duty5521: yep
+[20:09:12] king12-life: (41. Bb2) omg was about to play Ne3
+[20:09:12] king12-life: lock in
+[20:09:58] duty5521: take b2 and Rb4 probably the easiest
+[20:11:45] duty5521: alright Rd6 works
+[20:12:15] grzybozbur: i liked rb4 better
+[20:12:46] duty5521: yeah probs easier? idk
+[20:12:46] grzybozbur: rb4-pa4 and white should have no counterplay
+[20:13:01] duty5521: Rb4 Rxa5
+[20:13:16] duty5521: oh you meant the move before
+[20:13:16] duty5521: yeah
+[20:13:32] grzybozbur: yes
+[20:15:03] duty5521: hey isn't there f5
+[20:15:19] grzybozbur: should still be lost? i think?
+[20:15:19] duty5521: d3 i think
+[20:15:34] duty5521: and black is still winning
+[20:16:35] duty5521: complicated
+[20:19:23] kayrosas: phew
+[20:19:23] duty5521: ouch
+[20:22:42] kayrosas: not sure if it is worth to walk my king to f4 instead
+[20:22:42] kayrosas: probably shouldnt matter
+[20:30:04] duty5521: not even g8 bruh
+[20:31:21] kayrosas: gg
+[20:31:21] king12-life: gg
+[20:31:21] kayrosas: sry for the swindle
+[20:31:36] king12-life: I'm getting used to those
+[20:31:36] king12-life: lmfao
+[20:31:36] kayrosas: aw :(
+[20:32:07] kayrosas: i wanted to play another line but autopilot went 4.dxc5
+[20:32:07] king12-life: oh
+[20:32:07] king12-life: what did you wanna play ?
+[20:32:22] duty5521: 4. Nf3
+[20:32:22] kayrosas: Nf3 with Qxd4
+[20:32:22] king12-life: haven't looked at this in a very long while, would've been very different
+[20:32:53] kayrosas: this c3 line is so weird if black knows it
+[20:33:53] king12-life: I find it so interesting
+[20:33:53] king12-life: Well not Qa6
+[20:33:53] king12-life: But this
+[20:33:53] king12-life: :)
+[20:36:26] kayrosas: i just couldnt really make sense of my queen on e2
+[20:36:56] king12-life: Fair
+[20:36:56] king12-life: I thought you'd go for Qg4 ideas tbh
+[20:36:56] kayrosas: engine is saying 12.0-0-0 is apparently fine lol
+[20:37:12] king12-life: Nb5 felt weird
+[20:37:27] kayrosas: yea i just didnt know what else to do
+[20:37:27] king12-life: yeah there are opposite castling lines
