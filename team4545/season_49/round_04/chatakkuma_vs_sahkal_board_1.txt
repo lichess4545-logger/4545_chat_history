@@ -1,0 +1,153 @@
+Lichess game chat log
+Game      : https://lichess.org/xT72Xvjn
+White     : chatakkuma
+Black     : sahkal
+Time      : 45+45
+Captured  : 2026-07-21 15:26:24 UTC
+Game ended : 2026-07-21 14:06:18 UTC
+Messages  : 143
+────────────────────────────────────────────────────────────
+
+[11:05:36] sahkal: (2) expecting a very specific line in the queen's gambit accepted, so let's see
+[11:06:06] sahkal: (3) oh, c3 instead. looks like a mouse slip maybe
+[11:06:36] sahkal: (3) but maybe not, opponent not asking for a takeback
+[11:07:38] sahkal: (3) i could play e6, or bishop out first and then e6
+[11:08:55] sahkal: (3) bishop out first allows Qb3 with an attack on b7, then Qc8 should be fine
+[11:09:25] sahkal: (3) if i start with c5 he just takes it and it's weird
+[11:09:43] sahkal: (3) e6 is simple and good enough
+[11:12:31] sahkal: (3) g6 also an option
+[11:13:32] sahkal: (3) okay let's play this e6 QGD setup
+[11:15:04] sahkal: (4) now if c5 he has Bxb8 and Qa4+
+[11:15:19] sahkal: (4) so Bd6 first makes sense
+[11:15:34] kamagayajiji: Londonian
+[11:16:20] sahkal: (4) or Be7
+[11:17:36] sahkal: (4) i'm fine with that bishop trade
+[11:19:53] sahkal: (5) now castles or c5, i think no big difference which one comes first
+[11:20:24] sahkal: (5) castling feels a bit safer
+[11:22:11] sahkal: (6) yeah and now c5 looks normal
+[11:23:28] sahkal: (6) let's see which way he wants to do this and then we'll create a game plan based on that
+[11:25:46] sahkal: (7) okay he keeps the d4 pawn for now, so i think control of e5 is important
+[11:26:16] sahkal: (7) i think the queen's knight wants to come to d7 rather than c6 in order not to interfere with the bishop which comes to b7
+[11:26:47] sahkal: (7) but first of course Qe7. so i can play Qe7 right now or b6 Bb7 first
+[11:27:48] sahkal: (7) Qe7 is less committal, something like Qe7 Ne5 b6 and Bb7 looks fine
+[11:29:34] sahkal: (7) Qc7 instead would just be in a bad place on the c file which might open for the rooks. also hangs c5 unless i open the h file, bad
+[11:31:21] sahkal: (8) now Nbd7 is what i wanted, looks playable
+[11:32:07] sahkal: (8) need to look at Nbd7 and moves like e4 or Bh4
+[11:32:52] sahkal: (8) Nbd7 e4 i think that's no big deal, i take it twice and take d4
+[11:33:38] sahkal: (8) Nbd7 Bh4 then i'm the first to break with e5 or cxd4 and then e5, looks fine
+[11:34:09] sahkal: (8) however Nbd7 Ne5 prevents my next move b6
+[11:35:11] sahkal: (8) that's maybe not that great
+[11:36:12] sahkal: (8) so then i could start with b6 instead, but that allows e4
+[11:41:17] sahkal: (8) maybe then Nc6 is better than Nbd7
+[11:43:35] sahkal: (9) and now maybe Qc7 and the c6 knight has e7 to move to
+[11:46:39] sahkal: (10) Ne7 or b6, i like Ne7, get to f5 quickly. but maybe Bh4 is then strong
+[11:49:12] sahkal: (10) Bh4 i probably should move the knight, e8 maybe, and then f5 will always be available
+[11:49:28] sahkal: (10) b6 too early would just make his e4 break stronger
+[11:49:58] sahkal: (10) not sure, i think this is all right and then hopefully i can start playing faster
+[11:51:45] sahkal: (11) and now maybe b6 can come, or Ne8?
+[11:52:30] sahkal: (11) or Nf5 Bf2 but then he's threatening with g4
+[11:54:48] sahkal: (11) Nf5 Bf2 Be7, possible, with Nd6 ideas
+[11:55:33] sahkal: (11) let's just do that, i have no time to think anything through properly
+[11:56:50] sahkal: (12) c4 first also makes sense otherwise there is always dxc5 to calculate
+[11:57:05] sahkal: (12) and blunder
+[11:57:51] sahkal: (12) but then the pressure on d4 is relieved and he plays e4 and i don't like that
+[11:58:06] sahkal: (12) so let's just do Be7
+[12:07:32] sahkal: (13) now he wants g4 and i don't have enough control over e4 to go there really. i could still play b6 and go into e4 as a pawn sacrifice
+[12:08:03] sahkal: (13) probably not the worst idea ever. alternatively there is the move h5
+[12:09:19] sahkal: (13) but h5 is a very scary move to play, long-term big decision
+[12:13:40] sahkal: (13) let's try to play this pawn sacrifice i guess
+[12:19:15] sahkal: (15) or Ne8. there is always some decision to make
+[12:19:15] sahkal: (15) and no time
+[12:21:33] sahkal: (16) don't think Bxh7 works, otherwise moves like Nf5 and Bb7 on the agenda, eventually g6 and f6
+[12:23:04] sahkal: (16) maybe g6 first to prepare Nf5 and f6
+[12:24:52] sahkal: (16) what if he plays c4?  earlier i think there was something to be said for c4 - b5 instead of b6
+[12:28:26] sahkal: (16) feels like c4 is a good move. other moves look fine
+[12:29:12] sahkal: (16) as c4 gets rid of either my d5 or my e6 pawn and i want both of those guys to stay put
+[12:30:13] sahkal: (16) possibly not such a big deal anyway, we'll see
+[12:35:18] sahkal: (16) he might play h4, then g6 h5 Ng7-f5
+[12:36:19] sahkal: (16) another option to include c4 before he plays it
+[12:36:50] sahkal: (16) that looks like the thing to do
+[12:38:21] sahkal: (17) if Bc2 g6, if Be2 maybe f6
+[12:45:29] sahkal: (18) trying to get the knight into f5, bishop to b7, and play f6
+[12:46:45] sahkal: (19) and trying to survive until he goes down on time
+[12:47:15] sahkal: (20) that's interesting because can i not recpature with the f pawn and open my rook?
+[12:51:37] sahkal: (21) now i want Bd6 and taking the knight
+[12:52:23] sahkal: (21) e4 is a bit scary, but taking it should be fine i guess
+[12:55:10] sahkal: (21) difficult position
+[13:04:53] sahkal: (23) not sure what to do now with the queen's bishop and rook, just connecting the rooks for now
+[13:05:08] james2998: 23...bd7. what is the plan for white? nh4 and bd1, with attacking ideas and sacrifices on g6?
+[13:05:54] sahkal: (24) Rad8 and Bc8 maybe, because i like having the queen look directly at h7 and g7
+[13:07:25] rajjsinghh: mutual time pressure favours white who at least has the more threatening position
+[13:08:11] sahkal: (26) or Be8
+[13:11:45] sahkal: (27) the last time we played it was also a very good fight
+[13:12:00] sahkal: (27) okay now take on e5 right?
+[13:14:02] sahkal: (29) maybe double rooks on the f file
+[13:14:17] mennonite: that was my idea
+[13:15:18] sahkal: (29) now that his king starts going towards the queenside i think a5-b4 is reasonable
+[13:15:33] james2998: it's very generous of sahkal to comment moves in time preasure
+[13:15:48] rajjsinghh: he's just like this
+[13:16:19] fischer_and_chips88: yeah the time pressure here is tough for both players, props for keeping up the commentary
+[13:17:20] sahkal: (31) Nf4 Bf7 is the idea and then bxc3 and going in with the queenie
+[13:17:20] rajjsinghh: Rxh5 and Qxe6+?
+[13:18:06] fischer_and_chips88: hence Bf7 I guess
+[13:18:21] mennonite: I was trying to calculate that idea
+[13:18:52] rajjsinghh: Bf7 doesn't hel, it's there because Nf4 was another attacker
+[13:19:22] rajjsinghh: I'm guessing white doesn't want a speculative sac in time trouble
+[13:19:38] mennonite: I don't really see what Black actually wants to concretely achieve on the queenside.
+[13:20:08] mennonite: all the potential penetration squares are well covered
+[13:21:09] rajjsinghh: well c3 is a weakness in the endgame and the rook is better on b8
+[13:21:55] rajjsinghh: at least it's something to work with, which is more than he's had
+[13:25:43] sahkal: (36) Rb2 would've been met with Bxg6, so maybe a4-a3 first
+[13:26:29] sahkal: (37) but i'm not sure yet, let's keep the positiion
+[13:26:44] sahkal: (37) now he lets me in to b1
+[13:27:45] sahkal: (37) that has to be good for me
+[13:30:18] sahkal: (39) now Rb2 would trade a pair of rooks
+[13:30:18] rajjsinghh: white's losing the thread a little
+[13:32:04] sahkal: (41) now the queen is very strong there deep in his position
+[13:34:07] sahkal: (42) preparing Rb8-b1
+[13:36:58] jokicinator15: (43...Rb8) oh whoa
+[13:37:13] jokicinator15: (43...Rb8) i woke up to some craziness here
+[13:37:28] sahkal: (44) Be8 was much stronger instead of Rb8!
+[13:39:30] rajjsinghh: jokic you missed a crazy game
+[13:40:16] jokicinator15: (46...gxh5) sure seems like it, clicking through this is nuts
+[13:41:48] fischer_and_chips88: the time situation as well, very impressive
+[13:42:04] fischer_and_chips88: Sahkal 2600 bullet too
+[13:42:49] rajjsinghh: i've noticed he's very grischuk like
+[13:43:05] sahkal: (48) i misplayed it a little bit, but hopefully it's still fine
+[13:43:50] sahkal: (48) Qa3 possibly next to defend f8
+[13:46:54] sahkal: (51) that move! doesn't Bg6 now trap the queen?
+[13:47:39] sahkal: (51) this has to be very strong
+[13:48:10] rajjsinghh: yeah thatll do it
+[13:48:10] fischer_and_chips88: queen in jail
+[13:48:10] sahkal: (51) Rb1 and Nf5 ideas
+[13:48:55] sahkal: (52) this one now allows Rd1 which should win decisive material
+[13:51:28] sahkal: (53) nice try, but i think Rxe1 Kf2 Re4 Bxe4 dxe4 and then Nf5 should do the job
+[13:53:31] sahkal: (55) dxe4 Ra6 Nf5 Ra8 Kf7 e6 Kxe6 Qf8 Qxf8 Rxf8 looks like big advantage
+[13:54:16] sahkal: (55) but Ra6 Qf8 first is even better
+[13:55:02] sahkal: (56) Nf5 he might also do Rxg6 and that should be a win i think
+[13:56:18] sahkal: (57) oh but now there is no Nf5
+[13:57:19] sahkal: (57) but okay the strong queen should do the job
+[13:58:20] sahkal: (57) probably should've done e3 first, looks even stronger
+[13:59:52] sahkal: (59) what is e6?
+[14:00:07] sahkal: (59) e3 now right?
+[14:00:52] rajjsinghh: beautiful move
+[14:01:23] sahkal: (59) no stalemates
+[14:02:12] sahkal: (61) trade and a4
+[14:02:43] rajjsinghh: i really like this conversion
+[14:03:14] sahkal: (63) he is a tempo short of saving it
+[14:03:30] fischer_and_chips88: enjoyed the 'does the job' approach
+[14:04:46] fischer_and_chips88: wow chata still fighting with the pawns on the 6th
+[14:04:46] sahkal: (65) f7 Kf8 cleanest
+[14:05:32] sahkal: (65) this one i queen and then take d7 is good enough
+[14:05:47] jokicinator15: gg
+[14:06:02] rajjsinghh: the one trick is dxe8 mate so you may as well play til it's off the board
+[14:06:02] fischer_and_chips88: gg
+[14:06:02] rajjsinghh: gg
+[14:07:34] chatakkuma: 17.Bxc4 maybe an option
+[14:08:04] sahkal: oh i didn't even see that
+[14:08:19] sahkal: doesn't work
+[14:08:35] sahkal: knight takes knight takes bishop pin
+[14:08:50] chatakkuma: 17.Bxc4 dxc4 Qxa8 Bb7 Qxa7 f6 I was a bit worried that Qc6 and light squares are weak
+[14:09:20] chatakkuma: didn't want to go for complications, just Bc2 looks nice
+[14:09:36] chatakkuma: you defended very well
+[14:09:51] chatakkuma: I didn't see a clear way through
