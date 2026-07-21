@@ -1,0 +1,71 @@
+Lichess game chat log
+Game      : https://lichess.org/YrtuTPe6
+White     : king_hunter-1
+Black     : sylvlondon
+Time      : 45+45
+Captured  : 2026-07-21 18:00:36 UTC
+Game ended : 2026-07-21 16:40:27 UTC
+Messages  : 61
+────────────────────────────────────────────────────────────
+
+[15:01:36] joonaf: go sylv!
+[15:07:12] robertjackson: Go Artur
+[15:08:14] scarff: Good luck Artur! Already looking like an interesting game
+[15:17:25] sylvlondon: Qc6 is end of my quick clicking around prep. Normaly I was expecting Qd3 instead of f3. Now I have to understand the position ...
+[15:23:32] lorb: is black gonna castle, and to what side?
+[15:31:09] joonaf: would 17.Ba7 be dumb? Ba7, b6, Qe3
+[15:31:40] joonaf: oh wait
+[15:31:40] joonaf: then just Kb7
+[15:31:40] joonaf: I am dumb
+[15:32:41] scarff: It is an interesting idea, to try to keep the king more towards the centre
+[15:33:42] scarff: I was thinking Na4 to b6 maybe. Or Rd3, to allow Rh1 or maybe Rc3 later
+[15:34:27] lorb: if you really want that Ba7 line, you could try with Na4 instead of Qe3 maybe
+[15:34:58] lorb: though there is no guarantee that Ba7 is followed by b6
+[15:37:16] lorb: well, it appears we will actually see
+[15:38:02] joonaf: So the move wasn't dumb, only me
+[15:38:02] lorb: so b6-Na4-Kb7-Qe3 doesn't look too god for black in my eyes
+[15:38:33] joonaf: if Na4, Kb7, then White could just Bxb6?
+[15:38:48] joonaf: so b6 not possible I guess
+[15:40:34] lorb: I suppose what you mean is that Kb7 is not it? b6-Na4-b5 seems possible. but overall, b6 is maybe just not the move
+[15:40:34] scarff: Maybe Rd7 Bd8 as a plan for black? That DSB could be nicer on the queenside
+[15:41:05] lorb: well xD
+[15:42:06] sylvlondon: I don't see how he save his bishop Nd7 and Kb7 is coming ...
+[15:43:07] joonaf: okay, I'll shut up :P
+[15:43:53] lorb: 19.Qf7 would be fun? going for total chaos
+[15:46:10] sylvlondon: I didn't saw any problem after Rc3 Qb5
+[15:46:25] matthewhuber: go sylvlondon!
+[15:48:27] sylvlondon: Well Rc4 is the problem ...
+[15:59:23] sylvlondon: oups I didn't consider Qe2 ...
+[16:00:24] scarff: Looking complicated, but feels like white is saving what looked like a poor bishop placement
+[16:01:10] scarff: Has been hanging, but so far not takeable it seems like
+[16:01:40] sylvlondon: I'm toasted ...
+[16:03:58] sylvlondon: very poor calculation from my side ...
+[16:06:15] scarff: Probably long term lost with these sad pawns for black
+[16:16:43] sylvlondon: The problem is that my queen is stuck to defend c5 ... I have no counterplay :-(
+[16:22:05] nxn: I am late  , why not 21.. Kxa2 ?
+[16:31:15] timothyha: (38.gxf6) such a cool way to achieve f6
+[16:32:00] nxn: the  problem how white will make his rook join
+[16:32:16] timothyha: (38...Qe6) and knight
+[16:33:16] timothyha: (39.f7) Nxc5 threat I guess
+[16:33:16] nxn: may try to draw with e1-f1
+[16:34:17] nxn: if Rf8 yes
+[16:34:48] timothyha: (39.f7) even without Rf8
+[16:34:48] nxn: but Rxc5
+[16:35:34] timothyha: (39...Bf8) Nxc5 is an exchange now
+[16:35:50] nxn: would prefere Qe7 not Bf8
+[16:36:20] sylvlondon: I'm trying to build a fortress ...
+[16:36:20] timothyha: (39...Bf8) Qe7 would defend c5, yes
+[16:36:36] nxn: and  stop f8  = Q
+[16:38:09] nxn: RxR
+[16:38:25] nxn: bxr = q
+[16:39:10] nxn: oopps
+[16:39:41] timothyha: gg!
+[16:40:12] king_hunter-1: Yeah, Sa7 is definitely a bad blunder
+[16:40:42] king_hunter-1: For some reason, I missed the simple move Nd7
+[16:40:58] king_hunter-1: Ba7*
+[16:41:13] sylvlondon: Ba7 looks weird ... just calculated poorly .
+[16:41:59] king_hunter-1: Yeah, that was a stupid move on my part; for some reason, I thought b6 wouldn't be a problem
+[16:42:29] king_hunter-1: I was very lucky that you chose 21...a5.
+[16:43:30] king_hunter-1: Yeah, neither of us played our best
+[16:45:47] sylvlondon: god after Rc4, I have 6 or 7 winning move ...
+[16:48:21] king_hunter-1: Haha, yeah, I have to admit we both played questionably
