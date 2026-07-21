@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/UzqyadGb
+White     : upgoerfive
+Black     : rufelos
+Time      : 45+45
+Captured  : 2026-07-21 20:12:50 UTC
+Game ended : 2026-07-21 18:52:46 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[17:02:45] timothyha: go, @Rufelos
+[17:03:15] upgoerfive: evidently not wanting to repeat our panov game, though they won it
+[17:04:16] joonaf: Go Up!
+[17:19:01] matthewhuber: ugf go!
+[17:20:33] scarff: Let's go Arthur! Good luck!
+[17:21:03] scarff: Maybe Nxc2+ now, and then cxb5? Wins a pawn it looks like
+[17:22:04] timothyha: (8.a3) why not start with Bxf3 :-)
+[17:22:19] timothyha: (8.a3) that's a big mess though
+[17:23:05] timothyha: (8.a3) but I think Bxf3 makes it all fun
+[17:24:52] rufelos: a6 doesn't sound right, but should I take on c2 or d5?
+[17:25:53] timothyha: (8.a3) all this while Black considers Nbxd5, another good choice
+[17:28:26] timothyha: (8...Nbxd5) in all lines Bxc6 is a check I think
+[17:29:27] timothyha: (8...Nbxd5) here there's e5-e4 soon
+[17:40:54] king_hunter-1: 8...Nxd5 — I think Black has a good position and a strong center
+[17:42:26] thegreattoddman: Good luck Rufelos and UpGoer
+[17:43:12] king_hunter-1: 9.Bg5 cxb5 10.exd5 e4 — can Black play this way?
+[17:44:59] king_hunter-1: After 11.Qe2 Qe7, it looks like Black wins a piece
+[17:44:59] king_hunter-1: Or am I missing something?
+[17:44:59] rufelos: candidate moves are take on b5, queen check on a5.
+[17:45:14] scarff: Maybe h3 keeps some kind of balance after black plays e4?
+[17:45:44] scarff: I was thinking Qa5+ Nc3 Nxe4
+[17:46:45] king_hunter-1: It’s a tricky position; precise calculation is required
+[17:47:31] king_hunter-1: After Qa5 Nc3, couldn't Black simply play Nxc3?
+[17:48:03] king_hunter-1: Although Nxe4 might be stronger
+[17:49:19] scarff: Maybe yes. I didn't even consider Nxc3, somehow missed that that knight on d5 could take already
+[17:49:50] king_hunter-1: But in that line, White still has Bxc6
+[17:50:20] king_hunter-1: I think Black has several ways to gain a significant advantage here
+[17:50:51] scarff: I think so too. Simplest to me seems Nxd5, just up 2 centre pawns
+[17:51:21] king_hunter-1: Now the main thing for Black is to convert the advantage
+[17:55:25] invinci7777: nd2
+[17:56:26] invinci7777: though nc3 then
+[17:56:41] invinci7777: tough position for white
+[18:01:47] rufelos: candidate moves are Bxd1, exd4, or Qxb4 (seems wrong)
+[18:03:04] genturgidson: Bxd1 Nxb5 Bxc2?
+[18:03:49] genturgidson: I don’t think Nd4 was a good move?
+[18:06:38] rufelos: Qxb4 check, axb4, Bxd1, Kxd1, exd4... seems right
+[18:08:26] genturgidson: Bxd1 looked just as good to me, and less to go wrong.
+[18:55:04] king_hunter-1: gg
