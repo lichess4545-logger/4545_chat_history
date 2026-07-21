@@ -1,0 +1,31 @@
+Lichess game chat log
+Game      : https://lichess.org/vGJkj3gz
+White     : langew0w
+Black     : dajrokan
+Time      : 45+45
+Captured  : 2026-07-21 21:42:19 UTC
+Game ended : 2026-07-21 20:22:15 UTC
+Messages  : 21
+────────────────────────────────────────────────────────────
+
+[18:11:40] langew0w: honestly, I just do my maroczky setup without thinking
+[18:11:55] langew0w: i want b3 and f3
+[18:12:26] langew0w: should have played f3 before be3, too much autopilot rn
+[18:19:18] fatdog216: Go Dajrokan!
+[18:37:52] scotchwhisky: go Lange!
+[19:35:07] scotchwhisky: 25. Nd4 followed by 26. Nc6 seems like an interesting idea, even though bxc4 happens
+[19:35:37] scotchwhisky: counterplay on the queen and e7 pawn
+[19:59:34] langew0w: im so lucky that my passed pawns are on the edge. I think this is a draw
+[19:59:49] langew0w: because he has to sack a minor piece for my pawn at some point and we will end with a minor piece for minor piece
+[20:01:36] langew0w: thinking about bd2 or be1
+[20:02:22] langew0w: if be1, ne4 I can push my pawn
+[20:02:37] langew0w: but if bd2 he can attack my bishop, I dont know if thats a draw or not
+[20:03:38] langew0w: I think Bd2 is a draw. Bd2, ne3, Be3, takes, takes, push H-pawn, king chases and takes, I take the F-pawn and we will trade A pawn
+[20:04:08] langew0w: seems pretty forced that line
+[20:06:41] langew0w: uhh, what about Nb3!
+[20:06:56] langew0w: well surely I just go Be1 and transition into the last line
+[20:06:56] langew0w: okay, wtf, lets calc
+[20:09:13] langew0w: my king can never really step onto a dark square, so its pretty locked here
+[20:11:00] langew0w: he can take my h-pawn I will always be able to get the F-pawn in return
+[20:22:00] scotchwhisky: gg
+[20:23:01] scotchwhisky: nice hold
