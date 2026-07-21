@@ -1,0 +1,75 @@
+Lichess game chat log
+Game      : https://lichess.org/Uv2vNH34
+White     : duty5521
+Black     : s4ad1st
+Time      : 45+45
+Captured  : 2026-07-21 11:42:24 UTC
+Game ended : 2026-07-21 10:22:20 UTC
+Messages  : 65
+────────────────────────────────────────────────────────────
+
+[08:06:33] duty5521: [14... Re8] Good position, I'm pretty sure I followed the prep. Had to go feed my cat, fortunately my opponent didn't play fast
+[08:08:04] king12-life: (15. Na3) yay up a pawn
+[08:22:18] duty5521: [18. Bd5] Actually can't find a good continuation this is crazy
+[08:27:08] king12-life: Not so crazy to me tbh it can be hard to play with material against initiative
+[08:28:54] duty5521: hey Kartoffe1
+[08:37:34] duty5521: Okay I think I found something? I need to play b3 otherwise where is my dark-squared bishop going and on a6 I initially wanted to ...
+[08:37:34] duty5521: ...trade but I don't know if it's a good idea, Qxc6 doesn't look good
+[08:38:19] king12-life: yes duty Bf1 that's the position we like when up a pawn
+[08:38:34] duty5521: Initally didn't like Rxe1+ Nxe1 a6 I didn't know where to go from there
+[08:38:50] king12-life: (no sarcasm intended)
+[08:46:43] duty5521: [21... Rd8] I would have though f4 to restrict even more my pieces, can't I play d3 now? h6
+[08:46:43] duty5521: is too slw
+[08:48:45] duty5521: I could continue with b3 too but I don't see why refrain myself from putting by bishop in the center rather than on a3 or b2
+[08:56:08] king12-life: Black might be rushing too much, still has 40 minutes on their clock and white is making huge progress in terms of development
+[08:56:53] duty5521: [24... Qc7] What's wrong with Bf4?
+[08:57:24] duty5521: oh Nf3 i guess
+[08:57:24] king12-life: Nf3+ yea
+[08:57:24] duty5521: but Wx
+[08:57:39] duty5521: Qx not sur what W is
+[08:57:39] king12-life: oh ye
+[09:04:46] duty5521: [26. Qd2] I guess I gotta play g3 now
+[09:07:49] duty5521: [27... Bxa2] what
+[09:08:19] duty5521: [29. c4] I have Qe2, right?
+[09:11:53] duty5521: [30. Qe2] I was going to say "that's called a fork", but this is just a double attack not a fork
+[09:17:13] duty5521: [33... Qe8] hey not cool man :(
+[09:39:22] duty5521: [55. qb7+] finally trading queens aaaaaaaaaaaaaaa
+[09:40:53] duty5521: [57. Nd3] have to start with Nd3 otherwise Kg2 h1=Q+ Kxh1 Bxf2
+[09:43:10] karasso: we might see a knight+bishop mate
+[09:46:28] duty5521: yay en passant
+[09:50:32] duty5521: [66. Be6] Now comes the final pain
+[09:50:48] duty5521: getting that c pawn
+[09:51:49] king12-life: White only has two pieces which can attack it... and black can defend it twice
+[09:52:19] king12-life: Though the bishop should stay on the a7-g1 diagonal, easier to defend
+[09:52:35] king12-life: If the king gets on a4 it could get tricky if the bishop is on b4/a3
+[09:56:24] king12-life: Looks like it should be drawn somehow... can't find a way to progress for white
+[10:00:43] duty5521: [70... Bc3] Okay, I think I got it
+[10:00:58] king12-life: hmm let's see
+[10:01:13] karasso: white should be able to get his king to d5
+[10:01:59] karasso: transfer the knight to f5
+[10:01:59] king12-life: Ne2-g3 was quicker for thi
+[10:02:14] king12-life: this
+[10:03:15] king12-life: yeah when the king is on d5 it looks winning
+[10:04:16] karasso: but white has other plans. The knight controls c7 s blackm king can't go to b6
+[10:04:16] karasso: and white goes to b5
+[10:04:47] karasso: then knight goes to e4 picking up the c5
+[10:07:04] karasso: question remains, if white will try/can to promote the pawn without allowing black to sac the bishop for it
+[10:07:19] king12-life: well KBNvK it probably is
+[10:07:19] karasso: or if he is confident in his N+B mating skills
+[10:07:19] king12-life: Though promotion is worth a shot for sure
+[10:07:34] duty5521: [82. Nxc5] Great! Now, let's checkmate with knight and bishop lol
+[10:07:34] king12-life: well we got our answer
+[10:09:21] duty5521: [83. Nb7] I truly have no other way I think lol
+[10:12:55] king12-life: This might end up as one of the longest league games of the season :D
+[10:15:12] duty5521: [93... Kf6] Good lord this game
+[10:17:30] duty5521: [103... Kc7] 100???? I know what I did was the optimat way, but I have no idea what to do on Kc7
+[10:18:01] king12-life: (104. Nd7) Yes! and Kc6 Bd3
+[10:21:50] king12-life: GG
+[10:22:05] karasso: gg
+[10:22:36] karasso: nicely done the N+B mate
+[10:22:36] duty5521: thx
+[10:25:38] duty5521: computer thinking Hf6 is a mistake is hilarious
+[10:25:53] duty5521: Kf6
+[10:26:24] duty5521: you were really tricky
+[10:31:45] s4ad1st: oh haha
+[10:31:45] s4ad1st: i mean it's a forced mate either way
