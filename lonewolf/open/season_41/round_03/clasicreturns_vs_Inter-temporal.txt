@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/vYGi4Lhr
+White     : clasicreturns
+Black     : inter-temporal
+Time      : 30+30
+Captured  : 2026-07-22 23:45:17 UTC
+Game ended : 2026-07-22 22:25:09 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[21:03:48] inter-temporal: (3.g3) probably gonna pull me right out of my prep
+[21:05:50] inter-temporal: (7.e4)  i had smth but,...
+[21:08:38] inter-temporal: (11...Nbd7) i think Jeffrey Xiong played this line. idk
+[21:09:24] inter-temporal: (12.h4) but maybe it was Nfd7
+[21:15:15] inter-temporal: (13...b5) always sac the b-pawn
+[21:16:01] inter-temporal: (13...b5) i said i was going to sac my b-pawn. so there it is
+[21:18:49] inter-temporal: (14...Qa5) e4 is hangin oc
+[21:21:51] sahkal: now Qc7 just loses a lot of time
+[21:21:51] sahkal: white is ahead
+[21:25:09] sahkal: maybe Qxa4 Bxa4 Rb8 or something looked like good play for black
+[21:27:42] inter-temporal: (20...Qb4) hit e4 again
+[21:31:00] inter-temporal: (20...Qb4) what if a3
+[21:31:31] inter-temporal: (21.a3) retreat or Q trade...
+[21:32:32] inter-temporal: (21.a3) hard to retreat...
+[21:33:48] sahkal: looks quite bad
+[21:34:34] sahkal: Qb3 good move
+[21:34:49] sahkal: maybe
+[21:36:20] inter-temporal: (22...Rxb3) i think Ned3 is a quasi threat
+[21:36:36] inter-temporal: (22...Rxb3) due to ...Bxc3
+[21:37:06] inter-temporal: (23.Bd1) i cna also double on b-, i guess or Rc8... idkfile
+[21:38:53] inter-temporal: (24.b4) undefends c3...
+[21:39:23] inter-temporal: (24...Ned3) and b4 is pinned, i think
+[21:39:54] sahkal: maybe Rbb8 instead and b4 Ned3
+[21:39:54] inter-temporal: (24.b4) not pinned, duh
+[21:40:09] sahkal: possibly
+[21:42:11] sahkal: problem is he would get the pawn to c6
+[21:42:11] inter-temporal: (24...Ncd3) if i retreat i'm probably more dead
+[21:42:41] inter-temporal: (24...Ncd3) but Bd2 or Be3 then maybe ...Nc4
+[21:42:56] inter-temporal: (24...Ncd3) hits a3 too & Nc3
+[21:44:58] inter-temporal: (24...Ncd3) is ...f5 a thing, or bring Rf-qside
+[21:45:29] inter-temporal: (24...Ncd3) ...Rfc8 is smth too
+[21:45:44] inter-temporal: (24...Ncd3) aiming at c1 or idk
+[21:46:14] sahkal: scary for white
+[21:48:16] sahkal: but it's a big advantage
+[21:49:02] sahkal: maybe Ke2
+[21:52:20] sahkal: no Ke2 you take on c1 and Nc4
+[21:53:06] sahkal: Na2 maybe
+[21:55:24] sahkal: okay now let's say Nxe3 fxe3 Nc1 Rb1 Bxc3 Rxc1 Bb2 and we take the a pawn
+[21:55:55] sahkal: right?
+[21:56:40] sahkal: equal position there, maybe black for choice
+[21:58:58] sahkal: i think that works
+[22:00:44] sahkal: oh maybe white can go Nc1 Rb2 but then Bxc3 Rc2 Bxb4 axb4 Nd3 that's even worse for white
+[22:04:03] sahkal: bishop to d2 instead
+[22:04:03] sahkal: strange
+[22:04:18] sahkal: bad probably
+[22:04:33] sahkal: the a3 pawn was more important
+[22:05:19] sahkal: oh no
+[22:05:34] sahkal: it would've been such a good position for a draw
+[22:11:55] sahkal: he really cares about that h6 pawn
+[22:12:10] sahkal: nobody should care about the h6 pawn
+[22:12:10] sahkal: the a3 pawn is the real deal
+[22:18:16] sahkal: now i'm sure white had some sort of very strong attack against the king but he's playing very fast moves instead
+[22:19:32] sahkal: well maybe he always has Ke5-f6 to escape
+[22:20:03] sahkal: so much for that
+[22:21:04] sahkal: wow Rxh6?
+[22:21:19] sahkal: what is going on
+[22:21:51] sahkal: Kf3 looked like huge trouble
+[22:24:08] sahkal: he wants to win like this instead, fine
+[22:24:38] sahkal: just a bit unclear
+[22:25:25] sahkal: ouch
+[22:25:40] inter-temporal: no fair
+[22:25:40] wilsonia: interesting game
+[22:25:55] inter-temporal: i got a little mileage out of sacing my b-pawn.
+[22:26:26] inter-temporal: i told my friend i was gonna sac my b-pawn no matter what. lol
+[22:27:12] inter-temporal: i had watched out for an earlier mate with this move, but...
+[22:27:27] inter-temporal: i was trying to keep some time on my clock
+[22:27:57] sahkal: was an easy draw with 30...Bb2
+[22:28:28] inter-temporal: yeh i went the wrong way
+[22:28:58] inter-temporal: i was still watching my k-side
+[22:28:58] sahkal: yeah you cared about the h6 pawn right?
+[22:28:58] sahkal: haha
+[22:29:13] inter-temporal: hg, fg, Rxh6
+[22:29:13] sahkal: nobody cares about the h6 pawn
+[22:29:28] sahkal: additionally fxg6 comes with check but that doesn't even matter whatsoever
+[22:29:44] inter-temporal: oh yeh. sooo not great analysis then
+[22:30:14] sahkal: so what if he takes h6, you play Kg7 and then take b4
+[22:30:14] sahkal: easy good position
+[22:30:29] inter-temporal: it was kinda inconsistent. like i'd see stuff, then fuzzy, then see stuff, then fuzzy.
+[22:31:35] inter-temporal: i don't understand the endgame here at all yet
+[22:31:35] inter-temporal: just getting slowly outplayed
+[22:32:51] inter-temporal: thanks for watchin. c ya'll in da slack
