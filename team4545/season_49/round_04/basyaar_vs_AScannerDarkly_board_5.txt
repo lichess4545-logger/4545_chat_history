@@ -1,0 +1,68 @@
+Lichess game chat log
+Game      : https://lichess.org/ZDNBtaUx
+White     : basyaar
+Black     : ascannerdarkly
+Time      : 45+45
+Captured  : 2026-07-22 15:46:42 UTC
+Game ended : 2026-07-22 14:26:39 UTC
+Messages  : 58
+────────────────────────────────────────────────────────────
+
+[12:02:37] basyaar: 3rd time tromp in 4545
+[12:04:54] basyaar: raptor
+[12:15:23] basyaar: have to give up the central pawn! So, something has gone wrong
+[12:22:45] scotchwhisky: go scanner!
+[12:34:43] basyaar: White's position is not that bad
+[12:36:14] welpe: I have to agree with him, White's development advantage looks a bit scary + the semi-open file
+[12:37:00] welpe: but I believe that black should be fine, the position is healthy enough and an extra pawn is an extra pawn?
+[12:38:01] basyaar: White needs to find something before black gets his last piece out and castles
+[12:54:20] basyaar: kind of muddled up my thinking
+[12:54:36] basyaar: over-thinking!
+[13:08:49] basyaar: feels like Nxe6 was better on 16th move
+[13:09:20] basyaar: I  would have got one bishop in this open position
+[13:10:05] basyaar: now pawns look ugle e3/f4
+[13:13:24] scotchwhisky: e3 could become a target for black
+[13:13:54] scotchwhisky: double on e-file with rooks
+[13:14:09] scotchwhisky: g2 pawn is also undefended
+[13:14:09] scotchwhisky: (20)
+[13:18:29] basyaar: again muddled
+[13:19:14] basyaar: maybe I am over-worrying about my weak pawn  structure
+[13:20:46] basyaar: I see now Ne5 can be played; if f-file opens I attack f7
+[13:31:29] scotchwhisky: 21...g5 seems like an idea
+[13:32:29] scotchwhisky: if 22. f5, Bg3, and threatens to take, but might be 22. g3 maybe not so great
+[13:33:15] scotchwhisky: but if 22. g3 ...g4?
+[13:35:02] scotchwhisky: wait now just 22...Bg3?
+[13:35:02] scotchwhisky: wins an exchange
+[13:35:33] welpe: Bg3?
+[13:35:48] scotchwhisky: good eye
+[13:36:18] basyaar: ah paying teh price of indecision and skewer!
+[13:40:08] welpe: why not grab the pawn on f5?
+[13:40:53] welpe: ah, nevermind
+[13:58:24] bufferunderrun: 30...c5 looks to win a piece
+[13:58:40] scotchwhisky: yes
+[13:59:26] bufferunderrun: doesn't quite work now, since 31...c5 Nc6, i think
+[14:00:11] bufferunderrun: actually, wait a second
+[14:00:42] bufferunderrun: I think it actually works, since Re2 hangs
+[14:01:27] bufferunderrun: or maybe still not, since white also has Nxc6+ with a fork
+[14:02:13] scotchwhisky: 31...c5 32. Nc6+ Qxc6?
+[14:02:28] bufferunderrun: ah, sorry, I mean Nf3 :p
+[14:02:59] scotchwhisky: oh targeting the rook
+[14:02:59] scotchwhisky: well now he stopped Nf3
+[14:04:15] bufferunderrun: yeah, and for a second I thought Qxa6 targeting Re2 would work, but Nxc6 there
+[14:05:46] welpe: what do you mean with Nxc6 there, in this situation the knight is on f3 and there's nothing on c6?
+[14:06:02] welpe: I'm a bit lost
+[14:06:47] bufferunderrun: 31...c5 Nf3 Qxa6 Nxe5 Qxe2 Nxc6+ if the above was a bit confusing... hmm Kc7 Nxd8 Kxd8 leaves black with an extra piece
+[14:09:50] welpe: there's no pawn anymore in this variation, because we played c5 at the beginning of the line, so it's Nc6+
+[14:10:21] jfiras: Rxe3 ?
+[14:10:36] bufferunderrun: so I guess it was working after all, but it was a bit more simpler on move 30, when the tempo on the queen
+[14:11:22] welpe: yes, seems like it would've been working
+[14:11:22] bufferunderrun: I guess 35.Kd2
+[14:11:52] bufferunderrun: Qc2 drops another pawn after Rxc3, i think
+[14:12:07] bufferunderrun: since Rf2 hangs
+[14:12:07] jfiras: Rxc3 maybe, as the rook on f2 is hanging
+[14:12:07] jfiras: yeah
+[14:12:38] jfiras: white is in trouble :(
+[14:18:59] bufferunderrun: yeah, this is over... Qe5 check doesn't work, just Rc7 or Qe4 preventing Qe8, and the pawns on the K-side roll
+[14:25:53] jfiras: gg !
+[14:25:53] welpe: gg
+[14:31:43] scotchwhisky: gg!
