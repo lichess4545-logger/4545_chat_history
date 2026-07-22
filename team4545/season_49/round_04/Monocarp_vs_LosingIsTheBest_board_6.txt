@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/IrMO3EPB
+White     : monocarp
+Black     : losingisthebest
+Time      : 45+45
+Captured  : 2026-07-22 13:54:50 UTC
+Game ended : 2026-07-22 12:34:45 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[10:17:30] monocarp: (5...e6) surely the d6 pawn will be a weakness long term, right?
+[10:22:50] warvold: (6...g6) Go Mono!
+[10:29:11] monocarp: Hey Warvold!
+[10:31:28] monocarp: (7...h6) so many pawn moves... thinking if it's right to just play e5 to break the centre...
+[10:38:50] monocarp: (10. Nb5) I'd been looking at this position for a while, it seems to warrant the undeveloping ...Bf8 which can't feel good
+[10:42:54] warvold: (11.e5) Hmm, interesting
+[10:43:09] warvold: (11.e5) dxe5 d6
+[10:43:24] warvold: (11.e5) Not that simple tho
+[10:43:39] monocarp: (11.e5) this move also opens up the d3 bishop for tactics on g6 in some lines... I didn't calculate super intently but it has to be good
+[10:44:10] warvold: (11.e5) Maybe dxe5 dxe6 fxe6 Bxg6+
+[10:45:57] monocarp: (11... dxe5) now the main issue is that everything looks good...
+[10:46:58] monocarp: because dxe6 threatens the knight and if fx there's Bxg6, and the other candidate is d6 going to plant a knight on c7
+[10:47:44] genturgidson: Go loser!
+[10:48:15] monocarp: although now I see I've missed the posibillity of ...e4 from a distance
+[10:50:47] genturgidson: Losing might have e4 here but I think white wriggles out easy.
+[10:51:32] genturgidson: Yeah, no, it’s kind of bad...
+[11:01:12] monocarp: (14... Bc6) the line I'd previously seen for this move was Be4. It still looks good to me...
+[11:02:28] monocarp: but this maybe 15. Be4 Qb7 and that's not so clear
+[11:04:18] monocarp: okay, there I *might* have Nd6, but what about 15...Qc8 instead?
+[11:05:49] jdannan: Be4 Bxe4 Rxd7 (what else) Bc6 again?
+[11:06:35] monocarp: wait, a bishop on a4 sees my d1 rook, so Nd6 doesn't work I don't think
+[11:06:51] monocarp: maybe I just need to move the DSB but I wish I had more
+[11:13:31] momor: go Monocarp!
+[11:14:01] monocarp: (15. Qc2) spent ages looking for better
+[11:17:19] monocarp: Hello momor
+[11:19:52] momor: hi good luck
+[11:29:31] monocarp: the main point is I want a good square for my DSB!
+[11:30:37] monocarp: (19... Rh8) althought I'm mindful that the qeen can see h2 with the tempo gaining ...e4
+[11:35:42] genturgidson: this has actually opened nicely for loser, potentially.
+[11:39:02] monocarp: (25. Qxe4) for some reason I'd thought I was going to have two pieces for the rook in this lines instead of being down the exchange. Rats
+[11:41:34] genturgidson: 22.e4 wasn’t on my radar, I was envisioning trying to make some Bxf3 gxf3 Rxg6 Qxg6 Rg8 tactic work by perhaps a quiet move lifting the quee
+[11:41:50] genturgidson: *22...e4
+[11:44:22] genturgidson: I wouldn’t have allowed 26.Qb7+ probably.
+[11:44:53] genturgidson: I guess just Qd7 it’s fine.
+[11:45:23] genturgidson: Or possibly not, endgame without queens may be bad - white has pawns.
+[11:47:10] jdannan: well black's certainly doing better than last time I looked  :-)
+[11:48:26] genturgidson: Better, but only up the exchange and white has +2 passed pawns. Bottom line is loser does not want to trade stuff down.
+[11:49:27] jdannan: I'm more worried about their king safety
+[11:51:44] genturgidson: King safety is totally fine “trust me bro”
+[11:53:46] jdannan: so what's the move?
+[11:54:02] jdannan: Qh7 already threatened
+[11:54:02] genturgidson: White’s queen and knight positioning here is absolutely deadly, so I don’t know.
+[11:55:33] monocarp: (26. Ne5) I'm struggling to find a move that black can play. I mean they have some that only give back an exchange
+[11:58:21] genturgidson: Rf8 offers back the exchange and GG sadly. I couldn’t think of a move either.
+[11:58:36] genturgidson: (Raf8)
+[11:59:37] monocarp: (26... Raf8) spending a moment looking for better than Ng6+
+[12:02:24] genturgidson: Ke8 rather than Rxg6 is surely losing a tempo allowing Ncf8 Rxf8 then Re1?
+[12:03:27] genturgidson: Nxf8 I mean - autocorrect is now meddling with my notation, thanks.
+[12:04:28] monocarp: (29... Kf7) I'm actually not a huge fan of Qxa7, It's probably good though
+[12:04:43] genturgidson: Eh, or I guess it’s all falling apart anyway.
+[12:05:29] genturgidson: White needs to be careful not to blunder back rank or Qxf2+.
+[12:16:42] rosey001: Go Monocarp!
+[12:17:12] monocarp: Hi rosey
+[12:26:06] monocarp: I sort of want my rook on the 7th instead of the queen. Also I should make some luft sometime
+[12:27:07] monocarp: (42... Qf6) but also, Qf3 here should for the Qs off as it also sees blacks rook (with check)
+[12:28:54] rosey001: Pawn can just take
+[12:29:09] monocarp: clever, but after bxa3 the queen still sees d1
+[12:29:09] rosey001: Rd1 would block Qa1
+[12:29:24] genturgidson: Nice last try I guess from Loser.
+[12:30:40] genturgidson: The situation was dire anyway so it called for gambling an eventual trick like that.
+[12:35:15] genturgidson: Ooh, engine did see a way to make my Bxf3 tactic work.
+[12:35:45] genturgidson: it was Bxf3 gxf3 Qe8.
+[12:36:01] monocarp: I was somewhat afraid of Bxf3 at some moments
