@@ -1,0 +1,179 @@
+Lichess game chat log
+Game      : https://lichess.org/c8n3B8t0
+White     : rajuppi
+Black     : handknit
+Time      : 45+45
+Captured  : 2026-07-23 16:12:01 UTC
+Game ended : 2026-07-23 14:51:52 UTC
+Messages  : 169
+────────────────────────────────────────────────────────────
+
+[13:33:01] handknit: (1...c5) Was kinda tempted to break out d6 or e5 but nah lets keep it straightforward
+[13:33:17] handknit: (1...c5) I suspect we may end up back at a KIA or closed
+[13:33:17] handknit: (1...c5) but We Will See
+[13:34:33] handknit: (4...a6) Maroczy?
+[13:35:03] handknit: (5.c4) Wouldn't mind facing Bd3, wanna practice that
+[13:35:18] handknit: (6.Nc3) wonder if we get the early Rc1 line here
+[13:37:51] handknit: (9...Be7) Waiting on d6, since we don't want to play that against Rc1
+[13:39:22] handknit: (10...O-O) One more waiting move
+[13:40:23] handknit: (11.g4) Okay. So now to remember
+[13:41:24] iwishiweredecent: Alright, a little titled player action, looking forward to this game
+[13:42:26] handknit: (11...Nc6) I know in a broad sense I should be fine here but remembering specifics if never my scene
+[13:42:26] handknit: (11...Nc6) So we punch the centre, and maybe prepare Ne8-f6
+[13:42:57] handknit: (11...Nc6) There's this Duda idea of walking the K d2-c2-b1
+[13:43:12] handknit: (11...Nc6) Carlsen won the game but the idea from white is a sound one
+[13:43:27] handknit: (11...Nc6) That said, white had Rc1 on the board in that game, stopping Nc6
+[13:44:28] handknit: (11...Nc6) I feel like I may have had d5 last move, but I couldn't figure a concrete line
+[13:45:29] handknit: (11...Nc6) I think my prime idea is supposed to be Nxd4 and Bc5.
+[13:45:44] handknit: (11...Nc6) Trying to remember what to do against b4
+[13:45:59] iwishiweredecent: I don't know much theory in the Sicilian but g4 looks absolutely mad
+[13:45:59] handknit: (11...Nc6) Ne5 is the natural choice but I'm not sure on meeting Rc1 after
+[13:46:15] handknit: (11...Nc6) Maybe just Rfc8
+[13:47:46] iwishiweredecent: okay definitely time to grab my popcorn
+[13:48:32] handknit: (12...Nh5) I seem to remember that my Q hits f4 is significant
+[13:50:19] handknit: (12...Nh5) Nxc6 and Qd2. What then?
+[13:51:35] handknit: (12...Nh5) I could always meet Nxc6 with dxc6 but that feels wrong
+[13:52:05] handknit: (14.Bxd4) This move order does not press so much
+[13:52:36] iwishiweredecent: This position for white looks absolutely insance
+[13:53:06] iwishiweredecent: 0-0-0?
+[13:53:37] iwishiweredecent: /w madness
+[13:54:39] handknit: (15.h4) So what do I have here that isn't Bc5?
+[13:54:54] handknit: (15.h4) d5 makes sense, white's king in the middle
+[13:56:40] iwishiweredecent: kinda feels like Bc5 followed by d5 might work better, but d5 right away might be the best move
+[13:57:11] handknit: (15...d5) This makes thematic sense
+[13:57:26] handknit: (15...d5) I don't *think* I'm dropping material but I calculate not so good
+[13:58:12] iwishiweredecent: I think this would be much more dangerous if white had already played Rc1
+[13:58:12] iwishiweredecent: What's up Toddman!!!
+[13:59:58] handknit: (15...d5) e5 is kind of a cheeky threat here though I assume white never doesn't take on d5
+[14:03:32] handknit: (16...exd5) I feel like meeting exd5 with Rfe8 is storng
+[14:04:17] handknit: (16...exd5) There's this line that starts with 17.exd5 Nxd5 18.Nxd5 Bxd5 19.Bxg7
+[14:04:33] handknit: (16...exd5) And I'm not totally clear on what happens there or if I need to avoid it
+[14:05:03] handknit: (16...exd5) I might just have Qg3+ there
+[14:05:49] handknit: (16...exd5) I don't think the Bxb6 version of the line is an issue because I have Qxb2
+[14:06:04] handknit: (16...exd5) I have at least Qxb2. I can start with Rad8
+[14:07:05] handknit: (16...exd5) I guess as a general point one thing I need to remember to be live to is 'soft' rook moves
+[14:07:20] handknit: (16...exd5) Rfe8 at the right time, &c
+[14:07:36] handknit: (16...exd5) though that probably trades on being ahead of white castling long
+[14:08:21] handknit: (17.exd5) Okay, so. Choice time. Rfe8 or Nxd5
+[14:10:08] handknit: (17...Rfe8) Seems principled
+[14:14:27] iwishiweredecent: I am starting to think that black's position is absolutely crushing...
+[14:14:43] handknit: (18...Bc5) This game is enough outside my comfort zone that I am worried about messing up but I probably shouldn't be
+[14:14:43] handknit: (18...Bc5) lesson for me: git gud
+[14:14:58] handknit: (18...Bc5) 19.Ne4 is what I'm trying to figure out now
+[14:18:32] iwishiweredecent: well maybe this is a bit trickier than I thought, but this whole game has been way above my rating so I am just enjoying
+[14:20:34] nyanners: crushing for black is a decent guess
+[14:20:49] nyanners: dont see it concretely yet tho
+[14:22:21] nyanners: Bxd5 is almost working
+[14:24:23] iwishiweredecent: right up until Rc1 it just felt like white's king was so vulnerable and black's pieces looked so well coordinated, but now all of a sudden..
+[14:24:38] handknit: (19...Qe5) Couldn't quite get Rad8 to do what I wanted
+[14:24:54] handknit: (19...Qe5) Ideally it comes shortly now
+[14:25:55] nyanners: this sucks for someone probably
+[14:26:26] nyanners: maybe it could suck for black
+[14:26:41] iwishiweredecent: well I would definitely rather be playing black here... but I wouldn't be confident that I could make it work
+[14:26:56] handknit: (21.Bc4) So Qd4+ is one option
+[14:27:11] iwishiweredecent: White has a lot of space and active pieces...
+[14:27:42] nyanners: dsb trade helped a lot if white does get away with it
+[14:27:57] nyanners: and now you could play Rce1
+[14:27:57] handknit: (21.Bc4) I can consider Nh5 again
+[14:28:28] nyanners: yea Nh5 is fair
+[14:28:28] handknit: (21.Bc4) Ah, I think Ne4 controls Nh5 well enough
+[14:28:58] nyanners: at least you block the e-file
+[14:29:29] iwishiweredecent: did you get your nap in nyanners?
+[14:29:59] iwishiweredecent: I have the day off an am about to eat an early lunch and try to squeeze in a nap myself
+[14:31:00] nyanners: ah i did but im not great tbh :<
+[14:31:00] nyanners: it will be alright
+[14:32:32] handknit: (21...Nh5) I don't think I should trade queens
+[14:33:34] nyanners: yea its good to prevent Rce1 indirectly
+[14:33:34] iwishiweredecent: well you're a trooper, it is always nice to have someone else to discuss the game with while watching
+[14:33:34] nyanners: i think
+[14:33:50] nyanners: ahah
+[14:34:20] nyanners: this is mostly just my unconscious processes. i will probably say something weird
+[14:34:20] iwishiweredecent: I was just about to say Rad8
+[14:34:51] handknit: (22...Rad8) Oh, I have to watch 23.Rce1 Qf5 24.Nd6
+[14:34:51] iwishiweredecent: haha yeah you and me both...
+[14:35:52] iwishiweredecent: that's a clever little trap
+[14:36:22] handknit: (23.Rce1) So the immediate threat is Nf6+
+[14:36:37] nyanners: does it suck for black yet
+[14:36:53] nyanners: if you have to concede with the queen white might be taking over
+[14:37:23] iwishiweredecent: Yeah I was just thinking that if the queens come off then white might be making the turn
+[14:37:38] nyanners: okay kh8 is nice
+[14:37:38] handknit: (23...Kh8) No more check, and now I have Qg3+ as a resource against knight tricks
+[14:38:09] iwishiweredecent: what is the plan against Nxc5?
+[14:38:09] nyanners: qg3 premove qxf3
+[14:39:41] iwishiweredecent: oh nvm that knight needs to defend the g3 square huh?
+[14:39:56] nyanners: for now.......
+[14:39:56] nyanners: feels a bit shaky but maybe black has just enough
+[14:40:26] iwishiweredecent: yeah maybe the lack of king safety will end up coming back to haunt white...
+[14:40:57] iwishiweredecent: white played this move g4 early on that to me just looked so wild that I had to keep watching haha
+[14:41:12] ysgwydd: (23...Kh8) Maybe f5 is an idea for black
+[14:41:42] ysgwydd: (23...Kh8) g4 is quite common in Sicilian lines
+[14:42:13] handknit: (24...Qf4) Queen's on
+[14:42:28] nyanners: qe3 qe5 qc3 draw. do it you wont.....
+[14:43:44] handknit: (25.Qe3) Pretty sure the answer is still queen's on but lemme check Bxd5
+[14:44:15] handknit: (25.Qe3) Pretty sure that Rxe4 doesn't work but you gotta check it
+[14:45:01] nyanners: Bxd5 might be okay
+[14:45:16] iwishiweredecent: I like Bxd5
+[14:46:01] nyanners: not sure whos pressing after that
+[14:46:17] ysgwydd: (25.Qe3) Repeat once more to get closer to move 40
+[14:46:17] handknit: (25.Qe3) I can also see if white repeats after Qe5, then try Bxd5 next time around
+[14:46:47] iwishiweredecent: lol move 40
+[14:47:18] handknit: (27.Qe3) Another check of Bxd5
+[14:48:03] handknit: (27.Qe3) Leaning towards not overpressing
+[14:48:34] handknit: (27.Qe3) 27...Bxd5 28.Bxd5 Rxd5 29.Qxf4 Nxf4 30.Nxc5 feels more losable than winnable
+[14:48:49] nyanners: oh they actually will do it
+[14:49:04] nyanners: okay :c
+[14:49:04] iwishiweredecent: what a bummer
+[14:50:05] handknit: (27.Qe3) I can think about Qc7 or Qb8 too, I suppose
+[14:50:21] iwishiweredecent: well nyanners if you are around my teammate thestormingeagle is playing in like 2 hours, hopefully I will see ya there
+[14:50:21] nyanners: i will bet like 70% draw
+[14:50:36] nyanners: black has already decided. this is just a little clearing of the conscience
+[14:50:51] iwishiweredecent: Yeah he is talking himself into it
+[14:50:51] nyanners: yea no idea if i will be around in 2 hours xd
+[14:51:06] iwishiweredecent: but you can feel it.. he just isn't feeling confident
+[14:51:22] handknit: (27.Qe3) On Qb8 there might be some cheese with Nd6-Nxf7+
+[14:51:22] nyanners: yea maybe 70% is too conservative xd
+[14:51:22] iwishiweredecent: yeah no worries, did you play your game this week yet?
+[14:51:37] nyanners: i dont play here
+[14:51:52] nyanners: gg
+[14:51:52] ysgwydd: gg
+[14:52:07] iwishiweredecent: gg
+[14:52:23] iwishiweredecent: crazy game, never would have thought it would be a draw after that opening
+[14:52:38] handknit: Okay, so I actually had to take on d5 after Rc1. What idea did I miss?
+[14:52:53] ysgwydd: Rxe2+
+[14:53:24] handknit: I was worried about immediate b4
+[14:53:24] nyanners: umm i saw that but i couldnt solve it either
+[14:53:54] handknit: It looks like I just leave the bishop en prise forever because white can never play Nxd5
+[14:54:24] nyanners: its extra confusing because it hits the Q
+[14:54:55] handknit: We'll call it a modest opening success because I got the structure right. Want to find a simpler way to play it, though
+[14:54:55] iwishiweredecent: I still can't believe how bad Rac1 was according to the engine, I thought that move made it so much more difficult for black
+[14:55:10] nyanners: eh its just a concrete matter
+[14:55:25] nyanners: its bad because Bxd5 etc
+[14:55:25] handknit: I think white's position is already very bad there
+[14:55:40] nyanners: since black didnt exploit it was good
+[14:55:40] handknit: g4 is a mistake without Rc1 already on the board to back it up
+[14:55:56] iwishiweredecent: Yeah it seemed like black was crushing but then it all of a sudden seemed to get really tricky
+[14:56:11] handknit: maybe f5 instead of d5 was easier?
+[14:56:11] iwishiweredecent: yeah I thought something about that g4 move just didn't seem right
+[14:56:26] handknit: The point of g4 isn't to attack
+[14:56:41] handknit: It's one of these modern moves where the point of g4 is to stop h5, thereby stopping black's main counterplay
+[14:56:57] nyanners: idk i think d5 is right
+[14:56:57] handknit: But without Rc1, black can just come in with Nc6 and start trading the middle
+[14:57:12] nyanners: you blasted open the center and got a winning position
+[14:57:12] nyanners: sounds like what should happen
+[14:57:12] handknit: d5 seems very fundamental
+[14:57:27] handknit: but f5 can sort of do that too
+[14:57:58] nyanners: it just feels right to open for Re8 Rd8
+[14:58:13] handknit: yeah
+[14:58:28] nyanners: if i have to change itd be earlier
+[14:58:28] handknit: Move 18 I can also just recapture on d5
+[14:58:28] handknit: Maybe that's the simpler route
+[14:59:44] handknit: Like, I'd like to be able to solve this position without having to calculate through Bxd5
+[15:00:00] iwishiweredecent: ahhhh, thanks Handknit for explaining that about g4, I had to click through a while to see it on the board but that makes way more sense now
+[15:00:15] iwishiweredecent: cheers, thanks for that
+[15:00:30] handknit: np
+[15:00:45] handknit: there's a Duda-Carlsen game that demonstrates the idea
+[15:01:00] iwishiweredecent: I saw you mentioned that earlier, I will definitely check it out
+[15:01:46] iwishiweredecent: well good game again and thanks for hanging out Nyanners! I gotta run but best of luck to your team this season!
+[15:02:01] handknit: Yeah I am hungier than I feel like I should be so I'm gonna go find something to eat
+[15:02:32] iwishiweredecent: cheers!
+[15:02:32] nyanners: gg :D
