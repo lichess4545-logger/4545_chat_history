@@ -1,0 +1,107 @@
+Lichess game chat log
+Game      : https://lichess.org/3S6bHndF
+White     : ribrubrib
+Black     : nairwolf
+Time      : 45+45
+Captured  : 2026-07-23 14:59:42 UTC
+Game ended : 2026-07-23 13:39:39 UTC
+Messages  : 97
+────────────────────────────────────────────────────────────
+
+[12:17:27] timothyha: go Rib!
+[12:17:27] nairwolf: so we already played together several times
+[12:17:43] nairwolf: I'm expecting a Scotch with 4 Knights variation
+[12:17:43] nairwolf: we already played a rapid game 3 years ago
+[12:17:58] nairwolf: my repertoire hasn't changed since, but maybe rib has
+[12:18:13] nairwolf: i'm not fully ready, so I might be slow to start my first moves
+[12:18:13] timothyha: sometimes you both progress and meet each other higher and higher
+[12:18:44] robertjackson: Good luck ribrubrib
+[12:18:44] king_hunter-1: Good luck Rib!
+[12:25:52] joonaf: Go chess!
+[12:25:52] joonaf: Go wolf!
+[12:33:14] robertjackson: 11.Nxd5 looks good to me
+[12:35:48] nairwolf: oh no... I forgot to play Be6.... Damn it!
+[12:36:33] timothyha: bb7 Qg4 here
+[12:38:05] timothyha: 12 so White is up a pawn
+[12:44:27] timothyha: 15 White needs f3 at some point
+[12:55:38] robertjackson: White doing well after 17 moves and up 2 pawns
+[12:55:54] timothyha: (17...Bd5) still need to find a good square for the queen
+[12:56:09] timothyha: (17...Bd5) probably f4 and h6 but not too sure
+[12:58:11] iwishiweredecent: Yeah looks like Messi is doing better in this game than in the WC final
+[12:59:12] timothyha: (17...Bd5) can't play alone, need the mates to behave
+[13:01:59] timothyha: (19.c4) Bf6 then Rxa2 and Qh6
+[13:01:59] timothyha: (19.c4) but c4 is played already
+[13:02:30] timothyha: (19.c4) maybe Ra3 gets the bishop
+[13:03:16] timothyha: (19.c4) Rd8 should happen now
+[13:03:31] timothyha: (19...Bb3) Bb3 is easier to deal with
+[13:04:17] timothyha: (20.Ra3) this position is so unusual, but so concrete
+[13:04:32] iwishiweredecent: oof
+[13:04:32] timothyha: (20.Ra3) Black can't only blame themselves for not calculating at all
+[13:04:47] timothyha: (20.Ra3) can not can't
+[13:05:03] iwishiweredecent: Yeah what was the thought process behind Bb3?
+[13:05:18] iwishiweredecent: or was there any? played way too quickly...
+[13:06:19] timothyha: (20...Bxf2+) Dropping two bishops for the price of two pawns
+[13:06:49] timothyha: (20...Bxf2+) Bxf2 now and Black can resign
+[13:07:05] timothyha: (20...Bxf2+) on, one bishop
+[13:07:20] timothyha: (20...Bxf2+) Rb8 now but a7 drops
+[13:09:53] timothyha: (21...Rab8) Rxa7 and Bc5 and f7 drops
+[13:12:40] timothyha: (21...Rab8) White is probably having dinner with family and discussing the world cup instead of playing
+[13:16:13] matthewhuber: go nairwolf! never resign!
+[13:17:30] timothyha: (22...Rb7) White is probably counting on the fact that the b-file is all taken
+[13:17:30] timothyha: (22...Rb7) two bishops will kick the rook out and win b3
+[13:18:15] timothyha: (22...Rb7) but Rb4 pins the d pawn so not so caught
+[13:18:46] timothyha: (22...Rb7) just the other rook drops via Rc5
+[13:22:04] timothyha: (23.Qf3) oh this is effective
+[13:22:04] timothyha: (23.Qf3) Rb4 now just loses to Bc5
+[13:23:36] timothyha: (23...Qe7) Be4
+[13:23:51] timothyha: (23...Qe7) ah, mutual threats :0)
+[13:24:52] timothyha: (23...Qe7) if Black survives to R v RB they might still draw
+[13:25:07] robertjackson: How about (24.Bc5)?
+[13:25:23] timothyha: (23...Qe7) now queen covers c5
+[13:25:38] timothyha: (23...Qe7) and it's a check
+[13:25:38] robertjackson: Get Rook though
+[13:26:08] robertjackson: Ah missed check!
+[13:26:23] timothyha: (23...Qe7) that's how we get checkmated sometimes
+[13:27:09] timothyha: (23...Qe7) I think Be4 Rxa7 Rxb3 simplifies things a lot as Rb7 next
+[13:28:25] robertjackson: I like idea of getting Bf6 - hard for black to stop mate
+[13:28:25] iwishiweredecent: wow it went from bad to way worse since I last checked in
+[13:29:29] timothyha: (24.Qc6) This is tactically wrong I think
+[13:29:45] timothyha: (24.Qc6) Rxa7 Rxa7 Qe3+
+[13:30:00] timothyha: (24.Qc6) Rxa7 Rxb3 would be ok
+[13:30:15] timothyha: (24.Qc6) but Qc6 is strange
+[13:30:30] timothyha: (24...Ra8) now Rxb3 is nice again!
+[13:30:30] iwishiweredecent: Yeah I saw the queen check but you are right two bishops for a rook would be a great way to try
+[13:31:31] iwishiweredecent: oh man isn't the bishop just hanging on b3 now?
+[13:31:47] timothyha: (25.Bc5) Bc5 is another cold shower
+[13:32:02] timothyha: (25.Bc5) now everybody is hanging!
+[13:32:02] robertjackson: Exciting
+[13:32:17] iwishiweredecent: Qe1?
+[13:32:17] timothyha: (25.Bc5) Rib maxxed out on attacking pieces
+[13:33:03] timothyha: (25.Bc5) Qe1 is when SF loses and makes a random move
+[13:33:03] iwishiweredecent: yeah nvm everything loses it looks like
+[13:33:33] timothyha: (25.Bc5) how suddenly is EVERYBODY attacked
+[13:33:48] iwishiweredecent: Yeah... loose pieces are about to seriously start dropping off
+[13:34:34] rolihlahla: there are lots to choose from  :-)
+[13:35:05] iwishiweredecent: Man just trying to find a move for black is hurting my face right now lol
+[13:35:35] timothyha: (25.Bc5) Qd8 is kinda responsible but Qxb7
+[13:35:50] timothyha: (25.Bc5) then you might "win" the d3 bishop
+[13:36:06] iwishiweredecent: but then you lose the a8 rook
+[13:36:21] iwishiweredecent: oh you mean Rxa3 after Qxbv7
+[13:36:36] timothyha: (25.Bc5) yes
+[13:36:51] iwishiweredecent: man this is depressing...
+[13:37:22] timothyha: (25...Ba4) this is worse, as Rxa8 is a check and dark squares are lost
+[13:37:37] iwishiweredecent: I guess you just have to hope for a blunder if you're black... but once the queens are off the board black has nothing left to fight with
+[13:37:37] timothyha: (25...Ba4) Rxa8 Bf8 check and king goes back to get mated
+[13:37:53] timothyha: (25...Ba4) Rxa8 Kg7 Bf8+ Kg8 or h8 and Bh6 mate
+[13:38:23] iwishiweredecent: yeah this is resigns time
+[13:38:38] timothyha: (26.Bxe7) mate on the board is more noble
+[13:39:09] iwishiweredecent: can't take the bishop obv because of the check after Rxa8
+[13:39:24] timothyha: (27.Rxa8+) search "checkmate with a smile Svidler" on YouTube
+[13:39:24] timothyha: (27.Rxa8+) it's mate in 3 now
+[13:39:39] king_hunter-1: gg
+[13:39:39] timothyha: gg
+[13:39:39] rolihlahla: gg
+[13:39:55] iwishiweredecent: Oh yeah I never resign, either the other player earned the checkmate or I get lucky with a stalemate sometimes
+[13:39:55] iwishiweredecent: well played rib...
+[13:40:10] iwishiweredecent: valiant effort wolf
+[13:40:10] iwishiweredecent: thanks for the entertaining game gentlemen
