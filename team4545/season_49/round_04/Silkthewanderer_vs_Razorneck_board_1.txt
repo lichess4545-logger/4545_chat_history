@@ -1,0 +1,144 @@
+Lichess game chat log
+Game      : https://lichess.org/SEOpK8fy
+White     : silkthewanderer
+Black     : razorneck
+Time      : 45+45
+Captured  : 2026-07-23 23:01:31 UTC
+Game ended : 2026-07-23 21:41:21 UTC
+Messages  : 134
+────────────────────────────────────────────────────────────
+
+[19:21:57] razorneck: Bc4 is strange. Don't think it's a good move. He was clearly surprised by my opening choice.
+[19:32:07] silkthewanderer: 11. Qd5 was very interesting but there seem to be too many ways for Black to give a pawn and leave me with tripping pieces
+[19:33:23] silkthewanderer: And for Qd7 I didn't have a clean solution either
+[19:33:38] silkthewanderer: Maybe better to play modestly. I did get blindsided and just want something playable for now
+[19:52:43] inter-temporal: go Silkthewanderer!!
+[19:56:47] inter-temporal: kewl choice. "very professional"-- Capablanca
+[19:58:34] inter-temporal: but N paths are hard... aim for f3 or e3?
+[19:59:19] inter-temporal: (17...Bg5)
+[20:02:07] inter-temporal: 18.b4! come on! that's good stuff
+[20:15:38] oachkatzerlschwoaf: is this the sveshnikov or kalashnikov? I always mix them up.
+[20:15:38] mrscribbles: (20.f3) watchpartied
+[20:16:39] inter-temporal: (20.f3) book says Kalash, but 8.Bc4 is unusual
+[20:16:39] oachkatzerlschwoaf: never play f3
+[20:16:54] oachkatzerlschwoaf: rawr
+[20:17:40] oachkatzerlschwoaf: daniel king always hypes this opening
+[20:17:40] oachkatzerlschwoaf: has like a gazillion videos on this
+[20:19:11] silkthewanderer: Hi Spider, Scribbles, everyone
+[20:19:26] silkthewanderer: No super deep thoughts going on. I want to play Qd3 and pile on d5
+[20:19:41] silkthewanderer: b5, sorry.
+[20:19:57] silkthewanderer: Otherwise I will be very likely needing to react to whatever Black is doing soonish
+[20:23:15] inter-temporal: (21.Qd3) i never know how to plan like that (until after someone points it out)
+[20:23:15] inter-temporal: (21.Qd3) i.e., pile on b5
+[20:23:45] inter-temporal: (21.Qd3) in retrospect it's always obvious. but these dudes play chess at a different level
+[20:25:03] inter-temporal: (21.Qd3) "Caveman no like b5!"--caveman
+[20:27:05] inter-temporal: (21...Qd7) im' sure there's some reply to Nb6
+[20:27:35] inter-temporal: (21...Qd7) "Caveman like N-forks!"
+[20:27:51] bronasberger: Nb6 Qa7 maybe
+[20:28:21] inter-temporal: (21...Qd7) "Caveman no like refutations"
+[20:28:52] grzybozbur: so who's better?
+[20:29:38] inter-temporal: (21...Qd7) bronasberger is probably better
+[20:29:38] inter-temporal: (22.Kh1) oops. i didn't mean to send that...
+[20:29:53] inter-temporal: (22.Kh1) white has had some initiative
+[20:30:08] bronasberger: bronasberger forgives you
+[20:30:08] inter-temporal: (22.Kh1) :)
+[20:30:08] grzybozbur: b5 is an eternal pain for black, but na3 can't be that good either
+[20:30:39] oachkatzerlschwoaf: black has the bishop pair in the sicilian, so they must be completely winning
+[20:30:54] inter-temporal: (22...Qb7) lol. exactly. "Caveman like bishops pair"
+[20:31:25] inter-temporal: (22...Qb7) bishops pairs? pairs of bishops!
+[20:31:41] grzybozbur: ok, but the bishops don't seem to be doing much for now
+[20:31:56] inter-temporal: (22...Qb7) indeed.
+[20:32:44] grzybozbur: maybe black could regroup towards kingside somehow and ditch b5 at the right moment
+[20:33:15] grzybozbur: so whatever lands on b5 will be temporarily out of play
+[20:33:31] inter-temporal: (22...Qb7) i think equal but somehow super unbalanced too
+[20:40:41] inter-temporal: (23.Rad1) two weaknesses. so maybe advantage white?
+[20:42:13] grzybozbur: for the first couple minutes of looking at this i thought white must be better
+[20:42:43] grzybozbur: but i don't know what white is supposed to do
+[20:45:01] inter-temporal: (24...Rcd8) i'm still trying to figure out if there was a way to take back on e4 with the Q
+[20:48:04] inter-temporal: (24...Rcd8) i don't think black could have traded down; but Q couldn't be the blockader on e4 forever. oh well...
+[20:49:21] oachkatzerlschwoaf: time to reroute the N?
+[20:49:21] oachkatzerlschwoaf: or is there imminent danger
+[20:50:37] inter-temporal: (24...Rcd8) maybe but the Na3 is keeping black tied down for now
+[20:50:52] inter-temporal: (25.Rf3) interesting. but what else
+[20:50:52] grzybozbur: qxe4 looks unstable
+[20:51:22] inter-temporal: (25.Rf3) 24.Qxe4 looked unstable?
+[20:51:38] grzybozbur: it gives black more options: rf4, push e4
+[20:52:08] grzybozbur: maybe it holds somehow, but you'd need to check a lot of lines
+[20:52:54] inter-temporal: (26...Rf8) indeed. if we can't blockade the e-pawn, then it's probably bad
+[20:55:27] grzybozbur: this doesn't look great either
+[20:55:42] silkthewanderer: 27. Qg4 was actually really good, why did I not look into that?
+[20:56:12] silkthewanderer: I thought I needed to prepare that move but actually, why should I?
+[20:56:58] silkthewanderer: Ah. Qg4 Bxd5 Rxd5 Qxd5 was still possible, right
+[20:57:44] inter-temporal: (27...Bd8) black read ur mind
+[20:58:14] grzybozbur: bd8 can't be good, right?
+[20:59:00] inter-temporal: (28.Nc2) oh? i thought it was good. so, probably can't be good indeed. lol
+[20:59:15] oachkatzerlschwoaf: always retreat
+[20:59:30] grzybozbur: i don't know, it just looks bad
+[20:59:46] inter-temporal: (28.Nc2) Nc2 frees Black's Q, sooo idk. new game
+[21:00:01] inter-temporal: (28.Nc2) pile on d6 maybe
+[21:02:03] inter-temporal: (28.Nc2) maybe some tactics after c4
+[21:02:18] grzybozbur: what is the bishop doing on d8?
+[21:02:49] grzybozbur: oh
+[21:02:49] inter-temporal: (28...Bb6) & maybe not being as vulnerable as it was on g5.
+[21:03:04] grzybozbur: you can always defend bg5
+[21:03:50] grzybozbur: i was thinking some kh8 to prepare kingside attack, maybe push some pawns
+[21:04:05] inter-temporal: (28...Bb6) well. take now or forever hold ur 2Ns
+[21:04:50] grzybozbur: black must see some tactics, otherwise this doesn't make any sense
+[21:05:51] inter-temporal: (31.exd5) new game. nice moves by black, imo
+[21:06:07] a3353446: Oh
+[21:06:07] a3353446: White is losing
+[21:07:11] inter-temporal: (31.exd5) ...Qxd5
+[21:07:26] inter-temporal: (31.exd5) fails
+[21:07:41] inter-temporal: (31.exd5) or does it...
+[21:07:41] inter-temporal: (31.exd5) ahhh. black gets a winning pawn ending?
+[21:08:12] a3353446: Black will be down a rook
+[21:08:12] inter-temporal: (31...Rf4) yeh, just fails.
+[21:08:27] inter-temporal: (31...Rf4) whew!
+[21:09:28] grzybozbur: ok, so this still looks better for black because of the weak d5 and protected passer
+[21:09:44] grzybozbur: maybe
+[21:09:44] inter-temporal: (32.h3) but white's K-safety improves by 50 centipawns! lol
+[21:09:59] inter-temporal: (32.h3) b5 is still weak
+[21:10:46] grzybozbur: yes, but b5 is on the other side of the board
+[21:11:17] inter-temporal: (33.Qd3) how about ...Rc4!? (Lasker's rook, lol)
+[21:12:03] grzybozbur: all the time i feel like black should have put the king on h8 fand maybe get h6 before doing anything
+[21:12:49] inter-temporal: (33...Qb7) perhaps white's better than we thought
+[21:13:36] grzybozbur: also, i would never want trade into this as black
+[21:19:42] inter-temporal: (36.Rd2) seems to be showing draw.
+[21:19:57] inter-temporal: (36.Rd2) just offer draw
+[21:20:13] inter-temporal: (37.Rd1) there it ois
+[21:20:28] inter-temporal: (37.Rd1) it's okay. we know. :)
+[21:20:44] inter-temporal: (37...Qc7) or not
+[21:22:00] inter-temporal: (38.Qd3) want's a rook endgame? no way
+[21:23:01] inter-temporal: (38...Qc4) ahhh. because of his protected passer?
+[21:23:16] grzybozbur: and a4-a3
+[21:23:46] inter-temporal: (38...Qc4) hm. sounds good to me.
+[21:24:17] inter-temporal: (38...Qc4) does white have an active choice
+[21:24:48] a3353446: Play Qg6
+[21:25:04] jcarmody: good call
+[21:25:34] inter-temporal: (39...Rf6) but ...Qb3  or ...Qe2 too
+[21:25:49] inter-temporal: (39...Rf6) soooo Qc2
+[21:26:05] inter-temporal: (40...Kh7) active. and pray
+[21:28:22] a3353446: What
+[21:29:23] inter-temporal: (44.Kg3) dang
+[21:29:54] inter-temporal: (44.Kg3) gotta give props for silk refusing to go passive.
+[21:29:54] a3353446: I think he didn’t see Q
+[21:30:39] grzybozbur: qc4 was very strong
+[21:31:10] grzybozbur: i mean the whole idea, difficult to find moves afterwards for white
+[21:31:40] inter-temporal: (44.Kg3) guess we'll find out later if it was still defensible somehow
+[21:32:56] grzybozbur: maybe, but the problem is you can't chase the queen away from c4
+[21:33:11] grzybozbur: because the rook endgame is very bad for black
+[21:33:27] grzybozbur: so black can just play on, but now doesn't need to worry about the weak b5
+[21:33:58] grzybozbur: erm, i mean the rook endgame is very bad for white, not black
+[21:41:51] silkthewanderer: I wonder if taking on c4 had much chances of holding
+[21:42:07] silkthewanderer: At move 39, that is
+[21:42:22] grzybozbur: the rook endgame looks really sad
+[21:42:37] silkthewanderer: True but it should have been foreseeable that not taking the queen is straight sadder
+[21:43:23] silkthewanderer: Not going Qb6 at move 33 might have been the bigger miss
+[21:44:08] grzybozbur: i don't know, white could try to defend the squares around e2-e3 instead of qg6-e8
+[21:45:24] grzybozbur: for example 38...qc4 qe3 and yes, black has a big advantage, but still needs to convert somehow
+[21:46:56] grzybozbur: if qxc4 instead, then a4-a3 is always a threat, the black king gets out, i'd rather keep the queens on, even if it's losing
+[21:47:27] silkthewanderer: Yeah, Qxc4 is just lost
+[21:47:43] grzybozbur: queens are easy to misplace, even if you're winning
+[21:47:43] silkthewanderer: you just need to play out the engine lines a bit and the patterns start to become clear enough
+[21:47:58] silkthewanderer: a3 always ends up being wining somewhere
+[21:56:52] mrscribbles: gg
