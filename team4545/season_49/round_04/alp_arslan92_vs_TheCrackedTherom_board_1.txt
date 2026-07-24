@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/lcFQq9qD
+White     : alp_arslan92
+Black     : thecrackedtherom
+Time      : 45+45
+Captured  : 2026-07-24 21:28:44 UTC
+Game ended : 2026-07-24 20:08:42 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[19:02:04] jg777: Alp! Alp! Alp! Alp! :)
+[19:04:21] goldenretrieverchess: Go Alp!
+[19:04:36] goldenretrieverchess: Hey Jordan :D
+[19:05:52] fork2020: Go alp_arslan92!
+[19:08:25] alp_arslan92: Pretty sure I've seen everything but 10...Qb6 before. Which either means I don't know this line well enough or this is a (slight) error.
+[19:09:56] alp_arslan92: 11.g5 looks logical. 11...Qxd4 12.Qe2 and a quick queenside castle.
+[19:10:42] jg777: hey GRC! hey captain fork
+[19:10:42] goldenretrieverchess: I would have a hard time not playing 11. Na4 here but after Qc7 it prob didn’t do anything but put my Knight on a bad Sq
+[19:11:28] r0b-w: (10...g5) Go, alp_arslan92!
+[19:11:58] jg777: Yeah, the knight doesn’t have much on a4 there long term. even c5 isn’t super attractive since b6 kicks it away whenever.
+[19:12:29] goldenretrieverchess: Exactly. Plus there is no threat or Qxb2 as it’s just really bad for black.
+[19:12:29] jg777: probably going after Bd5 is better down the line
+[19:13:45] jg777: Qxd4 Qe2 Nfd7 and not sure how alp will handle it
+[19:14:30] alp_arslan92: Nxd7 is by no means forced now
+[19:15:01] alp_arslan92: 13.Nd3 is also a move
+[19:16:02] goldenretrieverchess: Really fun position already!
+[19:16:02] jg777: but isn’t Nd3 e5 a little difficult?
+[19:17:03] jg777: maybe it isn’t that bad, but we have given up a pawn here.
+[19:17:49] jg777: oh wait, e5 is impossible after Nd3, as Be3 is threatening to entrap the queen.
+[19:19:20] jg777: although maybe it has Qc4 there- I don’t know, it looks a bit precarious to me, I’d probably just find another move as TCT.
+[19:19:51] jfiras: Good luck Alp !
+[19:20:36] alp_arslan92: Maybe Ng4 was better
+[19:21:07] alp_arslan92: exactly because of this
+[19:21:52] alp_arslan92: Whatever, let's roll with it
+[19:25:27] alp_arslan92: Judging with pure chess logic, this should still be fine'ish. A ton of tempo and bishop pair for a pawn
+[19:27:44] alp_arslan92: Both d5 and h5-g6 are ideas now
+[19:27:59] jg777: I was wondering about Bh3 f4-f5 myself.
+[19:28:14] alp_arslan92: not very concrete yet, but we're getting there hopefully
+[19:33:51] alp_arslan92: 18.d5 cxd5 19.Rxd5 exd5 20.Nxd5 Qa5 21.Nxe7 maybe?
+[19:35:24] alp_arslan92: If he plays 19...0-0 I have 20.a3 Qb3 21.Rb5
+[19:37:56] alp_arslan92: It's important he has no check on the c-fild
+[19:38:42] ysgwydd: (18.d5) I don't get this. Black has 20...Qd6, no?
+[19:40:29] alp_arslan92: I missed Qe5 in the end yikss
+[19:42:00] ysgwydd: (18...cxd5) Even the 21.Nxe7 line doesn't seem obviously winning to me
+[19:45:49] alp_arslan92: so stupid, he also has Qd6. I should have just played h5 or whatever
+[19:54:44] alp_arslan92: This position without d5 cxd5... Well, I guess it's up to the post mortem to see where that would've gotten me
+[19:54:59] alp_arslan92: For now, we have to roll the dices.
+[20:01:50] inter-temporal: (21.Qd2) rollz the dicez
+[20:03:53] grzybozbur: i'm trying to think of a move different than ne5
+[20:05:24] alp_arslan92: Yeah, this is pretty bad
+[20:09:13] thecrackedtherom: GGs
+[20:09:28] thecrackedtherom: i completely mishandled the opening
+[20:10:29] thecrackedtherom: after g5 i think the theory was be6 but i remember looking at bg6 in a different and apparent then it was fine
+[20:11:30] thecrackedtherom: d5 seemed to be mistake and a little premature
+[20:12:01] thecrackedtherom: maybe something like ba6 or kb1 is better?
