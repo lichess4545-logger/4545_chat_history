@@ -1,0 +1,89 @@
+Lichess game chat log
+Game      : https://lichess.org/YV7C4Kdc
+White     : berndwind
+Black     : darth_doggo
+Time      : 30+30
+Captured  : 2026-07-24 13:36:35 UTC
+Game ended : 2026-07-24 12:16:31 UTC
+Messages  : 79
+────────────────────────────────────────────────────────────
+
+[11:01:44] pineapplechiffoncake: Go Bernd!
+[11:02:14] berndwind: (2.c4) hi pineapple!
+[11:03:00] berndwind: (2...c6) Let's see how my reti holds up against a strong doggo
+[11:13:55] berndwind: (13...Qc7) ok so this one deserves a decent think
+[11:13:55] berndwind: (13...Qc7) I can win a pawn
+[11:14:11] berndwind: (13...Qc7) But I LOVE my bishops
+[11:14:41] berndwind: (13...Qc7) Hang on what planet am I on haha]
+[11:14:41] berndwind: (13...Qc7) No pawn winning
+[11:14:41] berndwind: (13...Qc7) Friday night chess yikes
+[11:15:27] berndwind: (13...Qc7) ok so probably just getting on with development is best. Nd2 and go from there
+[11:15:57] berndwind: (13...Qc7) if anyone tries to come into b4, I always have a3
+[11:16:13] berndwind: (13...Qc7) and long term I can look for some kind of break on the f file
+[11:18:30] berndwind: (14...O-O) honestly it's probably wise to play a3 to block black's access to the b4 square
+[11:19:00] berndwind: (14...O-O) I don't like the look of Bb4 a3 Bc3
+[11:19:32] berndwind: (15.a3) also this eventually enables some qs expansion
+[11:21:03] berndwind: (15...a5) If they ever play a4, i can always play b4 if I need to. I don't think the sacs work
+[11:21:18] berndwind: (15...a5) Especially once I play Rac2
+[11:22:05] berndwind: (15...a5) there's also the very direct Qe2, actually threatening to really win a pawn this time lol
+[11:24:22] berndwind: (16...Rae8) quite complex position though
+[11:24:37] berndwind: (16...Rae8) Yeah good and logical move
+[11:24:53] berndwind: (16...Rae8) my b pawn may have some issues
+[11:25:38] berndwind: (16...Rae8) My initial thought here was Ne4
+[11:26:09] berndwind: (16...Rae8) I he takes I think I'm doing well.
+[11:26:39] berndwind: (16...Rae8) get rid of one of the knights and try to establish my bishop on the d5 square
+[11:33:15] fischer_and_chips88: go bernd!
+[11:33:31] berndwind: (18...Bf6) hey Fischer_and_Chips!
+[11:33:46] berndwind: (18...Bf6) Wondering if it's worth throwing in Qh5
+[11:34:01] berndwind: (18...Bf6) It probably is to deny the knight that square
+[11:35:03] berndwind: (18...Bf6) if I give them one more move, they will play Ne7/g6
+[11:35:33] berndwind: (18...Bf6) although I do always have h4 etc ideas there
+[11:35:48] berndwind: (18...Bf6) hi spider!
+[11:36:04] guitarspider: hi
+[11:36:34] berndwind: (18...Bf6) Ok actually more logical for black, and probablty their idea, is to play g7 and move the bishop to g7
+[11:36:49] berndwind: (18...Bf6) in which case Qh5 helps them achieve that with tempo
+[11:37:05] berndwind: (18...Bf6) then again I still go for pawn push ideas
+[11:37:50] berndwind: (18...Bf6) the move that keeps bothering me is Qb6
+[11:38:21] berndwind: (18...Bf6) I mean I can always cover with my queen but it's really not such a glamorous role for the lady
+[11:39:22] berndwind: (18...Bf6) So I'm thinking Qh5 g6 Qg4, aiming for the march of the a pawni
+[11:39:53] fischer_and_chips88: maybe rb1 and reroute the bishop to c1 idea to play bh6 after broke g6 somehow
+[11:40:08] fischer_and_chips88: provoke*
+[11:40:23] berndwind: (18...Bf6) if they play Qb6 I have Rcb1
+[11:40:38] berndwind: (19.Qh5) enough thinking
+[11:40:54] berndwind: (19.Qh5) This isn't series
+[11:43:11] fischer_and_chips88: 20 Bg7 g4 now
+[11:43:57] berndwind: (20...Bg7) maybe a regrouping with Rab1, aiming for getting my bishop out via c1
+[11:44:12] fischer_and_chips88: haha same ideas
+[11:45:13] fischer_and_chips88: I think b4 is possible too due to Ba3
+[11:45:59] berndwind: (21.Rab1) right now he can't play Ne7 without losing the pawn
+[11:46:29] berndwind: (21.Rab1) And if the knight goes anywhere else, I have the d5 square
+[11:47:30] fischer_and_chips88: I think white is thinking about taking the knight with the bishop for some reason
+[11:49:32] berndwind: (22...Ne6) What happens if I munch?
+[11:50:18] fischer_and_chips88: I think 23 g4 is better. g4 h4 h5 is what I'd wanna do
+[11:51:04] fischer_and_chips88: suppose you can much and move back though
+[11:51:04] fischer_and_chips88: munch lol
+[11:52:05] berndwind: (23.Bxb7) if he comes in with the knight, into c5, I have the d5 square
+[11:52:35] berndwind: (23.Bxb7) ooh hi parz! Good luck for your game in a few min!
+[11:52:50] parziwal08: Hi Bernd! Thanks.
+[11:54:07] berndwind: (23.Bxb7) sorry parz, I know I shouldn't be so hungry for pawns
+[11:54:07] berndwind: (23.Bxb7) But this one looked so delicious
+[11:54:22] berndwind: (23.Bxb7) if I'm not being hassled, plan is b4 etc
+[11:54:37] parziwal08: haha, no do your thing. Gobble em up
+[11:56:24] fischer_and_chips88: 25 b4 and this is looking pretty good for white I think
+[11:56:39] fischer_and_chips88: really nice 2Bs and the extra pawn
+[11:59:12] berndwind: (25.b4) if Na4, I always have Bd2
+[12:00:43] berndwind: (25...Qd7) here too, Bd2 makes sense
+[12:01:14] fischer_and_chips88: or Bf4 I wonder
+[12:01:44] fischer_and_chips88: unesecarry and the 2Bs are nice
+[12:03:00] berndwind: (26...axb4) Initially I was thinking ax
+[12:03:16] berndwind: (26...axb4) but there's a case for Bx too
+[12:04:32] fischer_and_chips88: mm I prefer ax
+[12:05:49] berndwind: (27...Rfc8) Taking actually looks very tempting
+[12:07:20] berndwind: (29...Rxc5) b7 or b8?
+[12:07:36] berndwind: (29...Rxc5) if b8, he can block with the bishop
+[12:08:07] berndwind: (29...Rxc5) Well I guess if b7, he can block with the rook
+[12:16:46] fischer_and_chips88: gg
+[12:26:44] berndwind: haha hey parz! Get back to your game. I'll check it shortly too
+[12:27:15] parziwal08: Oh no, I had to reschedule
+[12:28:01] berndwind: Oh wow ok. Damn. I was looking forward to seeing it!
+[12:28:16] parziwal08: Very nice win here!
