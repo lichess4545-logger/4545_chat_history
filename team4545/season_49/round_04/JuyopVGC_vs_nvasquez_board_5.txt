@@ -1,0 +1,70 @@
+Lichess game chat log
+Game      : https://lichess.org/SWUQbStV
+White     : juyopvgc
+Black     : nvasquez
+Time      : 45+45
+Captured  : 2026-07-24 19:13:55 UTC
+Game ended : 2026-07-24 17:53:40 UTC
+Messages  : 60
+────────────────────────────────────────────────────────────
+
+[17:03:49] joonaf: Go nvasquez!
+[17:05:05] milsbees: Go Juy!
+[17:05:35] mizrab: go nvasquez
+[17:06:36] simonwashere: Hi guys
+[17:07:07] mizrab: hi Simon
+[17:12:59] juyopvgc: I prepped a bit further than here, but I forgot it :)
+[17:13:14] mizrab: are we overdue a pawn storm?
+[17:19:50] nyanners: follow your heart
+[17:20:06] nyanners: what does it say..
+[17:21:52] nyanners: i wonder if this c3 is about preparing Ne5. i think it could already be played due to qxd4 bxh6
+[17:22:23] nyanners: in general i dislike the aesthetic impression of c3 but its probably fine with no lsb
+[17:27:12] davidsifre: this position favors black.
+[17:27:43] simonwashere: I rely on your evaluations over stockfish
+[17:27:43] davidsifre: so, back black if you want the winning side.
+[17:27:58] davidsifre: stockfish is a cold calculating bitch.
+[17:28:13] simonwashere: fish are usually cold, par for the course
+[17:28:13] nyanners: i dont know what the teams are but i somehow get the impression you are biased
+[17:28:29] nyanners: which is okay :o good, even
+[17:28:29] davidsifre: sir! that is an outrageous accusation.
+[17:28:44] nyanners: :o
+[17:28:44] simonwashere: outrageous and correct :)
+[17:28:59] davidsifre: still.
+[17:30:46] nyanners: white has been hesitating a tiny bit but black's attack is too far from happening
+[17:30:46] nyanners: must hope to survive and counterattack later
+[17:31:31] nyanners: ooooohh d3. thats a good move. probably
+[17:32:33] juyopvgc: bail out with Nd3, or ball out with Qe4? hmmm
+[17:32:49] davidsifre: just so you know, if >I< were a FIDE master, I would have useful chess stuff to say too.
+[17:33:35] nyanners: this isnt useful chess stuff actually. youve been just conditioned to believe it is
+[17:34:36] val1313: (24...d3) Go Juyop !
+[17:34:36] simonwashere: pretty sure it is useful chess stuff compared to the stuff we usually say!
+[17:34:51] nyanners: Qe4 is the maximalist one
+[17:35:06] nyanners: Nxd3 Qxc4 looks like some sort of less bad for black
+[17:36:07] nyanners: now well, theres probably some universe where the pawn is never taken and white dies. but i dont see it
+[17:37:39] nyanners: the dream for black is to spread white too thin on c4 g5 e5 d3, like if you provoke b3 then there can be good chances for b
+[17:38:09] nyanners: now well, i have no idea how that would ever happen
+[17:38:55] simonwashere: how bad is f5 here?
+[17:39:10] nyanners: ooohh
+[17:39:25] nyanners: its one of those "its good if its not bad"
+[17:39:40] nyanners: i dont know tbh
+[17:39:56] nyanners: i think its good
+[17:40:11] simonwashere: I might play it on the basis that everything else looks bad
+[17:40:57] nyanners: thats just because the position is bad
+[17:41:58] nyanners: okay black is speculating with like Bd6-Bxe5 maybe but.. yea id prefer f5
+[17:42:28] nyanners: 27 nxg6 cannot be accepted
+[17:43:45] nyanners: umm nxf8 hits h7 too
+[17:45:01] nyanners: maybe this is the best optical illusion available. position is already almost Too Winning
+[17:45:17] nyanners: okay white sees
+[17:45:32] nyanners: its too much because Nxh7 also enables Nf6+
+[17:46:18] nyanners: but maybe even Qxh7 into g6 and everything opens e.g. for Rf1
+[17:48:35] nyanners: this one i like less
+[17:49:05] nyanners: ummm nah its also very winning
+[17:49:20] nyanners: just any random plausible legal move stumbles upon wins i guess
+[17:51:53] davidsifre: black has the advantage of a won game being hard to win
+[17:52:08] nyanners: i just didnt like that Qxc4 threatens mate for a smol anxiety spike
+[17:52:54] simonwashere: gg
+[17:53:09] nyanners: gg
+[17:53:09] paulwithans: gg
+[17:54:25] nyanners: white played well. im not even too sure what went wrong for black
+[17:54:41] nyanners: like a few slow moves and suddenly it was already looking terrible
+[17:54:56] nyanners: i suppose theres good reason why everyone goes 16..Qd5-Qe4
