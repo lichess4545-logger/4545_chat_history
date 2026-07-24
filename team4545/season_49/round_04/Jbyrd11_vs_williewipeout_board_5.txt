@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/bVRwTkoX
+White     : jbyrd11
+Black     : williewipeout
+Time      : 45+45
+Captured  : 2026-07-24 18:26:10 UTC
+Game ended : 2026-07-24 17:06:06 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[15:02:42] handknit: (4.Qb3) I seem to remember thinking that this line isn't especially dangerous
+[15:22:31] handknit: (7...h6) The big question for black is how to complete queenside development. That's what's gonna shape his game.
+[15:23:02] handknit: (7...h6) I do worry that maybe e6 is out of place, and gonna end up being a significant tempo
+[15:24:03] handknit: (7...h6) On something like 8.Bf4 c6 white can think about e4-e5 and really turn d6 into something to use
+[15:27:08] handknit: (8.Bf4) I think c6 is the only move here. Nc6 just seems like a big fat target and I don't think there's a productive sacrifice with Nd5
+[15:30:12] handknit: (8...c6) With enough time you can see a scheme for black developing, slav-like: b5-Bb5-Nbd7-Rc8-c5
+[15:30:12] handknit: (8...c6) But that's a lot of time
+[15:30:27] handknit: (8...c6) *Bb7, not Bb5
+[15:31:43] handknit: (9...Nbd7) the Nbd7 move is natural but you maybe needed it on b8 to defend c6 when you push b5
+[15:35:32] semlegesnev: What if Nb6, Bd7, and no b5?
+[15:35:47] handknit: (10.Be2) Black doesn't get a way to challenge the centre, then
+[15:36:18] handknit: (10.Be2) The N on b6 and B on d7 don't really do anything
+[15:41:08] handknit: (10...O-O) While I think white's quite a bit better due to space here, it's not that easy to play
+[15:41:38] semlegesnev: White O-O-O is probably worse than O-O, but would lead to an interesting game
+[15:41:38] handknit: (10...O-O) "take space then choose a break" isn't the simplest decision
+[15:42:09] handknit: (10...O-O) Yeah, long castle is playable here but white doesn't need to shake it up here
+[15:42:24] handknit: (11.Bd6) And with the pawn structure, white probably wants to have b4-a4-b5 as an idea
+[15:44:57] handknit: (12...Re8) Black now has Nfd7 and e5 as an idea
+[15:44:57] handknit: (12...Re8) though I kinda expect white to push e5 here
+[15:46:13] handknit: (13...Nfd5) 14...Nfd5 15.Ne4 a5 is maybe an idea
+[15:46:28] handknit: (13...Nfd5) oh, I guess 14...Nf4 is quite solid too
+[15:46:59] handknit: (14.Nd2) Playing this way, I really want to play f5
+[15:47:14] handknit: (14.Nd2) It's shaky but I wanna stop Ne4
+[15:48:00] handknit: (15.Nde4) I really don't like Bf8. Defending f6 is much more important than the B on d6
+[15:48:30] handknit: (15.Nde4) The B on d6 actually blocks the square from white's knight too
+[15:49:16] handknit: (15.Nde4) Nbd7 is probably best here
+[15:51:18] semlegesnev: I kinda like Nxc6
+[15:51:33] semlegesnev: *nxc3
+[15:51:48] handknit: (15.Nde4) I was thinking about that but I dunno if I like white being able to take with the pawn
+[15:52:04] handknit: (15.Nde4) Maybe that cames in next. You still play Nbd7 first just because the N on d5 still controls b5
+[16:16:45] handknit: I’ve been having lunch. where did all the pieces go?
+[16:25:54] handknit: (22.f4) g4-f5 is probably the right approach for white
+[16:26:25] handknit: (22...Qd8) On 17.Nf6, did black have Re6?
+[16:31:00] handknit: (25.f5) allowing Qxd4+
+[16:31:15] handknit: (25.f5) This game has juice again
+[16:31:46] handknit: (25...Qxd4+) Black might even be better
+[16:32:01] handknit: (25...Qxd4+) ah, better is probably a step too far
+[16:32:31] handknit: (25...Qxd4+) 26.Rf2 Qxg4+ 27.Qg3 Qxg3+ 28.hxg3 Bxf5 is a lot of pawns for the exchange but
+[16:32:47] handknit: (25...Qxd4+) I suspect the open d-file means white won't be worse
+[16:34:03] handknit: (28.hxg3) maybe black can get the queenside pawns moving
+[16:34:33] handknit: (28...Bxf5) B on d5, get the pawns to b5 and a5 as a start
+[16:40:10] semlegesnev: Oh wow this game turned on
+[16:40:41] semlegesnev: That blunders an exchange
+[16:40:56] handknit: (30.Re2) yeah, Bg4 -+
+[16:43:59] handknit: (32...Rd8) let's see how well white keeps it together.
+[16:43:59] handknit: (32...Rd8) Black's winning but the position is scattered enough that white can try
+[16:44:14] semlegesnev: f6 was potentially better there, but three pawns is a lot
+[16:44:29] handknit: (33.Kf2) I think both f6 and Rd8 were fine, and probably roughly equivalent
+[16:44:44] handknit: (33.Kf2) This might actually be a bit better for holding out the goal of playing Kf8-e7-e6
+[16:46:01] handknit: (33...Rd4) If you could, you're much rather trade your c4 pawn for e5 than the f6 pawn, because of how much easier the 3v1 on the Kside is
+[16:47:02] handknit: (34...h5) ah, I would be a bit worried about sticking the R on g4
+[16:47:17] handknit: (34...h5) gives white Rd2-Rd7
+[16:48:03] handknit: (35.a3) Now Rd3+-Rb3 is a good manoeuvre
+[16:48:18] handknit: (35.a3) Though I still prefer Kf8-e7-e6
+[16:55:10] handknit: (37...Rd3+) Ke4-Kf5 is a bit spoopy here
+[16:56:57] handknit: (40.Rxb7) Might be best to start with h4 here just because speed is gonna start mattering now
+[16:57:12] handknit: (40.Rxb7) Black's got a couple of Qside ideas, with both Rb3 and c3
+[16:57:12] handknit: (40.Rxb7) Keeping the connected pawns is the win-con here
+[17:00:00] handknit: (40.Rxb7) I wonder if Ke6 is the move here, get the K to defend the c-pawn
+[17:00:00] handknit: (40.Rxb7) g5-h4-Rg3 is a self-sustaining structure
+[17:01:47] handknit: (41.Rc7) I think you gotta go for speed here. h3
+[17:02:48] handknit: (41.Rc7) Kg6 can also be an idea, going for Kh5-Kg4
+[17:05:36] handknit: (42...Ke7) I think black's figured out the chug-chugga
+[17:06:06] handknit: yee haw
