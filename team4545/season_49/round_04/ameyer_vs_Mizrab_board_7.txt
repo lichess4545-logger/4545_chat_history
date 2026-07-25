@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/ep2aIKUA
+White     : ameyer
+Black     : mizrab
+Time      : 45+45
+Captured  : 2026-07-25 17:15:07 UTC
+Game ended : 2026-07-25 15:55:04 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[13:02:14] simonwashere: Go Mizrab!
+[13:10:38] itsasecret2000: Go ameyer!
+[13:12:25] itsasecret2000: (7...c5) I've studied a bit this variation
+[13:14:12] itsasecret2000: (8.Bg5) Maybe 8.Be3 was a little better
+[13:14:43] itsasecret2000: (8.Bg5) Or at least it follows the opening idea: pressure on the queenside
+[13:15:14] itsasecret2000: (8.Bg5) if 8...cxd Nx oc, and now Nc6 isnt possible anymore
+[13:20:34] val1313: (8.Bg5) go ameyer !
+[13:33:02] val1313: (8...Nbd7) so keep developping here ? Nc3 ?
+[13:34:49] val1313: (9.c4) ok, interesting. I considered c3 to allaw potential QB3, but didn't want to obstruct the c3 square for the knight.
+[13:35:05] val1313: (9.c4) maybe this weakens D4 too much no ?
+[13:44:31] juyopvgc: Go Ameyer!
+[13:47:19] ameyer: shoot
+[13:56:28] goldenretrieverchess: Gooo Mizrab!!
+[14:13:31] ameyer: isn't the DSB black's best piece? why trade it? what am I missing
+[14:14:32] joonaf: Go Mizrab!
+[14:24:43] ameyer: can't decide if I want to trade on d5
+[14:25:13] ameyer: the fork after Nd3 doesn't work right away at least
+[14:28:01] ameyer: my hopes of getting that pawn back are fading though, and it's a protected passer, so I really should not be trying to get to an endgame
+[15:03:56] itsasecret2000: (29.Kf3) yeah maybe 9.c4 was too much
+[15:03:56] itsasecret2000: (29.Kf3) hard to hold this
+[15:09:01] val1313: (30.Rxd3) you have to take D3 here
+[15:09:01] val1313: (30.Rxd3) yeah
+[15:09:47] val1313: (30...Rxa2) 2 pawns is a lot
+[15:11:48] itsasecret2000: (33.Rd8) maybe 28... Re2 wasn't so accurate
+[15:12:19] val1313: (33.Rd8) yep
+[15:12:19] val1313: (33.Rd8) RD8 i linke
+[15:12:35] val1313: (33.Rd8) like
+[15:12:35] itsasecret2000: (33...Re3+) lets go ameyer
+[15:12:35] val1313: (33...Re3+) avoiding mate
+[15:13:20] val1313: (34.Kf2) still very tough
+[15:18:40] simonwashere: this is clever but it doesn't actually work
+[15:18:55] itsasecret2000: (37...Rb2+) yeah but maybe he panics
+[15:18:55] itsasecret2000: (37...Rb2+) midngames
+[15:19:11] itsasecret2000: (37...Rb2+) mindgames*
+[15:21:28] itsasecret2000: (38...g4+) i guess the panics is on
+[15:21:58] itsasecret2000: (39...Re2) Nxb6 and we're back in the game
+[15:23:15] itsasecret2000: (40.Nxb6) idk about 40.Nd6
+[15:23:46] gary0892: Oh I guess Ke7 wasn't a problem anymore?
+[15:25:33] itsasecret2000: my idea was to trade everything and then win h6, but i think the pawns endgame is lost for white
+[15:25:33] itsasecret2000: or at least not winning
+[15:27:20] itsasecret2000: (41.Kf3) i'd take white here with the passed pawn
+[15:27:20] itsasecret2000: (41...Rc2) what
+[15:27:35] itsasecret2000: (42.Rxe8) missclik Rb2?
+[15:27:35] gary0892: mindgames
+[15:27:50] gary0892: yeah probably
+[15:27:50] itsasecret2000: (42...Rc3+) ameyer is a mentalist
+[15:28:05] gary0892: anyway I have to go now
+[15:28:21] gary0892: Good luck ameyer
+[15:28:36] mizrab: I can't believe it. someone just came in to speak with me and I lost concentration
+[15:29:07] itsasecret2000: (43.Re3) f
+[15:29:37] val1313: (43.Re3) ameyer has people in Mizrab's room. Crazy
+[15:29:37] simonwashere: oh no
+[15:29:53] ttsgosadow: good tactics, send someone to distract opponent
+[15:30:38] itsasecret2000: that's deep prep
+[15:31:09] itsasecret2000: (43...Rc1) i guess now Kd4 Rc3 and the pawn goes
+[15:31:55] val1313: (43...Rc1) not much Black can do
+[15:32:57] itsasecret2000: even Nd5+ Rc3
+[15:32:57] itsasecret2000: even simpler
+[15:37:01] itsasecret2000: (48...Ke5) not so straightfoward to win
+[15:38:02] itsasecret2000: (48...Ke5) K to f3 and Na4 to defend the pawn
+[15:38:02] itsasecret2000: (49.Ke3) ameyer on fire
+[15:39:03] itsasecret2000: (50.c6) Kf3 h5 Na4 and black is in zugzwang
+[15:39:18] itsasecret2000: (50...Kd6) this works too
+[15:39:49] itsasecret2000: (50...Kd6) maybe he wants to sac the knight
+[15:44:08] itsasecret2000: another chance to sac the knight
+[15:46:10] ameyer: I don't know if I should try to save the knight
+[15:46:40] ameyer: I feel like there's something about pushing g pawns that I don't know
+[15:46:55] simonwashere: never push g pawns
+[15:47:10] itsasecret2000: maybe some stalemate trick with Kh8 but it's fine
+[15:47:10] itsasecret2000: xD
+[15:49:14] ameyer: I think I might need it for zugzwang?
+[15:55:04] itsasecret2000: gg
+[15:56:36] simonwashere: gg
