@@ -1,0 +1,25 @@
+Lichess game chat log
+Game      : https://lichess.org/hJROl3Ua
+White     : nebraskanarwhal
+Black     : butterpecan
+Time      : 30+30
+Captured  : 2026-07-25 21:38:29 UTC
+Game ended : 2026-07-25 20:18:25 UTC
+Messages  : 15
+────────────────────────────────────────────────────────────
+
+[19:36:42] butterpecan: i know it looks funny, but's been played by karpov and korchnoi
+[19:38:13] ng_life: 8... f5 actually looks pretty good, this is an interesting position
+[19:39:15] butterpecan: comment re: 8...f5, in case the auto-move number plug-in isn'te working
+[19:42:18] butterpecan: can't remember what i had planned for 9.Qc2
+[19:42:33] butterpecan: i know the main line is 9...f4, but i hate the resulting position
+[19:44:05] ng_life: this looks pretty dangerous for white, and it will be hard to hold the extra pawn
+[19:44:50] butterpecan: it's like 9...f4 10.Bf4 Nf4 11. Qa4 Bd7 12.Qf4
+[19:45:06] butterpecan: the engine says it' s ok but doesn't feel good
+[19:49:40] ng_life: I was wondering if 11... Qf6 was possible, white would have to address the thread on f2 instead of taking the knight
+[19:49:55] ng_life: on f1*
+[20:00:21] ng_life: (13) hmmm, somehow black lost his initiative, with the extra pawn still in the pocket white should be better now
+[20:19:10] gavalanche20: Hm did Black maybe forget g2 was defended?
+[20:20:42] nebraskanarwhal: I was really worried about 13...Qa5
+[20:21:13] nebraskanarwhal: because that really does threaten Nxg2 tactically, with the white queen overloaded
+[20:21:43] nebraskanarwhal: white can't castle after that either because Qxc5 would pick up the bishop
