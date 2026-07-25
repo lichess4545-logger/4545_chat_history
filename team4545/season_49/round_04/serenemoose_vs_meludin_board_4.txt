@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/WW2fpvlb
+White     : serenemoose
+Black     : meludin
+Time      : 45+45
+Captured  : 2026-07-25 16:35:25 UTC
+Game ended : 2026-07-25 15:15:17 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[13:01:28] namegoesinhere: (2.g3) go moooose!
+[13:07:20] serenemoose: I didn't just blunder did I? Oh boy.
+[13:09:22] namegoesinhere: (9...c5) ah, was there ...Nxe4 Nxe4 Qxd1 Rxd1 Bxe4?
+[13:09:37] namegoesinhere: (9...c5) maybe white can move the f3 knight instead of Nxe4 though
+[13:11:24] namegoesinhere: (10.Qe2) so probably 9.Qe2 followed by Rd1 was better
+[13:11:55] le_merovingien: Smells of double fianchetto
+[13:12:25] namegoesinhere: (10.Qe2) yeah, there's not another great way to develop the DSB
+[13:15:13] serenemoose: Just spent a full minute calculating 10...Ba6 c4 b5 b3. I think I might need coffee.
+[13:16:29] le_merovingien: I think moose is thinking defensively here. This does not bode well
+[13:19:48] jose684: Go Moose !
+[13:21:20] jose684: I am not sure if I like this opening set up from White :)
+[13:23:37] namegoesinhere: (11...Qc7) I think if white can find time to get in e5/Nf1/Bf4/Rad1 then the position should be solid
+[13:29:29] serenemoose: Pushing e5 through is certainly an idea, I can also just finish development and let Black stew a bit.
+[13:52:37] serenemoose: So the f1 knight goes either to e4, potentially d6, or h2 to help g4 g5. But then ...h5 and what next?
+[13:59:46] serenemoose: The other line was maybe more promising but I don't like the look of ...Nf8.
+[14:02:19] serenemoose: Ah, can't deal with ...Bd3 and ...Ng6 at once.
+[14:05:37] jose684: Not sure if e5 pawn push was at the correct time.
+[14:11:59] le_merovingien: White has 8 Pawns.
+[14:15:33] serenemoose: 21. I just hung the pawn again didn't I?
+[14:35:08] serenemoose: So my opponent is inviting a sacrifice, but I don't know which one is right.
+[14:35:39] namegoesinhere: (25...Nge7) I'm not sure either sac works right now
+[14:35:54] namegoesinhere: (25...Nge7) I was looking at Ne3
+[14:36:09] namegoesinhere: (25...Nge7) oh, there's also sacs with a discovery against the rook, I was only looking at Nf6 and Nh6
+[14:38:27] namegoesinhere: (25...Nge7) still think Ne3 is good, maybe can follow up with Nc4-d6 on a good day
+[14:39:43] namegoesinhere: (26.Bxh6) ...may have forgotten that bishop exists
+[14:40:28] namegoesinhere: (27...Kh8) Qc2 here?
+[14:41:44] serenemoose: Wanted 28. Qe4 but it's in the Bishop's path, might be shenanigans.
+[14:49:22] serenemoose: Had I not played c4 I'd've had Ne8 for Kg7, I think.
+[15:12:29] jose684: 48. Rxh6 - would it have worked ?
+[15:13:15] namegoesinhere: (49.Rd6) think so, nice find
+[15:13:31] namegoesinhere: (49.Rd6) this should be good for white too but not as immediately winning
+[15:14:01] jose684: yes other one was winning on the spot
+[15:14:01] jose684: I mean 48. Rxh6
+[15:15:02] jose684: easier to spot these moves when you are watching. LOL
+[15:15:17] jose684: GG
+[15:16:49] meludin: gg
+[15:17:49] serenemoose: Ah. 28 Ng5 is the followup.
