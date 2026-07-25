@@ -1,0 +1,96 @@
+Lichess game chat log
+Game      : https://lichess.org/4NGjBXBT
+White     : ciraid
+Black     : robertjackson
+Time      : 45+45
+Captured  : 2026-07-25 12:08:25 UTC
+Game ended : 2026-07-25 10:48:16 UTC
+Messages  : 86
+────────────────────────────────────────────────────────────
+
+[09:00:22] joonaf: Go Ciraid!
+[09:00:53] timothyha: (2.exd5) wait, go, RobertJackson!
+[09:01:54] robertjackson: candidates are Qxd5 or Nf6
+[09:02:09] timothyha: (2.exd5) well, there's also e6
+[09:03:41] robertjackson: mixing things vey early on
+[09:06:59] robertjackson: 5...g6 or Nc6 under consideration
+[09:09:16] robertjackson: or maybe 5...c6 as a novelty
+[09:11:03] ciraid: now the qs dev is going to be very slow
+[09:12:04] timothyha: (6...Nf6) there are Masters DB games in this position and Black is ok
+[09:12:50] timothyha: (7.Nc3) it becomes a normal CK position after Bf5 and e6
+[09:24:34] robertjackson: thinking about 9...d6 Nbd7 or a6 here
+[09:28:07] robertjackson: another option 9...Na6 but gut feeling is no to that one
+[09:29:38] robertjackson: 9...Ne4 also looks odd but worth thinking about
+[09:32:58] robertjackson: of course, Ne4 not good for development!!
+[09:34:14] upgoerfive: go Ciraid!
+[09:35:30] ciraid: black neglects his dev, this exchange favors white plus a tempo on the q
+[09:36:31] ciraid: after nxe4 bxe4 the b7 pawn is very weak
+[09:43:23] timothyha: (11...Qf5) Qb3 Qc8 Rc1 now I guess
+[09:48:43] ciraid: black is passive white has the initiative.
+[09:49:14] robertjackson: I feel I am in a fair bit of trouble here
+[09:49:59] ciraid: now I can seek to open files with d5 but looks rac1 needs to be inserted in order to exploit qc8
+[09:54:04] timothyha: (13.Rac1) e6 still ok to be played
+[09:55:05] timothyha: (13.Rac1) Ne4 was definitely too early before castling
+[09:58:23] timothyha: (13...h6) h6 is not a developing move that also helps castling
+[09:58:53] timothyha: (13...h6) I guess it's against Ng5 but that threat was vague
+[10:01:41] timothyha: (14...c5) too many ideas for White
+[10:01:41] timothyha: (15.Qe3) but probably Qe3 or Re1 simplest
+[10:09:35] ciraid: very dangerous LSB is hanging
+[10:09:50] robertjackson: painful at 16...e6 - need some counterplay fast
+[10:13:39] robertjackson: structural disaster - fighting on though as options diminish
+[10:14:10] timothyha: (17...Bh7) the commentaries are so understated
+[10:14:10] timothyha: (17...Bh7) from both
+[10:14:40] timothyha: (18...Be7) one can lose a queen after Be7 dxe6
+[10:15:26] timothyha: (19.dxe6) I'd try f6 and suffer
+[10:17:43] timothyha: (21...O-O) how many pawns does a king need
+[10:17:58] timothyha: (21...O-O) before you call him a king
+[10:18:59] robertjackson: guess this chess technique is called hanging on grimly
+[10:20:00] timothyha: (21...O-O) I once put a king in the corner and pieces around it and said, The Guard Never Surrenders
+[10:20:31] timothyha: (21...O-O) Bb1 now?
+[10:24:35] timothyha: (22.Bb1) there's still Qc6 Qe3 Qxe6
+[10:24:35] timothyha: (22.Bb1) still lost but not immediately
+[10:26:06] timothyha: (22.Bb1) but maybe Rf6 and something take on e6 is more correct
+[10:26:21] timothyha: (22.Bb1) Qc6 Rfe1 I think
+[10:27:53] timothyha: (23.b5) maybe that's why Rf6 was better, as b5 wouldn't be so helpful
+[10:29:54] robertjackson: going going
+[10:34:30] robertjackson: all over but impossible to just resign....
+[10:35:16] nyanners: seems like Too Winning territory here
+[10:35:31] timothyha: (26.Qg4) yeah
+[10:36:01] timothyha: (26.Qg4) one can play with food and realise food has teeth
+[10:36:01] timothyha: (26.Qg4) not too much left though
+[10:36:32] nyanners: i mean itd already suck to give the exchange for nothing but i dont even see how to do that
+[10:37:02] timothyha: (26...Kh7) here is your answer!
+[10:37:33] nyanners: mm
+[10:37:48] nyanners: you can probably rook lift but yea id just Bd2
+[10:38:50] nyanners: a line like Bxf5 Kxh6 Rc3
+[10:39:05] nyanners: not gxf5 Qg7#
+[10:39:36] robertjackson: 27.BxRf5 looks pretty fatal
+[10:39:51] timothyha: (26...Kh7) Bd2 Rh5 isn't even possible...
+[10:39:51] timothyha: (26...Kh7) Qxh5
+[10:40:22] robertjackson: but it all looks fatal
+[10:40:37] timothyha: (26...Kh7) choose something beautiful
+[10:40:37] nyanners: yea i feel ciraid isnt a Bd2 type of player
+[10:40:52] nyanners: thats kinda lame
+[10:41:54] timothyha: (27.Bd2) :-)
+[10:42:24] nyanners: oh well. we can be lame together
+[10:42:24] nyanners: it wins
+[10:42:40] timothyha: (27.Bd2) Qf8 for a bit longer?
+[10:43:10] nyanners: i suppose then we go for the rook lift
+[10:43:56] timothyha: (27...Qf8) the knight and rook on the queenside are going to leave this team after this game
+[10:44:26] timothyha: (27...Qf8) the pawns don't have a choice though
+[10:44:41] nyanners: yea the funny is like, even if white takes the rook now black still doesnt have any moves
+[10:44:57] nyanners: usually giving material helps
+[10:45:27] timothyha: (27...Qf8) Na6 might suddenly help if White is slow
+[10:45:59] nyanners: so where did it all go wrong? i heard openings werent supposed to matter
+[10:45:59] nyanners: they did
+[10:46:29] timothyha: (27...Qf8) 9... Ne4 was an extra move
+[10:46:44] nyanners: i think its already bad
+[10:46:44] timothyha: (27...Qf8) the opening was probably a flat 0.0 before that
+[10:47:00] nyanners: nah this compares poorly to normal scandi
+[10:47:15] nyanners: white has the extra c4 for free
+[10:47:46] nyanners: and then found some very nice moves to capitalize
+[10:48:16] nyanners: gg
+[10:48:16] timothyha: gg
+[10:48:47] kamagayajiji: gg
+[10:49:02] ciraid: Gg
+[11:06:20] joonaf: gg
