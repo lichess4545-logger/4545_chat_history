@@ -1,0 +1,30 @@
+Lichess game chat log
+Game      : https://lichess.org/vjBCQfyS
+White     : surprisetactics
+Black     : aguayo
+Time      : 45+45
+Captured  : 2026-07-25 16:41:37 UTC
+Game ended : 2026-07-25 15:21:28 UTC
+Messages  : 20
+────────────────────────────────────────────────────────────
+
+[13:10:53] handknit: (7...cxb6) Feel like black's gonna have some space problems
+[13:11:24] handknit: (8...O-O) White's got both c6 and c7 to play with, though if black is quick to Rc8 maybe it won't be so so bad
+[13:14:58] handknit: (9...Bd7) I feel like the B belongs on b7 to support e4 but I can understand wanting it on this diagonal instead
+[13:15:31] handknit: (10.h3) Qc8-Qb7 is an interesting idea here
+[13:15:46] handknit: (10.h3) Combine that with Nc8 and Rfc8 and maybe push some queenside pawns
+[13:16:01] handknit: (10...Nc6) *Nc6
+[13:19:04] handknit: (11.Rc1) Something like b5-Qb6-Rfc8 is a more natural setup to try
+[13:20:20] handknit: (11...b5) From white, something like Qc2-Ne5 is probably the natural way to press
+[13:24:39] handknit: (13.Qe2) Maybe Na5-Nc4 now
+[13:25:10] handknit: (13.Qe2) Putting the a-rook on c8, rather than the f-rook, means a6-b5 can start to feel a bit soft
+[13:27:12] handknit: (13...Na5) The other thing about Rfc8 is that it allows black to meet Ne5 with Be8
+[13:34:50] handknit: (14...Nc4) Got that Nxb2 threat now.
+[13:35:21] handknit: (14...Nc4) And on b3, there's Na3 which is a kinda thematic idea in the slav exchangeo
+[13:38:08] handknit: (15.Rfc1) Qa5 to renew the pressure
+[13:40:57] handknit: (15...Qb6) I dunno if Qb6 does enough. Ne5 reverses the perssure quickly
+[13:45:32] handknit: (16...Nxe5) Running out but I worry black might be losing after dxe5
+[13:45:47] handknit: (16...Nxe5) Nxd5 as a big threat
+[15:04:42] handknit: (42...Ng6) a5 is probably the cleanest option here
+[15:04:42] handknit: (42...Ng6) fix black's pawn on a6
+[15:23:00] surprisetactics: Thanks for the comments. I’ll go through them with the review!
