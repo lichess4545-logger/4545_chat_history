@@ -1,0 +1,37 @@
+Lichess game chat log
+Game      : https://lichess.org/fZwOSZC6
+White     : ng_life
+Black     : aamo1
+Time      : 30+30
+Captured  : 2026-07-25 22:32:32 UTC
+Game ended : 2026-07-25 21:12:24 UTC
+Messages  : 27
+────────────────────────────────────────────────────────────
+
+[19:32:51] ng_life: (6) I saw my opp played Queen's Indian but never faced 4.a3 should be new-ish territory for him
+[19:37:12] ng_life: based off of my memory I think immediate d5 or c5 was better than 5... be7 but I don't recall why. I don't expect to get much advantage.
+[19:42:47] ng_life: 10... c5 immediately surprises me a little, I don't think I need to react to that. Maybe rc1 c4 bb1 looks fine?
+[19:45:49] ng_life: 12... a6 I don't get the point, I would want to play Qc2 eventually anyways and you waste two tempo to force it immediately?
+[19:51:10] ng_life: 15. bg5 as long as I take on f6 can't I play e4?
+[19:53:27] ng_life: (17) I guess ne5 and I threaten f3? if ne5 f6 then I can f3 fxe5 fxe4 rxf1 rxf1...?
+[19:58:02] ng_life: 18. f3 I don't really care if this loses a pawn, the queenside pieces look out of position for him, and I'm lined up
+[19:59:33] ng_life: 20. exd5 Qxe3+ kh1 looks very dangerous for black
+[20:02:51] ng_life: (22) options... nxe4 or rfe1?
+[20:11:31] ng_life: (23) nf6+ rxf6 Qxh7 kf8 rxf6...? how do I continue the attack?
+[20:14:19] ng_life: nf6+ rxf6 Qxh7 kf8 rxf6 gxf6 rf1 Qg5 kind of looks like he's hanging on, doesn't it?
+[20:17:07] ng_life: (23) what about nc5? g6? or ng5? g6? nxh7?
+[20:18:08] ng_life: ng5 Qd3? I'm up a pawn there I guess?
+[20:22:58] ng_life: 26. nf3 my d pawn is in danger if bxf3 gxf3 rad8 be4 rxd4 winning back the pawn, but that gives me a lot of play
+[20:50:02] ng_life: 43. kd2 if rxc5 I get a past pawn, which he can block, but it will tie up the bishop
+[20:52:20] ng_life: (45. nc6) many threats here. Sample line: kf6 rxf5 kxf5 nd4+ winning the b pawn
+[21:06:18] ng_life: 57. ka7 this should be won now? I'm not seeing a good try for him to draw?
+[21:07:19] ng_life: bd7 b5 I can always push the b pawn and sack the a pawn
+[21:07:34] marrakesch: Very good sac for the pawn there. Should be too much for black now?!
+[21:11:38] marrakesch: Good game guys...
+[21:12:39] ng_life: I think my play was a little suspect
+[21:12:55] ng_life: I might have been going too aggressive in this end game but it worked out, I was very worried about counter push at some point
+[21:13:10] ng_life: I think when I played a4 it was a bad move, wasted a crucial tempo
+[21:13:25] ng_life: I'll turn on engine and see
+[21:14:11] ng_life: and I was right, a4 was a blunder - such a dumb move
+[21:15:12] ng_life: good game @AAmo1 it was a tough fight
+[21:18:17] ng_life: forgot to say hi @gavalanche20 and @Marrakesch :p
