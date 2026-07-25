@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/8V9EDPjX
+White     : befreemx
+Black     : momor
+Time      : 45+45
+Captured  : 2026-07-25 21:07:39 UTC
+Game ended : 2026-07-25 19:47:38 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[18:30:01] warvold: (12...h6) Go momooor
+[18:30:17] momor: hi warvold
+[18:32:04] momor: Hi Pineapple
+[18:33:36] bennol: go Momor
+[18:34:06] momor: I think my opening is good for now
+[18:38:42] momor: I'm going to play around the pin
+[18:39:27] momor: Hi Bennol
+[18:51:11] gavalanche20: (18...Qh5) Hmmm is b7 takeable here?
+[18:52:12] gavalanche20: (18...Qh5) f4 works too, Rg7 on the horizon
+[19:03:07] gavalanche20: (19.f4) oof, Rg7 would still work if Qd1 wasn't check
+[19:03:53] momor: I think I have a winning position
+[19:04:24] gavalanche20: (20...f5) fe5 I think it at least interesting still?
+[19:05:55] gavalanche20: (20...f5) Here Rg7 Qd1 Kg2 Rg8 is probably enough?
+[19:07:57] momor: hi Colton
+[19:08:12] coltonmtotland: hi momor!
+[19:08:58] coltonmtotland: momor’s done really well
+[19:08:58] coltonmtotland: hope he finishes strong here
+[19:09:59] gavalanche20: (21...Qxd1+) Oh dear does this give White at least a draw here though
+[19:15:49] jdannan: white can play to win here
+[19:16:20] jdannan: Rg5 and take the B
+[19:17:21] gavalanche20: (28...Kh8) Yeah that too, four pawns for the exchange
+[19:17:36] jdannan: he's considering it
+[19:18:06] momor: I should have played 22...Rf6 instead of 22...Qg4+
+[19:19:53] jdannan: after Rxc5 Rac8, d4-d5 comes quickly and white should win that
+[19:20:08] jdannan: well spotted befreemx!
+[19:21:55] jdannan: I wonder if they know that a pair of pawns on the 6th wins against a rook?
+[19:22:26] jdannan: eg d4 Rfe8 d5! cd Rxc8 Rxc8 cd! Rxc3 d6
+[19:23:27] jdannan: (doesn't work, Rxc3 isn't forced)
+[19:24:12] jdannan: no scratch that it does work
+[19:24:31] momor: Sorry, guys. I had the win in my hands, and I don't know why I played Qg4 maybe I was worried about the two rooks on my second rank
+[19:24:31] gavalanche20: (28...Kh8) I was thinking 22...Rg8
+[19:33:39] momor: I'm trying to activate my king. He's up material, but I'll keep fighting
+[19:44:04] genturgidson: 42...Be5+ fork hope chess ahaha.
+[19:46:52] gavalanche20: (30...Rac8) ouch
+[19:48:08] genturgidson: ok he fell for my suggestion, ouch.
+[19:48:08] warvold: gg
+[19:51:43] momor: Thanks for watching
+[20:04:24] momor: @gavalanche20 you were right about Rg8
