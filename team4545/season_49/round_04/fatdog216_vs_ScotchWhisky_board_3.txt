@@ -1,0 +1,130 @@
+Lichess game chat log
+Game      : https://lichess.org/ZOE04V89
+White     : fatdog216
+Black     : scotchwhisky
+Time      : 45+45
+Captured  : 2026-07-25 17:50:44 UTC
+Game ended : 2026-07-25 16:30:37 UTC
+Messages  : 120
+────────────────────────────────────────────────────────────
+
+[14:04:16] berndwind: go Scotch!
+[14:15:29] leverkuhn: Bishop pair versus the somewhat crippled pawns
+[14:16:30] leverkuhn: with Black placing his kingside pawns in a solid light-square chain, I don't see where White's pawn break is going to come from
+[14:18:47] leverkuhn: watch out for ...Bxd4 tactics
+[14:19:02] leverkuhn: for example 15.Rg1 Bxd4! might actually work
+[14:24:07] leverkuhn: also interesting after 15.Bd2: 15...Bxd4 16.exd4 Nxd4 17.0-0? Nf3+! and Black wins
+[14:25:54] leverkuhn: 17.Bd3 (...Nxb5 was a threat) 17...Nxb3 18.Ra3 Nc5 19.Bb5 and it seems like Black just picks up the three pawns
+[14:26:40] leverkuhn: so I think not quite working unfortunately
+[14:27:41] leverkuhn: I expect 15...Rfc8 and 16...Bf8 follwed by some knight rerouting, perhaps to f5
+[14:43:59] scotchwhisky: really don't know what to do here 16...
+[14:43:59] scotchwhisky: have some ideas
+[14:44:14] leverkuhn: 16...Rc7 also a candidate if you want to make sure you double on the c-file before White
+[14:44:30] scotchwhisky: 16...Na5 is one, or Rc7 doubling on c-file, or ...f6 followed by e5 seems the most complicated
+[14:45:31] jfiras: (16.Ke2) I tought about Na5 too, maybe the first that came to my mind, but i don't think it's a good move honestly
+[14:45:46] scotchwhisky: I am kind of worried about him doubling on c-file if I go for f6 e5
+[14:46:01] scotchwhisky: was also thinking about ...Na7 17. Bd3 but then what
+[14:46:01] leverkuhn: yeah I definitely wouldn't do that plan
+[14:46:16] leverkuhn: the ...f6 one
+[14:46:47] scotchwhisky: ...Na5 at least makes him figure out whether to trade bishop into knight or push pawn or play rook to defend the b pawn
+[14:47:02] scotchwhisky: there's also Bf8
+[14:47:02] scotchwhisky: just don't know
+[14:47:02] jfiras: (16.Ke2) that's the one that i want to see on the board
+[14:47:17] jfiras: (16.Ke2) Bf8
+[14:47:32] scotchwhisky: so must be ...Na5 or ...f6 as most testing
+[14:47:48] scotchwhisky: leaning to Na5
+[14:48:03] jfiras: (16.Ke2) :(
+[14:48:18] scotchwhisky: he's playing fast
+[14:48:33] scotchwhisky: I could still go for ...f6 after Na5 and see what he does..
+[14:49:19] scotchwhisky: well could be wrong but let's see
+[14:49:34] scotchwhisky: also opens up Rc2 infiltration
+[14:50:05] scotchwhisky: kind of like a tempo, but if he immediately snaps off with bishop.. take with pawn I guess, but then his lsb is a monster
+[14:51:06] scotchwhisky: burning all my time here but can't figure it out
+[14:52:22] scotchwhisky: I can't really double on c-file if he snaps with bishop, maybe I should prepare it more or just play Rc7
+[14:53:38] scotchwhisky: ok I don't like Na5 anymore
+[14:54:54] scotchwhisky: must be all about the c-file right now
+[14:56:11] scotchwhisky: well that was a long think and I don't feel good about my position
+[14:57:12] scotchwhisky: with the knight there it is at least stopping his bishop from getting to Bd7
+[14:57:42] scotchwhisky: I'm guessing 17. some rook to c1 but idk
+[14:58:13] scotchwhisky: so fast
+[14:58:28] scotchwhisky: well now I am sort of committed to Rac8
+[14:58:59] scotchwhisky: Na5 may work at some point
+[14:59:14] scotchwhisky: ok after 18. Rab1 he's preparing b4 most likely
+[14:59:44] scotchwhisky: looking at tactics of Nxd4+ , doesn't seem to work on move 18
+[14:59:59] scotchwhisky: maybe now is time for f6 e5
+[15:00:46] scotchwhisky: ...Bxd4 doesn't seem to work either
+[15:03:19] leverkuhn: 18...Na5 is reasonable as a kind of defensive move: if White plays b4 we'll be able to jump to c4
+[15:03:34] scotchwhisky: ...Bf8 19. b4 Bxb4 20. Bxb4 Nd4+ exd4 Rxc1 might be too much material
+[15:04:04] scotchwhisky: ok prolly just need to try f6 e5 and pray
+[15:05:51] leverkuhn: it's totally clear that b4 really hurts Black, but you could imagine a subsequent a4-a5 and targeting b7 after a pawn trade
+[15:05:51] leverkuhn: *not* totally clear
+[15:13:01] scotchwhisky: pawn structure in shambles
+[15:13:16] scotchwhisky: but can I win this h pawn?
+[15:13:32] leverkuhn: White regretting his 19.h4?! move here, but he does have 25.Bb2
+[15:13:47] scotchwhisky: ew 25. Bb2 potential
+[15:15:18] leverkuhn: 25.Bb2 maybe 25...Kg7!? is important so that after 26.f4 we have 26...Nf7 getting to d6
+[15:16:04] scotchwhisky: not much time in this end game
+[15:18:37] scotchwhisky: my b7 pawn will probably fall if his lsb stays on
+[15:18:52] scotchwhisky: may be able to play Nc6 again
+[15:19:07] scotchwhisky: most worried about 25. Bb2 but then I play Kf7 or Kg7
+[15:22:41] scotchwhisky: if 25. Bb2 then Nd7!? is also an interesting idea to force a trade
+[15:23:11] scotchwhisky: but if Bxd7 and Bxb2 then Bc8 but it's opposite bishops then
+[15:23:42] scotchwhisky: but if Bxf6 Nxf6 that's probably losing
+[15:24:12] scotchwhisky: probably headed there after Kf7 tho
+[15:26:15] scotchwhisky: this feels losing but let's see
+[15:27:16] leverkuhn: 26.f4 and White is for choice I agree
+[15:27:31] scotchwhisky: idk what he will do but an idea is Ng4 and if Bxf6 Nxf6 and he doesn't have Bd7 immediately
+[15:28:02] leverkuhn: true, but when his king reaches d4, the knight is three moves away from checking it
+[15:28:17] leverkuhn: White's king will rule the board
+[15:29:03] scotchwhisky: or Nc6 and daring him to trade the bishop and fix my pawns
+[15:29:49] leverkuhn: counterplay is especially preferred to passive defense in the endgame, which is why I wanted the knight on d6, looking to f5 and h4
+[15:31:05] leverkuhn: 26...Nc6 looks healthier in principle, but after 27.Bxf6 Kxf6 28.Bxc6 bxc6 29.b4!, White creates an outside passed pawn and wins
+[15:31:50] scotchwhisky: may be a danger of a passed a pawn though after Nc6 Bxc6 and bxc6 then white's b4 and a5
+[15:32:36] scotchwhisky: so maybe Ng4 is safer? no time
+[15:33:22] scotchwhisky: yeah maybe Nc6 is losing
+[15:34:08] leverkuhn: well spotted!
+[15:34:23] scotchwhisky: welp
+[15:34:53] scotchwhisky: here I am again in time pressure
+[15:35:24] scotchwhisky: this may be holdable though
+[15:36:40] scotchwhisky: what is he doing about Kf5 Kg4?
+[15:37:26] scotchwhisky: I may just have to go for that
+[15:37:26] leverkuhn: 29.Kd4 Kf5 30.Be2 is a barrier
+[15:37:56] scotchwhisky: also Kd6 and Kc5
+[15:38:12] leverkuhn: but if Black defends passively from d6, he falls in zugzwang after White's bishop reaches f3
+[15:38:12] scotchwhisky: ok 29...Kf5?
+[15:38:28] scotchwhisky: might just have to go for it
+[15:38:28] scotchwhisky: no time to think
+[15:38:43] leverkuhn: he has to find something extraordinary here, but I don't see it
+[15:39:14] scotchwhisky: ah
+[15:46:36] scotchwhisky: worth a try
+[15:47:37] scotchwhisky: if I keep going Ke6 and Kd6 what can he do
+[15:48:08] scotchwhisky: i hope nothing
+[15:50:10] scotchwhisky: there's a5 and e4
+[15:50:10] scotchwhisky: probably considering a5
+[15:52:11] scotchwhisky: ok Ke6 Kd6 Kc6 now what you got
+[15:53:45] scotchwhisky: ok gotta be careful of Kc6 because Ke5
+[16:02:23] jfiras: (35...Kc6) oh wow
+[16:02:23] scotchwhisky: if 36. Ke5 then I have Ng4+ which seems to force him back to Kd4
+[16:02:23] jfiras: (35...Kc6) interesting
+[16:09:31] jfiras: (40...Kd6) i don't think there is anything to do for both sides here
+[16:12:18] matman: 41.f5?
+[16:14:35] matman: or Bh3 and f5
+[16:19:09] matman: 42.Bc8 Kc7 43.Bxb7?
+[16:21:57] jfiras: (42.Bc8) going for it
+[16:28:50] matman: 1-0
+[16:30:07] jfiras: gg !
+[16:30:22] scotchwhisky: gg
+[16:31:08] fatdog216: Want to analyze together?  I thought there was a draw there still at the end for black with Nf6
+[16:31:23] scotchwhisky: I don't have time now will look later
+[16:31:23] scotchwhisky: Kf5 was wrong though apparently
+[16:31:38] scotchwhisky: goes from 0 to +3
+[16:31:38] scotchwhisky: insane
+[16:31:53] fatdog216: Wow yeah didn't feel like that in the game intuitiveluy
+[16:32:39] fatdog216: I thought 44...Nf6 would be a draw
+[16:32:39] fatdog216: I didn't see better than repeating there
+[16:33:09] matman: 43.Bxb7! wins too
+[16:34:10] matman: That’s what I would play in the game.
+[16:36:27] fatdog216: Wow I looked at Bxb7 but couldn't calculate it all out
+[16:36:58] fatdog216: How do you commentate the game in the chat like my opponent was doing?  I like the idea of putting my thought process down in real time
+[16:37:28] fatdog216: But it also looks like Leverkuhn could read their messages and respond in game which is strange
+[16:43:20] fatdog216: TIL about the whisper function
