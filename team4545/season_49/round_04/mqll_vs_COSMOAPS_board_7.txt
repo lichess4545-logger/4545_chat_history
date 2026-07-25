@@ -1,0 +1,206 @@
+Lichess game chat log
+Game      : https://lichess.org/n0zxxguh
+White     : mqll
+Black     : cosmoaps
+Time      : 45+45
+Captured  : 2026-07-25 05:21:16 UTC
+Game ended : 2026-07-25 04:01:11 UTC
+Messages  : 196
+────────────────────────────────────────────────────────────
+
+[02:03:37] handknit: (4...Bg7) da kid
+[02:04:08] handknit: (5...O-O) oh hey, i know this
+[02:04:23] handknit: (5...O-O) I think 6...Bf5 is kind of in right now
+[02:07:11] handknit: (7.O-O) I think playing for c5 tends to go better than e5 for black
+[02:07:11] handknit: (7.O-O) though Re8 is obviously a commitment to e5
+[02:11:14] rishadanport: hi
+[02:12:15] rishadanport: goooooooooo mqll... we need it!
+[02:12:31] handknit: (10.Bxf3) I guess black comes in with e5 now?
+[02:13:01] handknit: (10.Bxf3) Not a fan of giving up the bishop pair but you can see how black can try route the N to d4
+[02:13:16] rishadanport: Bxf3 unprovoked yah not good
+[02:13:32] rishadanport: only do Bxf3 at least after h3
+[02:14:18] rishadanport: also... Bxf3 is bad for different reason, as it is blacks good bishop if black plays e5
+[02:15:04] handknit: (10.Bxf3) This game is very much not going to follow a standard setup plan
+[02:16:05] rishadanport: I'm also not liking blacks time management from Bxf3 -- it's a big decision and so little time was spent
+[02:16:51] handknit: (10...e5) I mean, the decision was probably made with c6
+[02:19:54] rishadanport: d5 interesting decision
+[02:20:09] handknit: (12.cxd5) It is an approach
+[02:20:40] handknit: (12...Nbd7) The word on the street about the open c-file is that white always gets control of it eventually
+[02:21:10] handknit: (12...Nbd7) Black's gonna want to think about how to arrange the piece here to simultaneously cover the...
+[02:21:26] handknit: (13.Bg5) c7/d6 weak spots and have a shot at counterplay
+[02:21:26] thegreattoddman: o/
+[02:21:41] rishadanport: I don't like Bg5
+[02:22:12] rishadanport: 13, Bg5 does pin the knight... but after Qb6 it will be a useless pin.
+[02:22:27] thegreattoddman: Yo Rishadan, maybe Bg5 doesn't like you either
+[02:22:27] rishadanport: yah possible it doesn't like me either
+[02:24:13] handknit: (14.Be3) Nb6-Rc8 is some kind of idea. Loosely threaten Nc4. Though I dunno if it goes anywhere
+[02:24:29] rishadanport: yah im scared of 14 .. a6 too
+[02:24:44] handknit: (14.Be3) The lack of the LSB really undercuts the natural plan of playing for f5
+[02:25:14] rishadanport: a6 + Na4 + b6 is covered by Queen and knight. so maybe a6 ok
+[02:25:45] rishadanport: Re8 is misplaced currently
+[02:26:46] handknit: (14...a6) Black's generally facing a question of where to put the pieces
+[02:27:01] rishadanport: blacks plan must be b5 + Nb6 + Bc4
+[02:27:18] rishadanport: *
+[02:27:18] rishadanport: *Nc4
+[02:27:33] handknit: (15.b4) There's this big overall problem that black has no obvious break, and the endgame is bad
+[02:28:03] rishadanport: Qd2 protects knight and tempo with g6
+[02:28:03] rishadanport: *h6
+[02:28:34] rishadanport: but, Qd2 makes Nb6/Nc4 a fork
+[02:28:34] handknit: (15...Rc8) ironically it doesn't do a great job of that. Black can just meet Qd2 with Nb6
+[02:29:35] handknit: (16...Nb6) I also like that this goes after the bishop pair
+[02:30:07] rishadanport: also, a later benefit of Nfe7 to someday get Rf8 + f5
+[02:31:07] handknit: (16...Nb6) If black gets to trade of white's DSB, f5 loses its attractiveness.
+[02:31:07] rishadanport: i think b4 move by white might have been just premature.
+[02:32:39] rishadanport: If we take b4 back -- and black played Nc5, maybe can play b4 then.
+[02:33:40] handknit: (17.Be2) Black maybe thinks about Nc5 then
+[02:33:40] handknit: (17.Be2) Anyway, Nc4 to recoup the bishop pair seems good
+[02:34:56] handknit: (17...Nc4) Position still feels in white's favour but black begins solving long term problems
+[02:35:26] handknit: (17...Nc4) if white takes on c4, you start getting a whiff of Qd7-Qh3-Ng4
+[02:36:27] rishadanport: black has good initiative on c file too
+[02:36:43] handknit: (18...Rxc4) I am not so sure about that
+[02:46:23] rishadanport: 19, ,, Rc8 might be an inaccuracy.
+[02:46:55] rishadanport: but maybe im completely wrong
+[02:46:55] handknit: (20...Nh5) Maybe b5 was better but the relevant issues are much more the knight and the bishop
+[02:52:15] rishadanport: Qf6 certainly can't be correct, it's blocking potential f5 move for later, and queen looking at wall of pawns
+[02:53:01] rishadanport: unclear what idea of Qf6 is at all
+[02:53:31] rishadanport: 22. Nb6! looks like it really hampers blacks space
+[02:53:31] handknit: (21...Qf6) it points at f6 and connects the rooks
+[02:53:31] handknit: (21...Qf6) *f3
+[02:53:46] rishadanport: ah
+[02:53:46] rishadanport: sorry Kg2 first ha ha ha
+[02:54:17] handknit: (22.Kg2) maybe now something like g5-Qg6
+[02:54:17] handknit: (22.Kg2) Feels weird but I think all of black's options now are weird
+[02:54:32] rishadanport: wow that's a high level sequence
+[02:54:32] rishadanport: i would never have considered that idea
+[02:54:47] handknit: (22.Kg2) all weird moves are high level until they're shown to be bad
+[02:55:33] rishadanport: g5 then Nb6.   g5 seems super super slow
+[02:56:03] rishadanport: g5 + Qg6 + g4?
+[02:56:03] handknit: (22.Kg2) maybe g4, maybe f5
+[02:57:05] handknit: (22.Kg2) Intuitively it does not feel like whatever black does there is faster than Nb6-Rc7-Rxb7
+[02:57:51] rishadanport: there's even like some Nd7 move in future maybe forking black's queen and rook on b8
+[02:58:37] rishadanport: ouch @ Qe7.
+[02:59:08] rishadanport: that's a very sad move to play, as it wasted Qf6 move
+[02:59:23] handknit: (22...Qe7) If it's better on e7, better to go back than double down
+[03:00:24] handknit: (24.Rxc1) Now to see if f5 is on the table
+[03:01:09] rishadanport: after f5, i guess white plays like Qc3? or something
+[03:01:09] rishadanport: or Qc2
+[03:01:25] handknit: (24.Rxc1) I don't know if that does anything
+[03:01:25] handknit: (24.Rxc1) I feel like white's break probably lies with b5
+[03:01:40] handknit: (24.Rxc1) Maybe Rc4-Qc2
+[03:01:40] rishadanport: Getting Qc7 seems useful
+[03:02:10] handknit: (24.Rxc1) Putting the R in front is much more interesting
+[03:02:26] rishadanport: Rc4 is a high level move to play
+[03:02:41] rishadanport: i like it
+[03:03:11] rishadanport: there's also maybe another move on the card, which might be crazy
+[03:03:11] rishadanport: Bf2.
+[03:03:11] rishadanport: if f4, then white can clog with g4
+[03:03:27] handknit: (24...f5) Bf2 doesn't seem pressing
+[03:03:27] handknit: (24...f5) Black's first choice is gonna be to take on e4 and play Nf6
+[03:03:42] handknit: (24...f5) Bf2 makes h5-Bh6 easier
+[03:03:42] rishadanport: clogging kingside means whites initiative on c file will just win on it's own
+[03:04:43] rishadanport: ah so if Bf2, then black just snaps fxe4, and then plays Nf6
+[03:04:58] rishadanport: with your idea of h6 + bh6 u are right
+[03:05:59] rishadanport: if I was white, I'd prob play Qc2, and later wish i played Rc4 :)
+[03:06:14] rishadanport: Nc8 very unexpected.
+[03:06:30] handknit: (25.Nc8) Maybe to meet Qd7 with Qc2-Qc7
+[03:07:30] handknit: (25.Nc8) The thing is that after Qd7, black can start thinking Qb5-Qe2
+[03:07:30] rishadanport: oooo
+[03:07:30] rishadanport: that's scary
+[03:08:01] rishadanport: also, Qc2 Qd7 -- if black gets another move and plays fxe4, white has to recapture with pawn.... small point
+[03:09:02] handknit: (25...Qf6) black still thinking about f3
+[03:09:32] rishadanport: Rc2 now seems like the move if it is ok to play
+[03:09:32] rishadanport: but
+[03:09:48] rishadanport: i dunno whites king side a bit scary
+[03:10:03] handknit: (25...Qf6) 26.Rc2 Rf8 feels a bit difficult to meet
+[03:10:18] rishadanport: Rc2 fxe4 then later Rf8.... + threat of mate in 1 with Qf1#
+[03:10:34] handknit: (25...Qf6) You play Rf8 before fxe4
+[03:10:49] handknit: (25...Qf6) White would love to meet Rf8 with Rf2 in that line, but the N on c8 is hanging
+[03:11:04] rishadanport: if u play it before, white gets Qc2, and may do Qxe4 instead of fxf4?
+[03:11:04] rishadanport: fxe4?
+[03:11:20] rishadanport: that is probably good for white with rook on c7
+[03:11:20] handknit: (26...Rf8) This is about meeting Rc2 with Rf8, so there's not gonna be Qc2
+[03:11:35] handknit: (26...Rf8) Here, on Qc2, f4 is working quite well
+[03:12:51] rishadanport: this looks like white's position is falling apart now after Qa4.
+[03:13:37] rishadanport: maybe have to just retreat with Qc2
+[03:13:37] handknit: (26...Rf8) Qc2-Qc7 can still be quite forceful
+[03:14:07] handknit: (27.Qd7) black's attack also is not necessarily as conclusive as black would like
+[03:14:23] handknit: (27.Qd7) so here, for instance, after fxe4 fxe4 Qf3+ Kh3
+[03:14:23] rishadanport: fxe4 looks extremely potent.
+[03:14:23] rishadanport: you lose a bishop
+[03:14:23] rishadanport: Qxe3
+[03:14:38] handknit: (27.Qd7) ah, right. simple
+[03:14:38] handknit: (27.Qd7) Nh5 defends Bg7
+[03:15:08] rishadanport: white might just be cooked after fxe4 :( noooooooooo
+[03:15:24] handknit: (27.Qd7) 27...fxe4 28.Qe6+ needs to be looked at
+[03:15:39] rishadanport: but then QxQ, and exf3+!
+[03:16:09] handknit: (27...fxe4) Yeah black gets pawns but the threat of Nxd6 is potent
+[03:16:25] handknit: (28.Qe6+) the passed pawn white ends up with is strong and supported
+[03:16:40] rishadanport: this sort of position i would have 0 understanding what's actually going on
+[03:16:40] rishadanport: and wished i was never in it in a game
+[03:16:55] rishadanport: for either side
+[03:16:55] rishadanport: :)
+[03:16:55] handknit: (28...Qxe6) I guess black has time to take f3 and play Re8 immediately
+[03:17:10] rishadanport: white also has Rc7 later
+[03:17:26] handknit: (30.Kf2) but something like 30...e5 31.Nxd6
+[03:17:26] rishadanport: so game is getting very complicated
+[03:17:56] handknit: (30.Kf2) 30...Re8 31.Rc7 Bf6, I guess
+[03:18:42] handknit: (30...Re8) Sorry, that should be 31.e7
+[03:19:43] rishadanport: allowed later e4 + Nf6 is a scary thing... with protected passed pawn on f3.
+[03:20:13] handknit: (31...Rxe6) Okay, with collecting e3 black's better now but not simply so
+[03:20:28] handknit: (31...Rxe6) White's queenside play is real
+[03:20:59] handknit: (31...Rxe6) 32.Nxb7 e5 runs into 33.Nc5
+[03:21:14] handknit: (32.Rc8+) which makes me think that black might actually not be better at all
+[03:22:15] handknit: (32...Kh7) 32...Kh7 33.Nxb7 Nf6 34.Kxf3 e4+ maybe
+[03:22:46] handknit: (32...Kh7) Though pushing the e-pawn makes white's Rc7 much stronger with the threat of something like Bd4
+[03:23:47] handknit: (33.Nxb7) Immediate Nf6-Nd5 might be called for here
+[03:24:02] rishadanport: Nc5 incoming as u said
+[03:24:17] handknit: (33...e4) but tbh it's pretty hard here to figure out as black you need to be defending
+[03:24:33] handknit: (34.Nc5) Re7 and Nf6, I guess
+[03:25:04] rishadanport: allowing Nxe4 with tempo.?
+[03:25:04] handknit: (34...Rd6) Nd3-Na3
+[03:25:04] handknit: (34...Rd6) *Rd3-Ra3, I mean
+[03:26:35] rishadanport: some idea of Rc2 then g4 for white -- trapping the black knight.
+[03:26:51] rishadanport: *Rc7 + g4 in some lines
+[03:26:51] handknit: (35.Nxe4) Yes, black probably has to meet Rc7 with Kh8
+[03:27:21] handknit: (35.Nxe4) though g4 still hits hard there
+[03:28:52] rishadanport: I do like Rc7 here for white
+[03:29:23] handknit: (35...Rd3) 36.Rc7 Ra3 37.g4 Rxa2+ 38.Kg2 Re2
+[03:29:38] handknit: (35...Rd3) after, just 38.Kxf3
+[03:29:38] rishadanport: Kg2?
+[03:30:24] handknit: (36.a4) Bd4 here might be the solution
+[03:31:10] handknit: (36.a4) no, doesn't work I don't think
+[03:33:28] rishadanport: Kxf3 then Bd4 is now a thing
+[03:34:13] handknit: (37.Rb8) I think Nf6 has to be the move because the N has to return to play
+[03:34:44] rishadanport: nf6 blocks bd4
+[03:34:59] handknit: (37.Rb8) It does but there's Nd5 after Kxf3
+[03:35:14] rishadanport: oh
+[03:36:31] rishadanport: that f3 pawn is gonna be heck ya annoying
+[03:43:07] rishadanport: h3 stopping g5 got to be played
+[03:43:07] handknit: (38...Kh8) A bit surprised black didn't continue with g4 there
+[03:44:53] handknit: (39.Nc5) Ra3 is probably best here
+[03:45:09] handknit: (39.Nc5) You can meet Nxa6 with either Rxa4 or Nf6
+[03:48:27] handknit: (39...Rc3) Nxa3 g4 seems intimidating but I'm not sure black can excavate white's king from f1
+[03:51:15] sleepyadarsh409: is Kxf3 bad? I am not able to calculate much but it don't seems bad to me
+[03:51:46] handknit: (40...g4) It was dropping a piece to Bd4 for most of the time it was an option
+[03:52:01] sleepyadarsh409: Re7 would have defended the piece isn't it?
+[03:52:32] handknit: (41...Rc2+) There was a knight on e4 for most of the time
+[03:53:02] handknit: (42.Kf1) but yeaeh maybe it was working after Nc5
+[03:53:33] handknit: (42...Rxh2) Oh man
+[03:53:48] handknit: (42...Rxh2) 43.Bf2 Bd4 alllmost works
+[03:54:03] handknit: (42...Rxh2) I guess 43.Bf2 Ra1+ is just mate, though
+[03:54:03] handknit: (42...Rxh2) Bg1 Bd4
+[03:54:18] sleepyadarsh409: white is done i believe its hard to defend from here
+[03:54:49] handknit: (42...Rxh2) Ne4 to defend g3 runs into Re2
+[03:56:05] sleepyadarsh409: crazy good play from black tbh how he is just 1613 wtf
+[03:56:37] rishadanport: yah black playing good
+[03:56:37] rishadanport: good for him
+[03:56:52] sleepyadarsh409: can I also join this league?
+[03:57:07] handknit: (48.Rb7) Great recovery after the endgame got away from him
+[03:57:07] handknit: (48.Rb7) Yes, of course
+[03:57:38] handknit: (49.Rf7) There's the 45 45 team league and the 30 30 rapid league
+[03:57:53] handknit: (49.Rf7) Though you need a non-provisional classical rating
+[04:00:41] handknit: yatta
+[04:04:30] sleepyadarsh409: even I need non provisional classical rating for 30 30 rapid league too?
+[04:05:31] handknit: 30 30 is classical rating on lichess. I guess there's the 15 15 quads
+[04:05:47] sleepyadarsh409: yeah okay ig I need to play some classical for that then
+[04:06:47] sleepyadarsh409: 40.Kxf3 was better so I was correct
