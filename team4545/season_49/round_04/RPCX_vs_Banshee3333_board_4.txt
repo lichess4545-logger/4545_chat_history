@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/y4P7hnai
+White     : rpcx
+Black     : banshee3333
+Time      : 45+45
+Captured  : 2026-07-25 20:48:00 UTC
+Game ended : 2026-07-25 19:27:55 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[17:38:49] bpack: Go Rpcx!!
+[17:43:39] rpcx: i like this na4 idea it allows me to avoid having to defend a iqp
+[18:18:41] banshee3333: (26. b4) want to calculate ...Rc2 followed by ...Bxh3
+[18:19:58] banshee3333: ...Rc2 Bd1 Rxg2 Kxg2 Bxh3 Kf2 I don't think gets us anywhere
+[18:28:21] banshee3333: Tbh maybe I should have just gone e.g. ...Rc6. Bxh6 Bxe3+ and White will eventually get in b5 and the queenside pawns become quite scary
+[18:29:21] banshee3333: In that case I might have to make an attack happen
+[18:31:54] banshee3333: Rc2 and a kingside attack is still an idea
+[18:32:09] rpcx: kf2 looks fine ne5 fails to f6 , bxa6 runs into qxe3
+[18:32:09] banshee3333: I suppose also if we go to the endgame I can try to use the dark bishop to set up a blockade on the queenside
+[18:33:10] banshee3333: This is harmless I think. Again I can play ...Rc6, or be more agressive with ...Rc2
+[18:33:25] rpcx: i expect rc2 or rc6
+[18:34:11] inter-temporal: (27.kf2) go rpcx!?
+[18:38:46] banshee3333: so Rc1 I think takes away my fun here
+[18:39:32] banshee3333: Trying to find a tactic in this position
+[18:40:33] banshee3333: wait ...Rxa2 might work
+[18:41:19] banshee3333: The point being that if queen takes we can pick up the rook on c1 at least
+[18:41:19] banshee3333: and c8 is covered
+[18:41:49] banshee3333: a6 will fall at the end
+[18:42:05] banshee3333: probably
+[18:43:36] rpcx: and that is why you do your tactis kids
+[18:43:51] banshee3333: Maybe extracting the rook is a challenge after Qb3
+[18:44:52] banshee3333: This seems less critical.
+[18:49:28] inter-temporal: (29...Ra4) white Q is getting overloaded
+[18:49:43] banshee3333: I should be threatening to take on b4 for the same reasons as ...Rxa2
+[18:57:54] banshee3333: haha oops
+[19:00:41] banshee3333: I chose b6 for the queen bc I wanted to be able to play Qb5 if I needed to defend the rook, but it would have been better to keep the que
+[19:00:41] banshee3333: queen in contact with e7
+[19:14:55] rpcx: e4 cxd5 exd5 be3+ and i am definitely not better
+[19:16:11] banshee3333: Let's hope for some opposite colored bishops magic
+[19:16:57] rpcx: should i waste time on this ?
+[19:19:30] rpcx: i messed up i though the simul was 30 minutes earlier than it actually is
+[19:25:37] rpcx: fancy
+[19:28:10] rpcx: gg wp
+[19:28:26] banshee3333: gg wp!
+[19:29:42] rpcx: i'm dumb i missed e4
+[19:32:15] banshee3333: Oof 28...Qxe3+ was winning a rook
+[19:32:15] banshee3333: I found the wrong tactic XD
+[19:33:15] inter-temporal: gg
+[19:33:15] banshee3333: And given how much thought I gave to pressuring e3, I'm surprised I missed 38...Bxd5
+[19:34:47] rpcx: how i missed qa4 is beyond me
+[19:36:48] rpcx: rxa2 was pretty
+[19:38:51] banshee3333: Ty, though I'm upset I missed Qxe3+ there haha
