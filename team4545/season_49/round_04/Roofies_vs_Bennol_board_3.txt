@@ -1,0 +1,251 @@
+Lichess game chat log
+Game      : https://lichess.org/7OoYsBEV
+White     : roofies
+Black     : bennol
+Time      : 45+45
+Captured  : 2026-07-26 15:24:14 UTC
+Game ended : 2026-07-26 14:04:09 UTC
+Messages  : 241
+────────────────────────────────────────────────────────────
+
+[12:01:26] genturgidson: Go Roofies!
+[12:04:59] monocarp: Go Bennol!
+[12:09:18] aldric123: (7...Bb7) Go Bonnol!
+[12:10:50] bennol: testing if the whisper function works in the new app
+[12:11:36] bennol: seems to work :). Hello Adric and Monocarp
+[12:12:06] aldric123: (8.Ne5) Hiya!
+[12:12:37] aldric123: (8.Ne5) I downloaded the new app, but I haven't really used it yet. I normally am on my computer. I'm a dinosaur.
+[12:12:52] monocarp: I just feel like playing chess is a big-screen activity
+[12:13:07] aldric123: (8.Ne5) I agree!
+[12:13:38] aldric123: (8.Ne5) But all my young friends in chess clubs love playing on their phones. So I feel old.
+[12:15:26] aldric123: (8...Nbd7) This looks interesting. I just don't know these positions for crap. I do play the early versions of this, but pretty early as ...
+[12:15:26] aldric123: ...soon as black plays g3 I basically take on c4.
+[12:15:56] aldric123: (9.f4) Hmm yeah I play 4...dxc4, so I know those positions
+[12:16:27] jdannan: Go roofies!
+[12:17:43] aldric123: (9.f4) I'm starting to get scared for Bennol here. I'm not certain of the eval, but black feels uncomfortable
+[12:18:14] aldric123: (9...c5) Hopefully this is theory and whatnot. :)
+[12:18:44] monocarp: I don't really know either way. At least c5 feels like a confident move
+[12:19:15] jdannan: I feel white would have been better swapping on d5 earlier, to fix a pawn there
+[12:19:30] aldric123: (10.e3) Yeah I liked c5 a lot. Just the bind on the e5 square and the knight there worries me. But as I said, I'm not totally familiar ...
+[12:19:30] aldric123: ...with these
+[12:19:45] aldric123: (10.e3) Makes some sense jdannan
+[12:20:00] jdannan: well I'd never play either side of this position myself
+[12:20:46] aldric123: (10.e3) Yeah, I play 4...dxc4, so my positions are a lot more open. You ceed the center a bit but just different positions
+[12:21:01] aldric123: (10.e3) This is full pawn cube tension!
+[12:21:32] aldric123: (10.e3) White has the amazing knight and control of e5, but a horrid c1 bishop. Black is I dunno
+[12:22:02] jdannan: White's B probably goes to b2 and looks ok. Depending on pawn swaps
+[12:22:33] aldric123: (10.e3) My current idea is to play Rc8 with the possible idea of Qc7 or Rc7
+[12:22:48] aldric123: (10.e3) Having the b7 bishop undefended is annoying me
+[12:23:03] aldric123: (10.e3) and it gets the rook on a file that likely opens
+[12:23:03] jdannan: asks for Nb5
+[12:23:34] aldric123: (10.e3) Yeah the Rc7 doesn't work cuz of that
+[12:24:04] aldric123: (10.e3) But Rc8 vs most moves Qc7 and if then Nb5 you have Qb8 :)
+[12:24:19] aldric123: (10...Rb8) This directly defends the bishop but I kind of hate it
+[12:24:19] jdannan: don't like Rb8 was there really nothing better?
+[12:24:35] jdannan: There's Nb5 now
+[12:24:50] aldric123: (11.Qa4) If Nb5 now you just play a6
+[12:24:50] jdannan: no probably not.
+[12:25:05] jdannan: yes you're right
+[12:25:51] aldric123: (11.Qa4) I think Qc8 here
+[12:27:08] jdannan: then the d5 pawn drops no?
+[12:27:53] monocarp: (11. a6) Nc6 here?
+[12:27:53] jdannan: drops anyway now I think. Take on d7 first.
+[12:28:08] monocarp: oh yeah d5 exists
+[12:30:10] jdannan: maybe b5-b4 saves it
+[12:30:26] monocarp: nope, Nxf6 with check
+[12:30:41] jdannan: no I mean now :-)
+[12:30:56] aldric123: (13.cxd5) Yeah b5 at least complicates it after cxd5 I think
+[12:30:56] monocarp: okay
+[12:31:57] jdannan: and now white's got that nasty backward pawn
+[12:32:44] jdannan: that was a bit of a miscalculation then :-)
+[12:34:00] aldric123: (14.Qc2) It's still not simple though. If you try immediate b4 here I think dxe6 in between still makes white better
+[12:34:31] jdannan: good point
+[12:35:47] jdannan: I thought that was losing a piece somehow
+[12:37:03] aldric123: (14.Qc2) It feels complicated this early, lemme think more :)
+[12:37:18] jdannan: I've done my thinking for the day :-)
+[12:38:19] jdannan: think this has to be a bit wrong it just helps white
+[12:40:06] aldric123: (15.exd4) Hmm based on the move that wasn't played 14...b4 15.dxe6 bxc3 16.exd7 regardless of what happens I think cxb2 never works ...
+[12:40:06] aldric123: ...because of the bishop on c1
+[12:40:06] aldric123: (15.exd4) But back to the actual game!
+[12:40:36] jdannan: but after Bf6 Be3 (maybe) the Bc1 has been decoyed...
+[12:41:37] jdannan: oh this simplifies
+[12:41:37] aldric123: (15...exd5) I mean, you're talking lines of after the actual game of cxd4. I was talking without that inclusion
+[12:41:52] aldric123: (15...exd5) But by all means let's talk actual game now. I was still curious before about that immediate b4
+[12:42:23] jdannan: Now surely Nxd5 is natural
+[12:42:23] jdannan: played
+[12:43:10] aldric123: (16.Nxd5) Yeah, this is just white up a pawn with better pieces. The only potential negative is f4 having been played when it's opened a ...
+[12:43:10] aldric123: ...bit
+[12:43:10] jdannan: black will get d4 back
+[12:43:40] jdannan: Bxd5 and Nf6
+[12:44:26] aldric123: (17.Bxd5) Man I can't think this early. I feel my brain rattling
+[12:44:41] jdannan: and a nice central queen and white's king is open as you said
+[12:45:57] jdannan: ah well white has won the bishop pair :-)
+[12:45:57] aldric123: (18.Bf3) openish king but the bishop pair is now white's main claim to fame. Have to take on d4 here
+[12:46:28] aldric123: (18.Bf3) Take on d4 and then probably Rbc8 to tap the queen
+[12:47:29] aldric123: (18...Qxd4+) Though I wonder if White can get away with Qd2 to offer trade then
+[12:47:59] aldric123: (18...Qxd4+) If so then probably just Qb6 planning on other rook to d8 next
+[12:52:50] aldric123: (19.Kg2) Hmm I should go check out your game jdannan. I wasn't up when it was played.
+[12:53:05] aldric123: (19.Kg2) Curse you for winning! (Kidding of course)
+[12:59:12] jdannan: Qf2 now? where else?
+[12:59:43] jdannan: Qd2 seems to lose
+[13:01:00] aldric123: (19...Rbc8) You can also play Qd1 possibly
+[13:02:00] aldric123: (20.Qb3) So now both Be3 and Bb7 (maybe) are threats
+[13:03:32] jdannan: I really wasn't looking at this at all but maybe it's a nice square?
+[13:04:02] aldric123: (20...Bc5) This probably forces queen trade after Rd1. Or forces black to offer it on c4
+[13:04:18] aldric123: (20...Bc5) Wait, I speak too soon in these things
+[13:04:18] aldric123: (20...Bc5) Rd1 allows Qf2+
+[13:04:48] jdannan: Bb7 looks super dodgy too
+[13:05:19] bennol: interesting endgame. his bishoppair should be better in the long run, but I have the better piece activitiy for now
+[13:05:19] aldric123: (20...Bc5) agreed, that's why I was saying it's only maybe a threat
+[13:05:19] aldric123: (20...Bc5) Yeah, this is definitely interesting Bennol!
+[13:06:50] aldric123: (20...Bc5) If the past few moves the f4 pawn could suddenly be on f2 white woulda been super better, as it is it's complicated
+[13:07:36] aldric123: (20...Bc5) Getting that dark square bishop out is super tricky for White
+[13:08:06] aldric123: (21.a4) That's a creative attempt to get the queenside pieces out
+[13:08:21] jdannan: Qc3 and if the queen moves, Be3 was maybe possible. Of course no more B pair in that case
+[13:08:21] aldric123: (21.a4) I'm impressed ruffies
+[13:08:37] aldric123: (21.a4) Err Roofies. Sorry
+[13:09:38] aldric123: (21.a4) First instinct is b4 for black to keep the queenside tied down
+[13:12:12] aldric123: (21...b4) If he did try Bb7 now. I Guess Rce8 to threaten Re2+?
+[13:12:57] aldric123: (22.Bb7) though doh, I guess the bishop taking on a6 protects it. hmm
+[13:14:14] aldric123: (22.Bb7) Then I guess Rd8 with the idea of if Bxa6 playing Nd5
+[13:15:15] aldric123: (22.Bb7) Nah that's stupid
+[13:15:15] jdannan: find it hard to believe white can hold
+[13:15:30] aldric123: (22.Bb7) I FEEL that way too, but I can't find the concrete lines yet
+[13:16:16] jdannan: there's a rook still to join the party
+[13:16:16] aldric123: (22.Bb7) it seems like white should be screwed if he takes on a6 after rook moves, but I can't find the lines. I feel silly
+[13:16:16] aldric123: (22.Bb7) yep
+[13:17:47] genturgidson: is 23...Qe4+ worrying at all?
+[13:17:47] aldric123: (23.Bxa6) I can't yet make it worrying
+[13:18:02] genturgidson: Qf3 or Rf3
+[13:18:02] aldric123: (23.Bxa6) Qf3 I'd think
+[13:18:33] genturgidson: oh yeah if Rf3, Qe2+ stuff maybe
+[13:19:49] jdannan: This is brave
+[13:20:04] jdannan: I'm not sure if brave = suicidal or brave = calmly calculated though
+[13:20:35] monocarp: I hope not Qe2 if Rf3, there's a bishop on a6!
+[13:20:35] monocarp: but Qc2 there could have been something
+[13:20:50] jdannan: Now Qe2
+[13:21:51] aldric123: (24...Qc2+) I feel black lost the thread, but I couldn't find the thread myself either. I just felt it was there somewhere
+[13:22:06] genturgidson: This is so scary.
+[13:22:52] jdannan: I thought Qe2 a lot better, black's Q had no good square
+[13:23:07] aldric123: (25.Kh1) If Qe2 I think maybe black had to play Ba7 and accept the trade
+[13:23:22] aldric123: (25.Kh1) maybe not
+[13:24:24] aldric123: (25.Kh1) I guess here Re8 so black can't just play Be3
+[13:25:26] aldric123: (25.Kh1) though Bb5 gets annoying because of the potential back rank, so maybe not
+[13:25:26] jdannan: Bd3
+[13:25:41] jdannan: maybe also
+[13:25:41] aldric123: (25.Kh1) oh crap, that is a serious threat
+[13:25:56] jdannan: oh yes!
+[13:25:56] jdannan: better than I thought :-)
+[13:26:42] aldric123: (25...Rd8) yeah he saw that nasty threat so stopped it, but not finally black can get the dark square bishop out and unwind. Unless ...
+[13:26:42] aldric123: ...there's something better
+[13:26:57] aldric123: (25...Rd8) Err now finally
+[13:27:12] jdannan: but b2 drops
+[13:27:28] monocarp: but Be3 loses a pawn at the moment
+[13:27:28] aldric123: (25...Rd8) that's true potentially, hmm
+[13:27:43] jdannan: Qe2 still playable
+[13:27:59] jdannan: maybe?
+[13:28:14] aldric123: (25...Rd8) it looks playable at first glance
+[13:28:29] aldric123: (25...Rd8) as maybe also does b3
+[13:28:59] aldric123: (25...Rd8) nah b3 oprobably allows Bd4
+[13:29:30] jdannan: Qg2 also exists I suppose
+[13:29:30] jdannan: oh wow
+[13:29:45] aldric123: (26.a5) Your guy is fearless
+[13:30:00] aldric123: (26.a5) he's like HEY I have a passed pawn!
+[13:30:16] genturgidson: Just starting to casually push pawn.
+[13:30:31] jdannan: Black probably has to play Ra8 and Rda8 :-)
+[13:30:46] jdannan: (I mean Ra7...that autocorrected)
+[13:30:46] aldric123: (26.a5) Black should even out the fearlessness and play b3 himself
+[13:31:17] aldric123: (26.a5) I mean, I dunno if it's good, but I feel like doing it!
+[13:31:32] jdannan: Why not Bd4 now?
+[13:31:47] jdannan: win a pawn at least
+[13:31:47] aldric123: (26.a5) I mean, partly because Bd3 happens
+[13:32:03] jdannan: oh yes
+[13:32:03] aldric123: (26.a5) you block your own control of b3
+[13:32:03] aldric123: (26.a5) err d3
+[13:32:51] aldric123: (26.a5) maybe bring another piece in with Ne4?
+[13:33:07] aldric123: (26.a5) maybe sorta threatening Nf2+
+[13:33:22] jdannan: There's still Qe2 I think
+[13:34:08] jdannan: must force the swap
+[13:35:24] jdannan: now b2 isn't hanging!
+[13:35:24] aldric123: (27.Be3) no cuz of the knight
+[13:35:39] aldric123: (27.Be3) But Bxe3 Qxe3 Rd2 looks interesting maybe
+[13:36:40] jdannan: yes finally
+[13:38:11] jdannan: It's been a long 28 moves :-)
+[13:41:45] aldric123: (29.Qf3) Man this is still super fraught both ways
+[13:42:01] aldric123: (29.Qf3) At first I was thinking Nf2+ wins, but then I remembered black has a back rank
+[13:42:01] jdannan: yes i'm just working through that
+[13:42:16] jdannan: must be a win though
+[13:42:16] aldric123: (30.Kg1) Oh it's a win but will black find it
+[13:42:31] aldric123: (30.Kg1) Since I keep not quite finding stuff or making mini blunders while trying
+[13:42:46] monocarp: Rh3 here?
+[13:42:46] jdannan: Nf2+ Kg2 Ng4+ Kh h5!
+[13:43:17] aldric123: (30...Rh6) Rh3 was what I was thinking a sec ago, but then Qe2 or Be2 I think, but I'm not sure
+[13:43:47] jdannan: There are still good chances of back rank blunders :-)
+[13:43:47] aldric123: (30...Rh6) Of course then I guess you can trade and take Nxg3 which is likely winning but not instant mate
+[13:44:03] aldric123: (30...Rh6) Yep Jdannan, which is why it still seems scary for both sides
+[13:44:03] jdannan: bd3 here?
+[13:44:18] aldric123: (30...Rh6) Bd3 is mate on h2
+[13:44:18] jdannan: oh Qh2
+[13:44:33] aldric123: (30...Rh6) I think Qe2 is only real move but I easily could be wrong
+[13:45:04] jdannan: Qe2 Nxg3 fork :-)
+[13:45:34] aldric123: (30...Rh6) Agreed, I just don't see anything better for white
+[13:45:49] aldric123: (30...Rh6) Mate is a pretty hard argument
+[13:45:49] aldric123: (30...Rh6) And it isn't really a fork because Qxc2
+[13:46:05] aldric123: (30...Rh6) But it's still not good for white
+[13:46:20] monocarp: yes, but then Rxc2 and white is surely mated soon
+[13:46:20] jdannan: even less of a fork because Qe8#
+[13:46:35] aldric123: (30...Rh6) true
+[13:46:50] aldric123: (30...Rh6) I keep having to be careful of this stuff. So first you trade queens
+[13:46:50] jdannan: yes
+[13:46:50] aldric123: (30...Rh6) Which is what I first said!
+[13:47:06] genturgidson: If Qg2, Qc5+ or something worse?
+[13:47:21] aldric123: (30...Rh6) Nah Qg2 you just trade queens and win bishop on a6
+[13:47:36] aldric123: (30...Rh6) I mean maybe something better is there, but that wins too
+[13:47:36] jdannan: black will be nervous of the advanced passer if its just a couple of pawns up
+[13:48:22] genturgidson: Actually need to be careful of Qa8+ back rank mate in some lines.
+[13:48:22] aldric123: (31.Rf2) You know Qc5 was maybe better
+[13:48:37] aldric123: (31.Rf2) If Qg2 I meant, sorry
+[13:48:52] aldric123: (31.Rf2) This is just Qxf2+Qxf2 Nxf2 and then Rxa6
+[13:49:07] aldric123: (31.Rf2) Should be a rook up
+[13:49:07] monocarp: yes
+[13:49:23] jdannan: yeah gg
+[13:49:23] genturgidson: Oh damn yeah a6 B hangs.
+[13:49:23] genturgidson: GG
+[13:51:09] aldric123: (33.Re1) g5 looks kinda fun
+[13:51:25] aldric123: (33.Re1) the silly visual thing of it appeals to me
+[13:52:41] aldric123: (33.Re1) More boring things like Kf8 Bb5 Nh3+ Kwhatever Re7 probably work
+[13:52:41] aldric123: (33.Re1) But g5 looks fun!
+[13:53:11] aldric123: (33...Rh1+) ah, the boring endgame method. Safe!
+[13:53:27] aldric123: (34...Rxe1) Very mature.
+[13:53:27] genturgidson: I had a feeling he’d take that route. Safe.
+[13:53:42] genturgidson: Yep then Ra7 of course.
+[13:53:42] genturgidson: Ouch.
+[13:53:57] monocarp: okay I thought this was suspect until I saw 35... Ra7
+[13:54:13] genturgidson: b3 outpost the bishop and pull off an epic defence?
+[13:54:13] aldric123: (36...Rxa5) yep, this was nicely spotted to be safe
+[13:54:43] genturgidson: Ah if b3 he can even sac the rook.
+[13:56:00] aldric123: (39.Ke3) bring your king into the game Bonnol, come on!
+[13:56:16] monocarp: well, don't hang h7 to do so
+[13:56:16] aldric123: (39.Ke3) yeah yeah
+[13:56:16] monocarp: but other than that yes
+[13:57:01] aldric123: (39...h6) come on white play Kd4 so he can play Rc2 please!
+[13:58:02] monocarp: yes, white's king can't move much due to the threat of Rc2
+[13:58:02] aldric123: (41.Kd4) oooooh
+[13:58:02] aldric123: (41...Rc2) Rc2 is fun!
+[13:58:02] monocarp: nicely seen
+[13:58:17] rosey001: Rc2 is nice
+[13:58:33] jdannan: of course Bc4 defends
+[13:58:48] jdannan: but the fg pawns will die
+[13:59:03] aldric123: (43.Kc3) It only doesn't lost instantly, the kingside pawns now fall
+[14:01:21] genturgidson: Playing to the bitter end - like Levy Rozman says, never resign at this level.
+[14:02:07] aldric123: (64.Kh2) He does say that. I don't agree but it's up to the player to decide.
+[14:02:07] genturgidson: Need to calculate for 20 minutes how not to stalemate.
+[14:02:52] genturgidson: h4 I dare you!
+[14:03:23] genturgidson: no way
+[14:03:39] monocarp: the premoving made me really enrvous
+[14:03:39] aldric123: yeah premoving is uhm. Interesting.
+[14:07:12] jdannan: gg
+[14:08:28] jdannan: what? I missed that was stalemate!
+[14:08:43] jdannan: wow
+[14:08:43] aldric123: Heh, I think you're the only one
+[14:18:52] aldric123: Oh man, my day is made that 33...g5 is top computer move
