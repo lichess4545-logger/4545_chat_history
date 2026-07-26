@@ -1,0 +1,97 @@
+Lichess game chat log
+Game      : https://lichess.org/9lmy02H2
+White     : warvold
+Black     : jdannan
+Time      : 45+45
+Captured  : 2026-07-26 12:31:27 UTC
+Game ended : 2026-07-26 11:11:25 UTC
+Messages  : 87
+────────────────────────────────────────────────────────────
+
+[09:01:14] joonaf: Go Warvold!
+[09:01:30] warvold: (1...c6) Hi Bennol, Hi Joonaf!, Hi Simon
+[09:01:30] warvold: (1...c6) Big up to Colton for helping me prep this game
+[09:01:30] simonwashere: Go Warvold!
+[09:01:45] simonwashere: Hi Joonaf
+[09:02:15] warvold: (2...d5) Coffee OK, Banana OK, Music OK, I'm ready
+[09:02:30] jdannan: (3.exd5) was hoping for bongcloud :-)
+[09:02:30] joonaf: Hi simon!
+[09:03:31] warvold: (6.Nf3) Here, my opponent plays g6 or Bg4
+[09:04:49] jdannan: (6...g6) played this just recently....
+[09:08:38] warvold: (8.Bc4) I think after Nb6 Bb3 Bg4 is not playable because of Bxf7+
+[09:09:08] warvold: (8.Bc4) Kxf7 Ng5+ wins back the bishop
+[09:09:23] warvold: (8...Nb6) Already out of prep, even tho it was one of the planned line, sorry Colton
+[09:11:41] warvold: (8...Nb6) Bb3 Bg4 Bxf7+ Kxf7 Ng5+ Ke8 Qxg4 Nxd4 O-O looks ok, same with Qxd4 at the end
+[09:14:13] jdannan: (9...Bg7) seem to have decent development against the IQP
+[09:15:46] warvold: (9...Bg7) Be3 O-O h3 Bf5 O-O
+[09:18:49] warvold: (10...O-O) Hmm
+[09:19:04] warvold: (10...O-O) h3 e4
+[09:20:20] warvold: (10...O-O) h3 e4 if d5 Nd4 Nxd4 exd4 is a nasty fork
+[09:21:53] warvold: (10...O-O) h3 e5 d4 Nd4 Bxd4 exd4 Ne4. Would the d4 pawn be a weakness?
+[09:22:08] warvold: (11.h3) Will see what they play
+[09:22:39] warvold: (11.h3) I'll still have dxe5 if needed, but I don't want to trade queens yet if possible
+[09:25:41] warvold: (11...Na5) Hmm
+[09:27:28] warvold: (11...Na5) Only way to keep both bishops is to play Bc2 Nc4 Bc1 but there is e5
+[09:31:32] warvold: (11...Na5) Bc2 Nc4 Nc1 e4 dxe4 Qxd1+ Nxd1 Nxe5 Nxe5 Bxe5 O-O looks ok
+[09:32:33] warvold: (12.Bc2) Bf5 would be interesting here, opening up the g-file
+[09:36:06] warvold: (12.Bc2) Nc4 b3 Nxe3 fxe3 is also an idea but I don't feel it
+[09:42:12] warvold: (13.Bc1) Alright, let's trust me
+[09:42:43] momor: Go Warvold
+[09:42:43] warvold: (13.Bc1) If Re8 I have b3
+[09:43:59] simonwashere: Is this wise?
+[09:43:59] warvold: (13.Bc1) Re8 b3 e5 bxc4 exd4+ Ne2 d3 Bxd3 Bxa1 tho
+[09:44:29] warvold: (13.Bc1) Re8 O-O is great
+[09:50:20] warvold: (13.Bc1) At least, that make them think!
+[09:50:50] warvold: (13.Bc1) I should have considered Qc1 too
+[09:51:21] monocarp: Go Warvold!
+[09:51:36] warvold: (13...Nd5) Ok, that's... interesting
+[09:52:52] warvold: (13...Nd5) I think I understand the idea, black don't want to see b3
+[09:56:56] warvold: (13...Nd5) Nxd5 Qxd5 b3 Qe6+ Qe2 Qxe2+ Kxe2 Nd6 Bb2 is an idea
+[09:56:56] warvold: (13...Nd5) O-O is probably more sensible
+[09:57:57] warvold: (13...Nd5) O-O Nb4 Bb3 Na5
+[10:00:14] warvold: (13...Nd5) Hmm
+[10:00:30] warvold: (13...Nd5) Nxd5 Qxd5 b3 Qa5+
+[10:02:33] warvold: (15.O-O) Alright, now b3 is probably stronger
+[10:03:18] warvold: (15.O-O) Rd8 b3 Ne5 Nxe5 Bxe5 Bb2
+[10:07:52] warvold: (15.O-O) Alright, let's try to be a bit faster next moves
+[10:11:26] warvold: (15...Rd8) Alright, I feel like i gain back some initiative
+[10:12:43] warvold: (15...Rd8) b3 Ne5 dxe5 works thanks to the bishop protecting my queen
+[10:13:28] warvold: (16.b3) And Bb2 will be perfect to further protect my pawn and my queen with the a1 rook
+[10:14:14] warvold: (16.b3) I wonder what my opponent plan will be now
+[10:14:29] warvold: (16.b3) Nd6, Nb6?
+[10:14:45] warvold: (16...Nb6) Yep, good choice, to prevent d5 at some point
+[10:16:16] warvold: (16...Nb6) Bb2 Bf5
+[10:18:33] warvold: (17...Bf5) Ne5 is fun
+[10:19:50] warvold: (17...Bf5) Ne5 Bxc2 Qxc2 Rc8 Qe2 f6 Nc4 if Bxd4 Rad1 Bf2+ does not works
+[10:22:22] warvold: (17...Bf5) Nah, does not works
+[10:22:22] warvold: (17...Bf5) work*
+[10:24:55] warvold: (18.Re1) There was Ne5 Bxe5 Bxf5 Bxd4 Qxd4 Qxd4 Bxd4 Rxd4 and no good place for my LSB
+[10:25:25] warvold: (18.Re1) Be4 maybe, but there was simply Rd7
+[10:26:57] warvold: (19.Qxc2) Bxc2 Qxc2 Rc1 Qe2 Rc7 probably
+[10:31:31] warvold: (21.Rac1) Rxc1 Rxc1 Rc8 looks drawish, but there is not many other options
+[10:34:03] warvold: (21...Qa5) Ok, that's something unexpected
+[10:36:35] jdannan: (22.Bc3) but doens't thjis just lose a piece?
+[10:36:51] jdannan: (22.Bc3) one of us is missing something
+[10:36:51] naveengeorge: what?
+[10:37:21] warvold: (22...Rxc3) Dumb dumb me
+[10:37:36] jdannan: (22...Rxc3) Nd5!
+[10:37:52] jdannan: (22...Rxc3) Must admit it took me a while to see Nd5 previously
+[10:38:22] jdannan: (23.Qd2) though also Rdc8 is good
+[10:39:53] jdannan: (23...Nd5) now if he tries to double rooks, Qc7 immediately releases the pin
+[10:41:56] warvold: (24.Ne5) Let's see if I can salvage something out of that
+[10:42:27] genturgidson: go jdann!!
+[10:47:17] warvold: (26.Rcd1) Rc2 Qg5
+[10:47:33] simonwashere: this doesn't look good
+[10:49:04] jdannan: (27...Rc8) had to answer door a minute ago
+[10:51:06] warvold: (28.h4) Can't lift a rook sadly
+[10:51:21] warvold: (28.h4) There'd be Rc1
+[10:51:36] warvold: (28.h4) h5 g4 yeepeeeh
+[10:52:37] warvold: (28.h4) Qe7 Qh6
+[10:59:29] warvold: (32.Qf3) It's terrible but there is some life in it
+[11:03:48] warvold: (34.Rd3) I really like where it's going to
+[11:09:23] warvold: (36.Kg3) I wanted to make a flashy move but I'm not sure yet
+[11:09:54] simonwashere: Qxf7+!!!!!
+[11:10:40] simonwashere: gg
+[11:10:40] genturgidson: !! gg
+[11:10:55] jdannan: interesting struggle over the IQP
+[11:13:12] warvold: Yes, it'll be interesting to analyze it
