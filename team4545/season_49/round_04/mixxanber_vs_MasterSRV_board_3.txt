@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/8pJd3XIB
+White     : mixxanber
+Black     : mastersrv
+Time      : 45+45
+Captured  : 2026-07-26 05:39:05 UTC
+Game ended : 2026-07-26 04:18:57 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[03:03:57] mixxanber: streaming https://www.youtube.com/watch?v=T9PZpyCtiCU
+[03:04:12] mixxanber: had up to here prepped, but can't remember whats after the next queen move
+[03:06:30] mixxanber: actually i had looked at Qd7 here, where g4 then d5 are strong
+[03:10:03] berndwind: I went down to this line in a classical game a couple of weeks ago
+[03:10:18] berndwind: now I’m prepped! haha they surprised me. dangerous stuff
+[03:10:48] berndwind: hang on. doesn’t this just lose the rook?
+[03:11:04] mixxanber: 10. O-O actually still in my prep here, if my memory isn't off, had looked at this line
+[03:11:19] berndwind: is Ne5 the move?
+[03:11:49] mixxanber: 10... doesn't Ne5 win material here?
+[03:11:49] berndwind: I guess the knight will get trapped
+[03:12:05] berndwind: actually yeah Ne5 should just win
+[03:12:20] berndwind: white is also getting the rook when taking the bishop
+[03:12:20] berndwind: hitting
+[03:14:22] berndwind: yup this now looks busted for black
+[03:16:54] berndwind: At first glance I too thought that was a free rook. but look a little deeper... ouch.
+[03:21:29] mixxanber: Qxc2 Rxh3 f3 seems fine
+[03:24:01] mixxanber: f3 e6 Kg2 looks fine as well
+[03:27:35] mixxanber: c6 is a move I didn't consider, but maybe Kg2 is still fine
+[03:29:07] mixxanber: Kg2 Rh8 then just Nc3 I think
+[03:29:22] mixxanber: Kg2 Rh4 then Bg5 looks like I'm exchanging some material
+[03:33:11] mixxanber: Qa4 feels like a very useful move to flick in
+[03:34:12] mixxanber: but maybe allowing c6 dxc6 bxc6 Qc7 is already annoying
+[03:35:28] mixxanber: yup see nothing wrong with Nc3
+[03:35:28] voylento: gl mastersrv
+[03:39:01] mixxanber: unless I'm missing clear resources, I feel like black is running out of threats
+[03:39:47] mixxanber: f4 is an important resource I see
+[03:42:35] mixxanber: Kg2 Qh8 f4 Qh4 I'm trying to understand
+[03:49:27] mixxanber: I regret not playing f4 instead of Rh1, this is tricky now
+[03:53:15] mixxanber: I think Ne4 here looks like in the right direction
+[03:59:22] mixxanber: I think I have to swipe the knight here
+[04:00:08] mixxanber: very hard to see all the ways forward, but feels like the knight is too strong
+[04:00:39] nyanners: good bait from white but maybe got a bit complacent
+[04:00:54] nyanners: i think this is deep trouble actually
+[04:00:54] mixxanber: Nxf6 Qg2 Kf3 Rh3 Ke4 and i'm hiding?
+[04:01:09] mastersrv: there has to be something
+[04:01:09] nyanners: qh1
+[04:01:40] mastersrv: We just need a draw...
+[04:02:40] mixxanber: Nxf3 Kh1+ Kf2 Bxf4 Bxf4 Qxf4 Bf3?
+[04:02:56] mixxanber: wait hallucinated a little bit
+[04:03:11] nyanners: watch for Bc5+
+[04:03:26] mixxanber: I think this is my best way forward
+[04:04:27] mastersrv: This has to be winning if not a draw
+[04:04:42] mixxanber: Qh1+ Kf2 Rh2 Kf3?
+[04:05:13] mixxanber: wait no f3, so Ke3
+[04:05:43] mixxanber: Bxf4 Kxf4 and have to hope I'm okay?
+[04:09:32] mastersrv: Qh1 leads to mate if I am not wrong
+[04:11:34] mixxanber: if gxf6, I think Be3 and things are mostly held together
+[04:11:34] nyanners: it just might :o
+[04:11:49] gavalanche20: Qh1 Kf2 Bc5 Be3 Rh2 or somesuch
+[04:11:49] mixxanber: getting chased to e4 but that should be okay
+[04:12:05] mixxanber: the scariest line is probably Qh2+ Kf3 Rh3 Ke4 gxf6
+[04:12:35] mixxanber: maybe Be3 there anyway
+[04:13:06] mixxanber: Qh1+ Kf2 Rh2 Ke3 Bxf4 is also scary
+[04:13:21] mixxanber: but my sense is black is running out of pieces?
+[04:13:36] mastersrv: ...Qh1, Kf2 Bc5, Be3 Rh2, Kg3 Qg2#
+[04:13:52] gavalanche20: You don’t use Bc5 to draw out the king you use it to make White block the main escape route
+[04:15:09] mastersrv: Kg3 also similiar starting with Rh3+
+[04:15:39] mixxanber: I didn't see Kf2 Bc5, but maybe Bd3? give back some material?
+[04:16:55] mixxanber: wow is this mate
+[04:17:11] mixxanber: I had not fully understood
+[04:18:42] gavalanche20: (25.Kg3) gg
+[04:20:14] nyanners: gg
+[04:22:46] mastersrv: I got lucky tbh. Totally missed Ne5
