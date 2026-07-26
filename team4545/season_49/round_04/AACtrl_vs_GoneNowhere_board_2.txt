@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/RbLO4R4h
+White     : aactrl
+Black     : gonenowhere
+Time      : 45+45
+Captured  : 2026-07-26 21:52:15 UTC
+Game ended : 2026-07-26 20:32:12 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[18:39:13] pineapplechiffoncake: Go AACtrl!
+[18:39:13] guitarspider: (6.Be2) go AACtrl!
+[18:42:01] aactrl: (7...Bb7) d4 is the normal move but I'm often stuck after with no plan
+[18:48:23] aactrl: (8...Nbd7) but I also change my mind at every move so
+[18:48:23] inter-temporal: (9.d4) looks good
+[18:53:59] aactrl: (9...c5) plouf plouf...
+[19:04:41] aactrl: (12...Be7) 13.e4!? Nf4 Bb5 Nf6 doesn't seem to do much
+[19:05:42] aactrl: (12...Be7) if not that, he's going to trade dsb
+[19:10:16] aactrl: (12...Be7) oh I have a knight left to wake up
+[19:16:53] aactrl: (14...Rc8) Ncb5/Nxd5/Ne4...
+[19:25:33] fulmarsky: Go GoneNowhere!
+[19:33:58] guitarspider: (15...Ne5) I feel like I'm missing something. Why can't we just take on a7?
+[19:35:29] aactrl: (15...Ne5) Nxa7 Nc3 Bxc3 Rxc3 Rc1 I see nothing better
+[19:38:17] paulwithans: Why not Bxc3 Rxc3 Nb5 and Rc1 later
+[19:39:03] guitarspider: (16...Nc3) there might be Nb5 Qd5
+[19:39:18] guitarspider: (16...Nc3) I'm currently trying to figure out if that's actually good, but I'm too tired to think much
+[19:39:33] guitarspider: (16...Nc3) but I'm guessing that's where the compensation for the pawn comes from
+[19:39:48] aactrl: (16...Nc3) Bxc3 Rxc3 Nb5 Qd5 Bf3!?
+[19:41:05] paulwithans: Qd5 is also an option after the Rcl line though. Maybe they amount to something similar
+[19:41:50] paulwithans: But I am also v tired
+[19:41:50] guitarspider: (16...Nc3) yes, similar but with Rc1 a3 is weak and the a7 knight misplaced, so it should be worse
+[19:42:06] guitarspider: (16...Nc3) compared to Nb5
+[19:42:36] paulwithans: That's why I was initially suggesting Nb5 line lol
+[19:43:22] guitarspider: (16...Nc3) fair :D
+[19:43:37] guitarspider: (16...Nc3) I think you do have to take on c3, I don't think you can give up Be2
+[19:44:23] aactrl: (17...Rxc3) no Nb5 Qd5 Nf3 Nxf3 Bxf3 Qxb5 Bxb6
+[19:45:39] aactrl: (17...Rxc3) maybe Ndb5?
+[19:49:43] aactrl: (18.Ndb5) Qxd1 Rfxd1 Rc2 Nf4 Rc3 Nab5...
+[19:53:01] aactrl: (19...Rb3) Ra2 Bd5 Nc7?
+[20:01:39] aactrl: (21.Nab5) overcharged bishop + time trouble, I can predict where this is going
+[20:08:00] cinemashow: (22.Bf3) was Nd6 Nc4 possible there?
+[20:10:03] cinemashow: (23.Nxd4) no, don't think it was
+[20:13:51] aactrl: (25...g6) Nb5 Rxb4!
+[20:15:08] aactrl: (25...g6) Rd3 Rxb4! same, shit
+[20:22:46] cinemashow: (28...Ra8) repeat
+[20:29:24] aactrl: (32.Rxd5) 32...Re8 problem..
+[20:30:56] aactrl: (33.Rd7) ohhhhhhhh no
+[20:31:26] aactrl: (33...Ra1+) mercredi
+[20:31:41] cinemashow: (33...Ra1+) :(
+[20:36:00] gonenowhere: Could have got to an ending with R+b-pawn v R, don't know if thats wining
+[20:37:01] gonenowhere: Anyway definitely my lucky day, se you guys another time
+[20:40:50] aactrl: luck is the residue of preparation!
