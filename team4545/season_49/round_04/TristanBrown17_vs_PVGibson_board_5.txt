@@ -1,0 +1,45 @@
+Lichess game chat log
+Game      : https://lichess.org/hvu14pdO
+White     : tristanbrown17
+Black     : pvgibson
+Time      : 45+45
+Captured  : 2026-07-26 19:02:31 UTC
+Game ended : 2026-07-26 17:42:30 UTC
+Messages  : 35
+────────────────────────────────────────────────────────────
+
+[16:08:53] enprisewithease: Let's go PV! Make it 3 in a row!
+[16:09:54] enprisewithease: French advance transposition?
+[16:10:55] enprisewithease: Not quite I suppose. No bad bishop.
+[16:11:10] jdw10: yeh, it alays seems like when i'm playing aginst it, its just a French minus a tempo
+[16:12:26] enprisewithease: Oh, this is a line I meed to learn!
+[16:13:27] jdw10: yeh this seems a little more agressive and fast moving from blac, compared to what im used to seeing
+[16:30:14] enprisewithease: Now this is starting to feel more French-like
+[17:01:34] enprisewithease: (16...Bc5) Nxb5?
+[17:01:49] enprisewithease: (16...Bc5) Nxb5 axb5 Qb5+
+[17:02:35] enprisewithease: (16...Bc5) Bd7 Qxc5
+[17:03:51] enprisewithease: Nxb5 Nxb5 axb5 Qb5+ Bd7 Qxc5 Qxc5 Bxc5 wins a pawn and prevents castling?
+[17:04:52] enprisewithease: no, I was wrong because Bxe3+, duh
+[17:15:48] jdw10: cool to watch a better pawn structure(whie, against, a theoretically bettr minor(black) endgame with rooks
+[17:21:38] enprisewithease: (23.Rad1) a5 to prevent Nb4?
+[17:22:24] enprisewithease: (23.Rad1) no, doesn't matter, white has Ne3
+[17:23:55] enprisewithease: yeah, fun endgame to try to figure out alongside the players
+[17:24:56] jdw10: i think black should go f6 and trade off the protected passer, before he starts trading the rooks
+[17:25:42] jdw10: but, maybe will still be good this way
+[17:25:57] enprisewithease: (24.Rxd4) bishop was pinnable though in that line
+[17:26:28] enprisewithease: (24.Rxd4) now white can't simply win d5
+[17:27:59] enprisewithease: oh, I see after f6 exf6 Kxf6. white was coming with 3 pieces attacking d5 though
+[17:32:51] enprisewithease: white wins a pawn :-/
+[17:45:48] tristanbrown17: this is a line I play with black
+[17:46:04] tristanbrown17: so I was decently familiar here
+[17:46:04] tristanbrown17: But the queen check threw me out of theory
+[17:46:34] tristanbrown17: and instead of Ke7
+[17:46:34] enprisewithease: rook blockade instead of using the knight was interesting
+[17:46:34] tristanbrown17: I had calculated black playing a5, at which point, I felt pretty stuck
+[17:46:49] tristanbrown17: but I guess there is maybe some idea with trying to get the knight to b3?
+[17:47:04] tristanbrown17: I just wanted to keep the knight free to put pressure on the pawns
+[17:47:20] tristanbrown17: and, if black successfully pushes d4, the queenside might fall apart
+[17:48:05] enprisewithease: decisive was when black offered to exchange the second rook, apparently a5 could have equalized, not sure how easy it would have been
+[17:48:20] enprisewithease: felt white was ahead the whole game though
+[17:48:36] enprisewithease: good win
+[17:48:51] tristanbrown17: Thank you :)
