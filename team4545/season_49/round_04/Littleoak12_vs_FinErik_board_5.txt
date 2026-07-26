@@ -1,0 +1,99 @@
+Lichess game chat log
+Game      : https://lichess.org/b8Vb3QIh
+White     : littleoak12
+Black     : finerik
+Time      : 45+45
+Captured  : 2026-07-26 12:14:17 UTC
+Game ended : 2026-07-26 10:54:14 UTC
+Messages  : 89
+────────────────────────────────────────────────────────────
+
+[08:01:51] pineapplechiffoncake: Go FinErik!
+[08:05:09] kayrosas: gl littleoak!
+[08:08:43] berndwind: Go chess! ;-) Well if pineapple is going for FinErik, I’ll throw myself that way too
+[08:15:05] berndwind: i faced this line of the Vienna less than a week ago. interesting stuff for white.
+[08:49:07] godgifu: Goo cap!
+[08:51:25] littleoak12: 12.. Be6 yes that is a great move I think, this is the one I was most worried about. Now I don't get to push g4 f5
+[08:53:57] littleoak12: I might be satisfied with 13. Nxb6 cxb6 14. fxe5 and creating an isolated pawn
+[08:54:13] littleoak12: nvm
+[09:08:11] kayrosas: Qh5 seems a bit odd to me, whats the plan
+[09:08:57] kayrosas: in these white has to worry about king safety eventually sometimes. like 16...h5, h4 here by black maybe?
+[09:38:41] littleoak12: I was excited by 21.g5 but now I realise I missed Nxf5 gxf6 Nxh4
+[09:46:18] kayrosas: looks good for white now i think? structure is a bit weird but black has no active plans
+[09:46:49] kayrosas: Bg5+f6 possibly a threat
+[09:48:51] littleoak12: FinErik's a7 bishop is going to be a big problem when this all opens up
+[09:49:21] kayrosas: Kg8 is good
+[09:54:27] kayrosas: 23.c4 seems weird to me
+[09:55:12] kayrosas: 23.g5 could've been interesting actually bc Qc4+ is a resource in some lines
+[09:57:30] kayrosas: 24...Bd4 i dislike for black, i think we would want to get it to c7 eventually to support d5
+[10:00:48] cinemashow: (25...d5) Erik needs to win?
+[10:01:18] kayrosas: yes
+[10:03:05] kayrosas: d5 feels too early to me. like 26.Bxd4 exd4 cxd5 Nxd5 Bxd5 cxd5 Re5 should good at the very least
+[10:03:36] kayrosas: oh, also 26.Bxd4 exd4 Qf2 maybe
+[10:03:51] kayrosas: the bishop is the better piece so ideally we keep that on
+[10:10:58] cinemashow: (30.Qg3) Rf7?
+[10:12:14] kayrosas: i couldnt get 30...Rf7 Ng6 to work for white
+[10:13:00] cinemashow: (30...Ra6) Rf7 Ng6 Qh5?
+[10:13:15] kayrosas: Qxe6
+[10:13:15] cinemashow: (30...Ra6) Bxd5
+[10:13:30] cinemashow: (30...Ra6) wins the Q?
+[10:13:46] kayrosas: oh i saw some ghost there
+[10:13:46] kayrosas: true
+[10:15:49] cinemashow: (32...Qg6) Qb8+
+[10:16:49] kayrosas: Rf7 Ng6 Qh5 Qxe6 Bxd5 Qd6+ followed by Kh8 could be fine maybe
+[10:17:35] kayrosas: i dont like where this is heading for white now
+[10:17:50] cinemashow: (33...Rxe6) too sharp with too little time for them both
+[10:18:06] littleoak12: what a painful blunder
+[10:19:07] kayrosas: can still salavage a draw with some luck
+[10:20:38] kayrosas: that's too ambitious i'm afraid. down 2 doubled pawns has better odds i think
+[10:21:08] kayrosas: Kh1 could be a try tho
+[10:21:24] kayrosas: xd
+[10:22:25] rusty_2003: queens on anything can happen still
+[10:22:40] cinemashow: (37.Kh1) don't take d3!
+[10:24:11] kayrosas: Qf7 seems strong
+[10:24:42] kayrosas: oh i was wondering about this, very pragmatic
+[10:24:57] cinemashow: (40...Qxd3) think this looks good
+[10:25:27] kayrosas: yea it should be winning but there is some hope for perpetuals
+[10:27:15] cinemashow: (42...Qe2+) hmm not so easy?
+[10:27:31] cinemashow: (42...Qe2+) d5 important pawn to grab
+[10:28:31] ecoarrivazumashoomzo: Go Littleoak / captain!
+[10:31:04] kayrosas: have to be careful of Qc6 if the king is on g2/h1
+[10:33:21] kayrosas: aw, b5 is good
+[10:37:10] kayrosas: i get some hope whenever the queen moves off the b1-h7 diagonal
+[10:37:25] cinemashow: (48...Qd2+) yeah
+[10:41:44] kayrosas: 50...h5 ends it
+[10:41:44] kayrosas: :(
+[10:42:30] cinemashow: (50.Kg4) h5 Erik!
+[10:46:20] cinemashow: (52...Qd3+) was there a faster mate?
+[10:48:38] kayrosas: dont think so
+[10:48:54] kayrosas: but no more hope for counterplay
+[10:54:14] kayrosas: with axb axb included there mightve been stalemate ideas maybe
+[10:54:14] kayrosas: ggs
+[10:54:29] pineapplechiffoncake: Gg
+[10:54:29] cinemashow: gg
+[10:54:59] littleoak12: 4 hour game, you guys have quite some endurance
+[10:54:59] littleoak12: oh no 3 hour
+[10:55:15] littleoak12: what did you think finerik
+[10:55:45] littleoak12: I got low on time and started blundering
+[10:56:00] littleoak12: but I thought you defended vey well
+[10:56:46] finerik: That was a battle.  I think my brain is fried.
+[10:57:01] littleoak12: haha same
+[10:57:47] cinemashow: always challenging to convert when opponent has perpetual threats
+[10:58:17] littleoak12: yeah queen endgames always feel so opaque, no idea what might happen
+[10:58:48] finerik: I had the line you played but you still managed to get a nice advantage in the middle game
+[10:59:03] finerik: Prepared the line
+[11:00:19] littleoak12: oooh no way what move did you prepare to
+[11:00:19] finerik: I never felt safe in the end game either.
+[11:00:50] littleoak12: I need to save more time for middlegames cos I always seem to get an early advantage and then lose it later on
+[11:01:51] finerik: Roughly move 10.  Not exact move order.
+[11:02:06] finerik: Then the position at that time was quite complicated...
+[11:02:37] littleoak12: ah right! your f5 break surprised me. But then you didn't prepare against my own f4 I guess?
+[11:02:52] littleoak12: there are so many lines to consider when 2 pairs of pawns are staring each other down
+[11:03:38] finerik: Agree.
+[11:04:38] finerik: Good battle and good luck the rest of the season!
+[11:05:40] littleoak12: oooh I really wanted g5 and on move 23 I missed g5 Nxf6 24. Qc4+
+[11:05:40] littleoak12: that was the key to continuing my push
+[11:05:40] littleoak12: yes thank you fin!
+[11:05:55] littleoak12: you too, have a good season
+[11:06:56] finerik: Thanks!
+[11:09:59] littleoak12: fin you had really good endgame play. keeping queen on a1-b7 and trading off the rook for my bishop to simplify.
