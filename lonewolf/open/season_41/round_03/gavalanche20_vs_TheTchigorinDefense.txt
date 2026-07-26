@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/AFcyhBXW
+White     : gavalanche20
+Black     : thetchigorindefense
+Time      : 30+30
+Captured  : 2026-07-26 21:58:24 UTC
+Game ended : 2026-07-26 20:38:21 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[19:18:57] gavalanche20: Ermmmm ngl I checked some db before game but extremely did not check rating
+[19:18:57] gavalanche20: (1.e4) I had more like 2200 in my head ngl but is cool we play moves and re warm up to chess
+[19:18:57] gavalanche20: (1...c5) Hey Scribs
+[19:18:57] ng_life: Go gavalanche20!
+[19:18:57] gavalanche20: (2...d6) Doh I was looking more at Kalash, don't really have anything special planned for Najdorf
+[19:18:57] gavalanche20: (2...d6) Unless we can get a cheeky Nc6?
+[19:18:57] gavalanche20: (5...a6) Nope ah well
+[19:18:57] gavalanche20: (5...a6) had a subline I was thinking about but let's just play the usual Kh1 f4 stuff
+[19:18:57] gavalanche20: (8...O-O) Hey Scribs, NG and Hanzo
+[19:18:57] gavalanche20: (9.Kh1) This is supposed to be a good line against my setup but memory foggy on what White does here
+[19:18:57] gavalanche20: (10...Bb7) I think f3 and I remmber some Be3-g1 Rf2-d2 kind of thing but can't remember if that's here or mixing up lines
+[19:18:57] gavalanche20: (11.f3) Anyways forget the theory just try to think of ideas in the position i think that's a thing chess players do
+[19:18:57] gavalanche20: (12.Be3) Key ideas play on the queenside, note that Black is probably calculating d5 every move
+[19:18:57] gavalanche20: (12.Be3) Maybe see if we can get teh knight to c4 to make Black decide what to do with b6
+[19:18:57] gavalanche20: (12.Be3) Wow Nb4 and d5 is just happening I guess, what's the reaction?
+[19:21:14] gavalanche20: (12...Nb4) Ok so a5 b5 I'm hoping that once d5 comes I can maybe access c5 for the knight
+[19:24:48] gavalanche20: (13...b5) Basically some ideas of Nc5 to hit the bishop with or without Bb6 to make the queen move
+[19:25:33] gavalanche20: (14.Qd2) Oh and I guess if Black doesn't push d5 immediately there's maybe a world where Nb5 is a threat
+[19:25:49] gavalanche20: (14.Qd2) Walks into d5 discovery though so has to be considered very carefully
+[19:35:28] gavalanche20: (14.Qd2) Do I do Nc5 before or after trading on d5, what diff does it make
+[19:38:31] gavalanche20: (16.Nc5) Oh this isn't doing what I think it's doing
+[19:38:46] gavalanche20: (16.Nc5) Ne3 my queen no longer has a defender so Nb7 is no longer possible my bad
+[19:40:18] gavalanche20: (16.Nc5) Ne3 Qd8 Rd8 Nb7 starts to get weird
+[19:41:35] gavalanche20: (16.Nc5) No that line never works, Be7 dominates Nb7 and Black can even probably play Rd2 and the knight is parked on e3 forever
+[19:42:05] gavalanche20: (16...Nxe3) So I basically gave away the bpair for no good reason in the position that's opening up
+[19:42:51] gavalanche20: (17.Qxe3) Hey Rehbein
+[19:43:37] gavalanche20: (17.Qxe3) Yeah material even but Black got to play all the moves they wanted and I let arguably my best minor piece get picked off
+[19:48:11] gavalanche20: (17.Qxe3) Ah very cool Qe5 Re8 followed by Rc3! is the idea
+[19:48:26] gavalanche20: (18...Rc8) Instinctively felt like Black probably was thinking of sacing but didn't see a concrete way until now
+[19:49:42] gavalanche20: (18...Rc8) Qb4 then I guess, controlling e4 and I can swing to h4 one day is needed
+[20:02:55] gavalanche20: (21.Bd3) He's not gonna start throwing g5-g4 is he
+[20:03:56] gavalanche20: (21.Bd3) It probably works ngl
+[20:05:43] gavalanche20: (21.Bd3) If I had a couple free moves probably Rfe1 then Ne4 to try to gain access to a Re4 rook lift
+[20:06:44] gavalanche20: (21.Bd3) Ngl have had my eye on Ra4 exchange sac but probably doens't work
+[20:09:17] gavalanche20: (21...h6) No I doubt I could get a pawn through on the qside
+[20:09:48] gavalanche20: (22.Rae1) But at least if g5 here Ne4 the knight is loose
+[20:10:33] gavalanche20: (22.Rae1) Bg6 just because I can haha
+[20:11:19] gavalanche20: (22...Rfe8) Oh no probably Rc4 lets Black into the game for free
+[20:15:09] gavalanche20: (23...Nh5) Nd6 looks omega sharp
+[20:15:25] ng_life: Wow nh5 surprises me
+[20:16:10] ng_life: 24. Nd6 ng3 kg1 nxf1 kxf1 I think I like white a bit more, still probably equalish
+[20:16:27] gavalanche20: (23...Nh5) Nd6 Ng3 Kg1 Nf1 Qf7 Kh8 and I think I can get away with Ne8 because Qe1 Qf8#?
+[20:16:57] gavalanche20: (23...Nh5) Ermmm but then Qh2...
+[20:17:43] gavalanche20: (23...Nh5) yolo
+[20:18:13] ng_life: Oh yeah you have the mate threat so black can't even play nxf1, I like white here
+[20:18:59] gavalanche20: (24.Nd6) Ng3 Kg1 Nf1 Qf7 Kh8 Ne8 Qh2 Kf1 Qh1 Qh4 Kf2?
+[20:18:59] ng_life: You could even play bg6! In some line
+[20:19:14] gavalanche20: (24.Nd6) So that line I think works out but there could be other stuff I'm missing
+[20:19:45] gavalanche20: (24.Nd6) Dammit Qd4
+[20:20:30] ng_life: I missed Qd4+ too
+[20:20:30] gavalanche20: (25...Qd4+) Serves me right for getting all hopeful and stuff
+[20:21:47] ng_life: This is still probably a very small black advantage
+[20:22:33] ng_life: Actually I guess bd5 here for black looks pretty darn good
+[20:23:34] gavalanche20: (27...Bd5) I guess I have no choice but Qa3
+[20:23:49] ng_life: I guess you need an immediate kg1 after nh5?
+[20:25:51] ng_life: A pawns are very weak here, I guess ra1 and hope to push a4 next move?
+[20:27:39] ng_life: How does immediate a4 not lose to ra8?
+[20:34:17] gavalanche20: (27...Bd5) Oh I wonder if I had time to play f5 myself then
+[20:46:28] gavalanche20: Ah c4 comes up a bunch of times as a defensive resource in the endgame, it came to mind but I don't think I fully calced it which I should
+[20:50:02] gavalanche20: 10. a4 also wrong, should have kept developing and saved it as a counter to ...b5
+[20:50:33] gavalanche20: Ah well ggs again, chat doesn't seem to be going through without refreshing haha
+[20:50:33] thetchigorindefense: Thanks for the game!
