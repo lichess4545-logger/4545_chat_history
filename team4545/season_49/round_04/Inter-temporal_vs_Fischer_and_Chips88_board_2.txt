@@ -1,0 +1,182 @@
+Lichess game chat log
+Game      : https://lichess.org/9GaqrOLa
+White     : inter-temporal
+Black     : fischer_and_chips88
+Time      : 45+45
+Captured  : 2026-07-26 02:00:33 UTC
+Game ended : 2026-07-26 00:40:27 UTC
+Messages  : 172
+────────────────────────────────────────────────────────────
+
+[22:57:09] mysonnevercallme: go it
+[22:57:24] mysonnevercallme: Go inter-temporal
+[22:58:10] sahkal: yes
+[22:59:42] goldenretrieverchess: Gooo I-T!
+[23:01:45] inter-temporal: (1.e4) either alekhine, sicilian, or spanish; or oob
+[23:02:15] inter-temporal: (1...e6) oob
+[23:02:30] inter-temporal: (1...e6) well, i can surprise too
+[23:03:16] fischer_and_chips88: d3 lol that looks like a mouse slip
+[23:03:16] inter-temporal: (2.d3) now both of us wasted prep time. lol
+[23:04:32] fischer_and_chips88: Nd2 clearly some prep then, haven't seen this. I will just play normal moves
+[23:04:47] banshee3333: Go Fischer and Chips!
+[23:04:47] thegreattoddman: o/ Good luck both
+[23:05:03] inter-temporal: (4.Ngf3) planning to fianchetto my lsb, oc
+[23:05:33] inter-temporal: (4.Ngf3) i think back should play c5, idk
+[23:06:34] fischer_and_chips88: so many spectators I must be on TV
+[23:06:34] fischer_and_chips88: even for TV this is so many still
+[23:07:05] fischer_and_chips88: g3 logical opponent wants to fianchetto
+[23:07:05] inter-temporal: (5.g3) if ...b5 then likely Q-side v K-side. but maybe we open the center. idk
+[23:07:05] fischer_and_chips88: I might do the same b6 Bb7
+[23:08:06] oachkatzerlschwoaf: go it
+[23:08:06] inter-temporal: (5.g3) i'm playing KIA maybe in honor of today's simul master: jcarmody
+[23:08:21] fischer_and_chips88: even b5 is possible for that idea
+[23:08:21] banshee3333: Haha I just checked, you are on Lichess TV
+[23:08:51] inter-temporal: (5.g3) when bobby fisher plays this, he manages to get his e-pawn to e5
+[23:10:38] inter-temporal: (6...Bb7) 3 attackers on e4
+[23:10:53] fischer_and_chips88: 6 Bb7 quite a lot of pressure on e4 now
+[23:11:24] inter-temporal: (7.Qe2) and 3 defenders
+[23:12:09] inter-temporal: (7.Qe2) i think if black's pawn was on e5, then my lsb is an x-ray defender of e4
+[23:13:26] inter-temporal: (8.O-O) now my rook could help if needed. but not sure yet
+[23:13:41] fischer_and_chips88: 8 O-O no surprise. I could follow suit but castling queenside is also an option to consider
+[23:14:57] inter-temporal: (8.O-O) if ...Nc6, c3 probably
+[23:15:43] inter-temporal: (8.O-O) c3 to oppose the Nc6 and support d4 or b4
+[23:15:58] fischer_and_chips88: admittedly, castling kingside is a little scary
+[23:16:29] bpack: Go go Inty!!
+[23:17:15] fischer_and_chips88: I think it should be ok
+[23:18:01] bpack: good restraint with e5 so far
+[23:19:02] inter-temporal: (9.c3) if black had e5, then i might not have played c3 here.
+[23:19:17] fischer_and_chips88: c3 this move confuses me a bit dxe4 and Ba6 look strong
+[23:19:33] inter-temporal: (9.c3) maybe my e4-e5 is ready.
+[23:21:35] inter-temporal: (10.dxe4) so not the Q-side v K-side game then
+[23:22:06] fischer_and_chips88: well here I thought Ba6, and if he played c4 then there'd be holes on d4 and b4
+[23:22:21] fischer_and_chips88: but Ba6 he has Nc4 too
+[23:22:36] fischer_and_chips88: b5...
+[23:23:22] bpack: c3 is a tough one to figure out, wonder if Re1-Nf1-h4 led to more familiar ground
+[23:23:53] fischer_and_chips88: don't like b5 actually. maybe just Ba6 and enjoy the pin
+[23:24:23] fischer_and_chips88: Nc6-a5 possibly
+[23:25:09] fischer_and_chips88: I could even trade the French bishop off but this pawn structure has me thinking that the other bishop is the French one
+[23:27:11] fischer_and_chips88: first think for my opponent here but I doubt they missed Ba6
+[23:27:41] inter-temporal: (11.Nc4) didn't want to give up d4 yet. but this is always scary
+[23:27:56] inter-temporal: (11.Nc4) i get the tempo with Rd1 so that makes it just a tad less scary
+[23:29:28] sahkal: Rd1 that's not a good move
+[23:29:43] banshee3333: Bxc4
+[23:29:43] sahkal: very-very bad move as a matter of fact
+[23:29:43] sahkal: allows Bxc4 and black wins the game
+[23:30:14] fischer_and_chips88: Rd1. Qc7 walks right into Bf4
+[23:30:29] banshee3333: I don't think he sees it
+[23:30:29] fischer_and_chips88: is e5 any good there
+[23:30:44] sahkal: good
+[23:30:44] bpack: phew
+[23:30:44] banshee3333: Hey he's my teammate XD
+[23:31:00] sahkal: is what any good?
+[23:31:00] sahkal: e5?
+[23:31:15] sahkal: oh after Qc7 Bf4
+[23:31:30] tommeketoch: nah the fact that black is thinking makes it very likely they see it, because Qc7 is otherwise basically automatic move
+[23:31:30] sahkal: yes play Qc7
+[23:31:45] sahkal: he's thinking about Qc7 Bf4 e5
+[23:32:01] banshee3333: tommeketoch based on what he's whispering, I don't think he sees it yet
+[23:32:16] fischer_and_chips88: don't think e5 works tactically
+[23:32:31] sahkal: go go go Qc7
+[23:32:31] bpack: he's still looking tho...
+[23:32:46] banshee3333: Cmon find it XD
+[23:32:46] bpack: cue the Jaws theme
+[23:33:02] tommeketoch: Yeah unlucky then for It that there are downsides of Qc7
+[23:33:17] tommeketoch: makes it more likeley Fischer stumbels on the correct move
+[23:33:32] sahkal: yes
+[23:33:32] banshee3333: Tragic
+[23:33:32] sahkal: good
+[23:33:32] bpack: woo!
+[23:33:32] fischer_and_chips88: don't think e5 worked at all
+[23:33:47] fischer_and_chips88: Qc7 Bf4 e5 that is
+[23:33:47] tommeketoch: Oof the classic believe your oponnent
+[23:34:02] sahkal: i'm pretty sure e5 worked there, why not?
+[23:34:02] tommeketoch: lucky escape IT. time fo focus!
+[23:34:18] banshee3333: I think both sides just assumed the queen needed to be saved
+[23:34:33] banshee3333: blindspot for both
+[23:36:04] sahkal: e5 looked like a good move there
+[23:37:36] banshee3333: Reminds me of my game earlier today, where I could have won a rook, but found a clever tactic to win a corner pawn instead lol
+[23:38:53] sahkal: do yourtactics training people
+[23:39:08] sahkal: puzzle storm and blitz games and everything
+[23:41:11] fischer_and_chips88: Na5 looks very juicy
+[23:43:13] fischer_and_chips88: Nfd2 though and he's fine
+[23:43:28] fischer_and_chips88: if not improved cause his LSB will open up
+[23:43:43] inter-temporal: (13.Bg5) probably b3 next.
+[23:43:58] inter-temporal: (13.Bg5) if ...Na5, i think it's forced
+[23:44:29] sahkal: Nfd2 is good
+[23:44:44] sahkal: b3 doesn't look so good, maybe fine either way
+[23:44:59] fischer_and_chips88: I don't what to play now
+[23:45:14] fischer_and_chips88: maybe Nd7
+[23:52:07] fischer_and_chips88: Bxe7 Nxe7 I think this trade benefits me
+[23:52:53] inter-temporal: (15.b3) two c-pawns can cover d4 and d5
+[23:55:42] fischer_and_chips88: still have to untangle it seems
+[23:56:58] sahkal: yeah they could cover d4 and d5
+[23:59:30] fischer_and_chips88: I did anticipate this, plan was Nf6 but I just realised he has Nd6 which is extremely annoying
+[23:59:45] inter-temporal: (16.Qd2) dreaming of a favorable e5. but
+[00:00:01] inter-temporal: (16.Qd2) if ...Bxc4 maybe Qxd7 is better
+[00:00:31] inter-temporal: (16.Qd2) seems like all the heavies could be traded on the d-fiel and we'll have an endgame
+[00:01:48] fischer_and_chips88: not too happy about this but I think I have to, can't let that knight get to d6
+[00:02:48] fischer_and_chips88: assuming Qxd7...
+[00:12:58] fischer_and_chips88: hm Rd6 this just lets me improve the bishop
+[00:13:29] fischer_and_chips88: I think white is slightly better but this is looking to head for a draw dare I say
+[00:14:15] inter-temporal: (20.Rd7) just delaying the rook trades... idk
+[00:14:15] fischer_and_chips88: "Always repeat" Ben Finegold
+[00:15:00] fischer_and_chips88: jk
+[00:16:01] fischer_and_chips88: this position is pretty dull and symmetric hence the draw offer
+[00:16:01] fischer_and_chips88: I mean sure the bishops are the same colour
+[00:17:33] fischer_and_chips88: ok well I guess my opponent wants to practice endgames which I am fine with
+[00:18:18] fischer_and_chips88: white has to trade both rooks here or give up the e file
+[00:18:18] fischer_and_chips88: then it is a knight bishop endgame
+[00:18:49] banshee3333: Not true I don't think. White isn't compelled to take
+[00:19:04] banshee3333: Black will have to play ...Ba8 before they can get both rooks traded
+[00:20:20] banshee3333: It's a little tricky for Black to evict White from the file
+[00:22:24] fischer_and_chips88: kudos to my opponent for trying to keep the game going
+[00:24:11] fischer_and_chips88: so many spectators still I hope the chat is full and it isn't just my occasional hallucinations and yapping
+[00:27:30] inter-temporal: (24.Rd6) wanted to give up the file, but looks too risky
+[00:27:30] inter-temporal: (24.Rd6) i don't have the Lasker Rook. lol
+[00:29:01] banshee3333: Knight back to c6 and I think Black can either get the rooks traded, draw by repetition, or make White give the file
+[00:29:32] banshee3333: But maybe e5 there actually.
+[00:29:47] banshee3333: This is a better time for ...Nc6
+[00:30:33] banshee3333: Seems sketchy to let Black keep the file basically forever now
+[00:30:33] banshee3333: *white
+[00:31:03] fischer_and_chips88: 27 Rd7 and I think I have f5
+[00:31:33] fischer_and_chips88: maybe this isn't so dead drawn now since the bishops are the same colour there is outplay potential on both sides
+[00:32:50] fischer_and_chips88: how are there 28 people watching this
+[00:32:50] fischer_and_chips88: I must be quite the commentator
+[00:33:05] fischer_and_chips88: because this position stopped being interesting a while ago
+[00:35:38] fischer_and_chips88: I am inclined to play this out now, opponent tanking a lot of time and I could do with the endgame practice too
+[00:39:11] banshee3333: I think there's a good chance of a king and pawn ending, and I'd hesitate to consign the position as boring
+[00:39:26] banshee3333: K+P endings are often surprisingly complicated
+[00:39:42] banshee3333: gg
+[00:39:57] metalpawn: gg
+[00:39:57] fischer_and_chips88: gg
+[00:40:12] inter-temporal: thanks all for watching.
+[00:40:43] inter-temporal: wasn't sure how to keep things going without being too risky
+[00:40:58] banshee3333: Fischer_and_Chips, I was screaming internally at 12...Qc8 XD
+[00:41:13] inter-temporal: fischer played very well,
+[00:41:28] inter-temporal: my Q was overworked. lol
+[00:41:43] inter-temporal: story of my life
+[00:41:59] fischer_and_chips88: omg how did I miss Bxc4
+[00:42:14] banshee3333: Looked to me like you both just fixated on the queen being attacked
+[00:42:14] fischer_and_chips88: I was completely blind to it
+[00:42:14] fischer_and_chips88: that's insane
+[00:42:14] inter-temporal: i had my lucky token in my pocket
+[00:42:29] fischer_and_chips88: time to bonk myself with puzzles all week
+[00:42:44] inter-temporal: one get-of-blunder-free token
+[00:43:00] fischer_and_chips88: haha yeah
+[00:43:15] inter-temporal: wow. i know i do that blunder often, but still have not reduced it
+[00:43:46] inter-temporal: overworking my Q. i act like i have two of them or smth
+[00:45:02] inter-temporal: you surprised me with a french
+[00:45:47] fischer_and_chips88: yeah I am trying to learn it
+[00:45:47] fischer_and_chips88: you surprised me right back with d3
+[00:46:18] fischer_and_chips88: I actually do a lot of tactics @sahkal, and puzzle storm, so still shocked I missed that
+[00:46:33] fischer_and_chips88: I spent nearly 5 mins lmao
+[00:47:34] inter-temporal: it's like a right of passage at our level--identifying overworked defenders
+[00:51:38] inter-temporal: i've gotten better with King safety. now i need to study Queen safety. lol
+[00:52:08] inter-temporal: i'm gonna put this in a study and figure out how to keep my defenders safer...
+[00:54:25] sahkal: I know Fischer chips
+[00:54:40] sahkal: That you do
+[00:55:11] sahkal: That's why that was unusual
+[00:55:41] sahkal: It's a typical type of mistake though
+[00:56:12] sahkal: You have to make it many times, hundreds of times, before it starts clicking
+[00:57:43] sahkal: Oh I can do something active instead of passive
+[00:57:58] sahkal: Nobody thinks like that at first
