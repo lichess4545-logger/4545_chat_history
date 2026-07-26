@@ -1,0 +1,88 @@
+Lichess game chat log
+Game      : https://lichess.org/Fh2wmDVn
+White     : bufferunderrun
+Black     : akristjansson
+Time      : 45+45
+Captured  : 2026-07-26 22:08:57 UTC
+Game ended : 2026-07-26 20:48:45 UTC
+Messages  : 78
+────────────────────────────────────────────────────────────
+
+[18:05:18] bufferunderrun: so many choices...
+[18:06:19] bufferunderrun: Should I try something new, something old or something I've played recently? Hmmm...
+[18:07:21] bufferunderrun: alright, let's see their prep... I'll try something new next time
+[18:08:53] akristjansson: 4. a3 I reviewed this line as well in prepping for this game. The point is 4...d5 5. Bb5
+[18:10:39] bufferunderrun: Bb5 is played more frequently, but this is fine
+[18:11:25] bufferunderrun: objectively, drawish, but not every draw is a draw :p
+[18:11:55] akristjansson: 6. Nxe5 this is a reversed scotch 4 knights where I won't have Bb4 after 6... Nxe5 7. Qe2 f6 8. d4
+[18:19:04] akristjansson: 8. d4 Nxc3 9. bxc3 and now 9... Bd6 10. dxe5 0-0? fails to 11. Qc4+. Instead Black should play 9... Be7 10. dxe5 0-0
+[18:25:25] pineapplechiffoncake: Go Alex!
+[18:28:44] akristjansson: 11. Bf4 seems best keeping the pawn tension and getting ready for Rd1 next
+[18:30:00] pavonine: interesting game
+[18:30:15] pavonine: gl akristjansson
+[18:31:01] invinci7777: position looks very lose though for white if bf4 fe bxe5
+[18:31:47] invinci7777: very far from castling in wide open position
+[18:32:17] bufferunderrun: Idk if Qh5 is playable, Qc4+ should be alright, Qd3 maybe works as well
+[18:33:33] bufferunderrun: Be3 perhaps is also fine
+[18:33:49] invinci7777: I like qh5
+[18:34:19] bufferunderrun: I don't think I've looked at this deeply, so more or less on my own now
+[18:34:50] akristjansson: 11. Qe4 fxe5 12. Bd3 Bf5
+[18:39:41] akristjansson: 13... Bd6 intending ...Qf6 and ...Bf5 next to consolidate
+[18:45:18] bufferunderrun: I think I probably shouldn't allow the diagonal to be opened up
+[18:47:50] akristjansson: 14. Qe7 protecting b7  after ...c6 and ...Be6/Bf5
+[18:52:40] bufferunderrun: I can always g3, Bg2, perhaps a little be worse there, but probably holdable enough
+[18:54:27] akristjansson: 15... c6. ...Be6-Bd5 is another idea possibly supported by ...Rad8
+[19:00:49] akristjansson: 16... Qh4 17. g3 Qh3 18. Bg2 Bg4 19. f3 loses a piece
+[19:04:23] bufferunderrun: the question is what do I do with my DSB?
+[19:08:43] bufferunderrun: Rd1 perhaps or do run into some issues with Rad8 and Bc5? hmmm
+[19:15:20] bufferunderrun: there is Rxd6, but for this, I think, I cannot take on f5, but if I don't then it kind of looks sketchy
+[19:15:20] akristjansson: 16... Bf5 long think here from my opponent
+[19:17:25] bufferunderrun: kind of feels I'm dropping the pawn there, which isn't a biggy with opposite colored bishops, but pieces are slightly inactive
+[19:17:40] bufferunderrun: not sure I like it
+[19:18:41] bufferunderrun: I think I'm bailing out with slightly worse position instead
+[19:45:08] akristjansson: 21... Bf5 22. Qxa7 Bc8 was another option, but pretty passive
+[19:47:56] akristjansson: 24. Rxb7 Qf6 25. Kxg2 Qf3+ 26. Kg1 Qxc3
+[19:51:29] akristjansson: 24... e4 intending Qf6 or 24... Ra8 25. Qxb7 Qc5 both look strong
+[19:59:54] akristjansson: 25... Qf6 i missed Qe3 but theres still some pressure f or Black
+[20:00:55] bufferunderrun: Qe3 or Qd4 that is the question...
+[20:08:48] bufferunderrun: now I can grab on e4, I think
+[20:22:49] inter-temporal: (38...Rb4) both passers fall?
+[20:24:36] bufferunderrun: this is drawn now
+[20:26:07] bufferunderrun: still going to shuffle for a while
+[20:27:23] inter-temporal: (41...Kg8) black can draw this in his sleep
+[20:27:39] inter-temporal: (41...Kg8) but play it out!
+[20:28:09] akristjansson: 42. Rc7 g5 was my intention
+[20:29:41] inter-temporal: (42...Kf7) after h3 then what
+[20:29:56] inter-temporal: (42...Kf7) h3 h5 maybe
+[20:34:15] inter-temporal: (44...h4) wonder if there was 44...Ra5 45.Rg5 Kf6 46.Rxh5 g6?
+[20:34:31] akristjansson: 45. Rg4 Rxg4? 46. hxg4 hxg3 47. g5!
+[20:35:31] inter-temporal: (48.h5) this is even a draw without the g-pawn
+[20:37:33] jfiras: (48...Ra4) wow
+[20:38:19] jfiras: (49.Rg4) black shouldn't trade rooks right ?
+[20:38:35] jfiras: (49...Ra1) or it doesn't matter ?
+[20:38:35] inter-temporal: (50.Kf4) i guess there is still a white win without the g-pawn since the h-pawn is back enough
+[20:39:05] inter-temporal: (50.Kf4) yeh, white wins a pure pawn 2 v 1 here, i think
+[20:39:36] inter-temporal: (51...Kf7) pretty rare to draw 2 v 1 pure pawn
+[20:39:51] pavonine: still going wow, nice fight
+[20:40:06] inter-temporal: (51...Kf7) but the Rook can give a checks. :)
+[20:40:21] inter-temporal: (51...Kf7) black knows this ending for sure
+[20:41:22] inter-temporal: (51...Kf7) with ...Ra1 and K in front. but still like to see them play it. sometimes there's a surprising tactic
+[20:43:09] jfiras: (53...Kf7) yeah now the repetition
+[20:43:24] jfiras: (54.Rc6) oh no..
+[20:43:24] inter-temporal: (54.Rc6) check!
+[20:43:39] inter-temporal: (55...Re1+) check, check, check, check, attack h5
+[20:44:55] inter-temporal: (55...Re1+) if Kd6, Kf6
+[20:45:41] inter-temporal: (55...Re1+) then the R-trade is probably okay. lol
+[20:45:56] jfiras: (56.Kd4) so now Rh1 i assume
+[20:46:42] inter-temporal: (56.Kd4) or attack f5 or give check, idk
+[20:46:57] pavonine: i'd play Rd1+ here just to see if they put the king on the c-file
+[20:47:28] inter-temporal: (56...Rd1+) white could lose, but unlikely, yeh
+[20:48:45] inter-temporal: (57.Ke3) gg
+[20:48:45] jfiras: gg !
+[20:48:45] pavonine: gg
+[20:50:16] inter-temporal: oof. the lsb was trapped on 22
+[20:50:47] bufferunderrun: yeah, I missed it
+[20:51:02] inter-temporal: interesting arrangement for the trap
+[20:51:17] akristjansson: oh 22. c4 then
+[20:51:48] inter-temporal: usually the bishops gets trapped right in front of its own pawns. so this is unusual?
+[20:52:49] inter-temporal: i got away with a blunder yesterday.
