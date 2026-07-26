@@ -1,0 +1,117 @@
+Lichess game chat log
+Game      : https://lichess.org/KUbn6dIK
+White     : capturingbravo
+Black     : martindanielsson
+Time      : 45+45
+Captured  : 2026-07-26 19:24:48 UTC
+Game ended : 2026-07-26 18:04:45 UTC
+Messages  : 107
+────────────────────────────────────────────────────────────
+
+[15:59:55] jdannan: last game and we need a half for the match
+[16:00:10] jdannan: go Martin!
+[16:05:47] warvold: (6.Bd3) Go bravo!
+[16:14:27] coltonmtotland: let’s go bravo! save us
+[16:15:43] coltonmtotland: :D
+[16:53:26] aldric123: (16...fxg4) Go bravo!~
+[16:55:59] aldric123: (17...Rxf3) This position is tricky to fully figure out
+[17:00:19] aldric123: (18.Bc4) That was one of the moves I kinda liked, yay
+[17:03:22] losingisthebest: looks interesting for black Ne3, Bxe3 and bxe3
+[17:04:07] aldric123: (18.Bc4) It's interesting, but at the end of most everything usually the rook on a8 ends up dead
+[17:04:07] aldric123: (18.Bc4) So it's kinda tricky both ways
+[17:04:54] jdannan: yeah I wanna move the Nb8. the Nh3 looks stuck anyway
+[17:05:25] jdannan: Na6 looks ok to me
+[17:05:55] aldric123: (18.Bc4) Perhaps Na6 just Kg2
+[17:06:10] aldric123: (18.Bc4) But maybe Bxd5 then Kg2
+[17:06:10] genturgidson: Go Martin!
+[17:06:26] genturgidson: I thought the game was on at 7pm for some reason.
+[17:06:42] aldric123: (18.Bc4) Or Na6 Bxd5 cxd5 Nhg5 maybe?
+[17:07:27] coltonmtotland: Nc7 please
+[17:07:43] aldric123: (19.Nhg5) Hmm that is fun looking isn't it
+[17:07:58] aldric123: (19.Nhg5) This looks interesting too
+[17:10:15] aldric123: (19.Nhg5) amusing that this wild position is exactly materially equal
+[17:14:19] aldric123: (19...Rf6) Probably Nc7 and then if rook moves other knight to e4
+[17:15:36] aldric123: (20.Ne4) Or Nc7 R moves Nxd5 cxd5 Bxd5+
+[17:16:06] aldric123: (20.Ne4) I think this doesn't work though doesn't he just take Rxe6?
+[17:17:23] jdannan: yes grab the N
+[17:17:23] aldric123: (20.Ne4) Yeah he had to do that Nc7 first I think
+[17:17:38] aldric123: (20.Ne4) Then it was still pretty balanced and maybe white better
+[17:18:08] jdannan: I was thinking Rf5 not f6 was the move previously.
+[17:18:08] aldric123: (20.Ne4) yeah it probably was
+[17:18:39] jdannan: nc7 Rc8 and the knights are still in trouble
+[17:19:09] aldric123: (20.Ne4) Nc7 Rc8 Nxd5 minimum I think
+[17:19:25] aldric123: (20.Ne4) If you take back then B takes with check and other knight moves
+[17:19:40] jdannan: cxd5 and two pieces still hanging R defends d5
+[17:19:40] aldric123: (20.Ne4) The tricky part is letting the rook fall and knight maybe getting trapped on a8
+[17:19:55] aldric123: (20.Ne4) Oh wait, are you talking if you HAD played Rf5 instead of Rf6?
+[17:19:55] jdannan: complicated tho! my game was so much easier
+[17:20:11] jdannan: yes that’s why I think Rf6 worked
+[17:20:11] aldric123: (20.Ne4) Yeah your game was almost flawless, I checked it out.
+[17:20:26] jdannan: (Rf5!!)
+[17:20:56] aldric123: (20...Rxe6) I was getting hopeful when your player didn't take on e6 more quickly. But Nope!
+[17:21:11] jdannan: phew
+[17:22:43] aldric123: (20...Rxe6) If you're going back to the Rf5 then I want to go back and say that my teammates suggestion of 19.Nc7 seemed much more ...
+[17:22:43] aldric123: ...promising than 19.Nhg5
+[17:22:43] aldric123: (21.Ng3) Making the knights that depending on each other is dicy
+[17:24:00] jdannan: yes I agree I’m sure white had good options a couple of moves ago
+[17:24:31] genturgidson: I’m confused why white let him have the knight. Am I missing something?
+[17:24:31] aldric123: (21.Ng3) Nah he just blundered.
+[17:24:46] jdannan: just too much going on in the position.
+[17:24:46] aldric123: (21.Ng3) It was a really wild position and he just made the mistake (I think)
+[17:25:02] jdannan: so many threats and counter threats
+[17:25:32] aldric123: (21.Ng3) The worst too is if you were calculating a line and you play the second move you were calculating which blunders horribly. It's ...
+[17:25:32] aldric123: ...could be something like that too, won't know unless he tells us.
+[17:26:48] aldric123: (21.Ng3) I meant the second move in the sequence you were calculating. Awww too much typing.
+[17:27:05] jdannan: maybe b5 ans then Nb6 to untangle a bit
+[17:27:20] aldric123: (21.Ng3) Shrug, it's all gravy from here unless your guy counter blunders
+[17:27:35] aldric123: (21.Ng3) N7b6 looks good, but I see lots of good moves
+[17:28:21] aldric123: (21.Ng3) b5 as you said also looks good
+[17:40:02] jdannan: I was just looking at the most likely blunders...
+[17:43:05] aldric123: (31...h5) wow all up in the air again
+[17:43:20] aldric123: (31...h5) So atm 2 pawns for the piece
+[17:44:52] aldric123: (32...Kf5) This should be technically winning I think, but who knows what will happen in the real world!
+[17:45:07] warvold: (32...Kf5) The real world is harsh
+[17:45:22] aldric123: (32...Kf5) Don't we know it!
+[17:46:23] genturgidson: That was a really shocking fumble.
+[17:46:23] warvold: (33...Kf6) Nf4 now?
+[17:46:38] aldric123: (34.Nf4) I mean I hear you, but I felt the hanging a knight on e6 was pretty shocking too
+[17:46:54] genturgidson: True.
+[17:47:39] warvold: (35.Nxh5+) Aldric, I played some classical to get my wonderful game out of my head
+[17:47:56] aldric123: (35.Nxh5+) hehe
+[17:47:56] warvold: (35.Nxh5+) Just realised I have 1 more elo than you
+[17:47:56] aldric123: (35.Nxh5+) Did it go well?
+[17:47:56] warvold: (35.Nxh5+) Would you please win a classical in the ladder
+[17:48:11] warvold: (35.Nxh5+) Very well 3-0
+[17:48:11] aldric123: (35.Nxh5+) Oh you were rocking out? We're about to have a new board 1 you go!
+[17:48:11] warvold: (35.Nxh5+) No no nooo
+[17:48:11] aldric123: (35.Nxh5+) Heh, I'll play some more before my next match
+[17:48:26] aldric123: (35...Ke6) But if you want to be sure you're not board 1, maybe don't play more today
+[17:48:42] warvold: (36.hxg5) Please do, I don't want to go into the far west xD
+[17:48:42] aldric123: (36.hxg5) The new pairings come out tomorrow
+[17:49:12] aldric123: (36.hxg5) Oh you have 1 more than me now? Ok ok I'll go play a game
+[17:49:12] warvold: (36.hxg5) I leave it as is it. I'm exhausted
+[17:49:12] aldric123: (36.hxg5) After this is done. Better hope I don't lose!
+[17:50:44] warvold: (36...a5) I don't want to force you to play if you don't want to ;)
+[17:50:59] warvold: (37.Kxg4) I'll get back to my 2nd board soon enough
+[17:51:14] warvold: (37...Kf7) It seems unlosable now
+[17:51:29] aldric123: (37...Kf7) I've had a bad time lately in classic arenas. I have such an impossible time not berserking vs like under 1700s, yet, they ...
+[17:51:29] aldric123: ...aren't bad, and if I get in time trouble.....
+[17:51:29] aldric123: (37...Kf7) You get the idea.
+[17:52:00] warvold: (38...Kg8) I'm really bad in arena
+[17:52:00] aldric123: (38...Kg8) How dare you call it unlosable!?! You trying to make him counter blunder?
+[17:52:00] aldric123: (38...Kg8) Kidding.
+[17:52:00] warvold: (38...Kg8) I prefer the swiss
+[17:52:15] warvold: (39.Kg5) I'm a specialist in briging bad luck to unlosable games
+[17:52:30] aldric123: (39.Kg5) heh
+[17:52:30] warvold: (39.Kg5) Ask my rocket league partner
+[17:52:30] coltonmtotland: lol
+[17:58:06] coltonmtotland: what’s going on here
+[17:58:36] aldric123: (43.Bxd5) Ok playing a 30 0 game now, you better hope I win warvold you new mister board 1!
+[17:58:51] warvold: (43.Bxd5) Haha, I'm coming to cheer you on
+[17:59:07] aldric123: (43.Bxd5) I was just talking on my last game how I remember fondly being board 2!
+[17:59:22] warvold: (43...b4) Victory or nothing!
+[18:02:12] warvold: (49...Kd6) Gosh
+[18:02:27] warvold: (49...Kd6) Not Qc4
+[18:02:43] warvold: (50...Kc5) One check a move keeps the stalemate away
+[18:03:59] warvold: gg!
+[18:07:32] capturingbravo: Yep i just bludnered on Ne4
