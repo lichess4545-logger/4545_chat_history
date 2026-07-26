@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/5w04fnU7
+White     : joonaf
+Black     : rafixelo
+Time      : 45+45
+Captured  : 2026-07-26 18:45:20 UTC
+Game ended : 2026-07-26 17:25:18 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[16:04:14] cowtone: go joonaf
+[16:06:31] simonwashere: Go Joonaf!
+[16:12:25] darktigr: go joonaf!
+[16:13:11] joonaf: I haven't really played Ruy Lopez so I don't know more than 5 moves
+[16:13:42] joonaf: I wanted to try Ruy Lopez, but didn't prepare
+[16:17:00] joonaf: 10.Bxc6+, bxc6, Qa4, Bxc3, Qxc6+, Bd7, Qxe4+
+[16:18:16] joonaf: problem is, Black doesn't need to do ..Bxc3
+[16:19:02] rafixelo: So far still in prep, anticipating Ng5 or Nxe4, after which I will O-O.
+[16:20:18] cinemashow: (9...dxe4) Nxe4 here no?
+[16:21:04] rafixelo: I saw that recently Joonaf started playing d4, so I was anticipating to go into Catalan, but after 2.Nf3 he played only Ruy Lopez.
+[16:21:19] cinemashow: (10...O-O) control of g5 looks good
+[16:23:06] cinemashow: (10...O-O) Rafixelo playing their 1st season - welcome!
+[16:23:51] cinemashow: (10...O-O) one of the unreasonably long team name bunch - very suspicious
+[16:24:22] cinemashow: (10...O-O) that alone deserves a ban
+[16:24:37] cinemashow: (10...O-O) Mils should have put his mod foot down
+[16:25:38] val1313: (10...O-O) he tried
+[16:26:24] joonaf: I can't think
+[16:27:56] cinemashow: (10...O-O) just remeber you can move your rooks all game this time joonaf
+[16:29:14] joonaf: holy hell I'm even slower than normally
+[16:29:29] joonaf: I need to get up and move a bit
+[16:29:29] simonwashere: is it bad to take the knight and double the pawns?
+[16:30:45] rafixelo: 11. h3 Out of prep now
+[16:30:45] cinemashow: (11.h3) that was a long think just to play h3
+[16:31:00] simonwashere: h4 would have taken twice as long
+[16:31:31] cinemashow: (11.h3) lol
+[16:31:46] cinemashow: (11.h3) he's tired from the simul last night
+[16:32:16] cinemashow: (11.h3) the games were taking eg 2h 40m - 28 boards
+[16:32:32] simonwashere: wow
+[16:33:34] cinemashow: (11...Be6) too many people really, lots of waiting, time trouble everywhere for jc
+[16:37:07] cinemashow: (12...Be7) lol joonaf's game was 3h and he played with *two* handicaps
+[16:48:19] simonwashere: what do other people think of Bxc6, I would have done it by now
+[16:50:06] cinemashow: (15...Re8) it does look perfectly reasonable, although will White miss the 2 bishops on an open board?
+[16:50:36] val1313: (15...Re8) definitely a candidate move
+[16:53:54] cinemashow: (16...Qd7) b3?
+[16:54:40] simonwashere: yes looks good to me
+[16:56:13] simonwashere: the lsb sure is busy
+[16:58:31] joonaf: 18. b3, Be6, d5, Bxc3 ...
+[17:00:02] cinemashow: (17...Rad8) looks bad for White I think
+[17:01:18] cinemashow: (17...Rad8) maybe Bxc6 after all, now
+[17:01:49] cinemashow: (17...Rad8) then Rc1?
+[17:03:06] davidsifre: in this position white should resign.
+[17:03:22] cinemashow: (17...Rad8) Black's development and co-ordination just looks better?
+[17:03:22] davidsifre: resign himself to victory.
+[17:03:52] davidsifre: black’s lsb is loose.
+[17:03:52] simonwashere: yeah Bxc6 earlier would probably have been better than this, the bishop moved around too much
+[17:04:53] davidsifre: white has the benefits of a backwards pawn and a IQP
+[17:05:09] simonwashere: he might not have the IQP much longer
+[17:05:24] davidsifre: is the b pawn considered backwards?
+[17:05:39] cinemashow: (17...Rad8) it's the side *with* the IQP that's supposed to be attacking though David!
+[17:05:54] davidsifre: d5 looks good.
+[17:05:54] davidsifre: it attacks!
+[17:07:13] goldenretrieverchess: Goo Joonaf!!
+[17:08:29] cinemashow: (19.Bxc6) a hanging knight to worry about now too
+[17:08:59] cinemashow: (19.Bxc6) at least there goes the loose bishop
+[17:12:50] cinemashow: (21...f5) wow, no Bf5?
+[17:21:14] rafixelo: I feel like I should keep on pushing his clock to not give him too much time to think.
+[17:21:44] rafixelo: I got quite lucky with the prep and after that moves were quite easy to find.
+[17:24:01] val1313: (26.Qxb3+) :(
+[17:24:17] rafixelo: nvm, I am stupid
+[17:24:17] cinemashow: (26.Qxb3+) comes with check!
+[17:24:32] val1313: (26.Qxb3+) as soon as you think you are out of the woods
+[17:24:32] val1313: (26.Qxb3+) classic
+[17:24:32] goldenretrieverchess: Yes easy to miss that
+[17:24:47] val1313: (27.Nxd7+) nooo
+[17:24:47] val1313: (27...Rxd7) why not qd5 ?
+[17:25:02] simonwashere: gg
+[17:25:02] goldenretrieverchess: Gg
+[17:25:02] val1313: gg
+[17:25:18] joonaf: gg
+[17:25:18] cinemashow: gg
+[17:25:18] joonaf: you saved me by playing so fast
+[17:25:33] cinemashow: Qd5 yep
+[17:25:33] joonaf: I was so hopelessly slow
+[17:25:48] val1313: still lost
+[17:25:48] val1313: of course
+[17:26:18] davidsifre: Joonaf, slow thinking is better than fast unthinking.
+[17:26:34] joonaf: how about slow unthinking?
+[17:26:49] davidsifre: that is called chess meditation.
+[17:26:49] davidsifre: it is ok.
+[17:39:46] joonaf: oh, I missed 21..Bf5
+[17:39:46] joonaf: I mean, I missed a lot of things, but that too
