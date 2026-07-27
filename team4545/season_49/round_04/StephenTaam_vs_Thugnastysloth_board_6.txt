@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/FLpGEgrA
+White     : stephentaam
+Black     : thugnastysloth
+Time      : 45+45
+Captured  : 2026-07-27 02:51:31 UTC
+Game ended : 2026-07-27 01:31:24 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[00:21:23] mennonite: Go Stephen!
+[01:10:33] mennonite: I think we do need to start with 25.Qxc1 and if nothing else White has some compensation
+[01:10:48] mennonite: at minimum we'll get an exchange back
+[01:11:34] gavalanche20: (24...Bxc1) hmmm
+[01:12:51] gavalanche20: (24...Bxc1) Nvm I was looking at Nf4 instead but inserting Be3+ throws a wrench in that
+[01:16:24] gavalanche20: (25.Qxc1) Qc3+ f6 Bf8 Rf8 Nd4 anything in that?
+[01:16:24] mennonite: I guess Bg7+ Kxg7 would draw on the spot
+[01:16:39] mennonite: and I don't think it can be declined
+[01:17:10] gavalanche20: (25...Kh8) nice yeah I think you're right
+[01:18:12] gavalanche20: (25...Kh8) Is there more though after Bg7 Kg7 Qg5 Kh8 Qf6 Kg8 Rf4?
+[01:19:28] gavalanche20: (25...Kh8) I...think so?
+[01:20:13] mennonite: it looks like it!
+[01:20:44] gavalanche20: (25...Kh8) Bg7 is a crazy find, well done
+[01:21:14] mennonite: it was out of desperation because nothing else seemed to work
+[01:22:00] mennonite: I suspect White seems the idea based on time usage
+[01:22:00] mennonite: *sees
+[01:22:15] gavalanche20: Was about to see the same
+[01:27:20] mennonite: the draw at least is still there
+[01:28:36] mennonite: unfortunately, Qh6 Rg8 and Nh5 falls to a windmill!
+[01:29:07] mennonite: oh, but Qf6+ Rg7 Nh5
+[01:29:37] mennonite: yep that's just forced mate
+[01:30:08] mennonite: ...for Black now
+[01:31:24] thegreattoddman: gg
