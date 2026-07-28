@@ -1,0 +1,135 @@
+Lichess game chat log
+Game      : https://lichess.org/75vRAaiD
+White     : nlance
+Black     : namegoesinhere
+Time      : 45+45
+Captured  : 2026-07-28 20:44:12 UTC
+Game ended : 2026-07-28 19:24:08 UTC
+Messages  : 125
+────────────────────────────────────────────────────────────
+
+[18:07:04] joonaf: Go NLance!
+[18:07:49] nlance: I've been playing the 2 knights Caro for far too long and it's getting stale. Trying something new.
+[18:09:51] le_merovingien: Go Namego!
+[18:13:10] serenemoose: Go Name!
+[18:15:27] le_merovingien: Is Bd7 thematic? I feel anxious
+[18:17:59] le_merovingien: With Black, I want to castle fast. Is that the trap laid by White?
+[18:17:59] inter-temporal: (9.Qe2) go NLance!!
+[18:18:46] le_merovingien: No no no, Inter. You mixed up the teams. You got traded on Saturday.
+[18:20:17] kborman: Go Namego!
+[18:23:36] inter-temporal: (10.Nc3) where am i? lol
+[18:23:51] inter-temporal: (10.Nc3) still trying to get my coffee, Mr. French man. :)
+[18:24:22] le_merovingien: That must be it. Coffee brings clarity of mind.
+[18:24:52] inter-temporal: (10...O-O) i hope. even so, if i wuz on my team, i'd trade me away
+[18:25:23] le_merovingien: But WE would keep you any day :)
+[18:25:38] inter-temporal: (10...O-O) [*hug emoji*] :)
+[18:27:25] le_merovingien: There, Bd7 annoys me...
+[18:27:55] inter-temporal: (11.Bg5) NLance will likely cross 250 league games next season
+[18:28:10] inter-temporal: (11.Bg5) a veteran
+[18:28:41] le_merovingien: [praying NLance is also senile]
+[18:29:11] le_merovingien: Wait, NLance is a veterinarian?
+[18:29:27] inter-temporal: (11.Bg5)  many talents
+[18:30:43] inter-temporal: (11...Bc6) likely Ne5, yeh? idk. IQPs are mysterious
+[18:31:59] inter-temporal: (12.Ne5) next, caveman say push h-pawn!
+[18:32:31] nvasquez: There's 2 games in the Lichess DB with this line after 12.Ne5, both blitz games
+[18:33:16] inter-temporal: (12.Ne5) seems like this could have transposed from other lines too
+[18:33:32] inter-temporal: (12.Ne5) i guess that's typical for caro-kann
+[18:33:47] nvasquez: The deviation was White's 6.Qc2; most master games have Qe2 instead
+[18:33:47] le_merovingien: I see a good way for Black to stake a claim of d5: Nb8-Nd9-Nc7
+[18:34:17] inter-temporal: (12.Ne5) strong moves
+[18:35:18] inter-temporal: (12.Ne5) does black often play on increment?
+[18:35:33] nvasquez: Good question ...  23 min left on move 12
+[18:36:50] nvasquez: uh oh... sacrifice opportunity here.   Does White find it?
+[18:37:20] nvasquez: The last move has undefended the e7 bishop
+[18:37:51] inter-temporal: (12...Nbd7) good eye, vasquez!
+[18:38:37] nvasquez: very easy to miss that
+[18:39:38] le_merovingien: I did not see it... Can I be kicked from the team?
+[18:40:08] nlance: I didn't calculate everything but Rx just loses material and Kxf7 Qxe6+ Ke8 looks awful.
+[18:40:08] inter-temporal: (13.Nxf7) we'll make room for you
+[18:40:24] nvasquez: It's not the most human move.   Just have to be used to the pattern or notice that the e7 bishop is now undefended
+[18:40:54] inter-temporal: (13.Nxf7) indeed, it is pattern-like.
+[18:41:25] nvasquez: The calculation is a challenge.   After Nxf7 assume Rxf7 Qxe6 Raf8 Qxe7 but the crucial bishop on c4 then becomes undefended
+[18:42:27] inter-temporal: (13.Nxf7) these IQPs often have Ne5; and, of course, "Always play Nxf7"--Capablanca
+[18:42:42] nvasquez: The hardest part of chess for me is this stuff... knowing what is or isn't attacked... what is or isn't defended
+[18:42:57] nvasquez: Easy to lose track of it
+[18:46:00] nvasquez: So now after Ke8 the Black king is stuck in the middle.   Simple moves like Rae8 or Rfe8 seem winning
+[18:46:00] nvasquez: but my eye goes immediately to d5 as well
+[18:49:18] nvasquez: if Rfe8 I think Kd8 and Black has to give up the bishop
+[18:49:49] nvasquez: if d5 then Nc5
+[18:53:22] nlance: I was looking at 15 d5 and Re1 which looked nice but unclear. I think d5 is cleaner. Should be up a pawn and unsafe king for my opponent.
+[18:55:39] inter-temporal: (16...Bd7) attackers and defenders is more difficult that it seems, especially for adult beginners, imo
+[18:56:10] inter-temporal: (16...Bd7) it's "fundamental," yet we probably move past it too quickly
+[19:03:17] nlance: I gave up calculating and played the the d6 sac on vibes. I want some Bxf6 and Nd5 at some point.
+[19:04:03] davidsifre: seems like putting the rook behind the pawn was better then sacking it.
+[19:07:36] inter-temporal: (18.Rad1) indeed an expensive tempo, but could be worth it
+[19:08:22] davidsifre: well, go Nlance!
+[19:08:52] inter-temporal: (18...Qb8) he didn't want 17.Rad1 Qe6 to be an effective blockader. but it's pretty tricky
+[19:09:07] inter-temporal: (18...Qb8) [...Qd6]
+[19:09:23] nvasquez: for me the hardest part of "won" games is finding the simple continuation
+[19:09:38] nvasquez: Like here... Rfe1 is just crushing it seems but again my eyes want to calculated Nd5
+[19:09:53] inter-temporal: (19.Rfe1) with the ...Ra8, this does look won, yeh?
+[19:10:39] nvasquez: White has options to exploit the position.   It seems now Qd8 is forced...
+[19:10:39] davidsifre: when the game is won you don’t need a solution. you need to play solid chess. limit counterplay and press the advantage slowly.
+[19:11:09] inter-temporal: (19.Rfe1) i think that that is most applicable with a material advantage
+[19:11:09] nvasquez: After Qd8 maybe b4?
+[19:12:10] davidsifre: well yeah. If thete is mate in 4 it’s a win game and moving slowly is bad.
+[19:12:41] inter-temporal: (20.Bxf6) this one is dynamic vs material...  an imbalance
+[19:13:11] davidsifre: taking with the pawn leads to mate.
+[19:13:11] nvasquez: Going to be hard for Black to find the right defense I think
+[19:13:57] nvasquez: Oh wow... double attack
+[19:14:12] davidsifre: he has to move the king.
+[19:14:28] nvasquez: If Rf7 Qxc5
+[19:14:43] nvasquez: If Kf8 Qxh7
+[19:14:43] inter-temporal: (21.Qh5+) then Rc8 might enter with some helpful defense. idk. possibly
+[19:14:43] davidsifre: then he has to block with bishop.
+[19:14:43] nvasquez: yikes
+[19:15:13] davidsifre: looks won. :)
+[19:15:44] le_merovingien: I am sad.
+[19:15:44] inter-temporal: (21.Qh5+) indeed. white's advantage seems overwhelming
+[19:15:59] davidsifre: do not be sorrowful. it is good to lose to a hedgehog.
+[19:16:29] le_merovingien: A hedgehog?
+[19:16:29] le_merovingien: I thought he was a veterinarian...
+[19:16:45] inter-temporal: (21...g6) white is the vet
+[19:17:00] nvasquez: 22.Qxh7 followed by Nd5 is kind of devastating
+[19:17:30] inter-temporal: (22.Qxh7) interesting. black tempted white to go this way rather than grab the N.
+[19:18:16] nvasquez: Both seemed winning
+[19:18:47] inter-temporal: (22.Qxh7) Ne6 looks desperate?
+[19:19:02] nvasquez: Ne6 Bxe6 Rxe6 Rxe6...
+[19:19:17] inter-temporal: (22.Qxh7) gives back some material,
+[19:19:33] nvasquez: the d7 bishop is pinned to the Queen
+[19:19:33] nvasquez: Nd5 to follow
+[19:19:48] inter-temporal: (22.Qxh7) yeh the Q would have to go in that line
+[19:20:03] inter-temporal: (22...Be6) R+B v Q. it's too much
+[19:20:33] inter-temporal: (22...Be6) he's gotta try
+[19:20:49] davidsifre: well goodbye queen
+[19:20:49] inter-temporal: (23...Rxd8) but it's still too much
+[19:21:20] nvasquez: So many tactics for White
+[19:21:51] davidsifre: now white must take care against the back rank mate.
+[19:21:51] nvasquez: The knight covers d1
+[19:22:06] nvasquez: misery for Black
+[19:22:21] inter-temporal: (24.Nd5) oh nice move
+[19:22:36] voylento: i think this game should be nominated for best game
+[19:22:52] inter-temporal: (24.Nd5) NLance had his coffee this morning
+[19:22:52] davidsifre: sacking the knight doesn’t seem needed.
+[19:22:52] davidsifre: I am missing something
+[19:23:07] inter-temporal: (24.Nd5) clearns the way for Qe7#
+[19:23:07] nvasquez: not a sac
+[19:23:22] nvasquez: can;t be taken by the bishop
+[19:23:22] davidsifre: qxe7#
+[19:23:37] nvasquez: Rxd5 Bxd5
+[19:24:08] nvasquez: GG
+[19:24:23] davidsifre: goodbye bishop.
+[19:24:23] nvasquez: All started with Nxf7
+[19:24:23] davidsifre: gg
+[19:24:23] inter-temporal: gg
+[19:25:24] davidsifre: :hedgehog noises:
+[19:25:39] nlance: lovely game. First win in a while in 4545.
+[19:25:54] inter-temporal: we were entertained
+[19:26:10] inter-temporal: got my money's worth
+[19:26:40] inter-temporal: yeh. GOM nominee
+[19:27:11] inter-temporal: somehow 13...Rxf7 might have held the balance. impossible to know
+[19:27:26] voylento: I nominated it
+[19:30:14] inter-temporal: wow! in the ...Rxf7 line there was a ...Bxg2 counter sac, only move
+[19:30:44] inter-temporal: that's not human
+[19:37:22] nlance: The only reason the Rxf7 line "draws" is after Rxf7 Qxe6 Rf8 Qxe7 Bxg2! which might be obvious to stockfish but I can't admit I saw that.
+[19:37:53] nlance: Oh Inter temporal got there first
