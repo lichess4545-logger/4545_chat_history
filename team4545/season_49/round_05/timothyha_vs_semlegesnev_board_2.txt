@@ -1,0 +1,191 @@
+Lichess game chat log
+Game      : https://lichess.org/YYr9j0vm
+White     : timothyha
+Black     : semlegesnev
+Time      : 45+45
+Captured  : 2026-07-28 18:51:10 UTC
+Game ended : 2026-07-28 17:31:05 UTC
+Messages  : 181
+────────────────────────────────────────────────────────────
+
+[15:30:41] semlegesnev: So I recently started playing the Dutch. It leads to exciting games, but my performance so far is terrible with it. Let's see how it goes
+[15:31:42] handknit: (2...Nf6) That sounds like the Dutch, alright
+[15:32:28] handknit: (3.Bf4) Well, this line will probably not lead to an especially exciting game.
+[15:36:01] handknit: (4.c4) I think Bb4+ is supposed to be at least decent for black here
+[15:36:01] handknit: (4.c4) Decent enough that white has been known to play 3.a3 to avoid it
+[15:39:50] handknit: (6...b6) Moving towards something a bit more nimzoish
+[15:45:56] handknit: (8.Ne5) Double hopping the knight seems out of place. I guess white wants f3
+[15:46:11] handknit: (8...d6) Black's best response is probably to finish development before hammering d6
+[15:46:26] handknit: (8...d6) After all, d6 is gonna continue to be there
+[15:46:57] handknit: (8...d6) Also this allows Qa4+, which may or may not be a thing (never calculate)
+[15:47:58] handknit: (9...Nbd7) Nc6 and this is getting a bit sticky
+[15:48:13] semlegesnev: Endgame time
+[15:48:28] handknit: (11...Kxd7) [screams in pedant] this is still a middlegame
+[15:49:44] semlegesnev: the trades shall never stop
+[15:50:15] handknit: (13.Bg5) can't elimidate the bishop pair by force but black can get a bunch of space and activity in the process
+[15:50:45] handknit: (14...g5) Though I feel like black should want to keep the N on
+[15:51:00] handknit: (14...g5) natural idea here is to play c5 to fix the c4 pawn then go after it with Ba6 and Na5
+[15:51:16] handknit: (15.Bf2) knight is a long way from a5 now
+[15:52:17] handknit: (15...g4) I feel like black probably wanted to prepare a bit more before g4
+[15:52:47] handknit: (15...g4) just opening things up simpliciter should help the bishop pair
+[15:55:35] handknit: (16...gxf3) Feels like black's position could fall apart very quickly with a few dodgy moves
+[15:58:23] handknit: (17...Rhg8) the h-pawn is gonna be a very big problem for black, I think
+[15:58:38] semlegesnev: My bishop will either be super strong or get closed off within a few moves
+[15:58:53] handknit: (17...Rhg8) White can also use the a and c pawns to create play on both sides of the board, favouring the B pair
+[15:59:39] handknit: (17...Rhg8) White's got a Bh4 idea, significantly limited black's N
+[16:01:11] timothyha: (20...Nf6) now I think I'm ok to start opening things up
+[16:02:11] semlegesnev: I'm sure just finishing my shift and not sleeping well has no visible impact on how  I approach this game
+[16:03:28] handknit: this feels savable but difficult for black. trading the second pair of rooks probably helps significantly but I’m not sure
+[16:04:29] handknit: c5-Kc7-Nd7 something like that
+[16:04:59] semlegesnev: e5, e4 might be able to close off his black squared bishop
+[16:10:04] semlegesnev: yess, I'm quite fond of my knight there
+[16:14:27] handknit: just bg1-h3-bf2-bh4, I think
+[16:15:59] semlegesnev: Not one of the lines I calculated
+[16:15:59] timothyha: (24.Bg1) I didn't like any other options
+[16:16:14] handknit: maybe black can trade bishops with ba6-Nf6-d5
+[16:19:17] handknit: I worry that h5 here is both natural and losing
+[16:20:49] handknit: white already wanted to target b6. this makes that more effective
+[16:23:06] robertjackson: 25.c5 looks great
+[16:23:36] handknit: (25.c5) Yeah. And there's not Kc7 to defend b6
+[16:23:52] handknit: (25.c5) Best idea might be dxc5 then Kc6
+[16:24:07] handknit: (25.c5) Very awkward positioning but it holds
+[16:27:40] handknit: (26...Kc6) Rb5 to go after f5 is an idea now
+[16:29:58] handknit: (27...cxb6) first step for white is still the h3-Bf2-Bh4 idea
+[16:30:28] handknit: (27...cxb6) Black theoretically has c5 for the knight but can't get it there yet
+[16:30:43] handknit: (27...cxb6) Maybe it goes to d5 instead
+[16:34:01] timothyha: (27...cxb6) I have an almost forcing way to get a rook endgame but it's worse for me
+[16:35:18] handknit: (28.h3) If that is how white is thinking, that bodes well for black, because I'm pretty sure white is much better here
+[16:36:03] handknit: (28...Nf6) Maybe black's close to equal now white white's shattered pawns
+[16:36:50] semlegesnev: Very tricky, Rg3 Bf2 Ra3 Kg2 traps my rook
+[16:38:07] handknit: (28...Nf6) The R has no business going in that way now.
+[16:38:07] handknit: (28...Nf6) First priority is fixing that bishop on b7
+[16:40:09] handknit: (29...Kc5) Pretty sure this helps out black significantly
+[16:41:10] handknit: (29...Kc5) Some kind of Bd5-Be6-Nd5 feels like good coordination
+[16:41:26] handknit: (29...Kc5) good chance the B ends up on c4 or d7 to keep white's R out of b5
+[16:42:28] handknit: (30.Be2) Bc6 here to control b5 is also fine
+[16:43:14] timothyha: (30.Be2) this is barely holding and too concrete, but ok
+[16:43:44] handknit: (30.Be2) 30...Bc6 31.c4 maybe, to control d5
+[16:44:45] handknit: (30.Be2) Then black can think about Ne8-Nd6 and Bb7-Ba6, really go after c4
+[16:45:16] handknit: (30.Be2) I guess Bd7-Be6 is probably the more precise route
+[16:46:33] handknit: (30...Nd5) Here I was wondering about Rb5+-Bc4
+[16:47:34] semlegesnev: So I have this idea of Rb5+ Kc6 Bc4 Rxg1+ Kxg1 Nxe3 Be2 Ba3 Rb2 Bxe2 Rxe2 Nd5. In the first game a similar idea lost, I wonder how
+[16:47:49] semlegesnev: it would look here
+[16:48:35] handknit: (30...Nd5) I don't see any reason for black to be sacrificing an exchange here
+[16:48:50] timothyha: (30...Nd5) two pawns agains a bishop might be winning but I really want to pin the knight
+[16:48:50] handknit: (30...Nd5) With the spread pawn structure, black's prospects wouldn't seem great
+[16:49:36] timothyha: (30...Nd5) no, patience for a bit more
+[16:49:51] handknit: (31.Rc1) oh, Rc1 seems very passive
+[16:50:06] semlegesnev: Now I feel a bit sad I can't do that :(
+[16:50:22] robertjackson: Tim has very precise judgement in positions like this
+[16:50:52] handknit: (31.Rc1) Bc6 is probably still best for black
+[16:51:53] timothyha: (31.Rc1) Bf2 was positionally better anyway
+[16:51:53] timothyha: (31.Rc1) let's see...
+[16:52:08] handknit: (31.Rc1) Feel like black would love to get in some kind of b5 but it's hard to make it work here
+[16:52:39] semlegesnev: Rg3 Bf2 Ra3 Kg2 Re3 is an idea but he has not to take as my rook would be pinned
+[16:52:39] handknit: (31.Rc1) Rg3 deserves a closer look now
+[16:52:54] handknit: (31.Rc1) 31...Rg3 32.Bf2 Nxe3+ being the key point
+[16:53:40] handknit: (31...Kd6) Ah, c5 was probably the best square for the K. Maybe Rc8 idea now?
+[16:53:55] handknit: (32.Bf2) I can see disaster
+[16:54:10] handknit: (32.Bf2) 32...Rc8 33.c4 Ba6 34.c5+
+[16:54:10] semlegesnev: No rook sacrifice then
+[16:54:56] handknit: (32...Rc8) Meeting c4 with Nb4-Nd3+ seems more on point
+[16:56:28] timothyha: (33.c4) this is the best I had all this game
+[16:56:43] timothyha: (33.c4) pieces can finally move around
+[16:56:43] semlegesnev: Ba6 works as c5+ fails to Rxc4
+[16:56:59] handknit: (33...Ba6) ah, yes, bxe2+ intermezzo
+[16:57:14] addead: Good move
+[16:57:29] handknit: (33...Ba6) I can close the window on the "wilhelm scream compilation" youtube video
+[16:58:15] handknit: (33...Ba6) I guess white now has to play a4 to stop b5, and that allows a cleaner Nb4
+[16:59:00] addead: what if c5
+[16:59:00] king_hunter-1: maybe a3 and Ke1
+[16:59:31] stevenlongs: am I hallucinating...yeah why not c5
+[16:59:46] timothyha: (33...Ba6) c5 doesn't work due to Rxc5 Rxc5 Bxe2+ what a pityy
+[17:00:17] stevenlongs: ah yes ok ty
+[17:00:47] handknit: (33...Ba6) Time also becoming more significant here.
+[17:00:47] handknit: (33...Ba6) The longer black can sit and squeeze the better.
+[17:01:33] timothyha: (33...Ba6) oh, stupid me
+[17:02:19] handknit: (34.Ke1) Okay, I think b5 wins the pawn here
+[17:02:34] timothyha: (34.Ke1) I might hold without the rook
+[17:03:35] timothyha: (34.Ke1) DSB can play from behind if the rooks are gone
+[17:03:35] semlegesnev: Will I be able to defend d3? I think yes, after Bxc4 and b5.
+[17:03:50] semlegesnev: after Nb4 a3 Nd3+ Bxd3 ofc
+[17:04:05] handknit: (34.Ke1) Bxc4 loses to Rxc4, of course
+[17:04:05] handknit: (34.Ke1) ah, he's looking at Nb4, much better
+[17:04:36] handknit: (34.Ke1) Nb4 Kd2 might be the line to calculate
+[17:04:51] handknit: (34.Ke1) b5 seems simpler
+[17:05:22] handknit: (34.Ke1) 34...b5 35.cxb5 Rxc1+ 36.Kd2 Bxb5 is a nice finesse
+[17:05:53] handknit: (34.Ke1) might be unnecessary, though. 36...Ra1 might be easier
+[17:10:13] handknit: (34...Nb4) Spec 35: Rd1+ Ke6 36.Rd4 Nxa2 37.Rd5 Bxc4 38.Re5+ Kf6 39.Bh4+
+[17:10:28] handknit: (34...Nb4) no idea what's going on there but seems that white gets active
+[17:11:30] king_hunter-1: It looks like White is losing a pawn
+[17:12:00] handknit: (37.Kd2) Okay. I think this should be close to winning for black but there's still play
+[17:12:00] king_hunter-1: Defending such an endgame will not be easy
+[17:12:46] king_hunter-1: Perhaps the opposite-colored bishops offer some sort of plus, although the d3 pawn is too strong
+[17:13:48] semlegesnev: I'm thinking about rook takes but the opposite bishops are very likely a draw only
+[17:13:48] handknit: (37.Kd2) I think at this point black could probably win the pure OCB endgame because of Kd5-e4-c3
+[17:14:03] handknit: (37...Bxc4) *f3, not c3
+[17:14:18] king_hunter-1: If White can somehow place the bishop on c3, there might be some chances for a draw
+[17:14:33] king_hunter-1: Bh4-Bf6-Bc3
+[17:15:04] king_hunter-1: This is the best square for the bishop; it controls the c-file and hinders the movement of Black's pawns on the queenside
+[17:15:50] handknit: (38.e4) Pretty sure this loses quickly
+[17:15:50] king_hunter-1: and it is better to activate the rook via the g-file
+[17:16:05] handknit: (39.Bxb6) Kd5 here and then Kg8, yeah
+[17:16:50] handknit: (39...a4) I feel like I preferred the tempo to the pawn
+[17:17:21] handknit: (40.Ba5) Never punished
+[17:17:21] semlegesnev: I wonder if a Rook trade here would be winning in the end
+[17:17:36] handknit: (40.Ba5) Neat thing about Kd5 is the pawn on h6 stops Rg5+
+[17:18:37] timothyha: (40.Ba5) the DSB has to make it worth the time it was in prison...
+[17:18:37] handknit: (40.Ba5) No need for black to trade down into the OCB. If it's winning it's cool that's in you rback pocket
+[17:18:37] king_hunter-1: (40.Ba5) He moves his bishop to c3
+[17:18:52] handknit: (40.Ba5) Fun thing about Bc3 now is that it actually cuts off a square the white king wants after Rg8-R2+
+[17:19:23] semlegesnev: I still don't think its enough, everything is defended
+[17:20:54] semlegesnev: I will get either  the b or the g file, which I'm much buzzed about
+[17:21:10] king_hunter-1: (40...Kd5) 41.Rg1 It looks good
+[17:21:25] handknit: (40...Kd5) 41.Rg1 Rb8 42.Bb4 and black gets neither file
+[17:21:25] handknit: (40...Kd5) so after Rg1 black's gotta find something else
+[17:21:55] king_hunter-1: Against Rb8, Bb4 is possible
+[17:22:11] timothyha: (41.Rg1) d4 is light, f8 is dark...
+[17:22:11] semlegesnev: Rb1 Bb4 maybe? If I can't take the bishop, its all for nothing and the bunker is done. Can I take it tho?
+[17:22:11] handknit: (41.Rg1) Bb3-Bc2 is one idea
+[17:22:41] handknit: (41.Rg1) Rxb4 does probably work
+[17:23:12] handknit: (41.Rg1) 41...Rb8 42.Bb4 Rxb4 43.axb4 Kd4 is the first thing that jumps out
+[17:23:42] semlegesnev: You know what I wanted to sack two times already, lets go for it
+[17:23:57] handknit: (41...Rb8) cry havoc and let loose the farm animals of war
+[17:24:43] handknit: (43.axb4) I'm not sure about a3, fwiw
+[17:24:58] handknit: (43.axb4) the fact that white has two split passers matters
+[17:24:58] semlegesnev: I need to stop his King from e3 I'm pretty sure
+[17:24:58] handknit: (43.axb4) okay, he found the right idea
+[17:26:30] handknit: (44...e3+) okay, I think Bb3 and d2 seals it
+[17:27:00] handknit: (44...e3+) a3-a2-a1 should do it to, with white's king pressed back
+[17:27:31] timothyha: (44...e3+) that's a great conversion, and I can't do anything about this
+[17:27:31] semlegesnev: d2 and King comes to d3 seems winning
+[17:28:01] handknit: (45.Kc1) Kc3 is the easiest path here
+[17:28:01] king_hunter-1: White probably should have stopped the e3 pawn; now it looks like Black is winning.
+[17:28:16] handknit: (45...d2+) black was winning every line, it was just a Q of how hard it would be
+[17:30:19] handknit: yee haw
+[17:30:19] semlegesnev: gg
+[17:31:20] timothyha: 30... Nd5 Bf2 seems correct SF-wise, I was trying to ping the knight on c3 but wasn't too sure
+[17:31:35] timothyha: it was quite long a calculation
+[17:31:51] king_hunter-1: 37.e4! A nice move
+[17:31:51] timothyha: but SF supports the idea of Bf2 Nxc3 Rc1
+[17:32:52] timothyha: 37 -- e4 - yeah, Kd2 was a "premove" in the thoughts, but e4 earlier could be something
+[17:33:07] robertjackson: gg well played Black
+[17:33:07] king_hunter-1: gg
+[17:33:37] robertjackson: gg black did well
+[17:33:52] timothyha: so the whole game really held on very technical move orders
+[17:34:23] timothyha: thanks, @semlegesnev, see you around in the league
+[17:34:38] timothyha: bye all, need to go to bed, past midnight now
+[17:37:10] semlegesnev: thanks, gg, well played!
+[17:37:41] semlegesnev: exciting game
+[17:37:56] semlegesnev: I'm pretty sure this was my first win with the dutch on a more serious game
+[17:39:12] semlegesnev: I now wonder if my Rxb1 idea would have been any good in the earlier lines if 30. Rb5+ Kc6 Bc4 Rxb1
+[17:43:46] semlegesnev: ahh, 37. e4. I wouldn't have seen in that forever
+[17:55:12] timothyha: I play the Dutch from time to time and want to get ssomething less Dutchy, and a queenless endgame was good
+[17:55:28] timothyha: wanted
+[17:55:43] timothyha: but I didn't prepare against the Dutch today, it's still quite rare OTB
+[17:56:44] semlegesnev: Yeah, I played it recently, not a lot of success
+[17:56:59] timothyha: back to bed... :)
+[17:56:59] semlegesnev: Tbh I always went to the stonewall, so I f decided against it and it worked out luckily
+[17:57:14] semlegesnev: Good night! Very fun clash
+[17:57:29] timothyha: we can chat later about the Dutch, but I think Leningrad > Stonewall > Classical
+[17:57:45] semlegesnev: Sure, I'd be down!
