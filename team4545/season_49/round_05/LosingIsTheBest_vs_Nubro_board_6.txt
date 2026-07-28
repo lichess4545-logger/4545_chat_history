@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/3YbUAruZ
+White     : losingisthebest
+Black     : nubro
+Time      : 45+45
+Captured  : 2026-07-28 21:25:07 UTC
+Game ended : 2026-07-28 20:04:52 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[18:04:02] finerik: Go Nubro!
+[18:10:38] pineapplechiffoncake: Go  Nubro!
+[18:14:11] genturgidson: Go Loser!
+[19:02:33] genturgidson: Kind of sharp, kind of crazy. I had a similar position before and had a fatal mouse slip - queen fell a square short and I lost it.
+[19:02:33] genturgidson: In a 4545 game no less!
+[19:03:49] genturgidson: I can't see any immediate tactics, looks like a bit of a fizzle out position. Perhaps Nxc5 Qxc5 Rac1 or something.
+[19:05:21] genturgidson: White just needs to watch out, black will be eyeing a knight move to prepare Bb5 perhaps.
+[19:05:51] genturgidson: Wait hold in... did white have 14.Bc3!!?
+[19:06:37] genturgidson: Forcing the queen to either retreat to c7 or c8 or a6 to trade... in either line winning the bishop??
+[19:07:08] genturgidson: Ah, I guess Bb4.
+[19:07:08] martindanielsson: I think Nd4 saves things.
+[19:08:08] genturgidson: Nah Nd4 Nxd4 and you have the same issue, queen still under attack.
+[19:08:39] martindanielsson: Ah, you're right
+[19:08:54] genturgidson: If Nb4 to block the bishop then a3 kicking the knight - bad. I think Bb4 would be forced and hold it together.
+[19:09:25] genturgidson: *Maybe* white twists some positional improvement out of it. 14.Bc3 Bb4 Bxb4 Qxb4 a3
+[19:11:42] genturgidson: I'm liking a Nxc5 Qxc5 Rac1 type of threat for white. Positional improvement and addresses the bishop pair issue.
+[19:16:47] genturgidson: (14...Nb4) a3 would be a powerful response, kicking the knight followed by b4 forking the queen and bishop. Sadly it hangs the knight.
+[19:17:18] genturgidson: Maybe it's still playable. That knight basically just has to retreat.
+[19:17:48] genturgidson: Wait... 15.a4 followed THEN by Bc3!!!?
+[19:18:03] genturgidson: *15.a3
+[19:18:18] genturgidson: Then the bishop can't go b4 anymore because axb4.
+[19:18:49] genturgidson: Black has actually allowed my tactic to kind of work.
+[19:20:06] genturgidson: Difference now is that after a3 the knight can retreat to a6 which I think gets the queen out with Qb5.
+[19:20:21] genturgidson: But if the knight retreats back where it came, to c6, it might be GG.
+[19:21:22] genturgidson: 15.a3 Nc6 Bc3
+[19:21:53] genturgidson: 15.a3 Na6 Bc3 Qb5
+[19:21:53] genturgidson: Ok Loser decides to kill the bishop pair. Sensible.
+[19:29:31] genturgidson: 17.Rc1 hope chess?
+[19:29:46] genturgidson: *Rac1 of course.
+[19:33:20] genturgidson: (18.b4) I don't think he should have let that bishop go though, as bad as it was.
+[19:34:06] genturgidson: Black has that passed extra d pawn that is *never* going to go away. Black is going to castle and command the c file.
+[19:34:21] genturgidson: Then I can't see all that much play for white.
+[19:49:20] genturgidson: Wow, I tabbed out for a while. Very surprised black traded the bishop, white seems to have the initiative now, if anything.
+[19:52:23] genturgidson: Go Loser!
+[20:05:07] pineapplechiffoncake: Gg
+[20:05:07] finerik: gg
+[20:05:23] nubro: Phew, time trouble
+[20:09:26] genturgidson: GG, agh
