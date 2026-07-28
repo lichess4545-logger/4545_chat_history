@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/iZGlQFr3
+White     : gpetris
+Black     : welpe
+Time      : 45+45
+Captured  : 2026-07-28 17:41:54 UTC
+Game ended : 2026-07-28 16:21:51 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[15:26:05] leverkuhn: some Jobava London action here
+[15:27:21] leverkuhn: I think I would have liked to see Black play 9...Qb6 and ...Nc6 rather than 9...Nbd7 to talk to White's pawns
+[15:28:53] leverkuhn: after 11...Bb4! I nevertheless prefer his position, as it seems White mistimed the kingside pawn thrusts.
+[15:33:13] leverkuhn: 12.Bd2 probably the relatively best option for White; he couldn't allow doubled pawns on the open file
+[15:34:00] leverkuhn: 12...Bxc3 13.Bxc3 Ne4 14.Bb4 Nxe5 15.dxe5 Qb6 16.Ba3 a possible line
+[15:34:31] leverkuhn: White prevents kingside castling there, but Black might be quite happy with 16...0-0-0!
+[15:35:47] leverkuhn: Black might want to work ...h5 into the line somewhere to make sure the knight has a light-square outpost on the kingside
+[15:36:32] leverkuhn: If the game ends up as knight vs. White's dsb, White's ideal kingside pawn structure is f3-g4-h5
+[15:36:48] leverkuhn: Black shouldn't allow that
+[15:43:25] leverkuhn: 13...h5!? 14.g5 Ne4 and White might try to make it weird with 15.g6
+[15:44:26] leverkuhn: so I think I would choose 13...Ne4 here
+[15:56:39] welpe: I find it difficult to decide between Rc8 and Qc7, both look attractive to me
+[16:00:12] leverkuhn: 15...Rc8 seems winning; the bishop is pinned to c2 and Black will double White's pawns on the open c-file
+[16:01:13] leverkuhn: 14.Qf3?! was quite unfortunate; White undefended c2 and blocked his own f2-f3 move, which needed to happen at some point
+[16:18:17] leverkuhn: It unraveled almost immediately for White: he can't contest the coming discovery
+[16:21:20] leverkuhn: gg
+[16:24:07] leverkuhn: it looked like a model game against the Jobava
+[16:26:24] welpe: thanks again for your thoughts, Leverkuhn, so interesting to have those after the game!
+[16:26:40] leverkuhn: anytime!
+[16:27:40] leverkuhn: White wanted to play for an advantage with the ambitious kingside pawns thrusts, but you had already completely equalized
+[16:28:26] leverkuhn: I feel like 6.f3 was needed if White was ambitious
+[16:28:57] leverkuhn: after the bishop trade on e2 I already feel like only Black can be better
+[16:28:57] welpe: Hm. 10 ... h6 I played almost automatacilly, because I had seen it quite often as a reaction to g4
+[16:29:12] welpe: but the engine really doesn't like it in this position
+[16:29:27] leverkuhn: your idea of ...Bb4 was already good; knight can go forward to e4 in case of g5
+[16:29:58] leverkuhn: so ...h6 was sort of a waste of time probably
+[16:30:13] welpe: yes
+[16:30:59] welpe: 9. ...Nbd7 I felt very confident about when I played it, but later I wasn't happy about the knight on d7 at all and thought about Nxe5
+[16:31:14] welpe: in almost every position
+[16:32:15] welpe: I was a bit worried about the other knight getting trapped a few moments and it felt like this knight also block an important
+[16:32:15] welpe: retreating square
+[16:33:31] welpe: felt a bit scary to have those pawns running down the king side, but then it's crazy how quickly White fell apart
+[16:34:47] leverkuhn: you hadn't castled yet so there was no king to target, and also too many trades
+[16:35:17] leverkuhn: White just didn't have any bite with that attackr
+[16:35:33] welpe: yeah, I tend to avoid trades usually, but in this situation it looked very good for me to trade
+[16:37:35] leverkuhn: yep, well played!
+[16:37:51] welpe: thanks
