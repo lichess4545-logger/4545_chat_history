@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/eNS3mOaz
+White     : mobusel
+Black     : shadowofself
+Time      : 45+45
+Captured  : 2026-07-29 20:27:25 UTC
+Game ended : 2026-07-29 19:07:17 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[17:02:23] versaumnisgrund: Go Shadowofself!
+[17:03:39] versaumnisgrund: I'm a bit worried. I heard the dragon doesn't work against alapin. We will see..
+[17:06:11] pineapplechiffoncake: Go Shadow!
+[17:06:26] shadowofself: trying to decide between 7...Nh6 and f6 here
+[17:26:03] kayrosas: g5 could be an interesting threat rn
+[17:26:49] inter-temporal: (11.Kf1) go chess!
+[17:27:50] kayrosas: maybe just move the queen back to prepare f6
+[17:29:06] inter-temporal: (11...b6) complicated
+[17:30:38] kayrosas: 12.Nf3 seems like a move you want either way
+[17:31:39] kayrosas: white king should be somewhat safe on h2 eventually. but h3+g4 isnt great structure
+[17:33:56] inter-temporal: (13...Qe7) strange how this all happened
+[17:36:43] kayrosas: Be3 should always be a useful move
+[17:37:29] shadowofself: weird position I probably need to play f6 at some point but for now it loses a piece after g5
+[17:37:44] versaumnisgrund: I was thinking Be3 before f4 a few moves ago. Could have blocked the check with the bishop
+[17:38:15] inter-temporal: (14.f5) looks like move 10.Nf3 was the usual way
+[17:38:30] shadowofself: hm really did not expect that white would be the one breaking the tension
+[17:39:16] inter-temporal: (14.f5) or earlier, i think 7.Bb5 first and if ...Nh6 then 8.h3 is another way
+[17:39:31] kayrosas: this feels a bit too early but i dont see a simple refutation
+[17:40:01] inter-temporal: (15.g5) 8.g4 is interesting, but 10.f4 is really surprising to me
+[17:40:32] kayrosas: well, now its winning for sure
+[17:40:47] kayrosas: nice idea by white
+[17:40:47] inter-temporal: (15.g5) n is trapped
+[17:41:49] inter-temporal: (15.g5) 7.h3 was part of restricting the Nh6, but usually comes AFTER Nh6. lol
+[17:42:19] inter-temporal: (15.g5) white is a good guesser. or there's a history of Nh6 by black
+[17:43:05] kayrosas: 14...Nxf5 couldve been interesting maybe. not sure how to evaluate this, white king could be weak long term
+[17:43:51] kayrosas: h3 was to prevent Bg4 as reaction to Nf3 I assume
+[17:44:21] kayrosas: 17.Ne2 i think
+[17:44:36] inter-temporal: (16...Bxh6) yeh that too. i have some GM annotations on the sequence with 7...Nh67 8.h3:
+[17:45:22] inter-temporal: (16...Bxh6) "kills the knight on h6 and the bishop on c8. Not only does it ...
+[17:45:22] inter-temporal: (16...Bxh6) "...control the g4-square, but in the future, White is also ready to pounce with g4 if one of the minor pieces lands on f5"
+[17:46:08] kayrosas: i do wonder if/when black had good f6s in this game. just visually I felt like white overextended
+[17:47:24] inter-temporal: (16...Bxh6) indeed. it appears he should play f6 against that e5 pawn
+[17:47:24] inter-temporal: (16...Bxh6) sooner rather than later
+[17:47:54] inter-temporal: (16...Bxh6) confession: i'm just reviewing GM notes. not mine. lol
+[17:48:10] kayrosas: interesting regardless, thanks for sharing
+[17:48:25] inter-temporal: (16...Bxh6) :) you too!
+[17:49:41] kayrosas: probably nothing wrong with a3 but i feel like Ne2 accomplishes the same in better
+[17:50:57] kayrosas: hm, maybe 17.Ne2 f6 wouldnt have been that ideal actually
+[17:51:28] kayrosas: 17.Kh2 is my preference then considering that
+[17:52:29] kayrosas: 18.Kh2 also i think
+[17:55:01] kayrosas: important for some tactical motifs also: 18.Kh2 fxe5 dxe5 d4 Nxe5 Rad8 Nxc6 and white wins bc Rxd1 isnt check
+[17:55:17] kayrosas: *d4 Nxd4
+[17:57:34] inter-temporal: (18.Kh2) ahh. kids distracting me. lol
+[17:58:50] inter-temporal: (18.Kh2) this is an amazing position
+[18:19:58] inter-temporal: (20.dxe5) and black has 2 passers
+[18:25:49] paulwithans: Am I going crazy or is b5 completely available here
+[18:26:35] paulwithans: (21 b5)
+[18:30:39] inter-temporal: (20...Qg7) might be good to cut the Ba6 from this diagonal?
+[18:32:10] inter-temporal: (20...Qg7) there's a counter after b5 d4!? (or ...d4??, idk. kinda complicated)
+[18:32:26] paulwithans: here we go
+[18:32:41] inter-temporal: (21...d4) but that would never happen. lol
+[18:32:57] paulwithans: seems unlikely
+[18:33:12] inter-temporal: (21...d4) i think it's a pawn sac, but brings Rad8 in with tempo. maybe
+[18:33:42] inter-temporal: (21...d4) too much work to calculate. :)
+[18:36:30] shadowofself: aww he didn't go for the weird line with Nxd4 Qg3+ Qxc3 idk who comes out ahead in that one
+[18:47:41] inter-temporal: (25...Rad8) and Rad8 enters with tempo. could be menacing
+[18:50:14] shadowofself: I was kinda expecting c7 to prevent Rad8, now idk how white can protect f3
+[18:58:22] nyanners: lots to defend against here :o
+[18:58:22] nyanners: oooohh scary
+[19:00:55] inter-temporal: (28.Rg1) it's been back and forth. white sprung an interesting trap in the opening
+[19:03:43] nyanners: but at what cost.......
+[19:04:14] nyanners: seems white didnt respect Qg3 enough :o
+[19:04:29] inter-temporal: (28...Rd3) yeh, i think it went wrong after the trap worked. but idk
+[19:06:01] nyanners: kinda feels it might be game here
+[19:07:32] iwishiweredecent: goood game
+[19:07:47] paulwithans: gg
+[19:08:18] versaumnisgrund: gg
+[19:08:18] shadowofself: Man I totally missed the f5 g5 idea pretty lucky it was still playable after that
+[19:08:18] pineapplechiffoncake: Gg!
+[19:09:49] inter-temporal: gg
+[19:10:35] nyanners: gg
+[19:14:54] shadowofself: gg Mobusel this was a wild one
