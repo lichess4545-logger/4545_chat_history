@@ -1,0 +1,68 @@
+Lichess game chat log
+Game      : https://lichess.org/XsW7SGug
+White     : joonaf
+Black     : checkmatedtb
+Time      : 30+30
+Captured  : 2026-07-29 21:35:21 UTC
+Game ended : 2026-07-29 20:15:17 UTC
+Messages  : 58
+────────────────────────────────────────────────────────────
+
+[19:26:07] joonaf: 16.Bh6, Re8, d5, cxd, cxd, Nxd, Bxd, exd, Nxd
+[19:26:23] joonaf: that would be a double attack on Q and B
+[19:26:23] joonaf: then ..Qc5
+[19:26:54] joonaf: not sure if there's anything
+[19:27:09] joonaf: I thought if ..Qc5, Qxc5, Bxc5, then Nf6+
+[19:27:24] joonaf: but Black can do ..Nxc5 instead
+[19:27:54] joonaf: it feels promising
+[19:28:40] joonaf: but what if after d5 Black starts with ..Nxe4
+[19:28:56] joonaf: I lose two defenders of d5 after Nxe4
+[19:29:12] joonaf: I could do Qxe4, but that's scary now that the rook is on e8
+[19:31:44] joonaf: (17..Qc7) now my Q is undefended and x-rayed
+[19:33:00] joonaf: why is everyone so much faster than me
+[19:34:16] joonaf: now I wish my d-rook was on c and f-rook on d
+[19:35:32] simonwashere: Go Joonaf!
+[19:36:50] joonaf: (19.a4) I forgot to check that d4 was still defended
+[19:37:20] joonaf: and got scared for a moment when I  noticed the knight moved to reveal the rook
+[19:37:51] joonaf: g3 and then Bf4 could win the knight possiblly
+[19:38:06] joonaf: no it wouldn't
+[19:38:06] joonaf: well, maybe
+[19:38:21] joonaf: g3+Bf4, Bd6, Bxd, Rxd, c5
+[19:42:56] joonaf: (21..Nc5) oh, this surprised me totally
+[19:44:14] joonaf: (22.Qc2) the queen is again undefended, but black knight is blocking their own Q this time
+[19:44:29] joonaf: and the d-pawn seems to still be defended
+[19:44:29] joonaf: if I can calculate
+[19:49:34] joonaf: if ..Qd7, then d6
+[19:55:40] joonaf: xD
+[19:56:26] joonaf: wow
+[19:56:26] joonaf: I really suck at chess
+[19:56:26] joonaf: I'm slow and bad
+[19:56:42] joonaf: just horrible
+[19:56:57] simonwashere: you spend too much time on some moves then it is impossible to see stuff with so little left in a complex position
+[19:58:59] simonwashere: to be fair I can blunder pieces with an hour on the clock of course
+[20:02:17] joonaf: ffs
+[20:04:20] joonaf: I've got nothing
+[20:04:35] joonaf: I could resign
+[20:04:35] joonaf: didn't even manage to complicate things
+[20:15:17] simonwashere: gg
+[20:15:17] mrscribbles: gg
+[20:15:32] joonaf: I got totally outplayed
+[20:15:32] joonaf: gg
+[20:15:32] joonaf: well played
+[20:16:03] joonaf: one blunder is all it takes
+[20:17:34] joonaf: I thought 12.Qb3, Qxd4, Qxb7, Rd8, Bc7 looked good for me
+[20:17:49] joonaf: one good move for Black there that I didn't see
+[20:18:20] checkmatedtb: I didn't like the opening, but i played well.
+[20:19:21] joonaf: You played well and quickly, while I was too slow
+[20:19:36] checkmatedtb: I see that I could have taken with my queen on d4 move 12 computer line ouf..; move ,
+[20:21:23] checkmatedtb: yes it came down to one blunder, i wasn't not ouplaying you except for 1 move.
+[20:22:09] checkmatedtb: before that move I felt I was losing, but the time game me hope...
+[20:22:56] joonaf: Well, the fact that you could play fast caused me to go too low on time, and that caused the blunder
+[20:23:41] checkmatedtb: Yes, I tend to play to fast, I played blitz at morning thats why :)
+[20:24:27] joonaf: heh, just be careful of not playing too fast
+[20:24:42] joonaf: that causes blunders too. But in this game you were accurate
+[20:25:28] checkmatedtb: Yes, no blitz before a classical game next round.
+[20:25:58] checkmatedtb: Good luck for the rest of your tournament.
+[20:26:44] joonaf: Thanks! You too
+[20:27:15] checkmatedtb: :)
+[20:27:15] joonaf: Maybe I should play blitz before the next game
