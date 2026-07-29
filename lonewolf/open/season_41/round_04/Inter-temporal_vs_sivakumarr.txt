@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/kUyKriN2
+White     : inter-temporal
+Black     : sivakumarr
+Time      : 30+30
+Captured  : 2026-07-29 02:03:55 UTC
+Game ended : 2026-07-29 00:43:42 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[23:03:05] inter-temporal: (3.Nd2) probably wasn't expecting 2.d3. so i'm guessing i'll get surprised back soon
+[23:03:20] inter-temporal: (3.Nd2) planning from here to fianchetto my lsb
+[23:04:36] inter-temporal: (5...Nf6) at some point i likely go Nh4-f5 to harrass the dsb on d6
+[23:06:53] inter-temporal: (8.Nb3) oh, dang. already got mymove order wrong
+[23:10:12] inter-temporal: (8.Nb3) dxe4, dxe4 Nxe4, Nxe5 Rxe5, Bf4 Re6, Bh3 or Nc5 maybe
+[23:25:43] inter-temporal: (11.Nh4) maybe Bh3 first was better
+[00:16:06] inter-temporal: (30.h4) idk
+[00:16:06] inter-temporal: (30.h4) probably loses
+[00:21:42] inter-temporal: (32...exd4) gotta sac the exchange, yeh?
+[00:27:03] inter-temporal: (34.Rxd4) reckless... but what else
+[00:44:58] inter-temporal: i toggled off the engine
+[00:45:28] inter-temporal: just guessing i had something better than 34.Rxd4
+[00:45:43] sivakumarr: I think it was already bad far earlier
+[00:45:59] sivakumarr: Maybe there was a Bxh6 tactic, but otherwise I just needed to massage it
+[00:47:00] inter-temporal: i can't find where i had better ideas
+[00:48:01] sivakumarr: Nb3 felt like you lost the plot
+[00:48:16] sivakumarr: Your initiative is kingside, mine is queenside
+[00:48:16] inter-temporal: 8.Nb3?
+[00:48:16] sivakumarr: Yeah
+[00:48:31] inter-temporal: yeh. i wasn't plugged in yet there.
+[00:49:17] inter-temporal: considered 18.Be3
+[00:49:47] inter-temporal: but it seemed to make it easier to play ...c5 and open the lsb
+[00:50:48] inter-temporal: then wasn't sure if there was a meaningful difference between 20.Bc3 and Bc1
+[00:51:19] sivakumarr: Yeah, Be3 looked to close down your options
+[00:52:04] sivakumarr: I would massage the d-file and play c5 when ready
+[00:52:35] sivakumarr: Actually, then you'd be able to play c5, which would be annoying
+[00:52:50] inter-temporal: i thought you'd be able to play it before i could
+[00:53:05] sivakumarr: I wanted to hold off on c5 to prevent knight reroutes to d5, but maybe I have to suffer it
+[00:53:20] inter-temporal: maybe 25.b3 was unnecessary
+[00:53:36] sivakumarr: b3 was sound
+[00:53:36] sivakumarr: locked everything up
+[00:54:52] inter-temporal: seemed like i had a little initiative on the K-side after 27.Bf3, but didn't amount to anything
+[00:56:38] sivakumarr: eh, I don't know about that
+[00:57:09] sivakumarr: I can easily clog your initiative while getting Nd4 in
+[00:57:54] inter-temporal: maybe 31.Ne3?
+[00:58:40] inter-temporal: i considered aiming it at f5, but perhaps there's also Nc2 to contest d4
+[00:58:55] inter-temporal: ah. i remember why i rejected that
+[00:59:25] inter-temporal: now i see i was hallucinating whether ...gxh4 was ever bad for me
+[01:00:57] inter-temporal: 40...Qd1 was the cold shower
+[01:03:29] inter-temporal: well, any other wisdom you'd care to share with the u slower level players?
+[01:03:44] inter-temporal: typs
+[01:03:44] inter-temporal: typos!
+[01:03:59] inter-temporal: "share with [us/me] lower level..."
+[01:08:19] inter-temporal: i'll review it and then check the engine later.
+[01:08:34] inter-temporal: thanks for the game.
