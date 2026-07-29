@@ -1,0 +1,39 @@
+Lichess game chat log
+Game      : https://lichess.org/OJCTG3Dd
+White     : hpors
+Black     : franconianchess
+Time      : 45+45
+Captured  : 2026-07-29 19:50:41 UTC
+Game ended : 2026-07-29 18:30:39 UTC
+Messages  : 29
+────────────────────────────────────────────────────────────
+
+[17:05:43] pineapplechiffoncake: Go Heinz!
+[17:09:01] handknit: (9...Nc6) it's a KID kind of week
+[17:28:19] handknit: (19...Nf5) Feels like the pawn structure should mean a slight edge to white
+[17:28:19] handknit: (19...Nf5) c7 is a target
+[17:34:25] handknit: (21.Qxe3) Black should be happy to take on f4, opening both the b on g7 and the e-file for the rook
+[17:34:40] handknit: (21...exf4) definite edge to black now
+[17:35:56] handknit: (21...exf4) Some kind of Nh5-Be5 looks good though Ne2 defends for now
+[17:42:17] handknit: (23...Be5) on Ne2, Nxg3 might be working
+[17:42:32] handknit: (23...Be5) ah, no. White has d4 to dislodge the bishop
+[17:42:48] handknit: (23...Be5) 24.Ne2 Nxg3 25.Nxg4 h5 26.d4
+[17:46:07] handknit: (24.Rf3) It would be nice if the N was on f5 instead of h5 but there currently isn't a way to rotate it through g7
+[17:46:37] handknit: (24.Rf3) Maybe just f5 to secure space here then get to work on improving the rooks
+[17:55:00] handknit: (26.Rbf1) Feels like for the most part black's in decent shape but I see two significant issues
+[17:55:15] handknit: (26.Rbf1) The first is that the pawn on b5 is quite a target, and black's in trouble if it falls
+[17:55:31] handknit: (26.Rbf1) The second is that e6 is potentially a big honkin' square for white to use
+[17:56:01] handknit: (26...Nf6) Maybe black wants something like Nf6-Rfe8-Ne4 to trade off a set of minor pieces and make white's centre weaker
+[17:58:19] handknit: (27.Qd3) Rfe8 g4 seems like a problem for black
+[17:59:19] handknit: (27.Qd3) Wonder if Ra8 going for counterplay is the right idea
+[18:12:49] handknit: (30.Rxf6) Qg7, I guess. This is gonna be a tough hold for black
+[18:16:24] handknit: (30...Rg8) oh, right, Qg7 just got smoked by Rxg6
+[18:16:55] handknit: (30...Rg8) I guess Be4 here is still a big problem
+[18:28:06] handknit: (31...Qe8) White's king shittiness is obviously a big variable here
+[18:28:37] timothyha: 31 Be4 was simpler but maybe now it still works
+[18:28:37] handknit: (31...Qe8) Would be nice for black to activate the back rook. Something like Ra8
+[18:28:52] handknit: (31...Qe8) Be4 is also just, like, a good place for the bishop
+[18:28:52] handknit: (31...Qe8) bring it back to d3, point at both g6 and b5
+[18:29:22] handknit: (32.Rf7+) Ah, trading the rooks here would be big for black
+[18:29:38] handknit: (32...Kh8) ah, well
+[18:29:38] handknit: (32...Kh8) now Qf6 1-0
