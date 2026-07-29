@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/KHi8LGAq
+White     : aldric123
+Black     : thecrackedtherom
+Time      : 45+45
+Captured  : 2026-07-29 01:01:04 UTC
+Game ended : 2026-07-28 23:40:54 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[22:01:40] jlanceho: let’s goooooo therom who is cracked
+[22:44:40] aldric123: (22.h3) I have won king of the hill! Now if only we were playing that.
+[23:10:37] aldric123: (32.g3) Hello new people. Haven't seen Nyanners this season yet
+[23:10:52] aldric123: (32.g3) I'm grovelling for my draw. So far I haven't seen a way to break my ridiculous position. We'll see if I just haven't seen far ...
+[23:10:52] aldric123: ...enough
+[23:11:07] monocarp: (32.g3) Is there any good reason that black shouldn't just walk the king to d6? It seems like white can't do much
+[23:11:07] aldric123: (32.g3) Hey monocarp
+[23:11:53] monocarp: Hey Aldric, I hope you can pull something off here
+[23:14:25] monocarp: (32.g3) Actually, to acheive that king walk black needs to play Re7 first to avoid the king coming through cutting off the pressure on the N
+[23:14:41] monocarp: but I still think it looks very strong
+[23:18:14] nyanners: :o
+[23:18:14] nyanners: i like how you think
+[23:18:30] nyanners: white would have time to do something with the rook, maybe. or maybe not
+[23:19:31] aldric123: (34.h4) I think that as long as I keep the king from attacking the knight I can draw. We'll see!
+[23:19:31] nyanners: like Kf8 enabling Rf1 for a moment, and then white could defend from f5
+[23:20:47] nyanners: nah wouldnt work
+[23:20:47] nyanners: idk
+[23:22:34] nyanners: wait how about Rxe5
+[23:23:19] nyanners: maybe black could do that without all this preparation. but stabilizing the structure sure helps
+[23:23:35] aldric123: (36.a4) I started to worry about Rxe5 Rxe5 and him leaving the pin there while king approaches
+[23:24:06] aldric123: (36.a4) Now if that happens, I can play b5 after Rxe5 Rxe5 to force my to be able to get to d5
+[23:24:52] aldric123: (37.R1e2) oh wait
+[23:25:08] aldric123: (37.R1e2) Maybe I had to play b5 immediately and I lose now, we'll see
+[23:25:38] aldric123: (37.R1e2) Err no wait, I was thinking as if the bishop was both still pinning and the king was able to get to f6 to attack
+[23:25:38] aldric123: (37.R1e2) Visualization error!
+[23:26:54] karasso: R8e7 Ke8-d8-c7-d6 looks bad for white
+[23:27:40] karasso: b5 never works because you can take everything on e5 and capture twice on b5, i guess
+[23:28:41] grzybozbur: there was 38.rf2 and h5 would drop, no?
+[23:28:41] monocarp: I hate to say it but last move was the moment to play
+[23:28:56] monocarp: Rf2
+[23:29:11] monocarp: sorry for the bad typing
+[23:29:27] aldric123: (38.Re1) Now getting worried about R8e7 and king slowly going to e8 d8 c7 d6
+[23:30:12] monocarp: because I see if Rf1 now, if black continues their plan and there is some Rxf6, in the other version there may have been a knight fork
+[23:30:12] monocarp: at the end
+[23:32:45] karasso: 38. Rf2 Ke7 with Kd6 next
+[23:33:00] aldric123: (39...Kf7) Hmm annoying. In most lines I can see he ends up with a b5 pawn and trades all the pieces
+[23:34:32] karasso: Re6 Ke7 Kd6 should do it
+[23:39:38] aldric123: (43.Kd5) and now I lose. Sigh
+[23:39:53] aldric123: (43.Kd5) I saw this coming, but not quite far enough to avoid it, if it was avoidable at all
+[23:41:40] thecrackedtherom: Man apparently none of my whispers worked
+[23:42:10] thecrackedtherom: I was afraid for a second at the end
+[23:42:25] thecrackedtherom: I thought I may have missed a5
+[23:42:41] thecrackedtherom: and allowed a passer, but it seems that even that endgame is obejectively winning
+[23:44:27] thecrackedtherom: it seemed like nxe5 was as i thought losing for white as that the king itself can never actually leave the side of the knight
+[23:45:28] thecrackedtherom: i saw this really cool checkmate that i would've had after (27...rde6) and kd5 if on
+[23:46:14] thecrackedtherom: I saw this really cool sequence on move 27 after i had plaed rde6 that if kd5 and after rd8!! and takes on e6 i have this mate in 3
+[23:47:00] thecrackedtherom: whoops thought the first message didnt go through
+[23:47:45] thecrackedtherom: now that im going through the game it seemed like this idea of rxe5 was always there
+[23:48:16] thecrackedtherom: and somehow i've missed it for a considerable amount of moves
+[23:50:17] thecrackedtherom: anyways enough of me chattering, thank you for the game aldric123, and sorry about the scheduling problems we had. Have a great day!
+[23:55:40] nyanners: gg
