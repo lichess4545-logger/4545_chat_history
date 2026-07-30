@@ -1,0 +1,228 @@
+Lichess game chat log
+Game      : https://lichess.org/7aHbUARz
+White     : addead
+Black     : scarff
+Time      : 45+45
+Captured  : 2026-07-30 19:11:51 UTC
+Game ended : 2026-07-30 17:51:45 UTC
+Messages  : 218
+────────────────────────────────────────────────────────────
+
+[16:30:44] scarff: very hot and humid here today, so feel a bit slow. But will do my best to not show that on the board!
+[16:31:30] scarff: All my prep is basically just modern, get a interesting game with little theory
+[16:31:46] scarff: but specifically this I did happen to look at a little :)
+[16:32:31] scarff: my plan was either 2.e4 and play KID type of chess
+[16:33:02] scarff: Or this 2.Bg5 combined with h4 which they like to play. And then I go h6, c5, Qb6
+[16:33:47] handknit: (5...Qb6) I wonder if addead saw the discussion about Qc8 after aguayo's game
+[16:34:33] handknit: (5...Qb6) I guess that doesn't really fly here
+[16:34:48] jfiras: (6.Nf3) Good luck Scarff and good luck Messi Mates ! Great season so far.
+[16:34:48] handknit: (6.Nf3) Looks like we have an early uh oh
+[16:36:20] scarff: no idea if I could just take on b2. But let's just develop, not go into the think tank yet!
+[16:37:37] jfiras: (6...Nc6) Wow out of Lichess Masters db by move 3
+[16:38:53] handknit: (7.Nc3) this game got goofy quickly
+[16:39:09] handknit: (7.Nc3) Now black's gotta think about Nb5 after Qxb2
+[16:39:39] handknit: (7.Nc3) I feel like cxd4 is probably still just fine but there's a whole lot going on
+[16:39:54] timothyha: (7.Nc3) Lichess DB (not Masters) had a game with 6..cxd4 and Qxb2 is possible over there
+[16:42:57] handknit: (8.exd4) Is there any meaningful sting after Nxd4?
+[16:43:12] timothyha: (8.exd4) if we take on d4 and swap everything Nb5 Bb6 covers c7
+[16:43:28] handknit: (8.exd4) I think if white also plays Nxd4 white's losing after Bxd4
+[16:43:58] timothyha: (8.exd4) yeah, that too
+[16:44:14] handknit: (8.exd4) The question is how weird the position is after something like 8...Nxd4 9.Nb5 Qa5+ 10.c3
+[16:44:29] timothyha: (8.exd4) Nxd4 Nb5 Nxb5
+[16:44:45] handknit: (8...Nxd4) That should be Nd5, not Nb5
+[16:44:45] handknit: (8...Nxd4) I don't know what squares are, or letters
+[16:45:00] timothyha: (8...Nxd4) I heard you can get CM without knowing those
+[16:45:15] handknit: (8...Nxd4) They basically give them away
+[16:45:15] scarff: Probably will lead to complications for me. But it is a centre pawn!
+[16:45:30] semlegesnev: They could give away one for me too
+[16:46:17] timothyha: (9.Nxd4) in Oceania we aim for 50% in zonal and then 2000 is enough for CM
+[16:46:17] handknit: (9.Nxd4) Is there anything after 10.Na4 Bxf2+ 11.Ke2?
+[16:46:32] handknit: (9.Nxd4) 50% in the zonal, 50% in the ECCC
+[16:46:47] handknit: (9.Nxd4) lotta ways you can gettem
+[16:46:47] timothyha: (9.Nxd4) yeah, anything continental
+[16:47:02] timothyha: (9.Nxd4) it's nice to have premium Lichess
+[16:47:17] timothyha: (9.Nxd4) premium CC is boring
+[16:48:03] semlegesnev: What is zonal or ECCC? I can only think of the European Cybersecurity Competence Center and I have hunch thats not it
+[16:48:34] timothyha: (9.Nxd4) https://handbook.fide.com/chapter/ZonalDivisions052023
+[16:48:49] timothyha: (9.Nxd4) zone = group of countries
+[16:49:35] handknit: (9.Nxd4) ECCC is the European Club Chess Championship
+[16:49:50] handknit: (9.Nxd4) it's a team competition, and if your team is garbage it's not hard to get a good score on a lower board
+[16:50:20] handknit: (9.Nxd4) A very large percentage of Irish FMs got their title by getting 5/7 against 1800ish competition
+[16:50:51] semlegesnev: Hmm maybe I should find a garbage team then
+[16:51:06] handknit: (9...Bxd4) The trick is being in a country where bad teams can qualify
+[16:51:06] semlegesnev: But my monogram is already GM, so maybe I'm fine lmao
+[16:51:21] handknit: (9...Bxd4) If you are in, eg, Germany then unfortunately all the teams you're sending to the ECCC are Actually Good
+[16:51:36] semlegesnev: Yea, thats not happening in Hungary lool
+[16:51:52] timothyha: (9...Bxd4) in Oceania the Zonal is usually around 300 players, 9 rounds Swiss
+[16:51:52] timothyha: (9...Bxd4) with good chances of making 50%
+[16:52:07] timothyha: (10.Qd2) 2000 FIDE is the harder part
+[16:52:53] handknit: (10.Qd2) yeah Hungary sent 2 teams last time and even the not good one was rolling 2300s on the bottom boards
+[16:53:08] handknit: (10.Qd2) anyway, Qxb2 is probably ballgame
+[16:53:23] handknit: (10.Qd2) I guess white can play Qxd4 and play on for dreams
+[16:54:09] timothyha: (10.Qd2) strange turn of events
+[16:54:25] timothyha: (10.Qd2) nobody castled yet and already so critical
+[16:55:26] handknit: (10.Qd2) something something king in the centre
+[17:00:01] semlegesnev: Qxb2 Qxd4 Qxa1+ Kd2 Nf6 g3?
+[17:01:48] handknit: (10.Qd2) maybe even g4
+[17:02:35] handknit: (10.Qd2) White's almost certainly objectively lost but there's a whole lot of mud in the air
+[17:03:36] semlegesnev: I actually think this is very playable for white
+[17:04:07] semlegesnev: *but keep in mind, my optimal game doesn't include castling
+[17:04:53] handknit: (10.Qd2) I mean the material balance is gonna be RPP for a B
+[17:06:09] handknit: (10.Qd2) We may also be getting to black psyching himself out
+[17:06:40] invinci7777: or timing out
+[17:07:25] semlegesnev: I mean, black's queen is pretty much trapped if Qxa1
+[17:07:25] semlegesnev: Oh nvm
+[17:07:25] scarff: Feels like a very similar thing to my last games
+[17:07:41] scarff: Good position, but find it hard to see clear strong continuations
+[17:07:56] semlegesnev: O-O-O!
+[17:08:11] handknit: (10...e5) nice find
+[17:08:26] scarff: Qxb2 Qxd4 Qxa1+ Kd2 Nf6. Looked okay, but also look complicated, lots of counterplay for white there still?
+[17:08:43] handknit: (10...e5) castling definitely seems to be a good shot
+[17:08:58] timothyha: (10...e5) most chess positions have counterplay so we just have to play
+[17:09:13] handknit: (10...e5) I don't see an obvious continuation for white after 11.Na4 Qc6
+[17:09:28] handknit: (10...e5) Nd5, maybe?
+[17:09:59] handknit: (10...e5) 11.Nd5 Qd6 12.Qxd4 is a slimy justification
+[17:10:31] handknit: (10...e5) maybe Nd5-Nc7+ and Qxd4
+[17:10:46] handknit: (10...e5) down a pawn but black's d pawns are doubled/isolated, and B pair
+[17:10:46] handknit: (10...e5) but then you gotta check 11.Nd5 Qxb2
+[17:11:17] timothyha: (10...e5) I just think both White and Black are psyching out now
+[17:11:17] handknit: (10...e5) 12.Rd1 might be the shot there
+[17:11:32] timothyha: (11.O-O-O) how young is your Indicna player?
+[17:11:47] timothyha: (11.O-O-O) Indian
+[17:11:47] handknit: (11.O-O-O) idk I think our white player is fairly mentally strong
+[17:11:47] handknit: (11.O-O-O) dunno his age
+[17:12:48] timothyha: (11.O-O-O) we used to have JPutterg who is now 80+
+[17:13:03] timothyha: (11.O-O-O) played the Modern/Pirc all his life
+[17:13:03] handknit: (11.O-O-O) I think that a sloppy and chaotic game will suit him well
+[17:13:19] handknit: (11.O-O-O) @TimothyHa was he Canadian?
+[17:13:34] timothyha: (11.O-O-O) English
+[17:13:34] handknit: (11.O-O-O) There's a whole set of Canadian olds who play the modern because of Duncan Suttles
+[17:14:04] scarff: mmm, now regretting not taking that b pawn!
+[17:14:20] timothyha: (11.O-O-O) We (Adult Decliners) are hoping JPutterg will return for the last hurrah
+[17:16:37] handknit: (11.O-O-O) Seriously wondering if black's best move here is Kf8
+[17:16:52] handknit: (11.O-O-O) step out of knight fork ideas, bring the K to g7 to free the knight
+[17:17:07] timothyha: (11.O-O-O) could be, yes
+[17:17:53] invinci7777: cant black play nfy bxh6 bxc3?
+[17:18:09] invinci7777: nf6*
+[17:19:40] semlegesnev: If Nf6 I think Nb5
+[17:19:40] handknit: (11.O-O-O) There might even be Bxe5
+[17:20:26] handknit: (11.O-O-O) 11...Nf6 12.Bxe5 Bxe5 13.Re1 and 14.f4
+[17:20:41] handknit: (11.O-O-O) dunno if white gets the pawn but but he does crack the centre with black's king still there
+[17:21:28] handknit: (11...Ne7) Now there's Bxh6 is white's willing to accept the doubled pawns
+[17:21:43] handknit: (11...Ne7) I think I would
+[17:21:58] timothyha: (11...Ne7) Nb5 maybe Bxb2 Kxb2 a6
+[17:22:29] handknit: (11...Ne7) 12.Bxh6 Bxf2 is an idea
+[17:22:44] timothyha: (11...Ne7) that's for sure, threatens Rxh6
+[17:22:44] handknit: (11...Ne7) Actually quite hard to deal with Be3
+[17:22:59] handknit: (11...Ne7) 13.Na4, I guess
+[17:22:59] invinci7777: yeah
+[17:23:14] timothyha: (11...Ne7) I hope Black has enough time to make this game interesting for us
+[17:23:14] semlegesnev: After Nb5 Bxb2 Kxb2 a6 there's Be3
+[17:23:30] timothyha: (11...Ne7) would be a shame if this wild position is just lost on time
+[17:24:31] handknit: (12...Bxf2) Rh3 here is an idea
+[17:25:01] handknit: (13.Kb1) Nf5 to try trap the bishop, maybe
+[17:25:17] handknit: (13.Kb1) 13...Nf5 14.Ne4
+[17:25:47] timothyha: (13...Bd4) you're getting better with letters
+[17:26:03] handknit: (13...Bd4) I dunno. Everything's on fire. Pretty sure it's objectively good for black but it suits black's temprament
+[17:26:03] handknit: (13...Bd4) it's pure statistics
+[17:26:18] handknit: (13...Bd4) keep typing letters and eventually one will be write
+[17:27:03] invinci7777: defimetly
+[17:27:51] timothyha: (13...Bd4) I once played a long game against an FM and got so tired, at the end of the game my mind flipped colours, I was Black
+[17:27:51] timothyha: (13...Bd4) and thought now I'm White
+[17:28:06] timothyha: (13...Bd4) and for 10 moves I wrote moves accordingly
+[17:28:06] handknit: (13...Bd4) Na4-c3 might be the route here
+[17:28:52] timothyha: (13...Bd4) Nd5 next move maybe
+[17:28:52] timothyha: (13...Bd4) for Black
+[17:29:07] handknit: (13...Bd4) 14.Na4 Qc6 15.c3 Qxa4 16.cxd4 Rxa6 17.b3
+[17:29:07] handknit: (13...Bd4) Too much is happening
+[17:29:23] handknit: (13...Bd4) 17...Qxd4! 0-1
+[17:29:38] timothyha: (13...Bd4) I liked the 0-1 lines
+[17:30:24] handknit: (13...Bd4) Maybe white's gotta start with Bg5
+[17:30:54] handknit: (14.Bb5) Ah. I suspect Bxc3 just wins here
+[17:30:54] invinci7777: yeah
+[17:31:09] timothyha: (14.Bb5) yeah, looks like a little blunder
+[17:31:09] semlegesnev: Bxd7
+[17:31:09] handknit: (14.Bb5) Bxd7 Kd8
+[17:31:24] handknit: (14.Bb5) the B on c3 hits the queen so there's no discovered checks
+[17:31:55] handknit: (14.Bb5) And there's the mate threat on b2 so you can't not take the bishop on c3
+[17:32:10] timothyha: (14.Bb5) moment of truth for Black, I hope
+[17:32:25] invinci7777: yeah I guess thats what white missed
+[17:32:25] timothyha: (14.Bb5) if all 12 minutes are spent to find the 0-1 line...
+[17:32:25] timothyha: (14.Bb5) I'm ok
+[17:32:41] handknit: (14.Bb5) There's also just Bxc3 Qxc3 Qxb5 Bg7 and playing down a piece
+[17:32:41] handknit: (14.Bb5) justify it by black's king being in the centre
+[17:32:56] handknit: (14.Bb5) Bxe5, Rhe1, maybe something happens
+[17:33:26] semlegesnev: Bxc3 Bxd7+ Kd8 Qxc3 Bxd7 Qxe5 is playable imo
+[17:33:26] handknit: (14.Bb5) white's clock getting tighter, too
+[17:34:12] handknit: (14...a6) It is but you're down two pieces
+[17:34:42] timothyha: (15.Ba4) now Nd5?
+[17:34:42] invinci7777: rxh6 now
+[17:34:58] timothyha: (15.Ba4) Rxh6 doesn't seem to work as Qh8 is annoying
+[17:35:13] handknit: (15.Ba4) 15...Rxh6 16.Qxh6 Bxc3 17.Bb3 and then Qh8+ wins a peice
+[17:35:43] invinci7777: ah right
+[17:35:59] handknit: (15.Ba4) everything is happening
+[17:36:29] handknit: (15...Nd5) So Bb3 here seems pretty forced
+[17:37:00] handknit: (16.Bb3) That f7 square is awfully soft, too
+[17:37:45] semlegesnev: Okay I don't even know whats going on atp
+[17:38:01] handknit: (17.bxc3) oh, Bxf7+ might be live here
+[17:38:16] handknit: (17.bxc3) ah, it's pinned
+[17:38:16] handknit: (17.bxc3) simple simple
+[17:38:31] handknit: (17.bxc3) but Rhf1 here seems like business
+[17:38:46] invinci7777: don't like the knight trade
+[17:39:02] timothyha: (18.Bg7) now White wins unfortunately
+[17:39:17] handknit: (18.Bg7) White just recouping the material
+[17:40:18] invinci7777: rh5?
+[17:40:33] timothyha: (18.Bg7) maybe Rh7 defends f7 for a moment, then d6 and Bf5 and castle long
+[17:41:19] timothyha: (19.Bxe5) d6 to save the position
+[17:41:19] handknit: (19.Bxe5) Rhf1-Bf6 seems like the best line
+[17:41:19] timothyha: (19.Bxe5) and might be a drawn rook endgame
+[17:41:19] handknit: (19.Bxe5) d6 allows Bf6 directly
+[17:41:49] timothyha: (19.Bxe5) I see
+[17:43:51] handknit: (19...f5) Trying to wangle Re7, I guess
+[17:43:51] invinci7777: now there is no f7 to target!
+[17:44:07] handknit: (19...f5) but 20.Rh1 Re7 21.Qh6 seems... strong
+[17:44:07] timothyha: (19...f5) the king is too big a target now
+[17:44:52] timothyha: (20.h5) h5 is pure evil
+[17:45:08] handknit: (20.h5) h5 feels too forced. Rhe1 did the business in a better way
+[17:45:23] semlegesnev: What about Qd5?
+[17:45:38] timothyha: (20.h5) everything is winning
+[17:45:38] handknit: (20.h5) Qd5 is not bad, but white wants to include more pieces
+[17:45:54] handknit: (20.h5) the Q is already in the attack. The R/h1 is not
+[17:46:09] handknit: (20...d5) taking on d5 now
+[17:46:24] timothyha: (20...d5) hxg6 includes a lot
+[17:46:24] semlegesnev: Okay now its gotta be Qd5
+[17:46:24] handknit: (20...d5) I guess there's Qg8+ as a big threat
+[17:47:25] timothyha: (21.Qxd5) last hope Be6
+[17:47:41] handknit: (21.Qxd5) clever
+[17:47:41] timothyha: (21.Qxd5) but Re7 at the end and hxg6
+[17:50:29] handknit: (21...Bf8) Bd4 to open the e file is the first thing that jumps out
+[17:50:29] handknit: (22.hxg6) Rhe1 still
+[17:50:59] timothyha: (22.hxg6) hxg6 always looked simple enough to me
+[17:50:59] handknit: (22.hxg6) Rxh7 and Ba4+ is maybe the thought here
+[17:50:59] timothyha: (22.hxg6) personally I'd resign on h5 already
+[17:51:15] timothyha: (22.hxg6) pure evil
+[17:51:15] handknit: (22...Qxg6) I feel like this game has already been a lesson in not resigning
+[17:51:15] timothyha: (22...Qxg6) Qd8 mate
+[17:51:30] handknit: (22...Qxg6) so it is
+[17:51:30] jfiras: mate
+[17:51:45] handknit: yee haw
+[17:51:45] timothyha: gg
+[17:51:45] jfiras: gg !
+[17:52:00] timothyha: tough for our player, but so is chess
+[17:52:00] king_hunter-1: gg
+[17:52:00] invinci7777: gg
+[17:52:00] scarff: Ugh. Very difficult game
+[17:52:46] scarff: So far playing very poor chess this season. Felt like I was outplayed completely today
+[17:53:01] scarff: GG addead
+[17:53:16] addead: You played very good in opening
+[17:53:32] addead: my neek was hanging by a thread
+[17:53:47] scarff: That is what has happened each game. I start out well, but eventually lose the plot
+[17:53:47] handknit: I am shocked at the computer eval after 9...Bxd4. I thought the game was just about 0-1 at that point
+[17:56:19] scarff: Was a very difficult position to play!
+[18:13:37] scarff: 8...d6 is a nice idea. Just playing slower, but that wasn't on my mind at all
+[18:14:53] scarff: And 10...Bg7 is just a simple move. Somehow never crossed my mind
+[18:15:39] scarff: Feels like I tried to be combative in the opening, but it mostly backfired
+[18:16:40] scarff: Giving myself all the problems to solve, and white a simpler plan
+[18:16:55] scarff: But I guess with 10...Bg7 my plan would have simplified too, but somehow I always find trouble for mysefl!
+[18:18:42] scarff: And I dismissed 15...Bxc3 Bxd7+, didn't think it through that the queen is hanging
+[18:19:12] scarff: So after Kd8 there is no discovery yet, since the queen would be lost
