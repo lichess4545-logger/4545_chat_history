@@ -1,0 +1,107 @@
+Lichess game chat log
+Game      : https://lichess.org/c2FM0pYd
+White     : mizrab
+Black     : marketmike
+Time      : 45+45
+Captured  : 2026-07-30 21:15:23 UTC
+Game ended : 2026-07-30 19:55:16 UTC
+Messages  : 97
+────────────────────────────────────────────────────────────
+
+[18:08:08] davidsifre: (3.e3) Gooo, Mizrab!
+[18:08:23] simonwashere: Go Mizrab!
+[18:08:38] davidsifre: (3.e3) Smells like London in here
+[18:09:55] davidsifre: (3...a6) is a wasted move at this point.
+[18:10:10] davidsifre: (4...Bg4) I can say that with authority because I have patron wings today.
+[18:12:12] joonaf: Go Mizrab!
+[18:48:35] davidsifre: (19.Rfd1) does not seem to do anything
+[18:49:05] simonwashere: It opens up the possibility of Rdf1 later
+[18:49:20] simonwashere: you have to think ahead
+[18:49:51] davidsifre: (19...f6) I think I saw something like that the other day.  The rook shuffle
+[18:50:37] simonwashere: would like to see f3 and Nc5
+[18:51:07] simonwashere: although Ng3 may be annoying
+[18:51:07] davidsifre: (20.Nd3) Nc5 is a nice strong outpost
+[18:51:22] davidsifre: (20.Nd3) f3 is a nice way to kick the knight away, though it does block the LSB
+[18:51:38] davidsifre: (20.Nd3) not sure entoming the bishop is the right play
+[18:51:53] simonwashere: yeah fair point
+[18:52:24] davidsifre: (20.Nd3) Bh5 makes the Rh8 move pointless.
+[18:54:11] davidsifre: (21.Ra5) Nd6 ...Nc4
+[18:54:41] davidsifre: (21.Ra5) but may be too slow because of the doubling of rooks that are incoming
+[18:55:12] simonwashere: Nd6 Nc5 Nc4 Bxc4
+[18:55:12] davidsifre: (21.Ra5) But Bc8 covers that pawn.
+[18:57:14] davidsifre: (21.Ra5) Not sure Ra5 makes great sense
+[18:57:29] simonwashere: white must be much better now
+[18:57:59] davidsifre: (21...Nd6) I wonder why Lichess keeps "reconnecting" on my desktop
+[18:58:30] davidsifre: (22.Nc5) Nd6 is a fine outpost and it attacks the a pawn
+[18:58:45] davidsifre: (22.Nc5) there will be 3 attackers on that pawn and only 2 defenders
+[18:59:00] davidsifre: (22.Nc5) That gives white an eval of +1.3
+[19:00:16] simonwashere: nonsense, it is at least +1.301
+[19:00:32] davidsifre: (22.Nc5) I round off at the first deceimal point so people don't think I'm using an engine.
+[19:01:02] davidsifre: (22...Bc8) That pawn is lost.
+[19:01:48] simonwashere: maybe some cunning trick with Rda1 Nb7
+[19:03:20] davidsifre: (23.Rda1) Nb7 is needed
+[19:03:20] davidsifre: (23...Nc4) was
+[19:03:50] simonwashere: now just take with bishop and all is good hopefully
+[19:04:05] davidsifre: (23...Nc4) Yeah, Nb7 would have forced a knight trade and kept the pawn safe
+[19:05:06] davidsifre: (26.Rxa6)That's game over
+[19:05:06] davidsifre: (26.Rxa6) Mizrab can take the pawn and go home
+[19:05:22] davidsifre: (26.Rxa6) Rook is next on the menu
+[19:06:38] davidsifre: (27...Rc8) Ra7
+[19:07:24] davidsifre: (27...Rc8) Time to get teh white king to the center of the board
+[19:07:24] davidsifre: (28...Kf7) yeah baby
+[19:07:55] davidsifre: (29...Ke6) e4
+[19:08:41] davidsifre: (30.e4) yeah baby
+[19:08:56] simonwashere: not sure h2 is the centre though
+[19:09:12] davidsifre: (30.e4) some would say its on the rim, but it can move to g3 now
+[19:09:58] davidsifre: (30.e4) Bg5 skewers the rook and king.
+[19:10:13] davidsifre: (30.e4) sorry, Bg4
+[19:10:43] davidsifre: (30...Kd6) damn, he moved the king
+[19:12:30] davidsifre: (30...Kd6) Kg3 and get it ujp to the center
+[19:13:00] davidsifre: (30...Kd6) got to do it before he gets to h4
+[19:13:46] davidsifre: (31.Kg3) yeah baby
+[19:14:17] davidsifre: (31.Kg3) h5 seems  good
+[19:14:32] davidsifre: (31.Kg3) keeps white on the third rank
+[19:14:47] davidsifre: (31.Kg3) mmm hmm
+[19:15:03] davidsifre: (31...h5) as I suspected
+[19:18:36] davidsifre: f5?
+[19:18:51] davidsifre: I’m nailing this.
+[19:19:22] simonwashere: g4
+[19:19:52] davidsifre: h4
+[19:20:08] simonwashere: yeah
+[19:20:38] davidsifre: eventually he has to move a pawn and the rook can take the h pawn.
+[19:21:24] davidsifre: I guess he can shuffle rook back and forth.
+[19:21:39] simonwashere: Kf4 and e5 tho
+[19:23:41] davidsifre: ra6 d5?
+[19:25:14] davidsifre: now rh7 grabs that pawn.
+[19:25:29] davidsifre: makes a passer
+[19:28:17] cowtone: go mizrab, looking good
+[19:31:35] davidsifre: kf5 to get other pawn before rook gets in further?
+[19:32:21] davidsifre: or kxg4?
+[19:33:22] davidsifre: Rf5 is my final answer. get out of the h pawn way threaten a pawn and go promote
+[19:38:11] davidsifre: take the g pawn
+[19:38:41] davidsifre: then connected passed pawns can make trouble.
+[19:38:57] simonwashere: Rg5
+[19:39:42] davidsifre: that keeps black king on its half of the board. I approve.
+[19:44:01] davidsifre: that h pawn is Trouble.
+[19:44:01] cowtone: h pawn will run now
+[19:44:32] davidsifre: yay
+[19:44:47] davidsifre: I smell resignation.
+[19:45:02] davidsifre: first it smelled like London. now victory.
+[19:45:33] davidsifre: if we win boards 1-8 I will but everyone’s dinner.
+[19:48:23] davidsifre: h5 and you can protect with the rook
+[19:48:38] davidsifre: go Mizrab. make me proud
+[19:49:08] cowtone: everything works but h5 would have been logical
+[19:49:24] davidsifre: yeah
+[19:49:39] davidsifre: don’t like what he did to allow king closer to promotion square
+[19:51:57] davidsifre: g4. no need to give up a pawn
+[19:52:28] davidsifre: especially since it is needed to cover kings 6
+[19:53:29] davidsifre: kg6 then 7
+[19:53:29] davidsifre: the rook is useless.
+[19:54:00] davidsifre: moving the pawn first was not ideal
+[19:55:31] davidsifre: kg6
+[19:55:31] fireball100: Great game!
+[19:55:47] davidsifre: gg
+[19:55:47] davidsifre: woot
+[19:56:02] cowtone: Gg!
+[19:57:18] simonwashere: gg
+[19:59:04] joonaf: gg
