@@ -1,0 +1,102 @@
+Lichess game chat log
+Game      : https://lichess.org/Fivud6XW
+White     : aloo_bhaloo
+Black     : ysgwydd
+Time      : 45+45
+Captured  : 2026-07-30 13:05:02 UTC
+Game ended : 2026-07-30 11:44:59 UTC
+Messages  : 92
+────────────────────────────────────────────────────────────
+
+[10:04:43] ysgwydd: (4.Bd2) Hi berndini
+[10:05:14] berndwind: haha hi ysgwydd! wish I could change my lichess name
+[10:05:29] ysgwydd: (5.Bg2) Hi Jiji and chiffoncake
+[10:05:29] berndwind: go both of you! two very cool humans playing here
+[10:06:00] ysgwydd: (6.Nf3) I got inspired by Mennonite's win last round, featuring this line
+[10:06:00] pineapplechiffoncake: Good luck ysgwydd! Hi Bernd :)
+[10:09:02] ysgwydd: (7...Nbd7) 7...c6 is the most common move, I guess that's why white is pausing.
+[10:09:48] berndwind: hi pineapple!
+[10:09:48] berndwind: it’s a nice line for black. I’ve dabbled a little in it myself
+[10:21:31] kamagayajiji: space, the final frontier...
+[10:21:46] ysgwydd: (10.b4) I think c5 is the move here
+[10:39:50] ysgwydd: (14...Nc3) Looks odd but I think it's good
+[10:41:06] ysgwydd: (15.Qe1) Here I have both Ba6 and Nb5 I believe
+[10:53:18] ysgwydd: (19.Qxf3) Doesn't this lose a pawn?
+[10:57:22] berndwind: this just looks nice for black now
+[10:57:22] kamagayajiji: cxd4 - (twenty-five or) six to four
+[10:57:37] ysgwydd: (20...Qxe7) White is playing very quickly
+[10:57:52] ysgwydd: (20...Qxe7) Only thought on move 8
+[11:01:10] ysgwydd: (22.Qxd4) How did I miss that?
+[11:11:38] mennonite: go ysg
+[11:14:41] ysgwydd: (24...Nb6) e5 was so lame. Just Qd6 and I'm fine
+[11:14:56] guitarspider: (24...Nb6) I think Nf8-e6 might have been more useful
+[11:15:13] guitarspider: (24...Nb6) seems like the knight will struggle for safe squares on the queenside
+[11:16:30] ysgwydd: (24...Nb6) This might still be winning though
+[11:19:18] ysgwydd: (25...d3) Got to be careful with the a-pawn. I think I'm in time
+[11:19:33] ysgwydd: (25...d3) Hi spider
+[11:20:49] ysgwydd: (26.Ra3) a4 d2 a5 Nc4 a6 Nb2 Rb1 d1=Q+ Rxd1 Rxd1+
+[11:20:49] guitarspider: (26.Ra3) hi :)
+[11:33:17] guitarspider: (32.Be2) pretty sure aloo is playing way too fast here. After Nxc8 White should have been able to win the d-pawn.
+[11:34:02] guitarspider: (33.Bxd1) Kf1 Nb6 Ke2 Na4 Rxd2 Nxc3+ and it's even
+[11:34:33] guitarspider: (33.Bxd1) Ke1 Rxd2 Kxd2 Nxa2 for example
+[11:37:05] wave2679: What exactly is a guitar spider
+[11:37:36] berndwind: ah but that is the million dollar question
+[11:38:06] guitarspider: (37.a5) xd
+[11:38:06] wave2679: Black has white very close to Zugzwang
+[11:38:22] guitarspider: (37.a5) yeah, it's just losing
+[11:38:22] guitarspider: (37.a5) Black could even have gone Ra5 and traded pawns, would still have been winning
+[11:38:52] wave2679: Hold on
+[11:38:52] wave2679: Did black just sell
+[11:39:07] wave2679: nvm
+[11:39:07] wave2679: I forgot they could take
+[11:39:22] guitarspider: (39...Rd6) easy to miss
+[11:39:53] guitarspider: (40.Bd1) ysg will win this for sure
+[11:40:08] wave2679: Yep
+[11:40:39] wave2679: 48 minutes on a 45 minute timer
+[11:40:54] wave2679: Borderline a violation of taking the game seriously imop
+[11:41:24] wave2679: Just king walk here?
+[11:41:55] wave2679: Blacks next 7 moves could literally be, kd7, kc6, kc5, kc4, kc3
+[11:41:55] wave2679: I guess 5
+[11:45:29] guitarspider: gg
+[11:45:29] aloo_bhaloo: 29 bf1 was bad
+[11:45:44] aloo_bhaloo: maybe bc6 saves me
+[11:45:59] guitarspider: just Kf1-Ke2 :)
+[11:46:15] ysgwydd: gg
+[11:46:15] wave2679: Aloo you played so fast
+[11:46:15] ysgwydd: I think you had chances
+[11:46:30] aloo_bhaloo: kf1 ke2 runs into nb6-c4 and re8+ no
+[11:46:30] ysgwydd: 27.Rb3 is something I considered
+[11:47:00] wave2679: 27 rb3 and 27 rc3 are bascially the same move according to eval
+[11:47:16] ysgwydd: 27.Rc3 is clever, it stops Na4 Rc2 Rb2
+[11:47:31] ysgwydd: I haven't checked eval
+[11:47:31] wave2679: I just pulled it up
+[11:48:01] wave2679: It was -2 until you blundred the pawn into queen win
+[11:48:01] ysgwydd: 21...e5 was stupid. Running into the only idea with Qg4
+[11:48:01] aloo_bhaloo: nvm i had bc6 now, stupid!
+[11:48:16] ysgwydd: When?
+[11:48:32] wave2679: Around move 14 after ba3
+[11:48:47] ysgwydd: When Bc6 I mean
+[11:48:47] wave2679: until e5 on move 21
+[11:48:47] wave2679: -1.9 up to -3.2
+[11:49:02] aloo_bhaloo: the whole thing was bad in the opening
+[11:49:17] ysgwydd: I know I was winning then. If I don't blunder a pawn like I did
+[11:49:33] wave2679: The opening was actually pretty okay
+[11:49:33] ysgwydd: 10.b4 was a surprise
+[11:49:48] ysgwydd: I did check it in a slighlty different position though
+[11:50:19] wave2679: Ysw
+[11:50:19] wave2679: Or aloo either one
+[11:50:34] aloo_bhaloo: i was going for dxc5 but did cxd5
+[11:50:34] wave2679: How long did it take them to approve your registratoin
+[11:50:49] wave2679: I'm trying to get in but so far radio silence and I applied a while back
+[11:51:04] aloo_bhaloo: i wanted 12 dxc5
+[11:51:04] ysgwydd: 20.Red1 was a try I think. Not easy to defend a7 and be coordinated
+[11:52:05] ysgwydd: You should be approved in a couple days usually
+[11:52:36] wave2679: OKay thanks
+[11:52:36] ysgwydd: guitarspider is a mod, maybe message them on lichess?
+[11:52:51] wave2679: Oh he is?
+[11:52:51] ysgwydd: Yes
+[11:53:22] ysgwydd: Why not 12.dxc5?
+[11:54:07] wave2679: Anyways fun game, entertaining to watch very well played Ysg
+[11:54:23] wave2679: 94%!
+[11:54:23] wave2679: I'm gonna go play a classical game myself now trying ot get my rating up
+[11:55:24] ysgwydd: Have fun!
