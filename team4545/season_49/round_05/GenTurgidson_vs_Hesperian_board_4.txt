@@ -1,0 +1,42 @@
+Lichess game chat log
+Game      : https://lichess.org/fO2f4VjJ
+White     : genturgidson
+Black     : hesperian
+Time      : 45+45
+Captured  : 2026-07-30 20:14:51 UTC
+Game ended : 2026-07-30 18:54:49 UTC
+Messages  : 32
+────────────────────────────────────────────────────────────
+
+[17:36:29] finerik: Go Hesperian!
+[17:39:47] losingisthebest: go gen
+[18:16:56] genturgidson: I totally forgot my rook was hanging... I actually thought I was winning for a bit with Rg4 coming soon.
+[18:22:32] genturgidson: I think I can allow 19...Nxf2+ Kg2...
+[18:23:33] genturgidson: I think I lose a pawn and the exchange but I still have the potential counterplay, possibly.
+[18:24:03] genturgidson: Damn I'm hanging that pawn on d4 now as well...
+[18:40:04] nubro: Go Hesperian!
+[18:54:34] genturgidson: Yeah, there wasn't a way out of Nf3. i saw maybe d6 as an option but Rxd6 and it's still falling apart.
+[18:54:49] genturgidson: Qe5 was also doomed I think.
+[18:55:04] genturgidson: GG, very well played.
+[18:55:04] finerik: gg
+[18:55:19] genturgidson: Yeah engine said d6 was my best escape leading to no forced checkmate, just a dire position.
+[18:55:35] hesperian: gg thanks. I would have taken with the R on d6
+[18:55:50] genturgidson: The only mistake really was allowing Bxf3, I forgot I can't take with the queen because of Nxd4
+[18:55:50] genturgidson: Also a very funny line there.
+[18:56:35] hesperian: It was harder than I expected after gxf3, the N on e4 was a good defender
+[18:56:51] genturgidson: 13...Bxf3 Qxf3 Nxd4 Qd3 Nxb5 Qxd5 blundering Bzh2+ losing my queen.
+[18:57:52] genturgidson: Otherwise that would have been the line of choice.
+[18:58:23] hesperian: yeah but you just take on b5 no?
+[18:58:23] genturgidson: Oh...
+[18:59:09] genturgidson: I didn't see that geometry of the b5 knight hanging too in that line, too far ahead for my degraded brain haha.
+[18:59:39] hesperian: ah probably just tunnel visioned on the original idea a bit
+[19:00:25] genturgidson: Only other notworthy thing was my second mistake, 18.Qd2??. I actually just forgot my rook sits hanging, somehow.
+[19:00:25] genturgidson: Realised soon after that Rg4 first was my best option.
+[19:01:26] genturgidson: I was hoping you'd make a critical blunder like Qh5 allowing Nf6+ to win it after Rg4, which I never got to play.
+[19:01:57] hesperian: Funnily after 18. Qd2 I kinda regretted not playing 18...Qf4, it was a candidate. Figured f5 was a little risky but the checks don't do much
+[19:03:28] genturgidson: Your move seemed super solid, I thought just taking my rook was the safest.
+[19:03:58] hesperian: sure, I was expected Ng3 instead of Nc3 though
+[19:04:59] genturgidson: I was scared of you just kicking it with f4 and didn't really think past that.
+[19:06:00] genturgidson: I was going to use Nc3 to potentially route to e2 or even d1.
+[19:10:20] genturgidson: Good luck with the rest of your season, you're 5/5 now right?
+[19:17:28] hesperian: yessir and likewise
