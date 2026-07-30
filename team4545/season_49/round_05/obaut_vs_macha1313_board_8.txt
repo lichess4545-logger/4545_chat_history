@@ -1,0 +1,87 @@
+Lichess game chat log
+Game      : https://lichess.org/vuTHzPlZ
+White     : obaut
+Black     : macha1313
+Time      : 45+45
+Captured  : 2026-07-30 21:49:35 UTC
+Game ended : 2026-07-30 20:29:35 UTC
+Messages  : 77
+────────────────────────────────────────────────────────────
+
+[17:57:23] guitarspider: go macha!
+[17:59:56] pineapplechiffoncake: Go macha!
+[18:01:42] mennonite: go macha!
+[18:01:42] macha1313: I believe he usually plays the advance. I've been looking into the Botvinnick-etc but am not confident in that yet, so I'll  do my usual
+[18:03:45] guitarspider: (4...e6) If obaut actually plays g4 here I'm worried, that line is quite tricky
+[18:03:45] guitarspider: (4...e6) even if Black is ok objectively
+[18:05:33] guitarspider: (5.Nf3) ok, that is good for us, many natural and decent moves now
+[18:06:03] macha1313: here I'm always a little torn between prepping for c5 and going for that soon, or clearing out the kingside pieces. I feel like Be7
+[18:06:03] macha1313: is usually smart here
+[18:08:20] pineapplechiffoncake: Feels like you would want e7 for your knight (though I don't know this opening)
+[18:08:35] guitarspider: (5...Be7) Ne7 is certainly a move
+[18:09:06] macha1313: I kinda feel like Be7 keeps it looking at c5, which is good, but then makes developing the kingside knight kinda sucky.
+[18:09:36] guitarspider: (6.Be2) I think the most "standard" way to play would have been Nd7 and c5, but you can certainly start with Ne7
+[18:11:54] macha1313: so I know he's looking at Ng5. Here I usually go for h6. I've tried Bg6 as well, but it doesn't tend to work out for me
+[18:12:24] macha1313: I'm pretty sure this is all still main line(ish) stuff
+[18:12:40] guitarspider: (7.O-O) this is all fine. Nc3 blocks the one pawn break white has (c4), so Black can play slow too :)
+[18:14:57] macha1313: I can continue development, or force the issue with Bg4. I'm more inclined to that - usually the lsb becomes a liability if it doesn't
+[18:14:57] macha1313: trade early
+[18:17:30] pavonine: go go go obaut
+[18:21:35] macha1313: here I hem and haw a bit over where to put the queen so I can castle long. I like Qb6, usually
+[18:22:20] macha1313: I don't know if Qc7 is much/at all worse, but the queen does like to hang out on b6 in a lot of lines, eyeing that pawn
+[18:27:41] macha1313: iirc there is a trap if I took the pawn now? so I won't be greedy.
+[18:30:29] pineapplechiffoncake: I dont know about d4 but b pawns offered up like that are definitely sus
+[18:30:59] macha1313: ok, so, make or break moment. Is this the time for c5? I have it and d5 covered, I believe.
+[18:33:48] macha1313: we're going for it. I will have to be careful with capture order, but I think we've got this.
+[18:35:35] macha1313: ok, it has to be take with the knight to open up the rook.
+[18:35:50] guitarspider: (13...Nxc5) Na4 is a bit annoying, so Nxc5 I guess
+[18:36:05] cinemashow: (13...Nxc5) Be3
+[18:36:20] guitarspider: (13...Nxc5) Qc7, should be fine?
+[18:38:53] pavonine: if Be3 im thinking d4 is a move
+[18:39:08] pavonine: Bxd4 then black plays Qsomewhere
+[18:40:40] akristjansson: I’m pushing a4-a5 here as white
+[18:43:28] macha1313: I believe a6 is the move here, to prevent them from using the b5 square.
+[18:45:30] macha1313: I've been basically playing a knight down, but white has been playing a bishop down, so I don't feel too terrible about that
+[18:45:45] goldenretrieverchess: Go macha!
+[18:49:20] macha1313: I don't think I can play f6 yet. Not and take e5, which would be the whole point.
+[18:50:05] macha1313: but I think I can play d4.
+[18:50:51] macha1313: the biggest problem I see there is Bxb7, but I don't think that works?
+[18:53:24] macha1313: but what if they play Na4 and Qe4..... maybe I play f5, if en passant retake with bishop?
+[18:53:39] macha1313: or maybe the knight...
+[18:54:25] macha1313: I think knight is smarter. Still covers so Qe4 isn't good.
+[18:54:40] macha1313: we'll need to watch the g pawn, though
+[18:54:55] guitarspider: (15...f5) I do not like f5, e6 is extremely loose without a light squared bishop
+[18:59:30] macha1313: I think that was the moment for d4. Just have to remember to watch out for a potential fork from Na4 if my knight moves away.
+[19:05:22] macha1313: I am not confident that was the best square. I at least think it doesn't cause any immediate problems?
+[19:06:38] macha1313: I was also looking at Q to a7, which I think is about it for safe squares. Maybe there could have been some trickery with playing d3?
+[19:08:40] macha1313: I at least don't feel too bad about my time management. I'm not much more down than my opponent.
+[19:10:27] macha1313: I was thinking Qc4 could be coming. I think the only option is trade. I don't see any way to keep my queen on the board here.
+[19:10:58] macha1313: maybe there was an opportunity to move the king that I missed? We'll see after.
+[19:12:45] macha1313: ah, there's the fork I missed. There's always one. I expected b pawn to take, actually.
+[19:15:02] macha1313: I am always nervous about those either/or king moves.....
+[19:16:49] macha1313: I am looking at b5 or maybe move the bishop to either b4 or c5.
+[19:17:04] macha1313: bishop would be nice, maybe get my knight on the board finally.....
+[19:33:06] pavonine: obaut has done a lovely job here, position is lush
+[19:34:07] macha1313: I may exchange a rook for the knight and bishop. We'll see how this shakes out.
+[19:37:26] macha1313: I don't think I can take. Discovered check. Kc7? Or maybe Ng6? I think king.
+[19:38:57] pavonine: axb5 ftw
+[19:40:59] macha1313: I think I actually have it worked out that Ng6 does work. I think. But I need to look at Rb8.
+[19:41:45] macha1313: rook now, knight later
+[19:42:31] macha1313: wait, I don't think rook works.
+[19:42:46] macha1313: knight it is
+[19:46:20] pavonine: bxa6 looks great, right?
+[19:51:11] macha1313: I think I'm sticking to the plan. I don't see a good square to put that rook.
+[19:57:47] pavonine: b6+ is worth considering
+[19:57:47] macha1313: I have had more and more games lately actually make it to a "real" endgame, so hopefully that's a sign of improvement.
+[19:58:18] macha1313: not sure which of us is better rn. material wise, him, but I think my pawns have a chance
+[20:02:22] macha1313: I may have been able to leave the king there? But I was worried about Nb5+
+[20:04:24] macha1313: I think I'm okay just to move central pawns up?
+[20:11:16] macha1313: dang, it's all falling apart now. Just keep fighting, look for a chance
+[20:11:16] stevenlongs: ouch
+[20:11:32] pavonine: Rd6+ to end it
+[20:16:21] macha1313: ah, should have moved the rook. Clock is getting to me.
+[20:21:26] macha1313: I am just trying to keep things tricky until the end. A full rook down, I think my only hope is that they overlook something.
+[20:28:03] pavonine: wow nice save macha
+[20:28:19] macha1313: okay, can I actually clinch this?
+[20:32:37] macha1313: omg all the blunders ^_^;
+[20:54:27] pavonine: gg
