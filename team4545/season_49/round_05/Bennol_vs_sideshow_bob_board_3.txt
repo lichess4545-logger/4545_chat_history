@@ -1,0 +1,37 @@
+Lichess game chat log
+Game      : https://lichess.org/ZCEolqDt
+White     : bennol
+Black     : sideshow_bob
+Time      : 45+45
+Captured  : 2026-07-30 17:35:47 UTC
+Game ended : 2026-07-30 16:15:44 UTC
+Messages  : 27
+────────────────────────────────────────────────────────────
+
+[14:28:10] momor: go bennol
+[15:03:00] monocarp: (18. Qxg4) The only good move I really see for black is Be5... otherwise Rxh7 is an issue
+[15:03:30] monocarp: (18... f5) I guess this also prevents that threat for now
+[15:04:01] monocarp: and the queen also defends h7 now....
+[15:05:02] monocarp: But personally as white I want the queen on e2? I just like my DSB much more than blacks and don't want to allow Be5 for black
+[15:20:19] coltonmtotland: tuning in now
+[15:20:49] coltonmtotland: i see white has a better pawn structure and better king security but otherwise very close
+[15:26:40] coltonmtotland: i was wondering if 21. Bc4 worked there after 21....Qxh4 22. Bxe6+ Black would have to sacrific a rook with 22...Rxe6 or  Rf7
+[15:27:26] coltonmtotland: black would’ve had a check threat on h2
+[15:31:29] coltonmtotland: black would’ve had to play Rf7 i think (which is a bit parodoxical to me) because Rxe6 just loses a bishop on d6: 22. ....Rxe6 Qxe6+ Rf7 Qxd
+[15:33:31] monocarp: Rf7 wouldn't have been any good either: 22... Rf7 23. Bxf7 Kxf7 Qxe8#
+[15:34:02] coltonmtotland: uhhhhhh yeah that’s way worse rofl
+[15:34:02] coltonmtotland: nvm
+[15:34:47] monocarp: So at least following 21. Bc4 the h4 rook cannot be immediately captured
+[15:35:18] coltonmtotland: yep and black would need to defend the pawn on e6 somehow
+[15:35:48] monocarp: yes
+[15:36:49] bennol: hello team
+[15:37:04] monocarp: but maybe 21... Bd5 could have kept the pawn anyway?
+[15:37:04] coltonmtotland: i think Bd5 Bxd5 exd5 Qxe7 Rxe7 Rxe7 Bxe7 and THEN Ra4 works best
+[15:37:35] coltonmtotland: because black can no longer defend the a pawn
+[15:38:36] coltonmtotland: whoops, black still has a rook
+[15:38:51] monocarp: But Ra8 is very passive there
+[15:38:51] monocarp: and not very impressive
+[15:39:37] coltonmtotland: sure. i think white would be saying i have the better pawn structure and more active pieces, let’s take it to the end game
+[15:41:08] coltonmtotland: i think white could play Ra5 and Ba3 and attack the other isolated pawn
+[15:42:39] coltonmtotland: i love what Bennol is doing now though lol looks like he can pick up the e6 pawn now
+[15:45:12] coltonmtotland: rook sacrifice from bob. i don’t know if it works but it’s creative
