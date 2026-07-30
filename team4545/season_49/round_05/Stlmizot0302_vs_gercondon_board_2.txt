@@ -1,0 +1,204 @@
+Lichess game chat log
+Game      : https://lichess.org/ovClCoVP
+White     : stlmizot0302
+Black     : gercondon
+Time      : 45+45
+Captured  : 2026-07-30 00:16:30 UTC
+Game ended : 2026-07-29 22:56:27 UTC
+Messages  : 194
+────────────────────────────────────────────────────────────
+
+[21:19:46] iwishiweredecent: Finally I get to watch a high quality London, no offense to black but I have to root for my fellow resident of London ;)
+[21:22:50] wave2679: Whites position is a dream
+[21:23:05] wave2679: Na5 seems a little premature
+[21:31:44] iwishiweredecent: I don't know but I feel like white was better off recapturing on e5 with the pawn, but these guys are higher rated than me so I could be off
+[21:32:30] iwishiweredecent: g4 will have to played sooner or later I would imagine..
+[21:34:17] nightsub: Go StImi
+[21:43:11] wave2679: Some combo where you double the rooks on the a file for white looks good
+[21:43:26] wave2679: Rb4 in some lines if bishop takes on f6 after bxf6
+[21:43:57] wave2679: But then again Whites dark squared bishop is very good
+[21:44:12] iwishiweredecent: Yeah it would be great if white could get the rooks back over to the kingside..
+[21:44:42] wave2679: I think Black is clearly better noa
+[21:44:42] wave2679: That capture was not good
+[21:44:58] wave2679: after nxd5
+[21:45:28] wave2679: Now I could be missing something but nxd5 seems like it puts white in a very tough spot
+[21:45:58] iwishiweredecent: yeah i think you are right that black might be slightly better now
+[21:46:14] wave2679: Because you have to move your queen, the pawn isn't really defended and you only have 2 options
+[21:46:14] iwishiweredecent: now c3 is looking real tender
+[21:46:29] wave2679: qd4 and qb2
+[21:46:44] wave2679: Qd3*
+[21:46:59] iwishiweredecent: no c3?
+[21:47:30] iwishiweredecent: I don't know I don't have an engine loaded up, I just like watching and trying to figure out the best moves
+[21:47:46] iwishiweredecent: sorry c4
+[21:48:01] wave2679: c4 is playable but after nb4
+[21:48:17] wave2679: I don't have an engine pulled up
+[21:48:17] wave2679: I'm of similar level
+[21:48:17] wave2679: To these players
+[21:48:47] iwishiweredecent: oh wave, bud, I wasn't saying that you had an engine pulled up, I was just making sure you understood that I am speaking only as an 1800
+[21:49:02] iwishiweredecent: lol
+[21:49:17] iwishiweredecent: sorry if it came off that way, I wasn't insinuating anything
+[21:49:33] iwishiweredecent: Nf3 here?
+[21:49:49] wave2679: No I didn't think you were I was just clarifying
+[21:50:04] wave2679: Nf3
+[21:50:04] iwishiweredecent: ok lol
+[21:50:04] wave2679: No I don't like it
+[21:50:04] wave2679: I'll tell you why
+[21:50:19] wave2679: Nf3 bxe4
+[21:50:19] wave2679: Nxe4
+[21:50:35] wave2679: Then double the rooks with rc7 then later rdc8
+[21:51:05] wave2679: And I don't think dxe4 is even worth analyzing
+[21:51:36] iwishiweredecent: agreed, I was just thinking replacing the bishop with the knight in the middle of the board looked solid for white
+[21:51:51] wave2679: Yeah it wasn't bad but
+[21:51:51] wave2679: That whole idea and you can't move yoru queen away from b3
+[21:52:06] iwishiweredecent: yeah but I don't think I like this either...
+[21:52:21] wave2679: I think it's probably -1 to -2 rn
+[21:52:52] wave2679: I think nf3 has to be played if you want to salvage the pawn chain from b3-d4
+[21:52:52] iwishiweredecent: feels stuck right now
+[21:53:23] iwishiweredecent: yeah I just like Nf3 the move before but this might work
+[21:53:23] wave2679: gives away ne4 later on
+[21:53:38] iwishiweredecent: yeah Ne4 is going to be annoying
+[21:54:24] iwishiweredecent: I feel like white needs to get the rooks over to more active squares... that a file isn't relevant at all at the moment
+[21:54:39] wave2679: Hold on
+[21:54:39] iwishiweredecent: ahhhh
+[21:54:39] wave2679: crazy idea
+[21:54:54] wave2679: say like kh1 for the heck of it
+[21:54:54] wave2679: nxc3
+[21:55:24] wave2679: Idk I don't think it works but the pin could get annoying
+[21:55:24] iwishiweredecent: black wants c4 ...Nf4 threatening a nasty fork on d3
+[21:55:55] wave2679: I think the real idea is f6?
+[21:56:10] wave2679: well if c4 isn't played
+[21:56:41] iwishiweredecent: moment of truth
+[21:57:11] wave2679: Hold on
+[21:57:11] wave2679: Hear me out
+[21:57:11] wave2679: Nd7
+[21:57:42] wave2679: Nd7 then nc6
+[21:57:57] wave2679: triple attack on d4
+[21:58:12] wave2679: And
+[21:58:12] iwishiweredecent: lol you called it man
+[21:58:12] wave2679: If you play rd1
+[21:58:28] wave2679: then RXc4
+[21:58:28] wave2679: So that pawn is really hard to defend
+[21:58:43] wave2679: wait
+[21:58:43] iwishiweredecent: yeah the queen being undefended becomes a real problem
+[21:58:58] wave2679: I did all that calculation to realize nc6 stops rc4
+[21:59:29] wave2679: Maybe nf5 then?
+[21:59:29] wave2679: Same idea
+[22:01:30] iwishiweredecent: lol yeah I know that feeling during my games where I calculate some line for 5 minutes only to realize that something is hanging or blocked
+[22:01:30] iwishiweredecent: so frustrating
+[22:02:31] wave2679: Qb5 or qc6
+[22:04:18] iwishiweredecent: is now the chance for white to move his rooks over?
+[22:04:18] iwishiweredecent: or not
+[22:04:33] wave2679: I'd say so
+[22:04:33] wave2679: rd1 and rc1 probably best uses
+[22:04:49] wave2679: I think b4 was neccessary first though
+[22:04:49] iwishiweredecent: yeah if white's rooks had been on d1 and c1 earlier this game would have been wayyyy different
+[22:05:19] wave2679: Although the a1 rook does paralyze black a lot
+[22:05:34] wave2679: What's even the idea of that move
+[22:06:35] iwishiweredecent: black seems like their pieces are getting really tangled up now
+[22:07:06] wave2679: I genuinely think black doesn't realize that the queen defends the d4 pawn
+[22:07:21] wave2679: because his last 2 moves attacked it
+[22:07:36] iwishiweredecent: lol yeah I was wondering why, unless he is planning on doubling rooks on the d file
+[22:07:52] wave2679: I would of played rd5
+[22:07:52] iwishiweredecent: do you think if white plays Qd2 that black would trade queens?
+[22:07:52] wave2679: Yes
+[22:08:07] iwishiweredecent: seems like a queen trade would benefit white
+[22:08:07] wave2679: I can literally envision like 20 moves down the line
+[22:08:22] wave2679: No it benefits black
+[22:08:38] wave2679: The pawn hangs on b4
+[22:08:38] wave2679: If that happens now
+[22:08:38] iwishiweredecent: yeah maybe those pawns are too weak
+[22:09:08] iwishiweredecent: well Rb1 prepares the queen trade offer but not black can push the b pawn
+[22:09:38] iwishiweredecent: damn man... I can usually visualize like 4-5 moves ahead clearly, then after that it gets a bit fuzzy around the edges...
+[22:10:10] wave2679: Not 20 moves in every position
+[22:10:10] wave2679: Let me rephrase
+[22:10:10] iwishiweredecent: I can remember the positions of the pieces being moves but I have trouble remembering where the peripheral pieces are
+[22:10:10] wave2679: Like I saw a very quick glance
+[22:10:55] iwishiweredecent: ahh yeah, I get those moments but usually only in endgames that are simplified by having very few pieces on the board...
+[22:10:55] iwishiweredecent: I am still new to chess though
+[22:10:55] iwishiweredecent: hopefully I will keep getting better
+[22:11:11] wave2679: I was thinking qd2, qxd2, rxd2, rd5, rad1, rcd8
+[22:11:11] wave2679: Then some time later f6 and e5 is crushing
+[22:11:26] wave2679: Even ignoring the free b4 pawn
+[22:12:27] iwishiweredecent: yeah now if white trades queens on d2 he can't help but lose the d pawn after black doubles the rooks
+[22:12:27] iwishiweredecent: but that might happen regardless
+[22:13:13] wave2679: The d pawn is still defendable but you have to play a very specficic move order
+[22:13:28] iwishiweredecent: it feels like we are one move from this whole board just exploding into action
+[22:13:43] wave2679: I'm probably around 2100 classical strength the problem is I play WAY too fast
+[22:13:43] wave2679: And sometimes I only calculate my ideas
+[22:14:13] wave2679: If you look at my classical game I lost today I was +1.3 and got hell bent on one idea
+[22:14:29] wave2679: And then ended up losing
+[22:14:44] iwishiweredecent: Well I followed you man, if you ever want to play some games or spar some positions let me know, we can just play casual unrated games
+[22:14:59] wave2679: Now black is winning
+[22:14:59] wave2679: It had to be rd2
+[22:15:15] wave2679: d3 loses
+[22:15:15] iwishiweredecent: Yeah I have the same problem sometimes, I get tunnel-vision on my own plans and ideas and underestimate my opponent's moves
+[22:15:45] wave2679: I still think rd5 is a neccessary improving move
+[22:16:00] wave2679: If rd5 instead of rd7 this is borderline resignable for white
+[22:16:16] wave2679: Because whites entire survival hinges on the d5 push if e5
+[22:16:31] wave2679: rd5 stops that
+[22:17:01] iwishiweredecent: yeah I think rd5 would have been way better than Rd7
+[22:18:02] iwishiweredecent: Heyyyyy there it is
+[22:18:02] wave2679: This game is over
+[22:18:02] wave2679: e5 kills it
+[22:18:17] wave2679: Well not yet
+[22:18:17] wave2679: but Rd3d2 must be played
+[22:18:33] iwishiweredecent: so how can white fight back?
+[22:18:33] iwishiweredecent: does Qd2 help at all?
+[22:18:48] wave2679: no it's the same issue
+[22:18:48] iwishiweredecent: what about g3?
+[22:19:04] wave2679: g3 hmm
+[22:19:04] wave2679: I didn't think about that
+[22:19:19] iwishiweredecent: it didn't work earlier but after Rd3 the knight is protected
+[22:20:50] iwishiweredecent: Let's gooo!!
+[22:22:06] iwishiweredecent: I feel like maybe at some point white could play Ne5 to stop e5
+[22:22:06] iwishiweredecent: or trade off the knights
+[22:22:22] wave2679: Not right now
+[22:22:37] iwishiweredecent: yeah not yet
+[22:22:37] wave2679: Nxe4 nxe4 dxe4 exd3
+[22:22:37] wave2679: Rxd3*
+[22:22:37] wave2679: You lose a rook
+[22:22:37] wave2679: That's why rd2 is needed
+[22:22:52] iwishiweredecent: so now what?
+[22:22:52] wave2679: If rd2 isn't played soon white will lose this game
+[22:22:52] iwishiweredecent: qd2?
+[22:23:08] wave2679: qd2 now maybe
+[22:23:08] iwishiweredecent: or what about b5
+[22:23:08] wave2679: I think blacks gonna play b6
+[22:23:38] wave2679: b5 might lose a pawn tatically but I don't want to calculate it rn
+[22:24:09] iwishiweredecent: lol yeah but I think giving up a pawn instead of just losing the game straightaway seems like a decent trade off ya know
+[22:24:24] wave2679: rd2 is desperately needed bc both the queen and knight defend it so e5 isn't winning
+[22:24:39] wave2679: Because right now you lose a piece if you trade on e5
+[22:25:40] iwishiweredecent: that's part of why b5 might work because the queen on b5 will still guard the roook on d3
+[22:25:40] iwishiweredecent: but I am probably missing something
+[22:27:42] wave2679: b5 or one of the rooks to d2 I think are the only options
+[22:31:15] wave2679: This is a tough move to make
+[22:31:31] wave2679: I’ve done some analysis and I think rd1d2 is the best move for white
+[22:31:46] wave2679: b5 and it were very close though
+[22:31:46] wave2679: like analysis in my brain
+[22:32:33] iwishiweredecent: wow he played b5!!!
+[22:32:48] iwishiweredecent: I had to run upstairs and change a diaper, so I missed a couple moves
+[22:34:35] iwishiweredecent: Yeah but I think for white somehow simplifying the game a bit might be better given that white is so far down on time
+[22:35:05] wave2679: yeah I agree it’s probably the better move given the time
+[22:35:21] iwishiweredecent: This is a great game though, very entertaining for us in the auridence
+[22:37:23] iwishiweredecent: so now what? maybe black plays f6 preparing e5?
+[22:37:53] wave2679: I think b6 is playable but it’s so risky
+[22:39:25] iwishiweredecent: b6, Qxb6, Qxb6, can't white just sacrifice the d pawn and protect the b pawn?
+[22:39:40] wave2679: yeah I think so
+[22:40:41] iwishiweredecent: yeah b6 seems a bit too sketchy... I was wondering if white would try to play Qb6 after whatever black plays to try to get the queens off
+[22:41:27] wave2679: maybe now it would work but rd2 is probably still needed
+[22:41:42] iwishiweredecent: so that it is protected by the knight on f3?
+[22:42:44] ivanhomeless: nice
+[22:44:01] wave2679: this looks drawn if not black has the winning chance
+[22:46:18] wave2679: dead drawn now
+[22:46:48] ivanhomeless: perpetual?
+[22:47:19] iwishiweredecent: Wow... literally run to the bathroom and I miss everything
+[22:48:50] stevenlongs: Qd8+ Kh7 Qh4+ Qh5 Qxh5 do anything? they both arrive on d5 and d7 i think
+[22:49:51] iwishiweredecent: Yeah but it is probably more likely that white defends their pawn
+[22:53:24] iwishiweredecent: So is black gonna go for the perpetual?
+[22:54:10] iwishiweredecent: But white has Kh2 right?
+[22:54:25] iwishiweredecent: or Kf1?
+[22:56:12] stevenlongs: whats the match situation?
+[22:56:27] ivanhomeless: gg
+[22:56:27] stevenlongs: gg
+[22:57:43] iwishiweredecent: GReat game guys!
+[22:58:44] iwishiweredecent: I was surprised it ended in a repetition, it felt like that game was going to explode into something crazy but it was still really entertain
