@@ -1,0 +1,163 @@
+Lichess game chat log
+Game      : https://lichess.org/DIVDgaua
+White     : tristanbrown17
+Black     : qrs
+Time      : 45+45
+Captured  : 2026-07-31 23:08:19 UTC
+Game ended : 2026-07-31 21:48:04 UTC
+Messages  : 153
+────────────────────────────────────────────────────────────
+
+[20:16:00] tristanbrown17: let's do this
+[20:16:00] jcarmody: Go Tristan!
+[20:16:31] tristanbrown17: in the database, it's often the vienna gambit here
+[20:16:31] tristanbrown17: and I think that was what happened in our last match
+[20:16:31] tristanbrown17: hi jcar and scribs
+[20:16:46] tristanbrown17: jcar, well fought on. tough position this week
+[20:16:46] tristanbrown17: okay
+[20:17:02] tristanbrown17: more standard vienna
+[20:17:02] tristanbrown17: 3 knights?
+[20:19:34] tristanbrown17: I wish I had reviewed these lines
+[20:19:34] tristanbrown17: but I've played them so much
+[20:19:34] tristanbrown17: I should be okay
+[20:24:23] tristanbrown17: and honestly, this is where I forget the technical next move
+[20:24:38] tristanbrown17: although it's probably Nf3
+[20:25:09] tristanbrown17: Nf3, Bg4, h3, Bxf3, Qxf3, Nd4
+[20:25:09] tristanbrown17: don't love that
+[20:25:39] tristanbrown17: maybe an argument for the immediate f5, with development around the pawn structure
+[20:25:39] karasso: go qrs
+[20:25:39] tristanbrown17: no rush here
+[20:27:26] tristanbrown17: eh. maybe I will close the position
+[20:27:26] tristanbrown17: leaving g6 as the pawn break
+[20:27:41] tristanbrown17: dev scheme of Nf3, Be3, Qd2, O-O-O?
+[20:29:45] karasso: (6) would go Na5 here to get the lsb of white. Also helps with c6-d5 ideas
+[20:30:16] inter-temporal: (6.f5) is tristan streaming
+[20:36:06] tristanbrown17: trying to transpose to something else I know
+[20:36:21] tristanbrown17: early lines with passive play tend to have the queen on f3 and the knight  manuevers through e2
+[20:38:24] qrs: (7. Qf3) From what I recall I have not seen someone play like this, trying to figure out what this is about
+[20:42:12] qrs: (7... Nxc4) I mean he probably plans sth like Qg3 and if O-O Bh6
+[20:47:47] inter-temporal: (9.Bg5) black has some advantages?
+[20:48:02] inter-temporal: (9.Bg5) eval is so hard. lol
+[20:48:33] kborman: Go Tristan!
+[20:50:20] zubenelgenubi: go Tristan
+[20:51:21] inter-temporal: (10.b3) white's pieces more active (esp. without the lsb)?
+[20:52:21] nyanners: i take white, its just easier
+[20:52:37] nyanners: i dont think Ba6 is the play
+[20:52:52] nyanners: but Nxc4 is good for black of course
+[20:53:38] inter-temporal: (10...h6) maybe the weak e4, and broken pawn-structure is smth for black
+[20:53:53] nyanners: wouldnt say anything about the pawn structure yet. white is happy to have traded lsb and played b3
+[20:54:08] nyanners: control of d5 is very cool
+[20:54:38] inter-temporal: (10...h6) might need the c-pawn to help out there
+[20:55:39] inter-temporal: (11.Bxf6) seems like Black can bust it up in the center
+[20:58:12] inter-temporal: (11...Bxf6) or that's just my uncontrollable recklessness
+[20:58:57] inter-temporal: (11...Bxf6) ...Qd7 & ...b5 maybe?
+[21:00:59] qrs: (11. ... Bxf6) guess i should try to open up the position now that i have 2B vs 2N
+[21:01:14] inter-temporal: (11...Bxf6) which pawns to push
+[21:01:30] inter-temporal: (11...Bxf6) therez like 9 pawn breaks
+[21:01:30] qrs: Surely its correct to first try to keep the dsb, e.g. Nd5 Bg5
+[21:03:01] inter-temporal: (12.Nd5) maybe there's a counterargument for allowing Nxdsb, then aim for a5-a4?
+[21:03:01] qrs: But then Nh3 ofc and I cant actually keep it
+[21:05:50] nyanners: i have no idea if Bxf6 was correct but Nd5 seems hasty
+[21:05:50] nyanners: enables both Bg5 and b5
+[21:05:50] nyanners: while theres no actual threat
+[21:08:53] inter-temporal: (12.Nd5) ahh. nice nanners
+[21:09:24] inter-temporal: (12...b5) that's a good ...b5. not like the earlier ...b5 i was talking about
+[21:09:24] qrs: (12. ... b5) comittal move and maybe a stupid one, but i dont see away to preserve my dsb and c7 can become a problem
+[21:09:54] nyanners: cxb into c4 feels possibly forced. and then Bc6
+[21:10:09] qrs: (12. ... b5) say for example Bg5 Nh3 .. Nxg5 Qxg5 runs into Nxc7
+[21:10:09] nyanners: and then its just kinda like, why did we play Nd5
+[21:11:10] qrs: so i convinved myself its better to have him play Nxf6 (if he wants to) - giving up his active knight keeping the very passive one)
+[21:12:26] qrs: and if ever Ne2 I can maybe still play Bg5
+[21:12:42] ysgwydd: (13...Bxb5) d5 had a "Free parking" sign
+[21:12:57] nyanners: it was not free..
+[21:12:57] nyanners: there was a sign but it was actually an ambush by the mafia
+[21:13:43] tristanbrown17: hello all
+[21:13:43] nyanners: okay starting with Ne2 makes very good sense
+[21:13:43] tristanbrown17: welcome to how to play chess (sometimes, probably not, especially not at a master level
+[21:14:44] ysgwydd: (14.Ne2) All I see is a knight living it's best life on d5
+[21:15:14] nyanners: white needs(?).. wants to meet Bc6 with Nec3. in the other line c4 Bc6 was pretty annoying
+[21:15:45] nyanners: on this one Bc6 is neutralized but black's c6 options are always worth considering
+[21:16:15] nyanners: yea i like this. Bg5 sorta prepares c6
+[21:16:30] nyanners: so you probably need c4 now
+[21:16:30] nyanners: which is a good move, of course
+[21:17:17] nyanners: and then i dont know, of course the big question is whether c6 is too weakening of d6. there's some risk for sure but i think its fine
+[21:17:47] nyanners: also worth looking at c4 c6 immediately :o
+[21:18:02] nyanners: though white could just ignore it with Ndc3 i guess
+[21:18:17] ysgwydd: (14...Bg5) Yeah I thought about c4 c6
+[21:18:17] ysgwydd: (14...Bg5) Doesn't do much
+[21:18:17] nyanners: so at best it transposes in that case
+[21:18:33] ysgwydd: (14...Bg5) Will white go kingside?
+[21:18:48] nyanners: yea i dont like this. feels white is dreaming of O-O-O but it seems unrealistic
+[21:18:48] ysgwydd: (15.Nec3) Hard to go queen side with the g5 bishop
+[21:19:03] genturgidson: Nc3 first was unexpected.
+[21:19:03] nyanners: c6 seems just good to me
+[21:19:03] ysgwydd: (15.Nec3) g3+h4 but then 0-0 is risky
+[21:19:18] nyanners: yea white seems a bit stuck
+[21:19:34] genturgidson: I mean if white wants to commit to a queenside castle there is h4 maybe, bit risky.
+[21:19:34] nyanners: id probably have gone with the c4 O-O thing and see if black goes c6 and then we have something to do
+[21:19:34] ysgwydd: (15.Nec3) c6 now or c6 after moving bishop
+[21:20:19] nyanners: i like saving the bishop on reflex but you have to evaluate the i go here they go there thing
+[21:20:19] nyanners: looked alright
+[21:20:19] genturgidson: The g5 bishop is quite weak to h4 if that got played, I think.
+[21:20:35] qrs: (15. Ba6) hope I am not missing something, but I think my bishops are stronger now then the knights.
+[21:20:35] inter-temporal: (15...Ba6) calculate?
+[21:20:35] inter-temporal: (15...Ba6) ewwww
+[21:20:35] ysgwydd: (15...Ba6) Well h4 Bxh4
+[21:20:50] nyanners: like, c6 Nxb5 cxd5 Nc3 d4
+[21:20:50] nyanners: i like b
+[21:21:05] qrs: (15. ... Ba6) he cant castle either side right now and I play c6 (taking his major outpost away anytime
+[21:21:20] qrs: (15. ... Ba6) but maybe I should castle, let me think about that
+[21:22:36] genturgidson: ysgwydd, I was looking at some h4 Bxh4 Nxc7+ weirdness.
+[21:23:08] inter-temporal: (15...Ba6) tactical
+[21:23:08] nyanners: check
+[21:23:08] genturgidson: But yeah you're probably right, looks potentially quite weakening.
+[21:23:38] genturgidson: Oh wait Bxh4 comes with a check... there's a problem at every layer of my reasoning ahaha.
+[21:23:38] genturgidson: Just woke up!
+[21:24:24] inter-temporal: (15...Ba6) no, checks are not as simple as they should be
+[21:24:55] ysgwydd: (15...Ba6) Gotta do check checks
+[21:24:55] inter-temporal: (15...Ba6) indeed. each side has two possible checks, but none safe yet.
+[21:27:42] nyanners: only now i realized that not playing c4 also prevents white from going O-O
+[21:27:42] nyanners: i had c4 so taken for granted
+[21:27:57] ysgwydd: (15...Ba6) Watch Kf2 next
+[21:28:28] nyanners: maybe then its time for Ne3 O-O-O which is definitely risky
+[21:28:43] inter-temporal: (15...Ba6) probably SF says, "hey mate, just pull the N back to d2, yeh?"
+[21:30:00] inter-temporal: (15...Ba6)even SF typos. "N back to [e2]"
+[21:30:16] qrs: (15. ... Ba6) he spent quite some time now.. Wondering which knight move is coming
+[21:30:31] ysgwydd: (15...Ba6) Ne2 Bb5 Nec3 Bb5 Ne2 repetition
+[21:30:31] nyanners: Ne2 is the "we made a mistake" move and i dont think its going to happen
+[21:30:46] nyanners: you actually literally just played it to c3
+[21:30:46] nyanners: that was the actual last move
+[21:31:01] ysgwydd: (15...Ba6) Chess players never go back especially with knights
+[21:31:01] inter-temporal: (15...Ba6) exactly.
+[21:31:17] inter-temporal: (15...Ba6) i hate when SF shows i should just take back my last move... humiliating
+[21:31:48] ysgwydd: (15...Ba6) I still think Kf2
+[21:34:05] inter-temporal: (16.Nb4) interesting. looks good?
+[21:37:39] qrs: (17. ... c6) quite commital, and Qb6+ is probably seen
+[21:38:09] qrs: still, can just play O-O next and I do not think d6 will become too much of an issue
+[21:41:58] genturgidson: He allows Qb6+?
+[21:41:58] genturgidson: A sacrifice?
+[21:42:13] genturgidson: Kh1 Qxb4 Rxd6
+[21:42:28] ysgwydd: (18...Qb6+) Qxd6
+[21:42:59] genturgidson: Qxd6?
+[21:42:59] qrs: (18. ... Qb6) okay, that actually worked. If I am not missing something, thats a piece gone
+[21:44:00] genturgidson: Oh you mean queen defends d6 yeah... Rxd6 Qxd6 after.
+[21:44:30] ysgwydd: (18...Qb6+) Yeah
+[21:44:46] genturgidson: I wonder what the plan is?
+[21:45:32] ysgwydd: (18...Qb6+) I don't think there is a plan
+[21:45:32] genturgidson: Maybe Qxb4 followed by a3 to try and fight for Rxd6
+[21:45:47] ysgwydd: (18...Qb6+) You can just take on a3?
+[21:46:32] genturgidson: Rxd6 Qxd6 Rd6
+[21:46:48] genturgidson: *Rd1
+[21:47:33] genturgidson: I'm just trying to rationalise the decision somehow. Perhaps just a blunder.
+[21:47:49] karasso: gg
+[21:48:04] genturgidson: Yeah engine did like my Qxb4 a3 because of b4.
+[21:48:19] genturgidson: After Qxa3. Anyway it's over... GG.
+[21:48:50] inter-temporal: gg.
+[21:48:50] ysgwydd: gg
+[21:49:50] nyanners: gg
+[21:49:50] angborxley: gg
+[21:58:29] tristanbrown17: yea
+[21:58:29] tristanbrown17: just lost the thread in that one
+[21:58:29] tristanbrown17: very, very frustrating
+[22:02:17] qrs: Thanks for watching and thanks for the game @Tristan
+[22:02:17] qrs: Best of luck for you guys in the remaining season
