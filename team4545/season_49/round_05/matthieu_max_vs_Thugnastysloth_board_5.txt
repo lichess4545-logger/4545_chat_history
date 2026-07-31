@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/VmJHHBlA
+White     : matthieu_max
+Black     : thugnastysloth
+Time      : 45+45
+Captured  : 2026-07-31 00:11:08 UTC
+Game ended : 2026-07-30 22:51:06 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[21:04:36] spacebaristaken: woooo go matthieu
+[21:05:52] spacebaristaken: Kind of excited to watch this game, I have been strictly d4 since I was rated 1200. I know literally no theory for the Spanish
+[21:06:38] spacebaristaken: 9.. h3 seems like what you would do though I think? Not familar with the Ne7 line black has opted for though
+[21:13:16] spacebaristaken: I wonder what the intention behind Ng5 is
+[21:16:19] spacebaristaken: Dang, two pieces for a rook is usually good for the side who loses the rook. I don't see anything after eith Kg8 or Qf6 to block the check
+[21:31:36] spacebaristaken: (16..) I don't know what I'm playing here as black, Nd4 looks good to centralize the knight, bishop can't take or the queen falls,
+[21:31:52] spacebaristaken: Bh3 doesn't appear to do anything yet
+[21:32:52] spacebaristaken: Not sure what white's plan should be, opening the center is probably going to be best to let his extra rook shine
+[21:50:46] spacebaristaken: I guess I'd probably play Bxd4, and after exd4, play c3, but black can just not respond to that I think and keep the position kind of closed
+[21:52:48] spacebaristaken: If I'm black I'm doing everything I can to get a rook lift in
+[22:16:46] spacebaristaken: White now has a clear advantage if he can get down to a pawn endgame, even just getting the queens off the board would drastically help
+[22:17:01] spacebaristaken: I'd be seriously considering g3 at some point and just sending the pawns forward
+[22:20:04] spacebaristaken: wow i think allowing f4 was a serious concession
+[22:20:34] spacebaristaken: I think black just wanted the output on d4, but I don't think it was worh it
+[22:20:34] spacebaristaken: outpost*
+[22:23:06] spacebaristaken: (26) Rf3 Nd4 Rh3?
+[22:23:38] spacebaristaken: queen moves away then ready for f5
+[22:24:08] spacebaristaken: a4 might be a good prophylatic move just to shuw down counter play on the queen side
+[22:27:27] spacebaristaken: g4 is some big ball energy for sure
+[22:31:31] spacebaristaken: Does (28) b3 hang g4?
+[22:32:32] spacebaristaken: No I don't think so, Qxg4, Rg1 or Rg2 and I think maybe white wins a piece
+[22:33:02] spacebaristaken: I should be a chess commenator the way I'm carrying this spectator room
+[22:33:48] spacebaristaken: (29) Rg1 seems good, just preparing to keep pushing
+[22:35:50] spacebaristaken: (29) no idea why black can't take after g5. Maybe worried about getting attacked down the g file or maybe I'm missing something
+[22:43:58] spacebaristaken: (31) I'd hate to be black right now
+[22:50:20] spacebaristaken: (35) Qxd6, threatening mate on f8
+[22:50:35] spacebaristaken: Dang I actually didn't see the promotion lmao
+[22:50:35] matthieu_max: ggs
+[22:50:35] spacebaristaken: I thought white blundered there. Ggs guys!
+[22:51:21] matthieu_max: was really a huge mistake early on trading a knight and bishop for rook
+[22:51:36] spacebaristaken: Yeah but you honestly played super well after that
+[22:52:22] matthieu_max: it was a do or die thing. If I blundered anything after that, might as well resign
+[22:53:23] matthieu_max: but I was shocked black didn't took on (30) ... Qxg5
+[22:56:25] matthieu_max: but I do agree with you that two pieces for a rook is usually good for the side who loses the rook
+[22:56:40] spacebaristaken: Looks like black really needed to snag g5 on either (30) or (31)
+[22:56:56] matthieu_max: I was thinking that I might win later in the endgame with the rook and extra pawn
+[22:57:26] matthieu_max: yeah I agree, black should have taken the pawn
+[22:58:58] spacebaristaken: I hate being in positions where my opponent is just rolling me over with his pawns, you made it really tough to play for black,
+[22:59:28] matthieu_max: Well everybody hates a good pawn storm TT
+[23:00:14] spacebaristaken: I'm sure those knights were annoying to deal with, I think you definitely made the right call taking one of them and found the best follow u
+[23:00:44] matthieu_max: Yeah totally, the knights was nightmare since they had a really good post
+[23:01:15] spacebaristaken: Kh1 was a hard move for me to spot, I probably would have lost right there
+[23:01:45] matthieu_max: I spent 20 minutes there because I thought that the position is very dangerous
+[23:02:00] matthieu_max: In your opinion, what would you do there?
+[23:02:46] spacebaristaken: Probably Rf2 and give up the extra rook for the two powerful kngiths
+[23:03:16] spacebaristaken: Oh wait that doesn't even work lol
+[23:03:47] matthieu_max: I thought the same too, but his knight worth much more than just a rook
+[23:03:47] spacebaristaken: Maybe it does, but you're also going to drop a pawn i think. If  I saw Kh1, that's what I would have played
+[23:04:02] spacebaristaken: I don't thik I would have seen it though, I genuinely would have probably lost right there.
+[23:05:03] matthieu_max: Well if Rf2, Nh3 would have been the move no?
+[23:06:04] matthieu_max: Do you usually prepare against an opponent?
+[23:06:20] spacebaristaken: Oh yeah, even at my lowly 1500 level I always prep with openingtree
+[23:06:50] spacebaristaken: And Nh3 looks good according to the engine, but worse than Ne2, you don't actually win an excahnge with Nh3 because the queen hangs
+[23:07:51] matthieu_max: yeah agreed
+[23:08:21] spacebaristaken: I always sort my opponents openings by rated only, classical, rapid, and sometimes blitz but not always, then I try to only look at
+[23:08:37] spacebaristaken: their last six months of games, depending on how many are available and what variations they have on file
+[23:08:52] matthieu_max: Nah 15000 is not that low tho? also interesting to know how you prep aginst an opp
+[23:09:37] spacebaristaken: Well it's low for Lichess kind of, on Chesscom I'm in the top like 15%, but on here I'm only like top 50%
+[23:09:53] spacebaristaken: So not like terrible, but I have a lot to learn and I miss a lot of stuff for sure
+[23:10:23] matthieu_max: Welp iI think its good that we're playing classical since we can train more on that
+[23:10:38] spacebaristaken: A lot of people online will tell you you don't need to worry about openings until 2000, but I have always disagreed with that
+[23:10:53] spacebaristaken: Daniel Naroditsky did too actually, I think he said something along the lines of yeah, don't spend all your time there, but if you want a
+[23:11:09] spacebaristaken: good position out of the openign, then you should work on opening prep
+[23:11:24] matthieu_max: In a way he's quite correct, since look at my opening there
+[23:11:39] matthieu_max: but my endgame totally saved me
+[23:11:55] matthieu_max: but it does not mean you should avoid it no?
+[23:12:26] spacebaristaken: No not at all, I spend quite a bit of time on openings when prepping. I pretty much only do puzzles and opening studying.
+[23:12:41] spacebaristaken: Hanging Pawns on YouTube has really good theory videos
+[23:13:12] spacebaristaken: I say once your past hanging pieces in one move, then you can spend time learning openings
+[23:13:27] spacebaristaken: And we're both above that of course
+[23:13:42] matthieu_max: XD you're not wrong on the hanging pieces part
+[23:14:28] spacebaristaken: I think there is a line though, you don't need to learn 20 moves of theory deep because your opponnents are going to leave theory before
+[23:14:43] spacebaristaken: Maybe like 8 moves is a pretty good target to have for memorization
+[23:14:58] matthieu_max: hmm maybe?
+[23:15:13] matthieu_max: also when you will have your match?
+[23:15:28] spacebaristaken: Mine is Sunday at 16:00 UTC
+[23:16:14] matthieu_max: plenty of time to prepare then\
+[23:16:14] matthieu_max: that's good
+[23:16:44] spacebaristaken: Yeah, haven't even looked to see what my opponnet plays against d4. I usually prep the night before or morning of, depends what I'm feeling
+[23:17:45] matthieu_max: all the best then !
+[23:17:45] spacebaristaken: Thanks and ggs again!
