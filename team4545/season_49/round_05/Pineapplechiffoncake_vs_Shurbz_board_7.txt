@@ -1,0 +1,132 @@
+Lichess game chat log
+Game      : https://lichess.org/pY6ECqRA
+White     : pineapplechiffoncake
+Black     : shurbz
+Time      : 45+45
+Captured  : 2026-07-31 17:19:34 UTC
+Game ended : 2026-07-31 15:59:33 UTC
+Messages  : 122
+────────────────────────────────────────────────────────────
+
+[13:56:44] versaumnisgrund: Go Pineapple!
+[13:58:31] shurbz: out of book now
+[13:58:46] shurbz: more of a handout than a book really
+[13:59:16] blang316: Go Pineapple!
+[13:59:32] shurbz: from what I could tell that pawn isn't really all that free in this line based on my quick review
+[14:00:33] shurbz: it seems like it would be sort of painful to develop for white with this c3 move.
+[14:00:33] jfiras: Good luck Pineapple !
+[14:00:48] shurbz: hello crowd
+[14:01:18] cinemashow: (6...O-O) go Pineapple!
+[14:10:16] shurbz: I played a 60|30 game yesterday where by move 10 we were both under 25 min on our clocks. Am I playing fast as a rejection of that?
+[14:10:16] guitarspider: go pineapple
+[14:11:33] shurbz: my internal evaluation is that this is somewhere around =
+[14:13:20] guitarspider: probably accurate
+[14:15:21] shurbz: b4 cxb ba6 b5, so instead Qb6 first then Bg5 b4 c4?
+[14:16:38] shurbz: so the idea with ba6 is not going to work
+[14:29:06] cinemashow: (11...Nc6) is e5 playable here?
+[14:29:06] shurbz: 12.. e5 might be a good move? lets say n1d2 e5 then the c2 bishop is sort of dead
+[14:29:22] cinemashow: (11...Nc6) and a greek gift?
+[14:30:07] cinemashow: (12.Re1) e5 Nd7 Bxe7 Nxe7 Bxh7+
+[14:30:07] shurbz: so here white should play e5
+[14:33:10] cinemashow: (12...e5) Re1 night have been too slow, allowing Black to get in ...e5 himself
+[14:35:43] cinemashow: (13.Nbd2) ideas possibly to get a rook on the b-file and open it up
+[14:35:58] cinemashow: (13.Nbd2) and/or get a knight to d5, though that takes ages now
+[14:36:29] cinemashow: (13.Nbd2) Nc3 would have been good but not legal
+[14:37:16] berndwind: go pineapple!
+[14:37:31] cinemashow: (13.Nbd2) and c4 not currently possible because of Nd4
+[14:39:02] shurbz: candidates are b4 (maybe to forcing but interesting) h6 (offer to trade good bishop for knight), R*b/c/d/e8
+[14:40:35] berndwind: I would be very happy to see b4 as white!
+[14:41:21] berndwind: this too. just retreat and live a happy bishopy life
+[14:41:51] berndwind: actually either square looks interesting
+[14:44:39] shurbz: to make b4 Nd4 easier I need to defend the e pawn
+[14:46:56] shurbz: did I type nc4 when I meant nd4 lol
+[14:49:44] shurbz: So this loses the e pawn but is that something I should pursue?
+[14:50:15] shurbz: evaluation wise the bishop being bad is good for me
+[14:50:30] berndwind: hmm very tricky pineapple
+[14:50:45] berndwind: yeah black can “win” the e pawn
+[14:51:16] mongreltiger: Go Pineapple Go!
+[14:51:31] shurbz: but lets say b4 nf5 makes bxh6 look reasonable
+[14:51:31] berndwind: but then the c pawn will be under attack
+[14:54:35] shurbz: does this even lose the pawn? Nxe4 Bxh6 Bxh4 Qxe4 Bxf2 Kxf2 gxh6
+[14:54:35] shurbz: so yes but the king has no clothes
+[14:56:07] shurbz: there is also Nxe4 Bxh6 nxd2 and there it all works out
+[14:56:53] berndwind: I wasn’t even looking at Bxh6. I’d just take back.
+[14:57:08] berndwind: black can have the knight on the edge, white wins the c pawn with tempo
+[14:57:23] berndwind: exactly
+[14:57:38] berndwind: that’s what I would play
+[14:58:09] shurbz: and there you go the blindspot in my visualization
+[14:58:39] berndwind: Nx looks good here
+[14:59:26] guitarspider: Qg4 also interesting
+[14:59:42] berndwind: ooh I like Qg4
+[15:01:13] guitarspider: I think Qg4 would have been quite dangerous, but this can still be difficult for Black.
+[15:02:29] guitarspider: Again Qg4 or Nd6 maybe?
+[15:02:29] shurbz: maybe Nxc5 would have been even better but I'm giving the b pawn for fun
+[15:02:45] jfiras: (17...Qc7) Nd6 and Qe4 ?
+[15:04:32] versaumnisgrund: Qg4 looks very good
+[15:05:18] cinemashow: (17...Qc7) must be close to Too Winning
+[15:05:33] cinemashow: (17...Qc7) aka too many good choices
+[15:06:34] cinemashow: (18.Nd6) Nxf7 now possible too
+[15:08:05] versaumnisgrund: Qg4 Qd1 Nd4 Re7 Nf5 for example
+[15:08:21] jfiras: (18...Re6) Qg4 was better i think
+[15:08:21] shurbz: creative way of attacking but I'm not sure if it was best, feels like this was a playing with pretty pieces moment
+[15:08:51] cinemashow: (18...Re6) why not Nxb7 Qe4?
+[15:10:07] guitarspider: that's a real threat, yeah
+[15:10:23] cinemashow: (19.Nf5) after Nxb7 f8 is guarded
+[15:11:24] versaumnisgrund: Nxb7 Qe4 you are right
+[15:11:54] guitarspider: I think that would have been straight up winning
+[15:12:55] guitarspider: this is a lot less clear, I'm not sure what Nf5 does
+[15:13:26] shurbz: maybe I'll do better calculating Nd4 here than the last line I tried to calc
+[15:15:44] cinemashow: (19...Nd4) danger
+[15:17:16] cinemashow: (19...Nd4) eg Rg6 and/or Qc6
+[15:19:18] versaumnisgrund: I dont know who will come out on top after the complications
+[15:20:04] cinemashow: (21.Qg4) Nf5 was a slow move that you can't really afford in sharp positions
+[15:20:19] guitarspider: could be either, but it looks easier for Black now
+[15:20:34] guitarspider: yes, Nf5 is the kind of move that looks good but doesn't do much.
+[15:20:50] guitarspider: and this needed a concrete solution
+[15:21:35] versaumnisgrund: Is there a better solution, than to give two pieces for the rook?
+[15:21:51] guitarspider: Rg6 Nxh6 maybe
+[15:22:21] versaumnisgrund: Rxh6 covers the bishop
+[15:22:52] versaumnisgrund: Ne7+ Bxe7 Bxg6
+[15:24:08] guitarspider: maybe you can play Rg6 Qxh4 too based on the Ne7 trick but you'd have to check very carefully, probably just losing.
+[15:24:54] versaumnisgrund: Yes, maybe you can survive Qxh4
+[15:25:09] shurbz: I've been trying to figure out Rg6 Ne7 Qxe7 Bxg6 Qg5 Qxg5 Bxg5 Bd3 (or other square) leaving with BBR vs RRB
+[15:25:24] guitarspider: but probably I'd try Rg6 Nxh4, you get rook and piece for the queen. that seems like the best chance.
+[15:26:25] shurbz: but there is Rg6 Ne7 Qxe7 Rxe7 Rxg4 rxb7
+[15:26:40] guitarspider: although then Rg6 Qxg6 might be a preferable move order
+[15:27:11] cinemashow: (21.Qg4) Rg6 Qxh4 Rxh2+ Kf1 Qh2 must be the end
+[15:28:43] cinemashow: (21...Rg6) maybe the king can run to the qside
+[15:29:44] shurbz: also Ne7 Bxe7 Bxg6 fxe6 qxe6
+[15:32:48] ysgwydd: (21...Rg6) This looks dangerous.
+[15:33:19] guitarspider: (21...Rg6) I still think Qxg6 would be best
+[15:33:34] guitarspider: (21...Rg6) and probably a bit of a shock to Shurbz because it sounds like he hasn't considered it
+[15:35:21] shurbz: I should focus my calc on shorter and broader lines etc etc
+[15:35:36] versaumnisgrund: I'm still calculating Qxh4
+[15:36:06] versaumnisgrund: Maybe white has the ressource Ne7 to block the e file from rook checks
+[15:40:41] shurbz: kf8 was the key resourece I guess
+[15:40:57] guitarspider: (24.Qxd4) the problem with Qxh4 is: if you miss anything you're toast instead of cake
+[15:42:59] shurbz: bishops op
+[15:43:14] cinemashow: (24...Bc5) Qg4 Rad1
+[15:43:44] shurbz: its not over though, white has some juice I think
+[15:45:01] shurbz: qd2 qf3 kf1 qxg1 ke2 and more to calc
+[15:45:01] cinemashow: (24...Bc5) Black could have been tricky and played Qc6 first hoping for f3??
+[15:52:56] akristjansson: Good luck both!
+[15:53:42] guitarspider: (26...Rf3) uh
+[15:54:12] shurbz: I'm getting way to cute
+[15:55:13] cinemashow: (26...Rf3) do we have Qxg6 threat Re8?
+[15:55:13] guitarspider: (26...Rf3) yes, I think so
+[15:55:13] guitarspider: (26...Rf3) this can't be the way to play for Black
+[15:56:45] cinemashow: (26...Rf3) or even gxf3?
+[15:57:16] shurbz: this game is making me feel sick
+[15:57:31] guitarspider: (26...Rf3) I'vebeen trying to check, probably possible too, but much more complicated
+[15:57:46] guitarspider: (28.Kf1) I have to go play my Lone Wolf game, good luck pineapple!
+[15:59:33] cinemashow: oops
+[15:59:33] versaumnisgrund: gg
+[15:59:48] cinemashow: what a game
+[16:00:03] cinemashow: gg with a chaotic ending!
+[16:00:18] pineapplechiffoncake: Sorry guys. I cracked under pressure!
+[16:00:34] cinemashow: easy to do
+[16:01:19] cinemashow: been there, done that, got the T-shirt
+[16:04:53] cinemashow: so 22..Qxh4 was in fact the only move to stay equal, with the king indeed running away - how complicated
+[16:05:09] cinemashow: 22...Ne7+ 2nd best
+[16:12:30] shurbz: That line from the engine I would have never seen  Kd3!
+[16:13:01] shurbz: Thats a crazy move
