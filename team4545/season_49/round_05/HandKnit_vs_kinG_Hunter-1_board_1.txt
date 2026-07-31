@@ -1,0 +1,132 @@
+Lichess game chat log
+Game      : https://lichess.org/dNoTOFzD
+White     : handknit
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-07-31 19:53:57 UTC
+Game ended : 2026-07-31 18:33:55 UTC
+Messages  : 122
+────────────────────────────────────────────────────────────
+
+[17:00:06] handknit: (2.c4) Time to see if black has prepared anything for me or is just playing the usual
+[17:00:36] handknit: (2.c4) I was at first thinking about playing the averbakh, if black plays the usual, but when I reviewed it I remembered...
+[17:00:36] handknit: (2.c4) There's a particular line that I think is just neither good nor fun for white
+[17:01:37] handknit: (2...d6) So not the usual
+[17:01:52] handknit: (3...e5) Let's see how this goes
+[17:02:38] handknit: (5.e4) Let's play an Old Indian, then
+[17:04:55] handknit: (8.Be3) Non-zero chance I'm on my way to blundering a pawn because that's what I do
+[17:05:41] handknit: (8.Be3) I think I've already placed my pieces as if I have a B on g2, not e2
+[17:09:59] handknit: (9.O-O) We've ended up in a bit of a mainlineish KID, which I would standardly want to avoid
+[17:10:15] handknit: (9.O-O) Need to think about how I want to deal with the centre
+[17:10:30] handknit: (9.O-O) Having played h3 without g3, the h3 pawn is quite a worrisome button if I close the middle
+[17:10:45] handknit: (9...Qe7) But if black plays Re8, what else do I have?
+[17:11:00] handknit: (9...Qe7) Qe7, on the other hand... what then?
+[17:11:31] handknit: (9...Qe7) Nd5 ideas join the party
+[17:11:31] handknit: (9...Qe7) c5 ideas
+[17:12:01] handknit: (9...Qe7) So the big point of black's play is to take on d4 and target e4
+[17:12:16] handknit: (9...Qe7) I guess I should resolve that
+[17:12:16] handknit: (9...Qe7) I should probably focus more on not immediately losing
+[17:12:32] handknit: (9...Qe7) Anything after that, through the run of play, I just make moves and get a game
+[17:14:19] handknit: (9...Qe7) Okay so what if I take on e5
+[17:14:35] handknit: (9...Qe7) It's not a very "for advantage" move but it is a "well, I'm out of prep, let's not lose" move
+[17:15:51] handknit: (9...Qe7) So if I play Nd5 and black just plays Qd8, leaving e4 under attack
+[17:15:51] handknit: (9...Qe7) I don't want to take on f6, letting black refill the N
+[17:16:21] handknit: (9...Qe7) Let's go the coward's way
+[17:16:52] handknit: (10...dxe5) Okay. Now f5 ideas are not so scary because the centre is open
+[17:18:08] handknit: (11.Nd5) I figure, why allow c6
+[17:18:54] handknit: (11.Nd5) The goal is to recapture cxd5 and then be able to press down the c-file
+[17:19:55] handknit: (11.Nd5) New question: which rook do I want on c1?
+[17:20:56] handknit: (11...Qd8) So here I started to wonder if I could go after e5
+[17:21:41] handknit: (11...Qd8) Maybe just Qc2, with the idea that i meet c6 my taking on f6 and going after the d6 square
+[17:21:57] handknit: (11...Qd8) c5, Nd2, Nc4
+[17:22:58] handknit: (11...Qd8) is Qc2 Nh5 something to care about?
+[17:24:14] handknit: (12...c6) Do I even take on f6? Maybe I just go back
+[17:25:46] handknit: (12...c6) Kinda wonder if I wanna trade so I can get in c5 before black plays b6
+[17:30:21] handknit: (15.c5) Okay, so I can't just go Nd2-Nc4 just yet. Maybe double rooks first?
+[17:30:36] handknit: (15.c5) b3-a3-b4 another idea
+[17:30:51] handknit: (15.c5) Though I kinda like black's queenside pawns staying on for now
+[17:31:07] handknit: (15.c5) They seem like potential targets
+[17:32:38] handknit: (15.c5) Rac1 to overprotect c5, move the queen... somewhere
+[17:33:09] handknit: (15.c5) Rac1, a4, Nd2-Nb3, Bd2
+[17:33:09] handknit: (15.c5) Feels like a lot
+[17:33:39] handknit: (15.c5) One of the things going on here is that if I move my N, black gets Bg5
+[17:34:10] handknit: (15.c5) Plan might be to just make some very simple moves and see if black gets themselves into trouble.
+[17:34:25] handknit: (15.c5) Looks like they have a decently simple path, though
+[17:34:40] handknit: (15.c5) Rd8, Nf8, Ne6, Nd4
+[17:35:11] handknit: (15.c5) Maybe then I get to be fast with Nd2-Nc4
+[17:36:27] handknit: (15.c5) Let's get some music going
+[17:36:58] handknit: (15.c5) Feeling on the short side of experience here. Haven't played much classical KID from the white side
+[17:37:28] handknit: (15...Re8) Okay, this looks like the Nf8 plan
+[17:37:43] handknit: (15...Re8) Though a little bit kinder to white, with the R on e8 for Nd6 (maybe)
+[17:38:46] handknit: (15...Re8) Bg5 to trade the DSBs can really leave d4 vulnerable
+[17:42:19] handknit: (15...Re8) Seems like b3-a3-b4 might be best just because it keeps control of g5 and d4
+[17:43:35] handknit: (16.b3) I also have to be wary of my rook being drawn away from d4
+[17:46:23] handknit: (16.b3) There's a question of what the eval is after 16...Nf8 17.a3 Ne6 18.b4 axb4 19.axb4 Rxa1 20.Rxa1 Nd4 21.Bxd4 exd4 22.Bd3
+[17:46:38] handknit: (16.b3) black gets the bishop pair but I think white keeps a slght end in space
+[17:46:54] handknit: (16.b3) The N on f3 seems to be enough to shut down a kingside attack from black
+[17:46:54] handknit: (16.b3) The R on a1 has ideas on a8 or a7
+[17:47:25] handknit: (16.b3) There's some kind of e5 idea to trade or take space
+[17:47:40] handknit: (16.b3) Don't like leaving the d4 passer as much as it is initially controlled
+[17:47:55] handknit: (16...Nf8) But is there anything else?
+[17:49:11] handknit: (16...Nf8) And if I just double on the d-file?
+[17:49:57] handknit: (17.Rd6) This seems a bit more fundamental
+[17:49:57] handknit: (17.Rd6) Why solve the problem of black's queenside rook?
+[17:50:27] handknit: (17.Rd6) There's slight cheese against Rd8, of course
+[17:52:14] handknit: (17.Rd6) Maybe this means 16.b3 was a wasted move
+[17:53:45] handknit: (17.Rd6) I would love to have a way to just kinda keep the game going for a bit
+[17:55:47] handknit: (18...Qf8) So what natural improving moves do I have from here?
+[17:56:02] handknit: (18...Qf8) Do I have space for Nd2-nc4 now?
+[17:56:18] handknit: (18...Qf8) Oh, I guess black wants to play Be7 and take on c4
+[17:56:48] handknit: (18...Qf8) I almost wonder if I can play Nxe5 then
+[17:57:03] handknit: (18...Qf8) Also a cheeky idea: Qc1 to meet Be7 with Bh6
+[17:57:49] handknit: (18...Qf8) Bc4 with a sacricice on e6 also an idea
+[18:02:39] handknit: (19.R6d2) Move the rook out of the potential attack, get a tempot for Nxe5
+[18:02:39] handknit: (19.R6d2) Rc1 also there as a fallback
+[18:03:39] handknit: (19.R6d2) Maybe have to go a3-b4 to properly defend c5
+[18:04:25] handknit: (19.R6d2) Got some deeper ideas of Ne5-Nd7 and targeting f7
+[18:05:41] handknit: (19.R6d2) Maybe I at minimum want a3 on the board to play b4 when necessary
+[18:06:12] handknit: (19.R6d2) The endgame where I play a4 and Bd2 seems... far away
+[18:06:42] handknit: (19.R6d2) One of the reasons it's worth not rushing is that black still has some space issues
+[18:06:58] handknit: (19.R6d2) The B on c8 and R on a8 still aren't solved
+[18:07:43] handknit: (19.R6d2) If I do get a3-b4, and keep the N on the board, it does seem like nd2-Nc4 keeps most of its punch
+[18:09:00] handknit: (19.R6d2) I do think, from a broader view, I really haven't do a good job of using the c4 square
+[18:09:15] handknit: (19.R6d2) So there was probably a better idea for me somewhere
+[18:10:16] handknit: (19.R6d2) I could play Nh2 and provoke h5 but that doesn't seem to do anything
+[18:12:03] handknit: (19.R6d2) I think any objective advantage from 10 moves ago is probably gone by now but:
+[18:12:18] handknit: (19.R6d2) this seems to be doing okay from a "so what now?" perspective of making black sweat
+[18:12:33] handknit: (19.R6d2) practical advantages of having more space, I guess
+[18:14:05] handknit: (19.R6d2) now playing is heroes del sabado by MODA
+[18:14:05] handknit: (19...Be7) great track
+[18:14:20] handknit: (19...Be7) Okay. So do I take on e5 or do I play Rc1?
+[18:15:05] handknit: (20...Bxc5) Okay, this was the more trying move, I thought
+[18:15:05] handknit: (20...Bxc5) I can take or I can play Nd7
+[18:15:21] handknit: (20...Bxc5) on taking, e4 is quite soft
+[18:16:22] handknit: (20...Bxc5) Ng4 is kind of an idea here too, go after f6
+[18:17:39] handknit: (20...Bxc5) Even Nc4 and Nxe3
+[18:20:26] handknit: (21.Ng4) Bxe3 Nf6+ is quite tough to calculate
+[18:22:28] handknit: (21.Ng4) It's worth appreciating that the B/c8 and R/a8 are still locked, however temporary
+[18:22:28] handknit: (21.Ng4) Makes it harder for black to initiate things
+[18:24:15] handknit: (21...Qe7) So two moves that immediately jump out: Qc3 and e5
+[18:24:30] handknit: (21...Qe7) Maybe Qb2 isnstead of Qc3 to avoid Bb4
+[18:24:30] handknit: (21...Qe7) ah, not a concern because of Nh6#
+[18:25:01] handknit: (21...Qe7) Qc3 looks very strong, basically sanity checking now
+[18:27:18] handknit: (22.Qc3) Feels like a bit of a Switchblade match
+[18:27:33] handknit: (22.Qc3) Not a ton of great offence, but a lot of technical prodding then a counter
+[18:29:50] handknit: (22.Qc3) Playlist now on Josie by Blink182
+[18:29:50] handknit: (22.Qc3) Memories of youth
+[18:30:05] handknit: (22.Qc3) Really hope black doesn't uncork something I just blanked on here
+[18:30:36] handknit: (22.Qc3) Maybe need to focus in a bit if I am forced to actually convert this, even if I didn't miss a total solution
+[18:32:23] handknit: (22.Qc3) The chorus of "I know that everything-know that everything-know that everything's gonna be fine" is nice and reassuring right no
+[18:33:09] handknit: (23...Bxh6) oh
+[18:33:09] handknit: (23...Bxh6) failed the sanity check
+[18:33:09] handknit: (23...Bxh6) lol
+[18:33:24] timothyha: gg
+[18:33:55] handknit: Yeah Nf6+ is just ballgame
+[18:33:55] handknit: careless careless
+[18:34:10] king_hunter-1: I’m even a little ashamed of a victory like this
+[18:34:25] handknit: so it goes
+[18:35:11] king_hunter-1: By the way, when I was calculating ...Nh6 in the variations, I also couldn't spot ...Bxh6 for a long time
+[18:35:26] handknit: me neiether, obviously
+[18:35:56] handknit: Well, I guess I say I made the right decisions prior to that just go next
+[18:37:12] king_hunter-1: You did rush things a bit; I thought I was done for after Nf6
+[18:38:44] king_hunter-1: Damn, it turns out I was vastly overestimating my position; I didn't realize my position was that bad after the opening.
