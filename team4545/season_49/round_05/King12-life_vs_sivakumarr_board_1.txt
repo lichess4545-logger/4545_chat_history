@@ -1,0 +1,155 @@
+Lichess game chat log
+Game      : https://lichess.org/A11eXMoI
+White     : king12-life
+Black     : sivakumarr
+Time      : 45+45
+Captured  : 2026-07-31 16:29:48 UTC
+Game ended : 2026-07-31 15:09:41 UTC
+Messages  : 145
+────────────────────────────────────────────────────────────
+
+[12:04:17] king12-life: (7... Nc6) ohhh main line let's go
+[12:06:35] king12-life: (10... Qd8) Nooo no Bxb4 :((
+[12:07:51] king12-life: (12... Bg6) The bishop usually goes to h7 but it probably doesn't matter much
+[12:08:38] king12-life: It could matter as I could play Nh4 after Nge7 now
+[12:09:24] oupwo: yo
+[12:13:44] king12-life: (14. Nh4) Let's pair this with f4
+[12:17:33] pineapplechiffoncake: Go king12!
+[12:19:51] pwlayer: King12 on top
+[12:21:38] duty5521: yep
+[12:21:38] duty5521: Go King12!
+[12:22:09] soulamethyst: go King12 !
+[12:22:24] oupwo: ooh I am surprised Nh4 was played. then it must be the correct move to help with the black knight
+[12:22:54] duty5521: I think it's to taret the g6 bishop
+[12:23:40] duty5521: But taking in case of Nf5 seems like the other idea
+[12:24:11] duty5521: I want to go crazy and play Nxf5 Bxf5 g4 Be4 f5
+[12:24:42] duty5521: well
+[12:24:42] king12-life: (17. g4) I'm kinda slow after lunch to take a decision xd
+[12:24:57] duty5521: Bh7 doesn't seem ambitious
+[12:25:12] oupwo: btw I'm gonna have my lunch. might be back in an hour for the late game
+[12:25:27] duty5521: f5 still looks steamrolling
+[12:27:15] pwlayer: I mean f5 is likely winning yeah
+[12:27:15] pwlayer: You seal the black bishop forever and get space
+[12:27:31] finerik: Go King12!
+[12:28:47] pwlayer: eh King12 cook him :)
+[12:29:02] duty5521: lowkey f6 somehow
+[12:29:02] pwlayer: Idk
+[12:29:17] pwlayer: F6 has to be carefully thought on
+[12:29:17] duty5521: yes
+[12:29:33] pwlayer: You bring the lsb back to liee
+[12:29:33] pwlayer: *life
+[12:30:03] soulamethyst: why is sivakumarr playing so fast ?
+[12:30:19] pwlayer: Because he got nothing to do
+[12:30:19] pwlayer: As of rn, king12 is controlling the position, not him
+[12:30:34] pwlayer: He can only wait and see
+[12:30:34] duty5521: wait
+[12:30:34] duty5521: doesn't f6 simply win a pawn
+[12:31:04] duty5521: I mean it's the h6 pawn so it's still a hard decision because the king is kind of weak
+[12:31:04] pwlayer: Mhm idk
+[12:31:20] pwlayer: I mean he can wait for f6
+[12:31:20] duty5521: oh there's simply Bg6
+[12:31:20] duty5521: duh
+[12:31:20] pwlayer: Opponent can't prevent it
+[12:31:20] pwlayer: Just prépare it better
+[12:32:51] duty5521: the question is what do you do now
+[12:35:09] soulamethyst: can't King12 play Bd8 .. a4 ?
+[12:36:25] king12-life: (20. Rf2) I don't see a way to initiate an attack or to take control of the position for now unfortunately
+[12:36:25] king12-life: Though I'm at least ahead in terms of development
+[12:36:40] king12-life: And I have space advantage
+[12:38:27] duty5521: oh Rf2
+[12:38:27] duty5521: yeah
+[12:39:28] soulamethyst: why Rf2 ?
+[12:40:45] duty5521: to double the rooks on the f file
+[12:41:46] king12-life: (21. Raf1) Bg6 Bd1 for Bc2 looks nice
+[12:42:47] duty5521: that or g4
+[12:42:47] duty5521: h4
+[12:42:47] duty5521: i mean
+[12:44:19] iwishiweredecent: having trouble believing this started as a Caro Kann lol
+[12:47:52] duty5521: true
+[12:49:39] king12-life: (23... Be8) Okay this is starting to look good, but how to make progress
+[12:51:27] duty5521: Be8 doesn't look appetizing
+[12:51:58] duty5521: do you go for an attack on the queenside now since there was long castle
+[12:52:14] duty5521: with a4 or something
+[12:52:44] duty5521: oh a4 was played i was still on Be8
+[12:54:01] king12-life: (25. a5) Space advantage :D
+[12:55:02] king12-life: (25... Rc8) Oh sneaky threat
+[12:55:02] king12-life: Though was about to play Na4 anyways
+[12:55:17] king12-life: Maybe still kinda works though
+[12:58:51] king12-life: (26. Na4) It just feels like black has no moves other than going for Nxb4 and hoping for the best
+[12:59:37] king12-life: Though Nxb4 cxb4 c3 Qd3 Bxb4 Rb1 Bxa5 Nc5 looks good, so a5 couldn't be taken and it gets annoying
+[13:23:02] king12-life: (31. Na4) It is very difficult to find a plan to make progress. My current idea is to go Be1 and try to push h4 somehow
+[13:23:17] king12-life: I want to keep Nc5 ideas to put pressure on the e6 pawn, hence Na4
+[13:24:03] king12-life: My bishop will stay on c2 and the queen might stay on c1, though Bg5 could be an issue
+[13:24:03] king12-life: Followed by Na3 to target my c2 bishop
+[13:26:05] king12-life: I was trying to bring my knight to g6 but it doesn't really seem doable because of Nxd4/Bxb4 c3 ideas...
+[13:28:38] king12-life: Maybe I could try Qa1 Be1 Nb2-d1-e3-g2-f4-g6 but that sounds just painful
+[13:28:54] king12-life: And I have to be aware of h5 at any moment
+[13:30:25] king12-life: (32. Rf3) That's actually a useful move that I overlooked, protecting the c3 square again, might help with Nb2 ideas
+[13:31:26] king12-life: Qa1 Bc1 Qb1 Bg6 might be a plan eh
+[13:31:41] king12-life: h5 kinda ruins everything though
+[13:32:58] king12-life: I might have to accept h5 h3 hxg4 hxg4 but that looks unnecessarily scary
+[13:33:13] duty5521: why not h5 h5
+[13:33:43] duty5521: h5 g5*
+[13:38:03] king12-life: (33. Be3) I think realistically, a good approach is Nc5 Bxc5 dxc5 and try to infiltrate via f8 (or f7 if the bishop moves)
+[13:38:18] king12-life: This requires a bit of preparation but I'll always have g5 if my opponent plays h5
+[13:38:33] duty5521: yes
+[13:39:04] king12-life: I'll likely play Qd2 and Kg1, R3f2 before (to avoid Bc6 after dxc5)
+[13:39:34] king12-life: Qd2 might not be necessary, allows Na3 for free and doesn't really bring anything
+[13:50:00] king12-life: (36. Qd2) I checked for 3-fold, when he played a6 my king was already on g2 so it's all good
+[13:58:09] king12-life: (40... Be8) Oh wait I didn't make any progress :)
+[14:03:45] king12-life: (41... Nxc3) ofc I forgot about the pawn smfh
+[14:06:03] iwishiweredecent: man that c pawn really seems to destabilize white's position
+[14:06:18] iwishiweredecent: the loss of the c pawn I mean
+[14:08:05] duty5521: yeah
+[14:09:22] iwishiweredecent: it felt really tied up like a Karpov game but now it feels like it is about to explode
+[14:11:25] king12-life: (46. Qc1) Maybe I can hope for something with Nc5, it can become a mess, I don't think Bg5 was necessary
+[14:14:28] iwishiweredecent: ugh... this is looking painful now
+[14:14:43] king12-life: (47. Nc5) I'm just gonna start trusting my intuition and play quicker, and see where that leads me
+[14:21:35] duty5521: This actually doesn't look that bad for White
+[14:22:06] duty5521: well it still does of course
+[14:22:06] duty5521: but not as much
+[14:22:21] duty5521: hm
+[14:22:21] duty5521: ah
+[14:22:51] duty5521: I was looking at Rxb4 Bxb5 axb5 Qa3
+[14:24:08] iwishiweredecent: yeah I was looking at Rxb4 as well
+[14:25:09] iwishiweredecent: 49. have to capture the rook or no?
+[14:25:24] duty5521: yes
+[14:25:24] duty5521: Rxe4 Nxe4 Qxc3
+[14:25:39] duty5521: For a pawn down White is doing very well
+[14:25:39] iwishiweredecent: then after Nb5 hitting the queen?
+[14:27:11] duty5521: I don't know, maybe Qc2 or something
+[14:29:13] king12-life: (51. Bxb5) Nc7 felt annoying otherwise
+[14:29:13] iwishiweredecent: wow I wasn't expecting that trade
+[14:29:43] iwishiweredecent: felt like the bishop being cemented on b5 would be too anooting
+[14:32:01] king12-life: (52. Rf4) Qf3 ideas potentially, also defends g4
+[14:39:39] king12-life: (53. Qf3) Calculated gxh5 Rxh5 Qf3 but Qg5+ looks -+
+[14:47:31] king12-life: (55. Kg3) Maybe should've went for Rf8 but didn't like it too much, might be a throw tbh
+[14:48:32] iwishiweredecent: Rf8 looked like the best plan.. to my eyes anyway, after everything is traded you snatch that e6 pawn
+[14:48:48] iwishiweredecent: becauase the king can't get to d7 to gurad it
+[14:50:50] iwishiweredecent: but i guess that would be knight vs bishop with pawns on opposite sides of the board
+[14:56:26] duty5521: what
+[14:56:57] duty5521: Kc7 white couldn't stop mate and taking the knight
+[14:57:13] duty5521: Qf2+ might be the best chance to be honest
+[14:57:43] iwishiweredecent: yeah but I don't see white surviving after trading queens and losing the h pawn if Qf2
+[14:57:58] duty5521: also
+[15:05:22] duty5521: repetition?
+[15:07:39] iwishiweredecent: isnt that mate?
+[15:07:39] duty5521: probably somewhere
+[15:07:55] iwishiweredecent: qf2+
+[15:07:55] duty5521: there's Ke4
+[15:08:10] iwishiweredecent: oh no Ke4
+[15:08:10] iwishiweredecent: yeah
+[15:08:10] duty5521: but yes it's mate afterwards
+[15:08:25] iwishiweredecent: damn my game started and I want to keep watching
+[15:08:25] duty5521: Re3+ Qd2+ Rc3
+[15:08:56] duty5521: ah there's Kc5 Kd6 oops
+[15:08:56] duty5521: But still mate
+[15:09:26] duty5521: Qf3+ Kd4 Qe3+ Kc4 Qc3#
+[15:09:41] duty5521: yep
+[15:14:31] iwishiweredecent: crazy game
+[15:14:31] sivakumarr: Well, mate was too much for me to calculate
+[15:14:31] iwishiweredecent: well played guys!
+[15:14:47] sivakumarr: But I found a queen, so good enough
+[15:16:33] sivakumarr: I'll note that I had rough theory up to f5 to know that Black is fine even if it looks ugly
+[15:17:19] sivakumarr: Missed my immediate chance to untangle though after 21...Bg6 (Be7 instead allows me to bring my d-rook to the kingside)
+[15:21:23] sivakumarr: Immediately made me passive, and I could only shuffle my king back-and-forth until White committed one way or another
