@@ -1,0 +1,23 @@
+Lichess game chat log
+Game      : https://lichess.org/5FAbHBFS
+White     : wachini
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-07-31 20:22:36 UTC
+Game ended : 2026-07-31 19:02:30 UTC
+Messages  : 13
+────────────────────────────────────────────────────────────
+
+[18:16:39] ng_life: 14... nxf3, I feel I might as well take, it avoids ne5 and probably the same trade but his pawns don't get messed up
+[18:17:56] ng_life: 15... c5 and if he takes, nxc5 pressure on lsb and if I take his pawns are further screwed up
+[18:23:01] ng_life: 18... ne6 if Qa4 rxc3 Qxd7 rxc1+ rxc1 nxd7 I win a piece
+[18:25:03] ng_life: if 19.b5 I think I can respond with d4?
+[18:25:48] ng_life: 19. Qf5 surprises me, not sure I get the point? Probably g6 and d4 both possible here
+[18:27:20] ng_life: he can't line up on the h7-b1 diagonal because I have g6
+[18:35:43] ng_life: 22. Qxe4 rxc1 rxc1 Qd2 re1 rd8... ?
+[18:39:02] ng_life: 24. rc2 ooooh I didn't see that, nice move
+[18:53:36] ng_life: (31) be5 might be strong here for white?
+[18:54:52] ng_life: 31. Qe4 seems a bit weak, Qxa3 Qxb7 Qxe3 Qxa6 bb6 threatening Qg1 mate and how does white respond?
+[19:02:30] ng_life: @wachini my notes are here if you'd like to analyze
+[19:04:02] ng_life: We played better than I thought, I thought I was getting a little too loosey goosey trying to make something happen at the end
+[19:04:02] ng_life: but the engine likes it
