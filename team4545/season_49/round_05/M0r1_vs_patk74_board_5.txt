@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/z3tHB2ZS
+White     : m0r1
+Black     : patk74
+Time      : 45+45
+Captured  : 2026-07-31 14:45:48 UTC
+Game ended : 2026-07-31 13:25:40 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[12:07:32] mennonite: Go M0r1!
+[12:25:37] mennonite: 19.f5 looks tempting
+[13:03:00] lou-e: Go M0r1!!
+[13:06:34] lou-e: I'm terrible at endgames but I think by some combination of 38. e5 and h3->g4 White may be able to win this
+[13:07:04] lou-e: Eventually you plonk your e-pawn on e7 where it will stay forever and ever
+[13:07:04] ysgwydd: (38.e5) Yeah I think this is winning
+[13:08:36] ysgwydd: (38...Bg4) Not that easy though
+[13:09:22] lou-e: Yeah in fairness I hadn't seen this idea
+[13:09:37] lou-e: Kf6 covers the e6 square, might be a move
+[13:09:37] ysgwydd: (38...Bg4) Kf6 bishop moves e6
+[13:09:52] lou-e: snap
+[13:10:07] ysgwydd: (38...Bg4) Black probably has to sack for g-pawn at some point
+[13:12:55] ysgwydd: (41...Bh3) Don't repeat please
+[13:13:26] ysgwydd: (42.e6) e6!
+[13:13:41] ysgwydd: (43.Kxe6) Yeah king takes is better
+[13:13:56] lou-e: Indeed, clever move. Now the queening square is dark
+[13:19:34] ysgwydd: (47.h3) Zugzwang
+[13:25:55] ysgwydd: gg
+[13:26:42] patk74: gg
+[13:27:58] lou-e: ggs
+[13:30:45] m0r1: I  lost too many opposite coloured bishop endgames to repeat the position on move 40. But I wanted to check if black maybe moves his bishop
+[13:31:00] m0r1: off the h3-c8 diagonal
