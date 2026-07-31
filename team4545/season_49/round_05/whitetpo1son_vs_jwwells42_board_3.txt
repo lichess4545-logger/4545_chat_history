@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/ixMfIeeV
+White     : whitetpo1son
+Black     : jwwells42
+Time      : 45+45
+Captured  : 2026-07-31 20:47:24 UTC
+Game ended : 2026-07-31 19:27:19 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[17:11:48] apocalyptias: Go Jeremiah Wesley!
+[17:12:04] okady: go jwels
+[17:14:21] guitarspider: (10.Be3) go jw
+[17:22:07] cham: wells wells wells
+[18:43:47] glbert: go jwwells42!
+[19:15:36] inter-temporal: (69.Be6) think he's got it
+[19:16:52] inter-temporal: (70.f5) no way to push the K off f8 without first trapping the N
+[19:17:08] inter-temporal: (70...Nh4) yeh he's got it
+[19:18:39] inter-temporal: (71...Nf3+) oh. that way?
+[19:19:26] cham: what do you mean he's got it
+[19:19:41] inter-temporal: (72...Nd4) maybe gets' the N to d8?
+[19:20:27] inter-temporal: (73...Nc6) i thought he had a draw after Ng6+ and Nh8
+[19:20:57] inter-temporal: (73...Nc6) it blocked out White's K, which seemed helpful
+[19:20:57] glbert: i thought he had a draw after Ng6+ and Ne7+ there.
+[19:21:28] inter-temporal: (74.Kf5) oh. maybe there too. lol
+[19:21:28] glbert: would probably still play Ne7+ now.
+[19:22:13] glbert: though maybe not a draw now. :thinking:
+[19:22:29] inter-temporal: (74.Kf5) Ne7+, Ke6 Ng8, f7 Nh6 should do it
+[19:22:44] glbert: yeah, true.
+[19:22:44] inter-temporal: (74...Ne7+) but if Ne7+, Kg5, then
+[19:23:45] inter-temporal: (75.Ke5) no matter. lol
+[19:25:01] inter-temporal: (75...Ng6+) hmmm
+[19:25:01] cutie_cup: I offer a draw
+[19:26:02] mtsundance: Shouldn’t 75 have Ng8?
+[19:26:48] glbert: i think that was losing after Bx.
+[19:27:19] inter-temporal: (79...Ne8) i think he's got it again.
+[19:27:19] glbert: yes.
+[19:27:19] glbert: good game, well played.
+[19:27:19] inter-temporal: gg
+[19:27:34] jcarmody: gg
+[19:27:34] cutie_cup: gg
+[19:28:20] inter-temporal: never in doubt. :)
+[19:28:20] cutie_cup: sir wellsington
+[19:28:36] cutie_cup: d5 not so bueno
+[19:28:36] cham: gg
+[19:28:51] jwwells42: true
+[19:29:36] jwwells42: i didnt really see that e5 was also dropping
+[19:29:36] jwwells42: calc over 1 ply still hasnt returned for whatever reason
+[19:29:52] cutie_cup: you have gud strategic pazishun, once open up their rock and bishop gets stronger and ur king weaka
+[19:29:52] inter-temporal: it's harder than it looks
+[19:30:37] jwwells42: idr what i rejected from Qe7 and Rc6
+[19:30:52] jwwells42: that was first and second candidate move
+[19:30:52] cutie_cup: ah ok sir, unfortunate
+[19:31:23] cutie_cup: nice nicedorf tho
+[19:31:23] jwwells42: oh i rember it is just bad xD
+[19:31:38] jwwells42: if i dont d5 then they get d6 for free eventually bc i cant add enough defenders
+[19:31:38] jwwells42: and if d5 then i get e4 for d at least and i was banking on e5 staying
+[19:32:09] jwwells42: which is nonsense of course but i'm not really at the level where counting is consistent
+[19:32:24] cutie_cup: well sir u can defend twice and they would need alekhine gun to attack d6 three times
+[19:32:24] cutie_cup: which nut so easy
+[19:32:39] cutie_cup: and u can attacc c2 too
+[19:32:54] jwwells42: yes but if i attack c2 i lose a nattacker
+[19:33:09] jwwells42: i see where i went wrong now and it is counting lol
+[19:33:09] jwwells42: so it goes
+[19:33:25] cutie_cup: sadeg
+[19:33:25] cutie_cup: well draw in 2026 as black is good
+[19:33:25] cutie_cup: as they say
+[19:33:25] inter-temporal: white played very well
+[19:33:40] jwwells42: yes i am happy about it because i felt like i was being pretty thoroughly outplayed
+[19:33:55] jwwells42: i would tank and then they would reply p quickly with an idea i had fully missed
+[19:33:55] jwwells42: those games i usually dont get half points from
+[19:34:41] inter-temporal: he made u earn it. lol
+[19:34:56] jwwells42: i think if they kept pieces on i would eventually crack tbh
+[19:35:26] jwwells42: but ok it is nice to park king on f8 and drive the horsey around for a while
+[19:35:42] cutie_cup: g g
+[19:36:27] jwwells42: i also think Rc6 was a bit invisible because it's ""only defending a thing"" which is sometimes a bad shortcut in my head
+[19:36:27] jwwells42: but i do think i reject d5 anyway if i realize that Rxe5 is coming
