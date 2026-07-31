@@ -1,0 +1,136 @@
+Lichess game chat log
+Game      : https://lichess.org/hwJewqZS
+White     : shamdi
+Black     : fatdog216
+Time      : 45+45
+Captured  : 2026-07-31 17:12:36 UTC
+Game ended : 2026-07-31 15:52:33 UTC
+Messages  : 126
+────────────────────────────────────────────────────────────
+
+[13:07:39] tommeketoch: let's go shamdi
+[13:08:25] fatdog216: 7...Qe7 is the last move of theory in this line that I can remember
+[13:12:45] rpcx: f3 probably
+[13:14:47] fatdog216: 7...Qe7: if Bxc4 I’m thinking best line is Qxe4 Qe2 Nbd7 keeping the tension
+[13:15:33] fatdog216: 7...Qe7: if Bxf6 then Qxf6 obviously
+[13:17:51] fatdog216: 9. Qa4+ I have a vague memory of looking at this a long time ago and it didn’t work for white, but now have to figure out why OTB
+[13:18:21] fatdog216: 10. Qa4+ I mean it must be Nc6 but should work it out first
+[13:20:38] fatdog216: 9. Qa4+: Nc6 Nxc6 Bxc3+ bxc3 at minimum bxc6 but Qxc6 looks tasty there
+[13:21:55] fatdog216: Qxc3 might work, might not but I can work that out if we get there in that line.  For now Nc6 seems like an only move so lets play it
+[13:29:33] fatdog216: 10. Rd1 first instinct is Bd7 vs 0-0.  Preferrably Bd7 if I have time for it
+[13:29:48] fatdog216: 10. Rd1 I’m a little worried about Nb5 lines after Bd7, trying to work them out
+[13:33:07] fatdog216: I think Rc8 in that line after Nb5 just about holds everything together and allows for 0-0 next
+[13:34:39] fatdog216: both kings still in the middle but I can castle either way and they’re still 2 moves from 0-0
+[13:38:12] fatdog216: 10...Bd7: getting a bit worried about Nb5 Rc8 Rxd7 Kxd7.  Looks like shouldn’t work but kinda scary nonetheless
+[13:46:52] fatdog216: 12. Bxc4: doesn’t this fail to a6 Na3 b5?
+[13:47:38] jfiras: oh qga here, nice.
+[13:47:53] jfiras: Good luck fatdog !
+[13:48:24] jfiras: cool to see u whispering too haha
+[14:00:36] fatdog216: 14. Bxb5: knight on c3 no longer pinned so Bxc3 no longer comes with check.  Probably should exchange on c3 up a piece but worried about
+[14:01:07] fatdog216: Bxc3 Rxd7 and activity for white
+[14:06:29] fatdog216: 14. Bxb5: any DSB move they have ideas of Rxd7 I guess so may as well damage the pawn structure and trade down pieces
+[14:07:00] fatdog216: 14. Bxb5 looked at Be7, Bc5, Bd6 (met by f4 and e5)
+[14:10:22] highonpotnuse: go shamdi!
+[14:12:10] fatdog216: 14...Bxc3: if bxc3 then I think Rd8 and then 0-0 is good so Rxd7 seems forced to continue making threats
+[14:17:19] fatdog216: 16. e5 pretty sure I can’t take that but let me take a couple of minutes to try because I have a time advantage
+[14:19:06] fatdog216: Nxe5 Bxd7+ Nxd7 Re1+ Kf8 Rxd7
+[14:19:52] fatdog216: Nxe5 Bxd7+ Rxd7 Rxd7 Nxd7 Re1+ Kf8 Qxd7
+[14:20:37] fatdog216: 16. e5: so can’t take.  Probably Qe6 or Qe7 best then
+[14:20:53] tommeketoch: last line Kd8 might be a move, but I think white has other alternatives
+[14:22:09] tommeketoch: oh no then there is Qa8 in the end :p
+[14:22:24] fatdog216: 16. e5: probably Qe7 safer guarding both the LSB and d8 rook and planning 0-0 next
+[14:23:40] fatdog216: 17. e6 oh I didn’t consider e6 here
+[14:24:11] tommeketoch: shouldn't work, but love how shamdi is keeping it complex as possible
+[14:26:44] fatdog216: 17. e6: but luckily for me Bxe6 looks ok
+[14:29:31] fatdog216: 18...bxc6 surely I’m getting castled now after Qxc6+ Rd7
+[14:33:37] fatdog216: 20. Qa8+: I guess if Rd8 then Qc6+ and repeats so I guess must be Qd8
+[14:34:23] fatdog216: threatening Rxd1
+[14:35:24] tommeketoch: we are running out of ressources :(
+[14:35:24] fatdog216: and against anything that doesn’t defend the d1 rook I’ll 0-0 finally
+[14:43:48] fatdog216: 26. Rd1: cool idea, I didn’t look at this.  Though I think I have Qf8 at the end of the line so I can actually take on c2 anyway
+[14:44:03] fatdog216: 26. Rd1 but Rxd1 looks cleaner
+[14:44:19] jfiras: (26...Rxd1+) yeah i don't think Rxc2 works btw
+[14:48:23] fatdog216: Qd5 next to attack/defend everything
+[14:48:38] tommeketoch: I guess we have only one idea left. a4!
+[14:49:55] fatdog216: Qd1+ is a resource if a4 pawn ever undefended
+[14:50:25] jfiras: (34.Qb6) i think Qd1+ now
+[14:50:40] fatdog216: 34. Qb6: like now, Qd1+ and Qxa4.  Does trade for c5 pawn
+[14:50:56] tommeketoch: then we start over with the c pawn :p
+[14:53:13] fatdog216: 37. Qd5: chase queen on strong diagonal
+[14:53:59] fatdog216: 38. Qf6: lol they said no thank you and stayed on that diagonal anyway.  Missed Qf6 was an option
+[14:54:14] tommeketoch: obviously winning for black, but conversion doesn't seem easy
+[14:54:14] jfiras: (37.Qe5) that doesn't look that easy to convert this tbh
+[14:54:29] jfiras: (38.Qf6) exactly!
+[14:56:47] fatdog216: 38. Qf6: Qf5 threatening on f2 but Qd4.  Maybe g5 there threatening the queen trade fork but opens up for perpetuals
+[14:57:32] fatdog216: Queen is very annoying
+[15:02:38] fatdog216: g5 was hope chess.  Bad habits
+[15:03:38] fatdog216: at least there are no checks here so I can start making threats.  Qc1+ is an idea if c3 pawn left undefended.  They can’t advance it
+[15:05:25] fatdog216: g5 pawn keeps me from ever threatening Bxh3 because there’s no where on the file for the queen
+[15:05:25] tommeketoch: Qd1 feels very passive. Would have prefered to keep the queen somewhere active.
+[15:06:11] fatdog216: 43...Bf5: try to slowly work my way in
+[15:06:11] tommeketoch: that is a spot I like more!
+[15:08:28] tommeketoch: whenever that black queen tries to do stuff we start giving that king checks
+[15:09:45] fatdog216: I don’t see a good way to make progress but this must be winning
+[15:10:46] fatdog216: maybe they’ll blunder the c pawn or a queen trade eventually
+[15:10:46] tommeketoch: to f3 or not to f3
+[15:11:17] fatdog216: I guess worst case scenario if I push my kingside pawns is a perpetual so I might as well push
+[15:14:21] fatdog216: 50. Qb1+ well that was a shortlived experiment.  Back to g7 I guess because I don’t want to repeat
+[15:15:07] basyaar: is g4 bad?
+[15:15:22] tommeketoch: it trades one extra pawn off
+[15:15:38] fatdog216: 51. Qe1: maybe I can threaten mate on g2 to force some kind of concession on the kingside and open more checks
+[15:17:09] tommeketoch: and gets rit of the Qf4 resource giving white more stable squares for the queen
+[15:17:55] tommeketoch: would have prefered to keep our queen more active than e1
+[15:18:56] tommeketoch: this drops now c3 and that should be gg
+[15:20:12] fatdog216: 54. Kh1 this feels like progress
+[15:20:27] tommeketoch: ah not yet
+[15:20:58] tommeketoch: we are still in it, now let's get that queen back active
+[15:21:13] basyaar: Bxh3?
+[15:21:28] jfiras: (55.Qa1) yeah thinking abt this one
+[15:21:28] jfiras: (55.Qa1) but idk
+[15:21:44] tommeketoch: likely winning but winning queen endgame very tricky
+[15:21:59] fatdog216: 55... Qe5: shutting down c3+ ideas
+[15:22:29] fatdog216: 56...h5: time to attack
+[15:24:16] fatdog216: if this leads to a perpetual somehow so be it, I don’t see another way to make progress
+[15:26:18] tommeketoch: other attempt was to use king actively
+[15:27:50] basyaar: but won't that be risky? king out in open
+[15:28:36] tommeketoch: not really you can cover with queen and bishop. It is just to defend some extra squares with the king
+[15:28:36] basyaar: ok
+[15:29:06] tommeketoch: still worst case would prep like right now
+[15:29:06] jfiras: (63...f5) also the bishop is doing 0 pressure on the c pawn and queen vs queen can't do anything
+[15:29:23] jfiras: (63...f5) so i agree bringing the king is the best approach even if it leads to a perp
+[15:30:24] tommeketoch: time to start to go with that c pawn?
+[15:30:55] fatdog216: progress?  brain is getting tired
+[15:31:56] fatdog216: still with ideas of Qe1+ if c3 pawn undefended
+[15:32:26] basyaar: Now, looks like draw
+[15:33:43] tommeketoch: with pawn on f4 some queen trades also become draw(not here yet)
+[15:34:44] fatdog216: 70...Bf5 maybe this configuration so Queen defends dark squares and bishop defends light squares
+[15:34:59] fatdog216: but not sure what exactly I’m threatening.  Maybe f3?
+[15:35:45] jfiras: (70...Bf5) i don't know but i feel trading the f pawn is wrong, at least the white king will be obliged to stay there
+[15:36:16] tommeketoch: f pawn trade every queen trade direct draw. So except if direct mate that should be good for white
+[15:36:46] jfiras: (70...Bf5) makes sense
+[15:38:03] tommeketoch: good of shamdi to take time here.
+[15:40:05] tommeketoch: now Qd4
+[15:40:20] tommeketoch: And then Qf6 is draw!
+[15:42:23] tommeketoch: g3 here might be possible too to try to force it, but feels risky
+[15:43:54] tommeketoch: oh they are going for it. Crunch time
+[15:44:40] tommeketoch: I don't see a direct refutation myself either
+[15:44:55] jfiras: (72.g3) wow that really seems like a draw now
+[15:45:10] fatdog216: 72. g3: hmm didn’t consider this move.  I guess canidates are fxg3, f3 (with Qe4+ to follow), or some checks starting with Qa2+
+[15:46:26] tommeketoch: yeah after the pawn trade. You just keep the king and queen close always on dark squares
+[15:47:12] fatdog216: 72. g3: if Qa2+ Kf3 Bg4+ Ke4 Qe2+ I win the pawn on g3
+[15:47:27] tommeketoch: oops an illegal move in that varriation :p
+[15:47:43] jfiras: (73.Kf3) ooooooooow
+[15:47:43] jfiras: (73.Kf3) now realizing xD
+[15:47:58] tommeketoch: stupid lichess why doesn't want to make my move
+[15:47:58] fatdog216: 73. Kf3: ope the LSB is pinned by the queen so no Bg4!
+[15:49:30] fatdog216: 73. Kf3: oh snap and I’m realizing that I can’t afford to trade the f pawn because how can I win from there?
+[15:50:00] fatdog216: 73. Kf3 but if Qa8+ then just Kf2 and how do I do anything but repeat there?
+[15:50:16] fatdog216: 73. Kf3: oh my god is this a draw already?
+[15:50:46] tommeketoch: what a save by shamdi!
+[15:51:17] fatdog216: 74. Kf2: and gxf4+ always comes with check too
+[15:52:33] jfiras: gg !
+[15:53:19] jfiras: 72.g3! what a move
+[15:53:50] fatdog216: Holy smokes, what a defense.  72. g3 was a bolt from the blue
+[15:57:08] tommeketoch: fatdog I think you made it yourself harder by trading c for a pawn after that white has one less weakness to defend
+[15:59:40] tommeketoch: In the end the main winning plan is getting Bf1 and then follow with queen forcing queen trades
+[16:00:11] tommeketoch: before trading the 2 extra pawns
