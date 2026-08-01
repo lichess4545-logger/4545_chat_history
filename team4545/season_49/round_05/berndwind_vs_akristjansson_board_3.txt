@@ -1,0 +1,134 @@
+Lichess game chat log
+Game      : https://lichess.org/KbCGRCEk
+White     : berndwind
+Black     : akristjansson
+Time      : 45+45
+Captured  : 2026-08-01 02:27:58 UTC
+Game ended : 2026-08-01 01:07:52 UTC
+Messages  : 124
+────────────────────────────────────────────────────────────
+
+[00:04:17] akristjansson: first move was gonna be a surprise, but I did prep some in 1 e4
+[00:08:07] berndwind: (12.Qxe5) all prep so far
+[00:08:07] akristjansson: 12. Qxe5 still in book, not sure if Bb4+ is technically more accurate than Qxe5 first
+[00:09:08] berndwind: (14.Nc3) Still prep
+[00:09:23] berndwind: (14.Nc3) main move here is 0-0
+[00:09:23] berndwind: (14.Nc3) I play a3
+[00:09:53] berndwind: (14.Nc3) pretty equal position, but white does have the better pawn structure
+[00:10:09] berndwind: (14.Nc3) hi stevenlongs!
+[00:11:25] stevenlongs: hiya sir!
+[00:11:55] stevenlongs: that is a scary amount of prep in the scotch :o
+[00:13:27] berndwind: (15.a3) The move that I was curious about here was Re8
+[00:13:42] berndwind: (15.a3) But actually it's still the same situation, slightly better for white
+[00:14:13] berndwind: (15.a3) I take the bishop, and play Kd2 when he takes the dsb with check
+[00:14:28] akristjansson: both 15... Bxc3 and 15... Re8 look promising
+[00:14:58] akristjansson: and 15... Bd6
+[00:15:14] berndwind: (15.a3) Looking it now, I guess he can move his bishop to d6, which is also interesting
+[00:16:45] berndwind: (15.a3) hi Niraku!
+[00:17:31] nirakuhakamura: bernd, gogogo
+[00:17:31] berndwind: (16.Bxc3) straight down the main line of this line
+[00:17:46] nirakuhakamura: looks like it's still all theory so black is in trouble
+[00:18:01] berndwind: (17.Kd2) Na4 here is the move
+[00:18:16] berndwind: (17.Kd2) I let him have the bishop and just play Bd3
+[00:19:33] berndwind: (17...Bf5) Haha I was just wondering about this move
+[00:19:48] berndwind: (17...Bf5) Didn't look at it but i's very logical
+[00:20:03] nirakuhakamura: Na4 and taking bishop is a losing endgame for black?
+[00:21:19] akristjansson: 18. Re1 Rad8+ 19. Kc1 Be4 20. Rg1 Na4 is one idea
+[00:23:21] akristjansson: 18. Bg2 Rad8+ 19. Kc1 Re2 intending ...Rc2+ Kb1 and a discovered check
+[00:26:54] akristjansson: 18. Rd1 looks best
+[00:27:55] stevenlongs: wazaaa marco
+[00:27:55] marco_chess13: wazaaaaa
+[00:28:11] berndwind: (17...Bf5) oh hi Marco!
+[00:28:11] stevenlongs: out here watching people prep like 15 moves in the scotch XD
+[00:28:26] marco_chess13: Ah so this is the scotch gambit!
+[00:28:41] marco_chess13: I learn all my opening theory from Berndwind
+[00:28:56] berndwind: (17...Bf5) hi intertemp!
+[00:29:11] marco_chess13: btw go berndwind!
+[00:29:11] inter-temporal: (17...Bf5) hello, hello mr. wind
+[00:30:43] inter-temporal: (17...Bf5) interesting opening re 8.h4
+[00:33:00] akristjansson: 18... Be4 19. Rg1 Bf3 20. Re1? Rxe1 21. Kxe1 22. Rd8 is just mate or give up the piece with Be2 Re8
+[00:34:16] marco_chess13: yikes
+[00:34:32] akristjansson: no there’s Bd2
+[00:34:47] akristjansson: but then Re8+
+[00:36:03] marco_chess13: be2?
+[00:36:19] stevenlongs: :||
+[00:38:05] stevenlongs: I guess Bd2 Re8+ Be3 Rd8 repeat?
+[00:38:05] akristjansson: ah Be3 duh
+[00:38:37] stevenlongs: wait
+[00:46:15] inter-temporal: (24.Bg2) swarming around White's K
+[00:46:15] nirakuhakamura: Bxg2 Rxg2 Nb1 Bc1 Rd3?
+[00:46:32] berndwind: (24.Bg2) hi jcarmody!
+[00:46:48] berndwind: (24.Bg2) This is feeling rather tense... I don't think I
+[00:46:48] berndwind: (24.Bg2) I don't think I
+[00:46:48] berndwind: (24.Bg2) aaaargh sorry guys
+[00:47:03] berndwind: (24.Bg2) I am trying to say I don't think I
+[00:47:03] berndwind: (24.Bg2) I am losing
+[00:47:03] akristjansson: 24... Ne2 looks like it wins the exchange for a pawn but is bad
+[00:47:18] berndwind: (24.Bg2) I don't think I am losing
+[00:47:33] berndwind: (24...Bxg2) My computer loves to press enter
+[00:48:19] akristjansson: 25. Bxc3 Rd3 prob draws with opposite bishops
+[00:50:06] akristjansson: missed Bb4 when I played that
+[00:50:21] inter-temporal: (25...Nb1) at least they have plenty of time to calculate complicated endgame variations
+[00:50:36] nirakuhakamura: which pawn was lost after that 24... Ne2 idea, anyone know?
+[00:50:51] mennonite: go bernd!
+[00:51:06] berndwind: (25...Nb1) hi macha! Got your sporting jacket and opera glasses at the ready?
+[00:51:22] nirakuhakamura: like... Ne2 Bxf3 Nxg1 Bg4(?) f5 can't be taken due to Nf3+
+[00:51:52] jcarmody: hi berndwind. good luck
+[00:52:07] berndwind: (25...Nb1) Ok so some of pawns will fall, but then his also look pretty weak
+[00:52:23] nirakuhakamura: oh the c6 pawn maybe
+[00:52:53] berndwind: (25...Nb1) So quite a few options I'm looking at
+[00:53:09] berndwind: (25...Nb1) All bishop moves
+[00:53:39] berndwind: (25...Nb1) f4 just gives the pawn for nothing and attacks the c pawn too
+[00:53:39] berndwind: (25...Nb1) So that's out
+[00:54:25] berndwind: (25...Nb1) So far I like Bb4 most
+[00:54:40] berndwind: (25...Nb1) Doesn't hit a pawn, but creates some issues around his king
+[00:55:41] nirakuhakamura: Bb4 Rd3 no issue?
+[00:56:11] berndwind: (25...Nb1) He still has Rd3 but then I am thinking f4 looks decent with the idea of getting Re2
+[00:56:27] berndwind: (25...Nb1) hi mennonite!
+[00:56:57] nirakuhakamura: uh after Re2 both g3 and a3 will be hanging
+[00:57:12] inter-temporal: (25...Nb1) yeh, ...Rd3 looks problematic. maybe there's a sequence for pawn trades
+[00:57:43] nirakuhakamura: if Bc5 black can just move the pawn
+[00:58:28] inter-temporal: (27.f4) black's backrank gives white a tempo
+[00:58:59] nirakuhakamura: ah I see you're going Re7
+[00:59:14] akristjansson: 26. f4 was maybe just winning for White bc the knight would be trapped if ...Nxa3 Bb4
+[00:59:45] berndwind: (27.f4) hi golden!
+[01:00:00] berndwind: (27.f4) activity over pawns
+[01:00:15] berndwind: (27.f4) well not that I have a choice lol
+[01:00:30] goldenretrieverchess: Hello and go berndwind!
+[01:01:16] inter-temporal: (27.f4) i'm guessing everyone here knows black runs the book club on slack
+[01:01:31] marco_chess13: wasnt aware one existed, thanks!
+[01:02:02] berndwind: (27...h6) ok makes sense
+[01:02:02] berndwind: (27...h6) I have a fun little move here that looks like it walks into a tactic
+[01:02:02] inter-temporal: (27...h6) he's leading them through Rios, Structures
+[01:02:32] berndwind: (27...h6) Rb2 looks like it walks into Rxg3
+[01:02:47] nirakuhakamura: bernd and marco are also stuying rio's structures :D
+[01:03:18] berndwind: (27...h6) But I play Kf2
+[01:03:18] marco_chess13: lol
+[01:04:34] stevenlongs: this is one of those positions where im likely to sink like 15 min and play the worst move possible
+[01:05:04] inter-temporal: (28.Rb2) white seems to be wiggling his way out of trouble
+[01:05:35] inter-temporal: (29.Kf2) what just happened
+[01:05:50] inter-temporal: (29.Kf2) miscalc?
+[01:06:21] akristjansson: ouch, looks like im losing now
+[01:06:21] stevenlongs: giving the knight is too much no?
+[01:06:21] inter-temporal: (29.Kf2) i hate when opponents don't take the way i planned
+[01:06:51] nirakuhakamura: what was h6 good for?
+[01:07:06] inter-temporal: (29.Kf2) K's can be surprisingly fast sometimes
+[01:07:22] goldenretrieverchess: gg
+[01:07:37] marco_chess13: damn gg
+[01:07:37] nirakuhakamura: nice trap, gg
+[01:07:37] stevenlongs: gg
+[01:07:37] inter-temporal: "Never resign! (unless you feel like it)"
+[01:11:43] akristjansson: Gonna have to take a look at this more when I get to the comp
+[01:11:43] berndwind: I'm just running analysis for us now
+[01:11:59] berndwind: Just read the chat first lol
+[01:12:29] akristjansson: I had to shield my eyes, no comp check until I do a full analysis!
+[01:13:01] akristjansson: I wrote every thought I really had tho
+[01:13:16] berndwind: Ah that's smart
+[01:13:46] akristjansson: I’m gonna head out then, was an exciting game. I def needed practice in that line as the scotch is always so confusing for me
+[01:14:01] akristjansson: Good luck in the rest of your games!
+[01:14:01] berndwind: The Scotch is crazy
+[01:14:17] berndwind: My kind of line haha
+[01:14:17] akristjansson: It is fr
+[01:14:17] berndwind: Ok ok go and head out, thanks for the game!
+[01:14:32] akristjansson: See ya!
+[01:14:32] berndwind: And good luck with the rest!
