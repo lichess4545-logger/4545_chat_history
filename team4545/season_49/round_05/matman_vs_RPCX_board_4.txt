@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/Ot9VLY3c
+White     : matman
+Black     : rpcx
+Time      : 45+45
+Captured  : 2026-08-01 21:26:47 UTC
+Game ended : 2026-08-01 20:06:44 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[17:56:12] tommeketoch: wow benoni without the fianchetto setup. Not seen that much.
+[17:56:28] tommeketoch: Let's go RPXC
+[17:56:28] tommeketoch: oh that is not the right order
+[18:00:47] inter-temporal: (15...Qe8) go RPCX!! (srry matman, go u next round!)
+[18:13:01] rpcx: should have gone qd7 to begin with but better late than never i suppose
+[18:22:24] rpcx: i expected e5 but i won't complain about good things
+[18:28:00] rpcx: preps g4 g5 but gives me a reason to play bc7
+[18:30:32] rpcx: now i can double the rooks infront of the pawn without needing e7 square for the knight
+[18:35:07] rpcx: if g4 then qd8 looks reasonable
+[18:43:45] rpcx: i going to take a minute and just try to find what my opponent sacced the pawn for
+[18:44:46] jfiras: Good luck matman !
+[18:49:36] rpcx: i don't see it
+[18:52:38] rpcx: is it exchange sac then play for some discovered attack ?
+[19:11:45] inter-temporal: (30...Nxd5) "Holy phalynx matman!"--Robin
+[19:12:46] inter-temporal: (32.Kf2) "[phalanx]"
+[19:34:25] inter-temporal: (45...b6) this is going to be very difficult. probably not defensible. however,
+[19:34:55] inter-temporal: (45...b6) "Never Resign! (Unless you feel like it)"--Capablanca
+[19:35:56] inter-temporal: (47.Ke4) and time pressure can be like additional tactical motif
+[20:01:24] rpcx: i have no clue if i had a win in there or if my opponent had one probably both
+[20:04:42] inter-temporal: (67...Kg6) nice
+[20:04:42] inter-temporal: (67...Kg6) gg
+[20:05:28] inter-temporal: (71.Kg2) matman can draw this in his sleep. lol. but yeh, good to play it out sometimes.
+[20:05:28] jfiras: (72.Kf1) gg !
+[20:06:13] inter-temporal: gg guys!
+[20:07:14] rpcx: so c4 does work
+[20:09:16] inter-temporal: 25...c4, yeh?
+[20:10:32] inter-temporal: it gets rid of 2 defenders of e4? is that the idea?
+[20:11:18] rpcx: yup
+[20:11:33] inter-temporal: so threatens ...Nxe4+, which must be prevented
+[20:12:34] inter-temporal: so ...c4, Bc2 and the struggle continues
+[20:14:05] rpcx: bd6 is one of those moves which is so obvious when the engine suggests it and yet i never saw it in when calculating
+[20:14:51] inter-temporal: everything is obvious in hindsight with this game.
+[20:15:06] matman: I was surprised by 6...Bg4.
+[20:15:52] matman: At this point, I was out of theory :)
+[20:17:08] rpcx: i knew g6 is better but i suspected you had something prepped for it
+[20:17:38] matman: After losing the pawn on a5, I had a losing position, and somehow I managed to escape.
+[20:19:10] matman: I launched a desperate attack on the kingside because I wanted to complicate the position somehow, and I was hoping my bishop pair would
+[20:19:25] matman: give some chances
+[20:20:26] matman: I managed to reach a winning endgame, but unfortunately my technique let me down.
+[20:23:14] inter-temporal: time pressure is for real. i feel for u
+[20:24:14] inter-temporal: i just posted an excerpt (in slack 4545 improvers) from a book that helped me reduce time pressure issues.
+[20:24:45] rpcx: bxc3 nxd5 would have been nice to play but i am not seeing the skewer from that far away
+[20:27:32] rpcx: also lichess showing my other peoples messages would be nice
