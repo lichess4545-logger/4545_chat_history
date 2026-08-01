@@ -1,0 +1,162 @@
+Lichess game chat log
+Game      : https://lichess.org/BYXhqMnE
+White     : mmorrisohio
+Black     : fireball100
+Time      : 45+45
+Captured  : 2026-08-01 15:39:34 UTC
+Game ended : 2026-08-01 14:19:25 UTC
+Messages  : 152
+────────────────────────────────────────────────────────────
+
+[12:02:48] davidsifre: go fireball!!
+[12:03:03] joonaf: go fireball!
+[12:04:04] namegoesinhere: (4.Nxd4) go mmorrisohio!
+[12:05:05] davidsifre: you again!?
+[12:11:57] le_merovingien: Go Momo
+[12:13:14] le_merovingien: This looks explosive for White
+[12:13:29] le_merovingien: with e5 tactics
+[12:14:15] cowtone: go fireball
+[12:28:00] iwishiweredecent: I feel like I should root for my fellow Ohio native
+[12:28:30] iwishiweredecent: At least these guys actually showed up for their game
+[12:30:17] iwishiweredecent: black's position is coming together really nicely now
+[12:30:48] fireball100: Hello joonaf!
+[12:32:20] namegoesinhere: (13.exf5) black might have problems on e6 after Bxf5 Bxf5 Rxf5 Nd4
+[12:33:21] iwishiweredecent: Oh man I didn't really think about Nxd3... getting an isolated pawn that can immediately be targeted
+[12:33:51] namegoesinhere: (13...Nxd3) yeah I didn't see this either
+[12:34:37] namegoesinhere: (13...Nxd3) what does the exchange sac look like? fxg6 Nxe1 gxh7+ Kxh7 Qh5+ Kg8 Rxe1?
+[12:35:07] le_merovingien: I have been calculating it. It does nto look good
+[12:36:08] le_merovingien: fxg6 Nxe1 gxh7 Kxh7 Qh5+ Kg8 Bg5 looks bad as well
+[12:36:39] le_merovingien: Rxe1 comes first. Then Black needs to parry Bg5 but that should be easy
+[12:36:54] iwishiweredecent: Qh5+ doesn't work though because the black queen has h5 covered
+[12:36:54] kborman: Go morris!
+[12:37:10] iwishiweredecent: You're right this looks really bad
+[12:37:10] le_merovingien: The Black Queen does not have h5 covered
+[12:37:10] iwishiweredecent: lol
+[12:37:40] iwishiweredecent: my bad, I just took my first sip of coffee tis early here
+[12:37:55] le_merovingien: Oh, can I have some?
+[12:37:55] fireball100: hello Dacid!
+[12:38:26] namegoesinhere: (13...Nxd3) yeah, I was hoping for either Bg5 stuff or a rook lift Re4-h4 after the exchange sac, but neither looks convincing
+[12:38:41] iwishiweredecent: Yeah it is a delicious medium blend
+[12:40:12] davidsifre: you are supposed to move the knight that is attacked by the pawn. not start another attack.
+[12:40:28] iwishiweredecent: Probably the most sensible option
+[12:40:58] iwishiweredecent: so now maybe just Bc3?
+[12:41:44] namegoesinhere: (14...Bxf5) maybe can get away with Nd4, since Bxd3 Qb3+
+[12:42:30] le_merovingien: Or Ne6?
+[12:43:01] iwishiweredecent: Ne6 d4?
+[12:43:16] le_merovingien: Nxd8 game
+[12:43:31] le_merovingien: Nd4 Bxd4 Ne6 or Nd4 Bxd4 Qb3+ is the question
+[12:44:02] namegoesinhere: (15...c5) d4 looks good now, get rid of the weakness
+[12:44:32] namegoesinhere: (15...c5) maybe d4 c4 is annoying, maybe not
+[12:45:33] le_merovingien: The Knight rotation to g3 f4 is a good idea. But I don't like that White is so undeveloped
+[12:47:04] kamagayajiji: maneuvering like that on an open board seems too slow
+[12:48:05] kamagayajiji: and the rook needs the c file
+[12:48:51] fireball100: just pushing pawns for now...
+[12:50:38] kamagayajiji: d4 and Bd2 looks sad
+[12:51:39] kamagayajiji: stops black’s push, but...
+[12:52:25] namegoesinhere: (17...c4) the bishop on d3 will be a huge pain to get rid of
+[12:52:55] kamagayajiji: white’s DSB is very bad
+[12:54:42] iwishiweredecent: Yeah white's pieces are just so cluttered but if he can coordinate them the game is far from over
+[13:10:44] fireball100: Hello Golden!
+[13:11:45] davidsifre: pay attention to the bird Brian!
+[13:19:53] namegoesinhere: (22...Nf4) Bxf4 Rxf4 Re5 start pressuring d5 a bit more?
+[13:19:53] davidsifre: white must ask, is the knight threatening anything
+[13:22:41] cowtone: d3 bishop is really well placed
+[13:23:43] cowtone: it takes white's energy as it must be taken into consideration in every line
+[13:24:59] davidsifre: sack the knight and take the h pawn.
+[13:25:15] kborman: Nxh3 is probably a free pawn but what do you have to do to get the knight back out
+[13:26:15] davidsifre: I checkmate you in less than 12 hours.
+[13:26:31] cowtone: Nxh3 looks like a candidate move worth investing time to calculate
+[13:26:46] namegoesinhere: (23.Qd2) does Nxh3 work if white takes it? Nxh3 gxh3 Qxh3 and I want to play something like f4 so my queen defends along the second rank
+[13:27:16] warvold: (23.Qd2) Go fireball :)
+[13:27:47] davidsifre: ra6 also looks nice.
+[13:28:02] kborman: So you aren’t even giving me 90 minutes of game play?
+[13:28:02] cowtone: f4 Rf5?
+[13:28:32] davidsifre: that’s up to you.
+[13:28:32] namegoesinhere: (23.Qd2) Rf5 Qg2?
+[13:29:03] namegoesinhere: (23.Qd2) Rf6 might work instead
+[13:29:34] cowtone: rf6 yes
+[13:30:20] fireball100: almost went all in... I felt he had a defense though
+[13:30:36] cowtone: i guess it is better for black, why to risk Nxf3 it if unsure about calculation?
+[13:30:51] davidsifre: the cure for that is to just be sure.
+[13:31:06] davidsifre: the trick is you have to be right.
+[13:31:06] davidsifre: sure is not enough.
+[13:32:38] cowtone: it is tricky to have that trick
+[13:34:10] davidsifre: Nxg2 would have worked.
+[13:46:06] davidsifre: nh4
+[13:46:21] davidsifre: then slide rook over to pin the pawn.
+[13:47:53] namegoesinhere: (26.Qd1) Nh4 can be met with Qh5 I believe?
+[13:49:24] davidsifre: qxh3 seals the game I think.
+[13:51:41] davidsifre: time to move the f pawn.
+[13:52:42] kborman: Qe2 Qf1 maybe
+[13:52:58] namegoesinhere: (27...Qxh3) problem with Qe2 is Qe2 Nh4 Qf1 Nf3#
+[13:53:14] namegoesinhere: (27...Qxh3) it's really hard to cover f3 and g2 at the same time
+[13:53:29] davidsifre: that’s how our game will end.
+[13:53:29] fireball100: OK this time I did it. Ra6 I think pulls me through - let's see..
+[13:54:00] namegoesinhere: (27...Qxh3) if f4, then Nxf4 Bxf4 Rxf4 looks lost also
+[13:54:30] davidsifre: that is what we hope.
+[13:54:46] cowtone: how about bg5
+[13:54:46] davidsifre: hooray! I’m for the other tread.
+[13:55:01] namegoesinhere: (27...Qxh3) Bg5 stops Nf4/h4 ideas but what if just h6
+[13:55:16] cowtone: re3
+[13:55:16] kborman: I don’t think Nxd5 Nf4 works either because rook can just remove the defender.
+[13:55:32] namegoesinhere: (27...Qxh3) ooh re3 nice
+[13:55:47] namegoesinhere: (27...Qxh3) maybe Bg5 is something then
+[13:56:48] cowtone: black cab take the knight after bg5
+[13:56:48] davidsifre: pawn kicks Bg5
+[13:57:03] cowtone: but it is better than being checkmated
+[13:57:18] cowtone: bg5 h6 re3
+[13:57:18] namegoesinhere: (27...Qxh3) maybe there's a queen trap? Bg5 Qxc3 Re3 Qb2 then what?
+[13:58:35] cowtone: yes qb2 the only move, hmm
+[13:58:35] fireball100: certainly made him think...
+[13:58:35] davidsifre: there are worse things than checkmate.
+[14:00:22] le_merovingien: Qe2 may also work?
+[14:00:22] davidsifre: time parity achieved
+[14:00:37] namegoesinhere: (27...Qxh3) Qe2 what's the reply to Nh4?
+[14:00:37] cowtone: black can play anything after bg5
+[14:00:52] le_merovingien: ah yes
+[14:00:52] le_merovingien: thanks
+[14:01:23] davidsifre: nh5 incoming and that’s going to win stuff.
+[14:02:54] namegoesinhere: (28.Re2) the idea is Nh5 f4 Nf3+ Kf2?
+[14:03:25] cowtone: white missed nh3 i think
+[14:03:40] cowtone: nf3*
+[14:03:55] namegoesinhere: (28.Re2) theres also Nh4 f4 Rg6+ to consider
+[14:04:56] namegoesinhere: (28...Nh4) f4 Rg6+ Kf2 Rg2+ is checkmating I think
+[14:05:57] davidsifre: rg3+
+[14:06:12] namegoesinhere: (29...Rg6+) if Ke1, Nf3+ Kf1 Qh1 and if Kf1, Qh1+
+[14:06:58] davidsifre: too many pieces on the king. gg
+[14:07:29] davidsifre: Qc2+
+[14:07:29] davidsifre: gG2
+[14:07:44] davidsifre: whatever.
+[14:08:30] davidsifre: qg3 even better. no escape
+[14:09:00] namegoesinhere: (31.Kf1) Qg2+ Ke1 Nf3# was mate either this move or the previous one
+[14:09:15] namegoesinhere: (31.Kf1) oh not now, the rook covers
+[14:10:47] davidsifre: re8 gets rid of the meddlesome bishop
+[14:12:33] goldenretrieverchess: Now Rh6 works, no?
+[14:12:48] davidsifre: that’s my recommend.
+[14:12:48] namegoesinhere: (32.Nxd5) yeah, I don't think you can stop Rh1
+[14:12:48] davidsifre: knight gives a spite check. king moves.
+[14:13:04] namegoesinhere: (32.Nxd5) maybe Rf2 was a different try instead of Nxd5
+[14:16:07] davidsifre: clock still showing green at 45 seconds.
+[14:16:37] davidsifre: that’s mate next move.
+[14:16:53] goldenretrieverchess: No the bishop covers
+[14:17:23] davidsifre: ok. 2 moves?
+[14:17:54] cowtone: this is fun
+[14:18:09] namegoesinhere: (34.Bg1) can't quite see the mate actually
+[14:18:24] namegoesinhere: (34.Bg1) black shoudl be winning material but with low time anything can happen
+[14:18:24] goldenretrieverchess: Yes there is no mate but white will be up a piece for some pawns
+[14:18:24] davidsifre: nh2 take the rook
+[14:18:40] goldenretrieverchess: Black*
+[14:18:55] namegoesinhere: (34.Bg1) Nh2+ is nice, Rxh2 Rxg1 then take the queen
+[14:19:25] davidsifre: times out?
+[14:19:41] davidsifre: oh no!  gg guys.
+[14:19:41] goldenretrieverchess: GG!
+[14:19:56] goldenretrieverchess: It was a mate lol. So hard to see with low time
+[14:20:11] kborman: gg
+[14:20:26] fireball100: I moved abd was waiting for his move
+[14:20:42] fireball100: Not sure wtf happened there
+[14:21:27] fireball100: Perhaps it was the time thing wating for me to convirm?!
+[14:21:58] fireball100: I moved Nh2+
+[14:22:28] goldenretrieverchess: I’ve done that before. Forgot to hit enter for move confirmation while in time trouble. GG though Brian. You played really well :D
+[14:23:15] fireball100: Dam I had great plan and execution and forgot to hit the button twice
+[14:23:30] fireball100: It was mate in 2
+[14:25:48] davidsifre: how does that look? like how do you know it’s waiting to confirm?
