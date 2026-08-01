@@ -1,0 +1,176 @@
+Lichess game chat log
+Game      : https://lichess.org/pwVHw7JR
+White     : cowtone
+Black     : serenemoose
+Time      : 45+45
+Captured  : 2026-08-01 13:12:05 UTC
+Game ended : 2026-08-01 11:52:04 UTC
+Messages  : 166
+────────────────────────────────────────────────────────────
+
+[10:02:00] joonaf: Cow vs Moose
+[10:02:15] joonaf: Go Cow!
+[10:11:54] le_merovingien: Moooose!
+[10:11:54] le_merovingien: getting the a-antler out!
+[10:18:00] le_merovingien: Bx or you lose a Pawn, no?
+[10:22:19] le_merovingien: White leaves the Bishop pair? That a-antler was impressive
+[10:33:00] namegoesinhere: (12.a3) go moose!
+[10:33:30] namegoesinhere: (12.a3) interesting balance of bishop pair vs structure here
+[10:34:01] namegoesinhere: (12.a3) I guess black's options are ...Bc6 or taking on e4 in some manner
+[10:34:31] namegoesinhere: (12.a3) because I think exd5 is a threat
+[10:35:02] le_merovingien: I would play dxe4. With the Bishop pair, I want as few Pawns as possible on the board.
+[10:36:33] namegoesinhere: (12...Nxe4) hmm, does Nxe4 dxe4 Nd4 exd4 Bb6+ work for white?
+[10:36:48] namegoesinhere: (12...Nxe4) no im an idiot, there's still a pawn on e4
+[10:37:19] serenemoose: Loathe to give up the bishop pair for these miserable pawns.
+[10:37:34] le_merovingien: How do you play Nd4?
+[10:37:34] namegoesinhere: (12...Nxe4) I meant Nd5 lol
+[10:37:49] serenemoose: Hope my opponent takes on b5, I think there's a queen sac.
+[10:37:49] le_merovingien: Ah
+[10:37:49] namegoesinhere: (12...Nxe4) but the e-file is still closed so there's no discovery
+[10:37:49] mizrab: very funny comment at the start Joonaf, made me laugh
+[10:38:50] namegoesinhere: (12...Nxe4) maybe white can sac on d5 immediately without trading on e4
+[10:39:05] davidsifre: go Cowtone!
+[10:39:51] goldenretrieverchess: Go cowtone!
+[10:40:06] davidsifre: moose’s king is in the center. open up the board and attack!
+[10:40:52] davidsifre: though moose has the bishop pair and that counsels for a closed position.
+[10:40:52] davidsifre: chess is hard
+[10:41:23] namegoesinhere: (12...Nxe4) Ncxd5 exd5 Nxd5 then black goes Qe5 maybe? Then something like Rad1 to prepare Bf4
+[10:42:39] davidsifre: you need to be thinking about how white can win here. that is the best way to help black.
+[10:43:24] joonaf: Close the diagonals, open the stables
+[10:43:24] namegoesinhere: (12...Nxe4) that line looks good for white imo
+[10:44:10] davidsifre: ok. that’s the spirit!
+[10:44:41] serenemoose: Oh wow.
+[10:44:56] davidsifre: sacking the knight seems wrong
+[10:45:27] joonaf: Knights of Terror
+[10:45:42] davidsifre: the best kind of knight is a knight terror.
+[10:46:12] davidsifre: creating threat of discovered check and winning the Queen.
+[10:46:12] namegoesinhere: (13.Ncxd5) eh, these knight sacs on e5 are thematic in a lot of sicilians as any smith-morra player can tell you
+[10:46:12] davidsifre: clever horse.
+[10:46:43] namegoesinhere: (13.Ncxd5) especially with the black king not able to castle immediately
+[10:46:43] davidsifre: those people don’t talk to me.
+[10:47:59] davidsifre: if black pushes a pawn it’s game over.
+[10:48:45] davidsifre: can he protect his queen and knight...
+[10:48:45] joonaf: But the b pawn really wants to move!
+[10:50:47] davidsifre: sacking queen wins a pawn. but that’s probably not what is called for
+[10:51:17] davidsifre: doesn’t even work.
+[10:51:17] davidsifre: go back to your own thoughts.
+[10:51:47] serenemoose: So Rd1 and Bishop somewhere sometime and I'm supposed to be cooked?
+[10:51:47] joonaf: Queen is bigger than pawn, that's how you know it's better
+[10:52:33] davidsifre: moose is worried.
+[10:52:48] davidsifre: or too serene. either way it’s good for the cow
+[10:54:20] joonaf: Oh I thought you said sac queen for a pawn
+[10:54:35] joonaf: That would be a move
+[10:55:21] joonaf: If both captute one, it's even
+[10:56:22] joonaf: When I was a kid, the pieces all tasted the same
+[10:56:22] davidsifre: yeah but the bishop would then take the knight.
+[10:56:52] davidsifre: not anymore though.
+[10:57:38] davidsifre: qxb5
+[10:58:08] davidsifre: would be a fun knight fork.
+[10:58:39] davidsifre: queen rook bishop and king all on the knight menu.
+[10:58:54] joonaf: It would be fun, but sad
+[10:59:24] davidsifre: no I think it’s good.
+[10:59:40] joonaf: Need to keep the tension and aim higher
+[10:59:55] namegoesinhere: (15...Be6) Qxb5 Bxd5 is probably the accurate reply, white wins a pawn there but with the queens off black's extra piece feels a lot safer
+[11:00:56] namegoesinhere: (15...Be6) I like ...Be6, looks like a nice defensive move
+[11:02:27] namegoesinhere: (16.Nb6) ...Bc4 intermezzo is possible here I think? not sure if it's good though, maybe just Qe1 and the e-file isn't blocked anymore
+[11:02:57] davidsifre: black had all the advantage right now.
+[11:03:28] namegoesinhere: (16.Nb6) don't like the look of ...Rd8, so ...Ra6 maybe?
+[11:03:43] davidsifre: the knight is lost.
+[11:04:14] joonaf: Qd3
+[11:04:14] davidsifre: this attack went south fast.
+[11:04:29] joonaf: Cowtone was quicker than I
+[11:04:29] namegoesinhere: (17.Qd3) just ...Bd7 though?
+[11:04:59] paulwithans: Nxd7?
+[11:05:15] namegoesinhere: (17.Qd3) oops, that was ...Be7 not d7
+[11:05:30] paulwithans: lol oh
+[11:06:00] joonaf: Terror Knight is in jail now
+[11:07:01] joonaf: King escapes and then there's nothing for the sac
+[11:07:32] davidsifre: black is crushing it. unless he takes the knight now.
+[11:08:17] davidsifre: now black can castle. or take the knight.
+[11:09:34] namegoesinhere: (17...Be7) the knight isn't quite hanging yet, because Rxb6 Bxb6 Qxb6 Qxe4 wins an exchange for white
+[11:09:34] davidsifre: I really wanted Cowtone to win this. I don’t want pressure on my game.
+[11:09:49] namegoesinhere: (17...Be7) but the only escape route for the knight is Nd5 which lets black force the queen trade#
+[11:11:36] joonaf: Yeah, queen trade would be really bad for White
+[11:12:23] joonaf: Quick, sac something else!
+[11:12:38] joonaf: Damn, nothing to sac
+[11:13:23] davidsifre: the ill advised knight sac got white into this mess.
+[11:13:54] davidsifre: nd5 doesn’t even lead to a forced queen trade.
+[11:14:09] joonaf: He was probably inspiree by the Knight sac in NLance's game
+[11:14:24] davidsifre: that was a good one.
+[11:14:40] davidsifre: because it led to a win.
+[11:14:40] serenemoose: My opponent might be looking at Nd5 Bf5. Idk, seems a bit much though.
+[11:14:56] namegoesinhere: (17...Be7) I wonder whether the sac was bad or if the problem was later with e.g. 16.Nb6
+[11:14:56] joonaf: Like we say in Finland: Vatasen jalat, omat kädet
+[11:15:11] davidsifre: we say that in New York too.
+[11:15:26] davidsifre: what’s good for the goose is good for the gander.
+[11:16:44] joonaf: It was a fun idea, sad it didn't work
+[11:17:14] davidsifre: well it appears that black is confused about the position. so there is hope.
+[11:18:00] joonaf: I imstantly became a  Sindarov fan when I saw him sac that knight on the candidates
+[11:20:17] joonaf: When is your game David?
+[11:21:33] davidsifre: in 12 hours 39 minutes.
+[11:21:48] joonaf: I hope you sac a knight too!
+[11:22:04] davidsifre: better than my queen.
+[11:22:04] joonaf: Let's all sac knights!
+[11:23:50] joonaf: Qd4 and swiftly grab that black knight at the same time
+[11:25:06] joonaf: One hand movement, they won't notice
+[11:25:52] davidsifre: OTB tricks don’t work here
+[11:26:23] namegoesinhere: (20.Qf5) kick the lichess server in the shins and move the pieces around while it's not looking
+[11:26:23] davidsifre: password hacks work in this position.
+[11:26:53] davidsifre: actually any one of us can hack a password and blunder black’s queen ...
+[11:27:08] davidsifre: that happened to me last season.
+[11:28:24] joonaf: Somebody hacked your account to sac your queen?
+[11:28:40] joonaf: That's what keeps happening to me
+[11:29:40] joonaf: Oh, f5
+[11:31:58] davidsifre: yeah. the mods are looking into it.
+[11:31:58] joonaf: Or course no danger to the king ao why not
+[11:32:59] joonaf: I hope you get your queen back David!
+[11:33:14] davidsifre: thanks!
+[11:33:14] davidsifre: cowtone is running low on time.
+[11:33:29] joonaf: They don't grow on trees
+[11:33:44] davidsifre: I play with wooden pieces.
+[11:35:16] davidsifre: I’d have dropped to qg3 to prepare Bh6
+[11:35:31] namegoesinhere: (22.Qh3) Qg3 there was Ne4
+[11:35:46] namegoesinhere: (22.Qh3) Qh3 is at least a bit of a safer square
+[11:36:17] davidsifre: sir, I play on board 8. we don’t care what the other side might do in response.
+[11:37:03] le_merovingien: Do we want to munch on the c-Pawn?
+[11:37:18] joonaf: Rd4 next
+[11:37:33] joonaf: You can hace6it
+[11:37:33] joonaf: Have it
+[11:38:19] le_merovingien: not sure what Rd4 does.
+[11:38:34] joonaf: Nothing:p
+[11:38:49] le_merovingien: :D
+[11:40:06] joonaf: Not sure how to even try to nake this complicated for Black
+[11:40:21] davidsifre: Pa$$word!
+[11:40:21] le_merovingien: it's Black's to lose. it's easy till you mess up
+[11:40:21] davidsifre: I’m in!
+[11:41:22] joonaf: Yeah
+[11:42:23] davidsifre: just don’t mess up. you simply put your pieces in the center limit counterplay and pay attention. he has tons of time.
+[11:42:39] le_merovingien: see, Black messed up
+[11:42:54] joonaf: One move made too quickly can turn it around, but that's waiting for opponent to blunder. How to
+[11:43:24] davidsifre: take the pawn?
+[11:43:39] joonaf: Why Black plays so fast? Not trying to flag White are they? Not usually a good plan
+[11:44:10] serenemoose: Ah, thought I had Nd5.
+[11:45:11] davidsifre: nd5 looks good to me.
+[11:46:12] joonaf: Maybe this will get interesting after all
+[11:46:57] davidsifre: indeed.
+[11:46:57] davidsifre: losing a won game is the worst.
+[11:47:28] davidsifre: much worse that winning a lost game. even if you absolute value both.
+[11:49:16] le_merovingien: Black is really going downhill... GO MOOOOSE
+[11:50:01] davidsifre: can’t spell moose without MOO
+[11:50:01] joonaf: mooooooo indees!
+[11:50:32] joonaf: What is happening
+[11:50:47] le_merovingien: ...
+[11:51:02] davidsifre: moose is tilting.
+[11:51:02] le_merovingien: he broke an antler...
+[11:51:18] davidsifre: Cowtone doesn’t do that.
+[11:52:19] davidsifre: my hack is so subtle but effective.
+[11:52:19] davidsifre: he’s like, why do I keep moving like that?
+[11:52:19] joonaf: David said Nd5 is good
+[11:52:35] joonaf: And Black believee
+[11:52:51] cowtone: thanks for the viewers, sorry for my opponent
+[11:52:51] joonaf: Writing is hard.
+[11:53:06] joonaf: Ggwp!
+[11:53:21] davidsifre: that was a tough game.
+[11:53:36] cowtone: i missed every defensive move after the sac, but i guess opponent crumbled when there was enough pressure
+[11:53:52] davidsifre: Moo
+[13:03:42] goldenretrieverchess: gg!
