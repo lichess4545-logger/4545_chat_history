@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/g7EN85hG
+White     : superfighter
+Black     : duty5521
+Time      : 45+45
+Captured  : 2026-08-01 17:42:20 UTC
+Game ended : 2026-08-01 16:22:14 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[14:03:07] duty5521: Here we go
+[14:05:54] duty5521: [3. Bb5] So my opponent is expecting 3... Nf6, which is what I normally play. But here I prepped a6
+[14:08:27] duty5521: [6. d3] Okay, taking me out of prep, but this is very okay
+[14:08:27] superfighter: (6) No idea what my opponent has prepared. Luckily I didn't waste any time preparing something else
+[14:10:14] duty5521: [8... Bb7] In case of Re1 this falls right back into my prep with d6
+[14:12:00] duty5521: [8... Bb7] The thing is I have a lot of general ideas so even out of prep I have an idea of what to do :p
+[14:16:51] duty5521: [9... b4] In my prep I have the same with Re1 and d6
+[14:17:37] duty5521: Actually I think I had to play Na5 first, but not much changes
+[14:19:08] duty5521: [11... Na5] I guess Nxe7+ is the difference, but this looks far more than okay for Black, and I still have b3 surely
+[14:24:45] duty5521: [11. Ba2] Here I'm pretty sure I take on d5, if Bxd5 I can take and play d6 to try to go into my prep and if exd5 I can play b3
+[14:25:46] duty5521: Although there's Nxe5 at the end so maybe I also play d6 before?
+[14:29:19] duty5521: [13... d6] If Re1 still I go into prep and play c5
+[14:29:50] duty5521: [13... d6] Although probably doesn't matter what the next move is I play c5
+[14:31:36] duty5521: [13... d6] Pretty funny because this I what I prepped last lol
+[14:39:44] duty5521: [14. Qe1] Looks weird
+[14:39:59] duty5521: [14... c5] If I can push on Re1 why not push on Qe1
+[14:43:32] duty5521: [15. b3] This is rough, I'm pretty sure dxc6 was forced
+[14:47:07] duty5521: [15. b3] Kind of want to play g5 right now but after h4 gxh4 Bh6 it doesn't seem reasonable
+[14:47:38] duty5521: [15. b3] But what about f5 first so that I have Rf6? I like that lol
+[14:52:13] duty5521: [16. Bb2] Alright, so now what about g5?
+[15:04:24] duty5521: [16... g5] Going for it! It's probably crazy but it's why I am :)
+[15:09:45] duty5521: [17. Nd2] Okay, I have three candidate moves here
+[15:10:00] duty5521: [17. Nd2] h5, Qe8 and Qd7
+[15:13:03] duty5521: [17. Nd2] as much as I can push pawns, h5 is not protected so not really appetizing. Have yet to find a counter though. Qd7 looks ...
+[15:13:03] duty5521: ...slow, only idea is to control g4. Qe8 is still a candidate move.
+[15:14:05] duty5521: [17. Nd2] 17... h5 18. g3 and my h pawn is forever weak. Surprised I didn't see that earlier
+[15:15:51] duty5521: [17... Qe8] Settling for Qe8 to go for g6 or maybe f7
+[15:17:38] duty5521: [17... Qe8] I think Qf7 is the move if they are passive and don't move a pawn, otherwise if they're active it's not so clear.
+[15:20:56] duty5521: [18... Qg6] I'll simply stop f4 for now, even though it didn't look that dangerous
+[15:25:46] duty5521: [19... h5] With my queen on g6 it doesn't look like this pawn will be weak
+[15:29:19] duty5521: [19... h5] I need to be wary, my e7 bishop is unprotected and in front of the queen, my a5 knight is unprotected and my a6 is in the ...
+[15:29:19] duty5521: ...line of sight of the queen and will be unprotected if I move the rook
+[15:32:07] duty5521: [20. Kh1] I was expecting that, and planned Rae8 to protect my bishop in case of f4 so I could play exf4
+[15:32:53] duty5521: [20... Rae8] Still looks good!
+[15:34:09] duty5521: [20... Rae8] Now f4 exf4 gxf4?? Bf6! wins the bishop on g2
+[15:34:09] duty5521: b2*
+[15:36:41] duty5521: This is a "Tal forest" type of game
+[15:37:58] duty5521: [21. d4] That's what I was saying before, the queen hitting a6. Now let's calculate : do I really need that a5 knight?
+[15:44:51] king12-life: lmaoooo I love it
+[15:47:08] duty5521: [21... cxd4] I sadly do: I calculated Qxa6 f4 Qxa5 Qxc2 Bc1 fxg3 hxg3 e4 Qxb4 e3 fxe3 dxe3 Qc4!! ruins everything. I although think ...
+[15:47:08] duty5521: ...trading the d4 pawn for the a6 pawn is not bad. I decided to take with the c pawn so that I can always stop Qf7 Qf3 by e4.
+[15:50:42] duty5521: [23. Qb5] Here I liked Rfc8 Qxb5 Rxc2, don't see why it could be bad
+[15:52:44] duty5521: [24. Rac1] Yes, makes sense, here I liked Qf7 to target d5, still don't see an objection
+[15:55:47] duty5521: [25. f4] I was about to write about how Qxb4 didn't look like a move, but this I definitely didn't expect. Don't Rcb8 or Rc5 win on ...
+[15:55:47] duty5521: ...the spot?
+[15:56:18] king12-life: yeah Rc5 looks amazing
+[15:58:50] duty5521: [25. f4] The more I look at it the more I'm convinced. If I hit the queen with Rcb8 or Rc5 there is Qd7 Qxd5+ Kg1 Qf7 fxe5 dxe5 Rxf5 :p
+[16:00:22] duty5521: [25. f4] I think I found a problem though
+[16:00:53] duty5521: [25... Rc5] Qd7 Rxd8 Qa7 Qxd5+ Kg1 Nc6
+[16:01:38] duty5521: [26. Qxb4] And so they resort to taking on b4. Makes sense.
+[16:03:40] duty5521: [27... gxf4] Simply exf4 and moving the king seems winning to me
+[16:05:12] duty5521: [28... Kf7] It doesn't matter but I like the f7 square to protect my bishop just in case
+[16:07:29] duty5521: [29 Rf2] Aw you're really telling me there's no mate here?
+[16:09:46] king12-life: thought d3 instead of Qh1
+[16:10:01] duty5521: [31. Ke2] Even if I don't have mate right now I can't not play this
+[16:14:36] duty5521: [31... Rg1] I want Nc6 Rxc2
+[16:16:38] duty5521: [33. Bxd4] Woah! I don't see the idea but woah!
+[16:16:53] king12-life: Nc6 anyways
+[16:17:09] king12-life: or maybe Nc6 dxe5
+[16:22:59] kartoffe1: Well played!
+[16:23:30] duty5521: funnily enough g5 is playable
+[16:23:30] duty5521: oh shut up engine
+[16:26:17] duty5521: i'm gonna
+[16:26:32] duty5521: take a nap
