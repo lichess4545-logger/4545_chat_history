@@ -1,0 +1,102 @@
+Lichess game chat log
+Game      : https://lichess.org/420h8QCT
+White     : fischer_and_chips88
+Black     : speedybot7
+Time      : 45+45
+Captured  : 2026-08-01 14:25:15 UTC
+Game ended : 2026-08-01 13:05:08 UTC
+Messages  : 92
+────────────────────────────────────────────────────────────
+
+[11:57:42] berndwind: go go Fischer! Earn those damned chips
+[12:39:10] fischer_and_chips88: e5 theres a few funny lines
+[12:39:10] fischer_and_chips88: not chatty cause eating
+[12:39:25] fischer_and_chips88: e4 so far though this
+[12:39:40] jfiras: Wow 7.Nxe5 is so cool
+[12:42:44] jfiras: 18.Rxf2 maybe
+[12:44:31] fischer_and_chips88: missed h6
+[12:44:46] fischer_and_chips88: there's all sorts of weird stuff here
+[12:48:52] fischer_and_chips88: Bd2 dxe4 and there's Ba5+ Kc6 Rd6 Kb5 b4
+[12:49:07] fischer_and_chips88: mm too crazy
+[12:49:38] fischer_and_chips88: oh what am I smoking
+[12:50:23] fischer_and_chips88: Bd2 dxe4 Bb4+ Ke8 Bxf8 Be3 Kb1 and the bishop is defended right
+[12:50:23] iwishiweredecent: Come on Speedybot, gotta keep the match alive!!
+[12:50:39] fischer_and_chips88: ok so I'd be up an exchange there
+[12:52:25] fischer_and_chips88: ok nvm yet again
+[12:52:56] fischer_and_chips88: gah this game is a little frustrating I am not thinking clearly
+[12:53:26] berndwind: Well it’s certainly very tricky. And fun to watch!
+[12:56:44] iwishiweredecent: a game this crazy seems to always come from Sicilians
+[13:05:39] iwishiweredecent: yeah it is a draw, gg guys
+[13:05:39] fischer_and_chips88: gg
+[13:05:54] speedybot7: gg
+[13:05:54] fischer_and_chips88: little frustrated I just hung the f2 pawn
+[13:05:54] fischer_and_chips88: f3 then castles would have been nice
+[13:05:54] speedybot7: yeah but it should still be winning no?
+[13:06:09] speedybot7: I thought Rxf2 was too safe
+[13:06:09] speedybot7: just Bc5 first
+[13:06:25] speedybot7: like its +6 after Bxf2
+[13:06:25] fischer_and_chips88: where?
+[13:06:40] speedybot7: like when I won the pawn bacck
+[13:06:40] speedybot7: engine still says +6
+[13:07:10] speedybot7: like 0-0-0
+[13:07:10] speedybot7: Bxf2
+[13:07:10] speedybot7: and engine says +6 lol
+[13:07:10] fischer_and_chips88: wait huh
+[13:07:26] fischer_and_chips88: I know what you're saying now
+[13:07:26] fischer_and_chips88: but how is that +6
+[13:07:26] speedybot7: cos white has so much inititave
+[13:07:41] fischer_and_chips88: how did I fumble ts
+[13:07:41] fischer_and_chips88: aye aye aye
+[13:07:41] speedybot7: like all white's pieces are active while blacks pieces sleep
+[13:08:11] speedybot7: oh instead of Bb4+ Bxh6+ has the same value just wins a pawn first
+[13:08:42] speedybot7: but I think Rxf2 was a huge mistake practically speaking
+[13:08:57] fischer_and_chips88: oh yeah Bh6 is cool
+[13:08:57] fischer_and_chips88: yeah what was I think
+[13:08:57] fischer_and_chips88: ing
+[13:09:13] fischer_and_chips88: Rf1 is an easy move to find
+[13:09:13] fischer_and_chips88: cause the skewer to the back rank
+[13:09:13] speedybot7: I think you probably just wanted to simplify into a pawn up ending
+[13:09:28] fischer_and_chips88: guh I was so happy with the tactic in the opening too
+[13:09:28] fischer_and_chips88: yes exactly I was set on simplifying
+[13:09:43] speedybot7: Yeah that was nice, g6 was probably trash
+[13:09:58] speedybot7: ah the move was e5, I wanted some closed transpo but it doesnt work
+[13:09:58] fischer_and_chips88: well played dude, the tactics confused me so much
+[13:10:29] speedybot7: thanks, I thought tho you could just leave the exchange up
+[13:10:29] speedybot7: like with Bb4 right away
+[13:10:44] fischer_and_chips88: I though e2 and I was lost
+[13:10:44] fischer_and_chips88: but no
+[13:10:44] fischer_and_chips88: oops
+[13:10:44] speedybot7: yeah just Rxf2
+[13:11:14] speedybot7: no but I wasn't going to play e2
+[13:11:14] fischer_and_chips88: still only a 1 pawn advantage I'd probs still mess that up
+[13:11:14] speedybot7: like on Bc5 I would've done Ne7
+[13:11:29] fischer_and_chips88: oh why not e2
+[13:11:29] speedybot7: Ne7 and what do you even do
+[13:11:45] speedybot7: I can do e2 next move, just with my knight developed
+[13:12:00] speedybot7: and also try for Rf8 ideas
+[13:12:00] fischer_and_chips88: bishop sees e1 though so e2 is never a threat
+[13:12:15] fischer_and_chips88: just like Rd3
+[13:12:15] speedybot7: yeah true, so Bb4 was forced
+[13:12:15] speedybot7: but Bc5 is what I thought was best
+[13:12:15] speedybot7: but its just bad
+[13:12:30] speedybot7: Bb4 is good cos I got to play e2
+[13:12:46] speedybot7: and its just winning for white
+[13:12:46] fischer_and_chips88: I don't mind about the other stuff to much but missing Rf1 early on annoys me
+[13:13:02] fischer_and_chips88: I was eating pizza btw that was why I was so slow
+[13:13:02] speedybot7: oh np
+[13:13:17] fischer_and_chips88: no pizza and chess what was I thinking
+[13:13:17] speedybot7: oh yeah Rhf1 is just winning a piece
+[13:13:32] speedybot7: in the end, could you have played on
+[13:14:03] speedybot7: like just play Kd1
+[13:14:18] speedybot7: Re4
+[13:14:18] speedybot7: Rf1
+[13:14:18] speedybot7: its not so easy for black
+[13:15:05] fischer_and_chips88: yeah but I knew I was winning earlier
+[13:15:05] fischer_and_chips88: so I just took the draw
+[13:15:05] speedybot7: yeah fair
+[13:15:20] fischer_and_chips88: cause I didn't want to risk my pshyche playing for a win when there wasn't one
+[13:15:20] fischer_and_chips88: I do that all the time
+[13:15:35] fischer_and_chips88: when I was winning early and then mess it up and then keep acting like I am winning and it backfires
+[13:15:35] speedybot7: oh, ig but these games aren't super important so playing on and losing isnt too bad
+[13:15:51] fischer_and_chips88: true true I could do with the endgame prac
+[13:16:06] speedybot7: I dont know how much I liked classical online, OTB classical is much better
