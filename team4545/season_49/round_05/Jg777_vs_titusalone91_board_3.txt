@@ -1,0 +1,118 @@
+Lichess game chat log
+Game      : https://lichess.org/DSFuxc1m
+White     : jg777
+Black     : titusalone91
+Time      : 45+45
+Captured  : 2026-08-01 22:57:56 UTC
+Game ended : 2026-08-01 21:37:55 UTC
+Messages  : 108
+────────────────────────────────────────────────────────────
+
+[19:56:52] r0b-w: Go, jg777
+[19:58:08] jg777: Okay, was fun to watch Alp streaming, but now I need to focus on my game here and try to build on last week's improvements.
+[19:59:09] jg777: by the way my sons, fork2020 and pawneater2020, played an OTB tournament today. They got 2nd and 3rd.
+[19:59:55] jg777: my son fork2020 lost their last round game to a FM, so not a shocking result!
+[20:00:10] r0b-w: Nice!
+[20:00:10] jg777: So I think they will gain a few more rating points, but still be below my USCF rating.
+[20:00:40] jg777: I'll be the tournament director for next month's tournament, so maybe he will surpass my rating in that event! :)
+[20:02:27] jg777: Okay, well, opponent is not online yet but I anticipate them on soon, so let's make our standard 1.e4 move
+[20:04:31] jg777: My team is hoping for a win from me here, as our B2 lost earlier today, and our B1 is in a precarious position.
+[20:05:01] jg777: We have 2 more games tomorrow with B7 and B8, and our B6 is going to be an unplayed draw, so we still have chances to win this match yet.
+[20:05:47] jg777: Okay now with the autostart feature, my opponent's clock begins to run. I hope they arrive soon.
+[20:06:48] goldenretrieverchess: Gooo Jordan!
+[20:07:49] jg777: There is always a first for everything, and I think this is a first for me, where we use the autostart feature and my opponent isn't here
+[20:08:20] jg777: Good, arrived! We have a game!
+[20:09:06] bufferunderrun: a4 is not atypical on c6, this is basically to stop b5
+[20:09:36] bufferunderrun: and the pawn later can go to a5 and be rally annoying
+[20:10:07] jg777: I recall reviewing a game with titusalone91 last season with Scrooge, and that he plays this type of opening stuff with black.
+[20:10:53] jg777: I think my goals should just be build my center and complete development, then decide where I want to try and steer this game.
+[20:12:10] fork2020: Go jg777!
+[20:14:28] jg777: Okay I think I give a bit of spice here and go for opposite side castling. h3 hits the bishop, g4 if Bh5, then Bd3 if Bg6
+[20:14:43] jg777: If they take f3, I get bishop pair and fine with that too.
+[20:14:43] bufferunderrun: Idk if O-O-O is the right decision
+[20:15:59] jg777: If they decide to castle queenside, I can adapt fairly okay because my bishops are poised either direction. Kb1, c4 stuff, could be done.
+[20:15:59] bufferunderrun: with the pawn on f3, sure, g4, h4 coming fast
+[20:17:00] jg777: Also, I got a nice bank of time with this opening phase, so I am happy with that here. I wasn't asked any real questions in the opening.
+[20:17:15] jg777: So I could just play some normal development scheme and save my clock time.
+[20:18:32] bufferunderrun: alp recovered, like 180 deg
+[20:18:32] jg777: Okay, so they signal they will attack my king but also unlikely to castle queenside themselves.
+[20:19:02] jg777: So main issue is b4 and e4 is an issue. I can play a3 here, but that gives a hook after a5.
+[20:19:33] jg777: So better to keep my pawns back and force black to have to make more moves to get to my king
+[20:20:18] jg777: So one idea is play e5 right now and force black to react to it. Opening D file is good for me, my queen and rook are on it already.
+[20:21:05] jg777: and e5 Bxf3 exf6 is interesting because if Bxe2 then fxg7.
+[20:22:06] jg777: although fxe7 is better, I win a piece, so maybe not that. :P
+[20:22:52] jg777: But anyway, the line is favorable to me there. and if e5 dxe5 dxe5 Bxf3  exf6 I should be fine there too.
+[20:26:10] jg777: e5 Nd5 Nxd5 exd5 looks maybe okay, but maybe I have something on b5, like Bxb5 cxb5 exd6 Bxd6 Nxb5 and I am asking questions
+[20:26:10] jg777: Not sure it is correct though.
+[20:26:56] jg777: But here, I could just play Qd3 and allow b4 Nb1- C file isn't open for black yet.
+[20:28:12] jg777: Although, Qd3 and then when h3 Bh5 g4 Bg6- it lines on my queen. I don't like that.
+[20:28:27] jg777: So I think correct is e5 here, make things open up possibly, I am prepared for this I think.
+[20:31:16] jg777: Actually now that I look at this with e5, seems obvious that Nd5 should be met with Ne4. Funny how a half move completely changes view
+[20:32:17] jg777: Question is do I want to try and attack with tempo, so exd6 Bxd6 Ne4 for example. That looks more precise move order.
+[20:32:48] jg777: Because again I could lose a defender on e5 with Bxf3. This resolves that nicely.
+[20:33:49] jg777: This also covers a5, so black can't continue Qa5 to attack a2 immediately, which is also nice.
+[20:34:19] jg777: and I can meet Bb4 with c3
+[20:34:50] jg777: Okay now I could attack on my kingside, where I believe the black king is eventually going.
+[20:36:36] jg777: Okay so improve my bishop, because Ng3 slows my attack by blocking g pawn. So we defend e4, we don't allow the bishop to control that
+[20:36:51] jg777: diagonal.
+[20:37:37] jg777: and any quick b4 is met with c4, and Qa5 Kb1 shouldn't be an issue I don't think.
+[20:37:53] jg777: a3 could lead to issues with Bxa3 stuff, so I need to avoid that
+[20:39:09] jg777: My next moves when possible are something like g4, Ne5
+[20:40:25] jg777: I would like for Ne5 Nxe5 dxe5, because I think a pawn on e5 would control f6 nicely and give my DSB more scope
+[20:41:26] jg777: it could also open up f4-f5 ideas later on too, and multi purpose moves are often good
+[20:43:13] jg777: Yeah maybe Ne5 first is better even, depending what titusalone91 players here.
+[20:46:00] jg777: interesting, plays the bishop back without provocation.
+[20:48:03] jg777: I do need to remember that Bg5 lines up on my queen and king. There could be some ideas where that is a problem so I should be aware.
+[20:50:05] jg777: Probably I should consider sparing a moment for Kb1 before I end up regretting not doing so. We'll see, with the LSB on g6, Kb1 has issue
+[20:50:21] jg777: Potential issue on that diagonal anyway.
+[20:56:27] jg777: Maybe f4 was more accurate here, stopping the Bg5 stuff for now altogether. I need f4 anyway. I suppose this was the incorrect move order
+[20:58:14] jg777: Althought maybe it is fine, but f4 next I think then g4-f5 stuff
+[20:59:15] jg777: I thought Qa5 isn't that good because it prevents the A pawn pushing down, but maybe there is no need for the A pawn?
+[21:02:03] jg777: Interesting ideas with Rfd8. I like it. Combines several things to produce multiple threats at once I think.
+[21:03:04] jg777: I think Qc1 is the move here, step off the D file, but keep tabs on e3.
+[21:04:05] jg777: But it really combines the Bg6, c3, D file/queen, and such nicely I think. Good move.
+[21:05:06] jg777: Suggests I misplaced my pieces here and allowed black's pieces to begin taking over the game.
+[21:05:52] alp_arslan92: (18...Rfd8) Go Jordan!!
+[21:05:52] jg777: I am wondering if instead I should play more actively with Bg5 myself, and try to trade some pieces off
+[21:05:52] alp_arslan92: (18...Rfd8) No Jordan stream???
+[21:06:22] jg777: But Bg5 Bxe4 and yeah, the queen on d2 is a problem. I don't have time.
+[21:07:08] alp_arslan92: (19.Qc1) Is there 19...Nxc3?
+[21:07:38] alp_arslan92: (19.Qc1) 19...Nxc3 20.Qxc3 Qxc3 21.bxc3 Rxd3 22.Rxd3 Bxe4?
+[21:07:38] jg777: Okay so I need to pivot and accept I misplayed this and now need to look to trade off these pieces a bit
+[21:07:38] alp_arslan92: (19.Qc1) Or did I just sacrifice too much material xD
+[21:08:39] jg777: Okay c4 has to be a must here I think
+[21:09:10] jg777: Lose e5 most likely though
+[21:10:26] jg777: Yeah this position just went bad for me for sure, misplayed the pieces.
+[21:13:14] jg777: Okay going for immediate hit
+[21:16:02] jg777: Have to play a3 here I think, axb3 Nb4 and I can't believe that holds whatsoever
+[21:16:32] jg777: But same token, a3 Nb4 and d3 e4 are super problems.
+[21:18:04] jg777: Yeah I think all lines are lost one way or another.
+[21:18:19] jg777: Nb4 and I am dropping d3 or e4
+[21:20:05] jg777: I just put my pieces on bad squares and allowed black's pieces to completely take over the game, so a good lesson for me.
+[21:20:51] jg777: will be a good one to review where it went wrong- Rf1 or even earlier.
+[21:21:52] jg777: I see various ideas here that work for titusalone91, not even sure which one is best yet
+[21:22:07] jg777: They all seem good to me
+[21:24:10] jg777: Trying to find the trickiest line here- they all seem to lose, unless I am missing something, but trying to find a good practical shot
+[21:24:25] bufferunderrun: Does 22.Qc3 work here now?
+[21:25:56] jg777: Nf6+ is the best I see but it isn't hard to find the right continuation after gxf6 Bxg6- b4 knight is immune anyway.
+[21:25:56] bufferunderrun: probably not, the rook would be pinned
+[21:26:58] jg777: I guess Qc3 is the better try here
+[21:27:43] bufferunderrun: maybe Nf6+ then
+[21:28:29] jg777: Wait, I am blind- I have f3.
+[21:29:30] jg777: Qc3 and b4 knight is stuck as I go QxQ and if Qa4, which I thought was the winning continuation, I have time for f3, and d3 e4 are okay
+[21:30:16] jg777: I guess I just play it and whatever, if it doesn't work then nothing else was either
+[21:31:32] jg777: Yeah I obviously didn't recall that e4 hangs here. I am not even sure what I was hallucinating.
+[21:31:48] bufferunderrun: I wonder if Nf6+ gxf6 Bxg6 hxg6 Qc3 was something
+[21:33:19] bufferunderrun: Bxb4 I guess
+[21:33:51] jg777: Pretty sure Bxd3 was the right move here
+[21:33:51] jg777: Not Qa2+
+[21:35:07] jg777: Because Bxd3+ Qxd3 Qa2+ Kc1 Qa1+ Kd2...well wait, maybe I am okay because I hold f1 there.
+[21:35:37] jg777: Nevermind whatever, they are up material either way
+[21:37:24] jg777: Rd7 Bc2... I think this game is played out sufficiently.
+[21:38:10] goldenretrieverchess: gg
+[21:38:25] bufferunderrun: gg
+[21:39:11] jg777: Yeah Rhf1 was a mistake, I kinda realized that afterwards.
+[21:40:27] jg777: Yeah several things I mentioned earlier about being a possible issue and was. although a3 still looked wrong but I guess not nearly as bad
+[21:40:27] jg777: as Kb1.
+[21:40:58] jg777: I looked at 19. Nd6 but couldn't convince myself that was the way forward. It was still bad, but again, not nearly as bad.
+[21:41:13] jg777: So all the decisive positions I went the wrong direction this game. Good lesson, play better moves. :P
