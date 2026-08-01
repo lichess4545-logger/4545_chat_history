@@ -1,0 +1,104 @@
+Lichess game chat log
+Game      : https://lichess.org/tnMI720j
+White     : kurdd
+Black     : aactrl
+Time      : 45+45
+Captured  : 2026-08-01 16:41:29 UTC
+Game ended : 2026-08-01 15:21:28 UTC
+Messages  : 94
+────────────────────────────────────────────────────────────
+
+[13:02:56] guitarspider: go AACtrl
+[13:03:27] aactrl: (3.Bf4) was it a6 now? pffft...
+[13:07:00] iwishiweredecent: I like playing the Jobava London but i am not familiar with this position or move order
+[13:08:17] aactrl: (5.a3) if 5.Nf3 e6 Ne5 then what? c5, b4 or Bb7?
+[13:10:19] aactrl: (5.a3) here too I forgot, 5...Nbd7 g4!? then what again?
+[13:11:05] iwishiweredecent: At least AACtrl has some notion of what the lines are supposed to be because I am not familiar with this position at all
+[13:11:35] iwishiweredecent: c5 looks like it is going to come with some power, probably sooner than later as well
+[13:12:36] aactrl: (5...Nbd7) 6.g4 c5 g5 cxd4?
+[13:12:51] iwishiweredecent: Nd7 preparing c5 I assume
+[13:13:37] blang316: Go AACtrl!
+[13:13:53] aactrl: (5...Nbd7) no I need e6, crap
+[13:13:53] iwishiweredecent: 6.g4 seem premature but I guess there isn't much time
+[13:15:24] aactrl: (5...Nbd7) then 6.g4 e6 g5 Ne4 Nxe4 dxe4?
+[13:16:25] berndwind: Go AACtrl!
+[13:16:55] aactrl: (5...Nbd7) maybe 5...e6 was necessary, to leave d7 for the f-knight
+[13:18:12] aactrl: (6.Bxb5) 6.g4 c5 g5 cxd4 exd4 Ng8!? Nxd5?? Bb7 to check
+[13:18:42] aactrl: (6.Bxb5) ok now at least no hesitation
+[13:18:42] guitarspider: that's an aggressive piece sac
+[13:19:13] berndwind: Yep and seems to be prep. Didn’t expect that!
+[13:19:59] ysgwydd: (7.Nxb5) Doesn't look sound though
+[13:19:59] guitarspider: e5 probably? I have serious doubts that this can work for White.
+[13:20:15] guitarspider: I agree ysg
+[13:20:30] ysgwydd: (7.Nxb5) Yeah e5 should work
+[13:20:30] aactrl: (7.Nxb5) did I blunder already?
+[13:21:31] guitarspider: of course it's a bit tricky to play
+[13:22:01] ysgwydd: (7.Nxb5) e5 dxe5 Ne4 runs into Qxd4
+[13:22:47] ysgwydd: (7...e5) e5 dxe5 Ba6 Nc3 Ne4 maybe
+[13:23:17] iwishiweredecent: Ok I cannot believe white went for that sacrifice..
+[13:23:48] iwishiweredecent: I would have though at least to give up the knight and keep the strong LSB, especially in a london setup
+[13:24:03] iwishiweredecent: but I am definitely excited to see what happens!
+[13:25:50] guitarspider: c6? Black doesn't really want to move the knight
+[13:26:06] ysgwydd: (8.dxe5) c6 Nd6 is a problem I thought
+[13:26:22] guitarspider: but why?
+[13:26:37] guitarspider: (8.dxe5) we just castle and play a piece up?
+[13:27:08] ysgwydd: (8.dxe5) Sure but white has three pawns and could maybe use the d-pawn
+[13:27:23] ysgwydd: (8.dxe5) Not terrible probably
+[13:27:39] guitarspider: (8.dxe5) I'm pretty sure I'd take Black every time there, but it's still a game of course
+[13:28:55] ysgwydd: (8.dxe5) Ba6 Nc3 Ne4 Nxe4 would give white four pawns so maybe c6 is best
+[13:29:41] iwishiweredecent: I like the white is going for the win though because his team is down 3-1 in the match, so hats off to him for playing for the win
+[13:30:12] aactrl: (8.dxe5) c6 Nd4 I'm terrified.
+[13:32:44] guitarspider: (8.dxe5) but then the d-file is blocked and you can think about Ne4
+[13:32:44] guitarspider: (8.dxe5) very complex
+[13:33:14] guitarspider: (8.dxe5) I still think the sac should be unsound but it's not easy to navigate at all
+[13:35:02] aactrl: (8.dxe5) Ba6 exf6 Bxb5 Qxd5 c6 Qe4+ ouch
+[13:36:49] ysgwydd: (8.dxe5) Ba6 exf6 Bxb5 Qxd5 c6 Qe4+ Bb4! Kd1 Nxf6
+[13:37:35] ysgwydd: (8.dxe5) If that's what needed it's not easy
+[13:37:50] guitarspider: (8.dxe5) Qe4 is + in that line
+[13:38:51] ysgwydd: (8...c6) Sorry I meant Ba6 exf6 Bxb5 Qxd5 Bb4+! Kd1 Nxf6
+[13:39:37] guitarspider: (8...c6) ah
+[13:40:38] guitarspider: (8...c6) what a crazy line
+[13:42:09] ysgwydd: (8...c6) Yeah, surely it's not the only way to refute the sacrifice
+[13:43:40] aactrl: (8...c6) 9.Nd4 Qa5+ c3 Ne4 Nxc6 Nxc3!??
+[13:45:27] aactrl: (8...c6) then Qd2 and....
+[13:47:44] aactrl: (8...c6) 9.Nd4 Ne4 Nxc6 Qb6 Qxd5 ughhh.....
+[13:49:46] aactrl: (9...cxb5) please don't take my lunch money!
+[13:49:46] iwishiweredecent: Went to prepare for my game in an hour or so and I really didn't miss much, figured he would recapture that knight instantl
+[13:51:03] guitarspider: (9...cxb5) I suppose you have to take on g7 now just because there's no reason not to
+[13:52:19] iwishiweredecent: I mean white did get his 3 pawns for the bishop
+[13:54:06] ysgwydd: (10.Qxd5) 4 pawns even
+[13:56:38] ysgwydd: (11.c3) In my crazy Bb4+ line earlier I missed c3, so it didn't work
+[14:03:03] aactrl: (11...Nxf6) should I keep the bishop pair or trade one with Bb7 Nf3 Bxf3?
+[14:05:51] aactrl: (11...Nxf6) their knight will be strong on d4, but my lsb on c3 as well?
+[14:09:09] aactrl: (12...Be6) can't predict any single white move
+[14:10:56] aactrl: (12...Be6) 13.Nf3 b4 Qxa5 Rxa5 cxb Bxb4+
+[14:13:29] aactrl: (13.h3) b4 or Rd8?
+[14:19:36] aactrl: (14...Rxa5) Bc7 bxc3!?? Bxa5 cxb2 Rb1 Bxa3 Bc3 Ba2?
+[14:20:22] iwishiweredecent: black is about to wipe out all three of those pawns, and can always sacrifice a piece to accomplish that
+[14:24:14] aactrl: (15.O-O-O) every move a surprise
+[14:26:32] aactrl: (15.O-O-O) bxc3 or Ne4?
+[14:26:47] paulwithans: bxc3 wins a pawn no?
+[14:27:17] paulwithans: bxa3 also surely
+[14:29:04] paulwithans: Bc7 just cxb2+ followed by Rxa3
+[14:29:35] paulwithans: oh lol I got mated
+[14:31:21] paulwithans: Bc7 cxb2+ Kxb2 Ra8 then I guess
+[14:32:38] aactrl: (15...bxc3) 16.b4 Bxb4 axb4 Ra1+ Kc2 Bf5+ Kxc3 Rxd1
+[14:41:02] aactrl: (17...Ne4) look at backrank, look at backrank....
+[14:42:03] iwishiweredecent: thats a tricky move
+[14:43:04] aactrl: (18.Bc7) Ra8 or Rd5?
+[14:43:50] cinemashow: (18.Bc7) Ra8
+[14:43:50] iwishiweredecent: 18...Ra8?
+[14:44:20] jose684: 18. Bc7 Hello AACtrl
+[14:44:36] aactrl: (18.Bc7) or Rc5?
+[14:47:23] guitarspider: (18.Bc7) keep it simple imo, Ra8
+[14:49:25] iwishiweredecent: Rd5 is def more forcing
+[14:50:11] aactrl: (18...Rd5) oh I could've castled too
+[14:50:26] iwishiweredecent: Well best of luck guys I gotta go play my game, we are down 4-2 so I have to win to keep our drawing chances alive
+[14:52:28] aactrl: (19.Ne2) Nxf2 Ra1!?
+[14:53:44] aactrl: (19...Nxf2) Be7 should defend but I'm asking for trouble there
+[14:55:31] aactrl: (21.Ra1) oh Bxa8 I didn't see
+[15:05:11] aactrl: (25...O-O) ceinture, bretelles et parachute
+[15:07:29] guitarspider: (27.Bh2) h6 now and nothing can go wrong
+[15:16:08] guitarspider: (33.Ka3) the knight is almost trapped
+[15:17:09] guitarspider: (33...Bf1) but I don't think there's a way to exploit it
+[15:21:13] guitarspider: gg
