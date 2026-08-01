@@ -1,0 +1,39 @@
+Lichess game chat log
+Game      : https://lichess.org/oKjNZdbF
+White     : rajjsinghh
+Black     : gronen
+Time      : 45+45
+Captured  : 2026-08-01 19:52:16 UTC
+Game ended : 2026-08-01 18:32:12 UTC
+Messages  : 29
+────────────────────────────────────────────────────────────
+
+[17:02:04] nrv773: Go Rajj!
+[17:04:52] rajjsinghh: The classical Sicilian is already a surprise so making it sharp could backfire
+[17:05:08] rajjsinghh: but he also has no games this year in the Rauzer so that's comforting
+[17:25:46] rajjsinghh: I missed that he can include Rd8 Qe3 Nd5 here but I don't think it particularly matters
+[17:26:01] rajjsinghh: oh hey tjkovers, long time no see
+[17:33:23] rajjsinghh: Qa7 Qc7 ef Bc5 traps the queen :/
+[17:34:55] gronen: yes I did miss Qa7 btw
+[17:36:57] gronen: but the line I think they're also calculating is 1.Qa7.b4 2.Qxb7  bxc3 3.Rxd8 cxb2+ 4.Kxb2 Rxd8
+[17:43:48] rajjsinghh: I think I'm getting a piece on Qh4! but I think black has ways to complicate
+[17:47:53] nrv773: More so than this? lol
+[17:58:51] inter-temporal: (21...a4) no one plays in the center
+[17:59:06] inter-temporal: (21...a4) nuthin to see there
+[17:59:36] gronen: I think my opponent missed the win with 20.Rd3
+[18:01:23] gronen: I mean I'm still down material of course but somehow it feels like they're giving me way more initiative here by wasting that tempo (e.g.
+[18:01:38] gronen: with Rxd8 Rxd8 fxg7)
+[18:03:40] gronen: I guess it might still be winning if d4 somehow pulls off mate
+[18:06:58] gronen: Maybe 22. a3 immediately would've been stronger in light of that
+[18:07:45] gronen: Also because they have fxg7 to reclaim the diagonal with Bf6
+[18:20:30] rajjsinghh: I'm expecting the repetition. I wonder if it was just too greedy holding on to the piece
+[18:21:31] gronen: probably should've gone for the draw, but I want to see where this goes.  It looks dangerous
+[18:23:17] rajjsinghh: I can't blame him for not repeating but I can also untangle now
+[18:23:32] rajjsinghh: he doesn't attack my rook
+[18:25:34] gronen: for  some reason I thought some idea with Qa3 Rc1 looked promising but it clearly doesnt work
+[18:31:41] gronen: okay
+[18:31:41] gronen: yikes
+[18:32:57] gronen: I'm predicting a very spiky graph
+[18:33:12] gronen: Was expecting Re2
+[18:34:29] gronen: Very unfortunate blunder
+[18:34:29] gronen: I have to go, but good luck in the rest of the tournament
