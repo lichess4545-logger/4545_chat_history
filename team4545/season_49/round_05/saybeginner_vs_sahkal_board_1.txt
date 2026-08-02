@@ -1,0 +1,238 @@
+Lichess game chat log
+Game      : https://lichess.org/AcmzYWoG
+White     : saybeginner
+Black     : sahkal
+Time      : 45+45
+Captured  : 2026-08-02 00:55:49 UTC
+Game ended : 2026-08-01 23:35:46 UTC
+Messages  : 228
+────────────────────────────────────────────────────────────
+
+[21:11:40] inter-temporal: (1.e4) is there a bit of a mismatch here? or is saybeginner underrated
+[21:12:56] sahkal: (1) i was delayed in all sorts of ways
+[21:12:56] sahkal: (1) but
+[21:13:11] pineapplechiffoncake: Looks like saybeginner is a board 4 playing up
+[21:13:11] sahkal: (1) now the game starts, it's gonna be a very close game
+[21:13:42] sahkal: (1) let's play the sicilian defense, i don't know what openings my opponent plays
+[21:13:57] pepepibote: go sayb!
+[21:13:57] sahkal: (2) looks like we might get an open sicilian
+[21:14:12] pineapplechiffoncake: Gooo saybeginner!
+[21:14:12] inter-temporal: (2.Nf3) go open or go home!
+[21:14:28] inter-temporal: (2.Nf3) wanna see a najdorf. pls
+[21:15:14] sahkal: (2) here i normally play the e6 move which leads to the type of open sicilian that i like, the kan/paulsen i think they call it
+[21:15:14] inter-temporal: (2.Nf3) like 2...d6
+[21:15:29] mennonite: in answer to what IT said I do think saybeginner is underrated
+[21:15:45] sahkal: (2) e6 also doesn't allow Bb5 so one less opening to worry about
+[21:16:17] sahkal: (2) let's just play 2...e6 i think because that's what i know best
+[21:17:03] sahkal: (3) 3.d4 normal, now cxd4 is normal
+[21:17:51] inter-temporal: (3...cxd4) 4...Nc6 for $5. any takers?
+[21:19:07] sahkal: (4) 4.Nxd4 normal, now Nc6, Qc7 and a6 are all moves that transpose to each other. Nc6 is my choice
+[21:19:37] inter-temporal: (4...Nc6) dang. no one owes me $5. come on my peeps! :)
+[21:21:08] sahkal: (4) i have probably played over a hundred games this week that started with these exact moves. bullet and blitz sessions
+[21:21:24] sahkal: (5) 5.Be2 slightly unusual i think, but normal move
+[21:21:24] inter-temporal: (5.Be2) but none with 5.Be2 yeh?
+[21:23:11] sahkal: (5) now Nf6 Nc3 Bb4 is something i don't want to do, it might be good but no need to complicate like that
+[21:23:26] sahkal: (5) play the normal way instead
+[21:26:14] sahkal: (6) a6 and then he can blunder with f4 :D
+[21:29:01] sahkal: (7) now c4 is not something they usually do here
+[21:30:33] sahkal: (7) i don't feel like it's that great here because now Nf6 Nc3 Bb4 is a good position
+[21:32:35] sahkal: (8) i think now this Bb4 is cleaner because i'm closer to castling and also the e2 bishop is hindered by the pawn on c4
+[21:33:06] sahkal: (8) i think it's better than the earlier version
+[21:37:26] sahkal: (9) i don't believe in this Bg5 move!
+[21:37:41] sahkal: (9) let's see. Bxc3 Bxf6 gxf6 bxc3, advantage black
+[21:39:43] sahkal: (9) i think. because those c pawns are quite weak and his remaining bishop is bad
+[21:41:00] sahkal: (9) Qe5 also looks good as an alternative
+[21:43:17] sahkal: (9) Qe5 Be3 and maybe it's closer to equal. i like Bxc3
+[21:45:19] sahkal: (10) Bxb2 is an alternative to gxf6
+[21:45:50] sahkal: (10) Bxb2 Nxe6 maybe that's not great
+[21:46:35] sahkal: (10) Bxd4 also slight advantage but maybe closer to equal
+[21:47:37] sahkal: (10) i like gxf6 bxc3 and then maybe Ne5 or Ne7, we'll see, looks like some moderate advantage
+[21:49:55] sahkal: (11) Ne5 forces his queen out of position on the queenside and then possibly h5-h4, knight coming into f4 eventually
+[21:51:42] sahkal: (11) something slower like d6 then maybe he plays f4 and it's more difficult to get my knight involved, his queen would also be better
+[21:53:28] sahkal: (11) yeah i like Ne5 Qa4 and then moves like h4, Ng6-f4, Ke7, d6, Bd7-c6
+[21:54:14] sahkal: (11) the knight could also come around to c5. have to work around his d4 knight but should be fine
+[22:00:21] sahkal: (12) maybe i should forget about the f4 square and maneuver to c5 instead, also defends b7 and then e5 kicks his knight
+[22:02:53] sahkal: (12) let's say d6 f4 Nd7 Bf3 Nc5
+[22:04:09] sahkal: (12) and then Qc2 e5 maybe, Nf5 Bxf5 exf5 exf4. better minor piece
+[22:06:12] sahkal: (12) alternative is something like Ng6 g3 h5 f4 d6 but i like the knight better in the other variation
+[22:10:01] mrscribbles: (12...d6) Wow, big rating difference
+[22:10:32] mrscribbles: (12...d6) 283 points is a lot, but not impossible. You're expected to pick up a point here and there
+[22:10:47] mrscribbles: (13...Nd7) sahkal is sharp, gotta bring your A game
+[22:11:33] inter-temporal: (13...Nd7) when he gets down to increment, all of a sudden ur own clock is ticking all the time.
+[22:11:48] inter-temporal: (13...Nd7) hard to switch rhythms
+[22:12:34] inter-temporal: (13...Nd7) AActrl does that too. i've been his victim before. lol
+[22:13:50] inter-temporal: (14.Qc2) apparently 12.Qb3 was oob
+[22:14:36] mrscribbles: (14.Qc2) I would recommend Bh5 next threatening Nxe6, and then after ... O-O you take e6 anyway
+[22:14:51] sahkal: (14) Nc5, i guess he wants Nb3, then Bd7 let's say and Rc8, eventually e5 before he gets it in
+[22:15:36] sahkal: (14) e5 is something i want to do there but not immediately, first some development otherwise he does bad things to me on the f file
+[22:17:54] sahkal: (15) oh that's very kind in a sense because now i can play e5 freely
+[22:18:41] sahkal: (15) the advantage is not too big but i think black is for choice with the better minor pieces
+[22:20:43] sahkal: (16) his knight is miles away from the ideal square on d5, not sure whether to allow that trade or play Na4 or something
+[22:20:58] sahkal: (16) in either case we have a good vs bad bishop dynamic
+[22:21:44] inter-temporal: (16.Nb3) avoid trade, allow trade, or initiate trade?
+[22:22:14] inter-temporal: (16.Nb3) i guess "allow" also covers "ignore"
+[22:23:01] inter-temporal: (16.Nb3) seems like "allow/ignore" disposes of the weak d6-pawn?
+[22:24:02] sahkal: (16) i think it's easier to fight for an advantage with Na4, keeping more pieces on...
+[22:24:17] inter-temporal: (16.Nb3) dynamic vs static features
+[22:24:33] sahkal: (16) he has the c5 pawn sac but it doesn't really help his bishop if i play it right
+[22:25:19] sahkal: (16) a4 is also a blockading square of course, the a pawn is isolated
+[22:25:34] inter-temporal: (16...Na4) weaker players might lean towards static features since we probably learned those first. maybe
+[22:26:20] sahkal: (16) moves like Bd7 and Rc8 next
+[22:26:50] sahkal: (17) h5-h4 also ready
+[22:28:38] sahkal: (17) if he doubles against d6 then okay i'll go Rd8 instead of Rc8, no big deal
+[22:30:09] jcarmody: Casteling wastes a move, even at this level?
+[22:30:25] jcarmody: hi Scribbles and I-T.
+[22:30:40] sahkal: (18) and if he doubles with the queen then Ke7 is fine
+[22:30:40] inter-temporal: (18...Ke7) yeh, JC. never castle!
+[22:31:10] inter-temporal: (18...Ke7) wonder if Qh6 leads anywhere
+[22:31:41] inter-temporal: (18...Ke7) white might have some initiative? maybe
+[22:31:56] inter-temporal: (18...Ke7) or Rf3-d3. smth
+[22:34:13] inter-temporal: (19.Bd3) pass the move? what's the idea
+[22:34:28] mcstudly: ‍️
+[22:34:28] inter-temporal: (19.Bd3) Bc2 maybe
+[22:34:44] sahkal: (19) the spectator bishop trying not to be a nuisance blocking the other pieces
+[22:35:29] inter-temporal: (19.Bd3) i thought it might be part of Qh6 & Bh5!?
+[22:35:45] sahkal: (19) lots of moves look decent, Rac8, h5, Nb6
+[22:37:16] mcstudly: (19) I'd probably slam h5 here.I like the knight pressure on c3, I'd play Nb6 after Bc2
+[22:37:31] sahkal: (19) if i play Nb6 i'm not really threatening Nxc4 so i don't like that move that much
+[22:37:47] sahkal: (19) maybe h5 before he prevents it
+[22:37:47] inter-temporal: (19.Bd3) indeed
+[22:38:17] inter-temporal: (19...h5) caveman like h5!
+[22:39:03] mcstudly: h
+[22:39:48] inter-temporal: (20.Rc1) mysterious R moves
+[22:40:19] sahkal: (20) Rac8, or it could also move to g8 which might be a better square
+[22:41:05] inter-temporal: (20.Rc1) caveman attack King!  me like Rg8
+[22:42:06] inter-temporal: (20...Rag8) me see K. me attack K. me like.
+[22:42:36] sahkal: (20) we can double on g2 and attack e4 from g4, coordinate with the knight on c5, bishop on c6
+[22:43:22] sahkal: (21) now i think he wants to maneuver the knight towards d5, but that's no big deal if i can take it there with my bishop
+[22:43:37] sahkal: (21) such that he has to recapture with a pawn
+[22:45:24] sahkal: (21) also possible to go something like Qc5-a3. many good looking ways to play the position
+[22:46:40] sahkal: (21) now i'm using up my free tempo with the queen that i always had due to his bad king placement on the diagonal
+[22:46:55] sahkal: (22) was this the best way to use the tempo, i don't know
+[22:47:11] sahkal: (22) but i think it was a fine way to use it
+[22:49:28] atrueravenclaw: 23. Nb3 interesting position reminds me of Nimzo Indian but came Sicilian. Wow black has 30 seconds left
+[22:49:43] sahkal: (23) now trying to double on the g file for now and we'll see what to do next
+[22:50:59] atrueravenclaw: It seems like black should be better after 24. h3 but time is a huge issue. Could see a blunder later
+[22:51:30] mcstudly: IDK, that one kid from turkey uses all his time in the opening and plays bullet endgames
+[22:51:30] atrueravenclaw: 25. Rg1 is 25...Rg3 a candidate move?
+[22:52:00] sahkal: (25) now that rook got very passive. Bc6 looks good, Rg3 also but Bc6 first
+[22:53:47] inter-temporal: (26.Kh2) black routinely plays well on increment
+[22:54:17] inter-temporal: (26...Nb6) i learned long ago not to stress over it. i think he enjoys that too much. lol
+[22:54:17] sahkal: (26) maybe rotate the knight around to d7, i want to kick his knight away with a5-a4 potentially
+[22:54:17] atrueravenclaw: @McStudly sahkal is from Hungary apparently and 2000+ FIDE
+[22:55:49] mcstudly: @ATrueRavenclaw I had no idea. I was refering to Yagiz. He notoriously in time trouble endgame. Youngest 2700
+[22:57:06] sahkal: (28) now i like Ba4 to pin the knight
+[22:57:37] atrueravenclaw: @McStudly oh yes I've noticed that too. It's always interesting how different top players can be. Nepomniachtchi plays extremely fast
+[22:58:53] atrueravenclaw: So 28..Ba4 must be why he didn't play 26...Nc5 he wanted to keep pieces. Very complex idea for so little time!
+[22:59:39] sahkal: (29) okay now this allows Rg3, then Nc1 Bc6
+[22:59:39] atrueravenclaw: omg 10 seconds!
+[23:00:55] inter-temporal: (29...Rg3) black has the quality people attribute to Bobby Fisher--he always seems to keep his good pieces and
+[23:00:55] inter-temporal: (29...Rg3)  leave the opponent with bad ones
+[23:01:27] nrv773: came for the best part of the game
+[23:01:42] atrueravenclaw: Yes black has reorganized his pieces really well. He avoided the temptation to play Nc5 allow piece exchanges
+[23:01:57] inter-temporal: (30.Nc1) i can't do that right. except when its truly obvious. even then i mess it up.
+[23:02:13] sahkal: (30) Bc6 Rb3 Qc5 is fine, Qxg3 there my queen gets too strong
+[23:02:43] sahkal: (30) well g1 would even be hanging in that line so that's unplayable
+[23:03:29] atrueravenclaw: black is calculating so well 31...Qc5!!
+[23:03:29] atrueravenclaw: amazing
+[23:03:29] inter-temporal: (31...Qc5) right. indeed
+[23:03:44] sahkal: (31) now it feels like my pieces are getting in
+[23:04:14] atrueravenclaw: after 31...Qc5 white is barely hanging onto the c3 pawn after all these exchanges
+[23:04:45] inter-temporal: (31...Qc5) white can't trade Qs can he?
+[23:05:00] inter-temporal: (32.Rb2) oh. i guess he can allow it.
+[23:05:00] atrueravenclaw: I think he could have
+[23:05:31] inter-temporal: (32.Rb2) $5 sahkal trades Qs
+[23:05:31] atrueravenclaw: maybe 32...h4
+[23:05:31] sahkal: (32) simplest is to trade queens and Nc5, e4 c3 everybody is going down then
+[23:06:01] inter-temporal: (32...Qxf2) dang it. again no takers.
+[23:06:16] inter-temporal: (32...Qxf2) come on! baby's gotta eat.
+[23:07:02] atrueravenclaw: 33...Nc5 white is almost in zugzwang. He cant do much
+[23:07:48] sahkal: (33) Rf3 i guess, then h4, and e4 is going down
+[23:08:18] atrueravenclaw: 33...Nc5 the e4 pawn is hanging so 34. Re2 maybe seems like black is much better
+[23:08:18] inter-temporal: (34.Bb1) oof
+[23:08:34] atrueravenclaw: oh 34. Bb1 so he give the pawn
+[23:09:04] sahkal: (34) in this case i think Rxc3 although there are other good looking moves as well
+[23:09:19] sahkal: (34) very strong position because all his pieces are terrible
+[23:10:05] atrueravenclaw: I guess if 34..Nxe4 Bxe4 Bxe4 looked attractive for black
+[23:10:05] inter-temporal: (34...Rxc3) again avoiding piece trades
+[23:10:36] inter-temporal: (34...Rxc3) i'll never know how to do that. just face it
+[23:11:06] nrv773: black has some really nice pressure.
+[23:11:06] atrueravenclaw: @inter-temporal I liked 34...Nxe4 it seemed like the f5 pawn could be picked up. Black has so many ideas  though
+[23:11:36] inter-temporal: (35.Rc2) he just know how to do it favorably somehow-- all the time.
+[23:11:52] sahkal: (35) why not take that and take e4, i see no need to do anything more fancy than that
+[23:11:52] atrueravenclaw: Okay 35. Rc2 what about Nxe4!?
+[23:12:07] inter-temporal: (35...Rxc2) time to simplify
+[23:12:22] inter-temporal: (35...Rxc2) clinical
+[23:12:53] sahkal: (35) take with the knight to get bishop vs knight instead of knight vs knight
+[23:13:54] nrv773: <( ̄) ̄)>
+[23:13:54] sahkal: (36) as i think my bishop is a bit faster attacking his pawns in that situation
+[23:14:09] atrueravenclaw: it's crazy how well black plays with no time
+[23:15:56] nrv773: I am in agreement. I simply crumble under time pressure, they become chad
+[23:17:12] inter-temporal: (37...Ng3) not even gonna allow white to trade his bad bishop for the N. lol
+[23:18:13] atrueravenclaw: @inter-temporal I think 37..Ng3 his idea is if Na5 to allow bxc6 and plans h4 and Rg5 then eventual d5
+[23:18:43] inter-temporal: (38.Nc1) f5 is gonna be hard to defend
+[23:19:14] atrueravenclaw: 38 Nc1 h4 with idea of Rg5 attacking f5 is attractive
+[23:19:29] sahkal: (38) try to take that pawn too
+[23:20:15] bufferunderrun: 38...Nf1+ was perhaps possible
+[23:20:15] inter-temporal: (38...Rg5) "And the rest is a matter of technique"--Capablanca
+[23:20:30] atrueravenclaw: he played 38...Rg5 directly I thought 39. h4 might be annoying
+[23:21:01] inter-temporal: (38...Rg5) indeed
+[23:21:33] atrueravenclaw: @bufferunderrun 38...Nf1! very cool
+[23:21:33] bufferunderrun: Nf1 Kh1 Ne3 sure was dropping the g2
+[23:21:48] sahkal: (39) think i can take it
+[23:22:03] inter-temporal: (39.a3) if Nxf5, h4 Nxh4
+[23:22:19] sahkal: (39) then Ne3 and Nd4 are options
+[23:22:34] atrueravenclaw: @bufferunderrun 38...Nf1 seems to win directly right? Rxf1 Rxg2+ and Rxc2 threatened
+[23:23:04] bufferunderrun: I think so if Rxf1
+[23:23:19] inter-temporal: (39...Nxf5) seems unlikely we'll see any fancy tactics from here.
+[23:23:35] inter-temporal: (39...Nxf5) he's probably already started some bullet games during this one
+[23:24:20] atrueravenclaw: @inter-temporal when you're clearly winning you don't want to get too fancy with tactics for sure
+[23:25:06] atrueravenclaw: After 40...Rxf5 the idea has to be to push the e-pawn
+[23:25:21] atrueravenclaw: Or I guess Rf4 and go for more pawns
+[23:25:36] sahkal: (40) winning position, 3 pawns up and still with the better pieces
+[23:26:37] atrueravenclaw: So he played 41 Nb3 so 41..e4 is met with Nd4 I think
+[23:27:54] inter-temporal: (42...Be4) lol
+[23:28:09] inter-temporal: (42...Be4) see what i mean?
+[23:28:39] atrueravenclaw: @inter-temporal 42...Be4 is winning but seems so maximalist. The rook endgame is clearly winning here
+[23:28:55] inter-temporal: (43...Rb2) i think he has a code: "if my piece is better than urs, you just cannot have it."
+[23:29:41] tommeketoch: that is going to be 2 very sad remaining pieces
+[23:29:41] inter-temporal: (43...Rb2) "...ever"
+[23:29:56] atrueravenclaw: he's just played all the best moves quickly. Like I would probably play some practical moves with only 2 minutes
+[23:30:26] tommeketoch: I guess 3 pieces
+[23:30:26] inter-temporal: (44...h4) white is practically in zugzwang
+[23:30:26] sahkal: (44) now only his king can move without losing something big
+[23:30:42] inter-temporal: (44...h4) yeh. aka "zugzwang"
+[23:30:57] atrueravenclaw: @tommeketoch reminds me of some of those games from the early 1900s when one side is winning strategically
+[23:30:57] tommeketoch: possilbe winning plan Kxa3
+[23:31:12] tommeketoch: or Kc4 for that matter
+[23:31:43] inter-temporal: (44...h4) indeed, Black's K could be improved
+[23:31:58] atrueravenclaw: @tommeketoch if he plays kxc4 he just showing off jeez
+[23:32:13] sahkal: (45) capablanca's principle, we put our pawns on the color opposite to our bishop
+[23:32:43] atrueravenclaw: the knight is actually dominated here. There's no moves
+[23:32:59] inter-temporal: (45...a5) yup
+[23:33:14] atrueravenclaw: I think after 45..a5 white only has Kh1
+[23:33:29] atrueravenclaw: Zugzwang
+[23:33:44] atrueravenclaw: All white can do is Kh1 and Kh2
+[23:34:00] atrueravenclaw: insane
+[23:34:00] tommeketoch: oh that is real style points. Kg3
+[23:34:15] tommeketoch: and zugzwang complete
+[23:34:30] tommeketoch: booo
+[23:34:45] atrueravenclaw: black can just walk around with his king and take the c and a pawns if he wants
+[23:35:16] atrueravenclaw: White will probably just resign so we'll miss out on that
+[23:35:31] inter-temporal: (47...f4) i respect people who play all the way to mate. but i might not be having any fun at all anymore. idk. maybe there's a ...
+[23:35:31] inter-temporal: ...stalemate?! go for it!
+[23:35:46] inter-temporal: gg
+[23:35:46] atrueravenclaw: @intertemporal he did only have 2 minutes left
+[23:36:02] inter-temporal: a lot to learn from that game, imo
+[23:37:49] bufferunderrun: gg
+[23:38:04] atrueravenclaw: gg!
+[23:38:20] sahkal: thank you
+[23:38:35] sahkal: thanks saybeginner for playing!
+[23:38:35] tommeketoch: Hadn't seen the opening, but that was a positional masterpiece start to finish
+[23:38:51] tommeketoch: Okay after the opening
+[23:39:36] sahkal: that's interesting, the engine really likes white's position around move 10-11
+[23:39:51] atrueravenclaw: check out 38...Nf1 really cool variations
+[23:40:22] sahkal: oh wow that would've been a nice touch
+[23:41:38] atrueravenclaw: @sahkal in the 38...Nf1 Rxf1 the c2 bishop and a2 pawn both fall with check
+[23:41:38] atrueravenclaw: amazing
+[23:41:53] sahkal: nice :D
