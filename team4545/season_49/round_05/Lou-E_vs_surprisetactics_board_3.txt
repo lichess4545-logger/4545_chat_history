@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/oA0Kcloi
+White     : lou-e
+Black     : surprisetactics
+Time      : 45+45
+Captured  : 2026-08-02 18:43:10 UTC
+Game ended : 2026-08-02 17:23:05 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[16:00:51] lou-e: Hello to any teammates or spectators, let's gooooooo
+[16:01:06] mennonite: Go Lou-E
+[16:01:06] mennonite: !
+[16:01:21] lou-e: Expecting an Alapin or Petroff today
+[16:01:36] lou-e: Petroff it is!
+[16:04:24] lou-e: I believe the usual move is 8...Nc6, so I guess with 8...Nd7 I'm out of book.
+[16:04:39] lou-e: But O-O-O seems appropriate, I guess continue with the plan
+[16:05:57] lou-e: Actually thinking about it I'm not sure whether what I said is correct there
+[16:06:12] lou-e: I think Nd7 -> Nf6 is my repertoire move for Black. idk why I've got Nc6 for the White side of this
+[16:06:58] lou-e: But when I had a look at this before the game, it was definitely Nc6. Something to look into I guess
+[16:20:43] lou-e: I guess the idea here is like Kb1 b5 and go for a very quick attack
+[16:20:43] lou-e: I think I have some moves on the kingside if so
+[16:21:59] lou-e: Kb1 c4 looks like an idea too
+[16:23:01] lou-e: That's actually quite an annoying move to face
+[16:24:02] lou-e: However, I don't see an alternative to Kb1. a3 might be possible but c4 is still on the cards there
+[16:29:52] lou-e: (14...d5) Maybe one option is to play c4 myself now
+[16:30:08] lou-e: Also Bg5 seems like an option
+[16:30:53] lou-e: Although that probs doesn't do much
+[16:31:09] mennonite: I was thinking about c4 myself here too
+[16:31:39] mennonite: but the d4 pawn ends up becoming a monster i fear
+[16:31:39] ysgwydd: (14...d5) I like Bg5, puts pressure on d5
+[16:32:25] mennonite: yes
+[16:33:56] ysgwydd: (15.Qd3) I don't get Qd3
+[16:34:42] ysgwydd: (15.Qd3) Enable Bc1?
+[16:35:28] mennonite: I think the goal is to try to force c4 under more favorable circumstances
+[16:35:58] ysgwydd: (16.Bh3) Is it favorable by giving it a tempo?
+[16:36:30] mennonite: i was thinking just something like ...b5 could have foiled that, but the actual move played is probably even better
+[16:36:45] ysgwydd: (17.g4) It seems like black wants d4, but does that do much
+[16:37:46] ysgwydd: (17.g4) The longer black delays attacking on queenside, the better it is for white I think
+[16:37:46] lou-e: Well this position got weird.
+[16:38:16] lou-e: But I didn't want my bishop sitting on h3 forever. So I think there's some logic to this at least
+[16:46:10] mennonite: maybe now is the time for c4?
+[16:46:25] lou-e: 18. f3 or 18. Bg2?
+[16:46:41] lou-e: I think Bg2 is a little more consistent with my overall plan
+[16:46:56] lou-e: Like if you do A you gotta do B (thank you Danya for that one)
+[16:47:26] lou-e: Also on f3 Ng5 I may end up needing to go Bg2 anyway, except now my bishy is stuck behind a pawn
+[17:01:12] ysgwydd: (19.Qe2) b5 Bxe4 I guess
+[17:02:14] ysgwydd: (19.Qe2) White can consider h4-h5
+[17:05:17] lou-e: I see some surprise tactics brewing here
+[17:05:32] ysgwydd: (19.Qe2) xc3 somewhere
+[17:05:47] lou-e: I'm not sure if it works right away though
+[17:06:02] lou-e: Maybe cut losses and trade off e4 knight ASAP if I get the chance
+[17:06:48] lou-e: No option but to capture that
+[17:07:19] ysgwydd: (20...Ba3) Lost?
+[17:08:04] ysgwydd: (20...Ba3) Ka1 Qb5 Rb1 and white is fine?
+[17:08:35] ysgwydd: (20...Ba3) Ka1 is forced anyway
+[17:09:21] ysgwydd: (20...Ba3) No it's nost Ka1 Qc3+
+[17:09:21] ysgwydd: (20...Ba3) lost
+[17:10:21] ysgwydd: (20...Ba3) Bc5 maybe
+[17:10:37] ysgwydd: (20...Ba3) No, there is nothing
+[17:10:37] mennonite: Bc5 drops at minimum the queen
+[17:10:52] ysgwydd: (20...Ba3) Yeah it's over
+[17:10:52] lou-e: Yeah I'm just cooked aren't I
+[17:11:53] ysgwydd: (20...Ba3) 19.Qd4 was the move I think
+[17:13:24] ysgwydd: (20...Ba3) Rxd5
+[17:13:55] ysgwydd: (21.Rxd5) Good
+[17:15:12] ysgwydd: (22.Qxc4) Maybe still lost, but no checkmate (?)
