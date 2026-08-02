@@ -1,0 +1,162 @@
+Lichess game chat log
+Game      : https://lichess.org/9E0VUP4v
+White     : williewipeout
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-08-02 19:25:58 UTC
+Game ended : 2026-08-02 18:05:57 UTC
+Messages  : 152
+────────────────────────────────────────────────────────────
+
+[15:04:14] handknit: (6.Qc2) a quiggidy
+[15:14:26] lynnpv: lets see if everything lies on me :)
+[15:16:58] handknit: (8.Bh4) I believe in you Lynnpv
+[15:16:58] handknit: (8.Bh4) Your ability to save us from me barfing a fart
+[15:18:32] handknit: (8...Ne4) Looks like that might not be necessary
+[15:19:03] handknit: (9...Qxe7) sending my mental energy for white to play Nxd5
+[15:34:17] rolihlahla: could get rid of some minor pieces here - head towards an end game ....
+[15:37:04] handknit: (13.Rab1) I guess that means black's considering taking on c3?
+[15:39:37] handknit: (14.bxc3) I feel like taking with the Q was better but I Am Not So Confident
+[15:58:58] handknit: (18.Rfc1) Feels like white is in decent shape here.
+[16:22:05] handknit: (20...Qe6) feels like this is one of those "play h3 to quietly improve and wait" positions
+[16:30:05] handknit: (23.d5) White maybe creating a spot of difficulty from overpressing
+[16:30:35] handknit: (23.d5) e4 is not so solid, and black's now got some play with the b and c pawns
+[16:43:48] robertjackson: (24...b5) maybe?
+[16:44:03] handknit: (24.Re1) I think b5 might actually help white fix the rook a bit
+[16:44:03] handknit: (24.Re1) Rc3-Re3, something like that
+[16:45:04] semlegesnev: Black might have some time trouble soon
+[16:46:05] handknit: (24.Re1) Yeah. And this is still complicated for a low clock
+[16:46:51] handknit: (24...Re7) kinda like h3 here with the idea of meeting Rae8 with Qa4
+[16:47:21] timothyha: (24...Re7) b5 and c4 from Black might come
+[16:47:36] timothyha: (24...Re7) but for now Black doubles on e, I guess
+[16:48:07] handknit: (24...Re7) e5 might be a worthwhile idea here
+[16:48:07] semlegesnev: e5 and queen trade would simplify quite a lot
+[16:48:22] handknit: (25.e5) everyone with the same thought at once
+[16:48:53] handknit: (25.e5) Though it does feel like white's centre is a bit flimsy, and black's queenside pawns look good
+[16:49:23] semlegesnev: Yes, although this seems kinda drawish
+[16:49:23] timothyha: (26.Rxc2) premoves should be bannable offence for 4545
+[16:49:38] handknit: (26.Rxc2) This does not feel particularly drawish to me
+[16:50:39] handknit: (26.Rxc2) The 3v1 queenside for black is a big threat, and it doesn't seem easy to defend passively.
+[16:50:39] semlegesnev: I shall forever defend my premoves
+[16:54:58] handknit: (27...Nf8) Kf1 and Nh4 jump out immediately
+[16:57:31] handknit: (29...g6) e6 now seems worth calculating
+[16:58:01] handknit: (29...g6) maybe e6 Nf6 solves it
+[17:03:38] handknit: (32...f6) Nc4 feels significant here
+[17:03:53] handknit: (32...f6) Since it does a very good job at restraining black's QS pawns
+[17:12:16] handknit: (34...h5) bring the K to e4, see if you can make those forward pawns mobile, I guess
+[17:15:19] handknit: (35...Re6) run dat king
+[17:15:19] timothyha: (35...Re6) giving up the exchange doesn't feel immediately losing here
+[17:15:49] handknit: (35...Re6) Black now has Nc6-Nd4 which feels... difficult for white
+[17:15:49] timothyha: (35...Re6) also I thought Nf4 is very quick, but not too quick
+[17:17:05] handknit: (35...Re6) wonder if we see Rd2 here
+[17:17:05] handknit: (35...Re6) trying to augur the vibes
+[17:17:36] handknit: (36...Nd7) Guess a6-b5 is the plan now?
+[17:19:07] handknit: (37...a6) Rb1 and maybe we actually do end up with a draw
+[17:19:53] timothyha: (37...a6) a matter of technique...
+[17:20:38] timothyha: (37...a6) I just like how the trend changed a bit
+[17:22:11] handknit: (38...Nxe5) and off come the pieces
+[17:22:26] handknit: (38...Nxe5) oh, wait
+[17:22:26] handknit: (38...Nxe5) Nxe5 Rxe5 d7 is a thing, isn't it
+[17:22:57] enprisewithease: Mistake?
+[17:22:57] timothyha: (38...Nxe5) no, Rf8+ and Rd5
+[17:22:57] stevenlongs: Wow there's also Ng4+
+[17:22:57] handknit: (38...Nxe5) I mean I think it is still a draw after Rf5+ or something like that
+[17:23:12] enprisewithease: Oh yes
+[17:23:12] handknit: (39.Nxe5) but the pawn stays on d7 for the time being
+[17:23:57] handknit: (39...Rxd6) oh, hey, how about that
+[17:24:13] handknit: (39...Rxd6) Nc4 +-, I guess
+[17:24:43] timothyha: (40.Nc4) yeah, I guess Black saw ghosts with d7
+[17:24:58] handknit: (40.Nc4) that's thing about being low on time, you don't have time to mentally solve Weird Stuff
+[17:25:15] stevenlongs: oh man with the increment...too much stress!
+[17:26:00] timothyha: (40...Rxe3) Re6+ and b5 I think
+[17:26:16] timothyha: (40...Rxe3) then it is sluggish but might be a draw
+[17:26:32] timothyha: (41...Re6+) Black is a mathematician
+[17:26:32] timothyha: (41...Re6+) he can "prove" in low time
+[17:26:47] timothyha: (41...Re6+) like if all pawns are gone...
+[17:27:02] timothyha: (41...Re6+) proving is easier than calculating
+[17:27:33] timothyha: (42.Kf3) b5 is only move for now
+[17:28:49] timothyha: (44.Rxb5) this is not a draw though, one gets checkmated
+[17:29:50] timothyha: (45...Rc6) I once got tortured for 40 moves OTB in RN v R, because my opponent didn't know that's a draw
+[17:30:06] timothyha: (45...Rc6) I thought they were mean to me
+[17:30:36] handknit: (46.h4) Their prerogative to play it out, I guess
+[17:30:52] stevenlongs: that's to wear you down for your rematch :D
+[17:30:52] timothyha: (46...Rc7) and next game I tortured someone else in opp B
+[17:30:52] handknit: (46...Rc7) and I'm pretty sure an elite level game went to result from RN v R... about a decade ago?
+[17:31:22] timothyha: (46...Rc7) I know, I thought they were mean, but they didn't actually know it was a draw
+[17:31:52] handknit: (46...Rc7) no need to know when you can just trust the heart of the cards
+[17:32:23] handknit: (47...Kh7) Speaking of seeing shadows
+[17:32:38] timothyha: (47...Kh7) you got CM by playing chess like cards? :-)
+[17:32:38] handknit: (47...Kh7) Kf4 Rf7 Kg5 Rf5#
+[17:32:53] timothyha: (48...c4) in this endgame for sure Black can be checkmated
+[17:33:09] handknit: (48...c4) Okay, Rc6 cleans some stuff up
+[17:33:54] timothyha: (48...c4) yeah, Rc6 simplifies the win immediately, resignable
+[17:34:40] timothyha: (48...c4) Rxg6 would be tragicomedy
+[17:35:10] handknit: (49.Rc6) Honestly I see lines after Rxg6 that could still win for white
+[17:37:12] handknit: (49...Rg7) Nf3!
+[17:37:12] timothyha: (49...Rg7) right now what's left is a mad-mad-mad rook scenario
+[17:37:28] timothyha: (49...Rg7) Nf3 is too fancy
+[17:38:44] timothyha: (50.Nf3) wow
+[17:39:14] handknit: (50.Nf3) Shows white's thinking of keeping pawns on
+[17:42:17] timothyha: (53...Kg7) if only knights could move in a longer L, Nd6 would be a fork
+[17:42:33] timothyha: (53...Kg7) is that a camel move?
+[17:44:50] timothyha: (57.Ng5) Kg7
+[17:45:05] timothyha: (57.Ng5) I once got an accidental repetition in a losing endgame
+[17:45:35] timothyha: (57...Kg7) OTB I got some planned repetition with rooks moving in a rectangle
+[17:45:51] timothyha: (57...Kg7) but in 4545 it was accidental for my opponent, as I've got them autoclaimed
+[17:49:09] juancruzariastdf: Kh6 now would aim for a trick
+[17:49:09] juancruzariastdf: against Kd6
+[17:49:39] handknit: (60.Rc6) no stalemate tricks just yet
+[17:52:27] handknit: (60.Rc6) Looks like black cannot stop white pushing the black K to the 8th and still defending the pawns
+[17:54:29] juancruzariastdf: Ra4 could be annoying here
+[17:54:44] handknit: (60.Rc6) I think just Rc7+ and g3 there
+[17:54:59] handknit: (60.Rc6) black can't actually fix the king
+[17:55:30] juancruzariastdf: then Ra3 and make them bet the pawn or break their setup
+[17:56:16] handknit: (61...Kg8) I was thinking that Ne4 defends the pawn on g3, and then white has time to just optimize the king
+[17:56:31] timothyha: (61...Kg8) Ra3, Ra4, Rg4 somehow
+[17:56:31] timothyha: (61...Kg8) slows the process down
+[17:56:47] timothyha: (61...Kg8) as g5 might be available again
+[17:57:02] juancruzariastdf: it's all about trying to make it non-schematic for White
+[17:57:17] handknit: (61...Kg8) I suppose, I just don't think black can make that happen
+[17:57:32] timothyha: (61...Kg8) objectively no
+[17:57:48] handknit: (61...Kg8) which I guess is a strong thing to say about an 1880 lichess game
+[17:57:48] semlegesnev: Wow this game is still going on
+[17:58:03] timothyha: (61...Kg8) and White's been playing sensibly after the queen trade
+[17:58:18] handknit: (61...Kg8) I guess white can also just start walking the king here
+[17:58:18] nyanners: white has too many advantages
+[17:58:18] nyanners: now well, if a pawn hangs, that would help some
+[17:58:48] nyanners: just have to be as annoying as possible in the meanwhile i guess
+[17:59:04] timothyha: (62.Ke6) can time be sped up locally in one part of Lichess?
+[17:59:35] nyanners: umm i think id bluff call with Rxg2 but yeah that is certainly not great
+[17:59:50] timothyha: (63.Ke5) checking for now is more fun
+[18:00:05] handknit: (63.Ke5) Rxg2 Kf6 seems kinda trivial. I think this is a bit more resistance
+[18:00:21] nyanners: umm yea its quite forcing actually. kf r+ kx kf8 rf7+
+[18:00:36] nyanners: so okay
+[18:00:51] handknit: (64.Kf6) Also just Kxh5 and trundle the h-pawn forward
+[18:01:07] nyanners: probably wont have a fully formed chess thought in a week after over 700 bullet games in a day for marathon
+[18:01:52] nyanners: but yeah this is also like.. black got nowhere with this
+[18:02:07] handknit: (65...Ra2) I figure Rg7+ and Rxg6 here, though Kxg6 is simpler
+[18:02:07] nyanners: rc8 may be mating net
+[18:02:23] juancruzariastdf: hope is the last thing we lose!
+[18:02:23] handknit: (65...Ra2) ah, so it is
+[18:02:23] handknit: (65...Ra2) Rc8+ Ng5+ Rh8#
+[18:02:38] juancruzariastdf: even R+N+h pawn could have some stalemate tricks
+[18:02:38] handknit: (65...Ra2) 700 games of bullet didn't steal everything
+[18:02:53] nyanners: thats nice :D
+[18:02:53] timothyha: (65...Ra2) I am still figuring out if time can be sped up locally in Lichess for just one side
+[18:02:53] nyanners: how come :o
+[18:03:08] timothyha: (65...Ra2) this time is sooo relative
+[18:03:08] timothyha: (65...Ra2) imagine a bug when your time is shorter
+[18:03:54] nyanners: it's a time scramble feature
+[18:03:54] timothyha: (65...Ra2) like when spectators chat while you're thinking the server is busier and you have less time!
+[18:04:10] nyanners: umm white sees. maybe
+[18:04:10] timothyha: (66.Rc8+) but it's mate in two now
+[18:04:40] timothyha: (67.Ng5+) where is the premove?
+[18:04:55] handknit: (67.Ng5+) gotta savour it
+[18:05:11] nyanners: nice :D gg
+[18:05:11] handknit: yatta
+[18:05:11] timothyha: gg both, well fought
+[18:05:11] juancruzariastdf: good game
+[18:05:26] timothyha: congrats to the other team on the match win
+[18:06:27] semlegesnev: gg!
+[18:07:13] rolihlahla: i'm tired  :-)
+[18:07:28] rolihlahla: thanks for watching everyone!
