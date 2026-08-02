@@ -1,0 +1,87 @@
+Lichess game chat log
+Game      : https://lichess.org/1LDenmSC
+White     : sarkerq
+Black     : berndwind
+Time      : 30+30
+Captured  : 2026-08-02 00:19:47 UTC
+Game ended : 2026-08-01 22:59:38 UTC
+Messages  : 77
+────────────────────────────────────────────────────────────
+
+[22:02:43] guitarspider: (5...Nxe4) go berndwind
+[22:02:58] berndwind: (5...Nxe4) Hi spider!
+[22:03:13] berndwind: (5...Nxe4) My opponent surprised me with thie four knights scotch
+[22:03:29] berndwind: (5...Nxe4) First time they've played it, from what I saw
+[22:03:44] berndwind: (5...Nxe4) Having to delve back into the recesses of my brain to recall this stuff
+[22:05:31] berndwind: (9.Bc4+) yup this is the right way for white
+[22:05:46] berndwind: (9.Bc4+) Now to remember where to go with my king
+[22:08:18] berndwind: (9.Bc4+) Grizzzly! Hello!
+[22:08:33] berndwind: (9.Bc4+) And hi Rehbein!
+[22:10:05] berndwind: (9...Kf6) I've actually studied this endgame fairly deeply, but that was a while back. Don't recall the details any more.
+[22:10:05] berndwind: (9...Kf6) I will certainly look after the game to refresh my memory for next time!
+[22:10:35] berndwind: (9...Kf6) Anyway. Just have to be careful, one move at a time. Position should be fine for me
+[22:10:35] berndwind: (9...Kf6) Famous last words
+[22:17:58] jake10jake: I've never seen 5...Nxe4 in my life. Very interesting
+[22:18:44] berndwind: (10.Kxd1) hi jake! Let's see how long I hold out
+[22:18:59] berndwind: (10.Kxd1) Hi eco!
+[22:20:00] berndwind: (10.Kxd1) I'm waiting for my brain to fire up. Brain, come back! Now please
+[22:20:15] berndwind: (10.Kxd1) Usually I'm great early morning. But today, not so bright and bushy as yet
+[22:20:46] jake10jake: the database shows 10.h4 as a move. Going for mating ideas instead of recapturing the Knight. Bizarre
+[22:22:03] berndwind: (10...c6) need to get my lsb into the game, and this seemed the best way
+[22:22:18] berndwind: (10...c6) A little slow but then I think I'm ok.
+[22:22:33] berndwind: (10...c6) Don't think I'm getting mated in the centre of the board at least for a few moves
+[22:23:03] berndwind: (10...c6) Hi RockWomble!
+[22:23:19] ecoarrivazumashoomzo: go berndwin!
+[22:23:34] rockwomble: That's an odd place to have a king.
+[22:28:08] rockwomble: I suppose if you can exchange enough pieces it goes from vulnerable king to well placed king for the endgame...
+[22:47:12] berndwind: (21.Rhe1) Damn. I hate rook endgames
+[22:47:12] berndwind: (21.Rhe1) And this doesn't look fun
+[22:51:46] berndwind: (21.Rhe1) Trying to think how I can get activity here
+[22:52:01] berndwind: (21.Rhe1) Rab8 may be the move but it's very passive
+[22:52:16] berndwind: (21.Rhe1) Was thinking Rhf8 so he always has to watch my own rook entry into the position
+[22:53:02] berndwind: (21.Rhe1) but it lets him take b7 and then get both rooks on the seventh rank
+[22:54:33] berndwind: (21...Rab8) If he goes for the doubling anyway, then Rhf8 looks good perhaps?
+[22:55:19] berndwind: (22.g4) nice move
+[22:56:05] berndwind: (22.g4) I still think maybe the rook to the f file gives the most counterplay maybe
+[22:56:20] berndwind: (22.g4) Then again it lets him win the g pawn by force
+[22:56:50] berndwind: (22.g4) and then he can go after the h pawn too
+[22:56:50] berndwind: (22.g4) aaargh
+[22:57:36] berndwind: (22.g4) ok maybe I need to play Rhg8? Horribly passive though
+[22:58:07] berndwind: (22.g4) but it does allow my king to move and be annoying in his camp
+[22:58:52] berndwind: (23.f4) damn i saw that the moment before he played it
+[23:01:40] sarkerq: This line is a little bit tricky for black in my opinion, I can prod with a  and h  pawns and stay with the pieces for a bit
+[23:02:26] sarkerq: I think 14 h6 was unnecessary, as it gives me a target
+[23:02:41] berndwind: Yeah it is indeed tricky! I have actually looked at it a lot but it's been a while
+[23:02:41] berndwind: Didn't expect this today and wasn't ready for it
+[23:03:11] berndwind: Remembered the opening until the bishop check, after which all knowledge left me
+[23:04:43] sarkerq: I looked at it recently for OTB, so I was a bit familiar with the plan luckily for me
+[23:04:58] berndwind: Ok so the whole bishop trade situation lost me the game, was totally fine until then. Just b6 and there are no real issues
+[23:05:13] berndwind: Ah makes sense!
+[23:05:28] berndwind: Yeah it's the only way i know of to try to get an interesting game against the scotch four knights.
+[23:05:43] sarkerq: Yeah I guess black should stay put, try to develop the rooks and then push qside majority
+[23:06:16] berndwind: And yes h6 was unnecessary, Engine doesn't mind it, but prefers h5
+[23:06:32] berndwind: Yes exactly
+[23:06:32] berndwind: Rooks on files, gradually move my qs up
+[23:07:48] sarkerq: During the game I thought that if black pawns stay on h7 and g7 then it is hard for me to break thru
+[23:08:03] sarkerq: But then probably h5 and h6 would be strong
+[23:08:33] sarkerq: so maybe h6 or h5 is needed for black to stop it
+[23:08:49] berndwind: Yes which is what I was afraid of
+[23:09:04] berndwind: Definitely I need one of the two. And again h6 was fine, just h5 slightly better
+[23:09:19] berndwind: You keep pushing the pawns, and I am in trouble I think
+[23:09:19] sarkerq: ok, so I'd say this is a comfortable line for white, as my attack is much quicker
+[23:09:49] berndwind: Not sure, yes comfortable but still fine for black too. Just misplayed it completely
+[23:10:05] berndwind: Against someone better than me, this should really be a draw lol
+[23:10:50] sarkerq: Maybe 12Bf5 would be better way to trade the bishops
+[23:11:36] sarkerq: my rooks are not yet connected and g7 is covered by f8 bishop, so I cant do much
+[23:11:51] berndwind: I was considering it! But actually I think I have similar issues there too
+[23:12:07] berndwind: Probably need to just leave your bishop there
+[23:12:22] berndwind: Get my bishops out, move my pawns a little to avoid issues over on the flanks
+[23:12:22] berndwind: Get my rooks involved
+[23:12:37] berndwind: Shouldn't have any issues
+[23:12:52] berndwind: I thought the rook endgame would be fine, but of course it isn't. Not because you win a pawn, which you rightly didn't take
+[23:13:07] berndwind: But because your rooks just get the file and potentially the rank too
+[23:13:38] sarkerq: Yup, it is lost after 20 Kf6
+[23:14:24] sarkerq: But it would be hard against rook on the 7th anyway :/
+[23:15:09] sarkerq: Have to get to sleep, thanks a lot for the game and best of luck in remaining games!
+[23:15:24] berndwind: Ok go go!
+[23:15:40] berndwind: Thanks for the game and good luck for the rest!
