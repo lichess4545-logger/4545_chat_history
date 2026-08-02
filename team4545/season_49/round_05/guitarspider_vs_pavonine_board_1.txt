@@ -1,0 +1,180 @@
+Lichess game chat log
+Game      : https://lichess.org/s0VBZkTl
+White     : guitarspider
+Black     : pavonine
+Time      : 45+45
+Captured  : 2026-08-02 22:18:15 UTC
+Game ended : 2026-08-02 20:58:12 UTC
+Messages  : 170
+────────────────────────────────────────────────────────────
+
+[18:30:23] mennonite: gl both
+[18:33:10] shurbz: lets go Pav!
+[18:39:47] pineapplechiffoncake: go guitarspider!
+[18:51:44] pavonine: my 4-year old is struggling to sleep so she's watching
+[18:52:15] pavonine: she suggested 10...Qa5 which honestly is decent haha, so i will not play that
+[18:53:16] inter-temporal: (12...Qxf6) goo guitar-arachnerd!
+[19:06:16] bufferunderrun: let's go spiderman!
+[19:15:41] blang316: go guitarspider!
+[19:24:05] feet_barbie: (17...Bf6) go spiderr
+[19:24:21] feet_barbie: (17...Bf6) go pavonine xd
+[19:24:21] feet_barbie: (17...Bf6) wow my friends fighting
+[19:24:21] stevenlongs: wow d5 seems very hard to push due to e5
+[19:25:37] feet_barbie: (17...Bf6) yes white looking good
+[19:29:40] feet_barbie: (18...b5) oh so bb6 was a move to avoid b5 kinda crazy
+[19:29:56] feet_barbie: (18...b5) and put pressure on d6
+[19:45:11] feet_barbie: (21...Nb3) seems like pavonine is turning it around little by little
+[19:45:27] feet_barbie: (22...Na5) or at least holding
+[19:54:51] bufferunderrun: 26.f5 seems alright, I think
+[20:01:58] inter-temporal: (27.f6) after some Ali-shuffle, we have a position
+[20:02:44] inter-temporal: (27.f6) black's K-side is weak, yeh?
+[20:05:02] inter-temporal: (27.f6) id for sure panic and somehow justify ...d6-d5
+[20:06:03] inter-temporal: (27.f6) doesn't even matter that it probably loses. panic first, think later
+[20:06:18] bufferunderrun: there is always Qd7-Qe8-Qf8, I guess
+[20:06:18] inter-temporal: (27.f6) that's for calm people
+[20:07:19] bufferunderrun: unless Qh4, Rh3, but this might take too long
+[20:08:51] inter-temporal: (27...Qc5) now ...d5 isn't even so bad
+[20:09:06] bufferunderrun: so I'm guessing black is planning to sac on a3 now
+[20:10:38] inter-temporal: (27...Qc5) that buys some tempos, for a cost
+[20:15:44] bufferunderrun: Rde1 perhaps, then Qh3, Bd1, sac on h5 after h5
+[20:16:29] bufferunderrun: I'm in the mood to sacrifice something and it's not my pieces, so I'm feeling generous :p
+[20:17:15] inter-temporal: (28.Qh3) me attack King
+[20:18:01] inter-temporal: (28.Qh3) i'm back to ...d5 even more so. or i never left it.
+[20:18:01] bufferunderrun: black has Bxf6 though, it hangs now, but may be an option at some point
+[20:18:46] inter-temporal: (28.Qh3) good thing those are not ur pieces... he'd be missing a N and a dsb
+[20:19:17] bufferunderrun: hey, it's checkmate that matters!
+[20:19:32] inter-temporal: (28.Qh3) lol. me attack King!!
+[20:20:18] inter-temporal: (28...d5) whew! my HR just went down 20 bpm
+[20:20:34] bufferunderrun: Bh6, i guess, since Qh6 Qf8 is the idea
+[20:21:20] bufferunderrun: but tempi matter, so needs to be calculated, since b2 hangs
+[20:21:35] bufferunderrun: this is another reason for Rde1 prior to Qh3
+[20:21:50] inter-temporal: (28...d5) white's own back rank could be an issue
+[20:22:21] bufferunderrun: details
+[20:22:51] bufferunderrun: grabbing on d5 opens up for the bishop, we can sac it on g6 if needed :p
+[20:24:53] inter-temporal: (30...exd5) hands off the pieces pls
+[20:27:11] bufferunderrun: Bxf6 might work now
+[20:27:11] bufferunderrun: maybe
+[20:27:57] inter-temporal: (31.Qh6) searching for how black threatens the back rank there. ...Qe7? nah
+[20:28:12] pavonine: bxf6 foloowed by qe7 almost works
+[20:28:12] bufferunderrun: 31...Bxf6 Rxf6 Qe7 Rf1 Qe2, c2 hangs
+[20:28:27] inter-temporal: (31.Qh6) ahhh. nice
+[20:29:43] inter-temporal: (32.Qh4) okay. u can sac the pieces again.
+[20:30:14] inter-temporal: (32...Rc6) Bh6 incoming
+[20:30:29] bufferunderrun: so perhaps not Rf1, but Qh4 and on Qe2 Qf2 then
+[20:30:44] bufferunderrun: maybe it wasn't working, Idk
+[20:33:47] inter-temporal: (32...Rc6) Bh6 Bxf6!?, Qxf6? Rxf6, Rxf6 Qe8
+[20:34:17] inter-temporal: (33.Rf3) yeh. i think 33.Bh6 was not so good
+[20:35:35] bufferunderrun: not sure this works
+[20:35:35] inter-temporal: (33...Qd8) but i miscalculated smth above
+[20:36:05] bufferunderrun: no, I meant Rf3
+[20:36:20] bufferunderrun: Bxf6 then what?
+[20:36:35] bufferunderrun: ah nevermind
+[20:36:35] bufferunderrun: I see it now lol
+[20:37:52] bufferunderrun: does Bxg6 works now?
+[20:38:07] inter-temporal: (33...Qd8) looks pretty good to me
+[20:39:08] inter-temporal: (33...Qd8) i don't see how black can take it
+[20:39:23] bufferunderrun: Bxg6 hxg6 Rh3 Bxf6 hmmm
+[20:39:23] inter-temporal: (33...Qd8) but can't defend it either...
+[20:39:38] feet_barbie: (33...Qd8) yeah whats after bxf6
+[20:39:53] bufferunderrun: Bg5 probably then
+[20:39:53] inter-temporal: (33...Qd8) Kf8 Bh6+
+[20:39:53] feet_barbie: (33...Qd8) qh7 kf8 bh6
+[20:40:09] inter-temporal: (33...Qd8) a king hunt. might fail
+[20:40:09] feet_barbie: (33...Qd8) king run
+[20:41:10] bufferunderrun: Bxg6 hxg6 Rh3 Bxf6 Bg5, Idk, maybe Qxf6 instead of Bxf6
+[20:41:25] bufferunderrun: so that on Bg5 Qg7
+[20:42:26] bufferunderrun: ah, there is also Qf1, so maybe not Qg7 then
+[20:42:56] bufferunderrun: 34.Bg5 if one doesn't want anything wild
+[20:42:56] inter-temporal: (33...Qd8) back rank details. but i like the pretty cross pin with Bg5!?
+[20:43:12] inter-temporal: (33...Qd8) i guess it's just a deflection/pin. whatever
+[20:43:27] feet_barbie: (33...Qd8) 2 minutes to figure it out
+[20:43:27] feet_barbie: (33...Qd8) wing it xd
+[20:43:58] inter-temporal: (33...Qd8) Bxg6! come on! let's gooooo
+[20:43:58] inter-temporal: (34.Bg5) hm
+[20:44:13] feet_barbie: (34...d4) rh3 also
+[20:44:43] inter-temporal: (34...d4) isn't Bxg6 even better now?
+[20:44:59] bufferunderrun: I kind of thought h5 instead of d4, but maybe there was g4
+[20:45:14] feet_barbie: (34...d4) d4 is spicy with 1 minute
+[20:45:29] bufferunderrun: Bxg6! let's go!
+[20:45:44] inter-temporal: (34...d4) spicy! yeh, not "panic." it's spicey!
+[20:45:44] feet_barbie: (35.Bxg6) idk i dont see the end of bg6
+[20:45:44] feet_barbie: (35.Bxg6) omg
+[20:46:00] bufferunderrun: yes!!
+[20:46:00] inter-temporal: (35.Bxg6) hello!
+[20:46:00] feet_barbie: (35.Bxg6) hxg6
+[20:46:30] inter-temporal: (35.Bxg6) after ...hxg6, Rh3, what
+[20:46:46] feet_barbie: (35...hxg6) most entertaining spiderman action
+[20:46:46] feet_barbie: (36.Rh3) bxf6
+[20:47:01] feet_barbie: (36...Bxf6) now what
+[20:47:16] feet_barbie: (36...Bxf6) you also have backrank
+[20:47:31] inter-temporal: (37.Qh7+) Qh7 then Qhsac?8
+[20:47:46] inter-temporal: (37...Kf8) here, Qh8 could be...
+[20:48:02] inter-temporal: (37...Kf8) winning back the piece
+[20:48:02] inter-temporal: (37...Kf8) maybe not enough
+[20:48:17] bufferunderrun: Rf3?
+[20:48:17] feet_barbie: (37...Kf8) for the fans
+[20:48:47] feet_barbie: (37...Kf8) dxc is scary too
+[20:49:03] inter-temporal: (38.Qh8+) this gets back to equal. lol
+[20:49:03] inter-temporal: (38.Qh8+) but B v N
+[20:49:18] feet_barbie: (38.Qh8+) but black is better probably
+[20:49:33] feet_barbie: (38.Qh8+) wins all those pawns
+[20:49:33] inter-temporal: (38.Qh8+) probably
+[20:49:49] bufferunderrun: is it equal? Ke7?
+[20:50:04] feet_barbie: (38.Qh8+) right
+[20:50:19] inter-temporal: (38.Qh8+) oh.
+[20:50:50] gavalanche20: Yeah I’m wondering the same, R covers f6 so Bf6 doesn’t deflect the king
+[20:51:05] feet_barbie: (38.Qh8+) and d4 covers everything
+[20:51:05] inter-temporal: (38.Qh8+) but it's a Q sac. would be rude not to accept
+[20:51:20] feet_barbie: (38.Qh8+) prove u can win the endgame
+[20:52:37] bufferunderrun: 39.Qh4 perhaps
+[20:52:52] inter-temporal: (38...Ke7) Bxg6?? see? someone here just can't be trusted with other people's pieces.
+[20:53:07] inter-temporal: (38...Ke7) this was 100% Buffer's idea.
+[20:53:07] bufferunderrun: Bxf6 Rxf6 back rank issues
+[20:53:38] inter-temporal: (39.Qh4) ouch.
+[20:53:38] cinemashow: (39.Qh4) back rank and d pawn
+[20:54:39] feet_barbie: (40...Rf6) wow
+[20:54:54] feet_barbie: (40...Rf6) self pinning
+[20:55:09] inter-temporal: (40...Rf6) entertainment
+[20:55:09] bufferunderrun: Rf3 hmm
+[20:55:55] bufferunderrun: I don't think this works
+[20:55:55] bufferunderrun: back rank
+[20:56:25] feet_barbie: (42.Qa7+) kf8 chad
+[20:56:25] inter-temporal: (42.Qa7+) "always check the king"--Capablanca
+[20:56:41] bufferunderrun: Ke6 Rf3, but it's ew
+[20:56:41] cinemashow: (42...Ke6) Ke6
+[20:57:42] bufferunderrun: gg
+[20:57:57] jfiras: gg !
+[20:57:57] pineapplechiffoncake: Gg
+[20:57:57] inter-temporal: gg
+[20:57:57] feet_barbie: g
+[20:58:28] cinemashow: who suggested Bxg6?
+[20:58:28] inter-temporal: Buffer
+[20:58:28] pavonine: wow ii am tired
+[20:58:28] cinemashow: own up
+[20:58:28] inter-temporal: just buffer. no one else
+[20:58:43] pavonine: so many people, hello
+[20:59:13] guitarspider: gg
+[20:59:28] pavonine: gg man, though i couldn't see an attack to break through i felt swamped
+[20:59:28] bufferunderrun: what did we learn guys? never sacrifice your own pieces
+[20:59:28] guitarspider: I felt like I always missed some tactical point today
+[20:59:44] bufferunderrun: do it with some one else's
+[21:00:14] guitarspider: But you defended well, well deserved. I did feel like I should have crashed through at some point but I could never quite make it work.
+[21:00:14] inter-temporal: 29.b4 is not for real humans
+[21:00:29] guitarspider: I did think about b4 but it is so weakening, I couldn't make it work
+[21:00:29] feet_barbie: rh3 h5 and then bxg6 is insane esp in time scramble lol
+[21:00:29] feet_barbie: looks crazy
+[21:01:15] guitarspider: ah, wrong move order? :D
+[21:01:46] pavonine: i did see that and am glad that wasnt played haha
+[21:02:01] pavonine: also i really didn't like the look of 20.a4
+[21:02:16] inter-temporal: props for the Tal-like speculative sac. we all wanted to play it. i mean
+[21:02:46] inter-temporal: actually only buffer wanted to and we were all misled
+[21:03:02] guitarspider: a4 I discarded because of b4, that seemed to be quite a good idea
+[21:03:17] guitarspider: but maybe I was wrong to discard it
+[21:03:47] bufferunderrun: to my defense Bxg6 is one of those moves that works sometimes, like 31.Bh6 instead of Qh6 that I wanted and now Nxb2 Bxg6 works
+[21:04:33] guitarspider: Yes, I was thinking about lines like that too.
+[21:05:19] pavonine: i considered the cowardly 27...kf8 but couldn't see how to make it work
+[21:05:49] guitarspider: :D
+[21:06:19] pavonine: thanks for the game, good luck in the rest of the tournament
+[21:06:19] guitarspider: I'm kind of annoyed that the engine just plays b4 and puts the rooks on the third and effectively banks the matings attack for later
+[21:06:35] pavonine: lol
+[21:06:50] guitarspider: Same, it was a fun game! Good luck for the rest of the season.
