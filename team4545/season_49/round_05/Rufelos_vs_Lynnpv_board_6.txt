@@ -1,0 +1,86 @@
+Lichess game chat log
+Game      : https://lichess.org/4owDoNCN
+White     : rufelos
+Black     : lynnpv
+Time      : 45+45
+Captured  : 2026-08-02 22:54:02 UTC
+Game ended : 2026-08-02 21:33:47 UTC
+Messages  : 76
+────────────────────────────────────────────────────────────
+
+[19:08:39] handknit: (9.a3) looking more or less solid on both sides so far. Bd7 maybe unnecessarily passive compared to Be6
+[19:45:21] lynnpv: lets see
+[19:45:51] lynnpv: i wanna dynamite his kings position. And I keep in mind his weak center pawn.
+[19:49:25] handknit: (17.gxf4) I don't know how well black's pieces are positioned to take advantage of the king
+[20:14:20] semlegesnev: The pawn on b4 is quite annoying rn
+[20:15:37] handknit: (21.Be3) It's sorta menacing but not so much of a threat, I think
+[20:16:38] handknit: (21.Be3) Black's issues are pretty much all to do with (a) the non-development of pieces (esp the Bd8) and (b) white's control of the centre
+[20:28:05] handknit: (22...Rg6) frisky rook
+[20:33:41] handknit: (22...Rg6) pretty sure white's better here but it's unpleasant with a short clock
+[20:37:16] handknit: (23.Ng5) what's going on with Nf5 now?
+[20:47:41] lynnpv: hope I did not miscalculated
+[20:48:42] handknit: (24.Qh5) Bxg5 and dxe5 actually gets black's pawn back
+[20:52:31] handknit: (26...Ra2) The R looks nice on a2 but I kinda don't like it because I think black's back rank is kinda weak now
+[20:54:49] williewipeout: I agree I thought they would try to trade off the light squared bishops to take off some of the pressure
+[20:56:05] handknit: (27.Ra1) Yeah, I was thinking about Bc6, though it leaves black's pawn structure really bad
+[20:56:20] handknit: (27.Ra1) You'd be counting heavily on Nd4-Nf3+ to make something happen
+[20:57:06] handknit: (27.Ra1) Weird line thought: 27...Qa8 28.Bxb7 Rxf2+
+[21:00:40] handknit: (28.Rxa1) Gonna be really hard for black to untangle now
+[21:00:55] handknit: (28.Rxa1) Bc6 might be necessary now
+[21:01:26] handknit: (28.Rxa1) some kind of c6-Kg8-Qe8-h6 manoeuvre
+[21:08:04] handknit: (30.Qg4) I think that's game
+[21:08:19] handknit: (30.Qg4) Bd7 and white just takes on f5
+[21:08:50] handknit: (30...Bd7) the rook never came home from g6
+[21:10:37] handknit: (31.Rxe5) I think Nd6 lets black play on here
+[21:11:53] handknit: (32.d4) Nxd4 let's get nuts
+[21:12:08] semlegesnev: d4 is hanging
+[21:12:23] handknit: (32.d4) White might still be winning there lol
+[21:12:23] semlegesnev: Wow twice today, I'm slow
+[21:12:54] handknit: (32.d4) 32...Nxd4 33.Qxd7 Qxe5+ 34.f4 and it's not quite clear how black solves all the problems
+[21:13:40] handknit: (32.d4) that's a hard line for either player to see, though
+[21:14:10] semlegesnev: Maybe right now, but I think pretty much all moves are intuitive after Nxd4
+[21:14:25] handknit: (32...Nxd4) You might be right
+[21:14:41] handknit: (32...Nxd4) well, Qxd7 isn't so simple with allowing taking the rook with check
+[21:14:41] handknit: (33.Qxd7) but here we go
+[21:15:11] handknit: (33...Qxe5+) you know what? 33...Nf3+!!
+[21:15:42] handknit: (34.f4) you simultaneously pull the bishop away from attacking the rook and block f4
+[21:15:57] semlegesnev: I was thinking that but didn't see the check from g. Yea, that might be it
+[21:16:12] handknit: (34.f4) Qb8 Qxd4 seems winning for white
+[21:17:28] handknit: (35...Qb2+) and h6, I guess, but I don't think that's enough
+[21:17:28] semlegesnev: Hmm, this can be an interesting endgame with time scramble if white doesn't win here
+[21:17:59] lynnpv: miscalculated..
+[21:17:59] handknit: (35...Qb2+) Maybe there's a perpet threat to control Qe8+ and Be4
+[21:18:14] semlegesnev: h6 Qe1+ Kh2 Be5 wins? Or is there some perpetual?
+[21:18:29] handknit: (36.Kg3) 36.Bg2 h6 37.f5 Rxg5 38.Qd8+ was also a line
+[21:19:45] handknit: (36...Rxg5+) 36...h6 37.Qe8+ Kh7 38.Be4 Qb3+ maybe
+[21:20:01] handknit: (36...Rxg5+) since you would have Qd1+ against Kg4
+[21:20:31] handknit: (37...Qe5+) This looks a bit more simple now, though
+[21:21:02] semlegesnev: Kh4 Qf4 Qg4
+[21:22:03] semlegesnev: Oor Kh4 Qe1 Kh5 g6+ Kh6 Qh4#
+[21:22:18] semlegesnev: Nevermind...
+[21:23:34] lynnpv: pawn on the wrong colors
+[21:24:52] lynnpv: + one square too late
+[21:24:52] rolihlahla: Ke4 and it's over
+[21:26:39] rolihlahla: Kd5 here
+[21:27:25] handknit: (48...Ke7) I mean even Be8 wins
+[21:27:40] handknit: (48...Ke7) Bf5 wins
+[21:27:55] handknit: (48...Ke7) in fact, even Be6 may win, which. means that literally every move wins
+[21:28:42] rolihlahla: including Kd5  :-)
+[21:28:57] rolihlahla: :-)
+[21:29:28] handknit: (52...Kc7) hold on, if black plays g5 here
+[21:29:58] rolihlahla: white should still win
+[21:30:14] handknit: (52...Kc7) by one tempo
+[21:30:29] rolihlahla: c6 e.g.
+[21:30:44] handknit: (52...Kc7) I think c6 might throw it away
+[21:30:59] rolihlahla: how?
+[21:31:15] handknit: (52...Kc7) nah, still in time by one tempo
+[21:31:30] rolihlahla: :-)
+[21:31:45] handknit: (52...Kc7) it is definitely goofable, though
+[21:32:46] semlegesnev: Its only winning with triangulation right?
+[21:33:17] semlegesnev: This might not be winning anymore tho
+[21:33:17] handknit: (57.Kd6) it is, just
+[21:33:32] handknit: (57.Kd6) this is why you wanted the pawn already on g5
+[21:33:32] semlegesnev: Oh yea thats right
+[21:33:47] semlegesnev: Gg
+[21:34:02] rufelos: gg!
+[21:34:18] handknit: Computer vindicates 33...Nf3+!!
