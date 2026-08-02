@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/Be3GkLo0
+White     : checkmate_insurance
+Black     : qudit
+Time      : 45+45
+Captured  : 2026-08-02 00:53:45 UTC
+Game ended : 2026-08-01 23:33:30 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[22:03:01] gavalanche20: gl qudit
+[22:04:48] mrscribbles: (6.b4) white has blundered a pawn, very sad :(
+[22:06:04] mrscribbles: (10.b5) hi gav
+[22:06:19] mrscribbles: (10.b5) go chinmate_checksurance and qubit
+[22:07:20] gavalanche20: hiii
+[22:07:51] gavalanche20: oh this is the insane Dubov gambit thing
+[22:14:28] voylento: came in late, thought it might be an Evans gambit, but something else
+[22:20:04] checkmate_insurance: Rxg7 is a small mistake
+[22:20:04] checkmate_insurance: iirc
+[22:22:51] bufferunderrun: 'et go Checkmate!
+[22:23:07] bufferunderrun: let's go!
+[22:23:52] checkmate_insurance: I don't know Qe7 which makes me think it's a mistake
+[22:24:08] checkmate_insurance: d5 immediately looks pretty strong
+[22:24:38] bufferunderrun: hold on, this is this Dubov line, right? seb used to play it back in the day, i think
+[22:26:56] gavalanche20: (13...Qe7) Yep the Dubov chaos line
+[22:28:27] grzybozbur: yeah, what is this? Can't we just have a decent rook endgame, like civilized people?
+[22:29:13] gavalanche20: (13...Qe7) You can still get it I'm sure but just need to memorize 340 moves of theory to get there first
+[22:29:59] bufferunderrun: I used to play Botvinnik in Semi-Slav, so don't mind a little bit of chaos :p
+[22:44:13] bufferunderrun: and Ne5 I suppose
+[22:50:19] checkmate_insurance: i think i have a pretty nice position the king is a bit weak on f6
+[22:54:39] bufferunderrun: so Bh3 Ne4, so i wonder if black wants Bd3 here, but then e7 is kind of weak
+[22:57:26] bufferunderrun: the knight on a5 is doing nothing, so maybe c6 would be played soon
+[22:59:28] bufferunderrun: Ne4-Nf6 is coming
+[22:59:59] bufferunderrun: and Kg6 Nh4
+[23:00:45] bufferunderrun: or maybe Ne2 here
+[23:01:30] bufferunderrun: but this would probably allow h5 or h6
+[23:02:31] bufferunderrun: there is also Ne5+
+[23:09:38] bufferunderrun: the downside of Ne2 is that e4 is no longer protected, so perhaps Be4, if no tactics work
+[23:18:17] bufferunderrun: if Bd3 i think Nd4 looked alright
+[23:29:11] checkmate_insurance: i swear this just loses a piece no?
+[23:29:11] bufferunderrun: I couldn't quite work it out after Kg4, so kind of thought Nd4 was easier, but I've looked at Bd3 line though
+[23:30:43] checkmate_insurance: i guess i lose g3 at the end of the line but i'm fine with it
+[23:33:00] bufferunderrun: Kg4 h3 and if K on the dark square Nd6 drops Be4 for sure
+[23:33:15] bufferunderrun: gg
+[23:36:33] checkmate_insurance: oh i had Nfg6++ and mate
+[23:36:33] checkmate_insurance: if we played on
+[23:36:48] checkmate_insurance: i was just looking at Ne6
+[23:46:28] mrscribbles: gg
