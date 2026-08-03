@@ -1,0 +1,36 @@
+Lichess game chat log
+Game      : https://lichess.org/DT4NINBx
+White     : jtschuwirth
+Black     : thedifferenceoftier5
+Time      : 45+45
+Captured  : 2026-08-03 02:49:41 UTC
+Game ended : 2026-08-03 01:29:29 UTC
+Messages  : 26
+────────────────────────────────────────────────────────────
+
+[23:03:39] bufferunderrun: let's go chess!
+[23:30:09] mrscribbles: (17.f4) go cjrudgtsuwitch and the diffwhatever
+[23:30:24] mrscribbles: (17.f4) go bufferunderfun and go kartoffe1
+[00:15:43] thedifferenceoftier5: this position must be winning but it's so annoying to actually win
+[00:30:58] bufferunderrun: Idk, it feels 28...Bxf3 must be winning, like Rxf3 Rxd4 Qc5 Qxc5 Rxc5 Re6 and the pawns are disconnected and too weak for white
+[00:31:13] bufferunderrun: just need to resolve the back rank issue first
+[00:33:31] nyanners: yea white didnt have to play along
+[00:33:31] nyanners: could insert rxc6
+[00:33:46] nyanners: instead of moving q
+[00:33:46] nyanners: qxb5 :o
+[00:39:38] bufferunderrun: there was maybe Qb7 on Rxc6, but yeah, I see your point
+[00:54:53] bufferunderrun: 37...Rd2+ Kf3 Rxb2 Rxf7 Kg8 seems alright
+[00:55:54] bufferunderrun: they are going for it
+[01:01:59] bufferunderrun: I was thinking of maybe cutting the king off with Rb4 instead of Rb3
+[01:03:00] bufferunderrun: this kind of allows Ke4-d5-d6-d7pawn push or similar
+[01:06:34] bufferunderrun: 43.Ra8+ Kg7 e7
+[01:07:20] bufferunderrun: black is probably lost here
+[01:08:36] bufferunderrun: now Ke5 Idk, maybe Re3+ works...
+[01:10:37] bufferunderrun: there is a rook sac to look at
+[01:10:53] bufferunderrun: 3am I'm not calculating anything
+[01:13:25] thedifferenceoftier5: i feel like im solving an endgame study rn
+[01:13:40] bufferunderrun: like let's say 43...Rxg3 Ra8+ Kg7 e7 Re3+ Kd6 b4 e8=Q Rxe8 Rxe8 a2 for example
+[01:16:43] bufferunderrun: 44.Kd6 and going after b5 made more sens to me
+[01:18:14] bufferunderrun: 49...Rf6+ perhaps
+[01:24:50] bufferunderrun: with the king on h8 and the pawn on h7, there would have been Re7+
+[01:28:57] bufferunderrun: gg
