@@ -1,0 +1,358 @@
+Lichess game chat log
+Game      : https://lichess.org/R7XJ8K2O
+White     : sahkal
+Black     : tommeketoch
+Time      : 45+45
+Captured  : 2026-08-03 22:04:41 UTC
+Game ended : 2026-08-03 20:44:32 UTC
+Messages  : 348
+────────────────────────────────────────────────────────────
+
+[18:21:50] sahkal: (1) welcome everyone to this game, i'm very nervous because the game is live streamed and i don't want to lose!
+[18:22:35] sahkal: (1) all kinds of people are welcome, you should watch thechessrunner twitch channel
+[18:23:06] sahkal: (1) i'm going to play the "king's indian defense makagonov system" opening
+[18:23:52] sahkal: (2) i'm not watching the twitch stream because it would be cheating on my part and it would be bad
+[18:24:07] iwishiweredecent: Wow that's pretty cool, I have never seen a game in the tournament be streamed on twitch
+[18:24:07] sahkal: (2) here we play the move 2.c4
+[18:24:22] sahkal: (3) everything normal so far
+[18:24:52] inter-temporal: (4.e4) gonna watch party if it's a Makagonov
+[18:24:52] inter-temporal: (4...d6) Nf3 & h3
+[18:25:08] inter-temporal: (4...d6) or just h3 first
+[18:25:08] sahkal: (5) now we enter the so-called makagonov system with 5.h3
+[18:25:23] iwishiweredecent: Yeah he said he is playing it
+[18:25:38] sahkal: (5) inter-temporal told me about this opening, and it's a good opening for white to avoid the kingside attack play
+[18:26:39] sahkal: (6) we played h3 on the previous move partially in order to be able to develop the bishop to e3 without Ng4 being an issue
+[18:27:55] pavonine: great opening
+[18:28:10] pavonine: i think ...e5 is not supposed to be great for black here, as d5 is really nice for white
+[18:28:10] inter-temporal: (6.Be3) 6.Be3 Makogonov is a nice one
+[18:28:41] sahkal: (6) here i think my opponent has played e5 and c5 previously
+[18:29:11] sahkal: (6) the two moves lead to games of different characters, so makes sense for him to think about which one to enter
+[18:29:11] inter-temporal: (6.Be3) i think Nc6 is fine, but tricky
+[18:29:26] sahkal: (6) i'm basically out of book after this move, although i know the general sorts of things i want to do in either variation
+[18:31:28] sahkal: (7) okay, the move c5 leads to more of a benoni-like structure. here i only seriously looked at pushing the pawn to d5
+[18:32:14] sahkal: (7) and well that is what creates the famous benoni structure. then he's played the move b5 and the move e6 previously after that
+[18:33:00] sahkal: (7) an alternative is Nf3 but i think in those types of positions my opponent has even more experience as they are quite similar
+[18:33:15] sahkal: (7) in a sense to the accelerated dragon maróczy binds
+[18:34:01] iwishiweredecent: I am not familiar with this but it is interesting, looks like a fun position to watch
+[18:35:17] sahkal: (8) e6, so now Nf3 i think and then we can defend e4 with Nd2 eventually
+[18:36:18] sahkal: (8) before the game i have looked at some line like Nf3 exd5 cxd5 Re8 Nd2 Nxe4 Ndxe4 f5 or something like that
+[18:36:48] sahkal: (8) and then it continued Be2. but whatever
+[18:37:03] iwishiweredecent: I wouldn't be surprised if we see that exact line tbh
+[18:38:20] iwishiweredecent: Where does the LSB want to be Inter?
+[18:38:50] inter-temporal: (9.cxd5) me? srry, just gettin more coffee. lol
+[18:39:06] inter-temporal: (9.cxd5) lsb usually goes to e2, but i was away
+[18:39:36] inter-temporal: (9.cxd5) it supports the K-side advance by white pawns
+[18:39:36] sahkal: (9) but i can't remember whether it was best play or an "i would play Nd2 why does the engine not like it"" type of thing
+[18:40:22] pavonine: looking at the masters games it depends on black. Bd3 is also v common
+[18:41:07] inter-temporal: (9.cxd5) also depends on white, because with the white pawn back on d4, Bd3 interferes with defense
+[18:41:07] inter-temporal: (9.cxd5) of d4
+[18:41:07] iwishiweredecent: Yeah I was wondering about Bd3
+[18:41:53] sahkal: (9) from a broader point of view, this is a benoni position with a weird bishop placement on e3
+[18:41:53] inter-temporal: (9.cxd5) but this is kinda more like benoni, yeh?
+[18:42:08] inter-temporal: (9.cxd5) with black's Q-side majority so not sure if its' safe for white to castle long
+[18:42:54] sahkal: (9) the benoni is a difficult opening to play with white as it's a space advantage position, notoriously difficult to play well
+[18:43:09] sahkal: (9) and you need to constantly look out for the counterplay opportunities
+[18:44:10] sahkal: (9) but it's also true that white has the objective advantage according to engines
+[18:44:10] inter-temporal: (9.cxd5) ...Re8 to attack e4 seems normal
+[18:44:25] sahkal: (10) (unless they reach a high depth when they find equality)
+[18:44:25] inter-temporal: (9...Re8) the prepare or sac ...b5 maybe
+[18:45:11] sahkal: (10) okay so we might be going into the line that i mentioned, let's think about possible alternatives
+[18:46:12] iwishiweredecent: Nd2?
+[18:47:28] sahkal: (10) i think Nd2 has to be the right move indeed, i don't really see other reasonable options
+[18:47:59] duty5521: Are we seeing Nxe4?
+[18:48:44] sahkal: (10) so Nxe4 Ndxe4 f5 Be2 and then i don't think i checked the line any further, i guess fxe4 then, Qc2 maybe?
+[18:49:30] sahkal: (10) and i guess we're working with the d5 pawn, castle kingside, maybe e4 is weak in the long-term
+[18:50:31] inter-temporal: (10.Nd2) tom is looking at some wild tactics
+[18:51:02] inter-temporal: (10.Nd2) i'd probably just go Bd7 aiming for b5
+[18:51:17] inter-temporal: (10.Nd2) or ...Qa5 re same
+[18:52:02] inter-temporal: (10...a6) lol. this hides tom's wild intent.
+[18:52:02] sahkal: (11) all right, a6 a4 can be included. i think a4 is always automatic after a6 in these positions
+[18:53:34] jokicinator15: (11...Nxe4) oooooh
+[18:53:49] inter-temporal: (11...Nxe4) "If i did some stupid blunder, it's just like that."--Tom
+[18:53:49] sahkal: (12) i think it's the same story whether a6 is included or not, probably
+[18:53:49] jfiras: interesting
+[18:55:51] sahkal: (13) and now Be2 to close the e file, makes a lot of sense
+[18:56:06] duty5521: a6 is very interesting
+[18:56:37] sahkal: (13) i wouldn't want to give him my queen's bishop which he could get against other moves
+[18:58:23] iwishiweredecent: What am I missing here?
+[18:58:54] inter-temporal: (13...fxe4) dsb on long diagonal?
+[18:59:09] mennonite: it's really surprising these two have never faced off
+[18:59:24] sahkal: (14) and now i thought Qc2, but there are alternatives like castling or even Bg4
+[19:00:10] iwishiweredecent: oh okay nevermind
+[19:01:41] iwishiweredecent: 13. Bd3 wouldn't have worked? at least to recapture that pawn?
+[19:03:43] duty5521: Then fxe4 Nxe4 Bxb2 or fxe4 Bxe4 Bxc3+ bxc3 Rxe4
+[19:03:43] inter-temporal: (13...fxe4) i think ...Bxc3+ would be a problem there
+[19:04:29] sahkal: (14) if the knight comes to e5 i can take e4, unless he takes c3 first which i wouldn't mind
+[19:04:29] inter-temporal: (13...fxe4) depending on the line. it was complicated! lol
+[19:04:59] duty5521: eh maybe not Bxb2 RB1 looks annoying
+[19:05:30] sahkal: (14) if i castle and he takes c3 bxc3, not sure. maybe i want to recapture with the queen in that case and then play for b4 eventually
+[19:05:45] sahkal: (14) hence Qc2. but there is also Qd2
+[19:06:31] sahkal: (14) Bg4 i don't really like, my bishop is quite fine, his bishop is not really doing much
+[19:06:46] sahkal: (14) in these benonis black usually wants to get rid of that bishop
+[19:07:32] sahkal: (14) the question is whether i should keep defending d4 with Qd2 or attack e4 with Qc2
+[19:07:47] duty5521: maybe 13. Bd3 fxe4 14. Nxe4 Bf5 15. Nc3 Bxd3 16. Qxd3 and Black claims to have the better pieces
+[19:09:19] sahkal: (14) have to just choose one. i feel like going Qd2
+[19:10:50] sahkal: (14) this also prevents Qh4 ideas. next we probably castle kingside
+[19:12:22] sahkal: (15) time to castle, i think Ne5 is still met with Nxe4 and that should be decent
+[19:13:23] sahkal: (15) not sure what he wants, maybe attack d5 with b6 Bb7 and Nf6? but it can always be defended easily
+[19:14:08] sahkal: (15) or take c3, Re5 and Nb6...
+[19:14:39] sahkal: (15) but i don't think he's in time with that either
+[19:15:25] inter-temporal: (15.O-O) sahkal moving unusually quickly? should be down to increment by now
+[19:15:25] duty5521: lmao
+[19:16:10] sahkal: (15) take on c3 and then Ne5, possibly, but then eventually i should have enough power against e4, also the long diagonal is nice
+[19:17:11] iwishiweredecent: I am really starting to hate white's position
+[19:17:27] iwishiweredecent: that e pawn is really annoying
+[19:18:12] sahkal: (16) okay now maybe Qa5 is something to prevent so a5 comes to mind
+[19:19:13] sahkal: (16) i like it, the knight can think about coming in to b6. if he plays b6 then axb6 Qxb6 and b4 i think
+[19:20:45] inter-temporal: (15...Nf6) if a5 is ...b6 good?
+[19:21:31] inter-temporal: (16.a5) probably not. since a6 remains weak
+[19:21:46] inter-temporal: (16.a5) but b2 is weak too
+[19:22:47] inter-temporal: (16.a5) ahh. ...b5 directly
+[19:22:47] inter-temporal: (16.a5) seems double edged enough
+[19:25:04] sahkal: (16) glad i put the queen on d2, communicates so much better with both the kingside and queenside
+[19:27:36] inter-temporal: (16.a5) seriously though, how does sahkal still have a full 19+ minutes remaining after 15 moves?
+[19:30:09] bpack: (16.a5) Go Tom!!!
+[19:30:55] sahkal: (16) i'm thinking he should do Nd7 here. then let's say Na4 b5 axb6 Nxb6 wouldn't be great as i fail to get in b4
+[19:31:40] sahkal: (16) so against Nd7 i need a different move. could be Rfb1 b5 axb6 Nxb6 b4
+[19:32:41] sahkal: (16) i like that, the other rook is a bit hemmed in but can get some play through a4
+[19:33:42] sahkal: (17) oh he does this variation which i thought was quite comfortable after axb6 Qxb6 b4. but maybe he wouldn't recapture with the queen
+[19:34:43] sahkal: (17) either way though i think it's okay. let's say axb6 Qxb6 b4 Qxb4 of course Rfb1 wins the queen, that's the main idea
+[19:35:29] sahkal: (17) otherwise c5 is falling if he goes into the Qxb6 lines. but maybe d5 is also falling
+[19:35:44] sahkal: (17) but then it's at best equal for black which is fine
+[19:36:15] sahkal: (17) moves other than Qxb6 i think i'm doing very well, b4 is coming anyway and other queenside play
+[19:38:16] sahkal: (18) let's see again, b4 Qxb4 Rfb1 Nxd5 Rxb4 Nxc3 Rbb1 Nxb1 Rxb1 that's unplayable for black
+[19:38:47] sahkal: (18) b4 Qc7 then, bxc5 dxc5 but that looks really nice with the passed d pawn
+[19:39:17] nightsub: nice match
+[19:41:04] sahkal: (18) okay b4 Nd7 let's say Rab1 then. hard to believe in black there
+[19:42:20] sahkal: (18) b4 Nd7 Rab1 Bxc3 Qxc3 cxb4 Rxb4 Qd8 maybe, but the long diagonal looks good
+[19:42:35] sahkal: (18) maybe there is something better than Rab1 as well, there are other options
+[19:48:41] sahkal: (19) so Rab1 is okay, there is also bxc5 Nxc5 Na4 Qc7 Nxc5 it gets pretty wild
+[19:49:27] nyanners: yea feel id go with rab1
+[19:51:13] sahkal: (19) can't remember what i saw after Rab1 Qc7, maybe Rfc1 c4 and then i'm not sure what happens, Ne5 next looks strong
+[19:52:29] duty5521: I barely even slept I can't understand anything from this position
+[19:53:00] sahkal: (19) bxc5 Nxc5 Na4 Qc7 Nxc5 dxc5 is good, and Nxc5 Bxa1 Rxa1 dxc6 i think the diagonals towards his king give more than enough comp
+[19:53:15] nyanners: a little fight for some queenside squares
+[19:53:45] nyanners: rab1 is a lazy move but seems strong. like you just keep going Rab1 Qc7 Rfc1
+[19:54:01] nyanners: cxb4 you have Nb5 Nc7
+[19:54:46] nyanners: but Rfc1 c4 could be a good response
+[19:55:32] sahkal: (19) bxc5 Qb4 maybe another option, Rfc1 Nxc5 Rab1 Bxc3, who knows
+[19:57:19] sahkal: (19) Rab1 Qc7 Rfc1 c4 Bd4, maybe i should go for that variation
+[19:57:34] sahkal: (19) quite possible that that's very good
+[19:57:49] nyanners: yea i thought of that but black has Ne5
+[19:58:35] nyanners: not that its necessarily super meaningful but seems to make Bd4 less appealing
+[19:59:21] sahkal: (19) needed to spend some time here, important move
+[19:59:51] inter-temporal: (19.Rab1) yeh, definitely did not spend enough time... uh huh
+[19:59:51] sahkal: (19) but it's impossible to figure it all out
+[20:00:22] nyanners: maybe Bg4 in the c4 line? :D
+[20:00:22] nyanners: probably not
+[20:01:38] sahkal: (20) again there were alternatives like bxc5 first
+[20:03:25] sahkal: (20) big picture, i think we managed to break through on the queenside but he's defending well so i would say close to equality
+[20:05:11] leverkuhn: I would give White a very large edge; we'll soon have a passed d-pawn
+[20:05:57] bxvrc2lh: +1 + very weak king for black
+[20:06:12] leverkuhn: after 21.Na4 perhaps
+[20:06:43] sahkal: (21) bxc5 Rxb1 Nxb1 i think. bxc5 Bxc3 Qxc3 Rxb1 Rxb1 Nxc5 Bxc5 looks equal
+[20:06:58] pavonine: love how sahkal is typing with 1 min left
+[20:07:13] duty5521: true
+[20:07:13] nyanners: i type during bullet games
+[20:07:13] inter-temporal: (21...Rxb1) standard operating procedure
+[20:07:28] leverkuhn: entertaining the spectators comes first!
+[20:07:59] duty5521: yes
+[20:07:59] inter-temporal: (22.Nxb1) spectating observers procedure
+[20:07:59] sahkal: (22) this also looks pretty equal, i feel like the queenside pawns are all getting traded
+[20:08:29] sahkal: (22) difficult to imagine fighting for more with the bad knight on b1
+[20:08:44] nyanners: i didnt think much about the move order but in hindsight 21 Na4 clearly the better way to go about this
+[20:09:30] nyanners: how much does it matter? maybe quite a bit
+[20:09:45] sahkal: (23) here Bxc5 dxc5 Qc2 i think, Qb4 is an alternative
+[20:09:45] pavonine: Qc2?
+[20:10:01] leverkuhn: Maybe 23.Na3 now, keep Black toes as to when you'll take on c5?
+[20:10:16] nyanners: yea Na3 seems normal
+[20:10:31] nyanners: if youre going to play Qc2 also seemed more normal to start with that instead of Bx
+[20:10:31] duty5521: Bxc5 seems excessive
+[20:10:31] duty5521: all in on the d pawn?
+[20:10:31] sahkal: (24) not Qc2 as that allows Bd4 of course, but Qe3
+[20:11:32] sahkal: (24) possibly 23.Qb4 was stronger but i wanted some clarity because he's up a lot of time
+[20:11:47] pavonine: f3 also an option? or is that too much
+[20:12:18] nyanners: aesthetically not pleasing on dark squares
+[20:12:18] leverkuhn: too weakening in most cases imo
+[20:12:48] nyanners: qe3 may be good
+[20:14:04] sahkal: (24) now this looks equal, maybe Qb4 was the stronger side of equality and this is the weaker side but should be all right
+[20:14:35] nyanners: dont like Qb4. its not like black cant take
+[20:14:35] nyanners: did white see that..
+[20:14:50] leverkuhn: 24...Bf8 doesn't feel right for some reason, but what active moves should Black make?
+[20:15:05] nyanners: yea i agree. if Bf8 is best then Qe3 is good
+[20:15:36] pavonine: f3 do it
+[20:15:36] jfiras: (24...Bf8) disconnected ? :o
+[20:15:51] duty5521: rip
+[20:16:06] nyanners: nice :o
+[20:16:06] duty5521: very respectable fair play from tomme
+[20:16:06] nyanners: id give 10 min i think
+[20:16:06] pavonine: lol the suspense
+[20:17:53] nyanners: if im in a really good mood id give a draw (you can offer draw and it will claim a draw when it times out)
+[20:17:53] nyanners: but mostly not
+[20:18:08] jokicinator15: (24...Bf8) good guy tom
+[20:18:08] inter-temporal: (24...Bf8) hm. good to know
+[20:18:23] jcarmody: <3 Tomme
+[20:18:39] nyanners: nice :o
+[20:18:54] nyanners: warms my non-existing soul a bit
+[20:19:24] jcarmody: :)
+[20:19:40] leverkuhn: 25...Qe5 and if 26.Nc4 Qd4 maybe
+[20:19:40] sahkal: (25) oh wow i disconnected at a bad time and almost lost on time
+[20:19:55] nyanners: you did lose on time......
+[20:19:55] sahkal: (25) luckily just in time to get back
+[20:20:10] leverkuhn: he's got to know surely
+[20:20:10] nyanners: he doesnt know XD
+[20:20:10] iwishiweredecent: What up ryannes, good to see ya
+[20:20:25] nyanners: hey :o
+[20:20:25] iwishiweredecent: 17 people... I have never seen such a massive crowd lol
+[20:20:25] pavonine: so taht's why his clock is so low, he doens't even look at it haha
+[20:21:11] nyanners: i could believe that
+[20:21:41] duty5521: I was really asking myself why not Qxd5 zzzz i need to get sleep into my system
+[20:21:41] iwishiweredecent: Wow I have never seen someone give their opponent extra time in this league... pretty kind of them
+[20:21:41] sahkal: (26) back to the position, i missed Bf8 so that's not really great, now i really think black has the upper hand but should still be fine
+[20:21:41] sahkal: (26) with good play
+[20:22:12] nyanners: i mean i wouldnt give time unless its exceptional circumstances (e.g. this)
+[20:22:12] nyanners: but im not opposed to the idea
+[20:22:27] inter-temporal: (26...Bd6) am i such a good sport?
+[20:22:42] iwishiweredecent: there goes h3
+[20:22:42] duty5521: and c5
+[20:22:58] nyanners: i am like the BEST sport unless theres something big on the line XD
+[20:22:58] nyanners: then its full ruthlessness
+[20:23:28] nyanners: like if its the last round and i need a win then yea
+[20:23:28] sahkal: (27) given that he has Bf8 of course it was a terrible decision to give up my dark squared bishop for nothing
+[20:23:59] inter-temporal: (27.g3) maybe if i have enough time to process the issues, i could find the right result... idk
+[20:24:14] nyanners: i gave a draw for a mouseslip in the marathon and it almost cost me top 100
+[20:24:14] nyanners: thatd be kinda dramatic
+[20:24:14] leverkuhn: We take h3 here, right? Tomme thinking a bit
+[20:24:29] inter-temporal: (27.g3) but maybe we sleep better
+[20:24:29] iwishiweredecent: what is the marathon?
+[20:24:44] pavonine: didn't cost you your soul tho
+[20:24:59] nyanners: it could have
+[20:24:59] inter-temporal: (27...Bxh3) the main countervailing issue is a duty to teammates
+[20:25:30] inter-temporal: (28.Nxc5) i don't mind personal sacrifice FOR teammates. but against teammates is harder
+[20:25:45] nyanners: yea i also feel that XD
+[20:25:45] iwishiweredecent: Qd5?
+[20:25:45] nyanners: im less likely to be sporting in a team event
+[20:26:00] inter-temporal: (28.Nxc5) indeed
+[20:26:00] iwishiweredecent: oh nevermind
+[20:26:00] mennonite: I guess that assumes that you get along with your teammates too
+[20:26:16] inter-temporal: (28.Nxc5) no. lol
+[20:26:16] inter-temporal: (28.Nxc5) maybe
+[20:26:31] nyanners: Bxh3 leaves two pawns so i dont think it was super  clear
+[20:26:31] nyanners: but i would too
+[20:27:01] nyanners: but white seems fine here..
+[20:27:17] nyanners: or it could be -2 idk
+[20:27:32] leverkuhn: Maybe 28...Kh8 to start threatening d5? Or 28...a5 to hang on the a-pawn a bit
+[20:27:32] iwishiweredecent: 8?
+[20:27:32] iwishiweredecent: Rc8?
+[20:28:02] inter-temporal: (28.Nxc5) perhaps my sense of loyalty to teammates is too old-fashioned
+[20:28:02] leverkuhn: I was hoping 28...Rc8 would do something for Black here but I don't think it does
+[20:28:33] nyanners: this knight getting to c5 is extremely annoying for black actually
+[20:28:48] iwishiweredecent: Rc8 followed up by qe7?
+[20:28:48] mennonite: like if you want to strictly act and only in the best interest of your team, you would try to force a forfeit win if your opponent is 5 minu
+[20:29:03] mennonite: minutes late messaging you on Slack to schedule
+[20:29:03] nyanners: ooooooohhh white noticed XD
+[20:29:18] nyanners: thats cute
+[20:29:18] jokicinator15: (28.Nxc5) hahahaha
+[20:29:18] jfiras: (28.Nxc5) nice !
+[20:29:34] mennonite: but nobody does that and rightfully so
+[20:29:34] iwishiweredecent: lol balancing the karmic scales
+[20:29:34] leverkuhn: I think 28...Rc8 29.Nxa6
+[20:29:49] sahkal: (28) i learned that he gave me some time so needed to give it back for fairness
+[20:30:04] iwishiweredecent: class act there
+[20:30:35] nyanners: in general i feel my duties are to myself, to fair play, and to teammates, in that order XD
+[20:30:50] nyanners: now well, the duty to myself usually doesnt conflict with the duty to fair play
+[20:31:20] nyanners: like in general i dont care much about individual results unless its somehow More Meaningful
+[20:31:20] inter-temporal: (28.Nxc5) i can force a foreit win for 5 minute late scheduling response? hmmmm..
+[20:31:36] pavonine: if the queen steps away from e5 then g4 is something to look at
+[20:32:21] nyanners: like if my rating is average and something happens to opp i wont just claim a win. but if i am close to peak i will
+[20:32:37] inter-temporal: (28.Nxc5) if i force a pedantic forefit, i think my teammates will set me adrift
+[20:33:07] nyanners: yea depending on the environment, the duty to teammates and the duty to fair play can overlap :o and thats kinda neat
+[20:33:07] sahkal: (28) okay back to the position, maybe a5 now, then there are some options again, like Nb7, he goes Bc7 Qc3 Qxc3 Rxc3 i think equal
+[20:33:22] jcarmody: I-t, I'd block you in a heartbeat!
+[20:33:38] inter-temporal: (28.Nxc5) i thought u already blocked me...
+[20:33:53] nyanners: wow..
+[20:33:53] inter-temporal: (28.Nxc5) lol
+[20:34:23] nyanners: dms are open to any sort of gossip
+[20:34:54] inter-temporal: (28.Nxc5) pretty sure one of my old mates blocked me, but he blocked everyone in the league. i think
+[20:35:09] jcarmody: :(
+[20:35:09] nyanners: a5 is normal but id really want to not play that if possible
+[20:35:09] mennonite: there's one prominent League number who has me blocked and I have no idea why.
+[20:35:24] mennonite: I suspect it was an accident because he interacts with me on slack like nothing is wrong
+[20:35:24] nyanners: like do we h5 ever
+[20:35:39] inter-temporal: (28.Nxc5) lol
+[20:35:55] nyanners: i was blocked once by mistake and it took MONTHS to sort it out
+[20:36:10] iwishiweredecent: h5 scares me... queen infiltration and what not
+[20:36:25] nyanners: there was this other time that this guy read my introductory message as spammy and blocked before reading the rest
+[20:36:25] nyanners: so much for my professional side
+[20:36:25] inter-temporal: (28...Kg7) feelz bad getting blocked.
+[20:36:40] sahkal: (29) now Qc3 is an option to trade the queens, but why not take a6 first?
+[20:36:55] nyanners: Kg7 is a bit weird yea
+[20:37:11] leverkuhn: he wants to take d5
+[20:37:26] iwishiweredecent: now it feels like white is kind of taking over
+[20:37:41] sahkal: (29) at least i couldn't see an immediate issue with taking that pawn
+[20:37:41] pavonine: i think i would have played Qc3 first
+[20:37:41] nyanners: feels its getting equal.. but maybe it always was
+[20:37:56] pavonine: then if Qxc3 Rxc3 you threaten g4
+[20:37:56] iwishiweredecent: feels like it is either going to come down to some crazy tactical shot or just fizzle into a draw
+[20:38:12] sahkal: (30) oh yeah because i missed that move
+[20:38:42] nyanners: forcing line in Bxc5
+[20:38:57] iwishiweredecent: getting stretched out here a bit..
+[20:38:57] pavonine: yeah Bxc5 is interesting
+[20:38:57] nyanners: seems not winning i guess
+[20:39:28] inter-temporal: (30.Bb7) increment v increment
+[20:39:43] iwishiweredecent: black comes out a pawn up no?
+[20:39:43] sahkal: (30) but maybe i can take e4 now, who knows. Bxc5 Qc3 wins for white
+[20:39:58] nyanners: loses
+[20:40:13] nyanners: no wait no
+[20:40:29] nyanners: somehow forgot Bd4 doesnt help xd
+[20:40:29] mennonite: what about Qd4 after that though
+[20:40:29] nyanners: yea but you just take c5
+[20:40:44] leverkuhn: It was still just some kind of trade
+[20:40:44] sahkal: (31) no it doesn't win, Bxc5 Qc3 Bd4 and we trade and i'm a pawn down, have to defend that endgame. anyway
+[20:41:14] pavonine: Qb2?
+[20:41:30] sahkal: (31) let's see if i'm blundering anything or not here
+[20:41:30] mennonite: I'm impressed by sahkals ability to whisper in time trouble
+[20:41:30] pavonine: no that's trash
+[20:41:30] iwishiweredecent: the pawns are melting.... they're meltingggggg
+[20:41:45] inter-temporal: (31.Nxe4) tom is chatting in time trouble
+[20:41:45] mennonite: I mostly stopped whispering in addition to a couple other adjustments and my rating shot up over the last 3 months
+[20:42:15] nyanners: the position now is basically like moves are good if they arent bad
+[20:42:15] jfiras: (31...Re7) stopping whispers affects my rating too i agree
+[20:42:46] iwishiweredecent: Nc5 to trade down?
+[20:43:01] nyanners: id say that they wouldnt but i feel the fact of the matter is that playing distracted is my natural state
+[20:43:01] nyanners: usually cant find focus outside of actual otb play
+[20:43:16] inter-temporal: (32...Qxd6) gonna depend on the person, fo sho
+[20:43:16] sahkal: (33) i think the position is winding down into a drawn endgame now with Qc3 and Bg2
+[20:43:16] iwishiweredecent: This game is INTENSE
+[20:43:47] nyanners: yea looking like draw agreed
+[20:44:02] pavonine: bg2
+[20:44:02] iwishiweredecent: Black is streaming the game on twitch as well, good game to stream
+[20:44:32] iwishiweredecent: do you guys take the draw here as white?
+[20:44:32] sahkal: (35) no way to trap the bishop so i'll accept this draw offer. nice close game!
+[20:44:32] leverkuhn: gg!
+[20:44:32] inter-temporal: gg
+[20:44:32] jfiras: gg !!
+[20:44:32] pavonine: gg thanks for the fun game
+[20:44:32] mennonite: gg
+[20:44:48] iwishiweredecent: great game!!
+[20:44:48] pineapplechiffoncake: Gg
+[20:44:48] jokicinator15: gg
+[20:44:48] nyanners: gg
+[20:44:48] mennonite: good sportsmanship too
+[20:44:48] leverkuhn: claps to tomme for the sportsmanship
+[20:45:03] sahkal: yes!
+[20:45:03] sahkal: thank you tom
+[20:45:03] jcarmody: gg, gc (good chat) thanks
+[20:45:03] mennonite: now 15 minutes to LW pairings
+[20:45:18] sahkal: nyanners!
+[20:45:18] sahkal: my favorite spectator :D
+[20:45:33] nyanners: :o
+[20:45:33] sahkal: so far i've always lost with nyanners spectating but finally i manage to scrape a draw :D
+[20:45:49] nyanners: AHAH
+[20:45:49] iwishiweredecent: ryanners is everyone's favorite!!
+[20:45:49] jfiras: lol
+[20:45:49] pavonine: yeah 30...Bxc5 was fine
+[20:46:04] iwishiweredecent: great game guys! thanks for the entertaining spectacle
+[20:47:05] iwishiweredecent: so much more exciting watching without the eval bar, I never would have guessed that it was more or less dead even for the last 3rd
+[20:47:05] inter-temporal: post moretm on twitch, i think
+[20:47:50] tommeketoch: doing post mortem right npw
