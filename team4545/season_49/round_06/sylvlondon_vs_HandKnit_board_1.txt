@@ -1,0 +1,165 @@
+Lichess game chat log
+Game      : https://lichess.org/y7WsEcgd
+White     : sylvlondon
+Black     : handknit
+Time      : 45+45
+Captured  : 2026-08-03 21:13:55 UTC
+Game ended : 2026-08-03 19:53:46 UTC
+Messages  : 155
+────────────────────────────────────────────────────────────
+
+[17:59:17] handknit: (2.Nf3) I have a cat sitting on my slap and wheezing. Let me ask him what to play
+[17:59:32] handknit: (5.c4) He's old, he slips, he repositions
+[17:59:47] handknit: (7.a3) Let's see if we get the f4 line
+[17:59:47] handknit: (8.f4) heyoo
+[18:00:02] handknit: (9.Bd3) Gonna try a slightly inferior line
+[18:00:33] handknit: (9...d6) I've been looking at the theory after Nc6, and I think the modern way of playing it, I don't like it so much
+[18:00:33] handknit: (9...d6) So let's try d6
+[18:00:33] handknit: (9...d6) Computer doesn't like it so much, especially 10.f5
+[18:00:48] handknit: (9...d6) But, well, the computer has never really been fond of the hedgehog
+[18:01:34] handknit: (9...d6) I think Qe2 and O-O are more common, which aren't quite as pressing, but still an issue
+[18:02:04] handknit: (10...Nbd7) I think the desired setup is for g6, but that Nbd7 first makes a different
+[18:02:04] handknit: (10...Nbd7) *makes a difference
+[18:02:35] handknit: (10...Nbd7) The point of the line, so much as I understand white's perspective, is to get in f4 and b4 easy
+[18:03:36] handknit: (10...Nbd7) I'm generally not a fan of playing the hedgehog with g6 but that seems to be The Way here
+[18:03:51] handknit: (10...Nbd7) I guess Bd3 makes the N on d4 a bit soft
+[18:04:37] handknit: (10...Nbd7) Music in the background is Lovers in a Dangerous Time by BNL
+[18:04:52] handknit: (10...Nbd7) I semi-recently learned that was a cover of a Bruce Cockburn, which made sense when I heard that
+[18:05:07] handknit: (10...Nbd7) "Nothing worth having comes without some kind of fight//Gotta kick at the darkness til it bleeds daylight" is way too hard...
+[18:05:07] handknit: (10...Nbd7) for BNL to have written
+[18:07:54] iwishiweredecent: What's up Mennonite?? How
+[18:07:54] handknit: (10...Nbd7) I guess Nc5 is actually a bit of an irritation for white here
+[18:07:54] iwishiweredecent: How
+[18:07:54] handknit: (10...Nbd7) Makes sense to go straight ahead with b4
+[18:07:54] iwishiweredecent: How's your day going?
+[18:08:25] mennonite: it's going all right how about you?
+[18:08:25] handknit: (10...Nbd7) Though I guess if he's not playing from theory, then he has to calculate d5 and b5
+[18:08:55] handknit: (10...Nbd7) b5 does look pretty chaotic
+[18:09:11] handknit: (10...Nbd7) What are the other main options? Qe2 and Bd2 I guess. Nice and normal.
+[18:09:41] handknit: (10...Nbd7) Qe2 seems simplest. Put a piece on a normal square, no commitments to anything else.
+[18:09:41] handknit: (10...Nbd7) See how black reacts
+[18:10:27] handknit: (11.Re1) Is there a serious difference between Re1 and Qe2?
+[18:10:42] handknit: (11.Re1) less pressure down the f-file, I guess
+[18:10:57] handknit: (11.Re1) Do I gotta be thinking about Nd5?
+[18:11:28] basilcandle: go sylv
+[18:11:43] handknit: (11.Re1) In fact, does removing the R from the f file make g6-Bg7 less necessary?
+[18:11:58] iwishiweredecent: Oh man I got out of work early on a Monday, I can't even pretend to complain
+[18:12:29] iwishiweredecent: Watching a little bit of this STL Rapid and Blitz... Watching Van Foreest blunder a massive lead to Awonder
+[18:13:45] handknit: (11...Be7) Not convinced of this but my natural preference for the B on e7 rather than g7 wins out
+[18:13:45] iwishiweredecent: Yeah go Sylvlondon!! gotta root against the undefeated team at the top
+[18:16:48] handknit: (12.Be3) Does this give me Nc5?
+[18:17:03] sylvlondon: I don't have much experience in the kan. Everytime, I struggle to properly handle Nc5 threat ...
+[18:17:18] handknit: (12.Be3) Be3 also slows down b4
+[18:18:19] handknit: (12.Be3) Nc5 I do slightly diminish my control of e5 but
+[18:18:34] handknit: (12.Be3) that may matter less with the LSB off the board
+[18:19:05] sylvlondon: I wonder also if f5 e5 Nc2 was an option ...
+[18:19:05] handknit: (13.Bf2) Time to see if I get punished
+[18:19:35] handknit: (14.Qxd3) So before I snap castle
+[18:19:35] handknit: (14.Qxd3) Rc8 and Ng4 both thoughts here
+[18:20:21] handknit: (14.Qxd3) Ng4 bg3 seems to leave my knight kinda out in space
+[18:21:06] handknit: (14...O-O) Get the king out of the middle before stuff starts asplodin
+[18:21:22] handknit: (14...O-O) e5 is a bit sharp but I think the piece reduction means I'm fine
+[18:21:37] handknit: (14...O-O) Like I'm probably not getting mated with Bc5 as an option
+[18:21:52] handknit: (14...O-O) And then white just has a bit of a stinky pawn on e5
+[18:24:09] handknit: (14...O-O) I guess I can keep thinking about the fundamental plan: Rc8, Re8, d5
+[18:24:24] handknit: (14...O-O) gotta remember that the f4 pawn is a bit loose in this structure
+[18:25:25] handknit: (14...O-O) I think maybe something to try this game is if I play super-fundamental and downplay concrete lines
+[18:25:25] handknit: (14...O-O) Moreso than usual, I mean
+[18:25:56] handknit: (14...O-O) Kinda tough to do in a hedgehog, I know
+[18:25:56] handknit: (14...O-O) The cat is back, but this time purring instead of wheezing
+[18:27:42] handknit: (15.f5) e5 does not feel right, though I've overestimated its significance in the past
+[18:27:58] handknit: (15.f5) Nd7-Ne5 also something to think of, could easily be worth a pawn
+[18:28:43] handknit: (15.f5) d5 is worth a thought here though I kinda doubt its quality
+[18:28:59] handknit: (15.f5) Ng4 is a nice finesse, actually
+[18:29:29] handknit: (15.f5) Rac8 a thought
+[18:30:45] handknit: (15.f5) I wonder if I start thinking tactics around Ng4-d5
+[18:32:01] handknit: (15.f5) The thing about Ng4-Nxf2 is I no longer have the N to stick on e5
+[18:32:47] handknit: (15.f5) I don't think I can play Rac8 Rac1 Qxc4 because the Q has nowhere to scoot after Qh3
+[18:33:33] handknit: (15...Ng4) This seems like the right option
+[18:33:33] handknit: (15...Ng4) and it's not committal
+[18:34:49] handknit: (15...Ng4) One of the more interesting ideas is meeting Bg3 with Ne5
+[18:35:04] handknit: (15...Ng4) those double iso e-pawns can actually be quite good at restraining the knights
+[18:35:19] handknit: (15...Ng4) (memories of philidor endgame theory)
+[18:37:52] handknit: (16.Bg3) Anything worth thinking about with e5 here?
+[18:39:23] handknit: (16...Ne5) despite the potential dubs isos this feels more fundamental
+[18:41:40] handknit: (18...Nxc4) so what to do after fe6?
+[18:41:40] handknit: (18...Nxc4) lots of directions
+[18:44:28] handknit: (19...Bf6) Not fond of how d6 feels a bit loose
+[18:44:43] handknit: (19...Bf6) I wonder if Qxc4 was rushed and black should play slower
+[18:46:15] handknit: (19...Bf6) Thinking about options after black's N lands on f5
+[18:48:16] handknit: (20...fxe6) I feel like this gives me more than I needed to be given
+[18:49:02] handknit: (20...fxe6) Nxd6 and black still has options
+[18:49:17] handknit: (20...fxe6) Taking back on d6 is first guess
+[18:49:17] handknit: (20...fxe6) Taking on b2 is an option too
+[18:49:32] handknit: (20...fxe6) Insert Bd4+ to get around e5
+[18:50:03] semlegesnev: I love it how Handknit goes on to narrate like "Black has this" while black is Handknit himself
+[18:50:03] handknit: (20...fxe6) I kinda like the option of trading on d6 then playing Bd4+-Rf2
+[18:50:33] iwishiweredecent: lol like he is speaking in the third person
+[18:50:33] iwishiweredecent: classic
+[18:51:04] iwishiweredecent: like a Kanye Chesst
+[18:51:19] handknit: (22.Kh1) Hard to believe the pawn structure is completely symmetrical after all this
+[18:52:05] handknit: (22.Kh1) I think Nxb2 now runs into Ne2 so RIP that option
+[18:54:52] handknit: (23...Rf2) Re2 actually seems quite solid
+[18:54:52] iwishiweredecent: \.'-
+[18:55:07] handknit: (24.Re2) Because I don't think I can take on b2 at the end of the line
+[18:55:38] iwishiweredecent: Ok I really did not see that move coming
+[18:56:08] handknit: (25.Rxf2) bring the last piece into the game
+[18:56:39] handknit: (25...Bxf2) Really wouldn't mind trading the last set of rooks here
+[18:56:54] handknit: (25...Bxf2) No sure how that's gonna present itself, though
+[18:59:42] semlegesnev: rd8 maybe?
+[18:59:57] handknit: (26.Rd1) So Be5 is what I should be thinking around
+[19:01:59] handknit: (26...Rd8) gotta contest the rook, I think
+[19:05:17] handknit: (26...Rd8) I think on g3, Bc5 wins a pawn
+[19:05:17] handknit: (26...Rd8) useful resource
+[19:06:02] handknit: (27.h3) So do I want to pull the ripcord and play Bc5?
+[19:07:03] semlegesnev: Bc5 seems like the draw line
+[19:07:34] handknit: (27...Be3) Wait a move, make white think some more
+[19:09:05] sylvlondon: I may have a kind a fortress
+[19:10:06] handknit: (30...b5) I think I can mess around pretty freely here
+[19:10:37] handknit: (30...b5) Bf2-Be1 as an emergency ripcord to draw
+[19:12:54] handknit: (31...Bc6) I don't think Bf2 quite does anything after g4
+[19:13:24] handknit: (31...Bc6) My big problem right now is finding a way in for my king
+[19:14:56] handknit: (33...g6) a5-b4-Bb5 is an idea here
+[19:15:41] handknit: (33...g6) Some kind of world where I put the pawn on b4 and bring my K to a4
+[19:15:41] handknit: (33...g6) but that is so many moves
+[19:17:28] handknit: (33...g6) I guess I have to be cognizant of white one day getting the N to e5
+[19:19:30] handknit: (35...Bd7) Feels like this ends as a draw but I still feel like I can push for free
+[19:24:19] handknit: (36.g4) So how easily can white get the N to f6?
+[19:24:50] handknit: (36.g4) I can think about g5 to fix the pawn on g4
+[19:28:38] handknit: (36...a4) I should think about how g4 may limit white's king's ability to enter on the kingisde
+[19:29:24] handknit: (38...Bxb4) I feel like I'm still playing on for free
+[19:31:25] handknit: (39.Ke3) Bc8 Nc6 feels a bit sticky
+[19:32:26] handknit: (39.Ke3) This just feels all too hard without my king
+[19:32:42] sylvlondon: I'm good for a 2 hours torture ...
+[19:33:58] handknit: (39...h5) I suppose I need to be a bit sanguine about white trundling the K QS
+[19:34:13] handknit: (39...h5) Creating a target KS should help with that
+[19:39:03] handknit: (40...Be7) Just poking and prodding a bit
+[19:39:18] handknit: (40...Be7) Pretty sure this is zeroes
+[19:39:48] handknit: (40...Be7) Bf6 is something white has to calculate
+[19:42:05] handknit: (41.Kf4) g5-h4 is an interesting idea here though I'm not sure if I can trade the DSBs
+[19:42:21] handknit: (41.Kf4) Like, if I play g5-h4, and I defending g5 forever?
+[19:42:51] handknit: (41.Kf4) Nf3-Bc3-Bd2 isn't a very hard regrouping
+[19:45:54] grzybozbur: why would white want to regroup? his pieces dominate already
+[19:49:12] handknit: (42...Bc8) A bit surprised at white choosing to play on but sure
+[19:50:28] handknit: (42...Bc8) If I'm not overpressing I think white can never have anything here
+[19:52:00] semlegesnev: all pawns on opposite colors... not much to play for
+[19:53:31] handknit: Very curious to look at the mid game where I think I had a good advantage
+[19:54:02] sylvlondon: Yep, I did a too quick prep.
+[19:54:02] sylvlondon: I'm not used to theses kan position.
+[19:54:32] handknit: They're not easy
+[19:54:32] handknit: and the f4 line in particular is quite concrete
+[19:55:18] handknit: looks like the computer identifies 24...Rc8 as the wrong direction so I guess that's the first thing to look at
+[19:55:18] sylvlondon: I don't really understand how to handle the Nc5 threat
+[19:55:18] handknit: You don't allow it
+[19:55:33] sylvlondon: b4 is not an option
+[19:55:33] handknit: Best is jamming f5 right away, before castling
+[19:56:03] sylvlondon: I was not sure of the position after f5 e5 ... need to understand theses positions
+[19:56:19] handknit: yeah
+[19:56:19] handknit: it's sort of the thematic justification of the entire line
+[19:56:34] handknit: If you're not gonna play f5 I think black's always gonna be fine
+[19:59:06] handknit: Okay. Looks like the computer's idea on move 24 was pretty deep.
+[19:59:21] handknit: Probably going to have to spend quite a bit of time on the middlegame
+[19:59:36] handknit: Point was to play Rd8 to provoke e5, thus denying the square to the bishop.
+[19:59:52] handknit: Once that's gone, white's infiltration threats are largely gone
+[19:59:52] handknit: I sort of saw that but not the importance of it
+[20:00:22] handknit: Gonna wanna see if I can find some 'easier' ideas earlier too, I guess
