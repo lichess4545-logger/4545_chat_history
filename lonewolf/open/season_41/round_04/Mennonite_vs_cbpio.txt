@@ -1,0 +1,94 @@
+Lichess game chat log
+Game      : https://lichess.org/2KApRvdE
+White     : mennonite
+Black     : cbpio
+Time      : 30+30
+Captured  : 2026-08-03 02:39:05 UTC
+Game ended : 2026-08-03 01:18:50 UTC
+Messages  : 84
+────────────────────────────────────────────────────────────
+
+[23:31:12] mrscribbles: (2.f4) fun
+[23:33:14] mennonite: i just played this on a whim i don't actually know any king's gambit theory
+[23:33:30] mrscribbles: (3...d6) LOL excellent
+[23:34:00] mrscribbles: (4.d4) You do have quite the rating cushion to fall back on. But.. twice the pride, double the fall
+[23:34:16] mrscribbles: (4.d4) hello wilsonia
+[23:35:32] wilsonia: greetings!
+[23:37:19] gavalanche20: Dang Mennonite within reach of 2200
+[23:48:46] wilsonia: nice open game
+[00:00:42] neverness: 12.g4
+[00:02:44] neverness: 13.f5
+[00:06:34] neverness: 15.Bg5
+[00:06:34] wilsonia: fun kingside attack incoming
+[00:08:52] neverness: 16.Ng3
+[00:14:43] neverness: 16...Rd6
+[00:17:46] neverness: Perhaps, also: 16...Rxd1+ 17.Rxd1 17...Rd8 and go from there.
+[00:23:38] neverness: (17...Rd8) OK, I don't see any advantage for White anymore... :-O
+[00:24:23] neverness: 18...Rd6
+[00:26:41] neverness: (19...h6) Ah, that's better than my thinking!
+[00:27:41] neverness: 20.Bh4
+[00:28:27] mennonite: 20.Bh4??  Ne4 21.Bxe7 Nf2+
+[00:29:28] neverness: Fair.
+[00:29:28] neverness: :-D
+[00:32:01] neverness: 20.Be3 then as 20.Bc1 looks too loose
+[00:38:22] neverness: I didn't like 21.Bxb6 :-S
+[00:39:39] neverness: (23.Qe2) I'd offer a draw as White, due to being down on time...
+[00:40:24] gavalanche20: (16.c3) Eh if the rating gap were closer maybe
+[00:40:39] gavalanche20: (23.Qe2) I suspect White will chance it but e4 is a pretty big target yeah
+[00:41:25] neverness: I think Black can even play 23...Qb5 get Queens traded and despite doubled pawns still be totally equal position-wise.
+[00:44:59] neverness: 24...c5 and I prefer Black now.
+[00:46:01] gavalanche20: (24...a6) I guess my thinking is now that the queen is on c4 the knight is free to maneuver
+[00:54:40] gavalanche20: (25.Qxc6) Sanity check what's the status of the endgame after 31. Qg4
+[00:55:10] gavalanche20: (31.Qg3) Qg3 Kg3 gf6 Kf4 f5 b4...?
+[00:56:26] gavalanche20: (31.Qg3) That doesn't look like it should work out for White
+[00:58:13] gavalanche20: (34.g4) Ah g4 is a resource
+[00:58:59] mennonite: i'm guessing it would probably be a fair play issue if there was a "jump scare" extension to keep you from flagging
+[00:58:59] mennonite: but yeah i totally lost track of time a bit ago
+[01:01:17] neverness: (37...a5) It seems White is going to win. :-O
+[01:01:47] neverness: 38...f6 is forced I think.
+[01:02:03] mrscribbles: (38.b3) yeah no chance for black
+[01:02:18] neverness: Oh, wait!
+[01:02:18] mrscribbles: (38.b3) in majority vs majority, the majority away from the kings wins easy
+[01:02:33] neverness: 38...Ke8 maybe?
+[01:03:04] neverness: Ah, White is got his c-pawn, yeah, it's over...
+[01:03:04] gavalanche20: (34.g4) Main concern is White can't play b4 anymore but I guess just run the c-pawn isntead
+[01:03:19] mrscribbles: (40.c4) I do hope mennonite has this calculated before losing the c-pawn tho
+[01:03:19] neverness: *still not "is"
+[01:03:49] mrscribbles: (40...Ke8) oh, just Kg7. yeah it's over
+[01:03:49] mrscribbles: (41.c5) no need for c5 even
+[01:04:04] neverness: Yes!
+[01:04:04] mrscribbles: (41.c5) yeah easy win
+[01:04:20] neverness: 41.Kg7 was better I think
+[01:04:50] mrscribbles: (41.c5) white wins the race unless I"m very much mistaken
+[01:05:36] neverness: 41...Kf8 loses I'm sure, should've tried the race instead: only chance!
+[01:05:51] mrscribbles: (42...Ke8) yeah you just have to try the race and hope white has some sort of aneurysm
+[01:06:06] mrscribbles: (42...Ke8) maybe mennonite's power goes out
+[01:06:22] mrscribbles: (43.Kg7) well, I guess you can hope that this way too
+[01:06:52] mrscribbles: (45.Kg7) c7 is cruel
+[01:06:52] mrscribbles: (46...Kc5) c7! more precise
+[01:07:07] wilsonia: gg
+[01:07:22] gavalanche20: (50...a3) Yep Qg1-a1 and it's easy now
+[01:07:53] neverness: Is it?
+[01:07:53] gavalanche20: (50...a3) Oh wait
+[01:07:53] neverness: Kb2 no?
+[01:07:53] mrscribbles: (51.Qg1) yes it's a win, this is a theoretical win
+[01:08:08] gavalanche20: (51.Qg1) I forgot Kb2 exists so I guess need to show some technique still
+[01:08:23] mrscribbles: (51.Qg1) I mean they can always mess it up, but it's a theoretical win
+[01:08:54] mrscribbles: (51.Qg1) If Kb2 just keep checking up and down the 1st and 2nd ranks until you land a Queen on a1
+[01:09:25] mrscribbles: (52.Qf2+) Qf2-Qe1-Qd2- etc to Qa1
+[01:09:25] gavalanche20: (51.Qg1) yeah Scribs you're probably right c7 would have made this a touch cleaner
+[01:09:40] neverness: This is actually instructive.
+[01:09:55] mrscribbles: (53.Qe1) @ gav but on the other hand, c7 risks Mennonite being prosecuted for war crimes
+[01:10:10] gavalanche20: (52...Kb3) loooool
+[01:10:41] wilsonia: Qb4+ 1-0
+[01:10:56] gavalanche20: (53.Qe1) nice, Ka2 Kwhereever
+[01:11:12] neverness: Yep.
+[01:11:12] neverness: GG
+[01:11:12] wilsonia: really interesting game
+[01:11:42] gavalanche20: (54...Ka2) Kc3!!!
+[01:14:45] mennonite: ...
+[01:18:20] neverness: GG
+[01:19:21] gavalanche20: Wow the endgame was winning all the way
+[01:20:21] mennonite: I thought it was lost until I realized I could get g4 in
+[01:31:17] wilsonia: funny that 31..g5 Qb8+ Kh7 Qf8 Kg6 is the only solution
+[02:02:01] mrscribbles: gg
