@@ -1,0 +1,284 @@
+Lichess game chat log
+Game      : https://lichess.org/kWwut9FJ
+White     : hamsamisch
+Black     : coltonmtotland
+Time      : 45+45
+Captured  : 2026-08-03 05:40:22 UTC
+Game ended : 2026-08-03 04:20:16 UTC
+Messages  : 274
+────────────────────────────────────────────────────────────
+
+[02:48:23] aldric123: (10...Ne4) interesting. I kind of expected 10...Nd7 or Ng5
+[02:48:53] aldric123: (10...Ne4) Err sorry I meant or Ng4
+[02:49:24] aldric123: (10...Ne4) But seeing this now, I don't mind the move played
+[02:49:24] nyanners: think black has to take on e4
+[02:49:39] nyanners: like okay white cant take on e4 here but theres no need to
+[02:49:55] nyanners: Qe2 f5 doesnt work
+[02:50:25] nyanners: so if you have to concede with Nxd2 then white has the attacking formation for free
+[02:50:56] aldric123: (10...Ne4) I might agree, I'm not certain yet
+[02:51:26] aldric123: (10...Ne4) But I'm perhaps coming over to your arguments. Which is unfortunate since I want black to win
+[02:55:30] coltonmtotland: hey aldric hey bravo
+[02:55:45] aldric123: (10...Ne4) Heya
+[02:56:30] aldric123: (11.Qc2) Hmm perhaps f5 is better now without the queen on e2
+[03:00:36] nyanners: seems that way :o
+[03:00:51] nyanners: ng5 double attack?
+[03:03:08] aldric123: (13.Ne5) Yeah, I hadn't yet seen a clean way to deal with Ng5. This isn't nearly as scary I think
+[03:04:55] aldric123: (14.Ndf3) perhaps h6 now
+[03:04:55] aldric123: (14.Ndf3) Though I actually kind of hate that
+[03:05:40] iwishiweredecent: Hey ryanners!
+[03:08:28] aldric123: (14.Ndf3) I guess maybe just Nxe5 followed by Bd6
+[03:09:44] aldric123: (15...Qd6) This move seemed to allow Bf4 that is basically with tempo
+[03:22:14] iwishiweredecent: I feel like I could calculate this position for 5 hours
+[03:23:00] iwishiweredecent: I was thinking 16...Nh5
+[03:23:30] iwishiweredecent: but that might just end up being a big trade after Nxc6
+[03:25:17] iwishiweredecent: I don't know I think I like the trades after that for black
+[03:26:34] iwishiweredecent: 16... Ne4 makes sense I suppose, lining up on that f2 square
+[03:26:49] aldric123: (16...Ne4) If 16...Nh5 I think white does Bxh7+ Kh8 Ng6+ followed by Bxd6 I think
+[03:26:49] aldric123: (17...dxe4) I didn't see this possible defense for black, neat
+[03:27:35] iwishiweredecent: Oh wow...
+[03:27:50] iwishiweredecent: thank you for pointing that out haha that would have been a terrible blunder, it is always better to keep your queen
+[03:28:05] nyanners: becomes kinda frenchy after this exf6 Ne5 thing
+[03:28:05] aldric123: (17...dxe4) :)
+[03:30:07] iwishiweredecent: so now what? defend the bishop or attack the queen?
+[03:30:22] nyanners: too concrete for me right now
+[03:30:22] nyanners: white can always bail with Nxc6 i guess but there could be more
+[03:31:08] aldric123: (17...dxe4) Nxc6 seems pretty lame. Black could just do Rxf4 and ask the knight where to go
+[03:31:38] iwishiweredecent: I think Nxc6 would lead to losing a pawn for white though no?
+[03:31:38] aldric123: (17...dxe4) Not that it gets trapped, it's just lame
+[03:32:09] aldric123: (17...dxe4) I'd think Bg3 is the main thing for white to do
+[03:32:24] iwishiweredecent: I guess not if the knight goes to a5 but that doesn't look great
+[03:33:41] iwishiweredecent: kinda glad I am not playing this game as black, needing to win or else my team loses the match...
+[03:33:57] aldric123: (17...dxe4) Yeah, definitely stressful
+[03:34:27] mennonite: I don't like the Nxc6 line for white. black has such a local superiority on the kingside
+[03:34:27] iwishiweredecent: the building pressure on f2 could end up being fruitful though
+[03:35:13] mennonite: the E4 pawn has so much latent energy
+[03:35:13] iwishiweredecent: Does Bg3 make sense?
+[03:35:28] aldric123: (18...Qc7) I thought it did last move, still thinking after the Rad1
+[03:36:29] mennonite: I'd argue giving Black time for ...Bd6 isn't helpful to White here
+[03:36:29] iwishiweredecent: Rf5?
+[03:36:44] mennonite: it's not like there's anything immediately going on on the d file
+[03:37:30] aldric123: (19.Bg3) I mean, worst case if Bd6 white could do Rxd6 Qxd6 Ng6
+[03:37:30] iwishiweredecent: oh nevermind
+[03:37:30] aldric123: (19.Bg3) and get back the exchange
+[03:37:46] aldric123: (19.Bg3) That stuff isn't forced, but shrug
+[03:38:31] iwishiweredecent: maybe it is better now to get the queen out of the pin?
+[03:38:31] aldric123: (19.Bg3) I was looking more at Rf5 for black, trying to see if any of the discoveries are annoying
+[03:38:31] aldric123: (19.Bg3) And just trying to double up
+[03:39:17] aldric123: (19.Bg3) I haven't yet found a truly nasty discovery (I think) after Rf5
+[03:39:17] mennonite: given the black is the one who needs a win, active play is probably called for
+[03:39:48] iwishiweredecent: yeah maybe let white take the bishop on c6 so you can double the rooks on the f file
+[03:39:48] aldric123: (19.Bg3) Though Nd7 is kinda funny hmm
+[03:41:04] iwishiweredecent: yeah i was looking at Nd7 and just completely forgot the queen was hanging lol
+[03:41:50] iwishiweredecent: it is almost midnight here and I am starting on my 3rd glass of wine, so pardon my blunderous ideas lol
+[03:43:37] mennonite: lucky you, I can't drink any more, even a small glass of wine and I'm just done for the night
+[03:43:52] aldric123: (19...Rxf2) Interesting
+[03:44:23] aldric123: (19...Rxf2) I don't think I understand this yet
+[03:45:08] mennonite: if Rxf2, ...Rf8?
+[03:45:54] mennonite: clever idea but I'm unconvinced
+[03:46:40] iwishiweredecent: wait wait wait
+[03:47:11] iwishiweredecent: I go to the restroom and Colton uncorks a Gotham Chess madman move?
+[03:47:27] iwishiweredecent: I mean I know he has to win and all but... this looks sketchy...
+[03:47:42] mennonite: I don't understand why the knight hasn't been immediately captured
+[03:47:58] mennonite: taking on f2 trades down unnecessarily and actually risks back rank issues as far as I can tell
+[03:48:28] iwishiweredecent: Probably because black realized after the sacrifice that they missed something
+[03:48:28] iwishiweredecent: my best guess...
+[03:49:00] mennonite: of course I shouldn't say anything because in my lone wolf game a couple hours ago, I didn't recapture on an obvious recapture because I was
+[03:49:15] mennonite: making a drink so it looked like I spent 3 minutes on an obvious move
+[03:49:15] iwishiweredecent: white takes the bishop on c5 and you are losing the e4 pawn
+[03:49:30] iwishiweredecent: I just don't understand this at all...
+[03:49:45] mennonite: e4 pawn is defended plus recapturing the bishop is check
+[03:50:01] iwishiweredecent: oh yeah
+[03:50:01] iwishiweredecent: forgot about the check,,,
+[03:50:01] iwishiweredecent: that's the Pinot Noir's fault
+[03:50:31] mennonite: and if Qf3, I think ...e3
+[03:50:46] mennonite: Qf2 that is
+[03:51:02] aldric123: (20...Qxe5) I mean, I think white is better here, but I don't really get why White did 20.Bxf2. It seemed to be me that Rxf2 basically ...
+[03:51:02] aldric123: ...kept the knight too
+[03:51:17] aldric123: (20...Qxe5) Because the Q is also defending f2
+[03:51:32] iwishiweredecent: but still it doesn't look good... there just aren't enough pieces on the board to attack before white can trade down and simplify
+[03:52:03] mennonite: as long as the E3 pawn is on the board, black has dynamic possibilities at least
+[03:52:18] iwishiweredecent: I don't know but I am looking forward to seeing what black's grand plan is
+[03:52:48] mennonite: black is already threatening to push it
+[03:53:04] mennonite: I took my sleep meds 20 minutes ago but this game is just too interesting
+[03:53:04] iwishiweredecent: true
+[03:53:49] iwishiweredecent: lol yeah my eyelids are getting heavy but after that rook sac with the team's match on the line... I kinda wanna see what happens
+[03:53:49] iwishiweredecent: haha
+[03:54:20] iwishiweredecent: oh wow
+[03:54:20] aldric123: (23...Kh8) dangerous for both sides
+[03:54:20] iwishiweredecent: I didn't even see all this
+[03:54:35] iwishiweredecent: yeah this is sharp as all heck
+[03:55:21] iwishiweredecent: so now what? Rde1?
+[03:55:21] mennonite: yes, this is the line I was looking at
+[03:55:36] aldric123: (23...Kh8) moving a rook to e1 still hangs the other to e2+
+[03:55:36] iwishiweredecent: yeah
+[03:55:36] iwishiweredecent: is black just winning now?
+[03:55:52] aldric123: (23...Kh8) doubt it
+[03:55:52] aldric123: (23...Kh8) But white has to be careful
+[03:55:52] mennonite: maybe Rd4?
+[03:56:07] aldric123: (23...Kh8) Rd4 is creative, nice one
+[03:56:07] mennonite: but then ...e5
+[03:56:22] aldric123: (23...Kh8) Yeah I was just about to say that
+[03:56:52] iwishiweredecent: how does Kh8 stop e2?
+[03:56:52] aldric123: (23...Kh8) But if Rd4 e5 then perhaps Qc4
+[03:56:52] aldric123: (23...Kh8) Though I dunno yet
+[03:57:23] mennonite: oh that's a creative try
+[03:57:39] aldric123: (23...Kh8) Maybe though Qb6 after that and white's in trouble
+[03:57:54] iwishiweredecent: that damn e pawn is quite the little rascal eh?
+[03:58:39] mennonite: doubled pawns can be surprisingly powerful once they get moving
+[03:58:39] iwishiweredecent: well here we go....
+[03:59:25] mennonite: this might end up being the first game of the month nominee for August
+[03:59:25] nyanners: thats all pawns XD
+[04:00:11] iwishiweredecent: I have watched a bunch of games and so far this one has my vote
+[04:00:11] nyanners: e2 enabling e5
+[04:00:11] mennonite: it reminds me of one of the positions from the original how to reassess your chest before Silman lost faith in his original strategy
+[04:00:26] iwishiweredecent: yeah why not e2 anyway
+[04:00:41] nyanners: i mean its a concrete idea. winning?
+[04:00:41] mennonite: it's always stuck with me
+[04:00:41] nyanners: e2 is tempo (exf1 is check) so Re1 e5
+[04:00:41] aldric123: (24.Rd4) Oh wait. e5 Qc4 but e5 Rc4 maybe
+[04:00:57] nyanners: Qc4 Qb6
+[04:01:12] aldric123: (24.Rd4) I agree
+[04:01:12] aldric123: (24.Rd4) Which is why I said Rc4
+[04:01:27] aldric123: (24.Rd4) And if Qb6 you can do something like move the K or the f1 rook
+[04:01:27] nyanners: its pinned
+[04:01:27] aldric123: (24.Rd4) If there isn'
+[04:01:42] aldric123: (24.Rd4) oh we're talking different lines
+[04:01:42] nyanners: ah Rc4 earlier
+[04:01:42] aldric123: (24.Rd4) I'm talking e5 you're talking like e2 immediately
+[04:02:13] nyanners: black's construction looked quite precarious too. b4 instead of rd4?
+[04:02:28] nyanners: e2+ terrifying but theres no time for that
+[04:02:28] mennonite: now white threatens b4
+[04:02:28] aldric123: (24.Rd4) I think you're right though that ship has sailed
+[04:02:43] mennonite: since f8 can't be abandoned
+[04:02:43] aldric123: (24.Rd4) b4 is strong since f8 has to be maintained
+[04:02:43] nyanners: yea i feel its win or lose :o
+[04:02:43] nyanners: if you dont take the win now you lose
+[04:02:59] nyanners: peak drama
+[04:03:14] nyanners: there it is
+[04:03:14] iwishiweredecent: here we goooooooo
+[04:03:29] coltonmtotland: i apologize to all those viewing this
+[04:04:30] aldric123: (24...e2) I can't believe it, but yeah, black seems to be winning now
+[04:04:30] iwishiweredecent: apologize???? you should be saying "you're welcome!"
+[04:04:45] aldric123: (24...e2) I don't see a way to not lose the rook on d4 or allow the pawn to promote or take on f1
+[04:05:00] mennonite: when do the Europeans start waking up?
+[04:05:16] iwishiweredecent: ok so what happens after Re1?
+[04:05:16] aldric123: (25.Re1) I think just e5
+[04:05:46] nyanners: yea kinda out of nowhere not only white has no threats but is dead lost
+[04:05:46] aldric123: (25...e5) and if then Qc4 Qb6 and the pin is maintained
+[04:05:46] iwishiweredecent: ahhhh yeah I forgot about Qb6
+[04:06:01] nyanners: absolute tragedy in this one
+[04:06:17] aldric123: (25...e5) Not for my team!
+[04:06:17] nyanners: :D
+[04:06:32] iwishiweredecent: when someone sacrifices a rook and sees this far in the future it is anything but a tragedy
+[04:06:32] mennonite: and the c6 bishop plays a role in saving the back rank after Rxe2
+[04:06:47] nyanners: its incredible
+[04:06:47] aldric123: (25...e5) I mean let's be real. I don't think that rook sac was even remotely sound, but it was was fun
+[04:07:03] iwishiweredecent: oh wow, Mennonite you are right... that's beautiful
+[04:07:18] iwishiweredecent: hey hey hey.... no need to say it out loud lol
+[04:07:33] aldric123: (25...e5) hah
+[04:07:33] nyanners: whyd white reject Rxf2. like okay annoying but you keep the good pieces
+[04:07:48] aldric123: (25...e5) Yeah I said that a bit ago too. It seems like you're just eating a rook if Rxf2
+[04:07:48] nyanners: with Bxf2 i like it
+[04:08:03] nyanners: regardless of soundness
+[04:08:34] aldric123: (25...e5) Yeah if Bxf2 was forced it's a fine sac, but Rxf2 existed. :)
+[04:08:49] iwishiweredecent: well the fact that black HAS to win... and played an awesome sacrifice in an effort to win the game to save his team from defeat is just epi
+[04:09:04] mennonite: yeah I respect taking the match situation into account
+[04:09:04] aldric123: (25...e5) Oh I agree it was a valiant attempt because of black having to win. He's my teammate, I love it. We're just also talking ...
+[04:09:04] aldric123: ...objectively
+[04:09:04] aldric123: (25...e5) or trying to
+[04:09:50] aldric123: (26.Qh5) interesting
+[04:09:50] iwishiweredecent: of course aldric :) I am just a few glasses of wine in and joking about, I think you are right that it was not sound
+[04:09:50] iwishiweredecent: but it was so much fun, as you said haha
+[04:10:05] aldric123: (26.Qh5) I think just play b6 to defend the queen?
+[04:10:05] nyanners: well yeah, i can take a guess. the pressure is too much
+[04:10:21] mennonite: but then b4
+[04:10:21] nyanners: white thought Bxf2 was the safer option rather than having a pinned rook when black gets the exchange eventually (at too high a cost tho)\
+[04:10:36] aldric123: (26.Qh5) good point
+[04:10:36] iwishiweredecent: but b6 would prevent Qb6 after b4
+[04:10:51] aldric123: (26.Qh5) But if you play Qb6 immediately the e5 pawn hangs
+[04:11:22] nyanners: i didnt see this in advance. good one
+[04:11:22] aldric123: (26.Qh5) This is a nicely tricky attempt by white
+[04:11:22] nyanners: b6 b4 qx
+[04:11:37] nyanners: again seems to work just barely
+[04:11:52] nyanners: this is incredible
+[04:11:52] aldric123: (26...b6) oh Qxc3 you mean
+[04:11:52] nyanners: yess
+[04:12:08] aldric123: (26...b6) this is an amazing game haha
+[04:12:08] iwishiweredecent: haha I thought you meant Q xchange
+[04:12:23] iwishiweredecent: I was confused
+[04:12:54] mennonite: wait b4 QxR and the far advanced passers overwhelm the rook?
+[04:13:09] mennonite: I mean pawn takes room
+[04:13:24] mennonite: grr
+[04:13:24] iwishiweredecent: ohhhhh Qxc3 hits the rook on e1
+[04:13:39] nyanners: that could be interesting. e2 hangs immediately tho
+[04:13:39] nyanners: before we protect it
+[04:13:55] mennonite: ok true
+[04:14:26] aldric123: (26...b6) I think b4 is only real try, but as Nyanners said, then Qxc3 and both rooks are hanging
+[04:14:41] iwishiweredecent: seems like no matter what white is going to lose the rook?
+[04:14:41] aldric123: (26...b6) Or at least A rook
+[04:14:56] iwishiweredecent: lol yes one of the rooks, but the e1 rook hangs with mate...
+[04:15:11] mennonite: I didn't see Qxc3 which I think is proof that my sleep meds are finally kicking in
+[04:15:27] nyanners: this position is too weird. not super easy to see anything
+[04:15:42] iwishiweredecent: lol yeah either black is winning or the wine is stronger than advertised
+[04:16:28] aldric123: (26...b6) I am impressed white found that Qh5 even if it likely seems it doesn't fully work
+[04:16:43] iwishiweredecent: Yeah Qh5 was a great find
+[04:17:28] iwishiweredecent: so maybe Rd4 was somehow a mistake? or maybe it was already bad at that point and it was the best try?
+[04:17:28] nyanners: well b4 instead
+[04:17:44] nyanners: and maybe black loses
+[04:17:44] iwishiweredecent: I can't wait to see the analysis after the game ends
+[04:17:44] aldric123: (26...b6) Yeah Nyanners already pointed out that b4 basically straight won instead of Rd4
+[04:17:44] nyanners: everything happening too quick xd
+[04:17:59] aldric123: (26...b6) I didn't notice how strong it was til she pointed it out
+[04:17:59] nyanners: the graph wont be pretty
+[04:17:59] aldric123: (26...b6) indeed
+[04:18:14] aldric123: (26...b6) Unless up and down slashes is pretty to you? :)
+[04:18:14] nyanners: it is :o
+[04:18:29] iwishiweredecent: Well one thing seems clear at this point and that is white does not feel too confident about the position
+[04:18:29] nyanners: but i dont think most people agree with that sense of fashion
+[04:18:29] aldric123: (26...b6) haha
+[04:18:45] mennonite: that's what I like about this league, the social norm against running stockfish during the game
+[04:19:00] iwishiweredecent: the graph is going to look like a massive earthquake readout
+[04:19:00] mennonite: so we can just figure it out ourselves like this
+[04:19:00] mennonite: haha
+[04:19:30] nyanners: takes away the drama :o
+[04:19:45] iwishiweredecent: Yeah I kind of wish that engines didn't exist... it must have been so cool to live during the Fischer era
+[04:19:45] nyanners: flagging is fair tbh
+[04:20:01] iwishiweredecent: great game!!!!!
+[04:20:01] aldric123: Great job Colton
+[04:20:01] nyanners: gg
+[04:20:01] mennonite: gg
+[04:20:16] iwishiweredecent: that was absolutely incredible to watch, cheers to both of you
+[04:20:31] nyanners: well white is probably a bit disappointed XD
+[04:20:31] nyanners: but such is chess
+[04:21:32] iwishiweredecent: wow the rook sacrifice was definitely not sound, but it required white to recapture with the rook...
+[04:22:48] iwishiweredecent: my hunch about Rd4 was right... at the time though we all thought it was a clever move
+[04:23:04] nyanners: brutal
+[04:24:04] iwishiweredecent: ahhh so it was b4 straightaway...
+[04:24:35] iwishiweredecent: how do we submit games to be featured or voted on for best game?
+[04:25:05] nyanners: After I resigned this game with perfect self-control and solemnly shook hands with my opponent in the best of Anglo-Saxon traditions,
+[04:25:05] nyanners: I rushed home, where I threw myself onto my bed, howling and screaming, and pulled the blankets over my face.
+[04:25:05] coltonmtotland: yeah b4 would have beaten me
+[04:25:21] nyanners: i definitely wouldnt want to see chess for like a week
+[04:25:36] aldric123: hah
+[04:25:51] iwishiweredecent: hahah ryanners
+[04:25:51] coltonmtotland: Fun though. I had to go all out in that one given we needed a win
+[04:25:51] iwishiweredecent: Colton that was freaking epic
+[04:26:06] aldric123: Yeah that was pretty neat with the sac because you had to
+[04:26:06] nyanners: yeah the game developed in a way that was good for that
+[04:26:06] iwishiweredecent: What came over you to go for that rook sac?
+[04:26:06] aldric123: Our team forced you into this situation!
+[04:26:22] nyanners: i thought f5 was better XD
+[04:26:22] nyanners: guess Ng5 was too good
+[04:26:37] coltonmtotland: Desperation mostly
+[04:26:52] nyanners: e3 winning blunder there
+[04:26:52] nyanners: dont even hate it
+[04:26:52] iwishiweredecent: I went to the loo and came back and all hell had broken loose, it was so much fun to watch
+[04:27:39] iwishiweredecent: I still cannot believe just how bad Rd4 was... we all thought it was so clutch at the time
+[04:28:09] iwishiweredecent: A literal 10 point swing
+[04:28:40] nyanners: we are all just blind squirrels doing our best in this type of position
+[04:28:40] coltonmtotland: thank you that's how i felt
+[04:29:25] coltonmtotland: a blind squirrel that needed a win
+[04:29:25] iwishiweredecent: Found the link, I am definitely nominating this game...
+[04:29:40] coltonmtotland: Hey thanks!
+[04:29:40] iwishiweredecent: oh man, I would give yourself more credit you still had to find the right moves
+[04:30:57] iwishiweredecent: Well the wine has taken over and I must retire for the evening, but thanks for the amazing game and thanks for the great company ryanners!
