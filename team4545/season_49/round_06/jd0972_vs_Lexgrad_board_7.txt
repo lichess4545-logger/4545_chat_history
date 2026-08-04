@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/IzBKWgRV
+White     : jd0972
+Black     : lexgrad
+Time      : 45+45
+Captured  : 2026-08-04 21:28:38 UTC
+Game ended : 2026-08-04 20:08:30 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[19:07:17] iwishiweredecent: d4 c5 is definitely an interesting start to the game
+[19:08:49] leverkuhn: White didn't play 2.d5, oddly, and Black is in charge
+[19:09:19] iwishiweredecent: Yeah black seems to have caught white off guard... d5 is definitely the way to go
+[19:09:34] leverkuhn: White certainly shouldn't be able to survive the absence of his lsb in this kind of position; let's see how Lex attacks
+[19:09:50] leverkuhn: 12...Nxe3 and 12...Bxg3 certainly already candiates
+[19:10:35] leverkuhn: 12...c5 also excellent as the knight can hardly jump in
+[19:10:51] lexgrad: must be a sac here someplace
+[19:12:37] iwishiweredecent: I was thinking Bxg3 but the knight can recapture,
+[19:13:08] leverkuhn: perhaps, but non-sacrifice options also may win
+[19:13:08] iwishiweredecent: but I guess then maybe after Bxg3 Nxg3 is there Qxh4?
+[19:13:23] leverkuhn: 13...Ne5!? intending ...Bg4 and invasion on f3 and h3
+[19:13:53] leverkuhn: 13...g5!? with the idea of 14.hxg5 Qxg5 15.Nf4 Qh6 -+
+[19:14:54] leverkuhn: 13...Bxg3!? I think White would have to try 14.fxg3 Nxe3 15.Qe1
+[19:14:54] iwishiweredecent: I don't know I think Bxg3 might work
+[19:15:25] iwishiweredecent: yeah maybe it would only end up being a trade of two pieces for the rook... not a good trade
+[19:16:25] leverkuhn: White decided he couldn't tolerate opening the position, but now he's lost f4 for the knight
+[19:16:25] iwishiweredecent: now that g5 pawn is blocking the queen
+[19:16:56] leverkuhn: Time to slow down with ...0-0, ...f5, ...Be6, and ...Qe8 in some order
+[19:17:11] leverkuhn: Black is now positionally winning and doesn't need to do anything fancy
+[19:17:26] iwishiweredecent: Yeah I am definitely glad that I am not playing as white here
+[19:17:57] leverkuhn: White is going to attempt counterplay with c2-c4, so Black should make sure he has a plan for that
+[19:18:12] iwishiweredecent: makes sense
+[19:19:13] iwishiweredecent: This could backfire if white survives
+[19:22:17] iwishiweredecent: exd and d3?
+[19:23:18] leverkuhn: I think 16...e3 needed to be the idea there
+[19:23:18] iwishiweredecent: yeah this doesn't look as good for black
+[19:23:33] iwishiweredecent: yeah sorry that is what I meant
+[19:23:33] iwishiweredecent: exd and e3
+[19:23:48] leverkuhn: looked really good
+[19:24:19] iwishiweredecent: lol obv it can't be d3 after exd... my brain is just not firing on all cylinders at the moment
+[19:24:34] leverkuhn: all good; I knew what you meant
+[19:25:50] iwishiweredecent: Be5? to save the pawn?
+[19:25:50] leverkuhn: g5 also hanging
+[19:26:05] iwishiweredecent: yeah this could get really ugly for black
+[19:26:20] iwishiweredecent: I did not like that g5 move
+[19:26:36] iwishiweredecent: would have been better to bring more pieces to the attack
+[19:27:06] leverkuhn: I liked ...g5, but space advantages like that require careful and skilled play
+[19:28:07] iwishiweredecent: even castling seemed unnecessary... why not just play Rg8
+[19:28:22] iwishiweredecent: well that is just a blunder
+[19:28:37] leverkuhn: hold on, White's excessively fast play caught up to him and he blundered a piece
+[19:28:53] iwishiweredecent: I mean that check was so clearly black's intention
+[19:29:38] iwishiweredecent: maybe just take the pawn on d4?
+[19:30:09] iwishiweredecent: yeah that is wild that white is up over two minutes 20 moves into the game
+[19:30:39] iwishiweredecent: like a 45s+45s game lol
+[19:30:54] iwishiweredecent: which actually kinda sounds like a fun time control tbh
+[19:31:25] leverkuhn: getting back to how Black should have handled c4; I'm thinking maybe just stick to the plan
+[19:31:55] leverkuhn: 15...f5! 16.cxd5 Qe8!; the e4-pawn is imporant, not d5
+[19:32:26] leverkuhn: now ...Qe8-xh5-h2# is back on the table and White needs contortions to stop it
+[19:32:26] iwishiweredecent: Yeah I wonder what the engine thinks about it
+[19:33:27] iwishiweredecent: you might be spot on, 15... f5 does look strong
+[19:35:13] leverkuhn: there's a case to be made for 22...d3!? now just to crash through with the rooks faster
+[19:35:44] leverkuhn: 22...d3 23.Qxd3 Qxd3 24.Nxd3 Rad8 25.Rad1 Re8 and White can barely move or respond to ...Re2+ for example
+[19:35:59] iwishiweredecent: Yeah but what's the rush? black is up the piece, maybe just get the rooks to the d and e file
+[19:36:14] leverkuhn: yeah I think that's what he'll end up doing
+[19:37:00] iwishiweredecent: I like your line but I feel like after d3 white would recapture with the knight
+[19:38:16] iwishiweredecent: Rab8 setting up a nice little cheapo
+[19:45:53] iwishiweredecent: Yeah up a piece get rid of the queens and double the pawns
+[19:45:53] iwishiweredecent: well played by black
+[20:05:58] lexgrad: wonder what lever is saying
+[20:08:15] leverkuhn: good patience in the endgame buddy, gg!
+[20:08:30] pineapplechiffoncake: Gg
+[20:13:04] leverkuhn: engine likes 15...Qe8! 16.cxd5 16.f5! with Black at 97%; I'm a GM today!
+[20:15:06] iwishiweredecent: Good Game guys!
