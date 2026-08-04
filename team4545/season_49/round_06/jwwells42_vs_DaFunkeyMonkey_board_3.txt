@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/dKlIomTC
+White     : jwwells42
+Black     : dafunkeymonkey
+Time      : 45+45
+Captured  : 2026-08-04 22:06:18 UTC
+Game ended : 2026-08-04 20:46:10 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[20:07:35] glbert: go jwwells42!
+[20:08:51] cham: wells is my friend
+[20:18:00] inter-temporal: (7...Ne4) go JW! (but dafunkeyMonkey is such a kewl name)
+[20:18:30] inter-temporal: (7...Ne4) what did he do to my spanish?
+[20:18:46] inter-temporal: (7...Ne4) 6.d4!?!?! wth
+[20:19:47] inter-temporal: (7...Ne4) 8.Bd5 is gonna get sharp, yeh?
+[20:20:32] glbert: is d4 wth enough to make us change allegiance to black?
+[20:25:22] inter-temporal: (8...f5) 6.d4 d6 seems safer. idk.
+[20:27:08] stevenlongs: I think b5 right away after a6 is an innacuracy and immediately play d4 is the correct move. My memory recalls 0-0 Nxe4 Re1 d5 Nc3! dxc3 Bd5
+[20:27:39] inter-temporal: (9.Nxd4) indeed; 4...b5 took the path to the dark side
+[20:28:55] inter-temporal: (9...Nxf2) ahh. because after 6.d4 ed, 7.e5 there's no safe ...Ne4 for black?
+[20:29:25] inter-temporal: (9...Nxf2) i mean, the "normal" line for white's early d4 happens before ...b5
+[20:30:11] inter-temporal: (9...Nxf2) here we have a totally ordinary slow spanish game. nothing to see here. lol
+[20:30:11] glbert: wild. what happens after 10.Nxc6?
+[20:30:26] stevenlongs: it's solely due to the fact that the bishop is now on be I suppose
+[20:30:26] stevenlongs: B3*
+[20:30:56] inter-temporal: (9...Nxf2) yeh, i think so. probably more stuff too. but that sticks out
+[20:31:12] nyanners: yea bluff call
+[20:31:27] nyanners: id say black should have seen this but.. yea idk
+[20:31:42] inter-temporal: (9...Nxf2) double blind bluff call
+[20:32:28] nyanners: as far as i see the key point is Nxc6 Qh4 g3 there is no check
+[20:32:43] nyanners: dont see any other idea
+[20:33:14] nyanners: everything else seems obviously lost
+[20:33:14] inter-temporal: (9...Nxf2) funkey stuff
+[20:33:44] nyanners: i mean clearly black's rating distribution is that of a young speedster
+[20:34:14] nyanners: this sort of calculation mistake is typical
+[20:34:30] nyanners: this is not a personal attack, just a chess comment XD
+[20:34:30] cham: who's winning
+[20:34:45] nyanners: should be white
+[20:34:45] inter-temporal: (10.Nxc6) i wish i could be offended
+[20:34:45] cham: yay
+[20:35:00] inter-temporal: (10.Nxc6) that would make me a young speedster. ahh the good ole days
+[20:35:46] inter-temporal: (10.Nxc6) there are no winners or losers. just players.
+[20:36:01] inter-temporal: (10.Nxc6) but white is probably winning.
+[20:36:16] nyanners: id go dxc6 if white had to take the exchange. like maybe dxc6 Bxc6 Kf7 heh
+[20:36:32] nyanners: Qxd8 Bb4+.. okay we didnt achieve anything
+[20:37:17] nyanners: of course dxc6 Bd7 Qxd7+ to take on f2
+[20:37:48] nyanners: so maybe you roll with Qh4 just to provoke g3 but thats certainly not Good
+[20:40:50] inter-temporal: (10.Nxc6) maybe ...Qh3+ 11.g3 Nxd1 12.gxh4 Bb7 or smth
+[20:41:06] inter-temporal: (10...Nxd1) no good way out
+[20:41:06] nyanners: still piece down
+[20:41:21] inter-temporal: (10...Nxd1) ywh
+[20:41:51] nyanners: c6 nxc6 probably
+[20:41:51] inter-temporal: (11.Nxd8) [yes]
+[20:41:51] nyanners: or you could play Bf3 if you really dont wanna think
+[20:42:06] glbert: i really don't wanna think.
+[20:42:06] nyanners: same
+[20:42:22] glbert: i am not good at thinking, so i avoid it when i can.
+[20:42:22] glbert: it's also exhausting.
+[20:42:37] nyanners: a lot of chess skill is about minimizing your thinking
+[20:42:37] nyanners: thats what got me going
+[20:43:07] glbert: i should get better at that too. i am certainly lazy enough.
+[20:43:38] nyanners: yea this just seems too easy for white overall
+[20:44:24] nyanners: full rook in a super easy position
+[20:44:54] inter-temporal: (11...Kxd8) k. i think i'm gonna go study my chess stuff...
+[20:45:09] inter-temporal: (11...Kxd8) mostly just admitting how hard it is to count
+[20:45:09] nyanners: like i am usually the one to say "its never easy" but this might be the exception
+[20:45:25] nyanners: knight is trapped so black will have to do with the bishop pair
+[20:45:40] nyanners: and probably collect the bishop on a8
+[20:45:40] nyanners: gg
+[20:45:40] inter-temporal: gg
+[20:46:10] nyanners: kinda just one serious misstep from black tbf
+[20:46:26] inter-temporal: interesting. 7...Ne4 was still fine
+[20:46:26] nyanners: though it was a quite critical moment
+[20:46:56] inter-temporal: but SF shows 6...d6 might have been safer
+[20:47:11] nyanners: this is the main reason why people dont play this move order for black
+[20:47:11] nyanners: just gives white this extra option
+[20:47:26] nyanners: though its not crushing or anything
+[20:47:57] inter-temporal: that Bd5 theme seems effective when it happens
+[20:47:57] glbert: good game.
+[20:48:27] nyanners: it's not as crushing as youd expect if youve never seen it
+[20:48:27] cham: bet nix
+[20:48:27] cham: Very nice*
+[20:48:27] cham: on phone
+[20:48:27] nyanners: nix
+[20:48:42] cham: nix
+[20:48:42] inter-temporal: nix
+[20:48:58] nyanners: nix stonks rising
+[20:49:28] inter-temporal: 100
+[20:49:43] inter-temporal: "Always spam the chat"--Capablanca
+[20:50:14] glbert: rising because everyone is betting nix. i refuse though, i think there's a bubble.
+[20:50:29] jwwells42: no u nix...
+[20:50:44] inter-temporal: tulip bubbles are pretty
+[20:50:59] cham: jwwnix42
+[20:51:15] jwwells42: unix stans enjoyed my joke
+[20:51:45] jwwells42: hmm e5 was wrong
+[20:52:31] jwwells42: i didnt rember anything concrete here
+[20:53:01] jwwells42: on Bd5 my time spent calculating was on Bb4+ which i thought was annoying
+[20:53:16] jwwells42: or ..Nc5
+[20:53:47] jwwells42: had considered Bb4 Kf1 but had decided to go with Nbd2
+[20:54:02] jwwells42: and if we do all the trades then position seemed fine enough for me
+[20:54:32] nyanners: e5 is what everyone plays
+[20:54:47] nyanners: i like it. leverages the unprep bias
