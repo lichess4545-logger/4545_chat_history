@@ -1,0 +1,48 @@
+Lichess game chat log
+Game      : https://lichess.org/A5DZXKRj
+White     : skulm93
+Black     : blueside617
+Time      : 45+45
+Captured  : 2026-08-05 20:09:32 UTC
+Game ended : 2026-08-05 18:49:24 UTC
+Messages  : 38
+────────────────────────────────────────────────────────────
+
+[16:20:06] mixxanber: interesting start, looks relatively balanced? white has a tad more space and development
+[16:20:37] spacecowboyx: whats with me?
+[16:47:32] leverkuhn: After 16...c5 you could argue that Black has the microscopically better structure as he can play ...a5-a4-xb3 eventually and target b3
+[16:47:47] leverkuhn: But this game should certainly end in a draw
+[16:49:34] spacecowboyx: After 13 , could we not go Bh7+ , Kxh7 , Qh5+?
+[16:58:27] leverkuhn: That would have been ill-advised SpaceCowboy, as after 14.Bxh7+ Kxh7+ 15.Qh5+ Kg8, White lacks attackers to join his queen
+[16:58:57] leverkuhn: typically this kind of 'Greek Gift' sacrifice works when we have Ng5 as a follow-up after Qh5
+[17:05:48] blueside617: exhausted losing focus lol
+[17:06:49] xyoung: you got this bro
+[17:07:05] spacecowboyx: i got it
+[17:59:08] mixxanber: 33. a7 Ree8, and then eventually Kf6, can white actually break through?
+[18:00:08] mixxanber: rae8, then rb8, forcing one rook off feels good for black
+[18:00:24] mixxanber: err ree8*
+[18:04:27] mixxanber: black has handled this nicely
+[18:04:27] mixxanber: very scary position
+[18:04:58] mixxanber: in fact, black may be a tad better now?
+[18:06:44] spacecowboyx: no way for white to promote
+[18:16:53] mixxanber: c6 feels like a weakness at first blush, but maybe the position is just simple enough now
+[18:23:31] mixxanber: looks quite weird for white
+[18:23:46] mixxanber: just f5?
+[18:27:04] mixxanber: I understand black wanting to undouble, but needs to bring king up. these can go wrong quite fast with a misplaced king
+[18:29:52] spacecowboyx: whats ur prediction
+[18:30:07] mixxanber: looks dead drawn to me now
+[18:30:22] xyoung: yea 100% with my analyse
+[18:30:22] mixxanber: but i dont understand king and pawn edngames
+[18:31:08] mixxanber: but here isn't black doing very well?
+[18:31:23] spacecowboyx: ur 2k bruh  how can u not
+[18:31:23] mixxanber: has the outside passer
+[18:32:09] mixxanber: f5 looks great!
+[18:34:11] mixxanber: is h5 winning here?
+[18:34:26] mixxanber: doesn't look like it, hmm
+[18:35:11] mixxanber: I thought h5 on move 55 was potentially winning
+[18:40:31] leverkuhn: oh no, White's king is in the h-pawn's square now
+[18:40:47] leverkuhn: 62.Kd4 h5 63.g5+ and White wins
+[18:41:47] leverkuhn: Black had a draw with ...h5 for the last several moves as White couldn't push past while catching the h-pawn
+[18:44:35] spacecowboyx: black is cooked
+[18:49:09] spacecowboyx: gg
+[18:50:25] leverkuhn: gg
