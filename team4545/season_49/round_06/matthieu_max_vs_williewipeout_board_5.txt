@@ -1,0 +1,45 @@
+Lichess game chat log
+Game      : https://lichess.org/HVrm3GtA
+White     : matthieu_max
+Black     : williewipeout
+Time      : 45+45
+Captured  : 2026-08-05 22:54:13 UTC
+Game ended : 2026-08-05 21:34:06 UTC
+Messages  : 35
+────────────────────────────────────────────────────────────
+
+[20:16:56] handknit: (9...Be7) I infer this is some kind of theory
+[20:22:01] handknit: (10.Qe2) kinda like d4 for tempo here
+[20:22:16] handknit: (10.Qe2) Also makes white's bishops kinda dodgy
+[20:38:00] handknit: (13...a6) I feel a bit uncomfortable about black's Q on d8. Feels vulnerable
+[20:38:46] handknit: (13...a6) Might've been nice to start with 13...Qc7. Nb5 shouldn't scare you off, since the N on b5 does nothing and just gets kicked by a6
+[20:40:47] handknit: (14.Nxd5) I wonder if white is thinking 14...Bxd5 15.c4 Be6 16.Ba5
+[20:41:03] handknit: (14.Nxd5) Black can just play Qa8, scooting out of the trick, but it's a neat idea
+[20:41:03] handknit: (14.Nxd5) *Qe8
+[20:42:03] handknit: (14.Nxd5) I guess the trick doesn't even work on its own merits
+[20:42:19] handknit: (14.Nxd5) since black can recapture on d8 with the bishop, thereby defending a5
+[20:45:52] handknit: (15.Bc3) This is tough for black, now. Qc7 runs into Bxh7+
+[20:46:53] handknit: (15.Bc3) Anything that's not Qc7 (or Qb6) risks running into Be4
+[20:49:25] handknit: (15.Bc3) Qc7 and just letting the pawn go might be the way here
+[20:58:03] handknit: (17...Bf6) Qxd5 here is a big advantage for white
+[20:58:18] handknit: (17...Bf6) I guess Bxh7+ does the same thing with a different move order
+[20:58:48] handknit: (17...Bf6) Qxd5 feels more forcing, though, since you guarantee taking the queens off
+[20:59:49] handknit: (18.Qxd5) So two pawns in an endgame, but white has no passers
+[21:00:05] handknit: (18.Qxd5) alongside play on both wings, black can at least bother white a bit
+[21:01:36] semlegesnev: I was happy about this position until I realized we were black
+[21:01:51] handknit: (20.Rxd5) lol
+[21:02:06] handknit: (20.Rxd5) Yeah, he got a pretty good position in the opening
+[21:02:22] handknit: (20.Rxd5) Unfortunately, the Q on d8 became a vulnerability
+[21:04:23] handknit: (20...Rfe8) Would've liked starting with Rc6 just to preserve a6
+[21:04:54] handknit: (20...Rfe8) I guess black can meet Rd6 with Re2
+[21:07:11] semlegesnev: Re2 Rd2 Re6 seems alright
+[21:07:26] semlegesnev: altho no need for Re2 now that I think abt it
+[21:09:28] handknit: (23.Ka2) Yeah. Try get some activity going. You want to avoid losing more pawns but activity is the first priority.
+[21:09:59] handknit: (23...Rg1) Rh1 was better there, I think
+[21:10:14] handknit: (24.g3) trick worth know is that that after Rh1, is you force h3, you get Rh2
+[21:10:14] handknit: (24.g3) white can't defend both h3 and g2
+[21:10:29] handknit: (24.g3) Now white can meet Rg2 with either h4 or f4, keeping everything defended
+[21:12:00] semlegesnev: I like the idea of getting the rooks behind, if not Rd1 now
+[21:23:56] basilcandle: Go matthieu!
+[21:34:36] matthieu_max: ggs
+[21:39:40] matthieu_max: also, why did you decided on (13) ...a6
