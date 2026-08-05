@@ -1,0 +1,201 @@
+Lichess game chat log
+Game      : https://lichess.org/y1bXgS5I
+White     : titusalone91
+Black     : oachkatzerlschwoaf
+Time      : 45+45
+Captured  : 2026-08-05 23:18:32 UTC
+Game ended : 2026-08-05 21:58:24 UTC
+Messages  : 191
+────────────────────────────────────────────────────────────
+
+[19:07:34] oachkatzerlschwoaf: So, 4...Nf6 is not the move I'd normally play.
+[19:08:04] oachkatzerlschwoaf: f5 is ok I think, but the speed they played a3 I think they had some prep
+[19:08:35] oachkatzerlschwoaf: I think I'm fine playing without my dsb against this pawn structure.
+[19:18:44] oachkatzerlschwoaf: yeah all very logical moves
+[19:18:59] oachkatzerlschwoaf: c4 aiming to get rid of their doubled pawns
+[19:19:15] oachkatzerlschwoaf: which I cant really stop
+[19:20:31] oachkatzerlschwoaf: first instinct was c5 but maybe dxc4 bxc4 c5 is better
+[19:23:49] oachkatzerlschwoaf: (9...c5) mb I should have looked at d5 here longer
+[19:24:04] oachkatzerlschwoaf: but it looks silly
+[19:25:35] oachkatzerlschwoaf: I also didn't calculate Zwischenzug Bxf6...
+[19:26:51] oachkatzerlschwoaf: (10. O-O) good move probably
+[19:29:39] oachkatzerlschwoaf: soooo, now d5 looks much more annoying
+[19:29:39] oachkatzerlschwoaf: what to do about it
+[19:31:10] oachkatzerlschwoaf: lovlas told me to play simple chess
+[19:31:41] oachkatzerlschwoaf: so I wanna play Qc7, unpinning
+[19:31:56] oachkatzerlschwoaf: It looks slow.
+[19:33:27] oachkatzerlschwoaf: qc7 looks like a bad move just Bf4
+[19:40:18] oachkatzerlschwoaf: hello nyanners! glad to have you (and all the others too)
+[19:41:50] oachkatzerlschwoaf: I'm not enthusiastic about cxd4 but I didn't see a convincing way to stop d5
+[19:44:52] oachkatzerlschwoaf: Jee I already spent 20 minutes on the first 10 moves. Need to speed up a bit
+[19:45:23] nyanners: white is kinda taking over
+[19:45:23] nyanners: more time, bishop pair, now the central concession
+[19:45:38] nyanners: not a super big deal yet though
+[19:46:39] nyanners: id really like 7..c5 to work. i think it did
+[19:46:54] nyanners: vs dxc5 at least one of Nbd7 or Qa5 should be good
+[19:51:13] nyanners: with some luck black may find counterplay on the c-file
+[19:56:03] oachkatzerlschwoaf: aaand I played it anyway
+[19:56:03] oachkatzerlschwoaf: I dont think its a good move
+[19:57:04] oachkatzerlschwoaf: feels hard to develop my bishop in time
+[20:15:20] oachkatzerlschwoaf: I think they took a tad too much time with these last few moves
+[20:15:35] oachkatzerlschwoaf: Felt like there were some better, more aggressive options
+[20:15:50] oachkatzerlschwoaf: This looks fine to me.
+[20:39:57] oachkatzerlschwoaf: yeah these last few moves by white were all pretty terrible
+[20:41:59] oachkatzerlschwoaf: but my zeitnot will get to me
+[20:43:30] nyanners: free pawn :o
+[20:43:30] nyanners: that helps
+[20:47:03] nyanners: a lot actually
+[20:47:49] nyanners: i dont like 12 Bb3 so much because that diagonal isnt good if white doesnt play d5
+[20:47:49] nyanners: which black has really really good control of
+[20:48:35] nyanners: to be fair at move 18 it seems like white has lost some control but im not sure how that happened
+[20:48:50] nyanners: so white blunders a pawn but wasnt easy
+[21:04:04] nyanners: rooks off :o the rest is technique
+[21:04:04] nyanners: i hate when books say that
+[21:08:53] oachkatzerlschwoaf: It's been ages since I've played an endgame in classical
+[21:08:53] oachkatzerlschwoaf: I have grown none wiser.
+[21:09:08] oachkatzerlschwoaf: Hard to when you do not study :-(
+[21:10:56] oachkatzerlschwoaf: I know its winning but I'll find a way to mess it up
+[21:15:30] nyanners: if you truly believe you can find it
+[21:16:01] nyanners: dont be discouraged..... no wait
+[21:18:02] nyanners: final moments of truth
+[21:20:35] wave2679: Nb2 here
+[21:20:35] wave2679: ?
+[21:21:20] nyanners: umm
+[21:21:36] nyanners: i like as played
+[21:21:36] nyanners: but now black needs to commit
+[21:24:08] wave2679: f3+ ke3 nc5 looked winning for black
+[21:24:23] wave2679: Because they can't really take the pawn on e4
+[21:25:55] oachkatzerlschwoaf: slow down you mongoose
+[21:25:55] oachkatzerlschwoaf: My N might end up on a bad circuit
+[21:26:55] oachkatzerlschwoaf: does it actually matter?
+[21:27:11] wave2679: I think this is clearly drawn unless you can fork the a4 and c4 pawns
+[21:28:27] wave2679: I could be wrong
+[21:28:27] wave2679: I'm not the best endgame player
+[21:28:42] nyanners: black has a few choices. any sort of Kxf4 for Kd4-Nxc4 wins
+[21:28:42] nyanners: probably
+[21:28:57] nyanners: if the black king gets to the queenside on Kxf4 then you get the 2 vs 0
+[21:29:28] wave2679: @Nyanners, on move ...55 what do you think of f3+ followed by nc5 if ke3
+[21:29:28] nyanners: could also try to use the knight to support the f-pawn push and accomplish the same thing differently
+[21:30:13] nyanners: yeah that might be zugzwang. Kf2 seems a bit tougher
+[21:30:13] nyanners: in that f3 line
+[21:30:29] nyanners: umm but then Kf4. yeah seems good
+[21:30:44] wave2679: Yeah I thought it won, been working through a 100 endgame course on chess.com recently
+[21:30:59] ysgwydd: (63.Bc6) Surely this is a clear win, knight can move freely and f-pawn is trouble
+[21:31:14] ysgwydd: (63.Bc6) I liked 55...e3 better
+[21:31:30] nyanners: e3 was what i thought but it probably doesnt matter
+[21:32:00] wave2679: why e3? I don't follow the logic
+[21:32:15] ysgwydd: (63...Nd6) To keep another pawn
+[21:32:30] wave2679: But they accomplish the same thing f3+ is more tactical
+[21:32:30] wave2679: Because
+[21:32:46] wave2679: f3+ ke3 nc5, if bxe4, nxe4 you can't take back the knight
+[21:33:01] wave2679: Bc f2
+[21:33:01] wave2679: I don't suppose it much matters
+[21:33:16] ysgwydd: (65.Bc6) 55...e3 Kf3 Ng6 and you take h5 and white can't take f
+[21:33:16] inter-temporal: im mobile, driving. go oach!
+[21:33:47] ysgwydd: (65...Nc7) I'm mobile is what that knight is saying
+[21:35:03] nyanners: okay this will do
+[21:35:33] nyanners: kd6 and white has to give
+[21:35:33] wave2679: Nxa4 too soon?
+[21:36:04] nyanners: yea white has two routes to f1 i think
+[21:36:04] nyanners: d1-e2 c6-g2
+[21:36:19] nyanners: or Kd3.. of course
+[21:36:34] wave2679: Oh yeah that's even more simpel
+[21:37:05] ysgwydd: (68.Bc6) Walk to g3 and push
+[21:37:05] wave2679: This works
+[21:37:20] ysgwydd: (69.Kd3) Yeah
+[21:37:35] nyanners: now what
+[21:37:50] wave2679: Personally I would go ng5
+[21:38:05] wave2679: f5*
+[21:38:05] wave2679: Oh my gosh I'm tired
+[21:39:06] wave2679: How does black breakthrough here
+[21:39:22] nyanners: yea this isnt the way
+[21:39:22] ysgwydd: (70.Kc3) Nh3-g5
+[21:39:37] ysgwydd: (70.Kc3) The push
+[21:39:37] ysgwydd: (70.Kc3) Then
+[21:39:52] nyanners: umm okay youre right
+[21:39:52] wave2679: ng5?
+[21:39:52] ysgwydd: (71.Kd3) Of course I am, I'm not playing
+[21:39:52] nyanners: i think black is reluctant to give f
+[21:40:07] nyanners: it will not be considered
+[21:40:23] nyanners: but trading f to get the king in seems like the easiest path to me
+[21:40:23] wave2679: Time!
+[21:40:38] nyanners: okayyyy
+[21:40:38] ysgwydd: (71...Ng5) Does white get f in that line?
+[21:41:08] wave2679: @ysgwydd my idea is just to give the pawn to get kd4
+[21:41:08] wave2679: f3 ke3
+[21:41:08] nyanners: id go with Kd6 first and then f3
+[21:41:23] nyanners: and something should happen
+[21:41:23] wave2679: Some waiting move
+[21:41:23] ysgwydd: (72.Bd5) I like kf4 at somepoint
+[21:41:23] nyanners: because f3 Ke3 seems like a lost tempo
+[21:41:54] wave2679: Yeah I think in my line ke3 you don't get what you want
+[21:42:09] wave2679: Black has the winning set up now
+[21:42:09] nyanners: yeah ke3 f2 bg2..
+[21:42:24] nyanners: this one seems clear
+[21:42:40] ysgwydd: (72...Kd6) White can't take on f3 anyway right. Black would just take c and a
+[21:43:41] nyanners: thats why you want the king as close as possible before starting it
+[21:43:56] ysgwydd: (72...Kd6) Good point
+[21:44:26] wave2679: I think they both do the same thing?
+[21:44:26] wave2679: Kd6 is clearer
+[21:44:42] wave2679: If f3 then ke3 kd6, takes takes takes kc5
+[21:44:57] wave2679: You still win the c4 pawn and a pawn
+[21:45:12] wave2679: now f3?
+[21:45:27] nyanners: yea
+[21:46:13] wave2679: f2
+[21:46:13] wave2679: f2 bg2
+[21:46:43] nyanners: white keeps the bishop, a tiny bit annoying i guess
+[21:46:59] ysgwydd: (75.Kf4) Kxd5 would be nice
+[21:47:29] ysgwydd: (76.Bg2) White keep clock pressure at least
+[21:47:29] mrscribbles: (76.Bg2) weird position here
+[21:47:29] nyanners: ne6 nd4
+[21:47:44] wave2679: can you play kxc4
+[21:47:44] nyanners: maybe for draw
+[21:47:59] nyanners: umm maybe it could win
+[21:48:15] nyanners: but seems unnecessary
+[21:48:15] nyanners: just do this yeah
+[21:48:45] wave2679: I didn't mean kxc4 giving away the knight It just happened to appear that way because I didn't specify I was calculatin ahead
+[21:50:01] nyanners: now its pretty easy if maybe still a bit lengthy
+[21:50:17] wave2679: Have to be a little careful on how you push the pawns if they keep the bishop
+[21:50:32] nyanners: theres like one esoteric draw where knight+a cant win if you push too soon
+[21:50:47] nyanners: but should be very easily avoidable
+[21:50:47] ysgwydd: (81.Kd3) Nc3 then a4
+[21:51:17] wave2679: This game could of been 20 some odd moves shorter if f3+ or e3 on ...55
+[21:51:33] nyanners: its fine
+[21:51:33] wave2679: True, it's impressive conversion as well
+[21:51:33] ysgwydd: (81.Kd3) They like play chess
+[21:52:03] wave2679: I would of frustrated played into a draw after 56 kxe4
+[21:52:49] wave2679: What's the quickest way to win this
+[21:53:04] wave2679: nc5 or nc3
+[21:53:04] nyanners: idk wouldnt even think about it
+[21:53:19] nyanners: just play hyperbullet pace until the pawns are on the third
+[21:54:20] wave2679: I'm good at bullet but anything quicker than 1:00|0 and my brain can't keep up
+[21:54:20] nyanners: no extra points for winning quick
+[21:54:20] wave2679: True
+[21:54:35] wave2679: b4 here
+[21:54:35] nyanners: there was this otb 3+2 game where i was playing up and i was somehow like 5 pawns up
+[21:54:35] nyanners: i just shamelessly shuffled to build up time
+[21:54:51] nyanners: it was ugly
+[21:55:06] wave2679: not fide
+[21:55:06] wave2679: USCF
+[21:55:21] ysgwydd: (86...a3+) What's your 1+0 OTB rating
+[21:55:36] wave2679: I've never played bullet OTB
+[21:55:36] nyanners: the real questions
+[21:55:52] ysgwydd: (88...Nc4) Better to stick with chess
+[21:56:07] nyanners: otb bullet has a pretty high death rate
+[21:56:37] nyanners: okay now you think a tiny bit
+[21:56:53] nyanners: nd2 b2
+[21:56:53] nyanners: yes
+[21:57:08] wave2679: nd2 b2 wins
+[21:57:08] ysgwydd: (90...Nd2+) I think Nd2 b2
+[21:57:23] wave2679: Should be mate on b2
+[21:57:38] ysgwydd: gg
+[21:57:38] wave2679: gg
+[21:57:38] nyanners: b1q b2 b4
+[21:57:53] nyanners: gg
+[21:57:53] goldenretrieverchess: gg
+[21:57:53] ztraynor: gg well fought both
+[21:57:53] jcarmody: gg
+[21:58:09] wave2679: I'm playing in my first Classical tournament in a long while in Novemember
+[21:58:54] ysgwydd: Good luck
+[21:58:54] wave2679: Thanks
+[21:59:10] wave2679: Bye for now
