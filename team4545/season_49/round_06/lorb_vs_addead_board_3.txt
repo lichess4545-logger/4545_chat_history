@@ -1,0 +1,145 @@
+Lichess game chat log
+Game      : https://lichess.org/vVKJssgE
+White     : lorb
+Black     : addead
+Time      : 45+45
+Captured  : 2026-08-06 19:54:16 UTC
+Game ended : 2026-08-06 18:34:16 UTC
+Messages  : 135
+────────────────────────────────────────────────────────────
+
+[17:02:49] handknit: (6.Nb5) This again
+[17:03:34] handknit: (7...e6) I guess this isn't exactly his round 3 game
+[17:03:34] chessishard101: I'm not sure I love the queen on d6 so early, but this guys obviously knows a lot more about Scandy variations than me
+[17:03:50] handknit: (7...e6) Qd6 is a line
+[17:04:05] handknit: (7...e6) From what I remember, the right way to play against it involves putting the bishop on g3
+[17:04:05] handknit: (7...e6) *g2
+[17:05:52] handknit: (8...Bb4+) Key point here is that black has Bb4+ to drive white away from the attack on c7
+[17:06:07] handknit: (8...Bb4+) And it's not like black's better or anything, but he has managed a playable position
+[17:06:22] handknit: (8...Bb4+) One that, likely, he is more familiar with than white
+[17:06:52] chessishard101: Yeah, this looks pretty uncomfortable for white, even if it is equal
+[17:08:24] handknit: (11.bxc3) Not necessarily a fan of taking on c3
+[17:08:39] handknit: (11.bxc3) Bd3 and a kingside attack might now be faster than b6-Ba6-Na5
+[17:12:12] semlegesnev: Hmm interesting, I always thought that the best black can do with their dark squared bishop in a d4 opening was to trade after a3
+[17:12:28] semlegesnev: Is this different or do I just not know theory?
+[17:16:47] handknit: (15.Ne5) It's an "it depends" kind of thing
+[17:17:02] handknit: (15...Qd6) In this case, if black retreats to d6 you are attacking white's B on f4 so you aren't losing a tempo by retreating
+[17:18:03] handknit: (16.Bxf6) I *think* this exchange should benefit black
+[17:18:03] chessishard101: I probably would have traded knights on 15
+[17:18:19] handknit: (16.Bxf6) What would you do about the N on f6 after?
+[17:19:04] handknit: (17.Ng4) This is very double edged, now. Black can point a lot at g2 very quickly
+[17:20:05] chessishard101: I guess I can always go h6 and either kick the bishop or trade knight for bishop depending on whites move
+[17:20:36] chessishard101: Though he probably just moves the bishop back to h4 to keep the pin alive
+[17:21:06] handknit: (17...Kg7) Yeah, you kinda blow up your kingside defence
+[17:21:22] handknit: (17...Kg7) Anyway, kinda expecting Qd2 Qf4 here
+[17:22:22] handknit: (17...Kg7) The big thing black has to keep an eye on is white getting in Qh6+
+[17:22:22] chessishard101: Yeah, it just seems like the kingside defence is kind of blown up in this variation anways
+[17:22:53] handknit: (17...Kg7) Once that is controlled, black should be able to start bringing pieces in to attack the kingside
+[17:23:23] handknit: (17...Kg7) There's even an I See the Darkness line: 18.Qd2 Qf4 19.Qxf4 Nxf4 20.g3 Nh3#
+[17:23:54] semlegesnev: Unfortunately the bishop will be hanging which prevents g3 tunnel vision
+[17:24:09] handknit: (17...Kg7) the darkness consumes all
+[17:24:39] handknit: (17...Kg7) There's even a version with Qd2 Nf4
+[17:25:10] semlegesnev: Was about to say
+[17:26:11] chessishard101: I'm probably looking at Rad8 or something if I'm black
+[17:29:29] handknit: (18.Re1) ah, making space for Bf1
+[17:31:01] handknit: (19.Ne3) f4-f3 is kind of a thing here
+[17:31:16] handknit: (19.Ne3) Though I think I do prefer Kh8-Rg8
+[17:31:31] semlegesnev: Nf4 Kh8 Rg8 on the cards
+[17:31:46] semlegesnev: Okay I officially retire
+[17:32:01] handknit: (19...Qf4) You maybe want the N to go via h4, so you keep f4 open for the pawn
+[17:33:33] chessishard101: I definitely like black's piece placement better
+[17:33:48] handknit: (19...Qf4) Yeah, black's definitely ahead now
+[17:35:35] semlegesnev: Looking into Qh5 for white
+[17:36:05] handknit: (19...Qf4) It's not the worst idea but I think black can just plow ahead with Kh8-Rg8
+[17:36:51] handknit: (19...Qf4) The thing about Qh4 is that it only really restricts black's Q, and if the black Q goes back to d6 then Nf4 tactics get real scar
+[17:36:51] handknit: (19...Qf4) y
+[17:37:06] handknit: (19...Qf4) *Qh5
+[17:37:06] handknit: (19...Qf4) numbers hard
+[17:37:37] semlegesnev: If Qh5 Qd6 then f5 can be taken, and if Kh8 first then we get g3 and there's no Nf4
+[17:38:22] semlegesnev: We as in the opponent... I didn't switch up this time
+[17:38:38] chessishard101: Should white try to create counterplay in the center?
+[17:38:53] handknit: (19...Qf4) as white?
+[17:39:08] semlegesnev: I think d5 cannot be defended right now, black trades and goes Rd8
+[17:39:23] chessishard101: I was thinking d5 for white
+[17:39:54] semlegesnev: I'm glad as a central banker I can predict the moves of the IORB
+[17:39:54] handknit: (20.Qh5) Yeah, d5 for white is interesting but I thought black could play c6
+[17:39:54] handknit: (20.Qh5) lol
+[17:40:40] chessishard101: Meh, it just seems like white's queen isn't doing nearly as much as black's here
+[17:40:55] handknit: (20.Qh5) anyway, I like Kh8-Rg8. Other ideas... hmm
+[17:41:10] handknit: (20.Qh5) honestly Rfd8 and c5 isn't the wildest idea
+[17:41:25] handknit: (20...Rad8) like white's queen was flounced off to the side of the board, target d4
+[17:41:41] semlegesnev: g3 Qd6 Bxf5?
+[17:41:41] handknit: (20...Rad8) g3 Qf3
+[17:41:56] chessishard101: I like the rook on d8 personally but but g8 seems strong too
+[17:42:26] handknit: (20...Rad8) g3 Qd6 Bxf5 Bxg2
+[17:42:26] handknit: (20...Rad8) I have not calculated that
+[17:43:27] chessishard101: The d5 push seems kind of late from white now
+[17:43:27] handknit: (21.d5) Kinda like Qh4 here
+[17:43:58] semlegesnev: There is no g2 to take after g3
+[17:43:58] handknit: (21.d5) right, there is no g2 to take after g3
+[17:44:28] handknit: (21.d5) g3 Qd6 Bxf5 Qc6 maybe
+[17:45:14] handknit: (21...Qh4) The thing about the queens coming off is that Kf6 does a great job of holding e6
+[17:45:14] handknit: (21...Qh4) On the other hand, a4-a5 for white is a lot more effective
+[17:45:14] chessishard101: Surely white won't want to trade queens?
+[17:45:44] handknit: (21...Qh4) It's not great but neither is Qe2
+[17:45:44] semlegesnev: There aren't many good places for the queen
+[17:46:00] chessishard101: Actually I guess whites queen isn't doing a lot anyways
+[17:46:00] chessishard101: And black's is really annoying
+[17:46:45] handknit: (21...Qh4) On Qe2 or Qd1 white has to think about black pushing f4 immediately
+[17:47:16] invinci7777: qxf5 almost worked
+[17:49:18] semlegesnev: Back on to the d file with the rook on d8... Good
+[17:52:05] semlegesnev: f4 still coming
+[17:52:20] handknit: (23.Qc2) Trying to think of reasons against just playing f4 and taking on f5
+[17:52:36] handknit: (23.Qc2) You're extra pawn is doubled/isolated
+[17:52:51] handknit: (23.Qc2) Maybe you just say there's no cost in starting with Rg8
+[17:52:51] handknit: (23...Qg5) can always play f4 next move
+[17:53:52] semlegesnev: dxe6 Qxg2+ Nxg2
+[17:54:53] semlegesnev: f4
+[17:55:08] handknit: (24...f4) yeah, more value in opening the diagonal now
+[17:55:23] handknit: (24...f4) maybe start with 25.Nh4
+[17:55:54] semlegesnev: Unless BxN
+[17:57:10] handknit: (25...exd5) There's some darkness here with cxd5 Qxd5 Be4 motifs
+[17:58:26] chessishard101: Not sure about opening the e file
+[17:59:57] semlegesnev: Qg4 seems fine
+[18:00:28] handknit: (26.h4) I think I prefer Qf6
+[18:00:43] handknit: (26.h4) keeps the Q on the h8 diagonal, supports Ne5
+[18:01:14] semlegesnev: But it doesnt go to h3 then :((
+[18:03:31] semlegesnev: So is h5 Ne5 Rxe5 Qxe5 Nf4 catashtrophic here for white given the position?
+[18:06:49] matthewhuber: go lorb!
+[18:07:34] semlegesnev: Damn I hope Kevin Warsh thinks of me when choosing the next governor
+[18:10:37] handknit: (29...Rg8) how forced is Kh2 here?
+[18:11:38] matthieu_max: it's quite hard to think that white can win this, there's nothing that white can hold onto
+[18:11:53] matthieu_max: I think Kf1 and rook to e1?
+[18:12:09] handknit: (29...Rg8) White's position is very rough, for sure, but there's asymmetries and black's king isn't great
+[18:12:54] handknit: (29...Rg8) Yeah, Kf1-Re1 might be an idea to keep the game going
+[18:13:40] handknit: (29...Rg8) Maybe something like 30.Kf1 dxc4 31.Bxc4 Qf6 32.Re1 Qc6
+[18:16:28] matthieu_max: oh daring aren't we
+[18:16:58] matthieu_max: maybe the idea is to bring his rook to h1?
+[18:16:58] handknit: (31.Bxh7) Rge8 Bg6 maybe
+[18:17:28] handknit: (31.Bxh7) Honestly, Rg4 with the idea of Rxf4 and Qxh5 seems very strong here
+[18:17:59] handknit: (31.Bxh7) Rge8 Bg6 Be4 seems like it solves the problem of that line
+[18:19:15] semlegesnev: I thought Black could push more on the g file with an eventual Rxg3, but many things win here
+[18:20:31] handknit: (32.Bg6) Qf6 is actually pretty good here too
+[18:20:46] handknit: (32.Bg6) white's bishop lacks squares
+[18:21:17] handknit: (32.Bg6) Qf6 Bf5 Qc6, for instance
+[18:21:32] matthieu_max: maybe should have go Bf5 instead of Bg6?
+[18:21:47] handknit: (32.Bg6) Sometimes you feel like you gotta play for tricks
+[18:21:47] semlegesnev: Yea, and white's rook is just completely closed out from the bishop and the rooks
+[18:22:03] matthieu_max: fairs
+[18:22:33] handknit: (32...Qf6) I think Qc6 is gonna be resignable
+[18:22:48] handknit: (32...Qf6) No good answer to the threat of Qh1#
+[18:23:04] matthieu_max: yep thought so too
+[18:23:19] matthieu_max: if he played Bf5 instead, he can bring his bishop to h3
+[18:23:34] semlegesnev: Qh1 also needs to be stopped
+[18:23:49] semlegesnev: Oh white's a turn ahead and Bg2 , nvm
+[18:24:51] semlegesnev: Actually Qf5 here?
+[18:25:06] handknit: (32...Qf6) Still Qc6
+[18:25:22] semlegesnev: Nd5
+[18:25:22] handknit: (32...Qf6) Rxd5?
+[18:25:37] handknit: (32...Qf6) Rd1+ is still mate by force
+[18:26:07] semlegesnev: Oh yea thats right, didn't see Rd1+
+[18:26:23] handknit: (32...Qf6) spec: 33.Qf5 Qc6 34.Qh3 Qf3 with the threat of Rd1
+[18:27:39] semlegesnev: This positional dominance is just wow. Def not seen in every game
+[18:30:12] handknit: (34.hxg6) Qc6 should be mate
+[18:34:01] handknit: yatta
+[18:36:02] semlegesnev: gg!
