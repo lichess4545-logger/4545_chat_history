@@ -1,0 +1,42 @@
+Lichess game chat log
+Game      : https://lichess.org/eLmWX91X
+White     : ffnightk
+Black     : cosmoaps
+Time      : 45+45
+Captured  : 2026-08-06 17:54:18 UTC
+Game ended : 2026-08-06 16:34:09 UTC
+Messages  : 32
+────────────────────────────────────────────────────────────
+
+[14:43:26] handknit: (10...dxe5) Seems pretty reasonable for black. Feels equal.
+[14:50:02] handknit: (12.Nd5) I guess white can try for some play after something like 12...Nxd5 13.exd5 Nd4 14.Be4 f5 15.Bd3
+[14:52:04] handknit: (13.exd5) There's some funky ideas in here if either player really wants to force it, I guess
+[14:52:04] thegreattoddman: Good luck players, and hi everyone o/
+[14:52:34] handknit: (13.exd5) 13...Rfd8 14.c3 e4 15.Be2 Ne5
+[14:52:34] handknit: (13.exd5) Stuff like that
+[14:59:25] handknit: (13...Rad8) Qe2 stops Nd4, which probably makes that the right move
+[15:00:11] handknit: (14...f6) 14.Qe2 Nb4 15.Qb5 a6 16.Qc5 seems like it would've been a punch
+[15:10:20] handknit: (16...Kxg7) Black's N is not super secure on d4. I wonder if it's best to bring it to d6
+[15:16:41] handknit: (19...Ra8) well, anything is possible
+[15:18:13] handknit: (20...Rxa2) Might've been worth throwing in 20...d4 as a cheap trick
+[15:20:45] handknit: (22.Kd2) R2a5, play for tricks
+[15:21:00] timothyha: (22.Kd2) f5 maybe?
+[15:21:15] handknit: (22.Kd2) I think black needs that diagonal to stay closed
+[15:21:15] timothyha: (22.Kd2) Qg5 limits the king and f5 threatens the bishop
+[15:21:46] timothyha: (22.Kd2) long term, for sure, but right now White is a bit jumbled
+[15:22:01] handknit: (22.Kd2) I don't think black has meaningful mate threats here because there's no way to stop Ke2-Kf1
+[15:22:16] timothyha: (22.Kd2) 30 mins enough to play this safe and win for White though
+[15:22:47] handknit: (22.Kd2) Yeah I mean this is winning for white. Black's best shot is probably just to maintain the centre and hope
+[15:26:05] timothyha: (22...Qc5) White can afford Ke2 Kf1
+[15:26:20] timothyha: (22...Qc5) Ke2 e4 Kf1
+[15:26:35] handknit: (22...Qc5) Bxd5 and Qxb7+ are both free here, too
+[15:26:50] timothyha: (22...Qc5) yeah but Ke2 is less calculation :-)
+[15:26:50] handknit: (22...Qc5) I like Bxd5 because I think that closes black's play
+[15:27:06] handknit: (23.Ke2) I mean, now there's e4
+[15:27:21] handknit: (23.Ke2) Be2 is no longer an option
+[15:27:21] timothyha: (23.Ke2) that's why I said White can afford this with K1
+[15:27:36] timothyha: (23.Ke2) because rook enters via e soon
+[15:28:07] handknit: (23.Ke2) white should still be winning but I dunno that this required sacrificing a bishop for rook activity
+[15:28:37] timothyha: (23.Ke2) it's like a major piece endgame with an unsafe king for Black
+[15:32:10] timothyha: (23...e4) Kf1 exf3 Rzd5 I think, and fxg2+ Kg1
+[15:33:42] handknit: (23...e4) That seems like a lot of unnecessary complication
