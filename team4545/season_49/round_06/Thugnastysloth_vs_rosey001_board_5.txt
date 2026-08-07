@@ -1,0 +1,124 @@
+Lichess game chat log
+Game      : https://lichess.org/PZrk0KJp
+White     : thugnastysloth
+Black     : rosey001
+Time      : 45+45
+Captured  : 2026-08-07 02:05:26 UTC
+Game ended : 2026-08-07 00:45:14 UTC
+Messages  : 114
+────────────────────────────────────────────────────────────
+
+[23:01:48] rosey001: 5. I was expecting a fantasy caro kann
+[23:14:16] rosey001: 11. I do not like my position very much
+[23:18:05] rosey001: 12. o-o-o the move i've been afraid of for the last few moves is Bd6, they haven't played it yet though
+[23:21:53] rosey001: not looking good, kinda got killed out of the opening
+[23:26:58] rosey001: 16. c4 I'm surprised they didn't just take my rook
+[23:47:48] aldric123: (22...Na5) Go Rosey!
+[23:48:49] aldric123: (22...Na5) Before I switched to sicilian (for now) I used to play this line. I think on Qg4 the move I used to play was g6, I'll have to ...
+[23:48:49] aldric123: ...see after the game
+[23:49:04] rosey001: I think Na5 was a good move, still not a good position though
+[23:49:20] rosey001: hi aldric
+[23:49:20] aldric123: (22...Na5) hi!
+[23:49:35] aldric123: (22...Na5) I didn't know when your game started, just noticed now
+[23:50:21] aldric123: (23.Qg4) Just fully caught up going through the game until current
+[23:50:36] aldric123: (23.Qg4) Your situation is a bit dire, but let's see what happens.
+[23:50:36] aldric123: (23.Qg4) :)
+[23:53:39] aldric123: (23...g5) Hmm actually looked up my old prep for caro kann. On 5.Bd3 I played Nc6 Nf3 f6
+[23:56:41] aldric123: (24.Re4) In a similar position another option is Ne7 giving up g7 and after Qxg7 playing Rg8 intending to take on g2, though that also ...
+[23:56:41] aldric123: ...gives up h6
+[23:57:57] aldric123: (24...Bd7) Err meant h7
+[23:58:58] aldric123: (25.Rb1) In the actual current game I'm a bit worried he's going to force some trades and just be up his pawn and exchange, though he's ...
+[23:58:58] aldric123: ...not doing it yet
+[23:59:13] aldric123: (25.Rb1) Bc6 looks pretty good now
+[23:59:13] aldric123: (25.Rb1) I think
+[23:59:59] wave2679: @iWISHiWEREdecent I'll send you the variations on here
+[23:59:59] wave2679: That way you can see it on a board
+[00:03:32] aldric123: (26.Ree1) Perhaps now 26...Qf7 intending h5 with ideas of then g4
+[00:04:33] aldric123: (26.Ree1) though perhaps that doesn't work because after h5 Nxg5 kind of works
+[00:05:04] aldric123: (26.Ree1) though maybe not after Qg6
+[00:05:04] aldric123: (26.Ree1) chess is so complicated! :)
+[00:07:21] aldric123: (27...Qf7) cool going for my idea after clarifying the bishop on c4 first
+[00:08:37] aldric123: (27...Qf7) I like your opponents name btw. Thugnastysloth sounds pretty darn cool
+[00:09:23] aldric123: (28.Nd4) crap, I didn't notice before the opponent moved it that c6 is threatened with check, plus it's pinned now that you took on c4
+[00:10:08] aldric123: (28.Nd4) feels like you have to trade knights which isn't the plan
+[00:11:25] aldric123: (29.Qxd4) I think I'd play g4 now so f3 can't be played with impunity
+[00:12:10] aldric123: (29...g4) I like that we're mostly on the same wavelength rosey!
+[00:13:27] aldric123: (29...g4) the crappy part is if they play Red1 I find it hard to see what to play other than a6, and if that, then Qb6 I think
+[00:14:43] aldric123: (29...g4) Actually I guess with no c pawn it isn't mate, so if Red1 just Rf8, but if Qd6+ you'd have to come to c8
+[00:17:16] wave2679: I like a4 here
+[00:17:16] wave2679: a5*
+[00:17:31] wave2679: I'm a prophet!
+[00:17:46] aldric123: (30.a5) :)
+[00:18:17] wave2679: White can shift their focus to the b file maybe
+[00:18:17] wave2679: Double the rooks
+[00:18:32] wave2679: If (30... a6)
+[00:18:48] wave2679: something like rb6, h5, reb1
+[00:18:48] wave2679: Threatens the hanging bishop
+[00:18:48] wave2679: With the pin
+[00:23:38] wave2679: Qd6+ kc8 Rxc6+ bxc6, qxc6+ if qc7, qxe6+, king moves qxg8
+[00:23:53] wave2679: So kc8 is no longer playable
+[00:26:42] wave2679: This is forced into the variation I just calculated now
+[00:26:42] wave2679: Qd6+ should win
+[00:26:42] wave2679: KC8 forcedx
+[00:27:43] wave2679: No good bc this gives black time for qd7
+[00:31:01] rosey001: They want to go Rxc6
+[00:31:31] wave2679: Rxc6 on the last move was winning
+[00:31:31] wave2679: Certainly
+[00:32:01] aldric123: (33.Reb1) Yeah looks like you're correct wave
+[00:32:47] aldric123: (33.Reb1) At this point looks like black has to play Qd7 and grovel
+[00:33:02] wave2679: White should still win but might have to be an endgamenow
+[00:33:02] aldric123: (33.Reb1) Which probably shouldn't work but doesn't lose in 1-2 moves like anything else I see
+[00:33:48] aldric123: (33.Reb1) although maybe it still loses to Qd7 Rxa6
+[00:33:48] aldric123: (33.Reb1) Which would be a new threat when d7 is blocked
+[00:34:03] wave2679: I don't think rxa6 works
+[00:34:19] wave2679: Capture the queen?
+[00:34:34] aldric123: (33.Reb1) in between move Ra8+ I assumed
+[00:34:49] wave2679: Black could go kd7 not kc7
+[00:34:49] wave2679: if kc7 it works
+[00:35:04] wave2679: Bc exd6+
+[00:35:04] rosey001: I want to play Bxg2 which I know is unsound, but the only other move I see is Qd7 which will probably just be a slow losing endgame
+[00:35:04] aldric123: (33.Reb1) yeah what I said might not work, if so that's better for rosey
+[00:35:20] aldric123: (33.Reb1) Yeah think you're right
+[00:36:05] wave2679: You should let black take probably
+[00:37:22] wave2679: qb5?
+[00:37:52] wave2679: qb5 black has no way to create a new threat so probably has to play kd8
+[00:37:52] wave2679: Because anything else is
+[00:37:52] wave2679: ?
+[00:38:07] aldric123: (34.Rxc6+) White is trying to be forceful or see's some tactic that we don't or doesn't exist
+[00:38:23] aldric123: (34...Qxc6) Or thinks the 1 pawn up rook endgame is ez
+[00:38:23] wave2679: No it is ez
+[00:38:38] wave2679: I just thought qb5 was simpler
+[00:38:38] aldric123: (35...bxc6) I guess it's gonna be 2 pawns!
+[00:38:38] wave2679: Well maybe not
+[00:38:53] aldric123: (36.Rb6) Though e5 probably falls for a6
+[00:38:53] wave2679: bc the e5 pawn is hard to defend
+[00:39:24] aldric123: (37.Rxa6) but the fact that d6 and b6 can't be gone too means this is still ugly for black to defend
+[00:39:39] wave2679: h6 is esentially lost
+[00:39:39] aldric123: (37.Rxa6) Still, have to try Rg5 I'd assume
+[00:39:54] wave2679: But I think qb5 is a clear win in 3-4 moves where as thi sis not exactly
+[00:40:09] wave2679: Hold on that's a good move
+[00:40:09] wave2679: Going for the c4 pawn
+[00:40:09] aldric123: (37...Rb8) threatening mate ius always nice
+[00:40:09] wave2679: I assume
+[00:40:24] aldric123: (37...Rb8) for a tempo I mean
+[00:40:24] wave2679: (Assuming mate is seen)
+[00:40:55] wave2679: Lowkey it's crazy But I think black can trade rooks and still win enough pawns to draw before the white king is there
+[00:41:10] wave2679: It's probably not needed though
+[00:41:10] aldric123: (38.Ra7+) it's possible I guess
+[00:41:25] aldric123: (38.Ra7+) a6 falls for sure obviously
+[00:41:25] wave2679: Brb
+[00:41:25] aldric123: (38.Ra7+) err a5
+[00:42:26] aldric123: (38.Ra7+) looking at it more I don't know that I agree with you
+[00:42:42] aldric123: (38...Rb7) Rb7 Rxb7+ Kxb7 f4
+[00:42:42] aldric123: (40.f4) the f pawn is fast
+[00:42:42] aldric123: (40.f4) Ah white plays it, damn
+[00:42:57] aldric123: (42.f4) the e/f pawns are faaaast
+[00:43:27] aldric123: (42...Kxa5) maybe not quite fast enough though? hmm
+[00:43:27] aldric123: (43.f5) Oh wait yeah they are
+[00:43:43] aldric123: (43.f5) black's king is too far away
+[00:44:13] wave2679: dang I didn’t see this
+[00:44:28] aldric123: I saw it while you were gone before it was played
+[00:44:43] aldric123: sadly
+[00:44:43] aldric123: ggs
+[00:44:59] wave2679: If f4 isn’t playable I think trading rooks would of worked
+[00:45:29] wave2679: Ggs
