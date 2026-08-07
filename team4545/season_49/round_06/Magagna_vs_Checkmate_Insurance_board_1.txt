@@ -1,0 +1,168 @@
+Lichess game chat log
+Game      : https://lichess.org/VYmZ6sxE
+White     : magagna
+Black     : checkmate_insurance
+Time      : 45+45
+Captured  : 2026-08-07 02:57:14 UTC
+Game ended : 2026-08-07 01:37:02 UTC
+Messages  : 158
+────────────────────────────────────────────────────────────
+
+[23:12:59] checkmate_insurance: i don't think Qd4 is scary
+[23:13:14] checkmate_insurance: i think we are just transposing back to the mainline
+[23:30:00] iwishiweredecent: Checkmate Insurance, lol love that username
+[23:31:00] iwishiweredecent: I am assuming this was all prep seeing as the moves were all blitzed out so quickly
+[23:31:46] iwishiweredecent: Bishop pair in exchange for doubled pawns and 4 islands...
+[23:32:47] iwishiweredecent: yeah I like c3, keeping the bishop on that diagonal
+[23:49:49] checkmate_insurance: i didn't realise how strong f4 is
+[23:51:05] iwishiweredecent: hmmm f4 with the intention of playing f5 and blockading the pawns?
+[00:02:16] iwishiweredecent: seems like 19... f5 almost compels white to play f4
+[00:37:34] iwishiweredecent: move 30 and now it seems rather drawish... especially with these high rated players
+[00:39:21] inter-temporal: interesting endgame. maybe.
+[00:42:38] inter-temporal: difficult decision (30...Bf6)
+[00:44:10] checkmate_insurance: Rbd1 Rxb3 almost works
+[00:44:25] checkmate_insurance: not quite though
+[00:44:55] inter-temporal: i dont think white can give black the d-file
+[00:45:56] iwishiweredecent: why not?
+[00:46:42] inter-temporal: d2 & d4 are too weak, i think
+[00:46:57] iwishiweredecent: just curious why Rxd8 Nxd8 is so bad, I am only an 1800
+[00:47:12] checkmate_insurance: i'm not sure why they are spending so much time on this turn
+[00:47:43] iwishiweredecent: Yeah what other move was he considering?
+[00:47:43] inter-temporal: white didnt want the trade, but was kinda compelled
+[00:48:44] inter-temporal: b3 is pinned
+[00:48:59] iwishiweredecent: Yeah I get that, where do you think white wants to put the knight?
+[00:49:30] inter-temporal: ...a4 is the problem, imo
+[00:49:30] iwishiweredecent: ok now I see it
+[00:50:15] iwishiweredecent: a4 Nc1?
+[00:50:15] checkmate_insurance: i think i can win this with my control of a1
+[00:50:46] inter-temporal: yeh this looks too hard to defend. idk
+[00:51:32] inter-temporal: ...a3-a2-Q
+[00:51:47] iwishiweredecent: Yeah that bishop bearing down on the queening square looks so annoying
+[00:52:02] bufferunderrun: let's go Checkmate!
+[00:52:02] iwishiweredecent: but can't the knight at least try to blockade via Nc1 Na2?
+[00:52:17] inter-temporal: i think so
+[00:52:48] inter-temporal: well, therez tricks too
+[00:52:48] iwishiweredecent: though I guess the rook could just slide over and come down to the 2nd rank, maybe that is why white is hustling his king over?
+[00:53:18] inter-temporal: ...a3 ...Bb2 & Rxb3
+[00:54:19] inter-temporal: but maybe there is some miracle save. :)
+[00:54:19] iwishiweredecent: oh yeah, use the bishop to block th rook's defense of the b pawn..
+[00:55:05] iwishiweredecent: maybe white just gives up on the b pawn and tries to use his rook to create some kind of miracle counterplay, Idk
+[00:57:22] wave2679: The counterplay is called fishing
+[00:58:08] inter-temporal: bobby fisching?
+[00:58:23] wave2679: Just call Magnus he'll win this as both colors
+[00:58:54] inter-temporal: i gotta get goin... gl
+[00:59:40] iwishiweredecent: lol well at least I predicted Nc1, but this looks hopeless for white
+[01:00:11] iwishiweredecent: now white can't move the rook or the knight.. just sitting ducks
+[01:01:42] genturgidson: Commentary team gathers again.
+[01:02:43] iwishiweredecent: lol whats up Gen, how's your day going
+[01:02:58] iwishiweredecent: hopefully better than White's position at the moment
+[01:03:59] wave2679: Nah white will win this
+[01:04:15] wave2679: You just have to believe
+[01:04:15] wave2679: who needs pieces that can move
+[01:04:45] iwishiweredecent: yeah b4 and then Na2
+[01:04:45] iwishiweredecent: lol wave
+[01:05:31] wave2679: Jokes aside I actually kind of like whites position
+[01:05:46] wave2679: bc of ke2, kd3, kc4
+[01:06:01] wave2679: It's esentially unstoppable
+[01:06:17] wave2679: Nd3 will hold both dark squared pawns
+[01:06:17] wave2679: If the bishop goes for them
+[01:07:48] genturgidson: I think Na2 would have been risky because of Rd5 basically forcing it back to c1 maybe.
+[01:08:34] wave2679: Lowkey think white is clearly better if not winning
+[01:08:34] genturgidson: The DSB kind of traps it in.
+[01:09:35] wave2679: I don't see how black is meant to make progress
+[01:12:53] bufferunderrun: not sure I liked a3, Rb6 instead perhaps
+[01:12:53] iwishiweredecent: Yeah if black moves the rook to cut off the king then white can just start pushing the b pawn
+[01:13:08] iwishiweredecent: maybe?
+[01:13:23] bufferunderrun: now the bishop is stuck there, the rook is still passive
+[01:13:23] wave2679: Chess but if you can sacrafice a rook you must
+[01:15:10] wave2679: Dang didn't work
+[01:15:10] wave2679: Worth a shot
+[01:15:25] wave2679: I like how neither side can move anything but their kings
+[01:15:40] wave2679: Really creates an interesting game
+[01:16:41] bufferunderrun: once the Kd5 is played, white can go with Kd3
+[01:17:12] bufferunderrun: if Kd3 earlier, Rd5+ and Rd4 might be possible
+[01:17:57] genturgidson: If king got on c2 could a ronk sac actually happen?
+[01:18:29] genturgidson: Well sacrificing the exchange. Seems sketchy anyhow.
+[01:18:44] wave2679: yeah
+[01:18:44] wave2679: I thought about g4
+[01:18:59] wave2679: Creating another passed pawn for white
+[01:18:59] wave2679: If hxg3
+[01:19:14] genturgidson: But some Rxb2 with Nc3+ forking king and rook threat could happen if Kc2 Kd5.
+[01:19:14] wave2679: Then king would have to run over
+[01:20:15] wave2679: BUt gen in that line hte pawn promotoes
+[01:20:15] genturgidson: Yeah I guess liteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[01:20:31] genturgidson: What the actual hell?
+[01:20:46] genturgidson: I meant to say everything gets traded and the kings run and black kind of wins the race.
+[01:21:16] genturgidson: My keyboard has gone insane.
+[01:21:16] bufferunderrun: 42.Rf3 perhaps
+[01:21:16] wave2679: Alternatively we can see a time ou
+[01:23:33] wave2679: Chess but if you can play a check and your eo is precisely 2288 you must
+[01:24:34] genturgidson: He's playing your variant.
+[01:25:50] bufferunderrun: Kd6 seemed better to me
+[01:26:36] bufferunderrun: unless the plan is Ke4, but Idk...
+[01:27:52] iwishiweredecent: Rxa3?
+[01:27:52] bufferunderrun: Bc5 then
+[01:28:07] iwishiweredecent: ahhhh yeah
+[01:28:07] wave2679: kxa3
+[01:28:23] genturgidson: White would love a load of time here.
+[01:28:53] nyanners: did b just win
+[01:28:53] iwishiweredecent: oh man
+[01:29:08] wave2679: I liked nc3+
+[01:29:08] genturgidson: No Rd2
+[01:29:08] iwishiweredecent: white might need to sac the exchange to stop mate
+[01:29:24] iwishiweredecent: yep i thought so
+[01:29:24] genturgidson: Oh Rd2 blunders the checkmate.
+[01:29:24] checkmate_insurance: i think i can win the kingside pawns and sack my rook to win
+[01:29:24] iwishiweredecent: but that knight is so far out of the game
+[01:29:24] bufferunderrun: yeah, looking good now
+[01:29:54] checkmate_insurance: honestly i might have been losing before Rd3+ i got a bit scared
+[01:30:09] wave2679: What did you think you were losing to?
+[01:30:55] iwishiweredecent: black can just go take all the pawns and use the rook to stop the b pawn no?
+[01:31:27] wave2679: @iWishiWEREdecent sparring after?
+[01:31:42] bufferunderrun: yeah, just go after f4 here,
+[01:31:57] bufferunderrun: sac the rook later
+[01:32:27] checkmate_insurance: or maybe i bring my king back and win the kingside with my rook
+[01:32:27] iwishiweredecent: I gotta get the kids ready for bed first, did you send me the lines to look over?
+[01:32:43] bufferunderrun: Rc2 might also work
+[01:32:43] wave2679: Yeah but on slack bc I couldn't figure out how to get the board to load on here
+[01:32:58] genturgidson: I would just say screw it Ke4 let's go on an adventure. I will sac my rook for the pawn and knight is probably way offside as I gobble gobbl
+[01:33:28] genturgidson: But that's guesswork, not very sensible.
+[01:33:44] iwishiweredecent: ok perfect, I'm getting pretty tired so it'd probably be better to do the sparring tomorrow but I will definitely look over the lines before
+[01:33:44] iwishiweredecent: I crash
+[01:33:59] wave2679: Okay we can do it tomorrow, what time works for you?
+[01:34:14] iwishiweredecent: I am thinking around noon or so EST
+[01:34:29] wave2679: Okay I can do that
+[01:34:45] wave2679: That's 11am for me
+[01:35:00] iwishiweredecent: ahhh I didn't even see that Rg6 move
+[01:35:15] checkmate_insurance: i think Nb4 was forced to keep playing
+[01:35:15] wave2679: Anyhow I think black should blunder and play rg8 and let the potential fork on c6 happen
+[01:35:30] genturgidson: That's what I'm looking at haha.
+[01:35:30] iwishiweredecent: yeah sounds good man
+[01:35:45] iwishiweredecent: lol Gen... ever the optimist rooting for the underdog
+[01:36:01] iwishiweredecent: but this game is over
+[01:36:01] wave2679: No it's not
+[01:36:01] wave2679: They could still uh
+[01:36:16] wave2679: Let the passed h3 pawn promote
+[01:36:16] wave2679: (It's totally passed)
+[01:36:16] iwishiweredecent: nah lol
+[01:36:31] iwishiweredecent: GG guys!
+[01:36:31] nyanners: as its actually over :c
+[01:36:31] nyanners: gg
+[01:36:46] wave2679: gg
+[01:36:46] iwishiweredecent: That was a really fun game to watch, especially the madness around the a2-b3 squares
+[01:37:02] wave2679: 2300!!!
+[01:37:02] genturgidson: Black is no longer 2288 rated so is not forced to check.
+[01:37:02] wave2679: Dang gen
+[01:37:02] iwishiweredecent: hey ryanners, good to see ya!
+[01:37:02] wave2679: I can just shift the rules a bit
+[01:37:17] checkmate_insurance: yeah the complications with both passed pawns were scary
+[01:37:47] nyanners: :o
+[01:37:47] iwishiweredecent: it was a lot of fun, and thank you for whispering Checkmate_Insurance it was nice to hear what you were thinking
+[01:38:03] checkmate_insurance: i didn't realise i could win after allowing a rook trade
+[01:38:33] bufferunderrun: gg
+[01:38:33] checkmate_insurance: np
+[01:38:33] iwishiweredecent: Yeah I have to admit I did get a little worried for you once white's king beat you to the crime scene lol
+[01:40:19] wave2679: Dang
+[01:41:05] wave2679: @nyanners do you think Judit Polgar or Pia cramling  is the best female player ever
+[01:41:05] checkmate_insurance: before i saw the c4 Bb6 d4 idea i thought i was much worse on move 20
+[01:41:35] checkmate_insurance: i didn't think i would be better let alone have many options to keep a small advantage
