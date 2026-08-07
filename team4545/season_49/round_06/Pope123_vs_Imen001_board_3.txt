@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/eiOrexUr
+White     : pope123
+Black     : imen001
+Time      : 45+45
+Captured  : 2026-08-07 17:09:29 UTC
+Game ended : 2026-08-07 15:49:25 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[13:02:24] pineapplechiffoncake: Go Imen!
+[13:02:40] guitarspider_blind: go Pope!
+[13:02:55] stevenlongs: who's this blind guy?
+[13:02:55] guitarspider_blind: I have to go play my blindfold game, will be back later :D
+[13:03:25] pope123: (3...a6) Im sad to see you lose your eyesight @spider
+[13:04:11] pope123: (5...Bb4) Haven't had this in a while
+[13:06:44] berndwind: Go Jim! alt power ahoy! and haha go Pope (don’t want to receive divine wrath by going against you)
+[13:08:00] pope123: (5...Bb4) I dont really like Bd3 c5 lines, could throw in f3
+[13:08:45] cinemashow: (5...Bb4) yeah, better be careful what I say - still to play my game...
+[13:09:01] aloo_bhaloo: Go Pope!
+[13:12:03] pope123: (6.Bd3) Main drawback is that I cant play Nge2 now
+[13:15:52] pope123: (6.Bd3) Either that wasn't the move, or my opponent didn't analyze 5.g4 too deeply
+[13:19:45] stevenlongs: is bg5 the idea to hop to e4 on g5?
+[13:26:06] stevenlongs: damn g6 threat is very uncomfortable
+[13:26:06] pope123: (8.Qh5) g6 is very weakening but i dont see another move for black
+[13:26:06] pope123: (8.Qh5) The threat is g6
+[13:29:09] stevenlongs: g6 then bring the bishop back to f8 lol. Is that too slow?
+[13:32:42] pope123: (8...g6) Qg4 e5 is more than fine for me
+[13:41:22] pope123: (11.Qg3) I didnt see d4 i must admit
+[13:41:53] pope123: (11.Qg3) I thought the idea of e5 was Nf6-Nh5
+[13:43:09] pope123: (11.Qg3) Nxd3+ cxd3 d4 Be5 +-
+[13:44:10] berndwind: this is such a Jobava London position. totally irrational but actually a lot going on
+[13:45:26] stevenlongs: Nxd3 cx d4 Bxc7 Qe7(idk) a3 saves the piece?
+[13:47:28] pope123: (12...d4) Be5 Bd6 damn
+[13:52:33] pope123: (12...d4) Qg2 might also be something
+[13:53:18] berndwind: Qg2 looks suicidal
+[13:53:49] berndwind: the threat of dxc3 needs to be addressed somehow
+[13:54:35] guitarspider: (13.Bxc7) can't you play Be5? Be5 0-0 Bf6 Qsomewhere Qh3 and hopefulyl mate?
+[13:55:21] pope123: (13.Bxc7) Im scared
+[13:56:06] pope123: (13.Bxc7) dxc3 scare me a lot
+[13:57:07] berndwind: yeah dxc certainly looks tempting here
+[13:59:09] stevenlongs: Q check on e5 tho...
+[14:01:11] stevenlongs: also covers a1
+[14:01:57] pope123: (13.Bxc7) Don't ask me what the plan is after Qe7
+[14:03:59] guitarspider: (14.Qe5+) This looks very good now. Even Qxe5 Bxe5 dxc3 can be answered with bxc3
+[14:04:44] pope123: (14.Qe5+) I'd consider 14.e4 if I didn't have a parcel arriving soon
+[14:05:45] pope123: (14.Qe5+) Also Bxb8 was maybe winnning, damn
+[14:06:00] pope123: (14.Qe5+) nah
+[14:09:34] stevenlongs: ah I see GS, I missed bx...so maybe Bxc3+ Bxc3 0-0
+[14:13:22] guitarspider: (17...O-O) Yes, but this should be some sort of winning now for Pope.
+[14:18:13] stevenlongs: that g pawn is certainly pleasant
+[14:30:54] pope123: (23.Ke1) 21.Bd4 was really bad
+[14:32:56] pope123: (23...Nc5) Nc4 Bf3 Rd2 Nxd3+ Rxd3 Rc1+ Rd1 is mate
+[14:41:19] stevenlongs: rxc1 rxc1 still a square on d2?
+[14:44:38] pope123: (24.Nb3) Nxb3 axb3 Bf3 Rdb1 and i think im safe
+[14:45:54] pope123: (24.Nb3) [...] Ree2+ Kf1 R8c2 e4 ok maybe not
+[14:48:11] pope123: (24...Nd7) idk what that is.. but im happy
+[15:04:10] pope123: (31.Be5+) I should have given up the bishopp
+[15:07:44] pope123: (33.Kc2) Not sure if this is winning or not after winning c5
+[15:08:14] pope123: (33.Kc2) ah they have c4
+[15:11:48] pope123: (35...Be6) Sigh
+[15:22:13] stevenlongs: did Pope miss Kb2?
+[15:24:30] guitarspider: (42...Kd5) Bg7 locks the king out
+[15:24:45] guitarspider: (42...Kd5) then h5 g6 wins
+[15:28:35] aloo_bhaloo: hxg h6 wins right
+[15:36:57] pope123: (52.Kb4) This is still a draw aint it :(
+[15:39:45] pope123: (54.Kb6) Why is my king in the corner instead of on g7
+[15:41:17] wave2679: I think white is winning
+[15:41:47] wave2679: because Black will soon be in zugwang
+[15:47:38] stevenlongs: really curious what the engine will think of this endgame
+[15:49:25] aloo_bhaloo: 52 Bf2!
+[15:50:11] pope123: Didn't even consider that one lol - i thought I messed up by not going to g7 with the king
+[15:52:12] aloo_bhaloo: I thought you were very close but that bf2-g3 followed by the same king to a6 pawn now puts black in zugzwang. Very instructive endgame!
+[15:56:46] guitarspider: gg
