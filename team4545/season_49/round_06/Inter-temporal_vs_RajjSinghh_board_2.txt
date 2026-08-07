@@ -1,0 +1,167 @@
+Lichess game chat log
+Game      : https://lichess.org/7ClK8vCD
+White     : inter-temporal
+Black     : rajjsinghh
+Time      : 45+45
+Captured  : 2026-08-07 21:50:42 UTC
+Game ended : 2026-08-07 20:30:38 UTC
+Messages  : 157
+────────────────────────────────────────────────────────────
+
+[19:02:26] inter-temporal: (2.Nf3) i memorized 1 line that has a pawn sac on move 13...
+[19:03:12] inter-temporal: (6.Bg5) if ...e6 then we're still in that main line
+[19:03:27] rajjsinghh: I did expect 6. Bg5, I feel better about my chances than i did earlier
+[19:03:27] inter-temporal: (6.Bg5) if e5, Nf5
+[19:04:13] inter-temporal: (10.g4) is it gonna happen? lol
+[19:04:43] inter-temporal: (11...Bxf6) ithink so. if... oh
+[19:04:43] inter-temporal: (11...Bxf6) wait
+[19:05:00] inter-temporal: (11...Bxf6) no. it was ...Nxf6
+[19:05:30] inter-temporal: (11...Bxf6) this gives rise to Bxb5 idea. not necessarily a winning tactic. but smth i recall
+[19:06:16] inter-temporal: (12.Bxb5) Bxb5 Rb8, g5 Be7, Ba4 was one line
+[19:06:16] jokicinator15: (12.Bxb5) what a showdown, feels weird to go against my boy IT...but... LETS GO RAJJ
+[19:06:47] inter-temporal: (12.Bxb5) whew. very glad i looked at this. just to survive the opening. lol
+[19:07:17] inter-temporal: (12.Bxb5) i probably lose anyway, but i'll throw everything i can at him. :)
+[19:07:17] nrv773: Is that a known move? I do not get it tbh
+[19:07:47] inter-temporal: (12.Bxb5) positive self-talk "yeh, i'll lose. so what!?" lol
+[19:08:03] rajjsinghh: my main issue with Bg5 is the huge amount of sacrifices
+[19:08:18] inter-temporal: (12.Bxb5) if ...Bxd4, Bxd7+;
+[19:08:33] inter-temporal: (12.Bxb5) all memory and prep. no skill.
+[19:08:48] inter-temporal: (12.Bxb5) i neglected looking at his other openings. spanish; scandi; french.
+[19:09:19] inter-temporal: (12.Bxb5) was planning to play some easy passive stuff
+[19:10:20] inter-temporal: (13.Ndxb5) hm. next either Rxd6 or Nxd6 depends...
+[19:11:36] inter-temporal: (13.Ndxb5) after that i'm probably toast.  but i blame prep and SF! or my memory. smth
+[19:14:39] bpack: blame your seconds!
+[19:15:55] sahkal: wow what is this
+[19:17:11] inter-temporal: (14...Kf8) i think e5 but if Nxc8 can i survive ...Nxc3
+[19:17:11] rajjsinghh: white slowing down a bit is a good sign
+[19:17:26] rajjsinghh: If i don't get mated right now the extra piece should win
+[19:17:42] rajjsinghh: and I expected 15. e5 Be7 to be automatic
+[19:19:28] sahkal: somebody tell me why white can't win the piece back with Nxc8
+[19:20:44] sahkal: sure, e5 first looks even better
+[19:21:15] sahkal: or idk
+[19:21:30] rajjsinghh: actually realising I may just be in a lot of trouble after NxB RxB RxN
+[19:21:30] sahkal: ikr?
+[19:22:16] inter-temporal: (15.e5) if ...Bxe5, fxe5 Nxe5, ___ idk
+[19:22:46] sahkal: people have played Qc6 and Qb8 before but not Qa5 on move 13
+[19:24:03] inter-temporal: (15.e5) ...Bxe5, Nxc8 maybe
+[19:24:18] sahkal: the master players. on lichess Qa5 is the most popular move but white wins a lot on lichess even against Qb8 and Qc6
+[19:24:33] inter-temporal: (15.e5) or Nxf7. idk.
+[19:29:07] rajjsinghh: If I allow Nxc8 I'm just down three pawns, so Bxe5 may be the best way to give the piece back
+[19:32:10] inter-temporal: (15...Bxe5) what about Nc4
+[19:33:26] inter-temporal: (15...Bxe5) Nc4 Qa6, Nxe5 Bb7
+[19:33:57] sahkal: Nxd7 gg
+[19:34:58] inter-temporal: (15...Bxe5) too many branches for my tiny brain...
+[19:35:13] sahkal: Nc4 looks good
+[19:35:28] mrscribbles: (15...Bxe5) what is this
+[19:35:59] ecoarrivazumashoomzo: go rajjsinghh!
+[19:36:14] mrscribbles: (15...Bxe5) What's the idea with Bxe5?
+[19:36:59] rpcx: stops nxc8 ideas
+[19:37:30] mrscribbles: (15...Bxe5) why would black not want Nxc8
+[19:38:00] rpcx: the knight  hangs in that position
+[19:38:00] sahkal: terrible move
+[19:38:16] bpack: (16.Nxc8) Bxc3 incoming
+[19:38:31] inter-temporal: (16.Nxc8) it's a move. it stops my clock
+[19:39:32] bpack: (16.Nxc8) actually, maybe not so bad. check/mate ideas on d8 now
+[19:39:47] inter-temporal: (16.Nxc8) probably 15.Nxc8 was better. i just didn't have confidence in my calculations
+[19:41:03] inter-temporal: (16...Bxc3) not that i have confidence in this. but it seems a bit simpler than other choices
+[19:41:34] sahkal: i don't know about Nxc8
+[19:41:34] inter-temporal: (17.Qxc3) if ...Qxa2, maybe b3 or sac my h-rook or smth
+[19:42:35] sahkal: maybe it wasn't that bad
+[19:42:50] inter-temporal: (18.bxc3) maybe i sorta won a pawn?
+[19:43:20] sahkal: but the rook endgame is difficult to win
+[19:43:35] inter-temporal: (18.bxc3) Nd7 is currently pinned to d8, i think
+[19:43:51] bpack: (18.bxc3) compensation with Kf8/Rh8 too. i like white
+[19:43:51] sahkal: woah
+[19:44:06] rajjsinghh: and maybe with the damage this endgame is salvageable
+[19:44:21] inter-temporal: (18...Nf6) or not
+[19:45:22] inter-temporal: (18...Nf6) Rd8+ Ne8, Rhd1 ___; or can i chase the N
+[19:45:37] inter-temporal: (18...Nf6) yeh, right to where it wants to go. lol
+[19:47:55] sahkal: not sure where the prepared line went wrong for rajjsinghh
+[19:48:41] sahkal: in this endgame allowing the rook on the 8th rank is a bit strange
+[19:49:12] sahkal: i thought Rxc8 Rxd7 and maybe g6, and that rook endgame is not easy to win at all
+[19:50:28] sahkal: i wonder why jokicinator was rooting against me but now rooting for rajj
+[19:50:58] sahkal: that's interesting
+[19:50:58] sahkal: oh he's gone
+[19:50:58] bpack: (20...Rxa2) =D
+[19:51:13] nrv773: I think he new the guy?
+[19:51:29] rajjsinghh: now it's only one pawn and it's a doubled c pawn
+[19:51:29] nrv773: person*
+[19:51:59] rajjsinghh: Nd6 Ke7! is an important resource too
+[19:52:14] sahkal: okay it's one pawn but R1d7 looks winning no?
+[19:53:31] rpcx: even nd6 ke7 looks pretty bad if you trade down to one rook each does it not ?
+[19:53:46] sahkal: not sure
+[19:54:01] sahkal: i would take my chances there with black
+[19:54:16] sahkal: but R1d7 looks like game over
+[19:55:02] rajjsinghh: obviously now it's about untangling without dropping material
+[19:55:02] sahkal: well there is also Nd6 Ke7 Nxd8 Rxd8 R1d7 winning
+[19:55:17] sahkal: that's a forced win
+[19:55:32] rpcx: what's the difference after r1d7 ra8 ? don't you go into a similar endgame
+[19:56:03] sahkal: no in that line black had Ra1 trading the rook so that wasn't good
+[19:56:03] sahkal: but this is good
+[19:56:18] rpcx: oh re7 is nasty
+[19:56:18] inter-temporal: (21.R1d7) wonder if my R can sneak in to e7?
+[19:57:04] inter-temporal: (21.R1d7) if ...Ra8, Re7 but no... duh
+[19:57:04] inter-temporal: (21...Ra8) there i go overworking my defenders
+[19:57:19] sahkal: yeah Re7 winning
+[19:57:19] sahkal: but drama, he doesn't see it
+[19:57:34] sahkal: he will see it though
+[19:57:50] sahkal: no he won't
+[19:57:50] rpcx: lmao
+[19:58:05] inter-temporal: (22.c4) or maybe it could work...
+[19:58:20] inter-temporal: (22.c4) nah
+[19:58:35] inter-temporal: (22.c4) oh maybe yes
+[19:58:35] rpcx: is he ragebaiting ?
+[19:58:50] inter-temporal: (22.c4) ahh. geez. maybe i should calculate a little bit
+[19:59:06] nrv773: Re7 Rxc8  no?
+[19:59:06] inter-temporal: (22.c4) duh. it did work
+[19:59:21] rpcx: rexe8#
+[19:59:51] sahkal: Re7 last chance
+[19:59:51] rpcx: it still works
+[20:00:22] sahkal: now he will play it for sure right?
+[20:01:07] sahkal: gonna be lots of rooks on the 8th rank maybe that freaks him out
+[20:02:08] inter-temporal: (22...g6) now it truly fails.
+[20:02:08] sahkal: there we go :D
+[20:02:39] rpcx: lmao im going to bed my heart can't take this
+[20:02:39] inter-temporal: (22...g6) wait... ugh.
+[20:03:25] nrv773: I see it now....
+[20:04:12] inter-temporal: (23.Re7) if it fails, then fine... he's better than me anyway
+[20:04:57] inter-temporal: (23.Re7) i'm missin something.
+[20:05:13] inter-temporal: (23.Re7) about to find out what that is
+[20:05:13] sahkal: haha
+[20:05:28] the_lord_god: bruh has no confidence :skull:
+[20:05:28] inter-temporal: (23.Re7) 22.c4?? was sad.
+[20:07:14] rajjsinghh: yeah this is unpleasant. learn your openings!
+[20:07:30] inter-temporal: (24.Rexe8) not out of it yet
+[20:08:00] rpcx: just nd6 rc8 no ?
+[20:08:31] sahkal: yeah simple, many winning moves
+[20:09:47] inter-temporal: (26.Nd6) maybe i'm thru the woods.
+[20:10:03] inter-temporal: (26.Nd6) i still know how to lose this. lol
+[20:13:21] inter-temporal: (26...Ra6) c5 Rc5, Rc8 ; c5 Ra5,
+[20:14:07] inter-temporal: (27.c5) burnin bridges
+[20:16:09] rajjsinghh: I have to wait for Re7 to play Rc8 otherwise there's Rc8
+[20:18:26] rpcx: g5 ?
+[20:20:59] inter-temporal: (29.c6) idk. caveman push pawn
+[20:21:44] inter-temporal: (29...Rc7) tactic?
+[20:22:00] rajjsinghh: Rc8 1-0
+[20:22:15] inter-temporal: (29...Rc7) Rxe6 Rxc5, Ne8+
+[20:22:46] inter-temporal: (29...Rc7) any other checks on me or Undefs to counter...
+[20:24:02] inter-temporal: (29...Rc7) Rxe6 Kh7, Rf6 then?
+[20:24:33] rajjsinghh: I wonder if it was 13...Qc5 I misremembered, but 14. e5 looked so strong
+[20:25:18] inter-temporal: (29...Rc7) or is Rf8 simpler
+[20:25:18] inter-temporal: (29...Rc7) Rc8 i mean
+[20:28:36] rpcx: ne8+?
+[20:29:07] rajjsinghh: last trick is maybe c7 Rd7 Rd8? but of course Rg8+ is it
+[20:29:07] inter-temporal: (30...Re7) i'm just gonna try to take care of my firont c
+[20:29:52] inter-temporal: (33.Ne8+) crazy
+[20:29:52] rajjsinghh: ah. nice.
+[20:30:08] pineapplechiffoncake: Gg
+[20:30:08] sahkal: gg
+[20:30:23] rpcx: ggs
+[20:31:24] inter-temporal: i got lucky.
+[20:31:24] inter-temporal: my prep re Bxb5 was just luck
+[20:31:39] inter-temporal: ahh toggle off ebngine
+[20:31:39] inter-temporal: no engine for me yet pls. lol
+[20:32:56] rajjsinghh: Looks like I should have remembered 11...Nxf6
+[20:34:12] inter-temporal: the line i memorized after Bxb5 was ...Rb8 i think
+[20:35:13] inter-temporal: yeh. i just checked. ...Rb8 is just (0.6) i think
+[20:35:43] inter-temporal: k. i'm gonna put this in my study. hit me up on slack if u like. :)
