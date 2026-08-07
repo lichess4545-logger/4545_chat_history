@@ -1,0 +1,104 @@
+Lichess game chat log
+Game      : https://lichess.org/MEEmBBxG
+White     : stephentaam
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-08-07 16:59:22 UTC
+Game ended : 2026-08-07 15:39:09 UTC
+Messages  : 94
+────────────────────────────────────────────────────────────
+
+[13:11:31] rolihlahla: mistake  :-(
+[13:12:02] rolihlahla: Bb7 first!
+[13:38:11] rolihlahla: hi Robert - looks like i botched this opening :-(
+[13:44:01] timothyha: (13...Ne4) I think Rb8 Rc7 etc was losing at most a pawn
+[13:44:17] timothyha: (14.Bh2) B8 b7 etc.
+[13:44:32] timothyha: (14.Bh2) can still play Rb8
+[13:46:18] timothyha: (14.Bh2) since Nf6->e4 the d5 pawn will be lost
+[13:46:34] timothyha: (14.Bh2) before that I don't think it was a big deal...
+[13:53:56] robertjackson: We know Eric is a fighter and that he will have a plan!
+[13:55:12] timothyha: (15.Nxa8) now Bd6 is the only move to not be a rook down
+[13:59:31] timothyha: (16...Qxd6) now we have a game, down an exchange, but the opening phase is ovre
+[14:00:17] timothyha: (17...Be6) Bd7 and some Bxh3 ideas later
+[14:03:05] timothyha: (17...Be6) as long as Ro doesn't stall the game should be ok
+[14:03:05] timothyha: (17...Be6) Black has some chances of a good endgame
+[14:03:20] timothyha: (17...Be6) if not a middlegame attack (the clock is a problem)
+[14:04:06] timothyha: (17...Be6) White might play a4 but that should be a mistake
+[14:04:21] timothyha: (17...Be6) Qb4+ is a lot
+[14:04:36] timothyha: (17...Be6) the knight gets out though, if Qb4
+[14:04:52] timothyha: (17...Be6) so Rxa8 then axb5 Qb4+
+[14:12:00] timothyha: (18.Nd2) take the knight, then think :-)
+[14:12:15] timothyha: (18.Nd2) the clock is unforgiving and there's a technical endgame ahead
+[14:13:18] timothyha: (18.Nd2) no need to calculate Nxe4 Nxe4 f3 if Rxa8 is obvious
+[14:14:19] timothyha: (18.Nd2) also f3 Qg3+ and mate :-)
+[14:18:38] mennonite: go Stephen!
+[14:31:50] timothyha: (22.Re1) Bf5 and d3 maybe
+[14:39:42] ysgwydd: (23...Bd3) Those rooks yearn for open files
+[14:40:13] timothyha: (23...Bd3) has to involve f3 somehow
+[14:40:43] timothyha: (23...Bd3) but f3 risks Qg3
+[14:42:00] ysgwydd: (23...Bd3) Could sack on d3 at some point
+[14:50:38] timothyha: (27.Nd2) take on d2 and Bd3 again :-)
+[14:50:53] timothyha: (27.Nd2) unless Black thinks it's possible to win
+[14:56:59] timothyha: (28.Bxe4) if there are exchanges I think keeping the bishop is better
+[14:56:59] timothyha: (28.Bxe4) it can go to d3
+[14:56:59] timothyha: (28.Bxe4) and lock things down
+[14:58:46] ysgwydd: (28...dxe4) Hard to get to d3 now
+[14:59:01] timothyha: (29.Nf1) dxe4 looks ambitious
+[15:03:20] timothyha: (30...Qd8) Nd5, Bf3 certainly look dangerous
+[15:03:35] timothyha: (30...Qd8) White is tightened down
+[15:04:05] ysgwydd: (30...Qd8) f3 maybe
+[15:05:21] timothyha: (31...a6) now I like what Black is doing :-)
+[15:05:21] timothyha: (31...a6) go, Ro!
+[15:06:53] timothyha: (32.Nd2) Nd5 is almost a queen trap
+[15:07:08] timothyha: (32.Nd2) Qb6 first would be cunning
+[15:09:56] ysgwydd: (34.Qd6) Does black actually have something here
+[15:10:57] timothyha: (34.Qd6) don't think so
+[15:11:12] timothyha: (34.Qd6) Nh5 is ambitious, but Nd5 was the right direction all along
+[15:11:42] timothyha: (34.Qd6) Re6 is a start of a rook lift
+[15:11:42] timothyha: (34.Qd6) might help
+[15:11:57] timothyha: (34.Qd6) Re6, Rg6 then sac on f3
+[15:12:28] timothyha: (34.Qd6) it's not even a sac, Bf3 is dangerous after Rg6
+[15:13:14] timothyha: (34.Qd6) can still find that plan by way of elimination
+[15:13:14] timothyha: (34.Qd6) other plans lose for Black
+[15:13:59] ysgwydd: (35.Nxb3) White has Qh2 if needed
+[15:13:59] timothyha: (35.Nxb3) for now yes
+[15:14:15] timothyha: (35.Nxb3) I think before Nh5 it was at least equal if not better for Black
+[15:14:30] ysgwydd: (35.Nxb3) Yeah black was probably better for a bit
+[15:14:30] timothyha: (35.Nxb3) now Black is probably collapsing sadly
+[15:14:45] ysgwydd: (35.Nxb3) Qb8+ exist also after Re6
+[15:14:45] timothyha: (35.Nxb3) still has to find and try Re6 ->Rg6
+[15:17:48] ysgwydd: (38...Nf6) 38.Nxa5 Ra8 Nc5 Rxa2 Nxe4
+[15:18:19] timothyha: (39...axb5) it's a game of who makes the last mistake now
+[15:18:34] timothyha: (39...axb5) not much logic left
+[15:19:04] ysgwydd: (40.Ra1) Not the most irrational position I've seen
+[15:19:20] ysgwydd: (40.Ra1) Looks quite normal
+[15:19:20] timothyha: (40.Ra1) :-)
+[15:19:20] timothyha: (40.Ra1) I mean I don't understand what players are doing
+[15:19:35] timothyha: (40.Ra1) but maybe they do so I'll just watch
+[15:20:21] timothyha: (40...h5) White allowed axb5 so now the bishop is anchored
+[15:20:36] timothyha: (41.Ra7) the exchange deficit isn't so obvious
+[15:21:21] timothyha: (42.Qf4) Qg6
+[15:21:37] timothyha: (42.Qf4) ah, the pawn
+[15:21:52] timothyha: (42.Qf4) then swap queens and hold this, I think it's totally holdable
+[15:21:52] timothyha: (42.Qf4) or play Qh5
+[15:22:23] ysgwydd: (42.Qf4) Qh5 looks more prudent
+[15:23:40] timothyha: (43.Rea1) then h3 h2 are scary
+[15:24:26] timothyha: (43...h3) with Be2->f3
+[15:25:42] ysgwydd: (43...h3) White has Qh2 against Bf3 I think
+[15:27:13] ysgwydd: (45.Kh1) I don't like this
+[15:28:14] timothyha: (45...Be2) Qh4 Qf3+ Kxh2 Ng4+ and Nxf2
+[15:28:30] timothyha: (45...Be2) looks pretty bad
+[15:28:30] ysgwydd: (45...Be2) Surely lost now
+[15:28:30] timothyha: (45...Be2) unless Ra8 is something
+[15:28:45] timothyha: (45...Be2) hecause Qh4 covers h7 exit
+[15:29:46] robertjackson: Bf3+ looks winning
+[15:30:01] ysgwydd: (45...Be2) Bf3 would be mate
+[15:30:31] robertjackson: forces QxBf3 hence winning
+[15:31:17] timothyha: (46...Qf3+) now has to be Qf3 and Ng4 stuff
+[15:32:33] robertjackson: all over though
+[15:32:49] timothyha: (49.Kh2) not yet
+[15:33:49] timothyha: (50.Kh3) Nxe3
+[15:34:05] timothyha: (50.Kh3) that is mate in multiple ways I think
+[15:37:53] timothyha: (52.Kg1) Qf2 Bf3 over
+[15:38:08] robertjackson: yup
+[15:38:08] timothyha: (52...Qf2+) strange that White didn't repeat
