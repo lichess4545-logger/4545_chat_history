@@ -1,0 +1,22 @@
+Lichess game chat log
+Game      : https://lichess.org/Lst0c2y7
+White     : zal667
+Black     : ascannerdarkly
+Time      : 45+45
+Captured  : 2026-08-07 22:46:54 UTC
+Game ended : 2026-08-07 21:26:53 UTC
+Messages  : 12
+────────────────────────────────────────────────────────────
+
+[21:06:30] leverkuhn: 4...Bd6!!? quite extraordinary
+[21:07:00] leverkuhn: this must be prep; is the idea to provoke 5.d3 'early' before White can play Bc4?
+[21:08:16] leverkuhn: what happens if White just plays 5.d4 though?
+[21:08:32] leverkuhn: I guess we'll find out
+[21:13:24] leverkuhn: White had a surfeit of tempting seventh; I was also wondering if 7.Nxe6 had a refutation
+[21:13:39] leverkuhn: *seventh moves
+[21:15:11] leverkuhn: Black's position is a complete shambles after 7...Bf8 8.Nd6+, so unfortantely I doubt this is any kind of prep
+[21:15:57] leverkuhn: More likely he had ...Bd6 as an idea in some related line and mixed move orders up
+[21:18:59] leverkuhn: 9.Nd5 may force resignation
+[21:23:04] leverkuhn: 9...Qd4 10.Be3 Qxb2 11.Rd1 Rb8 12.Bb5 Nge7 13.Nxe7 Nxe7 14.Qxb8 is one sample line
+[21:26:38] leverkuhn: 13.Bxc6 Nxc6 14.Bxa7 alternate win there probably
+[21:26:53] leverkuhn: gg
