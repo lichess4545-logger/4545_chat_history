@@ -1,0 +1,99 @@
+Lichess game chat log
+Game      : https://lichess.org/jCzo7KvG
+White     : marketmike
+Black     : tjcanavan
+Time      : 45+45
+Captured  : 2026-08-07 00:45:11 UTC
+Game ended : 2026-08-06 23:24:57 UTC
+Messages  : 89
+────────────────────────────────────────────────────────────
+
+[22:05:25] kborman: Go Mike!
+[22:06:41] le_merovingien: go m&ms
+[22:07:57] iwishiweredecent: I really should try to learn the Sicilian, it looks fun
+[22:28:30] wave2679: @iWishIweredecent I used to play the archangelisk sicilian
+[22:29:01] wave2679: Also did you see my message on slack about helping me prep a line?
+[22:29:31] iwishiweredecent: As black?
+[22:29:47] le_merovingien: the Obelisk Sicilian. My favorite
+[22:30:02] wave2679: Yeah to prepare for the Kings gambit
+[22:30:17] wave2679: It's more testing it out
+[22:30:48] wave2679: Like I already know what I wanna use but I've never played it so I wanted someone to spar against before my lonewolf game
+[22:32:36] wave2679: (15. ne4) Doesn't seem to do anything, a bit rushed maybe
+[22:33:36] iwishiweredecent: Yeah I am still confused as to why white sacrificed the pawn?
+[22:34:22] wave2679: At this level it could be just a miscount
+[22:34:22] wave2679: But it does open the dark squared bishop in some lines
+[22:34:53] wave2679: I think I like some reroute of the bishop to b1 in some move order
+[22:35:38] wave2679: maybe c3, then later on after the e4 knight moves qh5
+[22:36:55] wave2679: Decent is that cool if I test the line out with you?
+[22:37:40] iwishiweredecent: Yeah of course man, are you free tomorrow at all?
+[22:39:13] wave2679: Yeah I have a few college assignments I need to do, but ideally if you can do today, idk what time zone your in
+[22:39:28] wave2679: I'm free the rest of the evening
+[22:41:15] iwishiweredecent: I am in EST or UTC-4, tonight I might have a little time but I will definitely have more time tomorrow in the early afternoon
+[22:41:30] wave2679: i'm in cst
+[22:41:45] iwishiweredecent: I just fired up the grill for the family "Chessburger"  night
+[22:42:01] wave2679: Nice!
+[22:42:01] wave2679: I can do tomorrow at noon my time?
+[22:42:01] iwishiweredecent: I grill chicken and cheeseburgers while we play chess out on the patio, my 6 and 8 yr olds are bitter rivals
+[22:42:16] wave2679: I bet
+[22:42:16] wave2679: Who's better
+[22:43:02] iwishiweredecent: my 6yr old son is definitely better, but he usually spots my daughter a minor piece of her choosing and gives her a couple extra minutes on
+[22:43:02] iwishiweredecent: the clock
+[22:43:34] wave2679: Either one of them have an OTB rating?
+[22:44:04] wave2679: I saw your chess.com profile picture it looks like your at an OTB tournament
+[22:45:20] kborman: I think it’s fair to say that white has compensation for the pawn but black has a strong kingside defense.
+[22:45:36] wave2679: Yeah white fs has compensation
+[22:46:21] iwishiweredecent: not yet, they have only really been playing local scholastic tournaments that aren't rated, but my son and I are planning on going to the Oh
+[22:46:36] iwishiweredecent: Ohio Chess Congress this year, I am really excited about it
+[22:47:07] wave2679: Whats a chess congress?
+[22:47:22] wave2679: I went to my state championship my senior year of high school
+[22:47:37] wave2679: I got the best in my class
+[22:47:37] wave2679: 3.5/7
+[22:47:37] wave2679: I was 1340 at the time
+[22:47:53] wave2679: So my expected score was something like
+[22:47:53] wave2679: 2/7
+[22:48:38] wave2679: @kborman was there any merit to nxf6
+[22:48:38] wave2679: then rxf6
+[22:48:54] wave2679: You unpin and then it could get dangerous
+[22:49:09] wave2679: Assuming black takes with the bishop I mean
+[22:51:11] qrs: 20. c5 Bxc5 21. bxc5 Qxb2
+[22:52:12] qrs: and that’s a minor piece gone for white at the end
+[22:52:27] qrs: 18. Kh1 probably was necessary
+[22:53:58] qrs: or at least 18. Nxf6
+[22:57:31] wave2679: @qrs I'm trying to find something after the pawn takes if kh1
+[22:57:47] wave2679: With the f7 pawn
+[23:02:05] qrs: (22 Qf3) worth a shot
+[23:02:21] kborman: Eh, what’s 3 pawns down when your pieces are free to move around
+[23:02:36] qrs: but no kh1 now
+[23:02:51] kborman: 2 pawns presumably
+[23:03:06] qrs: exd4 Bxd4
+[23:04:07] qrs: black queen defends f8 so all the taking on f7 seems to fail
+[23:06:09] qrs: whites best hope is Seth like exd4 Bxd4 Q.. Qxf7 Rxf7 Rxf7 threatening to take on g7 but that only works if blacks queen doesn’t defend f7
+[23:07:25] qrs: maybe the other way around actually works
+[23:08:11] qrs: exd4 Qxf7 Rxf7 Rxf7 ... Bxd4/Bxg7
+[23:08:57] iwishiweredecent: Sorry I am about to throw the burgers and chicken on the grill, just getting everything ready
+[23:09:27] iwishiweredecent: The Ohio Chess Congress is the State Championship but my son and I won't be playing in the open section
+[23:09:58] qrs: enjoy your BBQ
+[23:10:13] iwishiweredecent: It is really fun though, a whole weekend of people who love chess, blitz tournaments in the evening, usually a handful of titled players
+[23:10:13] iwishiweredecent: thanks qrs!
+[23:10:28] qrs: :)
+[23:10:43] iwishiweredecent: Good game today by the way... I thought you were going to forfeit when the game hadn't started for like 15 minutes
+[23:11:29] qrs: really complex position but seems black is not allowing anything too bad
+[23:11:29] kborman: exd4 Bxd4 Qe7 Rd7
+[23:12:15] qrs: oh, I thought game was at 20:00 UTC as were my last two
+[23:12:30] iwishiweredecent: wow that's a nice little tactic there by black
+[23:13:31] kborman: Yea
+[23:15:33] qrs: white could’ve tried 26. Kxf1
+[23:15:33] iwishiweredecent: Qd3 to threaten back rank mate and defend the a pawn?
+[23:17:35] qrs: 29. Qb1 forced?!
+[23:17:50] iwishiweredecent: Yeah but now white can take the pawn and defend mate no??
+[23:18:35] qrs: qxc1 was threatened
+[23:18:51] iwishiweredecent: oh yeah
+[23:18:51] iwishiweredecent: duh lol
+[23:19:06] iwishiweredecent: what do you think here? little knight hop to e5 then to g4?
+[23:19:36] qrs: yea
+[23:20:07] qrs: valid plan to bring the Knight
+[23:20:53] qrs: but qa4 does work too - a lot of stuff wins now for black
+[23:21:08] qrs: and btw thanks for watching and commenting my game earlier today
+[23:22:24] qrs: 30. ... Qb5 to force the queen trade
+[23:22:55] qrs: or just Qxa3
+[23:25:12] qrs: gg
