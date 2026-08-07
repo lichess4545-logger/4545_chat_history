@@ -1,0 +1,81 @@
+Lichess game chat log
+Game      : https://lichess.org/qYsThhJP
+White     : stevenlongs
+Black     : osumarko
+Time      : 45+45
+Captured  : 2026-08-07 02:17:27 UTC
+Game ended : 2026-08-07 00:57:17 UTC
+Messages  : 71
+────────────────────────────────────────────────────────────
+
+[23:01:14] stevenlongs: prepared for czech pirc, not really familiar with this little deviation
+[23:02:45] inter-temporal: goo osumarko!!
+[23:03:00] stevenlongs: i suppose Bg4 met by h3 would force a capture
+[23:04:47] stevenlongs: does the "150" strat still work with the pawn on f4?
+[23:13:40] stevenlongs: Bc4 seems a bit dubious due to b5 b4 tempo moves
+[23:14:25] stevenlongs: whats good trix
+[23:14:25] deepestmeep: yoyo
+[23:15:41] deepestmeep: is this still a French or does it count as a queens Indian by transposition?
+[23:15:57] deepestmeep: oh nvm I’m high
+[23:16:12] stevenlongs: maybe i just "150" it again and think about pawn breaks after
+[23:16:58] stevenlongs: i guess e5 could be coming immediately or maybe after ..0-0
+[23:17:59] jcarmody: go sl
+[23:17:59] jcarmody: also, marko. you go 2
+[23:18:29] stevenlongs: jcar knows all about the pirc....pls help me spiritually through this
+[23:19:00] jcarmody: He's right, you know. I can lose with the Pirc like nobody's business.
+[23:22:33] stevenlongs: im very tired today, thinking of just developping and throwing all the kingside pawns forward and have him calculate everything on his ti
+[23:22:33] stevenlongs: me
+[23:25:05] stevenlongs: Bd3 Ng3 Bf2 how does he defend it?
+[23:25:20] stevenlongs: oh wait i gotta move the rook lol
+[23:26:52] stevenlongs: damn there was a slight difference between Be3 and Bd3
+[23:30:10] stevenlongs: not really sure here
+[23:30:40] stevenlongs: could literally Kf2 but maybe that's way too fancy lol
+[23:34:44] stevenlongs: Bd3 Ng3 Rg1 Nf6 Ne2 Nh5 Bf2 Nxe2 looks ok
+[23:34:59] stevenlongs: vs g4 and then him chopping my LSB....idk
+[23:35:45] stevenlongs: maybe keep it simple and stupid is better
+[23:38:02] stevenlongs: typical lose more than half your time pre-10 moves
+[23:41:52] stevenlongs: hmm f pawn might be hanging if i liquidate everything
+[23:42:53] stevenlongs: can i even get my king out of center after that tho
+[23:46:57] stevenlongs: oh it's not hanging if it's knight takes last
+[23:47:27] stevenlongs: ok that does not look that appealing then
+[23:48:59] stevenlongs: need to start hurrying up slightly
+[23:52:47] stevenlongs: not sure if f5 immediate was critical on last move or not
+[23:54:49] stevenlongs: d5 also looks attractive
+[23:56:36] stevenlongs: kinda clears the pathway for his LSB after b6 or b5 though
+[00:14:06] stevenlongs: exf5 would be r4eally dangerous for me
+[00:21:28] stevenlongs: giving up both bishops would be too much maybe....practially speaking with 6 min left
+[00:24:16] stevenlongs: oh no
+[00:26:18] stevenlongs: well this isn't good, i still have attack on f7 though
+[00:27:03] stevenlongs: Qe2 was quite a bad move
+[00:28:35] stevenlongs: Rf8 kinda covers everything though, i gotta open h file maybe
+[00:29:36] stevenlongs: not even sure if opening files is good for me now
+[00:32:23] stevenlongs: need to complicate things
+[00:35:26] stevenlongs: is locking his bishop even good...lol
+[00:35:41] stevenlongs: Bf8
+[00:38:14] stevenlongs: maybe actually creating the isolated pawns is a better strat
+[00:38:44] stevenlongs: i block bishop then double chop on and hope for the best ...and nvm
+[00:42:32] stevenlongs: there are issues...]
+[00:42:32] genturgidson: Wow this is an exciting game to tune into.
+[00:45:50] genturgidson: I've got to cheer my former opponent osumarko here. Go osumarko!
+[00:46:51] stevenlongs: not sure how good he is in time trouble, did not check
+[00:47:07] genturgidson: There are a lot of threates here afer 22.Nd4. Nxc6 fork or f6 first.
+[00:47:53] genturgidson: Perhaps 2...Bxd4 is in order if black trusts their king safety. Maybe even saccing the exchange.
+[00:48:39] stevenlongs: takes seems forced due to the fork
+[00:48:54] genturgidson: 22...Bxd4 Bxd4 Rxd4 Qxd4 Qe5? Probably a bit dodgy, being up the exchange is black's main compensation for the scary position.
+[00:49:09] stevenlongs: or...
+[00:49:55] genturgidson: Funnily enough after 23.f6 Bh8 or maybe Bf8 black might have a decent defensive structure with time to get it together.
+[00:50:41] genturgidson: 23.Nxa4 I think black will be liking this.
+[00:50:56] genturgidson: Bxd4 is a serious threat now.
+[00:51:57] genturgidson: Note on 22...Na4 I think white just had Nxc6 fork.
+[00:52:43] genturgidson: Oh no he saw Nxc3+ bxc3 Qb5+.
+[00:53:28] stevenlongs: he will have to grind me down....i am already very tired though lol
+[00:53:59] genturgidson: I think realistically white should be doing the grinding down in this position. Start hurtling those pawns around the king.
+[00:54:14] stevenlongs: wait is there a mate there or nah
+[00:56:16] stevenlongs: oh thats mate
+[00:56:31] stevenlongs: well my queen falls
+[00:56:47] genturgidson: That's awkward but not mate?
+[00:57:02] genturgidson: Yeah... wow.
+[00:58:18] stevenlongs: damn what a position
+[00:59:04] stevenlongs: hm yeah c3 was waste of a tempo aye
+[01:04:08] osumarko: I was expecting you to fork my queen and rook on move 23
+[01:19:06] stevenlongs: doesn't work because of the Nxc3+ then Qb5+ Nb4 Bx
