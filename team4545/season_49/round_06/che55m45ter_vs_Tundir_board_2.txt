@@ -1,0 +1,71 @@
+Lichess game chat log
+Game      : https://lichess.org/SQfrUgpQ
+White     : che55m45ter
+Black     : tundir
+Time      : 45+45
+Captured  : 2026-08-07 23:33:31 UTC
+Game ended : 2026-08-07 22:13:27 UTC
+Messages  : 61
+────────────────────────────────────────────────────────────
+
+[19:56:20] enprisewithease: Hmm. Challenging position.
+[19:57:21] enprisewithease: Especially with both players leaving the game.
+[19:59:08] enprisewithease: (1...e5) There we go! Petrov I think.
+[19:59:24] enprisewithease: (5.Nxe5) Just don't play this opening like I do che55m45ter. :-D
+[20:00:25] jdw10: i actually just started learning this line, so is interesting to see it in the wild.
+[20:01:26] jdw10: from the white side
+[20:02:27] enprisewithease: (9.c5) I probably should learn some Petrov line besides the one I play. I am way, way, way out of book.
+[20:02:57] enprisewithease: (9...g5) This is escalating quickly.
+[20:03:28] jdw10: i was out of book on move 5, so this is different from what i've learned so far
+[20:04:13] enprisewithease: Move 3 was out of book for me. Hehe.
+[20:04:59] enprisewithease: (10...Bg7) Presumably they are both still in book with how quickly they're playing.
+[20:06:01] enprisewithease: I wonder why bishop not knight? Or if it matters?
+[20:09:34] enprisewithease: This is way too fast for me.
+[20:10:05] jdw10: i think Tundir, has some place else to be, he is throwing everything at white, and not wasting time thinking about it, haha
+[20:26:51] enprisewithease: I would say that this position is evaluating at about 0.439632 give or take 0.000007
+[20:30:40] enprisewithease: (17...Qg6) Nc5 here? This position is crazy.
+[20:30:55] enprisewithease: (17...Qg6) Nd5 I mean
+[20:31:26] handknit: (17...Qg6) Nd5 stuck out to me
+[20:31:56] handknit: (17...Qg6) though after Qg5 it's not totally clear what white does next
+[20:38:18] handknit: (19.Nb4) I guess that's what white does next
+[20:51:32] enprisewithease: (24.c6) b6 or white gets some interesting counterplay?
+[20:51:47] handknit: (24.c6) bxc6 is kinda interesting too
+[20:54:04] jdw10: i think Rg4 and white is hurting even worse
+[20:54:35] handknit: (24...b6) Rxb4 is a threat, a5 is a threat
+[20:54:35] handknit: (24...b6) lotta things are happening
+[20:56:52] enprisewithease: (24...b6) Qf7 Qxg3 Qxf5+ Kb8 Qf6 Rxb4 Qxh8 and wins, there, easy. :-D
+[20:59:40] enprisewithease: (25.Qc3) Rd8 is forced here?
+[21:00:41] enprisewithease: (25.Qc3) Qd8 I guess maybe but feels wrong.
+[21:00:41] jdw10: Qg7 releases the pin and protects
+[21:02:42] enprisewithease: (25...Rhd8) Doesn't fully release the pin because moving the d4 rook would hang the queen unless it protects it.
+[21:03:59] enprisewithease: (25...Rhd8) maybe that would be the plan though, Rg4.
+[21:03:59] jdw10: true, but i figured black wanted to swing d4 rook to g4 anyways
+[21:04:14] enprisewithease: (25...Rhd8) great minds!
+[21:06:01] enprisewithease: (25...Rhd8) Rd1 looks dangerous here.
+[21:08:03] handknit: (26.Rf1) Just take on b4?
+[21:08:33] handknit: (26.Rf1) ah, no, white's got a trick
+[21:10:51] enprisewithease: (26...h5) Rxb4 Qxb4 Qxg3 Rxf5 Rd1+ Rf1 Qe3 wins the rook?
+[21:11:21] handknit: (26...h5) After that line, white plays Kh2 to get out of the check, and after Rxf1, Qg4+ wins
+[21:11:51] enprisewithease: (26...h5) oh!
+[21:14:39] handknit: (27.Na6) Re3 now, though
+[21:15:09] handknit: (27.Na6) I guess Re3 Qe5
+[21:25:07] enprisewithease: (29...Be6) Can Qf8 force a perpetual?
+[21:26:38] che55m45ter: just relised i could've gone Qf8+ and go into an endgame where i'm up a pawn.
+[21:30:12] che55m45ter: maybe black could've gone Rd8 instead of taking the queen but still think that's better than b3
+[21:30:57] enprisewithease: (30...h3) Yeah, I thought Rd8 but then retreat the queen and black would want to move their d8 rook out from under attack of the bishop.
+[21:31:43] enprisewithease: (30...h3) I like the aggressive game by both sides though.
+[21:32:14] enprisewithease: (30...h3) I thought the Petrov was supposed to be boring :-D
+[21:40:52] handknit: (33.Qf2) h2+ is nice here
+[21:42:39] jdw10: how about kh2 using the umbrella pawn to get out of the pin?
+[21:51:50] enprisewithease: (37.Qd4) tactical shot
+[21:54:23] enprisewithease: (37...Qxc6) so black has to see the pin, so it must not work?
+[21:55:24] enprisewithease: (37...Qxc6) Rc1 Re1+
+[21:56:09] enprisewithease: (38.Qb2) Rxe1 Qg2++, I see
+[21:56:09] enprisewithease: (38.Qb2) after the fact
+[22:12:11] enprisewithease: (44.Kf3) looking grim
+[22:13:27] enprisewithease: good game
+[22:13:43] enprisewithease: good fight
+[22:13:43] jdw10: unfortunately,  but maybe white will settle for the perpetual, haha
+[22:13:58] jdw10: black, i mean
+[22:14:13] jdw10: gg
+[22:14:28] tundir: gg
