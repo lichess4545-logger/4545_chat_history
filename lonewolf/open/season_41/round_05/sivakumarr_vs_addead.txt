@@ -1,0 +1,16 @@
+Lichess game chat log
+Game      : https://lichess.org/uZPQ3FJI
+White     : sivakumarr
+Black     : addead
+Time      : 30+30
+Captured  : 2026-08-07 15:12:03 UTC
+Game ended : 2026-08-07 13:51:50 UTC
+Messages  : 6
+────────────────────────────────────────────────────────────
+
+[13:53:07] addead: 2 mistake and 1 Inaccuracy was all (: to lose
+[13:55:24] sivakumarr: It wasn't big mistakes but small positional / calculation errors that did you in
+[13:56:25] sivakumarr: Your pieces were cramped on the back three ranks the entire game, so I was bound to get something
+[13:56:40] sivakumarr: I think 18...c5 could've been enough for you to scrape a draw
+[13:57:41] sivakumarr: Although now looking at the engine lines, you need bxc5 in it, which looks awful, so maybe not
+[13:59:13] sivakumarr: Letting me get c4-d4 with tempo was the start of everything. It gave me the luxury of space
