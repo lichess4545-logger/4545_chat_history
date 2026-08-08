@@ -1,0 +1,50 @@
+Lichess game chat log
+Game      : https://lichess.org/uRHU6RxP
+White     : switchoffengine
+Black     : leverkuhn
+Time      : 45+45
+Captured  : 2026-08-08 19:29:01 UTC
+Game ended : 2026-08-08 18:09:00 UTC
+Messages  : 40
+────────────────────────────────────────────────────────────
+
+[16:28:05] switchoffengine: i forgot my prep is Bxe6 or Bxf6 here, probably both but wondering if the order matters
+[16:30:38] switchoffengine: Bxe6 Bxe6 Bxf6 gxf6 Qf3 0-0-0 doesnt seem that fun for me
+[16:30:53] leverkuhn: I think 10...Qc5? 11.Bxf7+!! was a trap I fell for in a previous game.
+[16:32:09] leverkuhn: 10...Be6 11.Bxe6 Nxe6 12.Nd5 Qc5+ 13.Be3! also didn't work, thus 10...c6 to shut out the knight
+[16:33:56] switchoffengine: thinking Ne2 and Qf1 ideas, Qf1 Qc5 Kh1?
+[16:34:41] switchoffengine: Ne2 g3 f5 is the idea
+[16:37:29] switchoffengine: i remember the comp says Bxe6 i think, but i say Qf1 :D
+[16:38:00] switchoffengine: Nf4 i have g3
+[16:38:45] switchoffengine: wait i dont have g3 oops
+[16:39:16] switchoffengine: thats probably the reason Bxe6 is best haha, i forgot his bishop is covering h3
+[16:40:48] switchoffengine: but ok, Nf4 Ne2 Nxe2 Qxe2 Be6, its not the end of the world, i have compensation in an okay endgame
+[16:47:39] switchoffengine: Qc5 probably Ne2 or Kh1
+[16:47:54] switchoffengine: Rg8 Kh1
+[16:48:40] switchoffengine: no not  Qc5 Ne2 ofc, im hanging pieces today haha
+[16:51:28] switchoffengine: yea, probably need to take the knight
+[16:54:31] switchoffengine: im allowing Nf4, i wanna keep that bishop
+[16:55:32] leverkuhn: 13...Nf4 14.Ne2 was there, but now 15.Ne2 hangs c4. That was the move order idea behind 13...Qc5
+[17:23:14] switchoffengine: ah shit, i missed Qg5
+[17:29:06] switchoffengine: dont see any perpetuals too with Qc7 Qxd2 Qxf7+
+[17:32:24] leverkuhn: 21.Qd6 Bxh3 22.gxh3 Rxh3+ 23.Rh2 Rxh2+ 24.Kxh2 Rd8 25.Bxf7+!! need to be careful about that
+[17:34:42] switchoffengine: his rook is still at home so im +3! :D
+[17:37:45] switchoffengine: problem is my knight is pretty bad though
+[18:12:34] leverkuhn: hmmm database says I did play 10...c6 previously in 2018
+[18:13:20] leverkuhn: so I misremebered about 10...Qc5 11.Bxf7+; maybe that was some other line
+[18:15:54] switchoffengine: mm i messed up, needed to deal with the Nf4 asap, with Bb3 first
+[18:16:09] leverkuhn: I think 13...Qc5 made the game difficult for White as he was counting on meeting ...Nf4 with Ne2 but that ended up being hard to orchestrate
+[18:16:24] switchoffengine: and then the exchange sac line i missed Qg5, otherwise should not go in the h3 line
+[18:16:39] leverkuhn: yeah White needed something else there
+[18:16:54] leverkuhn: hard to say what
+[18:17:25] switchoffengine: yea i saw u played c6 before, i was prepping this line specifically as u only played it once so maybe less familiar for u, but u played
+[18:17:25] switchoffengine: super well!
+[18:17:55] leverkuhn: It's just a pleasant position for Black as the c6-pawn dominates the knight
+[18:18:10] switchoffengine: i think in my prep i saw Bxe6 Bxe6 Qd3 Qd7 Qg3 (which i forgot)
+[18:18:26] switchoffengine: and Bxf6 looks more natural with Qf1, Ne2 g3 f4 ideas
+[18:18:41] switchoffengine: yea, maybe Nc3 wasnt the most accurate
+[18:18:56] leverkuhn: that would have led to quite a different game
+[18:19:42] switchoffengine: database shows 10. Na3 or c3 much more played
+[18:20:27] leverkuhn: 10.Na3 gets out of the ...Qc5+ tricks by protecting the bishop and stays fairly flexible
+[18:20:59] switchoffengine: well played, gl for the rest of the league )
+[18:21:14] leverkuhn: Thanks, you too!
