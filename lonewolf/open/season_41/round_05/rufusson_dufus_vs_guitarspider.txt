@@ -1,0 +1,71 @@
+Lichess game chat log
+Game      : https://lichess.org/3rDWu1rB
+White     : rufusson_dufus
+Black     : guitarspider
+Time      : 30+30
+Captured  : 2026-08-08 12:55:30 UTC
+Game ended : 2026-08-08 11:35:26 UTC
+Messages  : 61
+────────────────────────────────────────────────────────────
+
+[10:02:16] rufusson_dufus: I like to go Bxc6 as soon as I can, but I know it's a bit too early after a4
+[10:05:19] rufusson_dufus: not quite sure about this, 7.0-0 must be ok but I don't remember the details. Should have gone 7.Bxc6 for simplicity
+[10:07:51] rufusson_dufus: black wants to go Ne7, I guess. I want black to commit to that before I change the position drastically
+[10:08:06] rufusson_dufus: I don't see any useful move that's not Kh1 though. But Kh1 might be a good idea anyways
+[10:09:38] rufusson_dufus: also considered 10.Bxd7, but then black can think about castling queenside and improves the queen
+[10:11:09] rufusson_dufus: 12.Bxb5 looks fine, black's knight is impeded and I can reinforce with Qa5 or c4.
+[10:11:24] rufusson_dufus: 12....Nc6? looks like a mistake because surely I'll play Bxc6 Bxc6 f5
+[10:13:57] rufusson_dufus: playing a bit too fast here maybe. 13.Rf3 looked very reasonable though, I'm simply threatening Rh3...Qh4 which would be a huge problem for
+[10:14:12] rufusson_dufus: ... for black because g4 comes next
+[10:15:28] rufusson_dufus: oh I may have weakened my backrank a bit though with this move, 13....Bxb5! may be good for black. mm, should take more time
+[10:16:44] rufusson_dufus: 14.Bc4 looks amazing, but do I have any tactics with 14.Bxd7 and then Rh3 or so?
+[10:17:17] rufusson_dufus: 14.Rh3 Bxb5 axb5 h5 is the plan I guess.
+[10:19:03] rufusson_dufus: 15.Rh3?? was played way too quickly. Looked so natural but now I need to calculate fxe4 dxe4 e5 Rf3.
+[10:24:25] rufusson_dufus: I don't like my position. eval after 16.exf5: -0.5, white has so many weaknesses
+[10:24:40] rufusson_dufus: considered 16.Qg3 Qe8 Bb5, but then again I have loads and loads of problems
+[10:26:11] rufusson_dufus: my original plan was 16....exf5 c3, but Bxg8 might be quite tempting
+[10:28:28] rufusson_dufus: still don't like my position after 18.Ng1, but I have a clear plan now: Install a knight on g5
+[10:28:59] rufusson_dufus: 18....Bc6 Nf3?! Bxf3 might be fine for black though, mmm
+[10:30:30] rufusson_dufus: maybe I should attempt to calm a bit, with Rb1...b3...Bb2
+[10:32:32] rufusson_dufus: 19.Rb1 Bxa4 b3 Bc6 Bb2 Re8 Qf2 Bxb2 Rxb2 though, is that good?
+[10:33:33] rufusson_dufus: not sure about this, my backrank is extremely weak
+[10:34:21] rufusson_dufus: 20.Re8 I probably need to go Re3
+[10:35:07] rufusson_dufus: my eval after 20.Re3: -0.7, all my pieces are disjointed.
+[10:35:22] rufusson_dufus: still playing way too fast
+[10:37:55] rufusson_dufus: I need to go c4...Re2 now, and pray that I can survive this
+[10:40:28] rufusson_dufus: darn, I think it's lost after 23.Qf1
+[10:42:00] rufusson_dufus: 23....Qe7! would probably win already
+[10:42:15] rufusson_dufus: 23.Bc3 Bb2 Re1 Qf2 is also surely -5
+[10:46:21] rufusson_dufus: 24.c4 Qe1 looks lost
+[10:47:06] rufusson_dufus: 24.Bd2 Bxg1 Kxg1 Qe2 c4 ... that might actually be survivable
+[10:47:37] rufusson_dufus: 24.c3 just Bxc3 and my light-squared pawns are untenable
+[10:52:28] rufusson_dufus: my eval after 24.c4: -1.5 Still terrible, but I'm breathing again and can maybe hope for a minor piece endgame
+[10:52:58] rufusson_dufus: 26.Rc2...Rc1...Re1 could be a plan
+[10:53:13] rufusson_dufus: I would love to play Re2, but can't see how to make that ... wait, maybe now?
+[10:55:16] rufusson_dufus: candidates: 26.a5 to stop b5, 26.Ba5, 26.Rc2
+[10:55:47] rufusson_dufus: a5 has the beauty that one white pawn stops two black pawns
+[10:57:03] rufusson_dufus: I have commited myself to Rc2...Rc1...Re1 now, my DSB can't ever move
+[11:00:21] rufusson_dufus: from a distance I figured 28.Rb2 ... Bc1 to get out of this
+[11:01:07] rufusson_dufus: my eval after 28.Rb2: -0.7. Black is in the driver seat, but if I get to play Bc1 it could be outright even, maybe an opposite ...
+[11:01:22] rufusson_dufus: ...colored bishop endgame
+[11:05:56] rufusson_dufus: 30.h3 Qg3 Re2 Rxe2 Qxe2 and I'm in a bit of a bind but  I have Be3... Qf2
+[11:06:27] rufusson_dufus: I can play for a win with 30.Rc2, but that feels too ambitious
+[11:07:59] rufusson_dufus: darn I'm blind there are Bxg2 tactics. But I have perpetual I guess
+[11:11:47] rufusson_dufus: this looks survivable after 33.Bd2. Maybe only -0.5
+[11:12:33] rufusson_dufus: I just hung the f  pawn. wtf
+[11:12:48] rufusson_dufus: phew
+[11:15:51] rufusson_dufus: 25.Qf2 I'm in a worse queen endgame with swindling opportunities, Ba1...Qb2 or something
+[11:16:52] rufusson_dufus: (36.Kf2) the bishop endgame is surely drawn but maybe I can swindle
+[11:18:23] rufusson_dufus: already got a pawn, that's a good start in Operation: Biggest Swindle ever
+[11:18:54] rufusson_dufus: 39.dxc4? Be4 and I'm losing pawns
+[11:20:10] rufusson_dufus: I would love to keep the opportunity to play g4  one day, but I guess I'll need to go h4...g3 soon
+[11:21:26] rufusson_dufus: yeah my king needs to be mobile
+[11:22:57] rufusson_dufus: (43.h4) my plan is really simple here: Kc3...d4...d5 Kd4...c5 and then enter somewhere with the king
+[11:23:28] rufusson_dufus: 44....Ba2?? Kc2! and black loses the bishop
+[11:25:45] rufusson_dufus: 48.d5+ Bxd5 cxd5 Kxd5 Bd8 looks like an easy win
+[11:27:02] rufusson_dufus: (50.Kd4) objectively probably drawn, but obviously white has way more ideas
+[11:31:52] rufusson_dufus: 54.Kc5 Be2 Kb6 Bxc4 Kxb7 Bd3! looked too drawish
+[11:33:39] rufusson_dufus: 57....Kf7 Bg5! I figured, and I can support c6
+[11:34:40] rufusson_dufus: c6...b5...c7! wins immediately, without any calculation required (but en passant wins too)
+[11:35:11] rufusson_dufus: I think it's completely won after 59.Kd6.
+[11:35:11] rufusson_dufus: very lucky swindle on my part
