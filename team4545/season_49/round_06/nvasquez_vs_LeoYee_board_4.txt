@@ -1,0 +1,93 @@
+Lichess game chat log
+Game      : https://lichess.org/SaGyazcB
+White     : nvasquez
+Black     : leoyee
+Time      : 45+45
+Captured  : 2026-08-08 02:26:42 UTC
+Game ended : 2026-08-08 01:06:40 UTC
+Messages  : 83
+────────────────────────────────────────────────────────────
+
+[23:03:41] leoyee: Gambit time here we go
+[23:10:49] leoyee: Wow he knew the insanely rare engine line oof
+[23:25:21] nvasquez: there is a draw now with Ra1
+[23:25:51] nvasquez: actually no
+[23:46:59] davidsifre: Go nick!
+[23:49:01] davidsifre: Why not 6. Nxc7 and take the rook?
+[23:50:32] nvasquez: there’ was a theoretical draw earlier.   Wondering if I should have taken it
+[23:51:02] davidsifre: Nah. Fight the fight.
+[23:51:18] nvasquez: after Rb1 Qxa2 Ra1 leads to a draw
+[23:51:18] davidsifre: Don’t worry about what could have been a draw.
+[23:51:48] nvasquez: right now i need to play Rc1 next i think
+[23:52:04] davidsifre: Get your pieces out and grab they king.
+[23:54:06] davidsifre: Bd3
+[23:54:36] davidsifre: The. Knight castle and Qf3
+[23:54:51] davidsifre: Easy peasy.
+[23:55:53] nvasquez: ill be down two pawn for not much compensation
+[23:57:39] inter-temporal: (13...Qb2) Q moves are a bit sus with development & K-safety at issue?
+[23:57:39] davidsifre: His rook is trapped and out of the game. You are about to castle and he will be forever stuck in the middle blocking that rook.
+[23:58:40] davidsifre: QD5 is going to be fatal to him
+[23:58:56] inter-temporal: (13...Qb2) Nf3 Nxe5, Nxe5 Qxe5+, Be2
+[00:02:14] davidsifre: Be2 and castle
+[00:02:14] inter-temporal: (16.Be2) i win? lol
+[00:03:15] inter-temporal: (16.Be2) after 0-0 & Rfe1 black might be feeling some pressure.
+[00:06:33] nvasquez: if i can get a rook on the e file... it might be game over
+[00:06:48] davidsifre: You have agreement here.
+[00:06:48] inter-temporal: (16.Be2) good idea! :)
+[00:07:49] davidsifre: Black needs to release his bishop
+[00:07:49] inter-temporal: (16.Be2) open centers (1 pawn) we're supposed to prioritize piece development
+[00:08:19] inter-temporal: (16.Be2) first one to get all pieces aimed at opponent's squares wins.
+[00:08:19] davidsifre: His rook and bishop are locked in.
+[00:10:36] davidsifre: Black is wishing he was down a pawn or two so he can move his pieces.
+[00:11:38] inter-temporal: (16.Be2) that Octopus N on d6 is crushing.
+[00:12:09] inter-temporal: (16.Be2) ...h5 is interesting
+[00:12:39] inter-temporal: (16.Be2) not Bxh5 Rxh5!, Qxh5 Qxd6
+[00:13:10] inter-temporal: (16.Be2) threatens ...h5 to threaten ...Rh6
+[00:13:40] inter-temporal: (16.Be2) lol. ...h5, not Bxh5 for other reasons too. :)
+[00:14:11] inter-temporal: (16...h5) what else. ...h5; or ...g6 maybe
+[00:14:11] inter-temporal: (16...h5) k. just ...h5
+[00:15:43] fireball100: 7 c7 looked good to me earlier but Nd6 keeps attack going...
+[00:16:28] inter-temporal: (16...h5) i think still 17.0-0 Rh6, c5 Re6 and now Bxh5 probably works
+[00:18:46] nvasquez: ffffffuuuuuucccccckkkkk
+[00:19:16] davidsifre: Hmm
+[00:19:47] davidsifre: Watch out for that queen!
+[00:20:02] davidsifre: Better late than never doesn’t work for chess.
+[00:20:48] davidsifre: Also, c5 is kind of important to support the knight.
+[00:20:48] inter-temporal: (19.Qb3) hurts. but it aint over.
+[00:21:03] davidsifre: For more 20/20 Hindsight tips, subscribe to my newsletter.
+[00:21:18] nvasquez: sorry guys... my safety check failed me.
+[00:21:33] inter-temporal: (19.Qb3) captain hindsight is here to save the day! :) (southpark, lol)
+[00:22:19] inter-temporal: (20.c5) rank tactics are easy to miss
+[00:22:19] davidsifre: Remember, when you screw up your opponent relaxes and can screw up worse.
+[00:22:50] inter-temporal: (20.c5) real news
+[00:23:35] davidsifre: A fake GM friend of mine says the hardest game to win is the won game.
+[00:24:21] inter-temporal: (21.Bc4) Rc3 lift could be strong
+[00:24:36] inter-temporal: (21.Bc4) swing it to e3 or f3 maybe
+[00:26:54] davidsifre: Make the trade. All the open files are food for white.
+[00:27:40] inter-temporal: (22.cxd6) fire on the board.
+[00:29:27] fireball100: d7
+[00:34:49] fireball100: double check might be possible in a move or 2
+[00:36:51] gavalanche20: (20.c5) This looks weirdly tricky
+[00:43:44] inter-temporal: (26...Qd8) allows Rxe6?
+[00:45:16] inter-temporal: (28...Kh8) if white could also pick up the h-pawn then Black's K-safety is an issue
+[00:45:47] inter-temporal: (28...Kh8) Re5, yeh?
+[00:46:17] inter-temporal: (28...Kh8) Caveman say take pawn!
+[00:46:32] fireball100: d7?
+[00:47:03] inter-temporal: (28...Kh8) caveman say push pawn?
+[00:47:18] inter-temporal: (28...Kh8) no! Caveman attack K!
+[00:47:33] gavalanche20: (28...Kh8) I like Re5
+[00:47:49] inter-temporal: (28...Kh8) but d7 looks interesting too. lol
+[00:51:38] inter-temporal: (29.Qg6) fancy, but allows Black's Q to get in on it? idk. maybe he calculated all that
+[00:53:10] inter-temporal: (29...Qb6+) nice how White's Q prevents Nd3 and Nc2
+[00:59:17] fireball100: qxq nxq d7
+[01:00:02] inter-temporal: (32.Qg3) i think ...Nc6 can cover the queening square in time
+[01:02:05] fireball100: wity the qxq nxq d7 the queening square was e8...
+[01:02:20] inter-temporal: (33...Rd8) maybe i wuz on the wrong move.
+[01:04:37] fireball100: try Qg6,
+[01:04:37] fireball100: I think he saw it
+[01:05:23] fireball100: if Qxd6, Rf8+
+[01:05:39] davidsifre: Rf5?
+[01:05:54] leoyee: ggs
+[01:06:09] fireball100: GG!
+[01:06:09] inter-temporal: gg
+[01:08:12] inter-temporal: SF approved of 29.Re5
