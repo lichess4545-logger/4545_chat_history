@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/SFo5OVdc
+White     : welpe
+Black     : blueside617
+Time      : 45+45
+Captured  : 2026-08-08 23:36:53 UTC
+Game ended : 2026-08-08 22:16:52 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[20:10:25] stevenlongs: Hi blueside! A frenchie :) nice! I'm not familiar with dxe4
+[20:58:28] mixxanber: looks like white has some initiative and the bishop pair, but nothing concrete I see so far
+[21:02:17] leverkuhn: much will come down to whether or not Black is able to complete his development
+[21:04:19] leverkuhn: 15.Be2 Ne5 16.Na5 seems to create unsolvable problems for Black
+[21:04:49] mixxanber: 15. Be2 O-O-O?
+[21:05:05] leverkuhn: interesting, I didn't think of that
+[21:05:20] mixxanber: Bb6 maybe is an issue
+[21:05:20] leverkuhn: 15.Be2 0-0-0 16.Bb6 and Black still far from out of the woods
+[21:05:36] nyanners: trade one pair of minors and probably fine
+[21:05:36] nyanners: but wont happen too soon
+[21:06:06] nyanners: i might roll with e5 Be6
+[21:06:21] nyanners: should lose for some reason
+[21:08:38] leverkuhn: that's a nice plan though
+[21:08:53] leverkuhn: keeping Black afloat
+[21:09:39] leverkuhn: Welpe trying to play Bg2 while also preventing ...Nf5
+[21:09:55] leverkuhn: this move feels too galaxy-brained though
+[21:10:10] leverkuhn: ...Ne5 and ...e5 now come with tempo
+[21:10:40] mixxanber: Ne5 does look strong here now
+[21:10:56] gavalanche20: (15.g4) I guess White was scared of Nf5?
+[21:13:43] nyanners: yea Nf5 was my first thought but i actually dont think those "tempo" moves get anywhere
+[21:13:59] nyanners: this doesnt get you any closer to untangling
+[21:14:29] nyanners: okay this is interesting. could be Ba3 to prevent Ke7
+[21:15:00] nyanners: but i feel black's position got a bit worse
+[21:17:32] nyanners: Ne5 more like a way to prepare Bc6
+[21:17:32] nyanners: seems like the way now
+[21:19:19] mixxanber: black looks like they can O-O-O next move and things look nicely held together?
+[21:19:34] mixxanber: Nc8 looked weird to me, but has seemingly worked out nicely, at least by my eye
+[21:20:20] blueside617: please bro let me castle
+[21:20:35] blueside617: you dont have to run at me
+[21:22:07] mixxanber: white truly has some nice bishops here
+[21:23:23] mixxanber: if O-O-O, is Rhd8 very annoying?
+[21:23:54] blueside617: need to free my dinky bishop so i can castle w/o hanging
+[21:24:39] nyanners: O-O-O might be the lesser evil but its not very cool
+[21:24:55] nyanners: could this work??
+[21:26:28] leverkuhn: 19.Rhd1 e5 and I don't see immediate material loss, strangely enough
+[21:27:13] leverkuhn: Black still tied up though
+[21:27:44] stevenlongs: Rd1 0-0 Bxe7 Nxe7 Bc6 seems problematic
+[21:28:14] leverkuhn: ...Nxc6 at the end of that
+[21:28:14] stevenlongs: wait im dumb
+[21:28:29] stevenlongs: :D
+[21:29:00] leverkuhn: Bd6 with idea of Bc7 another plan White could consider
+[21:29:00] mrscribbles: (18...Rd8) Long castle then c4 on the next move, my hero
+[21:29:15] mrscribbles: (18...Rd8) well a few moves later
+[21:30:01] mrscribbles: (18...Rd8) Rhd1 looks logical
+[21:30:01] mrscribbles: (19.Rhd1) ayo
+[21:30:32] mrscribbles: (19.Rhd1) Black has gotten themself in to what we call a situation
+[21:30:32] blueside617: would luv if ne5 solves evertyhing
+[21:30:47] stevenlongs: wait you can't even castle the bishop is hanging then?
+[21:30:47] blueside617: lets uhhh think
+[21:30:47] mrscribbles: (19.Rhd1) Ne5 f4, yes?
+[21:31:33] mrscribbles: (19.Rhd1) my dark horse move is h5
+[21:31:33] blueside617: or bc8? and still covered?
+[21:31:33] mrscribbles: (19.Rhd1) don't ask me if it works, I don't know (and don't care haha)
+[21:32:04] mixxanber: bc8 i think works
+[21:32:04] mrscribbles: (19.Rhd1) meaning my h5 move, not blue's move
+[21:32:19] mixxanber: if bxe7 rxd2 internezzo
+[21:32:19] mrscribbles: (19.Rhd1) Bc8 Bxc6+ and...
+[21:32:34] mrscribbles: (19.Rhd1) yeah that doesn't lose I don't think
+[21:33:05] stevenlongs: only sacrifice other people's pieces...
+[21:33:05] mrscribbles: (19.Rhd1) oh wait
+[21:33:35] blueside617: ok if i castle i die good to know
+[21:33:50] mrscribbles: (19.Rhd1) Bc8 Bxe7, right? Then say, ...Rxdx Bx6+ intermezzo winning a piece
+[21:34:06] mrscribbles: (19.Rhd1) Rxd2*
+[21:34:06] mrscribbles: (19.Rhd1) Bxc6*
+[21:34:21] mixxanber: ah true
+[21:34:21] mrscribbles: (19.Rhd1) I might be wrong tho, hard to wrap my brain around this
+[21:37:39] blueside617: why is trade calculating so hard lol
+[21:38:10] blueside617: knight loops are cool until i cant count which one is still alive in which line
+[21:38:56] nyanners: annoying for white XD
+[21:39:26] leverkuhn: doesn't 20.Bxe7 win as Scribbles calculated?
+[21:39:41] nyanners: umm yeah i think so
+[21:39:41] stevenlongs: scribble's line does seem like piece up, but what about just Kxe7 on Bx lol
+[21:39:41] nyanners: c6 still hanging
+[21:39:56] stevenlongs: ahhh
+[21:40:27] leverkuhn: 20...Nxe7 21.Rxd8#; 21...Kxe7 22.Bxc6; 21...Rxd2 22.Bxc6+ Kxe7 23.Rxd2 +-
+[21:40:27] nyanners: i get the impression white wont see
+[21:40:57] leverkuhn: I believe in Welpe
+[21:41:59] leverkuhn: oof
+[21:43:31] stevenlongs: match is 1-4 currently, blueside's team needs to win 3/3 starting with this game to draw it.
+[21:45:33] nyanners: i might just offer draw as white
+[21:45:48] nyanners: thats gotta be a distraction
+[21:47:50] stevenlongs: still not allowed to castle lol
+[21:51:54] nyanners: feel black is starting to have some fun
+[21:52:09] nyanners: like, a tiny bit of momentum. like things are finally looking up
+[21:52:09] nyanners: while white may be a bit annoyed
+[21:52:39] nyanners: this is a good move
+[21:53:25] stevenlongs: Nc6?
+[21:53:40] blueside617: one day my king will leave home... im sure of it...
+[21:54:26] nyanners: oooooohh profits
+[21:54:56] nyanners: so close, yet so far for b
+[21:56:28] nyanners: this pawn was really important to gain the c5-square and pass the pawn
+[21:59:31] stevenlongs: hmmm overloaded?>
+[21:59:46] leverkuhn: alright, take everything and play Bc6 to pin: finally Black's entagled pieces drop
+[22:02:49] stevenlongs: Bxd8 Kx Nb6+
+[22:13:50] blueside617: whoa cool mate what the heck
+[22:15:21] blueside617: alive!!!!
+[22:16:52] stevenlongs: gg
+[22:32:23] welpe: hm, I'm a bit disappointed that I didn't see that 20. Bxe7 works
+[22:33:08] welpe: I really wanted it to work, but during the game I somehow though that I don't anything after Rxd2
+[22:33:24] welpe: didn't think that through properly
+[22:33:24] nyanners: gg
