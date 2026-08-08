@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/x8E6uufI
+White     : gavalanche20
+Black     : normcz
+Time      : 30+30
+Captured  : 2026-08-08 20:22:51 UTC
+Game ended : 2026-08-08 19:02:47 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[18:00:44] gavalanche20: (1.e4) Expecting Najdorf, let's see how this goes
+[18:01:14] gavalanche20: (8...Be6) Usual Be2 stuff but let's try a different plan today
+[18:01:14] gavalanche20: (8...be6) hey it
+[18:01:14] inter-temporal: (9.Nd5) looks like a najdorf.
+[18:01:45] inter-temporal: (9...Nbd7) gooo gavalanche20!
+[18:02:00] gavalanche20: (8...Be6) One day I will be as brave as you with the Bg5 shenanigans lol
+[18:02:15] inter-temporal: (10.Qd3) but then it looks like something else too. lol
+[18:02:30] gavalanche20: (10.Qd3) Hey Scribs
+[18:02:30] inter-temporal: (10.Qd3) with ...e5
+[18:03:01] mrscribbles: (10...Rc8) hey gavveroni
+[18:07:35] gavalanche20: (11.O-O) Black is supposed to take on d5 sooner than later but I don't know that there's an immediate tactical shot if they don't
+[18:07:35] inter-temporal: (10...Rc8) doesn't this look like that other sicilian
+[18:08:36] gavalanche20: (11.O-O) If for example Black continues to ignore the knight with 0-0 do we just start hucking f4-f5?
+[18:10:54] inter-temporal: (12...Nb6) i think white plays on the Q-side here? idk
+[18:11:40] inter-temporal: (12...Nb6) that's all that high-falutin positional stuff
+[18:11:55] inter-temporal: (12...Nb6) caveman attack king!
+[18:12:10] inter-temporal: (12...Nb6) black's e-pawn is mobile; so maybe white should blockade on e4
+[18:12:26] gavalanche20: (12...Nb6) Ah. Does Na5 work though?
+[18:12:56] inter-temporal: (12...Nb6) yeh see? that's over there on the Q-side
+[18:16:46] gavalanche20: (12...Nb6) Basically is Na5 more promising then the boring Bb6 and c4
+[18:21:35] gavalanche20: (12...Nb6) Na5 Nbd5 Nb7 Qc7 looked way too iffy
+[18:21:51] gavalanche20: (14.c4) I am not actually sure if the queenside play still is good without a DSB but we'll see I guess
+[18:22:36] inter-temporal: (14...O-O) no light squares on the Q-side? see, i don't understand that positional stuff
+[18:24:38] gavalanche20: (14...O-O) Giving up b4 square like a very smart chess player TM
+[18:25:24] mrscribbles: (15.a4) Yes but luckily, to make up for it, your bishop is doing a really good job of guarding those light square pawns
+[18:26:55] inter-temporal: (15.a4) exactly. safe pawns are happy pawns
+[18:26:55] inter-temporal: (15.a4) --Capablanca
+[18:27:41] gavalanche20: (15.a4) But I think I can claim if a5 Qb4 then Ra3-Rfa1-Ra4 will eventually kick?
+[18:27:56] gavalanche20: (15.a4) Unfortunate thing for me is Black's plan is likely Ne8 and start hucking THEIR f pawn
+[18:29:43] gavalanche20: (15.a4) I need to be able to meet f5 with f4 and try to win control of the d4 square for my knight
+[18:29:43] inter-temporal: (16.a5) i hate hucklers
+[18:34:17] gavalanche20: (17.f4) Nd2 was the other candidate but idk I wanna see if I can win control of d4
+[18:35:03] gavalanche20: (17.f4) e4 Qe3 gives Black a passed pawn but I will argue the knight is tied to f6 for the moment to protect the pawn and I will get Nd4
+[18:36:04] inter-temporal: (17.f4) just gotta find a moment to move me K over to h1, or further
+[18:48:17] gavalanche20: (17.f4) Hm where are you trying to go, Bh6-g7?
+[18:49:03] gavalanche20: (19...Bg5) Hm but Rg4 Bh6 Nf5 I should have
+[18:51:20] gavalanche20: (19...Bg5) Oh Ne5 hits Rg4...
+[18:53:23] inter-temporal: (20...Ne5) oops
+[18:54:39] gavalanche20: (20...Ne5) Ng4 which is messier Bg4 or Qg4?
+[18:59:29] gavalanche20: (21.Qg3) Ne6 looks very tricky bagginses
+[18:59:44] gavalanche20: (22...Rce8) Unless Be6 is better?
+[18:59:59] mrscribbles: (23.Ne6) If Be6 can black just not take?
+[19:00:14] mrscribbles: (23.ne6) ok
+[19:00:14] gavalanche20: (22...Rce8) No the bishop just moves I think
+[19:00:45] gavalanche20: (23.Ne6) Nvm still down a piece after everything
+[19:01:15] gavalanche20: (24.Bxe6+) I guess counting is not a thing for me today
+[19:01:46] gavalanche20: (24.Bxe6+) Just Re6 is a very clean piece at minimum
+[19:02:17] inter-temporal: (24...Rxe6) well, ur heart's in the right place.
+[19:02:17] gavalanche20: (24.Bxe6+) ggs
+[19:02:17] mrscribbles: gg
+[19:02:32] inter-temporal: gg
