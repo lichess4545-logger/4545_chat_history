@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/NOYxh5dy
+White     : giziti
+Black     : mmorrisohio
+Time      : 45+45
+Captured  : 2026-08-08 16:41:35 UTC
+Game ended : 2026-08-08 15:21:31 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[14:02:08] giziti: (5...Be6) man i have such a strong preference for the autostart now
+[14:02:54] giziti: (5...Be6) is this inaccurate? do I have Qb3 here?
+[14:02:54] namegoesinhere: (5...Be6) go mmorrisohio!
+[14:04:10] giziti: (5...Be6) hi namegoesinhere
+[14:09:47] namegoesinhere: (7.e3) wonder if black could've just sacced b7 a couple of moves ago with 6...Nbd7
+[14:10:03] namegoesinhere: (7.e3) 6...Nbd7 7.Qxb7 Rb8 8.Qxa7 Rxb2 looks like good compensation
+[14:10:48] giziti: (7.e3) I was considering Bxf6 Qxf6 Nxd5?! but I think I need to get stuff out
+[14:12:50] namegoesinhere: (8.Bb5+) interesting line, but I agree: after Bxf6 Qxf6 Nxd5 I think black can just go Bxd5 Qxd5 Nc6 with Rd8 coming next
+[14:16:55] giziti: (12.Bh4) I feel like I should've gotten more out of this, will have to go back and think later
+[14:25:18] kborman: Let’s go Morris!
+[14:26:04] giziti: (15.Qe2) this walks into Bg4, waht am i thinking
+[14:28:06] giziti: (15.Qe2) yeah Qe2 was jsut bad, Bg4  then Nxf3 is painful
+[14:32:41] kborman: I didn’t think Nxf3 would work. But after e4 it will
+[14:33:26] kborman: Wait, no would have to do Bxf3 right?
+[14:33:42] giziti: (16.e4) yeah this is just hopeless. Nx followed by Bh3
+[14:33:57] giziti: (16.e4) maybe Kh1 was possible instead
+[14:35:28] namegoesinhere: (16.e4) yeah, I think Kh1 was needed so that after Bh3 there is Rg1
+[14:36:14] namegoesinhere: (16.e4) maybe sometthing like Re1 Nxf3 gxf3 Bh3 f4 could work too, because the black queen doesn't have too many routes to the g-file
+[14:36:45] namegoesinhere: (17.gxf3) but there you're probably going to play Kh1 anyway so may as well do it first
+[14:39:17] giziti: (18.Kh1) this isn't SO bad -- i have an open file and the center.
+[14:45:10] kborman: That whole Bg4 Nxf3 was confusing for me. It doesn’t take much though.
+[14:50:15] namegoesinhere: (21...Kh8) the idea was that if 18.Re1 then there is ...Qg5+ Kh1 Qg2# using that white has to recapture on f3 with the pawn not the queen
+[14:51:31] namegoesinhere: (22.e5) ...c5 here to break up white's centre?
+[14:52:01] kborman: Yeah, I saw that after the moves were played. I just didn’t consider Bh3 which is crucial to making it all work.
+[14:53:33] namegoesinhere: (22...Qb4) yeah, easy to miss that gxf3 makes the h3 accessible to the bishop
+[14:54:18] giziti: (22...Qb4) Qg4 just wins a piece and maybe more?
+[14:58:37] namegoesinhere: (23.Qg4) ...g5 Qxd7 Qxb7 Qxc6 Qxf2 threatening Qf3+ might be black's best try here?
+[14:59:23] namegoesinhere: (23.Qg4) ah, Qc6 covers f3
+[14:59:54] namegoesinhere: (23.Qg4) no, Qxc6 might be met with Rac8 instead
+[15:00:09] namegoesinhere: (23.Qg4) so probably Ne4 instead of Qxc6
+[15:00:39] namegoesinhere: (23.Qg4) the f6 square is horrible for black there, so maybe ...g5 is the wrong approach
+[15:07:32] fulmarsky: Go giziti!  oooh it's tense, oooh a few pieces off the board already
+[15:08:02] giziti: (25.Qxf7) this is not so easy on g6 i think
+[15:08:18] giziti: (25.Qxf7) i think g6 Rxg6 Qc1+ Kg2 is required
+[15:09:34] giziti: (25.Qxf7) because g6 Bxg6 Rg7 and I don't see a good followup, maybe Qb3?
+[15:09:49] fulmarsky: complexities....
+[15:10:20] giziti: (25.Qxf7) but you get into big problems if g6 Rxg6 Qxg6 Rg8!
+[15:11:05] giziti: (25.Qxf7) or maybe i have g6 Rxg6 Rxg6 Bxg6
+[15:12:37] giziti: (25.Qxf7) have to be careful of Qc1+ ideas because Kg2 Qg5
+[15:14:23] giziti: (25.Qxf7) wait can i walk to h3
+[15:23:18] fulmarsky: gg   tense
+[15:23:33] giziti: thanks for the game
+[15:24:04] giziti: Ah I didn't want Nxg5 because Qxg5 with Bh3 coming, but f4 and f5 wins the bishop
