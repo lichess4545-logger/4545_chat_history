@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/Jm7RSN6q
+White     : aactrl
+Black     : speedybot7
+Time      : 45+45
+Captured  : 2026-08-08 15:57:12 UTC
+Game ended : 2026-08-08 14:36:57 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[12:56:24] guitarspider: go AACtrl
+[12:59:12] aactrl: (1.e4) Youtube's algo showed me a Fischer game this morning, it inspired me.
+[13:00:13] berndwind: go AACtrl!
+[13:01:14] aactrl: (4...Bg7) sorry Bobby, I don't throw kingside pawns at a fianchetto.
+[13:04:17] aactrl: (7...O-O) the line I looked quickly went 7...e5 8.c3 d6 a3 and then follow with b4 and Rb1
+[13:04:32] aactrl: (7...O-O) but if I am allowed to push e5 first, I've got to do it.
+[13:05:33] aactrl: (8.e5) then Nbd2-Nb3 and push d
+[13:11:08] aactrl: (8...Qc7) I was hoping for 8...d6, now on my own.
+[13:11:38] aactrl: (8...Qc7) Qe2 and Bf4 look normal
+[13:12:39] aactrl: (8...Qc7) what about 9.Nbd2!?
+[13:14:56] aactrl: (8...Qc7) 9.Bf4 h6 Nbd2 g5!?? Nxg5 hxg5 Bxg5
+[13:16:13] aactrl: (9...Nd5) uh, embarrassing
+[13:25:37] aactrl: (13.Nbd2) I'm not Fischer, had you guessed?
+[13:29:10] aactrl: (14...b6) 15.Ng5 Rb8 does nothing
+[13:30:57] aactrl: (15...Bb7) I'll just do what I do best, crawl under a rock and wait
+[13:38:36] aactrl: (19...e5) how depressing
+[13:41:24] aactrl: (20.a4) I play 1.e4 once a year and swear never again, every time.
+[13:45:59] aactrl: (25.Red1) not too subtle...
+[13:46:15] jose684: Hello @AACtrl
+[13:50:35] aactrl: (25...h5) Ne4 Bf8 Rxd5 Bxc5 Rxd7 Rxd7 Nxf6, this can't work...
+[13:51:05] aactrl: (25...h5) oh just Qxe5
+[13:52:37] aactrl: (25...h5) Ne4 Rd8 then?
+[13:53:07] aactrl: (25...h5) then Ra6 maybe?
+[13:54:39] aactrl: (25...h5) Ne4 Kh7 Nd6 Bf8 anyway
+[13:55:25] aactrl: (25...h5) no, idiot, Ne4 attacks d5
+[13:57:27] aactrl: (25...h5) Ne4 Rd8 Ra6 Bf8 Qa5..
+[13:58:43] aactrl: (25...h5) only bad moves, just pick one
+[14:00:15] aactrl: (26.Ra6) BLang noooooo!
+[14:03:48] aactrl: (28...Qxc3) take that kitchen sink!
+[14:06:06] aactrl: (28...Qxc3) Ne4 Qd4.....
+[14:06:52] aactrl: (28...Qxc3) Ne4 Qd4 Qx ex Nd6
+[14:10:43] aactrl: oh yeah!!!!!!!!!!!!!!!!
+[14:11:14] aactrl: can't believe my luck
+[14:13:32] aactrl: can't accept this offer though, sorry in advance
+[14:16:20] aactrl: (35...Kh7) likely a draw
+[14:23:27] aactrl: (40...Kf7) I don't see how to win this
+[14:35:41] pope123: (47...Bf6) sack the exchange
+[14:35:41] pope123: (47...Bf6) Always the answer
+[14:37:58] speedybot7: I was so stupid taking on a4
+[14:37:58] speedybot7: I forgot about c5
+[14:38:13] speedybot7: 9.Bf4 wasn't very strong I think
+[14:38:29] aactrl: and I stupidly lost my e-pawn as usual
+[14:38:44] speedybot7: could you have saved it?
+[14:39:45] aactrl: I didn't see it was in danger, until a few moves after it was captured and I counted...
+[14:40:31] speedybot7: yeah I thought Qe2 was best
+[14:40:46] speedybot7: tbh I am not loving the online classical
+[14:41:01] speedybot7: its too hard to focus for that long
+[14:41:16] aactrl: 43.gxf4!! impossible
+[14:41:47] speedybot7: Ra6 first makes more sense
+[14:42:02] speedybot7: but still very hard to find
+[14:42:48] speedybot7: ig the idea is to make a passed f-pawn and then use that to win
+[14:43:03] speedybot7: also the white king becomes active so black getting the better pawns doesnt matter
