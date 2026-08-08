@@ -1,0 +1,128 @@
+Lichess game chat log
+Game      : https://lichess.org/6MhK4EVe
+White     : saybeginner
+Black     : tristanbrown17
+Time      : 45+45
+Captured  : 2026-08-08 00:40:52 UTC
+Game ended : 2026-08-07 23:20:49 UTC
+Messages  : 118
+────────────────────────────────────────────────────────────
+
+[21:02:09] tristanbrown17: let's do this
+[21:02:09] jcarmody: Gl, Tristan.
+[21:03:25] tristanbrown17: database shows a lot of c3 here
+[21:03:25] tristanbrown17: which is technically wrong
+[21:05:42] rockwomble: Ah, the Caro-Kann advance - good stuff.
+[21:05:58] tristanbrown17: I reviewed these lines before the game, so let's see how deep I can make it
+[21:05:58] tristanbrown17: one line goes about 15 moves. the rest are maybe 6-10 per
+[21:06:28] tristanbrown17: too bad that hasn't helped me avoid hemorrhage rating in all types of chess
+[21:06:28] tristanbrown17: blegh
+[21:09:16] rockwomble: From the speed, doesn't look like white knows this CK line that well.
+[21:10:47] rockwomble: I tend to play this a lot - mostly either black gets a tactic to win the d-pawn or it goes to a minority attack on the queenside.
+[21:11:48] tristanbrown17: what's good everybody
+[21:11:48] tristanbrown17: welcome to the struggle bus
+[21:12:04] tristanbrown17: check out my current playlist in the 4545confessions xD
+[21:12:04] rockwomble: Ah, of course, white doesn't have the c-pawn in this line, so not the normal minority attack plan...
+[21:14:07] rockwomble: Where is white going with the knight...
+[21:15:23] tristanbrown17: weird setup
+[21:15:23] tristanbrown17: but I think it's best to just proceed with my standard plan?
+[21:16:09] rockwomble: Don't think I've seen Na3-c2 before, doesn't seem like a good use of the c-file.
+[21:19:27] rockwomble: Mistake for either side to trade bishops here I think
+[21:54:01] tristanbrown17: I sense Nxe5 incoming
+[21:54:16] tristanbrown17: o.O
+[21:55:17] jcarmody: yolo?
+[21:57:51] tristanbrown17: yea, this works
+[21:58:07] tristanbrown17: trust myself
+[21:58:07] tristanbrown17: give myself a few minutes to confirm
+[21:58:22] tristanbrown17: black is assuredly winning a pawn here
+[21:58:52] tristanbrown17: but is Nxe5 first better?
+[21:59:08] tristanbrown17: nah
+[21:59:08] tristanbrown17: that gives the active file to white
+[21:59:23] tristanbrown17: even though it goes up the exchange
+[21:59:38] tristanbrown17: wait no it doesn't
+[21:59:38] tristanbrown17: since I have to take with the rook anyways
+[21:59:38] tristanbrown17: so go according to plan
+[21:59:53] tristanbrown17: gosh chess makes me question my sanity
+[22:11:19] tristanbrown17: for the record, I see the outpost on c4
+[22:11:34] tristanbrown17: but I'm tryna to calculate if Nf3+ is better
+[22:11:34] tristanbrown17: but it gets stupidly complicated
+[22:12:20] tristanbrown17: Nf3+, Qxf3, Rxc2, e4, Rfc8, maybe exd5, R8c3, Qg4, Qxd5?
+[22:12:35] tristanbrown17: I can't visualize anything past that
+[22:13:06] tristanbrown17: and my coach has been on me about keeping pieces on
+[22:13:21] tristanbrown17: but is the activity of the rook worth exchanging another set of minor pieces?
+[22:14:22] jcarmody: I want to sac the exchange. So, it has to be very bad.
+[22:17:26] kborman: Go Tristan!
+[22:31:57] tristanbrown17: hey borman
+[22:31:57] tristanbrown17: now that's somebody who just has my number in classical
+[22:32:12] tristanbrown17: can't beat him to save my life
+[22:32:27] tristanbrown17: Qd2 is the top candidate move
+[22:32:27] tristanbrown17: but I can't figure out Rd1
+[22:33:13] tristanbrown17: Qe2? Qxe2, Rxe2, e5 Rc2
+[22:33:43] tristanbrown17: Rxe2, exd5, exd5, Rc1!
+[22:37:47] tristanbrown17: I'll be fine
+[22:38:03] tristanbrown17: I think there's enough counterplay, and it's a weird pawn endgame
+[22:38:03] tristanbrown17: just don't get back rank mated
+[22:41:51] kborman: You’re progressing in leaps and bounds! I wouldn’t stand much of a chance now.
+[22:45:25] kborman: 25...Rc1 should be fine right?
+[22:45:40] jcarmody: that's what I'd play
+[22:46:41] jcarmody: I'd do it soon, too
+[22:47:58] rockwomble: Picks up a second pawn right?
+[22:48:29] rockwomble: Hmm, back rank an issue though
+[22:54:50] kborman: I learned the hard way that you don’t want an active king in QvQ endgames.
+[23:00:12] tristanbrown17: I don't know how to turn off confirm move
+[23:00:12] tristanbrown17: this may be an issue
+[23:08:36] rockwomble: Nice find - Qc1+ Qh6 saves the pawns?
+[23:12:10] rockwomble: 34 ... Kf7 would have been very different
+[23:12:41] tristanbrown17: don't know why we would take a minute on a forced move
+[23:12:41] tristanbrown17: but I'll take the time to try to calculate I suppose
+[23:12:56] jcarmody: too give you time to decide not to repeat
+[23:14:28] tristanbrown17: I'm sorry team
+[23:14:43] tristanbrown17: I don't see a way to continue without potentially losing too many pawns and letting the queen get active
+[23:16:29] mrscribbles: (39...Qf4+) this makes my tiny brain hurt
+[23:16:29] jcarmody: s'ok
+[23:17:00] mrscribbles: (39...Qf4+) hi Jack R'Mody
+[23:18:31] mrscribbles: (40...Qf1+) I'd probably take the draw too. If you don't do a perpetual, you have to stop giving checks, them white gets the checks.
+[23:18:31] rockwomble: Shame - Kf7 and Kg6 would have given white nothing to attack.
+[23:18:31] mrscribbles: (40...Qf1+) And white can take more pawns with more checks
+[23:18:46] tristanbrown17: just saying from a strategic standpoint it makes negative sense to think on this one
+[23:18:46] tristanbrown17: again
+[23:19:02] mrscribbles: (40...Qf1+) yeah draw is best unless I'm much mistaken
+[23:19:17] mrscribbles: (40...Qf1+) Not fun when you're up a pawn, but knowing when to bail out is a good chess skill
+[23:19:17] kborman: I would take the draw as well.
+[23:19:17] mrscribbles: (40...Qf1+) Also, what is white htinking about haha
+[23:19:32] mrscribbles: (40...Qf1+) maybe they're in the restroom
+[23:19:32] mrscribbles: (40...Qf1+) or checking their engine
+[23:19:32] mrscribbles: (40...Qf1+) (just kidding)
+[23:20:18] kborman: Yeah, not cool to stall but maybe they have distractions.
+[23:20:48] mrscribbles: I would definitely guess distractions and not intentional stalling
+[23:20:48] jcarmody: gg
+[23:21:04] mrscribbles: gg Tristan, a practical decision, I agree with the draw. ANd you drew a higher rated player which is nice
+[23:21:19] kborman: gg
+[23:21:49] mrscribbles: Stockfish is fine with Qf5 LOL but stockfish is a monster, total psycho, don't listen to it
+[23:23:05] tristanbrown17: I was looking at Qh6 after the second queen check on f4
+[23:23:21] tristanbrown17: but then Qb8 and it looks practically difficult to defend
+[23:23:37] tristanbrown17: shocker
+[23:23:37] tristanbrown17: I got another advantage and couldn't convert
+[23:23:37] tristanbrown17: story of the last month of chess for me
+[23:25:09] mrscribbles: Well, the alternative is that you get frustrated because your last month has gone badly, then overpush in this game, then lose :)
+[23:25:24] tristanbrown17: also true
+[23:25:24] mrscribbles: but yeah that's frustrating for sure
+[23:26:10] mrscribbles: Never fun to draw a won game, but billions of won chess games have been lost by overpushing
+[23:26:25] tristanbrown17: the skid has to stop eventually
+[23:26:25] mrscribbles: What do you mean by skid?
+[23:26:41] tristanbrown17: maybe not losing is the start
+[23:26:41] tristanbrown17: oh i've lost nearly 100 rating at this point
+[23:26:41] mrscribbles: :scream-face:
+[23:26:41] tristanbrown17: I'm just hemorrhaging rating everywehre
+[23:26:56] tristanbrown17: exactly
+[23:26:56] tristanbrown17: down 100+ in chess.com rapid
+[23:26:56] tristanbrown17: down 100ish here
+[23:27:11] tristanbrown17: only USCF has stabilized, and that's because i haven't played xD
+[23:27:11] mrscribbles: Have you taken a break recently? Take a break. You're tilting. Take a break
+[23:27:26] mrscribbles: Take the next season off, or be an alt
+[23:27:26] tristanbrown17: probably good to take a break
+[23:27:26] tristanbrown17: lmao
+[23:27:26] tristanbrown17: series burnt me out
+[23:27:41] mrscribbles: This league is a huge time commitment. It's so easy to get burned out. If you're not having fun, take a season off
+[23:27:57] tristanbrown17: good advice scribs
+[23:28:12] mrscribbles: <3 I do the same thing when I have the occasional meltdown haha
