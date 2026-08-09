@@ -1,0 +1,56 @@
+Lichess game chat log
+Game      : https://lichess.org/da2Tk26g
+White     : queensdontgambit
+Black     : marbreymarbles
+Time      : 30+30
+Captured  : 2026-08-09 13:14:28 UTC
+Game ended : 2026-08-09 11:54:19 UTC
+Messages  : 46
+────────────────────────────────────────────────────────────
+
+[11:29:55] englishspaniel: 9... Bxe3 stärker als mit dem Springer? Bestimmt interessant zu analysieren
+[11:34:44] englishspaniel: 13... Nd4+ und den Abtausch erzwingen? 14. Nxd4 Bxd4 und der Bauer auf e5 wäre angegriffen
+[11:36:01] englishspaniel: o-o-o war ne gute Wahl, wenn jetz taktisch nix kommt step-by-step Stellung verbessern
+[11:36:32] englishspaniel: hast nen Mehrbauern und e5 ist schwach bei weiß...einfacher plan den anzugreifen
+[11:39:20] englishspaniel: 14... Nb4 sieht interessant aus weil c2 hängt, aber finde nix konkretes
+[11:39:50] englishspaniel: ah nice, hast gesehen
+[11:40:05] englishspaniel: löst zumindest dein platzproblem, der weißfeldrige läufer kann raus
+[11:40:36] englishspaniel: Spiel es ruhig, weiß kann das mittelfristig nicht alles decken
+[11:42:38] englishspaniel: Zug 15, Jetzt das Gegenspiel weiter verhindern wenn nix konkretes findest. Ng5 wäre unangenehm
+[11:44:55] englishspaniel: h6 gefunden, sauber Mr Marbrey
+[11:46:42] englishspaniel: Zug 16 - Stellung ist gut, aber du hast zu wenig Raum. Läufer vllt nach c6? Und dann um die offene Linie kämpfen
+[11:47:27] englishspaniel: dann vllt abtauschen, um den e5 kämpfe und den Mehrbauer im Endpsiel benutzen
+[11:48:28] englishspaniel: Würde mal auf -0,6 tippen aktuell bei Zug 16
+[11:50:00] englishspaniel: 18...Bg4 lieber Bc6 ?
+[11:50:30] englishspaniel: 18...Be6 evtl. auch, greift dann a2 an, muss man nur auf b3 aufpassen
+[11:51:01] englishspaniel: nja der wäre dann gefangen
+[11:53:49] englishspaniel: ja ok das türme tauschen hlft dir
+[11:53:49] englishspaniel: jap done
+[11:53:49] englishspaniel: GG
+[11:54:19] marbreymarbles: Alter, voll krass mit geschrieben
+[11:54:19] marbreymarbles: :D
+[11:54:35] englishspaniel: das war spannend
+[11:54:50] marbreymarbles: Ja man, richtig geiles game eig
+[11:55:05] englishspaniel: So stellung wo man noch ordentlich nen Plan finden muss. Das kann fix kippen wenn man zu viel tauscht
+[11:56:06] marbreymarbles: Erstmal so 2min pause dann durch gehen ^^
+[11:59:54] marbreymarbles: Hast quasi genau aufgeschrieben was ich mir auch gedacht hab mir 14...Nb4, irgendwie die Figuren aktiver kriegen^^
+[12:00:09] englishspaniel: ja aber ich hätte ihn am ende nicht gespielt, der plan danach fehlte
+[12:00:40] englishspaniel: puh krass wie der fish das bewertet, so einfach wie der hätte ich das nicht gewonnen
+[12:01:10] englishspaniel: hab so auf max -1.0 getippt, weil Weiß so aktiv war und raum hatte
+[12:01:40] marbreymarbles: Hatte nen Plan, aber dann hab ich gesehen, dass ich mit dem Plan meinen weissfeldrigen Laeufer hatte geblundert :D
+[12:02:26] marbreymarbles: Wollte mit Bb5 irgendwie die ganze Zeit Schach geben... haette mich halt den Laeufer gekostet
+[12:02:41] englishspaniel: Glaub dein einziger wirklicher "fehler" war den Weißfeld Läufer nicht gut zu entwickeln
+[12:02:56] englishspaniel: kostet am Ende zu viele Tempi
+[12:03:27] englishspaniel: Nd7 greift auch direkt den Bauern an, dann wäre Platz auf c6 gewesen für den Läufer
+[12:05:13] marbreymarbles: War auch irgendwie hin-und hergerissen wohin mit dem Laeufer auf d7
+[12:05:13] marbreymarbles: Dann halt Nd5 mit dem Tausch frei gemacht
+[12:05:44] englishspaniel: und vor der langen Rochade Nd4
+[12:06:14] englishspaniel: dann wäre es aber sehr taktisch geworde
+[12:06:14] englishspaniel: gute partie
+[12:06:29] englishspaniel: gg wp
+[12:06:29] englishspaniel: :D
+[12:06:29] marbreymarbles: dange!
+[12:06:45] englishspaniel: kA was konkret draus lernen kannst
+[12:06:45] marbreymarbles: mal analyse durchkloppen
+[12:07:00] englishspaniel: zeitmanagement war ja auch gut, außer das schnelle Zug 18
+[12:07:30] marbreymarbles: Noch besser die Figuren entwickeln und mehr auf Gegenspiel achten dacht ich mir so
