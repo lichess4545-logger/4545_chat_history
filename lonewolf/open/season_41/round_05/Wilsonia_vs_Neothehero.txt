@@ -1,0 +1,22 @@
+Lichess game chat log
+Game      : https://lichess.org/5whFU1lw
+White     : wilsonia
+Black     : neothehero
+Time      : 30+30
+Captured  : 2026-08-09 14:55:49 UTC
+Game ended : 2026-08-09 13:35:41 UTC
+Messages  : 12
+────────────────────────────────────────────────────────────
+
+[12:20:33] neothehero: (11...Be6) Please let me castle queenside, I really want to
+[12:21:19] neothehero: (12.Bd5) not sure what's the trick here
+[12:21:49] neothehero: (12.Bd5) maybe white wants to prevent me from pushing d5
+[12:24:22] neothehero: (13.Rhe1) not sure if this is just a normal developing move by white
+[12:24:37] neothehero: (13.Rhe1) I could try to gain space on the kingside with h6-g5-f5
+[12:32:29] neothehero: (14.c4) Ne5 Nxe5 dxe5 white is not forced to deal with the bishop
+[12:32:44] neothehero: (14.c4) candidate moves are Ne5 and g5
+[12:47:12] neothehero: (16...Ne5) white might have some tactic with Qa5, then Nc6 bxc6 Qxa6+
+[12:50:30] neothehero: (16...Ne5) Qb4 Ng4 Nc6 bxc6 Ba7 Qe8 Qb8+ Kd7 dxc6+ Kxc6 seems like black is safe
+[12:54:49] neothehero: (17.Qb4) Ng4 Nc6 bxc6 Ba7 Qe8 dxc6! looks bad for me
+[12:57:37] neothehero: (17...Bf6) at least now I retain the option of Nxc6 when white plays Nc6
+[13:18:25] mennonite: I was expecting 22.Ne7+
