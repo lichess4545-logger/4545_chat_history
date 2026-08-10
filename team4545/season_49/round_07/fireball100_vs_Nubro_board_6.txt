@@ -1,0 +1,125 @@
+Lichess game chat log
+Game      : https://lichess.org/ZW4qWp27
+White     : fireball100
+Black     : nubro
+Time      : 45+45
+Captured  : 2026-08-10 16:19:44 UTC
+Game ended : 2026-08-10 14:59:33 UTC
+Messages  : 115
+────────────────────────────────────────────────────────────
+
+[12:57:55] simonwashere: Go fireball!
+[12:59:27] pineapplechiffoncake: Go Nubro!
+[12:59:42] simonwashere: 1.d4 white has more central control, clearly better
+[13:04:31] fireball100: he always plays Frence w 1 e4 and also with 1d4 looks like...
+[13:08:35] nvasquez: Go Fireball
+[13:10:07] fireball100: there I finally casteled when I am supposed to!
+[13:19:30] nvasquez: When I played e4 against the French I understood the LSB was better on d3
+[13:19:45] nvasquez: Sets up the Greek gift and can take the knight if it makes it to f5
+[13:20:31] nvasquez: Now I think white needs to play Nxd4 and then Bd3
+[13:28:54] bufferunderrun: well, it's over
+[13:35:15] bufferunderrun: probably needed Na3-Nc2 on Nge7, otherwise, Be3 on Nc6 (this is why black may start with Qb6 before Nc6)
+[13:38:33] bufferunderrun: white should play on of course, but protected passed pawn means an endgame that is most likely won't hold
+[13:39:03] namegoesinhere: (10...Qxd4) white could maybe try Qb3 and sac the second pawn milner barry style
+[13:39:18] namegoesinhere: (11.Qxd4) (although the e2 bishop is misplaced for that
+[13:39:34] berndwind: not sure, yeah it’s tricky but white has counterplay for sure here. not over
+[13:41:20] fireball100: well looks like I "sacrificed" a pawn at the opening
+[13:41:20] namegoesinhere: (13.Nxb5) this seems like too few pieces left for white to find enough counterplay
+[13:41:51] fireball100: I think I get compensation though...
+[13:43:22] fireball100: he must move K here which slows down R pairing but not a bit item as Qs are exchanged
+[13:43:37] namegoesinhere: (13.Nxb5) ...Kd7 should be good enough, white is a tempo too slow to the c-file I think
+[13:43:52] fireball100: so I gain a little faster dev but he as a passed pawn for free..
+[13:44:08] namegoesinhere: (13.Nxb5) Kd7 Be3 a6 Nd4 b5 Rac1 Bb7 Rc2 Be7 Rfc1 Ra/hc8
+[14:10:48] cole77: What do you guys think about 25.. Bf4
+[14:11:03] simonwashere: I would play f4
+[14:11:34] davidsifre: Fireball, follow your heart.
+[14:11:49] cole77: Why not Bf4
+[14:12:04] simonwashere: want to keep a pawn on e5
+[14:12:20] cole77: Yeah but if black takes you win a pawn
+[14:12:20] namegoesinhere: (25.f4) Bf4 I guess g5 Bg3 f5
+[14:12:50] cole77: Yeah true fair point
+[14:12:50] namegoesinhere: (26.fxe5) oh, but Bf4 g5 exf6+
+[14:13:05] cole77: Wait no if g5 there is exf6
+[14:13:20] davidsifre: I liked the bishop option better.
+[14:13:20] cole77: Thank you
+[14:13:20] namegoesinhere: (26...Rf8) yeah, so probably Bf4 f5 with g5 to follow
+[14:14:37] joonaf: go fireball!
+[14:14:52] cole77: Hey @Joonaf, your my opponent lol
+[14:15:38] cole77: go Nubro!
+[14:16:23] joonaf: hi!
+[14:18:41] simonwashere: I am afraid this looks lost
+[14:19:42] fireball100: my b c pawns are what I am  banking on
+[14:19:42] bufferunderrun: now Ba3 and push the pawn
+[14:20:58] cinemashow: why not Bb4-Bc3?
+[14:22:29] cinemashow: got to be over
+[14:23:00] bufferunderrun: Bb4 Bc1 Bc3 Ba3 perhaps, it seemed easier with Ba3 Bd2 Bb2, so for this reason i think Ba3 Ke1, but it probably doesn't hold
+[14:23:30] bufferunderrun: like Ke1-Kd1 etc. heading to c2/b1
+[14:24:01] bufferunderrun: white's advantage is that the black's king is stuck on c7
+[14:24:01] cinemashow: Bd2 met by Bd4?
+[14:24:16] bufferunderrun: disadvantage is that black has two passed pawns
+[14:25:01] namegoesinhere: (30.Bc1) yeah, I think white will have to give up e5 to ...Bd4 at some point to stop the a-pawn
+[14:25:01] bufferunderrun: Bd4 isn't possible if you play Bb4 :p
+[14:26:02] namegoesinhere: (30...a3) ok now I think white just can't stop the pawn?
+[14:26:33] namegoesinhere: (31.Ke2) oh no, can't go Bd4 without Bax3 happening
+[14:26:33] cinemashow: meant from the position after a4
+[14:26:48] cinemashow: a2 Ba3
+[14:27:03] cinemashow: a2 Bb2 Ba3
+[14:27:19] bufferunderrun: a2 Bb2 Ba3 Ba1
+[14:27:19] cinemashow: sneaky
+[14:28:04] simonwashere: now white can grab the pawn
+[14:28:04] namegoesinhere: (33.Ba1) I wonder if 30...Bd4 and just pick up e5 was better
+[14:28:20] bufferunderrun: now the king heads over to b3 and Idk...
+[14:28:20] cinemashow: (33.Ba1) has this gone wrong then?
+[14:28:35] bufferunderrun: white might survive
+[14:28:50] bufferunderrun: yeah, I think Ba3-Bb2 before pawn push was needed, but who knows
+[14:29:05] simonwashere: white might be better now
+[14:30:06] namegoesinhere: (33.Ba1) yeah, 28...Ba3 looks even cleaner because ...Bb2 is unstoppable and the white king is still far away
+[14:30:37] bufferunderrun: white isn't better
+[14:31:22] cinemashow: (33.Ba1) I still liked Bb4 first to take it to c3
+[14:31:38] cinemashow: (33...Bc5) or bring the king via f7-g6
+[14:32:08] namegoesinhere: (34.Kd3) black couldn't really bring the king because of the c-pawn
+[14:32:08] namegoesinhere: (34.Kd3) I guess maybe Be8 first
+[14:32:23] namegoesinhere: (34.Kd3) but that looks really passive
+[14:34:10] namegoesinhere: (35...g5) I guess we just get a three fold where neither side can progress?
+[14:34:10] bufferunderrun: now white might be better, I didn't like g5
+[14:35:26] bufferunderrun: well, maybe it's still fine
+[14:35:41] bufferunderrun: since Kb3 d3 Kc3 Bd4!
+[14:36:58] bufferunderrun: so white cannot take on a2 and would need to wait for d2 to play Kc2
+[14:38:29] bufferunderrun: probably just a draw at this point
+[14:42:48] bufferunderrun: 38...d3 now or never!
+[14:44:04] cowtone: go fireball
+[14:44:50] bufferunderrun: excellent
+[14:45:51] cinemashow: (38...d3) Bb2 or c3 both ok?
+[14:46:21] bufferunderrun: probably, but you cannot take on a2 I think
+[14:46:37] namegoesinhere: (38...d3) yeah I think still a draw if white shuffles the bishop and if d2 Kc2
+[14:46:37] bufferunderrun: since no Kc2
+[14:47:07] namegoesinhere: (38...d3) black can play Be3 but it doesn't do anything, since still d2 Kc2
+[14:47:07] bufferunderrun: and you cannot play Kc3 here
+[14:51:11] stevenlongs: impossible to stop promotion?
+[14:51:26] bufferunderrun: not really
+[14:51:56] bufferunderrun: on d2 Kc2, since black doesn't control d1
+[14:52:27] bufferunderrun: but you'd need to be careful with what pieces you move
+[14:56:31] cole77: If Kc3 there is Bb4 right
+[14:56:46] bufferunderrun: Kc3 Bd4+!
+[14:57:47] bufferunderrun: well, rip
+[14:58:17] cole77: d2 just wins?
+[14:58:17] bufferunderrun: yeap
+[14:58:48] darkfl0me: Sometimes not doing anything was right move. Haha
+[14:58:48] bufferunderrun: white just needed to shuffle the bishop between a1-b2-c3
+[14:59:03] bufferunderrun: gg
+[14:59:03] simonwashere: gg
+[14:59:03] cole77: gg
+[14:59:03] davidsifre: Damned passed pawn for free is a problem.
+[15:01:35] fireball100: Bc3 was the right move
+[15:03:22] nubro: Tough game, well played
+[15:03:37] nubro: Long think in the opening?!
+[15:04:07] fireball100: thanks - last move was a big blunder - I had a play there
+[15:04:38] cinemashow: just shuffle the bishop to b2 or c3
+[15:05:08] cinemashow: king must stay on b3 so on d2 you play Kc2
+[15:05:08] nubro: I see, I planned Bb3 myself and expected Kxb3 but did not calculate Kxb2
+[15:05:23] nubro: If you'd play Bc3
+[15:05:39] fireball100: Bc3 saved me
+[15:05:39] fireball100: but not played..
+[15:07:25] nubro: I should've played 30..Bd4 and taking the pawn but I thought pushing was better
+[15:07:56] nubro: After my Kc8 I thought we were going to repeat and draw
+[15:08:57] nubro: 12..Nxb5 was also bad
