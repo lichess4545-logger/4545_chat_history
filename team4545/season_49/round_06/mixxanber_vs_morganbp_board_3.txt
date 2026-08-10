@@ -1,0 +1,161 @@
+Lichess game chat log
+Game      : https://lichess.org/EgsmylHH
+White     : mixxanber
+Black     : morganbp
+Time      : 45+45
+Captured  : 2026-08-10 01:27:36 UTC
+Game ended : 2026-08-10 00:07:28 UTC
+Messages  : 151
+────────────────────────────────────────────────────────────
+
+[22:09:27] mixxanber: looks a little like a marshall huh, is the bishop not a little misplaced on b7 though?
+[22:10:28] mixxanber: exd5 Nxd5 Nxe5 Bd6 d5 really looks fine to me
+[22:10:43] mixxanber: oops I guess Nxd5 Rxd5 Bd6
+[22:10:58] mixxanber: that looks like black has maybe nice comepnsation for the pawn
+[22:11:59] mixxanber: d3 dxe4 doesn't look so nice
+[22:12:14] mixxanber: exd5 Nxd5 d3 looks simplest
+[22:12:45] mixxanber: lets just go for this and not spend too much time
+[22:14:31] mixxanber: Nxe5 nxe5 Rxe5 Bd6 still doesn't look good haha after revisiting
+[22:16:18] mixxanber: somehow this feels like I'm misplaying this, but lets just get a normal game
+[22:18:35] mixxanber: somehow Bd6 here (after d3) looks a tad awkward
+[22:18:35] mixxanber: and how else does black defend e5?
+[22:20:06] mixxanber: 11... Bd6 Nbd2 Na5 Bc2, maybe pieces feel a tad cramped
+[22:20:22] mixxanber: but I guess e5 is still hard to defend lol
+[22:20:37] mixxanber: if f6 after that, then d4 maybe
+[22:23:09] mixxanber: if Bf6, then Nbd2 anyway probably
+[22:25:41] mixxanber: Nxe5 now looks more tempting, with an extra move of development, the queen looks miplaced a tad
+[22:30:15] mixxanber: for some reason, Nxe5 nxe5 Rxe5 Bd6 Rg5 is quite tempting
+[22:30:46] mixxanber: but just Re1 maybe is sounder
+[22:32:17] mixxanber: Nxe5 nxe5 Rxe5 Bd6 Re1 Rfe8 looks like the most likely line
+[22:32:32] mixxanber: feels like this has to be better than a marshall, so I should go for it
+[22:32:32] mixxanber: haha
+[22:34:34] mixxanber: for whatever reason, I thought after Bd6 I'd have to go back
+[22:34:49] mixxanber: but can't I just take on d5
+[22:35:05] mixxanber: I forgot that Bh7+ drops a whole dang piece haha
+[22:36:21] mixxanber: this has to be like a horrible version of a marshall right
+[22:38:07] mixxanber: Qg4 is sort of my instinct, but I also don't see any immediate threats, so many I don't have to trade  queens so early
+[22:40:25] mixxanber: Qg4 f5 just can't be right, right?
+[22:40:55] mixxanber: Qg4 Qxg4 hxg4 looks fine
+[22:43:12] mixxanber: Qg4 f5 Qf3 looks fine for me
+[22:43:42] mixxanber: obv not ideal being on same diagonal as the bishop, but unpinning the knight will take time
+[22:43:42] mixxanber: apart from that, I am not too wirred about other moves
+[22:45:29] mixxanber: its not fully trivial to untangle, backrank issues and lack of development
+[22:45:44] mixxanber: but I don't see any concrete attack for black
+[22:48:47] mixxanber: c4 should be a movie I consider to also allow my knight to c3
+[22:49:02] mixxanber: else the knight may be very annoying to develop
+[22:49:17] mixxanber: my time management is quite bad so far, need to be more practical
+[22:51:19] mixxanber: Qf6 Kh8 Bxd5 cxd5 d4 looks super simple
+[22:51:50] mixxanber: Qf3*
+[22:53:52] mixxanber: maybe Bd6 first for black
+[22:55:54] mixxanber: Re1 Rae8 rxae8 Rxae8 Be3 looks okay
+[22:56:09] mixxanber: I don't think f4 works, just Bxf4
+[22:58:26] mixxanber: blacks rook on e1 looks annoying, but so many pieces are off
+[23:00:28] mixxanber: I'm a little worried about my a rook being in jail forever
+[23:01:44] mixxanber: Bd3 f4 Bd2 Rxe1 Bxd1 Re8 Nd2 looks okay to me still
+[23:05:02] mixxanber: Bd3 Kh8 Bxd4 cxd4 d4 f4 Bd2 looks okay still
+[23:05:17] mixxanber: f4 somehow gives my king some nice protection against the dark squares
+[23:06:18] mixxanber: if Qe7, then maybe just Na3, develop to a shitty square to connect rooks
+[23:06:33] mennonite: ah, it wasn't a pure Marshall, I had just assumed it was
+[23:14:40] mixxanber: Bxd5 cxd5 d4 is all I really considered here
+[23:16:42] mixxanber: Bc7 looks like the most annoying continuation to me
+[23:17:28] mennonite: sure
+[23:18:14] mixxanber: Bb8 or Bc7, then maybe g3?
+[23:18:44] mennonite: I think Na3 is better
+[23:18:44] mixxanber: Bc7 is actually quite annoying huh
+[23:19:30] mennonite: because you can play g3 immediately but ...f4 is still coming with force
+[23:20:00] mennonite: just thinking out loud, i don't know
+[23:20:16] mixxanber: maybe Kf1?
+[23:21:01] mennonite: Kf1 doesn't look good, and doesn't even solve the problems it purports to tackle
+[23:21:47] mixxanber: Na3 feels fine here
+[23:22:02] mennonite: it looks forced in fact
+[23:22:17] inter-temporal: (19...Qe6) 13...c6 was the novelty?
+[23:23:03] mixxanber: Na3, and then Bf4 next almost no matter what?
+[23:23:34] mixxanber: obv if f4, then Bd2
+[23:24:04] mixxanber: feel a bit lucky,  felt a bit in trouble on my dark squares
+[23:28:23] mixxanber: if Bc7 here, is Bf4 a good way forward?
+[23:28:38] mixxanber: giving up two rooks for the queen, but for some reason I feel like I can easily control the only open file
+[23:29:54] mixxanber: maybe just Bd2 Rx Rx Qd6 and then just g3
+[23:29:54] mixxanber: but looks scary
+[23:30:55] mixxanber: g3 first instead of Bd2 perhaps
+[23:30:55] mixxanber: that looks correct actually
+[23:31:41] mixxanber: if f4, then Bd2 then
+[23:32:42] mixxanber: this surprises me quite a bit
+[23:33:58] mixxanber: I guess controlling c2
+[23:34:44] mixxanber: but how about exchanging all rooks?
+[23:34:59] mixxanber: or Kf1, threatening to exchange and take on f4?
+[23:35:29] mixxanber: I'm liking Kf1 actually
+[23:36:00] blueside617: is bc8 not a worry
+[23:36:45] inter-temporal: (21...Qg6) soon, probably
+[23:37:01] mixxanber: or just Rx Rx Bxf4? i didn't consider this at first
+[23:37:01] mixxanber: obv Rf8 looks problematic
+[23:37:16] mixxanber: my pieces don't have many squares I guess, but I don't see how black makes progress
+[23:37:31] blueside617: I'm scared of bxh3 coming and just shoving f3 in after qxh3
+[23:37:31] mixxanber: Bc8 is one of the few progress moves, but so slow
+[23:38:02] leverkuhn: I progress with ...Re4 I think
+[23:38:17] mixxanber: Kf1 h5 is sort of interesting
+[23:38:32] leverkuhn: maybe play Alekhine's gun on the e-file on a good day
+[23:39:18] mixxanber: I think I'm overcomplicating this, lets just exchange all the rooks
+[23:39:33] mixxanber: Bd1 feels a little awkward, but the queen has no entry squares
+[23:41:35] inter-temporal: (22...Rxe8) who has the better minor piece. :)
+[23:41:35] mixxanber: Rc1 is also somewhat intresting
+[23:41:50] mixxanber: actually Rc1 looks simplest, maybe that open file isn't so scary
+[23:42:05] mixxanber: no obvious entry squares, and less backrank problems
+[23:43:21] mixxanber: Rc1 Bc8 looks a little annoying
+[23:43:52] mixxanber: maybe Bxf4 is correct here lol
+[23:43:52] blueside617: rc1 preparing nc2-nb4? and if a5? I wonder where this horse can live
+[23:45:08] mixxanber: i'm not so fond of that bishop getting into e4
+[23:45:23] mixxanber: I think I need to prepare f3 somehow
+[23:45:23] mixxanber: so maybe Re1 Rxe1, then Qe2 is the way forward
+[23:45:54] blueside617: re1 rxe1 bxe1 qe6 b back to d2 looking passive
+[23:46:09] mixxanber: coming back to Re1 haha
+[23:47:40] leverkuhn: 23...Re4!
+[23:47:40] mixxanber: Rxe1 Bxe1 Bc1, just Bd2 looks fine
+[23:48:11] mixxanber: Bxa3 bxa3 Qc2 I did not really consder
+[23:48:26] blueside617: yea ...re4 looks strangling
+[23:48:26] mixxanber: but actually may be a nice way forward for black
+[23:49:42] mixxanber: maybe Qh5, threatening back rank, and then I can start to get some tempi on these bishops
+[23:50:28] mixxanber: this looks wrong, I now have Nc2 right? solving so many problems?
+[23:50:43] synaesthesioid: Not sure Re4 lets the knight get to c2 where it starts to look like it has better prospects on b4, d2, etc
+[23:51:29] synaesthesioid: Just have to be careful with the discovery from the queen
+[23:51:44] mixxanber: Nc2 Bc1, then not so sure whats next
+[23:52:14] leverkuhn: 24.Nc2 Qe6 25.Nb4 a5 doesn't accomplish anything for White
+[23:52:30] synaesthesioid: Knight gets to d3
+[23:52:30] inter-temporal: (24.Nc2) i'm inspired by white's optimism
+[23:52:30] leverkuhn: hmmm true
+[23:53:00] mixxanber: sort of feels like I'm putting myself into a self-bind
+[23:53:00] mixxanber: if no Bc1, then Qg4 definitely
+[23:53:15] inter-temporal: (24.Nc2) was inspired by white's previous optimism
+[23:53:46] leverkuhn: 24...Qe6 good starting point I suppose to keep White stuck defending e1
+[23:54:01] mixxanber: I sort of like re2 next, no Rxe2 because of back rank issues for black
+[23:54:16] mixxanber: Re2, then Ne1 into Nd3 lol
+[23:54:31] mixxanber: Bc1 Re2 maybe kinda tricky
+[23:55:02] leverkuhn: If Black is really ambitious he could try 24...Qe8 followed by ...g5, ...h5, and ...g4
+[23:55:17] leverkuhn: incredibly risky of course
+[23:55:17] mixxanber: actually Bxh3 maybe there still
+[23:55:32] mixxanber: Bc1 then just Ng4 actually
+[23:55:32] mixxanber: err Nb4
+[23:56:03] mixxanber: Qg4 looks decent here
+[23:56:48] mixxanber: Rx first maybe?
+[23:57:34] mixxanber: Qg4 f3 looks simplest
+[00:00:06] mixxanber: still not out of the woods Rx Nx Qb1
+[00:00:06] mixxanber: but then just Qe6?
+[00:02:08] blueside617: 27 nf3 looks fine now right?
+[00:02:23] leverkuhn: or Nd3
+[00:02:39] mixxanber: Nf3 looks fine
+[00:02:39] mixxanber: Bc1 Qg5
+[00:02:54] leverkuhn: don't know why Black traded rooks, he gave up on his own concept
+[00:03:09] mixxanber: till backrank problems
+[00:03:09] mixxanber: Nd3 actually looks simpler, leaves f3 open for queen
+[00:04:56] mixxanber: Qf3 Bf5 Nxf4 looks fine
+[00:04:56] synaesthesioid: I think black never really had a proper marshall style attack, usually white has to go through worse contortions to survive
+[00:04:56] mixxanber: or Bxf4
+[00:06:12] mixxanber: want to make sure I don't get into an opposite color bisohp endgame here
+[00:06:27] mixxanber: so no knight for dsb trade
+[00:06:42] synaesthesioid: The modern marshall lines often end up with the engine recommending that white give up the exchange even
+[00:07:43] leverkuhn: gg
+[00:08:44] inter-temporal: gg
+[00:09:30] mennonite: gg
+[00:09:30] mennonite: fun game to watch with the comments
+[00:11:47] mixxanber: I hadn't seen this sort of "delayed' marshall before
+[00:12:02] mixxanber: I had assumed that bishop on b7, with c6 played, makes black lose many tempi
+[00:12:02] mixxanber: but it was still quite hard to defend
