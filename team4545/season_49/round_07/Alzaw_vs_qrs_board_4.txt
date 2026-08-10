@@ -1,0 +1,198 @@
+Lichess game chat log
+Game      : https://lichess.org/oxk8rkQS
+White     : alzaw
+Black     : qrs
+Time      : 45+45
+Captured  : 2026-08-10 23:59:27 UTC
+Game ended : 2026-08-10 22:39:17 UTC
+Messages  : 188
+────────────────────────────────────────────────────────────
+
+[20:13:15] qrs: decided to give the caro a try, hope 6. ... e5 is not a blunder but I think its correct
+[20:13:30] duty5521: It is the right move
+[20:13:45] duty5521: Theory continues Nf3 Nxd3+
+[20:14:16] duty5521: Bc2 is also good
+[20:17:34] jfiras: (9.Nf3) weird that Nf3 is the top move there and white gives their bishop which is eying some good squares
+[20:19:51] duty5521: It's a very interesting variation
+[20:20:06] duty5521: Well caro-kann is very interesting anyway
+[20:22:08] osumarko: Go Alzaw!
+[20:22:23] angborxley: Go capt!
+[20:28:29] qrs: Was debating 10. d4 for a long time, will have to check afterwards
+[20:28:44] qrs: I think none of the tactics work in whites favor BUT he can just ignore it and after dxc3 Nxc3 i just used two moves to help him develop
+[20:46:16] kayrosas: didnt realise we had a game so soon, gl alzaw!
+[21:03:47] nyanners: the funny here is that black must play very actively to have compensation for the structure and this isnt it
+[21:04:33] nyanners: white has everything here which is........ not that much tbh. but definitely clearly better
+[21:08:06] kayrosas: 16.Rab1, simple shrimple
+[21:08:21] nyanners: my first thought was re2
+[21:08:37] kayrosas: feels too fancy
+[21:09:07] nyanners: i dont think theres an universe where the rook should go on b1 medium term
+[21:09:07] nyanners: THIS one is fancy
+[21:09:38] kayrosas: well i just wanna play Nd4 without hanging a pawn and then put the rook on d1 or whatever
+[21:09:53] nyanners: yea just do that with Re2 XD
+[21:10:23] kayrosas: but i like having the rook on e1 :(
+[21:10:38] nyanners: :<
+[21:11:39] kyriakos1301: let's go Alzaw
+[21:12:40] littleoak12: go alzaw!
+[21:13:57] nyanners: this game will either be like 25 moves or 80
+[21:13:57] kyriakos1301: yes, I agree
+[21:14:27] kayrosas: Bd4 seems a bit artificial
+[21:14:42] nyanners: probably too commital if Ne4 happens to be good
+[21:15:13] kayrosas: poor b3 knight was promised that square 2000 years ago
+[21:15:28] kyriakos1301: Ne4 seems annoying
+[21:15:28] nyanners: now you spend 20 minutes and take on e4 with rook
+[21:15:43] nyanners: (i dont think its good)
+[21:16:14] kayrosas: calc Rxe4 for 20min, decide it's not good, play Bxe4 without thinking and resign 2min later
+[21:16:29] nyanners: also extremely realistic
+[21:16:29] kayrosas: I'd do that
+[21:16:59] kyriakos1301: Bxe4 is bad because the knight hangs?
+[21:17:15] nyanners: only now i realized it actually opens the Be6
+[21:17:15] nyanners: so yeah its actually winning for b
+[21:17:45] duty5521: Rxe4 dxe4 Qxe4 f5 probably?
+[21:18:00] duty5521: because g6 Qe5
+[21:18:00] nyanners: yeah may be forced
+[21:18:16] nyanners: but seems good
+[21:18:16] nyanners: forcing opp to play the good move is usually bad
+[21:18:31] kayrosas: :(
+[21:18:31] nyanners: okay done in less than 20 min. that helps
+[21:18:46] nyanners: also maybe were wrong
+[21:19:01] duty5521: yeah maybe
+[21:19:32] nyanners: there could definitely be a surprise win here.... for either side
+[21:19:32] kayrosas: 19.Qg3 could've been interesting maybe
+[21:20:02] nyanners: it would be more interesting if g7 wasnt defended
+[21:20:18] nyanners: like okay its a good square but.. yeah
+[21:20:18] kayrosas: ofc
+[21:20:18] duty5521: 19. Qg3 Qe2 -+?
+[21:20:33] duty5521: Be1 Qd1 Kh2 Bxb3
+[21:20:33] duty5521: Bd1* sorry
+[21:21:03] nyanners: seems you shifted the coordinates
+[21:21:03] duty5521: yeah Bd1 Qe1
+[21:21:03] duty5521: lol
+[21:21:18] kayrosas: Qe2 is annoying, yea
+[21:22:35] nyanners: either qf3 or qf4
+[21:22:35] kayrosas: the Nb3 is just so far away to create good chances
+[21:22:35] nyanners: qf4 to keep closer to the dark squares thing
+[21:23:05] duty5521: Yeah I like Qf4
+[21:23:20] nyanners: downside is self-pin
+[21:23:36] kayrosas: Qf4 Qe2 maybe annoying again?
+[21:23:51] nyanners: at least now the line doesnt work because Bxb3 is check
+[21:24:06] duty5521: yes
+[21:24:06] nyanners: but theres a decent chance something else does
+[21:24:21] nyanners: like maybe you just take b2
+[21:24:37] nyanners: umm c4
+[21:24:52] kayrosas: lol
+[21:25:07] kayrosas: that is funny
+[21:25:38] nyanners: year 2026 and b2 still isnt taken
+[21:26:23] duty5521: me when the poisoned pawn is poisoned
+[21:30:12] kayrosas: Bd1 Qe4 probably
+[21:30:12] nyanners: maybe white will just play Rc1 like a normal individual
+[21:30:57] nyanners: there we go
+[21:31:28] kayrosas: 21...Rad8 might just be very strong
+[21:31:58] kayrosas: oh not quite, forgot recapture on b3 is check
+[21:32:14] nyanners: yea this check makes all the lines work for white
+[21:32:14] nyanners: this one didnt work before either
+[21:32:29] nyanners: like Bxb3 Qxb2
+[21:34:31] nyanners: b6 good if its not bad
+[21:35:01] nyanners: white really needs that Nd4 i think
+[21:35:01] nyanners: the position will never be good with knight on b3
+[21:35:01] kayrosas: 22.Be3 possibly
+[21:35:01] nyanners: yess
+[21:37:34] nyanners: okay logical but enables Qb5 back
+[21:38:04] kayrosas: 23.Nd2 also interesting maybe
+[21:38:04] nyanners: black is sick of the check tho
+[21:38:50] nyanners: thought Bxb3 is a big threat but c1 is still protected
+[21:39:05] duty5521: g4 is considerable but it's an absolute lunatic move lol probably very bad
+[21:39:05] kayrosas: we kinda need that knight for counterplay
+[21:39:51] kayrosas: g4 is incredibly degenerate lol. but also fxg Qh6 Bg8 is nothing i think
+[21:40:21] inter-temporal: (22...Kh8) "An absolute lunatic move!"--Capablanca, re a move made by Lasker
+[21:40:36] duty5521: yes g4 is a Bullet Move
+[21:40:36] duty5521: (C)
+[21:42:23] ecoarrivazumashoomzo: go qrs!
+[21:42:38] kayrosas: 23.Nd2 Bc5, is there anything?
+[21:43:39] nyanners: white is the one who needs something, we could say :o
+[21:44:25] nyanners: umm Bxb6 not affordable
+[21:46:27] kayrosas: i still want Nd2
+[21:47:43] kyriakos1301: yes, otherwise Bxb3 is a threat no?
+[21:48:13] kayrosas: yes
+[21:48:29] kayrosas: but even if it didn't lose a pawn white needs to activate their pieces in hopes of counterplay
+[21:52:17] duty5521: Qd3 e3 is definitely not the way
+[21:52:32] duty5521: what the hell I type Qe3
+[21:52:32] kayrosas: 24...Bxb3
+[21:53:03] kayrosas: and it's kinda trivial after that I'm afraid
+[21:53:33] kyriakos1301: nice find, Bxd3
+[21:54:19] duty5521: I liked Bc5 better
+[21:54:19] kayrosas: i guess there can be a bit of hope if the entire q-side disappears
+[21:54:34] nyanners: out of all queenless material down configurations this isnt one of the worst
+[21:54:50] duty5521: Definitely, but it isn't the best either
+[21:55:05] kyriakos1301: yes ita good to have the bishop pair
+[21:55:20] nyanners: very surprising white just invited it tho
+[21:55:35] duty5521: There are so many ways to simplify for Black here
+[21:56:21] nyanners: oh i just tuned back in and missed Bc5 entirely. yea dont mind me its really bad dead lost aaaaaaaaaa oh no
+[21:57:22] nyanners: there is a chance tho. Bxf5 Bxd4 cxd4 R8a2 Rc8#
+[21:57:22] nyanners: trust
+[21:57:52] nyanners: well that cuts that out
+[21:58:38] duty5521: Yeah this looks resignable already
+[21:58:53] inter-temporal: (29...Rf8) noooooo :)
+[21:59:09] inter-temporal: (29...Rf8) "Never resign! (unless you feel like it)"
+[21:59:24] duty5521: I'm afraid "never resign" is a stretch here
+[21:59:39] nyanners: theres a little shuffling left
+[21:59:39] kayrosas: i wouldn't resign here, still some tricks
+[21:59:39] inter-temporal: (29...Rf8) stretches are fine
+[22:00:10] inter-temporal: (29...Rf8) rhymes with, no resign
+[22:00:25] duty5521: Yeah there are still cheap tricks I guess
+[22:00:40] kayrosas: Be4 Rfxf2 Ra8 and try to get the c pawn
+[22:00:55] inter-temporal: (29...Rf8) Bc2 Re8, Kf1 maybe?
+[22:01:11] inter-temporal: (29...Rf8) temporary
+[22:01:26] kayrosas: Bc2 Rd8 kinda kills that tricks, doesnt it
+[22:01:41] inter-temporal: (29...Rf8) need a scheme with c4, Bd5, and losing f2
+[22:03:59] nyanners: start with Ra8 maybe black has zoned out by now
+[22:04:29] kayrosas: Ra8 and immediately request a takeback
+[22:04:29] inter-temporal: (29...Rf8) swindler!
+[22:04:29] duty5521: Ra1?
+[22:04:29] kayrosas: uh, yea
+[22:04:29] qrs: In hindsight, 24. Bxb3 may have been a blunder..
+[22:04:44] duty5521: huh
+[22:04:44] inter-temporal: (29...Rf8) yes. she meant Ra1. :)
+[22:04:59] qrs: Qb5 may have been much stronger
+[22:05:15] nyanners: okay now you resign
+[22:05:30] duty5521: yeah I don't think helping to trade a rook is the smartest decision
+[22:05:30] duty5521: :(
+[22:06:31] inter-temporal: (30.Rb1) maybe therez still a scheme with c4 and Bd5? gotta be optimistic
+[22:06:46] kayrosas: i think black can win the c pawn by force
+[22:07:17] kayrosas: 30...Rx Bx Ra8 (Bd3 Ra3) Be4 Ra1 Kh2 Rc1
+[22:07:47] inter-temporal: (30.Rb1) yeh. sad
+[22:08:17] kayrosas: 7-1 will still be a good result tho
+[22:08:17] inter-temporal: (31...Ra8) i mean good for qrs. but what about us ?
+[22:08:33] qrs: If I am not mistaken I win the c3 pawn now
+[22:08:48] inter-temporal: (31...Ra8) yeh, but we need maximal entertainment
+[22:09:03] qrs: And if thats true, I think I may win
+[22:09:03] karasso: Nice
+[22:09:34] qrs: sorry will have to conserve my time (as I had to all game..) and cant comment much
+[22:09:49] inter-temporal: (31...Ra8) no way to save it...
+[22:10:04] qrs: But 30. Rb1 was very commital and he may have overlooked 31. ... Ra8 (or I am missing sth)
+[22:11:05] duty5521: RIP little pawn :(
+[22:12:21] kayrosas: 34...Kg8 Kd2 Ra3 g4 Ra2 Ke3 h6 surely
+[22:24:02] kayrosas: good technique by black, very solid
+[22:24:17] duty5521: make sure not to play Ra2
+[22:24:33] duty5521: well right now at least
+[22:26:34] karasso: Yes, i liked gxh4 and not h6 to make sure one pawn on the kingside stays alive. Not necessary here, but still nice.
+[22:28:06] karasso: Kg4 and Rxh5, because why not^^
+[22:33:11] duty5521: Rc7 Tarrasch rule?
+[22:33:56] karasso: The rook was perfect on the d-file
+[22:34:27] karasso: Cutting the king of, so you just have to push your pawn
+[22:34:27] duty5521: yeah
+[22:34:42] duty5521: Rc5 Kc2 and you push there also works
+[22:34:57] duty5521: Kb2
+[22:34:57] duty5521: maybe not on c2 yeah
+[22:35:28] karasso: Like rd4 protecting c4 Kb2 c3 c2 etc would have been the easiest, but all roads lead to victory for black here
+[22:35:43] duty5521: yep I also thought of that
+[22:36:29] duty5521: Black really complicating things for not much here
+[22:37:45] duty5521: oh is Black playing Rxg6 lol
+[22:38:31] duty5521: Well not anymore at least
+[22:38:46] kayrosas: interesting detail is if c for h was traded white sadly has the wrong coloured bishop for a possible draw setup
+[22:39:17] duty5521: oh yeah it has to be Kh1 Bg1 right?
+[22:39:17] duty5521: here at least
+[22:39:32] karasso: gg
+[22:39:47] duty5521: gg
+[22:40:33] kayrosas: gg, good effort
+[22:42:04] nyanners: gg
+[22:44:21] qrs: Thanks for watching and commenting
