@@ -1,0 +1,170 @@
+Lichess game chat log
+Game      : https://lichess.org/9KkX5Y3f
+White     : jwwells42
+Black     : fatdog216
+Time      : 45+45
+Captured  : 2026-08-11 17:44:15 UTC
+Game ended : 2026-08-11 16:24:05 UTC
+Messages  : 160
+────────────────────────────────────────────────────────────
+
+[14:03:59] fatdog216: 5. Be2.  Interesting, no immediate d4.  Wonder if this will transpose later with d4 or whether I should be playing differently with c4
+[14:04:30] fatdog216: 6. a4 instead of d4, now I’m definitely out of book lol
+[14:06:47] fatdog216: 6. a4: e5 ideas are insteresting now, trying to kill the d4 idea forever.  Or just normal Nc6, e6, b6, Bb7 setup
+[14:07:32] fatdog216: 6. a4: wondering if I have time for Bf5 in these lines because white has wasted a bit of time with a4 and Qb3 no longer possible
+[14:08:33] fatdog216: 6. a4 maybe start with Nc6 and then decide based on next moves from white
+[14:08:49] chraki: let's go welllssssss <3
+[14:09:04] glbert: go jwwells42!
+[14:09:04] chraki: hello best friend
+[14:16:10] fatdog216: 7...Bf5: it seems like eventually they have to play d4 or they will just be worse and cramped and that looks likely to become an IQP for W
+[14:20:29] jwwells42: wanted to play d3 Bf4 Na3 Nc4 but pawn cant rly live on d3 with Bf5 too many attackers
+[14:24:17] okady: go jwewells
+[14:24:33] fatdog216: 7...Bf5: long think here for white, is there a tactical opportunity in the position?
+[14:29:22] fatdog216: 8. d3: interesting d3.  Maybe white doesn’t want the IQP, but this looks passive
+[14:29:52] fatdog216: 8. d3: looking at e6 vs e5
+[14:31:24] fatdog216: d3: e5 is probably the computer move but e6 looks more solid
+[14:33:10] fatdog216: 8...e5: lets do it, probably leads to a more valuable learning experience of a game
+[14:33:56] fatdog216: e5: stop Bf4 development and if Bg5 > Be7 preparing to 0-0
+[14:36:43] fatdog216: 9. Na3: looking for Nc4 pressuring e5 pawn.  Be7 vs Bd6 > Bc7 if Nc4 are ideas here.  didn’t like Bd6 before Na3 because of Nc3 ideas
+[14:39:16] fatdog216: 9...Bd6: if Bg5 I think either Nd7 or Qe6 are ideas, can calculate further once on the board
+[14:42:34] jwwells42: Nc4 Bc7 stops that invasion, Ng5 to trap the queen tempting but Bc7 solves that as well
+[14:42:49] jwwells42: Nc4 Bc6 Ne3 horse rotation complete i guess
+[14:45:36] fatdog216: 10. Nc4: was a bit worried about 10. Ng5 planning Bf3 to trap the queen.  Plan was 10. Ng5 Bc7 11. Bf3 Qd7 probably but then Re1 w Bxc6
+[14:46:07] jwwells42: prob could have Re1 first tbh
+[14:47:23] fatdog216: 11. Qd7: seems forced because Qe6 allows Ng5 tempo
+[14:50:11] fatdog216: 12...Qxf5: probably 0-0 but 0-0-0 not out of the question with the backwards d pawn
+[14:51:11] fatdog216: 13. Be3: now almost certainly 0-0 with b6 likey necessary
+[14:53:13] fatdog216: 13...b6: didn’t see a follow up after saccing the pawn with 13...0-0 14. Bxc5 Rfe8.  Prob not enough comp
+[14:53:59] fatdog216: 13...b6 have to keep in mind that b6 does undefend the c6 knight with the rook still behind it on the long diagonal.  Look for Bf3 ideas
+[14:55:15] fatdog216: 13...b6: probably still ok for me but the last 5 or 6 moves feels like they’ve gone well for white somehow
+[14:56:01] fatdog216: 13...b6 expecting d4 trying to rip the position open before I have a chance to 0-0 with Bf3 ideas along the way
+[15:02:52] pope123: (13...b6) Sup losers
+[15:02:52] pope123: (13...b6) Go J!
+[15:03:38] fatdog216: 13...b6: another long think, maybe I can put them in time pressure; though 45 sec increment and they’re a strong blitz/bullet player
+[15:05:09] fatdog216: 13...b6: if 14. d4 exd4 (not sure if starting with cxd4 is better, likely the same) cxd4 Nxd4 Nxd4 Bxd4 Rd8 or 0-0 looks fine for me
+[15:05:55] fatdog216: 13...b6: maybe stronger to include e4 somewhere in there.  14. d4 cxd4 cxd4 e4.  Nvm Nh4, doesn’t matter
+[15:06:40] fatdog216: 14. Nh4: Qe6 vs Qd7 only moves it seems, let’s compare
+[15:07:26] fatdog216: 14. Nh4: I saw this move and figured either looked ok initially.  Qe6 probably stronger objectively is the instinct
+[15:08:58] fatdog216: 14. Nh4: Qe6 seems more active and disallows Qb3 ideas and keeps the d file open for the rook looking at the backwards d pawn.  I don’t
+[15:09:13] fatdog216: see white opening the e file anytime soon with me 0-0 quickly and the two bishops in the way.
+[15:10:14] fatdog216: 14. Nh4: Qe6 Bf3 0-0 (vs Rd8)
+[15:13:17] fatdog216: 15. Bf3: as expected.  0-0 vs Rd8 candidate moves.  Don’t see a way to exploit the undefended knight on h4
+[15:14:33] fatdog216: 15. Bf3: actually e4 is an idea too
+[15:15:34] fatdog216: 15. Bf3: but e4 looks a bit dangerous: 15...e4 dxe4 Nxe4 Re1
+[15:16:50] fatdog216: 15. Bf3: Rd8 looks a bit stronger to my eye
+[15:17:51] fatdog216: 15...Rd8: although I’m just now considering 16. a5
+[15:18:21] fatdog216: 16. Nf5: point taken, queen is overloaded.  Qxf5 Bxc6+
+[15:19:22] fatdog216: 16. Nf5: what about e4 now?  Oh nope Nxg7+ threatened lol
+[15:20:38] fatdog216: 16. Nf5: yikes there’s more to this move that I thought initially.  16...0-0 Bxc6 Qxc6 Ne7+ winning the queen
+[15:21:39] fatdog216: 16. Nf5: I guess new line is 16...0-0 Bxc6 Qxf5
+[15:23:10] fatdog216: 16. Nf5: what about 16...0-0 Nh6+ gxh6 Bxh6.  Looks uncomfortable but hopefully not enough left
+[15:24:57] fatdog216: 16...0-0: also looked at 17. Nxg7 Kxg7 Bxc6 Qxc6 but didn’t see a way in for the queen with the knight on f6
+[15:25:27] aloo_bhaloo: 17 Bxc6 is a free piece right
+[15:26:13] fatdog216: 16...0-0: threatening e4
+[15:26:28] aloo_bhaloo: nvm counting is hard
+[15:26:44] fatdog216: 17...Qxf5: still threatining e4 maybe
+[15:28:30] fatdog216: 18. a5: yep makes sense
+[15:29:16] fatdog216: 18. a5: candidate moves are Rxd3, bxa5, b5, e4
+[15:30:17] fatdog216: 18. a5: don’t like b5 becasue of Bxc5 Bd6 and the queenside pawns are fixed on light
+[15:31:02] fatdog216: 18. a5: don’t like Bxb5 for the same reason, I think I lose the a5 pawn right away to the rook after I’m forced to play Bd6 to save exch
+[15:32:49] fatdog216: 18. a5: Rxd3 Qc2 Rfd8 axb6 Bxb6 Rxa6 don’t like
+[15:33:50] fatdog216: 18. a5: Rxd3 Qc2 b5 Bxc5 Rfd8 looks a bit better
+[15:35:21] fatdog216: 18. a5: Rd6 Bb7 don’t like
+[15:36:37] fatdog216: 19. Qe2: Probably same line with b5 Bxc5 Rfd8
+[15:37:54] fatdog216: 19. Qe2: though I guess I also have 19...bxa5 Bxc5 Rfd8
+[15:39:10] fatdog216: 19...bxa5 ugly pawns but that a5 pawn could get really annoying if the a6 pawn ever falls and a pawn is a pawn haha
+[15:40:26] fatdog216: 20...Rfd8: those are some very annoying bishops for white.  active in this open position while my pieces look kinda meh
+[15:42:58] fatdog216: 21. Be7: I looked at this move but thought it looked dangerous for white allowing Rd2 with tempo
+[15:43:29] pope123: 21.Be7 So complicated
+[15:45:15] fatdog216: 21. Be7: Rd2 Qe1 forced Rd3
+[15:45:46] fatdog216: 22. Qxa6: ouch blindspot for that whole diagonal with the rook still visualized on d3 blocking it
+[15:50:20] pope123: 22.Qxa6 Anything wrong with Rc8?
+[15:50:50] aloo_bhaloo: 22 .. e4 something?
+[15:51:21] aloo_bhaloo: greek gift incoming
+[15:51:51] pope123: Rb8 Qa7 now tho?
+[15:52:06] fatdog216: 22. Qxa6: yikes this seems to have gotten much worse suddenly!  Rb8 trying to stay active
+[15:52:52] fatdog216: 22...Rb8: if Bxf6 Qxf6.  I 22...Rc8 then gxf6 would’ve been forced
+[15:53:22] fatdog216: 22...Rb8: worried about Qa7 where I guess Qc8 is forced
+[15:53:22] fatdog216: and they’ve played it of course
+[15:54:08] fatdog216: 23. Qc8: ew this looks so passive
+[15:55:24] fatdog216: 23...Qc8: at least I have a threat - Bb6
+[15:56:56] fatdog216: 24. Rbxb2: don’t see a better way to defend the rook.  I think I just have to eventually live with gxf6
+[15:58:27] fatdog216: 24...Rbxb2: Bxf6 gxf6 Qg3+ looks messy but time trouble white white so chances!
+[16:05:03] fatdog216: 28. Bb5: trying to keep on the time pressure not ideal, shoud’ve slowed down and used my extra time
+[16:06:34] jwwells42: hmm i have allowed an thing
+[16:08:21] fatdog216: 28. Bb5: I guess the sac on f2 is the only thing that makes sense.  Not sure if it works
+[16:08:52] jwwells42: rip
+[16:10:53] fatdog216: 30. Rxf2: threats of Qxc3 threatening the rook
+[16:14:42] fatdog216: 32...Qxc3: looks winning!  Gotta keep my head with the back rank
+[16:16:28] fatdog216: 33. Rc1: I think Qxc1 is mate in 2 but let me take the time to check it
+[16:19:01] fatdog216: 33...Qd2: saw B was covering f1 very late!
+[16:21:33] jwwells42: outplayed in all phases today
+[16:21:33] jwwells42: better opening, better time management, much faster calc
+[16:23:35] basyaar: gg
+[16:24:51] fatdog216: Almost messed it up at the end with Qxc1, missed until very late that the bishop guarded the checkmating square from the rook on f1
+[16:26:07] jwwells42: apparently i was doing ok with the opening, a5 idea without Nh4 included is decent
+[16:26:07] jwwells42: but i felt like i was basically never in this one
+[16:26:22] jwwells42: well i would love to postmortem but lichess still hasnt fixed chat lol... going to refresh till it works for a sec
+[16:27:38] jwwells42: ok i can see it for the moment
+[16:27:38] jwwells42: not anything new, but if i refresh enough times...
+[16:27:54] jwwells42: anyway, i had thought that the bishop pai plus isolated doouble a pawns + isolated c pawn
+[16:27:54] jwwells42: would be enough to compensate for the lost d-pawn
+[16:28:09] jwwells42: but the activity that was just wildly misevaluating
+[16:29:40] jwwells42: *but the activity you got meant that was just wildly misevaluating
+[16:29:56] fatdog216: Wow 25. Bb6 from the computer.  Didn't even cross my mind but looks strong immediately threatening the queen and converging on f7 with ...
+[16:29:56] fatdog216: ...check
+[16:30:26] jwwells42: yeah i saw that a move later but didnt see it there either
+[16:30:41] fatdog216: I got lucky that 28...Rxf2 is working otherwise Rd2 would've just been a blunder.  My own bad play forced me to find the winning idea
+[16:31:12] jwwells42: yeah i realized Bb5 was forcing you to find the win right after i played it
+[16:31:12] fatdog216: Oh yeah now I can seee
+[16:31:27] jwwells42: but the calc diff was too high, i was being outplayed regardless
+[16:31:27] fatdog216: Couldn't see anything from you until refresh
+[16:31:57] jwwells42: yeah lichess is having a bad run lol
+[16:32:13] jwwells42: but luckily we can change the roundness of the UI now
+[16:32:28] fatdog216: I'm surprised by the opening eval from the engine.  I thought I was comfortably better by the time I got e5 in
+[16:32:43] fatdog216: But SF says I'm actually a bit worse at that point haha
+[16:33:13] fatdog216: I can make a study if you still want to post-mortem?
+[16:33:13] fatdog216: Chat might work better there and we can sync
+[16:33:59] jwwells42: yeah i had missed the idea of Bf5 before e6 when i was preparing
+[16:34:45] fatdog216: Usually in these 2. a6 alapin lines it's no good and e6 is needed first but I think with the inclusion of a4 and the queen staying on d5 ...
+[16:34:45] fatdog216: ...it's playable
+[16:35:15] jwwells42: yeah a4 needs to wait till e6 i guess
+[16:35:30] jwwells42: i have to go to work soon so going to suffer through the chat for a bit longer lol
+[16:35:30] fatdog216: Alright
+[16:36:01] fatdog216: I was surprised by Be2 instead of d4 on move 5.  Was that prep to take me out of book>
+[16:36:01] fatdog216: ?
+[16:36:16] jwwells42: not for that reason, but it was prep
+[16:36:31] jwwells42: d4 is too early in a lot of cases
+[16:37:02] fatdog216: Hmm I usually see d4 there and 98% of the masters database play d4 there haha
+[16:37:17] fatdog216: But I don't play e4 so I never play the alapin myself, just against it as black
+[16:37:17] fatdog216: So you may know better
+[16:37:17] jwwells42: yeah Be2 is a newer idea
+[16:37:17] jwwells42: but it is a known thing
+[16:37:47] fatdog216: Interesting, looking to just play d3 only?
+[16:38:03] fatdog216: Because after allowing e5 (which I'm not even sure is correct) you can't play d4 without taking on an IQP
+[16:38:18] jwwells42: yeah there are a few cases where d4 is warranted but basically the iqp is equal but we can be more annoying developing this way
+[16:38:33] jwwells42: because if you play with e6 Nf6 Nc6 you can force the iqp anyway if i am playing d4
+[16:39:03] fatdog216: Wow computer wants me to 0-0-0 on move 13 and pitch the c pawn
+[16:39:19] jwwells42: ahh nice
+[16:39:34] jwwells42: that activity on the d-file that got there eventually ayway
+[16:39:34] fatdog216: Ah e4 wins a piece there
+[16:39:49] jwwells42: o that wil do it
+[16:40:20] fatdog216: I looked at 0-0-0 there briefly but didn't see e4 idea bc didn't notice queen threatening the c5 bishop laterally
+[16:40:20] fatdog216: That's sneaky
+[16:40:50] jwwells42: truuue
+[16:40:50] fatdog216: I like reading the comments on whisper where we're both looking at the same lines
+[16:41:20] fatdog216: Wow I didn't even look at 19...Rb8 but it looks so obvious now
+[16:41:20] jwwells42: with knowing that e6 is the hook for a4, i go d3 instead and on Bf5 i can afford to Nh4
+[16:42:06] fatdog216: Interesting, makes sense
+[16:42:21] jwwells42: yeah Rb8 makes sense but i cant find much fault in the plan you went for
+[16:42:52] fatdog216: yeah looks active
+[16:43:22] jwwells42: 25.Bxf6 was my first thought but i wasnt sure i survive it so i thought i could do more messing with the rooks
+[16:43:22] jwwells42: but ofc i missed the mai ntactic
+[16:43:22] fatdog216: I hallucinated that after rd2 the rook was still cutting off that diagonal so Qxa7 came as a complete shock lol
+[16:44:08] fatdog216: Yeah I was looking at Bxf6 gxf6 Qg3+ there I think
+[16:44:23] fatdog216: Was calculating between Kf8 and Kh8 and hadn't decided yet when Ba3 hit the board
+[16:45:24] fatdog216: I very nearly played 33...Qxc1 thinking Bxc1 Rf1was #
+[16:45:54] jwwells42: there is probably more to mine in terms of ways i could have collapsed more slowly but i will have to come back to that later
+[16:46:10] fatdog216: Funnily enough computer says that line is still winning after 34. e2 instead of Rf1+
+[16:46:10] jwwells42: gg & gl, thank you for the game and analysis!
+[16:46:10] fatdog216: Thanks, same to you!
