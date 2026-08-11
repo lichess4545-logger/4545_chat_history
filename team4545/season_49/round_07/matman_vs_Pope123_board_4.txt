@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/c1MdPvuY
+White     : matman
+Black     : pope123
+Time      : 45+45
+Captured  : 2026-08-11 22:52:10 UTC
+Game ended : 2026-08-11 21:32:03 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[19:08:21] stevenlongs: hmm would f3 e4 be interesting here?
+[19:18:15] jfiras: Good luck matman !
+[19:19:46] pope123: (7...e5) Hi team! - meet Steven, my second
+[19:21:03] stevenlongs: dxe5 qxd1 kxd1 Ng4 Ke1 Nxe5 Bg2...can't defend E4 pawn?
+[19:21:48] pope123: (8.e3) Okay im officially no longer stockfish
+[19:22:03] stevenlongs: yes me and Pope have been working on finding improvements to the Jerome gambit
+[19:25:22] jfiras: (8.e3) Jerome is aware of that ?
+[19:26:07] stevenlongs: it's a secret
+[19:26:22] pope123: (8.e3) Qa5+ Bd2 Bb4 dxe5 Ng4 e6 how do i feel about that
+[19:27:39] pope123: (8...Qa5) I can play Qxe5 then castle quite quickly
+[19:29:10] stevenlongs: f pawn would be hanging in Pope's line if black lets white chop on d2?
+[19:32:28] pope123: (9...Bb4) Im not sure if I like this line as much anymore - 8...exd4 was the vanilla choice
+[19:33:14] pope123: (10.Be2) hmm
+[19:41:52] pope123: (11.a3) How does white defend d4? Bxd2 Qxd2 Qxd2 Kxd2 exd4 exd4 Rd8 Ke3 [Nf5 g3 Ne7+? Kh8] Nbd7 with the idea of Ne6
+[19:47:27] stevenlongs: nice square on e3 for the white knight
+[19:49:29] pope123: (15...a5) I think 14...Re8 was the move, I dont have anything going atm
+[19:54:49] stevenlongs: suppose quick Nc7 and get some time pressure going
+[19:57:52] pope123: (19.Ne3) Im kind of lucky 19.c5 Nc7 still works out, missed it
+[20:02:57] stevenlongs: a5 and Ng4 ideas are well guarded for the time being
+[20:05:59] jcarmody: go, Holiness
+[20:08:32] glbert: go pope123!
+[20:09:02] glbert: fun fact: your pope name can be completely numeric, why not. so pope 123 I should be plausible.
+[20:11:34] stevenlongs: Ne6 is coming....
+[20:13:06] pope123: (20...Nc7) I can't find any ideas either..
+[20:13:51] pope123: (20...Nc7) Maybe white could throw in f3 to play for d5
+[20:14:37] pope123: (20...Nc7) Which im not forced to take
+[20:17:40] stevenlongs: Pope ahead on the clock in the middlegame is some kind of generational type event
+[20:18:25] pope123: (21.Bf1) Ne6 d5 cx cx Nc7 Ra7 and b5 is covered
+[20:19:26] pope123: (21.Bf1) I think that pawn is going to be too weak in general
+[20:20:27] pope123: (22.Bh3) I saw this but discarded it..
+[20:20:43] pope123: (22.Bh3) disregarded*
+[20:23:00] pope123: (22.Bh3) which was a mistake
+[20:25:32] pope123: (22.Bh3) fx is not the end of the world
+[20:26:02] stevenlongs: hmmm Rx and even material but isolated E4 pawn? or am I miscalculating this?
+[20:26:18] pope123: (22.Bh3) Question is how to do it - Rc7 or Rxd4 Bxe6 Rd3+
+[20:29:20] pope123: (24.Rxd3) Backrank doesnt work (thank you lord jesus)
+[20:30:21] pope123: (25...fxe6) I thought I blundered the game for a moment
+[20:32:54] pope123: (25...fxe6) White might be a bit better honestly
+[20:38:44] stevenlongs: what if white just goes Kd2 then Nc3?
+[20:40:31] pope123: (27...Ng4) h3 e3 gxh4 e2 is cool
+[20:47:37] pope123: (28...Ne5) Nc3 Nxc4 Nxe4 who's the happiest?
+[20:58:32] pope123: (32.c5) That doesn't look right to me at first glance
+[20:59:02] pope123: (32.c5) Zugzwang?
+[21:00:49] pope123: (32.c5) Or maybe I can allow Nc4 Nd3 Na5
+[21:11:59] pope123: (35.Ke3) I might be risking too much with e5 Nc4 Nd4 Nd6+
+[21:12:14] pope123: (35.Ke3) also g4+
+[21:21:38] pope123: (37.Ke3) I dont like the k&p endgame
+[21:23:55] pope123: (37...Nf7) Sorry panicked, k&p was better than this lol
+[21:24:10] imen001: very tricky position with little time
+[21:32:18] pope123: oooh 37...h4 is soo strong
+[21:40:40] matman: yes 37...h4 wins
+[21:42:42] matman: I like knight endgames and I’m quite good at playing them, so I fought until the end, although Black was indeed winning.
