@@ -1,0 +1,64 @@
+Lichess game chat log
+Game      : https://lichess.org/imSow9Cq
+White     : karasso
+Black     : kayrosas
+Time      : 45+45
+Captured  : 2026-08-11 20:05:31 UTC
+Game ended : 2026-08-11 18:45:22 UTC
+Messages  : 54
+────────────────────────────────────────────────────────────
+
+[17:00:33] kayrosas: didn't look at too much but this is one of the lines I expected
+[17:01:19] kayrosas: 5...Nf6 should get them out of book I assume. all my games here went Qxd5 instead I think, or maybe some stray cxd5's
+[17:02:35] tomb85: Go Karasso!
+[17:06:24] kayrosas: only looked at this briefly so I'm afraid I'll have to think soon
+[17:08:41] qrs: Go karasso!
+[17:10:27] kayrosas: I think 7.Nc2 cxd5 was the point and just develop. there are many lines where cd5 is long term bad bc my centre is weak after d3-break,
+[17:10:43] kayrosas: but I think with Nc2 I have better piece activity
+[17:16:18] kayrosas: 7...Ng4 looked slightly interesting, but I think I would recall if it was a move? maybe I only looked at Nb3 instead of Nc2 here
+[17:18:19] kayrosas: 7...Ng4 e3 Ne5 Nxe4 doesn't seem to work out for black tho
+[17:19:51] kayrosas: 8...Bc5 looks strong
+[17:21:52] kayrosas: Bc5 d4!?! Be7 Bg5 Be6 Ne3 Nbd7 should be alright
+[17:23:54] kayrosas: there was some line where early d3 was valid so I'm feeling a bit uncertain. but visually I think it looks good for me
+[17:27:43] kayrosas: e3 should be a big concession so I'm confident I'm better now
+[17:28:59] nxn: Bg4 Be2 Bh3
+[17:29:29] kayrosas: 9...Bg4 Be2 Bh3 could be interesting, 0-0 feels more natural tho
+[17:30:00] nxn: the line of d4 is more solid for white then  e3
+[17:30:30] kayrosas: Bg4 Be2 Bh3 dxe dxe Nd5 feels weird to allow
+[17:32:02] nxn: what about dxe5 Bg2 ?
+[17:33:33] apocalyptias: I'm confused on who to root for
+[17:36:05] zolaconcabeza: the winged one if in doubt
+[17:37:06] kayrosas: trying to figure out how my activity pays off in 10.dxe dxe Nd5 Nx Qx. something has to be there, maybe just Re8 and queen is weak after
+[17:39:08] kayrosas: I assumed 10...Bg4 is strong here but maybe not as simple, Qd2 maybe not that bad
+[17:40:09] kayrosas: Bg4 Qd2 Qe6 should be good tho, h3 Bf3 I think is fine, or Bf5
+[17:44:12] kayrosas: bit of a weird spot, 2 moves more (Nc6 Rfd8) and I definitely have a stable advantage, for now there is some weirdness still
+[17:44:58] angborxley: Go karasso!
+[17:45:44] kayrosas: didn't know b4 was a legal move
+[17:52:04] nxn: black miss something from 9.e3 , but can't know what
+[17:54:52] kayrosas: feels like white is trying to play too forcing
+[17:59:26] kayrosas: wondering if I ever should have gone Bh3. seems like nothing but maybe awkward to deal with. not after Bb2 ofc
+[18:02:59] kayrosas: 15... Nx > Bx always, just to not allow anything on c7 and to open the c-file
+[18:03:14] kayrosas: I guess I just put my bishop on e2 and go from there? don't see anything concrete beyond that
+[18:04:31] kayrosas: ok maybe this is just superwinning by itself
+[18:05:47] kayrosas: 18.f3 seems kinda forced, then Rfc8 (not Rac8 so we don't have to deal with Bc5 being a tempo move)
+[18:06:02] zolaconcabeza: this does look superwinning yeah
+[18:21:31] kayrosas: figured they'd try something like this. not sure if winning the queen is that clean even
+[18:22:16] karasso: Bc3 Rxc3 Qxc3 Qxe3 Qc1 Qd4 with Re8 next and i could not find a move for white to stop it
+[18:23:17] karasso: now i will sac the queen if he allows me to. Rc2 Qxc2 dx2 Bxe2 with Kf2 next and i  am losing but the game goes on
+[18:25:04] karasso: on the other hand Bf1 was so stupid, i should have just played Kf2 like i intended in the beginning....
+[18:25:50] karasso: now he will just take on f3...
+[18:27:36] kayrosas: was thinking 21...Be4 Qb5 Qf5 Be2 is a bit pointless, a6 Qxb7 Rxe2 doesnt work I think? so 21...Rac8 much simpler
+[18:29:08] kayrosas: idk why I'm so paranoid in completely winning positions
+[18:29:53] kayrosas: also threatening 22...Rc1 fwiw
+[18:30:39] kayrosas: 22...Be4 should be simple chess
+[18:31:40] kayrosas: Ne4 maybe simpler chess
+[18:32:10] kayrosas: Ne4 Bc5 hm
+[18:32:26] karasso: Bf1 was really bad. i think after Kf2 Rc2 Qxc2 dxc2 Kxe2 there was still something to fight for
+[18:33:57] duty5521: everything wins
+[18:33:57] duty5521: :p
+[18:36:29] kayrosas: I think I found a nice solution
+[18:37:15] kayrosas: 23.Bc5 Qf6 Rb1 Be2!
+[18:39:02] kayrosas: aw
+[18:40:02] duty5521: Qh6?
+[18:43:20] kayrosas: maybe there was fancy Qc4, but not worth the risk
+[18:44:52] duty5521: gg
