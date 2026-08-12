@@ -1,0 +1,99 @@
+Lichess game chat log
+Game      : https://lichess.org/gKAS7kQ7
+White     : handknit
+Black     : razorneck
+Time      : 45+45
+Captured  : 2026-08-12 20:43:24 UTC
+Game ended : 2026-08-12 19:23:13 UTC
+Messages  : 89
+────────────────────────────────────────────────────────────
+
+[17:59:57] handknit: (1...Nf6) let's see what black feels like playing today
+[18:00:43] handknit: (6...d5) looks like I will get to trial 7.e3
+[18:00:58] handknit: (7.e3) c5 and b6 are the moves here
+[18:01:59] handknit: (7.e3) if black plays b6 I have a couple of choices. If black plays c5 it's a bit more straightforward
+[18:02:30] handknit: (7.e3) I think both lines stay around computer zeroes but they can diverge significantly
+[18:03:00] handknit: (8.cxd5) We'll go with this line over Nf3
+[18:03:00] enprisewithease: (8.cxd5) Let's go Razorneck!
+[18:03:15] handknit: (8.cxd5) Black can take back with either the pawn or the N
+[18:04:16] enprisewithease: Appreciate the commentary, HandKnit!
+[18:04:47] handknit: (8.cxd5) From what I remember, the computer prefers Nxd5 but it's less popular because humans don't like just allowing e4
+[18:05:17] handknit: (8.cxd5) pawn takes has had some good results for white but IIRC it's still triple zeroes
+[18:05:33] handknit: (8.cxd5) I find white's setup more familiar in those lines. Other probably do, too
+[18:05:48] enprisewithease: Nice tactics yesterday, semlegesnev. Hey Pineapple!
+[18:06:03] handknit: (8.cxd5) N on e2, pawn on f3, parry the c-file then have better control of the centre
+[18:06:33] handknit: (9.Qc2) N it is
+[18:09:36] handknit: (10.Nf3) I think the right approach is to just take it easy
+[18:09:51] handknit: (10.Nf3) Develop pieces naturally, put a R on c1, go from there
+[18:10:22] handknit: (11...Nd7) My intuition says f5 makes c5 less attractive but I'm not really very sure
+[18:12:08] handknit: (12...Rc8) Thinking about b4 lines first
+[18:12:54] handknit: (12...Rc8) Bd2 Qb3 Rac1 also an idea here
+[18:14:10] handknit: (13.Bd2) One of the things I'm thinking here is that I can be happy with cxd4 exd4 because it opens the e file for me at e6
+[18:14:10] semlegesnev: thank you @EnPriseWithEase !
+[18:14:56] handknit: (13.Bd2) Maybe Rfc1 instead of Rac1, then continue with a4-a5
+[18:18:44] handknit: (17.Rxc1) I feel like this reduction is slightly in my favour
+[18:18:59] handknit: (17...Ne4) Maybe there's just a simply solution for black and it's all nonsense
+[18:20:00] handknit: (17...Ne4) Gotta check if Be1 allows f4 stuff
+[18:23:18] handknit: (18.Be1) I like the idea of Qd4, try to make use of e5
+[18:23:18] handknit: (18.Be1) Dark squares should be my friends here
+[18:29:54] handknit: (19.Qd4) The main idea in my head right now is some kind of Ne5-f3-Bf2
+[18:29:54] handknit: (19.Qd4) But I'm not super confident about pushing f3, softening e3
+[18:30:25] handknit: (19.Qd4) Closing off the B on b7 definitely seems like something valuable
+[18:32:11] handknit: (19.Qd4) One idea is meeting Qg6 with b4.
+[18:32:27] handknit: (19.Qd4) It's a bit risky, basically saying I have enough time in meeting any threat on g2 to first stop Nc5
+[18:32:42] handknit: (19.Qd4) Though I dunno how urgent b4 really is
+[18:32:57] handknit: (19.Qd4) A N on c5 is not so secure
+[18:33:28] handknit: (20.Nxd4) So much for all that
+[18:34:28] handknit: (21.f3) pawns on light squares because that's the colour of the shared bishop
+[18:34:44] semlegesnev: f3 Nd3 e4, Rc7 potentially?
+[18:35:45] handknit: (21...Nd6) Next Q: is it worth playing Bg3 before Kf2
+[18:38:17] handknit: (22.Bg3) I'm a bit antsy about (a) black's g5-f4 idea and (b) my B being a bit tipsy on e5
+[18:40:19] semlegesnev: Is f4 an idea here for black,
+[18:41:50] a3353446: Why not rc8
+[18:41:50] a3353446: Seems good
+[18:41:50] handknit: (23.Kf2) I guess I am threatening to win a pawn here with Bxd6 and Nb5
+[18:42:05] handknit: (23.Kf2) on something like a6 I've also got Nc6 which seems quite decent
+[18:43:06] handknit: (24.Nc6) a6 and b6 soft now
+[18:44:07] handknit: (24...Rc8) So my first thought is that Bxd6 wins a pawn
+[18:44:22] semlegesnev: is a6 hanging?
+[18:45:08] handknit: (24...Rc8) Guess i gotta be live to b5 tricks
+[18:45:38] razorneck: hm not the best game by me
+[18:47:25] handknit: (24...Rc8) I am having trouble finding a way for the bishop out of a6 after b5
+[18:48:26] handknit: (24...Rc8) Bxd6 might still be the best line even if I'm not taking on a6
+[18:50:28] handknit: (26...Bxc6) I think I have a4 as a bail out so I never outright lose the piece
+[18:51:13] handknit: (26...Bxc6) Can I guarantee that the black king can never quite approach?
+[18:51:59] handknit: (26...Bxc6) Got an intervening feline
+[18:53:31] handknit: (27...g5) Okay. I think I make a point of scooting the bishop out immediately.
+[18:54:01] handknit: (27...g5) The alternative is if I want to insert Be5
+[18:54:47] handknit: (27...g5) Pretty sure I can meet Kf6 with f4
+[18:55:17] handknit: (28...Nf6) Okay, so what's the right schematic thinking for this?
+[18:55:32] handknit: (28...Nf6) Generate b4-a4-a5?
+[18:57:04] handknit: (29.Bc7) shake the pawn, see what happens
+[18:58:05] handknit: (30.b3) slightly worried I'm violating the "do not rush" rule
+[18:58:05] handknit: (30...Ke7) And I need to think more about the kingside
+[19:00:07] handknit: (33.Ke2) needed to not blunder a4 Nb4
+[19:03:25] handknit: (34.Kd3) just gradually improve
+[19:04:56] handknit: (35.Kd4) got the idea now of e4-Kc5-a4
+[19:07:44] handknit: (35...Ne7) I am pretty sure I still want to play e4
+[19:08:29] handknit: (36.e4) Not a blunder because on Bxe4 I have Bxe4
+[19:09:15] handknit: (36.e4) Gotta be mindful of Nh4 ideas
+[19:10:01] semlegesnev: I think fxe4 might also work for Bxe4
+[19:10:47] handknit: (36.e4) If I get the time and space, Ke3-f4-g5 is a nice idea
+[19:11:02] handknit: (36.e4) Though there's that pesky Ng6+ in the way
+[19:12:18] handknit: (38.fxe4) h4-Bg3-Bd1 now an idea
+[19:14:50] handknit: (40.bxa4) Guess I should smarten my brain up to wrong corner endgames too
+[19:15:51] handknit: (40.bxa4) smarten up: 40...Nh4 41.Bd1 Bxa4 42.Bxa4+ so no trick
+[19:19:09] semlegesnev: Bxh5 NxB KxB Bxa Bg4 Bb3 h4 and no cover for the pawn by the LSB
+[19:19:24] handknit: (44.Kf6) And my K gets to g7
+[19:19:24] handknit: (44.Kf6) no getting wrong-coloured
+[19:20:41] handknit: (45.e5) I had to double check there wasn't some 44...e5 trick to let black sac the B for the e pawn
+[19:20:56] handknit: (45.e5) This is trivial now
+[19:22:27] handknit: (46.h4) we improve to 1-0 since the tragically hip launched a streaming youtube channel
+[19:22:58] kayrosas: gg
+[19:22:58] semlegesnev: gg!
+[19:23:28] handknit: After I took on a6 I wasn't completely sure what happened after b5
+[19:23:44] handknit: I concluded that I could get my king up, and zone you out from taking the bishop
+[19:23:44] handknit: But I am very not sure
+[19:23:44] robertjackson: gg
+[19:24:14] handknit: Other than that, I wasn't totally certain how to meet f5
+[19:24:29] handknit: But I figured "take it slow, keep pieces, and count on black's pawns being bad"
