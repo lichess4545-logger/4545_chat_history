@@ -1,0 +1,235 @@
+Lichess game chat log
+Game      : https://lichess.org/OgK2Kyiu
+White     : cluffas
+Black     : orionfull
+Time      : 45+45
+Captured  : 2026-08-12 01:32:47 UTC
+Game ended : 2026-08-12 00:12:38 UTC
+Messages  : 225
+────────────────────────────────────────────────────────────
+
+[22:03:24] iwishiweredecent: Good luck guys!
+[22:03:55] iwishiweredecent: ahhhh little center fork action
+[22:05:11] nyanners: black shouldnt go there but its still playable
+[22:05:11] nyanners: but Bxf2 is really really bad
+[22:06:27] nyanners: 4..Nxe5 d4 Bd6 dxe5 Bxe5 Bd3 Nf6 O-O is how black wriggles. Bxc3 is not good
+[22:07:13] nyanners: that said, ive played this position many times. its great bait
+[22:07:28] nyanners: center, bishop pair, and white's king is safe as it turns out
+[22:07:58] iwishiweredecent: wow... i looked away for two minutes and all hell hath broken forth
+[22:07:58] iwishiweredecent: haha
+[22:09:14] nyanners: the rest is technique (move 6)
+[22:09:45] iwishiweredecent: what comes next? Qf6?
+[22:10:00] nyanners: i think Ng6 is the lesser evil
+[22:10:31] nyanners: Qf6 Kg1 is utterly disappointing
+[22:13:33] nyanners: white has done the prepwork
+[22:13:48] iwishiweredecent: Okay hahaha I am so distracted, I thought black had sacrificed a bishop hahah
+[22:14:34] nyanners: white sacrificed a knight first
+[22:20:40] nyanners: now the obvious moves have ran out. moment of truth
+[22:21:56] nyanners: b3 is not what id have thought
+[22:23:12] nyanners: its fine i guess? dont wanna lose control of e3/f4 with Bb2
+[22:30:03] nyanners: also loses sight of Bxh6
+[22:32:51] iwishiweredecent: something is gonna have to give in the center...
+[22:33:06] iwishiweredecent: the tension is really building
+[22:39:42] nyanners: it kinda feels that the first side to get impatient will lose
+[22:39:58] nyanners: if white keeps doing some sorta nothing moves it will be alright
+[22:40:13] nyanners: double on f and something
+[22:40:43] iwishiweredecent: Yeah I am amazed by the patience both sides are showing..
+[22:40:43] nyanners: and after you double on f..... you play Bc1? disappointing
+[22:40:58] nyanners: its still just feeling misplaced on b2
+[22:41:29] nyanners: black has less space and less nothing-moves and thus is worse
+[22:43:46] nyanners: seems black is going for Bb7. i dont like that either
+[22:45:33] nyanners: which of course begs the question what else. Be6 isnt ideal but i would prefer that
+[22:45:48] nyanners: maybe b5 worked because on Nxb5 there would be Nxe4
+[22:46:03] nyanners: but im not sure black even wants to go b4 or whatever. at least it  could be annoying
+[22:46:18] nyanners: but also it could be an example of impatience and black's queenside just collapses
+[22:47:34] iwishiweredecent: Hey what's up Mennonite! good to see ya!
+[22:48:05] iwishiweredecent: it is still only move 15? holy smokes
+[22:48:35] nyanners: both sides are absolutely terrified. i would be too
+[22:49:06] nyanners: funny idea b6 introduces is Ra7 actually
+[22:49:36] nyanners: maybe that was the point?? i like it
+[22:49:51] nyanners: or maybe a5-Ba6. thats more natural
+[22:49:51] nyanners: if a bit optimistic
+[22:51:38] nyanners: ummm fair, now with rook out you dont even need to evaluate Nxb5
+[22:51:53] nyanners: but okay white will defend e4 and im not sure you want b4
+[22:53:55] nyanners: though b5 should be constructive regardless
+[22:54:56] nyanners: opening the file must have been in black's favour
+[22:59:15] nyanners: oof
+[23:00:00] nyanners: couldnt have cleared that diagonal
+[23:00:16] mennonite: Black's elapsed play time is impressive
+[23:00:31] nyanners: sounds like a correspondence bug
+[23:00:46] nyanners: no its not :o
+[23:00:46] nyanners: 25k rapid
+[23:01:01] nyanners: there were some weird things of the sort but i think they were fixed
+[23:01:17] iwishiweredecent: finally the center is ready to explode
+[23:01:17] iwishiweredecent: what is elapsed play time?
+[23:01:32] nyanners: there was this amazing bug with simuls where it'd ramp your play time by entire days
+[23:01:47] nyanners: clearly it was adding up each game
+[23:02:18] mennonite: on one's profile it says how long one has played in the account's lifetime
+[23:02:18] nyanners: you can still see e.g. in lance's profile there's a 3-day playing streak
+[23:02:33] iwishiweredecent: ohhh okay
+[23:02:48] mennonite: haha yeah i see his total
+[23:03:34] nyanners: with such an amount of playtime, black clearly has more fun with chess than i ever did :o
+[23:03:49] iwishiweredecent: lol
+[23:04:04] nyanners: seems like a good guy and not a compulsive tilter.. probably......
+[23:04:04] iwishiweredecent: what country is Cluffas flag?
+[23:04:04] nyanners: thats not a country flag
+[23:04:19] nyanners: you cant use those on flair
+[23:04:50] iwishiweredecent: well that makes sense because I didn't recognize it.. what is it a flag for then?
+[23:05:05] nyanners: so you like flags? name all flags
+[23:05:05] iwishiweredecent: lol
+[23:05:20] iwishiweredecent: *takes a deep breath*
+[23:05:20] nyanners: AHAH
+[23:05:35] nyanners: those are the transgender colors according to my knowledge
+[23:05:51] mennonite: yep
+[23:06:06] mennonite: speaking of flags, i don't quite believe the one on black's profile
+[23:06:37] iwishiweredecent: Ohhhhh okay, that makes sense... I only really knew about the rainbow flag, but I don't know what each color means
+[23:06:52] iwishiweredecent: Hahahah
+[23:06:52] nyanners: you cant believe black is a high ranking official for dprk? yea that sounds unlikely
+[23:07:22] nyanners: surely i wouldnt put up an inaccurate location for myself either
+[23:07:37] nyanners: that's most unsportsmanlike
+[23:08:08] iwishiweredecent: haha yeah I only ever use the exact proper country, state, and local government regalia
+[23:09:09] nyanners: as you should........ allegedly
+[23:10:10] nyanners: is that material back for white :o
+[23:10:55] nyanners: thats a crazy plot twist
+[23:10:55] mrscribbles: (23.dxe5) I'm just checking in now. Why does it look like white long casted on the kingside?
+[23:10:55] iwishiweredecent: yeah I don't see how black can hold on to their material
+[23:11:26] nyanners: your board is mirrored. its very obvious black has played Kb8
+[23:11:56] iwishiweredecent: lol oh Scribbles my friend.. you have missed quite the psychological thriller
+[23:12:42] nyanners: the funny is like
+[23:12:57] nyanners: after Nd7 Bxc6, rook moves, white can threaten mate with e6
+[23:13:28] nyanners: and then i think the exchange has to go
+[23:13:28] iwishiweredecent: yeah the threat of e6 is crazy...
+[23:13:28] mennonite: i'm looking at ...Nh7 here
+[23:13:43] mennonite: which is a horrible move to have to play
+[23:13:43] nyanners: nh7 might well be the lesser evil
+[23:13:58] iwishiweredecent: Nh7 then Bh5?
+[23:14:13] nyanners: like, it gives the exchange back immediately, and black has to be slightly worse
+[23:14:13] mennonite: then after  say e6 f6 Be4, maybe it goes back to f8
+[23:14:44] nyanners: my first reflex is to just take back the material but yeah its worth 5-10 minutes to look for mate
+[23:14:59] nyanners: or mate-ish
+[23:15:45] nyanners: take back the material = Bxc6, theres no counter-pin
+[23:17:16] iwishiweredecent: yeah Bxc6 does seem like a pretty safe path for white...
+[23:18:17] iwishiweredecent: but the temptation to turn up the heat on black's king has to be tempting given white's lack of king safety, or relatively shaky king safety
+[23:18:17] iwishiweredecent: no?
+[23:19:03] nyanners: yea spend 5-10 min on it
+[23:19:48] nyanners: umm this move order is riskier. black may have Ne5
+[23:20:19] iwishiweredecent: yeah why the pre-move?
+[23:20:34] iwishiweredecent: I know it wasn't an actual premove, but to move so quickly?
+[23:20:49] iwishiweredecent: Ne5 looks like a serious issue
+[23:21:35] iwishiweredecent: white should still be able to regain the material though right?
+[23:21:50] nyanners: exchange lite
+[23:22:06] nyanners: 2b+n for 2r
+[23:22:51] nyanners: the other line evened the count, this one just brings it closer if you do play Rxe5
+[23:22:51] nyanners: which is, like, what else
+[23:23:52] iwishiweredecent: Yeah but if white played e6 that fast, were they even calculating Rxe5?
+[23:23:52] nyanners: i think white just missed it entirely
+[23:24:07] nyanners: long think is a sign
+[23:24:23] iwishiweredecent: I think white might be headed for the tank...
+[23:26:09] iwishiweredecent: wait...
+[23:26:55] iwishiweredecent: Rxe5 Nxe5 then what?
+[23:27:10] nyanners: then you trade queens into 2b+n for 2r
+[23:27:10] mennonite: QxN
+[23:27:25] nyanners: and the question is how bad it actually is
+[23:27:25] iwishiweredecent: ahhh okay I was still focused on c6
+[23:27:41] nyanners: seems like regular bad. not terrible
+[23:28:11] nyanners: bishop pair is always some form of potential
+[23:28:26] nyanners: it will be very important to hold on to b3 and white may just have enough to not drop anything further
+[23:28:26] iwishiweredecent: Definitely better that it is 2b + N rather than 2N + B
+[23:29:12] nyanners: yess
+[23:29:42] iwishiweredecent: I would take black here every day and twice on Sunday
+[23:31:29] nyanners: id like my chances vs -100
+[23:31:45] nyanners: both sides XD
+[23:32:15] mennonite: there are plenty of blunders to be made in such a position
+[23:32:30] mennonite: i.e. opportunity
+[23:33:01] nyanners: i think if white just manages to not die immediately it's pretty tough for b
+[23:33:16] nyanners: having the lower value pieces means more freedom to jump around
+[23:33:46] mennonite: yeah I think I would enjoy playing as White more, regardless of the objective strength of the position
+[23:34:32] nyanners: i dont like losing sight of a1. would prefer Bd4 probably
+[23:34:47] iwishiweredecent: hmmm. maybe... but only because that damn bishop pair looks really annoying...
+[23:35:02] mennonite: oh so Bd4 and Nc5?
+[23:35:02] nyanners: Re3 gets a concession here
+[23:35:18] nyanners: Nc5 forced(?) and Ra1 and we might  be getting to dying immediately
+[23:35:48] iwishiweredecent: yeah if black finds Re3 it might get ugly really quickly
+[23:36:03] nyanners: the alternative is to look for a way to take c6
+[23:36:34] nyanners: umm id say Kf2 but this may still be going for Rb5. still tough
+[23:36:49] iwishiweredecent: Why not Bf2?
+[23:36:49] nyanners: you might be right
+[23:37:20] nyanners: though a line like Bf2 Rb5 Nc5 Re5 is def unclear
+[23:37:20] iwishiweredecent: just at least to control the c5 square.. and avoid Re3
+[23:38:05] nyanners: also this is a good opportunity to say that whenever says "unclear" what is meant is "i have no idea what is going to happen"
+[23:38:20] iwishiweredecent: lol
+[23:38:20] nyanners: if you knew what was going to happen, youd continue the line
+[23:38:51] nyanners: works for any piece of chess media
+[23:38:51] iwishiweredecent: well in that case I am pretty sure I should start all my comments with "unclear" because I rarely know what is going on haha
+[23:39:06] nyanners: yeah its easy enough to work it into sentences if you want
+[23:39:37] nyanners: enough linguistic tricks for days
+[23:40:22] iwishiweredecent: yeah I miss the GOAT of linguistic tricks, Danya... such a shame we won't be treated to anymore of his puns
+[23:40:38] nyanners: truuu
+[23:41:23] nyanners: theres also the bell curve of "i dont know" statements, which is related to the dunning-kruger curve, but not that much
+[23:41:23] iwishiweredecent: I am so glad that they have left his channel up, because it is his legacy
+[23:41:38] iwishiweredecent: hahaha dunning-kruger
+[23:42:09] nyanners: like its just fact that very strong players are more likely to say "i dont know" than average ones
+[23:42:09] iwishiweredecent: you are a diamond in the rough my friend
+[23:42:24] nyanners: spoiler: they do know *something*. dont believe it
+[23:42:40] iwishiweredecent: that goes for everything from chess, to politics, to science, and everything, at least in my experience
+[23:42:56] nyanners: it does!!
+[23:42:56] iwishiweredecent: the more you know, the more you realize you know less for sure
+[23:43:26] nyanners: seems white got too much time here
+[23:43:26] iwishiweredecent: I am always wary of anyone that states, categorically, that they KNOW this and that for a fact
+[23:43:41] nyanners: yes actually good life advice
+[23:44:12] nyanners: i really dislike c5 because it seems white just got a stable setup now
+[23:44:27] nyanners: and the bishop might get to attacking c5
+[23:44:27] nyanners: thats exactly how white gets winning chances
+[23:44:57] nyanners: but okay not totally out of the woods yet
+[23:45:13] iwishiweredecent: Yeah now that white's bishop is on the diagonal of it's pawn's defense it seems highly likely that white could coordinate some annoyances
+[23:45:13] nyanners: like, not 31 Bf2 Rc2 Bc4 Rx
+[23:45:28] nyanners: and the pawn is overloaded
+[23:45:43] nyanners: actually i may have underestimated this
+[23:45:43] nyanners: Rc2 and c4 may be quite serious
+[23:45:58] iwishiweredecent: Yeah the knight needs to evacuate it seems
+[23:46:44] mennonite: I'm guessing that's the intention because if not for something like ...Rc2, it's hard to make sense of Re2
+[23:46:44] nyanners: maybe you preempt it now
+[23:47:00] nyanners: Bc4 or Bc7 to commit the rook
+[23:47:15] iwishiweredecent: Nc3?
+[23:47:15] nyanners: nc3 re3 thing
+[23:47:30] iwishiweredecent: ahhh yeah
+[23:48:31] iwishiweredecent: what about Rc2 Nb6?
+[23:48:46] nyanners: maybe forced
+[23:49:02] nyanners: not bad though it gives up on c5 for now
+[23:49:32] nyanners: there is a little chance white gets overstretched on b3 and g2
+[23:51:34] iwishiweredecent: I must say, this is a fun puzzling game to try to figure out without an egine
+[23:51:34] nyanners: longer thinks are scary in this position. i dont see what else you play
+[23:51:49] nyanners: like you cant allow RxPiece
+[23:52:05] nyanners: e.g. Bc7 Rxa4
+[23:52:20] iwishiweredecent: yeah gotta get the knight out
+[23:52:35] nyanners: the longer you think the more likely it is to forget this level 0 stuff
+[23:52:50] iwishiweredecent: maybe the bishop can hold g2 and b3 on the d5 square?
+[23:53:06] nyanners: yes the construction seems barely ok
+[23:57:40] nyanners: well thats sneaky
+[23:57:55] nyanners: i was like "what is even the point of this" and okay if the knight moves theres Rxc4
+[23:58:10] nyanners: a bit artificial but not too unreasonable in these positions without much going on
+[23:58:56] nyanners: this could be dangerous?? like after Bd5 the bishops are lined up
+[23:59:11] nyanners: dangerous for both i guess, something about c5 too
+[00:01:13] iwishiweredecent: Bd5 is forced no?
+[00:01:43] nyanners: probably
+[00:02:14] nyanners: like okay Bd5 and then you have to evaluate Rd2 and/or Ra6
+[00:02:14] nyanners: Ra6 seems more annoying
+[00:02:44] nyanners: Ra6 Nc8 very sketchy but all rook squares are covered
+[00:02:44] nyanners: somehow
+[00:03:00] nyanners: and then Rd2 Bxc5 Rxd5 Ne7+ its a miracle
+[00:03:15] nyanners: yea not this one
+[00:03:30] nyanners: you tried so hard and got so far, etc
+[00:03:45] nyanners: this is as dead as it gets for this kinda position
+[00:04:01] mennonite: in the end, it doesn't even matter
+[00:04:16] nyanners: the presence of the extra pawn makes it too easy
+[00:06:33] iwishiweredecent: yeah this seems pretty hopeless now for white...
+[00:07:49] iwishiweredecent: wait.....
+[00:08:35] iwishiweredecent: ohhhh white's king gets trapped on c4 and white's pawns can create a passer by themselves
+[00:10:06] iwishiweredecent: nevermind I was expecting Kd2 instead of h5
+[00:10:37] nyanners: i wouldnt take the pawn endgame but f5 is a high class way to go about it
+[00:10:52] nyanners: so yeah wp
+[00:12:23] pezzo17: (45...Kd4) lets go orion!
+[00:12:38] nyanners: gg
+[00:12:38] pezzo17: gg
+[00:12:38] iwishiweredecent: gg
+[00:12:38] orionfull: ggs
