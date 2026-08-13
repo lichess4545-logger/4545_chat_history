@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/qMZCUY6r
+White     : banshee3333
+Black     : rskyoz
+Time      : 45+45
+Captured  : 2026-08-13 17:21:07 UTC
+Game ended : 2026-08-13 16:00:58 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[14:38:44] banshee3333: The amount of time he's taking makes me think he might deviate from what he's played in the past
+[14:39:00] banshee3333: I'm expecting ...e6, but ...e5, ...g6 are also moves
+[14:39:30] banshee3333: And he does go for ...e5 haha
+[14:39:30] banshee3333: He's studied a new line
+[14:40:31] banshee3333: No worries. I didn't prep for this specifically, but I have it in my repertoire
+[14:44:04] banshee3333: Considered 10. Nd4, but I don't think I want to take on e6 without castling anyway
+[14:44:50] banshee3333: 9...Be6 is not in my repertoire. I doubt the move, but I don't see a concrete way to take advantage of it yet.
+[14:59:33] banshee3333: (13...Qxc5) There is an alignment of queen and rook, but I don't think I can use it
+[15:02:36] ivanhomeless: LG Rskyoz!
+[15:20:52] banshee3333: Could try lifting a rook and going after the king, or could just force a queen trade and open the f-file, then go after the weak pawns
+[15:33:03] banshee3333: 22...Rg8+ was the thing to check, but I think it's fine
+[15:33:03] banshee3333: ...Rxg2+
+[15:33:49] banshee3333: Absolute worst case there I can trade my queen for two rooks and a pawn
+[15:34:19] banshee3333: But probably I can just take the first rook and run from the second
+[15:35:20] banshee3333: 21...Qc4 22. Qf3 looks good
+[15:36:06] banshee3333: It is important that there is no 21...Be6
+[15:36:51] banshee3333: But even if that didn't hang a queen I regain material with Nxe6 and the rook and queen are forked
+[15:38:38] banshee3333: ok let's check from here. Again, worst case there is Qg3. But I think we can run the king away and be fine
+[15:39:24] banshee3333: Even 23. Kh1 looks fine
+[15:40:55] banshee3333: What could go wrong with kh1. Obv if I don't trade off the attackers or checkmate him my king is stuck in a corner
+[15:41:10] banshee3333: But I don't see how he mates me
+[15:41:25] banshee3333: I'll either take on f7 or bring a rook to the g-file
+[16:00:43] banshee3333: 25. Qe3 wasn't even on my radar until the very end
+[16:01:44] banshee3333: Nice, a perfect game!
+[16:05:02] banshee3333: 25. Nf3 I looked at, but dismissed too quickly. I missed that it prepared to meet ...Qg5 with Rg1
