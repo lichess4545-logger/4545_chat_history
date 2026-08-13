@@ -1,0 +1,18 @@
+Lichess game chat log
+Game      : https://lichess.org/zC3kIDxi
+White     : asimovfoundation
+Black     : immortality
+Time      : 45+45
+Captured  : 2026-08-13 20:55:37 UTC
+Game ended : 2026-08-13 19:35:29 UTC
+Messages  : 8
+────────────────────────────────────────────────────────────
+
+[19:10:06] bufferunderrun: let's go asimov!
+[19:12:23] bufferunderrun: I think 23.Rxd5 works here
+[19:15:26] bufferunderrun: so R7xd5  bxa4 Qa2 exd5 Qxd5 Qxd5 Rxd5 Bf6 Ra4
+[19:17:12] bufferunderrun: black's problem is white's connected pawns on the Q-side
+[19:21:01] bufferunderrun: maybe Qc7 is the better try for black, but still looks grim after Qa8+
+[19:28:53] bufferunderrun: 27.Ba7 looked alright
+[19:32:11] bufferunderrun: gg
+[19:33:12] bufferunderrun: I mean, since Qf8 Rd8
