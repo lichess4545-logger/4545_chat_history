@@ -1,0 +1,58 @@
+Lichess game chat log
+Game      : https://lichess.org/EbYxLUqo
+White     : atrueravenclaw
+Black     : markmarkedymarkmark
+Time      : 45+45
+Captured  : 2026-08-13 23:27:03 UTC
+Game ended : 2026-08-13 22:06:54 UTC
+Messages  : 48
+────────────────────────────────────────────────────────────
+
+[19:06:10] jkoch1: lets go mark!!
+[19:29:01] markmarkedymarkmark: not thrilled with how the opening has gone, I wonder if 8...Qxb2 was the way to go
+[19:33:20] jkoch1: I was thinking about 8...Qxb2 and figured you knew the line and that the pawn was poisoned
+[20:05:34] inter-temporal: (17.Bb5) let's go underdogz!
+[21:32:38] mrscribbles: (45.Be2) Gotta be Nc2
+[21:32:38] mrscribbles: (45.Be2) then Nd4
+[21:32:53] mrscribbles: (45.Be2) well hmm
+[21:33:24] mrscribbles: (45...Nc2) Hard to say what's going on here. Probably white has the better chances I think
+[21:33:39] mrscribbles: (46.a4) well
+[21:33:39] mrscribbles: (46.a4) idk chess is hard
+[21:46:05] ztraynor: Yeah I like white here (not just because they're my teammate)
+[21:49:38] ztraynor: Kg5 and I actually think White can meet f3 with Bxf3! Nxf3 Kf6 and the knight doesn't get back quickly enough
+[21:50:24] mennonite: I think you're right!
+[21:51:25] mennonite: it's a nonintuitive move due to the check, but looks like it was found
+[21:51:55] mrscribbles: (61.Kf6) So does white promote then?
+[21:51:55] mrscribbles: (61.Kf6) I can't see how they wouldn't
+[21:52:11] ztraynor: Oh I didn't even realize it was check lmao and yeah the pawn runs
+[21:52:11] mennonite: so Nh3 at least forces the king up
+[21:53:42] mrscribbles: (61...Nh2) h6!!!
+[21:53:42] mrscribbles: (61...Nh2) hi mennonite
+[21:54:43] mrscribbles: (63.Kf4) OK, this is proving slightly more complicated than I thought
+[21:54:58] mennonite: hello!
+[21:54:58] mrscribbles: (63.Kf4) Also, KQ vs KN can be surprisingly tricky
+[21:57:00] mrscribbles: (66.Kf6) I don't see what black does now
+[21:57:15] mrscribbles: (66.Kf6) You have drawing chances by hoping white screws up if you can get the K and N close together
+[21:57:15] mrscribbles: (66.Kf6) but with them so far apart i don't see how this is salvageable
+[21:58:47] mrscribbles: (66...Kxa4) unfortunately tho, white has opposite colored pawns which is a wel known draw
+[21:59:02] ztraynor: Omg wait I think Black's knight is on the right circuit
+[21:59:32] mrscribbles: (66...Kxa4) As black probably you bail out and try to bring the N close to the K here
+[21:59:47] mrscribbles: (66...Kxa4) If you can centralize both this is a bit tricky to convert
+[22:00:33] ztraynor: No I think it's simpler, just gallop the horsey between f8, h7, g6, and e5. White can't kick the knight out
+[22:01:19] ztraynor: Because White can't cover f8 and g6 simultaneously so Black will always be able to cover g7
+[22:01:19] ztraynor: cover h7 rather
+[22:03:21] ztraynor: Ng5 Kg6 Ne6 h7 Nf8+ is a fork
+[22:03:51] mrscribbles: (69.Kg6) ugh how is this so annoying
+[22:04:22] mrscribbles: (70.Kf6) I thought it was over like ten moves ago
+[22:04:37] ztraynor: The real question is going to be whether White missed something or whether sacking the B just didn't work
+[22:04:52] ztraynor: I'm stunned
+[22:06:23] ztraynor: GG both!
+[22:06:39] mrscribbles: gg, nice save by markedy, must be frustrating for white
+[22:06:39] atrueravenclaw: I missed so many wins
+[22:07:09] mrscribbles: Don't beat yourself up, I thought it was a win too
+[22:08:10] markmarkedymarkmark: I was amazed the knight was able to stop the pawn!
+[22:08:10] atrueravenclaw: It wasn't
+[22:08:25] atrueravenclaw: I blundered with h6 the position was winning
+[22:09:11] atrueravenclaw: I blundered it was winning for white after Nxf3
+[22:09:41] atrueravenclaw: I also noticed during the game after I played exd5 that Qc3 was winning
+[22:10:12] atrueravenclaw: I didn't see the whole line though
