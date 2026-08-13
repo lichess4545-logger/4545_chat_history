@@ -1,0 +1,49 @@
+Lichess game chat log
+Game      : https://lichess.org/qyqW3tsy
+White     : addead
+Black     : morganbp
+Time      : 45+45
+Captured  : 2026-08-13 21:20:20 UTC
+Game ended : 2026-08-13 20:00:10 UTC
+Messages  : 39
+────────────────────────────────────────────────────────────
+
+[18:10:54] handknit: (6.fxe4) got a diemer
+[18:11:09] handknit: (6.fxe4) some kind of turbo-diemer, even
+[18:12:26] handknit: (6.fxe4) not gonna pretend I know what is going on here but addead has reliably been in book in these types of messes
+[18:18:36] handknit: (9.Nf3) I guess we've calmed down to a 'regular' thing of this type
+[18:18:51] handknit: (9.Nf3) White's got open lines, black's hard pressed to develop
+[18:19:06] handknit: (9.Nf3) I feel like if black plays this right white's gonna have no comp but I can appreciate that being hard to do in practice
+[18:20:23] nxn: what the goal of diemer ?
+[18:21:08] nxn: most gambit is to make a quick attack or lead of dev
+[18:21:08] handknit: (9...Nb6) Point things at e7/e6 quickly enough that it is hard for black to castle
+[18:21:24] nxn: here i see black is ok
+[18:21:39] handknit: (9...Nb6) The Carlsen rule of thumb is "if you can castle in two moves, your king is safe"
+[18:21:39] nxn: but black can castle easly 0-0-0
+[18:21:54] handknit: (10.g3) Black is at least 3-4 moves from castling so the king is not safe yet
+[18:22:09] nxn: Carlsen him self can't casle in two moves xD
+[18:22:40] handknit: (10.g3) I agree with you that if black plays this completely correct it's probably no comp for white
+[18:22:55] nxn: Qd5 and castle
+[18:23:10] handknit: (10.g3) But I can appreciate how solving the e pawn and the DSB isn't trivial
+[18:23:10] handknit: (10.g3) and there's gonna be stuff like residual pressure on f7 and b7
+[18:23:25] handknit: (10.g3) The N on b6 is probably a bit misplaced
+[18:23:41] handknit: (10.g3) Like, white's got enough to work with that black has to solve things, even if the solutions are there
+[18:23:41] nxn: you right but still feel there is counter attack for blacks , and  not that easy for white
+[18:25:42] handknit: (11.Bg2) White's probably gonna play Be3 soon and black's gonna have to decide what to do with the Q
+[18:25:58] handknit: (11.Bg2) Again, not like a winning threat for white, but another problem black has to solve
+[18:28:15] handknit: (12.O-O) Okay, I assume white's still in prep here. O-O that quickly is not a move you'd make without knowing the B/g5 is safe
+[18:28:30] nxn: losing a piece ?
+[18:28:45] handknit: (12.O-O) If it's prep I assume it's a planned sacrifice
+[18:29:16] handknit: (12.O-O) 12...Bxf3 13.Qxf3 Qxg5 14.Qxf7+ Kd8 15.Bxb7
+[18:29:16] handknit: (12.O-O) Something like that
+[18:30:01] handknit: (12.O-O) It's kinda like solving a tactics problem. If you know a solution, that's what you'd look at
+[18:30:01] handknit: (12.O-O) If you didn't even know it was a puzzle, a bit harder to navigate
+[18:32:49] nxn: yes goot attack , white know what he do
+[19:01:01] genturgidson: 18.Ne5 is going to be really quite evil, possibly.
+[19:02:17] genturgidson: Blocks with queen but still feels sketchy.
+[19:21:35] handknit: lookin good for white though black’s play is real
+[19:27:10] handknit: as a backstop, the R+4p v RN endgame is probably winning for white, though it would be nice to not need that.
+[19:40:37] handknit: re2 Nc4 Be6 Rxb2 Bxc4 is a cute finesse
+[19:41:07] jfiras: (38...Ra7) R check
+[19:41:38] jfiras: (39.b3) oh that doesn't force a trade the d7 is covered
+[20:04:14] morganbp: Did not expect 2. e4. An opening I'm not familiar with at all. Was outplayed throughout the game it feels like. Well played to my opponent!
