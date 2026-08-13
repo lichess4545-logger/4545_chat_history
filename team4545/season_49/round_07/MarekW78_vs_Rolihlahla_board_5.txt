@@ -1,0 +1,66 @@
+Lichess game chat log
+Game      : https://lichess.org/pB7m37Ed
+White     : marekw78
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-08-13 18:51:36 UTC
+Game ended : 2026-08-13 17:31:27 UTC
+Messages  : 56
+────────────────────────────────────────────────────────────
+
+[16:02:06] robertjackson: good luck Eric
+[16:03:07] pineapplechiffoncake: Go Marek!
+[16:04:54] blang316: Go Marek!
+[16:06:40] rolihlahla: hi Robert  :-)
+[16:17:20] cinemashow: (11.Re3) go Marek!
+[16:17:50] rolihlahla: ?
+[16:21:39] guitarspider: (11...Nd7) go marek!
+[16:58:27] robertjackson: 17...Nxf2 love that idea!
+[16:58:57] scarff: Mmm, maybe Ng3 was a better option? Didn't that win an echange?
+[16:59:43] scarff: Although the queen getting active after Rxe8 Qxe8 is also promising
+[17:00:29] rolihlahla: hi teammates - sorry for the heart attack game once again  :-)
+[17:03:01] robertjackson: Scarff's idea Ng3 looked good
+[17:03:32] timothyha: (19.Qb3) Nd3 and Qe3+
+[17:03:47] timothyha: (19.Qb3) but Qxd5+ is a problem
+[17:06:50] timothyha: (19.Qb3) Nxh3+ seems only move
+[17:09:07] timothyha: (19...Qe3) if this works, it's brilliant
+[17:09:22] rolihlahla: a draw or a huge mess :-)
+[17:09:37] rolihlahla: i guess it's a mess already at this point
+[17:09:37] robertjackson: ...or a win
+[17:10:53] timothyha: (19...Qe3) Qxd5 Bf7
+[17:11:39] handknit: (19...Qe3) Taking on e3 definitely seems best
+[17:12:10] handknit: (20.Qxd5+) Bf7 Qxb7, maybe
+[17:12:55] timothyha: (20.Qxd5+) but Nxh3, Qg1 and Be6 stuff....
+[17:12:55] timothyha: (20.Qxd5+) messy!
+[17:13:11] handknit: (20.Qxd5+) There is no Qg1, the N on f3 defends g1
+[17:13:11] timothyha: (20.Qxd5+) This Ro is a messi mate :-)
+[17:13:26] timothyha: (20.Qxd5+) agree about g1...
+[17:13:56] handknit: (20...Bf7) non-zero chance white just missed Ne4+, though, and that's why we're in this line
+[17:13:56] timothyha: (20...Bf7) Qxd6 wiould be fatal for White...
+[17:15:12] handknit: (22.Kh1) given that black wrote "draw or huge mess" earlier maybe they missed Nf2+ Kh2
+[17:15:43] timothyha: (22.Kh1) Re8 ok?
+[17:15:58] timothyha: (22.Kh1) not ok, too pieces covering f1
+[17:15:58] handknit: (22.Kh1) Re8 doesn't threaten anything. White can just take either of the knights
+[17:16:29] timothyha: (22.Kh1) we threaten Qe1+
+[17:16:44] timothyha: (22.Kh1) if d7 knight is taken with B
+[17:16:59] timothyha: (22.Kh1) so a small chance
+[17:22:34] timothyha: (22.Kh1) Rd8 with Qe7 next then...
+[17:23:05] timothyha: (22.Kh1) we lose the knight on g4 but are still attacking a bit
+[17:24:51] timothyha: (22.Kh1) Nf2+ and Rd8
+[17:26:07] robertjackson: white N and B cover F1 though
+[17:26:53] timothyha: (22.Kh1) in that Re8 line, the B on b5 and N on d2 cover f1
+[17:27:08] timothyha: (22.Kh1) for now Nf2+ keeps the knight and Rd8 protects the d7
+[17:27:08] timothyha: (22.Kh1) Bxd7 Qe7
+[17:27:39] timothyha: (22.Kh1) Black loses a few pawns but it's still messy
+[17:27:54] handknit: (22.Kh1) 22...Nf2+ 23.Kh3 Rd8 24.Bxd7 Qe7 25.Bc6
+[17:28:09] handknit: (22.Kh1) Qe7 doesn't effectively pin the bishop on d7
+[17:28:24] timothyha: (22.Kh1) yes, Bc6 is a good response
+[17:28:40] timothyha: (22.Kh1) you see deeper than me by half move
+[17:28:55] timothyha: (22.Kh1) at least
+[17:29:10] rolihlahla: miscalculated the draw i believe ....
+[17:29:25] timothyha: (22.Kh1) now you only need to move
+[17:29:56] handknit: (22...Bd5) aroo?
+[17:30:11] robertjackson: oops
+[17:31:27] timothyha: gg
+[17:31:27] rolihlahla: sorry teammates ...
+[17:31:58] robertjackson: gg
