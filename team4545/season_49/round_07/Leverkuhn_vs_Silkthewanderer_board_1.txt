@@ -1,0 +1,105 @@
+Lichess game chat log
+Game      : https://lichess.org/EEWyqnoa
+White     : leverkuhn
+Black     : silkthewanderer
+Time      : 45+45
+Captured  : 2026-08-14 23:00:50 UTC
+Game ended : 2026-08-14 21:40:41 UTC
+Messages  : 95
+────────────────────────────────────────────────────────────
+
+[20:03:27] scotchwhisky: Go Leverkuhn!
+[20:12:20] jcarmody: Go Silk!
+[20:14:37] inter-temporal: (6.O-O) go Silkthewanderer!
+[20:15:08] a3353446: hi intertemporal
+[20:24:16] pineapplechiffoncake: Go Leverkuhn!
+[20:36:12] atrueravenclaw: Hi everyone, interest Catalan opening here
+[20:38:13] scotchwhisky: yes this is part of my uncomfortable spot in the Catalan where it's hard to see how to get back the pawn
+[20:38:29] scotchwhisky: although there are probably tactics with black less developed
+[20:51:10] atrueravenclaw: okay after 12. dxe5 black has the weak c4 pawn and white has double e pawns
+[20:55:44] atrueravenclaw: I was thinking about 12..a6 Nc3 Nxc3 bxc3 Qxd1 Rfxd1 Bxg2 Kxg2 and big liquidation. Not sure if that worked
+[20:57:16] mennonite: Go Silk!
+[20:59:18] silkthewanderer: Nd6 Bxd6 exd6 f5 d7+ seems logical and I have no idea how much trouble that is for me
+[21:01:04] mennonite: why ...f5? Why not castle?
+[21:01:19] mennonite: this is admittedly all above my pay grade but in the Lichess database, there's 8 games or so here and no ...f5
+[21:02:36] mennonite: although take that with a grain of salt because the most popular move is the obviously bad Qxd6
+[21:02:51] scotchwhisky: Qxd6 e4 is clutch
+[21:02:51] silkthewanderer: Ah. f5 d7 Kf7 Bxd5 Bxd5 Bg5 is a bit of a pickle
+[21:03:21] mennonite: I genuinely don't get the point of ...f5
+[21:03:37] scotchwhisky: stops e4 maybe
+[21:03:37] mennonite: fair
+[21:04:07] scotchwhisky: but then yeah d7+ is awkward
+[21:05:23] mennonite: ok i see... 14...O-O 15.e4 and if ...Nf6, 16.Be3 is a real problem
+[21:06:55] atrueravenclaw: @Mennonite I think black has to give up a pawn in that line. Maybe they can somehow collect the d pawn? Doesn't look great for black
+[21:11:29] silkthewanderer: Eh, it probably is my best shot. I get plenty drawing chances in that exchange for pawn position
+[21:11:59] silkthewanderer: allowing White a free eternal press with a d6 passer seems less holdable to me
+[21:14:16] scotchwhisky: 15. e4! anyway
+[21:14:47] scotchwhisky: if fxe4, d7+?! and then the f file is open
+[21:15:02] scotchwhisky: black's king feeling a bit exposed here no
+[21:15:48] mennonite: yolo
+[21:16:18] atrueravenclaw: @ScotchWhisky yes if 16. d7+ black cant castle
+[21:16:49] scotchwhisky: I thought that after Qh5+ just g6 but there must be some compensation still
+[21:17:04] qrs: Qe5 maybe?!
+[21:17:19] scotchwhisky: yeah I just thought of Qe5 too
+[21:17:19] qrs: Will attack the rook on h8 whilst also defending the pawn on d6
+[21:17:34] scotchwhisky: and attacks e6 pawn
+[21:17:49] qrs: black will also not hold the e4 pawn
+[21:18:05] qrs: So I think if anyone is better here, its white (or at least i'd rather chosse white)
+[21:18:05] qrs: Also hi former teammates :D
+[21:19:36] scotchwhisky: howdy!
+[21:20:06] scotchwhisky: there it is
+[21:20:06] mennonite: i was looking at throwing in 17.d7+ but Qe5 is certainly stronger
+[21:20:22] scotchwhisky: what about 17...Kd7??
+[21:20:37] scotchwhisky: defends everything but it can't be that good
+[21:21:38] inter-temporal: (17.Qe5) hi a3353446!
+[21:21:38] mennonite: 17...Kd7 18.Qg7+ Kxd6 and I'd be shocked if Black survives
+[21:21:53] inter-temporal: (17.Qe5) not really watching this game. :)
+[21:22:39] atrueravenclaw: 17....Rf8 has to be played right? Probably still losing
+[21:23:10] atrueravenclaw: Oh Qxe6 Kd8 Kc8
+[21:23:25] qrs: What about O-O-O? :D
+[21:23:25] qrs: Ye, lol
+[21:23:25] scotchwhisky: hah was also thinking about long castle
+[21:23:40] atrueravenclaw: 0-0-0!! wow somehow didn't see that!
+[21:23:55] atrueravenclaw: Is black okay now??
+[21:23:55] scotchwhisky: still I would hate to be black here
+[21:24:10] atrueravenclaw: okay there is Qxe6+
+[21:24:10] qrs: Not really sure its good thought but maybe the lesser evil
+[21:24:26] mennonite: "okay" is doing heavy lifting there
+[21:24:56] qrs: But after Qxe6+ Kb8 and black might be actually happy to get the king "out of traffic"
+[21:25:11] atrueravenclaw: So  17. Qxe6 or Bf4
+[21:25:11] scotchwhisky: or Bg5
+[21:25:11] atrueravenclaw: @qrs maybe 17. Bf4
+[21:25:42] qrs: Bf4 I'd intuitively play Nxf4 as black
+[21:25:42] scotchwhisky: Bg5 and black can't go Rd7 because Qxh8+
+[21:25:57] qrs: I do like Bg5
+[21:26:43] mennonite: Bg5 Qxd6 maybe?
+[21:27:13] scotchwhisky: mm yeah
+[21:27:29] qrs: Not easy..
+[21:27:29] scotchwhisky: you'd love to play Be3 but that knight
+[21:29:30] qrs: Bg5 Qxd6 Qxd6 Rxa7 though
+[21:29:46] qrs: Ah sorry - Bg7 Qxd6 Qxd6 Rxd6 Rxa7
+[21:33:04] qrs: Uuuh 19. Qxe4 - interesting
+[21:33:49] qrs: Ye, 19. ... Rd7 is what I was just thinking about - but surely Leverkuhn expected this?!
+[21:34:05] qrs: 20. Rxa7 or Qd4 maybe?
+[21:35:06] qrs: Or just Qxc4, I ll be quiet..
+[21:35:52] qrs: Qxc4 Rc7 21. Qd4 is of course much more accurate..
+[21:37:38] bronasberger: Bh3+ now?
+[21:38:24] qrs: That looks brutal
+[21:38:54] qrs: Isnt Bh3+ ggs? I dont see how black escapes checkmate without giving up a ton of material?!
+[21:40:41] bronasberger: Gg
+[21:40:41] qrs: GG
+[21:41:42] leverkuhn: Hey qrs, good seeing you!
+[21:42:12] leverkuhn: unfortunate opening disaster for my opponent, who keeps getting Black against me
+[21:42:58] leverkuhn: in the lines where Black defends the c4 gambit pawn, 5...Nbd7 ends up being quite inaccurate due to move-by-move considerations
+[21:43:59] leverkuhn: if 10...Nxe5 11.dxe5 Nxc3 12.bxc3 Qxd1 13.Rxd1 Rb8 14.Bc6+ Black just loses
+[21:44:14] leverkuhn: Which is a huge problem for his concept
+[21:44:44] leverkuhn: I think Black should prefer 5...dxc4 if he intends to take that pawn at all
+[21:45:30] leverkuhn: Silk had two previous games with 5...Nbd7 6.0-0 Nb6, and he probably got worried that I was prepared for that and tryed to switch it up
+[21:46:16] scotchwhisky: wow  I went away and the game ended
+[21:47:02] silkthewanderer: I hadnt prepared for a Slav with 4 g3 at all and did try to get something playable far away from a main line or standard structure
+[21:47:32] silkthewanderer: That whole setup was just too flawed though
+[21:47:47] leverkuhn: and you somehow ended up in very concrete lines anyway, which isn't what you were looking for
+[21:48:48] silkthewanderer: Concrete is okay provided they work out in the end
+[21:49:34] leverkuhn: indeed, but concrete when you're out of prep and oppo might not be is scary (at least for me!)
+[21:49:49] silkthewanderer: 4. dxc is something I want to make work so I can simplify my repertoire and transpose more easily
+[21:50:50] silkthewanderer: But the move orders there are pretty unforgiving
