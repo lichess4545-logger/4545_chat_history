@@ -1,0 +1,190 @@
+Lichess game chat log
+Game      : https://lichess.org/9vdVflLe
+White     : guitarspider
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-08-14 11:44:58 UTC
+Game ended : 2026-08-14 10:24:50 UTC
+Messages  : 180
+────────────────────────────────────────────────────────────
+
+[07:01:46] pineapplechiffoncake: Go guitarspider!
+[07:12:26] marekw78: do your best :))
+[08:06:44] berndwind: go spider!!
+[08:23:14] robertjackson: Go kinG_Hunter-1
+[08:25:31] timothyha: (21.Rc1) there's a storm, but it's gathering so quietly
+[08:30:36] berndwind: (22.Rfd1) Absolutely, Timothy! Its like little manouevering here and there until it all goes wild
+[08:30:36] berndwind: (22.Rfd1) or ends in a draw lol
+[08:37:12] robertjackson: (22.. exf4) Tension keeps building
+[08:39:59] timothyha: (25.Be3) sumo chess
+[08:42:01] timothyha: (25...Be6) B can't really go to b6 due to a later Bg5
+[08:42:16] timothyha: (25...Be6) Qc4 is also interesting, but I guess b3 stops it
+[09:06:54] timothyha: (30...Qb5) Rdc1 Bd3+ does it work to save the bishop?
+[09:07:09] timothyha: (30...Qb5) maybe not as Be3 covers c1
+[09:08:10] timothyha: (30...Qb5) Qc2 even, not Rdc1
+[09:10:11] berndwind: (30...Qb5) Qc2 looks pretty good here I think
+[09:10:57] berndwind: (31.Be2) Oh hang on. What about a3 in that position
+[09:12:44] timothyha: (31...Kd7) bishop sac incoming, I think
+[09:12:59] timothyha: (31...Kd7) can't save it
+[09:13:45] timothyha: (32...Rxc4) well this is way more peaceful than the lines with takes on a2 and c3 and e2
+[09:15:01] timothyha: (33.Qd3) Rb4 is probably draw if White trades Qs
+[09:15:16] berndwind: (33.Qd3) I'd try Rb8 here as black
+[09:15:16] berndwind: (33.Qd3) Cheap trick
+[09:15:31] berndwind: (33...Rb8) there it goes!
+[09:15:46] timothyha: (33...Rb8) yeah, Black player also attacks much better than I do
+[09:16:17] cinemashow: (33...Rb8) Bc1?
+[09:16:32] berndwind: (33...Rb8) Yeah I was looking at Bc1
+[09:17:18] timothyha: (34.Bc1) lucky for White Qxb5 is a check
+[09:17:33] timothyha: (34.Bc1) ortherwise Rxc3 Qxb5 Rxc1
+[09:18:03] berndwind: (35.Qxc3) but we take the rook of course
+[09:18:19] berndwind: (35.Qxc3) otherwise we just lose instantly
+[09:18:34] berndwind: (35.Qxc3) the pawn was pinned
+[09:18:34] timothyha: (35.Qxc3) true
+[09:19:35] berndwind: (35...Qe2) Tactical time scramble imminent
+[09:20:05] berndwind: (36.Re1) Re1 or Qd3?
+[09:20:05] berndwind: (36.Re1) Ok there's my answer
+[09:20:20] cinemashow: (36.Re1) Rd2 I thought
+[09:20:20] timothyha: (36.Re1) e4 was hanging
+[09:20:36] berndwind: (36.Re1) that would have hung the pawn
+[09:20:36] berndwind: (36.Re1) yeah
+[09:21:06] berndwind: (36...Qb5) Qf3 here perhaps?
+[09:21:37] berndwind: (36...Qb5) hmm may be a bit risky
+[09:21:52] timothyha: (37.Qf3) yes because of a3 b3 and later Rxb3 stuff
+[09:21:52] berndwind: (37.Qf3) Yup exactly
+[09:22:22] berndwind: (37.Qf3) Well none of it works yet and the move is on black
+[09:25:25] timothyha: (39.Qf3) Rc8 is funny
+[09:25:40] timothyha: (39.Qf3) with Qc2+
+[09:25:56] berndwind: (39...Rc8) yup I don't think I'd have taken that "free" pawn either. The check can always be blocked by the bishop
+[09:26:26] timothyha: (39...Rc8) these two will try to trick each other
+[09:26:41] timothyha: (40.a3) time is level now
+[09:26:41] berndwind: (40.a3) Yup mate threat imminent
+[09:26:57] berndwind: (40.a3) I did notice that re time!
+[09:29:14] berndwind: (41...Rb8) Rf1?
+[09:29:29] timothyha: (41...Rb8) the only times when the h pawn can be taken is when the rook is not protected by Q
+[09:31:15] timothyha: (42...Rb3) now it's a perpetual in the air
+[09:31:31] berndwind: (43.Qe2) I think Rf1 even here looks good
+[09:31:46] timothyha: (43.Qe2) I don't know about this endgame now
+[09:32:01] timothyha: (43.Qe2) White can lose both g and h
+[09:32:01] berndwind: (43.Qe2) Ok but this gives up the g pawn
+[09:32:01] berndwind: (43.Qe2) Yeah that's what i was thinking
+[09:32:01] timothyha: (43.Qe2) and e is on a light square
+[09:32:17] timothyha: (43...Qxe2) Black actually has a good chance swapping Qs now
+[09:32:32] berndwind: (43.Qe2) I liked Rf8
+[09:32:47] berndwind: (44...Rxg3) I guess Rh2 has to be the move
+[09:32:47] timothyha: (44...Rxg3) this endgame is so pleasant now
+[09:33:02] timothyha: (44...Rxg3) Rh2 Rg4 wins another pawn
+[09:33:02] berndwind: (44...Rxg3) or he plays Rh3
+[09:33:18] berndwind: (44...Rxg3) but then the e pawn is in trouble
+[09:33:33] timothyha: (45.h5) nah, this looks sad
+[09:33:48] timothyha: (45.h5) Rh3 and Bf8
+[09:34:03] timothyha: (45...Rg1) somebody has sadistic tendencies
+[09:34:03] berndwind: (45.h5) yeah ok he has h3 and for now the pawn is protected
+[09:34:03] timothyha: (45...Rg1) Rg1 feels like it
+[09:34:19] berndwind: (45...Rg1) good move
+[09:34:19] timothyha: (46.Rc2) because Bg5
+[09:34:34] timothyha: (47.Kb1) liquidation time
+[09:34:49] drgarras: black can choose between getting the e or h pawns, not sure what is the best option
+[09:35:04] timothyha: (47.Kb1) win h and be safe, I think
+[09:35:35] berndwind: (47...Ke7) Oh man this is very unpleasant for white now
+[09:35:50] berndwind: (47...Ke7) there are really no moves
+[09:36:05] timothyha: (48...axb3) now Black can't liquidate
+[09:36:05] timothyha: (48...axb3) two flank passers
+[09:36:36] cinemashow: (49.Rc7+) Kd8 b2
+[09:36:36] timothyha: (49.Rc7+) still 3-way game
+[09:36:51] cinemashow: (49.Rc7+) no
+[09:36:51] cinemashow: (49.Rc7+) i'm wrong
+[09:37:52] berndwind: (49.Rc7+) yup really seem wide open now
+[09:38:22] timothyha: (49.Rc7+) I'd go Be6 and Rh1 and swap Bs
+[09:38:22] berndwind: (49.Rc7+) nice move from white, the b4 push. I looked at it and rejected it,  but actually looks good
+[09:38:22] timothyha: (49.Rc7+) then it's 3 vs 2 and less risk
+[09:38:38] timothyha: (49.Rc7+) but maybe there's a better way of converting the extra pawn
+[09:39:08] cinemashow: (49...Kf6) don't think Black should liquidate now?
+[09:39:23] timothyha: (50.Kb2) at least the Bs
+[09:39:38] timothyha: (50.Kb2) can't do with all pieces, as pawns run
+[09:41:40] timothyha: (52.Rc4) d5
+[09:41:56] timothyha: (52.Rc4) no Rc6 checks
+[09:42:11] cinemashow: (52.Rc4) d5
+[09:42:56] cinemashow: (53.a4) Rg3 seemed slow?
+[09:43:42] timothyha: (53...Ke6) what a tough endgame to play in low time
+[09:43:57] timothyha: (53...Ke6) objectively looked better for Black at the start, but hard to play it out precisely
+[09:44:58] cinemashow: (53...Ke6) Rb4?
+[09:45:14] timothyha: (53...Ke6) nah, it's a5 and Ra4 I think
+[09:45:29] berndwind: (53...Ke6) Why not just march the pawn down the board?
+[09:45:29] berndwind: (53...Ke6) yeah
+[09:45:29] timothyha: (53...Ke6) Black is too slow and the h pawn is a great decoy
+[09:45:29] cinemashow: (53...Ke6) yes
+[09:45:44] timothyha: (53...Ke6) I wanted to chop the h pawn a loooong time ago for this reason
+[09:46:45] timothyha: (54...Rh3) Black has to hope for f5 and two pawns rolling as counterplay
+[09:47:46] cinemashow: (54...Rh3) a6
+[09:47:46] berndwind: (54...Rh3) Ok so push the a pawn, and is Rxh5, play Rc8
+[09:48:01] timothyha: (54...Rh3) yeah that wins
+[09:48:32] timothyha: (55...Rxh5) but Kd7 last hope
+[09:49:02] timothyha: (57.a7) now it's a race
+[09:49:17] timothyha: (57.a7) f5 now I guess
+[09:49:17] berndwind: (57...f5) yup
+[09:49:33] timothyha: (57...f5) the Sicilian pawns finally rolling
+[09:51:19] timothyha: (59...d5) a funny "pawn up" endgame
+[09:51:19] berndwind: (59...d5) haha
+[09:51:34] timothyha: (59...d5) looks like a draw but intense for us slow calculators
+[09:51:50] berndwind: (59...d5) This is the kind of position I could look at for a lot more time than they have on the board
+[09:51:50] berndwind: (59...d5) yup
+[09:52:05] timothyha: (60.Kc3) requires a mathematical proof
+[09:52:20] timothyha: (60.Kc3) right now Rh3+ and Ra3
+[09:52:20] timothyha: (60.Kc3) I think White can easily misstep here
+[09:52:20] cinemashow: (60.Kc3) don't understand that
+[09:53:21] berndwind: (62.Rd7) Ok now it looks drawish
+[09:53:21] timothyha: (62.Rd7) not really
+[09:53:36] berndwind: (62.Rd7) But I might have played Kd2 instead
+[09:53:36] timothyha: (62.Rd7) Black rook can participate in checks and come from behind the a pawn
+[09:53:51] timothyha: (62.Rd7) and behind the a-pawn it can help the checkmate attack
+[09:54:37] timothyha: (64...Ra8) rook on d7 is sad
+[09:54:52] timothyha: (65.Re7) this is sadder than Rb4+
+[09:55:08] timothyha: (65...e4) White also has things like Rg8 and check from there
+[09:55:38] timothyha: (66.Ke2) Rh8
+[09:55:38] berndwind: (66.Ke2) It can be a melancholic rook as long as it doesn't bring about a downfall
+[09:55:38] timothyha: (66.Ke2) check and Ra2
+[09:55:53] timothyha: (66.Ke2) I think R->h8->a2 wins for Black
+[09:56:39] berndwind: (66...Rh8) what if on Rh8, I play Rh7?
+[09:56:39] timothyha: (66...Rh8) well you can :)
+[09:56:54] timothyha: (66...Rh8) its a great reply
+[09:57:09] drgarras: i was also thinking about Rb7
+[09:57:25] timothyha: (67.Rb7) but missed
+[09:57:25] timothyha: (67...Rh2+) now Rh2 and Ra2
+[09:57:25] berndwind: (67...Rh2+) yeah this looks mating now
+[09:57:40] berndwind: (68...Ra2) ouch
+[09:57:55] timothyha: (68...Ra2) your Rh7 was a star reply
+[09:58:10] berndwind: (68...Ra2) Much easier to find sipping an iced latte, chilling on the couch
+[09:58:26] timothyha: (68...Ra2) I am curious is my plan a5 Ra4 was ok
+[09:58:41] timothyha: (68...Ra2) as White's rook chose a wrong path
+[09:59:42] timothyha: (69.Re7) this game has been going for three hours!
+[09:59:42] timothyha: (69...Ke3) what a show
+[09:59:57] berndwind: (69...Ke3) yup epic game
+[09:59:57] berndwind: (69...Ke3) So tense
+[10:00:27] berndwind: (70.Rh7) these board ones...
+[10:00:27] timothyha: (70.Rh7) Kd3 suffices here
+[10:01:59] timothyha: (71...d4) sumo chess in middlegame, sumo-level slips in the endgame
+[10:02:44] timothyha: (71...d4) people with simpler thoughts would have put the rook behind the a pawn a long time ago
+[10:03:30] timothyha: (72.Rh3+) Ke2 d3 d2
+[10:03:45] timothyha: (72...Kd2) Rh4 :-)
+[10:04:01] timothyha: (73.Rh4) I know it's false hopes but fun
+[10:04:31] berndwind: (73...Kd3) ouch. This puts that hope to rest
+[10:04:31] berndwind: (73...Kd3) If check, just e3
+[10:06:18] timothyha: (74...e3) Rh8 :)
+[10:09:20] timothyha: (76.Kg3) d3 and Rd4 kicks that king away
+[10:09:20] timothyha: (76.Kg3) Ra4+
+[10:09:51] timothyha: (76.Kg3) Re4 Rxa7 and we have another endgame lesson :-)
+[10:10:21] timothyha: (76.Kg3) but it won't be long with Rf7+
+[10:12:38] timothyha: (77.Re4) bridge building accelerated
+[10:12:54] timothyha: (77.Re4) Rxa7 Rxd4 Re7
+[10:14:40] timothyha: (78...Rg7+) Kf2 next I guess
+[10:25:05] berndwind: gg both
+[10:25:05] berndwind: Very rich game
+[10:25:05] cinemashow: gg
+[10:26:06] guitarspider: I think the pawn was too far advanced once we were down to one
+[10:26:52] guitarspider: Also I thought the pawn endgame after Rxc1 Kxc1 Kg5 a5 f5! was losing for me, but it's easy to miss something there.
+[10:27:22] robertjackson: gg
+[10:28:08] guitarspider: thanks for all the comments, I'll have to go through them once they're up on the website :)
+[10:28:38] timothyha: gg
+[10:30:09] timothyha: that endgame with 2v1 and the a7 pawn, a draw!  Interesting
+[10:30:25] timothyha: but I guess that's the rook on 7th not letting the rook on 8th out
+[10:30:25] guitarspider: I thought it should be, but it's tough to defend. Very easy to go wrong.
