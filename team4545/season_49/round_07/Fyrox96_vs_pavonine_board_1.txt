@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/9VPvraPa
+White     : fyrox96
+Black     : pavonine
+Time      : 45+45
+Captured  : 2026-08-14 22:41:31 UTC
+Game ended : 2026-08-14 21:21:22 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[19:04:48] pavonine: definitely not prepped for 1.c4 so well done. TRying to remember some old setups but that's out of my head
+[19:13:11] time_lord19: Bring it home fyrox
+[19:46:57] versaumnisgrund: go Fyrox
+[19:49:45] feet_barbie: (13...f6) go pavo9
+[20:26:48] pavonine: was expecting 20 Na1. I thought I can just play Kxf6 here?
+[20:35:41] pavonine: saccing the pawn to keep his knight shut out, hope it works
+[20:38:59] atrueravenclaw: interesting imbalance here two pieces for rook and 2 pawns
+[20:39:14] atrueravenclaw: also passed e pawn
+[20:40:00] grzybozbur: that bh3 though
+[20:40:15] atrueravenclaw: after 25...Rf8 white has the material but difficulty bringing his knight into the game.
+[20:40:30] atrueravenclaw: Nc6 incoming from black
+[20:40:46] grzybozbur: i'd be tempted to just sac rf1 to get rid of bh3
+[20:41:16] grzybozbur: white doesn't really have any play for the piece
+[20:41:31] atrueravenclaw: yes black's plan after 25..Rf8 is Nac6 to Ne5 to Nf3+
+[20:42:17] atrueravenclaw: also could play g5 to try to open the king
+[20:42:17] grzybozbur: i wasn't even looking at lines, white just has no pieces in play
+[20:43:18] atrueravenclaw: White's queen is in trouble too. g5 looks like only safe square after Nc6
+[20:43:33] atrueravenclaw: vulnerable to Nf3+
+[20:44:04] atrueravenclaw: okay after 26. Qg5 maybe idea is Nc6 e5
+[20:44:49] atrueravenclaw: Maybe something like 26...Nac6 e5 Nf5
+[20:45:05] grzybozbur: i like the knight on a5
+[20:45:05] grzybozbur: stops any counterplay
+[20:45:35] atrueravenclaw: I think white played Qg5 to meet Nc6 with e5
+[20:46:21] grzybozbur: i'd just keep the knight on a5 and play with other pieces
+[20:47:06] atrueravenclaw: I think Nc6 e5 and either Nf5 or Rf5 looks good for black
+[20:48:23] atrueravenclaw: wow 26..Rf3 didn't consider that
+[20:48:23] atrueravenclaw: going after d3
+[20:52:26] grzybozbur: well, by playing with other pieces i didn't mean bh3
+[20:52:57] grzybozbur: black has ne7 that wants to join, why misplace the bishop instead?
+[20:53:42] atrueravenclaw: okay so now 30...Nc6 going to e5?
+[20:54:28] grzybozbur: makes sense
+[20:55:44] pavonine: f4 Nd8 with Ne6 to trap the queen? no idea, tricky game
+[20:55:59] pavonine: oh wait then he just has Wd5 lol
+[20:56:45] grzybozbur: ok, now bh3 and white will never be able to play f4
+[20:57:00] grzybozbur: no, i mean bf3, not h3
+[20:57:31] grzybozbur: you can even trade it for the knight there, white seems doomed
+[20:57:31] atrueravenclaw: is there some way to get Ne5 without f4
+[20:58:16] grzybozbur: after bf3 black has mate threats on g2
+[20:58:32] grzybozbur: ng2 isn't going anywhere
+[20:58:47] grzybozbur: i mean, it can go to e1 to trade on f3
+[20:58:47] atrueravenclaw: 31...Bf3 Ne1 maybe
+[21:00:49] atrueravenclaw: so 32. f4 seems like an important candidate move. Is it okay?
+[21:01:04] grzybozbur: i think it's the only way to get any counterplay
+[21:01:04] atrueravenclaw: If you don't play f4 Ne5 comes
+[21:01:50] atrueravenclaw: Ne5 is actually a double threat too Nf3+ and Nxd3
+[21:02:51] pavonine: rf3 was way better
+[21:02:51] pavonine: now f4 i think
+[21:03:06] atrueravenclaw: 32.f4 seems like the only move!
+[21:04:07] atrueravenclaw: okay now with f4 played how is black breaking through
+[21:05:38] grzybozbur: i don't know, i'm just here to complain
+[21:07:40] atrueravenclaw: I guess there's only 2 breaks b5 and g5
+[21:08:10] atrueravenclaw: so maybe find a way for b5? Something has happened. I though black was doing well before f4
+[21:08:56] grzybozbur: i liked the knihgt better on h6, and the bishop on h3
+[21:09:11] atrueravenclaw: Or black could sac a minor piece for some pawns that might be most practical. They'd be down an exchange
+[21:10:12] grzybozbur: i don't understand bf3, if black trades that bishop, white will no longer be afraid to open the diagonal with e5
+[21:10:28] grzybozbur: the rooks get into the game
+[21:13:30] grzybozbur: why is everyone going backwards?
+[21:24:55] akristjansson: Tricky ending there, blunders rarely happen alone
+[21:25:56] pavonine: honestly could not see the continuation after 20.Na1
+[21:26:42] grzybozbur: it's difficult to find a plan for white after na1 though
+[21:26:57] grzybozbur: after the sac black at least has to answer some questions
+[21:26:57] fyrox96: could have pushed b4 maybe after Na1
