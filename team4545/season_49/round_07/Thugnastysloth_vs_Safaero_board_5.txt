@@ -1,0 +1,100 @@
+Lichess game chat log
+Game      : https://lichess.org/n7l60mrR
+White     : thugnastysloth
+Black     : safaero
+Time      : 45+45
+Captured  : 2026-08-14 01:39:01 UTC
+Game ended : 2026-08-14 00:18:54 UTC
+Messages  : 90
+────────────────────────────────────────────────────────────
+
+[23:40:49] sidfandx: Nxd5!
+[23:45:54] jg777: Hey sidfan! I hope life has been treating you well recently! :)
+[23:46:09] jg777: Nxd5 was a great move
+[23:46:40] sidfandx: Hey Jordan!
+[23:47:41] sidfandx: Yeah I'm doing well. I hope you too
+[23:47:56] jg777: Okay I am thinking Ba3 or something here? We don't need to be pinned down with Re8
+[23:48:26] jg777: I am currently ill, but I hope to recover soon. I got a new broadcasting app I am working on finishing development!
+[23:48:41] jg777: And I need to do live tests now, so need to get my voice back for that
+[23:49:12] sidfandx: Get well soon!
+[23:49:12] sidfandx: That sounds exciting
+[23:49:42] jg777: It is! And so much is automated in it, it'll be so much easier going forward!
+[23:50:28] jg777: Good, Ba3 Bb2 or something perhaps- but not getting pinned with Re8.
+[23:51:29] sidfandx: Chaotic position
+[23:52:15] jg777: Yeah. Nf6 looks like an odd move, but maybe it can work.
+[23:52:30] jg777: Although I like Re8 now
+[23:52:30] jg777: yeah, lets tango on the E file and trade stuff a bit
+[23:52:45] sidfandx: White looks a bit better
+[23:53:15] sidfandx: But black has some chances too
+[23:54:01] jg777: Yeah I like the bishop pair here, I would be keen to trade off one of them if I was black
+[23:55:32] sidfandx: Yes I like them too. Especially because the board is quite open
+[23:57:04] jg777: Yeah, trade some pawns off or something and those bishops turn into monsters. But Ng4 is the threat here
+[23:57:19] jg777: Got to decide how to handle that at some moment
+[23:57:19] sidfandx: Taking on h5 seems kinda dangerous making Ng4 even stronger
+[23:57:34] jg777: Yeah Qxh5 looks insane
+[23:57:50] jg777: I mean immediately Ng4 and it looks to be over, Qg6+ Kf8 and then what
+[23:58:05] sidfandx: But after f6 it might be playable
+[23:58:50] sidfandx: We can't trade queens there sadly
+[23:59:21] sidfandx: Because the knight is a true octopus
+[23:59:21] jg777: g3 maybe? Or Rxe8+ then g3? It looks like black should be winning  there, but maybe they don't have a move needed
+[23:59:36] jg777: Oh wait g3 isn't solution either as Qxf2+.
+[23:59:36] sidfandx: Ba3 back
+[23:59:51] jg777: Oh yeah, we have Ba3+
+[00:00:07] jg777: Well then that works
+[00:01:08] jg777: so Qxh5 is playable after all
+[00:01:08] jg777: Now... f5
+[00:01:23] jg777: with Ng4 incoming threat
+[00:01:53] sidfandx: Trade rooks and Be8 might save it
+[00:02:09] jg777: Ah okay, that is a cleaner way
+[00:02:39] sidfandx: Nvm
+[00:02:39] jg777: Although we have Rxe1+ Rxe1 Be8 Rxe8?
+[00:02:54] sidfandx: Yeah
+[00:02:54] sidfandx: Something like that
+[00:03:40] sidfandx: It all feels a bit dangerous with the queen coming to g6
+[00:04:10] jg777: Yeah I think f5 here
+[00:04:26] jg777: wait it is pinned
+[00:04:41] jg777: Bb2 I forgot you, sorry mate
+[00:04:56] sidfandx: Yes, but Bf5 might work
+[00:05:27] jg777: I think you have to play Rxe1+ first then Bf5, otherwise Bf5 Rxe8
+[00:05:42] jg777: Hi Mennonite
+[00:05:57] mennonite: hi jg and sid
+[00:05:57] sidfandx: Hello
+[00:06:12] jg777: I am playing chess and pretending Bb2 doesn't exist- I called for f5 here :D
+[00:06:43] jg777: So the new idea is Rxe1 then Bf5, but Re7+ seems to also bust that
+[00:07:13] sidfandx: Nf5 might be really strong
+[00:07:28] jg777: So now I am thinking Nf5, which is sad, but may be necessary
+[00:07:28] safaero: feel like there is somenthig but can't see anything better than Nf5
+[00:07:28] jg777: Yeah, not on g4, but still hits queen
+[00:07:44] safaero: but then g3 maybe?
+[00:07:44] sidfandx: How do you defend h2 after Nf5
+[00:08:14] mennonite: g3?
+[00:09:15] jg777: Yeah you have to play g3, and then maybe Rxe1+ Rxe1 Qxf2+ Kxf2 Rxh5
+[00:09:30] mennonite: how is Qxf2+ possible?
+[00:09:30] jg777: Although I still prefer white there, those bishops would be insane
+[00:09:45] mennonite: oh I see a desperado?
+[00:10:01] jg777: Yeah, because you pick up white's queen on h5 after
+[00:10:16] jg777: so you win a pawn, take h5, then hold your breath I guess
+[00:10:16] sidfandx: g3 Qb4 might also be something
+[00:10:46] jg777: Qb4 would be tricky
+[00:10:46] mennonite: if g3 Qb4, white has Qxg5+
+[00:11:02] jg777: Oh Qxg5, nice
+[00:11:17] sidfandx: Time to sleep lol
+[00:11:17] jg777: Oh we may see it!
+[00:11:47] safaero: sigh missed qxg5
+[00:12:03] jg777: This looks weird, because Qxg5+ Kf7 and I don't know about the follow up
+[00:12:18] mennonite: then Qxf6+ and white can repeat at minimum
+[00:12:33] safaero: not thinking clearly today at all
+[00:12:48] jg777: AH yes- see Bb2 again! I keep forgetting that bishop does stuff! :D
+[00:13:03] jg777: Good thing that bishop wasn't on my team, he'd feel left out
+[00:14:50] sidfandx: It's a lot more fun to blunder someone else's pieces
+[00:15:05] mennonite: now the rook falls too... but is there mate?
+[00:15:20] sidfandx: Looks like every road leads to checkmate here
+[00:15:51] mennonite: though honestly just 29.Bc3 should be good enough for resignation
+[00:16:21] jg777: Yeah
+[00:18:54] jg777: Wild game, thanks all!
+[00:18:54] jg777: Fun to watch for sure, was close there until the end with Qb4
+[00:20:10] sidfandx: Nxd5 was a nice find
+[00:20:40] safaero: very chaotic
+[00:22:27] sidfandx: Gg
+[00:23:43] safaero: wow 25...Qb4 was horrible move
+[00:24:28] safaero: gg
