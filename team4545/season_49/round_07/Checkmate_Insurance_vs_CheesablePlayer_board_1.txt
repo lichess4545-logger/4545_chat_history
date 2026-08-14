@@ -1,0 +1,120 @@
+Lichess game chat log
+Game      : https://lichess.org/Jc1o1PZE
+White     : checkmate_insurance
+Black     : cheesableplayer
+Time      : 45+45
+Captured  : 2026-08-14 04:01:09 UTC
+Game ended : 2026-08-14 02:41:02 UTC
+Messages  : 110
+────────────────────────────────────────────────────────────
+
+[00:04:56] checkmate_insurance: a5 is the first move out of my prep
+[00:04:56] checkmate_insurance: not sure how good it is immediately b5 d4 looks appealing
+[00:09:30] checkmate_insurance: if b5 Ne7 d4 exd4 cxd4 d5 e5 Ne4 Bd3 f5 looks a little annoying
+[00:10:00] checkmate_insurance: maybe i can be better with the weak light squares in his kingside
+[00:22:57] checkmate_insurance: weakening f7 feels wrong to me
+[00:23:12] checkmate_insurance: i already was looking at Ba3 ideas but it feels especially strong now that the rook is tied down
+[00:24:13] checkmate_insurance: or maybe i can just trade and then Ba3
+[00:24:59] checkmate_insurance: does this just win a exchange?
+[00:27:31] sidfandx: There is c5 there but that does not look pretty
+[00:34:22] checkmate_insurance: i think he has to sack a piece now or i will be able to defend comfortably
+[00:34:37] checkmate_insurance: i think i'm winning after the sack on h3 but it is still scary
+[00:37:10] sidfandx: I don't see the follow-up to sacking on h3
+[00:42:29] asdfjkl1: I don't think he's winning after the sac lol
+[00:44:46] verdigenero: i think black has sufficent counterplay for the pawn
+[00:45:02] verdigenero: also whites pawn structure isnt too healthy
+[00:46:33] cheesableplayer: I feel like damaging the pawn structure for white is sus
+[00:48:04] cheesableplayer: allowing Nc5 is crazy imo
+[00:48:19] cheesableplayer: i finally learn how to type in spectator chat
+[00:49:51] cheesableplayer: Ng3 is striking me more and more with the mindset of "he can do that?" I dont see anything wrong with it completely but still!
+[00:50:21] asdfjkl1: fair, Ng3 looks wrong
+[00:52:08] cheesableplayer: there are many something on g4 ideas here
+[00:52:38] cheesableplayer: GededegdadgedegadagoIbeenmarriedalongtimago
+[00:52:54] verdigenero: i think black might be better now
+[00:52:54] verdigenero: after ng4
+[00:53:09] checkmate_insurance: i don't think Ng4 is good
+[00:53:39] verdigenero: im not sure the white pawn structure is in shambles
+[00:54:40] verdigenero: after ng4 hg4 qh4 kg1 qxg3
+[01:00:00] asdfjkl1: yeah
+[01:00:15] verdigenero: nd3 doesnt look right
+[01:00:30] verdigenero: it stops any potential sacrifice ideas with the knight on e5
+[01:01:01] asdfjkl1: i think this is also good
+[01:04:34] verdigenero: also i think nd3 is wrong because the knight probably could go t o e6 and later g5
+[01:07:52] verdigenero: black is playing this so badly how is he an NM
+[01:08:53] verdigenero: my bad sorry for ragebaiting you :)
+[01:10:55] verdigenero: CheesablePLayer should be rated 1100
+[01:11:10] verdigenero: hes so bad at rapid
+[01:13:27] verdigenero: no hes actually good
+[01:13:42] verdigenero: im just messing around dont worry guys
+[01:21:49] checkmate_insurance: Nf7 is a funny idea
+[01:21:49] checkmate_insurance: to threaten Rxf6 Qh6
+[01:22:05] checkmate_insurance: not sure if it's good if he ignores it though
+[01:22:50] checkmate_insurance: i think just Nf5 and trying to get my queen or rook on the h file should win
+[01:24:52] checkmate_insurance: Rf4 looks clean
+[01:27:55] checkmate_insurance: i think he should have gone for gxh6 i win back the piece after Rf6 Ng6 Qxd3 but i think this position is much worse than that one
+[01:28:10] checkmate_insurance: his king can't really escape the h file
+[01:31:28] checkmate_insurance: i think the point of Qc7 is Qd1 allows g6 but Rf4 should still work
+[01:33:45] checkmate_insurance: nvm Rf4 Ng6 before capturing works
+[01:37:49] checkmate_insurance: maybe I still need Rf4 and i just go Rg4 Rg3 since his knight would get stuck on g6 then i can go for Qd1/Qe2
+[01:41:07] checkmate_insurance: idk what i've been calculating i don't think any of this works
+[01:43:39] checkmate_insurance: i feel like one of the lines i calculated must have worked in a way i didn't see
+[01:43:55] checkmate_insurance: this positions seems too good to not have some crushing forced line
+[01:46:57] cheesableplayer: I am so cooked but I think Qe2 might be strange because of Rxd3 Nxd3 Qxd3 gxf5 Rxf5 Re5
+[01:46:57] cheesableplayer: That was my idea of Re8
+[01:48:59] checkmate_insurance: and now i somehow forget he can take back on d3 before taking f5
+[01:49:14] checkmate_insurance: i should have played Qe3 idk why i switched last minute
+[01:57:06] checkmate_insurance: what am i doing
+[01:59:39] checkmate_insurance: at least i shouldn't ever be losing this endgame
+[01:59:54] checkmate_insurance: and i have some chances to win but it feels much worse than before
+[02:08:17] cheesableplayer: this game is taking 100000 years off my life
+[02:09:03] cheesableplayer: I have a difficult dilemma to solve. Do I play on his low time? Or think and play tough moves in a bad position.
+[02:09:18] grzybozbur: isn't black winning?
+[02:09:33] cheesableplayer: though I believe this Re5 Gave me practical chances
+[02:10:03] grzybozbur: how does white stop mate?
+[02:10:19] cheesableplayer: i am an idiot
+[02:11:50] grzybozbur: hm, maybe there's g3 and bg2
+[02:13:06] grzybozbur: but it must be losing in the long run, no?
+[02:18:26] grzybozbur: no, i guess 42...kh6 qf7 was holding
+[02:22:30] grzybozbur: i don't understand anything
+[02:23:15] grzybozbur: why allow ke5?
+[02:35:27] mrscribbles: (61.Kd4) hmmmmmm
+[02:37:13] cheesableplayer: there is no wayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+[02:37:28] cheesableplayer: I am too happy
+[02:37:28] cheesableplayer: I should be upset at how crappy I played
+[02:39:00] mrscribbles: (65.Bg2) Would Bd2 not have been some sort of try?
+[02:39:15] mrscribbles: (65...Rf5+) Bd7 I mean
+[02:40:01] mrscribbles: (68...Rf5) opposite colored pawns draw
+[02:40:46] cheesableplayer: The Orange slices my mother gave me saved this game
+[02:41:01] mrscribbles: gg
+[02:41:01] cheesableplayer: tbh i wanna play roblox rn
+[02:41:32] checkmate_insurance: can't believe i threw that
+[02:41:32] checkmate_insurance: lol
+[02:42:33] checkmate_insurance: what was the point of Kh8?
+[02:43:03] cheesableplayer: Got some delusional idea Nh7 Ng5
+[02:43:03] cheesableplayer: follored by f5
+[02:43:03] cheesableplayer: idk
+[02:43:18] cheesableplayer: I wish I hadn't of played Kh8 so I wouldn't have suffered for 2 hours
+[02:43:34] cheesableplayer: o well
+[02:43:34] cheesableplayer: oh  well
+[02:43:34] cheesableplayer: thats 2 wins and 4 draws!
+[02:43:49] cheesableplayer: and 0 losses
+[02:43:49] cheesableplayer: i am anish giri
+[02:44:04] checkmate_insurance: wasn't the thing u accidentally sent me just wrong
+[02:45:05] cheesableplayer: Well earlier
+[02:45:20] cheesableplayer: because you didnt have 10 past pawns kekw
+[02:46:36] grzybozbur: so what could be the reason for 48.kg2 instead of kg3?
+[02:47:07] cheesableplayer: Maybe he missed Be6!
+[02:47:22] cheesableplayer: Be6 is lights out lol, I would have lowkey resigned
+[02:48:23] grzybozbur: ah, right, if you don't have be6, then kg3 would lose
+[02:49:08] checkmate_insurance: yeah i didn't realise Be6 just won
+[02:49:54] grzybozbur: i thought 42... kh6 qxb7 was winning for black though with mating threats on the dark squares, but sf must always spoil everything
+[02:50:24] checkmate_insurance: well with g2 defended twice i think it's pretty safe
+[02:50:40] checkmate_insurance: since i can play g3 and leave the bishop on g2
+[02:51:10] grzybozbur: yes, but i thought black has time to create threats on g1
+[02:51:56] checkmate_insurance: 30 Qe3 would have been such an easy win
+[02:52:26] checkmate_insurance: i don't know why i switched last second i just saw Qe2 g6 Rxd3 gxf5 getting mated and forgot about Nxd3 first
+[02:52:56] grzybozbur: that's middlegame, i see nothing easy about it
+[02:53:12] grzybozbur: but kg2 was criminal
+[02:53:42] grzybozbur: i mean i looked at qe3 and couldn't see the follow up
+[02:55:13] checkmate_insurance: Nc5 Rf4 is much easier to play i think
+[02:57:30] grzybozbur: not for me, because i missed rf4 g5 rh4
