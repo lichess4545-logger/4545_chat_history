@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/tDHtN1bc
+White     : ysgwydd
+Black     : lorb
+Time      : 45+45
+Captured  : 2026-08-14 13:09:12 UTC
+Game ended : 2026-08-14 11:49:04 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[09:35:48] lou-e: go ysgwydd!!
+[09:36:34] ysgwydd: (3...f5) 3...f5 is a sign of prep
+[09:53:35] ysgwydd: (11.Qc2) I think the move was 10...f4.
+[10:24:48] ysgwydd: (13...c6) Ne2 or not Ne2 is the question
+[10:36:28] ysgwydd: (14.Ne2) Hard to say if the knight is better than the DSB. The knight looks better now
+[10:36:43] ysgwydd: (14...Ng6) I expected b5
+[10:36:58] ysgwydd: (14...Ng6) I wanted to move this knight anyway
+[10:42:18] ysgwydd: (15.Ng2) I think I want a3+b4
+[10:42:49] ysgwydd: (15.Ng2) If black plays b5 here where does their king go?
+[10:47:23] ysgwydd: (17...Qc7) I don't think the sacrifices work for black
+[10:47:23] ysgwydd: (17...Qc7) Famous last words
+[10:51:57] lou-e: hmm
+[10:52:12] lou-e: Was h4 that much of a threat?
+[10:52:27] lou-e: I wonder if the h4 pawn now becomes a hook to play against
+[10:52:58] lou-e: Castle queenside, transfer other rook over, sacrifices on h4 etc
+[10:53:13] lou-e: You can keep the knight on g2 of course but do you really want that
+[10:55:15] ysgwydd: (18.h4) O-O-O Bf7 is curious
+[10:55:45] ysgwydd: (18.h4) O-O-O Bf7 Nf8 Nf4 would attack the h5 pawn
+[10:59:49] lou-e: Ah yeah I didn't see Bf7. Be8 doesn't seem to help because you just trade knight for bishop and play Ngf4 with a lovely position
+[11:00:35] baberle: True. I like having a knight blocking those doubled pawns at f4 eventually.
+[11:03:07] baberle: White asking questions of their own here.
+[11:20:53] lou-e: ooooh
+[11:20:53] lou-e: Interesting move
+[11:21:54] lou-e: Don't think there's enough comp for Black though. Seems to be a clean enough pawn after exf4
+[11:24:11] lou-e: If White can get a6 in and then play like Bxg4 hxg4 Qc2 there might be an attack here
+[11:24:26] lou-e: axb6 also good obviously
+[11:29:16] ysgwydd: (27.Qe1) If the king was on kingside then maybe this defense holds. Now it looks dire
+[11:34:20] ysgwydd: (30.dxc5) I disconnected for a bit there
+[11:38:39] baberle: Nicely done
+[11:39:10] baberle: That’s a post 32 comment
+[11:50:50] ysgwydd: I don't think you had anything on the kingside
+[11:53:23] lorb: apparently not. engine says it's all fine. though I would think one wrong move by white and could have turned deadly very quickly
+[11:53:38] lorb: you just played too well ^_^
+[11:53:53] ysgwydd: Yes, white has to be careful
+[11:54:08] ysgwydd: You did miss having a g5 pawn I feel
+[11:54:24] ysgwydd: g-pawn*
+[11:54:54] ysgwydd: Did you prep this line?
+[11:54:54] lorb: ^^ yeah, with the bishop always controlling g8 the open line is not so great versus having the pawn
+[11:55:09] lorb: I prepped a similar line, actually mixed up my prep
+[11:55:24] ysgwydd: Easy to mix up these lines
+[11:55:40] ysgwydd: 8...Nxd5 is actually the most testing
+[11:56:56] lorb: unfortunately not very findable for a human who is in mixed up prep
+[11:57:26] ysgwydd: Yeah, no one plays that way without prep
+[11:58:12] ysgwydd: 24...e3 was a try maybe
+[11:58:27] lorb: I had 6...Bb4 prepared, with 7...d5 if you take f5
+[11:58:57] lorb: mind went straight to 6...d5, though structure ended up being somewhat similar
+[11:59:13] ysgwydd: Ah, that line. That one is quite concrete
+[12:00:29] ysgwydd: Thanks for the game and good luck in the final round! Message on Slack if you'd like to discuss further
+[12:01:45] lorb: well, it was a good game. see you around : )
