@@ -1,0 +1,44 @@
+Lichess game chat log
+Game      : https://lichess.org/azuLNSFz
+White     : mcstudly
+Black     : paulze2000
+Time      : 45+45
+Captured  : 2026-08-14 17:33:02 UTC
+Game ended : 2026-08-14 16:12:54 UTC
+Messages  : 34
+────────────────────────────────────────────────────────────
+
+[14:33:55] mcstudly: 9) candidates: Ba3, e4, Na3, Ne5, Nc3
+[14:41:47] mcstudly: 9) seems kind of forced, it feels like I can't allow Nf6 because it stops e4, cementing black queen in the center
+[14:42:17] mcstudly: 9) other candidate moves didn't work out positionally or tactically in my head
+[14:43:48] mcstudly: 9) e.g., 9. Ba3 weakens d2-b4 diagonal, so I didn't like 9...Qa5+ 10. Nbd2 Bb4, or worse 10. ...c3
+[14:45:20] mcstudly: 10. Bd2 Bb4, 11. Bxc4. I get my pawn back, will castle, and should have pressure on c6 all game. Seems like W should be better.
+[14:50:55] mcstudly: 12. Bxa6 seems forced maybe.
+[14:54:43] mcstudly: 12. 0-0 loses to Bxc4 13. Qxc4 Nxe4 i think
+[15:00:19] mcstudly: i think 14. Nc4 threatening Nd6+ w/ e5 maybe. Also blocks queen so I can castle. but I don't like 14. ...c5
+[15:01:04] mcstudly: yeah, maybe just 14. Qc4. I should have good chances against the isolated c pawn.
+[15:02:51] mcstudly: or I can just blunder a pawn and hope to draw. smh.
+[15:05:23] mcstudly: Welp, my only dynamic advantage is development. I think I have to focus on getting a rook on the 7th, maybe 17 Rfb1
+[15:07:25] mcstudly: yeah I have to play for activity now I think
+[15:21:53] mcstudly: 20. I think my only chance to draw is win this C pawn while black's pieces are uncoordinated. My I have a serious back rank issue though
+[15:22:38] mcstudly: I really have to look for moves that keep black tied down and gain tempos. I can't let him coordinate or I think I lose?
+[15:24:40] mcstudly: 21. hmm, I think just Nce5, keeping d5 defended by the X-ray from 21. ...Rd8.
+[15:24:55] mcstudly: 21. ...Nef6 probably better as it doesn't hang a7
+[15:24:55] sahkal: Yeah play one knight to e5, take d7, and play the other knight to e5, wins
+[15:26:27] mcstudly: oh, actually 21. ..Rd8 just isn't a thing because of the fork on c6
+[15:27:13] mcstudly: oh, ok, maybe I was (am) just tilted over losing the pawn; maybe my position is still strong
+[15:27:59] sahkal: You are winning my guy
+[15:30:31] mcstudly: so 21. Nfe5 I think, just do keep my c knight controling d6
+[15:33:18] mcstudly: 21. Nfe5 Nef6, 22. Nxc6+ Ke8.
+[15:38:23] mcstudly: Ok, yeah, after 22. ...Ke8 23. Nce5 I think black is without a move to address his uncoodination
+[15:39:09] mcstudly: or maybe even 23. Nc6+
+[15:39:40] mcstudly: ok so 22. Kf8 to avoid more tempos to Nd6
+[15:40:40] mcstudly: I think 23. Nd6 anyway, keeping pressure on f7
+[15:41:11] mcstudly: also keeping c8 controlled so black can't play Rc8
+[15:43:58] mcstudly: So f knight can't move because d7 hangs, so maybe just a5 now, preventing Nb6.
+[15:44:29] mcstudly: 24. a5
+[15:49:18] mcstudly: 27. h4, to stop king side expansion or just continue the king march to the center
+[15:52:36] mcstudly: I think 27. h5 is fine, f3 too. but I think I go with my plan of getting my king to c4 and then Ra7
+[16:01:29] jokicinator15: (31...Rb8) Rb7?
+[16:11:38] mcstudly: aaaand gg. time pressure lol.
+[16:12:54] jokicinator15: gg
