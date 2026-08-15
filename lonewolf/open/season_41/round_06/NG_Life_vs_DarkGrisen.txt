@@ -1,0 +1,19 @@
+Lichess game chat log
+Game      : https://lichess.org/sLy4fRQg
+White     : ng_life
+Black     : darkgrisen
+Time      : 30+30
+Captured  : 2026-08-15 21:23:13 UTC
+Game ended : 2026-08-15 20:02:59 UTC
+Messages  : 9
+────────────────────────────────────────────────────────────
+
+[19:40:22] ng_life: 9... a5 seems a little wrong, I think usually black plays a6 and b5.
+[19:51:34] ng_life: (14) bh6, O-O, and O-O-O all seem viable
+[19:55:53] ng_life: (18) O-O is looking a little more realistic than O-O-O at this point
+[19:59:26] ng_life: 18... nh7 seems extremely odd, doesn't nxh5 just work now?
+[20:00:42] ng_life: I guess after nxh5 kh8 the n and Q are both attacked, but jeez, I'm almost tempted to sack the knight. Looks good for me.
+[20:02:14] ng_life: actually after nxh5 kh8 nf6 nxg5 hxg5+ kg7 rh7# don't I have mate?
+[20:03:45] ng_life: Wow the sack the knight sequence I missed is great. I didn't think about sacking there.
+[20:04:46] ng_life: I was wrong about a5. Engine says that's good.
+[20:05:31] ng_life: And my calc at the end for the Queen sack was correct. Kind of surprised he resigned, it seemed early?
