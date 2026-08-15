@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/4hkjYhQ4
+White     : patchythepirate
+Black     : welpe
+Time      : 45+45
+Captured  : 2026-08-15 23:48:25 UTC
+Game ended : 2026-08-15 22:28:15 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[20:28:50] patchythepirate: hey steven, hope you're having a beautiful saturday
+[20:29:35] patchythepirate: please excuse this imprecise opening... very much free-wheeling so far
+[20:32:24] patchythepirate: i think i'm supposed to go 7. Bc4 Nb6 8. Bb5 rather than 7. Nc2
+[20:32:39] patchythepirate: but my position so far seems reasonable, i think i'm winning the pawn back
+[20:35:42] stevenlongs: Not many games here after 9.d5 but apparently white scores pretty well
+[20:35:58] stevenlongs: dxc6 looks dubious for white so probably Ng5 is fine :D
+[20:48:10] leverkuhn: wow 14.Qd4 quickly
+[20:48:25] leverkuhn: can Black not play 14...Qxd5 here?
+[20:48:55] leverkuhn: I was wondering about the ambitious 14.d6!?
+[20:49:26] leverkuhn: There is 14.d6 f5 maybe, but there's Bf4 and/or Qh5+ ideas for White so it seemed quite critical and unclear
+[20:59:20] stevenlongs: surprising number of database games in your d6 line too, at least for lichess
+[21:01:37] patchythepirate: totally missed 15... Qxd4, but we shall persist
+[21:54:28] welpe: I really messed up this endgame
+[22:19:52] stevenlongs: is this the lucena? build da bridge moment
+[22:20:38] patchythepirate: ayyy senor scribbles, welcome
+[22:22:40] welpe: I'm really emberassed that I do not remember any rook endgame theory
+[22:22:55] stevenlongs: this doesn't seem to work no?
+[22:24:12] stevenlongs: maybe it does
+[22:24:27] zubenelgenubi: Rxg5 is losing for white
+[22:24:57] stevenlongs: yea just realized that
+[22:25:13] zubenelgenubi: K goes  g4 h3
+[22:25:28] stevenlongs: i cant remember the lucena, the theory is the pawn is on g2?
+[22:25:58] welpe: what am I doing!?
+[22:26:29] zubenelgenubi: wait
+[22:26:29] patchythepirate: after 60... Kxg5 pretty sure i'm lost but there are ways for black to fumble the win
+[22:26:44] zubenelgenubi: nah
+[22:27:30] stevenlongs: this doesn't work?
+[22:27:30] zubenelgenubi: no stalemate with the K on h3
+[22:28:00] stevenlongs: nvm
+[22:28:00] stevenlongs: im king of premature reactions
+[22:28:15] zubenelgenubi: gg
+[22:28:15] stevenlongs: gg
+[22:29:16] zubenelgenubi: oh 50Rc3+
+[22:29:16] zubenelgenubi: nice
+[22:29:31] zubenelgenubi: still a draw according to comp
+[22:30:02] patchythepirate: gg
+[22:30:32] patchythepirate: wow 50. Rc3+ would have been my saving grace
+[22:31:03] patchythepirate: ugly game on my part, sorry team
+[22:31:18] patchythepirate: losing half a pawn each move, according to the engine :/
+[22:32:19] patchythepirate: 40. Kd3 was my other opportunity, but hard to commit to abandoning the king side pawns
+[22:34:51] welpe: I'm really not proud of how I played this endgame
+[22:34:51] welpe: ugly game on both sides
+[22:39:10] patchythepirate: pawn up rook and games are often difficult to convert!
+[22:40:10] patchythepirate: alas, way to find the win in the end...
+[22:40:26] patchythepirate: see you in future seasons
