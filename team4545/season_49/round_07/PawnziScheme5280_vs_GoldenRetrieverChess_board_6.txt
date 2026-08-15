@@ -1,0 +1,68 @@
+Lichess game chat log
+Game      : https://lichess.org/tHakvKVR
+White     : pawnzischeme5280
+Black     : goldenretrieverchess
+Time      : 45+45
+Captured  : 2026-08-15 17:23:46 UTC
+Game ended : 2026-08-15 16:03:45 UTC
+Messages  : 58
+────────────────────────────────────────────────────────────
+
+[14:04:51] simonwashere: Go Golden!
+[14:05:22] fork2020: Go GoldenRetrieverChess!
+[14:27:57] jg777: Have a fun game GRC!
+[14:34:33] tranzoo: go pawnzi!
+[14:34:49] lloydret: (12.Qxe2) 12...g6 now looks favourite, to keep the Knight out ot f5, followed by ..f5/Nd7-f6/Rfe8 in some order
+[14:37:52] jg777: Hey Tranzoo :)
+[14:38:07] jg777: Yeah Lloyd, something like that
+[14:39:08] jg777: Although g6 Bh6 is a bit annoying since we can't play Re8 there, but I suppose it isn't to bad to throw it on d8.
+[14:40:25] jg777: Nf5 and I think we need to play Bf4, because allowing white to have the lone DSB would weaken the position considerably
+[14:40:55] jg777: Oh but then... Qg4.
+[14:41:10] jg777: That doesn't work for us.
+[14:41:25] jg777: I guess there is g5, but why am I wanting to do all that just to trade bishops
+[14:41:56] jg777: Plus then Ne7+ and d7 hangs so
+[14:42:11] jg777: Needlessly complicating matters over a bishop.
+[14:42:57] jg777: Maybe we just carry on with Re8 if Nf5 and if Nxd6 Qxd6 and we'll try to get our knight to a nice square
+[14:43:12] tranzoo: I wanted to play Bh6, sacrifice and checkmate.
+[14:43:12] tranzoo: but that must be wrong :-D
+[14:43:58] lloydret: Yep, I overlooked 12...f5 13.Bh6 - expecting to play Rfe8
+[14:43:58] jg777: Yeah I don't think it works, and GRC could just decline the sac, but now Bh6 is something. Maybe Re8 Bh6 g6
+[14:45:46] lloydret: Yes, those 4 pawns make Black's King relatively safe
+[14:45:46] jg777: I can get on board with Rfe8 here, Bh6 g6 and I don't see any issue at the moment
+[14:46:16] jg777: We could entertain Nf8-e6 possibly as well
+[14:46:46] tranzoo: I thought if you decline the sac I just take the pawn and do the same attack
+[14:46:46] tranzoo: Qg4 Nf5 next
+[14:47:02] tranzoo: but I am sure it doesnt work
+[14:47:32] jg777: Well it depends because you want the knight on f5 and queen on g4 at the same moment, and it takes 2 moves
+[14:47:47] jg777: Because Rg8 exists to stop the queen from going to g7
+[14:48:03] jg777: So you need like the knight on f5 so Qg4+ then Qg7 immediately after
+[14:49:19] jg777: But here Bh6 has more punch if the rook is on f8 because g6 loses the exchange and you can't take h6 because of the pin, and it is mate
+[14:49:19] jg777: if ignored
+[14:49:34] jg777: so Rfe8 here seems necessary
+[14:49:34] jg777: or g6 now I guess can work
+[14:50:05] tranzoo: yeah But Qg4 is a check in there
+[14:50:20] jg777: Yeah, Qg4 Kh8 but then you need Nf5 and black would play Rg8 to protect g7.
+[14:50:35] tranzoo: but yeah now the idea is still here but safer I suppose
+[14:51:06] jg777: I'm not sure if f4-f5 here could do something
+[14:51:21] tranzoo: yeah just Rg8, right
+[14:52:07] jg777: Because the bishop isn't under attack on e3 with GRC's rook on e8 yet, so f4 with the idea f5 next and start piling on g6
+[14:52:37] jg777: And of course f4-f5 gives possible f1 rook action into the position too
+[14:52:37] jg777: so f4 here seems like a serious idea to me
+[14:53:08] jg777: Because GRC doesn't have f5 in response to it, so can't stop the advance that I can see
+[14:56:26] jg777: Yeah I think GRC has to be careful after f4, maybe f4 Re8 Rae1 Nf8 f5 and here we go
+[15:00:14] feet_barbie: (14...Rfe8) go puppy
+[15:02:16] avemanyeg: go Golden! got here late but I see we're in a tartakower! You dont see too many boring Tartakowers. Should be a spicy finish
+[15:08:53] jg777: I was surprised to see c3 there, it seemed like a slow move, I thought we'd see something like Rae1, or f4.
+[15:10:09] jg777: hey feet_barbie! I've not seen you around much as of late- still in that beautiful location teaching kids?
+[15:13:27] jg777: Looks like GRC's going to be safe for the time being! Trading off DSB helps.
+[15:13:57] jg777: I think taking with the knight works because it can jump to e6 and continues to control the E file with Re8
+[15:14:58] jg777: Maybe GRC can try for Rad8 c5
+[15:15:14] jg777: But I suspect we'll see Rae1 here or soon
+[15:16:15] jg777: Okay Rfe1, but similar idea to challenge the E file- maybe even better since Rad1 or so is possible
+[15:16:30] jg777: especially if f4 is not in the plans, the rook on f1 would be stuck
+[15:17:46] lloydret: (17.Rfe1) 17...Qa5 possibly, stopping Nf5 and threatening those juicy Qside pawns
+[16:02:59] simonwashere: gg
+[16:02:59] tranzoo: gg
+[16:03:45] avemanyeg: gg's
+[16:04:31] goldenretrieverchess: Thanks. Bad tactical mistake. Was trying to make Nf4 work. I didn’t think it was good, and only quickly calculated Qf4. Big mistake lol
+[16:04:46] goldenretrieverchess: And apparently Nf4 is fine haha
