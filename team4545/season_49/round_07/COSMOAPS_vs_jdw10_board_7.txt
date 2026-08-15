@@ -1,0 +1,88 @@
+Lichess game chat log
+Game      : https://lichess.org/OCO7BjFE
+White     : cosmoaps
+Black     : jdw10
+Time      : 45+45
+Captured  : 2026-08-15 14:01:58 UTC
+Game ended : 2026-08-15 12:41:50 UTC
+Messages  : 78
+────────────────────────────────────────────────────────────
+
+[11:04:05] handknit: (5.Nf3) london time
+[11:14:30] handknit: (15.Nef3) black's definitely got the edge w/ the B pair and pawn structure
+[11:14:45] handknit: (15.Nef3) But if white can keep the position clean, especially if he creates an isolated d pawn, he should be fine
+[11:15:30] handknit: (15...cxd4) taking with the N here also creates a tempo with the Nxe6 threat, which is useful
+[11:18:03] lynnpv: (15...cxd4) also prevents from having an isolated pawn in the center. Downside is, it gives more activity for the bishops in the future.
+[11:19:34] handknit: (16.cxd4) Yeah. The N's getting stuck with the iso will have a lot harder time holding
+[11:19:49] handknit: (16.cxd4) Though: that does mean black's e6 weakness stays on the board
+[11:21:36] lynnpv: where r u from Handknit?
+[11:24:23] handknit: (16.cxd4) I live within the hearts of all noble men
+[11:38:22] handknit: (19...f5) Feels like white's knights are very restrained now
+[11:38:37] handknit: (19...f5) it'll take technique but I think black's quite a bit better now
+[11:43:42] handknit: (21...h6) So far black doing it more or less correctly, I think. Just gradually taking more space
+[11:44:58] handknit: (23.Qd3) Qb5 before Bg5 was very powerful
+[11:47:30] handknit: (24...f4) Kinda like g4 to keep lines closed
+[11:48:01] handknit: (24...f4) The LSB also doesn't have any immediate good squares
+[11:49:32] handknit: (27...Rxf1) Oh. This changes things significantly
+[11:49:47] handknit: (28.Qxf1) The bishop is still preferable, but now that it's no longer a bishop pair this is much closer to equal
+[11:53:05] handknit: (28...Qf7) I think trading queens gets a drawn endgame here
+[11:53:21] handknit: (28...Qf7) Though white would have to be happy sitting and waiting
+[11:55:07] handknit: (30.Kh1) Really wanted to play Kg1 to control f2 there
+[11:58:40] semlegesnev: It is exactly in close games like this that a 4-0 home crowd advantage can turn the tide
+[11:59:11] handknit: (30.Kh1) time to hurl abuse at the refs
+[12:02:14] handknit: (30...Qh4) Qe3 seems to do a good job of controlling black's Q
+[12:02:14] jcarmody: gljdw
+[12:02:59] semlegesnev: Damn, only 3-2 now, we are losing our hold over the ref
+[12:03:15] handknit: (30...Qh4) need to throw more bottles
+[12:03:30] handknit: (30...Qh4) antisocial violence got us into this mess, it'll get us out of it
+[12:04:31] handknit: (30...Qh4) I'm curious what white's thinking about here because it's not a simple position to come up with broader ideas
+[12:05:16] handknit: (32...Be2) This almost forces Qe3
+[12:06:02] handknit: (33.Qe3) Unfortunately I don't think white's got a good way to exploit this pin
+[12:06:17] handknit: (33.Qe3) Too many moves for the N to get anywhere
+[12:08:19] handknit: (34.Nf3) ah, white is now losing material
+[12:08:35] timothyha: (34) black wins b2 I think
+[12:08:50] handknit: (34.Nf3) actually, hold on
+[12:09:35] handknit: (34.Nf3) 34...Bxf3 35.Qxf3 Qxd4 36.Qf8+ Kh7 37.Qd6 Qf4+ 38.Kh1 Qf5 I guess
+[12:09:51] handknit: (34.Nf3) Maybe as white you can say that the Q on d6 is positionally good enough that you've got comp
+[12:10:06] timothyha: yeah but I think White might be protective of d4 and lose b2
+[12:10:21] handknit: (34.Nf3) Maybe! But I am trying to figure out what lines there are
+[12:11:07] handknit: (34...Qc2) option 3
+[12:11:53] timothyha: you never know what you’re gonna get when ratings differ so much
+[12:12:08] timothyha: Qd2 and Black has to decide for Qe4 I think
+[12:13:24] handknit: (34...Qc2) Qc3 is a move, Ng1 is a move
+[12:15:41] semlegesnev: Can we hold b2 after Bd3?
+[12:15:56] semlegesnev: Oh wait nvm the queen cannot move then
+[12:17:43] handknit: (35...Bd3) Yeah, though we still have this lingering question about what to do with the N
+[12:18:13] handknit: (35...Bd3) Something like 36.Nf3 Be4 37.Qc3 and I have no idea how to feel about the pawn endgame
+[12:19:14] semlegesnev: Pawn endgames favor the home team
+[12:19:29] handknit: (35...Bd3) tie goes to the runner
+[12:21:16] handknit: (36...Be4) Channeling the aether: 36...Be4 37.Qc3 Qe2 38.Qc8+ Kh7 39.Qxe6 Bxf3 40.Qf5+
+[12:25:04] handknit: (36...Be4) Not sure if there's much other than Qc3 or Qd2
+[12:27:06] handknit: (37.Qc3) So the line I was particularly curious about was trading queens but keeping the minors on
+[12:27:06] handknit: (37.Qc3) and if black could trundle the K all the way to the a pawn
+[12:28:22] handknit: (37.Qc3) One of the issues white faces in the BvN endgame is that the N still has nowhere to go
+[12:29:23] handknit: (39.Kg3) oh, b5 changes things massively
+[12:29:38] handknit: (39.Kg3) Now white's got the c5 square for the N
+[12:29:54] lynnpv: (39.Kg3) I like white position more, and white pawns are mainly on black squares.
+[12:30:09] handknit: (39...Kg8) game--saving not just for the counterattack but also because the N on c5 stops black's K from a4
+[12:30:24] handknit: (42.Kf4) oh. And now it's a winning pawn endgame for white
+[12:30:39] handknit: (42...Ke7) funny how that goes
+[12:30:39] addead: yes
+[12:30:55] lynnpv: niceeeeeeeee
+[12:30:55] handknit: (44.d5) rapadoo hours
+[12:31:25] semlegesnev: Maybe me watching was the problem all along
+[12:31:40] handknit: (46.a3) just close your eyes and channel the aether
+[12:31:40] addead: ahah @semlegesnev
+[12:31:56] lynnpv: zugszwang favors white anyways
+[12:32:26] handknit: (47.g3) Such that these things matter, white wants the pawn on g4, so playing Kd4 doesn't allow Kf5
+[12:36:15] handknit: (49.Kc5) worried about introducing lose conditions
+[12:37:16] handknit: (49.Kc5) Seeing dark visions from the aether
+[12:39:02] handknit: (50.Kxb5) okay, we avoided the darkness
+[12:39:33] handknit: (52...Kc7) was very worried about 49...b4 50.axb4 a4 -+
+[12:41:35] addead: mate
+[12:41:35] lynnpv: stronnnnnng
+[12:41:35] handknit: And for one day longer, we keep the darkness at bay
+[12:41:50] lynnpv: wp guys
+[12:41:50] addead: GGs
+[12:42:05] lynnpv: I'll try to secure the win !
+[12:42:05] handknit: [nods sagely]
