@@ -1,0 +1,92 @@
+Lichess game chat log
+Game      : https://lichess.org/3AtblgZ7
+White     : jg777
+Black     : jarolos
+Time      : 45+45
+Captured  : 2026-08-15 20:53:59 UTC
+Game ended : 2026-08-15 19:33:47 UTC
+Messages  : 82
+────────────────────────────────────────────────────────────
+
+[17:56:58] jg777: Round 7 and my team is ready to try and build on our last week's match win!
+[17:57:13] jg777: Sicilian fun, wuhoo!
+[18:01:17] jg777: I am not always playing good chess, but I have moved past from avoiding mainline stuff and just taking the inevitable opening disasters
+[18:01:32] jg777: as they come and learn from them...slowly. ever so slowly.
+[18:02:49] jg777: Nh6 seems wrong but Bxh6 Bxh6 e6 doesn't seem to give me anything after 0-0!
+[18:08:11] jg777: Qd2 Nh5 g4 Nh4.. doesn't quite seem to work out for me. Maybe h4 here first, thematic anyway, then Qd2 is a threat.
+[18:10:28] jg777: I can't say my chess play has been at all consistent or good this season, but maybe I can push for a good ending the next two games here
+[18:11:45] jg777: Them not being able to play h5 here changes some things for me but I am not familiar with a lot of the ideas surrounding this opening
+[18:12:15] jg777: so I am not sure how to capitalize on that difference really, aside from h4 seems to make more sense because I can quickly push h5
+[18:14:02] jg777: As rios2018 said, "every move, try to find a way to crush your opponent!" Harsh. Must be related to Bobby somehow. :P
+[18:14:48] pawnzischeme5280: Interesting stream of consciousness going on here...
+[18:16:34] jg777: Okay well now Qd2 Ng4 if fine for them because f3 Nxe5.
+[18:18:36] jg777: Nd5 jumps out at me, but Nf5 Qe4 Qxa2 g4 Qa1+ and we are doing what exactly
+[18:22:10] jg777: Maybe Qe5 isn't necessary, something like Qd2 after Nf5.
+[18:22:25] tranzoo: go jarolos, sorry jg
+[18:23:11] jg777: But then there is a queen trade possibly and that may not look so good for me
+[18:23:42] lloydret: (11...Qa5) 12.Qd5 escapes the pin and lessens the impact of Nf5 - White is surely doing very well with a Q trade on d5
+[18:25:43] jg777: they want d6 and use the pin on my queen I think, and there is Ng4 coming up too.
+[18:26:14] jg777: So why am I just not thinking c5?
+[18:26:44] jg777: I guess c5  and b6 is begging to be played
+[18:27:45] jg777: My issue is I have both d6 and Ng4 to handle. so Qd2 Ng4 and e5 is lost.
+[18:31:34] jg777: Hmm, maybe  Nd5 is the move, Nd5 Nf5 Qe5 Qxa2 Bd3 as it can go to b1 and also connects rooks.
+[18:32:35] jg777: Can't take all my time here, lets make a go at it and find out after the game what I wasn't understanding
+[18:34:06] jcarmody: gojg
+[18:35:07] jg777: My argument here is that the a2 pawn is meaningless here and I am just getting my pieces into the game to go attack
+[18:35:22] jg777: Whether that is true or not I guess we will see
+[18:36:54] jg777: Oh I think I just missed a key idea that may bust me- Nd6 is a move after Qxa2 because exd6?? Qxb2#. sniping Bg7... :P
+[18:37:55] jg777: Oh wait, no- I have Nxe7+ there.
+[18:40:27] jg777: I think I have to play Qxa2 Bd3. If I play g4, then Qa1+ Kc2 Qa4+ and is that drawing? Since I can't play Kb1, and b3 looks...odd.
+[18:41:43] jg777: I would like not to play Bd3 after Qxa2 because then Nd6 isn't a move at all after Nxe7+
+[18:42:29] jg777: But g4 Qa1+ Kc2 Qa4+ b3 Qa2+ Kc3? Right on the firing squad on g7.
+[18:43:30] jg777: oh well h5 is good for me, certainly helps me anyway. i'll play g4 regardless, but now maybe I can get away with Kb1 first? or Bd3?
+[18:44:15] jg777: Because Bd3 there is no Nd6 as Qxa2 hasn't happened and Qxa2 then Bb1 hits the queen with temp and kicks it away from b2
+[18:45:16] jg777: I don' think I play g4 immediately because I am still off that move with my king- Bd3 now I solve it, then g4 is coming
+[18:46:33] jg777: When the mind fails to see things clearly with calculation, I go with my instinct and die on that hill. :)
+[18:48:19] jg777: Okay I did miss d6 here for some reason. focused on the Qxa2 stuff. this is difficult because exd6 is terrible so am I losing 2 pawns
+[18:48:50] jg777: after g4 here? I mean... I guess what is the price for a king?
+[18:49:51] jg777: Open the gates of thy castle Jarolos! I seek the king! :)
+[18:52:53] jg777: I am deciding if there is merit in Bd2 Qxa2 Bb1 Qa4. the idea is i take on d6 without checkmate stuff on b2 to worry about.
+[18:54:09] jg777: Or there is just Kb1 Jordan... you know the king CAN move...
+[18:54:40] jg777: And people let me drive, much less play chess. Shesh.
+[18:55:26] mrscribbles: (16.Kb1) yes but chess is hard so it's fine
+[18:55:26] mrscribbles: (16.Kb1) Bb1 instead of Kb1 would have been really funny
+[18:56:27] jg777: okay so h5, other things happen, something amazing happens, and checkmate. Good game plan I'd say.
+[18:57:43] jg777: I can't wait to see how upset the engine is at me this game. It'll be like grandpa shaking their cane at me for mowing over the flowerbed
+[18:58:28] mrscribbles: (16.Kb1) I also agree with h5 next
+[18:58:59] mrscribbles: (16.Kb1) opposite side castle games aren't really the kind of thing where you get worked up over ACPL
+[18:59:14] mrscribbles: (16.Kb1) It's pretty much full steam ahead until one side wins
+[19:00:31] jg777: black has no attack, mine is ramping up faster than a car radio on a cross country travel. I want the king! Give me that king!
+[19:01:16] jg777: and of course I am sure the engine is just laughing at my ideas like "yeah dude, attack, so what, I'll eat all your pieces then get yours
+[19:02:02] jg777: But who cares what the engine can do, this is just two fellas throwing down a Sicilian game today!
+[19:05:20] jg777: "Look at that, I got him thinking. I got him thinking maybe I can win a pawn."-SFBF
+[19:06:22] jg777: h5 is either next move or as soon as I can do it safely
+[19:06:37] mrscribbles: (16.Kb1) I vote h5 immediately
+[19:06:37] mrscribbles: (16.Kb1) don't even wait for black to move
+[19:08:24] jcarmody: I've seen something like that before. One player moved his king and rook without letting their opponent make a move in between.
+[19:09:25] jcarmody: I reported the bug to lichess. Still waiting for a response.
+[19:13:13] mrscribbles: (17.Bxe5) Bxe5 Qxe5 e6?????? Ne7+ would be really funny
+[19:13:29] jg777: Trading DSB's should be good for me so I am okay with this
+[19:16:01] jg777: One guard down.
+[19:16:31] jg777: Nxe7+ tactic would be unfortunate way to end the game so I hope Jarolos see's that idea
+[19:18:18] lloydret: (18.Qxe5) Black can't now escape a Knight check, so must move the Q or defend her with ..b6
+[19:19:34] jg777: There's ideas to win some material, like Nc7 might be winning some material for example. things hanging in the air.
+[19:19:50] jg777: But maybe I need to keep my eyes on the king here.
+[19:20:50] jg777: h5 makes a lot of sense here to me
+[19:21:36] jg777: Although is it easier to just play Nc7 here? Wins the exchange..
+[19:22:07] jg777: I do have to watch Rd1 so h5 gxh5 Bc2 before I take collect on h5.
+[19:22:37] jg777: drops f5 anyway though.
+[19:22:37] jg777: so yeah h5 here and that just seems good.
+[19:23:53] jg777: Nxe7+ Nxe7  Qxe7 Re8.. I wasn't sold on any of that.
+[19:26:10] jg777: Yeah I thought this was the only way forward.
+[19:26:25] jg777: Nxe7+ is probably the move here
+[19:28:27] jg777: Now I just want to keep the queens on because their king is unsafe
+[19:32:46] jg777: I thought Qd7 was a good defensive idea there instead of Rf7
+[19:33:17] jg777: I think I may have underestimated Qd7 earlier. It seemed like it bought Jarolos time
+[19:34:48] jg777: I want to know what I couldn't understand earlier in the game
+[19:35:34] jg777: Oh, Nd5 was correct, well that is something. I thought I was throwing a bit of smoke and mirrors there, I wasn't sure.
+[19:37:51] jg777: Okay Qd7 wasn't as good of a resource as I thought for Jarolos, but I thought it had practical merit at least.
+[19:39:07] jg777: f6 Qe4 is cold, totally missed that.
+[19:40:39] jg777: Okay, well I wasn't sure about Nd5 but I guess it was correct after all. When in doubt, go with your instinct. :)
+[19:40:54] jg777: Thanks for the game and cheers all!
+[19:40:54] goldenretrieverchess: gg
