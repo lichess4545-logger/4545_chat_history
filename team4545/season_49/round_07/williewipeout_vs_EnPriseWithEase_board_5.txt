@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/WjBuuyo2
+White     : williewipeout
+Black     : enprisewithease
+Time      : 45+45
+Captured  : 2026-08-16 18:30:14 UTC
+Game ended : 2026-08-16 17:10:12 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[15:03:33] enprisewithease: (2...f5) I guess this means they didn't prepare any lines against the dutch. :-)
+[15:04:34] enprisewithease: (4...Nf6) Or they were choosing from the myriad of good possibilities. :-D
+[15:08:39] enprisewithease: (5...O-O) I'm used to being able to play b6 Bb7 in this nimzo-like version, but not today.
+[15:12:29] enprisewithease: (6...Ne4) Did I just lose a pawn?
+[15:13:14] enprisewithease: (6...Ne4) Let's call it a gambit.
+[15:17:34] pvgibson: didn't take the free pawn
+[15:18:34] enprisewithease: (7...d6) I feel like I'm not properly thinking through the consequences of my moves.
+[15:24:56] enprisewithease: (10.Qxc3) Seemed like white gets too much space if I kept the bishop
+[15:32:06] enprisewithease: (11...Qe7) I don't understand some of the positions with c5 at all
+[15:33:23] enprisewithease: (11...Qe7) White playing c5 I mean
+[15:34:54] pvgibson: i think moves like c5 are what white wants to do - big lead in development - open things up
+[15:36:42] handknit: (12.Rac1) my approach to the dutch has become "just take it easy, you'll be fine"
+[15:36:57] handknit: (12.Rac1) White's position is solid, though I dunno how much the computer would give an advantage
+[15:37:28] handknit: (12.Rac1) But I think white can keep just making normal moves and get a good position, while black has to solve problems
+[15:39:14] handknit: (12...Nd7) I kinda like c5 here, just open some lines and try to keep the Bg2 good
+[15:39:30] handknit: (12...Nd7) if black closes with d5, white can push c6 immediately.
+[15:44:51] handknit: (13.Rfd1) Rad1 is a fine idea, as was Nd2. White's next Q is probably what to do if black plays Nf6
+[15:52:13] handknit: (15.c5) A little bit of the transposium
+[15:52:28] handknit: (15.c5) Anyway, the a2-g8 diagonal is very good for white, and basically means black's king will never be safe
+[15:52:59] handknit: (15.c5) Black probably plays c6 here since you really want to stop white doing so
+[15:53:14] handknit: (15.c5) Which means white probably wants to think about bringin the N to c4 then d6
+[15:53:29] handknit: (15.c5) b3-a3-b4 probably the main way to support that
+[15:54:31] handknit: (15...e4) after 16.Nd4 c6, another idea might be to play a4, to fix the pawn on a5, then Nb3
+[15:57:50] handknit: (16.c6) White is maybe calculating the immediate c6 but I think you wanna keep the Ns on
+[15:58:51] handknit: (16.c6) Black's weaknesses tend to end up on the dark squares, which the N is much better at touching than the LSB
+[16:01:54] handknit: (16...bxc6) ah, well, Nd4 is very strong now
+[16:02:09] handknit: (16...bxc6) I think white's quite a bit better now
+[16:02:55] enprisewithease: (16...bxc6) poor c7, I'm so sorry
+[16:06:59] enprisewithease: (16...bxc6) this is ugly
+[16:12:52] mrscribbles: (17...c5) looks like a fun imbalanced game
+[16:13:23] enprisewithease: (18.Nb3) I wonder where I went wrong, what my biggest mistake was.
+[16:13:53] mrscribbles: (18.Nb3) I'm not sure you have gone wrong. You don't want an endgame with those pawns, I would say go all-in on that Kingside attack
+[16:14:08] mrscribbles: (18.Nb3) even start sacking pawsn for convenience
+[16:14:24] mrscribbles: (18.Nb3) possibly even start with Kh8
+[16:19:15] semlegesnev: With white's bishop stuck, I'm not so sure if this is better for white
+[16:26:54] handknit: (23.e3) I'm assuming white's gonna meet Bxa2 with Rxc7 but g4 is an idea to pay attention to here
+[16:27:24] enprisewithease: (23.e3) I don't understand that move.
+[16:28:10] enprisewithease: (23.e3) preparing f3 I guess?
+[16:28:25] enprisewithease: (23.e3) to avoid f3 e3?
+[16:28:41] enprisewithease: (23.e3) Or I had f4 f3?
+[16:28:41] enprisewithease: (23.e3) Anyway...
+[16:32:45] handknit: (23.e3) I don't think white can really play for a win without the g4 idea
+[16:33:47] enprisewithease: (23...Rb8) maybe I was overthinking and should have just taken on a2
+[16:33:47] handknit: (23...Rb8) good move by black
+[16:34:48] handknit: (23...Rb8) best move might be b3 now
+[16:35:48] handknit: (23...Rb8) 24.b3 axb3 25.axb3 Rxb3 26.g4 g6 27.gxf5 gxf5 28.Bh3
+[16:36:04] handknit: (23...Rb8) 26.Rxc7 in that line loses
+[16:38:06] handknit: (24.Bf1) I think this is losing for white, too. Black collects both QS pawns
+[16:41:24] enprisewithease: (24...Rxb2) feels tactical but I don't see the threat
+[16:42:09] handknit: (24...Rxb2) I think the R 4+1 v R4 endgame is not in fact trivial
+[16:42:09] handknit: (25.Bc4) Especially if black quickly pushes the pawn all the way to a2
+[16:43:56] handknit: (26.R1xc4) I wonder if white plans to take on f5
+[16:51:03] enprisewithease: (26...Rxa2) Am I calculating this correctly?
+[16:51:03] handknit: (26...Rxa2) Maybe there's some juice in the counterattack
+[16:52:37] handknit: (27.Rxc7) Or we go this way, and investigate both players' technique
+[16:54:24] handknit: (29.Ra7) So, if I have this measured correctly, it is important for black to keep the space on a2 for the king
+[16:54:54] handknit: (30...a2) Now white can just keep the R on a7/a8
+[16:55:10] handknit: (30...a2) and black cannot ever properly support the pawn with the K
+[16:55:10] enprisewithease: (30...a2) Kh3
+[16:55:41] handknit: (30...a2) Once black's K gets to b3 or b2, white gives check on b8
+[16:55:56] handknit: (30...a2) once black's king leaves the pawn, the R goes back to a8
+[17:00:31] handknit: (31...h5) h4 to set the pawn structure, I think
+[17:03:34] enprisewithease: (32...Kh7) Ra6?
+[17:06:53] handknit: (38.Rxa2) think we can shake hands now
+[17:07:09] enprisewithease: (38...Rd1) ah, endgames
+[17:07:24] enprisewithease: (38...Rd1) I give up
+[17:10:12] pvgibson: good game both
+[17:10:12] williewipeout: good game
+[17:10:27] enprisewithease: you too
