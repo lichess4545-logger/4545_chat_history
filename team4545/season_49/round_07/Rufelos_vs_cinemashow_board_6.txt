@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/YePduQQx
+White     : rufelos
+Black     : cinemashow
+Time      : 45+45
+Captured  : 2026-08-16 17:34:25 UTC
+Game ended : 2026-08-16 16:14:19 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[14:01:58] guitarspider: go cinema!
+[14:02:13] berndwind: go cinema!
+[14:03:14] berndwind: Cinema’s fave Catalan
+[14:04:00] robertjackson: Good luck Rufelos
+[14:04:15] berndwind: I do everything to avoid the Catalan. be warned, Catalan players, you will never get it against me. unless you trick me evilly of course
+[14:05:02] cinemashow: (5.Nc3) can't take the pawn here because no Nf3
+[14:06:34] cinemashow: (5.Nc3) O-O or Bd7?
+[14:07:20] cinemashow: (5...O-O) looks best
+[14:09:52] aactrl: (6.Nf3) Ooh I'm familiar with this for once, fresh prep.
+[14:10:38] guitarspider: (6.Nf3) Is this now a g3 Ragozin? Interesting.
+[14:10:53] berndwind: Which side were you looking at re prep, AACtrl?
+[14:11:09] aactrl: (6...b6) black
+[14:11:39] aactrl: (6...b6) 6...dxc4, c6, b5 ; now clueless again
+[14:12:10] cinemashow: (6...b6) not sure bishop belongs on b7 in this position...
+[14:12:10] berndwind: dxc would have been my inclination. But I don’t know these positions
+[14:13:57] cinemashow: (6...b6) Nd2 and e4 is an idea for White sometimes
+[14:16:59] cinemashow: (7...Bb7) Hi Robert, hope you are well!
+[14:19:18] cinemashow: (7...Bb7) this move order from White is not the most common I think...
+[14:19:33] guitarspider: (7...Bb7) cxd5 is probably a decent try for white
+[14:19:33] guitarspider: (7...Bb7) then you can play against the c-pawn
+[14:20:19] guitarspider: (7...Bb7) and the Bb4 should be a bit awkward there
+[14:21:20] berndwind: I’d be tempted to insert Bxd3.
+[14:21:20] berndwind: c3 I mean
+[14:22:37] guitarspider: (8.Ne5) possibly best, I'm not sure, Bg5 is a problemif the bishop goes
+[14:23:07] berndwind: yeah might even be worth an h6.
+[14:23:38] guitarspider: (8.Ne5) although now it might be kinda forced to take on c3?
+[14:23:53] berndwind: If this was my blitz game, I’d take off the knight right away and then play h6
+[14:23:53] berndwind: I think so yeah
+[14:24:24] guitarspider: (8.Ne5) with the knight on e5 you can play Nbd7 I think (h6-g5 without any sacs)
+[14:25:09] berndwind: ah that’s much better. I like it
+[14:26:41] feet_barbie: (8.Ne5) go showwwwwww
+[14:26:41] berndwind: haha hi Barbie
+[14:27:12] feet_barbie: (8.Ne5) hiiii i m home for the weekenddd lets hope cinema winss
+[14:27:12] berndwind: just turning up at bed time alas
+[14:27:12] guitarspider: (8.Ne5) hi!
+[14:27:12] berndwind: im all for a cinema win!!
+[14:27:42] feet_barbie: (8.Ne5) hello spiderr
+[14:27:57] feet_barbie: (8.Ne5) brand new day
+[14:28:43] robertjackson: I'm all in for a win for Arthur
+[14:37:53] cinemashow: (10...h6) have to watch I don't end up with one of d7 or b7 hanging
+[14:39:40] guitarspider: (10...h6) maybe something went wrong because now White can inflict dobled pawns and open the c-file
+[14:39:55] guitarspider: (10...h6) so maybe he had to move the queen away
+[14:41:11] robertjackson: 11.NxNd7 looks good
+[15:04:36] guitarspider: (15...Bxc4) well, without the open c-file I'm more inclined to say cinema is totally fine here
+[15:05:37] guitarspider: (15...Bxc4) white has to prove compensation too
+[15:16:34] cinemashow: (16...Qd8) stepping out of Qg5 pin of e6 and protecting f6
+[15:17:04] cinemashow: (16...Qd8) be glad to move a8 rook
+[15:18:36] cinemashow: (16...Qd8) maybe Rh8 needed?
+[15:21:39] cinemashow: (16...Qd8) what is my most important next move?
+[15:31:03] pineapplechiffoncake: Go cinema!
+[15:31:34] cinemashow: (17...Kh7) keep thinking he will have Qf5+ but maybe not if I get the capture sequence correct?
+[15:32:35] cinemashow: (19...Qxd5) like that?
+[15:33:37] cinemashow: (19...Qxd5) at least there's no more Bxa8
+[15:39:30] cinemashow: (20.Qf4) Qd8 looks passive
+[15:41:32] cinemashow: (20.Qf4) other option Kg6 Qxc7 Rfc7
+[15:47:38] ysgwydd: (21.c4) Qd6 looks good
+[16:06:41] ysgwydd: (28.Qe4) f5 Qf4 Rg4 Qf3 Qxh4
+[16:07:57] ysgwydd: (29.Qxf5) Oh right
+[16:12:01] ysgwydd: (30.Qf3) Now Qxh4
+[16:15:05] rolihlahla: gg both - that was quite a battle!
+[16:18:55] mrscribbles: gg
+[16:23:13] rufelos: after 31...Rf6 I was planning to go Qc3... didn't see the winning line with the Q sacrifice after 32.Qg4+, Rg6, Qxg6 Kxg6
