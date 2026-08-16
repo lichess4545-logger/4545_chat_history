@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/BiWqxllE
+White     : kborman
+Black     : mtsundance
+Time      : 45+45
+Captured  : 2026-08-16 20:53:01 UTC
+Game ended : 2026-08-16 19:32:57 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[17:30:35] le_merovingien: KayBow!!!!
+[17:30:50] le_merovingien: It's a drunk French
+[17:45:50] namegoesinhere: (7...c6) go Kborman!
+[17:46:36] namegoesinhere: (7...c6) so this is some sort of Philidor?
+[17:46:51] namegoesinhere: (7...c6) never know how I'm meant to play these kind of positions as white
+[17:47:06] namegoesinhere: (7...c6) probably like a4 to stop ...b5 here
+[17:47:37] le_merovingien: Pirc
+[17:47:52] mtsundance: lots aimed at d5...problem?
+[17:49:08] le_merovingien: There is a few plans but I rarely go for this.
+[17:49:24] le_merovingien: a4 is not necessary and often a waste of time
+[17:49:54] le_merovingien: But... This is all book. How do they know all this on board 8? Seriously, I should be demoted to board 9
+[17:51:56] le_merovingien: Often in these Pirc, Black plays too many Pawn moves, which puts him at fault. a3 is good. Not playing a3 too.
+[17:52:27] le_merovingien: But these can be very specific. Here, I don't know. I just knwo that having to move the Knight if White plays b4 is not a problem
+[17:55:30] le_merovingien: OK, d5 is never good
+[17:57:16] namegoesinhere: (10.d5) d5 makes some sense I think
+[17:57:47] namegoesinhere: (10.d5) dxe5 was never really doing anything production and black probably ends up with a backwards e-pawn on an open file
+[17:59:03] le_merovingien: d5 Nc5 Ba2 cxd5 exd5 and the d-Pawn is a permanent weakness
+[18:00:35] namegoesinhere: (10...a5) well we have enough defender to not have to recapture on d5 with a pawn
+[18:01:05] namegoesinhere: (10...a5) and if d5 Nc5 I think we just take dxc6
+[18:02:53] namegoesinhere: (10...a5) I think we can do a similar thing here: dxc6 Bxc6 Nd5 and argue black's DSB is bad
+[18:04:09] le_merovingien: a5 was a mistake, methinks
+[18:17:23] le_merovingien: Bxf7, anyone calculated?
+[18:18:40] namegoesinhere: (14.Be3) what's the idea after Rxf7?
+[18:19:25] le_merovingien: Ng5 Ne6
+[18:20:42] le_merovingien: Needs to be calculated carefully. I am chopping onion, so...
+[18:21:12] namegoesinhere: (14.Be3) ah interesting
+[18:21:27] le_merovingien: The onion?
+[18:21:43] mtsundance: 14)Nc5 still? Can't figure ramifications. Take risk
+[18:21:43] namegoesinhere: (14...Nc5) At worst black can just go Nf8 after Ng5 so white won't get more than a rook for two pieces
+[18:22:59] le_merovingien: And a Pawn. An f-Pawn. Sometimes, it's good.
+[18:23:15] mtsundance: ah of course now I see miscalc. Lose pawn,arrrgh
+[18:23:30] namegoesinhere: (15.Bxc5) yeah, it's interesting but I don't think I'd go for it in a game
+[18:24:32] le_merovingien: Same here. Bxf7 was interedting.
+[18:26:34] namegoesinhere: (16.Nxe5) now Nc6 is a very annoying threat
+[18:28:37] le_merovingien: Yes :)
+[18:28:37] le_merovingien: So perhaps better not to have sacked the Bishop
+[18:30:24] namegoesinhere: (16.Nxe5) maybe Bxf7 can still be an idea here because we can follow up with d5-d6 ideas
+[18:30:39] namegoesinhere: (16.Nxe5) probably a bit unneccesary when you're up a pawn already
+[18:34:43] mtsundance: 16 much bigger than pawn, wow, messy
+[18:44:38] mtsundance: smh, high value pieces trying to run off a N?
+[18:44:53] namegoesinhere: (17...Ra8) Nxe7+ should be winning now
+[18:45:54] namegoesinhere: (17...Ra8) Nxe7+ Qxe7 Bxa1 Rxa1 e5 Nd7 Qd6 looks devestating
+[18:46:55] mtsundance: Nxc7,Qx,Bxa8, glad i could help!
+[18:54:18] mtsundance: shold have put rook on c8 rather than a8 originally. could have traded?
+[19:00:39] mtsundance: it appears my opp is eviscerating me surgically rather than brutually.lolly
+[19:00:55] le_merovingien: What is happening?
+[19:06:31] mtsundance: everything I do makes it worse!
+[19:10:51] le_merovingien: Music to my ears
+[19:12:37] namegoesinhere: (23.Rxe7) ...Rxc6 saves the piece but Qxc6 Qxe7 d6 and the pawn is close to promoting...
+[19:15:56] le_merovingien: Just. Push. The. Pawn.
+[19:17:12] namegoesinhere: (24.Qd3) eh, the pin was annoying and the knight is nicely supported on c6
+[19:17:27] namegoesinhere: (24.Qd3) simplifying can't be bad
+[19:18:13] le_merovingien: KayBow...
+[19:20:00] namegoesinhere: (25...Rfe8) although you can probably sac the knight and force promotion at some point if you really want to
+[19:20:15] le_merovingien: You sac the house. It's mate in the end
+[19:22:32] le_merovingien: Qf3 is mean
+[19:24:19] le_merovingien: KayBow! KayBow!
