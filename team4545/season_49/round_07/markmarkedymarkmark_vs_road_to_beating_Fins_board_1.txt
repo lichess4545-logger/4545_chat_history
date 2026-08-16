@@ -1,0 +1,84 @@
+Lichess game chat log
+Game      : https://lichess.org/CDMsv6rX
+White     : markmarkedymarkmark
+Black     : road_to_beating_fins
+Time      : 45+45
+Captured  : 2026-08-16 22:23:23 UTC
+Game ended : 2026-08-16 21:03:13 UTC
+Messages  : 74
+────────────────────────────────────────────────────────────
+
+[19:58:06] atrueravenclaw: interesting opening with 3..d4
+[19:58:06] markmarkedymarkmark: so I should definitely have played 3.e3
+[19:58:06] atrueravenclaw: after 4. Ne5 black should be able to create a huge pawn center with c5 and f5 and eventually e5
+[19:58:06] atrueravenclaw: Ne4*
+[19:58:06] markmarkedymarkmark: this is like a bad reverse benoni, not a great opening
+[19:58:06] atrueravenclaw: yeah this is like a reverse benoni with no fianchetto
+[19:58:06] atrueravenclaw: after 12. Rb1 a5 is really important
+[19:58:06] atrueravenclaw: And I think if a3 then a4!
+[19:58:06] atrueravenclaw: Liking black's position after 13..a4
+[19:58:06] atrueravenclaw: Instead of 14. Be7 I liked this idea of g6 Bg7 and f5
+[19:58:06] atrueravenclaw: After 17. Qxb3 black can play Kh8 and has idea of Qa5 to target a pawn
+[19:58:06] atrueravenclaw: 19...b6 with idea of Nb7 Nc5 was interesting
+[19:58:06] atrueravenclaw: an ideal setup could have been Nc5 and Bf5
+[19:58:06] atrueravenclaw: although you'd have to watch the long diagonal
+[19:59:37] atrueravenclaw: black is super solid here with Bc6
+[20:00:23] atrueravenclaw: okay 21. a4 and Qd7 pressure on that pawn
+[20:01:09] atrueravenclaw: Oh after Ra1 there's Bb4 and Bc3 idea
+[20:01:39] atrueravenclaw: wow and if Bb4 Bd2 black trades his bad bishop
+[20:04:27] atrueravenclaw: If 22...Bb4 Bd2 Bxd2 Nxd2 Bxg2 Kxg2 a lot of pieces come off. Probably benefits black but could be drawish even if a pawn is won
+[20:07:31] atrueravenclaw: 22...Ra6 so no Bb4. Idea must be Ra8. Bb4 is so natural but Ra6 might keep more tension
+[20:14:53] atrueravenclaw: 24...b6 seems natural but watch out for Rb5 exchange  sac ideas
+[20:15:08] atrueravenclaw: It doesn't look like it works here
+[20:17:40] atrueravenclaw: 24..Bc5 I thought idea of b6 Nb7 Nc5 was good and maybe Bd8
+[20:26:51] atrueravenclaw: Maybe after 26. Qb2 Kg8 just slowly taking your time and getting out of back rank mates
+[20:28:38] atrueravenclaw: yeah 26...Nb7 was other move to consider
+[20:32:12] atrueravenclaw: oh wow a5
+[20:34:30] atrueravenclaw: there are some ideas of Bxb4 Qxb4 axb4 Nxe5 fxe5 Bxc6 Qxc6 Qxb7 Qxb7 Rxb7 and pawns are equal but black has passed a-pawn
+[20:34:45] atrueravenclaw: 27...Bxb4
+[20:35:31] atrueravenclaw: oh wait white has passed c pawn there
+[20:36:47] atrueravenclaw: okay wait instead of fxe5 there's axb4 there.
+[20:36:47] atrueravenclaw: really interesting position
+[20:38:34] atrueravenclaw: So 27...Bxb4 Qxb4 axb4 Nxe5 losses for white because of axb4
+[20:41:52] atrueravenclaw: So after 27..axb4 Bxc5 Nxc5 the back rank is okay Qb8+ Rxb8 Rxb8 Qe8 Rxe8 Bxe8
+[20:44:55] jfiras: (28...Nxc5) interesting line
+[20:45:41] jfiras: (28...Nxc5) maybe i prefer black here
+[20:46:11] atrueravenclaw: @jifras yes I prefer black
+[20:47:12] atrueravenclaw: after 28..Nxc5 d3 needs to be defended as well and Qb8+ isn't working also the natural Bf1 drops the knight
+[20:47:28] atrueravenclaw: Wow! 29. Ne5
+[20:47:58] atrueravenclaw: It doesn't work Bxc6 Qxc6 Qb8+ Qe8
+[20:48:13] atrueravenclaw: black is winning
+[20:48:59] jfiras: (29...fxe5) Qe8 wow i missed that
+[20:49:30] atrueravenclaw: yes Qe8 or Qc8 after Bxc6 Qxc6 Qb8+ stops back rank mate
+[20:51:16] jfiras: (30.Bxc6) wait even Rxc6 works fine here i guess
+[20:51:31] atrueravenclaw: so white plays Bxc6 anyway after a pause. He might have spotted Qc8/Qe8 and wants to see if black gets spooked
+[20:52:02] atrueravenclaw: @jifras oh wow Rxc6! that's even better
+[20:52:48] jfiras: (30...Qxc6) yes since there is no checkmate i guess maintaining these rooks doubled makes sense
+[20:53:18] jfiras: (31.Qb8+) now the Qe8!
+[20:54:19] atrueravenclaw: @jifras yes actually Qe8 protects e5
+[20:54:19] jfiras: (31...Qe8) white missed it, what a move.
+[20:55:20] atrueravenclaw: @jifras we saw it from afar but white might have been counting on Qb8 all the way back when he played Bb4
+[20:55:35] jfiras: (32.Qc7) yes exactly
+[20:56:21] atrueravenclaw: now it is a matter of technique you need to shut down white's counterplay
+[20:56:36] atrueravenclaw: okay black goes for Nxd3
+[20:56:51] atrueravenclaw: 33...Qf8 looks strong
+[20:57:07] jfiras: (33.Rb7) yes with Qxf2+ threat
+[20:57:07] atrueravenclaw: defending g7 and looking at f2
+[20:57:37] atrueravenclaw: also ideas of e4 e3 and creating a passed pawn
+[20:58:54] atrueravenclaw: black has a lot of options how to smoothly win
+[20:59:09] atrueravenclaw: 34...e4 or Rf6 or a4
+[20:59:55] atrueravenclaw: Rf6 is a nice move attacking f2
+[21:00:56] atrueravenclaw: the knight also blocks Rb2 if there's some idea of Rb2 and Rb8
+[21:00:56] atrueravenclaw: It's hard to find move for white now
+[21:02:28] atrueravenclaw: okay tricky after Rxa5
+[21:02:28] atrueravenclaw: oh what
+[21:02:58] atrueravenclaw: wow what a move by black
+[21:02:58] jfiras: /w (36.0-1White resigned • Black is victorious) oh nice one, but i don't think this works
+[21:02:58] atrueravenclaw: gg
+[21:02:58] jfiras: gg !
+[21:06:32] road_to_beating_fins: gg
+[21:06:48] markmarkedymarkmark: gg road_to_beatinf_fins!
+[21:11:06] road_to_beating_fins: Wild line 27...Bxb4 28.Qxb4 bxa5 29.Nxe5 axb4 30.Rxa6! fxe5?? 31.Rxa8+ Nd8 32.Bxc6 +-
+[21:17:58] atrueravenclaw: @road_to_beating_Fins in that line 29..fxe5 instead of axb4 wins for black
+[21:18:28] atrueravenclaw: gets to similar position to the game
+[21:19:29] atrueravenclaw: well actually different but interesting
