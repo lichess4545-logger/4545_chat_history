@@ -1,0 +1,108 @@
+Lichess game chat log
+Game      : https://lichess.org/1zWfQfMd
+White     : serenemoose
+Black     : meludin
+Time      : 45+45
+Captured  : 2026-08-16 16:59:00 UTC
+Game ended : 2026-08-16 15:38:56 UTC
+Messages  : 98
+────────────────────────────────────────────────────────────
+
+[13:01:24] namegoesinhere: (2.Nf3) go mooose!
+[13:01:55] namegoesinhere: (4...Be7) 1.f4, could be an interesting one
+[13:06:59] namegoesinhere: (6...c5) wow, Rg1 is aggressive
+[13:07:14] namegoesinhere: (6...c5) white going for kingside attack with g4, black counterattacking in the centre with a probably ...d4
+[13:09:16] serenemoose: So it's either Bd3 or g4, can't recall which. Or maybe Be2?
+[13:11:48] jose684: Go Moose !
+[13:16:23] serenemoose: Think I've remembered the idea, almost sure the lsb is supposed to do a stutterstep through d3 to b5.
+[13:17:39] jose684: Not sure why Nh5. Just puts it on rim
+[13:18:09] namegoesinhere: (8...Nh5) ...Nh5 seems super sketchy
+[13:18:55] le_merovingien: Whoa. Big attack...
+[13:19:10] namegoesinhere: (8...Nh5) like after Ne5 you have to go ..g6 to defend it which seems bad
+[13:19:25] namegoesinhere: (8...Nh5) although I guess you can bring the knight to f5 via g7 then
+[13:19:25] le_merovingien: How about Nh4?
+[13:19:41] jose684: 8..Ne4 sounded more appropriate
+[13:19:41] namegoesinhere: (8...Nh5) but ...g6 is a hook for a h4-h5 advance
+[13:19:56] le_merovingien: That's the obvious move
+[13:20:11] namegoesinhere: (9.Ne5) yeah Nh4 was also possible i think
+[13:20:42] le_merovingien: I mean, everything wins
+[13:23:45] serenemoose: Thought I had Ng4 here.
+[13:24:00] le_merovingien: Ng4 not good?
+[13:24:30] namegoesinhere: (9...g6) Ng4 I guess ...d4?
+[13:24:30] namegoesinhere: (9...g6) looks ugly though
+[13:25:01] le_merovingien: Sac the Queen? :D
+[13:28:19] le_merovingien: Yeah, I don't see anything. It might not be winning after all
+[13:29:05] namegoesinhere: (9...g6) I don't think it's winning by force or anything but it's super unpleasant in the long-term
+[13:29:20] le_merovingien: For whom?
+[13:29:20] namegoesinhere: (9...g6) for black
+[13:29:20] le_merovingien: Black has a nice position
+[13:29:35] le_merovingien: Re8 Bf8 Bg7
+[13:29:35] namegoesinhere: (9...g6) (unpleasent for black that is
+[13:30:21] namegoesinhere: (9...g6) white can go Be2 h4-h5 and attack that way
+[13:30:36] namegoesinhere: (9...g6) maybe ...d4 can give black enough counterplay
+[13:30:36] le_merovingien: Ng7 Nf5?
+[13:31:37] namegoesinhere: (10.Ng4) yeah, that's an idea, but white can always trade the f5 kngiht with Bg4 and the open h-file is scary
+[13:32:08] namegoesinhere: (10.Ng4) probably you have to take it slow and castle queenside, bring the other rook and maybe black has enough time to consolidate
+[13:32:23] jose684: Has to block Bishop’s diagonal now
+[13:34:55] jose684: This is getting spicy now :)
+[13:36:43] jose684: I am afraid That is a useless check
+[13:37:59] namegoesinhere: (12.Be2) I think ...Kh8 was more accurate, since now the knight doesn't have g7
+[13:39:15] namegoesinhere: (12.Be2) I guess ...Kh8 the f7-pawn is a problem so you don't get to go ...Re8/...Bf8
+[13:39:30] le_merovingien: Kh8 tied the Rook to f8
+[13:41:33] jose684: Black just need to get some counter play I think
+[13:42:19] le_merovingien: Shhh, don't tell him
+[13:42:50] namegoesinhere: (12.Be2) maybe 9...Nxd5 was needed so you can go ...g6 without being quite as exposed on the dark squares
+[13:43:20] jose684: Ha ha , let’s see how Black deals with this strange position
+[13:43:36] namegoesinhere: (13...Bxf6) but honestly it was probably just bad after ...Nh5
+[13:43:51] le_merovingien: Bh5 tempting
+[13:44:21] namegoesinhere: (13...Bxf6) Bh5 Kxh6?
+[13:44:21] le_merovingien: Ah drat
+[13:45:53] jose684: Black stirring up some trouble :(
+[13:47:09] namegoesinhere: (15...e5) I guess the plan is something like Nxe5 Nxe5 fxe5 f6?
+[13:47:55] namegoesinhere: (15...e5) probably white should ignore just develop e.g. d3 Nd2-f3
+[13:48:56] jose684: White’s Queenside is out of action
+[13:49:11] namegoesinhere: (15...e5) I guess you have to be careful of dxe3 if you go d3 but that brings the bishop back into the game
+[13:50:27] le_merovingien: Kg2 Kh2?
+[13:51:13] namegoesinhere: (16.h3) ...h5 might be a problem: Nf2 Bxf2 Kxf2 Bxh3
+[13:51:28] namegoesinhere: (16.h3) maybe even Qh4+ somewhere at the end
+[13:52:30] jose684: Yes h5 could be a problem, let’s see if Black finds it
+[13:53:00] namegoesinhere: (16.h3) actually ...h5 was a problem against a lot of moves, the h3 square is a bit of a problem in general
+[13:53:15] le_merovingien: Oh.... Nh2 Nf3?
+[13:53:15] serenemoose: Should probably have played 16. Kg2, didn't even come to mind.
+[13:53:15] le_merovingien: This is all gharbage
+[13:54:32] jose684: Black could take on f4 too, ooh they played it I see
+[13:55:33] namegoesinhere: (17.exf4) I thought exd4 was interesting, threatening d5 to buy yourself a tempo
+[13:57:52] namegoesinhere: (17...Qd6) ok, now is there time for Kg2?
+[13:58:08] jose684: Run king :)
+[13:58:08] namegoesinhere: (17...Qd6) Kg2 Qxf4 Kh1 with R/Qf1 coming
+[13:58:23] le_merovingien: HOw do you play this?
+[13:59:09] le_merovingien: Re8 after Kh1...
+[14:00:10] namegoesinhere: (18.Kg2) Qf1 after Re8?
+[14:00:40] le_merovingien: Qe4...
+[14:02:11] namegoesinhere: (20.Kh1) ah, Qe4 hits c2, nice
+[14:02:11] le_merovingien: Yeah, that was the point
+[14:02:27] le_merovingien: But this was missed.
+[14:02:42] le_merovingien: I don't understand anything anymore :D
+[14:02:58] namegoesinhere: (20.Kh1) yeah, now white has a tempo or two to try and go d3/Nd2
+[14:05:30] jeeprep2374: (21.Na3) love the opening from moose, Im gonna steal it
+[14:05:30] jose684: Finally queen side into action :)
+[14:05:45] le_merovingien: Haha
+[14:06:31] jose684: This is an irritating opening to face for sure :)
+[14:09:04] jose684: Got to go now . Hope Moose gets the Dub
+[14:09:19] namegoesinhere: (21.Na3) Na3 is an interesting choice, takes one less tempo to get the knight out but you would prefer to be moving it towards the k-side
+[14:16:43] le_merovingien: But the b2 Bishop is still entombed
+[14:21:03] serenemoose: So 22. Nb5, followed by the sac and my opponent has f6, seems like.
+[14:22:19] namegoesinhere: (21...Ne7) I was thinking Nc4 instead, queen check can be blocked by Bf3 and then we go Ne6 to cover f5 and maybe jump to g2?
+[14:22:19] namegoesinhere: (21...Ne7) *Ne3
+[14:24:06] namegoesinhere: (21...Ne7) can also consider Nc4-e5-f3 as well I guess
+[14:24:21] namegoesinhere: (21...Ne7) depends where the queen moves
+[14:28:25] serenemoose: Probably should've gone Nc4, followed by Qf4 somewhere, but they have Qe6 there.
+[14:41:39] serenemoose: Gotta be a mate somewhere, don't see it.
+[14:49:02] namegoesinhere: (26...Kg7) Nxd4 probably works but Bf3 looks simpler to me
+[14:51:50] le_merovingien: Nxd4 here too
+[14:53:07] le_merovingien: Kh2 is safe
+[15:04:18] namegoesinhere: (31...Qf4) Bxc8 Qxh4 Nf5+? Does this work?
+[15:15:30] namegoesinhere: (36.Qh6) sneaky
+[15:16:00] namegoesinhere: (36.Qh6) I suppose ...Rg8 forced?
+[15:30:18] le_merovingien: Go Moooooose
+[15:39:27] le_merovingien: GG Moose. That antler is still sharp.
