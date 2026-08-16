@@ -1,0 +1,113 @@
+Lichess game chat log
+Game      : https://lichess.org/5wMrPJJj
+White     : ecoarrivazumashoomzo
+Black     : neothehero
+Time      : 45+45
+Captured  : 2026-08-16 14:21:23 UTC
+Game ended : 2026-08-16 13:01:22 UTC
+Messages  : 103
+────────────────────────────────────────────────────────────
+
+[11:04:21] neothehero: (3...Nc6) Maurian Defence let's go
+[11:10:45] neothehero: (5.O-O) hmm I'm out of the book here
+[11:13:17] neothehero: (5.O-O) White might be looking at a possible knight sacrifice after 5...g4, I won't risk it
+[11:23:58] karasso: Go eco
+[11:36:10] neothehero: (8.Nh4) what?
+[11:41:31] neothehero: (9.Kh1) gxh4 Bxf4 Bxc3 bxc3 Ne5 looks good
+[11:42:47] neothehero: (9.Kh1) gxh4 Bxf4 Bxc3 bxc3 Ne5 Bxe5 dxe5 Bxf7+ this doesn't look that good anymore
+[11:43:48] neothehero: (9.Kh1) gxh4 Bxf4 I have to always be careful of Bxf7+
+[11:47:52] tomb85: Go Eco!
+[11:49:25] neothehero: (9.Kh1) this is tricky
+[11:49:40] neothehero: (9.Kh1) or should I play Bxc3 first to eliminate more attackers
+[11:49:55] neothehero: (9.Kh1) Bxc3 bxc3 gxh4 Bxf4 Nf3 seems ok
+[11:53:13] neothehero: (9...Bxc3) bxc3 gxh4 Bxf4 I can even go Be6 trying to trade more pieces
+[11:53:43] neothehero: (9...Bxc3) oh but Bxe6 fxe6 Qh5+ might be dangerous
+[11:54:44] neothehero: (9...Bxc3) why is white thinking? clearly Nf5 doesn't work right
+[11:55:00] neothehero: (9...Bxc3) I'd just go Bxf5
+[11:56:02] neothehero: (9...Bxc3) oh or maybe white is planning Bxf7+ Kxf7 Qh5+ now
+[11:57:03] neothehero: (9...Bxc3) Bxf7+ Kxf7 Qh5+ Kg7 Qg6+ Kf8
+[11:57:33] neothehero: (9...Bxc3) Bxf7+ Kxf7 Qh5+ Kf8 white queen has no more checks
+[11:58:04] neothehero: (9...Bxc3) Bxf7+ I think I should take the bishop, going Kf8 results in the same position as taking the bishop anyway
+[12:00:36] prostidude: Go go Eco
+[12:00:36] neothehero: (9...Bxc3) Bxf7+ Kxf7 Qh5+ Kf8 what can white do
+[12:01:52] neothehero: (9...Bxc3) Bxf4!?! gxf4 Rxf4+ Bf6 looks like white loses too much material
+[12:03:08] prostidude: Whatever the outcome I will applaud the fighting spirit of both sides after this game
+[12:03:39] neothehero: (10.Bxf7+) here we go
+[12:04:09] neothehero: (10...Kxf7) oh wait Qh5+ Kf8 there's Ng6+ fork
+[12:06:41] neothehero: (11...Kg7) Qg6+ Kf8 now this looks ok
+[12:07:12] neothehero: (11...Kg7) need to keep reminding myself to sacrifice some material back if needed, to get a winning endgame
+[12:10:45] neothehero: (11...Kg7) Qg6+ Kf8 Bxf4!? gxf4 Rxf4+ Bf6 Raf1!
+[12:11:46] neothehero: (11...Kg7) Qg6+ Kf8 Bxf4 I can also safe my bishop early with Bf6. This looks safer
+[12:12:32] neothehero: (12.bxc3) hmm didn't expect that, I thought Qg6 was natural
+[12:15:35] neothehero: (12.bxc3) gxh4 Bxf4 Nf6 Qxh4 Nxe4 again looks like white has too little material
+[12:18:39] neothehero: (12.bxc3) gxh4 Rxf4 Nf6 still looks ok
+[12:23:14] neothehero: (13.Rxf4) Nf6 Qxh4 Rf8 white can't play Rg4+ opening up a discovery on h6, as Nxg4 defends h6
+[12:25:16] littleoak12: go neo!
+[12:25:46] neothehero: (14.Qxh4) Rf8 Rf3 Ng4! defending h6 and threatening Rf1#
+[12:26:01] neothehero: (14.Qxh4) Ne5 here might also be good, adding another defender to the king
+[12:26:47] littleoak12: wow this game is crazy
+[12:26:47] neothehero: (14.Qxh4) I think Rf8 is better as it could lead to more piece trades
+[12:27:03] neothehero: (14.Qxh4) Rf8 I'm also threatening Nxe4!
+[12:27:33] neothehero: (14.Qxh4) wow Nxe4 might lead to queen trades as well, that's good
+[12:29:51] neothehero: (14...Rf8) Qg3+ I'll just go Kh7
+[12:30:36] prostidude: Nxf4 Qxh6 Kxh6 Rxf8 doesn't work because blacks knight guards their queen
+[12:30:51] prostidude: This doesn't look good for white
+[12:31:07] karasso: yeah, two pieces are a lot
+[12:31:37] littleoak12: does Bb2 do anything interesting
+[12:32:08] karasso: not really, Ne5 closes that diagonal (and a lot of other things also work)
+[12:32:38] karasso: would keep the bishop on the c1-h6 diagonal to have something against h6
+[12:32:38] prostidude: I'm looking at rg4 Nxg4 Qxh6 for a draw attempt
+[12:32:38] littleoak12: oh true ne5 kills it
+[12:32:54] neothehero: (14...Rf8) I feel safe in this position, don't see any more tricks apart from Rf3, which I will reply with Ng4
+[12:33:09] karasso: Nxg4 protects h6, that is a huge problem in this position
+[12:33:24] prostidude: Oh my line doesn't work at all
+[12:33:39] littleoak12: yeah knight will protect h6 haha
+[12:33:55] karasso: Rf3 with Rg3+ and Qxh6+ would be my first thought, but Ng4 also kills that line
+[12:34:25] neothehero: (14...Rf8) or Rf5, which I think I can even go Bxf5 since Qxh6+ Kf7  white has no more checks
+[12:35:41] karasso: don't have any idea for white here.
+[12:36:12] neothehero: (15.Bd2) umm not sure what's the idea of this
+[12:36:27] karasso: would also have played Bd2 to bring the other rook into the game. But black has now enough time for everything
+[12:36:42] neothehero: (15.Bd2) I'll just go Nxe4 to force more trades, looks winning still with one piece up
+[12:38:44] karasso: don't like Nxe4, seems unnecessary
+[12:40:15] karasso: Rg4+ bxg4 Bxh6+
+[12:40:46] karasso: here we go
+[12:41:16] karasso: still completly winning for black of course, but it is fun ^^
+[12:41:33] neothehero: (16...Bxg4) oh wait no did I miss Qxh6+
+[12:42:03] neothehero: (16...Bxg4) Qxh6+ Kf7 Rf1+ Nf6
+[12:42:03] neothehero: (16...Bxg4) am I losing
+[12:42:49] karasso: sadly no ^^
+[12:43:04] neothehero: (16...Bxg4) Qxh6+ Kf7 Rf1+ Nf6 Bg5 Ke6 Re1+ Ne5 seems safe
+[12:44:21] karasso: i thought Kg6 instead of Kf7 here
+[12:44:51] neothehero: (18.Rf1+) ummm Ke8 is certainly bad
+[12:45:37] neothehero: (18.Rf1+) Kg8 also looks bad, Rxf8+ Qxf8 Bxf8 Kxf8 Qh8+ wins my rok
+[12:45:52] karasso: Qxg4+ Kxh6 or Ng5 looked fine
+[12:46:23] karasso: now it is getting interessting again
+[12:46:38] neothehero: (18.Rf1+) Ke6 Qxg4+ Kd5 Bxf8 I'm losing a lot of material
+[12:46:53] neothehero: (18.Rf1+) Kg6 seems to be the only choice
+[12:46:53] karasso: Nf6 should be the move here
+[12:47:08] neothehero: (18.Rf1+) Qxg4+ I still have Kxh6
+[12:47:24] neothehero: (18.Rf1+) or can I interpose this check with Nf6
+[12:47:54] karasso: kg6 maybe also fine, true
+[12:48:09] karasso: kg6 looks actually very strong
+[12:48:55] neothehero: (18.Rf1+) Nf6 Qxg4 Rg8 Qh5+ Rg6
+[12:49:41] feet_barbie: (18.Rf1+) go shumzoooooo
+[12:50:12] neothehero: (18.Rf1+) wait does Qf6 work???
+[12:50:12] feet_barbie: (18.Rf1+) wow fun gameee
+[12:50:27] neothehero: (18.Rf1+) if Rxf6 then Nxf6 protects the g4 bishop
+[12:50:42] neothehero: (18.Rf1+) Qf6 Rxf6+ Nxf6 Bxf8 Rxf8 I'm up too much material
+[12:51:12] neothehero: (18.Rf1+) If white doesn't take on f6 then I'm threatening both Qxh4 and Qxf1#
+[12:52:59] neothehero: (18.Rf1+) wait but Kg6 I'm also threatening Rxf1#
+[12:53:14] feet_barbie: (18.Rf1+) dude sacrificed everythinggg
+[12:53:45] feet_barbie: (19...Kxh6) wow he found kg6 even better
+[12:54:00] feet_barbie: (19...Kxh6) king goes taking another piece and white is down 2 knights and a rook :/
+[12:57:03] neothehero: (20...Rf6) white still can't take my knight on e4
+[12:59:35] feet_barbie: (23.Re1) qe8 xd
+[13:00:21] neothehero: (23...Ne5) finally I'm safe
+[13:00:51] feet_barbie: gg
+[13:00:51] karasso: gg
+[13:01:07] karasso: Fun game
+[13:04:25] ecoarrivazumashoomzo: i think my only chance was if you didnt find kg6 maybe, besides that i didnt have too much going for me
+[13:05:56] ecoarrivazumashoomzo: mabe xh6 was beer but kf7 it just kf7 rf1 nf6 i thought
+[13:06:11] ecoarrivazumashoomzo: better* qh6*
+[13:07:27] ecoarrivazumashoomzo: mabe bg5 there
+[13:16:20] ecoarrivazumashoomzo: ke6 ok
