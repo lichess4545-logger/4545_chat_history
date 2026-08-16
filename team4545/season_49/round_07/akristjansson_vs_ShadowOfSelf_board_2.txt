@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/zPRAvrrQ
+White     : akristjansson
+Black     : shadowofself
+Time      : 45+45
+Captured  : 2026-08-16 20:27:37 UTC
+Game ended : 2026-08-16 19:07:34 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[17:02:27] akristjansson: prepped a lot for this game just cuz i wanted to study the Maroczy more
+[17:02:58] pineapplechiffoncake: Go Shadow! Go Alex!
+[17:03:59] shadowofself: I didn't prep for maroczy  but I know the general ideas
+[17:04:45] akristjansson: 6... d6 is more accurate than Bg7 due to threatening ...Ng4 and gaining some extra options
+[17:06:31] shadowofself: 7. f3 should be premature, there's usually some Qb6 idea in these positions...
+[17:08:03] akristjansson: 7. f3 is less popular than Be2. the purpose is to protect the e pawn and be able to play Na4 after 7... Nxd4 8. Qxd4 Bg7 9. Be3 0-0 10. Qd2 
+[17:13:38] akristjansson: 8... Qb6 9. Nf5 Qxb2 10. Nxg7+
+[17:22:04] akristjansson: 8. Be3 mainline runs 8... 0-0 9. Be2 Bd7 10. Qd2 Nxd4 11. Bxd4
+[17:24:36] shadowofself: I am missing something I think, 8...Qb6 9 Nf5 Qxb2 10 Nxg7+ Kf8 11. Na4 and I can't make it work
+[17:27:08] akristjansson: 9... Qb6 this is a mistake and one I looked at in analysis
+[17:34:30] akristjansson: 10... Qxe3 11. Nxe7+ Kh8 12. Nxc8 wins a pawn
+[17:35:47] akristjansson: 10... Qxc6 the queen is awkwardly placed on c6 and its hard to develop the light-squared bishop
+[17:44:40] akristjansson: deciding between 14. Rac1 and 14. Bd4
+[17:50:16] akristjansson: 14... Qd8 15. Nxf6+ exf6 leaves the d-pawn weak
+[18:37:18] pavonine: Go goooo akristjansson
+[18:42:24] akristjansson: 24... Qd8 25. Qe1 and if  25... Qb6 26. Rab1 and the rook benefits from the added protection of the queen
+[18:52:35] akristjansson: 26. Qe1 Nxd5
+[18:53:05] shadowofself: oh maybe should have played 25...Nxd5
+[18:54:21] pavonine: ...g5 is interestinf
+[18:56:08] akristjansson: 27... g5 28. Qg3 Nh5 looks problematic
+[18:56:53] akristjansson: looks like 27... g5 28. Re2 holds
+[19:10:37] shadowofself: looks like i was wrong 7. f3 is totally fine, there are some similar looking positions where Qb6 is good but not here
+[19:10:52] akristjansson: Gonna have to look at this one more, I think I was a bit better but went off track with some moves like Bd4, b4, and Ra4
+[19:12:08] shadowofself: yeah I was definitely worse
+[19:12:08] akristjansson: Yeah the mainline with f3 usually goes like Nxd4 Qxd4 Bg7 Be2 0-0 Qd2
+[19:12:24] akristjansson: Be3 not Be2^
+[19:12:39] akristjansson: I saw it one of your games so I thought you'd play it
+[19:12:39] shadowofself: makes sense it just transposes to 7. Be2 basically
+[19:12:39] akristjansson: yeah
+[19:12:54] akristjansson: I analyzed Qb6 bc i saw that in your games as well
+[19:13:25] akristjansson: Gonna have to look at this more, thanks for the game
+[19:14:41] shadowofself: I was looking at your games like https://lichess.org/7JrTzcxD#15 which turned out to be off base
+[19:14:41] shadowofself: gg thanks for the game
