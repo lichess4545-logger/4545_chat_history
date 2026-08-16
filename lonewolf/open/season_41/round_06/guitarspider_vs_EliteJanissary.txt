@@ -1,0 +1,23 @@
+Lichess game chat log
+Game      : https://lichess.org/yabRJ7uC
+White     : guitarspider
+Black     : elitejanissary
+Time      : 30+30
+Captured  : 2026-08-16 11:21:54 UTC
+Game ended : 2026-08-16 10:01:49 UTC
+Messages  : 13
+────────────────────────────────────────────────────────────
+
+[08:55:14] berndwind: go spider!
+[08:57:31] rio2018: i wonder if black can play e5 here somehow (go spider btw)
+[08:58:31] rio2018: it looks like with 15...Rf5, black is thinking about the same
+[10:06:24] berndwind: gg
+[10:07:41] guitarspider: Thanks! I think I got a bit lucky.
+[10:17:06] elitejanissary: I don't have time to analyse much now, but I wasn't sure between hxg6 and fxg6
+[10:18:22] elitejanissary: I was just looking at some lines in the advance, and fxg6 gets good activity
+[10:18:37] elitejanissary: But there White has a pawn on e5 so there isn't any activity down the e file
+[10:19:07] elitejanissary: Here I'm banking on the e5 break otherwise that backwards e pawn is a liability
+[10:19:38] elitejanissary: To be fair, I got e5 in, but there were so many trades on e5 it wasn't really a great IQP position
+[10:20:38] elitejanissary: But with opposite coloured bishops there wasn't really a way for White to break through, till I sent my Queen to purgatory
+[10:21:26] elitejanissary: I was eyeing a Rook sac on f3 but it never quite worked
+[10:27:46] guitarspider: if you want we can try to schedule an analysis session
