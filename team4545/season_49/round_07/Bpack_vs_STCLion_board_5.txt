@@ -1,0 +1,75 @@
+Lichess game chat log
+Game      : https://lichess.org/zmFccp1r
+White     : bpack
+Black     : stclion
+Time      : 45+45
+Captured  : 2026-08-16 22:35:42 UTC
+Game ended : 2026-08-16 21:15:36 UTC
+Messages  : 65
+────────────────────────────────────────────────────────────
+
+[20:12:27] tommeketoch: ANother match decider. Like our 3 previous matches
+[20:12:27] teannta: Bring it home Bpack!
+[20:18:33] highonpotnuse: whoops wrong account lol
+[20:22:38] bpack: (8...Nf6) i wonder if 8.h3 was a better move, could've been more effecient getting my king to h2
+[20:28:45] inter-temporal: (9...O-O-O) go Bpack!
+[20:30:01] highonpotnuse: (9...O-O-O) does this drop f7 or am i seeing things? Ng5?
+[20:30:47] inter-temporal: (9...O-O-O) hm. not sure how to defend or counter
+[20:33:21] inter-temporal: (10.Ng5) it can be a shock
+[20:34:07] inter-temporal: (10.Ng5) if therez no counter, black has to move both rooks to minimize material loss?
+[20:34:07] bpack: (10.Ng5) Going after f7 feels a little off. general rules of attacking make me feel like i should be opening the center/Qside
+[20:34:22] bpack: (10.Ng5) not really seeing favorable pawn breaks tho
+[20:34:53] pineapplechiffoncake: Go Bpack!
+[20:35:23] inter-temporal: (10...Rg8) this is an "attack" my dude.
+[20:35:39] highonpotnuse: funny moving both rooks allows e5 and N has to go th d5 losing another pawn
+[20:42:31] inter-temporal: (11...Nxe5) i'm back... what happened
+[20:42:46] shamdi: Go Bpack!
+[20:43:01] inter-temporal: (11...Nxe5) 11.e5 was what?
+[20:43:17] inter-temporal: (11...Nxe5) this is not sound, is it?
+[20:43:32] inter-temporal: (13.Kxg2) just for a check?
+[20:45:03] inter-temporal: (13.Kxg2) if ...Q+, Qf3 seems okay
+[20:45:34] highonpotnuse: (13.Kxg2) looks dubious but black was going to be material down with worse activity, blowing open whites king isn't a bad idea but don't ...
+[20:45:34] highonpotnuse: ...think this is the way to do it
+[20:48:22] bpack: (13...Qc6+) Positional me wants to Q trade immediately, Aggro me wants Q's to stay on
+[20:48:38] inter-temporal: (13...Qc6+) i might tune into the Sinquefield cup.
+[20:50:09] bpack: (14...Qxf3+) still no good squares for Nf6
+[20:51:41] inter-temporal: (16...Re8) oof
+[20:57:31] bpack: (21.Raf1) moar trades pls
+[21:01:04] highonpotnuse: maybe throw Ne4 in before some rook trade
+[21:11:30] bpack: (27.Kf2) Rxd7 still a top candidate, but not a fan of blacks counterplay after c4
+[21:12:01] highonpotnuse: (27.Kf2) Rxd7 looks like a quicker finish, don't think c4 is enough for black
+[21:12:01] bpack: (27.Kf2) Ne4 doing it's best spiderman impression
+[21:15:36] inter-temporal: (29.Rc8+) back again. had to meet with A/C repairman
+[21:15:52] inter-temporal: gg.
+[21:16:23] stclion: you went with the Delayed Zuke  ...
+[21:16:38] inter-temporal: book wants 7...Qc7 rather than Qb6
+[21:16:53] bpack: lol a fellow 1.nf3 er
+[21:17:08] stclion: yes  i thought gaining the black diag early  might help
+[21:17:08] bpack: ya it kinda looks like that, more of a closed sicilian, but indeed similar structures and attacking ideas
+[21:17:08] stclion: i know the Zuke well
+[21:17:23] inter-temporal: it's a pattern that long castle undefends f7 orf2
+[21:17:23] stclion: the problem  was   p-h6 instea dof 0-0-0
+[21:17:54] stclion: shoulda kept the focus in the middle   not the flanks
+[21:18:09] inter-temporal: we all walk into that fork too many times before it registers
+[21:18:40] stclion: ,  i guess i should have been more nervous     Lol
+[21:18:40] stclion: ( inreferece to yesterday'
+[21:18:55] stclion: s whispers
+[21:18:55] bpack: 0-0-0 was interesting to me, really enhancing my lsb. tho i did worry i had pushed too far kingside only to just drop the attack
+[21:18:55] inter-temporal: there are a couple of additional pattern-forks to look for with long castle. but usually associated with f2/f7
+[21:19:25] stclion: so  it could have been useful   after i cut off N-g5
+[21:19:40] inter-temporal: my yesterday whispers? lol trying to let everyone know i also struggle with nerves. :)
+[21:20:11] stclion: as long as i cut off N-g6 first ...
+[21:20:11] inter-temporal: black's Qc7 and d6 are aimed at the e5 square
+[21:20:26] inter-temporal: blacki needs more force on e5
+[21:21:12] inter-temporal: also, Qc7 and d6 give black's Q some coverage of f7
+[21:22:12] stclion: yes  Q-c7 is standard in the Kata
+[21:23:29] inter-temporal: might be easier to play/remember by connecting it to e5 and f7. idk
+[21:23:59] stclion: as you see tho    he's attacking on white sqs  ,  so you may not wnat to lose that 2nd pawn protector of e6
+[21:23:59] inter-temporal: Ng5 comes as a shock. it's hard to avoid the 2d blunder. i do that all the time
+[21:24:30] stclion: i got antsy  ...
+[21:24:45] stclion: saw it  just should have gone back to it
+[21:25:00] inter-temporal: we need to summon our inner samurai
+[21:25:15] inter-temporal: :)
+[21:25:46] stclion: but thanks   food for thought   for another game  ...
+[21:25:46] inter-temporal: ggs
+[21:26:32] stclion: D vs O     ...when to play which
