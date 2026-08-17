@@ -1,0 +1,128 @@
+Lichess game chat log
+Game      : https://lichess.org/q6BrHqKG
+White     : sahkal
+Black     : jeeprep2374
+Time      : 45+45
+Captured  : 2026-08-17 18:35:54 UTC
+Game ended : 2026-08-17 17:15:46 UTC
+Messages  : 118
+────────────────────────────────────────────────────────────
+
+[15:18:15] jokicinator15: (1.d4) lets go sahkal!!
+[15:18:46] jeeprep2374: (1...d5) Not much time to prep, obviously, so just reviesed some lines
+[15:19:16] sahkal: (3) didn't have much time to look at his games but he seems to like 3...a6 against Nc3
+[15:19:32] jfiras: (3...a6) we will get whispers from both players, this will be great.
+[15:20:02] sahkal: (4) and i don't really know the nuances of this move order as opposed to 3...Nf6
+[15:20:33] sahkal: (4) a difference is that now i have to develop my bishop to f4 instead of g5
+[15:21:03] sahkal: (4) but also his queenside is a bit weaker, the c6 move that they normally play will not be that great anymore
+[15:21:18] sahkal: (4) i'm talking about the positions arising from my next move, cxd5
+[15:21:49] sahkal: (4) which is a reasonable move here since otherwise he wants to take me on c4 and follow it up with b5
+[15:22:35] sahkal: (5) so now Bf4 and Nf3 probably is the best thing to do
+[15:23:21] sahkal: (5) in the normal QGD exchange 3...Nf6 i get Bg5 and can then develop the knight to e2 and go for an e4 break
+[15:23:36] sahkal: (5) but here it's probably not the play, here we focus on other stuff
+[15:23:51] sahkal: (5) those queenside pawns and the e5 square
+[15:24:07] jeeprep2374: (5...Nf6) expected the Bg5 mainline honestly
+[15:24:37] sahkal: (6) i think here e3 is the move i looked at and then he's played Bf5 before and then there are some choices like Qb3
+[15:24:52] sahkal: (6) e3 is just a very natural move so i'll play it fast
+[15:26:54] sahkal: (7) now here i was looking at one of his earlier games and Qb3 is an option that somebody played, then followed b5 Nf3 and Be7
+[15:27:09] sahkal: (7) and Be7 is a mistake, then white gets a great position with Ne5. but he might not make the same mistake again if he's looked at it
+[15:28:11] sahkal: (7) i'm not even sure that's exactly how the game went, maybe there was a Rc1 move in between
+[15:29:12] sahkal: (7) Qb3 makes sense though, try to make his b pawn move and create a backward pawn on c7
+[15:29:43] sahkal: (7) but there are other moves. i'm drawn to Qb3 because that's what i looked at mostly before the game
+[15:30:44] sahkal: (7) but i'm not confident that i understand how to play it properly
+[15:32:15] sahkal: (7) still i should do it
+[15:32:15] thegreattoddman: Good luck players!
+[15:33:16] sahkal: (8) okay here i don't remember if it was Nf3 or Rc1 first
+[15:33:47] sahkal: (8) Rc1 seems to be creating some threats
+[15:34:17] sahkal: (8) then what is his reply, i don't remember
+[15:36:20] sahkal: (8) maybe Rc1 c6 and then Nf3 is the position i looked at
+[15:36:35] sahkal: (8) that feels right
+[15:38:06] jeeprep2374: (8.Rc1) I dont like the fact that Nf3 hasnt been commited yet. what does it change? I have no idea
+[15:39:15] jeeprep2374: (8.Rc1) But normally white would have commited Nf3 by now
+[15:40:01] sahkal: (8) okay different move here, no c6
+[15:40:46] sahkal: (9) the d5 pawn might be hanging, but also Bxd6 if he has to recapture with the queen looks interesting with the backwards c-pawn
+[15:42:03] sahkal: (9) Nxd5 doesn't feel right at all, that shouldn't be my plan, giving him too much for the pawn
+[15:42:18] sahkal: (9) it's possible to move the bishop to g5 but then i'm just losing time and his bishop is nice on d6
+[15:42:49] sahkal: (9) so i think Bxd6 Qxd6 and the c-file is looking nice with the weak dark squares around the center, c5 and e5
+[15:46:22] sahkal: (10) now i wonder if this was the right way to do it or not, because his queen is quite good on d6
+[15:46:53] sahkal: (10) Nf3 is natural but Nbd7 stops Ne5
+[15:48:24] sahkal: (10) Ne20f4 i think then he goes Nc6-a5, but maybe that's no big deal
+[15:48:39] sahkal: (10) can always kick it out of c4 with b3
+[15:50:41] sahkal: (10) Ne2 Nc6 Nf4 Na5 Qd1 O-O Bd3 Ne4 f3 could be okay
+[15:51:12] sahkal: (10) how about Ne2 Nbd7 Nf4 c5, but then d5 hangs
+[15:52:12] sahkal: (10) i like the N on f4 because it supports Bd3 and wants to come to d3 eyeing c5 and e5
+[15:53:29] sahkal: (10) but Nf3 is faster development but i don't see a good plan that involves Nf3
+[15:57:02] sahkal: (11) oh maybe Nf4 c5 is problematic
+[15:57:17] sahkal: (11) now that he's castled
+[15:58:03] sahkal: (11) what am i talking about, no, c5 dxc5 attacks the queen so he doesn't get d4 in
+[15:58:03] sahkal: (11) it's fine
+[15:58:50] jeeprep2374: (10...O-O) In hindsight maybe Nbd7 might have been slightly better
+[15:59:05] jeeprep2374: (10...O-O) I dont have to commit c6 as early
+[15:59:36] jeeprep2374: (11.Nf4) But theres also the possibilty of playing Rd8 to avoid commiting c6
+[15:59:51] jeeprep2374: (11.Nf4) But that creates more problems
+[16:00:21] jeeprep2374: (11.Nf4) or does it really?
+[16:00:52] sahkal: (11) what i'm doing feels a little bit too slow, but maybe it will work out
+[16:01:07] sahkal: (11) feel like 10.Nf3 was the safer option
+[16:02:23] sahkal: (11) i don't see anything concrete that's really bad but maybe he finds some way to use his advantage in development
+[16:02:39] sahkal: (11) to trade his c pawn in a good way or something
+[16:03:09] sahkal: (12) okay that move Rd8 doesn't look threatening
+[16:03:24] jeeprep2374: (11...Rd8) Lets try not to burn away my time advantage at non-critical moments
+[16:03:24] sahkal: (12) so now Bd3 is the natural option
+[16:03:40] sahkal: (12) what's the point of Rd8?
+[16:03:55] sahkal: (12) oh he's just defending d5
+[16:05:11] sahkal: (12) Bd3 and if he moves the bishop away maybe Bb1 to have Nd3 and Qc2 ideas
+[16:06:27] mtsundance: Go JEEprep!
+[16:08:14] sahkal: (14) wow he does the trade, i thought moving the bishop somewhere looked like a better option
+[16:09:15] sahkal: (14) now we have created the forever weaknesses on the c file
+[16:10:16] sahkal: (14) his plan is probably a kingside attack, the knight comes to e4, the other knight to f5, queen and rook can join in
+[16:10:46] sahkal: (14) i should castle right now, get the king's rook into play
+[16:11:32] sahkal: (14) didn't think about Ng4 though, ugh that's a scary option
+[16:12:48] sahkal: (14) that's gonna be very difficult to deal with suddenly
+[16:13:49] sahkal: (14) g3 Qh6 h4 and at least if g5 i have Nxd5 with the Rxc6 threat
+[16:14:51] jeeprep2374: (14.O-O) How does white respond to Ng4? g3 I have Qh6 h4 g5 Qd1 Nf6
+[16:15:22] sahkal: (14) Na5 Qd1 always
+[16:15:52] jeeprep2374: (14.O-O) if Nf4 I play g5
+[16:16:22] sahkal: (14) but how about Ng4 g3 Qh6 h4 Nxe3 fxe3 Qxe3 Nf2 Nxd4 Qd1
+[16:16:38] sahkal: (14) he takes g3 and h4, no good
+[16:18:25] sahkal: (14) i have to find some very clever defense somehow
+[16:22:44] sahkal: (1) Ng4 Nf4 only chance, then g5 maybe Ncxd5 but Na5
+[16:24:46] sahkal: (15) then we have to give up something, Nf4 g5 h3 gxf4 hxg4. ugly but maybe has to be done
+[16:28:05] sahkal: (15) g5 Ncxd5 Na5 Qd1 h5 and both my knights are hanging, doesn't work
+[16:29:36] sahkal: (16) but maybe g5 Qd1 h5 h3 gxf4 hxg4 is an improvement over the earlier line
+[16:33:25] sahkal: (16) Ncxd5 Na5 Qd1 h5 Ne7+ Qxe7 Nxh5 might be playable
+[16:33:56] sahkal: (16) no but Ncxd5 gxf4 he wins, no good
+[16:36:14] sahkal: (17) yes that was an option but that's a bit weird, maybe it gives me time for Ncxd5 now
+[16:37:00] sahkal: (17) Ncxd5 gxf4 Rxc6 Qxd5 no, rook is hanging there
+[16:38:01] sahkal: (17) okay then we have to take on h2
+[16:39:17] sahkal: (18) and now Qg4-xf4
+[16:40:19] jeeprep2374: (18...Kh8) I have just realised how low on time my opponent is
+[16:41:04] sahkal: (19) going into this pawn down endgame, but at least we survived the attack
+[16:43:06] jeeprep2374: (20...Nxd4) Now I just play c5 on Rd1
+[16:43:22] sahkal: (21) and his knight is awkwardly placed. i'm thinking Rcd1 c5 Rfe1 trying to go Re5 next
+[16:44:07] sahkal: (22) still feels like very good chances for saving a draw here
+[16:45:08] sahkal: (22) should try to prevent a knight move followed by d4. the d or the c pawn has to be taken even if it's a trade
+[16:48:11] sahkal: (22) most worried about f6 here, let's see what he does
+[16:54:04] sahkal: (24) don't really want to move any of my pieces away from the attack on d5
+[16:56:07] sahkal: (25) interesting, Na4 Nc6 i move the rook and then c4 Nc5 is what i thought
+[16:57:08] sahkal: (26) unless he has c3 then, ugh
+[16:57:54] sahkal: (26) probably not, c3 bxc3 bxc3 Rc2 and his rook is attacked, cannot defend c3
+[16:58:24] sahkal: (26) Rd2 wasn't a great choice i feel like, would be better on d1 still
+[17:00:12] sahkal: (28) wow what am i missing
+[17:04:02] sahkal: (32) maybe he's winning with the connected passed pawns, we'll see
+[17:09:53] sahkal: (36) yeah it looks like he gets the win with the two connected pawns now
+[17:12:59] a3353446: Rc1
+[17:13:29] sahkal: (39) yeah, nicely played
+[17:13:45] a3353446: What?
+[17:13:45] a3353446: How does black win?
+[17:14:00] sahkal: (39) think i made some mistakes around move 25-30 or so
+[17:14:00] a3353446: Why does sahkal speak as if he lost
+[17:14:15] a3353446: Just rd1 and collect pawn
+[17:14:15] sahkal: (40) oh he plays d2 interesting
+[17:14:15] a3353446: What
+[17:14:45] sahkal: (42) yeah good enough
+[17:15:31] jfiras: gg !
+[17:15:31] guitarspider: gg
+[17:16:02] goldenretrieverchess: gg
+[17:16:17] sahkal: i'm not gonna check the engine just yet because i have some experiment to take part in
+[17:16:32] sahkal: well done
+[17:25:27] jokicinator15: gg
