@@ -1,0 +1,106 @@
+Lichess game chat log
+Game      : https://lichess.org/i3kxoikk
+White     : mobusel
+Black     : warvold
+Time      : 45+45
+Captured  : 2026-08-18 19:43:50 UTC
+Game ended : 2026-08-18 18:23:46 UTC
+Messages  : 96
+────────────────────────────────────────────────────────────
+
+[15:59:30] simonwashere: Go Warvold!
+[15:59:45] warvold: (2...Nf6) Hi Simon
+[16:00:01] warvold: (4.Nf3) Not surprised with the opening
+[16:08:12] warvold: (12...Bc6) That was the extend of my prep
+[16:08:43] warvold: (12...Bc6) Probably should have pushed a bit more but that's chess :)
+[16:08:43] kayrosas: lets go mobusel
+[16:09:28] warvold: (13.b3) g6-Bg7 is tempting but it'd weaken e7
+[16:09:44] kayrosas: interesting line, not sure what's happening here but Ba3 looks strong
+[16:09:59] warvold: (13.b3) Hi David, long time no see
+[16:10:30] davidsifre: Hey! And Go!
+[16:10:45] warvold: (13...e6) bxc4 Nxc4 can't be that bad
+[16:11:15] warvold: (13...e6) bxc4 Nxc4 Be4 maybe, can't take the rook
+[16:12:16] goldenretrieverchess: Gooo Warvold!
+[16:13:02] aldric123: (14.Na3) Go warvold!
+[16:14:03] warvold: (14.Na3) I hate moving the same piece again
+[16:15:19] warvold: (14...Bd5) Nb5 Qc6
+[16:16:20] warvold: (14...Bd5) Hey everybody
+[16:16:50] warvold: (14...Bd5) I have not castled yet, but I dont envy their development
+[16:17:06] warvold: (14...Bd5) Nb5 Qc6 Nd4 tho
+[16:17:51] aldric123: (14...Bd5) Castling is overrated! (Except for those games where you get early checkmated because of the delay!)
+[16:18:37] davidsifre: Nb5 to hassle your queen.
+[16:18:52] warvold: (15.Qe2) I was considering Rc8 here
+[16:19:23] warvold: (15.Qe2) But I wonder if Qc6 would be better
+[16:19:53] warvold: (15.Qe2) Not that my opponent really threaten anything
+[16:20:24] davidsifre: Develop the bishop and then kick the rook?
+[16:20:39] warvold: (15.Qe2) Question is, should I castle or disallow Nb5
+[16:20:39] warvold: (15.Qe2) Hey Bennol
+[16:21:25] davidsifre: Nb5 can e met with a queen move with a tempo.
+[16:21:25] davidsifre: Develop the Bishop
+[16:22:41] davidsifre: For more tips, rejoin the prickle for next season.
+[16:25:28] warvold: (15.Qe2) Hmm, there is a dangerous line, maybe
+[16:25:43] warvold: (15.Qe2) bxc4 Nxc4 Ba4+
+[16:25:59] warvold: (15.Qe2) Nevermind, Nxa4
+[16:25:59] warvold: (15.Qe2) Damn, let's wake up a bit
+[16:26:14] warvold: (15.Qe2) Nevernevermind, i played Nxc4
+[16:26:29] warvold: (15.Qe2) Let's really wake up x)
+[16:27:30] warvold: (15.Qe2) Alright, that simplify things
+[16:27:46] warvold: (15.Qe2) Qc6 looks good
+[16:37:56] warvold: (16.Be4) Is Bd6 good here?
+[16:41:45] warvold: (16.Be4) Bd6 bxc4 Bxe5 cxd5 Nxd5 c4 Bxa1 cxd5 Qxc1 looks ok
+[16:42:30] warvold: (16.Be4) Now Bd6 Bxd5 Nxd6
+[16:43:16] warvold: (16...Bd6) Looks ok, hopefully I did not miss anything
+[16:45:18] warvold: (17...Nxd5) R e4 g5 h5 ?
+[16:46:49] warvold: (17...Nxd5) Rg5 most probably
+[16:47:50] warvold: (17...Nxd5) Rg5 Nf4 looks nice!
+[16:48:52] warvold: (17...Nxd5) Rg5 Nf4 if Qf3 Qxf3 gxf3 Nh3+ forks
+[16:49:38] warvold: (17...Nxd5) If Qf1 I gotte find something but that'll be very passive
+[16:51:55] kayrosas: why not 18.Re4?
+[16:54:12] warvold: (18.Rg5) Hmm
+[16:54:29] warvold: (18.Rg5) Nf4 Qf1 cxb3 there is Qb5!
+[16:56:31] warvold: (18...Nf4) Haha
+[16:56:46] warvold: (18...Nf4) I see the flaw in my plan, I do not threaten mate
+[16:58:32] warvold: (20...Be7) New plan is to place a knight on d3
+[17:00:50] kayrosas: 21...Ng6 should win an exhange i think? but with the pawns white might still be better
+[17:02:22] warvold: (21...f5) I'm not sure if I can trap the rook
+[17:02:53] warvold: (21...f5) d4 Nh5
+[17:03:38] warvold: (21...f5) g3 Ne2+ Kf1 Nxc1
+[17:03:54] warvold: (21...f5) Ne5 Bf6
+[17:03:54] warvold: (21...f5) It does look good
+[17:04:24] warvold: (21...f5) Ba3 maybe
+[17:04:55] warvold: (21...f5) Too bad, there is a solution
+[17:06:11] davidsifre: In this position I regret being down2 pawns.
+[17:07:42] davidsifre: Nd5 adds protector to the bishop
+[17:08:13] warvold: (22.Ba3) Is it better to keep pieces on the board
+[17:08:13] warvold: (22.Ba3) but lose a pawn
+[17:08:28] warvold: (22.Ba3) Or save the pawn by trading the bishopes
+[17:08:58] kayrosas: not sure if there is a good way to decline
+[17:09:29] kayrosas: trading worsens white's knight at least
+[17:09:59] davidsifre: Be6?
+[17:10:30] kayrosas: you mean Bf6?
+[17:15:05] warvold: (24.d4) Oh yeah, Ne2+ forks!
+[17:15:05] warvold: (24.d4) Let's not do that :)
+[17:16:51] mkubecek: You meant Ne2+ Kf1 Nxc3 Rc1? :-)
+[17:17:22] momor: go Warvold!
+[17:23:12] warvold: (25...Nd5) Plan is to play a move, then a move
+[17:26:45] warvold: (27...Rc6) I considered Nxc3 but it does not work sadly
+[17:28:02] joonaf: go Warvold!
+[17:35:41] warvold: (28...Rc7) Can't I get at least one pawn back?
+[17:36:27] warvold: (29...Kxc7) Alright, still no good but at least, my h8 rook can play
+[17:43:04] warvold: (31...b5) Let's try to catch the horse
+[17:46:22] warvold: (32...Re8) It should hold
+[17:46:53] warvold: (32...Re8) c4 b4 d5 exd5 Rxe8 Nxe8 cxd5 Kd6
+[17:47:08] warvold: (32...Re8) Or better, Nf5
+[18:01:53] warvold: (40...Rg7) Alright, let's have some fun
+[18:03:25] kayrosas: Re3 is a nice move :o
+[18:04:56] warvold: (44...Nc4) I did not have much fun
+[18:05:11] warvold: (44...Nc4) Ne8 looks good
+[18:05:42] warvold: (44...Nc4) Ke7 Nc7 Nd6
+[18:06:43] warvold: (44...Nc4) Let's bring the fun back, Shift-G everybody
+[18:07:29] warvold: (44...Nc4) º.º
+[18:08:45] kayrosas: 45.f5 probably good, but feels weird to commit when our knight is still offside
+[18:20:43] warvold: (50...Ke7) Nxf5 does not work, but that was a long shot
+[18:21:44] warvold: (50...Ke7) Nc7 and it's probably over
+[18:23:15] simonwashere: gg
+[18:24:02] kayrosas: gg
+[18:24:17] goldenretrieverchess: gg
