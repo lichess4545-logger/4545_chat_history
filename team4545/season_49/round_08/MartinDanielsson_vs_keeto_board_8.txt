@@ -1,0 +1,75 @@
+Lichess game chat log
+Game      : https://lichess.org/5qhoVgbo
+White     : martindanielsson
+Black     : keeto
+Time      : 45+45
+Captured  : 2026-08-18 17:58:04 UTC
+Game ended : 2026-08-18 16:37:58 UTC
+Messages  : 65
+────────────────────────────────────────────────────────────
+
+[15:01:19] genturgidson: Go Martin!
+[16:13:50] genturgidson: Not sure why black let Martin have the bishop, but we'll take it I guess.
+[16:14:05] jdannan: there was no escaping material loss
+[16:14:20] genturgidson: 19...Bxe5 seemed the most survivingest to me.
+[16:14:36] jdannan: but then Qxe5 and the N is pinned
+[16:14:51] jdannan: oh dear he’s not taken the B
+[16:15:06] keeto: (20) how in the world have i gotten into this position.
+[16:15:36] genturgidson: Ohh yeah Qxe5 and the roooook pins the knight.
+[16:15:36] iwishiweredecent: This is exactly why I am trying to learn something other than the caro kann and the French...
+[16:15:52] iwishiweredecent: These cramped positions are so annoying
+[16:16:22] jdannan: black could have played c5 a while back I think.
+[16:16:22] genturgidson: I think he's playing some clever sacrifice, doesn't even want the bishop because he's so confident in the attack.
+[16:16:22] genturgidson: Mikhail Tal stuff.
+[16:16:53] jdannan: white is still better but surely just Qxd6 was the simple win
+[16:16:53] genturgidson: There's no way you play c4 without seeing the idea of taking the B.
+[16:16:53] keeto: (20) i think my king side is about to get all busted up, so maybe Be7 to try to trade off some big pieces?
+[16:17:08] keeto: (20) an open g file feels less scary with no queens and maye even a rook less on each side
+[16:17:39] genturgidson: I think he's seeing some tactic overloading the knight with weak checkmate squares around the queen.
+[16:18:09] jdannan: Qh4 now looks ok maybe
+[16:18:09] iwishiweredecent: that pawn on c4 is really annoying for black
+[16:18:09] genturgidson: White has potential tricks revealing attacks on the queen with tempos.
+[16:18:24] genturgidson: Like Qh4, indeed.
+[16:18:55] jdannan: I’d still rather be a piece up :-)
+[16:19:10] iwishiweredecent: Yeah Qf4 could work as well xraying that knight on c7
+[16:19:56] genturgidson: Qf4 Nxh5 Qxf7+ does it *actually* lead to a mate or material though?
+[16:20:11] genturgidson: Oh I guess it forks the knight back.
+[16:20:11] jdannan: and the black Q hangs
+[16:20:41] genturgidson: Oh yeah, I forgot that simple fact I established at the start.
+[16:21:27] genturgidson: I have to be top 10 worst commentators, I tend to speak before I think when writing comments on games.
+[16:21:27] iwishiweredecent: it is a mess of a position, that much is for sure.. but once the queen moves black has some issues staying connected, black is praying that
+[16:21:27] iwishiweredecent: white trades queens
+[16:21:58] iwishiweredecent: nonse Turg, you are my favorite because I do the same thing constantly
+[16:22:13] iwishiweredecent: The worst commentators are the ones that pull up an engine and pretend to be GMs
+[16:22:28] genturgidson: Nah you consistently outsmart me commenting on lines haha.
+[16:22:28] jdannan: kibitzing nonsense is more fun than playing nonsense that’s for sure
+[16:22:58] jdannan: my game is 1800 UTC by the way...
+[16:23:59] keeto: (21) it just gets more painful
+[16:24:30] jdannan: so white will have a pawn and a nice position.  is it winning? rook lift after the swaps?
+[16:25:00] genturgidson: Unlike me, black has to remember their queen is hanging now.
+[16:25:16] jdannan: yes I think something like Re3 will win in short order
+[16:25:46] jdannan: (assuming Qc8 and exchanges on f6)
+[16:26:01] iwishiweredecent: well you weren't wrong really because Nxh5 hits white's queen, if it weren't for Qxf7+
+[16:26:33] keeto: (21) how am i not just totally lost here
+[16:26:48] iwishiweredecent: black would love to be able to play Ncd5 but that annoying pawn on c4
+[16:27:03] jdannan: you are, keeto. you are
+[16:27:03] jdannan: (I think)
+[16:27:18] genturgidson: Go Martin!
+[16:27:49] jdannan: Nfd5 at least poses a question
+[16:28:35] jdannan: take take take take take Rf8 Re3
+[16:35:11] jdannan: wow I did not see that coming
+[16:35:56] jdannan: what a great move tho
+[16:35:56] iwishiweredecent: black is cooked
+[16:36:42] iwishiweredecent: can't take the knight
+[16:36:42] genturgidson: Plenty of twists and turns to come I hope. I made my best snacks for this.
+[16:36:57] iwishiweredecent: because of Nxf7 smother mate
+[16:37:12] iwishiweredecent: after Qg5 threatening mate, then Rg8, Nxf7
+[16:37:28] genturgidson: Oh yeah probably just Qg5.
+[16:37:43] genturgidson: Yep can still do it.
+[16:37:43] genturgidson: gg
+[16:37:43] iwishiweredecent: that also works
+[16:37:43] iwishiweredecent: gg
+[16:37:58] jdannan: gg
+[16:37:58] iwishiweredecent: that was a more forcing line
+[16:38:13] jdannan: some strong calculation there
+[16:38:29] iwishiweredecent: the game gave me some serious clostrophobia however you spell it
