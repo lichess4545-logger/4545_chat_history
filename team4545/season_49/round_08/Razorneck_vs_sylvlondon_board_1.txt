@@ -1,0 +1,140 @@
+Lichess game chat log
+Game      : https://lichess.org/CryCsDdn
+White     : razorneck
+Black     : sylvlondon
+Time      : 45+45
+Captured  : 2026-08-18 21:57:13 UTC
+Game ended : 2026-08-18 20:37:08 UTC
+Messages  : 130
+────────────────────────────────────────────────────────────
+
+[18:43:42] basilcandle: let's go sylvl!
+[18:44:28] upgoerfive: go sylv!
+[18:45:29] sylvlondon: I went for e5 but Was tempted by C5 and Nc6.
+[18:46:15] sylvlondon: The idea is on d5 to play c6 and if everything exchange on d5 I think I'm slightly better as he has an isolated passed pawn.
+[18:49:49] sylvlondon: I was planning tempo Nc5 on Be3 but no ...
+[18:51:05] sylvlondon: Well now I can go Nc4 He looks in trouble
+[18:55:09] sylvlondon: the position play by itself on the dark square. Bh6 Qb6 is coming.
+[19:12:13] sylvlondon: my plan is Nf6e8d6 to have a super blocker
+[19:17:19] sylvlondon: OUps I blundered b7 ...
+[19:17:50] sylvlondon: I still have Nd6 ... not focus enough on the game ...
+[19:25:27] davidsifre: Go sylvlondon!
+[19:26:43] davidsifre: Nxd6 protects the pawn.
+[19:27:14] davidsifre: And develops a knight.
+[19:27:29] davidsifre: And connects the rooks. It’s like the move that saved the war.
+[19:36:38] sylvlondon: the position is completely wild now ...
+[19:37:09] inter-temporal: (22.Nd1) "we let enemy Rs in the front door, but chase them out the back door. and never serve them tea"--Capablanca
+[19:37:39] davidsifre: That man has something to say about everything.
+[19:38:10] davidsifre: When a rook is knocking at your door, use the window.
+[19:38:10] inter-temporal: (22.Nd1) lol. and everybody else plagiarizes him. :)
+[19:39:41] inter-temporal: (22...Rb1) stubborn lil' dude
+[19:40:42] davidsifre: Was Nxd6 the wrong move?
+[19:40:58] davidsifre: Seems like it worked well.
+[19:40:58] davidsifre: Granted I can’t see 2 ply ahead.
+[19:41:44] inter-temporal: (23.Nc3) which move number?
+[19:42:14] davidsifre: 19.... After the pawn was pushed
+[19:42:44] pvgibson: i think that lost to Rfd1
+[19:44:01] davidsifre: Oh. I figured one of the rooks could back it up.
+[19:44:16] inter-temporal: (24.Nd1) maybe Qb4 also led to some problems
+[19:48:20] davidsifre: I checked. It was not the right move.
+[19:49:36] davidsifre: This rook knight dance is going nowhere.
+[19:49:51] sylvlondon: I won't take the draw. I feel I can win this his pieces are miserable and I have the bishop pair.
+[19:50:06] davidsifre: Just push the a pawn.
+[19:50:21] sylvlondon: I hav e to prove that d6 is a weakness ...
+[19:53:39] davidsifre: Bxe3+
+[19:53:55] davidsifre: Oh no. Forget that.
+[19:53:55] davidsifre: Stupid pony in the way.
+[19:54:10] lorb: queen too
+[19:54:25] davidsifre: Hmm. Maybe my board 8 wisdom doesn’t work up here.
+[19:55:26] lorb: well, you can look at it that way: since Bxe3+ is a legal move, white has to constantly worry about protecting that pawn
+[19:55:42] davidsifre: I am playing at stockfish level 2.
+[19:55:42] davidsifre: Maybe.
+[19:57:14] sylvlondon: I think exchanging queen is the only way to untight my position.
+[20:03:20] sylvlondon: Now I think d6 is a weakness Ne8 Bf8 is coming
+[20:04:51] inter-temporal: (29.Bc4) how to evaluate this... does anyone find an advantage?
+[20:05:52] lorb: these two are way above my level, but looks to me like black is better coordinated in terms of pieces and pawns
+[20:06:38] lorb: .... but given enough time, the a-pawn could become quite the asset
+[20:06:38] grzybozbur: i think white can't be worse
+[20:06:38] grzybozbur: because of a2
+[20:06:53] inter-temporal: (29...Ne8) yeh, hard not to notice that dude
+[20:07:23] grzybozbur: but the pieces somewhat awkward, yes
+[20:07:39] lorb: I suppose than we agree if a2 was removed from the board it would be better for black? but with a2 it's unclear?
+[20:08:24] inter-temporal: (29...Ne8) seems logical.
+[20:08:55] inter-temporal: (29...Ne8) c6 is a passer, but appears entirely blockaded
+[20:10:11] inter-temporal: (29...Ne8) i wonder if d6 falls, does white's R gain activity
+[20:10:26] inter-temporal: (30.Na4) good move, imo
+[20:11:12] grzybozbur: ok, black pieces don't seem any better than white now that i look at it
+[20:11:58] inter-temporal: (30.Na4) the pawns might tell a different story.
+[20:11:58] kayrosas: 30...Bf8 Nc5 Rd8 Nb7 Rb8 Nc5, potential for another repetition :)
+[20:12:28] inter-temporal: (30.Na4) lol. with Nb7 hitting the R?
+[20:12:43] kayrosas: yea
+[20:12:43] inter-temporal: (30...Ra8) but what about Nb6 here?
+[20:12:59] kayrosas: Ra7 is the idea I guess
+[20:13:29] inter-temporal: (30...Ra8) that seems good for white. idk
+[20:13:59] inter-temporal: (31...Ra7) ahh. Nc5 was better. indeed
+[20:14:15] kayrosas: e3 being attacked is quite annoying for white
+[20:14:30] inter-temporal: (31...Ra7) seems perfectly defended for now.
+[20:14:45] kayrosas: maybe Rd3 and Nb4 next
+[20:15:00] kayrosas: have to get to the c6 pawn eventually
+[20:15:31] inter-temporal: (31...Ra7) how about just a4. hello!
+[20:15:31] sylvlondon: It is wild.  Does he have something to save the d6 pawn ? I didn't see any trick.
+[20:15:46] kayrosas: a4 could be good, hm
+[20:16:01] kayrosas: but feels weird not to improve the pieces here
+[20:16:17] inter-temporal: (31...Ra7) "passed pawns lust to expand"--Capablanca
+[20:16:32] kayrosas: esp. with d6 falling i wanna get c6 in return
+[20:16:32] inter-temporal: (31...Ra7) (not Nimzo who just stole all Capa's stuff)
+[20:16:47] grzybozbur: i wanna get a9q
+[20:17:02] grzybozbur: erm, a8 maybe
+[20:17:02] inter-temporal: (31...Ra7) strong
+[20:17:17] inter-temporal: (31...Ra7) lol. a9 is stronger though
+[20:18:49] kayrosas: actually 32.Ba6 maybe
+[20:18:49] kayrosas: :o
+[20:19:19] grzybozbur: ba6 blocks the pawn
+[20:19:50] kayrosas: but there are some Bb7 ideas maybe
+[20:20:05] inter-temporal: (33.Nb4) now there's no Rf2 to bother f7
+[20:20:20] grzybozbur: i don't understand why that pawn is on a2 all the time
+[20:20:51] inter-temporal: (33.Nb4) maybe Na6
+[20:20:51] kayrosas: black is making threats, difficult to find the right moment to push
+[20:22:22] grzybozbur: what threats?
+[20:22:22] grzybozbur: d6 is doomed anyway
+[20:22:38] grzybozbur: white should be making threats, not black
+[20:22:53] kayrosas: e4 could be weak next if white plays too slow
+[20:22:53] inter-temporal: (33.Nb4) yeh, move 32 seemed like a free move?
+[20:24:09] inter-temporal: (33.Nb4) 32.Rd3 overdefended e3. idk. prolly some benefit i miss
+[20:24:39] inter-temporal: (36.Kg1) oof. checks
+[20:24:55] inter-temporal: (36.Kg1) looks equal now
+[20:25:25] kayrosas: black can push for a bit definitely
+[20:25:25] inter-temporal: (36.Kg1) even if e3 drops
+[20:25:40] kayrosas: maybe Bh6 back
+[20:25:40] inter-temporal: (36.Kg1) but equal is not a draw! play it out baby
+[20:26:11] lorb: looks more balanced than before the exchanges
+[20:26:26] inter-temporal: (36.Kg1) it's hard calculating Ns in time pressure
+[20:27:58] inter-temporal: (36.Kg1) i think black is experiencing that burden now
+[20:28:44] kayrosas: they get to consider their options for a bit. if they figure out there is nothing, draw shouldn't be too hard
+[20:30:00] kayrosas: but the longer i look at this the less i believe in a decisive result
+[20:31:46] sylvlondon: I don't find a way to push ...
+[20:32:47] grzybozbur: yeah, but rd2 still inexplicable
+[20:33:33] grzybozbur: maybe black wants to just trade everything
+[20:34:19] inter-temporal: i would. lol
+[20:34:49] grzybozbur: i would definitely not want to trade my strongest piece
+[20:36:22] nyanners: seems fine to me. rooks on maybe just as dangerous for b
+[20:36:52] nyanners: not going to achieve much with R+N there
+[20:37:08] nyanners: though this is just a draw offer of course
+[20:37:08] nyanners: gg
+[20:37:23] jdw10: gg
+[20:37:23] kayrosas: gg
+[20:37:23] inter-temporal: gg
+[20:37:38] ciraid: Gg
+[20:38:24] sylvlondon: Ok, I don't understand how i lost my advantage ...
+[20:38:39] sylvlondon: slowly decreasing according to computer ...
+[20:39:40] sylvlondon: anyway not unhappy with my play, the position was complex
+[20:40:11] nyanners: maybe c6 wasnt the right idea
+[20:40:26] nyanners: even if the eval remained okay
+[20:40:41] nyanners: c6 is very natural though of course
+[20:43:59] sylvlondon: I may have mixed something in my file but c6 is very thematic.
+[20:44:45] sylvlondon: I went wrong on 15 Ng6 16 Bg5. Nb6 fixing the b7 problem is much better.
+[20:45:00] sylvlondon: Not enough prophylaxy
+[20:45:15] nyanners: yeah i agree. but c6 didnt really help in this game
+[20:46:16] nyanners: but Nb6 would have made good sense of it
+[20:46:31] sylvlondon: Nf6 f8 e6 is not a right plan too slow. Nb6 then simply develop ...
+[20:47:02] sylvlondon: I'm too attracked by theses esthetics knight manoeuvres.
