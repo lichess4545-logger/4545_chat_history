@@ -1,0 +1,80 @@
+Lichess game chat log
+Game      : https://lichess.org/IUya1TCQ
+White     : inter-temporal
+Black     : smith_6
+Time      : 30+30
+Captured  : 2026-08-19 21:50:35 UTC
+Game ended : 2026-08-19 20:30:27 UTC
+Messages  : 70
+────────────────────────────────────────────────────────────
+
+[19:31:26] inter-temporal: (1...c6) gonna try that early Bg5 line, iirc
+[19:32:12] inter-temporal: (5.Bd3) was it this move? crap
+[19:32:58] inter-temporal: (7.Bg5) i have another strong LW opponent.
+[19:32:58] inter-temporal: (7.Bg5) don't let the rating gap fool anyone. he's a good player
+[19:33:28] inter-temporal: (8.Nf3) i was expecting 7...Qb6
+[19:33:43] inter-temporal: (8.Nf3) now i'm not so sure where my Q'sN goes
+[19:33:59] inter-temporal: (8...Qb6) sometimes i should play c4 first; or after Nbd2. idk
+[19:34:14] inter-temporal: (8...Qb6) ah this i remember, i think
+[19:35:15] inter-temporal: (9.Nbd2) if ...c5, i think i gotta look at c4 adn time to slow down
+[19:36:00] inter-temporal: (10.c4) if its wrong i might be losing already
+[19:37:17] inter-temporal: (10.c4) i think ...Nc6 could be difficult to analyze for me
+[19:45:10] inter-temporal: (12.cxd5) pawn sacs everywhere. lol
+[19:47:12] inter-temporal: (13.Qf3) honestly, this was what i calculated, but there was a lot i did not calculate on that last move.
+[19:47:57] inter-temporal: (13.Qf3) i'm guessing he gets counters on d4 and Qxb2. idk
+[19:51:32] inter-temporal: (15.dxc5) can i sac my a1-rook
+[19:53:49] inter-temporal: (15.Nge4) don't bee too crazy yet, inter
+[19:54:50] inter-temporal: (15.Nge4) if ..Qxb2, i think i can 0-0
+[19:54:50] inter-temporal: (15.Nge4) or smth
+[19:56:21] inter-temporal: (15.Nge4) is it more dangerous to short castle? or long
+[19:56:36] sahkal: Wild position, f6 was a controversial option
+[19:57:22] sahkal: But could be good
+[19:58:08] sahkal: dxc5 weird
+[19:58:23] sahkal: Played very fast
+[20:00:10] inter-temporal: (18.Qxf6) ...Nd3+, Kf1 oc
+[20:00:25] sahkal: Now nobody knows what's happening
+[20:00:56] inter-temporal: (18.Qxf6) unless... hmm
+[20:00:56] inter-temporal: (18.Qxf6) no. wrong. duh
+[20:01:11] inter-temporal: (18.Qxf6) idk
+[20:01:11] inter-temporal: (18.Qxf6) sharp.
+[20:01:26] inter-temporal: (18.Qxf6) i could be losing any second.
+[20:03:28] sahkal: Oh no Rg8?
+[20:03:43] sahkal: I don't get it
+[20:04:44] sahkal: Okay too difficult this game
+[20:05:15] sahkal: But now I think white can castle and black king is in big trouble
+[20:06:01] sahkal: Yes this now looks bad for black
+[20:06:16] sahkal: Nd3+ for sure looked more interesting
+[20:06:31] sahkal: But who knows if that move loses or not
+[20:06:46] sahkal: Maybe white's play dxc5 was quite good
+[20:06:46] sahkal: No it cannot be
+[20:07:33] sahkal: castling instead of dxc5 I think
+[20:07:48] sahkal: Kingside
+[20:08:18] sahkal: But maybe black should find a different reply to dxc5, like Qxb2 possibly
+[20:08:33] inter-temporal: (19.O-O) ...Qc6, g3 or smth
+[20:09:04] inter-temporal: (19.O-O) maybe Qf3
+[20:09:34] inter-temporal: (19.O-O) i might have endgame advantage
+[20:09:50] sahkal: Now I declare the position lost for the black side
+[20:11:06] inter-temporal: (19.O-O) plenty of ways for me to lose this... as usual with these sharp positions
+[20:11:21] sahkal: Unless he can find a way to castle
+[20:11:52] sahkal: Like maybe Nd7 was an option
+[20:12:07] inter-temporal: (20.Nf3) classic defense to doulbe attack--try to move one piece to defend the other
+[20:13:08] sahkal: Nd7 Qc3 Qc6 Qxc6 bxc6 is still advantage white I think but that was maybe a good way to get out of trouble for black
+[20:13:38] sahkal: Out of immediate trouble, but that position is still lost for sure
+[20:14:55] inter-temporal: (21.Ne1) smith is playing strong
+[20:16:27] inter-temporal: (21.Ne1) "Always threaten mate in 1"--Capablanca
+[20:17:43] inter-temporal: (21.Ne1) usually black's Q's N is on c6, when Nd4 would kinda suck for me
+[20:18:59] inter-temporal: (21.Ne1) maybe ...Nd3 is curtains for me
+[20:20:01] inter-temporal: (21.Ne1) there might be f3 or g3 or smth
+[20:20:01] inter-temporal: (21.Ne1) even Qf3
+[20:26:53] inter-temporal: (23.Rc7)  hey, at least i got to threaten mate in one
+[20:27:08] inter-temporal: (23.Rc7) even if i lose, i can truly say "it was close"
+[20:27:39] inter-temporal: (23.Rc7) but just watch, he finds like a Q-sac or smth. GOM for black!
+[20:28:25] inter-temporal: (23.Rc7) hm. what is black's move
+[20:28:55] inter-temporal: (23.Rc7) not enough time for me to calculate stuff. i just tried to ensure this move didn't lose immediately/obviously for me
+[20:29:26] inter-temporal: (23.Rc7) mate is threatened one7 and f7.
+[20:29:41] inter-temporal: (23.Rc7) i don't think ...Qxg2+ works
+[20:29:57] inter-temporal: (23.Rc7) yeh, no way. sooo. any other counter attacks?
+[20:30:27] inter-temporal: good game!
+[20:30:42] inter-temporal: wow. that was sharp.
+[20:32:59] inter-temporal: i have engine toggled off, but saw i made 2 blunders, which i'll try to find later
+[20:36:48] inter-temporal: i'm gonna put this in a study. let me know on slack if wanna chat
