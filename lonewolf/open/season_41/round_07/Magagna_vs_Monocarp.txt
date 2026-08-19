@@ -1,0 +1,22 @@
+Lichess game chat log
+Game      : https://lichess.org/BqzC1sSO
+White     : magagna
+Black     : monocarp
+Time      : 30+30
+Captured  : 2026-08-19 01:36:38 UTC
+Game ended : 2026-08-19 00:16:27 UTC
+Messages  : 12
+────────────────────────────────────────────────────────────
+
+[23:05:56] monocarp: (4.g3) does g6 back here cause too many dark square weaknesses? maybe then white can lose a tempo but go back for sicilian with d4
+[23:14:04] monocarp: (8... Bb7) now that white's knight can't get to d5 so easily, I'd be tempted to push e5 and d6 maybe...
+[23:27:02] monocarp: (11... f6) missed that e6 is hanging after exf6 Bxf6
+[23:27:32] monocarp: so maybe the ugly Rx is required
+[23:32:07] monocarp: (13... Rg6) now Bxe7, then Qx white may have Nh4 where the rook has to go to g5... then maybe f4? might be a bit much
+[23:32:52] monocarp: so I guess knight takes could be better, but then e6 is worse
+[23:37:11] monocarp: Nf8 not inspiring, but I don't even see a great way to give a pawn
+[23:41:00] monocarp: maybe last move I didn't consider Nf5 enough...
+[23:48:38] monocarp: (17. Bg2) just seen that I can't play Neg6 for tactical reasons -- then Ng4 traps the rook (Rh5 then Nf6+ with discovery)
+[23:55:32] monocarp: (20... Rg6) again, it's annoying that Rh5 doesn't work
+[00:09:50] monocarp: (26.cxd5) missed that the queen can take the rook after exd5 and get a winning endgame, but there isn't any better?
+[00:14:10] monocarp: (33. bxc5) I'd been planning Nb3 here, where I thought I could grab back the p with a knight, but there cxb6 saccing the rook
