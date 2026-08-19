@@ -1,0 +1,84 @@
+Lichess game chat log
+Game      : https://lichess.org/EEEcvH9k
+White     : qrs
+Black     : robertjackson
+Time      : 45+45
+Captured  : 2026-08-19 23:05:35 UTC
+Game ended : 2026-08-19 21:45:26 UTC
+Messages  : 74
+────────────────────────────────────────────────────────────
+
+[20:06:58] timothyha: (7...Qb6) d5 next?
+[20:07:13] timothyha: (7...Qb6) e5
+[20:07:29] cinemashow: (7...Qb6) is this prep from Robert?
+[20:07:44] timothyha: (7...Qb6) looks ok against Jobava
+[20:08:14] cinemashow: (7...Qb6) many queen moves - looks odd?
+[20:09:00] timothyha: (7...Qb6) many knight moves too? :-)
+[20:10:01] cinemashow: (7...Qb6) true
+[20:10:47] cinemashow: (7...Qb6) White with connection issues?
+[20:14:51] cinemashow: (7...Qb6) shame...
+[20:15:37] cinemashow: (7...Qb6) I'm thinking Qc1
+[20:19:26] qrs: just lost 10 mins cause my app didn’t sync .. Robert’s clock reached 35 when I decided to restart Lichess - now i am at 35..
+[20:20:27] timothyha: (9.Bd3) that's when Lichess restarts and you don't refresh your browsr
+[20:20:43] timothyha: (9.Bd3) not sure how the app deals with restarts these days
+[20:20:43] cinemashow: (9.Bd3) not sure I would offer the LSB trade with this pawn structure!
+[20:21:44] qrs: before 7. ... Qb6 8. b4
+[20:21:59] qrs: but I ll focus again on the game now ..
+[20:25:32] cinemashow: (9...Bg6) not sure what was wrong with Bxd3 followed by e6
+[20:28:20] timothyha: (10.Nf3) I think both are still flexible in choices here
+[20:30:22] jfiras: (10.Nf3) Good luck Robert !
+[20:30:22] cinemashow: (10.Nf3) so White is ahead in development now
+[20:36:28] karasso: go qrs
+[20:37:13] karasso: i like the position of white
+[20:39:15] cinemashow: (11...Nxc5) bx Rb1?
+[20:41:17] robertjackson: normal reminder to stop and think occasionally
+[20:41:33] handknit: (13.Qb3) never stop, never think
+[20:42:03] semlegesnev: - Cm Handknit, unbiased commentator
+[20:42:34] handknit: (13.Qb3) I am a conduit between the truth and the text
+[20:43:20] handknit: (13.Qb3) anywaythis seems good for white but not critical for black (yet)
+[20:45:37] timothyha: (14...Nd7) Qxb7 Qd8 is forced it seems
+[20:45:37] timothyha: (14...Nd7) and better for White for sure
+[20:46:08] timothyha: (14...Nd7) ah, Qxc3 is still there
+[20:46:24] cinemashow: (14...Nd7) Kd2!
+[20:46:54] cinemashow: (14...Nd7) offline again :(
+[20:49:27] handknit: (15.Qxb7) important to meet Qxc3+ with Ke2 and not Kf1
+[20:49:27] timothyha: (15.Qxb7) no, Qd8 still forced
+[20:50:28] cinemashow: (15.Qxb7) yes, Qxc3+ Ke2, but then what?
+[20:51:29] cinemashow: (15...Qd8) White could play a5 and will the Q get trapped
+[20:51:45] handknit: (15...Qd8) full chaos, no calculation: 15...Qxc3+ 16.Ke2 e5 17.Qxa8+ Ke7
+[20:52:15] handknit: (15...Qd8) 18.Rac1, I guess
+[20:52:15] cinemashow: (15...Qd8) this looks safest
+[20:52:15] tomb85: Go qrs!
+[20:52:30] qrs: 15 Qxb7 very commital, but Qxc3+ Ke2 does not seem to work for black if I didn’t miss sth
+[20:53:01] karasso: Ba6 with Bc7 next?
+[20:53:31] handknit: (15...Qd8) I assume black meets Ba6 with e5
+[20:54:17] karasso: yes, that would work
+[20:56:19] karasso: (17 Ba6) Bc7 next move will hurt
+[20:56:34] karasso: i guess still e5 has to be played
+[20:56:50] handknit: (17.Ba6) e5 doesn't work anymore because the B can just take now
+[20:56:50] cinemashow: (17.Ba6) white just takes it though?
+[20:57:35] karasso: oh, yeah. think i am little bit tired after my game ^^
+[20:58:06] karasso: then it looks completly lost for black
+[20:58:36] qrs: dreaming of 18. Bc7
+[20:59:07] cinemashow: (17.Ba6) Black can't play Be7
+[21:02:42] qrs: which actually doesn’t work in most lines. haha
+[21:02:57] robertjackson: so difficult
+[21:05:30] semlegesnev: Rb8 Bxb8 Qxb8 Qc8+ Qxc8 Bxc8 Nf6 +-
+[21:08:18] qrs: ah no.. 20 Bg3 probably better.. that was too fast and greedy
+[21:12:07] cinemashow: (21.Qxd5) Nd3
+[21:14:39] robertjackson: barely hanging on - need more
+[21:19:44] cinemashow: (27.Rd1) R1b1 looked good
+[21:20:46] cinemashow: (27...g6) threatened both Rxc5 and Rb8
+[21:25:22] timothyha: (28.Rd7) I thought Rd8+ could be played anyway with so many pawns
+[21:32:29] robertjackson: resignation shortly
+[21:32:59] timothyha: (28...Ba3) imminent?
+[21:34:46] timothyha: (30.Rd4) g5 has to be played
+[21:34:46] timothyha: (30.Rd4) to not trap the bishop
+[21:35:17] cinemashow: (30.Rd4) Rd1?
+[21:35:32] cinemashow: (30.Rd4) Bxf4 yes
+[21:35:47] cinemashow: (31.fxg5) Rg5
+[21:44:41] robertjackson: still hard to resign but I know I must
+[21:45:26] cinemashow: gg
+[21:45:43] tomb85: gg great game qrs!
+[21:47:31] karasso: gg
+[21:49:33] qrs: Thanks everyone for watching!
