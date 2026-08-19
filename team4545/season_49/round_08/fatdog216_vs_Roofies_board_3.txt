@@ -1,0 +1,128 @@
+Lichess game chat log
+Game      : https://lichess.org/dKUNgDKz
+White     : fatdog216
+Black     : roofies
+Time      : 45+45
+Captured  : 2026-08-19 23:17:22 UTC
+Game ended : 2026-08-19 21:57:17 UTC
+Messages  : 118
+────────────────────────────────────────────────────────────
+
+[19:08:08] fatdog216: 8...Be7: out of theory officially here, the line I remeber goes 8...a6 9. Be2
+[19:08:54] fatdog216: but I wonder if these will transpose.  I guess Be7 probably falls for the same trap as after a6 Be2 then Be7, namely the d pawn hanging
+[19:10:41] fatdog216: 10. Nxd5: this looks like a clean pawn
+[19:13:30] fatdog216: 11...Bb6: king is still uncastled and Qe5+ would force Kf8 to avoid loss of g7 pawn.  Looking at Ne5 vs Bxc6
+[19:16:33] fatdog216: 11. Bb6: Ne5 seems pretty forcing because of the mate threat and the threat to win the bishop
+[19:17:34] fatdog216: 11...Bb6: Ne5 Be6 stops both threats but then I can take twice on c6 with check at minimum
+[19:18:35] genturgidson: Go Roofies!
+[19:21:22] fatdog216: 13. Qe7: candidates are Qxg7 allowing 0-0-0 and some mutual attacks vs Bxd7 (forcing Kxd7) followed by Rd1+ (forcing Ke8 again)
+[19:23:56] fatdog216: both seem like good choices but keeping the king separating the rooks seems worth not taking a second pawn.  My development is lacking
+[19:24:58] fatdog216: 13...Qe7: I think I like look of the forcing line - Bxd7 Kxd7 Rd1+ Ke8 Qb5+ Kf8 with probably Bd2 or b3 there to develop DSB and second R
+[19:25:28] fatdog216: that seems a pretty forcing line, running it again but can’t see a way for black to deviate
+[19:27:15] fatdog216: 16...Kf8: now need to decide on Bd2 vs b3 in this position
+[19:29:01] fatdog216: 16...Kf8: I think I like b3, putting pawns on light and getting DSB quickly to long diagonal without obstructing the open c file I can have
+[19:30:48] fatdog216: 17. b3: doesn’t work now but b3 also introduces ideas of a4 Ba3
+[19:31:49] fatdog216: maybe Rd7 with Qf5 threatening mate on f7 and then Ba3 to distract the queen
+[19:32:35] fatdog216: 17...Qf6: first instinct is Ba3+ now develops with tempo and forces Kg8
+[19:35:38] fatdog216: 18...Kg8: I want to play Rd7 but Qxa1+ hangs at least a rook.  Maybe Rb1 preparing Bb2 with tempo and Rd7
+[19:36:08] fatdog216: 18...Kg8: or Rac1 where the rook is protected by the Bishop
+[19:38:10] fatdog216: 19. Rab1: preparing Bb2 if g6
+[19:38:41] fatdog216: 19...h6: makes more sense for luft with my DSB
+[19:40:59] fatdog216: 19...h6: but it doesn’t seem like they can use the h7 square yet because of Qd3+ at minimum forcing a trade of queens
+[19:47:20] fatdog216: 20. Rd7: plan is to keep making threats and sneak in a flight square ASAP to kill back rank mate ideas.  This feels overwhelmingly good
+[19:47:36] fatdog216: but I’ve certainly messed up better positions
+[19:52:56] fatdog216: 20...Rd8: wait doesn’t Be7 look tough to respond to here.  Can’t take, no checks...
+[19:54:58] fatdog216: 21...Qg6: ah that’s clever, threatening the b1 rook with check, I missed that
+[19:55:44] fatdog216: hmm and can’t play Rxd8+ because after Bxd8 both rook and bishop hang there and can’t defend each other
+[19:56:30] fatdog216: although wait Rxd8+ Bxd8 Qe8+ but then Kh7 and queen is hanging too
+[19:56:45] fatdog216: hmm and Qd3 doesn’t work obviously with Qxd3 Rxd3 Rxd3
+[19:57:31] fatdog216: maybe Rbd1 but not winning an exchange like I thought I was with Be7.  Qg6 was a good move
+[19:58:32] fatdog216: Bxd8 clearly doesn’t work after Qxb1 forcing Qf1 where material trade is equal but my pieces are a bit tangled
+[19:59:33] fatdog216: 22. Rbd1: planning Qxd7 if Rxd7
+[20:01:35] fatdog216: 23. Qxd7: threatening b7 with Rb8 to be met with Bd6
+[20:01:50] fatdog216: but wait is there Rd8 in that line?
+[20:03:21] fatdog216: 23...Kh7: doesn’t matter.  Qxb7 vs h3.  It feels like that b7 pawn isn’t going anywhere and there are back rank ideas if they can get the R
+[20:03:37] fatdog216: active so maybe h3 safer.  I’m sure engine is screaming to just take material but time to be practical
+[20:04:39] fatdog216: 24. h3: that move maybe deserved more thought because with a DSB on the board g2 may have been preferred as a flight square
+[20:07:11] fatdog216: 24...Qe4: looks like a good move, pressuring everything and defending b7.  Wondering if trading queens is the move here up a pawn
+[20:07:26] fatdog216: not seeing many other moves to generate pressure
+[20:07:57] fatdog216: and I’ll own the d file but feels like they will get counterplay on the c file
+[20:09:28] fatdog216: looking at 25. Rd5 but don’t see what I’m actually threatening or the plan from there
+[20:10:29] fatdog216: maybe try to own both files with 25. Rc1
+[20:12:16] fatdog216: 25. Rc1: also threatening Rc4 tempo on the queen with Qb1+ Kh2 looking safe enough
+[20:16:05] fatdog216: 25...Rb8: first instinct is Bd6 but I think that runs into Rd8 like I mentioned in the other line
+[20:17:37] fatdog216: maybe Qd6 instead
+[20:19:08] fatdog216: 26. Qd6: wait after Re8 my DSB is pretty short on squares
+[20:19:54] fatdog216: 26. Qd6: if Re8 I think Bf8 is forced and then maybe Rd8 then to take over the file
+[20:20:25] fatdog216: and they’ve played it!
+[20:20:55] fatdog216: 27. Bf8: play the forced move quickly
+[20:21:41] fatdog216: Rd8 Qa3 might be forced there to keep the DSB.  Wait I guess I have Qb4 trading queens but then Rd2 and I think I’m worse even up a pawn
+[20:22:27] fatdog216: ah wait very lucky the recapture with the bishop on b4 prevents Rd2 at the end of that line
+[20:23:12] fatdog216: 27. Bf8: I’m starting to wonder if Bxe3 or Rxe3 works here though
+[20:23:28] fatdog216: surely that’s what they’ve calculating, it looks pretty scary at first glance
+[20:24:13] fatdog216: 27. Bf8: if Bxe3 I can’t take fxe3 obviously.  And they’ve played it
+[20:25:14] fatdog216: 27...Bxe3: looking at Qg3 here threatening mate on g7 and trying to give myself time to extract the rook but then bishop still hangs
+[20:28:02] fatdog216: Qg3 and then Qxe3 against most things I guess.  But Qg3 Bg5 looks problematic
+[20:28:32] fatdog216: but not seeing anything better and starting to get dangerously lower on time, I’ll give myself a couple more minutes but then Qg3
+[20:30:04] fatdog216: definitely feels like I’m fighting for equality here all of a sudden
+[20:32:36] fatdog216: 28...Bg5: nicely found I think by black.  everything here seems to lose a piece to some terminal check
+[20:32:52] fatdog216: except maybe h4 I guess which loses a pawn but trades queens
+[20:33:07] fatdog216: maybe they’ll take Bxh4 and hang mate lol
+[20:35:39] fatdog216: 32. Rd1: definitely a bit worse here but will try to hold
+[20:37:57] fatdog216: 34. Bc3 for better or worse (probably worse) the past few moves have been pretty forcing for me
+[20:41:01] fatdog216: 35. Ba1: regretting the light squared pawns on a2 and b3 that I can’t defend with the bishop a bit now lol, a2/b2 with the bishop on c3
+[20:41:01] fatdog216: would be much nicer
+[20:44:03] fatdog216: 36. a3: plan to meet b4 with axb4
+[20:44:19] fatdog216: and a4 with b4
+[20:45:21] fatdog216: 37. Be5: trying to play fast but feels like they have too much time
+[20:50:56] fatdog216: 39. Bxd2: definitely a bit worse here but feels a bit more comfortable without the rooks.  maybe nail the pawns on light with a4?
+[20:51:27] fatdog216: because if I try to do the same on dark with b4 there’s always a4 and then Bc1 to attack the a3 pawn
+[20:52:28] fatdog216: I guess no queenside threats at the moment and can’t see how black breaks through on the queenside so maybe leaving it alone and focusing
+[20:52:43] fatdog216: on slowing kingside play?
+[20:53:13] fatdog216: 39...Bxd2 nah let’s just lock the queenside down on light squares and then have only the kingside to focus on.  Probably still losing
+[20:53:29] fatdog216: but easier to try to hold
+[20:56:31] fatdog216: 41...Bb4: obviously can’t take because king is outside of the square and black queens first and with check
+[20:57:02] fatdog216: 42. Be5: looks like the most active square for the bishop with two good diagonals
+[20:58:19] fatdog216: 44. f3: plan is pawns on light where possible and try to keep king out of imporant squares
+[20:59:35] fatdog216: 44...Kf5: noticing also that black’s easiest win condition is just winning the a4 pawn outright so probably it’s a race to the queenside
+[21:00:21] fatdog216: I worry that black’s kingside majority will win with both kings on the queenside but definitely can’t let black go QS uncontested
+[21:00:51] fatdog216: at least in a race to the queenside it looks like I might be just in time.  Kingside still hard to hold with the black majority though so
+[21:01:07] fatdog216: probably still losing.  Definitely zero winning chances
+[21:06:12] fatdog216: 47...Kd5: I don’t really want to move any of the pawns and the king is perfect so I guess a bishop move is needed
+[21:07:28] fatdog216: not really sure if the location makes a difference but I guess keeping pressure on the a5 pawn can’t hurt so maybe Bb6
+[21:08:59] fatdog216: 49. Bd4: attacking g7 expecting g6 or g5 but nothing to do but wait with the bishop I guess
+[21:09:15] fatdog216: maybe Bd8 was better there preventing g5 altogether
+[21:10:00] fatdog216: I guess nothing to do but wait and see how black breaks through.  There must be a breakthrough
+[21:11:32] fatdog216: if I can trade down enough pawns on the kingside I can maybe sac the bishop for the a5 pawn and force a draw
+[21:11:47] fatdog216: unfortunately the black has the right color bishop for the a pawn
+[21:14:20] fatdog216: have to take obviously
+[21:15:36] fatdog216: 51...fxg4: I was looking at Bd8 here trying to stop h4
+[21:16:21] fatdog216: I don’t see how black wins the a pawn and my king can shuffe side to side to keep theirs out.  Is this a draw?
+[21:21:26] fatdog216: 52...Be1: ah I missed this idea but seems obvious in hindsight forcing h4 through with the bishop
+[21:23:59] fatdog216: I don’t see a way to stop h4 so I guess I need to try to win both pawns on the kingside and sac my bishop for the a pawn
+[21:24:30] fatdog216: I guess time for a mad dash to the kingside then and Ke2 comes with tempo on the bishop over Ke3 so let’s go with that
+[21:25:16] fatdog216: 53. Ke2: my calculation is if h4 Kxe1 h3 I have time
+[21:25:31] fatdog216: here I guess I offer a repetition.  Would definitely take a draw
+[21:26:32] fatdog216: 54...Bb4: hmm good move I think putting me in a bit of zugzwang
+[21:27:03] fatdog216: it’s gotta be a bishop move here so that helps narrow down the options
+[21:27:33] fatdog216: shame though because the bishop is ideally placed on d8
+[21:28:04] fatdog216: maybe I can shuffle between h4 and d8 with the bishop
+[21:32:53] fatdog216: 55...Ke5 is an interesting try but I think I can keep the king out using c7 and d8 check diagonals
+[21:33:24] fatdog216: without moving the king from this ideal central light square
+[21:36:42] fatdog216: 58...g3: I didn’t see this idea but it looks surprisingly strong with Kg4 now an option wow
+[21:38:29] fatdog216: wow I don’t see any answer to g3 with Kg4 and h4 ideas, wild
+[21:39:45] fatdog216: I guess I’ll run back to f1 but h4 looks strong
+[21:41:47] fatdog216: gxh3 definitely loses but it looks like Kg1 probably loses too
+[21:44:19] fatdog216: 62. Kg1: this is looking entirely unclear.  If h2+ Kh1 and if the king leaves g3 undefended I will take it
+[21:44:35] fatdog216: and if hxg2 Kxg2 looks ok for white
+[21:45:20] fatdog216: maybe h2+ Kh1 Be1 is the way for black with king running to the queenside then with g3 pawn defended and my king stuck literally in the
+[21:45:20] fatdog216: corner
+[21:47:53] fatdog216: Be1 is creative but Kh1 and I have the same ideas no?
+[21:50:56] fatdog216: 64. Kg1: shuffle shuffle
+[21:51:27] fatdog216: still feels like there could be a breakthough for black here using the aforementioned plan so I’ll let them decide to repeat or offer
+[21:51:27] fatdog216: draw
+[21:51:42] fatdog216: they have plenty of time to look for something
+[21:55:46] fatdog216: 67...h2: poor visualization before, now I’m seeing isn’t Bxa5 available because if Bxa5 it’s stalemate?
+[21:56:01] jdannan: or bxg3
+[21:56:16] fatdog216: what a bizarre position and a weird end, though I guess they don’t have to take
+[21:58:49] fatdog216: well spotted jdannan I didn't notice that Bxg3 worked as well
