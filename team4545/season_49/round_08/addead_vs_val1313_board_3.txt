@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/4J1dHFOy
+White     : addead
+Black     : val1313
+Time      : 45+45
+Captured  : 2026-08-19 15:33:16 UTC
+Game ended : 2026-08-19 14:13:05 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[13:11:01] handknit: (8...Nh5) Be5 is good here
+[13:11:32] handknit: (8...Nh5) Makes black's N on h5 awkward
+[13:15:22] semlegesnev: Unless the e file can be pressured before black castles, this pawn structure can be a problem
+[13:15:52] handknit: (10...cxd5) It's not so bad
+[13:16:08] handknit: (11.Nc3) It's not like black can avoid e6 and g6 forever
+[13:16:23] handknit: (11.Nc3) And when that happens, f5 is gonna be a worthwhile idea
+[13:16:38] handknit: (11.Nc3) And even without it, Nc4-Ne5-g3 is a fine setup
+[13:16:38] handknit: (11.Nc3) *Nc3
+[13:17:24] handknit: (11.Nc3) Like here, you meet e6 with f5, and Nf6 or Nb6 with Ne5
+[13:19:11] semlegesnev: For black I'm thinking smth like Nf6, Qb6, e6 Bd6
+[13:25:03] handknit: (11.Nc3) In that line I think, at minimum, white can meet e6 with f5
+[13:26:19] handknit: (11.Nc3) There's also an idea of meeting Nf6 with f5 immediately
+[13:27:05] handknit: (11.Nc3) Make it very hard to push either e6 or g6
+[13:27:20] handknit: (11.Nc3) Immediate f5 seems quite strong in that case, actually
+[13:35:59] stevenlongs: White trying to press on time?
+[13:41:04] stevenlongs: f5 even more unpleasant here oof
+[13:54:47] semlegesnev: Rxd4 Rxd4 Qxd4 Qc8+ Qd8 Qxb7 +-
+[13:56:03] semlegesnev: I like Qa4+ on the first blink
+[14:06:44] semlegesnev: Nf7 +-
+[14:12:20] semlegesnev: Ng4+ here
+[14:13:21] semlegesnev: gg!
+[14:13:36] val1313: gg
+[14:13:36] val1313: sorry for the poor performance
+[14:14:22] val1313: it was basically over after nxF4
+[14:16:39] ttsgosadow: That happens, you fought well!
