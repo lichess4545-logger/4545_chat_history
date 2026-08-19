@@ -1,0 +1,104 @@
+Lichess game chat log
+Game      : https://lichess.org/t1lOZUyu
+White     : king_hunter-1
+Black     : karasso
+Time      : 45+45
+Captured  : 2026-08-19 21:46:53 UTC
+Game ended : 2026-08-19 20:26:47 UTC
+Messages  : 94
+────────────────────────────────────────────────────────────
+
+[18:03:48] robertjackson: Good luck Artur
+[18:07:36] tomb85: Go Karasso!
+[18:11:10] karasso: Bxd4 is not the normal move, but it is also not really bad for white. I had this position (including Qg3) like 10 years ago in an otb
+[18:11:41] karasso: classical game, where my opponent play very fast h4 and h5
+[18:13:58] karasso: main question is for me, where to put my lsb
+[18:15:29] karasso: in the other variations, where i play Nxb3 the bishop can go to e6. Iirc even here Be6  Bxe6 fxe6is possible, but it does look kind of
+[18:15:29] karasso: wrong
+[18:28:42] karasso: Be6 is 30% calculation, 20% the feeling that the mova was correct here and 50% that i don't see an other way to stop h5 hxg6 hxg6  Qxg6
+[18:36:05] karasso: i want to play Rfc8 if hxg6 hxg6 Qh4.
+[18:36:21] karasso: e5 Qe6 i think is fine for me
+[18:37:22] karasso: the good thing is for me, that my king is quite safe even with the open h-file
+[18:41:43] timothyha: (16...Qd7) doesn't White have e5 now?
+[18:42:28] handknit: (16...Qd7) black plays Qe6 and hits b3
+[18:42:43] karasso: kind of like my position. The queen on e6 will control a lot of squares and my bishop on g7 does a fantastic job at defending and
+[18:43:44] karasso: attacking at the same time. At some point in the future i might have b5 to break open the Queenside
+[18:48:50] karasso: Kb1 Rxc3 bxc3 b5 looks like fun. not sure if it is good ^^
+[18:57:14] karasso: whatever
+[18:59:46] karasso: 20... Bxc3 was also possible Qh3 Qc6 Qd3 and i would have had longterm compensation with the monster bishop and one pawn for the exchange
+[19:00:17] prostidude: Go go karasso
+[19:01:48] karasso: but this looks (practically) nice. engine might not approve, but he has so many weaknesses. b3 c3, aslo e4 and f2 both hang in some
+[19:02:03] karasso: variations
+[19:03:04] karasso: he has the option of Qh7+ Kf8 Qh8+ Bxh8 Rxh8 Kg7 Rxa8  entering two rooks vs queen
+[19:03:20] handknit: (20...b5) feels like bxa4 hits hard at the end of that line
+[19:03:35] karasso: but his rooks are so disconnected there + his king is open, that it should be good for me
+[19:03:50] handknit: (20...b5) or even Qb7
+[19:05:37] karasso: i hope you are at least entertained ^^
+[19:12:13] karasso: i don't really see anything for white, where i would be happy, and by his time usage on this move, he also doesn't. Feeling wise i would
+[19:13:14] karasso: the queen asap back to the queenside like Qh3 or Qg5, but it does not seem to work very well
+[19:16:49] karasso: as white if have not found anything good now after 20 min, i would really try to make Qh7+ Qh8+ etc work.
+[19:20:22] kayrosas: b5 is really nice :o
+[19:21:54] karasso: tbh, it actually does not look to bad for white. .... e.g. Rxa8 Qc6 Rxa5 Qxe4+ Kc1 bxa4 Rxa4 Qxg2 is not clear whatsoever with the passer
+[19:21:54] karasso: on b3
+[19:24:42] karasso: not forced, i can also direcrly play bxa4, Rxa5 axb3 Kb2 Qg4 etc.
+[19:25:43] grzybozbur: except instead of qc6 black can immediately take on a4 and there seems no way to keep the b pawn, which looks losing
+[19:25:58] karasso: but overestimated that position after Rxa8, when i played Rxc3 and b5. Should have looked at it longer.
+[19:26:44] timothyha: (20...b5) does White have time to sac the pawn on e5, play Kc2 and use rooks to defend?
+[19:26:44] karasso: on the other hand he should really make a move. No matter what you are going to play, having some time on the clock would have been
+[19:26:59] karasso: helpful
+[19:27:30] timothyha: (20...b5) after the pawn sac it's probably barely a draw
+[19:27:30] robertjackson: looks like technology issue
+[19:27:30] timothyha: (20...b5) but at least easier to defend
+[19:28:00] timothyha: (20...b5) our player had a power cut once this tournament, barely made a move after switching to mobile
+[19:30:17] pope123: (22...Qb7) Hello friends
+[19:31:04] karasso: Qh3 Qb7 iwas my plan, not sure if Qh7+ changed anything, but i don't think so
+[19:43:33] grzybozbur: qh7 seems to matter in this line: 25.kd2 and my first thought was rb8 wins, but rb1 and black can't take
+[19:44:50] timothyha: (28.Rh3) Black has an backrank issue so the rook is slightly limited?
+[19:47:07] kayrosas: 28...a4 can't hurt?
+[19:48:23] kayrosas: or Bf6 maybe
+[19:48:38] kayrosas: other than that i dont really see a useful move
+[19:51:11] karasso: having Bg5 as an option nand the g7 square for the king might be helpful. Other option was just a4
+[19:58:18] kayrosas: 31...a3 seemed interesting
+[19:58:33] karasso: a3 Qxa3 Qxa3 Rxa3 Rh3 with Rh8+ treaht did not seem to work
+[19:58:49] kayrosas: oh i missed that
+[20:00:35] karasso: g4 does nt look good, now the king will never be safe
+[20:00:50] grzybozbur: 30...qxd3 rxd3 bb2 seemed simple enough, here you kind of need to think
+[20:02:37] karasso: i could have played the game after b5 cleaner, but now it seems to be good enough
+[20:03:53] iwishiweredecent: feels like torture trying to find moves for white
+[20:10:29] pope123: (37.Qe4) Ironically the king is being hunted
+[20:16:20] timothyha: (38...Qh3) Re2 is ok for one move...
+[20:16:36] timothyha: (38...Qh3) Rb1 Rc1, and h1 is covered for now
+[20:17:06] timothyha: (39.f5) this is like opening new fronts on every move :-)
+[20:17:21] timothyha: (39.f5) tough game for both now
+[20:17:52] handknit: (39.f5) g5 is the "close the threat" move but Bc3+ is interesting
+[20:18:38] handknit: (39.f5) Idea behind the latter being something like Bc3+ Ke2 Qh1
+[20:19:09] handknit: (39.f5) Though I think white has multiple tactical shots there
+[20:19:09] timothyha: (39.f5) but Rxg5+
+[20:19:24] timothyha: (39.f5) with Qh1
+[20:19:39] handknit: (39.f5) You mean Rxg6+?
+[20:19:55] timothyha: (39.f5) yeah, I wasn't sure where the pawn was in your line :-)
+[20:20:10] semlegesnev: There miight be a perpetual after Rxg6+ in that line
+[20:20:10] handknit: (39.f5) I mean Rxg6+ followed by Qxe7+ is one of the worries
+[20:20:25] handknit: (39...g5) Rxc3 and Qd4+ another
+[20:20:25] handknit: (39...g5) g5 makes sense to just put the pressure back on white
+[20:20:41] handknit: (39...g5) Now black's threatening to just push a3
+[20:21:27] karasso: wanted to go Bc3+ Ke2 Rb1 and thought it was winning, but Rcx3 and the queen attack the rook on b1 and also there  Rxg6+ fxg6 Qxe7 with
+[20:21:27] karasso: a lot of checks
+[20:23:13] handknit: (41.Kd2) Rxg5+ 1-0
+[20:23:13] handknit: (41.Kd2) oh wait, Bxg5 is check lol
+[20:23:29] handknit: (41.Kd2) dang cat blocking my view
+[20:23:29] timothyha: (41.Kd2) how big is a CM cat?
+[20:23:59] handknit: (41.Kd2) this one is small and shrinking, he's old and his kidney function is declining
+[20:24:14] semlegesnev: :(
+[20:24:14] timothyha: (41.Kd2) tough
+[20:24:30] handknit: (41.Kd2) circle of life
+[20:25:00] semlegesnev: Baboona Matata, I guess one could say
+[20:25:15] handknit: (42.Ke2) baboona. Matata.
+[20:26:16] karasso: Rxg5 was the threat. before Ke2 Rxg5 Bxg5+
+[20:26:31] timothyha: (42...Rb1) maybe Kf3 survives here? but Be5+ for Kg3
+[20:26:47] jfiras: gg !
+[20:26:47] timothyha: gg
+[20:27:17] semlegesnev: gg!
+[20:27:47] rolihlahla: gg
+[20:32:22] robertjackson: gg
+[20:37:12] kayrosas: gg
