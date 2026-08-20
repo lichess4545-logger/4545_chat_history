@@ -1,0 +1,31 @@
+Lichess game chat log
+Game      : https://lichess.org/ojW4zNHM
+White     : silkthewanderer
+Black     : qudit
+Time      : 45+45
+Captured  : 2026-08-20 23:39:27 UTC
+Game ended : 2026-08-20 22:19:21 UTC
+Messages  : 21
+────────────────────────────────────────────────────────────
+
+[20:06:01] unclevinny: gooooo Qudit!
+[20:30:45] jcarmody: go silk! :)
+[20:49:21] unclevinny: go chess!
+[21:07:23] silkthewanderer: 17. a3 Bxa3 18. Qa2 doesnt work because Bb4 Qxa7 Ba5
+[21:07:54] silkthewanderer: My actual idea is c5 and then I do get a7 and things should work out from there
+[21:09:25] silkthewanderer: After 17. ...a5 I might still have the same idea even as a pawn sac with b4 ab ab Bb4 Ra7
+[21:10:11] silkthewanderer: The threat of Nc6 there is kinda hard to answer
+[21:11:58] zubenelgenubi: Silk!
+[21:17:03] silkthewanderer: Eh, lets see if it works out the way I think it does
+[21:27:29] silkthewanderer: Okay, I guess no a file invasion. Time to play the other flank now
+[22:11:58] zubenelgenubi: what about 29 Qg5?
+[22:12:44] zubenelgenubi: how does black stop Qh6 threatenin g7 and h8 mate?
+[22:15:17] zubenelgenubi: I guess this is good enough
+[22:19:21] zubenelgenubi: gg
+[22:19:53] jcarmody: gg
+[22:20:08] zubenelgenubi: oh kh7 h5 Rg8 after Qg5
+[22:20:38] silkthewanderer: Yes that was a worry @Zube
+[22:21:09] silkthewanderer: I saw that only very late, fortunately h5 was enough
+[22:21:09] silkthewanderer: Or ar least so I think
+[22:21:09] kayrosas: gg
+[22:25:29] zubenelgenubi: 29.Qg5 Kh7 30. h5 Rg8 is +22 while your variation is # in 6 unless black gives away the Q
