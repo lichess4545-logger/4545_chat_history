@@ -1,0 +1,90 @@
+Lichess game chat log
+Game      : https://lichess.org/II7lFnyx
+White     : n8otom8o
+Black     : scotchwhisky
+Time      : 45+45
+Captured  : 2026-08-20 01:13:32 UTC
+Game ended : 2026-08-19 23:53:30 UTC
+Messages  : 80
+────────────────────────────────────────────────────────────
+
+[22:04:52] namegoesinhere: (6...a6) go n8otom8o!
+[22:10:13] leverkuhn: looks like a fairly successful Pirc outcome for Black
+[22:10:43] leverkuhn: He can play 8...Bg4 to trade the lsb, which can become a problem piece in Benoni structures
+[22:13:00] n8otom8o: (8.d5) So far, our game seems to be similar to a Naroditsky game I watched on YouTube last night.
+[22:14:31] n8otom8o: In that game Black played Qb6 at some point and e5, in which case the plan was to reroute the f knight to c4.
+[22:15:02] kborman: Go n8otom8o!
+[22:15:48] n8otom8o: Where does the dsb go?
+[22:16:33] leverkuhn: 8...Nbd7 feels wishy-washy to me; after 9.h3! Black can play neither ...Ng4-e5 nor ...e6 and may struggle to find a good plan
+[22:20:37] scotchwhisky: got kind of what I wanted so far out of this Pirc
+[22:21:23] scotchwhisky: not sure what white will do on move 9, but then I also don't know what to do. Considering Ng4 to Ne5 and seeing what happens
+[22:21:54] scotchwhisky: 9. Bg5 ok that maneuver is still interesting. Maybe Qb6 though, to Qb4?
+[22:22:55] scotchwhisky: Qb6 attacks the pawn and assuming he will play a rook or queen move to defend, or b3, but that weakens the knight on c3
+[22:23:10] scotchwhisky: in either case Qb4 next move attacks e4 pawn
+[22:24:56] scotchwhisky: but then Bd3... c4 and Nc5 hmm
+[22:25:42] scotchwhisky: he can also trade off the knight but then I have bishop pair
+[22:25:57] leverkuhn: 9...Qb6 10.a5 Qxb2 11.Bd2--does the queen get corralled?
+[22:26:13] leverkuhn: extremely confusing to calculate that kind of stuff
+[22:26:58] leverkuhn: you could imagine a draw with Ra2-a4-a2
+[22:27:59] namegoesinhere: (9...Qb6) maybe also Nxe4 tricks in that line? looks like a mess
+[22:27:59] leverkuhn: maybe 11.Qd2 to get Rfb1 into the picture, but then even more tricks
+[22:30:32] namegoesinhere: (9...Qb6) there's also 11.Na4 to calculate after 10.a5 Qxb2
+[22:31:03] leverkuhn: 11.Na4 Qb4 and e4 and a5 both hang as there aren't good discoveries
+[22:31:19] n8otom8o: (9...Qb2) Hmm. Qd2 Qxb2 Rb1 traps the queen? What if a5 Qxb2 Qd2 , maybe less obvious also traps queen?
+[22:33:21] leverkuhn: ooh n8o considers the ideas! Could get spicy.
+[22:39:41] n8otom8o: I'm only concerned with 10...Qb4
+[22:41:44] n8otom8o: a5 Qxb2 Qd2 Qb3 is probably not good. Okay, Qd2 it is.
+[22:43:45] scotchwhisky: 10...Qxb2 11. Rfb1 gets my queen. what about Re8 then Ng4 but he could play h3 bleh
+[22:44:31] scotchwhisky: still may have Qb4
+[22:45:33] scotchwhisky: he probably wants Bh6
+[22:46:49] scotchwhisky: Re8 seems flexible
+[22:48:51] leverkuhn: 10...Re8 11.a5 Qb4 12.Ra4 Qxb2 13.Rb1 Nxe4 14.Rxb2 Nxd2 15.Bxd2 leaves White up a piece
+[22:49:06] leverkuhn: so that's one drawback of ...Re8 I think
+[22:54:12] n8otom8o: 11.a5 now? If Qb4 then Ra4.
+[22:54:42] scotchwhisky: 11. a5 is begging me to play Qb4 now
+[22:54:57] scotchwhisky: oh but Ra4 why are there all these traps
+[22:56:59] scotchwhisky: lame
+[22:58:16] scotchwhisky: now thinking about b6
+[22:59:47] n8otom8o: 12.Bh6. If Nxe4 Nxe4 Bxb2 then Ra2.
+[23:00:02] scotchwhisky: or b5
+[23:01:19] scotchwhisky: I'm always drawn to playing Bh8 in cases like these, but then I look at the engine and it's like yeah just trade the bishop
+[23:01:19] scotchwhisky: and let the queen get closer
+[23:01:19] scotchwhisky: and it doesnt make any sense
+[23:03:36] kayrosas: if you want the engine's approval this opening might not be the correct choice tho
+[23:04:06] kayrosas: bh8 just feels right, nice
+[23:05:38] kayrosas: will need some accurate moves after Ng5 and f4 probably
+[23:06:54] n8otom8o: (12.Bh8) Now what? Ng5, f4, f5 a plan? Or Re1?
+[23:24:13] kborman: Nxf7 lead to any tactics?
+[23:28:47] kborman: I feel 3 high level players shaking their heads at me lol
+[23:31:20] n8otom8o: I'm sure 17.Qd1 was a miss or a mistake. I'm not sure I really want Bh5, since Bxg6 may not be good for me.
+[23:32:36] namegoesinhere: (17.Qd1) Nxf7 was interesting but I couldn't quite see the follow-up, I was thinking about g4 but I don't think it works
+[23:37:13] n8otom8o: losing the initiative...
+[23:47:09] scotchwhisky: Bxh5 Qxh5 Bg4?
+[23:47:55] scotchwhisky: or Bg4 first
+[23:48:56] n8otom8o: Bg4 and i think i am forced to take here.
+[23:52:45] scotchwhisky: whoops
+[23:53:00] scotchwhisky: Rxh3
+[23:53:00] scotchwhisky: what a sloppy game by me
+[23:53:30] scotchwhisky: well played
+[23:56:03] n8otom8o: Oh, not 15.f5 but 15.e5. Yeah, I didn't know what I was doing there.
+[23:56:03] scotchwhisky: still didn't feel safe at the end
+[23:56:48] n8otom8o: Yeah, i knew Qd1 was bad, lost the thread before then.
+[23:57:19] scotchwhisky: I didn't know what I was doing that game
+[23:58:50] scotchwhisky: woah 15. e5 dxe5 16. d6 Qxd6 17. Bc4
+[23:59:51] scotchwhisky: felt cramped that whole game
+[00:00:06] scotchwhisky: I don't understand 6...e5 very well
+[00:00:22] scotchwhisky: doesn't it just lose a pawn?
+[00:00:37] scotchwhisky: oh some kind of tactics
+[00:00:37] scotchwhisky: Nxe4
+[00:01:38] scotchwhisky: I saw some video about 6...a6 but I forgot what to do next
+[00:01:53] scotchwhisky: seems like 7...Nc6 is playable
+[00:03:56] scotchwhisky: I like the Pirc but need to figure out how to at least get a playable position
+[00:04:11] n8otom8o: I think Naroditsky discusses 6.e5, I can't remember, it might be in the analysis of one of his games.
+[00:04:42] n8otom8o: 6...e5*
+[00:07:30] scotchwhisky: yeah I saw some video about 6th move either c5 or e5 are the main ones, but c5 is way more complicated I think
+[00:07:45] scotchwhisky: can even play c6
+[00:08:31] scotchwhisky: but I thought usually white plays Bd3 not Be2, not sure
+[00:10:17] n8otom8o: I thought Be2 at least makes Bg4 less annoying.
+[00:14:21] n8otom8o: Bd3 is discussed at 29:05 here: https://www.youtube.com/watch?v=TIpUDMzQVmU
+[00:19:57] scotchwhisky: oh gotcha this is from the white side
+[00:24:01] n8otom8o: Yep, I think he provides nice justification for Be2 in lieu of Bd3 or Bc4.
