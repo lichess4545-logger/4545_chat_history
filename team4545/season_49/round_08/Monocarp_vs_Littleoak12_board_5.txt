@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/OHnmxFer
+White     : monocarp
+Black     : littleoak12
+Time      : 45+45
+Captured  : 2026-08-20 12:02:23 UTC
+Game ended : 2026-08-20 10:42:22 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[09:05:39] kayrosas: gl littleoak ^^
+[09:05:55] kayrosas: benoni is exciting :o
+[09:06:25] monocarp: (3... e6) I was assuming I'd see 3...d6, the czech
+[09:07:11] monocarp: I think e6 is a theoretical move, so I think dxe6 is probably bad... but looking at it it looks good -- as fxe6 is surely some issue...
+[09:09:58] kayrosas: 5...Nxe4 seems possible?
+[09:11:45] monocarp: from a distance (i.e. before playing 4.dxe6) I missed that Qe5 isn't a check
+[09:11:45] monocarp: but still, this ought be good
+[09:20:10] kayrosas: a pawn is a pawn tho
+[09:20:56] kayrosas: and white is also behind in development. only the weak dark squares could be good
+[09:20:56] monocarp: (9.Bh6) Not in love with my position as black will take a large development lead here
+[09:21:57] kayrosas: i guess the choice is between Nc6 and d6. I think Nc6 is preferable, we always want that move
+[09:22:12] kayrosas: d6 is not always necessary, maybe we can do d5 bc of our development edge
+[09:32:52] kayrosas: i think d5 now could be interesting
+[09:38:27] kayrosas: really good play by black so far :o
+[09:44:33] kayrosas: 13.Bg7 Rg8 Qh6 seemed interesting. maybe 13...Qa5+ is a nice in between move
+[09:45:34] kayrosas: also 13.Bd3 maybe an option and 13...e4 Bg7, but not 100% on if this works for white
+[09:45:34] littleoak12: I'm wondering how ambitious to be here. like maybe I can get 13. Nd2 e4 14. Ng5 e3 15. fxe3 dxe3 16. Ndf3 Qa5+ Ke2
+[09:46:20] monocarp: (12... e5) It's so bad now...
+[09:48:22] monocarp: maybe I have to play Bg7 and trade for the knight? looks terrible but tactics may demand I'm able to control e4
+[09:48:37] monocarp: and in other lines my bishop is getting in trouble
+[09:52:14] monocarp: (15. Bd3) If 15...Bf5 and I don't have a move
+[09:52:29] monocarp: and it's so obvious for black also
+[09:58:20] kayrosas: only thing black has to be careful of is to not try to force something too much
+[09:58:50] kayrosas: +1 pawn and massive space advantage, gonna be better no matter what
+[10:01:08] kayrosas: 16...e4 Nfd2 Nb4 looks strong i think
+[10:02:08] kayrosas: Nxe4 Bxe4 Bxe4  Qe7 0-0 might be fine for white tho
+[10:02:54] kayrosas: d3 also interesting option, but very commital
+[10:04:57] monocarp: (17... Bg5) castling has tactical issues...
+[10:05:27] monocarp: but there's nothing I can do to stop e3 being strong I think
+[10:07:14] monocarp: maybe I can pin the e pawn after O-O, e3.
+[10:07:14] monocarp: looks flimsy, but what else to do...
+[10:09:01] monocarp: no, it doesn't work at all
+[10:10:17] kayrosas: 18.Ba4 would be one consideration. i dont think e3 wins immediately there and the knight be scary otherwise
+[10:11:19] monocarp: (18. Qd1) The least worst option????
+[10:17:41] monocarp: (19... O-O-O) 20.g4????
+[10:19:12] monocarp: nvm I miseed that after e3, e2 is also a threat
+[10:19:27] monocarp: but now I've played it anyway
+[10:26:05] kayrosas: bf4 is really nice :o
+[10:26:05] monocarp: (20... Bf4) this is much stronger than everythin I saw
+[10:27:51] monocarp: Kg2 then h3 are all I see to stop immediate mate
+[10:28:06] monocarp: but then h5 comes down the board or something
+[10:30:54] monocarp: I throw in f3 somewhere but if black plays it right It's all over
+[10:37:02] monocarp: actually only just realised f3 can't played because it's stopping Qg3
+[10:37:17] mkubecek: Yeah, Qg3 would speed up things a lot.
+[10:37:33] mkubecek: ...f3...
+[10:37:33] monocarp: so maybe h5, Rh1 (I've checked that grabbing on e4 doesn't work if 22...h5)
+[10:39:19] mkubecek: Bxg4?
+[10:39:35] mkubecek: I was a moment too late...
+[10:40:05] monocarp: (24. f3) drops mate
+[10:40:05] mkubecek: It's still checkmate in two, isn't it?
+[10:40:51] monocarp: just Qg3+, Kh1, Qxh3+, Kg1, Qh2#
+[10:41:06] monocarp: oops, but all moves were probably mate anyway, or giving up the Q
+[10:41:06] mkubecek: Qg3+ Kh1 Qh2#
+[10:43:08] littleoak12: and thats the end of the season for us two
+[10:43:23] monocarp: yeah
+[10:43:54] littleoak12: monocarp move 5 e4 seemed like quite a big concession, what was your plan?
+[10:45:40] littleoak12: oh I see you believed e5 was a check thats fair enough
+[10:46:11] kayrosas: gg
+[10:48:43] littleoak12: gg
+[10:51:16] monocarp: yeah just a complete visualisation error. Although I admit for a bit I thought it was okay
+[10:51:47] monocarp: But then it became apparant that black is developing much faster (tempo on the q) and I can't really attack at all anyway
+[10:55:05] littleoak12: yeah. I felt in trouble at the start, I didn't realise I'd have to play be7 rather than bg7
+[10:55:20] littleoak12: all the best monocarp!
