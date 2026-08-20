@@ -1,0 +1,75 @@
+Lichess game chat log
+Game      : https://lichess.org/WdUgYB4O
+White     : nlance
+Black     : checkmate_insurance
+Time      : 45+45
+Captured  : 2026-08-20 12:25:48 UTC
+Game ended : 2026-08-20 11:05:41 UTC
+Messages  : 65
+────────────────────────────────────────────────────────────
+
+[09:35:37] bufferunderrun: let's go checkmate!
+[09:45:02] checkmate_insurance: my idea is Bxf3 Bxf3 Nh4
+[09:45:17] checkmate_insurance: with threats of Rxe3
+[09:52:09] checkmate_insurance: i really want to make Bxg2 work
+[09:52:24] checkmate_insurance: it looks pretty good
+[10:03:52] checkmate_insurance: i think it works
+[10:04:23] kayrosas: wow
+[10:04:53] checkmate_insurance: i think after Qxe3 Bxd4 Qd3 Qxf2+ Kh1 Be5 Qh3 Nf4 Qf1 Qh4 i'm better
+[10:05:09] checkmate_insurance: hopefully
+[10:05:09] checkmate_insurance: it's a bit unclear
+[10:06:10] checkmate_insurance: actually that might just allow Nf3
+[10:06:25] checkmate_insurance: i was thinking i could play Nh3 in time
+[10:07:57] checkmate_insurance: also Qd3 blunders the queen so not that square
+[10:09:13] checkmate_insurance: i thought i was winning after Qg3 maybe i missed something
+[10:09:28] kayrosas: fxe3 seemed a bit unclear too? Qxf2 Kh1 Nh4 Bf1 Bc7 Re2
+[10:10:59] kayrosas: oh nvm, Bc7 before Nh4 there
+[10:13:32] davidsifre: Hmm. Nlance, I hope that was a poor bishop sacrifice. But it looks good from here.
+[10:14:33] davidsifre: Qh4 seems devastating f
+[10:15:49] davidsifre: Though I guess that just forced a queen trade which would be great.
+[10:17:51] checkmate_insurance: Ne4 Qh4 Qf3 Qxh2+ Kf1 Rxf3 Bxf3 Nh4 Ke2 Nxf3 Kxf3 should be easy to win
+[10:18:06] checkmate_insurance: i think i should win the knight or a exchange there
+[10:32:21] checkmate_insurance: i saw Nh3 i just somehow missed it's covering g1
+[10:35:39] davidsifre: Bxd3 seems necessary.
+[10:36:09] checkmate_insurance: thats a nice tactic
+[10:36:55] checkmate_insurance: Nh7 was mate in 1
+[10:36:55] davidsifre: I don’t get it. He can’t stop the pawn from promoting
+[10:36:55] checkmate_insurance: ??
+[10:36:55] bufferunderrun: yeah
+[10:37:56] davidsifre: Discoveredche k will take pawn
+[10:38:11] davidsifre: Nd4
+[10:38:11] grzybozbur: but the rook drops, so you need to play on
+[10:38:26] checkmate_insurance: if he goes for Nxf4 Nd3 i can at least get the rook back and try to hold
+[10:39:12] davidsifre: Nf4 seems worse than nd4
+[10:39:43] bufferunderrun: Nf4 intends Ne2
+[10:40:13] davidsifre: But the other way would have taken the pawn immediately, no?
+[10:40:43] davidsifre: Oh I see the fork now
+[10:40:43] davidsifre: He did not. :(
+[10:44:32] bufferunderrun: still decent draw chances, I think
+[10:44:32] davidsifre: I am an idiot. Taking the bishop was better than Nd4.
+[10:45:03] bufferunderrun: which position are you referring to?
+[10:45:18] bufferunderrun: to me 31... Bf4 looked like a mistake
+[10:45:33] davidsifre: As long as white has a bishop and a knight it can go into a good endgame. (I was talking about 35)
+[10:45:48] bufferunderrun: I would have considered Nxh2+ instead there
+[10:51:54] grzybozbur: i liked h4 first
+[10:53:10] grzybozbur: push the pawn to h5 then you can sac all the queenside and the black knight won't get back in time to prevent h8q
+[10:53:56] grzybozbur: doesn't seem to matter though
+[11:07:12] checkmate_insurance: wow and we both missed Qb3 was check on multiple turns after i pushed d4
+[11:07:12] davidsifre: Gg
+[11:07:28] bufferunderrun: gg
+[11:08:28] nlance: and I missed mate in 1
+[11:08:28] checkmate_insurance: yeah i was a little confused by that lol
+[11:08:59] grzybozbur: i totally missed qb3 and i rutinely miss mates in 1 when i see a clear winning line
+[11:10:16] nlance: yeah, I calculated a win and forgot to look for better
+[11:11:01] checkmate_insurance: i missed Nxg5 when i played d3 but i thought i was just losing regardless
+[11:11:17] nlance: missing Qb3+ is silly of me
+[11:12:02] checkmate_insurance: yeah same i was going to play Bf4 and then i was like oh i have this easy way to win the queen
+[11:13:50] nlance: engine says 32 Qh5 holds but I get so active it seems winning. I guess you have a lot of pawns still.
+[11:16:52] nlance: I wasn't fond of my position around move 17 or so but I didn't think it was -2
+[11:17:53] checkmate_insurance: yeah i thought i was doing well
+[11:18:09] checkmate_insurance: i just have a really easy attack
+[11:19:12] fireball100: GG!
+[11:20:59] nlance: at least I played the endgame well, even if it was unnecessary to allow it
+[11:23:00] checkmate_insurance: yeah i was just hoping i could sack somehow but u didn't let me
+[11:23:00] checkmate_insurance: ggs
+[11:23:31] nlance: ggs, see you around
