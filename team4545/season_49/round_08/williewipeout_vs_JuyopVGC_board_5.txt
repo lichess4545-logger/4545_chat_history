@@ -1,0 +1,138 @@
+Lichess game chat log
+Game      : https://lichess.org/jUZbNonl
+White     : williewipeout
+Black     : juyopvgc
+Time      : 45+45
+Captured  : 2026-08-20 18:52:18 UTC
+Game ended : 2026-08-20 17:32:14 UTC
+Messages  : 128
+────────────────────────────────────────────────────────────
+
+[15:13:09] handknit: (11.Re1) I am not a Benoni expert but I wonder if either h3 or Nd2 was supposed to be the move there
+[15:13:09] handknit: (11.Re1) stop Bg4
+[15:15:41] kayrosas: at least practically more annoying for black to prevent Bg4, yea
+[15:17:28] handknit: (13...Nbd7) White's still better though, right? I think the eval should still be around 0.3
+[15:18:14] handknit: (13...Nbd7) White has to back up and reorganize but still has the bishop pair and black's pawn structure is still kinda weird
+[15:18:29] kayrosas: should be. i've looked into this a bit with black but usually you don't go Re8 early, there are more important matters
+[15:18:59] handknit: (13...Nbd7) I can see that. You don't have real pressure on e4 or d5 right now
+[15:40:20] itsasecret2000: Go juyop
+[15:40:50] handknit: (15...Qd7) Letting white save the bishop pair seems wrong
+[15:41:36] handknit: (15...Qd7) Just Be2, and then Bg3-f4-Bf3 is back on the menu
+[15:47:11] handknit: (16.a5) I seem to remember that a5 doesn't always go so great in these positions
+[15:47:27] handknit: (16.a5) Black is happy to play Rb8, b5, and, after the exchange on b6, target b2
+[15:47:57] handknit: (16.a5) Trading the a and b pawns on both sides results in black's c-pawn being a protected passer
+[15:48:12] handknit: (16.a5) Maybe white's fast to Na4-Nb6 here but I dunno how valuable that is
+[15:53:32] kayrosas: the Ne5 is almost trapped
+[15:54:03] handknit: (18.Bc2) Maybe but Nc4 looks powerful
+[15:54:03] kayrosas: would've gone 18.Bf1 i think, or Be2
+[15:54:18] itsasecret2000: (18.Bc2) now b5 seems logical
+[15:54:33] handknit: (18.Bc2) Yeah, Bc2 is a significant mistake because it surrenders control of c4
+[15:54:33] handknit: (18.Bc2) I think starting with Nc4 works
+[15:54:48] handknit: (18.Bc2) 18...Nc4 19.Qc1 b6
+[15:54:48] kayrosas: gotta decide if we're ok with allowing Ba4
+[15:55:04] handknit: (18.Bc2) ah, I missed Ba4
+[15:55:19] kayrosas: but should be alright to allow I think
+[15:55:34] handknit: (19...Rxb6) I dunno if Nc4-Ba4 worked for white
+[15:55:49] kayrosas: this way i don't like tho
+[15:55:49] itsasecret2000: (20.Ba4) i guess black missed Ba4 too
+[15:56:35] handknit: (21...Qxe8) 18...Nc4 19.Ba4 Nxb2 20.Bxd7 Nxd1 and the fact that white's Nc3 is hanging with a fork seems significant
+[15:57:51] handknit: (21...Qxe8) Something like 21.Bxe8 Nxc3 seems pretty unclear to my bad calculation
+[15:57:51] handknit: (21...Qxe8) Maybe the fact that d6 is hanging determines the line
+[15:58:06] itsasecret2000: yeah i missed Bxc3 at the end of the Nc4 line
+[15:58:22] itsasecret2000: it seems to work
+[15:59:23] handknit: (21...Qxe8) Now Qe2 seems fairly solid
+[16:06:15] itsasecret2000: (22...c4) maybe Bxe5?
+[16:06:30] itsasecret2000: (22...c4) the knight jump on d3 seems scary
+[16:06:45] itsasecret2000: (22...c4) with all the tricks on b2 and c3
+[16:08:02] itsasecret2000: (22...c4) not really tho
+[16:13:22] handknit: Rb2 a real threat here now I think
+[16:17:57] handknit: goofy line: 1.Rxa6 Rc2 2. Ra8 Qg7 3. Qxf8+ Qxf8 4.Rxf8+ Kxf8 5.Nb5
+[16:24:53] handknit: (27...Nf4) Gotta watch Qxc3 tricks but Rb8 works
+[16:26:55] juyopvgc: (28. Rb8) ack thought I had Qc3 here
+[16:28:11] handknit: (28...Qg7) e5 is a clever move here just to stop black's tricks
+[16:29:12] handknit: (29.Ra8) ah, no, I do not like going after that pawn
+[16:29:27] handknit: (29.Ra8) I worry that white hasn't seen the Qxc3 trick
+[16:29:42] addead: e5 will limit black , it is good
+[16:31:29] handknit: (30.Rxa6) oh no
+[16:31:29] ameyer: hallelujah
+[16:31:29] handknit: (30...Qxc3) The good news is that I'm pretty sure this is still equal
+[16:32:30] ameyer: but no longer completely lost
+[16:33:31] jdw10: can he regroup mentally? its tough to lose the advantage to a blunder ans completelt shake it off
+[16:33:46] handknit: (30...Qxc3) he has been good throughout the season
+[16:34:01] semlegesnev: He will wipe it off
+[16:38:06] handknit: (31.Ra8) I think I preferred taking on c3. You actually have a slight chance of trapping the N in that line
+[16:38:52] handknit: (31.Ra8) Now there's also stuff like Qe1 and Ng6. Which I don't think is good for black but something you have to calculate
+[16:39:07] handknit: (31.Ra8) Queen's off was def in white's favour
+[16:40:54] handknit: (32...Kg7) I suspect that Kh2-g3-f4 is the best way to play this as opposed to f3 and sitting passively
+[16:41:25] handknit: (32...Kg7) I guess there is no f4, hmm
+[16:48:32] handknit: (35...Bf6) Bd4 is not actually threatening to win a pawn because white has Rc4 as a response
+[16:51:50] handknit: (37.f3) I kinda suspect h5-h4 is winning for black here
+[16:52:35] handknit: (37...h5) ah, maybe not
+[16:52:51] handknit: (37...h5) Plan to take on h4, play Ke2-Ke3-f4
+[16:53:07] handknit: (37...h5) and you are in time to keep black's N out o ff4
+[16:53:22] handknit: (37...h5) make a little line for your K to go to f3 and, if necessary, g4
+[16:53:37] handknit: (37...h5) f4-e5 as kind of a useful threat
+[16:54:07] jdw10: this is going to get real tough on increment
+[16:56:09] kayrosas: wow so much happened
+[16:56:25] handknit: (38.Ke2) the story of life
+[16:58:42] kayrosas: so is 38...g4 desirable? not quite sure what the dream setup for black is
+[16:59:12] handknit: (38...g4) g4 lets white eliminate two pawns, which seems wrong
+[16:59:43] handknit: (38...g4) hxg4 first, but then something like Re8 intead of taking a second time on g4
+[16:59:58] handknit: (39...hxg4) even Ke3
+[17:00:28] handknit: (41...Be5) f3 seems like a very good square for white's king
+[17:00:44] handknit: (41...Be5) It kinda feels like white can probably sit with the R on the back row now
+[17:00:59] kayrosas: now we wanna get our knight to g5 i suppose
+[17:00:59] kayrosas: and hope we get our king to g4
+[17:01:29] handknit: (42.g4) There's also a chaos option here
+[17:02:00] handknit: (42.g4) white successfully trades the g pawn for the f pawn then sacrifices the rook for the d pawn and dares black to mate with BN
+[17:02:15] kayrosas: :)
+[17:02:30] handknit: (42...f6) But yeah, white's now gotta identify sitting with the R on the 8 forever
+[17:02:30] kayrosas: f6 feels a bit unnecessary, we can play that move whenever it's attacked
+[17:03:31] kayrosas: now it all looks a bit too static for black to achieve something
+[17:04:02] handknit: (43...Kh6) Can black bring the N to h2?
+[17:04:32] kayrosas: i would assume no with correct play
+[17:05:18] handknit: (44.Kf3) put the N on g5 to stop white from trading the g-pawn
+[17:05:33] handknit: (44.Kf3) then walk the king all the way around the far side
+[17:05:33] kayrosas: rook can cut off on the 7th tho
+[17:06:19] handknit: (45...Kh6) Once the K is on, like c8, bring the N back to block the line
+[17:06:34] kayrosas: i would think white can eventually play g5 there
+[17:07:04] handknit: (47...Kf7) probably
+[17:07:20] handknit: (47...Kf7) but we can figure that out once we're there
+[17:07:20] handknit: (47...Kf7) make white defend for 25 moves and then figure that out
+[17:08:21] handknit: (49...Kd8) Rg7 now
+[17:10:53] handknit: (52...Nb7) chaos lines: 53.Rg7 Kh7 54.g5 f5 55.Rxb7+ Kxb7 56.exf5 +-
+[17:11:39] handknit: (52...Nb7) *Ka7, not Kh7. I don't know what letters are
+[17:11:39] kayrosas: seems winning for white?
+[17:11:54] handknit: (53.Rh5) Okay, he wants to trade this way
+[17:12:09] handknit: (53...Ka7) Denying us the possibility of Chaos
+[17:13:26] kayrosas: still enough ways this could end decisively
+[17:13:41] handknit: (55...Kb6) Rg1 is better than Rg8 here, I think
+[17:13:56] handknit: (55...Kb6) If you go to the 8, black puts the N on c5 and hides the K on c4
+[17:14:57] handknit: (56...Kb5) Rc2-Rc6-K around to f5
+[17:14:57] val1313: (56...Kb5) hoping for rB2+ :))
+[17:15:28] handknit: (56...Kb5) Yeah, Rb1+ would be really nice here. Now black can think about Kb4-Bc3-Kc4
+[17:15:28] handknit: (56...Kb5) though
+[17:15:43] handknit: (56...Kb5) white can maybe draw that with Rc2, Kf4, Rxc3+, and e5
+[17:16:28] handknit: (57.Kf3) clearing the K too early. Gives black a way in
+[17:23:35] handknit: (62...Nb3) Chaos: 62.Kg4 Kd4 63.Re1 Nxe4 64.Kf5 Ng3+ 65.Ke6
+[17:24:22] handknit: (62...Nb3) Ke3 here, I guess. Keep the black K out
+[17:24:53] handknit: (63...Kd3) Kd3 here feels -+
+[17:25:08] handknit: (63...Kd3) might be time to hit the emergency button and see if black can win BN
+[17:25:23] ttsgosadow: Go Jugyop!
+[17:27:10] kayrosas: yea i hope we get to see that in some way or another
+[17:27:40] handknit: (66...Kd4) here we go
+[17:27:40] tranzoo: gonna get it!
+[17:28:26] tranzoo: right?
+[17:28:41] kayrosas: probably trying to figure out if they can prolong it safely
+[17:29:27] tranzoo: well ok then
+[17:29:27] handknit: (68.Rg2) Lets see if this ends before my game starts
+[17:29:57] stevenlongs: How long has Willie been on increment?
+[17:29:57] handknit: (68.Rg2) it has been a while
+[17:31:29] handknit: (68...Kc4) wat
+[17:31:44] handknit: (69.Rg4) lmao
+[17:31:44] handknit: (69.Rg4) a blunder so egregious neither player sees it
+[17:31:44] handknit: (69...d5) doesn't change the eval of the game at least
+[17:31:59] kayrosas: wow
+[17:31:59] kayrosas: gg
+[17:33:16] king_hunter-1: wow
+[17:34:17] jdw10: gg
