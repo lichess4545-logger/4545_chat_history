@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/WoFbcSFc
+White     : king_hunter-1
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-08-20 20:20:58 UTC
+Game ended : 2026-08-20 19:00:53 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[17:59:17] ng_life: 4... bb4 this is the McCutcheon variation, which I've always wanted to learn but never have. First time trying seriously.
+[18:02:52] ng_life: 9... g6 I remember this far, but my memory is getting hazy about next moves. I think you play b6 and ba6 maybe?
+[18:06:56] ng_life: 14. kxe2 okay I at least recall you get the Queen out to the Queenside, so maybe g5 f4 Qd7 fxg4 Qb5+?
+[18:10:14] ng_life: 15... Qd7 I'm no longer sure I'm following correct moves, but this is the idea as I recall it
+[18:15:35] ng_life: 16... Qb5+ I recall vaguely white takes on h6 but I'm wondering why he can't play g6?
+[18:16:06] ng_life: I guess I should play nc6 immediately so I can O-O-O
+[18:17:37] ng_life: 17... nc6 I can sense I went awry of the correct move order, but even if he plays g6 and gxf7 and Qxe6+ I still have a lot of counterplay
+[18:23:29] ng_life: 19 g7 a little surprised not to see gxf7 on the board?
+[18:23:44] ng_life: now after I play Qc4 what is his plan to get quick counterplay?
+[18:26:01] ng_life: 21. rh4 is a good move, protecting from the nxe5 threat
+[18:27:18] ng_life: 21. rh4 Qxc2+ Qe2 Qa4 re-threatening nxe6?
+[18:27:48] ng_life: I guess after Qe2 Qf5+ is also possible, I should think here
+[18:31:22] ng_life: 21. kg1 I guess one move here is Qh7 he should defend with Qg5 or Qf4 re8 and I can ne7 nf5?
+[18:31:37] ng_life: lets do that, it looks very reasonable
+[18:34:57] ng_life: with 23. Qg5 he's trapping in the bishop, I would think Qf4 was a little better?
+[18:35:58] ng_life: 24... ne7 threatening nf5 with trapped h6 dsb
+[18:39:47] ng_life: 25. g4 is a high-stakes way to defend, with rook no longer eyeing d4 I can play Qe4 maybe?
+[18:41:33] ng_life: 26. Qd2 don't I have nf5 here because of the x-ray on the rook?
+[18:49:11] ng_life: 27. rh3 wow I was expecting Qc3 this requires carefuly calc
+[18:50:27] ng_life: 27. rh3 Qxg4+ kh2 nxd4 or nxh6 both look good honestly?
+[18:51:13] ng_life: I could also start with nxh6 because then when I take g4+ I can immediately take on g7?
+[18:52:15] ng_life: so for example nxh6 Qxh6 Qxg4+ kh2 rxg2 I'm up two pawns and he needs to defend mate, right?
+[18:56:19] ng_life: 30. Qd2 rh8 Qc2 f5 exf rxh5 fxg7 rxh3#?
+[18:59:37] ng_life: 31... rg5 if Qc2 Qf4+ kh1 Qe4+ I guess?
+[19:02:09] ng_life: @kinG-Hunter-1 I saw you scored badly in this McCutcheon variation which is why I played it
+[19:02:25] ng_life: I remembered correctly until move 16 it looks like, which is pretty good for me. I do remember Qa4 now, but I forgot in the game.
+[19:03:10] ng_life: I was expecting 27. Qc3 which you can see in my notes, but I wouldn't have thought you were +3. I thought I was back in the game already.
+[19:03:26] king_hunter-1: Possibly. To be honest, I had a winning position throughout the game. One stupid blunder decided everything
+[19:03:26] ng_life: Yes
+[19:03:57] king_hunter-1: Yeah, I also knew the theory up to move 16, so I played quite quickly
+[19:03:57] ng_life: 27. Qc3 I thought I play re7 and I'm holding on but I guess you have first Qc6 then bg5 devestating
+[19:04:43] ng_life: oh the engine move after re7 is re1 which is so nice
+[19:04:43] king_hunter-1: I really shouldn't have allowed the move Nf5; it would have been much easier
+[19:04:58] ng_life: yes, I was very surprised you allowed that
+[19:05:28] king_hunter-1: Besides, even after Nf5, the position is still winning for me. I didn't find the correct line—Qc3 Re1—even though it doesn't seem that diff
+[19:05:28] ng_life: engine says just give away the d pawn and you 're still crushing me, but I understand why you don't want to give the d pawn
+[19:06:14] ng_life: playing nxh6 first and Qxg4 later is a key touch to give black the winning attack
+[19:06:29] king_hunter-1: Well, even if you give up the d4 pawn, there’s Be3 with tempo, followed by h6, and it’s a win
+[19:06:29] ng_life: Yes
+[19:06:44] ng_life: be3 with tempo would be too crushing
+[19:06:59] king_hunter-1: Yeah, I made a really stupid move. For some reason, I thought you would play Qxd4
+[19:07:30] king_hunter-1: Yeah, I often lose winning positions, and the reasons vary every time—it's a shame
+[19:07:30] ng_life: I can't do that because then I don't have counterplay
+[19:08:00] ng_life: first I thought Qxg4 but then I realized I was missing a tempo; then I saw reverse the moves with nxh6 first
+[19:08:46] king_hunter-1: Right, so I underestimated your position with the black pieces; I should have been more attentive
+[19:08:46] ng_life: It happens with these too sharp lines, that's why I like boring positions more.
+[19:09:16] ng_life: many times I lose in sharp king's indian positions when I am +2, it's painful, so I understand you totally.
+[19:09:32] king_hunter-1: That may be true, but I still enjoy playing sharp positions; I’ll try to improve
+[19:10:02] ng_life: It was a very nice game, I thought I was dead at some point before g4 when I got counterplay. ggs and thank you for analyzing with me
+[19:10:02] ng_life: good luck in your next matches
+[19:10:19] king_hunter-1: You played well. Good luck in the upcoming league matches
+[19:10:50] ng_life: Thank you.
