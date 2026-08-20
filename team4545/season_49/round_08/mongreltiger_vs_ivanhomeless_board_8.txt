@@ -1,0 +1,37 @@
+Lichess game chat log
+Game      : https://lichess.org/SsuW2ltc
+White     : mongreltiger
+Black     : ivanhomeless
+Time      : 45+45
+Captured  : 2026-08-20 18:23:04 UTC
+Game ended : 2026-08-20 17:02:58 UTC
+Messages  : 27
+────────────────────────────────────────────────────────────
+
+[14:38:52] bpack: Go MT!!! (And Ivan too)
+[16:16:23] pineapplechiffoncake: Nd4+ wins the knight?
+[16:42:53] inter-temporal: (49...f2) hm
+[16:43:08] inter-temporal: (50.Rf1) my comments disappeared
+[16:44:09] inter-temporal: (50.Rf1) now if ...Re1, Rf5 Re1?, R5xf2+!
+[16:44:54] inter-temporal: (50...Re1) no. duh. i'm still asleep
+[16:45:55] inter-temporal: (52.Kg2) ah. the issue was 49.Rxd5
+[16:46:41] inter-temporal: (52.Kg2) i expected 49.Rf1 f2 50.Rf4 then if Re1 51.R4xf2+
+[16:47:27] inter-temporal: (52.Kg2) this looks good too! nice. i'll just sip my coffee, wake up, and enjoy the game
+[17:07:32] jdw10: gg
+[17:08:48] inter-temporal: had to restart my computer
+[17:09:49] inter-temporal: why is 11.Qa4 so strong
+[17:10:35] inter-temporal: you get a tempo for Ne5, i think
+[17:10:35] inter-temporal: nice one
+[17:11:51] inter-temporal: oof. i was worried about 49.Rxd5, but didn't know it was due to checkmate!
+[17:12:06] pineapplechiffoncake: Oh wow I  got called away at 49. rxd5, so this was a surprise!
+[17:12:52] inter-temporal: i wasn't plugged in yet either. but after 48....Re2, we gotta notice smth
+[17:13:07] inter-temporal: a new check at h2, which is not a usual pattern. so we need some diligence, i think
+[17:13:22] pineapplechiffoncake: Ok, I would have done exactly what ivanhomeless  did and would have lost
+[17:14:08] inter-temporal: oc, every time Opp gets a R on the 7th, there is most likely a check or 2 we need to highlight
+[17:14:54] inter-temporal: it's hard to keep track of the patterns that arise due to the specific material. but it's a good goal
+[17:15:09] inter-temporal: double Rs means files, ranks, lawnmowers
+[17:15:40] inter-temporal: pigz
+[17:16:25] inter-temporal: an instructive position, imo
+[17:17:42] inter-temporal: another pattern in the endgame arises at move 51
+[17:17:57] inter-temporal: we have to resist giving checks that help the enemy K get a better position
+[17:23:32] inter-temporal: 19.f4 is a nice "interference" tactic--aimed at the defender
