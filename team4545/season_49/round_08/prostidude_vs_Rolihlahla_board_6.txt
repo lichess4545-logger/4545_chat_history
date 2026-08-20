@@ -1,0 +1,126 @@
+Lichess game chat log
+Game      : https://lichess.org/u3mpp0QA
+White     : prostidude
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-08-20 22:24:34 UTC
+Game ended : 2026-08-20 21:04:33 UTC
+Messages  : 116
+────────────────────────────────────────────────────────────
+
+[19:03:50] rolihlahla: hi Robert & Captain Tim  :-)
+[19:06:53] karasso: go prostidude
+[19:10:57] scarff: Good luck Eric!
+[19:12:13] qrs: go prosti!
+[19:14:45] timothyha: (5...e4) Ro, Ro, Ro!
+[19:16:17] rolihlahla: hi scarff
+[19:16:32] rolihlahla: 6th time playing black this season  :-/
+[19:18:03] robertjackson: booo re playing Black mostly this season
+[19:19:04] angborxley: Go prosti!
+[19:21:52] hpors: Go Eric !
+[19:27:13] scarff: Hi Eric. And good luck :)
+[19:34:35] ecoarrivazumashoomzo: go prostidude!
+[19:40:58] giziti: (10...c5) Ndb5 looks okay here
+[19:41:29] giziti: (11.Nde2) okay fine
+[19:45:52] timothyha: (12...Bg4) there's a b7 issue at the end of this idea
+[19:58:35] tomb85: Go Prosti!
+[19:58:51] timothyha: (16.Bb2) Nc3 Nf3+?  but I see it's Bb2 already
+[20:03:10] giziti: (17...Rad8) I feel like after Nf4 black doesn't have enough time to keep the pawn
+[20:04:11] giziti: (17...Rad8) like Nf4 threatens Nxd3 and then Bf1, I don't think there's time
+[20:16:54] giziti: (19...g5) so Bxf6 Bxf6 Bxe4 works, right?
+[20:18:26] handknit: (19...g5) counting on the prosti dude to bail me out
+[20:18:41] giziti: (19...g5) immediate Bxe4 also works, right?
+[20:18:57] robertjackson: nope
+[20:20:59] handknit: (19...g5) I think immediate Bxe4 might be the better shot, if I've got this right
+[20:21:14] handknit: (19...g5) says the guy who just blundered a piece, I know
+[20:21:29] kayrosas: i think it's good, ye
+[20:22:01] kayrosas: but bishop pair will also be op in any endgame
+[20:26:21] handknit: (22.Bxd2) So we're gonna get Rd8 Bc3, and then we gotta see whether white has the patience to chase the black rook
+[20:26:36] handknit: (22.Bxd2) or if white plays Bxf6, takes the pawn, and probably gets a drawn position
+[20:28:39] kayrosas: just gotta channel their inner capablanca
+[20:29:09] timothyha: (22...Bd6) I wanted 22...g4 somehow
+[20:29:09] kayrosas: Bd6 is probably smart
+[20:29:40] timothyha: (23...Be5) ah, this endgame
+[20:29:55] timothyha: (23...Be5) my personal favourite type
+[20:29:55] handknit: (23...Be5) feels equal, edge to white
+[20:30:10] qrs: at least white has the file
+[20:30:25] kayrosas: not a fan of this :( 24.Be1 was still an option
+[20:31:26] giziti: (25.Rd1) maybe Re7 Nd7 Ne5 manouver gets the knight into good squares
+[20:32:12] giziti: (25.Rd1) I guess it hangs e4 but there's time for f5
+[20:33:59] handknit: (25.Rd1) Re7-Nd7 also allows Bxe4 immediately
+[20:34:14] handknit: (25.Rd1) which in turn means there's never time for f5 on that plan
+[20:35:00] giziti: (25.Rd1) ahhhh right
+[20:35:00] qrs: hey @handknit - just wanted to mention - even if prostidude „bails you out“ - we‘d rather see Baboona Matata win or draw the match no matter
+[20:35:31] handknit: (25.Rd1) that's nice
+[20:37:33] qrs: (25. ... Re7) how to best „wait“ as white? g4?
+[20:38:03] kayrosas: g4 would be a weakness potentially
+[20:38:19] handknit: (27...h5) Just don't panic and, if it's gonna be a draw, don't overdo it
+[20:38:34] qrs: ye, g4 h5 kinda hurts as white I guess
+[20:39:04] handknit: (27...h5) maybe just f3 here
+[20:39:19] kayrosas: in B v N generally dont put pawns on the same colour without a good reason
+[20:39:35] kayrosas: 28.Rd8 i like and get king to c3
+[20:40:05] qrs: interesting - thanks for the rule of thumb, Kayrosas
+[20:40:20] giziti: (27...h5) if g4 do we just let them take h3?
+[20:41:53] qrs: (28 f3) that can’t be it?! black gets exf3 and no longer has to defend the e4 pawn?!
+[20:42:39] handknit: (28.f3) bishop gets activity
+[20:42:54] handknit: (28.f3) play on both sides is a point in the bishops favour
+[20:42:54] kayrosas: if black doesnt take does white ever wants f4?
+[20:43:09] handknit: (28...exf3+) so white gets a bit ahead on activity, and just has to be careful about e3/g3 weaknesses
+[20:43:09] giziti: (28...exf3+) now the bishop can try to be a monster
+[20:43:40] qrs: ye but isn’t ... g4 coming ?
+[20:43:40] handknit: (28...exf3+) i dunno about a monster but it gets to be active instead of smushing its face into e4
+[20:43:40] kayrosas: bit difficult for the bishop without targets i imagine
+[20:44:10] handknit: (28...exf3+) It would be nice to put the bishop on d5 and secure it with e4
+[20:44:10] giziti: (28...exf3+) also I guess if the bishop were really going tob e that good, Ne4 practically forces the trade
+[20:44:40] qrs: like Bxf3 g4 and either hxg4 Nxg4 or Bg2 gxh3 Bxh3 Ng4 ?!
+[20:44:40] handknit: (28...exf3+) a black pawn on g4 can maybe become a liability
+[20:44:40] kayrosas: Ne4 Bx Rx Rd7 is unpleasent tho
+[20:45:26] giziti: (28...exf3+) yeah Rd7 kind of kills that line
+[20:45:57] kayrosas: wondering about h4 for black
+[20:46:12] qrs: but what would white reply to Bxf3 g4?!
+[20:46:42] kayrosas: just take
+[20:46:57] kayrosas: and Nx Bx is fine, hxg Bg2 back
+[20:47:28] karasso: Nh5 Kf2 E6 with Rf6
+[20:47:28] karasso: Re6*
+[20:47:58] qrs: but like Ng4 Bxg4 hxg4?! white doesn’t have anything left?!
+[20:48:29] kayrosas: yea that is just equal
+[20:48:59] qrs: and if black forces bxn isn’t that what black wants ?!
+[20:49:15] qrs: then g4 should be „correct“ now
+[20:49:15] kayrosas: depends. black might have ambitions to win
+[20:49:30] bufferunderrun: not sure I like h4
+[20:50:33] qrs: I see - so h4 is the „winning attempt“?!
+[20:50:33] kayrosas: g4 mayba decent attempt with karasso's line too, difficult to say
+[20:51:49] qrs: (30. ... gxh4) this might give white chances to go after the h4 pawn with Rg1+
+[20:52:35] kayrosas: yea i think h3 is a bit of a fake weakness. only visually, not really possible to exploit
+[20:53:05] giziti: (30...gxh4) what now? Rd8?
+[20:54:22] inter-temporal: (30...gxh4) go dude!
+[20:55:07] giziti: (31.Bd5) really shooting for the draw I suppose
+[20:56:39] kayrosas: could become a bit spicy bc of h4
+[20:57:24] kayrosas: Nf6 back perhaps
+[20:57:40] kayrosas: but e4 and white is making progress
+[20:59:13] kayrosas: now time to get the rook to the 8th
+[21:00:44] qrs: 33 Bc6 maybe?
+[21:00:44] tommeketoch: that rooks wants to jump over that white bishop :p
+[21:01:14] giziti: (32...f5) if the rooks came off, would it be better for white?
+[21:01:30] tommeketoch: I was already thinking Bc6 instead of Bd5. That felt clumsy square
+[21:01:45] giziti: (33.Rg1+½?) yeah i was thinking Bc6 here instead of Rg1
+[21:01:45] handknit: (33.Rg1+½?) I think rooks off benefits white if the K gets to g4 in good time
+[21:02:00] handknit: (33.Rg1+½?) If the game continues, white's gotta dodge the Kf4 blunder
+[21:03:01] qrs: Mh, if Rg1 I think it should’ve been played earlier
+[21:03:47] qrs: but white offered the draw? sorry apparently I can’t see that on the new iOS app
+[21:04:02] giziti: (33.Rg1+½?) Bc6 threatening Rd7 seemed pretty good earlier
+[21:04:17] tomb85: gg both
+[21:04:32] robertjackson: good draw
+[21:04:32] qrs: gg
+[21:04:32] kayrosas: gg
+[21:04:32] inter-temporal: (32...f5) gg
+[21:04:48] prostidude: I chickened out with the draw offer
+[21:05:03] giziti: Just what I thought, Bxf6 worked
+[21:05:03] prostidude: Seems like a fair result though
+[21:05:18] jdw10: gg
+[21:05:18] prostidude: They defended very well
+[21:05:50] rolihlahla: i'm sure if we played on - one (or both of us) would have blundered  :-)
+[21:06:05] angborxley: gg!
+[21:07:06] rolihlahla: thanks to all for watching  :-)
+[21:07:51] rolihlahla: i saw Bxf6 after the fact
+[21:13:57] prostidude: Bxf6 was not on my radar on move 19
