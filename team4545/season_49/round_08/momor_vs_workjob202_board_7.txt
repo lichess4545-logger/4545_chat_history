@@ -1,0 +1,39 @@
+Lichess game chat log
+Game      : https://lichess.org/b2WLVuUt
+White     : momor
+Black     : workjob202
+Time      : 45+45
+Captured  : 2026-08-21 15:24:33 UTC
+Game ended : 2026-08-21 14:04:31 UTC
+Messages  : 29
+────────────────────────────────────────────────────────────
+
+[13:11:36] kayrosas: lets go workjob
+[13:22:33] mkubecek: (14... Bd5) doesn't feel right
+[13:46:41] rosey001: go momor!
+[13:48:43] kayrosas: 22.f4??
+[13:49:29] mkubecek: Weird...
+[13:49:59] kayrosas: moving the f pawn to avoid backrank problems is usually the worst of the 3 options when queens are still on
+[13:51:00] mkubecek: And now white cannot even hide to h1 after Qe3+, unless I missed something.
+[13:51:00] kayrosas: are there any immediate wins or black is just grabbing pawns?
+[13:51:00] kayrosas: yea, Qe3 Kf1 is forced
+[13:51:46] mkubecek: Reminds me a quote that when there is a perpetual, ther should be a win as well. :-)
+[13:52:01] kayrosas: black could force a threefold to win us the match though ^^
+[13:52:16] mkubecek: Qe3+ - Qe2+ is still on the table.
+[13:53:33] mkubecek: Qd3+ now?
+[13:53:48] kayrosas: maybe 25.Kf1 Re4
+[13:54:20] kayrosas: Qd3+ seemed interesting but not sure what the idea
+[13:54:20] kayrosas: is
+[13:55:05] kayrosas: Re4 dxc5 is maybe not too bad for white, hm
+[13:55:05] matthewkcanada: Qe2+ Kg1 Qd2 setting up Re1+
+[13:55:21] kayrosas: seems reasonable, yea
+[13:55:51] mkubecek: Sounds better indeed.
+[13:56:21] kayrosas: just trying to find an immediate win
+[13:58:40] mkubecek: Was wondering if white was seriously considering 26. Kf2.
+[14:00:26] kayrosas: maybe Re4 is cleanest here
+[14:00:42] mkubecek: What does white have for Qd2?
+[14:00:42] kayrosas: just take on d4 and win from there
+[14:00:57] kayrosas: h3 maybe
+[14:03:00] mkubecek: I suppose both players have autoclaim enabled - or at least one of them.
+[14:04:31] kayrosas: gg
+[14:14:11] kayrosas: 23...Re4 dxc5 Rxf4+ I missed :o Rxf4 Qxc1+ and then take f4
