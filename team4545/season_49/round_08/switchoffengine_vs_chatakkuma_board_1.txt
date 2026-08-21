@@ -1,0 +1,63 @@
+Lichess game chat log
+Game      : https://lichess.org/LvvflEh8
+White     : switchoffengine
+Black     : chatakkuma
+Time      : 45+45
+Captured  : 2026-08-21 14:59:55 UTC
+Game ended : 2026-08-21 13:39:53 UTC
+Messages  : 53
+────────────────────────────────────────────────────────────
+
+[11:33:21] switchoffengine: is it ok to sac Nb5 Qxc4 Nd5 Na6 hmm
+[11:50:37] switchoffengine: should i be greedy and take a7
+[11:51:23] switchoffengine: probably doesnt work to Qc5
+[12:22:56] switchoffengine: honestly dont think its that bad because he cant castle kingside
+[12:24:12] switchoffengine: b5 a4 bxa4 Qb7 Qxe2 Rf2 is there, so he cant take on e2
+[13:40:24] chatakkuma: somehow couldn't breakthrough in the middle
+[13:40:39] switchoffengine: i thought u could try f5
+[13:40:39] chatakkuma: yeah also thinking about that
+[13:40:39] switchoffengine: risky of course, i think your way is better
+[13:41:10] chatakkuma: breakthrough on the h file was good too
+[13:41:25] chatakkuma: I was happy after 12...Nc6
+[13:41:40] chatakkuma: prolly 9.Qa4+ is wrong
+[13:42:56] switchoffengine: Nd5 yup i was looking at it in the opening, dont know why i rejected
+[13:43:11] chatakkuma: 36.Rxd6 I misse this
+[13:43:26] chatakkuma: I panicked after that
+[13:45:14] switchoffengine: game of blunders :D
+[13:45:30] switchoffengine: isnt easy though
+[13:46:30] chatakkuma: I regret 7...Nh6
+[13:46:30] chatakkuma: 7...Qb6 should be better
+[13:47:16] chatakkuma: I was a bit worried about 9.Nd5
+[13:47:31] chatakkuma: but I just gambled Qxc4
+[13:48:02] chatakkuma: my position is dangerous
+[13:49:03] switchoffengine: should have calculate deeper for Nxd6 also, i saw the follow up but didnt evaluate it well
+[13:49:33] chatakkuma: oh you mean 14.Nxd6+
+[13:49:48] switchoffengine: yup
+[13:49:48] chatakkuma: I saw it but assumed it didn't work
+[13:50:04] switchoffengine: yea me too
+[13:50:04] switchoffengine: comp likes it a lot \
+[13:50:19] chatakkuma: my position is generally dangerous
+[13:50:19] switchoffengine: i guess in comparison to the game it makes sense
+[13:51:35] chatakkuma: what I saw was Nxd6+ exd6 Qxd6 Qb8
+[13:51:51] chatakkuma: thought it should be fine
+[13:51:51] chatakkuma: with the Q trade with Qe5 coming
+[13:53:22] chatakkuma: comp thinks Q trade is even fine with Nxd6 exd6 Qxd6 Qb8 Qf6 Qe5 Qxe5 Nxe5 Bxb7 Ra7 Bd5
+[13:53:22] switchoffengine: yea i think its just a momentum thing
+[13:53:37] switchoffengine: going back just loses the h3 pawn and soon c4 pawn
+[13:53:37] chatakkuma: honestly if Q comes of the board humans think B is just winning
+[13:53:53] switchoffengine: so better to sac and play dynamically
+[13:53:53] chatakkuma: yea even saccing h3 pawn
+[13:54:23] chatakkuma: so 13...a6 was a mistake
+[13:54:38] chatakkuma: I thought 13...Bxh3 Bxh3 Qxh3 Nc7+ loses the exchange but
+[13:54:53] chatakkuma: sac the R and then Ng4 is just mate
+[13:55:09] switchoffengine: Nxc6 was also played to ofast, i missed Bxg2 intermezzo
+[13:55:24] chatakkuma: yea that's what I was counting on
+[13:55:24] switchoffengine: after that it should be just lost
+[13:55:39] chatakkuma: right
+[13:56:09] switchoffengine: yea i saw that, the game is very interesting because of the h5 in the opening :)
+[13:56:40] chatakkuma: it's a typical idea when there is a fianchetto
+[13:56:55] chatakkuma: interesting game really
+[13:57:56] switchoffengine: i missed this Qf2 to d2 idea around move 38
+[13:58:27] switchoffengine: nice way to force exchange the queens, rook endgame should be drawn
+[13:58:57] switchoffengine: thank you for the game!
+[13:59:12] chatakkuma: thanks for playing!
