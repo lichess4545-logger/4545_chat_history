@@ -1,0 +1,63 @@
+Lichess game chat log
+Game      : https://lichess.org/d7v06fQ1
+White     : lorb
+Black     : alzaw
+Time      : 45+45
+Captured  : 2026-08-21 08:19:36 UTC
+Game ended : 2026-08-21 06:59:33 UTC
+Messages  : 53
+────────────────────────────────────────────────────────────
+
+[05:41:40] matthieu_max: (13) ... Nf4 - threatening to capture on g2 ?
+[05:43:27] matthieu_max: (14) ...Nxg2 - Qg4+ if white capture the knight?
+[05:45:14] king12-life: Interesting continuation here
+[05:45:30] king12-life: Usually white prefers having the two pieces but not sure with this pin...
+[05:45:45] king12-life: Kg3 or h3 mandatory and black has to generate initiative rather quickly
+[05:46:00] king12-life: oh d5 is possible too
+[05:47:16] king12-life: I think the pawn becomes quite loose though
+[05:47:16] king12-life: And rook + 2 pawns against 2 pieces starts to be good for black
+[05:47:47] matthieu_max: well usually I don't think white is willing to simplify too much, so that pawn will not be gone in the near future
+[05:48:17] king12-life: Rad8 and the pawn is gone already
+[05:48:17] matthieu_max: yeah fair
+[05:51:20] matthieu_max: black will surely try to simplify the position by trading the bishops too
+[05:52:37] matthieu_max: oh not something that I've expected
+[05:53:37] matthieu_max: if black decided to trade queens, I kinda prefers white's position
+[05:54:08] matthieu_max: with two bishops, maybe one if black decided to take on d5
+[05:56:10] matthieu_max: (18) ...bxd5 - here I think white should trade, either the queen or bishop first is okay? probably the queen because it's quite dangerous ha
+[05:57:41] matthieu_max: (20) ...rxd5 - well from here now on, black will have difficulty to really find good squares for his rooks
+[06:01:45] matthieu_max: (22) be3 - one thing that might be interesting here for white is to find an outpost for his pieces
+[06:03:48] matthieu_max: something like Rc1 then c4? because if black for some reason decides to not capture the pawn, white will have the d5 square for himself
+[06:06:05] karasso: f5 is a good move, would go here b4 with white to put by bishop ob c5 after f4
+[06:11:41] karasso: Kg3 is just losing? f4+ Bxf4 R5f5
+[06:11:56] matthieu_max: owh I thought white would prefer Bf4 here
+[06:13:29] karasso: Bf4 Re8 with Re2 or Re4 and also h6-g5 ideas, i didn't like. Probably still fine, but not necessary
+[06:14:14] karasso: But b4 cxb4 cxb4 f4 Bc5 Re8 a4 looked completly fine for white
+[06:15:31] karasso: The bishop on c5 protects b4 and also f2, and is protected by b4 so it would be very stable for white.
+[06:20:35] karasso: h6 here looks good. Rd6 R3f6/Rd7 R8f7 Rd8+ Kh7
+[06:21:36] karasso: don't want allow Rd7 followed by Bd4
+[06:22:37] karasso: So i have to put my rooks on f6 and f7 for the time being (to also keep an eye on a6, and not having to play Ra8)
+[06:23:08] karasso: But Rd8+ would force Rf8 back. So h6 takes care of that problem
+[06:24:24] karasso: Don't like R3f6 first. This is of course still winning, but white is now very active
+[06:38:38] king12-life: why do both players still have so much time omg
+[06:38:38] duty5521: yeah
+[06:45:15] king12-life: (40... Rf2) What ?
+[06:45:30] king12-life: This is just losing isn't it ?
+[06:45:45] king12-life: it can't be better for black there is no way
+[06:47:32] karasso: The exchange sac was so unnecessary
+[06:47:48] king12-life: literally still has 30 minutes lmao
+[06:48:18] king12-life: Time management is really something to learn after this game, it is difficult tbh
+[06:49:35] karasso: like just slowly improve your position with black. (push g+h pawn, activate your king by going e.g. to h3)
+[06:50:51] king12-life: (46. Rh7) This looks good though
+[06:51:38] karasso: Yeah the time usage is really sth here by both players...also e4 after like 5 seconds. If you go Rb8 first, black only wins b2, but has no
+[06:51:53] karasso: time to take on h2 first
+[06:52:25] king12-life: yeah h3/h4 is very logical
+[06:52:55] king12-life: (49. Rc5) Rb3 Rxc3/Kb2 Kxa3 is gg I think
+[06:53:10] karasso: Kb1 Ka2 Kxa3 should end the game here
+[06:53:25] karasso: Or that, yeah
+[06:57:15] ciraid: oops
+[06:57:30] king12-life: no a2 works lol
+[06:57:30] ciraid: the trick doesnt work
+[06:57:30] king12-life: yeah
+[06:59:33] karasso: gg
+[07:01:05] king12-life: gg
+[07:04:53] ciraid: gg
