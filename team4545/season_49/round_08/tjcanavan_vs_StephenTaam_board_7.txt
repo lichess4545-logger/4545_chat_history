@@ -1,0 +1,135 @@
+Lichess game chat log
+Game      : https://lichess.org/T0fx5xb7
+White     : tjcanavan
+Black     : stephentaam
+Time      : 45+45
+Captured  : 2026-08-22 03:58:12 UTC
+Game ended : 2026-08-22 02:38:09 UTC
+Messages  : 125
+────────────────────────────────────────────────────────────
+
+[00:32:43] mennonite: Go Stephen!
+[00:53:18] mrscribbles: (13...Re8) Is Bh6 too aggressive?
+[00:56:21] mennonite: I don't think so.
+[00:56:51] mennonite: White can slowly build up on the kingside, h4-h5, and not a lot Black can do about it
+[00:58:08] mennonite: maybe ...f5 as a desperation move
+[01:00:41] mrscribbles: (15...dxc4) hi mennonite
+[01:01:27] mrscribbles: (16.Bxc4) I might have gone Bc2 just to not waste time, no idea if it's good tho
+[01:01:57] mennonite: hello hello
+[01:02:58] mrscribbles: (16.Bxc4) Really hoping for a classic dubious long castle
+[01:03:13] mrscribbles: (16.Bxc4) aka DLC
+[01:03:28] nyanners: take d5 yourself
+[01:03:44] nyanners: this struture gives black some potential but its probably still terrible
+[01:03:59] mrscribbles: (16.Bxc4) hi nyan-set
+[01:04:14] mennonite: kind of glad the season is over for me now
+[01:04:14] mrscribbles: (16.Bxc4) I've never seen anything like this position
+[01:04:29] mrscribbles: (16.Bxc4) Did you do badly this season or something, mennonite?
+[01:04:29] mennonite: 3.5/8 on board 1 which is beyond my wildest dreams
+[01:05:01] mennonite: but really stressful getting 2400s every round
+[01:05:01] nyanners: basically imo black has to go c5
+[01:05:01] nyanners: with some luck could even get advantage
+[01:05:31] mennonite: yes, black's minor pieces spring to life after ...c5, at least potentially
+[01:06:02] nyanners: the real problem is dark square rot
+[01:06:32] nyanners: and b1h7 diagonal was better yes
+[01:06:32] nyanners: so yea, cxd5 would have helped a lot i think
+[01:06:48] nyanners: saves that one tempo and lowers the effectiveness of c5
+[01:07:18] nyanners: but it could still be dead? i dont know
+[01:08:04] nyanners: super concrete position here
+[01:08:49] nyanners: worth noting black's bxf3
+[01:10:06] nyanners: i dont know. i feel i would be optimistic with b
+[01:10:21] nyanners: cxd bxf3 nc6 and hope to live
+[01:11:37] nyanners: e.g. Rc1 Bxf3 and Nc6
+[01:11:53] nyanners: seems like just regular bad with some winning chances
+[01:13:24] nyanners: umm this formation is definitely dangerous
+[01:13:54] nyanners: say we give white a free move. what happens
+[01:14:40] nyanners: Qf4 Re7, Qh4+Bg7 (Bf8 Nxf8) h5
+[01:15:26] nyanners: actually Qf4 Re7 Nxf7 :o Rxf7 Bxe6
+[01:15:41] nyanners: so yea white saw this right? Qf4 i assume
+[01:15:56] nyanners: f5 exf6 is tempo
+[01:16:42] nyanners: so it has to be Qf4 Re7 Nxf7 i guess
+[01:16:42] nyanners: no wait, that no longer works
+[01:16:57] nyanners: Nxf7 Qxc4 seems enough
+[01:16:57] nyanners: very tricky
+[01:17:13] nyanners: Rc1 is also weird because the Bh6 no longer covers it
+[01:17:43] nyanners: but Qf4 Rc1 does..
+[01:17:43] nyanners: well, not my problem :o
+[01:20:31] mennonite: it is mine, sort of... team considerations and all
+[01:21:01] nyanners: yea fair :o
+[01:21:01] nyanners: so Re7 here
+[01:21:32] nyanners: regardless of whether this works, white could probably have done without losing control
+[01:22:48] nyanners: which would come back to cxd5 i guess
+[01:27:37] lou-e: Good evening all
+[01:27:37] lou-e: Go Stephen!
+[01:33:14] nyanners: qxe5 wins.. for black?
+[01:33:29] nyanners: Nxe5 defends f7
+[01:33:44] nyanners: and whos going to check now..
+[01:34:15] nyanners: its pretty incredible that when this type of position liquidates it just does so into instant death
+[01:34:30] nyanners: this is somehow quite common
+[01:34:45] nyanners: like not only youre lost, all your potential is exhausted
+[01:36:32] nyanners: i might try f4 but its just like the weirdest looking, black may well still be able to do anything
+[01:36:32] nyanners: maybe O-O is mature
+[01:38:49] lou-e: Surely Nd3+ here just wins
+[01:38:49] kamagayajiji: Ng4+ picks up Bh6
+[01:40:05] nyanners: yea id like to see checkmate but i dont see it
+[01:40:36] nyanners: ooooooooohhh this is very clean
+[01:40:51] nyanners: i like this more than Nd3+ which i probably would play
+[01:41:52] mennonite: still gotta watch for back rank tactics
+[01:41:52] nyanners: this takes the piece without misplacing anything and keeping the eye on the back ranks
+[01:42:07] nyanners: c7 and c8 covered
+[01:42:38] nyanners: Be4 Bxe4 Rxc4 Bd5+ might be the final line. everything else seems too obvious
+[01:45:25] nyanners: there they go
+[01:46:41] nyanners: one time? :o
+[01:47:42] nyanners: Re2 is quite tempting but does not get there
+[01:49:14] mrscribbles: (26.Rc1) Ba6 seems to solve all of black's problems
+[01:49:44] nyanners: yes
+[01:49:44] mrscribbles: (26.Rc1) Even Be6 is fine I think, though more awkward
+[01:49:59] nyanners: anything but Bd5 and, uh, the other ones
+[01:50:14] nyanners: Bb5 too
+[01:50:14] nyanners: is fine
+[01:50:14] mrscribbles: (26.Rc1) true, didn't see that one
+[01:50:46] mrscribbles: (26.Rc1) it should really be illegal to refute cute swindle attempts
+[01:51:16] nyanners: id be slightly concerned about Ba6 not having been played yet
+[01:52:02] nyanners: the longer you think the easier it is to forget you have to defend mate
+[01:53:50] nyanners: heya stephen what is it you want to do.......
+[01:54:51] nyanners: okay :o
+[01:55:37] nyanners: yea theres really no mystery, id just take the bullety way of Bb7 to prepare Nc6 Rae8 in the most prosaic way possible
+[01:56:07] kamagayajiji: Be6?? Nxe6 fxe6 Rc8+ Kf7 Rf8#
+[01:56:38] nyanners: not mate
+[01:56:53] nyanners: give rook :D
+[01:57:09] nyanners: but okay i actually missed that
+[01:57:39] nyanners: i suppose you could give the piece on e6 and youre still exchange and pawn up
+[01:58:26] nyanners: Nf3 is nice
+[01:58:56] nyanners: i think id go with d3
+[01:59:27] nyanners: or you can just let it go, Bb7 Na6
+[01:59:57] nyanners: actually seems quite convincing when you think about it
+[01:59:57] mennonite: I'd probably play ...Nd7 and just not have to worry about the back rank
+[02:00:28] kamagayajiji: Be6 Bxe6 Rxe6 Rc8 leads to mate
+[02:00:43] mennonite: and try to argue that Rc7 doesn't do anything substantive
+[02:00:43] nyanners: nah i mean, not recapturing on e6 at all
+[02:00:43] nyanners: but yeah i just dont want to allow Rc7
+[02:01:13] nyanners: mainly because Rc8 would then run into Rxa7
+[02:01:13] nyanners: surprisingly persistent
+[02:03:15] kamagayajiji: Be6 Nxe6 Re8? Nc7
+[02:04:31] nyanners: yea just Na6 there probably
+[02:05:17] kamagayajiji: but Ba6 was a good choice. I still like 22... Ng4+ to take Bh6 and get rid of back rank tricks
+[02:05:48] mennonite: going to bed I think... hope to wake up to good nws
+[02:06:18] nyanners: in hindsight you may well be right. black may be overthinking here
+[02:06:33] nyanners: i think Bb7 is very convincing
+[02:06:33] nyanners: it just doesnt feel good
+[02:06:49] nyanners: but when you look at what remains its clear its over
+[02:07:19] nyanners: umm yeah like
+[02:07:34] nyanners: i dont think this throws but i dont think its the priority
+[02:07:49] kamagayajiji: yes, Bb7 and black is clear, just don’t like having to think that hard...
+[02:08:35] kamagayajiji: this looks more adventurous than necessary
+[02:09:36] nyanners: the problem here is the knight is stuck
+[02:09:36] nyanners: maybe you just give it for free :D
+[02:10:22] nyanners: like dead serious
+[02:13:28] mennonite: what about ...Rc2 and if Re7 Nc6
+[02:13:59] mennonite: though then Ng5 is a potential issue
+[02:14:44] mennonite: but now Ng5 arrives with tempo
+[02:24:09] nyanners: this is definitely not what black wanted
+[02:24:25] nyanners: may have worked out
+[02:24:40] nyanners: all is well that ends well :o
+[02:26:28] nyanners: umm that can be taken
+[02:37:23] mennonite: gg
+[03:14:16] nyanners: gg
