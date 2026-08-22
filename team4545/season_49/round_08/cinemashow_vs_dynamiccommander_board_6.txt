@@ -1,0 +1,112 @@
+Lichess game chat log
+Game      : https://lichess.org/z4IoPGuZ
+White     : cinemashow
+Black     : dynamiccommander
+Time      : 45+45
+Captured  : 2026-08-22 23:00:30 UTC
+Game ended : 2026-08-22 21:40:25 UTC
+Messages  : 102
+────────────────────────────────────────────────────────────
+
+[18:56:47] pineapplechiffoncake: go cinemashow!
+[18:58:33] cinemashow: just waiting for opponent to arrive
+[19:02:52] blang316: Go cinemashow!
+[19:21:26] inter-temporal: (11...exf5) go cinemashow!
+[19:22:27] timothyha: (11...exf5) e6 now or Black just castles?
+[19:23:28] inter-temporal: (11...exf5) creative moves.
+[19:26:47] guitarspider: (13.Re1) go cinema!
+[19:32:08] timothyha: (13...Bg5) they;re talking about this game on https://www.twitch.tv/schachmitdralp now
+[19:37:13] timothyha: (14...O-O) I think we can take on g5 and win b7 with Nc5 now?
+[19:37:59] timothyha: (15...Qxg5) if Qd8 back then exf7 and Ne6
+[19:37:59] timothyha: (15...Qxg5) but Qxg5 is even better for White I think
+[19:40:01] timothyha: (16.exf7+) Black can't be ok with R+N sleeping
+[19:41:17] thedifferenceoftier5: i mean this doesn't actually look so bad
+[19:47:38] wave2679: White seems to be a lot better here
+[19:51:28] wave2679: Qe7 seems to be the only playable move
+[19:57:19] duty5521: I mean Black looks positionally lost here
+[19:58:04] duty5521: Undevelopped pieces, weak pawns on the kingside and a partly weak king all of which White doesn't have
+[20:01:23] wave2679: True but we just need a half point over the last 4 games
+[20:01:54] duty5521: [20. Qf4] Oh wow 20... Kg7 21. Qc7!
+[20:01:54] timothyha: (20.Qf4) interesting that Qc7 is now available
+[20:02:55] duty5521: Yeah allowing Kg7 is the best try probably otherwise losing a pawn is too much
+[20:03:56] duty5521: 20... Qc7 is 1-0 otherwise it could still be played on a bit
+[20:03:56] duty5521: uh 21. not 20...
+[20:05:42] wave2679: Was qh7 playable on (20...)
+[20:05:57] wave2679: Oh wait qd6+ is bad
+[20:05:57] wave2679: Nvm
+[20:42:20] duty5521: Somehow with the time pressure it's getting a bit hard to make progress for White
+[20:42:36] duty5521: Here Qe7 and what do you do
+[20:44:38] duty5521: Qf7 is probably imprecise, you remove the pin and allow the queen to get in
+[20:44:53] duty5521: Well, "pin"
+[20:45:24] duty5521: But trading the queens would remove all of the attack
+[20:49:29] inter-temporal: (28.Qd6) time pressure in a Queen ending is not so fun
+[20:49:59] duty5521: True
+[20:51:15] inter-temporal: (28.Qd6) especially for us mere mortals. :) cavemen don't calculate Q moves
+[20:51:30] inter-temporal: (28.Qd6) too many
+[20:51:46] inter-temporal: (28...Kh7) steps into a N-check...
+[20:52:01] inter-temporal: (28...Kh7) caveman see check king
+[20:52:16] duty5521: Yeah for the time pressure
+[20:52:47] inter-temporal: (29.Nd8) or check queen
+[20:53:48] inter-temporal: (29.Nd8) interesting formation to dominate black's N.
+[20:54:49] inter-temporal: (29.Nd8) [almost] dominating black's N
+[20:55:19] duty5521: I have no idea what either of the players should do
+[20:55:19] duty5521: Qg7 is logical
+[20:56:05] duty5521: Draw?
+[20:56:36] inter-temporal: (30...Qf7) i would. but i fear Q endings
+[20:56:51] duty5521: Oh now knight comes out
+[20:57:06] inter-temporal: (31.Nf4) yeh ...Nc7, then what
+[20:57:21] duty5521: No idea
+[20:57:36] inter-temporal: (31.Nf4) maybe just Qe5 and try to make a plan
+[20:57:52] duty5521: g5 is bothering
+[20:58:07] duty5521: Why Kg7
+[20:58:22] duty5521: I guess for Ne6+ and draw
+[20:58:22] inter-temporal: (31...Kg7) ...Qc7 might have simplified some things
+[20:59:08] duty5521: 31... Qc7 32. Qxg6+ +-
+[20:59:23] inter-temporal: (32.Nd3) yeh, simplified for white. lol
+[20:59:54] inter-temporal: (32.Nd3) find checks caveman!
+[21:00:24] duty5521: Qc7 now may be interesting
+[21:00:24] duty5521: And not Nc7 because Ne5
+[21:00:40] inter-temporal: (32...Qc7) no good checks. X-rays h2
+[21:01:10] duty5521: Taking h2 is probably too greedy though
+[21:02:58] inter-temporal: (34.Qc8) wonder if white can aim at h6 or g6 somehow
+[21:03:29] inter-temporal: (34.Qc8) with the help of harry
+[21:03:59] berndwind: go cinema!
+[21:04:14] inter-temporal: (34.Qc8) is ...Qe7 good
+[21:04:45] duty5521: What after Ne5 though
+[21:05:15] inter-temporal: (34...Qc7) maybe the Qs get too close to avoid exchanges
+[21:05:15] duty5521: Qe8 though
+[21:05:46] inter-temporal: (34...Qc7) coming at g6 from the rear
+[21:09:04] inter-temporal: (35.Qe6) or the center
+[21:15:26] duty5521: ah a7 falls
+[21:27:57] mennonite: Qa7+ and the queen can at least find a better home either way
+[21:34:50] inter-temporal: (51...Kd6) black's h-pawn has sights set
+[21:35:51] inter-temporal: (52.b4) i never know how to deal with these pawns...
+[21:36:21] inter-temporal: (52.b4) is there any way to free white's K?
+[21:36:36] verguenzaajena: a pawn and f pawn are going to be passed for white
+[21:36:51] inter-temporal: (52...Kc7) like, Kg2-Kg3, f4 maybe?
+[21:37:07] inter-temporal: (52...Kc7) Kg2-K[h]3, f4
+[21:37:07] verguenzaajena: a4 immediately and then f4
+[21:38:08] inter-temporal: (53.f4) this f4 g3, seemed worrying to me
+[21:38:23] inter-temporal: (53.f4) isn't white's K still stuck
+[21:38:23] verguenzaajena: The king is there
+[21:38:23] verguenzaajena: now a4
+[21:38:38] inter-temporal: (53...g4) ahh, but the split from a to f is too far for Black's K
+[21:38:38] verguenzaajena: two passed pawns are too much for the black king
+[21:38:53] inter-temporal: (55.Ke3) i was trying to handle defense. lol
+[21:38:53] verguenzaajena: noooo
+[21:39:08] verguenzaajena: push the pawns
+[21:39:08] duty5521: a5 +-
+[21:39:08] verguenzaajena: a4 please :D
+[21:39:08] verguenzaajena: *sorry a5
+[21:39:08] inter-temporal: (57.a5) yeh. it's all good
+[21:39:24] inter-temporal: (57.a5) for white, i mean.
+[21:39:24] duty5521: resignable
+[21:39:24] inter-temporal: (57.a5) noooooo. lol
+[21:39:39] inter-temporal: (57.a5) "never resign! (unless you feel like it)"--Capablanca
+[21:39:39] verguenzaajena: gg
+[21:39:39] inter-temporal: gg
+[21:39:54] bufferunderrun: gg
+[21:39:54] berndwind: GG
+[21:40:09] blang316: GG
+[21:40:25] verguenzaajena: Ok, trading the queen was the mistake
+[21:40:40] guitarspider: gg
