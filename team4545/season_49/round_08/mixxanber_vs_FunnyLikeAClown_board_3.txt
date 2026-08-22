@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/ZEK7bs9c
+White     : mixxanber
+Black     : funnylikeaclown
+Time      : 45+45
+Captured  : 2026-08-22 04:53:56 UTC
+Game ended : 2026-08-22 03:33:51 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[01:32:22] inter-temporal: (5...b5) go FunnyLikeAClown!!
+[01:33:08] inter-temporal: (7.O-O) 5.Nc3 on the board
+[01:34:54] mixxanber: my coach recommended this 5. Nc3 move, I don't remember the recommended lines but I remember there being important tricks
+[01:44:49] mixxanber: if Nd2, then a5 maybe
+[01:46:05] mixxanber: 10. Nd5 then Na5 maybe, somehow I can't take on e5
+[01:46:51] mixxanber: Nd2 a5 Ng3 looks fine to me
+[01:47:37] inter-temporal: (10.Ne2) looks like 10.Nd5 was okay too.
+[01:48:07] mixxanber: 10... Na5 Nxe5 Nxb3 cxb3 d5 looks very interesting for black
+[01:48:22] inter-temporal: (10.Ne2) i think white aims for use of c4, maybe by Nd2? smth
+[01:49:23] mixxanber: Ne2* my coordinates lol
+[01:49:38] mixxanber: my calculation looks a little off overall today
+[01:50:24] mixxanber: h6 looks a little weird to me tbh
+[01:50:39] mixxanber: Ng3 trying to go into f5, and h6 is pretty weakening
+[01:50:55] mixxanber: a5 looks generally very useful here imo
+[01:51:40] inter-temporal: (11.a5) perhaps ...h6 prevents Ng5 ,e.g. 10...Re8, Ng5!? perhaps
+[01:53:12] mixxanber: 11... d5 looks interesting, but I feel like these positions are easier to play as white
+[01:56:45] mixxanber: Be3 makes some sense to me, I don't mind doubled e-pawns i think
+[01:57:00] mixxanber: Nh4 is also quite temtping
+[01:57:16] mixxanber: Nh4 does allow d5 though
+[02:00:34] mixxanber: 13. Qe2 feels a little unmotivated, but for some reason Be3 felt a little premature
+[02:00:49] mixxanber: I was uncomfortable of Ng4 generally, hitting that doubled e pawn
+[02:01:19] inter-temporal: (13.Qe2) 13.Qe2 is good, imo to aim at the c4 square and the a6 pawn.
+[02:01:35] mixxanber: maybe c3 d4 should still be the main structure I consider
+[02:01:35] inter-temporal: (13.Qe2) and support e4 for d4, oc.
+[02:02:05] mixxanber: Qe2 also maybe allows Nh5, since the queen exrays the e pawn
+[02:02:20] mixxanber: 13. Nh5 I didn't like d5
+[02:02:20] inter-temporal: (13.Qe2) and permits Rd1 in one move, if desired
+[02:02:51] inter-temporal: (13.Qe2) each side probably needs to break a center pawn. d- or f- ...smth
+[02:03:06] mixxanber: Ng6 Be3 was what I had planned
+[02:04:07] mixxanber: 14. Be3 Nf4 bxf4 exf4 Nf5 looks interesting overall
+[02:04:22] mixxanber: I think its slow to kick my knight, and then a well timed d4?
+[02:09:43] inter-temporal: (15...d5) black is first. and never moved the f-Rook
+[02:09:58] inter-temporal: (15...d5) saved a tempo somehow.
+[02:11:45] mixxanber: exd5 looks pretty forced to me
+[02:12:15] mixxanber: after Nx though my structure still looks relatively healthy?
+[02:12:30] mixxanber: is h4 an idea?
+[02:15:03] mixxanber: this still looks pretty even so far, but it feels like black has made generally more purposeful moves
+[02:15:33] mixxanber: maybe I'm misevaluating, I don't think I'm worse, but it does feel like black has been achieving stuff over last few moves
+[02:17:50] mixxanber: I didn't consider Qxd5, but it looked scary
+[02:20:53] mixxanber: I need to pay careufl attention to Nf4 tricks overall here
+[02:21:23] mixxanber: Nd2 seems logical, opening up the f-file and preparing to come to this nice c4 square
+[02:21:54] mixxanber: Nd2 Nh4 looks okay I think
+[02:22:24] mixxanber: Nd2 Qg5 Nc4 still looks okay
+[02:23:25] mixxanber: but I somehow feel like my knights may find better squares?
+[02:23:56] mixxanber: but maybe I'm being optimistic, black seemingly has more direct threats
+[02:25:58] mixxanber: f5 is interesting here
+[02:26:29] mixxanber: f5 do I have Qh5
+[02:26:44] mixxanber: would LOVE a queen trade I think
+[02:28:31] mixxanber: Qh5 Qxh5 Nxh5 f4, I'm a little worried about my knight getting trapped
+[02:30:32] mixxanber: I'm seeing that there's no obvious Rf5 trapping my knight, because Ng3 exploiting some pin
+[02:32:50] mixxanber: Qf3 actually looks pretty good
+[02:34:06] goldenretrieverchess: Wish I didn’t have to go to sleep lol. Very cool position! Good luck both of you :D
+[02:35:53] mixxanber: I'm seeing some crazy position where I get a rook, knight, and two pawns for the queen
+[02:36:39] mixxanber: Qf3 Rd8 Nxf5 Nh4 Nxh4Rxf3 Nxf3, and then Nxe5 at the end
+[02:40:27] mixxanber: e4 surprises me
+[02:41:14] mixxanber: I thought just Qx here... am I missing something?
+[02:43:00] mixxanber: I did miss the queen covers the knight haha
+[02:44:01] mixxanber: after Rxf8 I am not too worried, but mybe I am confused
+[02:44:16] mixxanber: Rxf8 Rx Qf5 right?
+[02:44:31] mixxanber: err Rxf8 Nx Qf5
+[02:48:36] mixxanber: for some rason, Rf1 feels extremely safe to me
+[02:48:51] mixxanber: a tad passive, but very safe
+[02:51:39] mixxanber: Re1 also feels safe
+[02:53:10] mixxanber: Rf1 feels very weird, but starting to lose some focus
+[02:53:25] mixxanber: my queen generally feels extremely strong once rooks are off
+[02:53:25] mixxanber: that's mainly my motivation
+[02:56:14] mixxanber: I'm not so scared of mate as long as keep my queen on the light squares
+[02:59:01] mixxanber: I think taking on a6 is a bit too greedy
+[03:00:17] mixxanber: maybe Nfd2
+[03:02:04] mixxanber: can I get greedy now?
+[03:17:36] mixxanber: extremely scary with low time
+[03:17:51] mixxanber: but I think if Ne4, I have c5
+[03:28:47] mixxanber: 45 i think I blundered
+[03:29:17] mixxanber: Nd2 coming lol?
+[03:35:07] funnylikeaclown: late for me, but well played and thanks for the game
