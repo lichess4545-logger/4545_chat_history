@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/zxEfO461
+White     : mcstudly
+Black     : rborja1980
+Time      : 45+45
+Captured  : 2026-08-22 03:15:32 UTC
+Game ended : 2026-08-22 01:55:26 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[00:05:04] gary0892: Hi downhome
+[00:15:30] d0wnh0me: Hey, gary!
+[00:16:01] d0wnh0me: I was just recently out your way in the PNW
+[00:17:17] gary0892: As in the Pacific North West?
+[00:19:49] d0wnh0me: Yeah
+[00:20:20] gary0892: Well I'm from the north west in the UK
+[00:20:35] gary0892: Not quite the PNW
+[00:20:51] gary0892: But still sounds fun
+[00:21:21] d0wnh0me: Well, I got the north west part right lol
+[00:21:51] gary0892: Hahaha
+[00:21:51] d0wnh0me: I thought you were in Vancouver
+[00:22:07] d0wnh0me: It's late for you - your support for Borja knows no bounds
+[00:22:22] gary0892: No, although you may think that due to my poor sleep schedule haha
+[00:23:08] gary0892: Always there for Borja
+[00:23:08] gary0892: Unless it's a quiz competition
+[00:23:54] d0wnh0me: I'm not sure how Mils got Borja to use the bee flair - I'm sure a payoff was involved
+[00:24:09] gary0892: There was a season where our team was called the Bees Knees
+[00:24:24] gary0892: And we all changed to it
+[00:24:24] gary0892: Borja mustn't have changed it back
+[00:24:40] gary0892: Whereas I raced back to ordinariness
+[00:24:55] gary0892: As soon as I could
+[00:24:55] d0wnh0me: Haha
+[00:25:10] d0wnh0me: I like the cozy home flair they have - seemed fitting for me
+[00:25:41] gary0892: I agree
+[00:26:27] gary0892: I think I like Borja's position
+[00:26:57] gary0892: But this is the kind of position where I struggle to work out how to take advantage
+[00:27:27] gary0892: And you're forced to prove you have compensation for the pawn
+[00:27:43] d0wnh0me: Agreed. This is where I usually start shuffling pieces waiting for them to make a developing mistake, but I usually just end up making my
+[00:27:43] d0wnh0me: own mistake
+[00:27:58] gary0892: Yeah, me too
+[00:28:14] gary0892: And when we don't do anything active, we just end up worse
+[00:28:29] gary0892: Suits Borja though
+[00:29:30] d0wnh0me: White has some untangling to do - need to develop that bishop, but can't let go of the b2 pawn
+[00:32:18] gary0892: Bc4 maybe
+[00:32:48] sahkal: good luck mcstudly!
+[00:33:49] sahkal: Look who's here, downhome
+[00:34:04] sahkal: Oh well
+[00:44:14] d0wnh0me: f2 being loose could be helpful if Borja could get there with tempo
+[01:23:10] mcstudly: Well. RIP. rxa2+ end of the line.
+[01:24:41] sahkal: what do we rip?
+[01:24:41] sahkal: looks fine
+[01:26:13] mcstudly: i think 26. ...Bxc6, Nxc6 Nxc6 Bxc6 Qxc6 Qxc4 Ra2+ was better for him
+[01:27:59] mcstudly: uuuuh. didn't see 27. ..Nxb1
+[01:28:45] mcstudly: 28. Qg2 maybe.
+[01:28:45] sahkal: to be fair it's not a good move
+[01:29:00] sahkal: Bxb7 at least equal for white
+[01:29:16] sahkal: black is lucky to get Nf3+ options down the line so it's not outright lost
+[01:29:46] sahkal: but yeah it's more than equal for white with Bxb7
+[01:30:32] sahkal: don't play Qg2, calculate the forcing line that doesn't lose time like that
+[01:34:51] sahkal: or wait maybe i'm wrong about that line, Bxb7 Nxd2 Bxa8 is maybe not great
+[01:34:51] mcstudly: I think 28. ...Qb4 just 29. Rxb1, threatening Bxa8 and also dxe8 maybe
+[01:35:06] sahkal: but instead Bxb7 Nxd2 dxe7, that looks very strong
+[01:35:37] sahkal: yes, that looked winning honestly
+[01:35:52] mcstudly: 28. ... Qa{7,6} then either 29. Rxe8 or just dxe8
+[01:36:07] sahkal: but it's okay this could be good too
+[01:36:22] sahkal: could turn out well if black makes more mistakes than white
+[01:42:29] sahkal: there we go now how does black hope to defend against dxe7?
+[01:43:00] sahkal: gone
+[01:43:00] mcstudly: 29) hmm, I think this just gives me Rxe7, threatening Re8+ maybe?
+[01:43:00] sahkal: noooo
+[01:44:16] mcstudly: 29) or just dxe7
+[01:44:47] sahkal: good stuff
+[01:45:47] mcstudly: im still salty I miss-timed e5 on move 24. Like I can't be doing that.
+[01:49:21] sahkal: that's normal
+[01:50:06] sahkal: i'm still miscalculating move 28. Bxb7 Nxd2 dxe7 Rxb7 d8 Rxd8 Rxd8 Bf8, equal at best for white
+[01:50:37] sahkal: probably Qg2 was the stronger move
+[01:51:07] sahkal: and this is very nice now, hopefully we get the win
+[01:51:53] mrscribbles: (30.Bxa8) Black has to figure out what they do about Be4 next
+[01:51:53] mrscribbles: (30.Bxa8) I guess Na3?
+[01:52:23] mrscribbles: (30.Bxa8) Then Bc6 looks, uh, annoying
+[01:52:54] mrscribbles: (30.Bxa8) oh, never mind, white just promotes after Na3 lol
+[01:53:09] mrscribbles: (30.Bxa8) in my defense, chess is really hard
+[01:53:09] mrscribbles: (30.Bxa8) yeah looks dead lost
+[01:53:55] mrscribbles: (30.Bxa8) I don't see how you deal with the promotion and Be4
+[01:55:26] mrscribbles: gg
