@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/F0eQaJ7I
+White     : cvillian
+Black     : pope123
+Time      : 45+45
+Captured  : 2026-08-22 22:51:18 UTC
+Game ended : 2026-08-22 21:31:10 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[18:59:20] kborman: Go Pope123!
+[18:59:20] pope123: (2...e6) Im out of prep
+[19:01:53] namegoesinhere: (4...Bb4) go pope!
+[19:02:38] leverkuhn: Who has the mandate of heaven here?
+[19:02:54] leverkuhn: Is it Pope, with his capacity to speak ex cathedra?
+[19:03:09] leverkuhn: or cvillian: vox populi, vox dei?
+[19:04:10] leverkuhn: kind of a QID/Nimzo hybrid here
+[19:04:41] leverkuhn: I know a little about 4.g3 QID main lines, but not about 4.Nc3
+[19:09:00] kborman: From what I recall from a lesson, white wants to get in e4 and that often requires f3.
+[19:10:16] namegoesinhere: (5...h6) yeah, e4 is often white's goal; here probably the way to accomplish that is e3/Bd3 and maybe Qc2
+[19:10:16] namegoesinhere: (5...h6) since the knight is blocking the f-pawn
+[19:11:01] namegoesinhere: (6...Qxf6) I guess this is another way to get in e4 but trading the bishop is a bit of a concession
+[19:16:06] leverkuhn: Black can perhaps play 8...Bxc3 9.bxc3 d6 and try to get his center pawns onto dark squares
+[19:18:39] namegoesinhere: (8.Bd3) my instinct is always to slam ...c5 whenever possible in these Nimzo positions, but here maybe we have to look out for e5
+[19:19:25] kayrosas: h6 was a bit too early i think
+[19:20:41] kayrosas: you can go Bb7 first and if white wants to insist on e4 they gotta spend a tempo on Qc2
+[19:22:43] kborman: e5 seems like a lot to calculate for my small brain.
+[19:23:29] kayrosas: same. feels a bit loose. was thinking 9.a3 maybe
+[19:25:31] kayrosas: Bxc3 feels a bit unprompted if there isn't something concrete
+[19:25:46] kborman: I think it’s okay for black to castle long now because the b-pawn isn’t there. If they wanted to...
+[19:36:59] namegoesinhere: (11.Qd2) Qd2 is a bit mysterious to me
+[19:37:29] namegoesinhere: (11.Qd2) maybe to stop Qf4 after e5 but Qe7 should be a fine square to go to
+[19:37:29] kborman: It’s a typical plan to target the c4 pawn but it’s so difficult to do and the timing has to be right for everything.
+[19:55:35] leverkuhn: I thought White might be interested in a4-a5, but 13.Rac1 didn't really fit with that
+[19:56:21] leverkuhn: also Black didn't play 14...e5 to secure c5, so both sides being cagey with their plans
+[19:57:06] pope123: (14...Rfd8) Im not really sure what my plans are if white decides to wait
+[19:59:55] kborman: Nd2 makes e5 more compelling
+[20:04:14] namegoesinhere: (16.d5) battle of the terrible LSBs
+[20:10:20] kborman: Yeah, Outpost that jawn!
+[20:11:51] namegoesinhere: (18.Bb1) hmm, how to make progress as black here? play for ...f5 with ...Bc8 maybe?
+[20:15:26] kayrosas: gotta prepare for white going g3 f4
+[20:16:57] pope123: (18...g6) I dont really understand where my pieces need to be
+[20:17:43] pope123: (19.g3) Ok now at least Bc8 makes sense
+[20:17:58] pope123: (19.g3) Thats why I was hesitant of playing Rc8
+[20:20:46] pope123: (20.f4) Right forgot they can recapture with the rook
+[20:23:03] kayrosas: that c5 knight looks so pretty but isn't really useful
+[20:23:18] pope123: (21.Rxf4) I dont have Qb2 or Qd4+&Nd3
+[20:42:23] leverkuhn: 25.Qf3 Rf8 26.Rxg6+ Kxg6 27.e5+--is there something there?
+[20:47:44] leverkuhn: as far as I can tell that was actually good; how else to defend f7?
+[20:51:02] pope123: (26.Rdf6) White's center is super solid, I should be much worse after Qxf6
+[20:53:04] pope123: (26...Nd7) I mean I am much worse either way
+[20:55:06] pope123: (27...Ne5) Nb3...
+[20:56:07] leverkuhn: good reroute with 26...Nd7
+[20:56:22] leverkuhn: can't Black play 28...Qxc4?
+[20:59:10] leverkuhn: oof
+[20:59:40] leverkuhn: that was a cool idea, but the Nf3 cut the rooks' communication
+[21:31:10] kborman: gg
+[21:31:26] welpe: gg
+[21:31:26] pope123: Thanks for spectating and commenting
