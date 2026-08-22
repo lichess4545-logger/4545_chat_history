@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/GhIH3SRg
+White     : enprisewithease
+Black     : basilcandle
+Time      : 45+45
+Captured  : 2026-08-22 19:38:20 UTC
+Game ended : 2026-08-22 18:18:18 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[16:01:44] enprisewithease: (2.Nc3) I think there is a move order trick here where I need to play Bc4 next for my grand prix setup.
+[16:03:15] enprisewithease: (3.Bc4) I don't remember if that's actually the case or not and can't see exactly why, but I will anyway.
+[16:03:46] basilcandle: is this grand prix prep?! :-p
+[16:05:32] enprisewithease: (4.f4) black can just play d5 now? but Bb5+ c3, hmm.
+[16:10:07] enprisewithease: (5.Bb5) not sure if this wastes too much time
+[16:22:21] basilcandle: hi tranzoo & ciraid!
+[16:28:12] enprisewithease: (11.d4) feels tactical for black, so I should be careful
+[16:29:13] enprisewithease: (11.d4) gave up the bishop pair for no real compensation, I will need to revisit this opening
+[16:33:17] enprisewithease: (11...b5) so black will castle kingside
+[16:36:04] basilcandle: obviously considered 11... o-o, also dxe5 & c5
+[16:36:50] enprisewithease: (12.c3) is the c1 bishop bad or will this open up? normally I try to kingside attack so it could be exchanged too.
+[16:37:20] enprisewithease: (12.c3) I think this pawn structure is far from locked, but what do I know?
+[16:42:26] basilcandle: oh 13... Bc4 looks tempting
+[16:42:42] basilcandle: but Qd4 :(
+[16:42:57] basilcandle: oh d5?!
+[16:43:27] enprisewithease: (13...Bc4) wow, how did I?
+[16:46:15] enprisewithease: (13...Bc4) i haven't made a blunder like this in quite a while, sigh
+[16:47:01] basilcandle: hi ugf
+[16:47:01] upgoerfive: Go basil!
+[16:48:49] enprisewithease: (16.Kxf1) is this salvageable? I guess likely not.
+[16:49:34] enprisewithease: (16.Kxf1) trade bishops if I can, try some aggression
+[16:56:11] enprisewithease: (17.Bd2) I got nothin'.
+[17:01:02] spacebaristaken: Let's go Basillllll
+[17:03:19] enprisewithease: (20.Qg3) oh, did I have f5 there?
+[17:03:51] enprisewithease: (20.Qg3) feels like I don't want to open up the center though
+[17:05:53] enprisewithease: (20.Qg3) f5 exf5 Bh6 would win the rook?
+[17:10:58] enprisewithease: (20...f5) but, but, but, *I* wanted to play f5
+[17:16:48] enprisewithease: (21.Qf2) naively, I would think black wants to open the position and can do this on either wing, probably queenside, and I can't stop it
+[17:17:34] enprisewithease: (21.Qf2) or just trade pieces?
+[17:17:49] enprisewithease: (21.Qf2) feels unsalvageable
+[17:21:55] enprisewithease: (22.g3) no plan, maybe have my opponent run low on time and blunder is my best shot
+[17:22:25] enprisewithease: (22.g3) probably should have played Be3
+[17:22:40] enprisewithease: (22.g3) but I am worried about those queenside pawns advancing too
+[17:26:14] enprisewithease: (25.Qd4) I don't really want to think now
+[17:26:59] enprisewithease: (25.Qd4) one day I will know how to defend in a B vs R endgame
+[17:37:24] enprisewithease: (29.Be3) feels like black is over-complicating
+[17:39:26] enprisewithease: (28...Re4) i would love to play Be3 but I don't see how it works
+[17:41:59] enprisewithease: (28...Re4) now it just feels tricky, discovered check by the queen
+[17:45:32] basilcandle: hi hanzo!
+[17:51:54] enprisewithease: (29.Be3) Shankland rule I guess
+[17:52:40] enprisewithease: (29.Be3) This position showed just how weak my calculation ability is. I start calculating a line and give up and start over.
+[17:52:55] enprisewithease: (29.Be3) And do that like 10 times and then just give up and play something.
+[17:53:41] enprisewithease: (31.Kh3) And that was why I didn't want to play Be3 in the first place. And forgot.
+[17:54:42] enprisewithease: (31.Kh3) I would resign but this game might be must win for the team.
+[17:54:57] enprisewithease: (31.Kh3) should be over soon though
+[17:55:13] enprisewithease: (31.Kh3) Qf7?
+[17:55:29] enprisewithease: (31.Kh3) after the rook exchange, no
+[17:58:24] ciraid: Re2-qg2 and gg
+[17:58:39] enprisewithease: (32.Qxc1) I think I had too many choices when I played Be3. Kh3, Qd1, Re1
+[17:59:55] enprisewithease: (33...Qd7) would like to push d4-d5 but nope
+[18:00:41] enprisewithease: (34.Qb6) good game by my opponent
+[18:00:56] enprisewithease: (34.Qb6) took advantage of my mistakes quite well
+[18:00:56] ciraid: Rxd4 and if qxa6 ra4 and  the queen is trapepd
+[18:01:57] ciraid: Qd6 Qxd6 and gg
+[18:05:46] ciraid: Rxb2 threatens mate in one
+[18:06:01] ciraid: qc6 -g2
+[18:06:32] enprisewithease: (40.Kh3) promote the pawn would be easy for black, i just sit and wait?
+[18:07:02] enprisewithease: (42.Qf3) one final trick
+[18:08:19] enprisewithease: (43.g4) foiled
+[18:13:24] enprisewithease: (46.e6) mate in 2-3?
+[18:14:25] enprisewithease: (46.e6) not quite at stalemate possibilities in this position
+[18:16:47] enprisewithease: (51.h4) mate in 1
+[18:16:47] basilcandle: nice stalemate attempt
+[18:16:47] enprisewithease: (51.h4) ahhhh
+[18:17:02] ciraid: g6
+[18:17:17] ciraid: there was a mate in one
+[18:17:33] ciraid: nevermind basil is focused didn't fall for the trick
+[18:18:18] jdw10: gg
+[18:18:18] ciraid: gg both
