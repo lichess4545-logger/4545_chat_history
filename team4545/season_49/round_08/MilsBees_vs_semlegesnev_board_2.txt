@@ -1,0 +1,155 @@
+Lichess game chat log
+Game      : https://lichess.org/qAGFMktX
+White     : milsbees
+Black     : semlegesnev
+Time      : 45+45
+Captured  : 2026-08-23 21:21:11 UTC
+Game ended : 2026-08-23 20:01:01 UTC
+Messages  : 145
+────────────────────────────────────────────────────────────
+
+[17:33:42] handknit: (1.e4) mils stumped on move 1 smdh
+[17:34:43] handknit: (3.Bc4) all that thinking about what spanish line to play and we get an italian
+[17:42:04] guitarspider: (5.O-O) tragic :D
+[17:42:04] guitarspider: (5.O-O) go Mils!
+[17:42:35] handknit: (5.O-O) time to see if black knows enough to play Nxe4
+[17:43:36] handknit: (5...d5) I seem to remember that this is in fact not so good for black
+[17:44:06] guitarspider: (5...d5) seems super shaky
+[17:44:06] ameyer: Go Mils!
+[17:44:21] feet_barbie: go molsbess
+[17:45:37] handknit: (5...d5) Yeah the issues, IIRC, is that it's surprisingly hard to find a comfortable response to 6.exd5 Nxd5 7.Re1+
+[17:46:23] handknit: (5...d5) That said, going into 5...Nxe4 is really hard to figure out OTB if you don't already know the theory
+[17:47:09] guitarspider: (6.exd5) True, d5 is quite thematic in a lot of these Italians.
+[17:48:10] itsasecret2000: go mils
+[17:48:40] ttsgosadow: Gogo Mils!
+[17:53:30] ameyer: How does white get the pawn back after Qx?
+[17:54:15] handknit: (8.Nc3) It's not a priority but white's probably going to play Nb5 and Bf4 which, incidentally, adds an attacker to d4
+[17:54:31] handknit: (8.Nc3) More valuable/interesting is the pressure on c7 and e7
+[17:59:05] handknit: (9...Be7) I wonder if 9...a6 was the move, just to kick the N away from c7
+[17:59:20] handknit: (9...Be7) But that would be an expensive tempo
+[17:59:35] handknit: (10.Bf4) I think white maybe wins a pawn now
+[17:59:51] handknit: (10.Bf4) since black doesn't have a good response to Nxc7-Nb5-Nbxd5
+[18:02:38] ttsgosadow: Must be something why the rook can't just be taken?
+[18:03:09] handknit: (11...Bg4) Black is giving the exchange because he would rather be down an X in an asymmetrical position than a simple pawn
+[18:03:54] ameyer: That’s next level
+[18:12:33] thedifferenceoftier5: go moderator mils!
+[18:19:09] guitarspider: (14...Qd8) looking pretty good for mils
+[18:21:57] handknit: (15...Bh5) black's prospects here are not great
+[18:22:12] handknit: (15...Bh5) but, you know, you can always resign later
+[18:22:27] ameyer: Should white chase the bishop here? How do you decide when to play g4?
+[18:23:13] guitarspider: (15...Bh5) I don't see the need to play g4. There's no pin and there's no good reason to weaken the kingside
+[18:23:28] val1313: Go Mils !
+[18:24:14] ameyer: Makes sense thanks
+[18:25:15] handknit: (16.b4) white would like to trade one pair of rooks
+[18:28:02] handknit: (17.Qb3) I wonder if Rd5 first would've been an idea to prepare Bg6
+[18:28:02] handknit: (17.Qb3) *Qd5
+[18:28:48] handknit: (17.Qb3) maybe some kind of Qd7-Rc8 here
+[18:29:19] handknit: (17.Qb3) or even d3 directly here
+[18:29:34] handknit: (17.Qb3) I guess d Rad1
+[18:29:34] handknit: (17.Qb3) *d3 Rad1
+[18:34:39] itsasecret2000: mils in the driver seat but gamd not over yet
+[18:34:39] itsasecret2000: game*
+[18:35:09] itsasecret2000: i would like to trade one bishop as white
+[18:44:48] inter-temporal: (19...h6) go buzzybeez!
+[18:53:28] handknit: (21.Qb4) idea being to trap the N with Bd2 after meeting Bxc2 with Rdc1
+[18:53:43] handknit: (22.Rc1) but Bxc2 creates Nb3 as an option
+[18:54:29] handknit: (22.Rc1) I dunno, are there other clever responses to d3?
+[19:02:06] handknit: (22.Rc1) I'm curious if black hasn't seen d3 or he's looking at an alternative
+[19:06:10] timothyha: (22.Rc1) d3 feels like only move
+[19:06:25] timothyha: (22.Rc1) but Be3 Qc7 b6 I think
+[19:06:40] timothyha: (22.Rc1) small mess
+[19:06:55] timothyha: (22.Rc1) and somewhere at the end we have d3-d2
+[19:07:26] milsbees: 22.Rc1. As far as I can tell d3 must be forced? Moving the bishop lets me play Bc7, trapping the queen
+[19:08:12] handknit: (22.Rc1) Last time he had a think like this it turned out he'd literally just been called away from the computer for 20 minutes
+[19:14:02] handknit: (22...d3) Be3 might be forced here for white which is probably not a situation he wanted to be in
+[19:14:17] handknit: (22...d3) Though the resulting position is probably still winning because you get a pawn on a7
+[19:14:48] handknit: (22...d3) But something like 23.Be3 Qc7 24.b6 Qc3 is definitely a sloppier position than you feel like you should have to put up with
+[19:16:49] ttsgosadow: For black Nb3 looks threatening as it corners the rook
+[19:19:22] semlegesnev: officially done with move-in. Huhh. Let's focus 100% now and see if its saveable
+[19:20:07] timothyha: (23.Be3) moving house while playing, or more correctly playing while moving house - quite a dedication
+[19:20:38] ttsgosadow: Priorities :)
+[19:20:38] milsbees: Bd2 was my initial idea, but there are ways it could get messy I think
+[19:20:38] milsbees: so this feels a little cleaner?
+[19:21:54] semlegesnev: carrying 30 kg 1.5 meter long objects into a building with no elevator was not on my bucket list but here we go
+[19:21:54] semlegesnev: Anyway, eyes on the game now
+[19:22:09] timothyha: (23...Qc7) no wonder you beat me in our game
+[19:22:24] handknit: (24.b6) Trying to figure out what is 30kg and 1.5m
+[19:22:24] semlegesnev: we must save Baboona's respect
+[19:22:24] handknit: (24.b6) Well, trying to figure out a second thing
+[19:22:40] handknit: (24.b6) That is okay. We live without respect. We live beyond respect.
+[19:23:10] milsbees: I did miss Bc3 though, so hopefully that isn't a massive oversight....
+[19:23:10] ttsgosadow: He must have large size chess set
+[19:23:41] timothyha: (24...Qc3) I didn't see Qc3
+[19:24:11] milsbees: or that
+[19:24:42] val1313: Annoying
+[19:25:42] val1313: Can you just take on a7 ?
+[19:26:13] timothyha: (24...Qc3) d2 happens soon
+[19:26:13] handknit: (24...Qc3) I suspect just taking on a7 is best
+[19:26:13] ttsgosadow: Bd2 would be what I am looking at
+[19:26:28] val1313: Black knight on c4 is annoying though
+[19:26:43] handknit: (24...Qc3) The N is heading to b3 probably no matter what
+[19:26:43] handknit: (24...Qc3) but white has an exchange to give
+[19:26:59] handknit: (24...Qc3) With the pawn on a7, white gets ideas like Qb6 or Qxb7
+[19:27:14] val1313: Yeah even better
+[19:27:44] guitarspider: (24...Qc3) Bd2 is a bit too reactive, but I was looking at it too
+[19:28:00] handknit: (25.bxa7) The B doesn't do anything on d2 other than make itself a potential target to Nb3
+[19:28:45] guitarspider: (25.bxa7) ya, it's not good
+[19:29:31] handknit: (25.bxa7) I feel like black pretty much has to play Nb3 here, only question is whether you trade queens first
+[19:29:31] semlegesnev: Nb3 is the idea, before or after q trade is the question
+[19:29:46] handknit: (25.bxa7) I feel like neither should be savable but I think that's the only route
+[19:30:17] handknit: (25.bxa7) The big problem for black is that the remaining rook can no longer support the advanced pawn because of white's pawn on a7
+[19:30:32] semlegesnev: there is also q trade Nc4-b6
+[19:32:49] semlegesnev: I guess my rook has an involutary fortress
+[19:37:23] handknit: (28...Kh7) Black's not entirely without play here but he has to preserve the N for Nb6-Nd7
+[19:37:54] handknit: (28...Kh7) Maybe even play b5 with the idea of preserving the c6 square for the N
+[19:39:10] handknit: (28...Kh7) Thing about Bb8 is that it surrenders control of d2 and know white's N is completely locked out of the game
+[19:40:26] handknit: (29.b5) Bb2 is kind of an idea not so much to take the rook but rather just stopping the other R from moving
+[19:40:41] handknit: (29.b5) stop Re8, &c
+[19:42:58] handknit: (30.Re4) now there's no Nb6, either
+[19:43:44] handknit: (30.Re4) Gotta think about Na3 to chase b5
+[19:44:14] handknit: (30.Re4) Sideways idea is deciding the pawn on d3 is strong enough to sacrifice a second exchange on a7
+[19:44:30] ttsgosadow: Why no D2?
+[19:44:45] handknit: (30...Na3) Nxd2 and the B on c2 is hanging
+[19:45:00] semlegesnev: the plan is now to defend the d2 spot and push the d3 pawn forward
+[19:45:31] handknit: (30...Na3) Right now, because black's R is so bad, the pawn on d3 is very valuable restricting white's movement
+[19:45:31] semlegesnev: although my rook got red carded and is spending its suspension, it stops the bishop and the pawn
+[19:45:46] handknit: (31.Nd2) You don't want to cash it in for an exchange just yet because black doesn't want to trade down material
+[19:46:16] handknit: (31.Nd2) Stuff like Bc3 and Bb2 is sticking around as ideas, too
+[19:46:32] handknit: (31...Nxb5) Nxa7 is possible now, actually. White cannot pin it
+[19:46:47] semlegesnev: now a7 is hanging which is better than i expected
+[19:47:17] handknit: (32.Nc4) gotta recognize that after Nxa7 Nxb6 the B is hanging
+[19:47:17] handknit: (32.Nc4) missable when playing on increment
+[19:47:48] handknit: (32...Nxa7) This is somewhere between equal and better for black now
+[19:47:48] semlegesnev: the DSB is the mvp of the game
+[19:49:19] handknit: (33.Bf4) I suspect both b5 and Nb5 are fine
+[19:49:19] semlegesnev: looking to play BB2
+[19:49:34] handknit: (33...b5) Nb5-Nc3-Ne2+ is a very good path
+[19:50:05] handknit: (34.Ne5) does d2 win?
+[19:50:05] milsbees: well this is sad :(
+[19:50:35] milsbees: d2 should win for black now
+[19:51:21] handknit: (34...Re8) I think this preserves d2
+[19:51:36] handknit: (34...Re8) oh, is there Nxd3?
+[19:51:36] semlegesnev: Nxd3 Rxe4 Rxe2 gives the exchange back and gives me a pawn up
+[19:51:51] semlegesnev: should be a close endgame
+[19:51:51] handknit: (36.Rxc2) Rd4 now?
+[19:52:22] ttsgosadow: What a fight!
+[19:53:38] semlegesnev: was thinking Rd4 but Rd2 seemed to hold
+[19:54:24] handknit: (37.Rc7) Nb4 and the Rd4 threat becomes much stronger
+[19:54:24] handknit: (37.Rc7) Nb4 is forced here, too
+[19:54:39] handknit: (37.Rc7) I guess white plays Rb7, not Rxf7
+[19:56:26] handknit: (38...Rxd3) This seems simply winning for black now
+[19:56:41] handknit: (38...Rxd3) because b3-b2 comes easy
+[19:56:57] handknit: (39.Rxf7) You can even start with Rd1+ here to kick white's king away
+[19:57:12] handknit: (39.Rxf7) Pawn claims a whole rook because white's B can't get back
+[19:57:27] semlegesnev: b3 Rb7 b2 Kh2 Rd1 is there a stopping of the pawn? I don't see it
+[20:00:15] handknit: (42...Bxb2) [nods sagely]
+[20:00:45] jfiras: gg !
+[20:01:16] guitarspider: gg
+[20:01:31] stevenlongs: gg
+[20:07:51] semlegesnev: fun fact I came up with an opening against the spanish and had a 15 move depth prep
+[20:08:07] semlegesnev: so I was a bit sad to see Bc4
+[20:08:52] milsbees: I haven't played the Spanish in many years
+[20:09:38] milsbees: I mostly prepped for the Rousseau gambit, so we were in uncharted territory I guess
+[20:41:20] itsasecret2000: unlucky
+[20:41:20] itsasecret2000: gg
+[20:43:52] feet_barbie: G
