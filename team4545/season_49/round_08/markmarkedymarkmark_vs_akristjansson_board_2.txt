@@ -1,0 +1,46 @@
+Lichess game chat log
+Game      : https://lichess.org/J7Ag2UnT
+White     : markmarkedymarkmark
+Black     : akristjansson
+Time      : 45+45
+Captured  : 2026-08-23 18:39:13 UTC
+Game ended : 2026-08-23 17:19:04 UTC
+Messages  : 36
+────────────────────────────────────────────────────────────
+
+[15:10:05] akristjansson: 6. Bb2 this is a fairly normal anti-QGD in the english
+[15:10:05] akristjansson: on 6. Be2 I can go ...dxc4 and still probably can, but the fianchetto on b7 looks more normal
+[15:10:05] jkoch1: let's go mark!
+[15:12:22] akristjansson: 9. Qc2 maybe the point is to preempt Qh5 after Bc4 ...Qh5
+[15:13:07] akristjansson: 10. Bd3 makes sense now actually
+[15:15:40] pavonine: Gogogo alex
+[15:16:56] pavonine: Bb7 with kh8 rd8 looks ok considering
+[15:21:00] akristjansson: 10... f5 a little ugly, but also forced due to Bxh7+ and Be4 both being threatened.
+[15:21:45] akristjansson: unless White does something direct like e4 I can go ...Nc6 next and after a3, maybe push e5
+[15:31:09] akristjansson: 12. Bc4 Qd6 also made sense
+[15:44:52] akristjansson: 14... Nb4 trying to get to c6 where it will help control e5. Black can follow up with ...Bf6
+[15:53:45] akristjansson: 15... Qxc4 16. dxc4 Nc6 17. Rd7 looked a little sketchy. 17... Rfd8 was probably fine though
+[16:05:41] akristjansson: 17. dxc4 Bxb2 18. Kxb2 Nc6 19. Rd6 (19. Rd7 Rfd8 20. Rhd1 Rxd7 21. Rxd7 Rd8)
+[16:06:12] akristjansson: 19... e5 intending e4 next to displace the f3 knight
+[16:11:01] akristjansson: 19. Re1 intending e4 was interesting
+[16:18:23] akristjansson: 22. Kc3 Nd3? (22... h6 23. Ne6 Re8) 23. f3
+[16:33:22] akristjansson: 25. Kc3 Re7 26. b4 cxb4 27. axb4
+[16:59:00] akristjansson: 33... Red7 trying to trade off the rooks as the d-file is Whites main trump in the position
+[16:59:31] akristjansson: the resulting knight endgame would be pretty equal but Ng4 would be an annoying threat
+[17:18:03] akristjansson: 43... Ke6 doesnt look like either of us can make any progress
+[17:19:35] akristjansson: 10. Bd3 was as neat idea
+[17:19:50] akristjansson: these lines are hard to prep as Black
+[17:20:05] markmarkedymarkmark: yeah, I regretted castling queenside though
+[17:20:20] akristjansson: Yeah i think maybe you can just leave your king in the center
+[17:20:51] markmarkedymarkmark: ...Ba6 seemed to solve a lot of blacks problems
+[17:21:21] markmarkedymarkmark: yeah I'm always uncomfortable doing that haha
+[17:21:21] akristjansson: Yeah, not sure how you could prevent that
+[17:21:36] akristjansson: I thought about 11. e4 maybe but I would just play Qd6 and still threaten Ba6
+[17:21:52] akristjansson: well maybe you meet it by Bxf5
+[17:21:52] akristjansson: after exf5
+[17:22:37] akristjansson: seemed very equal from Ba6 on
+[17:22:52] akristjansson: fun endgame to play too
+[17:22:52] akristjansson: anyways Im gonna go thanks for the game again
+[17:23:08] markmarkedymarkmark: yeah I didn't really consider e4, I looked at 11.Bc4
+[17:23:53] markmarkedymarkmark: I see the engine like those moves but it's not clear to me, they win some tempo on the queen but not much more
+[17:24:39] markmarkedymarkmark: thanks for the game, wp!
