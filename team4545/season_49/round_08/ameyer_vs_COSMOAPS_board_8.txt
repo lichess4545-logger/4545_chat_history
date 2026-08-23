@@ -1,0 +1,133 @@
+Lichess game chat log
+Game      : https://lichess.org/LfNxEdoV
+White     : ameyer
+Black     : cosmoaps
+Time      : 45+45
+Captured  : 2026-08-23 15:23:29 UTC
+Game ended : 2026-08-23 14:03:18 UTC
+Messages  : 123
+────────────────────────────────────────────────────────────
+
+[12:03:29] ttsgosadow: Let's go Ameyer!
+[12:07:18] val1313: (4...Bg7) FF4!! Ameyer going for the blood !
+[12:07:33] ttsgosadow: Yeah, go get 'em!
+[12:08:34] ttsgosadow: Be2, O-O, Qe1-Qe4 seems like a plan
+[12:08:49] ttsgosadow: then push f pawn
+[12:19:59] gary0892: Is there some kind of Nxe5 tactic?
+[12:21:00] ttsgosadow: if there is I dont see it :)
+[12:21:30] gary0892: Nxe5 and bishop is threatened on f5
+[12:23:32] ttsgosadow: Nd4 defends?
+[12:25:04] gary0892: Yeah
+[12:25:19] gary0892: But he pawn has already been taken
+[12:32:25] qrs: (11. ... Nd4) what’s black hoping for here? I see no refutation of just 12. Rxe5
+[12:32:40] ttsgosadow: This looks like another pawn to take for white
+[12:32:40] itsasecret2000: letsgo ameyer
+[12:34:27] itsasecret2000: Rxe5 seems a trap
+[12:34:42] itsasecret2000: Rx Ng4
+[12:35:28] itsasecret2000: and then smt like Nxe2 Bd4+ with Nf2 tricks
+[12:35:43] itsasecret2000: not sure, ill leave the calculation to you, im on holiday
+[12:35:58] qrs: Don’t think there was anything except if white misses it
+[12:36:29] itsasecret2000: yeah probably still fine, just to be careful
+[12:36:29] qrs: Black very quickly played Nxe2 now though - without Ng4
+[12:36:59] itsasecret2000: white seems doing weel
+[12:36:59] itsasecret2000: well*
+[12:36:59] gary0892: Nx would be unfortunate
+[12:36:59] qrs: Just Qx or even Rx now
+[12:37:45] itsasecret2000: why Nx is bad?
+[12:38:00] ttsgosadow: I think Ameyer is checking to see if there's anything to miss
+[12:38:00] itsasecret2000: i mean i would take with R to avoid tricks
+[12:38:00] qrs: Seems all it’s really like it was said in #general. No more Matata left in the baboons after that heartbreak
+[12:38:00] gary0892: Qd4+
+[12:38:15] itsasecret2000: the knight covers d4
+[12:38:31] gary0892: Oh yeah haha
+[12:39:16] ttsgosadow: for black Qd4+ can pick up the rook if he takes with Knight - but then again Re3 would block andd keep the piece
+[12:39:32] val1313: Hopefully black is gonna miss his G pawn at some point
+[12:39:47] gary0892: Yes that's true too
+[12:40:02] gary0892: Nx is fine in many ways haha
+[12:40:02] qrs: Qd4+ Nxd4 as secret2000 said
+[12:40:17] qrs: But even Re3 would probably work
+[12:40:17] qrs: White is clearly fine now
+[12:40:48] gary0892: Quick Nxe2 did surprise me
+[12:41:18] gary0892: I thought Rxe5 was fine too but maybe there were some potential knight jump tricks
+[12:42:19] gary0892: Maybe didn't work but kept it tricky to navigate for white
+[12:42:34] val1313: Bg5 next white move I think
+[12:43:05] gary0892: Bg5 then some Ne4 ideas looks interesting
+[12:45:37] val1313: Ok no panic, this does nothing
+[12:46:23] ttsgosadow: Kh1 looks safe
+[12:46:38] qrs: Just 14. Qe3?!
+[12:46:53] qrs: But yea it’s riskier cause there may be Ng4 later
+[12:48:09] val1313: Ng4 looks annoying now
+[12:48:40] ttsgosadow: Re1?
+[12:48:55] ttsgosadow: Re4 I mean
+[12:48:55] val1313: Nope
+[12:49:10] val1313: Nf2
+[12:49:10] ttsgosadow: Nm, runs into fork
+[12:50:11] val1313: Smothred mate threats alert
+[12:50:42] val1313: Rf5 ?
+[12:50:57] ttsgosadow: Rf5 then - there's a lot of bad moves found
+[12:50:57] val1313: Yeah
+[12:50:57] ttsgosadow: This looks OK
+[12:51:43] val1313: If re8 ne4
+[12:56:02] ttsgosadow: What would you play after Ne4, Nf2?
+[12:56:32] val1313: Qxf2?
+[12:56:32] ttsgosadow: Ah, yeah ofc
+[12:58:19] val1313: Good i think he is ok now
+[12:58:19] ttsgosadow: Still tricky, Nf2, Qxf2, Rxe4, Qxd4, Rxd4
+[12:59:51] val1313: You just play dxe4
+[13:00:21] val1313: Instead of qxd4
+[13:03:09] val1313: I would play Bxh6 instantly
+[13:04:40] val1313: If bishptakes back you probably have nf6+
+[13:04:55] val1313: Ameyer playing like a boss
+[13:05:26] val1313: Nf6 looks to work no ?
+[13:09:29] ttsgosadow: and then exchange queens?
+[13:10:15] val1313: Before qg4
+[13:11:46] ttsgosadow: ah that makes more sense :)
+[13:12:47] val1313: (18...Kh8) actually it didn't work :))
+[13:13:33] ttsgosadow: how do you get the move numbers before your chat message?
+[13:13:48] val1313: (18...Kh8) I would play rH5 here I think
+[13:14:04] val1313: (18...Kh8) you'll have to ask the geeks of the league
+[13:14:19] val1313: (18...Kh8) (I see tranzoo in the chat :)))
+[13:14:34] val1313: (18...Kh8) it has to do with something call tempermonkey
+[13:15:35] ttsgosadow: ah, I read that somehere
+[13:18:38] ttsgosadow: tricky position
+[13:21:25] ttsgosadow: What would you play after Qxb2?
+[13:22:41] val1313: (19...Qxb2) I like RH5
+[13:22:57] val1313: (19...Qxb2) still
+[13:22:57] val1313: (19...Qxb2) lot of ways to win I think
+[13:23:57] val1313: (19...Qxb2) rh5 bg7 QF5 h6 nG5 gg
+[13:37:24] ttsgosadow: this looks gg
+[13:39:57] itsasecret2000: not super clear how to win it, i guess Nxf7 and then Nxh6
+[13:40:28] milsbees: Rxf7 first I thought
+[13:40:28] itsasecret2000: rook trade and then checkmate with Ne7
+[13:40:43] itsasecret2000: smt like that
+[13:41:29] itsasecret2000: not forced tho, i guess h3 would be a safe waiting move
+[13:42:45] itsasecret2000: Rxf7 maybe was cleaner yeah
+[13:45:02] itsasecret2000: maybe Nxh6 is still the cleaner win
+[13:45:17] itsasecret2000: if Kh8 Rxf8 Rxf8 Nf5+ Kg8 Ne7#
+[13:45:47] itsasecret2000: if Bxh6 Qxh6 Rxf5 Qg6+ and Qxf5
+[13:46:03] itsasecret2000: then black's king has no pawns so it should be winning
+[13:46:33] itsasecret2000: just dont get mated on the first rank
+[13:49:36] itsasecret2000: btw i saw we mighr have a shot for third place, so all the pressur would be on mils
+[13:51:07] ttsgosadow: That would be insane if we made that
+[13:51:38] ttsgosadow: Time is really low now, but no room for errors
+[13:52:08] itsasecret2000: i guess white could make at least h3 to gain some time
+[13:52:24] itsasecret2000: black pieces are tied
+[13:56:58] handknit: (25.Rxf8+) Bxf8 forced here
+[13:56:58] handknit: (25.Rxf8+) oh, wait, that just hangs e8
+[13:57:13] handknit: (25.Rxf8+) so yeah this wins by force
+[13:57:28] handknit: (25.Rxf8+) Wait, no, miscalculated something.
+[13:58:44] itsasecret2000: Bxf8 Nf7
+[13:58:44] handknit: (25.Rxf8+) If it goes to a Q or QN-QB endgame and white's not immediately winning then black does have play
+[13:58:59] handknit: (25.Rxf8+) Ah, yeah, Nf7
+[13:58:59] handknit: (25.Rxf8+) So it is winning by force
+[13:59:15] handknit: (25.Rxf8+) calcula good
+[13:59:30] itsasecret2000: yeah i missed this idea from the distance
+[13:59:45] itsasecret2000: i was focused oh Nf5 with discover check and then Ne7#
+[14:00:00] itsasecret2000: but this simpler and it works too
+[14:01:01] itsasecret2000: very good game ameyer, congrata
+[14:01:16] itsasecret2000: congrats*
+[14:02:33] ttsgosadow: Super nice win! You where in the driver seat!
+[14:03:18] itsasecret2000: gg
+[14:03:18] kborman: gg
+[14:05:51] val1313: Gg !
+[14:13:27] ameyer: thanks all for watching!
