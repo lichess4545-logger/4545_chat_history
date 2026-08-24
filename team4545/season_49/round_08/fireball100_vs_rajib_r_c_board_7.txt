@@ -1,0 +1,115 @@
+Lichess game chat log
+Game      : https://lichess.org/bNqUdy9z
+White     : fireball100
+Black     : rajib_r_c
+Time      : 45+45
+Captured  : 2026-08-24 01:17:42 UTC
+Game ended : 2026-08-23 23:57:34 UTC
+Messages  : 105
+────────────────────────────────────────────────────────────
+
+[22:02:19] simonwashere: Go fireball!
+[22:03:50] bufferunderrun: let's go rajib_r_c!
+[22:07:38] fireball100: I will stop playing blitz soon :)
+[22:09:25] simonwashere: Is this a known opening line still?
+[22:11:57] metalpawn: Go rajib ¡¡¡
+[22:12:58] bufferunderrun: it's some sort of attempt to play classical Bf5, but worse, because of the move order
+[22:14:30] bufferunderrun: basically, after e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5  Ng3 Bg6 h4 h6 Nf3 black has Nd7 preventing Ne5
+[22:14:30] fireball100: free Q!
+[22:14:45] bufferunderrun: here it's probably just lost for black
+[22:15:31] simonwashere: ah, interesting, thanks
+[22:17:17] bufferunderrun: nowadays though, very few play Bf5 and opt for Nf6 Nxf6 exf6
+[22:19:04] bufferunderrun: Nxf7 is a threat
+[22:20:20] fireball100: this all "book" for 2 Ns Caro-Kahn opening.
+[22:26:25] bufferunderrun: I've seen this, but with Qf3 instead of Bc4. Thought I don't play these lines, so probably fine as well.
+[22:27:27] davidsifre: Go fireball!
+[22:27:42] davidsifre: Black has been on a tilt this year.
+[22:27:42] cinemashow: (11...Bg7) Black needs to get the two knight out
+[22:28:12] davidsifre: Development of the pieces is secondary to king safety.
+[22:28:12] davidsifre: For black.
+[22:28:43] davidsifre: You want as many pieces in the corner as possible.
+[22:28:43] simonwashere: especially knights
+[22:29:13] davidsifre: Yes. They control the fewest squares there BUT that control is absolute.
+[22:29:59] fireball100: now some difference - we will see how it goes. I like my attacking position though
+[22:30:14] davidsifre: Do not cat attached to your position.
+[22:30:29] davidsifre: Or get.
+[22:30:45] davidsifre: But certainly do not attach a cat to it.
+[22:30:45] simonwashere: detach the cat from your position
+[22:31:00] cinemashow: (12.Bf4) Nf6 here
+[22:31:15] davidsifre: Purrfectly stated.
+[22:32:16] davidsifre: Black needs to get Queen to c1 or f1
+[22:33:17] bufferunderrun: I have the weird feeling that the Ng3 needs to be on c5
+[22:36:20] davidsifre: Incoming castle.
+[22:37:05] simonwashere: both sides probably
+[22:37:05] davidsifre: Long castle for white. Then attack.
+[22:40:08] bufferunderrun: perhaps some d5 ideas in the air
+[22:41:09] davidsifre: Rhe1?
+[22:41:24] davidsifre: Master says develop room
+[22:41:24] davidsifre: K
+[22:41:40] davidsifre: Kat
+[22:41:55] simonwashere: Kat or Cat?
+[22:42:25] davidsifre: It doesn’t matter. They can’t spell.
+[22:42:25] mennonite: personally i find it psychologically difficult to have such a massive attack peter out, and recalibrate to quiet play
+[22:42:25] davidsifre: Or won’t.
+[22:42:56] davidsifre: That is why you should not get attached to a position.
+[22:43:26] davidsifre: Chess is all about playing the board. The board changes. You must flow like water.
+[22:43:57] davidsifre: I am studying chess by Bruce Lee.
+[22:43:57] simonwashere: float like a butterfly
+[22:43:57] davidsifre: Sting like a bee.
+[22:44:27] davidsifre: Your hands can’t hit what your eyes can’t see.
+[22:44:42] mennonite: So the solution is blindfold chess
+[22:44:42] davidsifre: That’s what my eye doctor’s poster said
+[22:44:58] simonwashere: so logically you also can't bump into things if your eyes are closed
+[22:45:43] davidsifre: We have a blind guy at the club. He uses a chopstick to tap around the board.
+[22:46:59] davidsifre: Obviously, on his move only.
+[22:48:00] metalpawn: 14.Ne4 looks good
+[22:48:31] davidsifre: My rook move was chosen. I get a prize.
+[22:49:01] davidsifre: Why can’t you bump into things with eyes closed? That does not seem logical.
+[22:49:17] mennonite: Nxf7 has to at least be calculated
+[22:49:47] davidsifre: I calculated they as losing 2 points of material.
+[22:51:18] davidsifre: One point.
+[22:51:34] metalpawn: 14...Nd5 maybe
+[22:51:34] mennonite: let's sayit's white move... Nxf7 Kxf7 Bxe6 and the bishop is immune
+[22:51:34] simonwashere: If your hands can't hit what your eyes can't see then clearly you can't bump into stuff you can't see either
+[22:52:34] davidsifre: Oh I suppose. But I think it means you can’t deliberately hit. So maybe it should say, your hands won’t likely hit what your eyes can’t see 
+[22:52:50] davidsifre: Not as poetic
+[22:53:05] davidsifre: But you will likely bump into stuff.
+[22:54:06] simonwashere: true I guess
+[22:55:07] simonwashere: black really has a lot of pieces protecting the king
+[22:56:23] simonwashere: Nxf7 now maybe?
+[22:56:38] metalpawn: 15.Nxf7 is temptress
+[22:57:24] simonwashere: or not
+[22:57:55] simonwashere: yeah tempting but probably a bad idea
+[22:58:55] bufferunderrun: Qd2 made a bit more sense
+[22:59:11] bufferunderrun: this kind of allows Nd5
+[22:59:56] simonwashere: good point
+[22:59:56] metalpawn: yes 15...Nd5 is good here
+[23:00:57] bufferunderrun: unless Nxe5, Ng4 works as well
+[23:09:20] davidsifre: Is Qe3 a waiting move?
+[23:12:53] davidsifre: Or is he taking h8?
+[23:27:37] metalpawn: 20...g5
+[23:33:57] bufferunderrun: 22.h6+ seems alright
+[23:34:43] mennonite: sure, the pawn's clearly immune
+[23:35:44] bufferunderrun: you free up h5, for Nh5-Nf6, which in turn would allow Qxg5 as well
+[23:36:30] bufferunderrun: Idk what's the idea behind Rd4 is
+[23:37:00] bufferunderrun: it certainly doesn't stop b4, since Rxb4 isn't possible
+[23:37:46] bufferunderrun: I think, unless Qg5+ causes issues
+[23:39:02] metalpawn: but if 23.Rxb4 Qxb4 the 25.Qxg5+ is annoying
+[23:39:32] bufferunderrun: yeah, not sure it works though
+[23:40:03] bufferunderrun: black can drop the Q back to f8
+[23:41:34] metalpawn: 24...bxc3+ maybe
+[23:44:06] metalpawn: if the Knight wanst in e2 the mate would be beautiful
+[23:44:37] metalpawn: after....QxR
+[23:44:52] metalpawn: i miss something
+[23:45:07] bufferunderrun: no
+[23:46:08] mennonite: it's one of those moves you at least have to look at, but unless i'm missing something... there's nothing there.
+[23:46:23] bufferunderrun: Rxb2 probably doesn't work because of Nc3
+[23:47:55] metalpawn: 27.Rd8 Rxb2
+[23:48:10] metalpawn: with idea Bc2+
+[23:49:11] davidsifre: Take the pawn with check.
+[23:50:58] davidsifre: Qxg5+
+[23:57:18] bufferunderrun: gg
+[23:57:18] metalpawn: gg guys
+[23:57:49] fireball100: gg !
+[23:59:05] fireball100: I was afraid of the Q sacrifice but felt I could at least trad Q for the 2 R... Direct atacking of  K was best at the end
+[23:59:35] fireball100: Thanks all for watching!
