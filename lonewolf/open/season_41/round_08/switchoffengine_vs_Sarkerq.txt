@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/dYKQz48M
+White     : switchoffengine
+Black     : sarkerq
+Time      : 30+30
+Captured  : 2026-08-25 18:38:15 UTC
+Game ended : 2026-08-25 17:18:07 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[16:27:06] grzybozbur: i suspect the best move for white is to give away the second tempo with 12.nf3
+[17:08:29] qizai2021: 20. Rf2 be6 21. g3 followed by rh2 ?
+[17:11:31] grzybozbur: that's a million moves, in the meantime black can deverlop and put his own rook on h8
+[17:19:39] sarkerq: Yeah, I also though 12 nf3 may be the best, I don't have to rush e5 and I can play Kh8, Be6 Bg8
+[17:20:24] sarkerq: After 10 f5 I feel my position is easier to play
+[17:21:25] sarkerq: 12 ... Nxd4 I tried to calculate but I did not see a clear material gain, and I did not want to trade two minors for a rook
+[17:23:27] sarkerq: Yeah, comp says Nxd4 cxd4 Qxd4 Be3 Ng3! (or Qe3 Nc5!!) Too hard to evaluate
+[17:25:59] switchoffengine: bad plan by me this Nfd2 and f3, i was trying to get rid of the knight too early
+[17:26:14] switchoffengine: neglected development
+[17:26:45] grzybozbur: i wouldn't take on d4 either, probably just go back 12...nf6
+[17:27:46] switchoffengine: Bh6 was also a bit of a panic move
+[17:28:16] grzybozbur: then black can just play on normally, while white has a pawn on f3, two bad knights and needs to spend time to figure how to untangle
+[17:29:02] switchoffengine: gg, good luck for rest of tourney!
+[17:29:17] sarkerq: Bh6 was the most scary looking for me :) all the other lines were quite clear that I have advantage, here I had to look if I dont get mated
+[17:29:17] sarkerq: Thank you, best of luck to you too!
+[17:30:48] sarkerq: Hmm I did not consider 12 ...Nf6, as in game I got e5 with tempo
+[17:32:19] sarkerq: And I either win a pawn for free, or.the rook in exchange for white attack
+[17:33:20] grzybozbur: i can't caluclate, so i just prefer simple positions. Sure, once there is no knight on f3, e5/g5 is on the cards
+[17:35:07] grzybozbur: and once black has replaced a strong nf3 with a useless pawn, black has a great game
+[17:36:23] sarkerq: Yup, after f3 I was quite sure I was winning, did not find the cleanest way, but it was hard to find a defence for white
+[17:36:38] sarkerq: Got to go now, thank you for analysing together!
+[17:36:53] grzybozbur: thanks
