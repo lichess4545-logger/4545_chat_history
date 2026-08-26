@@ -1,0 +1,57 @@
+Lichess game chat log
+Game      : https://lichess.org/jp8idzD8
+White     : wilsonia
+Black     : rufusson_dufus
+Time      : 30+30
+Captured  : 2026-08-26 23:38:34 UTC
+Game ended : 2026-08-26 22:18:26 UTC
+Messages  : 47
+────────────────────────────────────────────────────────────
+
+[21:00:30] rufusson_dufus: actually why can't I go 2....b6 here? mmm
+[21:00:45] rufusson_dufus: I guess that would be a weird French
+[21:03:33] rufusson_dufus: I know you're supposed to go 7....Nxd5, but I really like exd5
+[21:04:18] rufusson_dufus: actually, maybe that wasn't so smart. Need to slow down a bit now and not be so impulsive
+[21:07:36] rufusson_dufus: 8....Ne4 Ndxe4 dxe4 Bh4 Nb6, is thatany good? probably not, there's Qc2
+[21:10:39] rufusson_dufus: my eval after 10....Re8: +0.3, white is more active. I should have gone Nxd5 rather than exd5
+[21:12:41] rufusson_dufus: I have a plan now: Ng6...h6 to win the bishop pair. Not great, but it's something
+[21:14:58] rufusson_dufus: I guess I underestimated 14.Qc2. That looks weird because I will put a rook on the c file soon, but might be reasonable
+[21:15:13] rufusson_dufus: 13.Rc1 looked a bit slow, I was more scared of b4 or Na4 or Nb3
+[21:17:45] rufusson_dufus: my main threat is 15.Qc8 I guess, but this doesn't look great
+[21:19:17] rufusson_dufus: 15.Qb3 Rb8?? Bxg6! hxg6 Bf4
+[21:19:47] rufusson_dufus: so I guess after Qb3 I must go b6. oh my
+[21:20:17] rufusson_dufus: 15.Qb3 Qb6 is possible, but that looks suspicious – I want to checkmate, so I need queens, and b6 is hard to defend
+[21:22:50] rufusson_dufus: 15....a6 creates a hole on b6. b5 creates a hol eon c5. So maybe just Qc8?
+[21:23:51] rufusson_dufus: I'm going all-in on this attack, which I don't like. But I don't see a good way to defend my queenside sustainably
+[21:24:52] rufusson_dufus: given that my position is like +0.8 if I let the queenside play out, I am fine with a perpetual
+[21:27:09] rufusson_dufus: 16....Bxh3 gxh3 Qxh3 Bf5 Ng4 f3 Bxg5! Bxg4?? Bxe3+! and I am up material
+[21:29:41] rufusson_dufus: 16....Bxh3 Bxf6 Bxf6 gxh3 Nh5!? Kh2 looks like it could be possible
+[21:31:58] rufusson_dufus: 16....Bxh3 Bxf6 Bxg2 Bxe7 Qh3 f3 Bxf1 could also be a plan, but mmm
+[21:33:45] rufusson_dufus: wow, no 17.Bxf6. Did I miss something?
+[21:36:02] rufusson_dufus: oh no, I missed the humble 18.f3 :(
+[21:39:20] rufusson_dufus: that's gg, I am just fishing in the dark now
+[21:41:37] mrscribbles: (18...Nh5) this looks dynamic
+[21:42:07] mrscribbles: (19.Bxe7) White's knights, queen, bishop and LSB make a funny formation
+[21:45:10] rufusson_dufus: if 20.Rce1 I have hope with Nh4
+[21:46:57] neverness: 20.Bxg6
+[21:47:27] neverness: These Knights are giving me headaches!
+[21:48:28] rufusson_dufus: after 20.Qh2 Qxh2+ Kxg2 Rxe3 Bxg6 it must be like +1.2 or so
+[21:50:15] rufusson_dufus: 20.Bxg6 must also win pretty much immediately. How do I even recapture? I want a passed h pawn, but fxg6 gives white a lot of play on...
+[21:50:15] rufusson_dufus: ... the e file
+[21:52:01] rufusson_dufus: I don't know how this is objectively, but I am getting a lot of play now after 20.Rce1
+[21:54:49] neverness: 21...Ng3 and?
+[21:56:05] rufusson_dufus: I just saw I get an exchange with 21....Ng3. Do I have better with 21....Re6 or such?
+[21:56:51] neverness: Well, gotta go. :-(
+[21:56:51] neverness: Bye!
+[21:58:52] rufusson_dufus: 21....Re6 Ne2 Rxe3 Nf4 is a bit inconvenient
+[22:00:24] rufusson_dufus: 22.Qh2 Qxh2+ Kxh2 Nxf1 Rxf1 Rxe3 – hey, that actually looks pretty decent, the whole third rank is hanging!
+[22:00:54] rufusson_dufus: and my opponent might have overlooked that there is no 22.Qh2 Qxh2+ Kxh2 Nxf1 Bxf1?? because Nxf3+
+[22:01:40] rufusson_dufus: 24.Kh3 also doesn't work, I have Nxe3
+[22:03:42] rufusson_dufus: 25.Nc1 also hangs Nxf3+Kg2 Nxd4. That's rook+five pawns for two pieces
+[22:07:30] rufusson_dufus: 28.Rh1 I can consider Re1 now
+[22:09:32] rufusson_dufus: 28....Re1 also looked good, but I prefer R8e5
+[22:11:03] rufusson_dufus: 30....Ne6 Rb4 maybe grants a bit of counterplay
+[22:11:49] rufusson_dufus: next mission is either a rook checkmate or letting my pawns run
+[22:19:12] wilsonia: my pawns died haha gg
+[22:19:42] rufusson_dufus: Lucky swindle on my part
+[22:19:42] rufusson_dufus: gg
