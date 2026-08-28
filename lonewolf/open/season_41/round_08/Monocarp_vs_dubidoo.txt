@@ -1,0 +1,36 @@
+Lichess game chat log
+Game      : https://lichess.org/bZbsak0m
+White     : monocarp
+Black     : dubidoo
+Time      : 30+30
+Captured  : 2026-08-28 04:24:27 UTC
+Game ended : 2026-08-28 03:04:18 UTC
+Messages  : 26
+────────────────────────────────────────────────────────────
+
+[01:28:36] monocarp: (6... c6) these are normalish moves for the position, but black's play seems slowish maybe
+[01:28:51] monocarp: so I'm wondering if the g4, h4, h5 show should start
+[01:29:07] monocarp: but then again black hasn't commited the king
+[01:41:18] monocarp: (11. Bh3) so I can swap the LSBs when the knight moves? it seems my LSB should be much worse
+[01:42:03] monocarp: didn't think about Nxc4 at all, whoops :(
+[01:43:35] monocarp: I think that was good for me anyway, due to Nxc4. Bxb7, Nxe3 can be answered with Qa4+
+[01:46:37] monocarp: (14.a4) a knight kicked back to d7 will make d3 very tender
+[01:46:37] mrscribbles: (14...a6) I see we've entered the Boring World of Nils Bohr
+[01:46:53] mrscribbles: (14...a6) just kidding... sorta
+[01:46:53] mrscribbles: (14...a6) this kind of position always makes my poor tiny brain hurt
+[01:53:59] monocarp: (17. Qd3) I find it hard to see good moves in such a closed position. Maybe black is better since they seems to have the only
+[01:54:14] monocarp: potentially viable break (f5), but I have that under control very much
+[02:06:25] monocarp: (22. hxg5) two options for the longer term here 1) I play for b4 or 2) I try to play on the h file
+[02:08:12] monocarp: also regretting bring my king towards the kingside instead of queenside...
+[02:14:17] monocarp: (23...Rf4) I don't see the point...
+[02:14:33] monocarp: I guess the h7 knight takes on g5 at the end
+[02:15:03] monocarp: and you open up the g7 bishop
+[02:15:49] monocarp: but if I don't take it looks quite bad as g5 will fall anyway
+[02:23:56] monocarp: (26. Rh4) actually probably quite a decent exchange sacc, I'm now no longer sure if Rh4 is as good as I thought it was
+[02:24:12] monocarp: but If I can weather the storm of black's pieces being better we should be fine
+[02:36:23] monocarp: I blundered
+[02:36:38] monocarp: (28. Qe3) allows Bh6 I think
+[02:37:39] monocarp: and seen... ouch
+[02:57:42] monocarp: I think we queened at the same time if I gave up the knight
+[02:59:28] monocarp: my comment about giving up the knight was on move 45, btw
+[02:59:44] monocarp: here on move 48 seems completely fine
