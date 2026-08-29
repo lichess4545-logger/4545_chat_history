@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/89Lskdcq
+White     : moistvonlipwig
+Black     : aactrl
+Time      : 20+20
+Captured  : 2026-08-29 17:32:22 UTC
+Game ended : 2026-08-29 16:12:13 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[15:09:16] mrscribbles: (4.Bf3) this is quite the rating matchup
+[15:09:46] mrscribbles: (4...d5) and quite the H2H score
+[15:14:05] moistvonlipwig: e5 is a big weakness now
+[15:18:40] aactrl: (10...Bf6) 11.Ne5 g6, then Qg7?
+[15:18:55] moistvonlipwig: the point of 12.Bh5 is to threaten QxQ followed by Bf7
+[15:19:10] moistvonlipwig: and it prevents Qf7 ofc
+[15:19:10] aactrl: (12.Bh5) why Bh5?
+[15:19:40] aactrl: (12.Bh5) oh QxQ then Bf7
+[15:24:45] moistvonlipwig: probably shouldn't have simplified so easily, White doesn't have much now
+[15:26:32] aactrl: (15...Kd6) hmm maybe 15...b5 instead, against 16.c4
+[15:29:19] aactrl: (17...d4) ah shit Rg7 then e2 is covered
+[15:30:05] aactrl: (17...d4) no, actually, Rg4 has few squares
+[15:31:06] aactrl: (17...d4) exd4 Nxd4 Rg7 Ne2?? Bxe2, here's the problem
+[15:31:21] aactrl: (17...d4) but exd4 Bf3 fortunately
+[15:36:10] moistvonlipwig: meh, no good way to stop 18...Bf3
+[15:41:15] moistvonlipwig: this is a bit silly but now Bf3 is not a threat anymore, I might as well go Re1
+[15:42:01] aactrl: (19.Re1) Ng7 Bf7...
+[15:47:35] moistvonlipwig: now things are looking better; I don't think White can lose this endgame, and there might be some winning chances
+[16:12:13] aactrl: (46...Bxg8) whoohoo!
+[16:15:46] moistvonlipwig: Well, nicely defended
+[16:15:46] moistvonlipwig: And punished the mistake in the end
+[16:19:34] aactrl: thanks, happy to survive and more!
