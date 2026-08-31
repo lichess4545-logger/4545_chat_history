@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/B2rYD83H
+White     : gavalanche20
+Black     : elitejanissary
+Time      : 30+30
+Captured  : 2026-08-31 06:57:25 UTC
+Game ended : 2026-08-31 05:37:18 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[04:03:22] gavalanche20: (1.d4) I think I'm expecting either QGD or Triangle Slav
+[04:05:54] gavalanche20: (1...Nf6) Hey Scribs
+[04:06:09] gavalanche20: (6.Be2) Also hey Lichess TV it seems
+[04:06:09] mrscribbles: Hi gribs
+[04:06:40] gavalanche20: (6.Be2) Did not expect a KID at all ngl but opponent did have Modern games in their db so it makes sense
+[04:06:55] gavalanche20: (6.Be2) They at least used to play the Beefeater which is a very cool line I dabbled with once upon a time
+[04:10:28] gavalanche20: (8...Qe8) Stretching the limits of theory but I know f6 was the main move. Is Qe8 something I can punish with Nd5?
+[04:11:14] gavalanche20: (8...Qe8) For example Nd5 Na6 h3 Nh6 Qd2 where is the knight going
+[04:20:38] gavalanche20: (8...Qe8) Bd2 vs Bh4 wasn't sure but I like the idea of possibly h3 to trap the knight once I play Qc1
+[04:21:08] gavalanche20: (10.Bd2) Still need to figure out how to meet the Nc7 threat
+[04:23:41] gavalanche20: (10.Bd2) Does Nxe5 anything? Don't think so
+[04:35:52] gavalanche20: (11.Qc1) This position is a mess
+[04:39:09] gavalanche20: (13.Nf4) Re8 either f3 or castle
+[04:39:55] gavalanche20: (13.Nf4) Oh nvm I can't castle I thought I had Re8 0-0 Re4 f3 but d4 is loose
+[04:45:32] gavalanche20: (13.Nf4) Huh, interesting
+[04:45:47] gavalanche20: (14...f5) First instinct is Nf5 and maybe I don't win material but I like the idea of opening up Black's kingside
+[04:50:51] gavalanche20: (14...f5) The messy options don't feel good eniough for me
+[04:51:22] gavalanche20: (15.Bc3) Main calc was Nf5 gf5 fg4 Qe4 and 0-0 gives Black Qd4+ and Qb2
+[04:51:52] gavalanche20: (15.Bc3) So maybe instead I just defend, force Black to find a solution for the knight and then take on f5 which should damage the kingsi
+[05:01:16] gavalanche20: (15.Bc3) Gut instinct lets sack this pawn
+[05:07:21] gavalanche20: (16.O-O) Here's hoping Black can't actually hold on to this
+[05:07:52] gavalanche20: (18.Nd3) I think I underestimated 15...Nh6 just solves Blacks problems
+[05:32:59] gavalanche20: (18.Nd3) Damn Ne5
+[05:41:52] elitejanissary: Phew!
+[05:42:53] elitejanissary: I want to save time for a proper analysis so I won't look too deeply now, but 35...Ne5 was a crazy resource
