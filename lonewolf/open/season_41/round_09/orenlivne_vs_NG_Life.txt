@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/fbB5ZyoD
+White     : orenlivne
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-09-04 16:28:25 UTC
+Game ended : 2026-09-04 15:08:17 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[13:06:11] ng_life: I prepped until 6....g6 now many moves were possible, all equal. Included d4 which is equal.
+[13:15:04] ng_life: 9...bf5 I am thinking e5 might be possible soon?
+[13:32:04] ng_life: 15...Qg5 why do I always get crazy positions even when I play the boring variation?
+[13:39:56] ng_life: 16. Qf1 rxf7 is obviously not a threat yet becase I have xray on e3 I guess next move is Qf2 for him?
+[13:40:57] ng_life: so I have two moves to get counterplay or defend. One idea I see is cxd followed by f5 because if he takes en passant I have 3 defenders
+[13:41:58] ng_life: another idea which frankly might work not too bad is straight up sacking a piece with nxd5 dx bx I have a lot of play for the piece
+[13:43:14] ng_life: e.g. nxe5 dxe5 bxe5 rxf7 Qxe3+ king moves Qxc3 fork on bishop and rook
+[13:45:47] ng_life: dang, I'm really tempted to sack here. I should calc the alternative to sacking.
+[13:46:33] ng_life: cxd4 I guess exd4 f5... even if he doesn't take en passant I don't really like his huge center.
+[13:46:48] ng_life: okay, let's sack.
+[13:48:04] ng_life: 17. bxc5 okay well that worked out, I guess he got scared.
+[13:48:50] ng_life: I guess my options now are b6 or nd7?
+[13:52:23] mennonite: this looks pretty difficult for black
+[13:52:23] ng_life: 18. h4 Qg3 looks scary, but it gains a tempo on e3 so if he defends with e.g. Qf2 Qxf2 kxf2 bxc5 dxe5 bxe5 I broke open the center?
+[13:53:24] mennonite: dxe5 and no tempo on e3
+[13:54:25] mennonite: but Qxc3 is plausible
+[13:54:40] mennonite: in some lines
+[13:54:55] mennonite: but not this one
+[13:55:56] ng_life: 20. kh1 I should have him somehow, but it's dangerous.
+[13:56:11] mennonite: I admire the optimism
+[14:00:30] ng_life: e.g. Qxc3 bxd8 rxd8 dxe5 bxe5 I have three pawns for a rook but I have a threat on the a1 rook and if he rc1 Qg3 I'm threatening f4 rook
+[14:00:46] ng_life: and if the f4 rook moves it's mate on h2
+[14:01:31] ng_life: this sacks everything but I can't find his winning move soooo
+[14:02:32] ng_life: needless to say if no dxe5 I have no threat but I have two pawns for the exchange, should be good too
+[14:03:48] ng_life: actually in that line if he plays rd1 instead of rc1 that might be really good for him
+[14:07:21] ng_life: 21. rb1 the idea is after Qg3 he can plauy rb4 defending
+[14:07:52] ng_life: now I have three pawns for a piece, probably losing but with counterplay
+[14:08:38] ng_life: the time situation will make this difficult to hold
+[14:18:02] ng_life: (29) the critical time situation means I need to guess and not calculate, he should punish me for that soon.
+[14:20:49] ng_life: 31...Qd4 four pawns for a piece I will trade queens now if possible
+[14:30:13] ng_life: dang the time is so bad.
+[14:36:49] ng_life: (47) 2:40 is the most time I've had on my clock in 25 moves, unfortunately I lost two pawns but my king is hard to crack at least
+[14:43:10] ng_life: 54.... a4 is a massive decision, hopefully this isn't where I screw up the draw
+[14:45:27] ng_life: if 56. Qxa4 rxe2 rxe2 Qh5+ I pick up the piece and I'm just up a pawn
+[15:03:13] mennonite: holy cow the game is still going?
+[15:08:17] ng_life: @Mennonite I had four pawns for a piece but I couldn't do it while playing on increment
+[15:09:18] ng_life: So after I sacked everything with Qxc3 on move 20 it was equal
+[15:09:18] ng_life: the engine always says equal >_>
+[15:09:33] ng_life: because I get four pawns for the piece
+[15:09:33] ng_life: and it's a draw with the four pawns
+[15:09:49] ng_life: but with so little time I couldn't draw, gg @orenlivne
+[15:10:50] ng_life: I had to play f5 but I was scared in the four pawns for a piece endgame
