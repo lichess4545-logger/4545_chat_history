@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/07ppjCVD
+White     : rufusson_dufus
+Black     : switchoffengine
+Time      : 30+30
+Captured  : 2026-09-06 16:19:49 UTC
+Game ended : 2026-09-06 14:59:42 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[14:03:05] rufusson_dufus: not sure whether 5.d3 or 5.f4 is in my file here, will have to look it up later
+[14:05:07] rufusson_dufus: will definitely check 5....f5 afterwards, not sure what to play there either. I mean, looks alright and black shouldn't move the f pawn...
+[14:05:07] rufusson_dufus: ...anyways I guess
+[14:08:56] rufusson_dufus: my knight is going to e2 now if ever ...b4.
+[14:10:57] rufusson_dufus: 7....Qa5 maybe I just castle there, the DSB seems too much for black to give up
+[14:11:58] rufusson_dufus: ok big question: Does 8.e5 make sense?
+[14:13:30] rufusson_dufus: 8.e5 Ng4 h3 Nh6 g4 maybe?
+[14:13:30] rufusson_dufus: That actually looks pretty good.
+[14:14:31] rufusson_dufus: 8.e5 Nd5 Nxd5 Bxd5 0-0 doesn't look that great though. My plan should be f5, not e5, unless there are tactical reasons
+[14:15:47] rufusson_dufus: 8....Nc6 I'm definitely playing e5 though
+[14:17:18] rufusson_dufus: wait 9.e5 Nd5 Ne4! that looks interesting
+[14:17:49] rufusson_dufus: my alternative is the calmer 9.h3
+[14:20:36] rufusson_dufus: 10.Nxd5 also looked reasonable but nothing much. I'm lacking a bit of a plan here, but still I think it's around +0.2
+[14:23:39] rufusson_dufus: 12.Nh4 followed by f5 looks right, but is that too aggressive?
+[14:26:26] rufusson_dufus: My first instinct was 12.Nf2, but 12.Nxf6 followed by f5, how about that?
+[14:27:28] rufusson_dufus: opening went so-so, I definitely need to look up the plans and typical patterns here
+[14:31:01] rufusson_dufus: 15.Bf4 feels like it wins a pawn, e.g. Bf4 Ne5 Nxe5 Bxg2? Nxf7!!
+[14:31:31] rufusson_dufus: the alternative is 15.Bh6 Bg7 Bg5 or something like that, but that doesn't look nearly as good
+[14:32:32] rufusson_dufus: maybe the plan is 15....Qb6? But then I can go Ng5 or something like that, looks like a huge attack, and black's queen is misplaced
+[14:34:34] rufusson_dufus: oh, I didn't see 15....Nb6. Should've taken more time
+[14:36:20] rufusson_dufus: 16....Nd5 Bh6 Re8 fxg6 hxg6 Ng5 looks very reasonable for me
+[14:36:36] rufusson_dufus: actually no, there is Ne3 there, mmm
+[14:37:21] rufusson_dufus: 16....Nd5 Bh6 Re8 Rae1 then I guess
+[14:37:37] rufusson_dufus: (or fxg6 inserted before Rae1)
+[14:40:39] rufusson_dufus: 16....Ra7 looks funky but makes sense. 17.Bh6 Re8 and if I move my knight then Bxg2 Kxg2 and Re7 is an option
+[14:41:56] rufusson_dufus: now after Bh6 Re8 Rxe8 Qxe8 fxg6 fxg6 I might have discoveries all of a sudden against black's DSB
+[14:42:41] rufusson_dufus: 17....Nd5 would be great because then we're not swapping off LSBs and the rook on a7 looks silly
+[14:43:42] rufusson_dufus: candidates for move 18: Bh6, fxg6 Ng5
+[14:44:43] rufusson_dufus: 18.fxg6 first I don't need to rush
+[14:44:58] rufusson_dufus: 18.Ng5 Nxf4 Bxf6 Qxf6 I don't know, that trades LSBs
+[14:45:29] rufusson_dufus: 18....Bg7 is basically forced now, right?
+[14:47:00] rufusson_dufus: 18....Re8 I have at least Rxe8+ Qxe8 Re1
+[14:49:17] rufusson_dufus: 19.Bxg7 Kxg7 fxg6 fxg6? Ng5! looks tempting, after Rxf1 I can even consider Bxf1!
+[14:49:48] rufusson_dufus: so hxg6 is forced in that line. I can move-order it and play fxg6 first too
+[14:52:50] rufusson_dufus: 20.Nh4 would block my knight, 20.Ng5?? is not possible, mmm
+[14:53:21] rufusson_dufus: 20.Bg5 Nf6 might even be playable, but maybe I have something there?
+[14:53:51] rufusson_dufus: 20.Bg5 f6 Bh6 then. But is that so great? looks fairly stable at first sight
+[14:55:23] rufusson_dufus: this isn't much but my rooks are slightly better coordinated
+[14:56:39] rufusson_dufus: huh? No 22....Nf6 ? That doesn't look right
+[14:57:55] rufusson_dufus: queen and pawn for only rook and knight. I don't see the trick
+[14:59:11] rufusson_dufus: actually it's even worse, i have Bxd5 Bxd5 Qg5 forking bishop + rook
+[15:01:28] switchoffengine: blundered this Rxf7+, saw it immediately after i played Ba8 :(
+[15:01:58] rufusson_dufus: yeah it's tricky to see, I didn't plan it, just calculated Nf6 naturally
+[15:02:14] rufusson_dufus: and then only later saw that it's required
+[15:02:14] rufusson_dufus: (22....Nf6 that is)
+[15:03:14] switchoffengine: yea my initial plan was Nf6 but i didnt like the initiative white had after Qf4 for example
+[15:04:46] rufusson_dufus: yeah my eval was around +0.6 for 21....Nf6 22.Qf4 Bxg2 Kxg2 . Pleasant for white but black's queenside pawns are better and the rook on a7..
+[15:04:46] rufusson_dufus: ... makes sense
+[15:06:02] switchoffengine: i think i went wrong earlier in the opening to mid game
+[15:06:32] switchoffengine: 7. ..Nf6 probably inaccurate allowing this e5 structure
+[15:07:33] rufusson_dufus: You can play b4 earlier, then white needs to sort out the queenside before doing anything
+[15:07:48] switchoffengine: and 13. ..Qxf6 i was worried of f5 Qxf5 Ng5, but probably there is nothing just Qe7
+[15:07:48] rufusson_dufus: During the game I only saw a slight advantage for white, see my whispers above
+[15:07:48] switchoffengine: right
+[15:08:19] rufusson_dufus: yeah 13.Qxf6 looked problematic to me too
+[15:09:20] switchoffengine: 15 comp wants to sac the d6 pawn for black, haha no way im finding that
+[15:10:51] switchoffengine: i had my last chance to defend with 17. ..Bxf3, which was my initial plan
+[15:11:06] rufusson_dufus: yeah 15....b4!! is crazy
+[15:11:06] switchoffengine: but, 2 bishops for white, seems like a rough endgame to play
+[15:11:37] rufusson_dufus: 17.Bxf3 to  my human eyes looks like a one-way street position
+[15:11:37] rufusson_dufus: *17....Bxf3
+[15:12:07] switchoffengine: yea
+[15:12:22] switchoffengine: probably suffering for 40 more moves and losing anyways hahah
+[15:13:23] switchoffengine: gg! very well played, thanks for the game
+[15:13:23] switchoffengine: gl for the rest of your tourney
+[15:13:38] rufusson_dufus: gg have a nice weekend!
+[15:13:53] rufusson_dufus: and same to you, good luck in the final rounds
