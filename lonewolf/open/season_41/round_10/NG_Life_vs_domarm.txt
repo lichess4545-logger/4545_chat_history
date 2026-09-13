@@ -1,0 +1,27 @@
+Lichess game chat log
+Game      : https://lichess.org/iJ8hZkLG
+White     : ng_life
+Black     : domarm
+Time      : 30+30
+Captured  : 2026-09-13 22:39:44 UTC
+Game ended : 2026-09-13 21:19:36 UTC
+Messages  : 17
+────────────────────────────────────────────────────────────
+
+[19:36:31] ng_life: 6. e4 enters the Alekhine var, my opp has never faced this on Lichess at least.
+[19:36:46] ng_life: 7... bb4+ is the main move for black, but be7 should be fine too.
+[19:43:37] ng_life: 11. h3 one thing I noticed is after h3, the Queen's only available square is a5. Not quite trapped but...
+[19:44:23] ng_life: 12. ne2 now I'm threatening to actually trap it with ng3
+[19:48:27] ng_life: 13... c5 wondering if g4 is possible here
+[20:00:38] ng_life: 22. bxc5 not a fan of giving up the two bishops, but this gives him two isolated pawns which I do like.
+[20:46:05] ng_life: (45) funny thing I noticed in this position, if he plays ne6, I can play nd5 which threatens rook but also rc5#
+[20:56:14] ng_life: after the horrible ra7 misclick I think I lose if he plays kxb4 here
+[20:59:17] ng_life: hmmm I don't know if 48... h5 is winning...
+[21:01:03] ng_life: I might have a repetition here? I guess it's not easy to say for sure.
+[21:09:56] ng_life: (54) do I queen with check here?
+[21:11:43] ng_life: e.g. rxb5 kxb5 kf3 kb4 kxf4 kxb3 g4 a4 g5 a3 g6 a2 g7 a1=Q g8=Q+
+[21:11:43] ng_life: that looks good...
+[21:19:06] ng_life: well that was weird, if he played 60... kd6 HE queened with check. Doesn't he lose now?
+[21:20:07] ng_life: @domarm my notes are here if you want to analyze
+[21:20:22] ng_life: this was a very, very lucky win. I should have lost after the misclick.
+[21:44:57] ng_life: Actually the move I intended to play was still losing. Very poor play from me and a lucky escape when my opp got in time trouble.
