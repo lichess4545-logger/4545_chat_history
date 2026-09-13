@@ -1,0 +1,28 @@
+Lichess game chat log
+Game      : https://lichess.org/64hCH9a4
+White     : monocarp
+Black     : nick3319
+Time      : 30+30
+Captured  : 2026-09-13 12:26:54 UTC
+Game ended : 2026-09-13 11:06:44 UTC
+Messages  : 18
+────────────────────────────────────────────────────────────
+
+[10:52:31] monocarp: (14. O-O) just realised that my response of Nxd4, Nxd4, Qxd4, Bh7+ doesn't work, since Qxd4 comes with check
+[10:53:17] monocarp: (also, I didn't see blacks Bb6 at the end, which might still be a bit better for black)
+[10:54:18] monocarp: so now I lose both central pawns...
+[10:58:37] monocarp: (14.Nxd4) the amount of time I considered 15.Bh7+, 16.Qxd4 is much too much given I'd already noticed Bb6 in another line
+[11:00:38] monocarp: but the only sort of thing I see where I don't go down 2 pawns is 15.Re1, but there Nxf6, Qx, Qx, gx, Bxc3, bx looks very very bad
+[11:00:54] monocarp: as there white's bishop can sit on the diagonal, and my pawns are garbage
+[11:04:12] monocarp: blundered mate
+[11:04:27] monocarp: how does he do it?
+[11:06:44] monocarp: I feel like if my opponent hasn't played it quickly, then they won't see it. It's cope but it'll have to do
+[11:06:59] monocarp: wow... that was not played well by me
+[11:07:30] nick3319: literally didnt see it at first!!
+[11:08:15] nick3319: castles is just bad there I'm guessing
+[11:08:46] monocarp: yeah, I kinda missed a lot on the diagonal, I was assumed I was protected via Bh7+
+[11:10:32] nick3319: easy to miss that qx comes with check before you castle
+[11:11:02] monocarp: yeah, also that Bb6 can skewer the queen and king in some lines
+[11:13:04] nick3319: computer likes e5 but it feels pretty open to me given your development
+[11:14:20] nick3319: scratch that .. your best move by far
+[11:18:24] nick3319: scratch that - easily your best move.. just a bit tricky to play after it
