@@ -1,0 +1,37 @@
+Lichess game chat log
+Game      : https://lichess.org/iP8Mg8d2
+White     : tlucz
+Black     : switchoffengine
+Time      : 30+30
+Captured  : 2026-09-15 19:06:32 UTC
+Game ended : 2026-09-15 17:46:24 UTC
+Messages  : 27
+────────────────────────────────────────────────────────────
+
+[17:47:55] tlucz: Interesting game
+[17:48:11] switchoffengine: i dont know if this structure is good or bad for me
+[17:48:26] switchoffengine: probably bad :D
+[17:48:41] tlucz: I thought I was better with yours doubled isolated pawns
+[17:48:56] tlucz: but had no idea how to progress
+[17:49:12] switchoffengine: yea i think i shouldnt have tried to maintain the pawn on d4
+[17:49:42] switchoffengine: i was thinking, i didnt see a way for you to win it
+[17:49:57] tlucz: you allowed me to enter my Queen to the middle of the board, but there was so less time to calculate anything
+[17:50:58] tlucz: so I'm happy with the draw, but looking on the engine - there was a way to win
+[17:51:44] switchoffengine: yep i think the g5 Kg6 plan was too much
+[17:51:59] switchoffengine: u found a nice way to penetrate with Qd5
+[17:52:44] tlucz: thanks, see you next time
+[17:52:44] switchoffengine: probably u missed 36. .. Be7?
+[17:53:00] switchoffengine: just axb4 i had no counterplay, should be dead lost
+[17:54:46] tlucz: I was a little like in the panic mode :( because of time
+[17:55:01] switchoffengine: ah right, time is a factor i forget
+[17:56:02] tlucz: but even on axb4 you would play Be7 and I thought the position would be the same
+[17:56:48] switchoffengine: yea i think this structure is objectively bad
+[17:57:18] switchoffengine: right
+[17:57:33] switchoffengine: u had Qxe7 haha, i dont think i would play Be7
+[17:58:19] switchoffengine: my position is hanging by a thread, knight is super overloaded and everthing pinned
+[17:58:19] tlucz: yeah, hard to find such tactics with no time
+[17:58:19] switchoffengine: king in the worst position thanks to my genius idea :D
+[17:58:50] tlucz: need to go, thanks again
+[17:58:50] switchoffengine: but gg! was a very fun and interesting game, thanks
+[17:59:05] switchoffengine: nights )
+[17:59:20] tlucz: :)
