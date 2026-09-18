@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/HM8ttF5Q
+White     : sm236963
+Black     : wave2679
+Time      : 30+30
+Captured  : 2026-09-18 20:19:30 UTC
+Game ended : 2026-09-18 18:59:22 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[18:59:52] wave2679: I mixed up my lines
+[19:00:07] wave2679: Also never seen nb5 in that move order so that threw me off
+[19:00:07] wave2679: Good game
+[19:00:53] sm236963: Good game. I was expecting 1. ... e5 so you definitely did surprise me, but after Qd8 I was pretty happy yeah
+[19:01:23] wave2679: I just started learning the sicilian kan and honestly the move order you played because I've just started on the alapin lines
+[19:01:39] wave2679: I knew what moves to play but not when
+[19:01:54] wave2679: There's a line where I let you develop with tempo twice on my queen
+[19:02:24] wave2679: Bc3 qd6 nb5 then qd8
+[19:04:26] sm236963: I see. I also wasn't sure if Na3->Nb5 was correct in this move order but I realized I was spending too long on that turn
+[19:04:41] wave2679: I don't think I've ever played 1... c5 on lichess before
+[19:05:12] wave2679: What you played is solid
+[19:05:27] wave2679: Let me consult my course real quick
+[19:08:30] sm236963: The database seems to favor Na6 instead of Qd8 which makes sense, though Qd8 didn't look "wrong" to me during the game
+[19:08:30] wave2679: That's not actually a line in my course
+[19:08:45] wave2679: What you played
+[19:09:00] wave2679: Or maybe I just overlooked it
+[19:09:00] wave2679: It's by a GM so there's like 50 something alapin variations
+[19:09:30] wave2679: Oh nevermind
+[19:09:30] wave2679: I messed up my move order
+[19:09:46] sm236963: Maybe Qd8 before Be7?
+[19:10:31] wave2679: It's nc6
+[19:10:31] wave2679: On na3
+[19:10:31] wave2679: or takes
+[19:10:31] wave2679: Both are covered in my course
+[19:11:32] wave2679: But he doesn't cover c3 right away nearly at all
+[19:12:48] wave2679: Anyways
+[19:13:19] wave2679: I still created some dynamic chances, but you defended really well
+[19:14:20] wave2679: I'm more than happy with my final result though I went 4.5/7 in the rounds I did play
+[19:14:35] wave2679: (I joined late)
+[19:14:50] sm236963: Thank you. I was pretty worried about 21. ... Nxg3 22. hxg3 Bf6 and thought I'd messed up
+[19:16:21] wave2679: I thought nbd4 was a major innacuracy
+[19:17:07] wave2679: I did see the nxc3 tactic but honestly didn't think it was good for me
+[19:17:22] wave2679: on 16. kb2
+[19:17:53] sm236963: My engine is off so you may be right, but my logic with Nbd4 was that the d7 bishop isn't a very good piece and blocks the d file
+[19:17:53] wave2679: nxg3 didn't look good to me I didn't see a good way to dfend my h3 pawn
+[19:18:23] wave2679: In the game I thought it was a reasonable move
+[19:19:24] wave2679: Well the reason I didn't like it for you was that it allows nc7
+[19:19:24] wave2679: My pieces were pretty tangled
+[19:20:55] sm236963: Yeah I expected Nc7 but maybe didn't give it enough credit. At multiple points I just needed to make a move and not tank the clock
+[19:22:57] wave2679: I find I'm keeping ideas open too long often... rfd8 seems obvious to me in post game analysis.
+[19:23:27] wave2679: But of course with my engine on it's easier to see
+[19:24:43] sm236963: I decided to leave myself in the dark with this one since I'm worried the engine will make me forget what I was actually thinking haha
+[19:25:29] wave2679: Yeah in the game I misevaluated where the attack was, I thought the c file would have to open at some point... that never happened
+[19:26:45] sm236963: I was trying my best to monitor b6 yeah, though I'd also assumed black would inevitably play it at some point
+[19:27:00] wave2679: I didn't like you pushing past
+[19:27:31] sm236963: yeah that's what I was intending and thought the pawn would be ok on c6
+[19:28:32] wave2679: 16... nxc3 is borderline unfindable in a chaotic misplayed opening
+[19:28:47] wave2679: (For me)
+[19:29:32] sm236963: I have to get going, but thanks for the game and congrats on 4.5/7! Good luck in future seasons
+[19:29:48] wave2679: Okay thanks for the analysis
+[19:30:03] wave2679: Thanks for the game
