@@ -1,0 +1,42 @@
+Lichess game chat log
+Game      : https://lichess.org/2LmpxeQP
+White     : goldenretrieverchess
+Black     : upgoerfive
+Time      : 30+30
+Captured  : 2026-09-18 02:48:47 UTC
+Game ended : 2026-09-18 01:28:38 UTC
+Messages  : 32
+────────────────────────────────────────────────────────────
+
+[00:14:15] mrscribbles: (9.Nxc4) I feel like there should be some whacky tactics floating around here
+[00:14:15] goldenretrieverchess: Note for later - I was 95% sure theory is 9.Nxc4.  Bxc4 looks so much better but I believe it gave away a lot of whites advantage
+[00:14:15] mrscribbles: (9.Nxc4) tacky whactics
+[00:14:31] goldenretrieverchess: cant remember why though and just wasted 5min trying to figure it out...
+[00:14:46] mrscribbles: (9.Nxc4) so painfully relatably GRC
+[00:15:01] goldenretrieverchess: seems silly not to develop the bishop with a capture.  I should have looked deeper when doing my prep.
+[00:15:16] goldenretrieverchess: hey Dr Doodles!
+[00:15:31] mrscribbles: (9.Nxc4) lol heya
+[00:16:17] mrscribbles: (9.Nxc4) Gotta be castles here, right?
+[00:16:17] mrscribbles: (9...Nbd7) I've lost a lot of games by thinking I had a better move than castling
+[00:23:39] mrscribbles: (10...c5) I'm not sure I believe in white's strucure here, but we'll see
+[01:05:17] mrscribbles: (18.Qxb5) Doesn't Qxb5 save white's life?
+[01:05:17] mrscribbles: (18.Qxb5) yeah
+[01:09:05] mrscribbles: (19.Qc4) I'm not sure about this
+[01:09:51] mrscribbles: (19.Qc4) Also, I'm a dummy, black still won the piece lol. Chess is hard
+[01:09:51] mrscribbles: (19.Qc4) hi bncl
+[01:20:16] mrscribbles: (27.Bxc5) Checking in a few minutes later, what happened here?
+[01:20:31] mrscribbles: (27.Bxc5) ah, nasty pins. Chess is hard indeed
+[01:31:26] upgoerfive: you were still in prep by move 9?
+[01:31:26] upgoerfive: wasn't expecting f3
+[01:31:41] upgoerfive: or Ne5 for that matter
+[01:31:56] upgoerfive: but I also did not end up making time to prep for this game
+[01:32:27] upgoerfive: couple of moves in this where I felt like I was skating by despite ending up the piece
+[01:32:57] upgoerfive: failed to consider Nd6+ or Qb3
+[01:34:43] upgoerfive: not to mention the biggest calculation error of missing Ra6+
+[01:35:14] upgoerfive: was going to say I should have avoided the rook trade, then looking at it that means avoiding the queen trade
+[01:35:29] upgoerfive: which I think means don't play e5 and use that tempo to untangle somehow
+[01:35:44] upgoerfive: because otherwise the knight gets pinned
+[01:36:15] upgoerfive: or I suppose more correctly stated it gets pinned earlier
+[01:36:45] upgoerfive: thanks for watching and being here for my ramble scribbles
+[01:38:47] upgoerfive: hmmm well e5 not great but many bigger problems looks like
+[01:39:17] upgoerfive: Looks like the theme for me is to get my king out of the line of fire earlier
