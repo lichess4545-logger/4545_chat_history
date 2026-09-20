@@ -1,0 +1,14 @@
+Lichess game chat log
+Game      : https://lichess.org/iEA4ANSx
+White     : betolini
+Black     : thetchigorindefense
+Time      : 30+30
+Captured  : 2026-09-20 19:09:44 UTC
+Game ended : 2026-09-20 17:49:36 UTC
+Messages  : 4
+────────────────────────────────────────────────────────────
+
+[16:31:23] anbuoyant: hey
+[16:32:09] anbuoyant: is e5 a usual move in the najdorf?
+[17:53:39] thetchigorindefense: yes, it's sort of the point of going 5 ... a6, so that you can then go e5 without White having Bb5+ followed by the annoying Nf5
+[18:00:30] thetchigorindefense: The engine analysis says, surprisingly, that I was slightly better after Na5. I must have been too scared of your queenside pressure.
