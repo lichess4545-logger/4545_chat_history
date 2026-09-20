@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/td9HDijt
+White     : antazhi8
+Black     : chatakkuma
+Time      : 30+30
+Captured  : 2026-09-20 02:24:13 UTC
+Game ended : 2026-09-20 01:04:06 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[00:16:07] inter-temporal: (19...Bb7) interesting imbalances
+[00:33:38] grzybozbur: i don't know what black could have done, but i don't see how qc8 can stop these pawns
+[00:34:24] feet_barbie: Always rooting for the knights
+[00:36:26] grzybozbur: so i just push the pawns, can black do anything?
+[00:37:57] grzybozbur: i don't understand any of these moves
+[00:38:43] inter-temporal: (24.Rfd1) black apparently has space and activity
+[00:39:13] grzybozbur: black has two pawns that he will have to sac a piece for
+[00:39:13] grzybozbur: but and does nothing to stop them
+[00:39:28] inter-temporal: (24.Rfd1) blockades of some kind maybe
+[00:39:28] grzybozbur: but white refuses to advance the pawns for some reason
+[00:39:59] inter-temporal: (24...Bd8) that stops the advance for a move.
+[00:40:45] grzybozbur: well, white clearly doesn't want to advance the pawns
+[00:43:17] inter-temporal: (25.Qc4) seems to indicate some desire to push them?
+[00:44:33] grzybozbur: 23.b5 looked perfectly fine, why is this queen travelling all over?
+[00:45:34] inter-temporal: (25.Qc4) i thought a5 was attacked too many times for b5
+[00:46:20] grzybozbur: it was only attacked by ra8, black queen conveniently went away
+[00:50:38] inter-temporal: (27...Rfa7) ah. back another move. i see
+[01:03:35] inter-temporal: (33...Bxf6) oh?
+[01:03:35] inter-temporal: oops
+[01:03:50] inter-temporal: gg
+[01:03:50] chatakkuma: that was lucky
+[01:04:06] chatakkuma: still not over tho
+[01:04:21] chatakkuma: 33.fxg4 would be better
+[01:04:51] inter-temporal: time pressure hurts
+[01:04:51] chatakkuma: g6-f5 was too slow
+[01:04:51] chatakkuma: I had to appreciate those pawns
+[01:05:22] chatakkuma: maybe Bxd5 and Qb8 and some moment
+[01:05:37] inter-temporal: strange imbalance, with the passers
+[01:06:53] inter-temporal: 2...Bd8 seemed good, but still tough
+[01:07:08] inter-temporal: [24...Bd8]
+[01:08:39] grzybozbur: so sf shows -0.8 at the end, what does it mean?
+[01:10:41] grzybozbur: now it's down to 0.6, so maybe not winning?
+[01:14:14] grzybozbur: ok, should have looked at the line it shows
