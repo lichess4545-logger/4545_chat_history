@@ -1,0 +1,240 @@
+Lichess game chat log
+Game      : https://lichess.org/X3xOCiZJ
+White     : rcstinson
+Black     : tranzoo
+Time      : 45+45
+Captured  : 2026-09-21 20:10:30 UTC
+Game ended : 2026-09-21 18:50:22 UTC
+Messages  : 230
+────────────────────────────────────────────────────────────
+
+[17:00:41] kayrosas: the almost first game of s50, lets go
+[17:02:43] hthree: Let's go Tranzoo!
+[17:03:14] jfiras: Good luck Tranzoo !
+[17:03:29] schittering06: Let's goo season 50, also welcome to the league rcstinson :)
+[17:07:33] paulwithans: Go Tranzoo!!
+[17:09:04] angborxley: go rcstinson!
+[17:14:39] qrs: Go Russell!
+[17:15:09] namegoesinhere: (9...Nf5) I think g4 should be a move in this position
+[17:15:09] namegoesinhere: (9...Nf5) could get a bit spicy
+[17:15:25] hthree: was just wondering about g4 myself
+[17:15:40] qrs: Good prediction!
+[17:15:40] tactix47: Fun incoming
+[17:15:55] qrs: I was just thinking, white doesn’t have a lot of other attractive moves
+[17:16:10] hthree: true
+[17:16:26] namegoesinhere: (10.g4) this is a disadvantage of having ...Bd7 included instead of ...Be7, since now there's no ...Nh4
+[17:17:26] namegoesinhere: (10...Nfe7) should still be perfectly ok for both sides, probably still theory
+[17:17:26] hthree: (10...Nfe7) how about h4 now
+[17:21:00] hthree: (11...Ng6) if white would have played h4 previously the could play h5 now
+[17:22:00] namegoesinhere: (12.Na4) h4 would've probably been met with ...h5 though, which has the additional benefit of carving out the f5 square
+[17:23:01] namegoesinhere: (12...Qd8) ....h5 less effective now since you already put the knight on g6
+[17:23:01] hthree: good point I guess that's why I play exchange french these days
+[17:23:17] glbert: go tranzoo!
+[17:23:32] namegoesinhere: (12...Qd8) and inviting g5 does make it harder to go ...f6 later
+[17:24:48] hthree: (13.Nc5) how about b6
+[17:25:34] tranzoo: so like I shouldnt give up that bishop
+[17:26:04] tranzoo: but on the other hand whichever way they recapture I see some like, comp I guess.
+[17:28:06] tranzoo: ok that I thought I dont mind that much
+[17:28:06] tranzoo: cause of all my pawns on light squares
+[17:28:21] tranzoo: the french instinct
+[17:28:36] tranzoo: though of course a and b pawn are not on light squares
+[17:29:22] namegoesinhere: (14...Qxd7) makes sense to trade off the LSB I guess
+[17:29:37] namegoesinhere: (14...Qxd7) although I do worry about that Nc6 now it's not protected by the b-pawn
+[17:31:39] hthree: (14...Qxd7) Rc1 now feels natural to me
+[17:32:40] hthree: is there a threat of Bb5 Rc8 Qc2 now?
+[17:32:55] tactix47: Or Qa4, yes.
+[17:34:42] namegoesinhere: (15.Rc1) I suppose black can find enough defenders with Rc8 + Nge7 but then the DSB is rather stuck
+[17:34:42] hthree: (15.Rc1) so a6 now?
+[17:35:12] namegoesinhere: (15.Rc1) a6 might run into Qa4 tying down the rook
+[17:35:58] namegoesinhere: (15.Rc1) oh maybe a6 Qa4 Ncxe5, does that work?
+[17:36:13] tranzoo: not a fan of this
+[17:36:13] tranzoo: but I disliked everything else even more
+[17:36:44] namegoesinhere: (15...Nge7) now Bb5 seems like the way to go
+[17:38:00] tranzoo: hmm maybe a6 was better
+[17:39:47] hthree: (16.Nd2) where is this Knight going?
+[17:40:33] namegoesinhere: (16...a6) not entirely clear
+[17:40:48] namegoesinhere: (16...a6) maybe just getting out the way of f4 and then white will play for f5?
+[17:40:48] tranzoo: feels like I am overreacting to everything
+[17:45:37] hthree: (17...b5) now Nd2 makes sense o.o
+[17:45:52] tranzoo: this kinda feels lke opposite castling game where nobody castled
+[17:48:40] namegoesinhere: (18...Nc8) I like Nc8, get the knight around to c4
+[17:48:55] hthree: thumbs up
+[17:50:11] hthree: (19.Nc5) Bxc5 feels necessary
+[17:50:57] namegoesinhere: (19...Bxc5) I'm not sure if you want Bxc5 since it cuts off the c8 knights access to b6-c4
+[17:51:12] gavalanche20: (19...Bxc5) Yeah I was about to say
+[17:51:12] hthree: yeah I just realised that
+[17:51:12] hthree: aswell
+[17:51:43] tranzoo: was expecting a rook take
+[17:51:58] hthree: but I didn't see alternative to Bxc5
+[17:51:58] gavalanche20: (19...Bxc5) Hm so how do you make anything of the knight now, maybe Ne7 and then h5 to try to fight for f5?
+[17:52:13] bufferunderrun: Idk if I like this French for Tranzoo
+[17:52:28] hthree: I do not
+[17:53:14] tranzoo: maybe we will castle after all
+[17:53:14] namegoesinhere: (20...N8e7) I though ...Qa7 instead of ...Bxc5 but obviously it's not ideal to let white keep the knight on c5
+[17:53:14] bufferunderrun: it's normal to play c4 on a3
+[17:54:00] hthree: Qa7 Nxe6
+[17:54:15] peterpanzer: (pure vibes) saccing d4 and Nd5 would be a cool idea if it works
+[17:54:30] tranzoo: I am thinking about which way of castling is more insane
+[17:54:30] tranzoo: they booth seem kinda insane
+[17:55:01] namegoesinhere: (21.h5) ah right, so I guess the only alternative was ...Qe7 which looks very ugly
+[17:56:47] hthree: I think Tranzoo shouldn't castle at the moment. King feels safest in the center atm
+[17:57:33] hthree: (21... h6) ugh Black pieces so bad
+[17:57:48] namegoesinhere: (21...h6) yeah, white's only way to open the centre is f4-f5 which takes time to arrange whereas after 0-0 there is likely some g5 ideas
+[17:59:35] bufferunderrun: we yolo it with a5, øet's go!
+[18:00:20] tactix47: I don't hate the ...a5 idea
+[18:01:21] hthree: I feel like if the position opens up White will benefit with more active pieces and easier to connect rooks
+[18:01:36] hthree: even Rh3
+[18:11:15] computability: How would you open the position as white?
+[18:12:01] hthree: f4 f5
+[18:12:01] goldenretrieverchess: Go Tranzoo!
+[18:12:31] gavalanche20: (20.dxc5) You'll probably want f4 anyway because judging by Black's setup they're going for d4-Nd5-Nf4
+[18:14:03] tranzoo: I dont think I am castling today
+[18:14:18] tactix47: (24...g6) This looks spicy
+[18:14:18] hthree: wow can Black play Kd7 soon to connect rooks
+[18:15:19] hthree: I think white shouldn't take g6 as it would only help Black get their pieces out with Nxg6
+[18:18:21] hthree: is this a pawn sacrifice?!
+[18:18:21] m0r1: Tranzoo, show us the advantage of the horsey pair!!
+[18:18:37] tranzoo: maybe trying to trick me to play Nxe5?
+[18:19:07] tranzoo: hmmm I dont think I can get away with it
+[18:20:39] hthree: Nxe5 Qf4 N7c6 Rfe1 and Black loses material I guess
+[18:24:42] hthree: (26. Qf6) are there alternatives to Rg8?
+[18:25:13] bufferunderrun: 26...Rg8, let's go!
+[18:25:13] gavalanche20: (24.O-O) Hot take Kd7
+[18:25:43] gavalanche20: (26.Qf6) I think Qf7 leads to Rd8-f8-g8 perp? So if White wants to play they don't take the pawn and Black got the rooks connected?
+[18:26:44] hthree: at what move are you talking
+[18:26:59] gavalanche20: (26...Rg8) At 26 haha
+[18:28:00] hthree: 26...Kd7 27.Qxf7 Rdf8 28.Qxh5
+[18:28:46] gavalanche20: (26...Rg8) Heh never mind
+[18:30:49] hthree: Kd7 lets go
+[18:31:04] hthree: love this move
+[18:31:35] gavalanche20: (27...hxg4) Yes it is a nice move now that it doesn't hang anything
+[18:31:50] bjfletcher: a rather brave king, barely a square from not one but two opponent pawns!
+[18:32:05] gavalanche20: (28...Kd7) And is it too early now to say who's attacking who?
+[18:32:51] hthree: well Black feels most active since move 6 or sth
+[18:33:06] namegoesinhere: (29.Qf6) I don't think you can say white is attacking any more really
+[18:33:21] hthree: But still Queen on c7 and Knight on c6 dont get active easily ig
+[18:33:52] hthree: and if Black is stuck defending f7 they might not have much pieces to conjure up an attack of their own
+[18:34:53] namegoesinhere: (29...Rdf8) you can probably sac f7 eventually
+[18:34:53] hthree: (29...Rdf8) maybe Black can untangle with Rg6 Nf5
+[18:36:09] bufferunderrun: tranzoo is spidering the web
+[18:36:24] hthree: queen almost trapped o.o
+[18:36:39] computability: White's e pawn is hanging now.  Black has Nxe5
+[18:36:54] hthree: wow gavalanche was right about who is attacking who
+[18:38:10] tranzoo: for a sec I thought I had  queen trap
+[18:38:26] tranzoo: but h6 is protected
+[18:38:41] namegoesinhere: (31...Nf5) with the bishop on c1 instead of b2 there's ...Nd4-f3 to worry about now
+[18:38:41] tranzoo: and I guess I dont have it either way
+[18:38:56] bufferunderrun: doesn't matter since Qh2 Rh6 Qf4
+[18:39:11] hthree: Qh5 feels off like looking for trouble
+[18:39:11] tactix47: (32) After the white Q moves...Qd8 and  ...Rh8
+[18:39:27] bufferunderrun: yeah, Qh2 seemed safer
+[18:39:57] bufferunderrun: now Nxe5 might work
+[18:40:12] bufferunderrun: like 32...Nxe5 Bf4 Nf3+
+[18:40:43] hthree: both Nxe5 and Qd8/Qb8 look interesting to me
+[18:41:13] gavalanche20: (28...Kd7) Qb8 looked really nice
+[18:41:13] hthree: (32...Ncd4) Ncd4 completely unexpected move
+[18:41:28] bufferunderrun: threatening Nf3+ here
+[18:41:59] namegoesinhere: (32...Ncd4) Ncd4 makes sense, similar to Nxe5 but you have to calculate less because no Bf4
+[18:42:45] hthree: what a turnaround it looked to me Black was deadlost after the opening loosing time with Bd7 and Qb6, no space, no activity, about to get
+[18:42:45] hthree: overrun on the kingside
+[18:43:15] hthree: and now so active with threats against e5, Queen, King
+[18:43:30] gavalanche20: (32...Ncd4) Yeah that's the thing about the French
+[18:43:46] hthree: I guess White underestimated Black's counterplay
+[18:44:01] tranzoo: feels like both queens are in siberia a little bit
+[18:44:16] gavalanche20: (32...Ncd4) If Black manages to open the position in their favor it's quite impressive how quickly an attack can brew
+[18:44:31] hthree: 33.Rd1 looks like panic move to me
+[18:44:47] computability: Now there's Qxe5 no?
+[18:44:47] hthree: hanging e5 and Ne2+
+[18:44:47] m0r1: Yes, black’s queen isn’t in Siberia any longer
+[18:45:17] tranzoo: I am just gonna hope this doesnt somehow lose tactically
+[18:45:17] gavalanche20: (33.Rd1) Maybe White was hoping if the knight moves there was Bd5 and Qf5
+[18:45:32] bufferunderrun: Idk if Qxe5 was necessary
+[18:45:47] gavalanche20: (34.Rfe1) Re1 does Nf3 work?
+[18:45:47] bufferunderrun: just Qd8 with Rh8 threat looked better to me
+[18:45:47] namegoesinhere: (34.Rfe1) yeah, I think you can just put the queen on the back rank and play Rh8
+[18:46:03] namegoesinhere: (34.Rfe1) Nf3+ should still work since gxf3 is a discovery
+[18:46:18] m0r1: But doesn’t that lose a rook for black?
+[18:46:48] namegoesinhere: (34.Rfe1) oh Qxg6 after gxf3?
+[18:46:48] m0r1: Yes
+[18:47:04] tranzoo: I think Ne2 works
+[18:47:19] computability: There's Nf3+ 35. Bxf3 Qg3+ and then Ng3+ for a fork after whichever king move
+[18:47:19] tranzoo: I think tactics work out in my favour there
+[18:47:19] tactix47: (34...Qf6) threatens Rh8 trapping the queen, while preserving the Nf3+
+[18:47:19] gavalanche20: (34.Rfe1) Oh it still wins because you take on e1 with check but probably made it too messy true
+[18:47:19] namegoesinhere: (34.Rfe1) black can play Qxe1 to save the material but it seems suboptimal
+[18:47:34] bufferunderrun: Qg7 looks alright, I guess
+[18:47:49] gavalanche20: (34.Rfe1) Qf6/g7 is always a safe option I suppose
+[18:48:05] acebulf: I think Qf6 is the most obvious
+[18:48:05] hthree: Qg7 looks great to me with Rh8 and Nf3+ ideas
+[18:48:05] qrs: (34 Re1) doesn’t look clear to me after Nf3 Bxf3 gxf3 Kf1
+[18:48:05] acebulf: !!!
+[18:48:20] gavalanche20: (34.Rfe1) I like Qf6 just to make absolutely sure Bd5 Qf5 tactics don't work
+[18:48:35] tactix47: Straight for the throat - does it work?
+[18:48:35] bufferunderrun: yeah, but Kf1 hmmm
+[18:48:50] tranzoo: wait what
+[18:48:50] gavalanche20: (34...Ne2+) what the
+[18:48:50] bufferunderrun: what?
+[18:48:50] glbert: what?
+[18:48:50] acebulf: wat
+[18:48:50] tactix47: omg
+[18:48:50] tranzoo: omg
+[18:48:50] bufferunderrun: premoved oh no
+[18:48:50] glbert: what the hell happened there.
+[18:48:50] hthree: noooo
+[18:49:05] acebulf: oof
+[18:49:05] tranzoo: that was a brain misckclick
+[18:49:05] acebulf: :(
+[18:49:05] tranzoo: lol
+[18:49:05] tranzoo: oh my lord
+[18:49:05] paulwithans: oh no
+[18:49:05] qrs: What?!
+[18:49:21] bjfletcher: adrenaline-click?
+[18:49:21] tranzoo: I think they are just confused
+[18:49:21] qrs: This tactic clearly didn’t work
+[18:49:36] tranzoo: but yeah I was so ready to put that tactic on board I forgot about this even though i saw this
+[18:49:36] tranzoo: thats tragic
+[18:49:51] gavalanche20: (35...Ng3) Did Tranzoo think that White played Kf1/h1
+[18:49:51] glbert: tragic indeed.
+[18:50:06] m0r1: Such a great attack
+[18:50:06] tranzoo: I cant believe I have just done that
+[18:50:22] bufferunderrun: neither do we
+[18:50:22] bufferunderrun: gg
+[18:50:22] tactix47: ggs
+[18:50:37] tranzoo: well thats one way to kick off the season
+[18:50:37] qrs: GG
+[18:50:37] paulwithans: gg unlucky Tranzoo
+[18:50:37] bjfletcher: ggs thank you, cool game
+[18:50:52] glbert: good game.
+[18:50:52] m0r1: gg, things happen.
+[18:51:38] tranzoo: that is really something
+[18:51:38] tranzoo: I need to go the doctor
+[18:52:08] bjfletcher: Ah, I think Tranzoo planned Ng3 if white Kf1?
+[18:52:23] tranzoo: yeah I was winning the queen
+[18:52:39] tranzoo: if that happened
+[18:52:39] bjfletcher: Nice tactic you (almost) found
+[18:52:54] tranzoo: well I did find it
+[18:52:54] tranzoo: I just...
+[18:53:09] bjfletcher: <grin> great start to the season... thank you again!
+[18:53:09] tranzoo: I have move confirmation on too and everything
+[18:53:09] tranzoo: horrible
+[18:53:55] hthree: happens in the heat of the moment =(
+[18:54:55] tranzoo: kinda hillarous to do that though after I proclaim: "tactics work out in my favour"
+[18:55:56] tranzoo: well ok that was nice game, everybody leave now.
+[18:55:56] tranzoo: nothing to see
+[18:56:57] glbert: well, you were right about that.
+[18:57:12] glbert: about tactics working out in your favour i mean.
+[18:57:58] tranzoo: yeah I was so happy to see the winning sequence
+[18:58:13] tranzoo: too happy probably
+[18:58:13] glbert: way too happy.
+[18:58:29] tranzoo: like I literally saw they had to take
+[18:58:29] tranzoo: and then I win and exchange and the game
+[18:58:44] tranzoo: total blackout
+[18:59:29] tranzoo: I heard that people who like need to save their life and swim a long distance often drown just at the last second because they
+[18:59:45] tranzoo: lose the concentration as the shore is very close
+[18:59:45] tranzoo: this feels like that
+[19:00:15] tranzoo: well anyway, thanks again to my opponent for a fun game and I am gonna go hide somewhere
+[19:00:30] tranzoo: silve lining: Daniel King didnt see this
+[19:01:01] glbert: :D
+[19:01:16] glbert: maybe it can be shown to him before the actual stream starts.
+[19:01:31] glbert: like a guess the move puzzle starting from move 34...Ne2+ or so.
+[19:02:47] tranzoo: no it cant way too many games already for him to take care of
