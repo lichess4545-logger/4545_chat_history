@@ -1,0 +1,374 @@
+Lichess game chat log
+Game      : https://lichess.org/B5yNOz1w
+White     : petro2
+Black     : tommeketoch
+Time      : 45+45
+Captured  : 2026-09-21 22:44:44 UTC
+Game ended : 2026-09-21 21:24:36 UTC
+Messages  : 364
+────────────────────────────────────────────────────────────
+
+[18:09:35] glbert: go tommeketoch!
+[18:12:23] bufferunderrun: don't go, stay!
+[18:12:38] bpack: Go Tom!
+[18:13:55] bpack: wacky position
+[18:14:25] bpack: (9)
+[18:16:42] bpack: this is theory eh
+[18:18:14] bufferunderrun: I assume so
+[18:21:32] inter-temporal: (14.Bc4) go tom!
+[18:26:07] guitarspider: (14...Qd7) should be theory, tom's been playing this line for a while and it often quite forced iirc
+[18:27:54] grzybozbur: this looked great for black, until i counted the pawns
+[18:31:43] aloo_bhaloo: (14...Qd7) Very marshall attack vibes, black's side looks more pleasant
+[18:32:13] bpack: Slightly better piece placement and i'd be happy with the lead in development
+[18:33:29] grzybozbur: i understand there's compensation, it's just that for two minutes i thought material is equal
+[18:34:46] semlegesnev: I'm fine w/ white's position, although d3 is much needed here. Then again, I am on white's team
+[18:44:09] oachkatzerlschwoaf: Go Tom Go
+[18:48:28] pineapplechiffoncake: good luck both of you! Welcome to 4545 Petro!
+[19:16:38] highonpotnuse: go tom! show us what total tomination looks like
+[19:27:33] blueside617: lets go petro, nice pawn
+[19:45:20] feet_barbie: (20.Nc2) go tomm
+[19:48:23] alp_arslan92: (20...a5) Nice minority attack!
+[19:48:38] alp_arslan92: (20...a5) Position is not at all easy for White, I'd rather play this as Black I think
+[19:54:28] grzybozbur: it's a pawn
+[19:56:00] grzybozbur: white can't be worse i think, at worst they will lose the extra pawn and should be ok
+[20:04:53] semlegesnev: as white I'd be happy trading off black's bishop pair and still keep the pawn
+[20:05:54] zal667: Time pressure scramble incoming
+[20:06:55] zal667: (25) Will he exchange Q for 2 R
+[20:07:10] grzybozbur: black is getting outplayed here
+[20:07:10] semlegesnev: taking the rook would be a fun line
+[20:07:25] feet_barbie: (26...cxd4) i think it d be bad
+[20:07:41] semlegesnev: all I said was fun, not good
+[20:07:56] grzybozbur: the extra pawn stays and white gets a passer
+[20:07:56] feet_barbie: (26...cxd4) ahah then i agree but maybe not too fun either
+[20:08:11] feet_barbie: (26...cxd4) b4 and chill yeah
+[20:08:26] alp_arslan92: (27.b4) 25...Bf5 felt off...
+[20:08:42] alp_arslan92: (27...axb4) Maybe 25...Rb8 was the way to go.
+[20:09:27] feet_barbie: (28...Rb8) time for a 60 moves grind
+[20:09:43] grzybozbur: this is a free tempo after rxe8
+[20:09:43] computability: Rxe8+ Rxe8 Rc1
+[20:09:58] computability: Yeah spend the tempo to get the rook to c4
+[20:10:13] grzybozbur: why c1?
+[20:10:13] grzybozbur: the pawn is on b file
+[20:10:13] feet_barbie: (30.Rb1) yeah somehow tom not considering the trade rn
+[20:10:43] computability: Rc4 defends the pawn and threatens to take on d4
+[20:10:59] computability: which creates a second passed pawn
+[20:11:14] grzybozbur: bf1 not great though, maybe black can hold
+[20:11:29] grzybozbur: you don't want to put the rook on c4
+[20:11:44] grzybozbur: you want your pieces to be active
+[20:12:15] alp_arslan92: (31...Rb6) I wonder if the bishop endgame is winning...
+[20:12:30] alp_arslan92: (31...Rb6) 32.Rb4 Bd7 33.Rxd4 Bxb5 34.Rb4 Rb7 35.d4 Bc6 36.Rxb7 Bxb7
+[20:13:16] semlegesnev: actually, Rc4 has the same idea as this line with b5 and Rb5, with Rd8 forced, so I think it would've been the same
+[20:13:31] alp_arslan92: (32.Rb4) I think it's a draw
+[20:15:18] semlegesnev: Rxd4 Bxb5 Rb4
+[20:15:48] computability: d4
+[20:16:49] computability: Bc6?
+[20:18:05] guitarspider: (36...Bxb7) the black pawns being on white squares doesn't help
+[20:18:35] alp_arslan92: (36...Bxb7) Well, they're not stuck on white squares
+[20:18:35] alp_arslan92: (36...Bxb7) Black can play g5, f6, h6, put a king on d6
+[20:18:51] alp_arslan92: (36...Bxb7) That feels like a draw tbh
+[20:19:21] feet_barbie: (36...Bxb7) i havent gotten to this chapter yet
+[20:19:36] alp_arslan92: (36...Bxb7) Let's not forget White also has the wrong edge pawn ;)
+[20:20:07] micomps: I don't think Tom is losing this
+[20:20:07] feet_barbie: (37.f4) how do u win its hard to win 2 vs 0 even xd
+[20:20:37] guitarspider: (37.f4) It's possible it's drawn, but there might be Zugzwang, especially if the pawn chain remains vulnerable
+[20:20:37] feet_barbie: (37.f4) i would lose this while svidler is watching
+[20:20:53] guitarspider: (37.f4) I think I would have started with Bc4 for that reason
+[20:20:53] grzybozbur: just shuffle a bit, people blunder all the time
+[20:21:23] alp_arslan92: (37...Kg7) Yeah, f6 now, prepare g5, trading off pawns can only help Black
+[20:21:23] bufferunderrun: Svidler is always watching
+[20:21:23] zal667: Especially that they have to be quite exhausted
+[20:21:38] bufferunderrun: sounds like a team name for team 53.
+[20:22:24] micomps: Agree spider, I liked Bc4 first
+[20:22:24] alp_arslan92: (38...Kf6) I don't get Kf6 tbh
+[20:22:24] guitarspider: (38...Kf6) Bd5 could have made it more annoying to convert I think
+[20:23:10] grzybozbur: be2 can't be the move
+[20:23:25] guitarspider: (39.Be2) It's odd. Is the idea Bf3?
+[20:23:40] bufferunderrun: I'm guessing it is
+[20:24:11] grzybozbur: but that's suspiciously slow
+[20:24:56] guitarspider: (39...Kf5) yeah, I'm not sure I understand
+[20:25:11] alp_arslan92: (39...Kf5) Bf3 maybe?
+[20:25:27] bufferunderrun: sure
+[20:25:27] alp_arslan92: (39...Kf5) Ah, guitar wrote already
+[20:25:57] grzybozbur: this seems complicated
+[20:26:28] semlegesnev: Ke3 g4
+[20:26:28] alp_arslan92: (40.Bf3) Ke3 surely Black plays h5 though
+[20:27:44] guitarspider: (41.Ke3) problem is h5 puts another pawn on a light square
+[20:27:44] micomps: h5 is met with h3 maybe?
+[20:27:59] guitarspider: (41...h5) ya
+[20:27:59] alp_arslan92: (41...h5) h3 then h4 I suppose
+[20:27:59] semlegesnev: A fortress could be built for white pawns with h4 and g3, and repositioning the King to the d pawn maybe?
+[20:27:59] alp_arslan92: (41...h5) freeze White's kingside
+[20:28:14] alp_arslan92: (41...h5) I think white should try g3 and then d4-d5 and Kd4
+[20:28:14] alp_arslan92: (41...h5) run towards c5
+[20:28:29] guitarspider: (41...h5) yeah, agree
+[20:28:29] bufferunderrun: Bd5?
+[20:28:45] guitarspider: (41...h5) g3 here then d5, black king is boxed in and white has a clear path
+[20:29:00] alp_arslan92: (41...h5) Yeah
+[20:29:15] semlegesnev: g3 h4?
+[20:29:15] alp_arslan92: (41...h5) 42.Bd5 f6 43.Bf7 h4 followed by g5 looks like progress for Black
+[20:29:45] grzybozbur: as white you want those pawns to stay on the board
+[20:29:45] grzybozbur: i'd go h4 to fix them in place
+[20:30:01] micomps: H8 being a dark square could be important later
+[20:30:01] grzybozbur: the king can't stay on f5
+[20:30:16] alp_arslan92: (41...h5) for sure @Micomps
+[20:30:31] feet_barbie: (41...h5) so this is winning for white mmh
+[20:30:31] semlegesnev: Bd5 f6 Be4+
+[20:30:46] alp_arslan92: (41...h5) I wonder if 42.d5 is a move right away
+[20:31:02] grzybozbur: pawns on g3/h4, then d4 is ready to march forward
+[20:31:02] feet_barbie: (41...h5) yeah i think so
+[20:31:17] karasso: I like h3
+[20:31:17] micomps: Bd5 got to play Kf6 right?
+[20:31:17] alp_arslan92: (42.h3) Ah wait
+[20:31:17] feet_barbie: (42.h3) then kd4 and threaten both pushing the pawn and going to f6 eventually
+[20:31:17] alp_arslan92: (42.h3) Bg4+
+[20:31:17] computability: Why h3 and not g4?
+[20:31:17] alp_arslan92: (42.h3) no h5-h4
+[20:31:47] alp_arslan92: (42...Ba6) I already thought back in move 40 why Black plays Bc8
+[20:31:47] alp_arslan92: (42...Ba6) yikes
+[20:31:47] computability: Why voluntarily put a pawn on a light square
+[20:31:47] karasso: Black should go Kf6 now
+[20:32:03] karasso: Ba6 probably also fine
+[20:32:48] alp_arslan92: (42...Ba6) I still like d5
+[20:33:03] alp_arslan92: (42...Ba6) 43.d5 h4 44.Bg4+ Kf6 45.Kd4
+[20:33:03] alp_arslan92: (42...Ba6) That feels winning
+[20:33:19] micomps: @alp, I see no drawback to d5
+[20:33:19] guitarspider: (42...Ba6) it's certainly hard to defend
+[20:33:34] micomps: @alp_arslan92, even
+[20:33:49] alp_arslan92: (43.d5) haha, just alp is fine :D
+[20:33:49] grzybozbur: with pawns on g3/h4 all the kingside is safe and black can't go f6-g5 because h5 would hang
+[20:34:04] grzybozbur: so the white king is free to roam
+[20:34:04] micomps: Tagging randoms over here...this is looking hard for black now
+[20:34:20] micomps: Got to drop the king back now
+[20:34:20] feet_barbie: (43.d5) @tomme needs some tricks or smth
+[20:34:35] alp_arslan92: (43.d5) g4+ followed by Kd4 is also on the horizon
+[20:34:50] guitarspider: (43.d5) hard to think of any tricks currently
+[20:35:05] feet_barbie: (43.d5) yeah then its just a slow winning game
+[20:35:51] computability: g4 or ke4?
+[20:35:51] micomps: Drop the king to f6/e7/d6, maybe Bf1 somewhere?
+[20:36:06] micomps: Oh wait, didn't see the moves when I sent that!
+[20:36:21] alp_arslan92: (44...Kxg5) Black's best chance is White's time :D
+[20:36:52] alp_arslan92: (45.Ke4) If he can play h4, Kf5-Ke6 all in one move, maybe that works. But as things stand, this should be a clean technical loss
+[20:36:52] micomps: (45.Ke4) I don't like the black pawns being separated
+[20:37:07] guitarspider: (45.Ke4) must be lost now
+[20:37:53] feet_barbie: (45.Ke4) the only question is since when was it lost then
+[20:39:09] acebulf: Ke5 followed by shoving the bishop on g4 to prevent capture of pawn?
+[20:39:24] micomps: (45...h4) Bg4 now maybe Bf1 and try to swindle?
+[20:39:24] micomps: Ah, King up, solid
+[20:39:55] semlegesnev: King marches to c7, trades pawn for B and wins the endgame
+[20:39:55] guitarspider: (46...Bc8) d6 Bc6 gg
+[20:40:25] guitarspider: (46...Bc8) wait Bd7 :D
+[20:40:25] acebulf: Bg4
+[20:40:40] guitarspider: (47.d6) I am making too many moves unopposed
+[20:40:40] semlegesnev: Bg4 f5
+[20:41:11] feet_barbie: (47.d6) yeah
+[20:41:11] acebulf: ooh! didn't see that
+[20:41:41] guitarspider: (47.d6) so maybe Kd6 was simplest?
+[20:41:41] micomps: Bd7 then Bd5 by white?
+[20:41:57] semlegesnev: tho Bg4 f5 Bf3-Bd5-Be6 is a plan
+[20:42:42] guitarspider: (47...Bd7) I kinda like goading f5
+[20:43:28] micomps: Tom looking at f6 first rather than f5 on his stream
+[20:43:59] acebulf: yeee!
+[20:44:29] semlegesnev: should be still fine, Kd5, Bf3 Kc5 Bc6
+[20:44:44] micomps: Maybe enough time for the black king to scoot over though?
+[20:45:15] semlegesnev: trading bishop and pawn for bishop is winning for white
+[20:45:15] grzybozbur: i don't see what black can do
+[20:45:45] semlegesnev: Kc5 Ke6 Bc6 bc8 d7 takes takes Kd5
+[20:47:01] micomps: Was trying to see if black could get king to d8 and pressure G2, but not enough time to do both
+[20:47:32] guitarspider: (51.Kc5) if bishops trade it's lost too, so you can't go to e8, kinda tricky
+[20:47:32] gavalanche20: Was it possible to try to put the king on g3 then sac the bishop for d and g?
+[20:48:48] acebulf: Kc5 Ke6 Bd5+ Ke5 Bc6 Bc8 Bb7
+[20:49:03] acebulf: nah
+[20:49:03] gavalanche20: I guess not enough time for any of that to try to get a wrong rook pawn
+[20:49:18] micomps: I'd have played f4 now, just make white fear something
+[20:49:34] acebulf: ???
+[20:49:49] micomps: Ba4 not a bad try, rely on king covering queening square
+[20:49:49] acebulf: oooh
+[20:50:04] micomps: Maybe just Kb6 now though?
+[20:50:04] semlegesnev: The idea is Bc6 d7 doesn't work
+[20:50:04] guitarspider: (52.Bc6) Kb6 looks good
+[20:50:50] feet_barbie: (52...Bc2) kb6 yeah
+[20:50:50] micomps: Tom is hanging in. I know first hand how difficult he can be to play endgames against
+[20:51:05] feet_barbie: (52...Bc2) be4 d7
+[20:51:36] alp_arslan92: (53.Kd4) Wow
+[20:51:36] grzybozbur: where is white going?
+[20:51:51] micomps: Spooked by Bd3
+[20:51:51] guitarspider: (53.Kd4) Kb6 Ke6 Kc7 was over yeah?
+[20:51:51] alp_arslan92: (53.Kd4) Yeah, for sure guitar
+[20:52:36] zal667: K is going for h4?
+[20:52:52] bufferunderrun: yes
+[20:53:07] acebulf: tense endgame
+[20:53:22] micomps: Black has one chance to play Be4
+[20:53:22] micomps: When king isn't covering that square
+[20:54:23] semlegesnev: Realistically white picks up h4 w/o trouble and marches the h pawn
+[20:54:23] micomps: Kf4 Bc2, Kg5 then Be4 maybe? Probably loses the h-pawn eventually. Dang
+[20:54:54] micomps: Might just have to go Bf1 and pray
+[20:55:09] micomps: Pray to get the g and d pawns off for the bishop, and run to h8
+[20:55:24] feet_barbie: (56.Kf4) is there a bxg2 universe
+[20:55:24] gavalanche20: That’s what I think toms thinking
+[20:55:54] micomps: @feet_barbie where there's a will.....
+[20:56:25] feet_barbie: (56.Kf4) omg finally at least a chance for a possibility of thinking of a drawn position xd
+[20:56:55] micomps: If black can take g and d, the king is four moves away from h8 and safety
+[20:57:11] feet_barbie: (56.Kf4) yeah and white has to take h4
+[20:57:26] feet_barbie: (56.Kf4) to do so they have to move the king away from the f file and blocking us out idk
+[20:57:56] feet_barbie: (56...Bf1) wow crazy line hear me out
+[20:58:12] zal667: I'm all ears
+[20:58:27] feet_barbie: (57.Kf3) bf1 kxf5 bxg2 bxg2 kxd2 bd5
+[20:58:57] feet_barbie: (57.Kf3) creates a zugzwang construction i think
+[20:59:13] feet_barbie: (57...Kd8) mmh
+[20:59:13] feet_barbie: (57...Kd8) idk ahah
+[20:59:13] micomps: I'm glad I'm not playing this
+[20:59:58] guitarspider: (58.Kf2) hmmm
+[20:59:58] arandommove: g3 hxg3 Kxg3 Be4
+[21:00:29] guitarspider: (58...Bd3) what about Ba4 there, then push h-pawn?
+[21:00:29] arandommove: And harass that bishop til you get d7
+[21:00:44] guitarspider: (59.g3) the king has to stay
+[21:00:59] micomps: I don't like g3 by white
+[21:01:14] arandommove: Bc2 after Ba4
+[21:01:14] computability: Kxf5 would have been drawing since white has the wrong color bishop yeah?
+[21:01:45] zal667: Yeah
+[21:02:31] semlegesnev: I feel f5+ is a draw
+[21:03:47] bufferunderrun: Idk, f5+ looks lost to me
+[21:04:02] micomps: In this position? I have a feeling white gets the h-pawn far enough before having to give up the d pawn
+[21:04:17] bufferunderrun: the problem for black is that the king is stuck defending d8
+[21:04:32] micomps: H-pawn currently 5 moves from queening, blacks king is 4 moves away when on d7/d8
+[21:04:48] feet_barbie: (60.Kxg3) yeah was a draw xd
+[21:05:03] micomps: Once that h pawn gets to h5, there's problems
+[21:05:03] bufferunderrun: but the king would be 3 squares from g7
+[21:05:18] guitarspider: (60...Bc4) @Feet_Barbie what was a draw?
+[21:05:18] feet_barbie: (60...Bc4) still i think white was just winning with kb6 earlier
+[21:05:33] feet_barbie: (60...Bc4) i mean the kxf5 ything earlier
+[21:05:33] guitarspider: (61.h4) ah
+[21:05:33] micomps: But we could probably shield that square buffer? Idk...
+[21:05:49] guitarspider: (61.h4) I'm 100% sure Kb6 was completely winning, and it's not that hard either
+[21:05:49] semlegesnev: yes, Kb6 was winning
+[21:05:49] guitarspider: (61.h4) but of course in a long game...
+[21:06:04] micomps: Yeah, Kb6 was straightforward about 10 moves ago
+[21:06:19] guitarspider: (61.h4) endgames are hard and very easy to misplay
+[21:06:19] micomps: Straightforward win* I mean
+[21:06:19] bufferunderrun: I don't like h4
+[21:06:34] feet_barbie: (61...Ke7) yeah especially cos you get there after 3 hours of focus and energy already
+[21:06:49] guitarspider: (61...Ke7) yup
+[21:07:05] micomps: White gonna go Kf4-g5?
+[21:07:05] acebulf: push here?
+[21:07:20] micomps: After pushing?
+[21:07:35] semlegesnev: wait h6 theen what for black? Bg8 Bh7?
+[21:07:50] guitarspider: (63.h6) Bg6 presumably
+[21:07:50] micomps: There's zugzwang coming here
+[21:08:06] guitarspider: (63...Bg6) yeah
+[21:08:06] guitarspider: (63...Bg6) feels like it
+[21:08:06] micomps: Bishop can't move from h7/g6
+[21:08:21] micomps: Eventually
+[21:08:21] micomps: And king comes in
+[21:08:36] semlegesnev: I feel black has infinite tempo with Kd8-Ke7
+[21:08:51] feet_barbie: (64.Kf4) yeah not the end yet
+[21:08:51] feet_barbie: (64.Kf4) make them show it xd
+[21:08:51] micomps: But king could then get to g7
+[21:09:22] feet_barbie: (64...Bh7) but then you pushed f4 so you can get away right
+[21:09:37] micomps: Just waste a move moving your bishop back to b5, king comes in when black king on d8
+[21:09:52] guitarspider: (65...Kd8) if black pushes f4 there is Kxf4 Be4 maybe
+[21:10:07] feet_barbie: (65...Kd8) i mean f4 on kf6
+[21:10:23] micomps: Ignore me above, that's rubbish thinking
+[21:11:08] semlegesnev: kf6 f4 kg7 bc2 seems a draw, yea
+[21:11:08] arandommove: Kf6 Ke6 now and free the bishop?
+[21:11:24] guitarspider: (65...Kd8) Ba4 Ke7 Bb5 Kd8 Kf6 costs the bishop but I don't think the white king gets over in time for white to take on f1?
+[21:11:39] arandommove: Then get the bishop to g8?
+[21:11:39] feet_barbie: (66.Kf6) but bb5 bd3 seems like a win
+[21:11:39] feet_barbie: (66...f4) maybe
+[21:11:39] zal667: Kf6 seems winning
+[21:11:39] micomps: 1/2 - 1/2. Calling it
+[21:11:54] bpack: kf6 seems very drawish
+[21:12:09] guitarspider: (67.Ke6) oha, twist
+[21:12:24] semlegesnev: I like this again
+[21:12:24] feet_barbie: (67.Ke6) yeah
+[21:12:40] zal667: Black can you answer me on slack. I would like to schedule our game
+[21:12:40] zal667: *bpack
+[21:12:55] gavalanche20: Lololol
+[21:12:55] bpack: oh thats me =)
+[21:12:55] feet_barbie: (67.Ke6) xD lichess chat schedule
+[21:13:10] micomps: Bc2 then what
+[21:13:10] highonpotnuse: oof bpack
+[21:13:10] micomps: Am I missing something?
+[21:13:10] feet_barbie: (67.Ke6) caught in the act watching games and leaving them on read
+[21:13:41] guitarspider: (67.Ke6) Kd6 Bd5 Bg8 eventually is one winning idea at least
+[21:13:41] guitarspider: (67.Ke6) can you get it though
+[21:14:11] bufferunderrun: Bc2 Kd6 I guess
+[21:14:11] arandommove: But with the king on d6 you introduce stalemate ideas
+[21:14:26] feet_barbie: (67.Ke6) omg bc2 ke5 f3 bxf3 kxd7 be4 also wins
+[21:14:42] feet_barbie: (67...Bd3) here too i think ke5 wins on the spot right
+[21:14:42] guitarspider: (67...Bd3) ayayay
+[21:14:57] guitarspider: (67...Bd3) yes
+[21:14:57] feet_barbie: (67...Bd3) and then back with be4 to block h7
+[21:15:12] arandommove: If Kf6 black can play e3!
+[21:15:12] arandommove: *Kd6
+[21:15:27] feet_barbie: (67...Bd3) e3 would be great
+[21:15:27] feet_barbie: (67...Bd3) then f2 e1
+[21:15:58] arandommove: *f3
+[21:16:13] guitarspider: (67...Bd3) the solution to the stalemate problem after Kd6 is you put the bishop on f7 then play Ke6 again
+[21:16:28] micomps: Just shuffle the bishop on the b1-h7 diagonal as infinitum
+[21:16:28] guitarspider: (67...Bd3) unless black can somehow desperado the bishop :D
+[21:16:43] feet_barbie: (68.Kd6) i think just ke5 winss
+[21:17:14] arandommove: After Kd6 black plays immediately f3, if you take the bishop goes desperado attacking whites bishop
+[21:17:29] arandommove: F3 Bxf3 Be4
+[21:17:44] micomps: F3 is fire
+[21:17:59] bufferunderrun: except that white can ignore the bishop, h-pawn promotes
+[21:18:15] feet_barbie: (68...Bc2) yeah doesnt work sadly
+[21:18:30] micomps: Buffer, just keep bishop on duaganol and can't be ignored?
+[21:18:30] arandommove: If you push h7 I play Bxh7
+[21:19:16] feet_barbie: (69.Ke5) no i play ke6 or smth or
+[21:19:31] arandommove: Oh yeah :(
+[21:19:31] feet_barbie: (70.Bxf3) if u take the bishop h7 countersacrifice
+[21:19:46] guitarspider: (70.Bxf3) oh no, Tom missed Be4
+[21:20:01] feet_barbie: (70.Bxf3) but a bishop perpetual desperado is a super cool idea dont  think i ve ever seen one
+[21:20:17] semlegesnev: wait what
+[21:20:32] micomps: Omg no Be4?!
+[21:20:32] kayrosas: huh
+[21:20:32] naveengeorge: whatttttt
+[21:20:32] zal667: He missed it
+[21:20:32] feet_barbie: (71.Kf6) huu
+[21:20:32] kayrosas: might still be enough
+[21:20:32] feet_barbie: (71.Kf6) this stream so fun someone clip this
+[21:20:47] semlegesnev: actually still could work
+[21:20:47] bpack: Bh5-Bg6 still good for white, no?
+[21:21:02] guitarspider: (71.Kf6) yeah, I think it barely works?
+[21:21:02] zal667: Yeah
+[21:21:02] semlegesnev: insane
+[21:21:02] micomps: Bh7?
+[21:21:17] guitarspider: (71...Ke8) cutting it a lot closer than necessary though
+[21:21:17] computability: Kg7 and then the bishop moves
+[21:21:17] kayrosas: Kg7 now
+[21:21:33] feet_barbie: (72.Kg7) 100 eymk enjoyer
+[21:21:33] zal667: They just want to keep us entertained
+[21:21:33] feet_barbie: (72.Kg7) when you know tablebases xd
+[21:21:33] bufferunderrun: yeah need to prevent Kf8
+[21:22:18] computability: Wait black has Kf8 after whites Kxg6 no?
+[21:22:18] computability: Yeah
+[21:22:34] kayrosas: just h7 then
+[21:22:34] guitarspider: (73.Bh5) h7 block everything
+[21:22:34] micomps: And then h7
+[21:22:34] computability: Bd1?
+[21:22:49] computability: Ah yeah h7
+[21:23:19] feet_barbie: (73...Bh7) wow ahaha
+[21:23:19] bufferunderrun: claps
+[21:23:35] guitarspider: (73...Bh7) nice try
+[21:23:35] micomps: Bg6 anyway now?
+[21:23:35] guitarspider: (73...Bh7) no, just take it
+[21:23:35] kayrosas: Kxh7 also works
+[21:23:35] feet_barbie: (73...Bh7) bf7
+[21:23:35] semlegesnev: takes works
+[21:23:50] micomps: Oh yeah. Long day......
+[21:24:05] guitarspider: gg
+[21:24:05] bufferunderrun: gg
+[21:24:05] acebulf: gg
+[21:24:05] computability: GG
+[21:24:05] kayrosas: gg
+[21:24:05] semlegesnev: gg!
+[21:24:05] bpack: ggs
+[21:24:05] feet_barbie: gg
+[21:24:05] baberle: gg
+[21:24:05] computability: What a game
+[21:24:05] zal667: Gg
+[21:24:05] guitarspider: great fight
+[21:24:05] micomps: GG both
+[21:24:05] oachkatzerlschwoaf: good game
+[21:24:20] oachkatzerlschwoaf: well played
+[21:25:52] feet_barbie: cute drawing idea maybe worth a alp recap
