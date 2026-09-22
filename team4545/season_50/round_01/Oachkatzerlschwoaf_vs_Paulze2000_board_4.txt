@@ -1,0 +1,230 @@
+Lichess game chat log
+Game      : https://lichess.org/xPeiGhGX
+White     : oachkatzerlschwoaf
+Black     : paulze2000
+Time      : 45+45
+Captured  : 2026-09-22 20:22:10 UTC
+Game ended : 2026-09-22 19:02:01 UTC
+Messages  : 220
+────────────────────────────────────────────────────────────
+
+[16:31:40] inter-temporal: go Oachkatzerlschwoaf!!
+[16:33:41] tommeketoch: Let's go oach
+[16:36:44] tommeketoch: Is this still theory black so confident blitzing into this
+[16:37:30] inter-temporal: (14.Bd3) k-side pawnstorm is exciting
+[16:37:45] kayrosas: 9.h4 is theory at the very least still
+[16:38:00] jokicinator15: (14.Bd3) lets gooooooooo
+[16:38:46] kayrosas: 12.0-0 idk, I think there was some anand game with Rh3
+[16:39:01] guitarspider: (15...Qc7) my database still has games in this position, so it looks like pretty heavy theory
+[16:39:01] oachkatzerlschwoaf: (15...Qc7) ok out of prep
+[16:39:17] tommeketoch: Yeah Rh3 looked familar to me
+[16:39:17] inter-temporal: (15...Qc7) maybe  oach is building up a bunch of time for that one move where he will spend 45 minutes.
+[16:39:17] oachkatzerlschwoaf: time to start actually thinking
+[16:39:32] kayrosas: ah there we go
+[16:39:32] guitarspider: (15...Qc7) White seems to score extremely well
+[16:39:47] jokicinator15: (15...Qc7) crazy looking position, I love it
+[16:41:34] jokicinator15: (15...Qc7) my intuition is Qf3 but not sure how accurate it is here
+[16:41:49] guitarspider: (15...Qc7) Qf3 is the most popular move :D
+[16:42:04] jokicinator15: (15...Qc7) ayyyyy
+[16:42:04] tommeketoch: Are they directly going to break my 30 min think
+[16:42:19] jokicinator15: (15...Qc7) "hold my beer Tom" - Oach probably
+[16:42:50] inter-temporal: (15...Qc7) "hold my beer Tom"--Capablanca
+[16:43:20] tommeketoch: Qf3 looks nice. What to do even do as black afterwards
+[16:44:06] oachkatzerlschwoaf: (15.Qc7) my candidate moves are: f4, c3, Kg2
+[16:44:06] oachkatzerlschwoaf: in that order
+[16:44:36] tommeketoch: Oh I don't like all 3
+[16:44:52] tactix47: Oooh, a Scandi!
+[16:44:52] guitarspider: (15...Qc7) all quite slow
+[16:45:07] guitarspider: (15...Qc7) What happens after Qf3 0-0?
+[16:45:22] jokicinator15: (15...Qc7) at first i relly like f4 but that kinng though
+[16:45:22] tommeketoch: Yeah I think at some Point plan is C4 so C3 is loss of time
+[16:45:37] guitarspider: (15...Qc7) We just play an attack where black has a hard time bringing the piecesß
+[16:45:37] guitarspider: (15...Qc7) ?
+[16:45:53] jokicinator15: (15...Qc7) Qf3 0-0 Rc1 preparing c4?
+[16:46:23] tommeketoch: Castling short looks insane for black
+[16:46:38] guitarspider: (15...Qc7) it does, but it feels like there should be something immediately, but I can't see it
+[16:46:38] guitarspider: (15...Qc7) so maybe it's possible
+[16:48:55] guitarspider: (15...Qc7) Qf3 0-0-0 then your c4 idea is appealing
+[16:49:26] jokicinator15: (16.f4) f4 is off to the races boys
+[16:49:56] oachkatzerlschwoaf: I mean you basically give up K safety with this opening, so why not play this...
+[16:50:12] inter-temporal: (16.f4) he wants to play exciting chess! :)
+[16:50:12] tommeketoch: I think Qf3 mostly just stops O-O-O because I greedly grab that pawn on f7. Might be to greedy
+[16:50:57] guitarspider: (16.f4) pawn grabbers united
+[16:51:13] guitarspider: (16.f4) Feels like you should be doing stuff rather than grab pawns though :D
+[16:51:13] tommeketoch: Is C4 plan still strong after 0-0-0
+[16:51:28] guitarspider: (16.f4) you mean after f4?
+[16:51:28] kayrosas: I think 0-0-0 c4 leaves d4 too weak, dxc4 Bxc4 Qb6 for example
+[16:51:43] tommeketoch: Yes now
+[16:51:43] oachkatzerlschwoaf: two bishops vat else
+[16:51:58] tommeketoch: Yes I don't like f4 at all
+[16:52:13] guitarspider: (16.f4) hmmmm
+[16:52:29] guitarspider: (16.f4) White can't bring the f rook anymore
+[16:52:29] kayrosas: it's a weird structure to manage as white if you're a very principled player
+[16:52:59] guitarspider: (16.f4) so maybe a black pawn on c4 can be defended
+[16:54:31] tommeketoch: Yeah you of course need to end prep somewhere, but I feel you at least need to know some plans in this structure
+[16:54:31] guitarspider: (16.f4) because there's no Rxc4 Qxc4 Rc1 anymore
+[16:56:17] oachkatzerlschwoaf: useless for me to calculate anything here, since it all depends his castling decision
+[16:57:18] tommeketoch: You need to calculate 0-0-0 here. 0-0 you are happy and figure it out later
+[16:57:34] guitarspider: (16.f4) I'm still struggling with 0-0-0 c4
+[16:58:19] guitarspider: (16.f4) can black allow c5? feels like no
+[16:58:50] inter-temporal: (16.f4) ...0-0-0, c4 then b4, a4, and we have a full board pawn storm. :)
+[16:59:05] guitarspider: (16.f4) well if Black can't allow c5 then they probably have to take
+[16:59:20] guitarspider: (16...O-O-O) but I'm failing to figure out who that is good for :D
+[16:59:51] inter-temporal: (16...O-O-O) it's good for us spectators, i think
+[17:00:06] inter-temporal: (16...O-O-O) advantage: chat
+[17:00:06] jokicinator15: (16...O-O-O) im getting my popcorn ready
+[17:01:07] oachkatzerlschwoaf: (16. O-O-O) Well c4 has to be calculated
+[17:01:22] jokicinator15: (16...O-O-O) good oach goood
+[17:01:53] inter-temporal: (16...O-O-O) "c4, then no deadly CCTs, so we play c4" calculation done.
+[17:02:08] guitarspider: (16...O-O-O) If black manages to hold on to c4 you're just down a pawn there XD
+[17:02:53] inter-temporal: (16...O-O-O) not claiming it was "good" calculation. lol
+[17:03:54] tommeketoch: I want that pawn back on f2
+[17:04:40] inter-temporal: (16...O-O-O) "you must let go of your feelings, tom. reach out with the force"
+[17:05:26] guitarspider: (16...O-O-O) what do you do if not c4? a4?
+[17:05:26] petro2: (16...O-O-O) I think black should go for g5
+[17:05:41] guitarspider: (16...O-O-O) oh wow, g5
+[17:06:12] oachkatzerlschwoaf: c4 dxc4 bxc4 Kb8 Rc8 Qb6
+[17:06:27] semlegesnev: Whats the threat with g5?
+[17:07:28] tommeketoch: I think white plays just plays F5 and keeps Kingside mostly closed
+[17:07:59] oachkatzerlschwoaf: the question is rly how exposed is my K in after c4 and who gets to the other K faster
+[17:07:59] petro2: After g5 white can't move the f pawn so how can you defend?
+[17:08:14] oachkatzerlschwoaf: or maybe thats not the question
+[17:08:14] oachkatzerlschwoaf: who knows, not me
+[17:08:29] semlegesnev: I think the f pawn can move, fxg5 seems fine
+[17:08:44] semlegesnev: Bh2+ Kh1 Qg3 Bf4 holds
+[17:08:44] petro2: Bh2 looks very dangerous
+[17:08:59] tommeketoch: Nah it is nothing
+[17:08:59] oachkatzerlschwoaf: theres also c4 dxc4 bxc4 Nb6
+[17:09:15] tommeketoch: White has way to many defenders around the king
+[17:09:45] petro2: well you are propably right
+[17:10:00] oachkatzerlschwoaf: im not gonna get an open file if I dont play c4...
+[17:10:16] guitarspider: (16...O-O-O) g5 is a cool idea though
+[17:10:31] guitarspider: (16...O-O-O) maybe it'll work later
+[17:12:02] oachkatzerlschwoaf: I k what IT will say, yes, 12 minutes to play it anyway? Youre quite right, ...
+[17:12:33] oachkatzerlschwoaf: today is just a pawn pushing day
+[17:12:33] jokicinator15: (17.c4) good ol IT
+[17:12:48] oachkatzerlschwoaf: If I can get b4 and a4 in, I win automatically
+[17:13:03] tommeketoch: 12 min for move is nothing
+[17:13:34] semlegesnev: c4 xx Kb8 Rc1 Qb6 Be3 Nc5?
+[17:13:49] inter-temporal: (17...Kb8) me?
+[17:14:04] guitarspider: (17...Kb8) now I was worried about c5
+[17:14:04] semlegesnev: Same
+[17:14:04] inter-temporal: (17...Kb8) i was just checking the Olympiad while Oach was thinking....
+[17:14:19] jokicinator15: (17...Kb8) c5 here babyyyy
+[17:14:19] guitarspider: (17...Kb8) You checked out the rest day? :P
+[17:14:35] guitarspider: (17...Kb8) I did the same earlier actually :D
+[17:14:35] inter-temporal: (17...Kb8) i rewatched R6 while Oach was thinking on 1 move
+[17:15:05] inter-temporal: (17...Kb8) then took a nap, made some coffee, and i'm back. did he move yet?
+[17:16:21] inter-temporal: (17...Kb8) i mean, we all know--he knew it, and we knew it--he was gonna play 17.c4 unless it hung mate-in-one
+[17:16:37] semlegesnev: I am a little worried abt loss of space here, and I don't see a break on the Kingside, for example c5 Be7 b4 f5 g5 h6 g6
+[17:16:52] oachkatzerlschwoaf: c5? Im really not sure
+[17:17:22] guitarspider: (17...Kb8) It just feels like White gets the entire queenside as their playground after c5
+[17:17:22] guitarspider: (17...Kb8) and the black king is stuck there
+[17:17:22] guitarspider: (17...Kb8) not good
+[17:18:08] guitarspider: (17...Kb8) Even Qa4 and Ba5 after a bit of a problem, nevermind the pawns
+[17:18:23] semlegesnev: c5 Be7 b4 g5. If fxg or f5, threefold after Qg3+
+[17:19:39] tommeketoch: In that line we have move to react since gxf4 loses probably
+[17:24:29] tommeketoch: Plus Points for keeping the tension
+[17:24:59] oachkatzerlschwoaf: (18.Rc1) was maybe overthinking, c5 probably better?
+[17:26:16] tommeketoch: I think actually both are likely good
+[17:32:37] tommeketoch: Oh thought Rxc4 was automatic. Defending D4 and feel that bishop could do damage long diagonal
+[17:34:08] inter-temporal: (19...Qb6) d4 and b2 requesting some attention?
+[17:34:38] guitarspider: (19...Qb6) if only that pawn was on f2 so you could play Be3 and threaten stuff
+[17:35:55] tommeketoch: Still Qf3 next so we Will treaten stuff
+[17:36:10] guitarspider: (20.Be3) still two moves vs one
+[17:36:56] guitarspider: (20.Be3) Nf6 Nd5 looks useful for example while you set that up
+[17:36:56] tommeketoch: Absolutely. I think I made myself loud And clear that I didn't like f4
+[17:38:12] guitarspider: (20.Be3) yeah, you were definitely right
+[17:40:14] zal667: (20.Be3) ..Nf6 looks great but can  we take a pawn with Qxb2? I Know opening a file in fron of a K is scary but can we?
+[17:41:15] guitarspider: (20.Be3) Is this really the time to be pawn grabbing ;)
+[17:41:30] petro2: I would never take b2
+[17:42:31] inter-temporal: (20.Be3) maybe ...g5 first is worth calculating
+[17:44:18] zal667: black need to find a square for a Q so maybe a3 is a good one
+[17:46:50] petro2: (20...Nf6) I guess queen can stay on b6 after Nd5
+[17:50:09] petro2: (21.Qf3) Nd5 anyway?
+[17:51:25] zal667: 21(..Qc6) I liked ..Nf6 better
+[17:52:57] guitarspider: (21...Qc6) bit surprising, feels wrong
+[17:53:42] inter-temporal: (21...Qc6) any streaming today? where'd tom go...
+[17:53:42] zal667: I think white can go for a better endgame now
+[17:54:13] ciraid: now the bishop pair increases strengh
+[17:55:29] ciraid: even g5 now and let black to capture now you have a chance to get rid off d4
+[17:56:00] ciraid: like g5 Qxf3 Rxf3 Nd7 d5
+[17:56:45] ciraid: at least one idea
+[17:57:00] petro2: Nxh5 than, no?
+[17:57:00] ciraid: okay
+[17:57:31] inter-temporal: (22.d5) interesting
+[17:58:01] ciraid: he has the tempo on the quee
+[18:07:25] tommeketoch: IT I am reading some Tal first
+[18:07:41] tommeketoch: After I Will go live, might catch the end of this game
+[18:08:57] inter-temporal: (25.Qxg4) kewl
+[18:09:12] tommeketoch: Those bishops might become monsters
+[18:09:27] inter-temporal: (25...Nxg4) i might look at some positions in my new chess book
+[18:09:43] inter-temporal: (26.Bd4) the N is in some trouble
+[18:10:28] tommeketoch: I am looking at game 6 of Botvinnick. One of those Tal classics( already had seen in the past)
+[18:10:43] inter-temporal: (26.Bd4) ahh, the KID
+[18:10:59] inter-temporal: (26.Bd4) with Tal's N-sac?
+[18:11:14] tommeketoch: Yes
+[18:11:14] inter-temporal: (26.Bd4) 1960 match, yeh
+[18:11:29] inter-temporal: (26.Bd4) brilliant
+[18:13:16] blueside617: lets go paul, nice time management
+[18:14:32] zal667: (26.Bd4) how can we save the N?
+[18:15:02] petro2: (26.Bd4) f5 seems the only way
+[18:18:36] tommeketoch: I think F6. F5 Bxg7 looks just knight mare  for black
+[18:18:36] zal667: do we argue that the N is on great outpost or we just call it ugly and dominated by DSB
+[18:19:52] tommeketoch: Easily second one, but there always possibilities that it becomes first
+[18:21:54] zal667: (26..f6) Bd1
+[18:23:25] jokicinator15: (27.Bd1) f5 here for black?
+[18:23:40] tommeketoch: Oh half looking I had blundered Bd1 too
+[18:24:11] zal667: maybe it's still a better version as LSB isn't eyeing d5
+[18:24:26] tommeketoch: But there is maybe An argument for black that inducing Bd1 is worth a tempo
+[18:25:27] tommeketoch: I think it is incorrect claim because now Bc2
+[18:25:27] jokicinator15: (27...f5) oooooh
+[18:26:13] inter-temporal: (27...f5) requires some flexible thinking
+[18:26:28] tommeketoch: But that was there other varriation toi
+[18:26:28] tommeketoch: Oh no
+[18:26:43] inter-temporal: (28...fxg4) maybe the clock became an issue
+[18:26:59] tommeketoch: White is better here
+[18:26:59] tommeketoch: But I feel white had more
+[18:27:29] inter-temporal: (29.Bxg7) see tom, you forgot what it's like to be down here with the regular folks
+[18:27:44] tommeketoch: Hey I just say what I see :p
+[18:28:15] inter-temporal: (29.Bxg7) :) good! tell us what you see from up there
+[18:28:15] tommeketoch: And I evening the field by only looking half the time
+[18:28:30] inter-temporal: (29.Bxg7) with your super-vision!
+[18:29:31] tommeketoch: F5, F6,f7, f8 sounds a plan
+[18:33:19] jokicinator15: (31...Bd6) white bringing the pressure
+[18:33:50] petro2: (31...Bd6) Can't you take the bishop and just push the pawns?
+[18:34:05] zal667: can you not see the ghosts when the clock is ticking down
+[18:34:36] jokicinator15: (32...Be7½?) no way white takes this
+[18:35:22] inter-temporal: (32...Be7½?) it's a good offer, but i'd like to keep playing
+[18:37:39] tommeketoch: Yes I think taking on d6 was best
+[18:38:24] tommeketoch: Show it that this time situation is no problem
+[18:39:40] zal667: and d pawn can march down. What a fighting spirit
+[18:39:56] inter-temporal: (35...Rxe5) g6
+[18:40:26] inter-temporal: (36.g6) maybe
+[18:40:26] inter-temporal: (36.g6) :)
+[18:44:30] tommeketoch: One of these 2 connectors Will reach touch down
+[18:45:00] zal667: yeah
+[18:49:50] tommeketoch: Finished tal game
+[18:50:05] iwishiweredecent: This has been quite the game
+[18:50:35] tommeketoch: Oach has played great. Let's finish this of
+[18:51:06] inter-temporal: (37.hxg6) he made use of the early K-side pawn pushes
+[18:51:51] tommeketoch: Mainly catched the bishop pair in at a good time
+[18:53:53] jokicinator15: (37...Re3) push em oach
+[18:55:10] zal667: (NN) this passers are worth more than a rook right now
+[18:58:28] jokicinator15: (40...Rf3+) Kg2?
+[19:01:16] jokicinator15: gg
+[19:01:16] petro2: gg
+[19:01:16] inter-temporal: gg
+[19:01:16] tommeketoch: Gg
+[19:01:16] iwishiweredecent: GG
+[19:01:31] paulze2000: gg
+[19:02:01] oachkatzerlschwoaf: gg, thanks for the support guys
+[19:02:32] oachkatzerlschwoaf: I have to get my daily steps in now, Ill put in the team study
+[19:02:32] inter-temporal: since the chat got cutoff, it will be available within a couple of hours at:
+[19:02:32] oachkatzerlschwoaf: thank you for the game paul
+[19:02:32] inter-temporal: https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545/season_48
+[19:02:47] oachkatzerlschwoaf: cheers it
+[19:02:47] inter-temporal: or this one:
+[19:02:47] inter-temporal: https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545/season_50/round_01
+[19:03:33] inter-temporal: close game. great play by both!
+[19:03:33] tommeketoch: I need to check mine too
