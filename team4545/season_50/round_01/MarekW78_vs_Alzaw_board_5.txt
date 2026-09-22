@@ -1,0 +1,227 @@
+Lichess game chat log
+Game      : https://lichess.org/BMM6jS93
+White     : marekw78
+Black     : alzaw
+Time      : 45+45
+Captured  : 2026-09-22 20:21:06 UTC
+Game ended : 2026-09-22 19:00:57 UTC
+Messages  : 217
+────────────────────────────────────────────────────────────
+
+[16:05:12] pineapplechiffoncake: Go Marek!
+[16:06:44] jfiras: Good luck Marek !
+[16:11:03] king12-life: go go alzaw u got this
+[16:11:33] parziwal08: Go Marek!
+[16:16:07] jdw10: Let’s go Alzaw! @marek hope you have a great season and enjoy the game!
+[16:16:53] kayrosas: fun opening :o
+[16:17:54] feet_barbie: (9.cxb7) is this prep
+[16:18:40] kayrosas: it is theory at least
+[16:18:55] feet_barbie: (9...Bxb7) feels like a gothamchess course xd
+[16:19:10] feet_barbie: (9...Bxb7) wow
+[16:19:10] king12-life: it is prep yeah
+[16:19:41] feet_barbie: (9...Bxb7) black scores pretty high heree
+[16:41:00] shadowofself: Not thrilled about white's king here
+[16:42:47] kayrosas: feels like black played this a bit slow
+[16:43:17] kayrosas: 14...h6 provokes Be3. I would think that is good for white
+[16:44:49] jdw10: It feels like like black has a tempo glitch to where they can start expanding in the center and every move will come with tempo.
+[16:45:34] king12-life: 12... c6 immediately is just natural, Nf2 is already too slow imo and now Nxb6 comes with tempo as well
+[16:46:05] king12-life: I guess 15... Ng4 is still playable though
+[16:47:52] king12-life: Very complicated position
+[16:54:28] oupwo: The opening... Damn
+[16:54:28] oupwo: Ia m happy
+[16:54:58] duty5521: would gladlu have taken on g5 to play e4
+[16:55:29] king12-life: yeah I agree, always eliminate the bishop pair if possible
+[16:57:46] marco_chess13: crazy opening
+[16:58:01] marco_chess13: Go Marek!
+[16:59:02] parziwal08: Very unclear to evaluate.
+[17:00:04] marco_chess13: blacks king is safe and up a pawn, engine probably loves black?
+[17:00:19] marco_chess13: oh im like 10 moves behind
+[17:03:52] parziwal08: Might be the case, but hard to play such "irrational" positions, to maintain the eval.
+[17:04:38] marco_chess13: I was looking at the position at move 11 ... 0-0 this is less clear, like you said
+[17:07:26] shadowofself: black seems overworked about losing some of those pawns
+[17:07:57] parziwal08: b5 is not a move the position demands.
+[17:08:12] shadowofself: I'm not convinced taking on e5 or b6 was safe for white due to opening lines for the rooks
+[17:09:43] parziwal08: Kh8 would have allowed black to push f5.
+[17:12:46] shadowofself: now f5 is a bit scary
+[17:13:17] parziwal08: Yes, looks very good
+[17:13:47] shadowofself: whereas I'm not seeing the full plan after Nxg3
+[17:14:33] parziwal08: e4?
+[17:16:04] king12-life: yep
+[17:18:37] shadowofself: preferred Kf2 over Be2
+[17:24:12] parziwal08: How about 26.qh1?
+[17:25:13] marco_chess13: What's the idea? rg1?
+[17:25:13] parziwal08: Threaten Bxh6
+[17:26:14] parziwal08: Though black could play something like re6 then?
+[17:26:14] marco_chess13: interesting, looks very scary lol
+[17:26:59] parziwal08: I guess, in such positions, tru to create as many complications as you can.
+[17:26:59] parziwal08: try*
+[17:35:52] king12-life: where is the rook going from g6, why not stay on the e-file instead
+[17:38:40] king12-life: (31. Kd3) I guess Rxb2 and Ra8 and black can't lose
+[17:40:11] king12-life: eh it is still slightly tricky as long as one white pawn is still on the board
+[17:42:59] oupwo: I am scared for black
+[17:42:59] king12-life: (33... Raxa2) I thought of Ra3 for b4 instead, now the c3 pawn will stay alive
+[17:43:14] king12-life: and the d5 pawn might not...
+[17:56:11] duty5521: was Kf8 not only move?
+[17:57:12] shadowofself: I thought so too
+[17:57:28] oupwo: Damn, this is getting complicated
+[17:57:28] fyrox96: what a tricky endgame.
+[17:59:14] oupwo: Oof, this move doesn't force a bishop move and can restrict the rook :/
+[17:59:14] oupwo: Or maybe it does somehow
+[17:59:30] duty5521: Kd4 is winning
+[18:00:30] oupwo: ay ay ay
+[18:00:46] king12-life: that's wild
+[18:00:46] king12-life: all because of not playing hxg5 xd
+[18:01:16] shadowofself: Rb5 is the last trick left
+[18:01:31] oupwo: You mean... On move 16 or 16, right? haha
+[18:01:31] oupwo: 17*
+[18:05:36] king12-life: yeah
+[18:17:31] king12-life: (44... f6+) Oh the bishop on f4 will not survive here
+[18:17:31] duty5521: is that a draw now
+[18:18:02] king12-life: I think it could still be winning for black
+[18:18:02] duty5521: g6 doesn't work
+[18:18:17] duty5521: WOW
+[18:18:17] king12-life: why does it not work
+[18:18:32] king12-life: come on alzaw play g5 and win please
+[18:18:32] duty5521: because Kxg6 Rxf4 c7 Rc4 Bd5+!
+[18:18:48] king12-life: oh cause Bd5+ ideas
+[18:18:48] king12-life: fml
+[18:19:03] duty5521: now i'm pretty sure it wins
+[18:19:18] gavalanche20: I thought 44. Kc5 was fine
+[18:19:33] king12-life: Maybe before Kg4 it is still winning for white somehow
+[18:19:49] duty5521: i'm pretty sure it is
+[18:19:49] king12-life: g5 Bd5+ Kf8 c7 ?
+[18:20:04] king12-life: It might still be ?
+[18:20:04] king12-life: oh no cause Kg7 instead and h1=Q followed by Rc4
+[18:20:04] king12-life: all good
+[18:20:19] duty5521: yes
+[18:20:19] king12-life: ????
+[18:20:49] duty5521: what
+[18:20:49] king12-life: rip time pressure ig
+[18:20:49] duty5521: no idea of the eval there
+[18:21:20] king12-life: oh wait
+[18:21:20] king12-life: that's almost genius
+[18:21:35] king12-life: c7 g5 c8=Q Rxf4+ Kg3 Rxf3+
+[18:21:35] king12-life: but Kxh2
+[18:21:50] king12-life: and the result might be a fortress though the pawn is on the 3rd rank and not 2nd
+[18:22:06] duty5521: ah yes
+[18:22:06] gavalanche20: If Bd5 can you play Rc4 anyway
+[18:22:21] king12-life: Bd5 you should still play g5 for that reason yeah, good point
+[18:25:08] versaumnisgrund: Is Kg3 winning?
+[18:25:08] king12-life: I would assume so
+[18:25:24] king12-life: Cause Rc3 Kxh2
+[18:25:39] versaumnisgrund: Pick up the h pawn and the DSB is immune
+[18:28:26] versaumnisgrund: Kf7 doesn't work because of the fork
+[18:29:43] versaumnisgrund: Can marek mate with two bishops?
+[18:29:58] oupwo: Wow, I went to eat and the situation is still insane
+[18:32:45] oupwo: OOF
+[18:33:01] versaumnisgrund: Was there a problem with Bb7?
+[18:33:31] cinemashow: Ke6?
+[18:34:02] versaumnisgrund: Sure
+[18:34:47] cinemashow: I like Marek's Bd5, Bd6 construction
+[18:35:02] cinemashow: and just walk the king over?
+[18:35:33] fyrox96: Ke2 Tc3+ Kd3 with Bc4 idea maybe?
+[18:35:33] versaumnisgrund: Yes, now the bishop has a retreat square after Ke6
+[18:35:33] fyrox96: *Rc2+
+[18:36:03] cinemashow: But how do Black's own two pawns affect the situation?
+[18:37:35] versaumnisgrund: What a nice endgame from marek so far!
+[18:38:20] fyrox96: Shows how tricky the bishop pair is! Really interesting endgame
+[18:39:06] nyanners: winning for white?
+[18:39:21] nyanners: this might be the first 2 bishops win in a "real game" ive ever seen in my entire life
+[18:40:38] nyanners: 59 Be4 i thought
+[18:41:08] fyrox96: me too, or 59 Be6
+[18:41:08] nyanners: its not too complicated (in hindsight?)
+[18:41:23] duty5521: Be4 here still?
+[18:41:23] nyanners: could always repeat to that yea
+[18:41:54] nyanners: this is good. i considered this
+[18:42:09] duty5521: yeah also
+[18:42:09] nyanners: because now its zugzwang
+[18:42:09] duty5521: Bf6 here?
+[18:42:24] nyanners: anything keeping those diagonals
+[18:42:24] nyanners: not Bf6 because Kg6? maybe
+[18:42:39] nyanners: this is clearly simplest
+[18:42:39] duty5521: yeah and you take g4
+[18:42:55] duty5521: oh uh
+[18:42:55] duty5521: maybe not lol
+[18:42:55] nyanners: well you need the two bishops XD
+[18:43:10] duty5521: Bf5 Kg5 Be5
+[18:43:25] nyanners: now with pawns disconnected it should be the easy part
+[18:43:40] duty5521: Bg5 Bf5
+[18:43:40] duty5521: E6
+[18:43:40] duty5521: gosh
+[18:44:56] gavalanche20: Please play this out
+[18:45:12] jfiras: now the interesting part
+[18:45:27] nyanners: there was one day when i realized i had never ever played a 2B mate, so i figured it out on the fly
+[18:45:27] nyanners: setting up vs stockfish
+[18:45:27] nyanners: i think white can do it
+[18:45:42] shadowofself: This game should be nominated for something, so many twists and turns
+[18:45:57] fyrox96: Absolutely the opening was insane as well!
+[18:46:58] nyanners: i played this line with black a few times and i felt like.. whats the actual point
+[18:47:44] nyanners: it really only works as targeted prep, its too weird to make it your main
+[18:47:59] kayrosas: it's a bit too weird to play vs a sideline like the ponziani, but I haven't convinced myself to quit it either
+[18:48:30] nyanners: xmask suggested 3..Nge7 once which i thought was quite brilliant
+[18:48:45] kayrosas: :o
+[18:49:00] kayrosas: maybe after my next loss in this line i will check that
+[18:49:00] nyanners: XD
+[18:49:15] nyanners: like, the chess speaks for itself. white will play d4 obv and then you take and play d5
+[18:49:15] duty5521: I like 3... d5
+[18:49:31] nyanners: and e5 Bg4, etc
+[18:50:01] nyanners: yeah the only reason why i dont main Nge7 is because i score like 99% with d5
+[18:50:01] duty5521: 3... d5 4. Qa4 Bd7 is what I play I think
+[18:50:32] duty5521: there's f6 at some point also?
+[18:51:02] duty5521: maybe not in the Bd7 line
+[18:51:02] nyanners: qa4 f6 is main
+[18:51:02] bumbling_bozo: i watched a youtube video on how to mate with two bishops and now I certainly don't know how to do it
+[18:51:02] nyanners: bd7, well, ive heard of it
+[18:51:33] oupwo: The food is cooked
+[18:51:33] oupwo: and ready soon
+[18:51:48] kayrosas: Bf6 again, walk king to h6, Be7 and mate thereafter
+[18:51:48] duty5521: allright yep
+[18:52:18] duty5521: uh
+[18:52:49] nyanners: teehee
+[18:52:49] nyanners: white was doing well
+[18:53:04] kayrosas: Bf6 is only a twofold
+[18:53:19] nyanners: this could be trouble
+[18:53:19] kayrosas: but gotta find a setup
+[18:55:06] kayrosas: there's no need for white to make moves if they haven't figured out a setup yet
+[18:55:06] cinemashow: some of us will be practicing this later :)
+[18:55:21] nyanners: g7 eh
+[18:55:21] kayrosas: just increases threefold risks
+[18:55:21] nyanners: as black id just play quickly for aura
+[18:55:52] marco_chess13: Not me, it's my dream to try and get a double bishop mate on the fly with 16 spectators.
+[18:56:07] nyanners: last capture on 67
+[18:56:07] nyanners: i know yall wanted to know this
+[18:56:22] jfiras: i checked it yes
+[18:56:22] cinemashow: yep, plenty of moves
+[18:56:37] jfiras: i am afraid Marek will learn this the hard way
+[18:56:52] cinemashow: no, he will do it
+[18:57:08] fyrox96: Kf6! does the job I think he figured it out now
+[18:57:23] duty5521: gotta find the bishop retreat
+[18:57:38] nyanners: yes and no. i think we just rotated the position
+[18:57:38] gavalanche20: Bf8-g7 does it yeah?
+[18:57:53] kayrosas: does it?
+[18:57:53] gavalanche20: Oh wait lol
+[18:57:53] nyanners: not what id do
+[18:58:09] duty5521: bf8 does do it
+[18:58:24] cinemashow: Be3 Kg6 Bd4
+[18:58:39] nyanners: id play 82 be3 be6 kf7
+[18:59:10] nyanners: then waste a tempo and its free
+[18:59:56] duty5521: WSBwherever-on-the-diagonal Kf7 Bg7+ B#
+[19:00:27] nyanners: yeah you always need kf7
+[19:00:27] kayrosas: there we go
+[19:00:42] jfiras: yaay
+[19:00:42] nyanners: big
+[19:00:42] duty5521: ggs
+[19:00:42] gavalanche20: Nice
+[19:00:57] nyanners: gg
+[19:00:57] kayrosas: gg
+[19:00:57] oupwo: GG
+[19:01:12] jcarmody: gg
+[19:01:12] jfiras: gg !!
+[19:01:12] fyrox96: What an awesome game by both sides! GG marek!!
+[19:01:12] cinemashow: well done Marek!
+[19:01:12] finerik: gg
+[19:01:12] jfiras: very interesting gale
+[19:01:12] gavalanche20: Have we had a KBB mate in the league yet?
+[19:01:28] gavalanche20: Surely I assume
+[19:01:28] jfiras: game*
+[19:18:42] zubenelgenubi: gg
