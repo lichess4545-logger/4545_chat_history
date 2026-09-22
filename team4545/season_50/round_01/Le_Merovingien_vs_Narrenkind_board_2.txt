@@ -1,0 +1,118 @@
+Lichess game chat log
+Game      : https://lichess.org/0rzhonak
+White     : le_merovingien
+Black     : narrenkind
+Time      : 45+45
+Captured  : 2026-09-22 22:52:34 UTC
+Game ended : 2026-09-22 21:32:25 UTC
+Messages  : 108
+────────────────────────────────────────────────────────────
+
+[19:02:22] moccy: Good luck @Le_Merovingien!
+[19:04:09] le_merovingien: Hey, Moccy!
+[19:10:45] moccy: (10...Rc8) Interesting to see what is going to happen from this not-too-usual French
+[19:11:16] le_merovingien: Not much to talk about. This is all book at my end.
+[19:12:47] le_merovingien: But I will be out of book next move :)
+[19:14:34] moccy: (11...b6) so much for my "unusual French" comment :)
+[19:14:34] le_merovingien: normally, here, I play for c4. But this Rc8 is really defeating the purpose.
+[19:14:49] le_merovingien: I don't think it is a great move but the Queenside majority that I am aiming for might not be possible.
+[19:15:19] le_merovingien: c3 is too weak
+[19:18:37] le_merovingien: So, there is Rc1 which is probably terribly passive and stops supporting the a-Pawn
+[19:19:08] le_merovingien: the c-Pawn is poisoned if I castle because Bd4
+[19:21:40] le_merovingien: The c-Pawn is still poisoned. a4?
+[19:21:56] moccy: (13...Be7) Even though the pawn is poisoned for now, it feels like a long-term liability.
+[19:22:57] le_merovingien: he is not castled so he plays with one less Rook. I need to go fast. a4 is even more tempting
+[19:23:12] le_merovingien: Bd4 also works...
+[19:24:13] moccy: (13...Be7) I personally like Bd4 more because it protects c3, but I'm a coward every now and then :)
+[19:24:58] le_merovingien: hmmm...
+[19:25:44] caodanny: go mero
+[19:25:59] le_merovingien: I feel that a4 screams to be played. Majority, lack of Black development, ...
+[19:26:14] le_merovingien: I don't see how to follow up though
+[19:28:31] le_merovingien: I guess I just go for teh passed a-Pawn. Straightforward
+[19:29:02] le_merovingien: Bg5 is annoying
+[19:29:48] le_merovingien: OK, so one concession from black
+[19:33:21] le_merovingien: Bd4 Bf6 Nf3 Nxf3 Bxf3 (misplaced) Bxd4 Qxd4 is a line
+[19:33:51] le_merovingien: because I am trying to bring Nf4 Ne5 to threaten the d7 Bishop
+[19:35:38] le_merovingien: OK, not sure. i have to try something
+[19:45:32] le_merovingien: Has he played?
+[19:47:03] le_merovingien: Did he play? Did he play?
+[19:47:19] le_merovingien: Don't wake him if he didn't.
+[19:54:40] le_merovingien: Hey Chiffon!
+[19:54:40] pineapplechiffoncake: hi mero!
+[19:55:26] le_merovingien: So, I might as well play Ra3 here to try to double on the a-file or pass the Rookr in front of the Queen
+[19:55:41] le_merovingien: But I can't play Qa2 or Qb2 after.
+[19:56:12] le_merovingien: Rfc1 is too straightforward and passive
+[19:57:43] le_merovingien: Ra3 Rc7 Rfc1 Rac8 a5?
+[19:59:30] le_merovingien: Rc1 cannot be right, though. It's not harmonious and is not protected.
+[20:01:32] le_merovingien: Can I not just push here?
+[20:02:33] le_merovingien: Bah, yes
+[20:03:49] le_merovingien: There may be sme shenanigans with the Queen there.
+[20:05:05] le_merovingien: There are shenanigans if he is not careful
+[20:05:21] le_merovingien: We need to calculate carefully here
+[20:10:40] le_merovingien: I think this Bishop serves no purpose.
+[20:10:40] le_merovingien: It's a case of the a-Pawn against eh central majority.
+[20:11:11] le_merovingien: I have made mistakes that lost games in the past in situations like that, so maybe I am also doing the wrong thing
+[20:11:11] moccy: (25.Be2) kinda scary with that backrank
+[20:11:26] le_merovingien: But the idea is that if I can swap all the pieces, the a-Pawn decides.
+[20:11:41] le_merovingien: Maybe Black will block on a8 but either Q or R can go to b8 with check and win the game.
+[20:11:56] le_merovingien: way too early and probably erroneous but this is my vision
+[20:12:12] le_merovingien: I demand that my vision be respected
+[20:12:27] le_merovingien: Just... don't hit me too hard when I screw up
+[20:15:14] moccy: (27.a6) I respect your vision :)
+[20:19:49] le_merovingien: Hey, Kuby!]
+[20:21:50] moccy: (29.Qf1) To be honest, this looks quite scary.
+[20:31:44] le_merovingien: I have no plan
+[20:34:32] le_merovingien: Hi Kjar
+[20:35:17] le_merovingien: h4 g3 to come, right?
+[20:35:48] le_merovingien: there is a Ra1 Qe3 that could be played. Probably terrible
+[20:42:09] mkubecek: (33.h4) Does Rxc3 win a pawn now?
+[20:42:39] le_merovingien: Am I threatening Qd4, actually?
+[20:42:54] le_merovingien: I wanted to play this move a while ago but coudl not
+[20:43:25] le_merovingien: wait, still not. The Queen bounce on b1 is still there
+[20:43:25] le_merovingien: getting tired...
+[20:43:25] le_merovingien: Good that I have time on the clock
+[20:45:27] mkubecek: (33...Ra7) Probably not... Rxc3 Qxc3 Qb1+ Kh2 Qxa2 Qc8+ Kh7 Qb7 doesn't look good for black.
+[20:46:12] grzybozbur: there might be a perpetual in that line
+[20:46:28] moccy: (34.g3) This looks really complex now, and it's definitely an advantage to have some more time on the clock.
+[20:49:31] moccy: (35...Qc4) Qx dx and Ra4 now??
+[20:51:02] grzybozbur: qx dc kg2, the pawn will be taken by the king, why waste a tempo for ra4?
+[20:53:34] le_merovingien: Taking should win! I was trying to dodge the trade.
+[20:54:20] le_merovingien: Qxc4 dxc4 Kf1 Kf8 Ke3 Ke7 Ke3 Kd6 Kd4!
+[20:56:22] mrscribbles: (40...Ke6) hmmmm
+[20:56:52] mrscribbles: (41.f4) f5 looks annoting
+[20:57:08] mrscribbles: (41.f4) annoying
+[20:57:38] le_merovingien: This is looking good
+[20:59:40] le_merovingien: Oh, did not see f5...
+[20:59:55] mrscribbles: (41.f4) indeed
+[21:00:56] le_merovingien: f5 Ke3... but he can't push e4, else he gives me d4.
+[21:01:11] le_merovingien: and he can't move the King up either because of the Rook check.
+[21:02:27] grzybozbur: yeah, allowing a black passer would not be my choice
+[21:02:27] le_merovingien: This is dangerous, actually
+[21:02:43] grzybozbur: now you need to calculate moves or something
+[21:04:14] mkubecek: (43.Ra5) As interesting as the endgame is, I have to go to bed. :-(
+[21:04:14] grzybozbur: maybe still an easy win, just ignore e4, it's not going anywhere
+[21:04:29] mkubecek: (43.Ra5) Good night, everyone...
+[21:04:44] le_merovingien: simply h5?
+[21:05:45] grzybozbur: why is white so bent on playing on the kingside? The winning pawns are on the queenside all this time
+[21:06:01] le_merovingien: h5 gxh5 then what?
+[21:06:16] moccy: (43...g6) Good night @mkubecek. Unfortunately, I'm also really tired and might have to leave before seeing how this all turns out.
+[21:07:32] le_merovingien: Do I need to bother? Kd4 Rd7 Kxc4 and I am safe because Re5 comes with a check on the promotion column
+[21:08:33] le_merovingien: Actually, chatting helps me focus. A good thing to tell all the kids playing OTB
+[21:08:48] le_merovingien: "Whisper your thoughts to your opponent"
+[21:10:50] le_merovingien: I sense the draw not far...
+[21:11:36] moccy: (45...Kc6) Really? Doesn't this look rather good for white here?
+[21:12:06] moccy: (45...Kc6) After Kb6, Re5
+[21:12:06] grzybozbur: yep
+[21:12:52] le_merovingien: Wheck?!? How do I get out of this?
+[21:13:38] kjar: h5 ?
+[21:14:39] le_merovingien: That should work with Re5.
+[21:19:28] mrscribbles: (54.Kc5) Kc5, what a classy move
+[21:19:44] moccy: (54.Kc5) nice
+[21:19:59] mrscribbles: (55.Kd4) love a spite check
+[21:23:47] le_merovingien: I think I have this
+[21:29:53] le_merovingien: This is weird.
+[21:32:40] moccy: gg
+[21:33:11] moccy: That was a nice game and a very well fought-out win!
+[21:36:59] le_merovingien: Thanks Moccy
+[21:37:45] le_merovingien: Apparently, my opponent made a blunder in the endgame. Interesting. I thought I was slightly better all along, somehow with ...
+[21:38:00] le_merovingien: ... draw opportunities if I did not have a good plan. And I had no plan at some point
