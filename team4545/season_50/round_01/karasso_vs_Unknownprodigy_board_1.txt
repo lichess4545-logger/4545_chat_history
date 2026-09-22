@@ -1,0 +1,54 @@
+Lichess game chat log
+Game      : https://lichess.org/VFiFRkjT
+White     : karasso
+Black     : unknownprodigy
+Time      : 45+45
+Captured  : 2026-09-22 18:35:36 UTC
+Game ended : 2026-09-22 17:15:27 UTC
+Messages  : 44
+────────────────────────────────────────────────────────────
+
+[15:03:21] angborxley: go karasso!
+[15:04:37] ztraynor: Nf3/e3/b3 has the vibe of wanting to play Black with the White pieces
+[15:05:07] ztraynor: Go unknownprodigy! The Kings are Landing!
+[15:16:17] hthree: (7.d4) doesn't white bury their own dark-squared Bishop with this move
+[15:30:45] hthree: (8.Bd3) I think I would take here Bxd3 as I don't like doubled f-pawns here when White might take on d5 next
+[15:46:01] hthree: (11.Nd2) could be aimed against any Ne4 and preparing e4
+[16:12:29] hthree: (13...e5) does e5 actually work? the d5-pawn feels a bit loose now
+[16:18:35] feet_barbie: (14.cxd5) both v low on timee
+[16:22:23] inter-temporal: (14...cxd5) yeh
+[16:26:12] hthree: (14.cxd5) karasso now dropping below 8 minutes to Unknown's 16 min, trying to work out the complications resulting from big tension in the
+[16:26:12] hthree: center
+[16:26:42] inter-temporal: (14...cxd5) seems complicated
+[16:28:13] hthree: does exd5 win a pawn?
+[16:29:45] hthree: dxe5 seems to invite Nxe5 with an attack on the White Queen
+[16:30:00] hthree: *Nxe4
+[16:30:16] hthree: oh no I meant Nxe5 lol confusing myself
+[16:31:16] inter-temporal: (16.Qb1) i gotta watch another board now
+[16:31:47] hthree: (16.Qb1) isn't Black just fine now?
+[16:32:02] inter-temporal: (16.Qb1) go chess!
+[16:36:06] kayrosas: gotta watch all the boards
+[16:36:52] hthree: what
+[16:37:22] hthree: Rxd2 Nf3+ gxf3 Qg5+ fork?!
+[16:37:52] hthree: (18...Bxd2) I didn't see this coming
+[16:38:08] hthree: is White just lost now?
+[16:41:41] hthree: Let's go Unknownprodigy!
+[16:43:12] hthree: (19...Ba5) Ba5 seems great, keeping an eye on the e1-square and limiting White's play
+[16:46:15] hthree: (20.Bb2) Black final challenge seems to be to stop the passed d-pawn which White might want to push soon
+[16:49:48] hthree: (21.Qf5) I don't see an immediate threat here, Black could play Rc8 (more ambitious) or Ng6 (more stable)
+[16:52:36] karasso: that was embarrassing...
+[16:59:58] hthree: (27.Rd3) White seems to have found some counterplay with ideas of Rf3
+[17:00:59] hthree: (27...Ne5) what about Rc3 now?
+[17:01:29] hthree: well I guess that would have just hung the d5 pawn
+[17:02:30] hthree: (28.Rdd1) is there any downside to taking Rxa3 now?
+[17:08:20] hthree: (29...Rc8) utilizing the fact that White can't challenge the rook because Rc1 Rxc1 Rxc1 Rxf2+
+[17:08:51] hthree: (30.Bd4) White wants to get rid of Black's great Bishop to be able to play Rc1
+[17:10:22] hthree: taking the Bishop and then putting a Rook on c2 seems good enough to me here
+[17:13:56] hthree: (32.Rfe1) I thought White would try to take the open file with Rc1 instead, now Rc4 seems attractive to me
+[17:14:11] hthree: (also I missed before that a7 was hanging after Qxd4)
+[17:14:57] hthree: (32...Nf3) and Black lands another tactical shot! is it over now for White?
+[17:15:12] hthree: Congratulations Unknownprodigy!
+[17:15:27] ztraynor: GG
+[17:15:42] unknownprodigy: Thanks!
+[17:16:13] paulwithans: gg
+[17:16:13] unknownprodigy: I was a bit fortunate to have 18...Bxd2. I didn't see it until that position happened
