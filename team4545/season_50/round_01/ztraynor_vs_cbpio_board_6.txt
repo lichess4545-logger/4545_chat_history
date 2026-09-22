@@ -1,0 +1,139 @@
+Lichess game chat log
+Game      : https://lichess.org/GiP5LpnL
+White     : ztraynor
+Black     : cbpio
+Time      : 45+45
+Captured  : 2026-09-22 20:16:07 UTC
+Game ended : 2026-09-22 18:55:57 UTC
+Messages  : 129
+────────────────────────────────────────────────────────────
+
+[17:04:12] tranzoo: lets go ztraynor
+[17:05:59] ztraynor: don't love b6 but unclear if that is punishable at present
+[17:12:35] ztraynor: trying to win this d5 pawn before Black has a chance to castle
+[17:12:50] ztraynor: though I also don't mind if Black spends a tempo on said castle
+[17:14:52] ztraynor: hm, opponents seem to have dropped a piece on the other board, interesting
+[17:15:38] ztraynor: oh more than a piece actually, great timing
+[17:19:11] hthree: Hello! Late joining because I watched Unknownprodigy's great win, leveling the score between King's Landing and fifty shades of black and
+[17:19:11] hthree: white to 1:1
+[17:19:57] ztraynor: oooh I neglected to properly consider that option, careful now
+[17:20:43] hthree: (10...Ne4) both parties seemed to have rushed to the complication now on the board
+[17:21:29] hthree: White's Bishop on g5 is now attacked 3 times and not defended at all
+[17:21:59] hthree: Nxe4 seems decent to me
+[17:23:15] ztraynor: so many move orders to keep track of here
+[17:26:18] ztraynor: okay this is either a pawn or a couple free tempi while Black rushes to hold it, I'm good with that
+[17:30:07] hthree: (12...Nxd1) to me it seems White wins a pawn here: Rfxd1 Rxd8 cxd5
+[17:32:54] ztraynor: d6 just became very tempting
+[17:32:54] ztraynor: but need to slow down, I've got time, let's not get stupid
+[17:33:10] hthree: (14...0-0) I would also consider d6 here
+[17:33:40] hthree: and I agree with ztraynor to take some time, with already so much pieces swapped off there really is no need to rush here
+[17:35:42] hthree: also there are some ideas of trapping the Bishop on f5 with h4 and e4
+[17:35:57] ztraynor: being able to play e4 with tempo and then e5 looks pleasant
+[17:37:13] hthree: (16.exd6) ztraynor undoubles their extra pawn!
+[17:37:29] ztraynor: ohhh good point
+[17:44:50] ztraynor: I think getting bishops off is helpful for me, the rooks seem less helpful to trade (though not bad)
+[17:45:51] ztraynor: I'd love to be able to play Rac1 at a time when Black can't just go Rc8
+[17:51:57] ztraynor: Rc1, Re1, Rf1 all look plausible so let's not burn a tempo playing two of them
+[17:53:28] ztraynor: right when I was thinking "Bd5+ to push the king", I get the option to do so and trade? Is this a trap?
+[17:55:30] ztraynor: oh when the pawns, go marching in, oh when the pawns go marching in...
+[17:57:02] tranzoo: dont two pawns on 6th rank be stronk?
+[17:57:02] ztraynor: oh wait this king is annoying
+[17:57:17] tranzoo: cant you just trade rooks and win?
+[17:57:48] hthree: Rf1+ Ke6 Rxf8 Rxf8 and where goes the rook then
+[17:58:03] tranzoo: Rf1 Ke6 Rxf8 RxF8 e7
+[17:58:03] tranzoo: d7 sorry
+[17:58:03] tranzoo: sac rook for queen
+[17:58:18] hthree: d7 Kxd5 d7=Q+ Rxd7
+[17:58:33] tranzoo: thats different line, ok let me try again
+[17:58:33] ztraynor: so in theory, if I cover the e pawn twice, Black can't win it without trading both rooks and then d7 will queen
+[17:59:04] tranzoo: yeah I am hallucinating
+[17:59:19] ztraynor: but that doesn't technically win unless I've got better than that
+[18:00:05] tranzoo: well in that case I might play Re1 and play it slow
+[18:00:20] unknownprodigy: This isn't clear at all
+[18:00:50] hthree: to me it's unclear as well
+[18:00:50] hthree: Black's King is very active
+[18:01:06] unknownprodigy: White can easily end up worse
+[18:08:28] unknownprodigy: Rfe8 is strange. I think White should back up the Rd5 and try to infiltrate
+[18:09:59] unknownprodigy: Rd3 and then trying to take over an open file seems sensible
+[18:11:15] hthree: yeah Rfe8 makes no sense if Black wanted to block with Ke6 anyways
+[18:11:31] ztraynor: new plan: get king activated
+[18:12:01] unknownprodigy: Yes! He found it
+[18:15:50] qrs: Ye, would’ve been nice if the black rook had stayed at f8 so the white long wouldn’t be able to come now.
+[18:15:50] qrs: Still, GO cbpio
+[18:16:51] qrs: Rf8+ Rf5 is a plan for clack
+[18:17:37] ztraynor: gotta say, that 2v1 on the kingside makes me nervous about certain simplifications
+[18:24:13] ztraynor: oh no my pawn
+[18:25:59] ztraynor: the idea being Kxe5 Kd2+! forces king to the f-file and then d7 is a fork without useful checks for Black
+[18:30:49] hthree: (28...Rc5) Kd4 looks natural to me now
+[18:31:04] hthree: oh but Rd5+
+[18:32:05] hthree: maybe Kd2 because Black can't take on e5 anyways
+[18:32:35] ztraynor: really thought I was losing until I realized Black can't take it yet
+[18:32:50] hthree: nice find!
+[18:33:06] ztraynor: really still don't see how I make progress here though
+[18:33:51] ztraynor: hang on that looks wrong
+[18:34:22] hthree: (29...Kd7) e6+ Rxe6 Rxe6 Kxe6 d7 looks winning to me
+[18:35:08] hthree: I feel like it's not so much about White making progress and more about Black self-destructing here
+[18:35:23] ztraynor: Black still can't take, takes takes takes and d7 promotes
+[18:35:38] unknownprodigy: wow
+[18:37:10] unknownprodigy: d7 Re7 Rf1 looks like gg
+[18:37:25] unknownprodigy: noooo
+[18:37:55] tranzoo: Rc1 maybe?
+[18:38:10] unknownprodigy: I suppose it's still good
+[18:38:10] tranzoo: no
+[18:38:10] tranzoo: yah
+[18:38:10] ztraynor: going to f8 shortly
+[18:38:26] tranzoo: I am having some really terrible ideas
+[18:38:41] unknownprodigy: I suppose everything is winning at this point
+[18:38:41] ztraynor: Rc6 doesn't work because the king is overworked covering both rooks then
+[18:38:56] ztraynor: oh Rcc8 though
+[18:39:27] unknownprodigy: Then Rf7 and destroy him
+[18:39:42] tranzoo: calm Rf7
+[18:39:57] tranzoo: I like that
+[18:42:45] unknownprodigy: This is pretty evil too
+[18:43:00] unknownprodigy: Yes ztraynor!
+[18:43:00] tranzoo: I talked about Rc1 but hten I thought its a mistake
+[18:43:00] tranzoo: but its probably not a mistake
+[18:43:15] unknownprodigy: It looks pretty strong
+[18:43:15] unknownprodigy: Poor Black is so passive
+[18:43:15] ztraynor: the problem I'm about to have is that if Black plays a6, I don't see where my king ever gets in and it starts to look fortress-y
+[18:43:30] hthree: I do hope though that ztraynor doesn't get nervous about having little time
+[18:43:46] unknownprodigy: Get the king to e5 and then play Rc7 after a rook trade
+[18:44:01] unknownprodigy: Black can't stop it
+[18:44:31] unknownprodigy: The moment Black activates his rook Rc3 is a massive threat
+[18:44:47] unknownprodigy: Ouch
+[18:45:32] unknownprodigy: Yes go ztraynor!
+[18:45:47] ztraynor: probably d7 just need to check both captures
+[18:45:47] unknownprodigy: Yep you got it!
+[18:46:03] unknownprodigy: mwhahaha
+[18:46:18] hthree: I love how ztraynor most of the time doesn't rush and takes time to calculate
+[18:46:48] unknownprodigy: yesyesyes
+[18:47:19] ztraynor: Rxe7 Rc8
+[18:47:49] tranzoo: hthree yeah if I was more like ztraynor yesterday....oh well
+[18:48:05] tranzoo: but this seems lovely
+[18:49:21] hthree: @Tranzoo I think you did great outplaying your opponent from a bad opening, just one mistake in the end
+[18:49:21] tranzoo: Rc8, nice.
+[18:52:54] ztraynor: I am very tempted do do B+N here
+[18:53:09] hthree: oh hell no
+[18:53:09] paulwithans: what
+[18:53:09] hthree: I hope they are joking
+[18:53:09] unknownprodigy: oh no
+[18:53:25] unknownprodigy: At least do two bishops
+[18:53:25] tranzoo: I think they are joking
+[18:53:25] tranzoo: dont do it
+[18:53:40] ztraynor: wait, that's the wrong colour square, don't think I can force the second promotion
+[18:53:40] ztraynor: never mind
+[18:53:55] tranzoo: ....please. dont.
+[18:53:55] tranzoo: thanks
+[18:53:55] paulwithans: phew
+[18:53:55] hthree: what a tease
+[18:54:56] ztraynor: oh I guess I could have done the N first and then brought the king, but okay we'll save that for later this season
+[18:55:26] hthree: please save that for when we are up at least 5:0
+[18:55:57] tranzoo: I am confused
+[18:55:57] tranzoo: thanks
+[18:55:57] tranzoo: good game
+[18:56:12] paulwithans: gg
+[18:56:12] unknownprodigy: mwhahaha
+[18:56:12] unknownprodigy: Nice job ztraynor
+[18:56:27] hthree: Well done ztraynor! Great game
+[18:57:13] ztraynor: For the record to those panicking, I do know how to do B+N and I've done it before in league, but yes, margin matters lol
+[19:05:20] guitarspider: gg
