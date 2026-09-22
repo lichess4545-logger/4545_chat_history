@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/8PSBkRyF
+White     : glennjamesmax
+Black     : likespace_bot
+Time      : 45+45
+Captured  : 2026-09-22 13:38:50 UTC
+Game ended : 2026-09-22 12:18:42 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[10:34:06] glennjamesmax: 7...e6 is what he played in some other game in his database. But in fact that's already straight up lost
+[10:34:36] glennjamesmax: 7...e6 yeah the eval in the deep chessdb database for this +1.59
+[10:35:37] glennjamesmax: 9...0-0 this is +1.9 or something like that. I'm not joking. The best move is Qd2 which I couldn't understand as well even with engine on
+[10:36:53] glennjamesmax: 10...Rb8 okay I'm out of book now, but this should be completely winning (strategically) the main point is I push e5
+[10:38:09] pineapplechiffoncake: still one masters game in the database
+[10:38:09] pineapplechiffoncake: interestingly it was won by black
+[10:38:40] glennjamesmax: But don't know exactly why here. Because b3 Qa5 is annoying..maybe b3 Qa5 e5
+[10:42:43] glennjamesmax: maybe even Qa5 Nd5 is crushing
+[10:44:45] glennjamesmax: Nd5 Qd8 back isn't exactly impressive...
+[10:45:16] glennjamesmax: Qxe1 loses to intermezzo, taking and just a5 hangs....
+[10:45:16] berndwind: I like it. Typical tactic and yeah Qd8 is pro any the best response
+[10:46:32] glennjamesmax: he's lucky that missing this doesn't in fact lose material..
+[10:49:04] pauliewoll: That exchange was probably good for Black because that knight was very passive.
+[10:55:40] glennjamesmax: 14...d5 I am thinking c3 renews Qf2
+[10:58:43] glennjamesmax: 15....Ba6 16.Qf2 Bxd3 17.Bxc5 Qb7 (let's say) 18.Rfd1 and that's a clean exchange?
+[10:59:13] glennjamesmax: there's no other threats with his bishop
+[11:00:45] glennjamesmax: oh. I didn't consider d4 here....smart move...but I'm still winning a pawn?
+[11:02:46] glennjamesmax: 18.Rfd1 not only can I win a pawn, but I could also look at my own push d5 because of skewer on c5 and then push d6 and c5-c6 still week
+[11:04:48] prostidude: Go go glenn
+[11:06:04] glennjamesmax: 18...c4 yeah this guy is ultra-disruptive one problem is d5 cxd5 Bc5 Qc7 Bxf8 Bxf8 is threatening me on c5 again
+[11:10:24] glennjamesmax: 19...Qa3 would be another disruptive move but there bxc4 Rb2 doesn't work as I have Rxd3
+[11:15:43] glennjamesmax: this would be a very worrying position if I didn't have Rxd3 in that line. I'm very happy to see him thinking as it means I'm good here.
+[11:17:45] glennjamesmax: Wait I have e3 hanging at the end don't I?
+[11:24:37] glennjamesmax: 16.Rad1 would have been way simpler. As his problems would be longterm. Here I'm not sure winning exchange is good
+[11:28:25] glennjamesmax: This was the tough move...now Bc1 is coming, and I get the setup I want
+[11:28:41] glennjamesmax: ironically if he blitzed out Qa3 I might have blundered that Qxe3 line which is unclear
+[11:34:00] glennjamesmax: by the way 20...cxb3 is just about not working in the line Rcxd3 Qxa2 Qxa2 bxa2 Ra3 Rb1+ Rf1
+[11:38:35] glennjamesmax: 21.Bc1 Qa5 22.Qd2 21...Qa6 22.Ne1
+[11:46:12] nyanners: 15 c4 probably
+[11:46:57] nyanners: Ba6 gave white another chance :D
+[11:47:58] nyanners: white had a bit of a lock everywhere and now its double-edged
+[11:51:32] nyanners: oooh scawy
+[11:52:02] nyanners: bxc4 forced? probably not
+[11:54:04] nyanners: okay i guess that works
+[11:54:19] nyanners: doesnt leave a good aesthetic impression tho
+[12:00:09] knightfury21: Go Glenn!
+[12:00:55] kamagayajiji: Looks like black has a draw if they want...
+[12:02:11] knightfury21: I wonder if Glenn is thinking about saccing the exchange to keep the game alive
+[12:02:42] nyanners: white can insert bx
+[12:02:42] nyanners: black should be happy tho
+[12:02:57] glennjamesmax: 26.Rc3 I think this is just a repetition as I can't risk continuing and this is his only response to Ne1 threat (at least that I can see)
+[12:04:13] glennjamesmax: 26 Qa5 huh? Bd2 Qd5 and it's not the same because now bxc4 hangs a3 too
+[12:05:45] knightfury21: Maybe the idea is Bd2 Qa6 looks shaky but threatens Bb2 trapping the rook
+[12:06:00] knightfury21: Never mind
+[12:09:49] glennjamesmax: I think 29...Qxa2 was better
+[12:12:06] glennjamesmax: 30.Bxb4 also Be4 is an unfortunate square now old idea Ng5-Qh4 is there and no time to stop it with h5
+[12:15:24] nyanners: is that just winning
+[12:16:09] mennonite: 32.Qh4 h5 33.Rc5 Qxc5 34.dxc5 Rxd1+ 35.Kf2 and Black has to have something, right?
+[12:16:09] glennjamesmax: 32. Qh4 should end it as after he stops mate Nxe4 And Qxd8+ is lethal.
+[12:16:24] mennonite: oh I overlooked the much simpler solution
+[12:17:10] nyanners: unfortunate square indeed
+[12:17:56] pineapplechiffoncake: Gg
+[12:21:59] likespace_bot: Funny game
+[12:22:15] glennjamesmax: Yeah, I just caught you in opening prep
+[12:22:30] glennjamesmax: That takes some time adjusting that everyone can see your lines and pick something
+[12:23:00] glennjamesmax: but Qf2 was very lazy, else it was positionally winning but it became very chaotic afte
+[12:23:15] likespace_bot: Yes, thank you, I really didn't know about this hole in repertoire)
+[12:24:01] glennjamesmax: In general all variations of Grand Prix attack somehow it's uncomfortable. Was looking at lot of your games.
+[12:26:03] likespace_bot: In Qxa2 I thought the bishop is hanging, hah. Really didn't see rook
+[12:26:33] glennjamesmax: Oh..
+[12:29:36] likespace_bot: It's cool, than slow controls like this give really much thoughts about hardworking after games
+[12:29:51] likespace_bot: , that*
+[12:30:52] glennjamesmax: Yeah, you played very well though. I was super impressed
