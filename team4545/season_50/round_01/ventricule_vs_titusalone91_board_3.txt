@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/Gr04naOe
+White     : ventricule
+Black     : titusalone91
+Time      : 45+45
+Captured  : 2026-09-22 22:16:58 UTC
+Game ended : 2026-09-22 20:56:50 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[19:05:40] ventricule: 3. ... d5 is the best move I think but nobody plays it because it just wastes a tempo
+[19:06:25] ventricule: I'm a tempo up, but the stonewall is bad enough that it's just about equal I think
+[19:07:26] genturgidson: Go ventricule!
+[19:11:45] bxvrc2lh: Let's go
+[19:12:31] bxvrc2lh: Titus - for the brotherhood
+[19:24:57] nyanners: i am a stonewall hater but d6-d5+e6+Be7 id take white
+[19:26:29] nyanners: no b6 Ba6 plan, either
+[19:27:29] nyanners: i think white can go for any of the degenerate plans, g4, or Rf3 Rh3
+[19:28:15] nyanners: Nf3 i dislike as it enables Ne4 and blocks the other attack routes
+[19:31:33] shurbz: Titus titus!
+[19:40:27] genturgidson: Ventricule ventricule!
+[19:54:09] nyanners: white playing a bit too routinely which is, like, not bad. not good either. but not bad
+[20:32:28] nyanners: 19..Nxe5 was worth considering
+[20:33:29] nyanners: here white can bail with Nx if Qh5 doesnt work
+[20:34:30] nyanners: though it might be a bit uncomfy. black played well
+[20:39:19] nyanners: black's file seems worth more
+[20:39:35] nyanners: white doesnt have the right pieces to checkmate
+[20:42:37] nightsub: Qe5 coming?
+[20:48:13] nyanners: resourceful
+[20:56:05] nyanners: gg
+[20:57:36] ventricule: I misevaluated the situation after move 21. and completely lost my footin
+[20:57:36] ventricule: g
+[20:58:22] titusalone91: yeah. was expecting bxh7 at some point tbh
+[20:58:37] ventricule: I spent 10 minutes calculating it but didn't see better than a draw
+[20:58:37] mrscribbles: gg
+[20:58:37] titusalone91: fair enough
+[20:58:37] ventricule: and I felt I could push for more
+[20:59:07] titusalone91: will be interesting to see the analysis
+[20:59:23] ventricule: statically, going for fewer pieces with your bad bishop against my good bishop looked better
+[20:59:38] titusalone91: dont think either of us were ever that far ahead. even if it felt like you were pushing
+[20:59:38] ventricule: but this b-file was a major headache
+[20:59:53] titusalone91: yeah that was my real compensation for all yopur activity
+[21:00:23] ventricule: It's funny that you went for 3. ... d5
+[21:00:23] ventricule: noone ever does
+[21:00:23] ventricule: I suppose that you did your homework
+[21:00:23] titusalone91: haha
+[21:00:39] titusalone91: i looked at it and saw equal
+[21:00:39] titusalone91: (before game, correct)
+[21:01:09] titusalone91: going to the stonewall not something i enjoyed
+[21:01:24] titusalone91: my preference was for the other lines
+[21:01:39] ventricule: It's good for me, I need to practice these stonewall setups
+[21:01:55] ventricule: With 1 free tempo it should be ok
+[21:02:25] titusalone91: i mean i thought i was happy with it but then your e5 knight is controlling a lot. thought the eval would favour you more
+[21:02:40] titusalone91: felt like you had a dangerous attack somewhere
+[21:02:56] titusalone91: but looking at engine perhaps not. and as you say you looked at bh7 stuff
+[21:03:41] titusalone91: hopefully will be instructive for me
+[21:04:12] titusalone91: lots of tension in it which then evaporated into an endgame
+[21:06:59] ventricule: you defended well, without panicking. Kudos
+[21:07:14] ventricule: looks like 20. Bxh7+ wasn't even a draw
+[21:07:45] titusalone91: many thanks. well played. if its any consolation i felt i was playing for a draw for lots of it
+[21:08:00] ventricule: good luck for the rest of the league!
+[21:08:30] titusalone91: you too mate
+[21:09:01] nyanners: this is a tricky thing because your "good bishop" needs time for a pawn break to work
+[21:09:16] titusalone91: white or black @nyanners ?
+[21:09:16] nyanners: white's
+[21:09:31] titusalone91: ok yes
+[21:09:31] nyanners: black's structure completely negates the white bishop in the meanwhile and the black bishop can even be useful to defend f7/go to a4 maybe
+[21:09:46] nyanners: game demonstrated that well
+[21:10:01] nyanners: like somehow its the white bishop thats out of squares
+[21:10:01] titusalone91: yes instructive bit of structure
+[21:10:17] titusalone91: for all its objective 'goodness' it needs something to bite on
+[21:10:17] nyanners: so you need like e4 and probably Bd1 Bf3
+[21:10:32] nyanners: Bb1 is death
+[21:10:32] titusalone91: and if h7 doesnt work then its a bit lost
+[21:10:47] titusalone91: right
+[21:10:47] nyanners: but yeah after white gets Bf3 e4 then itd have a lot of potential
+[21:11:17] titusalone91: cool i see - thanks
