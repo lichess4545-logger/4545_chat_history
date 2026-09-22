@@ -1,0 +1,131 @@
+Lichess game chat log
+Game      : https://lichess.org/9yCExJJw
+White     : cosmoaps
+Black     : nrv773
+Time      : 45+45
+Captured  : 2026-09-22 17:06:42 UTC
+Game ended : 2026-09-22 15:46:35 UTC
+Messages  : 121
+────────────────────────────────────────────────────────────
+
+[14:03:55] pavonine: Goooo cosmo
+[14:07:13] micomps: go on nrv773!
+[14:09:45] micomps: Did black not have 6...Qxh4?
+[14:21:42] micomps: (12.Bg5) maybe something like ...f5 now? Looks risky but otherwise how else to get castled
+[14:26:00] feet_barbie: (12...Rg8) interesting london
+[14:31:20] davidsifre: Develop the DSB and allow bishops to be exchanged so Queen can line up with the rook.
+[14:31:51] feet_barbie: (13.Bh4) u lose f7
+[14:31:51] feet_barbie: (13.Bh4) and everything
+[14:32:06] davidsifre: This is how I play.
+[14:32:21] feet_barbie: (13.Bh4) i see xD
+[14:32:21] micomps: Right idea though - maybe f5 now and swing the queen over
+[14:32:36] feet_barbie: (13.Bh4) yeah i dont mind black the g file open and all that
+[14:33:22] giziti: (13.Bh4) black is stuck in the center and it's awkward but white can't really get more pieces in there
+[14:34:23] davidsifre: F5 Qh5+ doesn’t look healthy for black.
+[14:34:53] giziti: (13.Bh4) f5 Qh5 Qf7, maybe okay
+[14:34:53] feet_barbie: (13...e5) it does either rg6 or even qf7 are both fine
+[14:35:24] feet_barbie: (13...e5) i prefer black all day
+[14:35:24] feet_barbie: (13...e5) before e5
+[14:35:24] giziti: (13...e5) opening the center while stuck in the center doesn't sound like a great idea
+[14:35:39] micomps: nice clarification there feet
+[14:35:54] feet_barbie: (13...e5) no this seems bad help
+[14:35:54] davidsifre: Conventional wisdom says don’t open up the center before castling.
+[14:36:10] davidsifre: BUT, rules are made to be broken.
+[14:36:40] micomps: I don't like it but...is dxe Nxe5...fine?
+[14:36:55] feet_barbie: (13...e5) yeah but dont take e5 chill nc3
+[14:36:55] micomps: Maybe white just plays something like Nd2 or Nc3 and develops
+[14:37:10] giziti: (13...e5) Nc3 is threatening now
+[14:37:26] feet_barbie: (13...e5) how can black defend d5 and f7
+[14:38:42] feet_barbie: (13...e5) but nc3 not the easiest move to play rn
+[14:38:42] feet_barbie: (13...e5) so we ll see
+[14:38:57] feet_barbie: (13...e5) especially for a london player xD thats why Jobava >
+[14:39:12] davidsifre: It’s easy. Very natural square to which one develops a knight. :)
+[14:39:43] feet_barbie: (13...e5) yeah but london players prefer c4 or c3 and the knight stops it and e5 invites dxe5 and c4 breaks right now
+[14:40:13] feet_barbie: (14.Na3) u see
+[14:40:13] feet_barbie: (14.Na3) xD
+[14:40:28] feet_barbie: (14.Na3) typical london maneuver
+[14:40:59] giziti: (14.Na3) okay?
+[14:41:29] giziti: (14.Na3) that is a legal move
+[14:41:44] giziti: (14.Na3) are they thinking c4?
+[14:53:41] micomps: (15.Qf4) Rg4 now?
+[14:54:42] time_lord19: (15...Rg4) Lets go Cosmoaps
+[14:58:15] feet_barbie: (16...Bh6) uuh threatens bxe3
+[14:58:30] kayrosas: black setup feels a bit weird
+[14:59:01] kayrosas: how is the king getting out of the centre
+[15:00:48] kayrosas: didn't even consider allowing Bxe3, but looks good for white
+[15:00:48] micomps: Could the king run to h8 and bring the a8 rook over?
+[15:01:03] micomps: Oh, nevermind
+[15:01:03] kjar: Bxe3 Qxe3 Rxh4 Qg5 and the threat is Qg8+?
+[15:01:18] kjar: black has Qe7 though
+[15:01:18] micomps: Qe7 just about saves it
+[15:01:49] feet_barbie: (18...Rxh4) repetition?
+[15:01:49] feet_barbie: (18...Rxh4) xd
+[15:01:49] kayrosas: Qe7 Rf6
+[15:02:04] kayrosas: Rh5, hm
+[15:03:05] feet_barbie: (18...Rxh4) @kayrosas  i m waiting for your next blogpost
+[15:04:06] kayrosas: hm, maybe if I reach the levels of boredom I had back then
+[15:04:21] kayrosas: but I appreciate it
+[15:05:37] kayrosas: oh there is 19.Qg5 Qe7 Rf6 Rh5 Qg8 Qf8 (Kd7 Qg7) Qg4 Qe7 Raf1, should be strong
+[15:07:39] feet_barbie: (19.Qg5) kd7 u dont have rf7?
+[15:08:25] feet_barbie: (19...Qe7) no ok u meant the move earlier maybe i m misvisualizing
+[15:08:55] feet_barbie: (19...Qe7) so maybe qg7 rg8
+[15:08:55] micomps: Maybe Rh6 after Qg4 in your line Kayrosas?
+[15:09:56] kayrosas: true
+[15:11:28] kayrosas: yea Rg8 works there I guess, weird stuff
+[15:11:28] feet_barbie: (20.Qxd5) maybe qg8 qf8 qg3 nb5 its what they planned with na3
+[15:11:28] feet_barbie: (20.Qxd5) gigabrain
+[15:12:13] micomps: 20...Rd8 now looks fine
+[15:12:13] micomps: King chilling
+[15:12:13] kayrosas: Qxd5 was definitely played a bit too quickly. lots of stuff to consider
+[15:12:44] tactix47: (20.Qxd5) This looks optimistic, ...Rd8 and ...Rxd4 / ...e3 ideas
+[15:12:59] feet_barbie: (20...Rd8) still black had a tactical shot and is now worse somehow
+[15:12:59] feet_barbie: (20...Rd8) :(
+[15:14:30] kayrosas: there's a world where black is better now. but no idea if it's ours
+[15:17:49] feet_barbie: (21.Qb5) psychologically better
+[15:19:05] feet_barbie: (21...Qb4) again qg5?
+[15:19:20] giziti: (21...Qb4) or maybe Qf5
+[15:19:51] giziti: (21...Qb4) i still don't know why the knight is on a3
+[15:20:21] kayrosas: c3 also possible
+[15:20:36] feet_barbie: (22.Qf5) because in the london you usually play c3 xd
+[15:20:51] feet_barbie: (22.Qf5) wow qf5
+[15:21:07] micomps: I have no idea who is winning here
+[15:21:37] micomps: I mean, white threatens mate in one but if black can just co-ordinate a little
+[15:21:37] time_lord19: (23.Kh1) I would saw black is slightly better
+[15:21:52] giziti: (21...Qb4) I guess Qd7?
+[15:22:08] feet_barbie: (23.Kh1) also nb5 starting to look cute
+[15:22:23] time_lord19: (23...Ne5) Qd7 loses instantly
+[15:22:23] giziti: (23.Kh1) oh right
+[15:22:38] micomps: I'd have been tempted to play Qd5
+[15:23:09] giziti: (23...Ne5) okay Ne5 can't be the way
+[15:23:09] kayrosas: 24.Nb5
+[15:23:24] kayrosas: hm
+[15:23:39] feet_barbie: (23...Ne5) what about some rd1 too
+[15:23:55] kayrosas: yes
+[15:24:25] feet_barbie: (23...Ne5) instawin
+[15:24:40] feet_barbie: (23...Ne5) ng4 stuff almost work but doesnt
+[15:24:56] feet_barbie: (23...Ne5) that rh4 is blacks bane
+[15:25:26] feet_barbie: (24.Rad1) so uncoordinated and impossible to defend
+[15:25:26] feet_barbie: (24.Rad1) and he finds it good game by white damn
+[15:25:56] feet_barbie: (24.Rad1) rxd1 qxe5 :(
+[15:25:56] feet_barbie: (24.Rad1) brutal
+[15:26:12] feet_barbie: (24.Rad1) omg
+[15:26:42] feet_barbie: (24.Rad1) still the only chance if white just takes on d1 its almost playable
+[15:26:57] feet_barbie: (24.Rad1) cant just lose a rook
+[15:27:13] kayrosas: Qc5 is an attempt also. but I would guess white finds that
+[15:27:28] feet_barbie: (24.Rad1) qxd1 rxe5 is m5
+[15:27:58] kayrosas: 25.Nc4
+[15:28:14] kayrosas: or Rxd8
+[15:28:29] micomps: or Qg5
+[15:28:29] kayrosas: or Qf6
+[15:28:44] feet_barbie: (25.Rxd8+) yeah maybe qc5 was best hoping for qf6
+[15:29:14] feet_barbie: (25.Rxd8+) fun game!!
+[15:29:30] kayrosas: yep
+[15:30:46] giziti: (26.Qg5+) interesting to try to find the best knockout here
+[15:37:49] time_lord19: (31...Ke7) Rf5?
+[15:42:28] giziti: (26.Qg5+) Qh7 Qg8 Qg7 Rh8 #
+[15:44:29] time_lord19: (34...Kd7) Bring it home cosmo
+[15:45:19] giziti: (36.Qg8+) Qg7 premove Qxh1
+[15:46:05] giziti: (36...Ke7) this also works
+[15:46:05] time_lord19: gg
+[15:46:35] micomps: gg
+[15:47:06] tactix47: gg
