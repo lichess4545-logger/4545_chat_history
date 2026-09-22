@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/ADaG29wb
+White     : zal667
+Black     : bpack
+Time      : 45+45
+Captured  : 2026-09-22 22:29:11 UTC
+Game ended : 2026-09-22 21:09:03 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[19:02:53] tommeketoch: let's go bpack
+[19:15:49] inter-temporal: (8...b6) go Bpack!
+[19:45:17] pineapplechiffoncake: Go Bpack!
+[19:46:33] jokicinator15: (13.Nxd5) you got this bpack
+[19:53:24] jokicinator15: (17.f5) oof
+[19:53:24] jokicinator15: (17.f5) Nf6?
+[19:53:40] jokicinator15: (17...Nf6) yeahhh
+[20:01:47] inter-temporal: (19.Qd3) i wonder if B would let me share a pattern with him re file-opening...
+[20:05:51] inter-temporal: (20.Qc3) should we go grab that N
+[20:06:21] inter-temporal: (21...Kxf7) B has B-pair on open board as comp.
+[20:06:21] inter-temporal: (21...Kxf7) oh my
+[20:06:36] inter-temporal: (21...Kxf7) is Kf7 safe?
+[20:07:07] jokicinator15: (21...Kxf7) i liked Bx more
+[20:07:07] inter-temporal: (21...Kxf7) if so, then great move. if not, then wth? lol
+[20:07:22] jokicinator15: (21...Kxf7) but I dont see any immediate threats to the king
+[20:07:22] inter-temporal: (21...Kxf7) maybe good risk. hard to know
+[20:07:53] bpack: two bishops, vut-else!?
+[20:08:23] inter-temporal: (21...Kxf7) yeh. point 'em at the K. caveman style
+[20:08:53] bpack: (20) any valid Ng4 ideas around here, prior to going after Nh8
+[20:09:54] inter-temporal: (21...Kxf7) Bc5+, Be3 Ne4 looks interesting, but always gotta watch for f5-f6
+[20:11:26] inter-temporal: (22.Bf4) ...Qb6+, Be3 Bc5, Bxc5 Qxc5+, Kh1 Ne4,
+[20:11:56] inter-temporal: (22...Qb6+) then Qd2 Rd8 maybe. idk
+[20:12:11] inter-temporal: (22...Qb6+) so not Qd2 there but somewhere else
+[20:12:11] inter-temporal: (22...Qb6+) duh. the Ne4 hits d2
+[20:12:42] inter-temporal: (22...Qb6+) i think there Qe1 may be required
+[20:12:57] inter-temporal: (22...Qb6+) but then Re8.
+[20:13:12] inter-temporal: (23.Kh1) scratch all that and get me more coffee please! :)
+[20:13:43] inter-temporal: (23.Kh1) still ...Ne4!?
+[20:14:13] jokicinator15: (23.Kh1)Ne4!!!
+[20:16:46] oachkatzerlschwoaf: go bpack
+[20:24:38] oachkatzerlschwoaf: surely Ne4 must still be good?
+[20:25:08] oachkatzerlschwoaf: follow up bc5
+[20:27:56] inter-temporal: (24.Qd2) might be considering Rd8 or Re8 or smth
+[20:29:27] jokicinator15: (24...Qxb2) might bea bit greedy>
+[20:29:27] jokicinator15: (24...Qxb2) ?
+[20:29:42] jokicinator15: (24...Qxb2) gives the a1 rook a role now
+[20:29:57] jokicinator15: (25.Rfb1) that ones better lol
+[20:33:00] jokicinator15: (27.Rxf6+) uh oh
+[20:33:31] inter-temporal: (27.Rxf6+) defender tactics
+[20:34:32] semlegesnev: Nice find! The King will also be exposed on f6 now
+[20:35:33] semlegesnev: Re8 only move
+[20:41:08] semlegesnev: And now Qc6 +-
+[21:00:25] semlegesnev: It is important to note that h3 doesn't stop checkmate for White, Qe1+ Kh2 Bg1+ Kh1 Bf2+ Kh2 Qg1#
+[21:00:25] jokicinator15: (31...Kf8) free pawn for white on a6 :)
+[21:00:56] jokicinator15: (31...Kf8) solid line semleg
+[21:01:26] semlegesnev: It is actually not so easy to stop mate here for White
+[21:02:42] jokicinator15: (31...Kf8) very cut throat position for both
+[21:02:57] semlegesnev: g3 Qe1+ Kg2 Qe2+ Kh3 Qh5+ Kg2 Re2+ Kf1 Qf3+ Kg1 Qg2#
+[21:03:28] semlegesnev: Oh nvm, f3 is covered lmaooo
+[21:03:58] semlegesnev: Nevertheless, Rf2+ Kg1 Qh2#
+[21:04:59] semlegesnev: Not so easy to find a mate in ~ 7 like that, but the moves are somewhat natural
+[21:05:15] semlegesnev: Qe1+ Kh2 Qh4# unforch
+[21:05:15] jokicinator15: (32.h4) is this not just M2?
+[21:05:30] jokicinator15: (32.h4) cmon bpack
+[21:05:45] inter-temporal: (32.h4) huh
+[21:06:00] semlegesnev: I am convinced the number of viewers from the opposite side is putting pressure on our players who are forced to play away
+[21:06:15] semlegesnev: Ref!
+[21:06:15] jokicinator15: (32.h4) hahaha
+[21:06:46] petro2: But seriously, do you see a way to stop the checkmate?
+[21:07:01] semlegesnev: Nope
+[21:07:01] jokicinator15: (32.h4) no
+[21:07:16] semlegesnev: Time pressure and praying
+[21:07:16] semlegesnev: I manifest Re1+
+[21:08:02] petro2: Oh no
+[21:08:02] jokicinator15: (32...Qe1+) yes!
+[21:08:33] jokicinator15: gg
+[21:08:48] semlegesnev: What a chaotic game, gg!
+[21:08:48] inter-temporal: (33.Kh2) gg
+[21:09:18] oachkatzerlschwoaf: oh damn
+[21:09:18] oachkatzerlschwoaf: I missed it
+[21:09:18] oachkatzerlschwoaf: gg both
+[21:09:33] inter-temporal: dramatic
