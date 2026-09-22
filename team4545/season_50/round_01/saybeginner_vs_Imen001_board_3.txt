@@ -1,0 +1,187 @@
+Lichess game chat log
+Game      : https://lichess.org/wlHB7zg0
+White     : saybeginner
+Black     : imen001
+Time      : 45+45
+Captured  : 2026-09-22 01:49:11 UTC
+Game ended : 2026-09-22 00:29:02 UTC
+Messages  : 177
+────────────────────────────────────────────────────────────
+
+[22:10:26] lordziax: WOOO Lets start S50 for the Rookies
+[22:14:15] feet_barbie: (5.Nf3) e6 interesting
+[22:14:30] feet_barbie: (5...c5) some sort of novelty
+[22:20:05] kayrosas: looks a bit like a french now
+[22:24:54] castling-companion: or like a strange alapin maybe?
+[22:26:41] kayrosas: yea. but b6 makes me wanna stick with the french comparison :)
+[22:27:11] castling-companion: Nb3 i dont get. Nc4 is a better square Id say
+[22:27:26] kayrosas: very typical moves by black so far for the rubinstein french (e4 e6 d4 d5 Nc3 dxe4)
+[22:28:43] kayrosas: 10.cxd4 is surprising. I thought Nb3 was specifically to take on d4 with it
+[22:29:13] kayrosas: now the only moves the Nb3 has are backwards
+[22:29:28] castling-companion: ture
+[22:29:44] castling-companion: true*
+[22:30:14] castling-companion: Acutally they transposed to a Alapin line: 1. e4 c5 2. c3 d5 3. exd5 Nf6 4. d4 Nxd5 5. Nf3 e6 6. Be2
+[22:30:29] kayrosas: :o
+[22:31:30] castling-companion: although Bd3 seems more natural to me, especially if he wants to play IQP structures
+[22:32:46] kayrosas: yea 3 of white's minor pieces are kinda misplaced given the structure
+[22:36:19] castling-companion: yeah. Nb3 is a problem. Nbd2 back might be best at some point
+[22:38:06] nyanners: bet on b. but not too much
+[22:39:37] nyanners: in fact, never bet beyond your means
+[22:39:37] kayrosas: based on vibes Nxe3 felt a bit preemptive. the one thing Nb3 does is defend d4, so this structure isn't too vulnerable
+[22:40:08] nyanners: its more like okay white wasnt going to move it
+[22:40:38] nyanners: i thought the main thing Nxe3 does is enable Bg5 but that seems whatever
+[22:41:09] nyanners: maybe its getting there now :o
+[22:41:24] nyanners: of course you could also play with Bd6 but then e4 is stronger
+[22:42:25] kayrosas: would've preferred Qd2 I think so no Nf4 after e4
+[22:42:55] nyanners: Bg5 difficult to evaluate
+[22:43:26] nyanners: if youre lazy you could go Nb4 i guess
+[22:43:26] nyanners: because Bb1 Ba6
+[22:43:41] nyanners: so just claim bishop pair but its not the best ever
+[22:43:56] kayrosas: Nx and Rf3 would be nice if it doesn't blunder anything
+[22:43:56] kayrosas: *after Bg5
+[22:44:27] nyanners: yea Rg3 probably works
+[22:45:12] kayrosas: i don't play iqps enough, so my analysis could be wrong but
+[22:45:28] kayrosas: feels like black is trying to force too much. now white has a clear plan
+[22:48:46] castling-companion: he always has Rg3 tempi, I dont see anything for Black after Rf3
+[22:50:02] kayrosas: 17.e4 should be too weakening tho. Nf4 Qf3 Nxd3 Qxd3 f5 maybe. but the structure is also good for black, no need for something forcing
+[22:50:17] kayrosas: Nb3 is still sad
+[22:51:18] kayrosas: also 17...Nf4 Qf3 Nxg2 Qxg2 Qe3 maybe
+[22:52:34] kayrosas: oh, Nf4 Qd2 maybe
+[22:52:34] castling-companion: Nf4, Qd2, Nh3, Kh1 dont see anything for Black
+[22:52:49] castling-companion: same thought ;-)
+[22:53:35] kayrosas: Qd2 feels rude, the Nb3 doesn't deserve to have a point
+[22:53:35] castling-companion: haha
+[22:59:56] kayrosas: just watching this d4 pawn is stressing me out
+[22:59:56] fischerforlife: The d4 pawn is not looking very solid right now
+[23:02:13] computability: Nf3 then Rfc1 seems solid to me
+[23:07:48] castling-companion: @Kayrosas if needed just Nf3, d4 can never be an issue then
+[23:11:06] fischerforlife: Is 22...Ng4 a problem?
+[23:11:06] fischerforlife: Nvm
+[23:13:23] castling-companion: Ng4, g3- if Qe3, Qx, Nx, h3 might trap the knight, if Qg5, Nf3 looks good?
+[23:38:15] nyanners: aw really wanted to see Qh1
+[23:38:30] nyanners: maybe a repetition
+[23:43:50] inter-temporal: (31.Be4) interesting game!
+[23:49:25] flipiflapi: (31...Bc6) wow what a party
+[23:52:28] kayrosas: it's always nice to see how ressourceful people are in long games
+[23:52:43] flipiflapi: (32...Nb4) very, except when you arent and blunder the game away early
+[23:52:58] flipiflapi: (32...Nb4) kay you been in the league for a few seasons now?
+[23:53:29] kayrosas: 3rd one after returning now, tho I only played 1.5 seasons in my first tenure
+[23:53:59] flipiflapi: (32...Nb4) ah kk
+[23:54:15] flipiflapi: (32...Nb4) wonder if white has chances if they trade everything
+[23:54:30] flipiflapi: (32...Nb4) coz of the off-centre mid pawn and king marginally better may be (if true)
+[23:54:45] kayrosas: Bxc6 Nxc6 Ne8 could be something
+[23:55:16] flipiflapi: (32...Nb4) f6 does look juicy
+[23:55:16] kayrosas: but if it's nothing d4 falls
+[23:55:31] kayrosas: maybe
+[23:56:01] flipiflapi: (32...Nb4) has to be kh8 though no?
+[23:56:16] flipiflapi: (32...Nb4) oh not quite
+[23:59:04] metalpawn: 33.Qf6 look interesting
+[23:59:34] metalpawn: with idea Ne8
+[00:00:05] kayrosas: i think black is quick enough there with Qc2+
+[00:01:21] flipiflapi: (33.Bxc6) Bxc Nxc Qf6
+[00:01:36] flipiflapi: (33.Bxc6) is the d4 drop that seems so tempting
+[00:02:37] flipiflapi: (33...Nxc6) oh you got Qa8+ as well
+[00:02:37] mennonite: ne8 has to be a candidate move here
+[00:03:08] flipiflapi: (33...Nxc6) d4 poisioned no?
+[00:03:08] mennonite: I'm not sure if it's quick enough though
+[00:03:08] flipiflapi: (33...Nxc6) ]ne8 nxd4 nf6+ and Qa8+
+[00:03:23] kayrosas: Ne8 Nxd4 Nxc7 ^^
+[00:03:53] flipiflapi: (34.Qe4) oh that makes more sense XD
+[00:04:08] flipiflapi: (34.Qe4) woah gotta sharpen up with this return to the league. gotta gobadly
+[00:04:08] feet_barbie: (34.Qe4) go flipiflapi
+[00:04:24] flipiflapi: (34.Qe4) hey feet
+[00:04:24] flipiflapi: (34.Qe4) watch my lines
+[00:04:24] flipiflapi: (34.Qe4) though i really think that one was crushing
+[00:04:54] kayrosas: really wonder if Ne8 does enough. 34.Ne8 Qc8 Nf6 Kg7 and maybe Qc3? pin, and some hope of d5 ed5 e6
+[00:05:25] kayrosas: Ne8 Qb7 also possible ofc
+[00:05:40] flipiflapi: (34...Qd7) but probably its crushing coz the main point of taking queens is crushing nway
+[00:06:10] flipiflapi: (34...Qd7) damn you kay
+[00:06:10] flipiflapi: (34...Qd7) damn take pawn XD
+[00:06:56] kayrosas: one of those games where I'm glad I'm not playing
+[00:07:11] feet_barbie: (35.a3) when d5?
+[00:07:27] kayrosas: too much stuff happening, yapping in the spectator chat is more comfy
+[00:08:27] flipiflapi: (35.a3) this is clearly where the real fun happens ^^
+[00:09:59] kayrosas: otb events would be so much more fun if there was an equivalent of spectator chat
+[00:10:14] inter-temporal: (35.a3) and whispers
+[00:10:29] kayrosas: yes!
+[00:11:00] metalpawn: ...f5
+[00:12:31] flipiflapi: (36...Kg7) gotta take lil man for a walk so see you on the phone :D
+[00:12:31] feet_barbie: (36...Kg7) i have seen multiple people whispering otb around the board ahaha
+[00:12:31] flipiflapi: (36...Kg7) spec chat keeps delivering
+[00:12:31] flipiflapi: (36...Kg7) lolol
+[00:12:46] flipiflapi: (36...Kg7) seen players whipser at the board XD
+[00:13:02] inter-temporal: (36...Kg7) careless whispers
+[00:13:17] kayrosas: Kg2 also careless maybe?
+[00:13:32] feet_barbie: (37.Kg2) horse whisperer
+[00:14:18] kayrosas: hm, maybe 37...Qc6+ isn't as good as I thought bc white has Nc8
+[00:15:04] feet_barbie: (38.Ne8+) mmh
+[00:15:19] kayrosas: a bit dicy for black now
+[00:15:34] nyanners: i was thinking if black is winning xd
+[00:15:34] inter-temporal: (38...Kh6) probably why Kg2 was played
+[00:15:49] feet_barbie: (38...Kh6) yeah something dropping
+[00:15:49] nyanners: d4 is hanging and Ng7 holds
+[00:16:04] kayrosas: Nf6 Qxd4 Qf8 Ng7 Ng8
+[00:16:04] kayrosas: probably drow?
+[00:16:20] nyanners: sounds about right
+[00:16:50] feet_barbie: (38...Kh6) nd6 back?
+[00:16:50] kayrosas: if there is any way to escape the checks maybe Qg8 instead of Ng8
+[00:17:21] nyanners: this is kinda funny. i almost like it
+[00:17:51] inter-temporal: (39.Nd6) cute
+[00:18:21] nyanners: the thing is like.. so what
+[00:19:38] inter-temporal: (40.Qf8+) next phase
+[00:19:53] feet_barbie: (40.Qf8+) this is what i was thinking ahah but idk black must have some perpetual at least or
+[00:20:23] kayrosas: yea
+[00:20:23] metalpawn: nice
+[00:20:54] computability: I was thinking Qxd6
+[00:20:54] kayrosas: black king would be better on h5 than g5 i think
+[00:21:24] nyanners: this is more vulnerable but closer to the action
+[00:21:39] nyanners: could randomly lose to qe7 though
+[00:21:39] inter-temporal: (41...Qc6+) more drama!
+[00:21:39] kayrosas: Qc6 Kh3 would allow for Qf3 without problems. but I guess here Qf3 too and Qe7+ f6, whatever
+[00:21:55] feet_barbie: (41...Qc6+) how do u not get perpetualized at least
+[00:21:55] kayrosas: Kh3 might be losing even? not sure
+[00:22:40] nyanners: does seem like mating net
+[00:22:40] inter-temporal: (41...Qc6+) holy cow!
+[00:22:56] kayrosas: :o
+[00:23:11] nyanners: just one optical illusion to dispel
+[00:23:11] nyanners: and seeing the mating net
+[00:23:26] nyanners: quite a lot to ask tbf
+[00:23:26] feet_barbie: (42.Kh3) mmh
+[00:23:41] feet_barbie: (42.Kh3) qf3
+[00:23:57] metalpawn: 42...Qc4
+[00:24:12] inter-temporal: (42...Qe4) perpet net
+[00:24:12] nyanners: not sure if qxf7 is even perpetual
+[00:24:42] inter-temporal: (43.Qe7+) oh no
+[00:24:42] nyanners: the geometry wasnt geometrying
+[00:24:42] feet_barbie: (43.Qe7+) why not qf3
+[00:24:42] nyanners: like qe2 qf2 qe4 and is over
+[00:24:42] inter-temporal: (43.Qe7+) geometry harder
+[00:24:57] feet_barbie: (43.Qe7+) here f6
+[00:25:13] inter-temporal: (43...f6) oof
+[00:25:13] nyanners: not good when you force opp to play the good move
+[00:25:43] nyanners: but well, its unclear where this geometry is going. i feel black only wins with qf3
+[00:25:58] nyanners: but black might just be looking for draw
+[00:26:14] nyanners: yea this might "force" a draw
+[00:26:29] kayrosas: white can still force a loss :)
+[00:26:29] nyanners: now you gotta do the thing
+[00:26:44] nyanners: gg
+[00:27:00] inter-temporal: (45...Qe2+) gg
+[00:27:00] feet_barbie: (45...Qe2+) ggggggggggggggggg
+[00:27:16] mennonite: Kh1 would be funny
+[00:27:16] nyanners: it would........
+[00:27:16] kayrosas: kh3 as well
+[00:27:16] metalpawn: cruel
+[00:27:31] nyanners: white is considering it
+[00:27:31] nyanners: eyes emoji
+[00:27:46] kayrosas: boo
+[00:28:01] metalpawn: gg
+[00:28:32] nyanners: okay :D
+[00:28:47] nyanners: good
+[00:28:47] inter-temporal: (47...Qe2+) first find candidate moves
+[00:28:47] kayrosas: gg
+[00:29:02] feet_barbie: (49.Kg2) gg
+[00:29:02] inter-temporal: /w (49.½-½Threefold repetition • Draw) good move
+[00:29:02] inter-temporal: gg
+[00:29:18] mrscribbles: gg
+[00:29:18] inter-temporal: gg gg gg
+[00:29:18] feet_barbie: yeah qf33
