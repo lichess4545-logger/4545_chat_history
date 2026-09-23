@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/0Do520Z7
+White     : ponderinsilence
+Black     : pezzo17
+Time      : 45+45
+Captured  : 2026-09-23 04:16:41 UTC
+Game ended : 2026-09-23 02:56:33 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[00:33:38] ponderinsilence: (3.Nc3) I was not sure whether they would play 1... e5 or d5 to start with
+[00:34:08] ponderinsilence: (4.d4) 3... Qd6 was the expected response to Nc3
+[00:34:23] ponderinsilence: (4...Nf6) This move did not come up when looking at their prior games
+[00:44:17] nirakuhakamura: go pezzo
+[00:49:22] pezzo17: (6...Nc6) i'm worried about Bxf3.  I'd like to do Bg4 but i think i cant just yet
+[00:50:23] pezzo17: (6...Nc6) oh i'm upside down.   Bxf7 i mean
+[00:56:13] pezzo17: (7.b3) b3 feels conservative/solid
+[01:01:48] pezzo17: (7...Bg4) i need e6 to protect f7, i might have play on d4, and then there's also Qb4
+[01:03:35] pezzo17: (7...Bg4) if i castle before e6 and they Bxf7, i can just take d4 straight away
+[01:06:07] pezzo17: (8.Ne2) interesting.  that invites a double pawn
+[01:07:23] pezzo17: (8.Ne2) and if they still want f7, i can eventually Rf8 maybe
+[01:09:25] pezzo17: (8.Ne2) are they trying for Bf4?  hm
+[01:13:44] nirakuhakamura: wasn't and still is f7 hanging?
+[01:13:44] pezzo17: (10.Bb2) e5 puts me a pawn down, but i ruin their castle
+[01:15:46] pezzo17: (10.Bb2) i feel like i have a play here, but e6 is safe
+[01:16:01] gavalanche20: Go ponder!
+[01:17:47] pezzo17: (10...e6) expecting Qd2 O-O-O
+[01:18:48] nirakuhakamura: if Qd2 I think you can win the d4 pawn after b5? Weakening own king but probably worth it
+[01:19:34] nirakuhakamura: no, never mind
+[01:20:20] pezzo17: (10...e6) if qd2 maybe i have Ne5
+[01:21:36] pezzo17: (11.Qd2) yeah i like Ne5 here
+[01:22:22] pezzo17: (11.Qd2) cant take. threatens bishop and xf3+
+[01:27:26] pezzo17: (11...Ne5) expecting Qc3 if they want to save their pawn structure
+[01:29:28] pezzo17: (12.Qc3) Nx Qx Qd5 Qx then Nxd5 or exd5
+[01:32:01] ponderinsilence: (13.Qxc4) I feel better about my position than I did a few moves ago
+[01:34:33] pezzo17: (13...Qb4+) idea here is if c3 then maybe that will slow the bishop down?
+[01:36:04] ponderinsilence: (14...Bxb4+) Who allowed premoves in the league?!?!
+[01:39:53] pezzo17: (15...Bd6) pondering e5 or Nd5
+[01:40:23] pezzo17: (16.Ng3) interesting!
+[01:40:53] pezzo17: (16.Ng3) Bf4 is possible now
+[01:45:58] pezzo17: (16...Bf4) was also looking at Nd5 Nf4 Nd3+
+[01:48:00] pezzo17: (17.Bc1) i think i like this bishop trade
+[02:03:14] fulmarsky: Go pezzo!
+[02:03:29] fulmarsky: it's tense!
+[02:03:29] fulmarsky: tense on the 64 squares...
+[02:05:15] pezzo17: (21...Rxe5) this is the part where i wish we were playing 60+0
+[02:05:31] fulmarsky: (21...Rxe5) this is tnese, i feel that black's kingside pawn structure is better
+[02:07:33] fulmarsky: (22.Rfe1) it's a toughy even material, i'm not sure which side is benefited over rook trades
+[02:08:18] fulmarsky: (23.Kf1) Rc2  ...Nf4
+[02:08:34] fulmarsky: (23.Kf1) hence yes, Kf1 steadys the raft for white
+[02:10:51] fulmarsky: (23.Kf1) letteth pezzo giveth way to moves of eloquence, even though one noteth the tall pawns, on those 64 squares hath desserted
+[02:12:52] acebulf: (23...R8e7) this is interesting, what is black trying for?
+[02:14:24] acebulf: uh oh! hotdog!
+[02:14:54] acebulf: Nc3?
+[02:15:55] fulmarsky: (25.Nc3) oh!!!
+[02:16:10] fulmarsky: (25.Nc3) rook trades on e1 and then ...Nd3+ fork
+[02:16:26] fulmarsky: (25.Nc3) oh negative, i'm mistaken
+[02:17:42] fulmarsky: (25.Nc3) big question
+[02:18:12] fulmarsky: (25.Nc3) who will hath the advantage should those rooks tiptoe off of the 64 squares
+[02:19:59] fulmarsky: (25.Nc3) its desperate.....
+[02:21:15] pezzo17: (25.Nc3) is rook trade just a draw
+[02:21:30] acebulf: I think so
+[02:22:16] fulmarsky: (27...Kd7) maybe it's a draw, but it's immensely tense from my perspective of these happenings...
+[02:22:16] ponderinsilence: (27.Kxe1) Is this going to turn into a 3 hour knight endgame?
+[02:23:02] fulmarsky: (27...Kd7) angst ... oooh ooooh ... tenseness....
+[02:25:19] fulmarsky: (30.Ke4) i wonder... let those hands shake, and drawethness encompass those squares, lest the tension continue
+[02:25:19] pezzo17: (30.Ke4) i think Ne4 would have been trouble for me
+[02:32:41] fulmarsky: (32.Nd5) it's tense...
+[02:37:15] basyaar: seems black can drive king away from f3 defense? Kd6,g5-f4?
+[02:37:46] basyaar: oh Ke2
+[02:38:16] basyaar: Kf4 seems risky
+[02:47:24] acebulf: hmm
+[02:49:41] pezzo17: (38...g4) i had hxg premoved, but maybe fxg is better
+[02:50:57] basyaar: white has e5 passed pawn which could help in defending this ppsition
+[02:51:28] basyaar: but king cannot move away due to g4 pawn
+[02:51:28] basyaar: oh Kd4
+[02:53:30] basyaar: both kings kind of stuck; difficult position
+[02:54:46] angrybird029: seems like a draw, no progress can be made?
+[02:56:02] basyaar: yes seems so
+[02:56:18] basyaar: gg
+[02:58:04] pezzo17: gg ponder!   seems i had chances, couldn't convert
+[02:58:50] fulmarsky: gg both, tense chess game
+[03:00:06] ponderinsilence: Thank you for a good game
