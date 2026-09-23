@@ -1,0 +1,60 @@
+Lichess game chat log
+Game      : https://lichess.org/Pt62KhUt
+White     : levier17
+Black     : giziti
+Time      : 45+45
+Captured  : 2026-09-23 17:25:16 UTC
+Game ended : 2026-09-23 16:05:06 UTC
+Messages  : 50
+────────────────────────────────────────────────────────────
+
+[15:00:35] micomps: Go Levier17!
+[15:00:50] giziti: (2...Nc6) I don't know if my opponent has done any prep here
+[15:01:05] giziti: (3.Bb5) he doesn't have many games played
+[15:01:21] giziti: (3...e5) at least not recently. I don't recall seeing this line from him.
+[15:02:52] giziti: (4.O-O) based on taking a moment to think here, maybe no prep.
+[15:04:39] giziti: (4.O-O) Is this the line with the awkward Bd6?
+[15:05:55] giziti: (4...d6) no I think it's d6, with the idea of a6. Nf6, Be7.
+[15:07:41] giziti: (5...a6) hmm I know there's a version of this where I have played Be7 and not d6
+[15:07:57] giziti: (5...a6) so I think I made a mistake
+[15:09:28] giziti: (7...Nf6) so then the pawn on d6 is weaker than it is on d7
+[15:13:16] giziti: (10.Nxd4) so d6 is a weakness and I need to get castled. I also have the immeidate problem of c6 hanging.
+[15:14:02] levier17: i should have play against the d pawn now
+[15:14:02] giziti: (10.Nxd4) do i have something better than Nx and Be7?
+[15:20:53] giziti: (13...Qc7) the self pin is awkward but I'm going places
+[15:22:56] giziti: (13...Qc7) thinking Rd8, Bb7, Qc6 ideas
+[15:24:57] levier17: i have an awesome postion i think. let's see if anything comes out of it
+[15:25:13] giziti: (15.Rac1) that one is annoying, has shades ofBxh7 + ideas
+[15:28:00] levier17: this looks like a cheapo but 16 kd5 looks good?
+[15:28:00] levier17: can f3 be bad for me?
+[15:29:16] computability: (15. Bg4) f3 a little scary.  Black has d5 after
+[15:33:21] computability: Bxh7!
+[15:33:51] giziti: (17...Qa7) Rc6 will be awkward
+[15:34:52] computability: f3 seems ok now
+[15:34:52] giziti: (17...Qa7) maybe Qd7 was better but I don't like Qb6
+[15:35:07] giziti: (17...Qa7) but Qxa7 Rxa7 is also really awkward. should've thought more.
+[15:37:55] giziti: (19...Bf6) maybe Bc8-b7 next
+[15:38:10] giziti: (19...Bf6) but that allows Rc7
+[15:39:11] tactix47: Was 20.Be5 playable?
+[15:41:44] giziti: (22...hxg6) Rc7 and I'm not in good shape
+[15:44:16] giziti: (23...Be5) I don't think tihs can be held
+[15:45:32] micomps: (24...dxe5) I mean, white is better but I would not say this is un-holdable
+[15:46:03] giziti: (24...dxe5) I guess Rc7 Rd6?
+[15:46:48] computability: (24) is it to early for d6?
+[15:47:34] giziti: (24...dxe5) maybe things are close enought that I can trade a rook and go for the d pawn
+[15:48:20] time_lord19: (24...dxe5) Tricky position
+[15:50:37] micomps: Kf2 is a nice move
+[15:54:56] giziti: (27...f6) d6 Kf7 isn't looking great
+[15:55:11] giziti: (27...f6) d6 Kf7 Kd5 and the king is going places
+[15:57:59] levier17: i see too many good options, hard to decide
+[15:58:30] computability: (27...Kf7) now white has Rc7
+[15:59:30] computability: (29.Kd5) that was better
+[15:59:46] levier17: they played fast  in our first match as well, nice to see somethings doesnt change
+[16:01:17] computability: (29.Raa7) Rc2, and then I dont see a way for black to stop Rc7
+[16:02:18] giziti: (30...Ke8) this is just bad
+[16:02:18] time_lord19: (30...Ke8) Rc8+?
+[16:04:20] computability: (30...Ke6) Rc8+ Rd8 31. Ke6
+[16:05:06] levier17: should be able to convert from here
+[16:07:23] giziti: okay yeah 4...Bd6
+[16:07:53] giziti: okay yeah taking on d4 a second time wasn't necessary
+[16:12:28] levier17: Was 20.Be5 playable? i actually looked at that but couldnt see the benefit
