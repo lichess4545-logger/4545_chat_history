@@ -1,0 +1,93 @@
+Lichess game chat log
+Game      : https://lichess.org/40OvMmNz
+White     : wolfattack
+Black     : lc69
+Time      : 45+45
+Captured  : 2026-09-23 22:17:49 UTC
+Game ended : 2026-09-23 20:57:41 UTC
+Messages  : 83
+────────────────────────────────────────────────────────────
+
+[19:57:31] lc69: i think we will play a dutch
+[19:58:02] lc69: first dutch in league :devil:
+[20:00:34] lc69: normally they play some d4 f5 Nc3 so this should make them uncomfortable a bit
+[20:02:36] computability: That felt early to me
+[20:02:36] computability: (4....d5)
+[20:02:36] le_merovingien: Go Lucky
+[20:09:27] computability: (6. Nc6) for white I like Bf4 with the plan of trading knights on E5 to get a bishop outpost in that hole
+[20:13:15] lc69: now we have met all the conditions to throw the h pawn
+[20:13:31] kjar: there is also a plan with Nf1>e1>d3 and Nb1>d2>f3 so that both knights control the e5 square
+[20:15:02] narrenkind: This looks scary!
+[20:15:17] kjar: it certainly does...
+[20:16:49] kjar: g5 is rather easy after h4 - thought maybe Bb2 and Ne5 was the way to go for white...?
+[20:17:04] kjar: now black can just open the position
+[20:17:19] kjar: and Qf6 Bd7 0-0-0 also takes the black king out of any danger whatsoever
+[20:19:06] narrenkind: Hmm this is like a "rapport" dutch, right? I think there you are supposed to play nc3 instead of the usual b3 ba3 plan.
+[20:19:36] lc69: just sac the pawn Bd7 castle long sac on h4
+[20:22:08] narrenkind: Yea thats super nice prep.
+[20:23:55] le_merovingien: Is he going to sac the Rook?
+[20:24:56] le_merovingien: I mean... O-O-O, then Rx Qx, then Rh8...
+[20:24:56] narrenkind: What does white even do against that
+[20:24:56] computability: Yeah after castles it looks great
+[20:25:27] le_merovingien: I got this right?
+[20:26:12] computability: There's a couple loose tempi in the middle while black coordinates pieces that could be problematic
+[20:26:28] le_merovingien: Ah, true.
+[20:27:13] kjar: Nxg3 Qxg3 Rdg8 and black wins the knight back?
+[20:27:29] computability: ((17. f3) White played pretty good prophylactic moves here.  Rook sac seems bad now
+[20:27:29] lc69: ok so Nxg3 obviously gets pawn back, but is there a followe up and or is Ng5 better
+[20:29:00] kjar: at some point there is also a funny idea of Nxd4 ed Qxd4+ - might be a useful double attack or a check
+[20:29:15] lc69: i think likely take g3, Rg8, Rh4
+[20:29:30] le_merovingien: Yes, the Queen move was elegant
+[20:29:30] narrenkind: Yea i was also looking at nxd4
+[20:29:46] computability: (17. Nxg3) !!!!!!
+[20:30:16] le_merovingien: Boom
+[20:30:46] computability: Bravo
+[20:31:47] kjar: Qf2 Rxh4 and now there is also an idea of black playing Qh8 and Rh1# as the bishop is pinned
+[20:32:33] kjar: even this way this is a threat too - Rh4 <random move> Qh8 and now Kf2 Rxg2+ Kxg2 Rh2+ and there is a mate there
+[20:33:19] narrenkind: Is nxd4 an idea again?
+[20:33:34] le_merovingien: Guys, you saw Nxd4?
+[20:33:34] le_merovingien: Oh, well...
+[20:33:49] le_merovingien: I bow to Narrenkind.
+[20:34:04] narrenkind: I dont think it works
+[20:34:04] lc69: ok material is equal, statically im probably a bit worse bc stonewall, but my king is safe, so i need to play dynamically ot do ...
+[20:34:04] lc69: ...something to crystallize the advantages i have
+[20:34:04] kjar: I guess, the question is what does white do to prevent Qh6 or Qh8?
+[20:34:20] computability: I don't like Nxd4 personally.  It opens up space for whites king to run.  Totally winning still but black probably has a mate here
+[20:34:35] computability: Qg_ is also strong
+[20:34:35] lc69: probably i move my queen to a diff square, f4, e5, Bh3
+[20:34:50] computability: strong for black
+[20:35:05] le_merovingien: Yeah, I don't see anything concrete past Nxd4 exd4 Qxd4 Qblock
+[20:35:05] kjar: Kf2 Rh2 Rg1 Nxd4...?
+[20:36:37] kjar: Rf2 Qh6 Kf1 Rh2
+[20:37:07] kjar: actually Qh8 might be better than Qh6, but this is purely intuitive - so that there is that idea of Nxd4 and Q is in contact with d4
+[20:37:07] computability: (20. Rf2) Yeah black should win the queen here
+[20:37:22] lc69: f4 seems like top candidate but obviosuly look at Qh6
+[20:38:23] moccy: Good luck @lc69!
+[20:38:23] computability: Is tere Rxg2??
+[20:39:09] computability: After Rxg2+ theres Kxe2 Qg6+ Kf1 Rh1+ Ke2 Rxf1
+[20:39:24] kjar: but Rxg2 Rxg2?
+[20:39:40] computability: Oh yea
+[20:40:10] mkubecek: (20.Rf2) I was rather thinking about Qh8 Kf1 Rxg2 Rxg2 Rh1+ Kf2 Qh4+
+[20:41:11] narrenkind: That just wins no?
+[20:41:26] mkubecek: (20.Rf2) But it looks like you only win the bishop after Rg3. It feels like there must be more.
+[20:41:26] lc69: f4 is most flexible i think, since we have both e5 and Qh6 still on the cards depending on what white does
+[20:42:57] lc69: yeah f4 is ONLY value add and Qh6  Kf1 Rxg2 doesnt seem to work
+[20:43:13] lc69: and weakening d4 is good
+[20:43:43] le_merovingien: Lucky's emoticon is disturbing...
+[20:44:14] kjar: 20... Qh6 Kf1 Rh2 looked nice to add - the white bishop can't go anywhere and the white king needs to stay and protect it
+[20:44:44] kjar: but f4 is looking good too
+[20:54:08] narrenkind: Now qh8 followed by rxg2
+[20:54:23] lc69: now i am pretty sure this just mates
+[20:55:24] mkubecek: (22...Nxd4) Nxd4 first is a nice twist.
+[20:55:39] narrenkind: Ah even better yea
+[20:55:39] narrenkind: What a game
+[20:57:10] mkubecek: (22...Nxd4) Rh1+ is also a serious threat now.
+[20:57:26] mkubecek: (23.Qc3) Rh1+ Bxh1 Qxh1#?
+[20:57:41] kjar: wow what a game
+[20:57:56] tactix47: gg!
+[20:58:11] narrenkind: Ggs!
+[20:58:26] lc69: aha 8 hours of youtube videos has paid off
+[20:59:12] lc69: this plan with Be7 is really really nasty if you dont know it
+[21:04:17] lc69: unlucky wolf attack i saw you played fianchetto against e6 f5 but normally Nc3 versus dutch
+[21:04:47] lc69: so i had hoped you wouldnt have seen this idea before
+[21:11:07] lc69: oh wow i did not see this awesome Nxd4!! idea
