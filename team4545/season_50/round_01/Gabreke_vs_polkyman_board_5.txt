@@ -1,0 +1,86 @@
+Lichess game chat log
+Game      : https://lichess.org/DRJluVkb
+White     : gabreke
+Black     : polkyman
+Time      : 45+45
+Captured  : 2026-09-23 16:09:00 UTC
+Game ended : 2026-09-23 14:48:51 UTC
+Messages  : 76
+────────────────────────────────────────────────────────────
+
+[14:04:25] kayrosas: let's go polky
+[14:20:10] nyanners: 7..cxd4 into Nb4 deserves a mention
+[14:20:10] nyanners: like cx cx nb4 bb3 bb5
+[14:20:25] nyanners: also on move 9 of course
+[14:20:56] nyanners: as played white should probably be happy but there wont be checkmate
+[14:22:12] selenedeafrodita: i guess that's the reason why Bd3-c2 is kind of suboptimal and a3 is the main line
+[14:22:57] nyanners: something like that :o
+[14:22:57] nyanners: the modern take on this one is to give the d-pawn
+[14:23:28] nyanners: 6..cxd4 O-O
+[14:24:13] nyanners: as played maybe theres 7 dxc5 but that idea isnt played much like below 2000
+[14:24:44] nyanners: the point is you castle and play b4 and deal with the central pressure that way
+[14:24:44] selenedeafrodita: but giving the pawn instead of a3 or only if you've already played Bd3?
+[14:24:59] nyanners: yeah Bd3 is mostly connected with giving the pawn
+[14:25:14] nyanners: because if you try to hold it, something like as played happens
+[14:25:30] selenedeafrodita: yes, i remember there's a Nimzowitsch game on that line
+[14:26:00] selenedeafrodita: I always liked that but never really studied it because I prefer sacrificing pawns and also Black can avoid it taking first
+[14:26:46] selenedeafrodita: would you say cxd4 0-0 is better than cxd4 cxd4 Nxd4 Nxd4 Qxd4 0-0?
+[14:26:46] nyanners: if i recall nimzo liked doing it without c3 even :o
+[14:27:01] nyanners: which is very very interesting though not very theory-approved these days
+[14:27:31] nyanners: good players prefer cxd4 O-O nowadays but cloud engines are also giving 0 on the old milner-barry
+[14:27:47] nyanners: but i havent looked into that much
+[14:30:19] nyanners: ive played both and.. neither really worked too well for me honestly XD
+[14:30:34] nyanners: you do need a bit of specialist knowledge
+[14:31:50] nyanners: but i have friends who score very well in the "modern" line.. but then well, would they score just as well if they studied the old one?
+[14:31:50] nyanners: unclear :p
+[14:31:50] nyanners: chess fashion is a fickle thing
+[14:33:06] nyanners: ne2 nf4 nice
+[14:33:22] selenedeafrodita: i would agree that opening choice is many times just a matter of chess fashion
+[14:33:37] nyanners: 17 exf6 into nxd5 actually
+[14:34:07] selenedeafrodita: how so?
+[14:34:07] nyanners: e-file pin :o
+[14:34:07] nyanners: so black needs to play gxf6
+[14:34:23] nyanners: has to be busted. but dont resign of course
+[14:34:53] selenedeafrodita: ah, yes
+[14:35:08] nyanners: lives another day :D
+[14:35:24] selenedeafrodita: well, now it's the opportunity for fxe5 and i guess dxe5
+[14:35:54] nyanners: umm yeah hard to say. youre probably right but white seems to be benefiting from the tension in the e-file
+[14:36:09] nyanners: but if you play Nxe5 then black is just fine probably
+[14:36:55] selenedeafrodita: or maybe neither player will resolve the tension
+[14:36:55] nyanners: same idea again
+[14:37:25] selenedeafrodita: ah, well now it doesn't work anymore
+[14:37:25] kayrosas: no more :)
+[14:37:41] nyanners: Nf7 live patched
+[14:37:41] selenedeafrodita: but there is nxe6 first
+[14:37:56] kayrosas: Qx should be alright
+[14:37:56] selenedeafrodita: ah, yes, then qxf6
+[14:38:26] kayrosas: the lsb is more like a pawn rn, black wouldn't mind the trade
+[14:38:42] nyanners: black's position is clearly terrible but id give like 30% odds or so
+[14:38:57] nyanners: this seems like the type of position where white can go wrong and it turns around instantly
+[14:38:57] selenedeafrodita: i guess h4 h5 would be a plan
+[14:39:12] nyanners: i like it :o
+[14:41:44] nyanners: black's situation has definitely improved
+[14:42:45] selenedeafrodita: surely
+[14:43:01] nyanners: this seems risky :o
+[14:43:01] selenedeafrodita: and Nxg5 improves it more
+[14:43:01] nyanners: like, white just announced theyre doubling on e
+[14:43:16] nyanners: this could be trouble
+[14:43:16] nyanners: like its not so easy to resolve
+[14:43:31] selenedeafrodita: just Kf7 i guess
+[14:43:46] nyanners: then qb5 rd8 qxb7 or something
+[14:43:46] nyanners: and there might be Ba3..
+[14:44:17] nyanners: so yeah this makes sense
+[14:44:17] kayrosas: Ng5 seemed a bit slow
+[14:44:32] nyanners: but ba3!?
+[14:44:32] kayrosas: unlike the move speed
+[14:44:47] nyanners: too many ideas to defend
+[14:45:18] selenedeafrodita: oh, ba3 kf7 and qg3
+[14:45:33] nyanners: can already just take
+[14:45:48] selenedeafrodita: oh, i just hung my bishop
+[14:46:03] selenedeafrodita: oh, yes
+[14:47:04] nyanners: okay now the odds are like <5% or so :c
+[14:47:19] nyanners: white is covering the back rank but might as well go g3 now
+[14:47:35] selenedeafrodita: i hope so
+[14:48:20] nyanners: gg
+[14:48:20] kayrosas: gg
+[14:49:21] tactix47: gg
