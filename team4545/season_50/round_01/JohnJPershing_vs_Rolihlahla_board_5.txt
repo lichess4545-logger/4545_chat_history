@@ -1,0 +1,151 @@
+Lichess game chat log
+Game      : https://lichess.org/PSyswtjQ
+White     : johnjpershing
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-09-23 23:07:38 UTC
+Game ended : 2026-09-23 21:47:29 UTC
+Messages  : 141
+────────────────────────────────────────────────────────────
+
+[20:01:51] robertjackson: good luck Eric
+[20:02:22] ttsgosadow: Gogo Roli!
+[20:02:22] timothyha: (4.e3) hi team :)
+[20:02:37] jfiras: Our season opener, Good luck Rolihlahla !
+[20:02:37] timothyha: (4.e3) we're 4-0 on spectators so far
+[20:03:38] jfiras: i am expecting we win the spectators match
+[20:04:08] timothyha: (6.exd4) in 4545 it's very important!
+[20:04:23] rolihlahla: hi teammates  :-)
+[20:04:39] timothyha: (6.exd4) brain waves combine and overwhelm the other side
+[20:04:39] ttsgosadow: B2 opening for white looks so weird
+[20:05:09] timothyha: (6.exd4) opening-wise it's ok, but maybe Bg4 now to test them a bit
+[20:05:09] jfiras: (6.exd4) yes i am curious if Ro was expecting 1.b3
+[20:05:39] timothyha: (6.exd4) White's been dabbling with 1.b3 recently
+[20:05:55] rolihlahla: d5 feels correct here
+[20:07:26] timothyha: (6...d5) just clicked the microscope to see the analysis board - Lichess DB shows c5 doesn't win much
+[20:07:26] robertjackson: I like 6...d5
+[20:08:12] timothyha: (7.Nf3) Bb4+ and castle I guess
+[20:08:27] robertjackson: yup
+[20:09:13] ttsgosadow: Or Bf5 to prevent white bishop from advancing to a good square
+[20:12:15] timothyha: (8...O-O) Ne4 Qc2 Bf5
+[20:12:31] timothyha: (8...O-O) but castling is prudent, too
+[20:13:01] timothyha: (8...O-O) Ne4 before castling might be faster, as White has a3 now
+[20:13:47] timothyha: (9.a3) 5-0 on spectators
+[20:15:33] ttsgosadow: I like that Roli takes some time per move
+[20:15:49] timothyha: (9.a3) yeah, he's a careful person
+[20:18:22] jfiras: (10.Be2) interesting move, Ro might be thinking abt Bf8
+[20:20:08] timothyha: (11...Qe7) Black's got some good initiative here
+[20:20:39] timothyha: (11...Qe7) but Ra2 defends, I think
+[20:20:39] timothyha: (11...Qe7) otherwise Bg4 would be nasty
+[20:20:39] robertjackson: So far, so good Eric
+[20:21:40] timothyha: (11...Qe7) Lichess DB has Ra2 as main choices by other players
+[20:22:10] ttsgosadow: Ra2 loses a pawn for white
+[20:22:26] ttsgosadow: Nm
+[20:22:41] ttsgosadow: I am bad at coordinates
+[20:23:57] timothyha: (11...Qe7) I wonder if White is calculating Ne5
+[20:26:00] timothyha: (12.Bd2) by the way our chats are backed up here https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545/season_50/round_
+[20:26:15] timothyha: (12.Bd2) https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545/season_50
+[20:26:45] rolihlahla: did not expect that
+[20:26:45] jfiras: (12.Bd2) me too
+[20:27:01] rolihlahla: Ra2 was more natural ....
+[20:27:01] jfiras: (12.Bd2) and i don't understand it too
+[20:27:46] ttsgosadow: Qe4 looks interesting
+[20:28:17] timothyha: (12.Bd2) Bg4 threatens to win a pawn
+[20:28:32] jfiras: (12.Bd2) ah okay
+[20:29:48] timothyha: (12.Bd2) Bg4 is ok against Ne5 ideas too
+[20:29:48] timothyha: (12.Bd2) maybe White is already quite worse
+[20:30:03] timothyha: (12.Bd2) ah I guess they're going to play Be3
+[20:30:19] timothyha: (12.Bd2) that's quite zigzagy
+[20:30:49] timothyha: (12.Bd2) to play b3, Be2, Bc3, Bd2, Be3
+[20:30:49] timothyha: (12.Bd2) that doesn't bode well
+[20:32:20] johnjpershing: should have palyed 5 Nf3 before d4, but I can work with this
+[20:33:52] robertjackson: 13...Bd3 potential
+[20:35:08] timothyha: (12...Bf5) yeah, and if Be3 then Ng4
+[20:35:23] timothyha: (12...Bf5) White is quite tied down while Black is fully developed
+[20:37:55] timothyha: (13.Bg5) dcx4 is probably tactically required
+[20:38:41] timothyha: (13.Bg5) but then the d-pawn isn't weak anymore
+[20:38:41] timothyha: (13.Bg5) maybe Rad8...
+[20:40:28] johnjpershing: Bb2 Bc3 Bd2 Bg5, this bishop is movin around a lot. Definitely could have been more efficient with the opening, but live and learn
+[20:42:14] timothyha: (13...Rad8) Ro's on the same wavelength with me
+[20:42:14] timothyha: (13...Rad8) tune your brains!
+[20:43:30] timothyha: (14.c5) Bg4 then
+[20:44:01] timothyha: (14.c5) no time for Ra2 now
+[20:51:23] johnjpershing: took me 16 moves, but castling is usually a good idea
+[20:51:53] timothyha: (16.O-O) I once had an OTB game where White castled on move 28, and Black followed suit
+[20:52:24] timothyha: (16...Bg4) because it was unclear which way castling would go
+[20:52:54] timothyha: (16...Bg4) the endgame with that d-pawn looks good for Black
+[20:57:44] timothyha: (16...Bg4) just checked their previous encounter - it was also 1.b3 but 1...Nf6
+[21:00:31] timothyha: (16...Bg4) I guess d4 can't be saved
+[21:01:17] timothyha: (16...Bg4) the only counterplay is b4, b5 maybe
+[21:02:33] timothyha: (17.Bb5) should be a pleasant rook endgame which Ro likes
+[21:02:48] timothyha: (17.Bb5) liquidate on f3 and play e6
+[21:03:03] timothyha: (17...Bxf3) Re6
+[21:04:04] timothyha: (18.gxf3) well, in this case...
+[21:04:35] rolihlahla: Nxd4 is worth a look ...
+[21:04:50] timothyha: (18.gxf3) not much there
+[21:05:20] timothyha: (18.gxf3) ah, Nxf3 and Qf4
+[21:05:36] johnjpershing: trading into the endgame at move 18 feels safer
+[21:05:51] johnjpershing: i get the bishop and my pawns are more advanced, but I have the vulnerable king. We'll see how it goes
+[21:05:51] timothyha: (18.gxf3) yeah, Nd4 wins
+[21:06:06] timothyha: (18.gxf3) Nd4 Bxe8 Nxf3 Kg2 Qf4
+[21:06:37] timothyha: (18.gxf3) and with Qg4+ Kh1 we have Qh3
+[21:09:39] timothyha: (18.gxf3) Kg2 Qf4 h3 though
+[21:10:25] timothyha: (18.gxf3) but at least a perpetual
+[21:10:25] timothyha: (18.gxf3) @kjar is also calculating?
+[21:11:26] scarff: You have two pawns for an exchange there, and a weak king
+[21:11:41] scarff: Feels good for black on first look :)
+[21:11:56] timothyha: (18.gxf3) yeah, and I see at least the draw in the Kg2 + h3 line
+[21:11:56] timothyha: (18.gxf3) I hope Ro plays Nxd4
+[21:12:27] timothyha: (18.gxf3) even if he makes a mistake later, it's only the start of the season, but more experience in attacking
+[21:13:13] scarff: Maybe Re6 is still quite good for black too. But Nxd4 feels like the move to me
+[21:13:43] timothyha: (18.gxf3) the knight is better than this bishop
+[21:13:58] timothyha: (18.gxf3) can't exchange it
+[21:14:13] timothyha: (18.gxf3) exchange sac for avoiding N for B exchange :-)
+[21:14:13] timothyha: (18.gxf3) see how I like NvB
+[21:16:31] timothyha: (18.gxf3) will go for a walk and comment a bit less
+[21:18:32] timothyha: (18...Nxd4) well done!
+[21:18:48] rolihlahla: let's see how it works out ...
+[21:18:48] scarff: Nice :D
+[21:19:18] rolihlahla: i think i'm even with chances if he plays precisely
+[21:19:33] scarff: I think you're winning
+[21:21:05] timothyha: Black needs to find the F4 and G4 zigzag
+[21:21:50] rolihlahla: Kg2 is forced here i believe
+[21:23:22] timothyha: In my previous chat I missed Kg2 was attacking the knight when queen not on f4 yet
+[21:23:22] timothyha: But things are still good for Black
+[21:24:38] timothyha: Rook take and if Re1 then swap and Qf3 wins
+[21:25:08] johnjpershing: 21 kh3, now that's a move for the unafraid! Probably a mistake, but looks fun as heck
+[21:25:24] timothyha: Defense shouldn’t be fun :)
+[21:27:56] timothyha: Re5 I guess
+[21:27:56] scarff: Re5 looks winning to me now
+[21:28:11] scarff: Kh7 and g7 defend the king. And then all blacks pieces are good
+[21:28:57] timothyha: Gets access to F3 now though so White is mated on h4
+[21:33:16] scarff: Wasn't Qf3+ Kxh4 g5# ?
+[21:33:31] timothyha: Yeah
+[21:33:46] timothyha: Ro didn’t see that mate but is still winning
+[21:34:01] scarff: Yeah, should still be a won game. But was a nice # to play!
+[21:34:32] timothyha: That was in my line all along, to get to f3
+[21:35:33] timothyha: Qf5 and Rd3 now
+[21:37:19] timothyha: But that’s the Q v two rooks line
+[21:38:36] timothyha: Oh Qf5 Kg3 Qg5 with Qg2 mate
+[21:39:21] timothyha: Nf3 is ok but the flaw is Kg2 attacks f3
+[21:41:08] timothyha: Rg4 and Qf4 to be found
+[21:41:23] jfiras: (25.Kg2) Rg4+
+[21:41:23] jfiras: (25.Kg2) yes
+[21:41:39] robertjackson: 25...Rg4+ then Qf4 wins
+[21:42:24] timothyha: Similar now if kh1 qf4
+[21:42:24] robertjackson: Qf4
+[21:42:40] jfiras: (26...Qf4) great
+[21:42:40] timothyha: Gg
+[21:42:40] jfiras: (26...Qf4) gg !
+[21:43:25] rolihlahla: so maybe Nxd4 was good :-)
+[21:44:57] timothyha: Funny
+[21:45:12] timothyha: Qg4 and Qh3 then
+[21:47:14] timothyha: Back to g4 and f4 :)
+[21:47:29] timothyha: Ro just likes the Q and R mare
+[21:47:29] timothyha: Mate
+[21:47:44] robertjackson: Nxd4 was good
+[21:47:44] timothyha: Hurray!
+[21:48:00] goldenretrieverchess: gg
+[21:48:00] robertjackson: gg
+[21:49:46] timothyha: I missed that Qh3 was already mate :)
+[21:50:32] rolihlahla: I missed a few - but i eventually got there
