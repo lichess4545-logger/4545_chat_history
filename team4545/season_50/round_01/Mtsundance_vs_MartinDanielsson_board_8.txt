@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/2CR2tYzZ
+White     : mtsundance
+Black     : martindanielsson
+Time      : 45+45
+Captured  : 2026-09-23 22:45:12 UTC
+Game ended : 2026-09-23 21:25:03 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[18:57:17] merricks: gl martin
+[19:00:20] bufferunderrun: let's go!
+[19:01:36] cinemashow: (4...Bb7) good luck Mtsundance!
+[19:07:11] ysgwydd: (8...Nc6) Ah yes, the Yusupov-Rubinstein System
+[19:13:17] mtsundance: always wonder if a3 should come before ne5
+[19:18:21] bufferunderrun: the knight on c4 feels like it could be in trouble
+[19:19:37] ysgwydd: (11.Nec4) a3 before Ne5 would probably be better
+[19:20:38] cinemashow: (11...Ne4) a3 now?
+[19:20:53] bufferunderrun: I don't like Ne4 from black either
+[19:21:39] bufferunderrun: a3 is an option, otherwise, Nxe4 also seems fine
+[19:22:10] cinemashow: (11...Ne4) or Nf3 even?
+[19:22:10] ysgwydd: (11...Ne4) a3 Nc6 Nxe4 d5 would feature a cute pawn fork
+[19:22:25] bufferunderrun: a3 Na6 surely
+[19:23:11] ysgwydd: (11...Ne4) I think a3 Nxd2 is more likely
+[19:23:11] bufferunderrun: a3 Nc6 Nxe5 d5 Nxb6 perhaps
+[19:23:26] cinemashow: (11...Ne4) just looking at the pressure on c2 after Nxe4 Bxe4?
+[19:24:42] ysgwydd: (11...Ne4) Good to see white thinking here
+[19:24:42] bufferunderrun: a3 b5 maybe, so perhaps c4 instead of a3
+[19:24:57] bufferunderrun: c3*
+[19:27:29] ysgwydd: (12.a3) Nxd2 is best?
+[19:28:30] ysgwydd: (12.a3) Black wants f5 so giving up the knight is maybe not preferred
+[19:28:30] mtsundance: don't like c4 N but handy now
+[19:29:31] bufferunderrun: I would consider b5 first
+[19:30:17] rio2018: Go mtsundance!
+[19:30:17] ysgwydd: (12...Na6) Yeah b5 was an option for sure
+[19:30:17] ysgwydd: (12...Na6) Now Nxe4 wins a pawn?
+[19:30:47] ysgwydd: (12...Na6) Sorry no
+[19:31:03] bufferunderrun: Nxd6 right
+[19:31:48] ysgwydd: (12...Na6) Here?
+[19:32:03] bufferunderrun: Nxe4 Bxe4 Nxd6 Qxd6 Bxa6
+[19:33:04] bufferunderrun: or Nxe4 d5 Ncd2 dxe4 Nxe4 Bxe4 Bxa6
+[19:34:05] ysgwydd: (13.f3) Right the a6 knight is hanging
+[19:35:52] bufferunderrun: 14.Nxd2 obviously
+[19:36:22] bufferunderrun: since otherwise b5 and the knight has no squares to go to
+[19:38:55] mtsundance: think lucky he didn't push b pawn while N wass on c4
+[19:41:27] bufferunderrun: Idk... something like c4, Qc2, Rfd1, Nf1 perhaps
+[19:52:07] ysgwydd: (15...Bf6) This looks fine for both
+[20:13:42] cinemashow: (19...d5) knight back to d2 I think?
+[20:31:28] airini_h: Go Mtsundance
+[20:54:50] cinemashow: (26...e5) just take that?
+[20:56:37] ysgwydd: (27...gxf5) Bxf5 Nf6 Qg3+ Kh8 fxe5 might work
+[20:58:38] ysgwydd: (28.Bxf5) Bxf5 h6 fxe5 Qc6 cxd5 Qxd5 Qxh6
+[21:04:29] ysgwydd: (29.Qg4+) (29.Qg4+ Not seeing the follow-up for white
+[21:04:44] cinemashow: (29.Qg4+) no
+[21:04:59] cinemashow: (29.Qg4+) just Kh8 and Nf6
+[21:07:01] ysgwydd: (30...Kg7) Would love a repetition
+[21:07:16] cinemashow: (31.Qxh7+) rook lift is too far away
+[21:22:00] mtsundance: should not have traded Bs
+[21:26:19] bufferunderrun: gg
+[21:27:04] mtsundance: What happened at the end?
+[21:28:05] mtsundance: i can't see chat an analysis at the same time
+[21:31:39] cinemashow: for spectator chat, try refreshing the page
