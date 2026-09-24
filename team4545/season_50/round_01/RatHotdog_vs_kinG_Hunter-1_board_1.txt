@@ -1,0 +1,295 @@
+Lichess game chat log
+Game      : https://lichess.org/wSqEgHa0
+White     : rathotdog
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-09-24 19:17:26 UTC
+Game ended : 2026-09-24 17:57:17 UTC
+Messages  : 285
+────────────────────────────────────────────────────────────
+
+[15:01:33] johnjpershing: Lets go Rat!
+[15:01:33] rathotdog: we'll see what he plays, he has like 2 systems he plays
+[15:02:19] rathotdog: d6 and c5 are his main pet lines
+[15:05:52] rathotdog: i prepped mostly for the benoni but I also looked at this exact position before
+[15:12:13] johnjpershing: After move 10, the position feels pretty closed, but white seems to have a space advantage
+[15:33:02] johnjpershing: g5 is wild from black, but should lead to an exciting game. Attack from black, but a tthe cost of king safety. Will it pay off?
+[15:33:33] johnjpershing: 14 b4 seems to be the master-preferred option according to the opening books, and a strong move
+[15:34:49] jfiras: Good luck king hunter !
+[15:41:41] computability: Thoughts on bxc5?
+[15:46:15] johnjpershing: The database liked 15 bxc5, with ideas of white taking control of the b file with a rook
+[15:47:00] johnjpershing: 15 Qa4 is a novelty, with more than 200 games in that position, none moved the queen
+[15:48:47] guitarspider: (15...Ndf6) interesting, my intuition likes black
+[15:49:02] guitarspider: (15...Ndf6) it seems the attack is coming very fast whereas it's not clear what the b-file does
+[15:50:03] computability: Masters database or lichess?
+[15:54:22] johnjpershing: In the masters, that position only came up twice. In lichess, there are about 230 games before 15. Qa4
+[15:55:08] johnjpershing: Either way, we're in uncharted territory now. The white queen seems a bit away from the action
+[15:55:23] johnjpershing: But if they can control those open files, could be powerful stuff
+[15:55:54] invinci7777: might be some sac on c5
+[16:00:28] computability: I liked the e5 sac better. After that Bxc5
+[16:04:01] hthree: (18...a6) I thought White couldn't take on a6 anyways
+[16:04:32] hthree: couldn't take on a7 is what I meant to say
+[16:05:02] computability: Woaj
+[16:05:02] computability: *woah
+[16:05:33] computability: I was not expecting Nxd6
+[16:08:05] guitarspider: (19...Nxd6) White's counting on the pawn avalanche
+[16:08:35] guitarspider: (19...Nxd6) Feels like the only reasonable way to play this position, I think otherwise you#re just too slow
+[16:08:35] guitarspider: (20.Bxc5) but I might be wrong, I'm not an expert
+[16:10:07] computability: What about 19. Nxe5 dxe5 20. Bxc5
+[16:10:22] computability: Functionally the same i guess
+[16:10:53] johnjpershing: As an agressive player, I'll always support a player who goes down material for an attack
+[16:11:08] johnjpershing: Even though there are a lot of things going on, connected passed pawns are a powerful thing
+[16:11:23] johnjpershing: If white pulls back the bishop, then gets in c5 with tempo, then c6, could be strong
+[16:13:25] johnjpershing: Classic KID, black attacks the kingside, white attacks the queenside, race to see who gets there first
+[16:14:41] guitarspider: (21.Bb6) I am not sure what to do with Qf6 c5 Nb5 followed by Nd4 potentially
+[16:15:57] guitarspider: (22.c5) oh wait, Nb5 Rxb5?
+[16:15:57] guitarspider: (22.c5) sac more material?
+[16:18:14] guitarspider: (22.c5) both Nb7 and Bf7 are unattractive
+[16:18:14] guitarspider: (22.c5) *Nf7
+[16:24:05] johnjpershing: Huh, a takeback. Don't see that often in the league. Misclick?
+[16:24:20] rathotdog: was trying to draw an arrow to see how bad Bc5 g3 was an accidently played it T_T
+[16:24:35] johnjpershing: Very kind of the opponent to allow that
+[16:25:36] inter-temporal: (24.Bf2) i always allow misclick takebacks
+[16:25:51] inter-temporal: (24.Bf2) if it's not clear, i just ask, "what did you intend to play"
+[16:29:24] johnjpershing: I have takebacks turned off in the settings, so neither play can request one, and I just have move-confirmation turned on to avoid misclicks
+[16:34:29] computability: I keep them off for rated games as well.  Its an awkward situation to be in for the player who is asked
+[16:35:00] kingnchess: Yo
+[16:35:15] kingnchess: I am a Rat believer
+[16:35:45] socholate: Wow el ratzo got fans
+[16:35:45] socholate: King and me number 1 tho
+[16:36:31] kingnchess: Frfr
+[16:37:01] johnjpershing: I like rats, I like hot dogs, what's not to like?
+[16:37:01] calvln: Hello, I spectate as well
+[16:37:01] computability: (24.Bf2) I like h4 for black here with g3 ideas next turn.
+[16:37:32] johnjpershing: I remember a few seasons ago, my team was 3.5-3.5, and in the final game, our opponent was bragging and trash-talking in the whispers
+[16:37:47] johnjpershing: And then he misclicked. Takebacks were turned off. It was beautiful to watch
+[16:38:18] kingnchess: Lmao
+[16:38:18] socholate: In don’t think h4 worked
+[16:38:33] socholate: Oh my scary
+[16:38:48] kingnchess: h4 fxg4 no?
+[16:38:48] socholate: Yes
+[16:38:48] socholate: Kills the attack
+[16:39:03] socholate: Okay this isn’t good but Kf2 looks hella funny
+[16:39:34] kingnchess: Kh2 looks better
+[16:39:49] socholate: Yee kf2 just looked funny xd
+[16:39:49] socholate: He is fine right
+[16:41:52] kingnchess: Ya rat should be easily winning
+[16:42:07] socholate: My goat top 50 soon
+[16:42:23] kingnchess: This is the kind of position rat never loses if he has time
+[16:43:39] socholate: Blacks bishops are so sad
+[16:45:56] johnjpershing: Does 28 Rxb5 work? After 28... Bd7 29 Nf2 allows the e2 bishop to defend the rook
+[16:47:12] socholate: King what about d6 looks fun
+[16:48:28] socholate: After Bd7, they can just take with pawn since the rooks are connected
+[16:48:28] computability: But then Bxd5 Bxd5 axd5 and the black rooks are connected
+[16:48:28] computability: Yea
+[16:49:44] socholate: Perhaps Nc5 instead of f2 tho
+[16:49:44] johnjpershing: Yeah, it lets black solve their positional issues, so maybe it's better to keep them suffering, and keep up the pressure
+[16:52:32] kingnchess: D6 maybe ok but i like what he didi
+[16:53:18] socholate: Classic Ratzy move indeed
+[16:56:05] ttsgosadow: Interesting position, a lot is going on
+[16:56:36] kingnchess: I think white is very cleanly winning, like +4 or smth
+[16:56:51] ttsgosadow: Kinghunter eying the king probably
+[16:56:51] kingnchess: Seems so
+[16:57:06] socholate: Yeah king
+[16:57:06] kingnchess: Bf2 seems the best but I like Be1
+[16:57:22] socholate: ooo be1
+[16:57:37] socholate: This feels like when I attack Ratzy lmao
+[16:58:07] kingnchess: H3 we can also just take it lol
+[16:58:22] socholate: Only the Queen and rook are playing just not enough
+[16:58:22] socholate: Yeee
+[16:58:53] kingnchess: Rxb5 now works
+[16:59:08] socholate: Be1 to d2 was the plan king?
+[16:59:23] kingnchess: Ya
+[16:59:23] socholate: Looks nice
+[16:59:39] kingnchess: So Rxb5 Bd7 Rb8+ Rxb8 Qxd7 should be very chill
+[16:59:54] kingnchess: Bang
+[16:59:54] kingnchess: My goat
+[17:00:09] socholate: Fr <33
+[17:00:24] kingnchess: Nc5 is also good btw
+[17:00:24] kingnchess: After Bd7
+[17:01:40] kingnchess: Kinghunter is getting very low on time
+[17:01:56] kingnchess: Not a good combo to have a lost position witg 1 minute
+[17:02:26] kingnchess: Ne1 is also good here
+[17:02:26] socholate: Ne1 funny
+[17:02:41] kingnchess: But Rg1 is more simple
+[17:02:57] ttsgosadow: Rh3 for kinghunter looked beter?
+[17:02:57] kingnchess: Ok Ne1 Qf4 is anoyying
+[17:03:12] kingnchess: ? Rh3
+[17:03:12] socholate: Rh6 too slow
+[17:03:12] kingnchess: Oh
+[17:03:42] ttsgosadow: Rh6 i mean
+[17:03:42] kingnchess: What does Rh6 do
+[17:03:42] socholate: I assume to push the pawn
+[17:03:42] socholate: But doesn’t accomplish much
+[17:04:13] kingnchess: But then g3 and our attack is vanishing
+[17:04:13] socholate: Indeed
+[17:04:58] kingnchess: I like Rb8
+[17:05:14] kingnchess: But Nc5 is also playable
+[17:05:29] kjar: Rb8+ Rxb8 Qxd7 Rb1 Ne1 Qf4+ Kh1 Qd2 ?
+[17:06:15] kingnchess: Rb1 we also have Qf5
+[17:07:00] computability: (33...)Nxe5
+[17:07:00] kingnchess: Bf1 looks good
+[17:07:31] kingnchess: Nxe5 Bxe5+ looks scary
+[17:08:01] computability: Oh yes Be5+
+[17:08:16] kingnchess: Good move by ratsy
+[17:13:06] kjar: h3?
+[17:13:36] invinci7777: yeah
+[17:13:36] kingnchess: Ya
+[17:15:23] kingnchess: 45 seconds per move is so much ngl
+[17:15:38] kingnchess: I like Be2 here
+[17:15:53] kingnchess: To answer h3 with g4!
+[17:16:54] kingnchess: Also d6 is fine
+[17:17:09] computability: g4?? hxg3# would be funny
+[17:17:40] kingnchess: True lol, though sadly it's not enpassant mate
+[17:18:10] computability: Ohh yes Kg2 :(
+[17:20:12] kingnchess: Now Nc5
+[17:21:13] kingnchess: I am not a huge fan
+[17:21:28] kingnchess: Like this is still fine
+[17:21:28] kjar: yeah, now any gh means rooks are not exchanged....
+[17:21:59] kingnchess: Well h3 g4 is still on the table
+[17:23:00] kingnchess: Ok Kg1 wins the h4 pawn
+[17:23:15] invinci7777: kg1 qf3
+[17:23:30] kjar: Kg1 Qxf3
+[17:23:45] kingnchess: Nxe5
+[17:23:45] kjar: which is not necessarily that bad for white though
+[17:25:17] kingnchess: Ok g4now
+[17:25:17] kingnchess: Only move that makes sense
+[17:25:47] invinci7777: qh6 now
+[17:26:03] kingnchess: Ne6
+[17:26:33] computability: Be3?
+[17:26:33] invinci7777: isn't f3 hanging
+[17:27:04] kingnchess: Oh lol
+[17:27:19] kingnchess: Ya Be3 is better
+[17:27:34] kingnchess: This also wins
+[17:27:49] kingnchess: What is black doing lmao
+[17:28:05] computability: Blacks feeling the time crunch likely
+[17:28:05] invinci7777: time
+[17:28:20] kingnchess: Ig so
+[17:28:35] invinci7777: yeah 45 sec not that a lot afterall
+[17:28:35] computability: Qg3
+[17:28:35] kjar: Qxf4+ Qg3 Qd2 Bxf8 Qxe2+ Kg1 Qd1+ =
+[17:28:50] kingnchess: I like Kg1 more
+[17:29:21] kingnchess: You can play Kxh3 in that line
+[17:29:21] kjar: Rh6+ though?
+[17:29:36] kingnchess: Bxh6
+[17:29:36] kjar: ah right
+[17:29:36] kjar: there is a bishop there :)
+[17:29:51] kingnchess: Ya it's tricky to see lol
+[17:30:06] kjar: Rc8 is tricky now
+[17:30:22] invinci7777: yeah i like it
+[17:30:22] computability: d6
+[17:30:37] kingnchess: Ba3
+[17:30:52] kingnchess: Wait no
+[17:30:52] invinci7777: ba3 qe3
+[17:30:52] kingnchess: Ya
+[17:30:52] kjar: Ba3 Rc2
+[17:31:07] kjar: or yes, can pick the bishop
+[17:31:23] kingnchess: Ok
+[17:31:23] invinci7777: looks tough spot for white now
+[17:31:23] kingnchess: What avout Qf2
+[17:31:38] kingnchess: Qc2
+[17:31:38] kingnchess: Damn
+[17:32:08] invinci7777: qf2 rxc5 qg3
+[17:32:24] invinci7777: rxc5 qxc5 qg3*
+[17:33:09] kingnchess: Bf2?
+[17:34:10] guitarspider: (45...Rc8) maybe Bf2 Qxf3 works
+[17:34:10] invinci7777: yeah thats probably best
+[17:34:26] guitarspider: (45...Rc8) I mean Bf2 Rc1 Bd1 Qxf3
+[17:34:26] kingnchess: Bxf3 though
+[17:34:41] kingnchess: We win a rook
+[17:34:56] guitarspider: (45...Rc8) true, that's good enough
+[17:34:56] invinci7777: what about rxd1 qxd1 rxg4
+[17:35:11] kingnchess: Fxg4
+[17:35:27] invinci7777: oh right
+[17:35:27] invinci7777: forgot that no rrok on f8
+[17:36:12] kingnchess: Noooo
+[17:36:28] kingnchess: Rat why :sob:
+[17:36:28] invinci7777: now rxc5
+[17:36:28] kingnchess: Qc1
+[17:36:43] kingnchess: Nono Qc1 is more simple
+[17:37:29] kingnchess: Though that may just be a draw at best for blacj
+[17:37:29] ttsgosadow: Some great tenacity from our Hunter of Kings!
+[17:37:44] kingnchess: Ya ig Rxc5 keeps the attack
+[17:37:59] kjar: I like Rxc5 better as black wins the h1 rook and then the h3 pawn can also queen
+[17:38:14] kingnchess: Wait why Bf1
+[17:38:14] ttsgosadow: I would have played Qc1, :|
+[17:38:29] computability: Ouuch
+[17:38:29] kingnchess: Now we are losing rat
+[17:38:29] kingnchess: This is so sad
+[17:40:01] jfiras: great fight king hunter keep going
+[17:40:01] computability: What a reversal.  Rxc5 was a nice find
+[17:42:48] inter-temporal: whiplash
+[17:44:05] invinci7777: hav to be carefull of perpetuals
+[17:44:35] kingnchess: Rat has some drawing chances
+[17:44:35] kingnchess: But idk
+[17:45:06] kingnchess: He also has a lot of losinf chances
+[17:46:06] ttsgosadow: Qxg4 seems safe
+[17:46:22] invinci7777: is it?
+[17:46:22] kingnchess: Bxh3
+[17:47:23] socholate: I just took a shower and you guys still going???
+[17:47:23] kingnchess: Rat threw chip
+[17:47:23] socholate: Wts
+[17:47:38] socholate: No way, let’s see
+[17:47:38] jfiras: this is exactly what i did too
+[17:47:53] computability: Black found a nice tactic @Socholate
+[17:48:08] computability: 46...Rxc5
+[17:49:09] socholate: I see thanks for the update!
+[17:49:09] computability: e6+ and then h5?? is natural but loosing to Qxg4+
+[17:49:24] kingnchess: Wait this just draws
+[17:49:40] invinci7777: how
+[17:49:55] kingnchess: Qh8+ Kg6 Qg8 +
+[17:50:10] kingnchess: Nooo
+[17:50:10] invinci7777: king will be safe on g3 i think
+[17:50:25] invinci7777: eventually
+[17:50:25] kingnchess: I thought Qxf3+ Be2+
+[17:50:41] kingnchess: But is there h2
+[17:50:41] kingnchess: Ohh
+[17:50:41] invinci7777: and then block check with qf4
+[17:50:56] kingnchess: Ya that is obv losing
+[17:52:12] kingnchess: If Kg6 Qe6+ Kh5 Be2 shoyld win for white
+[17:52:12] kingnchess: Now black shoukd avoid it
+[17:52:42] invinci7777: cant be2 be met with qxe4
+[17:53:13] kingnchess: Qxe4 free queen
+[17:53:43] invinci7777: oh
+[17:53:59] computability: If Qxh3 Qxh3 Bxh3 does white have winning chances with the passed pair?
+[17:54:29] kingnchess: No because one insta falls to Rxe4
+[17:55:00] invinci7777: why is black not going to g3
+[17:55:15] invinci7777: otherwise its draw surely
+[17:55:15] socholate: They don’t have a passed pair after rook takes e4
+[17:55:15] kingnchess: Becuaee he can't
+[17:55:30] kjar: Qxh3+ then?
+[17:55:30] kingnchess: Ya and that is losing
+[17:56:16] socholate: King is going to g6 oof
+[17:56:31] computability: GG
+[17:56:31] rathotdog: GG
+[17:56:31] guitarspider: gg
+[17:56:31] jfiras: gg !
+[17:56:31] invinci7777: gg
+[17:57:01] kingnchess: Gg
+[17:57:01] rathotdog: I played Kg1 way too quickly without thinking
+[17:57:17] robertjackson: gg
+[17:57:17] rathotdog: Kxh3 was much simpler
+[17:57:17] kingnchess: Nah Kg1 wqs fine
+[17:57:32] ttsgosadow: Why can't Kg4 escape checks after block with queen?
+[17:57:47] rathotdog: no Kg1 wasn't fine lmao
+[17:57:47] kingnchess: Oh
+[17:57:47] rathotdog: its just still winning
+[17:58:02] rathotdog: it was practically horrendous, I just didn't see Rc8
+[17:58:18] ttsgosadow: Ah I see, nasty
+[17:58:48] ttsgosadow: Well played both!
+[17:58:48] king_hunter-1: 46.Bf2! Rc1 47.Bd1 Rb6!! I considered this option.
+[17:59:03] king_hunter-1: But White has the incredible move Rxh3.
+[17:59:34] king_hunter-1: I certainly didn't see Rxh3
+[17:59:49] rathotdog: I completely missed the complications after Kg1 Rc8 and that I had Bd1 in that Bf2 line
+[18:00:35] king_hunter-1: 51...Kg7?? What a stupid move how could I screw up like that?
+[18:01:05] king_hunter-1: 51...Kg7 52...Rg7 and win
+[18:01:20] king_hunter-1: 51...Kh7*
+[18:02:21] grzybozbur: i blunder all the time in time trouble, but what was 37.qe1 about?
+[18:02:36] grzybozbur: was white trying to win h4 or what?
+[18:05:09] king_hunter-1: Probably yes
+[18:05:54] king_hunter-1: Plus, all the pieces are clustered together, making it very hard to break through.
+[18:06:40] grzybozbur: but white doesn't need to break through anything
+[18:06:55] grzybozbur: they are a piece up, and have just neutralized all black activity
+[18:07:56] grzybozbur: just play be2, be3, nf2 and black resigns
+[18:07:56] king_hunter-1: Yes, that—or something very much like it—is exactly what I meant.
+[18:08:57] king_hunter-1: We were both very lucky in this game; a draw is not a bad result.
