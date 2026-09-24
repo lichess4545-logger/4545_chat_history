@@ -1,0 +1,160 @@
+Lichess game chat log
+Game      : https://lichess.org/7gp9plkX
+White     : mastersrv
+Black     : aalvarob
+Time      : 45+45
+Captured  : 2026-09-24 11:07:50 UTC
+Game ended : 2026-09-24 09:47:41 UTC
+Messages  : 150
+────────────────────────────────────────────────────────────
+
+[08:07:25] micomps: Go Alvaro!
+[08:34:03] pavonine: go go master
+[08:35:04] nyanners: something feels not right but i guess its working
+[08:36:20] nyanners: Nf5 sure is a move
+[08:36:51] nyanners: what happens on bluff call
+[08:36:51] nyanners: Qxd5, or Nxd5 defends e3. or does it
+[08:40:39] nyanners: somehow qxd5 seems unclear
+[08:40:39] nyanners: trade all rd8 c4 ne3
+[08:40:55] micomps: It's a fun position, Nf5 is really interesting
+[08:41:25] nyanners: id be absolutely terrified with white
+[08:42:11] micomps: What does white do after Rd8 (presuming we exchange everything off on d5)?
+[08:42:26] mastersrv: Couldn't see why I can't take this. Let's see
+[08:42:56] nyanners: yeah c4 is obvious but theres ne3
+[08:43:12] nyanners: might win the pawn back.. oh nvm
+[08:43:27] nyanners: this forcing line may or may not be good for white
+[08:43:42] nyanners: Nd1 is an actual improvement for the moment
+[08:44:43] micomps: Surprised black didn't take on d5, but this also looks interesting
+[08:45:29] nyanners: the problem is all i can see is white is forced to play the good moves
+[08:45:29] nyanners: and i dont see what actually happens
+[08:45:59] nyanners: like, everything is "obvious". Nxd1, Ne2, etc
+[08:46:45] pavonine: i don't think i see it for black? what's the next move?
+[08:47:01] nyanners: yeah i dont see
+[08:47:31] nyanners: i mean easy to say as spectator of course
+[08:47:47] nyanners: but this has no threat(?)
+[08:48:02] nyanners: id say "just give g2" but its not even free
+[08:48:48] nyanners: like again rxd8 ne2 is "obvious" and seems very good
+[08:49:03] nyanners: xg2 g4+
+[08:49:48] nyanners: maybe this is even better
+[08:50:19] mastersrv: I missed something
+[08:50:34] nyanners: id be worried about trying too hard
+[08:50:49] nyanners: as white id strongly prioritize clarity at 2 pawns up
+[08:50:49] mastersrv: Re4
+[08:51:05] mastersrv: *d4
+[08:51:20] micomps: That's a shout, Rd4
+[08:51:20] nyanners: umm you get rook and pieces
+[08:51:35] pavonine: yeah but even then that's not bad right, you get a lot of stuff
+[08:51:50] kayrosas: so many fantasy caros this round :o
+[08:51:50] pavonine: but yeah, i think as white it's easy to see ghosts
+[08:52:21] nyanners: tbf i didnt see rd4 either but thats why id take on d8
+[08:52:21] micomps: Ooooh, what about Nc4
+[08:52:21] nyanners: well now that one is spooky
+[08:52:36] micomps: b2 looks a bit vulnerable
+[08:53:06] nyanners: so yeah definitely take on d8 :p
+[08:53:06] pavonine: micomps please don't find things like this on sunday :D
+[08:53:22] mastersrv: maybe can escape with Nb5 ?
+[08:53:37] micomps: @pavonine I promise nothing
+[08:53:37] micomps: Rd4 it is!
+[08:53:37] pavonine: just take the knight, do iiit
+[08:53:52] nyanners: id bet 80% Nb5
+[08:54:07] micomps: 50/50 Nb5 or Qxe3
+[08:54:07] mastersrv: wait am I getting 3 pieces for the queen ?
+[08:54:23] pavonine: yes you are
+[08:54:23] nyanners: ooh okay he sees
+[08:54:23] nyanners: now Qxe3 for sure XD
+[08:54:23] pavonine: please munch munch
+[08:54:23] nyanners: it was clearly blocked off before
+[08:54:38] pavonine: 3 pieces + 2 pawns for a queen
+[08:54:53] nyanners: 3 pieces usually implies minor ones
+[08:55:08] micomps: This is going to be a fun position. RRNN & 2 extra pawnsv QR
+[08:55:08] nyanners: its too much
+[08:55:08] nyanners: i think the queen is just busted
+[08:55:23] mastersrv: Nb5 is still a candidate ig
+[08:55:23] nyanners: you may be able to play Rxe3
+[08:55:23] pavonine: also you get Rc3 really quickly
+[08:55:39] micomps: Maybe, but black needs to be tricky
+[08:56:40] pavonine: wooohooo
+[08:56:40] nyanners: its easier to be tricky when you still have all your pieces :o
+[08:57:25] mastersrv: Nxd1 ig
+[08:57:56] pineapplechiffoncake: Go MasterSRV!
+[08:58:26] mastersrv: or should I go Kxd1 just for tricks
+[08:58:41] marekw78: go Master! :)
+[08:58:41] pavonine: what
+[08:58:41] pavonine: no
+[08:59:12] pavonine: haha i guess it doesn't matter too much?
+[08:59:27] micomps: Kxd1 at least isn't the worst of the 3 moves
+[08:59:42] micomps: Not that I'm manifesting Rxd1 or anything.........
+[08:59:42] pavonine: :D
+[09:00:13] nyanners: a long think can definitely manifest Rxd1 here
+[09:00:13] micomps: Well, that gives black more of a chance I think
+[09:00:13] nyanners: well okay xd
+[09:00:28] micomps: Allows black to get his rook into the game a bit quicker
+[09:00:43] nyanners: not only that, rxe3 would be an immediate threat
+[09:02:30] nyanners: oooohh
+[09:02:45] nyanners: big plays
+[09:03:00] nyanners: ne2 nc1 just in time perhaps
+[09:05:02] nyanners: at least it doesnt feel completely busted now, white could like randomly lose all the pawns
+[09:05:33] micomps: This is the kind of tricky I was thinking
+[09:05:33] nyanners: yeah i didnt see this in advance, nx much better then
+[09:07:04] nyanners: forced line for white but ok
+[09:07:50] time_lord19: (21...Rd8) You take the rook?
+[09:07:50] nyanners: yea
+[09:08:05] nyanners: i mean rxd3 is fine enough but no benefit, you dont want either kx or cx
+[09:12:24] nyanners: d1 or e1
+[09:12:55] nyanners: dont see how its something else but the choice is relevant
+[09:14:11] nyanners: okay theres something else actually. f4!?
+[09:14:26] nyanners: point being to defend e5, of course. and b4 ne2 to cover d4
+[09:15:12] nyanners: like i was thinking re1 but then b4 ne2 covers, so its more awkward
+[09:15:42] nyanners: na4/nd1 is whatever there
+[09:15:42] nyanners: feels worse than ne2
+[09:17:59] nyanners: probably rolling with b4 nd1 here
+[09:20:01] micomps: Qd4 now suely
+[09:20:47] nyanners: yeah na4 is like.. i cant refute it but if white doesnt win its probably going to be a reason
+[09:22:03] nyanners: i guess the point is that nd3 supports it so it goes to c5.. which opens c3 but yeah it may not amtter
+[09:22:33] nyanners: now white can like kd1/ke2 in response
+[09:22:48] nyanners: drops a2 :o
+[09:23:04] nyanners: ooh that seems good
+[09:23:19] nyanners: or is it just more qa1 qxa2 stuff
+[09:23:49] nyanners: qa1 nc1!!?!?!
+[09:24:05] nyanners: and both sides have all pieces trapped xd
+[09:24:35] nyanners: so you could try qg1 but taking h2 isnt going to win the game.. not soon
+[09:25:06] nyanners: id probably roll with qa1
+[09:25:51] nyanners: okay fair
+[09:31:11] time_lord19: (30...Qa1)Are they going for a draw?
+[09:31:42] micomps: Might not be a bad idea
+[09:31:57] nyanners: black should be happy ofc
+[09:32:12] nyanners: as white id just repeat once
+[09:32:42] nyanners: dropping a2 is scary but i dont see how that actually ever promotes. but its a good ghost
+[09:33:43] micomps: Feels so counter intuitive to drop A2
+[09:33:59] nyanners: the main issue is i dont see what im doing after :D
+[09:33:59] nyanners: like probably has to start going f5 e6
+[09:34:14] nyanners: might just win
+[09:35:30] mastersrv: Is the queen trapped or not....
+[09:35:45] time_lord19: (31...Qxa2) Can white stop a pawn from progressing?
+[09:36:00] nyanners: worst case is nb3 re1
+[09:36:16] mastersrv: he can just escape through a4 ig
+[09:36:16] nyanners: it seems kinda really difficult for black to coordinate pushing the pawn tho
+[09:38:48] mastersrv: I should keep my pawns safe and try to win his a-pawn
+[09:39:49] time_lord19: (32...a4) a4 feels like a wrong move
+[09:40:04] nyanners: white could avoid this idea with Re4 but i think you get away with Nxb4 here
+[09:40:19] nyanners: otherwise Nc1
+[09:40:19] nyanners: (b)
+[09:42:06] tranzoo: why cant I take on b4?
+[09:42:06] nyanners: probably can
+[09:42:21] nyanners: just your knights will be off for a bit
+[09:42:21] nyanners: and that could give time for the a-pawn!! but probably not
+[09:42:21] tranzoo: maybe black thought Qa3 wins a piece
+[09:43:37] tranzoo: the old checka checka
+[09:43:53] nyanners: this did worsen white's coordination a bit
+[09:44:23] nyanners: as black id be like okay cool but also still pessimistic
+[09:44:23] nyanners: now Nd4 is a threat :o
+[09:46:10] nyanners: good one
+[09:46:55] tranzoo: ulala
+[09:47:11] tranzoo: good game
+[09:47:11] time_lord19: gg
+[09:47:26] micomps: GG, interesting one!
+[09:47:56] kamagayajiji: GG, impressive calculation
+[09:48:11] mastersrv: Thanks all for watching and comments
+[09:49:28] pavonine: gg
+[09:49:28] pavonine: nice one mastersrv
+[09:54:47] nyanners: gg
