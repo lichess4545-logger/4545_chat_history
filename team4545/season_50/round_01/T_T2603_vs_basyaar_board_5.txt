@@ -1,0 +1,180 @@
+Lichess game chat log
+Game      : https://lichess.org/aBd86OvE
+White     : t_t2603
+Black     : basyaar
+Time      : 45+45
+Captured  : 2026-09-24 12:52:24 UTC
+Game ended : 2026-09-24 11:32:15 UTC
+Messages  : 170
+────────────────────────────────────────────────────────────
+
+[08:55:54] gavalanche20: Go Basyaar!
+[08:55:54] milsbees: Let's go T_T!
+[09:02:30] basyaar: ah no d4 or e4
+[09:24:19] silkthewanderer: Go Basyaar
+[09:26:21] silkthewanderer: This looked a bit weird for a bit but now Black seems very much fine
+[09:27:37] silkthewanderer: Nh4 is probably the most serious test
+[09:28:23] silkthewanderer: And even there I think Be7 and Bg6 are both valid
+[09:33:12] gavalanche20: Just don’t fall for Bf4 Bd6 Nb5
+[09:33:27] silkthewanderer: Yep
+[09:33:42] silkthewanderer: White needs to magically make Bf4 and Nb5 happen without Black getting Qb6 in.
+[09:34:59] basyaar: ah Bf4 is a possibility
+[09:35:59] silkthewanderer: Btw I think 10. ...Ne4 was an option to get an even quicker and cleaner way to equality
+[09:37:00] guitarspider: go T_T
+[09:43:36] silkthewanderer: I am curious what engine says about the option to take Qxb3
+[09:44:37] silkthewanderer: These days engines are less and less afraid of playing with isolated doubled pawns. My own trainers from 20 years ago would have taken on b3
+[09:46:24] silkthewanderer: Even after Qxb6 I still like Black better but not by quite as much.
+[09:46:54] basyaar: I am slight ahead in development but whats the plan?
+[09:47:09] silkthewanderer: Crucially White gets a tempo to play Nh4 and trade away the LSB and that should help to not be worse
+[09:48:26] silkthewanderer: 12. Qxb3 13. axb3 h6 was my suggestion. You try to preserve all minor pieces, keep White from achieving either e4 or b5 and then you try to 
+[09:48:41] silkthewanderer: ...win the b pawns
+[09:49:57] nyanners: ive spent some energy trying to refute this terrible scandi and didnt really succeed
+[09:49:57] nyanners: you really can play anything these days
+[09:50:12] silkthewanderer: Huh. Qd1 Qxb2 Nh4 is the idea I assume?
+[09:50:43] nyanners: c for d-pawn and tempi, what is there not to like? and yet black remains solid
+[09:50:58] nyanners: as long as white doesnt get a completely free e4
+[09:51:28] nyanners: if white gets e4 via f3, theres some dark square compensation
+[09:51:44] nyanners: its not great but.. not as good for white as youd think
+[09:51:44] silkthewanderer: Qd1 Qxb2 Nh4 Ne4 Nxf5 exf5 Rb1 and then you hope to somehow get b7blater?
+[09:51:44] nyanners: yeah id just bluff call here
+[09:52:14] nyanners: white is in punish mode but is now outgunned
+[09:52:45] silkthewanderer: White is two moves away from castling and sacing pawns. This cannot work.
+[09:53:30] silkthewanderer: Also there is no reason to delay it  and allow Na4
+[09:53:45] silkthewanderer: Sometimes one can and should just grab the free stuff
+[10:00:52] nyanners: no bluff call but still awkward..
+[10:01:07] silkthewanderer: Yeah. Still better but no extra material
+[10:01:22] nyanners: Bxf3 is a bit degenerate but even that looks good
+[10:01:38] nyanners: or you could go c5.. or rd8
+[10:01:53] silkthewanderer: I actually like Bxf3
+[10:01:53] nyanners: yea this seems like the right pieces for it :o
+[10:02:54] silkthewanderer: Eventually you have to inflict some kind of static weakness before the activity dissipates
+[10:03:55] silkthewanderer: Unless there is a mating attack but that is not the case. And a better cash in than Bxf3 is not in sight at least for me
+[10:04:40] nyanners: plenty of "normal moves" available still but yeah feels white will hold
+[10:06:57] nyanners: yeah i was thinking of Nd5 but.. then what
+[10:08:29] silkthewanderer: Grab the bishop pair then play c5 maybe
+[10:10:15] nyanners: Nxc3 is so ugly :D but yes
+[10:12:32] silkthewanderer: The resulting position is still very good even if you give away a nice pice
+[10:13:18] silkthewanderer: Rd8 and then c5 seems to be baysaars plan, also strong
+[10:13:49] basyaar: tense game
+[10:14:04] silkthewanderer: 0-0 basically forced and then you pray that neither break is too bad
+[10:14:04] basyaar: oh shit
+[10:14:34] basyaar: why did i rush
+[10:15:20] silkthewanderer: No reason to Panik. Ba5 Qb5 Bxd8 Bb4 and you keep Material balance
+[10:15:20] kamagayajiji: Is Ba5 a thing?
+[10:16:51] kamagayajiji: A step behind...
+[10:16:51] nyanners: a little panik? maybe
+[10:17:07] nyanners: as long as its not too much :o
+[10:20:09] ben3536: assuming ne4 was the idea of bd5, i don't see why that wouldn't have still worked
+[10:24:59] nyanners: okay that was, like, mid panik. not ideal
+[10:25:29] nyanners: worst of all is that the position is very dry
+[10:25:44] nyanners: no pawn breaks for black or anything
+[10:35:54] silkthewanderer: Yeah, this is just a very, very sad position to defend
+[10:35:54] ben3536: feels like the next ten moves are just going to be maneuvering and waiting for something to happen
+[10:36:55] silkthewanderer: Worst of all is that is isn't winning quickly for White so you are actually spending some more time on a task that is objectively unlikely
+[10:37:10] guitarspider: (26.Rfd1) True, this will take time
+[10:37:25] silkthewanderer: Unless Black gets their Queen Trup
+[10:37:56] silkthewanderer: *trapped with Qxa2 Ra1 Qxb2 Rb1
+[10:37:56] guitarspider: (26.Rfd1) it's a pretty easy trap to spot
+[10:39:12] basyaar: my hope is the opponent has to convert and I still have DSb
+[10:41:59] basyaar: ah foggy mind
+[10:43:46] silkthewanderer: Not sure what the Ne5 is doing
+[10:44:16] silkthewanderer: After Bd6 and Re8 it should retreat because f4 is not how ypu win this
+[10:44:31] basyaar: c5 is a move?
+[10:44:31] silkthewanderer: I guess White wants Nd3 followed by minority attack
+[10:45:02] ben3536: feels like white doesn't really have a plan tbh
+[10:45:17] ben3536: which i get
+[10:45:17] guitarspider: (28.Qd3) true, but black can't actually do anything
+[10:45:32] guitarspider: (28.Qd3) so it might not matter that much
+[10:45:48] ben3536: true, just wait and bait black into weakening his position
+[10:46:18] guitarspider: (28.Qd3) you can put a rook on c1, start pushing pawns eventually and yeah, maybe black goes crazy in the mean-time
+[10:46:49] silkthewanderer: a4 b4 Rb1 Rc1 Qb3 and then you open stuff with b5
+[10:48:05] kamagayajiji: White’s rooks currently have nothing to do...
+[10:48:20] basyaar: lets try Qh3 and Ng4 if possible
+[10:48:50] kamagayajiji: And the Q on d3 is taking away a useful square for the N
+[10:51:38] silkthewanderer: There are also motives of Ng5 to force through Qh3
+[10:52:39] basyaar: ooh spicy
+[10:52:39] silkthewanderer: f3 should make us happy to see
+[10:53:09] silkthewanderer: f3 Ng5 and you cant really play g4 because then f6 traps the knight
+[10:53:55] silkthewanderer: Ng5 Ng4 h5 Nf2 is still winning for White I think
+[10:55:11] silkthewanderer: Even then ...h4 and things get spicy
+[10:55:11] guitarspider: (30...Ng5) something like Qf1 looks pretty safe
+[10:55:26] silkthewanderer: Just wanted to mention it :)
+[10:55:42] silkthewanderer: Yes, Qf1 is the one that looks most stable
+[10:55:57] silkthewanderer: Also has the benefit of vacating d3
+[11:01:32] ben3536: h4 is ... a choice
+[11:02:18] basyaar: had to go for it?
+[11:02:48] silkthewanderer: 33. Nf2 and the Black knight is trapped
+[11:03:18] guitarspider: (32...Nxf3) isn't the knight trapped after Nf2?
+[11:03:34] basyaar: opens up f-file for opponents rooks
+[11:04:35] silkthewanderer: Okay Black is officially back in the game
+[11:04:50] guitarspider: (34...Qg4+) pretty sure Nf2 was curtains even if black will play on there
+[11:05:35] silkthewanderer: After Kf2 I like Bd6 followed by the slow rook lift Re8
+[11:05:51] nyanners: well this escalated
+[11:08:23] silkthewanderer: I think White can force the queens off with Qe2 eventually and is still safely not worse
+[11:08:23] silkthewanderer: How many winning chances remain is harder to say
+[11:08:53] guitarspider: (36.Rg1) Rg1 and Qe2 was my idea here too
+[11:09:09] nyanners: may have minority attack longterm
+[11:12:11] silkthewanderer: I think as White you are seriously tempted to take the draw here
+[11:12:27] silkthewanderer: Yes I am sure engine finds a way to a small plus
+[11:12:42] silkthewanderer: But Rg8 will get genuinely scary
+[11:12:42] guitarspider: (40.Kg2) the engine isn't scared, but that king position is a bit scary
+[11:12:57] nyanners: rg8 first?
+[11:13:12] silkthewanderer: 40. ...Rg8 was better I think yes
+[11:13:12] guitarspider: (41.Qf3) well, this feels a bit wrong now?
+[11:13:28] silkthewanderer: Rg8 Kh2 Rg4 and White might be in trouble
+[11:13:58] nyanners: yeah i was starting to like it
+[11:14:44] silkthewanderer: After Qf3 I think Black needs to go back to g4
+[11:15:14] nyanners: id consider trade and f5 if there was no minority attack
+[11:16:00] nyanners: as is.. its all bad. not sure what the least bad is
+[11:16:15] silkthewanderer: Trade and f5 is at least tricky for both sides
+[11:17:16] silkthewanderer: Trade and a5 maybe
+[11:17:31] silkthewanderer: If you get a4 and b5 in White has to work very hard for the queenside attack
+[11:17:47] basyaar: one small tactic I see Qe6-h3
+[11:17:47] guitarspider: (41...Qg6) Rbf1 now I assume
+[11:18:32] silkthewanderer: Now f5 is kinda forced
+[11:18:32] nyanners: the problem is black couldnt stop all of g4 and b5
+[11:19:03] nyanners: so in that sense Rbf1 is an improvement for b
+[11:19:18] nyanners: you got f5 which had to be played anyway
+[11:19:49] basyaar: f6 seems would have been better?
+[11:19:49] guitarspider: (42...f5) black is just as tied down as white is though
+[11:20:19] guitarspider: (42...f5) Kh1 and you can't play Rg8 for example
+[11:20:19] silkthewanderer: How crazy would a king walk to e6 be?
+[11:20:34] nyanners: seems like the obvious next thing
+[11:20:50] nyanners: white may have e4
+[11:20:50] silkthewanderer: Rf7 first to not get the pawn pinned
+[11:20:50] nyanners: on kf6
+[11:21:05] nyanners: ooohh.
+[11:21:20] basyaar: again rushed
+[11:21:35] nyanners: i dont even have an opinion on this
+[11:22:06] nyanners: oh qg4
+[11:22:06] nyanners: okay
+[11:22:21] nyanners: qxe3 defends h6?
+[11:22:36] nyanners: i guess that wont do
+[11:22:51] guitarspider: (44.Qxh5) Qxe3 Rf3?
+[11:23:07] nyanners: id go with re1 re2
+[11:23:22] guitarspider: (44.Qxh5) probably Rf3 a bit much, yeah
+[11:24:23] silkthewanderer: Wasnt 44. ...f4 a better try?
+[11:24:38] ben3536: I would think so
+[11:25:39] nyanners: i mean f4 qg4 and trades everything
+[11:26:09] ben3536: no, the idea being f4 qg4 then qxe3
+[11:26:09] nyanners: okay maybe it wasnt so easy
+[11:26:09] nyanners: f4 qg4 trade rg8 and fx
+[11:26:25] guitarspider: (45.Re1) Qd2 is forced here yeah?
+[11:26:40] guitarspider: (45...Qxd4) uh
+[11:27:41] nyanners: qxd6 removes the source of the optical illusions
+[11:28:11] guitarspider: (47.Qxd6) I was thinking it might be better to check on g6 first
+[11:28:27] guitarspider: (47.Qxd6) because then the rook also hangs after Kh8
+[11:28:27] nyanners: maybe
+[11:28:42] guitarspider: (47.Qxd6) but it shouldn't really matter
+[11:30:13] guitarspider: (48...Qg7) Re7 looks clean
+[11:31:45] guitarspider: gg
+[11:31:45] nyanners: gg
+[11:31:45] nyanners: kh7 re7 rge1
+[11:33:01] t_t2603: good game
+[11:34:02] t_t2603: On move 18 after Qb5 you could get your exchange back with Bb4 and Rc3 as the only way to not loose my queen
+[11:35:33] basyaar: thanks all for watching!
+[11:36:04] basyaar: why hxg4 is equalising on move 32?
+[11:36:34] basyaar: wow Kg2 gives black advantage
+[11:41:38] basyaar: oh yes, Qb5 and Bb4
+[11:41:54] basyaar: missed many things
+[11:46:27] t_t2603: Thanks also for everyone's input, that helps a lot to improve
