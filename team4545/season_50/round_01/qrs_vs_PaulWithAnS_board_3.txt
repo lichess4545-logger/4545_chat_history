@@ -1,0 +1,98 @@
+Lichess game chat log
+Game      : https://lichess.org/jszpkYHn
+White     : qrs
+Black     : paulwithans
+Time      : 45+45
+Captured  : 2026-09-24 23:14:05 UTC
+Game ended : 2026-09-24 21:53:55 UTC
+Messages  : 88
+────────────────────────────────────────────────────────────
+
+[19:31:15] tranzoo: go captain!
+[20:10:05] hthree: (14.Bg5) interesting unbalanced position... also go Paul!
+[20:13:23] hthree: Be7 comes to mind
+[20:17:57] hthree: (14...Be7) Na4 could be annoying
+[20:42:50] hthree: (22...Rhc8) is a good move I think, so if White plays g5 Black can reroute the Knight via e8 to the Kingside without getting the Rooks
+[20:42:50] hthree: disconnected
+[20:48:10] qrs: 23. Rd3 deliberately allowing Rxc2 - hope I didn’t missevaluate it
+[20:48:25] qrs: also O-O-O prly was a bad decision
+[20:49:42] hthree: (23.Rd3) Rxc2+ doesn't seem attractive at first glance, with Black's minor pieces so bad and unavailable to assist the Queen
+[20:50:58] mrscribbles: (23.Rd3) Was Rd3 a mouseslip?
+[20:51:13] mrscribbles: (23.Rd3) possibly not
+[20:51:13] hthree: rerouting the Knight via e8 to d6 seems sensible as it isn't doing anything at f6
+[20:51:44] hthree: @MrScribbles as qrs mentioned the move in the chat it doesn't seem like a slip to me
+[20:53:45] hthree: (24...Nd6) love this Knight manoeuvre
+[20:54:01] mrscribbles: (25.Bxd6) good point hfour
+[21:11:16] nyanners: would play bd6 instead of nd6
+[21:11:16] nyanners: knight is way better
+[21:11:47] nyanners: now black needs b4 but seems too optimistic
+[21:24:28] nyanners: umm black takes f4 and defends f7, or g4 and defends g7. feels black evaluated it correctly
+[21:25:14] nyanners: so white goes for something else entirely which.. doesnt help either
+[21:25:29] nyanners: but there could be chances e.g. bait Rxf4
+[21:25:44] nyanners: so i dont dislike it
+[21:27:31] hthree: (33...Ka7) to me it looks that White is just a pawn down with no tangible compensation
+[21:28:17] nyanners: should be 2 soon xd
+[21:28:32] nyanners: id go with rg8
+[21:28:47] nyanners: keeping rxf4 qe3+
+[21:30:03] karasso: Go qrs
+[21:31:04] hthree: does Qe3+ do anything? Rg8 Rxf4 Qe3+ d4
+[21:31:19] nyanners: oh true
+[21:31:19] nyanners: d4 not the most desirable though
+[21:31:35] nyanners: but holds well
+[21:32:05] nyanners: take g4 surely
+[21:32:35] qrs: I missed 33. Qe3 Qxf4! from afar
+[21:32:51] karasso: Does not look great, but in a haevy pieces endgame there is always some hope.
+[21:33:06] nyanners: have to invest in looseness
+[21:33:21] nyanners: which is what white is doing
+[21:33:36] qrs: thought he had to play Qb6 (or Qc5)..
+[21:33:36] nyanners: i suppose you didnt have to burn the bridges with Rh8+ but i dont dislike it
+[21:34:07] nyanners: with less time some Qe3 Qb6 Ra8+ blunder becomes more likely
+[21:34:07] qrs: Maybe Rxg7 instead of Th8+
+[21:36:24] nyanners: okay so white goes for qe3 d4 qxe6 and black goes for rg1 qxc2
+[21:36:24] nyanners: seems in black's favour
+[21:36:54] hthree: okay please no Qb6
+[21:37:25] feet_barbie: (36.Qe3+) ahah ofc nott
+[21:37:25] feet_barbie: (36.Qe3+) !!
+[21:37:40] nyanners: this move has already taken too long xd
+[21:37:40] feet_barbie: (36...b6) thats a puzzle streak move that never happens right
+[21:37:40] nyanners: b6 is definitely spooky
+[21:38:10] hthree: yeah had to be d4
+[21:38:10] karasso: Protects e6
+[21:38:10] karasso: But don't like it for black
+[21:38:26] hthree: how does it protect e6?
+[21:38:26] nyanners: indirectly
+[21:38:26] nyanners: easy mate with rg1
+[21:38:41] nyanners: but yeah this..
+[21:39:27] nyanners: black has to be very careful with white doubling
+[21:39:42] nyanners: e.g. qf2 rf8
+[21:39:42] feet_barbie: (37...Re4) but also white cant get away from defending
+[21:39:57] nyanners: you can once you pin the q XD
+[21:41:29] karasso: Qb3 Qc4 Qxc4 dxc4 Re7 with Rxg7 and we are in for a fun rook endgame
+[21:41:44] karasso: Probably drawn with the black King cut off on the back rank
+[21:42:14] karasso: Re1+ Ka2*
+[21:42:14] nyanners: yeah id try qf2. maybe it works out
+[21:42:45] nyanners: qb3 has no threat
+[21:43:00] nyanners: but maybe black would be tempted to oversimplify indeed
+[21:44:46] nyanners: yeah just repeat :) qe2
+[21:45:02] karasso: Hopefully not Re7
+[21:49:05] feet_barbie: (39.Qe2) yeah though
+[21:49:21] karasso: No time and position is complicated
+[21:49:21] feet_barbie: (39.Qe2) if anything black can mess this up
+[21:49:21] feet_barbie: (39.Qe2) take the draw
+[21:49:51] hthree: yes
+[21:50:06] nyanners: i think black is just repeating once but its indeed not easy for me to see how to escape this
+[21:50:37] nyanners: rf8??
+[21:50:37] hthree: oh god
+[21:50:52] nyanners: or this :o
+[21:51:23] hthree: looks lost
+[21:51:23] karasso: Yeah
+[21:53:24] nyanners: well then
+[21:53:40] hthree: b4
+[21:53:55] feet_barbie: /w (42.1-0Black resigned • White is victorious) wym just re7
+[21:54:10] karasso: Re7, no need to complicate it
+[21:54:10] paulwithans: gg
+[21:54:40] paulwithans: yep
+[21:54:56] nyanners: id wait for re7
+[21:54:56] nyanners: gg
+[21:55:26] hthree: gg
+[21:56:57] qrs: Thanks for watching! GG
