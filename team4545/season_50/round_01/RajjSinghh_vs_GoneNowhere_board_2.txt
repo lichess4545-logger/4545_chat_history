@@ -1,0 +1,110 @@
+Lichess game chat log
+Game      : https://lichess.org/2Fui3mkK
+White     : rajjsinghh
+Black     : gonenowhere
+Time      : 45+45
+Captured  : 2026-09-24 22:29:26 UTC
+Game ended : 2026-09-24 21:09:17 UTC
+Messages  : 100
+────────────────────────────────────────────────────────────
+
+[19:04:20] micomps: Go Rajj!!!
+[19:04:20] rajjsinghh: oh no, a mouse slip(!)
+[19:06:22] micomps: I wonder if a request to take back has been made?!
+[19:06:37] rajjsinghh: of course a few minutes thinking in this league means nothing, but I'm counting it as a psychological win
+[19:24:54] rajjsinghh: maybe e5 was slightly premature, but I don't think I lose a pawn yet with 0-0 Re1 and Bxd5
+[19:41:10] rajjsinghh: I missed cd Nb4 0-0 Ba6, maybe 9. 0-0 was the better way to give up a pawn
+[19:54:54] giziti: (13...Rc8) all right let's go nowhere!
+[20:02:46] nyanners: interesting
+[20:03:01] nyanners: feel if white wants to commit to the kia thing you wait for Bb7 before e5
+[20:03:16] micomps: welcome Nyanners
+[20:03:16] nyanners: and then youre not a tempo behind in this line which allows for Re1 Qe2
+[20:03:31] nyanners: hey :o
+[20:04:17] micomps: I think after a rocky start white isn't looking too bad. Surprised black hasn't taken on d4 yet
+[20:05:03] nyanners: as far as terrible positions go, this is just regular terrible :o
+[20:05:03] nyanners: not so bad
+[20:05:18] nyanners: but maybe black is going or Bx(!?) Nb4
+[20:06:04] nyanners: i feel id have gone with Nf3. like, do you even want Nxc5?
+[20:06:34] nyanners: and now you have a position like this and the knight wont be good like ever
+[20:08:36] nyanners: now it might be getting terrible terrible
+[20:08:51] micomps: :(
+[20:09:22] giziti: (17...Bb4) wow black is just cruising here
+[20:15:12] rajjsinghh: maybe he clicks his king and I can claim touch move, making him castle and picking up the b4 bishop
+[20:17:14] rajjsinghh: maybe BxB NxB Rc2 h3 Nf6 Nf3 RxP Ne5 and f5 is something to play on for
+[20:17:44] nyanners: just trade ns surely
+[20:18:45] rajjsinghh: It felt like there should be at least something with the king in the middle but everything misses by a move or two
+[20:19:00] giziti: (19...Rc2) yeah i mean after h3 Rxd2, white is collapsing
+[20:23:35] giziti: (21...Rfc8) does the Nf2 Ne4 maneuver work, looks fun
+[20:26:38] mrscribbles: (22...Nf2) this looks pretty miserable, not gonna lie
+[20:39:50] giziti: (24...Ba6) Ne4 looked like another good idea
+[20:40:36] mrscribbles: (25.f5) cute try
+[20:44:55] giziti: (27.g4) time to double up on the 7th rank?
+[20:45:40] rajjsinghh: I wonder if Rxe4 de Ng5 is more resilient
+[20:49:14] rajjsinghh: it was a bad opening choice, but probably still better than allowing a Winawer
+[20:49:44] rajjsinghh: oh, h6 to stop RxN PxR N-N5, great
+[20:53:02] rajjsinghh: Wait, Ng5 Rg3 and the bishop can't be defended so I don't even have that resource
+[20:56:35] giziti: (28.h4) hmm there has to be a knockout blow in here
+[20:57:21] rajjsinghh: as unpleasant as this is to defend, the fact I have not lost yet is giving me a bit of hope
+[20:57:21] giziti: (28...Kf8) though i'm kind of thinking Rb2, Rcb2...
+[20:57:36] rajjsinghh: it's only a pawn (and a lot of active pieces :/)
+[20:59:53] waterlorda7890: Was nxg5 possible? Instead of ke7
+[21:00:24] rajjsinghh: Kh1 frees the knight to move so Rg3 doesn't just win
+[21:01:10] giziti: (28...Kf8) Nxg5 Nxg5 Rg3 Nxe6+ and then Nf4? not actually good for white, so, maybe?
+[21:02:56] nyanners: eh id definitely avoid the speculation
+[21:03:11] nyanners: white doing the most out of this thankless job
+[21:04:28] giziti: (32...Ng3+) is there some knockout line here?
+[21:05:13] nyanners: i dont see it
+[21:05:13] giziti: (33.Kg1) okay here Rcc2 does it, right?
+[21:05:28] nyanners: not yet
+[21:05:28] nyanners: just move
+[21:05:44] micomps: Ng6-h4 probs
+[21:05:59] nyanners: bf3 is enough
+[21:05:59] nyanners: (at least for like 2 ply-ish)
+[21:06:14] nyanners: also covers h1
+[21:06:45] micomps: Bxd4 now?
+[21:06:45] micomps: Hail mary
+[21:07:15] micomps: D5 I meant
+[21:07:15] mrscribbles: (34...Kd6) micomps the prophet
+[21:07:15] nyanners: ooh i hadnt seen that. thats good
+[21:07:30] nyanners: no wait, fx nd3 rfe2
+[21:07:46] nyanners: *ex
+[21:07:46] micomps: Ng4 and.....chances?
+[21:08:01] mrscribbles: (34...Kd6) I guess Ba8?
+[21:08:01] mrscribbles: (34...Kd6) kind of a funny move
+[21:08:31] mrscribbles: (35.Be4) that doesn't look right
+[21:08:46] nyanners: id probably roll with Ng4
+[21:08:46] nyanners: white definitely needed this bishop
+[21:08:46] giziti: (36...Rg2+) this is just mate
+[21:08:46] nyanners: now its dead
+[21:08:46] giziti: (36...Rg2+) yeah
+[21:09:02] mrscribbles: (38.Kg1) tough to hold on anyway
+[21:09:02] nyanners: i feel white just missed the square
+[21:09:02] mrscribbles: gg
+[21:09:02] nyanners: gg
+[21:09:02] micomps: Gg
+[21:09:17] mrscribbles: good effort by white
+[21:12:35] inter-temporal: for sure!
+[21:13:36] inter-temporal: isn't black just a big board 1 bully? lol
+[21:14:06] rajjsinghh: yeah, this was completely expected lol
+[21:14:36] gonenowhere: Black has been sliding down in recent times :-(
+[21:15:07] rajjsinghh: Rough end to last season will do that
+[21:15:22] inter-temporal: :)
+[21:15:37] rajjsinghh: so will not playing so I lose 10 points for losing to a player 130 points ahead of me :')
+[21:15:37] gonenowhere: I often get dropped from analysis board, so, if Ii do, thanks again Rajj, good luck etec
+[21:15:52] inter-temporal: Lichess kinda stingy with rating points...
+[21:16:08] rajjsinghh: yeah GG GoneNowhere
+[21:16:53] gonenowhere: There must be an exlanation somewhere of how rating works, often get strange numbers ocurring
+[21:17:09] inter-temporal: i think lichess is just hoarding our rating points
+[21:17:09] rajjsinghh: Looks like I really misevaluated 9. 0-0 Nb4, which is why I played c3
+[21:17:24] gonenowhere: rating delfation is a thing
+[21:17:24] inter-temporal: they keep em in a locked basement somewhere
+[21:18:25] gonenowhere: Re c3, yes I suppose White wants to keep c4 alive as a posssibility
+[21:18:40] inter-temporal: that is odd
+[21:18:40] inter-temporal: c3 is almost always a good move in KIA
+[21:19:41] inter-temporal: SF would rather see Nb1 than c3
+[21:21:12] gonenowhere: Not a normal KIA, I suppose, eg B on B7 early, other B still on f8.
+[21:22:58] inter-temporal: that's a new kind of idea for me--aiming for c4 directly after 9.0-0 Be7 10.c4
+[21:25:00] gonenowhere: Oh well, better get on with my morning, see you guys
+[21:25:00] inter-temporal: c ya
+[21:25:31] inter-temporal: but not in the pairings! pls
+[21:25:31] inter-temporal: lol
