@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/Ge45Cqgl
+White     : precisionplay28
+Black     : joonaf
+Time      : 45+45
+Captured  : 2026-09-24 16:46:08 UTC
+Game ended : 2026-09-24 15:25:56 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[13:29:07] simonwashere: Go Joonaf!
+[13:29:37] matthewhuber: go joonaf!
+[13:29:37] fritsj: Let's go PP!
+[13:34:57] simonwashere: we didn't need that pawn anyway
+[13:36:28] feet_barbie: (10.dxe5) go jooo
+[13:56:33] bufferunderrun: 14...Ne4 perhaps
+[13:57:19] flipiflapi: (14.Qc2) come on joonaf! We peeked during the stream - you got tons of play!
+[13:57:50] computability: White had Bd2
+[13:58:20] computability: Then black has Qa5
+[14:00:37] computability: White could also castle to prevent the bishop fork on c3
+[14:09:00] lorb: 16.Bxc3 is the prime candidate, no?
+[14:09:00] lorb: 15....
+[14:10:47] igor_jamnik: 15...Bxc3 16.Rb1 Ncd6 seems to be game over for white
+[14:12:19] lorb: there are more complications after 15...Bxc3 16.bxc4 I think
+[14:13:50] igor_jamnik: 15...Bxc3 16.Bxc4 Bxa1 17.Bxd5 Nf6 still seems to be pretty bad
+[14:15:22] lorb: agree, I don't see how white could get out of this
+[14:15:52] lorb: but I do see ways for white to make it a bit murky and give black a chance to blunder
+[14:16:53] lorb: : / oh well
+[14:17:23] lorb: it appears joonaf has different plans
+[14:17:39] igor_jamnik: it's still not that clear but 16.bxc4 and white seems fine
+[14:18:55] upgoerfive: Go joonaf!
+[14:19:10] precisionplay28: this lets me off the hook i guess i could still lose this but i wouldve definitely lost if he took with the bishop instead of 15nxc3
+[14:19:25] igor_jamnik: true
+[14:19:25] lordziax: after 16.bxc4 Nxe2+ 17.Qxe2 Bc3 you're still atleast down an exchange but youre not lost yet
+[14:20:41] igor_jamnik: yeah but 18.Ba3 Bxa1 19.Rxa1 and that bishop will be pretty powerful on a3
+[14:21:58] precisionplay28: wow didnt see that comin
+[14:21:58] igor_jamnik: it keeps the king in the center
+[14:22:13] lordziax: yeahhh but then Qa5 and maybe Rb6 that bishop wont stay on that diagonal for long
+[14:22:43] igor_jamnik: if Qa5 then Bd6 attacking the rook and you cant go Rb6 because of c5
+[14:23:29] igor_jamnik: even after Rc8 or Rb7 i think c5 is still possible
+[14:24:30] lordziax: yeahhh its not simple how to win this for black
+[14:25:16] lorb: joonaf thinking about 18...Qa5 ? or what other move could be the alternative to Bxa1?
+[14:25:31] igor_jamnik: probably Qa5 or Bb4 too maybe
+[14:26:17] igor_jamnik: 18... Qa5 19.Rab1 seems to work after Rxb1 20.Rxb1 with the threat of Rb8+
+[14:27:02] igor_jamnik: or even 19.Bd6
+[14:29:19] lorb: this doesn't feel like the right time to burn this much time on
+[14:30:05] igor_jamnik: yeah
+[14:33:54] cowtone: Go joonaf
+[14:35:55] cowtone: This looks scary, a little too scary for a pawn?
+[14:41:46] igor_jamnik: i wonder whether 20.cxd5 or 20.Bd6 21.c5 is better
+[14:42:32] igor_jamnik: neither i guess
+[14:43:02] simonwashere: yeah feel like white is doing better here
+[14:44:33] lordziax: and now what, if black played f6 then probably Kf7 now
+[14:45:04] igor_jamnik: 21.Qh5+ now though
+[14:45:34] igor_jamnik: tuff
+[14:46:05] igor_jamnik: now the bishop will have to leave that diagonal if black plays Qa5
+[14:46:51] igor_jamnik: and those b and c lines will be very good for black's rooks
+[14:51:10] lordziax: now Rb6 still doesnt work because of Bc7, so i thinkkk the bishop stays
+[14:51:55] igor_jamnik: wouldnt 22...Rb6 23.Bc7 Qc3 work though
+[14:52:41] igor_jamnik: now Qc4 with some Nc6 ideas maybe
+[15:00:48] lordziax: doesnt Rxc5 Work now
+[15:02:04] igor_jamnik: 28...Rxc5 29.Rxc5 Qb4 maybe
+[15:04:06] igor_jamnik: yeah it's over now
+[15:04:06] bufferunderrun: 31.Rc1 seemed better
+[15:19:05] joonaf: oh no, I missed my K is in danger
+[15:23:54] computability: The Qd2 fork seemed nice
+[15:25:26] simonwashere: gg
+[15:25:56] joonaf: good game, well played!
+[15:26:12] joonaf: interesting material imbalance
+[15:26:57] precisionplay28: yea
+[15:27:28] precisionplay28: But why iddnt u play 15 bxc3?
+[15:27:28] precisionplay28: It was winning
+[15:28:59] joonaf: 15..Bxc3, bxc4, Bxa1, Ba3. I didn't like how I can't castle. Then Ba3 stopping me from castling happened anyway :D
+[15:29:45] joonaf: that's what I tried to avoid, but missed that my line didn't stop it
+[15:30:15] error404rating: I completely missed Bc3
+[15:31:16] joonaf: I even played the moves fast there, and then after 18.Ba3 I made surprised pikachu face
+[15:35:35] precisionplay28: overall good game joonaf had a great fight i lost but had a lot of fun i gotta catch my freinds
+[15:35:50] precisionplay28: good luck for the rest of ur season
+[15:42:42] joonaf: thanks, good luck and have a fun season!
+[15:43:12] joonaf: not the most accurate game for either, but it was fun
+[15:52:20] joonaf: not doing 15..Bxc3 was a ridiculous bkunder
+[15:54:22] joonaf: trying to prevent one bad thing, and the result is two bad things
