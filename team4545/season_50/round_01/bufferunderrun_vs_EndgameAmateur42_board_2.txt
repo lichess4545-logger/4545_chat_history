@@ -1,0 +1,97 @@
+Lichess game chat log
+Game      : https://lichess.org/K180yamk
+White     : bufferunderrun
+Black     : endgameamateur42
+Time      : 45+45
+Captured  : 2026-09-24 21:31:28 UTC
+Game ended : 2026-09-24 20:11:20 UTC
+Messages  : 87
+────────────────────────────────────────────────────────────
+
+[18:11:29] mennonite: Go buffer
+[18:49:04] ysgwydd: (8...Rc8) Long thinks. After Bf4 they both had around 48 min
+[18:50:50] inter-temporal: wonder if it will still payoff, somehow
+[18:58:27] ysgwydd: (9...Ng4) Qe4 ?
+[19:02:16] nyanners: dont like this line for white
+[19:02:46] nyanners: i know computer likes exd5 but just look at whats on the board. its everything black ever wanted
+[19:03:17] nyanners: i roll with e5 here though okay black will go like Qc8 Ba6
+[19:04:02] nyanners: feel id play c3 and hope it doesnt die somehow
+[19:05:03] ysgwydd: (9...Ng4) Qe4 should force the queens off. Maybe that's not good for white
+[19:06:04] nyanners: qe4 ncx into nd3 probably
+[19:06:50] nyanners: maybe be4?
+[19:07:05] nyanners: the vibes are all wrong
+[19:07:36] ysgwydd: (9...Ng4) Ah I missed Ncxe5
+[19:07:51] ysgwydd: (9...Ng4) Taking the c7 pawn was probably not correct
+[19:09:22] nyanners: id trace the blame back to bf4 then
+[19:09:22] nyanners: seems like the wrong priorities
+[19:11:09] ysgwydd: (10.Be4) Black always plays 1...b6 (or 1.b3) and I think Bf4 was an attempt to surprise black.
+[19:16:13] nyanners: this isnt my line of choice against b6 but i know its the main stuff
+[19:16:44] nyanners: dont know how the line goes in this exd5 direction tho
+[19:20:02] nyanners: oof
+[19:20:02] nyanners: thats a good move
+[19:20:17] nyanners: not sure if resigns
+[19:20:48] nyanners: the motions look like qh5 g6 qg5 bxe4 qf6
+[19:21:03] nyanners: as black id try to do better somehow
+[19:21:49] feet_barbie: (12...Nxd4) damn
+[19:22:34] feet_barbie: (12...Nxd4) i dont see any resource
+[19:22:34] feet_barbie: (12...Nxd4) nc4
+[19:23:05] feet_barbie: (12...Nxd4) still doesnt work just creative
+[19:23:20] nyanners: i mean, put your queen on h5, something good could happen
+[19:23:20] nyanners: but probably not
+[19:25:07] feet_barbie: (13.Nc4) still loses a piece sadly
+[19:25:07] nyanners: this line seems too easy
+[19:25:07] feet_barbie: (13.Nc4) at least gives some chances to go wrong to black
+[19:25:22] nyanners: i mean taking q is a piece up? and its all black wants
+[19:26:08] feet_barbie: (13.Nc4) yeah
+[19:26:23] nyanners: seems like just hope it wont be a piece up
+[19:26:38] nyanners: which is, well, fair
+[19:29:11] ysgwydd: (13.Nc4) I leave for a moment and this is what happens
+[19:29:41] feet_barbie: (13.Nc4) dont leave with the oven on
+[19:29:56] feet_barbie: (13.Nc4) someones cooking here
+[19:32:13] feet_barbie: (15.f3) mmh
+[19:33:14] feet_barbie: (15.f3) bro not gonna go nd4 right
+[19:33:30] feet_barbie: (15.f3) that would be gotm level type sht 2 times nd4 !! move
+[19:33:45] nyanners: i didnt even see that
+[19:33:45] feet_barbie: (15.f3) holy cow
+[19:34:00] feet_barbie: (15.f3) problem is black is already up a piece so might not look for it
+[19:34:00] nyanners: exactly
+[19:34:00] nyanners: i wouldnt XD
+[19:34:00] feet_barbie: (15.f3) that would be a great game of chess
+[19:34:30] feet_barbie: (15.f3) omg nd4 double exclam two times in one game
+[19:35:01] feet_barbie: (16.Rxb1) f
+[19:35:01] nyanners: yea this is exactly how id play it
+[19:35:16] nyanners: take N obv
+[19:35:31] feet_barbie: (17.Kxe2) oh i m so sad now
+[19:35:47] nyanners: and now Bd6 Ke7
+[19:35:47] nyanners: not Bc5 because of b4
+[19:36:02] nyanners: and white gets some worthless files
+[19:36:17] nyanners: i guess you just Bb6
+[19:36:17] feet_barbie: (17...Bc5) yeah
+[19:36:32] nyanners: that is, ax Bb6
+[19:36:32] feet_barbie: (17...Bc5) this now pretty hopeless
+[19:36:32] nyanners: but then a4..
+[19:36:48] nyanners: rc2
+[19:37:03] nyanners: okay
+[19:39:05] nyanners: okay yeah everything wins
+[19:40:51] nyanners: Rxd1 i dislike but.. yeah still
+[19:40:51] nyanners: thought the followup was Bd4
+[19:46:57] nyanners: seems ok to resign with the queenside falling
+[19:47:12] nyanners: kc4 rb4
+[19:48:59] nyanners: okay to not resign too, of course :o
+[19:49:14] nyanners: but id be feeling the existential dread kicking in
+[19:52:02] nyanners: the real problem is a lack of any ideas whatsoever. white is clearly seeking some stalemate idea but theres no good way to give the pawns
+[19:56:06] nyanners: now black has a compact position though it may take a bit to get the pawns rolling
+[20:09:33] nyanners: yeah 59..Rb2 into g2 i like
+[20:10:03] nyanners: i guess you could play a good move like Kf3 instead of g2
+[20:11:19] nyanners: gg
+[20:11:19] tactix47: ggs
+[20:11:50] feet_barbie: gg
+[20:12:05] nyanners: wow that was nearly +2. crazy
+[20:12:05] nyanners: sure didnt feel like it
+[20:13:06] nyanners: a3 is 20/20
+[20:13:06] feet_barbie: 12... and 15... nd5 O_O
+[20:13:52] feet_barbie: nd4
+[20:18:41] nyanners: umm i see the timings. so Bf4 was prep :o
+[20:18:56] nyanners: and then Bxc7 was the logical conclusion
+[20:19:26] nyanners: and so was Be5
+[20:19:26] nyanners: yeah thats a tough one
