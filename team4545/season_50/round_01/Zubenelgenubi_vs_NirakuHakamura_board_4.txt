@@ -1,0 +1,174 @@
+Lichess game chat log
+Game      : https://lichess.org/Md44A3aV
+White     : zubenelgenubi
+Black     : nirakuhakamura
+Time      : 45+45
+Captured  : 2026-09-25 15:42:33 UTC
+Game ended : 2026-09-25 14:22:24 UTC
+Messages  : 164
+────────────────────────────────────────────────────────────
+
+[12:32:13] flipiflapi: Well come on then XD
+[12:32:43] flipiflapi: Go chess!
+[12:33:44] silkthewanderer: Go Zubenelgenubi
+[12:37:48] silkthewanderer: Does anyone know how reputable this kind of delayed Saemish is nowadays?
+[12:38:18] silkthewanderer: *Jaenisch
+[12:39:19] flipiflapi: I'm already unfamiliar with everything on this board
+[12:40:05] silkthewanderer: It is a thing apparently but completely move by move. Logic doesnt apply only tactics.
+[12:41:06] silkthewanderer: I guess it is not losing move by move but this seems just be so very very obviously riskierer for White than Black
+[12:43:23] flipiflapi: Not a fan myself neither. How many games I've lost for following some bizarre line
+[12:45:09] silkthewanderer: I guess what it does very well is to eat the White clock
+[12:45:40] silkthewanderer: Not at all obvious when to castle, whether to take on g8, sprinkle in Bg5 etc
+[12:46:10] silkthewanderer: Bd5 is also a move you can calculate
+[12:46:41] flipiflapi: I'd be regretting just about everything at this point  hope zub has more understanding or memory
+[12:47:26] flipiflapi: Nxd?
+[12:48:27] silkthewanderer: Nxd4 Nxe5 seems fine for Black
+[12:49:13] flipiflapi: Yea I dunno what the goal is here. I wanna bail out more than anything
+[12:49:59] silkthewanderer: exd6 is a good practical choice. Maybe not the most critical one...
+[12:50:29] silkthewanderer: ...but everything remains very safe and in control for now
+[12:52:46] flipiflapi: Like the sound of that
+[12:54:48] flipiflapi: Looking a bit better now. Blacks pawns are all over the place. Breezy around the king.
+[12:56:35] silkthewanderer: Playing g3 just to prepare Bf4 is something I usually don't like but here kt
+[12:56:35] silkthewanderer: It seems important
+[12:59:38] silkthewanderer: If Black castles long, a4 b4 Qd3 can become a problem
+[12:59:53] flipiflapi: If white just gets some development, this misgame seems kinda good? Esp if that lsb was related to castling long somehow.
+[13:00:23] flipiflapi: Indeed
+[13:02:55] silkthewanderer: Eventually one has to switch from good position to tactical Akquisition of something tangible
+[13:03:26] silkthewanderer: Especially when opposite castling hits
+[13:03:56] silkthewanderer: I really would like to see any 0-0-0 immediately be answered with forcing moves
+[13:06:29] silkthewanderer: g3 and Bf4 seems to be really good for now though
+[13:08:00] silkthewanderer: I think after g3 the best for Black might actually be g5 Bxg5 0-0-0 Nf4 Qg6
+[13:10:18] flipiflapi: I like your comment about eventually good positions should result in something.
+[13:10:48] flipiflapi: Since whites already castled it does seem they have the opportunity to push / force black a bit.
+[13:15:53] silkthewanderer: Not sure I see a candidate besides g3
+[13:16:08] nyanners: oh its the thing :o
+[13:16:08] nyanners: you can find plenty of this in my opening explorer
+[13:16:23] kayrosas: secret weapon
+[13:16:23] flipiflapi: The who?
+[13:16:23] rapportmamedyarov: (11.a4) go both
+[13:16:38] nyanners: the thing!
+[13:16:38] silkthewanderer: Yes, providing a hook is annoying but you really want to get your stuff out quickly
+[13:16:38] nyanners: from marvel
+[13:16:54] nyanners: so well i can tell this one has gone terribly
+[13:16:54] flipiflapi: Where'd everyone come from all of a sudden.
+[13:17:09] nyanners: d6 is not it
+[13:17:24] silkthewanderer: I was wondering...
+[13:17:55] kayrosas: Na5 was the move there I believe
+[13:17:55] nyanners: i think white has handled this really well though that was not particularly difficult
+[13:18:10] kayrosas: but not sure
+[13:18:25] kayrosas: or Bb7 first
+[13:18:25] nyanners: United States Chess Federation National Master Chewerson will tell you to play Bb7
+[13:18:25] nyanners: but Na5 is the engine move
+[13:18:55] nyanners: i usually play Bb7 when landing it as a surprise
+[13:19:11] nyanners: ive been playing Na5 but its positions that are neither here nor there
+[13:19:26] nyanners: but its probably within the drawing margin, unlike Bb7
+[13:20:27] nyanners: as for the game its likely that ne5 ne6 effectively wins
+[13:20:27] nyanners: *ng5
+[13:21:12] kayrosas: 12.a5 or Nbd2 Na5 Ne5 i both like
+[13:21:12] nyanners: its likely that any line that doesnt allow O-O should do the job
+[13:21:43] kayrosas: oh Ng5 was also a move, yea
+[13:21:58] nyanners: O-O-O may be acceptable if black can deny an effective Bc4
+[13:22:13] nyanners: i suppose you dont have a real choice anyway
+[13:22:44] nyanners: its good that Na5 covers a6
+[13:23:45] nyanners: so well, do you go for Na5? its good if its not bad :o
+[13:23:45] nyanners: very important piece
+[13:25:01] ysgwydd: (12.Nbd2) I have seen Niraku play this Schliemann a few times in the league
+[13:25:16] nyanners: white prep successful
+[13:25:16] kayrosas: yea I remember it also when we were on a team
+[13:25:31] nyanners: black cant wing this. 7..d6 is too early to not know things
+[13:25:31] ysgwydd: (12.Nbd2) Seems like you can into prep easily in this line
+[13:26:17] kayrosas: people defer to these lines "to avoid theory" but once it's known they require more knowledge than main lines
+[13:26:48] nyanners: heres my take: avoiding theory is a matter of how good natural moves are
+[13:26:48] nyanners: so this one is like on the far opposite of avoiding theory
+[13:27:33] nyanners: the london is, like, actually not the other extreme. id say its something like the symmetrical exchange french or so
+[13:28:04] ysgwydd: (13...Nxc4) I guess Niraku likes to play this type of position, even if it's not objectively good
+[13:28:19] nyanners: ooh Nc4. logical i guess
+[13:28:19] nyanners: keeps the no-castling policy
+[13:29:35] ysgwydd: (14.Bxc4) O-O-O is legal
+[13:30:51] nyanners: okay i forgot what i just said about Q defending a6
+[13:30:51] silkthewanderer: And after Qxd4 you trade and play b7?
+[13:31:22] nyanners: but yeah it does seem like white could win a pawn with Qxd4 at least
+[13:31:37] nyanners: from pawn down to pawn up
+[13:33:23] kayrosas: how about Kd8
+[13:34:40] kayrosas: c5 is biblicial levels of greed
+[13:34:40] nyanners: i suppose its all you got
+[13:35:40] nyanners: if you get O-O-O it would not so bad..? well doubtful
+[13:36:57] fulmarsky: go nh!
+[13:37:12] kayrosas: 15.Ne5 Be6 Qf3 Rc8 Bf4 and something should work for white
+[13:37:27] fulmarsky: (14...c5) it's tense...
+[13:37:42] nyanners: theres always the other direction
+[13:37:58] nyanners: i remain interested in the positional rot after Ng5 Ne6
+[13:38:43] nyanners: the thing white has to do is to choose one and have enough time for when things get slightly weird soon
+[13:39:14] nyanners: like wouldnt go below 15 min for this move
+[13:39:44] fulmarsky: (14...c5) where ought that BK findeth santuary upon those tense 64 squares...
+[13:39:44] nyanners: in death
+[13:39:59] flipiflapi: Break out the cookies marsky
+[13:40:45] nyanners: giving an exchange would be really great but i see no good way to do so
+[13:41:00] fulmarsky: (15.Ng5)   such tenseness on these squares
+[13:42:01] silkthewanderer: 16 . Ne6 is already winning by force, right?
+[13:42:16] fulmarsky: (15...Nh6) oh dear...
+[13:42:47] nyanners: idk if winning material but i mean..
+[13:43:17] nyanners: theres no calculation needed to play that
+[13:43:33] nyanners: but you can calculate something else :o
+[13:43:33] silkthewanderer: Ne6 Ng4 Bf4 Qc6 Nc7 Kf8 Nxa8 Qxa8 Qe2 and everything is bad
+[13:44:18] silkthewanderer: 16. Qh5 was also a move
+[13:44:49] silkthewanderer: Ah wait that one is not as convincing, Qg6 exists and Bf7 then is not a thing
+[13:45:04] nyanners: i liked this one until i saw Bc6
+[13:45:19] nyanners: i suppose you just shuffle back and see if e6 lands
+[13:45:34] silkthewanderer: Qf3 Bc6 Bf4 is possible
+[13:45:50] nyanners: good enough i guess
+[13:45:50] nyanners: be4 bxe7 f3
+[13:46:51] fulmarsky: (16...Bc6) such immense discomfort ... oh at least black maintaineith that pawn advantage.  Please let perseverance have splendour on those
+[13:46:51] fulmarsky: (16...Bc6) tense 64 squares...
+[13:48:07] silkthewanderer: Qh5 Qg6 Qe2 Qd6 Bf4 is also fun
+[13:48:37] silkthewanderer: But eventually you just need to grab something before crazy stuff happens and Bf4 gets there quickest
+[13:49:38] fulmarsky: (17.Qe2) e6 square angst
+[13:50:09] nyanners: not even O-O-O, eh
+[13:52:10] kayrosas: 17...Kd8 could be weird enough
+[13:52:41] nyanners: maybe then finally ne6 cashout
+[13:53:11] nyanners: for bf4
+[13:53:42] fulmarsky: (17...a5) oh spendid panda let wistful thoughts occupy thy mind...
+[13:54:43] kayrosas: maintaining the extra pawn
+[13:55:29] ysgwydd: (18.Bf4) I don't think you should take that bishop
+[13:56:29] nyanners: maybe you should. end it all
+[13:56:45] kayrosas: up a pawn and a bishop
+[13:57:00] ysgwydd: (18.Bf4) Never resign!
+[13:57:00] kayrosas: just up a pawn in the end I guess
+[13:57:46] fulmarsky: (18.Bf4) let not one succumb to such despar, but NH, embrace a measure of tenacity... ooooh let not hope vanish from those squares...
+[13:59:02] fulmarsky: (18.Bf4) oh fluffy panda... persevere... persevere through the tenseness...
+[14:02:20] silkthewanderer: 19. Qh5 and we finally collect?
+[14:02:35] fulmarsky: (19.Ne6) oh dear, oh dear oh dear....
+[14:03:21] nyanners: i like this one but.. you know
+[14:03:51] ysgwydd: (19.Ne6) We don't guess well
+[14:04:06] nyanners: this actually seems even better than i thought. i just wanted to play a move
+[14:04:06] fulmarsky: (19.Ne6) i can't cope with those white pieces.   NH  please get through this tough patch, and arrive thereafter at a most eloquent position
+[14:04:22] nyanners: but it turns out actually everything is hanging
+[14:04:37] nyanners: and black's options are also limited
+[14:05:38] silkthewanderer: I just wanted to see something grabbed sooner rather than later
+[14:05:54] silkthewanderer: But ne6 is plenty soon enough
+[14:06:09] fulmarsky: (20.Bxd5) such overwhelming harmonic white pieces erupting in overwhelming melancholic 64 squared airs...
+[14:06:09] silkthewanderer: Yeeaah, that one is a free piece
+[14:06:55] silkthewanderer: Tbf there was no good move anyway
+[14:08:26] fulmarsky: (20.Bxd5) splendid panda maintaineth a smidgen of hope upon those squares...
+[14:11:13] nyanners: actually kinda crazy
+[14:11:13] fulmarsky: (20...Ra7) how hath this Ruy Lopez transposed to this kaleidoscope of 64 squared angst...
+[14:11:44] nyanners: naah id go with Bc4 first
+[14:11:59] nyanners: i guess you can do whatever. Be6 first
+[14:11:59] nyanners: or anything really
+[14:14:01] fulmarsky: (22...Qc6) now white moveth with tempo upon those squares so pragmatically.. ooooh such stoic tenseness
+[14:16:18] nyanners: 23..Rg8, might as well
+[14:16:49] nyanners: omg black actually did it
+[14:16:49] nyanners: love to see it
+[14:16:49] ysgwydd: (23...Rg8) A correct guess?!
+[14:19:06] nyanners: okay with all pieces out id feel the existential dread kick in
+[14:21:38] kayrosas: gg
+[14:21:53] fulmarsky: it's tense... gg both
+[14:22:54] zubenelgenubi: that was tense
+[14:22:54] zubenelgenubi: gg
+[14:23:09] nyanners: gg
+[14:24:56] ysgwydd: gg
+[14:29:45] zubenelgenubi: thx for the comments
+[14:32:47] zubenelgenubi: I was surprised by 7...d6, expected Bb7 or Na5 there
+[14:35:04] nirakuhakamura: next time
+[14:37:06] zubenelgenubi: I wanted to play 11.Ng5, I liked Nh6 Ne6 but then I spotted Nd8 also defending with ideas of c5 c4
+[14:42:41] zubenelgenubi: thx for the game, gl with the rest
