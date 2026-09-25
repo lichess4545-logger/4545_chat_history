@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/simLoeQc
+White     : wtm22
+Black     : computability
+Time      : 45+45
+Captured  : 2026-09-25 20:09:20 UTC
+Game ended : 2026-09-25 18:49:13 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[18:00:14] iwishiweredecent: let's go wtm!!!!
+[18:03:31] bncl: Go Computability!
+[18:06:34] computability: (10. O-O) out of book now
+[18:09:07] computability: kind of regretting not playing Rf6
+[18:21:33] computability: Rg6 Bxd5 Qxd5 sets up a nice discovered attack on their knight, but there's no obvious knight move.  Maybe d2?
+[18:24:05] bncl: Reverse bird opening happening here
+[18:25:21] computability: I really need to move this b8 knight soon though.  IF after Qxd5 they play qe4 I'll play Kc6 which should cleanly win a tempo
+[18:27:53] computability: Do I have Rxg2+ Kxg2 Nd3+ Kg1 Qg5#?
+[18:30:10] computability: no
+[18:31:11] bncl: Right, Bxd5 spoils
+[18:31:57] bncl: If Rxg2+ kxg2 Qg5+ is there anything?
+[18:37:32] bncl: tricky, I think queen has to stay and guard c pawn, seems like infiltration can happen now
+[18:38:18] bncl: have had bird positions collapse on me after losing some queenside pawns
+[18:40:35] bncl: black queen has a hard time coming back in to defend
+[18:43:53] bncl: Is there a path after 19. Bf8?
+[18:44:08] bncl: Bf8 Rxf8 Qxf8#
+[18:44:39] iwishiweredecent: Bf8 looks spicy
+[18:45:09] bncl: Bf8 Rg6 Nxg6+ hxg6 Qxg7#
+[18:45:24] bncl: Yeah white finds it, good stuff!
+[18:45:39] iwishiweredecent: Yeah this looks pretty rough for black,
+[18:45:39] iwishiweredecent: well played by wtm
+[18:45:55] bncl: Very well played
+[18:47:41] computability: the only way to survive I see here is Qxe5 then Rg6
+[18:48:12] iwishiweredecent: yeah black is gonna have to sacrifice their queen
+[18:48:12] bncl: oh good point, but then losing queen and rook!
+[18:48:12] iwishiweredecent: if they don't want to resign
+[18:48:42] bncl: gg!
+[18:48:42] iwishiweredecent: GG
+[18:48:42] computability: GG
+[18:49:43] iwishiweredecent: Bf8 was absolutely clinical
+[18:50:14] computability: The engine actually liked Rxg2
+[18:50:14] computability: Yeah Bf8 was nice
+[19:00:07] wtm22: Good opening by black. Wasn’t prepared for that quick development
