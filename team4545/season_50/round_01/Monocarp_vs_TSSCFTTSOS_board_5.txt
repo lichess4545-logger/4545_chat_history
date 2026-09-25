@@ -1,0 +1,22 @@
+Lichess game chat log
+Game      : https://lichess.org/c1hhF4TI
+White     : monocarp
+Black     : tsscfttsos
+Time      : 45+45
+Captured  : 2026-09-25 02:02:29 UTC
+Game ended : 2026-09-25 00:42:21 UTC
+Messages  : 12
+────────────────────────────────────────────────────────────
+
+[00:03:00] monocarp: (7... Nb8) okay, I've seen this move before but I can't really remember much about how white is supposed to play
+[00:10:37] monocarp: (10... Nh5) If e6, fxe6, dxe6, Nc5/Nb6 didn't cover Qa4+ we'd be in business
+[00:11:08] monocarp: oh right, Bb5+ would also work
+[00:12:39] monocarp: I don't see a refutation
+[00:13:40] monocarp: actually I need to calculate black's knight going to b8 again, so it can rerout to c6 (the other option is Ne5 which I protect)
+[00:16:43] monocarp: I just think that that ought be good for me, but I can't really see any concrete attack
+[00:21:02] monocarp: (13... Bxd7) I guess either black didn't see Nb8 or didn't like it (v. understandable) but it goes without saying I ought be better here
+[00:22:33] monocarp: (13... Bxd7) I almost blundered by playing 14. Bb5 here trying to force simplification
+[00:27:53] gavalanche20: Was 14. Ne5 anything
+[00:28:24] gavalanche20: Threaten Nd7 Qd7 Bb5 and Qf7#
+[00:29:40] gavalanche20: Wait the knights on h5 so the bishop controls e5 nvm ehe
+[00:35:15] monocarp: (17. O-O) maybe 17.Qxb7 was also good. It doesn't matter too much I guess, and that might have been a little riskier
