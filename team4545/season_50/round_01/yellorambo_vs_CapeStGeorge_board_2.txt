@@ -1,0 +1,81 @@
+Lichess game chat log
+Game      : https://lichess.org/jSfejg8e
+White     : yellorambo
+Black     : capestgeorge
+Time      : 45+45
+Captured  : 2026-09-25 18:01:37 UTC
+Game ended : 2026-09-25 16:41:29 UTC
+Messages  : 71
+────────────────────────────────────────────────────────────
+
+[14:03:02] pineapplechiffoncake: go yellorambo!
+[14:07:21] schittering06: Let's go yellorambo!
+[14:07:52] baberle: go bo!
+[14:18:47] jg777: Let’s go yellorambo!
+[14:29:11] mennonite: Go rambo!
+[14:44:09] yellorambo: my wires got crossed, I wanted to play Qd2 exd Bxd Nd5 Rg3 and bishop back
+[14:47:28] yellorambo: I'll give myself some time to resettle but Qd6 Rad8 Rd1 Nb6 (Nc5 drops e5) Bxb6 Qxb6 Qxe5 Qxb2  is what I'm looking at
+[14:47:43] yellorambo: I don't think this was the best recapture from Black
+[14:48:59] yellorambo: ah Qxb6 is +
+[14:54:19] mennonite: 13.a3 does seem best to me. ...Nc5 would have been hard to meet
+[15:10:04] yellorambo: 17...Qb6+ Kg2 Qd4 Rd3 and I haven't accounted for Qc4 but at the very least there's Bf3 or an instant Be3 on the check
+[15:14:23] yellorambo: thinking whether to play Nd5 before f6 - Nf4 I might sac and get the queen in
+[15:14:23] yellorambo: the queen infiltration attempts still don't seem that scary
+[15:18:11] yellorambo: I guess Kh8 has the marginal benefit over Kg8 that it gives you Rg8 to guard f7? now that you didn't go Ne8?
+[15:18:57] yellorambo: thinking Kwhatever8 Nd5 Qa7 Qe3 and h4 on h6 and the exchange sac on f4 with Qh4 to follow, but I'll have to look at queen infiltrations
+[15:21:14] yellorambo: 22...c4 Rd1, Qe6 Bg4, bxc axc and my other rook is playing
+[15:25:18] yellorambo: ngl I thought this wasn't possible because I capture
+[15:32:09] yellorambo: I'm trying to figure out if there's any merit to 26. Ne7, arguing the black knight is misplaced and Qe6 Qf3
+[15:32:24] yellorambo: I have no mate threat, Black will always have Rg8 and probably counterplay on my king even with a solo queen marauding
+[15:33:40] yellorambo: or the simpler Qe3 Nx Rx Qe6 Rad1 and I finally have a second rook
+[15:37:13] yellorambo: isn't 26...Nxd5 basically forced? Nd7 I can at the very least double up and Black wasted a ton of tempi
+[15:37:44] yellorambo: (if someone can save the chat I'd appreciate it, not sure where the cap is)
+[15:41:32] yellorambo: (27. Rd2) I don't see a good discovery and I want to keep up the clock pressure, Black is very passive and clearly struggling to move
+[15:41:32] mennonite: I can't figure out how to do it on my phone but I don't think we're even close to the limit anyway
+[15:41:48] yellorambo: getting my a-rook into the game is also very logical
+[15:44:51] goldenretrieverchess: Go yellorambo!
+[15:50:26] yellorambo: I don't think I want to stop c3, I have Rd3 and Rc5 to take advantage, and it doesn't open up a diagonal
+[15:50:41] yellorambo: similarly, 31...hxg6 Qxg6 and I just win
+[15:50:57] yellorambo: and now I threaten to take on e5 if the queen stopy guarding the pawn
+[15:53:14] yellorambo: I'd love 32. Kg3 to stop the check on d2 and allow d5 but I either disconnect the queen from h3 or run intoa pin on e5
+[16:03:54] yellorambo: degen line Rx ex ax Qxe5 bxa3 Rc7 something
+[16:04:24] yellorambo: but I'll probably just try to unlock the parked queen on d6 playing against the clock
+[16:05:10] yellorambo: actually, Qe7 might not be degen there
+[16:05:41] yellorambo: except for the part where I drop my rook in ten different ways throughout, of course
+[16:09:29] yellorambo: OK so Qa3 looks pretty great
+[16:10:15] yellorambo: 38. Qa3 e5 Qa7 hitting f7 I don't think that pawn push is meaningful
+[16:11:01] yellorambo: hmm an interesting option is h4-Qh3 and hit the diagonal, but that gives Black Ra8
+[16:11:47] yellorambo: h4 Ra8 Qh3 Ra4 Qc8 Rxb4 Rc7
+[16:11:47] yellorambo: I'm more concerned with Ra2 there
+[16:13:48] yellorambo: even if I can't take on f7 at all, I can watch e3 from a7 and target b5, but this will give the Black queen counterplay
+[16:14:04] yellorambo: I feel like this is the lesser of the two evils and my main mistake was not playing it instantly
+[16:14:49] yellorambo: hmm e4 Qg3 just came to mind but nvm
+[16:16:06] yellorambo: the rook endgame surely has to be winning
+[16:17:52] yellorambo: my thoughts revolve around Ra8 d6! discovery and either Qd5 or Rxe5 ideas
+[16:18:07] yellorambo: but I'm chiefly playing the clock, trying to avoid giving counterplay
+[16:20:25] mennonite: Kh7 seems dangerous since a future Rc6 would come with venom
+[16:21:10] yellorambo: oh I had d6, the queen protects the rook
+[16:21:10] yellorambo: but if Black keeps shuffling it's still on the table
+[16:21:26] mennonite: 42.d6 looks strong
+[16:21:41] yellorambo: d6 Qd5 Rc7 was probably great, now I just gave up the g4 square - I was acquiescing to a queen trade
+[16:21:56] yellorambo: clock's still fine for a 0.0 rook ending but this is a blemish
+[16:24:28] schittering06: Rc5 seems like a bit passive, I think moving the rook back to c6 is one of the better moved here
+[16:25:14] yellorambo: Qg4+ Qxg4 hxg4 Rc7-Re7
+[16:26:45] yellorambo: yeah this is where h4 hurts
+[16:30:49] jg777: I don’t see how white makes progress with no king cover.
+[16:31:20] grzybozbur: i don't see how white avoids mate
+[16:32:36] mennonite: Ouch
+[16:33:22] jg777: Well now it’s a very tough position sure, but before then it wasn’t clear how white makes progress.
+[16:34:22] jg777: Now something with Qxe4 Rxc3+ Kf2 and blacks playing for the win, the white rook is no longer in play.
+[16:34:38] grzybozbur: qg3 resigns
+[16:34:53] jg777: Of don’t see this, clever try
+[16:35:08] jg777: Oh*
+[16:35:08] mennonite: ...Rd3 now
+[16:35:23] iwishiweredecent: ouch
+[16:36:24] jg777: Yeah, king was always weak there and needed protections from black invading. Tough one.
+[16:37:25] jg777: It was a good game though, just needed to probably do some other moves, not h4, maybe more active rook idea, or so.
+[16:38:57] mennonite: If not for the d pawn there would be a funny stalemate try
+[16:40:58] goldenretrieverchess: gg
+[16:40:58] funnyanimatorjimtv: gg
+[16:41:14] iwishiweredecent: gg
+[16:41:44] schittering06: gg
