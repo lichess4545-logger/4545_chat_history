@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/5lNDUzrP
+White     : leverkuhn
+Black     : bickedag
+Time      : 45+45
+Captured  : 2026-09-25 04:40:52 UTC
+Game ended : 2026-09-25 03:20:44 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[01:05:26] leafonouronion: lets goooooooooo
+[01:07:28] bickedag: we'll see if it was a good idea to play a line I didn't know existed until today
+[01:12:17] nyanners: this line is never a good idea
+[01:19:08] bickedag: come to think of it, I forgot what to do if white ever plays Bb5... probably should have checked that
+[01:27:31] bickedag: ok surely Qd6 is ok, but maybe I should just let him double my pawns idk
+[01:31:04] nyanners: black certainly not concerned about Bxc6
+[01:31:19] nyanners: white's "best piece", c5 eventually
+[01:33:06] bickedag: ok so 7... Qd6 Qa4 I can't really prevent doubling so hmm
+[01:38:11] nyanners: all that to not play Bd6..
+[01:49:06] bickedag: my options aren't looking great. 9... Nd5 10. O-O Be7 11. Ne4 Qd7 12. Nc5 looks particularly strong
+[02:00:01] bickedag: am i crazy or is 11... Na5 not that bad looking
+[02:01:47] bickedag: I guess Na5 12. e4 e5 13. dxe5 Qxe5 Bf4 is unpleasant
+[02:03:49] bickedag: maybe rad8 was better
+[02:19:33] bickedag: I thought I could be clever for a sec with 12... Nb4 baiting 13. Qxb7 c6, but I think white just has 13. a3 and I have to go back
+[02:21:20] bickedag: actually what about Nb4 a3 and then c6 or a6
+[02:24:23] bickedag: looks very sketchy
+[02:25:39] bickedag: alright just take my knight already I give up
+[02:30:28] bickedag: probably white is just much better after 14. Na4
+[02:31:14] bickedag: maybe I have Qd5 and chill there
+[02:32:46] bickedag: if William Steinitz was white he would play 14. Be1
+[02:37:20] bickedag: why do I feel like 14... Rfb8 white plays b4 or something
+[02:37:20] bickedag: Rdd8*
+[02:37:35] bickedag: **Rdb8
+[02:38:36] bickedag: I was kinda banking on 16... Ne4 but idk
+[02:39:06] bickedag: just Ba5 sigh
+[02:41:08] bickedag: depression time
+[02:43:10] bickedag: wow I did not even consider Rc6 this is really really bad for me lmao
+[02:48:30] bickedag: I understand sir you are threatening 19. Nb6 very good sir
+[02:50:32] bickedag: time to curl into a ball
+[03:07:17] bickedag: f6 I know it's bad I cannot think straight with such a bad position
+[03:08:33] otbquadsicles: I don't particularly hate f6 lol
+[03:08:48] otbquadsicles: seems like a bit of an overreaction to automatically think it's bad
+[03:09:19] otbquadsicles: tbf I don't know if e5 is particularly an improvement on the position for black though
+[03:12:37] bickedag: dangit I did not have time but obviously 29. Nc3
+[03:14:39] otbquadsicles: Was Ka2 necessary, couldn't Nc3 have been played on move 28?
+[03:14:54] otbquadsicles: but yeah it's collapsing
+[03:16:10] nyanners: can resign
+[03:18:27] vayne987: gg
+[03:21:15] nyanners: gg
+[03:21:30] bickedag: that was rough but I am sure I learned something
+[03:21:30] leverkuhn: was curious about 22...Ra7 instead of 22...Ke7
+[03:21:45] otbquadsicles: oh I'm dumb
+[03:22:00] bickedag: yeah Ra7 was mostly a vibes move rather than a calculation move
+[03:22:00] bickedag: Ke7 I was worried about some Bxc7 exchange sac
+[03:22:15] leverkuhn: I thought if you continued the king march after 22...Ke7 23.Kd2 Kd7 it wasn't so easy for me as I don't have Kc2 right away
+[03:22:15] leverkuhn: oh gotcha
+[03:22:31] leverkuhn: Once I ejected the rook Black's position felt impossible
+[03:22:46] bickedag: but yeah these are decisions I make when my time gets very low
+[03:23:01] otbquadsicles: I thought black should try to get the knight to e7
+[03:23:01] leverkuhn: the QGA was quite a surprise!
+[03:23:16] otbquadsicles: funny thing was the meanevuer I thought of was f6 Nbf7-f5-e7
+[03:23:16] bickedag: yeah I was looking at your openings and honestly they are very solid
+[03:23:16] otbquadsicles: but ofc Nf6-g8-e7 is easier
+[03:23:31] bickedag: yeah I was thinking about something like that as well, probably should have tried it
+[03:23:47] leverkuhn: are you going to play your 2...a6!? stuff in the OTB tourney this weekend?
+[03:24:02] otbquadsicles: idk I think black's position's misery is mostly in it's looks tbh
+[03:24:02] bickedag: hehe good question
+[03:24:02] otbquadsicles: yeah it's not fun but it's not like, THAT bad
+[03:24:17] leverkuhn: those kind of lines are tougher to play in league because oppo will be ready
+[03:24:32] bickedag: yeah I can't be playing my dubious stuff sadly
+[03:24:47] leverkuhn: but OTB opponents typically won't know your repertoire!
+[03:25:03] bickedag: true, it's a bit of a gamble against strong opponents though
+[03:25:18] leverkuhn: I prepped once against 2...a6 when I was playing Astronominoff, and he didn't try it!
+[03:25:33] leverkuhn: now it's happened twice
+[03:25:33] bickedag: ah lol
+[03:25:33] bickedag: we are scared
+[03:25:48] bickedag: I was considering nimzo as well but your lines are squeaky clean
+[03:25:48] leverkuhn: next person who plays it against me in Blitz is in for a rude awakening I'll tell you what!
+[03:26:04] bickedag: lol
+[03:26:49] leverkuhn: I was planning to try 2...e6 3.Nf3 and go against your Bogo maybe
+[03:27:04] bickedag: oh that would have been smart
+[03:27:04] leverkuhn: would have been interesting
+[03:27:04] bickedag: I probably would play d5 and hope for ragozin
+[03:27:35] bickedag: I only looked at these QGA lines for like 30 minutes and never once checked Bb5
+[03:27:35] bickedag: jinxed you into finding it
+[03:28:20] leverkuhn: I spent a lot of time there, and concluded that the lines with h3, g4, and Ne5 intesifying that pin were really dangerous for Black
+[03:28:51] bickedag: yes honestly I was 90% sure you'd play 4. e4 so that was my bad
+[03:28:51] bickedag: 3. e4 I mean
+[03:29:06] leverkuhn: yeah I wanted to countersuprise a bit :)
+[03:29:21] bickedag: clever
+[03:30:22] bickedag: I am kind surprised that 7... Bd6 is the main line because I didn't like the look of 8. Qa4 Bxf3 9. gxf3 O-O 10. Bxc6 bxc6 11. Qxc6 for blac
+[03:31:23] leverkuhn: I did expect 7...Bd6, just because you need to chop the knight on e5 in case of h3, g4, and Ne5
+[03:31:53] bickedag: true that seems important
+[03:32:09] bickedag: I am basically following what jobava plays here and apparently he goes for 7... Be7
+[03:32:09] leverkuhn: I felt like if Black gets cornered into giving up the bishop pair on f3, the position is miserable
+[03:32:39] bickedag: yeah and for that reason I am supposed to just sac the c6 pawn
+[03:33:10] leverkuhn: I'm kinda surprised 6...Nc6 is even a line, of course it's Jobava!
+[03:33:25] bickedag: hehe
+[03:33:40] bickedag: I had the 3. e4 Nf6 prepped which is also his specialty
+[03:34:41] leverkuhn: Well we've definitely prepped each other for our next encounter, should be some fun mindgames!
+[03:34:56] bickedag: yes I look forward to it one day
+[03:34:56] leverkuhn: likewise; good luck this weekend, and in the season!
+[03:35:26] bickedag: thanks, good luck to you in the rest of 4545
