@@ -1,0 +1,90 @@
+Lichess game chat log
+Game      : https://lichess.org/sEPSCrtP
+White     : funnylikeaclown
+Black     : g3hul
+Time      : 45+45
+Captured  : 2026-09-25 21:14:29 UTC
+Game ended : 2026-09-25 19:54:15 UTC
+Messages  : 80
+────────────────────────────────────────────────────────────
+
+[18:11:09] bickedag: I am worried if black is already out of prep move 4
+[18:11:55] bickedag: lots of options i think, g6, Bg4 or e6
+[18:32:44] bickedag: free pawn? what's the catch
+[18:35:32] leverkuhn: looks like Black snatched a pawn and recovered his bishop pair . . . that can't have been the plan
+[18:38:34] bickedag: as long as we don't give back b7 were chilling
+[18:42:08] leverkuhn: even if he does, something like 11...Bd6 12.Qb5+ Qd7 13.Qxb7 0-0 might be a lot of initiative
+[18:42:23] bickedag: true
+[18:43:08] bickedag: black is splitting hairs here spending too much time
+[18:43:24] leverkuhn: agree
+[18:43:54] bickedag: c6 I like
+[18:43:54] leverkuhn: yep
+[18:44:40] leverkuhn: watch out for 12...Be7 13.Qg4 with dual threats of Qxg7 and c4
+[18:45:10] bickedag: ah good find
+[18:45:10] leverkuhn: I would advise unpinning with 12...Qc7 or something
+[18:45:26] bickedag: Bd6 is more natural
+[18:46:11] leverkuhn: 12...Qb6 looks right actually, as the knight covers Be3
+[18:46:42] bickedag: yes that would be nice
+[18:46:42] bickedag: even Qc7
+[18:48:28] nyanners: O-O is such a strange blunder. i feel its the kinda thing that doesnt happen in blitz :D
+[18:48:43] nyanners: some blunders happen only in very short and in very long tcs
+[18:48:59] leverkuhn: hehe that's true
+[18:48:59] nyanners: thats my running theory, at least :o
+[18:48:59] bickedag: very mysterious
+[18:52:01] leverkuhn: flac is playing for the clock pressure here, moving fast
+[18:52:32] bickedag: makes sense before black gets safe
+[18:53:18] bickedag: Be7 Ne4 Qg6 Nc5 to be annoying
+[18:54:03] inter-temporal: (13.Nd2) goo FunnyLikeAClown!
+[18:55:50] nyanners: Bd6, just play into it. nothing really matters
+[18:55:50] nyanners: white wont even trade i bet
+[18:56:51] leverkuhn: 13...Bd6 14.Ne5 Qe7 15.Nxd6+ Qxd6 16.Qg4 looks at both c4 and g7 again though, so Black has some stuff to figure out
+[18:57:36] nyanners: i thought qe5 but okay its not very stable
+[18:58:37] nyanners: okay this is probably a good one
+[19:02:41] bickedag: other than 14. Ne4 what to even consider?
+[19:02:56] bickedag: Qa4?
+[19:05:29] bickedag: ok now Bd6 and Qe5 looks natural
+[19:06:30] leverkuhn: yeah I feel like White really needs to eject the knight with c2-c4 and he hasn't made much progress towards that
+[19:09:48] nyanners: c4 is needed for Be3/Bf4 yeah
+[19:11:34] bickedag: Qe5 g3 Qh5 -+
+[19:12:35] bickedag: I guess white plays Qg4 for some hope
+[19:12:35] leverkuhn: looks like he'll have to
+[19:13:36] bickedag: could start with Nb6
+[19:14:52] bickedag: or Qf5
+[19:15:07] bickedag: that looks even cleaner
+[19:19:11] bickedag: 18... Nf6 19. g5 Ne4 followed by Be7 looks good to me
+[19:19:26] bickedag: though 19. Bg5
+[19:33:24] bickedag: suddenly white has pressure
+[19:33:24] leverkuhn: flac fighting really well as usual
+[19:33:39] leverkuhn: this g5-pawn is excellent
+[19:33:39] bickedag: 26... e5 necessary
+[19:35:26] leverkuhn: hmmm White could maybe try 27.g4 Ne7 28.f4
+[19:36:12] bickedag: f6 at least holds
+[19:36:27] bickedag: or Ng6
+[19:37:43] leverkuhn: hmmm I don't know about this combination of moves; White gave Black's knight squares
+[19:38:29] leverkuhn: I do like that Kf3-e4 is on the cards while Black's king is less mobile
+[19:39:00] bickedag: the knight can go to e4 and stops f6 while it sits in c5
+[19:40:46] nyanners: given the time situation i will say this is about even
+[19:40:46] nyanners: good job white :o
+[19:41:02] leverkuhn: whoa, spicy move!
+[19:41:17] bickedag: i like this
+[19:41:17] nyanners: i dont get it. whats on ep
+[19:41:32] nyanners: time to find out
+[19:42:02] nyanners: like okay you traded the active rook but.. this seems at least as dangerous
+[19:42:18] nyanners: white can regain the pawn immediately at the very least
+[19:42:33] bickedag: yeah i guess black is not much better here
+[19:42:48] nyanners: going for more :o
+[19:42:48] nyanners: respectable
+[19:43:49] nyanners: i suppose the pawn recapture wasnt so immediate as black has some annoying tempi after 33 Bxf4 into b4
+[19:43:49] nyanners: but yeah white has good pieces. might as well
+[19:45:36] bickedag: oh no
+[19:45:51] nyanners: now its a good time to have 30 minutes more
+[19:46:07] bickedag: indeed
+[19:46:07] nyanners: yea white has taken over
+[19:46:37] nyanners: thats kinda gg but still some motions to go through
+[19:48:39] bickedag: man that's rough
+[19:48:54] leverkuhn: 30...h5 was spicy but probably not good sadly, as the rook trade really accented White's king superiority
+[19:52:28] bickedag: Kf7 will seal it
+[19:58:34] leverkuhn: gg
+[20:01:22] bickedag: gg
+[20:01:52] nyanners: gg
+[20:02:23] leverkuhn: flac too strong in the middlegame
