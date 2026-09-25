@@ -1,0 +1,295 @@
+Lichess game chat log
+Game      : https://lichess.org/wHpeqrhD
+White     : scrytop
+Black     : fireball100
+Time      : 45+45
+Captured  : 2026-09-25 19:41:07 UTC
+Game ended : 2026-09-25 18:20:56 UTC
+Messages  : 285
+────────────────────────────────────────────────────────────
+
+[15:56:25] simonwashere: Go fireball!
+[16:02:31] joonaf: go fireball!
+[16:04:02] simonwashere: oh no the jobava
+[16:04:48] warvold: (4.Nb5) Go fireball!
+[16:04:48] simonwashere: Is Bd6 ok?
+[16:07:05] warvold: (6.a4) Sorry, I missed when Bd6 was possible
+[16:07:05] warvold: (6.a4) Here, the theory says b4 Bb6 a4 a6 a5
+[16:07:20] simonwashere: Instead of Bb4+ I meant
+[16:07:20] warvold: (6.a4) Yes, absolutely possible
+[16:07:36] warvold: (6.a4) Na6 Bd6 and Bb4+ are possible
+[16:07:51] simonwashere: ah interesting
+[16:08:06] warvold: (6.a4) I must say, I like to see Bb4+ when I'm playing white
+[16:08:37] warvold: (6.a4) But, as scrytop is not playing b4 tempo, I'm not sure he knows the line
+[16:08:52] joonaf: ..c6 now?
+[16:09:07] joonaf: Oh wait
+[16:09:07] warvold: (6.a4) Ah, missed a4
+[16:09:22] warvold: (6.a4) Yep
+[16:09:22] warvold: (6.a4) Bishop could get stuck
+[16:09:53] joonaf: ..c6 allows Nd6+
+[16:09:53] warvold: (6.a4) a6 is better
+[16:10:08] warvold: (6.a4) Remind me of our game we did not ended
+[16:13:11] warvold: (6...c6) Hmm
+[16:13:41] joonaf: Is this bad or ok
+[16:16:29] joonaf: I don't think it's a big mistake
+[16:16:59] simonwashere: Doesn't look fatal but probably not great
+[16:17:14] joonaf: Not great, not terrible
+[16:17:14] simonwashere: Presumably king goes to f8
+[16:17:30] fireball100: hello Wardold, joonaf and NLance!
+[16:17:45] simonwashere: and me as well!!
+[16:18:00] joonaf: Hi! I'd go Ke7 then Re8 and Kf8
+[16:18:31] simonwashere: yeah sounds sensible
+[16:18:46] joonaf: fireball is mad at you simon
+[16:18:46] simonwashere: oh no :(
+[16:19:16] simonwashere: I will have my revenge:
+[16:19:31] simonwashere: Hi Joonaf and Warvold and NLance
+[16:19:47] fireball100: so much for my early castle...
+[16:20:02] joonaf: gireball saw simon was here, and thought you're not here anymore
+[16:20:32] warvold: (7...Ke7) Haha
+[16:20:48] joonaf: Go King!
+[16:20:48] warvold: (7...Ke7) Alright
+[16:20:48] warvold: (7...Ke7) Centralizing is good
+[16:21:03] joonaf: Castling is overrated
+[16:21:03] simonwashere: still need to get rid of that knight unless it takes the bishop
+[16:21:03] warvold: (7...Ke7) Now, let's get rid of half the big pieces
+[16:21:18] joonaf: ..Bc7 takes care of it
+[16:22:04] simonwashere: If he plays Nxc8 that is probably nice, not the best bishop
+[16:22:19] nlance: 8Qb3 probably adds the most pressure
+[16:22:19] joonaf: The knight is also stuck
+[16:23:05] warvold: (8.Nxc8+) Good
+[16:23:05] warvold: (8.Nxc8+) Qb3 was trouble
+[16:23:20] joonaf: Yeah, getting rid of that LSB is good
+[16:23:20] joonaf: For black I mean
+[16:23:35] simonwashere: and we have better development now
+[16:23:50] warvold: (8...Qxc8) Yeah, and with Re8 Kf8, black has not lost that many tempi
+[16:24:06] nlance: Yes. Not an open position so it doesn’t really matter that the king is poorly placed
+[16:28:25] aldric123: Go fireball, my board is weird, hmm
+[16:28:25] warvold: (10.e3) No, no, it's the game alright
+[16:29:26] aldric123: It's fine now, after I refreshed a time or two. At first all the pieces were white, no black ones
+[16:30:27] warvold: (11...Nbd7) Game is rigged, we all know it
+[16:30:42] aldric123: Seems black has to be at least ok here. I'm not sure a big advantage, but can't be too bad
+[16:31:43] warvold: (12.Bd3) Very ok I think
+[16:31:43] aldric123: seems c5 is important move, but not sure if it should be done immediately or soon
+[16:31:43] warvold: (12.Bd3) I was wondering the same
+[16:31:58] warvold: (12.Bd3) white may play b4
+[16:32:13] warvold: (12.Bd3) But we could bring the knight on c4 then
+[16:32:13] tactix47: C'mon scrytop!
+[16:32:29] warvold: (12...Qc7) So, I'd play Re8 first
+[16:32:29] warvold: (12...Qc7) Qc7, why not too
+[16:32:59] aldric123: seems to force g3 or Qd2, though I guess f5 could be considered
+[16:33:30] warvold: (12...Qc7) f5 exf Bxf5 Re8 O-O Kf8
+[16:34:16] warvold: (13.Qd2) I guess you have to make the knight sing
+[16:34:16] warvold: (13.Qd2) knights*
+[16:35:01] aldric123: Hmm, h6, Rhc8 or c5 are what I'm considering I think
+[16:35:32] goldenretrieverchess: Go Brian!
+[16:37:18] warvold: (13.Qd2) I like c5 a lot
+[16:38:04] aldric123: I think I like it reasonably well too. It is one I was considering. :)
+[16:38:19] warvold: (13.Qd2) Completely agree :)
+[16:38:34] warvold: (13.Qd2) h6, I'm not sure
+[16:38:34] warvold: (13.Qd2) What could it prevent?
+[16:39:05] aldric123: just a combo of keeping anything out of g5 and not having to worry about h7 being weak. More just a longer term thing
+[16:39:20] aldric123: c5 is likely more to the point
+[16:39:36] warvold: (13.Qd2) Right
+[16:39:51] aldric123: I'd be surprised if white doesn't throw in Ne5 soon
+[16:41:07] warvold: (13...h5) That prevents g5 x)
+[16:42:54] aldric123: since h5 and 0-0 has been played perhaps keep pushing harry to h4
+[16:43:09] warvold: (14...Ne4) Hmm guess not
+[16:44:10] warvold: (14...Ne4) Bxe4 dxe4 Ng5 f5 c4
+[16:44:56] aldric123: I'm not in love with that line I don't think
+[16:45:11] aldric123: But it also doesn't look horrible
+[16:46:12] aldric123: I think ultimately black's king is going to be the more unsafe one
+[16:46:12] warvold: (15...dxe4) I think the same
+[16:46:42] warvold: (15...dxe4) But I don't see anything wrong yet
+[16:46:42] warvold: (15...dxe4) Hey GRC
+[16:46:57] goldenretrieverchess: Hey Warvold!
+[16:46:57] aldric123: it's pretty annoying that f5 will be required to protect e4, but then g5 and e5 will be forever outposts
+[16:48:14] warvold: (16.Ne5) Nxe5 fxe5 Rad8
+[16:48:14] aldric123: though that was in regards to Ng5. Ne5 gives other potential options
+[16:48:14] warvold: (16.Ne5) Nope
+[16:48:14] warvold: (16.Ne5) Not at all
+[16:48:14] warvold: (16.Ne5) Qg5+
+[16:48:59] warvold: (16.Ne5) We do not lose material but position is damned
+[16:49:15] aldric123: I'm looking at Rh6 or Rad8 atm
+[16:49:30] aldric123: Rh6 might allow f6 next move
+[16:49:45] warvold: (16...Nf6) As long as it was not f6, I'm happy
+[16:49:45] aldric123: This is ok
+[16:50:00] aldric123: So now e4 is safe for the near future
+[16:50:00] warvold: (16...Nf6) That's good
+[16:50:46] aldric123: Likely next moves are Rad8 and c5
+[16:50:46] warvold: (16...Nf6) I wonder... Rae1 g5 fxg5 Ng4 if Nxg4 hxg4 looks good
+[16:52:48] fireball100: I feel OK with this even with the uncastled K.
+[16:57:53] aldric123: I think Rhg8 with g5 next
+[16:58:08] aldric123: but c5 was my second favorite
+[16:58:53] aldric123: (18...c5) Testing. Ah yeah, I turned back on the extension
+[17:01:56] aldric123: (19.Qc4) Hmm seems like Rc8 is the move, though I guess b6 is something to consider
+[17:02:27] aldric123: (19...Rd5) I didn't even consider this. Interesting
+[17:02:42] aldric123: (19...Rd5) the pawn is still pinned though
+[17:03:12] aldric123: (19...Rd5) White can probably play b4 here
+[17:03:28] aldric123: (19...Rd5) which might force b6 then
+[17:04:13] aldric123: (19...Rd5) b4 or f3 seem interesting for white
+[17:04:28] warvold: (19...Rd5) b4 is scary
+[17:04:44] aldric123: (19...Rd5) Shrug b6 defends it for now
+[17:04:44] warvold: (19...Rd5) Well, probably ok
+[17:05:45] aldric123: (19...Rd5) If white doesn't threatening anything probably play Rc8
+[17:05:45] warvold: (19...Rd5) Yep, that defends well
+[17:06:00] warvold: (19...Rd5) Even after b4 b6 bxc bxc
+[17:09:18] aldric123: (20.b4) The good part of that line is it's hard for white to do much to the pawn on c5
+[17:09:34] aldric123: (20.b4) Just play Rc8 then and still threaten to take on d4
+[17:09:34] warvold: (20.b4) Problem may be with bxc bxc Rab1 Rc8 Rb2 xx Reb1
+[17:09:49] warvold: (20.b4) Ah right
+[17:09:49] aldric123: (20.b4) yeah if you utterly let him double on an open b file that could be annoying
+[17:10:19] warvold: (20.b4) ... Rb2 cxd Qxc7+ Rxc7 Reb1
+[17:10:50] aldric123: (20.b4) If queens get traded I don't think it's too scary anymore
+[17:11:36] aldric123: (20.b4) Also there's b6 bxc5 Rab1 Rb8
+[17:12:06] aldric123: (20.b4) granted if he trades then maybe could take on c5 but are double isolated c pawns that scary?
+[17:13:38] aldric123: (20...Rc8) Ah I see the idea. He takes on c5 and THEN you play b6
+[17:13:53] aldric123: (20...Rc8) I often forget stuff like that. I default to defending everything ahead of time
+[17:18:27] warvold: (22.c6) That's smart
+[17:19:28] warvold: (22.c6) What about Nd7?
+[17:19:59] aldric123: (22.c6) it's kind of interesting
+[17:20:14] aldric123: (22.c6) I think I like it but still thinking
+[17:20:30] aldric123: (22.c6) no wait
+[17:20:30] warvold: (22.c6) Ah
+[17:20:45] warvold: (22.c6) Qb4+?
+[17:21:15] aldric123: (22.c6) yeah that alone probably makes it fail
+[17:21:15] aldric123: (22.c6) I was looking at even just taking the knight with pawn
+[17:22:16] warvold: (22.c6) Nd7 cxd7 Qxc4 Nxc4 Rxc4 Rxe4 Rxd7
+[17:22:16] warvold: (22.c6) Looked fin
+[17:22:16] warvold: (22.c6) fine
+[17:22:47] warvold: (22.c6) But Nd7 Qb4 ruined it
+[17:23:02] aldric123: (22...Nd7) uh oh
+[17:23:02] warvold: (22...Nd7) Ouch
+[17:23:17] aldric123: (22...Nd7) I think he didn't consider the Qb4+ line
+[17:24:03] aldric123: (22...Nd7) I wouldn't do Rxd7 at the end of your line though
+[17:24:03] baberle: Go scrytop!
+[17:24:18] aldric123: (22...Nd7) I'd take on c3 I think. d7 isn't going anywhere
+[17:24:34] warvold: (22...Nd7) Oh right
+[17:24:34] warvold: (22...Nd7) Better
+[17:24:34] aldric123: (23.Qb4+) crap he found it
+[17:24:34] warvold: (23.Qb4+) Yep
+[17:24:34] aldric123: (23.Qb4+) Now black will need tricks
+[17:24:49] warvold: (23.Qb4+) Nc5 i guess
+[17:24:49] aldric123: (23.Qb4+) Or just lose
+[17:25:19] fireball100: saw that just after I played...
+[17:26:36] simonwashere: that is the sort of thing that happens to me all the time, chess is annoying
+[17:29:08] warvold: (24...Rxd6) Yep it is sometimes
+[17:29:38] aldric123: (25.cxd7) Definitely can be
+[17:30:09] aldric123: (25.cxd7) Dunno if you can even take on c3, and if you can't it's almost resignable
+[17:30:55] aldric123: (25...Rxc3) I guess Rc7 threatening f6 to trap knight is what I would played
+[17:30:55] aldric123: (25...Rxc3) I think now any rook to c1 is gonna be nasty
+[17:32:57] simonwashere: erk this is bad
+[17:33:27] warvold: (27.Rxc1) Rxd4 there is d8=Q
+[17:33:27] warvold: (27.Rxc1) And whatever takes back, there is a fork
+[17:34:43] warvold: (27.Rxc1) f6?
+[17:34:58] warvold: (27...f6) About the same
+[17:35:14] warvold: (27...f6) d8=Q+
+[17:35:44] aldric123: (27...f6) Yeah you're right. If white finds d8=Q it's utterly over instead of mostly over
+[17:37:16] warvold: (28.Nc6+) About the same
+[17:37:16] warvold: (28.Nc6+) gg
+[17:37:46] warvold: (28.Nc6+) Ah no, you can take d7
+[17:38:01] warvold: (28.Nc6+) Still doomed but not GG yet maybe
+[17:38:16] aldric123: (28.Nc6+) pretty much
+[17:38:47] aldric123: (28.Nc6+) Kxd7 I guess Nxa7 Rxd4
+[17:39:17] aldric123: (28.Nc6+) Still losing but not nearly as hard as if d8=Q+ was found
+[17:40:03] aldric123: (28...Kxd7) Sad part is that Kxd7 Nxa7 Rxd4 Nb5 is irritating
+[17:40:34] warvold: (28...Kxd7) Obviously, white best choice ic Nxa7 Rxd4 Rc6
+[17:40:49] warvold: (28...Kxd7) Threaten b6
+[17:40:49] warvold: (28...Kxd7) is*
+[17:41:04] aldric123: (28...Kxd7) You mean where he forgets about back rank?
+[17:41:04] aldric123: (28...Kxd7) :)
+[17:41:04] warvold: (28...Kxd7) Oh noo
+[17:41:34] warvold: (29...Rxd4) And now!
+[17:41:34] aldric123: (29...Rxd4) Nb5 or g3
+[17:41:50] aldric123: (29...Rxd4) But sure, maybe this fine player will forget utterly about his back rank!
+[17:42:20] warvold: (29...Rxd4) Well, I'm GrandMaster at coping
+[17:42:51] simonwashere: g3 wouldn't be a terrible idea as a precaution
+[17:43:21] warvold: (29...Rxd4) g3 h4
+[17:44:07] warvold: (31.g3) Maybe g5
+[17:44:07] warvold: (31.g3) first
+[17:44:22] simonwashere: we have a passed pawn!
+[17:45:08] warvold: (31...f5) Hmm, that's not what I'd have played here
+[17:45:23] warvold: (31...f5) A bit too passive
+[17:45:38] simonwashere: I was thinking Rb4
+[17:48:26] warvold: (33...Rb4) Alright
+[17:48:41] warvold: (33...Rb4) Let's find a new plan
+[17:49:27] warvold: (33...Rb4) Nd6 Rb1+ Kg2 Rb2 Rh7 e3!
+[17:49:42] warvold: (34.Nc3) That's ok, Rb3 first then
+[17:50:58] warvold: (35.Ne2) Hey, Rb1+ Kg2 Rb2 Nc3 e3 works well
+[17:51:44] aldric123: (35.Ne2) looks ok for a bad position yep
+[17:52:14] aldric123: (35.Ne2) Though if I were white I'd do Nd4 over c3
+[17:52:14] aldric123: (35...Rb1+) to threaten e6 with check
+[17:52:29] warvold: (35...Rb1+) Right
+[17:53:30] warvold: (36...b5) Alright, new plan
+[17:53:46] warvold: (36...b5) Meh, old plan is still doable
+[17:53:46] warvold: (36...b5) Let's keep it
+[17:54:16] aldric123: (37...b4) trying to make the b pawn scary, why not?
+[17:54:16] simonwashere: I like this plan
+[17:54:31] aldric123: (37...b4) It shouldn't work, but maybe white messes up
+[17:55:02] warvold: (37...b4) Nxe6 would be a nice way to start, Kc8, preventing Rb7
+[17:55:48] simonwashere: positive mental attitude, this will definitely work :)
+[17:56:03] simonwashere: white should resign now
+[17:56:18] aldric123: (37...b4) haha
+[17:56:18] simonwashere: oh no
+[17:56:33] warvold: (38.Rb7) Alright, Rb2 now
+[17:56:33] warvold: (38.Rb7) Back to previous plan
+[17:56:49] aldric123: (38.Rb7) Nah tap the rook with Kc8 I think
+[17:56:49] warvold: (38...Kc8) Hmm
+[17:57:04] warvold: (38...Kc8) Rb6
+[17:57:19] aldric123: (39.Rb5) sure, and then the many king follows with Kc7 but he played b5 instead
+[17:57:34] aldric123: (39.Rb5) err manly
+[17:58:05] aldric123: (39...Kc7) bah, Kd7 I liked more
+[17:58:20] warvold: (39...Kc7) Same
+[17:58:20] aldric123: (39...Kc7) Now he can just take on e6 and come back to e5 if Kc6
+[17:59:51] aldric123: (41.Nd4+) definitely approaching resign territory, though that's up to fireball
+[18:00:06] warvold: (41.Nd4+) I think so too
+[18:01:54] aldric123: (44.Kh3) hard to find a move
+[18:01:54] warvold: (44.Kh3) I only see Rb2
+[18:03:56] davidsifre: I have to say I like white’s position a lot. If only he had more pieces.
+[18:04:26] davidsifre: Wait. Reverse that.
+[18:04:57] davidsifre: Fireball always wins. No matter what the odds.
+[18:05:12] warvold: (44...Rb2) Hey David
+[18:05:27] warvold: (44...Rb2) We are all convinced, except for his opponent
+[18:05:27] davidsifre: Good sir.
+[18:05:42] davidsifre: His opponent has a fool for a mate. Hardly worthy of our concern.
+[18:06:13] aldric123: (45...Rxf2) Re5 I think I like
+[18:06:28] aldric123: (45...Rxf2) can't really defend e4
+[18:06:28] warvold: (45...Rxf2) Can't take the pawn
+[18:06:43] davidsifre: I won my OTB game last night. Very exciting game because of how poorly we both played.
+[18:06:43] aldric123: (45...Rxf2) I've kind of forgot which side I want though as a defensive mechanism
+[18:06:43] warvold: (45...Rxf2) Rxe4 Kd5
+[18:06:43] aldric123: (45...Rxf2) I mean that I want to win
+[18:06:59] aldric123: (45...Rxf2) Grats David!
+[18:06:59] warvold: (46.re5) gg!
+[18:07:14] davidsifre: Thanks. Thats one child who will fear his elders from now on.
+[18:07:59] davidsifre: Always root for fireball, Aldric. It’s easy.
+[18:07:59] warvold: (46.Re5) I believe!
+[18:10:01] davidsifre: Cleanest path to victory is to take his rook and knight then promote the two pawns.
+[18:10:32] davidsifre: High level strategy requiring a bit of planning but that is the grunt work.
+[18:11:02] warvold: (46...e3) Hmm
+[18:13:19] warvold: (48...b3) Welp, plans are dwindling
+[18:13:19] davidsifre: Should have taken with the rook, no?
+[18:13:50] warvold: (48...b3) Probably a bit better
+[18:13:50] davidsifre: Guess knight covers it next move
+[18:14:05] warvold: (49.Nc4) Problem is, even if you give up the knight
+[18:14:20] warvold: (49.Nc4) There is an army on the kingside
+[18:14:20] davidsifre: Merely pawns.
+[18:14:35] warvold: (49.Nc4) Rc2?
+[18:14:35] davidsifre: Cannon fodder.
+[18:14:51] warvold: (49.Nc4) Rc2 may be good
+[18:15:21] warvold: (49.Nc4) Nevermind
+[18:15:21] davidsifre: Na5 forks king and pawn
+[18:15:21] warvold: (49.Nc4) Na5
+[18:15:21] warvold: (49.Nc4) Right
+[18:15:36] warvold: (49.Nc4) Ra2?
+[18:15:52] warvold: (49...b2) Alright
+[18:16:07] warvold: (49...b2) Let's see this defense against cannon fodder
+[18:16:37] davidsifre: First he needs the cannon. Thats the rook.
+[18:16:53] davidsifre: This position is a theoretical draw against me.
+[18:20:56] warvold: gg
+[18:21:27] simonwashere: gh
+[18:21:58] simonwashere: gg even
+[18:22:13] fireball100: Thanks
+[18:22:43] davidsifre: You’ll get em next time!
+[18:23:14] fireball100: Blunder mv 21 lost N and game, but I had hopes on the pawns side..
+[18:25:46] fireball100: correct move was Ng3 - I almost did that and decided to be fancy. Boring is good sometimes
+[18:27:32] fireball100: All I had to do was ask "Can he check me after that move? " Simple but we seem to miss these quite often
