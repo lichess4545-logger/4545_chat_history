@@ -1,0 +1,209 @@
+Lichess game chat log
+Game      : https://lichess.org/C6XGz3qr
+White     : kyriakos1301
+Black     : momor
+Time      : 45+45
+Captured  : 2026-09-25 19:56:20 UTC
+Game ended : 2026-09-25 18:36:11 UTC
+Messages  : 199
+────────────────────────────────────────────────────────────
+
+[16:27:55] genturgidson: Go momor!
+[16:29:57] kyriakos1301: Hello everyone!
+[16:30:27] kyriakos1301: at some point I need to castle and consider a minority attack
+[16:31:13] kyriakos1301: also not sure what to do vs h6. I am thinking either Bh4 or Bf4
+[16:33:45] aldric123: Just starting to check the game out now. Go Kyriakos.
+[16:35:16] kyriakos1301: OK, Aldric I promise to start thinking soon :)
+[16:36:02] aldric123: I kind of play these lines as white, but I usually do the Ne2 instead of Nf3 lines, so I'm more familiar with this as black
+[16:36:18] aldric123: Probably have to trade on e7 here
+[16:38:04] kyriakos1301: not sure if Nxe4 is worth it. Nxe4, Bxh4, Nd6
+[16:41:38] aldric123: You could do Bxe5 dxe4 Nd2 and claim e4 is a bit weak, perhaps try to force f5
+[16:42:08] aldric123: with ideas of Rac1 Rfd1 and perhaps looking to play d5 and eventually pressure e4
+[16:42:23] kyriakos1301: OK I am thinking, either  Rb1 - b4 or Rfe1 - Nd2-f3
+[16:44:25] aldric123: in these positions minority attacks are rarely a totally bad plan
+[16:46:27] genturgidson: Go momor!
+[16:50:46] kyriakos1301: 13... Nf6 seems the obvious move here
+[16:51:17] kyriakos1301: what do I know, Knight on f8 there is no mate
+[16:52:17] aldric123: That is a saying for sure, though the bishop in front of the Q is no mate anyway. :)
+[16:53:18] aldric123: Bxe4, Nd2, or Rab1 with b4 next are the three things I like
+[16:54:35] kyriakos1301: 15 Ne5 seems interesting
+[16:54:50] aldric123: It's true. Though you have to be slightly careful about trying to win a pawn that way
+[16:55:20] kyriakos1301: Ne5, NxN and I am not sure if QxN or bxN. Also there is Ne5 Nd7
+[16:55:20] aldric123: I think I'd do the Rab1 and let him show you his plan
+[16:55:36] aldric123: If then Bg4 THEN Ne5
+[16:55:51] kyriakos1301: let's go for it
+[16:59:40] kyriakos1301: 14 ... f6 feels like an error
+[16:59:55] aldric123: It's definitely weakening. I think you do have to just go back to f3 with N trhough
+[17:00:10] aldric123: Though you could do Bxe4 first if you wanted to
+[17:00:10] aldric123: Err no you couldn't
+[17:00:40] aldric123: Well, you could do it if you wanted the Knight on e5 to go to c4
+[17:01:11] aldric123: it's hard to fully calculate. Safest by far is just to go back to f3
+[17:07:17] aldric123: (15...Ng6) First instinct here is probably Nd2, and if he takes either K you take first on g6
+[17:07:47] aldric123: (15...Ng6) Though if Nd2 f5 haven't decided if f3 is good or not
+[17:07:47] nyanners: black is definitely stretching it
+[17:08:02] aldric123: (15...Ng6) Ah nyanners, haven't seen you in a bit
+[17:08:02] nyanners: :o hey
+[17:08:33] genturgidson: momor you need to learn from me about the loose knights!
+[17:08:48] nyanners: insane that black may be getting away with this
+[17:09:03] genturgidson: I can't see a way to immediately punish it though or anything, but I also can't see where it's ever going.
+[17:10:20] kyriakos1301: Hey, nyanners!
+[17:10:50] nyanners: :o
+[17:10:50] nyanners: okay heres the tech: Nd2 f5 Nf3. trust
+[17:11:05] kyriakos1301: 16 h4?
+[17:12:52] aldric123: (16.Nd2) hehe the trust
+[17:12:52] genturgidson: Predicted.
+[17:13:38] nyanners: the thing is just like, clearly black is concerned with Ne5 landing. so thats disturbing
+[17:13:53] nyanners: doesnt matter if its actually good..
+[17:14:09] nyanners: then after that you can minority attack or something
+[17:14:09] nyanners: definitely something
+[17:14:54] aldric123: (16...f5) Yeah I wanted to Rab1 and b4 a bit ago
+[17:15:10] aldric123: (16...f5) But how he did play did get him to have Black play f6 then f5
+[17:15:55] kyriakos1301: oh I am not sure I can play f3.
+[17:16:26] nyanners: f3 Nd6 holding is disturbing
+[17:16:41] nyanners: but you already have Re1, at least it wont lose immediately
+[17:16:56] genturgidson: I find this position to be histrionic and meretricious.
+[17:17:27] aldric123: (17.Rab1) Are you trying to get us to use dictionaries? Meanie!
+[17:17:57] kyriakos1301: hmm maybe Nf8 and then f3?
+[17:18:12] aldric123: (17.Rab1) Hmm meretricious is an interesting word when you look it up. Thanks.
+[17:18:28] kyriakos1301: I meant Kf1 :)
+[17:18:58] nyanners: umm but why. the issue is not e3 needing protection
+[17:19:13] aldric123: (17.Rab1) Yeah don't really understand Kf1 myself
+[17:19:59] nyanners: nf1 is meant surely
+[17:20:45] genturgidson: Nf1 preparing Ng3?
+[17:21:15] nyanners: ng3 may actually enable f
+[17:21:15] genturgidson: Or f3 then Ng3 perhaps?
+[17:21:15] nyanners: f4
+[17:23:02] genturgidson: Ah yes and white wouldn't be able to overpower the e4 square anymore with some Nxe4 dxe4 Bxe4 type sequence.
+[17:23:02] nyanners: yea Rb1 is sane
+[17:25:50] aldric123: (17...Nh4) Nh4 is interesting
+[17:26:05] aldric123: (17...Nh4) He is threatening caveman stuff like Qg5
+[17:26:21] nyanners: looks like f3 incentive
+[17:26:21] nyanners: no wait thats Bad
+[17:26:36] kyriakos1301: I guess Qg5 is next
+[17:26:36] genturgidson: Yes the idea is obviously g3 Qg5
+[17:26:36] genturgidson: But to what end?
+[17:26:51] nyanners: after f3 Qg5 you cant actually defend f3 and g2
+[17:27:06] nyanners: so maybe its Nf1 after all..
+[17:27:21] nyanners: good (probably) :o
+[17:28:07] aldric123: (18...Qg5) If black still plays Qg5 what's the play?
+[17:28:07] aldric123: (19.Ng3) Ng3 seems only realy way
+[17:28:53] nyanners: yeah but its a good one
+[17:28:53] aldric123: (19.Ng3) Be funny if caveman continues and black plays h5 to threaten Nxg2
+[17:29:23] nyanners: just let it go right
+[17:29:54] genturgidson: Come on momor bring us a win!
+[17:30:40] kyriakos1301: he can't do it right now but Bh3 is interesting for black
+[17:31:10] nyanners: f4 is interesting for both
+[17:31:41] kyriakos1301: Black's Knight on e4 is REALLY annoying
+[17:31:56] genturgidson: f4 looks very cheeky.
+[17:32:26] genturgidson: But e4 getting overpowered is bad probably.
+[17:32:42] genturgidson: If black doesn't find some crushing tactic.
+[17:33:12] nyanners: yeah seems a bit early because exf is tempo
+[17:33:43] nyanners: if it becomes serious, white can also do it :o
+[17:33:43] nyanners: no time for Nxg3 because its tempo
+[17:34:28] aldric123: (19...h5) caveman
+[17:35:29] nyanners: my reflex is to ignore this entirely but it deserves the minutes
+[17:35:29] kyriakos1301: Kf3+ does that work?
+[17:36:00] nyanners: like the thing is, black does whatever, plays h4, white leaves it and recaptures and reinforces again. so what
+[17:36:45] aldric123: (19...h5) I guess you might be right
+[17:37:31] aldric123: (20.Nce2) the end result is just losing a knight and h pawn from both sides
+[17:38:32] nyanners: its good for white actually. king improves
+[17:38:32] nyanners: and potential burned
+[17:38:47] nyanners: unless theres some concrete line
+[17:43:21] genturgidson: He wants to lure Kxg2 h4 perhaps.
+[17:43:52] aldric123: (21...h4) I just hovered over you nyanners, and I find it slightly amusing that you've commentated on a zillion of these 45 45 games and ...
+[17:43:52] aldric123: ...have never played rapid or classical on lichess
+[17:43:52] nyanners: XD
+[17:44:07] genturgidson: Maybe white thought they had f4. Is there a way out?
+[17:44:22] nyanners: this is the exact line i meant. white's position has improved massively
+[17:44:37] aldric123: (22.Rh1) Don't forget one thing htough
+[17:44:53] genturgidson: Oh wait I forgot he already sacrificed the knight so not going up a piece lol.
+[17:44:53] aldric123: (22.Rh1) There's some potential Nxf2 Qxe3 in various lines
+[17:44:53] genturgidson: 1800 elo brain
+[17:45:08] nyanners: umm cant say i considered that
+[17:45:23] nyanners: but still nothing it seems
+[17:45:23] aldric123: (22.Rh1) Yeah I'm not sure it leads anywhyere yet, but it's kind of potentially there
+[17:45:38] nyanners: black definitely needs f4 to make that work so you bring the bishop
+[17:45:54] genturgidson: Wow, premoves.
+[17:45:54] nyanners: but white will just play Nf4 now
+[17:45:54] nyanners: good premove
+[17:46:09] genturgidson: Until it's not.
+[17:46:09] nyanners: id premove Kxf2 because i think black is in the mood
+[17:46:39] nyanners: premoving the opponent's sacrifice is insane aura
+[17:46:39] genturgidson: Oh yeah some cheeky Nxf2 Kxf2 Qxe3+ silly stuff perhaps?
+[17:46:54] bxvrc2lh: Yeah Nxf2 looks scary
+[17:46:54] bxvrc2lh: But let's go kyriakos
+[17:46:54] nyanners: not scary after 10 seconds tbh
+[17:47:10] nyanners: like, there are literally no more checks
+[17:47:10] genturgidson: Go mormor!
+[17:47:10] genturgidson: Bring one home for There Will Be Blunders!
+[17:47:25] kyriakos1301: he can think of sac his other knight, but my plan is simple now double my rooks on the h file
+[17:48:11] nyanners: umm does this help b? probably not
+[17:48:11] aldric123: (24.Rh4) Rh4 and Nf4 both looked good
+[17:48:11] bxvrc2lh: Position wise it looked good, knight for 2 pawns but white exposed
+[17:48:41] nyanners: i dont think the king is exposed really. white has strong control over the relevant light squares
+[17:48:41] bxvrc2lh: Nf4 looked safer
+[17:48:41] nyanners: so black would need to give another pawn with f4
+[17:48:56] genturgidson: No this looks kind of scary for black. Doubling the rooks, possubly Nf4 does some clamping
+[17:49:12] nyanners: id play Nf4 because its a super lazy move and youre never worse
+[17:49:12] bxvrc2lh: Yeah g5 f4 plan before
+[17:49:12] nyanners: but if nothing is happening then Rh4 makes more sense
+[17:49:27] bxvrc2lh: But too late for that
+[17:49:42] nyanners: after Be6 definitely nothing is happening
+[17:49:58] genturgidson: Hmm, ok. The king now goes on a magical mystery tour of the continent.
+[17:50:13] genturgidson: The rooks may tickle the queen a bit? Does it lead to some tactic?
+[17:50:28] nyanners: start with Nf4 anyway i guess
+[17:50:43] nyanners: but this move order was good to deny Rh8
+[17:50:58] kyriakos1301: Maybe Nf4 and then reroute the bishop e2 to h5???
+[17:51:29] nyanners: omg Bh5 :o may be overcooking
+[17:51:44] nyanners: like black already wants to run to the queenside anyway
+[17:51:44] bxvrc2lh: Either that or take on e4
+[17:51:44] kyriakos1301: I still have to think about Nxg3 thought
+[17:51:44] genturgidson: Some sort of Rh7 followed by Rh1h6 with Rg6 defended by the knight on f4 could happen.
+[17:51:59] genturgidson: But the black king is on a journey.
+[17:51:59] nyanners: when nothing is happening on the kingside id go with b4
+[17:52:15] nyanners: like, id play Nf4 here just because, and then b4 next probably
+[17:53:00] genturgidson: Some queen tickling probably can't hurt?
+[17:53:00] nyanners: it might :o tempo for g5
+[17:53:16] nyanners: but its probably bad for b
+[17:54:01] kyriakos1301: I need to activate my Queen
+[17:54:47] nyanners: naaaaahhhh not Qb3. definitely b4
+[17:55:17] nyanners: though okay its a bit annoying actually
+[17:56:18] nyanners: like, how do you actually defend. reb8 is not ideal
+[17:56:34] nyanners: Nd6 is also not
+[17:56:49] nyanners: b6 is bad if its not good.. which it could be
+[17:57:35] nyanners: i mean, now the king is always unsafe
+[17:57:35] nyanners: but maybe its manageable??
+[18:00:53] nyanners: id say Bf7 could be a sign of g5 but then Rh6 seems spooky
+[18:01:39] nyanners: yeah Rh7 denies that entirely
+[18:03:41] kyriakos1301: I think Nh5 will overcomplicate this, maybe I should play it safe
+[18:04:26] aldric123: (30.R7h4) could throw in Qa3+ first but ah well
+[18:05:12] aldric123: (30...g6) nah if that was done I guess Qd6 almost forces queen trade, and who wants that
+[18:07:29] kyriakos1301: Does Nh5 work now?
+[18:08:30] aldric123: (32...Rxh8) I think he can't take the knight, but you wouldn't have been double attacking the rook by doing it
+[18:08:45] aldric123: (34.Qa3+) a pawn!
+[18:12:49] genturgidson: What.... I was looking back some moves like 10 minutes ago and because I wan't on the live position it didn't update.
+[18:13:05] kyriakos1301: Qd6+ might have been better here
+[18:15:07] genturgidson: Go Momor! down a P but this is much more playable now surely. Tension relieved.
+[18:20:11] genturgidson: Hmm, 36...c5 break now?
+[18:20:42] genturgidson: Although it feels so sketchy once black leaves that b file. White can start pushing the passed pawn on the a file.
+[18:21:27] genturgidson: Maybe with Be8 now  c5 is still threatened.
+[18:22:59] genturgidson: Bishop no longer defends b5 though I guess for c5 break. No good.
+[18:22:59] genturgidson: *d5
+[18:27:18] genturgidson: Need to watch out for Qh4+. Kind of forced g5 to not lose the queen then the queen is going nuts on the king.
+[18:27:48] genturgidson: Probably some perpetual if white is tired.
+[18:28:19] genturgidson: I think white may have a perpetual here if they're in the mood.
+[18:28:49] mootivator: Doesn't this win a knight?
+[18:29:04] genturgidson: What line?
+[18:29:50] mootivator: Qg7 Kd8 Qf6
+[18:30:05] mootivator: Kd7 is met by a knight check
+[18:30:36] mootivator: And Kc7 Qe7 should be it
+[18:30:51] genturgidson: Ohhhh yeah the Qe7+ on the end I missed.
+[18:32:07] genturgidson: I think you were right.
+[18:33:54] nyanners: so qg7 block
+[18:35:40] genturgidson: UGH this is nasty.
+[18:37:57] genturgidson: GG. Sounds like the fatal mistake was Nxg2, opening up the h file.
+[18:37:57] nyanners: dang
+[18:38:12] nyanners: gg
+[18:38:28] nyanners: i mean Nxg2 is a mistake because it doesnt do anything..
+[18:38:43] genturgidson: I mean it does look cool as a "tactic" I could imagine myself doing it too.
+[18:38:58] nyanners: it stabilizes the kingside and if not the h-file then white would still have the minority attack
