@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/8ZtqGeoW
+White     : gingersquirrelnuts
+Black     : zorakforpresident
+Time      : 45+45
+Captured  : 2026-09-25 21:48:52 UTC
+Game ended : 2026-09-25 20:28:45 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[18:25:52] mrmatt96: Let's go, Ginger! Good luck!
+[18:30:26] gingersquirrelnuts: Got an awful cold today so probably won't be up for too many tricky thinks
+[18:53:32] inter-temporal: (12...Re8) go Gingersquirrelnuts!
+[19:03:11] inter-temporal: (14.Bg5) so, i might have just one unsolicited suggestion for GSN:
+[19:03:57] inter-temporal: (14.Bg5) avoid releasing the tension via c4-c5.
+[19:04:58] inter-temporal: (14.Bg5) coincidentally, the famous book Logical Chess Move by Move, has some explanations about that
+[19:05:44] gingersquirrelnuts: (14) I don't know what the exact plan is here, but it asks a few questions.
+[19:09:01] inter-temporal: (14.Bg5) hi cake! :)
+[19:09:17] pineapplechiffoncake: hi!
+[19:11:49] inter-temporal: (15.Rxe8+) g5 square became a little shakey. lol
+[19:12:35] k5kgc: Let's go Zorak!
+[19:28:04] gingersquirrelnuts: Ouch this is not good now (20)
+[19:30:36] inter-temporal: (20.Qh4) g5 square remained a bit unstable
+[19:30:51] prostidude: Go go sprak!
+[19:30:51] prostidude: Zorak
+[19:32:07] prostidude: Lol it autotranslated it the Dutch word for spoke (past tense of speak)
+[19:32:23] k5kgc: Lol
+[19:33:08] inter-temporal: (20...Bxe3) it don't sprechen zie spoke
+[19:33:23] prostidude: Did white just miss Re1?
+[19:33:39] inter-temporal: (21...Qxe3+) there might have been a deperado with Bxf2+
+[19:34:09] prostidude: Nah Bx Qx
+[19:34:40] inter-temporal: (21...Qxe3+) just a pawn and some cover
+[19:35:10] prostidude: Yeah this is still a 3 results
+[19:36:11] inter-temporal: (22.Kf1) but the Re1 line did seem a little better for white
+[19:43:03] inter-temporal: (22.Kf1) therez still some tension on the q-side
+[19:58:17] prostidude: Looking very good for black now
+[20:02:06] prostidude: Qb1 picks up a pawn
+[20:02:21] prostidude: But maybe there is something better
+[20:05:08] prostidude: Ne4!!
+[20:12:45] inter-temporal: (29.Qd2) im back. what did i miss
+[20:13:16] inter-temporal: (30.Nxd2) white has some defending to do
+[20:14:01] k5kgc: Hang in there Zorak, you got this!
+[20:23:55] inter-temporal: (35.Ne5) good try
+[20:24:41] inter-temporal: (35.Ne5) "Never resign! (unless you feel like it)"
+[20:25:27] inter-temporal: (35.Ne5) ...d2+ might end of all the fun trying to defend
+[20:26:58] inter-temporal: (36...c3) Nd3 Nf2+, Ke2 d1=Q.
+[20:27:13] inter-temporal: (37.Nxg6) there's no good way to cover d1 with the N
+[20:27:59] gingersquirrelnuts: Oh that was siilly....
+[20:27:59] kayrosas: Nd3 would've kept the game going, covering f2. but black king just walks up
+[20:28:14] inter-temporal: /w (37.0-1White resigned • Black is victorious) good fight.
+[20:28:14] kayrosas: gg
+[20:28:14] inter-temporal: gg
+[20:30:31] gingersquirrelnuts: Yeah, allowing Bf4 was the big mistake. Never recovered from that
+[20:32:18] gingersquirrelnuts: And yes, I wouldn't normally play c5 but was looking at similar positions earlier and it seems to be a thing people play. Didn't work here
+[20:34:04] gingersquirrelnuts: And to answer your point Zorak, no I never thought Qh4 was winning, it was the only thing I could see that wasn't losing!
+[20:35:20] zorakforpresident: I feel like, somewhere around move 10, I let c6 get weak.  It never was punished but it was weak.
+[20:35:51] zorakforpresident: Then, I got a bit lucky on move 18, because I had not planned to be able to defend h7 with Nf6...it just happened to be there.
+[20:37:22] gingersquirrelnuts: Yeah, I had an eye on it- don't think there was a good way to exploit it
+[20:37:52] zorakforpresident: But without Nf6 it would have been winning.  And I didn't account for it--it just was there.
+[20:38:08] gingersquirrelnuts: True, without that Knight there you'd have been stuck
+[20:44:28] gingersquirrelnuts: Anyway- enjoy the rest of the season!
+[20:46:14] zorakforpresident: Also, after 20...Bxe3 I thought you might have had something tricksy down the e-file, but the engine doesn't think it's there.
