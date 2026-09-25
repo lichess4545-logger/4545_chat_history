@@ -1,0 +1,144 @@
+Lichess game chat log
+Game      : https://lichess.org/DwBw8iRf
+White     : genturgidson
+Black     : mootivator
+Time      : 45+45
+Captured  : 2026-09-25 16:50:35 UTC
+Game ended : 2026-09-25 15:30:27 UTC
+Messages  : 134
+────────────────────────────────────────────────────────────
+
+[13:12:34] genturgidson: I made my pieces really loose for no reason.
+[13:20:56] kyriakos1301: Let's go mootivator
+[13:25:00] genturgidson: My queenside structure is hilariously loose, a whole chain of dependencies centred around that e4 pawn.
+[13:25:30] genturgidson: I maybe want to go for the e5 break soon.
+[13:27:32] genturgidson: My b3 and d4 and Bb2 was the stupidest structure possible.
+[13:29:50] genturgidson: Totally idiotic play. I've got to play some repulsive f3 probably now.
+[13:30:35] kyriakos1301: I d rather push the pawn and hope to regain it back later.
+[13:30:35] mootivator: I think I should be happy with the opening result; as for this position, I wonder if I should exploit the undefended b2 bishop by Nxe4
+[13:33:08] genturgidson: This is absolutely disgusting.
+[13:33:23] kyriakos1301: After 11 f3, I think Rc8 might renew the threat of Nxe4?
+[13:34:24] genturgidson: I am going to get ripped to shreds on the dark squares.
+[13:34:39] mootivator: Change of plans; for now, I only see the minority attack as a sound plan
+[13:36:56] mootivator: On the other hand, the d5 pawn break would be lovely as well; right now, e5 would be ugly, but perhaps some preparation would help
+[13:37:57] kyriakos1301: Or how about Qb6+ then Qe3?
+[13:43:32] genturgidson: I think I just blundered because I missed after Nxd5 Bxg7 there's Ne3 - the dark square weakness coming back to bite.
+[13:45:19] mootivator: Hm; Nxd5 ed eventually leaves me at least up a pawn, but I wonder what do I miss in the Nxd5 Bxg7 Nd3 line
+[13:45:34] genturgidson: maybe Nxd5 Bxg7 Ne3 Qd3 Nxf1 Bxf8 but I lack the brain cells to see it clearly.
+[13:48:07] kyriakos1301: (12 Nd5) this is the critical moment of the game.
+[13:48:37] genturgidson: Nah, it's over. I'm going down a piece I think. Missed Ne3.
+[13:48:52] kyriakos1301: I don't really see what the threat is after Nxd5, Bxg7, Ne3 and white moves the queen. Is it Qb6?
+[13:49:23] mootivator: ...but what if I take with the *bishop*? It is not doing much anyway for now, whereas my opponent's knight has a healthy range
+[13:49:38] genturgidson: I guess Nxd5 exd5 Bxb2 dxc6 Bxa1 Qxa1 I only go down the exchange but I lose a pawn and black gets massive centre.
+[13:50:39] mootivator: Defending d5 will also be a nuisance after b5: Bxd5 ed b5 c4 bc bc should give me a good grip on b-file
+[13:51:25] genturgidson: Maybe I can calculate clearer once he makes the move. Not sure what there is to think about. Perhaps a good sign for me.
+[13:56:29] paulwithans: Nxd5 Bxg7 Ne3 Qd3 Qb6 Bd4!
+[13:56:29] paulwithans: Never mind
+[13:58:31] genturgidson: 12...Bxd5 what?
+[13:59:47] kyriakos1301: Oh I missed Bd4!
+[14:02:19] paulwithans: tbh I don't know if Qb6 was any good but Bd4 was a fun reply anyway
+[14:03:51] genturgidson: I have no idea why he played 12...Bxd5 instead of Nxd5 and winning. I don't see his plan now.
+[14:04:21] kyriakos1301: yes I think Qb6 was not needed
+[14:05:22] mootivator: I think I can keep the tension on the queenside a bit; first, some more development mayhaps?
+[14:06:23] momor: go Gen!
+[14:09:26] genturgidson: Rc1 was a bit hasty.
+[14:09:41] mootivator: I don't see any tactical threats yet, so I might as well improve my knight, it looks a bit sad on the kingside
+[14:11:28] genturgidson: Something feels very off with this line.
+[14:14:30] genturgidson: I want Rfe2 but he will try to trade queens perhaps Qb6. Rfe1 Qb6 Qxb6 Nxb6 c5 could be a breakthrough though.
+[14:18:19] genturgidson: He could also try to trade via Qa7 if I play a quiet move, and that throws a spanner in the works for c5.
+[14:21:22] genturgidson: Actually b4 is terrible.
+[14:22:07] genturgidson: I think I end up losing a pawn after Nb6.
+[14:22:53] genturgidson: I guess Nb6 I just play the Rc6 idea anyway and it's disconnected from the queen.
+[14:23:24] genturgidson: Then maybe I can double the rooks and trade into a 2 pawn majority queenside endgame, with some luck.
+[14:23:54] nyanners: id expect "mootivator" to have like a cow flair but i guess that wasnt actually the angle here
+[14:24:55] nyanners: white should be happy as long as the b-pawn stands, which i think it does. a3, and a5 b5
+[14:25:10] genturgidson: Ne5 was not on my radar for this move. I don't know if that's any good.
+[14:25:56] genturgidson: and I'm threatening to trap it after maybe just Rc2 or Rc3
+[14:26:11] genturgidson: No I'm not. It can go back to d7.
+[14:26:42] mootivator: I don't like having N vs B, but I like my pawn structure more; trading off the major pieces would be great if I can stop the a-pawn
+[14:27:12] genturgidson: Ugh, I forgot he can still make the queen trade of he wants.
+[14:27:27] nyanners: i think white has the better structure actually
+[14:27:27] nyanners: its not like the pawns are weak
+[14:27:43] genturgidson: Not game ending but just really bad that I forgot about it.
+[14:33:18] shurbz: Uh oh moo how are you going to hold the a pawn
+[14:33:49] nyanners: i like this sequence for b actually
+[14:33:49] nyanners: get a file for your troubles
+[14:33:49] kyriakos1301: (23.. Rc8) White now can trade rooks and play a4 b5 to create a passed pawn?
+[14:34:04] nyanners: maybe but the active q should be worth something
+[14:34:49] genturgidson: I have just realised after Rxc8+ Qxc8 my position sucks.
+[14:34:49] kyriakos1301: Oh I see, makes sense
+[14:35:05] nyanners: black's outs are definitely in piece activity. in terms of structure black's structure is frozen and the passed pawn is coming
+[14:35:35] kyriakos1301: so 24 Rc3 and then a4 b5?
+[14:35:50] nyanners: but d5 hangs?
+[14:35:50] kyriakos1301: oh yes true
+[14:35:50] nyanners: this is a tough choice actually. it could be Rb2 even
+[14:36:06] kyriakos1301: that's interesting
+[14:36:21] nyanners: or trade Qd2
+[14:36:21] genturgidson: Maybe Rxc8+ Qxc8 Qd1
+[14:36:36] nyanners: but yeah all of that seems like white will never get anywhere
+[14:37:37] genturgidson: No, everything is getting targeted.
+[14:37:37] nyanners: i feel id go with rb2 but i dont exactly like it
+[14:38:08] nyanners: but if the b-pawn gets going that should neutralize the activity
+[14:38:54] genturgidson: Probably resign time.
+[14:40:10] nyanners: now thats a bit extreme
+[14:40:40] genturgidson: Let's play some risky stuff. Qc1+ Kf2 and ask him then what?
+[14:41:56] genturgidson: It's going to be a checkathon though.
+[14:46:31] genturgidson: Qc4 maybe?
+[14:48:18] genturgidson: if 26.Qc4 I need to figure out Qf5
+[14:49:49] kyriakos1301: Qc4, Qf5, Bxg4
+[14:51:51] genturgidson: Not sure now.... if he does go for the queen exchange there is Qxc4 Bxc4 Ne3
+[14:57:26] genturgidson: If he retreats Qd7 probably Qc6 try to make a trade. If Qh5 idea h3. No Be3 pin because it just blunders mate
+[14:59:58] paulwithans: Qc8+ Kg7 Qc3+
+[15:00:13] shurbz: f6
+[15:00:13] paulwithans: No I am hallucinating
+[15:00:29] genturgidson: There's always something isn't there.
+[15:01:30] shurbz: Qc8 kg7 qc1 though
+[15:04:48] nyanners: free pawn. thats fair
+[15:05:03] nyanners: and now a draw
+[15:05:18] nyanners: i suspect white would be satisfied
+[15:06:04] nyanners: or well, either side could try for more, i guess
+[15:06:34] nyanners: like simplest for b might be qg3 to deny qg2 due to qxd3
+[15:06:34] genturgidson: Up a piece but possibly losing every kingside pawn.
+[15:07:05] nyanners: if you take everything id be afraid white's b-pawn is worth too much
+[15:07:35] nyanners: but umm if qxf4 is check then the b-pawn can be taken
+[15:07:50] nyanners: yeah very strange..
+[15:07:50] nyanners: if anything, black has the better chances i guess
+[15:08:06] shurbz: An interesting way for this to go, I would have thought differently
+[15:08:36] nyanners: so like, that leaves Kh1. difficult to trust white's position
+[15:08:51] shurbz: Nice finds Moo
+[15:10:08] genturgidson: If Qd1+ just Qf1. I don't lose my bishop.
+[15:10:23] nyanners: black cant afford to trade while bxa6 is in the cards
+[15:10:38] genturgidson: Qd4+ is a threat.
+[15:12:55] nyanners: id consider trading on qe4 but i guess black still couldnt defend against bb7-bxa6
+[15:13:41] nyanners: so well, does black want a draw? :o
+[15:13:41] nyanners: now you get a tempo of sorts due to no Bxa6
+[15:19:47] shurbz: Now Black can threaten the pawns because no check
+[15:20:02] nyanners: if im feeling lazy id take the draw
+[15:20:17] nyanners: its fine for match situation it seems
+[15:23:05] nyanners: otherwise start pushing the pawns, probably the central ones
+[15:23:20] nyanners: like 39..d5
+[15:29:41] nyanners: okay gg :D
+[15:29:56] nyanners: pretty difficult to resolve the queenside situation for b
+[15:29:56] nyanners: so thats fair
+[15:30:11] genturgidson: Was that a draw? I wasn't sure my pawns were beating the king after a queen exchange.
+[15:30:27] nyanners: no real clue but q exchange you might win
+[15:30:27] nyanners: because you take a6 and promote quickly
+[15:30:27] genturgidson: In the sheer race, maybe not. But my bishop would pick off a6 and the two pawns would coordinate.
+[15:30:42] genturgidson: Wow holy crap, engine had that very even the whole game. We basically played perfect chess.
+[15:30:42] nyanners: so black has to trade when Bxa6 isnt avaliable but there doesnt seem to be such a sitaution
+[15:30:57] genturgidson: That was total swings and roundabouts in my head.
+[15:30:57] nyanners: like even Qxe4 Bxe4-Bb7
+[15:31:12] genturgidson: single digit average cpl each.
+[15:31:43] genturgidson: Nxc6 was my biggest centipawn loss.
+[15:32:13] mootivator: I considered Qa3 before the final position, but after Bxa6 Qxa3 b5 the pawn is too far
+[15:32:59] genturgidson: Yeah, it's messy.
+[15:32:59] mootivator: And I would have to resort to giving a perpetual anyway, so I might as well do it now:)
+[15:33:29] genturgidson: b3 out of the opening was my only biggest mistake, engine does indeed give it a ?!..
+[15:33:44] genturgidson: I realised everything was totally loose after that, and to make matters worse I played d4
+[15:34:00] genturgidson: Engine actually thought d4 was fine, but from my perspective I had a lot of tension and loose stuff.
+[15:35:16] nyanners: out of all times to play b3 thats one of the weirder ones
+[15:35:16] mootivator: Yeah, b3 is not the idea in that type of position... too many tactics hanging
+[15:35:31] nyanners: you have to play d4 because of Nxe4 so yeah
+[15:35:31] nyanners: not even d3 works
+[15:36:47] genturgidson: Very well played, GG.
+[15:37:17] mootivator: Thanks, and good luck with the rest of the tournament
