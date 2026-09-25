@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/WtiQAuRO
+White     : vayne987
+Black     : ironcladunicorn
+Time      : 45+45
+Captured  : 2026-09-25 09:52:25 UTC
+Game ended : 2026-09-25 08:32:18 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[07:08:01] leverkuhn: this can't work, can it?
+[07:09:32] gavalanche20: (1.e4) Seems to be theory going off the masters db
+[07:10:03] leverkuhn: I guess White would mate in lines like 8...Qxa1 9.exf7+ Kxf7 10.Nf3 Qxb1+ 10.Ke2 Qxh1 11.Qf5+ Nf6 12.Ne5+
+[07:11:19] leverkuhn: Masterdb says 8...Qxa1 9.Qb3!! is actually the idea
+[07:11:34] leverkuhn: crazy line
+[07:12:05] leverkuhn: judging from time usage White knows it his stuff, so will be hard for Black probably
+[07:14:06] gavalanche20: (8.e6) yeah
+[07:16:08] gavalanche20: (9.Qb3) Looking at the Lichess db scores are kind of scary haha
+[07:18:40] leverkuhn: 9...Qxd4 10.Qxb7 Qe5+ 11.Ne2 Qxe6 12.Qxa8 Qc8 13.Bf4! and Black winds up down a piece
+[07:18:56] kayrosas: i think levy recommends this line
+[07:19:11] leverkuhn: this is a brutal trap, it doesn't seem like Black has done anything wrong
+[07:19:26] kayrosas: i think this should still be 0.0
+[07:19:41] kayrosas: but not certain
+[07:19:57] leverkuhn: hope so, Black deserves some hope
+[07:21:28] kayrosas: Qxd4 seems necessary? otherwise Nf3 and Bd2-c3
+[07:22:14] gavalanche20: (9.Qb3) Wow you're right he does
+[07:22:59] leverkuhn: yeah he's going to lose that queen if he doesn't abscond
+[07:23:30] leverkuhn: material would remain reasonable but Black's development leaves a lot to be desired
+[07:24:46] leverkuhn: on the other hand there's the issue that 9...Qxd4 definitely won't leave White's prep
+[07:25:32] kayrosas: i would think white knows how the obvious bad moves lose
+[07:26:32] kayrosas: maybe 7...e6 was the way and not Qxb2
+[07:27:03] gavalanche20: (9.Qb3) I guess the queen's a goner no matter what
+[07:28:19] kayrosas: rook+piece+2 pawns is not negligible, so time for black to find a challenging setup
+[07:28:19] gavalanche20: (10.Nf3) Yeah 7...e6 is the solid way, I wanna say 6...Qxd4 is the absolute best move but super messy
+[07:31:22] kayrosas: 10...Nd7 probably
+[07:31:52] gavalanche20: (10.Nf3) Ooo White didn't instamove are we on our own now haha
+[07:32:07] kayrosas: ^^
+[07:32:07] kayrosas: good habit to take some time then
+[07:32:38] kayrosas: 0-0 or Bd2
+[07:32:38] gavalanche20: (10...Nd7) Qb7 leads to disaster so the 0-0 and Nc3 plan probably makes most sense
+[07:33:39] gavalanche20: (10...Nd7) Or maybe d2, c3 not much of an immediate future
+[07:33:54] kayrosas: 0-0 will give 2 rooks for the queen. white has great activity ofc
+[07:34:55] kayrosas: maybe black doesn't even want 2 rooks. 11...Ngf6 Nc3 Qxc3 and put a knight on e4
+[07:36:42] kayrosas: Nbd2 maybe better to keep c4 as a lever as well
+[07:37:58] gavalanche20: (10...Nd7) Now that I'm seeing this might have been nice to be able to swing the queen d3 or e4
+[07:37:58] gavalanche20: (13.Kxf1) *e3
+[07:37:58] kayrosas: don't think black's chances are too bad here
+[07:38:28] gavalanche20: (13.Kxf1) Yea this kind of depends on if White can use the initiative well
+[07:38:43] kayrosas: not sure if 13...b5 or 0-0-0
+[07:40:00] kayrosas: Ne2-f4 will also be incredibly strong I just realised
+[07:40:45] le_merovingien: Wow... Go Fe!!!
+[07:45:35] gavalanche20: (13.Kxf1) Ng5?
+[07:45:35] kayrosas: yea
+[07:46:20] kayrosas: I was thinking 14...g6 maybe, Ng5 Bh6 Nxe6 Bxf4 NxB e5 gives some room to breathe
+[07:47:21] gavalanche20: (14...Ne8) If not for Ne8 Qa4 a6 Qa5 might have been interesting
+[07:51:56] leverkuhn: is 15.Nb5 a thing?
+[07:52:11] leverkuhn: oh I think it is
+[07:53:27] kayrosas: yea :o
+[07:53:57] leverkuhn: Black can barely continue the game as far as I can tell, maybe 15.Nb5 b6 16.Nxa7+ Kb7
+[07:54:28] gavalanche20: (14...Ne8) Oh very cool
+[07:54:28] kayrosas: what happens with the knight on a7 there tho
+[07:55:14] leverkuhn: yeah White still has some things to figure out
+[07:55:29] kayrosas: Qa4 maybe, but unclear
+[07:55:44] leverkuhn: 15...b6 16.Qa4! without taking
+[07:55:59] kayrosas: :o
+[07:55:59] kayrosas: I'm not in a saccing mindset today, eh
+[07:56:15] arandommove: Nd6 to plug the diagonal?
+[07:56:45] kayrosas: yea probably have to go with that
+[07:56:45] leverkuhn: hmmm good idea
+[07:58:32] leverkuhn: 15...Nd6 16.Nxa7+ Kc7 (16...Kb8? 17.Nxc6+) 17.Ng5 maybe?
+[08:07:55] leverkuhn: White can't set a foot wrong!
+[08:10:28] gavalanche20: (15...Nd6) Ah Ra8 is no problem because Ne6 the only square is b8 and you get out via c6
+[08:10:58] leverkuhn: yeah White's knights are dancing
+[08:15:17] kayrosas: > black deserves some hope :(
+[08:23:25] gavalanche20: (17.Ng5) Qa3 hitting Qa8 and thinking about taking everything on f8 then d6?
+[08:24:10] gavalanche20: (19...Kxc8) Or Qa3-a5-c7
+[08:24:26] kayrosas: yep
+[08:27:59] kayrosas: :o
+[08:35:20] kayrosas: gg
+[08:35:36] ironcladunicorn: well played to my opponent
+[08:35:51] ironcladunicorn: Flawless game by white
+[08:36:21] kayrosas: yea prep worked out well for them
+[08:38:08] ironcladunicorn: Was too greedy and got punished swiftly
+[08:38:53] gavalanche20: Just noticed White is 1100 blitz which makes this all the more impressive
+[08:40:40] ironcladunicorn: absolutly. one thing is to know the opening (which i clearly did not) but then to know how to punish it is not always so easy
