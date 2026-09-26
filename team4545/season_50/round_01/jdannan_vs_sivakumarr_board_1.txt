@@ -1,0 +1,87 @@
+Lichess game chat log
+Game      : https://lichess.org/pb92wZiV
+White     : jdannan
+Black     : sivakumarr
+Time      : 45+45
+Captured  : 2026-09-26 17:10:09 UTC
+Game ended : 2026-09-26 15:50:00 UTC
+Messages  : 77
+────────────────────────────────────────────────────────────
+
+[13:30:01] sivakumarr: (3.Nc3) I've never played this (at least in this move order) - let's see how my opponent handles it
+[13:32:33] iwishiweredecent: Lets go siva!!!
+[13:39:25] wtm22: Let’s go siva!!
+[13:51:06] sivakumarr: (11...a5) Kind of free-wheeling - I have a sense that I should've played Nbd7 by now, but in light of f3 preparing e4, I feel like I ...
+[13:51:06] sivakumarr: ...have to claim space of my own
+[13:51:36] sivakumarr: (11...a5) Hopefully c6 doesn't come back to bite me
+[13:56:26] sivakumarr: (11...a5) Unless my calculations fail me, e4 is still unplayable, and I've got 12. a4 b5 13. (some retreat) Ba6!
+[14:09:54] jdannan: (12.Rc1) feel a bit uneasy not having the bishop on f2...that pawn will get a discovered attack
+[14:10:09] jdannan: (12.Rc1) (e3 ofc)
+[14:18:17] sivakumarr: (12...Ba6) Yeah, maybe a5, b5 was a little too aggressive with Nb1 undeveloped
+[14:19:18] jdannan: (13.Bf2) one of my friends plays this line with black but I haven't seen it otherwise
+[14:19:18] irongalaxy: (13.Bf2) go siva!
+[14:20:19] cinemashow: (13.Bf2) Danny King commentary
+[14:20:34] cinemashow: (13.Bf2) https://www.twitch.tv/chesswithjordan
+[14:22:06] sivakumarr: (13...Nbd7) Don't know what's going on - just betting that development is correct
+[14:30:45] irongalaxy: (14...Nb6) This is not a structure I know well
+[14:31:30] irongalaxy: (14...Nb6) Maybe b4 is an idea to trade off the light squared bishops
+[14:40:39] sivakumarr: (15...b4) There's no good square for Nb6, and Ba6 is a tall pawn, so I'm trying to liquidate them
+[14:44:27] sivakumarr: (15...b4) If White doesn't go for a knight trade, where should Nb6 go?
+[14:45:13] sivakumarr: (15...b4) Nc5 invites e4, Nbd7 is dominated by d4, and Nc8 is even farther from society
+[14:48:31] irongalaxy: (17...Qd7) is ...Rc8 and ...c5 a consideration? that c6 pawn is a weakness
+[14:49:47] sphynx: b3! Just as Zlotnik suggested in his strategic book :)
+[14:50:02] sphynx: An easy move to make
+[14:50:02] jdannan: (18.b3) oh hi sphynx do you recognise this opening?
+[14:50:33] jdannan: (18.b3) how did I do? :-)
+[14:50:33] sphynx: Haha, hi jdannan, I definitely fo ;)
+[14:50:48] sphynx: Do *
+[14:51:49] sphynx: Not sure, looks like Black us doing fine, has more space
+[14:52:20] sphynx: a4 looks sensible against b3, was also my first candidate
+[14:52:50] sivakumarr: (18...a4) 18...Bd3 19. Bh4 looks like a waste of time, so I might as well send it
+[14:53:36] jdannan: (19.e4) time to shit or get off the pot
+[14:54:06] sphynx: Yep! White finally plays the thematic break!
+[14:54:21] sphynx: Let’s see whether it’s good or not :)
+[14:54:52] sphynx: At least it gives e3 for the onight
+[14:57:55] sivakumarr: (20...Ra2) My argument is that Nh7-f8-e6 is a good enough blockade
+[15:01:28] sphynx: Then maybe f4-f5 to life that blockade?
+[15:01:43] sphynx: Lift
+[15:03:30] sphynx: Then maybe g6 but this softens up the Kingside
+[15:05:01] sivakumarr: (22...Na8)  Nb5 reroute?
+[15:07:33] sphynx: I start to like White more
+[15:07:48] sphynx: Attack is brewing)
+[15:12:53] sivakumarr: (23...Nc7)  Perhaps Ng5-e4 if White plays Qf3, Qg3, or Qh3
+[15:14:09] sphynx: Rook lift via e3 is also tempting
+[15:19:14] sphynx: Those Black knights are getting annoying! :)
+[15:19:45] sphynx: F6, wow
+[15:20:31] sphynx: Tactics alert!
+[15:21:01] sphynx: Is this checkmate?
+[15:21:17] sphynx: Can’t take the rook
+[15:23:34] bncl: Go jdannan!
+[15:24:04] avemanyeg: go sivakumarr!!
+[15:25:20] sphynx: Looks like black is toasted...
+[15:25:51] sphynx: They can only stop checkmate by maybe losing another piece?
+[15:26:06] sphynx: Bishop on g5 after h4
+[15:26:21] sphynx: Or something like that
+[15:28:38] sphynx: Qe3 looks tempting now
+[15:29:09] sphynx: Mm, maybe not
+[15:32:58] sphynx: What if Qg3 now
+[15:33:13] sphynx: Forces the rook back
+[15:33:13] sphynx: And the other is undefended
+[15:33:28] sphynx: So can exchange the Q for two rooks
+[15:33:59] sphynx: Maybe not, black can also defend with the bishop
+[15:36:16] sphynx: Can’t take the rook again!
+[15:36:16] sphynx: White rooks are immortal
+[15:37:02] sphynx: Ne8 ok )
+[15:37:17] jdannan: (33...Ne6) damn missed the defence I thought this was a cool mate
+[15:43:38] cinemashow: (37...Kh7) Qh4?
+[15:45:25] cinemashow: (38.Rxc6) Qd3+ also possible
+[15:47:42] jdannan: (39.Ne5) made a bit of a meal of this
+[15:47:58] jdannan: (39.Ne5) Nxf7 Qxf7 Rxe6 should finish it
+[15:50:15] bncl: gg!
+[15:50:15] sphynx: Gg!
+[15:50:15] cinemashow: gg
+[15:50:15] iwishiweredecent: gg
+[15:51:00] wtm22: gg
+[15:51:00] computability: gg!
+[15:53:18] sivakumarr: Wow, I did not think 20...dxe4 could be good
+[15:53:18] sivakumarr: Very clever Queen x-ray
