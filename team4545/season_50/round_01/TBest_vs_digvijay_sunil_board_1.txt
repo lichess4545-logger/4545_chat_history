@@ -1,0 +1,27 @@
+Lichess game chat log
+Game      : https://lichess.org/VssWBXY5
+White     : tbest
+Black     : digvijay_sunil
+Time      : 45+45
+Captured  : 2026-09-26 14:27:43 UTC
+Game ended : 2026-09-26 13:07:33 UTC
+Messages  : 17
+────────────────────────────────────────────────────────────
+
+[11:58:29] bufferunderrun: we demand sacrifices!
+[12:03:03] cham: go tbest!
+[12:44:43] namegoesinhere: (17...Nb4) go digvijay_sunil!
+[12:45:44] namegoesinhere: (17...Nb4) white is definitely missing the LSB here, it seems hard to cover both c2 and d3
+[12:46:44] tbest: kd1 was my plan for this, i just hope it was a good plan
+[12:47:30] namegoesinhere: (18.Kd1) I was wondering if 0-0-0 was ok because Nd3+ Kb1 might not really lead anywhere for black
+[12:47:45] namegoesinhere: (18.Kd1) but perhaps it's best to not commit the king so far on the queenside
+[12:52:04] kborman: Go digvijay!
+[12:56:53] bufferunderrun: lloks like it's over
+[13:07:03] bufferunderrun: gg
+[13:07:33] jose684: that was a killer game !
+[13:07:33] jose684: gg
+[13:08:19] tbest: was expecting this to be less accurate, ngl
+[13:10:21] tbest: i was seeing some ghost at 18. thinking long castle would face qc7 bd3 and nxa2# stuff
+[13:10:36] digvijay_sunil: did not see Qf1, just absolute blindspot
+[13:10:36] digvijay_sunil: i mean Qg1
+[13:11:06] tbest: backwards moves are the hardest moves to spot
