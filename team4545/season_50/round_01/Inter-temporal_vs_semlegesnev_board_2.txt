@@ -1,0 +1,244 @@
+Lichess game chat log
+Game      : https://lichess.org/1uP5v5L7
+White     : inter-temporal
+Black     : semlegesnev
+Time      : 45+45
+Captured  : 2026-09-26 22:55:00 UTC
+Game ended : 2026-09-26 21:34:51 UTC
+Messages  : 234
+────────────────────────────────────────────────────────────
+
+[18:56:42] tommeketoch: let's go IT
+[19:02:02] gavalanche20: gl it
+[19:02:17] inter-temporal: (3.Bb5) which one will it be
+[19:02:32] gavalanche20: What was IT expecting for today does anyone know haha
+[19:02:32] semlegesnev: Let's see how your preparation is
+[19:02:48] inter-temporal: (3.Bb5) Jaenish
+[19:04:19] inter-temporal: (6.O-O) i did recheck 6...Nxe4, but not much
+[19:05:35] inter-temporal: (7.Bg5) cant remember now. maybe Bg5
+[19:06:06] inter-temporal: (7.Bg5) which prevents ...0-0 on the next move, but
+[19:06:21] inter-temporal: (7.Bg5) makes sense since i'm not sure about my Qs N or c-pawn
+[19:06:36] feet_barbie: (6...Bc5) go it
+[19:06:51] mixxanber: I don't know these schliemann variations very well, but I usually should snap that e5 pawn :)
+[19:06:51] gavalanche20: You can also grab the pawn
+[19:07:07] feet_barbie: (6...Bc5) yeah looks like prep still
+[19:07:37] semlegesnev: One line goes as BxN, bxB, Nxe, O-O, Re1, d6, Nxc6 Qe1
+[19:08:38] inter-temporal: (7.Bg5) pretty sure Bxc6 is okay at some point
+[19:08:53] inter-temporal: (7.Bg5) otherwise i think i gotta play c3 to cover d4, which idk
+[19:09:24] mixxanber: if black can O-O, then I usually think these end up very favorable compared to usual Ruy Lopez, with the f-file open and the dsb active
+[19:12:42] iwishiweredecent: Inter-temporal playing for the win for his team!!
+[19:15:14] mixxanber: is Nd5 Be6 Nxf6 gxf6 blacks intention here?
+[19:15:44] gavalanche20: That rings a bell from when I looked at the Schleimanm way back when
+[19:22:20] iwishiweredecent: this is a bit tricky here after 10...Na5
+[19:23:37] bpack: Go Inter!
+[19:26:09] inter-temporal: (11.Be2) for some reason i really wanted to play Bb3 or Qe2 there
+[19:26:24] oachkatzerlschwoaf: Go it
+[19:26:24] inter-temporal: (11.Be2) maybe because they were better? lol. idk.
+[19:26:40] gavalanche20: What’s Blacks idea now because the pin and b4 are issues
+[19:27:10] gavalanche20: The pin not so much I guess, Black probably wants some kind of xf6 to open the g file and one of the reasons to play Na5 so the rook can get
+[19:27:25] gavalanche20: g8
+[19:30:43] mixxanber: looks like black has a nice position to attack, esp since need a win in the team match
+[19:31:59] feet_barbie: (13.Bh6) white doesnt need a win they re still up right
+[19:31:59] feet_barbie: (13.Bh6) 3.5 - 2.5
+[19:32:15] feet_barbie: (13.Bh6) a draw is better for white even
+[19:32:45] feet_barbie: (13.Bh6) oh black needs a win i misread
+[19:33:00] semlegesnev: Bg8 Nh4 f5 Nf5 Bf5 ef5 Qf6 Be3 Qf5 Bxb dxB Qd5 seems +=
+[19:33:16] feet_barbie: (13.Bh6) rg8?
+[19:33:46] gavalanche20: Idk what the eval is but this feel like the kind of position a Schleimanm player would feel at home in
+[19:34:01] pineapplechiffoncake: go inter!
+[19:36:03] semlegesnev: the exact same line looks much better if it is preceeded by Nc6 c3
+[19:37:19] feet_barbie: (14.Nh4) i played e5 once in my life, a schliemann, against tommeketoch, lost brutally
+[19:37:34] feet_barbie: (14.Nh4) all the pieces are in weird spots
+[19:47:13] semlegesnev: does this prepare some form of g4?
+[19:53:34] feet_barbie: (15.Kh1) not sure white can afford that
+[19:53:49] feet_barbie: (15.Kh1) idk
+[19:54:04] guitarspider: (15.Kh1) g4 seems like too much
+[19:54:04] guitarspider: (15.Kh1) but there might be f4 at some point
+[19:56:06] guitarspider: (15.Kh1) although the first step might have to be c3 to control d4
+[19:59:09] semlegesnev: I really want to play f5
+[20:00:25] guitarspider: (15.Kh1) for Black?
+[20:00:40] guitarspider: (15.Kh1) very sharp
+[20:01:26] guitarspider: (15...f5) Barbie, you're the Tal in chat here, what#s the idea after nxf5?
+[20:02:12] sahkal: Hajrá Magyarország
+[20:06:15] semlegesnev: yep, the only line that makes sense to me. Qf4 Bc5 dc5 follows the same. I wonder if I have Nd4 here, but then g4 is problematic
+[20:07:31] feet_barbie: (18.Be3) ahah i dont think its a direct attack but what else
+[20:08:02] feet_barbie: (18.Be3) it anything now bd3 or bc4 look good
+[20:08:17] semlegesnev: Qf4 BxB dxB,Qd5, Rad8, Qc5 Rd2 Bd3 Qg6 Bg8 += again
+[20:08:17] mixxanber: black suggested essentially this line (with the addition of Kh1)  like move 6 haha
+[20:09:48] feet_barbie: (18...Qxf5) yeah white looking decent here
+[20:10:19] semlegesnev: Bd3 is an interesting idea, I am not sure if e5 is playable for it opens the diagonal
+[20:12:21] feet_barbie: (18...Qxf5) yeah maybe just bxc5 first and the qd5 line idk still double edged
+[20:13:06] guitarspider: (19...dxc5) I think I'd start with c3 again
+[20:13:52] semlegesnev: without c3 tho, I might have Qc2 to Qd5
+[20:15:39] sahkal: Qd5
+[20:15:54] sahkal: Best move here
+[20:16:40] mixxanber: Qd5 Qxc2, the idea is Bd3?
+[20:17:10] sahkal: Yes I think Bd3 in that case
+[20:17:40] sahkal: The white bishop needs to get active immediately, but now e4 shuts it out
+[20:19:58] sahkal: So this type of play looks wrong
+[20:20:43] semlegesnev: there is a fun idea Bb5 Rad8 Qc1 Rxg2
+[20:21:29] sahkal: In fact now the black knight gets e5
+[20:21:44] semlegesnev: off course, Bb5 is a suboptimal move, but good to keep in mind
+[20:24:32] guitarspider: (21.Bc4) That's why I wanted c3, now the queen e2 gets hit by Nd4
+[20:25:02] semlegesnev: contemplating between Rg6 and Rad8
+[20:26:03] sahkal: c3 though okay the knight can't do d4 but it can still do e4-Ne4
+[20:26:18] sahkal: Ne5*
+[20:26:49] semlegesnev: note Qc1 Rg2 doesn't work bc the bishop covers g8
+[20:27:04] sahkal: Qd5 prepares a blockade of e4
+[20:27:34] sahkal: In this position black is winning
+[20:27:50] sahkal: Rxg2 might be strong but other moves as well
+[20:28:50] sahkal: Rg7 is good
+[20:29:06] sahkal: Keeping the options open
+[20:29:06] guitarspider: (22...Rg6) it's true that black can play e4+Ne5, but if white doesn't give a free tempo for that it's like the game w/o Nd4 option
+[20:29:21] mixxanber: 22... Rxg2 Kxg2 Qg4 Kh1 Qf3+ Kg1 Rd6,  is this working?
+[20:29:36] mixxanber: (insetad of Rg6)
+[20:29:52] sahkal: Indeed c3 was a better option than Bd3
+[20:30:37] guitarspider: (22...Rg6) Rg7 was also really interesting because then Nd4 is a real threat as Nxc2 Qc3 is no longer check
+[20:30:37] sahkal: Yes mixxanber
+[20:30:52] semlegesnev: Rd1 xx Qg5 Rg8 Ne5 is an idea
+[20:30:52] sahkal: In that position Bf7 is the move to calculate
+[20:31:38] guitarspider: (23.Rd1) if Rxg2 works it's obviously better than Rg7 though :D
+[20:32:54] guitarspider: (24...Qg5) oh
+[20:33:10] guitarspider: (24...Qg5) in that Rxg2 lin Bf7 Nd4
+[20:33:40] sahkal: nice
+[20:33:40] sahkal: That looks winning
+[20:34:56] sahkal: In the game position black has traded off one of their attacking pieces
+[20:35:27] sahkal: Rg1 maybe, but I would've liked g3
+[20:35:27] sahkal: If possible
+[20:36:12] semlegesnev: Be2 is annoying as a possibility
+[20:39:00] guitarspider: (25.Rg1) g3 seemed more natural, but the f3/h3 holes are admittedly scary with a knight
+[20:39:30] semlegesnev: What if I allow Queen d1 and my King hides on h3?
+[20:40:16] sahkal: Using reverse coordinates
+[20:40:31] mixxanber: 1 is me 8 is them, thats the rules
+[20:45:36] guitarspider: (26.Be2) IT really hates c3 :D
+[20:45:51] inter-temporal: yeh, i do obviously need more skills for defense
+[20:46:06] inter-temporal: maybe i can learn some things from this one
+[20:46:22] mixxanber: maybe Rh6, provoke h3, and then Rd6
+[20:46:22] sahkal: Now c3 Rh6
+[20:46:37] sahkal: That was very scary
+[20:46:37] sahkal: So I like Be2
+[20:46:52] guitarspider: (26...Rh6) but what does Be2 do?
+[20:47:07] sahkal: Brings the bishop around so noww g3 could be played
+[20:47:07] inter-temporal: was there any choice?
+[20:47:22] semlegesnev: gotta admit I didn't see g3
+[20:47:22] sahkal: And now we see that white probably should've done g3 instead of Rg1
+[20:47:38] guitarspider: (27.g3) but wouldn't you want the bishop on f1 then?
+[20:47:38] guitarspider: (27.g3) idk
+[20:48:08] sahkal: Sometimes but it also defends f3 now which is important in this variation
+[20:48:39] guitarspider: (27.g3) Rd6 is still a scary idea now
+[20:48:39] mixxanber: how about Rf6 and Qd5
+[20:48:54] mennonite: Yes, it appears to win a pawn at bare minimum
+[20:49:09] inter-temporal: did petrosian get out of stuff like this?
+[20:51:57] sahkal: c3 nowaybe
+[20:52:12] sahkal: Now maybe
+[20:52:57] semlegesnev: I wonder if c3 Nxe2 Qxe2 Qf3+ xx is a winning endgame
+[20:53:28] guitarspider: (27...Qf5) c3 Nf3 looks super risky
+[20:53:28] sahkal: Oh yes good point
+[20:53:43] guitarspider: (27...Qf5) have to calculate Qd8+ of course, but oof
+[20:53:43] sahkal: Looks like a winning endgame there
+[20:54:14] inter-temporal: (28.Bg4)  probably no good. idk
+[20:54:14] feet_barbie: (28.Bg4) mmh
+[20:54:29] sahkal: But yes c3 Nf3 Qd8 is maybe playable
+[20:58:02] sahkal: Now we play Qd2 and trade the queens
+[20:58:17] semlegesnev: Qd7 Rd6 Qe8+ Kg7 hides from all checks
+[20:59:34] semlegesnev: actually Rf6 seems better
+[20:59:34] sahkal: Qd2. We are holding the endgame, God willing
+[21:00:19] guitarspider: (30...Nc6) maybe the queenless endgame is even good for white
+[21:00:50] sahkal: Yes maybe it's equal as black will have a hard time keeping that e4 pawn
+[21:01:05] guitarspider: (30...Nc6) yes
+[21:01:05] guitarspider: (30...Nc6) white king also closer to the action
+[21:01:51] guitarspider: (30...Nc6) if the pawn is lost it's 2v1 o the kingside and BvN, something to play with at least
+[21:01:51] shnippy: I was thinking Qe2 but then Qd3
+[21:02:06] sahkal: Missed
+[21:02:21] semlegesnev: Kg2? Seems unreal
+[21:02:51] sahkal: Qf1 could also be decent
+[21:03:07] guitarspider: (31.Qf1) Kg7 does look safe though
+[21:03:22] sahkal: Kg7 Rf2
+[21:03:22] guitarspider: (31.Qf1) Ne5
+[21:03:52] sahkal: Oh yeah Rf2 is nothing
+[21:04:38] sahkal: Could try Qf4 then
+[21:05:09] guitarspider: (31...Kg7) Qf4 is tricky
+[21:05:09] sahkal: a bunch of queen moves that offer queen trades look good
+[21:05:39] guitarspider: (31...Kg7) it's a worse version of the earlier endgame, but probably still around even
+[21:06:10] sahkal: Now he's asking for trouble
+[21:06:10] guitarspider: (32.Qf5) oh, Rf6?
+[21:06:10] feet_barbie: (32.Qf5) i was checking weird lines mmh
+[21:06:40] sahkal: This is not the way to do it
+[21:06:55] guitarspider: (32...Rf6) maybe Rd6 was also an option, but this is hard to deal with
+[21:06:55] feet_barbie: (32...Rf6) qd7 qd1
+[21:08:12] sahkal: He's improving the black pieces
+[21:08:42] semlegesnev: Qd1 Ne5 Re2 Nxg5 Rxe3 Nxe3?
+[21:08:57] guitarspider: (34.Qd1) Qd3 is also an option
+[21:09:12] feet_barbie: (34.Qd1) yeah qd3 also an idea
+[21:09:28] guitarspider: (34...Ne5) Be2 might work there for White?
+[21:10:59] mixxanber: woah this is the line semlegesnev pitched
+[21:11:14] sahkal: Oh no
+[21:11:14] mixxanber: Nxg4 looks great
+[21:11:14] semlegesnev: there's also Nf2+ after
+[21:11:14] mixxanber: really beautiful move
+[21:11:14] mixxanber: ah that to
+[21:11:45] guitarspider: (35.Re2) Nf2+ kills white
+[21:12:15] feet_barbie: (35...Nxg4) damn crazy game
+[21:12:15] mixxanber: Nxe3 is even better than Nf2+, no?
+[21:12:30] feet_barbie: (35...Nxg4) i was trying to make some rh2 work earlier in other variationss
+[21:12:30] sahkal: Nxe3 best
+[21:12:46] sahkal: Trade the rooks
+[21:13:16] feet_barbie: (35...Nxg4) def a move for alp arslan thing
+[21:13:31] guitarspider: (35...Nxg4) yeah, I can't find any way for white to mess with Nxe3, so that is better
+[21:13:31] sahkal: Or more like win the rook, as well as the queen
+[21:13:47] guitarspider: (35...Nxg4) absolutely, this is beautiful
+[21:14:02] sahkal: I don't know what alp arslan thing is because I was banned from the slack by some bad decisions
+[21:14:02] sahkal: Bad bad decisions
+[21:14:17] inter-temporal: (35...Nxg4) okay...
+[21:14:17] sahkal: Like in this game
+[21:14:17] inter-temporal: (35...Nxg4) nice one
+[21:14:32] sahkal: There were also some bad decisions
+[21:16:34] guitarspider: (39.g4) ok, black missed the more beautiful way but still completely winning
+[21:16:49] sahkal: Well done
+[21:16:49] sahkal: Black is hungarian
+[21:17:05] mixxanber: its interesting, they did suggest Nxe3 first
+[21:17:05] inter-temporal: (39.g4) not sure i feel like playing on...
+[21:17:05] sahkal: Best country according to some people
+[21:18:36] guitarspider: (40.c4) Nf2 is kinda brutal
+[21:19:37] guitarspider: (40.c4) it's ok to resign that
+[21:19:37] feet_barbie: (40.c4) idk if u can take g4
+[21:20:23] feet_barbie: (40.c4) maybe for the rook endgame aficionados
+[21:20:23] tactix47: (40.c4) Yeah, g4 is poisoned if ...Nf2 Re3
+[21:20:23] guitarspider: (40.c4) Nf2 Re3 Kg6
+[21:20:23] feet_barbie: (40.c4) but still you get 4 pawns
+[21:20:38] feet_barbie: (40.c4) ahha
+[21:20:53] guitarspider: (40...Nf2) if you don't want to calculate through the xg4 lines :D
+[21:21:08] semlegesnev: wait its actually not good, g4 is not hanging after Re5
+[21:21:08] sahkal: what do you think the best country is?
+[21:21:24] sahkal: i think hungary, easily
+[21:21:39] feet_barbie: (40...Nf2) maybe if polgar was elected president
+[21:21:54] feet_barbie: (40...Nf2) a chess nation
+[21:22:40] sahkal: okay this game is done
+[21:22:55] guitarspider: (41...Nd3) yup
+[21:23:10] sahkal: see you people in one of these inter-temporal games
+[21:23:25] sahkal: there is no other place to see me unfortunately
+[21:23:41] sahkal: send your complaints to the relevant authorities
+[21:25:42] semlegesnev: thinking on sacking on g4 after Kg3 Ne5 Rf4
+[21:30:17] semlegesnev: interesting. On we play then
+[21:31:18] inter-temporal: (47.Rf8) i think want my board 3 back.
+[21:31:33] inter-temporal: (47...Rxc4) who took my board 3...
+[21:33:50] guitarspider: (51...Rxh4+) gotta go, I'll gg this premptively
+[21:34:05] inter-temporal: (53.Re2) i'm don
+[21:34:21] semlegesnev: gg!
+[21:34:21] petro2: gg
+[21:34:36] blueside617: lets goooo
+[21:34:36] blueside617: nice one
+[21:35:52] inter-temporal: thanks for watching me get thoroughly outplayed at every possible part of the game. lol
+[21:37:54] inter-temporal: 20...e4 seemed like a very good move. it was hard for me to reconnect after that
+[21:38:55] inter-temporal: it seemed like no amount of calculation was going to imbue me with knowledge i didn't have
+[21:39:40] inter-temporal: k. i'm gonna go try to gain some knowledge. :) c ya
+[21:41:27] semlegesnev: it was a very fun game, thanks!
+[21:43:44] sahkal: te játszol élőben versenyeken?
+[21:44:29] semlegesnev: Egy ideje már nem nagyon, csak nyaranta vagyok otthon egyetem miatt
+[21:45:00] sahkal: ú hol tanulsz?
+[21:46:01] semlegesnev: https://www.topuniversities.com/universities/university-pennsylvania
+[21:46:01] sahkal: az jó messze van :D
+[21:46:16] sahkal: amerikás legény
+[21:46:16] semlegesnev: nincs közel
+[21:46:31] sahkal: ügyes volt, gratulálok
+[21:46:31] semlegesnev: köszi!
