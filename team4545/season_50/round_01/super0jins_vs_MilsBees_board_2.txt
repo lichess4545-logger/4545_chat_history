@@ -1,0 +1,144 @@
+Lichess game chat log
+Game      : https://lichess.org/tOnVgQhB
+White     : super0jins
+Black     : milsbees
+Time      : 45+45
+Captured  : 2026-09-26 18:54:40 UTC
+Game ended : 2026-09-26 17:34:30 UTC
+Messages  : 134
+────────────────────────────────────────────────────────────
+
+[16:44:43] guitarspider: go Mils!
+[16:44:43] tactix47: SuperOnions vs Mils, go chess!
+[16:44:43] milsbees: Hello hello!
+[16:44:43] super0jins: Hello Tactix and guitarspider
+[16:44:43] super0jins: taking some time here to act like I am somewhat surprised
+[16:44:43] super0jins: if my prep gets on the board we are in for a fun game
+[16:44:43] super0jins: sad, no fun prep
+[16:44:43] guitarspider: (8.Bxc4) I don't know any theory here, no idea what the fun prep could have been :D
+[16:44:43] tactix47: Sad prep?  Unprep?  A game of chess appears...
+[16:44:43] super0jins: maybe it is for the better that my prep is not played
+[16:44:43] super0jins: intended to go towards a line where I sac an exchange and a pawn
+[16:44:43] t_t2603: Go Mils
+[16:44:43] super0jins: Bb3 and Bd3 both seemed fine, but I dont want to stare at e6
+[16:44:43] tactix47: The prepped line sounds like fun, understandable that super hoped to play it.
+[16:44:43] super0jins: I am not super familliar with the structures after Nxf4 but I know they are decent for white because the c8 bishop stays a bit sad
+[16:44:43] super0jins: especially because usually the f knight makes the journey to d5, so I have 1 tempo more to work with
+[16:44:43] silkthewanderer: Go Super
+[16:44:43] super0jins: hello silk
+[16:44:43] super0jins: hello T_T2603
+[16:44:43] silkthewanderer: I guess one is supposed to trade on d5 to preserve the bishop pair?
+[16:44:43] super0jins: maybe I should write the move number next to my comments to make them usefull after the game
+[16:44:43] super0jins: 11..Nd5 Black trades off both of his developed knights, and I may be able to gambit the cpawn for even more fire
+[16:44:43] feet_barbie: (11...Nd5) go mils
+[16:44:43] milsbees: (11...Nd5) I'm not even sure that this is that good for me
+[16:44:43] super0jins: hello Feet_Barbie
+[16:44:43] milsbees: (11...Nd5) I'll need to find a way to get my LSB out
+[16:44:43] milsbees: (11...Nd5) It's been on my chess to-do list for like 5 years to look at what to do in the QGD against the Bf4 lines
+[16:44:43] milsbees: (11...Nd5) I used to always just force the Cambridge springs with Qa5 anyway, but it's a worse version
+[16:44:43] guitarspider: (11...Nd5) castling is going to be a little tricky for Mils
+[16:44:43] milsbees: (11...Nd5) ah, maybe after Nxf4 we can play c5
+[16:44:43] milsbees: (11...Nd5) although I shouldn't forget to castle at some point XD
+[16:44:43] super0jins: Ne5 Nxc3 Qh5 g6 Bxg6 that does not work, Maybe Qg4
+[16:44:43] super0jins: then g6 might be good enough
+[16:44:43] super0jins: should be fine, if the knight ever wants to get back into the game I have e4 when my bishop is not on f4
+[16:44:43] super0jins: Hello basyaar adn adande
+[16:44:43] super0jins: there is also Qf3, with the threat of Nxf7, but somehow that feels less direct
+[16:44:43] super0jins: and I totally forgot Bf6 in my calculations, so actually happy he took on f4
+[16:44:43] feet_barbie: (13...O-O) white looks decent uh
+[16:44:43] feet_barbie: (13...O-O) re1 multipurpose
+[16:44:43] super0jins: Qh5 and sac everything on g6 looks like a way to force a draw
+[16:44:43] super0jins: considering the standing situation lets not do that
+[16:44:43] feet_barbie: (13...O-O) yes but after re1
+[16:44:43] feet_barbie: (13...O-O) also black doesnt have to play g6
+[16:44:43] milsbees: (11...Nd5) White could potentially force a draw here with Qh5 g6 Nx fx Bx hx Qx
+[16:44:43] super0jins: but if I play something like Re1 first I can try the same thing with a rook lift
+[16:44:43] super0jins: ther is also g3+h4 to kill the dsb
+[16:44:43] milsbees: (13...O-O) match situation wise that only helps our team I think
+[16:44:43] milsbees: (13...O-O) it's 3.5-2.5 now I think
+[16:44:43] super0jins: and to prep h5 attack stuff
+[16:44:43] super0jins: or h4 first and Bx g3 with the idea of Kg2 Rh1
+[16:44:43] milsbees: (13...O-O) I was just looking at h4 actually
+[16:44:43] feet_barbie: (14.h4) i m not sure
+[16:44:43] super0jins: looks fun, and seems to work out fine
+[16:44:43] feet_barbie: (14.h4) feel like re1 was more flexible
+[16:44:43] feet_barbie: (14.h4) fun ok ahha
+[16:44:43] super0jins: I like this whisper thing as you may have noticed
+[16:44:43] super0jins: otb I am not allowed to write my thoughts
+[16:44:43] super0jins: and here I cant read them so its like writing with invisible ink
+[16:44:43] guitarspider: (14.h4) you should get the whisper script so it automatically adds the move :)
+[16:44:43] milsbees: (15...Bf6) I guess h4 was a hallucination of some kind
+[16:44:43] super0jins: Qh5 first or Kg2 first, Bxh7 does not work I dont think
+[16:44:43] guitarspider: (15...Bf6) I thought the point was h4 Bxh4 Qh5
+[16:44:43] guitarspider: (16.Kg2) but I guess all the sac just don't work out
+[16:44:43] super0jins: Kg2 gives me a little more ammo against h6
+[16:44:43] guitarspider: (16.Kg2) oh well, but now Bxe5 and f5? That looks safe?
+[16:44:43] guitarspider: (16...g6) g6 is less crazy and might be better than my idea
+[16:44:43] super0jins: no Qd5 to worry about now cause I can play Kg1 leaving my nice diagonal open for the queen
+[16:44:43] super0jins: starts to look a little tough to sac everything for an attack
+[16:44:43] guitarspider: (17.Rh1) although I think I'm still on Bxe5 and f5 though, even after these additional moves
+[16:44:43] super0jins: well thanks for the dsb defending the king, I think I like this, but not sure what take back is better
+[16:46:15] super0jins: cool idea is taking with the f pawn, thjen Qd5 f3  with some ideas of c4 Qxd4 Rxh7
+[16:47:16] tactix47: (18.fxe5) I like this recapture, always f4 available to reinforce the e5 pawn.
+[16:48:32] super0jins: enpassant is forced, all kidding aside I dont want my lsb to be sad
+[16:50:19] super0jins: exf6 Qxf6 f4 h5 and my attack is no more
+[16:53:22] super0jins: Guess I have to, and then win back the e6 pawn or something, endgame should be holdable
+[16:54:22] guitarspider: (20.f4) b6 and c5 and Bb7 in some order?
+[16:54:38] guitarspider: (20.f4) kinda dislike f4, the king will be very open for the rest of the game
+[16:56:55] feet_barbie: (20.f4) yeah maybe black can cause trouble
+[16:57:10] feet_barbie: (20.f4) c5
+[16:57:10] guitarspider: (20.f4) that's another way to do it, ye
+[16:57:10] feet_barbie: (20.f4) c5 e5 is my idea
+[16:57:25] feet_barbie: (20.f4) kinda wild but v dangerous even with bc4 +
+[16:57:40] guitarspider: (20.f4) true, it's tricky for both
+[16:57:56] guitarspider: (20.f4) but it feels a little easier to handle for Black
+[16:57:56] feet_barbie: (20...b6) oh no he didnt
+[16:57:56] feet_barbie: (20...b6) would have been so fun
+[16:58:11] feet_barbie: (20...b6) 2 pawns to open lines
+[16:58:26] feet_barbie: (20...b6) then provoke rxh7 perpetuals ahaha
+[16:58:26] guitarspider: (20...b6) haha
+[16:58:57] feet_barbie: (20...b6) still starting to like black
+[16:59:12] milsbees: (15...Bf6) not super sure of this move, it's still not an easy position to play
+[16:59:27] guitarspider: (20...b6) the white weaknesses are very long term
+[16:59:27] milsbees: (20...b6) Qf3 and Be4 can be annoying, also Qb3 and Bc4
+[16:59:27] feet_barbie: (20...b6) time pressure and then strike
+[17:02:30] guitarspider: (21.Re1) c5 now seems good as well
+[17:02:45] feet_barbie: (21.Re1) yeah still i guess white plans be4
+[17:03:31] guitarspider: (21.Re1) it's probably just even, disappointingly :D
+[17:04:01] feet_barbie: (21.Re1) i still like black or id play as black
+[17:04:01] guitarspider: (21.Re1) yes
+[17:04:17] guitarspider: (21.Re1) just seems like White needs to be more careful
+[17:04:17] guitarspider: (21.Re1) and e6 can even be saced if need be
+[17:04:32] feet_barbie: (21...Bd7) c3 d4 become very weak
+[17:04:32] feet_barbie: (21...Bd7) noo bd7 noo
+[17:05:02] feet_barbie: (21...Bd7) probably ok more solid
+[17:05:02] feet_barbie: (21...Bd7) ahah
+[17:05:02] guitarspider: (21...Bd7) Mils needs more buzzzz
+[17:05:18] feet_barbie: (21...Bd7) slowly chomping at white s clock
+[17:05:48] guitarspider: (22.Re5) Bd7 can't really be wrong, I agree. But it's less energetic than it could be
+[17:06:34] tactix47: (22.Re5) Love this move, the weak Pe6 is fixed in place.
+[17:09:22] guitarspider: (23.Qg4) that looks wrong?
+[17:09:37] guitarspider: (23.Qg4) just c5 then what?
+[17:11:24] t_t2603: c5 and then Blacks LSB could finally become happy
+[17:16:13] feet_barbie: (24.Rae1) now white looks decent again uh
+[17:16:28] super0jins: maybe Bc4 was more accurate
+[17:16:59] super0jins: and maybe less cafeine was more accurate
+[17:17:29] feet_barbie: (24.Rae1) still c5 waited too long
+[17:19:00] milsbees: (20...b6) Going to fall apart at any second
+[17:19:46] super0jins: Re8 f5 looks like it should work unless there is something weird
+[17:23:04] feet_barbie: (25...h5) damn what
+[17:23:35] feet_barbie: (25...h5) need c5 too hehehe
+[17:30:11] super0jins: Rg5 seems stronger than f5
+[17:33:29] milsbees: (24...Re7) ai, well that's gg I guess
+[17:33:59] feet_barbie: (28.Bd3) :(
+[17:33:59] feet_barbie: (28.Bd3) needed a pawn break too passive :( gg milss
+[17:34:45] t_t2603: Gg
+[17:34:45] tactix47: gg
+[17:35:00] feet_barbie: i really liked f5
+[17:35:00] guitarspider: gg
+[17:35:15] feet_barbie: black created nice counterplay
+[17:35:15] super0jins: good game
+[17:35:46] super0jins: was not always sure whether I had enough for the pawn, but it worked out in the end
+[17:41:21] milsbees: I missed Rxh5 was possible there of course, I thought you'd have to go Qe2 which still looks very dangerous
+[17:42:06] milsbees: c5 I was seeing ghosts with d5, I missed that the queen is hanging at the end so the tactics work for me
+[18:38:56] fulmarsky: gg both... so tense on the 64 squares
