@@ -1,0 +1,27 @@
+Lichess game chat log
+Game      : https://lichess.org/kBNloOkJ
+White     : nyrondiax
+Black     : shurbz
+Time      : 45+45
+Captured  : 2026-09-26 18:54:40 UTC
+Game ended : 2026-09-26 17:34:32 UTC
+Messages  : 17
+────────────────────────────────────────────────────────────
+
+[17:00:00] shurbz: and just like that 8 moves of prep done and dusted
+[17:00:00] shurbz: a lot of interesting options not really likely to hold the c pawn
+[17:00:00] shurbz: 9.. Qa5 This is probably the wrong move, it has some tactical ideas but development matters too
+[17:00:00] shurbz: I didn't like the big pawn clump after bg4 f3 though it should probably be evaluated as fine
+[17:00:00] shurbz: Be6 trades is interesting to me
+[17:00:00] shurbz: I can tell I'm a little rusty because I keep having to correct my annotations
+[17:00:00] genturgidson: Go Nyrondiax!
+[17:00:00] shurbz: 12. Qb3 was a ? no? Bxe2 Bxe2 cxd4 cxd4 Bxd4 Bxd4 Nxd4
+[17:00:00] shurbz: Now I need to go through each of those trades and look for in between moves I guess
+[17:00:00] shurbz: Rxc6 is the interesting idea
+[17:00:00] shurbz: qrbb v qrr+1p
+[17:00:00] shurbz: I didn't appreciate the complexity of that, two bishops versus a rook is a bad trade for me
+[17:00:00] shurbz: I can't see a reason why Rfb8 and I'm not slightly better
+[17:00:00] shurbz: looking at the complexities of Rfd8 Qb7 Qa2
+[17:00:00] shurbz: I think I see the solution, Kxf2 Ng4 Kg1 (not forced but I think important) Nxh6 and then I'm playing Qb6+ which forces the queens off
+[17:06:51] shurbz: Didn't expect g3 but its a good defence
+[17:10:09] shurbz: 21... three moves to consider Qb2 Qh5 Rd8
