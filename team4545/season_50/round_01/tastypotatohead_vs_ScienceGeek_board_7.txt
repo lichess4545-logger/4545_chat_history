@@ -1,0 +1,65 @@
+Lichess game chat log
+Game      : https://lichess.org/PCJhBkvN
+White     : tastypotatohead
+Black     : sciencegeek
+Time      : 45+45
+Captured  : 2026-09-26 18:23:12 UTC
+Game ended : 2026-09-26 17:03:03 UTC
+Messages  : 55
+────────────────────────────────────────────────────────────
+
+[16:16:19] tastypotatohead: (4...e5) already don't know what to do... this is bad
+[16:16:19] sciencegeek: I had prepped this fantasy variation line a little bit but am now in territory I didn't expect.
+[16:16:19] sciencegeek: Nxe5 Qxd8 Rxd8 loses to Nxe5 at the end making my pin useless
+[16:16:19] sciencegeek: Bxf3 Qxf3(or Rxf3) Nxe5 is a fork. Could also consider Bc5+ just to develop and castle but have to address attack on my knight on f6
+[16:16:19] sciencegeek: think Bxf3 is most straightforward for now and can't get low on time
+[16:16:19] tastypotatohead: (8...Bxf3) im condsidering exf6 Bxd1 fxg7 Bxg7 Bxf7
+[16:16:19] tastypotatohead: (8...Bxf3) and it might work...?
+[16:16:19] tastypotatohead: (8...Bxf3) ah but after that there is Ke7 Bg5 Nf6
+[16:16:19] tastypotatohead: (8...Bxf3) Qd4 maybe?
+[16:16:19] tastypotatohead: (8...Bxf3) wait no im dumb Qd4 hangs a queen
+[16:16:19] tastypotatohead: (8...Bxf3) Only option im seeing now is Qxf3 Nxe5 Qb3
+[16:16:19] tastypotatohead: (9...Nxe5) Maybe Qf4 e5?
+[16:16:19] sciencegeek: didn't think about if my queen is counterattacked
+[16:16:19] tastypotatohead: (9...Nxe5) Qb3 seems way too passive, plus i have an isolated e pawn
+[16:16:19] sciencegeek: is the bishop truly free? like Nxc4 e5 poses more issues right?
+[16:16:19] sciencegeek: Bd6 Rd1 and maybe I have time to check with Qb6? seems weird.
+[16:16:19] sciencegeek: it would let me be able to castle though which I like
+[16:16:19] sciencegeek: this is most concrete solution I think even though I don't get the lsb right now
+[16:16:19] tastypotatohead: (10...Bd6) this is unexpected
+[16:16:19] tastypotatohead: (10...Bd6) maybe just Nc3 here?
+[16:16:19] sciencegeek: nd3 comes to mind first
+[16:16:19] sciencegeek: nd3 Qh5 or Qf5 and this move is a threat no more i guess
+[16:16:19] sciencegeek: neg4? idk that gets weird with bishop sac in the air but seems ok
+[16:16:19] sciencegeek: ugh just going to castle I think. Don't want to put my king at risk
+[16:16:19] sciencegeek: surely Rd1 will be incoming now
+[16:16:19] sciencegeek: nd3 not option. ng6 Qf5 also not great so mayb just qc7 and figure out rest
+[16:16:19] sciencegeek: a lot of pressure on f7 if this knight on f6 is ever removed so keeping an eye on that
+[16:16:19] sciencegeek: cool move. Could sac rook with pawn pinned
+[16:16:19] sciencegeek: so can challenge queen with h6 or neg4 or ned6 as options here
+[16:16:19] sciencegeek: ng6 seems too passive but would also fix pin
+[16:16:19] sciencegeek: Be7 is nice but then Bf4 pins my knight to queen
+[16:16:19] sciencegeek: here then if h3 Bh2+ Kh1 Bg1? does that lead to mate?
+[16:16:19] sciencegeek: well it could but white can just go bf4. maybe then I can do Qb6+
+[16:16:19] tastypotatohead: (14.Bf4) After Bxf4 I don't know which piece to take with, either looks fine
+[16:16:19] sciencegeek: if white plays badly I could have smothered mate but that won't happen
+[16:16:19] sciencegeek: yeah nf2+ and Rxf2 Qxf2 bxd6 and the smothered mate is no more
+[16:16:19] sciencegeek: need to move a little faster
+[16:18:22] sciencegeek: i don't feel like I have advantage anymore somehow. I am hoping to move queen laterally to h5 but e5 seems well timed here
+[16:19:54] sciencegeek: e5 nex5 rxe5 rxe5 so it doesn't work. but Na4 could disrupt positioning of my queen and make it possible
+[16:20:39] sciencegeek: damn what a move lol
+[16:25:59] sciencegeek: ugh time trouble we meet again
+[16:26:30] sciencegeek: don't like the pin against my g7 pawn in lines where they push e5
+[16:29:17] sciencegeek: unsure what to do. maybe Re5 if they don't push and threaten rh5?
+[16:32:05] sciencegeek: h3 is annoying move here
+[16:35:53] sciencegeek: horsies doing major work here
+[16:36:39] sciencegeek: h6 now is good move dang it. h6 rxf5 then idk
+[16:41:59] arandommove: If 20. ... Nxe4 works that would be a stunner
+[16:45:02] fischerforlife: We believe in you Science Geek
+[16:46:03] sciencegeek: just panic instinct now
+[16:49:05] fischerforlife: How to you play this as white?
+[16:49:51] fischerforlife: It seems lost
+[16:52:23] fischerforlife: Nvm I'm just sleepy
+[17:02:33] sciencegeek: not sure what to do here lol
+[17:02:48] sciencegeek: or i would need more time to figure out what to do
+[17:03:33] fischerforlife: Great draw!
