@@ -1,0 +1,204 @@
+Lichess game chat log
+Game      : https://lichess.org/1eMLrAM6
+White     : mizrab
+Black     : tactix47
+Time      : 45+45
+Captured  : 2026-09-26 15:33:01 UTC
+Game ended : 2026-09-26 14:12:49 UTC
+Messages  : 194
+────────────────────────────────────────────────────────────
+
+[11:55:55] tactix47: Hi baberle!
+[11:56:10] baberle: hi Tactix! gl!
+[11:56:56] baberle: this must be an autostart game
+[11:57:42] simonwashere: Go Mizrab!
+[11:57:42] joonaf: go Mizrab!
+[12:00:29] tactix47: (2...g5) that's the end of my pregame prep, let's see how much time it gains me ;)
+[12:00:45] baberle: Oh! Well I guess we’re not castling kingside, hehe!
+[12:02:31] baberle: I need to mow lawn before my game and my child’s party begins. ITIT. In Tactix I Trust.
+[12:03:02] baberle: Hot d I don’t want to leave this pawnstorm
+[12:04:18] davidsifre: Mizrab, go forth and conquer!
+[12:07:51] warvold: Whoo, what the position
+[12:08:06] warvold: Go Mizrab, Hi everyone
+[12:10:08] simonwashere: Hello!
+[12:10:23] warvold: (6...d6) Options are Bh2 of Bxf6, I don't like Bh2 at all
+[12:10:23] warvold: (7...Qxf6) So yeah
+[12:10:54] warvold: (7...Qxf6) And I was considering Qd2 here
+[12:11:09] warvold: (7...Qxf6) But e3 could work too
+[12:11:24] warvold: (7...Qxf6) e3 is probably best
+[12:11:39] warvold: (7...Qxf6) Qd2 Bh6 e3 anyway
+[12:12:56] warvold: (7...Qxf6) c3 is playable too. e3 favors a long castle later on, c3 favors a Qb3
+[12:17:15] warvold: (8.h4) Hmm
+[12:17:30] simonwashere: Interesting
+[12:17:30] warvold: (8.h4) g4 Ng5 Bh6
+[12:17:45] simonwashere: I would have gone for e3
+[12:18:00] warvold: (8.h4) I'd probably have done the same
+[12:18:15] tactix47: (8.h4) Well, that is pretty committal.  Need to take some time here to consider what pawn structure to continue with...
+[12:21:33] warvold: (8...g4) Alright, if Ng5 Bh6 f4 gxf3 Nxf3
+[12:25:22] simonwashere: yeah, leaving the g pawn slightly weak but avoids actually losing a pawn
+[12:25:52] davidsifre: New chess variant. After each move opponent had a 10% chance of having a piece transform to another piece.
+[12:26:08] warvold: (9.Ng5) It'd be diabolical
+[12:26:23] simonwashere: there should be an increased chance of the piece that moved transforming
+[12:26:53] davidsifre: So that knight might become a bishop.
+[12:26:53] warvold: (9...Nc6) So, now, only c3 is playable
+[12:26:53] davidsifre: Makes you really plan.
+[12:27:54] warvold: (10.c3) Great!
+[12:28:25] simonwashere: after c3 Bh6 f4 gxf3 Nxf3 black must be better
+[12:28:55] simonwashere: lots more development
+[12:29:25] davidsifre: Blacks bishop pair means he should castle and open up the middle.
+[12:29:41] warvold: (10...Bd7) There is an opportunity for e4 here
+[12:30:11] simonwashere: I thought about it but not sure it works out well
+[12:30:11] warvold: (10...Bd7) I'd play Nd2 tho
+[12:30:42] warvold: (10...Bd7) Nd2 is nice because of Bh6 f4 gxf3, now ther'd be Ndxf3
+[12:30:42] simonwashere: Yeah then can play Ndxf3 in the line we were looking at, much better
+[12:30:42] warvold: (10...Bd7) Really solid
+[12:30:57] davidsifre: Also opp for e3 just to free the bishop.
+[12:31:58] warvold: (10...Bd7) Ok, I'm more confident now
+[12:32:13] simonwashere: Looks like black is going to castle next
+[12:32:13] warvold: (10...Bd7) Must probably
+[12:32:28] warvold: (10...Bd7) Haha
+[12:32:28] warvold: (10...Bd7) There ic Nxe6
+[12:32:59] warvold: (10...Bd7) is
+[12:33:14] warvold: (11.Qb3) Dunno, why i keep writing ic, not even close on the keyboard
+[12:33:44] warvold: (11.Qb3) Alright, now, let's not try Nxe6 after O-O-O
+[12:34:00] simonwashere: How does Nxe6 work?
+[12:34:00] warvold: (11.Qb3) O-O-O Nxe6 Bxe6 d5 Bf7
+[12:34:00] simonwashere: aha
+[12:34:15] warvold: (11.Qb3) Before Qb3, there was Nxe6 Bx d5
+[12:34:30] warvold: (11.Qb3) But it was just a fancy trade
+[12:34:30] simonwashere: missed that
+[12:34:45] davidsifre: Probably the French c’est or some other French thing.
+[12:35:00] davidsifre: Causing typos.
+[12:35:00] warvold: (11.Qb3) Qu'est-ce que c'est que ça ?
+[12:35:31] davidsifre: Stop that.
+[12:35:31] warvold: (11.Qb3) Litterally, What is it that it is?
+[12:35:46] warvold: (11.Qb3) Sorry for my french
+[12:36:01] davidsifre: Or we will rename your country West America.
+[12:36:01] warvold: (11.Qb3) Literally*
+[12:36:17] simonwashere: But France is East of the USA
+[12:36:17] simonwashere: Depending which way you travel I suppose
+[12:36:17] davidsifre: You can get their both ways.
+[12:36:47] davidsifre: East America is Greenland.
+[12:36:47] warvold: (11.Qb3) I don't like these new maps coming from USA
+[12:36:47] simonwashere: How are things in South Canada anyway?
+[12:37:18] davidsifre: They can’t just go around renaming us!
+[12:37:18] davidsifre: usa! usa!
+[12:37:48] warvold: (11.Qb3) If that continue, I wouldn't want to work in the post office
+[12:38:03] simonwashere: Make Everything America Again
+[12:38:18] davidsifre: As long as they keep the zip codes it will be fine. But geography tests are going to be a bitch.
+[12:38:34] warvold: (11.Qb3) 1213 America bd,  31905 Americatown, AM, USA
+[12:38:34] simonwashere: No, easy, the answer to everything will be America
+[12:38:49] davidsifre: True. That does have a nice ring to it.
+[12:39:19] davidsifre: The  great lakes are America First, Lake America, etc.
+[12:39:35] simonwashere: History easier as well, in the year 1818 America invaded America but America formed a coalition with America and defeated America
+[12:40:05] warvold: (11.Qb3) A whole lot easier indeed
+[12:40:05] davidsifre: Defund public schools that don’t play along.
+[12:40:05] tactix47: (11.Qb3) part of me just wants to let him have the b7 pawn if he wants it...
+[12:40:35] warvold: (11.Qb3) Shh Tactix, let's not talk chess in this american chat
+[12:40:35] davidsifre: Rename stormy Daniels Melanie Trump.
+[12:40:35] davidsifre: Get rid of all scandals.
+[12:40:51] davidsifre: Melania
+[12:41:06] simonwashere: This Americhess.org website is cool
+[12:41:36] warvold: (11...Bh6) Hehe
+[12:41:52] warvold: (11...Bh6) It's going to be fun
+[12:41:52] warvold: (11...Bh6) Back on live game folks!
+[12:42:07] warvold: (11...Bh6) We just got Bh6
+[12:42:07] warvold: (12.f4) Saccing a pawn
+[12:43:09] warvold: (12.f4) Qxb7 seemed good too
+[12:43:09] simonwashere: Qxb7 more exciting
+[12:43:09] joonaf: interesting paen structure
+[12:43:24] warvold: (12...gxf3) gxf3 Nxf3 Bf4 threaten Bg3+
+[12:43:39] simonwashere: Qxb7 Rb8 Qxc7 something maybe Rxb2 who knows
+[12:44:10] warvold: (13.Nxf3) Not sure we'll be able to talk about pawn structure soon for white
+[12:44:10] warvold: (13.Nxf3) Pawn constellation maybe
+[12:44:10] joonaf: Why did I not understand what pawn sac you were talking about
+[12:44:25] joonaf: I forgot about ep
+[12:44:40] warvold: (13.Nxf3) Both : b7 for black, Bxg5 hxg5 Qxg5 for white
+[12:45:11] joonaf: Oh but ep didn't sac a pawn
+[12:45:11] joonaf: So I double blundered
+[12:45:11] warvold: (13.Nxf3) Ah, no no
+[12:45:26] warvold: (13.Nxf3) Right :)
+[12:45:26] simonwashere: as long as the blunders cancel out it is ok
+[12:45:41] joonaf: Two minuses make one big minus
+[12:46:12] tactix47: (13.Nxf3) in for a penny, in for a pound.  Risky, but I like development here
+[12:46:27] warvold: (13...O-O-O) I guess Nbd2 is the only sensible move here
+[12:46:42] joonaf: *but I like a development round
+[12:47:13] simonwashere: Just because a move is sensible doesn't mean we have to play it
+[12:47:13] joonaf: Need to make your whispers rhyme!
+[12:47:28] warvold: (14.Nbd2) That'd be quite a challenge
+[12:47:43] warvold: (14.Nbd2) Whispering only in haiku!
+[12:48:44] warvold: (14.Nbd2) King in the middle / I am pissing myself / Castle is the way
+[12:49:14] warvold: (14.Nbd2) Nope, it's a 5/6/5
+[12:49:45] baberle: lol @warvold @joonaf
+[12:51:01] warvold: (14.Nbd2) King in the middle / Bishop sniping throught my side / Castle is the way
+[12:51:01] warvold: (14.Nbd2) A bit better
+[12:51:16] warvold: (14.Nbd2) Your turn baberle
+[12:53:33] baberle: Sorry fellas my poetry mode only works in very specific conditions
+[12:56:06] warvold: (14.Nbd2) Haha
+[12:57:37] simonwashere: Is this a Haiku: I am a poet / but did not even know it / and this does not rhyme
+[12:58:08] warvold: (14.Nbd2) Not bad!
+[12:58:08] warvold: (14.Nbd2) Not sure if haikus are supposed to rhyme, I don't think so
+[12:58:38] davidsifre: No
+[12:58:53] warvold: (14...Qg6) Ok, what does Qg6 bring on the board?
+[12:59:08] simonwashere: answers in epic poem form only
+[12:59:54] tactix47: (14...Qg6) A big time investment, but I think this clamps down on the e4 square
+[13:00:25] warvold: (14...Qg6) Hmm
+[13:00:40] warvold: (14...Qg6) Bishop is indeed trapped
+[13:00:55] davidsifre: The queen on G6/The white queen is on b3/Knights versus bishops.
+[13:02:11] warvold: (14...Qg6) Structurally good, but lacking in poetry maybe
+[13:03:58] simonwashere: Sing, Muse, of the monarch marooned in the middle, Whose four-square throne stands bare upon the open file, Beset by bishops slanting down
+[13:03:58] simonwashere: the long diagonals And knights that leap unbidden over walls of pawns. Long had he lingered, trusting in the morning's calm, While rooks lay
+[13:04:13] simonwashere: sleeping, sealed within their corner towers, And every hour the storm of foes drew closer round. Now hear the cry go up from out the ivory h
+[13:04:13] simonwashere: hall: "Clear me the path, that I may make the ancient march, Two strides toward the fortress, while my faithful rook Leaps over me in one
+[13:04:28] simonwashere: bold bound to guard my flank, Ere the dark host breaks through and all the realm is lost!"
+[13:04:44] warvold: (14...Qg6) Bravo!
+[13:04:59] simonwashere: from ai admittedly
+[13:04:59] simonwashere: but I quite like it
+[13:05:14] warvold: (14...Qg6) I withdraw my bravo
+[13:05:14] warvold: (14...Qg6) Haha
+[13:08:32] warvold: (15...Qg3+) Ah, missed Qc2
+[13:08:32] davidsifre: Silent wooden knights,Sixty-four squares of battle,Checkmate ends the war
+[13:08:47] warvold: (16.Kd1) Yep, position is getting bit harder, but it's playable
+[13:09:18] warvold: (16.Kd1) I guess a4 is on the menu now
+[13:09:48] simonwashere: Nice one David
+[13:10:04] warvold: (16...e5) That's indded a nice one!
+[13:10:19] warvold: (16...e5) white must play d5
+[13:10:34] warvold: (16...e5) The center must be closed
+[13:10:34] davidsifre: Would you like another haiku about a specific piece (like the Queen or Pawn) or a different game?
+[13:11:04] davidsifre: That’s a hint that the prior was not my own work.
+[13:12:05] simonwashere: position does look awkward now
+[13:12:05] warvold: (16...e5) Haha
+[13:12:51] tactix47: (16...e5) Hey Scribbles!  Hope you approve of my opening choice ;)
+[13:13:37] simonwashere: Guess Rh3 doesn't help much
+[13:13:52] tactix47: So many games on lichess4545 TV, and only more to come with the Danny King stream soon
+[13:15:39] warvold: (16...e5) Rh3 Qg8 and you can't play d5 anymore
+[13:16:09] baberle: Tactix you gotta keep it going until Danny hits the stream
+[13:16:40] baberle: Danny boy, o Danny boy. The pawns, the pawns they are calling.
+[13:17:10] mrscribbles: What a werid
+[13:17:10] mrscribbles: Ei
+[13:17:10] mrscribbles: ... position. Love it. 16
+[13:18:57] tactix47: (16...e5) Back on good terms with the clock.
+[13:20:28] warvold: (17.d5) Good, i like d5
+[13:24:32] warvold: (18...Qf4) Hmm
+[13:24:47] warvold: (18...Qf4) I was worried after Bxd2 Nxd2 Qg4+
+[13:25:18] warvold: (18...Qf4) But now Bd3 maybe?
+[13:26:03] warvold: (18...Qf4) Bd3 fxe4 Bxe4 Nf5
+[13:27:04] warvold: (18...Qf4) Bxf5 Bxf5 Qb3
+[13:27:20] warvold: (19.Bd3) It's scary
+[13:31:08] tactix47: (20...Bg4) Hi Tranzoo!
+[13:33:40] simonwashere: hmmm need to play Kc1 b3 and Kb2 somehow
+[13:34:26] simonwashere: ah, maybe that is a better idea
+[13:41:02] warvold: (23.Raf1) Hmm, interesting
+[13:41:33] tbest: dropping g2 pawn hurts
+[13:42:18] tbest: I am not sure how you can generate counterplay now :/
+[13:43:04] tactix47: (23...Bxe4) Hope to keep a 2:1 clock ratio if I can.  I don't think the g2 pawn survives.
+[13:45:06] jcarmody: Go Tactix. Find tactics!
+[13:56:01] tactix47: (30...Rdf8) Trying to keep time pressure on whilst not throwing.
+[14:03:55] tactix47: (36...Ke6) Happy to continue trading material and defuse any threats.
+[14:03:55] davidsifre: Stop worrying about opponent’s time and focus on the right move.
+[14:04:10] davidsifre: Otherwise you will lose and people will laugh at you for not listened to board 8 advice.
+[14:12:49] warvold: Aouch
+[14:12:49] warvold: gg
+[14:12:49] simonwashere: gg
+[14:13:35] davidsifre: Daniel king said Mizrab was toast.
+[14:14:51] tactix47: Thanks for hanging out, everyone.  Fun game
