@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/QkZTU8pX
+White     : drotciv
+Black     : cvillian
+Time      : 45+45
+Captured  : 2026-09-26 21:39:54 UTC
+Game ended : 2026-09-26 20:19:46 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[19:18:03] leverkuhn: Classical KID!
+[19:18:18] leverkuhn: I always enjoy the White side of this, so hopefully cvillian can do better than my modal opponent
+[19:18:48] leverkuhn: time usage says this opening came as a surprise to Black, which will make this very difficult to play
+[19:42:41] leverkuhn: Black wants to play 17...axb4, but he's concerned about Nc6 ejecting the defender of c7
+[19:43:12] leverkuhn: for example 17...axb4 18.Nxb4 Rf7 19.Nc6 and Black is a tempo late to do what he wants
+[19:43:57] leverkuhn: possibly 17...axb4 18.Nxb4 Nf6 or 18...Nc5 so that ...Qd7 is available against Nc6
+[19:47:00] leverkuhn: 18...Bb7 is quite the concession to me
+[19:48:01] leverkuhn: strangely as it may seem, the Kasparov blueprint to victory is to get the pawn to g3, provoke h2-h3, sacricfice the c8 bishop on h3, mate.
+[19:48:47] leverkuhn: now that the c8-bishop has moved and may be exchanged on c6, that's off the table and checkmate scenarios become much more remote
+[19:51:04] leverkuhn: White will likely play 19.Ra3 intending Rfa1 and a4-a5.
+[19:54:38] leverkuhn: I didn't expect White to rush Nc6 so much
+[19:54:53] leverkuhn: now there's 20...Bxc6 21.dxc6 Nb8 22.c5 to calculate
+[19:55:08] leverkuhn: and 21...Nc5 doesn't look bad to me either
+[19:55:39] leverkuhn: 21...Nf6 however is unappealing as 21...c5 hurts a lot
+[19:55:39] leverkuhn: errr 22.c5
+[19:58:57] leverkuhn: 19.Rfd1 was a strange move, and hinted at White's intentions to play for d-file pin tricks
+[19:58:57] leverkuhn: unfortunately I don't think Black sniffed that out
+[20:20:01] drotciv: My King's Indian is starting to come together. Was expecting the Benko. I'm guessing it was on the newer side for you given all the time
+[20:20:01] drotciv: spent in the opening.
+[20:24:20] cvillian: indeed
+[20:25:51] drotciv: I appreciate all these notes Lever -
+[20:26:06] drotciv: I'm learning a lot from them
+[20:26:52] drotciv: Like I didn't even consider the slower rook lift to push a5. Getting a feel for when you can make a maneuver over several turns in the KID
+[20:27:07] drotciv: and withstand the counterplay is one of the trickier parts of the opening
+[20:28:23] drotciv: Here too I was trying to play quickly to keep the pressure on, and also to push myself to do so given chronic time trouble issues
+[20:30:40] drotciv: And it seems I had a blindspot for the strength of Nc5
+[20:30:40] drotciv: I did consider a5 before Nc6, but not with the idea of preventing Nc5
+[20:30:55] drotciv: Which seems to be the point, as it kills my entire approach
+[20:32:11] drotciv: Though I would be more optimistic than the computer after 21...Nc5, Bxc5, bxc5
+[20:32:57] drotciv: Concretely I can't hold the c6 pawn, though, and my initiative fizzles
+[20:33:42] leverkuhn: well played Drotciv!
+[20:34:59] leverkuhn: in retrospect the weakness of the 13.a4 approach is that you lose the option of b4 supported by a3 to eject a c5-knight
+[20:35:29] leverkuhn: Black needed to take advantage of that somewhere
+[20:35:59] leverkuhn: I am a big advocate of the 13.Rc1 approach, but so far no one his taken the Black side of this stuff in league against me
+[20:37:00] drotciv: I've stuck to the a pawn approach but definitely still learning about it each game. I didn't think of that Nc5 subtlety until now.
+[20:37:31] drotciv: I have a strange personal approach to the whole thing that's developing. Like I usually just leave my knight on e1 since I found early it
+[20:37:31] drotciv: was getting in the way a lot when I put it on d3 too early
+[20:37:31] drotciv: and it ends up being rather useful defensively
+[20:37:46] drotciv: But then sometimes as a result my f1 rook is a brick
+[20:39:02] drotciv: Here Qc2 seems rather a waste of a move
+[20:39:02] drotciv: Should have just played Nd3 right off
+[20:39:48] drotciv: Was thinking short term as far as Qc2 supporting c5 after Nb5, but of course I have to go one step further and anticipate b6 and then my
+[20:40:03] drotciv: opponent won't kindly allow c5
