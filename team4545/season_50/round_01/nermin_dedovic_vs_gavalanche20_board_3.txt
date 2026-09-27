@@ -1,0 +1,351 @@
+Lichess game chat log
+Game      : https://lichess.org/r6hvFPPN
+White     : nermin_dedovic
+Black     : gavalanche20
+Time      : 45+45
+Captured  : 2026-09-27 23:31:39 UTC
+Game ended : 2026-09-27 22:11:27 UTC
+Messages  : 341
+────────────────────────────────────────────────────────────
+
+[19:16:22] gavalanche20: Hey Scribs
+[19:16:22] mrscribbles: hi gav
+[19:16:22] mrscribbles: go gallavant20
+[19:16:22] guitarspider: go Nermin_Dedovic!
+[19:16:22] gavalanche20: Hey guitar and T_T
+[19:16:37] t_t2603: Hi all
+[19:16:37] gavalanche20: Hiding the Prep, good name lol
+[19:16:37] guitarspider: hi gavalanche
+[19:16:53] super0jins: Go Gavalanche!!!
+[19:16:53] gavalanche20: I think we're expecting 1. c4
+[19:16:53] gavalanche20: (1.b3) Oh and just as I say that
+[19:16:53] mrscribbles: (1.b3) :shakefist:
+[19:17:08] t_t2603: Go Nermin
+[19:18:24] gavalanche20: (7.Bg3) So I take it opp has looked at this
+[19:19:10] super0jins: This feels like a prep bomb has been armed
+[19:19:40] jfiras: (7.Bg3) decisive game
+[19:19:40] gavalanche20: (7.Bg3) I do recall my mistake last tiem I played this in league was I didn't play an early enough d4 but I think I should still throw in
+[19:19:40] gavalanche20: (7.Bg3) h5
+[19:19:56] nermin_dedovic: So far, this is what I expected
+[19:20:11] gavalanche20: (7.Bg3) White doesn't have time to play d4 themselves
+[19:20:41] nermin_dedovic: d4 is the critical move. Black has previously played Be6 instead.
+[19:21:27] nermin_dedovic: I looked at a line here. Instead of nf3, go c3 d3 c4 Nb4 or something like that.
+[19:21:42] gavalanche20: (9.Nf3) Bg4 feels like something that was in my lines before
+[19:21:58] gavalanche20: (9.Nf3) 0-0 runs into some quick g5 stuff
+[19:21:58] nermin_dedovic: The idea is to sacrifice your rook but get a lot of compensation. The engine liked it fofr white, but really didn't have the time to
+[19:22:13] nermin_dedovic: to understand the position properly.
+[19:22:44] gavalanche20: (9.Nf3) I have not looked at my specific lines recently but I showed someone else this line and I was looking through their game
+[19:22:59] gavalanche20: (9...Bg4) So hopefully this is not completely rusty
+[19:23:14] fulmarsky: go nd!
+[19:23:14] gavalanche20: (9...Bg4) hey is tense guy, hi tense guy!!!
+[19:24:00] fulmarsky: (9...Bg4) tense isn't it.... just tensel already...
+[19:24:31] gavalanche20: (9...Bg4) Of course my first league game back in ages is a 3.5-3.5 match situation lol
+[19:24:31] gavalanche20: (9...Bg4) But it's good to be back
+[19:24:46] fulmarsky: (9...Bg4) i have one question, did black blunder the pawn or is it deliberate....
+[19:25:01] gavalanche20: (9...Bg4) Hi jfiras and super if i haven't said hi yet
+[19:25:47] jfiras: (9...Bg4) Hey gav and good luck !
+[19:26:02] ponderinsilence: (9...Bg4) Go gavalanche!!!
+[19:26:17] super0jins: Hi gavalance, looks like a fun position!
+[19:27:19] gavalanche20: (9...Bg4) Hey Ponder
+[19:27:34] gavalanche20: (9...Bg4) Ok let's review, 0-0 we hit with a quick g5, what other moves can White consider
+[19:28:04] gavalanche20: (9...Bg4) c3 I know Black meets with pushing d3 in a lot of lines, is this one of them
+[19:28:35] silkthewanderer: Go Gav
+[19:29:05] gavalanche20: (9...Bg4) Hey Silk
+[19:29:20] gavalanche20: (9...Bg4) Hi Barbie
+[19:29:36] silkthewanderer: Huh, I didn't know this line was a thing
+[19:29:51] feet_barbie: (9...Bg4) go chess
+[19:29:51] silkthewanderer: I am not immediately seeing the compensation so it is reassuring to see that apparently it is theory
+[19:30:06] silkthewanderer: Or at least theory-adjacent
+[19:30:22] gavalanche20: (9...Bg4) Qc1 I saw in that other player's game, unpinning and freeing the knight via a3, maybe making Nh2/e5 an option
+[19:31:39] silkthewanderer: Second glance makes the compensation a bit clearer, apparently White just cant resolve the d4/e3 tension easily
+[19:31:55] nermin_dedovic: Well, didn't expect this.
+[19:31:55] silkthewanderer: 0-0 looks very risky though
+[19:32:10] silkthewanderer: What was wrong with 10. Qe2?
+[19:32:25] fulmarsky: (10...g5) it's angst, oh dear, the kingside for white... just tense...
+[19:33:41] silkthewanderer: 11. exd4 must be the most logical candidate move, right?
+[19:35:28] nermin_dedovic: So exd4 Nxd4 Qe1+ breaks the pin and gives me an okay position I think.
+[19:35:28] nermin_dedovic: The question is if he recaptures or instead does something on the king-side
+[19:35:43] gavalanche20: (9...Bg4) Is there a world where maybe I should have played Be7 first
+[19:35:59] fulmarsky: (11.exd4) stay in there ND, just stay in there, see through this tension....
+[19:37:30] gavalanche20: (11.exd4) I think I understand, idea Nd4 Re1 Be7 Re3?
+[19:38:31] silkthewanderer: Is Nxd4 Qe1 Ne6 the idea?
+[19:39:32] gavalanche20: (11.exd4) Oh no the idea is Be5
+[19:40:17] silkthewanderer: Alternatively gxh4 could be interesting because after Re1 Be7 Bxh4 Black doesnt have Nxd4 because e7 is weak
+[19:41:03] silkthewanderer: 11. exd4 Nxd4 12. Be5 Bxf3 13. gxf3 Rg8 seems manageable
+[19:41:34] gavalanche20: (11.exd4) Throwing in gh4 probably does not end well because Re1+ Be7 Bh4
+[19:42:34] nermin_dedovic: I'm a bit surprised black went with that. I thought something like gxh4 would be more challenging.
+[19:42:50] gavalanche20: (11.exd4) Ah but if Qe1+ instead there are lines where White unpings with check
+[19:43:05] gavalanche20: (12.Qe1+) (like we see here)
+[19:43:05] silkthewanderer: Qe1 Ne6 Nxg5 is a problem
+[19:44:36] silkthewanderer: Maybe Qe1 Ne6 Nxg5 Be7 Nxe6 Bxe6 keeps some chances
+[19:44:36] gavalanche20: (12.Qe1+) Ok so Ne6 is forced because of Be5 tractics
+[19:45:07] silkthewanderer: But I am not that optimistic about objective compensation
+[19:45:22] fulmarsky: (12...Ne6) who's winning.. ooh please... who's winning...
+[19:45:22] gavalanche20: (12.Qe1+) It's ok guys castling is a social construct
+[19:46:08] gavalanche20: (12...Ne6) But in hindsight Be7 first instead of insta throwing g5 was probably best
+[19:50:58] guitarspider: (13...Be7) well, two pawns are two pawns
+[19:50:58] fulmarsky: (13...Be7) oh the tactics, so tense,  poor h4, the pin down the e-file... such immensity....
+[19:53:16] fulmarsky: (14...Bxe6) be h4 defendable, can one cometh to its rescue....
+[19:53:47] nermin_dedovic: Looking at Qe5 and wondering if that is too aggressive or not.
+[19:54:02] silkthewanderer: Uh, Qe5 Bf6?
+[19:54:33] gavalanche20: (12...Ne6) Hope you are all having a nice hearty breakfast/lunch/dinner wherever yall are
+[19:54:33] fulmarsky: (14...Bxe6) oh dear.... oh please not Qe5 then
+[19:54:33] cinemashow: (14...Bxe6) yeah, Nc3 first
+[19:54:33] silkthewanderer: The idea is good though Nc3 and it theeatens Qe5
+[19:54:33] gavalanche20: (14...Bxe6) I myself am having a nice helping of crow
+[19:55:19] silkthewanderer: Nc3 Bxh4 Qe5 Rg8 is a line to evaluate
+[19:55:34] fulmarsky: (14...Bxe6) oh i'm just not keen on those that bishop pair, it is of most discomfort to the player with the white pieces...
+[19:55:49] gavalanche20: (14...Bxe6) It's not BAD bad because I think I can get one pawn back
+[19:55:49] guitarspider: (14...Bxe6) Qe4 seems very nice to me
+[19:55:49] gavalanche20: (14...Bxe6) But the attackulation was very much premature
+[19:56:05] guitarspider: (14...Bxe6) just solid, nothing happening, up two pawns
+[19:56:05] nermin_dedovic: I could give the pawn back and play Nc6 Bxh4 Bxh4 Qxh4 Qe4
+[19:56:20] fulmarsky: (14...Bxe6) oh no oooh dea, ND  is trying to be fancy, i can't bear this... (cookie break)
+[19:56:35] silkthewanderer: Nc3 you mean? Yes that is also my first line currently
+[19:56:35] silkthewanderer: Dont think White has any better
+[19:57:36] fulmarsky: (14...Bxe6) (just calm.... calm... tea break, go ND)
+[19:57:36] silkthewanderer: I dont think Black should play Bxh4 though
+[19:58:53] gavalanche20: (14...Bxe6) Picking up my bass and playing seven nation army to manifest good luck
+[19:58:53] silkthewanderer: Nc3 Rg8 Qe4 c6 and then you try to kick with Rg4
+[19:59:08] gavalanche20: (14...Bxe6) I know i know it's not actually a bass part
+[20:00:39] zubenelgenubi: go gav
+[20:01:56] fulmarsky: (15.Nc3) i just feel sorry for h4
+[20:01:56] gavalanche20: (14...Bxe6) So let's say Bh4 Bh4 Qh4 is White's idea Qe4
+[20:02:12] silkthewanderer: Ah. Nc3 Rg8 Qe4 and then if c6 there is Qh7
+[20:02:27] silkthewanderer: I think so yes @gav
+[20:03:29] silkthewanderer: It is entirely possible to just to foe that line, castle long and hold the endgame
+[20:03:44] nermin_dedovic: Maybe that wasn't the smartest. I don't think I can stop queenside castling now
+[20:03:44] silkthewanderer: The LSB will be the better minor piece and it will be quite some work for White to convert
+[20:03:44] fulmarsky: (15.Nc3) letteth not supper take place upon poor h4...
+[20:07:02] fulmarsky: (15.Nc3) why delayeth black his luncheon upon h4... i know not...
+[20:07:18] silkthewanderer: Qd7 and 0-0-0 is the plan that probably eetqins most winning chances
+[20:07:48] silkthewanderer: Bxh4 Bxh4 Qe4 and Black is unlikely to ever get any winning chances this game
+[20:09:35] guitarspider: (17.Qe4) you can't really not trade queens here...
+[20:10:20] guitarspider: (17.Qe4) which is definitely good news for us
+[20:10:36] gavalanche20: (17.Qe4) Ok so crossroad, do we go full equalizer mode and try to claim I still have some devleopment lead in the endgame or keep trying
+[20:10:51] gavalanche20: (17.Qe4) to make something on the kside
+[20:11:37] fulmarsky: (17.Qe4) chess is tough, one pondereth and ponder...
+[20:12:07] silkthewanderer: You definitely should grovel in the endgame here
+[20:12:22] guitarspider: (17.Qe4) I mean Qg5 Qxb7 looks awful
+[20:12:38] silkthewanderer: Take take castle long and then make sure the White knight doesnt get a good anchor square
+[20:15:41] gavalanche20: (17.Qe4) I think White consolidates far too easily after Qe4 Ne4 0-0-0 d3
+[20:15:56] gavalanche20: (17...Qg5) Qg4 an idea trying to get a better qex version but f3 i thought was maybe annoying
+[20:15:56] fulmarsky: (17...Qg5) oh dear, i hoped black would initiate that queen trade, the potential for rollercoaster dynamics is intensified...
+[20:15:56] gavalanche20: (17...Qg5) so we have to do this the hard way
+[20:17:13] fulmarsky: (17...Qg5)  i wistfully ponder this... is 18.Qxb7 an option for white
+[20:17:13] guitarspider: (17...Qg5) Yes
+[20:17:28] guitarspider: (17...Qg5) For sure that is the move
+[20:17:43] guitarspider: (17...Qg5) the question is what to do after Qxb7 Rd8
+[20:17:43] guitarspider: (17...Qg5) but Ne4 there looks very very tempting
+[20:17:58] fulmarsky: (17...Qg5) tense...    ... oh these complexities...
+[20:18:14] super0jins: is Kd7 ever a move you play after Qxb7
+[20:19:30] super0jins: otherwise white may have Qc6 check in some lines
+[20:19:45] guitarspider: (17...Qg5) I hadn't really considered Kd7
+[20:20:00] guitarspider: (17...Qg5) but it feels like that only makes the king more vulnerable
+[20:20:16] nermin_dedovic: Considering b7 to stop castling, Rae1 to get it into the game, and potentially f4 to be crazy
+[20:20:46] fulmarsky: (17...Qg5) oh ND is thinking... oooh the cogs or wurring, ND is taking time on this move....
+[20:21:01] nermin_dedovic: f4 does give me room for the king and allows me to lift the rook...
+[20:21:17] guitarspider: (17...Qg5) I think not taking on b7 is basically criminal here :D
+[20:21:32] feet_barbie: (17...Qg5) too bad bd5 doesnt work xd
+[20:21:47] guitarspider: (17...Qg5) the king stuck in the center here is only ever going to pay dividends
+[20:21:47] nermin_dedovic: And it also threatens f5 in some cases...
+[20:22:18] nermin_dedovic: But could be so dangerous
+[20:23:03] fulmarsky: (17...Qg5) that f4 idea is really giving me too much tenseness...  oooh  let a measure of calmness encompass those squares...
+[20:23:49] gavalanche20: (17...Qg5) Hm now this thought Qc5+ was a useful tempo somehow
+[20:24:50] guitarspider: (18.f4) the core of the position was the black king position imo
+[20:24:50] zubenelgenubi: Qc5 then 0-0-0?
+[20:25:05] silkthewanderer: Yes. Unless Qc5 Qe3 of course
+[20:25:05] fulmarsky: (18.f4) let comforts arrive via a sanctuary of cookieness for the happenings on those 64 squares, be all too much
+[20:25:05] silkthewanderer: But f4 is something you like to see as Black
+[20:25:36] guitarspider: (18...Qc5+) yep
+[20:25:36] fulmarsky: (18...Qc5+) ooh dear..... oh dear.....
+[20:25:51] gavalanche20: (18.f4) If Qe3 I think I like that I get to the d file faster so might take the q trade there
+[20:25:51] guitarspider: (18...Qc5+) there's no need to play it when you can just prevent castling forever
+[20:26:21] gavalanche20: (18...Qc5+) Kh1 0-0-0 and f5 I now have Rd4
+[20:26:52] fulmarsky: (18...Qc5+) i wonder if ND at this time, giveth regret over f4.    Bounce back ND, stay in there, we are with you...
+[20:27:22] silkthewanderer: Qe3 you really shouldn't trade imo, White is just as quick on the d file
+[20:27:53] gavalanche20: (19.Qe3) I guess Qf5 is also a move
+[20:28:08] silkthewanderer: There is also Qc6
+[20:28:08] guitarspider: (19.Qe3) f4 doesn't ruin anything, it just changes the position in a way where suddenly ideas are easier for Black to find
+[20:28:24] silkthewanderer: And after Qe4 you can just offer  äh repetition
+[20:28:55] silkthewanderer: Ah Qc6 Qf3 I dont know how to answer yet
+[20:28:55] zubenelgenubi: Qf5 stops f5 and threatens c2
+[20:29:26] guitarspider: (19.Qe3) you can't take c2 because of f5
+[20:29:56] zubenelgenubi: yes, eyes c2
+[20:30:11] fulmarsky: (19.Qe3) all these considerations ... this be not an indifferent chess game...
+[20:30:27] silkthewanderer: Okay I am also on team Qf5 now
+[20:30:27] silkthewanderer: Mostly because after Qf5 Qf3 Black can castle
+[20:30:42] guitarspider: (19.Qe3) I'd like Qa7 after 0-0-0
+[20:30:57] zubenelgenubi: and threaten c2 :-)
+[20:30:57] guitarspider: (19.Qe3) so probably Qf5 Rae1?
+[20:32:44] guitarspider: (20...O-O-O) ok, endgame then
+[20:33:15] nirakuhakamura: (20...O-O-O) go Nermin!
+[20:33:15] gavalanche20: (19.Qe3) Qf5 d3 0-0-0 Qa7 may have been possible but not sure
+[20:33:30] gavalanche20: (20...O-O-O) I forgot f5 immediately is a thing so maybe this endgame is not as favorable as initially thought
+[20:33:45] fulmarsky: (20...O-O-O)  in laypersons terms, puttina rook on d1, i imagine now be best for white
+[20:34:31] guitarspider: (20...O-O-O) Rad1 Bg4 could be annoying
+[20:35:32] fulmarsky: (21...Bg4) oh no its happened, oooh dear oh dear...
+[20:35:32] zubenelgenubi: wow that was fast
+[20:35:32] fulmarsky: (21...Bg4) oh dear...
+[20:35:47] gavalanche20: (20...O-O-O) Ok a bit relieved not to see f5 ngl
+[20:37:03] fulmarsky: (22.Rd3) this is awkward,   just calm....  calm.........
+[20:38:04] guitarspider: (22.Rd3) ok, rook trade and Rd8 d4 must be the plan
+[20:38:35] guitarspider: (22.Rd3) it looks weird to open so many light squares but on the other hand the bishop can't help much
+[20:38:50] guitarspider: (22.Rd3) it can't really attack anything
+[20:39:21] gavalanche20: (21...Bg4) b5 vs Rh38
+[20:40:52] fulmarsky: (22...b5) the is the time contrast also... white hath not quite as much time to ponder and ponder.....
+[20:41:38] fulmarsky: (22...b5) oh bishop please move, stop controlling d1 please....
+[20:41:53] feet_barbie: (22...b5) a fun endgame when tied 3.5 each
+[20:43:09] fulmarsky: (22...b5) causing extra tenseness upon the 64 squares
+[20:43:55] gavalanche20: (22.Rd3) HI niraku, nyanners and everyone else who's popped by
+[20:44:10] gavalanche20: (22...b5) Mouseslips sinks ships is such a sfamiliar name but i can't place it lol
+[20:44:10] gavalanche20: (22...b5) Was it a team name way back when
+[20:44:26] fulmarsky: (22...b5) how can black have time for chitchat... the tension is unbearable on those squares....
+[20:44:56] fulmarsky: (23.a3) it's all too much, a quick tea break...
+[20:49:31] gavalanche20: (22...b5) Rhe1 Re1 and then?
+[20:49:31] fulmarsky: (23.a3) kettle's boiling...
+[20:51:32] feet_barbie: (23.a3) i ll make chamomille with melatonin
+[20:52:18] gavalanche20: (23.a3) I want to play Kb7 before pushing c5 I think
+[20:52:49] gavalanche20: (23...Rhe8) But I'm going to claim playing Rhe8 first prevents White from playing Rf2-d2 which successfully doubles
+[20:53:19] gavalanche20: (23...Rhe8) Is it good chess or am I galaxy braining? Idk anymore
+[20:53:50] gavalanche20: (23...Rhe8) I mean this came from the same creative genius that instathrew 10...g5 and this is where this got us
+[20:53:50] gavalanche20: (23...Rhe8) So make of that what you will
+[20:55:51] fulmarsky: (24...Kb7) bishop would you please move thyself from that g4 square, please hamper no more white's rooks
+[20:57:08] silkthewanderer: Eh the White knight can just travel via e2-g1-f3 now
+[20:57:23] gavalanche20: (24.Kf2) If I can keep Nc3 passive and take control of the d file then there are chances
+[20:57:23] silkthewanderer: I dont think this has many chances to hold then
+[20:57:53] guitarspider: (25.e4) Nd5 also an attractive idea
+[20:58:39] silkthewanderer: After e4 yes
+[21:00:41] fulmarsky: (26.Re1) i had given ponderence to Rxd8...Rxd8  Nd5,  yet i know not what be best upon these squares...
+[21:02:12] guitarspider: (26.Re1) I think that would have been fine too
+[21:02:43] guitarspider: (26.Re1) maybe even simpler than what we have now
+[21:02:58] guitarspider: (26.Re1) one less pair of rooks means less counterplay
+[21:03:44] fulmarsky: (26.Re1) such be the tenseness encompassing those squares, a handshake and a mutual decision to complete this chess game, would cause a sigh
+[21:03:59] fulmarsky: (26.Re1) ...  a sigh that the tenseness be eased...
+[21:06:32] fulmarsky: (26.Re1) thank you tea
+[21:07:48] fulmarsky: (26...c4) oh surely a table of supper be now booked in on that d8 square...
+[21:08:03] gavalanche20: (24...Kb7) So many things to consider, Kc6 slow move, c4, b4, Rd3 cd3 c4 and/or Be6
+[21:10:05] fulmarsky: (26...c4) Rxd8 ...Rxd8  Nd5 and if  ...Be6   Rd1  (this be merely what i pondered...)
+[21:12:22] fulmarsky: (28.Ke3) this is chess... this is a chess game a 45 45 chess game of upmost endeavour for both sides
+[21:13:38] mynameismund: Go gav!
+[21:14:09] fulmarsky: (28...Rc8) 'uncomfortable'  be an understatement compare to what is simmering across those squares...
+[21:14:24] feet_barbie: (28...Rc8) its though v though gavalanche is a strong veteran
+[21:16:11] fulmarsky: (30.Kd3) unbearble, yet, i be melded to this chess game, with an undeniably strong adhesive...
+[21:18:59] fulmarsky: (30...Rc8) oh please ye knights upon those splended squares, let thy hands touch now, lest this 64 squared angst continue...
+[21:20:01] gavalanche20: (26...c4) Stay flexible in case I might want to swing over w Rg8 Be6-c4?
+[21:22:18] feet_barbie: (31.Kd4) feels like white made progress
+[21:22:48] super0jins: Rc4 and force white to chose a different move?
+[21:26:09] nermin_dedovic: Think that was a mistsake by me. Rc4 is kidna strong now I think
+[21:26:26] nermin_dedovic: Or maybe it's alright. No idea
+[21:26:41] fulmarsky: (33...Rc4+) oh dear.. oh dear. please not ..Rc4
+[21:26:41] fulmarsky: (33...Rc4+) oh its happend!!
+[21:27:27] super0jins: f5 looks interesting
+[21:28:44] feet_barbie: (34.Kd3) very rich endgame
+[21:30:00] super0jins: Nice its played
+[21:30:45] nirakuhakamura: (34...f5) Nb6 forced?
+[21:31:16] gavalanche20: (34...f5) Dang it I thought I had Ne3 Re4 as cleaner than fe4
+[21:31:16] gavalanche20: (34...f5) But Nf5
+[21:32:02] gavalanche20: (34...f5) No wait hold the presses it still works
+[21:32:33] nirakuhakamura: (35...Rxe4) uh Nxf5+ wins?
+[21:32:33] gavalanche20: (35.Ne3) Kd5 in the end
+[21:33:34] super0jins: Nx Bx Rxe4 Kd5 yea
+[21:34:05] nirakuhakamura: (36.g3) right it was losing
+[21:34:21] fulmarsky: (36...Ra4) please one telleth me who be winning, for i know not....
+[21:35:37] fulmarsky: (37.Nc2) and if white be not winning, let me remain in ignorance please...
+[21:35:52] guitarspider: (37...Bf3) I don't think anyone's winning now
+[21:36:08] super0jins: Bf3 is a mean move
+[21:37:09] guitarspider: (37...Bf3) Re5?
+[21:37:24] guitarspider: (37...Bf3) then if Bxc2 f5 falls
+[21:37:40] nirakuhakamura: (38.Ra1) or Nd4 and repeat?
+[21:37:55] fulmarsky: (39.Kd2) it's all too much ....  too much....
+[21:38:10] super0jins: I dont think the rook endgame leads anywhere productive
+[21:38:25] fulmarsky: (39.Kd2) that black lsb has been pest throughout, and it doesn't seem as though it is relenting.....
+[21:38:25] super0jins: although black does have the more active king
+[21:38:56] guitarspider: (39.Kd2) should still be drawn, black has weak pawns too
+[21:39:11] guitarspider: (39...a5) Nd4 now?
+[21:39:42] silkthewanderer: And then b4
+[21:39:42] nirakuhakamura: (39...a5) no now Nd4
+[21:39:42] zubenelgenubi: b4?
+[21:39:42] guitarspider: (39...a5) the one things I'm a bit worried about is the passive Ra1
+[21:40:27] guitarspider: (39...a5) so how about Rb1
+[21:41:13] silkthewanderer: Rb1 looks like a good idea
+[21:42:14] fulmarsky: (42.Nc4+) one must enter another facet into this equation, it now be approaching 2.5 hours and so
+[21:42:29] zubenelgenubi: they're playing too fast :-) I was trying to figure out Rb1 Kc5
+[21:42:44] gavalanche20: (35...Rxe4) Tricky
+[21:42:44] fulmarsky: (42.Nc4+) the ponderings are even more susceptible to bouts of tenseness
+[21:43:00] silkthewanderer: Kc5 Rc1 is the idea?
+[21:43:15] guitarspider: (42.Nc4+) I suppose after Kc5 you can take on b4
+[21:43:15] super0jins: Kc5 axb?
+[21:43:30] guitarspider: (42.Nc4+) althought Rc1 also looks interesting
+[21:44:01] silkthewanderer: Ah right. I guess I should stop calculating Kc5 Rc1 Kd4
+[21:44:01] nirakuhakamura: (42.Nc4+) why can you take when rook and knight are hanging?
+[21:44:01] silkthewanderer: axb4 id plenty good enough
+[21:44:16] nirakuhakamura: (43.Ke3) oh it was check
+[21:44:31] guitarspider: (43.Ke3) ya
+[21:44:31] guitarspider: (43.Ke3) Ke6 is good though
+[21:44:46] fulmarsky: (43...Bd5) white hath won back some time, oh bravo for increasing the numerical digits upon that clock...
+[21:45:01] mrscribbles: (43...Bd5) gotta go, good luck gavvo
+[21:45:01] gavalanche20: (42.Nc4+) Was Ke3 right?
+[21:47:19] fulmarsky: (44.Rc1) oh dear, removal of guard a3 falls?
+[21:47:19] nermin_dedovic: Man, from 2 pawns up to probably losing endgame...
+[21:47:19] fulmarsky: (44...Bxc4) (i'm sorry, i'm just panicking, its tense)
+[21:47:34] super0jins: Now is the rook endgame winning
+[21:47:50] super0jins: I assume so
+[21:48:05] super0jins: With the white king so far away
+[21:48:05] fulmarsky: (46...b3) its' not fair, white was winning...
+[21:48:20] silkthewanderer: In practice I think it is winning more often than not
+[21:48:51] guitarspider: (47.Kg2) ya, this has good chances to be tragic
+[21:49:06] nirakuhakamura: (47.Kg2) I think white can win this
+[21:49:36] silkthewanderer: Kg2 at least was good. Against most other moves Black had forced wins already
+[21:49:52] nirakuhakamura: (48.Rb4) if he can mop up f and h pawns and deflect blacks king towards b1
+[21:50:07] feet_barbie: (48.Rb4) and
+[21:50:37] super0jins: and now the king connects with the pawn
+[21:51:23] fulmarsky: (50...Ra5) time be of the essense... tempos, angst.. oooh NH i shall also embrace this 64 squared optimism for white.   We are with you
+[21:51:23] zubenelgenubi: Ra5?
+[21:51:38] fulmarsky: (50...Ra5) we are with you ND
+[21:51:38] zubenelgenubi: yep
+[21:51:38] gavalanche20: (43...Bd5) If I'm not on time I will be very sad
+[21:52:09] fulmarsky: (50...Ra5) oh dear, ooh dear, black is trying to trade rooks, i can tell, i can just tell..... please don't...
+[21:55:42] tactix47: How did I miss that gav had a game on?  Go gavalanche!
+[21:55:57] fulmarsky: (53.Rb8) if white can clinch a draw by repetition,  i utter merely this:  thank you chess
+[21:59:00] fulmarsky: (55.Rc1) i wonder, i just wonder could that white rook sacrifice itself for the b-pawn....  i knoweth not....
+[22:00:16] gavalanche20: (50...Ra5) Pardon my extremely sloppy technique
+[22:00:31] fulmarsky: (55...Kd2) yet i feel i merely pluck a chord of hope
+[22:01:32] fulmarsky: (57.Kxh5) tempos are key, this is absolute anguish for white, i can tell....
+[22:02:03] zubenelgenubi: can gav just wait here? like go for the g pawn?
+[22:02:03] silkthewanderer: 53. ...Kc3 was the easy conversion
+[22:02:49] guitarspider: (57.Kxh5) I mean, queen, rook back to b5, how does white do anything?
+[22:03:04] zubenelgenubi: yes true
+[22:03:35] silkthewanderer: Fair. After g4 Black king is still close enough
+[22:04:05] silkthewanderer: By several tempi too
+[22:05:06] zubenelgenubi: could still go for the g pawn :-)
+[22:05:06] zubenelgenubi: before
+[22:05:21] fulmarsky: (58...Rxb1) an immensity of chess tensions from hope to melancholic airs, this be the chess rollercoaster of 45 45 chess
+[22:05:37] guitarspider: (58...Rxb1) this is over unfortunately
+[22:06:53] fulmarsky: (58...Rxb1) this chess game hath delayed dinner.. ooh it seems everything goes on hold, how can one release oneself from this game...
+[22:08:24] zubenelgenubi: less counterplay in my version
+[22:08:39] nirakuhakamura: (59.g4) black can still fumble
+[22:08:55] super0jins: Ke3 seems simplest
+[22:09:10] guitarspider: (59.g4) there'd have to be a lot of fumbling :(
+[22:09:25] guitarspider: (59.g4) possibly some falling off a chair or something similar
+[22:09:25] silkthewanderer: Literally every move wins here :D
+[22:09:40] fulmarsky: (60.Kxg4) oh please give us some hope...
+[22:09:56] silkthewanderer: Okay Kb1 maybe not
+[22:10:11] guitarspider: (60.Kxg4) it's basically the same except now black also has the option of bringin the rook behind the pawn
+[22:10:26] super0jins: This should also be simple enough
+[22:10:26] gavalanche20: (58...Rxb1) My internet went out of all the times
+[22:10:57] guitarspider: (61.f5) Rf1 Kg5 Ke4 f6 Ke5 0-1
+[22:11:12] super0jins: Keep the king connected to the pawn and play Rf1 once the white king is too far
+[22:11:27] nirakuhakamura: (63.f6) gg
+[22:11:27] fulmarsky: (63...Ke5) not fair...
+[22:11:27] guitarspider: gg
+[22:11:27] super0jins: gg!
+[22:11:27] fulmarsky: good game both
+[22:11:27] zubenelgenubi: gg
+[22:11:42] tactix47: gg
+[22:11:42] jcarmody: gg
+[22:12:13] fulmarsky: chess rollercoaster.... a chess rollercoaster... A win for 45 45 chess.   This is chess... even though it's tense,  Thank you chess
+[22:13:59] zubenelgenubi: wp both fun game to watch
+[22:16:48] gavalanche20: Did anyone save chat
+[22:17:34] gavalanche20: I freaked out when I started seeing the the disconnected sign on 59
+[22:17:34] pezzo17: gg
