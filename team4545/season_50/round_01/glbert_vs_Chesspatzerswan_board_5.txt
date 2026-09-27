@@ -1,0 +1,106 @@
+Lichess game chat log
+Game      : https://lichess.org/loo1efBg
+White     : glbert
+Black     : chesspatzerswan
+Time      : 45+45
+Captured  : 2026-09-27 20:14:24 UTC
+Game ended : 2026-09-27 18:54:22 UTC
+Messages  : 96
+────────────────────────────────────────────────────────────
+
+[17:57:22] cham: let's go glubby!
+[17:57:53] serenemoose: Go ChessPatzerSwan!
+[17:57:53] tactix47: Go glbert!
+[18:01:11] cham: waiting politely
+[18:02:43] tbest: we are off! E4 too, so we can all hope for an all out attack
+[18:03:44] cham: glbert doesnt usually do this normal stuff i feel
+[18:03:59] glbert: tempted to play Ng5, but i don't really know the theory.
+[18:04:45] tactix47: Theory shmeory.  Looks like fun.
+[18:05:30] glbert: learning by doing.
+[18:07:02] nyanners: black felt weakness
+[18:08:33] cham: what's this goon up to......
+[18:08:33] cham: i like it it's aggressive
+[18:09:19] glbert: opponent does me the favour of playing something they played before.
+[18:09:34] nyanners: you know, everyone loves to talk about Nxf7. what happened to the old 6 d4
+[18:09:50] nyanners: if you dont know what youre doing why go all out
+[18:10:05] cham: who's winning
+[18:10:05] nyanners: Still Theory
+[18:10:35] nyanners: someone will blunder in 10 moves tops
+[18:10:51] nyanners: then we see whos winning
+[18:10:51] nyanners: thats the plan
+[18:11:06] cham: who do you think it will be
+[18:11:21] nyanners: the vibes are tough to read but
+[18:11:21] nyanners: to be honest i think white will blunder
+[18:11:36] cham: i see
+[18:11:36] nyanners: like, black has played this before, it seems? this is not a good position to wing it
+[18:12:22] tbest: it's a fun position to wing it through, just not easy
+[18:12:22] nyanners: its fun if you succeed.............
+[18:12:37] nyanners: the odds are not good on that
+[18:16:58] nyanners: 11 qd1 is the new tech in this position. re1 is better than qe2
+[18:17:13] nyanners: ive looked into a lot of nonsense in 4 Ng5 recently
+[18:17:29] nyanners: my latest try was 5 exd5 Nb4
+[18:19:00] nyanners: this Nxd5 business is a bit underrated, if only because white never actually knows the theory
+[18:20:16] tbest: it's an underrated opening in general I think. Since after exd5, things like Na5 is also good
+[18:21:17] tbest: bb5+ c6 dx bx bd3 is what I have faced a bit
+[18:22:18] nyanners: i mean, thats just the main line. what i mean is about side options that are supposed to be trash
+[18:22:34] nyanners: black is playing one of them XD
+[18:22:49] nyanners: so far so good, but now white has stepped out of theory
+[18:23:19] nyanners: and black immediately blunders XD
+[18:23:50] cham: what's the blunder? i just left the screen
+[18:23:50] nyanners: Bg5 and you cant defend e5 and Bd3
+[18:23:50] cham: ic
+[18:24:05] nyanners: e.g. Qg6 Bd3, or Qf7 Qxe5
+[18:24:51] tbest: one has to appriaciate that when white left book, black played just as fast
+[18:25:06] nyanners: i find that in such situations the side that went out of book earlier has the advantage
+[18:25:21] nyanners: because theyve had to actually think about the position for longer
+[18:25:52] tbest: for sure. This is also one of the arguments I have used to never study openings :D
+[18:25:52] tbest: the results are debatable lol
+[18:26:22] nyanners: i dont know what black was actually supposed to do btw XD
+[18:26:37] nyanners: but (almost) definitely not Nxc2
+[18:26:53] nyanners: like idk the position is weird enough maybe theres some q sac resource or something
+[18:27:08] nyanners: but i guess not when you are the one with the king on e6
+[18:28:54] glbert: i've been out of the lines i looked at for about twenty moves, so would be nice to see my opponent take some time.
+[18:34:00] tactix47: (12...Qf5) 13. Bd3 and Qxe5+ perhaps?
+[18:34:31] nyanners: black seems completely busted as far as i can tell
+[18:41:39] nyanners: generally youd say thats not such a terrible set of remaining pieces and the centre looks pleasant
+[18:41:54] nyanners: but id say everything is loose and weak
+[18:45:58] nyanners: maybe one last precise move here
+[18:45:58] tactix47: (18.Rfe1) 19.g4 and Qxd4 threatened
+[18:46:44] cham: who's winning :)
+[18:46:44] nyanners: yes i think that would be it
+[18:46:44] cham: oh it didnt scroll down lol
+[18:46:59] cham: white is winning?
+[18:46:59] nyanners: yes
+[18:50:33] nyanners: ayy
+[18:54:22] nyanners: gg :o
+[18:54:53] cham: gg
+[18:55:08] tactix47: gg
+[18:58:26] glbert: hmmm. 11.Qg3??
+[18:59:12] goldenretrieverchess: gg
+[18:59:12] glbert: so it looks like of all the moves available to me, i confidently picked the worst one.
+[18:59:42] glbert: ok, Qe4 would have been worse.
+[18:59:57] nyanners: winning mistake if you ask me
+[19:00:13] nyanners: i can make an uneducated guess as to what black has thought
+[19:00:13] glbert: yes, in this case it looks like it.
+[19:00:43] nyanners: like, black knows the main move is Qe2, and might even know about Qd1. so you played Qg3
+[19:00:58] nyanners: so black knows the move is not Qg3. and then you look for a punish
+[19:00:58] glbert: right.
+[19:00:58] glbert: and it hangs c2.
+[19:00:58] nyanners: Qg3 does not defend c2, so that must be it
+[19:01:29] glbert: that would have been my exact thought process as well.
+[19:02:30] nyanners: all is well that ends well :o
+[19:02:30] nyanners: i still vouch for 6 d4 tho
+[19:02:45] glbert: now, let's find out what the atcual problem with Qg3 is.
+[19:03:00] nyanners: the problem is youre down a piece
+[19:03:15] glbert: i mean. i am a piece down no matter what i play there, right?
+[19:03:46] nyanners: yeah but in Qd1 Re1 the pressure continues :o
+[19:04:31] glbert: Qd1 looks bad to my patzer eyes because it undevelops the Q.
+[19:05:17] glbert: Qe2 i was considering more seriously than Qd1.
+[19:06:18] glbert: sf wants 11...Qg6.
+[19:06:33] glbert: i would *never* play that if i was black.
+[19:08:50] nyanners: Qe2 is the most popular move so, well, there :o
+[19:09:05] glbert: patzer move i guess.
+[19:10:06] glbert: Qg3, i thought i keep attacking the e-pawn, and i can place my R on e1. also, i cover g5 for my B.
+[19:11:07] glbert: i will readily admit that i did not give 11...Qg6 as a reply the attention that i top sf move deserves.
+[19:17:28] nyanners: all is well that ends well :o
+[19:18:44] cham: :)
