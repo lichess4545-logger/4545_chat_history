@@ -1,0 +1,201 @@
+Lichess game chat log
+Game      : https://lichess.org/Oe94Nk3p
+White     : marketmike
+Black     : ttsgosadow
+Time      : 45+45
+Captured  : 2026-09-27 22:37:51 UTC
+Game ended : 2026-09-27 21:17:50 UTC
+Messages  : 191
+────────────────────────────────────────────────────────────
+
+[19:05:57] jfiras: Good luck tts !
+[19:06:29] robertjackson: Yeah good luck
+[19:08:01] timothyha: (2...d5) what is Nc3?
+[19:08:31] timothyha: (2...d5) e5 d4 and White doesn't have a normal game
+[19:09:02] ttsgosadow: reminder to look up this non-standard move #2 after the game,
+[19:15:24] timothyha: (4...Ng8) talk about non-standard moves!
+[19:15:54] timothyha: (4...Ng8) Master DB has Ng8 though
+[19:15:54] jfiras: (4...Ng8) i expected Nd7, but idk abt the french that much
+[19:16:40] timothyha: (5.Nf3) I guess a slower Nc3 allows Ng8->e7
+[19:16:55] timothyha: (5.Nf3) c5 is effective now
+[19:16:55] timothyha: (5.Nf3) as there is no c3 counter
+[19:26:19] ttsgosadow: so far it doesn't look like my French games I usually play, will try attacking his d pawn to make his e pawn weak
+[19:30:40] hpors: Go Tim !
+[19:34:14] polivolitis: moove 4...Ng8 is from chessmood / rosen repertoire I guess
+[19:40:19] ttsgosadow: any other move and he could have taken and we had to swap my strong bishop for his weak one
+[19:45:40] timothyha: (9...Nc6) Nxe6 d5 probably ok
+[19:46:56] ttsgosadow: want to look up 9...Bf5 and Bf6 afterwards
+[19:47:57] timothyha: (9...Nc6) those moves would lose to the discovered attack
+[19:48:12] timothyha: (9...Nc6) Bc6 would
+[19:49:59] jfiras: (10.Nxe6) this is scary, i hope tts sees d4
+[19:50:14] timothyha: (10.Nxe6) it's quite obvious though
+[19:50:45] timothyha: (10...Qa5) but d4 Na4
+[19:51:00] timothyha: (10...Qa5) so maybe Qa5 just now is also ok
+[19:51:32] timothyha: (10...Qa5) d4 Na4 Qb4+ c3 and there are issues for Black
+[19:52:32] jfiras: (10...Qa5) Na4 is strong yes, the queen there is asking for trouble
+[19:54:19] timothyha: (10...Qa5) Qa5 just now also covers Nc7+
+[19:54:19] timothyha: (10...Qa5) so I think tts is doing well
+[19:55:05] jfiras: (11.Bd2) just take the knight right ?
+[19:55:20] jfiras: (11.Bd2) i don't see any dangerous discovery
+[19:55:35] timothyha: (11.Bd2) yeah, free piece
+[19:55:51] jfiras: (11.Bd2) goo tts !
+[20:00:10] timothyha: (12.O-O) Bb4 develops and simplifies
+[20:15:56] socholate: Hello frosty
+[20:16:12] rathotdog: Chippy
+[20:16:12] socholate: El ratzo
+[20:16:42] wherearemyknights: hello
+[20:16:57] wherearemyknights: :popcorn:
+[20:22:48] kingnchess: ok we are only down a piece
+[20:22:48] kingnchess: f5!
+[20:23:04] kingnchess: chances
+[20:23:34] rathotdog: yeah he might actually have chances lowkey
+[20:23:49] kingnchess: f5 Bd7 e6 might be interesting
+[20:23:49] kingnchess: bang
+[20:24:05] rathotdog: the rapid rating gap should be adoption range in theory, we just need mike to show up
+[20:26:07] rathotdog: f5 Bd7 e6 fxe6 Qh5+ is def interesting
+[20:26:37] rathotdog: maybe Bc8 is better so black would have Qh5+ Qf7
+[20:29:11] socholate: Black is flagging
+[20:29:26] socholate: I always believed in you marketmike
+[20:29:42] robertjackson: keep strong tts
+[20:30:13] rathotdog: nah collapse tts >:)
+[20:34:32] timothyha: (18) some brave play from Black
+[20:35:48] rathotdog: gotta keep up the initiative with b5 or smth
+[20:36:34] rathotdog: if b5 Nd4 then we have Bf4 and Qh5+ next, without the inclusion theres Bf4 Qd4+
+[20:37:04] rathotdog: I like this too, we have Qd4+ Bd4 Qxb4 Qh5+
+[20:37:19] rathotdog: Qd4+ *Be3
+[20:37:19] socholate: Yee
+[20:39:52] rathotdog: Qh5+!
+[20:40:08] kingnchess: I want b5 first but idk
+[20:40:23] rathotdog: prolly doesn't matter
+[20:40:23] kingnchess: ya
+[20:40:38] kingnchess: was Bxh6 better?
+[20:41:39] rathotdog: maybe
+[20:41:39] kingnchess: what are the odds Rf1 0-0 happens
+[20:41:39] rathotdog: lol
+[20:41:54] kingnchess: 50/50?
+[20:41:54] kingnchess: it either happens or it doesn't ig
+[20:42:25] rathotdog: I wanted Bg6 to be good but idk
+[20:42:40] rathotdog: wait the rook is defended lol
+[20:42:40] rathotdog: xD
+[20:43:42] rathotdog: if b5 Ne5 we have Bf4
+[20:44:43] kingnchess: g6 is a threat lol
+[20:44:58] rathotdog: what about Bxh7?
+[20:45:13] kingnchess: I like Bxh7
+[20:45:13] kingnchess: maybe 0-0-0
+[20:45:13] rathotdog: then when we go Rf1 Rf8 we have Bg6
+[20:45:44] rathotdog: if Bxh7 O-O-O Qxf7 Rxh7 Qxe6+ Qxe6 Rxe6 we've leveled the material right?
+[20:45:44] kingnchess: Nxb4 at the end ig
+[20:45:59] rathotdog: Bxb4
+[20:45:59] kingnchess: wait
+[20:45:59] kingnchess: bno
+[20:45:59] kingnchess: ya lmao
+[20:45:59] kingnchess: for some reason I thought the bishop got traded off
+[20:46:14] rathotdog: maybe Bxh7 is the way, i initially dismissed it because we're self pinning
+[20:46:30] kingnchess: what about Bf5
+[20:46:45] rathotdog: but we only need a few pawns to balance the material
+[20:46:45] rathotdog: Bf5 e5 I didn't seen anything
+[20:46:45] rathotdog: *see
+[20:47:00] kingnchess: ah true
+[20:47:00] kingnchess: b5
+[20:47:00] kingnchess: Rxe5 Re1?
+[20:47:15] kingnchess: what
+[20:47:15] kingnchess: oh
+[20:47:31] socholate: Chip coded
+[20:47:31] kingnchess: wait what
+[20:47:31] socholate: Doesn’t work tho
+[20:47:31] kingnchess: this doesn't work
+[20:47:46] rathotdog: D:
+[20:47:46] kingnchess: marketmike why
+[20:48:01] socholate: Maybe black respects it tho
+[20:48:01] kingnchess: Kd7 :prayage:
+[20:48:16] rathotdog: Qxe6 Re1 Ne5 wins right?
+[20:48:16] kingnchess: ya
+[20:48:16] kingnchess: I think so
+[20:48:32] rathotdog: Kd7 lmao
+[20:48:47] kingnchess: maybe Bf4
+[20:48:47] kingnchess: it blunders Nf3
+[20:48:47] kingnchess: but he might not see it
+[20:49:02] rathotdog: man we were only down a few pawns, we didn't need to invest any material
+[20:49:02] rathotdog: D:
+[20:49:17] kingnchess: maybe my earlier statement was corrrect
+[20:49:17] kingnchess: maybe not though
+[20:49:32] rathotdog: Bf4 g6 breaks the pin right?
+[20:49:32] kingnchess: ya taht to
+[20:49:48] kingnchess: Bc3 ig is better
+[20:50:03] socholate: Would they find it tho
+[20:50:03] rathotdog: yeah Bc3 is probably best
+[20:50:18] kingnchess: by the time usuage I assume white did not see Ne5
+[20:51:04] rathotdog: Bc3 g6 Qe2 O-O-O Bxe5 Nxe5 Qxe5 Qxe5 Rxe5 and we're just an exchange and a pawn down
+[20:52:35] rathotdog: now we're in forking distance
+[20:56:24] robertjackson: pretty tense!
+[20:56:54] rathotdog: it might be ggs gang D:
+[20:58:25] socholate: Just flag him Mike
+[20:59:57] rathotdog: its +45 increment though :sob:
+[21:00:12] socholate: Yeah it’s wraps
+[21:00:28] rathotdog: when even chip has given up yk its hopeless
+[21:00:43] rathotdog: :(
+[21:00:43] socholate: Lmaoo
+[21:00:58] kingnchess: ya this is cooked
+[21:00:58] kingnchess: I normally play till mate but idk about this one
+[21:02:30] rathotdog: wb Qf3 gxf5 Qxd5 threatening Rxe5
+[21:02:45] rathotdog: Qf3 gxf5 Qxd5 O-O Rxe5 with the pin :p
+[21:03:31] rathotdog: yo wait we suck
+[21:03:31] rathotdog: this might work
+[21:04:01] rathotdog: well work in the sense that theres some counterplay, we're still down 8 points of material XD
+[21:05:18] rathotdog: Kd7 Qxd5+ Qd6 Qxb7+ Qc7 Qd5+ we might be able to cheese a draw idk
+[21:05:33] kingnchess: some hopes
+[21:06:49] socholate: Plus very low black time
+[21:07:19] rathotdog: time to give a bunch of checks
+[21:07:50] socholate: C7+ better than taking pawn?
+[21:08:06] rathotdog: Qc7+ Kg8 do we have another check?
+[21:08:06] socholate: Nevermind
+[21:08:36] socholate: I should have never doubted you market Mike
+[21:08:36] johnjpershing: Just got out of an OTB game, but I'm here now. Let's go Mike!
+[21:08:52] rathotdog: Qxb7+ Kg6 we actually might be out of steam
+[21:08:52] kingnchess: Qf3
+[21:09:07] rathotdog: yeah but not a check
+[21:09:07] kingnchess: no I mean first
+[21:09:07] rathotdog: hey @JohnJPershing
+[21:09:22] rathotdog: oh yeah Qf3+ first might have been better
+[21:09:38] johnjpershing: 'sup hotdog
+[21:09:38] robertjackson: 28...Kg6 holds win
+[21:09:53] rathotdog: YO
+[21:09:53] rathotdog: LFG
+[21:09:53] socholate: My goat
+[21:10:08] kingnchess: is Bc3 even good
+[21:10:23] rathotdog: we have checks wherever he goes
+[21:10:23] kingnchess: oh wait we have Qg7
+[21:10:23] robertjackson: back rank threat
+[21:10:39] kingnchess: wait hold up
+[21:10:39] kingnchess: do we have winning chances?
+[21:10:55] rathotdog: prolly not
+[21:10:55] rathotdog: unless black does something weird
+[21:11:10] rathotdog: if he takes on h8 imma crash out
+[21:11:25] robertjackson: it is tense
+[21:11:41] johnjpershing: It's only week 1, this is the warmup week that doesn't count, right?
+[21:11:41] johnjpershing: Mistakes are ok as long as you learn from them
+[21:11:41] rathotdog: yeah fr fr :D
+[21:11:56] rathotdog: I can taste that half point though
+[21:12:11] rathotdog: we got this
+[21:13:12] rathotdog: Kh4 Bf6+ wins right?
+[21:13:28] rathotdog: we can hope chess
+[21:14:14] socholate: g4+?
+[21:14:14] rathotdog: prolly gotta go g4 and hope it works
+[21:14:45] johnjpershing: Hope chess is the best chess. My coach tells me that all the time
+[21:15:00] rathotdog: lol
+[21:15:30] kingnchess: just no queen d4
+[21:15:46] kingnchess: Bf2 or Qc7
+[21:15:46] rathotdog: oh yeah
+[21:15:46] kingnchess: lol
+[21:15:46] johnjpershing: Yeah Qd4 instant trade
+[21:16:01] robertjackson: oops
+[21:16:01] rathotdog: D:
+[21:16:01] johnjpershing: With the fork
+[21:16:01] rathotdog: FUCK
+[21:16:01] johnjpershing: That's chess baby
+[21:16:16] rathotdog: :(
+[21:16:16] kingnchess: very unfortanate.
+[21:16:32] johnjpershing: Sometimes they blunder, sometimes you blunder
+[21:16:32] socholate: Son
+[21:17:18] robertjackson: loved watching the game - exciting gg both
+[21:17:18] socholate: I respect the attack
