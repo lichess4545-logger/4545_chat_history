@@ -1,0 +1,109 @@
+Lichess game chat log
+Game      : https://lichess.org/sXN9gr1e
+White     : slowroast
+Black     : kayrosas
+Time      : 45+45
+Captured  : 2026-09-27 19:14:58 UTC
+Game ended : 2026-09-27 17:54:55 UTC
+Messages  : 99
+────────────────────────────────────────────────────────────
+
+[15:55:56] andrewrimmer: Good luck SlowRoast
+[15:58:28] kayrosas: was considering to dodge Qc2 nimzo alltogether but found some fun stuff
+[15:59:30] kayrosas: a while ago I switched to 4...d6, so their main prep is probably there
+[16:00:01] iwishiweredecent: Quite the pressurized battle we have here, looks like a board 1 clash as well
+[16:00:17] iwishiweredecent: grabbing my popcorn!
+[16:00:17] kayrosas: I've looked at both 6...d6 and 6...b5
+[16:00:47] kayrosas: b5 felt a bit weird but b5 in general is a move I can't pass up on
+[16:01:33] iwishiweredecent: lol b5 is essentially black's version of b4, which is a move that agadmator can also never pass up lol
+[16:05:54] kayrosas: trying to recall if I looked at 7.Bg5. mostly looked at 7.cxb5 ofc, and then c6 Bg5 I definitely looked at
+[16:06:09] kayrosas: taking on c4 should always be the way if allowed I would think
+[16:10:29] kayrosas: should be better for me. didn't even have to gambit a pawn & better activity
+[16:11:45] kayrosas: actually maybe 8...a5 is a better approach. I still get Ba6 but can move the knight
+[16:12:00] kayrosas: gotta take my time
+[16:12:46] kayrosas: now I might have to do some h6,g5 Nd5-b6 maybe
+[16:18:37] kayrosas: can't get over the fact I missed a5 :(
+[16:24:43] kayrosas: at least white's position is also awkward & I'm not down a pawn
+[16:26:29] kayrosas: 12...c5 is tempting, but I can also play slow d6 and ask white if they have another useful move
+[16:27:45] kayrosas: Qd7 also an idea & claim my structure is slightly better bc b2 is weak
+[16:28:16] kayrosas: but shouldn't trade queens before white shows how they'll untangle the kingside
+[16:30:02] iwishiweredecent: 13. Bxf6 and then finachetto the bishop and castle?
+[16:30:49] iwishiweredecent: 13... g5
+[16:31:51] iwishiweredecent: This is a weird sort of stalemate where both sides are trying to prevent the other from developing... definitely interesting
+[16:33:22] andrewrimmer: g5 removes the bxf6 and g3 ideas, which is a nice solution to the bind
+[16:33:53] andrewrimmer: It is a really interesting position
+[16:36:41] kayrosas: I guess I have to play with g5 to untangle. 13.Qa5 was nice to stop it
+[16:37:12] kayrosas: 14.dxc5 g5 could be something maybe bc c1 isnt defended
+[16:38:43] kayrosas: but no need for white to take, cxd4 isnt that desirable for me
+[16:43:03] kayrosas: I wanna insert 14...g5 while I can but g5 Bg3 dxc5 blunders a piece. so maybe g5 Bg3 Qb7 but saccing some pawns there
+[16:44:35] kayrosas: maybe 14...dxc and Qb7 next
+[16:48:40] kayrosas: 15...Qb7 and allow Bxf6 or g5 Bg3 Qb7
+[16:48:55] kayrosas: I probably prefer keeping the f6 knight on
+[16:52:13] kayrosas: now things are slowly starting to make sense, Nc6-d4, Nd5, lots of nice squares
+[17:00:26] iwishiweredecent: What a black hole for calculation here... I think white needs to play e3 and finish development because black is about to unravel
+[17:01:27] kayrosas: was expecting 17.Bxb8. h4 I was wondering if I can ignore it for now
+[17:04:15] grzybozbur: what would be the purpose of bxb8?
+[17:06:02] kayrosas: I don't see how 17...g4 could be abused, but still feels a bit weakening
+[17:08:04] kayrosas: 18...Nd4 e3 maybe I underestimated
+[17:11:38] kayrosas: 18...Bb5 forces Qd1 I think, and then Rd8 possible and the knight is weak
+[17:11:53] kayrosas: but difficult to calculate stuff, position is so open
+[17:23:23] kayrosas: 20...Bc6 is an idea but maybe now time to prevent hxg with the queen eyeing h7
+[17:24:09] kayrosas: Nf5 also worth a thought
+[17:27:57] iwishiweredecent: 21.  It is looking dark for white now...
+[17:28:28] iwishiweredecent: white really needed to untangle, but instead black is getting active and white is still tender
+[17:29:14] grzybozbur: white rook just got untangled
+[17:29:30] iwishiweredecent: lol
+[17:29:30] grzybozbur: looks pretty menacing
+[17:30:00] iwishiweredecent: at the cost of a piece though...
+[17:30:30] iwishiweredecent: white might need to just play Rxh6
+[17:31:01] grzybozbur: i don't know, wouldn't be surprised if it was +7 or -7
+[17:31:01] iwishiweredecent: fxg3 just looks awful
+[17:31:16] iwishiweredecent: hha
+[17:31:31] grzybozbur: there's rxh6
+[17:31:47] kayrosas: 22.Rxh6 Ng4 should be fine I think, who knows
+[17:32:02] kayrosas: maybe shouldve gone g4 at some point
+[17:32:02] iwishiweredecent: That's what I said, but black is up a piece
+[17:33:03] kayrosas: 22.Rxh6 Ng4 Qh7 Kf8 Rxe6 maybe not fine
+[17:33:03] grzybozbur: rxh6 ng4 qh7 kf8 rxe6?
+[17:33:03] grzybozbur: exactly
+[17:33:18] iwishiweredecent: Rxh6 is a piece sacrifice but white might be able to get an attack going with the queen
+[17:33:18] iwishiweredecent: yeah
+[17:33:34] grzybozbur: i think white has to block the diagonal after rxh6
+[17:33:49] grzybozbur: i mean black, not white
+[17:34:35] iwishiweredecent: yeah white is probably trying to see if
+[17:34:35] iwishiweredecent: nvm
+[17:36:06] iwishiweredecent: blocking the diagonal with either knight loses a knight though..
+[17:36:21] kayrosas: either 22...Nf5 or Nfe4
+[17:37:22] iwishiweredecent: yeah I think I like white now
+[17:39:24] iwishiweredecent: white has to take the knight right?
+[17:39:24] iwishiweredecent: fxg3?
+[17:40:10] iwishiweredecent: somehow white's king seems to remain safe even after fxg3, for the time being anyway
+[17:40:10] grzybozbur: fg and can black defend the other knight?
+[17:40:56] iwishiweredecent: well fg then black might have to play Bc6 to add defense to the knight blocking the queen
+[17:40:56] grzybozbur: white king is now perfectly safe, because black has no pieces in play other than 2 hanging knights
+[17:41:11] grzybozbur: all the play is on the kingside now
+[17:41:57] grzybozbur: ah, maybe fg ng5?
+[17:42:42] grzybozbur: what is rc3?
+[17:42:42] iwishiweredecent: well... that was certainly not on my bingo card
+[17:43:13] iwishiweredecent: white might have just blundered the game away
+[17:43:28] iwishiweredecent: but maybe black was always winning, I am looking forward to seeing what the engine says
+[17:43:59] kayrosas: 23.Rc3 probably too ambitious
+[17:44:29] iwishiweredecent: still don't see what was wrong with fg
+[17:47:33] iwishiweredecent: now black survives and is just up a piece and arguably has a safer king and more active pieces than white
+[17:51:37] kayrosas: 27.e4 Ba4, small trick
+[17:52:38] grzybozbur: a moment ago two black knights were hanging, two moves later knights are both fine, but both white rooks are hanging
+[17:52:53] kayrosas: oh, even Bxf1 is fine there I guess, no trick needed. still nice
+[17:56:11] kayrosas: that was certainly something, gg
+[17:56:57] slowroast: great game Kayrosas, well played
+[17:57:58] slowroast: 23.fxg3 Nxg5 looked too ugly .  Should've looked more  closely at 23.Rc3. Game over after 23....Qd5
+[17:58:43] kayrosas: was wondering like fxg Nxg5 Nf3 Kg7 and stuff is weird
+[17:59:00] kayrosas: but probably bad for me
+[18:00:31] grzybozbur: in principle, fg nxg5 and white looks fantastic, with all black pieces out of play except the knight
+[18:00:31] slowroast: definitely. I got a bit too precious about my pawn structure  and I think it blinded me a bit.
+[18:01:01] grzybozbur: finding moves is a different story though
+[18:01:01] slowroast: "ah, he can't take my rook on c3, so it's a good move"
+[18:01:32] slowroast: i don't think fxg Nxg5 is as clearly winning as the cpu says. practically speaking at least
+[18:09:39] iwishiweredecent: gg
+[18:10:25] iwishiweredecent: Yeah Slowroast we were right about fg
+[18:10:55] iwishiweredecent: It is a whole lot easier to see it from the lobby, as opposed to when playing
+[18:11:10] iwishiweredecent: But man, after fg white is winning
