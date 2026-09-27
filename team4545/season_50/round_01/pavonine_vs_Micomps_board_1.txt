@@ -1,0 +1,90 @@
+Lichess game chat log
+Game      : https://lichess.org/4fbhUFTs
+White     : pavonine
+Black     : micomps
+Time      : 45+45
+Captured  : 2026-09-27 22:25:33 UTC
+Game ended : 2026-09-27 21:05:28 UTC
+Messages  : 80
+────────────────────────────────────────────────────────────
+
+[18:31:02] tactix47: Go pav!
+[18:32:18] micomps: (5...Bg7) so I know white hasn't played toooooo much against this type of Benoni set up
+[18:33:04] giziti: (6...O-O) all right let's go chess chess chess chess
+[18:33:19] micomps: (6...o-o) typical ideas now to try and get e6 and b5 pawn breaks rolling
+[18:39:25] micomps: (9.cxd5) that's ordinarily not the right way to capture. It now allows me to throw b5 forward
+[18:39:40] micomps: I say that, I am always wary of throwing b5 in too early in these positions
+[18:40:11] feet_barbie: (9.cxd5) go p9
+[18:40:56] micomps: (9...b5) now if Nx then Re8 is causing problems for white
+[18:40:56] giziti: (9...b5) this does seem like a premature b5 to me
+[18:41:12] micomps: and if Bx then, well, just take on e4
+[18:46:47] nrv773: Go Micomps!!
+[18:48:49] nrv773: Yes... I don't belive in b4... What is the plugin that adds the move?
+[18:49:50] giziti: (10.Bxb5) I use lichess tools
+[18:50:35] pavonine: i should have studied this in more detail.... i looked at 9....c4 but not ...b5
+[18:50:51] pavonine: also hello team, hello barbie
+[18:51:06] nrv773: Ok. I have it too, must be a setting, thanks
+[18:51:06] pavonine: nice win yday fat barbie or whatever your name is
+[18:51:21] feet_barbie: (10...Nxe4) i m not on the team??
+[18:51:36] giziti: (10.Bxb5) yeah it's a setting in there, I set it once and forget it so I don't know which one, but it's in there
+[18:51:52] nrv773: Thanks giziti!
+[18:52:22] giziti: (10...Nxe4) yeah I think Nxb5 was the better idea because this is more awkward
+[18:54:24] feet_barbie: (11...Qa5+) i use ipr script for the moves
+[18:54:39] feet_barbie: (11...Qa5+) there s a command on slack for it mmh
+[18:56:26] micomps: (12...Qxb5) I am quite happy if this all liquidates here
+[18:57:28] micomps: (13...Qxb2) Qx Bx, Rb1 Bc3+, Kd1 then Ba6 and I'm very comfortable
+[19:04:21] micomps: (16.Bd2) now I think I should be ok taking this, but need to give this some thought
+[19:11:58] micomps: (18...Rd8) one thing I didn't really think about here was d6. Not sure if I should play Nd7 or f5 in that scenario
+[19:14:31] micomps: I had completely overlooked that Rxd5 allowed Nf6 when thinking of this plan
+[19:16:48] giziti: (20.Rc1) not sure what i think of Rc1
+[19:22:54] micomps: (20.Rc1) this is the type of choice I hate, I'm convinced I'll grab the wrong pawn
+[19:23:55] micomps: Bxd5, Rxc5 BxN, KxB Nd7 and I must be ahead, given g1 and h1 pieces at home
+[19:24:10] micomps: not sure about Bxd, Rd1 - do I have to play Kg7 then?
+[19:24:41] micomps: Bxa2 Rxc5 and then I can't take on d5 straightaway, but maybe just Nd7
+[19:24:56] micomps: d5 must be the right one to take
+[19:25:27] pavonine: i thought Rd1 was a move here
+[19:27:59] nrv773: Feet_barb. I googled, but got nothing. What is ipr script?
+[19:29:00] jfiras: (21.Rd1) try to type "!whisper" in the general channel nrv, and you will get the link
+[19:30:17] nyanners: compared to the main line with 9..b5, Nf3 is a better move than Be3
+[19:30:32] pavonine: oops was thinking Nc3 Bxg2 but he just has Re8+..
+[19:30:32] nyanners: like the game went on about the same direction as in Nf3 but yeah this seems better for b
+[19:36:54] micomps: (23.Kf4) I feel like I've got the position I want here, but now need to formulate the next part of the plan
+[19:37:09] micomps: I did not anticipate the king being on f4
+[19:37:39] micomps: need to get the knight out from b8 pronto, but first a pawn to take. g2 leading candidate, don't think taking a2 is achieving much...yet
+[19:38:25] micomps: only thing I'm thinking is how am I developing after Bxg2, Rh2 Bc6. What is the b8 knight doing next
+[19:38:40] micomps: then again, g1 knight is also a bit stuck
+[19:39:11] pavonine: rd6 looks good here?
+[19:41:13] nyanners: dont wanna claim compensation but it IS a tiny bit weird
+[19:43:46] micomps: I don't remember the last game I played with 25 moves and both the g1 and b8 knights are at home
+[19:45:02] micomps: if I can easily get Na6 in and exchange, I have good winning chances I think
+[19:50:22] nrv773: (26.Rd6)I think so too. Nice job
+[19:53:56] micomps: (27.Rb2) this is getting a bit strange. Knight on g1 is now vulnerable, if I can swing my rook down. Not yet though
+[19:54:26] micomps: Bc4 white might play Rb7 which looks scary, but then Re1 might pick up the knight for free?
+[19:55:12] micomps: my b8 knight then could be vulnerable, but I might be able to sac rook for knight and have two minor pieces for the rook
+[20:00:49] nrv773: Does Re1 do anything?
+[20:01:04] nrv773: (29.Rf2)
+[20:03:06] nrv773: Yay, i feel smrt
+[20:03:53] micomps: (30.Rd8) now, if I move the bishop, I am attacking the knight. I think this might be fine but this is an unusual position
+[20:04:23] nrv773: (30.Rd8) I agree
+[20:09:44] micomps: (31.Rc2) if we liquidate all the minor pieces, I'm a pawn up in a R&P ending. White's pawns being separated helps me
+[20:13:18] tactix47: (31...Ba6) Does Rxb8 work here?
+[20:14:19] tactix47: Oh, never mind, the Ng1 is hanging...
+[20:19:39] pavonine: i thought for too long
+[20:25:00] nyanners: idk but seems black is managing
+[20:25:15] time_lord19: Go Pav
+[20:28:33] time_lord19: Guys, tell me who has the better position? I think black has a good attack going
+[20:28:33] nyanners: this trade must have helped b
+[20:28:48] nyanners: i mean, black is a pawn up
+[20:28:48] micomps: (34...Rxa6) think Rxa6 was better than Nxa6,  purely because R can now swing to f6 if needed
+[20:29:04] nyanners: and then its weird but like black had a bit of a coordination problem with those queenside pieces
+[20:29:19] nyanners: so i feel that helped
+[20:29:34] time_lord19: Thanks
+[20:29:49] nyanners: now everything is working it seems
+[20:50:59] micomps: (46...h6) this should be fine now, but that e4 knight is well placed to cause headaches
+[21:04:58] nrv773: (55...Ne4) what is stopping a2?
+[21:06:14] nrv773: Good game Micomps
+[21:07:45] pavonine: gg, that was tough. thought i had a nice bind at one point but doesn't seem to come to much
+[21:08:00] nrv773: I was backward... I am... dumb
+[21:08:16] nrv773: Fun game to watch
+[21:08:31] micomps: That was a real tough one - felt very constricted when you had your rook on d8
+[21:17:40] nyanners: gg
