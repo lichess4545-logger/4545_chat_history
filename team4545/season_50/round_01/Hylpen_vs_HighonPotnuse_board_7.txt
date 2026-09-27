@@ -1,0 +1,141 @@
+Lichess game chat log
+Game      : https://lichess.org/AJV2RngT
+White     : hylpen
+Black     : highonpotnuse
+Time      : 45+45
+Captured  : 2026-09-27 20:48:43 UTC
+Game ended : 2026-09-27 19:28:36 UTC
+Messages  : 131
+────────────────────────────────────────────────────────────
+
+[17:18:18] tommeketoch: Let's go Highon
+[17:18:18] semlegesnev: Go Hylpen!
+[17:18:18] tactix47: Hooray chess!
+[17:20:04] blueside617: here we go hylpen
+[17:23:07] bpack: Blaze it up HoP!!
+[17:23:39] bpack: A dutch!
+[17:26:57] goldenretrieverchess: go hp!
+[17:34:50] inter-temporal: (8.b3) gooo nooose!
+[17:43:14] tactix47: (10...Kxe7) Don't hate King in the centre here
+[17:45:33] oachkatzerlschwoaf: dutch defense rawr
+[17:46:19] oachkatzerlschwoaf: I think these lines should be fine for black
+[17:49:37] oachkatzerlschwoaf: f3 is a strange move to me
+[17:49:52] oachkatzerlschwoaf: that square is for your N isnt it
+[17:50:38] oachkatzerlschwoaf: some easy moves for us now
+[17:50:53] oachkatzerlschwoaf: Rd8, Be6, Nbd7
+[17:50:53] oachkatzerlschwoaf: a5 maybe
+[17:52:40] mongreltiger: Go HighonPotnuse!
+[17:53:26] oachkatzerlschwoaf: I like a5 directly
+[17:55:13] inter-temporal: (11...a5) i was just spamming pot's stream. lol
+[17:55:59] inter-temporal: (11...a5) this move analysis by nuse reminded me of smth odd
+[17:56:15] inter-temporal: (11...a5) before 11.f3, our mate was talking all about development
+[17:56:30] inter-temporal: (11...a5) but then he saw a pawn move, and was totally drawn to analyzing pawn moves
+[17:57:32] inter-temporal: (11...a5) i notice similar subconscious "symmetry bias" when analyzing counting/exchanging sequences
+[17:58:19] inter-temporal: (11...a5) our predispositoin make the "in-between-move" a whole topic of tactics
+[17:59:20] inter-temporal: (12.Bd3) "[perhaps] our predisposition [towards symmetry] makes..."
+[17:59:35] oachkatzerlschwoaf: Bd3 also very strange
+[17:59:50] oachkatzerlschwoaf: I guess they want Nge2
+[17:59:50] inter-temporal: (12.Bd3) it's for Ne2, i think
+[17:59:50] inter-temporal: (12.Bd3) yeh
+[18:00:05] oachkatzerlschwoaf: Just follow through with our plans... Na6
+[18:03:24] oachkatzerlschwoaf: I like this for Black. No weaknesses
+[18:03:55] inter-temporal: (12...Na6) therez a whole chapter in Shereshevsky called "a sense of contrariness"
+[18:04:40] inter-temporal: (12...Na6) it's like an overcorrection, when we know what opponent wants, so we say, "no!" but should have agreed. lol
+[18:06:58] oachkatzerlschwoaf: a3 seems like a waste of time
+[18:07:13] oachkatzerlschwoaf: rook on a1 is unprotected
+[18:07:13] oachkatzerlschwoaf: follow through... nc5 be6
+[18:12:49] inter-temporal: (14...Be6) maybe d3 is a bit weak
+[18:14:35] oachkatzerlschwoaf: yes, but it feels hard to get anything substantial
+[18:14:35] oachkatzerlschwoaf: despite whites inaccuracies
+[18:14:51] inter-temporal: (15.Nge2) we just progress. like ...Nc5
+[18:15:07] inter-temporal: (15...g6) or pass a move to white... hm
+[18:15:22] oachkatzerlschwoaf: eww g3 waste of time
+[18:15:22] oachkatzerlschwoaf: dont waste tempos here
+[18:15:37] inter-temporal: (15...g6) ewwwah!
+[18:16:24] inter-temporal: (15...g6) i was considering ...Nc5-d3+ and doubling Rs or smth
+[18:17:40] inter-temporal: (15...g6) we had options of ...Bf7 and picking a different diagonal before ...g6
+[18:18:41] inter-temporal: (16.O-O) ...Rd2
+[18:19:42] inter-temporal: (16.O-O) he sees it
+[18:20:12] oachkatzerlschwoaf: yes but what then
+[18:20:28] inter-temporal: (16.O-O) no one knows. it's a jungle
+[18:20:43] oachkatzerlschwoaf: feels like we must have something on the Q-side
+[18:20:58] inter-temporal: (16.O-O) probably
+[18:21:29] oachkatzerlschwoaf: a5
+[18:22:15] inter-temporal: (16...Rd2) ...Rad8. just get all the dudes to the party
+[18:22:15] tactix47: (16...Rd2) Casually occupying the 7th.
+[18:22:45] oachkatzerlschwoaf: a5 looks really strong... am i missing something
+[18:23:01] oachkatzerlschwoaf: a4 sry
+[18:23:16] inter-temporal: (17.Rac1) is ur board upside down? lol
+[18:23:46] inter-temporal: (17.Rac1) a4 Nb4, and what's goin on there?
+[18:23:46] oachkatzerlschwoaf: it might be
+[18:24:02] oachkatzerlschwoaf: a4 for black not white
+[18:24:17] inter-temporal: (17.Rac1) ahh. my dude. lol
+[18:24:17] inter-temporal: (17.Rac1) ...a4
+[18:24:48] inter-temporal: (17.Rac1) probably fine, i just want all my toys in the play-pen
+[18:25:19] inter-temporal: (17.Rac1) "Bring all your toys to your play pen"--Capablanca
+[18:26:04] semlegesnev: Rfd1 seems warranted
+[18:31:40] semlegesnev: not sure if this is the way, now we need Kf1-Ke1
+[18:32:26] bpack: a4 now maybe?. But it's a little tough to find,
+[18:33:12] inter-temporal: (20.Kf1) whew! i'm back--with my 2d coffee. watch out! lol
+[18:33:57] inter-temporal: (20.Kf1) hey semlegesnevada! howzit goin?
+[18:36:45] semlegesnev: holding on, hoping for a team victory on this rainy day
+[18:37:16] inter-temporal: (20.Kf1) ...a4, b4 Nb3, Bxb3, axb3, Rb1 Bxc4
+[18:37:16] inter-temporal: (20.Kf1) wherez it raining?
+[18:37:31] inter-temporal: (20.Kf1) ah Hungary, yeh?
+[18:38:02] semlegesnev: Nope, I'm in Philly (so one might say, it is just normal weather)
+[18:38:32] semlegesnev: https://open.spotify.com/track/23Llyuevgg4Dt5vNdZcEEf?si=41355314dd944f50
+[18:39:02] inter-temporal: (20.Kf1) nice. i lived close by there long ago
+[18:39:02] inter-temporal: (20.Kf1) Red Bank, NJ
+[18:39:18] inter-temporal: (20.Kf1) well, it was previously Ft Monmouth, NJ
+[18:40:20] semlegesnev: Nice! Living here I am founding this state system weird, considering some cities are literally in 3 different states, but hey lol
+[18:40:50] inter-temporal: (20...Nd3) it's a bit congested there
+[18:41:36] semlegesnev: BxN forced, then e4 Rd1 is an idea
+[18:42:06] inter-temporal: (21...Rxd3) the federal system handles the topics in the US Constitution, and the states mostly address Police, and general welfare. but ...
+[18:42:06] inter-temporal: ...they kinda cooperate
+[18:42:37] inter-temporal: (21...Rxd3) it's a division of labor. lol
+[18:43:38] semlegesnev: yeah, I'm more or less aware of the system, but when cities lie on multiple states such as Philly or NJ, it is more incovenient
+[18:43:38] semlegesnev: than advantegous
+[18:43:53] semlegesnev: Now Kf2 allows e4 for black, which I am not a fan of
+[18:44:24] inter-temporal: (22.Kf2) too many cooks in the governmental kitchen
+[18:44:54] inter-temporal: (22.Kf2) not ...b5, my mate
+[18:45:55] inter-temporal: (22...b5) doesn't that just open the c-fille for the white R, and give the white N more squares?
+[18:46:25] inter-temporal: (22...b5) tryin to give more scope to the lsb, but not sure if the cost is to hight
+[18:46:56] semlegesnev: cxb cxb Nxb Rxb sure opens the c-file but it also makes the black rook more active
+[18:47:27] inter-temporal: (22...b5) hard to evaluate the trade off. idk
+[18:47:57] semlegesnev: It'd be certainly positive for white if there was Rc7+, but Kd8 and the knight is hanging
+[18:48:43] semlegesnev: Might still work tho
+[18:49:13] semlegesnev: Potential repetition? Rc7+ Kd8 Rc6 Ke7
+[18:49:44] semlegesnev: nevermind that just loses for white
+[18:50:30] inter-temporal: (24...Rxb3) black is considering Rc7+ Bd7
+[18:50:45] semlegesnev: yes, that is certainly the best response
+[18:51:15] semlegesnev: Rc7+ Be7 Nec3
+[18:51:46] pineapplechiffoncake: are you watching the stream at the same time inter?
+[18:52:01] inter-temporal: (24...Rxb3) yes indeed
+[18:52:01] inter-temporal: (24...Rxb3) listening to my mate's comments
+[18:53:33] inter-temporal: (25.Nec3) he's bein a bit cavalier with his clock time, i think
+[18:54:03] inter-temporal: (25.Nec3) i'm envious. i wanna be that calm with 4 minutes left
+[18:54:34] semlegesnev: Rb2+ is worrysome, forces the King back to the 1st rank
+[18:57:52] semlegesnev: Rb1 Nd5 RxR bxR Ke2 NxN+ NxN b2 Kd2 Ba2 fails due to Kc2 in time
+[19:07:31] semlegesnev: RxR axR a4 can hold mayhaps?
+[19:12:51] semlegesnev: Kd2 would free up one of the ponies
+[19:18:26] semlegesnev: this is getting complicated... a7 Nb6 Nab5 Na8 and then nothing can move
+[19:21:14] semlegesnev: oh no
+[19:21:14] inter-temporal: (36.Nd5) oops
+[19:22:45] oachkatzerlschwoaf: careful now
+[19:22:45] oachkatzerlschwoaf: very careful
+[19:23:31] oachkatzerlschwoaf: yes
+[19:24:17] semlegesnev: Nb3 Nc4+ Kd3 Bc4#
+[19:24:47] semlegesnev: okay this line involves black taking its on knight so maybe not
+[19:25:33] inter-temporal: (40.Kd3) oc black is winning, but Ns are still tricky, especially at this level
+[19:26:34] tactix47: (42...gxf5) good technique
+[19:26:50] inter-temporal: (43.h4) f3 was left undefd
+[19:27:05] semlegesnev: Nb5 Nb1 Na3 1-0
+[19:27:05] semlegesnev: *0-1
+[19:27:20] semlegesnev: same idea
+[19:27:51] inter-temporal: (43...Bxf3) gg
+[19:27:51] pineapplechiffoncake: gg
+[19:27:51] semlegesnev: gg
+[19:28:06] oachkatzerlschwoaf: ggs
+[19:29:37] mongreltiger: gg
+[19:32:40] tactix47: gg
+[19:39:15] goldenretrieverchess: gg
