@@ -1,0 +1,179 @@
+Lichess game chat log
+Game      : https://lichess.org/HEtBrmFv
+White     : storybrooke
+Black     : knightfury21
+Time      : 45+45
+Captured  : 2026-09-27 12:14:38 UTC
+Game ended : 2026-09-27 10:54:30 UTC
+Messages  : 169
+────────────────────────────────────────────────────────────
+
+[08:06:24] knightfury21: This is a weird move order but I'm guessing White is trying to dodge certain lines
+[08:06:39] knightfury21: It probably all transposes to the generic london setup
+[08:19:51] knightfury21: I should take the DSBs off now because Bh4 stuff could be annoying
+[08:24:10] knightfury21: Position is a bit sterile but a draw gets the team across the line
+[08:24:41] glennjamesmax: Hey glgl Knight!
+[08:25:26] glennjamesmax: 14...Bg4 I think we are very comfortable here...
+[08:28:14] knightfury21: Rfe8 and Ne4 is a plan but Bb5 is slightly annoying
+[08:29:00] knightfury21: Not sure it's worth wasting a tempo on a6, maybe Re8 Bb5 Re7 and then I can kick the bishop and double rooks
+[08:30:46] knightfury21: I don't want too many pawns on light squares for the endgame so even Bd7 would be worth considering
+[08:33:49] knightfury21: Bh5-Bg6 also available to trade bishops and clamp down on the e4 square
+[08:34:50] knightfury21: But idk if I should be trading pieces and playing for an endgame in this structure
+[08:35:05] knightfury21: I could see the d5 pawn being a target in the endgame
+[08:44:44] knightfury21: Slightly weird place to put the rook, c4 is now more tempting
+[08:45:14] glennjamesmax: 17.Rac1 yeah c4 was asking to be played already
+[08:45:29] knightfury21: I assume white wants c4 themselves and I don't necessarily want to allow it
+[08:46:15] knightfury21: idk if the e4 outpost is worth a static weakness on d5 though
+[08:46:46] nyanners: i think you can already bluff call on move 12 because white cant really use the h-file under those circumstances
+[08:47:47] nyanners: but okay taking after O-O is standard and.. should black play c4? i dont know. its usually not bad
+[08:48:17] nyanners: if you allow white c4 then usually d4 is the response
+[08:49:03] nyanners: that obviously involves some risk for both
+[08:49:18] knightfury21: Probably not, c4 Be2 Ne4 Nd4 and I don't have Bf5 so Bd7 Bf3
+[08:51:04] nyanners: yeah that line kinda seems like nothing for both
+[08:51:04] knightfury21: Yeah I have no dynamic play so accepting a static weakness feels silly
+[08:51:35] nyanners: the d5-pawn isnt really weak because white has no way of piling up without taking e4
+[08:51:50] nyanners: i think..
+[08:55:54] knightfury21: I should really think about h6 or g6
+[08:58:57] nyanners: i choose g6 here
+[08:59:12] knightfury21: Bg5 Nh4 is rather annoying and in general Nh4-Nf5 is annoying so g6 seems better than h6
+[09:03:32] knightfury21: Does mean I need to watch out for c4 and a battery on the a2-g8 diagonal with Ng5
+[09:05:49] knightfury21: My knight could use a job but Ne4 walks into c4 Bf5 g4
+[09:09:38] knightfury21: white's knight isn't doing much either so I don't really want Nd7-Ne5
+[09:10:39] knightfury21: getting my knight to d6 would be good but Re7-Ne8-Nd6 feels slow
+[09:11:55] knightfury21: Ne4 might work now because c4 Bxf3 gxf3 Nd2
+[09:13:57] knightfury21: Okay so I can get my knight to d6 now, if Bxe4 idk what to take back with
+[09:22:19] knightfury21: Gonna let white have the d-file because there's nothing that can be done on it for now
+[09:23:20] prostidude: Go go fury
+[09:31:28] glennjamesmax: 24...c4 surely just trade rooks put queen on d3 and game ends?
+[09:33:30] knightfury21: Qa4 Be6 Rd4 Qb2 and I have b5 next so that looks okay
+[09:35:16] knightfury21: Nf1-Nd2 will eventually be an issue and now any Rd8 is met by Rd4
+[09:36:02] knightfury21: c4 may have been a mistake but I couldn't see how to get Ba6-Bd3-c4 in
+[09:37:18] knightfury21: Unexpected but maybe white is looking for a good knight vs bad bishop endgame
+[09:40:51] gingersquirrelnuts: Go Story!
+[09:41:52] glennjamesmax: ?! How is THAT a good knight?!?!?!
+[09:43:08] glennjamesmax: 26...Qb7 if you just disappeared all the major pieces you could even have plans of waking the king over to b2
+[09:45:26] glennjamesmax: 29.Rd4 just trade and Black is way better
+[09:46:27] knightfury21: Rd7 Rxe4 is winning for me but what about Rd7 Rxd7
+[09:46:57] glennjamesmax: I'm glad you realized the first fact, but just ask yourself what his knight will do and the answer is obvious
+[09:48:13] knightfury21: f5 here and I have access to b2 via Rb5
+[09:50:00] knightfury21: f5 Nf1 Bf7 Nd2 and I'm too slow
+[09:57:23] nyanners: id take white
+[09:57:38] glennjamesmax: Hmm
+[09:57:53] nyanners: some problems for both
+[09:57:53] glennjamesmax: I'm not an expert on theoretical endgams
+[09:57:53] nyanners: not a very strong opinion
+[09:58:39] glennjamesmax: but looks quite tricky for white to me because the queenside is very weak
+[09:58:54] nyanners: Kb3 should not be realistic
+[09:59:55] nyanners: but well, here the obvious question is fxe4. so lets actually see
+[10:00:26] nyanners: Bxe4 Nf3 Bxf3 and, say, black g5 white g4. unclear
+[10:00:26] nyanners: probably draw
+[10:00:41] nyanners: or well, Nf3 Kd6 Ng5. now that one seems dangerous for b
+[10:01:11] nyanners: Nf3 Kf6.. is that good for black? maybe
+[10:01:26] nyanners: so well yeah, instead of taking, you can play Nf1-Nd2
+[10:01:42] nyanners: and that forces black's hand. but thats a good h-pawn
+[10:01:57] nyanners: so yeah maybe black is better after all
+[10:02:27] nyanners: like g5 here and white has to agonize about when h4 is happening
+[10:03:28] nyanners: maybe id be more optimistic about something involving, like, Ne3 g4, or even Nd2 b3 c4
+[10:03:59] nyanners: play g4 now?
+[10:03:59] nyanners: *f4
+[10:04:14] nyanners: not g4 :o thats terrifying
+[10:04:29] nyanners: because of h4, not because of takes takes
+[10:05:30] nyanners: okay maybe its just a draw
+[10:06:01] nyanners: just a bunch of useless ideas
+[10:06:46] nyanners: black considering inserting f4+ sounds like a good idea
+[10:08:18] nyanners: so well, does anything happen here? ill go with No
+[10:09:19] glennjamesmax: 41.Nh2 looks quite drawish
+[10:09:19] nyanners: white may reroute to defend f3 from e5 to open for the king, which incidentally also blocks Kc6
+[10:09:34] nyanners: so if you wanna make the mad dash you have to start NOW
+[10:10:35] nyanners: that may have been a good try
+[10:12:52] nyanners: umm i thought Kf5 isnt a real try but its not so clear
+[10:13:07] nyanners: can try to zugzwang the knight
+[10:13:07] nyanners: id go with Kh4
+[10:13:38] gingersquirrelnuts: This is tense.
+[10:21:15] nyanners: kh4 may or may not have zugzwang opportunities
+[10:21:30] nyanners: or this :o
+[10:21:30] knightfury21: Oh I'm an idiot, how did I miss that?
+[10:21:45] nyanners: but white can distract with d5?
+[10:21:45] nyanners: i thought it was on purpose XD
+[10:22:15] knightfury21: Should be illegal to be this stupid
+[10:22:46] nyanners: not the time for chess depression, white is in zugzwang
+[10:22:46] gingersquirrelnuts: Probably an easy one to miss with 45 seconds on the clock?
+[10:23:01] nyanners: i mean id think black is pressing if not for d5
+[10:23:16] nyanners: eh its just a draw actually
+[10:23:32] nyanners: like Kg2 you have a little passers situation
+[10:23:47] knightfury21: Alright I guess I'm fully playing for the draw
+[10:24:02] nyanners: i think id be glad to draw as white tbh. just kg2 and take the drawn ending
+[10:25:03] knightfury21: I'm probably objectively lost now but I'll try to make Story work for it
+[10:25:18] knightfury21: Oh wait hang on
+[10:25:18] nyanners: or can there be some outflanking trick? lets see what white chooses to begin with i guess
+[10:25:49] knightfury21: I cannot believe that, completely not planned I swear
+[10:26:04] nyanners: yea itd be too late to swear otherwise
+[10:26:34] knightfury21: I'm going to get the d-pawn back
+[10:27:20] nyanners: okay white chooses this one
+[10:27:20] knightfury21: Bd7 a6 a5 is too much
+[10:27:20] nyanners: minor pieces stay..
+[10:28:21] nyanners: does that benefit white? umm it might now that the pawn tension is gone
+[10:28:21] nyanners: but seems like just a draw
+[10:30:07] nyanners: interestingly enough there may be no way for the knight to get to c2
+[10:30:38] nyanners: okay h3 g1 e2 c1 a3 b4
+[10:30:53] nyanners: but black can deny it
+[10:31:24] nyanners: or maybe white is just going with the motions. thats also ok
+[10:31:39] knightfury21: I don't see how white makes progress
+[10:32:25] knightfury21: Is there any way I win this?
+[10:34:11] knightfury21: I don't think so - there's no way Story leaves their king on e2 and I get Kg5-Kh4-Kg3
+[10:34:11] nyanners: yea probably not
+[10:35:12] nyanners: white gotta actually calculate a knight route if thats the thought
+[10:35:28] nyanners: h2 leads nowhere
+[10:37:45] knightfury21: See if I can tempt them into Ne4
+[10:38:16] nyanners: yea it could lead to Ne4 :o which is.. not good for white
+[10:38:16] nyanners: probably
+[10:40:33] knightfury21: Might even try running my king up to h4 - there's nothing there but I feel like Story wants a win
+[10:41:49] knightfury21: Can I get away with Bf5 b3
+[10:43:05] knightfury21: Nah don't be dumb, the team needs a draw and this is a draw
+[10:46:23] knightfury21: what about a6 Kg2 Kh4
+[10:47:39] knightfury21: He should just shuffle h2 g2
+[10:48:25] prostidude: This certainly looks like a draw to me but I've been wrong before
+[10:49:26] nyanners: now white has lost the knight route
+[10:49:26] nyanners: or maybe nb1 a4 na3..
+[10:50:42] knightfury21: Bf5 b3 cxb3 Nxb3 is still equal but I gain nothing
+[10:52:13] knightfury21: I guess Bf5 b4 is problematic taking my free tempo
+[10:52:59] knightfury21: Alright this time for real, no more messing around
+[10:53:45] nyanners: gg
+[10:54:15] knightfury21: Gg Storybrooke
+[10:56:32] gingersquirrelnuts: gg
+[10:58:49] knightfury21: 9.Qe2 was very strange to me but there's a bunch of master games
+[10:59:20] knightfury21: Bunch is overselling it but I was sure we were out of book
+[11:02:22] knightfury21: Wish I was a little cooler during the 46.Kg5 moment, I totally could've pretended I saw the zugzwang
+[11:02:37] storybrooke: i am quite lucky with the draw, i think at the beginning the game was quite balanced. From move 9 on, I felt black getting some activity.
+[11:03:38] knightfury21: I felt I equalised fairly early in the opening but that's just a London thing in a lot of lines
+[11:03:53] storybrooke: When you played 24...c4, I felt relieved becaus your bishop got less active. I think i had no other choice but to play solid.
+[11:03:53] knightfury21: But I'm not sure if I ever had anything significant
+[11:05:10] nyanners: attack with h5-h4
+[11:05:25] knightfury21: Yeah I wasn't happy with 24...c4, wouldn't be surprised if that's a mistake
+[11:05:55] knightfury21: h5-h4 at what point? Or just generally?
+[11:06:10] nyanners: generally but instead of c4
+[11:06:26] storybrooke: I think, my defense task was easier after that move.
+[11:06:56] knightfury21: Yeah actually h5-h4 does make sense because I'd be first to the h-file
+[11:07:26] nyanners: winning on the h-file happens sometimes in those slav hxg structures
+[11:07:26] knightfury21: For some reason I wanted to prevent you from playing c4 Story
+[11:07:42] nyanners: it seems a bit contrived but it can work
+[11:08:12] knightfury21: Thought restricting you would be a good idea but that doesn't make sense at all
+[11:08:27] knightfury21: Just locked in my bishop for no reason
+[11:08:27] nyanners: more concerning is giving the d4-square
+[11:09:28] storybrooke: yes, because at that stage, I had no clue how to creaet active play for white...
+[11:09:43] knightfury21: Agreed, especially after I was just talking about how white has nothing on the d-file
+[11:14:17] knightfury21: I was trying to get an endgame position where I could triangulate with the bishop and you'd be in zugzwang with the knight
+[11:14:33] knightfury21: The problem is your king always had moves
+[11:17:35] storybrooke: yes, i noticed i had to play carefully, there was even a moment when I even "saw" your bishop entering my position, but
+[11:19:22] knightfury21: 67...Bf5 68.b3 Bd3 was what I was looking at near the end
+[11:20:07] storybrooke: But after having taken a deep breath I realized this was just an illusion. I also had to deal with the pin, that was a critical moment.
+[11:20:22] knightfury21: But I thought just 69.b4 and my bishop has no targets with no waiting moves left for me
+[11:22:39] knightfury21: But 69...Bc2 70.Nf1 Bb1 71.Nd2 Bd3 72.Ne4 Bxe4 is exactly what I was trying to achieve
+[11:23:40] knightfury21: But without the a5 tempo I wasn't confident in the K=P endgame
+[11:24:26] storybrooke: I was indded afraid of the xchange bishop-knight, because your king can move quite quick to get my e-pawn
+[11:25:27] knightfury21: Yeah it's a tricky endgame, maybe I should've gone for it
+[11:25:42] knightfury21: I'm probably not losing but I didn't want to risk the half point
+[11:26:43] storybrooke: I think you are right. You are in the driving seat and i have to wait and see.
+[11:27:59] storybrooke: As this is my first game on lichess4545, I am happy with the result, especially against an experienced player. Thanks again.
+[11:28:29] knightfury21: You played well, thanks for the game and all the best for the rest of the season
+[11:28:44] storybrooke: you too
