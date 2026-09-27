@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/yFSDDDSE
+White     : fyrox96
+Black     : switchoffengine
+Time      : 45+45
+Captured  : 2026-09-27 21:01:40 UTC
+Game ended : 2026-09-27 19:41:25 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[18:16:42] leverkuhn: White probably wants to play 25.Rc2 and 26.Ra5, so I expect Black to head that off with 24...Rc1
+[18:19:30] versaumnisgrund: Go Fyrox!
+[18:21:01] leverkuhn: my instinct with Black is to play a bathtub structure on the kingside with ...h5 and ...g6; White might try to head that off with 26.g4
+[18:21:01] leverkuhn: but ...Rh1 might become annoying
+[18:21:17] leverkuhn: probably White will launch the a-pawn
+[18:22:33] leverkuhn: If it pulls Black's rook to a1, Rc2 ideas could be on the table again, but they'll be less dangerous with Black's king coming closer
+[18:23:04] leverkuhn: possibly 26.Rc6 first is accurate to slow Black's king
+[18:24:04] grzybozbur: g4 looks a pain to defend after rg1
+[18:24:50] leverkuhn: not sure about that, but yeah it's hard to say what the classy kingside pawn moves are
+[18:25:05] leverkuhn: it's not exactly a standard structure
+[18:25:36] grzybozbur: h2 is hanging, i think you need to move it sooner or later
+[18:26:22] leverkuhn: White has adopted our recommended plan, looking for a4-a5-a6 and Rb7 on a really good day
+[18:28:08] leverkuhn: now probably 28.Rd2 intending 29.Rc6+ and 30.a6
+[18:29:40] leverkuhn: White asking some good questions here
+[18:40:06] ecoarrivazumashoomzo: Go Fyrox!
+[19:00:44] versaumnisgrund: Wouldn't be a Fyrox game without a time scramble :)
+[19:09:54] horriblechesstv: Sadly true
+[19:11:10] horriblechesstv: My heart is too weak for this
+[19:19:03] versaumnisgrund: He probably wants to make another appearance on the time trouble addicts leaderboard
+[19:27:57] switchoffengine: not sure if f4+ first or Rxa6 first is better
+[19:28:27] switchoffengine: assume this would be better since my pawn is closer to promotion, but his king would be more active
+[19:33:02] switchoffengine: thought Kd5 was forced.. now this looks winning for me
+[19:39:53] switchoffengine: haha i forgot the bridge
+[19:40:39] kayrosas: gg
+[19:40:39] versaumnisgrund: gg
+[19:40:54] jdw10: gg
+[19:42:41] switchoffengine: lesson learnt, reverse grunfeld bad for black lol
+[19:48:02] switchoffengine: hmm so many mistakes in the rook endgame, def need to check
+[19:48:47] switchoffengine: thought Rxa6 was a nice move but its a blunder :D
+[19:49:18] fyrox96: I thought so too, actually I didn't even see that move lol
+[19:49:48] fyrox96: What an horrible endgame play by me, holy cow haha
+[19:49:48] switchoffengine: yea, i saw i had that and thought it would be a draw at least
+[19:50:04] switchoffengine: otherwise Rb7 is just winning
+[19:50:19] switchoffengine: everything looks bad in the eyes of stockfish :D
+[19:50:49] fyrox96: rb7 was the whole point of my a4-a5-a6 plan
+[19:51:20] switchoffengine: yea it makes sense, i thought u would try Rd8 b8 to b7 too
+[19:52:36] switchoffengine: 50. gotta go Kd5, i think that was the fatal error
+[19:53:06] fyrox96: There were better options that this endgame, I also felt there should be more
+[19:53:52] fyrox96: there were better options that going into this endgame, I felt  there should be more
+[19:53:52] switchoffengine: yea i misplayed the opening really badly
+[19:54:07] fyrox96: but i burnt my whole time and didn't see anything haha
+[19:54:22] switchoffengine: 17. e4 is another insane find
+[19:54:22] fyrox96: this line is quite dangerous for black indeed, if you're not prepared
+[19:54:53] fyrox96: I even thought of this but didn't see Bc5 after d4, that would have been good yes
+[19:55:08] switchoffengine: right
+[19:56:39] switchoffengine: thanks for the game, good learning points for both of us :) could have gone either way
+[19:56:55] switchoffengine: atb for next rounds mate
+[19:57:55] fyrox96: 50.Kd5 yes omg I just didn't see anything in this endgame
+[19:58:26] fyrox96: thank you for the game too, all the best for the next rounds!
