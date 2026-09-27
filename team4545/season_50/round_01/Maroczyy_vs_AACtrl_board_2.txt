@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/piLYSVDi
+White     : maroczyy
+Black     : aactrl
+Time      : 45+45
+Captured  : 2026-09-27 18:01:58 UTC
+Game ended : 2026-09-27 16:41:49 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[14:25:55] sciencegeek: Go Maroczyy!
+[14:33:48] aactrl: (4.Nxd4) I don't even remember the move order between Nf6, a6 and Qc7, haven't played this in a while.
+[14:35:19] aactrl: (4...Nf6) oh, it was 4...a6, I deviated from my book already.
+[14:36:36] aactrl: (4...Nf6) and I just prevented white from playing 5.c4, which I welcomed.
+[14:38:22] aactrl: (5.Bd3) 4...a6 5.c4 Nf6 Nc3 Qc7, let's try to transpose back to that!
+[14:46:00] aactrl: (6.O-O) Qc7 here? then Nc6 or Bc5?
+[14:46:45] guitarspider: (6.O-O) go AACtrl
+[14:50:19] aactrl: (6...Qc7) oh maybe it was Bc5 INSTEAD of Qc7, I'm so rusted
+[14:50:34] aactrl: (6...Qc7) rusted or rusty?
+[14:51:05] aactrl: (6...Qc7) please play c4 and make me do a hedgehog
+[14:57:13] paulwithans: Nc3 would be a blunder here due to Nxe4 I guess
+[14:57:28] paulwithans: hmm let's see
+[14:57:43] paulwithans: No Nxe4 Nxe4
+[14:57:59] aactrl: (8.Nc3) no Maroczyy? I'm outraged
+[15:00:32] aactrl: (8.Nc3) do I want to castle so fast?
+[15:01:18] aactrl: (8.Nc3) Nc6 Nxc6 bxc6 f4 I don't like this more
+[15:02:03] aactrl: (8...O-O) but I may not have time for d6 and Nbd7
+[15:09:42] aactrl: (10.Bh4) Nc6 or d6....
+[15:12:14] sutoneigt: Afternoon, guys
+[15:16:19] aactrl: (11.Qd2) 11.e5 dxe5 Bg3 Nbd7? or Nfd7
+[15:21:09] aactrl: (11...Nbd7) 12.f4 Qb6 Bf2 Qxb2!?
+[15:24:42] aactrl: (12.Rad1) feels like they give me time to fix my mess in the opening, by not pushing pawns
+[15:25:58] aactrl: (12.Rad1) Ne5 will be vulnerable to f4, might want to delay it
+[15:27:14] aactrl: (12.Rad1) but b5 doesn't do much either
+[15:31:18] aactrl: (14.Bg3) Ne5 or Nc5?
+[15:33:19] aactrl: (14.Bg3) Nc5 e5 is annoying
+[15:34:20] aactrl: (14.Bg3) could prepare more, with Rd8, or even Nh5
+[15:35:22] aactrl: (14.Bg3) that's not the bishop I wanted but I like Nh5
+[15:38:25] guitarspider: (14...Nh5) do Nxb5 sacs work after e5?
+[15:41:58] guitarspider: (14...Nh5) e5 Nxg3 exd6 Bxd6 Ndxb5 axb5 Nxb5 Qb8 Nxd6 and you can't take back because Bh7+
+[15:41:58] guitarspider: (14...Nh5) there's probably some mistake in there somewhere
+[15:44:31] aactrl: (16.hxg3) again, Ne5 feels too early, Rac8 first?
+[15:45:32] paulwithans: Maybe Qxd6 was possible in there spider
+[15:46:18] guitarspider: (16.hxg3) instead of Bxd6?
+[15:46:18] paulwithans: yeah
+[15:47:34] guitarspider: (16...Rac8) yeah, that looks better, Nxe6 is too much material
+[15:52:24] aactrl: (17.f4) Nc5 e5!? dxe5 fxe5 Rcd8, there must be better
+[15:53:40] aactrl: (17.f4) d5!? exd5 Bxa3 bxa3 Qxc3...
+[15:57:44] aactrl: (17.f4) Nc5 e5 dxe5 fxe5 Bg5...
+[15:59:15] aactrl: (17.f4) oh, Be3+ after Bg5
+[16:00:01] aactrl: (17.f4) but Nc5 Bf3 simply
+[16:02:34] aactrl: (17.f4) what's left? Nb6 and Bf6
+[16:03:35] aactrl: (17.f4) d5 straight away?
+[16:04:51] paulwithans: I feel like it's about to get crazy after d5
+[16:09:10] guitarspider: (17.f4) both low on time too
+[16:10:27] aactrl: (17...Nb6) I stalled badly, too many ideas, none concrete
+[16:10:27] guitarspider: (17...Nb6) I like Black, white has played a couple of non-standard moves and I think it's going to cost them
+[16:10:57] guitarspider: (17...Nb6) f4 creates so much air around the king and that's permanent, doesn't need to be concrete now
+[16:11:12] aactrl: (17...Nb6) Bxh3 idea is countered by Nxb5 somewhere I think
+[16:11:58] aactrl: (17...Nb6) maybe Nc4-Nxa3 will work better
+[16:14:00] aactrl: (19.Qc1) Nxa3 or Nxb2?
+[16:15:47] aactrl: (19.Qc1) Nxb2 Nxb5
+[16:16:17] aactrl: (19.Qc1) although Qc5+
+[16:16:33] paulwithans: I think Nxa3 works but very messy
+[16:34:27] aactrl: (28...f5) is that wise to liquidate into K & p ?
+[16:34:57] aactrl: (28...f5) or Q and p with an extra, brrr... no!
+[16:38:16] paulwithans: K+p endgame is winning surely
+[16:40:18] guitarspider: (32...Qxc2+) yes, must be
+[16:40:33] aactrl: (32...Qxc2+) K & P looked very very risky with c4 push
+[16:41:04] guitarspider: (33.Kf3) well, there's no c4 push anymore :)
+[16:41:34] guitarspider: gg
+[16:41:34] paulwithans: gg
+[16:48:55] aactrl: 10.Bxh6 houlala!
