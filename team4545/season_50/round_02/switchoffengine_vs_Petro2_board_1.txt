@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/WZa3rUlR
+White     : switchoffengine
+Black     : petro2
+Time      : 45+45
+Captured  : 2026-09-29 22:01:01 UTC
+Game ended : 2026-09-29 20:40:54 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[18:37:16] mixxanber: interesting game, imo black looks quite solid
+[18:37:31] mixxanber: curious of whether white can go h4 and stir up some kingside stuff
+[18:46:39] switchoffengine: hello all! :)
+[18:47:10] switchoffengine: trying for an isolated pawn attack with Qxa2 Rg5 Ne8
+[18:57:19] switchoffengine: so Rg5 Ne8 tbh i was supposed to use the time to come up with something good, but i have not
+[18:58:35] switchoffengine: i could start with Ng5
+[19:05:42] switchoffengine: dont see anything working so just making a loft first
+[19:07:13] switchoffengine: thinking to strike with d5 at the right moment
+[19:15:53] switchoffengine: is gxf3 too crazy? :D
+[19:22:59] switchoffengine: so Qh5 g6 Qh6 Qf6 Rh5 Qg7 defends hmm..
+[19:26:17] switchoffengine: trying it anyways
+[19:38:58] zal667: (22.Be4) any exchanges should benefit black
+[19:45:04] zal667: (23...Nc6) did white just overpushed?
+[19:47:21] guitarspider: (24...Rxc6) d5 might work?
+[19:48:07] guitarspider: (24...Rxc6) d5 exd5 R1xd5 and maybe f5 coming? I'm not really convinced, but at least d5 lets you get rid of the isolated pawn
+[19:49:07] guitarspider: (25.f5) ah wait, maybe Rd6 was more of a problem than I gave it credit for
+[19:50:08] switchoffengine: dont try this at home lol
+[19:54:12] guitarspider: (26...Re6) defending this is going to be a real problem
+[20:12:44] zal667: (33.Qe3) Qa2 to try and pick a pawn?
+[20:13:14] semlegesnev: Question is how strong Q check is
+[20:13:29] zal667: f6 and that's that
+[20:14:00] semlegesnev: Then Qb5
+[20:16:02] semlegesnev: The rook seems strong arriving at either c4 or c2
+[20:17:18] zal667: and Q is still centralised and a blockander.  Nice move
+[20:19:20] mixxanber: f4 maybe?
+[20:19:35] semlegesnev: Rc1+ Kh2 Qe1 is an idea
+[20:19:35] mixxanber: setting up Rc1 and trying to mate
+[20:20:21] semlegesnev: f4 is worthy to look at, smth like f4 Qh4 h6-g5
+[20:20:36] mixxanber: now Qe3 looks very strong
+[20:22:07] semlegesnev: 1 pawn up is probably a draw, but we are playing for a win
+[20:23:23] zal667: (37...Qe3)should black pick up a pawn on b2 or d4?
+[20:23:39] semlegesnev: picking up d4 gurantees at least a draw
+[20:24:09] zal667: going after b2 is risky as e3 can be picked up by a king
+[20:24:55] zal667: (40.b3)Rc3
+[20:25:25] semlegesnev: nice
+[20:26:11] semlegesnev: Kg3 Rxb Kf3 Rb4 Kxe3 Rxa4
+[20:26:26] semlegesnev: I am slow lol
+[20:26:26] mixxanber: the queenside passers give black good winning changes i think?
+[20:27:12] zal667: (42...Kf6) ...Rb4 looked easier
+[20:27:12] semlegesnev: definitely looks favorable - d4 stays on the board tho with counterplay
+[20:28:58] mixxanber: I like Rb4 here
+[20:29:14] mixxanber: but my a5 is strong as a response
+[20:29:29] mixxanber: maybe a5*
+[20:29:29] grzybozbur: so after 37... g5 is there a move for white or just resign?
+[20:29:59] zal667: 37?
+[20:30:30] grzybozbur: yes
+[20:31:31] jdw10: its currently move 44, do you have a delay?
+[20:32:01] grzybozbur: no, i just like chess
+[20:32:32] mixxanber: 37.. g5 looks very strong
+[20:33:02] mixxanber: and then Qb1
+[20:34:03] mixxanber: 46... Kd5 looks almost winning to me
+[20:34:03] mixxanber: unless I'm missing sometihng
+[20:35:19] mixxanber: Rd3 also looks very nice
+[20:35:34] zal667: (46...Rd3)h4 as a last try
+[20:36:20] semlegesnev: 37 g5 Qe2 seems to hold
+[20:36:50] grzybozbur: checks run out
+[20:36:50] mixxanber: 47... just a6 right
+[20:37:06] semlegesnev: we can take i think
+[20:38:22] mixxanber: this forces rooks off, its nice
+[20:38:37] zal667: (50.Rxe3)nice little tactic
+[20:40:24] zal667: (52.Kxf3)a6 should be winning
+[20:42:10] guitarspider: gg
+[20:42:25] zal667: gg
+[20:44:42] semlegesnev: gg
