@@ -1,0 +1,197 @@
+Lichess game chat log
+Game      : https://lichess.org/FJDjPvKr
+White     : sylvlondon
+Black     : jelle1
+Time      : 45+45
+Captured  : 2026-09-29 21:15:20 UTC
+Game ended : 2026-09-29 19:55:12 UTC
+Messages  : 187
+────────────────────────────────────────────────────────────
+
+[18:04:47] joonaf: go sylv!
+[18:05:02] spacebaristaken: go sylv!
+[18:05:02] matthewhuber: go sylvlondon!
+[18:06:34] glennjamesmax: Glgl Jelle!
+[18:07:50] prostidude: Go go Jelle!
+[18:08:36] glennjamesmax: Real heavyweight clash here...
+[18:09:06] prostidude: Yeah this should be a good one
+[18:10:22] davidsifre: Go Sylv!
+[18:10:37] prostidude: No go jelle
+[18:15:11] prostidude: So is black just ok with doubled f pawns here?
+[18:15:27] prostidude: What's the plan?
+[18:15:42] glennjamesmax: Yeah sure, doubled pawns aren't really much of an issue unless they're isolated too
+[18:15:57] prostidude: I guess the lsb is happier
+[18:16:12] sylvlondon: I will play solid rock Bc3 and slow manoeubring.
+[18:16:12] dorylus: suppose the plan is the same as always in the french. Lean on d4
+[18:16:43] glennjamesmax: Taking on e3 on his own would only open f-file for opposing rook
+[18:17:44] prostidude: G5!
+[18:17:44] sylvlondon: I knew He would go agressive !
+[18:17:44] prostidude: We have a fight!
+[18:21:17] upgoerfive: Go sylv!
+[18:21:47] glennjamesmax: 14...Be6 I prefer Black here instinctively
+[18:35:14] sylvlondon: oups I blundered g4 Bg5 ...
+[18:40:34] sylvlondon: Ouch I'm lucky tonight.
+[18:46:55] glennjamesmax: Oh my goodness!
+[18:47:25] nyanners: would black even want that exchange? i guess so
+[18:47:25] nyanners: but the bishop is so cool
+[18:48:26] glennjamesmax: This confirms my theory you're going to hear a lot. People simply don't spot tactics when they're not looking or expecting them.
+[18:48:57] glennjamesmax: Still prefer Black though
+[18:48:57] nyanners: no yea thats simply true
+[18:49:12] nyanners: im always interested in meta-thoughts on the process of finding moves :o
+[18:49:27] nyanners: its a question thats at the heart of improvement, after all
+[18:49:42] glennjamesmax: If he was playing a 2000, he would spot this in 0.00001 seconds
+[18:50:13] nyanners: eh i mean, i dont think its the easiest exchange ever to accept even if you do see it
+[18:50:28] nyanners: thats a lot of commitment, you play g4, you trade the bishop
+[18:50:28] glennjamesmax: Why not? The dark squares around the king are locked
+[18:50:43] glennjamesmax: and there's good file where extra rook is useful
+[18:50:43] nyanners: you exhaust a lot of potential
+[18:50:58] joonaf: what makes the Black's DSB so good?
+[18:51:14] nyanners: i think its probably good, to be clear. but i like, say, Bg5 f4 and keep the ideas
+[18:51:59] nyanners: or f6, even. and then you play in actual frenchy fashion of attacking dark squares
+[18:53:31] nyanners: like, im not sure about g4 at this point. this f4 response seems really strong
+[18:55:17] nyanners: seems like black's potential is exhausted but you are not up an exchange :c
+[18:55:33] nyanners: down a pawn, even
+[18:56:18] nyanners: Bf8 is nice, way better than f6 which was my first thought
+[18:56:49] nyanners: which would be just terrible
+[18:57:04] nyanners: but yeah i dont think its looking good for b
+[18:58:51] nyanners: move Q to prepare Bd2?
+[18:59:06] guitarspider: (22...Bf8) I'm also not sure I would have taken that exchange.
+[19:00:52] invinci7777: I m not sure I would hav spotted the exchange
+[19:00:52] guitarspider: the dark squared bishop is your baby if you play the French
+[19:02:08] nyanners: f4 is really really important
+[19:02:24] nyanners: so thats one downside of moving q
+[19:02:39] nyanners: now black has to be quick, Bh3
+[19:03:09] nyanners: i think :o
+[19:03:09] guitarspider: (24.Bd2) maybe Black needed to play f4 before White got the chance
+[19:03:25] nyanners: feels that way but this may be something now
+[19:04:25] nyanners: how do you deal with this actually
+[19:04:56] nyanners: Ne1 may drop d4
+[19:04:56] guitarspider: (24...Bh3) Nh4 has the same problem I suppose
+[19:05:11] nyanners: but at least Nxg6 is CHECK
+[19:05:26] guitarspider: (24...Bh3) yes
+[19:05:26] nyanners: so that might do
+[19:05:26] nyanners: but.. it doesnt exactly inspire confidence
+[19:05:42] guitarspider: (24...Bh3) and then you could move the queen and bring Bf1
+[19:06:58] guitarspider: (25.Ne1) I'm not very focused, so it's very possible I'm missing something
+[19:06:58] guitarspider: (25.Ne1) but Nh4 did look most promising to me
+[19:06:58] sylvlondon: I was planning Bxf4 and Bg3 but it fails on Rxg2 ... I miscalculated
+[19:07:13] nyanners: nah thats exactly the good part about watching
+[19:07:44] sylvlondon: The ending after Nxd4 still looks good.
+[19:08:29] guitarspider: (25.Ne1) it's true that the black pawns are a mess
+[19:08:45] nyanners: whats the result? does black get the pawn back or no
+[19:09:00] prostidude: What is the line after Nxd4?
+[19:09:00] nyanners: because xf4 at the end
+[19:09:15] nyanners: nxd4 bxd7 nxe2 rxe2 bxd7 (from h3)
+[19:09:30] nyanners: seems completely forced
+[19:10:01] guitarspider: (25.Ne1) I am unsure, but it looks like there is no way to keep f4
+[19:10:16] nyanners: and then white can just take the pawn at the end there
+[19:10:16] nyanners: probably
+[19:10:47] guitarspider: (25.Ne1) f3 instead of Bxd7 is the only possible deviation
+[19:11:02] guitarspider: (25.Ne1) but it doesn't do anything, does it?
+[19:11:32] nyanners: well if you dont take the bishop, white does XD
+[19:11:47] nyanners: thats 2 pieces for rook
+[19:12:03] nyanners: and file firmly closed
+[19:12:03] guitarspider: (25.Ne1) yeah
+[19:12:03] glennjamesmax: Isn't there Nxd4 Bxd7 Nxe2+ Rxe2 Bxd7
+[19:12:18] nyanners: yea thats what i said :o
+[19:12:48] guitarspider: (25.Ne1) We're trying to find ways to deviate to somehow save f4
+[19:12:48] glennjamesmax: Ah sorry, just realized, but still f4 hangs at the end
+[19:12:48] guitarspider: (25.Ne1) but yeah, I don't seeit
+[19:13:04] prostidude: What about f3 Nxf3 Nxd4 Nxf7 Nxe2 Rxe2 Rxg2!
+[19:13:19] nyanners: white needs n on e1 to defend xg2
+[19:13:19] nyanners: f3  would be met by qx
+[19:13:34] nyanners: still, does it help? umm
+[19:13:49] nyanners: dont think so
+[19:14:05] guitarspider: (27...Bxd7) seems like they've decided the answer is no
+[19:14:20] namegoesinhere: (27...Bxd7) f3 Qxf3 Nxd4 Nxd7 Nxf3 and white might've had trouble recapturing on f3?
+[19:14:20] guitarspider: (27...Bxd7) bishop pair for black, but terrible pawn structure
+[19:15:05] nyanners: yeah like, a little calculation needed there. but i dont think you can take on g2 at the end
+[19:15:36] namegoesinhere: (27...Bxd7) yeah I was just trying it on the analysis board and I think at the end too many black pieces are hanging
+[19:16:52] prostidude: Still a three result game
+[19:17:07] glennjamesmax: Black just looks cooked to me unfortunately
+[19:17:38] nyanners: its, like, regular bad. not THAT bad
+[19:17:38] glennjamesmax: Bxf4 is the simplest, but almost anything wins. Rc7 is also annoying
+[19:18:08] nyanners: black still has ideas. Bc6-d4
+[19:18:23] nyanners: maybe trade a pair of rooks and see if the endings look drawish
+[19:18:23] prostidude: Exactly
+[19:18:39] prostidude: Glenn don't be such a downer
+[19:18:39] glennjamesmax: Just calling what I see...
+[19:19:24] glennjamesmax: What I'm saying won't effect the result either way. I'd put our expected points here at about 0.06 or so.
+[19:19:40] guitarspider: (27...Bxd7) Rc7 Bc6 doesn't looks clear to me
+[19:19:55] glennjamesmax: But Bxf4 and there are no threats on g2
+[19:20:25] guitarspider: (27...Bxd7) yeah, Bxf4 is clearly the move to me
+[19:20:25] guitarspider: (28.Bxf4) But I don't think anything else also wins
+[19:20:41] invinci7777: yeah bf4 seems simplest
+[19:20:41] nyanners: 0.06 is strangely specific
+[19:20:56] guitarspider: (28.Bxf4) You have to be real careful here not to be running into monster bishops on th long diagonals
+[19:21:11] glennjamesmax: Heh, no just me being fancy and not using round numbers
+[19:21:26] nyanners: i can appreciate that XD
+[19:21:41] invinci7777: precise but not accurate .06
+[19:21:57] guitarspider: (28...Bc6) For example Rc7 Bc6 and Bc5+ is coming and then you've got a d-pawn and open bishops and doubled rooks.
+[19:22:12] guitarspider: (28...Bc6) Nobody needs the f-pawns then
+[19:22:27] glennjamesmax: 28...Bc6 can't White just play g3 and shut of those threats permanently.
+[19:22:42] nyanners: maybe, maybe not
+[19:22:42] nyanners: the obvious line is g3 h5 nf3, okay
+[19:22:58] nyanners: so that suggests g3 d4
+[19:23:13] invinci7777: there is still h5 h4 after g3
+[19:23:13] glennjamesmax: but even Nd3 is a great blockading square controlling c5 too
+[19:23:28] guitarspider: (28...Bc6) if you play g3 you are open to a lter Bc5+ as well
+[19:23:43] nyanners: so okay, lets follow that one, which is interesting. g3 d4 nd3 h5 kf2
+[19:23:59] nyanners: h4 and.. what? i dont know :D
+[19:24:14] nyanners: it doesnt look super bad. but it also doesnt look like anything
+[19:24:14] glennjamesmax: Why Kf2?
+[19:24:29] nyanners: h4 is coming and theres no kh1
+[19:24:29] glennjamesmax: Even if you get all the way to trading I recapture and then what?
+[19:24:44] nyanners: and then kf2 looking great :D
+[19:24:44] guitarspider: (28...Bc6) how about Be3?
+[19:24:59] nyanners: oh i see, you want to ignore it entirely
+[19:24:59] guitarspider: (28...Bc6) we try to put the bishop on d4 and then we're looking at the king and trying to shut the Bc6 out
+[19:25:30] nyanners: so well, same line ..h5 Rc4 h4 Rxd4 hx hx. you might be right
+[19:25:30] nyanners: probably, even XD
+[19:25:45] nyanners: its good that Bf4 prevents Rh6
+[19:26:00] glennjamesmax: I just think there's no way to mate White on the king side not to mention black king may actually be more unsafe.
+[19:26:16] nyanners: white could play a random e6
+[19:26:31] nyanners: that can be something to consider
+[19:26:46] nyanners: but probably not super soon
+[19:28:33] invinci7777: black can try be7-d8-b6 maneuver
+[19:29:18] glennjamesmax: That's useful but very slow
+[19:29:34] nyanners: i think the first move has to be d4
+[19:29:34] glennjamesmax: and at last moment White can just play be3
+[19:29:34] nyanners: cant allow nf3
+[19:30:50] invinci7777: if be3 then h5-h4 is on
+[19:32:52] guitarspider: (30.Rd2) Rg4 is the blitz game swindle attempt
+[19:33:37] nyanners: not even good for blitz im afraid :p
+[19:33:52] guitarspider: (30...Rg4) oh no
+[19:34:08] nyanners: this seems like a lack of ideas. the rook cant be better on g4
+[19:34:23] guitarspider: (30...Rg4) yes
+[19:34:23] nyanners: the king will be better on f2
+[19:34:23] guitarspider: (30...Rg4) there are a million ways not to lose the bishop
+[19:35:09] invinci7777: rxd4 is ok?
+[19:35:39] nyanners: omg i didnt even see rxd4
+[19:35:39] nyanners: and now kf2
+[19:35:55] nyanners: trading too much and 2 pawns down
+[19:36:10] prostidude: Bh6 is a cool move
+[19:36:25] nyanners: the only good thing is the Bc6 but its completely negated by the Ne1
+[19:36:40] nyanners: like okay its better than the knight but not for 2 pawns
+[19:37:11] guitarspider: (31...Bh6) sadness, not even Bxe5 worked as a trick
+[19:37:41] guitarspider: (32.Kf2) if nothing works it usually means the position is very lost
+[19:40:59] invinci7777: ke3 seems safe
+[19:41:14] guitarspider: (34...Rg4) ya
+[19:41:14] prostidude: Ya
+[19:41:45] nyanners: okay now id be pessimistic :p
+[19:42:15] prostidude: Yes now is the appropriate time
+[19:42:15] guitarspider: (34...Rg4) it's turned into a conversion exercise, kind of.
+[19:43:32] glennjamesmax: unfortunately 36.Rc2 and there's not much...
+[19:47:05] invinci7777: no obvious move here
+[19:48:36] namegoesinhere: (36...Kg7) I think white can get away with Nd3 now the knight doesn't need to cover g2?
+[19:50:07] guitarspider: (40...Bd5) I would have gone Nd3 as well probably
+[19:50:38] guitarspider: (41...Rb6) probably doesn't really matter
+[19:50:53] namegoesinhere: (41...Rb6) b4 Ra6 Kd4 is neat
+[19:54:42] guitarspider: (46.Nf6) mating patterns here we go
+[19:54:57] guitarspider: gg
+[19:54:57] nyanners: gg :o
+[19:54:57] invinci7777: gg
+[19:55:27] spacebaristaken: gg
+[19:56:13] sylvlondon: 16. g5 wins an exchange ...
+[19:56:13] sylvlondon: 16. g4 sorry.
+[20:02:33] guitarspider: interesting, the engine thinks g4 is the best move, but Black isn't that much better after it.
