@@ -1,0 +1,141 @@
+Lichess game chat log
+Game      : https://lichess.org/BrMtxEVH
+White     : duty5521
+Black     : nlance
+Time      : 45+45
+Captured  : 2026-09-29 19:50:00 UTC
+Game ended : 2026-09-29 18:29:51 UTC
+Messages  : 131
+────────────────────────────────────────────────────────────
+
+[17:08:52] rpcx: go duty
+[17:09:07] simonwashere: Go NLance!
+[17:10:23] rpcx: expecting some spicy prep
+[17:10:23] aldric123: (4.Nc3) Let's go NLance!
+[17:11:09] aldric123: (5.O-O) oooh a berlin with than an early Nd4. Very spicy.
+[17:11:40] aldric123: (6...c6) I'm utterly unfamiliar with these lines. Should be interesting to watch
+[17:12:56] duty5521: [8. d4] Didn't do heavy prep but I saw this and thought it looked pleasing. Yes, I don't usually play a Spanish nor a 4 knights.
+[17:12:56] duty5521: wait no I saw Qc7 also
+[17:13:57] aldric123: (9...Be7) Guess it's like a philidor where black gained the bishop pair, a bit behind development, but not hugely so
+[17:16:44] king12-life: go duty!!
+[17:16:59] king12-life: boring structure :(
+[17:16:59] duty5521: [11. Bh4] Really don't know what the implications of this position are. Do I need to attack the queenside pawn structure? Doesn't ...
+[17:16:59] duty5521: ...look like a bad idea.
+[17:17:30] mrmatt96: 11...g5!?
+[17:17:45] king12-life: g5 definitely looks like the move for black here
+[17:18:00] grzybozbur: g5 weakens everything
+[17:18:00] king12-life: but then e5/d6 could be weak
+[17:23:51] fireball100: Go Nlance
+[17:24:06] duty5521: Kinda depends on what happens now, still early but kind of blurry what I should try to accomplish in these positions. I probably ...
+[17:24:06] duty5521: ...still need to wait for Black to commit, because no option seems convincing as of now.
+[17:24:21] duty5521: How well am I expressing my thought right now I feel like I'm saying a bunch of nonsense even though it makes sense in my mind lol
+[17:25:22] aldric123: (11.Bh4) If black was already castled I think Nxe4 almost works, but seems foolish with K on e8
+[17:25:37] aldric123: (11.Bh4) probably boring Be6 or 0-0 is best boring!
+[17:26:23] fireball100: I would go g5...
+[17:26:38] aldric123: (11.Bh4) I think it's too weak early or weakening for that, but it might be ok
+[17:26:53] aldric123: (11.Bh4) Like if you were ready to castle queenside or something
+[17:27:09] aldric123: (11.Bh4) or if the center were truly already locked
+[17:27:24] grzybozbur: g5 is one of a relatively few moves i'd never consider here
+[17:27:24] aldric123: (11...Be6) I like Be6
+[17:27:39] duty5521: [11... Be6] d5 looks sketchy doesn't it
+[17:28:40] fireball100: Yes perhaps Q side castle and all in on K side..
+[17:29:26] aldric123: (11...Be6) other thing about g5 is e5 gets hard to defend since he's gonna go Bg3
+[17:29:26] aldric123: (11...Be6) Need to be ready with what you're going to do then
+[17:29:56] mrmatt96: ...g5 Ng3 Nh5 Bh2 Nf4 looks thematic there
+[17:29:56] fireball100: And aldric - you are likely right on the early/weakening side - I tend to be too quick there
+[17:29:56] aldric123: (12.Re1) Though now that Be6 is played Nd7 is possible without blocking LSB
+[17:30:57] aldric123: (12...O-O-O) MrMat might be right
+[17:31:12] duty5521: [12... O-O-O] To be expected... Well now I DEFINITELY attack there lol
+[17:31:58] duty5521: Now d5 doesn't look half as bad
+[17:31:58] aldric123: (12...O-O-O) g5 is likely next depending on what white does
+[17:32:13] grzybozbur: black had a dream philidor and now transformed it into who knows what
+[17:33:29] grzybozbur: 13.d5 and white already looks better
+[17:33:45] aldric123: (12...O-O-O) I like d5 for white, not sure if he looks much better
+[17:34:30] grzybozbur: it makes rd8 look stupid and weakens the black king
+[17:34:46] aldric123: (12...O-O-O) d5 Bd7 and then do you take on c6 or no?
+[17:34:46] grzybozbur: and might entice black to trade bh4
+[17:35:01] davidsifre: Take no prisoners Nlance.
+[17:36:02] aldric123: (12...O-O-O) I will say if d5 I really don't think black should take on d5
+[17:36:17] grzybozbur: if black doesn't take d5, white remains with more space and control in the center
+[17:36:32] aldric123: (12...O-O-O) I'll agree, but g5 is coming soon and e5 is never in danger again
+[17:36:47] grzybozbur: and a free tempo
+[17:36:47] aldric123: (12...O-O-O) space isn't everything
+[17:36:47] mrmatt96: All true, but it won't matter if he gets mated on the g-file in the next fifteen moves
+[17:37:33] grzybozbur: you usually need pieces to mate
+[17:38:49] duty5521: [13. d5] I mean what else to do, Nb5 Re3 a4 coming
+[17:39:20] aldric123: (13.d5) Nb5 is only coming next move if he takes on d5
+[17:40:51] duty5521: [13... Bd7] I was about to say Bd7 doesn't look very good, can't I just open everything and go for the king very easily?
+[17:41:06] aldric123: (14.Bxf6) Unfortunately I think Bxf6 is solid for white
+[17:41:22] mrscribbles: (14...Bxf6) Long castles is a bold move, love it
+[17:41:52] chessyesmen: man I was looking forward to gxf6
+[17:42:07] aldric123: (15...bxc6) Interesting. I just assumed Bxc6
+[17:42:22] invinci7777: bc another bold move
+[17:42:22] duty5521: [15... bxc6] I just feel like I'm better now...
+[17:42:38] duty5521: Just gotta not throw
+[17:42:38] mrmatt96: Keeps the knight away for now, and White doesn't have an easy way to get in
+[17:43:08] duty5521: Like a wise man once said, "What to do?"
+[17:43:08] grzybozbur: why did white trade d5 pawn? it looked spectacular
+[17:43:23] aldric123: (16.Qd3) He basically said his plan in chat
+[17:43:39] aldric123: (16.Qd3) "can't I just open everything and go for the king very easily?"
+[17:44:40] duty5521: [17. b4] Knight on d5 is the dream
+[17:44:55] grzybozbur: i'm not sure white should be happy about opening the position that way
+[17:44:55] mrscribbles: (17.b4) Watchpartied because of black's completely deranged decisio to castle long and then open the b-file
+[17:45:40] aldric123: (17.b4) Perhaps Be6 to free up the d7 square if the K wants to yeet away?
+[17:45:56] mrmatt96: ...Be6 looks good, moreso to cover d5 from knight incursions, maybe prepare ...d5 if Black wants to go totally nuts
+[17:46:26] aldric123: (17.b4) I mean everything you said, but I can also see a world where d7 is a fine place to run away for K
+[17:46:57] mrmatt96: Definitely could be useful in some lines.
+[17:47:12] aldric123: (17.b4) there's also the I'm FINE and play g4  :)
+[17:48:13] aldric123: (17.b4) get your pawn tension in before he can
+[17:49:14] invinci7777: yeah I would play g4
+[17:53:02] mrmatt96: ...g4 hxg4 Bxg4 b5 and then...?
+[17:53:48] invinci7777: bd7 back may be
+[17:56:35] duty5521: [17... h5] What I calculated is 17... h5 18. b5 g4 19. bxc6 Bxc6 20. Nd2 gxh3 21 g3 h4 Rab1 hxg3 fxg3 Rdg8 Kh2 which looks scary but ...
+[17:56:35] duty5521: ...I think that my attack is greater
+[17:56:51] duty5521: alright I sent the message instead of adding the moves' numbers
+[18:00:08] duty5521: [20... Bg5] isn't that slower because you cut the g column off?
+[18:01:09] duty5521: it's called a file in english smh
+[18:01:40] duty5521: [21. Nc4] I don't believe in Bg5
+[18:02:10] duty5521: Also don't want to allow the trade might as well just bring the knight to the attack
+[18:08:32] duty5521: [21... gxh3] I think I'm definitely sacking those pawns, too much attack going on
+[18:14:37] aldric123: (24.Rxb5) this is looking a bit scary
+[18:14:52] aldric123: (24.Rxb5) I almost want to play Kd7 and give back a pawn on e5
+[18:15:38] aldric123: (24.Rxb5) Oh nevermind, it's even worse, he can just do Kd7 Nxd6 instead and that looks instantly deadly
+[18:16:24] invinci7777: only a 'bit' scary?
+[18:16:54] aldric123: (24.Rxb5) I like understatement.
+[18:17:40] namegoesinhere: (24.Rxb5) yeah, and it feels like black has no real attack until the h-pawn gets to like h2 which is forever in this position
+[18:17:55] invinci7777: black king may be slightly unsafe
+[18:18:10] aldric123: (24.Rxb5) Yeah I think he couldn't take the time to play hxg2
+[18:18:10] aldric123: (24.Rxb5) Still black was the one attacking but with that included this looks pretty rough
+[18:18:41] duty5521: this is fine
+[18:18:41] aldric123: (25.Reb1) It isn't if you're cheering for black!
+[18:19:26] aldric123: (26.Qd5) Err I meant in my earlier comment that without hxg2 WHITE was attacking, but black might have defended
+[18:20:58] invinci7777: rb7 coming
+[18:21:28] aldric123: (26...Rdg8) At least black is going down swinging!
+[18:21:44] invinci7777: nd6 here
+[18:21:59] invinci7777: looks over
+[18:22:29] duty5521: Qxd6 still tricky gotta play Rc5
+[18:23:00] duty5521: resignable eh
+[18:27:34] nyanners: looked pretty clean
+[18:27:34] aldric123: (28.Rc5+) agreed. I'll be interested in some points to check with the engine when it's over
+[18:28:20] nyanners: also isnt nlance supposed to be the one with 43 minutes
+[18:28:20] nyanners: thats crazy
+[18:28:50] aldric123: (29.Qxc5+) I mean he is 200 points lower in rating
+[18:29:05] nyanners: there definitely was a lot to think about in this game :o
+[18:29:05] nyanners: though white didnt seem to mind so much
+[18:29:21] aldric123: (31...Kf8) I think white mostly thought on black's time
+[18:29:21] nyanners: all is well that ends well, i guess :o
+[18:29:21] nyanners: gg
+[18:29:21] jfiras: gg !
+[18:29:36] simonwashere: gg
+[18:29:36] aldric123: gg
+[18:29:36] jdw10: gg
+[18:29:36] rpcx: ggs
+[18:29:36] invinci7777: gg
+[18:29:51] duty5521: gg NLance
+[18:29:51] fireball100: GG
+[18:30:37] nyanners: ive always felt weird about this line, i like it with black but my results also werent great :D
+[18:30:37] rpcx: kxg2 is the engine tomfooleryi live for
+[18:31:38] duty5521: engine really wants to take on g2
+[18:31:38] duty5521: what
+[18:31:53] duty5521: my whole point was that the g file was closed
+[18:31:53] nyanners: the principle of i go here they go there beats all the others
