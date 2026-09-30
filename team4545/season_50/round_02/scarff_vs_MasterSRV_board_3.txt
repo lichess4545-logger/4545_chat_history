@@ -1,0 +1,134 @@
+Lichess game chat log
+Game      : https://lichess.org/SL8BXnev
+White     : scarff
+Black     : mastersrv
+Time      : 45+45
+Captured  : 2026-09-30 13:15:28 UTC
+Game ended : 2026-09-30 11:55:19 UTC
+Messages  : 124
+────────────────────────────────────────────────────────────
+
+[08:39:36] tranzoo: lets go chess
+[08:42:38] scarff: I think we played a French last time as well. But not sure how that game went anymore
+[08:43:09] scarff: Hi Tranzoo :)
+[08:56:36] gavalanche20: Never really understood this line but it’s a Rosen/Chessmood special
+[09:00:09] mastersrv: he probably would have to go Ne2 here.
+[09:01:56] mastersrv: which looks very awkward. So maybe he is looking for some other options. I don't know if there is one.
+[09:03:12] mastersrv: I guess this is a pawn sac
+[09:07:16] scarff: I think I have some compensation for this pawn
+[09:07:31] scarff: Where does blacks king go? Seems unsafe on either side to me
+[09:08:32] gavalanche20: Ng3 probably wishes it was on the qside but otoh b file could be dangerous
+[09:09:03] aln276: Black is way behing his development
+[09:11:50] aln276: Rb1 seems nice
+[09:24:01] aln276: White has given Black too many tempi
+[09:24:17] time_lord19: (16.Rb4) Free pawn?
+[09:24:47] ttsgosadow: This French looks straight from the ChessMood doctrine!
+[09:25:02] aln276: It's dangerous to take that pawn.
+[09:25:48] time_lord19: (16...Qxc3) He took it anyway,
+[09:26:49] scarff: Giving away the pawns. But hopefully this is still sound
+[09:27:04] scarff: My pieces look pretty good. And blacks king is still in the centre
+[09:30:37] ttsgosadow: Wasnt black queen trapped after Rc1?
+[09:31:38] ttsgosadow: Nm, could just takee on c1 and trade up
+[09:37:44] time_lord19: (19.Bxh7) nh6 here?
+[09:45:20] ttsgosadow: Rc1 would pin the Knight
+[09:46:06] pavonine: gogo mastersrv
+[09:46:21] pavonine: I guess Qb8 now but the a5 knight is a bit funky
+[09:46:21] pavonine: oh wait then Bxa6
+[09:46:52] pavonine: but then Qa7?
+[09:47:38] pavonine: or just Nxe5
+[09:48:08] time_lord19: (21...Qb8) Nxe5 is nasty
+[09:48:23] time_lord19: (21...Qb8) I don't know white can do here
+[09:48:38] time_lord19: (21...Qb8) qb2?
+[09:50:55] pavonine: Qb2 is nice actually
+[09:50:55] pavonine: wait
+[09:50:55] ttsgosadow: They say Knight on the rim is dim, but this Knight on 5 is doing work
+[09:50:55] pavonine: no
+[09:51:11] pavonine: then Nxb5
+[09:51:11] robertjackson: Position after 21 moves looks good Bram!
+[09:52:12] pavonine: wow my comments are nonsense above, nvm
+[09:52:27] pavonine: i think black can ignore teh g7 threat and just take on e5
+[09:52:42] pavonine: actually i really think that, it looks great
+[09:53:28] timothyha: H2 too soft
+[09:53:28] robertjackson: I was thinking 22.Bxa6 looked good?
+[09:53:58] robertjackson: But ignore that!! NxR
+[09:53:58] pavonine: after 22.Bxa6 i think just ...Nxb4
+[09:55:29] robertjackson: Yup
+[09:55:45] pavonine: nice, little premove to add the pressure
+[09:57:16] ttsgosadow: Rxg2, beefore or after Nxe5?
+[10:01:50] scarff: I have a feeling my initiative is slowly slipping away. And any endgame is probably bad news
+[10:03:22] aln276: Wow I just left for like 10 min to return to a total wreck of White position.
+[10:04:07] ttsgosadow: I like the idea of offering pawns for advantage - but looks like it isnt paying off (yet)
+[10:04:22] time_lord19: (26.Qb6) qe1+?
+[10:04:53] scarff: Still maybe a little pressure left on blacks position. But so far they defended it well I think
+[10:05:08] scarff: Less pieces left to exploit their king position
+[10:05:54] mastersrv: ig the threat is just Bxa6
+[10:06:09] mastersrv: considering Qe1 f/b Qd1
+[10:07:10] mastersrv: but he can just block with the bishop
+[10:12:01] time_lord19: (27...Qd1) rg1?
+[10:12:01] time_lord19: (27...Qd1) i mean rg3
+[10:12:01] ttsgosadow: Would there be Rxg7 ideas?
+[10:12:46] scarff: 28.Bxa6 looked a bit interesting too
+[10:13:02] scarff: But I think that was too crazy. And I don't have the time to look at too much craziness anymore
+[10:14:18] time_lord19: (28.Rg3) ne5?
+[10:15:34] aln276: White still has got steam due to Black's king's position
+[10:18:52] aln276: 29.Rxg7 with Qc7
+[10:19:22] time_lord19: (29.Qc7) castle now, black is good
+[10:19:37] aln276: Ah there was Qd4
+[10:21:24] aln276: Yeah. Black is consolidating it seems
+[10:21:54] timothyha: (30.Rxg7) oh, hi, @aln276
+[10:22:10] timothyha: (30.Rxg7) long time no see former captain of mine :-)
+[10:23:11] timothyha: (30.Rxg7) all the oldies watching @Scarff including @JPutterg, our most senior League player I believe
+[10:23:56] ttsgosadow: Don't think theres enough complication on the board to expect big blunders
+[10:29:16] timothyha: (31.Qe5) well the other bishop is sleeping, Rxf7 is possible
+[10:30:48] scarff: Maybe Rg3 and then just push that h pawn down the board, and I win?
+[10:31:03] scarff: Looks like a decent plan for me
+[10:31:33] scarff: Maybe there is stuff black can do to mess it up. Opponents do tend to do that with my plans
+[10:31:48] scarff: But it looks nice to me :)
+[10:34:06] robertjackson: f7 looks attractive
+[10:34:36] robertjackson: Qf6 first - if possible
+[10:35:37] timothyha: (32.Rg3) yeah, Qf6 instead of Rg3 looked interesting
+[10:35:52] timothyha: (32.Rg3) but Rf8
+[10:36:23] micomps: Rf8 maybe could have played Bg6?
+[10:36:23] micomps: Ignore me, forgot about the horsey
+[10:38:24] timothyha: (33...Qc1) if the queen goes to h6 there can be perpetuals on queenside
+[10:43:44] aln276: 35.Rc3
+[10:44:45] aln276: 36.Rc3 with idea Rc7
+[10:45:00] aln276: Why exchanging pieces?
+[10:45:46] aln276: White is lost
+[10:54:09] aln276: 39...Qc7 40. Qa8 Qb7 winning
+[11:04:18] time_lord19: (44...Kd6) nooooo
+[11:05:34] aln276: I think if Black loses this game it will be well deserved. Awful play in a winning position
+[11:06:35] scarff: Down a piece still. But not unhappy with what things look like
+[11:06:50] scarff: Feels like I've done well to keep up the pressure all game
+[11:07:05] scarff: And this plan to push the h pawn and win is still going! :)
+[11:09:38] time_lord19: (45...d3) Now time trouble too
+[11:10:54] time_lord19: (46.Ne4+)white needs a miracle now
+[11:11:09] scarff: I'm up on time, crazy stuff!
+[11:13:11] scarff: Now no longer down a piece anymore either. Things are starting to look good :D
+[11:13:26] scarff: Now just have to stay sharp and not ruin this!
+[11:13:41] robertjackson: Looks great Scarff
+[11:15:43] aln276: Lol. White is winning. Well done Scarff
+[11:23:20] aln276: 54. Qa3 + and Nd6
+[11:27:24] timothyha: (57.Qc5+) unbelievable game!
+[11:28:25] timothyha: (58...Ka8) push the h pawn I guess
+[11:32:29] pavonine: hang in there master, still time for tricks
+[11:45:25] timothyha: (67...Qd3) h6, h7, Qg8+
+[11:45:40] timothyha: (67...Qd3) ah, I see
+[11:45:56] timothyha: (67...Qd3) Qxf3
+[11:51:00] timothyha: (72.Qe5+) Qe5 and Ng5 and h7
+[11:51:31] pavonine: Ka8 Qc7 Bxg4+ fxg4 Qxg4 stalemate
+[11:51:46] pavonine: please let that happen haha
+[11:53:33] time_lord19: (74.Kh4) This iss crazy
+[11:53:48] robertjackson: 73.Nd6 looked vg to me - stops Q checks and sets up Q swap
+[11:54:03] timothyha: (74.Kh4) chess when nobody wants the game to finish
+[11:54:33] timothyha: (74...Qg6) Qe4+
+[11:55:04] robertjackson: That's it!
+[11:55:04] timothyha: wow
+[11:55:19] timothyha: is @Scarff going to make a drama out of every round now?
+[11:55:34] robertjackson: GG both - a battle!
+[11:55:50] scarff: Took a while! Great game MasterSRV. Was very interesting in every phase of the game
+[11:56:05] timothyha: Queens have been worth their 9 points today
+[11:56:20] jputterg: well done scarff and good defensive attempt by MasterSRV
+[11:56:35] scarff: I hope only the good kind of drama Tima
+[11:56:50] scarff: Thanks John! Was already seeing you in the spectators, nice to see you :)
+[12:19:40] pavonine: gg
