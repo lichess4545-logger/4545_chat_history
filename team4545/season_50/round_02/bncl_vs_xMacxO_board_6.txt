@@ -1,0 +1,125 @@
+Lichess game chat log
+Game      : https://lichess.org/Ancnp8QN
+White     : bncl
+Black     : xmacxo
+Time      : 45+45
+Captured  : 2026-09-30 15:34:45 UTC
+Game ended : 2026-09-30 14:14:37 UTC
+Messages  : 115
+────────────────────────────────────────────────────────────
+
+[12:17:04] bncl: Initially thought Nd5 was great, didn't want to move my queen in that direction, but now I'm surprised about the trade
+[12:17:50] bncl: I'm not sure it actually benefits me as now I'm stuck with this LSB, but I can more readily envision a path toward the black king now
+[12:19:21] bncl: On my wishlist: e4, f5, rook lift, knight somewhere
+[12:21:08] bncl: also I should slow down, I have plenty of time lol
+[12:23:10] bncl: also hello che55m45ter! Hope this will be an entertaining game
+[12:24:56] bncl: okay, I can't get f5 myself now, but now the bishop doesn't cover h3, which could be a nice home for my rook
+[12:25:12] bncl: but then if fxe4 there'd be a discovery, maybe not good after all
+[12:26:43] bncl: I don't think they can actually take on e4 though at least for now -- I have dxe4 and then am threatening Bc4+
+[12:27:29] bncl: I guess there's e6 there
+[12:28:14] bncl: but if Ng5 now then e6 can be taken in that line
+[12:28:45] bncl: normally I don't write so much detail in chat but I feel like otherwise i'm just in the mood to play too quickly
+[12:28:45] bncl: hello nyanners!
+[12:30:01] nyanners: these trades def helped white
+[12:38:40] bncl: Rf3? and if h6 then Rh3 anyway? if hxg5 then Qh8+ Kf7 Qh7+... if Ke8 then Qxg6+ Rf7 Rh8#
+[12:44:45] bncl: Rf3 h6 Rh3 and unfortunately there's no need to take the knight... Nd4 prevents queen from coming and then knight is hanging for real
+[12:44:45] bncl: dang!
+[12:47:17] nyanners: the hxg5 line works but yeah the whole thing is way too artificial
+[12:47:48] bncl: If exf5 then at least my bishop can breathe a bit more on f3
+[12:52:22] bncl: pins the knight as well
+[12:53:08] nyanners: umm yes but no. nd4 bxa8 ne2
+[12:53:08] nyanners: which kinda begs the question, does black play nd4
+[12:53:38] nyanners: i like it since it seems to effectively force the trade
+[12:54:09] bncl: oh nvm knight is NOT pinned
+[12:55:10] bncl: black wants to fork, but if there's a fork in the air it's going to be mine on e6 sometime in the future
+[12:57:27] bncl: and now I think I should be happy with this trade seeing as previously bishop was doing "sweet FA" as Daniel King said in stream
+[13:01:01] bncl: previous Rh3 idea still not working
+[13:07:21] bncl: trading on f6 puts another pawn in front of the king, I could defend with Re3 or Qe1
+[13:09:38] nyanners: this seems awkward to defend
+[13:09:54] nyanners: i guess Qd7 is in time
+[13:10:09] nyanners: f5!?
+[13:13:27] bncl: Qe4 threatening the rook loses...
+[13:16:14] nyanners: there it goes :o
+[13:20:03] intemperate: Ke8 might be necessary here?
+[13:20:48] bncl: I think I should try to get rid of this f pawn and then be looking to push my g and h pawns up the board
+[13:22:20] computability: Lets go bncl!!!
+[13:24:22] nyanners: looking good enough for b
+[13:24:37] nyanners: not dead
+[13:24:37] intemperate: That f-pawn is toast, then the h pawn is going to win the game for W
+[13:25:22] nyanners: the h-pawn can win, yes. but the f-pawn lives for a while
+[13:25:53] intemperate: I was thinking Rh8, Qe8 Rx Qx Qxf5
+[13:26:23] computability: Qc6 for black looks good to me
+[13:26:23] intemperate: It he doesn’t have to take of course
+[13:26:23] computability: Ah same idea but better square
+[13:26:39] nyanners: black could take on h8
+[13:26:54] intemperate: Yes
+[13:26:54] bncl: oh no
+[13:27:24] computability: Dont stress bncl you got this
+[13:27:40] intemperate: Looks difficult for B though. He has more time, so perhaps that extra thinking time will save him
+[13:27:40] nyanners: Rg6 forced if you ask me. qe2 makes your pieces weird
+[13:28:25] nyanners: here yeah still some advantage
+[13:29:11] intemperate: R swap favours W. How is black stopping that h-pawn?
+[13:29:41] computability: Queen side counterplay seems slow for black
+[13:30:42] intemperate: D5 looked a more promising square for the black Q
+[13:30:42] bncl: passed pawns must be pushed
+[13:31:28] computability: ༼ つ _ ༽つ take my energy ༼ つ _ ༽つ
+[13:31:43] nyanners: yeah Qd7 seems awkward
+[13:31:58] nyanners: i thought Qd5-Qd4 and return THAT way
+[13:32:14] nyanners: like besides random check options you also get Qh8
+[13:32:29] nyanners: but yeah it would be difficult regardless
+[13:32:29] computability: Would Getting the queen on the dark squares and attacking whites a and c pawns have been good for black or too slow?
+[13:32:44] nyanners: you probably dont have time to take anything with the king this far off
+[13:33:15] nyanners: it doesnt matter how many pawns one has anyway. its just about who gets the most relevant passer
+[13:33:30] nyanners: so Qxa2 is connected to a5-a4-a1q basically
+[13:33:30] nyanners: while Qxc2 is sorta more useless
+[13:34:46] nyanners: but yeah its unlikely there would be time for Qxa2 as it puts the queen out of the whole dark square circuit
+[13:35:01] nyanners: youre losing at least 2 tempi there
+[13:38:34] intemperate: G4 and resign
+[13:39:05] bncl: maybe black sees a perpetual I don't see
+[13:42:07] bncl: I might get into trouble if king gets trapped in the corner yeah
+[13:42:07] computability: I dont think so. If B plays Qg5 theres no check for black against h2 since after a queen trade without a king move is winning for white
+[13:42:38] intemperate: Kh2 first if he wants to sidestep any checks
+[13:43:08] computability: Yeah thats better
+[13:45:11] computability: I was considering Ke8 there for black
+[13:46:27] nyanners: not a good darw offer timing
+[13:47:12] nyanners: dont get Kf2 though, that helps a bit
+[13:47:12] nyanners: more exposed
+[13:47:43] bncl: Think my king is just in time
+[13:47:58] bncl: and no perpetual now
+[13:51:01] computability: c4?
+[13:52:17] bncl: hmmmm I guess I only looked at 37...Kg7 38. Kf5 where it seemed like I could eat all the pawns
+[13:54:34] bncl: random pawn moves until I'm able to get my king over to the queenside?
+[13:56:36] intemperate: Black requires snookers now. Only a massive blunder can save him!
+[13:57:21] bncl: e5 has to happen eventually?
+[13:58:07] intemperate: There is this little pawn trick with 3 vs 3 on the Q-side. I wonder if Mac O k owns it?
+[13:58:22] intemperate: *Knows
+[13:59:08] bncl: I'm chuckling
+[14:00:09] bncl: Und jeztz? Zugzwang
+[14:00:55] nyanners: yea you cant trade that
+[14:01:25] nyanners: i would play a4
+[14:01:40] nyanners: for b
+[14:01:56] nyanners: black can get lucky since the pawns are more advanced
+[14:03:12] computability: I feel like its either drawn or winning for white
+[14:03:27] nyanners: oh its absolutely winning for white. but theres a Trick
+[14:03:42] nyanners: a4 and white may have only one move
+[14:03:42] intemperate: He should try b4
+[14:04:13] nyanners: i feel youre thinking of the classic pawn endgame funny but it doesnt work on this rank
+[14:04:13] nyanners: black would need to be one further
+[14:04:43] intemperate: If axb c4
+[14:05:29] bncl: even if I manage to lose this I at least won connect four first
+[14:05:29] nyanners: yeah like, in axb they both promote at the same time and white has 40 pawns
+[14:05:44] nyanners: but cxb is way better
+[14:05:44] bncl: although black got connect four on the fifth rank, which arguably is more impressive than on the third rank
+[14:05:44] nyanners: i prefer the a4 trick. if b4 then d4!! and black wins
+[14:06:30] nyanners: thats good payoff :o
+[14:07:15] nyanners: with the king closer the tricks run out
+[14:07:31] bncl: I can't beat connect five though
+[14:08:01] nyanners: here dx is no problem
+[14:08:16] nyanners: like, very obviously so
+[14:10:49] intemperate: This is possibly the worst version of any tricks lol
+[14:11:19] bncl: The repeat draw offer makes me think I'm missing something, but the passer is right next to my king
+[14:11:34] bncl: and I think I can always prevent them from making another
+[14:12:35] bncl: my king is without a doubt in the square, and the d pawn can't be brought up along with the e pawn
+[14:13:51] nyanners: pawn endgames are tough
+[14:13:51] nyanners: gg
+[14:14:07] computability: Gg!!!!
