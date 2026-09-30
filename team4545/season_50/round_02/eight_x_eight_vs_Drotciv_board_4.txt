@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/WB0JS7bT
+White     : eight_x_eight
+Black     : drotciv
+Time      : 45+45
+Captured  : 2026-09-30 19:22:26 UTC
+Game ended : 2026-09-30 18:02:17 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[15:24:37] eight_x_eight: out of prep after 12...Nb6. Looks strange as it blocks the b-pawn, but probably there is an idea behind it.
+[15:28:56] eight_x_eight: calculating 16.Rxd6 Dont thing the queen check is good. if 16...Nd5 then 17.Rxd7
+[16:00:11] nyanners: umm remains complicated
+[16:00:56] computability: Lets go eight!!!
+[16:04:45] computability: ༼ つ _ ༽つ take my energy ༼ つ _ ༽つ
+[16:08:49] bncl: Go eight_x_eight!
+[16:38:00] eight_x_eight: guessing only black can be better here, with the outside passer on the side of the board away from the kings
+[17:12:01] computability: Bh5?
+[17:12:01] eight_x_eight: somehow I've got my pawns on opposite colour of my bishop and a protected passed pawn, that black allowed. Think it's at least equal ...
+[17:12:01] eight_x_eight: ...for W
+[17:19:53] eight_x_eight: (37) think I bring my king to the kingside now. Expecting a waiting move with the bishop, then Ne7-d5-c3-b1 maybe
+[17:20:54] jdannan: Why doesn’t white just win the f7 pawn?
+[17:24:12] eight_x_eight: (39) didn't mean to allow a bishop trade, not what I wanted
+[17:24:27] computability: Yeah I liked Bh5 back when whites knight was on f6
+[17:45:47] intemperate: I simply don’t understand Nc6!?? Why not just a5?
+[17:51:37] computability: Bxb5 is a draw
+[17:52:07] computability: Is white playing for a win?
+[18:02:01] computability: GG both
+[18:05:04] drotciv: Amusing computer graph
+[18:06:20] intemperate: Premature resignation
+[18:07:51] drotciv: 15...hxg5 16. Rxd6 Nd5! is an absurd move I didn't even consider, but super useful to see.
+[18:09:38] drotciv: Better get to work now. Will have to review this later, especially that endgame. GG again
