@@ -1,0 +1,80 @@
+Lichess game chat log
+Game      : https://lichess.org/tcOGVmeG
+White     : thestormingeagle
+Black     : lorb
+Time      : 45+45
+Captured  : 2026-10-01 20:39:55 UTC
+Game ended : 2026-10-01 19:19:44 UTC
+Messages  : 70
+────────────────────────────────────────────────────────────
+
+[17:03:36] joonaf: go lorb!
+[17:18:53] thestormingeagle: (13. Nxe5) This is just bad for me after Nxe5. I was hoping black would grab the pawn and didn't calculate well enough what if they
+[17:18:53] thestormingeagle: didn't
+[17:20:40] thestormingeagle: ah actually my tactics for Nxd4 also don't work
+[17:20:40] thestormingeagle: but I think this variation is better for me
+[17:21:10] thestormingeagle: I have choices at least
+[17:23:42] thestormingeagle: and I nearly hung my bishop because of the "choices" I have
+[17:23:58] thestormingeagle: wait can I hang my bishop on purpose?
+[17:24:13] prostidude: Go go eagle
+[17:25:29] thestormingeagle: hello prost - thanks for supporting
+[17:25:59] prostidude: Surely Bc4+ Kh8 Nxf7+ is good for white
+[17:26:15] prostidude: No problem, happy to be here
+[17:27:46] thestormingeagle: I don't want to give up a piece for the exchange so I'd be trading the bishop for a knight which I don't want to do as it seems like
+[17:28:01] thestormingeagle: it could be a good bishop given my opponent has no f pawn
+[17:28:47] prostidude: Positions without f pawns are pure despair
+[17:29:02] thestormingeagle: Hi Nyanners
+[17:33:06] nyanners: if you hang it on purpose, its a sacrifice. though it may be a bad one
+[17:33:52] nyanners: if you hang it not on purpose but its somehow a good move, then ethical opinions may vary on whether you should claim credit
+[17:35:53] nyanners: ive actually almost never played this line for either side
+[17:36:24] nyanners: but im afraid white may be busted
+[17:53:25] nyanners: id like to say white is stabilizing but the pieces are still a bit stuck. pressure on f2 matters and the black queen is very powerful
+[18:02:48] nyanners: dang
+[18:02:48] nyanners: thats a Chess Move
+[18:03:04] nyanners: i guess it works
+[18:12:57] nyanners: its looking like game
+[18:30:13] nyanners: qxd1 first looked like the better version
+[18:31:29] glennjamesmax: Personally I've always preferred the proper Greco gambit with cxd4 and Nc3
+[18:31:44] glennjamesmax: It's a lot harder for Black I feel
+[18:32:45] glennjamesmax: 34...e2 I'd have calculated a lot more before giving this chance, or played h6 or something
+[18:34:01] glennjamesmax: Wait isn't this some perpetual?
+[18:34:17] nyanners: time to find out XD
+[18:34:17] glennjamesmax: or even some nightmare like Qd5+ Kf8 Qd8+ Kf7 Qf6+ Qf8 and give up chess...
+[18:34:32] glennjamesmax: Sorry Kf6 Qf8+
+[18:35:02] glennjamesmax: This is why you think here
+[18:35:18] glennjamesmax: With Qd5+ this wouldn't be possible...or would lose the game
+[18:36:34] glennjamesmax: I actually think this was a stonewall perpetual if we started with Qd5+
+[18:37:04] glennjamesmax: Kg6 Qe6 and there's no reasonable way to escape to h or g file...
+[18:38:51] glennjamesmax: Ah, ok no, my lines are a bit mixed but Kf7 Qxc7+ if starting with Qd5 would pick up the pawn which Black can now try to hide behind
+[18:39:06] glennjamesmax: that looks like a clear draw
+[18:40:22] glennjamesmax: 38...Kf6 please?
+[18:41:08] glennjamesmax: 38...Kd5 I'm not sure this is the right direction
+[18:41:38] glennjamesmax: now c7 will fall with check and there's a bunch of calculation and a lot of blunder potential
+[18:43:25] glennjamesmax: Qb7+ one positive factor is c6 Qd7+Kc5 is a plausible line if Black isn't concentrating
+[18:50:16] nyanners: just enjoying the ride
+[18:50:16] glennjamesmax: 42...Ke4 43.Qc4+ is getting interesting already....
+[18:50:31] glennjamesmax: I'd be a little panicked if I was Black as earlier Qf4+Kh1 h6 would have avoided all counterplay
+[18:50:47] nyanners: black could even lose with ke3 xd
+[18:51:02] nyanners: the play could be ke5 and qd4
+[18:51:32] glennjamesmax: then there's Qe1 and the game goes on as White is now up material
+[18:55:51] glennjamesmax: 45.Qd3+ Kg5 46.Qd8+ has to be found or there's trouble for White
+[18:56:37] glennjamesmax: but after that it looks like an easy draw as the f-file will become off limits
+[19:06:01] glennjamesmax: 49...Kc6 okay 90% draw and there's a 5% chance someone tries something funny, blunders some tactic and loses.
+[19:10:04] glennjamesmax: On a side note, always move first before offering and always see the move before declining...
+[19:10:20] glennjamesmax: It's just pure upside either way
+[19:12:22] glennjamesmax: 51...Ka5 I think 52.b4+ cxb4 53.Qd5+ should be fine.
+[19:13:38] glennjamesmax: take your time
+[19:13:53] glennjamesmax: 54. a4!!!!
+[19:13:53] glennjamesmax: hang on .....
+[19:14:08] glennjamesmax: ah no check and promote with check
+[19:15:55] glennjamesmax: 53. Qb6+ was needed, now this is over...
+[19:16:41] thestormingeagle: Hi GlennJamesMax
+[19:16:41] thestormingeagle: Hi Tranzoo
+[19:16:56] thestormingeagle: I think I blundered away a draw
+[19:17:11] glennjamesmax: sadly, yes you did....
+[19:20:30] glennjamesmax: Qb6 was it
+[19:22:47] thestormingeagle: I played b4 with the idea of Qb3+ but should have stopped to calculate again
+[19:23:02] prostidude: Gg
+[19:23:02] thestormingeagle: gg
+[19:23:17] thestormingeagle: gg wp lorb
+[19:32:10] nyanners: gg
