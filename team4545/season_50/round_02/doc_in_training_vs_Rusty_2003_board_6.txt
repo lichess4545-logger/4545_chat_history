@@ -1,0 +1,136 @@
+Lichess game chat log
+Game      : https://lichess.org/YlXEgrM7
+White     : doc_in_training
+Black     : rusty_2003
+Time      : 45+45
+Captured  : 2026-10-01 00:38:27 UTC
+Game ended : 2026-09-30 23:18:19 UTC
+Messages  : 126
+────────────────────────────────────────────────────────────
+
+[21:02:01] kayrosas: gl rusty
+[21:35:31] pacificpatzer: Quite the time difference.
+[21:36:17] pacificpatzer: 12. a3 for the trade and get the B file open for the rook?
+[21:37:03] pacificpatzer: I think he's calculating f4 though.
+[21:49:59] pacificpatzer: is Bxc5 even a threat? Black can just hope to attack d3.
+[21:54:18] kayrosas: was thinking 14...b6 maybe
+[21:54:49] kayrosas: black does have a funny resource here tho, 15...Bg4 :)
+[21:55:34] pacificpatzer: Definitely agree with b6.
+[21:56:05] pacificpatzer: Bg4 hxg4 Nxg4+ then what?
+[21:56:20] kayrosas: Nxe3
+[21:56:35] pacificpatzer: ah nevermind, I had the wrong position on the board. Bishop hangs. Nice!
+[21:57:06] kayrosas: 16.f5 seems a bit weird, fxe was winning a pawn I think
+[21:57:51] pacificpatzer: Yeah, black should have taken over the f file.
+[22:00:08] pacificpatzer: I might've gone, or at least heavily considered,  fxe and Rxf6.
+[22:01:09] kayrosas: black doesnt have a good reply to fxe anyways
+[22:01:40] kayrosas: the f6 knight has to move there
+[22:02:25] pacificpatzer: Yeah that was a big miss. dx3 BxC5 otherwise.
+[22:04:42] pacificpatzer: f6 Qe1 to H4 ideas?
+[22:05:13] kayrosas: the Ne8 guards it pretty nicely for now
+[22:05:28] kayrosas: I dont think white should commit to either g6 or f6 yet
+[22:06:59] genturgidson: Ooh, hey Kayrosas. I just hovered over your profile and noticed we've played before in blitz.
+[22:07:45] pacificpatzer: The combination of Ne8 being necessary and blocking in the rook wouldn't bother you?
+[22:07:45] genturgidson: I was 1200 and you were 2400... how did that come to be?
+[22:08:00] pacificpatzer: Probably a tournament.
+[22:08:00] kayrosas: it is surprising how many people in 4545 i have random games against
+[22:08:16] kayrosas: tho that was a casual one, hm
+[22:08:46] genturgidson: That's very strange. Perhaps we knew each other from somewhere?
+[22:09:01] kayrosas: well, the knight doesnt really have any useful squares for now anyways
+[22:09:32] kayrosas: could've been through some chess discord maybe if you were on any
+[22:10:33] genturgidson: Hmm, yes I was on a few at one point. The Moon Club perhaps is all I can think of.
+[22:12:19] genturgidson: I was challenging various players much stronger than me just randomly in various Discord servers a few years back, so just a big coincidence
+[22:15:37] kayrosas: obligatory "the world is small" comment
+[22:15:52] kayrosas: also nice progress from 1200 to now
+[22:17:54] pacificpatzer: a4 -- idea of going Na5 to b3?
+[22:18:40] kayrosas: maybe to c4 instead, but I also like that
+[22:19:10] kayrosas: but black has to decide if they can afford to ignore the kingside
+[22:21:12] pacificpatzer: f6 was not on my bingo card.
+[22:21:43] kayrosas: you need to lose a couple brutal games to learn that f6 tends to be bad in these
+[22:23:14] kayrosas: i hope i'm not sounding rude tonight, just sharing my thoughts about the moves
+[22:23:14] pacificpatzer: they're likely just thinking gxh Nxf6 and they're ok.
+[22:23:29] pacificpatzer: Im grateful. Nice to hear the thoughts of someone 2500+ in blitz.
+[22:24:30] kayrosas: g6 is usually the way to go I think
+[22:25:01] pacificpatzer: qxg4 Nh5 stuff?
+[22:25:46] kayrosas: Bxg5 was correct I think, exactly bc of Nf6 BxN
+[22:26:02] pacificpatzer: Rg6 there? Man these guys are blitzing
+[22:28:03] kayrosas: 24...Rg6 i would call a bit of a fake tempo bc after Qf3 or Qh4 you gotta move it again & feels unstable on h6
+[22:29:04] kayrosas: but it is a candidate move you gotta consider in a classical game certainly, just in case there is more
+[22:29:50] pacificpatzer: Yeah to reply to that so quickly was odd. Rg6 for the aesthetic points alone haha.
+[22:33:54] kayrosas: gotta address that b7 knight at some point
+[22:34:09] pacificpatzer: 26. Qg3 at least to threaten e5 and maintain pressure on g7.
+[22:35:10] pacificpatzer: would have stopped this move too.
+[22:42:31] kayrosas: good thing is the white minor pieces also aren't that great
+[22:43:17] kayrosas: 29.a4 or c4 could be annoying tho
+[22:44:33] pacificpatzer: a4 Na5 idea still looks appealing to me. Not sure I understand Rb2.
+[22:45:19] pacificpatzer: c4 there though is annoying
+[22:46:20] kayrosas: Rfb1 and then Bf1 could be an idea
+[22:46:35] kayrosas: 29...a4 c4 Na5
+[22:47:21] kayrosas: a4 is a nice find by rusty, Im starting to believe again :)
+[22:47:36] pacificpatzer: Might get that Bf1 idea on the board.
+[22:50:39] tbest: thre are some fun ideas with c4 Nxc4 Qxa5 Rxa5 Rb8.
+[22:50:39] tbest: Shame they don't work
+[22:51:55] pacificpatzer: Bxb5 Nb3 Bxd7?
+[22:52:10] kayrosas: seems fine for white
+[22:53:26] kayrosas: 32.Bxb5 Bxb5 RxB Nb3 Qd3 exd cxd Rc7 and maybe black can play for activity bc weak white king
+[22:53:41] tbest: do we try exd5 now to get the black queen out?
+[22:53:57] tbest: ouch, nxc4 is a blunder
+[22:54:42] kayrosas: 34...exd4 ans hope for Nxg7
+[22:54:42] genturgidson: Oh white missed Bxc4
+[22:54:42] pacificpatzer: Exd? You can go E5+ if NXg7
+[22:55:28] kayrosas: now 35.Bxc4 still :*
+[22:55:28] kayrosas: :( I meant
+[22:55:28] genturgidson: Yes Bxc4 is back I think.
+[22:58:00] genturgidson: I can't actually find the killer blow here. Just Kh8?
+[22:58:00] kayrosas: 37...Nxg7 I thought
+[22:58:00] pacificpatzer: Why not Ng7?
+[22:58:16] kayrosas: *37.Nxg7
+[22:58:16] pacificpatzer: With 18 minutes on the clock!
+[22:58:46] genturgidson: What's the continuation after Nxg7? I don't see the idea
+[22:59:01] kayrosas: nothing direct
+[22:59:17] genturgidson: So... just a free piece to vaguely weaken the king?
+[22:59:47] kayrosas: black needs to reply with Kh8 and then there will be some ideas soon after
+[23:00:02] tbest: just 40 dxe5 also looks good
+[23:00:02] genturgidson: 28.Nxh7 Kxh7 Qh5+ Kg8 then like what?
+[23:00:17] genturgidson: *38.
+[23:00:48] kayrosas: gen youre in the wrong line. 37.Nxg7 is what we meant
+[23:01:34] genturgidson: Oh... yeah. My brain autocorrected your Nxg7 to Nxh7 assuming move 38.
+[23:02:04] kayrosas: should be a draw now
+[23:02:19] tbest: I ponder Qf1
+[23:02:19] genturgidson: I think these two will fight it out. I doubt a draw will happen.
+[23:02:50] pacificpatzer: At 1700 you don't offer draws here.
+[23:03:05] kayrosas: ofc not, not even at 2700 Id say
+[23:03:51] genturgidson: I'd like to think a 2700 would have this solved haha.
+[23:03:51] tbest: maybe rg6 is a clever try
+[23:04:36] pacificpatzer: We're getting to the stage of the game where I don't have ideas, just anxiety.
+[23:05:07] kayrosas: there are some funny ideas
+[23:06:23] genturgidson: This is dodgy, it's passed pawn central if queen exchange happens
+[23:06:38] genturgidson: ...which it very obviously won't.
+[23:06:53] pacificpatzer: I think we see Qf2 Qf1 repetition.
+[23:07:24] kayrosas: nah I think white will keep the game going somehow
+[23:07:24] kayrosas: for better or for worse
+[23:07:54] pacificpatzer: Usually happens when you feel you've missed a chance.
+[23:08:55] genturgidson: If white gives up checking then black has a perpetual check fo their own Qf2+ Kh1 Qg2+ etc I think
+[23:08:55] kayrosas: Kh6 looks very dodge but I guess fine with the perpep threat
+[23:09:10] pacificpatzer: Qe6+ takes the pawn and repetition.
+[23:09:10] kayrosas: *dodgy
+[23:09:26] genturgidson: *Qf2+ Kh1 Qf1+ etc I mean.
+[23:11:27] pacificpatzer: What a wild game. I thought black would be checkmated 20 minutes ago.
+[23:12:44] genturgidson: Should one take a pawn grabby non-checking move, the other has perpetual checks.
+[23:13:14] pacificpatzer: Might have a 3 fold otherwise.
+[23:13:14] kayrosas: i think that seals it
+[23:13:29] kayrosas: or maybe not
+[23:13:44] genturgidson: White still insisting on checking in different ways that don't create the repetition.
+[23:15:46] kayrosas: bit unnecessary but should be fine
+[23:16:02] genturgidson: 53.Qxf7 Kxf7 d5 is there something or drawn pawn endgame?
+[23:16:17] kayrosas: draw, there are no entry points
+[23:16:17] genturgidson: I think drawn just h4 or something
+[23:16:32] genturgidson: Yeah.
+[23:17:18] genturgidson: Game rages on with unique position eliminating repetitions for a while.
+[23:17:48] pacificpatzer: just shake hands already!
+[23:18:19] kayrosas: gg!
+[23:18:19] genturgidson: GG
+[23:18:19] horriblechesstv: gg
+[23:18:34] pacificpatzer: GG
+[23:19:04] doc_in_training: gg
+[23:20:05] doc_in_training: I knew 37 Nxg7 was the move.... ugh
+[23:26:10] kayrosas: you played a bit too quickly in critical moments i think
