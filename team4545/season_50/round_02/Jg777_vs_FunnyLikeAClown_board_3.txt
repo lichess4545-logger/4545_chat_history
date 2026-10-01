@@ -1,0 +1,300 @@
+Lichess game chat log
+Game      : https://lichess.org/HP5jLMAM
+White     : jg777
+Black     : funnylikeaclown
+Time      : 45+45
+Captured  : 2026-10-01 05:24:04 UTC
+Game ended : 2026-10-01 04:03:55 UTC
+Messages  : 290
+────────────────────────────────────────────────────────────
+
+[01:29:33] jg777: Sweet, not sure when I last faced the Caro. Been a minute I think. This should be a fun learning game for me!
+[01:30:18] jg777: I think this is the Fantasy variation with early f3. See, we're going to be learning tonight as I wade into probably unknown waters!
+[01:32:05] mennonite: Go Jordan!
+[01:32:20] mennonite: Fantasy is a tough one to wing!
+[01:32:20] jg777: Oh they took on e4 early, I think the last time I tried the Fantasy against the Caro my opponent did not take e4 early (maybe at all? ).
+[01:33:06] jg777: So this will definitely be a new experience for me. Time to sort out the ideas. Nf3 seems the likely move here, avoiding Qh4+.
+[01:33:21] mennonite: But it's tougher for Black to fly blind
+[01:34:07] jg777: Let's see if I can get a better opening position than my last game here. That'd be a good start, anyway.
+[01:35:23] jg777: I  could try to treat this like some kind of KG, with the semi open f file. Go for a quick Bc4 0-0 stuff.
+[01:36:54] funnylikeaclown: lichess is doing this weird thing where when i click in the browser window a cursor starts flashing
+[01:39:12] mrscribbles: (6...Nd7) Always love Jordan's improvised openings
+[01:39:57] mrscribbles: (6...Nd7) c3 apparently has a good win rate, though fairly small sample size
+[01:40:28] mrscribbles: (7...Ngf6) hoping for a good ol' reckless long castle from Black
+[01:44:01] jg777: Fascinating position, I'll be interested to see how I am suppose to play this. I doubt this is theory, the tactics seem tamed for both
+[01:44:47] jg777: Unless I am just a horrible calculator tonight. Bxf7 always seems to be refuted, but is worth pausing each move to confirm.
+[01:45:32] jg777: Nxe4 also seems to not work for black, as Bxf7 then has to work with the double check when Nf3 moves if they take back on f7.
+[01:45:48] jg777: So, things seem "in the air" but nothing working for either side yet.
+[01:50:22] jg777: Seems like I win a pawn on f7 here, unless I am missing something.
+[01:50:37] funnylikeaclown: ok after qb3 bh5 ng5 i am prepared to long castle and give the pawn and that is supposed to be a fun attack for black
+[01:50:52] jg777: Nxe4 is there but maybe that opens up some lines
+[01:56:12] jg777: I sense there is something here. I just need to sort out the right series of moves here. f7 is tender, e5 -b7 is overloaded- something.
+[01:59:45] funnylikeaclown: this one i don't know
+[01:59:45] jg777: I don't want to blow a bunch of time here, but this looks like I win a pawn somewhere here unless I missed an idea.
+[02:00:00] jg777: I suppose we will see.
+[02:00:00] funnylikeaclown: hopefully that means it's bad
+[02:02:48] jg777: I was thinking Nxe5 Nxe5 dxe5 Qxe5 Qxb7- but maybe Qc5+ is something I missed
+[02:03:33] aloo_bhaloo: so 10.. Nxe5 dxe Bc5+  Kh1 Nxe4, that looks bad for white
+[02:03:49] jg777: Idea is c6 is protected with tempo and then after Kh1 Rb8 is annoying since c4 hangs as well.
+[02:05:05] jg777: So probably a simple calculation error on my part  missing that d4 is no longer influencing c5. Abort mission, this is a misfire.
+[02:07:07] jg777: Problem is if I'm not going for material here then this kills my center and now I am just a bit slow getting the other pieces out
+[02:11:10] jg777: Well, jot me down for calculation training, I don't think I played this well at all and now looking at best options here.
+[02:11:26] jg777: dxe5 Bf4 are the two on the table it seems
+[02:12:26] jg777: end of the day my pieces are to slow to get out into the game here as my center dissolves so at best I am trying to keep equality here
+[02:12:57] jg777: I don't think I have any advantage now, no pawn to win, or anything. e4 is gone soon perhaps.
+[02:14:13] jg777: dxe5 Qxe5 Qxb7 Qc5+ just looks bad for me, and Qxe5 Rf5 just Qxe4, there is no tactic on  h5 since Qe1 is killer.
+[02:14:43] jg777: So I probably need to be looking at Bf4 ideas before even going down dxe5 ugly lines.
+[02:15:14] aloo_bhaloo: Is there b5 after bf4
+[02:16:00] jg777: Bf4 Nf3+ I have Rxf3 since queen is hit so no Bxf3 stuff- Bd6 then I have to play dxe5 Bxe5 Bxe5 Qxe5 and am I improving anything?
+[02:16:46] jg777: Nd2 afterwards, saying e4 is fine because b7 is a bigger target and Nxe4 Re1 anyway... or something.
+[02:17:16] jg777: Do you calculation exercise, at least 1 lesson here tonight.
+[02:18:17] goldenretrieverchess: Go Jordan!!
+[02:19:18] jg777: Going to have to look at the opening sequence afterwards, somehow I thought I had something but maybe not.
+[02:20:04] jg777: It looked like I had something. Ng5 instead of Nxe5 possibly forced Nb6 perhaps- but not sure what I am doing after that.
+[02:20:34] jg777: it was unclear to me anyway. I felt they had f7 under control, b7 was covered by Nb6, Na5 was an idea next perhaps if I wasn't careful
+[02:20:49] jg777: and Ng5 is hanging out there for what if not going after f7- so, didn't look correct to me.
+[02:21:20] jg777: or not Na5- the knight is on b6 already- i was thinking Nxc4 in that line.
+[02:21:50] jg777: either way, it wasn't clear. dxe5 in that line was interesting perhaps, though. Maybe it was something.
+[02:23:52] jg777: I don't think b7 is touchable here after Bxe5 Bxe5 Qxe5 for similar reasons- Qc5+ then 0-0 and bishop hangs and I am behind on developmen
+[02:24:22] gavalanche20: (12...Bxe5) Gl jg!
+[02:25:08] jg777: Hmm I think I missed 0-0-0 after Nd2. Hits the knight, defends b7, e4 is just going to be lost.
+[02:26:40] jg777: So Be3 might be better here and try to keep pieces on the board longer and not go into (ultimately) a pawn down endgame soon.
+[02:27:56] jg777: Oh, but they still have Nxe4 because their king is still on e8 so f7 pawn is safe.
+[02:29:58] jg777: Yeah h2 hangs as well. So really, this is where I am going to be grinding a pawn down endgame then.
+[02:31:59] jg777: I don't think I can bluff my way out of this losing opening sequence. We'll give it a shot, but this seems quite bad for white.
+[02:32:45] gavalanche20: (12...Bxe5) Hm what if Be5 Qe5 Nd2 0-0-0 Nf3 and you lose e4 but have f7 if you want it?
+[02:33:15] jg777: Qc5+ is just an absolute ice machine here. If I had Qxb7 here I would be okay, but there's no way that works with Qc5+
+[02:34:01] jg777: Qxb7 Qc5+ Kh1 0-0 and e4 hangs, c4 hangs, b2 is weak- it's just bad.
+[02:34:16] gavalanche20: (13...Qxe5) Unless I'm missing something it's definitely not ideal but it remains a fight
+[02:34:47] jg777: and Nd2 0-0-0 here and I am not sure I have anything to play for, it's just make moves and cross fingers.
+[02:35:33] funnyanimatorjimtv: Rf5-a5
+[02:37:34] jg777: Now I have Rf5 here, right? e4 is held, Rf5 holds c5... queen has to move. I get a tempo. Maybe a critical one.
+[02:39:21] jg777: it's the only active idea I have so lets see if I can make magic
+[02:39:51] jg777: if Qd6 then e5 and Ra1 hold back rank so I should have something to try here
+[02:40:07] mrscribbles: (15...Qd6) Playing the only active move has been the start of many a swindle
+[02:40:22] jg777: Ah! Qc5+...maybe not quite. Need to look at that. I was okay with Qxd2.
+[02:41:08] gavalanche20: (13...Qxe5) e5 looks nice, Qc5+ Kh1 looks like trouble because Nf6 and Bh5 are loose
+[02:41:08] jg777: Reason is e5 Qc5+ Kh1 then Bg6 and maybe I am in a bit of trouble there.
+[02:42:24] gavalanche20: (15...Qd6) Oooor? hmm it's messy
+[02:43:25] gavalanche20: (15...Qd6) e5 Qc5+ Kh1 Bg6 Rg5 with Rf1 coming? h6 doesn't work because it hangs Bg6
+[02:44:41] jg777: I want two moves in a row- Nf3 and Kh1. Unfortunate.
+[02:44:56] mrscribbles: (15...Qd6) make them when your opponent is in the restroom. I had that happen to me once
+[02:45:11] gavalanche20: (15...Qd6) After e5 and Qc5, Ne4 could be a useful tempo one day too
+[02:45:26] mrscribbles: (15...Qd6) So what happens after e5?
+[02:45:26] mrscribbles: (15...Qd6) Oh we're already talking about that
+[02:45:42] mrscribbles: (15...Qd6) also, hi gav
+[02:45:57] gavalanche20: (15...Qd6) Helloooooo
+[02:45:57] jg777: Trying to determine if I can actually play e5 Qc5+ Kh1 Bg6 Rg5 because no h6 (f7 pinned so Rxg6 there).
+[02:47:28] jg777: Yeah lets just go for it, otherwise I think I am losing the e4 pawn and just worse. This way I ride and die with my idea.
+[02:47:44] mrscribbles: (17.Kh1) OK, we're about to find out
+[02:48:14] mrscribbles: (17...Ng4) oh, huh
+[02:49:15] gavalanche20: (15...Qd6) Hm Ne4 and then what?
+[02:49:30] gavalanche20: (17...Ng4) Qe3 I guess
+[02:49:45] funnyanimatorjimtv: white still one move behind
+[02:50:46] funnyanimatorjimtv: hey 18.h3
+[02:51:47] mrscribbles: (17...Ng4) oh nice jim
+[02:51:47] mrscribbles: (17...Ng4) also, hi jim
+[02:52:02] aloo_bhaloo: ne4 qe3 raf1 bf7+ ever something?
+[02:52:18] aloo_bhaloo: *raf1 qxe4 bxf7+
+[02:52:33] mrscribbles: (17...Ng4) hi haloo_baloo
+[02:52:48] mrscribbles: (17...Ng4) and tengurgidsons
+[02:53:34] aloo_bhaloo: hello!
+[02:54:04] mrscribbles: (18.h3) All right, jordan playing the Jim Special
+[02:54:04] aloo_bhaloo: but now bg6
+[02:55:05] mrscribbles: (18.h3) Maybe Bg6 hxg4 Bxf5 gxf5?
+[02:55:36] mrscribbles: (18.h3) then the e pawn hangs of course
+[02:56:21] funnyanimatorjimtv: hi mrscribbles
+[02:56:21] aloo_bhaloo: king looked too king in that line. nf2
+[02:56:37] aloo_bhaloo: must be better though
+[02:56:52] mrscribbles: (19.Kh2) g6 Bxf7+ is too crazy, right?
+[02:57:07] mrscribbles: (19.Kh2) then ... Kh8 Rxh5 gxh5 Bxh5
+[02:57:37] mrscribbles: (19.Kh2) nah too crazy, esp because of that pesky hanging e-pawn
+[02:58:38] mrscribbles: (19...Bg6) I so wish we could sack everything on f7 somehow
+[02:59:09] funnyanimatorjimtv: what jg only has 1 minute left
+[02:59:09] mrscribbles: (20.Rg5) Rg5 h6 Rxg6 would be funny, tho of course black won't fall for it
+[02:59:39] funnyanimatorjimtv: it probably annoys black that they can't play it
+[03:00:10] mrscribbles: (20.Rg5) Give it a shot anyway, maybe Jordan won't see it
+[03:00:10] aloo_bhaloo: qe3 looks inviting..
+[03:00:25] funnyanimatorjimtv: missed mate in 1 gets mated in 1
+[03:00:25] funnyanimatorjimtv: twitch clip
+[03:01:43] jg777: A lot to calculate and I think I am missing to much here
+[03:02:13] funnyanimatorjimtv: https://www.twitch.tv/chesswithjordan/clip/DarkFreezingHorseradishNononoCat-X5IqMxsSEjJj51_n
+[03:03:29] jg777: b5 may be the move here, I do not have a good answer for it.
+[03:04:45] jg777: Yeah, it's just a strong move.
+[03:05:31] funnyanimatorjimtv: still doesnt take away f7 pin. Be2-f3 at least the bishop is a good defender and maybe takes c6 later
+[03:06:17] funnyanimatorjimtv: oh Be2 black had ...Qe3 ouch
+[03:06:32] gavalanche20: He still has it here
+[03:06:32] gavalanche20: Nvm Nf3
+[03:06:47] aloo_bhaloo: but queen sac anyone
+[03:07:18] aloo_bhaloo: qe3 nf3 ne4 re1 qx
+[03:08:03] funnyanimatorjimtv: right white can get the rook in then have to reposition the queen, hope the Rg5 doesnt get trapped
+[03:09:35] jg777: Ra1 is sitting on the sidelines like "coach, put me in, coach! coach! coach!?" :P
+[03:14:55] jg777: struggling to keep the position together and keep some activity here
+[03:15:25] jg777: If I can safely liquidate my e pawn I may be a little happier
+[03:16:42] jg777: Nd2 looks really nice for black, I've run out of defensive ideas for the e pawn.
+[03:17:58] jg777: I guess I could have looked more at Rxg6 hxg6 Re1-maybe stronger.
+[03:20:00] mrscribbles: (24.Rf4) Just checking back in now. What a weird position. Love it
+[03:20:15] jg777: All aboard the precarious bus now, I am on a tight rope
+[03:20:30] mrscribbles: (24...g6) So what happens after g4?
+[03:20:45] leverkuhn: ...Qf2+ would probably be a problem
+[03:21:00] mrscribbles: (25.Re1) true
+[03:21:16] leverkuhn: joining late here, looks like a tense battle!
+[03:21:16] aloo_bhaloo: wanted to make 23..rd2 work, this might allow white more
+[03:21:16] mrscribbles: (25.Re1) hi keverluhn
+[03:21:31] leverkuhn: Hey
+[03:21:31] funnyanimatorjimtv: still 25...Qf2
+[03:21:46] leverkuhn: flac might play 25...Qf2 anyway, it's temping
+[03:22:47] leverkuhn: threatens not just ...Qg3+, but also ...Nd2 with the backwars pin
+[03:23:18] aloo_bhaloo: 2 pieces for the rook might work well for white afterall, e6 threat too
+[03:23:48] leverkuhn: doesn't f1 hang at the end though?
+[03:23:48] leverkuhn: anyway, a different piece has gone to f2
+[03:24:49] funnyanimatorjimtv: crazy
+[03:25:04] leverkuhn: yeah I guess 26...Nd3 now? But 25...Nf2 seemed kinda loose
+[03:25:35] mrscribbles: (26.Nd4) this looks like if you let a four year old put white's pieces wherever they want
+[03:25:35] mrscribbles: (26.Nd4) (just teasing love you jordan)
+[03:26:20] mrscribbles: (26...Nd3) oh, didn't see this
+[03:26:36] mrscribbles: (26...Nd3) never mind, just Bxd3
+[03:26:36] gavalanche20: I can’t with this position
+[03:27:06] mrscribbles: (26...Nd3) There's no case to be made for Nxf5, right?
+[03:27:06] mrscribbles: (26...Nd3) Don't think so
+[03:27:21] funnyanimatorjimtv: he took it
+[03:27:21] leverkuhn: Don't think so
+[03:27:36] guitarspider: (27...Bxd3) Nxf5 would have been the desperation move if nothing else worked
+[03:27:36] mrscribbles: (27...Bxd3) exchange sacs are always worth considering, even if not worth doing
+[03:27:52] funnyanimatorjimtv: Qd1
+[03:28:07] mrscribbles: (28.Qd1) move jordan
+[03:28:07] mrscribbles: (28.Qd1) thanks
+[03:28:07] funnyanimatorjimtv: he did it
+[03:28:07] funnyanimatorjimtv: queen back in the game
+[03:28:22] guitarspider: (28.Qd1) e6 is kind of annoying
+[03:28:22] guitarspider: (28.Qd1) for black
+[03:28:22] mrscribbles: (28.Qd1) Gotta be Bc4 I think
+[03:28:37] gavalanche20: 28. e6 looked annoying
+[03:28:53] funnyanimatorjimtv: 28.e6 Bc4
+[03:28:53] mrscribbles: (28.Qd1) The word I would use to describe Jordan in this game is "slippery"
+[03:28:53] leverkuhn: 28.e6 Qd6 was something too
+[03:29:08] leverkuhn: he has to watch that pin
+[03:30:55] funnyanimatorjimtv: 30.Qg3
+[03:31:10] leverkuhn: I think I would have preferred that to put Nf5 on the cards
+[03:31:10] gavalanche20: We need fulmarsky here to say the line
+[03:31:40] leverkuhn: "nuances, nuances" or "tension on the 64 squares!"
+[03:31:55] leverkuhn: there's a lot of great fulmaskyisms
+[03:32:26] leverkuhn: wow
+[03:32:41] jg777: I don't like my piece configuration. the dark square pieces line up to so many possible tactics
+[03:32:41] funnyanimatorjimtv: o_0
+[03:32:56] leverkuhn: have to way grabbing that pawn didn't cross my mind
+[03:32:56] leverkuhn: *have to say
+[03:32:56] mrscribbles: (30...Bxa2) yes but you have a rellly nice pawn formation. Pawns on b2 c3 d4 and e5
+[03:33:27] mrscribbles: (30...Bxa2) (still kidding love you jordan)
+[03:33:42] funnyanimatorjimtv: maybe hes aiming for rook endgame
+[03:33:57] funnyanimatorjimtv: 31.Qg3 change of plans
+[03:34:13] mrscribbles: (31.Qg3) holy dark squares batman
+[03:34:13] funnyanimatorjimtv: 31.e6 there could have been a rook endgame
+[03:34:28] leverkuhn: maybe 31...Be6, keep it simple
+[03:34:28] jg777: Definitely blundering a lot this game.
+[03:35:29] gavalanche20: Be6 Rf6 Dream of fishing for perp
+[03:35:59] jg777: black wins this endgame so it's all what I can do with that king I think
+[03:36:14] mrscribbles: (31.Qg3) I would agree
+[03:36:30] jg777: there is no way I survive the endgame, so trying to avoid trades and line up something on the king
+[03:36:45] jg777: and I doubt I have the moves available to do that
+[03:37:00] mrscribbles: (31.Qg3) I can foresee scenarios where b3 is a useful move to cut off the LSB from defense of the king
+[03:37:00] mrscribbles: (31...Be6) never mind lol
+[03:37:30] funnyanimatorjimtv: dedication
+[03:37:46] leverkuhn: 32...Rxd4 possible here; that still favors Black somewhat I think
+[03:38:01] aloo_bhaloo: rook sac rook sac
+[03:38:16] leverkuhn: two pawns for the exchange, weak pawns on b2 and e5, attack is dead
+[03:38:16] mrscribbles: (32.Rf6) Jordan might consider Nxe6 fx Rxg6+ next for a perpetual
+[03:38:31] guitarspider: (32.Rf6) Rxd4 is a good move
+[03:39:32] mrscribbles: (32...Rxd4) So what's the idea here?
+[03:39:48] leverkuhn: I'm on a predict-the-move streak
+[03:40:18] jg777: a bit confused there but I'll take it.
+[03:41:19] leverkuhn: maybe 34...a5!?, trade a5 for b2
+[03:41:34] guitarspider: (34.Qa3) b4 also an option
+[03:41:34] leverkuhn: definitely
+[03:41:49] guitarspider: (34.Qa3) Qa1 necessary to defend the b-pawn
+[03:42:05] funnyanimatorjimtv: Qa6-xc6 Rxe6
+[03:42:20] leverkuhn: 34...Bd5 fishing for ...Qd2?
+[03:42:20] leverkuhn: many options
+[03:44:06] mrscribbles: (35.Qe7) Jordan fishing for perpetuals I think
+[03:44:22] mrscribbles: (35.Qe7) seems sensible
+[03:45:23] gavalanche20: Re6 fe6 Rf1...?
+[03:45:38] mrscribbles: (36...Kg7) there's a white e-pawn hanging iwth check
+[03:46:08] funnyanimatorjimtv: ...Qxe5 Kh1 and Qf8# still threatened
+[03:46:24] funnyanimatorjimtv: and the Rd7
+[03:46:24] gavalanche20: Black can also interpose Re6 Qf4+
+[03:46:39] leverkuhn: Black can cover f8 with ...Qd6 at wost
+[03:47:09] funnyanimatorjimtv: ok black may be really nervous
+[03:47:24] leverkuhn: kinda like 38...Qf4+ here
+[03:47:55] leverkuhn: Black can hide on h6 from queen checks with his own queen on f4
+[03:48:10] guitarspider: (38...Qf4+) Rd2 coming too
+[03:48:41] funnyanimatorjimtv: Qxc6 guards g2 then e6 e7
+[03:49:26] leverkuhn: yeah the
+[03:49:57] leverkuhn: Re1 is a very strong piece behind the passed pawn and covering the back rank
+[03:50:12] leverkuhn: Black needs to attack it in a good way
+[03:50:27] leverkuhn: these are the kinds of positions where you need another 30+ min
+[03:51:13] gavalanche20: It’s ok they’ve made it to move 40 so FLAC just needs to hit his clock and they’ll have it :P
+[03:51:13] leverkuhn: 40...Qg3 so that I have 41.Qe4 Rxg2!
+[03:51:13] leverkuhn: hehe
+[03:51:44] guitarspider: (40.Qxc6) yeah, this is not so simple
+[03:51:59] leverkuhn: 40...Qg3 41.Qf6+ Kh6 42.Qf8+ Kh5 looks okay
+[03:52:29] funnyanimatorjimtv: queens are crazy, the Qf2 guards f8, h4 and a7
+[03:52:44] guitarspider: (40...Qf2) now Qe4 looks relatively clean
+[03:52:44] leverkuhn: 41.Qe4 and there's no ...Rxg2 trick
+[03:53:15] funnyanimatorjimtv: Qe4 Rd4
+[03:53:30] leverkuhn: yeah that's probably his plan
+[03:53:30] funnyanimatorjimtv: mooooove dont lose on time
+[03:53:45] funnyanimatorjimtv: he moved
+[03:54:01] leverkuhn: don't like going passive with the rook
+[03:54:46] guitarspider: (41.Rg1) @FunnyAminatorJimTV avoid fulmarsky games, they'll give you a heart attack with the time management :D
+[03:54:46] funnyanimatorjimtv: lol
+[03:55:02] leverkuhn: I think Black can take b2, the e-pawn won't queen now
+[03:55:32] funnyanimatorjimtv: its scary cause you might have human brain lag for 5 seconds and lose on time (me)
+[03:55:32] jg777: Making a lot of bad moves on my part here, but trying to hang in here. I think the passive rook now loses for me though. Rc1 perhaps?
+[03:55:47] jg777: Not sure, I was just trying to make sure I am not getting checkmated in the next few moves to a silly oversight.
+[03:57:19] funnyanimatorjimtv: e-pawn survived the whole game till now
+[04:00:22] leverkuhn: 44....Qf5!? might be interesting here; no check for White
+[04:00:52] funnyanimatorjimtv: cant take any pawns
+[04:01:07] leverkuhn: ohh White can't hold this
+[04:01:07] funnyanimatorjimtv: 46.Rb1 gets some pawns
+[04:01:07] guitarspider: (45...gxf5) unfortunate
+[04:01:22] funnyanimatorjimtv: 46...Re5 e7 a6
+[04:01:38] leverkuhn: 46...a6 and taking e6 will defend it, oof
+[04:02:08] guitarspider: (46...a6) will take a few moves but this is just conversion now
+[04:02:08] funnyanimatorjimtv: some people got draws vs 2 pawns
+[04:02:23] jg777: Ouch. Ra1 there...
+[04:02:39] jg777: Well this is definitely over.
+[04:02:54] leverkuhn: 46.Ra1 Rxe6 47.Rxa7 Rb6! was also easily winning, rook behind passed pawn
+[04:02:54] leverkuhn: but it was a better try
+[04:03:09] jg777: Yeah, no reason to play this on. Black found the better moves.
+[04:03:09] funnyanimatorjimtv: gg
+[04:03:24] guitarspider: gg
+[04:03:24] leverkuhn: yeah flac played the rook-and-queen position beautifully
+[04:03:24] leverkuhn: gg!
+[04:03:55] mrscribbles: gg
+[04:04:10] mrscribbles: Jordan you still did a good job keeping alive, finding tricky moves, staying active
+[04:04:40] funnyanimatorjimtv: 31.b3
+[04:05:11] jg777: It was fine, I played way to many bad moves to deserve anything but a loss this game. I felt it was not my game early on. :)
+[04:05:41] leverkuhn: did you consider 41.Qe4 jg?
+[04:05:41] jg777: Yeah, Ne5 was just so bad.
+[04:06:27] guitarspider: I think that's defeatist Jordan, Qe4 was fine for you. :)
+[04:06:27] jg777: Move 41? Yeah I just lost my nerve. I wasn't seeing anything tonight, Qe4 makes way more sense than Rg1 for sure.
+[04:07:28] jg777: I knew Rg1 was losing, or at least suffering a draw at best, but somehow I just saw a ghost for Qe4 or whatever.
+[04:08:13] jg777: Actually not even sure what I was thinking was wrong with Qe4, but the brain is done for the day and it was trying not to immediately lose
+[04:08:44] jg777: Anyway Ne5 is a doosy early on. :P
+[04:08:59] leverkuhn: did you consider 25...Qf2 flac?
+[04:08:59] funnylikeaclown: haha id seen smothered mate from afar and blitzed ng4 to throw away the whole advantage
+[04:09:14] funnyanimatorjimtv: another example of a great game to watch during the league, well played
+[04:09:14] leverkuhn: we all wanted it in chat
+[04:09:30] funnylikeaclown: yeah sorry just scrolling
+[04:10:00] jg777: Anyway, Ng5 and I thought Nb6 held fine, I guess I should have just played it anyway since Ne5 surely was bad.
+[04:10:30] funnylikeaclown: i did see qf2 and spent some time
+[04:10:30] funnylikeaclown: trying to remember what i miscalculated
+[04:11:16] leverkuhn: I don't know if 25...Qf2 was good, but it looked very tempting at least with the backwards pin on f4
+[04:11:31] funnylikeaclown: yeah i don't know why
+[04:12:17] jg777: Oh I thought Qf2 was that move
+[04:12:17] jg777: I was trying to work out what I was going to be doing there
+[04:12:32] leverkuhn: well really nice game guys, I joined an hour and a half late and still got a great show!
+[04:12:32] funnylikeaclown: i had seen it a move before even but thought i'd throw in g6 to secure the bishop
+[04:12:47] funnylikeaclown: thanks all for watching
+[04:13:03] funnylikeaclown: good game jg777, thanks and good luck with your season
+[04:13:03] jg777: Okay, it's late and I gotta get up in 4 hours, cheers all
