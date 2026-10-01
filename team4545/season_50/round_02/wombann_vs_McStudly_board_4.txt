@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/leKyKX1C
+White     : wombann
+Black     : mcstudly
+Time      : 45+45
+Captured  : 2026-10-01 02:56:57 UTC
+Game ended : 2026-10-01 01:36:47 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[23:04:43] genturgidson: Go wombann!
+[23:04:58] mcstudly: 7) a5, I had a feeling he would play this line. I typically play Nc6 here.
+[23:05:13] genturgidson: Queen's Gambit Accepted is rare these days.
+[23:05:44] mcstudly: 7) and TBH I don't really understand the nuance between nbd7 and Nc6, other than a5 leaves b4 weak and the knight can jump there.
+[23:17:25] rajjsinghh: yay I'm here in time for the game
+[23:18:41] mcstudly: 9) thinking cxd4 and Bd6 followed by 0-0.
+[23:18:41] rajjsinghh: QGA feels like a funny choice. Masters db has one game that went Bd6 (black won)
+[23:20:27] mcstudly: 9) actually, maybe just b6 followe by Qxb6
+[23:21:13] genturgidson: Hey RajjSinghh. Commentary team assembled!
+[23:21:28] genturgidson: Stayed up to midnight for this one.
+[23:21:44] rajjsinghh: doesn't this drop a6 after ab?
+[23:22:29] tbest: hm, well ab Nxb6 Bxa6 c4 maybe. Then b on a6 is pinned
+[23:23:45] genturgidson: I just saw Qxb6 and thought it held.
+[23:23:45] rajjsinghh: thanks TBest, I'm too lazy to do tactics
+[23:25:47] mcstudly: 11) ... Bb7, Na4 Qc6, Ne5 seems bad
+[23:26:02] mcstudly: 11) oh that would be mate.
+[23:26:33] genturgidson: lmao
+[23:26:48] genturgidson: Very bad!
+[23:32:54] mcstudly: 11) I really just want to castle so I can unclench my cheeks.
+[23:40:15] mcstudly: 13) hmm, didn't expect dxc5. Does it just help me untangle? ...Nxc5, Nxc5 Bxc5? What am I missing
+[23:41:31] tbest: maybe there is some b4 idea
+[23:44:49] mcstudly: 16) OK, I think this is a critical position. let me see if I can not blunder the game.
+[23:46:05] mcstudly: 16) Qb6 is most natural but I lose pressure on the g2 diag
+[23:46:36] mcstudly: 16 also gives white Ne5
+[23:48:07] mcstudly: 16 I suppose I can play Qd6, eyeing d2, and covering e5, b4, and a6. that threatens Bxf3 with Qxd2
+[23:49:39] mcstudly: 16) also just Rfc8
+[23:55:14] mcstudly: 17) I think we play ...Ne4 here.
+[00:04:22] mcstudly: 20) rip.
+[00:05:38] mcstudly: 20) So either Bxe3 or Rxd3
+[00:07:55] tbest: there are other moves too right, like Nxf2
+[00:09:11] mcstudly: 20) looking like yolo Bxe3
+[00:09:57] genturgidson: Go wombann!!! Yes!
+[00:10:12] genturgidson: Bxe3 is sly.
+[00:10:58] tbest: feels almost unfair, that white can doge the complexity
+[00:10:58] tbest: with just bxe4
+[00:10:58] mcstudly: 20) 21. Bxe4 Bxe4, Qxe4 Bxc1, Rxc1, Qxb2. Hopefully I can draw.
+[00:12:29] tbest: Hopefully not Qxb2 at the end there, there is a backwards moving Bishop
+[00:14:00] mcstudly: 20) pretty sure 21. Bxe4 or Bc7! Didn't see Bc7 until now tho, RIP
+[00:15:16] rajjsinghh: what's the idea if white just accepts the bishop with 21. fe
+[00:15:47] rajjsinghh: ah, pxb qxp ch k-r1 qxb
+[00:17:03] genturgidson: pxb?
+[00:18:04] genturgidson: Oh lazy notation for pawn takes bishop, I was thinking pawn takes smth on b file haha.
+[00:18:34] rajjsinghh: I've been reading too many books in descriptive notation haha
+[00:18:50] genturgidson: It's hard to decipher for me lol.
+[00:18:50] tbest: x x + r x
+[00:18:50] tbest: I made the notation even lazier :D
+[00:19:35] tbest: descriptive is suprisingly usable, compered to how confusing it sounds
+[00:20:21] tbest: they are good ( often free ) books, as copyright has expired
+[00:20:21] rajjsinghh: it's great as long as you don't have to disambiguate pieces :D
+[00:20:36] genturgidson: 21.Bxe4 good! Go wombann!
+[00:31:47] rajjsinghh: i feel like white is better but I don't trust my positional understanding
+[00:32:02] mcstudly: 26) I guess I'm just moving pixels waiting for my next blunder lol. Don't see how I can generate any form of counterplay.
+[00:33:18] genturgidson: Black maybe can try 26...Qc4 hope chess?
+[00:36:51] mcstudly: 27) got excited, thought Rxd4 worked
+[00:41:10] rajjsinghh: I mean the queen being on a1 feels like a massive improvement to when it was on e4
+[00:42:41] rajjsinghh: I'm less worried about an attack now, plus the attack and activity is nice
+[00:43:58] genturgidson: What does white actually do in this position? Rxd4 is really annoying.
+[00:44:43] rajjsinghh: Nf3 is pretty simple, though
+[00:44:43] genturgidson: Bd2??
+[00:44:59] genturgidson: Woah.
+[00:45:14] genturgidson: That all happened so fast.
+[00:45:44] rajjsinghh: black also has back rank weaknesses so it's all forced :/
+[00:45:59] genturgidson: Yeah, true. Bd2 somehow wasn't on my radar so just surprised.
+[00:47:00] rajjsinghh: I don't know what happens in this endgame if all the pawns come of
+[01:07:49] mcstudly: 50) maybe Qc7 and then Rf5+ does something. idk.
+[01:13:39] genturgidson: I don't really know how white breaks though.
+[01:15:26] genturgidson: Maybe it's targeting some dark square weakness on g7?
+[01:20:47] genturgidson: Ok - that looks like the breakthrough. Slip up from black.
+[01:21:33] genturgidson: Gobbling up every pawn.
+[01:21:33] genturgidson: Go wombann!
+[01:22:03] genturgidson: Still not a total automatic conversion. Game will go on.
+[01:36:17] genturgidson: oof, gg!
+[01:42:37] wombann: When 20..Bxe3 was played i first thought I was lost. Oh my
