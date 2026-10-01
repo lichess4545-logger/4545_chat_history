@@ -1,0 +1,50 @@
+Lichess game chat log
+Game      : https://lichess.org/ZAw5jKkp
+White     : nubro
+Black     : knusbrick
+Time      : 45+45
+Captured  : 2026-10-01 13:32:53 UTC
+Game ended : 2026-10-01 12:12:44 UTC
+Messages  : 40
+────────────────────────────────────────────────────────────
+
+[11:41:46] jcarmody: I wonder if they're calculating 13.Nxb5?
+[11:41:46] jcarmody: What'd I say?!?!
+[11:42:17] jcarmody: Go Nubro!
+[11:43:18] jcarmody: I don't trust it, though.
+[11:46:51] jcarmody: Nah. I thought Rb8 pinned the B, but it doesn't.
+[12:12:14] jcarmody: gg
+[12:12:44] tbest: gg, clean game
+[12:13:00] nubro: Thanks, was a fun attack but it felt risky
+[12:13:30] tbest: 8 f3 then g4 and h4 would have been risky :D
+[12:13:45] knusbrick: Nice job breaking my structure, I thought it was stable
+[12:14:16] knusbrick: And once I realised it wasn't, I had to commit to try and prove it
+[12:14:31] nubro: 8. f3 looked risky indeed, but engine likes it. Haha
+[12:14:46] nubro: Really was not 100% sure about 13. Nxb5 but it worked out
+[12:15:01] nubro: Your other pieces were not developed, mine were and I had an open file
+[12:16:33] nubro: I kinda missed 20..Kxc7 tbh, but saw it won the queen right after I played it
+[12:17:34] knusbrick: Yeah, I missed that you could life the other rook, otherwise I think it would've held
+[12:18:34] nubro: Yes, once I saw if I gave up my rook and played Rc1 it was about the same but I had an extra attacker since the rook was pinned
+[12:18:34] knusbrick: Nice attack, again
+[12:19:05] nubro: I also would've played 16Kd7
+[12:19:20] nubro: Like you did, but engine does not like it
+[12:20:06] knusbrick: Honestly, my logic was simply that if I back down from the exchange, I'm lost anyway
+[12:20:06] knusbrick: If I find a way to hold it, then I'm not
+[12:21:22] knusbrick: So even if I suspected that backing down was better, it wasn't really an option in my eyes
+[12:21:22] nubro: Yes, if you could've held I would've been in trouble. But I think because your f-knight could not join the fun and your bishop and rook ...
+[12:21:22] nubro: ...were stuck it was hard
+[12:22:07] nubro: I would've played the same way as you, not give back the piece
+[12:23:39] knusbrick: But that's a good learning experience, I know that the 4 pawn plus knight structure that I made on move 12 is more fragile than I thought
+[12:24:09] knusbrick: now I know
+[12:25:40] nubro: Did you debate 13. Na5? I guessed that was your plan if I did another move than Nxb5
+[12:28:28] knusbrick: I saw it later. At that point I mostly thought "no way he can just take b5" and I missed the second rook lift while calculating that
+[12:31:30] nubro: Did you calculate all the way until Rfc1? Nice!
+[12:31:30] nubro: My first idea was Qa4 if you'd play Na5
+[12:32:31] knusbrick: Yeah, I calculated up to the trade-off on c1 without considering that you could exploit the pin for an in-between move
+[12:32:31] knusbrick: *on c3
+[12:32:46] knusbrick: c6
+[12:32:46] knusbrick: damn
+[12:38:06] nubro: Hahaha, yes I know what you mean. I just saw you could only bring in R, Q and K to defend the N. And I saw I could match it which would'...
+[12:38:06] nubro: ...ve been a lot of pressure. I only saw Rxc6 when I played it. Engine prefers to play it on move 16
+[12:42:24] knusbrick: Anyways, I'll be off
+[12:42:24] knusbrick: Good game and thanks for the discussion!
