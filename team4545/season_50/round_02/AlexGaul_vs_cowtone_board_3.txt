@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/ZcXa7z4f
+White     : alexgaul
+Black     : cowtone
+Time      : 45+45
+Captured  : 2026-10-01 20:53:16 UTC
+Game ended : 2026-10-01 19:33:06 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[18:06:08] joonaf: go cow!
+[18:07:09] joonaf: 2.Qd3, interesting. Is this a common move? don't remember seeing it
+[18:25:25] simonwashere: Go cowtone!
+[18:40:39] nightsub: Go Alex!
+[18:52:35] joonaf: What a strange game
+[18:52:50] simonwashere: I would castle but who knows what the correct move really is
+[18:54:37] simonwashere: possibly Nd5 or Bd5
+[18:57:10] simonwashere: AACtrl, you have a high rating, what is going on here?
+[19:06:03] losingisthebest: go alex
+[19:09:51] aactrl: (22.Qxa7) it goes up and down in cycles
+[19:21:35] joonaf: Maybe 27..Nxh4, threatening ..Rxd2, Rxd2, Nf3+ ?
+[19:21:50] ttsgosadow: (27.Rd3) Quite the time disparity
+[19:23:24] joonaf: Oh right, Nd4 stops ..Nf3+
+[19:24:41] joonaf: 28.. Rxd2, Rxd2, Bxb3, Nxd3, Nf3+
+[19:25:58] joonaf: *Nxb3.  Oh but Nxb3 defends rook on d2
+[19:26:44] joonaf: But Black would be up two pawns?
+[19:32:51] ttsgosadow: (31...Ne5) Wild game!
+[19:32:51] simonwashere: gg
+[19:33:06] cowtone: gg, what was that
+[19:33:21] cowtone: was there Nc4 at the end..
+[19:34:07] cowtone: blitz vs classical, opponent clearly better had they used time
+[19:34:37] cowtone: good luck counting that game when playing with increment only
