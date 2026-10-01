@@ -1,0 +1,68 @@
+Lichess game chat log
+Game      : https://lichess.org/8ZiJaSYm
+White     : sixtin06
+Black     : ztraynor
+Time      : 45+45
+Captured  : 2026-10-01 23:27:43 UTC
+Game ended : 2026-10-01 22:07:30 UTC
+Messages  : 58
+────────────────────────────────────────────────────────────
+
+[20:06:06] ztraynor: let's not make the same mistake we made OTB a couple weeks ago
+[20:07:54] ztraynor: would like to see Be2/Bd3
+[20:07:54] ztraynor: oh brilliant, great timing
+[20:08:39] ztraynor: b5 & Bb7 coming
+[20:09:10] ztraynor: and probably Nbd7 prepping c5
+[20:11:30] ztraynor: there are lines where the exchange sac on a8 works but (1) haven't prepped that in a while and (2) I don't think it works after 0-0
+[20:12:16] ztraynor: so perhaps b5 to bait a4 and then b4 forcing Nb1, a5 and even maybe Ba6
+[20:14:48] hthree: (8.0-0) looks decent for Black to me, no idea where ztraynor could sac an exchange here
+[20:16:04] sixtin06: fully expected a Nimzo or Benko. RIP my prep
+[20:17:35] hthree: next few moves will be very exciting to see how the queenside develops
+[20:19:22] fexxox: looks like at least equality for black maybe even more
+[20:21:09] ztraynor: oh and it super doesn't work here because the b8 knight would hang thanks to the f4 bishop. a4 b4 it is, then
+[20:25:43] ztraynor: takes takes Bb7 covering the exchange, what's White's plan here?
+[20:26:29] ztraynor: just wondering if b4 first does anything or is just flashy and dumb
+[20:35:37] ztraynor: would have preferred the ability to play Nbd7 but c7 needs to be dealt with first IMO
+[20:36:38] ztraynor: I'm a little concerned that I'm not quick enough to defend the eventually passed a pawn
+[20:38:09] ztraynor: that's either clever, or an example of why move confirmation should be enabled... and unfortunately I think it may be clever
+[20:44:45] ztraynor: hang on, I've been completely neglecting Nbd7 here after singing its praises earlier... hm
+[20:46:47] ztraynor: likely too much time burned there
+[20:47:02] ztraynor: expecting Nx but dx lets me swap queens
+[20:47:33] ztraynor: but like, we desperately need activity here
+[20:51:52] ztraynor: I'm hesitant to trade Bs here but I kinda think it actually helps me?
+[20:52:22] ztraynor: like, there IS going to be a 2v1 over there
+[20:56:41] ztraynor: the horseys ride for the d5 square
+[20:57:11] ztraynor: this feels distinctly calmer with all bishops off
+[20:57:11] ztraynor: secular chess only today
+[20:58:43] ztraynor: is it b4 time?
+[20:58:43] ztraynor: (insert "before" pun here)
+[21:01:15] fexxox: b4 might be a mistake here cause of Na4 Nc5 and the weak c7 pawn
+[21:02:47] ztraynor: not really in love with the time situation here
+[21:03:02] ztraynor: he says for the 200th round running...
+[21:10:08] fexxox: Rc5 and double on the c-file and white might be able to hold
+[21:10:23] ztraynor: new goal: get the knights swapped
+[21:10:39] ztraynor: though if I can get to c3 I don't mind that either
+[21:19:31] ztraynor: I think we have a problem here in the form of the c6 square
+[21:24:51] ztraynor: let's not hang a knight fork... oh and let's not hang that one either... or that one... uh oh
+[21:27:54] ztraynor: man and I thought Qe8 a few moves ago was too passive... absolute yikes
+[21:35:16] ztraynor: only thing making this possibly savable is the passer
+[21:37:18] tbest: well this will be a fun rook endgame
+[21:39:04] ztraynor: idk if this is the right approach by White tbh
+[21:40:05] hthree: (32...Rc3) Black will get a4 now
+[21:42:07] ztraynor: shoot we might need to win this somehow
+[21:42:22] tbest: yeah... it's not. Needed to go rc1 and wait for b3, before rb1
+[21:43:38] hthree: I feel like both are rushing a bit here
+[21:44:39] ztraynor: what's happening here?
+[21:45:40] hthree: Rc2
+[21:45:55] hthree: let's go!!!!
+[21:49:44] tomb85: Go Six!
+[21:50:14] hthree: (41.Rb1) Rd2+ looks interesting to me
+[21:51:00] ztraynor: keep coming up one tempo short calculating QS pushes
+[21:55:34] hthree: (44.Rb2) what about Rb4 now?
+[21:58:37] ztraynor: please trade rooks :)
+[21:59:23] hthree: (46.Kf4) I think Black should stop the pawn with Ke8
+[22:00:08] ztraynor: idk y'all, suddenly this doesn't look as lost for me as it did 10 moves ago
+[22:00:23] hthree: now it should be easy for Black
+[22:01:09] ztraynor: I genuinely want to know what 44.Rb2 was
+[22:07:15] tomb85: Gg both
+[22:07:45] hthree: gg
