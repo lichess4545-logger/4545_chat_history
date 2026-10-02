@@ -1,0 +1,114 @@
+Lichess game chat log
+Game      : https://lichess.org/aUjc6AG5
+White     : ecoarrivazumashoomzo
+Black     : zubenelgenubi
+Time      : 45+45
+Captured  : 2026-10-02 16:37:24 UTC
+Game ended : 2026-10-02 15:17:11 UTC
+Messages  : 104
+────────────────────────────────────────────────────────────
+
+[13:04:20] mrscribbles: (1.b3) Good luck zube! I'm playing my own game so can't stay
+[13:07:54] versaumnisgrund: Go eco!
+[13:07:54] rapportmamedyarov: (2...d5) go zoomies
+[13:13:44] jfiras: Good luck mashoomzo !
+[13:13:44] basyaar: (3.f4) Go Zube!
+[13:14:14] basyaar: (3.f4) seems an interesting idea. Not familiar with b3 at all
+[13:15:00] silkthewanderer: Go Zube
+[13:15:00] basyaar: Hi Firas
+[13:15:15] jfiras: hey basyaar !
+[13:15:15] basyaar: familiar with this line?
+[13:15:31] marekw78: go go Eco :)
+[13:15:31] jfiras: it might be the 1.f4 setup but not the same order
+[13:15:46] basyaar: ah ok
+[13:15:46] jfiras: especially if Nf3 etc
+[13:16:01] basyaar: hmm
+[13:17:17] silkthewanderer: Tanking at move 3 is very justified. This setup can get quite risky for both sides
+[13:18:03] silkthewanderer: g6 makes sense in so far that it tries to get a reverse Dutch
+[13:20:35] versaumnisgrund: c5 and I like blacks setup so far
+[13:20:51] silkthewanderer: Double fianchetto and c5 are typical and then the battle for e5 will start
+[13:21:21] silkthewanderer: In the true Dutch White will always get through to e4 eventually and I assume the same applies here
+[13:22:22] silkthewanderer: Maybe include Bg7 early so you can always unpin with one move
+[13:22:37] silkthewanderer: Then c5, b6, Bb7 in that order I think
+[13:23:08] silkthewanderer: Then comes the decision based on the setup employed by White.
+[13:23:54] versaumnisgrund: I think I had this position before with black. Engine likes c5 asap, if I remember correctly. Bg7 first is also fine
+[13:24:55] silkthewanderer: It is possible that engine wants to grab space first before White plays d4
+[13:24:55] versaumnisgrund: Yes
+[13:26:26] silkthewanderer: Anyway, since we are the ones who need to catch up, this opening is something we should be very happy to see
+[13:32:31] pineapplechiffoncake: go shoomzooo!
+[13:42:57] zubenelgenubi: hi everyone, I wasn't expecting 1.b3 so I didn't go for a var. I've been playing recently- afraid of prep, I haven't checked it at all
+[13:43:28] zubenelgenubi: so this has been move by move alreeady by move 1
+[13:44:59] zubenelgenubi: glad to see eco also spending some time
+[13:48:02] silkthewanderer: Bg4 is something that might surprise them.
+[13:48:32] silkthewanderer: Right now I don't understand its purpose since White wants to put a knight on e5 anyway
+[13:49:18] silkthewanderer: Is Ne5 Nfd7 the idea?
+[13:50:04] silkthewanderer: Even then, Ne5 Nfd7 d4 and I am actually quite happy as White
+[13:52:51] versaumnisgrund: Nfd7 Bg2
+[13:55:08] versaumnisgrund: What am I talking
+[13:55:39] parziwal08: Go eco! I like 1.b3
+[13:55:39] versaumnisgrund: Nxg4 and the bishop on g7 is undefended
+[13:59:12] silkthewanderer: White gets to entrench a classical Pillsbury knight now with d3 any Nd2 I guess
+[13:59:58] silkthewanderer: Unless Black is going for Nd7 and Nxe5 right now
+[14:04:02] silkthewanderer: Be4 is a boos move. Very important to have it available
+[14:04:32] silkthewanderer: Might have been the only love to not be worse but now I like Black better already
+[14:06:03] silkthewanderer: Objectively I think this is still in the range within +- 0.5 but White has the harder choices to make
+[14:08:21] versaumnisgrund: I'm afraid this might be already a bigger advantage. We will see...
+[14:12:09] silkthewanderer: White can go Bf3 and retain most stability
+[14:12:55] silkthewanderer: Then Bxf3 Nxf3 or Nbd7 Nxd7 Qxd7 Bxe4 are still oka
+[14:15:58] silkthewanderer: Nf3 is fun. At the very least it tempts Black to overthinn
+[14:16:13] versaumnisgrund: I know similar positions in QID. Do you think d4 Bxd4 Nc6 might be interesting
+[14:16:59] silkthewanderer: I dont think Black gets enough for the pawn
+[14:17:14] silkthewanderer: dxc bxc b6 would be my Blitz move
+[14:17:44] silkthewanderer: c6 is also very fine
+[14:18:15] silkthewanderer: d3 Bxf3 Bxf3 e6 and just enjoy the better atructure
+[14:30:27] silkthewanderer: d4 is fine. And now Black can just play e6 Nbd7 and enjoy the positional advantage
+[14:30:27] jfiras: ooh this is aesthetic frop white
+[14:31:12] silkthewanderer: You think so? I am very happy for Black
+[14:31:43] silkthewanderer: Black gets rid of the weak bishop, fortifies everything else and White has weak squares on both wings
+[14:32:13] silkthewanderer: Which means that Black is very unlikely to get attacked and has time to develop
+[14:32:13] jfiras: just a good lookingbposition haha, i probably prefer black yeah
+[14:32:59] silkthewanderer: dxc4 is something I don't like as much though. Keeping things closed was very fine
+[14:35:16] jg777: What’s going on all! Zuben and eco playing a game is going to be a fun one!
+[14:35:31] jg777: Ng4 and Qa5 look interesting to me
+[14:40:37] basyaar: Ng4 was a good candidate but now after dxc4 and Nc3 looks difficult; seems white now has breathing space for pieces
+[14:43:09] silkthewanderer: White even has e4 to play for very soon
+[14:43:25] silkthewanderer: With pawns on b3 and d5 this would be a lot nicer
+[14:43:40] basyaar: yes
+[14:45:11] basyaar: black needs an active plan; all center squares are controlled by white pawns
+[14:45:57] silkthewanderer: 14. ...c5 is the best chance I think
+[14:46:12] basyaar: I was thinking of sacking a piece; Qb6, Nxe4 and Bxd4+ if 0-0
+[14:46:12] silkthewanderer: c5 d5 e5 being the idea
+[14:46:43] silkthewanderer: a6 is too slow I fear
+[14:46:43] basyaar: yes
+[14:47:13] basyaar: but e5 give shope to play c5 but now b7 is weak
+[14:47:44] basyaar: oh Ba3
+[14:47:59] basyaar: Qa5
+[14:48:29] basyaar: now c5 should help
+[14:48:44] basyaar: but Bxb7
+[14:57:22] basyaar: Nxc5, Bxc5+ and then Bd4?
+[14:57:22] basyaar: oh
+[14:59:39] basyaar: what is black's idea?
+[15:00:10] basyaar: ok d4 pawn
+[15:02:42] zubenelgenubi: one of the worst games by me in the league, wp eco
+[15:02:42] jfiras: Rx ?
+[15:02:57] versaumnisgrund: Yes
+[15:03:43] versaumnisgrund: Rxd4 should work
+[15:03:43] bumbling_bozo: Go Eco!
+[15:03:58] versaumnisgrund: On move 24
+[15:03:58] jfiras: yeah i think so, bishop pin
+[15:04:14] basyaar: well spoted
+[15:09:03] silkthewanderer: Bit of a longshot :D
+[15:09:34] silkthewanderer: Just Kh1 is winning though
+[15:10:20] jfiras: Ah now i see the threat
+[15:10:20] silkthewanderer: Kh1 exf5 Qg3+ gg
+[15:10:35] silkthewanderer: gxf5
+[15:11:51] silkthewanderer: Qxd4 Rxd4 gxf5 Rd8 was another line
+[15:16:25] versaumnisgrund: gg
+[15:16:25] jfiras: gg !
+[15:16:40] zubenelgenubi: gg wp
+[15:16:40] basyaar: gg
+[15:17:56] versaumnisgrund: 9... d4 worked!
+[15:17:56] zubenelgenubi: that fell apart fast after e4
+[15:19:43] zubenelgenubi: should have played 10....c5
+[15:20:29] zubenelgenubi: also 11...c5
+[15:22:15] zubenelgenubi: I wanted to play 12...Qb6  and chickened out
