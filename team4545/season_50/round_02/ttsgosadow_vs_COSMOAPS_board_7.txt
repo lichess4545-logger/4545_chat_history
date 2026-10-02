@@ -1,0 +1,37 @@
+Lichess game chat log
+Game      : https://lichess.org/MxMfrPwC
+White     : ttsgosadow
+Black     : cosmoaps
+Time      : 45+45
+Captured  : 2026-10-02 11:23:35 UTC
+Game ended : 2026-10-02 10:03:25 UTC
+Messages  : 27
+────────────────────────────────────────────────────────────
+
+[08:32:15] robertjackson: Good luck Tim
+[08:33:01] ttsgosadow: (6.d3) so far its going into prep - next up will be castle
+[08:36:04] ttsgosadow: (7...Na5) not sure what best play was here - getting my Rook a lane seems good
+[08:49:31] timothyha: (11...gxf5) is it Qh4 now?
+[08:54:36] timothyha: (12...Bxf5) now h7 is safe again, so I guess exf5 wasn't necessary
+[08:59:41] ttsgosadow: (13.Qh4) long think, but also there was someone at the door
+[09:00:27] ttsgosadow: Thinking a developing move could be good too, but I really want to try this more agressive style - so picking the moves that suit ...
+[09:00:27] ttsgosadow: ...that more - worst case I learn from it
+[09:09:51] timothyha: (14.Bh6) fun check on g5 actually
+[09:10:52] ttsgosadow: (14.Bh6) also considered Ng5, but think exchanging black bishop first gives more space and check vectors
+[09:11:23] ttsgosadow: I have to be sure not to give him something from the Qb6+ move he can play as in between move
+[09:15:26] timothyha: (15.Qxh6) ok we can bring two rooks
+[09:18:44] hpors: Go Tim !
+[09:27:07] timothyha: (16.Rae1) a4 is faster by one move :)
+[09:28:38] timothyha: (16...Ng4) and Ra4 would stop this move
+[09:29:09] timothyha: (16...Ng4) but White should still be better, go @ttsgosadow
+[09:40:49] timothyha: (17...Ne5) get that knight and pawn, bring in the rooks?
+[09:45:39] timothyha: (18...f6) Qg3, take the knight, take the bishop and win?
+[09:51:29] timothyha: (20...Kh8) still the same plan would work
+[09:51:44] timothyha: (20...Kh8) Black's running in the wrong direction
+[09:52:15] timothyha: (20...Kh8) if Black opens the f-file I think Qh4 and Qxe7+ puts the king back
+[09:52:45] timothyha: (20...Kh8) Kg8 best defense though
+[09:54:32] timothyha: (21.Rf4) maybe this works, too
+[10:03:10] timothyha: (25...Rae8) oh dear
+[10:03:10] timothyha: (25...Rae8) Qh7 gift
+[10:03:25] jcarmody: gg
+[10:04:11] timothyha: I was just calculating Rg7 Rxg7 Kxg7 then Q+NN try to win
