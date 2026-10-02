@@ -1,0 +1,88 @@
+Lichess game chat log
+Game      : https://lichess.org/fQ2O05vc
+White     : micomps
+Black     : chessyesmen
+Time      : 45+45
+Captured  : 2026-10-02 12:26:29 UTC
+Game ended : 2026-10-02 11:06:20 UTC
+Messages  : 78
+────────────────────────────────────────────────────────────
+
+[09:01:25] chessyesmen: (5) well, I had just looked at 5.c4 here, so there goes my prep
+[09:01:56] chessyesmen: although I don’t think my opponent has played this much, so familiar waters for me
+[09:03:58] micomps: (7.Bxf3) so far, all in prep. I know black likes playing the Scandi so hopefully get the type of game I've prepped for
+[09:04:43] chessyesmen: little bit of context - I have to leave for a trip in about 2 hours, so I want to keep this as tactical as possible
+[09:05:29] chessyesmen: booked this just this morning, so couldn’t reschedule. Hope I get the chance for the game to finish quickly
+[09:10:33] chessyesmen: in the hopes of a fun game, Bg5 looks nice, although I would normally play Bf6 here
+[09:17:55] micomps: (13.Rxc1) reasonably happy here, well developed, got a bishop vs a knight
+[09:18:41] micomps: want to play something like c4 and activate my queen, keep black crammed in a little if I can
+[09:21:59] micomps: (13...Nf5) hmm, c4 looks shaky now, didn't see Nf5
+[09:22:45] micomps: now black has no bishops, and the e4 knight controls lots of k-side squares, wonder if I can get away with g3
+[09:23:15] micomps: looks a bit weird but helps to cover both f4 and h4, both squares the knights could hop on to
+[09:23:15] chessyesmen: looking forward to Nc5 b6 c4 Nf4 if it happens. Love my knights, would gladly give up an exchange for the activity
+[09:23:46] micomps: needs some thought, but I don't think it'll cause too much damage to my k-side structure, esp with Ne4 and Bf3
+[09:32:23] ventricule: Go chessyesmen!
+[09:32:54] micomps: (15.Rc2) I am realising c4 doesn't work with that knight on f5, that's annoying
+[09:41:32] chessyesmen: might have been hasty here, but I think this was my chance for a break
+[09:43:34] micomps: (19.Bg4) I initially thought dxe might be nice but can't win the pawn as Nf6+ is covered by Queen and Knight
+[09:46:52] chessyesmen: hmmmm, h6 or f6?
+[09:48:23] chessyesmen: ah damn, I think f6 was better
+[09:49:40] micomps: (19...h6) I think if I go back to c1 now with the Q, I am threatening both c4 and Bxf5...
+[09:50:41] micomps: Qc1 exd, BxN,gxb, Qxh6 fxN, Rxe and....that must be good? Not forced though
+[09:51:11] micomps: no, f5 at the end is a pain
+[09:51:41] micomps: but it might be there is something better on the way to that position. Black might not even play exd next move
+[09:51:41] micomps: I don't think anything to be gained from going Qd2 over c1, so let's play it and see
+[10:03:37] micomps: (22.Rce2) a shame that black played Kg7, ruining my nice plans
+[10:06:10] micomps: (24.Re4) not quite gone to plan this but position is fine overall. Need to try and press here, team is currently 2-1 down
+[10:15:03] chessyesmen: (26) uh oh
+[10:15:48] chessyesmen: missed g5 Rx Qx Be4 so elementary
+[10:28:45] micomps: (30.Re3) if I can trade down here, my pawn structure is just a bit better
+[10:32:03] nyanners: reading up
+[10:32:18] nyanners: this is definitely not the direction you need the game to go when you need it to end in 2 hours
+[10:32:18] nyanners: might as well blunder on purpose soon
+[10:34:35] nyanners: like, this may be holdable, but its looking like 100 move game territory
+[10:37:07] chessyesmen: I think I’m close to a draw here... cheeky draw offer?
+[10:37:38] nyanners: cheeky draw offer is good but its not being accepted in a million years
+[10:37:38] chessyesmen: only because I have to leave soon
+[10:37:53] nyanners: white is better, white is higher rated, white's team is down in the match
+[10:38:24] micomps: (33.Qd7) need to keep pushing here. Could fizzle out to a draw but going to keep going for a win as much as realistically doable
+[10:41:42] nyanners: theres some chance this fizzles out to some perpetual if the white king opens
+[10:42:43] chessyesmen: cmon h5 doesn’t work because of Rxf7
+[10:43:44] nyanners: on the other hand, white is also a bit stuck
+[10:44:14] nyanners: just improve with 35 Rf3 i guess
+[10:48:18] kamagayajiji: Black says they have to leave around 11 UTC, so I don’t see how they can manage...
+[10:48:34] nyanners: kg8 fails to qc8 heh
+[10:48:49] nyanners: with some luck black can resign with a clean conscience soon
+[10:49:04] chessyesmen: sorry I have to play quickly now
+[10:53:08] chessyesmen: think I messed up
+[10:53:38] chessyesmen: They can just play Qd7 after h4 and all is fine
+[10:54:09] super0jins: Qe4 is interesting but sadly defending the rook with the queen allows the king to move
+[10:54:54] super0jins: Would be an idea if there were resources to attack the f3 rook
+[10:54:54] nyanners: queen can move to f7 :o
+[10:55:10] super0jins: yeah
+[10:55:25] super0jins: But if the pin could somehow be kept forever it would be nice
+[10:55:25] super0jins: but it cant
+[10:55:25] nyanners: tbf i feel black can resign circumstantially even if its probably not like horrifically dead lost
+[10:55:55] nyanners: but white has (probably) stabilized and h4 is not going to work
+[10:56:11] chessyesmen: gotta go for it
+[10:56:26] chessyesmen: everything else looks just a pawn down
+[10:56:41] chessyesmen: with ni chances
+[10:57:27] nyanners: oooooohh look at this one
+[10:57:42] nyanners: 37 qd7 hxg3(??) qxg4
+[10:57:42] nyanners: even better than rxf7
+[11:00:14] nyanners: like i feel the move is Qd7 just on grounds of neutralizing the black rook again
+[11:01:00] nyanners: this one is excessively clever, perhaps :o
+[11:01:15] nyanners: im guessing the idea is hx fx qc2+ may be losing
+[11:01:15] nyanners: thats a good way for black to go out
+[11:02:16] micomps: (38.fxg3) I am a pawn up but not sure how I am making progress here. Qe7 is tying the Queen down, so Qc2 is not a threat I don't think
+[11:02:16] micomps: at least not at the moment
+[11:02:47] micomps: if I could knock both the queens and rooks off then that would be great
+[11:02:47] nyanners: yea kh3 wins im quite sure
+[11:03:02] micomps: (38...Qc2+) now....isn't this winning for me? Qxf7 is loose
+[11:03:47] rajjsinghh: The truth hurts
+[11:04:18] rajjsinghh: Good showing from black against a strong opponent
+[11:04:18] nyanners: there we go. good resignation timing
+[11:04:33] micomps: (39...Qg6) now I think I just take on f7...time to double check
+[11:05:34] pineapplechiffoncake: Gg
+[12:05:42] nyanners: gg
+[12:05:57] nyanners: yeah good fight :o
