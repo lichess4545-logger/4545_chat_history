@@ -1,0 +1,57 @@
+Lichess game chat log
+Game      : https://lichess.org/GjscAt4I
+White     : shogistyle
+Black     : far1108
+Time      : 45+45
+Captured  : 2026-10-02 20:26:57 UTC
+Game ended : 2026-10-02 19:06:48 UTC
+Messages  : 47
+────────────────────────────────────────────────────────────
+
+[17:27:45] matthieu_max: go go shogi!
+[18:10:10] bxvrc2lh: Rxf2 ?
+[18:29:44] kyriakos1301: Let's go Far1108!!!!
+[18:34:48] kyriakos1301: what do you think, mootivator
+[18:35:34] mootivator: Down a pawn, but with opposite colored bishops, and no active kings
+[18:36:20] kyriakos1301: (48 Rf4) then Bg3? and take a draw?
+[18:36:20] mootivator: Looks drawable, but if f7 falls, I would be much more worried
+[18:37:21] mootivator: Bg3 sound decent; I wonder if White can prolong the game somehow
+[18:37:51] kyriakos1301: Bg3, Rxf7, Bxe5, Then Bb5 looks strong
+[18:38:22] mootivator: Bg3 Re4 and how to develop the black king?
+[18:39:08] mootivator: Ah but now Bg3 Re4 would be sad
+[18:39:23] kyriakos1301: oh I see
+[18:39:38] mootivator: *Rg4
+[18:39:38] kyriakos1301: Be8 is coming next
+[18:40:54] mootivator: Rf6+ looks powerful now
+[18:40:54] mootivator: Ah there we go
+[18:42:41] mootivator: Ok now it will take some more robust defending; the silver lining is that the rook is already behind one pawn, and the other is not too far 
+[18:42:56] mootivator: So one drawing mechanism could be capturing the a pawn and trading a bishop for the e pawn
+[18:43:12] kyriakos1301: makes sense
+[18:43:12] mootivator: But then we will see R+B vs R
+[18:43:57] mynameismund: That would work but first you gotta win a pawn, and I’m not sure how.
+[18:44:12] kyriakos1301: but now his king can enter the game
+[18:44:28] mootivator: Not yet, Bxe5 with a discovered check would be nice
+[18:44:43] kyriakos1301: Rf3 first
+[18:44:43] lewinberg: why not just e6 now?
+[18:45:13] mootivator: Yep, there we go
+[18:45:44] mynameismund: Good question. Shogi is asking the same thing
+[18:45:44] kyriakos1301: Bb4 now
+[18:45:59] kyriakos1301: oh no
+[18:45:59] mootivator: I would go for Be5 and try to give checks first
+[18:46:14] mootivator: Bruh nvm
+[18:46:45] mootivator: Now it looks quite hopeless, because the king will either help the pawn or complete the mating net
+[18:47:46] mootivator: I will need to play with a one-point deficit shortly, I suppose
+[18:48:47] kyriakos1301: yes your game is going to be important :)
+[18:49:17] kyriakos1301: but crazier things have happened
+[18:49:32] kyriakos1301: earlier today I watched a 2000 player blunder mate in one in a winning position.
+[18:50:03] mynameismund: I think 57.Kf5 is a draw, nice to avoid that.
+[18:50:49] mootivator: Ra7 looks solid now
+[18:51:49] lewinberg: Rf4 was a nice move
+[18:52:20] mootivator: But what is the plan? Re4 and play opposite-color bishops?
+[18:52:50] mynameismund: I think the plan is to push the a pawn, and see how black defends it
+[18:53:06] lewinberg: yes, agreed
+[18:53:21] mynameismund: Yeah, whites rook is really well placed
+[18:53:51] mootivator: And the Bishop covers the promotion square
+[18:58:25] lewinberg: i think even Rc4 should win now, no?
+[18:58:41] lewinberg: ok, nevermind
+[19:01:43] lewinberg: going for the stalemate trap
