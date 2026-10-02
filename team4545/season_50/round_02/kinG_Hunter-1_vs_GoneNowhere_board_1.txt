@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/GFtwz4h1
+White     : king_hunter-1
+Black     : gonenowhere
+Time      : 45+45
+Captured  : 2026-10-02 21:56:00 UTC
+Game ended : 2026-10-02 20:35:51 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[18:06:15] robertjackson: Good luck KH
+[18:08:32] jfiras: Good luck king hunter !
+[18:11:35] scarff: These types of lines are why I prefer not to play 4.Bg5. It gives black this dxe option into what feel like more solid lines
+[18:11:50] scarff: I am interested to see how Artur handles this!
+[18:12:05] scarff: And ggo Artur, of course!
+[18:14:07] timothyha: (8...Nxf6) MasterDB stopped at h6, then Bh4 or Nxf6
+[18:14:22] timothyha: (8...Nxf6) Bxf6 is a little concession from White
+[18:30:23] rolihlahla: go Artur!!!!
+[18:37:45] timothyha: (11.c4) c4 makes sense, Black getting d5 square would be stabilising everything
+[18:40:02] timothyha: (12.Bxe4) oh, this endgame is ok to play, White can torture Black for a while
+[18:40:48] pavonine: good luck gonenowhere
+[18:49:27] timothyha: (14.Kb1) will go to play my game, good luck @kinG_Hunter-1
+[18:58:21] ttsgosadow: Lets go, Hunter of Kings!
+[19:05:58] king_hunter-1: 16...Rhf8 i dont get this move at all, maybe he gonna want 17...Nd5 and somewhere f5
+[19:09:16] hpors: Go Artur !!
+[19:15:07] grzybozbur: rf8 seems a normal move in this structure
+[19:16:08] grzybozbur: this looks like an improved caro-kann for black
+[19:25:16] king_hunter-1: (19...Bf6) now the move 16...Rhf8 raises even more questions
+[19:26:32] grzybozbur: not at all, the pawn has been defended, now the rook is free to double on the d file
+[19:28:49] grzybozbur: or even just go to e8 to play e5 at some point
+[19:45:50] king_hunter-1: 23.Qe3 i miss e5 i think
+[19:52:41] scarff: e5 Na5, sac that pawn, but create stronger threats against their king?
+[19:52:56] grzybozbur: i would just take h2 instead, keep the position closed and let white run out of time
+[19:52:56] scarff: Na4*
+[19:54:58] scarff: Playing someone of this strength and hoping to win on time is a bad idea
+[19:55:13] grzybozbur: what can white do?
+[19:55:28] grzybozbur: i'm just as safe as before, but a pawn up
+[19:55:59] grzybozbur: e5 maybe i'm winning, but white suddenly has moves, i might blunder something
+[19:58:16] scarff: Maybe you win on position then, with good play, I'm not arguing that
+[20:00:48] scarff: Although even up a pawn, there was pressure on the black king still. Not a simple win either
+[20:01:03] grzybozbur: it's just that e5 changes the structure, if i change the structure i'll need to find new ideas myself
+[20:01:34] grzybozbur: black looked super solid until nf5 to me
+[20:03:51] grzybozbur: now, on the other hand, i can't meet nb6 with ne5, so that knight is a nuisance
+[20:04:52] scarff: Yeah I agree. Nf5 seems to have made it a bit easier for white?
+[20:05:07] scarff: Blacks position is maybe okay. But feels more difficult to play to me
+[20:05:23] grzybozbur: i hate black's position
+[20:05:53] grzybozbur: i mean, maybe black's fine, or even better, i don't know
+[20:06:39] grzybozbur: but i'm sure black had better options that nf5
+[20:09:26] kjar: was 28... Rxd4 an option?
+[20:10:58] bpack: The only. Always sac the exchange!
+[20:12:29] grzybozbur: 28...rxd4 rxd4 bxd4 nd6 and both d4 and b7 hang
+[20:12:29] mskol9: Rd4 - Rxd4 and Bxd4 - N d6
+[20:32:48] time_lord19: (42.Qd5) Anyone can win now...
+[20:32:48] time_lord19: (42.Qd5) Time trouble
+[20:34:04] time_lord19: (44.Rb8+) Damn, that looks ggs
+[20:34:35] time_lord19: (45.Rc8+) That was a miss
+[20:35:20] jfiras: beautiful
+[20:35:20] jfiras: gg !
+[20:35:20] king_hunter-1: gg
+[20:35:20] rolihlahla: GG both!
+[20:35:51] scarff: Great game both! Very fun to spectate from start to end
+[20:36:36] scarff: And great win Artur :D
+[20:37:22] timothyha: Gg
+[20:38:08] gonenowhere: wow that Qb5 mega-sucked
+[20:38:38] king_hunter-1: You missed 23...e5!
+[20:39:09] king_hunter-1: It would be hard for me to play after that
+[20:39:24] gonenowhere: Hmmm
+[20:40:25] gonenowhere: (By the way I often get frozen on the analysis board, so if I go silent blame the software)
+[20:42:57] grzybozbur: qb5 is just a miss in time trouble, but 23...nf5 was horrible
+[20:43:12] mskol9: Bro, don't embarrass yourself.
+[20:43:42] grzybozbur: nf5 opened the file that later let the white rook in
+[20:45:29] grzybozbur: it weakened the center and kingside pawns
+[20:47:15] grzybozbur: it just seems to be the move that led to all black's problems later
