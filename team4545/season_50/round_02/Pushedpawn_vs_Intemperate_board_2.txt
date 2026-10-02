@@ -1,0 +1,175 @@
+Lichess game chat log
+Game      : https://lichess.org/v03aVnRP
+White     : pushedpawn
+Black     : intemperate
+Time      : 45+45
+Captured  : 2026-10-02 23:47:34 UTC
+Game ended : 2026-10-02 22:27:24 UTC
+Messages  : 165
+────────────────────────────────────────────────────────────
+
+[20:12:04] bncl: Go PushedPawn!
+[20:14:52] gavalanche20: Go PushedPawn
+[20:18:40] computability: Go PushedPawn!
+[20:28:19] intemperate: Rc8 and a6 should cover it? He might switch and go Na4 instead, eyeing up the c5 square
+[20:39:29] intemperate: hmmm......xR or xQ?
+[20:40:30] intemperate: He's going to plat Rc1, so probably best not walk straight into a discovered att lol
+[20:40:30] pushedpawn: 13.Bxc6 not loving what I've gotten out of this opening. Should be at least equal still but playing for a very small edge with Na4-Nc5
+[20:41:00] pushedpawn: after securing the c file more with Rc1 or 0-0/Kf2 and then Rc1
+[20:47:05] bickedag: I'm liking black's position after 14... Be7 and O-O. Good pieces and no real weakness
+[20:50:23] bickedag: it might make sense to throw in b5 as black, just to stop Rc1 followed by Na4 and Nc5
+[20:58:46] bickedag: black needs to be careful because 16... Rfc8 loses to 17. Nb6 Rxc1 18. Nxc1!
+[21:01:18] bickedag: oh wow now black has a trap, if 17. Rxc6 Qxc7 18. Rc1, there is bxa4 intermezzo
+[21:01:33] bickedag: Qxc6**
+[21:04:51] qrs: 18 Nd3 now? Otherwise ... Rc8 looks very nice for black
+[21:05:52] qrs: Or even just 18. ... Bxc5
+[21:06:23] bickedag: yes 18. Nd3 looks strong, setting up Ne5
+[21:06:23] intemperate: Can't go Qc8. Need it for my other R. There are no discovered attacks. He can play Nd3>e5 I guess? It's a nice sq
+[21:08:09] bickedag: I'm not liking this for black now. If white just doubles on the c file, then black has passive pieces
+[21:08:25] qrs: Oh wow 18. ... Rxc1 instantly  - why give up the c file before instead of Rc8 to at least trade both rooks
+[21:09:56] qrs: 21 Rc7 was a big threat
+[21:10:11] bickedag: Ne8 seems like an overreaction though
+[21:10:11] qrs: As you said - black suddenly stands VERY passive
+[21:10:57] qrs: What is the alternative? The dsb had no squares
+[21:11:12] bickedag: Qb6 perhaps
+[21:12:28] computability: (20...Ne8) I miss whites c5 Knight
+[21:17:02] qrs: Mh, already looking at the likes of h5/h4/g5 for black now
+[21:17:33] bickedag: yes me too, I think white can go h3 and black only makes things worse
+[21:17:49] qrs: Think he went for those trades way too quickly and had quite a bit of suffering ahead of him
+[21:18:04] bickedag: yes, there's no point having this much time in such a dreadful endgame
+[21:18:19] qrs: Ye, I don’t think it’s a good plan but you got to do something
+[21:18:19] bickedag: I do like this b4
+[21:19:20] bickedag: not playinf 23... Qxb4 hope chess 24. Rxa6??? Qe1#
+[21:21:22] qrs: Haha, that would’ve actually been a decent attempt
+[21:21:52] bickedag: yeah I mean nothing wrong with Bx, in fact I think black should be holding a draw now
+[21:23:24] qrs: But yea b4 did actually work. I had discarded it thinking white would just go a4 instead of axb4 but that’s also not clear after b3 Qc1
+[21:23:24] voylento: i yhought 24. Qa4 was strong, but maybe i missed something
+[21:24:10] bickedag: that would force a5 and probably black is ok
+[21:27:58] bickedag: I really don't like 25... Be7 because the knight and rook are stuck again
+[21:28:29] qrs: Also wondering - could black maybe have played 25. ... Nf6?
+[21:28:44] bickedag: yes I would have played that
+[21:28:59] voylento: can white get Nc5, Nd7 somehow?
+[21:29:14] qrs: I don’t see the knockout after the likes of Nxb5 Qxb5
+[21:29:29] bickedag: indeed
+[21:29:29] qrs: The Nf6 covers d7
+[21:30:00] voylento: but thatwould hsve uncovered c7
+[21:30:30] bickedag: this was back when bish was on b4
+[21:31:16] bickedag: I'm not even kidding, I think black's best move is to play 26... Bb4 back
+[21:32:02] qrs: 25. ... Nf6 26. Rc7 just Qb6
+[21:33:18] qrs: But now 26 . ... Bb4 might eventually drop the a pawn?
+[21:33:33] bickedag: maybe
+[21:33:33] bickedag: but like what else to do
+[21:33:49] bickedag: this is total paralysis
+[21:34:19] qrs: I mean Bb4 Nxb4 axb4 (forced, Qxb4 Qxb4 axb4 definitely drops the pawn to Rb6)
+[21:34:34] bickedag: correct
+[21:35:20] qrs: But yea, white still had to show how to get the pawn before black entangles
+[21:35:50] computability: Ke5 now
+[21:36:21] qrs: Ne5?
+[21:36:21] computability: Ne5
+[21:36:36] computability: Ke5 would be impressive
+[21:37:06] bickedag: at least after 27... Qb7 then b2 is hanging. Probably black will have issues guarding the 7th and 8th rank while white just plays h3 later
+[21:37:06] vincent_keymer_fan: b2 not hanging cause theres nd7
+[21:37:37] bickedag: I thought there were some checks on the 1st rank
+[21:37:52] bickedag: but you're right white just runs to g3 and wins the exch
+[21:38:07] vincent_keymer_fan: actually i think if kg3 theres g5
+[21:38:23] vincent_keymer_fan: but white can block on e1 with the queen i think
+[21:39:39] bickedag: if white king is on f1 then there is Qe1 Qb5+ fork
+[21:39:54] vincent_keymer_fan: oh yeah
+[21:40:55] vincent_keymer_fan: there might also be f6
+[21:40:55] vincent_keymer_fan: after qa5
+[21:41:25] bickedag: ah good point
+[21:41:41] vincent_keymer_fan: so maybe rc2
+[21:41:56] vincent_keymer_fan: threatening nd7 and qa5
+[21:42:42] bickedag: hard to stop those
+[21:43:27] computability: b3?
+[21:44:13] bickedag: most moves from white are good. Black is the one with barely any good responses
+[21:44:59] bickedag: always repeat
+[21:44:59] qrs: b3 Bb4 .. Nf6 might actually hold stuff together for black
+[21:46:45] qrs: I think white has to remain accurate and Ne5 Qb7 Rc2 might be the best way
+[21:48:32] bickedag: ok now surely black loses that a pawn
+[21:49:19] qrs: (Qc2 Bd6) black finally disentangles though
+[21:49:34] bickedag: 30. Bxd6 Nxd6 31. Ne5 black has to awkwardly guard the knight
+[21:50:35] qrs: Qd8 then ?
+[21:51:05] qrs: Even guards the a5 pawn
+[21:51:20] bickedag: though it blocks in the rook still
+[21:51:51] bickedag: so maybe Ra6
+[21:52:06] vincent_keymer_fan: ra6 qb5 tho
+[21:52:06] intemperate: Finally!! Got rid of that bloody B!!
+[21:52:21] bickedag: we mean after Ne5 Qd8
+[21:52:21] vincent_keymer_fan: oh yea
+[21:52:37] vincent_keymer_fan: looks good
+[21:53:37] vincent_keymer_fan: qc5 also good
+[21:53:37] bickedag: oh man after Ra6 you can't even go Qc8 because Qxc8 Rxc8 Rxa5 Rc1+ Kf2 Rc2+ Kg3 and Ra8# is threatened
+[21:53:53] qrs: Ra6 f6 .. Nc5 ?
+[21:54:08] bickedag: white knight captures it
+[21:54:38] qrs: Knight has to move after f6?
+[21:54:54] bickedag: oh nvm I misread
+[21:55:09] qrs: E6 is hanging in that line
+[21:55:09] vincent_keymer_fan: qh4?
+[21:55:09] bickedag: oh wow
+[21:55:09] qrs: But so would’ve been e3
+[21:55:24] vincent_keymer_fan: oops
+[21:55:55] qrs: Well water under the bridge now
+[21:56:25] bickedag: Rc8 from white will be a huge threat if they can escape the checks
+[21:57:11] qrs: Why Ke2 and not Kf1?
+[21:57:26] vincent_keymer_fan: kf1 ne3
+[21:57:56] bickedag: does white have Ng4
+[21:57:56] bickedag: probably h5 then
+[21:58:42] intemperate: Feel like I have a fighting chance now! He had me completely pinned down!
+[21:58:42] vincent_keymer_fan: qg5 is a great move
+[22:00:29] qrs: I understand blacks relieved
+[22:00:29] vincent_keymer_fan: wait what if rc8 now
+[22:01:45] bickedag: I think black would need to take on g2 there
+[22:02:15] vincent_keymer_fan: yea
+[22:02:15] vincent_keymer_fan: but i didnt finish calculating it
+[22:03:01] bickedag: it gets crazy but might end in some Qd1+ Qa4+ perpetual
+[22:05:18] qrs: (h4) Qg6 maybe?
+[22:05:33] bickedag: yes I like Qg6 the most, but this is clean too
+[22:05:33] vincent_keymer_fan: rip
+[22:06:04] qrs: What a comeback
+[22:06:49] bickedag: white's gotta try Ne5 and hope they get some Nxf7 cheese
+[22:08:06] bickedag: not a fan of Qc2+ because black can even play Nf5
+[22:10:07] qrs: Very interesting game - I am still debating whether Qxh2 would’ve been even stronger then Qg5 and also whether Rc8 instead of Ng4 would’ve w
+[22:10:23] qrs: worked for white
+[22:10:53] bickedag: yes a fascinating game
+[22:11:09] qrs: But those lines are very deep - guess my elo is not high enough to see it through
+[22:11:24] qrs: In some lines the white king can even run to the queenside
+[22:11:54] bickedag: it sounds like you've got a pretty good idea of the calculation
+[22:12:56] qrs: Haha, I am sure there are some mistakes after a few moves, but thanks
+[22:13:26] qrs: I have to say this chat has been very enjoyable and educational - thanks for that!
+[22:13:42] acebulf: This looks bad for white?
+[22:13:57] bickedag: I'm glad you guys were providing lines to analyze
+[22:14:12] bickedag: definitely fun to watch
+[22:14:12] qrs: 39. ... f5 nice, that’s what I would’ve gone for
+[22:14:12] bickedag: I am seeing a world where black screws this up by letting white march their king over, win the a pawn and promote b pawn
+[22:14:27] computability: Yeah this seems really hard for white. How to save g2?
+[22:14:27] bickedag: after Ne5 Qxg2+ Kd3
+[22:15:28] acebulf: ooooh!
+[22:15:28] bickedag: ok this is now a very simple win for black
+[22:15:43] bickedag: because he forces queens off and promotes g pawn
+[22:17:15] qrs: But even in your line Ne5 Qxg2+ Kd3 Qxc2 Kxc2 - blacks h pawn is running ?!
+[22:17:45] bickedag: yeah I was thinking at least black will play Nd3 and Nf2 there to stop it for a while
+[22:18:00] bickedag: white will play it I mean
+[22:20:33] computability: Oh a trade of knights on e5 screws up whites pawns big time
+[22:20:48] nyanners: dang
+[22:21:03] qrs: So how exactly would’ve black forced this now? hxg4 gxh4 gxf3+ Kxf3 Qxh4 blacks up a pawn but queens stay on?
+[22:21:49] bickedag: I was thinking hxg4 gxh4 gxf3+ Kxf3 Qg4+ Kf2 Qxh4+ Kg2 Qe4+
+[22:22:35] bickedag: though maybe white plays Kg1instead of Kg2
+[22:24:36] bickedag: most accurate here could be 42... Nf4+ Ke3 and take on e4
+[22:25:07] qrs: Thanks - more accurate for sure to get Qxh4+ with check but yea q trade was not forced then
+[22:25:07] grzybozbur: there's also nf4-g2 and qxf3
+[22:25:53] bickedag: thats funny too
+[22:27:09] qrs: GG!
+[22:27:39] qrs: Thanks for the very entertaining game
+[22:27:39] bickedag: gg
+[22:27:54] computability: GG
+[22:29:41] bickedag: wow guys check it out
+[22:29:41] bickedag: 35. Qxf8+
+[22:29:56] bickedag: doesn't win but forces a draw very nicely
+[22:32:59] qrs: Wow, yea
+[22:32:59] qrs: Just came back to share that line with you
+[22:34:15] qrs: Only works cause of Qg5 cause there is a knight fork at the end of the line
+[22:34:30] pushedpawn: ah yeah Qxf8 would have been nice. I thought I was already losing by that point but should have looked more as Ng4 is clearly losing
+[22:36:32] pushedpawn: looking at the game now, 27.Nc5 is quite clean. I thought the pin would be a bigger issue than it was as Rc8 is too slow of a threat
+[22:39:19] computability: 35. Qxf8+ would have been a legendary find
+[22:39:19] intemperate: Trying to see what I can do differently in the opening. I got terribly tied down. Feel like Pushed let me off the hook somewhere!?
