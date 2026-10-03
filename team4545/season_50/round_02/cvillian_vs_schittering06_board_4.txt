@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/ibBEx85e
+White     : cvillian
+Black     : schittering06
+Time      : 45+45
+Captured  : 2026-10-03 23:36:29 UTC
+Game ended : 2026-10-03 22:16:19 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[20:01:29] mennonite: Go schittering!
+[20:02:45] yellorambo: gl schittering
+[20:03:31] pineapplechiffoncake: Go schittering!
+[20:06:19] lexgrad: Like e3 here I think
+[20:06:34] lexgrad: Let's get it cvillian
+[20:10:22] goldenretrieverchess: Go schittering!
+[20:25:21] r0b-w: Go, schittering!
+[20:30:41] jg777: Lets go schittering06!
+[20:32:13] schittering06: The more I think about it the more I'm afraid b5 was a bit too optimistic on my side
+[20:36:01] jg777: It's fine, you got this mate! Get those pieces active and power on through, take that space!
+[20:36:47] lexgrad: Idk if white can strike fast might catch him here
+[20:37:17] lexgrad: Ne5?  Tripple threat on the pawn then with the bish out
+[20:39:19] lexgrad: Ne1 maybe better
+[20:40:05] leverkuhn: 13.Ne5 looks reasonable
+[20:40:35] leverkuhn: 9.Bf4 was surprising to me, I would think the idea of Bg5 should be Bxf6 when attacked
+[20:40:50] lexgrad: Ne1 leaves blacks n in the way of the queen and can develop else where
+[20:41:36] lexgrad: I couldn't tell lever if the exchange was good, the queen there pressures the fiencetto
+[20:42:07] leverkuhn: There's a tactical line here 13...Nxe5 14.Bxe5 Ng4!?
+[20:42:22] leverkuhn: or even take f2 once first if really adventurous
+[20:43:23] lexgrad: Bx g7 would be spicy if so, sac the ex tho maybe too much on the white king
+[20:43:38] fritsj: But Bxf2 Rxf2 Nxe5 Bxe5 Ng4 there is Bd4 in response no?
+[20:43:53] leverkuhn: true, taking f2 an overcook indeed
+[20:44:24] leverkuhn: 13...Nxe5 14.Bxe5 Ng4 15.Nxd5 what a mess
+[20:44:54] leverkuhn: somehow you get the sense Black can't do this before castling
+[20:45:10] fritsj: I was just gonna say yeah
+[20:45:25] jg777: I am pretty sure white is better in those complications with the black king centralized, yeah.
+[20:47:11] fritsj: But if 0-0 now then Nxc6 Qxc6 b4!? Bxb4 Nxd5 looks maybe nice for White
+[20:47:27] fritsj: So I was gonna suggest Rc8 for that reason
+[20:47:42] leverkuhn: yeah this c-file pin is scary
+[20:47:42] fritsj: But does that line work with Rd8?
+[20:47:57] leverkuhn: but he might have just dropped d5 in case of ...Rc8
+[20:47:57] leverkuhn: it was just a very unpleasant position for Black
+[20:48:28] fritsj: a3 has to be a relief for Black
+[20:48:58] leverkuhn: White moved a little too fast there, lines like fritsj's 14.Nxc6 Qxc6 15.b4!? were worth the time investment to calculate
+[20:50:45] leverkuhn: 14...Nxe5 15.Bxe5 Ng4 closer to working now at least
+[20:52:01] fritsj: Looks like that could just be strong for Black
+[20:52:31] fritsj: Not sure if White can even play Bxg7 as Rh7 seems to trap the Bishop
+[20:52:46] leverkuhn: looks like Black is going for it
+[20:55:04] fritsj: Don't see a move for White
+[20:55:04] fritsj: a3 looking very careless now
+[20:55:34] leverkuhn: has to try 16.Bxg7, but I don't see it working
+[20:57:36] lexgrad: Ok hear me out... bc7!?
+[20:59:23] fritsj: 16
+[20:59:23] lexgrad: Never-ending lol
+[20:59:38] lexgrad: Nevermind
+[21:14:52] nyanners: dang what happened here
+[21:15:53] nyanners: usually white cant avoid Bxf6 in these lines
+[21:16:38] nyanners: but it looked fine? a3 was very mysterious
+[21:20:12] schittering06: Converting a material advantage is among the hardest things in chess imo, somehow I always let my opponent get very active
+[21:21:43] nyanners: winning won positions may be hard, but have you tried losing ones
+[21:24:15] nyanners: and for all that i think black is doing very well :o
+[21:24:46] jg777: Yes, and 0/10, I don't recommend :)
+[21:27:03] jg777: Okay Kf8 please, the e7 square just bothers me a bit
+[21:29:35] nyanners: and equal ones, too. its all bad. chess is just bad
+[21:29:51] nyanners: winning should be easier so games dont take as long
+[21:50:40] nyanners: umm this could be a bit interesting. white probably needs to break out with a4 Bf1 to reach c8
+[21:50:55] nyanners: but then youre too many pawns down
+[21:57:31] schittering06: Ouch that is not good, why the hell did I open that diagonal?
+[22:01:20] nyanners: why DID you open that diagonal
+[22:02:05] nyanners: i dont hate it? idk
+[22:02:36] nyanners: white's problems remain
+[22:13:32] nyanners: glorious
+[22:15:18] nyanners: xe2 covers e5 clutch
+[22:16:19] goldenretrieverchess: gg
+[22:16:19] acebulf: good game
+[22:17:05] nyanners: gg
+[22:18:21] tactix47: gg
