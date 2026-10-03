@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/qeEbkwUC
+White     : rolihlahla
+Black     : jpgmich
+Time      : 45+45
+Captured  : 2026-10-03 17:46:52 UTC
+Game ended : 2026-10-03 16:26:42 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[14:02:56] rolihlahla: Hi John!  :-)
+[14:09:47] rolihlahla: all pretty much by the book so far ....
+[14:10:02] rolihlahla: not any more  :-)
+[14:16:09] robertjackson: Good luck Eric
+[14:21:13] rolihlahla: hi Robert!
+[14:27:19] ttsgosadow: Lets go Roli!
+[14:31:24] rolihlahla: hi Tim  :-)
+[14:34:57] ttsgosadow: Rf1 keeps it safe and you can go for a fianchetto later
+[14:49:25] rolihlahla: bishop sac looks interesting ... not sure it works ...
+[14:53:59] jputterg: (16...b5) Bxh7 is starting to be interesting
+[14:55:16] ttsgosadow: I dont see a line to get an extra pawn or something, not sure the sack would be sound
+[14:55:31] jputterg: (16...b5) followed by Re5 and then Qh3+
+[14:56:47] jputterg: (17.Rad1) think it was potentially mating
+[15:07:57] jfiras: (18.b4) I hope you win Ro
+[15:27:15] pavonine: Gogogo jpgmich
+[15:29:32] ttsgosadow: Time for some luft?
+[15:48:04] rolihlahla: hi Juan
+[16:02:33] timothyha: (32.Qe4) is the pawn endgame winning?
+[16:05:21] juancruzariastdf: that a7 pawn reserve tempi with a7-a6 could be important down the road
+[16:05:52] juancruzariastdf: if White stays put, there should be no way in for the Black king
+[16:06:07] timothyha: (33...f5) funny how Qd4 is possible here
+[16:06:22] juancruzariastdf: there are some changes to the pawn structure that would be ?? here
+[16:06:37] timothyha: (33...f5) yeah, scary moves to make
+[16:06:37] juancruzariastdf: Qd4 then Qd6 jaja
+[16:07:08] timothyha: (34.Qd4) Ro's on my wavelength!
+[16:11:42] timothyha: (34...a6) ok now it's easier to calculate...
+[16:11:57] timothyha: (34...a6) there's only h3 h5 stuff left
+[16:14:45] timothyha: (35...h6) g4 and threaten g5?
+[16:15:15] timothyha: (35...h6) pawn endgames aren't my strong suite
+[16:16:01] juancruzariastdf: now after g4, Black should go g5 for maximum chaos!
+[16:16:16] timothyha: (36.g4) yeah
+[16:16:16] timothyha: (36.g4) looks scary
+[16:16:32] timothyha: (36.g4) can't allow gxf4+
+[16:16:47] juancruzariastdf: h5 for neutralizing everything
+[16:17:02] timothyha: (36.g4) given the match situation, I think g5 will be played
+[16:17:17] juancruzariastdf: what's the match situation @TimothyHa?
+[16:17:33] timothyha: (36.g4) 4-2 score, a draw from Ro wins for the team
+[16:18:03] time_lord19: (37...Kd6) Let's get it jpg mich
+[16:18:34] timothyha: (37...Kd6) now this looks safe
+[16:19:04] timothyha: (37...Kd6) does g5 win for White?
+[16:19:35] timothyha: (37...Kd6) outside passer?
+[16:20:36] juancruzariastdf: White has the dominant king positioning now
+[16:21:06] juancruzariastdf: meaning, only White can get into Black's position with their king
+[16:21:37] timothyha: (39.fxg4) would be fun to check g5 after the game
+[16:21:52] timothyha: (39.fxg4) the g5 from Black, then from White
+[16:22:07] juancruzariastdf: probably h5 was still holding for Black, then retreating to d7 with the king and waiting with opposition on c5-c7 or e5-e7
+[16:22:22] juancruzariastdf: but now there is an extra resource for White with the f5 break
+[16:22:53] timothyha: (39.fxg4) 36...g5 to be checked (note)
+[16:23:23] timothyha: (41.h5) gg
+[16:23:54] robertjackson: GG both
+[16:24:09] timothyha: (42...Ke6) gg all of us watching :-)
+[16:24:24] timothyha: (42...Ke6) it's always nice to see the dust settle in a pawn endgame
+[16:24:24] timothyha: (42...Ke6) they're sooooo intense
+[16:25:56] timothyha: (46.Kf6) five moves to remove a and b
+[16:26:11] timothyha: (46.Kf6) but Ro wants to win with g I guess
+[16:26:42] jfiras: gg !
+[16:26:42] timothyha: gg
+[16:26:57] jputterg: well played Eric
+[16:27:12] timothyha: ok, only 39...g5 was the losing move
+[16:27:58] rolihlahla: Thanks!
+[16:28:13] timothyha: what a graph of the game
+[16:30:45] rolihlahla: Ne4 was not well thought out ....  did not calculate Qd5 there
