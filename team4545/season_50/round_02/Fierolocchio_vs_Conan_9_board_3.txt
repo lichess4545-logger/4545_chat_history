@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/T4o5DIWr
+White     : fierolocchio
+Black     : conan_9
+Time      : 45+45
+Captured  : 2026-10-03 22:29:45 UTC
+Game ended : 2026-10-03 21:09:36 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[19:51:52] qrs: (21 ... Qc6) very double-edged move
+[19:52:52] kendragonx: 22. Ng5 right?
+[19:53:23] qrs: That’s mate after Qxg7#?
+[19:53:38] qrs: 22 Bg5 is what I had in mind
+[19:54:24] qrs: Threatening Nf6+ with a discovery on blacks queen
+[19:54:54] kendragonx: yeah that might be better
+[19:55:40] qrs: Well white cannot defend the bishop on g2
+[19:55:55] qrs: Oh I meant Qxg2# up there
+[19:56:10] qrs: Ng5 Qxg2# immediately loses for white
+[19:57:11] qrs: So as white cannot defend g2, he has to protect himself against f5 (which would force him to allow fxe4 taking the knight)
+[19:58:43] qrs: Ok, the immediate Nf6+ Qxf6 Bxb7 also seems to have worked for white
+[20:08:53] qrs: (25 .. Qb6) I was considering Qxg5 Bxg5 Rd7 (Be4 f5) Bg2 e4 for black, threatening to win an exchange with Bxc3
+[20:11:56] qrs: (26. ... Nd7) again, maybe instead f5 e4 for black
+[20:14:28] qrs: 27. ... Nf6 and whites queen has to take care not to get trapped (h6 g5 if white does not react)
+[20:17:00] qrs: (28 Qg4) last chance for ... e4 I think. Otherwise I think white has stabilized and might be better in the long run with the two bishops
+[20:17:46] qrs: (28. ... e4) Finally :)
+[20:20:19] qrs: (31. ... Qxd4) Rd1 Qa7 does not look too great for black though
+[20:21:36] qrs: Then again, if white can’t get the piece tactically (which I don’t see yet) - a pawn is a pawn
+[20:23:53] qrs: (34. ... Rxe8) ok, that looks drawish to me now
+[20:25:24] qrs: (35. ... Nh5) Except if white misses Nxg3
+[20:31:14] qrs: (37 Qd3) not ... Rc8? Black seems to be calculating a lot right now
+[21:05:17] nyanners: oooooooohh pawn endgame. so scary
+[21:05:48] nyanners: i dont know the evaluation but maybe nobody does. extra scary
+[21:06:18] nyanners: lots of i go here they go there in this one
+[21:06:49] nyanners: yea i think f3 loses
+[21:07:04] nyanners: INSTA response. i think this is the one so okay
+[21:07:19] nyanners: now white cant cover c3 and e3
+[21:08:05] nyanners: if kd1 i think white could hold the squares as Ke4 Ke2
+[21:09:36] nyanners: gg
+[21:10:22] qrs: GG
