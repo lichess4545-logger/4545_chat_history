@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/phg674gJ
+White     : eldotore
+Black     : pawneater2020
+Time      : 45+45
+Captured  : 2026-10-03 22:18:23 UTC
+Game ended : 2026-10-03 20:58:14 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[19:12:37] tactix47: Go chess!
+[19:14:54] timothyha: (7.Qe2) go Morphy's Mates
+[19:24:18] timothyha: (12...Ne7) Re1 and no castling
+[19:24:48] tactix47: (12...Ne7) Yeah, difficult for Black to untangle
+[19:25:04] timothyha: (13.Re1) maybe c6
+[19:25:19] timothyha: (13.Re1) it's kind of useful to open up against the king anyway
+[19:28:22] tactix47: (13.Re1) or ...Kd8 to get out of the pin immediately?
+[19:28:52] timothyha: (13...Qh6) Qh6 looks like a bad solution
+[19:29:07] timothyha: (13...Qh6) f4 Qf6 Bd3 and White is up two moves
+[19:34:27] timothyha: (14...Qf6) actually c6 Nd4 and Black is still in trouble
+[20:00:51] timothyha: (19.Be2) that Black Q is half trapped
+[20:03:08] igor_jamnik: good luck pawneater
+[20:07:58] lemuelgullible: 21. Bd3 is threatening to catch the queen with g5
+[20:12:32] timothyha: (21...g5) Bxh7 is safe now
+[20:13:49] pawneater2020: this game would be so much better if i castled on move 10
+[20:14:04] lemuelgullible: I prefer f5
+[20:14:19] lemuelgullible: or Na5 actually
+[20:14:34] lemuelgullible: threatening mate
+[20:15:35] fritsj: Na5 Rb8, White has moved a piece to the rim and Black has improved his Rook
+[20:15:50] lemuelgullible: Na5 Rb8 Nc6 Nxc6 dxc6 Be6 f5
+[20:16:06] lemuelgullible: I think there would ve been something in it for white
+[20:16:21] lemuelgullible: not sure though
+[20:16:36] fritsj: I would've taken on c6 with the Bishop I think
+[20:16:51] lemuelgullible: Bxc6 Qxc6
+[20:17:52] fritsj: No Na5 Rb8 Nc6 Bxc6 dxc6
+[20:19:24] lemuelgullible: ah
+[20:19:39] lemuelgullible: gotcha
+[20:19:54] fritsj: That pawn could end up a weakness with Rb6 coming, especially if the Queens come off
+[20:19:54] lemuelgullible: yea mabye Na5 wasn't the real deal
+[20:21:10] fritsj: Guess it's still about even though
+[20:21:56] timothyha: (22...c6) with these pawns I guess Be4 to exchange B for N is ok
+[20:22:11] gingersquirrelnuts: Go chesses!
+[20:25:14] fritsj: I guess Black could have played Ng6 instead of c6
+[20:25:14] fritsj: Could have been nice
+[20:25:14] fritsj: Heading for e5 or f4
+[20:26:15] fritsj: But there would have been Rxe8+ Kxe8 Qe2+ stepping out of the pin
+[20:26:45] fritsj: So I suppose Ng6 Rxe8+ Black would have to play Bxe8 in order to get the Knight to e5 or f4
+[20:52:24] pawneater2020: 28:00 left on move 28
+[20:53:55] timothyha: (29...Kc7) Qc3+ and Nb3 and try the dark squares?
+[20:54:10] timothyha: (30.Qd4) but this is good too with R1e3
+[20:55:42] timothyha: (31.Nxc6) that wins a piece I think
+[20:55:57] timothyha: (32...Rxe8) or liquidate and win the pawn endgame
+[20:56:27] timothyha: (33.Qa7+) or win d5 anyway via a8
+[20:56:43] timothyha: (33...Kd8) nah, wins everything now
+[20:56:58] timothyha: (33...Kd8) Qb8 already wins
+[20:57:13] timothyha: (34.Qb8+) go Morphy's Mates
+[20:57:59] igor_jamnik: tough
+[20:57:59] fritsj: GG
+[20:57:59] timothyha: gg
+[20:58:14] guitarspider: gg
+[20:58:14] fritsj: What would have happened it 33...Kd6?
