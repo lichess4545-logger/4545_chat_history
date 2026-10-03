@@ -1,0 +1,112 @@
+Lichess game chat log
+Game      : https://lichess.org/NKQfgVdk
+White     : gideon7
+Black     : mixxanber
+Time      : 45+45
+Captured  : 2026-10-03 17:59:09 UTC
+Game ended : 2026-10-03 16:38:56 UTC
+Messages  : 102
+────────────────────────────────────────────────────────────
+
+[14:06:00] mixxanber: 14... haha so if you look at my game history, you can see me messing around in this endgame with stockfish
+[14:06:00] mixxanber: and instantly losing within 10 moves
+[14:07:47] mixxanber: I was looking at this line before, I don't usually play this quickly (nor prep this deep usually)
+[14:14:53] mixxanber: there's a world where I should play Kd8 d6 Bsomewhere Kd7
+[14:15:08] mixxanber: I'm pretty sure this is a line I followed from some prep, but looks very tricky to consolidate hahaha
+[14:21:44] mixxanber: Kd8 looks scary but starting to lean towards it
+[14:24:01] semlegesnev: Kd8 Ng5 seems problematic. h6 for example blunders mate after Nf7#
+[14:24:01] mixxanber: Kd8 Ng5 c6 Nd6 b6 looks surviving
+[14:24:32] mixxanber: I don't like Rf8, because I think I need my king to challenge a knight on d6
+[14:24:32] semlegesnev: but off course, c6 also leads to Nf7#
+[14:25:02] semlegesnev: manifesting Kf7
+[14:25:02] mixxanber: wait i missed that Kd8 Ng5 is threatening mate lol
+[14:25:18] semlegesnev: manifestation successful
+[14:26:19] mixxanber: okay Kf8 must be forced
+[14:26:19] mixxanber: Kd8 is crazy
+[14:26:34] mixxanber: Kf8 Rc1 c6 Nd6 Ke7 looks fine imo
+[14:29:37] bjfletcher: Go Ted!
+[14:30:08] mixxanber: how did I prep and get this position hahaha
+[14:31:09] mixxanber: but I think I'm okay... Nd6 Ke7 and I feel fine
+[14:41:20] mixxanber: Ke7 Nc4 Nf4 Re1 Ne6 is my plan
+[14:41:35] mixxanber: if Nf5+ Kf6
+[14:43:37] mixxanber: maybe Nf4 to Ne6 makes more sense actually
+[14:46:24] mixxanber: actually d5 in these lines really concerns me
+[14:47:25] mixxanber: Ne6 d5 and i think I'm in trouble
+[14:50:28] mixxanber: lol Nc7?
+[14:51:29] mixxanber: Nc7 only move huh
+[14:58:20] mixxanber: okay can I get b6 in now
+[14:58:35] mixxanber: I refuse to make another king and knight move
+[15:12:49] semlegesnev: isn't pretty... c5 here perhaps? Then Ba6
+[15:13:04] semlegesnev: nvm, c5 Nb5 is losing
+[15:13:19] mixxanber: Re3 don't see a really scary purpose, but maybe they don't want to open my bisohp along the natural diagonal
+[15:14:51] mixxanber: I think we just play Ba6 and be happy we didn't lose on the spot
+[15:20:41] mixxanber: sometimes it is nice to be on this side of these positions, where your opponent has to be careful not to give back the advantage
+[15:20:41] mixxanber: and you play the only legal move you have
+[15:21:42] mixxanber: dxc dxc Nxc maybe Bb5?
+[15:22:58] mixxanber: well Ke7 looks horrible, whats wrong with Kg8
+[15:24:30] mixxanber: Kg8 Rf7 i guess
+[15:27:47] mixxanber: if dxc Rf7 immediately, then Ne8 looks healthy
+[15:28:48] bjfletcher: may this be first time i see a knight checkmate!?
+[15:30:36] mixxanber: if Bb4, Ne7+ looks very strong
+[15:33:24] mixxanber: Nd5 Rf7 just looks so painful
+[15:35:41] mixxanber: so Bb5 Ne7+ Kh8, looks so bad also
+[15:40:00] mixxanber: Nd5 Rf7 looks best imo, I can't get my king forced into the corner lol
+[15:41:16] mixxanber: Nd5 Rf7 Bb4 is interesting, lots of complex lines
+[15:41:47] mixxanber: Nd5 Rf5 looks more annoying, but maybe Nf6 and I've achieved something
+[15:42:02] mixxanber: or am I getting mated on the backrank by two knights lol
+[15:43:18] mixxanber: i did miss for a long time that I can just get striaght up mated
+[15:43:33] mixxanber: so was calculating all these lines when there's just Ne7+ and Nf7#
+[15:45:50] bjfletcher: I'm wondering if anyone considered 27...h6
+[15:46:21] mixxanber: back to c7 lol?
+[15:48:38] mixxanber: get me out of this game dude
+[15:49:39] mixxanber: so I had Bb4 prepped here
+[15:50:09] mixxanber: Bb4, if Nxa7 Be8
+[15:51:10] mixxanber: well lets play it
+[15:51:10] mixxanber: Bb5* not bb4
+[15:52:11] mixxanber: I guessif Be8 then Rb7 and nothing is hanging
+[16:06:25] mixxanber: painful game throughout, this looks relatively straightfowrard for white
+[16:08:27] bjfletcher: 33...Rxe8? Wasn't there a backrank mate opportunity?
+[16:09:28] invinci7777: knight was in the way
+[16:09:58] mixxanber: 35. Nc6 surprised me a little
+[16:10:59] mixxanber: is this really trivial for white to win?
+[16:11:29] mixxanber: Rc2 and I'm getting a pawn back right? (if Re2 then Rc1 and we repeat?)
+[16:11:45] petro2: 36.Rb8 was winning because of Ke5 fork
+[16:11:45] petro2: *Ne5
+[16:12:15] petro2: Now it is not so obvious to win
+[16:12:30] invinci7777: yeah nice catch
+[16:12:46] mixxanber: if I get this pawn back, I just have to exchange of the queenside pawns, and then should be a draw?
+[16:14:02] bjfletcher: But white can Rb1 and keep the pawn?
+[16:14:33] invinci7777: yeah
+[16:14:48] invinci7777: if that will be what happens
+[16:15:18] mixxanber: I had missed that there's Rb1 here hahaha
+[16:16:04] mixxanber: yeah I don't quite understand these positions, thought Rb1 was simple for white, the king will eventually crawl out
+[16:16:19] mixxanber: but maybe I'm misunderstanding
+[16:20:53] bjfletcher: i've just learnt somethign new - the nice 40.b4 trick
+[16:23:10] invinci7777: yeah nice move by white
+[16:29:47] mixxanber: this Rb7 also surprises me
+[16:31:34] semlegesnev: The fundamental problem here is that white gets b6-Rb8-b7. Then, Black *has to* keep the king g7-h7, and white can just push his pawns
+[16:32:50] bjfletcher: I wonder about black's rook keep checking white's king from the side
+[16:33:05] mixxanber: g6 and can't I start stepping my king over ?
+[16:33:20] mixxanber: g6 Rb8 I guess I have to figure out
+[16:34:06] mixxanber: g6 Rb8 Ke7 maybe?
+[16:35:07] semlegesnev: for checks, the King can worst case hide on h2. But it is probably better if it just goes straight to help the b-pawn.
+[16:35:38] semlegesnev: Rb8 Ke7 is losing, b7, and there is no stopping the pawn. Kd8 Rh8 +-
+[16:35:53] semlegesnev: *Kd7
+[16:36:08] semlegesnev: but everything is, so seems like a reasonable try
+[16:36:39] chesstricksandtraps: can't the pawn be taken after Rh8?
+[16:36:54] mixxanber: okay what happens if I hold tight here
+[16:36:54] mixxanber: with Kf7
+[16:37:09] semlegesnev: now Kf7 definitely loses to rh8
+[16:37:09] mixxanber: i'm assuming trading my g pawn for b pawn is losing
+[16:37:09] chesstricksandtraps: Kf7 is just lost after Rh8
+[16:37:40] semlegesnev: I think the resulting pawn endgame is losing for black after d7. But would have been a better try for sure
+[16:37:55] mixxanber: ah tricky
+[16:38:41] semlegesnev: gg
+[16:38:41] chesstricksandtraps: gg
+[16:38:41] petro2: gg
+[16:38:56] bjfletcher: @mixxanber, thank you so much for your brilliant commentary... really enjoyed following along your thinking process
+[16:38:56] invinci7777: gg
+[16:38:56] bjfletcher: and also to others in here <3
+[16:39:11] mixxanber: :) thanks for watching, ggs
+[16:39:27] bjfletcher: a massive well done to @Gideon7 for a little bit of a masterclass in endgames :)
+[16:40:12] gideon7: thanks friends :), well done for @mixxanber for a tough and interesting game
