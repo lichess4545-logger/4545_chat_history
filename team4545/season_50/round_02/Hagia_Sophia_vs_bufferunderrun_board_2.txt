@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/yyzLzmiU
+White     : hagia_sophia
+Black     : bufferunderrun
+Time      : 45+45
+Captured  : 2026-10-03 21:09:46 UTC
+Game ended : 2026-10-03 19:49:36 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[18:49:40] cinemashow: (14...Kb8) go buffer!
+[19:07:57] tranzoo: go buffer!
+[19:09:28] patk74: Go Hagia!
+[19:14:33] rio2018: Go buffer!
+[19:18:07] timefork: Go Hagia
+[19:19:53] cinemashow: (24.bxa5) Qxa5?
+[19:40:58] qrs: (30 axb5) Ra1 is threatened
+[19:41:43] qrs: So black either loses Q for R or the bishop on d7
+[19:43:30] qrs: (30. .. Bg4) ok, or Q and B for two rooks
+[19:43:45] drgarras: Ra1 Bxd1 Rxa5 bxa5 Qc6+ looks crushing
+[19:44:00] qrs: Ye exactly
+[19:44:46] drgarras: If Kb8, I think there is Ba7+
+[19:44:46] qrs: (31 Ra1) here it comes
+[19:46:02] qrs: Ah I was thinking Qd5+ to take the lsb
+[19:47:49] drgarras: Yeah, I thought that in the beginning, but now I think that Qc6 wins on the spot
+[19:48:35] qrs: Does it? Qc6+ Kb8 Ba7+ Kxa7 Qxc7+
+[19:49:05] drgarras: Kh8 b6 and the is mate
+[19:49:36] tactix47: ggs
+[19:49:36] patk74: gg
+[19:49:36] qrs: Indeed Ka8 b6 and Qa7# unstoppable
+[19:49:51] qrs: Well spotted
+[19:49:51] cinemashow: gg
+[19:49:51] qrs: GG
