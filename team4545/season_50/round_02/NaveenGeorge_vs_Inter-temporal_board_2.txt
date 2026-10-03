@@ -1,0 +1,198 @@
+Lichess game chat log
+Game      : https://lichess.org/lOYQjQBh
+White     : naveengeorge
+Black     : inter-temporal
+Time      : 45+45
+Captured  : 2026-10-03 22:04:19 UTC
+Game ended : 2026-10-03 20:44:09 UTC
+Messages  : 188
+────────────────────────────────────────────────────────────
+
+[18:33:20] inter-temporal: (9...Nb8) honestly, idk breyer variation. but i don't really know anything too well. soo
+[18:34:36] inter-temporal: (11.Nbd2) funny trap if i play 11...Re8, 12.Bxf7+ and i lose my Q.
+[18:34:52] inter-temporal: (11...Bb7) now i can play ...Re8, probably
+[18:35:22] inter-temporal: (13.Nf1) so far so book
+[18:35:37] inter-temporal: (13...Bf8) but move 15 might be some branching
+[18:35:53] inter-temporal: (14...g6) here
+[18:35:53] inter-temporal: (14...g6) a4 or Bg5 or smth else... idk
+[18:38:40] inter-temporal: (14...g6) i think after 15.a4 then ..c6 is popular. but maybe just ...Bg7, or even d5 or c5 are okay
+[18:40:42] inter-temporal: (15.a4) most popular
+[18:42:14] inter-temporal: (15...c6) i think i was gonna play ...Bg7. but now i think ...c6 might be easier. idk
+[18:43:30] inter-temporal: (15...Bg7) like ...Bg7, Bg5 Nf8, if d5 then c6 maybe
+[18:46:48] inter-temporal: (15...Bg7) i don't think naveen and i have ever played a league game
+[18:46:48] inter-temporal: (15...Bg7) i met him in the pool and told him about the league
+[18:48:50] bpack: Go Inter!!
+[18:52:23] inter-temporal: (16...Nf8) i might be misremembering
+[18:53:09] inter-temporal: (16...Nf8) i guess there's ..h6 when Nh7 is possible, but not sure if it's any good
+[18:55:41] inter-temporal: (17...Ne6) Ne6, Bh6 Nd7 or  smth
+[18:56:27] inter-temporal: (17...Ne6) i'll need ...Nd7 to cover e5 i think
+[19:00:00] inter-temporal: (18.Be3) seems like i still need Nd7
+[19:03:18] inter-temporal: (18.Be3) i never know when black should open the position
+[19:06:06] inter-temporal: (18...Nd7) being patient with black also gets me crushed sometimes. lol
+[19:06:51] inter-temporal: (18...Nd7) here, i was trying to understand b4
+[19:08:38] inter-temporal: (18...Nd7) perhaps b4 c6 (or c5) and later ...Nb6 would be good there
+[19:09:39] inter-temporal: (18...Nd7) feels a little like someone just poured the chess piece from the box onto this board...
+[19:20:34] glbert: go NaveenGeorge!
+[19:26:25] inter-temporal: (22...d5) ...d5, ed Bxd5, dxe5 disc-A, Nxe5, Rad1 Bb7, maybe
+[19:26:25] feet_barbie: (22.Be3) go it
+[19:27:25] inter-temporal: (22...exd4) maybe ed first
+[19:30:43] inter-temporal: (23...Nb6) ...Nb6, if b3 c5
+[19:37:04] inter-temporal: (25...Nc4) that N began on g8? crazy work horse
+[19:38:21] inter-temporal: (25...Nc4) i might pick up a pawn. then likely have to defend some vicious attack
+[19:39:22] inter-temporal: (25...Nc4) it might help me a little that the Nf3 was traded
+[19:39:52] tommeketoch: only 4 moves still compared to the 6 the queenside knight made
+[19:40:07] inter-temporal: (25...Nc4) if i have a choice, which pawn...
+[19:40:22] inter-temporal: (26.Qf4) the d4 pawn is stronger, but tanking b2 gives me a passer on b5
+[19:40:38] inter-temporal: (26...Bxd4) no choice
+[19:42:24] tommeketoch: I don't think you really can win b2 and keep b5
+[19:48:30] ben3536: (27. e5) If this is an exchange sac, it's an interesting idea, but completely unconvinced it will work
+[19:48:45] bpack: ya i don't see it for white
+[19:55:36] bpack: (...28) recapture with either and Re6 ends all tricks?
+[19:55:51] bpack: tho pawn is probably better on d file rather than e
+[19:57:53] ben3536: (28. Rxe5) now that I'm looking at it more, white keeps having Nf5/Nh5 ideas
+[20:01:26] bpack: True. that's a very bothersome lsb that white has
+[20:01:42] inter-temporal: (28...Rxe5) Bf6 Qf8
+[20:02:12] bpack: oh thats good D. you have the material to give back
+[20:03:13] ben3536: (29. Bf6) Qf8 and Nf5 still looks tricky
+[20:06:16] ben3536: I guess ... h5 Nh6+ Kh7 Nxf7 Qx7 Bxe5 Qxf4 Bxf4 Nxb2 and black remains up two pawns, but there's some there there
+[20:09:50] feet_barbie: (29...Qf8) nf5?
+[20:10:36] feet_barbie: (29...Qf8) just takes and doesnt retake but fun move i see
+[20:11:07] inter-temporal: (29...Qf8) Nf5 h5 maybe
+[20:12:38] feet_barbie: (29...Qf8) just nf5 rxf5 bxf5 and black doesnt retaxe xd
+[20:13:54] feet_barbie: (30.Nf5) nicee
+[20:15:25] feet_barbie: (30...h5) b3 is cooking but bro gonna go g4 or smth
+[20:15:25] lou-e: Hang on, isn't there Bg7 Q somewhere Qh6 here?
+[20:15:41] inter-temporal: (30...h5) probably losing...
+[20:15:41] feet_barbie: (30...h5) maybe rxf5 intermezzo?
+[20:15:56] feet_barbie: (31.g4) @lou-e
+[20:15:56] lou-e: Ah yes good idea
+[20:15:56] feet_barbie: (31.g4) ahha i guessed the move xP
+[20:16:11] feet_barbie: (31.g4) call me morfeet
+[20:16:26] inter-temporal: (31.g4) hmm
+[20:16:26] feet_barbie: (31.g4) morpheet or smth
+[20:16:26] glbert: well done, morfeet.
+[20:16:57] feet_barbie: (31.g4) but re1 seems
+[20:16:57] feet_barbie: (31.g4) ehm
+[20:17:12] feet_barbie: (31.g4) winning
+[20:17:12] feet_barbie: (31.g4) on the spot
+[20:17:12] bpack: lol Paul Morfeet. good basis for a team name
+[20:17:43] feet_barbie: (31.g4) right? re1 kh2 rh1 kg3 rg1 kh2 rg2 kh1 rg4 for starters
+[20:17:43] tactix47: K escapes to h4 if ...Re1+, looks good for White
+[20:17:43] feet_barbie: (31.g4) oh right
+[20:19:14] bpack: i'm scared, is it too late to take the knight?
+[20:21:31] feet_barbie: (32.Kh2) h4?
+[20:21:31] feet_barbie: (32.Kh2) ahaha fun position
+[20:21:46] tactix47: (32.Kh2) if the Rook leaves the e-file then Be7 or Ne7+ are also ideas
+[20:22:47] lou-e: Super fun
+[20:23:02] lou-e: Someone's winning this
+[20:23:33] lou-e: Idk tho I think Bg7 is always met with Qd8 now
+[20:23:48] lou-e: With check
+[20:24:03] feet_barbie: (34.Kh4) seems like everything is in blacks favour now
+[20:25:19] lou-e: Qg5 is the only move I can see
+[20:25:19] lou-e: Snap
+[20:25:35] feet_barbie: (35.Qg5) yeah but doesnt seem to work lets see
+[20:26:20] feet_barbie: (35...Ne5) black can maybe sack the queen too
+[20:26:35] glbert: i am willing to sack black's queen.
+[20:26:35] feet_barbie: (35...Ne5) without maybe
+[20:26:51] feet_barbie: (35...Ne5) and mate on f3 or win the queen
+[20:27:06] feet_barbie: (35...Ne5) this game deserves a queen sac
+[20:27:21] guitarspider: (35...Ne5) Ne7 Qxe7 works yeah?
+[20:27:21] feet_barbie: (35...Ne5) yeah exactly
+[20:27:36] feet_barbie: (35...Ne5) i guess u have to take e5
+[20:28:07] guitarspider: (35...Ne5) Nh6 and Bxg6 doesn't seem to do anything
+[20:28:22] feet_barbie: (35...Ne5) take e5 then try some perpetual or smth
+[20:28:37] lou-e: Yeah I think White is cooked here unfortunately
+[20:28:53] feet_barbie: (35...Ne5) or see the queen sac and allow it for beauty
+[20:30:24] lou-e: Now Ne7+ and hope for a mistake?
+[20:30:24] lou-e: Try sacking on g6
+[20:30:24] feet_barbie: (36...dxe5) yeah
+[20:30:39] feet_barbie: (36...dxe5) kh7 should lose or smth
+[20:30:54] feet_barbie: (37.Ne7+) draw maybe
+[20:32:26] feet_barbie: (37...Kg7) mmh bxg6 messy still
+[20:32:41] feet_barbie: (37...Kg7) thoughh
+[20:33:11] feet_barbie: (38.Bxg6) was it always a draw?
+[20:33:27] feet_barbie: (38.Bxg6) always has been
+[20:33:42] bpack: =P
+[20:34:12] guitarspider: (38.Bxg6) 0.00 clearly
+[20:34:28] feet_barbie: (38.Bxg6) damn
+[20:35:44] feet_barbie: (39...Kf8) now white might win or
+[20:35:59] guitarspider: (39...Kf8) idk what's going on :D
+[20:35:59] feet_barbie: (39...Kf8) nf5 is smth
+[20:36:14] guitarspider: (39...Kf8) yeah
+[20:36:14] bpack: lol this looks like black is in the clear
+[20:36:14] guitarspider: (39...Kf8) Qh8 felt wrong to me
+[20:36:14] feet_barbie: (39...Kf8) ng6 also
+[20:36:29] bpack: Qh8 did seem weird tho
+[20:36:29] lou-e: Nf5 f6?
+[20:36:45] feet_barbie: (39...Kf8) yeah qh8 felt wrong for sure
+[20:36:45] lou-e: Ng6 might just be a draw
+[20:37:00] feet_barbie: (39...Kf8) f6 qg6 or smth
+[20:37:00] guitarspider: (39...Kf8) Ng6 doesn't look that convincing to me, idk
+[20:37:15] guitarspider: (39...Kf8) maybe it works
+[20:37:15] guitarspider: (39...Kf8) Nf5 looks like what the doctor ordered
+[20:37:30] feet_barbie: (39...Kf8) nf5 whats ur move f6 qg6 then what
+[20:37:46] guitarspider: (39...Kf8) resigns I guess
+[20:38:01] lou-e: Prolly capture the bishop lol
+[20:38:01] lou-e: Best practical shot
+[20:38:16] feet_barbie: (39...Kf8) damn
+[20:38:31] guitarspider: (39...Kf8) if you have to give your queen for a bishop you're definitely toast
+[20:39:17] guitarspider: (40.Nf5) doesn't even work, does it? Nf5 f6 Qg6 Qxh5 Kxh5 gxh3 Qxf6+ and mate
+[20:39:32] lou-e: Nf5 on the board!!!
+[20:39:32] feet_barbie: (40.Nf5) and he finds it
+[20:39:47] feet_barbie: (40.Nf5) on move 40! now extra time
+[20:39:47] guitarspider: (40.Nf5) haha
+[20:40:03] lou-e: Can the king sneak away to h7?
+[20:40:18] feet_barbie: (40.Nf5) knight returns to f5 after asking to be taken there for 12 moves
+[20:40:48] lou-e: Like let's say Bd5 here
+[20:40:48] feet_barbie: (40.Nf5) looks over i dont even see fun trys
+[20:41:03] lou-e: Qe7
+[20:41:03] bpack: oh i like Bd5
+[20:41:03] feet_barbie: (40.Nf5) qd8 mate
+[20:41:19] bpack: oh right
+[20:41:19] feet_barbie: (40.Nf5) ahah
+[20:41:19] lou-e: Oh yeah I missed Qd8 as well lol
+[20:41:19] guitarspider: (40.Nf5) it's fun for white at least
+[20:41:19] bpack: =...(
+[20:41:19] lou-e: Was so focused on e7
+[20:41:34] feet_barbie: (40.Nf5) anastasia s mate but horizontally
+[20:41:49] feet_barbie: (40.Nf5) tricky patterns
+[20:42:04] feet_barbie: (40.Nf5) and white is the one with 16 minutes so
+[20:42:20] feet_barbie: (40.Nf5) i think its over amazing game really
+[20:42:20] fritsj: Wild game
+[20:42:20] cinemashow: (40.Nf5) f6?
+[20:42:35] guitarspider: (40.Nf5) f6 Qg6
+[20:43:38] bpack: Might have needed to give the rook back. excited to see
+[20:43:38] lou-e: He did miss the mate!
+[20:43:53] lou-e: Might as well have played Bd5 after all
+[20:43:53] lou-e: Well done Naveen never doubted you for a second mate
+[20:43:53] guitarspider: gg
+[20:43:53] feet_barbie: ahah no cos here qd8 be8
+[20:44:09] lou-e: Oh yeah
+[20:44:24] inter-temporal: nf5 was really great move
+[20:44:24] feet_barbie: gg great game both holy horsy
+[20:44:24] naveengeorge: I had it alllll under control
+[20:44:39] bpack: lol
+[20:44:39] feet_barbie: nf5 was a great move both times
+[20:45:10] inter-temporal: Bxg6 as hard to assess in low time
+[20:45:25] inter-temporal: 38.Bxg6 i needed more time, i was just guessing then
+[20:45:40] feet_barbie: call an ambulance type moves
+[20:45:56] feet_barbie: very hard with no time
+[20:46:11] guitarspider: was 38...fxg6 perpetual?
+[20:46:26] inter-temporal: i just toggeld off the engine
+[20:46:26] inter-temporal: but saw 35...Ne5 was bad
+[20:46:41] inter-temporal: it's just one of those moves that looks right but somehow is a total blunder
+[20:47:12] inter-temporal: i have no chance to reject a move like that in low time.
+[20:47:12] feet_barbie: yeah i saw the fxg6 perpetual in the other lines with kh7 too but still hard on low time
+[20:47:27] guitarspider: I think it was. I don't see anything for white after fxg6 Qxg6 Kh8
+[20:47:27] guitarspider: yeah of course
+[20:47:57] feet_barbie: also 37 kh7 bxg6 same perpetual idea i was looking at but black was also trying to win a move earlier
+[20:48:28] inter-temporal: i never aimed for a draw. and oc allowed the mate
+[20:49:29] inter-temporal: i'll always play a 35...Ne5 blunder in that kind of situation. unless it's ridiculously obvious. even then probably. lol
+[20:51:00] inter-temporal: soooo, my downward slide continues. this game sucks! :)
+[20:51:31] feet_barbie: hey sometimes it works out sometimes it doesnt still a good mindset
+[20:51:31] inter-temporal: i'm gonna put it in a study. thanks for watching ya'll.
+[20:51:46] feet_barbie: was a really fun game by both it takes 2 to tango
+[20:52:01] inter-temporal: :) maybe i'll go play some tangos too
+[20:55:34] naveengeorge: As Ben Finegold would say "not Knight f5, Knife f5"
+[20:56:35] naveengeorge: IT, our first game and consecutive Ruy Lopez in nearly 2 and a half years lol
+[21:01:10] mrscribbles: gg
