@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/Ao9oUz1v
+White     : johansen231
+Black     : serenemoose
+Time      : 45+45
+Captured  : 2026-10-03 13:17:03 UTC
+Game ended : 2026-10-03 11:56:53 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[10:09:40] chesspatzerswan: Hi
+[10:10:41] namegoesinhere: (6...cxd4) go mooooooose!
+[10:10:41] serenemoose: Hey name, hey swan!
+[10:12:12] serenemoose: So I've looked at a whole bunch of lines for an hour after 7 O-O, but they're all blending into one another in my head right now.
+[10:16:01] serenemoose: So not supposed to take c3 until Nbd2 or elsewhere, a6 supposed to preclude Nc3. That leaves Nge7.
+[10:19:04] serenemoose: Might've gone wrong somewhere. There was a line where I already have Ng6 so h4 Be7 h5 Nh4. Nonstarter here.
+[10:26:43] serenemoose: There are lines with g5, but this can't be one, my queen needs to be on c7. But then d4 drops.
+[10:32:04] serenemoose: Think am supposed to castle queenside here. But a6 probably wasn't a good waiting move then.
+[10:34:06] serenemoose: Might have Rb1 problems, yikes.
+[10:36:54] serenemoose: 13. Rb8 Nef6 Nxa5 Qxa5 Rxb7 Qxc3 doesn't look right.
+[10:50:37] serenemoose: Just occurred to me Nc5 Nf5 might be a thing.
+[10:52:38] serenemoose: That a6 has come back to bite me.
+[11:21:04] serenemoose: Can't find a good looking line after 18...b5 Nd4. Bd5 a4 and my knight can't get to d5.
+[11:21:50] serenemoose: Ah the knight hangs, but also potential sacs on b5. Didn't see any of this.
+[11:24:22] serenemoose: There's also a sac on e6 if I don't go Bd5.
+[11:44:57] serenemoose: I thought I had Qh3 after g3.
+[11:47:59] pavonine: very very nice
+[11:51:18] pavonine: Qg3+? or just Qxf3?
+[11:52:34] serenemoose: Didn't see f3 disconnects me from h1.
+[11:57:09] guitarspider: gg
+[11:57:39] serenemoose: Huh, Qx is M4, didn't see it.
+[11:57:54] pavonine: absolutely lovely job, well done
+[11:58:10] serenemoose: Ah, h3 to h1, not directly.
+[12:01:12] serenemoose: Thanks pavonine, and thanks for the game, Johansen231.
+[12:08:33] serenemoose: Huh. 19.a4 and my planned Nf5 would've thrown the advantage away. Gotta look at this later.
