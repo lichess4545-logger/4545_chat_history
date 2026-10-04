@@ -1,0 +1,62 @@
+Lichess game chat log
+Game      : https://lichess.org/MIxBhfac
+White     : digvijay_sunil
+Black     : qudit
+Time      : 45+45
+Captured  : 2026-10-04 06:09:28 UTC
+Game ended : 2026-10-04 04:49:18 UTC
+Messages  : 52
+────────────────────────────────────────────────────────────
+
+[02:37:33] kborman: Go dig!
+[02:39:04] vayne987: Let's Go Qudit!
+[02:39:50] vayne987: I never play Vienna Gambit myself, but I know that it will be a wild game.
+[02:41:52] vayne987: (7.d4) still theory so far
+[02:52:01] digvijay_sunil: so far this is part of my prep, also c4 is a slight inaccuracy
+[03:04:58] digvijay_sunil: bit worried about black long castling and sacrificing the pawns for a kingside attack
+[03:08:00] grzybozbur: na6 tells me black does not intend to castle short, but i don't see how black could get a kingside attack with na6
+[03:10:17] grzybozbur: while white has center control and an extra piece there
+[03:11:49] grzybozbur: ok, the combination of na6 and short castle looks really bad to me
+[03:12:34] digvijay_sunil: there's no way 0-0 is good, I should be able to coordinate an attack really fast now
+[03:15:22] digvijay_sunil: gotta watch out for f6 in the future, note to myself
+[03:24:46] digvijay_sunil: thats a bit annoying, he plan Qg6 after Qg3
+[03:32:07] vayne987: Repeat once
+[03:38:28] digvijay_sunil: doesn't f6 just lose a pawn after Nh5? am i missing something?
+[03:57:15] digvijay_sunil: hope this works
+[04:00:49] vayne987: (21.exf6) I think it is already losing for black, what a sad story.
+[04:18:04] grzybozbur: i understand white can convert in a million different ways, but 25.re1 seems a cery convoluted way to play this
+[04:18:19] vayne987: (25. ...  Bd6) Black’s rook can not leave back rank
+[04:19:05] stclion: so  all the time in the world ,  to push the g and h pawns
+[04:19:35] vayne987: (26.Re6) it has some tactic idea in it
+[04:20:06] stclion: right  for a better +  as well as being able to get behing black's Qside pawns
+[04:20:36] stclion: stopping K-g6
+[04:21:52] stclion: p-g4
+[04:24:55] digvijay_sunil: converting this is taking a lot longer than i anticipated
+[04:26:11] stclion: N-f4  Kxg7  N-e6   +  forks the R
+[04:29:29] grzybozbur: well, white has made 5 strange rook moves for some reason, when it was perfectly fine on f1
+[04:30:00] serenemoose: Go Digs!
+[04:30:46] stclion: take the B off the board
+[04:34:19] stclion: N-f6+  forces the trade  pxf6     and then W brings K up
+[04:34:49] stclion: tho  p-h4 at least  would be necessary
+[04:41:56] mrscribbles: (39.Ke3) I don't read these ancient hieroglyphs
+[04:43:12] mrscribbles: (39.Ke3) this is firmly in "Chess is hard" territory
+[04:44:13] stclion: ;?))   time to pull the ganbiteer tactics out
+[04:44:44] mrscribbles: (40...h6) yes, the Endgame Gambit where you sack your rook to stop them from queening
+[04:45:29] mrscribbles: (40...h6) On the bright side, I give it about a 75% chance white doesn't know how to make with king and rook, so we have those odds
+[04:45:29] stclion: or  sac those two(three ) qside pawns   to give yourself time to get one of these kside pawns to Q
+[04:45:44] stclion: but  this is fine
+[04:46:00] mrscribbles: (41.Ke5) Oh, I was talking about black. I'm rooting for qudit haha
+[04:46:30] stclion: ;?))  old tm8 of mine too   he's hanging in well enough
+[04:47:01] mrscribbles: (42...Rd8) you're more optimistic than me haha, looks dead lost
+[04:47:31] stclion: stretched it out this
+[04:47:31] stclion: this far
+[04:47:46] mrscribbles: (43.Rg2) Oh? I just arrived
+[04:47:46] mrscribbles: (43.Rg2) let me scroll back
+[04:47:46] stclion: a small rule  is to never assume your opp Won't blunder  ...
+[04:48:01] mrscribbles: (43.Rg2) that's very true
+[04:48:17] stclion: ...until there's absolutely no chance of it
+[04:48:32] mrscribbles: (43.Rg2) this looks like lights out tho
+[04:49:02] stclion: smal victories ....trying to keep control  but assure capture of h6 ...
+[04:49:02] mrscribbles: gg
+[04:49:18] serenemoose: gg
+[04:53:06] digvijay_sunil: got a bit lenient at the end where i was just making one move threats moving my rook here and there but i kinda knew black was paralyzed
