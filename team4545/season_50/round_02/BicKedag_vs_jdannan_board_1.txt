@@ -1,0 +1,94 @@
+Lichess game chat log
+Game      : https://lichess.org/Pdup2wb8
+White     : bickedag
+Black     : jdannan
+Time      : 45+45
+Captured  : 2026-10-04 18:39:30 UTC
+Game ended : 2026-10-04 17:19:19 UTC
+Messages  : 84
+────────────────────────────────────────────────────────────
+
+[16:20:22] bickedag: 14th move is the extent of my prep
+[16:20:22] bickedag: wow he must have really prepped I think c5 is the best move
+[16:20:22] bickedag: I actually remember looking at this last night, it is some equal endgame
+[16:20:22] intemperate: /w looks like one of those drawing lines!? Hope not! We need a win here!
+[16:20:22] intemperate: Unless Bic can make that extra Q-Side pawn pay? Don't see anything else?
+[16:20:22] intemperate: I assume, he's just deciding whether to take with the Q or the N on e4? Black also has that awkward iso on c5 to defend of course.
+[16:21:22] intemperate: Broot already lost a pawn, so my hopes aren't high for a win in that game!
+[16:25:41] intemperate: Qx was a bit of a no brainer tbh
+[16:25:57] bickedag: I think I have good chances here with the bishop pair
+[16:26:58] intemperate: Bc4 and d5 will be hard to defend?
+[16:27:13] bickedag: I think there was some g4 stuff here
+[16:28:29] intemperate: Actually no, Rd8 threatens Rd1 winning the DSB if white tries to take the pawn immediately after BxN
+[16:30:00] intemperate: I don't see what g4 achieves?
+[16:31:01] intemperate: OK, well I guess I'm about to find out lol
+[16:31:16] intemperate: I would have gone after the c5 pawn
+[16:32:33] intemperate: Broot won his pawn back, so all equal there
+[16:32:48] retiredseahorse: g4 frees the King with Kg2 to enable Bd5 without check on d1.
+[16:33:18] retiredseahorse: question is 1. whether white has time for that 2. whether the wide open king would be an issue
+[16:33:34] intemperate: Might be too slow to matter. Black has time to untangle himself\
+[16:33:49] retiredseahorse: Black king is super comfy on h7
+[16:34:35] retiredseahorse: at the same time could be too far from the action if we manage to get a past-pawn going on the q-side
+[16:35:20] retiredseahorse: it is hard to find the right plan for White on how to safely mobilise the q-side pawns
+[16:35:36] retiredseahorse: wonder what pieces we want to trade and what we don#t want to trade as White
+[16:35:51] intemperate: Yeah. I don't actually like the K there for Black. It's kind of trapped, with the DSB controlling the f1>h6 diagonal and his own pawns block
+[16:38:38] intemperate: Well it depends, if Bic is forced to play b4 at some point, then the Queening Sq is black so keep the DSB
+[16:39:39] intemperate: On the other hand, if you can swap the c5 pawn for the b2 pawn then the Queening Sq is white, and Black doesn't have a LSB so keep that one.
+[16:41:11] intemperate: I really think g4 just Mae the White K less safe.
+[16:41:56] retiredseahorse: for sure but otherwise w-king had zero squares so was hard to mobilise pieces
+[16:42:27] retiredseahorse: we defo want the bishop pair as white with the past pawn on q-side
+[16:43:59] retiredseahorse: so I am trending towards. exchange rooks and play bishop pair vs n+b
+[16:43:59] intemperate: Maybe Re2 and Be3?
+[16:44:44] intemperate: Yes, for sure, it will be easier for White without the Rooks
+[16:44:44] retiredseahorse: or change w-lsb for knight and play r + dsb vs r + dsb
+[16:46:47] retiredseahorse: sad we don't have gm-commentary today :(
+[16:47:17] bickedag: dang I think Kg2 was wrong. 26. Bf4 g5 27. Bc7 Rd2+ 28. Re2 Rxe2 29. Bxe2 f4 30. Bf3 Ng3 31. Bd6 maybe there is some hope though
+[16:49:04] bickedag: maybe 26. Bf4 g5 27. Bc1 is actually clever
+[16:53:07] bickedag: yeah 26. Bf4 g5 27. Bc1 Nd6 28. Bd3 g6 29. Re8 looks pleasant
+[16:54:08] bickedag: only other option is 26. Be3 but maybe he has Bh4 27. Re2 Ng3 there
+[16:58:13] intemperate: We need on. Didn't understand that plan at all lol
+[16:58:28] bickedag: I forgot after 27. Bc1 he has at least g6
+[16:58:28] intemperate: *one
+[17:00:00] bickedag: wait I am missing the obvious gxf5 gxf4 Rxe4 Rd2 Re2 here, but it looks drawish even
+[17:03:33] intemperate: The way he's playing it, looks like a draw to me? If he gives away the b2 pawn, he has to win the c5 pawn, not f5, right?
+[17:04:19] intemperate: But even so with both DSBs on the board, plus the Rooks, it's going to be difficult to defend and isolate pawn, for either player
+[17:04:34] bickedag: ok so 27. Bc1 g6 28. Be6 Nd6 29. Be3 might give me some play
+[17:05:50] bickedag: it will have to do I guess
+[17:06:20] bickedag: wait am I an idiot... didn't look at 27... Kg6. Pathetic
+[17:06:36] bickedag: nvm still Be6 I am fine
+[17:09:09] intemperate: Rb8
+[17:10:11] intemperate: So he finally got around to my Re2 Be3 set up :p
+[17:10:41] bickedag: if 30... Rb5 saves black I swear......
+[17:12:28] bickedag: man I am not seeing anything today
+[17:13:29] intemperate: Now Rc2?
+[17:13:59] intemperate: Bc5
+[17:15:15] bickedag: why do I feel like 32. Bb4 he will lowkey sac an exchange
+[17:18:03] intemperate: That is actually dangerous!
+[17:18:18] intemperate: Surprised he's walked into it!
+[17:19:19] bickedag: I think I am finally feeling good about my position, only took 24 moves of prep, a couple of bad moves by black, and self-cursing
+[17:19:34] bickedag: felt a bit early to resign
+[17:20:05] intemperate: Resigned??
+[17:20:20] jdannan: well it was obvioulsy hopeless at that point
+[17:20:35] jdannan: and it's dinner time here
+[17:20:50] bickedag: I guess, but it's one pawn
+[17:20:50] jdannan: I could have wasted half an hour of everone's time
+[17:21:06] bickedag: definitely I think 30... Rb5 would have held
+[17:21:36] jdannan: yes
+[17:21:36] jdannan: maybe
+[17:21:51] jdannan: but it's too late for that now :-)
+[17:22:07] jdannan: I didn't see Rb5
+[17:22:22] jdannan: seems swapping Qs was the big mistake. Always struggling after that
+[17:22:37] bickedag: so how much of this was prep from you
+[17:22:53] bickedag: I had the position after 24. g4 on my computer last night
+[17:23:08] jdannan: I knew the line up to about c5 though I'm not sure the move order
+[17:23:38] bickedag: yeah c5 is strong, all other moves I didn't look deeply at
+[17:23:54] jdannan: I was playing a long game yesterday and didn't look at anytihing :-)
+[17:24:40] jdannan: I did see you played fantasy but that's about it
+[17:25:56] bickedag: I guess 27... Nd6 would have been a better move order
+[17:25:56] bickedag: because after Be6 you can finally play f4 without losing anything
+[17:27:43] jdannan: I wonder if my pawns were better just where they were. Let's face it I wasn't playing for a win. The N was very nice on e4
+[17:30:15] jdannan: lol it claims c4 was my only mistake. Well swapping Qs was another for sure
+[17:30:45] jdannan: oh yeah it does say inaccuracy. Fair enough
+[17:31:16] bickedag: the big turning point was Qxe4 rather than Nxe4 which would have been hard to crack
+[17:31:46] jdannan: yes I just thought my king would be draughty with Qs on. After the same Re1 f5 thing
+[17:32:17] jdannan: but so is yours of course
