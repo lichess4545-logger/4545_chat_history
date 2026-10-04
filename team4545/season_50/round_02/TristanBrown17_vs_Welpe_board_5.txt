@@ -1,0 +1,101 @@
+Lichess game chat log
+Game      : https://lichess.org/hkjMPTRs
+White     : tristanbrown17
+Black     : welpe
+Time      : 45+45
+Captured  : 2026-10-04 21:50:23 UTC
+Game ended : 2026-10-04 20:30:10 UTC
+Messages  : 91
+────────────────────────────────────────────────────────────
+
+[19:02:49] yellorambo: gl Tristan!
+[19:03:35] pineapplechiffoncake: go Tristan!
+[19:05:06] leverkuhn: ooh Vienna time, will we see the fashionable 5.Qf3?
+[19:06:07] leverkuhn: yes faster than I can type it; I never saw this line until about four years ago, but now it's completly supplanted the 'standard' 5.Nf3
+[19:06:22] leverkuhn: Welpe seems prepared for this
+[19:08:39] leverkuhn: I play 5...f5!? in this variation, but a vaguely remember looking into 5...Nc6 as an alternative a few years ago
+[19:09:55] yellorambo: f5 is a strong choice I think, very annoying to play against as White
+[19:10:41] leverkuhn: I think 9.Qxe4 was the main line, but 9.Be3 didn't phase Welpe at all as he takes one of the two pawns on offer
+[19:12:12] nyanners: greed is good, unless it isnt
+[19:12:12] leverkuhn: yes yellorambo, I find that after 5.Qf3 f5 6.d3 Nxc3 7.bxc3 d4! few White players have a good sense of what to do
+[19:12:28] nyanners: i dont understand either side so i roll with the Nc6 enjoyers
+[19:12:43] nyanners: and here id play 6..Bd7
+[19:12:43] leverkuhn: other than hope you fall for Be2-h5+ in one of the situations where it works
+[19:13:13] schittering06: Let's go Tristan!
+[19:13:44] nyanners: i suppose the good thing about this bluff call is that you can Qe4 back :o
+[19:14:14] nyanners: like, exactly now
+[19:15:15] leverkuhn: if 10...Qxb2 would White have to play 11.Bxc6+ is is that some Andersson-Kieseritsky type sac with 11.Qxd5?
+[19:15:15] leverkuhn: *is there
+[19:15:46] nyanners: Qxb2 is the kinda move id be like "no way opp plays this" and then they play this
+[19:16:31] nyanners: at this tc it def has to be considered
+[19:16:31] leverkuhn: I feel like Nlance plays ...Qxb2 in ~3 seconds here
+[19:16:31] leverkuhn: for example
+[19:16:47] nyanners: "always bluff call" is a respectable school imo
+[19:17:48] nyanners: d5 defends h1
+[19:17:48] nyanners: thonk
+[19:19:04] mennonite: Let's go Tristan!
+[19:20:05] leverkuhn: ohh right, so 10...Qxb2 11.Qxd5 Qxa1+? probably just a blunder
+[19:20:35] mennonite: though unlike the Immortal Game, the other rook is covered
+[19:20:50] leverkuhn: yeah I missed that at first Mennonite until nyanners pointed it out
+[19:21:06] nyanners: i didnt realize until like 3 minutes in so
+[19:21:06] nyanners: i think we are bad
+[19:21:21] mennonite: Me either, I actually had to play over it in the analysis board
+[19:22:06] leverkuhn: very spicy move by White, where's the mate after 11...Qxb5?
+[19:22:06] nyanners: yea what about THIS one :o
+[19:22:22] nyanners: problem is Bg5 isnt winning
+[19:22:37] nyanners: (probably)
+[19:22:52] leverkuhn: yeah he'll have to slow-play it with Rad1 in there somewhere I would guess
+[19:23:23] leverkuhn: what a wild game!
+[19:24:54] nyanners: feels like enough
+[19:25:09] nyanners: like if you have to go Rad1 Ne7 then.... yea
+[19:25:55] mennonite: yeah I can't find a good way forward after Ne7
+[19:26:25] leverkuhn: maybe 12.Qxf7+ Kd8 13.Bg5+ Be7 and 14.Rad1 then
+[19:26:41] leverkuhn: maybe that's what you were already talking about, not sure
+[19:27:26] nyanners: i meant that black's pieces are so bad after Ne7 that it has to be at least good enough for white :o
+[19:27:26] nyanners: but Bg5+ first is a good thought
+[19:27:26] nyanners: or.... this??
+[19:27:42] nyanners: this seems dead winning actually
+[19:27:42] nyanners: so, uh, there
+[19:27:57] leverkuhn: wow, White still in prep!
+[19:27:57] leverkuhn: that's not good news for Welpe
+[19:28:12] nyanners: i think this is just a bust actually
+[19:28:12] nyanners: tempo and gg
+[19:29:43] leverkuhn: 13...Qc5 would almost be a thing if 14.Nxc6+ wasn't check but . . . ouch
+[19:32:00] leverkuhn: well this was quite the trap White sprung, it seems discretion with 10...Qe4 was the better part of valor this time
+[19:32:31] nyanners: the bad thing about always bluff calling is that sometimes they arent bluffing
+[19:32:46] nyanners: but you may learn........ maybe
+[19:33:01] leverkuhn: yep, I respect it from Welpe, but he got burned this time
+[19:38:52] mennonite: I like having Tristan as a teammate because he has probably the most dissimilar play style to me of anyone in the league
+[19:43:57] tristanbrown17: I don't think I've ever gotten this far into this particular gambit
+[19:43:57] tristanbrown17: scribs had better be proud
+[19:45:44] mqll: So, Nxc6+ Qxc6 Bg5+ Be7 Qxe7? Am I missing something?
+[19:47:30] mennonite: Bg5+ isn't legal
+[19:47:46] mqll: Ah!
+[19:48:01] mqll: That makes sense.
+[19:49:02] mqll: (I looked at it Mennonite and thought “No, B can get to g5...Oh!!!”)
+[19:49:02] mennonite: It took me a moment though.
+[19:50:03] mqll: Don’t appoint my worship of you!
+[19:50:03] mqll: Don’t spoil....
+[19:57:55] mennonite: 16.Nxc7 seems safest to me
+[19:59:11] tristanbrown17: Nxc7?
+[19:59:27] tristanbrown17: I kinda like e6, but don't see the f/u after Re8
+[20:02:14] mennonite: oh it took me a moment to realize that the first word in f/u is "follow"
+[20:07:04] mqll: I was just impressed that you were giving moves psychicly to Tristan.
+[20:08:20] mennonite: this I don't like as much as Black can cause trouble with Bg4
+[20:09:51] mennonite: well 16...Bg4 17.Qxg7 Rg8 18.Rf8+ would avoid disaster
+[20:14:25] nyanners: oooohh black found a way to not resign.. sorta
+[20:14:56] nyanners: id probably go with qx rf8
+[20:15:11] nyanners: make use of the nb5 for another move
+[20:21:32] mennonite: now Qf3 is pretty simple
+[20:26:22] tristanbrown17: well I'm dumb
+[20:26:37] tristanbrown17: how long has that been there?
+[20:27:22] tristanbrown17: but maybe there's Bf5
+[20:27:38] tristanbrown17: eh nvm
+[20:27:53] tristanbrown17: Bf5, Nf7+, Ke8, Qxe3, if Kxf7, g4!
+[20:29:55] mennonite: gg
+[20:29:55] pineapplechiffoncake: gg
+[20:30:10] leverkuhn: gg
+[20:30:10] yellorambo: gg
+[20:30:40] schittering06: gg
+[20:32:12] nyanners: gg
+[20:33:28] goldenretrieverchess: gg
