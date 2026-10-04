@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/n0VrFfpL
+White     : neothehero
+Black     : rajjsinghh
+Time      : 45+45
+Captured  : 2026-10-04 21:34:35 UTC
+Game ended : 2026-10-04 20:14:25 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[18:28:46] pineapplechiffoncake: go rajjsinghh!
+[18:28:46] rajjsinghh: after trading on d5 it's hard for him to attack my weak d6 pawn
+[18:28:46] rajjsinghh: i also have the half open c file, can't be unhappy
+[18:28:46] rajjsinghh: he's playing very quickly, but last week he played quickly and hung a piece
+[18:28:46] neothehero: (15...Nf6) f4 O-O fxe5 dxe5 looks like my d5 pawn will be weak
+[18:28:46] rajjsinghh: I'm not sure what's going on with board 8 so i don't know what that does to the match situation
+[18:28:46] neothehero: (15...Nf6) candidate moves are f4, Bg5, Re1
+[18:28:46] neothehero: (15...Nf6) black might play e4 to cut off the defense of my d5 pawn
+[18:28:46] neothehero: (15...Nf6) Bg5 makes the most sense, as it pins the knight
+[18:28:46] rajjsinghh: seems like one of those positions where I'm going to leave my king in the middle
+[18:28:46] neothehero: (16...Qc7) Rc1 seems to make more sense than c3, as c3 might have th erisk of black playing a5-b4 later
+[18:28:46] neothehero: (16...Qc7) I realised that black can't castle, as I'll play Bxf6 gxf6 Qxh5 if black castles
+[18:28:46] neothehero: (16...Qc7) Rc1 e4 doesn't work
+[18:28:46] genturgidson: Go neo!
+[18:28:46] neothehero: (16...Qc7) Rc1 Qa5 a6 b4 opens up an attack on the d5 pawn
+[18:28:46] neothehero: (16...Qc7) I meant Rc1 Qa5 a3 b4
+[18:29:31] rajjsinghh: my girlfriend left me like 20 minutes before the game so if I lose I'm blaming that
+[18:29:47] neothehero: (16...Qc7) now I start to like c3 more. on a5-b4 I might have Qa4+
+[18:30:32] neothehero: (16...Qc7) c3 Qc4 might be annoyting
+[18:32:19] neothehero: (16...Qc7) f4 Qxc2 fxe5 Ne4!
+[18:32:34] micomps: Go Raj!!
+[18:34:05] neothehero: (16...Qc7) c3 Qc4 Bxf6 gxf6
+[18:34:36] rajjsinghh: the long think is curious. I'm expecting Bxf6 gf c3 Qc4 followed by Rc5
+[18:34:51] rajjsinghh: d5 is a bit of a tough pawn to defend and white hasn't got pieces to attack me
+[18:42:28] rajjsinghh: now some f4 counterplay is also weaker
+[18:42:44] neothehero: (18...gxf6) Rc4 might be annoying, I might have to play Qb3 now to play Rad1 on the next move
+[18:44:16] neothehero: (18...gxf6) (18...gxf6) or Qf3 attacking f6
+[18:46:18] neothehero: (18...gxf6) Qf3 Rh6 Qe3 Rg6 Be4?
+[18:48:35] neothehero: (18...gxf6) Qf3 Rh6 Qe3 Rg6 black might play f5 next, and i really dont want to allow f5
+[18:53:40] neothehero: (19.Qf3) Rh6 Rhd1
+[18:53:55] rajjsinghh: he's basically asking if i'm really considering Ke7
+[18:54:40] rajjsinghh: and with this big pawn wall, my king is probably safe on e7
+[18:55:57] rajjsinghh: I guess he frees up Rd1 so he's holding d5 for now, but i can't see white achieving anything
+[19:04:20] neothehero: (20...h4) wow thats unexpected
+[19:05:20] neothehero: (20...h4) g4 opens up the f4 square, black rook might land there later
+[19:06:21] neothehero: (20...h4) g4 qxe4 Bxe4 Rc4 the rook goes to f4
+[19:08:23] neothehero: (20...h4) or should i just ignore
+[19:09:09] neothehero: (20...h4) Kh2?
+[19:13:28] rajjsinghh: Qxc4 bc followed by Rhc8 and doubling on  the fifth rank to win d5
+[19:15:15] neothehero: (22.Rfd1) Rd4 is my idea now
+[19:15:45] neothehero: (22.Rfd1) black seems forced tp trade queens
+[19:16:46] neothehero: (22.Rfd1) or move the king away
+[19:19:49] rajjsinghh: white has done well defending d5, now it's about looking for other breaks
+[19:20:35] rajjsinghh: probably playing for Rg8-f5
+[19:20:50] neothehero: (23...a5) black wants b4 to open up the c-file
+[19:20:50] neothehero: (23...a5) Rac1 seems to be an automatic move
+[19:21:20] neothehero: (23...a5) Rac1 Rhc8
+[19:21:36] neothehero: (23...a5) or should I play a3
+[19:23:22] rajjsinghh: the white bishop may make a strong blockader but I also think there's no way I lose this game, it feels two results
+[19:25:09] neothehero: (24.a3) at this point I'm playing for a draw
+[19:25:24] neothehero: (24...Rg8) not sure what that does
+[19:25:55] neothehero: (24...Rg8) Bc8 then Bxg4?
+[19:26:10] neothehero: (24...Rg8) or to play f5?
+[19:26:40] neothehero: (24...Rg8)  Kf1?
+[19:29:13] neothehero: (25.Kf1) f5 gxf5 Rc4-f4 is a problem
+[19:33:47] neothehero: (26...b4) this is another surprise
+[19:36:19] rajjsinghh: b4 now looks like a misstep but the d6 pawn isn't easy to attack
+[19:58:39] rajjsinghh: Rg5! great move
+[20:02:13] rajjsinghh: textbook draw but white does have to defend well
+[20:04:45] micomps: All R&P endings are drawn.......but, always play on! Go Raj!
+[20:10:36] lemuelgullible: all R&P nedgames are drawn... except if both playwers blitz out the moves
+[20:17:28] neothehero: oh wow 30.Bh7!! to force Rc3 Rxc3 bxc3 and a winning rook endgame
+[20:17:43] neothehero: that was not on my radar at all
+[20:18:13] rajjsinghh: yeah oops lol
+[20:18:29] rajjsinghh: I missed your Rc3 idea
+[20:18:44] neothehero: but turned out that was not enough for a win hahaha
