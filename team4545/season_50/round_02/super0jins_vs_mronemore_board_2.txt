@@ -1,0 +1,155 @@
+Lichess game chat log
+Game      : https://lichess.org/cO5hEQgP
+White     : super0jins
+Black     : mronemore
+Time      : 45+45
+Captured  : 2026-10-04 22:27:58 UTC
+Game ended : 2026-10-04 21:07:48 UTC
+Messages  : 145
+────────────────────────────────────────────────────────────
+
+[19:02:31] tactix47: Go mronemore!!
+[19:05:04] super0jins: lets see if we get the d6 line, that seems difficult to play with black and fun with white
+[19:06:05] super0jins: if Nf6 I will play slow Italian I think, d4 lines are interesting too but havent checked them
+[19:10:09] super0jins: 7. the main point now is to prevent Bg4, the moveorders are a bit subtle here
+[19:10:40] super0jins: but the threat of d5 is not subtle at all so Bd7 is the only move
+[19:15:14] super0jins: 8..Nf6 is inaccurate, not super sure why but black wants to play f5 in most lines tear the centre apart
+[19:15:45] super0jins: in the one game in the database mronemore played 9..h6 here
+[19:18:17] super0jins: I like Bc4 here, still stops Bg4 because Bxf7 is strong
+[19:18:32] super0jins: at least that is the case when the Knight is on e7
+[19:19:33] super0jins: yeah so here that does not work unless I have some e5
+[19:23:07] super0jins: I had briefly looked at this, but I am not sure about the complications, and Ba4 keeping the pin is fine
+[19:29:13] super0jins: one plan is to play 13.d5 and trade of the developed black pieces, but not sure if I want to do that with a space advantage
+[19:33:01] super0jins: hello MrScribbles, Taxtix47, Acebulf and Feet_Barbie/Fat_barbie whoever you are
+[19:38:52] acebulf: lol
+[19:39:07] acebulf: Feet_Barbie catching strays
+[19:42:40] super0jins: not sure whether to pin the f7 pawn so I can sac on h6 in some lines or play Bc2 to eye g6
+[19:44:57] super0jins: when two moves look good, play the most fun one
+[19:45:28] acebulf: amen to that
+[19:45:28] super0jins: next Qd2 and sac on h6 if possible
+[19:48:46] super0jins: maybe I had 13. e5 actually, did not even consider it
+[19:49:47] super0jins: black can probabbly respod with Nfd5 there
+[19:58:25] super0jins: e5 dx Nx I like, e5 Bxf3 Qxf3 seems active enough too
+[19:58:40] super0jins: not sure what I think about e5 Nfd5
+[20:02:44] super0jins: well this looks fun and messy, first instinct d5
+[20:05:32] super0jins: d5 Nxc3 bxc3 Bxe3 fxe3 Bb5 c4, so not Bb5 but Bd7 and then I take on d6?
+[20:09:05] tactix47: (16.bxc3) superonions with the complete live commentary :)
+[20:11:53] super0jins: I can also sac the exchange, Bxb6 Bxf1 Bd4 Bb4 but not sure if I have enough there, the bishops look nice
+[20:14:56] super0jins: ooo, funny line but does it work
+[20:17:28] super0jins: Bxb6 Bxf1 exd6 Qxe6 (pawn is pinned)  Bd4 Bb4 c4 Be8 c5
+[20:17:43] super0jins: what a mess
+[20:19:45] super0jins: I can also take on c7 and fork with d6 perhaps
+[20:20:16] super0jins: after Bxf1 exd6 Qxd6 Bxc7
+[20:20:46] super0jins: unless I cant count
+[20:24:35] feet_barbie: (18.exd6) what a sequence
+[20:25:20] tactix47: (18.exd6) Yes, very complex
+[20:27:22] super0jins: with the B on e8 I can push the c and d pawns to trap it
+[20:31:56] super0jins: maybe I cant count
+[20:37:01] super0jins: be2 seems strong actually...
+[20:38:03] super0jins: but Qd2 is protected by the knight so it barely still works I think
+[20:43:08] tactix47: (21...Rfe8) Interesting material imbalance
+[20:45:26] feet_barbie: (21...Rfe8) rc1?
+[20:46:11] super0jins: my team needs a win so Ima play on
+[20:53:34] tactix47: (26.Kh2) Heads-up thinking, offering the draw to guarantee at least a draw in the match.
+[21:00:11] super0jins: the black pieces are tied down, the white pieces are tied down, not sure what to make of this
+[21:00:41] super0jins: I may have a little more room to work with
+[21:01:42] super0jins: oh, I missed a tactic I could have played
+[21:02:13] super0jins: but the tactic does not work, I thought I had Qxd3
+[21:02:58] super0jins: I gain 2 rooks for the queen in the other line, seems good enough
+[21:06:32] tactix47: (30.Rc8+) A nice plan by White with 29.Qxd3
+[21:06:47] acebulf: woooo
+[21:09:34] mronemore: I didnt realise you were such an expert in this line super0jins - nice
+[21:11:06] mronemore: very much the expert in this opening line super0jins - nice
+[21:13:38] mronemore: I didnt enjoy playing that game
+[21:13:38] mronemore: you are very strong
+[21:14:23] mronemore: care to talk through some of the lines?
+[21:17:42] feet_barbie: crazy game
+[21:19:13] mronemore: what is the line you saw at the end that wins two rook for the queen
+[21:21:15] mronemore: I'm not seeing it
+[21:24:02] mronemore: why not talk about the game and your thinking?
+[21:47:54] super0jins: Oh I only now see the chat when I reload the page
+[21:48:39] super0jins: I prepped this line because it looked like one of the easier to exploit lines in your repertoire
+[21:49:10] super0jins: Otb I play a mix between e4 and d4
+[21:51:42] super0jins: In the end Re8 keeps the queen on, so thats why I briefly ruled it out
+[22:05:54] mronemore: ok
+[22:06:09] mronemore: let's chat then
+[22:07:10] mronemore: I think you did really well to evaluate the exchange sac lines - well done
+[22:07:26] mronemore: you werent' sure about the main line though when you played it?
+[22:07:41] super0jins: No I did not initially spot Bxc7
+[22:08:11] mronemore: but you need to see that to play it surely?
+[22:08:11] super0jins: I intended to play Bd4 almost trapping the queen
+[22:08:11] mronemore: what was the line with the c and d pawns trapping the bishop?
+[22:08:26] super0jins: But that gets messy real quick
+[22:08:26] mronemore: I am interested to learn
+[22:08:42] super0jins: That was a miscalculation apearently
+[22:08:42] mronemore: it either traps or it doesnt surely
+[22:09:12] mronemore: bit lucky for you then - is that what you are saying
+[22:09:42] super0jins: Yeah, I felt I had enough for the exchange there, but Bxc7 made it a lot more clear
+[22:09:58] mronemore: explain what compensation you had
+[22:09:58] mronemore: which line are you talking about
+[22:10:28] mronemore: 18 Bd4
+[22:10:43] super0jins: 19 Bd4
+[22:10:43] mronemore: that is the line?
+[22:11:44] super0jins: with c4
+[22:11:59] super0jins: but where did you intend to put the bishop e8 or d7?
+[22:11:59] mronemore: wow - so that was the line you went into that exhancge sac with?
+[22:11:59] super0jins: yes
+[22:12:30] mronemore: where did you stop to evaluate
+[22:12:45] mronemore: after Bb4 c4 Be8
+[22:13:15] super0jins: around Be8 I thought I could trap the bishop with c5 then d6
+[22:13:31] mronemore: is this where you talk about 'nearly trapping the queen'
+[22:13:31] super0jins: But as I just said that does not seem to work
+[22:14:01] super0jins: Yeah the queen is closed to trapped but it is unclear in the Bd7 line
+[22:14:01] mronemore: that is incredible
+[22:14:47] mronemore: what did you look at after 19.Bd4 Bb5 c4 Be8 c5
+[22:15:02] super0jins: But in the Be8 line you can go back to d8, but I did not really look at that because I thought I had active enough bishops
+[22:16:33] mronemore: so after I played 17.Bxf1 you were planning to play Bd4
+[22:17:49] super0jins: I think initially that is what I considered yes
+[22:18:04] super0jins: But when I considered exd it is obviously better
+[22:18:50] mronemore: yes it is better - but you went into the exchange sac without actually seeing that line
+[22:19:36] mronemore: you were looking at Bd4 and that incredible line 'nearly trapping' my queen - and looking at advancing the c and d pawns to trap my bishop?
+[22:19:36] super0jins: I spent 10 minutes, so I am sure I saw at least exd
+[22:20:21] super0jins: But I cant say for sure if I spotted Bxc7 before playing Bxb6
+[22:20:21] mronemore: your comments in the chat leave it a bit open
+[22:21:07] mronemore: you talk about the pawn fork as 'perhaps'
+[22:21:07] mronemore: surely you either see it or not
+[22:21:22] super0jins: Yes, I typed that when I was calculating
+[22:21:37] mronemore: nobody says 'perhaps'
+[22:21:37] super0jins: I do
+[22:21:53] super0jins: The position was still a little unclear after
+[22:21:53] mronemore: it is either on, or it isnt
+[22:21:53] super0jins: For example Be2
+[22:21:53] mronemore: after the pawn fork?
+[22:22:08] super0jins: yup
+[22:22:08] mronemore: well yes let's talk about Be2
+[22:22:23] mronemore: because I also considered that
+[22:22:38] super0jins: you deflect my queen from the pawn if I take the bishop, I intended Qd2
+[22:23:24] super0jins: and then Qd8 and my knight covers my queen
+[22:23:24] mronemore: did you consider the forcing dxc7
+[22:23:54] super0jins: no I thought Qd2 was enough
+[22:24:10] mronemore: so you did not even look at the pawn takes queen move?
+[22:24:40] super0jins: ofcourse I did but once I noticed Qd2 is strong I did not go deeper
+[22:24:55] mronemore: ok lastly - I want to know the comment where you talk about winning two rooks for the queen
+[22:24:55] mronemore: what line is that
+[22:25:10] super0jins: I thought when the game ended you can play Re8
+[22:25:26] super0jins: and the queen stays on after I take the rook
+[22:25:56] mronemore: you are a great player
+[22:25:56] mronemore: +800 elo in 5 months
+[22:26:11] mronemore: I salute you sir
+[22:26:11] super0jins: I still have a lot there but the second I spotted it I thought the tactic didnt work
+[22:26:26] super0jins: 800 elo in 5 months?
+[22:26:42] super0jins: I just started playing online
+[22:26:42] mronemore: your opening prep is amazing
+[22:26:42] super0jins: I have played quite a bit OTB
+[22:26:57] mronemore: I had no idea you had such a deep feeling for the 'quiet' d6 lines
+[22:26:57] mronemore: yep
+[22:26:57] mronemore: I know
+[22:27:12] mronemore: you are really good
+[22:27:12] mronemore: well played
+[22:27:12] super0jins: What are you insinuating?
+[22:27:27] mronemore: nothing
+[22:27:27] mronemore: great play
+[22:27:27] mronemore: great commentary
+[22:27:27] mronemore: keep it up
+[22:27:43] mronemore: all the best
+[22:27:43] super0jins: Thanks for the game!
