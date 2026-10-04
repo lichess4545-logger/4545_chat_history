@@ -1,0 +1,145 @@
+Lichess game chat log
+Game      : https://lichess.org/RNY1zWEi
+White     : mennonite
+Black     : leverkuhn
+Time      : 45+45
+Captured  : 2026-10-04 02:27:39 UTC
+Game ended : 2026-10-04 01:07:29 UTC
+Messages  : 135
+────────────────────────────────────────────────────────────
+
+[23:01:33] jg777: Let’s go Mennonite!
+[23:04:06] mennonite: all three captures are plausible but he has most often captured with the bishop. But it's been several years.
+[23:06:23] yellorambo: that was surprisingly quick
+[23:06:38] mennonite: of the three lines, this was the one that I really least wanted to go down. I don't think I get as much initiative
+[23:08:09] gavalanche20: (9.Qxc5) Oh this is theory
+[23:09:56] mennonite: oh man... i did look at this, but I was primarily expecting ...d6. Let's see... I think I castle...
+[23:10:26] mennonite: but i remember there being f3 in there somewhere too... i should have spent more time on this
+[23:10:57] jg777: Well you got 47 minutes to sort it out :)
+[23:12:28] gavalanche20: (9.Qxc5) Side note Mennonite on B1, congrats!
+[23:13:14] jg777: Yeah, he was last season and did great. I think he'll do well this season on B1 too!
+[23:13:44] mennonite: maybe it was 10.f3...
+[23:13:44] jg777: I think he even toppled a 2400 player last season- or was it 2300?
+[23:16:16] jg777: I think 0-0 makes sense, f3 can always be played later, next move or otherwise. Got to ensure the king is safe
+[23:16:32] leverkuhn: surprising opening choice. I had a win in a 5.d4 Italian Gambit at the end of last season; didn't expect it to get repeated so soon
+[23:17:02] gavalanche20: (9...d5) Damn he took down Rcyx? Very cool
+[23:17:02] gavalanche20: (9...d5) 2428
+[23:17:17] jg777: Yeah, that's the player.
+[23:18:03] jg777: Don't overthink it Mennonite, castling has no downsides and f3 has less risk after castling than it does now!
+[23:18:49] leverkuhn: I decided to transpose to the Scotch Gambit to dodge prep, and we got the 5.Ng5 stuff. I've played both 9...d5 and 9...d6 I think
+[23:19:04] jg777: Wuhoo! Castles.
+[23:19:19] goldenretrieverchess: Go Mennonite!
+[23:20:50] mennonite: i'm pretty sure this is what i looked at... if i'm wrong, i'm wrong
+[23:22:52] mennonite: ok now i'm officially out of book
+[23:24:39] mennonite: Qg5 seems most principled but i can fall back on cxd if i see something i don't like
+[23:24:54] leverkuhn: I think we're still following the critical line here; 12.Qxd6 cxd6 13.cxd4 Nxd4 14.Nc3 Bg4!? is my recollection of my line
+[23:28:12] mennonite: i really want some ice cream but maybe i'll save that for my midgame mind clearing stroll
+[23:30:29] feet_barbie: (12.Qg5) go LK
+[23:30:44] feet_barbie: (12.Qg5) oh go mennonite too
+[23:31:15] jg777: Go chess, right?
+[23:31:15] jg777: Go fantastic game :)
+[23:32:46] jg777: So a Mennonite win secures us at least a match draw, which would be amazing. But happy to just have a fun game and the result be what it be.
+[23:37:51] mennonite: probably a good time for the ice cream now.
+[23:38:37] yellorambo: ice cream gambit :o
+[23:39:37] goldenretrieverchess: Heck yea!
+[23:44:57] mennonite: one of my biggest struggles is how to structure my thinking when i'm not on the move.
+[23:48:46] leverkuhn: if I started with 12...Bf5, after 13.Bf4 White's queen might retreat to g3 later, so I think this was the right move order.
+[23:49:31] jg777: Those central pawn look a bit scary, think I'd be tempted to cxd4 here, and deal with Nxd4  if it comes.
+[23:49:47] mennonite: out of nowhere i think i'm in trouble
+[23:50:47] jg777: Well you only have the queen in play, they have multiple pieces and a center here, so it could feel that way. Looks a bit uneasy to me .
+[23:51:33] jg777: Either Bf4-Qg3, or cxd4 would be my candidate move/ideas here.
+[23:51:48] jg777: Either I am trying to get pieces into play ASAP, or at least chip that scary looking center pawn duo away.
+[23:53:04] berndwind: Go Mennonite! First look at this is like... what on earth is happening
+[23:54:36] berndwind: Ah this line! It’s even given in part 1 of Yusupov’s chess fundamentals series in his chapter on opening play, using a Morphy game
+[23:54:51] berndwind: To show how black does well, but white has good chances
+[23:55:21] inter-temporal: (14.Bf4) kewl opening
+[23:55:37] berndwind: Yup it’s a fun one!
+[23:55:37] mennonite: i briefly looked at 14.Bxh6 but just couldn't convince myself it was worth analyzing further
+[23:56:22] berndwind: Bxh6 looks suicidal with the pin and pressure on the h file
+[00:02:59] jg777: Yeah, glad they ruled out Bxh6.Pretty sure g5 would immediately win for black there.
+[00:03:44] jg777: Maybe Qh5+ gets away with it... eh no, that should also lose.
+[00:04:00] jg777: Either way, to risky at minimum, glad they didn't play it.
+[00:05:31] jg777: whoa!
+[00:05:46] jg777: Here we go!
+[00:06:17] leverkuhn: I felt like there should be something with 14...Qd7 15.Qg3 g5 16.Bxc7 with the bishop almost trapped, but it didn't coalesce for me
+[00:06:47] mennonite: this is just weird and imbalanced. down on development, his pawns shattered, my king uneasy... way up on time...
+[00:07:33] mennonite: ah and i see now what the plan is for those doubled pawns.
+[00:08:19] mennonite: so this seems like a good time to give back some of that extra time
+[00:08:19] leverkuhn: the pawn has been returned, but I've gotten queens off and still have maybe a slight initiative
+[00:09:35] yellorambo: I'm assuming you can't justify the umbrella pawn here
+[00:13:08] mennonite: the only thing i'm convinced of at this point is that g3 is probably wrong
+[00:14:39] nyanners: my main thought as white at this point would be "not cool"
+[00:14:55] nyanners: not sure about actual chess thoughts
+[00:15:10] mennonite: well... if i ignore it, then i don't think i can keep the knight off f3
+[00:18:43] mennonite: i don't see a way around it
+[00:25:04] mennonite: "Sometimes I think it's a sin, when I think that I'm winning but I'm losing again." - Gordon Lightfoot
+[00:27:06] fischer_and_chips88: just got here, the pawns are so weird
+[00:29:23] nyanners: maybe its not so bad. then again, maybe it is
+[00:31:40] metalpawn: lets go Mennonite
+[00:35:14] jg777: It's a bit weird that white's, not black's, king feels less safe here.
+[00:35:59] mennonite: my goal was 21.f3. am i missing something? it just looks good....
+[00:36:30] mennonite: i mean, sure, ...Nd5...
+[00:36:30] jg777: I don't know, Ng6 looks weird to deal with to me.
+[00:36:45] mennonite: 21.Be5 has to at least be considered too
+[00:39:02] leverkuhn: I misplayed that tension. I wanted to play 19...Rfe8 but 20.Nc4 was forking everything
+[00:47:25] mennonite: i respect that move.
+[00:47:55] nyanners: things have improved, for sure :o
+[00:48:10] nyanners: f3 was very nice
+[00:49:57] mennonite: 24.Rf2 seems too slow in light of Nc6
+[00:51:13] nyanners: but you cant afford Bd4. or can you
+[00:51:13] jg777: is Nb3 a move here?
+[00:51:44] jg777: Well Mennonite thinks so, so, I'll take it.
+[00:52:14] nyanners: i mean this doesnt lose but.. i liked the thought of rf2 nf3. this seems like the wrong side
+[00:53:00] nyanners: i suppose you do afford bd4 now or your pieces are all wrong
+[00:53:15] nyanners: but that may be alright
+[00:53:30] jg777: But isn't the idea to key in on d4 square?
+[00:53:30] mennonite: my plan here was 25.Raf1 but now i'm getting cold feet
+[00:53:46] nyanners: ooh that
+[00:54:16] jg777: No cold feet- go for it!
+[00:54:31] nyanners: forced line, raf1 bd3 rf6 kg5
+[00:55:02] nyanners: if rf6 doesnt work then you probably have to play re1 and thats a bit sad
+[00:55:32] mennonite: 25.Raf1 Bd3 26.Rf6+ is a potentially crazy line...
+[00:56:03] metalpawn: 25.Raf1 Nxe5 26.Rxf5 maybe
+[00:56:18] nyanners: thats the easy part XD
+[00:56:33] nyanners: but its a worthy question. like does black just roll with it
+[00:56:48] nyanners: that may be just good for black
+[00:56:48] nyanners: with Ng4 in the end
+[00:58:35] nyanners: there it is
+[00:58:35] jg777: Yeah this is looking quite tricky- and again, white's king seems less safe! Crazy from earlier in the game.
+[00:58:50] jg777: Is Rc5 a move?
+[00:59:05] nyanners: well youre definitely kinda sorta on life support after that
+[00:59:21] nyanners: and it probably wont hold
+[00:59:51] nyanners: this is probably a bluff but also probably a necessary one
+[01:00:22] nyanners: Rxc3 Ne6 Rd2. is there mate for white? dont think so
+[01:00:37] nyanners: but very terrifying
+[01:00:52] nyanners: i guess i will call that a bluff success
+[01:01:22] nyanners: Rf2 who wins? probably black
+[01:01:53] nyanners: so.. draw?
+[01:02:08] nyanners: you cant stop the funny but also the funny doesnt mate
+[01:02:23] nyanners: yeaa i dont think this works. outside passer wins here
+[01:02:54] nyanners: oh and just that
+[01:02:54] nyanners: well then
+[01:03:09] nyanners: thats easy
+[01:04:10] jg777: That was a very good transition by Lever. Suddenly the pieces are off the board and black's king stands better!
+[01:05:26] metalpawn: 33...b5
+[01:07:14] goldenretrieverchess: gg
+[01:07:14] metalpawn: gg guys
+[01:07:14] baberle: gg
+[01:08:00] jg777: Good game, some great ideas and a lot to learn for me!
+[01:08:15] mennonite: 29.a4 held? wow
+[01:08:45] leverkuhn: I saw I had the repetition, but wasn't sure if ...Rg2+ would actually win
+[01:09:16] leverkuhn: The position around move 17 was quite interesting
+[01:09:46] leverkuhn: I wanted to wait for your knight to move before taking c3 to avoid giving you that tempo, but couldn't figure our what waiting moves to make
+[01:10:01] mennonite: My initial plan was 17.Rd2 but after ...hxg3 I wasn't sure how I would prevent an eventual ...Nf3 or ...Ne2+
+[01:10:01] mennonite: *Nd2
+[01:10:16] leverkuhn: also there was the complication that 17...dxc3 18.Nxc3 Nd4 might be good because I get the knight to f3
+[01:11:02] leverkuhn: I was thinking with 17...h5?! that I would move the pawn ahead of the Bf4 tempo, but that was way too galaxy-brained thinking
+[01:11:02] nyanners: gg
+[01:11:02] mennonite: yes, and in that case, there are potential mating nets with the king pushed to the long diagonal.
+[01:12:03] mennonite: 9...d5 bypassed most of my prep. I had looked at it but forgot most of that particular line.
+[01:12:33] leverkuhn: I think 10.0-0 and 11.c3! is the best line; really impressive to come up with that if you don't know it!
+[01:13:04] mennonite: I vaguely remember O-O being the first move but couldn't remember anything after, so I essentially did have to work c3 out on my own.
+[01:13:34] mennonite: I spent most of my time looking at 4...Bxd4.
+[01:14:50] leverkuhn: Yeah I do like those positions too; but I figured I'd mix it up
+[01:15:21] mennonite: I'm going to get ready for bed shortly, thanks for the game, see you around.
+[01:21:11] leverkuhn: gg and gl for the rest of the season!
