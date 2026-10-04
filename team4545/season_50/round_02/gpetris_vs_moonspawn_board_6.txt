@@ -1,0 +1,116 @@
+Lichess game chat log
+Game      : https://lichess.org/5Pi6qfrZ
+White     : gpetris
+Black     : moonspawn
+Time      : 45+45
+Captured  : 2026-10-04 21:08:18 UTC
+Game ended : 2026-10-04 19:48:08 UTC
+Messages  : 106
+────────────────────────────────────────────────────────────
+
+[17:38:06] duty5521: Go moonspawn!
+[17:38:06] warvold: (8.Bd3) Go gpretris
+[17:38:06] davidsifre: Goetris, go go go!
+[17:38:06] davidsifre: Is it a moon pawn or the spawn of a moon?
+[17:38:06] duty5521: No idea
+[17:38:06] davidsifre: Giovani, you’ve got this!
+[17:38:06] davidsifre: No spawn of a moon can beat you.
+[17:38:06] davidsifre: Nor can the pawn belonging to a moon.
+[17:38:06] gpetris: 12.Qc2? I think I just blundered a pawn, maybe two...
+[17:38:06] gpetris: No, wait, I have 13.Nxd2 if he goes 12...Bxd2
+[17:38:06] davidsifre: You need to win or draw. If you lose all is lost and there is no love in the world.
+[17:38:06] aldric123: (13...Re8) Go gpetis!
+[17:38:06] davidsifre: That sounds dirty.
+[17:38:06] davidsifre: Rough game Aldric.
+[17:38:06] aldric123: (14.Qb2) yeah, I haven't looked at engine yet, about to
+[17:38:06] aldric123: (14.Qb2) I think I was winning, then losing, then luckily got draw
+[17:38:06] warvold: (14.Qb2) It was scary at the end
+[17:38:06] davidsifre: I think maybe it was best to keep the knight vs awful bishop.
+[17:38:06] davidsifre: But my thoughts are seldom good
+[17:38:06] simonwashere: Go gpetris!
+[17:38:06] davidsifre: Look for perpetual checks.
+[17:50:02] davidsifre: Bh6 sac rook and then move pawn out of the way for queen attack ?
+[17:50:32] warvold: (14...d6) IT's tempting
+[17:51:48] davidsifre: I think Rh5 would have blocked Queen effectively.
+[17:52:04] davidsifre: Re5
+[17:52:34] davidsifre: Black should take the bishop now.
+[17:56:38] warvold: (15...Rxe6) Hmmmm?
+[17:56:53] warvold: (15...Rxe6) Rxe6 Bxe6 Bh6
+[17:57:08] warvold: (15...Rxe6) It's winning, right?
+[17:57:54] warvold: (15...Rxe6) Ah no
+[17:57:54] warvold: (15...Rxe6) Qe5
+[17:58:09] warvold: (15...Rxe6) Damn I'm tired
+[17:59:10] davidsifre: My battery will die before the game ends.
+[18:00:11] davidsifre: Bh6 still ok.
+[18:00:42] davidsifre: B knight needs development too
+[18:04:45] davidsifre: F4 to chase queen would have been better I think than an exchange of queens.
+[18:05:16] davidsifre: Oh that would lose a queen. Duh
+[18:05:31] warvold: (19.a3) I was wondering!
+[18:05:31] warvold: (19.a3) What do I miss???
+[18:08:18] davidsifre: Ugh. Mind the back rank
+[18:10:51] davidsifre: Bg5?
+[18:11:06] davidsifre: Yes.
+[18:11:21] davidsifre: Now nc3 is possible.
+[18:12:23] warvold: (21...Rd7) We are only 3 moves away from a great fork
+[18:13:54] warvold: (22.Bf6) 5 now
+[18:14:55] davidsifre: Have to trade bishops now.
+[18:15:10] warvold: (23.Bg5) Brrr
+[18:15:25] warvold: (23.Bg5) Ok, rook is not lost
+[18:15:25] duty5521: is there something like
+[18:15:25] duty5521: e5
+[18:15:25] duty5521: Ra2
+[18:15:41] duty5521: Nxc4
+[18:15:56] duty5521: oh
+[18:15:56] warvold: (23.Bg5) I don't see it
+[18:15:56] duty5521: Bf1
+[18:15:56] duty5521: at the end
+[18:16:11] warvold: (23.Bg5) Ah yeah
+[18:16:11] duty5521: duh
+[18:16:11] warvold: (23.Bg5) Our savior
+[18:16:11] warvold: (23.Bg5) In LSB i trust
+[18:22:17] rpcx: nxc4 works does it not ?
+[18:24:19] duty5521: There's Bf1 at the end
+[18:25:20] rpcx: oofs
+[18:43:37] rpcx: a5
+[19:15:37] davidsifre: That passed e pawn is a nightmare.
+[19:16:23] wave2679: Black is likely winning?
+[19:16:38] davidsifre: Yes.
+[19:16:53] davidsifre: Up a pawn and passed so far
+[19:17:24] wave2679: Re7 looks like it wins to me
+[19:19:56] wave2679: Thoughts on the way to win this?
+[19:21:12] davidsifre: E2 then take the a pawn and trade off rooks. Promote the e pawn.
+[19:21:43] davidsifre: Or just walk the connected pawns down and promote.
+[19:22:29] wave2679: Kc4
+[19:22:59] wave2679: Kc4 a6 c3+ ke1 ra7
+[19:28:04] wave2679: I think you need to take the pawn probably
+[19:28:19] rpcx: this looks correct
+[19:28:49] wave2679: Yes this wins now
+[19:28:49] wave2679: I missed this
+[19:29:50] wave2679: D2 wins I think
+[19:30:06] davidsifre: No doubt.
+[19:30:36] rpcx: e2 is cleaner i think
+[19:30:36] wave2679: A win by black draws the match overall
+[19:30:36] wave2679: E2 doesn’t work after kd2
+[19:30:51] wave2679: Well it works
+[19:30:51] wave2679: But it’s much slower
+[19:31:22] wave2679: D2 rook anywhere e2+ kxe2 forced than d1=Q+ and mate to follow
+[19:31:53] davidsifre: d2, Rc2
+[19:31:53] gpetris: Interesting endgame
+[19:31:53] wave2679: Rc2 same problem after you move the king
+[19:32:38] wave2679: D2 stops rc1 while e2 doesn’t
+[19:35:41] wave2679: RPCX a win for black ties the match overall right?
+[19:35:56] rpcx: yup
+[19:36:27] davidsifre: Re4
+[19:36:57] wave2679: Re4 rc7
+[19:38:14] davidsifre: This is why I say to win the game earlier.
+[19:38:29] davidsifre: If you wait it can be too late.
+[19:38:44] wave2679: Well rc7 after re4 and rc1+ is unstoppable
+[19:39:15] wave2679: Although their may be rd4
+[19:41:32] wave2679: Rc7 rd4 re7 I think now promotion is unstoppable
+[19:43:34] wave2679: Oh wait rd4 rc1+ ke2 re1+ is cleaner
+[19:46:21] gpetris: .(59 ...Rc1+) Ooops
+[19:47:22] warvold: gg!
+[19:47:22] simonwashere: gg
+[19:48:54] rpcx: ggs
+[19:49:24] davidsifre: Ggg
+[19:49:55] wave2679: Gg
