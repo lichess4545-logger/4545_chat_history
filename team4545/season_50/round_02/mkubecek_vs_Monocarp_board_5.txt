@@ -1,0 +1,56 @@
+Lichess game chat log
+Game      : https://lichess.org/M5qLJYcJ
+White     : mkubecek
+Black     : monocarp
+Time      : 45+45
+Captured  : 2026-10-04 16:46:27 UTC
+Game ended : 2026-10-04 15:26:15 UTC
+Messages  : 46
+────────────────────────────────────────────────────────────
+
+[13:02:44] le_merovingien: Go Kuby!
+[13:08:19] le_merovingien: Is this all theory?
+[13:22:02] monocarp: (11... Bxe3) not sure if love long castles anymore, but w/e, still all to play for
+[13:27:52] monocarp: Hello yotambienjuego!
+[13:30:40] le_merovingien: Hmmm... Opposite side castling is good for us
+[13:30:40] le_merovingien: Hi KeeJay
+[13:31:10] le_merovingien: You know, I already had positions like this. I am not sure what the eval is but I always had a tough time with White
+[13:41:35] le_merovingien: Oops. That, I think, is a big mistake. Black is easily better now
+[13:45:08] monocarp: (13. hxg4) 14. Ng5 15.Rh5 Nxf7 Rf8 looks like 2 pieces for the rook
+[13:45:23] monocarp: but I could also have better after Ng5.
+[13:45:38] monocarp: and Nd2 just seems so passive that I ought blast the king
+[13:45:54] kjar: Nd2 is fine though - can go to f1, g3...
+[13:48:57] monocarp: (14. Nd2) does white have anything if I just double on the h file? could also throw in ...Na5 first but I probably won't
+[13:49:27] monocarp: I guess white can put a knight on f1
+[13:50:58] le_merovingien: This looks scary. Rh7 Rdh8 pew pew...
+[13:51:45] le_merovingien: Ah Nf1. Rh6 Rdh8 R8h7 somehow bring the Queen.
+[13:51:45] le_merovingien: Still Black largely ahead to me.
+[13:55:33] le_merovingien: Is there value in pushing g3 for Black?
+[13:55:33] monocarp: If black doesn't play carefully maybe ...g3 next could work
+[13:55:49] monocarp: or I can 'slow play' by moving the f knight and playing for f5 ig
+[14:15:52] monocarp: should probably move my king when I can because it's a little precarious with the rook covering Be6
+[14:16:22] monocarp: maybe I should have played f5 without exchanging
+[14:25:32] monocarp: for the life of me I don't see any tactic
+[14:25:47] monocarp: that justifies 20. Be6+ for white
+[14:26:48] monocarp: no okay, I get it. should have seen that earlier. by my position remains non-terrible
+[14:31:07] monocarp: against my better judgement I'll make my pawns quite weak just to hang onto an extra one
+[14:34:40] monocarp: I think bxc6 would have left the a and g pawns too weak
+[14:34:56] monocarp: but white has played this well finding Be6+ and is now probably a bit better
+[14:34:56] monocarp: but only a bit
+[14:37:28] monocarp: wondering how good it is to trade and run the d pawn
+[14:46:38] monocarp: in hindsight losing the g pawn is quite bad
+[14:50:26] monocarp: actually I preferred Nf4+ now I think (gxf4 Rg8)
+[14:50:57] mkubecek: (33.Ne6) Oops, that was stupid. :-(
+[15:07:13] kjar: f4 would have cut the black knight off at some point...?
+[15:19:54] monocarp: just bx and kx doesn't work
+[15:21:26] monocarp: I can tempo the rook though, but white can desperado it for my pawn
+[15:23:12] monocarp: i'm so lost now
+[15:26:46] mongreltiger: great game
+[15:27:16] monocarp: 39...b5 being so good kind of sucks. I just missed the fork
+[15:27:16] mkubecek: Once again I'm afraid to check the analysis.
+[15:27:31] mongreltiger: The analysis should be afraid to check you
+[15:27:47] mongreltiger: what a game. Fun to watch too
+[15:28:33] mkubecek: What? I wasn't neasly as dead lost as I thought.
+[15:29:34] mkubecek: 41. Ne3 a silent move I didn't think of for a moment.
+[15:43:16] mkubecek: I suspected 20. Be6+ wasn't actually good but I was already low on time and was quite sure that if I don't simplify the position...
+[15:43:32] mkubecek: ...I would either flag or blunder.
