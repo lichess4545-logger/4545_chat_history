@@ -1,0 +1,123 @@
+Lichess game chat log
+Game      : https://lichess.org/XzG7476O
+White     : prostidude
+Black     : upgoerfive
+Time      : 45+45
+Captured  : 2026-10-04 23:02:33 UTC
+Game ended : 2026-10-04 21:42:21 UTC
+Messages  : 113
+────────────────────────────────────────────────────────────
+
+[19:02:01] val1313: Go Prosti
+[19:02:01] joonaf: go UG5!
+[19:03:17] prostidude: i found a line in the slav with early f pawn push so naturally i have to play it
+[19:11:25] zorakforpresident: good luck prosti!
+[19:13:58] feet_barbie: (7.d5) go prosti
+[19:14:28] feet_barbie: (7.d5) fire on the boardd
+[19:17:31] zorakforpresident: i r confuse.
+[19:19:33] zorakforpresident: is that worth it?
+[19:19:48] joonaf: I wonder if the idea was 8.f2, Ke2, Qxd1, Kxd1, fxg1, but the Q is slso defended by the knight
+[19:20:04] joonaf: *8..f2
+[19:20:49] zorakforpresident: my idea:  i like knights.
+[19:21:20] zorakforpresident: but...ok...f2.  black better win quick...
+[19:23:22] feet_barbie: (8...f2+) this has been reached a lot of times actually
+[19:23:22] joonaf: So now Kxf2 is possible
+[19:23:37] joonaf: Really? Is this ok for Black?
+[19:24:07] zorakforpresident: yeah, i think kxf2 clearly.  can't come this far and not.  then, can Black find some winning tactic.
+[19:24:07] joonaf: Wait, is Kxf2 ok
+[19:26:09] zorakforpresident: i feel like now king just comes home and White is OK?
+[19:26:09] joonaf: I thought Kxf2 would be good for White, but there is knight checks, even Ne4+ was possible. Not sure if there's anything for Black there or
+[19:26:40] zorakforpresident: i don't think Ne4+ was good enough...king just goes home there too.
+[19:26:40] joonaf: Yeah
+[19:27:10] joonaf: But if f2+ has been reached many times, is it theory, or a common mistake?
+[19:27:41] zorakforpresident: it can't be a common mistake.  it has to be theory.  otherwise who would do it?
+[19:27:56] joonaf: Common people
+[19:27:56] zorakforpresident: i mean.  it's too creative to be an accident.
+[19:27:56] feet_barbie: (10.Ke1) dont forget u cant castle now
+[19:28:11] feet_barbie: (10.Ke1) who was it at the olympiad
+[19:28:11] feet_barbie: (10.Ke1) gledura?
+[19:28:26] guitarspider: (10...Bg4) yep
+[19:28:57] joonaf: In otb I definitely would forget it if my King went back to e1, and I would castle later
+[19:29:27] zorakforpresident: then the 7 year old you are playing against would raise his hand, claim a time penalty, and tell you it's touch move.
+[19:30:28] zorakforpresident: i think that's good...cxb7.  that prosti.  he been studying or sumthin.
+[19:30:28] guitarspider: (11.cxb7) ok, I'm looking this up
+[19:30:44] guitarspider: (11.cxb7) how is that the time to go pawn grabbing :D
+[19:30:44] zorakforpresident: well...can't let it be rook capture, so the queen is ok for now.
+[19:30:59] joonaf: What a game
+[19:31:29] guitarspider: (11.cxb7) Keep in mind this is a calm and measured Exchange Slav people :D
+[19:31:29] zorakforpresident: very drawish.
+[19:31:44] joonaf: Very Slavish
+[19:32:45] joonaf: Prostitude with 45 min left. Still theory I guess
+[19:33:16] zorakforpresident: good point.
+[19:33:46] guitarspider: (12.Bb5+) I think prosti is prepped to the gills
+[19:33:46] guitarspider: (12.Bb5+) cxb7 is the first engine line
+[19:34:01] zorakforpresident: he said something at the start about "found a line."
+[19:34:17] guitarspider: (12...bd7) :d
+[19:35:02] guitarspider: (12...Bd7) Looks like he certainly did find a line :D
+[19:35:18] zorakforpresident: it was nice of upgoerfive to play it for him.
+[19:37:35] zorakforpresident: that works better than i thought, actually.  No Bxd7+.  Well, I mean...it doesn't win the queen.
+[19:40:22] zorakforpresident: looks like now trade and win for White.  Black sure sailed right into that though.  Like he wanted it.
+[19:47:45] feet_barbie: (22...Re8) 0-0
+[19:48:00] zorakforpresident: no o-o
+[19:49:16] feet_barbie: (23.Kd2) dude still in prep
+[19:57:39] zorakforpresident: i was thinking he might go g4 instead of a4.
+[19:58:40] zorakforpresident: but then, a4 is probably the #1 move engines tell me to play that i never considered playing...
+[20:08:19] zorakforpresident: guess prosti's out of book now.
+[20:50:31] zorakforpresident: was a little nervous about f3.  i think it was ok.  but isn't Nf6 good now?
+[21:00:55] glennjamesmax: we're winning this surely
+[21:02:27] glennjamesmax: 41...Kf5 Nxe3+ fxe3 Rxe3 is a simple finish
+[21:08:32] inter-temporal: (46...Rb8+) black K is unhappy
+[21:09:18] inter-temporal: (48...Ke4) maybe it can hang out on e7 or e8 for a bit
+[21:09:48] inter-temporal: (50.Rb6) or d5
+[21:10:04] inter-temporal: (50...Kd5) hm. perhaps some hope for a draw
+[21:10:19] zorakforpresident: dang.  we don't want to be up a rook pawn...
+[21:11:05] inter-temporal: (51.Kb3) ...Ra7, then what
+[21:11:05] glennjamesmax: Kc3
+[21:11:35] glennjamesmax: Ah I see the issue
+[21:11:35] feet_barbie: (51.Kb3) oh man what happened
+[21:11:50] glennjamesmax: The problem was we need to cut king off d file
+[21:11:50] nyanners: draw
+[21:11:50] glennjamesmax: not maintain attack on that pawn
+[21:14:08] glennjamesmax: Also Kc3 would have been much better than Ka3
+[21:14:23] zorakforpresident: looks kinda drawy.
+[21:14:23] glennjamesmax: as that way winning the a-pawn with king cut off was also a win
+[21:14:23] zorakforpresident: cuz...rook pawn...
+[21:14:23] glennjamesmax: It's a dead draw, but you never know
+[21:14:53] inter-temporal: (51...Ra7) indeed, it's still possible for black to miss a defense
+[21:14:53] glennjamesmax: rook pawn isn't the problem.....if instead of Ka3 he had played Kc3 Rc8+Kb4 Rb8+Ka5 Rxb2 Kxa6
+[21:15:08] glennjamesmax: that would also be a rook pawn, but that was winning
+[21:16:40] nyanners: id be thinking how to trick and i dont see how
+[21:17:41] nyanners: you probably have to start with cutting off again
+[21:17:41] nyanners: rook to c
+[21:17:56] nyanners: rc8 and b5 probably
+[21:17:56] inter-temporal: (52.Ka4) if prosti suffers a draw, at least he'll most likely the remember the technique of cutting off the king for future wins.
+[21:18:27] nyanners: not too sure about the position pre-rb6 tbh
+[21:18:42] nyanners: but it had more potential for sure
+[21:28:23] glennjamesmax: actually though it's drawn I think there's very decent chances for White still
+[21:36:46] glennjamesmax: 59.Rh7?
+[21:36:46] glennjamesmax: yeah
+[21:36:46] glennjamesmax: now the idea is Rb7
+[21:37:17] feet_barbie: (60.a6) rg6
+[21:37:32] glennjamesmax: rh5+
+[21:38:18] feet_barbie: (60...Rg6) kc6 idk
+[21:38:18] feet_barbie: (60...Rg6) hard to win this
+[21:39:49] glennjamesmax: Maybe Rh5+ and then try to cut off along 5th file
+[21:39:49] glennjamesmax: rank
+[21:40:04] cowtone: Could white try some kind of horizontal bridge
+[21:40:04] inter-temporal: (60...Rg6) Rh5+ only move?
+[21:40:35] inter-temporal: (61.Rh5+) still... not seeing any tricks
+[21:41:05] inter-temporal: (61...Kc6) and white should be careful
+[21:41:05] glennjamesmax: Yeah, black can easily alternate between these two mechanisms
+[21:41:36] inter-temporal: (62...Kb5) geez. just take the draw and share the championship! :)
+[21:41:51] inter-temporal: (63...Ka5) thats it
+[21:42:06] glennjamesmax: Yeah time to shake hands
+[21:42:06] inter-temporal: gg
+[21:42:06] zorakforpresident: well, that is it.
+[21:42:21] zorakforpresident: gg guys.  crazy opening prosti.  nice defense upgoer.
+[21:42:21] cowtone: Gg
+[21:42:52] glennjamesmax: I just saw this....what on earth was this opening!
+[21:43:07] glennjamesmax: I'm usually the one with such play
+[21:43:22] prostidude: I really tried
+[21:43:37] glennjamesmax: Yeah hard luck....very instructive game...
+[21:43:37] prostidude: But in the end the exchange slav must end in a draw
+[21:43:53] glennjamesmax: conversion is way harder than it looks
