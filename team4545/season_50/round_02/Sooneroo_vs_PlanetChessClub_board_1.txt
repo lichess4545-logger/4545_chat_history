@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/QUEdtM86
+White     : sooneroo
+Black     : planetchessclub
+Time      : 45+45
+Captured  : 2026-10-05 02:44:52 UTC
+Game ended : 2026-10-05 01:24:41 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[23:14:12] matthieu_max: Go go Shogi!
+[23:14:27] matthieu_max: oops, Planet !
+[23:17:00] metalpawn: Let's GO Planet !!!!!
+[23:44:09] inter-temporal: (15...Bg4) i collect positions from my games. but long ago, i collected 1 position from a sooneroo game.
+[23:44:24] inter-temporal: (16.Be3) it just came up in my reviews, coincidentally. lol
+[23:46:11] inter-temporal: (16.Be3) sooneroo was white, but the idea was with black to move 22...___
+[23:46:26] inter-temporal: (16.Be3)  this one: https://lichess.org/ci8CVwFL
+[23:47:12] inter-temporal: (16.Be3) the f4-pawn was overloaded. and i had been trying to improve on that tactic
+[23:47:42] inter-temporal: (16...Qf6) sadly, i still suck at it.
+[23:49:29] grzybozbur: it's chess, it's designed for people to suck at it
+[23:49:44] grzybozbur: what i don't understand is why black played bg4
+[23:51:00] inter-temporal: (16...Qf6) maybe ...Re2
+[23:51:46] grzybozbur: but white will develop the bishop to e3, there's no realistic way to get to e2
+[23:52:47] grzybozbur: and bg4 gives white about 2 free tempi, compared to bxg2
+[23:53:17] grzybozbur: not to mention the structural advantage black could get
+[23:53:32] inter-temporal: (17.Rac1) yeh. idk. perhaps it was the best square to avoid a trade
+[23:54:18] grzybozbur: some people just like to play their middlegames i guess
+[23:55:34] inter-temporal: (17.Rac1) try to get the a-R out, then decide what to do with it
+[23:55:50] gavalanche20: Oooo B1 with the match on the line, gl both
+[23:56:35] inter-temporal: (17.Rac1) but therez no Ns. sad
+[00:23:30] mennonite: match deciding game
+[00:26:48] kyriakos1301: Let's go Sooneroo
+[00:33:09] inter-temporal: (23.fxg3) takes away from the center weakening e3 to open the f-file?
+[00:37:28] inter-temporal: (24.Bf4) open board anyone?
+[00:37:58] inter-temporal: (24.Bf4) was the c-pawn poisoned
+[00:38:13] grzybozbur: it's middlegame, i don't know anything about middlegames
+[00:38:44] inter-temporal: (24.Bf4) i think it's a Knightless endgame
+[00:39:45] grzybozbur: but there are pieces everywhere!
+[00:40:46] grzybozbur: they could move
+[00:41:01] grzybozbur: or something
+[00:45:20] inter-temporal: (25.Rf2) black's K might a a little safer; white's P-structure is better; aim at the c-pawn?
+[00:46:21] inter-temporal: (25.Rf2) black owns the central light squares... maybe all the central squares and central files...
+[00:47:52] inter-temporal: (25.Rf2) dsb trade, avoid, or allow
+[00:48:08] inter-temporal: (25.Rf2) i would think avoid
+[00:48:08] grzybozbur: yeah, but f7 not great either
+[00:48:23] grzybozbur: looks double edged
+[00:49:39] grzybozbur: ok, but if you play be7, then you have blocked both your rooks
+[00:49:54] grzybozbur: so bf8?
+[00:50:09] inter-temporal: (25.Rf2) i thought ...Bf8. but isn't the c-pawn falling? hard to identify all the things on the surface
+[00:51:26] inter-temporal: (25.Rf2) 5
+[00:51:26] inter-temporal: (25.Rf2) duh
+[00:51:26] inter-temporal: (25.Rf2) ...c5
+[00:51:26] grzybozbur: bf8 looks sad
+[00:51:56] inter-temporal: (25.Rf2) ...c5-c4
+[00:52:11] grzybozbur: i was thinking bxf4 instead of bd3 and then rd2
+[00:52:11] inter-temporal: (25.Rf2) white gets d5
+[00:52:42] inter-temporal: (25.Rf2) if loses the c-pawn or pushes it, Bd5 looks dangerous
+[00:53:58] grzybozbur: this may be the kind of position when you want initiative, so maybe sac the weak pawn to do some scary things, i don't know
+[00:54:28] grzybozbur: but i don't like those bishops on d file
+[00:54:44] grzybozbur: i'd want the rook to get to d2
+[00:54:59] grzybozbur: or d1, or anywhere at all
+[00:56:00] inter-temporal: (26...Rxd6) if 26.Qxd3 Bxf4 was okay i guess
+[00:56:15] inter-temporal: (26...Rxd6) ooh
+[00:56:31] inter-temporal: (26...Rxd6) c-pawn falls with a crash
+[00:57:32] inter-temporal: (26...Rxd6) but there's a check...
+[00:58:02] inter-temporal: (26...Rxd6) this is nutty. too many undefended pieces and open lines. lol
+[00:58:33] inter-temporal: (27.Bf3) yeh, forget that c-pawn for now
+[00:59:18] inter-temporal: (27...Qg5) i think white can take it now
+[01:00:04] inter-temporal: (28.Rd1) yeh, forget that c-pawn. lol
+[01:00:34] inter-temporal: (28.Rd1) oh, it was poisoned
+[01:01:20] inter-temporal: (28.Rd1) 28.Rxc6 Rxc6, Bxc6 Qc1+ double attack
+[01:01:51] inter-temporal: (28.Rd1) but ...Bd3 is hanging? idk
+[01:02:36] inter-temporal: (28...Qg6) no! because Kg2 and Qxc6+
+[01:04:08] inter-temporal: (30.Qa3) hmmm. are there any alignment motifs
+[01:04:53] kyriakos1301: I think Be2 is now a threat of black tried to defend the pawn
+[01:05:24] inter-temporal: (30.Qa3) not seeing a defense yet.
+[01:05:39] kyriakos1301: R6d7?
+[01:06:09] kyriakos1301: Oh that loses the other pawn
+[01:06:25] inter-temporal: (30.Qa3) Be2 is coming
+[01:07:56] inter-temporal: (30...c5) now you take that c-pawn
+[01:09:43] inter-temporal: (31...Qe6) the weak e3 square is highlighted
+[01:10:28] inter-temporal: (31...Qe6) white is somehow covering everything
+[01:10:44] inter-temporal: (32...Rd4) nice! interference
+[01:11:14] inter-temporal: (32...Rd4) amazing move!
+[01:11:45] inter-temporal: (33.Rxd3) yeh,
+[01:11:45] inter-temporal: (33.Rxd3) just saw that
+[01:12:00] inter-temporal: (33.Rxd3) Qa8+ and Be4+
+[01:12:15] inter-temporal: (33.Rxd3) nice one
+[01:12:30] inter-temporal: (33.Rxd3) wow
+[01:13:16] inter-temporal: (33.Rxd3) still, there's ...Qe3+ at the end of that
+[01:13:16] inter-temporal: (33.Rxd3) oh no
+[01:13:31] grzybozbur: i don't understand
+[01:13:31] inter-temporal: (33.Rxd3) duh. the lsb is on e4
+[01:13:46] grzybozbur: not that i understood anything before
+[01:13:46] inter-temporal: (33.Rxd3) Rxr, RxR Rxr, Qa8+ Kh7, Be4+
+[01:15:03] grzybozbur: ah, ok
+[01:15:18] inter-temporal: (33...R8d7) or ...Rxd3, Rxd3 Rxd3, Qa8+ Kh7, Be4+ g6, Bxd3
+[01:15:33] inter-temporal: (33...R8d7) so what does this do
+[01:16:03] inter-temporal: (34.Qa5) aiming for a perpet on the Q, but it escapes, with the piece
+[01:16:34] grzybozbur: i didn't like that bd3 from the start
+[01:16:49] inter-temporal: (34.Qa5) it was a risky spot, right?
+[01:18:51] inter-temporal: (35.Rxd4) geez. that was tense.
+[01:19:06] inter-temporal: (35...Qxf3) 32...Rd4 almost worked
+[01:19:21] inter-temporal: (35...Qxf3) but for the dang checks
+[01:20:22] inter-temporal: (36.Rxd7) is there a perpet
+[01:20:53] inter-temporal: (38...Qe6+) no way
+[01:20:53] inter-temporal: (38...Qe6+) lol
+[01:21:38] inter-temporal: (39.Kh4) i think black deserves a draw. :)
+[01:24:41] inter-temporal: gg
+[01:25:57] metalpawn: GG
+[01:26:43] goldenretrieverchess: gg
