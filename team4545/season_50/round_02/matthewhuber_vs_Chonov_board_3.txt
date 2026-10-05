@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/fMadWo0Y
+White     : matthewhuber
+Black     : chonov
+Time      : 45+45
+Captured  : 2026-10-05 05:21:14 UTC
+Game ended : 2026-10-05 04:01:04 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[03:02:10] basilcandle: go matthewhuber!
+[03:02:10] chonov: maybe I should look up how to play certain stuff before playing it. I expected Qa5 instead of Bb5
+[03:02:10] chonov: I'm also not sure if you can take the pawn. I know after Nd7 the pawn sacrifice with 9. e6
+[03:02:10] chonov: my first Idea was 11. ... 0-0-0 but after Qc4+ my position is just ugly and bad. Gonna calculate Rd8
+[03:02:10] chonov: Rd8 seems fine. After Nd5 I have just e6 and c7 is protected. Lets see if I missed something and lets see if I played to fast (again)
+[03:02:10] chonov: if I get e6 in without dying, then my position should be very good with maybe a exchange up. Depends if I miss any tactics
+[03:02:10] chonov: Nxe5 looks funny depending on his next move but I don't know if its any good. My Rook is luckily protected on d8 for these weird ideas
+[03:02:10] chonov: yes he stops e6 by playing it himself. Looks very tempting. But I don't see the follow up after fxe6 with the thread of e5. fxe6 seems to
+[03:02:10] chonov: be forced, but I should maybe calculate ahead
+[03:02:10] chonov: I don't see anything. Lets just take the pawn and pray
+[03:02:10] chonov: lol b4 is possible. But I think Qb6 or even e5 works both. Still bad that I didn't even consider it
+[03:02:10] chonov: I'm only calculating weird stuff at this point. I should never play at 4:51 a.m. again xD
+[03:02:10] chonov: I think Ngd2 doesn't thread anything. Bxh1 should just be the safer option. I also considered e5 but I shouldn't do stuff like this
+[03:02:10] chonov: without my bishop and rook. Except he would play Rxh1. Hmm lets see
+[03:04:42] matthewhuber: trying to hold on here. Not a great opening by me. Might go down a full piece here but try to get some counter play with Qc4 and Nb5
+[03:04:42] basilcandle: upgoerF, hello :)
+[03:05:12] chonov: 14. ... e5 15. Qc4 exf4 16. Nxf4 worries me for some reason but 16. ... Qc5 should work. Maybe even with the idea Qc6 to protect the e6 s
+[03:05:58] upgoerfive: heyo basil
+[03:05:58] upgoerfive: go matthew! but yes this seems tough
+[03:07:14] chonov: wait it doesnt solve my issue. But I have so much material, I can give some back for a more simple convertion
+[03:09:47] chonov: lol I have Nc5 in the end. 15. Qc4 exf4 16. Nxf4 Qc5 17. Qb3 Qc6 18. Re8? Nc5 and e6 is protected
+[03:13:35] chonov: wait after Qc5 Qb3 in my line, Qg4 should also work
+[03:18:25] chonov: ok I missed this one. Calculation time again yay
+[03:20:42] chonov: eh wtf this is dangerous
+[03:20:57] tactix47: (16.Nb5) spicy
+[03:22:59] chonov: bruh not even e5 works
+[03:24:45] chonov: I think I can give a piece back with Qe2+ with Ne5
+[03:28:03] chonov: Nb6 looks bettwe than I thought
+[03:33:38] chonov: Nb6 should work. I just take the risk
+[03:36:41] chonov: His queen hangs (no discoveries), Rxd1+ is a thread and after any Rxd8+ Qe1# is threatened
+[03:40:45] chonov: oh my god I missed Ne6+ Nxc4 Rxd8+. Luckily my Queens protects the d8 square
+[03:49:08] chonov: I think Ke8 works with the mate thread. I should get a queen exchange now or a knight after some Nc7+ business
+[03:51:55] chonov: Nxf4 and I'm material up but can't play with it
+[03:53:12] matthewhuber: bleh I thought I had more this game
+[03:54:43] chonov: hopefully c3 with Qg4+ next
+[03:55:44] chonov: or e5 or Qg4 directly if I get the chance
+[03:57:15] chonov: lets keep it simple. No checks = no weird stuff
+[04:00:48] chonov: I think it's finally over
+[04:01:49] matthewhuber: Gg
+[04:02:04] matthewhuber: Thanks for the game. Will you please let your captain know what happened with the weird scheduling just so he’s not confused or surprised
+[04:02:35] tactix47: gg
+[04:02:50] chonov: yea it was a very complicated game
+[04:03:05] chonov: and yes I tell him
+[04:05:07] chonov: I thought that you will go for the Qa5 line instead of Bb5. I saw that you played it once in 4545. I was just preparing the whole line with
+[04:05:37] chonov: Bxf2+ and so on and didn't really look into Bb5 xd
