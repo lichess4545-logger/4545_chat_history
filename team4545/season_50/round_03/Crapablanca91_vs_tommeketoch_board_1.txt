@@ -1,0 +1,229 @@
+Lichess game chat log
+Game      : https://lichess.org/6y2YMBCE
+White     : crapablanca91
+Black     : tommeketoch
+Time      : 45+45
+Captured  : 2026-10-05 22:05:33 UTC
+Game ended : 2026-10-05 20:45:23 UTC
+Messages  : 219
+────────────────────────────────────────────────────────────
+
+[18:09:41] guitarspider: (12.Ba3) very unusual already
+[18:09:57] jfiras: wow
+[18:10:42] jfiras: i wonder if this is justified, we will see
+[18:14:31] guitarspider: (14.Ne5) c3 can be taken whenever, so it's kinda only one pawn
+[18:15:16] guitarspider: (14.Ne5) actually a bit Benko-like, open a- and b-files, fianchettoed bishop
+[18:15:32] guitarspider: (14.Ne5) bishop on a3
+[18:18:19] guitarspider: (14...Be6) The Benko is mostly ok, so probably this is enough compensation for the pawn or at least close to it.
+[18:19:20] inter-temporal: go tom! im driving...
+[18:21:22] guitarspider: (14...Be6) I think you have to take on c3 now as white
+[18:22:23] guitarspider: (14...Be6) and if the Benko comparison holds it's probably slightly better for Black according to the engine but practically totally playabl
+[18:24:10] losingisthebest: go crapa!
+[18:26:27] guitarspider: (14...Be6) If black gets to play Rc8 and protect c3 then it is very unlike a Benko and then Black must be clearly better
+[18:26:42] guitarspider: (14...Be6) so I can't see an alternative to Qxc3
+[18:28:44] losingisthebest: maybe rac2
+[18:28:44] losingisthebest: rac1
+[18:30:01] guitarspider: (15.e4) you kinda need those rooks to pressure on the a and b files though
+[18:30:31] guitarspider: (15.e4) maybe Rfc1 would still be ok
+[18:31:01] guitarspider: (15.e4) but then you're still spending two tempi on capturing the pawn and that's not really necessary
+[18:31:32] guitarspider: (15.e4) still, it's probably ok!
+[18:32:18] guitarspider: (15.e4) hmmm
+[18:32:18] guitarspider: (15.e4) Rc8 is Black not much better?
+[18:32:18] jfiras: i tought abt this move, i rejected it because of the isolared pawn for white, but laybe the open diagonal is a good compensation
+[18:32:48] guitarspider: (15.e4) yeah, the diagonal, but if nothing's on there? :D
+[18:33:34] jfiras: isn't the rook there ? and then more pressure on the a pawn
+[18:33:49] guitarspider: (15...dxe4) That's why I think Rc8 now for black
+[18:34:04] guitarspider: (15...dxe4) or after taking on e4
+[18:35:05] guitarspider: (16.Bxe4) Bxe5 can become tricky now too because the queen can be hanging
+[18:35:20] jfiras: wait, is f5 possible ?
+[18:35:20] jfiras: exactly !
+[18:35:36] guitarspider: (16.Bxe4) well, Rc8 first I think
+[18:35:36] guitarspider: (16.Bxe4) but f5 definitely a serious idea
+[18:44:59] feet_barbie: (16...Rc8) is this the first game of the round
+[18:45:30] feet_barbie: (17.Rfc1) wow nice opening
+[18:46:46] feet_barbie: (17.Rfc1) f5?
+[18:46:46] feet_barbie: (17.Rfc1) just joined idk
+[18:47:01] guitarspider: (17.Rfc1) yeah, f5 is an idea
+[18:47:17] guitarspider: (17.Rfc1) f5 Bb7 is a little annoying maybe
+[18:47:32] feet_barbie: (17.Rfc1) is it mmh
+[18:48:02] guitarspider: (17.Rfc1) it's a bit stupid but
+[18:48:02] feet_barbie: (17.Rfc1) good sequence
+[18:48:02] guitarspider: (17.Rfc1) Bb7 Rc7 Ba6
+[18:48:02] feet_barbie: (17.Rfc1) nono i love it and it goes to a6 saves the piece
+[18:48:02] guitarspider: (17.Rfc1) and Bxe5 doesn't win material
+[18:48:17] feet_barbie: (17.Rfc1) yeah good find
+[18:48:48] giziti: (17.Rfc1) f5 Bb7 Bxe5!? hmm but Bxc8 Nxc8 doesn't work
+[18:49:03] feet_barbie: (17.Rfc1) yeah its messy id spend time here
+[18:49:19] feet_barbie: (17.Rfc1) still black looks better
+[18:49:34] feet_barbie: (17.Rfc1) bf5 also an option but both are messy
+[18:49:34] guitarspider: (17.Rfc1) I feel like Black must be much better at least
+[18:49:34] giziti: (17.Rfc1) or Bxc8. the two pieces for the rook is interesting though
+[18:49:49] feet_barbie: (17.Rfc1) maybe you can give f8 rook for he e5 knight and pawns
+[18:49:49] guitarspider: (17.Rfc1) he's "just" got to figure out how
+[18:49:49] feet_barbie: (17.Rfc1) yeah
+[18:50:04] guitarspider: (17.Rfc1) maybe, that's a neat idea
+[18:50:20] giziti: (17.Rfc1) but about just the lazy Re8 right now
+[18:50:20] feet_barbie: (17.Rfc1) everything hanging and a pawn on c3 and better pieces
+[18:50:50] guitarspider: (17.Rfc1) or you just take on e5 and trade queens as you said
+[18:51:05] guitarspider: (17.Rfc1) you keep the pawn alive, how is it not much better at least
+[18:51:20] glennjamesmax: 17...Bxe5 18.dxe5 Qxd3 19.Bxd3 Rfd8
+[18:51:36] glennjamesmax: would break the pin and trade queens
+[18:51:51] glennjamesmax: 20.Bxg6 Nxg6 so no intermezzo even
+[18:53:07] guitarspider: (17.Rfc1) ok so by comparison: if we're going to trade queens than having f7 instead of f5 must be better
+[18:53:22] guitarspider: (17.Rfc1) so f5 etc must be a worse version of Bxe5 etc
+[18:57:57] feet_barbie: (18.Rxc3) interesting
+[19:03:01] guitarspider: (18.Rxc3) with an isolated pawn and possibly one pair of rooks of the board the benko comparison starts looking worse and worse for white
+[19:08:51] giziti: (18...Bxe5) but... giving up the bishop pair!
+[19:13:10] jfiras: (19.dxe5) also this is no more an isolated pawn
+[19:13:56] inter-temporal: (19.dxe5) yo! whussup mates!
+[19:14:42] inter-temporal: (20.Rxd3) whussup with this position
+[19:15:43] inter-temporal: (20.Rxd3) white's N is a bit uncomfortable?
+[19:15:58] guitarspider: (20.Rxd3) it's off the board ;)
+[19:16:13] jfiras: (20.Rxd3) so comfortable
+[19:16:28] guitarspider: (20.Rxd3) I'm not sure, Black must be quite a bit better but maybe could have been even better
+[19:16:44] guitarspider: (20.Rxd3) it was a very complex position
+[19:18:15] bpack: Go Tom!!
+[19:18:31] guitarspider: (20.Rxd3) here it's not actually so clear to me how to continue for black
+[19:18:46] jfiras: (20.Rxd3) Tom is considering Bf5 here
+[19:18:46] guitarspider: (20.Rxd3) possibly Bf5
+[19:18:46] jfiras: (20.Rxd3) which looks reasonable
+[19:18:46] guitarspider: (20.Rxd3) ah yeah :D
+[19:19:01] jfiras: (20.Rxd3) haha
+[19:19:16] guitarspider: (20...Bf5) I've got the stream on but can't listen right now XD
+[19:19:16] jfiras: (20...Bf5) exactly the same
+[19:20:33] jfiras: (20...Bf5) maybe Re3
+[19:21:18] alp_arslan92: (21.Bxf5) Is 21.Bxe7 Bxe4 22.Rd7 any good?
+[19:21:18] bxvrc2lh: Rd7 and looks equal probably
+[19:22:19] alp_arslan92: (21...Nxf5) I guess 22.Rd7 also works
+[19:27:08] guitarspider: Is Rd7 that good?
+[19:29:56] inter-temporal: (22.Bd6) like Rd7 Rxe5, Rxa7 Ra5?
+[19:29:56] bxvrc2lh: for me it looks like only move to keep equal...
+[19:29:56] inter-temporal: (22.Bd6) or not. k
+[19:30:11] bxvrc2lh: now it's losing imo
+[19:30:42] bxvrc2lh: I can be wrong but I would not give up my strong bishop like that
+[19:33:14] guitarspider: Maybe I'm wearing rose tinted glasses because of the earlier position. But it feels like even after Rd7 it's not equal.
+[19:33:14] inter-temporal: (24.g4) i never use my g-pawn enough. :)
+[19:33:29] bpack: Lol
+[19:33:29] guitarspider: Not so important though, that's a pawn launch
+[19:34:00] inter-temporal: (24.g4) yeh, i never launch my g-pawn enough
+[19:34:00] bpack: Don't feel bad inty, most don't even know where to find it
+[19:34:15] giziti: (18...Bxe5) Ne7 Nc8
+[19:34:30] bxvrc2lh: so basically black is pawn up but it's a pawn with rocks so probably holdable
+[19:34:45] inter-temporal: (24.g4) it just kinda sits there watching from afar
+[19:35:00] inter-temporal: (24.g4) "don't touch me!" says my g-pawn
+[19:36:01] guitarspider: Don't grab Gerry
+[19:36:32] inter-temporal: (24.g4) not unless you want a lawsuit for harrassment
+[19:36:47] guitarspider: You think the knight is going to sue?
+[19:37:02] inter-temporal: (24.g4) sue for peace maybe
+[19:38:03] bxvrc2lh: are black considerins Ng7-Ne6? - is it not countered by simple Rdb3
+[19:38:49] bxvrc2lh: Rxd6 - Re6?
+[19:40:05] guitarspider: That seems to be the plan
+[19:40:20] inter-temporal: (25.Rxd6) yes
+[19:40:51] bxvrc2lh: not sure why did white forced black to take the bishop, could be I am not seeing something
+[19:40:51] inter-temporal: (25.Rxd6) but also considering ...Rxd6
+[19:41:21] bxvrc2lh: with Rxd6-Rxd6 there is no way to protect b6
+[19:42:22] giziti: (25.Rxd6) this seems black is going to keep their extra pawn
+[19:42:22] inter-temporal: (25.Rxd6) ...Rxd6, exd6 Rb8, Rd1 Kf8, maybe
+[19:42:37] bxvrc2lh: Rb8 - d7?
+[19:42:53] bxvrc2lh: break a-b pawns is draw imo
+[19:43:08] bxvrc2lh: the only way to win as black is to keep them connected
+[19:43:23] bxvrc2lh: "imo"
+[19:43:54] inter-temporal: (25.Rxd6) i thought the defending R in front of the outside passer can be won
+[19:44:39] bxvrc2lh: and now d7?
+[19:44:39] bxvrc2lh: how does blakc protect b pawn
+[19:44:39] giziti: (25.Rxd6) eah probably d7 Kf8
+[19:45:10] bxvrc2lh: d8. Rxd8-Rxb6 and it's a draw
+[19:45:10] bxvrc2lh: imo Re6 was better
+[19:45:25] giziti: (27.d7) but yeah Rxb6...
+[19:45:25] inter-temporal: (28.Rxb6) yeh, he missed it
+[19:45:25] bxvrc2lh: Rxb6 is just nasty
+[19:45:40] jokicinator15: (28...Rd8) oooof
+[19:45:40] guitarspider: Ouch
+[19:45:40] inter-temporal: (28...Rd8) that's the way
+[19:45:55] jokicinator15: (29.Ra6) what a move
+[19:46:26] guitarspider: Even d8 was objectively a draw but at least he could have played that
+[19:46:41] inter-temporal: (30...Rd4) yeh, nice tactic
+[19:46:56] inter-temporal: (31.h3) another kind of R-sac with it's own passer on the 7th
+[19:47:42] inter-temporal: (32...Ke6) forgot about that pattern. me too
+[19:48:58] guitarspider: Time to shake hands
+[19:49:14] inter-temporal: (33...Rd5) that deflection theme comes up all the time. but even nicer with a capture, and maybe harder to see
+[19:49:29] giziti: (33...Rd5) uh is tihs leading his king too far astray in the pawn endgame?
+[19:54:03] guitarspider: Possibly
+[19:54:03] guitarspider: I was sure he'd keep the king back
+[19:54:18] guitarspider: Nothing ever happens with the king close to the pawns
+[19:54:49] inter-temporal: (35...Ke4) is there some general rule where we want a lone K in front rather than behind it's pawns?
+[19:55:19] giziti: (35...Ke4) can't you just plant the king on g7, keep the rook on the fifth rank, maybe play h5...
+[19:55:50] guitarspider: The ideal defensive setup in 3v3s is f7 g6 h5
+[19:56:20] jfiras: (36.Rf6) good to know
+[19:56:20] nightsub: Go Crap!
+[19:56:20] guitarspider: Here white already had g4 but like giziti says, would have worked out without problems.
+[19:57:06] giziti: (35...Ke4) yeah i mean with the rook on the fifth rank, just take with the rook if white takes, right?
+[19:59:53] guitarspider: I assume this is still drawn but it should be dead at this point and it's not.
+[19:59:53] glennjamesmax: I can already see ways for Black to lose.
+[20:00:09] glennjamesmax: One white plan is Kh4-g5-h6
+[20:00:24] glennjamesmax: Black can't challenge f6 rook and there are no weaknesses
+[20:00:54] bxvrc2lh: g4? and try to challenge h7 pawn?
+[20:01:10] glennjamesmax: g4 when?
+[20:01:10] guitarspider: g5?
+[20:02:26] bxvrc2lh: yeah... digits are hard
+[20:02:56] bxvrc2lh: I mean simple plan... g5, Kg4 and Ra7-Ra8-Rh8
+[20:03:11] bxvrc2lh: not so easy to stop as black
+[20:03:11] guitarspider: yeah, I like it
+[20:04:58] guitarspider: Oh, was he banking of Rxf5? Because that loses with a black rook on the a file
+[20:05:13] guitarspider: Rxf4
+[20:05:13] glennjamesmax: I don't actually, because the moment you move away from attacking f-pawn example Ra6 Rd3+ Kg4 Rf3
+[20:06:29] glennjamesmax: But all this was very very avoidable for Black in a simple 3 vs 3 symmetrical endgame
+[20:07:00] bxvrc2lh: ofc it's a draw but.. they still play so have to come up with some plans
+[20:08:46] guitarspider: Not sure I get Kf2
+[20:09:02] bxvrc2lh: why... Ra6-Rd5, Ra7-Rf5 and Re7.... and I would like black chances
+[20:09:17] bxvrc2lh: instead of Kg4
+[20:09:32] bxvrc2lh: white were cutting of black King and could easily get h pawn or am I missing something?
+[20:10:49] glennjamesmax: Your notation/moves are very confusing so I'm not sure what your idea actually is
+[20:11:04] bxvrc2lh: or even Re70Re5 and exchange Queen could have worked if black try Rf5
+[20:11:04] glennjamesmax: But at any stage Ra6 Rd3+ was coming
+[20:11:19] bxvrc2lh: so basically instead of Kg4
+[20:11:50] bxvrc2lh: Ra6 - Rd3, Kg4-Rd5, Ra7-Rf5 and Re7+ cutting of white King
+[20:11:50] glennjamesmax: Kg4 Rf3
+[20:12:05] glennjamesmax: not Rd5
+[20:12:20] glennjamesmax: Ohh
+[20:12:35] glennjamesmax: I see now it might have worked
+[20:12:35] bxvrc2lh: Rf3 will loose to Ra2+
+[20:12:50] glennjamesmax: Ah gotcha
+[20:12:50] glennjamesmax: I see the point now
+[20:14:07] glennjamesmax: But even h5 makes sense if takes Kh5 and if not h6 fixes h7 even more strongly
+[20:14:53] giziti: (40...Kg2) yeah don't we have h6, Ra6, Ra8, Rh8 being threatened now?
+[20:15:54] glennjamesmax: But now Rd3 is a real threat of perpetual
+[20:16:24] glennjamesmax: As Tomme just says aloud on stream. But Okay h6 Rd3 f5 maybe?
+[20:17:10] giziti: (41...Rd2) And not Rd3?
+[20:17:25] glennjamesmax: Rd3 Ra2+
+[20:17:25] giziti: (41...Rd2) ah right
+[20:17:40] glennjamesmax: But again somehow black is slow
+[20:18:11] glennjamesmax: and I really dislike that his king is on the most irrelevant side of the board
+[20:18:26] glennjamesmax: If I had to pick a result I'd say White win now
+[20:18:41] giziti: (42.Ra7) the king walk was a puzzling decision
+[20:19:12] glennjamesmax: Tomme's very strong, but his judgement and emotions are clouded by how this endgame arose.
+[20:19:57] giziti: (42.Ra7) there's always the "gotta do something to try for a win" instinct
+[20:20:43] glennjamesmax: All the options look winning now
+[20:20:43] glennjamesmax: Direct Rxf7 or exchange and take
+[20:20:58] glennjamesmax: or even h6
+[20:21:13] guitarspider: I totally get it. But 3v3 is not the place for trying to win with a king walk.
+[20:21:29] giziti: (42...Rb2) a hilarious line though would involve gxh5 Kxh5 Kg3 and white missing Rh2# but that's not happening
+[20:22:14] guitarspider: Even if they missed the mate idea they'd go Kh6 and try to snack on the pawns :)
+[20:23:15] giziti: (42...Rb2) c'mon play f5
+[20:26:34] giziti: (44...Rb2) actually i was kind of wondering if gxh5 was a good move before Rc3
+[20:27:04] giziti: (44...Rb2) because gxh5 Kxh5 Kg3 and Kxf4 is coming
+[20:34:56] feet_barbie: This might actually be Capablanca s nephew or SMTH
+[20:35:12] glennjamesmax: 51.h6 and now walk the king around and try something?
+[20:38:47] guitarspider: h6 looks like the best try to me
+[20:41:19] giziti: (52...Rb2½?) gxh5 and Kf3 is interesting because it attacks the rook and threatens mate...
+[20:43:06] guitarspider: White should have Rh4 there giziti
+[20:43:36] giziti: (52...Rb2½?) yes but I think that's drawn
+[20:44:37] guitarspider: gg
+[20:44:53] micomps: Gg
+[20:45:08] nyanners: gg
+[20:45:23] giziti: wild stuff
+[20:45:38] jfiras: gg !
+[20:51:44] tommeketoch: gg
+[20:54:31] feet_barbie: The bf5 Lines are Crazy at times
+[20:54:46] feet_barbie: 17...
+[20:56:17] bjfletcher: gg
