@@ -1,0 +1,182 @@
+Lichess game chat log
+Game      : https://lichess.org/f5MNZYg3
+White     : rcstinson
+Black     : rpcx
+Time      : 45+45
+Captured  : 2026-10-06 18:15:00 UTC
+Game ended : 2026-10-06 16:54:51 UTC
+Messages  : 172
+────────────────────────────────────────────────────────────
+
+[14:05:39] karasso: go rcstinson
+[14:06:40] rpcx: this invite qb6 and i don't see why not just go for it and see from there
+[14:10:59] rpcx: qxb2 looks free but my opponent probbably has something planned
+[14:11:44] rpcx: i don't see how you can defend both c3 and b4 without qb3 which hangs the rook
+[14:13:16] rpcx: maybe the idea is qxb2 qb3 qxa1 ke2 and my queen is trapped but i can just trade queens can i not ?
+[14:14:17] rpcx: i don't see it
+[14:19:21] nyanners: dang. always bluff call
+[14:20:07] nyanners: 13 Rb1 would be nice so you get b7, needed it before Nd6 to keep the black lsb diagonal closed
+[14:20:53] nyanners: but this is still.. it has to be at least enough, but white's coordination is a bit all over the place
+[14:23:11] rpcx: the question is does black have time to go qf3 right away because i have nd5 coming in and then i just have a extra pawn for not castlein
+[14:23:41] nyanners: i like the optimism. gotta be a believer
+[14:24:42] nyanners: Q trade obv?
+[14:24:42] angborxley: go rcstinson!
+[14:24:58] nyanners: now id be concerned for white
+[14:27:15] rpcx: qc7 looks bad for me qxq looks to be the only option for me
+[14:29:47] rpcx: b5 seems pretty good but i should think this through
+[14:31:18] karasso: Not a fan of the queen trade for white. Maybe now f3 Nge4 is an idea. If Bxe4 fxe4 to open the f-file for the rooks to attack f7
+[14:33:05] karasso: But white has no time for f3 so Nge4 directly now, i guess
+[14:33:35] wave2679: nge4 might lost to a pawn to f5
+[14:34:36] jg777: Have a fun game you two and thanks to all who are tuned into the game and spectating! :)
+[14:34:36] karasso: Was hoping Nc5+ would be good. f5 is also kind of ugly
+[14:35:38] wave2679: There are lines where you don't lose the pawn I suppose, and if you don't gain material there's no reason to lock your bishop up
+[14:37:40] karasso: The black b-pawn would be mich better on b6 than b5
+[14:38:10] rpcx: bxn nxn nb4 looks reasonable i can play a5 later and am threatening nc2 anyway is they castle but that allows opposite colour bishops
+[14:38:56] karasso: Stopping Nc5. Also black could play a5. Here the a-pawn will be a weakness for some time
+[14:39:42] rpcx: in an ideal world i would like to stop the b pawn and attack it with my LSB  but nc5 is coming and i'm getting suffocated
+[14:42:29] rpcx: this position is starting to annoy me on a fundamental level
+[14:42:45] karasso: Bxe4 Nxe4 Nb4 0-0 with Rfc1 and  Nc5 should be decent for white
+[14:44:01] rpcx: because i now realize that DSB taking the knight is also a serious consideration
+[14:47:05] rpcx: there i can go for for f6 f4 and that position looks better for white long term
+[14:48:36] rpcx: but after LSB takes pawn ng5 is coming and that is annoying
+[14:50:54] karasso: Blacks knight on b8 is really a problem. Was trying to make Kc7 with Nd7 work, but after Kc7 Ba5+ Nb6 0-0 Nd7 Rfc1 is strong for white
+[14:52:55] karasso: Maybe black can get out with Na6 after white castles
+[14:56:13] karasso: But white should overall be fine here, with the bishop pair and the semi open a and c file for the rooks
+[14:59:47] tactix47: (19.Rc1) White has good targets in the c6 and h5 pawns.
+[15:06:24] karasso: Rc1 was weird, giving up the preasure on the a-file. With the Rook on a1, a5 with Nba6 would not be possible, since a5 would be hanging.
+[15:07:10] karasso: 0-0 with Rfc1 or probably even better Rh3-Rc3 or Rf3 seemed good
+[15:08:26] karasso: (Not Rh3, Nc2 was a threat)
+[15:12:31] karasso: White probalbly didn't like 0-0 Nc2 Rd1 Nxd4 Be3 c5 b4 with conplications
+[15:12:31] rpcx: f6 looks complicated after rg3 but with g6 after rf3 i need to go rh7 or something like that but i can get the a pawn down the board
+[15:13:47] rpcx: i choose g6 purely because i don't want to get into the chaos i see and here i have pretty clear plans
+[15:14:03] tactix47: (22...g6) Time for White to castle?
+[15:18:52] rpcx: oops mouse slipped
+[15:19:38] tactix47: Confirm move is a good thing (at least in classical and correspondence)
+[15:21:24] karasso: Kd2 is nice, keeping the king in the Center while getting the rook in the game.
+[15:23:41] rpcx: my plans are to get a knight on f5(i have a dream) the other on d5/b4 stack the rooks on the a file and try to push that pawn to victory
+[15:27:45] jg777: Knights dominating this closed game- can white find ways to trade some pawns off somehow?
+[15:31:34] karasso: (Nb4) That looks not good for white. Maybe Rd1 to go out of the Na2 fork and be ready to answer Nxd4 with Ke1
+[15:33:05] jg777: Yeah, these knights are dancing a bit to well here :)
+[15:44:31] karasso: Na2 Rxc6 and if the bishop Lands on b5 with check it is actually mate
+[15:46:18] karasso: I like it, at least white has good practical chances after Na2.
+[15:48:19] karasso: If i don't want to calculate a lot with black what happens after Na2, i would go Rhh8. Black is also better without winning the exchange
+[15:49:05] karasso: Oh, i also blundered this :D
+[15:50:37] funnyanimatorjimtv: 31...Nd5 those last few moves were cool
+[15:50:52] karasso: And Nxd4 makes it even worse? Cxb5 Rxd4+ Ke8 Rc7 with Rdd7
+[15:51:07] karasso: I really see nothing right now^^
+[15:52:08] stelioskalavrinos: Σκατα
+[15:52:38] karasso: Being on the app and comentating while not seeing the board is not a good combi, especially if you actually are doning sth different^^
+[15:55:57] funnyanimatorjimtv: 33...a4 Rxb5 a3
+[15:56:58] funnyanimatorjimtv: 33...a4 bxa4 bxa4 Rcc4 a3 Ra4
+[15:58:14] karasso: Now it gets interesting
+[15:58:14] funnyanimatorjimtv: Ohhh
+[15:59:15] karasso: Bf4 was a nice trick
+[16:02:33] antisana: This is a fun game!
+[16:05:21] inter-temporal: (43.Bg5) ...Rb7+ trade a pawn
+[16:06:21] inter-temporal: (43.Bg5) maybe ...f6 is good. choices
+[16:07:53] inter-temporal: (44...Rxg2) yeh this was better.
+[16:11:56] inter-temporal: (45.f4+) north, or south
+[16:11:56] rpcx: it's either kd6 or ke1
+[16:13:28] funnyanimatorjimtv: i would guess it's a draw cause white's rook and bishop have to guard against the pawn and against checkmate
+[16:13:28] karasso: Bf6 Kxf4 Rxd4+ Kf5 with some f6 g5 to trade the last pwan.
+[16:13:58] jg777: Yeah, would be a nice defense for black if they can manage it!
+[16:14:29] inter-temporal: (47.Rb4) even easier if white's dsb gets trapped
+[16:14:59] karasso: maybe we will get to watch R+B vs R
+[16:15:14] inter-temporal: (47.Rb4) maybe that will inspire to do some more work on that ending. lol
+[16:15:14] jg777: Endgame fun game!
+[16:18:17] inter-temporal: (47.Rb4) north, or south
+[16:19:18] inter-temporal: (47.Rb4) stay out of the dark forests
+[16:20:04] inter-temporal: (47.Rb4) "where 2+2 = 5 and only 1 can come out alive"--Capablanca
+[16:21:05] inter-temporal: (47...Kd3) later paraphrased and plagiarized by Tal, oc.
+[16:21:20] karasso: After Kd3 i thought Bf6
+[16:21:20] tactix47: All good things start with Capablanca
+[16:21:36] inter-temporal: (47...Kd3) "... and the path leading out is only wide enough for one"--Tal
+[16:21:36] inter-temporal: (48...Kc4)  Black King on a world tour
+[16:21:51] sadistictushi77: he would have play bf6
+[16:22:06] karasso: Bf6 was just winning the d4 pawn, wasn't?
+[16:23:07] jg777: Seems like blacks king is on the wrong side of the board to me
+[16:24:23] inter-temporal: (49.Rb8) ...Kc3, why not. "always threaten mate in 1"--Capablanca
+[16:25:09] karasso: Rb7 instead of Rb8 targeting f7 was probably better
+[16:25:24] inter-temporal: (51.Rc7) check, check, check,
+[16:25:39] karasso: probably doesn't matter to much after Rc7
+[16:27:11] inter-temporal: (51.Rc7) put a little time on the clock
+[16:33:01] invinci7777: is it draw?
+[16:33:16] inter-temporal: (52.Rc6) maybe if GMs were playing
+[16:33:16] karasso: wouzld not rule out any result right now
+[16:34:17] karasso: if i would have to guess, i would say the position is still winning for white
+[16:35:18] invinci7777: it seems there is no time to take on g6
+[16:35:49] invinci7777: may be there is
+[16:36:19] karasso: yeah, i think Kd2 instead of Rb2+ bakc was a better try
+[16:37:05] invinci7777: yeah
+[16:37:51] invinci7777: you meant Rg2+ i assume
+[16:38:06] karasso: yes
+[16:39:22] nyanners: this is extremely weird
+[16:39:37] nyanners: no clue whos winning tbh
+[16:41:09] karasso: now Kb2 d3 Re6+ Kd1 (Re better) Re5 d2 Rxf5 Ke2 Re5+ Re3 Rxe3 Kxe3 f5 would win for white
+[16:41:39] karasso: but if Re3 after Re6+ white can't trade
+[16:42:10] nyanners: kb2 forced it seems
+[16:43:26] invinci7777: yeah
+[16:43:56] karasso: Kc4 d3 Rd6 d2 Rxd2 Kxd2 Kd4 Re3 does not work, Kb2 should be it
+[16:43:56] karasso: well
+[16:44:11] nyanners: not only does it not work, i feel black is effectively forced to win
+[16:44:11] nyanners: like its the only plausible moves
+[16:45:28] karasso: so Rd6 d2 Bf6
+[16:45:58] karasso: to get the bishop to e5, to try to get with the king to e6
+[16:46:44] invinci7777: rc3 to c1
+[16:46:44] invinci7777: nvm
+[16:46:59] funnyanimatorjimtv: wait what black did it
+[16:47:29] funnyanimatorjimtv: oh white is going for the other black pawns
+[16:48:00] funnyanimatorjimtv: so maybe 59...Rf3-f1 but white can just pin the pawn and take it
+[16:48:15] rpcx: isn't this winning ?
+[16:48:15] karasso: re3 Bf6 d1Q Rxd1 Kxd1 Kd5 with Be5 next....
+[16:48:30] funnyanimatorjimtv: wow
+[16:49:01] karasso: Kd4 is bad, now the f4 pawn hangs if you play Bf6
+[16:49:01] invinci7777: i thoiught rd3 was better
+[16:49:16] nyanners: tragic game :o
+[16:50:02] inter-temporal: (65.Bg5) ...Rxf4
+[16:50:02] jg777: What a game! Back and forth this one. Endgame is the playground of choice. :)
+[16:50:17] funnyanimatorjimtv: 66...Kg3
+[16:50:47] karasso: yea, Rd3 would have been better than Re3
+[16:50:47] inter-temporal: (70.Kf3) careful
+[16:50:47] funnyanimatorjimtv: 69...Kg2
+[16:51:03] jg777: This was a bit unnecessary though
+[16:51:18] funnyanimatorjimtv: cant do 2 bishop checkmate
+[16:51:33] jg777: But you can do knight and bishop!
+[16:51:48] funnyanimatorjimtv: can he do it
+[16:51:48] invinci7777: 2 quuen stalemate
+[16:52:04] jg777: Make it super epic, go for glory! :D
+[16:52:04] inter-temporal: (73...Kf4) i have to relearn that N+B every 6 months...
+[16:53:05] wave2679: It’s not that bad but the orientation of the board throws me off way too much (N+B) mate
+[16:53:20] rpcx: def not a clean game by me
+[16:53:20] invinci7777: I never learned it
+[16:53:35] nyanners: imagine the pawn was on h4 and it would be a draw
+[16:53:35] funnyanimatorjimtv: OMG
+[16:53:35] inter-temporal: (78.Kh2) oh
+[16:53:35] karasso: f1Q
+[16:53:50] karasso: draw
+[16:53:50] inter-temporal: (78.Kh2) f1=R
+[16:53:50] nyanners: okay this is very funny
+[16:53:50] nyanners: id play h3
+[16:53:50] karasso: kf3
+[16:54:05] invinci7777: yeah h3
+[16:54:05] jg777: Now that would be tragic lol
+[16:54:05] rpcx: i have forgotten how to turn off auto queen
+[16:54:05] funnyanimatorjimtv: LOL
+[16:54:05] inter-temporal: (78...h3) lol
+[16:54:05] wave2679: You can play f1=R no?
+[16:54:21] funnyanimatorjimtv: gg
+[16:54:21] invinci7777: yeah that too
+[16:54:21] jg777: Yeah but he can’t figure out how to turn off auto queen
+[16:54:21] inter-temporal: gg
+[16:54:36] invinci7777: gg
+[16:54:36] rpcx: ggs
+[16:54:36] inter-temporal: turn off autoQ.
+[16:54:51] jg777: Good game! Brilliant knight dancing earlier, back and fourth game, super fun endgame, loved it.
+[16:54:51] wave2679: Gg
+[16:55:22] rpcx: I think you press ctrl but i am not sure
+[16:55:37] nyanners: gg :o
+[16:55:37] inter-temporal: most important lesson for this game--lichess shortcuts
+[16:56:53] karasso: gg
+[16:58:09] angborxley: gg
+[17:02:12] tactix47: gg
+[17:25:17] antisana: gg
