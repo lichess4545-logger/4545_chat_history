@@ -1,0 +1,96 @@
+Lichess game chat log
+Game      : https://lichess.org/OgbrUfgC
+White     : cowtone
+Black     : mixxanber
+Time      : 45+45
+Captured  : 2026-10-06 15:11:58 UTC
+Game ended : 2026-10-06 13:51:44 UTC
+Messages  : 86
+────────────────────────────────────────────────────────────
+
+[12:05:47] cowtone: i think there is some crazy line with ..Bc5 dxc6 but i doubt black will go Bc5 if they don't know it
+[12:06:02] cowtone: i don't remember more about this ponziani
+[12:07:49] mixxanber: 5... Bc5 I feel like I've seen before when analyzing this line in blitz
+[12:08:04] mixxanber: but my memory is that its a piece sacrifice and complicated? but good for black?
+[12:08:19] mixxanber: this approach looks simpler, albeit  some concession
+[12:09:51] kamagayajiji: Go mix amber!
+[12:12:54] mixxanber: 6... Bc5 7. Qe2 and I don't see a follow-up actually
+[12:16:12] mixxanber: really couldn't find a move after 6... Bc5 Qe2
+[12:16:58] mixxanber: Nxf7 looked innocuous at a glance, but hopefully I'm not overlooking
+[12:17:28] mixxanber: I guess I missed Qg4 here..
+[12:20:00] mixxanber: okay I'm just going to O-O, Qg4 actually looked quite annoying there?
+[12:20:16] mixxanber: so feel like I escaped something?
+[12:21:32] joonaf: go cowtone!
+[12:22:48] mixxanber: in retrospect, Bd6 instead of Be7 looks better
+[12:23:18] jg777: Have a fun game you two!
+[12:23:49] mixxanber: lets flick in d6 so no Ng4
+[12:29:09] mixxanber: Bb5+ looks weird to me
+[12:32:42] mixxanber: if Nxf6, probably Bxf6, need to solve this dsb somehow
+[12:32:57] mixxanber: and g6 Bg7 looks safe
+[12:33:43] mixxanber: Ne5 feels healthy here
+[12:36:00] mixxanber: 11... Ne5 Bxf6 Bxf6 f4 Bg4 seems happy to me
+[12:36:46] mixxanber: or just Ng6 lol
+[12:45:55] mixxanber: I sort of changed my mind, I thought I equalized but I think white is still doing a little better
+[12:46:41] mixxanber: I think just Re8 Bf8, and wait for mistakes on the queenside
+[12:46:41] mixxanber: well no Re8 i guess
+[12:48:27] nyanners: no Bc5 eh
+[12:48:58] nyanners: if you dont wanna commit to the bit id just go with exd4 e5 Nd5
+[12:49:29] nyanners: but this turned out alright
+[12:52:16] mixxanber: I thought Ng4 was strong here
+[12:54:33] mixxanber: I guess I'm not threatening to tkae on c5 because my bishop would be hanging
+[12:56:05] mixxanber: I think with my bishop on f6, I'm a little less worried about these pawns rolling
+[12:56:20] mixxanber: just put bishops on g6 and f6 or something
+[13:00:54] mixxanber: Bf6 h3 Nxe3 fxe3 e4 is my idea here
+[13:01:55] mixxanber: the way I think about this is if I can get my pieces active and not stuck on back rakc ish
+[13:01:55] mixxanber: then I should have a lot of pawns to attack
+[13:02:10] mixxanber: also just really need to get kingside intitiatve going
+[13:03:57] mixxanber: c6 is also temtping now
+[13:10:04] mixxanber: just sort of played this move tbh
+[13:10:19] mixxanber: Bd4 Ne5 Bc2 I didn't love
+[13:13:07] mixxanber: did I blunder Nxe5 here haha
+[13:14:24] mixxanber: I gues Nxe5 Bxe5 is good
+[13:15:25] mixxanber: overall I just wanted Ne5 Nd3 for some counterplay
+[13:20:14] mixxanber: I realize that Nxh2 should be considered in many lines too
+[13:20:45] mixxanber: this simplifies a lot now huh
+[13:22:16] mixxanber: maybe Qx so I can play Qf5
+[13:22:16] mixxanber: not have to deal with a pinned bishop
+[13:24:03] mixxanber: Qxa2 probably is a move as well
+[13:25:19] mixxanber: i was feeling a little in trouble a few moves ago, so I guess I'm happy with this transofrmation
+[13:28:22] mixxanber: Rc8 c6 does look annoying
+[13:29:38] mixxanber: but I think b5 should be okay
+[13:29:53] mixxanber: may also be one of those things where if Bxc7 in some lines, I play Bc8 and take on c6 right after
+[13:31:40] goldenretrieverchess: Go cowtone!!
+[13:37:15] mixxanber: feels like I should play c6 while I can
+[13:37:15] mixxanber: c6 Bd6 Rfe8 looks fine to me
+[13:40:33] mixxanber: I guess Bc3 is mildly annoying for white soon?
+[13:41:03] mixxanber: I don't understand these bishop endgames, but somehow if white plays like h3, my bishops can attack pawns a little more easily
+[13:42:50] mixxanber: Rfe8 seems safer than Bc3, but let me see
+[13:43:05] mixxanber: yeah I very much doubt I want to let the rook into e7
+[13:43:51] mixxanber: hm but I don't actually see whats wrong with Bc3
+[13:44:06] mixxanber: I guess Bd2 is their idea?
+[13:45:07] mixxanber: lets just keep things simple I guess
+[13:45:37] nyanners: active rooks? :o probably not. bishops are covering all the entry squares
+[13:50:27] mixxanber: isn't Bc3 strong here?
+[13:50:58] mixxanber: I guess Rb1 indirectly defends
+[13:51:13] nyanners: Rb1 wouldnt be a good move
+[13:51:43] nyanners: but even rb1 bxb4 bxf7 and white gets back ranked
+[13:51:59] tactix47: gg
+[13:52:14] nyanners: draw is fair but black had the right idea xd
+[13:52:44] mixxanber: haha Rb1 dissuaded me even though didn't do anything :)
+[13:52:44] nyanners: its a free rook
+[13:53:15] mixxanber: yeep
+[13:53:30] cowtone: Rb1?
+[13:54:16] mixxanber: haha was wondering how you would respond to Bc3
+[13:54:31] mixxanber: and someone imagined Rb1 being a good move
+[13:55:17] cowtone: i see, a free rook indeed
+[13:55:32] cowtone: i was going to defend with Ba5 but it would have been probably better for you
+[13:56:17] mixxanber: yep agreed. probably my subconscious knew i'd be late for work this morning if I tried grinding out a game
+[13:56:17] mixxanber: and hallucinated Rb1 to spare me
+[13:57:03] cowtone: your schedule saved me i guess
+[13:57:49] cowtone: felt like i was better until dumb 19. Nxe4
+[13:58:04] mixxanber: felt that way to me as well
+[13:58:19] cowtone: can't give away my central pawn
+[13:59:05] mixxanber: yep I had 19. Bd5 Ne5 as my plan
+[13:59:20] mixxanber: but this drops a pawn. I think i noticed it and played it anway
+[14:03:39] cowtone: i thought 18..e4 idea was to get your knight on d3 that i couldn't allow
+[14:03:54] cowtone: gg, it was a fun game
