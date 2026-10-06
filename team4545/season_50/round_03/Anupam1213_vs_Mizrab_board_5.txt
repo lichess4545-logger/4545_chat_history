@@ -1,0 +1,326 @@
+Lichess game chat log
+Game      : https://lichess.org/kAJxMt2k
+White     : anupam1213
+Black     : mizrab
+Time      : 45+45
+Captured  : 2026-10-06 19:34:30 UTC
+Game ended : 2026-10-06 18:14:21 UTC
+Messages  : 316
+────────────────────────────────────────────────────────────
+
+[15:57:45] lordziax: GO Anupam!
+[16:29:45] aldric123: (18.Bf3) Go Mizrab!
+[16:31:32] aldric123: (18...Nxd4) I don't think I understand Nxd4. Hmm
+[16:31:32] mizrab: hi Aldric, sorry you have to witness this!
+[16:31:47] aldric123: (18...Nxd4) No worries. I'm just trying to understand Nxd4.
+[16:33:03] aldric123: (19.cxd4) I liked your position a ton at 11.0-0, I'm not sure bxc3 was the move there
+[16:35:20] aldric123: (20.Nb3) and if you were going to do it, I think maybe you had to play 14...Ra7
+[16:38:38] aldric123: (21.g4) At this point probably I'd play 21...Rfd8
+[16:39:39] aldric123: (21...Rfc8) the annoying thing about your position is that c1 is covered endless amounts of times so the passed c pawn doesn't feel
+[16:39:39] aldric123: (21...Rfc8) as amazing as it otherwise could
+[16:44:59] aldric123: (23...c2) Wow you're going crazy today. :)
+[16:46:00] aldric123: (24...Rxc2) Ah well. Everybody has bad games here and there. It's all good!
+[16:46:30] aldric123: (24...Rxc2) Greetings David.
+[16:47:00] davidsifre: (24...Rxc2) Greetings, Aldric. I just won my series game.  Feels good man.
+[16:47:00] aldric123: (24...Rxc2) Yay!
+[16:47:16] davidsifre: (24...Rxc2) Mizrab seems to be behind the 8ball
+[16:48:01] aldric123: (24...Rxc2) Yeah he's pretty much screwed unfortunately.
+[16:48:17] aldric123: (24...Rxc2) Especially if white does Rc1 since it basically forces the trade
+[16:48:17] aldric123: (25.Nc1) But he's purely a piece down now
+[16:48:47] aldric123: (25.Nc1) I think Nc1 is not the best move, but it's not a blunder, so....
+[16:53:06] aldric123: (27.Rb5) Rb7 seems safest for black. First I liked Rb5, but Bc7 seems slightly more annoying
+[16:53:37] aldric123: (27.Rb5) Only slightly though
+[16:55:23] aldric123: (27.Rb5) It isn't even that annoying, unfortunately. Bc7 Bxc7 R2xc7 Nd3  seems fine for white
+[16:55:54] aldric123: (27...f6) ah this seems a better try for counterplay, but even here I think you can just take on d5
+[16:56:24] aldric123: (28...fxg5) At least now can't take on g5, right?
+[16:57:55] aldric123: (29...Bf6) Nd3 and it should be about over
+[16:58:26] aldric123: (30.Rc5) interesting way to try to force trades
+[16:58:41] aldric123: (30.Rc5) doesn't really work though
+[16:59:12] aldric123: (31...Bxa1) I liked R8xc5 more, but this is still nifty
+[16:59:12] aldric123: (31...Bxa1) Suddenly black's back in the game
+[17:00:28] aldric123: (32.Nb3) Bf6 seems the main move now
+[17:01:29] aldric123: (32.Nb3) and then get black king's active and it should be winnable
+[17:03:15] davidsifre: On a separate topic any idea what it means when you see your opponent listed in the spectator room?
+[17:03:15] aldric123: (33.a5) I don't think I've ever seen that, so no idea
+[17:04:16] aldric123: (34.Kg2) I think getting K active was nicer than Rc6 but it looks doable I guess
+[17:05:48] aldric123: (34.Kg2) Kf7 Ke6 is screaming to be played
+[17:08:35] aldric123: (35.Kf3) I guess you could also play h5 here, assuming if Ke4 Ke6 then
+[17:08:50] aldric123: (35...Re6) don't love this move
+[17:09:21] nyanners: umm it cuts off
+[17:09:21] nyanners: and now be5 maybe
+[17:09:21] nyanners: may force a trade
+[17:09:36] aldric123: (36.Ke2) You're forgetting knight covers there too
+[17:09:51] nyanners: no yeah i mean, the Big  Trade would be B for N for sure
+[17:09:51] nyanners: this one is, like, okay
+[17:10:06] nyanners: i  think its good enough
+[17:10:37] nyanners: the rook holds, and then you can overload? i dont know
+[17:10:37] aldric123: (36.Ke2) You have to hurry the K to the queenside as black imo
+[17:10:52] davidsifre: Mizrab is a god.
+[17:11:07] aldric123: (36.Ke2) Ke7 d7 and so on
+[17:11:23] davidsifre: Apparently if you open the game in a second browser it shows you as a spectator. Though you can’t see the chat.
+[17:11:23] aldric123: (36.Ke2) weird as heck
+[17:11:38] aldric123: (36.Ke2) But thanks for the info David. :)
+[17:12:08] davidsifre: I am a wealth of information.
+[17:12:24] aldric123: (36...Be5) Can't really stop white K from getting to c4 this sucks compared to before
+[17:12:39] aldric123: (36...Be5) This is interesting at least
+[17:12:54] nyanners: id trade but it makes enough sense to not trade
+[17:13:09] nyanners: its a bit risky
+[17:13:24] invinci7777: i also like trade
+[17:13:55] nyanners: time to find out
+[17:14:25] aldric123: (37...Bf4) I think black can still win, but I really woulda preferred getting K to center asap like 5+ moves ago
+[17:14:25] nyanners: i mean, the thing is, black taking on e3 also accelerates the kingside passer
+[17:14:41] aldric123: (38.Kd3) agreed
+[17:14:56] aldric123: (38...Bxe3) and now h5
+[17:14:56] invinci7777: black can go h5 and g4 hxg h4 for a quick passer
+[17:15:11] aldric123: (39...h5) yep it's still good
+[17:15:11] aldric123: (39...h5) Black just scared me a bit
+[17:15:26] tactix47: (39...h5) passed pawns must be pushed something something darkside
+[17:15:42] nyanners: i suppose you can actually calculate whether to h4 or hxg instead of just vibing
+[17:15:42] nyanners: but its likely both win
+[17:15:42] aldric123: (39...h5) you should
+[17:16:12] nyanners: for my part, i will vibe
+[17:16:12] aldric123: (39...h5) seems like white has to do Ke2 here or lose instantly
+[17:16:27] tactix47: ...g4 hxg4 h4 looks fun at some point
+[17:16:43] aldric123: (39...h5) Of course I guess there's still Rf6 to cut off
+[17:16:58] ysgwydd: (39...h5) Apparently I'm 0-1 against white. Played in a rapid game from the pool a few weeks ago
+[17:18:14] aldric123: (40.Nd4) Ra6 now, right?
+[17:18:29] invinci7777: ig
+[17:18:44] nyanners: you can calculate Rf6 but white could play a6 as a distraction
+[17:19:00] invinci7777: now g4
+[17:19:15] nyanners: here feels like white just lost a tempo
+[17:19:15] nyanners: but maybe white didnt want to commit the king
+[17:19:30] nyanners: but i feel you should
+[17:19:45] nyanners: but yea.. its not particularly promising to commit the king
+[17:20:01] aldric123: (41.Nb3) Black does need to get the g/h pawns going though
+[17:20:16] aldric123: (41.Nb3) If white had 2 moves to play Kc4 b5 life could get ugly
+[17:20:16] aldric123: (41.Nb3) g4 posthaste!
+[17:20:31] nyanners: i mean, white could  wait for kc4 to play pawn :D
+[17:20:31] nyanners: the rook can always hold out for way longer
+[17:20:31] tactix47: ^
+[17:20:46] nyanners: i feel it doesnt really matter but
+[17:20:46] nyanners: theres time
+[17:20:46] nyanners: might as well
+[17:21:02] aldric123: (41.Nb3) I mean I agree, but it just seems complicated to not get MOVIN
+[17:21:02] aldric123: (41.Nb3) You want to play like Kg6 to force him to move?
+[17:21:17] aldric123: (41...g4) I can maybe get behind that at least
+[17:21:17] nyanners: white could be afraid that e.g. king holds the kingside and you cant solve the queenside mess
+[17:21:32] nyanners: so yea i liked kg6
+[17:21:32] nyanners: kf5
+[17:21:47] nyanners: but yea this seems good
+[17:22:02] nyanners: now you need kg any way
+[17:22:02] aldric123: (43.Ke2) I think at this point I kind of like Ke6 d5 c4
+[17:22:02] ysgwydd: (43.Ke2) Zugzwang maybe? Knight can't move
+[17:22:18] ysgwydd: (43.Ke2) Not now but someday
+[17:22:18] invinci7777: now Rf6?
+[17:22:48] nyanners: umm have to calculate the a6 decoy in the rf6 lines
+[17:22:48] aldric123: (43.Ke2) If Rf6 I think you force it with a6
+[17:22:48] ysgwydd: (43.Ke2) Kf6-e5-e4
+[17:23:03] nyanners: if you lose the first g-pawn it gets significantly weirder
+[17:23:03] nyanners: i think it is just king forward
+[17:23:19] ysgwydd: (43.Ke2) Good. We want weird
+[17:23:19] aldric123: (43.Ke2) I've been wanting K forward for like 10 moves now. plz!
+[17:23:34] ysgwydd: (43...Rf6) Kg8!
+[17:23:34] aldric123: (43...Rf6) sigh
+[17:23:34] nyanners: i do want weird
+[17:23:49] aldric123: (44.Nd2) In general I'm all for weird, but I kind of want my teammate to actually win too!
+[17:23:49] aldric123: (44.Nd2) :)
+[17:24:04] davidsifre: Why not king down the a1 diagonal?
+[17:24:20] nyanners: no yeah weird is much better when you dont have any stakes
+[17:24:35] warvold: (44.Nd2) Go Mizrab!
+[17:24:35] davidsifre: Yes. Go Mizrab.
+[17:24:35] davidsifre: He was a full piece down earlier.
+[17:24:50] warvold: (44.Nd2) Not that bad!
+[17:24:50] davidsifre: Then I came and he is up a pawn.
+[17:25:05] nyanners: seems you could promote
+[17:25:05] invinci7777: now just push g pawn
+[17:25:05] aldric123: (44.Nd2) yep, white tried to force rook trades and missed his a1 rook was hanging. Luck but mizrab will take it
+[17:25:05] nyanners: worth it?
+[17:25:05] davidsifre: A lot of people pay for that kind of support.
+[17:25:20] nyanners: the N stays
+[17:25:36] warvold: (44.Nd2) I would
+[17:25:51] davidsifre: Thanks man
+[17:25:51] aldric123: (44.Nd2) yeah g3 Nf3 g2 Ng1 is fun and funny both
+[17:25:51] nyanners: i say its worth because the queen should actually resolve the queenside easily
+[17:26:06] nyanners: but its Q vs N! always some jumpscares
+[17:26:52] ysgwydd: (44.Nd2) Rf5 could be something also
+[17:27:22] aldric123: (44.Nd2) true that
+[17:27:38] aldric123: (44.Nd2) I like Rf5 and g3
+[17:27:53] nyanners: umm rf5 ne4 is not so easy to remove
+[17:27:53] nyanners: because you lost control of the sixth
+[17:28:23] ysgwydd: (44.Nd2) True
+[17:28:23] nyanners: okay there
+[17:28:38] aldric123: (44...g3) shrug Rf5 Ne4 Re5 seems interesting
+[17:28:54] warvold: (45.Nf3) Ne4 there was g2
+[17:28:54] nyanners: rf5 ne4 re5 kd3 i dislike a lot
+[17:28:54] aldric123: (45.Nf3) Because Kd3 isn't possible
+[17:29:09] aldric123: (45.Nf3) Rxe4
+[17:29:09] aldric123: (45.Nf3) followed by g2
+[17:29:24] warvold: (45.Nf3) g2 now
+[17:29:24] warvold: (45.Nf3) g2 Kf2 Rxf3
+[17:29:24] aldric123: (45.Nf3) I know we're talking about a diff line a couple moves ago
+[17:29:24] nyanners: it was on g4 still
+[17:29:39] warvold: (45...Rf5) Ah sorry
+[17:29:55] aldric123: (45...Rf5) This is good too, though I also assumed g2 here like you did warvold
+[17:29:55] ysgwydd: (45...Rf5) Pawns move 2 squares. Sometimes
+[17:30:10] nyanners: okay i thought itd be g2 here
+[17:30:10] aldric123: (45...Rf5) as did warvold and I
+[17:30:10] nyanners: is this weird
+[17:30:25] aldric123: (45...Rf5) though this doesn't look bad
+[17:30:40] aldric123: (45...Rf5) the white queenside pawns fall super fast now
+[17:30:40] nyanners: no okay the rook holds
+[17:30:56] nyanners: it seems
+[17:30:56] feet_barbie: I thought a6
+[17:30:56] warvold: (46.c6) g2 would have been simpler
+[17:30:56] feet_barbie: Yeah rook good
+[17:31:26] nyanners: okay next question is.. can white get g3 for all that trouble
+[17:31:41] invinci7777: seems so
+[17:31:41] aldric123: (46.c6) not quickly
+[17:31:56] invinci7777: rxa5 kf1
+[17:32:12] tactix47: (46.c6) Just Ke7?
+[17:32:42] aldric123: (47.Kf1) I think I'd go e6 but shrutg
+[17:32:57] nyanners: i dont really know how annoying this is
+[17:33:13] nyanners: seems a bit annoying
+[17:33:28] warvold: (47.Kf1) Ra2 maybe
+[17:33:43] nyanners: odds on losing to Ne5+? id guess 10%
+[17:33:43] aldric123: (47.Kf1) yeah if it truly comes down to the lone g pawn vs e pawn and R vs N it's not trivial
+[17:33:43] aldric123: (47.Kf1) Should still be winnable, but certainly not trivial
+[17:34:14] warvold: (47.Kf1) Ra2 if c7 Rc2 and if Nd4 Ke7
+[17:34:44] invinci7777: doesnt nd4 hit rook
+[17:34:44] warvold: (47.Kf1) Sorry, if Nd4 g2+ first, Kg1 and Ke7
+[17:35:14] nyanners: i suppose we wait for black's move. its good EV for white to see if Ne5+ may land
+[17:35:14] warvold: (47.Kf1) My lines are confusing :)
+[17:35:30] ysgwydd: (47.Kf1) If only the king was on e7 already
+[17:36:00] warvold: (47.Kf1) Ra2 c7 Rc2 Nd4 Rxd7 or Rc2 Nd4 g2+ Kg1 Ke7
+[17:37:16] aldric123: (47.Kf1) go back to simplicity too. Ke7 Kg2 Ra3
+[17:37:16] aldric123: (47.Kf1) The K will stop the c pawn and rook takes the e pawn
+[17:37:47] warvold: (47...Ke7) Right
+[17:37:47] nyanners: okay good
+[17:38:02] ysgwydd: (48.Kg2) But I thought the king was not allowed to  move
+[17:38:17] ysgwydd: (48.Kg2) It sat there for so long
+[17:38:17] aldric123: (48.Kg2) haha no doubt!
+[17:38:48] ysgwydd: (49.Nd4) Rc5 is odd
+[17:38:48] aldric123: (49.Nd4) it's annoying
+[17:39:03] aldric123: (49.Nd4) probably Kc3 now
+[17:39:03] nyanners: this is such a good game
+[17:39:03] aldric123: (49.Nd4) Err Rc3
+[17:39:18] nyanners: rc3 is very funny
+[17:39:18] nyanners: like you dont have rxe3 but when white plays kxg3 you do
+[17:39:33] invinci7777: rc3 looks good
+[17:39:33] aldric123: (49.Nd4) at this point I like it. I woulda rather 48...Ra3
+[17:39:49] ysgwydd: (49.Nd4) Rc3 and claim zugzwang
+[17:39:49] nyanners: and after rc3 kd6 you.. still dont have it
+[17:40:04] nyanners: id play rc3 too
+[17:40:19] aldric123: (49...Rg5) This looks plable
+[17:40:19] aldric123: (49...Rg5) playable
+[17:40:34] warvold: (49...Rg5) Gosh, the fork potential
+[17:40:34] aldric123: (50.Nf3) agreed
+[17:40:34] warvold: (50.Nf3) I'm scared
+[17:40:34] aldric123: (50.Nf3) Knights are tricky bastaads
+[17:40:49] nyanners: white is being really annoying which is great
+[17:40:49] warvold: (50.Nf3) Look : Rg6 c7 Kd7
+[17:40:49] aldric123: (50.Nf3) heh
+[17:41:05] nyanners: reminds me of my most ptsd loss against naroditsky in 3 2
+[17:41:20] nyanners: like i can already see some lines like rg6 c7 kd7 ne5
+[17:41:35] nyanners: nuuuu
+[17:41:35] nyanners: okay c7 isnt even a good move tbh
+[17:41:50] warvold: (51.Nd4) No, it's not
+[17:41:50] warvold: (51.Nd4) But still
+[17:42:06] nyanners: like okay the bait is incredible but black just needs a tiny bit of presence of mind
+[17:42:21] nyanners: Nd4 back is most annoying
+[17:42:51] nyanners: nf5 :D
+[17:42:51] invinci7777: white in zusswang?
+[17:42:51] aldric123: (51...Kd6) looks like we're gonna get that annoying 1 pawn each R vs N
+[17:42:51] nyanners: this is insane
+[17:43:07] nyanners: nah nf5 is very obvious
+[17:43:07] nyanners: and another bait
+[17:43:37] invinci7777: yeah nf5
+[17:43:37] invinci7777: forced win
+[17:44:08] nyanners: the pawns will drop
+[17:44:38] nyanners: or will they
+[17:44:53] nyanners: i might give it up at this point but not sure
+[17:44:53] nyanners: you can probably take g3 anytime
+[17:44:53] aldric123: (52...Kc7) If Nd4 now then Rg4
+[17:45:08] nyanners: but yea taking g3 later.. wont be better
+[17:45:39] nyanners: might as well get a few tempi to play kf4 and such
+[17:45:39] aldric123: (52...Kc7) But yeah, that's kinda what I meant. White can play Nxg3 Kxc6 and we have the g vs e pawn and R vs N
+[17:46:09] invinci7777: how does black make progress if nd4?
+[17:46:09] aldric123: (52...Kc7) Rg4 and zugzwang
+[17:46:25] ysgwydd: (52...Kc7) Watch white spend 50 min here
+[17:46:40] warvold: (52...Kc7) Oh gosh
+[17:46:40] warvold: (52...Kc7) I did not noticed
+[17:46:55] nyanners: playing fast is fine unless you blunder
+[17:46:55] nyanners: white found that out
+[17:47:10] warvold: (52...Kc7) notice*
+[17:49:27] invinci7777: fast around and find out
+[17:49:58] warvold: (53.Nd4) Rg4 is interesting
+[17:49:58] tactix47: Yeah, Rg4 looks good
+[17:49:58] invinci7777: yeah
+[17:50:28] warvold: (53...Kb6) e4 only move?
+[17:50:43] warvold: (53...Kb6) Ah no
+[17:50:43] warvold: (53...Kb6) Nf3 too
+[17:50:59] warvold: (54.Nf5) Of that
+[17:50:59] nyanners: nf3 is funny to recycle the idea in a different geometry
+[17:50:59] nyanners: i like it
+[17:51:14] nyanners: increases the odds a bit
+[17:51:14] invinci7777: yeah might have worked
+[17:52:15] aldric123: (54.Nf5) I'm sad black didn't notice zugzwang on 53...Rg4
+[17:52:45] invinci7777: yeah rg4 was nice
+[17:53:31] aldric123: (56.Kf3) Well. Now we finally get the long awaited N+P vs R+P
+[17:54:17] nyanners: so how bad is it? :o in general the rook does win
+[17:54:17] nyanners: but this setup seems a bit unique
+[17:54:32] aldric123: (56...Kd5) It's just a difficult technical task I think
+[17:54:32] invinci7777: feels like it should
+[17:55:18] aldric123: (57.Kf4)  Rg6 or Re5 hmm!
+[17:55:33] invinci7777: re5
+[17:55:48] ysgwydd: (57.Kf4) Someone get Dvoretsky
+[17:56:03] warvold: (57.Kf4) Re5 Nf5 g5?
+[17:56:19] warvold: (57.Kf4) If Kxg5 Ke4 wins the knight
+[17:56:34] aldric123: (57.Kf4) yeah I think Nf5 isn't playable cuz that line
+[17:56:34] warvold: (57.Kf4) If Kg4, we suffer for some more time
+[18:00:07] aldric123: (58.Nh5) Rg1 is my first instinct
+[18:00:37] invinci7777: mine too
+[18:01:23] aldric123: (58...Rg1) If Ng3 just do Ke6
+[18:01:54] aldric123: (59.Ng3) Though g5+ is interestring
+[18:02:09] invinci7777: yeah
+[18:02:24] aldric123: (59.Ng3) g5+ Kg4 or Kf3 and probably Ke5 to either
+[18:03:55] aldric123: (60.e4+) Ke6 now
+[18:04:11] aldric123: (60...Ke6) Kd4 woulda made me cry
+[18:05:42] davidsifre: I think Mizrab has it in the bag.
+[18:08:14] aldric123: (61.Kf3) Ke5 is a nice square
+[18:08:30] invinci7777: ke5 now making progress
+[18:08:30] aldric123: (61.Kf3) though it's annoying that Kf2 Rxg3 doesn't work that simply
+[18:08:45] invinci7777: yeah thats draw
+[18:09:00] aldric123: (61.Kf3) yep, but something like Ke5 Rf2 Ra1 looks fine
+[18:09:31] invinci7777: definetly on radar to sac R for N into winning endgame
+[18:09:31] aldric123: (62.Kf2) yep, just not that immediate one
+[18:09:46] aldric123: (62.Kf2) or Rxe4 in a few moves potentially
+[18:10:32] invinci7777: have to be Ra1 here
+[18:10:32] aldric123: (62.Kf2) Like Ra1 Kf3 Ra3+ Kf2 Rb3 approaching zug?
+[18:11:33] warvold: (63.Kf3) Kf4 instead of Rb3 ?
+[18:11:33] aldric123: (63.Kf3) heh I was just about to type that
+[18:11:33] aldric123: (63.Kf3) It should win the e pawn directly
+[18:12:19] aldric123: (64.Kg4) Re3 here
+[18:12:49] aldric123: (64.Kg4) and then if Kh3 Kf4 and resign
+[18:12:49] invinci7777: yes
+[18:13:04] invinci7777: so has to be re3 kh4
+[18:13:20] aldric123: (64.Kg4) if that probably g5+
+[18:13:20] mizrab: not sure how to win and short on time
+[18:13:50] invinci7777: ah no
+[18:14:05] aldric123: (66.Kg4) yep time trouble
+[18:14:05] tactix47: = ggs, too bad about the clock
+[18:14:05] warvold: gg
+[18:14:21] aldric123: gg both
+[18:14:21] invinci7777: ggs
+[18:14:36] jd0972: Gg
+[18:15:21] davidsifre: Clock gets you the advantage and then took it away.
+[18:15:37] davidsifre: Takes
+[18:15:37] nyanners: tough one gg
+[18:15:52] ysgwydd: gg
+[18:16:07] nyanners: at least black didnt lose......... definitely not something that has happened to me or anything
+[18:16:22] aldric123: definitely not!
+[18:16:22] nyanners: thank goodness :o
+[18:16:38] nyanners: that would have been embarrassing
+[18:17:23] nyanners: especially when its the last game to finish and all the spectators are on it
+[18:17:54] tactix47: An excellent game
+[18:18:24] nyanners: strong fighting spirit from both :D
+[18:23:13] mizrab: thanks for watching everyone
