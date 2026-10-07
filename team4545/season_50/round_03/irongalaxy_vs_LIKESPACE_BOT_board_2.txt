@@ -1,0 +1,64 @@
+Lichess game chat log
+Game      : https://lichess.org/kbONRrr9
+White     : irongalaxy
+Black     : likespace_bot
+Time      : 45+45
+Captured  : 2026-10-07 16:06:55 UTC
+Game ended : 2026-10-07 14:46:46 UTC
+Messages  : 54
+────────────────────────────────────────────────────────────
+
+[13:17:54] diecast_illusion: Go Spacebot :D
+[13:23:59] perspikace: go spacebot !
+[13:51:40] irongalaxy: (15.Bxf6) Nxa1 Nd5
+[13:54:58] irongalaxy: (16.Nd5) I may have overlooked Qxc2 here
+[13:57:45] irongalaxy: (18.Qe3) Although am I just winning here? gxf6 Qh6
+[14:09:42] iwishiweredecent: Is there a perpetual here?
+[14:09:57] guitarspider: (21.Ng5) I don't see it
+[14:10:58] guitarspider: (21...Bxf5) What was your perpetual ideaß
+[14:10:58] guitarspider: (21...Bxf5) ?
+[14:12:29] iwishiweredecent: I was thinking if fg5, Qxg5+, Kf8, Qd8+
+[14:13:00] guitarspider: (23.Qxg5+) ah
+[14:13:15] guitarspider: (23.Qxg5+) but 21...fxg5 22.f6 and that's mate?
+[14:14:01] iwishiweredecent: Yeah this is starting to look better and better for white.. black's pieces are just not in the game at all
+[14:14:16] iwishiweredecent: ahhhh yeah maybe the rook slides over to save the day
+[14:15:02] guitarspider: (23...Kh8) I'm a little surprised there doesn't seem to be a mate
+[14:15:02] guitarspider: (23...Kh8) now we might get perpetual with Qf6-g5
+[14:15:17] iwishiweredecent: lol yeah I think black has no choice but to offer this perpetual
+[14:15:32] guitarspider: (23...Kh8) You can't lift the rook as white
+[14:15:32] iwishiweredecent: and white is down two pawns...
+[14:16:33] guitarspider: (24...Kg8) maybe h3 or h4 and then Rf3-g3 works
+[14:16:48] iwishiweredecent: yeah to cover the back rank..
+[14:17:34] iwishiweredecent: maybe repeat once to get the increment
+[14:19:05] iwishiweredecent: h4 now?
+[14:19:51] guitarspider: (26.h3) h3 probably better because there could be some checks that grab the h-pawn later on
+[14:22:54] iwishiweredecent: I think I take the draw as white now...
+[14:23:24] iwishiweredecent: but I wouldn't be surprised if white was in a winning position
+[14:23:55] guitarspider: (29.Rf1) we're not playing, so we're not calculating, but white will have. Rf1 certainly looks dangerous to me.
+[14:24:10] guitarspider: (29.Rf1) The perpetual is still there and black has to prove they're not going to get mated.
+[14:27:13] iwishiweredecent: good point.. I am also a bit of a coward when my attack doesn't go perfectly to plan haha
+[14:36:52] guitarspider: (30...Kh8) isn't Rf3 winning?
+[14:39:24] guitarspider: (32.Qh6) with the queen on f6 Rc1+ and Qg1+ is pretty annoying, king has to go to g3 and it disrupts everything
+[14:41:56] iwishiweredecent: I think after Rf1 there might be Qa1 or even e4 to hit the rook and let the queen defend the g7 square...
+[14:41:56] iwishiweredecent: Rf3* I mean
+[14:41:56] guitarspider: (32.Qh6) aaah
+[14:42:12] guitarspider: (32.Qh6) I missed Qa1+ and e4
+[14:42:27] guitarspider: (32.Qh6) I mean Qa1+ I saw but in combination with e3
+[14:42:42] iwishiweredecent: but I could be totally wrong.. maybe after the checks and the king gets flushed out it is sitll fine for white
+[14:43:12] iwishiweredecent: ahhh yeah
+[14:43:12] guitarspider: (32.Qh6) kinda feels like White missed a win somewhere then
+[14:43:28] guitarspider: (32...Kh8) guess we'll get the draw here
+[14:43:58] iwishiweredecent: yeah I am excited to see what the engine says, because this was an explosive game with all sorts of sacrifices and madness
+[14:45:14] guitarspider: (32...Kh8) if Rf3 doesn't work it's very difficult to see how white could continue
+[14:46:46] iwishiweredecent: yeah it feels like if Rf3 is wrong then it is completely losing ya know? this whole position feels like it is on a knife's edge
+[14:47:01] guitarspider: gg
+[14:47:01] iwishiweredecent: Great Game!!
+[14:47:01] likespace_bot: what a game)
+[14:47:31] iwishiweredecent: "Are you not entertained?!!!!"
+[14:47:31] irongalaxy: Let's see if / where I missed a win
+[14:47:31] likespace_bot: It was great
+[14:47:31] irongalaxy: Missed Bxf5 as a defense
+[14:48:02] likespace_bot: I was really happy to see this
+[14:48:32] likespace_bot: I completely missed Bxf6
+[14:50:03] guitarspider: Bxf5 Qxf6 is not easy to appreciate
+[14:55:38] likespace_bot: But ...Qd2. I saw this, but somewhat underrated
