@@ -1,0 +1,63 @@
+Lichess game chat log
+Game      : https://lichess.org/fKGqpH3b
+White     : far1108
+Black     : hagia_sophia
+Time      : 45+45
+Captured  : 2026-10-07 21:30:14 UTC
+Game ended : 2026-10-07 20:10:06 UTC
+Messages  : 53
+────────────────────────────────────────────────────────────
+
+[17:33:56] inter-temporal: (6.h3) KID 6.h3. hm
+[17:34:42] inter-temporal: (6.h3) still considering g4 even after Nf3?
+[17:38:45] inter-temporal: (7...dxe5) seems like h3 was not useful since ...e5
+[17:39:01] inter-temporal: (8.Bg5) especially after opening the center
+[17:39:16] inter-temporal: (8.Bg5) black can get a comfortable endgame, iirc
+[17:41:02] inter-temporal: (8.Bg5) ...Qxd1, Rxd1 Re8,
+[17:43:04] inter-temporal: (8...Qe8) maybe now 9.Nd5 Nxd5, cxd5
+[17:43:20] inter-temporal: (8...Qe8) somehow seems better for white. idk
+[17:45:52] inter-temporal: (9.Qd2) but now ...c6 looks good for black.
+[17:50:11] shurbz: Far Far Far!
+[17:51:42] inter-temporal: (10.Bh6) white might be content with a draw
+[17:56:01] inter-temporal: (11...Nc5) perhaps white can justify trading dsbs to reduce the risk that Black exploits d4.
+[17:56:16] bxvrc2lh: No draw
+[17:56:16] bxvrc2lh: Only easy win for white
+[17:56:31] bxvrc2lh: Go far
+[17:56:31] inter-temporal: (11...Nc5) there he is! here to refute all my coffee-house tactics. lol
+[17:57:17] inter-temporal: (12.Bc2) white seems unambitious atm. maybe it's to lull black into a peaceful state. then BAM
+[18:19:54] shurbz: Okay chat what is up with g3
+[18:21:11] shurbz: I guess to prevent Nf4
+[18:21:26] invinci7777: yes
+[18:23:58] invinci7777: nb3 looks good
+[18:23:58] invinci7777: nb6
+[18:25:00] invinci7777: nb6 qc5 nd7 draw
+[18:26:31] invinci7777: oh but e5 is hanging
+[18:36:41] inter-temporal: interesting pawn trade?
+[18:37:26] invinci7777: or just forgot its hanging like me
+[18:39:13] invinci7777: rd8 screaming to be played
+[18:45:49] inter-temporal: white wants e5
+[18:46:19] inter-temporal: then black seems to be uncomfortable
+[18:50:53] invinci7777: yeah black seems worse now
+[18:58:30] inter-temporal: might want to bring Nh5 back
+[18:59:16] inter-temporal: but therez threats to deal with first
+[18:59:47] invinci7777: nf6 deals with it
+[19:00:48] shurbz: Na4-> nb6
+[19:07:54] inter-temporal: white keeps finding good moves
+[19:11:12] inter-temporal: 28.Re3 is not an easy move
+[19:14:00] inter-temporal: interesting endgame
+[19:45:44] shurbz: Bnvr now
+[19:46:30] shurbz: I think that is better for white but it gets very tricky
+[19:47:31] shurbz: Clock is scary
+[19:49:48] shurbz: I like rc4 for black
+[19:49:48] shurbz: (Move 36)
+[19:58:56] inter-temporal: (42.Re7+) tough fight
+[20:02:44] inter-temporal: (44...cxb5) where did it turn against white
+[20:04:46] inter-temporal: (47...a4) somewhere in the mid 30s? maybe
+[20:06:17] inter-temporal: (48.Kd3) maybe 31.Bb3 needed a better move
+[20:08:04] inter-temporal: (49.gxf4) somewhere after 28...Nd7, it seemed to turn
+[20:09:35] inter-temporal: gg
+[20:10:36] guitarspider: gg
+[20:11:37] inter-temporal: starts at 26 where SF wanted cxd6
+[20:13:39] inter-temporal: then at 37 when Ke3 or maybe Nb6 are holding
+[20:15:25] inter-temporal: 37.Ke3 forces Rd5 and then 38.Bb3 is 0.0
+[20:16:11] inter-temporal: probably more about time pressure than anything else. good fight
