@@ -1,0 +1,174 @@
+Lichess game chat log
+Game      : https://lichess.org/Rf5gOW7z
+White     : jd0972
+Black     : fireball100
+Time      : 45+45
+Captured  : 2026-10-07 22:59:01 UTC
+Game ended : 2026-10-07 21:38:52 UTC
+Messages  : 164
+────────────────────────────────────────────────────────────
+
+[18:58:42] mizrab: Go Fireball
+[19:02:30] fireball100: Helllo mizrab!
+[19:03:46] mizrab: Hi Fireball (for when you're reading the chat later :-))
+[19:18:29] mizrab: Hi WFM nyanners, hope you're well.  I've noticed you in the chat for a couple of my games.  I always value your analysis
+[19:20:16] warvold: (13.O-O) Go fireball!
+[19:20:16] mizrab: Hi Warvold
+[19:20:16] nyanners: aww thats very kind of you :D
+[19:20:31] warvold: (13.O-O) Hey there :)
+[19:21:17] warvold: (13.O-O) Alright, first, let's support the good side
+[19:22:03] warvold: (13.O-O) Nxd4, or am I tired?
+[19:22:18] warvold: (13...Bxf3) Works too
+[19:22:33] mizrab: He's doing fine.  not sure about Bxf3 though
+[19:23:04] warvold: (13...Bxf3) Looks good, winning the pawn
+[19:23:34] nyanners: Bxf3 seems more accurate for the pawngrab but black's position is a bit loosey
+[19:23:34] nyanners: like Nxd4 first white has Qa4+ Ne5
+[19:24:20] warvold: (14...Nxd4) Very true
+[19:26:52] fireball100: nice to have a passed pawn. Likely should castle soon...
+[19:41:51] pratikbora: Lets Go JD!!
+[19:43:07] warvold: (18.f5) I wonder if Ng4 is useful
+[19:43:53] warvold: (18.f5) Ng4 fxe Qh2+ Kf1 Qh1+ Ke2 Qxf2 Rf1 fxe
+[19:44:08] warvold: (18.f5) Of Ng4 g3 Ne5
+[19:44:08] warvold: (18.f5) Or*
+[19:47:56] davidsifre: Good afternoon fellas. Go Fireball. Good show.
+[19:48:12] mizrab: Hi David
+[19:48:12] davidsifre: Salutations.
+[19:56:19] davidsifre: Up a pawn. Now time to trade everything off the board and promote the leftover.
+[19:57:35] warvold: (19...fxe6) I'm not a big fan of black position, but eh, 1 pawn ahead
+[19:57:50] davidsifre: I leave it to Brian to work out the details.
+[19:58:05] warvold: (20.Na4) Yep, that was what I feared
+[19:58:51] davidsifre: Incoming rook queen fork.
+[19:59:06] davidsifre: Best way to deal with that is to take the knight. Or move one of the pieces.
+[19:59:52] davidsifre: Nd4 counter threats the fork
+[20:00:22] davidsifre: And he can’t recapture. Where’s Brian can.
+[20:00:38] davidsifre: Well not before he gets the rook. But still.
+[20:04:26] warvold: (21.Nc5) I think e5 is important here
+[20:05:12] warvold: (21.Nc5) Re8 it's probably not good because of Qc2 threatening Bg6
+[20:07:14] davidsifre: That battery attacks nothing.
+[20:07:14] warvold: (21.Nc5) Ah, b7 is attacked too
+[20:07:44] davidsifre: b5
+[20:08:30] davidsifre: Or na5
+[20:09:46] davidsifre: I like na5 to protect that b pawn.
+[20:12:49] warvold: (21.Nc5) Na5 Qb6?
+[20:15:36] davidsifre: Qb6 doesn’t do much though.
+[20:16:37] warvold: (21.Nc5) Nd8 looks playable
+[20:16:53] davidsifre: Give up the b pawn?
+[20:17:08] warvold: (21.Nc5) Nope, saving it
+[20:17:08] warvold: (21.Nc5) the b and the e
+[20:17:38] davidsifre: Nd8 then Qxb2
+[20:17:53] davidsifre: Oh wait. Sorry d8
+[20:43:16] nyanners: well that escalated
+[20:43:32] nyanners: seems kinda losing for black now
+[20:46:50] nyanners: maybe even very losing
+[20:47:20] nyanners: white should not trade, of course
+[20:49:07] mizrab: Be6 is scary
+[20:49:52] mizrab: of course, NxR
+[20:49:52] nyanners: yea i think you can bluff call that
+[20:50:23] nyanners: but okay white moves the rook now
+[20:50:23] nyanners: and its no longer bluffing
+[20:58:15] nyanners: 31 rfe7 may at least win a pawn
+[21:15:46] lordziax: ah, unfortunate, Rf7+ and it was immediately over
+[21:16:01] pratikbora: Yeah
+[21:16:16] davidsifre: Never underestimate fireball.
+[21:16:31] davidsifre: My village made that mistake once. Never again.
+[21:19:34] nyanners: white feeling the heat but still way better
+[21:20:05] mizrab: very little time for either player
+[21:20:20] davidsifre: Doesn’t matter how much better you are when the other person performs better under pressure.
+[21:20:35] warvold: (37...Nf5) Alright, I'm back
+[21:20:35] warvold: (38.Rxf6) In see we escaped the domming Rf7+
+[21:21:06] warvold: (39.g3) Not sure if it was a blunder or just wanting to play a bit longer with the food
+[21:21:06] warvold: (39.g3) dooming*
+[21:21:36] warvold: (39...a5) As long as there is a knight, there is a fight
+[21:21:51] davidsifre: I have no skin in this game.  But if I did I bet on fireball100. Suggest you so the same. I am rarely wrong and when I am I don’t admit to i
+[21:22:06] davidsifre: You can fill in the letters to make that make sense
+[21:22:22] warvold: (40...Ke5) I 100% trust David judgement
+[21:23:07] nyanners: knights are very cool
+[21:23:23] warvold: (41.Bc6) True that
+[21:23:38] nyanners: curious how the races evaluate
+[21:23:38] nyanners: may be a big issue that black is a pawn down
+[21:23:53] nyanners: like, you could probably make a run for the a-pawn
+[21:24:08] warvold: (42.Bb5) Not that easy to convert
+[21:24:24] nyanners: this is a threat :o
+[21:24:39] nyanners: so black gained a tempo
+[21:25:09] nyanners: and then you can play ne2-nc3 and take a
+[21:25:09] nyanners: sucks for someone?
+[21:25:09] warvold: (42...Nd4) Be8 Ne3+ Kg2 Nc3
+[21:25:24] warvold: (42...Nd4) And maybe Ke7-Kd6
+[21:25:24] nyanners: like, to take a, you need to commit the king. it might be too much
+[21:25:40] warvold: (42...Nd4) No, but you can get repetition
+[21:25:55] nyanners: that is a fair option
+[21:25:55] warvold: (42...Nd4) Chasing the bishop
+[21:26:10] warvold: (43.Kf1) What??
+[21:26:10] warvold: (43.Kf1) That's winning
+[21:26:10] warvold: (43.Kf1) 100%
+[21:26:56] warvold: (46.Ke2) Now, to the kingside
+[21:27:11] warvold: (46...a4) No, leave that pawn
+[21:27:11] nyanners: had to respect the threat
+[21:27:41] warvold: (48.Kc3) You want to eat the pawns
+[21:27:57] davidsifre: Fireball’s rating is exactly 1700 because he chose which games to win.
+[21:27:57] davidsifre: He’s THAT good.
+[21:27:57] warvold: (48.Kc3) Dang
+[21:28:12] nyanners: me manipulating my days to get a vampire rating graph
+[21:28:27] warvold: (48...Kc5) How do I unsubscribe to fireball's fun facts?
+[21:28:42] warvold: (48...Kc5) I checked, that's true xD
+[21:28:42] davidsifre: I don’t even like the guy. Sadly the facts from out of my mouth like pearls of wisdom.
+[21:28:58] warvold: (48...Kc5) Only thing I can draw is a cliff
+[21:29:28] davidsifre: Fireball fireball he’s our man. If he can’t do it no one can!
+[21:29:59] davidsifre: Some would say it’s because he is the only one playing for black.
+[21:30:14] davidsifre: Good to have an active king in the endgame.
+[21:30:44] nyanners: yea sharing is highly illegal
+[21:30:44] warvold: (53...Kxf2) Doing his run like me, once every 2 months
+[21:31:00] nyanners: any bluffs available? dont think so
+[21:31:30] davidsifre: It’s like the white king is stuck in molasses
+[21:31:30] nyanners: id roll with g4-g5
+[21:31:30] nyanners: but it does not help
+[21:31:45] nyanners: like just the tiniest bit
+[21:32:00] nyanners: becomes easier to test black's endgame technique
+[21:32:16] nyanners: but black would have to mess it up really bad
+[21:32:46] warvold: (57.Kg3) Don't tempt the devil
+[21:32:46] davidsifre: His endgame technique is nearly flawless.
+[21:32:46] warvold: (58.Kh3) And by the devil, I'm talking about fireball
+[21:33:01] warvold: (58.Kh3) Yep, nearly
+[21:33:01] warvold: (59.Kg3) I'm pretty sure he won't lose the game
+[21:33:17] nyanners: the temptation to blunder is one i always try to present
+[21:33:17] nyanners: like, you cant even blunder this
+[21:33:32] nyanners: its almost not possible
+[21:33:47] davidsifre: His team captain punishes blunders severely.
+[21:33:47] davidsifre: So they are to be avoided.
+[21:33:47] warvold: (62.Kh2) Both of his captains
+[21:34:17] warvold: (64.Kh2) Double the captain, double the punition
+[21:34:17] warvold: (64.Kh2) Hmm
+[21:34:33] warvold: (64.Kh2) Do you see it?
+[21:34:33] nyanners: you have two captains????? carzy
+[21:34:33] davidsifre: So weird having two captains. Why not make everybody a captain.
+[21:34:33] nyanners: thats what id think
+[21:34:48] warvold: (64.Kh2) Right, but I'm only the ceremonial one
+[21:34:48] mizrab: spare a thought for the rest of us on the team
+[21:35:03] warvold: (64...h4) They don't let us use David for the parades
+[21:35:03] davidsifre: It’s for plausible deniability. Like when the tires are slashed one captain can be the alibi for the other.
+[21:35:18] warvold: (65.Kh1) It was you?!!
+[21:35:18] nyanners: we have investigated ourselves and found no issue
+[21:35:34] warvold: (65.Kh1) That does not work if it is my tires David
+[21:35:49] davidsifre: Right. Let’s keep our own cars out of it.
+[21:36:35] warvold: (66...h3) Today, we see that the hedgehog wins against the panda
+[21:36:50] nyanners: now black has to give h
+[21:36:50] davidsifre: At some point the pressure is too much
+[21:36:50] nyanners: which may have been on purpose
+[21:36:50] nyanners: i would
+[21:37:05] warvold: (67.Kh1) Tomorrow, there will be a hamster against a wolf
+[21:37:05] lordziax: and now h2 Brilliant
+[21:37:05] davidsifre: G check h check is good
+[21:37:20] nyanners: the good thing is that this is a premovable yes
+[21:37:20] davidsifre: Promote to rook.
+[21:37:35] davidsifre: Because you can.
+[21:37:35] nyanners: premove h2 (here it wouldnt work so okay) then kf2 g1 qg6 qh5#
+[21:38:06] davidsifre: Gg
+[21:38:21] nyanners: interestingly white has only one legal move at every point
+[21:38:21] gpetris: Good game!
+[21:38:21] nyanners: seems like a resign misclick
+[21:38:36] davidsifre: Seven virgins await the white king if he sacrifices himself.
+[21:38:52] warvold: gg
+[21:38:52] nyanners: gg
+[21:38:52] mizrab: gg
+[21:39:22] pratikbora: Gg
+[21:59:55] jd0972: thanks for waching guys!
