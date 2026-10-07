@@ -1,0 +1,83 @@
+Lichess game chat log
+Game      : https://lichess.org/8KJDHZAX
+White     : waldoistwo
+Black     : gabreke
+Time      : 45+45
+Captured  : 2026-10-07 17:28:13 UTC
+Game ended : 2026-10-07 16:08:05 UTC
+Messages  : 73
+────────────────────────────────────────────────────────────
+
+[16:04:47] nyanners: 32 rf8 for content
+[16:07:04] pawneater2020: looks like an easy win now
+[16:10:53] waldoistwo: I am really curious about the evaluation, it seems like with all those tactics there was surely something someone of us missed
+[16:11:23] gabreke: I think so
+[16:12:54] waldoistwo: I think after 10...Ne4 I was really tempted to take it and give you double pawns but I was also afraid of it haha
+[16:13:09] waldoistwo: but i was really surprised you waited so long in developing your b-knight
+[16:14:25] gabreke: if you took after 10 ...Ne4 I thought about closing the position with dxe4 and then f5
+[16:15:11] gabreke: because of the treat of the queen on the b1-h7 diagnonal
+[16:15:57] waldoistwo: yes that was what I calculated as well and thought this woud have been fine for me, as the knight is enjoying a great outpost on e5
+[16:16:27] gabreke: and for the b-knight I admit that it was too much calculation for me to analyze the impact on the queen (d-column) or bishop h1-a8 diagonal
+[16:16:27] gabreke: so I waited Qc7
+[16:17:13] gabreke: i didnt see the outpost
+[16:17:43] waldoistwo: i was afraid you would play f6 first and then I couldnt see where the e5 knight would go. I think I could have played Bxe6 there maybe
+[16:19:45] waldoistwo: yeah I think not developing the knight gave me quite comfortable development with Qc7, because I never needed to worry about a knight on b4
+[16:20:46] gabreke: yeah
+[16:21:01] gabreke: and I think I blundered with 16 ...Qb7, Qd8 was better
+[16:22:32] waldoistwo: hm I dont know, it was tough to find dxc5 and calculate all the possible lines
+[16:22:32] waldoistwo: I thought it was nice counterplay
+[16:23:03] waldoistwo: 17. Nh4 or 17. Ne1 were also possible I guess, but I didnt like to fianchetto my knight
+[16:23:33] waldoistwo: I just hoped I calculated dxc5 correctly, as I thought there were some nice lines where I get a rook on your seventh rank in the end
+[16:24:49] waldoistwo: after 17...Nxc5 I thought for two minutes about an exchange sac on d5 but I didnt see a convincing continuation after Qxd5
+[16:25:04] nyanners: in general white should bluff call with d5
+[16:25:19] nyanners: sometimes its a small thing, sometimes not. i think this one is big
+[16:25:19] gabreke: I think 16 ...Qb7 was not so good because after dxc5 I had to take with the knight (treat of c6) and the you destroied my kingside pawn form
+[16:25:35] gabreke: then*
+[16:25:50] nyanners: 8 d5 d6 9 e4 and black is like 3-4 tempi behind normal benoni stuff, the Bb7 is severely misplaced and no b5 in sight
+[16:26:35] nyanners: as played dont think anyone missed anything obvious
+[16:27:06] gabreke: you mean in the opening phase?
+[16:27:21] nyanners: in the middlegame
+[16:27:21] waldoistwo: I think you could have also taken with the pawn no?
+[16:28:22] nyanners: yeah and black gains time because f3 is hanging
+[16:28:52] gabreke: oh, maybe. I discarded because of the resulting isolated pawn, but the doubled c pawns was worse x.x
+[16:29:08] waldoistwo: yes 8. d5 looks great. I think it crossed my mind but I somehow saw ghosts and thought it was attacked once more than defended
+[16:29:23] gabreke: I mean 17 ...bxc5
+[16:30:08] waldoistwo: I was actually quite surprised about 17 ...bxc5 I was expecting 17 ... Bxf4 18. Bxf3 Qxf3
+[16:30:24] gabreke: what about 23 ...Qe7 instead of ...e5?
+[16:30:24] gabreke: the knight on d5 turned out fatal
+[16:31:40] waldoistwo: and then I wasnt sure whether to put my bishop on d4 or e7. I couldnt see a big advantage there for me
+[16:31:55] nyanners: that part is very concrete
+[16:31:55] gabreke: "I was actually quite surprised about 17 ...bxc5 I was expecting 17 ... Bxf4 18. Bxf3 Qxf3" - you had c6 after 17 ...Bxf3
+[16:32:10] gabreke: I was afraid of it
+[16:32:10] nyanners: like 23..Qe7 Nh5 you need e5 because Rg6 instantly loses to b4
+[16:32:41] nyanners: so well, is it good to have provoked Nh5? the answer is not obvious
+[16:33:11] gabreke: why Rg6 loose to b4 in that line?
+[16:33:11] nyanners: queen no longer defends the rook on c8
+[16:34:12] gabreke: oh yes, i was analyzing g4 --'
+[16:34:27] waldoistwo: I was really unsure about Nd5, thought you could have just played any rook to d8 and you were fine
+[16:34:42] nyanners: giving the pawn is ugly but trying to defend it is uglier
+[16:34:57] gabreke: hm
+[16:35:13] waldoistwo: but Nh5 instead looked a tad to passive for me
+[16:35:13] gabreke: I was really afraid of the opne diagnonal
+[16:35:58] gabreke: Nxf6 treats Qxe5
+[16:35:58] nyanners: i think white's pressure is difficult to deal with. the diagonal is scary and black needs some sort of concrete active defending
+[16:36:14] nyanners: like, Nxf6 Qf3 hitting d1? and then N forward? very move by move
+[16:36:14] gabreke: what do you mean by concrete? is it forcing?
+[16:36:29] nyanners: on the other hand, if the passive defense isnt going to work, might as well go out with a bang
+[16:38:00] gabreke: " like, Nxf6 Qf3 hitting d1? and then N forward? very move by move" - wow, godd. I didnt see it
+[16:38:15] gabreke: good*
+[16:38:30] nyanners: thats a difficult line
+[16:39:46] gabreke: I think that after 24 ..Rg6 I was already lost
+[16:40:47] waldoistwo: yea that was the losing mistake I guess
+[16:41:18] waldoistwo: yea I think so too
+[16:41:18] nyanners: probably
+[16:42:19] waldoistwo: I was expecting Na4 Qb3 Rxc8 Rxc8 b5 there and didnt calculate further in the game
+[16:43:19] waldoistwo: but your knight is probably too much out of the game, the rook is too passive and I have Rc7 there
+[16:45:36] nyanners: i might blame 21..Kh8 22..Rg8 i guess
+[16:45:52] nyanners: too slow and Rg6 didnt even work
+[16:46:07] gabreke: thank you for the game waldoistwo, it was fun. Ill exit here
+[16:46:37] waldoistwo: thank you very much, also for the nice post mortem
+[16:46:53] waldoistwo: and thank you nyanners for your advice!
+[16:46:53] nyanners: gg :o
+[16:47:08] waldoistwo: have a nice day and all the best in the rest of your games
+[16:49:25] gabreke: thank you nyanners!
