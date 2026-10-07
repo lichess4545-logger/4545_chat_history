@@ -1,0 +1,100 @@
+Lichess game chat log
+Game      : https://lichess.org/VlcGFLAE
+White     : seniorjriii
+Black     : angborxley
+Time      : 45+45
+Captured  : 2026-10-07 19:48:42 UTC
+Game ended : 2026-10-07 18:28:33 UTC
+Messages  : 90
+────────────────────────────────────────────────────────────
+
+[16:35:49] karasso: go angborxley
+[17:01:43] duty5521: isolated pawn?
+[17:04:15] angborxley: i've spent a lot of time to not be entirely comfortable with this position - f7 seems weak, worried about Ng5 - i think my queen is ok
+[17:04:30] angborxley: for now...
+[17:06:32] duty5521: Kinda difficult position
+[17:24:03] karasso: (14...) exd5 Bxd5 Qc5 looks uncomfortable for white.
+[17:29:38] karasso: Also Nxd5 Rxd5 f6 Qf3 Be6
+[17:35:29] duty5521: Be4 only move?
+[17:35:44] duty5521: bruh
+[17:35:44] karasso: this looks also good for black
+[17:37:00] duty5521: Definitely
+[17:37:46] karasso: but Ng4 probably not the best black could have done
+[17:39:02] karasso: (16) Qe6 here?
+[17:40:03] karasso: or Qg6
+[17:41:04] duty5521: Ah maybe
+[17:47:25] seniorjriii: I was sure I was lost before due to Nxf2, but now I feel like maybe Nxf2, Bxf5+, Kb8, Qxg4 and maybe I'm okay?
+[17:48:41] seniorjriii: I'm having a blunderful game in either case so far
+[17:50:12] karasso: i am getting worried about blacks time
+[17:51:28] angborxley: time trouble... at least i didn't fall for taking a bishop
+[17:52:14] duty5521: uuuh
+[17:52:14] duty5521: wat
+[17:52:29] karasso: that does not work
+[17:52:29] duty5521: Isn't White totally winning here
+[17:53:15] wave2679: I don’t see it
+[17:53:15] pineapplechiffoncake: I bet blacked missed that Bxf5 is check, and thought they'd get the dsb
+[17:53:15] duty5521: Black doesn't keep the extra pawn and 2 bishops seem extremely strong here
+[17:53:45] rpcx: qxq ?
+[17:54:01] wave2679: Maybe I’m miscalculating but I see QxQ NxQ bxf5+ but you still have a fork and a hanging bishop
+[17:54:01] karasso: no way he missed that Bxf5 is check, otherwise he would hve gone Rxe5
+[17:54:16] duty5521: Qxf2 Nxf2 Bxf5+ Kb8 Bxg7 Rhg8 Bc3 Nxh1 Rxh1 Rxg2 Bxh7
+[17:54:46] duty5521: totally winning is a stretch but White is 100% better
+[17:55:01] noobie1975: Why not take the bishop with the rook
+[17:55:01] noobie1975: Seems straightforward
+[17:55:32] karasso: Rxe5 Bxf5+ Rxf5 Qxg4 g6 was equal
+[17:55:47] duty5521: What bishop with what rook
+[17:58:04] duty5521: Oh Rxe5
+[17:58:04] duty5521: I'm slow
+[17:58:19] rpcx: bxc7 looks interesting
+[17:59:05] duty5521: It's an option but less interesting than taking g7 probably
+[17:59:36] duty5521: Oh Rf1
+[17:59:36] noobie1975: White can’t take Bxf5+ because Queen hanging
+[17:59:51] angborxley: maybe i'm ok - gotta make sure i don't get back ranked at some point
+[18:00:06] karasso: Bxc7+ Kxc7 Rd7+ Kb8 Rf1 g6
+[18:00:21] duty5521: yeah
+[18:00:21] duty5521: I'm calculating that
+[18:00:52] duty5521: Kind of a hassle but White should be pretty dominant on the 7th rank?
+[18:00:52] karasso: Rxf2 gxf5 Rxf5 and f7 also falls
+[18:01:37] duty5521: yep
+[18:01:53] karasso: so Bxc7+ seems good, but also not necessary. Bxg7 (as played) should also do it
+[18:09:29] rpcx: ?
+[18:09:45] angborxley: misclick maybe?
+[18:10:46] seniorjriii: Oof bad blunder by me
+[18:11:01] karasso: a game full of plot twist...
+[18:13:33] duty5521: I mean a bishop isn't that bad but Black will trade one way or another
+[18:14:34] karasso: why did black not take on h2?
+[18:17:37] duty5521: It seems Black is making this more complicated for themselves than it needs to be
+[18:18:08] karasso: yeah, taking on c2 was defintly easier
+[18:18:23] angborxley: gotta get my rook out of there
+[18:18:38] karasso: ??
+[18:18:38] angborxley: :(
+[18:19:39] angborxley: oofda oofda
+[18:21:11] rpcx: ????????? I left for 5 mintues
+[18:22:12] duty5521: hey what happened here
+[18:22:27] duty5521: ouch
+[18:23:43] duty5521: b3 is weird?
+[18:23:59] rpcx: probably going to draw now
+[18:24:14] karasso: position is still winning for white
+[18:24:14] duty5521: Nah I think a4 is still winning
+[18:24:29] duty5521: a4 Bc6
+[18:25:15] duty5521: Ba6 Bb5 whatever
+[18:25:15] duty5521: uh
+[18:25:15] karasso: bc6 first was better i guess
+[18:25:15] angborxley: i think this is a draw
+[18:25:30] duty5521: yeah now it is
+[18:25:30] duty5521: nope not like that
+[18:25:30] rpcx: tragic
+[18:25:30] duty5521: b5 drew
+[18:26:01] duty5521: Bb5 Kxf4 bring the king take the pawn somehow and queen
+[18:26:31] angborxley: well we'll see - probably not guaranteed draw
+[18:26:46] duty5521: correct
+[18:27:02] rpcx: correct bishop + corner
+[18:27:17] duty5521: yes
+[18:27:17] duty5521: bring the king bring the king bring the king oh hey here's a free pawn
+[18:27:32] duty5521: Ka5 Kc6
+[18:27:47] duty5521: then Kxb6 a5 a6 a7 a8 unstoppable
+[18:28:03] angborxley: i'm cooked
+[18:28:33] pineapplechiffoncake: Gg
+[18:28:48] rpcx: ggs
+[18:29:49] duty5521: gg
+[18:30:35] karasso: gg
