@@ -1,0 +1,226 @@
+Lichess game chat log
+Game      : https://lichess.org/ijmjtTL8
+White     : llawlietnea
+Black     : flipiflapi
+Time      : 45+45
+Captured  : 2026-10-07 14:52:39 UTC
+Game ended : 2026-10-07 13:32:29 UTC
+Messages  : 216
+────────────────────────────────────────────────────────────
+
+[12:01:50] tactix47: Go flipi!
+[12:05:23] val1313: (7...O-O) go flip
+[12:05:38] berndwind: Go flippedyflap
+[12:06:24] nyanners: it really flips the flaps
+[12:06:39] berndwind: That sounds vaguely wrong
+[12:06:54] nyanners: just like my chess
+[12:07:10] berndwind: Getting the double action, both here in chat and seeing him on stream. Fun
+[12:07:40] berndwind: Haha Nyanners if as a titled player your chess is vaguely wrong, wait til you look at my games!
+[12:08:11] nyanners: its vague enough for most people to not notice
+[12:08:41] berndwind: That’s the best kind of vague. Vaguely vague and subtly wrong
+[12:08:56] berndwind: Very quickly got a Pilsbury knight situation
+[12:08:56] berndwind: I always like this stuff for white
+[12:09:12] nyanners: ne4 is really important (at some point)
+[12:09:42] berndwind: Yeah make sense. c5 and Ne4 are on my wish list
+[12:09:42] nyanners: maybe now before Qf3
+[12:10:12] berndwind: He sees it on stream
+[12:10:28] berndwind: Yeah Qf3 not so fun for black
+[12:11:44] kayrosas: usually nice to delay d5 a bit more
+[12:12:15] berndwind: Yeah I’d have prioritized c5 and left my d pawn alone
+[12:12:30] berndwind: D6 would be nice here
+[12:13:00] nyanners: now black has to deal with the woodpush
+[12:13:31] berndwind: There comes Qf6
+[12:15:02] ysgwydd: (10.Qf3) I think white is an attacking player
+[12:16:03] nyanners: black's getting mated. the vibes are wrong
+[12:16:03] berndwind: Yeah this looks pretty scary tbh
+[12:16:18] nyanners: i mean this isnt objectively anything but
+[12:16:18] nyanners: you need to know some methods
+[12:16:18] nyanners: (i dont)
+[12:16:49] berndwind: Flip did say on stream white is like 2200 rapid so they’re not slouch
+[12:17:04] berndwind: *no slouch
+[12:17:19] nyanners: like if you dont know (like me) you really gotta play that Ne4 and here youd have f5
+[12:17:34] glennjamesmax: I prefer the other (traditional) Colle but not sure what the attack patterns are here or why this is a mating attack
+[12:17:50] nyanners: white is going for g4 g5 and hope black selfdestructs
+[12:17:50] nyanners: which often happens
+[12:17:50] ysgwydd: (10.Qf3) Colle is nice and calm until it isn't
+[12:18:05] glennjamesmax: Ah ok g4-g5Qh5 etc
+[12:18:20] nyanners: like the "logical" thought process ends up leading to f6 and then theres a sac on h7 and death
+[12:18:35] glennjamesmax: Exactly, it's basically a templated attack that works very well vs some typical QGD Slav development schemes
+[12:18:35] pavonine: Rf3 and Rh3 was fun
+[12:18:35] kayrosas: 8...Ba6 maybe was something
+[12:19:21] nyanners: i like this move order for b given we got here
+[12:19:36] nyanners: but you want Qc7 first probably
+[12:19:36] ysgwydd: (11.Kh1) 8...c5 9.f4 Ba6 is a line I believe
+[12:20:07] nyanners: yeah black is kinda doing everything and doing nothing
+[12:20:37] kayrosas: smth i also found enjoyable vs colle/stonewall is double fianchetto
+[12:20:52] nyanners: i mean, maybe you just go Ba6
+[12:20:52] nyanners: Nc6 and everything is traded and you dont die
+[12:21:38] nyanners: theres even some argument for better minor piece but i dont believe it
+[12:21:53] pavonine: as white do you now eventually put your bishop on a3?
+[12:21:53] berndwind: I like Ba6. The lsb is hugely important for white’s attack
+[12:22:09] nyanners: Ba3 sounds likely yea
+[12:22:39] nyanners: i feel white was a bit too casual about this
+[12:22:54] nyanners: id want 11 Rf2
+[12:23:25] pavonine: Bxa6 Rxa6 Nc6 Qe8 NxB QXB b3 then b5? Ba3 b4 then the dsb is toast
+[12:23:55] nyanners: yeah i think white needs to start with a4 there
+[12:24:10] pavonine: ah nice
+[12:24:10] nyanners: both black a4 and b5 doesnt look good for white
+[12:25:42] ysgwydd: (12...Rc8) Maybe Qf3 was hasty? Qe2 instead to stop Ba6 and allow for rook lift
+[12:26:12] nyanners: umm i mean,  Qf3 prevents Ne4, i liked the direction. but yeah
+[12:26:58] nyanners: maybe you could readjust since black let go of e4 too
+[12:27:28] nyanners: all bets are off after c4
+[12:28:14] nyanners: in general those are good for black but the Nd7 is misplaced
+[12:28:45] feet_barbie: (14...Bb4) go flipi
+[12:30:16] berndwind: White woke up and chose violence
+[12:31:32] nyanners: as far as my experience goes, usually you choose g6, no f6. just survive and if you do the game looks good
+[12:31:47] pavonine: Bc3 is funky. Bxh7+ Nxh7 Qxc3 dxc4 bxc4 b5 c5 b4 . most likely i'm missing 1000 things
+[12:31:47] nyanners: those positions are a lot easier with more time
+[12:32:18] nyanners: yea i wouldnt play Bc3 but i dont think its bad
+[12:32:33] nyanners: i suppose at this tc you owe it to yourself to investigate :o
+[12:32:48] nyanners: maybe i would play it
+[12:33:19] pavonine: could be a rabbit hole that you don't ever play, i hate those types of ideas
+[12:34:04] nyanners: i mean, if it works, all your problems are kinda immediately solved basically
+[12:34:04] nyanners: so thats a big upside
+[12:34:20] rio2018: Go Llawlietnea!
+[12:34:35] nyanners: but i was thinking along the lines of g6 to prepare g5 Nh5
+[12:34:50] nyanners: probably with Nxe5 too
+[12:35:21] pavonine: i would be scared after g6 h4
+[12:35:21] nyanners: we can probably cover f7 easily and then we can start opening up the centre
+[12:35:21] nyanners: the real question is how much it costs white to remove the knight
+[12:35:51] pavonine: or g6 h4 Ne4?
+[12:36:21] nyanners: like, you play Be2, black has the choice of Ng7. then white has to commit to h4
+[12:36:21] nyanners: all that takes a lot of time
+[12:36:37] nyanners: okay there we go
+[12:36:37] pavonine: woo chaos time
+[12:36:52] feet_barbie: (15...Bc3) damn
+[12:37:07] berndwind: Such a calm d4 opening yeah
+[12:37:22] feet_barbie: (15...Bc3) bxh7 is a move but is it a good one
+[12:37:38] berndwind: We’ve been looking at Bxh7
+[12:37:53] feet_barbie: (15...Bc3) maybe just solves black problems
+[12:38:08] berndwind: I think I like it but it does get rid of the lsb, who really is a great piece
+[12:38:39] feet_barbie: (15...Bc3) time to finally think ahha
+[12:38:54] nyanners: i mean, if you dont play Bxh7, you have to do something completely crazy
+[12:38:54] nyanners: d4 is hanging
+[12:39:39] ysgwydd: (16.Bxh7+) Ba3 is crazy
+[12:39:55] nyanners: it probably is
+[12:40:10] pavonine: dxc4 and b5 looks fun, the lsb eventually looks at teh rook onf1
+[12:40:10] nyanners: d2 would be hanging. but there could be enough potential
+[12:40:40] feet_barbie: (16...Nxh7) flipi is super chill nice
+[12:40:56] feet_barbie: (17.Qxc3) he didnt foresee this i think so thats good
+[12:41:41] nyanners: no yeah this is looking like the positional rot portion of the stonewall game
+[12:43:28] pavonine: maybe just b5 straight away
+[12:44:14] nyanners: okay i guess because c5 b4 is material
+[12:44:14] pavonine: yeah
+[12:44:59] nyanners: the fact all of that looks some sort of good is a sign of positional rot in white's camp
+[12:45:30] nyanners: as critical as this looks i dont think black should take too much time here specifically
+[12:48:17] itsasecret2000: Go flipi!
+[12:48:48] berndwind: There’s a dog down the road from my house called Flipsy. Can’t see flipi without seeing the little one. It’s a problem
+[12:49:49] ysgwydd: (18.bxc4) White is up a pawn. They are winning!
+[12:49:49] berndwind: Haha
+[12:51:36] itsasecret2000: (18.bxc4) what about Bxc4?
+[12:51:36] pavonine: b5 g5?
+[12:52:21] itsasecret2000: (18.bxc4) counter bishop sac
+[12:52:21] pavonine: Qh4 also an option here
+[12:53:07] berndwind: A combination of Bb7 and Qh4 looks pretty dangerous
+[12:53:22] itsasecret2000: (18...b5) not sure, just Qg3 ?
+[12:53:38] itsasecret2000: (18...b5) i would have gone Bxc4
+[12:53:53] pavonine: b4 is just winning, right
+[12:53:53] itsasecret2000: (19.c5) and then b5, maybe black dont get the pawn back bc a5 falls to
+[12:54:08] nyanners: funny. now black gives up the strong lsb
+[12:54:08] berndwind: b4 looks great
+[12:54:23] nyanners: i really dont want to but i think its good yes
+[12:54:38] itsasecret2000: (19...b4) also now d4 hangs after N moves
+[12:54:54] itsasecret2000: (20.Qe3) oof the rook
+[12:54:54] itsasecret2000: (20.Qe3) im blind
+[12:54:54] nyanners: i think id trade on e5 for good measure
+[12:54:54] nyanners: might as well
+[12:57:26] glennjamesmax: Mop up time for Flappy
+[12:57:41] glennjamesmax: Nxe5 Qd5+ and it's sort of over I think
+[12:58:27] itsasecret2000: (21.Nxf1) maybe Nhf6 first
+[12:58:57] glennjamesmax: I'd just do that and play f5 exf6 and get it there that way
+[12:58:57] itsasecret2000: (21.Nxf1) or else you get the h7 knight in the game via f8-g6
+[12:59:28] ysgwydd: (21.Nxf1) Why play c5? Missed b4 I guess
+[12:59:28] glennjamesmax: (dxe5 will hang c5) so Nxe5 fxe5 Qd5+Kg1 f5
+[12:59:43] pavonine: surprised i called the sequence that actually happened. seemed like a whimsical idea
+[12:59:58] masterpiece_ki: I think he wanted to play actively
+[13:00:44] masterpiece_ki: Maybe the c pawn be a threat in the future
+[13:01:15] masterpiece_ki: Especially with a little time on the clock for black
+[13:03:01] masterpiece_ki: Maybe white should focus on playing on the queenside
+[13:04:17] masterpiece_ki: Nxe5 fxe5 Nd5
+[13:04:48] pavonine: or Qd5+ with Ne4
+[13:05:18] pavonine: and Rfd8
+[13:10:38] berndwind: Hmm is there any universe the knight gets trapped??
+[13:12:25] nyanners: probably not
+[13:12:40] nyanners: black should have something in the worst case of Nc3
+[13:12:55] glennjamesmax: I'd just chop on c5 and Rxc5
+[13:13:11] berndwind: Yeah the c3 square is unlikely to disappear anytime soon
+[13:16:59] itsasecret2000: (26...Nc3) i like Nc3
+[13:20:02] glennjamesmax: 30.Rc1 Flipi's calculations are fascinating, but dude just stop the pawn!!!!
+[13:20:48] nyanners: black has one job
+[13:21:03] nyanners: the best thing i can say about Rb2 is that success is never blamed
+[13:21:18] itsasecret2000: (32.Kg1) yeah, he's going too fancy
+[13:21:34] nyanners: okay
+[13:22:04] itsasecret2000: (33.Ne3) Ne3-d4-d6
+[13:22:19] itsasecret2000: (33.Ne3) c4*
+[13:22:19] ysgwydd: (33.Ne3) Don't stop the pawn! It has done no harm
+[13:22:35] nyanners: the passed pawn is a criminal, etc
+[13:22:35] itsasecret2000: (33.Ne3) Rc8 now
+[13:22:50] itsasecret2000: (33.Ne3) so on Nc4 you can take
+[13:23:35] itsasecret2000: (33.Ne3) he's not considering Rc8
+[13:23:51] glennjamesmax: Yeah, I don't think Black's winning this in practice now
+[13:24:36] itsasecret2000: (33.Ne3) Rc8 seems fine to me
+[13:24:36] itsasecret2000: (33.Ne3) only move tho
+[13:25:07] itsasecret2000: (33...Rc8) ok
+[13:25:07] itsasecret2000: (33...Rc8) let see
+[13:25:53] nyanners: okay easy now?
+[13:25:53] tactix47: (33...Rc8) Wish a rook had been here several moves ago
+[13:25:53] nyanners: history will repeat with the a-pawn xd
+[13:26:08] ysgwydd: (34.Rc5) Tricky to win
+[13:26:08] ysgwydd: (34.Rc5) For white
+[13:26:23] itsasecret2000: (34...Rxa2) go flipi
+[13:26:23] itsasecret2000: (34...Rxa2) Nc4 Rc2
+[13:26:38] nyanners: ummmm
+[13:26:38] nyanners: yea not Nc4
+[13:26:54] itsasecret2000: (35.Nc4) cmon
+[13:27:09] nyanners: i was thinking 34..Rb6 but this worked out way better xd
+[13:27:24] tactix47: (35...Rc2) Whew
+[13:27:24] itsasecret2000: (35...Rc2) flipi flapping the a pawn now
+[13:27:39] glennjamesmax: Yeah now this is clean for Black
+[13:27:54] glennjamesmax: just needed to block the pawn...not being scared of that is just bad
+[13:27:54] super0jins: Can white get out of this with c7 and Rc6, feels awkward
+[13:28:25] glennjamesmax: no it actually makes so much sense
+[13:28:40] itsasecret2000: (35...Rc2) you're not in time
+[13:28:55] itsasecret2000: (35...Rc2) c7 a4 Rc6 a3 Ra6 a2 and then Rc1+ a1
+[13:29:11] itsasecret2000: (35...Rc2) maybe Rc6-b6-b8
+[13:29:26] itsasecret2000: (35...Rc2) oh you're not in time also with this
+[13:31:43] val1313: (40.Nd6) rxc6
+[13:31:43] itsasecret2000: (41...Rxc6) gg
+[13:31:58] nyanners: gg
+[13:31:58] tactix47: gg
+[13:31:58] val1313: gg !
+[13:31:58] berndwind: gg
+[13:31:58] super0jins: gg
+[13:31:58] rio2018: gg
+[13:31:58] glennjamesmax: GG
+[13:31:58] berndwind: Very interesting one
+[13:32:29] glennjamesmax: Very important for Black to get the W
+[13:33:30] flipiflapi: hope everyone who watched enjoyed
+[13:33:30] flipiflapi: wasnt so sure about this one but glad to win ofc.
+[13:33:30] flipiflapi: gg white. that opening and midgame had my seriously sweating
+[13:34:00] berndwind: Oh it was a great game! Really glad I saw the end before the world goes dark on my end
+[13:34:00] flipiflapi: yea bed time
+[13:34:15] berndwind: Night! Good game both. Really
+[13:34:46] berndwind: Really good game I meant to say
+[13:35:01] flipiflapi: thank you thank you
+[13:35:47] rio2018: your opponent also had smth irl in the mean time. so that might be a reason for the fast play
+[13:36:02] flipiflapi: oh no . im sorry to hear
+[13:36:18] flipiflapi: they were accommodating to my time suggestsions
+[13:36:18] flipiflapi: hope things are k that end
+[13:36:48] rio2018: its not a bad thing, he just forgot about it
+[13:36:48] pavonine: gg
+[13:37:03] flipiflapi: gg pav
+[13:37:49] rio2018: this is the colle
+[13:37:49] flipiflapi: ah thanks rio
+[13:38:04] rio2018: and the stonewall later
+[13:42:23] flipiflapi: whlo the hell is flipflapninja _XD
+[13:42:53] flipiflapi: who is flipflapnija* (no swearing)4
