@@ -1,0 +1,36 @@
+Lichess game chat log
+Game      : https://lichess.org/HcO6UugX
+White     : matetes
+Black     : elwi78
+Time      : 30+30
+Captured  : 2026-10-07 19:26:52 UTC
+Game ended : 2026-10-07 18:06:44 UTC
+Messages  : 26
+────────────────────────────────────────────────────────────
+
+[18:10:32] elwi78: I thought I had an advantage after 14...Qc5 but after 15.Qc1 which looks odd but seemed very solid
+[18:11:02] elwi78: I could not figure out how to proceed in improving my position
+[18:11:48] matetes: I was thinking that you are going to play b5, and bishop will go to b7
+[18:12:33] elwi78: Yes, I was looking into this but Qf3 was always the problem, or which exact move are you referring to?
+[18:15:06] matetes: Maybe 13 ... b5
+[18:17:22] elwi78: Yes, I calculated it there: 13...b5 Qf3 Qd5 Qxd5 Nxd5 Be4 Be7 and my knight is pinned
+[18:17:38] elwi78: Looks very ugly and Nc6 is also a threat in some lines
+[18:18:23] matetes: True
+[18:18:38] elwi78: 20.Nf5 might be an idea for you at the end
+[18:19:39] elwi78: Should be still a draw but I like your position as you would have had the bishop pair
+[18:20:40] matetes: I would like this position as well.Howeve in fact, I have not even considered this move.
+[18:20:55] elwi78: For example: 20.Nf5 Bc6 Nxe7+ Qxe7 Qf4
+[18:21:11] elwi78: Me neither
+[18:21:26] elwi78: Just found it on the analysis board
+[18:22:12] matetes: I was surprised with yours Rac8, it was a relief
+[18:22:42] matetes: I expected the knight move and you having a bishop pair or gaining a lot of space
+[18:23:13] elwi78: Ok, but you can keep the dark-squared bishop, can't you?
+[18:23:43] elwi78: But maybe you have a point, I was not considering it much as I thought that I need the knight for kingside defense
+[18:24:59] matetes: I could keep but I would need to pay a price of space
+[18:25:29] elwi78: I think this game in total is rather dry and not much to analyze in detail but I will create a study with all of my LoneWolf games
+[18:26:15] matetes: Would you be happy to share this one with me?
+[18:26:15] elwi78: If you are interested I will share the chapter including my comments and calculations with you and you can add some comments in the chat
+[18:26:30] matetes: Fantastic, it would be lovely.
+[18:27:01] elwi78: Nice, will do. Thanks for the game and good luck with your coming campaign!
+[18:27:16] matetes: The same to you, all the best in this season!
+[18:27:31] elwi78: Thanks!
