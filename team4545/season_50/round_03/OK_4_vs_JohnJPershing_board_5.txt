@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/PdAXsfcr
+White     : ok_4
+Black     : johnjpershing
+Time      : 45+45
+Captured  : 2026-10-08 20:27:41 UTC
+Game ended : 2026-10-08 19:07:32 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[18:01:31] rathotdog: Go team
+[18:06:21] rathotdog: Nxd5 is really surprising to me, I remember terrormt made a similar decision in round 1. After cxd5 black should be doing quite well since t
+[18:06:51] rathotdog: They haven't played g6 and they have a better placed "good bishop"
+[18:07:22] micomps: Go Ok!
+[18:07:37] rajjsinghh: the c6-b7 pawn chain negates the bishop on g2
+[18:07:52] tactix47: Go chess!
+[18:08:07] rajjsinghh: I guess you just have to worry how permanent the knight is on d5. Nc3 or e4 or both seem to ask a question
+[18:09:39] rajjsinghh: I like d3 less if white is ever intending e4 though
+[18:11:25] rathotdog: The d5-e6 center does a better job of blocking the light squared bishop. With Nxd5 the main concern is you're just playing an anglo grunfeld
+[18:11:25] rathotdog: With the pawn on c6
+[18:12:41] rajjsinghh: It looks like white can't quite make up his mind about what he wants to commit to
+[18:14:28] rathotdog: I agree, I've noticed lower rated English players tend to have hang ups about playing d4
+[18:15:44] socholate: I love backwards knight moves
+[18:16:00] socholate: Will he notice
+[18:16:15] rathotdog: I think Ne1 is an interesting move for sure, h3 Bh5 f4 is a strong plan probably
+[18:16:30] socholate: Nxd3 is fine right
+[18:16:30] socholate: Oh I’m stupid
+[18:16:30] socholate: Lmao
+[18:16:30] socholate: Nevermind
+[18:16:45] socholate: Ne1 looks fun
+[18:17:01] rathotdog: Yk when you said Nxd3 it took me a moment too xD
+[18:17:16] rathotdog: I thought I was dumb
+[18:17:16] socholate: Gaslighted you :DD
+[18:18:17] rathotdog: He didn't take the bishop?
+[18:18:17] rajjsinghh: Nc2 over fg?
+[18:18:17] rathotdog: Is there a tactic?
+[18:18:17] micomps: (14.Nc2) nice, quiet, calm position this...
+[18:18:32] socholate: Maybe they are too good for us
+[18:19:33] rathotdog: Now that the bishop can escape I feel fine about black's position
+[18:19:48] rathotdog: f3 looks silly without the e4 fork
+[18:20:18] rathotdog: I wonder if h3 Bh1 Bh5 is best to include
+[18:23:21] johnjpershing: at move 14, I'm thinking I probably should have castled queenside. Such is life, I'll make it work
+[18:25:08] johnjpershing: move 16, white has the elusive fianchetto-deluxe edition!
+[18:25:23] johnjpershing: all the pawns 1 space forward! That's 1 space closer to promotion!
+[18:33:31] johnjpershing: 18...Nxd3 is probably not the stockfish recommended move
+[18:33:46] johnjpershing: but I couldn't stop myself from playing it
+[18:37:34] rathotdog: Well this pony sac seems to have worked out
+[18:40:22] johnjpershing: move 22, this is a tactical blunder on puree. I'm sure stockfish sees a thousand things I don't
+[18:40:37] johnjpershing: but this is fun stuff!
+[19:05:46] johnjpershing: wow, 45 Ne5 is a great tactic. 2 mate threats, Rd7, and Nf7. Not sure I can fight both without serious sacrifice
+[19:06:47] johnjpershing: the options now are saccing pieces to survive, or defend against one and hope they don't see the other
+[19:08:33] ok_4: Phew Glad to have survived, I was looking very cramped
+[19:11:36] micomps: GG!
