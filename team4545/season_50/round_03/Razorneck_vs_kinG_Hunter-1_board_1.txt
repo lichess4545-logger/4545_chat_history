@@ -1,0 +1,78 @@
+Lichess game chat log
+Game      : https://lichess.org/AojiVtif
+White     : razorneck
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-10-08 21:23:20 UTC
+Game ended : 2026-10-08 20:03:11 UTC
+Messages  : 68
+────────────────────────────────────────────────────────────
+
+[17:02:57] timothyha: (1.d4) go, @kinG_Hunter-1
+[17:04:13] tactix47: Go Razorneck!
+[17:08:32] scarff: Good luck Artur!
+[17:11:20] timothyha: (11.Be3) still in Master games, it seems
+[17:17:41] timothyha: (12.Nd2) in master games, Nd2 is the only case when Black wins, and I don't know why
+[17:17:56] timothyha: (12.Nd2) it's a strange middlegame and endgame here
+[17:26:34] timothyha: (15.Qb3) Black fixed the pawns and has two bishops
+[17:32:09] ttsgosadow: Lets go King Hunter!
+[17:32:39] ttsgosadow: I thought the game was at 1800 UTC and missed the start :/
+[17:34:26] ttsgosadow: Both fianchetto, and then have the pawns locked in front looks like something didn't go as planned
+[17:40:16] jfiras: Good luck hunter !
+[17:40:47] ttsgosadow: Bishop pair, but white has a great outpost for the knight
+[17:41:48] tactix47: Yeah, looks dangerous for Black to take  with his Q&R on the h1-a8 diagonal
+[18:09:13] timothyha: (23.Rc4) brave people.... so tactical now
+[18:15:33] rolihlahla: seems like fireworks are not far away ....
+[18:16:04] ttsgosadow: Can't take long before someone spills their drink here
+[18:16:19] inter-temporal: (24...Rc8) someone hold their beers
+[18:16:19] timothyha: (24...Rc8) you mean spectators
+[18:16:34] timothyha: (24...Rc8) spectators drinking morning in coffee in NZ
+[18:16:34] inter-temporal: (24...Rc8) hold my beer, then
+[18:17:05] ttsgosadow: Love the BxN threat keeping white honest
+[18:17:05] inter-temporal: (24...Rc8) ironically, i've not had an alcoholic beverage in years. lol
+[18:17:20] timothyha: (24...Rc8) can still become a peaceful opp colour B game
+[18:17:35] timothyha: (24...Rc8) we need an abbrev OCB endgame?
+[18:18:06] inter-temporal: (24...Rc8) ocbs
+[18:18:21] guitarspider: (24...Rc8) bishbish endgames
+[18:18:21] inter-temporal: (24...Rc8) hold my bishop
+[18:18:51] timothyha: (24...Rc8) Spassky and his wife endgame
+[18:19:22] timothyha: (24...Rc8) in his Russian phrase, opp colour also is opp sex
+[18:19:37] inter-temporal: (24...Rc8) hetro-bishops
+[18:19:52] guitarspider: (24...Rc8) interesting
+[18:20:07] timothyha: (24...Rc8) in Russian sex and square sound the same, and opp colour Bs are Bs on different colour squares
+[18:21:24] timothyha: (25.Qb3) Qf3 next I guess
+[18:28:15] inter-temporal: (26...Kg7) to threaten ...Bd7 maybe
+[18:28:45] inter-temporal: (26...Kg7) (getting out of that tactic if 26...Bd7, Qxd7)
+[19:01:45] timothyha: (32...Bxf2) finally an endgame
+[19:02:31] scarff: Looks very playable for both sides if it does go into an endgame
+[19:07:20] scarff: Qc6, avoiding Timas beloved endgame, nice :D
+[19:11:09] scarff: With queens on it looks nice for black. Whites king could be under a bit of pressure
+[19:15:58] king_hunter-1: 38.Bxd5 what an interesting center...
+[19:20:32] scarff: Very nice symmetry :)
+[19:21:33] scarff: I guess this probably is all 0.0 for the engine. But might be some tricks to try for both sides with opposite bishops
+[19:22:03] scarff: Hard to see how either sides exploits the others weak squares though
+[19:22:34] king_hunter-1: (40...Qb1) it was be better if i put it in d1
+[19:23:04] king_hunter-1: maybe
+[19:23:20] rolihlahla: yes - does look like it is headed for 1/2 - 1/2
+[19:27:38] king_hunter-1: 44...Qd1 now it look good
+[19:29:25] king_hunter-1: 45...Qg4 maybe f5 somewhere
+[19:29:25] king_hunter-1: or g5
+[19:38:18] scarff: 47...Be3 to f4 ever an idea that is not horrible?
+[19:59:52] scarff: Artur keeping up the pressure so long, really good to see :)
+[20:01:09] ttsgosadow: This is so tenacious! Timothy and me are watching while chatting about it, and we where confident there was not much in the position, so coo
+[20:01:09] ttsgosadow: l to see you wrench this from the position!
+[20:01:39] scarff: Mabye it still is okay for white. But definitely feels like black is pushing
+[20:02:10] scarff: At every turn keeping the position alive, and trying to get everything out of the game there is
+[20:02:40] scarff: Asking another question of white, while white seemed happy to repeat for a draw a few times
+[20:03:11] timothyha: gg!
+[20:03:26] scarff: Great game Artur!
+[20:03:26] jfiras: gg !!
+[20:03:26] ttsgosadow: This is awesome - masterclass of not giving up
+[20:03:26] timothyha: wow, @kinG_Hunter-1 getting all this pressure out of nothing
+[20:03:26] scarff: And gg to both! Very interesting fight to spectate
+[20:03:26] rolihlahla: gg
+[20:04:42] tactix47: gg
+[20:04:42] king_hunter-1: It was very scary to play 51...Kg6, but in principle, with opposite-colored bishops, there wasn't much risk; at the very least, I could have
+[20:05:43] timothyha: yeah, Q couldn't go too far so perpetuals were always there
+[20:05:58] timothyha: I guess bishop leaving the c4 square (covering f1) was the last mistake from W
+[20:06:29] king_hunter-1: Once the bishop left c4, things became much easier
