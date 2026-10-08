@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/p6Yiwslw
+White     : drrickinct
+Black     : computability
+Time      : 45+45
+Captured  : 2026-10-08 16:39:31 UTC
+Game ended : 2026-10-08 15:19:22 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[14:01:12] tactix47: (4.Bg2) That was a lightning-fast reaction to g5, premove?
+[14:04:45] nyanners: maybe :D
+[14:05:00] nyanners: as an ultrabullet regular, i can tell you that you should almost never EVER premove anything unforced in the opening even in 1 0
+[14:05:15] nyanners: hyperbullet is where the lines begin to blur
+[14:06:01] nyanners: that said, what's the best reaction to g5? i like h3
+[14:06:31] nyanners: some people will also play 3..Bxf3 for the structural funny, so you should definitely not premove there
+[14:08:18] nyanners: now well, some people realize okay i shouldnt premove here and "hover" the piece, waiting for the opponent's likely move to only then releas
+[14:08:33] nyanners: thats good but sometimes the brain plays tricks on you and you release the piece when you didnt mean to anyway
+[14:10:50] tactix47: With some thought I would have likely played 4.h3.  The Knight doesn't look too horrible on h4 with an uncastled Black king on f8, though.
+[14:11:51] nyanners: these positions are generally fine for white since black went a bit too out of their way for this
+[14:12:06] nyanners: probably less fine a pawn down though
+[14:12:37] nyanners: but yeah in terms of practical evaluation its anyone's game i think
+[14:13:07] nyanners: black may be a bit less comfortable since theres no solution for the king
+[14:25:34] computability: This is tough
+[14:28:06] computability: uggh just hung my pawn. Maybe it'll be fine that knight was keeping the g8 knight stuck
+[14:37:45] computability: (19.Nb3) yeah Nb3 is just excellent.  I think c4 here just to prevent d4 which would be devastating
+[14:40:32] rpcx: this looks like a 960 position
+[14:41:33] nyanners: it kinda does..
+[14:47:38] computability: Ok now I just need a new idea.  I'm thinking Nf6, trade qyeens on e4 to get a nice endgame
+[14:48:09] computability: Or just get the N to e4 and keep pressuring
+[14:52:58] nyanners: id just take the free pawn on c4 tbh
+[14:53:13] nyanners: but q trade is good for b
+[15:05:39] inter-temporal: (27.Bd4) but ...Nd2 is forking
+[15:08:57] inter-temporal: (29.f5) attack!
+[15:10:44] nyanners: black has solved most problems
+[15:13:47] inter-temporal: (30.Kh1) ...Nf2+ seems to work
+[15:14:48] inter-temporal: (30.Kh1) ...Nhf2+, Bxf2 Rxd1, Rxd2 Nxf2+
+[15:15:19] inter-temporal: (30...c5) tjhat was 30...Nhf2+, Bxf2 Rxd1, [Rxd1] Nxf2
+[15:16:04] inter-temporal: (30...c5) this seems to work as well
+[15:16:04] computability: I think Rxb2 was winning but with more flare
+[15:16:20] nyanners: nothing changed basically
+[15:16:20] nyanners: but i think black is looking at mate
+[15:16:20] nyanners: id just take the rook
+[15:16:35] nyanners: okay :o
+[15:17:05] tactix47: Clean
+[15:17:20] computability: Now I have Rxb2 fomo
+[15:17:36] nyanners: what is the fear about
+[15:17:36] nyanners: winning in 20 moves instead of 5?
+[15:18:06] computability: This is the more forcing line anyway.  DrRickinCT would have had to hav taken with the Bish on b2
+[15:18:52] inter-temporal: gg
+[15:19:38] nyanners: gg
+[15:21:55] tactix47: gg
+[15:26:13] nyanners: pretty good from b
