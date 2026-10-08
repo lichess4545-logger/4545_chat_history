@@ -1,0 +1,124 @@
+Lichess game chat log
+Game      : https://lichess.org/k3czsZBb
+White     : faznaz83
+Black     : onlylongtimegames
+Time      : 45+45
+Captured  : 2026-10-08 22:15:20 UTC
+Game ended : 2026-10-08 20:55:11 UTC
+Messages  : 114
+────────────────────────────────────────────────────────────
+
+[17:33:15] glennjamesmax: Glgl faz
+[17:37:34] tactix47: Go OnlyLongUserNames!
+[17:40:21] mrscribbles: Go onlywhatever
+[17:41:07] mrscribbles: Holy heck an NM in the wild
+[17:41:07] mrscribbles: I thought they were a myth
+[17:41:22] mrscribbles: A tale told to scare children in the night
+[17:44:55] prostidude: Go go faznaz
+[17:46:58] tactix47: NMs scare me any time of day or night.
+[18:07:32] tommeketoch: Nah NM are fake titles :p
+[18:31:56] prostidude: I heard someone describe NM as "not much"
+[18:34:43] grzybozbur: this one seems to have a lot of pawns though
+[18:42:51] glennjamesmax: I was wondering what he intended after Bd6
+[18:43:22] glennjamesmax: A bit surprised to see the long think here as opposed to earlier
+[18:45:09] grzybozbur: sac the exchange maybe?
+[18:45:09] glennjamesmax: I'd play 22.Rxf4 and then Nb5 maybe
+[18:45:39] glennjamesmax: yeah I think that's the obvious approach as Rf3 Nh4 looks very awkward...
+[18:45:54] grzybozbur: i'm not playing nb5 with all those black pieces aiming at the white king
+[18:46:09] glennjamesmax: But it gets rid of one of them....
+[18:46:40] glennjamesmax: Like what even does Black do?
+[18:46:55] glennjamesmax: Be5 d4 and Rc7 is hanging
+[18:47:26] glennjamesmax: Bxg3+ is way too speculative I think
+[18:52:00] glennjamesmax: Nb5 looked completely winning to me...
+[18:52:15] glennjamesmax: I wonder what he saw that he didn't like
+[18:53:31] grzybozbur: wait, so what was the line that looked winning?
+[18:54:02] grzybozbur: everything looks very unclear to me
+[18:55:48] glennjamesmax: Just Nb5 instead of Qf3
+[18:56:19] glennjamesmax: 23.Nb5 and what? Be5 24.d4 and if you move the bishop away just rxc7 is one more pawn and a8 hanging in the corner
+[18:56:34] grzybozbur: black can even give the exchange back with rxa7, i don't know
+[18:57:05] glennjamesmax: Okay, but then I'm two pawns up and what's the compensation?
+[18:57:20] glennjamesmax: And it's actually 3 pawns.
+[18:57:35] grzybozbur: be5 d4 looks completely lost for white though
+[18:57:51] glennjamesmax: Huh? Why?
+[18:57:51] grzybozbur: i take the rook
+[18:58:06] grzybozbur: or the bishop
+[18:58:21] glennjamesmax: Huh? What do you take the rook with?
+[18:58:36] glennjamesmax: What does taking the bishop achieve
+[18:58:52] glennjamesmax: Black is gazillion points of material down, so you have to show something
+[18:59:22] invinci7777: bishop pair xD
+[18:59:37] glennjamesmax: Be5 d4 Rxa7 Rxa7 Bxd4 Rxc7 for example
+[18:59:53] grzybozbur: bxg2 kxg2 qc6 white resigns
+[19:00:08] grzybozbur: or plays qf3 re2 and then resigns
+[19:00:23] glennjamesmax: Bf5-xg2 is not legal?
+[19:00:38] grzybozbur: you said the bishop is on e4
+[19:00:54] glennjamesmax: Where did I say that?
+[19:01:09] grzybozbur: be4 d4 was your line
+[19:01:09] glennjamesmax: 23.Nb5 Be5 is what I mentioned
+[19:01:24] grzybozbur: ah, ok
+[19:01:39] glennjamesmax: I mean Be4 makes no sense there's just dxe4 right?
+[19:01:55] glennjamesmax: Oh
+[19:02:10] glennjamesmax: ok I see the point of Be4
+[19:02:10] grzybozbur: that drops the queen
+[19:02:25] glennjamesmax: So it's a legit line you thought of but didn't mention and you thought I was discussing your line
+[19:02:40] invinci7777: but knight takes bishop
+[19:03:41] invinci7777: but knight was on b5 ig
+[19:03:41] glennjamesmax: Qxd6 is just unclear, but okay at least now I understand what Faz saw
+[19:04:12] invinci7777: yeah
+[19:04:12] glennjamesmax: I thought u meant Nxd6 (this was why the descriptive notation went out of fashion)
+[19:06:44] grzybozbur: ok, so what i meant was that 34.nb5 in the worst case black can play rxa7 rxa7 re3 and it seems like a ton of compensation
+[19:06:44] grzybozbur: with half the white pieces out of play
+[19:08:00] glennjamesmax: 23...Re6 isn't Qxc7 winning?
+[19:08:16] glennjamesmax: Rxc7 I mean
+[19:09:01] glennjamesmax: Bxg3+Qxg3 protects the rook
+[19:09:17] glennjamesmax: and there isn't anything else sensible that i can see
+[19:10:02] grzybozbur: rxc7 bxc7?
+[19:10:02] invinci7777: what after rxc7 qxc7 qxa8 kh7?
+[19:10:18] glennjamesmax: invinci Bf2
+[19:11:03] grzybozbur: ah, i mistead the line again
+[19:11:18] glennjamesmax: Bxc7 Qxa8+ Kh7 Bf2 again
+[19:11:34] glennjamesmax: That would be just winning as the White structure is rock solid
+[19:11:34] grzybozbur: right
+[19:13:20] invinci7777: but may be h5-h4 then and there is pressure on g3
+[19:13:35] invinci7777: its not so clear
+[19:13:51] invinci7777: black seems to hav good attack
+[19:18:10] grzybozbur: bf2 seems very uncooperative of white
+[19:26:48] knightfury21: Let's go faznaz!
+[19:36:28] glennjamesmax: 30...Rxe6 this is over we've got it in the bag
+[19:45:51] glennjamesmax: 36.Qg5 is forced, Kh3 f5 would be embarassing
+[19:46:37] glennjamesmax: well I didn't consider giving up the pawn, though this should win too
+[19:50:25] grzybozbur: once the pawns get to the 7th rank, sure, but until then black still has a rook
+[19:51:57] grzybozbur: seems unpleasant to play on increment for both colors
+[19:52:12] glennjamesmax: Bf4 ah the pawn is defended via backrank
+[19:53:13] glennjamesmax: I think White's just winning as the c5 pawn will roll after the bishop trade.
+[19:58:02] grzybozbur: this is just a piece down, white will control all entry squares for black rook, so no counterplay
+[19:59:03] glennjamesmax: Qc8 ouch this is a nasty shot
+[19:59:03] glennjamesmax: Which I'm confident White missed
+[19:59:34] glennjamesmax: This is okay but a bit awkward
+[19:59:34] ysgwydd: (42...Qxb8) 42.Qf5 maybe
+[20:00:50] ysgwydd: (44...Qa8) No 42.Qf5 g6 was probably not good for white
+[20:05:24] glennjamesmax: 36.Qg5 was needed...time pressure really hurt there
+[20:06:25] grzybozbur: so where does white want to put the king to be able to still get some play?
+[20:25:43] glennjamesmax: White will win this eventually but it might take a while
+[20:28:00] grzybozbur: yeah, but it before g7 dropped it looked interesting
+[20:28:46] glennjamesmax: Yeah against higher rated players not being clinical the first time can be very costly
+[20:40:42] grzybozbur: i thought 78.kc6 and white promotes
+[20:40:42] grzybozbur: did i miss something?
+[20:42:29] glennjamesmax: all roads lead to Rome that's all
+[20:44:46] grzybozbur: well, there's 50 move rule
+[20:45:01] glennjamesmax: He's moving his pawn
+[20:45:16] glennjamesmax: there's absolutely no hope for Black
+[20:45:16] glennjamesmax: unless he literally leaves his queen hanging
+[20:54:55] glennjamesmax: Now Black can resign unless he wants to hit 100 moves
+[20:55:10] glennjamesmax: Qe4+ and promotion is coming
+[20:55:41] tactix47: gg
+[20:56:57] onlylongtimegames: lol he played a perfect endgameafter
+[20:57:12] onlylongtimegames: afte Qxg7 I have no chace, It's like I played against a machine
+[20:57:27] glennjamesmax: But to be fair he missed some really easy chances
+[20:57:43] onlylongtimegames: when?
+[20:57:43] glennjamesmax: Qg5
+[20:57:58] glennjamesmax: instead of blundering the h4 pawn
+[20:58:13] glennjamesmax: and Qf2 instead of Kh3
+[20:58:44] onlylongtimegames: Yes He deserved to win
+[20:59:14] onlylongtimegames: ggg bb
+[20:59:14] glennjamesmax: I mean I'm only calling it easy because there's nothing at all to calculate in those lines
+[20:59:29] grzybozbur: the queen endgame looked very human to me
