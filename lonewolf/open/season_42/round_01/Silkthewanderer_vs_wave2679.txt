@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/4FyAxyu6
+White     : silkthewanderer
+Black     : wave2679
+Time      : 30+30
+Captured  : 2026-10-08 22:36:40 UTC
+Game ended : 2026-10-08 21:16:32 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[20:14:34] wave2679: f5 seemed forced the sacrafice on g6 looked dangerous
+[20:15:05] wave2679: although I do not agree with f4 from them, maybe I'm missing something but to me feels rushed
+[20:16:06] wave2679: nd6 adding another layer of defense to the pawn on f5, if g4 here I intend to play ne4
+[20:18:23] wave2679: I thought f3 was neccessary at some point to kick my knight from e5, now they'll have to trade an exchange or bishop for it
+[20:24:59] wave2679: play seems to be shifting towards me, hard to find a move for white here to make progress I would say. Feel qb2 let me off the hook a bit
+[20:33:07] qrs: 25. .... g5 is quite commital, but black needs to do something active ofc, otherwise Be5 Rc7 seems to be a real threat for white
+[20:33:37] qrs: Then again, Be5 probably still works
+[20:33:53] qrs: (26 Be5) and there it is
+[20:35:54] wave2679: wanted to play nc5 last move but it loses a pawn to the unintuitive bxc5
+[20:40:44] wave2679: think only move to survive was this b4, nxa6, qxa6 re8 rc7 and I'm in time with re7
+[20:44:02] qrs: (28 ... Rd8) time for white to cash in and take a pawn with Bxc5?
+[20:46:34] wave2679: I'm down a pawn admittely I missed bd6 but I think this is reasonable?
+[20:47:05] wave2679: the light squared bishop for him is worse than mine and my passed pawn is protected
+[20:47:51] qrs: Mh, why would whites lsb be worse, not sure I agree with that assessment
+[20:48:51] qrs: (31 . ... d4) just Bc4 for example - white could always force trade the bishop. Also Bd3 is possible..
+[20:49:07] qrs: But the bishop is actually doing a good job on a6 for white because it prevents Rc8
+[20:50:53] qrs: (32 Qg7) yea, now definitely white always has Bc4 (Rc8 Bxe6+) to force the trade, so if anyone whtie has the better LSB
+[20:56:59] qrs: (36 Qe7) okay, wow, if there is nothing immediate black might actually have taken over
+[20:58:00] qrs: Maybe 36. ... Rf8?
+[20:58:30] qrs: (36. ... Ra8) ok, interesting. Not sure i like it
+[20:59:16] qrs: What about now 37. Bc4 forcing Bxc4 38. bxc4 and white has some threats
+[21:07:08] qrs: (43. ... Rc1) does that really work for black or is it desparation? Re5 huge threat if white can parry blacks Rxf1
+[21:07:54] qrs: Kg1 Qb6 does not seem ideal for white
+[21:08:09] qrs: (44. Kg1) okay, maybe i am misjudging it
+[21:09:10] qrs: Also maybe 44. ... Re1
+[21:12:59] qrs: (46. .. Qe2) Rf3+ Rxf7 will come as a cold shower
+[21:17:17] wave2679: Dang
+[21:17:33] qrs: GG
+[21:18:03] wave2679: move 20 was what did it
+[21:18:18] wave2679: I didn't think h6 worked
