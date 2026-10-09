@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/GA1xc2db
+White     : buki9
+Black     : astronominoff
+Time      : 45+45
+Captured  : 2026-10-09 15:48:08 UTC
+Game ended : 2026-10-09 14:27:59 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[12:03:14] jcarmody: Go Buki9!
+[12:05:16] jcarmody: (2.. Nf6) If you're going to play the Scandi, play this Scandi.
+[13:16:54] silkthewanderer: Go Buki
+[13:30:06] silkthewanderer: 15. ...b5 is such a tempting move but probably both incorrect and unnecessary
+[13:32:38] silkthewanderer: 16. Bd5 is the best chance to hold I think
+[13:36:57] silkthewanderer: Qd3 Ng4 h3 Nxf2 is a bit of a problem
+[13:52:12] silkthewanderer: Not all is lost though. Qxg3 Bxg3 b5 Bd6 Bxd6 Bxd6 cxd6 Be4 and Black is not that much better
+[13:56:01] qrs: (22 Rf1) What about Be6 Bxe6 Rf8? Should lead to an equal endgame
+[13:56:01] silkthewanderer: Okay that one is even cleanen. Dont think Black has anything but settle for a draw
+[13:56:31] silkthewanderer: Yes. I was worried about b5 interjections but those are nothing
+[13:57:02] silkthewanderer: Seems very dead very forcingly
+[13:57:47] silkthewanderer: Black is also unpinnig in two moves so White doesnt have more either
+[13:58:02] qrs: (22. Bd6) What about Rxf7 now threatening the discovery?
+[13:59:03] qrs: Ok, apparently black has seen it through and just Kh8 and there is nothing
+[13:59:19] qrs: Felt a bit risky to me but there is no option for white to distract blacks DSB or threaten the backrank in another way
+[14:01:36] silkthewanderer: 24. Bb2 and how does Black prevent the d5 and Rxg7 plan?
+[14:02:21] silkthewanderer: Bb2 Bf5 so you have d5 Rg8?
+[14:02:37] silkthewanderer: Wait lol, no square for the bishop anywhere
+[14:03:22] silkthewanderer: So 24. ...b5 is the one move to not lose instantly?
+[14:04:54] silkthewanderer: b5 d5 bxc4 Rxg7 h5 and you claim that White cant get more than perpetual
+[14:12:30] silkthewanderer: ...h6 and Rb7 and Black untangles just in time
+[14:16:49] silkthewanderer: d5 Rg8 Rf5 h5 g4 and is White winning?
+[14:17:35] silkthewanderer: *d5 Rg8 Rf5 Be2 g4 I meant
+[14:18:36] silkthewanderer: Re8 is a better idea though. Re1, Bg1, Re3 is a threat
+[14:19:37] silkthewanderer: Kh2 is the Blitz move here, not sure I see a better one
+[14:20:23] qrs: Wow this got really exciting
+[14:20:53] qrs: Re3 Rf3 though?
+[14:21:54] tbest: was there an issue with 33 Rxg7?
+[14:22:09] qrs: That you dont have Rf3 in the line we're seeing maybe?!
+[14:22:40] qrs: 37 gxf3 forced?
+[14:24:26] silkthewanderer: Tbest, Black had Re3 then Rxb3 and White has no good discovery
+[14:24:26] silkthewanderer: Because b2 is hanging
+[14:26:43] tbest: ya, just feels like there was more somewhere someplace
+[14:27:44] tbest: granted, this did end up working well for white
+[14:27:59] qrs: GG
+[14:28:15] tbest: gg
+[14:29:00] buki9: crazy game ggs
+[14:29:31] tbest: there was more too, just make the discovery using the b3 bishop instead !
+[14:29:46] buki9: oh my god i never see these kinds of moves
+[14:30:32] buki9: damn i got lucky there
+[14:31:17] tbest: well, as they say, if you play good chess you get "lucky"
+[14:32:03] buki9: idk about that one the opening wasnt that good and Nxf2 was a cold shower im just lucky he didnt see 18...Bf5 thats a crazy cool move
+[14:32:49] buki9: and i couldve made my life easier with 21 b5 i think
+[14:33:49] buki9: oh i love it when the engine tells me im stupid
+[14:34:35] buki9: well anyways thanks for watching and gg
