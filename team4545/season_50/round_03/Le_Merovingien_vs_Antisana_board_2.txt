@@ -1,0 +1,111 @@
+Lichess game chat log
+Game      : https://lichess.org/xHXApfsv
+White     : le_merovingien
+Black     : antisana
+Time      : 45+45
+Captured  : 2026-10-09 23:25:11 UTC
+Game ended : 2026-10-09 22:05:02 UTC
+Messages  : 101
+────────────────────────────────────────────────────────────
+
+[20:09:00] pineapplechiffoncake: go Mero!
+[20:10:31] le_merovingien: Before someone butchers my choices: the team is down 4-0. It's win or nothing. I am trying. Gimme cookies
+[20:11:32] timothyha: (9.gxf3) makes sense!
+[20:18:23] le_merovingien: Qxb7 Nxd4 Bb5 Nxb5 Qxb5 Qd7 Nxd5 Queen can't take, so exd5 no good, right?
+[20:18:54] qrs: Cookies :D
+[20:20:56] le_merovingien: Qxb7 Nxd4 kinds of logical. All of it. I probably have to play that.
+[20:23:13] le_merovingien: Qxb7 Nxd4 Nxd5 Qxd5 does not look good. The Knight in d4 is scary with jumps on c2 and f3.
+[20:25:00] le_merovingien: so many moves lose a Pawn
+[20:25:46] tomb85: Go Antisana!
+[20:34:24] le_merovingien: I think there is only one move if he plays Nxd4. It is Bb5. The rest loses a Pawn or gives Black a clearly better position.
+[20:34:54] le_merovingien: Nb5 is met by a nasty Bb4.
+[20:35:55] le_merovingien: Nxd5 develops Black with Qxd5
+[20:36:26] le_merovingien: There is also the f3-Pawn hanging with check, so the d4 Knihgt needs to be busified.
+[20:36:26] le_merovingien: So, Bb5...
+[20:36:56] le_merovingien: But then Nxd4 Bb5 Nxb5 Qxb5 Qd7 Nxd5 exd5... Black is better, no?
+[20:37:42] le_merovingien: not sure I have written the correct line. Writing is so slow compared to thinking...
+[20:38:28] le_merovingien: Qxb7 Nxd4 Bb5 Nxb5 Qxb5 Qd7 Nxd5 exd5 is the line
+[20:39:29] timothyha: (10...Nxd4) maybe instead of Qxb5 Nxb5 is ok too
+[20:39:59] le_merovingien: Bb5 Nxb5 Nxb5 Bb4 Kf1 O-O... not working either
+[20:39:59] timothyha: (10...Nxd4) but only good for a draw
+[20:40:14] timothyha: (10...Nxd4) and your team needs a win :-)
+[20:41:46] le_merovingien: Hey Tigrou, I am trying...
+[20:42:01] mongreltiger: Go Le_Merovingian
+[20:43:32] le_merovingien: I have to play Bb5... Nc2 is too strong.
+[20:44:49] le_merovingien: Wait... No Qd7?
+[20:47:06] le_merovingien: This has to be better for me. He is blockign his Bishop.
+[20:47:21] le_merovingien: Comes to mind Bd2. Trying shenanigans but have little hope
+[20:48:37] le_merovingien: There is a b3 too... b3 Nxc3 Ba3 Kf6...
+[20:49:08] le_merovingien: Ah no
+[20:49:08] lemuelgullible: how about Bg5+ f6 Qb7+ Nc7 Bf4
+[20:49:23] le_merovingien: i could castle
+[20:50:54] le_merovingien: now, if Nxb3, I don't know how to recapture.
+[20:51:40] le_merovingien: Bah, logical. Bx. Sometimes, I can be stupid
+[20:51:55] le_merovingien: the appeal of the b-file open. What lunacy
+[20:55:14] le_merovingien: Qb7 obvious. But what after Nc7?
+[20:56:15] le_merovingien: Qb7 Nc7 Nb5 looks winning
+[20:57:00] nyanners: that it does
+[20:57:15] nyanners: im pretty sure black has already deviated
+[20:58:01] le_merovingien: no. Qb7 Nc7 Nb5 Rb8 Qxc7 Rxb5 is equal
+[20:58:16] nyanners: Check
+[20:59:17] le_merovingien: Nxd5 Qxd5 Bb4 Kf7... Blakc is better
+[20:59:33] lemuelgullible: that'd be tragic if they overlooked teh check
+[21:03:06] le_merovingien: Ah, he can do that...
+[21:09:57] le_merovingien: The position feels very fragile
+[21:09:57] le_merovingien: But his King is in the center
+[21:13:45] le_merovingien: I think I can castle now.
+[21:14:01] le_merovingien: Bring the second Rook in on d1
+[21:14:46] le_merovingien: Cra*... Nb4 Nd3! I missed that.
+[21:25:26] le_merovingien: Black's construction is solid... I can't generate ideas.
+[21:25:56] le_merovingien: tactical, I mean. Strategically, it is relatively easy
+[21:26:12] le_merovingien: But he will chase my Queen and I don't want to exchange. Looks like I need to avoid a draw (if I am better anyways)
+[21:28:29] le_merovingien: I am liking the clock situation
+[21:28:29] le_merovingien: (more than the board's)
+[21:28:44] nyanners: white odds are pretty decent
+[21:29:45] le_merovingien: Hi Kuby
+[21:31:16] nyanners: umm qb6 is a good one
+[21:31:31] nyanners: that helps A LOT
+[21:32:02] le_merovingien: I have to dodge the exhange... Qd7 Rhd8 Qa4 Qxb2 Nxd5 exd5 Rc7?
+[21:32:17] le_merovingien: Argh, no. There is Rxd5 whcih I missed
+[21:33:18] le_merovingien: But Qx leads to sterile positions because Black willl force me to exchange the Rooks, move the King to the Queenside adn stop my Pawns
+[21:34:34] le_merovingien: Qx feels like a draw. Far from it yet but I don't think I would have a shot at winning
+[21:35:20] le_merovingien: He can simply play Rhd8 Rd7 Rad8 at the end of the line and nothing happens to Black
+[21:36:21] le_merovingien: Maybe not Nxd5 but Ne4?
+[21:36:36] le_merovingien: I need to try somethign for the team
+[21:37:37] nyanners: i agree with qd7 the risks
+[21:40:09] le_merovingien: Oh, hi, Murf!! I did not realize you were in the team!!!
+[21:41:25] nyanners: im feeling its the kinda game where if you keep the tension black is the one more likely to blunder
+[21:41:40] nyanners: due to the circumstances
+[21:41:56] le_merovingien: Did forget to calculate Ne4...
+[21:46:15] le_merovingien: I think this is wrong. I think I am losing the thread.
+[21:46:30] le_merovingien: Bc5 coming out of nowhere now.
+[21:48:32] le_merovingien: That looks bad. Not sure how Black wins but that looks bad
+[21:49:03] le_merovingien: Rad8 is obvious here and everything is tough looking. Maybe simply Qe5 Qd6
+[21:49:03] le_merovingien: Can I play Black?
+[21:50:03] le_merovingien: I wanted to pin the Bishop and bring in a Rook. I missed Black's moves. Way too slow at my end
+[21:51:20] le_merovingien: Rad8, then Rc4 or Re1?
+[21:51:50] le_merovingien: Re1 looks stronger. Rc4, he will play Qb6 and annoy me again
+[21:55:08] le_merovingien: Trying to play faster to make him make mistakes. It is my only shot at this
+[21:57:10] nyanners: no dont play fast. play really slow and look for anything that is slightly not forcing
+[21:57:25] nyanners: black is really worried about all forcing lines right now
+[21:58:11] nyanners: like 26 Qa6 might just be close to the right amount of weird here
+[22:00:13] nyanners: ah thats a good move from b
+[22:00:28] nyanners: that may be game
+[22:00:59] le_merovingien: Umph... Rc8 Bxh2 Kh1 Bf4 Kg1 Rg5#!
+[22:01:14] le_merovingien: Qh3, nice.
+[22:01:44] nyanners: actually two mate threats
+[22:02:45] nyanners: umm i thought 27..Bxf4. does this actually work
+[22:03:00] nyanners: on whites part you have one legal move, play it
+[22:03:31] nyanners: ooh maybe black saw this forces a draw. thats fair
+[22:03:46] le_merovingien: He is not winning this?!?
+[22:04:01] le_merovingien: He messed up the move order!!!!!!!
+[22:04:01] mkubecek: (29.Kh1) A draw is a team win, after all...
+[22:04:01] le_merovingien: or I missed somethign?
+[22:04:17] inter-temporal: (30...Bh2+) gg
+[22:04:47] banshee3333: Gg
+[22:05:02] nyanners: like yea fair but Bxf4 looked like similar but winning :p
+[22:05:02] nyanners: gg
+[22:05:02] mongreltiger: gg
+[22:05:02] raindy: nice game
+[22:05:02] sideshow_bob: gg
+[22:05:18] tomb85: Gg both
