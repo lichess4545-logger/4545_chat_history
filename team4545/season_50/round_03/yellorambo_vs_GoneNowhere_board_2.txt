@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/8pSSiTwQ
+White     : yellorambo
+Black     : gonenowhere
+Time      : 45+45
+Captured  : 2026-10-09 00:37:33 UTC
+Game ended : 2026-10-08 23:17:23 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[20:04:26] goldenretrieverchess: Go yellorambo!
+[20:05:27] pineapplechiffoncake: go yellorambo go!
+[20:11:32] mennonite: Go yellorambo!
+[20:19:55] pavonine: gogogoo gonenowhere
+[20:20:40] inter-temporal: (9...Nd5) bo go no!
+[20:20:56] yellorambo: 10 Qxe4 Nxe3 Qxb7 Nc2+ Kd1 Rb8 fails for me I think
+[20:45:33] yellorambo: 16. d5 is so committal
+[21:09:26] yellorambo: I was ready to grovel after 21...Bxg2 Qxg2 Rxd1 Nxd1
+[21:09:41] yellorambo: hopefully the fancy-play syndrome g5 will give me some cheapos at some point
+[21:23:39] giziti: (25...Rfd8) allr ight lets go (nowhere)
+[21:24:09] yellorambo: was just going to play Nc3 but I wonder if have b4
+[21:24:25] yellorambo: 24...Qxb2? Ne7+ would have been nice
+[21:29:14] yellorambo: it's more the fact that the Nc3 line ends with Rd4 that is making me go for it
+[21:47:00] schittering06: Let's go yellorambo!
+[21:53:06] yellorambo: I'll need all my clock time to figure this out
+[21:53:36] yellorambo: 29...Qg7 Qh5 e.g. always has Rg6
+[21:53:36] yellorambo: Ne7 seems like just a check
+[21:54:52] giziti: (29...Qg7) this is getting tight
+[21:55:23] yellorambo: Ne7+ xc6 Qxb5 might be the best I get
+[21:56:24] yellorambo: exchange sac on d4 and Rxg5+ seems similarly nothingburgery
+[22:00:12] schittering06: Nice tactical sequence yellorambo!
+[22:00:58] giziti: (32.Qxb5) was Rd5 instead of Qxd5 an idea?
+[22:00:58] giziti: (32.Qxb5) *Qxb5
+[22:04:31] schittering06: I probably just miss something giziti but what continuation after Rxd5, exd5, Rb6?
+[22:16:43] yellorambo: Re5 mas trade and after h3 Kh2 Bg1+!!
+[22:26:06] yellorambo: 42 Nf4 was was probably better, the pawn falls anyway, I don't have Qf3
+[22:26:52] qrs: (42 ... Qd6) 40. ... Bc3 maybe was an alternative for black?
+[22:27:37] qrs: (Threatening both Rd2 and Bxb4)
+[22:29:54] yellorambo: 43...Rxe4 Qf4, here Qb5 I think
+[22:33:28] qrs: 46 Ne3 maybe for white?!
+[22:35:45] qrs: (46 Qe2) not sure this is better, am I missing some checks or threats after 46 Ne3 which kinda forces trades due to the threat of Nf5+
+[22:36:30] schittering06: I would've played Ne3 almost immediately without thinking (the without thinking part is probably why I am several hundred points lower rated
+[22:38:02] schittering06: Ne3 just looked so tempting but maybe there are problems with it, I couldn't find any yet
+[22:38:17] qrs: (48 Qe1) Dunno, I think both moves force the rook trade and white could’ve had the same position as now but with the knight on e3 or f5 inst
+[22:39:33] schittering06: Yeah that's true. Both probably work but my first instinct was indeed also Ne3
+[22:43:37] schittering06: Perhaps this Nh4 was the reason not to bring the knight to e3
+[22:44:23] qrs: Well now Nf5+ anyways that would’ve also worked from e3
+[22:44:53] schittering06: Yeah fair
+[22:46:09] qrs: 53. Qd7+ looks tempting , white just had to be careful to not allow a perpetual
+[22:47:25] schittering06: I guess you always have the h3 square to get out of perpetual if really necessary
+[22:52:15] yellorambo: should have played 58 Nh6
+[23:02:39] giziti: (66...Kd7) I feel like Nf4 and balck is in real trouble
+[23:03:10] schittering06: I agree
+[23:03:25] giziti: (66...Kd7) like you push h4 and Ng6 and you can't avoid losing a critical pawn
+[23:08:15] schittering06: I'm sure yello knows what he is doing, but to me black's a pawn starts looking quite dangerous while if white went for Nf4 their pawns would
+[23:08:30] schittering06: already be miles ahead
+[23:09:00] schittering06: But I'm pretty sure he calculated further than I can
+[23:12:03] yellorambo: I may very well have to accept a draw here
+[23:16:52] goldenretrieverchess: gg
+[23:16:52] mennonite: gg
+[23:16:52] schittering06: gg
