@@ -1,0 +1,34 @@
+Lichess game chat log
+Game      : https://lichess.org/inxRAjEz
+White     : ng_life
+Black     : lion88
+Time      : 30+30
+Captured  : 2026-10-09 23:45:34 UTC
+Game ended : 2026-10-09 22:25:26 UTC
+Messages  : 24
+────────────────────────────────────────────────────────────
+
+[21:08:16] ng_life: 10. h4 I looked at this before game, so I know h4 is correct
+[21:10:48] ng_life: 14. O-O-O getting out of prep now, from what I remember engine suggests d pawn doesn't matter if you lose it, just point bishops at king
+[21:16:08] ng_life: (16) I vaguely think bd3 might be right, sacking the d pawn, but I'm tempted to play na3 moving that n to e4 eventually potentially?
+[21:29:50] ng_life: 17. fxe4 I'm curious about the idea here, if it's just bg4 or ng4 I'm not sure that's worth an entire pawn?
+[21:30:06] ng_life: if it's ng4 I think I can just play bd4?
+[21:30:21] ng_life: I wonder if something crazy is coming like rxc3 Qxc3 nxe4?
+[21:38:44] ng_life: (19) I guess candidate moves are rf3 bd4 (exchange sack) bg1 or maybe d6?
+[21:42:17] ng_life: 19. be2 allowing bxc3 (dangerous) because I have the h3 rook also eying c3 to help defend if e.g. na4 to hit the pawn
+[22:00:48] ng_life: 22. rxe3 now there is no bxc3 threat to disrupt my pawns, so my position seems to be a risk free double past pawns?
+[22:01:19] ng_life: (23) I guess my opponent wants to play bh6 now?
+[22:26:12] ng_life: @lion88 I prepped this line until move 14, then I was on my own
+[22:26:57] ng_life: I think bxh3 is the losing move because the rook on third rank defends c3
+[22:27:12] ng_life: without the rook on h3 bxc3 was a big threat
+[22:27:12] lion88: I think maybe I was supposed to play e4 straight away
+[22:27:12] ng_life: maybe yes
+[22:27:43] lion88: and not allow Nh3
+[22:28:44] ng_life: engine actually doesn't love nh3, but says it's okay
+[22:29:45] lion88: Bxh3 was bad, allow the rook on the 3rd rank to defend everything
+[22:29:45] ng_life: yes it was a huge defender
+[22:31:01] ng_life: without the rook on third rank it would have been dnger
+[22:31:01] ng_life: gg
+[22:31:31] lion88: yeah I think everything after that was hard for me
+[22:31:46] lion88: engine says e4 was correct but very difficult to play afterward
+[22:32:17] lion88: gg
