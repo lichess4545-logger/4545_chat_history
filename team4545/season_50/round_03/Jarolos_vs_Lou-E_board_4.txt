@@ -1,0 +1,104 @@
+Lichess game chat log
+Game      : https://lichess.org/afAeaXs5
+White     : jarolos
+Black     : lou-e
+Time      : 45+45
+Captured  : 2026-10-09 21:20:17 UTC
+Game ended : 2026-10-09 20:00:09 UTC
+Messages  : 94
+────────────────────────────────────────────────────────────
+
+[17:31:22] lou-e: Hello to any teammates or specs who may drop in, gl to my opponent, let's gooooooo
+[17:31:37] lou-e: fuckin 1.b4, why not?
+[17:31:52] lou-e: Honestly why do I bother prepping
+[17:33:39] lou-e: At least I somewhat have something against this. I believe this is called the Baltic Defence
+[17:34:25] lou-e: So Nf3 means no e5, which is fine, because you usually want to go e6 anyway. So now just carry on with Ngf6 I guess
+[17:34:55] lou-e: Or am I concerned at all about Nh4? In which case maybe 4...e6 is prudent
+[17:36:27] lou-e: Ah but if I want Ngf6 then Nh4 is possible anyway. hmm ok I'll shut up
+[17:36:57] ysgwydd: (5.c4) Jarolos plays 1.b4 regularly I think
+[17:46:21] lou-e: Maybe 9...Qa8 was a bit more accurate, cos now I'm wondering about 10. Qa4
+[17:46:21] lou-e: But I spose getting myself castled is going to benefit me in the long run here
+[17:47:22] lou-e: Nah actually not worried about Qa4. c6 bxc6 Qxc6 and maybe then even Qa8
+[17:50:39] lou-e: This position feels somewhat critical
+[17:55:14] naveengeorge: It's the Polish not Baltic.  I think
+[17:56:15] lou-e: Oh damn actually Nb5 here is strong
+[17:56:15] lou-e: oops
+[17:58:17] lou-e: Maybe there's like 12. Ncb5 O-O 13. Nxc7 Qa3 or something
+[17:58:32] lou-e: Could also slink back to defend the pawn but would rather not if I can avoid it
+[18:02:05] lou-e: I'm going to argue that after 12...O-O Nxc7, White has some serious development problems, I think
+[18:03:37] lou-e: Ah, Qa3 Qa4 I guess
+[18:03:52] lou-e: But actually Qc1+?
+[18:06:39] naveengeorge: queen very close to being trapped
+[18:06:55] naveengeorge: N3b5?
+[18:06:55] naveengeorge: Ah wait b4 is hanging
+[18:11:14] lou-e: I think Qa4 would lead to a really interesting next few moves
+[18:12:30] lou-e: I'm thinking like 14. Qa4 Qc1+ 15. Ke2 {15. Nd1 Bc2 should be curtains I think} 15...Ne5!
+[18:13:46] glbert: go lou-e!
+[18:14:01] lou-e: Qa4 and then Qd1 would be boring, I would possibly have to accept the draw there
+[18:28:29] lou-e: Qa4 now is I think a mistake
+[18:29:00] lou-e: Qa4 Qx Nx Rc8 Nb5 Ra8 Nbc3 Bc2
+[18:36:22] lou-e: Ideas of Bd8 -> Ba5 -> Ra8 orsmth
+[18:49:49] lou-e: Time may soon become a relevant factor
+[18:52:52] naveengeorge: Are there any tactics with Rxa1
+[18:53:53] lou-e: Looking at Rxa1 ideas here. I think I win a little material but idk if it's worth giving my opponent the a-file for free
+[18:54:24] lou-e: And they may be able to for example go Qa8+ Bf8 Qxb7 anyway and recoup the material
+[18:54:39] naveengeorge: Wait how about Nxf2
+[18:54:54] naveengeorge: Must play Kxf2
+[18:55:24] naveengeorge: Bxd3 Qxd3 Rxa1 Rxa1 Qb2+
+[18:55:55] lou-e: Yeah I don't think I'll go for that
+[19:05:49] lou-e: I reckon my queen's done her job over on that part of the board now. Time to redeploy and try to pressure on the kingside / clock
+[19:06:19] lou-e: Rxa1 ideas were again not working there I think
+[19:11:39] lou-e: hmm yeah good move
+[19:13:11] lou-e: ye I'm not rly seeing an advantage any more
+[19:19:31] lou-e: Well this plan didn't amount to much
+[19:19:31] lou-e: Possibly I'm a bit worse now
+[19:22:04] naveengeorge: yeah :(
+[19:22:04] naveengeorge: Nd6 looks very good
+[19:30:26] lou-e: We're both just kinda flailing here I think
+[19:32:59] lou-e: Trying to get my pieces somewhat coordinated given my weak pawn on d5
+[19:35:16] lou-e: Meanwhile trying to sloooowly grind the clock down
+[19:42:37] naveengeorge: spicy
+[19:43:08] naveengeorge: Nxe3
+[19:44:09] mrscribbles: (38.Qf5) What a weird position
+[19:44:09] mrscribbles: (38.Qf5) Oh, yeah, Nxe3 looks compelling
+[19:44:24] naveengeorge: ah wait
+[19:44:24] naveengeorge: Nxe3 Qe5!
+[19:44:54] mrscribbles: (38...Ra5) good point
+[19:45:25] naveengeorge: oof looks good for white here
+[19:45:40] gavalanche20: Here am I am wondering if 39...Ne6 isn’t just good for Black lol
+[19:45:55] mrscribbles: (39...Bf8) You mean Nd6, yes?
+[19:45:55] mrscribbles: (39...Bf8) hi gav
+[19:46:11] gavalanche20: Hi no I meant Ne6 which is not only necessarily good but illegal haha
+[19:46:41] naveengeorge: Ne6 certainly would've deserved a brilliant lol
+[19:46:41] mrscribbles: (40.Qe2) lol nice
+[19:47:27] naveengeorge: Qe2? not sure what that does
+[19:48:12] naveengeorge: Bb6 threats if the knight moves
+[19:48:28] mrscribbles: (40.Qe2) When you're this low on time, any move that doesn't flag or blunder a piece is good
+[19:48:28] naveengeorge: Even though white's DSB looks great
+[19:50:45] naveengeorge: e4
+[19:51:30] lou-e: Marathon game this. Nearly 2.5 hours now
+[19:52:01] naveengeorge: Missed it
+[19:52:31] naveengeorge: e4 looked borderline winning
+[19:54:18] lou-e: This is starting to look pretty grim tbh. Don't think I can hold the pawn for much longer
+[19:54:33] lou-e: Should look for counterattacking ideas, but where are they?
+[19:56:36] lou-e: well there's one
+[19:57:21] naveengeorge: Bc5 prob holds
+[19:57:37] naveengeorge: That does not...
+[19:58:07] naveengeorge: Rxd5
+[19:58:38] naveengeorge: Please don't miss this lol
+[19:59:38] naveengeorge: Or that lol completely missed the hanging rook!
+[19:59:54] lou-e: Nf6+ now but I think Rx should win, unless I've missed something
+[20:00:09] naveengeorge: gg!
+[20:00:39] lou-e: Thanks, gg to my opponent
+[20:01:55] naveengeorge: I quite liked 17 Nxf2
+[20:05:44] lou-e: Well I had an attack at some point, missed Nxf2
+[20:05:59] lou-e: And then 23...e5 was just silly
+[20:05:59] naveengeorge: Wow completely missed the tactic at move 15
+[20:05:59] naveengeorge: LPDO
+[20:05:59] lou-e: But luckily the time siutation worked in my favour
+[20:06:29] lou-e: Ahhh yeah with Qa5 in the end
+[20:06:45] lou-e: Damn I missed that too
+[20:06:45] naveengeorge: What a bizarre fork
+[20:07:30] lou-e: Anyway I have to run to get to the chippy before it shuts, goodnight all and have a good weekend!
+[20:07:30] lou-e: Thanks for watching
+[20:08:01] naveengeorge: The dinner of champions
