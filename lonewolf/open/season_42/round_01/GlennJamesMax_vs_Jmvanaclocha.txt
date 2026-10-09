@@ -1,0 +1,122 @@
+Lichess game chat log
+Game      : https://lichess.org/EJ9unbxj
+White     : glennjamesmax
+Black     : jmvanaclocha
+Time      : 30+30
+Captured  : 2026-10-09 11:02:12 UTC
+Game ended : 2026-10-09 09:42:03 UTC
+Messages  : 112
+────────────────────────────────────────────────────────────
+
+[08:02:47] glennjamesmax: sigh no Budapest
+[08:04:18] glennjamesmax: 8.e5 well now he can have a long think about this one, unless he's seen my games and prepared for it
+[08:08:22] glennjamesmax: 11.Qd2, I guess he prepared Qe2 which I believe Simon Williams played against Gawain...
+[08:08:52] glennjamesmax: 11.Qd2 Nxe5 12.Nxe5 Bxe5 13.0-0-0 is a very nasty attack
+[08:11:56] glennjamesmax: 11...Nd7 no way ! Did he find that on his own?!
+[08:12:26] glennjamesmax: This is a little better than the immediate capture as he will get knight on d5 instead of bishop
+[08:22:05] glennjamesmax: I mostly know the point of this attack, so there's a conscious effort to pressurize him on the clock
+[08:28:25] gavalanche20: (15...h6) Hm this is feeling a bit suspect
+[08:28:41] gavalanche20: (15...h6) Was thinking maybe ...h5 or ...Qb4 hitting c4 and also getting out of the way of the b-pawn one day
+[08:30:12] gavalanche20: (15...h6) Actually hmmm I guess if White can't sac here then g5 comes closing the kingside and White doesn't have an f pawn break
+[08:32:59] glennjamesmax: 16.Be2 Nf2 17.Bxh6 looks like a very scary attack to me...
+[08:34:00] glennjamesmax: 16.Be2 was a very tough decision because I also had Bf4 g5 Bxg5 or Bf4 e5 Bg3 which looked good
+[08:39:20] glennjamesmax: the more I look at the position, the more bluffy my sacrifice feels.
+[08:40:36] glennjamesmax: 16...e5 phew this worked
+[08:44:40] glennjamesmax: 17...Re8 one drawback of e5 is I have the unexpected Na4 Bxc5 maneuver maybe?
+[08:45:26] glennjamesmax: okay no Qa6 Nxc5 Qxa2, not ideal....
+[08:46:42] glennjamesmax: now I have my own fork with Nd5 and Nc7 coming
+[08:52:33] glennjamesmax: another irritating factor for black is he has to keep looking at hxg6 in every line
+[08:53:34] glennjamesmax: 18...Be6 very slow? I can now play 19.d7 and that's an extra tempo anyway as be6-xd7 is a waste
+[09:00:10] glennjamesmax: I have a feeling he hasn't noticed d7 yet....I'm trying to save the exchange and then do that
+[09:01:57] glennjamesmax: 19...Nf2 it simply doesn't work at this moment?
+[09:02:42] glennjamesmax: Kxf7 is a pin and now d7 and I will promote there will be a check with my final capture and my rooks won't be hanging
+[09:04:59] glennjamesmax: and the real problem isn't that my rook isn't hanging, but his knight is trapped on f2 after Rf1
+[09:08:02] glennjamesmax: almost a clever save, but there's a problem he's going to notice soon
+[09:10:04] glennjamesmax: no my idea doesn't work
+[09:10:34] gavalanche20: Ngl I have not spotted said problem yet, did this work for Black?
+[09:10:50] gavalanche20: King still exposed though so if the queens stay still need to be careful
+[09:36:13] glennjamesmax: there's every chance of his blundering something in time pressure
+[09:37:14] gavalanche20: (15...h6) Can Kg5 be played
+[09:41:02] gavalanche20: (47.Rd6+) Ngl I thought 48...Re1+ was game over but time pressure is difficult
+[09:41:17] gavalanche20: (50.Nxc5) Ok now it's there
+[09:43:04] jmvanaclocha: I could manage the difficult game
+[09:43:34] jmvanaclocha: I was lost in the mid game but fortunately you didn't see the correct continuation ufff
+[09:43:50] glennjamesmax: Yeah, just too careless and I just missed Re8 in that line, so didn't look for anything better
+[09:44:05] glennjamesmax: Very very disappointing and then Nd5 instead of Bd5 was so poor
+[09:44:35] jmvanaclocha: Yes.
+[09:44:35] jmvanaclocha: My first idea was to play Budapest
+[09:45:06] glennjamesmax: I'm a Budapest expert myself....
+[09:45:21] jmvanaclocha: But I saw you also play Budapest with black and I went back to my old KI
+[09:45:21] jmvanaclocha: KID
+[09:47:38] glennjamesmax: Just a little bit more attention and that would have been an absolutely brutal win
+[09:48:54] glennjamesmax: This sort of play is why I'm not 2200....
+[09:50:40] jmvanaclocha: Do you play OTB fide?
+[09:50:40] glennjamesmax: Yes, of course!
+[09:51:11] glennjamesmax: I'm way stronger OTB but it's India's so I'll be rated lower than you...
+[09:51:56] glennjamesmax: The quality of play here is so high...basically these kids are all aiming to be pro
+[09:52:12] glennjamesmax: it's really brutal
+[09:54:29] glennjamesmax: Ah okay, I'm Indian 1670,
+[09:54:44] glennjamesmax: But that's 2000+ in Europe for sure.
+[09:54:44] jmvanaclocha: And 54 years old, so it Will be difficult for me to go up a lot
+[09:54:59] glennjamesmax: Don't worry about age. I'm 40, and this is the strongest I've ever been.
+[09:55:14] glennjamesmax: I will 100% hit 2250 here this year....
+[09:55:14] jmvanaclocha: What happens with Elo fide in India? Is not real)
+[09:55:45] jmvanaclocha: Is not real?
+[09:55:45] glennjamesmax: Like it's so deflated you can't even imagine. Like in nearby city tourney just finished. $1k USD first
+[09:56:15] glennjamesmax: was won by a 1980 rated player (and there was 2430 IM 2395 FM playing)
+[09:56:30] glennjamesmax: and this 1980 player is actually FM/IM strength. One 16 yo boy in this tourney is 2195. Never played outside India
+[09:56:30] jmvanaclocha: So the Elo in India is deflated? Why?
+[09:56:46] glennjamesmax: Because everyone is so strong
+[09:57:01] jmvanaclocha: ahh, i see
+[09:57:01] glennjamesmax: Unrated players are playing like Lichess Classical 2100+
+[09:57:16] jmvanaclocha: Waw
+[09:57:16] jmvanaclocha: Are you young or adult?
+[09:57:31] glennjamesmax: I can link you a study of games I beat unrated
+[09:57:31] glennjamesmax: Adults these were
+[09:58:02] glennjamesmax: You won't believe the amount of work and calculation needed to beat these people
+[09:58:47] jmvanaclocha: Waw.India is probably the most strong country in chess
+[09:59:02] glennjamesmax: I think Uzbekistan might be similar
+[09:59:18] jmvanaclocha: Maybe, but they are less people
+[09:59:33] glennjamesmax: quality and culture>quantity always
+[09:59:33] jmvanaclocha: India is 1.3Kmilion, right?
+[10:00:03] glennjamesmax: Yeah. But before our chess boom, despite numbers there was nothing...it's the culture that counts
+[10:00:18] jmvanaclocha: In which city do you live?
+[10:01:04] jmvanaclocha: I live in Valencia, in the Mediterranean coast of Spain
+[10:03:21] glennjamesmax: Calcutta
+[10:03:36] glennjamesmax: Outside of Tamil Nadu, I'd say Calcutta is the strongest chess region of India
+[10:04:22] glennjamesmax: Calcutta is also coastal...a major port city (so is Chennai for that matter)
+[10:04:37] jmvanaclocha: Ok, fine
+[10:05:07] jmvanaclocha: Have you seen that this is the second time we play?
+[10:05:23] glennjamesmax: Yes, I noticed only during the game. Last time you were much higher rated
+[10:05:38] glennjamesmax: I've just had huge jump in strength recently
+[10:05:38] jmvanaclocha: One year ago, it was a morra gambit, crazy game
+[10:06:08] jmvanaclocha: You were 1900 I think. 250 points in one year congratulations
+[10:06:24] glennjamesmax: Your gambit or mine?
+[10:06:39] jmvanaclocha: Mine
+[10:06:39] glennjamesmax: I also play Morra as White...
+[10:06:39] jmvanaclocha: Yes, I know it
+[10:06:54] jmvanaclocha: I was prepared to have you today.
+[10:07:09] glennjamesmax: We prefer same type of game. I was actually considering playing something less sharp today.
+[10:07:09] glennjamesmax: Because of your style, but was a bit overconfident..
+[10:07:40] jmvanaclocha: But I played slowly to seem that I am not prepared
+[10:08:10] jmvanaclocha: My last theory move was Nd7
+[10:08:25] jmvanaclocha: From then you play better than me
+[10:08:25] glennjamesmax: Ah okay! That's why. I was like how on earth could someone find that move!
+[10:08:41] glennjamesmax: I knew it was best, but I was still sort of shocked you played it
+[10:09:42] glennjamesmax: It definitely had some effect, because it left me thinking you're just playing super strong. only after Be6 I was super confident
+[10:09:57] jmvanaclocha: I am always prepared, I like to do it. But sometimes I do longer thinking to show that I'm not prepared (hehe)
+[10:09:57] glennjamesmax: Very smart thing
+[10:10:12] glennjamesmax: I've done that a few times myself.
+[10:10:12] jmvanaclocha: Yes
+[10:10:42] jmvanaclocha: I've noticed that we both like same openings
+[10:10:42] glennjamesmax: I just had to evaluate d7 correctly...missed Re8
+[10:10:42] glennjamesmax: Yeah totally same style
+[10:10:58] jmvanaclocha: Budapest, morra, Sharp games
+[10:11:28] jmvanaclocha: Yes, I saw that e7 in that moment didnt work
+[10:11:28] jmvanaclocha: I was lucky
+[10:11:43] jmvanaclocha: Sorry, I meant d7
+[10:12:29] glennjamesmax: If I'd noticed that I'd definitely find one of the solutions. Rdf1 or Nd5
+[10:12:59] jmvanaclocha: Very nice conversation! Good luck for the next games. And best regard to Calcutta.
+[10:13:15] jmvanaclocha: See you soon
+[10:13:15] glennjamesmax: You too! I'm sure you will do very well this tourney if you play at this level
+[10:13:30] glennjamesmax: You can feel like you beat 2250+ I assure you..
