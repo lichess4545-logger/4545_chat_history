@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/3TB6jTJn
+White     : bjonse
+Black     : polkyman
+Time      : 45+45
+Captured  : 2026-10-09 20:14:19 UTC
+Game ended : 2026-10-09 18:54:10 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[17:27:19] kayrosas: gl polky
+[17:37:59] leverkuhn: hmmm how do we feel about this Stonewall?
+[17:38:29] mrscribbles: (13...Bd7) no idea
+[17:38:44] mrscribbles: (13...Bd7) How do you feel about it?
+[17:38:44] leverkuhn: looks like a good version for Black to me as long as he doesn't fall into tactcs based on the c-file pin
+[17:38:59] mrscribbles: (13...Bd7) I don't play in to this for either side, so no idea if it's any good
+[17:39:15] mrscribbles: (13...Bd7) these closed positions make my tiny brain hurt haha. fun to watch tho
+[17:39:45] leverkuhn: Black's lsb will function pretty well from h5, and I feel like it's hard for White to ever play f3 in this structure
+[17:41:47] mrscribbles: (14...exd5) Good points
+[17:42:33] mrscribbles: (15.Ndf3) Feels like e5 will be white's crown jewel here
+[17:42:48] leverkuhn: for sure, that's a constant in every Stonewall
+[17:43:04] leverkuhn: I don't think White has a bad position or anything, but often the Stonewall is a disaster for Black
+[17:43:19] leverkuhn: and this probably isn't one of those times
+[17:45:21] kayrosas: both queens feel kinda misplaced
+[17:46:06] leverkuhn: yeah I think White had an option to play for c5 and b4-b5, which his queen was in the way of
+[17:46:22] leverkuhn: now he's gone for 14.cxd5 instead, which wasn't my instinct
+[17:47:07] leverkuhn: and Black players often like to slowly shift their major pieces to the kingside if possible
+[17:47:22] kayrosas: imagine black could move their f pawn back to f7
+[17:47:53] leverkuhn: hmmm Black wants to play for ...g5?
+[17:48:54] kayrosas: I hope not xd
+[17:49:24] mrscribbles: (15...h6) Sometimes when I get this sort of thing in Bullet, I'll go like Kf1 Ke1 Kd2 Kc2 Kb1 to get out of trouble
+[17:49:24] mrscribbles: (15...h6) Doesn't always work, but it's definitely always fun
+[17:49:40] leverkuhn: that would be quite something!
+[17:49:55] mrscribbles: (15...h6) Doubt it'll be as effective in classical haha
+[17:49:55] kayrosas: one good thing about the Qb3 is that it can swing over to g3 in some cases
+[17:50:25] leverkuhn: White might take advantage of 15...h6?! with 16.Ng6 and other knight to e5
+[18:38:25] leverkuhn: I had to step for this wild middlegame, but looks like White did play f3 eventually and sort of got away with it
+[18:38:40] leverkuhn: I wonder if he could have played 27.Kh1 instead of 27.Rf1
+[18:39:56] leverkuhn: instead he ended up losing control and now has to play a difficult position with no king shelter
+[18:40:42] leverkuhn: should he just brazenly play 34.Qxb7 here and ignore the discoveries?
+[18:47:03] leverkuhn: oof, White transitioned to a hopeless king-and-pawn endgame
+[18:47:18] leverkuhn: that's a sigh of relief for Black
+[18:47:48] leverkuhn: he still had a lot of work to do to convert his attack
