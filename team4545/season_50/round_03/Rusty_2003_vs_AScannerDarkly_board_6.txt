@@ -1,0 +1,34 @@
+Lichess game chat log
+Game      : https://lichess.org/5Yj3houN
+White     : rusty_2003
+Black     : ascannerdarkly
+Time      : 45+45
+Captured  : 2026-10-09 20:31:35 UTC
+Game ended : 2026-10-09 19:11:26 UTC
+Messages  : 24
+────────────────────────────────────────────────────────────
+
+[18:19:22] kayrosas: go rusty!
+[18:41:58] leverkuhn: 17.Bxf7 pretty strong now, no?
+[18:42:43] leverkuhn: White set this undermining up nicely with 15.h4!
+[18:43:14] leverkuhn: White can also play 17.Nxe5!! I think with pin/distraction motifs
+[18:44:30] leverkuhn: He's found this excellent strike and Black's position is collapsing like a house of cards
+[18:45:31] killeritch: Can black not just play Ngxe5
+[18:46:01] killeritch: And if Qxe5 then the knight is no longer pinned
+[18:48:34] leverkuhn: the rook on f8 hangs
+[18:49:04] leverkuhn: that was the distraction part of it, beautiful
+[18:49:35] killeritch: Got it ty
+[18:53:09] leverkuhn: 18.Nxg6 wasn't the cleanest though, as Black counterattacks f2 now
+[18:53:24] leverkuhn: White could have won way more material with 18.Nxf7+ i think
+[18:55:42] leverkuhn: now 19...Rf6 followed by doubling and Black is sort of back in the game
+[18:57:28] leverkuhn: maybe more than sort of, the Rd2 impedes White's knight development and ...Nc6-e5-g4 is coming
+[19:00:16] leverkuhn: 20...Raf8 21.Na3 Ne5 22.Qxe5 Rxf2 23.Rxf2 Qxf2+ 24.Kh1(2) Qxh4+ is a draw by perpetual
+[19:00:31] leverkuhn: wait no, White's queen blocks on h2
+[19:01:17] leverkuhn: Scanner's going to have to be cleverer than that, hmmm
+[19:12:12] ascannerdarkly: Ha, lever called it on move 20.
+[19:12:42] rusty_2003: ng6 Im gonna lose sleep over that for the next few weeks
+[19:12:42] rusty_2003: or months
+[19:19:18] leverkuhn: no way!
+[19:19:33] leverkuhn: wasn't the queen block winning?
+[19:21:05] leverkuhn: I guess Black does have some comp for the piece still
+[19:22:06] leverkuhn: well 17.Nxe5! was a great find
