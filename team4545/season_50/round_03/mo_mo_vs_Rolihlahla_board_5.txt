@@ -1,0 +1,112 @@
+Lichess game chat log
+Game      : https://lichess.org/oEbeEA5D
+White     : mo_mo
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-10-09 20:43:46 UTC
+Game ended : 2026-10-09 19:23:38 UTC
+Messages  : 102
+────────────────────────────────────────────────────────────
+
+[18:02:07] jfiras: Good luck Rolihlahla !
+[18:02:53] ttsgosadow: Yes, lets go Roli!
+[18:02:53] rolihlahla: hi Tim & jfiras  :-)
+[18:03:39] jfiras: hey Ro !
+[18:04:24] timothyha: (4...d6) Ro, ro, ro!
+[18:04:39] rolihlahla: hi Captain -  Bd3 was strange ...
+[18:06:41] king_hunter-1: Good luck Eric!
+[18:07:27] timothyha: (7...Ba5) Bd3 could be a mouse slip, maybe we can win bishop pair with Nbd7 Nc5 later if we have time
+[18:07:42] mohamad_bn_walid: good luck momo
+[18:10:45] ttsgosadow: Need to make room for dark bisshop
+[18:12:01] ttsgosadow: Now Na4 can get him the bishop pair
+[18:12:32] timothyha: (9...Nc6) probably ok since pawns are on e5 d6 c7 already
+[18:20:09] rolihlahla: Hi Artur!
+[18:26:14] king_hunter-1: hey
+[18:29:48] ttsgosadow: Opening for the rook on f file is nice for attacking options
+[18:30:18] timothyha: (14.c3) dxc3 and e5 and Black is fine
+[18:30:49] timothyha: (14.c3) Qe8, Nh5, Nf4 after that I think
+[18:31:19] timothyha: (14.c3) Nh5 Ng3 too
+[18:33:06] ttsgosadow: Could also play e5 now, and take back with bishop to trade bishops
+[18:33:21] timothyha: (14.c3) no, our bishop is better, why trade
+[18:33:36] timothyha: (14.c3) it has a future on f2
+[18:33:51] conan_9: White is better
+[18:34:22] ttsgosadow: When opponent has bishop pair, and you dont, one goal is to trade the bishop (Silman keeps repeating that in his book, at least)
+[18:34:52] ttsgosadow: But this might be a time to stray from that general principle of it has a good place
+[18:36:08] timothyha: (17...Kh8) Ro just wants to join the NvB endgame club with me
+[18:36:24] timothyha: (18.Qc4) but his opponent immediately won a pawn
+[18:37:40] ttsgosadow: :/
+[18:38:10] timothyha: (18.Qc4) there's d5 now though
+[18:38:10] ttsgosadow: Calculating d5
+[18:38:10] timothyha: (18.Qc4) it's playable
+[18:38:41] ttsgosadow: Yeah, might even win a pawn
+[18:38:41] timothyha: (18.Qc4) then play against IQP
+[18:39:42] timothyha: (18.Qc4) d5 exd5 Nxd5 Qxd4 Nf4
+[18:41:13] timothyha: (18...d5) I wonder if White will get to 60 mins this game
+[18:41:13] ttsgosadow: Lol
+[18:44:46] timothyha: (20.Qxc7) I don't quite like this pawn sca
+[18:44:46] timothyha: (20.Qxc7) sac
+[18:45:17] timothyha: (20.Qxc7) it wasn't necessary
+[18:45:17] jfiras: (20.Qxc7) i agree
+[18:46:03] timothyha: (20.Qxc7) the queen defends the king from c7 nicely, unlike Qxd4 and getting under fire on d file
+[18:47:04] timothyha: (20.Qxc7) now it's difficult to find some play for Black pieces
+[18:47:34] timothyha: (20.Qxc7) Nh5 g3, I think
+[18:47:34] timothyha: (20.Qxc7) then Qf3 maybe?
+[18:47:49] timothyha: (20.Qxc7) then perpetual-check the Q with Rs on the backrank
+[18:48:05] timothyha: (20...Rac8) otherwise Nxg3 and draw
+[18:48:20] timothyha: (21.Qg3) ok, Nh5 Qh2 Nf4 for the moment
+[18:48:35] timothyha: (21.Qg3) ah Qg6...
+[18:49:06] jfiras: (21.Qg3) yes Qg6
+[18:50:06] jfiras: (21.Qg3) the knight should stay there for now
+[18:51:38] jfiras: (21.Qg3) the bishop on d3 is surprisingly well placed
+[18:51:53] jfiras: (21.Qg3) avoiding any rook infiltration too
+[18:56:43] timothyha: (21.Qg3) we might see a Qg5 now, I think Ro might want that chance in the endgame
+[18:56:58] timothyha: (21.Qg3) as long as White keeps moving fast, it'll be a fun endgame
+[18:57:13] timothyha: (21.Qg3) Qg5 attacks d2
+[18:57:59] timothyha: (21...Qg5) see! we mathematicians are on the same wavelength
+[18:58:29] ttsgosadow: I dont know about the position, with pawns on both sides I think the player with the bishop has an advantage
+[18:58:44] timothyha: (23.Rfe1) it takes time to achieve a technical win for W
+[18:58:44] timothyha: (23.Rfe1) but they're not using time!
+[18:59:15] ttsgosadow: He could take a really long think now :)
+[18:59:15] timothyha: (23.Rfe1) Nd5 Nf4 and start some counterplay
+[18:59:45] timothyha: (23.Rfe1) we can drop g4 and attack f2 and d2
+[19:00:31] timothyha: (23.Rfe1) I think W is playing for some 60-min trophy from Tranzoo
+[19:01:02] timothyha: (23...Rfe8) exchanging rooks is too early Ro
+[19:01:02] timothyha: (23...Rfe8) 3x danger is better than 2x
+[19:02:33] jfiras: (25.Rc1) that bishop is soo annoying
+[19:03:19] timothyha: (25.Rc1) Nf4 would kick it to a worse square
+[19:03:34] timothyha: (25.Rc1) Nd5 Rc5 Nf4 I guess
+[19:04:05] timothyha: (25.Rc1) if Bf1 we win it with Re1
+[19:07:38] timothyha: (25.Rc1) tough game
+[19:08:24] timothyha: (25...Rd8) that's losing I think
+[19:08:39] timothyha: (25...Rd8) the tactics...
+[19:09:09] timothyha: (25...Rd8) Rc7 Rd7 Rc8+ Ng8 Bc4
+[19:10:10] timothyha: (25...Rd8) the game was OK before allowing cxd4 I think, afterwards a few decisions caused this
+[19:11:57] timothyha: (28.hxg4) oh, so here's why Ro had the long think!
+[19:11:57] timothyha: (28...Nxg4) I am hopeful again :-)
+[19:12:27] timothyha: (28...Nxg4) it's still a technical endgame to be won and W does need to spend time
+[19:12:58] timothyha: (29.Rd5) Re8 :-)
+[19:13:13] timothyha: (29.Rd5) Re8 g3 Ne5 and fork
+[19:13:28] timothyha: (29.Rd5) if Rxd4
+[19:14:14] jfiras: (29.Rd5) i think white might go for the Rxd4
+[19:14:14] jfiras: (29.Rd5) Bf1
+[19:14:29] timothyha: (29.Rd5) yeah, I see Bf1 now :-)
+[19:17:02] timothyha: (30.g3) all the more reasons to play Ne5 now
+[19:17:17] jfiras: (30...Ne5) yeah good one
+[19:17:47] jfiras: (30...Ne5) Rxd4 come on :D
+[19:18:18] ttsgosadow: Hope chess :(
+[19:18:33] timothyha: (30...Ne5) the blitzing players usually see simple tactics fast
+[19:18:48] timothyha: (30...Ne5) you probably need to build up solid positions without obvious tactics to beat them
+[19:19:34] timothyha: (31.Be4) still a chance for a draw if both d pawns disappear
+[19:20:20] king_hunter-1: 31.Be4 Nc4 32. Rxd4 Nxd2 maybe
+[19:20:35] king_hunter-1: if 33.Bg6 Re1+
+[19:20:35] timothyha: (31.Be4) the a+b pawns aren't ready
+[19:21:05] timothyha: (31.Be4) for the line with Nxd2 Rxd2 Rxe4 Rd7
+[19:21:21] timothyha: (31.Be4) but Re1+ and Ra1
+[19:21:21] timothyha: (31.Be4) ok, we could get a rook endgame like that
+[19:22:22] timothyha: (32.Rh5+) oops
+[19:22:37] timothyha: (32.Rh5+) ok, W is a good blitzer
+[19:22:52] jfiras: (32.Rh5+) oh wow
+[19:23:22] jfiras: (36.Bxc4) what a nice sequence by white
+[19:23:22] jfiras: gg !
+[19:27:56] king_hunter-1: gg
+[19:28:57] king_hunter-1: How did I even miss Rh5 after Nc4? I guess I was thinking too superficially
