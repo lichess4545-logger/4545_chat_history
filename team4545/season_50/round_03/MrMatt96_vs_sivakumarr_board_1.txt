@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/A4CAIcJs
+White     : mrmatt96
+Black     : sivakumarr
+Time      : 45+45
+Captured  : 2026-10-09 16:37:58 UTC
+Game ended : 2026-10-09 15:17:47 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[12:15:56] wtm22: Let’s go sivakumarr!!!
+[12:16:42] sivakumarr: (9.Nxe4) My thinking with dxe4 is that Bb4 followed by a3 isn't enough for me - my knight hops with tempi eventually end
+[12:18:59] sivakumarr: (10.Bg2) 8...Bb4 9. a3 Bxc3 10. bxc3 dxe4 11. Qxe4 Ngf6 12. Qd3 Rd1 hopes too much for Nc5, and it isn't even definitively good
+[12:20:30] sivakumarr: (10...Nxe4) 8...dxe4 looked better via only one knight needing an outpost and not two
+[12:23:33] sivakumarr: (11...Nf6) Rd8, c5 ideas
+[12:26:05] sivakumarr: (13.c3) If I knock off d4, I should be equal
+[12:29:24] sivakumarr: (13...c5) I don't see anything particularly nice for White. Be3 is an idea, but exchange, Bc5 is probably sufficient
+[12:36:00] sivakumarr: (15.Qe2) I really wish Bxf2, Rd1+ could work as a tactic
+[12:53:01] sivakumarr: (18...Qc7) Hmm, maybe I spoke too soon - Qb4 looks annoying
+[12:59:22] diecast_illusion: Go matt :D
+[12:59:53] sivakumarr: (19...b6) I think 19. Qb4 won a pawn or more by force without even having to part with their LSB
+[13:05:43] sivakumarr: (19...b6) Maybe 17...Rd7 was better: I suffer a horrid kingside pawn structure, but I have the d-file and can maybe consolidate via ...
+[13:05:43] sivakumarr: ...f5 and etc.
+[13:11:04] sivakumarr: (20...h6) The rook trade seems unfavorable: I lose the d-file or go passive with my queen or bishop on d8.
+[13:12:51] sivakumarr: (20...h6) For now, I stop back rank ideas and wait for something committal from White
+[13:14:22] sivakumarr: (21.Rac1) What other waiting moves do I have?
+[13:15:38] sivakumarr: (21.Rac1)  Hmm, maybe Bc5 was better a move ago.
+[13:16:24] sivakumarr: (21.Rac1) Now b4 will come with tempi after an exchange since c3 is protected.
+[13:16:39] sivakumarr: (21.Rac1) Oh well
+[13:17:55] sivakumarr: (21.Rac1) My idea is that I don't have to take b4 and that, after a queen retreat, bxa5 is favorable for me
+[13:27:21] sivakumarr: (22...Bd6) Essentially a draw offer - I think everything else is worse than Bd6
+[13:27:36] sivakumarr: (23.Bxd6) Not that Bd6 is good, just that everything else is worse
+[13:29:38] sivakumarr: (26.Qd3) Annoying, I wanted to trade the rooks too
+[13:31:09] sivakumarr: (26...Rb8) Probably time for king mobilization; If White wants 27. Qd6, by all means I'll trade
+[13:32:56] sivakumarr: (26...Rb8) I don't see anything with Queens off that can break me down (watch me lose that)
+[13:34:28] sivakumarr: (26...Rb8) It's not obvious what White's plan should be while mine is quite obvious: Kf8-e7, Rd8
+[13:34:58] sivakumarr: (26...Rb8) Notably, most of my pieces are on dark squares, and my knight covers Qh7 infiltrations
+[13:35:28] sivakumarr: (26...Rb8)  And I control the a3-f8 diagonal
+[13:42:04] sivakumarr: (29...Ne8) Maybe the queenstorm is too quick, idk, I struggle to believe that my king can't bully its way to equality
+[13:47:09] sivakumarr: (31.cxb4) Unfortunate - axb4 definitely didn't work
+[13:50:58] sivakumarr: (31...Ke7) With a4-a5, I should be able to swing my rook behind the pawn for some straightforward cleanup
+[13:57:34] sivakumarr: (33...Rc8) Either I'm correct and this is an easy draw, or I'm about to be in pain for the next thirty moves
+[14:37:56] qrs: (50. Ba8) isnt that a bit passive for white? Cant black just play g5 etc and push on the kingside now?
+[14:38:26] qrs: I mean, it should probably still be a draw
+[14:50:52] sivakumarr: (59...Ke5) Has to be a mistake allowing the king tempo, but idk if it's winning
+[14:56:12] qrs: Not easy, but i dont think black can make progress here cause the knight cant move away from the a pawn further then 1 move
+[14:56:27] qrs: At the same time the bishop can just go back and forth..
+[14:56:58] wtm22: I agree
+[15:00:01] qrs: Well black could potentially go all out and try to go forward with 64. ... Kd4 followed by Nc3+ but thats probably madness
+[15:01:01] qrs: Wow, I guess black has calculated it through (I was too lazy)
+[15:01:32] qrs: So now 66. ... e2 followed by Nf3+ or Nc2+ and then black queens first(?), potentially with check
+[15:05:36] qrs: Ok, wtf did black do now?!
+[15:06:06] qrs: (70. Be8) Sorry for my language, I am just shocked returning after 40 moves and seeing
+[15:06:36] qrs: *after 4 moves and seeing that black has just given up the pawn and might actually be in trouble
+[15:16:46] sivakumarr: (76...Kd4½?) Almost got too greedy, but I should be safe here
+[15:17:01] sivakumarr: (76...Kd4½?) I feel like I had to have had a win, but I have no idea where
+[15:17:47] sivakumarr: (76...Kd4½?) Maybe 66...Ke5, but that just looks like checks galore
+[15:18:02] wtm22: Good game
+[15:20:04] sivakumarr: @qrs Got a little lucky, panick moved with 4 seconds left into something lost but survived
+[15:21:20] sivakumarr: Dang, my last advantage was move 39, Ke6 was nowhere on my radar
+[15:21:20] mrmatt96: Man...I noticed right after I played it that 70.Bd5 must have worked better. With 8 minutes on the clock too. That's embarrassing
+[15:23:22] sivakumarr: Yeah, Nc2 was not my best idea
+[15:23:37] mrmatt96: Time crunch panic?
+[15:24:23] sivakumarr: I was so locked in on going towards mate and didn't see Kd2 or Kf2 after 66...e2 until my last 20 seconds
+[15:26:09] mrmatt96: Makes sense.
+[15:26:09] sivakumarr: A bit of time crunch panic, a bit of feeling like there has to be something there and not wanting to settle into a draw
+[15:28:11] sivakumarr: I was hoping you wouldn't play 7. d4. I wanted to be able to push d4 myself
+[15:28:56] mrmatt96: Yeah, once ...Nd7 is committed, White is fine going for d4.
+[15:28:56] mrmatt96: I would have been okay with allowing ...d4 at some point as well, but it leads to different types of positions
+[15:29:27] mrmatt96: 19...b6 was nice. I thought I was close to winning at that moment but underrated how resilient it was
+[15:30:43] sivakumarr: Yeah, b6 was a really good blockade
+[15:31:29] sivakumarr: I thought you'd have more chances keeping queens on
+[15:31:44] sivakumarr: Although it's hard to find a plan for White
+[15:32:14] qrs: GG
+[15:32:29] mrmatt96: That was my thinking, yeah. Still gotta play for the outside passer, but it's slow going.
+[15:32:29] qrs: (and thanks for the explanation, time pressure ofc explains it)
+[15:34:01] mrmatt96: 27.b4 Rc8 28.Rc1 axb4 29.axb4 for example and I thought I just got stuck
+[15:35:17] sivakumarr: Yeah, Black has just enough control to stymie most anything
+[15:36:33] mrmatt96: Maybe I needed to keep the dark-squares bishops on the board, just try to keep prodding
+[15:36:48] sivakumarr: 34. Rxc8 was probably best, the immediate a4 thereafter is really annoying for Black to organize
+[15:37:04] mrmatt96: Yeah, I'm struggling to understand what scared me away from the rook trade
+[15:37:34] sivakumarr: I was very happy to see a non-trade - gave my rook the full file to infiltrate on and to get behind the pawn
+[15:38:20] mrmatt96: Exactly. My inner Shereshevsky wasn't screaming "Suppress the counterplay!" loudly enough, I guess
+[15:39:51] sivakumarr: I think this is my longest 4545 game. I'm gonna head off; good luck in the rest of the season
+[15:39:51] mrmatt96: Thanks, you too
