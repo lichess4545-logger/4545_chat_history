@@ -1,0 +1,59 @@
+Lichess game chat log
+Game      : https://lichess.org/l95Pk752
+White     : monocarp
+Black     : staincastle
+Time      : 45+45
+Captured  : 2026-10-10 01:55:16 UTC
+Game ended : 2026-10-10 00:35:08 UTC
+Messages  : 49
+────────────────────────────────────────────────────────────
+
+[23:02:28] monocarp: normally I play 4.d4 but I guess black has looked at that, and I've been going off of it a bit anyway
+[23:06:02] monocarp: (5... O-O) wondering if 6.h3 is bad or not, because I would like my DSB on e3, but Be3, Ng4, and I don't know where to move the bishop
+[23:09:50] monocarp: also, if my long term plan is queenside castles, then maybe I should wonder about Na5, Bb3, Nx, ax
+[23:11:06] monocarp: (6... d6) actually g4 is quite tempting here
+[23:11:52] monocarp: (7.g4) you only live once
+[23:12:23] bickedag: g4 aura
+[23:19:29] monocarp: I guess Nxe5, g6, Nf3 does put me up a pawn, but black will grab the LSB and double my pawns
+[23:20:15] monocarp: but okay, it should be played probably. I just need to calculate tactics
+[23:22:32] gavalanche20: (9.Nxe5) Black may also be able to win g5 back although debatable if it's worth it since it exposes the g file
+[23:24:03] bickedag: seems like there is also 9... dxe5 10. Qxh5 Nxc4 dxc4 Qd4 to get something going
+[23:28:08] monocarp: (10. g6) the move that I'm currrently thinking about is if Nd5 Bxg5 Rg1 is good for me or not?
+[23:28:23] monocarp: if I decide not I'll probably play h4 and life goes on
+[23:29:24] monocarp: It's just if I go h4 black can go Re1 then Bf8 and (probably after messing around with the knight) go Bg7
+[23:29:39] monocarp: although maybe that plan is much too slow
+[23:31:11] monocarp: but anyway, Nd5, Bxg5, Rg1, Bxc1, Qxh5 and black's bishop has no squares
+[23:33:13] monocarp: maybe Nd5, Bx, Rg1 and then h6? but then I'll play h4...
+[23:33:58] monocarp: I probably shouldn't be complicating a position where I'm a little better, but I do like it
+[23:37:16] monocarp: (11. Nd5) although c6 at the right moement could work... maybe an oversight
+[23:37:16] monocarp: not in this position though
+[23:39:03] monocarp: but also it might not, because I have Ndb6 then...
+[23:43:52] monocarp: I know I'm starting to maybe have to worry about king safety, but If I can play b3 and Bb2 somehow I'll stand much better
+[23:55:32] monocarp: (14. h4) I feel I've misplayed a bit. I think I was better than this on move 10
+[23:55:32] monocarp: (and black has played well then too ig)
+[23:57:04] monocarp: black's previously bad pieces have just gained squares, the bishop has f5, the knight f4...
+[23:58:20] monocarp: I'd love it if I could play f3 to solidify by that is currently guarding against the Ng3 fork
+[00:05:11] monocarp: wondering if f3 is a good exchange sac?
+[00:05:42] monocarp: I just really don't like my position in lots of other lines
+[00:08:14] monocarp: idk this is also a bit stinky but it might be better???
+[00:17:07] monocarp: (19. Qe5) Bd2 would work were it not for Bxe4 Bc3 and there white has Qg3+ to gain a tempo
+[00:25:45] gavalanche20: (24.Kf4) f5 ef6 Rf8 looks interesting mybe
+[00:28:02] monocarp: (24. Kf4) okay, I now think that the exchange sacc was bad, as it also led to a bad position. Not the first time I've played a game
+[00:28:17] monocarp: where I get a bad position, sacrifice an exchange and it just makes it worse
+[00:31:50] monocarp: (27. Kf2) Oops I allowed Qxh4+
+[00:32:05] monocarp: although I've sort of been in the 'just playing' mode for a while now
+[00:34:07] nyanners: the geometry doesnt geometry
+[00:35:08] nyanners: tough one
+[00:35:23] nyanners: gg
+[00:36:24] gavalanche20: Wow White is still worse after the pawn grab
+[00:36:24] gavalanche20: Says SF anyway
+[00:37:10] nyanners: g4 before h6 is a funny affair
+[00:37:10] monocarp: that is at least a bit strange. I really liked my position at move 10
+[00:37:25] nyanners: i agree with sf one should at least safeguard the bishop
+[00:38:26] gavalanche20: I guess I can make sense of it
+[00:38:26] nyanners: after 10..g6 the problem white has is that the priority becomes to play Ng3 or something
+[00:38:41] nyanners: black made really good use of those tempi for Nd5 Nxe7
+[00:38:41] gavalanche20: Extra pawn but undeveloped, Black is breaking open the center soon and there's no attack because Nh5 is a few moves away from being kicked
+[00:39:27] nyanners: i dont mind the move 10 position but i wouldnt be particularly optimistic
+[00:39:42] nyanners: like odds are white plays for O-O-O and sees what happens
+[00:40:43] nyanners: 12 Nf4 is kinda interesting considering that direction
