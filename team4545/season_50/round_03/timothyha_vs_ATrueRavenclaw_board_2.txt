@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/jHd8tDRa
+White     : timothyha
+Black     : atrueravenclaw
+Time      : 45+45
+Captured  : 2026-10-10 22:04:48 UTC
+Game ended : 2026-10-10 20:44:40 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[19:01:51] jfiras: Good luck captain !
+[19:04:23] king_hunter-1: Good luck Timothy!
+[19:06:25] timothyha: (7.Bb2) i haven't been playing these lines for a while, but good to refresh
+[19:06:25] timothyha: (7.Bb2) using the team's winning cushion of 4.5
+[19:10:29] timothyha: (8...Nc6) after d5 the knight has to go back home it seems
+[19:13:31] timothyha: (10.Nbd2) so far it follows the general plan... swap DSB...
+[19:13:47] hpors: Go Timothy !
+[19:13:47] king_hunter-1: I like white's position
+[19:15:18] timothyha: (10...e6) Nc3 probably more precise
+[19:20:53] timothyha: (12...d5) i considered 12 Ng5 a bit but the knights are in the way of each other
+[19:24:27] timothyha: (12...d5) this sequence is long.... I'm thinking of cxd5 Bxd5 Qxc5 Ne4 Qc2 back
+[19:33:20] timothyha: (14...Qd7) Rfc8 happens and I need a square for my queen
+[19:36:22] timothyha: (14...Qd7) strange but Qc5->a3 looks ok to me now, unlike all the choices in the middle of the board...
+[19:37:23] ttsgosadow: Lets go captain!!
+[19:38:24] ttsgosadow: Straight pawn up, don't see real compensation for it for black
+[19:43:44] timothyha: (18.Qh4) there's some Nxh7 ideas with Q on e7 hanging
+[19:47:02] timothyha: (19...b5) guess I'll try that idea anyway, Ng5 h6 is best for Black I think
+[19:52:37] timothyha: (21.Nge4) I think I have Nxf6+ on g5
+[19:52:37] timothyha: (21.Nge4) so I'm ok getting out so many tangles here
+[19:53:53] timothyha: (21.Nge4) and they'll have many holes for my Q+N to go in
+[19:57:57] timothyha: (23...Rcd8) NvB endgame?
+[19:58:27] timothyha: (23...Rcd8) practice time, I guess
+[19:58:27] timothyha: (23...Rcd8) thanks again, team, for the 4.5 cushion!
+[19:58:58] timothyha: (23...Rcd8) nah Qxf6 and they get in
+[19:59:13] timothyha: (23...Rcd8) NvB with Qs on is not pure NvB :-)
+[20:00:14] ttsgosadow: Haha, no it isn't!
+[20:00:14] ttsgosadow: Your opponent tries to resist your plans to make endgame
+[20:01:15] ttsgosadow: Nf3 and reroute d4 to make it happy
+[20:02:16] timothyha: (24.Nf3) g4 fork is not possible for now
+[20:02:31] timothyha: (24.Nf3) and if I can get Nd4 it looks good
+[20:07:05] timothyha: (24...Qe4) Bxf6 g4 Qxh6 Bg7... Ng5?
+[20:07:20] timothyha: (24...Qe4) crazy sequence to check...
+[20:09:07] timothyha: (24...Qe4) ahhh Bxf6 g4 straight away, then Qh4
+[20:10:38] timothyha: (25.Bxf6) their Q is pinned behind pieces so many times today
+[20:10:54] timothyha: (25.Bxf6) on e7, on e4
+[20:10:54] timothyha: (25.Bxf6) g4 gxf3 is not possible with Qh4...
+[20:13:26] timothyha: (25.Bxf6) I should get plenty of pawns from here
+[20:15:13] guitarspider: (27...gxf3) Qxh6 doesn't black have to trade queens with Qg6? Otherwise Rc5?
+[20:18:46] timothyha: (29.g3) I think I can rook lift soon...
+[20:20:02] timothyha: (29.g3) there are no sneaky pieces left, only straightforward ones!
+[20:20:02] namegoesinhere: (29.g3) wait does ...Rd6 work here?
+[20:20:48] tommeketoch: following this game on https://www.twitch.tv/thechessrunner
+[20:22:04] timothyha: (29.g3) I think Rd6 will be played
+[20:22:34] timothyha: (29.g3) but I think I can open the g-file and swap rooks there
+[20:23:20] timothyha: (29.g3) or Rd6 Qf4 Qh5 h4?
+[20:24:06] ttsgosadow: Qf4 is good way to trade your queen or get a defender in
+[20:26:38] ttsgosadow: RvR instead of NvB endgame (:
+[20:27:54] timothyha: (32.a4) losing this would be a shame
+[20:27:54] timothyha: (32.a4) looks technical and I have time, though
+[20:28:09] ttsgosadow: Watch out for potential back rank mate
+[20:30:27] timothyha: (34...Ra2) I blockade the a-pawn and win the kingside, that's the plan
+[20:35:32] timothyha: (40...Rab2) I blockade via Rb3 at the right moment
+[20:35:47] timothyha: (40...Rab2) but Rb2 is probably simpler now
+[20:36:17] ttsgosadow: This looks so tricky
+[20:37:18] timothyha: (42.Ra3) could still be a draw...
+[20:37:33] timothyha: (42.Ra3) I see some ways to lose the advantage....
+[20:37:49] ttsgosadow: Why not trade rooks?
+[20:37:49] timothyha: (42.Ra3) did my pawns go too far?
+[20:38:19] timothyha: (42.Ra3) no I should be able to have 3v1
+[20:41:37] timothyha: (46.Ra7) I think Harry runs
+[20:44:09] guitarspider: gg
+[20:44:09] jfiras: gg !
+[20:44:55] ttsgosadow: Wel played both!
+[20:44:55] robertjackson: Vg game both!
+[20:44:55] timothyha: so I did evaluate correctly that Ra3 could give away the game
+[20:45:10] ttsgosadow: Great endgame for us to watch
+[20:45:10] timothyha: because Rxa3 and Re5 was quite fast to get to my pawns
+[20:45:26] timothyha: they were all disconnected at that moment
+[20:47:58] timothyha: Ra2 Rxa2 would be the story of what followed later
+[20:54:18] timothyha: Ra3 is a "fancy move" which actually made a draw... Should have just taken on a2 immediately and grimly win on technique
+[20:54:33] timothyha: happy that my opponent gave me a second chance to do that
+[21:01:24] timothyha: ok, out to the Sunday sunshine in Auckland, thanks for spectating
