@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/KxNZE98D
+White     : bortvinik
+Black     : ttsgosadow
+Time      : 45+45
+Captured  : 2026-10-10 11:31:31 UTC
+Game ended : 2026-10-10 10:11:23 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[09:05:08] king_hunter-1: Good luck Tim!
+[09:05:54] timothyha: (4...a6) go, @ttsgosadow!
+[09:06:40] ttsgosadow: I expected advanced variation
+[09:07:10] hpors: Go tim !!
+[09:08:57] ttsgosadow: I can play on backwards d pawn
+[09:25:26] timothyha: (9.Nc3) take on f3 now, win d4?
+[09:25:42] timothyha: (9.Nc3) or it's Q->f3->b7?
+[09:25:42] timothyha: (9.Nc3) Nd5 looks solid to me
+[09:53:22] ttsgosadow: hope I calculated right here
+[09:54:22] timothyha: (16...Nxd4) quite a stack of pieces on the d-file
+[09:54:38] timothyha: (16...Nxd4) looks correct to me after Bxg2 we get the d3 or d2 piece
+[09:54:38] timothyha: (17.Bxd4) but many desperados available
+[09:55:08] king_hunter-1: looks good
+[09:56:09] kamagayajiji: Still down a piece for 2 pawns
+[09:56:09] robertjackson: nice 17...Bxg2
+[09:56:39] timothyha: (17...Bxg2) after Qxd4 there's a skewer
+[09:56:55] timothyha: (17...Bxg2) so Bd3 or Nd2 are lost
+[09:57:25] kamagayajiji: My bad...
+[09:59:12] kamagayajiji: But this is even worse
+[09:59:27] timothyha: (18.Ba7) take on d3 and we're safe against Bxa6
+[09:59:58] king_hunter-1: 18.Ba7 take on f1
+[10:00:13] king_hunter-1: and then on d3
+[10:00:28] kamagayajiji: Now take d3
+[10:00:43] king_hunter-1: i think black is winning
+[10:00:59] timothyha: (19...Qxd3) b6 coming
+[10:01:14] king_hunter-1: yeah
+[10:04:47] timothyha: (21.Kxe2) b6 and White is down a full rook
+[10:06:18] ttsgosadow: I think the bishop is trapped still
+[10:08:51] timothyha: (24.Ke3) that 0-0-0 was a star move
+[10:10:07] timothyha: (24...Be7) all the kids in my club would play on down a rook, not sure what will happen here
+[10:10:07] kamagayajiji: Yep, just invite the other rook to the party
+[10:11:23] timothyha: gg
+[10:11:53] king_hunter-1: gg
+[10:11:53] kamagayajiji: gg
+[10:12:39] timothyha: so Bxg2 Nb3 was the refutation
+[10:13:25] timothyha: Stockfish has a way of spoiling our brilliancies :-)
+[10:15:11] robertjackson: astonishing!
