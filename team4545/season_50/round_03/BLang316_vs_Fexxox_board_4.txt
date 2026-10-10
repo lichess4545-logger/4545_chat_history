@@ -1,0 +1,69 @@
+Lichess game chat log
+Game      : https://lichess.org/HuYU0e2Q
+White     : blang316
+Black     : fexxox
+Time      : 45+45
+Captured  : 2026-10-10 20:33:37 UTC
+Game ended : 2026-10-10 19:13:25 UTC
+Messages  : 59
+────────────────────────────────────────────────────────────
+
+[17:00:23] r0b-w: (1.d4) Go, BLang316!
+[17:03:10] guitarspider: (2.Bf4) go Fexxox!
+[17:03:10] guitarspider: (2.Bf4) hi BLang!
+[17:11:33] pezzo17: (10.O-O) go Fexxox!
+[17:47:20] fork2020: Go BLang316!
+[18:34:04] alp_arslan92: (33...Rxg3) Go BLang316!
+[18:35:20] alp_arslan92: (34.Qf4) Very tense position, right time to tune in :D
+[18:40:55] nermin_dedovic: Good luck fexxox, looks like a very promising position!
+[18:40:55] guitarspider: (35.Qf1) maybe something like Rxe3 Qg1 Qe5, that looks scary for white
+[18:54:38] alp_arslan92: (37...Qe5) It looks very difficult now. I don't think 35.Qf1 was it...
+[18:56:25] seebslim: (38.f6) Go Fexxox!
+[18:56:40] guitarspider: (38.f6) hey Mils!
+[18:56:40] guitarspider: (38...Qe4+) maybe take off the blindfold :D
+[18:57:26] alp_arslan92: (39.Kh2) Maybe Black blunders Qg7# :D
+[18:57:26] alp_arslan92: (39.Kh2) 39...Re1 please?
+[18:57:26] guitarspider: (39.Kh2) I Qe4+ is a bit weird
+[18:57:41] guitarspider: (39.Kh2) I thought Re1 was the move to look at for sure
+[18:57:56] alp_arslan92: (39.Kh2) Could just repeat anytime with Qe5+ though
+[18:58:11] milsbees: (39.Kh2) oh that's much better, I can see now
+[18:58:26] guitarspider: (39.Kh2) yay
+[18:58:42] alp_arslan92: (39.Kh2) Maybe just 39...Bg6 to rule out any surprise checkmate
+[18:58:57] alp_arslan92: (39.Kh2) I don't see a way for White to untangle really..
+[18:58:57] alp_arslan92: (39.Kh2) Also introduces Be4+ in the future
+[18:59:12] guitarspider: (39.Kh2) fair enough, that should work
+[18:59:12] alp_arslan92: (39.Kh2) E.g. 39...Bg6 40.a3 Qe5+ 41.Kh1 Be4+ gg (a3 of course nonsense)
+[19:00:13] fulmarsky: Go Fexxox!
+[19:00:28] alp_arslan92: (40...Rg3) Rg3 is nice
+[19:00:28] fulmarsky: (40...Rg3) ... tense...
+[19:00:43] guitarspider: (40...Rg3) Qb1+ Bg6 again
+[19:01:44] alp_arslan92: (40...Rg3) And 41.Qf1 Bg6 anyway aye?
+[19:02:15] alp_arslan92: (41...Bg6) Nd4 is unfortunately the most useless pretty knight I've seen in a while.
+[19:02:45] milsbees: (39.Kh2) a show pony you might say
+[19:03:01] alp_arslan92: (41...Bg6) Right :D
+[19:03:01] guitarspider: (41...Bg6) squeaky bum time as Alex Ferguson would say
+[19:03:31] alp_arslan92: (41...Bg6) Might as well try 42.Rf4, just for the sake of it
+[19:04:02] alp_arslan92: (41...Bg6) 42...Be4+ 43.Kh2 and pray
+[19:04:32] milsbees: (41...Bg6) What about Nf5?
+[19:04:47] guitarspider: (41...Bg6) don't you just lose the rook there alp?
+[19:05:33] alp_arslan92: (42.Nf5) I didn't see the instant rook win, but there must be one xD
+[19:06:03] guitarspider: (42.Nf5) maybe you can somehow survive Rg4 Ne2
+[19:06:03] alp_arslan92: (42.Nf5) I like Nf5, too. Setting up threats is always nice
+[19:06:19] alp_arslan92: (42.Nf5) Rg4 there is Qxh3+
+[19:06:34] guitarspider: (42.Nf5) ah, oops
+[19:07:04] fulmarsky: (42.Nf5) (oh i hath utterences such as this:  chess is tough, chess is tough )
+[19:07:50] guitarspider: (42.Nf5) Bxf5 Rxf5 Qe4+Kh2 Rg2+ Kxh3 and then...
+[19:07:50] alp_arslan92: (42.Nf5) How about this: 42...b5 (whatever) 43.Qc1 Qe4+ 44.Kh2 Rg2+ 45.Kxh3 Rxf2 46.Qh6+ and mate!
+[19:08:05] alp_arslan92: (42.Nf5) Gotta scan for stupid ways for your opponent to blunder this away haha
+[19:08:21] alp_arslan92: (42.Nf5) Of course Qg4# somewhere there
+[19:08:36] guitarspider: (42.Nf5) details :D
+[19:08:51] alp_arslan92: (43...Qe4+) Yeah, nice finish
+[19:09:06] alp_arslan92: (43...Qe4+) We might see that very mate on the board
+[19:09:22] guitarspider: (43...Qe4+) looks like black has it figured out
+[19:09:52] guitarspider: (43...Qe4+) there's also no reasonable way to deviate
+[19:10:07] alp_arslan92: (43...Qe4+) Nope
+[19:10:23] alp_arslan92: (43...Qe4+) One of those games worth looking into post-mortem. Understand where things derailed.
+[19:10:53] guitarspider: (43...Qe4+) for sure, it was a complex battle
+[19:12:55] alp_arslan92: gg
+[19:13:25] guitarspider: gg
+[19:15:57] fexxox: other than my horrific opening mistake I ́m pretty happy with my counterplay
