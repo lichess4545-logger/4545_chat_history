@@ -1,0 +1,71 @@
+Lichess game chat log
+Game      : https://lichess.org/demWORh6
+White     : nikker33
+Black     : minot
+Time      : 45+45
+Captured  : 2026-10-11 13:07:45 UTC
+Game ended : 2026-10-11 11:47:37 UTC
+Messages  : 61
+────────────────────────────────────────────────────────────
+
+[09:30:45] minot: (14) exd5 could have been an alternative but couldnt see a concrete reasoning
+[09:32:01] minot: a passed pawn and all but if I lose that pawn it becomes too risky
+[11:10:47] kayrosas: 36.Kc3 was better i think
+[11:13:05] kayrosas: should still be a draw tho with 39.Kc2
+[11:13:05] kayrosas: but a bit tricky
+[11:16:54] kayrosas: Kc2 Ke3 b4 (d4?? Kd1) ax ax Ke2 (b5 d4... idk if this holds bc white pawns are vulnerable)
+[11:17:39] kayrosas: oh d4 Kd1 isn't even that much, Ke4 still possible
+[11:19:41] chesstricksandtraps: but isn't Kd2 possible after Ke4
+[11:20:12] chesstricksandtraps: White will capture opponent pawn first
+[11:20:12] kayrosas: true
+[11:20:27] kayrosas: 41...Kd4 also interesting
+[11:20:57] chesstricksandtraps: I think Kb3 wins after that
+[11:20:57] kayrosas: yes
+[11:21:28] chesstricksandtraps: Can black maybe wait somehow?
+[11:21:43] kayrosas: now Kc3 Ke3 Kc2 would be typical draw
+[11:21:58] chesstricksandtraps: looks like it
+[11:23:14] kayrosas: Kd4 Kb3 h6 h3 g5 fx hx h4 x x f4 h5 f3 h6 f2 h7 f1Q h8Q could be draw also
+[11:24:15] kayrosas: i think i've seen this referred to as 'the pendulum'
+[11:25:32] kayrosas: guess we get to find out what happens there
+[11:26:17] kayrosas: or is 45.h4 h5 Ka4 an idea as well?
+[11:26:17] chesstricksandtraps: Kd4 Kb3 h6 can be met with h4 and after h5 white can play b5, after Kc5 Ka4 Kb6 Kb4 white still captures and is closer to the remaining pawn
+[11:26:32] chesstricksandtraps: yes
+[11:26:32] kayrosas: booo
+[11:27:49] kayrosas: 45.h4 h5 Ka4 Kc3 could win actually
+[11:27:49] chesstricksandtraps: white can't directly go Ka4 or else black promotes first
+[11:27:49] kayrosas: bc d1Q is check and wins the queen
+[11:28:19] chesstricksandtraps: white has to push b5 and then threaten to promote with Ka4
+[11:28:19] kayrosas: oh right
+[11:30:21] kayrosas: so 45.h4 Ke3 back and repeat there I guess
+[11:30:51] chesstricksandtraps: yeah that was a possibility
+[11:31:07] chesstricksandtraps: white has played h3
+[11:31:53] chesstricksandtraps: this Ke3 move is so annoying for white
+[11:32:53] kayrosas: that is surprising
+[11:33:09] chesstricksandtraps: isn't b5 possible here
+[11:33:24] kayrosas: i thought so
+[11:33:54] kayrosas: might still hold with Ke2
+[11:35:10] kayrosas: b5 Ke2 Kc3 Ke3 b6 d4 Kb2 might win
+[11:35:26] kayrosas: actually no
+[11:35:41] chesstricksandtraps: white makes a queen first and after Qe5+ takes the f5 pawn
+[11:36:11] kayrosas: certainly not winning for white tho
+[11:36:27] chesstricksandtraps: yeah but it has some tricks to it
+[11:38:59] kayrosas: i wonder if there was more like 47.fx hx Kd1
+[11:39:45] chesstricksandtraps: Kd4 seems a good move in that variation
+[11:40:00] kayrosas: but white has the h-passer there
+[11:40:30] chesstricksandtraps: true
+[11:41:46] chesstricksandtraps: can white win if they somehow take their king to the h6 pawn
+[11:41:46] kayrosas: so Kd1 f4 x Kx! and probably that is a draw
+[11:42:47] kayrosas: i dont believe in it but q-endgames tend to do weird things
+[11:43:18] chesstricksandtraps: hmm
+[11:43:18] kayrosas: problem is black can always trade queens and Kxf5 Kxg3 would be a draw
+[11:43:48] chesstricksandtraps: ah, yes
+[11:44:03] switchoffengine: Let's go nikker!!
+[11:44:19] kayrosas: looks like the fun is gonna end soon
+[11:45:04] kayrosas: black wants Qxg5 somehow I guess
+[11:46:20] chesstricksandtraps: black can just keep giving checks as queen trade still results in a draw
+[11:47:06] kayrosas: gg
+[11:47:06] chesstricksandtraps: ggs
+[11:47:06] jdw10: gg
+[11:47:52] minot: holy analysis, i thought both sides had chances at some point
+[11:48:07] kayrosas: xd
+[11:48:22] kayrosas: well played by both
