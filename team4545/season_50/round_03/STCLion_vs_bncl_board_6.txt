@@ -1,0 +1,95 @@
+Lichess game chat log
+Game      : https://lichess.org/sv2UALrB
+White     : stclion
+Black     : bncl
+Time      : 45+45
+Captured  : 2026-10-11 20:57:14 UTC
+Game ended : 2026-10-11 19:37:04 UTC
+Messages  : 85
+────────────────────────────────────────────────────────────
+
+[18:08:43] serenemoose: go stclion!!
+[18:08:43] voylento: what about 7...Qb6? Makes 2 threats
+[18:08:43] kborman: Go Lion!
+[18:08:43] computability: Go bncl!!!
+[18:08:43] namegoesinhere: (24...Rc8) go STCLion!
+[18:08:43] computability: I liked the trade there for black
+[18:08:43] namegoesinhere: (28...Rec8) yeah it looked like the c3 pawn was a goner in that line
+[18:08:43] namegoesinhere: (28...Rec8) although it's not much better with the minor pieces still on the board
+[18:09:14] namegoesinhere: (28...Rec8) maybe now white can defend a bit more easily here by playing Bd2 when the knight moves
+[18:14:49] bncl: pretty sure I'm better but don't know how to make progress
+[18:52:39] kborman: Try to reroute the bishop to g3 maybe? Or does that give white too much time?
+[18:52:54] kborman: *black
+[18:57:28] kborman: Qe5 fork but that looks scary since the black queen gets in
+[19:06:36] kborman: Oh snapple, Bd4 looks nice
+[19:15:14] computability: Now Rd2+ and push the d pawn
+[19:23:52] computability: e5 or d3?
+[19:24:53] voylento: d3 is losing
+[19:26:40] voylento: mow Rb2 I think
+[19:28:11] voylento: if Rb2, Rd2, RxR, KxR, h5
+[19:28:42] serenemoose: White does have a passer too.
+[19:29:12] voylento: needed Rd2 first to getwhites king back one squate
+[19:29:28] chesspatzerswan: Gets caught though
+[19:30:28] serenemoose: Yeah, you're probably right, my endgames are atrocious.
+[19:30:28] computability: same
+[19:30:59] computability: black king is in the square so the b pawn cant promote
+[19:31:29] computability: cant just run for it at least
+[19:32:15] serenemoose: Makes sense, I thought it could distract the king, but missed White's king has to babysit d4.
+[19:32:15] voylento: Ke6 and ehite k must retreat
+[19:33:16] computability: I liked Kd7 there since it invites Kd5
+[19:35:03] bncl: oh shoot
+[19:36:19] computability: d3 here no? force the white king off
+[19:36:34] voylento: ehite has fox in the henhouse if d3
+[19:37:04] chesspatzerswan: Black botched it
+[19:37:20] serenemoose: gg
+[19:37:20] computability: gg
+[19:37:20] kborman: gg
+[19:38:20] computability: wow the a4 pawn was worth 9 points
+[19:39:06] stclion: great struggle
+[19:39:21] stclion: esp since i'm fighting the flu  ...
+[19:40:37] stclion: hmm engine says 58 for BNc  should have been p-d3 ...  but it just leads into how he lost
+[19:41:23] stclion: ok  engine wants black to come back and get a3   which means he'll Q before i do ...
+[19:41:38] bncl: I can still stop the b pawn's progress with a better timed Kc7
+[19:41:38] bncl: haha, live and learn
+[19:41:53] stclion: right  howvever   it pulls you back
+[19:42:24] stclion: 2 pawns down   came a little close to resigning ...
+[19:42:39] bncl: Ha, well good you didn't then!
+[19:42:54] stclion: it's like 10 moves   and you can Q
+[19:43:09] stclion: so probably 12,13   for one of my Kside pawns
+[19:43:25] stclion: you were low on time   to figure that out
+[19:43:55] bncl: idk if that's an excuse, I had about 7min!
+[19:44:26] stclion: well  need to calculate a 10-move string
+[19:44:41] stclion: whereas i already had my sequence planned
+[19:44:56] computability: Check out 47... Rd2+
+[19:45:11] stclion: yeah i screwed upa  bit  at 42
+[19:45:42] stclion: shoulda played Q-b1  before B-d4
+[19:45:57] stclion: antsy    plus my head hurts now
+[19:46:27] bncl: something going around, I'm also just recovering from some cold
+[19:47:59] stclion: the flu started early
+[19:48:14] stclion: and everyone at my workplace got it  , so a matter of time  for me
+[19:48:44] stclion: no coi'ncidence our health department sucks now
+[19:48:59] stclion: with that anti vaxx clown in charge
+[19:49:15] bncl: yes, not a great combination
+[19:49:45] stclion: well thanks for the game   needed a new look at how people will atatck this opening
+[19:50:00] bncl: Oh right! Yeah we haven't talked about 3.h3
+[19:50:00] bncl: never seen that before
+[19:50:31] stclion: i like the London   but refuse to lose the DSB to N-h5
+[19:50:46] stclion: been watchinga  tm8 ( now at FICS )  playing that exclusively , for years
+[19:51:16] bncl: what's FICS?
+[19:51:16] stclion: he doesn't mind losing it ,   but then again he's rated about 300 pts over me ...
+[19:51:32] stclion: one of the original chess sites
+[19:52:02] stclion: an outgrowth of ICC     because there was an issue between people who wanted the " pay for play " model ,  and people who wanted it free
+[19:52:33] bncl: Ah I see, okay -- hadn't heard of it before
+[19:52:33] stclion: ICC  went for PFP , so  then the Free Internet Chess Server   was created a few months later
+[19:53:03] stclion: ;?))    yes  a lot of people donlt know the history , of the 45 45 Leagues
+[19:53:03] bncl: And they have a team league or something similar to 4545?
+[19:53:03] stclion: we're at T98 now
+[19:53:18] stclion: starting ina  week
+[19:53:18] bncl: Yeah I'm a relatively new joiner, I don't know the history at all
+[19:53:49] stclion: ;?))   itrs the other wsay around  THIS place is similar to ICC's 45 45 League ,  and FICS's
+[19:54:04] stclion: justa  different format
+[19:54:19] stclion: we have sections  so more than 1 Champion
+[19:54:19] bncl: Gotcha!
+[19:55:05] bncl: Well, thanks for the post-game chat
+[19:55:05] bncl: Hope you're feeling better soon!
+[19:55:20] stclion: thanks  you too
