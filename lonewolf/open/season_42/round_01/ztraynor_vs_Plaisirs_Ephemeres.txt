@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/eHP9BlO8
+White     : ztraynor
+Black     : plaisirs_ephemeres
+Time      : 30+30
+Captured  : 2026-10-11 16:49:37 UTC
+Game ended : 2026-10-11 15:29:27 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[14:05:23] ztraynor: I've definitely played this before, so prep could be a problem (they have like 30 games total so mine was minimal)
+[14:08:41] ztraynor: trying to remember how long I can get away with delaying castling here
+[14:18:05] ztraynor: was about to type 0-0 Ra6 and Rfa1 but this is more interesting
+[14:18:20] ztraynor: merely Bc7 perhaps?
+[14:18:50] ztraynor: oh is the idea that the bishop gets pinned to the back rank before I castle...
+[14:20:37] ztraynor: momentarily forgot I could just castle first there
+[14:22:39] paulwithans: Bc7 can be met by Bd8. I would keep the dark squared bishops on board and double on the a-file first
+[14:24:41] ztraynor: Ra4 Ra8 Ra1 and I'm not sure what stops b4
+[14:25:42] ztraynor: it's an exchange sac to put a protected passer on c2, but can't I clog the diagonal and bring the rook back?
+[14:26:13] ztraynor: not in that order lol but still
+[14:27:44] ztraynor: Ra4 Ra8 Ra1 b4 axb4 Rx Rx Rx bxc3 Ra1 c2 Nh4 Bh7 e4... oh actaully no Ne1 is a 2nd attacker anyway
+[14:28:15] ztraynor: yeah let's go with this
+[14:30:02] ztraynor: I get these Qb3 Qb6 trade lines all the time OTB so this is fantastic preparation tbh
+[14:30:17] ztraynor: 3 tournaments for me before end of year
+[14:33:20] ztraynor: I keep getting scared by Rb8 and forgetting I have a bishop covering that
+[14:35:52] paulwithans: Maybe Ne1 Bb3 Nd3-b4 is a decent plan. Get the other knight to e5 and hone in on c6 as well
+[14:36:07] paulwithans: Looks good for white
+[14:38:09] paulwithans: Sorry there is no other knight coming to e5 in that line lol, but still might be good
+[14:39:10] ztraynor: destination b4, and I've just noticed the bishop covers Rb8 but not Rb7... HM
+[14:41:27] ztraynor: though if allowed, Ne1 and Nc1 looks like it will work
+[14:42:28] ztraynor: oh is Rb7 b4 sneaky?
+[14:43:59] ztraynor: I mean Ne4 looks scary but what's the target?
+[14:47:32] ztraynor: initial thoughts on Ndxc5 is "surely not" but... hm...
+[14:48:33] ztraynor: ohhhhh there's Bd6 at the end maybe?
+[14:51:51] ztraynor: fairly convinced that Nb3 refutes Nxc6
+[14:53:23] paulwithans: Yeah, I am looking at dxc5 Bxc5 Nxc2 Bxa3 Rxa3 white is better
+[14:55:10] ztraynor: yeah I don't buy this
+[14:57:11] ztraynor: oh dear does f2 do anything?
+[14:57:42] ztraynor: it does not
+[14:57:57] paulwithans: Nxf2 Be3
+[14:59:28] ztraynor: really not sure what to take this with, even bx being considered
+[15:03:02] ztraynor: I imagine the correct answer there was "anything that doesn't take like 60% of your remaining time"
+[15:06:50] ztraynor: I'm prepared to sack the knight for the c-d pawns, RBB should beat RR from there
+[15:13:27] ztraynor: whatever happens this has been interesting and fun. time situation very relevant
+[15:16:45] ztraynor: Ba3 a great holding move to get the rook involved
+[15:17:00] ztraynor: oh but c3
+[15:18:16] paulwithans: Maybe Bc3 is more solid
+[15:18:31] braydonp: 30...a3 may be a problem
+[15:20:18] paulwithans: Does Bd4 hold on?
+[15:20:18] braydonp: 31. Nxd5 is interesting. Might be a way to sac all the material back and still be better
+[15:20:49] braydonp: Bd4 also appear to work
+[15:21:04] braydonp: Probably easier too
+[15:21:35] braydonp: This does not feel like it works though
+[15:21:35] paulwithans: oof danger
+[15:22:36] braydonp: Hard to even suggest a move for white here
+[15:22:51] ztraynor: dammit
+[15:22:51] braydonp: Yeah I think distract the rook and try to play like f4 to get king involved
+[15:23:21] braydonp: Yeah black not getting distracted
+[15:23:37] paulwithans: oh boy
+[15:24:07] braydonp: Unfortunate knight trap
+[15:30:28] paulwithans: gg
