@@ -1,0 +1,134 @@
+Lichess game chat log
+Game      : https://lichess.org/wQ4sidn0
+White     : jose684
+Black     : precisionplay28
+Time      : 45+45
+Captured  : 2026-10-11 08:51:24 UTC
+Game ended : 2026-10-11 07:31:14 UTC
+Messages  : 124
+────────────────────────────────────────────────────────────
+
+[05:34:08] inter-temporal: (10.Ng3) go Jose! (from the (K)nights on the Rim)
+[05:35:09] inter-temporal: (10...a6) looks like a benoni-and-cheese, hold the benko?
+[05:36:25] inter-temporal: (10...a6) booked up to the 10th, at least
+[05:36:55] inter-temporal: (11.a4) make that the 11th. lol
+[05:38:57] jose684: Hello Professor and Inter-temporal :), thanks for popping in.
+[05:40:13] inter-temporal: (11...Nbd7) my opponent today took us out of book on move 5, but
+[05:40:13] inter-temporal: (11...Nbd7)  i had no idea since i prepped for a different line. lol
+[05:45:02] inter-temporal: (12...Ne5) theory wanted ...Rb8, push b5 benko or not
+[05:45:33] inter-temporal: (12...Ne5) apparently this can still transpose back to book depending on White's next move.
+[05:47:04] inter-temporal: (12...Ne5) wants us to oppose the pressure on g4 via h3
+[05:47:35] professormethane: Go Jose!
+[05:47:35] inter-temporal: (12...Ne5) wait... no, via Be2 first!
+[05:48:05] kamagayajiji: Benonis are like avocados- there’s no saving them once they start to go bad...
+[05:48:20] inter-temporal: (12...Ne5) this one is still great! lol
+[05:48:51] kamagayajiji: And when they are good, they are very very good...
+[05:50:08] inter-temporal: (12...Ne5) Lichess book says 13.Be2, then ...Qc7, perhaps to push Black's Q-side majority. or avoid a pin by Bg5. idk
+[05:50:08] inter-temporal: (12...Ne5) maybe both
+[05:51:09] inter-temporal: (13.Bc2) i'm guessing that Black pushing the Q-side preserves the good parts of the benoni
+[05:51:39] inter-temporal: (13.Bc2) now they're oob
+[05:52:10] inter-temporal: (13.Bc2) kinda need that lsb on e2 to watch g4 and b5
+[05:53:10] kamagayajiji: So the question now is not who remembers their lines, but who plays the position on the board better...
+[05:54:42] inter-temporal: (13.Bc2) maybe White goes for a4-a5. but i think h3 & f4 might be a way
+[05:57:44] inter-temporal: (14...b6) wow. that's something!
+[05:58:15] inter-temporal: (15.axb6) and i gotta get to bed soon. sad
+[06:01:02] inter-temporal: (15...Rxb6) maybe 16.Qe2 here?
+[06:01:18] inter-temporal: (15...Rxb6) this looks a tad dangerous for white atm
+[06:02:34] inter-temporal: (15...Rxb6) maybe Qe2 would slow Black's coordination on the Q-side
+[06:02:49] guitarspider: (15...Rxb6) I like Qe2, also works against any Nc4 ideas
+[06:03:20] guitarspider: (15...Rxb6) and if white is going to play f4 that's something to pay attention to
+[06:03:50] guitarspider: (15...Rxb6) although mayb white wants f4 Nc4 b3 and the knight is trapped
+[06:04:06] inter-temporal: (16.Rb1) a few moves ago, black chose 13.Bc2 over 13.Be2 and might suffer a bit for it
+[06:04:06] inter-temporal: (16.Rb1) i mean white
+[06:04:21] inter-temporal: (16.Rb1) [white] chose ....
+[06:05:37] inter-temporal: (16.Rb1) dang. i gotta get goin. good luck Jose!
+[06:18:34] jose684: 17. b3 , c3 Knight is not in any immediate danger, but could under fire later.
+[06:20:05] jose684: probably eval is reading some -0.5 to -1 as Black got slightly more active pieces.
+[06:20:35] guitarspider: (17...a5) h3 might be a good idea
+[06:22:07] precisionplay28: i want to play  18.Bd7 so bad but white has f4 trapping the knight on e5 i want to double the rooks on the b file
+[06:22:22] precisionplay28: i think i am probably slightly better here
+[06:24:09] precisionplay28: i didnt know what to do so i just played a5 with ba6 in mind
+[06:25:40] precisionplay28: i think jose is playing too passively he should have put his foot on the gas a few moves ago now too he could
+[06:34:20] nyanners: looking good for b
+[06:34:20] nyanners: especially for benoni standards :o
+[06:35:37] nyanners: i think white often goes f4 in this variation
+[06:35:52] guitarspider: (20...h5) but if a knight ends up on g4 it's very scary
+[06:35:52] nyanners: the bishop may be better on e2 to control c4/g4, the e-pawn is well defended
+[06:41:58] nyanners: now black is just benoning all over the board
+[06:42:13] nyanners: its what they live for. arguably worth it
+[06:42:43] nyanners: h3 and the kingside weaknesses are permanent
+[06:46:16] guitarspider: (22.f4) fire on board
+[06:46:32] nyanners: i like f4
+[06:46:47] nyanners: but it was probably better the previous move
+[06:46:47] nyanners: still helps a lot probably
+[06:47:48] precisionplay28: completely missed f4
+[06:48:03] precisionplay28: great find by jose
+[06:48:33] precisionplay28: but i think its too late to play f4 but i gotta prove it
+[06:50:20] invinci7777: ng4 and take on e5 with knight
+[06:50:35] nyanners: yea white really didnt want to take on h2
+[06:50:51] nyanners: if possible
+[06:50:51] nyanners: i think it was possible
+[06:53:08] guitarspider: (25.Kg1) Bxe5 so that the knight can't be challenged after bishop exchange?
+[06:53:08] nyanners: id prefer the bishop
+[06:53:08] nyanners: for sure
+[06:54:09] nyanners: as in like, 25..Nxe5
+[06:54:09] invinci7777: yeah
+[06:54:39] nyanners: maybe black was a bit concerned with Bxa5 which i completely forgot about tbh
+[06:54:54] nyanners: dont think it actually matters
+[06:55:09] nyanners: like 25..Bxe5 gives a strong incentive to trade
+[06:55:25] nyanners: that i didnt see coming
+[06:55:40] nyanners: i dont think i like it. this knight is unstable
+[06:55:55] nyanners: qf4 looks very good
+[06:56:11] invinci7777: yeah
+[06:56:41] invinci7777: Bd1 if qd7
+[06:57:12] invinci7777: knight might be trapped
+[06:57:42] nyanners: f5
+[06:57:42] nyanners: not a good time
+[06:57:42] nyanners: initiative switch?
+[06:58:43] invinci7777: seems like it
+[07:00:00] nyanners: black feeling the instant regret
+[07:05:20] guitarspider: (28.exf5) at least there is Rb4 now
+[07:06:05] nyanners: very very dangerous trade
+[07:06:21] precisionplay28: i thought it was over
+[07:06:36] nyanners: it might be soon xd
+[07:06:36] jose684: free open file for my rook, LOL
+[07:08:22] selenedeafrodita: qg5 looks winning
+[07:08:22] nyanners: it might
+[07:08:22] invinci7777: yeah
+[07:08:38] nyanners: all because of rxe1
+[07:09:08] nyanners: to add insult to injury, white is kinda forced to play the good move
+[07:09:23] invinci7777: helps in time trouble
+[07:09:39] nyanners: it sure does :o
+[07:10:09] nyanners: qf7 hoping for fx? are things already THAT desperate
+[07:10:39] invinci7777: might work
+[07:10:55] invinci7777: not a bad move anyways
+[07:11:40] jose684: My Knight is on vacation when I need him :(
+[07:14:43] selenedeafrodita: I guess black could be able to avoid repetition
+[07:15:14] selenedeafrodita: not now
+[07:15:14] nyanners: xa6 at worst
+[07:15:44] selenedeafrodita: oh, the queen defends from a8
+[07:16:15] nyanners: qf1 qh6 would be fun
+[07:16:30] invinci7777: queen check forces qf8 anyways
+[07:16:45] nyanners: yea this is game-ish
+[07:17:00] selenedeafrodita: ah, yes, nice finish
+[07:21:50] invinci7777: nice try bu bxa rc4 ne6+
+[07:25:39] nyanners: can we get B+N somehow? nah XD
+[07:27:26] selenedeafrodita: d7 was possible
+[07:27:41] selenedeafrodita: now just be6
+[07:30:13] invinci7777: nd5
+[07:30:59] jose684: lol I missed fork
+[07:30:59] precisionplay28: he missed nd5 check fork well its lost anyways
+[07:31:29] invinci7777: gg
+[07:31:29] nyanners: gg :o
+[07:31:29] fritsj: GG
+[07:31:29] fritsj: Well fought both players!
+[07:31:29] selenedeafrodita: gg
+[07:31:29] nyanners: rxe5 to blame
+[07:31:45] precisionplay28: yea
+[07:32:30] precisionplay28: actually rxe1 to blame
+[07:32:46] precisionplay28: rxe5 lost me a bit of initiative but rxe1 the game
+[07:32:46] jose684: yes free open file for my rook
+[07:34:17] jose684: good luck for future rounds PP, see you later.
+[07:34:47] precisionplay28: I missed 27 qc8
+[07:35:18] precisionplay28: instead of f5
+[07:36:49] precisionplay28: Same to u jose
