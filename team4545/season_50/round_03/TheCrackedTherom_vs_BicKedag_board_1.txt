@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/ls8Ae01G
+White     : thecrackedtherom
+Black     : bickedag
+Time      : 45+45
+Captured  : 2026-10-11 18:19:54 UTC
+Game ended : 2026-10-11 16:59:43 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[15:06:56] bickedag: hmm I should have looked at 9. Ncd5 but only checked Ned5 and Be2
+[15:11:46] bickedag: I wonder if white can try 10. Qa4
+[15:20:24] bickedag: this b4 and a4 business seems very dubious
+[15:25:43] bickedag: if I just want to simplify I even have 13... Rxc1 14. Qxc1 Nb3
+[15:26:14] bickedag: nvm Rxc1 Rxc1
+[15:29:47] bickedag: I forgot white might have had 14. Ng4
+[15:36:09] bickedag: ok I am kinda relieved at seeing 15. b5. Bb2 was more critical I think
+[15:50:07] bickedag: I wonder if white is planning 17... Qb6 18. Nc4 Qxb5 19. Nxd6 Qxb2, but I feel like black is OK there
+[15:50:52] bickedag: simple and strong is 17... Qb6 18. Rb1
+[15:54:10] bickedag: 17... Ra8 was probably safer but I don't want to suffer in a clearly worse position
+[15:54:10] bickedag: better to go out in a bang
+[15:59:15] bickedag: wow I am kinda shocked that white played 18. f3. Completely justified my bogus f5
+[16:11:57] bickedag: I think Qb6+ is going to make this work in most lines
+[16:12:28] bickedag: but honestly it is very chaotic when white has d6 and Qb3 stuff too
+[16:19:04] intemperate: Nc8 & Rf7?
+[16:20:51] bickedag: the urge to play 23... Be5 is so strong but on principle seems so wrong to give d5 passer
+[16:22:23] bickedag: actually is Ra7 just going to be strong for white
+[16:22:53] intemperate: Maybe Rc7?
+[16:22:53] intemperate: he read my mind lol
+[16:23:23] bickedag: Qb6 Nc8, but not sure what if Qa6 instead
+[16:24:09] intemperate: Qb4 and Nc8
+[16:24:40] bickedag: feels pretty bad now
+[16:25:25] intemperate: You can defend this!
+[16:25:41] intemperate: although time is now becoming a factor
+[16:26:41] bickedag: Qe7 is a bluff but maybe it works idk
+[16:26:57] intemperate: I would have also played Qe7
+[16:28:28] intemperate: Rb7
+[16:30:15] intemperate: Q can't escape R attacks
+[16:30:45] intemperate: Not without exchanging material,  which weakens his att
+[16:31:31] intemperate: I would have kept checking, force the Q away and build up a bit of time
+[16:32:01] bickedag: not sure if Na7 Nb5 Nc3 makes any sense
+[16:33:17] bickedag: 29. Rb6 is strong, I only looked at Ra6 before
+[16:34:03] intemperate: Rb1?
+[16:34:49] intemperate: Forget that lol fork on c3
+[16:37:36] bickedag: wait I am just losing an exchange here right
+[16:44:58] bickedag: uhhhh
+[16:50:03] bickedag: he totally won't see Bf8 for sure yep yep
+[16:53:21] bickedag: hold on
+[16:53:52] bickedag: Qa6 unfortunately
+[16:55:39] bickedag: damn that is strong
+[16:59:13] bickedag: outplayed the whole game it seems
+[17:00:59] bickedag: man when I played 12... Rc8 I didn't even see Bd3
+[17:00:59] bickedag: in light of that Qc7 is obviously much better
+[17:01:45] thecrackedtherom: I haven't played against the O'kelly in a hot second
+[17:02:15] thecrackedtherom: however b4 was a complete mouseslip
+[17:02:30] bickedag: really thats funny
+[17:02:30] bickedag: it is better than b3
+[17:02:30] thecrackedtherom: I was going for b3, but it seemed like it worked out
+[17:03:16] bickedag: I should have played Nf6 instead of Ne7
+[17:03:47] thecrackedtherom: I thought f3 was a nice touch after f5
+[17:04:02] bickedag: yeah I was surprised by it, I guess I really underestimated Nc4
+[17:04:02] thecrackedtherom: That
+[17:04:32] thecrackedtherom: was what i was going for but I thought things got intresting after xe4 xe4 and then rxf1
+[17:05:33] thecrackedtherom: I thought I would have to take with teh bishop or the knight or else nb3 seemed really strong
+[17:06:04] bickedag: yes I think Bxd4 was forced
+[17:07:20] bickedag: yeah I didn't go for 18... fxe4 because I thought you take with Bishop on f1 and then I hallucinated that I lose a pawn on d4
+[17:07:50] thecrackedtherom: But yeah overall I think that was a good game! thanks so much for the game and I hope you do well in your future games!
+[17:08:06] bickedag: likewise, looks like you guys might tie our match
+[17:08:21] thecrackedtherom: I guess it all depends on the last board now
+[17:16:13] bickedag: it's crazy how much better 13... Nf6 is than Ne7
+[17:16:59] bickedag: it is going to haunt me since I was strongly considering it but went with Ne7 to keep scope of my bishop
+[17:17:45] bickedag: Nd7 and Nc5 later makes so much sense
