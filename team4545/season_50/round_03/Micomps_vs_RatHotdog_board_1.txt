@@ -1,0 +1,166 @@
+Lichess game chat log
+Game      : https://lichess.org/7L9Hxvx2
+White     : micomps
+Black     : rathotdog
+Time      : 45+45
+Captured  : 2026-10-11 20:06:34 UTC
+Game ended : 2026-10-11 18:46:24 UTC
+Messages  : 156
+────────────────────────────────────────────────────────────
+
+[15:55:43] johnjpershing: Lets go Rat!
+[16:00:03] suspendedseventh: cmon raaaat
+[16:01:04] johnjpershing: This is the final game, black is in a must-win scenario here
+[16:01:19] rathotdog: he has played basically a different line every time hes faced the classical sicilian so I have no idea what hes gonna play
+[16:02:35] rathotdog: if he checked my most recent database he'd see ive been playing this but overall this wouldn't pop up
+[16:02:35] numerot: 6.Bc4 isn't the Rauzer so it's incorrect
+[16:03:05] micomps: (6...e5) so, our game is poised at 4-3 to our team after Raj's excellent win a moment ago
+[16:03:21] micomps: all in prep so far, just wanting to play solid out of the opening
+[16:03:36] rathotdog: this e5 line I found recently, it gets kind of forcing after Nf5 but anything else isn't too critical
+[16:03:51] micomps: black is a very, very competent player so want to keep this nice and straightforward to begin with
+[16:03:51] rajjsinghh: To be fair, white has a lot of very nice options against the Classical Sicilian, and 6...e5!? doesn't smell right
+[16:04:37] suspendedseventh: Ehhh I feel like only the Rauzer really scares me much
+[16:07:09] rajjsinghh: It really depends if white castles long and sharpens play or goes short
+[16:08:10] rajjsinghh: I'm skeptical of e5 over e6 but black is the better player and must know what he's doing
+[16:08:10] rajjsinghh: better than me, that is
+[16:09:57] sheyda8: hello rat fans
+[16:11:13] sheyda8: sveshnikov, xool
+[16:17:34] micomps: (10...o-o) happy with my position here, now to sort the rooks. Think Rook d1 is the move, but which. Does it matter?
+[16:18:50] suspendedseventh: Real lmao
+[16:21:22] rajjsinghh: I think there's a Nimzowitsch quote that's like "Which rook should I move? the wrong rook!" because we always get the decision wrong
+[16:26:57] numerot: I thought that was Tartakower and it was the way to pick which rook to move is you think about it, pick one, and then move the other one
+[16:26:57] numerot: could just be different quotes I guess
+[16:27:58] suspendedseventh: I thought it was attributed to Nimzo too
+[16:28:13] rajjsinghh: I might be misremembering. Tartakower looks more promising
+[16:28:13] eathotdog: atHotDogs assemble
+[16:28:13] rathotdog: I think a6 Nd5 is kind of annoying, with Bb6 stuff
+[16:28:44] rajjsinghh: As long as it's not Tarrasch I think getting mixed up is fine here
+[16:28:44] nyanners: tartakower yes
+[16:29:29] nyanners: or well, that seems to be the widely accepted source. many things are attributed to many people
+[16:29:29] eathotdog: There's no Tarrasch Indian
+[16:29:45] eathotdog: Checkmate, atheists
+[16:30:00] nyanners: tarrasch has a surprisingly small amount of named lines
+[16:30:15] nyanners: i suppose he kinda sorta made them count
+[16:30:15] eathotdog: "One shouldn't believe everything he reads online."
+[16:30:30] eathotdog: -Aran Nimzowitsch
+[16:31:31] eathotdog: Tarrasch French is kinda cringe, QGD Tarrasch is pretty dece
+[16:31:31] eathotdog: What else
+[16:31:31] nyanners: i thought it was einstein that said that
+[16:31:47] eathotdog: A common misattribution
+[16:31:47] rajjsinghh: At least the Tarrasch French avoids the Winawer
+[16:32:02] nyanners: fair. people really just do be attributing random stuff to einstein these days
+[16:32:17] eathotdog: Well you should let Black be the one to avoid the Winawer
+[16:34:04] rathotdog: I might go Na5 next given the chance, last turn it hung a7
+[16:36:51] rathotdog: mb Na5 Bxe6 fxe6 Nxe5 is a problem
+[16:37:37] suspendedseventh: One must imagine Rat playing Na5
+[16:39:39] rajjsinghh: Isn't Na5 Nxe5 a problem?
+[16:40:40] micomps: (13.h3) black needs to win for the match position, so I am just playing calmly here
+[16:41:10] micomps: I thought about Nd5 on the last move but was not completely convinced - no need to risk anything here
+[16:41:26] sheyda8: lmso
+[16:41:41] micomps: I am allso somewhat hoping black goes for something aggressive somewhere which I can then counter
+[16:47:16] micomps: (13...Qc7) toying between Na4 and Rac1 here
+[16:48:32] micomps: think both are fine - Na4 and black cannot play Nxe4 due to Bb6
+[16:49:03] socholate: Annoying knight
+[17:00:13] micomps: (17.Bxd5) quite happy for more exchanges here if black wants
+[17:02:30] micomps: (18.Bb3) and happy if Nxe4 as I play c3 and then have threats of Bxh6
+[17:02:45] micomps: black might go for it to create unbalance given need to win
+[17:04:32] micomps: (19...Nc6) I am just looking at what happens after Bxh6 and Nxc3
+[17:05:18] micomps: I think I can then re-direct to attack h7 with Qd3, Bc2 etc
+[17:05:33] micomps: or maybe even just take on c3. All looks fine
+[17:06:49] micomps: not sure if black has f5 in those lines...let's see what they play first and then look at it
+[17:06:49] micomps: if nothing else I would have bxc3
+[17:13:25] micomps: (22.axb3) this feels fine
+[17:13:25] socholate: Hmm
+[17:13:41] micomps: probably quite level but level will do nicely
+[17:13:56] rathotdog: I didn't realize how annoying my a6 pawn would be when I calculated into this line a while ago
+[17:29:25] socholate: Ne7?
+[17:29:55] socholate: Go rat go
+[17:30:11] rajjsinghh: Ne7 stops white playing c4 actually, maybe Qf3 instead of c4 is a small misstep
+[17:32:58] micomps: (26...Ne7_ so I am not sure what to really plan here. So far, I have just been solid, inviting black to make the headway
+[17:34:14] micomps: obviously, the plan is to play d5 for black. I could play c4 - c4 bxc, bxx and if Qxc then Rxd6 is edging closer to 1/2-1/2
+[17:35:00] micomps: but my fear is black not taking and me ending up with weak double b-pawns
+[17:35:00] micomps: let's just wait and see...
+[17:37:32] rajjsinghh: I wonder if this is a case of playing for a draw is playing for a loss
+[17:38:03] suspendedseventh: ... why would black want to take that?
+[17:39:04] socholate: Idk
+[17:39:19] socholate: Interesting position
+[17:43:38] socholate: Doesnt this trap the bishop
+[17:43:53] rajjsinghh: d4 cd ed frees up f4
+[17:44:09] socholate: Ig it made the castle more insecure
+[17:44:09] suspendedseventh: Rajj I’m not sure that he’s gonna play d4 yet
+[17:44:24] micomps: (30.Qe2) I could have done this last move, but the Q on c8 makes it better
+[17:44:39] socholate: No I meant f5
+[17:44:39] micomps: as I am now threatening the e7 knight if there are trades on d4
+[17:44:39] socholate: With tempo on the queen
+[17:44:54] socholate: idk doesn’t matter now
+[17:45:10] micomps: e.g. ...b4, c4 d4, Bxd4! then the e7 knight is hanging if black recaptures with e-pawn
+[17:45:40] socholate: Mucho problemo
+[17:45:55] socholate: Just follow your heart Ratzy <3
+[17:45:55] suspendedseventh: Hm?
+[17:46:26] rathotdog: I suck I should have played f5
+[17:46:26] socholate: I was right yay
+[17:47:11] socholate: But white can blunder again
+[17:47:42] rathotdog: Now here Qg4 f5 Qg5 and my knight is unprotected >:(
+[17:48:12] rathotdog: maybe I can try Qg4 f5 Qg5 Rd7 to keep it interesting, I can't just repeat
+[17:50:14] rathotdog: wait 29. ... f5 might not have been winning, Qg5 f4 Bb6! Qxb6 Qxe7
+[17:50:29] socholate: ooo
+[17:52:47] socholate: Maybe it’s bad but I like Rd6
+[17:54:18] rajjsinghh: I guess the problem is that after ...e4 white needs to find a positive in the position
+[17:54:33] johnjpershing: pretty good game so far. I like 31....e4, gives a passed pawn, opens up the f5 square for blacks knight
+[17:54:33] socholate: I guess giving up e4 isn’t that bad
+[17:54:48] socholate: D4*
+[17:55:04] rajjsinghh: The blockade feels fine but then white has to worry about not being too passive
+[17:56:50] rathotdog: I forgot about c4, that is kind of annoying. My center falls apart at least
+[17:56:50] socholate: Whats the plan for black
+[17:56:50] suspendedseventh: This is fineeee
+[17:57:21] socholate: Yee
+[18:06:00] socholate: Pawn will pose a threat for white won’t it
+[18:07:16] suspendedseventh: I expect
+[18:09:34] rajjsinghh: yeah white's not out of the woods yet
+[18:11:51] socholate: White scareeeed
+[18:12:37] rajjsinghh: Is white sure there's a perpetual here?
+[18:12:52] suspendedseventh: Ugh I hate watching people play like this
+[18:13:23] micomps: (39.Qh5) quite happy now for this to fizzle out. Not that I think black will allow that though...
+[18:13:23] socholate: Yeah it loses respect, but white said they were going for a draw anyway
+[18:13:23] suspendedseventh: The perpetual should be preventable
+[18:13:38] suspendedseventh: I’m not so hung up on respect, it’s just... idk
+[18:15:25] rajjsinghh: If you hate white playing for a draw here, you have to also find a move that gives white winning chances
+[18:15:40] socholate: No hate just disappointment
+[18:16:10] socholate: Is queen exchange good
+[18:17:27] suspendedseventh: No that one move in particular read as ugly to me lol
+[18:17:27] suspendedseventh: That Qh5
+[18:18:13] rajjsinghh: Qh5 Nxf4 is where I'd be slightly concerned but it looks like white had it under control
+[18:18:13] socholate: I see
+[18:19:29] nyanners: respect has to be earned.. like by throwing all your pieces to the wind and losing horribly
+[18:21:46] micomps: (48.Kg4) a small panic there thinking I wouldn't have enough moves if the king comes in to go for b3
+[18:22:01] micomps: but I think it's absolutely fine
+[18:28:22] nyanners: want to play Bxa5 for fun
+[18:28:53] nyanners: dont do it..... unless
+[18:29:38] socholate: It may work
+[18:30:09] eathotdog: haha what if I put my bishop on a5
+[18:30:09] eathotdog: Just kidding... unless.?
+[18:31:55] rathotdog: I thought Bxa5 was definitely at least a draw
+[18:32:41] micomps: (50.h4) I am not sure if I could have played Bxa5 last move
+[18:32:56] micomps: one of those moves that is great if it works but you look foolish if not
+[18:34:28] eathotdog: Bxa5 really looked like a draw but the amount of piece+pawn vs. pawns endgames that unexpectedly win for the piece isn't zero
+[18:35:59] suspendedseventh: Huh
+[18:37:00] rathotdog: I'm definitely taking unnecessary risk, there was never really chances here
+[18:39:02] eathotdog: someone tell them it's a drow
+[18:39:17] nyanners: yea didnt white want the draw.. huh
+[18:41:19] rajjsinghh: I mean white may as well play on, no risk
+[18:41:34] rajjsinghh: I've messed up simpler endgames
+[18:41:34] nyanners: no yea we jest
+[18:41:49] eathotdog: There is a risk of wasting precious time and mouse durability
+[18:42:20] nyanners: thats true actually. mouse dying, power outage, heart attack.. there are plenty of ways to lose here
+[18:42:35] nyanners: you can probably tab your way to keyboard moves but its not easy
+[18:43:06] eathotdog: You might not have enough time to run to the nearest store selling mouses and back
+[18:48:25] rathotdog: I really misevaluated this Nxe4 line on move 17 when I committed to it, everything is more loose than I was visualizing
+[18:48:41] rathotdog: 17. Nxd5 would have been a much simpler continuation
+[18:49:41] eathotdog: At least you can be satisfied that if Gukesh would have played this game, people would be glazing you as a worthy Magnus-tier world champion
+[18:50:12] micomps: Fun game RHD, must see if Mr Svidler had anything to say!
+[18:50:42] rathotdog: i hope so
+[18:50:42] rathotdog: :p
+[18:50:42] eathotdog: 98% accuracy
+[18:52:14] rathotdog: thats just because the game was so long
+[18:55:16] micomps: Not a bad ACPL....
+[18:55:31] micomps: I think me messing around the last 10 moves probably helped!
