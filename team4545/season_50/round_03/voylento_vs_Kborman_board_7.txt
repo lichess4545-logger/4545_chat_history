@@ -1,0 +1,242 @@
+Lichess game chat log
+Game      : https://lichess.org/MBY7NkIC
+White     : voylento
+Black     : kborman
+Time      : 45+45
+Captured  : 2026-10-11 02:53:42 UTC
+Game ended : 2026-10-11 01:33:34 UTC
+Messages  : 232
+────────────────────────────────────────────────────────────
+
+[23:01:14] namegoesinhere: go Kborman!
+[23:01:44] goldenretrieverchess: Go Kborman!
+[23:05:18] nyanners: ah its the funny line
+[23:05:33] nyanners: is white prepared :o maybe
+[23:12:54] namegoesinhere: (8...d6) I have no idea what is going on in this line
+[23:13:10] namegoesinhere: (8...d6) I assume this is still theory
+[23:14:41] namegoesinhere: (8...d6) i guess black wants Be6 and if exd6 then Qb3 or something and go for an attack?
+[23:38:02] nyanners: yea white played well
+[23:39:03] nyanners: this is one of those lines that ive looked at and its like
+[23:39:03] nyanners: engine says its ok!! but i dont get it
+[23:39:34] nyanners: like yea i get it in abstract terms but i dont know how you prove the compensation in practice
+[23:39:34] nyanners: skill issue
+[23:42:37] nyanners: umm think its f5 here
+[23:45:55] kamagayajiji: f5 does Nd4 work?
+[23:46:56] nyanners: umm the problem is c2 hangs in fx nxe6? im not sure
+[23:47:11] nyanners: no wait you can just take. the discovery is fake
+[23:47:11] nyanners: Nxc6 defends
+[23:47:41] kamagayajiji: Thanks!
+[23:47:57] nyanners: yea its quite interesting
+[23:48:12] nyanners: i mean, i know white's main move is 13 O-O
+[23:48:12] nyanners: so that helps
+[23:49:43] nyanners: @Khem this guy used to stream and he really loves these lines for black
+[23:51:45] nyanners: umm i did look at Nxa2 but it feels wrong. like giving a pawn seems aesthetically pleasing
+[23:51:45] nyanners: Be3 O-O
+[23:53:01] nyanners: but maybe Be3 Qxb2 O-O Nc3 and ..Qb4 escapes
+[23:53:47] nyanners: there could be some weird ideas. Rxa2 Bxa2 b3
+[23:54:02] nyanners: if white was castled it would be more convincing
+[23:54:33] nyanners: but i dont think its exactly refuted
+[23:54:48] mrscribbles: (13...Nxa2) Go es slowly
+[23:56:04] mrscribbles: (13...Nxa2) hi A-nners
+[23:56:35] nyanners: :o
+[00:06:13] mrscribbles: (13...Nxa2) I love a silly knight. That is the silliest of the silly knights
+[00:06:29] stclion: "  Everything I Do Is Wrong "   ...as the song goes
+[00:07:14] mrscribbles: (13...Nxa2) Also , seems like our good ol pal voyleoenocto is falling apart here, unfortunately
+[00:07:14] stclion: but if you're destined to lose a pawn ,   you might as well castle
+[00:07:30] nyanners: the best pawn-losing line has to be Be3
+[00:08:00] stclion: save the B
+[00:08:00] mrscribbles: (13...Nxa2) Indeed CTSclions. Often in that case you just forget about pawns and go hog wild with the attack
+[00:08:15] mrscribbles: (13...Nxa2) well actually I kinda like Nyan-set's Be3. Then castle
+[00:08:15] stclion: tho  it prompts B-c5
+[00:08:30] mrscribbles: (13...Nxa2) idk chess is hard
+[00:09:01] mrscribbles: (13...Nxa2) We can't get away with, say,Rxa2 Bxa2 b3? I think it's too slow?
+[00:09:16] mrscribbles: (14.Rxa2) maybe do it anwyay as an exchange sack
+[00:09:16] mrscribbles: (14.Rxa2) ayo white took my advice. Nice
+[00:09:16] stclion: allows the +
+[00:09:31] stclion: so  no castle
+[00:09:47] mrscribbles: (14.Rxa2) Which check? Not just Bb4+ c3?
+[00:10:02] mrscribbles: (14.Rxa2) Qa5+!
+[00:10:02] stclion: if you have to flex to b3 first ...
+[00:10:47] stclion: an issue with putting Q on b5  ...
+[00:10:47] kamagayajiji: If nothing else, a brave decision
+[00:11:03] stclion: bigger plans for the B
+[00:11:18] mrscribbles: (14...Bxa2) I don't know if Rxa2 is winning on the board, but I know it's winning in my heart <3
+[00:11:18] mrscribbles: (15.b3) Castle now. Don't think just castle
+[00:11:33] mrscribbles: (15.b3) nooooo castle
+[00:11:33] stclion: a definte Critical Control Point
+[00:11:33] mrscribbles: (15.b3) I don't care about the bishop
+[00:11:48] mrscribbles: (15.b3) This must be too slow, right?
+[00:11:48] mrscribbles: (15.b3) I don't believe in b3
+[00:11:48] stclion: white has bigger plans for his DSB  , than his Ra
+[00:12:04] mrscribbles: (15.b3) but it's ambitious, hard to complain about that as a spectator
+[00:12:49] mrscribbles: (15.b3) So, all right. At the very worst, Black can be two pawns and a rook for two pieces
+[00:12:49] mrscribbles: (15.b3) and those two pawns will be connected passed pawns
+[00:13:05] stclion: yes
+[00:13:05] stclion: that was the reason for the long look
+[00:13:20] mrscribbles: (15.b3) I dont think I believe in b3 for that reason, but we'll see. :)
+[00:13:50] stclion: stop the castle  tho    and B-b8 might get those pawns anyway
+[00:13:50] mrscribbles: (15.b3) Also, wild that neither side has castled on a wide open board
+[00:14:05] mrscribbles: (15.b3) with queens prowling
+[00:14:21] stclion: now its Black's turn  to try and work ina  castle somehow
+[00:14:36] mrscribbles: (15.b3) I'd probably just castle as black
+[00:14:51] stclion: Qxh7 mate
+[00:15:06] stclion: they're both FAR out on the tightrope
+[00:15:06] mrscribbles: (15.b3) oops lol
+[00:15:06] mrscribbles: (15.b3) I mean, no way white sees Qxh7
+[00:15:22] stclion: ;?))
+[00:15:22] mrscribbles: (15.b3) :halo:
+[00:15:37] stclion: baby steps   , both players need
+[00:15:37] mrscribbles: (15.b3) I prefer the much more elegant Bxh7+!
+[00:16:07] mrscribbles: (15.b3) what a fun position. What was the opening?
+[00:16:07] mrscribbles: (15.b3) scrolling back now
+[00:16:22] mrscribbles: (15.b3) some kind of fever dream sicilian I see
+[00:16:38] stclion: B-b4+   if B-d7  take   , if N-d7  move R-d8
+[00:16:38] voylento: howdy mrscribbles!
+[00:16:53] mrscribbles: (15.b3) Hi toyveleoento
+[00:17:08] mrscribbles: (15.b3) voypronto
+[00:17:23] mrscribbles: (15.b3) O-O-O!
+[00:17:23] stclion: Q-a5  after B-b4  also
+[00:18:40] stclion: tho  b7 is hanging then
+[00:19:40] nyanners: both sides were well prepared
+[00:19:56] nyanners: only at Be4 they deviated (i think)
+[00:20:11] nyanners: instant 20+ minute thinks xd
+[00:20:11] mrscribbles: (15.b3) wow
+[00:20:26] stclion: what's the opening ?
+[00:20:41] namegoesinhere: (15...Bxb3) it's the nimzowitsch sicilian
+[00:20:57] namegoesinhere: (16.cxb3) e4 c5 Nf3 Nf6!?
+[00:20:57] mrscribbles: (16.cxb3) please castle next
+[00:20:57] mrscribbles: (16.cxb3) pleeeeeeease castle
+[00:21:27] mrscribbles: (16.cxb3) I need you to castle even if it's Bb4+, I don't care
+[00:22:13] mrscribbles: (16...Qxb3) castle
+[00:22:28] mrscribbles: (16...Qxb3) please
+[00:22:43] mrscribbles: (16...Qxb3) lovyento I'm begging you. I'm begging you
+[00:23:29] mrscribbles: (17.O-O) phew. Thanks
+[00:23:29] nyanners: now black could castle too. for good measure
+[00:23:44] namegoesinhere: (17.O-O) how is black supposed to proceed here?
+[00:23:44] nyanners: actually no clue
+[00:23:44] stclion: The Advance Var
+[00:23:44] mrscribbles: (17.O-O) hi gamenoseinhere
+[00:23:44] nyanners: think checking was necessary
+[00:23:59] kamagayajiji: Castle into#?
+[00:23:59] nyanners: this is just too convenient for white
+[00:24:15] namegoesinhere: (17.O-O) I thought about trying to prepare 0-0 with h6 but that runs into Bxh6 once you castle + maybe Ng5
+[00:24:30] namegoesinhere: (17.O-O) so like g6 maybe, but still Ng5 is a problem
+[00:24:30] nyanners: O-O-O for all i know
+[00:24:45] namegoesinhere: (17.O-O) 0-0-0 isn't legal lol
+[00:24:45] mrscribbles: (17.O-O) It's funny that black has three different ways to pin white's LSB to the wQ, and none of them fail to Bc6+
+[00:25:16] namegoesinhere: (17.O-O) i would probably try it if it were
+[00:25:31] nyanners: Be7 Bg5 f6 Be3 O-O-O? probably not
+[00:26:01] mrscribbles: (17.O-O) I wonder what percentage of games have a position where castling both ways is possible, and one is illegal and one is mate?
+[00:26:01] namegoesinhere: (17.O-O) I was guessing after Be7 white goes Qh3
+[00:26:16] namegoesinhere: (17.O-O) maybe that runs into something idk
+[00:26:16] nyanners: oh i mean
+[00:26:32] nyanners: not only that line looks bad for black, theres probably better for white XD
+[00:26:47] stclion: ahh    Move 13 was supposed to be a Castle
+[00:27:02] stclion: solving all the problems we just saw
+[00:27:02] mrscribbles: (17.O-O) g5 would open files for blac's currently-useless rook
+[00:27:17] mrscribbles: (17...Be7) oooh are we gonna long castle?
+[00:27:17] stclion: so  they were mostly playong the top moves
+[00:27:33] mrscribbles: (17...Be7) maybe O-O-O Kb8 wouldn't be the worst thing ever after like Bd6?
+[00:27:48] mrscribbles: (17...Be7) I mean it's super risky but everything is risky
+[00:27:48] stclion: which kept the game potential results even
+[00:28:03] stclion: no other option at move 13   but the 0-0
+[00:28:18] mrscribbles: (17...Be7) i've lost a lot of games by thinking I had a better move than castling
+[00:28:49] stclion: of course  that might have prompted Black to play NxB  instead of a2
+[00:29:50] namegoesinhere: (17...Be7) maybe black just has to leave the king on f8 or something and somehow find another way to get the rook in the game
+[00:30:35] stclion: yeah  its Full Stop  Out of Book , at move 13
+[00:36:10] namegoesinhere: (18.Qh5) Rd1 here to stop Bd5 ideas and maybe think about Rd1?
+[00:57:30] stclion: no answer for the N  ....
+[01:01:34] mrscribbles: (24.Bc6) Just checking back in now
+[01:01:34] mrscribbles: (24.Bc6) This doesn't look fun for either side to play in time trouble
+[01:01:49] mrscribbles: (24.Bc6) My instinct is that white is better
+[01:01:49] mrscribbles: (24...Bb4) oh, well hmm
+[01:02:04] nyanners: umm it was definitely fantastic for white before
+[01:02:19] mrscribbles: (24...Bb4) Has white lost?
+[01:02:19] nyanners: which means that black's situation has certainly improved since xd
+[01:02:35] mrscribbles: (24...Bb4) Any way out of this?
+[01:02:35] nyanners: rf1 and what
+[01:02:35] mrscribbles: (24...Bb4) oh, Rf1, ok
+[01:02:50] mrscribbles: (24...Bb4) I mean... yeah doesn't look fantastic. I picked a bad time to check in haha
+[01:03:20] nyanners: ah the q trade
+[01:03:20] nyanners: big for black
+[01:08:55] mrscribbles: (27...Bc5) Bf4 looks vaguely annoying
+[01:08:55] mrscribbles: (28.Bf4) wait
+[01:08:55] mrscribbles: (28.Bf4) Is that rook trapped?
+[01:09:11] nyanners: rd1
+[01:09:11] mrscribbles: (28.Bf4) no,oops
+[01:09:11] nyanners: you really dont like that rank do you
+[01:09:26] mrscribbles: (28.Bf4) nyanners you're the good angel on my shoulder
+[01:09:41] nyanners: no id definitely be the bad one
+[01:09:41] mrscribbles: (28...Rd1) I have plenty of my own bad angels already:D
+[01:10:12] nyanners: i mean even the bad one doesnt want to miss that. itd look bad and then you wouldnt listen in the future
+[01:11:28] mrscribbles: (29.Bc4+) Excellent use of the spite check maneuver here
+[01:11:43] mrscribbles: (29...Kg7) Mm well I guess white isn't lost, so not exactly a spite check
+[01:12:14] mrscribbles: (30.Bc7) Anything can happen with these clock times
+[01:12:29] mrscribbles: (30.Bc7) Rc8!!
+[01:13:30] mrscribbles: (31.Kxf1) This is such a weird endgame
+[01:13:45] mrscribbles: (31.Kxf1) I sorta like black but no idea really
+[01:13:45] nyanners: umm yea i agree. white's coordination is annoying
+[01:14:00] nyanners: problems on f2 and have to kinda sorta watch the pawn
+[01:14:16] nyanners: like that
+[01:14:31] nyanners: Bxf2 next
+[01:14:31] mrscribbles: (31...Rc8) that's annoying
+[01:14:31] nyanners: and without the bishop pair white cant win
+[01:15:01] mrscribbles: (32.Bg3) Does Bxf2 Ba6 do anything? i don't think so
+[01:15:17] nyanners: or well, i shouldnt say that. white has a knight :o
+[01:15:17] mrscribbles: (32.Bg3) no, checks
+[01:15:32] mrscribbles: (32...Bb4) ok, black isn't interested in f2
+[01:15:32] nyanners: Bb4 ambitious :o
+[01:15:32] mrscribbles: (32...Bb4) This is totally impossible to play in time trouble. I don't envy either side
+[01:15:47] nyanners: i dont think theres an actual threat
+[01:15:47] nyanners: e1 is covered
+[01:16:33] nyanners: umm yea
+[01:16:48] nyanners: the problem both sides have is that you dont have any actual targets or things to do
+[01:16:48] mrscribbles: (34.Ke2) I predict someone will hang a piece in one move
+[01:17:03] nyanners: black can try to push that pawn but it's really weird
+[01:17:03] mrscribbles: (34.Ke2) It's what I would do
+[01:17:03] nyanners: i think its a good approach yea
+[01:17:03] nyanners: shuffle randomly but dont hang anything
+[01:17:19] mrscribbles: (34.Ke2) As in, hanging a piece in one move is what I would do
+[01:17:19] nyanners: and its easier for black to hang it
+[01:17:19] mrscribbles: (34.Ke2) Im not built for endgames
+[01:17:34] nyanners: like, bishop pair and knight. thats very annoying
+[01:17:34] mrscribbles: (34.Ke2) nyanners we keep interrupting each other haha
+[01:17:49] nyanners: black could really have used that trade on f2
+[01:18:04] mrscribbles: (34...Rc5) Watch out for Bd6 next!
+[01:18:04] nyanners: no interruption i think XD its alright
+[01:18:20] mrscribbles: (35.Bd3) voylento building up a small time bank here, can be very valuable, even a minute or two in crucial positions
+[01:18:50] mrscribbles: (35...Ba5) When you have zero minutes, even 30 or 60 seconds in the savings acc makes a big differenceount
+[01:18:50] nyanners: white starting to look really good now
+[01:19:05] nyanners: nd4
+[01:19:05] mrscribbles: (35...Ba5) very rude of black to see my Bd6 tactics
+[01:19:36] nyanners: by "look really good" i mean a higher amount of 1-move threats
+[01:20:06] nyanners: umm id call this the wrong direction but
+[01:20:21] nyanners: bishop pair is still good
+[01:20:37] nyanners: but it doesnt instill that sense of sheer horror that the three pieces did
+[01:21:07] nyanners: i mean, i take white, but how do you win? no passer
+[01:21:38] nyanners: its just greater piece-hang potential
+[01:24:40] mrscribbles: (39...Kf7) Ke3 seems sensible
+[01:26:42] nyanners: rd4
+[01:26:57] nyanners: this helps black significantly
+[01:28:59] baberle: i would need several beers after this game to calm nerves.
+[01:29:15] stclion: he won't be going to sleep  , anytime soon
+[01:30:15] stclion: hmm  R-h4  or -a4   ...
+[01:33:49] baberle: oh no!
+[01:33:49] mrscribbles: brutal
+[01:33:49] mrscribbles: gg
+[01:33:49] jdw10: gg
+[01:34:04] baberle: gg but tragic
+[01:34:04] mrscribbles: chess is so hard
+[01:34:04] stclion: a wild struggle
+[01:34:35] mrscribbles: A great game from start to finish
+[01:34:50] mrscribbles: Wow, not the eval graph I was expecting
+[01:34:50] stclion: there was no way to save b pawn
+[01:35:20] nyanners: dang
+[01:35:20] nyanners: gg
+[01:35:35] stclion: ouple on +s   would have boughta  few more seconds
+[01:35:51] stclion: a couple of +s
+[01:36:36] goldenretrieverchess: gg
+[01:36:36] stclion: RxB sac   and hope your K can defens the three pawns as they move down ?
+[01:36:51] stclion: defend
+[01:37:52] stclion: stats are basically even
+[01:40:25] voylento: wow, that was hard
