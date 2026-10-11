@@ -1,0 +1,112 @@
+Lichess game chat log
+Game      : https://lichess.org/hVGsetIP
+White     : leverkuhn
+Black     : kayrosas
+Time      : 45+45
+Captured  : 2026-10-11 21:28:51 UTC
+Game ended : 2026-10-11 20:08:42 UTC
+Messages  : 102
+────────────────────────────────────────────────────────────
+
+[19:00:34] kayrosas: bit nervous bc I'm less well prepped than usual
+[19:00:34] kayrosas: I considered looking at 4...Ba6 as a surprise but they do 3.Nc3, 3.g3 and 3.Nf3, didn't really feel like bothering
+[19:00:34] kayrosas: looked at 7.Re1 a bit. my usual move is a5 I believe. considered c5 and Na6 to deviate
+[19:00:34] kayrosas: c5 turns out to be a bit uncomfortable if white is accurate
+[19:00:34] kayrosas: 7...d5 is the mainline and most equal move, but a bit boring & depressing for black
+[19:00:34] chonov: kayrosas, you got it
+[19:00:34] kayrosas: I wonder what they were aiming for after 7...a5. there are some depressing lines if white is prepped
+[19:00:34] kayrosas: at least they're thinking. I still have to figure out what the Na6 does. main idea I know is just wait for Nc3 to get Ne4
+[19:00:34] kayrosas: 8.a3 is smth i could've anticipated and checked, but nope
+[19:00:34] kayrosas: I would assume my idea is d5 and then c5 probably. not sure how else to justify the Na6
+[19:00:34] kayrosas: 8...c5 always tempting but d5 should be strong and my knight will be misplaced
+[19:00:34] kayrosas: usually I try to play the qid without d5 so I need to be a bit more careful about typical ideas
+[19:00:34] chonov: maybe c5 was possible with some stuff like 8. ... c5 9. d5 exd5 10. cxd5 Nxd5 with the idea 11. ... Nc7. But I have no idea how good the d5
+[19:00:34] chonov: pawn sacrifice here (or in general) is. It's maybe tactically direct loosing for black. idk I play 4. ... Ba6 as black and avoid this stuff
+[19:00:34] kayrosas: I know white has to figure out their setup here, but still seems like an unreasonably long think
+[19:00:34] kayrosas: not sure how I'll follow c5 up but it can't be wrong
+[19:00:34] kayrosas: still trying to justify 11.dxc5 bxc5 somehow bc I'm #1 iqp hater but gonna have to be Nxc probably
+[19:00:34] kayrosas: a bit happy about Bg5 I believe, don't think trading on f6 is ever good unless d5 falls ofc
+[19:00:34] chonov: iqp hater :d
+[19:00:34] kayrosas: something like 11...h6 Bf4 Ne4 would be quite typical I believe
+[19:00:34] kayrosas: and as I said, don't think Bxf6 can be that worrisome
+[19:00:34] kayrosas: 11...h6 Bxf6 Ne5 is a bit weird tho
+[19:00:34] kayrosas: 11...Ne4 is the alternative to be a bit safer, but more passive
+[19:00:34] kayrosas: really wanted 11...h6 to work but whenever white gets a good Ne5 in it seems a bit awkward
+[19:00:34] chonov: I swear I don't understand anything about these positions
+[19:00:34] kayrosas: getting my queen to e7 also just unscrambles my position a bit
+[19:00:49] chonov: what happens after 13. Rc1?
+[19:01:04] chonov: Oh it was played
+[19:03:52] kayrosas: 13...Rfd8 or Rad8. f feels more natural but a would make a Nb8-d7-f6 reroute less awkward
+[19:06:40] kayrosas: 13...Rad8 Qa4 feels a bit weird to resolve
+[19:08:57] kayrosas: it's a bit weird bc for now I can just prepare, releasing the tension e4c3 or c5d4 is never good for me
+[19:09:43] kayrosas: e3 feels wrong
+[19:11:14] chonov: is Nxc3 with c5 possible? looks good if white is not getting a fast e4 through
+[19:11:44] chonov: looks still weird with the Na6
+[19:19:21] kayrosas: bit tempting to go back 15...Na6 now for that sweet b4 square but might be slow
+[19:21:08] ascannerdarkly: Let's go Lever!
+[19:23:25] kayrosas: 15...Ne6 feels right but also doesn't have any forward movement
+[19:28:30] chonov: I wonder what I miss. I would prefer 15. ... Ne8 for N8f6
+[19:29:31] kayrosas: still a weird position but keeping the pace is probably more important by now
+[19:30:47] kayrosas: always looking at some c4 ideas but I'd need more pressure on the kingside to justify that
+[19:35:22] leverkuhn: @mouseslipssinkships great handle!
+[19:35:37] mouseslipssinkships: thank you
+[19:36:23] kayrosas: a knight on b4 would be nice now
+[19:44:00] rusty_2003: Go magma!
+[19:44:15] kayrosas: 18...g5 stuff feels a bit tempting but probably doesnt do much beyond killing my structure
+[19:44:46] kayrosas: and white is still struggling to find a plan
+[19:47:06] kayrosas: Qf5 just prepares Ba6 without hanging d5
+[19:47:37] kayrosas: position is difficult for both of us so I just want to be a little annoying
+[19:50:09] kayrosas: could consider 20...Nxc3 bx Ba6 to prevent 20...Ba6 Nb5, but not sure if necessary
+[19:51:56] chonov: I should look deeper into the game after it ends. I don't understand anything
+[19:55:29] tommeketoch: I am watching this game on stream https://www.twitch.tv/thechessrunner
+[20:02:51] chonov: why exactly cxd4 now?
+[20:04:23] chonov: oh there is maybe Nxc3 with Nxa4 stuff
+[20:07:41] chonov: Bxb3?
+[20:08:42] kayrosas: tough one
+[20:08:57] leverkuhn: exceptionally
+[20:09:12] kayrosas: think it came down to time management. position is weird for both of us, just gotta have time when somebody releases the tension
+[20:09:43] leverkuhn: I felt my position shouldn't be that bad after 15...Ne6, but my idea to provoke ...c4 failed, I couldn't resolve the tactical difficulties
+[20:09:58] leverkuhn: . . . involved in making another plan
+[20:10:28] kayrosas: i thought even after 16...Rab8 you could still continue a5
+[20:10:44] leverkuhn: couldn't move the c3 knight without allowing ...Ba6 in a bad way, couldn't play Ne5 without falling into undermining tactics on d4, and
+[20:11:14] leverkuhn: couldn't trade on e4 without defense of e4 being ejected
+[20:11:29] leverkuhn: so maybe the position after 17...Qf6 was already pretty bad
+[20:11:44] kayrosas: idk, didn't see that much motion forward for me either
+[20:12:15] kayrosas: i really disliked e3 but couldn't really justify why, just g3+e3 always can be very weak
+[20:13:00] kayrosas: i think we were both just hoping for the other side to release the tension. odd position where it's difficult to really support it yourselfd
+[20:15:17] leverkuhn: yeah it definitely was that kind of game
+[20:16:03] leverkuhn: between moves 24-26 I had many ways to sacrifice a4 for comp, but didn't have the guts to play any of them
+[20:16:18] leverkuhn: and missed the winning tactic
+[20:17:04] leverkuhn: I almost played 25.Nce2, should have probably
+[20:17:34] kayrosas: 24.Nxd4 also surprised me a bit, expected ex
+[20:18:35] leverkuhn: instictively I wanted to finally unblock my bishop, but I find that kind of decision impossible to make in 45 seconds
+[20:19:36] kayrosas: i wonder, what were you aiming for out of the opening? I assume you were expecting 7...a5?
+[20:20:37] leverkuhn: I actually had a hunch you'd play 4...Ba6, or possibly a surpise Gruenfeld
+[20:20:37] kayrosas: :o
+[20:21:07] kayrosas: my initial plan was 2...b6 bc I didn't wanna bother with checking my 3.g3 and 3.Nc3 stuff
+[20:21:07] leverkuhn: last game we played you went for a sharp line you hadn't played previously, so I thought you might do that again
+[20:22:24] kayrosas: that one was just bad luck for you bc I recently switched that line. usually I'm rather consistent in what I play, against 1.d4 at least
+[20:22:54] leverkuhn: 7...Na6 was an interesting move, we ended up in a type of ...d5 structure which is usually pretty bad for Black, but I was 1.5 tempi down
+[20:23:25] leverkuhn: one for 7.Re1, and ...Na6 probably more useful than a3
+[20:23:40] kayrosas: yea
+[20:23:40] chonov: what is even the idea of 7. ... Na6?
+[20:24:10] leverkuhn: meet Qc2 with ...Nb4, avoiding the goofy Ng5 tactics which characterize this line
+[20:24:10] kayrosas: Na6xc5 probably
+[20:24:10] kayrosas: and Nc3 Ne4
+[20:25:26] leverkuhn: 8.Nc3 Ne4 9.Qc2 Nxc3 10.Ng5 is the kind of stuff White is fishing for, but it didn't seem to work
+[20:27:43] chonov: makes sence
+[20:28:59] kayrosas: i wonder if 19...g5 was viable
+[20:29:30] leverkuhn: I kind of expected 21...g5 also
+[20:29:45] leverkuhn: looked really good
+[20:29:45] kayrosas: but from a practical point it didn't make sense for me to make big commitments with the time situation
+[20:31:01] kayrosas: just felt like my queen could be a bit off-side if i can't come up with serious threats
+[20:33:03] leverkuhn: yeah it's not the safest approach as the tactics after a later ...g4 and Ne5 still seemed to favor Black for some reason
+[20:33:48] leverkuhn: I was planning to play 21...g5 22.hxg5 hxg5 24.Ne5 before ...g4 but wasn't feeling great about it
+[20:34:34] leverkuhn: *but the instead of 'as the'
+[20:35:04] kayrosas: no idea what happens there tbh
+[20:36:05] kayrosas: hxg feels a bit unnecessary by white in that line I would think
+[20:37:21] leverkuhn: 22.Ne5 gxh4 23.g4!? is that the idea?
+[20:38:53] kayrosas: seems a bit adventurous
+[20:39:23] kayrosas: just ignore it in some way I guess? g4 and gxh4 both aren't threats, are they?
+[20:40:09] kayrosas: but that again leaves the question how white makes progress
+[20:45:13] kayrosas: anyways, thanks for the game & cya
