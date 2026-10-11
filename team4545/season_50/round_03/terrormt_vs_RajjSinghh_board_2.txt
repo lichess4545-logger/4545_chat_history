@@ -1,0 +1,68 @@
+Lichess game chat log
+Game      : https://lichess.org/TL7M9Rsj
+White     : terrormt
+Black     : rajjsinghh
+Time      : 45+45
+Captured  : 2026-10-11 17:19:01 UTC
+Game ended : 2026-10-11 15:58:50 UTC
+Messages  : 58
+────────────────────────────────────────────────────────────
+
+[14:05:49] rajjsinghh: well, small surprise. time to get him back I suppose
+[14:06:20] rajjsinghh: there's no sense sharpening the game with the KID, especially since I know that's his prep
+[14:07:36] rajjsinghh: the good thing for me is that in classical games I used to be a QGD player anyway and I know he's not a regular 1. d4 player
+[14:10:24] micomps: Go Rajj!!!
+[14:14:28] johnjpershing: Let's go Terror!
+[14:19:17] rajjsinghh: I wanted 8...Bg4 but was nervous about f3 Bh5 g4 Bg6. I need to see some commitments first
+[14:23:36] rathotdog: Terror scaring me changing prep from game to game :p
+[14:23:51] rathotdog: But so far his position looks pretty good
+[14:27:55] rajjsinghh: I have c5, I have e5 at points, I can't see white's idea if I just keep a knight on f6
+[14:27:55] rathotdog: Nxe6 might have been rushed, I don't know if you can avoid e6-e5
+[14:28:10] micomps: That f4 knight did look nicely positioned
+[14:28:56] rathotdog: Yeah, if you had the pawn on h3 for example then Bf4 might look pretty good rn
+[14:28:56] rajjsinghh: I've either equalised or I'm a hair better and about to take the initiative I think
+[14:29:41] rajjsinghh: 12 0-0 is really nice, I don't have to worry about an all out kingside attack
+[14:34:15] rathotdog: c5 is kind of surprising but it's probably good too
+[14:34:15] rajjsinghh: my one question is how tied down my d7 knight is to f6, avoiding BxN BxN BxP ch
+[14:35:01] rajjsinghh: then if h6?! is good or just too brave in this position
+[14:36:32] rajjsinghh: now I may be solving all of those problems with e6-e5
+[14:36:48] micomps: (13) This seems quite balanced now
+[14:37:03] micomps: Instinctively you'd prefer white, with the bishop pair and fewer pawn islands. But black looks fine
+[14:37:18] rathotdog: Yeah
+[14:45:41] rajjsinghh: Qa4 Qh4 is pretty clever but my knights and Qe8 will defend my light squares
+[14:46:26] rajjsinghh: and at the end of the day, if I don't lose tactically, I should just be better with a big center
+[14:53:02] rajjsinghh: d4 almost wins a piece but Bxf6. Ne5 feels like a better decision to limit his Kside play
+[14:54:34] rajjsinghh: Now I can put something on c4 and keep the Q on the Qside
+[15:03:27] rajjsinghh: Rc4 stops Qh4 but not Qc2... Qe8 Qc2 Qh5 seems sufficient. Qe8 Qh4 though...
+[15:07:16] rajjsinghh: Qh4 Ng6 Qh3 is slightly annoying with threats on e6 and Bxf6, so I think Qh4 h6 trades some important pieces
+[15:07:47] rajjsinghh: my knights do defend the light squares
+[15:12:36] rajjsinghh: he doesn't seem to have enough attackers for a sacrifice in front of the king
+[15:15:39] terrormt: Bit of a mistake. I thought I could go 18. Bf4 and 19. Qh3
+[15:15:54] rajjsinghh: Bxh6 doesn't work, h7 is too well guarded. Bf4 g5 is wild, but Ng6 is probably simpler
+[15:17:26] terrormt: Maybe Bf4 does work. If g5, Bxg5
+[15:25:33] rajjsinghh: I don't see a tactic so that seems like a huge plus
+[15:32:24] rajjsinghh: my only problem is probably the weakness on e6, but I have a lot of options to defend it
+[15:34:11] rajjsinghh: I wish I knew how to use clock pressure in this league. The increment is just too big
+[15:37:14] micomps: 22.Nxd5 now!
+[15:38:30] rajjsinghh: oops
+[15:40:32] rathotdog: up a juicer!
+[15:41:17] rathotdog: Qxd5+!
+[15:41:48] rathotdog: Rxc1 is prolly also good
+[15:43:50] terrormt: Probably more accurate to keep queens on and keep pressure on 7th rank, but this should be good enough
+[15:48:39] micomps: Rd8 a great move
+[15:49:10] micomps: Especially given clock situation
+[15:50:41] rathotdog: was there 27. e4?
+[15:51:12] micomps: think so, cut off Q going to b1/c2
+[15:54:45] micomps: Qe1 is still ok right, Qg6 was #2?
+[15:57:19] rathotdog: also 27. e4 Qh5 Bxf6 Qxd5 exd5 Rxf6 g3 and we're still 2 pawns up
+[15:57:49] rathotdog: that is a scary king D:
+[15:59:05] micomps: gg!
+[15:59:36] terrormt: My bad team. I relaxed too soon
+[16:00:21] rajjsinghh: yeah that graph is vaguely what I thought during the game
+[16:01:07] rajjsinghh: How come you played 1. d4?
+[16:01:53] terrormt: I saw you had lots of games in Caro and Sicilian so I didn't really want to look at both
+[16:02:23] rajjsinghh: the Caro, really? I only ever play it when I mouse slip 1...c5
+[16:02:38] rajjsinghh: I thought you'd be more expecting 1. e4 e5 if not a sicilian
+[16:02:54] terrormt: Oh maybe that's what I meant
+[16:07:43] terrormt: Thanks for the game. Lots to learn from
+[16:07:43] rajjsinghh: you too!
