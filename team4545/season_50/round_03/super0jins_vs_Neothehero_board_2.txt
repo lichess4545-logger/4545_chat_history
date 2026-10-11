@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/uDgengCb
+White     : super0jins
+Black     : neothehero
+Time      : 45+45
+Captured  : 2026-10-11 21:01:20 UTC
+Game ended : 2026-10-11 19:41:11 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[18:42:15] super0jins: none of that Bb4 buisness with this moveorder
+[18:42:15] paulwithans: Go super0jins!
+[18:42:15] neothehero: (7.b3) Please don't tell me I'm going to get the exact same line as yesterday's game
+[18:42:15] neothehero: (7.b3) to my opponent, if you had prepared for this, kudos to you
+[18:42:15] chaisoul: How can we comment like this?
+[18:42:15] neothehero: (9...Qe8) I didn't play Ndf6 because I was concerned about Bc1 then f3
+[18:42:15] neothehero: (9...Qe8) Nd2 Ndf6 f3 Nxd2 Qxd2 Qh5
+[18:42:15] neothehero: (9...Qe8) f3 now I will respond with Ng5-f7
+[18:42:15] neothehero: (11.Nd3) I didn't expect Nd3
+[18:42:15] neothehero: (11.Nd3) Qh5 seems natural
+[18:42:15] neothehero: (11.Nd3) but then Nf4
+[18:42:15] neothehero: (12.a3) a3, such a weird move
+[18:42:15] neothehero: (12.a3) candidate moves are c6, Qh5
+[18:42:15] neothehero: (12.a3) c6 with the idea of Nxd2 Qxd2 Ne4 then Bf6
+[18:42:15] neothehero: (12.a3) Nxd2 is another candidate move
+[18:42:15] neothehero: (12.a3) c6 b4 a4 seems safe
+[18:42:15] neothehero: (12.a3) c6 Nxe4 fxe4 Nf4 d5
+[18:42:15] neothehero: (12.a3) Nxd2 Qxd2 Ne4 Qc2 Bf6 f3 Ng5 I don't quite like this
+[18:42:15] neothehero: (12.a3) c6 also prevents Bd5+ in case I play e5 later
+[18:42:15] neothehero: (12...c6) Bd8-c7 might be another idea
+[18:42:15] neothehero: (12...c6) or d5 could be another idea
+[18:42:15] neothehero: (13.f3) Ng5 e4 fe4 fe4 looks bad for me
+[18:42:15] neothehero: (13.f3) Nxd2 Qxd2 d5 cd5 ed5 I'm not sure who's better
+[18:42:15] neothehero: (14...d5) e4 fe4 fe4 Ne4 Be4 de4 white could win the pawn back, maybe they're calculating this
+[18:42:15] neothehero: (15.c5) Bd7-c8 is the first idea that comes to mind
+[18:42:15] neothehero: (15.c5) I meant Bd8-c7
+[18:42:15] neothehero: (15.c5) or Qh5 Nf4 Qh6 the knight is pinned
+[18:42:15] neothehero: (15.c5) or Kh8, Rg8 + g5 could be an idea
+[18:42:15] neothehero: (15.c5) Kh8 e4 fe4 fe4 Ne4 Be4 de4 could be bad
+[18:42:15] neothehero: (15.c5) Bd8 or Kh8 or Qh5
+[18:42:15] neothehero: (15...Bd8) I just realised h6, Nh7, g5 might be an idea
+[18:42:15] neothehero: (15...Bd8) In hindsight, Bd8 might be a bad move, idk
+[18:42:15] neothehero: (15...Bd8) Also, I might not need to react to e4
+[18:42:15] neothehero: (16.Rfe1) Bc7 e4 fe4 fe4 Qg6
+[18:42:15] neothehero: (16...Bc7) e4 fe4 fe4 Ng4?
+[18:42:15] neothehero: (16...Bc7) e4 Qh5 ef5 Qf5
+[18:42:15] neothehero: (17.b4) b4 seems slow
+[18:42:15] neothehero: (17.b4) Qg6 or Nh5
+[18:42:15] neothehero: (17...Nh5) e4 Qg6 Ne5 Be5 de5 i'm not sure
+[18:42:15] neothehero: (17...Nh5) e4 fe4 fe4 Ng3? hg3 Bg3 with Qh5 to follow?
+[18:42:15] neothehero: (18.e3) wot
+[19:24:25] tommeketoch: I am watching this game on https://www.twitch.tv/thechessrunner
+[19:29:14] neothehero: (55.f5) am I winning this?
+[19:29:30] neothehero: (55.f5) I thought I was going to lose already
+[19:31:47] neothehero: (55.f5) Kd5 e6 Kd6 e7 Kd7 f6 I'm not sure if I'm winning, draw, or losing
+[19:33:03] neothehero: (55.f5) Ra5 Ke6 Kc7 f6 Kd8 f7 Ra6+ followed by Ke7 wins
+[19:33:49] neothehero: (55.f5) Ra5 e6 Rxf5+ Ke7 Re5 Kf7 Kd6 wins as well
+[19:35:51] neothehero: (55.f5) Ra5 Kf6 Kd7 e6+ Ke8 e7 Ra6+ wins
+[19:37:22] neothehero: (57...Kd8) Kf5 Ke8
+[19:39:24] neothehero: (57...Kd8) oh wow f7 Ra6+ Kf5 Ke7 e6! is a trap by white, I must not take the pawn Rxe6 otherwise f8=Q!
+[19:39:39] neothehero: (60...Rb6) zugzwang now
+[19:40:40] super0jins: gg
+[19:41:41] super0jins: sorry for rushing the endgame, had to leave like 10 minutes ago. Thought that 2.5 hours would be plenty for the game
+[19:43:12] neothehero: yep, I rushed the endgame as well, thought I was certainly going to lose
+[19:43:43] neothehero: what a game
+[19:43:58] super0jins: My losing streak continues
+[19:44:59] super0jins: I thought around move 15 that the position would just be locked forever, was kinda difficult to see how to progress
+[19:45:14] neothehero: I was surprised you never played e4 though
+[19:45:44] super0jins: I thought I had more space and it is better to keep it in reserve
+[19:45:44] super0jins: But ended up never playing it lol
+[19:46:00] neothehero: I thought that if you play e4 I'm busted
+[19:47:00] neothehero: but I also self destructed with Nxg3 hahaha, not sure if that was sound
+[19:47:16] super0jins: Not sure why I played Rxg7 in the end in hindsight, pushing the pawns there is much simpler
+[19:47:16] super0jins: Yeah Nxg3 was exactly what I hoped for
+[19:47:46] super0jins: Especially in combination with the time situation
+[19:48:02] super0jins: And my knight is good enough that I can sac the exchange back
+[19:48:47] neothehero: yeah your d3 knight was quite annoying
+[19:49:03] neothehero: I wanted to play Qh5 but was afraid of Nf4 for the whole time
+[19:49:49] super0jins: my plan was to walk my king to e2 there
+[19:50:04] super0jins: and then I get the open files at some point
+[19:50:34] super0jins: But looking at the lines now I see that you have some play on the queenside there aswell once my a1 rook leaves
+[19:51:50] neothehero: that's only if I played axb4 right?
+[19:52:05] super0jins: Yeah
+[19:52:05] neothehero: which I didn't lol, stupid me
+[19:52:05] neothehero: locked myself in a cage
+[19:52:36] super0jins: For some reason I always try to simplify the position in the worst way possible
+[19:52:36] super0jins: Got some lessons to learn from there
+[19:53:06] neothehero: you know what, a funny thing was I lost my Lonewolf game terribly yesterday in this exact 7. b3 sideline
+[19:53:06] neothehero: so I was quite scared today
+[19:53:37] neothehero: thought you prep specifically for this
+[19:53:37] super0jins: I looked at it earlier in the week
+[19:53:52] super0jins: Had not seen yesterdays game
+[19:54:22] super0jins: But I chose this line because stopping e5 is a pretty straightforward plan vs the dutch
+[19:54:53] neothehero: ya, I also don't like facing this line as a Dutch player
+[19:54:53] neothehero: I would be happy to face the mainline
+[19:55:54] super0jins: I was looking at all kinds of weird lines
+[19:56:09] super0jins: But they are all so chaotic
+[19:57:10] super0jins: And I also considered 7.b4, might try that in the future
+[19:58:26] super0jins: I misplayed the endgame so bad
+[19:58:26] super0jins: There were several plans where I would at least not lose
+[19:59:27] neothehero: I thought that after I took your c and b pawns, it might be a draw
+[19:59:42] super0jins: Looks like the position after saccing my knight still somehow draws
+[20:01:13] neothehero: oh
