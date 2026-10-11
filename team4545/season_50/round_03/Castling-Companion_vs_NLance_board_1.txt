@@ -1,0 +1,142 @@
+Lichess game chat log
+Game      : https://lichess.org/2AIh5ajB
+White     : castling-companion
+Black     : nlance
+Time      : 45+45
+Captured  : 2026-10-11 19:00:33 UTC
+Game ended : 2026-10-11 17:40:22 UTC
+Messages  : 132
+────────────────────────────────────────────────────────────
+
+[15:40:14] jd0972: Go  castling-campion
+[15:40:44] jd0972: *companion
+[15:52:25] castling-companion: very confortable position for White. e.g. exd4, Nx, Nc5, Bc2
+[15:52:40] davidsifre: They typo is so funny. Go NLance!
+[15:52:55] davidsifre: That.
+[15:52:55] davidsifre: Cuz you meant to say Nlance.
+[15:53:26] davidsifre: Black rerouting the knight! Look out white.
+[15:54:26] castling-companion: Nf8 when White hasnt played d5 feels strange. I can expand on the QS with b4 or Rb1
+[15:56:30] simonwashere: space, the final frontier
+[15:56:45] davidsifre: Hey Simon.
+[15:56:45] simonwashere: Hi David
+[15:57:31] davidsifre: White has the giant center.
+[15:57:31] simonwashere: under connect-four rules white has already won
+[15:58:17] castling-companion: I am not worried about 12.Ng6, b5, Nf4, Bx, ex, Qx thats just winning
+[15:59:18] davidsifre: Shoul worry about winning.
+[15:59:48] davidsifre: Nlance is just winning. Nothing to worry about here.
+[16:00:34] castling-companion: maybe he wants 13.b5, exd, Nx, Ne5, Bf1 but he could have done this when the N was on d7
+[16:01:20] davidsifre: Maybe he just wants you spending time guessing while he sneaks in the back window and cuts your king’s throat.
+[16:02:36] davidsifre: I guess we will know in 15 moves or so.
+[16:02:51] castling-companion: also d5 and I dont anything for Black
+[16:03:52] castling-companion: Nh5 just Bf1
+[16:05:08] castling-companion: after Nf4, c5 wins the QS battle.
+[16:05:38] castling-companion: my king is very safe with the Q on c7
+[16:06:09] castling-companion: Rook on e8 also misplaced for f5 breaks. Prob Re8-Rf8 back at some point for him
+[16:11:44] aldric123: (15...f5) Let's go Nlance!
+[16:12:15] castling-companion: f5 can be good but this needs a lot of calculation
+[16:12:45] castling-companion: cxd6, Qx, Bc5, Qf6, d6 looks good
+[16:12:45] aldric123: (15...f5) Man this is complicated
+[16:13:31] aldric123: (15...f5) Not sure why you'd do Qx though when Bxd6 seems better
+[16:13:46] fireball100: Go NLance
+[16:14:17] pratikbora: Go castling-companion!
+[16:15:17] aldric123: (15...f5) This is so much pawn tension my head might explode
+[16:16:03] simonwashere: maybe b5 b6 to crank it up a bit
+[16:16:03] aldric123: (15...f5) I guess if g3 you'd do fxe4 first, so h3 would be hanging
+[16:17:04] aldric123: (15...f5) though g3 fxe4 Nxe4  probably eventually hangs d6
+[16:17:04] aldric123: (15...f5) but so would h3
+[16:17:35] aldric123: (15...f5) too complicated to figure out quickly
+[16:17:50] simonwashere: the plan is to win on time
+[16:20:23] castling-companion: there is a crazy line: 16.Rd1, fxe, cxd, Qx, Nx, Qx, Qf7 or Qe6 and Ng5 or Bc4 first, Nd5 then Ng5
+[16:22:09] castling-companion: prob at the end I take on d5 and win a pawn
+[16:22:40] aldric123: (15...f5) I'm still not sure why black would do Qx instead of Bxd6 though in this line as in the other
+[16:24:26] aldric123: (16.Rad1) Oh actually yeah Qx so b4 would hang I guess I see
+[16:24:57] castling-companion: if 16.Bc4 jsut Kh8, dxc6, bx, cxd6, Bx and I dont have much
+[16:25:43] aldric123: (17...Bxd6) and now if Nxe4 probably cxd5
+[16:26:59] aldric123: (17...Bxd6) though I suppose Nxe4 cxd5 Nxd6 Qxd6 and both Bc5 and Bc4 are interesting
+[16:27:29] castling-companion: Ng5, Bxb4, d6 must be good. Worst case 18.Nxe4, Nxd5 and Bc4 is ok
+[16:28:30] castling-companion: dxc6, Bxb4 idk
+[16:30:17] castling-companion: also dxc6, exf3, Qxd6 wasnt clear
+[16:31:33] aldric123: (18...Bxb4) the a2 g8 diag with the knight on g5 would be very scary soon
+[16:31:33] aldric123: (18...Bxb4) along with d6
+[16:32:19] aldric123: (18...Bxb4) but what if cxd5 immediately hmm
+[16:32:19] aldric123: (19.d6) Yeah this gets interesting
+[16:32:50] aldric123: (19.d6) after queen moves Bc4 is uuuuugly
+[16:33:20] aldric123: (19...Qd8) I guess e6 is covered 3 times but still scary
+[16:33:51] aldric123: (19...Qd8) d7 now?
+[16:34:06] aldric123: (19...Qd8) Err no, if that probably Bxd7 and c3 hangs?
+[16:35:07] aldric123: (19...Qd8) I'm glad NLance is the one figuring this out exactly. Complications to the max
+[16:36:23] aldric123: (19...Qd8) If Bc4+ Be6 Nxe6 Nxe6 and I'm not sure
+[16:36:53] castling-companion: So Bc4, Be6, Nx, Nx, d7 and if Re7 Bg5 and the Knight is pinned
+[16:37:39] castling-companion: Bxf4, Nx doesnt help me
+[16:37:39] castling-companion: the diagional looks so weak
+[16:38:10] aldric123: (20.Bc4+) Yeah the line he said does look kinda scary
+[16:40:42] aldric123: (23.Bg5) Kinda hilarious if the only move is Kf7. Looks soooo bad
+[16:41:12] aldric123: (23.Bg5) No wait, Ngf8 looks better than that, if still not great
+[16:41:43] aldric123: (23...Nf4) ok, that's definitely more aggressive version of similar idea
+[16:43:14] aldric123: (24...Bxe7) can maybe do a simple Bxf4 exf4 Rxe4 and say e6 is undefendable
+[16:43:14] aldric123: (24...Bxe7) but nope
+[16:43:29] aldric123: (24...Bxe7) took the exchange instead
+[16:43:45] aldric123: (24...Bxe7) wasn't sure if it was undefensible or not
+[16:44:46] castling-companion: g3, Nxh3, Kg2.... need to watch Nf4+ stuff
+[16:45:32] castling-companion: Nf4+ isnt legal.... visualization
+[16:45:47] aldric123: (24...Bxe7) Yeah but g3 Nxh3+ Kg2 Ng5 might work for black. As in barely hold work
+[16:46:17] aldric123: (24...Bxe7) actually nah. Then there's f4
+[16:46:33] castling-companion: ok, so g3, Nh3, Kg2, Ng5, Nxe4
+[16:47:49] aldric123: (27...Kh8) that's a nice move
+[16:48:34] aldric123: (27...Kh8) though black should still be losing. This makes him not lose yet!
+[16:49:05] aldric123: (27...Kh8) maybe just Nxg5 Nxg5 Rxe5 is easiest
+[16:49:35] castling-companion: Nxg5, Nx f4 traps the knight
+[16:50:36] aldric123: (27...Kh8) I think you're right. Though Nxg5 Nxg5 Rxe5 threatens both Rxe7 or Re8+ if the bishop moves
+[16:51:07] castling-companion: Nxg5, Bx, f4, ex, Rxe6, f3+ is a problem
+[16:52:08] castling-companion: so f4 first then
+[16:54:40] castling-companion: so Nxe4, Rx, Nc5, Rxe7 i thought
+[16:54:40] aldric123: (29...Nxe4) yeah Rxe7 is going to end this if something better doesn't come
+[16:55:41] castling-companion: hes playing so fast with 40min on the clock
+[16:55:41] aldric123: (30.Rxe4) yep, don't see a way out
+[16:56:27] castling-companion: idk how he stops Rxe7
+[16:56:57] castling-companion: ok but Rxe7 and d8=Q, no checks for Black
+[16:57:58] castling-companion: Rxe7, Qx, d8, Qe4+, Kg1, Qxc4, Qxa8
+[16:58:29] castling-companion: after Qg6+ always Qg5
+[17:00:46] castling-companion: need to check Rxd8 and Qe4 lines too
+[17:01:31] aldric123: (30...Nf8) seems hard to believe they'd work since f8 would be in trouble
+[17:06:06] castling-companion: ok, Rxd8 now, transposes
+[17:06:51] castling-companion: Kf1, Qf3, Ke1, Qe3, Be2
+[17:10:40] simonwashere: NLance is thinking because now out of opening prep
+[17:10:55] aldric123: (35.Kf1) hah
+[17:11:56] aldric123: (35.Kf1) may as well as do Qxf4+ I think, but I can't see how perpetual happens
+[17:11:56] castling-companion: ok, cant skrew this up now, Qxf4, Ke1 same idea
+[17:12:27] simonwashere: Qxf4+ Ke1 h5!!!
+[17:12:27] aldric123: (35...Qxf4+) if Kf3 Ke1 have to do Qg3+ I think so bishop doesn't come basck
+[17:13:12] aldric123: (37...Qc3+) probably Rd2 here?
+[17:17:31] aldric123: (41...b5) I think I liked h5 more, but this is something
+[17:18:02] aldric123: (41...b5) oh wait, h5 probably just Bxh5 and then Qxf8
+[17:18:17] aldric123: (42.Qd6) onos!
+[17:23:52] aldric123: (44...a5) Qh2 to threaten Rf2 looks interesting
+[17:24:38] aldric123: (44...a5) though maybe Qh2 Kg8
+[17:26:24] aldric123: (45.Rh2) Castling-Companion letting himself get kind of low on time
+[17:26:55] castling-companion: I am just tired now....
+[17:27:25] aldric123: (45.Rh2) NLance's secret strategy of tiring his opponent out is coming to fruition!
+[17:27:40] simonwashere: hurrah
+[17:28:26] aldric123: (45.Rh2) I feel for Castling-Companion a bit. Both my last two weeks felt a bit like that to me. Had an advantage but got tired/lost focus
+[17:28:26] aldric123: (45.Rh2) But let's hope it happens here too!
+[17:29:42] aldric123: (45.Rh2) maybe h6. Can't see anything better
+[17:30:13] aldric123: (45.Rh2) though if h6 probably Qd4 and you're threatening two things
+[17:30:13] aldric123: (45.Rh2) sigh
+[17:30:43] aldric123: (45.Rh2) I guess Kg8 over h6
+[17:33:46] aldric123: (45...h6) Yeah now Kd4 seems scary as heck to me
+[17:33:46] aldric123: (45...h6) Err Qd4
+[17:34:16] aldric123: (46.Qd4) Kg8 seems forced
+[17:35:48] aldric123: (47...Ne6) tricky
+[17:36:19] aldric123: (47...Ne6) maybe Qa7 not sure yet
+[17:36:34] nlance: 48 Qd8
+[17:37:04] aldric123: (48.Qa7) Actually I like Qb6 more than a7
+[17:39:06] aldric123: (48.Qa7) hmmI think the fun is almost over
+[17:39:37] aldric123: (48.Qa7) I can't see a move where Qa8 or Qb8 doesn't end it immediately
+[17:40:07] aldric123: ggs
+[17:40:07] jd0972: G
+[17:40:22] lordziax: gg
+[17:40:22] simonwashere: gg
+[17:40:22] castling-companion: uufff
+[17:41:08] mizrab: gg
+[17:44:56] pratikbora: Gg
+[17:46:12] castling-companion: GGs
