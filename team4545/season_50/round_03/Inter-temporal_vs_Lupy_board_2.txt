@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/pLG0IjEc
+White     : inter-temporal
+Black     : lupy
+Time      : 45+45
+Captured  : 2026-10-11 04:03:30 UTC
+Game ended : 2026-10-11 02:43:22 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[01:02:34] mennonite: Go it
+[01:03:35] inter-temporal: (4.Bd3) i expected a different variation
+[01:17:49] bpack: Go Inter!!
+[01:19:51] mongreltiger: Go Inter-t
+[01:29:30] inter-temporal: (14.a4) considered 14.f4 Nh5 15.Ng5
+[01:30:00] inter-temporal: (14.a4) i see this opens his R and makes a target of my c-pawn, but still just seemed okay.
+[01:30:16] inter-temporal: (14.a4) maybe i lose my c-pawn. idk
+[01:30:46] lupy: oh man was hallucinating. was thinking I had Nb4
+[01:30:46] inter-temporal: (14.a4) ...b4, Qxa6 bc, bc idk
+[01:39:09] inter-temporal: (15.Qe2) 15.Qd4 looked interesting, but somehow risky
+[02:03:46] inter-temporal: (20.Kh1) not yet time to trap my R
+[02:06:03] bpack: The people wanted B4, b5 should fall soon
+[02:10:53] nyanners: the pieces are all weird. i cant give a lazy evaluation here
+[02:11:08] nyanners: probably good for white tho
+[02:11:23] nyanners: like, something is kinda sorta happening, maybe
+[02:11:54] mrscribbles: (22.Ng4) Is el temador looking for e4?
+[02:12:09] mrscribbles: (22.Ng4)e5 I mean
+[02:12:09] mrscribbles: (22.Ng4) I agree with e5
+[02:12:39] nyanners: idk white just has all the ideas it seems
+[02:12:39] nyanners: nx, b4, e5
+[02:12:54] mrscribbles: (22.Ng4) would be really funny to go e5, crack open a kingside attack, then move all the rooks back to the kingside
+[02:14:26] nyanners: f5 maybe
+[02:16:13] nyanners: im worried if white loses some potential after dx
+[02:16:28] nyanners: i guess theres still b4
+[02:23:04] inter-temporal: (23...Rfd8) king gets away....
+[02:28:54] lupy: hmmm feel like my position is collapsing
+[02:33:59] bpack: A queen!
+[02:33:59] gavalanche20: (22.Ng4) Is it worth it though
+[02:34:14] bpack: Black infiltrates the 2nd rank tho
+[02:34:14] gavalanche20: (27...Qb6) Wait what am I saying
+[02:34:45] gavalanche20: (28.R1a6) Actually hmmm Qa7 Ra7 Na7 Qb7 Nc6...
+[02:35:15] gavalanche20: (28.R1a6) Yeah I'm not convinced yet
+[02:37:32] nyanners: no clue whats happening but i dont see it
+[02:38:33] nyanners: whatever happens the black pieces seem defended
+[02:39:19] nyanners: do you take the repetition or lash out
+[02:40:04] inter-temporal: (31...Qb7) im stuck
+[02:42:37] nyanners: gg
+[02:42:37] nyanners: seems wise
+[02:43:22] inter-temporal: sooo. that's a game
+[02:45:24] inter-temporal: 23...Rfd8 ruined my N-sac
+[02:46:25] inter-temporal: maybe i would have rejected it anyway. idk
+[02:46:25] lupy: spend the whole game just like, responding to attacks. i thought i was going to drop a pawn on the Qside but maybe get some compensation
+[02:47:11] inter-temporal: i kept considering ...b4, but i still don't know when it's okay to give a backward pawn and an outpost
+[02:47:11] lupy: but that never happened. kept missing moves too. like didn't see Ng4 at all, didn't see Be3 at all
+[02:47:11] lupy: was happy to get the draw
+[02:47:41] lupy: yeah, looks like that was best, but i'd been underestimating it too
+[02:47:56] lupy: thought there'd be threats w tactics given the bishop was undefended, maybe something on the diagonal
+[02:48:11] lupy: i think easy to miss that that was the best move
+[02:48:57] inter-temporal: probably should have gone for Nf6
+[02:49:43] inter-temporal: after i dove in with my Rs, i couldn't figure out how to get out except by trading
+[02:50:28] lupy: yeah don't think you could, but i missed that too, thought it was at best Q for 2R
+[02:52:00] inter-temporal: i think, after i got my K out of the way, so long as i was careful, i was okay
+[02:52:45] lupy: i think b5 when you exchanged was a big miss. like I was worried about Ra7 Nxa7 Rxa7 with the bishop protecting
+[02:53:16] lupy: i think BxN made it easier for me, tho you're still winning apparently
+[02:53:16] inter-temporal: which move?
+[02:53:16] inter-temporal: re ...b5
+[02:53:31] lupy: 25
+[02:53:31] lupy: so instead of BxN, b5
+[02:54:17] inter-temporal: oh. b4
+[02:54:17] lupy: oh maybe not, going through, but i'd been worried about it
+[02:54:32] lupy: b4 sorry, yeah
+[02:54:32] inter-temporal: :)
+[02:55:33] inter-temporal: i considered it, but oc didn't see anything better
+[02:57:34] lupy: gg, cheers
+[02:57:50] inter-temporal: k. gg
+[02:57:50] inter-temporal: :)
