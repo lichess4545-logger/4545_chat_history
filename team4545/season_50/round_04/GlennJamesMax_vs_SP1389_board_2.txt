@@ -1,0 +1,88 @@
+Lichess game chat log
+Game      : https://lichess.org/bKMH9YqV
+White     : glennjamesmax
+Black     : sp1389
+Time      : 45+45
+Captured  : 2026-10-12 15:58:03 UTC
+Game ended : 2026-10-12 14:38:01 UTC
+Messages  : 78
+────────────────────────────────────────────────────────────
+
+[13:31:37] glennjamesmax: the point is to absolutely kill him from the opening
+[13:32:07] berndwind: Huge fight incoming
+[13:32:07] glennjamesmax: the trap has slammed shut
+[13:33:23] glennjamesmax: damn this is unprofessional 19.Rd1 was the order
+[13:35:10] glennjamesmax: and this makes a hell of a lot of difference.... 19.Rd1 Nc6 was almost winning after 19.Na4
+[13:35:10] glennjamesmax: not per engine but 100% in real life.
+[13:36:10] prostidude: Go go Glenn
+[13:36:26] kayrosas: can we get both players above 1h
+[13:37:11] glennjamesmax: this is the problem with newly memorized variations...so easy to mess up the order.
+[13:37:11] berndwind: Let’s do it. Blitztown on the menu
+[13:37:26] glennjamesmax: just going to take a lot of time here to not tilt and make sure I play a real game.
+[13:37:57] berndwind: Good plan!
+[13:42:00] glennjamesmax: 25.Rf2 logically I must be a little worse as the version with pawn up was +0.30, but on the other hand there are no queens here
+[13:42:15] glennjamesmax: there's no king side attack, so it should be at least holdable.
+[13:44:47] jg777: This is how you start a Monday morning! Yes!
+[13:45:03] jg777: Have a fun game you two!
+[13:50:22] kayrosas: don't like Nc2. i assume we wanna get it to d5 eventually or provoke b4 and get it to c4, Nd3 seems better suited for that
+[13:52:39] grzybozbur: i don't know about nc2, but a3 can't be good
+[13:54:56] kayrosas: Nd4 I also dont feel that good about. what if white trades and Kf1-e2-d3 and then Rc2
+[13:55:11] glennjamesmax: 29.Nxd4 cxd4 is the idea, but is there really a target there.
+[13:55:26] glennjamesmax: at the end of the day I still have two rooks to your one...
+[13:55:41] kayrosas: Nxd4 exd4 might be a serious option maybe
+[13:55:41] zorakforpresident: Good luck GlennJamesMax.  Dang did you guys go early?  And play fast?
+[13:56:12] grzybozbur: nxd4 looks lost at first glance
+[13:57:28] kayrosas: yea at first glance I thought exd b4 would diffuse it but nope
+[14:06:50] glennjamesmax: hey zorak sorry for messing up the prep..I would have got the target position!!
+[14:07:36] glennjamesmax: but anyway, this isn't as bad as it looks optically.
+[14:08:37] zorakforpresident: i guess there is some strong player reason why White can't trade the knights?  Surely none of those pawns are getting through?!
+[14:09:23] grzybozbur: they seem deadly to me
+[14:10:54] grzybozbur: now this immediatyely looks hopeless
+[14:11:39] kayrosas: yea does look kinda dead
+[14:12:25] grzybozbur: before black would still need to find a way to break through somehow
+[14:12:25] kayrosas: d3 Be3 and black pushes a,b,c
+[14:19:00] grzybozbur: rxd4 bx rx rc5 rc2 d5 ed rxd5 seems the least losing
+[14:21:02] glennjamesmax: 33.Rxd4 yeah I just have to try and save this....otherwise c3  or d3 is just way too strong
+[14:21:17] kayrosas: 34...c3 perhaps
+[14:21:32] kayrosas: bxc3 Rx a4 not too simple tho?
+[14:21:48] kayrosas: oh Rc4
+[14:21:48] kayrosas: gg
+[14:33:58] kayrosas: 51...Rb3 is simple chess
+[14:35:59] bxvrc2lh: niceee
+[14:37:46] kayrosas: gg
+[14:38:31] glennjamesmax: That messed up prep was it I think
+[14:43:05] glennjamesmax: The correct order is rd1 before Na4 and only after Nc6 to play this, because if he played b5 there, i trade and then Rxd6 hits the knight
+[14:43:20] glennjamesmax: in my line the knight isn't there to be hit, so I lose.
+[14:47:23] grzybozbur: but qxf7 to be so much worse then letting black take on b3 i find surprising
+[14:49:09] glennjamesmax: Yes...it kind of is. I considered it for a second, but the extreme tilt sort of stopped me from deeply thinking about it
+[14:49:25] glennjamesmax: but in an endgame it certainly helps Black for the king to be better placed..
+[14:49:55] glennjamesmax: but still those ugly pawns, but I guess another point is there the a-file is open for my rooks
+[14:50:41] grzybozbur: but one is lost, the other completely equal, i don't understand why
+[14:51:41] sp1389: @GlennJamesMax even after 19.Rd1 I find it hard to believe that Black is worse after 19...Nc6
+[14:54:13] glennjamesmax: The line is 20.Na4 Nd4 21.Rxd4 exd4 22.Nb6 Rb8 23.Nxc8 Rxc8 24.Qxb7
+[14:54:59] sp1389: Yeah but after 24...Re8 in my opinion Black is atleast equal
+[14:54:59] glennjamesmax: Put that on the board and well if you feel otherwise, fair enough, but I'd always be white here
+[14:54:59] glennjamesmax: Yeah objectively yes.
+[14:55:14] glennjamesmax: I just think it's way easier to play White in this position
+[14:55:14] sp1389: Ok
+[14:56:00] sp1389: after something like ...Be5,...Kg7 how is white going to progress
+[14:56:46] glennjamesmax: Well the first thing is I'm getting the a-pawn for sure and the exchange back so I'm not down material and have an outside passer.
+[14:56:46] glennjamesmax: So there's a clear plan...
+[14:57:01] sp1389: I am not able to find it can you help me ?
+[14:57:16] glennjamesmax: Okay so starting from which position? 24...Re8
+[14:57:31] sp1389: Yeah
+[14:57:31] glennjamesmax: Okay Nd3
+[14:57:46] glennjamesmax: to blockade and improve
+[14:58:02] sp1389: a5
+[14:58:32] glennjamesmax: Qa7
+[14:58:32] sp1389: Be5
+[14:58:47] glennjamesmax: Qxa5
+[14:58:47] sp1389: Kg7
+[14:59:02] glennjamesmax: Bxf7
+[14:59:17] sp1389: Qxf7
+[14:59:17] glennjamesmax: b3
+[14:59:17] sp1389: h5
+[14:59:33] glennjamesmax: Qb5
+[15:00:03] sp1389: Re7
+[15:00:18] glennjamesmax: a4
+[15:01:04] glennjamesmax: it's very messy I feel
