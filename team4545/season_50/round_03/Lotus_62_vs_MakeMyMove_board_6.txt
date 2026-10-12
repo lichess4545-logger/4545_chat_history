@@ -1,0 +1,112 @@
+Lichess game chat log
+Game      : https://lichess.org/ai8w0CI6
+White     : lotus_62
+Black     : makemymove
+Time      : 45+45
+Captured  : 2026-10-12 09:35:09 UTC
+Game ended : 2026-10-12 08:15:00 UTC
+Messages  : 102
+────────────────────────────────────────────────────────────
+
+[05:42:29] pepepibote: caatalaan heey
+[05:46:33] pepepibote: never seen 6 qc2 before
+[05:53:09] ben3536: go lotus!
+[05:59:45] pepepibote: go lotus!
+[06:23:52] berndwind: Go MakeMyMove !
+[06:25:08] ben3536: I'm surprised by fxe4 instead of f4
+[06:26:24] ben3536: starting a kingside initiative feels like it would do more than a normal central trade
+[06:28:26] nyanners: yea f4 is more standard for sure
+[06:28:56] nyanners: is this bad? umm i dont think its like a super blunder but i do think its like fundamentally wrong
+[06:29:27] nyanners: but in like a "gm would not play this" way rather than a "this is gonna lose you the game" way
+[06:32:14] ben3536: yeah
+[06:32:45] ben3536: i mean an interesting question is as a lower rated player, how would you know that other than knowing that
+[06:33:00] ben3536: there isn't so much of a piece imbalance that it's obvious
+[06:33:46] ben3536: i just have seen enough games where it was played and people saying that it's the thing to do to know that it's the thing to do
+[06:35:17] ben3536: and you get a pretty decent attack
+[06:37:19] ben3536: this is probably why most people get a chess coach tbh
+[06:37:34] ben3536: because evaluating it with an engine isn't going to help you find positional ideas
+[06:37:34] ben3536: but anyway
+[06:38:35] ben3536: probably time to get that bishop out?
+[06:42:34] tranzoo: aaand we are back
+[07:04:40] nyanners: yea i think there are a lot of things that youre just supposed to Know
+[07:04:40] nyanners: by looking at enough master games
+[07:05:10] nyanners: people who say you can consistently find the best move by going through a checklist or whatever are trying to sell you something
+[07:05:25] nyanners: because the thing is, a lot of the time you will have principles that are at odds with each other
+[07:05:42] nyanners: bishop pair or pawn structure? material or king safety? whatever
+[07:05:42] nyanners: the only answer is "it depends"
+[07:06:43] nyanners: and to know which one it is you need a reference, otherwise you can only try really hard (and you should!) but you will get it wrong often
+[07:10:01] ben3536: yeah fair enough
+[07:10:16] ben3536: (18...Raf8) this attack is building up anyway
+[07:10:47] ben3536: I like the Nf1 - e3 - d5 maneuver in principle, but it just doesn't look like white has time for it
+[07:11:02] nyanners: i think the thing is that white never got any play going to compensate
+[07:11:32] nyanners: so okay fx instead of f4 doesnt disrupt the kingside as much and opens the d-file. but black is still making use of the f-file
+[07:12:18] nyanners: while white could have aimed for a3-b4, c5, maybe even prepare their own f4
+[07:15:21] nyanners: is black getting at least Rxf2 here :o
+[07:17:38] ben3536: (19...Ng4) Rf1 Rxf3 Bxf3 Rxf3 Qe2 almost works
+[07:22:12] nyanners: this may be a good solution for white
+[07:22:27] nyanners: now qd3
+[07:22:58] ben3536: i was worried about Nd4
+[07:23:13] nyanners: exactly why you must move now :o
+[07:25:15] ben3536: i think you trade f2 for e5 in that line, but maybe that's fine?
+[07:26:46] nyanners: which one
+[07:27:17] ben3536: 22. Qd3 Nd4 Nxd4 exd4 Bxd4 Rxf2
+[07:27:47] ben3536: (22. Rb2) but I like this more
+[07:29:18] nyanners: ah yes. i think thatd be a good deal for white
+[07:29:34] nyanners: which would make me inclined to not play Nd4 but not sure what else
+[07:30:04] nyanners: this deal is less good
+[07:30:19] nyanners: c5 comes and d6 isnt weak, while e4 is, and the f-file pressure remains
+[07:30:35] ben3536: yeah i was overoptimistic
+[07:32:06] ben3536: white probably needs h3 now-ish
+[07:32:21] ben3536: sac a pawn to get out of this irritating pin
+[07:32:36] ben3536: because i don't see any other untangling moves
+[07:34:08] nyanners: you may be right
+[07:34:54] nyanners: was looking at e5 Nxe5 but the Bg4 is protected XD
+[07:35:09] nyanners: does this change anything? dont think so
+[07:37:56] nyanners: umm id pass. maybe black is thinking of qf6
+[07:37:56] nyanners: that doesnt work. the queen cant be in front
+[07:38:12] nyanners: because h3 bxf3 rxf3 and you cant take
+[07:38:12] nyanners: nooooooooooo not h4
+[07:38:27] nyanners: or umm, is there a point here? i dont see it. not Nh2, or Kh2
+[07:38:42] nyanners: on the other hand, losing h3 is significant
+[07:39:58] ben3536: time pressure probably
+[07:39:58] ben3536: also just a lack of moves
+[07:40:29] nyanners: no plan is better than a bad one. i am a hater
+[07:40:44] ben3536: lol
+[07:41:14] nyanners: black has to watch because moving q may enable ng5
+[07:41:30] nyanners: this is still kinda intense for a position where black has a death pin XD
+[07:41:45] nyanners: xe4 ng5!!
+[07:42:15] makemymove: will be decided by blitzing although my position is quite comfortable he has to calculate all those pins
+[07:42:31] nyanners: if i was black's teammate id be a bit scared here
+[07:43:16] nyanners: id only feel comfortable after kh8
+[07:43:47] ben3536: holy
+[07:43:47] makemymove: only thing his bishop also activates but pawn is a pawn
+[07:44:02] nyanners: this is gonna hurt
+[07:44:17] makemymove: oh
+[07:45:03] nyanners: luckily the damage isnt, like, death
+[07:45:33] nyanners: two bishops are good and there are coordination issues
+[07:45:33] makemymove: completely missed that. although it was very tricky to calculate that
+[07:45:49] nyanners: f3 is really really good
+[07:45:49] nyanners: white is locked in
+[07:46:34] nyanners: Bh5 might bait Rh2 (loses to Be5)
+[07:47:51] makemymove: king has to go to g7 to stay out of further bishop tactics
+[07:50:08] makemymove: rxb
+[07:55:43] nyanners: oooohh i like it
+[07:55:58] nyanners: after all the suffering, white now declines a draw
+[07:56:13] nyanners: i dont think white is better but its about sending a message
+[08:01:03] ben3536: Bd4?
+[08:02:19] nyanners: had to remove the rook. but now..
+[08:02:34] nyanners: maybe this forces white's hand towards taking d3
+[08:02:34] nyanners: but it looks good??
+[08:03:04] nyanners: like, white gets g6? and maybe the king infiltrates. the risk is losing the entire queenside ofc
+[08:03:04] nyanners: but i think white is faster
+[08:03:35] nyanners: okay this is sane
+[08:04:05] nyanners: free pawn but maybe worthless
+[08:09:10] nyanners: this is starting to actually feel weird for b
+[08:12:13] nyanners: oooooohh thats a good one
+[08:12:13] nyanners: Bxf3 gets mated
+[08:12:13] ben3536: wait is Rh1 genius?
+[08:12:28] nyanners: we may have drifted into actual deep trouble
+[08:13:14] nyanners: i thought Bd4 was forced
+[08:13:29] nyanners: thats one of the holds of all time
+[08:14:30] nyanners: gg!!
+[08:14:30] electricfalcon: gg!
