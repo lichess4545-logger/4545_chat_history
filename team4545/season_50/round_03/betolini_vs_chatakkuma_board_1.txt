@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/qL3gPEHo
+White     : betolini
+Black     : chatakkuma
+Time      : 45+45
+Captured  : 2026-10-12 03:50:20 UTC
+Game ended : 2026-10-12 02:30:11 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[00:35:25] acebulf: Go betolini!
+[00:43:17] acebulf: What's the analysis here?
+[00:43:48] acebulf: (17.) This is the type of positions where I have no idea how to approach
+[00:48:07] nyanners: umm dont blunder i guess
+[00:48:07] nyanners: tough for black to decide. white just doubles on e
+[00:48:37] nyanners: you could play Re8 but white may choose to block with Be5
+[01:11:59] jg777: Go chess! Have a fun game you two! and nice save earlier today TBest!
+[01:16:02] tbest: So far my 4545 games is a nice study in luck :D
+[01:18:34] tbest: a5 there feels like a reasonable way to go about pushing for a win
+[01:18:50] tbest: that pawn is awkward to block
+[01:34:34] jg777: Yeah, white is freezing up the black pawns as well with the queen there. Not sure how you make further progress as white, though.
+[01:34:34] jg777: Perhaps bring the rook to b1 and push b4-b5?
+[01:35:05] tbest: isn't rb4 more scary then b4 in that line ?
+[01:35:35] tbest: I mean, ra1 rb4 type of play
+[01:47:31] tbest: under 30 s for black. Will be hard to defend this with on with so little time
+[01:54:22] acebulf: ??
+[01:55:38] acebulf: (30...) Is it just me or Rb1 wins it?
+[01:55:53] nyanners: i thought the same but
+[01:55:53] nyanners: kd7 re8 kx
+[01:56:39] acebulf: ah
+[01:56:54] grzybozbur: but if white trades one pair of rooks, the king will just pick up all the pawns
+[01:58:25] tbest: f4 looked clever, but what do you do after h5 ?
+[02:03:00] grzybozbur: this looks like black still has counterplay
+[02:03:15] grzybozbur: white could have just planted the rook on b8 and black has nothing to do
+[02:16:12] nyanners: looks bluff callable
+[02:18:14] nyanners: yea
+[02:18:29] nyanners: now just to find out how
+[02:18:44] nyanners: but seems like you could play any random assortment of checks and it will work
+[02:20:46] tbest: well, you need to find the fastest mate for style :D
+[02:22:19] nyanners: maybe not any
+[02:22:34] nyanners: qg8 kf4 qxg2 e1q seems strangely not winning
+[02:24:21] nyanners: okay im starting to kinda freak out
+[02:24:51] nyanners: maybe it was really important to start with qd8 instead
+[02:25:22] nyanners: okay yeah that
+[02:25:37] nyanners: slow but fair
+[02:26:23] tbest: black hopeing for kd2
+[02:26:23] kborman: Just don’t run out of time...
+[02:27:09] kborman: Like me smh
+[02:27:54] acebulf: xD
+[02:28:55] nyanners: maybe bluffs ran out now
+[02:30:27] chatakkuma: e3 was bad
+[02:31:12] chatakkuma: 35...Kd5 was another option
+[02:31:43] chatakkuma: 28.b4 was strong
+[02:31:58] betolini: 21...f6 was a mistake, i think it was better to go to the endgame
+[02:32:13] betolini: Yes, b4 give me initiative
+[02:32:28] chatakkuma: I didn't see Qxa7
+[02:32:43] chatakkuma: shouldn't have allowed that
+[02:32:59] chatakkuma: maybe 20...a6
+[02:32:59] chatakkuma: but already I felt I was under pressure
+[02:32:59] betolini: Yes, you have to hold the weakness
+[02:33:44] betolini: I think is a drawish position, but if white get the a passed pawn, it's really hard to hold for black pieces
+[02:34:15] chatakkuma: I think 33.f4 gave me some chances
+[02:34:30] chatakkuma: 35...Re7 apparently
+[02:35:00] chatakkuma: you get some play with 35...Re7 Rxc6 Ke5
+[02:35:00] chatakkuma: my time management was not good
+[02:35:16] betolini: Yes, you wasted so much time in the middlegame
+[02:35:31] betolini: But it was a nice game
+[02:35:31] betolini: The Berlin is always hard to break
+[02:35:46] chatakkuma: I tried it for the first time
+[02:36:01] betolini: It's a good defense, i think it's good to have it in the repertoire
+[02:36:01] chatakkuma: I was hoping for 44.Qg8+ at the end
+[02:36:32] betolini: No, i calculated the line
+[02:36:47] betolini: Well, good game as always, chatakkuma
+[02:36:47] chatakkuma: gg
+[02:36:47] betolini: Good luck in the rest of the season!
+[02:37:02] chatakkuma: gl for you too!
+[02:37:02] betolini: I hope to play again later. Have a good day!
