@@ -1,0 +1,316 @@
+Lichess game chat log
+Game      : https://lichess.org/VHyRipaz
+White     : davidsifre
+Black     : glayghost
+Time      : 45+45
+Captured  : 2026-10-12 03:25:39 UTC
+Game ended : 2026-10-12 02:05:31 UTC
+Messages  : 306
+────────────────────────────────────────────────────────────
+
+[00:07:14] aldric123: Go david!
+[00:12:49] davidsifre: last time he played perfect chess against the Vienna. Still, I am going to try again.
+[00:15:06] pawnpushingpleb: letsgo glayghost
+[00:17:38] davidsifre: (6.g3) I think the early queen check is a mistake in this position.
+[00:17:53] aldric123: (6...Nxg3) whoa
+[00:18:24] davidsifre: (6...Nxg3) Maybe it was a coincidence that he played a perfect opening last time...
+[00:18:54] goldenretrieverchess: Go David!
+[00:19:55] aldric123: (7...Qd8) nothing like a free piece 6 or so moves in
+[00:20:41] aldric123: (7...Qd8) I think I'd take on d5 now. You could develop, but the queen feels in the way on f3 anyway!
+[00:22:12] aldric123: (8.Qxd5) If he does Qg5 now, I guess Nge2
+[00:23:28] aldric123: (8...Nd7) d4!
+[00:23:59] aldric123: (8...Nd7) though e6 is kinda cute
+[00:23:59] aldric123: (8...Nd7) But then you have to worry about Qe7
+[00:24:14] aldric123: (8...Nd7) of course Bc4 has to be thought about
+[00:24:44] aldric123: (8...Nd7) But d4 seems safest I suppose
+[00:27:17] davidsifre: (9.d4) Maybe Bc4 would have been better to create that battery on the f pawn
+[00:27:47] aldric123: (9.d4) I didn't love it as much because of Qe7 hitting e5, and then next move if you defend e5 Nb6
+[00:28:02] aldric123: (9.d4) I think your move was safer
+[00:28:18] davidsifre: (9.d4) Kevin and Aldric, I am up 3 points of material. I am supposed to just trade down and win, while not doing stupid shit.
+[00:28:18] aldric123: (9...c6) True dat
+[00:29:03] aldric123: (9...c6) Really Qe4 f3 and g2 all have good points in their favor
+[00:29:34] aldric123: (10.Qf3) Definitely Bc4 is default next move I'd assume
+[00:30:04] goldenretrieverchess: ^
+[00:30:50] aldric123: (10.Qf3) If Bc4 didn't exist I'd probably play c5 as black. But c5 Bc4 looks ugly for white
+[00:30:50] aldric123: (10.Qf3) Err for black
+[00:31:20] aldric123: (10...Qb6) Although c5 Bc4 Qe7 and e5 looks iffy
+[00:31:51] aldric123: (11.Bc4) Bc4 I think anyway, but if he defends it probably Nge2 next
+[00:31:51] aldric123: (11.Bc4) Defending it looks rough
+[00:32:21] aldric123: (11.Bc4) I think he has to ignore and play Qxd4
+[00:33:22] aldric123: (11.Bc4) at least for him e5 looks irritating to defend in a couple moves
+[00:34:08] aldric123: (11...Qxd4) Qxf7+ Kd8 Bg5+ Kc7 e6
+[00:34:08] aldric123: (11...Qxd4) hmm
+[00:34:08] aldric123: (11...Qxd4) maybe not
+[00:34:38] aldric123: (11...Qxd4) Bc4 would fall I forgot that exd7 isn't check and stuff
+[00:35:09] aldric123: (12...Kd8) Nf3 perhaps
+[00:35:39] aldric123: (12...Kd8) Yeah I think Nf3
+[00:36:10] aldric123: (13.Bg5+) Yeah doing this first is fine
+[00:36:40] aldric123: (13...Kc7) Nf3 is definitely a good move now
+[00:37:26] aldric123: (13...Kc7) You can 0-0-0 next move after Nf3 vs almost anything
+[00:37:41] aldric123: (13...Kc7) Maybe not Qg4 though
+[00:37:41] aldric123: (13...Kc7) Well more than maybe
+[00:38:11] aldric123: (13...Kc7) actually you still could hee
+[00:38:57] aldric123: (13...Kc7) You just have to eventually worry about DSB moving and Rf8, but it's not instant
+[00:39:58] aldric123: (14.Nge2) Ah trying to tempt him into taking on e5
+[00:39:58] aldric123: (14.Nge2) crafty
+[00:42:00] davidsifre: (14.Nge2) Ng3 would have been ok too, I think, but I  wanted to encourage him to take the e pawn and the knight would have protected ...
+[00:42:00] davidsifre: ...it.
+[00:42:30] davidsifre: (14.Nge2) fishing for a skewer.
+[00:42:30] aldric123: (14.Nge2) yep
+[00:43:01] aldric123: (14.Nge2) If he plays Qg4 you planning Bf4 or something else
+[00:43:47] aldric123: (14.Nge2) Qg4 Bf4 g5 I don't love, so perhaps Qg4 Be3
+[00:44:02] davidsifre: (14.Nge2) I guess his knight is lost to my e pawn unless I am missing something.
+[00:44:17] aldric123: (14.Nge2) Although hmm. Qg4 Bf4 g5 Be6 might be cool
+[00:44:32] aldric123: (14.Nge2) I mean if he stays touching c4 bishop you can't do it instantly
+[00:46:19] aldric123: (14...Qg4) Bf4 g5 Be6 Qf3 Rf1 dunno
+[00:46:34] aldric123: (14...Qg4) Be3 Qf3 looks irritating
+[00:47:05] aldric123: (14...Qg4) So Bd2 or f4 but f4 is more complicated
+[00:47:35] tbest: Be3 Qf3 Qxf3 :D unless you in in one of the lines
+[00:47:50] aldric123: (14...Qg4) Oh sorry TBest, I was thinking of the lines of Bf4 where my own bishop blocked it
+[00:47:50] tbest: I would go for Bf4, it just feels right
+[00:47:50] aldric123: (14...Qg4) But you're totally right
+[00:48:05] aldric123: (14...Qg4) Bf4 I like most, but Be3 is ok cuz f3 isn't available as you pointed out
+[00:48:36] aldric123: (15.Bh4) this is amusing
+[00:48:51] aldric123: (15.Bh4) I assume he's thinking g5 and Be6 still
+[00:49:06] aldric123: (15.Bh4) still seems weird to try to almost trap yourself this way
+[00:49:52] aldric123: (15...g5) please tell me he foresaw Be6 here
+[00:50:07] tbest: tbh, not sure black can even afford to take the time to go g5 gxh5
+[00:50:22] tbest: but alas, maybe the most tricky move for white
+[00:50:53] aldric123: (15...g5) If white finds Be6 is about the only safe square b4 for queen?
+[00:51:08] aldric123: (15...g5) looks like it
+[00:52:40] aldric123: (16.e6) I preferred Be6 or 0-0-0 but this has to still be better for white
+[00:52:55] aldric123: (16.e6) But not as better as before after Qxc4 I guess
+[00:53:25] tbest: black really wants to move twice now. to take both bishops
+[00:53:40] aldric123: (16.e6) :)
+[00:54:11] aldric123: (16.e6) If gxh4 Rxh4 white protects c4 and next move is exd8
+[00:54:11] aldric123: (16.e6) Err exd7
+[00:55:57] aldric123: (16...Qxc4) Bxg5 and black has to be careful not to allow Qf4+ next move which would unpin the e pawn
+[00:56:13] tbest: what is quite annoying is that white can play Rh4 and kick the queen away from c4
+[00:56:28] tbest: which just removes most counterplay hopes
+[00:56:28] aldric123: (17.O-O-O) ah he's going for the tricky Rxd7
+[00:56:43] aldric123: (17.O-O-O) white's going for style points this game. :(
+[00:56:58] tbest: that is the most important point!
+[00:57:14] aldric123: (17.O-O-O) I guess you're right though that if gxh4 Rxh4 will unpin the pawn
+[00:57:59] aldric123: (17.O-O-O) It is nice how utterly tied down black is
+[00:58:15] davidsifre: (17.O-O-O) I messes th is up pretty badly but think I'm still winning.
+[00:58:45] aldric123: (17.O-O-O) you're certainly still better by a lot. No clue what the computer will say it is exactly
+[00:59:15] tbest: #10 or something I bet
+[00:59:46] aldric123: (17.O-O-O) quite possibly, though I sure haven't calced that myself. :)
+[01:00:01] aldric123: (17.O-O-O) move 17, I'm gonna remember to check after the game!
+[01:00:32] aldric123: (17.O-O-O) if I couldn't find anything better as black I might go h6 here
+[01:00:32] aldric123: (17.O-O-O) But even a simple move like Rd4 would unpin the pawn
+[01:00:47] aldric123: (17.O-O-O) Or Rxd7+
+[01:01:17] nyanners: damn this is crazy
+[01:01:17] tbest: h6 would be a fair try, but the h pawn is pinned after Bxg5 :(
+[01:01:32] aldric123: (17.O-O-O) oh good point TBest
+[01:01:32] aldric123: (17.O-O-O) haha
+[01:01:48] aldric123: (17.O-O-O) I mean black is messed, I was just trying to find SOMETHING I'd do
+[01:02:18] tbest: Be6 and hope white blunders a queen. Or you can go Rf8
+[01:02:33] aldric123: (17...Bd6) Rd4 is my default move
+[01:02:33] nyanners: Bd6 i like
+[01:02:49] tbest: desperatly need more then just the queen attacking things at least
+[01:02:49] aldric123: (17...Bd6) Yeah Bd6 makes lots of sense
+[01:02:49] nyanners: as in like okay this is completely terrible but like, the other options are way too easy
+[01:03:04] aldric123: (17...Bd6) Rd4 allows next move exd7
+[01:03:04] nyanners: just take d6 now
+[01:03:04] nyanners: xd
+[01:03:04] tbest: still, rd4 or probably even Rxd6 etc does win
+[01:03:19] aldric123: (17...Bd6) yeah both look winning quickly
+[01:04:05] nyanners: this is fair i guess
+[01:04:20] aldric123: (18.Bxg5) it works but Rd4 was more fun :)
+[01:04:35] davidsifre: (18.Bxg5) glad my bishop was spared.
+[01:04:50] tbest: an evil line would be Rf8 Bd8+ :D
+[01:05:51] aldric123: (18...Qg4) Ah neat. the queen would have fallen on c4?
+[01:06:07] aldric123: (18...Qg4) Though I suppose Rf8 Bd8+ there was Kb1
+[01:06:22] davidsifre: (18...Qg4) we did this dance before, and he trapped my bishop, but now there is no pawn to do so...
+[01:06:22] tbest: yeah. And if the rook takes you get style points and your queen is no longer attacked
+[01:06:22] aldric123: (18...Qg4) Err Kb8
+[01:06:52] aldric123: (18...Qg4) Seems like best here is Bf4 but I dunno
+[01:07:23] aldric123: (18...Qg4) I guess you could do Rxd6 and if Qxg5+ Rd2
+[01:07:23] nyanners: still looking for lines where black doesnt lose and i dont see any
+[01:07:23] tbest: Qg7 is maybe a bit nasty too
+[01:07:38] aldric123: (18...Qg4) ooh that is pretty filthy
+[01:07:53] tbest: it's tempting to just keep going for mate through
+[01:08:24] metalpawn: 19.Bf4
+[01:08:24] nyanners: black has done a decent job of being annoying so i trust
+[01:08:24] tbest: Rxd6 Qxg5 Rd2 is also doable xD
+[01:08:39] aldric123: (18...Qg4) Yeah that's the one I said a couple mins ago
+[01:08:39] nyanners: yea aldric did mention xd
+[01:08:54] tbest: o my b
+[01:08:54] aldric123: (18...Qg4) all good
+[01:09:09] aldric123: (18...Qg4) Bf4 is simplest, but your Qg7 is quite interesting
+[01:09:25] tbest: i don't want to trade e6 for a rook lol :D
+[01:09:40] aldric123: (18...Qg4) hah
+[01:09:40] tbest: the pawn might be better
+[01:10:41] aldric123: (19.Bh4) hah he loves the h4 square for Bishop
+[01:11:11] aldric123: (19.Bh4) crappy thing about this is if Rf8 do you have to take on h7 and let him have e6?
+[01:11:11] aldric123: (19.Bh4) if so that's a crime
+[01:11:42] tbest: well, Rf8 exd7 is possible
+[01:11:42] aldric123: (19...Rf8) oh crap
+[01:11:57] aldric123: (19...Rf8) you're right
+[01:11:57] tbest: not sure that was white's plan through
+[01:12:12] aldric123: (19...Rf8) exd7 and if Rxf7 d8=Q
+[01:12:12] aldric123: (19...Rf8) that's even mate
+[01:12:27] aldric123: (19...Rf8) amazing
+[01:12:27] aldric123: (20...Qxe6) nope, didn't see
+[01:12:43] nyanners: id probably bluff rf8 even if i saw mate
+[01:12:58] nyanners: if they see we have an excuse to resign...... no, not resign. let them have it
+[01:12:58] tbest: Hm, is it mate? d8Q Kb8 Qxd6 Rc7?
+[01:13:13] aldric123: (20...Qxe6) oh duh, b8 exists. sigh
+[01:13:13] aldric123: (20...Qxe6) so it "only" wins a knight
+[01:13:28] nyanners: more than that
+[01:13:28] tbest: well Bd8 etc will come but yeah
+[01:13:28] nyanners: bd8 at the end
+[01:13:28] aldric123: (20...Qxe6) yeah you're right
+[01:13:43] aldric123: (20...Qxe6) d6 bishop falls minimum
+[01:13:59] nyanners: but okay i believed the optical illusion too
+[01:13:59] tbest: this is by far the best position black has had in a while
+[01:13:59] aldric123: (20...Qxe6) oh for sure
+[01:14:14] aldric123: (20...Qxe6) letting e6 die like that was very painful
+[01:14:29] nyanners: rxd6 premove be7
+[01:14:29] nyanners: :o
+[01:14:44] nyanners: the ideas just play themselves
+[01:15:00] aldric123: (20...Qxe6) I think I'd be doing Nd4 or Ne4 here
+[01:15:00] inter-temporal: (20...Qxe6) go David!
+[01:15:00] aldric123: (20...qxe6) centralize
+[01:16:01] aldric123: (20...Qxe6) probably Ne4 because Nd4 allow Qe3+
+[01:17:17] nyanners: imagine white gets back ranked because of qe3
+[01:17:32] nyanners: that would be a tale for the ages
+[01:17:32] tbest: as black i would be very intrested in a queen trade
+[01:17:47] tbest: but leaving nb5 in the air is such a gamble
+[01:17:47] aldric123: (21.Nd4) it doesn't quite back rank I don't think, but it'd be amusing barring he's my teammate
+[01:18:18] nyanners: yea i mean, like 10 moves down the line
+[01:18:33] aldric123: (21...Qe3+) :)
+[01:19:03] aldric123: (22.Kb1) can't take on g3 because of Ne6 after double capture
+[01:19:34] aldric123: (22.Kb1) basically white is threatening Rhe1 and Ne6+
+[01:19:49] tbest: Nb5 followed by Nd5 is a nice thing too
+[01:20:04] aldric123: (22.Kb1) true
+[01:20:04] aldric123: (22.Kb1) that is a pretty big threat
+[01:20:19] aldric123: (22.Kb1) he'd have to play like Kb6 or b8 and lose the bishop
+[01:20:50] davidsifre: (22.Kb1) Not a useful check; i think he wants to trade queens or move his king out of the pin.
+[01:20:50] tbest: i think qe3 was an example where the threat was stronger then the execution
+[01:20:50] aldric123: (22.Kb1) yep
+[01:21:05] tbest: basically, don't give that check ever, just keep it so white has to be mindful
+[01:21:05] aldric123: (22.Kb1) but he's been so defensive for so long it was probably hard to resist
+[01:21:51] aldric123: (22.Kb1) Ndb5+ is so pretty
+[01:22:06] davidsifre: (22.Kb1) Bg5 invites a queen/king fork.
+[01:22:52] davidsifre: (22.Kb1) and if he doesn't take the bait, Ne6 forks the rook and king
+[01:23:07] aldric123: (22.Kb1) maybe the ugly Qe8 is best?
+[01:23:07] davidsifre: (22.Kb1) assuming he moves the queen off the e file.
+[01:23:37] davidsifre: (22.Kb1) Madam Nyanners, I have made some terrible moves this game, but my opponent is making worse.
+[01:23:37] aldric123: (22...Kb8) wow
+[01:23:53] davidsifre: (22...Kb8) though he just foiled all my forks
+[01:24:23] aldric123: (22...Kb8) Rhe1 seems nifty
+[01:24:54] aldric123: (22...Kb8) although Nf5 should be glanced at I guess
+[01:25:24] aldric123: (22...Kb8) I think he has to do Rxf5 Qxf5
+[01:26:25] davidsifre: (23.Rhe1) I need to create a snorkel to safeguard my back rank
+[01:26:25] davidsifre: (23.Rhe1) snorkel is english for luft
+[01:26:40] aldric123: (23...Qf2) wow you know better english than me!
+[01:27:26] aldric123: (23...Qf2) Ne6 seems to attack both f8 and d6
+[01:28:12] aldric123: (24.g4) I guess he might have Ne6 Rf7 to muddy it
+[01:28:42] davidsifre: (24.g4) passed pawns must be pushed
+[01:28:57] davidsifre: (24.g4) and if it attacks the queen that is good too.... back rank is protected by by mishop and rook for now
+[01:29:43] tbest: wonder if Nf6 is a good try here
+[01:29:43] tbest: to keep hoping for that queen trade
+[01:29:58] aldric123: (24.g4) Nf6 perhaps works. could just try Qf7
+[01:30:29] tbest: yeah, but I want to be greedy and get things out too
+[01:30:59] aldric123: (24...Qf7) you could be boring and do Qxf7 Rxf7 Nxc6+ bxc6 Rxd6
+[01:31:14] aldric123: (24...Qf7) be up a clean couple pawns maybe
+[01:31:45] aldric123: (24...Qf7) course g4 might fall if you're not careful
+[01:32:00] tbest: Qh6 Bf4 Nf6 Bxh6?? Bg3+ !
+[01:32:15] tbest: I found a mate line, finally. won't happen but I take what I can get
+[01:32:31] davidsifre: (25.Qe4) if we are trading we do it on my terms
+[01:32:46] davidsifre: (25.Qe4) which may be better or worse than his terms but at least i have autonomy and agency
+[01:32:46] tbest: Nf5 in that line *
+[01:33:16] aldric123: (25...Nc5) he's letting him untangle some :(
+[01:33:47] tbest: still Nxc6 here mmust surly work through
+[01:34:02] tbest: it's all about being brave and just push through I think
+[01:35:49] metalpawn: Bd7
+[01:36:34] aldric123: (26.Qe2) If Bd7 I think maybe Rf1
+[01:37:20] davidsifre: (25.Qe4) I keep thinking of Nxc6, bxc6, Rxd6 to open up the king
+[01:37:35] aldric123: (26.Qe2) Yeah you could do Nxc6 vs Bd7 also
+[01:37:50] aldric123: (26.Qe2) Err well not vs that
+[01:38:06] aldric123: (26.Qe2) Vs that I'd do Rf1
+[01:38:21] tbest: Getting rid of the d6 Bishop will make things alot easier for white
+[01:39:22] tbest: so I would go for Nxc6 even vs bd7 I think
+[01:39:37] aldric123: (26.Qe2) Yeah you still win a pawn I guess
+[01:40:07] aldric123: (26.Qe2) I just find it irritating to develop LSB to c6 but sure
+[01:40:38] aldric123: (26.Qe2) Getting rid of DSB with K on b8 would beg worth a lot
+[01:40:38] aldric123: (26.Qe2) be
+[01:41:08] davidsifre: (26.Qe2) he has played very well after a bad opening; i played bad after a good opening
+[01:41:39] metalpawn: 26...Qc7
+[01:42:40] tbest: Qc7 would run into Nb5 twice, but black will run into things with all the moves so..
+[01:43:10] tbest: Be7 or Rf1 feels natural here for example
+[01:43:56] davidsifre: (27.Rg1) Rook behind passed pawn is the right choice
+[01:44:11] aldric123: (27.Rg1) I'd whine about this being defensive but it also sets up Bg3 so I'm satisfied
+[01:44:57] aldric123: (27...Be5) Bg3 should win hard
+[01:45:28] davidsifre: (27...Be5) So I immediately see that the queen bishop and king are set up for a fall with Bg3
+[01:45:43] aldric123: (27...Be5) it almost mates or wins the Q for B + R
+[01:45:58] davidsifre: (27...Be5) or maybe I take the bishoip with the queen than skewer the queen to the king with the bishop
+[01:46:13] davidsifre: (27...Be5) that seems a lot easier to calculate and fairly clean.
+[01:46:13] aldric123: (27...Be5) that's trading though instead of getting the Q for B+R
+[01:47:14] davidsifre: (27...Be5) wins a clean bishop, queens off the board and my rooks are better positioned for the endgame.
+[01:48:00] aldric123: (27...Be5) You also have follow up of Bg3 Qxg3 Rxg3 Bxg3 Qe3 Bf4 Nxc6+ followed by taking on c5
+[01:48:30] davidsifre: (27...Be5) well maybe not a full bishop... Q takes bishoip,  queen takes ;queen, bishop takes queen, rook takes bishop... did I win ...
+[01:48:30] davidsifre: ...anything?
+[01:49:01] fireball100: GO David
+[01:49:16] tbest: so close to finding Bg3 as the first move
+[01:49:16] aldric123: (27...Be5) You simplified the endgame, but Bg3 is far stronger
+[01:49:31] aldric123: (27...Be5) He "found" it, but he doesn't want to calculate it seems :)
+[01:49:31] davidsifre: (27...Be5) no that won't win anything but trades pieces while I am up a pawn
+[01:51:03] aldric123: (27...Be5) I mean if he doesn't want to calculate Rgf1 might work
+[01:51:18] aldric123: (27...Be5) But Bg3 is right there
+[01:51:48] fireball100: Sorry I am just back from my golf day.  Game looks very ijterestine!
+[01:51:48] davidsifre: (27...Be5) but a simple Rf1.... and he can't defend t he bishop after moving aweay
+[01:51:48] aldric123: (27...Be5) One birdy at a time!
+[01:52:04] aldric123: (27...Be5) Ah he is seeing a simple Rf1 if he doesn't like Bg3 nice.
+[01:52:34] fireball100: Bg3 looks ok..
+[01:52:34] aldric123: (27...Be5) Bg3 and Rgf1 look amazing both. :)
+[01:53:20] davidsifre: (28.Rgf1) wins the rook since its no longer defended by the bishop
+[01:53:50] aldric123: (28.Rgf1) He's basically almost mated off this
+[01:54:05] aldric123: (28.Rgf1) Can't really not lose his Q or get mated on e5
+[01:54:36] davidsifre: (28.Rgf1) I will never be a good chess player because I can't keep track of what is happening after the first turn.
+[01:54:51] aldric123: (28.Rgf1) though if Bxg4 I think Rxf4 is best
+[01:54:51] aldric123: (28.Rgf1) Since the Q will hang with check behind it
+[01:55:06] davidsifre: (28.Rgf1) But I am good enough to beat my brother and that is what matters in the end.
+[01:55:06] aldric123: (28.Rgf1) Err the R
+[01:55:22] aldric123: (28.Rgf1) This guy is your brother!?
+[01:57:23] davidsifre: (28.Rgf1) fucking rook can't take the bishop in the line I was struggling with
+[01:58:24] aldric123: (28...Qxg4) Qxe5 is mate
+[01:58:55] aldric123: (29.Qxg4) uh
+[01:59:10] aldric123: (30.Rxf8+) I mean this is winning but Qxe5 was mate in 1
+[01:59:56] metalpawn: yep
+[02:00:11] tbest: second game I have spectated where a mate in 1 was missed, so my fault
+[02:00:26] aldric123: (31.Re8) How dare you TBest!?!
+[02:00:26] aldric123: (31.Re8) :)
+[02:00:42] metalpawn: i need more coffee this game is wild
+[02:00:57] tbest: the other game was worse, since I think I even wrote gg in chat when the first mate showed up on the board xD
+[02:00:57] davidsifre: (31.Re8) clean rook beats clean bishop. Aldric taught me that. Glad I miscalculated.
+[02:01:42] aldric123: (31...Bc7) b4 followed by Ne6 looks good
+[02:01:58] davidsifre: (31...Bc7) It's a stupid looking castle because his rook is trapped.
+[02:02:13] aldric123: (31...Bc7) of course perhaps easier is Rg1 intending Rgg8
+[02:02:28] fireball100: Rg1 is my choise
+[02:02:59] gavalanche20: (31...Bc7) Just tuning in what happened to the kingside haha
+[02:03:14] fireball100: K is trapped
+[02:03:29] aldric123: (32.Rg1) Kingsides are overrated. They had to be removed for remodelling
+[02:04:15] fireball100: yes
+[02:04:30] aldric123: (33.Rgg8) Heh, we're gonna get two draws in a row on the week. Does that make use grandmasters as a team?
+[02:04:30] aldric123: (33.Rgg8) draws left and right!?
+[02:04:45] tbest: gg
+[02:05:00] aldric123: gg
+[02:05:00] fireball100: No draw here
+[02:05:00] aldric123: I was talking draw on the team
+[02:05:00] aldric123: 4 vs 4
+[02:05:00] metalpawn: instead 32...a5 best to black was Nd7 idea b6
+[02:05:16] metalpawn: gg guys
+[02:05:31] metalpawn: wild game
+[02:05:31] fireball100: GG
+[02:07:17] aldric123: Unfortunately I think it was move 17 TBest assumed was #10. It's only +8.1 or so
+[02:08:18] nyanners: gg XD
+[02:08:34] nyanners: black did a pretty good job to be fair
+[02:08:34] nyanners: but it was too much
+[02:08:49] aldric123: Yeah, he lasted waaaay longer than I assumed
+[02:12:52] davidsifre: wow, I can't believe I missed the mate in 1
+[02:13:07] aldric123: :)
+[02:14:08] davidsifre: at least i got it when I did learn from my mistakes. But even then all I saw was free bishop i was intended to take.
+[02:14:39] davidsifre: would have been a mate and I would have been like, "huh. Guess so."
