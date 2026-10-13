@@ -1,0 +1,172 @@
+Lichess game chat log
+Game      : https://lichess.org/pOEjVyV7
+White     : morganbp
+Black     : m0r1
+Time      : 45+45
+Captured  : 2026-10-13 21:28:06 UTC
+Game ended : 2026-10-13 20:07:58 UTC
+Messages  : 162
+────────────────────────────────────────────────────────────
+
+[18:02:32] prostidude: Go go Morgan
+[18:33:16] shurbz: M0r1!!!
+[18:37:35] glennjamesmax: Good luck morgan!!
+[18:37:35] glbert: go m0r1!
+[18:41:39] m0r1: I am not an expert, but I get the feeling that this is not how to play the KID with black.
+[18:42:55] glbert: wait, aren't you black?
+[18:55:36] kyriakos1301: Let's go M0R1
+[18:56:22] nyanners: i have no idea whats happening but black got some squares
+[18:56:37] nyanners: cant be so bad
+[18:56:53] nyanners: maybe 12 f4 was good considering how useful g5 is
+[19:01:27] glennjamesmax: 20.f4 seems very good...g4 is speculative at best and gxf4 or ignoring it wrecks the structure
+[19:01:57] glennjamesmax: but Qh5 as played also looks strong.
+[19:02:13] glennjamesmax: I really like morgan's playstyle
+[19:02:58] nyanners: Bxd7 was a really good find actually
+[19:02:58] glennjamesmax: 21.f4 is very good now
+[19:03:44] nyanners: these positions are deceptively resilient
+[19:03:44] nyanners: black has the right bishop to defend and white doesnt
+[19:03:59] nyanners: white needs to route some Nf5
+[19:05:00] nyanners: i mean, i agree with you but i dont think the evaluation is like super winning crushing
+[19:07:48] glennjamesmax: Maybe I gave the wrong impression with my comments I just strongly like our position, don't think it's super winning or objectively crushing
+[19:08:33] nyanners: nah you did not its fine :o
+[19:08:33] nyanners: it also may happen to be objectively crushing
+[19:08:49] nyanners: as black id look for something else since you arent preventing f4 anyway
+[19:09:04] nyanners: f5 seemed worth a 10 minute thought
+[19:11:21] glennjamesmax: 23.e5 is very interesting
+[19:12:07] nyanners: insta f6 eh
+[19:12:22] glennjamesmax: for example 23.e5 dxe5 24.f5 Nh8 25.Ne4
+[19:12:22] nyanners: i like the general principle so e5 is like the counter-idea
+[19:12:22] nyanners: later it will be too late
+[19:12:52] nyanners: unfortunately white doesnt have the clock time for this
+[19:13:08] glennjamesmax: He's quite creative. Even short of time I think he can find it
+[19:13:23] glennjamesmax: and there's not so much to caclulate either
+[19:13:38] nyanners: i mean the question is like, is it good? im afraid the potential runs out
+[19:13:53] nyanners: be8 nf7 nd6
+[19:14:54] nyanners: i like a non-commital move such as this Ra3
+[19:14:54] nyanners: but it could be missing the window for sure..
+[19:15:40] nyanners: such is chess, sometimes you miss, sometimes you miss harder
+[19:16:56] nyanners: now that is a good one
+[19:17:57] nyanners: hindsight claims 23..Qe8
+[19:19:59] prostidude: Nh4 is clevee
+[19:19:59] prostidude: Clever
+[19:20:45] nyanners: yes :D
+[19:21:15] nyanners: though the coordination feels a bit hanging by a thread
+[19:21:30] glennjamesmax: Still like white here
+[19:22:01] nyanners: say the naive line
+[19:22:01] nyanners: qg4 bd7 nf5. seems good for white
+[19:22:31] nyanners: this could be good too
+[19:22:47] nyanners: e5? or not?
+[19:29:38] glennjamesmax: 29.fxg5 would be practical
+[19:29:53] nyanners: seems like death has arrived
+[19:30:08] mrscribbles: (29.fxg5) g5 was crazy
+[19:30:39] nyanners: i think black was close to something. maybe Be8 instead of Qe8 cost it
+[19:30:54] mrscribbles: (29...e6) Anything can happen in time trouble, but yeah doesn't look very fun
+[19:31:24] mrscribbles: (29...e6) Does Nh6+ do anything?
+[19:31:40] mrscribbles: (29...e6) Or dxe6+ and...
+[19:31:55] nyanners: king moving adds a defender
+[19:32:41] nyanners: this does feel very much Too Winning tho
+[19:32:41] mrscribbles: (29...e6) I really want to make something of e5 here but don't see it
+[19:32:56] nyanners: i mean youre already two pawns up at worst
+[19:33:26] mrscribbles: (30...Kxe6) How many extra pawns do you get for being a mod?
+[19:33:42] nyanners: 0.5
+[19:33:57] mrscribbles: (30...Kxe6) Or better, how many pawns can M0r1 sell his moderator position for?
+[19:34:27] nyanners: i think its any as long as nobody finds out
+[19:34:58] mrscribbles: (31...Kd7) that was a fast move
+[19:34:58] nyanners: rd3 possibly
+[19:34:58] mrscribbles: (32.Ng7+) I would have thought longer about Kd7
+[19:35:13] glennjamesmax: 32.Ng7+ Nxd6 was cleaner
+[19:35:13] glennjamesmax: as there's a simple pin after Kx
+[19:35:13] nyanners: okay a little material
+[19:35:28] nyanners: id be happy
+[19:35:43] glennjamesmax: but that's nitpicking, everything is winning and I'm sure morgan knows it
+[19:35:59] mrscribbles: (32...Kc6) Anything can happen with 90 seconds on the clock
+[19:36:14] mrscribbles: (33.Ne6) Bd7 would be funny
+[19:36:14] mrscribbles: (33.Ne6) funny for white at least
+[19:36:14] nyanners: what black needs is a plausible queen or rook hang
+[19:36:29] mrscribbles: (33.Ne6) indeed
+[19:36:29] nyanners: i dont see it
+[19:36:44] mrscribbles: (33...Qe7) why are you moving so fasttttttt
+[19:36:44] mrscribbles: (33...Qe7) slow downnnnnn
+[19:37:15] mrscribbles: (34...Nxf8) This looks tough for sure. But people win positions like this all the time by slowing down and thinking their way out of it
+[19:37:15] mrscribbles: (34...Nxf8) esp when their opponent is burning the increment oil
+[19:37:15] nyanners: nah its pretty rare XD
+[19:37:30] nyanners: but still
+[19:37:45] mrscribbles: (35.gxf6) All the time in the sense that these positions happen so much, so they're won "all the time" by sheer numbers
+[19:37:45] mrscribbles: (35.gxf6) not percentage wise, no
+[19:38:00] nyanners: id tank on 26 29 31
+[19:38:16] nyanners: here too
+[19:38:16] glennjamesmax: +45 is a large increment
+[19:38:31] glennjamesmax: so time pressure can be a bit of an illusion if the postion is very nice.
+[19:39:01] mrscribbles: (35...Qe5) That's true, though I'm always shocked how fast 45 seconds burns away when I'm in time trouble
+[19:39:01] mrscribbles: (35...Qe5) feels like blitz
+[19:41:03] nyanners: every minute, a winning position is lost on lichess.org
+[19:41:03] nyanners: you can do your part to stop that by not playing
+[19:42:50] nyanners: 38 Rd5 but id just trade queens tbh
+[19:42:50] nyanners: let it go
+[19:43:05] mrscribbles: (37...Be2) See this is what happens in time trouble. That's what I meant
+[19:43:05] mrscribbles: (37...Be2) Still very tough but less Very Tough than a few minutes ago
+[19:43:20] glennjamesmax: 38.Rd5 is a clever solution though
+[19:43:20] nyanners: i think if you trade the play is completely over
+[19:43:20] glennjamesmax: Oh wow! he played it
+[19:43:20] nyanners: here theres some worthless tension
+[19:45:22] mrscribbles: (39.Qf4) Is that bishop trapped?
+[19:45:22] mrscribbles: (39.Qf4) huh, ok
+[19:45:37] mrscribbles: (39.Qf4) I wrote that before Qf4
+[19:45:37] nyanners: yea id just have moved the rook
+[19:45:37] mrscribbles: (39.Qf4) oh, the d-pawn lol
+[19:45:53] mrscribbles: (39.Qf4) chess is so hard
+[19:45:53] nyanners: Too Winning
+[19:46:08] nyanners: dang
+[19:46:54] glennjamesmax: 41.Qf2 incoming
+[19:47:09] nyanners: as entertaining as this is, as white id have avoided it entirely XD
+[19:47:09] glennjamesmax: morgan is being absolutely clinical here
+[19:47:55] mrscribbles: (40...Qc3) Can we get away with e5?
+[19:49:11] nyanners: yea this is exactly the kind of position i would avoid
+[19:49:41] kayrosas: 39.rb1 ... rxd6 maybe simpler
+[19:50:42] glennjamesmax: 42.Qg6 this is getting too computerish
+[19:50:42] nyanners: some funny lines that are good but you absolutely would rather not rely on them
+[19:50:57] glennjamesmax: it's fine but not on 40 seconds
+[19:50:57] nyanners: nd4 f7 qxf2 f8q
+[19:50:57] nyanners: *qxd2
+[19:51:28] nyanners: nd4 qg7 qxd2 qxb7#
+[19:51:28] glennjamesmax: Nf4 Qg7 should be fine
+[19:51:58] nyanners: i like nd4 because qxd2 has the biggest spook factor
+[19:52:13] kayrosas: 42...Nd4 Qf7 Rd7 Rxd6
+[19:52:44] glennjamesmax: 42...Rf8 Qh7?
+[19:52:59] nyanners: rf8 not spooky at all
+[19:53:45] mrscribbles: (43...Nd8) Qe7+
+[19:54:00] mrscribbles: (43...Nd8) excuse me, I mean Rxd7+ Qe7+
+[19:54:15] mrscribbles: (44.Qe7) don't actually know if it works, not my problem haha
+[19:54:15] kayrosas: i dont see a mate at least
+[19:54:15] kayrosas: now Qxf6?
+[19:54:46] nyanners: part of me would be so mad, the other part would be okay time to let it go and start over because its still very winning
+[19:55:16] mrscribbles: (44...Qxf6) Like I kept saying, anything can happen in time trouble
+[19:55:31] glennjamesmax: I wouldn't be mad at all...the queens are off, so there shouldn't be a problem
+[19:55:31] nyanners: i mean, you trade, push the passers
+[19:55:31] mrscribbles: (45...Rxf6) Wish pop would slow down
+[19:55:31] nyanners: easy (most of the time)
+[19:55:47] kayrosas: 46.e5 also
+[19:56:02] nyanners: yea this helps quite a bit
+[19:56:17] mrscribbles: (46...Re6) slow downnnnnnnn
+[19:56:17] mrscribbles: (46...Re6) why are you moving so fast
+[19:56:17] glennjamesmax: Re1 was trapping the bishop maybe?
+[19:56:32] glennjamesmax: before 46.e5
+[19:56:47] kayrosas: oh true
+[19:57:03] glennjamesmax: amusingly 49.g4 might do it too
+[19:57:33] mrscribbles: (49.Re1) 49. g4 Bd3
+[19:57:33] mrscribbles: (49.Re1) yes
+[19:57:33] mrscribbles: (49.Re1) ?
+[19:57:33] mrscribbles: (49.Re1) I can't type lol
+[19:57:48] nyanners: funny xd
+[19:57:48] glbert: i think m0r1 has a goal of ending this with more time on the clock than he started.
+[19:58:04] mrscribbles: (50...Bg6) That was supposed to be one message, "49. g4 Bd3 yes?"
+[19:58:19] glennjamesmax: That's very cool when you win!
+[19:58:19] mrscribbles: (51...Nc6) glbert, how many League Dollars does mori earn for that?
+[19:58:19] glbert: it's never cool.
+[19:59:20] nyanners: my fastest prep win, c4 e6 Nc3 d5 g3 d4 Ne4?? f5 0-1
+[19:59:35] nyanners: i thought that was like some levels of cool. not very high ones
+[20:02:38] nyanners: cut?
+[20:07:58] glennjamesmax: GG morgan superb game
+[20:08:59] nyanners: gg :D
+[20:08:59] guitarspider: gg
+[20:12:32] glbert: good game.
