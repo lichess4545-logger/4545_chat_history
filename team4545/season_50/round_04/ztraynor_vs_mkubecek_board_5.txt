@@ -1,0 +1,107 @@
+Lichess game chat log
+Game      : https://lichess.org/SaFUtRKe
+White     : ztraynor
+Black     : mkubecek
+Time      : 45+45
+Captured  : 2026-10-13 17:13:13 UTC
+Game ended : 2026-10-13 15:53:04 UTC
+Messages  : 97
+────────────────────────────────────────────────────────────
+
+[14:04:55] ztraynor: looks a lot like my LW game last week, though idk if c6 was the move order there
+[14:05:25] ztraynor: fully expecting the Qb3 Qb6 and trades line, he's played it before
+[14:11:46] ztraynor: so in my LW game I believe Black's next moves were Be7 and 0-0 (did they have Be7 already and played Nbd7 later? same thing)
+[14:12:17] ztraynor: and I believe my improvement is after that (h3/g4 ideas to prep Bf4 that was unsupported in that game)
+[14:18:07] ztraynor: could also just play as in the LW game given that I messed that up much later, not here early
+[14:20:54] ztraynor: dammit I know Ra6 is the move but I still don't feel I love my options after Nb8
+[14:33:06] ztraynor: now the bishop has a hidey hole and we have officially deviated, finally, from the LW game
+[14:34:37] hthree: I think the point of Ra6 is if it provokes Nb8 you play Ra3 and the Knight has to go back to d7 and White has won a tempo as they can stack
+[14:34:52] ztraynor: I was going to swing the knights around but you know, maybe Ra6 now if Black doesn't do anything fancy?
+[14:34:52] hthree: on the a-file against the isolated pawn after the Bishop leaves c1
+[14:37:25] hthree: so far looking good for ztraynor with a comfortable position and 10 min up... let's bring home the full point!
+[14:38:56] ztraynor: huh this is really a pre-weekend match, isn't it? 7/8 scheduled and only 1 after midnight Friday
+[14:39:11] ztraynor: are we all busy this weekend?
+[14:40:42] hthree: (15...Rec8) Black admitting that the Rook doesn't do anything on e8 as e5-break seems not possible and spends another tempo on Rec8
+[14:42:59] ztraynor: have we neglected to properly consider e5?
+[14:44:00] hthree: (16.Nd2) e5 seems possible now and might catch White off guard as they still have not castled
+[14:44:31] hthree: interesting dynamic queenless middlegame
+[14:45:47] hthree: (16...Bd8) Black doesn't go e5 (I wonder why) and seems like they want to trade of DSBs
+[14:47:03] hthree: I guess e5 dxe5 and then Black has no good move
+[14:49:05] hthree: ztraynor either is quite familiar with the position after thoroughly analizing their last game or they are impatient as they spent little
+[14:49:05] hthree: time so far
+[14:49:36] hthree: could be both but Black might start to feel some pressure on the clock, now more then 15 min down
+[14:50:52] hthree: (17...a6) seemingly directed against b5... is now the time to castle for White?
+[14:51:07] hthree: at some point they should connect their rooks I think
+[14:54:10] mrscribbles: (18.O-O) really weird position
+[14:54:25] ztraynor: I don't love 0-0 after h3/g4 but the king feels safe enough and the other rook needs to get involved
+[14:55:26] ztraynor: I'd love to play e4 and swap some pieces but after that, Bf6 forces Rd1 and just... idk if that's the vibe?
+[14:57:28] mkubecek: (18.O-O) Awful position... anything I need to play I cannot for some reason.
+[15:03:18] ztraynor: if Black wants to trade DSB's, I'm inclined to allow it
+[15:04:04] ztraynor: like, Be7 takes takes Rfa1... I don't see how Black holds a6, I think?
+[15:04:34] ztraynor: those who saw the LW game will have a flash of deja vu here, yes that IS similar to what I said before messing up last time
+[15:05:20] ztraynor: hm and Nx allows Nb5 later, yes
+[15:06:51] ztraynor: really thought the idea there was Rx for the purposes of doubling
+[15:07:37] ztraynor: never mind that Ne8 telegraphed it, lol
+[15:08:23] ztraynor: oh wait he can't play Nb5, Nx and neither recapture works
+[15:13:43] ztraynor: the problem with e3 is that Bd3 looks strong
+[15:15:14] hthree: (21...e5) how is Bd3 strong? can't White just answer with Bf1?
+[15:16:15] ztraynor: intent here is to open the d4 square for a horsey
+[15:18:17] ztraynor: in this version I think e3 is fine since I have Kf2 should the bishop come in
+[15:21:04] hthree: (23...Nd7) Nf3-Nd4 looks nice to me here
+[15:21:20] ztraynor: was going to snap Nf3 but does Nb3 instead have value?
+[15:22:36] ztraynor: actually here I might bait f6 restricting the knight
+[15:30:13] ztraynor: need to prevent Re3 there
+[15:30:28] ztraynor: nearly snapped Nd4 missing that
+[15:31:29] ztraynor: I'm used to being low on time by this point
+[15:34:17] ztraynor: oh the f pawn is hanging yikes
+[15:37:20] hthree: (25...Be4) I don't see any f pawn hanging... Nxe4 dxe4 Nd4 and I don't see Black defending c6
+[15:37:35] hthree: (26.e3) this looks good too
+[15:37:50] ztraynor: I do need to get that bishop traded but not in a way that lets Black get counterplay
+[15:39:22] ztraynor: yeah should have played Nb3 isntead of Nf3 earlier
+[15:40:08] hthree: as Black I would consider taking the Knight as I think it would be quite strong on d4
+[15:40:53] hthree: also 24.Nb3 there is Bc2
+[15:44:11] hthree: (27.Nxe4) Nd4 is coming and it looks tough for Black
+[15:44:26] ztraynor: if this gets tactical I do appreciate the time situation
+[15:45:12] ztraynor: earlier when I was happy to clear d4 for my knight... suddenly Black gets to do the same with d5 here
+[15:45:42] inter-temporal: (27.Nxe4) go mkube!
+[15:45:58] ztraynor: Ra3 is the 2nd defender on e3 if so, but then it feels like I'm getting stretched a bit thin
+[15:46:28] ztraynor: LMAO I don't even need a 2nd defneder, there's an entire pawn in the way, what am I doing?
+[15:46:28] hthree: after Rxe4 Ne5 Black would have had to sac an exchange
+[15:47:29] hthree: (28.Nd4) Nb8 seems to be only way to hang on to c6-pawn
+[15:48:30] hthree: which looks passive but I don't see an immediate win for White
+[15:48:45] ztraynor: B doesn't actually *need* to be on the long diagonal and I wonder if there are tactics now...
+[15:49:16] ztraynor: like b5 is at minimum an issue for Black
+[15:50:17] ztraynor: hey I only saw the start of the notification but could someone comment in my team channel NOT to comment on ongoing games?
+[15:50:47] ztraynor: idk if it was anything relevant or even recent but that's a nope
+[15:50:47] hthree: will do
+[15:51:02] ztraynor: oh this just doesn't work, right?
+[15:53:04] hthree: for transparency the message in question was: "Looks to be a very interesting game of outpost-considerations and weak pawns"
+[15:53:19] hthree: gg
+[15:53:50] mkubecek: An awful game from my side, from the start to the end.
+[15:55:21] ztraynor: It should also be noted, you walked DIRECTLY into prep, I had that about 15 moves deep having JUST played it in LW on Sunday
+[15:55:36] ztraynor: and getting it OTB a lot too
+[15:56:52] ztraynor: yeah identical to move 12 (through transpositions, early c6 here for example)
+[15:57:08] ztraynor: that game I did Bf4 without supporting it, here the h3/g4 push makes it work better
+[15:57:23] mkubecek: It was my prep as well, even if not that deep.
+[15:57:38] mkubecek: But once again, opening wasn't really the problem.
+[15:58:08] ztraynor: Agreed, but it set up for the middlegame issues, I felt extremely comfortable
+[15:58:24] ztraynor: Which also allowed significantly quicker play than I usually do
+[15:58:54] ztraynor: And I imagine it's not fun playing the Black side and wondering "I didn't do anything *wrong*, so what happened?"
+[15:59:40] mkubecek: It certainly didn't feel as if I haven't done anything wrong, to be honest.
+[16:00:10] inter-temporal: looks like SF finds some positional nuances for black
+[16:00:56] inter-temporal: move 21...Rab8, aiming for the weakness at b4
+[16:00:56] mkubecek: Perhaps not a big mistake but certainly letting white put me under more and more pressure progressively.
+[16:01:26] inter-temporal: the the exchange at move 26...B for N
+[16:02:12] inter-temporal: hard stuff
+[16:03:28] mkubecek: Shouldn't have allowed to get manipulated into this kind of position in the first place.
+[16:04:29] inter-temporal: u totally clawed ur way back.
+[16:04:44] inter-temporal: then the chocie at move 21 between center and flank, is not so obvious.
+[16:05:45] mkubecek: That was the only moment where I felt I could breathe a bit.
+[16:06:00] ztraynor: Yeah a couple of those "mistake/blunder: move X was best" I'm looking at it like... is it really?
+[16:06:46] inter-temporal: 23.f4 was a killer
+[16:07:16] inter-temporal: somehow that's the move that we're supposed to forsee to avoid 21...e5
+[16:07:31] ztraynor: I occasionally play 1.f4 so I have fewer qualms than most about throwing Freddy forward
+[16:08:17] ztraynor: I wasn't really sure what I'd do if Ng6 instead of Nd7 there
+[16:09:03] ztraynor: But I guess the idea is "don't hang a tactic, be solid, make improving moves, milk the clock"
+[16:10:49] inter-temporal: i'd need a stronger player to help me understand this. on the surface, it's too far outside normal tactical caveman chess for me. lol
+[16:13:06] inter-temporal: just one of those games where white's good moves are more logical, i think.
