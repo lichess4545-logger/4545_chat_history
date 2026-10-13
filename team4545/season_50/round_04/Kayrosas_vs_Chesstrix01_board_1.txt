@@ -1,0 +1,306 @@
+Lichess game chat log
+Game      : https://lichess.org/C7nLysKH
+White     : kayrosas
+Black     : chesstrix01
+Time      : 45+45
+Captured  : 2026-10-13 19:49:37 UTC
+Game ended : 2026-10-13 18:29:27 UTC
+Messages  : 296
+────────────────────────────────────────────────────────────
+
+[15:42:23] kayrosas: 8.Bg5 a small surprise. this entire 7...Nbd7 line is quite annoying to deal with if black is prepared
+[15:47:58] kayrosas: 12...Bd7 is where my prep ends I think, mostly looked at Qc7 there
+[15:49:44] kayrosas: e5 should be my idea usually I think
+[15:59:38] kayrosas: was hoping for 12...Qc7 Rhe1 0-0 and there are some weird lines there
+[16:01:40] kayrosas: here black somewhat commits to castling queenside and it's difficult to punish. but the top line goes 12...Qc7 Rhe1 Bd7 so I hope
+[16:02:11] kayrosas: saving on Rhe1 and instead putting it on f1 might be good. otherwise all these lines are 0.0 with slight bias for black
+[16:08:31] kayrosas: maybe it does belong on e1 after all. not sure if including 16.Rhf1 Rf8 does much for me
+[16:14:06] kayrosas: wondering if 16...Rf8 Ne4 works, Qxe5 Nf5 Nxe4 Nd6 and I probably have initiative
+[16:15:38] inter-temporal: (16.Rhf1) holy cow. white's gonna break 2500. we need a new board.
+[16:15:53] inter-temporal: (16.Rhf1) Board A, maybe?
+[16:16:39] kayrosas: and if that doesnt work for black Nxe4 Qxe4 my pieces are good but e5 a bit weak. not sure if that is enough
+[16:20:42] inter-temporal: (16...Rf8) a nutty najdorf. lol. black doesn't lop off the lsb? i don't get it.
+[16:22:14] inter-temporal: (16...Rf8) looks like it was a choice at move 12, and a couple other spots.
+[16:22:14] kayrosas: if 6.Bc4 was a good opening Nf5 would work here, but it's not I'm afraid
+[16:23:00] daringdodo: I kinda agree with you inter, I think taking the lsb makes sense
+[16:23:45] inter-temporal: (16...Rf8) it's also weakness--my Ns always take Bs, even if it loses. i can't help it
+[16:23:45] grzybozbur: i would let it stew on b3 for a while, it doesn't seem to be doing anything
+[16:24:16] daringdodo: but I guess white is not gonna play bc4 so you can wait yeah
+[16:24:31] grzybozbur: what i don't understand is rf8
+[16:24:46] inter-temporal: (16...Rf8) Kayrosas is talking about "Nf5," which makes the lsb a tad menacing, maybe
+[16:25:47] inter-temporal: (16...Rf8) i see ghosts
+[16:26:33] inter-temporal: (16...Rf8) maybe Rf8 saw ghosts too. but then, just take the lsb and forget about it. lol
+[16:27:03] daringdodo: black wants to castle queenside I think
+[16:27:18] daringdodo: so Rf8 to protect f7 pawn first
+[16:27:18] guitarspider: (16...Rf8) well, if blackis going to castle long, allowing Rxf7 is going to be a bit awkward
+[16:27:18] invinci7777: may be a mis click, trying to castle
+[16:27:49] guitarspider: (16...Rf8) ah, didn't see dodo's comment before typing
+[16:28:04] guitarspider: (16...Rf8) lichess chat be janky again
+[16:28:19] invinci7777: yeah ig that is more likely, proyrcying f7 to prepare 0-0-0
+[16:28:35] daringdodo: np I beat you be a few seconds. Also there should not be any misclicks in this time control ever
+[16:28:50] invinci7777: *protecting f7
+[16:28:50] inter-temporal: (16...Rf8) i notice 1 model game after 15.Qc7 where black did not castle and drew
+[16:29:20] inter-temporal: (16...Rf8) there white's lsb took on e6 too. lol
+[16:29:51] guitarspider: (16...Rf8) inter, as for leaving the Bb3 alive, it can't really go anywhere and so black simply spends the tempi elsewhere and waits to chop
+[16:30:21] guitarspider: (17.Ne4) because removing the bishop immediately doesn't do much and developing instead does
+[16:30:21] daringdodo: so he goes for this complicated line he mentioned that I didnt even understand
+[16:31:07] guitarspider: (17.Ne4) now it's possible black has waited too long and Nxe4 is forced at some point, but even then the bishop is not too scary
+[16:32:08] daringdodo: im struggling to understand why black shouldnt just take the e5 pawn
+[16:32:38] inter-temporal: (17.Ne4) that's in the model game i just looked at
+[16:33:09] inter-temporal: (17.Ne4) where Bxe6 arises
+[16:33:24] invinci7777: qxe5 nxc5 qxc5 then nxe6 seems to work
+[16:33:24] inter-temporal: (17.Ne4) Qxe5, Nxc5 Qxc5, Bxe6
+[16:33:39] kayrosas: 17.Rf3 might be a better try, but the hope for Qxe5 guided me here
+[16:33:54] inter-temporal: (17.Ne4) then Bxe6, Nxe6 fxe6 etc
+[16:34:25] inter-temporal: (17.Ne4) . = Qxe6+
+[16:34:25] daringdodo: are you guys looking with engines or something?
+[16:35:41] guitarspider: (17.Ne4) e6 sac ideas are common fare at least
+[16:35:41] invinci7777: yeah
+[16:35:56] inter-temporal: (17.Ne4) no engines
+[16:36:12] invinci7777: also its easy to see sacs while spectating
+[16:36:27] inter-temporal: (17.Ne4) i can't see anything. i just checked book moves and a model game.
+[16:37:13] chesstrix01: e5 looks like a poisoned pawn but I wanna see the concrete refutation on the board
+[16:37:28] inter-temporal: (17...Qxe5) kewl.
+[16:37:43] daringdodo: they are both leaving notes now ok
+[16:37:58] inter-temporal: (17...Qxe5) big difference in the model game, there is no ...Rf8
+[16:37:58] daringdodo: can they see each others notes?
+[16:37:58] inter-temporal: (17...Qxe5) no
+[16:37:58] invinci7777: no
+[16:38:14] daringdodo: ok
+[16:38:14] inter-temporal: (17...Qxe5) once they hit enter, then cannot even see their own notes
+[16:38:29] invinci7777: unless thry forget to whisper
+[16:38:44] rusty_2003: i play with zen mode im too easily distracted for all that lol
+[16:38:44] invinci7777: which has happed to me sometimes
+[16:38:44] inter-temporal: (17...Qxe5) it's mostly for us, and for post-mortem recalling what they were thinking
+[16:39:14] inter-temporal: (17...Qxe5) it took me years to ween off zen mode and start whispers.
+[16:39:30] kayrosas: 18.Nb5 might accomplish the same in better
+[16:39:45] guitarspider: (17...Qxe5) I avoid typing during games too, but mostly because I like to stay as close as possible to otb conditions
+[16:40:00] chesstrix01: 18.nxc5 qxc5 19.nxe6 fxe6 20. rxf8 qxf8; 20.bxe6 bxe6 21. qxe6 qe7; 20.rxd7 rxf1+
+[16:40:15] kayrosas: nvm, Nb5 Bxb5 Nd6 Qxd6 oops
+[16:40:46] chesstrix01: feeling okay taking e5 without white's dsb and with the unusual rook on f1
+[16:41:16] inter-temporal: (17...Qxe5) it might be the ...Rf8 that made Qxe5 safe enough.
+[16:42:32] daringdodo: yes he mentioned this line with nf5 but I dont really understand it
+[16:42:32] invinci7777: kayrosas seeing something beyond us all
+[16:42:32] kayrosas: don't think I'm winning anything by force after Bf6 but I should have sufficient compensation
+[16:43:18] kayrosas: I might lack basic counting skills perhaps
+[16:44:19] daringdodo: he lost three pieces for the queen, but also the e5 pawn idk
+[16:45:05] chesstrix01: this should be enough if I can consolidate somehow - not seeing a knockout atp
+[16:45:20] rusty_2003: Well its close to halloween so lets see the tricks
+[16:45:20] rusty_2003: lol
+[16:45:20] kayrosas: but the position is more interesting now at least
+[16:45:20] guitarspider: (21.Qe5) can black maybe even castle long?
+[16:45:35] guitarspider: (21.Qe5) 0-0-0 Qxd6 Bb5?
+[16:45:50] mrmatt96: Qc5+
+[16:45:50] guitarspider: (21.Qe5) I guess there is Qc5+ so probably not
+[16:46:21] chesstrix01: 21....be7 22.rd1 0-0-0 23. rxd6 bxd6 24. qxd6 bc6 with a back rank mate would be fun
+[16:47:37] invinci7777: there is Bxe6+ i believe in that line
+[16:49:39] chesstrix01: tempted to offer a draw in this position against a strong opponent, but that would not be in the spirit of the position
+[16:49:54] daringdodo: so many pieces for black this looks very tough to play for white, maybe the h pawn can do something in the long run
+[16:50:24] invinci7777: tough to play for both
+[16:50:40] invinci7777: I would lose to both of these players with both sides here
+[16:50:55] inter-temporal: (23.Qxh6) i never offer a draw against a stronger opponent. maybe i should try it
+[16:51:41] rusty_2003: I feel like draw offer is a psychological defeat lol gotta make them earn it
+[16:51:56] mrmatt96: Never offer draws!
+[16:51:56] inter-temporal: (23.Qxh6) trying to recall... i don't think i've ever offered a draw period. lol
+[16:52:11] grzybozbur: the thing is, white can win f7 without dislodging the knight
+[16:52:11] inter-temporal: (23.Qxh6) but i can't handle rejection, so therez that
+[16:52:26] grzybozbur: and how do you dislodge the knight?
+[16:52:26] inter-temporal: (23.Qxh6) if they want it, they'll tell me. lol
+[16:52:57] invinci7777: play Bc4 to dislodge knight
+[16:52:57] grzybozbur: and if you don't win f7, then bb3 seems dead
+[16:53:42] invinci7777: bishop has to come out via c3
+[16:53:42] grzybozbur: so it seems black can just get their rooks wherever they want and white has to scramble to organize some play
+[16:54:28] daringdodo: yeah I thought bc3 was gonna be played here but rg8 instead
+[16:56:15] grzybozbur: this looks increasingly bad for white
+[16:56:30] inter-temporal: (25.Rg1) a lesson in coordination/harmony?
+[16:56:45] invinci7777: yes
+[16:58:01] inter-temporal: (27...Kb8) disconnecting the K from the group
+[16:58:17] invinci7777: just have to avoid some quuen fork its easy to miss with so many pieces
+[16:58:32] inter-temporal: (27...Kb8) all of a sudden some black pieces are undefended
+[16:59:48] daringdodo: surely bc3 now right? I feel like that move looked strong for a while
+[17:00:03] daringdodo: yeah
+[17:02:21] rusty_2003: bc6*
+[17:06:39] inter-temporal: (29.g4) gotta have some space
+[17:08:26] kayrosas: 29...Ne4 I like to see. I think if black just keeps the minor pieces as they were I have 0 chance. like 29...Rg8 and Rgh8 next
+[17:10:28] invinci7777: Ba4 may be an opportunity to get it out
+[17:10:28] inter-temporal: (30...Rh8) if there is a boring drawish position, this is the extreme opposite
+[17:10:58] grzybozbur: ok, so black can do anything, what can white do other then play a3?
+[17:10:58] invinci7777: exciting drawish position
+[17:12:14] chesstrix01: lost some control it seems, but white has no active plan at the moment so I have time for some random shuffling
+[17:14:16] inter-temporal: (32.Ka2) get rid of the checks first!
+[17:14:32] inter-temporal: (32.Ka2) too many tactical motifs. lol
+[17:15:02] kayrosas: 32...Nf2 Qd4 would be fun
+[17:15:02] kayrosas: oh
+[17:15:17] chesstrix01: qd4
+[17:15:17] chesstrix01: good job
+[17:15:17] inter-temporal: (32...Nf2) too many undefended pieces
+[17:15:48] kayrosas: I love tricks
+[17:16:18] kayrosas: might still be worse tho
+[17:16:49] invinci7777: at least there is Bc5
+[17:18:05] inter-temporal: (34.Qxf2) and too many Q moves
+[17:19:21] invinci7777: yes
+[17:19:21] kayrosas: actually f7 will be quite weak after 34...Bc5 Qf6 etc so I should be the one pushing
+[17:19:52] inter-temporal: (34...Rh7) now Black's gonna defend everything
+[17:21:23] invinci7777: draw likely
+[17:22:24] grzybozbur: the queen will get to c7 and black seems in trouble
+[17:22:40] invinci7777: yeah
+[17:22:40] inter-temporal: (35...Rhg7) yeh, i thought maybe ...Kb8 is not too risky... idk.
+[17:24:26] invinci7777: rf1
+[17:25:58] invinci7777: or rh1 trying for rh8
+[17:26:13] invinci7777: nvm h1 is covered
+[17:26:28] inter-temporal: (36...Bf6) deflect the lsb first
+[17:26:59] invinci7777: Bc4 might be a way
+[17:27:14] inter-temporal: (36...Bf6) nice
+[17:28:45] kayrosas: 37...Be5 Qd8+ Ka7 Rxf7
+[17:29:16] invinci7777: nice
+[17:29:16] inter-temporal: (37.Rf1) Qd8+ Bb8 maybe
+[17:29:46] invinci7777: still rxf7 works
+[17:29:46] grzybozbur: ok, but what else can black play?
+[17:30:01] kayrosas: could be somewhat close to a fortress for black tho without the k-side pawns
+[17:31:18] inter-temporal: (38...Ka7) and that lsb is finally doing something
+[17:31:33] invinci7777: batman returns
+[17:31:33] grzybozbur: a fortress down a pawn i don't believe in very much
+[17:32:19] inter-temporal: (39.Rxf7) ...Rxg4 then what
+[17:32:19] kayrosas: so after 39...Rxg4 maybe I don't wanna trade rooks, but I also don't see how my rook can be useful
+[17:33:04] invinci7777: i like Bxe6
+[17:33:35] inter-temporal: (39...Rxg4) see? shoulda lopped it off long ago. lol
+[17:34:36] chesstrix01: not a fun endgame to defend at 11pm, specially after throwing away the knight
+[17:37:08] tommeketoch: why is this not watch partied?
+[17:37:38] inter-temporal: (41.Bxe6) it's a private party. but ur invited, oc
+[17:37:54] inter-temporal: (41.Bxe6) been waiting 2 hours for Bxe6
+[17:38:09] chesstrix01: nearly went bc7 qd4+: qd4 twice
+[17:38:24] inter-temporal: (41...Rg2) defence of the dark squares
+[17:38:39] mrscribbles: (41...Rg2) just checking in now. Fun!
+[17:39:10] tommeketoch: Chesstrix so close to the upset of the season
+[17:39:10] tommeketoch: was
+[17:39:40] inter-temporal: (42.Qd3) now ...Bc7 is safe
+[17:39:40] mrscribbles: (42.Qd3) maybe white should try to trade off a set of bishops?
+[17:39:56] mrscribbles: (42.Qd3) No idea how white makes progress when black has two bishops
+[17:39:56] mrscribbles: (42.Qd3) but on the other hand, chess is Really Hard so anything can happen
+[17:40:11] tommeketoch: I don't think so. I think then is is very close to fortress
+[17:40:41] mrscribbles: (42.Qd3) hi kommetetotch
+[17:40:56] mrscribbles: (42...Rg3) Might as well try Qc4 threatening Qc5+
+[17:41:12] inter-temporal: (42...Rg3) careful
+[17:41:12] mrscribbles: (42...Rg3) indeed tempy
+[17:41:27] mrscribbles: (43.Qc4) white trying for my brilliancy
+[17:42:13] tommeketoch: One part of me want to start my stream with this, but other part of my brain has no clue how to play for either side
+[17:42:13] inter-temporal: (43.Qc4) Master-scrappy knows
+[17:42:43] mrscribbles: (43.Qc4) lol
+[17:42:43] kayrosas: maybe 43.Qe2 was the way. didn't wanna let the bishop get on the a7-g1 diagonal but that'd be how I can push my pawns without Ra1+ stuff
+[17:42:58] inter-temporal: (43.Qc4) me2!  caveman must check king!
+[17:43:29] kayrosas: but I'm also not in any hurry
+[17:43:44] inter-temporal: (43.Qc4) "Do not rush"--Capablanca
+[17:43:59] tommeketoch: this feels like an example of the don't hurry strategy
+[17:43:59] grzybozbur: i think trade bishops so that the pawns can advance
+[17:44:14] invinci7777: except when in time trouble
+[17:44:14] inter-temporal: (44...Ka8) but first check king
+[17:44:14] mrscribbles: (44...Ka8) How bold are we feeling? Pawn storm?
+[17:44:45] invinci7777: Bc4
+[17:45:00] invinci7777: threatning Bxa6
+[17:45:00] tommeketoch: But if you trade bishop and then push pawns.  How do you without allowing fortress of black
+[17:45:15] mrscribbles: (44...Ka8) no fortress. Only attack
+[17:45:15] tommeketoch: sack the remaining bishop for the right pawn(s)
+[17:45:31] mrscribbles: (44...Ka8) Attack!
+[17:45:31] grzybozbur: i have an extra pawn, something should crop up
+[17:46:01] mrscribbles: (44...Ka8) b4!
+[17:46:01] invinci7777: keep making yhteats untill black blunders
+[17:46:16] mrscribbles: (44...Ka8) please b4
+[17:46:16] invinci7777: no please Bc4
+[17:46:32] mrscribbles: (45.Bc4) ah, that's valid too
+[17:46:47] invinci7777: yes white going for my brilliancy
+[17:47:02] mrscribbles: (45.Bc4) b5!
+[17:47:17] inter-temporal: (45.Bc4) nasty trick
+[17:47:17] mrscribbles: (45.Bc4) there's no way white sees b5 Qxc6+
+[17:47:48] invinci7777: yeah he is only like 2500
+[17:47:48] tommeketoch: not yet
+[17:48:03] tommeketoch: needs to win the game first
+[17:48:03] mrscribbles: (45.Bc4) These b1s are useless once you get them out of theory
+[17:48:18] mrscribbles: (45.Bc4) (also a joke)
+[17:48:33] mrscribbles: (45.Bc4) So, what, like Bg2? Looks kinda painful
+[17:48:49] tommeketoch: there is surely some obscure queen and bishop vs rook and 2 bishops theory
+[17:48:49] mrscribbles: (45.Bc4) maybe Bg2 Qa5
+[17:49:19] inter-temporal: (45.Bc4) ...Rg6
+[17:49:19] inter-temporal: (45...Rg6) maybe
+[17:49:34] mrscribbles: (45...Rg6) Does Qa5 do anything?
+[17:49:34] mrscribbles: (45...Rg6) Good call tempy
+[17:50:05] inter-temporal: (46.Bd3) slide back onto some safe dark squares
+[17:50:20] tommeketoch: already setting up for the eventual fortress
+[17:50:20] invinci7777: d6 safest
+[17:50:51] mrscribbles: (46.Bd3) But won't black start to have pawn storm problems?
+[17:51:06] inter-temporal: (46.Bd3) i start wondering about zugzwang too
+[17:52:37] inter-temporal: (46...Re6) because i like to find all the ghosts
+[17:54:24] mrscribbles: (47.c4) huh, I never would have considered c4 first
+[17:54:24] mrscribbles: (47.c4) Isn't that kinda weird?
+[17:54:39] invinci7777: yes this pawn move was not expected
+[17:54:54] invinci7777: feels wierd to me too
+[17:54:54] mrmatt96: Does it make a difference?
+[17:55:09] tommeketoch: I think the winning plan is to get b5 in when you can reply axb5 with axb5
+[17:55:09] mrscribbles: (47.c4) it makes a difference in my heart
+[17:55:09] tommeketoch: white needs to trade the a pawn
+[17:55:40] invinci7777: I feel bad for lsb
+[17:55:55] mrscribbles: (48.Qe3) I've never seen a bad bishop with only three pawns on the board
+[17:56:26] inter-temporal: (48.Qe3) lol. "bad bishops defend good pawns"--Capablanca
+[17:56:56] mrscribbles: (49.Qg3) Feels like white lost the thread slightly, but they're 8000 points higher than me...
+[17:56:56] mrscribbles: (49...Rd8) ... so what do I know
+[17:57:11] mrscribbles: (49...Rd8) b4 does seem constructive tho
+[17:57:57] chesstrix01: in for a long night.....unless I blunder again
+[17:57:57] tommeketoch: b4 didn't do anything
+[17:58:12] tommeketoch: c4 neither
+[17:58:43] grzybozbur: white needs to advance the pawns to make any progress i think
+[17:59:44] tommeketoch: no the best plan is probably not to hurry in this postion :p
+[18:00:45] invinci7777: unless in time trouble of course
+[18:01:00] tommeketoch: time trouble doesn't exist in this position for white
+[18:01:15] nyanners: its not entirely riskless
+[18:01:46] kayrosas: ok I kinda lost the plot
+[18:02:01] tommeketoch: ah the beast has also no clue
+[18:02:16] invinci7777: black is having time trouble, its 11:30 pm for him
+[18:02:32] daringdodo: wow a WFM in here
+[18:02:47] nyanners: same tbh. you do have to push a pawn and hope it works
+[18:02:47] nyanners: shuffle for 20 moves first tho
+[18:02:47] grzybozbur: i like what white is doing
+[18:03:17] grzybozbur: b5 now? and black has to take i think?
+[18:03:48] tommeketoch: I don't like that
+[18:03:48] daringdodo: I hate this practically
+[18:04:03] daringdodo: but idk
+[18:04:03] nyanners: weird
+[18:04:03] tommeketoch: Now light square bishop trade
+[18:04:34] tommeketoch: maybe not
+[18:04:34] nyanners: not sure if the trade benefits white or gets closer to the fortress
+[18:04:49] daringdodo: I thought the whitesquare bishop trade would be bad for black and good for white
+[18:05:04] tommeketoch: light square bishop trade and sack bishop for b pawn is fortress, but I guess black can never force that
+[18:05:35] grzybozbur: black bishop is now hanging everywhere instead of having an outpost on c6
+[18:05:35] daringdodo: pawns look scary after bishop trade
+[18:05:50] nyanners: its pretty weird
+[18:06:21] daringdodo: yeah I guess you kinda have to go be4 cuz where else to put it, othersquares look even weirder
+[18:10:25] grzybozbur: i don't know what black should do, white can just attack pieces willy-nilly and everything's hanging
+[18:11:26] grzybozbur: and the white king should always be ok, because bd3 covers light squares
+[18:12:57] tommeketoch: this game for sure goes nominated for alp thing. Good luck explaining this
+[18:14:13] invinci7777: just call it all standard najdorf theory and be done with
+[18:14:44] inter-temporal: (54...b6) true
+[18:14:59] inter-temporal: (54...b6) just another typical najdorf. lol
+[18:15:45] tommeketoch: that is why don't hurry works
+[18:16:00] tommeketoch: I assume this is gg or is there a trick?
+[18:16:15] daringdodo: I think its gg
+[18:17:46] mrscribbles: (57...Re5) I would play Qa5+ Ba7 b6 in bullet
+[18:17:46] mrscribbles: (57...Re5) on purpose. just to feel alive
+[18:18:02] invinci7777: and opponent will resign
+[18:24:22] mrscribbles: (61.a5) Hoping for some really good spite checks
+[18:28:41] nyanners: well then
+[18:29:12] nyanners: this should do
+[18:29:27] nyanners: gg xd
+[18:29:27] jfiras: gg !
+[18:29:27] inter-temporal: gg
+[18:29:27] daringdodo: gg
+[18:29:27] jfiras: and congrats on joining the 2500 club Kayrosas !
+[18:29:42] chrishyzz: what a nice game!
+[18:29:42] mrscribbles: gg
+[18:29:42] invinci7777: gg
+[18:29:42] mrscribbles: good effort by black
+[18:30:13] inter-temporal: full chat will be available in a couple of hours at:
+[18:30:13] inter-temporal: https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545/season_50
+[18:30:28] kayrosas: good to hear
+[18:30:43] kayrosas: can't miss out on what people think of the brilliant 18.Nf5
+[18:31:29] inter-temporal: we didn't miss a move! lol
+[18:32:15] guitarspider: gg
+[18:32:15] inter-temporal: without eval, it's supremely entertaining
+[18:35:32] inter-temporal: no one could tell what was good or bad, except ...Nf2 was clearly an oversight
