@@ -1,0 +1,137 @@
+Lichess game chat log
+Game      : https://lichess.org/ohPavvby
+White     : ttsgosadow
+Black     : mqll
+Time      : 45+45
+Captured  : 2026-10-14 22:00:39 UTC
+Game ended : 2026-10-14 20:40:31 UTC
+Messages  : 127
+────────────────────────────────────────────────────────────
+
+[19:05:01] timothyha: (3...cxd5) Go, @ttsgosadow
+[19:06:48] robertjackson: Good luck Tim
+[19:07:49] jfiras: Good luck tts !
+[19:08:35] rolihlahla: go Tim!!!
+[19:09:51] timothyha: (6...Qc7) Qa4+ and Ne5 might be fun
+[19:10:06] timothyha: (6...Qc7) just castling is more sound, I guess
+[19:12:08] ttsgosadow: so far for my prep :)
+[19:15:11] timothyha: (9.Qe1) looks good so far, long grind from here
+[19:31:11] timothyha: (12...O-O) ok, now we have a target
+[19:31:42] jfiras: qg3 might be an option
+[19:33:44] timothyha: (13.Nf3) yeah, Qg3 makes more sense than Nf3, we need that knight to attack
+[19:33:59] timothyha: (13.Nf3) usually
+[19:33:59] timothyha: (13.Nf3) maybe here it's all the same
+[19:36:47] timothyha: (13...Nb6) where is that knight going?
+[19:38:18] jfiras: i think this was a passive move from black ? white's threats are getting more dangerous
+[19:38:33] timothyha: (13...Nb6) feels like it
+[19:40:51] timothyha: (13...Nb6) Nc5 Bc2 Qb6 would be easier to explain
+[19:42:37] jfiras: yeah Q on c7 not doing that much there
+[19:44:24] timothyha: (14.Ng5) setting a trap?
+[19:45:25] jfiras: another passive move and it will be over
+[19:45:40] jfiras: or falling for the trap too
+[19:51:46] ttsgosadow: I am not happy with my position, but I think mqll feels the pressure as well
+[19:52:47] king_hunter-1: Go Tim!!
+[19:52:47] jfiras: you are doing well tts, qh4 is the way to go
+[19:55:19] rolihlahla: Qh4 Bf5 BxB exf5 Rxf5 Nxe5 looks messy and mostly forced
+[19:57:36] jfiras: i moght go Rf3 instead of Rxf5, but yeah it doesn't seem too clear
+[19:57:36] jfiras: might*
+[19:59:38] robertjackson: 16.Bxh7 an option too
+[20:04:58] kayrosas: 17.Bxh7 too
+[20:10:18] kayrosas: was thinking 18.Rf3 maybe. now maybe fxg6 could be fine?
+[20:13:36] timothyha: (18...fxg6) Rf3 now probably drops the pawn, maybe
+[20:13:51] timothyha: (18...fxg6) Q->h7 means Rh8 is good
+[20:14:06] timothyha: (18...fxg6) Qg5 for now?
+[20:16:39] kayrosas: problem is the Bf4 is so much worse than Nc4 & white's q-side is quite weak, they sorta needed the dynamics
+[20:17:09] timothyha: (19.Rf3) DSB is the wrong piece in this setup, too
+[20:17:09] kayrosas: 19...Rf5 now maybe
+[20:17:09] timothyha: (19.Rf3) kinda useless at the moment
+[20:17:24] kayrosas: actually we can wait with Rf5, just get b2
+[20:17:40] timothyha: (19.Rf3) I mean the DSB, not the Rf5 move
+[20:17:55] kayrosas: yea i figured ^^
+[20:18:10] kayrosas: probably Qb6+-xb2, knight feels fine on c4
+[20:18:41] kayrosas: unless white has Rf2 after Qb6, but seems odd
+[20:18:56] kayrosas: oh i missed the check here, fair point
+[20:19:11] timothyha: (19...Nxe5) now probably Rh3 first
+[20:19:26] timothyha: (19...Nxe5) then Kf7 Qg3 wins the knight?
+[20:19:57] kayrosas: no need to go Kf7 preemptively
+[20:19:57] timothyha: (20.Rh3) they have to not play Kf7
+[20:20:27] timothyha: (20...Qc5+) Bd3
+[20:20:27] jfiras: be3 ?
+[20:20:58] timothyha: (21.Kh1) anyway, White gets a few tempi here
+[20:21:13] kayrosas: Be3 Qc4 is a bit lucky that both Rf3 and Rf1 are covered, but seems very unstable for black
+[20:21:13] timothyha: (21.Kh1) might work out well
+[20:21:59] kayrosas: now there might be trouble
+[20:22:29] timothyha: (21...Nc6) yeah, Q hangs to Bd6 check if Rf1
+[20:22:44] kayrosas: i prefer Rf3 so there can't be any tempo on it like Qc4
+[20:23:15] timothyha: (22.Qxh7+) Qxh7 Kf7 Rf1 now
+[20:23:30] nyanners: hadnt seen this take on this line
+[20:23:46] nyanners: i guess the problem is black could have stopped Ne5 with 9..Bd6
+[20:23:46] timothyha: (23.Rf1) Rh8 Qd6
+[20:23:46] timothyha: (23.Rf1) Rh8 Bd6+
+[20:24:31] timothyha: (23...Ke8) now Black's position should collapse I think
+[20:24:31] jfiras: yes
+[20:24:46] kayrosas: with Rf3 we also wouldnt have this backrank pin now. not sure it matters tho
+[20:25:02] timothyha: (23...Ke8) you mean Rf5 when you typed Rf3 last two times, I think
+[20:25:02] kayrosas: nope, Rh3-f3
+[20:25:17] kayrosas: instead of Rf1
+[20:25:32] nyanners: yea im also more partial to not having my pieces on death pins
+[20:25:47] nyanners: but looks good
+[20:25:47] timothyha: (24...Kd7) not sure why Black runs like that!
+[20:26:33] timothyha: (24...Kd7) maybe they do hope for e6-e5
+[20:27:03] nyanners: i think its qxg7 just because kc8 is mate
+[20:27:34] timothyha: (24...Kd7) swap queens, hold the backrank and win the endgame
+[20:27:34] timothyha: (24...Kd7) all in 5 mins :-)
+[20:27:34] nyanners: too much time
+[20:27:49] scarff: Looks good Tim!
+[20:28:04] timothyha: (25.Qxg7+) +45 is the luxury we don't get OTB
+[20:28:20] timothyha: (25.Qxg7+) 4545 is the perfect league for slow decliners
+[20:28:50] timothyha: (25.Qxg7+) to decline slower
+[20:28:50] scarff: We're here not for the end, but for the journey :)
+[20:28:50] ttsgosadow: this looks a bit like one of our practice games
+[20:29:05] scarff: Take our 45 seconds to enjoy the view along the way
+[20:29:20] nyanners: white's prep really ran deep eh
+[20:29:20] timothyha: (25...Ne7) oh, W confessed to prepping with pracice
+[20:29:36] nyanners: actual improver behavior
+[20:29:51] timothyha: (25...Ne7) Qe5 safe enough?
+[20:29:51] timothyha: (25...Ne7) Qe5 Rf5
+[20:30:21] nyanners: umm that seems fine but i feel id rather solve that situationship somehow
+[20:30:37] nyanners: rhf3
+[20:30:37] timothyha: (25...Ne7) Rhf3 like @Keyrosas suggested
+[20:32:08] nyanners: then h3 next. very lame
+[20:32:23] timothyha: (26.Rhf3) endgame boredom
+[20:35:41] scarff: Qd4 a very Tima move :)
+[20:35:41] timothyha: (27...Qc6) Bd2 or c1 probably sound here
+[20:35:57] timothyha: (27...Qc6) yeah, I was afraid Tim wouldn't play that like Tima would
+[20:36:12] timothyha: (27...Qc6) avoiding the Ng6 stuff, keeping the B
+[20:36:27] timothyha: (27...Qc6) and the g-pawn thanks to the B
+[20:36:58] timothyha: (28...Nf5) h4 isn't good :)
+[20:36:58] scarff: h4 I like! Push those passers :D
+[20:37:13] timothyha: (28...Nf5) Rh8 pins the queen so h4 is lost
+[20:37:13] scarff: Maybe not so sound, but the advantage for white is in those pawns
+[20:37:28] nyanners: just premove nxh4, trust
+[20:37:28] timothyha: (29.Qd3) h4 is immediately lost already
+[20:37:43] timothyha: (29.Qd3) even Qh7+ doesn't help
+[20:37:43] nyanners: ooohh wait
+[20:37:43] timothyha: (29.Qd3) ah, it's a check!
+[20:37:58] timothyha: (29.Qd3) and king has to go to backrank
+[20:37:58] nyanners: i mean its not that. its that the king has to move to the back rank
+[20:38:14] scarff: Nothing is lost here yet
+[20:38:14] nyanners: or well its that too
+[20:38:14] timothyha: (29.Qd3) we're on the same page here
+[20:38:29] nyanners: white is a wizard
+[20:38:44] timothyha: (29.Qd3) he probably had good food today and prep
+[20:39:15] timothyha: (29.Qd3) I only nap before the games
+[20:39:45] scarff: I took a nap before my game today too. Was nice and sunny outside, so closed my eyes for a bit
+[20:40:00] scarff: Sharp stuff from Tim! :D
+[20:40:16] nyanners: this can be resigns
+[20:40:16] nyanners: yea
+[20:40:16] nyanners: gg :o
+[20:40:31] robertjackson: GG
+[20:40:31] scarff: h4 was the perfect bait
+[20:40:46] rolihlahla: Gg
+[20:41:16] jfiras: gg !
+[20:41:16] scarff: GG both!
+[20:41:32] kayrosas: gg
+[20:42:02] jfiras: wow the king forced to go the back rank is crucial
+[20:42:17] jfiras: now i get it xD
+[20:44:19] scarff: 29>Qf2 Nxh4 Qxh4 Rh8 Qh6 is a funny line :)
