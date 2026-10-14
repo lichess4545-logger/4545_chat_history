@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/TCNAqLPK
+White     : tuomas01
+Black     : llawlietnea
+Time      : 45+45
+Captured  : 2026-10-14 14:54:07 UTC
+Game ended : 2026-10-14 13:33:58 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[12:05:37] abourg84: Go tuomas!
+[12:05:53] bufferunderrun: let
+[12:06:08] bufferunderrun: let's go Llawlietnea!
+[12:22:53] kygreek: Go tuomas!
+[12:23:08] mtsundance: Go Llawlietnea!
+[12:25:40] abourg84: Lots of dark square weaknesses for black
+[12:27:27] bufferunderrun: black should be doing just fine now, I wasn't a fan of Qh5 for white tbh, seemed like a move that wastes time
+[13:20:00] bufferunderrun: Idk... 29....g5 seemed better, maybe this works, but it still feels weird to put the queen on the same file as the king
+[13:23:33] bufferunderrun: not sure I like this
+[13:24:04] ysgwydd: (30...Qxd5) Hopefully the king survives
+[13:24:49] ysgwydd: (30...Qxd5) 30...c2 maybe was better
+[13:25:20] bufferunderrun: I was looking at Kg7, to hide on h6
+[13:25:50] ysgwydd: (30...Qxd5) That also
+[13:26:36] ysgwydd: (30...Qxd5) Here Qxf4+ Kg8. Kg7 looks like mate
+[13:27:22] bufferunderrun: now Qd7+ Kf6 Re6+ Kg5 and idk
+[13:27:52] ysgwydd: (31...Qf5) There I think king escapes
+[13:27:52] ysgwydd: (31...Qf5) Now pawns are dropping
+[13:28:38] ysgwydd: (31...Qf5) Looks lost Qxd6 and Rf1 is a threat
+[13:29:39] bufferunderrun: Qxd6 Qc5+ perhaps
+[13:30:09] ysgwydd: (32.Re7+) Yeah
+[13:31:10] bufferunderrun: now however Qxd6 should work
+[13:32:26] ysgwydd: (32...Kf8) Still Qc5+, no?
+[13:32:57] bufferunderrun: but you just take on c5
+[13:32:57] bufferunderrun: and Re8+
+[13:33:12] bufferunderrun: or this
+[13:33:27] bufferunderrun: gg
+[13:33:27] ysgwydd: gg
+[13:33:42] ysgwydd: Qc5+ Rf2+ oops
+[13:34:13] asturc0n: Gg
+[13:37:15] bufferunderrun: 31.Qd7+ Kf6 Qe7+ Kf5 Rg2 was cute
