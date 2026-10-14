@@ -1,0 +1,132 @@
+Lichess game chat log
+Game      : https://lichess.org/UM3J79LA
+White     : fyrox96
+Black     : tbest
+Time      : 45+45
+Captured  : 2026-10-14 21:26:08 UTC
+Game ended : 2026-10-14 20:05:59 UTC
+Messages  : 122
+────────────────────────────────────────────────────────────
+
+[18:04:06] versaumnisgrund: Go Fyrox!
+[18:08:10] glbert: go tbest!
+[18:08:25] cham: yayyy tbest
+[18:08:56] tbest: not the opening I was expecting
+[18:19:20] tbest: are we mad today. aka, do we go g5
+[18:27:12] glbert: so not mad.
+[18:34:19] glbert: delayed mad.
+[18:38:38] ecoarrivazumashoomzo: go Fyrox!
+[18:41:25] tbest: not saying it's good, but some lines after c5 Bb8 would be a classy move
+[18:58:26] tbest: long castle runs into things like qc2. Soo.. that's how you end up wtih kf8
+[19:21:17] versaumnisgrund: d5 or are there attacking ideas for black that I'm missing?
+[19:23:34] invinci7777: bishop on d3 is hanging but still d5 looks strong to me
+[19:24:04] invinci7777: but I assume black has something planned for it
+[19:24:20] marco_chess13: Lets go Fyrox!
+[19:25:21] invinci7777: there is qd6 threatning qh2 and then bishop can retreat
+[19:25:36] invinci7777: although qh2 is not mate
+[19:26:37] versaumnisgrund: Thats why I'm asking. Or some combinations with g4
+[19:27:22] invinci7777: yeah g4 also
+[19:27:38] invinci7777: guess we will find out
+[19:28:39] invinci7777: g4 doest work as dxe
+[19:28:54] invinci7777: hits queen
+[19:30:25] versaumnisgrund: g4 dxe6 Qxd3 would be nice for white
+[19:34:29] invinci7777: de qxd3 rad1 qxc4 ef qxf7
+[19:34:45] invinci7777: i like white after this
+[19:37:17] invinci7777: or rad8 right away
+[19:37:47] versaumnisgrund: Yes, this looks promising
+[19:38:03] versaumnisgrund: Rad1?
+[19:38:03] invinci7777: yeah
+[19:38:49] versaumnisgrund: Feels like blacks piece would be in their on way
+[19:39:04] shadowofself: Go fyrox! This position looks pretty good
+[19:39:19] invinci7777: yes
+[19:41:51] versaumnisgrund: After Be5 is there Bxg5?
+[19:42:37] invinci7777: doesnt seem so
+[19:42:37] invinci7777: as qxf3
+[19:42:52] shadowofself: What about Nxg5
+[19:43:08] versaumnisgrund: Yes, thats what I'm thinking now
+[19:43:23] invinci7777: but what after nxg5 fg?
+[19:43:53] invinci7777: may be rad1 first
+[19:43:53] invinci7777: then sac might work
+[19:44:08] invinci7777: otherwise black just trades queen
+[19:44:24] versaumnisgrund: Because you have Qf5?
+[19:44:54] shadowofself: Nxg5 fxg5 qxf7 khg bxg5 kxg5 rxe5
+[19:44:54] invinci7777: oh qf7!
+[19:45:09] versaumnisgrund: Rad1 Qxc4 Nxg5 fxg5 Qxf7+Kh6 Qf5
+[19:45:09] invinci7777: i didnt see that
+[19:49:13] nyanners: tbest game around, i hear
+[19:50:14] nyanners: yea looking quite dead lost
+[19:50:30] nyanners: or well, just regular lost i guess. too much tension still
+[19:54:18] invinci7777: qxe6 seems ok
+[19:54:33] nyanners: i mean, youre down everything. in exchange you dont die
+[19:54:48] nyanners: not too unreasonable
+[19:55:04] nyanners: nc7 is a similar direction
+[19:55:49] invinci7777: yeah but then nxe5 qf7
+[19:55:49] nyanners: ah yes
+[19:55:49] invinci7777: so i think pawn needs to be took
+[19:56:05] nyanners: thats a problem :o
+[19:56:35] nyanners: i mean no checkmate but a lot of material is getting  chopped off
+[19:56:50] nyanners: nxh8 into bd4
+[19:56:50] nyanners: at best
+[19:57:21] nyanners: yea i completely understand the reluctance
+[19:57:51] nyanners: would be highly surprising if its not dead tho
+[19:58:06] invinci7777: yeah looks dead
+[19:58:52] invinci7777: qf7 kh8 Bg5
+[19:58:52] invinci7777: nvm
+[19:58:52] nyanners: XD
+[19:59:07] versaumnisgrund: :)
+[19:59:23] nyanners: okay but qf6 bh6 rooklift..
+[19:59:38] nyanners: something like that
+[19:59:53] invinci7777: yeah
+[20:00:24] kayrosas: qf7 kh8 qf6 kg8 qg6 kh8 bg5
+[20:00:39] kayrosas: nvm
+[20:01:40] nyanners: xd
+[20:01:55] nyanners: i think it is really just prevent rf8 and rook lift
+[20:02:10] kayrosas: yea bh6 seems simple enough
+[20:02:25] invinci7777: rad1 also possible
+[20:02:56] nyanners: too lateral for me
+[20:02:56] nyanners: dang
+[20:03:26] nyanners: yea seems very strong
+[20:05:43] nyanners: qg6 wins a rook :o
+[20:05:43] kayrosas: now qg6 actually works
+[20:05:59] kayrosas: gg
+[20:05:59] nyanners: tough
+[20:05:59] nyanners: gg
+[20:05:59] versaumnisgrund: gg
+[20:05:59] invinci7777: gg
+[20:05:59] guitarspider: gg
+[20:06:29] tbest: moves like g5 should get a free boost :(
+[20:06:29] tbest: but they just suck most of the time rip
+[20:06:44] glbert: good game.
+[20:06:44] nyanners: xd
+[20:06:44] nyanners: 7..h5 seems early
+[20:07:00] nyanners: but i see the vision.. maybe
+[20:07:30] tbest: yeah, you can play it later in the line iirc
+[20:07:45] tbest: but I got the timing wrong per the book
+[20:08:01] nyanners: white is playing the new tech
+[20:08:01] nyanners: white delays c3 to keep c4 open
+[20:08:31] tbest: hmm, i c
+[20:08:46] tbest: there is 6 c3 Bd6 Bd3 h5 in master at least
+[20:09:17] tbest: but probably some point with be3 early that i did not pick up on
+[20:09:17] nyanners: yeah like, white wants to prepare Bd3, so c3 was main to protect d4. now Be3 is an option
+[20:10:03] nyanners: and then in c3 Bd3 Ne2 black goes h5 for.. some reason? something about white's O-O Ng3 Nf5 plan can be stopped by h4
+[20:10:18] nyanners: "among other things" which authors never clarify
+[20:10:18] fyrox96: Yes white is pretty much going for Bd3, Ne2, 0-0 and c4 on autopilot in this line
+[20:10:48] nyanners: umm ive played this line for white myself recently. its never that easy.. but it works most of the time
+[20:11:19] tbest: I should steal the 6 Be3 line. Since the 40% win in master book is quite good
+[20:11:19] fyrox96: I think so, and ...h4 to provoke h3, giving Black Bxh3 ideas later?
+[20:12:04] nyanners: g5 made h5 made sense. the problem was just it wasnt good
+[20:12:50] nyanners: i guess it is what it is
+[20:13:05] tbest: you can go h5 in 6 c3 Bd6 Bd3 Qc2 Re8+ Ne2 as well
+[20:13:20] tbest: or h6 there. It's a line i end up alot in blitz or bullet
+[20:13:20] nyanners: yea its a transposition
+[20:13:36] nyanners: ill admit the finer details are beyond me
+[20:13:51] tbest: but today I did not feel like early castle lol, so I just went h5
+[20:14:06] nyanners: like, i remember in the old days before 9..h5 everyone was like "wow this line is terrible"
+[20:14:21] nyanners: and then engines found h5 and it was like "wow best line ever"
+[20:14:21] nyanners: and i didnt get any of it
+[20:14:21] nyanners: then i got to understand a tiny bit
+[20:14:37] nyanners: years later..
+[20:14:52] nyanners: and now we see 6 Be3 and the mysteries are still raging, it seems :o
+[20:16:08] tbest: well... I guess I only made 1 major error in the game at least lol
+[20:16:39] nyanners: chess sucks and then we die
+[20:16:39] nyanners: pretty much :o
