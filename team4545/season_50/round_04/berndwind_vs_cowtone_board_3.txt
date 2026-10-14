@@ -1,0 +1,156 @@
+Lichess game chat log
+Game      : https://lichess.org/ouvv8UIx
+White     : berndwind
+Black     : cowtone
+Time      : 45+45
+Captured  : 2026-10-14 13:59:14 UTC
+Game ended : 2026-10-14 12:39:04 UTC
+Messages  : 146
+────────────────────────────────────────────────────────────
+
+[10:02:10] guitarspider: (3.e3) go bernd
+[10:02:26] pineapplechiffoncake: go bernd!
+[10:02:26] berndwind: (3.e3) Ok was expecting a Dutch, had some shenanigans planned there
+[10:02:41] berndwind: (3.e3) But he has also played this recently, so prepped for this too
+[10:02:56] berndwind: (3.e3) Hi pineapple, spider and joonaf!
+[10:03:11] berndwind: (3.e3) Early in the week for my 4545 game... but nice change from the weekend
+[10:03:42] berndwind: (4.Bd3) Colle time! Hey at least he wouldn't be expecting this haha
+[10:03:57] berndwind: (4.Bd3) Whether that means anything, we shall find out
+[10:04:12] joonaf: go cowtone!
+[10:04:43] berndwind: (4...Bd6) Hello Monsieur Kama
+[10:04:43] joonaf: hi berndwind!
+[10:05:13] kamagayajiji: Go Bernd!
+[10:07:15] cowtone: i guess white wants to trade dark squared bishops
+[10:07:15] cowtone: smart idea
+[10:07:45] berndwind: (5.b3) He will want e5, so I'm gonna make sure I control that square in advance and hop a knight in if necessary
+[10:08:01] berndwind: (5.b3) If I can't control the square, then I have ideas around the c4 break
+[10:11:03] berndwind: (6...O-O) hi paulie and ysgwydd!
+[10:11:03] berndwind: (6...O-O) Ok so knight in first or 0-0
+[10:12:04] berndwind: (6...O-O) The only question for me is whether upon 0-0, black has Ng4
+[10:12:50] berndwind: (6...O-O) If I play h3, they could counterstrike with e5
+[10:16:54] berndwind: (7.Ne5) Right now he can't even capture with either piece, as it loses a piece due to the lack of squares for the f knight
+[10:17:24] berndwind: (7.Ne5) well ok that;s nonsense haha
+[10:23:29] wordrearrangment: Go cowtone!
+[10:24:15] berndwind: (9.f4) hi wordrearrangement
+[10:25:01] guitarspider: (9.f4) at least bernd seems to have gotten all the moves he wanted so far
+[10:30:21] berndwind: (9...b6) The logical move here is Nd2 of course
+[10:31:07] berndwind: (9...b6) Brielfy looked at Na3 with the idea of coming to b5, but seems a little artificial and easily stopped, if he even has to stop it
+[10:31:07] fork2020: Go berndwind!
+[10:31:22] berndwind: (9...b6) Besides, I like the knight heading closer to their king
+[10:31:22] cowtone: i would like to trade off light squared bishops
+[10:31:52] berndwind: (9...b6) I don't see any tactics around c4 right now
+[10:31:52] cowtone: maybe white has some king side attack potential
+[10:32:07] berndwind: (9...b6) but it's something to watch
+[10:32:23] berndwind: (9...b6) playing c4 myself is on my radar at some point too
+[10:33:39] berndwind: (10.Nd2) hi fork! First game of the round this time!
+[10:33:54] berndwind: (10.Nd2) Hello JEEprep and pavonine too
+[10:34:09] fork2020: Yep, took me by surprise!
+[10:34:25] berndwind: (10.Nd2) I'm thinking a combination of c4 and Rc1 could avoid any issues
+[10:35:41] berndwind: (10.Nd2) I also don't want to allow a piece on the e4 square,which makes the c4 break more appealing
+[10:37:12] berndwind: (11.exd4) Qe2, Rac1 are both wish list moves
+[10:37:43] berndwind: (11...a5) c4 maybe, but now the central tension is resolved, maybe not
+[10:38:43] berndwind: (11...a5) ok now Qe2 looks even better to avoid any Ba6 stuff
+[10:38:43] berndwind: (11...a5) Plus it's natural development, can't be bad?
+[10:39:29] berndwind: (11...a5) what if a4 though from him
+[10:42:01] berndwind: (11...a5) ok so if Qe2 a4 Rac1 a3 I just move my bishop to a1 and go for the c4 break maybe
+[10:43:02] berndwind: (11...a5) maybe c4 right away is good actually, followed by Rc1
+[10:45:50] berndwind: (12.c4) Still looking for either Rc1 or Qe2
+[10:47:06] berndwind: (12.c4) hi Paul!
+[10:47:21] berndwind: (12...Ba6) ok so here I thought that Rc1 was logical
+[10:47:52] paulwithans: Greetings berndwind. Greetings all
+[10:48:22] guitarspider: (13.Rc1) hi
+[10:50:54] r0b-w: (14...Rfc8) Go, berndwind!
+[10:52:56] cowtone: if white can turn quickly into king side then my king might be lonely
+[10:54:43] guitarspider: (14...Rfc8) even f5 might work out already
+[10:54:58] guitarspider: (14...Rfc8) I guess Ndf3 is the sane normal move
+[10:56:30] berndwind: (14...Rfc8) hey Brandon!
+[10:58:47] berndwind: (15.Rf3) hi Kayrosas
+[10:59:17] berndwind: (15.Rf3) I was looking to see if there was any way, now or later, to make c5 work, but couldn't see it
+[10:59:33] berndwind: (15.Rf3) so instead I'll migrate my pieces to the kingside
+[11:00:49] kayrosas: rf3 always a nice move
+[11:05:08] berndwind: (15...g6) Re1 sets up a cheapo
+[11:05:08] berndwind: (15...g6) But I honestly think it seems like a good move
+[11:05:38] berndwind: (15...g6) The c file seems pretty well taken care in terms of the entry squares
+[11:05:54] berndwind: (15...g6) and I want to transfer my pieces over that direction anyway
+[11:06:09] kayrosas: also nice for an eventual c5 push
+[11:06:24] berndwind: (15...g6) Hey it presents a concrete threat he has to deal with at least,
+[11:07:25] berndwind: (15...g6) and if he responds with Bc4, even a3 looks good
+[11:08:26] berndwind: (16.Re1) I think Nxf7 is a real threat
+[11:17:34] pavonine: Nxf7 is nice because you have Ba3
+[11:19:36] pavonine: hmm i think that was a miss, no?
+[11:19:36] kayrosas: agreed
+[11:19:36] cowtone: Nxf7 looks dangerous
+[11:20:07] cowtone: Nxf7 Kxf7 Qxe6+ Kf8 Rhx7
+[11:20:22] kayrosas: Rg3 to go Rh3 next also a bit ehh ^^
+[11:21:08] kayrosas: Ba3+ instead of Rxh7 is more convincing Id say
+[11:25:42] ecoarrivazumashoomzo: good luck mr b
+[11:26:58] kayrosas: now time to shift the pressure to f7 probably
+[11:27:44] kayrosas: e6+g6 always quite a weak structure
+[11:30:31] berndwind: (22.Be2) oh no the thing happened where more than 10 spectators are here so I have no idea who's watching
+[11:31:17] berndwind: (22.Be2) ah and it's the elephant! Hi eco!
+[11:33:03] berndwind: (22...Nh6) I mean Bxh5 is tempting but I don't think it gives me anything?
+[11:34:04] berndwind: (22...Nh6) Not happy with the clock
+[11:34:04] berndwind: (22...Nh6) Can't take too long but still ok right now
+[11:34:50] berndwind: (22...Nh6) I actually really like Bf4
+[11:34:50] berndwind: (22...Nh6) sorry f3
+[11:35:05] berndwind: (22...Nh6) I don't see any way of prosecuting this attack
+[11:35:36] berndwind: (22...Nh6) I mean there's g4 but my own king looks pretty airy there
+[11:37:07] berndwind: (23.Bf3) Doesn't mean I won't sac, but I do have a new and annyoing threat on the board
+[11:38:23] berndwind: (23...Nf5) well it's not threat yet, but if I can force a pawn to d5...
+[11:38:54] kayrosas: 24.Qf5?? Bh6, gotta be careful
+[11:39:39] berndwind: (23...Nf5) ah initially I saw this and thought I have Qg5 but that would only be a good move if I want to lose my queen tonight
+[11:50:34] parziwal08: Go Bernd!
+[11:50:34] berndwind: (27...Bd3) hey parz! Welcome to the madhouse
+[11:51:05] parziwal08: Always a madhouse with you playing
+[11:51:35] berndwind: (27...Bd3) nice move, threatening Rc2
+[11:54:08] pavonine: that was a nice manoeuvre
+[11:56:40] pavonine: Bxh4 gxh4 Rxe4 dxe4 Qf6?
+[11:57:41] pavonine: then Rc1+ Bxc1 Qxd4+ and no idea
+[11:58:42] berndwind: (30.Qf4) I want Bxh5 and Qf6
+[11:59:28] berndwind: (30...Re6) But didn't want to give him a tempo with Rc2
+[11:59:43] berndwind: (30...Re6) this of course makes it not work anyway
+[11:59:58] berndwind: (30...Re6) with so little time... aaargh
+[12:00:13] berndwind: (30...Re6) Do I do the exchange sac?
+[12:01:14] berndwind: (31.Rxe4) I see a dangerous pair of pawns but also my clock ticking down...
+[12:02:00] paulwithans: Bxe5?
+[12:02:00] berndwind: (32.Qxe4) oh no
+[12:02:15] berndwind: (32.Qxe4) he can take on e5
+[12:02:15] berndwind: (32.Qxe4) Damn
+[12:02:46] cowtone: i should calculate whether Bxe5 wins
+[12:03:47] berndwind: (32.Qxe4) Do I have to play Rd3 in that case?
+[12:04:17] berndwind: (32...Bxe5) But that hangs the queen
+[12:07:20] berndwind: (33.Rxg6+) no time
+[12:07:20] berndwind: (33.Rxg6+) this doesn't work of course
+[12:14:57] berndwind: (37.Qg5) This is obviously resignable
+[12:15:12] berndwind: (37.Qg5) Even simple chess like Qf5 clinches it I think
+[12:15:43] berndwind: (37.Qg5) Or fancier chess like Rxd4
+[12:15:58] berndwind: (37.Qg5) Probably more brutal and gets the job done as well
+[12:25:52] berndwind: (45.Bxa4) ah the check
+[12:25:52] berndwind: (45.Bxa4) goodbye bishop
+[12:25:52] berndwind: (45.Bxa4) and game
+[12:26:38] berndwind: (46.Bb3) Qd4+ was the end
+[12:26:53] berndwind: (46.Bb3) Here is the end too but I am still kicking and pretending i am alive
+[12:35:31] guitarspider: I fear even Berndini won't get out of that one
+[12:38:34] r0b-w: gg
+[12:38:49] joonaf: gg
+[12:39:04] berndwind: hahah just saw your last message, spider
+[12:39:04] berndwind: Nope Berndini a no go today
+[12:39:35] cowtone: gg, felt like i was worse most of the game
+[12:40:20] cowtone: then bounced back, exchange sac gave me an edge probably
+[12:41:37] berndwind: Yup especially as I missed the next move until just after you played it
+[12:42:07] berndwind: Damn so 18. Nxf7 does work
+[12:42:22] berndwind: I missed Ba3 at the end of the line
+[12:44:24] guitarspider: gg
+[12:45:55] cowtone: i didn't consider Nxf7 at all in 18., saw it in the next move
+[12:46:41] cowtone: but i thought that you could crash the king side somehow as all my pieces got stuck in the q side corner
+[12:48:27] berndwind: Yeah even after I missed the sac at that moment, I was looking at crashing through with 23.Bxh5
+[12:48:27] berndwind: And it was the best move
+[12:48:43] berndwind: I guess it's some sort of weird consolation that I at least saw the right ideas haha
+[12:49:13] cowtone: i thought you would be 23. Bxh5
+[12:49:44] berndwind: I was very close to doing it but decided it was too speculative
+[12:50:45] berndwind: Ok going to go and get ready for bed while licking my wounds
+[12:51:00] berndwind: Good luck with the rest of the season!
+[12:51:00] cowtone: thanks for the game! likewise
+[12:51:00] berndwind: And thanks those who watched it all!
+[12:51:30] cowtone: thanks for the viewers and comments indeed
+[13:10:48] pavonine: gg
