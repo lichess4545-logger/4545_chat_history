@@ -1,0 +1,177 @@
+Lichess game chat log
+Game      : https://lichess.org/qfy19BBo
+White     : bxvrc2lh
+Black     : jelle1
+Time      : 45+45
+Captured  : 2026-10-14 00:22:48 UTC
+Game ended : 2026-10-13 23:02:39 UTC
+Messages  : 167
+────────────────────────────────────────────────────────────
+
+[21:05:36] glennjamesmax: Glgl Jelle
+[21:17:01] kayrosas: white lacks development to afford 16.Be4?
+[21:18:02] glennjamesmax: If I'm White I'm calling that bluff
+[21:18:48] kayrosas: Be4 Nb4 Bxa8 Qxd1 Rxd1 Nc2
+[21:18:48] bxvrc2lh: it's like he is provoking me to take exchange....
+[21:19:18] bxvrc2lh: but he is blitzing all the moves so it's definitely a prep and possibly trap
+[21:19:49] glennjamesmax: Be4 Nb4 isn't there a3 intermezzo?
+[21:20:04] shurbz: bx! Lets go!
+[21:20:50] kayrosas: idk, there is Nb3 in some lines there
+[21:20:50] kayrosas: nice that we'll get to see it
+[21:21:05] glennjamesmax: Ah Qxd1 and in those lines Nb3
+[21:21:21] glennjamesmax: yeah this is 1000% engine prepped Jelle should have made it a little less obvious
+[21:21:36] glennjamesmax: but he got it anyway, so who am I to complain...yeah this looks scary for White
+[21:21:51] shurbz: Prep like this is so scary lol
+[21:22:06] kayrosas: I'm a big fan of just blitzing prep instead of trying to disguise it
+[21:22:22] glennjamesmax: I'm not anymore. I transposed orders and got spanked in the first game of the round
+[21:22:52] kayrosas: also this might still be the best line for white, so trying to induce white to deviate could also be strategy
+[21:24:24] kayrosas: visually I like Nc3
+[21:25:40] glennjamesmax: 17.Nc3 Ra7 is what I'm considering
+[21:26:41] kayrosas: looks good
+[21:28:12] glennjamesmax: on the other hand if Nc3 is what got him out of theory, he might be considering wild stuff like 17...f5
+[21:28:58] bxvrc2lh: not sure if this is very wrong but at least it looks like it's not in prep
+[21:29:43] glennjamesmax: I can see what White's worried about 17.Nc3 isn't the kind of move where prep ends
+[21:33:01] kayrosas: also 13.dxc5 surprised me a bit. as a ruy player I'd always wanna go d5 there
+[21:33:47] kayrosas: but I guess here black is too quick on the dark squares
+[21:34:18] glennjamesmax: Yes, I would also instinctively play d5 there
+[21:35:49] glennjamesmax: 18...Rd7 19.Qe2 Nbc6 maybe?
+[21:36:04] glennjamesmax: Ah no
+[21:36:19] glennjamesmax: Rxd1 is a tempo so that's silly
+[21:38:21] kayrosas: surprised they didnt include Rd7
+[21:39:07] glennjamesmax: Nah Rd7 axb4 and he can resign
+[21:39:22] glennjamesmax: Rxd1 Rxd1 hits the queen back
+[21:39:53] kayrosas: oh today I'm in the mood to give way too many pieces for a queen
+[21:40:38] glennjamesmax: Still I find White's position highly unpleasant
+[21:42:40] inter-temporal: (18...Nbc6) seems like it went thru a Chigorin-ish Spanish Italian
+[21:42:55] inter-temporal: (18...Nbc6) 15...Bh5N
+[21:54:51] inter-temporal: (20...Nab3) black's plan seems generally clear enough. what is white's plan
+[21:56:08] inter-temporal: (21.Bxd4) wuz just lookin at that
+[21:56:23] inter-temporal: (21.Bxd4) desperation, perhaps?
+[21:56:53] glennjamesmax: No Nxa1 Be3 and the knight would be trapped
+[21:56:53] inter-temporal: (22.g4) ooh, maybe not
+[21:57:39] inter-temporal: (23...Bg6) nice
+[21:58:25] inter-temporal: (23...Bg6) i still have a lot to learn about counting and capture sequences
+[21:59:41] kayrosas: it is difficult
+[22:00:42] kayrosas: feels a bit like black lost their initiative
+[22:00:42] kayrosas: well, a lot
+[22:01:12] kayrosas: 26.e6 ?
+[22:01:12] inter-temporal: (25...Rd7) 21.Bxd4 seemed like a great move
+[22:01:58] inter-temporal: (25...Rd7) e6 looks like a killer
+[22:02:59] inter-temporal: (25...Rd7) Board 1 players above 2500 are required to give 10 hours free lessons per week. it's in the TOS i think
+[22:02:59] glennjamesmax: Not exactlt
+[22:03:29] glennjamesmax: 26.e6 fxe6 27.Qxe6+ Kh8 28.Nxe7 hangs the d1 rook
+[22:04:00] glennjamesmax: Not exactly thrilled with Jelle's time management but he didn't just hang the game so easily
+[22:04:00] inter-temporal: (25...Rd7) yeh, "looks" always deceive me
+[22:04:15] inter-temporal: (25...Rd7) caveman chess
+[22:04:30] kayrosas: I could prepare a lecture about counting, but have to learn that myself first
+[22:04:45] inter-temporal: (25...Rd7) lol. ur game today was nuttso
+[22:05:31] glennjamesmax: (26.Rd3) maybe c4 and Bc5
+[22:05:46] kayrosas: Kh8 Ne3 is one idea, but not sure if that does a lot
+[22:06:01] kayrosas: in the e6 line
+[22:08:49] inter-temporal: (26.Rd3) there wasn't 26.e6 fe, 27.Nxe7+?
+[22:09:19] glennjamesmax: Qxe7
+[22:09:35] inter-temporal: (26.Rd3) ah. yeh. just liquidates.
+[22:09:35] glennjamesmax: the black pawn is shielding the queen in that line
+[22:10:20] glennjamesmax: 26...c4 that's what I wanted to see
+[22:10:20] glennjamesmax: the bishop can activate now
+[22:12:22] kayrosas: maybe a preemptive 27...Kh8
+[22:12:22] glennjamesmax: 27.Rd2 maybe Bg5 now as f4 would be loose?
+[22:12:37] glennjamesmax: Bg5 Rdd1 Re8 is also an idea
+[22:20:15] glennjamesmax: 29.Kg2 isn't Rfd8 putting huge pressure on that knight
+[22:20:30] glennjamesmax: d2 rook is pinned by Qxf2+
+[22:21:00] glennjamesmax: What does White even do after that
+[22:21:16] glennjamesmax: 29...Rfd8 30.e6 maybe?
+[22:22:32] glennjamesmax: Doesn't seem like it works
+[22:22:47] glennjamesmax: yeah Rfd8 just looks winning to me
+[22:23:48] glennjamesmax: Lol 30.Qf5 is a pretty simple move to miss
+[22:25:19] glennjamesmax: But wait Bxf2 might work?
+[22:26:05] glennjamesmax: ah no Qxf2 Qxf2 Kxf2
+[22:30:24] kayrosas: I want 32.Qxd8 to work
+[22:30:54] kayrosas: but probably nope
+[22:31:10] kayrosas: Qc6 instead maybe or e6
+[22:31:40] kayrosas: Qc6 seems quite clear
+[22:31:55] grzybozbur: qxd8 it seems to work, because you can't block f8 with the bishop
+[22:32:56] kayrosas: Qxd8 Rx Nf6 Kg7 Rxd8 Qf4
+[22:33:57] grzybozbur: hm, right
+[22:34:43] kayrosas: oh g5 is actually kinda nice maybe
+[22:35:59] kayrosas: actually not sure how I feel about this
+[22:36:45] glennjamesmax: I strongly believe that these last few blitzed out moves from both sides won't be top moves
+[22:37:00] kayrosas: seems to be enough for white
+[22:37:30] glennjamesmax: 34...Kf8 and what exactly?
+[22:37:46] grzybozbur: what about 32.qxd8 rx nf6 kg7 rxd8 qf4 g5 qxg5 ng4 and then rh8?
+[22:37:46] kayrosas: Qf6 Kg8 Ne7 Bxe7 Qe6+
+[22:38:01] glennjamesmax: Ah d8 is hanging
+[22:38:31] kayrosas: g5 Qxf2+ in that line
+[22:39:02] kayrosas: 32.Qc6 seemed like the simplest win, attack c5 and threaten Nf6+
+[22:39:17] grzybozbur: right, i meant rg8 kh6 first, and then g5
+[22:39:32] grzybozbur: but black can take with the king i guess
+[22:43:05] glennjamesmax: 35.Qe5 isn't Rf7 now somehow complicating matters
+[22:43:21] glennjamesmax: ah Qh8 is the point
+[22:43:36] kayrosas: Qe5 takes nerves of steel lol
+[22:43:51] glennjamesmax: Qe5 Rxd5 Qf6+ i guess?
+[22:44:52] kayrosas: Re8 maybe?
+[22:45:22] glennjamesmax: Qe5 Rxd5 Qf6+Kg8 now what?
+[22:45:53] kayrosas: just take back on d5 there I think
+[22:46:08] kayrosas: Qe4+ Qf3
+[22:46:08] grzybozbur: ah, maybe 32.qxd8 rx nf6 kg7 rx qf4 rg8 kh6 rf1 and if qxe5 then g5?
+[22:46:08] glennjamesmax: Yeah yeah there's always Qe4 Qf3 very precise calcualtion
+[22:47:40] kayrosas: i respect still trying to make 32.rxd8 work
+[22:47:40] kayrosas: *qxd8
+[22:48:56] kayrosas: anyways, is black just cooked here?
+[22:49:26] glennjamesmax: The point is Qe8+-Qg8# if Black takes twice on d2
+[22:49:57] glennjamesmax: Isn't there 36...Re7
+[22:50:42] glennjamesmax: 36...Re7 has to be working surely?
+[22:50:57] kayrosas: c5 was hanging
+[22:51:28] glennjamesmax: Ah...it really must be late...
+[22:51:58] inter-temporal: (36...Rd3) (26...c4) i'm back. i see e6 was finally played
+[22:51:58] glennjamesmax: This is well out of White's comfort zone surely?
+[22:52:29] kayrosas: out of anyone's comfort zone
+[22:53:45] inter-temporal: (36...Rd3) there's no comfort here. only pain
+[22:54:00] glennjamesmax: Definitely a 3 result game. or even two minus the draw
+[22:54:15] kayrosas: 37.Rxd3 might just work tho
+[22:55:01] glennjamesmax: Qxf2+ Kh1 cxd3 is very hard to caclulate
+[22:55:32] kayrosas: yea maybe not, thought there was Qc7 but Be7
+[22:55:32] glennjamesmax: but looks to me like White's attack runs out of steam
+[22:55:32] nyanners: those can always end as draw
+[22:56:02] kayrosas: draw would feel appropriate for g5 xd
+[22:56:18] nyanners: yea i was wondering what happens on bluff call
+[22:56:18] shurbz: I was just about to ask
+[22:56:33] nyanners: g4 covered
+[22:57:34] glennjamesmax: Qxh3+ Kg1 Rxd2 Rxd2 Rxd2 Qc7+ Ke6 okay Qc8 so Black can't do the variation with capturing
+[22:58:04] glennjamesmax: Rxd2 Rxd2 Rxd2 Qc7+ Ke6 is there a mate there? I don't see it immediately
+[22:58:50] glennjamesmax: I don't even see a forced perpetual though there probably is one
+[22:59:51] inter-temporal: (37.Qxc5) Qxh3+,Kg1 Rg3+, fxg3 Qxf3, Rg2 Rxd1# is one way, but
+[23:00:22] inter-temporal: (38...Rxd2) ...fxg3 [Qxg3+], ...
+[23:00:37] glennjamesmax: @inter-temporal that variation looked legit
+[23:01:07] shurbz: I thought Qa7 first
+[23:01:23] kayrosas: 39.Ng4 could be fun also, not sure if it does much
+[23:01:38] shurbz: But I’m a mere pleb and this looks great
+[23:02:08] nyanners: wins rook
+[23:02:24] shurbz: Yeah I thought qa7 would make that easier
+[23:02:24] nyanners: protects g5 to add insult to injury
+[23:02:24] glennjamesmax: Black missed at least a draw with Qxh3+ and Rg3+
+[23:02:39] kayrosas: rough
+[23:02:39] inter-temporal: (41.Qc5+) oof
+[23:02:39] glennjamesmax: it's just a crystal variation inter spotted
+[23:02:54] kayrosas: gg
+[23:02:54] inter-temporal: gg
+[23:02:54] nyanners: gg
+[23:02:54] mennonite: gg
+[23:02:54] shurbz: Gg
+[23:03:25] glennjamesmax: Ah no white's king was walking out there
+[23:03:40] inter-temporal: yeh 40.Kf1 would have escapted
+[23:03:55] kayrosas: never in doubt of course
+[23:04:10] inter-temporal: not even a perpetual
+[23:04:25] glennjamesmax: Super impressive calculation by bxvr
+[23:05:57] inter-temporal: Queen power!
+[23:08:59] inter-temporal: eval at 20...Nab3 is surprising to me
+[23:09:30] bxvrc2lh: so much comments :))
+[23:09:45] bxvrc2lh: I also wanted Qxd8 to work but didn't find correct timing
+[23:10:00] inter-temporal: full chat will be available soon at:
+[23:10:00] inter-temporal: https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545/season_50
+[23:10:00] bxvrc2lh: and I was right... bxa8 was a trap.. crazy
+[23:10:31] inter-temporal: keep the link for future games where the chat gets cut off in Lichess
+[23:10:31] bxvrc2lh: I was prepping advance French and not this
+[23:11:47] inter-temporal: amazing that 20...Nb3 is somehow the wrong way
+[23:12:17] inter-temporal: looks like ...Bxf3 first, then it's okay
+[23:16:05] bxvrc2lh: I look already for 2 minutes to understand why and can't
