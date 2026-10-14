@@ -1,0 +1,60 @@
+Lichess game chat log
+Game      : https://lichess.org/Xoc8JQ32
+White     : sylvlondon
+Black     : checkmate_insurance
+Time      : 45+45
+Captured  : 2026-10-14 08:44:19 UTC
+Game ended : 2026-10-14 07:24:11 UTC
+Messages  : 50
+────────────────────────────────────────────────────────────
+
+[06:02:12] sylvlondon: Happy to try this h4 idea from ivantchuk.
+[06:02:43] sylvlondon: The plan is simple for white : h5 Nh4 f5 Qf3 then there is some pressure on the king.
+[06:21:15] checkmate_insurance: not sure if he meant to give me this i don't feel like he has a massive amount of compensation
+[06:22:01] gavalanche20: (15.Qd2) i feel like White is generally too well prepared for this not to be prep
+[06:22:16] sylvlondon: I really like my position, so easy to play for a pawn. He doesn't have counterplay.
+[06:22:46] gavalanche20: (15.Qd2) Half open h file is an attacker's dream but idk how much Bg6 complicates things
+[06:35:58] checkmate_insurance: Qc6 Bh6 looks like the idea
+[06:42:49] checkmate_insurance: i was expecting exf5
+[06:43:04] grzybozbur: exf5?
+[06:43:20] grzybozbur: who would play ef?
+[06:44:05] grzybozbur: ok, maybe someone who calculates lines would, i don't know
+[06:44:36] gavalanche20: (15...Qd6) I guess it makes sense if you want to still have g5 push available
+[06:45:22] grzybozbur: but i can have two files open and all black pieces cut off with gf
+[06:45:37] checkmate_insurance: I didn't realise Kf8 allowed Qf2 forcing Nd7 Rxh7 before i took
+[06:45:52] grzybozbur: ok, all except nf6, but i don't believe one knight can hold this
+[06:46:53] gavalanche20: (18.gxf5) Oh yeah I would personally have done gf just trying to rationalize ef too
+[06:55:15] gavalanche20: (18.gxf5) Oh heh here I was wondering between Qg2 and Qh2, White wants blood
+[06:56:47] checkmate_insurance: i think gxh6 Qxh6 Kh8 dxc4 Qe7 Rd7 is his point
+[06:57:02] checkmate_insurance: but maybe i can play Qc6 b6 or a6 instead of Qe7
+[06:57:17] checkmate_insurance: and i'm not sure how i would get mated
+[07:00:35] checkmate_insurance: i just don't see how i'm mated
+[07:01:21] bxvrc2lh: Rxh6 and Qg5 to take back a piece?
+[07:01:51] bxvrc2lh: Qxh6 looks good also but I don't see clean win from there
+[07:02:22] bxvrc2lh: I am "cool" today
+[07:03:53] gavalanche20: (19.Bh6) Alright let's try to be extra greedy, Qg5 Ke7...? I assume some kind of dc4 and get the rook in that way
+[07:04:39] gavalanche20: (20...Kf8) Rd5e5 I guess
+[07:04:39] bxvrc2lh: or even d4?
+[07:04:54] bxvrc2lh: nahh cxd with tempo looks better
+[07:05:40] bxvrc2lh: but do black have Nxe4 now?
+[07:06:56] grzybozbur: 20.qxh6 and the knight can't move, so if kh8 white has dc, queen has to stay on the 6th and white can play rd7?
+[07:07:11] bxvrc2lh: frankly this reminds me of my match versus sylvlondon... in which he prepped one line versus me and completely destroyed my defense :D
+[07:08:58] sylvlondon: I think Rxf6 and Rd7 is winning.
+[07:09:13] checkmate_insurance: i didn't consider Rd5 coming
+[07:09:28] checkmate_insurance: maybe I need to give up the knight and play the endgame
+[07:10:44] gavalanche20: (21.Qg5) Ahhh Rd7 in the end even if it doesn't come with tempo is very nice int eh Qh6 line
+[07:12:00] checkmate_insurance: or just Qb6 Rxf6 because i'm blind
+[07:20:53] gavalanche20: (22.dxc4) f4?
+[07:21:08] gavalanche20: (26...bxc4) Ah Rg4
+[07:22:09] bxvrc2lh: gg
+[07:22:09] kayrosas: ouch
+[07:24:11] kayrosas: gg
+[07:24:57] checkmate_insurance: i massively underestimated how weak my c pawn was
+[07:27:29] sylvlondon: Oh Qxh6 was more precise ...
+[07:28:15] sylvlondon: anyway I don't think grabbing the h pawn is an option, you'll have to find only move for 10 moves after that ...
+[07:29:16] checkmate_insurance: I thought i could get away with running but then i realised i would lose a pawn back for it at least and just be worse
+[07:30:01] sylvlondon: That's a nice ivantchuk idea he played against deac, the 6 months latr deac played it again.
+[07:30:47] sylvlondon: simple setup for white, you have to find the good setup for black to equalize,
+[07:31:17] sylvlondon: First time I play it
+[07:34:05] checkmate_insurance: I definitely should have played less greedy
+[07:35:36] checkmate_insurance: gl next round
