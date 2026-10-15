@@ -1,0 +1,206 @@
+Lichess game chat log
+Game      : https://lichess.org/cFeknPPe
+White     : paulwithans
+Black     : lc69
+Time      : 45+45
+Captured  : 2026-10-15 19:45:33 UTC
+Game ended : 2026-10-15 18:25:20 UTC
+Messages  : 196
+────────────────────────────────────────────────────────────
+
+[16:03:59] hthree: I arrived just in time... let's go Paul!
+[16:07:01] hthree: (5...d6) Black choosing a passive, solid setup
+[16:08:47] kayrosas: aw I was hoping for g5
+[16:09:32] hthree: with White not castled and Bishop still on c1 g5 would feel premature to me
+[16:09:48] kayrosas: it is a line
+[16:10:03] kayrosas: but it is a bit dubious, yes
+[16:10:03] kayrosas: against this a4 move order even more so
+[16:18:37] lc69: can i play d5 now?
+[16:18:52] lc69: or?
+[16:19:07] hthree: (9.Nbd2) I am curious what the point of Nbd2 is as I don't see anywhere for the Knight to go from d2 at the moment
+[16:19:38] lc69: or do i just like, muck about?
+[16:19:53] lc69: lets do it
+[16:22:54] lc69: this looks non suffering for me perhaps?
+[16:24:40] lc69: just play a6 and what bad things can even happen?
+[16:27:11] lc69: ok so... f5 Nc5 i am assuming the pin on the knight becomes super annoying
+[16:27:57] lc69: but is there something wrong with preparing it? or do i need to be worried about like... Bb5
+[16:29:12] lc69: maybe i need to be a little more prophylxis coded
+[16:29:12] lc69: in life
+[16:30:28] lc69: i feel like in these sort of positions i am supposed to liek... keep things even keeled and white has to play dynamic
+[16:31:44] lc69: i know in some other line too i go like, some ugly f6 etc
+[16:40:33] hthree: (13.d4) isn't White just worse after exd4
+[16:42:19] hthree: (13...Nb6) I would consider d5 here
+[16:42:35] lc69: ok plan: saddle them with an IQP
+[16:44:05] invinci7777: looks like pawn is still lost after d5 ne7
+[16:45:06] hthree: true
+[16:45:21] hthree: looks like opening went quite bad for white
+[16:45:51] invinci7777: i think d4 was wrong
+[16:46:06] invinci7777: otherwise opening was fine
+[16:47:52] lc69: how am i getting punished here...
+[16:48:07] nyanners: ah the g6 instead of g5 version
+[16:48:38] nyanners: black lost a tempo for nothing but it seems okay
+[16:48:38] nyanners: (didnt need to play d6)
+[16:49:38] invinci7777: yeah
+[16:49:53] nyanners: pawn up :o
+[16:49:53] nyanners: but a5 is annoying
+[16:51:09] nyanners: so black a5 comes to mind given a tempo
+[16:51:39] invinci7777: but the Be3 same problem
+[16:51:55] invinci7777: *then
+[16:52:10] invinci7777: kind of
+[16:52:25] nyanners: qxb6, qxb2
+[16:53:10] nyanners: cxb6 isnt bad though it concedes the structure
+[16:53:26] nyanners: dsb is important
+[16:53:56] invinci7777: true
+[16:54:57] invinci7777: black just wants to trade queens
+[16:55:12] invinci7777: habits brah
+[16:55:27] nyanners: draw xd
+[16:55:27] nyanners: okay
+[16:55:42] mrscribbles: (19...c6) No draw. only attack
+[16:55:42] nyanners: i dont like this but i see the vision
+[16:56:27] le_merovingien: Go Lucy
+[16:56:43] le_merovingien: Did you guys start earlier or did I mistime myself?
+[16:57:43] hthree: game started 16 UTC as scheduled
+[16:58:13] nyanners: yea initiative is Real
+[16:59:14] invinci7777: can you dare take on b2
+[16:59:29] hthree: queen already not finding safe squares, there is and will be dynamics
+[16:59:29] invinci7777: almost have to it seems
+[16:59:29] hthree: but if you take on b2 then why not a move earlier
+[17:00:14] invinci7777: yeah
+[17:00:29] invinci7777: qf6 simply misplay in view of ne4
+[17:01:00] hthree: Qxb2 Rab1 do you not just drop smth
+[17:01:15] nyanners: significant misplay to repeat to Qe5 imo
+[17:02:31] lc69: i am in some degree of danger but thats life
+[17:03:01] hthree: (21...Qf5) g4 comes to mind
+[17:03:16] lc69: they can do like g4 or something but i think it hurts their king
+[17:03:31] lc69: and if i lose a pawn but they weaken their king its ok
+[17:04:01] lc69: if allowed i go Nd5
+[17:04:16] invinci7777: i was thinking nd6 here
+[17:05:32] hthree: (22.Nd6) Qa5 looks to be only square where Q is kinda safe?
+[17:06:02] invinci7777: also kinda out of play
+[17:06:02] lc69: i think this ending will be fine
+[17:06:18] nyanners: f7 free
+[17:13:06] invinci7777: bc2 kg8 nxh6+
+[17:13:36] nyanners: dangerous because f4 is hanging
+[17:13:52] nyanners: draw?
+[17:14:07] nyanners: no idk what i thought
+[17:14:07] nyanners: but definitely dangerous
+[17:14:07] invinci7777: after nh6+ kh8 we can move the dsb
+[17:14:37] lc69: ah shit
+[17:14:37] nyanners: yea i mean, you get the pawn, but black has Nf4 and the knight is trapped
+[17:16:08] invinci7777: yeah knight is kind of trapped
+[17:16:38] invinci7777: needs some rescue work
+[17:16:53] nyanners: oh okay Bg5
+[17:16:53] nyanners: seems wise
+[17:17:08] invinci7777: yeah preventing rf6
+[17:17:23] nyanners: also not getting blocked by Nf4
+[17:17:39] invinci7777: yeah
+[17:17:54] hthree: but will still take some work to get Knight out
+[17:18:09] hthree: or just g4
+[17:18:39] invinci7777: yeah in worst case g4 is at least there
+[17:20:25] invinci7777: Bg6 here?
+[17:21:56] hthree: is Bxh6 Bxh6 Rf6 a problem
+[17:22:26] invinci7777: yeah actually
+[17:23:42] invinci7777: big problem
+[17:24:42] mrscribbles: (30...Rf6) oopsies
+[17:26:59] lc69: can i get away with never developing the queenside
+[17:27:29] hthree: I think you can if your opponent blunders like this
+[17:27:59] hthree: wow Black very fast to give up b7
+[17:27:59] hthree: is this wise?
+[17:27:59] lc69: ah shit my pawn
+[17:28:14] le_merovingien: Interesting. hthree, you are here but did not say you were available. I booked my evening off especially to offer you this slot.
+[17:28:14] lc69: should have started with Rh7
+[17:29:00] lc69: i think i just try to give checkmate
+[17:30:00] le_merovingien: Ah no. I said 1h later. Booh me.
+[17:30:31] nyanners: that descalated quickly
+[17:31:16] lc69: Kh2 Nf4
+[17:31:16] hthree: @Le_Merovingien you offered Thursday 18:30-21:00 UTC so our game would have started earliest one hour from now (as now we have 17:30 UTC)
+[17:33:47] hthree: also being able to watch and being able to play is 2 different things for me
+[17:34:33] nyanners: feels like black should have an easier time
+[17:34:48] nyanners: maybe losing b7 was a big deal
+[17:34:48] nyanners: somehow doesnt seem completely free
+[17:35:48] ztraynor: Black's relative lack of pawns does put the pressure on to get something done soon before this goes fully to an endgame
+[17:36:34] nyanners: id be slightly optimistic as white but it would help if the clocks were reversed xd
+[17:37:04] ztraynor: agreed
+[17:41:36] invinci7777: hoping to get Bxd5
+[17:42:37] ztraynor: Do I see a tactic if the bishop moves? e.g. Bh3 Rxg8+ Kxg8 Rxc6 Rxc6 Bxd5+ picking the rook back up and it's BPPP vs. BP
+[17:43:22] ztraynor: Bd7 or Be6 cover them though
+[17:46:09] hthree: (36...Nf4) I guess Rxc8 Nh3+ Kg2 Rxc8 Rh1 is lost for White because c-pawn strong
+[17:46:39] lc69: taking the pawn on c6 allows me to liquidate to  and probably nab the hanging Rb8
+[17:47:10] hthree: what is wrong with Rxc6
+[17:48:55] invinci7777: nothng it seemed
+[17:49:11] invinci7777: or even Bxc6
+[17:49:11] hthree: Bxc6 Ne2+
+[17:49:41] invinci7777: ah yes
+[17:49:41] lc69: ah damn
+[17:49:41] ztraynor: oh my double blindness
+[17:49:56] invinci7777: what was wrong with nh3 there?
+[17:50:11] jfiras: why not Ne3+ ?
+[17:50:11] jfiras: h*
+[17:50:41] ztraynor: I'm guessing that Black thought the knight might be in trouble after e.g. taking on c8 and then Rh1?
+[17:51:12] ztraynor: Which I think is a phantom, but this may have been clearer
+[17:51:57] nyanners: nh3 kg2 and bg4
+[17:52:27] lc69: i dont really know how to win such an ending
+[17:52:42] nyanners: keep pawns
+[17:52:58] lc69: i think i can like... push the c pawn next
+[17:53:58] ztraynor: after Bg4 there, does Nf4+ gxf4 Rg8 pinning the bishop work?
+[17:54:28] ztraynor: oh wait nvm I see the issue
+[17:54:44] nyanners: umm you get similar to the game but looks a bit worse xd
+[17:58:15] invinci7777: ke3
+[17:58:31] invinci7777: set up Bg4
+[17:59:16] ztraynor: hm if I'm Black I'm forcing the rook trade without a whole lot of thought here
+[17:59:31] ztraynor: oh wait no I'm not lmao
+[17:59:31] invinci7777: xd
+[17:59:46] nyanners: white seems stable enough to draw now
+[18:00:01] ztraynor: This is why I don't play on board 2 or whatever this is
+[18:00:01] nyanners: trading rooks helps but im not sure if enough
+[18:00:01] lc69: i feel like having 2 rooks is better than having one rooks?
+[18:00:01] nyanners: hell nah
+[18:00:01] mongreltiger: go lc
+[18:00:47] nyanners: that said you could play re8
+[18:01:02] nyanners: the cost seems too high tho
+[18:01:47] nyanners: like on Re5 you dont want to trade and it doesnt seem you can do anything with it
+[18:02:33] hthree: @ztraynor this is board 3
+[18:03:18] ztraynor: everything above 4 is the same to me XD
+[18:03:18] ztraynor: but thank you
+[18:04:04] ztraynor: (below 4? idk english is weird)
+[18:04:34] invinci7777: above 4 is correct
+[18:07:07] hthree: ke4 and play for a win (somewhat joking)
+[18:07:52] hthree: I missed Rb4 anyway
+[18:08:53] hthree: is it good to trade a against c pawn here with a5+
+[18:09:24] ztraynor: I worry that Black doesn't have to take immediately and can just bide theirtime
+[18:11:25] hthree: looks lost with ka5 incoming
+[18:12:11] nyanners: change of structure is almost definitely clearly lost
+[18:12:41] nyanners: but umm seems difficult to defend after rb8
+[18:12:57] nyanners: black played well
+[18:13:27] hthree: do they have to worry about some f-pawn though
+[18:13:57] lc69: i think now i switch to grabbing the pawns
+[18:14:13] nyanners: you could just keep hitting the bishop
+[18:14:13] lc69: since the king cant hurt my ab pawns
+[18:14:28] nyanners: rc1 bb3 rb1 bc2 rb2 bd1 rd2 :o
+[18:14:43] nyanners: so kd3 instead of bd1 but then b3 probably wins
+[18:15:13] nyanners: taking pawns is good tho
+[18:15:28] lc69: and i dont think their king can move from attacking rook
+[18:17:15] lc69: in the worst case we do some sacrifice
+[18:17:30] lc69: but i am pretty sure the rook is always goiung to beat these two pawns
+[18:17:45] nyanners: tru
+[18:19:16] ztraynor: can the rook take both f pawns quickly enough?
+[18:19:16] ztraynor: nvm
+[18:20:32] nyanners: qxd1 qe2 qf was aura
+[18:20:47] nyanners: actually youd have rf3 there
+[18:21:18] nyanners: did this just get actually weird
+[18:21:18] nyanners: okay good
+[18:24:35] jfiras: gg !
+[18:24:35] ztraynor: gg
+[18:24:35] invinci7777: gg
+[18:24:50] nyanners: gg
+[18:25:05] mongreltiger: Good game
+[18:25:35] hthree: gg there were quite some turns but I think 29.Bg6 was the most significant oversight
+[18:26:21] lc69: ah ok some real misplay happening there by me
+[18:27:36] ztraynor: oh 37.Rxc6 Ne2! either distracts the bishop or puts the king on a light square for Bh3+ with disco on the b8R
+[18:27:36] lc69: yeah Ne2 was the idea
+[18:28:37] ztraynor: yeah Nh3+ doesn't work (spectators saw that idea), but the other check does
+[18:28:52] lc69: i gotta play slower
+[18:28:52] ztraynor: very tense game on both sides, a good watch
+[18:31:38] lc69: ah ok.. i need to do a better job not being greedy and bringing my pieces into the gane
+[18:32:08] lc69: so many chances to sacrifice b7 and then play some active move in the center while the queen is offside
+[18:33:09] paulwithans: Frustrating game. Thanks for watching anyway everyone
