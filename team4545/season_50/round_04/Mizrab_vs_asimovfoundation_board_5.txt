@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/81OO5yy6
+White     : mizrab
+Black     : asimovfoundation
+Time      : 45+45
+Captured  : 2026-10-15 20:45:49 UTC
+Game ended : 2026-10-15 19:25:41 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[18:00:47] simonwashere: Go Mizrab!
+[18:01:02] mizrab: Hi Teammates
+[18:01:33] fireball100: GO Mizrab!
+[18:08:08] joonaf: go Mizrab!
+[18:09:09] joonaf: does 9.Ne5 lose a pawn?
+[18:09:54] simonwashere: I think so yes
+[18:09:54] joonaf: but now with 9..cxd4 White can avoid that
+[18:10:09] simonwashere: not convinced actually
+[18:10:25] joonaf: or can thry?
+[18:10:40] simonwashere: think the pawn is gone but could be wrong of course
+[18:10:40] joonaf: Nxc6, cx maybe?
+[18:10:55] simonwashere: Nxc6 dxe3
+[18:10:55] joonaf: I mean ..dx
+[18:11:10] joonaf: yeah
+[18:17:00] fireball100: simon - I see we are playing at the same time today! best of  luck for your game!
+[18:18:00] simonwashere: thanks, you as well!
+[18:21:17] fireball100: Also joonaf best wishes for your game later this week - I see you have sylvlondon as board 1 - as well!
+[18:32:09] davidsifre: Mizrab take this guy down and wrap it up.
+[18:40:45] timothyha: (14.Bxh7+) Go, @asimovfoundation
+[18:42:31] aldric123: (14.Bxh7+) Go Mizrab!
+[18:43:17] timothyha: (15.Ng5) after f6 Black should be able to run
+[18:43:32] timothyha: (15.Ng5) and White runs out of pieces
+[18:43:47] timothyha: (15.Ng5) Nxg5 Qh5 f6
+[18:47:34] timothyha: (16...f6) 0-0-0 d4 I guess
+[18:51:21] simonwashere: ouch
+[18:58:25] timothyha: (18.f4) there's a Bf5 soon so dxc3 fxg5 cxb2+
+[19:02:58] timothyha: (18...Bf5) dxc3 first is easier to calculate I guess
+[19:02:58] timothyha: (18...Bf5) Bf5 g4 and you've got to calculate again
+[19:05:44] timothyha: (19...dxc3) no way back for both
+[19:05:59] timothyha: (19...dxc3) f6, cxb2+
+[19:06:45] timothyha: (19...dxc3) black Q can zigzag to mate via dark squares
+[19:10:17] timothyha: (22.Ke1) Bxg6 after this is safe
+[19:13:49] timothyha: (22...Qxd1+) oops
+[19:14:04] timothyha: (22...Qxd1+) ah... we pin the queen
+[19:14:19] timothyha: (22...Qxd1+) Qxd1 b1=Q
+[19:25:41] simonwashere: gg
+[19:25:41] timothyha: gg
