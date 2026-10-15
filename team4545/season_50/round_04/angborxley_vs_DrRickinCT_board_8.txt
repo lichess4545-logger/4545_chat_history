@@ -1,0 +1,78 @@
+Lichess game chat log
+Game      : https://lichess.org/s7g9cnBO
+White     : angborxley
+Black     : drrickinct
+Time      : 45+45
+Captured  : 2026-10-15 13:55:39 UTC
+Game ended : 2026-10-15 12:35:32 UTC
+Messages  : 68
+────────────────────────────────────────────────────────────
+
+[10:34:43] karasso: Go angborxley!
+[10:40:16] qrs: Go Ang! :)
+[10:42:32] qrs: (9 ... O-O) Intuitively I d think dxc5 can be played here
+[10:43:18] qrs: Aiming to either give black the IQP or follow bxc5 with Qb3
+[10:52:22] qrs: (10 Qc2) So whats the plan after cxd4? Nb5?
+[10:55:09] karasso: I guess he would play it, but i am not sure if it was the plan.
+[11:06:15] qrs: (12 Nd3) not sure white will be able to recover that pawn in all lines
+[11:07:30] kborman: Go DrRick!
+[11:24:24] kborman: What to take back with?
+[11:46:51] angborxley: cry
+[11:50:08] kborman: Rxc4 Nxe6 looks good for black I think
+[11:52:09] qrs: why is Ang crying? :/
+[11:52:24] qrs: I mean both guys got themselves really low on time, but happens to me all the time :D
+[11:53:10] qrs: Probably he was referring indeed to the option of 20. ... Rxc4 which seems to have worked for black
+[11:53:55] qrs: But now 22. Bxe4 dxe4 23. Qxc4 ?!
+[11:54:10] qrs: This wins a rook for white at the cost of some weak light squared, definitely worth it
+[11:54:25] qrs: (or am I missing sth?)
+[11:55:26] karasso: And Bxe4 Rxd4 Bxh7+ Kh8 Qxd4 Kxh7 is also an exchange up fir white
+[11:56:57] qrs: Right, very accurate with the Bxh7+!
+[11:57:42] qrs: Missed change, I guess, now white will be down 2 pawns instead :/
+[11:57:42] qrs: *chance
+[11:58:58] qrs: @AngBorxley f3 definitely feels to me as anti-positional, locking out your bishop from contributing while black knight is still strong on c5
+[12:00:29] qrs: Seems black was afraid of potential tactics on the a2 g7 diagonal after Rxa2?
+[12:01:29] qrs: But 24 ... Rxa2 25 b5 Na6 Qxe6/Nxe6 do not seem to work for white?!
+[12:05:46] qrs: 29 f4 is my intuition. Exciting game!
+[12:07:17] qrs: (29 e3) that might also do the job, even though it doesnt reactivate the LSB
+[12:08:33] qrs: (29 . ... d3) expecting Nxd3 now to recover the pawn
+[12:09:33] qrs: (30 f4) Good one! I like it. Keeping the rook sidelined on a5 for now
+[12:13:05] qrs: (32 Qe6) fxg5 and black cant play fxg5 back
+[12:14:36] qrs: (33 Rfd1) surely doubling up must be good too
+[12:15:21] serenemoose: Go DrRick!
+[12:22:10] qrs: (38 R1xd3) wasnt there Rxf6 instead
+[12:22:40] mennonite: there was
+[12:22:40] qrs: Think white couldve been up 3 pawns with the intermezzo
+[12:24:26] qrs: (39 ... Rxf7) well, white is still playing this for the win even though it will be much harder
+[12:24:26] serenemoose: I think Black saw 36. Nd5, calculated Nd3, and then autoplayed it.
+[12:26:27] qrs: (40 Kg7) My intuition is R8c7 - feels easier to win this with 1 rook each
+[12:26:42] qrs: Is there a general recommendation you guys have? Like about going for the rook trade when trying to win a pawn up?
+[12:27:13] qrs: 42. Rd6+ wouldve been good
+[12:27:28] karasso: Would also trade here the rook, since the rook on f7 prevents my King from getting active
+[12:27:43] serenemoose: Idk about White, my guy's Black, I'd plant a pawn on g4, battery on f-file, and go for mate.
+[12:28:13] qrs: Definitely 43. Rd6+ now
+[12:28:13] mennonite: I don't like Ra8. the a pawn isn't particularly important here, and the activity of that rook is worht more
+[12:28:13] qrs: Nice!
+[12:28:43] qrs: guess white just tries to gobble up as many pawns as possible :D
+[12:29:14] karasso: Rg8+ now is strong
+[12:29:44] karasso: Trading the passive rook on a8 for the one on f6
+[12:29:59] mennonite: 46.h6+ Kg6 47.h7
+[12:29:59] qrs: Nice he saw it, GJ ANG!
+[12:30:14] mennonite: or just Rg8+
+[12:30:14] qrs: also just Rxf7
+[12:30:29] qrs: Kxf7 h7
+[12:30:29] qrs: h8Q unstoppable
+[12:31:15] kayrosas: now 47...Kh7 would've survived?
+[12:31:30] qrs: Ye indeed
+[12:31:30] qrs: I was thinking the same
+[12:31:30] qrs: Why not Rxf7 :/
+[12:31:45] kayrosas: tunnel vision
+[12:32:46] qrs: Well two vs 1 rook should be good enough, just 51 Rg6
+[12:33:16] qrs: (51 Rb8)  is he setting up ladder mate?
+[12:33:31] qrs: Like Rb7+
+[12:33:31] qrs: He is ^^
+[12:34:31] qrs: Unfortunately 53 e4 doesnt quite work to force mate
+[12:35:02] kayrosas: gg
+[12:35:02] pineapplechiffoncake: gg
+[12:35:32] karasso: gg
+[12:35:32] serenemoose: gg
+[12:35:47] qrs: GG
