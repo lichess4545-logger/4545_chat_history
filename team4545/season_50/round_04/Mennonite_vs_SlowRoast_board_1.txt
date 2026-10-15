@@ -1,0 +1,29 @@
+Lichess game chat log
+Game      : https://lichess.org/Wivh1paf
+White     : mennonite
+Black     : slowroast
+Time      : 45+45
+Captured  : 2026-10-15 02:17:37 UTC
+Game ended : 2026-10-15 00:57:29 UTC
+Messages  : 19
+────────────────────────────────────────────────────────────
+
+[00:04:55] goldenretrieverchess: Go Mennonite!!
+[00:12:02] jg777: Have a fun game Mennonite! :)
+[00:32:21] mennonite: after ...c6, what can i do?
+[00:42:15] professormethane: go sr!
+[00:45:33] jg777: h4-h5 threat would be my idea here
+[00:45:48] jg777: if h4 h5, then Ng5 looks good
+[01:00:16] slowroast: pretty dry game lol
+[01:00:31] slowroast: couldn't make sense of 14...Bd7 15.Nd5 NxN (seems forced due to pressure on c7) and after 16.Bxd5 my bishop seems silly on d7 and you have p
+[01:01:02] slowroast: ...pressure on my e pawn.
+[01:05:20] slowroast: i feel like 6...d6 7.Bg5 h6 8.Bh4 g5 9.Nxg5 xN 10.Bxg5 Kg7 works in some cases, cpu likes white though here since 11.Nd5 is an instant win.
+[01:05:51] mennonite: yeah that's what I was hoping to induce (the Be7 line)
+[01:06:06] slowroast: need to figure out the specifics about why such a line works.
+[01:08:08] slowroast: I was hoping for 6.Bg5 6...h6 7.Bh5 7.Be7 since i have a decent amout of experience in that position
+[01:08:38] mennonite: I kind of did a last minute audible
+[01:08:53] mennonite: I had extensively prepped 4.d4 for two rounds ago and played it
+[01:09:09] goldenretrieverchess: gg
+[01:09:09] mennonite: but figured that you likely would have seen that, so pivoted away from that last moment
+[01:12:42] slowroast: 14...Rxd1 15. Rxd1 Kf8 16. Nb5 Bd7 17. Nxc7 Rc8 18. Nd5 Rxc4 19. Nxf6 Bxh3 20. Nd5 is a wild cpu line. "even" lol
+[01:13:27] slowroast: anyway, have a good night. gg and i hope the airport stuff went ok even though the flight was delayed
