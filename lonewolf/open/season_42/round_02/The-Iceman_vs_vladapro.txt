@@ -1,0 +1,92 @@
+Lichess game chat log
+Game      : https://lichess.org/X0uaFLvf
+White     : the-iceman
+Black     : vladapro
+Time      : 30+30
+Captured  : 2026-10-16 02:01:49 UTC
+Game ended : 2026-10-16 00:41:43 UTC
+Messages  : 82
+────────────────────────────────────────────────────────────
+
+[23:02:20] the-iceman: Expecting either a sicilian or 1...Nc6
+[23:03:36] the-iceman: Yeah makes sense. I don't have too much experience in this line
+[23:03:51] the-iceman: I like the maroczy vs acc drag, playing it vs the Kan is sort of a recent change
+[23:04:06] the-iceman: Never seen 5...Qc7 before but surely Nc3 is a fine response
+[23:04:52] the-iceman: I couldve considered 6. a3 actually to avoid the Bb4 lines but I don't mind them so oh well
+[23:06:08] the-iceman: Hm he's probably considering b6 here going for a hedgehog
+[23:06:23] the-iceman: Nf6 structures are the only ones ive studied so far
+[23:09:09] the-iceman: Deciding between 7. Be2 and Bd3. With Bd3 I fear he will play Bc5 and after Nb3 Be7 he gets what wanted but makes my knight worse
+[23:09:54] the-iceman: I swear I've played this sort of game before
+[23:11:10] the-iceman: Making sure 8. 0-0 Bd6 Kh1 Bxh2 g3 works.
+[23:13:41] the-iceman: After 8...Nf6 I guess I need to play Qd3. f3 almost certainly would ask for Bd6 which he might get away with
+[23:13:56] the-iceman: I dont think i have Ndb5 tricks
+[23:14:27] the-iceman: Actually not so sure about that, i probably do have those. Hmm
+[23:15:42] the-iceman: 8...Nf6 Qd3 Nc6 is what I'm looking at now. Probably just have to take c6 unfortunately bc both Ne5 and Nb4 are annoying
+[23:16:13] the-iceman: I really with I had something like f4 or e5 here but its way too bold
+[23:16:28] mrscribbles: (8...Nf6) White can't get away with like Re1, right?
+[23:18:14] mrscribbles: (9.Qd3) no, Re1 would have been bad
+[23:22:46] the-iceman: After 10...dxc6 I might consider Qg3. Interesting idea but I can't tell if I have a real advantage there
+[23:23:01] the-iceman: f4 is of course also very tempting there
+[23:23:01] the-iceman: Ah but maybe he has e5
+[23:23:17] the-iceman: Well doesn't matter now lol
+[23:23:47] the-iceman: f4 here looks tempting to say the least
+[23:30:50] the-iceman: This looks very dangerous for him. Can't tell if DSB trade is good or bad
+[23:32:21] the-iceman: I'll keep it on. Idea is that when I harass his DSB with my knight he really has to deal with it because if I get trade my knight for his
+[23:32:36] the-iceman: DSB his dark squares are very weak
+[23:33:06] mrscribbles: (12...h5) no trade. Only attack
+[23:33:22] mrscribbles: (12...h5) Also, lots of pieces on the c-file
+[23:33:22] mrscribbles: (12...h5) Qc2! Rc8!!!
+[23:35:53] the-iceman: Fair enough, I didn't really expect his move
+[23:35:53] the-iceman: But it makes sense going for counterplay like that
+[23:36:08] the-iceman: But hoping its more weakening than anything.
+[23:44:12] the-iceman: Making a waiting move sorta with 15. Rad1
+[23:44:12] mrscribbles: (15.Rad1) What is this
+[23:44:27] mrscribbles: (15.Rad1) Just an exchange sack?
+[23:44:27] the-iceman: Hoping that this makes it harder for him to find a plan
+[23:44:27] the-iceman: At least I am making him commit to something
+[23:44:27] mrscribbles: (15.Rad1) Fun!
+[23:44:43] the-iceman: Kind of concerned about 15...g5 I guess but surely I have something there
+[23:45:13] mrscribbles: (15.Rad1) Hoping for a good ol' reckless long castle
+[23:45:13] the-iceman: Hm maybe not, did I just allow g5
+[23:46:13] the-iceman: Maybe 15...g5 h3 works but idk the piece sac is quite scary
+[23:46:13] mrscribbles: (15.Rad1) Oh, I just realized why g5 is so annoying
+[23:46:29] mrscribbles: (15.Rad1) Good luck
+[23:46:59] mrscribbles: (15.Rad1) Question:
+[23:46:59] mrscribbles: (15.Rad1) Why did I hallucinate there was a bishop covering f2?
+[23:46:59] mrscribbles: (15.Rad1) Am I drunk?
+[23:47:14] mrscribbles: (15.Rad1) I thought that was a pawn on c5, not a bishop
+[23:47:14] the-iceman: Ugh I think i have to do 15...g5 Qd6. Def not what I wanted but might still be equalish
+[23:47:29] mrscribbles: (15.Rad1) I swear I haven't been drinking
+[23:47:44] mrscribbles: (15.Rad1) Oh, scrolling back there was a bishop on c5 like two moves ago
+[23:47:44] mrscribbles: (15.Rad1) Phew
+[23:47:59] mrscribbles: (15.Rad1) Thought I had completely forgotten everything I knew about chess
+[23:47:59] the-iceman: I keep trying to make Nd5 ideas work but Qd8 seems to at least be a good reply to it and at worst he can just take it
+[23:48:30] mrscribbles: (15.Rad1) My life's ambition is to be the kind of grandmaster that plays Nd5 even when it doesn't work
+[23:50:46] the-iceman: I want to do 16. Rd2 but I feel like I need the Qd6 resource after g5
+[23:51:16] the-iceman: Well at least I know he's not castling queenside lol
+[23:51:16] the-iceman: So that takes the sting out of g5 I bit
+[23:51:47] the-iceman: So now maybe I can play something else
+[23:51:47] the-iceman: like h3
+[23:52:32] the-iceman: I'd really like to see anything other than g5 here lol
+[23:53:02] the-iceman: Unfortunately I think its like literally the only reasonable move he has rn
+[23:53:02] the-iceman: Maybe he can try Qb7
+[23:53:48] the-iceman: Yep figures
+[23:58:20] mrscribbles: (16...g5) This doesn't look very fun for white, but black is playing with fire, with that king in the middle
+[23:58:35] mrscribbles: (16...g5) In OTB bullet I would go Ra8 and try castling long again
+[00:02:37] the-iceman: This will take some luck, my position is very bad lol
+[00:11:57] the-iceman: Idk whats going on
+[00:11:57] the-iceman: Will not type much bc of time pressure
+[00:12:28] the-iceman: I think I'm getting out of trouble tho
+[00:12:43] the-iceman: Probably anyones game
+[00:21:02] the-iceman: 26. Nd5+ very hard for him to stop
+[00:22:02] the-iceman: 25....d6 actually stops i think
+[00:22:18] the-iceman: Hopefully his time pressure is too much to find it
+[00:26:35] the-iceman: Oh my, I just dropped my pawn
+[00:26:50] the-iceman: That's a pretty bad hallucination
+[00:26:50] the-iceman: Wow
+[00:37:40] the-iceman: He has 41...Rxa2 but this seems like the only way
+[00:37:40] the-iceman: Just have to hope he misses it
+[00:37:55] the-iceman: Yea he doesn't
+[00:37:55] the-iceman: But it was a trivial win otherwise
+[00:38:11] the-iceman: Such a silly hallucination earlier ):
+[00:42:13] the-iceman: Wow I missed 17. Qh3
