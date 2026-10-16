@@ -1,0 +1,134 @@
+Lichess game chat log
+Game      : https://lichess.org/fPqIFYGn
+White     : real_vmd
+Black     : monocarp
+Time      : 45+45
+Captured  : 2026-10-16 04:03:56 UTC
+Game ended : 2026-10-16 02:43:49 UTC
+Messages  : 124
+────────────────────────────────────────────────────────────
+
+[00:13:16] monocarp: hello Therom (I realise now I've been reading it as 'theorem' all this time btw)
+[00:14:01] nyanners: "cracked theorem" does have a nice ring to it
+[00:14:47] monocarp: (10... a6) okay, the amount of time white is spending indicates they might not play Qe2
+[00:17:18] monocarp: (11. a3) I think 11... Qxe5 should be good as 12.Re1 I can play Qd6 and white can't go Nb5
+[00:19:04] monocarp: and the best part is white loses the e5 pawn which otherwise stops be from playing moves like Nf6
+[00:23:07] monocarp: (12... Qd6) as white here I'd play Qf3 here I think. You want to insist on bishop f4 I imagine
+[00:24:52] monocarp: Maybe in response to Qf3 I could play 12... Bc6 and have ...d4 against Bf4.
+[00:26:08] monocarp: white played something different, threatens both b7 and d5 (although taking on d5 does trade the queens as will as winning a pawn)
+[00:27:08] monocarp: nevermind, that isn't true. In any case Bc6 looks fine
+[00:30:25] monocarp: (13... Bc6) I am aware that I'm not really developing but I don't see how white can break open anything so it should be okay
+[00:38:14] monocarp: 14. g3 makes some sense at least
+[00:42:16] monocarp: hmm don't know exactly what to do if ...Qd7, Rad1 (say) then ...Bd6 Bg5 is putting good pressure on the d5 pawn
+[00:43:02] monocarp: maybe Qd8 here so in that position I can castle without damaging my kingside pawns
+[00:51:36] monocarp: (16. Na4) this move I already looked at and didn't like. After b5 white is just pushed back
+[00:51:51] monocarp: I'll spend a moment considering taking also I guess
+[00:53:22] monocarp: although I'm thinking of taking and then b5 (I did notice in some other positions earlier didn't work due to Bxb5, but that was...
+[00:53:37] monocarp: ... in positions where my rook was undefended)
+[00:55:38] iwishiweredecent: White really just gave up their central pawns that easily?
+[00:56:39] iwishiweredecent: Just take the knight, then block the check with the queen.. am I missing something here?
+[00:57:24] nyanners: this is some theory nonsense but white didnt know it
+[00:57:24] nyanners: a little knowledge is a dangerous thing
+[00:58:10] iwishiweredecent: Yeah I play the French and right now black has a dream position
+[00:58:55] iwishiweredecent: I would have gotten rid of my bad bishop, but to each their own ya know?
+[00:59:10] nyanners: the most ancient take on this line is 11 Qe2 but its borderline refuted these days
+[00:59:10] monocarp: I was hoping my LSB will become good later with ...d4 or something
+[00:59:25] monocarp: but I didn miss this move
+[00:59:40] nyanners: current people like 7 O-O and as played 9 Nbd2
+[00:59:40] nyanners: of course 11 a3 is not a fight
+[01:01:41] monocarp: white could be a little funny after Rc1 Nc5 and maybe there's something for me
+[01:13:48] monocarp: I concluded this was unsound
+[01:16:04] nyanners: true i guess
+[01:16:04] iwishiweredecent: well I went to make popcorn, I come back and the dream position has turned a bit nightmarish
+[01:18:05] monocarp: Kf7 might be better than bishop over, even if it's a little strange
+[01:22:52] monocarp: (20... Be7) suprised white is considering anything other than Qe2
+[01:22:52] nyanners: nah white has just bluffed. its no problem
+[01:23:07] monocarp: although I guess white might have been saying that on my last move :)
+[01:23:07] iwishiweredecent: Yeah I don't think white has anything here
+[01:23:53] iwishiweredecent: Qe2 is the best move I can see, but I don't see how that knight sacrifice is going to end up being even remotely sound
+[01:24:08] nyanners: i mean, id have bluffed too
+[01:24:08] nyanners: its that bad
+[01:24:23] iwishiweredecent: yeah it was bad for white after losing those pawns
+[01:25:08] iwishiweredecent: I still think black was better off just getting rid of that knight for his bad bishop and castling, but white doesn't have the fire power to
+[01:25:08] iwishiweredecent: take advantage of the king's lack of safety
+[01:25:39] nyanners: id only change 16..Bd6
+[01:25:54] nyanners: lack of development has resulted in this little event
+[01:25:54] nyanners: but its well played
+[01:31:42] monocarp: I had been planning on 23... Kf7 here, but didn't consider Qe6+ which wins a piece
+[01:37:45] monocarp: (23... Bb7) I don't like this move anymore. White can go Bf5 and sit it on e6 in some futures
+[01:37:45] monocarp: and seen
+[01:41:32] monocarp: this is actually annoyingly non-trivial.
+[01:43:03] nyanners: yea thats well played from white too :o given the opening disaster
+[01:43:18] monocarp: annoying that ...g6 traps my rook to the bishops as I can't really move my N due to Qh5+ ideas
+[01:43:48] nyanners: may have needed to bite the bullet with Kf8
+[01:44:18] nyanners: 25..Rf7 seems really good now
+[01:45:04] nyanners: 25 Bxh7 was an interesting one
+[01:50:36] iwishiweredecent: Rf7?
+[01:52:53] monocarp: I think g4 cannot have been best but I'm glad to be here
+[01:54:08] nyanners: 28 Bg6 is terrifying
+[01:54:23] nyanners: i think white has been rewarded
+[01:55:39] iwishiweredecent: Yeah maybe white just didn't see it
+[01:56:40] iwishiweredecent: this looks pretty bad for black now
+[01:56:55] nyanners: this move order seems the same
+[01:57:10] monocarp: I completely missed this moev
+[01:57:10] nyanners: clearly D:
+[01:57:25] iwishiweredecent: I think back at the moment when black was considering how to deal with the check, moving the king to f7 would have been better, to castle by
+[01:57:55] iwishiweredecent: blocking with the bishop and then trapping the king with your own pieces never ends well, usually anyway
+[01:58:56] iwishiweredecent: Well played by white though... to get back into the game after such an abysmal opening disaster
+[01:59:41] iwishiweredecent: there goes the g pawn
+[01:59:56] iwishiweredecent: really?
+[02:00:27] iwishiweredecent: why not wipe out the g and h pawns? now black has a clean passed pawn... I guess Re7 is strong
+[02:01:12] iwishiweredecent: This does not look right to me... 33 Re8? why not Re7?
+[02:01:42] iwishiweredecent: how is white going to stop the pawn? block with the king?
+[02:05:44] monocarp: Bf3 controlling the king was probably more to the point
+[02:07:30] nyanners: not too sure what to think tbh
+[02:07:45] iwishiweredecent: 36...Bc2
+[02:08:00] iwishiweredecent: then push the pawn and create that bishop pawn bind there and then let the king do the dirty work
+[02:08:16] nyanners: 34..bf3 would win a pawn due to the d3d2d1 threat so thatd be cool
+[02:08:31] nyanners: this one..... i mean, if you lose the pawn, youre losing
+[02:08:46] nyanners: cant just d3 like that
+[02:09:16] iwishiweredecent: Yeah unless you get the king up there to defend d3 first, yourre right
+[02:10:17] iwishiweredecent: feels like this game is balanced on a knife's edge, but the computer is probably saying it is either dead drawn or completely winning
+[02:11:47] monocarp: (37... Bb1) maybe Bh7 better
+[02:13:03] monocarp: because this way there are tactics where my king can't go to e4 due to Bg7+
+[02:14:19] monocarp: on the other hand, on h7 f4... f5 could block my bishop from the pawn
+[02:20:52] nyanners: id start to get a little worried as black
+[02:22:53] monocarp: missed this move fixing my a6 pawn
+[02:23:23] monocarp: honestly I could be lost (with a6 on a light square) but it's hard to tell
+[02:23:38] iwishiweredecent: now the d pawn is going to fall
+[02:23:54] iwishiweredecent: oh nvm
+[02:27:10] nyanners: curious if h5 Bg6 wins
+[02:27:10] nyanners: seems that way
+[02:27:25] iwishiweredecent: yeah I think white can make a passed pawn faster than black
+[02:27:40] monocarp: (40... Kb6) actually I don't think I can be losing, since white will only have one passer on the kingside that I can probably sacc for
+[02:27:56] monocarp: and my king should pick up the b/a pawns if white decides only to push
+[02:29:11] iwishiweredecent: I think white is winning now
+[02:31:12] iwishiweredecent: 41.. a5?
+[02:31:58] iwishiweredecent: or just send the king over to the other side
+[02:31:58] iwishiweredecent: ??
+[02:32:28] iwishiweredecent: white wants to trade the bishops on c2
+[02:32:43] nyanners: black has expressed the concern with a6, logical
+[02:32:43] nyanners: seems white has found an alternate plan with Bc2 and win
+[02:32:58] nyanners: looks good to me
+[02:33:14] nyanners: you can trade here
+[02:33:29] nyanners: (white can)
+[02:33:29] iwishiweredecent: well black has Ba2 though right?
+[02:33:44] monocarp: Bc2 here could be risky for me
+[02:33:44] nyanners: bc2 ba2 be4 premove kd3
+[02:33:59] iwishiweredecent: ahhhh yeah
+[02:34:14] iwishiweredecent: oof
+[02:34:29] iwishiweredecent: can black's king get to the three pawns fast enough?
+[02:34:44] nyanners: short answer is no. long answer is white has all advantages
+[02:34:59] nyanners: pawns are further advanced and a5-axb4 helps white here as its easier to take b
+[02:35:15] iwishiweredecent: well white needs to find Be4 Kd3
+[02:35:15] nyanners: yea not 200% trivial
+[02:35:15] iwishiweredecent: because that wasn't obvious to me...
+[02:35:30] nyanners: but okay easy enough
+[02:35:30] iwishiweredecent: lol
+[02:35:30] iwishiweredecent: annnnnnnd there it is
+[02:35:45] monocarp: missed Be4+ one. Fustrating
+[02:36:45] iwishiweredecent: Nooo
+[02:37:01] iwishiweredecent: why didn't black just play Kd6 first?
+[02:38:01] iwishiweredecent: this is just a much worse version of what black would have gotten if they played Kd6 first, no??
+[02:38:31] iwishiweredecent: Yeah this is just winning for white now
+[02:54:54] nyanners: gg :o
