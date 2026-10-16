@@ -1,0 +1,123 @@
+Lichess game chat log
+Game      : https://lichess.org/eakAqhIO
+White     : chatakkuma
+Black     : rathotdog
+Time      : 45+45
+Captured  : 2026-10-16 02:08:09 UTC
+Game ended : 2026-10-16 00:48:03 UTC
+Messages  : 113
+────────────────────────────────────────────────────────────
+
+[22:11:57] sheyda8: ratty ratty
+[22:15:13] sheyda8: hello moe
+[22:20:16] rathotdog: I can't for the life of me remember my prep but this exact line showed up in that fier game in the olympiad lol
+[22:20:31] rathotdog: I feel like I remember stockfish saying allowing this bishop trade was bad in that fier game too, but at least now I have c5 open
+[22:22:02] sheyda8: cool move
+[22:57:20] kingnchess: Go Rat!
+[22:57:35] johnjpershing: Let's go Rat!
+[23:02:07] sheyda8: blud thoguht he could outheory the rat
+[23:08:11] rathotdog: I thought he was gonna play Qd2 since this once comes with a threat using the pin
+[23:26:50] sheyda8: se ve se sienta ratzy ta presente
+[23:28:51] suspendedseventh: yo
+[23:32:39] sheyda8: hii
+[23:38:57] sheyda8: rc4 perhaps
+[23:39:12] sheyda8: king is quite advanced already
+[23:59:23] rathotdog: I think Nd4 just trades his passer for b5/f5, and a pair of rooks off.
+[00:00:08] rathotdog: Nc3 a5 a4 looks interesting since b4 Nb5+! but a4 bxa4 and I'm threatening a4-a3 to destabilize the pony
+[00:00:54] rathotdog: Nf4 back feels necessary and then I have Rdc8-Rc2 maybe
+[00:05:26] rathotdog: I didn't expect Rd4 here, its prolly better than a4 but if he goes chasing my h7 pawn I prolly just mate him
+[00:06:11] rathotdog: Rh4 b4 axb4 axb4 Ne2 Rxd5 Rxh7 Rd2 Nf4 b3
+[00:06:42] sheyda8: ole ole ole ole
+[00:07:27] rathotdog: Na2 Rxd5 Nxb4 Rd2 looks good too
+[00:47:48] sheyda8: nice game
+[00:47:48] chatakkuma: Thanks
+[00:48:48] chatakkuma: 44.Re1+ Kd2 Rb1 maybe
+[00:49:18] chatakkuma: 25...Qf5 was weird
+[00:49:34] chatakkuma: lets my knight on the wonderful f4 square
+[00:49:49] chatakkuma: maybe it's still winning tho
+[00:50:04] rathotdog: if f4 was that wonderful why'd you leave it?
+[00:50:19] chatakkuma: I thought about putting my knight on f4 and just keeping a fortress
+[00:50:34] chatakkuma: but I thought going for this exchange of pawns on the queenside was good too
+[00:51:04] chatakkuma: I think 36.Rf4 was better
+[00:51:19] chatakkuma: not Rh4 and then Rf4
+[00:52:05] chatakkuma: there was 11...Nxc4 I missed
+[00:52:20] chatakkuma: I didn't see f2 is hanging with a fork
+[00:52:50] chatakkuma: oh there is Nd5
+[00:52:50] chatakkuma: didn't see that
+[00:52:50] rathotdog: thats why I didn't play it
+[00:53:05] rathotdog: I thought I was in big danger after Nd5, im surprised its equal
+[00:53:20] chatakkuma: I was lucky
+[00:53:20] chatakkuma: I was going to play Nxc4 h3
+[00:53:35] chatakkuma: but that is bad
+[00:53:35] chatakkuma: I think O-O-O was a mistake
+[00:53:51] chatakkuma: Bb3 might be better
+[00:54:21] chatakkuma: 15...c4 nice move
+[00:54:36] rathotdog: castling long there is always a bit psychotic unless you have some hook
+[00:54:51] chatakkuma: no hook on black's kingside
+[00:56:06] chatakkuma: I was thinking 41...Rd1+ Ka2 Ra8+ Kb3
+[00:56:22] chatakkuma: not sure how black wins
+[00:56:52] rathotdog: I didn't see anything there
+[00:56:52] rathotdog: also your king looked more happy
+[00:58:23] rathotdog: in the opening I thought 7. ... Bd7 was my prep but I couldn't be certain
+[00:58:53] rathotdog: I even calculated the whole Bd7 Ne5 c5! dxc5 Qc7 cxb6 Qxe5 line stockfish likes but I wasn't sure this was the right thing
+[00:59:08] rathotdog: I think that line is definitely in my file, I just bailed out
+[01:00:54] chatakkuma: luckily Ng4 I checked briefly
+[01:01:09] chatakkuma: and then I collapsed right after my prep
+[01:01:39] rathotdog: lol
+[01:01:54] rathotdog: I saw you were playing this d4 d5 Nf3 Nf6 c3 sideline a lot recently
+[01:01:54] rathotdog: so thats basically all I looked at
+[01:02:24] chatakkuma: yea that's a cool line with some ideas
+[01:02:24] rathotdog: I didn't check how you played the 4 knights tabiya, just that you often go into it with white
+[01:02:39] rathotdog: I had prepped d4 d5 Nf3 Nf6 c3 a5!?
+[01:02:54] chatakkuma: lol
+[01:02:54] rathotdog: there were some cool ideas in my file :p
+[01:03:25] chatakkuma: basically black can do whatever after such a quiet move c3
+[01:03:55] rathotdog: yeah, the a5 inclusion gives me Ra7 on Qb3. Slightly improved symmetrical london
+[01:05:26] chatakkuma: interesting
+[01:05:41] rathotdog: I saw duda played it against fabi and that got me to check it out
+[01:06:11] rathotdog: https://lichess.org/XoaLIbMJ/black
+[01:06:11] rathotdog: this was a nice game I found as well
+[01:07:12] chatakkuma: yea that was nice game
+[01:07:42] chatakkuma: you have a very good prep
+[01:08:27] rathotdog: I just tend to sent the db to last 6 years and see what interesting moves show up in the highest rated games
+[01:08:42] rathotdog: then skim through a bunch of master games to settle on my lines
+[01:09:12] chatakkuma: chessbase database?
+[01:09:28] rathotdog: nah I just use lichess
+[01:09:28] chatakkuma: lol me too
+[01:09:43] chatakkuma: chessbase is too expensive
+[01:09:43] rathotdog: lichess studies r very convenient because I can add to them when Im on my phone
+[01:09:58] rathotdog: its very annoying that chessbase is stuck to a computer
+[01:10:13] chatakkuma: yea I agree
+[01:10:13] rathotdog: and I can easily import lichess games I play to studies as well
+[01:10:43] rathotdog: I used to have chessbase for free just sharing with someone else, but once I got a new laptop I just gave up on it
+[01:10:58] chatakkuma: there is also chessmonitor
+[01:11:28] chatakkuma: I think that's pretty good
+[01:11:28] chatakkuma: thinking about subscribing that
+[01:11:43] chatakkuma: much cheaper than chessbase
+[01:11:59] rathotdog: it looks pretty good but considering how good the free alternative is I have a hard time getting moved anywhere
+[01:12:14] rathotdog: giri definitely makes it look enticing though
+[01:12:59] rathotdog: I'd also be interested in how nice their database is
+[01:12:59] chatakkuma: I saw giri's youtube
+[01:13:14] chatakkuma: database has otb games, lichess, chess.com
+[01:13:29] rathotdog: the lichess database is a little limited for sure, you still find enough games to prep I think but it could be better
+[01:13:29] chatakkuma: very huge database
+[01:13:29] chatakkuma: yea true
+[01:13:59] chatakkuma: I have lichess studies of 4545 league games
+[01:13:59] chatakkuma: I put the games, prep, stuff like that
+[01:14:45] rathotdog: makes sense
+[01:16:00] chatakkuma: endgame is hard
+[01:16:31] chatakkuma: at the end 45...Kd7 saves from fork
+[01:16:46] chatakkuma: I was thinking Kd7 Nd4 Re1+ Kd2 Re5
+[01:18:32] chatakkuma: anyway, thanks for playing!
+[01:18:47] rathotdog: yeah I completely hallucinated, I can really move the king anywhere but e5 lol
+[01:19:17] chatakkuma: yea that was unfortunate
+[01:19:32] rathotdog: at the very least if I don't see the Rd1 Rbe5, theres like Kd7 Nd4 Ree5 Nxb5 Rxb5
+[01:19:47] rathotdog: and at least the rooks are still on the board
+[01:20:32] rathotdog: ggs @chatakkuma
+[01:20:32] chatakkuma: hmm but that seems losing with the outside passer
+[01:20:47] chatakkuma: gg
+[01:20:47] rathotdog: true, I could just grovel harder than that king and pawn ending
+[01:20:47] rathotdog: xD
+[01:21:18] chatakkuma: gotta go now, gl for your future games!
+[01:21:33] chatakkuma: see you
+[01:21:33] rathotdog: u too
