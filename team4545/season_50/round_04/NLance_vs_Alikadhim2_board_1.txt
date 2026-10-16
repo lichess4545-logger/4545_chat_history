@@ -1,0 +1,151 @@
+Lichess game chat log
+Game      : https://lichess.org/55vhUEFS
+White     : nlance
+Black     : alikadhim2
+Time      : 45+45
+Captured  : 2026-10-16 20:33:19 UTC
+Game ended : 2026-10-16 19:13:06 UTC
+Messages  : 141
+────────────────────────────────────────────────────────────
+
+[17:16:37] invinci7777: when your opponent plays sicilian but you only prepped ruy lopez :p
+[17:22:40] aldric123: (16...a3) Let's go NLance!
+[17:28:13] fireball100: Go NLance!
+[17:38:05] warvold: (21.Qd3) Go NLance!
+[17:40:07] warvold: (21.Qd3) What a weird opening
+[17:40:53] simonwashere: The Ruyillian? Everyone plays it these days!
+[17:41:38] warvold: (21...Qa5) Is that true?
+[17:41:38] warvold: (21...Qa5) I never see that
+[17:41:54] simonwashere: As true as the other nonsense I type in chat
+[17:42:09] warvold: (21...Qa5) Got me
+[17:43:10] simonwashere: It is an interesting position, perhaps we should all play it
+[17:43:25] warvold: (23.Qxd6) I must admit that I like it
+[17:44:26] warvold: (23.Qxd6) Hmm Bc3 could be trouble?
+[17:44:41] warvold: (23.Qxd6) Bc3 Qd7 i guess
+[18:13:48] aldric123: (25...Rae6) Man this does look tricky
+[18:15:50] aldric123: (25...Rae6) I don't know that I've found anything better than e5 which might go Bxf3 exf6 Bxd1 fxe7
+[18:16:20] aldric123: (25...Rae6) Though obviously could go e5 Bg7 and whatnot
+[18:16:50] aldric123: (25...Rae6) If so seems like e5 would eventually fall
+[18:19:37] aldric123: (25...Rae6) in various lines white's Q has few squares
+[18:20:08] simonwashere: Was wondering about Nd4 but is probably a bad idea
+[18:21:39] aldric123: (25...Rae6) Probably Nd4 Be5 Qg4 or f3 and then Rd6 to pin the knight maybe. Though I guess in those lines the Q would be defending d1
+[18:23:10] simonwashere: yeah, it is all quite hard to calculate
+[18:23:10] aldric123: (25...Rae6) There's also lines Nd4 Bg5 that are confusing as well
+[18:24:26] aldric123: (25...Rae6) All these confusing lines though must be why NLance is thinking forever here
+[18:28:45] nlance: Long think, wrong think. Every time.
+[18:29:00] aldric123: (26...Qc7) hah
+[18:30:16] aldric123: (26...Qc7) now Nd4 looks interesting
+[18:30:31] aldric123: (26...Qc7) Since a later Nxe6 would threaten the Q
+[18:31:01] aldric123: (26...Qc7) And Nd4 Rxe5 would hang Qxf6
+[18:31:47] aldric123: (27.Nd4) and Nd4 Bxe5 Nxe6 Bxf4 Nxc7 Bxc7 should just be up an excahnge
+[18:32:02] aldric123: (27.Nd4) probably have to do a rook trade in the middle of that
+[18:32:48] aldric123: (27.Nd4) This just looks good atm for White for me. Which probably means I missed something
+[18:33:03] warvold: (27.Nd4) I'm missing everything, thanks for doing the thinking for us
+[18:34:04] aldric123: (27.Nd4) Yeah I missed a lot too
+[18:34:19] aldric123: (27.Nd4) Bxe5 Nxe6 Bxf4 Nxc7 there's also Bxe3
+[18:34:34] aldric123: (27.Nd4) I suppose there then you do Nxb5?
+[18:36:05] aldric123: (29...Bxe3) yay my line
+[18:36:05] warvold: (29...Bxe3) Weeeeh
+[18:36:21] aldric123: (30...Bc5) So white is still up a pawn!
+[18:36:36] aldric123: (30...Bc5) though those bishops look kinda brutal
+[18:37:07] warvold: (31.Rc1) Bishop against knight in such an open position
+[18:37:07] aldric123: (31.Rc1) Have to do Bb6 now I think
+[18:37:37] aldric123: (31.Rc1) Well maybe not. Was gonna say if not that Rc7 is annoying but Re1+
+[18:38:38] aldric123: (31.Rc1) I guess if Bb6 then you do just Nxa3 so maybe Bb4 is required
+[18:39:08] aldric123: (31...Bb4) Bb4 Rc7 Re1+ Kh2
+[18:39:39] aldric123: (31...Bb4) Then maybe Bd5
+[18:40:09] aldric123: (31...Bb4) Or perhaps Rc4
+[18:40:09] warvold: (31...Bb4) I was thinking Rc4
+[18:41:25] aldric123: (31...Bb4) I'd for sure do Rc4 or Rc7 one of those
+[18:42:26] aldric123: (32.Rc4) Talk about a tense situation. a pawn up but these bishops could be murder. And the a3 pawn would be godlike if a2 falls
+[18:43:27] aldric123: (33...Bf8) Rc7 now looks tasty
+[18:43:57] aldric123: (33...Bf8) Although I suppose there's the boring Re7 to not lose instantly
+[18:43:57] warvold: (33...Bf8) Rc7 Bd5 i think
+[18:44:12] aldric123: (33...Bf8) ah right
+[18:44:58] aldric123: (33...Bf8) Rc7 Bd5 Ra7?
+[18:45:13] aldric123: (33...Bf8) But then Rc7 Bd5 Ra7 Ra1 gets scary
+[18:45:28] warvold: (33...Bf8) Yep, that's what I'm thinking
+[18:45:28] aldric123: (33...Bf8) Since Nxa3 Rxa2 looks hmm
+[18:45:28] warvold: (33...Bf8) Ra1 can be dangerous
+[18:45:44] aldric123: (33...Bf8) quite
+[18:46:29] aldric123: (33...Bf8) the g3 knight is a problem
+[18:47:15] aldric123: (33...Bf8) I guess if Rc7 Bd5 you could also play Nc3
+[18:48:01] aldric123: (33...Bf8) always have to be wary though of Bxb3 with the a pawn running
+[18:48:16] warvold: (33...Bf8) Yep, Rc7 Bd5 Nc3 Be6 Ne4
+[18:48:16] aldric123: (33...Bf8) yeah that might work nicely
+[18:48:16] warvold: (33...Bf8) Ah damn, that's true
+[18:48:31] aldric123: (33...Bf8) rehabilitate the g3 knight would be groovy
+[18:48:46] warvold: (33...Bf8) The g3 knight defends f2 right now tho
+[18:49:01] aldric123: (33...Bf8) You mean e2 so the rook can't take second rank I take it?
+[18:49:17] warvold: (33...Bf8) Yes, that
+[18:49:17] aldric123: (33...Bf8) yeah though a knight on c3 does the same
+[18:49:17] warvold: (34.Rc7) And Rf1
+[18:49:17] aldric123: (34.Rc7) in that line
+[18:51:18] aldric123: (34.Rc7) oh your one line doesn't work because of Bd6+
+[18:51:49] aldric123: (34.Rc7) well you didn't say which knight
+[18:52:04] aldric123: (34.Rc7) oh wait the stupid knight on e4 defends it
+[18:52:19] aldric123: (34.Rc7) visualization is hard!
+[18:52:49] aldric123: (34.Rc7) So Bd5 Nc3 Be6 Nge4 perhaps does work
+[18:53:05] aldric123: (34...Bd5) it's all kind of scary though
+[18:55:37] warvold: (35...Be6) Right, but I was thinking of Nce4 anyway :)
+[18:55:52] warvold: (35...Be6) Both could work
+[18:56:23] warvold: (35...Be6) Meh
+[18:56:23] aldric123: (35...Be6) one scary thing is something like Kg8 intending f5
+[18:56:23] warvold: (35...Be6) Nce4 Bxb3
+[18:56:38] aldric123: (35...Be6) yeahg
+[18:56:38] aldric123: (35...Be6) That's part of why I was gonna try Nge4
+[18:56:53] aldric123: (35...Be6) cuz a knight on c3 still covers a2
+[18:56:53] warvold: (35...Be6) Nge4 very interesting
+[18:58:09] aldric123: (36.Nge4) hah, if Kg8 intending f5 then maybe Nf6+ Kg7 Nfd5
+[18:58:54] aldric123: (36.Nge4) or more simply maybe just Kg8 Nc5
+[18:59:10] aldric123: (36.Nge4) no wait
+[18:59:10] aldric123: (36.Nge4) I'm forgetting the stupid Bd6
+[19:00:11] aldric123: (36.Nge4) I guess if Kg8 have to play the annoying g3?
+[19:00:26] aldric123: (36.Nge4) kinda scary light squares
+[19:00:41] aldric123: (36...Bg7) yeah I think g3 is required now
+[19:00:56] aldric123: (37.f4) I guess you could try f4 but hmm
+[19:01:12] aldric123: (37.f4) oh he does hah nice
+[19:01:42] aldric123: (37.f4) heh, now if f5 Nf6 looks interesting!
+[19:01:42] warvold: (37.f4) What if Rf1?
+[19:01:57] aldric123: (37.f4) Rf1? I'm guessing Kg3
+[19:01:57] warvold: (37.f4) Right
+[19:01:57] warvold: (37.f4) That's good
+[19:03:13] aldric123: (37.f4) Getting kinda low on time. :(
+[19:03:28] aldric123: (37.f4) Luckily I'm sure NLance is a faster calculator than I
+[19:04:14] aldric123: (37...Rc1) this is dangerous
+[19:04:29] warvold: (37...Rc1) b4?
+[19:04:29] aldric123: (37...Rc1) Nb5 fails I think to Rxc7 Nxc7 Bxb3
+[19:04:44] aldric123: (37...Rc1) b4 Bxa2?
+[19:05:15] warvold: (37...Rc1) Hmm right
+[19:05:30] aldric123: (38.Nb5) oh shit
+[19:05:45] warvold: (38.Nb5) He can come back
+[19:06:00] warvold: (38.Nb5) Rxc7 Nxc7 Bxb3 Nb5 attacks the pawn
+[19:06:16] aldric123: (38.Nb5) Yeah I was just considering that
+[19:06:31] aldric123: (38.Nb5) I think Bb2
+[19:07:01] aldric123: (38.Nb5) But if that line then Nec3?
+[19:07:17] aldric123: (38.Nb5) So Rxc7 Nxc7 Bb3 Nb5 Bb2 Nec3
+[19:07:17] aldric123: (38.Nb5) confusion.
+[19:07:32] warvold: (38.Nb5) Yep
+[19:07:32] warvold: (38.Nb5) I'm sure b4 had potentiel
+[19:07:32] warvold: (38.Nb5) potential*
+[19:07:47] aldric123: (38.Nb5) Then he probably backs up Be6 and claims he's nicer with the bishops but not instantly winning
+[19:08:02] aldric123: (38.Nb5) when you said it to me it looked like b4 Bxa2 looked good for black
+[19:08:33] warvold: (38.Nb5) True, but you push the pawn and maybe sac a knight when black pushes
+[19:08:48] aldric123: (38.Nb5) Yeah I hadn't fully calculated or anything
+[19:09:19] aldric123: (38.Nb5) I just assumed the b pawn wasn't as dangerous as the one on a3
+[19:10:19] aldric123: (40.Nb5) following our lines so far!
+[19:10:34] warvold: (40.Nb5) That's what scare me x)
+[19:10:49] aldric123: (40.Nb5) heh
+[19:11:04] warvold: (40...Bb2) Nxa3 here
+[19:11:04] aldric123: (40...Bb2) Yep Nec3 baby!
+[19:11:04] aldric123: (41.Nxa3) oh
+[19:11:20] aldric123: (41.Nxa3) you're right
+[19:11:20] aldric123: (41.Nxa3) that is simpler
+[19:11:20] warvold: (41.Nxa3) Just saw it now that's live
+[19:11:50] aldric123: (41.Nxa3) ok with smart play this should be a draw now!
+[19:12:05] aldric123: (41...Bd5) hah he's getting tricky
+[19:12:51] simonwashere: gg
+[19:12:51] kayrosas: gg
+[19:12:51] aldric123: gg
+[19:14:06] warvold: gg
+[19:15:07] tactix47: gg
