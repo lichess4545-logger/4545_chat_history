@@ -1,0 +1,287 @@
+Lichess game chat log
+Game      : https://lichess.org/oGY4Zlvb
+White     : funnyanimatorjimtv
+Black     : castling-companion
+Time      : 45+45
+Captured  : 2026-10-16 20:23:13 UTC
+Game ended : 2026-10-16 19:03:02 UTC
+Messages  : 277
+────────────────────────────────────────────────────────────
+
+[16:04:21] jg777: Have a fun game Jim!
+[16:13:13] goldenretrieverchess: Go Jim!!
+[16:23:52] schittering06: (14...a4) Let's gooo Jim!
+[16:25:08] castling-companion: alright. So Nd5 I ve never seen before. Only after my Q is on a5 already.
+[16:25:54] castling-companion: I like that i got a4 in, usually White plays only f3 and delays Be2, so they have time for b3
+[16:26:40] castling-companion: in these structures Q-trades and DSB-trade is good for Black bc less space
+[16:27:10] funnyanimatorjimtv: 15.Nd5 im trying to find a plan, maybe 15.Rc2 was better to keep improving before this kind of move
+[16:27:25] castling-companion: sometimes when White plays very slow (usually with Nc2) there are f5 ideas
+[16:27:55] funnyanimatorjimtv: if i played Rc2 i could have seen how he reacts because i don't know what black's plan is either
+[16:28:11] castling-companion: so Bxd5, cx or ex and Qa5 is a candidate
+[16:28:11] castling-companion: also f5
+[16:29:11] castling-companion: there is a famous GM Navara game with a3, b4, Nb3!!, ax, a2!
+[16:29:42] funnyanimatorjimtv: if 15...Bxd5 i was planning on cxd5 and using the white pieces to eventually attacking black's a4 pawn
+[16:29:57] funnyanimatorjimtv: but now i see black can soon counterattack with ...f5
+[16:30:42] funnyanimatorjimtv: i should calculate more variations
+[16:30:57] castling-companion: ok, so a3 doesnt work, bc of Bd4 in some lines
+[16:32:14] castling-companion: after Bxd5, ex!, Qa5 White can slowly play against my e7 weakness with Re1, Bf1, Bf2 etc
+[16:33:14] castling-companion: f5, exf (forced), Bx looks good and active. Idk about the combination with a5, usually its played in a6-b5 lines
+[16:34:15] castling-companion: there are also Ra6-Rb6 ideas, after Bxd5
+[16:34:46] funnyanimatorjimtv: yeah if black plays 15...Bxd5 i feel like white's light squared bishop could get really strong, it can go to c6 and still attack a4
+[16:34:46] castling-companion: anytime White plays Bd4 this helps Black
+[16:35:16] pineapplechiffoncake: Go  Jim!
+[16:35:46] funnyanimatorjimtv: now that i say that i realize i didnt look at 15...Bxd5 cxd5 Qb6, how should i deal with that
+[16:37:48] funnyanimatorjimtv: 17.Rc2 there seems very passive so i could play 17.Bd4 and maybe my bishop could be better than his knight but so many pieces coming off
+[16:39:35] funnyanimatorjimtv: that endgame looks very interesting (15...Bxd5 cxd5 Qb6 Bd4 Bxd4 Qxd4)
+[16:42:37] castling-companion: alright Re8, waiting for Whites move. Bd4 makes his posiiton worse, as this trade helps me
+[16:43:08] castling-companion: long term Qa5 and trading queens also helps me
+[16:43:23] funnyanimatorjimtv: 15...Re8 (38m v 30m) that move seems passive, maybe theres a move here i can take the initiative
+[16:43:38] castling-companion: prob best for White to try to get b3 or b4 in asap
+[16:43:53] funnyanimatorjimtv: or maybe not cause theres still no clear weaknesses
+[16:44:39] castling-companion: Bxd5 and Qa5 is a threat
+[16:44:54] funnyanimatorjimtv: 16.Qb4 doesnt do much after ...Qa5
+[16:47:11] funnyanimatorjimtv: 16.f4 and 16.Bg5 dont seem that effective
+[16:47:26] castling-companion: ofc Re8 gives up on f5... felt too weakening and gives White an easy plan with e7 weakness
+[16:47:26] funnyanimatorjimtv: i dont usually whisper and my time advantage disappeared so im going to keep looking
+[16:48:12] castling-companion: now Bf1, Bxd5, ex, Qa5 is a favourable line as Re8 was more useful than Bf1
+[16:48:43] castling-companion: so Rb1 makes most sense, preparing b4
+[16:49:28] castling-companion: Rc2 with Rb1 still fails to f5 ideas by Black
+[16:50:14] castling-companion: in the future i want h5, Kh7, Bh6 to trade DSB if the Q moves
+[16:50:44] funnyanimatorjimtv: i could try 16.Qc2 Qa5 b4 axb3 axb3 but after Bxd5 then exd5 black's pieces are dominating white's queenside
+[16:51:15] castling-companion: after Bd4, Bxd5, Bxg7, Kx, ex ... its my good c5 Knight against his bad Be2
+[16:53:01] funnyanimatorjimtv: i could go 16.Qb4 Qa5 Qa3 then he can't move the a8 rook but that's all
+[16:54:17] castling-companion: if Rb1, Bxd5, cx White cant use the c-File, so exd5 makes sense
+[16:55:33] funnyanimatorjimtv: how about 16.Kf2 lol
+[16:55:48] funnyanimatorjimtv: no cause then he can open the position. its good that my king can activate quickly though
+[16:56:19] castling-companion: Rb1, Bxd5, ex, Qa5, Qx, Rx, b4, axb3, ax then I need to find something
+[16:58:20] funnyanimatorjimtv: yeah black's pieces are very good maybe it's dead equal. 16.Rc2 Qa5 Qxa5 Rxa5 Bd2 Ra6 Bb4 nothing
+[16:58:35] funnyanimatorjimtv: *Ra7
+[16:59:52] inter-temporal: should white trade dsbs?
+[17:00:07] castling-companion: after axb... e6 could be good. e6, Bxc5, dx, d6 jsut Bd4+ and the pawn is lost
+[17:00:37] funnyanimatorjimtv: im not even looking for like a super active winning move im just trying to find some plan thats good and its so hard to find
+[17:00:52] funnyanimatorjimtv: maybe thats the secret, in this kind of position i should just do nothing
+[17:01:07] castling-companion: e6, dxe, Rx... yes d6 is weak, but Black is so active
+[17:02:08] castling-companion: after e6, b4, Na4 threatens Nc3 when Bd2, exd5
+[17:02:08] funnyanimatorjimtv: okay then 16.Rc2
+[17:03:09] castling-companion: nevermind
+[17:03:09] funnyanimatorjimtv: maybe white shouldnt allow black to play ...a5...a4 or maybe there is a more aggressive way of dealing with it
+[17:04:56] funnyanimatorjimtv: i dont like my time situation (20m vs 30m) so ill probably whisper less and hopefully the moves will get clearer from here
+[17:07:59] funnyanimatorjimtv: 16.Rc2 there are some drawbacks to this move like maybe there will be a recapture and then it will be harder not easier to double up
+[17:08:29] funnyanimatorjimtv: i have to get my king in the game soon, that's one thing i can do if he plays ...Qa5 and trades queens
+[17:09:30] funnyanimatorjimtv: and i dont want the Rc2 to be tied to the b2 pawn so at some point i might really have to play Bd4 and trade bishops
+[17:09:45] funnyanimatorjimtv: like if the c-file opens and i have to fight for it, i dont want b2 to be hanging
+[17:12:32] funnyanimatorjimtv: extra space is an illusion if the enemy pieces are so active. black is controlling b3,c3,d3,d4, it feels like white space is 2 rows not 4
+[17:12:47] funnyanimatorjimtv: 16...Qa5 ok
+[17:13:02] castling-companion: f5, Nf4 I nearly missed. bc Bd7 Bxc5 upsi
+[17:15:04] castling-companion: in the endgame f5 will be another story as Kf7 will protect e7 comfortably
+[17:16:05] castling-companion: Kf2 is nice bc in some lines there is Ra3 and Be3 is undefended
+[17:16:35] castling-companion: Kf8 is a nice move here ;-)
+[17:16:50] funnyanimatorjimtv: have to watch out for ...a3 b3 Nxb3 that would be a nightmare
+[17:17:05] castling-companion: I seen a Nielsen game where g4 was an issue though
+[17:17:21] castling-companion: maybe Qxd2, X, h5 first
+[17:17:51] funnyanimatorjimtv: i think Kf2 is safe but i could be proven wrong
+[17:18:21] castling-companion: Rc8 first upsi
+[17:20:08] funnyanimatorjimtv: 18.Rdxd2 and still i dont see anything productive for white on the queenside. though now i could gain space on the kingside
+[17:20:23] castling-companion: now Bxd5 makes sense, Rac8 .. I want my Rook on the a file
+[17:20:53] funnyanimatorjimtv: (18...Bxd5) big decision
+[17:22:09] castling-companion: goal of trading Qs accomplished.
+[17:23:10] inter-temporal: transformation incoming
+[17:23:56] inter-temporal: symmetric seems safer, but
+[17:24:11] castling-companion: now cx makes most sense. e7 is well protected with Kf8
+[17:25:42] funnyanimatorjimtv: ok i think 19.cxd5 Rec8 Rc4-b4 that works
+[17:25:42] castling-companion: next I need to deal with Bxc5 and WHite activity on the QS.
+[17:25:42] funnyanimatorjimtv: careful of knight checks (drawback of Kf2)
+[17:26:12] funnyanimatorjimtv: ok he played that first. now i need to stop whispering
+[17:26:12] castling-companion: after that h5, Kh7, Bh6 is the plan to trade the last piece
+[17:26:28] funnyanimatorjimtv: i can still do it
+[17:26:58] funnyanimatorjimtv: (can still play Rc4-b4)
+[17:27:43] funnyanimatorjimtv: hmm is it possible that black opens something with ...e6, no dxe6 should be good for white
+[17:29:00] funnyanimatorjimtv: if ...Be5 then i guess i should play g3
+[17:29:15] castling-companion: idk why he allows b5... bc b5, Rb4, Rb8 and Na6 comes
+[17:29:15] funnyanimatorjimtv: well now the Rc4 protects e4 so i can play f4 immediately (soon!)
+[17:30:01] funnyanimatorjimtv: no i dont think i should play f4 yet
+[17:30:01] funnyanimatorjimtv: ok ...b5
+[17:31:32] funnyanimatorjimtv: ok my Rb4 still guards b2 so i can use the other one to attack
+[17:31:47] funnyanimatorjimtv: wait no Rb4 Na6
+[17:32:02] funnyanimatorjimtv: 20.Rb4 Rb8 Rc2 Na6
+[17:34:34] funnyanimatorjimtv: nooooo ...b4...b3 is coming
+[17:36:51] funnyanimatorjimtv: ok 21.Rcc2 Rc8 b4 axb3 axb3 he has no discovered check
+[17:38:38] funnyanimatorjimtv: 21...b4 im screwed his pieces are too strong
+[17:40:09] funnyanimatorjimtv: 22.Bd4 please hold together
+[17:40:24] castling-companion: nice! He helps me trade, now Black has winning chances
+[17:40:54] castling-companion: now prob Rb8 first bc he will trade them anyway
+[17:40:54] funnyanimatorjimtv: im hoping that i can eventually capture his pawn on b3 with the light squared bishop
+[17:41:25] castling-companion: and b3 needs to be checked too
+[17:43:12] castling-companion: b3 might win the exchange, but the DSB would be super strong then
+[17:44:13] funnyanimatorjimtv: 22...b3 axb3 Nxb3 Bxg7 Nxd2 Bc3 Nb3 Bxa5 Nxa5 Bb5 Rb8 Bxa4
+[17:44:43] castling-companion: but maybe f5 tactics now... f5, Bx, Kx, e5, b3!, ax (forced), Nx, Rd1, dxe5 wins
+[17:45:28] funnyanimatorjimtv: then ...Rb4 Bd7 Nc4 b3 Na5 and black gets the pawn back
+[17:45:44] funnyanimatorjimtv: he probably wont do that he's going to try to rush the pawns through right now and win something
+[17:47:00] funnyanimatorjimtv: but his time is decreasing (5m vs 10m)
+[17:48:31] funnyanimatorjimtv: i also want to play Ke3 soon but i cant do it immediately cause of ...Bh6+! f4 e5 dxe6 Nxe6
+[17:49:32] funnyanimatorjimtv: if i can play Bb6 the bishops are nice but they dont win anything yet
+[17:49:32] funnyanimatorjimtv: i need to prepare for more defense cause he must be calculating something
+[17:50:33] funnyanimatorjimtv: yep... 22...a3 b3(?) Nxb3 axb3 Bxd4+ Rxd4 a2 wins
+[17:51:03] funnyanimatorjimtv: not necessarily, i can sac the rook then take b4 and it might be a draw. maybe he doesnt want that
+[17:52:50] funnyanimatorjimtv: 22...b3 axb3 axb3 Rc3 Ra2 then what... losing??
+[17:53:21] funnyanimatorjimtv: ok
+[17:53:21] castling-companion: I am sure there was something betetr I didnt find it
+[17:54:21] castling-companion: f5, Bx, Kx, Rd4, Rb8, Rf4, Kg6 holding the pawn. somehow I got scared of Bd3, but Nxd3
+[17:54:21] funnyanimatorjimtv: (23.Rc4) ok yeah maybe 23...Rb8 was to protect the b4 pawn so now i put more pressure on it
+[17:54:52] castling-companion: now b3 wins no?
+[17:55:07] funnyanimatorjimtv: now ...b3 is not a threat but wait a3 might be one now! noooo
+[17:55:37] castling-companion: b3, ax, Nx, Bxg3, Nxd2, Bc3, Nxc4! wins
+[17:55:52] funnyanimatorjimtv: cause i dont have a rook to sacrifice on a2: 23...a3 b3 Nxb3 axb3 a2 Rxa2 Rxa2 and i cant take on b4
+[17:56:38] funnyanimatorjimtv: 23...a3 what do i do i have to take it
+[17:56:53] funnyanimatorjimtv: or i can let him take it
+[17:56:53] castling-companion: missed a3 ufff
+[17:57:08] funnyanimatorjimtv: but if i let him take it then ...b3 crashes through
+[17:57:54] funnyanimatorjimtv: cant play Bb1
+[17:57:54] castling-companion: ofc not axb3?? but just a3 is fine then my pawns are on LS and he has a lsb
+[17:58:09] funnyanimatorjimtv: *Bd1
+[17:58:55] funnyanimatorjimtv: hang in there little guy (a2)
+[17:59:41] funnyanimatorjimtv: wait hold on am i okay after
+[18:00:11] castling-companion: need to keep Nb3 cheapos in mind
+[18:00:26] funnyanimatorjimtv: 26.Rc3 maybe??!?!
+[18:01:27] funnyanimatorjimtv: even if i survive the next few moves i am still on defense and black's king is getting in fast (or is it?)
+[18:01:57] castling-companion: dont want g4 by white
+[18:02:12] castling-companion: also Rb2-Ke3- f4 is a trick
+[18:02:43] castling-companion: now d5 becomes weak
+[18:03:13] castling-companion: my e7 pawn can be easily defended with Kf6 and the king can enter QS via- f6- e5 etc
+[18:04:14] castling-companion: Ra5 stands bad now, prob Ra4 next makes sense
+[18:04:14] funnyanimatorjimtv: 28.Bd1 this is ugly
+[18:05:15] funnyanimatorjimtv: wait i could have played 28.Rcc2 then Bc4
+[18:06:46] castling-companion: dont see any threats atm, so I improve
+[18:07:01] funnyanimatorjimtv: if any position is going to blunder it's white
+[18:08:17] castling-companion: idk about Rb2 but no need to rush
+[18:08:33] funnyanimatorjimtv: maybe i can survive if one pair of rooks is traded cause then he has to babysit a3
+[18:08:48] funnyanimatorjimtv: and the Bd1 guards against ...Nb3
+[18:09:18] castling-companion: now the f4 trick I think
+[18:09:33] funnyanimatorjimtv: but he can just leave that rook on b2
+[18:09:33] castling-companion: f4, Ke2, Rx, Kx, Ke5
+[18:10:04] funnyanimatorjimtv: and he can start playing ...Ke5 and i cant move anything
+[18:10:34] funnyanimatorjimtv: cant play Rxa3 cause of ...Rxa3+ check
+[18:10:50] castling-companion: missed Re3
+[18:10:50] funnyanimatorjimtv: 33.Re3+ ok this is changing now
+[18:11:35] castling-companion: oh, I should have played f4 then, so no Re3
+[18:11:50] castling-companion: thats why i missed it, thinking i am still in the f4 line
+[18:12:51] funnyanimatorjimtv: ok this is crazy
+[18:13:21] funnyanimatorjimtv: no he can stop the h-pawn
+[18:13:37] funnyanimatorjimtv: i mean block me from capturing his a-pawn
+[18:13:52] castling-companion: I got the bad bishop vs good knight scenario now
+[18:14:07] castling-companion: issue is a3-- so maybe Nd7-Ne5-Nc4 in the future somehow
+[18:14:38] funnyanimatorjimtv: can he?
+[18:14:53] funnyanimatorjimtv: lets try it
+[18:14:53] funnyanimatorjimtv: oh
+[18:16:09] castling-companion: with Nd7, Re6+, Kf7, Rh6, Kg7 its a perpetual
+[18:16:24] funnyanimatorjimtv: 34.Be2 precise
+[18:17:10] castling-companion: didnt think Rb5 was a threat
+[18:17:40] funnyanimatorjimtv: in some universes 35.g3 could be the losing move
+[18:18:11] funnyanimatorjimtv: thats endgames for you
+[18:19:12] funnyanimatorjimtv: well now he can take the d5 pawn and trade for the a3 pawn, we'll see which pawn is stronger
+[18:19:42] castling-companion: idea- Nd7- Nb7 or Ne5.... if Nd7, f4, Nc5 back
+[18:19:42] funnyanimatorjimtv: 36.Kc3?? f4
+[18:19:42] castling-companion: also Nf6 with pressure on d5
+[18:20:12] funnyanimatorjimtv: wait that might be really good: Rc3-c4
+[18:21:13] castling-companion: Bd3, f4
+[18:21:44] funnyanimatorjimtv: now is it safe to play f4?
+[18:21:59] castling-companion: "always repeat" for time
+[18:22:29] funnyanimatorjimtv: scared
+[18:23:30] funnyanimatorjimtv: i dont want to lose on time maybe we should just repeat
+[18:24:31] castling-companion: ok, so Nd7 now?
+[18:24:31] schittering06: (39.Rc3) Nerve wrecking to watch, let alone play!
+[18:24:46] castling-companion: if Rc8 for Rh8 just Nf6 always covers h7 pawn
+[18:25:17] castling-companion: so h6 doesnt make much sense, although its on a dark square, and he has lsb
+[18:25:32] funnyanimatorjimtv: i want Kc3-b4 but he has Ra4+ and that can be prevented with Bd1 but that allows Rb5
+[18:25:32] funnyanimatorjimtv: so i'm kind of at a dead end
+[18:25:47] castling-companion: do i want my rook somewhere else?
+[18:26:33] castling-companion: maybe bc of Kb3-Kb4 when Nd7 in some lines
+[18:26:48] funnyanimatorjimtv: hey this Bb5 is really good he can't use the 4th or 5th ranks and it protects d5
+[18:27:18] funnyanimatorjimtv: wait noooo did i just fall for a trap
+[18:27:34] castling-companion: now this is problematic
+[18:27:34] castling-companion: Bc4 still
+[18:28:04] castling-companion: Rb2 wins I hope
+[18:28:34] funnyanimatorjimtv: that was a huge wakeup call
+[18:29:05] castling-companion: at some point I sac my knight and my KS pawns run
+[18:29:05] funnyanimatorjimtv: ok now i definitely get a2 and its protected by the bishop so my rook is free but my kingside is so weak
+[18:29:20] funnyanimatorjimtv: he can try to push on the kingside but he will be distracted by the a-pawn
+[18:29:50] funnyanimatorjimtv: (43.Rxa3) he hung in there!!! (a2 pawn)
+[18:30:05] castling-companion: f4, Ne4
+[18:30:51] funnyanimatorjimtv: (43...Rg2) this is ugly
+[18:30:51] castling-companion: i dont think I played the ending well
+[18:31:06] castling-companion: I allowed to much counterplay here
+[18:31:36] castling-companion: I need to look at my teams point, so I know if a draw is enough, just in case
+[18:31:52] funnyanimatorjimtv: 44.f4 ok i think this delays him the longest
+[18:32:37] funnyanimatorjimtv: 45.Bb5 covers e8 so his king can't get in the square of my a-pawn
+[18:33:23] funnyanimatorjimtv: his knight will be distracted maybe i can park the bishop on e6 and walk the king to the kingside secure a draw
+[18:33:38] castling-companion: h5 first bc of Be6 ide3as
+[18:33:53] castling-companion: h5, Bd7, Rd2+
+[18:34:08] castling-companion: now Rxd5 would run into Bc4 cheapo
+[18:34:08] funnyanimatorjimtv: wait just realized he can take with the knight...
+[18:34:24] castling-companion: h5 Ra8 tho
+[18:34:39] castling-companion: then Nxg3 ufff, I am too slow here
+[18:35:09] castling-companion: now Ra8, Nc3 I am way too slow ;-)
+[18:35:09] funnyanimatorjimtv: (46.ra8) nooo
+[18:36:25] funnyanimatorjimtv: i can still fight
+[18:37:26] castling-companion: Rh2 seems best to convert
+[18:37:26] castling-companion: I take d5 and safc the knight then
+[18:37:42] funnyanimatorjimtv: he can give up the h-pawn and defend his 3 central pawns
+[18:38:12] funnyanimatorjimtv: ok maybe he is still nervous
+[18:40:29] funnyanimatorjimtv: (52.a7) ?!?!?!
+[18:40:44] schittering06: No way!!!
+[18:40:44] kayrosas: 52...Nb6 Rb8 Ra2
+[18:41:00] kayrosas: probably still won?
+[18:41:15] schittering06: I guess win extra pawn it is still won though
+[18:41:15] castling-companion: missed Kb1 upsi
+[18:41:15] kayrosas: 2 of them in fact
+[18:41:30] schittering06: But now the game gets a little more interesting
+[18:41:30] schittering06: Oh yes fair
+[18:41:45] kayrosas: funny, I thought about 53.Kb1 too, but Kxh8 ofc
+[18:42:31] castling-companion: have done a terrible job in converting this
+[18:43:32] funnyanimatorjimtv: (53.Re8) lets try this
+[18:44:18] funnyanimatorjimtv: im trying to get one move to play Kb1 then ill play Rb8
+[18:44:33] kayrosas: now 55.Kb1 is a threat I think so need Ra2
+[18:45:49] bxvrc2lh: not sure why black was thinking there...
+[18:46:04] bxvrc2lh: and not sure why white didn't pick up a knight... I mean what was the idea?
+[18:46:04] castling-companion: got really luck
+[18:46:35] kayrosas: maybe thought they have more chances here
+[18:46:50] bxvrc2lh: maybe :)
+[18:46:50] kayrosas: RvR with 2 extra pawns or RNvR with 2 pawns each
+[18:47:05] funnyanimatorjimtv: (55.Rxh5) we can do this
+[18:47:05] bxvrc2lh: black still have extra pawn but with knight
+[18:47:35] kayrosas: oh i forgot f5 could just be defended
+[18:47:35] funnyanimatorjimtv: (55...Ke6) never mind thats a good move my rook has no targets now
+[18:47:50] castling-companion: now I wont skrew it up. But a great game from my opponent!
+[18:48:51] funnyanimatorjimtv: can still try to exchange lots of pawns
+[18:49:52] castling-companion: ok thought fxg, Rb5, Rxa7, Rxb6, Ra4 is just winning
+[18:50:53] castling-companion: even Ra4 was possible, no f5 cheapos
+[18:51:08] castling-companion: but cutting the king makes most sense
+[18:52:24] funnyanimatorjimtv: guess theres always possibility of stalemate
+[18:52:39] castling-companion: even Kf5, Rg5+ is winning I think
+[18:53:40] funnyanimatorjimtv: 61.Rh4 Kf5 Rh2 Rxh2 stalemate lol
+[18:54:41] castling-companion: need to watch out for stalemat, but Rf5+, Nx
+[18:55:11] funnyanimatorjimtv: (63...Nxf4) is it rude to play on further? he's probably not going to fall for anything
+[18:56:12] funnyanimatorjimtv: personally i would enjoy pushing 2 central pawns to victory with the help of a knight
+[18:56:58] castling-companion: i play Re2 and run my d-pawn, if Rf8 and Rxf4--- 2 pawns are winning
+[19:00:45] castling-companion: 70.Ne6, Rxd5, Nc3+ is the thought prozess after a long game ;-)
+[19:01:16] funnyanimatorjimtv: still fun to try to find things
+[19:02:02] kayrosas: 74...Ra2+ is ruthless lol
+[19:02:17] kayrosas: gg
+[19:02:17] jfiras: gg !
+[19:02:17] schittering06: gg
+[19:02:17] castling-companion: GG!
+[19:02:32] funnyanimatorjimtv: gg that was really fun!
+[19:02:47] funnyanimatorjimtv: wow great we both whispered a lot! does anyone have the full chat?
+[19:02:47] castling-companion: @FunnyAnimatorJimTV really enjoyed it
+[19:03:18] castling-companion: oh no, the chat gets deleted ;-(
+[19:03:33] castling-companion: I basically preditcted moves in the game :-(
+[19:03:33] kayrosas: https://github.com/lichess4545-logger/4545_chat_history
+[19:03:33] kayrosas: should have the chat in some time
+[19:03:48] castling-companion: @Kayrosas ty!
+[19:04:03] castling-companion: Hope you guys enjoyed our comments!
+[19:04:18] funnyanimatorjimtv: thanks!
+[19:04:18] kayrosas: not sure how often it updates. inter showed me recently
+[19:04:33] castling-companion: thanks again FunnyAnimator for the game!
+[19:04:49] funnyanimatorjimtv: Thank you you too!
+[19:07:05] castling-companion: @FunnyAnimatorJimTV Do you want to analyze in a lichess study?
+[19:31:21] funnyanimatorjimtv: Yes
