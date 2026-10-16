@@ -1,0 +1,69 @@
+Lichess game chat log
+Game      : https://lichess.org/G9YCrNtz
+White     : king_hunter-1
+Black     : drgarras
+Time      : 45+45
+Captured  : 2026-10-16 17:52:46 UTC
+Game ended : 2026-10-16 16:32:40 UTC
+Messages  : 59
+────────────────────────────────────────────────────────────
+
+[15:03:09] rolihlahla: go kH!!
+[15:30:16] invinci7777: nxd6 works?
+[15:30:16] rolihlahla: 17. Nxd6 here ??
+[15:30:31] mrmatt96: Looks like it
+[15:31:32] mrmatt96: Well, hold on. 17.Nxd6 Rcd8 and there are at least some tricks to calculate
+[15:31:32] king_hunter-1: 16...Rac8 maybe i should go 17.Nxd6
+[15:32:18] rolihlahla: i guess he has to worry about were the N goes from there - but he has pressure on f7 as well
+[15:32:33] rolihlahla: that's what we were thinking  :-)
+[15:32:48] rolihlahla: it will make it exciting pretty fast
+[15:33:19] invinci7777: yeah definitely needs some calculations
+[15:34:35] mrmatt96: Probably just 18.Nf5 Nxf5 19.exf5 and White can hold the bishop with c4 if needed, and Black is a move too slow for ...b5 to matter.
+[15:34:50] mrmatt96: Some risk it all dissolves to an oppo-B ending though, and White doesn't really have winning chances
+[15:35:21] invinci7777: but what if nf5 rxd5
+[15:35:36] mrmatt96: Nxe7+
+[15:35:51] invinci7777: ah yes
+[15:38:38] invinci7777: what you will play after nf5 nxf5 ef b5
+[15:38:53] mrmatt96: axb5 axb5 Qb3, I think
+[15:39:23] invinci7777: ok yeah that seems good
+[15:40:09] mrmatt96: and if ...Qc5 then c4 b5 axb5 axb5 b3 preserves the pawn, though again I'm a little skeptical about White's winning chances there
+[15:41:09] invinci7777: still worth it imo
+[15:41:40] rolihlahla: Nxd5 Nxd5 looks tricky as well
+[15:41:55] mrmatt96: I guess the question is whether there are compelling alternatives for White
+[15:42:10] rolihlahla: Nxd6 Nxd5 i mean  :-)
+[15:42:25] king_hunter-1: 17.Nxd6 Nxd5 18.Qxd5 Rcd8 19.Rad1 Be7 20.Qxb7 Bxd6 21.Qxa6 maybe three pawns good for me
+[15:42:55] mrmatt96: Well that answers that question. Good timing
+[15:43:26] jfiras: Good luck hunter !
+[15:44:11] rolihlahla: :-)
+[15:45:42] mrmatt96: ...Nxd5 Nxc8 Nf6 and I don't see any good tricks for White
+[15:46:58] invinci7777: yeah nxc8 doesnt work as knight gets trapped
+[15:47:13] timothyha: Free pawn on d6?
+[15:47:43] rolihlahla: Maybe...
+[15:47:58] rolihlahla: Maybe not :-)
+[15:49:29] invinci7777: no other options anyways
+[15:50:15] invinci7777: makes 16 nc4 looks silly if dint had nxd6 in reponse to rac8
+[15:51:00] kayrosas: also if no Nxd6 what then?, Nxd5 is threatened
+[15:51:31] mrmatt96: 17.b3 looks ridiculous. 17.Bxb7 can't be enough
+[15:52:16] kayrosas: but Nxd6 also doesnt seem convincing after Nxd5
+[15:54:02] kayrosas: 17.Na3 as ugly as it looks maybe
+[15:56:03] rolihlahla: guess he is going for the three pawns vs a bishop
+[15:56:18] kayrosas: always fun when we get to see how the critical line plays out :o
+[15:57:34] scarff: Oh, fun game! Good luck Artur!
+[16:00:36] king_hunter-1: 17.Nxd6 Nxd5 18.Qxd5 Rcd8 19.Rfd1 Be7 20.Qxb7 Bxd6 21.Qxa6 maybe 21...Be7 22.Rxd8 Rxd8 and 23.a5 - Qb5 a6-a7
+[16:03:53] king_hunter-1: 21...Bc5 i dont think it good move, maybe i should go 22.b4
+[16:11:12] king_hunter-1: (22...Ba7) 22...Be7 was better i think. Now i can go c4
+[16:14:14] king_hunter-1: 23...Bd4 oh, i miss this
+[16:15:14] timothyha: (23...Bd4) Rab1 looks alright
+[16:15:45] timothyha: (23...Bd4) and then f5 happens, I guess
+[16:18:31] kayrosas: or Ra8 and Rfb8
+[16:19:32] kayrosas: white queen is quite misplaced
+[16:25:35] scarff: Looks like it is going blacks way. Maybe somehow this is still possible to draw?
+[16:25:51] scarff: But feels like black is the only one with chances to win now
+[16:26:06] mrmatt96: Except White has nowhere to put the queen
+[16:29:38] mrmatt96: ...h6 looks resignable
+[16:32:40] king_hunter-1: gg
+[16:32:55] kayrosas: gg
+[16:32:55] mrmatt96: gg
+[16:33:10] rolihlahla: Gg to both
+[16:33:40] king_hunter-1: 17...Nxd6 was very bad move
+[16:36:11] invinci7777: gg
