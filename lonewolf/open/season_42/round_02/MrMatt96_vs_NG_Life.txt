@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/qe40mNqY
+White     : mrmatt96
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-10-16 16:14:46 UTC
+Game ended : 2026-10-16 14:54:39 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[13:39:45] ng_life: 11... Qb6 this is my prep, appears around 15ish times in masters DB. Engine eval equal, best move for white Qg4
+[13:40:00] ng_life: 11...Qxe5 would have been a serious mistake, engine eval +1.2 for white
+[13:40:31] ng_life: 12... h5 per my prep, f5 more common in master db but engine prefers this h5 idea which I studied
+[13:42:32] ng_life: 13. Qf4 is best and I looked at this, Qg3 would have been okay but gives black a small edge (-0.3)
+[13:44:49] ng_life: 14. be3 I am now out of prep-ish, I don't remember what to play here
+[13:48:37] ng_life: I guess Qxb2 nb5 bxb5 rfb1 Qc3 bxb5+ nc6 rxb7... doesn't look great for black?
+[13:50:08] ng_life: g5 looks crazy but maybe possible because g5 Qxg5 bh6 bxb6 bxg5?
+[13:50:54] ng_life: man I never saw g5 in my prep, but I like it. Should I bet the farm on g5? If it fails I just lose but...
+[13:52:10] ng_life: never mind g5 fails to g5 Qxg5 bh6 Qxh6 rxh6 bxb6
+[13:55:12] ng_life: 14... Qd8 I should remember g5, it might work later
+[14:02:32] ng_life: 15. bc5 my first instinct is nc6 and g5 is ready, but I guess I could also g6 here if I want.
+[14:03:33] ng_life: I guess the idea is nc6 bxf8 kxf8 bg6... which indeed looks good for white
+[14:03:48] ng_life: however, I wonder if rxf8 is possible since there's no current threat on h5
+[14:04:49] ng_life: e.g. nc6 bxf8 rxf8 Qg5 not possible because my Q defends g5 after nc6
+[14:05:35] ng_life: alternatively g6 bd6 and... I don't know. I like nc6 more, let's go with that.
+[14:06:05] ng_life: I guess I should analyze nc6 bd6 though because if bxd6 nc7 becomes a threat
+[14:06:51] ng_life: so if 15... nc6 bd6 bxd6 exd6 I need something to immmediately stop nb5 bc7 as his next moves
+[14:09:38] ng_life: so what about nc6 bd6 bxd6 exd6 g5 -queen has no squares on 4 rank so that should work
+[14:09:53] ng_life: although I actually need g5 before bxd6 so Q doesn't have e5
+[14:15:11] ng_life: 16... g5 I think I can interpose this and then kxf8 bg6 Qe7 nb5 kg7?
+[14:18:43] ng_life: it's worth noting I have some threats like e.g. Qf3 kxf8 bg6 Qd7 nb5 nd4! if Qe3 nc2 fork
+[14:23:17] ng_life: 17. Qe3 small surprise for me but should be a good move.
+[14:30:06] ng_life: (20) had to give the pawn back but hopefully stablized now.
+[14:32:54] ng_life: (22) maybe spoke too soon, now I think ne7 was a mistake, this looks bad for black now
+[14:37:27] ng_life: 23... bxh5 I really wonder if nf5 is possible, because e.g. nf5 nxf5 Qxf5 Qh4! what does he do?
+[14:37:42] ng_life: let's try that
+[14:55:24] ng_life: I think 18... ne7 was a huge blunder by me @MrMatt96
+[14:55:24] ng_life: there should have been a better continuation
+[14:55:39] ng_life: after g5 I thought the position was interesting but balanced, what did you think?
+[14:56:40] mrmatt96: I agree that 18...Ne7 was probably the decisive mistake.
+[14:56:55] mrmatt96: After ...g5 it felt like the sort of position where the engine says equal-ish but Black really struggles practically.
+[14:57:26] ng_life: g5 was maybe too exciting way to play, I sort of did it spur of the moment when I saw I could play it
+[14:58:11] mrmatt96: What was the concept with ...g5? I recognized it was possible but didn't see the point
+[14:58:57] ng_life: okay so my thought was if I played kxf8 you would be looking to play bg6 at a good moment, so I was looking at Qf3 more than Qe3
+[14:59:12] ng_life: because I thought you would want to stay lined up with king
+[14:59:27] mrmatt96: Ah, I see. I was more interested in aiming at g5 (and to a lesser extent b6)
+[14:59:42] mrmatt96: Wanted to play f4 after ...g5 at some point, but I didn't love some lines with ...Qb6+
+[14:59:58] mrmatt96: May have been jumping at ghosts though
+[15:00:43] ng_life: with the Queen on f3 I have many threats like nd4 at opportune moment, but after Qe3 I realized it was probably just equal
+[15:00:43] ng_life: then I blundered immediately
+[15:01:13] ng_life: I don't think f4 works, the way you played is definitely better
+[15:01:13] mrmatt96: What would have been the alternative to 18...Ne7?
+[15:01:59] ng_life: well all you're threatening is the b pawn so I could just play anything, e.g. maybe some kingside move nd6 then just defend b pawn
+[15:02:14] ng_life: there's no mate threat from nd6 because your Q is off file
+[15:02:14] ng_life: I overreacted to nd6 I think, very dumb, and blundered and fell apart
+[15:02:44] mrmatt96: It's a tough position to play for Black. Lots of threats, lots of ways for it to collapse
+[15:02:44] mrmatt96: I was pretty happy to see this ...a5 line.
+[15:02:59] mrmatt96: Fun for White, though objectively not much
+[15:03:45] ng_life: I'm looking at the engine a little and it says black is better -0.5 if 16... kxf8 - interposing g5 gives white an edge instead +0.6
+[15:04:15] ng_life: so from g5 I started to go awry
+[15:05:16] mrmatt96: Feels about right. Still some comp after ...Kxf8, but tough to prove anything
+[15:05:31] mrmatt96: Basically White just sustains pressure as best as possible and hopes for something to break
+[15:05:31] ng_life: I was overly worried maybe, I felt you had all the attack and I had little play just defending
+[15:06:02] mrmatt96: (Isn't that just the life of a French player...?) (Jk)
+[15:06:17] ng_life: yes it is, no jk needed haha
+[15:06:32] ng_life: so I should have played in French style and only cared that I was up a pawn and defend defend defend from there
+[15:06:47] mrmatt96: Philosophically, yeah, probably
+[15:07:18] ng_life: should we turn on engine analysis?
+[15:07:33] mrmatt96: Alright
+[15:08:33] ng_life: yeah g5 was not a good idea, too enterprising
+[15:08:48] ng_life: thank you for the educational game and analyzing with me @MrMatt96 , all the best to you in your next matches
+[15:09:04] mrmatt96: Thanks, good luck with the rest of the season
