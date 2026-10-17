@@ -1,0 +1,170 @@
+Lichess game chat log
+Game      : https://lichess.org/cOxXodCo
+White     : airini_h
+Black     : ttotr
+Time      : 45+45
+Captured  : 2026-10-17 03:10:27 UTC
+Game ended : 2026-10-17 01:50:21 UTC
+Messages  : 160
+────────────────────────────────────────────────────────────
+
+[23:19:15] kygreek: Hi all.  Go TTotr!
+[00:31:50] rabbier: Go airini!
+[00:53:41] nyanners: the only thing black had was that bishop. ng4 actually great
+[00:57:30] bufferunderrun: let's go aiRini_h!
+[01:01:18] bufferunderrun: Idk, b5 looks bad to me
+[01:02:34] nyanners: umm yea difficult to comment on that move
+[01:02:34] bufferunderrun: I wonder if 34.cxb6 and Rd3 just ends it
+[01:03:05] nyanners: like, however white reacts to b5, it all looks terrible
+[01:03:05] nyanners: id take because feels like things should move faster that way
+[01:03:20] nyanners: or you could just play Rd3 now
+[01:03:35] nyanners: that seems winning by default
+[01:03:50] bufferunderrun: yeah, I'm looking at this as well
+[01:04:36] nyanners: so okay, can white throw somehow with an untimely f5
+[01:04:51] nyanners: i suppose not in normal-looking lines
+[01:05:37] nyanners: white goes for Kxh5 and black gets an e5 opportunity..
+[01:06:38] bufferunderrun: you can surely Kf3 and g4, what's black is going to do?
+[01:06:53] nyanners: no yeah thats the most clear win
+[01:07:08] nyanners: just trying to see how white doesnt win
+[01:07:24] nyanners: thats how you keep hopes up in lost positions :o
+[01:08:24] nyanners: 35..Kd6 Rd3 Kc6 =
+[01:08:24] nyanners: kappa
+[01:08:40] nyanners: e5 seems less resilient
+[01:08:55] bufferunderrun: yeah, e5 simplified this for white
+[01:09:41] bufferunderrun: like fxe5 Rd3 and you go after the pawns
+[01:09:56] nyanners: yea i liked rd3 a lot
+[01:10:11] nyanners: this may be less clear
+[01:10:26] bufferunderrun: this works too, I guess
+[01:10:42] bufferunderrun: pawns drop
+[01:10:57] nyanners: some potential weird business
+[01:11:12] nyanners: like, you take e5, Rc1-Rc4-Rg4
+[01:11:28] bufferunderrun: perhaps
+[01:11:43] bufferunderrun: swapping the rooks seemed easier indeed
+[01:12:29] nyanners: no real choice? like not Kc2 Rg1
+[01:13:14] bufferunderrun: Rg1 seemed like the only try
+[01:13:14] nyanners: kd3 better than my kb2 reflex
+[01:13:30] nyanners: oh that
+[01:13:45] nyanners: yea a bit annoying
+[01:14:15] nyanners: may have to transpose due to Rb3+ Rxg3
+[01:15:01] nyanners: id actually be slightly hopeful as black here :o
+[01:15:17] nyanners: probably insanity but still
+[01:15:47] bufferunderrun: I was looking at Re6+ and Kc3
+[01:16:02] nyanners: yea im not 100% on this line at all
+[01:16:33] nyanners: take and swing back to c4 and looks like a number of drawn ones in the horizon..
+[01:17:34] nyanners: no okay still not c4. but the rook is very active
+[01:17:34] nyanners: you cant take h5 can you
+[01:18:04] nyanners: need Rxb5
+[01:18:04] bufferunderrun: you can take on c4 though
+[01:18:20] bufferunderrun: I mean if black goes for Rc4
+[01:18:20] nyanners: no yeah Rc4 was a bad idea
+[01:18:20] nyanners: optical illusioned myself
+[01:18:35] nyanners: but active rook is good
+[01:18:50] bufferunderrun: now h5 falls
+[01:19:05] bufferunderrun: and rip
+[01:19:05] nyanners: is h5 for g2 fine
+[01:19:36] nyanners: i think it might
+[01:20:52] nyanners: yea Kc7 seems good. dont want to lose a tempo in Rd6+ Rb6
+[01:21:07] nyanners: now Rc4 tho
+[01:21:23] nyanners: amazing save
+[01:21:23] bufferunderrun: you are not forced to take :p
+[01:21:38] nyanners: yea but then its draw
+[01:21:38] nyanners: oh Rh4
+[01:21:38] nyanners: okay
+[01:21:53] nyanners: Rf4 better
+[01:22:24] nyanners: im so tired
+[01:22:39] bufferunderrun: same, it's 3am here
+[01:23:09] nyanners: Rc3 is very nice
+[01:25:57] nyanners: id be feeling a bit stuck
+[01:26:12] nyanners: Rd4 and see if black chooses wrong like Kc6
+[01:27:28] nyanners: okay fair
+[01:27:44] nyanners: g4?
+[01:27:59] nyanners: no then Rc4 actually works
+[01:28:14] bufferunderrun: Kxh5 I guess
+[01:28:14] nyanners: if you bite the bullet that seems like draw
+[01:29:00] nyanners: black just keeps the rook on b
+[01:29:46] nyanners: Rb3 Kc6-Kc7
+[01:31:02] bufferunderrun: maybe Kg2 instead of 48.Kh4
+[01:31:17] nyanners: yeahhh maybe
+[01:31:32] nyanners: like okay you need the king close there
+[01:32:33] nyanners: umm white could have hope if the king can actually cross over
+[01:32:33] nyanners: point of Rb3 was to never allow the king to sneak in
+[01:33:34] nyanners: while keeping an eye on the b-pawn
+[01:33:49] nyanners: okay so g5 or g3..
+[01:34:05] nyanners: i feel i want g3. king to c3 somehow so the rook can go to b6
+[01:34:20] bufferunderrun: Kg5 Rc4 Rf4 and bring the king closer, if it does anything
+[01:34:35] nyanners: this one is like okay, maybe you get check on the seventh and somehow make the c-pawn count
+[01:34:50] bufferunderrun: probably, if white can get to d5
+[01:35:06] nyanners: yea i think you can revert to the Rb3 plan
+[01:35:21] nyanners: black seems too tunneled on Rc4
+[01:35:36] nyanners: it IS very attractive :o
+[01:37:53] bufferunderrun: if Kc6 later, I don't quite see how to avoid checks on the first and get the rook check on the 6th
+[01:38:09] nyanners: yeah again, i think its Rb3 Kc6-Kc7
+[01:38:54] nyanners: there may still be time :o maybe none of this matters
+[01:38:54] nyanners: but it will matter soon
+[01:39:09] bufferunderrun: 56...Kc6 or game over I guess
+[01:39:25] nyanners: id play Rb1
+[01:39:40] nyanners: no
+[01:39:40] nyanners: yea
+[01:39:40] nyanners: youre right
+[01:40:11] nyanners: though maybe there was a save with Rb1 Kd5 Rd1
+[01:40:41] nyanners: i guess i just would have never played Kd7 to begin with :p
+[01:40:56] bufferunderrun: maybe, hard to avoid checks and get in R on the 6th
+[01:41:12] nyanners: okay now Rb
+[01:41:42] nyanners: Rd4 Kc7 Kd5 Rb3 it doesnt matter. or does it
+[01:41:42] bufferunderrun: Idk, Rc1 seemed better
+[01:41:57] nyanners: maybe in this exact position Rc1 makes more sense
+[01:42:28] nyanners: or you dont have to react to Rd4. just Rd4 Rb3
+[01:42:28] bufferunderrun: I was thinking Ke7 and you have Rc4
+[01:42:43] nyanners: no yea that makes sense. just Trust
+[01:42:59] nyanners: Rd4 Rb3
+[01:44:15] nyanners: the only idea i see is Kd8 Re6+..
+[01:44:46] nyanners: Ke7 Kc7 i guess
+[01:45:01] bufferunderrun: too risky
+[01:45:16] nyanners: maybe youd have Ke7 Rxb4 heh
+[01:45:46] nyanners: on Ke6 i think its a tempo short
+[01:46:02] nyanners: Big Theory there
+[01:46:47] bufferunderrun: I need to study this, lol
+[01:47:18] nyanners: yknow, i went through the 100 Endgames You Must Know (allegedly)
+[01:47:18] bufferunderrun: it's like one of those endgames that you should know
+[01:47:33] nyanners: the only ones i actually think you must know are the rook ones
+[01:47:48] bufferunderrun: oof
+[01:47:48] nyanners: most other ones ive never seen in actual games before or since
+[01:47:48] nyanners: well that ends that XD
+[01:48:04] nyanners: gg
+[01:48:19] bufferunderrun: white decided it's a draw
+[01:48:34] nyanners: knight circuit also comes useful decently often i guess
+[01:48:49] bufferunderrun: I wonder if we will see the stalemate :p
+[01:49:05] nyanners: i assume a trade
+[01:49:20] nyanners: like that
+[01:49:35] nyanners: gg XD
+[01:49:35] bufferunderrun: gg
+[01:49:51] nyanners: would be incredible if black played Kc7 for swagger
+[01:50:36] nyanners: theres a (semi-)premovable technique there. always premove to the front of the pawn, then move straight back when you are forced to
+[01:50:36] nyanners: now THAT is the important knowledge
+[01:50:52] bufferunderrun: nah, Kg2 was just a draw
+[01:51:37] nyanners: guess you really needed that Rd3 after all :o
+[01:53:54] bufferunderrun: Re6+ and Kc3 apparently didn't work, but Kc3 did
+[01:54:09] bufferunderrun: I wonder what's the difference...
+[01:55:41] nyanners: which move :o
+[01:55:41] bufferunderrun: 40
+[01:56:41] nyanners: interesting
+[01:56:57] nyanners: white goes through a3
+[01:56:57] nyanners: because Rc4 is good, but Ra4 is bad
+[01:57:27] nyanners: Kc3 Rc1 Kb3 Rb1 Ka3
+[01:57:58] nyanners: now Ra1 Kb2 and we have the Rc4 vs Ra4 thing
+[01:58:28] nyanners: and well, if you dont check, you cant prevent Rxh5/Re6-Rb6
+[01:58:28] nyanners: id take the latter
+[01:59:44] bufferunderrun: no, but like 40.Kc3 Rc1 Kb3 Rb1 Ka3 Ra1 Kb2 Rg1 Re2 good, but 40.Re6 Kd7 Rd6 Kc7 Kc3 Rc1 Kb3 Rb1 Ka3 Kb2 Rg1 Rd2 isn't
+[02:00:14] bufferunderrun: what am I missing?
+[02:02:01] nyanners: ooh
+[02:02:16] nyanners: i think its actually a Rd2 vs Re2 thing
+[02:02:31] bufferunderrun: huh... 46...Re1, which isn't there in the other line and we don't have Re6+
+[02:02:31] nyanners: very funny
+[02:03:17] bufferunderrun: GM nuances  :p
+[02:03:47] nyanners: Re6+?? forcing Rd6 XD
+[02:03:47] nyanners: my precious file
+[02:04:18] nyanners: i mean if you take the Re6+ line and give white Re2 it still wins so
+[02:04:48] nyanners: but its extra nice when Re6 is going to be check too
+[02:05:19] bufferunderrun: anyways, all of this would have been avoided with Rd3
+[02:05:34] nyanners: yes XD
+[02:05:49] nyanners: great hold from b
