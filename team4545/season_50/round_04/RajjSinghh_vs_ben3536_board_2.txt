@@ -1,0 +1,98 @@
+Lichess game chat log
+Game      : https://lichess.org/Dj9QUhW2
+White     : rajjsinghh
+Black     : ben3536
+Time      : 45+45
+Captured  : 2026-10-17 22:08:22 UTC
+Game ended : 2026-10-17 20:48:19 UTC
+Messages  : 88
+────────────────────────────────────────────────────────────
+
+[19:02:37] rajjsinghh: this is a really curious choice because he isn't a Najdorf player and I am
+[19:03:07] rajjsinghh: So I guess I just play what makes me uncomfortable and he will slip up?
+[19:06:25] ben3536: hi kayrosas
+[19:06:40] ben3536: hi nyanners
+[19:06:40] kayrosas: hi ben
+[19:07:41] ben3536: lots of high rated people ready to watch me mess up the poisoned pawn
+[19:07:41] rajjsinghh: this position doesn't smell right
+[19:07:56] ben3536: very exciting
+[19:10:12] kayrosas: no idea how these work
+[19:10:27] kayrosas: is 13.Ncb5 a thing?
+[19:10:42] kayrosas: oh Qc5 exists
+[19:11:13] nyanners: najdorf poisoned pawn: one side will be -3 by move 15 and it wont matter
+[19:11:43] kayrosas: i won't ever touch this as either side
+[19:12:13] nyanners: im pretty sure ive lost a game to 13 Ne4 Nxe5 Nb5
+[19:12:13] rajjsinghh: there's a log of sacrifices looming on the e6 square
+[19:12:44] rajjsinghh: Nxe5 Nxe6 Nxc4?? Qd8 mate, and similar
+[19:13:14] nyanners: nope because fx clears f7
+[19:14:00] nyanners: see i think black is already +3
+[19:14:00] rajjsinghh: I can also castle, so Nxe6 fe Bxe6 threatens Bf7 mate
+[19:14:15] nyanners: of course Nxe5 is very very nice if possible
+[19:15:00] nyanners: this is more sane
+[19:15:00] nyanners: and also looks very strong
+[19:15:46] nyanners: but i mean, its fine. it doesnt matter
+[19:15:46] nyanners: white can win
+[19:17:17] nyanners: the main thing i learned from playing lots of games in these positions is that one should, indeed, not play them
+[19:18:17] kayrosas: oh not what I expected
+[19:18:33] kayrosas: I would've thought for 15min, concluded 14.Bxe6 doesn't work, and play it regardless
+[19:21:50] nyanners: yes incredible restraint from white :o
+[19:22:35] ben3536: i don't know how much of a hurry i should be in trying to take pieces off the board, but it seems like a lot
+[19:23:36] kayrosas: biggest hurry should be in castling I think, 15...Bc5 seems logical
+[19:24:06] ben3536: i am, however, woefully underdeveloped
+[19:24:22] kayrosas: do we get 16.Nxe6
+[19:25:22] ben3536: hopefully e6 shouldn't be too much of a pain point after i defended it for the fourth time, but who knows
+[19:26:08] nyanners: Nxe6 is tough this time
+[19:26:23] nyanners: like i thought again fxe6 but now white has O-O+
+[19:27:24] nyanners: this one feels too slow
+[19:27:54] kayrosas: maybe Rf1+ even in those lines to keep e2 protected
+[19:28:24] nyanners: maybe but o-o denies Bb4+
+[19:28:39] nyanners: just i go here they go there ultimately
+[19:28:39] kayrosas: oh i thought we take the f8
+[19:28:55] nyanners: maybe XD
+[19:29:10] kayrosas: regardless of the conclusion not a fan of white discarding it this quickly
+[19:29:40] nyanners: i feel white forgot about it
+[19:29:55] nyanners: its funny that clearly both sides were well aware of the themes on d8 and then it seems they both forgot simultaneously
+[19:30:10] nyanners: also as per black's comment
+[19:30:25] rajjsinghh: maybe Bc4 was slow here, Nxe6 may have just won on the spot
+[19:30:25] nyanners: oooooohh NOW white saw it
+[19:30:25] nyanners: clearly not earlier
+[19:30:41] nyanners: as per my theorem of similar wavelength, black should also have noticed like right about now
+[19:30:56] kayrosas: many such cases
+[19:31:26] nyanners: fortunately for black, its a bit easier now :o
+[19:32:12] kayrosas: dont like that we took c5 from our bishop tho
+[19:32:57] kayrosas: fun position to analyse :o (only as a spectator)
+[19:33:28] rajjsinghh: I'm down two pawns but it's slightly tricky for black to find a move
+[19:34:44] nyanners: something like that XD
+[19:35:44] ben3536: Qe3 g5 Bg3 Qa5 c3 Nxg3 Nxe6 Bxe6 Bxe6 fxe6 Qxe6 Be7 Rxb7 Qc5 and i think i survive that attack
+[19:38:16] kayrosas: probably
+[19:38:46] kayrosas: i want 17...Nd7 i think
+[19:39:47] kayrosas: development is usually a good way to prevent being 'unlucky' to some weird tactics
+[19:40:48] ben3536: may not need to rush, though
+[19:47:53] butterpecan: as a practitioner of old man chess, this position is giving me an anxiety attack
+[19:48:23] butterpecan: let's go, ben!
+[19:49:39] kayrosas: that's the neat thing about spectating
+[19:49:39] ben3536: Bd6 and Bc5 are lurking if white castles, so it's not clear that their king is safer than mine
+[19:56:59] gavalanche20: (18.Nf3) What a mess of a position
+[20:00:46] ben3536: overlooked Qd3 Qf5 Qd8, but luckily the knight can move backwards :)
+[20:03:33] gavalanche20: (18.Nf3) Hmmm anyway to stop Black from castling? Because if he does feels like starting to consolidate a bit
+[20:08:21] kayrosas: too weird of a position to comment on ^^
+[20:08:36] rajjsinghh: I think the position is dangerous for both of us, but I'm in practically a must win game so it must favour me
+[20:08:52] rajjsinghh: I'm also struggling to see how black meets the threat of Nd2
+[20:10:07] rajjsinghh: Nd6 was a pretty good way to meet Nd2
+[20:11:08] ben3536: Qc3 0-0 and i think i'm happy
+[20:13:09] ben3536: although Bd3
+[20:13:40] ben3536: so maybe I want to trade off the bishop first?
+[20:16:42] kayrosas: fwiw they could repeat with 21...Ne4 Qd3 Nd6 Qc3 :) but doubtful either play would let that happen
+[20:17:12] kayrosas: hanging g7 would probably be a bit much
+[20:18:43] ben3536: i don't think qxg7 works but i could be totally wrong
+[20:22:31] kayrosas: that's a big move
+[20:24:17] kayrosas: whats the idea after 22...Qe5?
+[20:36:10] ben3536: this is getting much more fun than i wanted it to be
+[20:36:40] kayrosas: so real
+[20:37:26] ben3536: everyone always says that you should castle into danger
+[20:41:14] kayrosas: oohh
+[20:44:00] nyanners: yea i hate fun personally
+[20:48:34] kayrosas: gg
+[20:51:05] rajjsinghh: yeah, mistake in the opening and that was it
+[20:59:10] nyanners: gg :o
+[20:59:25] nyanners: black did convert after all
