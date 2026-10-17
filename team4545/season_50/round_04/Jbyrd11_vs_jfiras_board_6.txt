@@ -1,0 +1,78 @@
+Lichess game chat log
+Game      : https://lichess.org/ttgzs6D2
+White     : jbyrd11
+Black     : jfiras
+Time      : 45+45
+Captured  : 2026-10-17 17:22:03 UTC
+Game ended : 2026-10-17 16:02:02 UTC
+Messages  : 68
+────────────────────────────────────────────────────────────
+
+[14:05:01] rolihlahla: go jfiras!!!
+[14:08:03] jfiras: (8.e3) i am expecting e3 d6 Qc2 Nbd7 Ne2 (or Nf3) c5
+[14:12:05] pineapplechiffoncake: go Firas!
+[14:13:36] jfiras: (9.Nf3) okay Qc2 is not that obvious at least to me, unless it is prep so i am no more expecting Qc2 since clearly my opponent is...
+[14:13:51] jfiras: (9.Nf3) out of prep, but this change nothing regarding my setup (i hope)
+[14:17:53] rolihlahla: still in the masters db at move 10
+[14:18:23] jfiras: (10.Bd3) okay i expected Bd3 as a natural developing move here, i think i have to change my approach now, all the ideas of this opening..
+[14:18:38] jfiras: (10.Bd3) turn around the e4 square, if white manages to play e4, black is in trouble
+[14:21:56] jfiras: (10.Bd3) i think c5 is still an option as it is allows cxd avoiding the 3-pawns in the center, unpinning the knight is an option too
+[14:29:00] timefork: Go jbyrd
+[14:29:30] jfiras: (10...c5) h6 should be one of the next few moves
+[14:34:18] jfiras: (10...c5) the main ideas based on few masters games i checked, Q to c7 or e7, rooks to c and e files, a possible g4, and a fight...
+[14:34:33] jfiras: (10...c5) for the center with the right breakthroughs
+[14:34:49] jfiras: (10...c5) c5 is one of them
+[14:44:09] jfiras: (11.Be2) Rd1 maybe, which is the main move based on my prep when c5 is played
+[14:44:40] jfiras: (11.Be2) okay i think h6 Qc7
+[14:46:10] jfiras: (11.Be2) generally speaking, this is the compensation of giving the bishop pair, white can't coordinate his bishops, and black castle...
+[14:46:26] jfiras: (11.Be2) early with a lead in development and well placed pieces
+[14:55:48] jfiras: (12...Qc7) if dxc it is bxc if i remember correctly
+[15:03:23] jfiras: (13.O-O) ah so Be2 was to ensure castling without Bxf3 and ruining the ks i guess, which wasn't planned, i have to keep my lsb
+[15:04:24] jfiras: (13.O-O) there is another setup with Ne4 f5 but i am afraid i am mixing ideas there and it won't work
+[15:06:10] jfiras: (13.O-O) i saw g5 in many masters games but with Ne2, not Nf3 and i wonder if it makes difference, i am now thinking about g5 Ne4
+[15:06:56] jfiras: (13.O-O) not a good idea due to the sac on g5 i think
+[15:08:12] jfiras: (13.O-O) so main candidates, Rac8, Rfe8, cxd4
+[15:08:12] rolihlahla: Ne4 first then g5 should work if thats what you want to do ...
+[15:08:42] rolihlahla: i vote Rac8  :-)
+[15:11:29] jfiras: (13.O-O) if cxd i think there is Nxd Nb5 which i don't know if it annoying or not
+[15:50:09] jfiras: (13.O-O) let's keep it simple with a6 maybe in the future
+[15:50:09] jfiras: (15.b4) maybe cxd, Ba6
+[15:50:09] jfiras: (15.b4) no there is b5
+[15:50:09] jfiras: (17.Bg3) thinking abt Ne4, idk
+[15:50:09] jfiras: (17.Bg3) i really hope i am not missing anything here
+[15:50:09] jfiras: (17.Bg3) Ne4 is so appealing
+[15:50:09] scarff: Ne4 looks really nice. Feels like a good find :)
+[15:50:09] rolihlahla: yep
+[15:50:09] jfiras: (19.Rxd7) what about Nxe4 Bc6
+[15:50:09] jfiras: (19.Rxd7) Nxe2*
+[15:50:09] timothyha: Bc6
+[15:50:09] kayrosas: 21.Rd3 and then?
+[15:50:09] kayrosas: oh nvm
+[15:50:09] timothyha: Tough in blitz
+[15:50:09] timothyha: C4 dropping.
+[15:50:09] timothyha: (22...Bxf3+) so a slight advantage for the endgame
+[15:50:09] jfiras: (22...Bxf3+) i played Bx fast, it was better to take more time there
+[15:50:09] timothyha: (22...Bxf3+) I hope Black sees c4 is dropping with cxb4
+[15:50:09] timothyha: (22...Bxf3+) it's a drawn rook endgame, but still, up a pawn
+[15:50:09] jfiras: (22...Bxf3+) seems a drawish position
+[15:50:09] jfiras: (23.Kxf3) his king is more active though and he is controlling the open file euh
+[15:50:09] timothyha: (23.Kxf3) just find cxb4 for now
+[15:50:09] jfiras: (23...cxb4) wow seems scary with two rooks on the seventh rank
+[15:50:09] timothyha: (24.axb4) you look a bit too far, but correct, that's the only danger left
+[15:50:09] jfiras: (24.axb4) but i think that's a way, a pawn is a pawn
+[15:50:09] jfiras: (25.Rxa6) idk
+[15:50:55] jfiras: (26.Rd7) i am not sure i can defend the pawn actually
+[15:52:41] jfiras: (27...Re7) oops
+[15:52:41] timothyha: (27...Re7) oops
+[15:52:41] jfiras: (28.Rxe7) ooooooooooooooh
+[15:52:56] timothyha: (28.Rxe7) what a pity
+[15:52:56] timothyha: (28.Rxe7) collapsing this late
+[15:53:11] timothyha: (28.Rxe7) Rf8 and draw
+[15:53:41] timothyha: (28.Rxe7) this match is intense so far
+[15:55:43] timothyha: (28.Rxe7) I've dropped a full rook twice in OTB matches already, in one I was winning, in one it was equal
+[15:55:43] timothyha: (28.Rxe7) can't blame Black
+[15:56:13] timothyha: (28.Rxe7) in OTB, no mouse slip, no miscalculation about f7, just forgot to defend a rook
+[15:56:43] timothyha: (28.Rxe7) but always tough to see the brain flipping after hours of good play
+[15:58:29] timothyha: (28.Rxe7) Black needs a lot of hugging today
+[16:02:17] jfiras: thanks everyone for watching
+[16:02:32] rolihlahla: gg
