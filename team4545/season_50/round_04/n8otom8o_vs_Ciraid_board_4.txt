@@ -1,0 +1,51 @@
+Lichess game chat log
+Game      : https://lichess.org/5QC5H2GF
+White     : n8otom8o
+Black     : ciraid
+Time      : 45+45
+Captured  : 2026-10-17 17:45:30 UTC
+Game ended : 2026-10-17 16:25:23 UTC
+Messages  : 41
+────────────────────────────────────────────────────────────
+
+[15:06:56] pavonine: Gogogo n8o
+[15:08:58] highonpotnuse: go ciraid!
+[15:09:13] tommeketoch: let's go ciraid.
+[15:49:58] invacuum: go ciraid brother
+[15:49:58] bpack: Go Ciraid!
+[15:49:58] n8otom8o: (12. Rfe1) If Nf4 then Bf2 followed by Ne2.
+[15:49:58] joonaf: Go Ciraid!
+[15:49:58] giziti: (12...Nc5) i feel like b4 is coming
+[15:49:58] giziti: (14...f5) exf5 gxf5 Nxe5 picks up a pawn, so I guess Rxf5 is planned?
+[15:49:58] giziti: (14...f5) or is there a followup to Bxe5 Bxh5 I'm missing?
+[15:49:58] n8otom8o: what if exf5? they must retake with pawn? or else g4 fork?
+[15:49:58] giziti: (14...f5) I guess after Bxe5 Bxh5 Nd4 is maybe too many open lines on the king and the light squares are weak?
+[15:49:58] giziti: (15.exf5) or maybe ...f4 is strong
+[15:49:58] giziti: (15...gxf5) Nxe5 Bxe5 Bxh5 f4 might be annoying
+[15:49:58] n8otom8o: does Nxe5 win a pawn here?
+[15:49:58] giziti: (15...gxf5) so after f4 maybe you have to do smoethingl ike Bd2
+[15:49:58] giziti: (15...gxf5) maybe that's fine
+[15:49:58] n8otom8o: i guess Nxe5, Nxg3, Nxc6, Nxe2+ may be bad
+[15:50:44] giziti: (15...gxf5) hmm didnt' even consider the desperado
+[15:51:45] giziti: (15...gxf5) maybe you do Rxe2 and Bishop move is threatening but that's not enough
+[15:52:15] giziti: (15...gxf5) so i guess it's hxg3 and you've accomplished a fancy pawn trade, but maybe that's good for white
+[15:53:16] giziti: (15...gxf5) although then the threat of f4 isn't great...
+[15:58:50] giziti: (18.f4) Qg7!?
+[15:59:05] bpack: king protection quickly disappearing for both sides. g3 now a big target
+[15:59:36] n8otom8o: the plan is Bd3 next, wanted to prevent f4 by black too
+[16:00:21] giziti: (18.f4) Qg7 fxe5 Qxg3+ and maybe even Rf6 instead of Qxe3 next.
+[16:01:22] giziti: (18.f4) er Rf7
+[16:02:23] giziti: (18.f4) well, think a bit but I think Qxg3+ and white is in trouble though black's king is also a bit exposed...
+[16:03:08] giziti: (18.f4) but anything else and white's just giving up a rook for free
+[16:03:23] giziti: (18...Qg7) i mean Bd2 Qxg3+ and that has to be losing
+[16:03:53] giziti: (18...Qg7) I don't know, I'm glad I'm not playing White here
+[16:05:25] n8otom8o: missed this. I guess I lose a pawn at least.
+[16:09:12] n8otom8o: Kh1 Qh3+ Kg1 Qxe3+ is bad. so i guess Kf1
+[16:11:44] bpack: 2 points of material worth it, Qh3+ and f4 both tempting
+[16:11:59] pavonine: Qg7 was very nice
+[16:15:01] invacuum: faton to aksiomatiko na teliwnoume
+[16:15:16] bpack: maybe f4-f3. Qh3+ and Bf3 is annoying. Kind of want the lsb on e2 for a move or two
+[16:15:46] giziti: (20.Kf1) some greek in the chat!
+[16:16:17] invacuum: :) sorry for the greek
+[16:17:18] giziti: (20.Kf1) I feel like there's time to take on e3 here
+[16:19:19] giziti: (20...f4) maybe this works, Bf2 Qh3 Kg1 and maybe there's a knockout
