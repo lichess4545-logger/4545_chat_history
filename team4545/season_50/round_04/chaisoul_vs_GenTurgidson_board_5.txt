@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/sja4qsoM
+White     : chaisoul
+Black     : genturgidson
+Time      : 45+45
+Captured  : 2026-10-17 13:25:58 UTC
+Game ended : 2026-10-17 12:05:44 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[11:04:03] igor_jamnik: go chaisoul
+[11:21:01] paulwithans: Go chaisoul!
+[11:27:36] genturgidson: Nc4 was kind of my idea but after Qd5 it's actually not very nice.
+[11:29:22] genturgidson: Nc4 Qd5 Nxe3 Qxb7 Rc8 fxe3 even in the best line I open the f file for white's rook... so I can't justify Nc4.
+[11:30:38] genturgidson: I perhaps need to be deciding whether to try Be7 and kingside castle.
+[11:30:38] genturgidson: I hate opposite side castle pawn race type games.
+[11:30:53] genturgidson: I hate all games no I come to think of it.
+[11:32:39] igor_jamnik: relatable
+[11:33:10] genturgidson: 11...g6 preparing Bg7 fianchetto feels way too flimy and slow. Immediate queenside castle feels sketchy. Maybe Be7 is the move.
+[11:33:25] genturgidson: Be7 f4
+[11:35:57] genturgidson: Be7 Bg5 Nc4 (Qd5 Bxg5+) Qf4 Ne6 (calculating pointless nonsense, but proves Bg5 is not a response for white after Be7)
+[11:36:57] genturgidson: I forgot to go back and evaluate f4 a bit more though. That could be nasty...
+[11:37:12] genturgidson: f4 Nc6 and something like e5 could kill me.
+[11:38:13] genturgidson: Actually I think it is game over. Ng4 doesn't work as a response to f4, B moves and it just gets trapped.
+[11:38:44] genturgidson: Resignable 11 moves in I think.
+[11:40:00] genturgidson: Maybe by f4 he forces me to play Nc4 Qd5 line I hated. But *maybe* him eating all my queens pawns allows some sort of counterplay.
+[11:40:30] genturgidson: I have to pray he blunders Bg5. Anything can happen at our level.
+[11:42:16] genturgidson: I'm seeing f4 Nc4 Qd5 Nxe3 Qxb7 O-O cxe3. I hate that Raf1 severely weakens my f7 square after but maybe it's ok.
+[11:42:46] genturgidson: Wait I'm being dumb, f4 un-defends that bishop, preventing Qd5.
+[11:43:47] genturgidson: f4 would basically be an exchange and I probably have to castle queenside. But a rook lift Rd3 probably kills me.
+[11:44:32] genturgidson: Yes this is dead lost my brain evaluates it +2.2.
+[11:45:33] genturgidson: 12.f4 Nc4 Qe2 Nxe3 Qxe3 O-O-O Rd3 game over.
+[11:48:50] genturgidson: I am struggling to see the purpose of Qe2. Maybe he wants to exchange queens with Qb5, Qx Nx forking c7 and h7 with his knight.
+[11:49:05] genturgidson: Actually very sneaky.
+[11:49:35] genturgidson: I still have a very serious e5 problem at the end of any line. I think he's being patient about it.
+[11:53:52] genturgidson: 12...a6 might be necessary here. Qb5 is problematic. Qg4 looks aggressive but way too dangerous if he doesn't exchange.
+[12:00:26] genturgidson: I forgot white's knight defends e2.
+[12:00:26] genturgidson: Zero blunder checking.
+[12:00:41] genturgidson: It was dead lost anyway so fair play.
+[12:01:42] genturgidson: I think if I had a playable position I would be more upset.
+[12:02:12] genturgidson: My error was on move 3 where I played d6 rather than f6.
+[12:02:27] genturgidson: That created the whole weakness but I lacked the foresight.
+[12:03:58] genturgidson: I now blitz out a desperate pawn swarm on white's king and if he makes some nasty stifling move I resign to the better player.
+[12:05:44] genturgidson: Haha and there is the stifling move! Very nice.
+[12:05:59] genturgidson: GG, well played.
+[12:07:45] genturgidson: Yes as suspected my very bizarre opening choice with d6 rather than being normal ruined the game.
+[12:08:15] genturgidson: Engine really hated my Ne5 which is weird, I thought that was a good aggressive move but I guess it was f4-e5 after all that made it bad.
