@@ -1,0 +1,60 @@
+Lichess game chat log
+Game      : https://lichess.org/keLMqoam
+White     : hesperian
+Black     : blang316
+Time      : 45+45
+Captured  : 2026-10-17 22:51:09 UTC
+Game ended : 2026-10-17 21:30:57 UTC
+Messages  : 50
+────────────────────────────────────────────────────────────
+
+[19:03:37] fork2020: Go BLang316!
+[20:10:26] alp_arslan92: (18.Qh3) Go BLang316!
+[20:34:13] mrscribbles: (20...Qxh2+) hmm
+[20:34:13] mrscribbles: (20...Qxh2+) Does Kf1 do anything?
+[20:34:28] mrscribbles: (20...Qxh2+) I mean you gotta
+[20:34:43] mrscribbles: (20...Qxh2+) no
+[20:34:43] mrscribbles: (20...Qxh2+) never mind
+[20:36:30] mrscribbles: (21...Bxh2+) Gotta be Kf1
+[20:39:02] mrscribbles: (23.Kxe2) Black needs to make sure not to let the DSB get trapped, of course
+[20:39:02] mrscribbles: (23.Kxe2) but I'm sure they'll see that
+[20:40:48] mrscribbles: (23...Bd6) this doesn't look very fun for our good ol' pal sphericalian
+[20:41:49] mrscribbles: (23...Bd6) White's best plan... Well, trades exacerbate the pawn difference
+[20:42:04] mrscribbles: (23...Bd6) so I would say don't trade pieces
+[20:42:04] mrscribbles: (23...Bd6) and don't trade pawns
+[20:42:19] mrscribbles: (23...Bd6) lol so just don't do anything. Good plan mrscrumble
+[20:42:35] mrscribbles: (23...Bd6) If white can manage to snag one of those pawns, especially leaving isolated pawns, that would be huge
+[20:42:50] mrscribbles: (23...Bd6) but much easier said than done
+[20:43:05] mrscribbles: (23...Bd6) Or alternatively, trade Ns and Rs and do opposite bishop shenanigans
+[20:43:35] mrscribbles: (24.g4) this seems sensible
+[20:44:36] mrscribbles: (24.g4) OK, new plan. Trade rooks, trade knights, pray
+[20:44:51] mrscribbles: (24.g4) and probably still lose anyway, this looks pretty gnarly
+[20:45:37] mrscribbles: (24.g4) well hmm
+[20:45:37] mrscribbles: (24.g4) Idk. Chess is hard
+[20:45:52] mrscribbles: (24.g4) Could white survive this with OCBs?
+[20:45:52] mrscribbles: (24.g4) No clue really
+[20:46:07] mrscribbles: (24.g4) it helps that black has a lot of light square pawns currently
+[20:46:22] mrscribbles: (24.g4) and that white can easily get all light square pawns
+[20:48:24] mrscribbles: (24...Kg7) sensible
+[20:48:24] mrscribbles: (24...Kg7) hard to complain about that from black
+[20:49:10] mrscribbles: (24...Kg7) senscribble
+[20:50:26] mrscribbles: (25.g5) probably h6?
+[20:50:26] mrscribbles: (25.g5) maybe Re8
+[21:00:33] ecoarrivazumashoomzo: go BLang
+[21:02:20] r0b-w: (29...Re8+) Go, BLang316!
+[21:26:24] alp_arslan92: (46.Kd2½?) Hmm, this is a draw I'm pretty sure :(
+[21:26:39] fork2020: Yep.
+[21:26:55] ecoarrivazumashoomzo: what if black tries kb2
+[21:27:10] fork2020: Kd3.
+[21:27:10] alp_arslan92: (46.Kd2½?) Yeah, White just waits
+[21:27:25] alp_arslan92: (46.Kd2½?) Once Kxa3 then Kc3 and Black is stuck
+[21:27:40] gmat20020: This should be a draw I guess
+[21:27:55] fork2020: So long as white doesn't get greedy with c6 at the wrong time.
+[21:28:10] kayrosas: 43...a5 was the way i guess
+[21:29:26] fork2020: Or ...43. c5. I think the extra tempo caused by b4 was missed in the calculation.
+[21:30:12] fork2020: And now they just repeat.
+[21:30:42] fork2020: Or not.
+[21:30:42] alp_arslan92: gg
+[21:30:42] kayrosas: gg
+[21:30:57] gmat20020: Gg
+[21:31:12] fork2020: gg
