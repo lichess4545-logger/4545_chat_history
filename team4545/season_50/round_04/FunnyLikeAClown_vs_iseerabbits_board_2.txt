@@ -1,0 +1,99 @@
+Lichess game chat log
+Game      : https://lichess.org/DyvaQ4Z8
+White     : funnylikeaclown
+Black     : iseerabbits
+Time      : 45+45
+Captured  : 2026-10-17 05:07:18 UTC
+Game ended : 2026-10-17 03:47:10 UTC
+Messages  : 89
+────────────────────────────────────────────────────────────
+
+[01:05:31] baberle: glhf both; go go my teammate iseerabbits!
+[01:25:52] tactix47: Good luck iseerabbits!!
+[01:41:52] tactix47: (12...Rxc3) That a1-h8 diagonal is looming pretty large
+[02:04:44] leverkuhn: ahh flac has assayed my favorite Russian variation of the Gruenfeld
+[02:05:45] leverkuhn: 6...Nc6 very unusual I think, usually it's played one move later after first castling
+[02:07:17] leverkuhn: flac tried to punish with 7.d5 instead of transposing back to theory with 7.e4 and here we are
+[02:17:57] leverkuhn: Black seems to have reasonable compensation for this exchange, but there are some coordination issues to solve for both sides
+[02:20:30] leverkuhn: 19...e6 to anchor the pinned knight is natural, but it leaves the g4 bishop stranded
+[02:23:02] nyanners: feel the compensation is fading
+[02:23:48] nyanners: but i liked it
+[02:28:07] tactix47: (19...Rd8) White has made 10 / 19 moves with the Queen thus far.
+[02:33:13] tactix47: (22.Qxd5) A couple of awfully quick moves there - did Black have (21...Rc8) putting pressure on c1 and White's back rank?
+[02:34:29] nyanners: i like as played. one more pawn is nice
+[02:34:44] nyanners: white may be trying too hard to chop
+[02:35:45] nyanners: may want Kg7 now to avoid Qd8/Qa8/whatever
+[02:54:34] nyanners: eventful XD
+[02:58:07] leverkuhn: 31.Qf8 looking pretty dangerous
+[03:01:56] inter-temporal: (31.Qf8) holy cow
+[03:02:11] inter-temporal: (31.Qf8) too many moves
+[03:07:46] inter-temporal: (32...Nd6) ...e6 coulda backfired
+[03:09:03] nyanners: i dare not guess
+[03:09:33] inter-temporal: (32...Nd6) Rd8 Bd5, Qf4+ Ke6, Ng5smth
+[03:09:33] nyanners: rd8 is a good one. how about qg7 rd8
+[03:09:49] nyanners: Threat
+[03:09:49] inter-temporal: (32...Nd6) so, not ...Ke6, but
+[03:10:19] inter-temporal: (32...Nd6) ah, ...Kg7 maybe
+[03:10:34] nyanners: qe7 rd8 threatens qe5#. how do you solve THAT
+[03:10:34] nyanners: *qg7
+[03:11:05] nyanners: this is similar but now f6 is more effective
+[03:11:20] nyanners: still maybe qe5 rg7 idk
+[03:11:20] inter-temporal: (33...Ke6) oh, and oc the Nf3 is pinned. lol
+[03:11:20] nyanners: doesnt look great
+[03:11:51] nyanners: yea this line is just clearly much better with queen on g7
+[03:12:36] inter-temporal: (34.Rd8) hard to see moves like that on low time
+[03:12:52] inter-temporal: (34.Rd8) check King! (stops clock)
+[03:13:07] nyanners: actually theres Qd5 too
+[03:13:22] nyanners: thatd help in the Qg7 line as well
+[03:13:22] tactix47: (34.Rd8) Does ...f5 keep the Black king safe?
+[03:13:37] nyanners: youd rather not land into Ng5+ or whatever later
+[03:13:53] nyanners: so i actually liked f6 but
+[03:13:53] nyanners: Qd5 seems most sane
+[03:14:23] inter-temporal: (34...Qd5) time is too low for me to keep Qs on. unless it loses instantly...
+[03:14:23] nyanners: though of course in the Qg7 line at least youd win a pawn :p
+[03:14:38] inter-temporal: (35.Qg4+) white needs an extra pawn
+[03:14:38] nyanners: unless.. no i dont see it. Nf3 is pinned after all
+[03:17:11] inter-temporal: (35.Qg4+) the knight is pinned but it can defend
+[03:17:26] inter-temporal: (35.Qg4+)  --chess poet
+[03:18:42] inter-temporal: (35...Qf5) everything is triple defended but not the a2 lsb
+[03:18:42] inter-temporal: (35...Qf5) is Qa4 anything
+[03:18:58] inter-temporal: (35...Qf5) like a double attack?
+[03:19:43] inter-temporal: (36.Nd4+) probably failed somehow...
+[03:21:30] inter-temporal: (38...Kxd5) at least they finally unpinned the Nf3
+[03:24:18] inter-temporal: (39...Bc4) i gotta get goin for now. gl funny! c ya nanners, et alia. :)
+[03:27:36] tactix47: (41...h5) The Pb6 has aspirations, methinks...
+[03:34:43] nyanners: this somehow still didnt get any clearer
+[03:37:16] nyanners: maybe white has to concede Bxb3 now
+[03:37:46] nyanners: yea this fails to b2
+[03:37:46] nyanners: b2 bc2 kc3 and the knight moves
+[03:38:01] nyanners: maybe black believes it? :o
+[03:38:01] tactix47: (48.Rd7) Will Black try b2 - looks like fun.
+[03:38:17] nyanners: naaah black sees. gg
+[03:38:32] nyanners: winning is fun, indeed :o
+[03:40:34] nyanners: ummmmmm any universe with B+N mate
+[03:40:34] nyanners: how much of a reach is this
+[03:41:04] tactix47: (50...Nb5) Not even a crumb in the f7 pawn for White.  Black's pieces are working so well
+[03:41:20] nyanners: youd want to at least get some pawns traded
+[03:42:21] nyanners: f5 next
+[03:42:36] nyanners: but maybe white can try to prepare for that with, say, Rg6
+[03:42:51] nyanners: Rd6 for Rxg6, i mean
+[03:43:22] nyanners: no okay thats too much
+[03:43:37] nyanners: its dead
+[03:44:53] gavalanche20: (34.Rd8) Something like Nc3 and Bb3 I guess
+[03:46:25] nyanners: i mean theres just no good response to this
+[03:46:25] nyanners: gg
+[03:47:41] gavalanche20: Oh hello, new analysis button just dropped?
+[03:47:56] nyanners: a weird one
+[03:47:56] nyanners: but a good feature
+[03:47:56] funnylikeaclown: knew i must have hung a piece in the opening
+[03:48:11] funnylikeaclown: with like 10 of the first 15 moves being queen moves
+[03:48:42] funnylikeaclown: qh6 too cute i guess
+[03:48:57] nyanners: that part was interesting
+[03:49:42] funnylikeaclown: lol
+[03:49:42] nyanners: i guess just qg7 rd8 every time eh
+[03:50:13] nyanners: i saw 33 qg7 into rd8 but not qg7 into rd8 qd5 bb5!!
+[03:50:28] funnylikeaclown: shoot ok. late here...well played and good luck the rest of the way
+[03:50:28] nyanners: but 32 Qg7 avoids that already
+[03:50:28] tactix47: gg
+[03:50:58] nyanners: only saw 33 Qg7 Ke6 Rd8 Qd5 Qxh7 which isnt winning
+[03:50:58] nyanners: gg
