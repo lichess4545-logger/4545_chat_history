@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/7XpDqpfe
+White     : megalodon777hs
+Black     : welpe
+Time      : 45+45
+Captured  : 2026-10-17 17:40:23 UTC
+Game ended : 2026-10-17 16:20:16 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[14:09:21] tactix47: Let's go, MEGA!
+[14:31:10] mrscribbles: (8...d6) Go gemoeadmoeldon
+[15:58:46] leverkuhn: 28...Qxa3 does not feel right, pawn hunting when his house is on fire
+[16:00:02] leverkuhn: after 28...c3 I'm not sure what was going on
+[16:01:18] leverkuhn: still not sure here to be fair
+[16:02:03] leverkuhn: after 30.Bxe4 can Black get away with 30...Bb3?
+[16:03:34] leverkuhn: 31.Qe2 Bxd1 32.Qxd1 Rxe4? 33.Qd5+ probably loses, inconveniently
+[16:05:36] leverkuhn: 30...Qb3 perhaps an option, covering the a2-g8 diagonal some
+[16:05:36] leverkuhn: played!
+[16:06:06] leverkuhn: now 31.Qe2 Rxe4! works for Black I think
+[16:06:52] leverkuhn: 31.Rxf7 Qxc2! also fails for White
+[16:08:54] leverkuhn: 31...Rxe4 32.Qxe4 Qxd1 33.Rxf7 Kxf7 34.Qf5+ maybe White has a draw with grabbing the c8-rook
+[16:10:40] leverkuhn: Welpe instead argues that he can allow 32.Qg4+, but 32...Kf8 33.Rd7 looks concerning to me
+[16:11:10] leverkuhn: hmmm I think White missed the backwards capture 33...Qxf7 here
+[16:12:41] leverkuhn: oof, Black hung c8
+[16:12:56] leverkuhn: right as he neared the finish line
+[16:14:43] leverkuhn: to be fair the position still hadn't clarified even though White went passive with the rook
+[16:15:44] leverkuhn: I was thinking 34...Qe6 might be a strong finish: 35.Qxe6 Rxe6 36.Bf5 Rec6 and White gets the exchange back but loses to the passed pawn
+[16:16:29] leverkuhn: after losing c2 Black's position became impossible to play with the weak king
+[16:17:15] leverkuhn: in queen + single rook situations king safety generally is decisive
+[16:19:16] leverkuhn: gg
+[16:20:01] megalodon777hs: gg
+[16:21:17] megalodon777hs: my idea was english 4 knights since black seemed like a qga player
+[16:22:17] leverkuhn: really compicated and wild game, great fight!
+[16:22:32] megalodon777hs: generally I figured I would just take the center and defend for a while
+[16:23:03] megalodon777hs: I have played a lot of these kingside fianchetto games in english so I knew how to avoid some of the problems
+[16:23:18] leverkuhn: Welpe found a nice plan with ...Nh5 and ...f5 getting his share of the space
+[16:24:03] megalodon777hs: yeah once black played f5 I had a few plans but e3 seemed the safest
+[16:24:49] megalodon777hs: my other ideas were nh4 and c5
+[16:25:19] megalodon777hs: I wanted to sac that pawn the whole game haha
+[16:26:35] megalodon777hs: I figured the best plan was making it more dynamic as time ran down.  it wasnt ideal saccing two pawns but I thought there was enough comp
+[16:27:36] megalodon777hs: I thought my chances were pretty good after rd6
+[16:29:52] megalodon777hs: guess I missed a lot at the end.  anyway gg
