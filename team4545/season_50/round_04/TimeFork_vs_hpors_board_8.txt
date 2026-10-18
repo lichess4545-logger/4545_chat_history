@@ -1,0 +1,133 @@
+Lichess game chat log
+Game      : https://lichess.org/b9tSJxf2
+White     : timefork
+Black     : hpors
+Time      : 45+45
+Captured  : 2026-10-18 19:12:04 UTC
+Game ended : 2026-10-18 17:51:58 UTC
+Messages  : 123
+────────────────────────────────────────────────────────────
+
+[16:24:55] king_hunter-1: Good luck Henri-Pierre!
+[16:24:55] rolihlahla: go Henri-Pierre!!
+[16:24:55] timefork: go me!
+[16:24:55] jfiras: Good luck hpors !
+[16:24:55] robertjackson: Good luck HP
+[16:24:55] jfiras: taimanov, interesting
+[16:24:55] timefork: (6..Bb3) not looking good :(
+[16:24:55] king_hunter-1: White doesn't overcomplicate things and just plays the Italian Game
+[16:24:55] timefork: Hi @Mtsundance
+[16:24:55] ttsgosadow: Good luck hpors! For the birds!
+[16:34:32] timothyha: (11...Qb6)  I wonder if birdwatching helps chess
+[16:34:47] timothyha: (11...Qb6) spotting familiar tactics? :-)
+[16:37:34] ttsgosadow: A Rook is a bird (:
+[16:38:49] timothyha: (12.Bg5) the whole team watching :-)
+[16:40:05] timothyha: (12...Nd4) yeah, looks like after cxd4 Ne2 there could be tactics
+[16:40:20] timothyha: (12...Nd4) although Q defends the B on g5
+[16:51:29] timefork: Hi Garras
+[16:53:15] scarff: Maybe Qc7 was nicer, to keep the backrank for the rooks? But Qd8 looks like a solid move
+[16:54:16] scarff: Nf4 feels very odd. Not sure how to punish it, but just h6 gets the bishop pair and a solid position for black
+[16:55:01] timothyha: (16.Bh4) g5 safe here?
+[16:55:01] scarff: And Bh4 loses a piece, probably not enough compensation. But might get tricky still
+[16:55:47] scarff: g5 wins, no doubt. Black should be able to find enough defenders
+[16:57:03] scarff: Just be careful that if white plays Kh1 now. Maybe not take yet, But go kh8 first?
+[16:57:33] scarff: Maybe the move order actually doesn't even matter
+[17:02:06] scarff: Oh, of course didn't see this version. Still think it wins for black, but this is more complicated!
+[17:02:22] scarff: Two pawns and weak light squares for white to try to exploit
+[17:07:26] timothyha: (19.Bg3) phew, I'm glad White didn't sac another piece
+[17:07:41] timothyha: (19.Bg3) at least Bc8 has to be played urgently to consolidate
+[17:08:42] drgarras: I dont think the sac worked, after Bxg5 hxg5 Qxg5, there is Rg8, giving the exchange to remove the queens from the board
+[17:08:57] timothyha: (19...Bc8) yeah Rg8 was important
+[17:10:43] scarff: Bc8 is a nice move :)
+[17:11:13] timothyha: (20.Bb3) maybe Nh5 now
+[17:11:44] timothyha: (20.Bb3) it allows Bf6 and we're safe
+[17:14:15] scarff: Wait, why Bb7 again?
+[17:14:31] timothyha: (21.f4) Nh5 then
+[17:14:46] drgarras: I dont like f4, now white has to check for c4 all the time
+[17:15:01] drgarras: in fact maybe c4 works now
+[17:15:16] scarff: Yes, now Nh5 feels very solid. Open the bishop, rook, get the knight to a better square too
+[17:16:32] scarff: c4 to then take  on e4 looks like a good plan too. But feels more complicated than needed here?
+[17:16:48] timothyha: (21.f4) too many birds to look at!
+[17:17:03] timothyha: (21.f4) poor @hpors spoiled for choice
+[17:18:04] drgarras: what is the idea after fxg5?
+[17:18:19] scarff: Not sure why e5 and allow fxg5. This feels like complications to avoid
+[17:19:50] scarff: Maybe Nh7 is solid though, allowing for Bg5
+[17:19:50] drgarras: unexpected
+[17:20:20] timothyha: (22...Nxe4) time to count pawns
+[17:20:35] scarff: This is very unexpected. This game is taking a lot of turns
+[17:20:35] jfiras: there is Qc3, does this work ?
+[17:21:36] timothyha: (23.dxe4) if you count pawns it already doesn't work
+[17:21:36] jfiras: oh no need for Qc3, nvm
+[17:21:51] drgarras: I think it doesnt work for black, if bishop takes, Qc3+ and take in c5
+[17:21:51] timothyha: (23.dxe4) and Q is quite open
+[17:22:07] timothyha: (23...Bxg5) King is open, not Queen
+[17:22:52] scarff: This looks like a very messy position that can go both ways now. But feels like white has the better chances
+[17:23:07] jfiras: yeah and safer king
+[17:24:23] timothyha: (24.Qc3+) we need more time, but White forked it
+[17:26:25] jfiras: oops
+[17:26:40] drgarras: blunder the queen?
+[17:26:40] rolihlahla: Yep
+[17:26:55] jfiras: yes :(
+[17:26:55] timothyha: (24...Qf6) Black needs more blitzing instincts...
+[17:27:40] jfiras: i think black missed that the queen will be pinned and there is no qxf
+[17:27:56] jfiras: spotted :(
+[17:27:56] scarff: Feels like the Bb7 d5 plan was not a good one, and it went downhill from there
+[17:28:56] scarff: Really tough game. COnverting wins is the hardest skill sometimes
+[17:29:12] timothyha: (25...Qxe5) a Dutch player said something about won games :-)
+[17:29:42] timothyha: (26.Qxe5+) I love all positions. Give me a difficult positional game, I'll play it. Give me a bad position, I'll defend it.
+[17:30:12] timothyha: (26...Bf6) Openings, endgames, complicated positions, and dull, drawn positions, I love them all and will give my best efforts.
+[17:30:12] timothyha: (26...Bf6)  But totally winning positions I cannot stand.
+[17:30:27] timothyha: (26...Bf6) ^ Hein Donner
+[17:30:27] scarff: I like that quote :D
+[17:30:58] jfiras: i need a quote about giving a free rook in the endgame
+[17:31:13] timothyha: (27.Qc7) "Don't be like Timothy"
+[17:31:13] jfiras: xD
+[17:31:28] timothyha: (27.Qc7) Bc8 please
+[17:31:43] timothyha: (27.Qc7) build the Pilsbury mate
+[17:31:59] scarff: There is also a very famous interview with Ivan Sokolov in Wijk aan Zee
+[17:32:14] timothyha: (27...Rg8+) Rg8 too obvious
+[17:32:14] scarff: "If I don't kill myself tonight, I will live to be a thousand years"
+[17:32:14] timothyha: (27...Rg8+) a clumsy Bc8 was better
+[17:32:44] scarff: After not winning a won game
+[17:32:59] timothyha: (27...Rg8+) Sokolov helped Uzbekistan after that, so I think he's living his 1000 years!
+[17:33:30] scarff: Would be fitting if he is the first to make it to 1000 years :D
+[17:33:30] timothyha: (28.Kf1) chess has sad moments like this, but then it's quite a fun journey in the end
+[17:34:15] timothyha: (28.Kf1) a 64 y.o. player recently shared though, that senior chess is quite sad, as they're all good players of the past
+[17:34:15] timothyha: (28.Kf1) but they can't be like that anymore
+[17:34:30] timothyha: (28.Kf1) less stamina to hold a complex game till the end
+[17:35:01] timothyha: (28...Rg7) Bc8 instead of Rg8 might have tricked White
+[17:35:16] scarff: They have to stop feeling sad for themselves. And compare themselves to all the seniors who can't even play chess!
+[17:35:31] timothyha: (29.Qxc5) yeah that's why they play in senior events
+[17:35:46] timothyha: (29.Qxc5) Four fast pieces, 2 R 2 B, should be something to create here
+[17:36:02] scarff: If I am an old man and still playing chess, even if it is worse, I'd be proud of that I hope :)
+[17:37:02] timothyha: (29...Rag8) Rd8 felt better
+[17:37:18] timothyha: (29...Rag8) now it's "just" Bxd5
+[17:37:18] timothyha: (29...Rag8) and fewer toys to play with
+[17:38:18] scarff: Oh, black gets another chance though
+[17:38:49] scarff: Now it is whites winning position to lose :)
+[17:40:04] scarff: Not sure if Rc8 is good though. Just Qx and it's a lost endgame
+[17:40:35] timothyha: (33...Bxc8) this brings me hope :-)
+[17:40:50] jfiras: yes, this is better !
+[17:41:05] scarff: This feels less hopeful to me somehow
+[17:41:35] timothyha: (34.Kd3) the tactical decisions have been bad here from both sides, so there are more to come
+[17:41:50] scarff: I liked the more pieces trying to attack the white king. Not sure if this endgame offers better chances than that?
+[17:42:06] timothyha: (34...Rd7) like now maybe Bxb2 and Rc7 were also good
+[17:42:21] timothyha: (35.c3) but Rd7 probably ok too
+[17:42:36] scarff: I don't like allowing c3 at all
+[17:42:36] timothyha: (35.c3) I'd keep pieces though, not exchange, just in case there's mate
+[17:42:36] timothyha: (35.c3) yeah, Bxb2 was better
+[17:46:09] scarff: Feels like the time should have been spend a bit earlier. Take a moment to re evaluate after Bxc8
+[17:46:09] scarff: New type of position, take a moment to think
+[17:47:09] scarff: Now black is thinking, but feels like the position got a little worse already
+[17:51:28] timothyha: (44.Rxf4) a bit
+[17:51:43] king_hunter-1: gg
+[17:51:43] jfiras: gg !
+[17:52:14] scarff: gg, that was a wild game both!
+[17:52:14] scarff: Lots to spectate :)
+[17:53:29] robertjackson: gg
+[17:53:29] timothyha: SF is scary, says mate in 11 from the final position!
+[17:55:31] scarff: This graph looks like how a lot of my games have gone as well over the last seasons
+[17:55:31] scarff: Not a fun feeling to look at a game that went like this
+[18:00:19] ttsgosadow: Good game both! Went all ways
+[18:08:09] timefork: Thanks gusy
+[18:08:09] timefork: Guys*
