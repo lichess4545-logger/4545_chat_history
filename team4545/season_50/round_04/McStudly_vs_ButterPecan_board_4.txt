@@ -1,0 +1,115 @@
+Lichess game chat log
+Game      : https://lichess.org/x15zQJw7
+White     : mcstudly
+Black     : butterpecan
+Time      : 45+45
+Captured  : 2026-10-18 17:58:30 UTC
+Game ended : 2026-10-18 16:38:26 UTC
+Messages  : 105
+────────────────────────────────────────────────────────────
+
+[14:21:45] butterpecan: things may go downhill rapidly now that i'm thinking for myself
+[14:21:45] butterpecan: Rc8 seems too logical to spend much time on though
+[14:21:45] butterpecan: didn't like 11...cb3 12. ab3
+[14:23:16] ben3536: reasonable enough, but now the knight and rook look like targets
+[14:32:53] mcstudly: 15) k, well, can't allow 15. ...nc3 so I think Qb3 forced. I guess I could do Qd3 but that may allow b4
+[14:35:25] mcstudly: 15) I suppose its Qb3 or Bb2. I've already moved my queen like a million times though
+[14:37:11] mcstudly: 15) kinda worried about 15. ...b4, but I think black needs to castle. I also have e4 at any time, which would weaken b4.
+[14:38:42] butterpecan: 15....Bd6 16.e4 Nb6 17.e5
+[14:41:30] mcstudly: 16) threatening Ba5. I've gained back a tempo now, so I have to be at least OK now
+[14:42:15] mcstudly: 16) two moves ago I was pretty sure I was getting rolled
+[14:42:46] butterpecan: 16..rc8 is a sad move but don't see a better way to deal with Ba5
+[14:43:16] mcstudly: 17) now I think e4 then Nc3. I am also very tempted to snatch up the bishop pair.
+[14:46:33] mcstudly: 18) not sure I like 18. ...Nc4.
+[14:50:21] mcstudly: 18) so Rd1, Bb4, Rc1, or maybe even Ra2. I think I may have to live with Nc4
+[14:51:06] mcstudly: or wait, I can just pin the knight?
+[14:52:52] mcstudly: 18) now I can go 19 Nc3, or Ra2, or Re/d1
+[14:54:39] rajjsinghh: This is what you like to see. White just has a stable advantage
+[14:56:55] mcstudly: 19) OK, didn't expect Bc6
+[14:56:55] butterpecan: oh sht
+[14:57:11] butterpecan: i missed Nc6 and Bb5
+[14:58:11] rajjsinghh: I hope white finds these tactics. He's been struggling with motivation so this underdog win would help him a lot
+[14:58:42] mcstudly: 19) Probably Nxc6 here. Not playing Nd2 because I want to play Rd1 and maybe push d5
+[14:59:12] mcstudly: 20) I think I can win the exchange now at least with e5
+[14:59:27] rajjsinghh: e5 Nd5, bit of work to do
+[14:59:58] mcstudly: 20) nvm, e5 Nd5 and I think I help black.
+[14:59:58] butterpecan: looked at both pawn pushes but missed the obvious hanging pawn
+[15:00:28] mcstudly: 20) so we look at d5 now
+[15:02:29] mcstudly: 20) it has to be d5. Nb6 is pinned and king is in the middle of the board.
+[15:03:45] butterpecan: will be leaving abruptly after the game to watch Brighton vs Crystal Palace on delay
+[15:04:00] butterpecan: since i know the spectator room will be full of spoilers
+[15:04:00] butterpecan: this sucks by teh way
+[15:04:31] mcstudly: 21) e5 is what my gut says. ...Nd7, Bxd5 with a double attack on Rc6 and the weak pawn on f7
+[15:05:01] mcstudly: 21) but I guess he can just play Ne4 maybe
+[15:06:02] mcstudly: 21) so need to look at Rd1 and exd5
+[15:07:03] mcstudly: 21) also need to look at intermezzo Bxb6
+[15:07:03] butterpecan: perhaps i should drive to arrowhead and get blackout drunk in the parking lot so as to forget this position
+[15:07:18] ben3536: lol
+[15:09:04] mcstudly: 21) oh lol, there is also the simple Qxb5
+[15:09:04] butterpecan: but with them being 4-0, tickets probably cost a small fortune
+[15:14:23] mcstudly: 21) if 21. ...Nxd5 then Qxb5. If 21. Rc5 then Bb4
+[15:26:01] butterpecan: is playing to flag a viable strategy with a 45 second increment?
+[15:41:43] mcstudly: 23) I don't think he can castle because I get d6.
+[15:44:30] butterpecan: 23...0-0 seems appropriate the wreck of the edmond fitgerald is on the playiist
+[15:45:46] butterpecan: does anyone know where the love of god goes when the minutes turn into hours?
+[15:51:20] butterpecan: i'd wanted 27....Qb5 but 28.Na5 and the knight guards the queen
+[15:51:36] butterpecan: 28.Nb6 can be met by QxR
+[15:53:52] mcstudly: 28) Nxb6 or Rxd7 with Rb7 pin on Knight. Both look mighty drawish. I think I messed this up.
+[15:54:53] mcstudly: 29) yeah, IDK, I felt like I was winning at one point.
+[15:55:53] mcstudly: 29) unfor'ch, I am not really good at squeezing positions like this even with full time. at best I draw I think, but most likely I find
+[15:56:09] mcstudly: a way to blunder the game
+[15:57:55] nyanners: still looked pretty damn great like
+[15:57:55] nyanners: take on b6 wins a7
+[15:57:55] nyanners: and all your pieces are perfectly placed to push
+[15:57:55] mcstudly: 30) Bf1 defemd the knight threaten to win a7. Ra8, then what?
+[15:58:40] nyanners: then you trade on b6 and return to g2 xd
+[16:00:42] mcstudly: 30) I suppose if Ra8 then Bg2 threatening Rxd7? There is also Na5 followed by Nc6 ideas I guess.
+[16:01:12] mcstudly: 30) maybe even just march my a pawn? idk
+[16:02:44] nyanners: rb8 eh
+[16:02:44] nyanners: may be the lesser evil
+[16:02:59] mcstudly: 30) hmm. I think just Rxa7 Nxc4, Bxc4 Rb1+, Rxb1 Rxb1, Kg2
+[16:04:45] mcstudly: 31) I can also play Rxd7 here. but with Bxc4 I have pressure on f7
+[16:05:00] nyanners: yea bc4 rb1 loses another pawn
+[16:05:15] nyanners: tough
+[16:08:33] nyanners: now you just send it but there will probably be a catch at some point
+[16:11:20] mcstudly: 34) Maybe I can win this. outside passed pawn on a light square
+[16:19:11] nyanners: sure
+[16:19:27] nyanners: id probably want the bishop on g2 before going a6
+[16:19:27] paulwithans: I think Rb6 was unnecessary. The pawn on a6 couldn't be taken due to the ensuing pin
+[16:19:42] nyanners: yea its getting a little weird
+[16:19:42] nyanners: but okay white is always winning...... unless.......
+[16:20:58] rajjsinghh: how does white break the blockade
+[16:21:13] rajjsinghh: oh now its easy
+[16:21:43] butterpecan: if i just tortoise, teh white king invades and the loss is certain
+[16:21:43] butterpecan: this is risky but liquidation might give chances?
+[16:25:16] butterpecan: i can be like a 9 year old kid an OTB tournament and offer a draw every move
+[16:25:47] rajjsinghh: you can't. Lichess unfortunately restricts draw offers to every few moves
+[16:26:17] nyanners: unless.... this
+[16:26:48] rajjsinghh: I remember from a few seasons ago where I had to play Bishop and wrong colour RP for an hour before my opponent finally gave in
+[16:27:18] nyanners: take h7?
+[16:27:18] nyanners: follow your dreams
+[16:27:33] paulwithans: But bishop gets trapped no?
+[16:27:33] nyanners: but black needs to play Kc7 first
+[16:27:48] paulwithans: oh yeah
+[16:27:48] rajjsinghh: g6 Bg8 and I get out I think
+[16:28:19] paulwithans: I was thinking Ne5 but then the pawn queens
+[16:28:34] nyanners: i mean you could start with g6
+[16:28:34] butterpecan: 45 not sure why i thought i had g6
+[16:28:49] nyanners: you did.. but it doesnt win
+[16:29:04] rajjsinghh: Nc5 and the play is easy but probably drawing
+[16:29:19] nyanners: seems winning with the extra pawn
+[16:30:51] mcstudly: I think 45. Bxh7 was a mistake, he could have played g6?
+[16:31:36] nyanners: if white played Bxh7 because he simply didnt see g6 at all thats kinda funny
+[16:31:51] nyanners: i love me an accidental brilliance
+[16:31:51] rajjsinghh: I guess it depends where the kings end up but I think from g2 the king being on b7 doesn't matter much
+[16:32:07] rajjsinghh: Nc5 Kf3 might be an issue though
+[16:32:22] nyanners: id already be pushing to remove doubt
+[16:32:22] nyanners: like 47 h5
+[16:32:37] nyanners: but it should always end on g4 h5 g5 h6 regardless
+[16:33:52] rajjsinghh: Black is now just wasting time with the king so any drawing hope is quickly going
+[16:35:08] nyanners: dont think it was there but yea this doesnt help
+[16:36:09] nyanners: i guess black is waiting for Nxh7 into Kxb6
+[16:36:24] nyanners: Kxb7
+[16:36:24] nyanners: not enough but eh
+[16:37:56] nyanners: gg
+[16:38:26] paulwithans: gg
