@@ -1,0 +1,184 @@
+Lichess game chat log
+Game      : https://lichess.org/kzjNrtjd
+White     : warvold
+Black     : fischer_and_chips88
+Time      : 45+45
+Captured  : 2026-10-18 15:08:41 UTC
+Game ended : 2026-10-18 13:48:33 UTC
+Messages  : 174
+────────────────────────────────────────────────────────────
+
+[12:34:21] joonaf: Go Warvold!
+[12:34:21] simonwashere: Go Warvold!
+[12:42:27] warvold: (8...a6) Alright, sorry, I was eating :) Hello everyone
+[12:42:43] warvold: (8...a6) It's a bit of a surprise weapon, I used to play that a lot when I played e4
+[12:42:58] warvold: (8...a6) So far, so good, I have the position I wanted
+[12:45:30] warvold: (9.Qe1) Here, i expect either O-O or Nb4
+[12:47:31] fischer_and_chips88: 10 d5? hm
+[12:48:17] aldric123: (10.Qh4) Go Warvold!
+[12:49:03] aldric123: (10.Qh4) This is an interesting move order to get a grand prix
+[12:51:04] aldric123: (10.Qh4) I almost want to play g4 then f5, but you'd want to be pretty sure before doing it. Plus it's black's move first.
+[12:52:05] warvold: (10.Qh4) I can build up a very fast attack on the black king here is black is too passive
+[12:52:20] aldric123: (10.Qh4) agreed, you could!
+[12:52:35] fischer_and_chips88: I don't really know what else to do really
+[12:52:50] fischer_and_chips88: rb8 pretty pointless
+[12:53:06] aldric123: (10.Qh4) If Nb4, do you defend with Rf2 or Bb3?
+[12:53:21] fischer_and_chips88: looked at Qb6 but I think Bd2 Qxb2 Rb1 Qa3 Rb3 traps the queen so I am not really attacking b2
+[12:54:06] fischer_and_chips88: maybe Bd7 Nd4 then b5
+[12:55:22] fischer_and_chips88: Nd4 first so if Ng5 h6 Nf3 he wasted time?
+[12:55:37] fischer_and_chips88: I don't know if I really want to play h6 though
+[12:55:52] fischer_and_chips88: also he might trade which I am pretty sure would benefit me
+[12:56:07] fischer_and_chips88: oh and attack c2 I know that's a common idea
+[12:58:10] aldric123: (10...Nd4) I wonder if you can get away with f5 here sacing a pawn to try to rock out with Bh6 and whatnot
+[12:58:40] aldric123: (10...Nd4) perhaps it's potentially sacrificing two pawns, but the attack is possible maybe
+[12:59:10] aldric123: (10...Nd4) If you don't do that, you need to choose between Nxd4 Ne1 Rf2 Qf2 blah blah
+[12:59:10] aldric123: (10...Nd4) all kind of passive
+[12:59:56] warvold: (10...Nd4) Nxd4 Bxd4+ Kh1 looks good, but I'm wondering about f5 Nxc2 Bh6 Nxa1 Ng5
+[13:00:26] aldric123: (10...Nd4) Yep, I figured Warvold was thinking of similar things to me
+[13:01:27] aldric123: (12.Kh1) ah he wimped out as I we all must upon occasion
+[13:04:45] mizrab: Go Warvold!
+[13:06:31] aldric123: (12.Kh1) If I were black I'd probably play boringly with Nc6 forcing the Q to move say Qh3 Nb4 Bb3
+[13:06:46] aldric123: (12...Bd7) This is the other thing I was looking at
+[13:07:47] aldric123: (12...Bd7) I'd be deciding between Bd2 and Ne2 as white I think. I can't seem to make f5 work atm
+[13:08:17] aldric123: (12...Bd7) I think I like Ne2 more
+[13:08:48] aldric123: (12...Bd7) the annoying thing about it is b5 is probably possible either immediately or the move after Bg7
+[13:09:03] warvold: (12...Bd7) I may have a winning line already
+[13:09:03] aldric123: (12...Bd7) oooooh show me!
+[13:09:34] aldric123: (12...Bd7) If Ne2 I think I would play b5
+[13:09:49] warvold: (12...Bd7) f5 exf5 Bg5 Re8 forced to defend the knight Bxf7+ Kxf7 Qxh7+ Kf8 Bh6#
+[13:10:04] aldric123: (12...Bd7) though the long term weaknesses after Nxd4 may suck too much
+[13:10:34] aldric123: (13.f5) that is an interesting line, thinking more on it
+[13:10:34] fischer_and_chips88: there it is
+[13:11:35] feet_barbie: (13.f5) attacking warvold at it again
+[13:11:35] aldric123: (13.f5) yep!
+[13:12:05] aldric123: (13.f5) gxf5 might be better for white
+[13:12:05] aldric123: (13...exf5) though scary
+[13:12:21] aldric123: (14.Bg5) Err I meant better for black. But only if Rf3 didn't instsantly kill him
+[13:12:21] feet_barbie: (14.Bg5) thought this was a cooking class for a second
+[13:13:22] warvold: (14...Re8) Hmm, there is Ke6
+[13:13:37] fischer_and_chips88: oop
+[13:13:37] fischer_and_chips88: did I have to take on c3 first
+[13:13:37] fischer_and_chips88: Nd5 and am I cooked
+[13:14:22] aldric123: (14...Re8) Hmm he might be right
+[13:14:22] fischer_and_chips88: kf8 does not look pretty...
+[13:16:54] aldric123: (14...Re8) Nd5 Kf8 Nf6 is fun
+[13:17:40] aldric123: (14...Re8) If Bxf6 Bxf6 the dark squares are so ridiculously bad
+[13:18:10] fischer_and_chips88: the think is giving me some hope at least
+[13:19:57] aldric123: (14...Re8) I mean Bxf7+ Kxf7 Qxh7+ Ke6 exf5+ looks tasty too
+[13:19:57] aldric123: (14...Re8) Which I assume is what wavold is calculating
+[13:20:12] aldric123: (14...Re8) Based on his earlier commint
+[13:20:12] aldric123: (14...Re8) comment
+[13:20:42] aldric123: (14...Re8) both look winning to me
+[13:21:13] aldric123: (14...Re8) though the sacrifice you want to be pretty sure
+[13:21:28] fischer_and_chips88: I suppose this is why you normally put the queen on c7
+[13:21:58] fischer_and_chips88: also the dark squares after Nd5 Kf8... need the dragon to return to the nest
+[13:22:44] warvold: (14...Re8) Okaay
+[13:22:44] warvold: (14...Re8) I think I got it
+[13:23:14] warvold: (14...Re8) Bxf7+ Kxf7 Qxh7+ Ke6 exf5+ gxf5 Qxf5#
+[13:23:29] warvold: (14...Re8) Nope
+[13:23:29] warvold: (14...Re8) Nxf5
+[13:23:29] warvold: (14...Re8) So first Bxe7
+[13:23:44] davidsifre: Go get em, Warvold!
+[13:23:44] aldric123: (14...Re8) You're forgetting all the open lines
+[13:24:00] aldric123: (14...Re8) After exf5+ gxf5 you have Rae1+
+[13:24:00] aldric123: (14...Re8) and that has to be over
+[13:24:30] aldric123: (16.Qxh7+) the line you said was fine because of the open e file
+[13:24:45] aldric123: (16...Bg7) ah right
+[13:24:45] warvold: (16...Bg7) Ah right xD
+[13:24:45] fischer_and_chips88: well that explains the think....
+[13:25:00] fischer_and_chips88: nd5 one of those moves you play pretty quickly i think
+[13:25:15] aldric123: (16...Bg7) yep, he was calculating these lines
+[13:25:31] fischer_and_chips88: idk if this sac works I think I was forced to take and now Rh8 maybe I untangle?
+[13:26:01] davidsifre: Queen is trapped.
+[13:26:01] warvold: (17.exf5) Welp, hopefully, I get something back
+[13:26:16] davidsifre: Rh8
+[13:26:31] aldric123: (17.exf5) Rh8 fxg6+ double check
+[13:26:31] fischer_and_chips88: g4 Rh8
+[13:27:17] fischer_and_chips88: Nd5 is still an issue but I don't think there's anything I can do it about it at this point unless I have time to play Qc7 before Nd5
+[13:27:17] davidsifre: He’s gotta move the queen. Second chance given.
+[13:27:17] fischer_and_chips88: unpinning
+[13:27:17] aldric123: (17...Bxf5) but not Rh8 is a big threat, so you might have to play Bh6
+[13:27:32] aldric123: (17...Bxf5) Last move when you wanted it fxg6 double check won for black I think David
+[13:27:47] aldric123: (17...Bxf5) and this move you play Bh6 forcing Rh8 I think
+[13:28:03] fischer_and_chips88: I don't think Bh6 is any good Rg8 and white loses the pin on the knight
+[13:28:03] aldric123: (17...Bxf5) and then maybe g4 but I haven't decided
+[13:28:18] warvold: (17...Bxf5) Bh6 Rg8 g4
+[13:28:33] aldric123: (17...Bxf5) I mean I'd almost agree with him, but if you don't play Bh6 Rh8 looks nasty
+[13:29:49] aldric123: (17...Bxf5) Either the Bh6 line or Rxf5 is interesting too
+[13:30:04] warvold: (17...Bxf5) Bh6 Rg8 g4 Qc7 gxf5 Qc6+ Kg1 or Ne4
+[13:31:35] aldric123: (17...Bxf5) Rxf5+ gxf5 Re1 is interesting
+[13:31:35] aldric123: (17...Bxf5) But I like the Bh6 lines also
+[13:34:22] fischer_and_chips88: see white gets the piece back but I think there was better
+[13:34:22] feet_barbie: (19...Qd7) pinning everything
+[13:34:52] feet_barbie: (19...Qd7) doesnt have to take noww
+[13:34:52] aldric123: (19...Qd7) Rae1 and Ne4 are interesting
+[13:34:52] fischer_and_chips88: 15 Nd5 had to be winning. Bf7 was probably winning too
+[13:34:52] aldric123: (19...Qd7) what Feet_Barbie said
+[13:35:08] fischer_and_chips88: but I think Bh6 let me off the hook
+[13:35:08] aldric123: (19...Qd7) I agree with Fischer
+[13:35:23] aldric123: (19...Qd7) Nd5 was probably saner and fully winning
+[13:35:23] aldric123: (19...Qd7) But this is fun!
+[13:35:53] aldric123: (20.gxf5) amusingly cold blooded woulda been Kg1 also
+[13:36:24] aldric123: (20.gxf5) Has to do Nxf5 now
+[13:36:39] aldric123: (20...Qc6+) I mean gxf5 is technically possible, but bleh. And yeah you can throw in the check, but I dunno that it's good
+[13:36:54] aldric123: (20...Qc6+) Ne4 seems in order
+[13:36:54] fischer_and_chips88: Qc6 first because if Nxf5 immediately then Nd5 Qc6 there was c4 locking the knight in
+[13:37:09] aldric123: (20...Qc6+) though Kg1 is maybe ok
+[13:37:25] fischer_and_chips88: surely no sac after Nxf5
+[13:38:10] warvold: (20...Qc6+) Hmm
+[13:38:40] aldric123: (20...Qc6+) Ne4 gxf5 Rg1 is craziness
+[13:38:56] warvold: (20...Qc6+) Ne4 gxf5 Rxf5+ Nxf5 Qxf5+ Ke8 Qe6+ wins a rook
+[13:39:11] aldric123: (20...Qc6+) who can get mated first?!
+[13:39:56] aldric123: (20...Qc6+) I think you might be right
+[13:41:12] fischer_and_chips88: who's pinning who here
+[13:41:43] aldric123: (21.Ne4) the Q on d7 was defending f5 1 more important time
+[13:42:44] aldric123: (21.Ne4) crap. My game starts in under 20 mins. Hope this finishes first!
+[13:42:59] fischer_and_chips88: I think if I play gxf5 he's committed to the sac
+[13:43:14] aldric123: (21.Ne4) he's gonna take on f5 whichever you take with
+[13:44:15] fischer_and_chips88: maybe it is a trick and if gxf5 there's Rg1
+[13:44:15] fischer_and_chips88: !!!
+[13:44:30] aldric123: (21.Ne4) I was looking at that myself a bit ago, but I think his idea to take on f5 with rook is stronger
+[13:46:01] aldric123: (23.Qxf5+) Ke8 Qe6+ and as Warvold said earlier R on g8 dies
+[13:46:16] aldric123: (23.Qxf5+) Ke7 Bg5+ should force it through similiarly
+[13:47:02] warvold: (23.Qxf5+) Looks good, but I don't trust me anymore
+[13:47:02] fischer_and_chips88: I'm dead
+[13:47:02] aldric123: (23.Qxf5+) trust a little longer!
+[13:47:17] fischer_and_chips88: Ke7 Bg5 Ke8 Qe6
+[13:47:32] fischer_and_chips88: and it is just the same thing the other way
+[13:47:32] davidsifre: If you can’t trust yourself who can you trust? The answer is obvious. Trust no one.
+[13:48:18] warvold: That's deep
+[13:48:18] aldric123: gg
+[13:48:18] simonwashere: gg
+[13:48:33] fischer_and_chips88: gg
+[13:48:33] fischer_and_chips88: I didn't realise how dead I was
+[13:48:33] fischer_and_chips88: until the end
+[13:48:48] warvold: To be honest, I was lucky to have some resources
+[13:48:48] feet_barbie: gg
+[13:48:48] warvold: I completely missed Bg7
+[13:49:03] aldric123: Fischer was right about 15.Nd5 being stronger, but the move chosen was still winning
+[13:49:18] fischer_and_chips88: yes and prettier so it is better
+[13:49:18] aldric123: :)
+[13:49:34] fischer_and_chips88: I thought it made things trickier though
+[13:49:34] feet_barbie: yeah everything looked winning
+[13:49:49] aldric123: Aescthetics is all, if only I could spell
+[13:50:04] warvold: Oh right, d5
+[13:50:34] warvold: Nd5*
+[13:50:34] warvold: Did not even crossed my mind
+[13:51:05] aldric123: Yep, we could tell once you were looking at the wonder of Bxf7 you didn't look farther. :)
+[13:51:20] guitarspider: gg
+[13:52:05] aldric123: I was right that 13.gxf5 was better than ex though white was still far nicer
+[13:52:36] fischer_and_chips88: I didn't realise how powerful the pin on the knight was there
+[13:52:51] fischer_and_chips88: I always have struggled against grandprix
+[13:52:51] aldric123: yep. gx allowed the dark square bishop to still play a part by allowing f6 without death
+[13:53:06] aldric123: or at least quick death
+[13:53:36] warvold: I always try to attack the center very early on against the grand prix
+[13:53:52] warvold: It weakens a lot of the attack on the king
+[13:54:22] warvold: I was not happy with 10. Nd4, I wanted to keep my knight
+[13:54:37] aldric123: I figured
+[13:54:52] aldric123: I was trying to find other moves
+[13:55:53] aldric123: hmm should take 1 last look at my prep, wish me luck!2
+[13:55:53] fischer_and_chips88: good luck dr chess dad!
+[13:56:08] fischer_and_chips88: hehe
+[13:56:08] aldric123: Ah, Warvold made our team win, so I have less pressure!
+[13:56:23] fischer_and_chips88: match decided anyway I still haven't won a game this season having a tough time of it
+[13:56:23] aldric123: Good day all see you in my game if you're coming
