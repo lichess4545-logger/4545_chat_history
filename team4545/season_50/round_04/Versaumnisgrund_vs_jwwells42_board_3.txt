@@ -1,0 +1,95 @@
+Lichess game chat log
+Game      : https://lichess.org/26tTmgsx
+White     : versaumnisgrund
+Black     : jwwells42
+Time      : 45+45
+Captured  : 2026-10-18 22:24:36 UTC
+Game ended : 2026-10-18 21:04:26 UTC
+Messages  : 85
+────────────────────────────────────────────────────────────
+
+[19:32:14] kayrosas: noni yay
+[19:32:14] versaumnisgrund: hello pineapple
+[19:32:14] pineapplechiffoncake: go versaumnisgrund!
+[19:32:14] versaumnisgrund: I think we are still following a game my opponent played against funnylikeaclown
+[19:32:14] versaumnisgrund: But honestly from now I'm on myself
+[19:32:14] marco_chess13: Go Versaumnisgrund!
+[19:32:14] versaumnisgrund: if Re1 probably Nd2 to prevent Ne4
+[19:32:14] versaumnisgrund: and c4 is a nice square for the knight in the benoni
+[19:32:14] versaumnisgrund: planning e4 sometime in the future
+[19:32:14] ecoarrivazumashoomzo: go V!
+[19:32:14] versaumnisgrund: maybe he goes Nh5 Bh2 f5, but should be fine
+[19:32:14] marco_chess13: One of the finest openings in the land
+[19:32:14] versaumnisgrund: hello eco and marco
+[19:32:14] marco_chess13: maybe black can play b6 to prevent a5?
+[19:32:14] marco_chess13: I always get confused around this point
+[19:32:14] naveengeorge: B6 was what I was thinking
+[19:32:14] naveengeorge: Also get Bb7 in
+[19:32:14] marco_chess13: when white plays h3 i never know what to do with the lsb, bb7 seems sensible
+[19:32:14] naveengeorge: Don’t like that
+[19:32:14] naveengeorge: After Be2 later the knight will have to go back?
+[19:35:47] naveengeorge: Unless the idea is f5 be2 f4?!
+[19:37:03] naveengeorge: Seems too risky though.
+[19:45:39] versaumnisgrund: hello fyrox
+[19:47:55] fyrox96: Go Versaumnisgrund! A pretty solid time advantage for white I have to say
+[19:48:10] naveengeorge: Actually I think the f5 f4 idea might actually be worth it
+[19:48:56] naveengeorge: I wonder if wells is calculating that
+[19:50:27] naveengeorge: Nice
+[19:50:42] fyrox96: you called it!
+[19:51:43] naveengeorge: Of note. Because white has played h3 there are some Qh4+ ideas looming if the f pawn goes somehow.
+[19:52:28] fyrox96: But Be2 looks very sensible, no? f4 e4 might even be possible?
+[19:52:44] naveengeorge: Yeah Be2 looks solid
+[19:56:47] versaumnisgrund: f4 Bxh5
+[19:59:33] naveengeorge: Hmm but black can play fxe3 after Bxh5. Not that straightforward
+[19:59:49] naveengeorge: F4 e4 would probably be safest
+[20:03:52] naveengeorge: But Nf3 just wins a tempo after Bxh5 does it not?
+[20:14:30] versaumnisgrund: f5 Im just castling
+[20:16:47] versaumnisgrund: or f5 Be2 fxe3 Bg3
+[20:17:48] naveengeorge: Exd2 is check however.
+[20:18:34] naveengeorge: Wow
+[20:19:35] versaumnisgrund: I thought this doesnt work
+[20:21:52] naveengeorge: I don’t see how Nf3 is not just game over though.
+[20:22:07] versaumnisgrund: what about Nf3
+[20:23:23] naveengeorge: Found :/
+[20:23:53] naveengeorge: You have to sac the rook for the knight here
+[20:24:54] naveengeorge: And just the calm nd7 lol
+[20:30:44] versaumnisgrund: long castle as the queen is on my kingside. then I dont have to worry about f3
+[20:36:04] naveengeorge: I’m thinking we get c4 and Nd3 in
+[20:56:35] naveengeorge: Why not Qg5 to pin the bishop?
+[21:01:08] somerapidplayer: go jwwells42
+[21:03:55] gavalanche20: (13.Be2) whoa what
+[21:03:55] naveengeorge: Whatttttt
+[21:03:55] gavalanche20: oh my word
+[21:03:55] naveengeorge: Omg
+[21:03:55] versaumnisgrund: wtf
+[21:04:41] gavalanche20: That's a very unfortunate way to lose a game
+[21:04:56] versaumnisgrund: ifices the rook first because of Rxf2+ in some lines
+[21:05:41] jwwells42: i spent a lot of time on Rxe3 Qh4 things
+[21:06:12] somerapidplayer: thats a shame
+[21:06:27] jwwells42: unfortunate way to end although oddly i had "calculated" it too
+[21:06:42] versaumnisgrund: That is brutal
+[21:06:57] versaumnisgrund: gg to jjwells
+[21:07:13] jwwells42: gg also, you had done all the outplaying
+[21:07:28] jwwells42: i know that pain sadly
+[21:07:58] jwwells42: i saw you played fianchetto KID and i like benoni stuff there but
+[21:07:58] versaumnisgrund: I dont want to play chess anymore...
+[21:08:13] versaumnisgrund: I also like Benoni as white
+[21:08:13] jwwells42: i only knew about this h3 e3 that it was difficult, hadnt analyzed it at all
+[21:08:44] versaumnisgrund: OPeningsd dont matter if you still blunder your queen
+[21:10:00] jwwells42: yeah... tension of 4545 somehow produces that, the increment is just long enough to feel we can calc on it
+[21:10:15] jwwells42: or at least that is my hypothesis about my own incidents
+[21:11:01] versaumnisgrund: Crazy thing is that I wanted to stop Qg5+ and prepare Rd1
+[21:11:16] versaumnisgrund: Was all about Qe2 and switched last second
+[21:11:31] jwwells42: ahhh yeah
+[21:11:46] versaumnisgrund: concentration was down all game, but I analysed the positions and plans for black before
+[21:12:01] versaumnisgrund: Had two espresso before the game so I wont fall asleep
+[21:12:47] jwwells42: i had a hawaiian punch C4 :)
+[21:13:17] versaumnisgrund: Always when Im one win away from 2000
+[21:13:17] jwwells42: i will have to dig into what black is supposed to do here once i am back at compy, had to play this one on phone on porch
+[21:13:47] jwwells42: you will get there v soon, i stalked your games some earlier this week
+[21:14:18] versaumnisgrund: Thanks, but I probably need a break now...
+[21:14:18] jwwells42: def progressing, even if you hadnt been rolling me
+[21:14:18] jwwells42: yeah understandable
+[21:14:33] jwwells42: chop some firewood kind of postmortem needed
+[21:15:03] jwwells42: gl to you
+[21:15:03] versaumnisgrund: I wish you best of luck in the rest of the season :)
