@@ -1,0 +1,78 @@
+Lichess game chat log
+Game      : https://lichess.org/eKzudaNu
+White     : micomps
+Black     : mennonite
+Time      : 45+45
+Captured  : 2026-10-19 22:21:22 UTC
+Game ended : 2026-10-19 21:01:10 UTC
+Messages  : 68
+────────────────────────────────────────────────────────────
+
+[19:10:39] pineapplechiffoncake: go Mennonite!
+[19:10:54] guitarspider: go Mennonite
+[19:19:31] earlpurple: real chess
+[19:19:46] earlpurple: I will be playing classical on Wednesday, but OTB
+[19:20:32] earlpurple: threatening a scholar's mate. You do think white will see it?
+[19:23:50] jg777: Let’s go Mennonite! Have a fun game!
+[19:26:38] jfiras: Good luck Mennonite !
+[19:27:24] jfiras: og good luck Micomps too !
+[19:27:39] jg777: Is Bg5 a move here, or is that just creating a mess unecessarily?
+[19:28:25] schittering06: Let's go Mennonite!
+[19:30:12] invinci7777: Bg5 nxe5 so doesnt seem to work
+[19:31:13] chrisxz33: if he does bg5
+[19:31:13] chrisxz33: hes doing nxn
+[19:31:28] chrisxz33: maybe
+[19:31:43] chrisxz33: nxc6
+[19:31:43] chrisxz33: and develop?
+[19:31:43] chrisxz33: it works
+[19:31:58] earlpurple: Nxc6 leads to black having doubled c-pawns
+[19:32:13] invinci7777: yeah simply nc6 seems fine
+[19:32:13] chrisxz33: yea
+[19:32:29] chrisxz33: take knight looks good
+[19:32:44] chrisxz33: then be3
+[19:32:44] chrisxz33: and develop
+[19:34:45] micomps: (9...Nc6) so....I remember looking at this ages ago
+[19:35:00] micomps: and I am sure the move here is Bg5, but I can't remember the follow up
+[19:35:00] yellorambo: gl Mennonite
+[19:35:15] chrisxz33: micomps
+[19:35:15] chrisxz33: i think nxn is fine
+[19:35:15] earlpurple: Bg5 Qxg5 Qxf7 Kd8 Qd7#
+[19:35:31] chrisxz33: @earlpurple hes taking  knight
+[19:35:31] chrisxz33: black
+[19:35:46] micomps: I think Nxe5 and I just play Qb5+, but spending time checking first
+[19:35:46] chrisxz33: if white does bg5
+[19:36:16] earlpurple: Bg5 Nxe5 Qb5 c6 Qxb7 then?
+[19:37:17] invinci7777: ig qb5+ qc6
+[19:37:17] earlpurple: So Qb5 Qc6 Qxe5
+[19:38:33] micomps: (11.Qb5+) Qc6 is the only move as if just c6 I can go Qxb7.....I think
+[19:39:34] earlpurple: yes, now Kd7 or Qe6?
+[19:39:34] earlpurple: (not Be7 obviously)
+[19:41:05] micomps: (12...Kd7) hmm, I thought I could just o-o-o here but...f6 is coming, and not sure how to combat that best
+[19:41:36] micomps: maybe Qf5+ after f6, or do I play Qf5+ now?
+[19:44:08] micomps: (14.Qb5+) I don't want to swap queens just yet, and can drop back if black blocks with Qc6 to b3, threaten the pawn on f7
+[19:44:38] micomps: (15.Qb3) to be honest, I am not sure which way to castle
+[20:00:06] micomps: (16...Be7) castling long feels more natural here, to get a rook on d1 and think about pushing d5
+[20:00:21] micomps: I don't think d5 now is any better than castling
+[20:24:09] goldenretrieverchess: Go Mennonite!!
+[20:25:40] mennonite: I just couldn't find a good way to both shore up my king while warding off the threat of f3.
+[20:27:27] mennonite: if i had another tempo or two, i could try f4
+[20:38:05] micomps: (21.Qb5+) I did toy with Rc6 immediately but I think this is better, get the queen forward and either push king back or target c7
+[20:44:56] micomps: (23...Rhc8) I like my position but I am not quite sure the best way to progress
+[20:45:57] micomps: Re6+ feels natural, but not sure where it leads after Kd8
+[20:46:43] micomps: might play Rd1 as that seems to give me more options
+[20:47:28] micomps: (24.Rd1) not worried about g5 as then Re6+ is good
+[20:52:17] qrs: (24 Rd1) Re6+ Kd8 Qb4 (Be7 Bg5) (Bxg5 Qf8+) may have been an option but there is other lines like Qb4 c5 ofc
+[20:52:48] micomps: 925...Kf8) I feel like d6 is crying out to be played but it feels very committal...don't want to get this wrong
+[20:54:04] qrs: (25 ... Kf8) thought white would just cash in now with Rxc7
+[20:54:49] micomps: (26.d6) if black takes, Bxd6+ is deadly
+[20:55:04] micomps: b5 doesn't do anything I don't think (looks nervously)
+[20:55:20] micomps: Qf7 doesn't solve anything (exchange, push and take c7 I guess?)
+[20:55:35] micomps: (26...g5) oh, I did not anticipate that one
+[20:56:05] micomps: I guess just take on c7
+[20:57:21] micomps: (27...Bxb2+) does this work? Surely I've got mate if black takes on d1
+[20:57:36] qrs: Yep
+[20:58:22] qrs: Nice trick by black but Qd1 Bd6+
+[20:59:38] jg777: Qxd1 Rf6+ and checkmate in two I think there.
+[21:04:42] qrs: Qxd1 Rf6+ Kg7 Qf7+/Rf7+/? Kh8 and blacks gets another move?
+[21:05:28] qrs: Whereas Bd6+ either Qxd6 or white mates by force with consecutive checks (I think)
+[21:05:58] qrs: GG
