@@ -1,0 +1,203 @@
+Lichess game chat log
+Game      : https://lichess.org/8lLiBJXq
+White     : king_hunter-1
+Black     : hagia_sophia
+Time      : 45+45
+Captured  : 2026-10-20 20:03:21 UTC
+Game ended : 2026-10-20 18:43:13 UTC
+Messages  : 193
+────────────────────────────────────────────────────────────
+
+[17:02:34] marekw78: Go go Sophia :)
+[17:03:35] marco_chess13: Go Sophia!
+[17:03:51] rolihlahla: go @kinG_Hunter-1!!
+[17:04:52] jfiras: Good luck hunter !
+[17:07:09] ttsgosadow: Go King Hunter!
+[17:07:24] rolihlahla: officially out of the masters db
+[17:07:39] jfiras: yeah that confirms my doubts abt this move
+[17:08:10] jfiras: the dsb is an important piece in the taimanov for black
+[17:08:25] ttsgosadow: Looks to be his good bishop
+[17:09:11] rolihlahla: yes
+[17:09:11] ttsgosadow: Queen is eying the rook as well, looks good
+[17:11:13] ttsgosadow: Queen side castling gets rook on the empty file, I always like it when I can do that
+[17:11:59] rolihlahla: but open lines to the white K
+[17:12:44] ttsgosadow: Yeah
+[17:15:32] ttsgosadow: Reading about the mindless king hunter while having the game on (-:]>*
+[17:16:48] versaumnisgrund: Go Hagia Sophia!
+[17:16:48] rolihlahla: :-)
+[17:17:04] rolihlahla: Artur will be mindful  :-)
+[17:23:25] lemuelgullible: 13 Bc5
+[17:23:25] lemuelgullible: looks good
+[17:35:52] lemuelgullible: wow, black is completely locked up
+[17:36:53] jfiras: i feel like black might go for RxB
+[17:37:38] invinci7777: either way looks very bad for black
+[17:38:09] jfiras: i agree
+[17:38:09] timothyha: (15.Bxe5) this is so Keres style
+[17:39:10] timothyha: (15.Bxe5) oh, Master games call this Taimanov/Bastrikov variation
+[17:41:42] invinci7777: has to be d5 here
+[17:42:59] lemuelgullible: d5 then the bishop takes en passant
+[17:42:59] lemuelgullible: surprise!
+[17:43:14] ttsgosadow: Lol
+[17:45:01] invinci7777: I liked Bxf6 first
+[17:45:16] invinci7777: now nxd5 is available
+[17:45:46] invinci7777: although then g7 hangs so
+[17:46:32] jfiras: R takes ?
+[17:46:47] jfiras: Rxd5 i mean
+[17:47:03] invinci7777: yeah thats also an option
+[17:48:04] invinci7777: seems good
+[17:48:34] timothyha: (17...Nxd5) why Rxd5?
+[17:48:49] ttsgosadow: I don't get rook takes, you lose the exchange then
+[17:49:20] invinci7777: rxd5 cxd Bxd5
+[17:49:35] timothyha: (18.Bxd5) g7 drops, but probably W doesn't like opp bishops, but when Qs are on
+[17:50:06] timothyha: (18...cxd5) but I once blundered like that when the rook in my lines both moves and stayed
+[17:50:36] invinci7777: oh lol
+[17:50:51] invinci7777: i was seeing another rook on d1
+[17:51:07] timothyha: (18...cxd5) yes, I know that feeling
+[17:51:07] lemuelgullible: I'm glad I'm not hte only one who was confused by the Rxd5 suggestion
+[17:51:22] timothyha: (18...cxd5) old monitors leave trace, don't be an old monitor
+[17:52:07] jfiras: oh you are right, my bad
+[17:52:07] ttsgosadow: Some mindful king hunting about to start
+[17:52:07] timothyha: (19.Bxg7) when I was starting out in OTB, I once did NOT take on d5 because my chin was covering my rook on d1
+[17:52:23] jfiras: i have problems with rooks...
+[17:52:38] invinci7777: haha
+[17:53:54] timothyha: (20.Bf6) I like g5 next to reduce the number of rooks
+[17:54:24] invinci7777: yeah
+[17:54:24] versaumnisgrund: Uff murder on the dark squares
+[17:54:40] timothyha: (20...Bd7) looks very promising now
+[17:55:10] timothyha: (21.g5) and enough time to calculate, and no tricky knight
+[17:55:41] ttsgosadow: I would have liked 20 Re1 to threaten backrank if he takes - also gets a piece in
+[17:56:42] timothyha: (21...Bf5) ok, Rd2 is probably prudent here
+[17:56:57] invinci7777: yeah
+[17:57:27] lemuelgullible: @timothyha I'm now imgaining  you with a comically long chin
+[17:58:59] timothyha: (22.Qe5) :-) it's comically short, being Asian
+[18:00:00] timothyha: (24.Rxd5) somebody didn't eat enough before the game
+[18:00:31] timothyha: (24...Qb7) Rd8+
+[18:00:46] lemuelgullible: Qxb8+
+[18:01:01] timothyha: (24...Qb7) that's so fancy
+[18:01:01] timothyha: (24...Qb7) causes resignation of course
+[18:01:16] invinci7777: oh right
+[18:01:16] timothyha: (24...Qb7) yeah, I like Qb8+ much more now
+[18:01:32] invinci7777: qxb8 very cool
+[18:01:47] timothyha: (25.c4) no counterplay left after that
+[18:01:47] timothyha: (25.c4) but W is still hungry
+[18:02:02] timothyha: (25.c4) wants to eat without leaving the board
+[18:02:02] lemuelgullible: if this was me playing white I would be looking for much more and then after spending way too much time I would play the only losing move
+[18:02:48] lemuelgullible: the problem with Qxb8 was that it would have left the black rook out of its cage
+[18:03:03] robertjackson: QxB surely?
+[18:03:18] invinci7777: yeah white can do better here
+[18:05:05] versaumnisgrund: Cmon cover that pawn with Rd4 and give us some hope
+[18:05:51] robertjackson: Rd2 better :)
+[18:06:51] timothyha: (26.Re1) now everybody is playing
+[18:07:07] timothyha: (26.Re1) the h-pawn and the a-pawn haven't joined the fun yet
+[18:07:07] invinci7777: except g6 rook
+[18:07:22] timothyha: (26.Re1) it's retired
+[18:08:38] mrscribbles: (26.Re1) as white I'd really like to get my h or f pawn rolling
+[18:09:39] timothyha: (26...Qb4) this covers the backrank of course
+[18:09:39] timothyha: (26...Qb4) W needs to calculate now
+[18:10:40] lemuelgullible: clever
+[18:10:40] timothyha: (29.Bxd8) ah, I made the mistake of having two Qs on b4 this time
+[18:10:56] lemuelgullible: now the B can go back to f6
+[18:11:26] timothyha: (29...Kf8) there was a Carlsen-Mastakov somewhere when C locked a king on b1 with a B on c3 and won the endgame
+[18:11:26] timothyha: (29...Kf8) Matlakov
+[18:11:41] timothyha: (30...Ke8) B on c6, K on b8
+[18:12:42] invinci7777: 3 pawns enough for win?
+[18:13:13] timothyha: (32...Kc7) I am afraid W is hungry and eat some more
+[18:13:28] lemuelgullible: h4 next
+[18:13:28] versaumnisgrund: Rd8 locks the rook again
+[18:13:43] timothyha: (32...Kc7) Rd8 Rh8 maybe
+[18:13:43] lemuelgullible: ah yea
+[18:13:59] timothyha: (32...Kc7) Rd8 locks the rook down
+[18:13:59] versaumnisgrund: Rxf6 then?
+[18:13:59] timothyha: (33.Kc2) ah, true, Rxf6 hurts
+[18:14:29] timothyha: (33.Kc2) no rush then
+[18:14:44] timothyha: (33.Kc2) W needs to digest, then eat some more
+[18:15:15] invinci7777: f4 or h4?
+[18:15:30] timothyha: (33...h6) h
+[18:16:16] invinci7777: now h pawn is passer
+[18:16:16] versaumnisgrund: H pawn just runs
+[18:16:31] versaumnisgrund: Beautiful game by white
+[18:16:46] timothyha: (37.Kc3) so far :-)
+[18:17:02] timothyha: (37...Bg4) I'm a cautious captain
+[18:18:03] invinci7777: still some work needed as opposite colored bishops
+[18:18:18] timothyha: (38.Rd4) yeah, it's the technical phase now, but we have time
+[18:18:33] timothyha: (38...Bf5) R+B opp colour also different
+[18:18:33] ecoarrivazumashoomzo: go Holy Wisdom!
+[18:18:48] scarff: Just looking through it now, and it looks like a great game so far Artur!
+[18:19:34] scarff: Feels like with passers on two sides it should be winning
+[18:19:49] timothyha: (39.h5) I guess computer says +6, but we're humans
+[18:20:05] timothyha: (39.h5) I see 35% draw still :-)
+[18:20:35] timothyha: (40.Kb4) ok, 15%
+[18:20:50] timothyha: (40...Bb1) b3 is a target now
+[18:21:21] timothyha: (40...Bb1) h6 now is good I think
+[18:21:21] timothyha: (40...Bb1) but needs calculation
+[18:21:51] jfiras: Rd2 maybe
+[18:22:07] invinci7777: yeah i like rd2
+[18:22:37] invinci7777: h6 also possible though
+[18:22:37] timothyha: (41.h6) I guessed it right
+[18:22:52] jfiras: :D
+[18:23:08] timothyha: (41...Re2) W and I at least share one language
+[18:23:08] timothyha: (41...Re2) Rh4
+[18:23:23] timothyha: (41...Re2) but Bh7 again
+[18:23:38] timothyha: (41...Re2) why do we have to calculate again :-)
+[18:23:53] timothyha: (41...Re2) W and I share two languages, I miscounted again
+[18:25:10] timothyha: (42.Rd1) maybe later we see h6 is a mistake and Rd2 was best move :-)
+[18:25:40] invinci7777: possible
+[18:26:41] invinci7777: have to involve kingside pawns also
+[18:26:41] invinci7777: *queenside
+[18:26:56] timothyha: (44...Re3) former queenside
+[18:26:56] mrscribbles: (44...Re3) This is an impressively drawish position for being so dead lost
+[18:27:12] invinci7777: true
+[18:27:27] timothyha: (44...Re3) is there a word for a not-winning-yet-but-winning position?
+[18:27:42] jfiras: i misevaluated the poqition tbh, i tought it will be easier than this
+[18:27:42] mrscribbles: (44...Re3) White has to figure out what they're doing about Bc2 next
+[18:27:57] scarff: Rh2 to d2 seems nice
+[18:27:57] kayrosas: prepare rxf7
+[18:27:57] mrscribbles: (44...Re3) oh, never mind they don't have to do anything because of Bc2 h7
+[18:27:57] timothyha: (44...Re3) Bc2 Kc5
+[18:27:57] invinci7777: Bc2 not a problem as h7
+[18:28:13] mrscribbles: (44...Re3) indeed invinci
+[18:28:13] mrscribbles: (44...Re3) invincdeed
+[18:30:15] mrscribbles: (46.Rc3)  that seems good
+[18:31:00] mrscribbles: (46.Rc3) Could black ever swing an opposite bishops draw after trading rooks?
+[18:31:00] versaumnisgrund: After Kc6 I was shortly dreaming about a perpetual with Bc2
+[18:31:16] jfiras: i was afrais abt h6+ for a second
+[18:31:31] jfiras: afraid* oh typos
+[18:32:01] timothyha: (46.Rc3) that OCB endgame is still lost
+[18:32:17] scarff: I think best chances to draw are with rooks still on the board
+[18:32:32] timothyha: (46.Rc3) yeah, at least you have checks
+[18:32:32] mrscribbles: (46.Rc3) not if you believe hard enough timothyha
+[18:32:47] timothyha: (46.Rc3) endgame is not for believing unlike middlegame
+[18:32:47] scarff: The more simplified, the more lost. 2, potentially 3 passed pawns for white
+[18:33:48] scarff: The king or bishop can stop h. But I don't see how the abc pawns are kept back
+[18:34:19] mrscribbles: (47...Re8) cute
+[18:34:19] timothyha: (47...Re8) nice idea
+[18:34:34] scarff: Oh, is this a sneaky draw?
+[18:34:34] timothyha: (47...Re8) but c5 and Black can resign
+[18:34:49] mrscribbles: (47...Re8) c5 solves the problm, right?
+[18:34:49] mrscribbles: (47...Re8) yeah what himothyta said
+[18:35:05] mrscribbles: (48.a4) or that, yeah
+[18:35:05] scarff: Ah yes, there are ways to solve it
+[18:35:35] timothyha: (48.a4) Kc5 will be attempted :-)
+[18:35:35] mrscribbles: (48.a4) might as well try Kc5
+[18:35:35] mrscribbles: (48.a4) timothyha and I have some kind of mind meld today
+[18:35:50] timothyha: (48.a4) Kc5 b4+
+[18:36:06] timothyha: (48.a4) I'm running out of scribbles
+[18:37:07] mrscribbles: (48...Rb8) b4!
+[18:37:22] timothyha: (48...Rb8) :-)
+[18:37:22] timothyha: (48...Rb8) maybe c5 again?
+[18:37:52] timothyha: (48...Rb8) or Re3
+[18:38:08] timothyha: (48...Rb8) Re3->e7 as king isn't getting mated for now
+[18:38:53] invinci7777: yeah i like re3
+[18:42:12] timothyha: (49.c5) Black can wait with Bg6
+[18:42:27] timothyha: oh dear
+[18:42:27] jfiras: gg !
+[18:42:27] timothyha: they cracked
+[18:42:27] timothyha: gg
+[18:42:42] marco_chess13: gg
+[18:42:42] versaumnisgrund: Gg
+[18:42:42] invinci7777: gg
+[18:44:14] ttsgosadow: Gg! Nice game; think black was squished and it slipped away
+[18:46:00] scarff: GG both !
+[18:46:31] scarff: Very smooth looking evaluation Artur, really convincing win :)
+[18:52:05] king_hunter-1: gg, thanks for watching
+[19:10:05] mrscribbles: gg
