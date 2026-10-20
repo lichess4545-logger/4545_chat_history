@@ -1,0 +1,221 @@
+Lichess game chat log
+Game      : https://lichess.org/kNCRIIHt
+White     : jtschuwirth
+Black     : basyaar
+Time      : 45+45
+Captured  : 2026-10-20 05:15:57 UTC
+Game ended : 2026-10-20 03:55:54 UTC
+Messages  : 211
+────────────────────────────────────────────────────────────
+
+[01:01:20] basyaar: (1...Nc6) trying Nimzowitsch defense
+[01:09:28] basyaar: (1...Nc6) is it worth playing such an opening? Well, this game will be added to evidence for judgement.
+[01:13:01] nyanners: 2..e5 is unfashionable now. i play it and 2..d5 sometimes
+[01:13:31] nyanners: white's edge is real in both d5 and dxe5 so
+[01:14:48] basyaar: (5.Nc3) Bb4 seems right
+[01:17:05] basyaar: (5.Nc3) Bb4, Ne7 and 0-0
+[01:18:51] basyaar: (5...Bb4) I guess chances of going wrong in such an opening is higher
+[01:21:24] basyaar: (6.Bd2) c6 or d6?
+[01:28:00] basyaar: (6...Nxf3+) hmm..did i chicken out or was this a good move?
+[01:29:01] basyaar: (7.gxf3) ah gxf3! aggressive
+[01:31:18] basyaar: (7...c6) I rushed here a bit; looks ugly
+[01:32:34] basyaar: (7...c6) g6, Bf8, Bg7..haha a plan?
+[01:34:21] basyaar: (7...c6) I wonder if Qd6 was an idea
+[01:35:37] silkthewanderer: Go baysaar
+[01:35:53] silkthewanderer: gxf3 doesnt look natural to me
+[01:36:38] silkthewanderer: This is kinda similar to a Scotch now and there are some lines where White allows rhe doubled pawns
+[01:37:09] silkthewanderer: But IIRC only after a Queen recapture and only in the queenless middlegame are they good
+[01:37:24] silkthewanderer: With queens still on I prefer the structure for Black
+[01:38:25] silkthewanderer: And instead of c6 I think Nge7 is more natural
+[01:38:56] silkthewanderer: But then again even if my preference are 'true' I doubt engine will think it matters than some very few centipawns
+[01:40:12] silkthewanderer: I guess c6 had the purpose to preserve rhe DSB because Nb5 was threatening a trade
+[01:40:57] basyaar: (8...Qe6) well, I am behind in development now.
+[01:41:28] silkthewanderer: But still... this lead in development by White can be sneaky dangerous
+[01:43:30] basyaar: (8...Qe6) wondering if 0-0-0; Bxc3 and Qxa2 worth a shot
+[01:43:45] silkthewanderer: 7. ...Nge7 8. Nb5 Bxd2 9. Qxd2 Qb6 10. Qg5 Ng6 11. h4 was a line I tried to evaluate
+[01:44:31] silkthewanderer: When it doesnt hang g7 sure
+[01:44:46] basyaar: (8...Qe6) should I rush my king to queen side via d8-c7
+[01:44:46] basyaar: (8...Qe6) g7 pawn is an issue
+[01:45:02] silkthewanderer: But figuring out the DSB is higher priority imo
+[01:45:17] silkthewanderer: LSB, oops
+[01:45:47] silkthewanderer: d6 Be6 is the usual plan but c6 made it a bit less stable
+[01:51:08] mrscribbles: (9.h4) SilkTheColorBlind
+[01:51:08] mrscribbles: (9.h4) :)
+[01:52:09] mrscribbles: (9.h4) both sides clearly looking for a fight this week
+[01:52:39] basyaar: (9...Nf6) Bh3 is the threat
+[01:54:10] basyaar: (10...Qe5) heart flutters keeping Queen on this central square
+[01:54:41] basyaar: (10...Qe5) thinking of Qh5
+[01:54:56] basyaar: (10...Qe5) if f4
+[01:55:27] mrscribbles: (10...Qe5) Gotta be long castle
+[01:55:57] mrscribbles: (10...Qe5) If jfstschuewirth doesn't long castle I'm downvoting all their lichess forum posts
+[01:56:28] basyaar: (10...Qe5) No doubt; the opening idea has failed!!
+[01:58:45] basyaar: (11.f4) so Qh5 or Qa5
+[02:05:21] basyaar: (11.f4) that c6 move is now my pain point! The LSB is stuck.
+[02:07:08] basyaar: (11...Qh5) Was Qe7 better?
+[02:10:26] nyanners: gxf3 seems normal to me. white has the better pieces
+[02:10:41] nyanners: i dont know about Qe7 but Qh5 seems very annoying
+[02:10:56] nyanners: the move white wants to play is f3. thats some weird piece of calculation
+[02:10:56] nyanners: is the queen trapped after qxh4
+[02:11:11] basyaar: (11...Qh5) ah so opponent is thinking here to exchange or not ? or some other plan
+[02:11:27] basyaar: (11...Qh5) e5, 0-0-0
+[02:11:27] nyanners: i guess so
+[02:11:27] mrscribbles: (11...Qh5) If f3 I would take the h-pawn. No way white sees the tactic
+[02:11:27] mrscribbles: (11...Qh5) (jokes)
+[02:11:57] nyanners: i guess its not so weird since white already has Bxd7+ right away
+[02:11:57] mrscribbles: (11...Qh5) Though, would that be totally catastrophic for black actually?
+[02:12:12] mrscribbles: (11...Qh5) Passed pawns, solving your development problems
+[02:12:28] nyanners: i mean, black takes with check. that'd mean you have a tempo to do something
+[02:12:28] mrscribbles: (11...Qh5) After Bxd7+ you'd only be down one "point" of material
+[02:12:28] nyanners: but there's nothing to do i guess
+[02:12:43] nyanners: Bxd7 is only B for Q
+[02:12:43] nyanners: very not good. we dont win the rook
+[02:12:58] nyanners: so okay, Qxh4 into Qh5
+[02:12:58] nyanners: then e5?
+[02:13:13] mrscribbles: (11...Qh5) What do you mean? Qxh4 Bxd7+ Bxd7 Rxh4 Nxh4. To clartify I'm saying this after white plays f3
+[02:13:29] mrscribbles: (11...Qh5) I might not have been clear about that
+[02:13:29] nyanners: yea n doesnt cover h4
+[02:13:44] mrscribbles: (11...Qh5) good point lol
+[02:13:44] mrscribbles: (11...Qh5) chess is so hard
+[02:13:44] nyanners: but okay qh4 qh5 may be kinda sorta legit
+[02:13:59] basyaar: (11...Qh5) Qe3, then Bc5 or Qc5, but then Qg3
+[02:14:14] nyanners: or it may not
+[02:14:45] nyanners: well thats a bit lame
+[02:16:16] nyanners: feels like black has something but you have to actually play a move i guess
+[02:19:05] basyaar: (12.Qc4) wow; tough move to think about
+[02:19:50] basyaar: (12.Qc4) Bxd7+ is a move!
+[02:20:06] mrscribbles: (12...Qf3) What does Bxd7 do?
+[02:20:21] nyanners: okay qf3 i like
+[02:20:51] nyanners: no overhype though because black also has a piece hanging
+[02:20:51] mrscribbles: (12...Qf3) Is Rh2 necessary?
+[02:21:06] nyanners: i mean you could even play rf1
+[02:21:22] mrscribbles: (12...Qf3) Not gonna lie, I would rather lose than play Rh2
+[02:21:22] nyanners: considering the funny bxc3 qxc3
+[02:21:37] basyaar: (12...Qf3) but Qxc5 and Qxrook; so maybe not Bxd7+
+[02:22:07] nyanners: but okay that drops e4 so maybe not ideal
+[02:22:23] nyanners: white probably shouldnt mind giving a pawn for O-O-O tho
+[02:22:38] mrscribbles: (12...Qf3) What's your line to get the long castle in, naayanenersars?
+[02:23:24] nyanners: i mean, rf1 works, right? XD you drop e4, play Be3
+[02:23:24] nyanners: but yea do something better
+[02:23:39] mrscribbles: (13.Rh2) good points
+[02:23:39] nyanners: like Rg1 seems like better Rf1
+[02:23:54] mrscribbles: (13.Rh2) But ok, black isn't interested in our schemes. Going with the straightforward move
+[02:23:54] mrscribbles: (13.Rh2) hi bebebipote
+[02:24:10] nyanners: rh2 could well be best for all i know
+[02:24:40] mrscribbles: (13.Rh2) Maybe at some point far in the future, that'll help white double rooks on a file
+[02:24:40] nyanners: may keep e4 defended
+[02:25:11] basyaar: (12...Qf3) tempting is Bxc3
+[02:25:11] mrscribbles: (13.Rh2) I mean heck. You could say this is preparing an eventual Rg2 Rdg1 doubling, and then who's laughing?
+[02:25:41] pepepibote: scribabes
+[02:25:41] mrscribbles: (13.Rh2) lol pep
+[02:26:11] mrscribbles: (13.Rh2) pepepibeverage
+[02:28:29] basyaar: (13.Rh2) oh Bx3, Bxc3 allows Qxf4
+[02:31:47] basyaar: (15...d5) ok , so maybe I did not find the best continuation
+[02:35:05] nyanners: high standards, eh
+[02:35:21] nyanners: surviving and thriving "its okay i guess"
+[02:36:07] nyanners: this is better than just one extra pawn
+[02:36:52] basyaar: (18...Ne4) well, did not expect to get this position after the opening mess!
+[02:37:53] basyaar: (18...Ne4) white has weak pawn on g7 as a target
+[02:39:25] basyaar: (19...Nxd2) my weakest point; the endings!
+[02:39:40] mrscribbles: (20.Kxd2) luckily you have an extra healthy pawn for some wiggle room
+[02:39:55] mrscribbles: (20...g6) What's white's best shot here? Probably gang up on Grumpelstiltskin
+[02:39:55] basyaar: (20...g6) here we go!
+[02:39:55] nyanners: okay the minor piece trade helps white a lot
+[02:40:11] mrscribbles: (21.h5) love when players follow my advice
+[02:40:26] mrscribbles: (21.h5) Careful about those tactics!
+[02:43:44] mrscribbles: (21.h5) white is striking while the iron is hot
+[02:43:59] mrscribbles: (21...Ke7) hmm hadn't considered this
+[02:44:30] basyaar: (21...Ke7) f5 is a move?
+[02:44:30] basyaar: (21...Ke7) for white
+[02:44:45] nyanners: a good one? probably not
+[02:44:45] mrscribbles: (21...Ke7) nayaners the savage
+[02:45:00] basyaar: (21...Ke7) i can capture
+[02:48:03] basyaar: (24...b6) the one good thing is I am a apwn up
+[02:50:51] basyaar: (25...b5) but I have no pawns pawns yet
+[02:54:55] mrscribbles: (28.Kc5) I was pessimistic about white going in to this endgame. They're showing me
+[02:55:25] mrscribbles: (28.Kc5) I guess Rc8 is necessary? looks painful
+[02:55:40] basyaar: (28.Kc5) wow; I have already misplayed
+[02:55:56] mrscribbles: (28.Kc5) oh, like Rc8 Kb6 and...
+[02:56:11] mrscribbles: (28.Kc5) yeah doesn't look fun
+[02:56:26] mrscribbles: (28.Kc5) but if black can snag the e or f pawns maybe things turn around. Dunno
+[02:56:41] mrscribbles: (28.Kc5) endgames are hard
+[02:56:41] mrscribbles: (28.Kc5) chess is hard
+[03:01:31] basyaar: (28...b4) I was too passive
+[03:03:18] mrscribbles: (28...b4) I always say it should be illegal for chess to be this hard. You could appeal to the moderators
+[03:04:19] mrscribbles: (28...b4) b4 is clever
+[03:04:34] mrscribbles: (28...b4) Maybe Kb6?
+[03:07:06] basyaar: (30...Rb8) can I save this?
+[03:07:52] basyaar: (30...Rb8) thankfully rook is more active now
+[03:09:24] nyanners: black is probably winning so hopefully :o
+[03:09:54] nyanners: i think black played well just b5 was questionable
+[03:10:25] nyanners: chess depression hits hard sometimes
+[03:10:55] mrscribbles: (33...Ra3) Have things turned around now?
+[03:12:11] nyanners: well rxd5 you have a pleasant choice between rxa2 and rxe3
+[03:12:27] nyanners: but i feel black is kinda in the state of mind to get bluffed
+[03:12:57] nyanners: actually Kd6 seems good
+[03:12:57] basyaar: (34...Kd7) calm down!!
+[03:13:58] nyanners: yea i think black got this tbh
+[03:16:00] mrscribbles: (37...Rxa2) Can't go Ra4, just ...Rxa4 and white wins
+[03:16:00] mrscribbles: (37...Rxa2) black wins*
+[03:18:02] basyaar: (38...Ke6) should I push the a pawn?
+[03:18:48] basyaar: (38...Ke6) or Ra1 and then push a pawn
+[03:21:51] nyanners: whatever ends up with trading a for f is valid
+[03:23:38] basyaar: (40...Rf2) dont know what is the winning plan here
+[03:23:53] nyanners: you just played it
+[03:25:09] basyaar: (40...Rf2) ah Rd4 is possible
+[03:33:17] sarahwynn: go jts!
+[03:35:35] nyanners: white can be annoying with checks
+[03:35:50] nyanners: having the opposition is a good time to do so :o
+[03:35:50] nyanners: like 48 Rg1+ forces king to h
+[03:36:05] nyanners: but it doesnt mean much in this situation of course
+[03:37:06] nyanners: now black does it :o
+[03:37:06] nyanners: that makes it easier to push the pawns
+[03:40:55] basyaar: (53...Re4) man
+[03:42:41] nyanners: id go with Kf4 :o
+[03:42:41] nyanners: still possible
+[03:46:15] mrscribbles: (59...Kg2) the nice thing here is that I have a window of understanding in to black's psychology
+[03:46:30] basyaar: (59...Kg2) guarding the pawns towards destination
+[03:46:45] nyanners: black has played super well and has been like depressed all game
+[03:46:45] mrscribbles: (60.Kf5) Basyaar is basically the same rating as me. So I know that there's like a 50% chance they don't know how to amte with king and rook
+[03:47:01] mrscribbles: (60.Kf5) so that gives white better drawing odds than it may appear
+[03:47:16] nyanners: im mostly wondering if a legitimate stalemate thing may come up
+[03:47:16] mrscribbles: (60.Kf5) Also, what a funny setup for black here
+[03:47:31] nyanners: but the white king isnt well placed
+[03:47:46] nyanners: but there could be other good options
+[03:47:46] nyanners: like maybe Kg4+Ra3
+[03:50:49] nyanners: i guess its just an optical illusion. you can take the route one f3+Kh2 and white loses taking f3
+[03:51:50] nyanners: or just Kh2 now..
+[03:52:36] nyanners: new idea, black flags? :o
+[03:55:39] nyanners: well well XD
+[03:55:39] sarahwynn: I think he drew the game!
+[03:55:54] nyanners: no theres kh1
+[03:56:10] nyanners: omgggg
+[03:56:10] nyanners: beautiful save :D
+[03:56:10] nyanners: gg
+[03:56:10] nyanners: okay now black can be depressed :c
+[03:56:10] mrscribbles: wow
+[03:56:10] sarahwynn: Kh1 Rh2+
+[03:56:40] mrscribbles: Congrats jschutttwirthth, way to keep in the game and make them work for it
+[03:56:40] nyanners: yea you take that. its the other king in the corner..
+[03:56:40] mrscribbles: tough draw byasysayr
+[03:56:55] basyaar: Yeh; but I am guess ok after opening issues
+[03:57:26] sarahwynn: Right the pawns go down
+[03:57:41] mrscribbles: Hi warahSynn
+[03:57:56] sarahwynn: ^_^
+[03:57:56] nyanners: fighting spirits tend to be rewarded :D
+[03:58:11] mrscribbles: very fun and chaotic game from end to end
+[03:58:11] basyaar: I wonder what should have been my plan?
+[03:58:26] nyanners: 63 kh2
+[03:58:26] nyanners: push g
+[03:58:42] mrscribbles: Odd that the computer analysis has white winning in the final position. It doesn't know there's a draw
+[03:58:42] nyanners: XD
+[03:58:42] mrscribbles: Shouldn't it know there was a repetition?
+[03:58:42] basyaar: ah Kh2
+[03:59:42] nyanners: i do find it funny that it says 0.00 too early and then when the actual draw happens it gives black win
+[03:59:58] nyanners: like okay i get that it will give 0.00 when players repeat but it changing on the actual draw is kinda great
+[04:00:28] basyaar: even Kh1 at the end seems to work (65)
+[04:00:43] nyanners: yes
+[04:00:43] basyaar: I for got my pawn protects Rh2+
+[04:00:43] nyanners: but its unnecessary weird to get there
+[04:01:14] basyaar: hmm
+[04:02:30] basyaar: thanks for watching!
+[04:06:03] nyanners: gg :o
