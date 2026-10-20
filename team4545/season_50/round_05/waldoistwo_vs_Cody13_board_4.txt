@@ -1,0 +1,54 @@
+Lichess game chat log
+Game      : https://lichess.org/qByMYlxs
+White     : waldoistwo
+Black     : cody13
+Time      : 45+45
+Captured  : 2026-10-20 21:27:55 UTC
+Game ended : 2026-10-20 20:07:45 UTC
+Messages  : 44
+────────────────────────────────────────────────────────────
+
+[18:01:11] johnjpershing: Lets go Cody!
+[18:31:47] kayrosas: 15.Qxg6 ?
+[18:31:47] kayrosas: nvm not quite
+[18:32:18] kayrosas: Nxf7 then surely
+[18:59:38] arandommove: 15. ... d3 with ideas of playing Ne5 or Nxd5 with tempo, depending on how white reacts?
+[20:09:01] waldoistwo: oh boy I really need to work on my visualization. I knew there was a win there but I couldnt find it :(
+[20:09:16] cody13: Ah I see, Nxf7 was killer
+[20:09:31] waldoistwo: and then I completely missed the queen eying the knight
+[20:10:32] cody13: the engine likes 8..Bd6 but I didn't like the knight takes my dsb, that's what took me so long
+[20:11:03] waldoistwo: yeah. I though Kxf7 and I had no good discovery but I totally missed Nf4+
+[20:12:18] cody13: wow even if different lines the engine says give it up, so the dsb isn't that valuable in these lines?
+[20:12:34] waldoistwo: how does the knight take your DSB on 8 ... Bd6?
+[20:13:19] cody13: After 8. Bxc4, I was supposed to move my dsb back to d6, then your knight can go to b5 attacking it.
+[20:13:35] cody13: Then I move e5, giving it up
+[20:14:05] cody13: I played Bd7 eyeing your queen instead and developing by lsb to it's only sqaure
+[20:14:20] waldoistwo: still you could have played Be7 there and my knight gets kicked with a6 later no?
+[20:15:06] cody13: a6 will kick but you'll only move Nb5 with the intent of trading the dsb, otherwise it'll likely never go there.
+[20:15:51] cody13: and I have to move it back or my night on c6 is stuck babysitting it foreveer
+[20:16:06] waldoistwo: sure. but what I meant is 8 ... Bd6 9. Nb5 Be7 10 ...a6
+[20:17:07] waldoistwo: yeah I think moving it back is mandatory. I was actually surprised by 7 ... dxc4
+[20:17:22] cody13: Yeah that would be fine but me moving back to Be7 gives the tempo to move your knight back too
+[20:17:53] cody13: Dang what a fight, I appreciate the game my friend
+[20:17:53] waldoistwo: true. but then we both wasted a tempo so it seems fine
+[20:17:53] cody13: agreed
+[20:17:53] waldoistwo: yeah thank you!
+[20:18:08] waldoistwo: was amazing to finally play that line
+[20:18:38] waldoistwo: looks like I really need to do some more visualization and tactics training. second game I lost over a deep calculation and oversight
+[20:18:53] waldoistwo: well played!
+[20:19:54] cody13: oh one more thing!
+[20:20:24] cody13: what was the thought on h5? It seemed to take most of your time and I was caught off-guard with it for sure
+[20:23:26] waldoistwo: I just didnt see Qxg5 at all
+[20:23:42] cody13: Ah gotcha, so just more pressure on g6
+[20:23:57] waldoistwo: my other candidates were Qxg6 and Nxc7 but neither did work
+[20:24:42] waldoistwo: and I thought if hxg5 then hxg6 with some chances. although I didnt see anything concrete
+[20:25:28] waldoistwo: and I calculated some different move orders and responses on each of these moves. but the simplest thing I did not see haha
+[20:26:13] cody13: Yeah I thought that Qxg6 was the calculation. I was nervous I was missing a deep checkmate
+[20:26:44] cody13: All I could look at was Qxg6 for the longest time thinking man I am cooked here, how so I escape
+[20:26:44] cody13: do*
+[20:28:00] cody13: I would love to train with you in the future if you are up for it!
+[20:28:30] waldoistwo: that would be awesome, I would love that
+[20:30:16] waldoistwo: it is quite late for me here, but you can just write me in slack so we can talk about time and modalities for training :)
+[20:30:46] waldoistwo: for now I need some sleep haha
+[20:31:02] cody13: Absolutely, I will do that now. Thank you again for the game and analysis!
+[20:31:17] waldoistwo: so thank you again for the game and the nice postmortem! see you around then ;)
