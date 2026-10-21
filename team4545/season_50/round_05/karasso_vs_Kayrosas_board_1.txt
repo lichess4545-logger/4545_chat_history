@@ -1,0 +1,252 @@
+Lichess game chat log
+Game      : https://lichess.org/HTDhTVyY
+White     : karasso
+Black     : kayrosas
+Time      : 45+45
+Captured  : 2026-10-21 23:06:31 UTC
+Game ended : 2026-10-21 21:46:26 UTC
+Messages  : 242
+────────────────────────────────────────────────────────────
+
+[18:57:25] kayrosas: a bit nervous. expecting to be surprised in the opening
+[18:58:26] kayrosas: so I'm expecting Nf3 and some surprise. still have to figure out if I wanna play what I usually do or not then
+[18:59:57] kayrosas: also had a bit much for dinner, slight tummy ache. so if I lose you know the reason
+[19:03:30] jwwells42: names are too similar. this will give them added reason to fight
+[19:03:45] kayrosas: was considering caro but at least I checked this line
+[19:05:17] kayrosas: so that's the surprise. in their other games they went 14.g3
+[19:05:32] kayrosas: I had this 14.c4 otb recently so hopefully memory will serve me well
+[19:06:17] kayrosas: 16.c5 and now I'm out of book. this might transpose back tho, but not sure
+[19:07:03] jwwells42: i've seen some of this but too long ago to have concrete knowledge. i know wesley gave a piece sac somewhere in this neck of the woods
+[19:09:35] kayrosas: 18.Bxf4 was unexpected
+[19:11:07] kayrosas: gotta slow down a bit. my position feels good, usually white's dsb is a headache in these lines, but they will have some idea
+[19:22:17] kayrosas: idk
+[19:22:32] kayrosas: 19...Bh6 Re5 seemed a bit annoying to allow, also Qg3+ tactics there if I ever want Rb8
+[19:26:20] karasso: Nb7 was wrong, he had to play Qxd4. But i don't remember what i should do now ^^
+[19:42:04] kayrosas: 21...Qh6 almost forces a queen trade I think? but might even be undesirable, I hate these positions
+[19:45:37] kayrosas: 21...Bd7 and d5 or b5 and things get even more weird, feels too much like gambling
+[19:46:07] kayrosas: ideally I want Bd7 and Rae8 but idk if I can get it without problems
+[19:47:39] kayrosas: 21...Qh6 h3 Qf4 Bc4! Kh8 Qxc6, annoying
+[19:48:40] nyanners: i have actually no idea what any of this is supposed to be
+[19:48:55] nyanners: chess is very fun
+[19:49:25] nyanners: in the sense of "i dont know whats happening", of course
+[19:52:58] kayrosas: Kh8 would be nice to include at some point but in case of q-trade it makes Re7 by white more annoying
+[19:55:45] grzybozbur: are those few pawns enough compensation? this looks unconvincing to me
+[19:57:01] kayrosas: I hope they'll burn another 10min or so here, need some time to relax
+[20:04:07] nyanners: the Nb7 is really bad and white may profit from an eventual d5/b5
+[20:04:07] nyanners: no clue when or how tho
+[20:05:08] daringdodo: yeah this game is beyond me
+[20:06:54] kayrosas: now I could trade queens with 22...Qh6 (always assuming g3 f4 is quite bad for white)
+[20:07:55] grzybozbur: right, my first impression is somehow waning
+[20:07:55] kayrosas: or just 22...Rae8. I don't understand what the position demands
+[20:08:11] jwwells42: great example of why i gave up on this stuff with both colors
+[20:08:26] jwwells42: more power to them while i am a spectator tho
+[20:09:42] qrs: (22 Nc4) Would love to see Daniel King explain this one
+[20:09:57] daringdodo: @qrs will he later?
+[20:10:58] qrs: Well I hope they will get to this game, right now they re still looking at Match 1 though
+[20:11:28] kayrosas: could even take d4 and pray
+[20:11:59] kayrosas: Re7 there probably tho
+[20:15:32] daringdodo: I dont like qxd4 why not Rae8 and then if white would to take rook they cant later play d5 anyway while other rook is on a1
+[20:15:47] kayrosas: idea is if 23.b5 then Qh6 idea again and I allow less counterplay after the q-trade
+[20:16:02] kayrosas: secondary idea is to stop burning all my time
+[20:19:05] daringdodo: gotta take that surely
+[20:20:52] daringdodo: knight hangs after tho, thats tricky
+[20:21:53] daringdodo: is Re4 a move here?
+[20:25:56] kayrosas: 22...Rae8 was probably a bit wrong
+[20:29:14] kayrosas: 25.b5 Na5 maybe fine, Nx Rxe1 Rx Bxa5 bxc6 Bxe1 maybe not fine
+[20:31:00] kayrosas: 25.b5 Re4 Rx fx QxQ Rx Ne5 Nxc5 possibly a way to bail out
+[20:35:34] kayrosas: nvm 25.b5 Re4 doesnt quite work bc forks on f7 later on
+[20:36:35] chrisxz33: hi nyanners
+[20:37:21] kayrosas: 25.b5 Na5 Nx RxR RxR Bxa5 bxc6 Bxc6 should be ok
+[20:37:51] kayrosas: but Re7 instead of bxc6...
+[20:38:22] qrs: (24 ... Rd8) my wish has fulfilled, DK now covering this :)
+[20:39:08] qrs: (24 ... Rd8) hahaha "they're both from Germany? Then we can expect some heavy theory."
+[20:42:10] nyanners: :o
+[20:42:25] chrisxz33: yo nyanners
+[20:42:25] nyanners: hi
+[20:42:41] chrisxz33: ts so peak
+[20:43:11] chrisxz33: ideas
+[20:43:42] daringdodo: a5?
+[20:44:12] kayrosas: 25.Qa3 quite surprising. thought b5 was just very strong
+[20:44:58] chrisxz33: i spected a5
+[20:45:59] nyanners: idk 25 b5 maybe Na5 and white doesnt win c6 i think
+[20:46:14] nyanners: qa3 may be better
+[20:46:45] nyanners: what happens when white just takes
+[20:47:15] chrisxz33: i think kayrosas is losted
+[20:47:15] chrisxz33: a pawn is gonna crowning
+[20:47:30] chrisxz33: or not nvm
+[20:47:30] chrisxz33: a3
+[20:47:46] chrisxz33: karrasoo
+[20:48:01] chrisxz33: 16
+[20:48:01] chrisxz33: a6*
+[20:48:16] chrisxz33: hes losted
+[20:49:32] nyanners: yea i think black intended Nxc5 here
+[20:49:32] nyanners: thats too bad..
+[20:50:03] daringdodo: so 26. bxa5 wasnt a move? I thought it was
+[20:50:18] nyanners: i mean white seems winning
+[20:50:18] chrisxz33: so hes losted
+[20:50:18] chrisxz33: a pawn unstopped
+[20:50:33] nyanners: like okay, nxc5 rad1. so black plays rxe1 now, but after Nxc5 a7 the pawn promotes
+[20:50:49] chrisxz33: wait
+[20:51:04] chrisxz33: lemme calcularw
+[20:51:04] chrisxz33: rxr
+[20:52:20] chrisxz33: qc5?
+[20:52:20] chrisxz33: axb7
+[20:53:21] kayrosas: maybe next game I'll learn to count
+[20:54:37] daringdodo: after a7 maybe bh4 is a try?
+[20:54:37] qrs: (28 Nxc5) doesnt "just" 29 a7 work? How does black stop it?
+[20:54:37] qrs: Ok, just got played.
+[20:54:37] kayrosas: in my mind I was at the position after 26...Qd4 with black to move somehow
+[20:55:08] chrisxz33: ggs
+[20:55:08] qrs: Bh4 just g3 is there anything?
+[20:55:08] chrisxz33: ur cooked
+[20:55:23] daringdodo: on bh4 you should promote immediately but yeah g3 but its the only try I see
+[20:55:38] daringdodo: shouldnt
+[20:56:08] daringdodo: after g3 go rook a8 and if they take bishop atleast they ruin pawn structure?
+[20:56:08] chrisxz33: if white does Bh4 he has g3
+[20:56:08] daringdodo: I know
+[20:56:08] chrisxz33: black
+[20:56:24] rusty_2003: Rxf5 lol
+[20:56:39] rusty_2003: probably even that wouldnt work
+[20:57:09] chrisxz33: white does re7
+[20:57:09] chrisxz33: re2*
+[20:57:40] daringdodo: this is also a try cuz white cant sac the rook and promote
+[21:00:12] qrs: (30 Qe3) wow still so complicated. I am sure karasso has calculcated it through but this one was not on my radar
+[21:00:27] karasso: if the bishop from d8 ever moves to stop a8 i have Nb6, so queen trade should be fine for me
+[21:01:13] nyanners: i feel id have gone with 30 ne3
+[21:01:13] nyanners: bf6 is a good move
+[21:01:13] daringdodo: yeah nice move by black this
+[21:01:28] qrs: Interesting, Ne3 was also what I had in mind
+[21:01:43] nyanners: like okay black would probably play f4 but then you just leave it
+[21:01:59] kayrosas: :o still alive? Qe3 must've been a mistake. I think a8Q worked, was just bluffing
+[21:02:14] daringdodo: did white mess up the advantage?
+[21:02:14] qrs: (30 .. Bf6) doesnt Nb6 work?
+[21:02:14] arandommove: Nb6 now
+[21:02:29] kayrosas: 31.Nb6 a bit annoying tho
+[21:02:44] nyanners: white shouldnt give up too much
+[21:02:59] kayrosas: maybe Qxd6 there, a8Q Rx Nx Bd4
+[21:02:59] nyanners: like, you get a rook back, but you give two pawns. i agree with that line
+[21:03:15] rusty_2003: low time anything could still happen tbh
+[21:03:30] nyanners: crazy but i wanna bet on black
+[21:03:30] nyanners: maybe take even odds XD
+[21:04:00] jwwells42: yes some momentum gained by somehow being alive still
+[21:04:00] qrs: Well karasso did whisper he intends Nb6 and i think it does still work ?!
+[21:04:31] daringdodo: these two names are way too similar btw lol
+[21:04:31] qrs: Nb6, if Qxe3 fxe3
+[21:05:17] kayrosas: ouch
+[21:06:02] qrs: (31 Rb1) back on stream, fyi
+[21:06:02] daringdodo: nxf2 desperate move?
+[21:06:48] qrs: Just qxf2?
+[21:07:03] nyanners: rb1 seems rather convincing
+[21:07:03] angborxley: (31...f4) go karasso
+[21:07:19] qrs: (31 f4) Qxd4 Bxd4 Rb8
+[21:07:34] nyanners: f4 is the obvious bluff but the counter-obvious line is as obvious as its strong
+[21:07:34] nyanners: or at least seems that way
+[21:07:49] nyanners: scary to make any statements about this position xd
+[21:08:50] nyanners: keeping d6 helps a lot
+[21:10:52] kayrosas: they keep getting my hopes up
+[21:11:07] chrisxz33: ur doing well kayrosas
+[21:11:07] jwwells42: Rb8 Nxf2 Rxf8 Kg7 a8=Q Nh3 3fold xD
+[21:11:07] kayrosas: 33.Rb8 Bxf2 should be drow
+[21:11:38] daringdodo: wow
+[21:11:38] jwwells42: oh does this way work also
+[21:11:53] kayrosas: oh I missed f4 hanging at the end
+[21:11:53] jwwells42: i assumed mine did not
+[21:11:53] jwwells42: isnt the prawn yeah
+[21:12:24] daringdodo: yeah but this is still a game if white has to sac here, black is worse but maybe?
+[21:12:39] jwwells42: white two large pawns up tho
+[21:12:54] daringdodo: yeah
+[21:12:54] karasso: Nf2 Rxf2 Bxf2 Ne5 was my idea here
+[21:12:54] qrs: (36 Rxf4) so now Nf2+ Rxf2
+[21:12:54] nyanners: feels winning for sure
+[21:13:09] daringdodo: bishop pair compensation is there any?
+[21:13:09] nyanners: not sure whats the betting line tho
+[21:13:09] nyanners: maybe 80% white
+[21:13:24] qrs: well the lsb is gone in 2 moves
+[21:13:24] nyanners: ah yea that
+[21:13:24] daringdodo: be6 right
+[21:13:24] nyanners: well then
+[21:13:40] qrs: so where is the bishop pair
+[21:13:40] daringdodo: be6 is not a move here?
+[21:13:55] wadewilson: d7
+[21:13:55] nyanners: be6 d7 bb6
+[21:13:55] daringdodo: bh4
+[21:13:55] nyanners: id rather do the other side
+[21:14:10] jwwells42: c6 hangs
+[21:14:10] qrs: be6 d7 Bb6 Nxc6
+[21:14:25] nyanners: maybe you dont play d7
+[21:14:25] nyanners: because why trade d for c
+[21:14:25] daringdodo: yeah
+[21:14:41] rusty_2003: wonder if he could finesse this into bishop and knight ending lol would his opponent know how to convert that?
+[21:14:41] arandommove: Bc4
+[21:14:56] daringdodo: see its still not clear to me cuz bishop pair is strong
+[21:15:41] qrs: but what bishop pair are we talking
+[21:15:57] qrs: white can force black to have to sac one of the bishops or am i missing some genious line for black?
+[21:16:12] nyanners: promotion doesnt seem obvious after bb6
+[21:16:12] nyanners: like nxc6 bxd7 hangs..
+[21:16:42] nyanners: my reflex did fall for the optical illusion too XD
+[21:17:13] daringdodo: how crazy is bd5 here
+[21:17:43] daringdodo: otherwise bd4 I guess
+[21:17:58] nyanners: theres a little calculation but i think the pawn promotes on that one
+[21:18:14] daringdodo: yeah
+[21:18:44] daringdodo: white can trade here probably
+[21:18:59] jwwells42: it is helpful at least that white doesnt have a king atm
+[21:18:59] kayrosas: if I can trade c for a pawn somehow it could be drawable
+[21:19:30] daringdodo: yeah but still if trade and nxc6 can black draw a 3 vs 1 pawn endgame?
+[21:20:31] jwwells42: Bxe6 Kxe5 for ocbs was my thought
+[21:20:46] chrisxz33: ts is tdraw?
+[21:21:47] qrs: Ye, might be drawawble with the „ocbs“ - never saw that abbreviation before
+[21:22:17] daringdodo: ah take the knight here thats interesting
+[21:22:32] kayrosas: do I ever take the bishop here?
+[21:22:32] nyanners: the vibes are wrong
+[21:22:48] nyanners: i think white still wins (80%?) but yea you gotta take the knight
+[21:22:48] qrs: Well, rooting for karasso Vitrine here
+[21:23:03] chrisxz33: bro u have bishop
+[21:23:03] qrs: *bigtime
+[21:23:03] chrisxz33: so take bishop bro
+[21:23:18] qrs: Think he played an incredible game so far and deserves the win
+[21:24:04] daringdodo: it still feels winning for white to me eventually
+[21:24:19] chrisxz33: who deserves the win
+[21:24:19] nyanners: the only real question is whether the c-pawn can be an useful distraction
+[21:24:19] qrs: Well how does white hold both a and d pawn? :/
+[21:24:50] nyanners: you dont have to. a+g may do it
+[21:24:50] daringdodo: blacks king is so active vs such a bad king tho
+[21:25:05] nyanners: its the only thing black has
+[21:25:20] qrs: Obviously a great game by both players, don’t wanna be impolite
+[21:25:35] daringdodo: c pawn push now? as fast as possible?
+[21:25:35] rusty_2003: What does black do other than wait for white king to come in tho
+[21:25:35] nyanners: in these endgames its nice that the pawns are far apart
+[21:26:06] karasso: the last 10 moves were so bad by me, there wihere so many winning lines and now i am here...
+[21:26:06] daringdodo: but with c5 the king can come to the centre thats annoying
+[21:26:36] rusty_2003: karasso seems a bit discouraged, but its too early to give up
+[21:26:36] qrs: Can black go and take the a pawn with the king and push his c pawn? Wouldn’t that be the drawing approach?
+[21:27:22] daringdodo: @qrs it makes sense to me yeah but how can you win it
+[21:27:37] nyanners: i think you push c to keep the option
+[21:27:37] nyanners: since K close doesnt win the pawn
+[21:28:53] daringdodo: maybe kf4 here to go to try to push h pawn later and restric whites king somehow
+[21:30:24] qrs: Ye, true - white just keeps the pawn on a2. So the only hope for black is pushing on the c file. If white is in time to stop it, it should b
+[21:30:55] daringdodo: not kg1?
+[21:31:10] nyanners: pushing makes sense. id only be worried about giving black a blockade
+[21:31:25] nyanners: but the black bishop is stuck for the moment
+[21:31:41] daringdodo: I dont get h4 dont you need to bring your king as white
+[21:32:42] qrs: I am sure white did consider it, but ye don’t get it either
+[21:32:57] daringdodo: cant you support the c pawn with king now as black, and white has to sac bishop eventually?
+[21:33:12] qrs: Like kg1 guaranteed your king is „in the box“
+[21:33:12] karasso: kf4 Bd1 Kg3 was maybe an idea for black after h4
+[21:34:13] daringdodo: white will have to sac the bishop for the pawn to stop it promoting
+[21:34:29] proclaimed: worst case its guaranteed draw for white since wrong color bishop
+[21:34:44] qrs: Think white still has decent chances there
+[21:35:14] qrs: White king comes to support the d pawn
+[21:35:14] proclaimed: white prob winning
+[21:35:30] qrs: Which will then force the counter sac
+[21:35:30] qrs: And then black will only stop one side
+[21:36:15] nyanners: i think white is just going for the a+g situation
+[21:36:15] nyanners: i dont mind it
+[21:36:31] nyanners: dont see any problems
+[21:37:16] daringdodo: what a fight tho
+[21:37:32] kayrosas: missed 49.Kh5 Ke6 g3, probably 0 hope there
+[21:41:36] daringdodo: gg
+[21:46:26] qrs: GG
+[21:47:27] nyanners: gg
+[21:49:44] angborxley: gg
+[21:56:49] chrisxz33: what a battle
+[21:56:49] chrisxz33: rf
