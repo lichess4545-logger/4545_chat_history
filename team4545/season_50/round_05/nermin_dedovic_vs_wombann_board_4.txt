@@ -1,0 +1,70 @@
+Lichess game chat log
+Game      : https://lichess.org/bhubX7BF
+White     : nermin_dedovic
+Black     : wombann
+Time      : 45+45
+Captured  : 2026-10-21 19:53:25 UTC
+Game ended : 2026-10-21 18:33:19 UTC
+Messages  : 60
+────────────────────────────────────────────────────────────
+
+[17:01:04] nirakuhakamura: (2.Nc3) go Nermin!
+[17:01:49] guitarspider: go Nermin
+[17:02:35] nermin_dedovic: So I did look at this briefly with computer analysis before the game.
+[17:03:20] nermin_dedovic: Apparently Computer recommends Nge2, but I didn't quite understand why . Maybe to avoid the pin. But it seems fine regardless
+[17:03:51] nermin_dedovic: Or possible to keep f3 open, I could see e4 being a break in this position
+[17:05:37] nermin_dedovic: If I remember correctly, my opponent usually goes Be6 here. I saw something like Be6 0-0 and if Nbd7 then NF4
+[17:06:53] nermin_dedovic: Good luck in your game later Niraku!
+[17:08:39] nirakuhakamura: (9...Ne4) thanks :)
+[17:10:41] nermin_dedovic: Looking at Bxe7 Qxe7 Nxe4 dxe4 Bc4 and followup with Nc3 and potentially castles and f3.
+[17:14:44] nirakuhakamura: (10...Qxe7) I was looking at .... Bxe4 dxe4 Ng3, maybe Qc2 or Qh5 but I don't see anything concrete
+[17:17:46] nermin_dedovic: Oh no. Qb4...
+[17:18:01] nirakuhakamura: (12.Bc4) yup
+[17:18:46] nirakuhakamura: (12.Bc4) he doesn't see it
+[17:19:32] nirakuhakamura: (13.Nc3) or maybe he does. only half wombat
+[17:20:33] guitarspider: (14...Qb4+) ouch
+[17:35:11] nermin_dedovic: Good luck Later T_T.
+[17:36:11] t_t2603: Thank you, let‘s go Nermin
+[17:54:40] nyanners: ah white fell victim to all the move order funnies
+[17:54:40] nyanners: well played by b :o
+[17:55:10] nyanners: so far (?)
+[17:56:41] nyanners: 3 cxd5 into 4 d4 is slightly exploitable by 4..Bf5 and black can hold back on Nf6
+[17:56:57] nyanners: Bf5 c6, maybe Bd6 if Bf4 and only then Nf6, and avoids Bg5 that way
+[17:57:42] nyanners: later you play Qc2 first instead of Nge2 because of Ne4
+[17:57:57] nyanners: and then white had the worst case scenario of blundering the thing :o
+[17:59:13] nyanners: what white usually does in this move order is 3 d4 to force black to commit before going cxd5
+[17:59:43] nirakuhakamura: but so he could have gone 11. Qc2 still or what's the difference?
+[17:59:58] nyanners: that you allowed Ne4 at all
+[17:59:58] nyanners: Qc2 first and Ne4 loses a pawn
+[18:00:13] nirakuhakamura: ok
+[18:00:13] nyanners: so you have to prepare it with Re8
+[18:00:59] nirakuhakamura: so you are saying if 11. Qc2 then Nxc3
+[18:01:14] nyanners: umm not totally sure. looks like black has many good options
+[18:01:29] nyanners: Bf5 or even Nd6 which is very cultured
+[18:01:29] nirakuhakamura: f5?
+[18:01:29] nirakuhakamura: :D
+[18:01:44] nyanners: maybe :o
+[18:01:59] nirakuhakamura: oh Nd6 ok intersting
+[18:26:14] nyanners: so close but couldnt bluff call with 36 Qxe4
+[18:26:45] nirakuhakamura: why not?
+[18:27:00] nyanners: rxg2 rg1 r8g2
+[18:27:00] nyanners: ke3 re1, kd3 fx is check
+[18:27:30] nyanners: so yeah not bluffing
+[18:27:30] nirakuhakamura: king is on e3?
+[18:27:30] nyanners: then re1
+[18:30:32] nirakuhakamura: Rxg2 Kf1 Rg1 Ke2 R8g2 ok you're right
+[18:33:34] guitarspider: gg
+[18:36:36] wombann: I was expecting 1.b3. I usually answer 1.c4 with 1...e6 and hoping for a QGD Carlsbad, which worked here
+[18:37:36] wombann: I dont know if c4-players do willingly go into this structure
+[18:39:38] nyanners: gg :o
+[18:40:08] nyanners: ive played 1..e6 for a long time, its a great exploit at mid levels
+[18:40:39] nyanners: but you must know white can transpose with 3 d4, and that you can get a better version of the theory lines with 4..Bf5
+[18:40:54] nyanners: or maybe you dont have to. everyone plays 3 cxd5, after all :o
+[18:41:09] wombann: Ah I see my opponent did prepare for this. I was preparing for 1.b3 cause they do play this very frequently and my score against the Larsen
+[18:41:09] wombann: Is very poor
+[18:42:10] wombann: Thx nyanners
+[18:43:55] wombann: That is interesting. I was just lazy, I usually like to play Carlsbad structures with black and white
+[18:44:11] nyanners: 4..c6 is arguably most comfortable (and 5..Bf5)
+[18:44:26] nyanners: on Bf5 you have to meet Qb3 with Nc6 but you will probably win quickly
+[18:45:11] wombann: And very often 1.c4 e6 goes this direction, like 50% or more in my games
+[18:45:26] nyanners: yes i love this move order when playing down
