@@ -1,0 +1,140 @@
+Lichess game chat log
+Game      : https://lichess.org/M6qztKpP
+White     : arandommove
+Black     : super0jins
+Time      : 45+45
+Captured  : 2026-10-21 21:37:51 UTC
+Game ended : 2026-10-21 20:17:45 UTC
+Messages  : 130
+────────────────────────────────────────────────────────────
+
+[17:56:44] tactix47: Those are some super onions!
+[18:00:01] super0jins: well, there goes my prep
+[18:00:17] mrscribbles: :)
+[18:00:17] mrscribbles: Go onionsoupers
+[18:01:17] tactix47: Most unexpected development.  Is it time for a spicy KGA?
+[18:14:42] super0jins: I may have had this position in an otb game by transposition
+[18:15:28] super0jins: sadly all I remember from that game is that I lost
+[18:16:13] super0jins: but I lost to some Bxf7 nonsense there so it might not be the same position
+[18:26:36] tactix47: (7...g5) love to see it.  What's the over/under on game length?  Setting the line at 25.5 moves
+[18:26:51] mrscribbles: (7...g5) "sadly all I remember from that game is that I lost" so relatable
+[18:27:06] mrscribbles: (7...g5) I examine every move of everygame i win, and immediately put the losses in the memory hole
+[18:28:06] guitarspider: (8.Nd5) is g4 not a bit of a problem?
+[18:29:07] grzybozbur: only when i play white
+[18:29:22] marco_chess13: lol
+[18:29:38] grzybozbur: when i play black it tends to be losing
+[18:29:38] guitarspider: (8.Nd5) I think White can play g4 Nxf4 actually
+[18:33:26] guitarspider: (8.Nd5) pretty sure you get into trouble there as black with some Bxf7 stuff and an open f-file
+[18:39:16] grzybozbur: there are lines where after g4 white just lets black take f3, retakes with the queen and then somehow black gets mated within ten moves
+[19:06:51] super0jins: gxf g4 with the threat of Bxd4
+[19:06:51] mrscribbles: (10...Bg7) just checking back in now. What a crazy position
+[19:06:51] mrscribbles: (10...Bg7) Can we even attempt an eval?
+[19:07:07] mrscribbles: (10...Bg7) Maybe black is OK since they can castle long?
+[19:08:08] super0jins: and I would love to get my king out of the centre but going for long castle looks slow and too ambitious
+[19:09:08] tactix47: (10...Bg7) No idea what's happening, except that there's a lot going on.
+[19:09:24] super0jins: with the threat of Nf6 after some sac on g5 and Qxh5
+[19:09:24] mrscribbles: (10...Bg7) indeed
+[19:09:24] mrscribbles: (10...Bg7) watchpartied
+[19:09:39] super0jins: now the bishop has that covered so I can play Qd7 if I still want to go long
+[19:09:39] mrscribbles: (10...Bg7) Oh, good point about Nxg5
+[19:10:24] tommeketoch: Is Nxg5 a move right now?
+[19:10:55] mrscribbles: (10...Bg7) I don't think so tomme? Nxg5 Qxg5 and h5 is no longer hanging
+[19:11:10] mrscribbles: (11.gxf4) or hxg5 and same thing
+[19:11:10] tommeketoch: Nxc7
+[19:11:10] mrscribbles: (11.gxf4) ah, nice
+[19:11:10] tommeketoch: It is crazy
+[19:11:25] mrscribbles: (11.gxf4) well just hxg5 then? Meaning the h8 rook protects h5
+[19:11:40] tommeketoch: yeah then somehow crashing through to f7
+[19:11:56] tommeketoch: it are not my pieces :p
+[19:11:56] mrscribbles: (11.gxf4) relatable
+[19:12:11] mrscribbles: (11.gxf4) We spectators love to come up with brilliancies as long as it's sacrificing someone else's pieces
+[19:12:26] tommeketoch: So Nxg5/Nxc7 in some combo to then take on f7
+[19:12:41] super0jins: I can also take and Rg1
+[19:12:56] mrscribbles: (11.gxf4) love a combo. I got a nice chips and guac combo with my burrito bowl at chipotle
+[19:13:12] tommeketoch: but yeah that is a bit much
+[19:13:27] tommeketoch: Ne5 was the alternative
+[19:13:27] mrscribbles: (11...g4) Superonions, I don't know how to play or what the eval is, but I'm glad it's your problem and not mine
+[19:14:12] mrscribbles: (12.c3) Kind of funny how there are knights covering every dark quare the queen could move to
+[19:14:12] tommeketoch: 11Ne5 I actually like was already looking at that earlier
+[19:14:12] mrscribbles: (12.c3) Whoa, what is this c3 madness?
+[19:14:42] tommeketoch: now surely it is black that just start strong attack?
+[19:14:42] mrscribbles: (12.c3) c3 is a deranged move
+[19:15:13] tommeketoch: ah no that is coo
+[19:15:28] mrscribbles: (12.c3) What do you see, tommmmme?
+[19:15:43] mrscribbles: (12.c3) oh, Qxf3 forks everything
+[19:15:58] mrscribbles: (12.c3) Maybe gxf3 Qxf3 Qh4?
+[19:15:58] grzybozbur: this can't work, can it?
+[19:16:14] mrscribbles: (12.c3) I think ...Qh4 after the trade is fine?
+[19:16:29] grzybozbur: yes
+[19:16:44] mrscribbles: (12.c3) then black castles long
+[19:16:44] mrscribbles: (12.c3) please I'm begging you, please castle soon
+[19:16:44] tommeketoch: but then we habe back Nc7
+[19:17:00] mrscribbles: (12.c3) I keep forgetting about that pesky Nc7+ haha
+[19:17:31] mrscribbles: (12.c3) Maybe just Qd7 now?
+[19:17:31] tommeketoch: It would be shame if the King can't watch this spectacle
+[19:17:46] grzybozbur: hm, right, nc7 unpleasant
+[19:17:46] mrscribbles: (12.c3) I don't think the king is interested in the spectacle haha
+[19:18:17] mrscribbles: (12.c3) it's seeking the promised land on b8
+[19:18:17] tommeketoch: nah the King Gambit is maybe his favorite opening
+[19:19:33] tommeketoch: very reasonable of course Rg8 I assume that forces Kh1?
+[19:19:48] tommeketoch: or do we move the knight now?
+[19:19:48] tommeketoch: to make sure the g file stays closed
+[19:20:34] mrscribbles: (12...Rg8) bro please castle
+[19:20:34] mrscribbles: (12...Rg8) I'm begging you. I'm begging you
+[19:20:49] mrscribbles: (12...Rg8) why are you messing around with rook moves
+[19:20:49] grzybozbur: can we go ng5?
+[19:21:04] mrscribbles: (13.Ne1) No. Qd7. I don't care
+[19:21:04] mrscribbles: (13.Ne1) please. I'll do anything
+[19:21:34] mrscribbles: (13.Ne1) Qd7!
+[19:22:05] mrscribbles: (13...Qh4) Does this do something?
+[19:22:20] tommeketoch: did they blunder Nxc7 or did they spot a brilliancy?
+[19:22:20] mrscribbles: (13...Qh4) Can they really get away with this?
+[19:22:35] mrscribbles: (13...Qh4) I blundered Nxc7+ three different times haha so I can't talk
+[19:22:35] tommeketoch: maybe they will not even recaotyre the knight and just play g3
+[19:22:50] mrscribbles: (13...Qh4) I mean Nxc7+ g3 does look scary
+[19:23:20] tommeketoch: inclusion of K- move and Nxa8
+[19:23:20] mrscribbles: (13...Qh4) yes true
+[19:24:06] tommeketoch: or both blundered it or white is not interested
+[19:24:21] tommeketoch: white didn't seem to be that much interested in materail in general
+[19:24:36] mrscribbles: (15.Rxg2) OK pop time to castle
+[19:24:36] mrscribbles: (15...O-O-O) thank you
+[19:24:52] tommeketoch: but now white is just better?
+[19:25:07] tommeketoch: After capturing on g4
+[19:25:07] mrscribbles: (15...O-O-O) kinda seems like it yeah
+[19:25:07] tommeketoch: ah no
+[19:25:07] grzybozbur: i'd say the eval must be between -3 and +3
+[19:25:22] tommeketoch: that is beautifull
+[19:25:22] tommeketoch: Bxd4!
+[19:25:52] mrscribbles: (15...O-O-O) What does Bxd4 do? Keeping in mind white has Qe1+ Bf1
+[19:26:23] namegoesinhere: (15...O-O-O) Qxg4+ Qxg4 Rxg4 Bd4+ cxd4 Rxg4 is the idea
+[19:26:38] tommeketoch: indeed
+[19:26:53] mrscribbles: (15...O-O-O) ah ok
+[19:27:08] tommeketoch: I almost want to go back live :p
+[19:27:24] tommeketoch: But I am sure Jordan will be get stream up and running fast
+[19:29:41] mrscribbles: (16.Ne3) Does g3 do anything?
+[19:32:14] grzybozbur: i'm beginning to think black is losing
+[19:32:44] cinemashow: yes
+[19:33:30] mrscribbles: (16...Nxf4) What happens after g3?
+[19:34:15] mrscribbles: (16...Nxf4) Rxg4 Nh3+ and...
+[19:34:31] mrscribbles: (17.Qxg4+) or this
+[19:36:01] mrscribbles: (18...d5) Can we get away with Ne6?
+[19:36:01] mrscribbles: (18...d5) Guess not
+[19:36:32] mrscribbles: (18...d5) I just realized the rating difference, wow. Black putting up a good fight
+[19:36:47] mrscribbles: (18...d5) probably hoping for some Bd4+ tactics
+[19:38:18] tommeketoch: and the King is looking at this game!
+[19:43:06] mrscribbles: (24...Ne5) nice
+[19:43:06] mrscribbles: (24...Ne5) giving white something to think aout
+[19:43:36] mrscribbles: (24...Ne5) white should probably be winning tho
+[19:44:22] super0jins: I think Im toast after Be3
+[19:44:22] mrscribbles: (24...Ne5) I think so too
+[19:44:52] mrscribbles: (24...Ne5) Bxh6!!!!
+[19:48:40] mrscribbles: (25...Rh4) This is good. Make them work for it
+[19:48:55] mrscribbles: (25...Rh4) If you can get two passed pawns it still looks tough, but who knows?
+[19:49:10] mrscribbles: (26...Rg4+) Now - this part is essential - we have a really good spite check
+[19:49:10] mrscribbles: (26...Rg4+) excellent
+[19:51:57] mrscribbles: (28.Rg1) Well you can't trade, whatever you do
+[19:52:13] mrscribbles: (28.Rg1) Maybe Rb4. Doesn't look great
+[20:16:44] super0jins: I can either hope for some magical stalemate or resign
+[20:18:00] guitarspider: gg
+[20:19:16] super0jins: Looks like im a coward for not playing gxf
+[20:20:01] super0jins: Not sure what I was afraid of there, because Nxc7 was a threat I did not care about after Qh4 either
