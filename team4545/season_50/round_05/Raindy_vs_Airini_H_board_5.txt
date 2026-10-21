@@ -1,0 +1,57 @@
+Lichess game chat log
+Game      : https://lichess.org/pq61TMoG
+White     : raindy
+Black     : airini_h
+Time      : 45+45
+Captured  : 2026-10-21 09:24:54 UTC
+Game ended : 2026-10-21 08:04:42 UTC
+Messages  : 47
+────────────────────────────────────────────────────────────
+
+[06:06:13] rio2018: (1.e4) goaiRini!
+[06:06:29] pineapplechiffoncake: go airini!
+[06:14:20] gavalanche20: (10.Qf4) Bd6?
+[06:39:13] gavalanche20: (10.Qf4) Hmmm is f4 a move here?
+[06:39:13] gavalanche20: (17.Bg2) *17...f4
+[06:50:07] kayrosas: 17...f4 Rf1 maybe and is a bit loose
+[06:51:23] gavalanche20: (18...Rab8) Ah true nvm
+[07:23:51] nyanners: this seems to have been well navigated for how weird it was
+[07:24:52] nyanners: 26 Bd5+ Kf6 Nh5# would be funny (not for black i guess)
+[07:52:01] ben3536: (30...Rbc8) does black not see the fork?
+[07:52:31] gavalanche20: (30...Rbc8) Wait potentially dumb question but where
+[07:52:46] ben3536: Bxc5 Rxc5 d4
+[07:53:32] kayrosas: also just Bxc5 Rxc5 Rxe5
+[07:53:47] ben3536: or that
+[07:53:47] ben3536: (31. d4) or this
+[07:54:02] gavalanche20: (30...Rbc8) Oh I was looking for Black forks lol, d4 is so obvious now in hindsight
+[07:54:48] kayrosas: 29...Ne5 relied on tactics. white defended it with Rb3 but black didn't react
+[07:55:19] gavalanche20: (32.dxc5) Too much tension to keep track of with the bishops I guess
+[08:01:09] ben3536: (36. Bd5+) nice simplifying tactic
+[08:01:24] ben3536: not quite at resigns yet but we're getting there
+[08:01:39] nyanners: it can be resigns
+[08:01:55] nyanners: rxe8 ne6+ and somehow you cant avoid nd4
+[08:02:56] ben3536: okay, yes, that is much cleaner
+[08:03:11] ben3536: then resigns
+[08:03:26] ben3536: i'll be impressed if white finds that over the board
+[08:03:26] nyanners: dont really expect white to see it in advance, its kinda weird-looking
+[08:03:41] nyanners: but thats where long time control really helps
+[08:03:41] ben3536: oh?
+[08:03:56] nyanners: i think white sees :D
+[08:03:56] ben3536: *clap clap*
+[08:03:56] gavalanche20: (35...Bd7) And then Ne7 instantly haha
+[08:04:11] nyanners: like the speed at which that was played
+[08:04:11] nyanners: says it
+[08:04:27] nyanners: wow premove
+[08:04:27] nyanners: sicko
+[08:04:42] nyanners: gg XD
+[08:04:57] kayrosas: gg
+[08:04:57] raindy: that was close
+[08:05:12] raindy: he had a nice prep
+[08:05:43] airini_h: Not really you just played the one line I looked at
+[08:06:28] raindy: that was the main line so nice find
+[08:07:14] gavalanche20: I thought during the game 10...Bd6 looked pretty dangerous
+[08:07:14] raindy: btw you saw the tactic with Nc7 on move 30 ?
+[08:07:44] raindy: idk why you play Rac8 otherwise
+[08:10:31] airini_h: I didn't see a tactic with Nc7
+[08:11:02] airini_h: Just moved before thinking it through
+[08:30:29] airini_h: Dugh totally missed 10...Bd6
