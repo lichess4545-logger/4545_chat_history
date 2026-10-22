@@ -1,0 +1,129 @@
+Lichess game chat log
+Game      : https://lichess.org/4m0FHdWG
+White     : funnyanimatorjimtv
+Black     : sussasun
+Time      : 45+45
+Captured  : 2026-10-22 21:27:30 UTC
+Game ended : 2026-10-22 20:07:26 UTC
+Messages  : 119
+────────────────────────────────────────────────────────────
+
+[17:32:12] indianagamer: hello!
+[17:34:59] funnyanimatorjimtv: hi mrscribbles, hi jordan!
+[17:36:15] funnyanimatorjimtv: (10.Nf1) i found this line 4.dxe5 and i believe we got to the mainline position
+[17:36:46] indianagamer: i hope i can learn something watching you guys
+[17:37:16] funnyanimatorjimtv: (10...Ne6) now i'm kind of on my own. i mean i know some typical white moves and to finish development but i dont know the game trajector
+[17:39:48] guitarspider: (11...Rd8) go Jim
+[17:40:03] funnyanimatorjimtv: i did see some games and white does well in the center and black on the queenside but i didnt memorize the moves
+[17:41:04] funnyanimatorjimtv: well ...d4 will be a key move for both sides to watch out for at all times. but i can play c3 at any time, may or may not strengthen it
+[17:41:04] funnyanimatorjimtv: i do know c3 is a normal move here
+[17:41:19] funnyanimatorjimtv: but i forget how white usually developed the bishop
+[17:42:05] funnyanimatorjimtv: maybe c3 is to prepare Be3
+[17:42:50] funnyanimatorjimtv: i could also play Nf5 before black plays ...g6, then if he plays Bf8 g6 i have to play Nh6+ Ng4
+[17:44:07] funnyanimatorjimtv: the thing is 12.Nf5 he might even be able to play g6 immediately and his knights aren't too bad but his dark squares are weak
+[17:45:07] funnyanimatorjimtv: ill go c3 cause if he plays ...g6 then i can play Bh6
+[17:45:23] funnyanimatorjimtv: that may have been the first key move of the game
+[17:45:38] funnyanimatorjimtv: now he's preparing ...d4 and can eventually play ...c5 so maybe i should get out of the pin
+[17:46:39] funnyanimatorjimtv: 12.Qa4 Bd7 Qg4 Ned4-xe2
+[17:47:55] funnyanimatorjimtv: 13.Nf5 move gives me more cover on d4 and then i can play Be3
+[17:49:27] funnyanimatorjimtv: hi guitarspider!
+[17:50:43] funnyanimatorjimtv: Qa4-g4 is still interesting but probably still too dangerous
+[17:51:29] funnyanimatorjimtv: and right now i guess it loses 14.Qa4 Nc5 Qg4 g6 Nh6+ Bxh6
+[17:53:00] funnyanimatorjimtv: tossing up between 13.Qc2 and Be3. If Be3 then Nf4 Nh6+ breaks his structure
+[17:53:46] funnyanimatorjimtv: 14.Qc2 d4 cxd4 Nxd4 Nxd4 Nxd4 Nxd4 Rxd4 Be3 i don't know if that's good enough for white
+[17:55:02] funnyanimatorjimtv: ok interestingly it might be good because (after Be3 there) ...Rd5 f4, ...f6 is not possible cause Bc4, and what else, i will play Bf3
+[17:58:20] funnyanimatorjimtv: i feel like this is the kind of position where an engine or GM could whip up an attack in a few moves. but black still has lots defenders
+[17:58:50] funnyanimatorjimtv: hi nyanners, hi ryune, hi martin
+[18:00:37] funnyanimatorjimtv: maybe h4 Ng5 is pointless cause yeah black's defense with the Bf8 is so strong, g6 if necessary
+[18:02:38] pineapplechiffoncake: Go Jim!
+[18:03:09] funnyanimatorjimtv: i guess ...Ne7 completely neutralizes the Nf5
+[18:04:40] funnyanimatorjimtv: retreating Ng3-h5 takes a long time and still no threat against black's solid kingside
+[18:05:56] funnyanimatorjimtv: 15.Nfd4 he could either play ...a6...c5 or ...Nxd4 cxd4 which may not be good for white
+[18:08:59] funnyanimatorjimtv: ok if i go 15.Ng3 and he plays for ...c5...d4 then the knight might be able to go to e4 then d6
+[18:09:29] funnyanimatorjimtv: 15.Ng3 c5 Be3 d4 cxd4 cxd4 Bd2 Bd7 Ne4 Rc8
+[18:10:30] funnyanimatorjimtv: could also just play 15.Nxe7+ Bxe7 Be3 and Rad1
+[18:13:17] funnyanimatorjimtv: 15.Be3 Nxf5 Qxf5 Nd4 Qh5 Nxe2+ Rxe2 g6 stops Ng5
+[18:14:03] funnyanimatorjimtv: i did consider Bf1 at the beginning and am reconsidering it cause i cant see anything better
+[18:14:34] guitarspider: (14...Ne7) big tank
+[18:14:49] funnyanimatorjimtv: but i kind of want to keep pieces on the board instead of exchanging stuff so im returning to Ng3 or Ne3
+[18:17:21] funnyanimatorjimtv: but if i play Ng3 then black has so many easy moves to improve their position
+[18:18:06] funnyanimatorjimtv: ok 15.Bf1 let him trade all the pieces
+[18:19:53] funnyanimatorjimtv: funny i didn't even consider the move Bd3 lol but it doesnt do anything he will just play g6 eventually. actually maybe it wold be better
+[18:22:40] funnyanimatorjimtv: yeah maybe 15.Be3 Nxf5 Qxf5 Nd4 Qg5 Nxe2 Rxe2 was indeed better cause though black has bishop pair white's pieces are a bit more active
+[18:23:10] funnyanimatorjimtv: no idea. dont have any experience in this position, which pieces+structures are better to keep etc
+[18:25:58] funnyanimatorjimtv: 17.Be3 ok maybe this is good for white. if black's position does end up bad he could try Rxd6 and i dont know what happens there
+[18:27:29] funnyanimatorjimtv: ok i can't attack his queen much more and don't see any other attacks
+[18:27:44] funnyanimatorjimtv: cause he has ...Bxd6
+[18:30:47] funnyanimatorjimtv: 18.Nf5 ok i didnt really make progress but he has some liabilities like Qc6 i can trade if i want, h4 h5 with tempo, ...Ne7 Nd6
+[18:33:49] funnyanimatorjimtv: have to watch out for ...Nf4 cause that allows for ...g6 at the same time as ...Bxd6, and playing g3 might weaken f3 (...Qxf3)
+[18:41:26] funnyanimatorjimtv: i liked both 19.Bg5 and 19.Rd1, going with this one
+[18:43:58] funnyanimatorjimtv: well maybe i'll regret it
+[18:45:45] goldenretrieverchess: Go Jim!
+[18:46:45] nyanners: chess is one big regret
+[18:49:33] nyanners: seems like trouble for white
+[18:50:03] nyanners: nothin to show for the bishop pair and this Nd6-e5 thing is a liability
+[18:50:34] nyanners: f4 is most consistent but black should be able to bluff call with Bxd6
+[18:50:34] funnyanimatorjimtv: 25.f4 trying
+[18:50:49] nyanners: as f5-f6 still isnt supported
+[18:54:07] funnyanimatorjimtv: i just remembered that my opponent is much stronger than me so that decreases the likelyhood i survive but i'll still try
+[18:55:38] nyanners: dang
+[18:55:38] nyanners: id call this an even matchup
+[18:56:39] funnyanimatorjimtv: i wanted to play f6 in some line but it doesnt work here
+[18:56:54] funnyanimatorjimtv: and on Bc4 he at least has ...Ne7
+[19:01:28] funnyanimatorjimtv: 28.Re2 prepares Rdd2 attacking d4 and also protects b2 so maybe i can play Qb3
+[19:01:44] funnyanimatorjimtv: but he can overprotect with ...Ne7...Bc6
+[19:02:44] funnyanimatorjimtv: maybe theres some position i play f6 Rf2
+[19:03:45] funnyanimatorjimtv: 29...d4 hmm
+[19:10:05] funnyanimatorjimtv: 30...Nxf5 Rf1 Ne3 Rxf6 Nxc2 Rff2 the knight is trapped
+[19:10:36] nyanners: id think about dislodging the queen to play f6 but seems basically impossible
+[19:11:06] funnyanimatorjimtv: but if 30...Bc6 Rde1 Re8 i dont see any more good moves
+[19:12:23] funnyanimatorjimtv: ill keep putting pressure on the d5 pawn so if he trades rooks and plays ...Bxe8 i can take d5
+[19:16:11] funnyanimatorjimtv: 32.Nf3 theres no trick
+[19:22:02] imen001: Whites best feature is his e file domination. Re8 neutralize that then just be up a pawn ?
+[19:23:03] funnyanimatorjimtv: 34.Re5 i dont know whats happening, im tired. dont care about time trouble just hope i can survive
+[19:26:05] funnyanimatorjimtv: 36.h4 you never know
+[19:27:37] funnyanimatorjimtv: 37...Nc8 g5 Qd6 so funny
+[19:28:38] funnyanimatorjimtv: ok 37...Nc8 Rc7 Qd6 Ree7
+[19:31:55] funnyanimatorjimtv: im not even calculating anything im just waiting for black's response cause theres probably only going to be one move that holds anyways
+[19:36:29] nyanners: well thats a Threat :o
+[19:36:29] nyanners: Re8 needed?
+[19:37:15] nyanners: id start with g5
+[19:37:30] nyanners: black wanted to play Qd6 anyway. whats the idea
+[19:37:30] funnyanimatorjimtv: sadly for me this might lead to nothing but my rooks getting traded and i'm still a pawn down
+[19:38:01] imen001: g5 qd6
+[19:38:01] nyanners: yea of course. but what has white gained in this order
+[19:38:16] nyanners: seems just losing
+[19:38:16] funnyanimatorjimtv: wait noooooo
+[19:38:47] imen001: After Qd6 what now ?
+[19:39:02] nyanners: resigns
+[19:39:02] funnyanimatorjimtv: how did i not see that
+[19:39:02] nyanners: rxf7 into f6 and riots
+[19:39:17] nyanners: actually id try that
+[19:39:17] nyanners: just because trying is free
+[19:39:17] imen001: lol
+[19:39:32] nyanners: like yea rxc6 kinda feels like resigns
+[19:39:47] nyanners: you dont have time to push a kingside pawn after this
+[19:40:03] funnyanimatorjimtv: well now that his bishop is gone there is still potential
+[19:40:18] nyanners: or rather you do but i dont see the potential.. but you gotta do it. so yeah no resigns yet
+[19:40:33] nyanners: g5 and see what happens
+[19:42:50] imen001: Here comes the kitchen sink
+[19:43:20] inter-temporal: and a dishwasher
+[19:44:52] imen001: Very solid play by Suss.
+[19:45:37] funnyanimatorjimtv: 43.gxh6 fireworks
+[19:47:39] funnyanimatorjimtv: aaaa i should have done 44.Rb7 Re8 Qh5
+[19:47:54] funnyanimatorjimtv: nvm the Qd6 guards h6
+[19:48:09] funnyanimatorjimtv: and i couldntt play Qh5 lol
+[19:49:41] funnyanimatorjimtv: 43.f6 gxf6 Rb7 maybe better
+[19:50:42] nyanners: okay it had to be done xd
+[19:53:29] funnyanimatorjimtv: (48.hxg5) !?!?
+[20:02:22] funnyanimatorjimtv: (56.g6) crazy!!!!!
+[20:03:22] nyanners: well that was a decent run but yea XD
+[20:07:42] inter-temporal: gg
+[20:07:42] funnyanimatorjimtv: gg
+[20:07:42] nyanners: gg
+[20:07:57] imen001: Gg
+[20:15:48] funnyanimatorjimtv: 15.Ng3 and 15.Rad1 were correct and i rejected them. i misevaluated that position and missed how black can take the e5 pawn
+[20:16:03] funnyanimatorjimtv: *19.Rad1
+[20:21:07] funnyanimatorjimtv: yep in many master games and the engine they can just play seemingly-normal moves and create an advantage or attack for white
+[20:21:07] funnyanimatorjimtv: but i couldn't find anything in the game
+[20:22:38] funnyanimatorjimtv: @sussasun thanks for the game, if you want to analyze in a study we can but if not it's okay i'm tired
