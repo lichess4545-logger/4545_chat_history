@@ -1,0 +1,46 @@
+Lichess game chat log
+Game      : https://lichess.org/TyFpPxVF
+White     : planetchessclub
+Black     : sivakumarr
+Time      : 45+45
+Captured  : 2026-10-22 01:40:58 UTC
+Game ended : 2026-10-22 00:20:50 UTC
+Messages  : 36
+────────────────────────────────────────────────────────────
+
+[22:28:57] sivakumarr: (1.Nf3) Move 1 surprise
+[22:30:13] sivakumarr: (2.d4) Did I scout the wrong opponent? I've spent the past 20 minutes looking at 1. e4
+[22:32:14] matthieu_max: go go planet
+[22:37:17] sivakumarr: (5...a6) Vague ideas of queenside expansion
+[22:38:17] gavalanche20: (5...a6) True, White only has a handful of d4 games
+[22:39:03] tactix47: Go planet!
+[22:42:19] sivakumarr: (6...b6) It's gotta be b6. As towards how I should recapture if White takes, no idea, but we'll figure that out
+[22:44:20] sivakumarr: (7...Nb8) I don't believe White can hold this pawn
+[22:52:10] sivakumarr: (10.O-O) Highly tempted by the line 10...Qe8 11. Ne5 Bxe5 12. dxe5 Ng4 13. Bxh2 when it looks quite dynamic
+[22:53:40] sivakumarr: (10.O-O) My one concern is 10...Qe8 11. e4! with the fork threat and / or exchanges galore
+[22:54:26] sivakumarr: (10.O-O) Actually, 10...Qe8 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe4 f5 wins
+[22:57:42] sivakumarr: (10.O-O) Ok, I've checked my lines again and don't see anything else, time to send!
+[23:04:01] sivakumarr: (12...Ng4) Should I have been patient and played 11...g3? Upon a second look, I don't see how White can use that tempi against me
+[23:07:33] sivakumarr: (12...Ng4) Eh, idk - 11...g3 really weakens my dark squares with 12. e4 Bxe5 13. dxe5 dxe4 14. Nxe4 Nd4. This line looks best, but ...
+[23:07:33] sivakumarr: ...there's so much opportunity for me to miscalculate
+[23:10:20] sivakumarr: (13.Bxh7+)  I think this is good for me irrespective - razor's edge though
+[23:13:07] sivakumarr: (14.Nf3) Do I want / need an immediate Queen trade?
+[23:14:22] sivakumarr: (14.Nf3) Do I need to take on c6 immediately? g6 looks appealing
+[23:14:53] gavalanche20: (14.Nf3) Hm if g6 Qa4 potentiall something
+[23:15:38] gavalanche20: (14.Nf3) Hit the knight and try to swing Q to h file
+[23:20:26] tactix47: (14.Nf3) Black has real problems getting his Q-side pieces into play
+[23:20:56] sivakumarr: (14.Nf3) 14...g6 15. Qa4 Nh6 16. Qh4 might win, but it also looks ridiculously dangerous
+[23:37:56] sivakumarr: (14.Nf3) Cowardly but oh well. White has too many ideas in 14...g6 for an immediate attack which I won't necessarily defend with ...
+[23:37:56] sivakumarr: ...engine-precision, and I think I'm better in Nxc6 anyways, so why take the risk
+[23:37:56] sivakumarr: (16...f6) Above is an old comment I forgot to hit enter on
+[23:39:12] sivakumarr: (16...f6) 17. Bg8 Qh5! - very unlikely, but I would love to play it
+[23:42:15] metalpawn: Let's GO Planet!!!!
+[23:43:16] sivakumarr: (16...f6) I considered Nc4, Nc6, and Nd7, but they all look extremely dangerous with my loose Ng4 and undeveloped queenside
+[23:46:49] sivakumarr: (17...fxg5) I didn't calculate much here - I just assumed that I somehow have to be able to sweep up some pawns and develop
+[23:59:31] gavalanche20: (14.Nf3) No win in sight yet but holy smokes Black is having trouble untangkling
+[00:00:16] gavalanche20: (22...Nh6) e4 coming presumably
+[00:05:21] gavalanche20: Oh Be8 gets you back ranked ofc
+[00:11:42] metalpawn: e4
+[00:17:17] gavalanche20: (23...Bd7) I'd be very curious to see later if 25. hg5 won too
+[00:21:05] metalpawn: gg guys
+[00:21:20] mennonite: gg
