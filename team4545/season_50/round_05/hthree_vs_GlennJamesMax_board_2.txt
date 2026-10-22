@@ -1,0 +1,136 @@
+Lichess game chat log
+Game      : https://lichess.org/5PoHM5BF
+White     : hthree
+Black     : glennjamesmax
+Time      : 45+45
+Captured  : 2026-10-22 15:15:13 UTC
+Game ended : 2026-10-22 13:55:04 UTC
+Messages  : 126
+────────────────────────────────────────────────────────────
+
+[11:04:04] glennjamesmax: 8.Nc3 that means he's prepared with an engine
+[11:04:49] glennjamesmax: now we'll see whether you can refute this by pressing spacebar
+[11:07:06] glennjamesmax: this is objectively about +1.83 but here already on move 13 I had 5 options with same eval
+[11:07:21] glennjamesmax: and the coming attack won't be pretty.
+[11:22:17] glennjamesmax: one idea after Ba4 is to play Nxd5 and Rd8 with a pin.
+[11:22:48] glennjamesmax: I know this position is close to +2, but the complications are too immense for that to mean anything
+[11:27:06] glennjamesmax: if 17.b3 I'm planning to ignore it altogether though still calculating that
+[11:34:27] glennjamesmax: 17.b3 N4xd5 18.bxa4 Nxc3 19.Qxc3 Qxa4 is actually quite good I think
+[11:39:01] glennjamesmax: 17.Bg5 applause. That is the best move, to find it out on how own is superb
+[11:44:50] glennjamesmax: 18.Bf6 I'm glad I checked this tactic if I remember it just doesn't work at all due to Bxf6 and Qd8
+[11:48:08] glennjamesmax: I'm going to take a few minutes to triple-check but I remember the engine showed Qd8 and Nxd5 stopping this idea
+[11:50:40] glennjamesmax: 18...Bxf6 19.gxf6 Qd8 20.Qf4 N4xd5 21. Nxd5 Qxd5 22.Qxa4 Qxf3 is one line which seems fine
+[11:51:10] glennjamesmax: Qg5 is straight-forward as there's no pressure on a4
+[12:02:49] glennjamesmax: 20.g5 this is what I thought he might do. He has a 4 move mate threat now
+[12:03:20] glennjamesmax: but alright, even Kh8-Rg8 stops that in two moves, so I think I'm good
+[12:06:22] glennjamesmax: 21.Qf2 Nxc3 22.Qh4 Kh8 23.Qh6 Rg8 deals with the mate threat
+[12:07:08] glennjamesmax: but I won't deny this is always scary. last night my team-mate missed a simple mating mechanism, so i'm not underestimating here.
+[12:07:23] prostidude: Go go glenn
+[12:41:50] glennjamesmax: 27...Rfd8 28.Rd7 was quite irritating...I don't think I can contest the d-file
+[12:42:05] glennjamesmax: but the idea is 28...Na5 c4-Nb3+ etc
+[12:47:55] glennjamesmax: 29.R1d3 I could transpose by force to a pawn up rook ending
+[12:48:10] glennjamesmax: but I'm not sure how good that is
+[13:14:31] paulwithans: Let's go hthree!!
+[13:28:27] apawnpusher: lets go go go
+[13:32:01] apawnpusher: C'mon hthree
+[13:34:48] apawnpusher: wow, i would have thought take f6 and promote. clearly the difference in rating shows a difference in thought process :P
+[13:35:03] apawnpusher: *f7
+[13:45:11] paulwithans: Are we going to get 2 queens here?!
+[13:45:41] apawnpusher: Would kg7 work?
+[13:47:58] paulwithans: I think kg7 would have lost due to black queening with check and the white king being caught in the crossfire
+[13:53:33] apawnpusher: Kg7 g3, f7 g2, Rg6 attacking the pawn
+[13:53:48] apawnpusher: i meant on move 59 instead of Rb8, Kg7
+[13:54:34] paulwithans: gg
+[13:54:34] apawnpusher: gg
+[13:55:04] apawnpusher: no it wont work because rook protects the queen :P
+[13:56:20] paulwithans: Very well-played endgame by white there
+[13:56:35] hthree: thanks
+[13:57:05] glennjamesmax: Wow...ridiculous game here, unreal how well White played.
+[13:57:21] hthree: very happy to get some practice in the alekhine as these position always seem to be completely different from everything else
+[13:57:36] glennjamesmax: Mental block I actually considered Qe8 and a knight sac but not seriously enough...
+[13:57:36] hthree: I knew Bg5-Bf6 idea from prep but I guess I played it at the wrong moment
+[13:57:51] glennjamesmax: just underestimated the danger of this setup in endgame
+[13:57:51] hthree: I missed Qd8 fork honestly
+[13:58:06] hthree: and thought I was kinda lost
+[13:58:06] glennjamesmax: How deep did you prep this? because in my prep this idea never worked
+[13:58:36] hthree: I think it only worked if Black played Rd8 and White could play Bg5 with tempo
+[13:59:22] glennjamesmax: Ah, but mostly I'll play Rd8 only when it's a direct pin and I'm ready to play Rxd5
+[13:59:52] hthree: yeah here it was just a mistake
+[14:00:37] hthree: so I thought I might be lost and my King very open but as pieces traded I got a feeling that in the endgame I have comp bc Black King bad
+[14:00:37] hthree: and f7 always target
+[14:01:08] hthree: and
+[14:01:23] hthree: after 34 Rd3 I thought at least draw
+[14:01:54] hthree: and with 37. Rb7 I thought I play for win
+[14:03:25] hthree: also I only prepared for 13... Nb4 and 13... c4 so after that I just played some moves from other lines that felt okay
+[14:03:40] glennjamesmax: Bd7 mostly just transposes
+[14:03:55] glennjamesmax: They usually transpose
+[14:03:55] glennjamesmax: This in fact transposed entirely
+[14:04:10] hthree: yes
+[14:04:56] hthree: I considered 18.Kb1 as alternative to Bf6 but it felt so scary with Bc2+ and alll these Knights
+[14:05:26] glennjamesmax: Yeah, objectively white better, in practice it will be a mate quite soon more often than not
+[14:05:26] glennjamesmax: it's an insanely dangerous attack
+[14:05:41] hthree: yeah looks like a great double-edged opening
+[14:06:12] glennjamesmax: That's why I'm playing this despite +2 eval. The complications go so long and deep no one can memorize it all
+[14:06:27] hthree: as soon as my prep ended I also had like no idea how to play it
+[14:06:42] hthree: because position unintuitive to me as alekhine is kinda rare
+[14:07:28] hthree: and I didn't prepare deeper because you seemed to play a wide variety of openings so I had to split my attention
+[14:07:58] hthree: can you explain to me why Black plays Qe8?
+[14:08:28] glennjamesmax: To recapture with queen on a4
+[14:08:28] hthree: okay so simple
+[14:08:44] glennjamesmax: also freeing d8 for rook in some lines
+[14:09:14] glennjamesmax: if you don't play Bg5 there's N4xd5 and Rd8
+[14:09:29] hthree: ah nice
+[14:09:29] hthree: earlier you said you missed Qe8 and Knight sac, where was that?
+[14:09:44] glennjamesmax: Instead of Qxd2+
+[14:10:15] hthree: wow I didn't see this at all
+[14:10:15] glennjamesmax: I did have some doubts in the back of my mind regarding the endgame
+[14:10:30] glennjamesmax: but wasn't serious enough about the sac but it's very obvious once you consider
+[14:10:45] glennjamesmax: as axb4 cxb4+ Kb1 Qa4 and b3 is just so dangerous
+[14:11:00] glennjamesmax: it's one of the common mating patterns in this line
+[14:12:46] hthree: everything in this line is such a mess I love it
+[14:13:02] glennjamesmax: Yeah same here
+[14:13:17] glennjamesmax: It's a really good line if you like complications and it's 10/10 as a surprise weapon
+[14:13:17] hthree: I think without prep I would have been deadlost somewhere between move 10 and 2ß
+[14:13:32] hthree: *20
+[14:17:35] glennjamesmax: you played this really well though
+[14:18:20] hthree: yeah as soon as some piece got traded I felt like I started to be able to understand the position
+[14:18:51] glennjamesmax: I didn't understand it well enough...
+[14:20:52] hthree: I guess the King being boxed in is kinda hard to evaluate: as long as you play against my King and I have to defended it doesn't matter but
+[14:21:07] hthree: in endgame can be bad problem
+[14:21:22] hthree: as there is backrank mate and f7 is weak and king can not get into game and if f7 ever falls f6 is super dangerous
+[14:21:53] hthree: before the endgame I spent some time trying to figure out if I could get to your King but everything felt super slow
+[14:22:54] hthree: like even if I get Qh4 I thought h5 gxh6 Kf7 holds so then I thought I have to open h-file with h4-h5 but never got the tempi for it
+[14:28:58] glennjamesmax: I should have been much more firm on avoiding trades
+[14:29:13] glennjamesmax: Because now it seems kind of obvious
+[14:29:28] glennjamesmax: getting checkmated is not an issue but getting my king out in endgame will be
+[14:33:01] hthree: agree
+[14:34:01] hthree: which was my intention with Nxa4 Bc4 Bxd5 and Rd1 to induce trades
+[14:35:32] hthree: engine says 20...N6xd5 is also playable which shows how much attacking potential Black has they can just sac a Bishop no problem
+[14:36:02] glennjamesmax: Yeah almost all the lines have piece sacs that are terrifying but just about don't work in the mainlines
+[14:36:17] glennjamesmax: But you are seriously under-rated
+[14:38:04] hthree: I might be I didn't play classical for 2 years and then just played a lot in a few days to not have provisional rating to be able to
+[14:38:04] hthree: participate in league
+[14:39:35] glennjamesmax: Oh!
+[14:40:05] hthree: this is only my third league game I won one and lost one
+[14:40:35] hthree: but I guess league is also very different from pool play as in league preparation can be a huge factor
+[14:43:22] glennjamesmax: Yeah, targeted prep is a massive factor.
+[14:43:37] glennjamesmax: In principle I'm much better off with less preparation time as I have some very unorthodox and sharp openings
+[14:49:26] hthree: you do
+[14:49:41] hthree: I saw some of your Blitz games going 1.e4 e5 2.Nf3 Nc6 3.Bc4 Na5!?
+[14:50:12] hthree: and that you play Budapest gambit
+[14:50:42] hthree: can you recommend any literature on Alekhine or did you work out everything by yourself?
+[14:52:28] glennjamesmax: The best book on the Alekhine is Modernized Alekhine by Christian Bauer
+[14:52:58] glennjamesmax: 3.Bc4 Na5 is a work in progress...it's playable but I don't know the lines well enough to do it yet
+[14:53:44] glennjamesmax: It has insanely deep coverage of all the lines, including unusual gambit lines or this one
+[14:53:59] glennjamesmax: But this particular line I did a lot of engine work on my own. Cloud engines etc
+[14:54:14] glennjamesmax: Giri just gives refuted after 13.h3
+[14:54:44] hthree: maybe at Giris level it is
+[14:55:30] glennjamesmax: No no
+[14:55:45] hthree: sometimes I wonder if people like me and maybe you work to much on very specific lines and to little on more general understanding
+[14:55:45] glennjamesmax: I know very well these things...there's no way some 2700 is beating another 2700 in this line if his prep ends at 13.h3
+[14:56:15] glennjamesmax: General understanding is very important, but its specific to positions
+[14:56:30] glennjamesmax: like when you study even very odd openings you can develop excellent understanding of those positions
+[14:57:01] glennjamesmax: In fact even with these openings I do a lot to understand the position rather than just memorize lines
+[15:04:06] hthree: yeah recently I finally also realized I can memorise it much better if I know why I do it (of course for playing it's even more important to
+[15:04:21] hthree: understand)
+[15:05:37] hthree: thank you for having a nice chat after the game
