@@ -1,0 +1,47 @@
+Lichess game chat log
+Game      : https://lichess.org/nxJDLGIL
+White     : funnylikeaclown
+Black     : drchessdad
+Time      : 45+45
+Captured  : 2026-10-22 17:08:13 UTC
+Game ended : 2026-10-22 15:48:02 UTC
+Messages  : 37
+────────────────────────────────────────────────────────────
+
+[14:17:04] leverkuhn: flac with connection problems?
+[14:33:00] leverkuhn: we've got an IQP, but not the usual one as Black has a c-pawn instead of an e-pawn
+[14:36:02] leverkuhn: also White's knight is on e2 instead of f3, which changes the typical maneuvers slightly
+[14:36:17] leverkuhn: White won't have Ne5 as an attacking idea
+[14:38:18] leverkuhn: overall it seems like Black is a more comfortable
+[14:41:21] leverkuhn: I don't think it's crazy for Black to fully break the pin here with 10...h6 11.Bh4 g5
+[14:48:25] ryune: Curious what white does here, because I like Na5 with b5 and Nc4 coming for black
+[14:48:25] ryune: With no Ne5 from white possible
+[14:49:26] leverkuhn: White might start with 12.Bf4 here to provoke 12...Qd7
+[14:49:56] leverkuhn: in general I think I'd look to play a4 as White, meeting ...Na5 with Ba2
+[14:51:27] leverkuhn: 12.Ng3 Bg6 13.Qf3 also looking interesting, getting some coordination going
+[14:51:57] leverkuhn: I'm pretty surprised by the 10...Bxc3 structure change; I certainly prefer White now
+[14:56:15] leverkuhn: 13.Re1 a little vague; we will now likely see Ryune's 13...Na5! exchanging White's bishop pair
+[14:59:17] ryune: Yeah, he'll probably play it. Paves the way for c5 as well
+[15:02:19] leverkuhn: I'd like to play 14.Qa4, but 14...Nxd4!
+[15:05:36] ryune: 14... Bxd3 Qxd3 Ne5 is something to consider perhaps
+[15:07:52] ryune: But just because it's tactically possible doesn't mean it's good
+[15:08:23] ryune: Knight doesn't do much on c6 anyway though
+[15:12:25] leverkuhn: I could see something like 15.Rb1 b6 16.Bxg6 hxg6 17.c4, getting the pawns moving
+[15:28:35] leverkuhn: White has delayed c4, but this is dangerous; as Ryune identified these kind of positions go wrong for White when Black owns c4
+[15:29:06] leverkuhn: flac undoubtedly thinking of tricks like 20...Nc4 21.Qb3 Nd6 22.Nxg6!
+[15:31:22] leverkuhn: Black might now play 21...Nd6!?, after which White's coordination is wonky
+[15:36:10] leverkuhn: 21...Qc6, but now I thought 22.Re1 holds on
+[15:39:27] jfiras: fx or hx or it doesn't matter ?
+[15:42:13] leverkuhn: ...Qe1+ the scorpion sting at the tail end of the exchanges!
+[15:42:44] leverkuhn: it was a problem for White however he recaptured that was nice calculation from Black
+[15:44:30] leverkuhn: 24...Qe1+ 25.Kh2 Qxf2 26.Qe4!? Qxa2 does defend f7, but 27.Nd5!
+[15:44:45] leverkuhn: so White's counterattacking prospects aren't hopeless at least
+[15:45:30] ryune: 25... Qe1+ 26.Kh2 Qxf2 27.Nd5 is also decent
+[15:45:45] ryune: Try to win the c7 pawn and push a passed d-pawn for compensation
+[15:46:31] leverkuhn: I thought Black might play 27...c6 in that move order
+[15:47:46] drchessdad: very dangerous line this one
+[15:47:46] drchessdad: i'm happy to draw
+[15:50:48] leverkuhn: gg
+[15:52:19] funnylikeaclown: Cheers, I’m happy to not lose on B2
+[15:52:34] funnylikeaclown: Thanks for the game and good luck the rest of the way
+[15:59:53] drchessdad: I could have claimed a victory but i think a fighting draw was more satisfying. Gg everyone
