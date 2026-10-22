@@ -1,0 +1,101 @@
+Lichess game chat log
+Game      : https://lichess.org/BWSTeJHo
+White     : zubenelgenubi
+Black     : sarahwynn
+Time      : 45+45
+Captured  : 2026-10-22 18:08:32 UTC
+Game ended : 2026-10-22 16:48:26 UTC
+Messages  : 91
+────────────────────────────────────────────────────────────
+
+[14:44:54] buki9: Let’s go zub!
+[14:56:35] zubenelgenubi: Hi Tactix LiTB
+[14:59:38] tactix47: (8...d5) Hey Zub and Sarah, nice spicy Nimzo-Indian going on here!
+[14:59:54] tactix47: and hi litb!
+[15:00:09] losingisthebest: hi tactix
+[15:00:24] losingisthebest: hi zub
+[15:03:27] zubenelgenubi: out of book on Qa5, not even sure about 4...c5 5.dxc
+[15:07:31] nightsub: Go Sarah!
+[15:12:21] nightsub: Blitzing it out?
+[15:36:15] zubenelgenubi: hi spider nightsub
+[15:37:46] zubenelgenubi: not happy with the outcome
+[15:46:09] zubenelgenubi: hi basyaar
+[15:50:13] gavalanche20: Go Zube!
+[15:58:06] inter-temporal: gobee zubee el genoobee!
+[15:59:22] inter-temporal: i bee speegin gungan?
+[15:59:37] tactix47: (24...Rd8+) Anyone else think the Knight is a bit better than the Bishop in this endgame?
+[16:00:38] inter-temporal: i think Ns are practically better than Bishops most of the time until we reach board 1.
+[16:01:09] inter-temporal: i see sooooo many good bishops lose to a N-fork
+[16:02:40] inter-temporal: but this is also a RN v RB, which might be a slightly different eval
+[16:03:41] inter-temporal: this endgame could trade down to one like Wesley So lost yesterday against Sam Sevian.
+[16:04:12] tactix47: Good point - objective draws aren't always drawn in practice, even at the highest levels
+[16:07:30] inter-temporal: the drawing resource in that game was quite remarkable to me. but Sevian saw it instantly when they mentioned it in his interview
+[16:10:49] inter-temporal: (27...f5) what is going on here
+[16:14:22] inter-temporal: (27...f5)  how about f4
+[16:14:53] inter-temporal: (27...f5) f4 e4, lsb gets d3 sooo. no?
+[16:15:23] inter-temporal: (27...f5) h4 then
+[16:15:54] basyaar: (27...f5) yeh h4 seems reasonable
+[16:16:24] basyaar: (27...f5) but knight is restricted; so will do defensive job
+[16:16:55] basyaar: (27...f5) f3?
+[16:17:10] inter-temporal: (27...f5) black's K and R seem better placed than W's
+[16:17:25] basyaar: (27...f5) yes
+[16:17:56] inter-temporal: (27...f5) black has great space... maybe a rook trade would benefit white
+[16:17:56] inter-temporal: (27...f5) just Rc7
+[16:18:41] inter-temporal: (27...f5) idk. everything is awkward to me. lol
+[16:19:27] basyaar: (27...f5) but rook exchange will make black's job difficult. So, Rc7 seems a move
+[16:20:28] inter-temporal: (28.Rc7)  then maybe h4 and g3 are okay
+[16:23:16] basyaar: (31.Kc3) now white looks comfortable
+[16:24:02] inter-temporal: (28.Rc7) i think h4 before g3 might have been better, but we'll see
+[16:24:17] inter-temporal: (31.Kc3) N-forks in the future
+[16:25:18] basyaar: (31.Kc3) ah ok, h4 would have prevented g5?
+[16:25:18] zubenelgenubi: hi IP, Plaisirs, great name
+[16:26:04] inter-temporal: (31.Kc3) probably yeh. or allowed an acceptable pawn trade
+[16:26:04] zubenelgenubi: feel better with the rooks off
+[16:26:49] inter-temporal: (31...Kd6) woah. i hate pure pawn endings. lol
+[16:27:04] inter-temporal: (32.Nc4+) and a pawn drops
+[16:27:04] inter-temporal: (32...Kd5) with check. see? freakin Ns
+[16:27:04] basyaar: (32.Nc4+) yes
+[16:27:20] basyaar: (32...Kd5) ooh..K3
+[16:27:35] basyaar: (33...Ke4) Kf3
+[16:27:50] tactix47: (33...Ke4) this just got spicy...
+[16:27:50] basyaar: (33...Ke4) yes
+[16:28:05] inter-temporal: (32...Kd5) hm. black already has counters
+[16:28:05] basyaar: (33...Ke4) white did not see this for sure
+[16:28:21] inter-temporal: (33...Ke4) Nc4 seems good?
+[16:28:21] inter-temporal: (33...Ke4) idk.
+[16:28:21] inter-temporal: (33...Ke4) lol
+[16:28:36] inter-temporal: (33...Ke4) maybe just run the K back and drop the h-pawn
+[16:28:51] inter-temporal: (33...Ke4) a4 rn
+[16:30:07] inter-temporal: (33...Ke4) Nd5-c3 first maybe
+[16:32:09] basyaar: (35...Kg2) seems needs lot of calculation now
+[16:35:58] inter-temporal: (35...Kg2) f4 could be there's also a plan with Ne2 and f4, but yeh... idk
+[16:35:58] basyaar: (38.a4) oh; white can create a passed pawn
+[16:36:13] inter-temporal: (38.a4) yep
+[16:36:13] inter-temporal: (38.a4) but so can black
+[16:36:29] basyaar: (38.a4) how?
+[16:36:29] inter-temporal: (38.a4) h5-h4
+[16:36:44] basyaar: (38.a4) ok
+[16:36:59] inter-temporal: (38.a4) but with Ne2 and f4, the g3 pawn could keep it back
+[16:37:45] inter-temporal: (38.a4) Ne2 & f4 exf4, exf4 if gxf4, Nxf4 was an idea
+[16:39:01] inter-temporal: (38...Kg2) but that idea is doodoo
+[16:40:17] basyaar: (40...Ba6) what if white can get knight to c5?
+[16:40:33] basyaar: (40...Ba6) now black bishop could become passive
+[16:40:48] inter-temporal: (39...a5) hm. i thought Nb5 there
+[16:41:18] basyaar: (41.Nd5) Nc7-Ne6-Nc5
+[16:41:34] inter-temporal: (41.Nd5) a lot of moves. lol
+[16:41:34] basyaar: (41...h5) haha
+[16:41:49] basyaar: (41...h5) yeh now king side pawns rolling
+[16:44:06] basyaar: (43.Ne6) h4
+[16:44:52] tactix47: (43...h4) That outside passer is likely a decider
+[16:45:22] basyaar: (44...gxh4) only defense is give up knight?
+[16:46:08] inter-temporal: (41...h5) i gotta get goin. gl
+[16:47:40] basyaar: gg
+[16:47:40] nightsub: GG
+[16:47:40] tactix47: gg
+[16:47:55] zubenelgenubi: wp gg
+[16:47:55] nightsub: Just came back at the right time
+[16:48:56] zubenelgenubi: couldn't find the draw so low on time
+[16:50:27] zubenelgenubi: 34 a4 is the move
+[16:51:43] zubenelgenubi: 26 Rd7 surprised me, I felt I was under pressure there
+[16:53:00] zubenelgenubi: light squares too weak but you took advantage of that later on anyway
+[16:56:33] zubenelgenubi: gl with the rest, thx for watching and commentating everyone
