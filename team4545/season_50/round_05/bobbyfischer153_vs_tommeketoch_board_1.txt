@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/FZgE3bFN
+White     : bobbyfischer153
+Black     : tommeketoch
+Time      : 45+45
+Captured  : 2026-10-22 20:52:55 UTC
+Game ended : 2026-10-22 19:32:48 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[17:40:35] inter-temporal: go tommeketoch!
+[17:47:56] inter-temporal: wow. tom wont give up the b-pair lightly
+[17:49:12] guitarspider: (10.Qc2) Looks like white scores here only if they're higher rated basically
+[17:49:27] guitarspider: (10.Qc2) according to the database
+[17:50:13] guitarspider: (10.Qc2) just looks difficult for white to me, open position for the bishops
+[18:00:21] inter-temporal: tom seems concerned
+[18:00:36] guitarspider: (11.Bg5) What's wrong with Ne7? Can't you go Qc7 after?
+[18:03:08] grzybozbur: i'd think black must be at least equal after ne7
+[18:03:53] grzybozbur: unless there are tactics against some of those weak pawns on the 7th maybe
+[18:05:09] guitarspider: (11.Bg5) Ne7 Qb3 Qc7 covers e5 though
+[18:05:40] grzybozbur: yeah, i don't see anything
+[18:18:20] guitarspider: (13.Qc3) f6 makes sense but it feels weird to me
+[18:19:21] guitarspider: (13.Qc3) it does take some important squares however
+[18:20:07] guitarspider: (13...O-O) I think I would have castled too. Can't be wrong.
+[18:37:36] guitarspider: (16.Nec4) b5 looks reasonable to me, Nd6 Qd7 and ten maybe Ng6
+[18:46:58] lemuelgullible: maybe Kh1 for white
+[18:47:13] lemuelgullible: maybe not
+[18:54:49] grzybozbur: resigns?
+[18:55:19] grzybozbur: what does white do?
+[18:57:05] lemuelgullible: Ne4? I don't know...
+[18:57:36] guitarspider: (21...Bd5) Qg4 or Qh3 is coming
+[18:59:22] grzybozbur: f2 can never move, g2 falls, re6-g6 looming, bd6 can't go back to defend
+[18:59:37] grzybozbur: rooks seem useless too
+[19:03:40] guitarspider: (21...Bd5) Not sure why this turned so quickly, but it seems like a few moves ago it was balanced
+[19:04:41] grzybozbur: i blame bd6
+[19:05:11] grzybozbur: it had no business there
+[19:05:27] grzybozbur: and then white boxed it in with e5
+[19:07:28] guitarspider: (21...Bd5) I guess losing control over f4 was a big deal here indeed
+[19:14:34] grzybozbur: whoa
+[19:15:19] grzybozbur: how can black trade his best piece for a lousy knight c4?
+[19:15:34] lemuelgullible: is that the "I got no time" option?
+[19:15:34] grzybozbur: there must have been like five winning moves here
+[19:15:50] grzybozbur: ng5 looked crushing
+[19:15:50] nyanners: certainly not what i expected
+[19:15:50] grzybozbur: or f6
+[19:16:20] nyanners: i feel black may have been concerned about Nd6 options
+[19:16:35] nyanners: but f6 looked good to start with
+[19:18:52] guitarspider: (27.Qb3) time is low and this looks pretty easy to play on low time
+[19:22:10] nyanners: not really
+[19:22:25] nyanners: like okay clearly not enough compensation but too much tension still
+[19:24:57] nyanners: id say timing is decent for white to offer a draw but if i was white here id play to win tbh
+[19:25:12] nyanners: especially in this match situation
+[19:26:28] nyanners: like, its clear white is feeling the pressure
+[19:26:28] nyanners: *black
+[19:26:28] guitarspider: (32.Qc4) Rb5 seems risky with the Nxf7 diagonal now open
+[19:26:43] nyanners: those move choices and the time situation
+[19:26:58] nyanners: and there it is
+[19:27:14] nyanners: brutal
+[19:27:29] guitarspider: (33.Qxd4) Nxd4 Nd7?
+[19:27:29] nyanners: he saw it so fast too :D probably was expecting it
+[19:27:44] nyanners: indeed
+[19:27:59] inter-temporal: geez
+[19:27:59] nyanners: its actually just the full queen
+[19:27:59] nyanners: which is bizarre
+[19:27:59] guitarspider: (33.Qxd4) If only that rook had stayed at d5
+[19:27:59] inter-temporal: backfires?
+[19:28:14] nyanners: like you dont even get the exchange back for it
+[19:28:14] nyanners: no time for nc2
+[19:28:30] nyanners: or a way to give the q for rook
+[19:28:45] inter-temporal: back ranks
+[19:29:45] nyanners: decent illusion
+[19:31:47] guitarspider: (36.Kh1) oof, this is brutal
+[19:32:48] guitarspider: gg
+[19:32:48] nyanners: qxh2 may have given a jumpscare for a second
+[19:33:03] nyanners: gg
+[19:36:51] inter-temporal: gg
