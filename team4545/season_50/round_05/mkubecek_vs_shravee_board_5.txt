@@ -1,0 +1,33 @@
+Lichess game chat log
+Game      : https://lichess.org/TfKycAkm
+White     : mkubecek
+Black     : shravee
+Time      : 45+45
+Captured  : 2026-10-23 16:26:45 UTC
+Game ended : 2026-10-23 15:06:40 UTC
+Messages  : 23
+────────────────────────────────────────────────────────────
+
+[12:57:44] mongreltiger: Go Michal!
+[13:09:06] le_merovingien: Go Kuby
+[14:08:44] mkubecek: (14...e6) tempting...
+[14:41:36] le_merovingien: This is looking crunchy
+[14:53:30] mongreltiger: lol ... What does crunchy look like? Like the sound of wooden pieces being eaten
+[14:56:02] le_merovingien: g4...
+[14:58:34] mongreltiger: I play the Panov, but rarely successfully. I will be studying this game.
+[14:58:49] le_merovingien: :)
+[14:59:20] le_merovingien: I can hear plenty of crunch noises.
+[14:59:20] le_merovingien: Kuby will be fat
+[14:59:20] mongreltiger: I hear them too now.
+[14:59:50] mongreltiger: That's how I pronounce his name every time I see it. Kuby
+[15:00:05] mongreltiger: kooby
+[15:00:21] le_merovingien: :)
+[15:06:40] mongreltiger: gg both of you!
+[15:09:57] mkubecek: Hm... 11. Nb5 is indeed an interesting idea.
+[15:11:28] mkubecek: I was thinking about g4 at some point but that was later.
+[15:11:59] mkubecek: The 17. g4 line is cool... if you have the confidence of Stockfish.
+[15:31:44] le_merovingien: Nah, g4 was easy on 25.
+[15:31:44] le_merovingien: But you need to have the idea
+[15:35:31] mkubecek: 25. g4 is indeed much more natural and safe.
+[15:37:18] mkubecek: At that point I was sure Nxa8 was winning comfortably so I didn't look for other tricks that hard.
+[15:39:04] mkubecek: SF (depth 41) says g4 +8.2, Nxg6+ +6.8 and Nxa8 +6.6.
