@@ -1,0 +1,38 @@
+Lichess game chat log
+Game      : https://lichess.org/7VDiIX9e
+White     : ng_life
+Black     : chaisoul
+Time      : 30+30
+Captured  : 2026-10-23 16:05:50 UTC
+Game ended : 2026-10-23 14:45:40 UTC
+Messages  : 28
+────────────────────────────────────────────────────────────
+
+[13:47:23] ng_life: 3. f3 I saw he plays Grunfeld, but never faced the 3. f3 (on Lichess at least). This is my bread and butter so seemed a good choice.
+[14:03:21] ng_life: Not entirely sure what the point of 14... Qc7 is?
+[14:03:51] ng_life: He seems, from my perspective, too fixated on avoiding O-O to avoid bishop trade... bishop trade on h6 is normal in these positions.
+[14:08:55] ng_life: again, not really seeing the point of 16... rfe8.
+[14:09:41] ng_life: 17. bh6 I don't feel much pressure coming from my opponent, so I feel comfortable with my big center.
+[14:17:17] ng_life: (21). Looking at Qg5 nh7 Qb1 reb8 f4 ng4 f5 or e5...?
+[14:18:18] ng_life: I could also preface that sequence with rga1 but that would leave Q and K lined up, so less keen on that.
+[14:20:19] ng_life: if 21... Qb7 I must keep in mind that he is threatening rxe2 either nxe2 Qxa6
+[14:25:08] ng_life: wow, 21... kg7 really surprises me because it puts his k in a position to get checked by the n on g3.
+[14:26:54] ng_life: (22) now I have a tough choice between f4 and rfa1. Both have appeal.
+[14:29:11] ng_life: f4 neg4 e5! if dxe5 Qxf6+ if nh7 hmmm I guess nxh5 kh8 Qc1!
+[14:30:58] ng_life: (23) actually I miscalculated because the f pawn blocks Qc1 :facepalm: - need to be careful I don't trap my Q
+[14:33:45] ng_life: now if I had played e5?? as planned then nh7 nxh5 kh1 my Q is trapped - now looking at f5 instead
+[14:43:38] ng_life: 25... nxg4 choice of nxh5+ or nf5+ for me?
+[14:49:28] ng_life: one finnishing move I was looking at after 26. nxh5+ was kh8 Qxg6 rg8 (Qh6 impossible due to knight) and then rf8 or ra8 pinning rook to kin
+[14:50:29] ng_life: @chaisoul I thought I had some advantage with my big center, because I didn't feel much pressure, but it looks like it was equal until kg7
+[14:50:59] ng_life: kg7 I knew was bad in the game (you can see my notes) b/c you're putting your king where the knight on g3 can check it unleashing an attack
+[14:51:30] ng_life: engine doesn't like my rxa8 it says you can just forget the pawn and take and you control the Queenside - makes sense
+[14:52:45] chaisoul: Aa
+[14:54:47] chaisoul: I did not consider f4 at all
+[14:56:03] ng_life: f4 gives away g4 square but key for opening up the king
+[14:56:18] ng_life: my pieces are kind of loose so I wanted to get an attack rolling
+[14:56:18] ng_life: if I play quiet then my pieces are all undefended and loose
+[14:56:48] chaisoul: I did look at nh7 too
+[14:57:34] ng_life: in which position?
+[14:59:35] chaisoul: I did look at nh7
+[15:02:22] chaisoul: Instead of kg7
+[15:02:53] chaisoul: But felt going backwards is wrong so discarded it
