@@ -1,0 +1,102 @@
+Lichess game chat log
+Game      : https://lichess.org/D5E65s2S
+White     : ysgwydd
+Black     : antisana
+Time      : 45+45
+Captured  : 2026-10-23 21:44:09 UTC
+Game ended : 2026-10-23 20:23:58 UTC
+Messages  : 92
+────────────────────────────────────────────────────────────
+
+[18:37:30] bufferunderrun: go ysgwydd!
+[18:44:06] ysgwydd: (8.Nc3) Opponent is back after almost 20 seasons. Not many games played on account either, making it hard predict any specific lines
+[18:44:51] ysgwydd: (8.Nc3) I thought we'd get some KID, which I guess this isn't really. This is Neo-Grünfeld I think
+[18:45:22] ysgwydd: (8.Nc3) Masters 7...Nb6 is more common
+[18:45:52] ysgwydd: (8.Nc3) Masters more commonly choose 7...Nb6 I think
+[18:46:08] guitarspider: (8.Nc3) go ysg
+[18:46:53] ysgwydd: (8.Nc3) Chesster didn't post the game link in team channel, taking some time off
+[18:49:11] ysgwydd: (8.Nc3) I should be able to protect my brave center pawns
+[18:52:28] bufferunderrun: d5 e6 d6 Ne8 I guess, so probably just Be3
+[18:53:44] ysgwydd: (8...c5) d5 is principled. O-O is surely fine
+[18:54:15] ysgwydd: (8...c5) Even dxc5 Qxd1 Kxd1 is likely not horrible either
+[19:05:37] ysgwydd: (9...b5) Getting complicated
+[19:05:52] bufferunderrun: looks a bit wild now.... first question, what happens after e5?
+[19:08:24] bufferunderrun: maybe Qc2 is worth a look as well
+[19:09:09] bufferunderrun: if Qd3, Qe2, there could be something after b4 and Ba6
+[19:13:27] baberle: why didn't Nxb5 work?
+[19:13:58] bufferunderrun: Nxe4, center collapsing?
+[19:14:28] baberle: ty
+[19:14:43] ysgwydd: (10...Ng4) How greedy is Bf4
+[19:15:59] baberle: ambitious, enterprising, not greedy. a self-made bishop.
+[19:15:59] bufferunderrun: probably gives enough time to play Bb7, worst case g5
+[19:17:30] bufferunderrun: kind of looking at d6 and also Ne4
+[19:19:16] ysgwydd: (11.Bf4) I am greedy
+[19:19:46] ysgwydd: (11.Bf4) h3 is a threat (I hope)
+[19:21:02] ysgwydd: (11.Bf4) Nxb5 Nxe5 is probably also fine
+[19:21:17] cinemashow: (11.Bf4) why not just castle next?
+[19:22:02] ysgwydd: (11...Bb7) Maybe h6 isn't such a bad square. It leads to f5 and d4
+[19:25:35] ysgwydd: (12.h3) Wait ...b4 here
+[19:26:05] bufferunderrun: b4 Ne4 I guess, but g5 looked funky
+[19:26:35] bufferunderrun: but maybe h7 would be too weak
+[19:27:21] ysgwydd: (12...Nh6) Nxb5 Ba6!?
+[19:28:06] ysgwydd: (13.Nxb5) I would like to castle at some point in the near future
+[19:30:07] ysgwydd: (13.Nxb5) Objectively I'd guess I'm +1 after 8...c5
+[19:32:09] ysgwydd: (13.Nxb5) Bxd5 Qd2 Bf5 g4 Nd4 Nbxd4 might lose a pawn for black
+[19:33:24] ysgwydd: (13.Nxb5) And Bxf3 is not possible due to the a8 rook
+[19:33:55] ysgwydd: (13.Nxb5) Also who used up 2/3 of my time?
+[19:36:42] ysgwydd: (14.Qd2) Bc4 is interesting
+[19:38:13] cinemashow: (14.Qd2) Bc4, queen trade, Nc7?
+[19:38:29] bufferunderrun: Bc4 looks bad to me, but I don't see anything wrong with Nf5
+[19:38:29] ysgwydd: (14.Qd2) Bc4 Qxd8 Rxd8 Nc7 looks like an exchange
+[19:45:34] ysgwydd: (17...Nc6) Might lose the pawn back
+[19:48:35] cinemashow: (17...Nc6) Qd2?
+[19:52:23] cinemashow: (17...Nc6) time to move ysgwydd
+[19:52:53] cinemashow: (18.Qe3) so Nb4?
+[19:53:08] bufferunderrun: or Qa5+
+[19:53:53] guitarspider: (18.Qe3) I thought Qc3 because of Qa5+
+[19:53:53] guitarspider: (18.Qe3) but of course Rc8 would have been a bit awkward
+[19:53:53] ysgwydd: (18.Qe3) Might be in trouble. Need to get castled
+[19:54:09] bufferunderrun: I was looking at Qa4
+[19:54:39] guitarspider: (18.Qe3) but after Qa4 black just takes on e5
+[19:54:54] guitarspider: (18.Qe3) idk, it was a difficult position
+[19:55:09] bufferunderrun: black takes on e5 regardless, I think
+[19:55:09] cinemashow: (18.Qe3) Qd2 stopped Qa5+ and maintained contact with the f4 bishop
+[19:55:24] cinemashow: (18.Qe3) also stopped Nb4
+[19:55:55] guitarspider: (18.Qe3) but not Nxe5
+[19:56:25] bufferunderrun: hmmm Qa5+ Kf1
+[19:58:26] guitarspider: (18.Qe3) I like cinema's Nb4
+[19:59:27] ysgwydd: (18.Qe3) Nb4 Qd2 Nxa2 and we could get N+B vs R
+[20:00:27] bufferunderrun: Nb4 Qc3 Qa5 Bd2
+[20:00:42] cinemashow: (18...Nb4) maybe had to give the e5 pawn anyway and get castled
+[20:00:58] cinemashow: (18...Nb4) protect the g2 bishop
+[20:02:14] bufferunderrun: 19...Qa5 looks scary
+[20:02:14] ysgwydd: (19.Qd2) Nxa2 b4
+[20:03:30] bufferunderrun: hold on, you can just castle
+[20:03:45] cinemashow: (19.Qd2) Qa5 now? but then just castle and then what?
+[20:07:02] cinemashow: (19.Qd2) I'm still drawn to Qa5 then rooks to c and d files for Black?
+[20:09:34] bufferunderrun: hmmm I thought this didn't work after Bxf3
+[20:12:20] cinemashow: (22...Rb8) interesting turn of events
+[20:15:07] bufferunderrun: well, pressure is gone
+[20:15:37] bufferunderrun: black might recover the pawn later on
+[20:18:09] cinemashow: (23...Qa5) I would say pressure is very much on
+[20:18:24] ysgwydd: (24.Re1) Now I'm just worse
+[20:18:40] cinemashow: (24.Re1) clock as well
+[20:20:11] bufferunderrun: Idk about e6
+[20:20:26] bufferunderrun: f3 and f2 are a bit too weak
+[20:22:12] bufferunderrun: oof
+[20:22:12] guitarspider: (26...Re5) oops
+[20:22:12] cinemashow: (26...Re5) yeah
+[20:22:42] paulwithans: Qb1 holds things for the moment doesn't it
+[20:22:42] bufferunderrun: probably b4 now
+[20:22:42] paulwithans: no it doesn't
+[20:22:42] bufferunderrun: bu f3 hangs
+[20:22:58] paulwithans: bishop hangs
+[20:22:58] paulwithans: yeah
+[20:23:13] guitarspider: (27.b4) b4 also loses the bishop
+[20:23:28] paulwithans: black can just take e4 now
+[20:23:43] guitarspider: gg
+[20:23:43] bufferunderrun: gg
+[20:23:43] banshee3333: Gg
+[20:23:43] paulwithans: gg
+[20:23:58] cinemashow: gg
+[20:25:44] ysgwydd: Qe3 Re5 Be4 apparently holds
