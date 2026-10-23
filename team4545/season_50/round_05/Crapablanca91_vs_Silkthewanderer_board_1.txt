@@ -1,0 +1,69 @@
+Lichess game chat log
+Game      : https://lichess.org/YQvhPUZN
+White     : crapablanca91
+Black     : silkthewanderer
+Time      : 45+45
+Captured  : 2026-10-23 22:56:44 UTC
+Game ended : 2026-10-23 21:36:34 UTC
+Messages  : 59
+────────────────────────────────────────────────────────────
+
+[19:04:48] inter-temporal: (7.dxe5) go Silkthewanderer!
+[19:08:20] nightsub: Go Crapa
+[19:34:21] guitarspider: (12.Qf4) go Silk
+[19:56:05] inter-temporal: (8.Bb2) is e4 being sac'd
+[19:56:35] inter-temporal: (12...Rfd8) or is there some intermezzo
+[20:19:50] inter-temporal: (12...Rfd8) i am so confused
+[20:20:35] inter-temporal: (13.Qh4)  isn't black going to power through the center?
+[20:22:06] inter-temporal: (13.Qh4) or is e4 still hanging, or both
+[20:27:24] inter-temporal: (14.Rad1) lol. i was trying to understand 14.b4!?
+[20:33:28] oachkatzerlschwoaf: oof black missed that?
+[20:33:43] oachkatzerlschwoaf: (16. Nd5)
+[20:34:13] oachkatzerlschwoaf: looks crushing
+[20:34:28] oachkatzerlschwoaf: maybe not
+[20:34:43] inter-temporal: (14.Rad1) intermezzo
+[20:34:43] inter-temporal: (17...h6) does it backfire
+[20:35:29] oachkatzerlschwoaf: but white has bxf6
+[20:35:29] silkthewanderer: I think 17. Nxh7 was a pretty straight up win for White. Not sure what this is
+[20:37:00] guitarspider: (17...h6) explosions everywhere
+[20:40:02] inter-temporal: (17...h6) did white have Nxh7 earlier as well
+[20:51:08] inter-temporal: (17...h6) white needs 2 moves in a row
+[20:51:38] inter-temporal: (19...Nxe7) Bxg7
+[20:52:24] inter-temporal: (20.Bxg7) but NxN
+[20:52:39] inter-temporal: (20.Bxg7) or smth
+[20:53:09] inter-temporal: (20.Bxg7) i thought Bd4 was a problem there
+[20:53:24] inter-temporal: (21.Bxh6) i mean 21.Bd4
+[20:54:10] guitarspider: (21.Bxh6) lots of brief complicated tactical sequences
+[20:54:25] guitarspider: (21.Bxh6) I assumed Nxe4
+[20:54:55] namegoesinhere: (21.Bxh6) yeah, as black here I don't think I want to trade LSBs
+[20:54:55] namegoesinhere: (21.Bxh6) maybe they were worried about b7 though
+[20:55:25] inter-temporal: (21.Bxh6) and time pressure. and they seem to be playing a game of avoiding anything that looks natural. lol
+[20:55:25] guitarspider: (21...Bxc2) makes sense if you want to grab the pawn to be fair
+[20:55:41] namegoesinhere: (21...Bxc2) oh I didn't even see c2 was hanging lol
+[20:56:11] guitarspider: (22.b4) although generally speaking trading off a set of bishops should have been quite good for black?
+[20:56:26] guitarspider: (22...Na6) the remaining bishop can only affect half the squares and the knights can go where they want
+[20:56:56] inter-temporal: (21...Bxc2) i think c2 is always hanging
+[20:57:11] inter-temporal: (23.a3)  "c2 is always hanging"--Capablanca
+[20:57:11] inter-temporal: (23...c6)  yep, see? that checks out.
+[20:57:57] guitarspider: (24...Nc8) of course white should be losing here too, but it's easier to see how white can cause problems with those good bishops
+[20:58:27] guitarspider: (24...Nc8) so I think I would have liked the trade, the extra pawn isn't currently important
+[20:59:43] inter-temporal: (24.Be3) K-side 4 v 2 might be smth
+[20:59:58] guitarspider: (27.Kg2) especially with a passed h-pawn there's some counterplay at least
+[21:01:29] inter-temporal: (27.Kg2) i dont like to calculate endgames against two Ns, in time pressure (every endgame)
+[21:02:14] guitarspider: (29.Bf4) I guess this is quite safe for Silk actually
+[21:02:29] guitarspider: (29.Bf4) but could be more of an issue long-term
+[21:04:15] namegoesinhere: (30.e4) yeah I don't think the h-pawn ever gets anywhere, king can just blockade on the light squares
+[21:04:31] guitarspider: (30.e4) True but that does mean the king is forced to stay around there
+[21:05:16] namegoesinhere: (31...Nd5) mostly black just has to not trade off too many pawns
+[21:05:31] guitarspider: (32...Nac7) now the second knight gets into it
+[21:06:32] inter-temporal: (33...Nb5) holy ser checks-alot
+[21:06:47] inter-temporal: (33...Nb5) 5 checks on the white K
+[21:06:47] inter-temporal: (33...Nb5) lol
+[21:07:17] gavalanche20: Let’s go silk
+[21:18:54] inter-temporal: (33...Nb5) zugzwangs
+[21:19:54] inter-temporal: (45...b5) maybe it gets down to KNN v K
+[21:26:13] inter-temporal: (46.Ke2) a little extra drama
+[21:27:13] namegoesinhere: (48.h6) Nxh6 Bxh6 Nxa3 should be good enough?
+[21:27:13] inter-temporal: (48.h6) yeh
+[21:27:29] namegoesinhere: (48.h6) or maybe even Ne7-g6
+[21:39:20] inter-temporal: gg
