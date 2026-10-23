@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/79V16LHw
+White     : oldfishnewfish
+Black     : highonpotnuse
+Time      : 45+45
+Captured  : 2026-10-23 19:33:47 UTC
+Game ended : 2026-10-23 18:13:42 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[16:01:02] tommeketoch: Let's go Hignon!
+[16:25:05] giziti: (10.Nc3) Black really needs to develop the kingside...
+[16:31:24] giziti: (10.Nc3) b4 and d5 is coming, maybe
+[16:31:40] giziti: (11.a4) that was really on this move, labels out of date
+[16:33:41] giziti: (12.Ne2) i feel like you need something like Be7, O-O, d5.
+[16:38:29] inter-temporal: (12.Ne2) go HighonPotnuse!
+[16:40:16] giziti: (12...Be7) I didn't like Ne5 Nxe5 Qxe5 Bd4, and the knight is a good piece to keep
+[16:43:18] giziti: (13.Ng3) interesting how d5 is never being considered.
+[16:51:25] giziti: (13...O-O) now after castles is d5 something to seriously look at? generally int he sicilian d5 is the equalizing move
+[17:03:49] schittering06: (15.Rac1) d5 mentioned in the stream
+[17:06:21] schittering06: (15.Rac1) Let's go HighonPotnuse!
+[17:23:19] giziti: (16...Ne5) really hates the idea of d5 for some reason
+[17:29:24] giziti: (17.c3) Nxd3 Qxd3 maybe Ng4?
+[17:31:40] inter-temporal: (17...Nxd3) who pushes the e-pawn first
+[17:32:41] giziti: (18.Qxd3) will d5 ever get played
+[17:33:27] giziti: (18.Qxd3) I havne't calculated if it's a good move here but it has to be a candidate
+[17:47:22] inter-temporal: (18.Qxd3) probably wants to be sure he takes back with a piece to avoid the weakness
+[17:47:53] giziti: (22.Qd2) sure but in most of the previous positiosn where one would consider d5, Nxd5 or Bxd5 were available.
+[17:56:14] inter-temporal: (22.Qd2) maybe it also served to prevent white from advancing to e5
+[17:56:44] inter-temporal: (24...Nxe4) or Ne5
+[17:57:15] inter-temporal: (24...Nxe4) pawn on d6 also constrains White's dsb a little. idk
+[17:57:30] inter-temporal: (24...Nxe4) but yeh. eventually d5 or die. lol
+[18:01:33] inter-temporal: (24...Nxe4) white threatens sac attack?
+[18:01:48] inter-temporal: (25...Qc8) Nxg7
+[18:02:19] giziti: (22.Qd2) yeah I was thinking about that. the Bxh6 immediately doesn't work, but Nxg7 is very telegraphed.
+[18:02:19] inter-temporal: (25...Qc8) not now, oc
+[18:05:51] giziti: (26...Qc5) i think white's busted here
+[18:06:37] giziti: (26...Qc5) anything other than a queen trade drops a knight after all
+[18:07:07] giziti: (27.Qe2) Qxh5 gg
+[18:08:54] inter-temporal: (25...Qc8) no discovery. the N is actually pinned
+[18:09:24] giziti: (28.Qb5) Qxb5 gg
+[18:09:54] inter-temporal: (27...Qxh5) yeh, but White should not resign, imo. unless they want to.
+[18:10:10] giziti: (28.Qb5) oh of course gotta fight a little
+[18:10:40] inter-temporal: (28.Qb5) you've got a knight. go fork smth. :)
+[18:12:11] inter-temporal: (29.axb5) Nc3 threatens Ne2+
+[18:12:26] inter-temporal: (30.b3) Nc3, Bxd5 oh
+[18:12:26] inter-temporal: (30...d5) fine too
+[18:12:41] inter-temporal: (30...d5) probably better. lol
+[18:13:12] inter-temporal: (30...d5) Nc3 again
+[18:13:57] inter-temporal: (31.Ne1) oops.
+[18:13:57] inter-temporal: time pressure
+[18:13:57] inter-temporal: gg
+[18:39:00] guitarspider: gg
