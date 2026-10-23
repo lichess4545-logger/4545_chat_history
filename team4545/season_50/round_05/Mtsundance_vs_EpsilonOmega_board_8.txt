@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/RGMY0u4G
+White     : mtsundance
+Black     : epsilonomega
+Time      : 45+45
+Captured  : 2026-10-23 19:52:49 UTC
+Game ended : 2026-10-23 18:32:37 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[16:26:04] bufferunderrun: let's go Mtsundance!
+[16:28:05] mtsundance: thanks for coming cinema and buff
+[16:28:35] mtsundance: doing stuff i don't normally do and scary I might miss something but  worth a try.
+[16:29:06] mtsundance: Q getting trapped a big worry
+[16:38:11] mtsundance: showing little for running Q around now thinking bad principles!
+[16:39:57] mtsundance: difficult to bail out a too aggressive position at my level
+[16:56:07] mtsundance: need to be mindful of time. He plays a lot of blitz and bullet. I don't
+[16:59:24] bufferunderrun: not a fan of Nd4, now white would have to play with an isolani
+[17:00:55] cinemashow: yes
+[17:01:41] bufferunderrun: 5,exd4 was perhaps better, the whole Qxd4-Qa4 was a bit sketchy
+[17:04:12] bufferunderrun: both Bb4 and Nb4 would have been really annoying, so perhaps a3 instead of Nd4
+[17:05:43] bufferunderrun: white's issues are basically, exposed queen, lagging in development (Be2 and Bb2 are not played yet, the king is in the center)
+[17:06:28] bufferunderrun: exposed queen exchanged for a weak isolated pawn
+[17:08:15] bufferunderrun: Bc3 is next, so either a3 or Bb2 needs to happen
+[17:09:00] bufferunderrun: hmm and a3 still fails to Bb1
+[17:11:32] mtsundance: turned very ugly in a hurry
+[17:12:17] cinemashow: (14.Ra2) yes, Black playing well. Bb1 traps the rook
+[17:12:17] bufferunderrun: may need to part with the exchange after 14...Bb1 Rb2 Bxb2 Bxb2 and maybe Rc8 or  bishop somewhere
+[17:15:04] bufferunderrun: 15.Bb2 Rc8 looks kind of interesting, probably unnecessary though
+[17:15:34] epsilonomega: Bb1 might have worked
+[17:16:20] bufferunderrun: Bb2 Rc8 Bxd4 Rc1+ Ke2 and I don't quite see the continuation
+[17:21:23] bufferunderrun: Bb1 is stlll a problem
+[17:23:39] cinemashow: (17.Rxd2) Hmm, could have been a lot worse for White...
+[17:23:54] bufferunderrun: yeah...
+[17:24:40] bufferunderrun: still an uphill battle, but chances now
+[17:24:55] mtsundance: think he let me off in the corner with the rook. Still he's better off
+[17:28:27] bufferunderrun: Bd3 Ne4, so perhaps Be2 then, otherwise, how are you castling?
+[17:29:28] bufferunderrun: Bc4 b5 and the same position with an extra useful move for black
+[17:33:15] mtsundance: weird to castle when not needed but fastest way to get rook out?
+[17:40:04] ysgwydd: (21...b5) Looks like white has a mountain to climb here
+[17:45:07] bufferunderrun: Idk if it was a good idea to exchange the bishops for black
+[17:47:09] ysgwydd: (24.Rb1) The rook endgame might be white's best shot
+[17:47:54] mtsundance: thanks for coming by ysg
+[17:48:09] bufferunderrun: Kf1-Ke2 and it's close to being fine, I guess
+[17:48:40] ysgwydd: (24.Rb1) A pawn is only a pawn
+[17:49:40] bufferunderrun: I suppose the idea behind Rd5 was e5-e4
+[17:52:12] ysgwydd: (25...Ne4) Seek counterplay with Rc1
+[17:53:28] bufferunderrun: bad idea to exchange the knight for black
+[17:54:43] mtsundance: g4 not thoughtful!
+[17:55:59] bufferunderrun: Ra1 instead of Kf1, now Ra2 is possible
+[17:55:59] cinemashow: (28.Kf1) seem to be a lot of weaknesses with a3, b3, h3
+[17:57:45] bufferunderrun: nevermind, Rd3 then
+[17:58:15] bufferunderrun: hmmm maybe a4 then
+[17:58:15] bufferunderrun: instead of Kf1
+[17:58:31] ysgwydd: (30.f3) a4 still
+[17:58:46] ysgwydd: (30.f3) Not looking great anyway
+[17:58:46] bufferunderrun: yeah 30.a4 looked great
+[17:59:01] bufferunderrun: maybe
+[17:59:16] bufferunderrun: or maybe not
+[17:59:46] bufferunderrun: I didn't like a4 in view of b4 when I looked at it earlier
+[18:00:32] ysgwydd: (30.f3) b4 would be a problem
+[18:00:47] ysgwydd: (30.f3) Even bxa4 looked good
+[18:04:49] bufferunderrun: white's rook is really passive, but how to activate it without losing immediately?
+[18:05:50] ysgwydd: (32...h6) a4 and hope for bxa4
+[18:05:50] ysgwydd: (32...h6) hxg5 first
+[18:09:37] bufferunderrun: just e5-e4 I guess
+[18:10:08] ysgwydd: (35...f5) Black is generous with the pawn trades
+[18:10:38] bufferunderrun: it's still a problem after gxf exf and g4
+[18:15:41] bufferunderrun: i would have just played 36...f4, black just dominates without any counterplay for white
+[18:16:26] bufferunderrun: this probably works as well, actually... yeah, g4 hangs
+[18:18:13] bufferunderrun: 38...Rg3 works, 38... Kd3 works
+[18:18:13] bufferunderrun: Ke4*
+[18:22:46] bufferunderrun: there is just no counterplay... sad
+[18:28:04] bufferunderrun: gg
+[18:30:20] bufferunderrun: you don't even need to try to hold to the pawns, can just go after b4
+[18:32:21] pvgibson: gg
+[18:36:38] epsilonomega: I thought my bishop would be trapped on a2, but I could have just traded the knight
