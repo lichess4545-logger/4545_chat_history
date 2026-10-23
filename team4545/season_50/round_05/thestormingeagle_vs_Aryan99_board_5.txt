@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/AwYjclRJ
+White     : thestormingeagle
+Black     : aryan99
+Time      : 45+45
+Captured  : 2026-10-23 15:18:14 UTC
+Game ended : 2026-10-23 13:57:59 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[12:06:27] paulwithans: Go Aryan99!
+[12:07:13] paulwithans: Was that a 1...d5 pre-move??? Damn
+[13:10:28] apawnpusher: Interesting
+[13:22:06] hthree: (36.f4) first impression draw but pawn endgames are super hard
+[13:24:23] paulwithans: It looks like black has good chances to put white in zugzwang now
+[13:25:23] hthree: how does Black make progress if White plays f3 and then shuffles Kd3-Kc3
+[13:26:39] paulwithans: True
+[13:27:40] paulwithans: Is a5 an idea?
+[13:27:55] paulwithans: No
+[13:30:57] paulwithans: Black says 'yes'
+[13:34:14] hthree: feels risky
+[13:34:59] hthree: (42...Kxc5) 43.Kc3 Kb5 44.Kd4 c5+ 45.Kd5
+[13:39:47] hthree: (49...Ke2) maybe black can hold by boxing White King in on h-file
+[13:41:03] hthree: (49...Ke2) 50.Kxf5 Kxf3 51.Kg5 Kf4 52.Kxh5 Kf5 holds I think
+[13:41:18] hthree: oh I'm stupid Kf4 isn't legal in this line
+[13:41:18] paulwithans: Kg5 Kf4 illegal
+[13:41:48] hthree: should be the same with Ke4 instead of Kf4
+[13:41:48] paulwithans: But Ke4 in that line yes
+[13:42:04] paulwithans: As soon as white takes the pawn we get opposition
+[13:43:04] hthree: yes so Black holds I think as 50.Kg5 Kxf3 51.Kxh5 Ke4 Black is even faster
+[13:43:19] hthree: to promote
+[13:44:35] paulwithans: But I do agree that the a5 operation was unnecessary
+[13:46:52] hthree: I mean if Black saw this all the way through and decided to test if White finds Kc3-Kd4 then it made sense
+[13:48:07] tranzoo: I am confused why this is not just winnign for white
+[13:48:07] tranzoo: I dont understannd endgames
+[13:48:53] hthree: I think it's against etiquette to offer draw in this position
+[13:48:53] hthree: as Black
+[13:49:08] tranzoo: how is black not losing? can someone explain me in few simple sentences? :-D
+[13:49:53] hthree: (49...Ke2) 50.Kxf5 Kxf3 51.Kg5 Ke4 52.Kxh5 Kf5
+[13:50:24] paulwithans: And black doesn't let the white king off the h-file
+[13:50:24] tranzoo: oooo
+[13:50:24] tranzoo: clever
+[13:50:39] tranzoo: thanks
+[13:51:55] hthree: what
+[13:52:10] tranzoo: whatj ust happened
+[13:52:40] hthree: okay it does make sense it will transpose to what we discussed
+[13:52:40] paulwithans: Should amount to the same thing no?
+[13:52:40] tranzoo: Kg6 maybe though?
+[13:52:55] tranzoo: oh same thign
+[13:52:55] tranzoo: yeah that transposes too
+[13:53:11] tranzoo: maybe
+[13:53:26] paulwithans: The white king can never take the h pawn as we get Kf5 in all of these lines I am pretty sure
+[13:53:41] tranzoo: yeah to many way to get into f5
+[13:53:41] tranzoo: *too many ays
+[13:53:56] paulwithans: But it looks like white is in the mood to test black a bit more
+[13:54:11] hthree: it does
+[13:55:27] tranzoo: dont overtest though
+[13:55:42] hthree: trying to trick Black into going Kg3 and then not being able to box the White King after Kg5
+[13:56:13] paulwithans: I think white in conscious of black moving very quickly, too
+[13:56:28] paulwithans: So it is smart to set problems
+[13:56:43] hthree: yes
+[13:57:29] hthree: but Black seems to be firm in this endgame
+[13:58:14] hthree: gg
+[13:58:14] tranzoo: gg
+[13:58:14] paulwithans: gg
+[13:59:00] thestormingeagle: gg wp
+[13:59:45] hthree: instructive endgame
+[14:00:45] thestormingeagle: Thanks. I'm very pleased I found f4 and it was the only move.
+[14:02:16] thestormingeagle: I'm sorry I took a long time to play the king and pawn endgame but I really didn't want to mess it up in case it was winning.
+[14:02:46] thestormingeagle: and I thought I would try for the most challenging path anyway even if it wasn't
+[14:03:17] thestormingeagle: I did miss c6 was already possible when I played Rc1 to try to prepare it.
+[14:07:34] aryan99: Very interesting endgame, I thought I must be winning after Rxf4 Kxf4, but it was equal all the time.
+[14:08:04] aryan99: White actually found some great resources at the right time.
