@@ -1,0 +1,144 @@
+Lichess game chat log
+Game      : https://lichess.org/ADKcz3Ss
+White     : knightfury21
+Black     : paulwithans
+Time      : 45+45
+Captured  : 2026-10-23 12:34:25 UTC
+Game ended : 2026-10-23 11:14:24 UTC
+Messages  : 134
+────────────────────────────────────────────────────────────
+
+[09:00:45] hthree: Let's go Paul!
+[09:07:35] morganbp: Go KnightsFury!
+[09:39:45] knightfury21: guessing the idea of 13...a6 is ...Nc5 next but it feels a little too slow
+[09:40:30] knightfury21: looking at 14.Nf5 but it's tricky
+[09:41:16] apawnpusher: Let’s go captain,
+[09:43:33] knightfury21: 14...Nc5 Nxe7+ Rxe7 (Qxe7 Nxd5 looks like a clean pawn) Bf2  Nxd3 Qxd3
+[09:46:20] knightfury21: 14...Bc5 Nxd5 g5 Nxf6+ Qxf6 Bf2 is an interesting line too - bit scary but that looks like a pawn for me
+[09:49:22] knightfury21: Oh ...Ne5 is also possible I guess but I don't think that changes anything compared to the 14...Nc5 line
+[09:51:53] hthree: I thought the point of a6 was b5 and Bb7
+[09:53:24] knightfury21: Oh it's going to get sharp
+[09:54:25] tranzoo: go paul
+[09:54:25] knightfury21: 15.Nxd5 and both knights are defending the e3-pawn so I think I'm okay there
+[09:55:10] knightfury21: It looks incredibly dumb for both knights to be standing in the middle protecting backwards but I don't see how black punishes me
+[09:56:11] knightfury21: f6 knight is pinned and I always have the Nxg6+ intermezzo if ...g5
+[09:56:42] knightfury21: Meanwhile the d7 knight is glued to the defence of the c5-bishop
+[09:57:27] hthree: I agree looks good for White I guess Black can hope that long term White's King is a bit weakened and the 4 vs 3 doesn't win easily
+[09:57:42] knightfury21: ...Qb6 or ...Qc7 shenanigans not possible either and I guess ...Re5 Nxf6+
+[09:58:28] knightfury21: Looks very tactically fragile but I don't see how it fails
+[10:00:29] knightfury21: 15...g6 Nxh6+ and Ng4 re-defends e3 and pressures the f6-knight
+[10:01:15] hthree: what happens in 15.Nxd5 g5 16.Nxf6+ Nxf6
+[10:04:02] knightfury21: I need to get Re1, Kh1 and possibly even Bf2 in as soon as black gives me a few free moves
+[10:04:32] hthree: I just realized Ba7 to get the Bishop safe runs into Nc7
+[10:05:03] hthree: (15...b5) now Nxf6+ seems like it just wins?
+[10:05:48] hthree: ah no Black can still recapture with Knight
+[10:06:04] hthree: but still Nxf6
+[10:06:04] knightfury21: So I have tactics with Nxh6
+[10:06:34] hthree: Nxf6+ Nxf6 Bxf6 and kingside falls apart?
+[10:08:20] knightfury21: Maybeee 16.Nxh6 gxh6 Nxf6 Nxf6 Qxc5 Qxd3 Bxf6 is interesting
+[10:09:21] knightfury21: I lose e3 at the end of that line and Black can even trade queens off
+[10:10:37] knightfury21: Up the g-pawn but feel like I should be able to get more by playing on
+[10:12:38] knightfury21: Re1 Bb7 Nxf6 gxf6 Nxh6 Kg7 Ng4 is a simpler and better way to do that
+[10:14:24] hthree: (16.Re1) wow I thought taking on f6 would have just won
+[10:15:25] hthree: but maybe Black can't defend against this anyway
+[10:17:12] hthree: is Re6 a move here?
+[10:18:12] knightfury21: ...Ne5 was an interesting move too, maybe I should've looked closer at that
+[10:19:28] knightfury21: Oh actually it could be quite bad here because I played Re1
+[10:21:30] knightfury21: 16...Ne5 Nxf6 gxf6 Be4 Bxf5 Bxf5 Bb6 looks fine
+[10:22:16] hthree: (16...Ba7) how about Nc7 now?
+[10:22:46] knightfury21: Huh Black trying to prevent issues on f6 but giving me Nc7
+[10:24:02] knightfury21: Exchange and pawn up is good but can I do better?
+[10:25:33] knightfury21: Bg3-Bc7 would be sick but I unpin the knight
+[10:27:50] knightfury21: Nxe8 Qxe8 Nd6 Qb8 Bg3 is cool
+[10:29:06] knightfury21: Oh even Nd6 immediately is interesting but I may be playing with fire there
+[10:31:38] hthree: 18.Nd6 Rxe3 19.Rxe3 Bxe3+ 20.Kf1 Rb8 is my first idea
+[10:33:25] hthree: if Black can get away with this they have a real chance again as this would be equal material
+[10:37:12] hthree: White has to take the rook or move the King or maybe Bf2 as I don't think the discoveries can be allowed
+[10:37:43] hthree: e. g. Nxb7 Rxe1#
+[10:38:43] hthree: can Paul mount a comeback here? was Nd6 to clever? really exciting now again
+[10:42:16] knightfury21: I may have gotten carried away
+[10:43:16] hthree: (19.Bf2) ... Rxe1+ Rxe1 Bxf2+ Kxf2/Qxf2 Rb8 seems forced
+[10:44:02] hthree: doesn't look lost and Black suddenly way up on time so everything to play for I guess
+[10:44:32] knightfury21: Nxf7 sneaky idea
+[10:45:18] hthree: (21... Rb8) Nxf7 Kxf7 what would be the point?
+[10:46:04] knightfury21: I think it works Nxf7 Kxf7 Qb3+ Kf8 (Something d5 and I get my piece back) Ne6+
+[10:48:05] hthree: (22.Nxf7) Kxf7 Qb3+ Kf8 Ne6+ forking King and Queen
+[10:48:35] hthree: nice spot
+[10:49:36] qrs: (22 Nxf7) wow, thats a nice one, indeed!
+[10:50:22] hthree: and now the Black King looks quite weak with White having all the light squares
+[10:51:07] knightfury21: Qc8 Bh7 maybe Black can actually take the knight now
+[10:54:09] knightfury21: Nxh6 gxh6 Qb3+ Kg7 Ne6 is another idea
+[10:55:25] qrs: (23 Rc8) If nothing else white should have a perpetual now
+[10:55:40] knightfury21: Oh wait no Kh8
+[10:55:40] hthree: perpetual where?
+[10:55:56] qrs: Qb3 Rxc7 Nh6+ Kh8 Nf7+ Kg8
+[10:56:26] qrs: Except ofc black sacs the Q
+[10:56:41] knightfury21: Qb3 doesn't work either
+[10:56:56] qrs: why not?
+[10:57:11] hthree: maybe Qc5+
+[10:57:57] knightfury21: Luckily Bd5 Nxd5 Rxc2 Ne7# is available
+[10:58:42] hthree: fun fact Rxc2 comes with check
+[10:58:42] knightfury21: Oh no it's not
+[10:58:58] qrs: Qb3 Qc5+ Kf1 Qc4+ Qxc4 bxc4 and the knight on c7 gets out
+[10:58:58] knightfury21: Rxc2+ is a tempo
+[10:59:58] qrs: (24. ... Nd5) I think 24. g4 may have given the game away
+[11:00:29] hthree: yeah looks like it wastes a tempo in a very critical tactical position
+[11:00:44] qrs: Will be interesting to see what @KnightFury21 has to say why Qb3 didnt work to him
+[11:00:59] hthree: 18. Nxa8 / Nxe8 should have won the game
+[11:01:30] knightfury21: I think 24...Bd5 was probably it for Black
+[11:01:45] hthree: still all those pieces around Black's King feel scary
+[11:02:30] qrs: Wait
+[11:03:31] hthree: I hope Black sees Nxh6+ gxh6 Qf7+ Kh8 Qh8#
+[11:04:01] hthree: oh but Ne3+ wins here?
+[11:04:01] qrs: Nxh6 just Kh8 maybe?
+[11:04:16] hthree: (26.Kg2) Ne3+ Rxe3 Qxe3 Nxh6 Qxh6
+[11:04:32] qrs: White does have Bh7+ too
+[11:04:32] qrs: If black stops giving checks
+[11:04:32] hthree: oh yes
+[11:04:32] qrs: Ne3+ Rxe3 Qxe3 Bh7+
+[11:04:47] qrs: think thats deadly
+[11:05:17] hthree: what
+[11:05:17] qrs: qxc7 what
+[11:05:32] qrs: (26 ... Qxc7) that surely cant work for black, can it?
+[11:05:32] hthree: yeah Bh2+ at least
+[11:05:32] qrs: white has at least the draw
+[11:05:47] qrs: Goes for the draw i think
+[11:06:18] qrs: Nxh6+ Kh8 Nf7+ Kg8 etc
+[11:06:33] hthree: well they can also repeat once Kh8 Nf2+ Kg8 Bh7+
+[11:06:48] knightfury21: Think I have forced mate here after the repetition
+[11:07:03] hthree: yeah I think it's forced mate
+[11:07:03] qrs: Ok, white sees it
+[11:07:03] knightfury21: Or actually maybe not, idk
+[11:07:03] qrs: I am not sure tbh
+[11:07:34] qrs: Like just Nf6 after the discovery
+[11:07:34] hthree: yeah I'm silly
+[11:07:34] qrs: And the game continues, white takes the took
+[11:07:34] qrs: *rook
+[11:07:49] qrs: Based on his time, he might be better off with the repetition tbh
+[11:08:04] knightfury21: ...Nf4+ is an issue
+[11:08:04] qrs: There is no good discovery I think
+[11:08:35] hthree: what about Bh7+ Kf8 Nd8+ Nf6 Ne6+ forking king and queen
+[11:09:05] qrs: beauty
+[11:09:05] qrs: good spot, hthree
+[11:09:20] qrs: WOW he goes for it
+[11:09:20] hthree: oh did white see it?
+[11:09:35] qrs: like when i first spotted Bh7+ i thought it must be winning, but the line to find is actually so tricky
+[11:09:35] hthree: damn they did
+[11:09:50] qrs: he saw it
+[11:09:50] qrs: GGs to white for that
+[11:10:06] qrs: Took the two of us combined in a relaxed observer chat to find it
+[11:11:37] hthree: I would play on as Black because White missed some stuff earlier and doesn't have hours
+[11:12:22] hthree: Qg3+ very precise
+[11:13:23] hthree: now White collects everything
+[11:15:39] hthree: good game with a lot of interesting tactics
+[11:16:25] hthree: @KnightFury21 if you don't mind me asking why did you think 24.Qb3 didn't work?
+[11:18:11] knightfury21: I think I couldn't see any really good discoveries after Rxc7
+[11:18:56] knightfury21: Nxh6 is possible but I don't have the smothered mate on g8 unforunately
+[11:19:42] knightfury21: But I can force repetition so I probably should've gone for it with the time situation
+[11:21:13] hthree: yeah that's what we (spectator chat) thought
+[11:21:13] knightfury21: The issue is once my knight on c7 is captured, I lose control of the d5 square so I didn't think any other knight discoveries worked
+[11:22:13] hthree: yes but perpet was better than losing after g4 Bd5
+[11:22:43] knightfury21: Yeah if I had seen the 24...Bd5 line and understood I lose the queen with check, I would've gone for the draw
+[11:24:14] knightfury21: I saw that after playing g4 but too late by that point
+[11:24:14] hthree: well congratulations on your victory in a hard fought game where both sides found some nice tactics and both sides missed some
+[11:30:48] qrs: Yes, indeed - very impressive one!
