@@ -1,0 +1,314 @@
+Lichess game chat log
+Game      : https://lichess.org/PpQJzyWk
+White     : kyriakos1301
+Black     : gpetris
+Time      : 45+45
+Captured  : 2026-10-24 21:40:00 UTC
+Game ended : 2026-10-24 20:19:49 UTC
+Messages  : 304
+────────────────────────────────────────────────────────────
+
+[18:48:54] simonwashere: Go gpetris!
+[18:48:54] gpetris: Hello Simon!
+[18:48:54] bxvrc2lh: go go kyriakos
+[18:48:54] kyriakos1301: Hi Lina and  bxVRc2lh
+[18:48:54] bxvrc2lh: Bxb5 looks scary... 13 move
+[18:48:54] kyriakos1301: Hi Aldric!
+[18:48:54] lavizien: Good luck!
+[18:48:54] gpetris: Hi aldric123!
+[18:48:54] kyriakos1301: whoever develops the rooks first wins, right?
+[18:48:54] bxvrc2lh: no
+[18:48:54] kyriakos1301: I wanted to play e4 but was worries about Ng4
+[18:48:54] bxvrc2lh: which team has the king in the name wins
+[18:48:54] bxvrc2lh: wait... it's the same I messed up the colours :D
+[18:48:54] lavizien: Whoever has the Greek-er sounding name wins
+[18:48:54] bxvrc2lh: also works
+[18:48:54] simonwashere: 15...Bxf3
+[18:48:54] simonwashere: Then Ne5
+[18:48:54] shurbz: Kyriakos!!!
+[18:48:54] bxvrc2lh: Bxf3 - fxg... not sure if I would give away that bishop for that
+[18:48:54] kyriakos1301: if he moves the Knight on d2, he has Bxf3. Yikes, Maybe I should have played Be1 instead of h3
+[18:48:54] kyriakos1301: What's up Shurbz!
+[18:48:54] bxvrc2lh: Shrubz... do you need a lesson how to win with 2 pawns up? :) I mean longest game is cool achievement
+[18:48:54] kyriakos1301: but I guess if Nd2 moves, I have e4
+[18:48:54] shurbz: Haha yes, I was actually planning on drilling that endgame against an engine for a while
+[18:48:54] shurbz: Mostly it was just exhaustion I think and I got impaitent
+[18:48:54] bxvrc2lh: yeah 5 hours is hard
+[18:48:54] kyriakos1301: e4,e5 not sure i like that, or e4 h6. Hmm
+[18:48:54] shurbz: bx, you’re thinking gxf was the right recapture?
+[18:48:54] bxvrc2lh: yeah... otherwise the piece was losts... as simon stated... Bxf3, Qxf3-Ne5 and Nxd3
+[18:48:54] bxvrc2lh: obviously gxf was not ideal but I would estimate like -0.5 at most  as it would have been very hard to attack white king
+[18:48:54] shurbz: Makes sense
+[18:48:54] aldric123: (19.Bh4) This game is hard to observe. A teammate vs a RL friend. Who do I cheer for? Go both of you!
+[18:48:54] shurbz: I’ll admit, these positions are really hard for me to understand
+[18:48:54] bxvrc2lh: yes, positions are hard.... for me it looks like black were better before Nf8
+[18:48:54] bxvrc2lh: or perhaps even now
+[18:48:54] aldric123: (19...Nf8) black's pieces to me seem better, the Bb1 is kinda an eyesore
+[18:48:54] aldric123: (19...Nf8) Dunno if Bxf6 Qxf6 Nd5 does much or not
+[18:48:54] bxvrc2lh: I would consider Nd5 as white
+[18:48:54] bxvrc2lh: to open up the bishop
+[18:48:54] bxvrc2lh: black are more or less forced to take
+[18:48:54] bxvrc2lh: good
+[18:48:54] aldric123: (20.Nd5) true, straight up
+[18:48:54] bxvrc2lh: the key thing white should recapture with pawn and not rook
+[18:48:54] aldric123: (20.Nd5) agreed
+[18:48:54] bxvrc2lh: becaues of Bxf2
+[18:48:54] kyriakos1301: Aldric I promise I will start thinking (hopefully soon)
+[18:48:54] aldric123: (20.Nd5) I mean also because it'd lose an excchange directly
+[18:48:54] aldric123: (21.exd5) 21...e4 might be slightly awkward
+[18:48:54] aldric123: (21.exd5) probably has better than that though
+[18:48:54] bxvrc2lh: depends on style but e4 f5... I would probably play
+[18:48:54] bxvrc2lh: but I play Dutch so tend to move f pawn :D
+[18:48:54] aldric123: (21.exd5) e4 can't really do Bxe4 because of f5 I think. And if not knight has to go somewhere stupid
+[18:48:54] aldric123: (21...Bd6) defensive. Ah well
+[18:48:54] aldric123: (21...Bd6) More my normal speed
+[18:48:54] kyriakos1301: Rxc1 is a threat
+[18:50:41] bxvrc2lh: Kyriakos thinks for more than 1 minute.... weird
+[18:50:56] bxvrc2lh: could be he got interrupted RL
+[18:51:27] aldric123: (21...Bd6) He did claim in chat a few mins ago that he'd start thinking (hopefully soon)
+[18:52:27] aldric123: (21...Bd6) He's apparently worried atm that if he doesn't do something about it Black could do Rxc1 Rxc1 Bxd5
+[18:53:13] kyriakos1301: Be4 seems too pasive
+[18:53:58] aldric123: (21...Bd6) I think I'd do Qd2 ahead of Be4
+[18:54:13] aldric123: (22.Bc2) that's an interesting way to go
+[18:54:13] aldric123: (22.Bc2) Intending Bb3 probably
+[18:54:28] bxvrc2lh: yeah, but why?
+[18:54:28] bxvrc2lh: you have good diagonal why block yourself
+[18:54:44] aldric123: (22.Bc2) Basically he did it so Rxc1 Rxc1 Bxd5 isn't possible
+[18:54:44] aldric123: (22.Bc2) Maybe he has some larger idea too, but....
+[18:55:44] bxvrc2lh: Rxc8... but ok
+[18:55:59] aldric123: (22.Bc2) Yeah but then you';re giving up the c file fully
+[18:55:59] aldric123: (22.Bc2) But I hear ya, there were alternatives
+[18:56:14] bxvrc2lh: black would have to get back to e file anyway to protect e pawn
+[18:57:00] bxvrc2lh: I am worried about e4.. any moment black can see that they can push it :)
+[18:57:30] aldric123: (22.Bc2) If he does push it, I think here you go Nd4 Bxd5 and maybe Nf5
+[18:57:45] aldric123: (22.Bc2) seems interesting
+[18:58:16] kyriakos1301: yeap I only saw that after Bc2
+[18:59:01] aldric123: (23.Nd4) B on d5 and d6 seem interestingly weak if Bxd5
+[19:00:17] bxvrc2lh: black can include Ng6, and exchange bishop on g3 before Bxd5
+[19:00:32] bxvrc2lh: Bxd5 still to risky so not sure if it is possible anyway
+[19:01:02] aldric123: (23.Nd4) yep does seem risky
+[19:01:17] aldric123: (23.Nd4) Your Ng6 here seems solid, since the e4 pawn blocks bishop from taking it
+[19:02:33] bxvrc2lh: Ng6-Nf4 I would probably consider
+[19:02:33] aldric123: (23.Nd4) I suppose maybe you could still do Ng6 Nf5 but not certain
+[19:02:48] bxvrc2lh: and either forcing white to take on f4 or taking d5 with a knight
+[19:03:03] bxvrc2lh: ouh....
+[19:03:03] aldric123: (23...Bxd5) Gpetris is being manly
+[19:03:03] aldric123: (23...Bxd5) Hope it doesn't bite him.
+[19:03:34] aldric123: (25.Qg4) Qg4 looks tasty
+[19:03:49] bxvrc2lh: but why is he blitzing
+[19:04:04] aldric123: (25.Qg4) Only way to not instantly lose seems to be Be5
+[19:04:04] aldric123: (25.Qg4) though of course Nxh6 is possible there
+[19:04:04] bxvrc2lh: taking on d6 with a rock was also a move imo
+[19:04:50] aldric123: (25...Be5) That is probably just trades though, right?
+[19:05:05] aldric123: (25...Be5) Rxd6 Qxd6 and the white Q is still hanging
+[19:05:05] bxvrc2lh: yeah but it was worth calcualting :)
+[19:06:36] aldric123: (25...Be5) Nxh6 seems easiest to try out. have to go Kh8 I think
+[19:06:51] aldric123: (25...Be5) If Kh7 Bxe4+ seems too pretty
+[19:07:21] bxvrc2lh: yeah but like Nxh6-Kh8 and what to do with a night? Nf5-Be6?
+[19:07:36] aldric123: (26.Bg3) nice
+[19:07:51] aldric123: (26.Bg3) I mean he's not going to do Bxg3 but it's fun to poke
+[19:08:06] bxvrc2lh: lol... both of us missed Qxh6 :D
+[19:08:06] aldric123: (26.Bg3) oh geez
+[19:08:22] aldric123: (26.Bg3) We did
+[19:08:37] aldric123: (26.Bg3) It's that stealth queen hanging out on b6, so hidden!
+[19:08:52] bxvrc2lh: yeah.. to far away
+[19:09:22] aldric123: (26.Bg3) I think I may have directly taken on e4 then
+[19:09:22] aldric123: (26.Bg3) 26.Bxe4
+[19:09:52] kyriakos1301: this is the point where I stress out too much.
+[19:10:23] aldric123: (26.Bg3) Hmm if Bxb2 do you do Rd6?
+[19:10:38] kyriakos1301: looks like to me Bf6 is the only move. Then I can play Rd6
+[19:10:53] aldric123: (26.Bg3) Bf6 or the manly Bxb2!
+[19:11:08] bxvrc2lh: Nd6 a bith of threat
+[19:11:08] aldric123: (26.Bg3) Bf6 actually might be screwed by Rd6 followed by Rxf6
+[19:11:23] kyriakos1301: well, maybe Be6 has a merit as well
+[19:11:23] aldric123: (26.Bg3) Though I guess Bf6 Rd6 Rc6
+[19:11:54] bxvrc2lh: but Bxd2.... looks interesting
+[19:12:24] aldric123: (26...Bxb2) Now he needs to choose between the complicated Rd6 or Nd6
+[19:12:39] bxvrc2lh: yeah
+[19:12:39] aldric123: (26...Bxb2) Nd6 seems less cool
+[19:12:54] naveengeorge: Rd6 looks deadly
+[19:13:09] aldric123: (26...Bxb2) although I have to keep in mind Bxc1 isn't a real threat since mate is still on
+[19:13:25] aldric123: (26...Bxb2) Rd6 seems deadly but Rc6 might make it not as bad
+[19:13:25] aldric123: (26...Bxb2) not certain yet
+[19:13:25] bxvrc2lh: like Rd6, Nxh6 and Qh5/Qh4
+[19:14:10] aldric123: (26...Bxb2) Rd6 Rc6 Nxh6+ Kh8 and I haven't figured more
+[19:14:25] bxvrc2lh: simple Nf5 also works...
+[19:14:40] aldric123: (26...Bxb2) Remember that white is 2 pawns down atm, so he needs an attack or to win back some stuff eventually
+[19:15:41] bxvrc2lh: yeah Nd6 is to passive
+[19:16:11] aldric123: (26...Bxb2) Nd6 stops the mate threat so Bxc1 works I think
+[19:16:26] aldric123: (26...Bxb2) Then it's just trading exchanges while white is down 2 pawns
+[19:17:27] bxvrc2lh: no fun
+[19:17:27] aldric123: (27.Rb1) agreed
+[19:19:28] aldric123: (27...Bc3) well we're back to Nd6 or Rd6
+[19:19:43] bxvrc2lh: the idea is simple Nd6 and exchange ...
+[19:20:14] aldric123: (27...Bc3) It's workable now at least. When the rook was hanging on c1 is was purely bad
+[19:20:14] bxvrc2lh: but it's pawn down and versus 2 bishops
+[19:20:29] bxvrc2lh: 2 pawns I meant
+[19:20:44] aldric123: (27...Bc3) If Nd6 now black could also do Bxa2
+[19:21:45] bxvrc2lh: yeah but it's free rook on c8
+[19:22:00] aldric123: (27...Bc3) ah good point
+[19:22:00] aldric123: (27...Bc3) the Q covers it, so nevermind that
+[19:22:15] aldric123: (27...Bc3) I guess Nd6 Be6 you could consider
+[19:22:45] bxvrc2lh: also not sure.... Nxc8 and after Nxb6
+[19:22:45] aldric123: (27...Bc3) Nd6 Be6 Nxc8 Rxc8
+[19:23:00] aldric123: (27...Bc3) You go down the exchange, but I"d easily prefer black
+[19:23:16] aldric123: (27...Bc3) White's knight on f5 is a beastly piece
+[19:23:16] bxvrc2lh: Qxe5 at the end
+[19:23:46] bxvrc2lh: I hope kyriakos calculates rd6
+[19:23:46] aldric123: (27...Bc3) Ok I see your Qxe4 and do Bxa2 I imagine
+[19:24:47] kyriakos1301: I have Nd6 forking the rooks, Ne2+ and Rd6-Nxh6+
+[19:26:17] bxvrc2lh: too long line :)) my brain not good already. I had my 4545 game also today
+[19:26:33] aldric123: (27...Bc3) I hadn't really considered Ne7+ directly. It's not bad at all
+[19:27:18] aldric123: (27...Bc3) Though I guess it runs into similar things where you're winning the exchange but your attack is almost gone
+[19:28:03] bxvrc2lh: Rd6 seems like the best choice to keep the attack
+[19:28:49] aldric123: (28.Bxe4) I agree
+[19:29:19] aldric123: (28...Bxa2) Heh, this is what I assumed would happen
+[19:29:34] aldric123: (28...Bxa2) Black maintains his up 2 pawns
+[19:29:50] naveengeorge: But now now Rc6 after Rd6
+[19:29:50] naveengeorge: no*
+[19:30:20] aldric123: (29.Rbc1) yeah black could have some issues if he's not careful
+[19:30:50] bxvrc2lh: is there other move except Qf6?
+[19:30:50] aldric123: (29...Qf6) Maybe Qf6 here?
+[19:30:50] aldric123: (29...Qf6) yeah I called it
+[19:31:05] naveengeorge: Rd6 needed to be played I think
+[19:31:05] naveengeorge: Maybe still can?
+[19:31:05] aldric123: (29...Qf6) I kind of agree but we've been saying that for like 3 or more moves
+[19:31:20] aldric123: (29...Qf6) Now Rd6 has Re6
+[19:31:36] aldric123: (29...Qf6) Or Ne6
+[19:32:06] aldric123: (30.Rd6) Can choose either Ne6 or Re6 here I think
+[19:32:21] bxvrc2lh: yeah :(
+[19:32:21] bxvrc2lh: even Be6
+[19:32:36] aldric123: (30.Rd6) truth
+[19:35:08] bxvrc2lh: I think it's lost for white now
+[19:35:23] aldric123: (30...Be6) I'll be mildly amused if white is like gimme back a pawn and does Rxa6
+[19:35:38] bxvrc2lh: but it is possible that it's the only move
+[19:35:53] aldric123: (30...Be6) I think Rxa6 Bxf5 might be possible
+[19:36:23] bxvrc2lh: ouh yes
+[19:37:09] aldric123: (31.Bh4) Rd6 woulda been a much more fun move before the Q was on f6
+[19:37:24] aldric123: (31.Bh4) tasty
+[19:37:39] aldric123: (31.Bh4) is Bxf5 still possible?
+[19:37:54] kyriakos1301: this a wild game
+[19:37:54] aldric123: (31.Bh4) I think so
+[19:38:09] aldric123: (31.Bh4) Bxf5 I think maintains black's material advantage
+[19:39:10] aldric123: (31.Bh4) Something like Bxf5 Bxf6 Bxg4 Bxc3 Be6
+[19:39:56] naveengeorge: wow
+[19:39:56] aldric123: (31...g5) I guess in the end white can win back a pawn on a6
+[19:39:56] aldric123: (31...g5) I guess he didn't notice Bxf5
+[19:40:26] naveengeorge: h4 looks tasty now
+[19:40:56] aldric123: (32.Bg3) Bxf5 still looks possible btw :)
+[19:41:42] bxvrc2lh: g5 was mistake imo
+[19:41:42] aldric123: (32.Bg3) I agre3e
+[19:41:57] naveengeorge: g5 was defo unnecessary
+[19:41:57] aldric123: (32.Bg3) I was trying to calculate Nxh6+
+[19:41:57] naveengeorge: keeps white in the game
+[19:42:42] tactix47: #naveensentme :)
+[19:43:12] naveengeorge: Lol I rallied the troops for this one
+[19:44:28] bxvrc2lh: Be5 now?
+[19:44:28] aldric123: (32.Bg3) I think I'd do Bxf5 or Ng6 now
+[19:44:59] naveengeorge: a5... seems way too slow
+[19:45:29] aldric123: (33.Qh5) sigh now all Bxf5's aren't possible
+[19:45:29] naveengeorge: white should slow down though
+[19:45:59] aldric123: (33.Qh5) white's fully back in the game now!
+[19:47:00] bxvrc2lh: I can see only potential prepertual for white (hard word)
+[19:47:00] aldric123: (33.Qh5) I guess at this point Nh7 with the idea of Nxh6+ Kh8?
+[19:48:00] naveengeorge: Then Ng4 surely in that line?
+[19:48:15] bxvrc2lh: even Nxf7 with Bg6 is possible there
+[19:48:15] aldric123: (33.Qh5) that does look annoying doesn't it
+[19:48:31] kyriakos1301: in situations like this, my brain refuses to think. I need to get it together
+[19:49:16] aldric123: (33...Qh8) I guess Nh7 Nxh6+ Kh8 Ng4 and you fianchetto the Q on Qg7!!!1
+[19:49:46] aldric123: (33...Qh8) this is interesting
+[19:49:46] aldric123: (33...Qh8) I hate it, but interesting
+[19:49:46] bxvrc2lh: lol
+[19:50:01] bxvrc2lh: white can take pawns back + attack
+[19:51:17] aldric123: (34.Nxh6+) Hmm 34.Rxc3 was fun
+[19:51:32] aldric123: (34...Kg7) You probably can still do it here
+[19:51:32] aldric123: (34...Kg7) Rxc3
+[19:51:48] bxvrc2lh: yeah Rc3 looks good
+[19:52:18] bxvrc2lh: but perhaps Qxg5 first?
+[19:52:18] kyriakos1301: I think I have the perpetual which is good for my team this round
+[19:52:33] bxvrc2lh: to be able to take on f6
+[19:52:33] kyriakos1301: but a naughty thought crossed my mind, Rxc3
+[19:52:48] aldric123: (34...Kg7) I mean if he takes back there's Be5+
+[19:53:03] bxvrc2lh: yeah but after Qg5 Be5 will take Queen
+[19:53:34] aldric123: (34...Kg7) There's the boring Qxg5+ of course
+[19:53:34] bxvrc2lh: if rxc3 now Qxh6 will follow at the end
+[19:53:49] naveengeorge: Rxe6 almost works but Rxe6 in response saves the game
+[19:54:04] bxvrc2lh: Qxg5-Ng6 and Rxc3!
+[19:54:19] aldric123: (34...Kg7) Yeah Naveen I was looking at that
+[19:54:19] kyriakos1301: Rxe6?
+[19:54:19] bxvrc2lh: I think it's force win for white after Qxg5 or am I missing something?
+[19:54:34] aldric123: (34...Kg7) Like Rxe6 Rxe6 Qxf7+ Kxh6
+[19:54:49] aldric123: (34...Kg7) It looks solid
+[19:54:49] aldric123: (34...Kg7) Qxg5+ Ng6
+[19:54:49] aldric123: (34...Kg7) What's the rest of your line
+[19:55:05] bxvrc2lh: yeah and Rxc3 after Ng6
+[19:55:35] aldric123: (34...Kg7) Yeah but if that line then Qxh6
+[19:55:50] aldric123: (34...Kg7) it's kinda more trades though obviously white is hugely attacking
+[19:56:35] bxvrc2lh: yeah Rxe6 looks better
+[19:57:06] aldric123: (34...Kg7) I still like the immediate Rxc3
+[19:57:36] bxvrc2lh: Rxc3-Qxh6?
+[19:57:36] kyriakos1301: this is harder than I thought
+[19:58:37] bxvrc2lh: I mean simple Qxg5 and Nxf7
+[19:58:37] aldric123: (34...Kg7) If Rxc3 Qxh6 Be5+
+[19:58:52] bxvrc2lh: and white are pawn up + attack
+[19:58:52] tactix47: 35.Qxg5+ Ng6 36.Rxc3 Qxh6 37.Be5+ and White should regain lots of material
+[19:59:07] bxvrc2lh: Qxg5-Ng6,Nxf7?
+[19:59:07] aldric123: (34...Kg7) Yeah those are the two lines I was looking at most
+[19:59:22] bxvrc2lh: and take back on g6 looks scary
+[19:59:22] aldric123: (34...Kg7) It's whether to include Qxg5 or not
+[19:59:52] aldric123: (34...Kg7) Hmm that's true bxV
+[20:06:41] aldric123: (35...Ng6) looks like he's going for your line bxV I like it
+[20:06:57] aldric123: (35...Ng6) Nxf7 Bxf7 Bxg6 looks strong
+[20:07:42] naveengeorge: He might be tempted by Rxc3
+[20:07:57] aldric123: (35...Ng6) Or Nxf7 Bxf7 Rxc3 with idea of Be5+
+[20:08:12] aldric123: (35...Ng6) I like including the Nxf7 before the Rxc3 here
+[20:08:12] aldric123: (35...Ng6) So no f6 possibilities
+[20:08:43] aldric123: (35...Ng6) oh wait that doesn't work
+[20:08:43] aldric123: (35...Ng6) sheesh
+[20:08:58] naveengeorge: f6 hangs the knight
+[20:09:13] naveengeorge: but After Rxc3 black can play Qxh6
+[20:09:28] naveengeorge: I think?
+[20:09:43] aldric123: (35...Ng6) I was saying the Nxf7 before the Rxc3
+[20:09:58] aldric123: (35...Ng6) But in the latest line I forgot that after Bxf7 e5 isn't free
+[20:10:13] jdannan: After Nxf7 Bxf7, the e5 square is covered by the Re8
+[20:10:29] bxvrc2lh: we don't need e5 there simple Rxg6
+[20:10:29] aldric123: (36.Nxf7) most simple at this point to me seems Nxf7 Bxf7 Bxg6 at this point
+[20:10:29] bxvrc2lh: good
+[20:10:44] naveengeorge: Nice. What a game lol
+[20:10:59] jdannan: Yes
+[20:11:14] giziti: (34...Kg7) what about Nxf7 Bxf7 Rxg6+
+[20:12:00] aldric123: (36.Nxf7) I mean yeah Rxg6 is solid
+[20:12:15] aldric123: (36.Nxf7) Rxg6 Bxg6 Qxg6+ and probably Bd6+
+[20:12:45] giziti: (36...Bxf7) yeah though i'm not finding a knockout blow after Re7 in that line, it's probably in there somewhere
+[20:13:00] bxvrc2lh: Bxg6 probably simpler
+[20:13:15] aldric123: (36...Bxf7) they're both super winning
+[20:13:15] giziti: (36...Bxf7) yeah no need to be fancy, but i guess we're doing it!
+[20:13:15] naveengeorge: Damn
+[20:13:46] giziti: (37.Rxg6+) maybe it's Bd6 Re7 Bd5
+[20:13:46] naveengeorge: White isn't even down much material
+[20:14:01] naveengeorge: So if he can pick up a piece, he's good
+[20:14:16] aldric123: (38.Qxg6+) he's about to be up a king and/or rook
+[20:14:16] aldric123: (38...Kf8) :)
+[20:14:16] bxvrc2lh: Bd6-Rd7, Qf5
+[20:14:16] aldric123: (38...Kf8) yep
+[20:14:46] giziti: (37.Rxg6+) oh yeah Qf5 will do
+[20:15:01] naveengeorge: Very nice
+[20:15:17] aldric123: (39...Re7) This is the flashiest game I can remember from Kyriakos. He should be proud
+[20:15:47] bxvrc2lh: niceeee
+[20:15:47] aldric123: (40.Qf5+) flawless (the last while)
+[20:16:32] aldric123: (40...Qf6) Bxe7+ then take the other rook
+[20:17:03] aldric123: (40...Qf6) or Qxf6+ Bxf6+ and tyake the rook
+[20:17:18] aldric123: (40...Qf6) the world is your oyster
+[20:18:49] giziti: (41...Kf7) maybe throw in a Bd5+, see what happens
+[20:19:04] aldric123: (41...Kf7) you're cruel giziti! :)
+[20:19:19] naveengeorge: Nah no need for that really. Bxe7 hits the queen already lol
+[20:19:34] naveengeorge: Now Bd5
+[20:19:49] aldric123: (42...Qxe7) yep
+[20:20:04] naveengeorge: gg!
+[20:20:04] pineapplechiffoncake: gg
+[20:20:04] giziti: (41...Kf7) fun!
+[20:20:04] bxvrc2lh: gg
+[20:20:04] aldric123: great job both of you
+[20:20:20] simonwashere: gg
+[20:20:35] kyriakos1301: thanks for watching guys!
+[20:23:21] tactix47: gg!
