@@ -1,0 +1,32 @@
+Lichess game chat log
+Game      : https://lichess.org/YcLl2eHr
+White     : tristanbrown17
+Black     : mcstudly
+Time      : 45+45
+Captured  : 2026-10-24 01:40:23 UTC
+Game ended : 2026-10-24 00:20:14 UTC
+Messages  : 22
+────────────────────────────────────────────────────────────
+
+[23:15:23] berndwind: Go Tristan!
+[23:22:12] mennonite: Go Tristan!
+[23:43:24] rajjsinghh: go studly!
+[23:48:12] rajjsinghh: i know nimzowitsch wrote a full chapter on this but I take white
+[23:50:58] rajjsinghh: I want to say Nimzo said white is aiming for the move c3-c4 so the question is if black can attack these pawns sooner
+[23:54:30] mcstudly: 17) I think I may have solved my opening problems. I just need to not get abused by the Queen/bishop on d3 like my last game in this open
+[23:56:01] mcstudly: 18) so is c3 free? can't play Qd3 if my queen is on c3 lol.
+[23:57:02] rajjsinghh: White is banking on Bxh7 which doesn't look like it works
+[23:57:32] rajjsinghh: Qxc3 Bxh7+ Kxh7 Ng5+ Kg8 Qh5 Qd3 guards mate, right?
+[23:59:48] mcstudly: 19) welp, ngl, didn't consider a Bxh7+
+[00:07:07] mcstudly: 20) Kg6 is losing for me. So I have to go Kg8 and get my queen on the h7 c1 diagonal. If 21. Qh4 then Qc2 I think is winning
+[00:07:37] mcstudly: 20) but he can bring rooks with tempo on me before Qh5
+[00:08:08] mcstudly: 20 but maybe then I can take d5 and bring queen to d4 or e4
+[00:08:38] mcstudly: 20) I guess I don't need to calculate it all because Kg8 is forced. everything else loses i think
+[00:09:23] rajjsinghh: great call. now Qc2 or Qd3 and we're home free
+[00:09:39] mcstudly: 21) OK yeah, I think I am fine here. Qc2 defends h7. and I go Qg6, pressure on g2.
+[00:12:10] rajjsinghh: Well, Nf5 avoiding Rc7 with tempo could be important
+[00:13:10] mcstudly: 23) I think Nf5 here. Tempo on queen, avoiding fork from Rc7. Then maybe I go Bd5, even f6 to win more material?
+[00:15:27] mcstudly: 24) I don't want to allow a rook lift to rank 3 with Rg3. I have e3 covered, so maybe Rac8
+[00:15:27] berndwind: Yup the issue is the queen can guard. Always something to watch for with these Greek gifts
+[00:15:42] rajjsinghh: Rc8 would be my choice first, guarding Rc7
+[00:17:58] rajjsinghh: I suppose black can win material with f6 but it feels very brave
