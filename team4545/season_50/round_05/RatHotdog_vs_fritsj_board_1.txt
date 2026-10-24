@@ -1,0 +1,41 @@
+Lichess game chat log
+Game      : https://lichess.org/B3JvFznS
+White     : rathotdog
+Black     : fritsj
+Time      : 45+45
+Captured  : 2026-10-24 22:25:32 UTC
+Game ended : 2026-10-24 21:05:17 UTC
+Messages  : 31
+────────────────────────────────────────────────────────────
+
+[20:22:07] rathotdog: normally you need to worry about Ba6 when playing c3, thats why Re1 so c3 Ba6 d4 doesn't hang the rook
+[20:36:15] fritsj: Not happy about this move but had to deal with the threat to trap my Knight somehow
+[20:38:01] rathotdog: I think that exf6 Nxc5 bxc5 Rxe6 wins technically, surprising he'd miss that
+[20:38:16] rathotdog: still after I win the pawn its not free to convert
+[20:43:19] fritsj: Gonna be hard to hold this...
+[20:52:24] johnjpershing: Let's go Rat!
+[21:05:32] fritsj: c3 was surprisingly annoying
+[21:05:47] rathotdog: damn fish says Ne6 h5 Ra7 Bh6 g5! is also a win
+[21:05:47] rathotdog: with Bd4 mate
+[21:06:02] rathotdog: I was planning Nc6-e7 to win with the pin
+[21:06:17] fritsj: Yeah no way to fight that really
+[21:06:32] rathotdog: yeah @fritsj I think you need to try Nd4 before I have enough time to prepare c3
+[21:07:02] fritsj: Oftentimes there's not such a rush
+[21:07:02] rathotdog: its technically possible to play c3 earlier I saw from looking at some master games here but it gets complicated because you're sacrificing
+[21:07:18] fritsj: But yeah there's just no squares
+[21:07:18] rathotdog: like c3 Ba6 if u play it too early
+[21:07:33] fritsj: Yeah I was relying on that earlier
+[21:07:33] fritsj: Not ready for Be6 I guess
+[21:07:48] rathotdog: yeah
+[21:08:18] rathotdog: I did kind of confuse my move orders but I don't think it matters so much
+[21:08:18] fritsj: I know this opening is supposed to be fine but it's very easy to get into trouble here
+[21:08:33] fritsj: Happens to me quite a lot
+[21:08:33] rathotdog: I was analyzing 7. d3 and 7. h3 where you delay d3 until after castles
+[21:08:48] rathotdog: but I accidently played d3 on move 9 deviating from what i'd analyzed
+[21:09:04] fritsj: Ahhh
+[21:09:19] rathotdog: I think 4. ... g6 is slightly dubious tbh
+[21:09:19] fritsj: It transposes oftentimes
+[21:16:11] rathotdog: Qc7 seems more sound
+[21:16:11] fritsj: g6 is alright but you walk the line a bit more
+[21:17:42] rathotdog: yo lichess is back :o
+[21:18:12] rathotdog: yeah g6 is definitely fine, Qc7 if you prep it just seems to fully equalize though. I think thats what fabi was playing in the candidates
