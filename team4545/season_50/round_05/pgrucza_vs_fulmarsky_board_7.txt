@@ -1,0 +1,217 @@
+Lichess game chat log
+Game      : https://lichess.org/sXY1XUog
+White     : pgrucza
+Black     : fulmarsky
+Time      : 45+45
+Captured  : 2026-10-24 00:16:37 UTC
+Game ended : 2026-10-23 22:56:27 UTC
+Messages  : 207
+────────────────────────────────────────────────────────────
+
+[21:36:41] fulmarsky: (3.Nd2) ok Nd2 as expected
+[21:36:41] fulmarsky: (7.Bd3) i'm not so familiar with that early Knight trade on f6
+[21:36:41] fulmarsky: (7.Bd3) i think it's ok though
+[21:37:11] fulmarsky: (7...Be7) plan is  ...O-O and ...b6  and ...Bb7
+[21:37:26] fulmarsky: (7...Be7) and then maybe i could get in  ...c5
+[21:37:56] fulmarsky: (8...O-O) oh thank you chess opening, this is saving a bit of time
+[21:38:27] fulmarsky: (9.Qe2) now after Qe2   ...b6 can be problematic, if the dsb is on g5
+[21:38:42] fulmarsky: (9.Qe2) but it's not, so   ...b6   Qe4  i think i can play  ...Rb8 and it's ok, there is no checkmate on h7
+[21:39:27] fulmarsky: (9.Qe2) lets think about this though  ...b6   Ng5  is that an issue?
+[21:40:28] fulmarsky: (9...b6) i'm quite content with this opening, i think there is parity, that be my sense
+[21:40:43] fulmarsky: (10.Bf4) oh dear  Be4   oooh no!
+[21:40:58] fulmarsky: (10.Bf4) calm.... oooh calm oooh dear  ... calm....
+[21:41:13] fulmarsky: (10.Bf4) can i play  ...Bb7 still or has that Bf4 made things tricky?
+[21:41:28] fulmarsky: (10.Bf4) c7 is safe
+[21:41:44] fulmarsky: (10.Bf4) i think it's ok... i dont see   Bf4 being that potent
+[21:42:44] fulmarsky: (10...Bb7) note to self, if that Qe2 moves, consider  ...BxNf3 messing up whites kingside
+[21:43:30] fulmarsky: (11.Rad1) now i'm out of prep... thoughts are  ...c5   ...Rc8   or what about  ...Qd5
+[21:44:15] fulmarsky: (11.Rad1)  ...Qd5   Bc4 looks a bit awkward, where does the BQ go then...
+[21:44:45] fulmarsky: (11.Rad1) i don't think one should do anything crazy , but just calm development
+[21:45:01] fulmarsky: (11.Rad1) my rooks need activating
+[21:45:31] fulmarsky: (11.Rad1)   ...c5   dxc5 is a blunder  i think because  Bxh7+ discovert on Qd8[[[[[[[[[[[[
+[21:48:17] fulmarsky: (11...Rc8) i wanted to play  ...Rc8
+[21:48:32] fulmarsky: (11...Rc8) (a) develop  (B)   Qe5 attacking c7 a 2nd time is concerning
+[21:48:32] fulmarsky: (11...Rc8) and (c) i didn't know what else to pay
+[21:48:32] fulmarsky: (11...Rc8) play
+[21:50:03] nirakuhakamura: (12.c3) go fulmarsky!
+[21:50:19] fulmarsky: (12.c3) i don't like  ...c5   dxc5 and that check on h7 while the Rd1 and Qd8 are in alignment, so i'm tempted by  ...g6
+[21:50:34] fulmarsky: (12.c3) so i can get in my ...c5
+[21:50:49] fulmarsky: (12.c3) other option is ...Kh8
+[21:51:19] fulmarsky: (12.c3) oh negative, i still lose the h-pawn, then, this angst
+[21:51:34] fulmarsky: (12.c3) ...g6 i am considering now
+[21:52:20] fulmarsky: (12.c3) i have to get in that ...c5 and get some counterplay
+[21:52:35] fulmarsky: (12.c3) and it's tricky to see how to get the BQ off that d-file currently, so i'm not sure what other plan i have than ...g6
+[21:53:51] fulmarsky: (12.c3) an alternative idea is
+[21:54:21] fulmarsky: (12.c3) ...Bd6 to challenge thw white dsb, and if   Bxd6  ...Qxd6  then i can get in ...c5  dxc5 ...Qxc5
+[21:54:36] fulmarsky: (12.c3) i don't want to commit to playing ...g6 yet
+[21:54:51] fulmarsky: (12.c3) so   ...Bd6 to challenge  Bf4 i think i prefer, i just doing a sanity check...
+[21:56:07] fulmarsky: (12...Bd6) Ne5 now is interesting for white...  hmmm  a bit unnerving
+[21:56:37] fulmarsky: (12...Bd6) if  Bxd6   i'm pleased
+[21:56:52] fulmarsky: (12...Bd6) If something else, i could consider ...Qe7 and then my queen is off the d-file and i can get in my  ...c5 break move
+[21:57:23] fulmarsky: (12...Bd6) well the Bf4 is currently 'en prise' oh refreshing, oh yes....
+[21:57:53] fulmarsky: (13.Bg5) ok hmmmmm
+[21:57:53] fulmarsky: (13.Bg5) hmmmm
+[21:58:38] fulmarsky: (13.Bg5) i don't think  Bxf6 is an issue, because i have  ...Qxf6 and there is no check tactic on h7
+[21:58:53] fulmarsky: (13.Bg5) but queen is tied to the defense of the knight currently
+[22:00:09] fulmarsky: (13.Bg5) i can't see currently  ...Bxf3  Qxf3  ...Bxh2  Kxh2   doing anything, unless i have a good check like
+[22:00:24] fulmarsky: (13.Bg5) ...Qd6+ or  ...Ng4+
+[22:01:10] fulmarsky: (13.Bg5) can i wtih the bishop?   ...Bxf3   Qxf3  ...Bxh2+  Kxh2  ...Ng4+  [ Kg1 ...Qxg5
+[22:01:40] fulmarsky: (13.Bg5) oh negative,  ...Ng4 is 'en prise'
+[22:02:10] fulmarsky: (13.Bg5) but
+[22:02:10] fulmarsky: (13.Bg5) i can now play ...c5
+[22:02:26] fulmarsky: (13.Bg5) ...c5  dxc5  ...Rxc5!
+[22:02:56] fulmarsky: (13...c5) i like it
+[22:02:56] fulmarsky: (13...c5) i like ...c5
+[22:02:56] fulmarsky: (13...c5) the only snag is...
+[22:03:11] fulmarsky: (13...c5)   it opens the d-file and white has a rook on d1
+[22:03:11] fulmarsky: (13...c5) but my rook is activated on c5
+[22:03:26] fulmarsky: (13...c5) i'm going for it
+[22:03:41] fulmarsky: (13...c5) i like the benefits of it, and its not passive
+[22:04:27] fulmarsky: (13...c5)  well the time management is preferable to the previous game
+[22:04:57] fulmarsky: (13...c5) i just need to try and hurry when i can, but its sooo tense
+[22:04:57] fulmarsky: (13...c5) soooo tense its just tricky to hurry.....
+[22:05:42] fulmarsky: (14...Rxc5) i'm nervous
+[22:05:42] fulmarsky: (14...Rxc5) i'm nervous i'm falling for a tactic
+[22:05:42] fulmarsky: (14...Rxc5) i can't see it but i'm just a bit anxious
+[22:05:58] fulmarsky: (14...Rxc5) Be3 doesn't concern me
+[22:05:58] fulmarsky: (14...Rxc5) Bxh7  ...Kxh7  is that ok?
+[22:06:13] fulmarsky: (14...Rxc5) i think so....
+[22:06:28] fulmarsky: (15.Be3) ok that white dsb is really moving around on that c1-h6 diagonal
+[22:06:43] fulmarsky: (15.Be3) where to move that refreshing rook to... ?
+[22:07:13] fulmarsky: (15.Be3) ..Rd5 seems a bit neither here nor there
+[22:07:28] fulmarsky: (15.Be3) ...Rh5 is interesting me more
+[22:07:44] fulmarsky: (15.Be3) hitting  h2 a second time
+[22:07:59] fulmarsky: (15.Be3) after ...Rh5 i have two bishops pointing to that WK as well as the rook
+[22:09:15] fulmarsky: (15.Be3) i was just looking at   ...Bxf3  Qxf3  if there is tactic  maybe  theh ...Bxh2 check  Kxh2  ...Rh5   Kg1  but i can't see how
+[22:09:15] fulmarsky: (15.Be3) it continues...
+[22:10:00] fulmarsky: (15.Be3) this requires some thought
+[22:10:30] fulmarsky: (15.Be3) is  ...Bxf3   Qxf3   ...Bxh2  Kxh2  ...Qc7+ going anywhere...
+[22:10:45] fulmarsky: (15.Be3) then  Kg1   ...Rh5
+[22:11:31] fulmarsky: (15.Be3) th[en  g3 blocks checkmate and i don't think i have compensation for that lost bishop...
+[22:12:01] fulmarsky: (15.Be3) i'm not quite brave enought for that
+[22:12:46] fulmarsky: (15.Be3) i want to play  ...Rh5
+[22:13:02] fulmarsky: (15.Be3) i'm concernt about   g4
+[22:13:17] fulmarsky: (15.Be3) ...Rh6??  g5
+[22:14:17] fulmarsky: (15.Be3) ...Rh5   g4   ...Bxf3   Qxf3   ...Bxh2  Kh1
+[22:14:17] fulmarsky: (15.Be3) oh this is anguish, ... anguish trying to think these things through...
+[22:15:33] fulmarsky: (15.Be3) if KH1 i can move the dsb with discovered check    Kg1 maybe i could get a perpetual check draw, if i wanted
+[22:15:48] fulmarsky: (15.Be3) my opponent is higher rated...
+[22:16:19] fulmarsky: (15.Be3) after ...Bxh2 check, white has   Kg2  then what?
+[22:16:49] fulmarsky: (15.Be3) its' messy  angst
+[22:16:49] fulmarsky: (15.Be3) angst
+[22:17:04] fulmarsky: (15.Be3) oh silly me
+[22:17:04] fulmarsky: (15.Be3) ...Rh5  g4  ...Nxg4
+[22:17:34] fulmarsky: (15.Be3) hmmm but then can the Nf3 move with discovered attck oin my knight on g4 ?
+[22:18:05] fulmarsky: (15.Be3) shall we throw the kitchen sink with ...Rh5 ?
+[22:18:20] fulmarsky: (15.Be3) shall we go for it??? attack on the kingside?
+[22:18:50] fulmarsky: (15.Be3) if i active with dynamism and launch a kingside offensive, will i get there in time, before the rook is no more?
+[22:19:51] fulmarsky: (15...Rh5) i'm going for it
+[22:20:21] fulmarsky: (15...Rh5) this is risky.. this is bold... i cna't be passive now, i'm committed
+[22:20:36] nirakuhakamura: (15...Rh5) why not
+[22:20:51] fulmarsky: (15...Rh5) it is concerning though
+[22:21:06] fulmarsky: (15...Rh5) g4  ...Nxg4 and then ooooh   NF3 moving
+[22:21:06] nirakuhakamura: (15...Rh5) quite a bit of tension around the g2 h2 squares
+[22:21:06] fulmarsky: (15...Rh5) and my Ng4 is unguarded
+[22:21:22] nirakuhakamura: (15...Rh5) I don't think white can afford g4
+[22:21:22] fulmarsky: (15...Rh5) oh maybe just hopping back to Nf6 is adequate
+[22:21:37] fulmarsky: (15...Rh5) hmmmmm
+[22:21:52] fulmarsky: (15...Rh5) i think white may try and remove my Nf6 guard with this dsb
+[22:22:07] fulmarsky: (15...Rh5) oh!! if Nf3 moves i have check on h2
+[22:22:07] nirakuhakamura: (15...Rh5) yes you could start thinking about your response to 16. Bd4
+[22:22:53] fulmarsky: (15...Rh5) one thing i'm a bit concerned about is    h3 setting up g4
+[22:23:23] fulmarsky: (15...Rh5) oh i suppose then  ...Rxh3 is ok... there's just a lot of uncertainty and my time situation isn't great
+[22:24:08] fulmarsky: (15...Rh5) i think   g3 may get played now
+[22:24:08] nirakuhakamura: (15...Rh5) black at least is threatening Bxf3 followed by a capture on h2, probably with bishop, then maybe Bb8 + Qd6?
+[22:24:23] fulmarsky: (15...Rh5) i need to keep pressure on
+[22:24:23] fulmarsky: (15...Rh5) after g3,  Bb7 bishop is immense
+[22:24:54] fulmarsky: (15...Rh5) g3  ...Ng4  is that good ?
+[22:25:24] fulmarsky: (15...Rh5) i think that is risky
+[22:25:24] nirakuhakamura: (15...Rh5) black needs to be careful not to fall for Bxh7+ tricks with rook and Q aligned. I.e. careful when moving the Bd6
+[22:25:39] fulmarsky: (15...Rh5) after Nf3 moves
+[22:26:09] fulmarsky: (15...Rh5) think
+[22:26:55] fulmarsky: (15...Rh5) what about  after g3   ...Qa8
+[22:27:10] fulmarsky: (15...Rh5) oh yes!!!
+[22:27:25] fulmarsky: (15...Rh5) g3   ...Qa8!
+[22:27:40] fulmarsky: (15...Rh5) i think white wants my lsb off the board
+[22:27:55] fulmarsky: (15...Rh5) and so   Ba6 is a strategic idea
+[22:28:11] fulmarsky: (15...Rh5) at some stage
+[22:28:26] fulmarsky: (15...Rh5) but, if i can get in my   ...Qa8 first, white may not have time to play ...Ba6
+[22:28:41] fulmarsky: (15...Rh5) angst angst
+[22:28:41] fulmarsky: (15...Rh5) will white prod that g pawn to g3
+[22:28:56] fulmarsky: (15...Rh5) and then i can get in my ...Qa8
+[22:29:42] fulmarsky: (15...Rh5) let's think   g3   ...Qa8    Kg2  is that safe for white to put the king there to double protect Nf3  ?
+[22:30:12] fulmarsky: (16.h3) it didn't happen,  white foresaw the jeapardy of the g3 move
+[22:30:12] fulmarsky: (16.h3) so  h3 was played instead
+[22:30:57] fulmarsky: (16.h3) first i look at  ...Ng4   hxg4   ...Bh2 check, is that fruitful?
+[22:31:12] fulmarsky: (16.h3) oooh i don't think so
+[22:31:28] fulmarsky: (16.h3) hmmm
+[22:31:28] fulmarsky: (16.h3) that idea is trash
+[22:31:43] fulmarsky: (16.h3) so hmmm white wants to get in g4 but h3 is loose
+[22:32:28] fulmarsky: (16.h3) the dark sqaures are now weak, which leads me to consider  ...Qc7
+[22:32:28] nirakuhakamura: (16.h3) I think they just don't want to get mated for now
+[22:32:43] fulmarsky: (16.h3) but then again  ...Qa8 is still very tempting
+[22:32:59] fulmarsky: (16.h3) even if  g pawn is still on g2
+[22:33:29] fulmarsky: (16.h3) time is of the essense
+[22:33:44] fulmarsky: (16.h3) moves liks    Bg5 is  'ouch' or   Bd4
+[22:33:59] fulmarsky: (16.h3) so i need to move quickly
+[22:34:45] nirakuhakamura: (16.h3) ooooohh Ng4 hxg4 Bxf3 Qxf3 Rh1+ Kxh1 Qh4+ Kg1 Qh2# but white doesn't have to do that
+[22:35:15] fulmarsky: (16.h3) maybe some pragmatism
+[22:35:30] fulmarsky: (16.h3) Rook on f8 needs activation, so moveing the BQ could be good
+[22:36:00] fulmarsky: (16.h3) the issue i have is if i were white   Ba6 is a ploy and i don't want to lose that Bb7 bishop
+[22:36:31] fulmarsky: (16.h3) let's think outside the box
+[22:37:01] fulmarsky: (16.h3) oh i can't .. thinking inside the box is tough enough...
+[22:39:48] fulmarsky: (16.h3) what about
+[22:39:48] fulmarsky: (16.h3) move the ...Nf6 knight
+[22:40:33] fulmarsky: (16.h3) move Nf6  tempt  Nf3 to move and then   ...Qh4
+[22:41:34] fulmarsky: (16.h3) no
+[22:44:35] fulmarsky: (16...Nd7) i didn't like this line
+[22:45:06] fulmarsky: (16...Nd7) ...Nd5   Nd4   ...Qh4   Nf3 because on d5 the knight blocks the scope of Bb7
+[22:45:21] fulmarsky: (16...Nd7) i don't know if this is wise
+[22:45:36] fulmarsky: (16...Nd7) i really don't know if this is wise
+[22:45:36] fulmarsky: (16...Nd7) i admit it
+[22:46:06] fulmarsky: (16...Nd7) the idea is    Nd4  ...Qh4 but after that, its a bit hazy
+[22:46:06] nirakuhakamura: (16...Nd7) at least with the knight on d7 you can hope for Bb8+Qc7
+[22:46:21] fulmarsky: (16...Nd7) then if   Nf3 i  guess   ...Bxf3   Qxf3
+[22:46:37] fulmarsky: (16...Nd7) but yes the BQ asnd rook are over the kingside but,  white defends
+[22:46:52] fulmarsky: (16...Nd7) so giving up my lsb, i'm not sure this is sound strategy
+[22:47:22] fulmarsky: (16...Nd7) an alternative idea is
+[22:47:22] fulmarsky: (16...Nd7)  ...g6
+[22:47:37] fulmarsky: (16...Nd7) but makes the white dsb even stronger
+[22:47:52] fulmarsky: (16...Nd7) oooh dear
+[22:48:07] fulmarsky: (16...Nd7) Bxh7!
+[22:48:07] fulmarsky: (16...Nd7) ooooh    Bd6 is loose
+[22:48:22] fulmarsky: (16...Nd7) this is dangerous, maybe  ...Nd7 was a faux pas
+[22:48:38] fulmarsky: (16...Nd7) its ok, but it could get tricky
+[22:48:53] fulmarsky: (16...Nd7) anyway i think my knight is amazing on e5 square
+[22:49:38] fulmarsky: (16...Nd7) but it's tricky because i foresee   Nf3 moving and i'm still undecided   ...g6  versus    ...Qh4  (or is ther esomething else?
+[22:50:24] fulmarsky: (16...Nd7) the issue i have with ...Qh4 is  the white knight hopping back on to Nf3  then what?
+[22:50:39] fulmarsky: (16...Nd7) i don't want to pya  ...Bb7 giving up my lsb unless i have to
+[22:51:09] fulmarsky: (17.Bxh7+) its happend, i thought that was safe
+[22:51:09] fulmarsky: (17.Bxh7+) i reasoned that was safe.... but since its happened, i'm sure i acquiesed
+[22:51:24] fulmarsky: (17.Bxh7+) angst
+[22:51:39] fulmarsky: (17.Bxh7+) ...Rxh7
+[22:51:55] fulmarsky: (17.Bxh7+) ooooh  i see i lost Bd6
+[22:52:55] fulmarsky: (17.Bxh7+) ...Rxh7    Rxd6   ...Qc7   Rfd1
+[22:53:10] fulmarsky: (17.Bxh7+) i'm even considering   ...Kh8
+[22:53:25] fulmarsky: (17.Bxh7+) doesn't that just lose a tempo...
+[22:53:56] nirakuhakamura: (17.Bxh7+) yes
+[22:54:26] fulmarsky: (17...Rxh7) i've given white that strong d file
+[22:54:26] fulmarsky: (17...Rxh7) hmmm
+[22:54:26] fulmarsky: (17...Rxh7) ok
+[22:54:26] fulmarsky: (17...Rxh7) don't panic
+[22:54:41] fulmarsky: (17...Rxh7) its frustraiting
+[22:54:56] nirakuhakamura: (17.Bxh7+) Rxh7 Rxd6 Bxf3 Qxf3 Ne5 maybe there's a little hope
+[22:56:27] matthewkcanada: I didn't notice how dire the time situation was
+[22:56:42] nirakuhakamura: very dire
+[22:57:13] matthewkcanada: gg anyway
+[22:57:28] fulmarsky: i was so engrossed, i was wondering  ...Rxh3 sac and then ..Qxh3
+[22:57:28] fulmarsky: on angst
+[22:57:43] nirakuhakamura: gg
+[22:57:43] matthewkcanada: It was a hard position
+[22:58:13] fulmarsky: oh i appreciate... i see now  ...Nd7 wasn't great
+[22:58:28] fulmarsky: i'm encouraged that i only made one mistake in the game, albeit a blunder, and it only takes one
+[22:58:43] fulmarsky: well the biggest mistake was the time clock issue
+[22:58:43] fulmarsky: its horrendous
+[22:58:58] fulmarsky: oh angst.   I appreciate the support.. i just feel .... it so regrettable.....
+[22:59:14] nirakuhakamura: you will come back stronger, on to the next 100! :-)
+[23:38:48] fulmarsky: oh it's appreciated
