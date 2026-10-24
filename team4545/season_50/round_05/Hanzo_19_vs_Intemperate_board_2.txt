@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/Q3zpgx2B
+White     : hanzo_19
+Black     : intemperate
+Time      : 45+45
+Captured  : 2026-10-24 21:34:34 UTC
+Game ended : 2026-10-24 20:13:42 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[18:48:53] joonaf: go Hanzo!
+[18:48:53] upgoerfive: Go hanzo!
+[18:48:53] hanzo_19: I think Qd2 in this position is not the best, but I don't remember why
+[18:48:53] bickedag: is black even threatening anything after 12. O-O ?
+[18:48:53] bickedag: I don't know any gruenfeld theory
+[18:48:53] bickedag: I guess we just get an endgame where black probably has some advantage in pawn structure
+[18:48:53] bickedag: does white have 13. Bh6, it seems a bit annoying
+[18:48:53] bickedag: white is probably tempted by 15. Qf4, but I think black plays Ne5 with some advantage
+[18:49:38] lorb: Qf4,Ne5,dxc4 and than?
+[18:50:09] lorb: ah, Nxc4 .. I see
+[18:51:55] upgoerfive: Maybe Qf4, Ne5, Bd5?
+[18:52:10] intemperate: I assume he's calculating Qf4?
+[18:52:40] bickedag: ah interesting, Bd5 would be strong
+[18:53:56] bickedag: so maybe black should play e6
+[18:54:26] bickedag: d5 break is a bit of a concern
+[18:55:42] bickedag: I like this Ba6, helps that the knight on e2 is loose
+[18:57:58] upgoerfive: Wondered if Bxe6 Qc7+ might work but yeah with the hanging e2 knight no way
+[19:07:34] bickedag: how does black intend to meet Qd4
+[19:07:34] bickedag: oh I guess e2 still hangs
+[19:08:04] bickedag: but Qb2 looks like it wins a piece with f4 coming
+[19:08:50] bickedag: nvm I guess f6 is unpinning
+[19:10:05] bickedag: white definitely seems like they have initiative if they can get their knight to e6
+[19:19:26] lorb: so I suppose if d6 lives white wins, if d6 dies black wins
+[19:19:56] bickedag: yes I am thinking the d pawn is too strong
+[19:19:56] bickedag: white has two defenders black has 0 attackers
+[19:20:57] bickedag: and white has moves like Qg4 or Qg5 that can be problematic
+[19:21:42] intemperate: if I can win that d6 pawn, I have a chance to force a win with my 2 Q side pawns, if not, I might lose!?
+[19:23:43] intemperate: I don't think I have time to take om a2, due to d7 & Qc7
+[19:26:00] bickedag: I think black survives after 24... Rd8 25. Qg5 Qc8
+[19:27:00] bickedag: or 25... Rd7 even. I was worried about 26. Qg4 but Re6 defends nicely
+[19:33:34] lorb: if I was white I would be quite torn between going all in on the d pawn and saving a2
+[19:45:41] bickedag: this is a sneaky trap from white
+[19:46:11] bickedag: if 27... Qxa2 28. Qb5 Rxd6 29. Rxd6 Rxd6 30. Qe8+ Kg7 31. Qe5+ wins a rook
+[19:46:57] bickedag: or does it
+[19:46:57] bickedag: Rf6 possible
+[19:47:42] bickedag: I think he can safely go for it
+[19:48:13] bickedag: the only other move I'm tempted by is b5
+[19:57:33] bickedag: this h4 was a brilliant try from white
+[19:57:33] bickedag: I think it should be about equal here
+[20:04:07] bickedag: don't take the draw!
+[20:09:10] bickedag: I think after 33... Rh6 34. Qg5+ Kf8 35. Qd8+ Kg7 36. Qd4+ Qf6 black is better because 37. Qxa7 loses to Qf3 38. Qd4+ Kg6 39. Qd6+ f6
+[20:12:42] bickedag: though I guess I missed that white will go back to g5 just like this
+[20:14:58] bickedag: good game from both
