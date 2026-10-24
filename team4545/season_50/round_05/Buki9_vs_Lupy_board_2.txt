@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/Smr8ZWXC
+White     : buki9
+Black     : lupy
+Time      : 45+45
+Captured  : 2026-10-24 08:18:05 UTC
+Game ended : 2026-10-24 06:57:57 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[05:08:40] nightsub: Go Lupy
+[05:11:57] gavalanche20: (7...d4) Go buki!
+[05:29:07] nightsub: hi gavalanche! how do you add the current move to your comment?
+[05:32:54] gavalanche20: (13...f5) Hey, you either install this script https://greasyfork.org/en/scripts/422291-lichess-whisper-switch-by-ipr
+[05:33:24] gavalanche20: (13...f5) Or this Chrome extension has it too https://chromewebstore.google.com/detail/lichess-tools-by-siderite/langlhlcknngldkeliapahbhbcm
+[05:35:25] nightsub: I think I already have the siderite extension, I need to look into this. thanks
+[05:41:44] gavalanche20: (14.Qe1) Oh boy White's looking a bit cramped ngl
+[05:45:01] sarahwynn: Go Lupy!
+[06:01:40] lupy: missed Nc4 before moving. Really should've calculated more, but think Qd8 was basically forced
+[06:02:56] gavalanche20: (18...Qd8) f4 and maybe even Bxh4 look very scary right now
+[06:35:29] lupy: ugh, knights. guess we're going to have ten moves of jumping and avoiding and then i'm going to blunder and lose
+[06:38:31] lupy: looking back, move 14 i thought my position was great, and by move 17 i thought it was garbage. interested to know if that's accurate
+[06:54:09] lupy: oh man i would've taken a draw so fast 3 moves ago
+[06:58:12] lupy: gg, man, i guess the computer doesn't mean that much if you can't find the moves, but i'm still relieved to take the draw
+[06:58:12] buki9: Well the engine says I can still play for the win but with the time situation I wasn’t so sure
+[06:58:27] lupy: and not be told i had an advantage
+[06:58:42] lupy: yeah, a few moves earlier i felt like time was all i had
+[06:59:12] buki9: Yeah was very interesting, I gotta stop trying to play like Vincent Keymer, some times you should take the center :^)
+[06:59:12] gavalanche20: gg
+[06:59:27] buki9: b5 was very nice
+[06:59:58] buki9: Maybe nd5 was better I just missed b5
+[07:00:13] lupy: yeah  it felt like it made a big difference, pushed your knight back and stopped me just being kicked around
+[07:00:13] buki9: Yea
+[07:00:13] lupy: computer says it changes nothing :)
+[07:00:43] buki9: I just play nd5 and then slowly try to push and bring my king I guess I can hardly lose
+[07:01:13] lupy: i felt like if i could start something on both sides, maybe trade one set of pieces, i might have something
+[07:01:13] lupy: but you'd have passed pawns in the centre
+[07:01:43] buki9: 18...Qc7 I would’ve been in trouble i think
+[07:01:58] lupy: i was also hoping with time, you might blunder something like 36. f3 or Nd4
+[07:01:58] buki9: That felt like a turning point
+[07:03:14] lupy: I thought it Qc7, d6... and then... ugh, why did i think that was losing?
+[07:03:44] lupy: think i confused two lines. thought that left the knight hanging to a discovery
+[07:03:59] buki9: Yea d6 just looks scary I guess
+[07:04:45] buki9: Wow 19...d4
+[07:04:45] buki9: F4*
+[07:05:45] lupy: i think 15 Qa5 was the wrong direction in the first place
+[07:06:31] lupy: thought maybe there were tactics with Nb4 after, but i think i should've stayed in the centre and towards Kside
+[07:07:01] buki9: Maybe but I thought it gives me very concrete problems, if I move the bishop then maybe Nb4 yea
+[07:07:16] buki9: I had to play Qe1 back to c1 so I think it was good
+[07:07:31] lupy: yeah, i knew that idea was there, but didn't see it was so important. felt like your pieces were hanging and there should be vulnerabilities
+[07:07:31] lupy: f4 i mean
+[07:08:01] buki9: Or I mean the engine says just allow nb4 but we’ll
+[07:08:32] buki9: Yeah I mean if you have such a dominant position it feels kinda weird to sacrifice material but I guess if it works it works
+[07:11:18] buki9: Well it was an interesting game, well played and good luck in the future
+[07:12:18] lupy: thank you, you too
