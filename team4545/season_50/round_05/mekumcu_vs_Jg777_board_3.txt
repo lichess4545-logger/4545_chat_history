@@ -1,0 +1,106 @@
+Lichess game chat log
+Game      : https://lichess.org/dbSroRrn
+White     : mekumcu
+Black     : jg777
+Time      : 45+45
+Captured  : 2026-10-24 03:39:30 UTC
+Game ended : 2026-10-24 02:19:21 UTC
+Messages  : 96
+────────────────────────────────────────────────────────────
+
+[00:02:03] jg777: Friday night chess! Let's see what I get to learn tonight and have a fun Sicilian!
+[00:04:19] jg777: Okay now I need to stop and think here, as we seem to prematurely take on c6 (to me) and changed the pawn structure here as well.
+[00:04:34] rajjsinghh: go mekumcu!
+[00:05:20] jg777: I seems like e6 is kinda forced here though, so I guess there isn't much to think about on this move.
+[00:06:20] rajjsinghh: I know 7. Bc4 is a very important move so black is probably fine
+[00:06:35] jg777: I suppose there was Be6, but that didn't look right. I think a5 Ba6 is more in tune with what I should be going for.
+[00:07:21] mennonite: go jg!
+[00:07:36] jg777: I have to sort out how I am going to play this now, I anticipate a quick Bh6 and DSB swap, g4-h4 stuff from white.
+[00:09:52] jg777: I don't mind e5 since Nd7 and then it seems f4 is necessary, which just overall slows white's attacking ideas down a lot.
+[00:10:23] jg777: other ideas is h4-h5 ideas from white immediately, or g4, but I anticipate Bh6 myself.
+[00:11:53] jg777: I actually don't recall ever playing or looking at a game with this structure from the Sicilian.
+[00:12:39] jg777: I think I like Be2, because I am already planning a5- Ba6, so they may just be moving the bishop an extra time here.
+[00:14:55] jg777: I wonder if white can play Bd4 here and fight against the DSB without swapping it off immediately via h6
+[00:15:25] jg777: but what is the benefit of that approach, really? I can't play e5 yet, so you aren't preventing that really. Bh6 seems more to the point.
+[00:16:41] jg777: Hm, Bg4 sets up a cheapo (e5), but this seems to waste a bit of time. I need to move my queen anyway?
+[00:18:12] jg777: Pretty sure the queen belongs on c7. If b6, Na4 may be a bit annoying. I also may want to eye d8 later on with a Rfd8 or something.
+[00:18:57] rajjsinghh: Qb6 was maybe stronger with Rb8 coming
+[00:19:28] jg777: Here comes Henry the eager! :)
+[00:19:43] rajjsinghh: It's not like black is in any danger but maybe slow moves allow too much over time
+[00:21:14] jg777: since we don't have an immediate DSB swap, I am considering a4 here, looking at a3 if allowed, before a Ba6.
+[00:24:00] jg777: Maybe that isn't correct though, because a4 a3 and then a4 is always pressured by Nc3 there. Maybe Ba6 swap idea is better.
+[00:24:46] jg777: Because Be2 may someday arrive on h5 or something, whereas Bc8 is never doing anything critical for me with this pawn formation.
+[00:30:34] jg777: I guess the point of Nxc6 is this c6 pawn is a bit hampering blocking the C file, and pushing it is a bit difficult with d5 pressure.
+[00:31:04] jg777: Interesting, really. I'll have to look at this pawn structure later and see the best way for black to deal with it.
+[00:31:50] jg777: Henry the eager one is sure ready to play tonight. :)
+[00:32:05] rajjsinghh: I know this is normal in the dragon except for the e6 pawn, but black got a better move order
+[00:33:20] rajjsinghh: the main question is what happens after Nxh5? g4 Nf6 Bh6 or something?
+[00:33:51] rajjsinghh: hey nyanners
+[00:35:52] jg777: I am trying to decide if a4 here makes sense. I was looking at e5, which is the principled way to counter flank attacks.
+[00:36:07] jg777: but Na4 looks a little annoying.
+[00:37:08] jg777: Wait, maybe e5 is just wrong here anyway, it blocks the DSB of mine that still exists.
+[00:37:38] jg777: c5 would be the idea to push d4, and then Na4 isn't even annoying there.
+[00:44:11] jg777: Well at least I'm getting a lesson in this pawn structure tonight, will be fun to review it after.
+[00:44:42] jg777: this Nxc6 bxc6 thing led to an interesting position where I thought I had a feel for it, but now I don't think I did/do.
+[00:45:27] jg777: Perhaps I needed something more central earlier on and a5- Ba6 idea was to slow for the general white plan of hack n slash on the kingy.
+[00:45:42] nyanners: youre just going to let henry do his thing like that
+[00:45:57] nyanners: i think this is actually dangerous
+[00:46:28] rajjsinghh: it's starting to look like that but all of black's issues feel avoidable
+[00:46:28] nyanners: maybe :o
+[00:46:43] rajjsinghh: felt avoidable* sorry mb
+[00:53:32] nyanners: is white going for the pawn
+[00:53:47] nyanners: id guess not. probably just clearing the tension before Bh6
+[00:54:02] jg777: Okay, my idea here was Rd8, but lets ensure I am not missing something really silly.
+[00:54:17] jg777: Although at this point I don't know if there is an alternative bail out idea anyway
+[00:55:33] jg777: Okay issue here is something on f4... Not sure that is working for me.
+[00:58:35] jg777: Bg4 is actually turning out to be a thorn in my side here. Causing a lot of issues in the lines I see.
+[00:59:50] jg777: Yeah I think I have to play Rd8 anyway and admit I can't calculate properly and opps, I am in a hole here now.
+[01:01:21] jg777: Dear king, it is with regret I write to inform you that our offensive in the center has been a disastrous affair.; Send help.
+[01:03:22] jg777: White knew how to play this way better than me. I'm dancing to the wrong tune.
+[01:04:08] jg777: These sorry black soldiers needed a better general commanding them tonight. :P
+[01:04:38] jg777: But it'll be good to dive into this later and try to make sense of how this structure is suppose to be played.
+[01:05:23] jg777: I suspect my a5- Ba6 thing early on wasn't great, and d5 seems to have been quite bad, but that's me not understanding the pawn structure
+[01:05:39] jg777: and what I was needing to play for.
+[01:06:54] rajjsinghh: so how does white continue? Bh6?
+[01:07:10] jg777: Problem is this d8-c7 configuration is actually preventing my knight from playing any key role here and the result is quite disastrous.
+[01:09:26] goldenretrieverchess: Go Jordan!
+[01:13:28] jg777: Yeah, my pieces make no sense. I see that. Going down 2 pawns with zero comp and the ship is sinking here.
+[01:14:14] jg777: It's really interesting is that the black pieces are so poorly placed, I can't even get creative here. It's just dead lost.
+[01:16:00] rajjsinghh: that feels pessimistic, it feels like black should have some attacking chances
+[01:16:15] rajjsinghh: probably not successful but still chances
+[01:21:03] jg777: I am not sure I can find a way to hold this endgame. Will try, but I can't see a configuration of pieces or general plan to give it a go.
+[01:22:03] jg777: c-a pawns are just incredibly weak and unstable, I am losing a minimum of one, possibly both even, and even one is enough
+[01:22:03] jg777: to score the point for white.
+[01:23:34] rajjsinghh: with the pairing bye this is 4.5-0.5 to white yippee
+[01:23:49] jg777: Yeah going for the A pawn it seems. Makes sense to me.
+[01:24:19] jg777: I wonder if I can play something like QxQ KxQ here though, and keep the rook on a6. Maybe it helps?
+[01:25:05] jg777: Oh white just wants to end this here and now, forget any endgame. :P
+[01:30:38] jg777: I believe the rook can't move at the moment. I believe the d7 square is an issue.
+[01:42:45] jg777: Qxe7 looks tempting but I think I 'd lose that endgame because again, the weak c-a pawns. Probably better to try something else instead.
+[01:45:16] rajjsinghh: RxN looks winning but I'm not working it all out lol
+[01:48:18] jg777: I think Ne4 is working for white, because Re6? g4!. So Ra8 I guess, to stop Qd8? That looks like a hog tie and soon roasted though
+[01:51:04] jg777: I didn't expect this, I thought it didn't work- I guess I was wrong.
+[01:55:52] jg777: I don't know, I am not seeing the killing line here. I could just be missing it though.
+[02:00:25] flipiflapi: (28.Be3) heyo jordan
+[02:03:11] jg777: I guess death by a thousand cuts?
+[02:06:43] jg777: A lot for me to learn from this game, but at least I made a show of it I suppose :)
+[02:06:43] inter-temporal: (29...g5) go jg67!
+[02:06:59] inter-temporal: (29...g5) jg677
+[02:07:29] jg777: I'll have to look at that pawn structure and see how black is suppose to play it. I clearly went wrong, but got to find the whys.
+[02:09:00] inter-temporal: (29...g5) apparently the book didn't like 10...e6
+[02:09:30] jg777: Yeah that was a bad move, but I was lost a long time ago anyway. :)
+[02:11:01] jg777: I wonder if you can play Bxg5 here, that would be quite funny to me.
+[02:11:46] jg777: Nc5 has to just be winning the house though :)
+[02:12:47] jg777: Wuhoo! White playing good chess tonight.
+[02:16:49] jg777: This is quite the funny position really- abandoned my king and hole up my pieces in a corner. :P
+[02:18:05] jg777: Yeah white can do whatever they want, there is nothing here.
+[02:18:20] jg777: A bit silly stuff to throw on the queenside but it was all lost anyway.
+[02:18:35] jg777: time to review and learn. Cheers
+[02:18:50] goldenretrieverchess: gg
+[02:18:50] inter-temporal: (31...Kf7) gg
+[02:21:06] jg777: Well I at least was correct that c5 was a bust and I had thought about a4, but decided against it. Way to go me!
+[02:22:37] jg777: Wow, every blunder I made, I thought of and dismissed the right move. Impressively bad intuition and calculation!
+[02:23:53] jg777: c5 and Kg6 were big howlers though. Really bad chess there. Loss deserved! Fun game though
+[02:24:08] jg777: I guess I need to calculate better before ruling out the moves that are correct in the future? :P
+[02:25:24] jg777: No way, Qc4 because I have the forced repetition after Bxb2! LOL, wow jordan, missing that one.
+[02:26:09] jg777: Okay, well time to call it a long week and get some bed so I can be productive this weekend. Fun game mekumcu, good play! Fun to watch. :)
