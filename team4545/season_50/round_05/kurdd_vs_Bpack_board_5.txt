@@ -1,0 +1,64 @@
+Lichess game chat log
+Game      : https://lichess.org/CXOf3m2X
+White     : kurdd
+Black     : bpack
+Time      : 45+45
+Captured  : 2026-10-24 02:00:34 UTC
+Game ended : 2026-10-24 00:40:24 UTC
+Messages  : 54
+────────────────────────────────────────────────────────────
+
+[23:00:13] oachkatzerlschwoaf: go bpack
+[23:00:29] oachkatzerlschwoaf: looks cooked unfortunately
+[23:25:58] bpack: oof, didn't see that one
+[23:26:28] bpack: Nf3 stops any back rank tricks
+[23:26:58] bpack: oh wait, Qc3?
+[23:27:29] bpack: Nf6 is super important tho...
+[23:38:05] highonpotnuse: go bpack!
+[23:39:35] bpack: damn... QxQ is what i should've played (25...)
+[23:43:38] highonpotnuse: QxQ looks worse to me...at least here blacks rooks are maybe doing something on the 3rd rank
+[23:55:29] highonpotnuse: (27.Kg1) there's hope white messes up with their time being so low but hard to see how black puts pressure on white here
+[23:57:30] bpack: (...27) b5
+[00:00:47] highonpotnuse: (29.Ng5) nb5 and nd4 could threaten a back rank
+[00:01:32] highonpotnuse: ne4 not d4
+[00:03:18] inter-temporal: (31.Nxe5) go Bpack!
+[00:09:07] inter-temporal: (33...Kf6) i mean not new account, but mostly unused
+[00:19:27] inter-temporal: (34.g4) some chances for a draw, perhaps
+[00:20:13] inter-temporal: (41...Re8) if Re5 Rh8, Rh5 Re8
+[00:21:29] inter-temporal: (41...Re8) will it work
+[00:21:59] inter-temporal: (42...Rh8) how does White get out of it
+[00:22:14] bpack: grasping at the feintest hints of a perpetual
+[00:22:44] inter-temporal: (43...Re8) good. maybe pushing d5 make it harder
+[00:24:30] inter-temporal: (43...Re8) ooh. but maybe Rc8
+[00:25:31] inter-temporal: (45.Bd6) good move!
+[00:26:31] inter-temporal: (45...Rd8) attack it again
+[00:26:31] inter-temporal: (46...Rd7)  drama
+[00:27:02] inter-temporal: (46...Rd7) hmmm
+[00:27:17] inter-temporal: (47.Re6+) doesn't that drop smth?
+[00:27:17] inter-temporal: (47...Kf7) this is a double attack
+[00:29:33] inter-temporal: (48...Rc2) good maneuvering by white
+[00:29:48] bpack: might finally be out of clever moves. Rb1 and...??
+[00:33:35] inter-temporal: (55...Kf3) always threaten mate in 1
+[00:38:23] bpack: that was a nice sequence
+[00:38:53] inter-temporal: (55...Kf3) Rb7-d7. why not
+[00:40:24] bpack: a geeft =)
+[00:40:24] inter-temporal: (63...Rb1) the black K is stalemated
+[00:40:24] inter-temporal: and checkmated
+[00:40:54] inter-temporal: gg
+[00:41:09] inter-temporal: respect!
+[00:41:09] inter-temporal: to both
+[00:45:11] bpack: g4-g5 was scary early in the middle game, but no threat according to engine.
+[00:45:42] bpack: felt like i had chances to defend with g6
+[00:47:12] inter-temporal: SF wanted 12...b5 or else
+[00:47:58] inter-temporal: it was tempo sensitive
+[00:48:13] inter-temporal: ...b5 and ...b4 asap
+[00:48:43] bpack: ya... that dawned on me later that i need to a6-b5 in one go
+[00:49:13] inter-temporal: 13...Re7 gifted White a tempo, when it was already to tempo sensitive
+[00:49:13] bpack: not sure now what possessed me to play Bd7 instead of b5-Bb7
+[00:49:44] inter-temporal: [too] tempo sensitive
+[00:53:15] inter-temporal: my chats aren't going thru
+[00:53:30] inter-temporal: i also commented that, even better than 12...b5 was 11...b5
+[00:54:16] inter-temporal: ugh. still
+[00:54:46] inter-temporal: black must crash into white's Q-side asap, or die
+[00:55:31] inter-temporal: soooo, 10...b5 was best, yeh?
+[00:55:31] inter-temporal: i give up
