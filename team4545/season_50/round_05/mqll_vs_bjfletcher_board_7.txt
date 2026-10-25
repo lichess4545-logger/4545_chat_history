@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/yQjSbQHq
+White     : mqll
+Black     : bjfletcher
+Time      : 45+45
+Captured  : 2026-10-25 23:27:52 UTC
+Game ended : 2026-10-25 22:07:49 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[19:12:12] bjfletcher: i had a look at white's opening, expecting d4... then maybe Nimzo!
+[19:13:28] bjfletcher: haha he had prepared a sideline... hmm...
+[19:13:58] bjfletcher: a bit tempting to go for a sideline too here, be sure to get out of white's prep
+[19:15:29] bjfletcher: actually going for d5, just to see what he comes back with
+[19:16:14] bjfletcher: aha catalan.. damn, i did see that he played i think just one game here but didn't prep for that
+[19:17:30] bjfletcher: i have a good feeling c5 & Nc6 are solid reply to catalan
+[19:19:16] bjfletcher: sorry - kid/dog again... right back here
+[19:22:18] bjfletcher: i used to play Nxd5 here, but struggled against white's e4 response
+[19:24:04] bjfletcher: this O-O is wild! fully expected dxc5 hmm higher level stuff
+[19:29:23] bjfletcher: i wanted to castle, but needed to get bishop out... don't wanna move it twice
+[19:38:43] bjfletcher: 10... O-O BxN QxB Bxd5 Qxb2 N1d2 Rd8... hm
+[19:44:32] bjfletcher: my candidate moves: Be6 or d4...
+[19:45:48] bjfletcher: not sure 11...Be6 because after Bxf6 I lose my d pawn?
+[19:47:19] bjfletcher: not sure d4 because white can Na4 bumping bishop defender of d pawn
+[19:48:20] bjfletcher: maybe gxf6 instead of Qxf6... hmm
+[19:50:51] bjfletcher: (11...Be6) these are IQP problems i'm learning "on the job"!
+[19:58:59] bjfletcher: sorry for no commentary... needed to calculate & catch up on time :/
+[20:04:19] bjfletcher: doubled b pawns but it protects white knight jump squares & Na5 -> c4 seems nice
+[20:12:54] bjfletcher: 16.Qd7 eyeing Bh3 if white doesn't Nxe6
+[20:16:57] bjfletcher: i feel I can maybe control e4 square with my knights now...
+[20:23:00] bjfletcher: with Bh3, I see I have a number of threats... hoping one of them will work as endgame won't be in my favour with this pawn structure
+[20:53:49] bjfletcher: (27...b5) I'm desperately eyeing one plan which is Ra8 & go a pawn up
+[21:09:14] patk74: go mqll!
+[21:23:23] qrs: (42 ... Nf8) this allows b4, no ?!
+[21:23:53] qrs: 43 b4 cxb4 Bxb4+ drops a knight
+[21:24:08] qrs: 43 b4 c4 b5+ (discovered check) drops a knight
+[21:26:09] qrs: 43 b4 N8d7 was probably required from black which still allows b5 , not sure about this though. alternatively white just goes bxc4
+[21:26:24] qrs: (43 ... Nd5) doesnt matter now though, game took a different route
+[21:43:19] bjfletcher: i need to get better at seeing pins
+[21:47:52] jarolos: i sense some draw chances
+[21:48:38] qrs: After 57 ... Ne5 you mean?
+[21:50:24] jarolos: Ne5
+[21:50:24] qrs: Think white has got this
+[21:50:54] qrs: But yea, its not easy
+[21:54:26] qrs: I think the best attempt for white is to try and bring the king to g3 to achieve f4
+[21:54:56] qrs: if black tries to sit with the king the bishop should be able to take tempos from the knight
+[21:55:11] qrs: Or does someone see a better attempt?
+[21:55:57] jarolos: black king will go to e3 and f4 is impossible
+[21:56:12] jarolos: this is really bad bishop
+[21:57:28] jarolos: Nf4
+[21:57:58] jarolos: :-(
+[21:58:28] qrs: Ouch, fork allowed and missed
+[21:59:29] jarolos: this is too much for a captain; I quit  :-)
+[21:59:44] nirakuhakamura: (61...Ne5) o.O
+[22:02:00] qrs: White is going for it. And ye, would be a very unfortunate match for your team @jaralos
+[22:02:00] nirakuhakamura: (62.f4) white can still lose this
+[22:02:31] patk74: seems more like it
+[22:04:01] jarolos: Nf7 ?
+[22:04:47] patk74: White need sto protect to pawn at all cost
+[22:05:02] patk74: draw if not
+[22:06:03] jarolos: c4 and c3 check draw !!!
+[22:06:48] nirakuhakamura: (68...Kc4) nice save by black
+[22:06:48] patk74: yeah draw
+[22:07:49] qrs: GG
+[22:07:49] jarolos: gg
+[22:08:34] jarolos: Kd1 was a win; no c3 check
+[22:09:04] patk74: gg
