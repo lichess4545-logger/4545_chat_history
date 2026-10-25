@@ -1,0 +1,70 @@
+Lichess game chat log
+Game      : https://lichess.org/nROvY1Jk
+White     : qudit
+Black     : slowroast
+Time      : 45+45
+Captured  : 2026-10-25 23:02:47 UTC
+Game ended : 2026-10-25 21:42:34 UTC
+Messages  : 60
+────────────────────────────────────────────────────────────
+
+[20:23:31] selenedeafrodita: I like this structure for black
+[20:28:18] gavalanche20: Was 17. a4 weirdly
+[20:28:34] gavalanche20: a move fighting for the c4 or is that galaxy braining too much
+[20:29:34] selenedeafrodita: Sure, 17.a4 could have been a good move, punishing black's 15.a5
+[20:30:20] selenedeafrodita: Now black probably should play c4
+[20:30:35] gavalanche20: That plus I believe Black is thinking about c4 and Nc5 to activate the knight so that would have plugged that plan
+[21:08:59] inter-temporal: (22.f4) just saw this is a spanish. now i'm compelled to sit and watch
+[21:12:01] inter-temporal: (22.f4) i haven't seen much h3 anti-marshall
+[21:12:47] guitarspider: (22.f4) it transposed back into a Zaitsev
+[21:12:47] guitarspider: (22.f4) but then black went off the beaten path
+[21:13:17] guitarspider: (22...Qd8) there is an exd4 system, but the one I know black takes there later
+[21:13:32] inter-temporal: (22...Qd8) yeh, i see black decided on d6
+[21:13:32] guitarspider: (22...Qd8) 11...Re8 would just have been the standard Zaitsev
+[21:13:32] inter-temporal: (22...Qd8) smth odd though...
+[21:13:47] inter-temporal: (22...Qd8) is 10...exd4 normal?
+[21:13:47] guitarspider: (22...Qd8) no
+[21:14:18] guitarspider: (22...Qd8) black can do that, but usually one or two moves later
+[21:14:33] inter-temporal: (22...Qd8) yeh, this is oddly unfamiliar
+[21:15:18] inter-temporal: (22...Qd8) for a spanish
+[21:15:33] guitarspider: (22...Qd8) it's like a weird mash-up of Zaitsev and Chigorin
+[21:16:19] inter-temporal: (22...Qd8) looks kewl. sharp, imbalances... i like it.
+[21:18:05] guitarspider: (22...Qd8) probably better for white
+[21:18:35] guitarspider: (22...Qd8) the Nc6-b4-a6 maneuver was odd
+[21:18:50] guitarspider: (22...Qd8) and the Bb7 looks really bad
+[21:20:21] guitarspider: (23.a4) oh, nice move
+[21:20:21] guitarspider: (23.a4) add an unstable queenside to the list above :D
+[21:20:36] guitarspider: (23.a4) so probably much better for White
+[21:21:07] inter-temporal: (22...Qd8) hm
+[21:21:52] inter-temporal: (23.a4) white has a lot goin for them
+[21:22:07] inter-temporal: (23.a4) except K-safety, maybe
+[21:22:53] guitarspider: (23...bxa4) yeah, but it's hard to see enough black pieces getting over there to cause problems
+[21:23:53] inter-temporal: (23...bxa4) perhaps down the b-file
+[21:25:54] inter-temporal: (24.Rxa4) i'm studying files atm, so i can't see anything else. lol
+[21:30:57] guitarspider: (25...Ba6) Fair enough, but it feels like those files won't be enough
+[21:31:43] guitarspider: (26.Rc3) Rc1 is totally fine as well
+[21:31:58] guitarspider: (26.Rc3) and now this rook can go to the kingside and help an attack
+[21:32:13] guitarspider: (26.Rc3) scary stuff
+[21:32:28] inter-temporal: (26...Rb8) what else...
+[21:32:43] guitarspider: (26...Rb8) Nh5 now
+[21:32:58] selenedeafrodita: wow, Qd8 was a big blunder
+[21:33:14] guitarspider: (26...Rb8) Qg4 and Rg3 coming
+[21:33:29] inter-temporal: (26...Rb8) all the squares down the b-file are weak. gotta try smth
+[21:34:29] inter-temporal: (26...Rb8) that's what my chess books says
+[21:36:30] guitarspider: (27.Nf5) what does your chess book say about the g-file? :D
+[21:37:31] guitarspider: (27.Nf5) the reason I thought Nh5 was that it prevents Nf6
+[21:37:31] inter-temporal: (26...Rb8) i haven't made it that far. lol. not as far as white has
+[21:37:46] guitarspider: (27.Nf5) of course f5 is a better square overall
+[21:38:01] inter-temporal: (27.Nf5) it's sharp, but still seems to involve many choices
+[21:39:32] inter-temporal: (27.Nf5) see? even that was a possible move, among a gazillion
+[21:40:33] inter-temporal: (27...Rb4)  my prepend is glitchy
+[21:41:49] inter-temporal: (27...Rb4) oof
+[21:42:04] inter-temporal: (28.Nh6+) maybe there was only 1 or 2 moves
+[21:42:49] inter-temporal: 27...g6 was only move
+[21:43:04] guitarspider: gg
+[21:43:04] inter-temporal: 27...Nf6 was also inadequate
+[21:43:35] guitarspider: I guess this is a really good reason to play Nf5 instead of Nh5 :D
+[21:44:20] inter-temporal: SF didn't like 20...c4
+[21:46:06] inter-temporal: looks like it starts to turn with that initial 10...exd4
+[21:46:21] inter-temporal: and after ...c4, Bd4 is too much
+[21:47:07] inter-temporal: gg
