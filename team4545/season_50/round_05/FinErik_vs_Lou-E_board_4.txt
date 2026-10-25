@@ -1,0 +1,133 @@
+Lichess game chat log
+Game      : https://lichess.org/vbf2YOpG
+White     : finerik
+Black     : lou-e
+Time      : 45+45
+Captured  : 2026-10-25 14:12:10 UTC
+Game ended : 2026-10-25 12:51:58 UTC
+Messages  : 123
+────────────────────────────────────────────────────────────
+
+[11:00:38] lou-e: Hello teammates n spectators, gl to my opponent & let's go!
+[11:00:53] lou-e: So far, so expected. I hate playing against the Jobava tho
+[11:05:56] kamagayajiji: Had the same opening in R4, except my opponent played 5. Bd3 (5. Ne7 is the approved move)
+[11:06:42] kamagayajiji: *Ne2 (oops)
+[11:08:58] lou-e: Out of prep here, obvs. I wasn't expecting 6.a3
+[11:09:43] lou-e: I don't really want to play 7...a6 but it may just be the best practical option
+[11:09:59] lou-e: cap on d4 first methinks
+[11:10:14] pineapplechiffoncake: Heja FinErik!
+[11:10:14] kamagayajiji: Jobava-Caruana wijk an zee 2015 went 5... 0-0 6. a3 Bd6
+[11:10:59] lou-e: This improves White's DSB somewhat, but it also trades a wing pawn for a central pawn and I don't have to worry about dxc5 anymore
+[11:11:45] lou-e: Ok so a6 is a thought. Could also consider Bd7 here
+[11:12:00] lou-e: Bd7 isn't a move I often play in the London, but it might be more principled generally than a6
+[11:12:45] lou-e: Castling seems possible also
+[11:14:16] lou-e: Considering like Bd7, Nc6, Qb6 in some order
+[11:16:32] lou-e: Ok I don't think we're too worried about Nb5 here
+[11:19:19] lou-e: I think 10. Bb5 here would be an invitation for me to open the position up with e5
+[11:19:34] lou-e: Nb5 can be met with Bd7 I think
+[11:19:34] lou-e: Probably White's best shout is to castle
+[11:19:49] glbert: go lou-e!
+[11:20:04] lou-e: But then I get Qb6 in, which idk seems to give me a small initiative at least
+[11:20:35] lou-e: I had a similar position to this out of the Jobava in a tournament recently
+[11:24:52] lou-e: Two ideas spring to mind here...one is to use the fact that h5 isn't covered any more to play Nh5 and take away the bishy pair
+[11:25:07] lou-e: The other is to try to play for e5 anyway with Re8 (bc my bishop is sad)
+[11:25:53] lou-e: eh if Nh5 I guess there's nothing wrong with Be3
+[11:33:57] lou-e: Is 11...Nxd4 interesting, or is it just bad?
+[11:34:28] glbert: i think it's interesting.
+[11:34:43] glbert: which may mean that it is just bad.
+[11:34:58] lou-e: I kinda don't want to 'improve' the knight on e2 (by trading it), but I DO want to improve my bishop on c8 by playing e5
+[11:36:14] paulwithans: I think Nxd4 loses a pawn due to Nxd4 Nxd4 e5 Bxe5 Rxe5 Bxh7 Kxh7 Qxd4
+[11:38:00] lou-e: No I think it's just bad. But maybe Qb6 enables it
+[11:41:01] glbert: PaulWithAnS, i don't understand that line. is white taking their own N, or am i failing at visualising?
+[11:41:47] glbert: with Qxd4 i mean. looks to me like the last piece taking on d4 before that was a white N.
+[11:41:47] lou-e: And I can always bail out of the idea with like Ne5 or somesuch nonsense instead
+[11:43:03] lou-e: might throw in a cheeky a5 here
+[11:43:18] paulwithans: No you are not glbert. I am stupid
+[11:43:18] paulwithans: My mistake
+[11:43:48] paulwithans: I shouldn't suggest moves when I'm hungover
+[11:44:49] cham: what were you doing last night
+[11:46:35] paulwithans: Too much
+[11:46:50] lou-e: Ok are we going to go for this
+[11:48:51] lou-e: On Nxd4 or Be3 I think e5
+[11:49:06] lou-e: Bxe here makes sense I think
+[11:50:52] lou-e: Yeah ok so the thing that I didn't see from afar is that ofc White can capture the d4 pawn back
+[11:50:52] lou-e: So now I'm just a bit worse I think
+[11:51:22] glbert: paulwithans saw it, just in a weird way.
+[11:54:24] midnightokar: Does Bxf6, Qxf6, Qh5 wins the e pawn I think. Bxf6,gxB, Qh5 also seems to win a pawn.
+[11:58:12] naveengeorge: Sorry I'm late squad
+[11:58:42] naveengeorge: In time for a cheeky mate in 1 threat
+[11:58:42] lou-e: Let's try to provoke weaknesses and see what happens
+[12:01:13] naveengeorge: Is h4 g5?! too crazy
+[12:01:59] glbert: yes.
+[12:01:59] naveengeorge: Good. He should do it then
+[12:02:14] glbert: or maybe no?
+[12:02:44] naveengeorge: g5 come on!
+[12:02:59] lou-e: is g5 completely insane?
+[12:03:15] naveengeorge: lol
+[12:03:30] naveengeorge: do it!!!
+[12:04:00] lou-e: Ne5 is what I was planning (f5 opens the diagonal to my king so probably not good), but idk Bx Rx all looks a bit nothingy
+[12:05:01] lou-e: g5 Kg2 I guess, Rh1 to follow
+[12:06:16] naveengeorge: Don't let calculation get in the way of a good idea. Vibes based chess
+[12:07:17] lou-e: Hmm yeah, I don't like
+[12:08:02] mennonite: Go Lou-E!
+[12:08:18] guitarspider: Go Lou
+[12:08:18] cham: vibes based chess!
+[12:08:18] cham: also did i even say go lou-e
+[12:08:18] cham: go lou-e!
+[12:08:33] mennonite: huh, just caught up, this game is fun
+[12:09:33] naveengeorge: Is Re1 a thing here
+[12:11:04] guitarspider: Re1 Nf3+
+[12:11:19] guitarspider: Although that doesn't work
+[12:11:50] naveengeorge: Indeed
+[12:12:05] guitarspider: Maybe there is Bg4 and Nf3+
+[12:12:20] naveengeorge: Oh wow
+[12:12:35] mennonite: Bg4 was my first instinct but I think Be2 holds on
+[12:15:37] mennonite: now White is safe for the foreseeable future.
+[12:15:52] mennonite: did I spell that right?
+[12:16:07] lou-e: Too many trades here for my liking
+[12:17:08] lou-e: Can't avoid this one tho
+[12:18:23] lou-e: bishop got developed!!!!
+[12:18:23] guitarspider: (22...Be6) the isolate pawn will be a bit annoying for black
+[12:18:39] kamagayajiji: spellcheck says “yes”
+[12:23:26] guitarspider: (22...Be6) Rad1, Bf1-g2
+[12:24:57] nubro: A bit late to the party but go FinErik!
+[12:26:28] naveengeorge: don't like rc1
+[12:27:14] naveengeorge: queen has to guard the rook now
+[12:29:30] naveengeorge: hmm.....
+[12:29:45] naveengeorge: erik playing with fire
+[12:32:47] lou-e: This seems to help me
+[12:33:02] lou-e: If I can get the defence right
+[12:36:19] lou-e: Ah wait, I might be losing a pawn actually
+[12:36:19] lou-e: I thought f5 here
+[12:36:34] lou-e: but doesn't work I don't think
+[12:36:49] lou-e: I guess I can live with an idolated e-pawn instead? idk
+[12:38:35] lou-e: Ah no, still loses a pawn I think, Rc6 in the end
+[12:39:21] lou-e: b6 is a bad pawn to lose too
+[12:39:36] naveengeorge: Rc6 in the end looks tough, May have to play Rb8 because b6 cannot be lost really
+[12:41:22] lemuelgullible: Rb8 Rxe6 Q somwhere Re8+
+[12:41:52] naveengeorge: You prob need to get queens off beforehand with Qxe6?
+[12:42:22] naveengeorge: Yeah I think this is safer
+[12:43:38] naveengeorge: Damn, Rb8 just looks like an awful move to have to play
+[12:44:09] lou-e: Ok I lose the pawn either way, so should probably play for activity
+[12:44:39] naveengeorge: I agree with Louis I think, get the rook behind white's passed pawn maybe
+[12:45:24] mennonite: you all are more resilient than me, I would have just resigned
+[12:47:25] tactix47: Yeah, the Black rook is better placed here, still a playable game
+[12:48:26] naveengeorge: hmm not sure I would have defended from a6
+[12:49:57] naveengeorge: lol
+[12:50:12] lou-e: Looks like a draw now I think, unless I've missed something
+[12:51:28] naveengeorge: gg!
+[12:51:43] tactix47: gg
+[12:52:13] lou-e: Thanks for watching all, gg to my opponent
+[12:52:13] naveengeorge: Rd8 was an excellent decision
+[12:52:13] mennonite: yes
+[12:52:59] lou-e: Yeah I think Rb8 would be so hard to play, might just lose
+[12:53:29] naveengeorge: Rb8 and the white king just marches up. Can't see much of a defence
+[12:53:29] lou-e: Yeah indeed
+[12:54:14] lou-e: I'm not surprised that the pawn-down endgame after 30.Rxe6 is drawn too, although honestly I would probably have gone for that as White
+[12:55:00] naveengeorge: Yeah I mean rook endgames are drawish but always practical chances
+[12:55:30] naveengeorge: I was thinking maybe Rb8+ instead of Ra6. Keeps the rook a tad more active
+[12:55:45] lou-e: True, but the king gets off the back rank then
+[12:56:00] lou-e: Oh interesting, I got my prep lines mixed up which is why my position ended up being so crap in the opening
+[12:57:01] lou-e: Ah I see, 5...c5 was the move, but after 5. Bd3, not 5. Ne2. Let that be a lesson to me
+[12:57:31] naveengeorge: The king gets to f7 but I think moving the black king is a little difficult with Rb8 and the pawn on b7 because of checks and skewer ideas.
+[12:57:46] naveengeorge: I'm rubbish at rook endgames though so what do I know
