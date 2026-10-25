@@ -1,0 +1,57 @@
+Lichess game chat log
+Game      : https://lichess.org/twjVEHwz
+White     : computability
+Black     : r0b-w
+Time      : 45+45
+Captured  : 2026-10-25 17:30:07 UTC
+Game ended : 2026-10-25 16:09:55 UTC
+Messages  : 47
+────────────────────────────────────────────────────────────
+
+[13:58:52] r0b-w: (2.g3) Hi, Tactix47!
+[13:58:52] goldenretrieverchess: go r0b-w!!
+[13:59:07] r0b-w: (2.g3) Hi, GoldenRetrieverChess!
+[13:59:22] goldenretrieverchess: Hello :D
+[13:59:37] tactix47: Fun opening!
+[13:59:52] guitarspider: Go R0b
+[13:59:52] r0b-w: (3...Qxd5) Hi, guitarspider!
+[14:24:37] r0b-w: (14...Qd8) Hi, mongreltiger!
+[14:30:25] tactix47: (14...Qd8) Nxc6 to inflict pawn damage?
+[14:32:26] r0b-w: (16.Rc1) Hi, LloydRet!
+[14:43:03] alp_arslan92: go r0b!
+[14:44:34] r0b-w: (20...Re4) Hi, alp_arslan92!
+[14:47:20] r0b-w: (21.Rfe1) Hi, BLang316!
+[14:49:22] computability: I missed Rxd4......
+[14:49:37] computability: I only calculated Rxe1 and Bxf4
+[14:51:38] mongreltiger: Go R0b!
+[14:53:09] pineapplechiffoncake: Go R0b!
+[14:53:54] r0b-w: (22.Qe3) Hi, Pineapplechiffoncake!
+[14:56:10] computability: I have Rxc6 though, so I can win back the pawn at least
+[15:02:14] fork2020: Go R0B-W! Bring us closer to a match win!
+[15:02:29] r0b-w: (22...Rd3) Hi, fork2020!
+[15:24:43] computability: I dont know if this is good or not.
+[15:25:13] computability: I think after the trade black is in Zugzwang
+[15:26:44] computability: Maybe R0B can sprint to my a pawn
+[15:27:45] computability: (34. Rc4) No theres Rxc4 bxc4 d5 c5!
+[15:36:35] r0b-w: (37.g4) Hi, LemuelGullible!
+[15:45:25] r0b-w: (40...f6) Hi, Asturc0n!
+[15:54:46] computability: (42. Kd3) I should have played Kb3
+[16:00:04] computability: Im pretty sure its lost but I'll play it out
+[16:01:04] jdannan: Just Qxf7 ends things
+[16:01:35] computability: Trade queens on f8, take on c4, and push d and black wins
+[16:08:24] computability: Always play it out ferda
+[16:10:40] tactix47: gg
+[16:11:25] r0b-w: Endgames are hard!
+[16:12:56] computability: Very
+[16:12:56] computability: The engine liked f5 for me
+[16:13:42] computability: I was thinking you would eventually need f6 g6 and I could get a pawn brake
+[16:14:57] r0b-w: I spent an age looking at whether I could move my f or g pawn and couldn't see it working
+[16:14:57] r0b-w: but apparently I should have gone g5
+[16:16:13] r0b-w: ̄\(º_o)/ ̄
+[16:16:28] r0b-w: Good luck for the remaining rounds of the season! :-)
+[16:16:59] computability: You as well!
+[16:17:14] computability: My local stockfish has me at +16 after 38.f5
+[16:22:01] r0b-w: Wow!
+[16:22:47] computability: Now its mate in 31
+[16:23:17] r0b-w: Ah yes, looks like that would have forced me to move first
+[16:51:31] goldenretrieverchess: gg
