@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/PMeaEQz0
+White     : bncl
+Black     : sednomini
+Time      : 45+45
+Captured  : 2026-10-25 17:34:10 UTC
+Game ended : 2026-10-25 16:13:59 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[13:05:07] r0b-w: (3.e3) Go, SedNomini!
+[13:06:23] fork2020: Go SedNomini!
+[13:11:41] berndwind: Go sed!
+[13:11:56] berndwind: Hehe and go team with the representation
+[13:12:57] berndwind: This Bird stuff is tricky man
+[13:14:58] jose684: 7. e5 , isnt that dropping a pawn ?
+[13:17:14] jose684: 8. Qxc6 is forced if you don’t want to double your pawns
+[13:18:45] berndwind: Yeah I wasn’t too sure about e5. Interesting idea. But some problems are there
+[13:43:45] jose684: Black should try to open up g-file if possible, but then need some safeguarding for King too
+[13:46:17] jose684: 18. Rc5 and the double on the c-file ?
+[13:52:51] computability: Qc5 was excelent
+[13:53:06] computability: Go bncl!!
+[13:53:21] jose684: Another pawn drops and Knight is unprotected. Nc6 earlier was better.
+[14:42:35] alp_arslan92: Go SedNomini!
+[14:42:50] jose684: 29. Re1 , Black is having some difficulties and his major pieces are not coordinated well.
+[14:50:09] jose684: 30. ..Rd7 ?  can’t give the open file to the White rook I think
+[14:53:56] jose684: 32. Rc2 - Is there any thing better ?
+[15:04:03] jose684: I would have played 32...Ne4 with the idea of Nf2 check later
+[15:05:49] jose684: Too passive by White - last 2 moves (32 and 33)
+[15:07:50] jose684: 34. Ne1 will be sad move if White plays it
+[15:11:22] tactix47: (34...Nxg2) Does this allow Rxc7+?
+[15:16:10] jose684: 37. Black needs to double his rooks
+[15:17:56] jose684: 38. Is that free Rook as Nh2 is available
+[15:18:41] bncl: oh shoot that rook was free for the same reason wasn't it
+[15:19:27] bncl: I think opponent was missing that knight block
+[15:19:27] jose684: Yes it was :)
+[15:19:57] jose684: Now Black King needs a luft
+[15:20:58] jose684: Rh5 was rubbish. I would have doubled the rooks to protect the Knight
+[15:21:43] jose684: Now Black is lost I think
+[15:21:58] jose684: And g2 Knight falls
+[15:23:14] jose684: 40. Qf8+ check wins on the spot
+[15:25:45] alp_arslan92: Looks losing for Black
+[15:26:01] jose684: 40. Rf2 - this also works
+[15:27:16] alp_arslan92: Now Qf8+ should win a piece no?
+[15:27:31] jose684: Yes
+[15:27:31] tactix47: Yep
+[15:28:17] jose684: Not sure if White will miss under time pressure , but 2 minutes more than enough
+[15:28:32] alp_arslan92: Also good
+[15:29:02] jose684: Yes this may be even better
+[15:30:18] jose684: Black got few pawns
+[15:34:20] tactix47: (50...Rd5) Black King getting to the important part of the board quickly.
+[15:34:35] jose684: Black got some chance for draw I think
+[15:36:06] jose684: b3 pawn falling ?
+[15:41:24] jose684: Does Black want to trade the Rooks ? Probably not
+[15:42:40] jose684: 56. ..Rb4 he goes for Rook trade
+[15:43:41] jose684: vow , tables are turned now. White King far away from action.
+[15:45:12] jose684: 59. Has to be a King move
+[15:51:30] jose684: 62. Nd1 draw I think
+[15:56:03] jose684: Should be a draw now unless White blunders :)
+[15:57:19] jose684: White can take b6 and cpme
+[15:58:04] jose684: Ok taking b6 might have been bad
+[15:58:50] jdannan: I think it’s all ok either way
+[15:59:35] jdannan: Oh no!
+[15:59:50] jdannan: b5!
+[15:59:50] tactix47: 70...b5 zugzwang
+[16:00:05] jose684: Oops, spoke too soon
+[16:00:20] jose684: Taking b6 would have been losing too because of Kb5
+[16:01:21] jose684: I feel White gave away b3 pawn easily
+[16:01:51] jose684: White had draw at some stage I think , but he messed up
+[16:02:52] jose684: lol stalemate if Knight is captured
+[16:04:23] jdannan: Ok wow back to draw then
+[16:05:39] jdannan: Should have played Kb2 when they had the chance though surely
+[16:05:39] jose684: Kd2 and control c3
+[16:08:10] jose684: Jd,  you mean White playing Kb2 ?
+[16:08:25] jdannan: Yes but back a few moves now though.
+[16:08:55] jdannan: Anyway this is done now. Interesting endgame!
+[16:09:56] jose684: Yes, interesting one for sure.
+[16:12:43] tactix47: What an endgame!
+[16:14:14] jose684: GG guys
