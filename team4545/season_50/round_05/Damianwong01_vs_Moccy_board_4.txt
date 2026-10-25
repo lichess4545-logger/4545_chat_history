@@ -1,0 +1,46 @@
+Lichess game chat log
+Game      : https://lichess.org/ZTuUqcTf
+White     : damianwong01
+Black     : moccy
+Time      : 45+45
+Captured  : 2026-10-25 18:18:38 UTC
+Game ended : 2026-10-25 16:58:25 UTC
+Messages  : 36
+────────────────────────────────────────────────────────────
+
+[15:03:02] mongreltiger: Go Moccy!
+[15:04:33] le_merovingien: Go Moccha!
+[15:07:35] moccy: (6...a6) Hi @mongreltiger, and hi @Le_Merovingien :)
+[15:09:21] le_merovingien: We root for you. Let the crunch begin!
+[15:20:42] ironcladunicorn: Go Moccy!!
+[15:22:13] moccy: (14.Nxf3) Hi @IroncladUnicorn!
+[15:28:17] moccy: (14...Nc6) Hmm, maybe I should have played Nbd7 instead to avoid issues on the c file after a future Rc8.
+[15:31:03] moccy: (15.Nc3) Hi @mkubecek
+[15:48:28] moccy: (16...Nb4) I think I somewhat misplayed the opening again.
+[15:48:59] moccy: (16...Nb4) So I would not be too unhappy to exchange bishops after Ba3 Nd3
+[15:49:29] mkubecek: (16...Nb4) I was just thinking about the Nb4-d3 plan.
+[15:56:33] mkubecek: (17.Rec1) Unexpected...
+[15:58:49] mkubecek: (18.Rc2) Now Nxb2 Rxb2 Rd3 is with tempo?
+[16:05:23] moccy: (19...Rac8) I think my position has improved quite a bit.
+[16:05:53] moccy: (19...Rac8) Having the bishop is nice and White's rooks aren't coordinated well.
+[16:06:54] moccy: (19...Rac8) There are also quite some tactics that are dangerous for white.
+[16:10:11] le_merovingien: Mocha is ruling
+[16:16:30] le_merovingien: Hmmm.... Ba3 Rd2 Rxd2 Nxd2 Rc2 should have led somewhere, no?
+[16:37:12] mkubecek: (25...Rxc7) Shouldn't there have been Nd3 first?
+[16:38:43] mkubecek: (25...Rxc7) After Nd3 Rcc2 Bxd4 Rxc7 Rxc7 exd4 Rc1+ white would be still losing a piece.
+[16:39:44] le_merovingien: Yes. Sorry, missed Nd3. White would have lost a piece, right?
+[16:39:44] mkubecek: (25...Rxc7) I think so.
+[16:40:14] mkubecek: (25...Rxc7) Now it's probably a pawn, I guess.
+[16:40:44] mkubecek: (25...Rxc7) After exd4 black can capture a2 right away.
+[16:40:59] mkubecek: (25...Rxc7) Or trade rooks and go after d4.
+[16:42:00] mkubecek: (26.exd4) Forcing the rook trade is probably better than leaving them on the board.
+[16:45:02] mkubecek: (26...Rc1+)  OK, there is also Ne1 Nd3 Kf1 but then black king is going to capture d4 and be much better placed for the pawn endgame.
+[16:48:03] mkubecek: (28.Kf1) Nb4 Rd2 Nc2, otherwise Nd3
+[16:48:34] mkubecek: (28.Kf1) No, Nc2 does not work...
+[16:50:20] mkubecek: (29.Rd2) Rd2 Rb1 may be the best
+[16:58:25] moccy: Thanks for the game, that was an interesting one!
+[16:59:11] damianwong01: well played! thanks for that
+[16:59:56] moccy: Interesting to see that I wasn't worse at any point according to the engine. Felt differently
+[17:00:11] moccy: Not much, but I still had the feeling that I had to fight to stay in the game.
+[17:02:27] moccy: Thanks everyone for spectating and commenting. I'll look at your thoughts later.
+[17:08:15] mongreltiger: gg
