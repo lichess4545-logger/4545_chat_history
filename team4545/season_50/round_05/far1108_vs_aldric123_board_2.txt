@@ -1,0 +1,106 @@
+Lichess game chat log
+Game      : https://lichess.org/mixOLAii
+White     : far1108
+Black     : aldric123
+Time      : 45+45
+Captured  : 2026-10-25 21:05:19 UTC
+Game ended : 2026-10-25 19:45:18 UTC
+Messages  : 96
+────────────────────────────────────────────────────────────
+
+[17:06:52] aldric123: (11.Nb3) Ah it's bXVrc. I have chatted with you observing other games. I guess I forgot until now that you were that teams first board
+[17:06:52] aldric123: (11.Nb3) Greetings
+[17:22:01] kyriakos1301: Let's go, Aldric and Far, I am conflicted for this one :)
+[17:25:02] aldric123: (16...Ba4) Hey Kyriakos
+[17:25:18] aldric123: (16...Ba4) No way am I gonna have as impressive a game as you.
+[17:25:33] aldric123: (16...Ba4) This doesn't scream crazy attacking like your game did.
+[17:26:34] aldric123: (16...Ba4) I was (I think) in book through move 14) Making up the rest now.
+[17:26:49] aldric123: (16...Ba4) I don't think I was expecting 15.e3
+[17:27:34] aldric123: (16...Ba4) I'm now expecting Rdc1 Rfc8
+[17:27:50] aldric123: (16...Ba4) And I assume it's roughly equal, but who knows for sure
+[17:34:23] aldric123: (17.Rdb1) Hmm I assumed b6 here, but I better think a sec
+[17:35:39] aldric123: (17.Rdb1) Hmm I wonder if b6 Bxd5 exd5 Bb4 is irritating or not
+[17:38:56] aldric123: (17...b6) Regardless I don't see anything better
+[17:39:11] aldric123: (17...b6) And most people who play this type of opening like their LSB a lot.
+[17:39:11] aldric123: (17...b6) We'll see.
+[17:39:41] aldric123: (17...b6) But the line I said does give an amazing knight vs a mediocre bishop, which is a bit concerning
+[17:41:58] aldric123: (17...b6) Hey gpetris,wassup
+[17:43:14] aldric123: (18.a3) So he wants something similar without giving up his bishop
+[17:43:44] aldric123: (18.a3) Hmm Bc2 or Rac8 seem in order
+[17:44:30] aldric123: (18.a3) Probably not Bc2. I was thinking Bc2 Rbc1 Be4, but f3 looks ugly
+[17:45:00] inter-temporal: (18.a3) go far!  in chess and life
+[17:47:32] aldric123: (18...Rac8) If Bb4 I don't think I want to take. Might play Rfe8
+[17:52:50] aldric123: (19.Rc1) thinking about just improving Bd6 though then maybe Bb4 is hard to deal with
+[17:53:20] aldric123: (19.Rc1) Though I guess you win a pawn but give away c file
+[17:55:52] aldric123: (19...Bd6) Hmm the line I was thinking against Bb4 doesn't work
+[17:56:38] aldric123: (19...Bd6) Bb4 Rxc1+ Rxc1 Nxb4 axb4 Bxb4 Rc4 though I guess a5 might hold it all for now
+[17:57:08] aldric123: (19...Bd6) he looks way more active for the pawn though
+[17:57:23] aldric123: (19...Bd6) He probably won't play Bb4 anyway
+[17:57:39] aldric123: (19...Bd6) If Nc4 probably Bb8
+[17:57:54] aldric123: (19...Bd6) Or back to Be7 we'll see if he does it
+[17:59:25] aldric123: (19...Bd6) there's also the unlikely (because he didn't do it earlier) Bxd5 exd5 Bb4
+[17:59:40] aldric123: (19...Bd6) with the rooks staring vs each other on the c file hmm
+[18:00:41] bxvrc2lh: greetings aldric but good luck far
+[18:01:11] aldric123: (19...Bd6) Hey Simon, and a past foe NameGoesInHere
+[18:01:26] simonwashere: Hello :)
+[18:02:12] aldric123: (20.Nc4) Ok. I do have to decide now between Be7 and Bb8
+[18:03:12] aldric123: (20.Nc4) The only real point for Bb8 is the option to take the knight if it goes back to e5
+[18:03:27] aldric123: (20.Nc4) But the f8-a3 diag seems better
+[18:04:28] aldric123: (21.Ne5) Wonder if it's effectively a draw offer or if he is just testing
+[18:04:58] bxvrc2lh: black are better imo... so I would assume it's draw attempt from white
+[18:05:13] aldric123: (21...Rfd8) Regardless we'll try this
+[18:05:59] aldric123: (21...Rfd8) At least now the rook won't be on f8 if the stupid bishop ever does to to b4
+[18:06:14] bxvrc2lh: Nc3 and Nb4 for white... not sure how to improve position
+[18:06:29] aldric123: (21...Rfd8) and worse case in some lines the LSB could go to e8 and not piss off the rooks
+[18:06:44] bxvrc2lh: or perhaps exchange both rooks and take on d5
+[18:07:30] aldric123: (21...Rfd8) Hey NLance. Oh he disappeared as I was typing it
+[18:10:16] aldric123: (22.Nd3) Bc2 comes to mind
+[18:10:16] aldric123: (22.Nd3) though then I suppose Nb4
+[18:10:47] aldric123: (22.Nd3) If b6 wouldn't be horribly weak a5 is almost temping
+[18:12:03] aldric123: (22.Nd3) I suppose I should calculate Rxc1+
+[18:12:33] bxvrc2lh: yeah Rxc1, Rxc1-Bxa3, but I think Rc7 in that line is too strong
+[18:12:49] bxvrc2lh: I mean Bxd5 and Rc7 not directly
+[18:16:51] aldric123: (22.Nd3) I can't see anything great so I think I'll bring the king up
+[18:18:53] aldric123: (22...Kf7) If the knight comes back to his home on e5 I assume Ke78
+[18:19:38] bxvrc2lh: I think smth will go to b4... knight or bishop
+[18:23:40] aldric123: (23.Nb4) tricky tricky
+[18:25:57] aldric123: (23.Nb4) I don't think I want to take on b4 or let him take on d5 so I'm thinking Nf6 atm
+[18:26:12] bxvrc2lh: Nf6-Nc6
+[18:27:58] aldric123: (24.Nc6) seems like I have to do Bxc6
+[18:30:29] aldric123: (26...Rc8) At least I get an active rook in payment for losing the bishop pair with the liquidation
+[18:31:45] bxvrc2lh: Nd5 to block b4 square
+[18:38:04] aldric123: (28...Nd5) e4 maybe looks most interesting for white I think
+[18:38:04] aldric123: (28...Nd5) but it's hard to fully calc
+[18:39:20] aldric123: (29...exd5) I think I like this now. I feel I'll be slightly pressing though I quite imagine it's a total draw with perfect play
+[18:40:05] bxvrc2lh: the question is whether to keep the bishops for black
+[18:41:06] bxvrc2lh: yeah I would definately played Bd8 or smth
+[18:44:23] aldric123: (32...h5) I should more fully calc stuff but I'm getting a bit tired
+[18:45:23] aldric123: (32...h5) g4 is a positional threat, since he'll have to go be caged in g2 I think
+[18:45:23] aldric123: (32...h5) Though maybe the open h file could help him
+[18:45:39] aldric123: (32...h5) yeah it probably would
+[18:46:24] aldric123: (32...h5) at least he doesn't have many moves that aren't Kg2
+[18:47:10] aldric123: (32...h5) I mean he can trade the bishops but I dunno why he would without getting something from it
+[18:48:10] bxvrc2lh: simple Bc8, a5 and push queen side for black... not sure what they can achive on king side without helping white
+[18:48:40] aldric123: (33...Bd6) slight improvement so if he trades I'm higher on the board blah blah
+[18:49:11] aldric123: (33...Bd6) I also might be able to play a5 next since Bxd6 Kxd6 the K is close enough to protect b6
+[18:49:41] aldric123: (34.Kf1) yep
+[18:51:12] bxvrc2lh: hmmmm Bxd6 and it looks lost for white
+[18:51:43] aldric123: (36...g4) That's to keep the pawn on f2
+[18:53:44] aldric123: (37...hxg4) Hard to see how he stops Kc6 and b5
+[18:54:00] aldric123: (37...hxg4) maybe b5 first actually
+[18:54:45] aldric123: (37...hxg4) Greetings Monocarp
+[18:55:00] monocarp: hello :)
+[18:56:01] aldric123: (39.Kg2) Ok. I can't take forever or Rh1 and invasion might get annoying
+[18:56:46] aldric123: (39...Rc3) I think that ties him down
+[18:56:46] aldric123: (39...Rc3) hopefully it does!
+[18:59:03] aldric123: (42.Ke2) ok think I'm finally ready to play b4
+[19:03:05] aldric123: (44...Rc8) I wish his K was still on g2 :(
+[19:22:02] aldric123: (55.Rxf5) Man I'm tired, I hope I haven't screwed this up
+[19:24:04] aldric123: (55...Rxg3) The lines I thought I were going for didn't seem to work
+[19:24:04] aldric123: (55...Rxg3) sigh
+[19:24:34] aldric123: (55...Rxg3) At least my pawns are closer to promotion but I had much better ways to finish this earlier if my mind still worked at peak
+[19:30:08] aldric123: (60.d7) let's hope queening with check and a pawn on f3 matter
+[19:45:03] simonwashere: gg
+[19:45:03] ritwinsathish: ggs
+[19:45:03] gpetris: Good game!
+[19:45:33] kyriakos1301: GG
