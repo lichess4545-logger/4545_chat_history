@@ -1,0 +1,127 @@
+Lichess game chat log
+Game      : https://lichess.org/HBovACMW
+White     : jwwells42
+Black     : nestor3690
+Time      : 45+45
+Captured  : 2026-10-25 17:28:07 UTC
+Game ended : 2026-10-25 16:07:54 UTC
+Messages  : 117
+────────────────────────────────────────────────────────────
+
+[14:01:39] finerik: Go Nestor!
+[14:01:39] jwwells42: probably dangerous for me to go into this since i think it's the only thing i have in the db vs 3..c5. but i still like it
+[14:01:55] jwwells42: started playing it bc an opening book i read during the pandemic said it didnt work xD
+[14:02:25] jwwells42: i have already forgotten book tho so. gonna sit and think about life
+[14:04:26] jwwells42: funny exp with memory playing these games. i think i might actually remember a line fairly deep here. but i could also not be doing that
+[14:05:11] glbert: go jwwells42!
+[14:05:57] jwwells42: i definitely analyzed this or something that looks a lot like it
+[14:06:12] glbert: oooh, that's an interesting line.
+[14:06:57] jwwells42: what i'm rembering is Nc7 Kd8 Nxa8 and where they put the bishop matters
+[14:07:28] jwwells42: if they go [memory missing] then it's ok but if [gaiuhwuej] i have an advantage
+[14:08:13] glbert: yes yes, that sounds familiar.
+[14:08:43] jwwells42: and there are a lot of pawn sacs with e5-e6 in this mess. so maybe there is a Bf4 with that involved to get the horse out
+[14:09:44] jwwells42: i assume from the playing-instantly that they are in book and Bc2 is correct
+[14:10:14] glbert: it agrees with the master db at least.
+[14:11:00] jwwells42: Kd7 discourages the e6 pawnsac (maybe)
+[14:13:47] tactix47: Go jwwells!
+[14:14:17] cham: weee go wells
+[14:15:48] jwwells42: whatever the move here it is 1) something i have had on an analysis board, 2) something i accepted as findable, and 3) completely
+[14:16:03] jwwells42: invisible to me atm
+[14:19:05] jwwells42: trying to work out if the horse escapes without the pawnsac
+[14:19:20] jwwells42: and trying not to blunder smthn like Bf4 e6 Rc1 d3 Kd2 Bb4+
+[14:21:51] tactix47: (10...Bc2) The crowd wants 11.e6!  :)
+[14:22:37] glbert: looking at the main line in the master db, i would not consider it findable, personally.
+[14:32:12] jwwells42: no clue if i'm on the right track, but you can see some of the appeal of the line, even if
+[14:32:12] jwwells42: i should stop playing it
+[14:32:27] glbert: i like the line, will definitely play it as well.
+[14:32:43] jwwells42: Bf8 slow to develop, big mess when often 3..c5 players want to avoid sharpness. but ofc lot of risk
+[14:32:43] tactix47: The crowd is happy, this looks great for White.
+[14:34:44] jwwells42: i feel like this is the expected position when you preload fxe6 if you're on your own so maybe this is the end of their book
+[14:34:59] glbert: yeah, i am less sure if i would want to play this against a prepared player.
+[14:35:14] glbert: tbf, even against a prepared player it looks like it should be fine.
+[14:35:44] glbert: just being down half an hour on the clock is usually not what i like.
+[14:41:18] jwwells42: 14.Bb8
+[14:41:48] jwwells42: it doesnt work but funny to think about
+[14:50:23] glbert: creative. this is out of the lichess db.
+[14:50:23] glbert: 14.Be5, to be clear.
+[14:53:09] tactix47: Hmmm, 14...Ng4 15.Bxd4 Kc8 16.Bxc6 bxc6 and I don't think the Na8 escapes.  ...Ng4 Bg3 or similar, then?
+[14:56:26] chraki: let's go wellsssssss
+[14:57:27] tactix47: (14...d3) 15.f3 to keep the Nf6 out of e4 and g4?
+[14:58:28] cham: the time discrepancy tho
+[15:00:14] chraki: that's a reverse cham
+[15:00:59] glbert: reverse cham for the win
+[15:02:45] jwwells42: Nd5 and i am still not getting out
+[15:03:31] naveengeorge: damn
+[15:03:46] naveengeorge: what did I enter into lol
+[15:17:24] jwwells42: starting to look resignable tbh
+[15:17:39] naveengeorge: it's not looking good bruv :(
+[15:22:27] glbert: resignable is a strong word.
+[15:26:14] naveengeorge: just g5 I think
+[15:27:15] naveengeorge: I assume black missed that
+[15:28:15] naveengeorge: Now it's less resignable
+[15:32:33] nubro: Go Nestor3690!
+[15:34:19] jwwells42: was just calculating Nb4+ Kc2. was a good line at the end
+[15:45:41] naveengeorge: Draw?!
+[15:46:57] glbert: yeah, ok, i accept.
+[15:47:12] naveengeorge: b4 may be interesting
+[15:53:00] jwwells42: i dont think Rc8 necessarily threatens anything, but they responded to it last time... drow??
+[15:53:15] naveengeorge: draw?!?!
+[15:53:15] naveengeorge: Sorry Drow*?!?!
+[15:53:30] jwwells42: or even better it does threaten something whic hthey've seen, and i will see one day
+[15:57:03] jwwells42: Nd7 now to target weakness of last move
+[15:58:03] naveengeorge: Mysterious Kd7
+[16:05:38] jwwells42: trapped
+[16:05:38] naveengeorge: oof
+[16:05:53] naveengeorge: well played black
+[16:07:39] glbert: good game.
+[16:07:39] naveengeorge: gg
+[16:07:39] jwwells42: can get a bathroom break at least
+[16:07:39] finerik: gg
+[16:07:39] chraki: gg
+[16:07:54] jwwells42: gg
+[16:08:09] nestor3690: GG!
+[16:08:09] tactix47: gg
+[16:08:39] jwwells42: fantastic preparation, i was basically lost from the point we started playing each other
+[16:08:55] nestor3690: I was a bit lucky here, I read about this line yesterday, didn't expected to play it at all
+[16:09:10] jwwells42: wowww where? i have never seen it covered, is part of why i picked it up
+[16:09:40] jwwells42: i had looked at Bc2 but not deep enough to see the critical idea, 11.Bd2 Nc6 12.Rc1 d3 13.h4! e6 14.Rh3 the compy shows
+[16:10:10] nestor3690: Some Botvinnik-Carls article probably, I thought c4 was a funny move so took a bit of time to look at it
+[16:10:25] jwwells42: i thought for sure you had prepped from my db
+[16:10:40] jwwells42: very impressive to go that deep on such a thing & remember it lol
+[16:10:56] jwwells42: i had this in my file for you last night and didn't get as far
+[16:11:11] nestor3690: 11.e6+ was the first unexpected move but I thought it would be funny to play such a position
+[16:11:26] jwwells42: e6+ is a standard motif in these c4 lines
+[16:11:56] nestor3690: I think it is even more difficult than the "main" move, after that my kingside is terrible
+[16:11:56] jwwells42: it's part of why you play Bc2
+[16:12:56] jwwells42: well the main move i get my pieces out also, which i failed to do here. no point having temporarily entombed your rook when i dont activate
+[16:12:56] jwwells42: my own
+[16:15:13] nestor3690: I think after taking the knight back on a8 I din't play very well the next moves
+[16:15:43] jwwells42: in what way, everything seemed quite direct and effective
+[16:16:44] nestor3690: I wasn't very happy that I was playing a bit too much on autopilot, a6 might make sense, but Rg8 is just useless
+[16:17:44] jwwells42: oh. Rg8 was the main move i was calculating for you
+[16:17:44] jwwells42: what do you wish you had played?
+[16:18:30] nestor3690: I would probably just play Nxe5+ directly without losing time on Rg8, then Bg7 Rc8
+[16:20:00] nestor3690: This variation is so dangerous for Black, like if I don't know the theory I would be in time trouble too
+[16:20:00] jwwells42: how are you enabling Nxe5+ because currently it's illegal
+[16:20:15] jwwells42: and if a6 i'm getting out
+[16:20:31] nestor3690: I was talking about 22.Rg8, sorry
+[16:21:16] jwwells42: ahhh ok
+[16:21:46] jwwells42: yeah that makes sense
+[16:22:01] jwwells42: it is all completely winning by that point tho
+[16:24:02] jwwells42: interesting that 15.Nc7 works, I didn't think it did for some reason
+[16:24:33] jwwells42: ohhh e6-e5 gives the d5 square rip
+[16:25:03] nestor3690: Yeah I was expecting Nc7 on move 15, I was relieved seeing f3
+[16:25:33] jwwells42: Nc7 Ng4 Bg3 e5 i thought worked, i also thought Nc7 Ne4 worked fo ryou
+[16:26:03] jwwells42: because if f3 you're queening but i get enough material back
+[16:26:03] nestor3690: Was ready to play 15...Nd5 but looked at Ne8 too, thought it was an interesting move, but looked too passive
+[16:26:49] nestor3690: I don't knoew if I would have played Ng4 or Ne4, both looked great, would probably have preferred Ne4
+[16:28:04] nestor3690: Before f3 I really thought you would manage to save your knight
+[16:29:05] jwwells42: yeah there's a ton that you have to calc correctly to play Nc7 though
+[16:29:35] nestor3690: Yesterday I thought this line was "funny" now I will consider twice before playing it again!
+[16:29:50] jwwells42: Nc7 Ne4 f3! d2+ Ke2 is hard to cull through
+[16:30:05] jwwells42: yeah i'd love to see the writeup if you come back across it, may impact if i keep this line myself
+[16:30:20] nestor3690: So much to calculate for both sides, Black might have less calculation to do, but need to develop the kingside
+[16:31:06] nestor3690: I'll look at that later and send you if I find it!
+[16:31:21] jwwells42: ty
+[16:31:21] jwwells42: gg and gl to you in the rest!
+[16:31:51] nestor3690: Thanks, you too!
