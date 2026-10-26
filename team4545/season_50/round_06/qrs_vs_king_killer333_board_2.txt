@@ -1,0 +1,51 @@
+Lichess game chat log
+Game      : https://lichess.org/UXLtGbcO
+White     : qrs
+Black     : king_killer333
+Time      : 45+45
+Captured  : 2026-10-26 23:18:02 UTC
+Game ended : 2026-10-26 21:57:51 UTC
+Messages  : 41
+────────────────────────────────────────────────────────────
+
+[20:01:56] angborxley: (4...Bb4) go qrs!
+[20:02:27] angborxley: (4...Bb4) battle of the crowns
+[20:12:18] qrs: (9 g4) commital decision but I think it’s what the position is “asking for”. Will have to review this moment
+[20:54:28] qrs: 13 h4 just not working due to f6 Qe7
+[20:56:14] qrs: (13 Be2) h4 cxd3 h5 f6 hxg6 Qe7 and where is the win :/ h7+ Kh8 and o can’t bring more pieces?!
+[20:56:44] qrs: need to speed up now, h4 h5 still looks decent and he has not disentangled
+[20:58:30] qrs: just can’t get the queen let get trapped :)
+[20:58:30] nyanners: white may be winning
+[20:58:30] nyanners: either that or theres trapped q
+[21:07:51] qrs: (14 h4) Qxb2 Kd2 threatening Rhb1
+[21:09:22] qrs: (14 h4) Ng7 Lg4
+[21:27:33] nyanners: allowing Qxb2 is as cool as it is unnecessary
+[21:28:03] nyanners: is white in trouble????
+[21:28:03] nyanners: maybe its not even cool
+[21:29:19] nyanners: exd4 Rd8 seems like trouble but maybe Ne4
+[21:30:35] nyanners: but yeah i see no good reason to not just have played e.g. 14 or 16 O-O-O
+[21:36:38] jarolos: Rxd4!
+[21:37:09] qrs: (20 Ne2) fk, this one might be over
+[21:37:24] qrs: Rx Nx Qx lsb drops queen is lost
+[21:38:09] qrs: thank god
+[21:41:57] nyanners: just regular lost now instead of completely lost :o
+[21:54:34] acebulf: Qg2 Ke3 Qe4#
+[21:56:05] inter-temporal: just Kf6. why not
+[21:56:20] acebulf: Kf6 (...) Qg7
+[21:56:20] acebulf: #
+[21:56:35] inter-temporal: Kf6 Qxd4+, resign
+[21:56:50] inter-temporal: kewl looking position
+[21:57:51] acebulf: ggs
+[21:58:06] inter-temporal: gg
+[21:58:21] qrs: thanks for watching. Lots to learn today
+[21:58:52] inter-temporal: wow. great attack out of the opening for white
+[21:59:22] kamagayajiji: 30... Qg4 31. Kh2 Qg2# was more efficient...
+[21:59:37] kamagayajiji: gg
+[22:00:07] kamagayajiji: Perhaps he wanted the long king walk?
+[22:01:08] nyanners: gg
+[22:02:54] king_killer333: Thanks everzone
+[22:03:39] inter-temporal: SF doesn't tolerate 16.Be5 though. it wants pawns or castle long
+[22:04:40] inter-temporal: and move 19 is critical, but not natural
+[22:05:10] inter-temporal: actually, impossible line there
+[22:05:40] inter-temporal: (for my tiny brain)
+[22:13:44] nyanners: white shouldnt go there
