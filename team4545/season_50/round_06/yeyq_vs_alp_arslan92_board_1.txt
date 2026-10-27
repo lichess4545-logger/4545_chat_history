@@ -1,0 +1,93 @@
+Lichess game chat log
+Game      : https://lichess.org/Vp29utqk
+White     : yeyq
+Black     : alp_arslan92
+Time      : 45+45
+Captured  : 2026-10-27 23:46:17 UTC
+Game ended : 2026-10-27 22:26:08 UTC
+Messages  : 83
+────────────────────────────────────────────────────────────
+
+[20:04:42] fork2020: Go alp_arslan92!
+[20:07:45] r0b-w: Go, alp_arslan92!
+[20:12:34] pineapplechiffoncake: go alp!
+[20:13:49] inter-temporal: (7) alp skipped streaming?
+[20:15:05] inter-temporal: (8) holy transposition batman
+[20:15:51] inter-temporal: (9) from a symmetric english? is this common?
+[20:16:36] inter-temporal: (10) kinda interested to know if Alp wanted a Maróczy bind
+[20:18:37] ysgwydd: (10...a6) I don't think Alp has streamed any of his games this season
+[20:18:52] inter-temporal: (11) hm. he's done nice recaps
+[20:18:52] ysgwydd: (11.Rc1) This transposition isn't that rare I would guess
+[20:19:08] ysgwydd: (11.Rc1) Yeah the recaps are great
+[20:20:54] inter-temporal: looks like Black should move the Q's R or trade on d4 (per book)
+[20:23:55] asturc0n: Go alp!
+[20:24:26] alp_arslan92: (12.Nb3) Kind of improvising here
+[20:24:41] alp_arslan92: (12.Nb3) Not an Accelerated Dragon player, but I was also not keen to walk into some prep
+[20:25:42] inter-temporal: (12) so he did it on purpose
+[20:25:57] tactix47: Good luck yeyq!
+[20:26:27] ysgwydd: (12.Nb3) Not walking into prep but walking into an unfamiliar position?
+[20:26:42] ysgwydd: (12.Nb3) I'm sure Alp has seen this before though
+[20:27:28] matthewkcanada: Go Alp!
+[20:29:59] alp_arslan92: (12...b5) I think this works
+[20:30:14] inter-temporal: 12.nb3n
+[20:30:29] alp_arslan92: (12...b5) 13.cxb5 axb5 14.Nxb5 Nxe4 15.Bf3 Rxb5
+[20:30:45] alp_arslan92: (12...b5) 13.cxb5 axb5 14.Bxb5 Nxe4 and if 15.Nxe4 then again Rxb5. If 15.Bxc6 Bxc6 my Bc6 protects the Ne4.
+[20:31:00] alp_arslan92: (12...b5) If 13.c5 I thought b4 and grab e4.
+[20:31:15] alp_arslan92: (12...b5) If he doesn't grab b5, I will most likely push b4 quickly anyway.
+[20:31:30] inter-temporal: 12.b3 is what the book wanted
+[20:35:02] osumarko: Go yeyq!
+[20:38:04] alp_arslan92: (14...Nxe4) Usually these positions with two central pawns vs. two connected passers on the q-side are better for Black.
+[20:38:19] alp_arslan92: (14...Nxe4) If no tactic exists here, I should do quite well.
+[20:38:19] alp_arslan92: (14...Nxe4) 15.Qd5 Nf6 simply.
+[20:38:34] alp_arslan92: (14...Nxe4) 15.Bf3 Rxb5 at least as elaborated.
+[20:38:49] alp_arslan92: (14...Nxe4) I like 15.N5d4.
+[20:39:05] alp_arslan92: (14...Nxe4) Block the long diagonal and threaten the Nc6.
+[20:39:35] alp_arslan92: (14...Nxe4) Maybe 15.N5d4 Nxd4 16.Bxd4 e5?
+[20:45:08] inter-temporal: (16) arent White Bs positioned to escort the Ps down the Q-side?
+[21:07:36] mrscribbles: Just checking in now. What is this. 17
+[21:08:07] mrscribbles: A benko where white blundered several pawns?
+[21:09:07] mrscribbles: No. Both sides are just a little nasty i see
+[21:09:07] alp_arslan92: (17...Rb7) Yeah difficult to find a useful move here tbh
+[21:09:38] alp_arslan92: (17...Rb7) I thought 17...Qc8, but then 18.Na7 is ugly.
+[21:09:38] alp_arslan92: (17...Rb7) Idea of Rb7 is to go for Qa8.
+[21:09:53] alp_arslan92: (17...Rb7) 18.Rxc6 Bc6 19.Na5 I think I have 19...Qd7
+[21:10:08] alp_arslan92: (17...Rb7) Maybe also Qb8 is an idea
+[21:10:38] alp_arslan92: (17...Rb7) I was thinking 17...Ne5 but then simply 18.Nc7 Rf8 19.f4 Nc6 20.Nb5 and I gained no ground.
+[21:11:08] alp_arslan92: (17...Rb7) Dislike how much time I spent here, but I really had a lack of ideas.
+[21:11:08] alp_arslan92: (17...Rb7) 17...Nh5, but what's even the idea
+[21:11:39] alp_arslan92: (17...Rb7) 17...Na5 looks funny, but 18.Nbd4 and then my Na5 looks very stupid.
+[21:11:54] alp_arslan92: (17...Rb7) 18.Bf3 I have Rxb5, so that should be fine.
+[21:12:09] alp_arslan92: (17...Rb7) 18.a4 Qa8 19.Bf3 I should have Qxa4
+[21:12:24] alp_arslan92: (17...Rb7) Should try not to fall too far behind in time.
+[21:12:54] alp_arslan92: (17...Rb7) I suppose White is better after all, but unsure how much. I don't see a clear way forward.
+[21:13:10] alp_arslan92: (17...Rb7) Maybe slowly set the queenside in motion, e.g. 18.a4 Qa8 19.Ra1
+[21:13:25] alp_arslan92: (17...Rb7) I want to play d5+e5, but d5 runs into Nc5
+[21:13:40] alp_arslan92: (17...Rb7) Maybe 18.a4 there is actually 18...Be6
+[21:13:55] alp_arslan92: (17...Rb7) Unsure, difficult position
+[21:43:58] super0jins: Go yeyq
+[22:00:23] inter-temporal: (26) "Always attack a Q"--Capablanca
+[22:12:45] osumarko: This game still going?
+[22:19:19] berndwind: Go alp!
+[22:26:08] r0b-w: gg
+[22:26:23] alp_arslan92: Phew
+[22:26:23] alp_arslan92: Mad dragon lol
+[22:26:53] osumarko: gg to both
+[22:27:38] ysgwydd: gg
+[22:28:09] alp_arslan92: my Rb7 Qb8 stuff felt so fishy, seems for a good reason lol
+[22:30:40] inter-temporal: looks like the play in the center stopped the Q-side pawns
+[22:31:40] alp_arslan92: Eventually they did, yeah. 16...Nb4 is such a nice resource, too, didn't even think about that
+[22:32:11] inter-temporal: that's kewl
+[22:32:26] inter-temporal: 22.Bd4 gave black some moves to turn everything
+[22:32:26] super0jins: 23 Ba7 looked interesting during the game, but I didn't dare to suggest it in the chat. Engine gives 0.0 and crazy stuff
+[22:32:41] alp_arslan92: For sure, inviting e5 was the downfall of White's otherwise great previous play imo
+[22:33:11] alp_arslan92: Yeah Ba7 always felt like an interesting sacrifice, simply to mobilize those pawns.
+[22:33:26] alp_arslan92: In the game that Nb5 was so annoying for White
+[22:34:57] inter-temporal: at 24, SF says just double Rs on the c-file? is that hard to find
+[22:35:42] alp_arslan92: Didn't really cross my mind.
+[22:36:13] alp_arslan92: But must be better than Qc2, that's just too loose
+[22:36:43] inter-temporal: doubling Rs there almost seems like two different plans for white. maybe they go together sometimes
+[22:37:13] inter-temporal: practically, it just trades Rs
+[22:37:13] alp_arslan92: I like the idea, White needs some coordination. 26.Bg4 yet another nice resource, didn't think about that one
+[22:37:43] alp_arslan92: And yeah, I think swapping a pair of rook must benefit White
+[22:39:14] alp_arslan92: Well, I'll catch some sleep lads. Have a good one y'all!
+[22:39:29] inter-temporal: gg
