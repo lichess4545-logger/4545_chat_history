@@ -1,0 +1,151 @@
+Lichess game chat log
+Game      : https://lichess.org/obDqVS1o
+White     : lou-e
+Black     : moccy
+Time      : 45+45
+Captured  : 2026-10-27 21:11:18 UTC
+Game ended : 2026-10-27 19:51:17 UTC
+Messages  : 141
+────────────────────────────────────────────────────────────
+
+[18:05:08] lou-e: Hello teammates & spectators, gl to my opponent, let's gooooo
+[18:05:08] guitarspider: (1.e4) go Lou-E
+[18:05:38] timothyha: (3.Nc3) go @Moccy
+[18:05:54] gavalanche20: Gl Lou
+[18:06:09] moccy: (3...Qd6) Hi @TimothyHa!
+[18:06:54] timothyha: (5.Nf3) oh the Qd6 stuff is fun
+[18:09:26] lou-e: Don't really know what I'm doing in this line
+[18:09:56] lou-e: 6. h3 is tempting, to gambit the pawn, aiming to follow up with Be3 and Bc4 after Bxf3 Qxf3 Qxd4
+[18:10:11] lou-e: But again, since I don't know what I'm doing I prob won't try that, could just be bad
+[18:13:43] lou-e: Hang on...can I win a pawn here?
+[18:13:43] lou-e: 7. Bxf7+
+[18:14:29] lou-e: Have to be very careful, the Q has checks
+[18:14:44] gavalanche20: Bf7 Kf7 Ne5 Qe5 I thought
+[18:14:59] lou-e: Well, a check, on e6. But then Ne3 right?
+[18:16:15] timothyha: (8.Ne5+) Black wins a piece
+[18:16:45] timothyha: (8.Ne5+) Qxe5 is also a check
+[18:17:00] mongreltiger: Go Moccy!
+[18:17:00] moccy: (8.Ne5+) It's almost weird how I keep running into this, although I sometimes exploit it myself
+[18:17:15] timothyha: (8.Ne5+) Moccy just got a real gift, not a Greek gift
+[18:17:46] timothyha: (8.Ne5+) look carefully again @Moccy
+[18:18:01] timothyha: (8...Ke8) oops
+[18:18:01] ysgwydd: (9.Nxg4) This has been seen once in the masters database
+[18:18:01] ysgwydd: (9.Nxg4) Well not Ke8
+[18:18:16] gavalanche20: Wow Qe5 missed or did we miss something
+[18:18:16] timothyha: (9.Nxg4) no, just belief in opponent...
+[18:18:31] timothyha: (9.Nxg4) sadly
+[18:18:31] moccy: (9.Nxg4) Hi @mongreltiger. Sorry, you have to see this.
+[18:18:31] timothyha: (9.Nxg4) Qxe5 is simple calculation...
+[18:18:31] lou-e: I suppose 9...Qe6+ could also be met with Ne5
+[18:19:01] ysgwydd: (9.Nxg4) The problem is to spot the move
+[18:19:32] timothyha: (9.Nxg4) a known pattern overshadowing the real situation, Qd6 can take on e5 unlike Qd8
+[18:20:47] ysgwydd: (9...h5) Yeah I guess it's a pattern you should know if you play the Qd6 Scandi
+[18:20:47] lou-e: Is Ne5 and Qd3 -> Qg6+ not quite a big threat now?
+[18:21:18] lou-e: Also Bf4 at some point might be a thing
+[18:22:34] ysgwydd: (10...Nbd7) Black should try to long castle and hope that white doesn't notice
+[18:24:04] timothyha: (11...Rh7) baclk to move 8, Black wins a pawn after Qxe5 dxe5 Bxd1 exf6 Bxc2
+[18:25:05] timothyha: (11...Rh7) Bxc2 fxg7
+[18:25:20] timothyha: (11...Rh7) what a long sequence but Black is more developed
+[18:26:06] lou-e: Bf4 Qe6+ is potentially a bit annoying, I don't think I want to trade queens yet
+[18:26:21] lou-e: So I'm thinking maybe Be3 -> Qe2/Qd2 and then O-O-O and Bf4 later
+[18:26:36] lou-e: Cos I think kingside castles is probably asking for trouble too
+[18:26:51] lou-e: meanwhile Black probably pushes c5 or e5
+[18:26:51] moccy: (11...Rh7) It's so sad to have messed up the opening so badly.
+[18:26:51] lou-e: Which Be3 helps with too
+[18:27:37] lou-e: Arguably Qd3 first actually keeps pressure on the h7 rook, so Be3 can't be met with Ng4
+[18:28:38] lou-e: Ehhh idk Qd3 e5
+[18:29:08] lou-e: Qd3 e5 Be3....
+[18:32:55] lou-e: Maybe I forego Bf4 entirely for now and try Bg5 instead soon
+[18:33:11] lou-e: Looks super annoying, Black's pieces are just tied up
+[18:35:12] timothyha: (12...Kf7) this king just wants to move
+[18:35:42] moccy: (12...Kf7) Hi @Le_Merovingien
+[18:36:58] gavalanche20: Curious if Bf4 was worth
+[18:37:13] lou-e: I don't see any nasty discoveries here
+[18:37:28] gavalanche20: Bf4 Qe6 Kd2 Re1 castle by hand
+[18:37:59] gavalanche20: But ok pawn up displaced opponent king no need to galaxy brain
+[18:40:16] lou-e: Imagine if I could somehow get mate with Qc4+ someday
+[18:40:16] lou-e: That'd be crazy
+[18:41:01] lou-e: Bf4 might prompt the queen to abandon the defence of d6 somehow
+[18:41:16] lou-e: And then Qc4+ might just be a mating move
+[18:42:17] lou-e: Ng4 here might just spoil the whole idea though
+[18:43:32] moccy: (14...Rd8) What a mess...
+[18:44:33] lou-e: Also 15...Qe6 16. Rhe1 Qf2 probably puts that idea to bed as well
+[18:45:49] lou-e: Damn
+[18:47:50] le_merovingien: Mocha would have needed a coffee before the game :/
+[18:47:50] le_merovingien: This looks tough.
+[18:47:50] le_merovingien: Go Mocha!
+[18:52:53] lou-e: Looks a bit weird but a long train of thought led me to f3 somehow
+[18:53:54] lou-e: Basically, take g4 away from the knight and give my DSB a flight square if it goes to g3 and gets kicked with h4 one day
+[18:54:24] lou-e: So for example if Be5 or Ne5 on the last move, opponent had Ng4 in the end which was potentially annoying
+[18:54:24] lou-e: It's halfway a waiting move really
+[18:55:25] lou-e: Also if like b5 Kb1 b4 I have Ne4 Nxe4 fxe4 now
+[18:56:10] lou-e: Another idea just occurred to me - Bsomewhere, Nf4 -> Ne6
+[18:58:57] lou-e: 19. Rxe7 is tempting here, but I think 19...Qxa2 would be troublesome
+[18:59:12] moccy: (18...Qxd5) Rxe7 now, I guess
+[18:59:58] lou-e: I'm interested in Nxe7+ Bxe7 Rxe7 Qxa2 Qf5
+[18:59:58] lou-e: Maybe Nf6 there straightens everything out for Black
+[19:06:17] lou-e: Ahhh maybe 20.Bg5 was better there
+[19:06:17] lou-e: This seems a little freeing for White
+[19:06:33] lou-e: h6 for the rook etc.
+[19:06:33] lou-e: Bg5 hit the rook with tempo AND allowed Nf4
+[19:08:03] lou-e: Although this does make the queen's position more awkward after Nf4, since there's no Qd6
+[19:08:19] lou-e: But maybe there's 20...Bd6 here for Black
+[19:12:06] lou-e: ugh so complicated
+[19:14:07] lou-e: Oh but Nf4 here?
+[19:14:22] lou-e: was busy calculating other stuff but I think Nf4 was right there the whole time no?
+[19:14:22] lou-e: better check it
+[19:16:38] lou-e: hmmm
+[19:18:40] lou-e: Think I might have it: 21. Bf4 Rh7 22. Nf4 Qa5 23. Qg6
+[19:19:10] lou-e: Hitting the rook on e8 and the pawns on h5 and e6
+[19:20:11] moccy: (21.Bf4) I am considering Nc5 here
+[19:21:42] moccy: (21.Bf4) Nc5 c4 Nxd3 cxd5 Nxf4 Nxf4 exd5
+[19:23:13] lou-e: Nope: imagining things. queen covers the g5 square
+[19:23:43] moccy: (21.Bf4) Nc5 Re5 Nxd3 Rxd5 Nxf4 is fine as well
+[19:24:28] lou-e: I also just realised that Ne2 would've probably been a perfectly acceptable alternative to Nxd5, possibly just better
+[19:25:44] lou-e: So maybe if Rh7 here then c4, which I have resisted playing so far
+[19:25:59] lou-e: looks orite dunnit
+[19:25:59] moccy: (21.Bf4) but Nc5 Qc3 and then?
+[19:26:30] lou-e: I'm not sure what Black could be considering here. Must be some counterattacking move
+[19:27:15] lou-e: I don't see any good ones though?
+[19:27:30] lou-e: I'd just play Rh7 and calculate on Lou-E's time
+[19:29:01] moccy: (21...Nc5) I think it might work.
+[19:29:01] lou-e: Ah, yeah that does look good actually, fair enough
+[19:29:32] moccy: (21...Nc5) But I'm so much worse otherwise, I feel like I have to take some risk to get into the game.
+[19:29:47] lou-e: Or does it? Qe2 here?
+[19:29:47] timothyha: (21...Nc5) fun solution
+[19:30:02] moccy: (21...Nc5) If I don't do anything, I will be crushed over time for sure.
+[19:30:33] timothyha: (21...Nc5) Qe2 looks good
+[19:30:48] lou-e: Le_Merovingien have you blocked NaveenGeorge? He's trying to send you a challenge but can't lol
+[19:32:19] nyanners: Bxf7 in the big 2026? just like that :o
+[19:32:34] nyanners: the point of Qd6 is that it doesnt work
+[19:32:34] nyanners: Qxe5 and black wins
+[19:33:04] nyanners: yea i see that others saw it XD of course
+[19:33:19] nyanners: nothing like a nice winning blunder to kick off
+[19:33:35] lou-e: Lots of ideas actually. Very complicated
+[19:33:50] nyanners: think white plays along and hits the brakes
+[19:33:50] lou-e: Like Re5 looks nuts after Qxe5
+[19:34:05] nyanners: dxc5 Qxd3 Rxd3 Rxd3 Bxh6
+[19:34:05] nyanners: and wins
+[19:34:05] lou-e: Also just dxc5
+[19:36:36] glbert: go lou-e!
+[19:37:52] nyanners: this also looks good
+[19:38:07] nyanners: i thought there was a back ranker in rx dx rxg2 but theres bc1
+[19:39:08] moccy: (22.Qe2) Well, as expected, I missed something here.
+[19:40:24] moccy: (22.Qe2) Looks like I'm losing material here. Rxg6 dxc5 and I can't properly protect my rook on d8
+[19:45:43] moccy: (23.Bxh6) It's not so easy to keep that game even going in a reasonable way.
+[19:47:29] lou-e: Why complicate matters further with like Bxg7 or dxc5
+[19:47:29] moccy: (24.Bc1) Qxe6+ incoming
+[19:47:44] lou-e: I think this is fairly neat n tidy now, hopefully
+[19:49:15] tbest: well, I am late to the party, but things look good :D
+[19:51:17] lou-e: Hey, thanks for watching all, gg to my opponent
+[19:51:17] moccy: gg
+[19:51:47] lou-e: 8...Qxe5 with check, wow haha
+[19:51:47] guitarspider: GG
+[19:51:47] moccy: Oh wow, and I just fell for a non existing trap.
+[19:52:17] nyanners: gg xd
+[19:52:32] moccy: Why don't I see stuff like that o0
+[19:52:47] moccy: Anyway, thank you for the game!
+[19:52:47] moccy: and thanks everyone for spectating again.
+[19:59:52] lou-e: Thanks to you as well
+[20:00:07] lou-e: I'm also annoyed I missed Qxe5 lol but at least it fell in my favour this time
+[20:00:38] lou-e: Off to watch NaveenGeorge's game, thanks all
