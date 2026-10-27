@@ -1,0 +1,184 @@
+Lichess game chat log
+Game      : https://lichess.org/OGugSH3p
+White     : phib
+Black     : fireball100
+Time      : 45+45
+Captured  : 2026-10-27 19:44:29 UTC
+Game ended : 2026-10-27 18:24:14 UTC
+Messages  : 174
+────────────────────────────────────────────────────────────
+
+[16:00:56] simonwashere: Go fireball!
+[16:01:41] fireball100: Hello Simon!
+[16:10:47] aldric123: (10.Re1) Go fireball!
+[16:11:17] aldric123: (11.Bd3) Kind of surprised to see an exchange french.
+[16:11:17] aldric123: (11.Bd3) Maybe it's a surprise weapon
+[16:11:47] simonwashere: our main weapon is surprise
+[16:12:02] aldric123: (11.Bd3) heh
+[16:13:03] aldric123: (11.Bd3) Most french players I know kind of hate the exchange variation. Like it's known it's basically equality by white going into it, ...
+[16:13:03] aldric123: ...but they took out all the main complexity of the game.
+[16:13:03] aldric123: (11.Bd3) :)
+[16:13:18] aldric123: (11.Bd3) I mean not literally, but ya know what I mean.
+[16:13:33] simonwashere: it does seem helpful though, to be able to develop the LSB easily
+[16:14:19] aldric123: (11...f5) I'm not sure I love f5 here, but hmm
+[16:14:49] simonwashere: yeah also not convinced f5 was the move
+[16:15:19] simonwashere: was wondering about Nf4 instead
+[16:15:35] aldric123: (11...f5) yeah it was for sure 1 of the moves I was looking at
+[16:15:50] aldric123: (11...f5) Almost for sure Bf1 followed
+[16:16:20] goldenretrieverchess: Go Brian!!
+[16:16:20] simonwashere: Hi Golden!
+[16:16:50] aldric123: (11...f5) I take it Brian is fireball?
+[16:17:36] simonwashere: yes
+[16:17:36] aldric123: (11...f5) Ah yes, I see his whole name on our team stuff.
+[16:18:06] fireball100: Hello aldric Golden!
+[16:18:06] goldenretrieverchess: Hey Simon and aldric!
+[16:18:06] aldric123: (12.Ng5) Hey hey!
+[16:18:36] aldric123: (12.Ng5) I've just been playing 8 0 from an arena half the morning. I came here to relax and watch my teammate before my own match in a ...
+[16:18:36] aldric123: ...bit under 3 hours
+[16:19:07] aldric123: (12.Ng5) probably time to play Nc7 now?
+[16:19:22] simonwashere: hmm, f4 is tempting now, not sure if sensible, guess he plans Ne6 here
+[16:19:37] aldric123: (12.Ng5) I don't really like allowing Ne6
+[16:19:52] aldric123: (12.Ng5) Sure it just forces the Bxe6 but letting Rxe6 in then bleh
+[16:20:07] simonwashere: yeah true
+[16:20:23] simonwashere: and the knight looks silly on a6 anyway
+[16:20:53] aldric123: (12.Ng5) though maybe Nf4 now if you wanted to be adventurous
+[16:21:08] simonwashere: Qb6 would be nice if it worked but doubt it
+[16:21:23] simonwashere: as you say Re6 is nasty
+[16:21:38] aldric123: (12.Ng5) Hmm Nf4 Bxf4 Qh5 might be scary
+[16:21:38] aldric123: (12.Ng5) Not sure yet
+[16:21:53] aldric123: (12.Ng5) Nc7 is the boring safe-like move
+[16:22:09] simonwashere: don't overcalc this game, save your strength :)
+[16:22:24] aldric123: (12.Ng5) oh that doesn't work
+[16:22:39] aldric123: (12.Ng5) Nf4 Bxf4 Qh5 just like Qxg5
+[16:22:54] aldric123: (12.Ng5) So maybe Nf4 is at least interesting
+[16:23:24] simonwashere: Ng5 looks like it shouldn't really work
+[16:24:10] aldric123: (12...Nb4) Hmm now Qh5 here looks annoying
+[16:24:10] simonwashere: erk, double knight attack
+[16:24:25] aldric123: (12...Nb4) And maybe it was annoying vs Nc7 too
+[16:24:40] aldric123: (12...Nb4) hopefully he pays attention to the Bd3 and doesn't play Qh5
+[16:25:26] simonwashere: yeah since h6 can't be played it is tricky
+[16:25:26] aldric123: (12...Nb4) very tricky
+[16:25:41] aldric123: (12...Nb4) I think you had to put something on f4, preferably that Nf4
+[16:25:56] aldric123: (12...Nb4) I mean you could have thought about Qf6
+[16:26:26] aldric123: (13.Qh5) drat
+[16:26:41] simonwashere: ouch
+[16:26:41] aldric123: (13.Qh5) I don't yet see any way not to be kinda screwed
+[16:27:12] simonwashere: it is even worse because they control the e file
+[16:27:27] aldric123: (13.Qh5) I guess Rf6 attempts to ONLY lose a pawn, but then Nxh7 and it's a pawn and hmm
+[16:27:42] aldric123: (13.Qh5) ATM Rf6 looks best but it looks ugly
+[16:29:28] simonwashere: f5 was the problem, if the pawn was on f6 the knight couldn't come in (and if it had still been on f7 h6 would work)
+[16:29:43] aldric123: (13...Rf6) Nxh7 might be the better but both that and Qxh7 look good for white
+[16:30:14] aldric123: (13...Rf6) Yeah I agree f5 wasn't my favorite, but either 12.Nf4 or 12.Qf6 I think wasn't totally bad
+[16:30:14] fireball100: looks like I should have taken more time - I may be OK though..
+[16:30:29] aldric123: (13...Rf6) I love optimism!
+[16:30:29] simonwashere: 12...h6 might have been ok as well
+[16:30:44] aldric123: (13...Rf6) maybe lemme see
+[16:30:59] aldric123: (13...Rf6) It'd have been way better than what occurred
+[16:30:59] simonwashere: he would have played Ne6 but could still hold
+[16:31:14] aldric123: (13...Rf6) But I still don't love h6 Ne6 Bxe6 Rxe6
+[16:31:14] aldric123: (13...Rf6) But I'd love it vs what's occurred
+[16:32:30] aldric123: (13...Rf6) Nxh7 is annoying to the max I think
+[16:32:30] aldric123: (13...Rf6) What's the rook do?
+[16:32:45] simonwashere: Qxh7 looks most obvious, followed by a rook lift, not sure if it is best
+[16:33:00] simonwashere: but yeah Nx may be even better
+[16:33:15] aldric123: (13...Rf6) Nxh7 and the exchange of Ng6 are toast
+[16:33:15] aldric123: (13...Rf6) exchange or
+[16:33:15] simonwashere: true
+[16:33:46] aldric123: (13...Rf6) There's nowhere to put the rook that doesn't drop the knight
+[16:34:16] simonwashere: Nxh7 Nf4 perhaps
+[16:34:31] aldric123: (13...Rf6) Yeah but Nxf6+ is with check
+[16:34:31] aldric123: (13...Rf6) It might be the best still, but sigh
+[16:34:46] simonwashere: Qx and then can play on obviously worse but game not over
+[16:35:02] aldric123: (14.Qxh7+) oh thank god
+[16:35:02] aldric123: (14.Qxh7+) White's still obviously better, but I think Nxh7 was way worse
+[16:36:48] simonwashere: maybe the rook lift is too slow actually
+[16:37:18] simonwashere: g4 might be more aggressive
+[16:37:48] simonwashere: though I guess Nxd3
+[16:38:03] aldric123: (14...Kf8) Nxd3 vs most things but hmm
+[16:38:34] simonwashere: you don't want to play Bf1 here really
+[16:38:34] aldric123: (14...Kf8) Re3 Nxd3 Rxd3 f4 I think
+[16:39:04] simonwashere: is Be2 -> h5 a thing?
+[16:39:20] aldric123: (15.Qh5) If Bf3 f4 immediately
+[16:39:20] aldric123: (15.Qh5) oh sigh
+[16:39:20] aldric123: (15.Qh5) I was hoping he wouldn't play this
+[16:39:50] simonwashere: ah, now he is wondering about Nh7, I see
+[16:39:50] aldric123: (15.Qh5) yeah atm it'd be check
+[16:40:20] aldric123: (15.Qh5) If you do Kg8 Nh7 would transpose as if he hnever took with the queen
+[16:40:20] aldric123: (15.Qh5) I'm not sure yet if black has better
+[16:40:35] aldric123: (15.Qh5) I hope so!
+[16:40:50] aldric123: (15.Qh5) ACtually take on d3
+[16:40:50] aldric123: (15.Qh5) Do it while you still can
+[16:41:06] aldric123: (15.Qh5) If Nxd3 Nh7+ Kf7 and if he then does Nxf6 you have Nxe1
+[16:41:36] aldric123: (15...Nxd3) yay!
+[16:41:36] simonwashere: yeah Nxd3 is a good idea
+[16:42:21] simonwashere: he will end up with doubled pawns so we are totally winning
+[16:42:21] aldric123: (15...Nxd3) hah I wish
+[16:42:52] aldric123: (16.cxd3) I'm not sure what to do after dxd3 other than Kg8 which I'm not impressed with
+[16:44:07] simonwashere: Bd7, the exchange is gone I think
+[16:44:23] aldric123: (16.cxd3) I guess an alternative to Kg8 might be f4 Nh7+ Kf7 Nxf6 and letting the exchange go
+[16:44:23] aldric123: (16.cxd3) Or that
+[16:44:23] aldric123: (16.cxd3) Either Bd7 or f4
+[16:44:38] aldric123: (16.cxd3) I'm worried though with Bd7 with the bishop coming to g5
+[16:45:08] aldric123: (16.cxd3) Something like Bd7 Nh7+ Kf7 Nxf6 and whatever takes back on f6 Bg5
+[16:45:38] simonwashere: hmm, yeah
+[16:46:09] simonwashere: idea of Bd7 is to get a sneaky Rh8 in later
+[16:46:39] simonwashere: but it might not work
+[16:47:40] simonwashere: I am imagining the king on f7 and the queen on f6 and the way is clear for Rh8 hitting his queen and h2 pawn
+[16:47:55] aldric123: (16.cxd3) I mean I'd hear ya but with a Q on f6 Bg5 basically traps it
+[16:48:25] aldric123: (16.cxd3) That's why I think f4 Nh7+ Kf7 Nxf6 Qf6 is safer
+[16:48:40] simonwashere: you are probably right yeah
+[16:49:11] aldric123: (16.cxd3) I mean you can also try to Kg8 stuff
+[16:49:11] aldric123: (16.cxd3) maybe he wants a draw!?
+[16:49:11] aldric123: (16.cxd3) :)
+[16:49:26] simonwashere: Kg8 Qh7+!
+[16:49:26] aldric123: (16.cxd3) And you move back!
+[16:49:41] simonwashere: three times and done
+[16:49:56] aldric123: (16.cxd3) Kg7 Kh7+ Kf8!
+[16:50:11] aldric123: (16.cxd3) more like Kg8 Nh7 still
+[16:50:26] simonwashere: Kf8 doesn't deserve the !, though it is the best move in the position
+[16:50:26] aldric123: (16.cxd3) But we've kinda already decided he's losing the exchange
+[16:50:57] aldric123: (16.cxd3) I know it doesn't literally deserve ! heh. I was doing it cuz you did Qh7+!
+[16:51:12] simonwashere: all my suggestions deserve lots of !
+[16:51:12] aldric123: (16.cxd3) !!!111!
+[16:51:12] simonwashere: even when they are stupid
+[16:51:57] aldric123: (16.cxd3) So yeah I don't see anything to try that isn't Kg8 or f4
+[16:52:12] aldric123: (16.cxd3) both are bad but they're attempts at least bad!
+[16:52:12] simonwashere: but yeah, there isn't really a good move now, f4 would be my pick, you convinced me
+[16:52:28] aldric123: (16.cxd3) yay!
+[16:52:58] simonwashere: Nf4 Qh8 would be a bad plan
+[16:53:43] aldric123: (16.cxd3) indeed
+[16:53:59] aldric123: (16.cxd3) I was just relooking at it and then was like oh right hanging queen
+[16:53:59] aldric123: (16.cxd3) or well hanging mate I guess
+[16:54:29] aldric123: (16.cxd3) Congrats you don't lose your queen, you lose your king!
+[16:56:00] aldric123: (16...Be7) Hmm this might work
+[16:56:15] simonwashere: we will find out soon enough :)
+[16:56:15] aldric123: (16...Be7) Though it allows Re3 perhaps
+[16:56:30] aldric123: (17.Nh7+) it is an alternative way to give the exchange
+[16:57:16] aldric123: (17...Kf7) at least this way d4 might be weak
+[16:57:31] aldric123: (18.Nxf6) I'm curious to see after the game 17.Re3
+[16:58:47] aldric123: (18...Bxf6) Ne2 might be ok
+[16:59:17] aldric123: (18...Bxf6) It looks like you're just defending d4 but you're really threatening Nf4
+[16:59:47] simonwashere: yeah
+[17:00:02] aldric123: (18...Bxf6) I mean to avoid that threat you can probably do Kh8 but if you have to trade down like that it's scary
+[17:00:02] aldric123: (18...Bxf6) Err sorry I meant Qh8
+[17:01:18] aldric123: (18...Bxf6) Simpler is probably Re3 and ignore d4 with the same kind of threat of Rg3
+[17:01:18] simonwashere: gtg now, good luck fireball!
+[17:01:18] aldric123: (18...Bxf6) Later Simon
+[17:10:41] fireball100: taking more time now... but behind - see what happens
+[17:48:35] fireball100: oops - back to blitz
+[17:50:51] fireball100: that was really stupif - my next move was supposed to be RxR
+[18:04:31] fireball100: perhaps he will run out of time.. :)
+[18:09:34] minot: 46.Rh
+[18:09:49] minot: Rh4#
+[18:22:58] fireball100: I dought he will allow a stalemate but that is all that is left..
+[18:26:30] fireball100: Apologies for throwing away the game - I had a big advantage  after the opponent lost a B. I moved quick because I looked at clock and forgo
+[18:26:30] fireball100: about key RxR move
+[18:27:00] aldric123: Stuff happens. :)
+[18:27:15] aldric123: You were losing a lot of the game, sucks that you forgot to interpose the RxR but ah well
+[18:28:16] fireball100: Yes just back in control - after RxR I would have then picked up theh next P!
+[18:29:16] phib: intense game
+[18:30:02] goldenretrieverchess: gg
+[18:30:32] fireball100: Yes - mistakes on both sides though my failure to finishish my sequencs after  K check was major'
+[18:31:33] fireball100: Good job finishing up - another blunder would have beed good but you carefully brought it home!
+[18:36:20] phib: thx, i was very afraid of doing something wrong :D hoping for stalemate was a legit hope
+[18:38:06] goldenretrieverchess: Very fun game to watch!
