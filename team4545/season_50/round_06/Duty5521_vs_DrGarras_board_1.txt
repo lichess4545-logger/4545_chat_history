@@ -1,0 +1,81 @@
+Lichess game chat log
+Game      : https://lichess.org/3rSy0Vp9
+White     : duty5521
+Black     : drgarras
+Time      : 45+45
+Captured  : 2026-10-27 19:13:05 UTC
+Game ended : 2026-10-27 17:52:51 UTC
+Messages  : 71
+────────────────────────────────────────────────────────────
+
+[16:04:42] duty5521: [10... a6] My prep ended at 10. Be3, I prepared 4... e5 deeper
+[16:07:59] duty5521: [11. Nc3] Na3 to play Nc4 was an idea but I don't think it leads anywhere
+[16:10:16] duty5521: a5 is going to be my next move. h4 looks like an idea to hit on that knight
+[16:11:01] duty5521: This is difficult to play
+[16:15:34] duty5521: [12. a5] I'm not gonna lie, I don't understand anything here, I literally have no idea what to do. Well, I've never played this type ...
+[16:15:34] duty5521: ...of position before...
+[16:54:01] duty5521: [13. g3] That was quite a lot of time eh
+[16:54:16] duty5521: I'm NOT going to compile my thought process but it was long
+[16:56:02] duty5521: [14. h4] Basically the plan is castle queenside and attack the enemy king but a lot more complex
+[17:04:07] duty5521: [18. O-O-O] I don't know if this is happy coconuts, sad coconuts or some other coconut
+[17:04:22] duty5521: But I feel like it's happy coconuts because Black looks cramped
+[17:26:35] duty5521: [25. gxf5] I have to have something here
+[17:27:36] duty5521: [25... Bxa5] what
+[17:28:06] duty5521: Oh my bishop is hanging at the end of the line oops
+[17:31:08] duty5521: [26. b4] 20... Rac8 21. fxg6 and not 21. bxa5?? Rxc2 22. Qxc2 Rxc2 23. Kxc2 Qxf5+ 24. king moves Qxf4
+[17:31:38] rpcx: as always i have no idea what this man is doing but i assume it is good things
+[17:32:54] duty5521: [26... Bxb4] Now that's unexpected
+[17:33:40] lgmartin: This man is phoquing good
+[17:34:10] duty5521: [28. Qb2] Alright I guess
+[17:34:40] akristjansson: go Duty!
+[17:35:26] duty5521: [30. Bd3] don't let anybody know i premoved Qg7#
+[17:39:28] akristjansson: thats a free pawn for a guy like me
+[17:39:58] akristjansson: 32. Qxb7 Qxd5 33. Bc4
+[17:41:44] jfiras: Qxb7 Rb8 ? or am i missing smthg ?
+[17:42:15] akristjansson: oh yeah that would be bad
+[17:42:30] lgmartin: Yes I didn't see why Qxb7 is a problem
+[17:42:30] akristjansson: i was looking at it the move before mainly
+[17:43:00] lgmartin: Oh but here he can't because of Qd6 protect the rook but before yes he can
+[17:45:47] duty5521: [32. Qb6] I hope the resign button is not too hard to reach
+[17:49:04] lgmartin: The opponent fall asleep because I was too overthinking
+[17:52:06] wave2679: Gg
+[17:52:06] jfiras: gg !
+[17:52:06] lgmartin: Ah ben
+[17:52:21] lgmartin: Il a perdu son slibard mdr
+[17:52:36] inter-temporal: gg
+[17:53:21] inter-temporal: back rank deflection. i should share this
+[17:53:21] wave2679: Why can't they take on c4? Am I missing something?
+[17:53:36] inter-temporal: it deflects the Rs
+[17:53:52] inter-temporal: no one left to guard the back rank
+[17:53:52] wave2679: You can take once though no?
+[17:54:07] inter-temporal: ranks!
+[17:54:37] wave2679: Rc4, rc4, re7?
+[17:54:37] wave2679: It still looks bad but you sruvive
+[17:54:52] inter-temporal: does it? Rxe7
+[17:55:07] wave2679: Not e7 my bad
+[17:55:07] inter-temporal: wait.]
+[17:55:07] wave2679: Re8
+[17:55:53] inter-temporal: isn't it a whole R down?
+[17:56:08] wave2679: for 3 pawns
+[17:56:08] akristjansson: White could probably cash out there after ... Re8 Qg7+ Qxg7 hxg7 Kxh7 Rc7+
+[17:56:38] wave2679: Ah but I guess the pawns just don't do anything
+[17:56:38] wave2679: Not advanced enough
+[17:56:53] inter-temporal: the e-pawn is hanging
+[17:57:08] wave2679: Yeah true
+[17:57:39] inter-temporal: at their level, i might resign. at my level, "Never Resign" lol
+[17:58:39] inter-temporal: or you said ...re8, ?
+[17:58:54] inter-temporal: still mate in 6
+[17:59:09] inter-temporal: in fact, the position at resignation says forced mate
+[17:59:55] inter-temporal: might be an even better tactical position that i first thought. lol
+[18:00:40] inter-temporal: Move 35 White to play but even there SF finds several routes to mate
+[18:02:26] inter-temporal: SF says 22...fxg4 only move
+[18:05:13] inter-temporal: those moves to survive there are not so obvious
+[18:08:00] duty5521: I thought that after fxg4 Ng3 exf4 Bxf4 Bxa5 Ne4 I was better
+[18:08:30] inter-temporal: gotta have confidence, yeh?
+[18:09:00] inter-temporal: but only two moves make it even
+[18:09:15] inter-temporal: black Q must move forward 1 square
+[18:10:01] duty5521: Yeah the followup is really hard wow
+[18:10:46] inter-temporal: good thing ur not playing SF. s
+[18:11:01] duty5521: Well yeah lol
+[18:14:33] inter-temporal: :)  gg.
+[18:15:18] inter-temporal: i'm gonna go work on something that makes sense to my tiny chess brain...
