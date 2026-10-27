@@ -1,0 +1,272 @@
+Lichess game chat log
+Game      : https://lichess.org/bSStZzlk
+White     : kayrosas
+Black     : micomps
+Time      : 45+45
+Captured  : 2026-10-27 23:36:12 UTC
+Game ended : 2026-10-27 22:16:01 UTC
+Messages  : 262
+────────────────────────────────────────────────────────────
+
+[19:19:36] kayrosas: prepared a bit of fun. let's see if I get to play it
+[19:21:07] kayrosas: also interesting observation I've made is that I'm similarly nervous in 4545 games compared to otb games
+[19:21:52] micomps: (7...a6) now, the fun might begin...I am aware white has thought of playing 8.Bxg5 in response to my 7...a6
+[19:22:22] kayrosas: 8.Bxf6 should be unexpected. I exclusively play Na3 here
+[19:23:23] kayrosas: they have very few games in this line so I might be out of book rather quickly. but I think I got the gist of it in terms of ideas
+[19:23:53] micomps: (10.Nd5) so far, so in prep
+[19:24:54] micomps: this is the key. White has previously flirted with 10...f5 followed by Bxb5. And that can look awfully wild. But I've prepped that line f
+[19:25:09] micomps: f5 a very normal Sveshnikov idea, anyway
+[19:25:55] micomps: (10...f5) let's see what we get
+[19:26:25] kayrosas: we do get 'the big fun' on the board, yay
+[19:26:25] micomps: (11.Bxb5) and we have it on the board!
+[19:26:55] micomps: I don't want white to think I have prepped this. I know what I'm going to play, but I don't want it to look like prep
+[19:27:41] kayrosas: 11.Bxb5 iirc they have 1 blitz game in this line where they lost. will be interesting what they come up with
+[19:30:28] giziti: (11.Bxb5) this is great, they were both hoping the opponent would go into this line!
+[19:30:28] jfiras: (11.Bxb5) wow Micomps is in prep against a move that his opponent plays for the first time is interesting
+[19:31:59] ysgwydd: (11.Bxb5) I love that black is spending time to appear to not be in prep
+[19:32:29] rio2018: This is next level mind games
+[19:32:44] micomps: I think that's a long enough wait. My prep here is axb, Nxb Ra4, then depends on whether white plays Nc7 immediately or pushes b4
+[19:35:31] kayrosas: I only looked at 12...Ra7 and Ra4 I think. maybe a bit lazy, but fun regardless
+[19:35:31] micomps: (12...Ra4) I knew this was going to be fun
+[19:36:01] kayrosas: now not sure if it was 13.b4 or 13.Nbc7+ or if it doesn't matter
+[19:39:48] kayrosas: I think this way around bc I recall immediately castling after b4 Rxb4
+[19:40:34] micomps: (13.Nbc7+) so white had two choices there, 13.b4 and 13.this
+[19:41:19] micomps: I think this one is probably the best for white, but still fine for me. It looks scary but my prep says I can weasel out of any danger
+[19:41:19] micomps: he says, hopefully
+[19:42:05] daringdodo: wild game
+[19:42:05] micomps: after Kd7 I am expecting either 0-0. Qh5 walks into Rxe4
+[19:42:05] pineapplechiffoncake: haha,  these whispers, especially in the beginning, almost sound like they are talking to each other
+[19:42:20] ysgwydd: (14.b4) I recall a game of Alp vs Silk from a couple seasons ago in this line
+[19:42:50] nyanners: such is chess, arguably :o
+[19:43:06] nyanners: a most civilized argument of ideas...... maybe
+[19:43:21] nyanners: sometimes. at least
+[19:43:36] daringdodo: hey again nyanners, are you in one of these teams?
+[19:44:06] micomps: (14.b4) not sure if this transposes into the same as playing b4 first. I think I can play Rxb4 here, that featured a lot in my prep
+[19:44:06] nyanners: no
+[19:45:53] daringdodo: so Rxb4 nxb4 Qxc7?
+[19:47:09] micomps: part of me wants to play Qg5 here, but I haven't prepped that
+[19:47:09] gavalanche20: (14.b4) Masters db says Rb4 White just castles
+[19:49:10] micomps: Rxb4 and I am 99% sure white cannot play Nxb4 as it leads to a better position for me
+[19:49:25] micomps: but Qg5 looks tempting
+[19:51:11] kayrosas: from here I only looked at a single line just to get some idea: 14...Rxb4 0-0 Rb7? Qh5 Rxc7 Qxf7 Ne7 Nb6 Kc6 Rab1.doubt it'll happen tho
+[19:52:12] daringdodo: how do they both so much theory in this crazy line lol
+[19:52:57] micomps: (14...Rxb4) playing sensibly and what I've prepped but will check Qg5 after the game
+[19:53:43] micomps: (15.o-o) expected...white is playing quickly so clearly has prepped this
+[19:53:43] ysgwydd: (15.O-O) Black should probably not save the rook
+[19:53:43] kayrosas: if we see 15...Rb7? I might just go gambling after this game
+[19:55:29] micomps: so from memory this is straightforward. Rg8 now and if Qh5 then Qg5...allow Qxf7 because Be7 somehow holds it all together
+[19:55:29] kayrosas: I should've probably checked how more normal stuff like Rxe4 plays out. presumably some Qh5
+[19:56:00] micomps: (15.Rg8) I suspect white knows I've done at least some prep in this line now
+[19:56:15] jfiras: (15...Rg8) Kayrosas should be out of prep now
+[19:56:30] daringdodo: what would have happened if black just took pawn on e4?
+[19:57:16] bufferunderrun: nobody knows lol
+[19:57:31] micomps: this is why I like positions where Bxf6 is played early and gxf6 forced. Open g file going straight at white's king
+[19:58:32] micomps: Nxb4 I just recapture with the knight and then if we swap knights, I have bishop pair vs a rook. Which looks good
+[19:59:17] daringdodo: Qh5 anyway here? it attacks h7 and f5 pawn
+[20:00:03] daringdodo: Qxf5 is mate in 1 if not stopped
+[20:01:04] giziti: (15...Rg8) is Qh5 an idea
+[20:01:34] shurbz: Woah
+[20:02:05] daringdodo: I would play it
+[20:02:05] giziti: (15...Rg8) i see somebody else had the idea. Qh5... Qf6?
+[20:02:20] giziti: (15...Rg8) oh no of course not
+[20:02:20] giziti: (15...Rg8) lol
+[20:02:50] ysgwydd: (15...Rg8) Qh5 Qg5
+[20:02:50] bufferunderrun: yeah
+[20:02:50] bufferunderrun: this would be forced
+[20:03:21] giziti: (15...Rg8) yeah I was looking for moves other than that. I mean, Qxf7 in response and then... something.
+[20:03:36] giziti: (15...Rg8) or maybe Qxg5?
+[20:04:22] ysgwydd: (15...Rg8) Black is much better if Qh5 Qg5 Qxf7+
+[20:04:37] giziti: (15...Rg8) yeah now that I look at that line a little
+[20:04:37] bufferunderrun: if by something you mean g3 then yes
+[20:05:38] daringdodo: how wild is f4 here? it stops Qg5
+[20:06:08] kayrosas: can't really figure out 16.Qh5 Qg5
+[20:06:23] daringdodo: kinda trying to open the centre where blacks king is with f4
+[20:06:38] giziti: (15...Rg8) f4 is creative.
+[20:07:24] kayrosas: do I ever take on b4 here? doesn't seem appropriate
+[20:09:11] bufferunderrun: I have absolutely no idea what's going on here, so I'm grabbing a cup of tea and going to enjoy the madness in silence
+[20:09:41] giziti: (15...Rg8) this is definitely a good spot for a long think
+[20:10:57] daringdodo: yeah he shouldnt take the rook
+[20:11:43] daringdodo: I hope f4 is actually playable here but idk
+[20:17:16] ysgwydd: (15...Rg8) Just take the rook
+[20:17:47] kayrosas: hm, not finding anything :/
+[20:18:17] kayrosas: I guess I take a bunch of pawns and hope I can untangle my knights
+[20:20:33] kayrosas: 16...Qg5 Qf7 Be7 and either hard commit with g3 or try to bail with Qxf5
+[20:20:48] ysgwydd: (16.Qh5) https://lichess.org/game/2bM9cxOE#26
+[20:21:19] ysgwydd: (16.Qh5) Board 1 game very similar to this from a couple seasons ago
+[20:21:49] jfiras: (17.Qxf7+) yeah, and they might go for the same continuation too
+[20:22:34] kayrosas: a bit annoying how forced black's play is here. Rg8 was a good find I guess
+[20:22:34] daringdodo: so block with bishop and g3 I guess?
+[20:23:20] micomps: (17...Be7) I am quite sure this holds
+[20:24:21] daringdodo: after g3 maybe black goes f4 instead
+[20:24:36] ysgwydd: (17...Be7) Looks like Micomps' prep was without b4 included, it shouldn't matter much
+[20:25:06] micomps: this is about where I got up to in my prep - I knew Qh5-f7 looks monstrous but it's defendable
+[20:25:21] micomps: not sure where white goes next, but I think the king is safe enough for now
+[20:27:07] giziti: they went for this line which didn't look good to me either
+[20:28:08] daringdodo: Qe6+ would be a huge blunder
+[20:28:53] giziti: does qxf5 work? it's not great but
+[20:29:09] jfiras: (17...Be7) Qxg2#
+[20:29:09] jfiras: (17...Be7) ah sry
+[20:29:09] jfiras: (17...Be7) nvm
+[20:29:54] daringdodo: I guess Qxf5 is a move but it kills the attack on black after trade
+[20:31:25] kayrosas: it's a lot more fun to spectate these positions
+[20:32:56] daringdodo: h5 maybe
+[20:33:26] daringdodo: or now Rxe4
+[20:34:57] micomps: (18.g3) now I am out of prep, I am not sure how best to progress
+[20:35:43] micomps: not sure if should just try and exchange down towards an ending, or if I need to try and get an attack going
+[20:36:13] micomps: gut says exchange down, but I am worried I am missing something
+[20:36:58] micomps: too many loose pieces and worried about white's rooks coming to b1, maybe d1
+[20:39:00] micomps: (20...Nxb4) I am really not sure who is better here
+[20:40:00] daringdodo: black cannot take the pawn cuz Rc1 right?
+[20:41:01] kayrosas: maybe specifically in this b4 line Qh5 isn't the core idea bc the q-trade is worse for me. but who knows
+[20:41:01] micomps: (21.Nd5) not Nxc2 as Rac1 then Rc7+ is a problem
+[20:41:31] giziti: (22.exd5) intersting endgame
+[20:41:46] micomps: (22...Ba6) think that is borderline forced otherwise I'm getting trapped
+[20:42:01] daringdodo: yes nobody seems to know who is better, I have no clue tbh
+[20:42:01] giziti: (22...Ba6) what do we think? two bishops > two rooks?
+[20:42:01] micomps: need to play a few quicker moves given 10min time difference
+[20:43:17] micomps: hmm, maybe Bb7 could have worked...Bb7, c4 Ba6, Rc1 Rc8
+[20:43:48] grzybozbur: there's no entry on the b file, and the a pawn isn't going anywhere it seems
+[20:43:48] bufferunderrun: white's pawns are a bit too weak
+[20:44:18] grzybozbur: so i'd say black better?
+[20:44:48] daringdodo: white cannot afford to lose d5 pawn
+[20:49:36] ysgwydd: (22...Ba6) Bishop pair > rook pair
+[20:56:26] micomps: (23...Rc8) briefly looked at e4 but don't think it achieved anything
+[20:56:26] micomps: can always play it in a move or two if it looks attractive
+[20:57:57] micomps: if white plays Rb2 now, for instance
+[20:58:27] kayrosas: 24.Rb2 just gotta curl up and pray
+[20:58:42] ysgwydd: (24.Rb2) e4+Bf6?
+[20:58:42] kayrosas: if d5 ever falls I'm dead
+[20:59:12] daringdodo: this loses c2 pawn to bf6 right
+[20:59:27] giziti: (25.Rd1) yeah i think white is falling apart here
+[20:59:43] daringdodo: yeah unfortunately (im rooting for white)
+[20:59:58] grzybozbur: yeah, with the rook on d1 white doesn't have any play
+[21:00:13] okady: Crazy game and fun to read these whispers back
+[21:00:58] giziti: (25.Rd1) yeah i'm not sure where exactly white went wrong
+[21:01:44] daringdodo: be2 to maybe get it to f3 could be an idea here
+[21:01:59] giziti: (26.Rb6) that's what i was thinking, too. massive bishop now
+[21:03:30] daringdodo: rook check now maybe hope black blocks
+[21:11:20] micomps: (30...Rxa2) I was worried about that a-pawn running if I wasn't careful
+[21:11:51] giziti: (30...Rxa2) isn't Rb1 a little threatening
+[21:12:06] grzybozbur: now black will have to be worried about h pawn
+[21:13:06] daringdodo: oh h4 first before Rxg6, that might be smart yeah
+[21:14:22] kayrosas: maybe h4 was unnecessary?
+[21:14:22] micomps: (32.Rc1+) missed that
+[21:14:37] kayrosas: missed Ra1 ideas
+[21:14:53] micomps: I think I need to go to the short side, potentially hide in a8. Not sure here
+[21:16:08] daringdodo: I feel like you can check again as white here
+[21:16:24] daringdodo: on b1
+[21:18:55] grzybozbur: be5 is mysterious
+[21:19:11] giziti: (34.Rg8+) perhaps just thinking about keeping the pawn?
+[21:19:26] grzybozbur: what pawn?
+[21:19:56] grzybozbur: d6 is not attacked and if it ever is, it's better defended from c5
+[21:20:11] grzybozbur: i guess black wants to control the promotion square
+[21:20:42] daringdodo: I dont really get this move I htought Rb1+
+[21:22:28] grzybozbur: ah, wait, d6 was attacked, silly me
+[21:22:58] bufferunderrun: white wishes something like Rc6 and Rd7-Rd8+
+[21:23:59] giziti: (35.Rd8) is it just me or are these rooks getting a little dangerous
+[21:25:14] daringdodo: it both players agree to it it could be a repetition shortly
+[21:26:00] daringdodo: Rd7+ kb8 Rd8+ kb7 etc
+[21:27:01] daringdodo: look dangerous to me to deny this as black and go forward
+[21:27:16] rusty_2003: i feel like black wont want a draw but what do know
+[21:27:46] daringdodo: yeah but if king goes to like b6 instead there is Rc6+
+[21:28:16] giziti: (35...Rb2) Rd7 Ka8 then what?
+[21:28:47] bufferunderrun: Rb2 I presume in order to play Ka7 and drop the rook to b7
+[21:29:02] daringdodo: or Rac8
+[21:29:32] daringdodo: I mean rook from c1 to c8 after ka8
+[21:30:02] giziti: (35...Rb2) okay, Rc8+ Rb8.
+[21:30:18] giziti: (35...Rb2) okay actually that's no good
+[21:30:48] giziti: (35...Rb2) because Rcc7
+[21:31:18] giziti: (35...Rb2) although Ra2, you're alive I guess?
+[21:33:04] daringdodo: but what else to play here than Rd7+ that has to be best try
+[21:33:35] giziti: (35...Rb2) Rc6 is an idea too. but also here you might as well calculate it all, it's the end fo the game.
+[21:36:06] micomps: (37.Rc6+) not sure there was much difference in Kb6 or Ka6 there on my last move. Ka8 asking for trouble
+[21:36:21] daringdodo: this looks bad for black
+[21:37:07] daringdodo: white will swap rooks which is forced and then take the d6 pawn, must be winning for white no?
+[21:38:07] daringdodo: oh never mind black can take back the rook with king
+[21:38:23] giziti: (38...Kb4) maybe then Rb6+
+[21:38:53] giziti: (39.h5) no that's silly
+[21:38:53] daringdodo: why h5 suddenly im so confused
+[21:39:08] ben3536: distract the light-squared bishop
+[21:39:08] ysgwydd: (39.h5) To allow for Ra6+ if Bxh5
+[21:39:23] giziti: (39.h5) the bishop on e2 is tied down
+[21:39:38] daringdodo: oh you just ladder him
+[21:39:53] daringdodo: yeah wow
+[21:40:24] micomps: (39.h5) this is where 22mins, not 2mins, would be helpful
+[21:40:24] daringdodo: black really should have gone for Kb8, kb6 too dangerous
+[21:41:09] micomps: clearly white wants me to play Bxh5, so that can't be good
+[21:41:24] ben3536: is bxh5 Rb7+ Ka5 playable?
+[21:41:40] ysgwydd: (39.h5) It might
+[21:41:55] daringdodo: I thikn thats bad cuz the d pawn falls in the end for black
+[21:41:55] micomps: (39...Bb5) not sure about that one, bit of a panic move
+[21:42:55] daringdodo: you can just go h6 here for example
+[21:42:55] ysgwydd: (39...Bb5) I think Bxh5 Rb7+ Ka5 was close to holding
+[21:43:11] giziti: (39...Bb5) a big problem is that the h8 square is guarded
+[21:43:26] ben3536: Rc8 is the safe move here
+[21:43:26] daringdodo: h6 bd4 hmmm whats happening there
+[21:44:11] bufferunderrun: wait what?
+[21:44:26] ben3536: can black just take? Bxc6 dxc6 Rc2 feels ok
+[21:44:42] ysgwydd: (40.h6) Looks fine yeah?
+[21:44:42] daringdodo: idk
+[21:44:57] grzybozbur: it's not like white had a wide choice of moves
+[21:44:57] bufferunderrun: ah, tries to run the c-pawn as well
+[21:45:27] giziti: (40.h6) yeah sacing an exchange when down is a little desperate
+[21:45:57] ysgwydd: (41...Rc2) Black can sack for one of the pawns
+[21:45:57] grzybozbur: bb5 ended all counterplay on the queenside
+[21:45:57] daringdodo: inbetween check first
+[21:45:57] daringdodo: cuz why not right
+[21:46:13] daringdodo: or maybe it doesnt even help
+[21:46:13] ben3536: no, don't let the king get closer
+[21:46:28] daringdodo: kc5
+[21:46:43] giziti: (41...Rc2) now if black had only the light square bishop left, this could be interesting
+[21:46:58] micomps: (42.h7) this feels twitchy. I don't like this
+[21:47:13] ben3536: this gets the bishop back tho
+[21:47:13] daringdodo: just take the c6 pawn right
+[21:47:28] giziti: (42.h7) I guess white's trying to draw the pawn down rook endgame?
+[21:47:28] bufferunderrun: still probably winning  for black
+[21:47:43] ysgwydd: (42.h7) White can't promote
+[21:47:59] tactix47: That d pawn looks pretty good in an RPP vs RPPP endgame
+[21:48:14] ben3536: this is a tough hold to be sure
+[21:48:14] daringdodo: this check helped black? im not sure
+[21:48:14] ben3536: on the other hand, all rook endgames are drawn
+[21:48:29] ben3536: i think the check was just to get more time
+[21:48:29] giziti: (44.Ra8) the check did nothing but gain time
+[21:48:29] grzybozbur: this is dead lost now
+[21:48:29] kayrosas: close but still lost
+[21:48:29] bufferunderrun: a bishop for a pawn, but d-pawn would be supported by the king in the pure rook endgame
+[21:48:44] ysgwydd: (44...d5) Maybe it was always lost
+[21:48:59] daringdodo: yeah I guess its lost
+[21:49:30] grzybozbur: probably, but now you can just blitz the rest of the game out
+[21:52:46] micomps: (47...Kc3) I think, now, this is looking good. But rook and pawn endings are always danger
+[21:53:17] grzybozbur: what?
+[21:53:47] ysgwydd: (47...Kc3) Danger for white yes
+[21:54:02] giziti: (47...Kc3) danger for accidentally slipping into a draw
+[21:57:19] grzybozbur: now just kd2 and white is out of tricks
+[21:59:36] grzybozbur: hm, no kd2 actually would be stupid
+[22:00:21] daringdodo: uhmm so did blac mess this up?
+[22:00:21] daringdodo: how to win now after rc1?
+[22:00:36] ysgwydd: (52...Kd4) Looks more like a draw
+[22:00:51] daringdodo: I think black messed up the advantage
+[22:01:07] giziti: (53.Rc8) maybe he needed to keep the f pawn
+[22:01:22] ysgwydd: (53.Rc8) Or push 49...d3
+[22:01:22] grzybozbur: ra1-a2-e2 looks easy enough
+[22:01:52] giziti: (54.Kd2) that should do it yeah
+[22:11:43] daringdodo: Crazy endgame
+[22:12:29] bufferunderrun: this is more tricky now
+[22:12:29] grzybozbur: nope
+[22:12:29] daringdodo: White has the draw right
+[22:12:44] giziti: (61.Rxe4) this shouuld be a W
+[22:12:44] grzybozbur: no
+[22:12:44] ysgwydd: (61.Rxe4) Rook vs pawns should be clearly winning
+[22:12:44] grzybozbur: not even close
+[22:12:59] giziti: (61.Rxe4) especailly when not advanced at al
+[22:13:14] bufferunderrun: black's king is too far away, so Idk
+[22:13:14] ysgwydd: (64.g4) And cutoff king
+[22:14:00] giziti: (65.Kf1) rooks are fast
+[22:14:45] daringdodo: Ok nevermind
+[22:15:00] kayrosas: there isn't even any bluff at this point
+[22:15:31] jfiras: gg !
+[22:15:31] bufferunderrun: gg
+[22:15:31] ysgwydd: gg!
+[22:15:31] daringdodo: Gg
+[22:20:18] bufferunderrun: so Rc6 plan might have worked
+[22:21:19] micomps: Wild game. Would love to see some of the chat and whispers from earlier on
