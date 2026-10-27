@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/T4t2wbcd
+White     : bufferunderrun
+Black     : nikolast86
+Time      : 45+45
+Captured  : 2026-10-27 15:05:16 UTC
+Game ended : 2026-10-27 13:45:04 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[11:32:00] masterpiece_ki: Go buffer!
+[11:36:32] bufferunderrun: probably better to tak the bishop if the knight wasn't on f6
+[11:37:33] masterpiece_ki: I prefer taking the bishop
+[11:40:50] masterpiece_ki: Maybe Bb5 was better to prevent e5
+[11:57:00] bufferunderrun: Nh4 is tempting, but then I guess I would have to follow up with f4
+[11:58:00] bufferunderrun: the knight would be a bit out of play though
+[11:58:00] flipiflapi: (12...Nd7) buffffffffffffffffering
+[11:58:31] masterpiece_ki: I like Qd2 for now
+[11:59:31] bufferunderrun: perhaps Qd2 as another candidate
+[12:02:48] bufferunderrun: g4 maybe another one, like g4 Be4 Ng5
+[12:09:37] flipiflapi: (12...Nd7) qd2 call  it a day
+[12:09:37] flipiflapi: (12...Nd7) qc1 call it a day
+[12:21:14] bufferunderrun: I guess I can play Nfd2 and f3
+[12:21:44] bufferunderrun: on a second thought, g3 is undefended hmmm
+[12:24:31] bufferunderrun: still maybe Nfd2 and g5 if Nf6, I need to be a bit careful with f6 and such
+[12:30:04] bufferunderrun: maybe Ne1 f3 Ng2 is something
+[12:32:21] bufferunderrun: I still kind of like Ng5, since it prevents f-pawn moves
+[12:35:38] bufferunderrun: I feel like moving f3 is a bit too risky, easy to get checkmated if I miscalculate and I miss way to many things this season
+[12:45:44] bufferunderrun: hmmm maybe f5 is still possible, like f5 Ne6 Qd6 sac'ing the exchange
+[13:05:40] bufferunderrun: should have Qe2 on Qf4 and then there are Bh2 or Bxc6, hence Bg1 insted of Bf2
+[13:09:43] bufferunderrun: now I finally vacated d2, so the knight might jump ni into action soon
+[13:11:59] bufferunderrun: bishop pair is no more, the question is which one do I want to keep
+[13:32:11] flipiflapi: (27...Rxe8) oh up a nothing
+[13:32:26] flipiflapi: (28.Nc5) equal but not. who knows
+[13:33:57] pavonine: Re2+ Rf2 Rxf2 Nxd4
+[13:36:14] pavonine: Still applies. Re2+ Rf2 Rxf2+ Kxf2 Nxd4 cxd4 Bxd4+ with Bxb2
+[13:36:44] pavonine: not sure if it's good though
+[13:40:16] bufferunderrun: this endgame isn't easy, but I feel it should be better for me
+[13:44:19] bufferunderrun: oof
+[13:44:49] ysgwydd: Oh
+[13:44:49] ysgwydd: gg
+[13:44:49] bufferunderrun: too bad, I thought there was still some play here
+[13:45:04] masterpiece_ki: Gg
+[13:45:04] ysgwydd: I'm surprised by the eval in the end
+[13:45:50] bufferunderrun: like at the very end?
+[13:46:05] ysgwydd: Yeah
+[13:46:20] bufferunderrun: I thought it was better for me, the d-pawn is really annoying
+[13:47:05] bufferunderrun: once the king gets to e4, I don't see much happening with f5 on the kingside
+[13:47:20] bufferunderrun: c4 i s weak
+[13:47:20] ysgwydd: I guess your king is so much more active and c4 falls
+[13:47:51] ysgwydd: It makes sense
+[13:49:21] bufferunderrun: as I whispered earlier, it's not easy, especially with so little time left, so flagging was unfortunate
