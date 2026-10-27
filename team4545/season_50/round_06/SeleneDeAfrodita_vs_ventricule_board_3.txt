@@ -1,0 +1,94 @@
+Lichess game chat log
+Game      : https://lichess.org/l74WVYyM
+White     : selenedeafrodita
+Black     : ventricule
+Time      : 45+45
+Captured  : 2026-10-27 21:31:43 UTC
+Game ended : 2026-10-27 20:11:32 UTC
+Messages  : 84
+────────────────────────────────────────────────────────────
+
+[18:17:33] genturgidson: Go ventricule!
+[18:17:48] ventricule: 5. f3 is the Naroditsky line
+[18:19:19] ventricule: I must admit that I have no idea what to do on 6. Na4
+[18:19:34] ventricule: but I know it's not in the two best moves, which are Qd2 and Rb1
+[18:27:54] selenedeafrodita: i've seen this line before, but last time i think it went 6.qd2  qxb2 7.rb1 qa3 8.exd5 qa5 and after 9.dxc6 nxc6 black had a more ...
+[18:27:54] selenedeafrodita: ...comfortable middlegame
+[18:32:12] selenedeafrodita: now i guess b5 nc5 nd7 b4 qc7 (or qa3 qb3) would be more comfortable for white, since in these structures black may like to end up ...
+[18:32:12] selenedeafrodita: ...playing c5 to break the center
+[18:46:05] prasannakumar2084: Go SeleneDeAfrodita!
+[19:00:29] inter-temporal: (11...Nf5) tough decision
+[19:07:04] selenedeafrodita: i don't like trading the light square bishop when there is the possibility that i get an iqp, but that's life
+[19:08:04] selenedeafrodita: i would expect e5 now or on the next move
+[19:12:52] inter-temporal: hm. maybe Nf4 is good now, or Bf4
+[19:13:22] inter-temporal: (16.0-0) but K-safety is good too
+[19:28:01] selenedeafrodita: so i guess qd7 qc2 be6 nh5 bf8 nf4 bc4 nd3
+[19:30:48] selenedeafrodita: oh, is that a blunder? rg8 bh6 anyway
+[19:33:35] genturgidson: Rg8 Bh6 if Bx Nf6+
+[19:33:35] selenedeafrodita: it would still be hard to prove the queen is better than the two bishops
+[19:34:21] ventricule: 21. Bh6 is a big threat
+[19:34:51] selenedeafrodita: also he may just go kf8, then i may get some attack along the dark squares
+[19:35:21] inter-temporal: (21...Nh5) good move
+[19:38:38] selenedeafrodita: i was thinking maybe just bg5, but then bxd4+ wins two pawns
+[19:41:55] inter-temporal: (22...Kf8) gives up an exchange?
+[19:42:10] inter-temporal: i was lookin at 22...Bh8. idk
+[19:42:25] ventricule: time to channel my inner petrosian and prove that my blockade on white squares is worth the exchange
+[19:48:00] inter-temporal: (26...Bxg7) white plan probably includes g4
+[19:48:15] inter-temporal: open files for the Rs
+[19:51:32] inter-temporal: (27.Re3) preparing g4. very professional
+[19:52:17] inter-temporal: (28) consider an alpha-zero King-walk to b2?
+[19:53:18] selenedeafrodita: I'd just like to trade queens and sac back the exchange on e6
+[19:59:38] selenedeafrodita: seems dangerous, but i don't believe it
+[20:01:09] inter-temporal: (29) what's the idea after ...Qg7
+[20:01:39] inter-temporal: (30,g3) still seems risky
+[20:01:55] inter-temporal: ...h5 might be delivered asap
+[20:02:55] inter-temporal: somehow both Rs are restricted by the lsb
+[20:03:11] inter-temporal: and g3 weakened light squares. idk
+[20:06:59] genturgidson: Is Qh6 a draw offer?
+[20:07:29] inter-temporal: (30...Qh6) i think Black is looking for ...Bd5, Rxg3+ and Qh1+, but not sure
+[20:08:15] inter-temporal: maybe just threatening ...f5
+[20:09:00] inter-temporal: (31.Rxe6) white said she wants to sac back for a better endgame.
+[20:09:31] genturgidson: I thought he was going to go for Qh3, hope chess for perpetual but I don't think it works.
+[20:10:01] genturgidson: Because I forgot white's queen defends g3 from the Rxg3+ sacrifice, mainly.
+[20:10:16] inter-temporal: (31) black wants to win still, i think
+[20:11:02] inter-temporal: (32) previously, ...f5 might have helped black's cause
+[20:11:17] genturgidson: Ouch...
+[20:11:17] inter-temporal: gg
+[20:11:17] genturgidson: gg
+[20:13:18] ventricule: time trouble my old friend
+[20:15:19] selenedeafrodita: haha so bh6 wasn't actually such a good move
+[20:15:49] selenedeafrodita: after bh8 qxf5 0-0-0
+[20:15:49] ventricule: I did think about saccing the pawn
+[20:16:20] ventricule: but saccing the exchange looked more interesting
+[20:16:50] ventricule: somehow I've yet to find a game where it is as good as they say in the books
+[20:18:06] selenedeafrodita: i guess e5 was the missing move in your play, you could've played it on moves 7, 9 or 15
+[20:18:51] ventricule: 7. ... e5 looks quite computerish to me
+[20:19:36] ventricule: on move 9 I thought about it
+[20:19:36] ventricule: dunno why I didn't do it
+[20:19:52] ventricule: it felt a bit risky, being so far from castling
+[20:20:07] ventricule: 11. ... Ng8 was my initial plan
+[20:20:22] selenedeafrodita: ah, i understand
+[20:20:22] ventricule: but then I saw those juicy light squares
+[20:20:37] selenedeafrodita: i liked nh6
+[20:21:07] selenedeafrodita: nf5 is also very reasonable, like you're trading a worse pawn structure for the light square dominance
+[20:21:07] ventricule: 15. ... e5 is very tough to play I think
+[20:21:22] ventricule: it gives me that horrible pawn structure
+[20:21:37] ventricule: so is yours though
+[20:21:37] ventricule: maybe I should have considered it more
+[20:22:08] selenedeafrodita: well, e5 also gives you a more open position and a passed b pawn
+[20:22:08] ventricule: the main thing I missed is that 19. Ng3 actually threatens to sac on f5
+[20:22:23] ventricule: it foils my whole plan of long castling
+[20:22:38] ventricule: I ended up one tempo short
+[20:23:23] selenedeafrodita: well, but still 20...Be6 is equal
+[20:23:54] selenedeafrodita: i actually thought i may be a little worse, because you get to attack easily on the kingside while it's harder for me to attack on the ...
+[20:23:54] ventricule: yeah, responsible retreating moves
+[20:23:54] selenedeafrodita: ...queenside
+[20:23:54] ventricule: like Ng8 I thought about it
+[20:24:09] ventricule: and then decided against it
+[20:24:09] selenedeafrodita: those are the hardest to play
+[20:24:54] selenedeafrodita: well, good game, enjoyed it a lot
+[20:24:54] ventricule: alright I'll go have dinner, thanks for the game
+[20:25:09] selenedeafrodita: see you
+[20:25:09] ventricule: I'm very happy to have had some practice in this Na4 line
+[20:25:24] ventricule: I had no idea what to do
+[20:25:24] ventricule: at least now I know
