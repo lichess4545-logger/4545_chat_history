@@ -1,0 +1,122 @@
+Lichess game chat log
+Game      : https://lichess.org/Py27s11j
+White     : aldric123
+Black     : minot
+Time      : 45+45
+Captured  : 2026-10-27 22:19:22 UTC
+Game ended : 2026-10-27 20:59:10 UTC
+Messages  : 112
+────────────────────────────────────────────────────────────
+
+[19:09:13] minot: (12) I know that's not the best move but lets see if i can punish it
+[19:09:28] aldric123: (12.Ne2) I didn't expect him to go into the slav. So I prep was useless. :)
+[19:09:43] aldric123: (12.Ne2) I think the lines I normally know probably wanted 10.Be2 instead of Bd3 though that has to be playable
+[19:11:29] aldric123: (12.Ne2) So I'm definitely freestyling after move 11 onward
+[19:12:15] aldric123: (12.Ne2) At least my weird moves will put him also out of book, so there!
+[19:14:16] aldric123: (12.Ne2) Now that I moved though, maybe now I see that c5 is irritating
+[19:14:46] simonwashere: Go aldric!
+[19:15:01] aldric123: (12.Ne2) Nah, I wasn't watching out for it at first because b5 hangs
+[19:16:17] aldric123: (12...Re8) I think Bg5 here hmm
+[19:16:47] fireball100: go Aldric!
+[19:16:47] aldric123: (12...Re8) e4 could be in problems in some lines though
+[19:17:03] minot: I was between Re8, Rc8, and a6. it is too early to take on d4
+[19:19:04] aldric123: (13.Bg5) I'm seeing some lines where I might end up trading b5 for e4 which is a crappy trade
+[19:19:04] aldric123: (13.Bg5) Let's hope I can avoid that.
+[19:20:04] aldric123: (13.Bg5) If a6 (which is normal in this stuff to play c5) I probably play a4
+[19:24:07] aldric123: (14.a4) exd4 Nexd4 c5 Nf5 is what I'm banking on
+[19:25:07] aldric123: (14.a4) If b4 Hmm I may have to take on e5 but I don't want to
+[19:25:22] aldric123: (14.a4) Hmm I probably don't have to
+[19:26:23] aldric123: (14.a4) If Nb6 I probably want to play axb5 though I could throw in dxe5 since there wouldn't be a Knight to take back
+[19:27:24] aldric123: (14.a4) Yeah I don't expect Nb6, but if he played it I think dxe5 Bxe5 Nxe5 Rxe5, hmm maybe f4
+[19:27:54] aldric123: (14...Rc8) yeah like I figured no Nb6
+[19:28:09] aldric123: (14...Rc8) this move makes unfortunate sense
+[19:29:56] aldric123: (14...Rc8) If Ng3 h6 is annoying
+[19:30:56] kyriakos1301: Let's go Aldric
+[19:30:56] aldric123: (14...Rc8) might be time to take on e5 sigh
+[19:32:27] aldric123: (15.dxe5) Hey Kyriakos
+[19:33:28] aldric123: (16...Bxe5) f4 is tempting, but you have to be careful
+[19:34:44] aldric123: (17.f4) forget careful
+[19:35:14] aldric123: (17.f4) He can of course do Qb6+ and be able to move the knight, though the bishop is still hanging after Qb6+ Kh1
+[19:35:44] aldric123: (17.f4) If he does Bd4+ I won't take, I'll move Kh1
+[19:36:30] aldric123: (18.Kh1) I'm vaguely threatening e5, but not really because h6 I think
+[19:36:45] aldric123: (18.Kh1) it's complicated though
+[19:37:46] aldric123: (18...h6) At first I was thinking Bxf6 Qxf6 e5, but of course he can do Bxf6 Bxf6
+[19:38:01] aldric123: (18...h6) is he really thinking Bh4 g5 hmm?
+[19:39:01] aldric123: (19.Bh4) Let's find out
+[19:40:02] aldric123: (19...Qb6) thought he might do this
+[19:40:32] aldric123: (19...Qb6) Bxf6 or Nxd4 seem likely
+[19:41:03] minot: (19) I think w still has the initiative so I may have played a couple of inaccuracies but the position is playable
+[19:41:18] aldric123: (20.Bxf6) after Bxf6 I was thinking e5
+[19:41:48] aldric123: (20.Bxf6) have to pay attention to g2 when eventually c5 happens
+[19:43:04] aldric123: (21.e5) Maybe Be4 next to head that off, but then you have to worry about f6 perhaps
+[19:43:34] aldric123: (21...Be7) If I do want to move to Be4 I should probably throw in Bh7+ first
+[19:43:34] aldric123: (21...Be7) to try to misplace the K
+[19:44:05] minot: (21) I think the bishop pair justifies the given compensation
+[19:44:20] aldric123: (21...Be7) Ng3 seems possible too
+[19:47:53] aldric123: (22...c5) I was thinking of throwing in axb5 now then I'll likely do the Bh7+ and Be4
+[19:48:54] aldric123: (23...c4) wondered if he'd throw that in
+[19:49:54] aldric123: (25.Be4) I guess I coulda thought about throwing in 25.bxa6
+[19:50:10] aldric123: (25.Be4) I shoulda thought about it longer
+[19:50:10] aldric123: (25.Be4) but too late!~
+[19:50:25] aldric123: (25...axb5) yeah I'm feeling a bit of regret I didn't think about it
+[19:52:26] aldric123: (25...axb5) I think I like Nf5
+[19:54:58] aldric123: (26...Bf8) probably time to remove the bishop pair
+[19:59:16] aldric123: (28...Red8) Thinking about Rd2 intending Rad1
+[19:59:32] aldric123: (28...Red8) Hmm Rd2 g6 where to go
+[20:00:18] aldric123: (28...Red8) I guess just Nd6 and if Bx which seems force exd6?
+[20:01:03] aldric123: (29.Rd2) hmm actually probably shoulda went Nd6 immediately, I now see Bb4 is annoying
+[20:01:49] aldric123: (29.Rd2) I probably have to choose between Re2 and R2d1 and claim I'm a putz
+[20:03:20] aldric123: (30...Qe4) feel kinda forced to do the Nd6 now
+[20:04:36] aldric123: (32.exd6) gonna have to "waste" a tempo to protect back rank soon
+[20:05:07] warvold: (32.exd6) Go aldric!
+[20:06:38] aldric123: (32.exd6) If he doesn't play Rd8 now, Re1 followed by d7 is annoying
+[20:07:08] aldric123: (32.exd6) if he does play Rd8 I probably have to play h3
+[20:08:40] aldric123: (32.exd6) Qd3 is kinda interesting
+[20:08:55] aldric123: (32.exd6) Have to do Rd1 I guess
+[20:12:42] aldric123: (32.exd6) If Rd8 Rd1 seems safest I think
+[20:16:15] aldric123: (33.Rd1) I may have to do a slowish Kg1 g3 in order to free up my Q
+[20:17:30] aldric123: (33...Qf5) Didn't expect that, have to think
+[20:18:16] aldric123: (33...Qf5) d7 intending Qd6 next seems aggressive
+[20:22:03] aldric123: (35.h3) Probably Qd6 next if he doesn't do something like Qe6 or whatever
+[20:25:05] antazhi8: Black should play h5 I think, then h4
+[20:26:06] antazhi8: If b & c pawns fall for d pawn with rooks off the board, only having some sort of perpetual check with Qe1-g3 should be easy draw
+[20:27:36] aldric123: (35...Qe4) Qa5 seems tempting
+[20:28:37] aldric123: (35...Qe4) seems like only few moves are Qe7 or things like Qc2 e2
+[20:29:38] aldric123: (35...Qe4) Qa5 Qc2 Rd2 Qc1 is funky
+[20:30:08] aldric123: (35...Qe4) Because there might by Kh2 Rxd7 with trying a perpetual
+[20:31:09] antazhi8: Qa5 Qc2 Qxd8 looks winning for White, don't see a perpetual
+[20:31:24] aldric123: (36.Qa5) I decided if Qc2 Qxd8 Qxd1+ Kh2 and I don't believe there's a problem
+[20:31:54] aldric123: (36.Qa5) though maybe Qd6 is annoying
+[20:31:54] antazhi8: so following Qd6 looks good
+[20:32:39] aldric123: (36.Qa5) of course if Qe7 presumably I can just do Qxb5
+[20:33:25] aldric123: (36.Qa5) endgames with Qs are complicated though
+[20:33:40] aldric123: (36.Qa5) Qe7 Qxb5 Qe2 might be annoying
+[20:33:55] antazhi8: Qe8 Qxf4 Kg1 Qd4+ Kf1 maybe White can cross over with their king
+[20:34:10] aldric123: (36.Qa5) hi Warvold
+[20:34:41] aldric123: (36...Qc2) It goes without saying that if anything goes to a8 I take it and push the pawn
+[20:34:41] aldric123: (36...Qc2) ah he goes for the interesting line
+[20:34:41] aldric123: (36...Qc2) sigh
+[20:38:58] aldric123: (38.Kh2) I decided Rxd7 didn't work
+[20:39:13] aldric123: (38.Kh2) But by the same token, I don't think I'm yet threatening Qxd8 yet
+[20:40:44] aldric123: (39...Qxf4+) I thought no perpet, but hmm
+[20:41:15] antazhi8: 38...Qe8 was interesting, with the idea of b4 Qxb4 Rxd7
+[20:41:45] aldric123: (41.Kf2) Well, we have to try
+[20:43:31] aldric123: (41.Kf2) I think Qxb2+ Rd2 is maybe ok, if Qf4+ we try Ke2
+[20:44:16] minot: there are crazy lines but i doubt any works lol
+[20:46:02] aldric123: (41...Qf4+) maybe e1 over e2
+[20:48:04] minot: this is a mine field for w
+[20:48:34] minot: but objectively winning prob
+[20:48:49] aldric123: (43.Kd2) he's gonna have 20 pawns for the rook
+[20:49:04] aldric123: (43.Kd2) but I think no perpet!
+[20:49:34] aldric123: (43.Kd2) or is there
+[20:50:20] aldric123: (44.Kc1) 43...Qf4+ was the try at a perpectual I think
+[20:50:20] aldric123: (44.Kc1) dunno if it worked or not
+[20:51:51] aldric123: (45.Qxb5) hope he doesn't do c3
+[20:52:06] aldric123: (45.Qxb5) I almost didn't play Qxb5 cuz of it
+[20:52:36] aldric123: (45.Qxb5) though maybe Qd3+ works because my king will get in front of the 3 pawns
+[20:54:38] minot: ah only if I could take that last pawn, it would be very difficult for w to convert
+[20:57:39] fireball100: Qd5..
+[20:59:10] simonwashere: gg
+[20:59:26] fireball100: GG!
+[20:59:26] mizrab: gg
+[21:02:57] minot: wow 17...c5 what a move
