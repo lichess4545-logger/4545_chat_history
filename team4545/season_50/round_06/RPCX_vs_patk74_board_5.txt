@@ -1,0 +1,238 @@
+Lichess game chat log
+Game      : https://lichess.org/cBu3313l
+White     : rpcx
+Black     : patk74
+Time      : 45+45
+Captured  : 2026-10-27 05:02:17 UTC
+Game ended : 2026-10-27 03:42:08 UTC
+Messages  : 228
+────────────────────────────────────────────────────────────
+
+[01:43:17] rpcx: missed bc8 ideas but so did my opponent
+[02:07:45] rpcx: i want to grab the f pawn but it looks so greedy
+[02:08:46] nyanners: greed is good, unless its bad
+[02:09:31] inter-temporal: nynanners, MD, PhD, MpH, and WGM (soon) is in da houooose!
+[02:09:46] nyanners: probably not XD
+[02:09:46] rpcx: qxf7 rf8 qe7 bb6 rd2 then what ?
+[02:09:46] inter-temporal: not in da houooooose!
+[02:10:32] nyanners: i think i wouldnt take, of course theres the lasting compensation but
+[02:10:32] inter-temporal: what kind of trouble has RPCX gotten himself into...
+[02:10:32] nyanners: theres also the line rf8 into rxf2
+[02:10:32] inter-temporal: (23...Qh3)
+[02:11:17] nyanners: right now its fine. theres no problem
+[02:11:17] rpcx: maybe rf1 insread of rd2 and attack the c pawn when he tries to grab the e pawn ?
+[02:11:47] inter-temporal: scotch gambit structure looks familiar
+[02:12:03] inter-temporal: familiar, as in, i still don't know how to play it (as black)
+[02:12:18] nyanners: it's a beautiful day outside. birds are singing, flowers are blooming
+[02:12:18] nyanners: you know
+[02:12:33] inter-temporal: sweet!
+[02:12:48] nyanners: if you take on f7 those things will still be true
+[02:12:48] nyanners: but you might get checkmated
+[02:13:03] inter-temporal: f pawns are mutually terrified
+[02:13:18] nyanners: so well, on the mention of checkmate, i just saw Rd4-Rh4
+[02:13:18] inter-temporal: one f-pawn is solely terrified
+[02:13:18] nyanners: that looked nice
+[02:13:33] inter-temporal: (24.Qxf7)
+[02:14:04] nyanners: black's f-pawn found solace in death.. no, that doesnt sound right
+[02:14:34] inter-temporal: the f2-pawn is drawing up a will. "i bequeath to Nynanners, all my titles
+[02:14:49] nyanners: black playing that very quickly
+[02:14:49] inter-temporal: , my belongings, my house in the hamptons...."
+[02:15:04] nyanners: i suppose its a good move :o
+[02:15:19] nyanners: but Qg5
+[02:15:35] inter-temporal: and Qc5! hello
+[02:15:35] inter-temporal: maybe tha's bad too
+[02:15:35] nyanners: no Qc5 is what black wants
+[02:15:50] inter-temporal: oof
+[02:15:50] nyanners: you can figure it out yourself
+[02:16:05] inter-temporal: dark squares...
+[02:16:50] gavalanche20: (26.Qg5) Oh yeah Qc5 Bb6
+[02:16:50] nyanners: yea i dont know. maybe black has gained Re6-Rh6? very concrete
+[02:17:05] inter-temporal: was Qh4 playable
+[02:17:20] nyanners: Qh4 is bail. you will probably lose a pawn and be slightly worse
+[02:17:20] nyanners: but yeah sure
+[02:17:36] inter-temporal: versus checkmate. tough decision. can i sleep on it?
+[02:17:36] wave2679: Isn't the queen borderline trapped
+[02:17:51] wave2679: Like if f4
+[02:17:51] inter-temporal: it can retreat now
+[02:18:06] inter-temporal: to c1 i guess
+[02:18:21] inter-temporal: or black's Q?
+[02:18:21] wave2679: Yeah I suppose, the white queen feels wrong
+[02:18:21] wave2679: No blacks queen is fine
+[02:18:51] wave2679: Something like re6 and then h6
+[02:18:51] wave2679: or rh6
+[02:18:51] inter-temporal: Rd4 could go places, if it was white's move
+[02:19:37] nyanners: the time for Rd4 was before Rxf7
+[02:19:52] nyanners: now its all rooks on the second or something
+[02:19:52] inter-temporal: there's still a Re2, perhaps?
+[02:20:07] nyanners: wait wait. Rf5 forces Qh4 it seems
+[02:20:22] nyanners: and then, well, black is a little better
+[02:20:22] wave2679: Rf5?
+[02:20:37] nyanners: thats an "easy" line. black can try to play for more for sure
+[02:20:52] nyanners: yeah like, Rf5 and white cant attack any of the rooks, and Rh5 is coming
+[02:20:52] nyanners: and white cant afford that
+[02:21:08] inter-temporal: (26.Qg5) black's back rank gets weaker...
+[02:21:23] wave2679: I'm curious if your busted on rf5 qe3 rh5 qf3 qxh2+ if you're okay
+[02:21:38] wave2679: Or*
+[02:21:38] nyanners: qe3 bb6
+[02:21:53] inter-temporal: that sneaky sniping dsb
+[02:22:08] wave2679: Ah yeah
+[02:22:08] nyanners: id probably have started with Bb6 but leaving it in reserve gains this kind of sniping potential xd
+[02:22:08] wave2679: My idea was to gambit the h2 pawn to activate the rooks on the h file
+[02:22:23] nyanners: just dont forget to play it
+[02:22:54] nyanners: white has a lot of tempting lines everywhere that fail to Bb6
+[02:22:54] nyanners: Rf5 Qd2 would be another one
+[02:23:09] wave2679: Yeah
+[02:23:54] wave2679: Would it be worth it to go for b4 and then na4 to get rid of the DSB
+[02:24:09] wave2679: Assuming we don't see rf5
+[02:24:40] gavalanche20: (26.Qg5) Absolutely but b4 Bb6 I don't think you have Na4 immediately
+[02:25:10] wave2679: Yeah maybe you'd have to play rf1 first or re2
+[02:25:40] inter-temporal: (26.Qg5) the position seems sensitive to tempos. it's likely good to let black use a move on Bb6
+[02:25:55] gavalanche20: (26.Qg5) This position for White is giving if my grandma could play e4 Bc4 Qh5 Qf7# she'd be a bike
+[02:26:26] inter-temporal: (26.Qg5) be nice to old people, gav
+[02:26:56] wave2679: Wait
+[02:26:56] mqll: Wow
+[02:26:56] inter-temporal: (26.Qg5) hm
+[02:27:11] wave2679: Either I'm missing something
+[02:27:11] nyanners: umm i mean
+[02:27:26] wave2679: Or the king can safely run to c1
+[02:27:41] nyanners: i saw this idea XD but i think it made more sense without the insertion of Rae8
+[02:27:41] inter-temporal: (26...Rxf2) "Always threaten mate in 1
+[02:27:41] inter-temporal: (26...Rxf2) --Capablanca
+[02:27:41] nyanners: surely the queen on g5 is better than the queen on e7
+[02:27:57] wave2679: Ah is the idea
+[02:28:12] nyanners: but we will see
+[02:28:12] wave2679: rxf2, qxh2+
+[02:28:12] nyanners: yes
+[02:28:27] wave2679: Kxf2*
+[02:28:57] gavalanche20: (27.Kxf2) Yeah surely it's Qh2
+[02:28:57] wave2679: I think it works with perfectly accurate play
+[02:29:12] inter-temporal: (26...Rxf2) 6 possible checks...
+[02:29:12] wave2679: I'm also curious about maybe bb6+ first
+[02:29:27] inter-temporal: (27.Kxf2) 3 safe checks
+[02:30:13] nyanners: yeah not sure about the move order nuances here
+[02:30:28] inter-temporal: (27.Kxf2) Rf8+ first, i think
+[02:30:43] wave2679: rf8+ seems the least forcing of the checks
+[02:30:58] inter-temporal: (27.Kxf2)  but for that dude, isn't it now or never
+[02:31:28] nyanners: problem with rf8 is white seems to just have kg1?
+[02:31:28] wave2679: I think bb6+ is the right move it seems to force either kf3 or ke2, on ke2 you have qxh2+ and nothign can block
+[02:31:44] inter-temporal: (27.Kxf2) black might need Rf3+ at some point
+[02:31:44] nyanners: seems qxh2 and bb6 will just transpose with the king ending up on d3
+[02:31:44] nyanners: and then idk what happens
+[02:32:14] nyanners: i would guess its not working
+[02:32:29] wave2679: I know rf8+ is wrong for sure
+[02:32:29] nyanners: rf8 is wrong if kg1 is good
+[02:32:44] nyanners: which it should be
+[02:32:59] inter-temporal: (27.Kxf2) ...Rf8, Kg1!! really?
+[02:32:59] wave2679: You seem to be safe
+[02:33:14] inter-temporal: (27.Kxf2) holy crap.
+[02:33:14] nyanners: i mean surely its the most natural move in the position XD
+[02:33:14] inter-temporal: (27.Kxf2) lol
+[02:33:14] nyanners: like if you have the choice between g1 and e2.. you know..
+[02:33:30] wave2679: If worst comes to worst you can play re3 on bb3
+[02:33:30] wave2679: Nvm there's a fork
+[02:33:45] wave2679: Bb6*
+[02:34:00] gavalanche20: (27.Kxf2) That darn bishop yet again haha
+[02:34:15] inter-temporal: (27.Kxf2) Kg1, right into the eye of the hurricane. after i've been wanting to run for the last hour. nah
+[02:34:30] wave2679: Wait what does white play after rf8+ kg1 bb6+ kh1 rf2
+[02:34:45] wave2679: Oh mate
+[02:35:00] wave2679: Maybe don't try calculating one 3 hours of sleep...
+[02:35:00] inter-temporal: (27.Kxf2) yeh, but
+[02:35:16] inter-temporal: (27.Kxf2)  if you see mate in 1, look for a better move--Lasker
+[02:35:16] gavalanche20: (27.Kxf2) Ok Qh2 Kf3 Rf8+ Kg4 h5+, if Ke3 instead...?
+[02:35:46] wave2679: h5+?
+[02:36:01] wave2679: Qxh5+?
+[02:36:16] gavalanche20: (27.Kxf2) Oh wait not enough defenders on h5 lol
+[02:36:16] rpcx: my opponent is going to make his move then we are going to figure it out from there probably in lots of trouble but it looks interesting
+[02:36:31] nyanners: white is chilling. i respect it
+[02:36:46] nyanners: calculate in opponents time?? naaahh i dont know whats happening. let it be
+[02:37:32] nyanners: since mental effort is a finite resource it makes enough sense to just wait to see what lands
+[02:37:47] nyanners: you have enough time for now
+[02:38:02] wave2679: I'm for bb6+ personally
+[02:38:17] wave2679: I think it's somehow more forcing then qxh2+
+[02:39:03] gavalanche20: (27.Kxf2) I feel like once the king gets to d3 it feels weirdly hard to get at White?
+[02:39:03] wave2679: Rf8+ kg1 is also interesting
+[02:39:18] nyanners: no yeah if i was a betting person id bet that white is okay
+[02:39:33] nyanners: wait, i AM a betting person
+[02:39:33] inter-temporal: (27.Kxf2) no. not again. not goin to g1
+[02:39:48] gavalanche20: (27.Kxf2) e.h. Bb6+ Ke2 Qh2 Kd3 and if you're not mating immediately Rh1 looks bothersome
+[02:39:48] inter-temporal: (27.Kxf2) right into the mouth of the dragon
+[02:40:03] nyanners: i mean its just Rf8 Kg1 Bb6 Kh1 and thats it?
+[02:40:18] nyanners: queen on g5 even helps making sure there wont be h-pawn push
+[02:40:34] wave2679: I'm wondering if after kg1 and bb6+, kh1 do you have time for h6? because if you do rf2 is curtains
+[02:40:49] nyanners: bail with Qh4 too
+[02:40:49] inter-temporal: (27.Kxf2) maybe indeed nothing works
+[02:40:49] nyanners: that line just seems really easy
+[02:41:04] gavalanche20: (27.Kxf2) I guess all this to say none of this feels better than Rf5 from earlier unfortunately
+[02:41:49] wave2679: After calculating positional play stuff for 2 hours earlier today, this is a welcome break
+[02:43:05] wave2679: Don't go kf1
+[02:43:50] wave2679: I think before rae8 this would of worked maybe
+[02:44:21] inter-temporal: (27.Kxf2) i was looking at a couple games from the Hasting tournament, 1895. i've moved on to one in 1897
+[02:44:21] inter-temporal: (27...Qxh2+) where Alapin gets his but kicked
+[02:45:06] wave2679: Does kf3 and ke3 transpose?
+[02:46:22] wave2679: I think blacks attack is gone
+[02:46:22] wave2679: rf8+ kg4 and then what
+[02:46:52] nyanners: kg4 eh
+[02:46:52] nyanners: legit
+[02:47:07] wave2679: I mean at a quick glance it seems to be safe
+[02:47:22] inter-temporal: (27...Qxh2+) a magnus move
+[02:47:22] nyanners: g6 h5?
+[02:47:38] nyanners: probably not
+[02:47:53] inter-temporal: (28.Kf3) black gets 2 moves, then white is screwed
+[02:48:53] nyanners: so maybe it was Bb6+ first or.. well not Rxf2 i guess
+[02:49:08] wave2679: I think the e pawn is strong enough even if they get 2 moves
+[02:49:39] wave2679: But rf8 needs to be played or you're admitting you have nothing
+[02:49:54] nyanners: what if you do have nothing
+[02:49:54] nyanners: :<
+[02:50:09] wave2679: Then uh
+[02:50:09] wave2679: :c
+[02:50:39] inter-temporal: (28.Kf3) instead of 26...Rxf2, maybe 26...Rf5
+[02:50:54] wave2679: This is an interesting idea
+[02:51:10] wave2679: I don't see the point after re2
+[02:51:40] inter-temporal: (28...Qxc2) circle around to the back door, creating a protected passer on d5
+[02:52:10] wave2679: But re2 forces qa4 or qb3
+[02:52:25] wave2679: Wait
+[02:53:56] rpcx: i don't see any problems for me at this point
+[02:53:56] inter-temporal: (28...Qxc2) we don't want to see ....Qf5, but the clock...
+[02:54:26] inter-temporal: (30.Kg2) it guess it only trades a pair of rooks
+[02:54:57] inter-temporal: (30...Qg6)  and Rf1 anyway
+[02:55:42] inter-temporal: (30...Qg6) or Rdf1 maybe
+[03:10:05] wave2679: Lowkey I might of given the exchange on bb6, completely unnecessary of course but it removes the bishop
+[03:12:06] rpcx: this position annoys me deeply how did i end up here
+[03:21:42] inter-temporal: (40...Bc5) Qh6-f4
+[03:22:12] inter-temporal: (42.Qh6) but maybe Rh1 too
+[03:23:28] rpcx: this is getting kind of rediculous \\]
+[03:24:13] inter-temporal: (42...Be7)  Qf4 Qh5+, Kg2 Qh3+, Kf2 Bc5+, Ke1 and run
+[03:26:45] rpcx: kind of funny how many one move threats just exist in a row
+[03:26:45] inter-temporal: (42...Be7) Qd2 now
+[03:27:30] inter-temporal: (45...Rf8) or Qe3 Rf3, Qe5+ might work
+[03:27:30] gavalanche20: (45...Rf8) "This position annoys me deeply" ngl could be a team name
+[03:27:45] rpcx: now i should have e7 i think
+[03:27:45] inter-temporal: (45...Rf8) lol
+[03:28:31] inter-temporal: (45...Rf8) Qe3 my dude, then Qe5+ is a huge relief
+[03:29:01] inter-temporal: (46.e7) Qe5+!
+[03:29:16] gavalanche20: (46...Bxe7) Bf6 in the end though...?
+[03:29:31] inter-temporal: (46...Bxe7) after QxQ?
+[03:29:46] inter-temporal: (46...Bxe7) oh, before
+[03:30:17] gavalanche20: (47.Qxg4) No Qe5 Qe5 Re5 Bf6
+[03:31:02] inter-temporal: (46...Bxe7) yeh, i misunderstood
+[03:32:18] inter-temporal: (47.Qxg4) this should make things a little easier (after ..,.Bc5+, Kg2)
+[03:34:04] inter-temporal: (48...Bc5+) my dude! lol
+[03:34:19] inter-temporal: (50...Qxf8) okay. he likes his Q
+[03:36:50] inter-temporal: (50...Qxf8) Qd7+ looks good
+[03:36:50] inter-temporal: (52.Qd7+)  good
+[03:37:21] inter-temporal: (52.Qd7+) just never stop checking. :)
+[03:37:36] inter-temporal: (52...Kg6) or now you can
+[03:37:51] inter-temporal: (53...Bd6)
+[03:38:06] inter-temporal: (53...Bd6) Nxd5 and he's free
+[03:43:09] rpcx: i did end up missing one threat in the end
+[03:43:24] inter-temporal: (54.Qxd5) gg
+[03:44:09] inter-temporal: a perpetual combo. hard to spot
+[03:44:40] patk74: My rook sacrifice did not work
+[03:44:40] inter-temporal: black has to sac the other rook for that. but good one
+[03:45:10] nyanners: gg
+[03:45:10] inter-temporal: black was good until 26...Rxf2
+[03:45:25] inter-temporal: there is a link to overlength chat
+[03:45:40] patk74: yeah now i see it
+[03:45:55] inter-temporal: i don't have the link on this computer, but u can ask in general
+[03:46:56] inter-temporal: and indeed, if 27...Rf8+ 28.Kg1! no fear
+[03:47:26] inter-temporal: but SF can defend via 28.Ke3 as well
