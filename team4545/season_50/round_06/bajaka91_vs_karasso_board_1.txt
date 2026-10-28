@@ -1,0 +1,230 @@
+Lichess game chat log
+Game      : https://lichess.org/JuxS7hpo
+White     : bajaka91
+Black     : karasso
+Time      : 45+45
+Captured  : 2026-10-28 23:52:26 UTC
+Game ended : 2026-10-28 22:32:11 UTC
+Messages  : 220
+────────────────────────────────────────────────────────────
+
+[20:05:34] qrs: Go karasso!
+[20:08:06] angborxley: (10.hxg3) go karasso!
+[20:12:24] karasso: (10...a5) idea is Na6-c7-e8-d6.and then Re8 with Nfe4 or Be6 Qd7 Bf5
+[20:15:41] karasso: (11.f3) f3 is weird, this plan works better if the pawn would still be on h2 instead of g3. Also you normally castle first
+[20:27:04] nyanners: i dont know why my first thought is "i like white"
+[20:27:19] nyanners: now it is known
+[20:32:37] karasso: (13...Nce8) this kind of invites playing e4 before i get my knight to d6, but after e4 dxe4 fxe4 Ng4 stopping castle follwed by Qg5
+[20:35:54] karasso: (14.g4) i missed that and now i don't even have Ne6...
+[20:36:40] karasso: (14.g4) this plan is normally realy bad for white against h6 Bg3-Bxg3, but i guess i found the one variation where it actually works ^^
+[20:41:58] karasso: (14...Bxg4) well by bishop was anyway not a great piece and playing Nd7 looked aweful
+[20:42:29] qrs: (14 ... Bxg4) wow, that’s commital
+[20:42:29] karasso: (14...Bxg4) probably Nd7 was still the better move, but this looks way more fun
+[20:42:59] inter-temporal: just in time
+[20:43:45] karasso: (14...Bxg4) i get two pawns and some pressure agaisnt e3.  his kind is also still in the cebter and 0-0-0 is not possible because of Nf2
+[20:43:45] karasso: (14...Bxg4) for the time being
+[20:44:30] karasso: (16.Qd2) but objectivly this has to be bad/lost for me
+[20:46:01] karasso: (16...Nd6) if he castles long at some point i have also b5 b4.
+[20:50:49] karasso: (16...Nd6) at least my knight reached d6, where it is in fact a nice piece. That i had to sac one piece to get there was not the plan
+[20:51:04] karasso: (16...Nd6) but so is life
+[20:52:20] karasso: (16...Nd6) and the longer i look at it, it is not that easy for him. Re8 will be annoying
+[20:52:51] karasso: (16...Nd6) and i don't think he wants to play Nd1 to defend the pawn with the king on e1
+[20:56:39] qrs: (16 ... Nd6) white could play e4 here though? It seems counterintuitive but it does seem to buy enough time to then get O-O-O in?!
+[20:57:09] qrs: Like for example e4 dx Nx Nx Bx Re8 Bf3 ... O-O-O
+[20:57:39] qrs: And if not dx maybe even e5 (or exd, not sure)
+[20:58:40] qrs: Ah, wait. There is Nf2 for black after O-O-O
+[20:59:10] qrs: So deal with that then O-O-O
+[20:59:26] qrs: (17 e4) here it comes
+[21:00:26] nyanners: feel like i definitely like white more after xg4 :o
+[21:00:41] nyanners: clearly, my intuition foresaw this
+[21:02:12] nyanners: i think O-O may be pretty legitimate
+[21:02:28] nyanners: between all the options feels like white should live
+[21:12:19] karasso: (18...Nf5) after 0-0-0 i sadly can not play Nf2 because of Rhf1 Nxd1 Rxf5 and my knight on d1 is traped
+[21:13:20] karasso: (18...Nf5) but i think i can take on d4 without blundering my queen after Nxd4 Nxd4 Qxd4
+[21:15:52] karasso: (18...Nf5) 18...Re8 Qf4 or Nxe4 Bxe4 Re8 Bf3 (or mybe Qf4 again) Ne3 Kf2 seemed bad
+[21:22:41] karasso: (18...Nf5) 0-0-0 Nf2 does also not work because of Nxf2, which is somewhat easier than Rhf1....
+[21:39:22] qrs: (20 Qf4) f5 seems necessary in order to not lose a piece as black?!
+[21:43:40] nyanners: white being on the attack now is crazy
+[21:45:41] inter-temporal: (22.O-O-O) is ...b5 coming now
+[21:47:12] inter-temporal: (22.O-O-O) nah, doesn't work out
+[21:49:14] qrs: Nxe2+ first
+[21:49:29] inter-temporal: (22...Nxe2+) where to put the black Q...
+[21:49:44] qrs: e7 maybe?
+[21:50:14] inter-temporal: (22...Nxe2+) looks like f-pawn could drop
+[21:50:30] inter-temporal: (22...Nxe2+) ...Qe7, Bxg4 fxg4, Qxg4
+[21:50:45] inter-temporal: (23.Bxe2) oh but counter the N
+[21:50:45] inter-temporal: (23...Qe7) maybe so
+[21:51:00] inter-temporal: (23...Qe7) how to get another tempo
+[21:51:30] inter-temporal: (23...Qe7) or Bxg4 fxe4... wth
+[21:52:16] qrs: (24 Bxg4) is this really good for white? fxe now i'd suppose ?!
+[21:52:46] inter-temporal: (23...Qe7) maybe there was 24.Ng5 idk
+[21:53:16] qrs: 24 Ng5 Qxe2 ?
+[21:53:47] inter-temporal: (24...fxe4) yeh, i hadn't worked it out ... probably bad
+[21:54:02] qrs: 24 Ng3 maybe, or Nc3
+[21:54:02] qrs: But well, water under the bridge
+[21:57:04] qrs: (25 Qe3) if nothing else, time is definitely a factor in favor of black now
+[21:59:20] inter-temporal: (24...fxe4) anything goes
+[21:59:50] inter-temporal: (25.Qe3) black has to keep watching for the sac on h6
+[21:59:50] giziti: (25...Rae8) is Rd7 annoying here?
+[22:00:06] karasso: (25...Rae8) rd8 Rxd8 Rxd8 and Rxh6+ would win for white
+[22:00:21] karasso: (25...Rae8) this position is way worse then i hoped ^^
+[22:00:36] inter-temporal: (25...Rae8) indeed, the sac on h6 is a constant issue
+[22:01:37] giziti: (26.Rdh1) I guess Rd7 Qf6 was fine for black
+[22:02:22] inter-temporal: (25...Rae8) ...Rf6
+[22:02:52] micomps: If I was white here, with the time situation, I'd play Rd7 immediately and hope for the best
+[22:03:08] micomps: Oops, was still on move 26
+[22:03:08] micomps: ignore me
+[22:03:08] inter-temporal: (26...Rf6) at 26. yeh
+[22:03:23] inter-temporal: (27.Be2) just simplify a bit
+[22:03:23] giziti: (27.Be2) but yeah I agree on the previous move. black is probably fine after it but seems good
+[22:03:53] giziti: (28.g4) nobody ever got fired for putting a rook on the 7th
+[22:04:08] inter-temporal: (27.Be2) hello N-pawns ...b5 and ...g4
+[22:04:39] inter-temporal: (28.g4) come battle Opp's R-pawns to the death
+[22:04:54] micomps: Anything wrong with 28...Rg6?
+[22:06:10] inter-temporal: (28.g4) see that's that "concrete" thinking yall do
+[22:06:25] inter-temporal: (28...Rg6) us lower boards are like "but it's a light square; and no open file and blah, blah, blah"
+[22:07:41] inter-temporal: (29.Rh5) might be nice to have Rh3 already to swap out blockaders
+[22:08:41] micomps: I have no idea if 30.a4 is good, but I like it
+[22:08:56] micomps: White's king is starting to look a bit chilly though
+[22:09:27] inter-temporal: (30.a4) nah, he's just trembling with fear
+[22:09:27] nyanners: a4 is not what i would have thought
+[22:09:42] nyanners: follows the "if it works it works" principle
+[22:09:42] nyanners: it just might
+[22:10:12] inter-temporal: (30.a4) white might pick off some pawns
+[22:11:13] nyanners: like id be terrified to play a4 but a line like this seems like
+[22:11:13] micomps: (30...Qb4) black has completely blunted the attack here
+[22:11:13] nyanners: just take take take and youre on magnus's payroll
+[22:11:28] nyanners: and its all good
+[22:11:43] micomps: unless...time for g5 and pray?
+[22:11:58] nyanners: i dont see a problem with taking b5
+[22:11:58] nyanners: its arguably safer at this point :o
+[22:12:14] micomps: not sure I want to open the c-file
+[22:12:29] inter-temporal: (30.a4) "Always win a pawn"--Capablanca
+[22:12:29] nyanners: i mean, the alternative to allow xa4 seems clearly worse
+[22:12:44] micomps: (he says, when suggesting saccing the only kingside pawn left against 3 pawns)
+[22:12:59] micomps: That's why you play g5 now Nyanners! :)
+[22:12:59] micomps: Attack Attack Attack
+[22:13:14] micomps: (31.axb5) :(
+[22:13:14] inter-temporal: (30...Qb4) safety first
+[22:13:44] nyanners: if all those lines work thats kinda insane
+[22:14:00] nyanners: that the position seems double-edged but actually white is just clearly better everywhere
+[22:14:00] nyanners: like yeah what now
+[22:14:30] inter-temporal: (31...cxb5) ...Rxg4 get it back?
+[22:14:45] nyanners: id strongly feel the chess depression kicking in as black at this point
+[22:14:45] nyanners: why does nothing work
+[22:15:00] nyanners: for the entire game
+[22:15:00] inter-temporal: (32.Rxb5) he knew the sac was unsound
+[22:15:31] micomps: @inter-temporal shhh
+[22:15:31] qrs: (32 Rxb5) Qa4 if nothing else comes to mind? Kb1 Rxg4
+[22:15:46] micomps: It was definitely, completely sound.....
+[22:15:46] inter-temporal: (32.Rxb5) lol
+[22:16:16] nyanners: i suppose the bottom line remains
+[22:16:16] grzybozbur: qa4 qb3
+[22:16:16] nyanners: when you see a bad move, dont play it
+[22:16:31] nyanners: its bad! why would you do that
+[22:16:46] giziti: (33.Kb1) one simple trick to win the chess
+[22:17:17] inter-temporal: (33.Kb1) holy cow
+[22:17:17] nyanners: is it already time to just trade
+[22:17:32] giziti: (33...Qa4) doesn't qb3 just win it for white with the forced trade, yeah?
+[22:17:47] qrs: Qa4 Qb3 wouldve resulted in Qa1+ (before Rc5+ that is ofc)
+[22:18:02] nyanners: white also checks
+[22:18:02] qrs: So 32 Qa4 for black i thought, not 33 Qa4
+[22:18:17] qrs: Ah nvm
+[22:18:33] qrs: Qb3+.. ye..
+[22:18:33] karasso: (34.Qd2) Qb3+ is for sure winning, but if i don't trade queens i am just getting mated
+[22:18:48] nyanners: dang white is crazy
+[22:18:48] nyanners: we like it
+[22:18:48] inter-temporal: (33...Qa4) swappin blockaders a different way
+[22:19:03] giziti: (34.Qd2) always looking for a better move i guess
+[22:19:18] nyanners: when you see a good move, look for a bad one, then play it so your time wasnt wasted
+[22:19:18] qrs: (34 Qd2) .. Also Qd5+ huge threat
+[22:19:33] nyanners: of course Qd2 cant be bad tho
+[22:19:48] nyanners: but Qd5 can still be met by the terrible rook block
+[22:19:48] micomps: Qd2 is a classy move
+[22:19:48] micomps: a5 falling
+[22:20:19] nyanners: i mainly see black's chances becoming higher than zero
+[22:20:34] qrs: (34 ... Kh7) was Rec8 an option maybe?
+[22:20:34] nyanners: i like kh7
+[22:20:49] micomps: same Nyanners
+[22:20:49] nyanners: white can already blunder draw in 1 by doing something random with the q
+[22:21:34] nyanners: okay Rxa5 is good
+[22:21:34] inter-temporal: (34.Qd2) enter another passer
+[22:21:50] inter-temporal: (35.Rxa5) and another Q blockader
+[22:22:05] micomps: White is 2500+ in bullet, so time unlikely to be a huge burden here now
+[22:22:20] qrs: 36 Bb5?
+[22:22:20] giziti: (35.Rxa5) so is Bb5 okay here?
+[22:22:50] nyanners: as a veteran degenerate, i can tell you that bullet ratings do not help in such a situation
+[22:23:51] nyanners: the main thing is that white is more likely to not get run by nerves. but the position remains complicated
+[22:24:06] nyanners: anyway yeah now white should be happy
+[22:24:06] giziti: (37.Bxe8) yeah being up a rook for a pawn take a lot of the load off
+[22:24:21] nyanners: trading 1 pair is big
+[22:24:21] jarolos: Rxh6!
+[22:24:21] inter-temporal: (36.Bb5) i thought this was the issue with 32...Rc6+
+[22:24:21] nyanners: more so winning the exchange in the process
+[22:24:37] giziti: (37...Rxe8) like Ra3 and you can take a nap
+[22:24:52] inter-temporal: (37...Rxe8) oof
+[22:24:52] nyanners: rxh6 is 90 trillion iq
+[22:25:07] nyanners: yeahhhhh
+[22:25:07] nyanners: im pretty sure id play Ra3 too
+[22:25:22] micomps: I would look at Rxh6 and convince myself it wouldn't work
+[22:25:22] nyanners: its just the perfect totally-winning time-trouble move
+[22:25:37] inter-temporal: (37...Rxe8) now it doesn't work... and cute trap
+[22:25:52] nyanners: e3 doesnt win but yea white would rather not go there
+[22:26:23] inter-temporal: (38...Qb7) checks!
+[22:26:23] inter-temporal: (38...Qb7) too many checks
+[22:26:23] nyanners: i think id go with Re3
+[22:27:08] giziti: (37...Rxe8) yeah then Rhe1 etc
+[22:27:08] giziti: (39.Re3) or g5
+[22:27:23] giziti: (39.Re3) or a lot of options
+[22:28:09] micomps: I'd go 39...Ra8 and try for some cheapo on the a-file
+[22:28:54] micomps: Maybe play Qf7 now?
+[22:29:09] micomps: Can't play Q onto a-file as allows Ra3
+[22:29:40] inter-temporal: (40...Qf7) Qs on an open board, in time trouble, is impossible to calculate (for me)
+[22:29:55] micomps: (41.b3) not sure about that...
+[22:29:55] micomps: Qa7 now surely
+[22:30:10] giziti: (41.b3) Qa7 feels like there might be a perpet in there
+[22:30:10] nyanners: qb2 right
+[22:30:25] nyanners: these bluffs are barely starting
+[22:30:40] micomps: Well...ok yes, there's that
+[22:30:56] nyanners: black's king is unsafe when e4 is removed
+[22:30:56] nyanners: so you cant even speculate on the diagonal
+[22:31:11] inter-temporal: (41.b3) too many Q moves
+[22:31:11] nyanners: Qe6 is crazy geometry
+[22:31:11] nyanners: i like it
+[22:31:26] micomps: Yeah, that's a much better move than my suggestion
+[22:31:26] giziti: (41...Qe6) Qc2?
+[22:31:41] nyanners: yea like, Qc2 Qa6 and youd like to play Qxe4 but then you lose on Qb2
+[22:31:41] nyanners: probably just stutter Qc2 Qb2
+[22:31:56] nyanners: omg dc
+[22:32:11] inter-temporal: noooo
+[22:32:11] giziti: !!!
+[22:32:11] micomps: In that Nyanners, don't you just play Qxa8?
+[22:32:11] nyanners: white disconnected
+[22:32:11] giziti: wow
+[22:32:27] nyanners: oh i didnt see that
+[22:32:27] nyanners: qxa8
+[22:32:27] nyanners: well id be pretty mad
+[22:32:27] inter-temporal: Never Resign!
+[22:32:42] giziti: that was one of the games of all time
+[22:32:42] nyanners: like flagging is one thing but to disconnect and reconnect just in time to see your time to go down to zero
+[22:32:57] giziti: this is why you premove
+[22:33:12] giziti: jk
+[22:33:12] jarolos: wtf
+[22:33:12] karasso: tbh i really feel bad :(
+[22:33:12] inter-temporal: not ur fault
+[22:33:27] inter-temporal: nothin you can do
+[22:33:27] qrs: Was just thinking whether it’s ok to write GG now
+[22:33:42] inter-temporal: unless you run the internet?
+[22:33:42] inter-temporal: does karasso own the internet?
+[22:33:57] qrs: Sorry for white, but a very entertaining watch
+[22:34:13] karasso: Bxg4 was really to much
+[22:34:28] inter-temporal: i heard it was perfectly sound
+[22:34:58] inter-temporal: maybe just a tad speculative. idk
+[22:35:28] karasso: white played also a borderline perfect game
+[22:35:59] inter-temporal: remarkable.
+[22:36:29] nyanners: something like this is the main reason why i fear for fork and fulmarsky
+[22:36:29] nyanners: has this never happened to them??
+[22:36:44] inter-temporal: 17.e4 was great move
+[22:37:29] karasso: yes, it truly was. missed it ofc (like so many moves this games)
+[22:37:45] karasso: in this game*
+[22:40:46] inter-temporal: indeed. gg. no one knows what would have happened if he stayed on. it is what it is.
