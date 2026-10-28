@@ -1,0 +1,89 @@
+Lichess game chat log
+Game      : https://lichess.org/qzmnrIHQ
+White     : whenrooksfly
+Black     : sivakumarr
+Time      : 30+30
+Captured  : 2026-10-28 00:56:22 UTC
+Game ended : 2026-10-27 23:36:13 UTC
+Messages  : 79
+────────────────────────────────────────────────────────────
+
+[22:46:00] whenrooksfly: 15. I was considering wack ideas like Qb1/Qa1 before I realized they were too funny looking to be good.
+[22:46:15] whenrooksfly: plan is Qe2 Rfc1 and then figure out how to actually play now that my pawns are secured
+[22:46:45] whenrooksfly: was fixated on bringing the Rf1 to d1 but the d4  pawn is already secure
+[22:47:46] whenrooksfly: 15.. I missed there is 16. Qe2 dxc4 dxc4 Nd5!
+[22:47:46] whenrooksfly: oops
+[22:51:18] whenrooksfly: 16. Looking at this position, one begins to wonder why people choose to willingly play Nf3-b3-Bb2 as White
+[23:23:21] whenrooksfly: 39.. playable now
+[23:37:14] sivakumarr: My time management bites me again
+[23:37:14] whenrooksfly: 14. Rc2!!!!!!!!!!!
+[23:37:29] sivakumarr: Happy with my middlegame though
+[23:37:29] whenrooksfly: you were outplaying me
+[23:37:44] whenrooksfly: I calculated the Nd5 idea in another line and then allowed it anyways
+[23:38:14] whenrooksfly: did you consider 21..Bd3?
+[23:38:14] whenrooksfly: Bb3*
+[23:38:29] whenrooksfly: I think it just ends the game on the spot
+[23:39:15] sivakumarr: I saw it as a move, but I didn't think too heavily about it
+[23:39:45] sivakumarr: I was content with some rooks coming off the board, probably should've been focused on how to force a Queen trade
+[23:40:30] sivakumarr: Really should've barricaded my light squares say with 28...Qc6 to deny easy play
+[23:41:31] sivakumarr: 32...Qb7 is such a cute move, but I'm never looking that way with so little time
+[23:41:31] whenrooksfly: what about 28.. Qc6 29. Qa6 Bb8 30. a4?
+[23:42:16] sivakumarr: I don't think it matters
+[23:42:31] sivakumarr: I make luft and call it a day
+[23:42:31] whenrooksfly: I think I can hold a little longer
+[23:42:46] whenrooksfly: but yeah I agree
+[23:42:46] whenrooksfly: *try to hold
+[23:43:01] sivakumarr: Yeah, no longer would I be in a position to potentially blunder kingside
+[23:43:01] whenrooksfly: I think 32.. Qb7 33. Qd4 e5 34. Qc4 still looks a little tough since I still have the f4 idea maybe
+[23:43:32] whenrooksfly: looking without engine since it will say everything is winning for Black
+[23:44:02] whenrooksfly: *little tough as in White is not losing immediately, not Whtie can hold a draw just to clarify
+[23:45:33] sivakumarr: I think f6 poses enough of a barrier that your bishop counterplay would be mostly stifled
+[23:45:48] sivakumarr: After Qe7
+[23:46:18] sivakumarr: Or maybe just directly with Qc4, Qe7 first with Qe4
+[23:46:33] sivakumarr: 10. exd4 really surprised me
+[23:46:33] whenrooksfly: 34. Qc4 f6 35. f4
+[23:47:03] whenrooksfly: I thought the other two options were both worse
+[23:47:03] sivakumarr: At that point, I should have king hunt counterplay
+[23:48:04] whenrooksfly: I think maybe I was hallucinating 10. Qxd4 e5 Qd1 d4 but I think I was playing the opening too fast probably
+[23:48:04] sivakumarr: 10. exd4 looked like an invitation akin to an exchange French where I could try to force an IQP or something
+[23:48:34] whenrooksfly: I was mostly trying to play something you haven't seen much to get a time advantage
+[23:48:49] sivakumarr: Nimzo-Larsen feels quite drawish with a QGD setup
+[23:49:04] sivakumarr: Well, your plan definitely worked
+[23:49:04] whenrooksfly: barely worked
+[23:49:19] sivakumarr: I was so looking forward to a Jobava
+[23:49:19] whenrooksfly: you play 3..c5
+[23:49:19] whenrooksfly: and the line I play is very suspect
+[23:49:34] sivakumarr: po-tay-to po-taa-to
+[23:49:50] sivakumarr: Precisely why I was looking forward to the Jobava
+[23:49:50] whenrooksfly: so if you prepare I am $%^#ed
+[23:50:20] sivakumarr: Do you play traditional QGD / Catalan / etc.
+[23:50:20] whenrooksfly: I have dabbled a little
+[23:50:35] whenrooksfly: but not too much time to prepare since I burnt myself out
+[23:50:35] whenrooksfly: playing the marathon
+[23:50:50] whenrooksfly: *too much energy, not time
+[23:51:05] sivakumarr: Ahh yeah
+[23:51:05] whenrooksfly: I think the lines I play in Catalan need detailed prep since there are some critical dxc4 lines
+[23:51:20] sivakumarr: Could be something to try investing in, Nimzo-Larsen feels like dust against d5-c5
+[23:51:35] whenrooksfly: where I get e4-d4 but Black gets c4-b5-c6 and it isn't easy to play without looking at it detailed beforehand
+[23:53:06] sivakumarr: Yeah, that's the stuff I generally play, I don't know how broad the Catalan Black repertoires are, but dxc4 would certainly be double-...
+[23:53:06] sivakumarr: ...edged
+[23:54:52] sivakumarr: 10. Qxd4 was probably meeting b6, Bb7, Rc8 before I'd launch e4
+[23:55:22] sivakumarr: err, after dxc4
+[23:56:08] sivakumarr: At which point it's extremely symmetrical and drawish
+[23:56:08] whenrooksfly: something like 10. Qxd4 dxc4 11. Bxc4 b6 12. Nc3 Bb7 13. Rfd1?
+[23:56:53] whenrooksfly: I like White slightly better though
+[23:57:38] sivakumarr: Could go Bc5 before Bb7
+[23:57:53] sivakumarr: To force the trade on my terms
+[23:58:24] whenrooksfly: can't I avoid it with Qf4/Qh4
+[23:58:54] whenrooksfly: at least temporarily and try to use my small amount of initiative
+[23:58:54] sivakumarr: I mean sure, but I can start liquidating everything
+[23:59:39] sivakumarr: Rfd8, Qxd8
+[00:00:40] sivakumarr: I don't really believe there's anything in it for White, Nf6 is too good
+[00:00:55] sivakumarr: Maybe if Bc4 was on c2, then there could be something
+[00:02:41] sivakumarr: Anyways, very good game, best of luck in the rest of Lonewolf!
+[00:02:41] whenrooksfly: gg, likewise to you!
+[00:02:56] sivakumarr: And if you want to play any casual games, I'd be down too
+[00:03:11] sivakumarr: (in the d4-complex, I'm slowly updating my repertoire there)
+[00:03:26] whenrooksfly: sure, will keep that in mind!
+[00:03:26] whenrooksfly: although I probably will be playing lots of bullet
+[00:03:41] whenrooksfly: because of my lack of self control
