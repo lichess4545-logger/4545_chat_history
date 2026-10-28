@@ -1,0 +1,54 @@
+Lichess game chat log
+Game      : https://lichess.org/12iMOJWt
+White     : grzybozbur
+Black     : whenrooksfly
+Time      : 20+20
+Captured  : 2026-10-28 21:25:44 UTC
+Game ended : 2026-10-28 20:05:30 UTC
+Messages  : 44
+────────────────────────────────────────────────────────────
+
+[19:07:23] whenrooksfly: 1.. This is a pretty strange position with both bishops in the corners.
+[19:07:39] whenrooksfly: I think the knights will probably be developed c6 e7
+[19:11:41] whenrooksfly: 4.. I suspect that Black is not doing well in the starting position since I have no clue how to develop the h8 bishop
+[19:26:06] whenrooksfly: 11. I think dxe6 was slightly more uncomfortable for me since I have either a hole on d5 or backwards fellow on d6 to solve but
+[19:26:36] whenrooksfly: everything is probably good for White here considering how I have gone Nc6-Nb4-Na6 and blocked in both my bishops
+[19:28:22] whenrooksfly: 13. I think long term my structure is good for an ending but I don't think I will get there easily
+[19:36:57] whenrooksfly: 17.. I'm pretty sure there was Bxe5 which just ends me on the spot
+[19:58:25] whenrooksfly: 33.. if he trades everything on e7 should be drawish but slightly better for me
+[19:58:41] whenrooksfly: since c4-b3 is weak in the ending vs my knight
+[20:04:29] whenrooksfly: 42..Nxd2???????????
+[20:04:45] whenrooksfly: I think the ending may even be winning for White before 44.
+[20:05:30] whenrooksfly: nvm, there probably is a draw for Black but still bad by me
+[20:06:31] whenrooksfly: "nvm, there probably is a draw for Black but still bad by me" - idiot
+[20:08:47] grzybozbur: that was a spectacular pawn endgame to lose
+[20:09:17] whenrooksfly: I think it looks harder than what SF is saying
+[20:09:32] whenrooksfly: I was calculating winning lines for the opposite side
+[20:10:18] grzybozbur: in blitz you just play some moves and it should win itself
+[20:11:03] whenrooksfly: There is a big difference between the 1+0 and 3+0 Chess960 and Classical
+[20:11:18] whenrooksfly: I am used to playing
+[20:12:04] grzybozbur: but the b vs n i didn't know how to play
+[20:12:19] whenrooksfly: I missed 37. Bc7 b5 38. cxb5 axb5 39. a4 c4!
+[20:12:49] whenrooksfly: You were playing well I think
+[20:12:49] whenrooksfly: the K+P ending is hard to figure out on low time
+[20:13:04] grzybozbur: i'd never play a4 there
+[20:13:19] whenrooksfly: also on lots of time looking at my moves
+[20:13:35] whenrooksfly: I thought I was forced to take and then I can't stop the passer
+[20:14:20] whenrooksfly: on a closer look its fine
+[20:14:35] whenrooksfly: I missed Ba5 stopping Nd2 so I mistakenly thought I was slightly better in the ending
+[20:15:21] whenrooksfly: I think sloppy calculation since I'm just looking at forcing moves instead of also the logical ones
+[20:15:51] grzybozbur: sf says 42.kf3 is the only move
+[20:16:21] whenrooksfly: what after Kd3?
+[20:16:21] grzybozbur: this is difficult to find on increment
+[20:17:07] whenrooksfly: yeah I agree
+[20:17:07] grzybozbur: i think black gets into zugzwang eventually
+[20:17:07] whenrooksfly: you are right
+[20:17:22] grzybozbur: the kingside pawns will always be faster, so black can't trade pieces
+[20:17:37] grzybozbur: i think
+[20:17:52] grzybozbur: or maybe not
+[20:18:07] whenrooksfly: no I think you're right
+[20:18:07] whenrooksfly: either zugzwang or I lose the pawn race
+[20:22:39] grzybozbur: ok, good luck in the remaining games
+[20:22:39] whenrooksfly: you too, thanks for the game!
+[20:22:55] grzybozbur: see you around
+[20:22:55] whenrooksfly: I think I have accumulated a lot of bad karma from this game
