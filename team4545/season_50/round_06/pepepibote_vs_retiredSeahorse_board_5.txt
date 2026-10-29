@@ -1,0 +1,56 @@
+Lichess game chat log
+Game      : https://lichess.org/jobFaLMY
+White     : pepepibote
+Black     : retiredseahorse
+Time      : 45+45
+Captured  : 2026-10-29 08:05:25 UTC
+Game ended : 2026-10-29 06:45:14 UTC
+Messages  : 46
+────────────────────────────────────────────────────────────
+
+[04:01:07] tactix47: (1...Nf6) Go pepe!
+[04:01:07] pepepibote: Hey Tactix
+[04:07:56] pepepibote: hey nyanners
+[04:08:11] pepepibote: i had never seen this move order
+[04:15:00] retiredseahorse: surprised White is thinking here. this is the most main line of the main lines on the Qc2 line
+[04:16:01] retiredseahorse: I was also under the impression white has played this before once. maybe they forgot or want to revisit their plan
+[04:16:31] pepepibote: (5) i was gonna something dumb with 6ne5 e6 (g4 or bg5) but i dont think works
+[04:25:06] retiredseahorse: calculating some funny lines here. 6. Nh4 Bc2?! provocative but probably sound
+[04:28:23] ben3536: go pepe!
+[04:30:54] retiredseahorse: maybe not the best though? 7. Nh4 Bc2 8. Nb5 Qa5+ 9. Bd2 Qxb5 is the addition of Qa5 Bd2 worth it?
+[04:31:40] retiredseahorse: not to mention, I can simply Bg6 on Nb5
+[04:32:55] retiredseahorse: ok. that is a novelty. at least for me
+[04:34:57] retiredseahorse: candidate moves. h6 or Be7.
+[04:36:27] retiredseahorse: feel h6 will be useful to give air for Bf5 to retreat if needed. but does not develop a piece. Be7, Bxf6 Bxf6 e4 at least it tickles d4.
+[04:37:58] retiredseahorse: h6 Bxf6 Qxf6 also takes my Q away from my vulnerable q-side. lose all Qb6 resources to Qb3
+[04:39:59] retiredseahorse: talking about Qb6. had a bit of a crazy idea. what if Qb6 now? who is defending b2?
+[04:40:15] pepepibote: hey ben
+[04:40:30] pepepibote: maybe 7 bf4 was better
+[04:46:33] retiredseahorse: Na4 Qb4+
+[04:46:48] retiredseahorse: everything else comes with tempo on b2. and b3 is weakening
+[04:49:20] ben3536: (7...Qb6) i'd seriously consider a3 here
+[04:50:05] ben3536: (7...Qb6) gambit the pawn (with the idea of Qxb2 Ra2 and the back rank is actually covered) for black's open king
+[04:54:23] ben3536: (7...Qb6) otherwise, I think I quite like black here
+[04:54:53] ben3536: (8.Qb3) problem with this is Qxb3 axb3 and Bc2 is annoying
+[04:55:08] retiredseahorse: so White accepts doubled pawns and the e4 idea goes down the drain?
+[04:55:38] ben3536: (8.Qb3) although maybe Nd2 and Rc1 is enough to kick the bishop
+[04:55:38] ben3536: (8.Qb3) but black has much of the play here
+[04:57:24] retiredseahorse: Qxb3 axb3, Ne4 Nxe4, Bxe4 e3 or do I go for Nbd7
+[04:57:40] pepepibote: 8: i think im happy with tradding queens, the black  quick development kind of menacing
+[04:58:10] retiredseahorse: guess there is the typical idea of immediate b4 b5. need to think about it a bit I guess
+[04:58:55] ben3536: (8.Qb3) b4 is always worth watching in that structure but the bishop defends it for now
+[05:00:11] retiredseahorse: I supposed I am not even forced to take on b3. can go Nbd7. and white can go Qd1 to avoid trading then?
+[05:00:56] retiredseahorse: what am I hallucinating b4..... Bxb4 hahah
+[05:01:27] retiredseahorse: question is then do I Qxb3 or Nbd7
+[05:03:58] retiredseahorse: guess there is also the super direct Qxb3 axb3 Bc2?
+[05:05:59] retiredseahorse: Bc2 Nd2
+[05:10:47] pepepibote: 8. whatever happens, i might have nd2 e4 to gain some tempi to unravel
+[05:13:04] retiredseahorse: what I dislike with Ne4 is that I am wasting tempi and development to trade a piece I am not sure I am in any hurry to trade
+[05:17:06] ben3536: (10.e4) confused as to how this doesn't just lose a pawn
+[05:20:08] retiredseahorse: dunno what the idea is here. Nxe4 Bd3?
+[05:24:56] retiredseahorse: probably being too fancy with Bd5 but I think I can afford it here
+[05:30:29] retiredseahorse: it was silly after all :D
+[05:48:10] retiredseahorse: this Bishop on d5 became the pain of my position
+[05:51:11] retiredseahorse: did not played too accurately after winning the pawn
+[06:07:21] retiredseahorse: I completely butchered my position
+[06:07:21] retiredseahorse: starting with Bd5
