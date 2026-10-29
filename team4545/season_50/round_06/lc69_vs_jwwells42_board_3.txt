@@ -1,0 +1,222 @@
+Lichess game chat log
+Game      : https://lichess.org/AVw7H2Kb
+White     : lc69
+Black     : jwwells42
+Time      : 45+45
+Captured  : 2026-10-29 03:20:33 UTC
+Game ended : 2026-10-29 02:00:20 UTC
+Messages  : 212
+────────────────────────────────────────────────────────────
+
+[23:34:54] jwwells42: i saw 1.Nc3 was possible, but didnt do targeted prep there
+[23:35:09] jwwells42: i know a little bit in this line because i used to rec it as white via 1.e4 d5 lol
+[23:35:24] jwwells42: all i remember was that ..Be6 before Bc4 was important to the eval
+[23:36:40] le_merovingien: Go Lucy
+[23:39:41] jwwells42: i should clarify one that i only gave this line as a "funk" option and also that i am out of book after c3 xD
+[23:40:42] tbest: hm, so we are just fine here I think
+[23:40:57] le_merovingien: Oh, man... MC TBeast is here!
+[23:41:28] tbest: i wonder if a6 would be clever here actually
+[23:42:58] lc69: ok glad they are not knowing the lines after this - Be6 was concerning enough
+[23:43:59] le_merovingien: Is c5 a move?
+[23:44:44] tbest: i did not see anything wrong with c5 at least
+[23:45:30] lc69: d3 is not good in this move order
+[23:45:30] tbest: bit worried qf3 bc4 b3  ba6 c4 or something picks up the pawn
+[23:45:45] jwwells42: ok it felt wrong but i couldnt find a legal sequence for them to add a second attacker
+[23:46:00] jwwells42: so, we're playing a bad gambit now
+[23:47:01] tbest: hm, after c4 I gyess nc6 nb4 things can happen
+[23:47:31] inter-temporal: (6.Qf3)  bad gambits always work for MrScribbz and Astronomonomovsky
+[23:48:32] le_merovingien: Strangely, Qf3 ws hard to see. Brilliant
+[23:48:47] tactix47: (6.Qf3) Bad Gambit, is that a Lady Gaga song?
+[23:49:02] jwwells42: the hand move was c5 but convinced myself of this
+[23:49:17] jwwells42: always struggle with board vision during after work games but dunno how to know when i am missing smthn
+[23:50:48] le_merovingien: I want your poney, I want your horsey, as long as it free, you and me can write a Bad Gambit
+[23:51:18] lc69: i feel like Qxd3 makes way more sense unless theres some sort of punish
+[23:53:20] lc69: i think this is just like... i am up a pawn?
+[23:53:50] le_merovingien: I would have taken with the Bishop...
+[23:57:07] lc69: maybe the bishop would have been better on e2, but i think this is fine
+[00:02:55] lc69: just be patient lc69
+[00:07:58] tactix47: (11.d3) Some nice lyrics there, Le_Merovingien :D
+[00:09:29] inter-temporal: (6.Qf3) u said ur takin my bishop, but ur takin my heart...
+[00:09:59] lc69: Bc5 - not worried - eventually: a3 Ba2 to try to fight for f5
+[00:10:30] le_merovingien: :)
+[00:10:30] lc69: their idea i think is to meet Be3 with f5?
+[00:11:30] lc69: therefore... develop knight first
+[00:12:16] lc69: well f5 would be an insane waste of tempi... so probably they wont do that, and i can pop the bishop on g5 forever for example if ...
+[00:12:16] lc69: ...they do
+[00:12:16] lc69: so onwards
+[00:13:47] lc69: if they want to play f5 ok i really dont mind gaining a square permanently
+[00:17:34] inter-temporal: (11.d3) for ...Bh6 and eventual break on the K-side
+[00:17:49] inter-temporal: (13.Nh3) my prepend is off. lol
+[00:17:49] lc69: this knight goes to f2. then i can get my rooks in
+[00:17:49] le_merovingien: Why Nh3?
+[00:18:19] lc69: they are maybe trying to trade bishops but im ok with that?
+[00:18:49] inter-temporal: (13.Nh3) does white want to prepare d4, here
+[00:19:05] inter-temporal: (13.Nh3) or maybe f4
+[00:19:35] le_merovingien: Yes. So Ne2 was more logical to me. But Lucy knows best.
+[00:20:20] le_merovingien: The only thing I see with Nh3 is preventing g5. But using a Knight to blovk a Pawn...
+[00:20:35] inter-temporal: (13.Nh3) he mentioned Nh3-f2 above
+[00:21:06] inter-temporal: (13.Nh3) like that, but then where...
+[00:21:36] le_merovingien: Oh, thanks. I missed it.
+[00:22:06] le_merovingien: Wants to push g4?
+[00:22:52] inter-temporal: (15.Nf2)   it's mysterious to me
+[00:23:07] le_merovingien: Okay. I am not alone then :)
+[00:23:37] le_merovingien: Sometimes, Lucy can be in the sky, y'know
+[00:23:37] inter-temporal: (15.Nf2) this too. i mistakenly guessed ...Bh6 for possible ...g5 by black (or favorable exchange?) but idk
+[00:24:23] le_merovingien: I think White could then take and say that the Rook is misplaced in h6
+[00:24:53] inter-temporal: (15.Nf2) maybe not worth the trade
+[00:25:08] inter-temporal: (15.Nf2) for black
+[00:25:54] le_merovingien: I think the trade may be advantageous to White. It is easy to place the Pawns on the color of the lost Bishop for White
+[00:27:09] le_merovingien: This is becoming interesting
+[00:28:40] le_merovingien: Bxe7 Nxe7 Nh3 something Ng5?
+[00:29:41] le_merovingien: Wow
+[00:29:56] inter-temporal: (15.Nf2) i never get trades right
+[00:30:11] le_merovingien: Nah but that one was probably wrong
+[00:30:26] le_merovingien: But interesting to think about
+[00:31:12] inter-temporal: (17.a4) is it because we expect white must play f4 or e4 at sometime?
+[00:31:27] inter-temporal: (17.a4) fro or d4
+[00:31:42] inter-temporal: (17.a4) damn it. f4 or d4
+[00:32:12] le_merovingien: D4 was my plan. But it is looking less and less likely
+[00:32:43] le_merovingien: b4 b5 Bc2 Ke2 and fireworks?
+[00:32:58] inter-temporal: (17.a4) totally different plan. lol. kewl
+[00:33:28] lc69: this position is juicy now that was a strange trade
+[00:33:58] inter-temporal: (18.Ngxe4) indeed. the position is dripping with chess juice
+[00:34:29] le_merovingien: Gonna get the tissues
+[00:34:59] le_merovingien: Nc5 is going to be blinking
+[00:36:45] le_merovingien: Ba2... not sure
+[00:36:45] lc69: ok so far so good trade active bishop, push b pawn, double on d file
+[00:39:01] jwwells42: calc never really switched on after the oneply blunder, has always been a combo issue for me
+[00:39:47] lc69: there are no forks or anything - the Ne4 is good
+[00:40:02] jwwells42: at least they are playing quickly, maybe there will be something
+[00:40:17] lc69: thus just pretend italian
+[00:41:48] lc69: ok my dreams have more or less come true. now then. how to continue?
+[00:42:03] inter-temporal: (23...Nce7)  if we're playing guess-the-move, i lose
+[00:43:04] lc69: just hang and dont blunder a pawn
+[00:43:19] inter-temporal: (23...Nce7) e3 is weak
+[00:44:04] lc69: adventerous knight can be met with a pawn push on either side
+[00:44:19] inter-temporal: (25.Rg1) sneaky
+[00:44:50] lc69: the other rook. maybe go to a dark square too
+[00:45:20] inter-temporal: (25.Rg1) avoid forks
+[00:48:22] lc69: here is the game: i dont actually have to do anything for a handful of moves - i can just let them look at this position some more
+[00:48:22] inter-temporal: (25...Rf8) now it could come to e3 with tempo, but then where...
+[00:50:08] jwwells42: i guess Nxb4 isnt enough as long as they Kd1 intsead of Kd2
+[00:50:23] jwwells42: may do it anyway as potstirrer
+[00:50:38] lc69: for example one day i have Nc5 and then other N to e4 then to g5 and threaten the fork
+[00:51:09] lc69: or i can like, grab a lil soace somewhere, or double on e file, or anything i dream
+[00:51:24] inter-temporal: (26...Nxb4)   Ns are trickier than Rs. but time pressure is an issue
+[00:51:39] lc69: ah oops i talk a big game lol
+[00:52:09] lc69: double on b file? or ? trade R for 2 knights
+[00:52:40] inter-temporal: (26...Nxb4)  u did say u'd pur ur R on a dark square. but then
+[00:53:10] inter-temporal: (26...Nxb4) interesting counter
+[00:53:10] lc69: lc69 talks a lot of shit for someone who sucks at chess
+[00:53:10] tbest: we are so back in the game
+[00:55:56] inter-temporal: (29...Re7)  white has a tiny bit of initiative
+[00:56:42] inter-temporal: (30.a5) i finally guessed the move
+[00:59:44] inter-temporal: (31.Nh3)  a deserter? shoot em
+[01:00:14] inter-temporal: (31.Nh3) i was lookin at 31.Rd5
+[01:04:16] tbest: hmm, 35.. nc5 looked strong
+[01:04:32] tbest: oh wait, it blunders the knight xD
+[01:05:17] inter-temporal: (36.c4) maybe next
+[01:05:17] inter-temporal: (36...Rc5) or not
+[01:06:18] inter-temporal: (36...Rc5)  axb6 seems okay
+[01:07:49] inter-temporal: (36...Rc5) then R5b3 yeh?
+[01:07:49] inter-temporal: (38.R5b3) im on a roll
+[01:10:20] acebulf: Time is really lopsided, what happened?
+[01:10:35] inter-temporal: (41.Rxb5) sir thinks-a-lot with black
+[01:11:36] karasso: (41...Nb7) Nf6 Re6 Nd7+ Kc8 Rxe5 wins the pawn?
+[01:11:36] tbest: not a faan of nb7
+[01:12:06] inter-temporal: (41.Rxb5) yeh white's got all the good moves
+[01:12:21] tbest: If you take on e5 with the rook, Kxd7 :P
+[01:12:21] karasso: (42.Nf6) no it does not work
+[01:12:21] karasso: (42...Re7) yeah ^^
+[01:12:37] karasso: (42...Re7) but now rxe5
+[01:12:37] karasso: (42...Re7) does also not work
+[01:12:52] inter-temporal: (42...Re7) no checks here
+[01:12:52] inter-temporal: (42...Re7) cash only
+[01:12:52] karasso: (42...Re7) what is the king doing on e3 :D
+[01:13:22] inter-temporal: (42...Re7) it thinks its a dsb
+[01:13:37] acebulf: The pawn structure is potato shaped
+[01:14:08] inter-temporal: (42...Re7) i see a clown, and an angel, and a dragon, and...
+[01:14:23] inter-temporal: (42...Re7) a mouse
+[01:14:23] karasso: (42...Re7) maybe black is somewhat fine then
+[01:15:38] inter-temporal: (42...Re7) even after e5 falls, probably
+[01:16:24] inter-temporal: (43.Rd5) maybe ...Nc5 here
+[01:16:24] karasso: (43.Rd5) Nd6 looks good
+[01:16:54] karasso: (43...Kc8) would prefer Nd6 over Nc5 to have Nf5+ at some point
+[01:17:09] inter-temporal: (43.Rd5) would Nc7+ have dropped the epawn
+[01:17:09] karasso: (43...Kc8) kc8 should also be fine
+[01:17:09] inter-temporal: (43...Kc8) Nd7+
+[01:17:40] karasso: (43...Kc8) at what point?
+[01:17:40] inter-temporal: (43...Kc8) 43...Nd6 44.Nd7+
+[01:17:40] inter-temporal: (43...Kc8) oh
+[01:17:40] inter-temporal: (43...Kc8) interferernce
+[01:17:55] inter-temporal: (43...Kc8) hello
+[01:17:55] karasso: (43...Kc8) ^^
+[01:18:10] inter-temporal: (43...Kc8) maybe i woulda seen that after ...Nd6. lol
+[01:19:11] karasso: (43...Kc8) as answer to "even after e5 falls, probably"
+[01:19:26] karasso: (44.Rb5) i don't think so, if e5 falls white should win this
+[01:19:26] lc69: dont trap ur rook oof
+[01:20:11] inter-temporal: (43...Kc8) Ns are tricky!
+[01:21:12] inter-temporal: (45.Rb1) f3 is in trouble
+[01:21:27] karasso: (46...Nd4) yes, time to go Ne4 back
+[01:21:42] inter-temporal: (46...Nd4) Ne4-d2 seems reasonable
+[01:21:57] tbest: ehm, rf7 rxf3?
+[01:22:12] lc69: dont lose f3
+[01:22:27] karasso: (47.Ne4) Ne4-g5 probably better then Ne4-d2
+[01:22:27] lc69: i still am slightly better but i blew a good position fr
+[01:22:27] inter-temporal: (46...Nd4) if black gets two moves in a row, white is screwed
+[01:22:58] tbest: momentum has for sure done a180
+[01:24:29] karasso: (49.Re1) Nc2 Rxe5 Rxd3 Re6 Rd2+ Kf1 Rd6...
+[01:24:29] inter-temporal: (48.Ng5) it zigged, then zagged; then repeated
+[01:24:44] karasso: (49...Nc6) Nc6 for sure easier then Nc2
+[01:25:29] inter-temporal: (49...Nc6) Kf2 and e5 at forking distance
+[01:25:59] inter-temporal: (50.Ke3) i think white has it all covered now
+[01:28:16] inter-temporal: (50.Ke3) i thought black might try ...c6 and ...b5
+[01:29:17] inter-temporal: (51...Nc6) maybe e5 is too weak
+[01:31:48] lc69: this is so equal lol
+[01:32:33] lc69: ah wait - should i try to make passer on q side
+[01:32:49] lc69: ksde sorry
+[01:33:49] lc69: this is a good square for me to have their rook on at least? since i have multiple tempo moves
+[01:37:22] lc69: lets try at least - they are at their lowest time
+[01:41:54] inter-temporal: (51...Nc6) black N is too active
+[01:42:55] jwwells42: had to go feed animals, glad i didnt fully flag during that
+[01:44:26] lc69: no fork
+[01:44:41] lc69: well. fork but knight ending
+[01:45:41] inter-temporal: (57.Ke4) oof
+[01:45:57] inter-temporal: (57.Ke4) gotta give up h4
+[01:46:12] inter-temporal: (57...Re6+) or do you...
+[01:46:42] inter-temporal: (57...Re6+) maybe this is okay? looked bad at first
+[01:47:27] jwwells42: Kd7 is a draw offer at best but was gonna flag
+[01:48:13] jwwells42: well ok i now see other options i guess
+[01:49:44] inter-temporal: (58.Kd5) Re1 needs calculation;
+[01:49:44] inter-temporal: (59...Ke7)  60.Re1 that is
+[01:54:01] jwwells42: decent mating met tbh
+[01:56:33] lc69: ok i have a draw?
+[01:56:33] lc69: do i want a draw?
+[01:57:03] lc69: always repeat once at least
+[01:57:49] tbest: are we not just winning now as black?
+[01:57:49] lc69: ah i missed this shit
+[01:57:49] tbest: rd6 rc6 or ne3+
+[01:58:04] lc69: dammit
+[01:58:04] lc69: i did not see king go to this square one bit
+[01:58:19] lc69: chess is the worst lol
+[01:58:49] jwwells42: king kind of walked itself into some trouble i think. i almost rejected Ne7-f5 because of the king getting in
+[01:59:04] jwwells42: but saw some difficulties
+[01:59:04] lc69: trult what is wrong with me
+[01:59:20] lc69: ugh
+[01:59:50] lc69: yeah no it is so lost
+[01:59:50] lc69: sad
+[02:01:06] tbest: gg
+[02:01:06] jwwells42: well dang
+[02:01:36] jwwells42: i was so depressed after d3 Qf3
+[02:03:22] jwwells42: machine says maybe i should have managed to reject Nxb4
+[02:03:37] tbest: huh, 5. a6 is scoring really well in master db
+[02:03:52] jwwells42: but idk i craved some imbalance that wasnt "blundered a pawn"
+[02:04:07] jwwells42: ooh interesting
+[02:04:23] tbest: was my move in chat ( off the screen now i think ) so I was happy to see that :D
+[02:05:23] jwwells42: nice
+[02:05:23] jwwells42: my ..c5 handmove was kosher there too it seems
+[02:05:53] jwwells42: hmmm ..Bc4 was better than ..Nc6
+[02:06:09] jwwells42: i looked at Bc4 b3 Ba6 c4 and thought Qd4 Rb1 ehh nothin here
+[02:06:54] tbest: i also had that line in chat :D
+[02:07:39] jwwells42: ok the machine wants Ba6 c4 Nc6! Qxd3 Qxd3 Bxd3 0-0-0 Be2 Nd4 outpost which makes some sense
+[02:07:54] tbest: but yeah, still a pawn down really , which is a core issue
