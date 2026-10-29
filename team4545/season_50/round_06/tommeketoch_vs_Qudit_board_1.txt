@@ -1,0 +1,105 @@
+Lichess game chat log
+Game      : https://lichess.org/wM73biQn
+White     : tommeketoch
+Black     : qudit
+Time      : 45+45
+Captured  : 2026-10-29 22:58:32 UTC
+Game ended : 2026-10-29 21:38:22 UTC
+Messages  : 95
+────────────────────────────────────────────────────────────
+
+[19:41:28] jokicinator15: lets go Tomme!!!
+[19:52:19] flipiflapi: Go 5am chess
+[19:53:04] guitarspider: (11.Bxf6) hi flipi
+[19:56:21] sycoraxcirce: openings suck, can I fast forward to the endgame?
+[19:56:36] guitarspider: (12...b4) not sure we'll get an endgame
+[19:57:07] ysgwydd: (12...b4) 4 in a row!
+[19:58:38] guitarspider: (12...b4) Tom has won connect four.
+[19:59:23] nyanners: caruana after playing the scandi: "i dont want to work on openings"
+[19:59:38] nyanners: https://www.youtube.com/watch?v=144xJY5118Q
+[20:01:09] inter-temporal: (12...b4) go Tom! Tominate!
+[20:01:39] guitarspider: (12...b4) as someone who has recently forgotten a lot of Najdorf theory it feels like this might have happened here
+[20:01:39] ysgwydd: (12...b4) That's what playing the Scandi does to you
+[20:02:25] nyanners: i just dont want to work. at all
+[20:03:10] nyanners: winning connect four at what cost..
+[20:03:10] ysgwydd: (12...b4) This is probably good for black
+[20:03:25] nyanners: it seems "winning"
+[20:03:25] nyanners: white probably forgot black has Nxe4 immediately
+[20:03:25] nyanners: instead of Bb7 first
+[20:04:41] ysgwydd: (12...b4) Maybe f4 was a waste of tempo
+[20:04:41] inter-temporal: (12...b4) tom's 7.Qe2 must have been a surprise
+[20:06:12] ysgwydd: (13.Nb1) Nb1 is not a happy move
+[20:06:12] guitarspider: (13.Nb1) indeed
+[20:07:13] guitarspider: (13.Nb1) it's hard to argue, neither square is great
+[20:08:13] nyanners: oooohh black didnt see??
+[20:08:28] guitarspider: (13...Bb7) they're both playing quite quickly
+[20:08:28] guitarspider: (13...Bb7) and this is a mess, easy to miss stuff
+[20:08:44] nyanners: its still tough
+[20:08:44] nyanners: for white
+[20:08:44] guitarspider: (14.Bg2) yeah
+[20:08:59] guitarspider: (14.Bg2) I'd rather be black (probably a surprise to nobody)
+[20:09:44] guitarspider: (14.Bg2) Rc8 I guess?
+[20:10:45] guitarspider: (14.Bg2) and there is the slightly weird h5 g5 Ng4, which I have seen the engine like in similar positions
+[20:10:45] guitarspider: (14.Bg2) but it's always seemed a bit too fancy to me
+[20:13:47] guitarspider: (14...Qa5) Qa5 feels odd
+[20:14:47] flipiflapi: Hey spider and other people and non-people
+[20:15:02] ysgwydd: (14...Qa5) I played h5 g5 Ng4 once in a 4545 game. It was weird
+[20:15:18] ysgwydd: (14...Qa5) Hi flipi
+[20:15:18] flipiflapi: Ola Ola
+[20:16:18] flipiflapi: So now someone has to sac something and then it's either winning or not and the game is over..
+[20:22:52] gavalanche20: 7. Qe2, has someone been looking at Shankland’s course haha
+[20:23:22] antazhi8: so something like g4 and e5 for white, with the idea of if d5, then f5?
+[20:23:38] flipiflapi: Play e5 now. Do it. You know you want to.
+[20:30:42] guitarspider: (15.g5) if the queen was on c7 still, Nd7 e5 would be a bad move
+[20:30:42] guitarspider: (15...Nd7) but now Bb7 will hang
+[20:32:13] antazhi8: so the issue is e5 Bxb7 Qxb7 0-0? Nc6 with a fork
+[20:33:28] antazhi8: d5 looks forced, but I like white after f5
+[20:34:59] ysgwydd: (16.e5) Qa5 was probably just bad
+[20:40:17] antazhi8: live by the sword, die by the sword
+[20:45:20] bpack: Go Tom!
+[20:46:51] guitarspider: (16.e5) I think Qa5 was a move that not only wasted a tempo but misplaced the queen, yes
+[20:47:52] guitarspider: (16.e5) unfortunately sometimes one move like that is enough in the Najdorf
+[20:51:09] duty5521: f5 looks great
+[20:55:41] guitarspider: (17...Nc5) fxe6 is scary stuff
+[20:58:43] guitarspider: (17...Nc5) maybe the king can hide on d7, but the light squared bishop is still there
+[20:59:44] antazhi8: White has to be careful with Qxa2 and Na4 ideas
+[21:01:30] antazhi8: I'm thinking Qxa2 fe and 0-0 best for black
+[21:04:01] duty5521: O-O is a pretty move
+[21:04:01] guitarspider: (18.Bh3) but after fxe6 you should play Nxe6 no? so there's no Na4
+[21:05:17] duty5521: Na4 could work but I think White gains too much tempo so O-O before is necessary
+[21:05:32] antazhi8: after Nxe6 Nf5 seems unpleasant
+[21:06:03] duty5521: not even Nf5 simply Nxe6
+[21:06:18] duty5521: no castling king in the center
+[21:06:18] duty5521: unpleasant
+[21:06:48] guitarspider: (18.Bh3) hadn't thought of Nf5, but it does also look unpleasant :D
+[21:07:18] guitarspider: (18...Qb6) maybe fxe6 fxe6 is the way to go for black then
+[21:07:18] antazhi8: probably multiple ways for white to maintain the advantage, black's attack just seems too slow
+[21:08:49] duty5521: something like fxe6 and Rf1 whenever Black plays fxe6 to prevent castling?
+[21:09:04] antazhi8: funny line: Qh5 g6 fg fg Qh6 Bf8 queen trapped
+[21:10:35] guitarspider: (18...Qb6) nasty
+[21:10:35] duty5521: Qh5 exf5 may be better?
+[21:11:21] duty5521: Rhf1 with the idea of O-O f6
+[21:11:36] duty5521: even better in this move order than on fxe6 direclty
+[21:11:51] guitarspider: (19.Rhf1) now that black doesn't even have immediate counterplay it's starting to look very bad
+[21:12:06] guitarspider: (19.Rhf1) at least Qxa2 was some sort of idea
+[21:12:52] duty5521: yeah Black is stuck with a king in the middle it sucks
+[21:13:07] duty5521: or long castling but it looks hideous
+[21:13:22] guitarspider: (19.Rhf1) might have to go with it and hope
+[21:15:54] duty5521: Uh yuck short castling definitely isn't it
+[21:15:54] duty5521: f6 +-
+[21:17:09] guitarspider: (19...O-O) f6 Bd8 Qh5 is a nightmare
+[21:17:24] duty5521: fxg7 beforehand
+[21:17:24] duty5521: so
+[21:17:24] duty5521: so that on Qh5 you threaten Qh6+ with a check
+[21:18:10] guitarspider: (19...O-O) I thought that too at first, but it's hard to bring another attacker
+[21:18:25] guitarspider: (19...O-O) so I kinda like waiting a little bit
+[21:18:40] duty5521: Rf6?
+[21:19:26] duty5521: even Nxe6 (Nxe6 Bf5) fxe6 Rxf8+
+[21:19:56] guitarspider: (19...O-O) ah, you have g6 after Rf6, ok
+[21:20:27] guitarspider: (20...Bd8) yeah then the order won't matter probably
+[21:20:42] duty5521: of course this is totally winning for White
+[21:20:57] guitarspider: (20...Bd8) sure, but you can still win more or less efficiently
+[21:37:52] bpack: ggs
+[21:38:07] duty5521: gg
+[21:39:22] guitarspider: gg
+[22:01:34] inter-temporal: gg
