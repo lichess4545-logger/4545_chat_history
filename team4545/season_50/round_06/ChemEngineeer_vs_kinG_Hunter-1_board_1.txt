@@ -1,0 +1,101 @@
+Lichess game chat log
+Game      : https://lichess.org/OPLWPRSd
+White     : chemengineeer
+Black     : king_hunter-1
+Time      : 45+45
+Captured  : 2026-10-29 19:01:00 UTC
+Game ended : 2026-10-29 17:40:47 UTC
+Messages  : 91
+────────────────────────────────────────────────────────────
+
+[16:40:25] timothyha: (18.Nd2) looks scary for White
+[16:40:41] timothyha: (18.Nd2) Black is surprisingly safe
+[16:45:44] jfiras: Good luck hunter !
+[16:51:47] timothyha: (20...Bc4) interesting they didn't even try g4 to save the pawn
+[16:52:02] timothyha: (20...Bc4) b pawn dropping and Bc4 is so unpleasant
+[16:52:48] grzybozbur: g4 leaves f4 for grabs
+[16:53:03] timothyha: (22.Ke1) that's for sure, but nothing critical was happening immediately
+[16:53:03] grzybozbur: not that this looks better
+[16:55:35] grzybozbur: was there anything after kd7?
+[16:55:35] grzybozbur: why castle?
+[16:56:05] timothyha: (22...O-O) to show Black can and White can't :-)
+[16:56:20] inter-temporal: (20.Ne2) how does white coordinate K-safety with other issues
+[16:56:50] grzybozbur: i don't know, but you normally castle to activate the rook and hide the king
+[16:57:05] grzybozbur: this just exposed the king and removed the rook from the open file
+[16:58:36] timothyha: (22...O-O) yeah, but e2 and g3 dropping if White doesn't find a good solution, c2 weak too
+[16:59:22] timothyha: (23.Nd4) but maybe Kd7 achieved the same faster
+[17:00:07] grzybozbur: yeah, maybe white was just losing anyway
+[17:00:53] timothyha: (23.Nd4) could be one of those situations when a machine would play Kd7 and a human plays a simpler 0-0
+[17:01:23] grzybozbur: wasn't kd7 the human move?
+[17:01:38] timothyha: (23...Nxg3) exposing king to Bh3 and stuff
+[17:01:53] timothyha: (23...Nxg3) or perpetuals when White feels like it
+[17:02:39] timothyha: (23...Nxg3) although now with Ng3 more lines opened for White
+[17:02:54] timothyha: (23...Nxg3) this game is intense
+[17:03:24] inter-temporal: (22...O-O) address ur own K-safety by making K-safety a problem for the opponent
+[17:04:25] timothyha: (24.Nf3) I guess Black has Ne2 coming soon
+[17:04:25] timothyha: (24.Nf3) so the rook doesn't survive
+[17:07:57] invinci7777: looks pretty bad for white
+[17:08:12] timothyha: (25.Rg1) Ne2 should work already
+[17:08:43] timothyha: (25.Rg1) unless White plays Kxe2 which is illegal
+[17:09:43] invinci7777: qxe4 first
+[17:10:14] jfiras: i am calculating this line, but seems unclear to me
+[17:11:44] timothyha: (25.Rg1) no mate but king pushed to the corner before Ne2 is played?
+[17:11:44] jfiras: or maybe it doesn't matter (i was looking for checkmate), qxe4 ne2 looks good
+[17:12:15] invinci7777: yeah no mate but can't hurt
+[17:12:30] grzybozbur: qxe4 kf2?
+[17:12:30] timothyha: (25.Rg1) maybe with Q on e4 Ne2 is answered by Nd2
+[17:12:45] timothyha: (25.Rg1) right now Q is safe
+[17:12:45] timothyha: (25.Rg1) not so safe on e4
+[17:14:01] grzybozbur: qxe4 kf2 and what does black play?
+[17:15:17] invinci7777: ne2
+[17:15:17] grzybozbur: but then bh1?
+[17:15:47] invinci7777: nxg1
+[17:16:02] grzybozbur: rx
+[17:16:17] invinci7777: ooh
+[17:16:17] jfiras: wow with qg7 coming
+[17:16:17] grzybozbur: that's why i didn't like castling
+[17:16:17] invinci7777: yeah thats bad
+[17:16:32] grzybozbur: it made no sense
+[17:17:18] invinci7777: so ne2 right away seems best
+[17:18:18] inter-temporal: (25...Ne2) white has to shed some material
+[17:20:04] timothyha: (26.Qd2) Qg3+ before taking on g1?
+[17:20:35] ttsgosadow: Go Hunter of Kings!
+[17:20:35] timothyha: (26.Qd2) but f6 also safe later
+[17:20:35] timothyha: (26.Qd2) if Qxd2 and Nxg1
+[17:25:23] timothyha: (29...Bf1) this could be a mistake
+[17:25:38] timothyha: (29...Bf1) like Qd5+ Qd4+ and Bxf1
+[17:26:23] invinci7777: so hav to go kh7
+[17:26:38] timothyha: (29...Bf1) or Rf7
+[17:26:54] timothyha: (29...Bf1) I guess it's still resignable in 2-3 moves for White
+[17:30:56] inter-temporal: (25...Ne2) hope not
+[17:32:12] inter-temporal: (29...Bf1) hope chess!
+[17:32:42] inter-temporal: (31.Bxf1) (me, not the players) :)
+[17:33:12] inter-temporal: (31...Qxg1) no escape?
+[17:33:27] timothyha: (32.Kd2) nah
+[17:33:58] invinci7777: qf2
+[17:34:43] invinci7777: fxe now
+[17:34:58] timothyha: (33.Be2) taking on c2 also possible here I guess
+[17:34:58] inter-temporal: Rf1 then?
+[17:35:14] invinci7777: oh right
+[17:35:29] inter-temporal: hope there's no check. :)
+[17:36:14] inter-temporal: ::praying hands emoji::
+[17:36:14] timothyha: (33...f4) f4 is iron hand chess
+[17:36:14] jfiras: i like this move
+[17:36:29] invinci7777: yeah
+[17:36:29] inter-temporal: e3 is weak. every square is weak...
+[17:37:00] timothyha: (33...f4) White sat at a wrong chess board
+[17:37:45] timothyha: (34...Rxc2+) best moment for Rxc2
+[17:37:45] invinci7777: nice
+[17:38:00] jfiras: resignable
+[17:38:00] inter-temporal: checks
+[17:38:31] inter-temporal: "Never Resign! (unless you feel like it)"--Capablanca
+[17:39:16] inter-temporal: respect!
+[17:39:31] timothyha: (41.Ka4) mate in 2 now?
+[17:39:46] timothyha: (41.Ka4) three
+[17:40:02] timothyha: (42.Ka5) I'm wrong
+[17:41:02] inter-temporal: gg
+[17:41:02] jfiras: gg !
+[17:41:02] timothyha: great game
+[17:41:02] invinci7777: gg
+[17:41:02] rolihlahla: gg!!
+[17:41:02] robertjackson: Gg
