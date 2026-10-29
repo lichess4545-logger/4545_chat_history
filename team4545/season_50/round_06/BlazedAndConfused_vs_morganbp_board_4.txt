@@ -1,0 +1,71 @@
+Lichess game chat log
+Game      : https://lichess.org/gxPoICfi
+White     : blazedandconfused
+Black     : morganbp
+Time      : 45+45
+Captured  : 2026-10-29 07:10:51 UTC
+Game ended : 2026-10-29 05:50:41 UTC
+Messages  : 61
+────────────────────────────────────────────────────────────
+
+[03:35:37] tactix47: (7.Nc3) Good luck morganbp!
+[04:02:37] inter-temporal: (11.b4) back to no contact (except Bxh6)
+[04:02:53] inter-temporal: early skirmishes then a cease fire
+[04:05:24] inter-temporal: (11...Nc6) several weak squares already: c4 and d6 in particular
+[04:08:41] inter-temporal: (12.a3) oftentimes b4-b5 to kick the Nc6 would be good, but here the N gets to c4 with no dramas. maybe Bd2 first
+[04:15:15] inter-temporal: how about 13.Bd2 Qd7, Rac1 Rc7, b4 --- trade heavies on the c-file, white has better endgame
+[04:15:45] inter-temporal: (13.Bh3) that's good too, to prevent Qd7 (which i thought would prevent Bh3, lol)
+[04:17:31] inter-temporal: does this change things enough for White to try to triple on the c-file before b5
+[04:18:32] inter-temporal: (13...Rc7) or just ...Bc8
+[04:31:09] inter-temporal: (15.Bb2) how about 15...Qe7, Rac1 and then ...Bc8
+[04:40:29] inter-temporal: (16.Nh4) ...f4 undermines Nh4?
+[04:41:15] inter-temporal: no. ...f4, Ng6
+[04:41:45] inter-temporal: unless it's sac time
+[04:45:02] inter-temporal: ...f4, 17.Ng6 fxg3 18.Nxf8 Nxf2! does that work?!
+[04:46:48] subrata5252: nope, in that line either rxf2 to sac the exchange back or get cramped with that extra material
+[04:46:48] blazedandconfused: Complicated position, feels like it could end up being a mess from here on
+[04:47:49] blazedandconfused: I'd seen Rcf7 from afar, but I don't think it works
+[04:48:49] subrata5252: I wonder what's black's plan is
+[04:49:04] inter-temporal: looks like ...f4
+[04:57:55] inter-temporal: 18....g5 must have been tempting
+[04:58:25] inter-temporal: (18...Ne7) just bring one more piece to the party first?
+[04:59:26] inter-temporal: (19.Rac1) can we get a ...g5? :)
+[04:59:56] inter-temporal: oh but now the Ne7 interferes with e6
+[04:59:56] inter-temporal: should be okay
+[05:01:11] inter-temporal: except ...g5, Ne6 Qd7, Rc7 Qxe6, Rxb7 then what....
+[05:03:43] inter-temporal: so i think 19...g5 20.Ne6 might be worse for white
+[05:04:59] blazedandconfused: interesting move, wasn't quite on my radar, though it makes sense
+[05:09:47] inter-temporal: now if 20...g5, there's no Ne6
+[05:10:02] inter-temporal: (20.e3)
+[05:10:17] blazedandconfused: Strong feeling that I've greatly messed up my position from a few moves ago, but it feels complicated and not a ton of time, so it goes
+[05:16:06] subrata5252: now g4 ?
+[05:18:52] inter-temporal: (23.Bg2) extraordinary build up and preparation for ...g5 by black. very nice (imo)
+[05:19:53] inter-temporal: wonder if there's time for 23...h5, h4
+[05:21:09] inter-temporal: threatens 25.Bh5
+[05:22:24] blazedandconfused: the b2 and b7 bishops in this position are just funny. Look at these bozos just sitting there and watching while everything is burning
+[05:23:10] inter-temporal: it's tough to defend this
+[05:23:40] subrata5252: but b7 bishop is not that bad becasue it has prospects but b2 bishop is bad for real
+[05:24:10] subrata5252: i wont be surprisd to see b5 a3 and Ba3 if the dust settles down
+[05:24:25] inter-temporal: very true. Bb2 needs two precious tempos to aim at smth
+[05:24:56] subrata5252: very tough for white to handle
+[05:25:41] inter-temporal: he's got a little bit better time.
+[05:25:41] inter-temporal: i always hang pieces in time trouble
+[05:25:56] inter-temporal: it's a gift. i was born with it
+[05:26:11] subrata5252: must be the wind
+[05:26:27] inter-temporal: maybe the sun gets in my eyes. smth
+[05:26:57] inter-temporal: for me it's just panic and then forgetting to look for threats first. lol
+[05:29:59] inter-temporal: switching flanks is unexpected. where can it enter on the c-file
+[05:30:44] inter-temporal: (27) oh yeah, c4 is still weak
+[05:30:59] subrata5252: yeah put that bishop in the pipe and smoke it
+[05:31:30] inter-temporal: lol. not sure where this leads
+[05:32:45] inter-temporal: (29) white can push back effectively
+[05:34:16] subrata5252: Feel like a kaboom moment coming!
+[05:40:05] inter-temporal: (33) black effectively switches flanks! amazing game
+[05:40:50] inter-temporal: (33...Qh5) oh i thought we'd see Alekhine's gun. lol
+[05:42:51] inter-temporal: is there a Q-sac possibility
+[05:43:22] inter-temporal: at 35...Qxh4, was trying to calculate it
+[05:43:37] inter-temporal: nah.
+[05:49:10] inter-temporal: (37.Bb2) black's lsb can enter; but Rd2 and R7c2 looks big
+[05:50:11] inter-temporal: oof
+[05:50:26] inter-temporal: 40...Ng3+
+[05:50:26] inter-temporal: gg
