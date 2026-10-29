@@ -1,0 +1,28 @@
+Lichess game chat log
+Game      : https://lichess.org/Ldytt2M9
+White     : owlfn62025
+Black     : johnjpershing
+Time      : 45+45
+Captured  : 2026-10-29 15:20:14 UTC
+Game ended : 2026-10-29 14:00:03 UTC
+Messages  : 18
+────────────────────────────────────────────────────────────
+
+[13:42:53] karasso: (27.Kh2) what a position. Black is up everything, but is probably lost
+[13:44:09] karasso: (27.Kh2) even Qg6 does not stop the mate
+[13:45:25] karasso: (28.Rg2) Qxg2 seems like the only move
+[13:45:40] johnjpershing: 28...Qxb2 almost works tactically, if not for 29 Qg7#
+[13:45:55] karasso: (28.Rg2) Rg8+ and Rg6. Bxf6+ Kg8
+[13:46:25] karasso: (30.Kh2) and black has three pawns and two rooks for bishop and queen
+[13:50:43] johnjpershing: white is playing tricky. 33 Kh3 tempts the rook fork to win the a3 pawn, which loses to a back rank mate
+[13:51:43] johnjpershing: wait, im stupid. it loses to Bxc3
+[13:51:43] johnjpershing: loses either way
+[13:53:14] karasso: (33.Kh3) h6 Kh7 Rcg8 is maybe interesting here
+[13:55:16] karasso: (34.Bb2) Bb2 is nice, stopping Kh7
+[13:55:31] karasso: (34.Bb2) maybe black can go f6
+[13:56:01] karasso: (34.Bb2) Bxf6 Rf8 should not be possible
+[13:59:18] karasso: (36.Qxh5+) would have played f6 insted of Kh7
+[13:59:33] karasso: (36.Qxh5+) well
+[13:59:48] karasso: (36...Rh6) seems like Kh7 just won :D
+[13:59:48] tactix47: gg
+[13:59:48] karasso: gg
