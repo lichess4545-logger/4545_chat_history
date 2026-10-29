@@ -1,0 +1,109 @@
+Lichess game chat log
+Game      : https://lichess.org/kEpphDCE
+White     : nubro
+Black     : marco_chess13
+Time      : 45+45
+Captured  : 2026-10-29 21:57:15 UTC
+Game ended : 2026-10-29 20:37:04 UTC
+Messages  : 99
+────────────────────────────────────────────────────────────
+
+[18:33:20] pineapplechiffoncake: go Marco! go Nubro!
+[18:41:24] marco_chess13: maybe 9... re1?
+[18:55:03] marco_chess13: my queen side development looking fantastic
+[18:56:03] pineapplechiffoncake: well you've got white thinking
+[18:58:04] marco_chess13: i think nxe4, that's a big pawn to win
+[18:59:35] marco_chess13: really didn't calculate much there, just sending it
+[19:02:22] ecoarrivazumashoomzo: Marcy's playing?
+[19:02:37] ecoarrivazumashoomzo: gooooooo Marco
+[19:06:41] jfiras: (14...Nxg3) Good luck Marco !
+[19:07:11] jfiras: (15.fxg3) Good luck Nubro too ! (my old LW opponent)
+[19:22:20] shadowofself: Nice position out of a Benoni
+[19:25:52] versaumnisgrund: Go Marco!
+[19:34:42] marco_chess13: i wonder if trading the lsb was busted in that middlegame
+[19:42:01] guitarspider: (20.Bh5) go Marco
+[19:43:02] guitarspider: (20.Bh5) I was worried for a second, but Qd4+ exists
+[19:44:33] ecoarrivazumashoomzo: but is qf5 coming
+[19:47:04] guitarspider: (21...Re7) should be pretty safe even with Qf5
+[19:47:35] guitarspider: (21...Re7) black always has f6 if nothing else and white has lots of weak pawns
+[19:50:06] guitarspider: (21...Re7) f6 would weaken the light squares a lot, but I don't see how white can actually use it
+[19:50:37] ecoarrivazumashoomzo: yeah i was gonna say, interesting, looks hard to actually break through
+[19:52:23] guitarspider: (21...Re7) I don't think you play f6 unless you have to, but it is there as a resource
+[19:53:08] ecoarrivazumashoomzo: 22) thats a pretty nice idea right
+[19:54:09] ecoarrivazumashoomzo: ah but just rxe1 works atm - i think
+[19:55:24] guitarspider: (22.Rae1) yeah
+[19:55:24] guitarspider: (22.Rae1) but white does get the file
+[19:55:55] guitarspider: (22.Rae1) but it will be a second pawn
+[19:56:55] versaumnisgrund: Rxe1Bx7+ intermezzo?
+[19:57:26] ecoarrivazumashoomzo: but whats the follow up on kf8
+[19:57:56] versaumnisgrund: Rxe1
+[19:58:11] versaumnisgrund: Not sharp today
+[19:58:11] versaumnisgrund: Sorry
+[19:59:12] ecoarrivazumashoomzo: no i get you it looks so close to something
+[20:00:12] guitarspider: (22.Rae1) if nothing else Marco can play Rc7 and nothing's happening for white
+[20:02:13] ecoarrivazumashoomzo: what a game, this is interesting
+[20:04:00] guitarspider: (23.Rxe1) presumably Qxb2 Qf5 Qf6 Qd7 b5?
+[20:04:30] shadowofself: I would just play Be5 don't want to be risking anything
+[20:04:45] guitarspider: (23.Rxe1) oh, Be5 probably, not b5
+[20:05:00] guitarspider: (23.Rxe1) or even earlier, yeah
+[20:05:30] guitarspider: (23.Rxe1) Be5 was an illegal move anyway in my variation :D
+[20:05:46] shadowofself: I just wouldn't want to think through Re7 etc
+[20:08:32] versaumnisgrund: Pls not f5. That was my first Candidate :)
+[20:09:33] marco_chess13: missed qf2 after rf8
+[20:10:18] versaumnisgrund: Rf8 Qf2 f5 could be fine?
+[20:10:49] shadowofself: there's also just enough defense on f7 from the queen on the d5
+[20:14:06] shadowofself: so Qf2 maybe b5 and make white prove there is some threat
+[20:19:54] guitarspider: (25.Qf2) agree, b5 looks good
+[20:20:24] ecoarrivazumashoomzo: even if white doesnt break through, isnt it hard psychologically to sit with this pressure as black
+[20:20:55] guitarspider: (25.Qf2) on the one hand yes, but on the other you're going to start running your pawns
+[20:20:55] guitarspider: (25...b5) and white has no way to add pressure
+[20:21:10] guitarspider: (25...b5) whereas you will definitely have to do something about those pawns
+[20:21:10] ecoarrivazumashoomzo: 25..) wooo
+[20:21:40] versaumnisgrund: Nice Marco!
+[20:23:11] jfiras: (26...Rxf7) white couldn't handle the pressure
+[20:23:11] guitarspider: (26...Rxf7) ouch, looks like white missed something big
+[20:23:26] versaumnisgrund: Seems like white wasnt able to sit
+[20:23:56] versaumnisgrund: But was already tough
+[20:23:56] ecoarrivazumashoomzo: @jfiras crazy psychology going on
+[20:24:27] jfiras: (26...Rxf7) hahaha yeah, but in my case i used it before the game to see how my opponent react to new stuff on the board :p
+[20:26:13] jfiras: (27...Qxf7) i'll continue fightling here as white
+[20:26:28] guitarspider: (28.Qc2) Be5
+[20:31:31] versaumnisgrund: It's to late now, but was there Qf1 preparing mating threats?
+[20:32:01] guitarspider: (29.Qd3) where?
+[20:32:01] guitarspider: (29.Qd3) move 26?
+[20:32:01] versaumnisgrund: 28...Qf1
+[20:32:32] versaumnisgrund: Bd4 to follow
+[20:32:32] guitarspider: (30.Qxa6) oh, for black
+[20:32:47] guitarspider: (30.Qxa6) yeah, probably
+[20:33:02] ecoarrivazumashoomzo: qg6 somewhere maybe
+[20:33:17] guitarspider: (30...Bxb2) I think Be5 first
+[20:33:32] guitarspider: (30...Bxb2) before they started pushing pawns
+[20:33:32] jfiras: (30...Bxb2) qc8+
+[20:33:47] guitarspider: (31.Qc8+) because you pin the king, very unpleasant and then you figure it out
+[20:34:18] guitarspider: (31.Qc8+) here the white king is quite safe currently and white gets loose pawns to hunt
+[20:34:48] guitarspider: (32.Qxf8+) uh
+[20:34:48] jfiras: (33.a5) c4
+[20:35:03] jfiras: (33...c4) resignable
+[20:35:03] versaumnisgrund: Okay, this is cooperative
+[20:35:18] jfiras: (33...c4) well done Marco, the king of the black pieces
+[20:35:18] guitarspider: (33...c4) I appreciate the idea, but it was not the time for that
+[20:35:33] guitarspider: (33...c4) should go hunting pawns and open black kings instead
+[20:35:48] guitarspider: (33...c4) gg to Marco :)
+[20:36:19] ecoarrivazumashoomzo: 32. qe6+ ask something qf7 qc8 maybe
+[20:36:49] versaumnisgrund: Gg
+[20:36:49] jfiras: gg !
+[20:37:04] versaumnisgrund: Well played!!
+[20:38:35] nyanners: gg
+[20:39:20] marco_chess13: gg to my opponent. Got my heartrate going
+[20:40:06] nubro: Haha
+[20:40:06] nubro: I'm not happy of how I played my opening
+[20:40:36] nubro: And then made a major miscalculation with Rxf7
+[20:40:36] nubro: And I missed c4 in the end after the queen trade
+[20:40:51] nubro: Wp!
+[20:40:51] marco_chess13: yeah I was also double checking the pressure on f7
+[20:41:06] marco_chess13: it was a good strat to exploit the light squares
+[20:41:52] nubro: Should've just annoyed you with my queen instead of trading haha
+[20:43:22] marco_chess13: absolutely
+[20:43:38] marco_chess13: well played regardless, I'll send you my analysis if you are interested
+[20:46:39] nubro: I am, I'll do the same :)
+[20:50:11] marco_chess13: sounds good!
