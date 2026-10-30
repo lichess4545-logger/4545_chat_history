@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/Xy60KWsc
+White     : cinemashow
+Black     : capturingbravo
+Time      : 45+45
+Captured  : 2026-10-30 00:04:36 UTC
+Game ended : 2026-10-29 22:44:27 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[19:58:05] cinemashow: just waiting for opp to arrive
+[20:01:52] bufferunderrun: let's go cinemashow!
+[20:07:40] ysgwydd: (5...Bf5) We saw this last week from Masterpiece
+[20:08:11] ysgwydd: (5...Bf5) that game had 5...Nh6
+[20:14:15] cinemashow: (7.Be3) I played a3 to stop Nb4
+[20:14:45] guitarspider: (7.Be3) go cinema
+[20:20:18] bufferunderrun: I would have preferred 8.Nd2
+[20:21:34] rio2018: (8...Nh6) go cinema!
+[20:21:34] ysgwydd: (8...Nh6) b4 now?
+[20:26:22] ysgwydd: (9...Qc7) h3-g4-g5 for maximum dark square control
+[20:27:22] rio2018: (9...Qc7) so far, this looks like an opening success for white
+[20:27:22] guitarspider: (9...Qc7) very much so
+[20:27:37] guitarspider: (9...Qc7) lovely lock on the position
+[20:29:23] pineapplechiffoncake: go cinema
+[20:30:24] ysgwydd: (10...Be7) Where did black go wrong?
+[20:30:24] ysgwydd: (10...Be7) Bf5?
+[20:31:09] cinemashow: (11.Bf2) this seems quite ridiculous
+[20:31:40] cinemashow: (11...Rd8) will I ever develop a knight?
+[20:32:25] bufferunderrun: Bf2 seemed unnecessary, since you could just Nf3 and Bd4 in Ng4
+[20:32:40] ysgwydd: (11...Rd8) Yeah it's not like that's a great bishop
+[20:33:41] bufferunderrun: well, it kind of helps threatening h3, g4
+[20:39:29] nyanners: the thing is bf2 doesnt even really help
+[20:39:29] nyanners: id play nf3 and ng4 bg1
+[20:39:44] nyanners: unless you do want Kxf2
+[20:39:59] ysgwydd: (12...Ng4) Bd4?
+[20:40:15] nyanners: im a beekeeper
+[20:40:30] nyanners: but Bd4 is thematic
+[20:40:45] ysgwydd: (12...Ng4) I also like bees
+[20:41:00] nyanners: the bees!! yes
+[20:41:15] ysgwydd: (14.Kxf2) Kxf2!!
+[20:41:15] nyanners: nd4 is less compelling as black ignores and goes f6
+[20:41:15] nyanners: eventually
+[20:42:01] nyanners: i suppose here there are concrete matters
+[20:42:01] nyanners: Nb5-Nd6 :o
+[20:43:01] ysgwydd: (15.Bf3) Nd6 would be nice
+[20:50:51] airini_h: Go cinema!
+[20:58:10] masterpiece_ki: Go Cinam!
+[21:01:57] ysgwydd: (19.Qe3) Bg6 doesn't look great, but is forced
+[21:04:29] mtsundance: Go cinema!
+[21:14:20] guitarspider: (21.Rhc1) I wonder if h4 was a good option instead
+[21:16:21] bufferunderrun: I would have considered 21.Nb3 to play Na5, Nac6 or Rhc1 and Rc6
+[21:22:40] ysgwydd: (23...Rf7) Rc6 looks juicy
+[21:38:34] kezberg: thought we were going to see 27bxa6
+[21:39:19] bufferunderrun: nah, this is safer
+[21:39:50] kezberg: yeah I can see the queen fork actually on a4
+[21:41:51] guitarspider: (27...Rd7) Rc8 Rd8 Bxa6
+[21:43:22] bufferunderrun: or take on d7 and Bxa6
+[21:52:12] guitarspider: (31.Be2) black will have a time trying to stop those pawns
+[22:00:17] bufferunderrun: Idk if 33.Ne5 was necessary
+[22:00:47] bufferunderrun: now Bxe5 dxe5 d4 is abit annoying
+[22:01:48] bufferunderrun: and Qxe5 Qxa3 black made things a bit easier
+[22:02:03] ysgwydd: (34.Nxg6) Yeah just take on g6 e6 and play g3
+[22:04:04] ysgwydd: (35.g3) I guess taking on e6 would drop a3
+[22:04:34] bufferunderrun: e6 isn't going anywhere
+[22:04:49] ysgwydd: (35...Qa7) It's going off the board
+[22:06:50] ysgwydd: (36...Bf6) Rc5
+[22:07:51] ysgwydd: (37.Rc5) Then Qxe6+ Qh3 to gain time
+[22:14:40] bufferunderrun: if 40....Rd7 Bxe6+ should work
+[22:14:55] bufferunderrun: Re7*
+[22:15:56] ysgwydd: (40...Bd8) Just push the pawns
+[22:15:56] bufferunderrun: just pushking the pawns
+[22:16:11] ysgwydd: (40...Bd8) We agree
+[22:16:41] ysgwydd: (41.Qc5) Almost zugzwang
+[22:17:42] bufferunderrun: Idk, I would have preferred not to over complicate  the position in time trouble
+[22:18:27] ysgwydd: (41...Kg8) Rd6
+[22:19:43] ysgwydd: (42...Qf7) Qc6
+[22:26:01] bufferunderrun: 46.f5 seemed like an option
+[22:27:02] bufferunderrun: this is also good, since Bxd5
+[22:28:03] ysgwydd: (46...Qc7) Bxd5 Qc2+ Kh3
+[22:28:18] bufferunderrun: or 47.Qh3+ Kg8 Bxd5+ Kf6 Qh8+
+[22:28:33] bufferunderrun: *Kf8
+[22:30:19] bufferunderrun: if g5 Be4+
+[22:30:19] ysgwydd: (48...Qf5+) Thanks to the four extra pawns white is winning
+[22:34:36] bufferunderrun: Bb6 and the king goes to pick up g7
+[22:35:07] bufferunderrun: h2 can never be taken since a7
+[22:35:37] ysgwydd: (55.Kh4) Slow and steady
+[22:35:52] bufferunderrun: or if Kc7 to deal with a7 white can always just play h3 g4
+[22:36:07] ysgwydd: (56...Kb8) I mean it should be winning without the kingside
+[22:39:54] bufferunderrun: 10 minutes should be enough not to stalemate
+[22:39:54] matthewkcanada: h4 and the bishop covers h1
+[22:41:55] ysgwydd: (67...Kb8) h4 gxh4 b6 h3 a7# for pawn checkmate
+[22:42:11] matthewkcanada: Or just walk over and pick up the black pawn and be done with it.
+[22:42:26] bufferunderrun: meh, why calculate at all? Just Ke7-f6-Kxg5 and push the pawns
+[22:42:41] ysgwydd: (67...Kb8) For style points
+[22:43:11] guitarspider: (67...Kb8) style points are important
+[22:43:41] ysgwydd: (71...Kb6) More important is avoiding stalemate
+[22:43:57] matthewkcanada: Definite style points now.
+[22:44:12] ysgwydd: gg
+[22:44:27] matthewkcanada: gg
+[22:44:27] pineapplechiffoncake: gg
+[22:44:27] guitarspider: gg
+[22:45:12] bufferunderrun: gg
+[23:07:53] nyanners: gg
