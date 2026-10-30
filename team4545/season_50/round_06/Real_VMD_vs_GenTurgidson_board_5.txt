@@ -1,0 +1,67 @@
+Lichess game chat log
+Game      : https://lichess.org/Gby81y5c
+White     : real_vmd
+Black     : genturgidson
+Time      : 45+45
+Captured  : 2026-10-30 00:50:58 UTC
+Game ended : 2026-10-29 23:30:49 UTC
+Messages  : 57
+────────────────────────────────────────────────────────────
+
+[22:46:09] inter-temporal: (11...d4) how is GenT doin
+[22:47:39] inter-temporal: new league player with white? VMD ... Visual Molecular Dynamics?
+[23:06:50] inter-temporal: (13...Nh4) book says 11...d4 was a novelty, but most played by us Lichessers
+[23:07:51] genturgidson: I can't remember what I was trying with 13...Nh4. I think trying to somehow prepare d3 by kicking the queen away, but maybe Qh3.
+[23:08:36] genturgidson: I think it was/is a good position, I just have to make an attack quick as black.
+[23:09:37] inter-temporal: (13...Nh4) the Nf5 seemed okay there while trying to solve the issue with the Q-side development
+[23:11:38] genturgidson: Yeah, I believe my 13...Nh4 was a total one move threat. Maybe still okay.
+[23:25:16] inter-temporal: (15...Ng3) wasn't that h4-square unsafe (...Nxh4?)
+[23:31:19] inter-temporal: that's a tricky opening
+[23:31:34] genturgidson: gg
+[23:31:34] genturgidson: I really don't know what I was thinking.
+[23:32:05] genturgidson: It was another case of severely overestimating my position.
+[23:32:20] inter-temporal: h4 was hanging. we gotta count attackers-defenders, which can seem tedious
+[23:32:20] genturgidson: I read it as a position where I had to make a crazy attack happen, kind of forced.
+[23:32:50] genturgidson: h4 was not hanging.
+[23:32:50] inter-temporal: lol
+[23:32:50] inter-temporal: okay
+[23:33:05] genturgidson: Nxh4 Qh7
+[23:33:20] inter-temporal: i guess the line is stockfishy
+[23:33:35] inter-temporal: sorry
+[23:34:21] inter-temporal: see? i gotta work on my tactics!
+[23:34:36] genturgidson: Engine says I should have been normal, Bd7, get the queen out, long castle.
+[23:34:51] genturgidson: I read the position as though a crazy attack was essential.
+[23:35:06] genturgidson: Some imaginary d3 break.
+[23:35:06] real_vmd: yeah I should ve even played h4 earlier
+[23:35:21] inter-temporal: Toth covered an interesting game with this opening in one of his courses. it seemed super sharp
+[23:36:06] real_vmd: I was uber focused on the d3 break as well for some reason I always took it into account
+[23:36:22] genturgidson: Turns out my Ne7 allowing Qxg7 was garbage. That was a motif I had mixed up from another line.
+[23:37:37] genturgidson: It was just total desperation in the end where I should have been patient.
+[23:37:52] genturgidson: I misread what the position called for.
+[23:38:07] inter-temporal: after 15.h4 the best lines are really hard.
+[23:39:08] genturgidson: It's basically just castle quick right?
+[23:39:23] real_vmd: Yeah it becomes very sharp after 15 h4
+[23:39:38] inter-temporal: yeh, after 15...Nxh4 16.Qh7 we gotta find  ...Rg4! to survive that way
+[23:39:53] real_vmd: where s the analysis Toth did?
+[23:40:08] inter-temporal: i'll find it.
+[23:40:24] genturgidson: Yeah I saw Nxh4 Qh7 and stopped calculating. Looked fatal.
+[23:40:39] genturgidson: So played something even worse!
+[23:41:24] genturgidson: I did find Rg4 in my calculation too to try and hold it together, but it looked so loose and awkward.
+[23:42:09] real_vmd: xD
+[23:42:09] genturgidson: Idea of the Ng3+ Nxg3 Rg3 was to again somehow try to facilitate d3.
+[23:43:10] genturgidson: Anyway, thanks for the game and goodnight.
+[23:43:10] real_vmd: Wait what s the rg4 idea?
+[23:43:40] real_vmd: & thank you intertemporal
+[23:44:10] genturgidson: after 15.h4, Nxh4 Qg7 Rg5.
+[23:44:10] inter-temporal: Toth analyzes : Lkhagva, Jambaldoo vs. Gdanski, Jacek
+[23:44:25] genturgidson: I'm guessing you saw that as the very premise of h4, otherwise you would have been truly hanging a pawn.
+[23:44:25] inter-temporal: i can dm the pgn and stuff. it's in his Development course
+[23:45:41] real_vmd: I did not calculate the rg4 actually I missed it sorry.
+[23:46:42] genturgidson: It was still worse for me, just a desperate way to try to justify grabbing the pawn.
+[23:46:42] real_vmd: I felt like the knight was trapped for some reason
+[23:46:42] inter-temporal: you might need to reformat a bit, but i copied to ur lichess messages
+[23:47:12] inter-temporal: GenT, do u want it as well?
+[23:47:27] real_vmd: ooh thank inter temp I'll take a look at it
+[23:48:12] genturgidson: Yes please Inter.
+[23:49:13] inter-temporal: done. :)
+[23:50:28] real_vmd: Good game Gen, goodnight!
