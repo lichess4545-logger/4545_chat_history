@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/2HV4rbcI
+White     : lion88
+Black     : glennjamesmax
+Time      : 30+30
+Captured  : 2026-10-30 07:54:16 UTC
+Game ended : 2026-10-30 06:34:08 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[05:03:16] glennjamesmax: 5.f4 not my pet variation this time. He already plays the mainline. And would have seen last week's game
+[05:03:31] glennjamesmax: and I didn't have much time to prepare and go deeply into lines
+[05:03:31] glennjamesmax: so
+[05:05:17] gavalanche20: (5...g5) At this point I'm not surprised this is theory anymore
+[05:06:03] glennjamesmax: this Planinc gambit has an insane win-rate even nowadays...Black is scoring better even in classical games in NNUE era
+[05:10:20] mrscribbles: (8...Bg4) hi gav
+[05:10:20] gavalanche20: (8...Bg4) Ola scribs
+[05:10:51] mrscribbles: (9.Be2) go jelenwslgamesnax and sirloin88
+[05:11:21] mrscribbles: (9...Nc6) What on earth is going on here
+[05:11:36] mrscribbles: (9...Nc6) Of course it's an Alekhine. Only this opening could be so freaky
+[05:12:06] glennjamesmax: 10.Be3 I think this is a good version of a position I saw in prep. Probably close to equal already
+[05:12:21] mrscribbles: (10.Be3) sure, if you say so
+[05:16:24] mrscribbles: (11...O-O) Why does white have a pawn on g5? Why is there another pawn on g2?What happened to black's g-pawn? So many questions
+[05:16:54] mrscribbles: (12.Qd2) Scrolling back through now, 5...g5 is absolutely deranged stuff. Is that theory?
+[05:16:54] gavalanche20: (12.Qd2) apparently
+[05:17:24] gavalanche20: (12.Qd2) Or if we fine theory as "has masters db games" then yea
+[05:17:24] mrscribbles: (12.Qd2) And people call me the crazy one
+[05:17:24] mrscribbles: (12.Qd2) I like safe kings
+[05:17:39] gavalanche20: (12.Qd2) idk last I checked at least GJM still has two knights
+[05:18:10] mrscribbles: (12.Qd2) LOL gav with the jokes
+[05:18:10] mrscribbles: (12.Qd2) a little late night spice
+[05:18:55] mrscribbles: (12...e6) So if Bxf3 you can't really go Bx back, right? Rxf3 then?
+[05:18:55] mrscribbles: (12...e6) Or even gxf3 to un-wonk the pawns
+[05:19:25] glennjamesmax: 12...e6 with the idea of Ne7-f5 wasn't immediately obvious to me
+[05:19:41] glennjamesmax: but I think it's a pretty good idea and points out one problem of his construction
+[05:19:56] mrscribbles: (12...e6) I like safe kings. I still get a lot of unsafe kings, but it's usually on accident
+[05:20:56] mrscribbles: (12...e6) So here's my deranged plan: h3 g4 h4 h5 etc
+[05:21:11] mrscribbles: (12...e6) h3 Bxf3 only helps the derangement; Rxf3
+[05:21:42] mrscribbles: (12...e6) maybe it's not even that deranged tbh. I just like that word
+[05:33:33] gavalanche20: (14...a6) Holy time management
+[05:46:26] glennjamesmax: I think the main issue my opponent has is the clock. He's played excellently but at the cost of burning time before the critical stage
+[05:46:41] gavalanche20: (19.Ne5) g6 was interesting
+[05:46:56] gavalanche20: (19.Ne5) Maybe Ne5 prepares it
+[05:52:59] glennjamesmax: Yeah I saw this 21.g6 a bit late.
+[05:52:59] gavalanche20: (21.g6) g6 now because if not Black blockades
+[05:53:30] gavalanche20: (21.g6) Was wondering if it was better without Nd7 first but not sure
+[05:58:17] glennjamesmax: 21...Kg8 this is a terrible position, but I have every hope of swindling him
+[06:03:35] glennjamesmax: 23...Rh8 the idea is to play Rch8 and undo my ill-advised castling
+[06:03:35] glennjamesmax: the open files should be worth something
+[06:08:08] glennjamesmax: 26...Bxg6 I'm not even sure I'm much worse now in this opp-side position
+[06:29:05] gavalanche20: (41.Qh4+) This...doesn't work does it?
+[06:29:20] gavalanche20: (41.Qh4+) Oh nvm Qg5 you pick up the bishop
