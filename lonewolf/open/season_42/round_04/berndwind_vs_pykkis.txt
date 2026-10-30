@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/fdR1MNbz
+White     : berndwind
+Black     : pykkis
+Time      : 30+30
+Captured  : 2026-10-30 14:09:02 UTC
+Game ended : 2026-10-30 12:48:52 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[11:03:05] parziwal08: Go Bernd!
+[11:03:05] berndwind: (1.d4) Ooh parziwal is on the case already...
+[11:03:20] berndwind: (1...d5) Let's see if I get the line I expect
+[11:03:35] parziwal08: Get that rating all fat and plumpy
+[11:04:51] berndwind: (4.Nc3) so far all good
+[11:05:06] berndwind: (4...Nf6) curious whether we follow the previous game they had in this line
+[11:05:21] berndwind: (5.Bf4) They won that one, so would make sense
+[11:06:07] berndwind: (5...c6) Ok different now than before. Earlier, they just played Bd6 to exchange right away
+[11:06:52] berndwind: (6...Bd6) ok there are two choices here. Either just exchange and play Bd4 or play Bg5
+[11:07:07] berndwind: (6...Bd6) I know the exchange lines better so will probably go for them
+[11:09:24] berndwind: (9...a6) I think just normal development seems logical
+[11:09:54] berndwind: (9...a6) I have no desire to stop a plan I don't think is dangerous with a4
+[11:09:54] berndwind: (9...a6) Means I can later on play a4 to undermine
+[11:10:24] berndwind: (9...a6) Plus in these lines, we sometimes get g4 ideas etc
+[11:10:39] berndwind: (9...a6) But first, get the cavalry in I guess!
+[11:10:39] berndwind: (9...a6) Chaaaarge
+[11:10:39] berndwind: (9...a6) Or just develop haha
+[11:10:54] parziwal08: Yes, I was considering at g4 ideas too.
+[11:13:41] berndwind: (10...h6) So fun. Is my opponent trying to stop any issues on the ks or trying to play g5?
+[11:13:41] berndwind: (10...h6) Am I aiming for g4 and g5?
+[11:17:13] parziwal08: Pretty sure black's not thinking g5 especially with white's lsb on the board.
+[11:31:06] berndwind: (17...Qe7) I thought the idea earlier was to play d4, getting rid of the IQP.
+[11:31:22] berndwind: (17...Qe7) Now I can even just trade down and blockade I think
+[11:44:29] berndwind: (19.f3) This was surely a critical moment
+[11:45:00] berndwind: (19...Nd6) was looking at f4 and Qc7 mostly
+[11:47:46] parziwal08: I liked qc7.
+[11:49:32] parziwal08: (20.nf4) black's piece placement is a bit odd
+[11:50:18] berndwind: (20.Nf4) Just felt too complex, and I'd already used enough time
+[11:50:33] parziwal08: Is qg5 a move here?
+[11:50:33] berndwind: (20.Nf4) Yeah this is a pawn sac if they play g5,
+[11:50:33] berndwind: (20.Nf4) but that looks very weakening around their king
+[11:52:19] parziwal08: nxc5 rxc5 e4?
+[11:52:49] parziwal08: nxc5 Bxd3, then nxe7+!
+[11:53:35] parziwal08: i mean xd5*
+[11:54:05] parziwal08: but after e4 rxd3 seems fine?
+[11:55:21] parziwal08: (21.Bxf5) yeah taking looks solid
+[11:57:07] parziwal08: why give up the piece
+[11:59:38] berndwind: (24.Rfd1) Obviously I hallucinated
+[11:59:38] berndwind: (24.Rfd1) Haha
+[11:59:38] berndwind: (24.Rfd1) Oh well
+[11:59:38] berndwind: (24.Rfd1) It
+[11:59:38] berndwind: (24.Rfd1) (24.Rfd1)It's actually ok
+[11:59:53] berndwind: (24.Rfd1) Treating this like a challnge
+[11:59:53] berndwind: (24.Rfd1) How to hold a position a piece down for one pawn
+[12:00:08] berndwind: (24.Rfd1) Can I do it?
+[12:00:08] berndwind: (24.Rfd1) We shall see
+[12:00:08] parziwal08: Good training exercise!
+[12:21:21] guitarspider: Go bernd
+[12:24:53] dr_rooks: Up for a challenge!
+[12:36:30] berndwind: (42.Rd2) hi fischer
+[12:36:30] berndwind: (42.Rd2) going down here
+[12:36:30] berndwind: (42.Rd2) oh well
+[12:37:30] fischer_and_chips88: still some hope
+[12:37:45] berndwind: (43.Kh2) Just Nxh2 looked crushing
+[12:37:45] berndwind: (43...Qxa3) h3
+[12:38:31] fischer_and_chips88: 44 qxf3 should win
+[12:38:46] berndwind: (44.g3) ok this also wins
+[12:39:16] berndwind: (44...Ne6) just Qxf3 was over
+[12:40:17] fischer_and_chips88: why are we giving the b pawn away
+[12:40:32] fischer_and_chips88: oh f3 priorities ofc
+[12:42:03] fischer_and_chips88: h4 h5 try and juice up the light squares
+[12:45:20] fischer_and_chips88: nf4
+[12:45:20] fischer_and_chips88: qg2...
+[12:45:35] fischer_and_chips88: i think it is winning
+[12:46:05] fischer_and_chips88: Nxf4 gxf4 Qg2 Kh4 Qh2 Rh3 Qf4
+[12:46:51] fischer_and_chips88: yep
+[12:48:07] berndwind: (53...Qxf4+)  ok I'll give them the well deserved mate I think
+[12:48:07] berndwind: (53...Qxf4+) They've earned it
+[12:48:22] guitarspider: gg
+[12:48:22] fischer_and_chips88: had to be Rxg4 :(
+[12:49:22] fischer_and_chips88: did you just blunder Nxd5 what was the plan
+[12:49:53] berndwind: Yeah I hallucinated
+[12:49:53] berndwind: I somehow saw a fork
+[12:49:53] berndwind: Of course there isn't one
+[12:50:08] berndwind: Just me being on some weird kind of hallucination trip
+[12:50:23] fischer_and_chips88: that is weird, unlucky
+[12:50:38] fischer_and_chips88: well done to pykkis for the clean conversion
+[12:50:53] berndwind: yes absolutely
+[12:51:08] berndwind: It's ok. Been a long week and I just messed up
+[12:51:08] berndwind: It happens
+[12:51:08] berndwind: Well deserved win for my opponent
