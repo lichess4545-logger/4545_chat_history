@@ -1,0 +1,218 @@
+Lichess game chat log
+Game      : https://lichess.org/kYQ9oA4G
+White     : jg777
+Black     : pemula64
+Time      : 45+45
+Captured  : 2026-10-30 05:09:29 UTC
+Game ended : 2026-10-30 03:49:19 UTC
+Messages  : 208
+────────────────────────────────────────────────────────────
+
+[01:03:14] jg777: A Sicilian tonight! I've been playing with or against Sicilian a lot this season. :)
+[01:03:29] mennonite: Let's go jg777!
+[01:05:46] jg777: I don't know any theory here, just playing a game of chess and see what happens.
+[01:06:31] nyanners: hate when i have to do that
+[01:07:01] mennonite: That's generally my goal, to get both sides out of book as early as possible
+[01:07:32] jg777: I'm just going to sit here for a few minutes and wrap my head around this pawn structure a bit.
+[01:09:18] nyanners: i definitely prefer it when i am in book and they are not
+[01:10:48] jg777: Trying to understand where the pieces go and what the objectives are here.
+[01:12:49] yellorambo: gl jg
+[01:13:20] jg777: I understand the c pawns are useful to black, I am not sure why e5 was needed early here, but I don't mind it for me.
+[01:13:35] jg777: I assume we are playing this with f5 in mind.
+[01:16:06] jg777: I think a problem for me this game is going to be my lack of familiarity with the pawn structure.
+[01:16:37] jg777: and I have almost zero games to refer for ideas here, so it's a true "on my own boat" in that big 64 square sea tonight.
+[01:18:38] jg777: Qd2 f5, not sure I feel good about that since Bh6 isn't available here.
+[01:18:53] jg777: looks like there's some move order nuance that I missed earlier on.
+[01:20:09] jg777: I think in these g6 structures there isn't a reason for Ng3 because you never get on f5-h5 really.
+[01:20:09] jg777: so, where is my b1 knight going this game then
+[01:20:54] jg777: I guess I can try throwing it on c4, but that might encourage b5, which may or may not be ideal either.
+[01:22:40] jg777: white's pawn breaks look a bit limited too. I think I just move ordered myself into a bad position here.
+[01:22:55] jg777: well, "bad" in that my play on here is far less clear.
+[01:22:55] nyanners: i think this is one of the legendary lines
+[01:23:10] nyanners: Na3-Nc4 into b4!!
+[01:23:10] goldenretrieverchess: Go Jordan!
+[01:24:41] nyanners: no way he plays b4 XD
+[01:24:41] nyanners: this is a good move regardless
+[01:24:56] jg777: I guess I'll try the knight for c4, Na3 seems better route as it discourages b5 immediately and on d2 f5 again forces things more.
+[01:27:43] jg777: I guess I can do this weird Rb1 Ne1 f4 stuff but surely black does f5 faster than that
+[01:28:43] jg777: Hm, I was not anticipating that. Thought black's LSB belonged on e6, g4, something over there.
+[01:29:29] jg777: Ba6 seems a bit out of play to me.
+[01:32:00] jg777: Maybe Qe2 with the idea of Rad1 and Nc4 stuff? No pin for f3 and all. Aligning my queen and rook on the a6 bishop seems a little risky
+[01:32:15] jg777: Although I don't see how it could be exploited anytime soon.
+[01:35:02] jg777: I guess I just pull my pieces into the center and go for f4 ideas. That seems the only pawn break to make here at the moment
+[01:36:48] jg777: Maybe Rd1 Nc4 then see what more information black gives before going for f4
+[01:38:04] jg777: that move suggests queenside castling is on their mind to me
+[01:38:34] jg777: otherwise you're playing Ne7 or something there I think
+[01:39:35] nyanners: okay Ba6 prevented the business XD
+[01:40:05] nyanners: im pretty sure theres a line that goes 9 Na3 Ne7 Nc4 Qc7 b4!!!? axb4 a5! and c5 drops, worth it
+[01:40:35] jg777: I can't play f4 ideas while b2 is that weak and hits stuff.
+[01:40:50] jg777: So I need to figure out the series of moves that I can still play it in 4-5 moves or something.
+[01:41:21] nyanners: yeah not sure about Rd1
+[01:42:06] nyanners: in terms of doing nothing id go with like b3 Qd2 and maybe we play Bh6 when the knight moves, because it probably will
+[01:42:51] jg777: Maybe b3 Nc4 has some value to it
+[01:43:22] jg777: Okay, waiting for as much information from me before they castle here
+[01:44:07] jg777: Ne7 now Ng5 has some value maybe because it hits f7 more easily and prepares for f4
+[01:44:53] jg777: Even Ng5 h6 Nh3 may has value, still supporting the f4 idea.
+[01:45:08] nyanners: the thing with Rad1 is that it just seems too tunneled on this f4. does not seem well placed otherwise
+[01:45:08] nyanners: maybe if you play Nc4? but then youd consider b3 bxc4 and double onb
+[01:45:23] jg777: Although I want b3 first before f4 perhaps. Will revisit that in a move or two.
+[01:46:54] jg777: This stops f5, 0-0-0 ideas at the moment. if h6 Nh3 then allows for it, but maybe the knight is actually better on h3 than f3;
+[01:47:24] jg777: h6 doesn't add as much value to the black position to me though unless they go straight away g5.
+[01:47:54] jg777: Which actually might not be so bad to clamp down on my pawn break idea there. Hmm.
+[01:50:56] jg777: in a speed game I'd probably look at h6 Nxf7 with f4 ideas just because I may not get anything active to do later on
+[01:51:26] inter-temporal: (12.Ng5) helloooo  jg67 and pemula67
+[01:51:41] inter-temporal: (12...h6) 6 7
+[01:51:57] jg777: Okay Nh3 if g5 then we're going g3-f4 stuff I guess
+[01:53:27] inter-temporal: (13.Nh3) from a sicilian Rossohello
+[01:53:58] nyanners: i hear that six seven puts you on a lichess mods watchlist
+[01:54:43] jg777: Yeah seems to make sense after h6 to play g5 without having castled kingside there.
+[01:54:58] inter-temporal: (13.Nh3) unless ur already on it
+[01:54:58] nyanners: yea then carry on
+[01:55:13] inter-temporal: (13...g5) 6 7!!
+[01:55:44] inter-temporal: (13...g5) i think the book wanted ...f6 at some point earlier
+[01:55:59] jg777: Maybe Qh5 just to be a tad annoying yet there
+[01:56:14] nyanners: f6 Bh6 is a thing that happens sometimes
+[01:56:44] inter-temporal: (13...g5) ...Ng6 looks reasonable, on the surface
+[01:57:00] inter-temporal: (14.Qh5) oh,
+[01:57:00] nyanners: i mean you could ignore it
+[01:57:15] jg777: No tactics that I can see on g5, but f7 pawn is a bit weak so not letting 0-0-0 without that
+[01:57:30] inter-temporal: (14.Qh5) is there some sac... nah
+[01:57:45] nyanners: Ng6 still looks nice
+[01:58:00] inter-temporal: (14...Ng6) it'll never happen though
+[01:58:00] nyanners: i was looking at the fact that Bc8 threatens g4
+[01:58:00] nyanners: not sure if subtle
+[01:58:30] nyanners: it still does!
+[01:58:30] inter-temporal: (14...Ng6) just needs to be caveman. looks good
+[01:59:01] nyanners: like, the vibes are somehow feeling wrong for white. you have this knight trapped and the queen is close to trapped too
+[01:59:01] nyanners: wouldnt be surprising if theres some random winning sequence
+[01:59:16] jg777: earlier this game I mentioned f4 in "4-5 moves" how long ago was that? Still likely a move or two away from that idea.
+[01:59:31] inter-temporal: (15.g3) ... except we don't do concrete moves. sooo, ...Bc8 undevelops, interferes with ...0-0-0.
+[01:59:46] inter-temporal: (15.g3) (re ...Bc8)
+[01:59:46] nyanners: yea the sane thing to do is to just play O-O-O
+[01:59:46] nyanners: and then f4 is probably sudoku
+[02:00:01] nyanners: so thats a good way to go about it
+[02:01:32] inter-temporal: (15.g3) black has d-file. what does white do.
+[02:01:47] jg777: Does b3 need to be played before f4? I thought it did, but maybe it doesn't, since now f4  gxf4 gxf4 exf4 Nxf4 Nxf4 (Bxb2 Nxg6) Bxf4.
+[02:02:02] inter-temporal: (15.g3) ah. f4 come hell or high water
+[02:02:33] jg777: Yeah, I think I can try f4 next, no need for b3, bishop doesn't have time to hit it
+[02:02:48] nyanners: i would definitely play O-O-O if i read white for f4
+[02:02:48] nyanners: which i think black should
+[02:04:04] inter-temporal: (15...Rg8)  deep
+[02:04:34] nyanners: f4 ex for Bxb2 still in the cards
+[02:04:34] jg777: Nope Yeah, I don't like possible discovered check lines to calculate when I can avoid it :)
+[02:04:49] nyanners: but yea im not sure which side this inclusion helped
+[02:05:04] nyanners: so okay deep thought moment but i think black can bluff call
+[02:05:19] jg777: Here we go!
+[02:06:05] jg777: we can probably just make an agreement that Na3 and Ba6 can just get moved off the board here :)
+[02:07:36] jg777: Remember that line where I said gxf4? Yeah, exf4 is also possible, Jordan... :P
+[02:07:51] jg777: b2 matters after all :P
+[02:07:51] nyanners: yea now how did that benefit white..
+[02:08:06] inter-temporal: (18.gxf4) maybe f4 was a tad too soon
+[02:09:52] jg777: Nc4 is just curtains for me, so Nb1 and I just admit I am worse but ready to play on a bit longer I suppose
+[02:10:07] inter-temporal: (18...Bxb2) black is quite underrated
+[02:11:08] jg777: I think this season overall has shown that my calculating is not at a reasonable level, aside from everything else going on these games.
+[02:17:26] inter-temporal: (20...Be5) hard to find a good plan back at Move 17 instead of f4. like white was already on defense?
+[02:18:12] inter-temporal: (21.Rf3) how many black pieces are on f4
+[02:19:43] inter-temporal: (21.Rf3) ah. there's a check on f5
+[02:21:28] jg777: I'm wondering if black just forces a mass exchange on f4 and simply wins the endgame with the queen pawns here.
+[02:21:44] inter-temporal: (21.Rf3) jordan's calculation muscles are workin hard now.
+[02:23:14] jg777: I guess I can keep the queens on there so maybe it's still a game yet.
+[02:24:00] jg777: Or not, there is Qd7 when Qf5+. Yeah, maybe black just mass trades and wins the endgame there.
+[02:25:46] jg777: Yeah, that looks like a lost endgame. King is even stuck on h1, Rg1 to free it leads to more trads and c4! probably ends that later
+[02:26:16] jg777: Would be cool if pemula is calculating all that out and plays it
+[02:27:47] jg777: c4 right away, interesting. I thought I can play d4 here, but maybe with those mass trades it doesn't work.
+[02:29:03] jg777: I wonder if I can play Bxb6 here and do something
+[02:29:33] jg777: Like Bxb6 Qxb6 Nxg6 with Qxe5
+[02:31:34] jg777: Okay lets check the chicken line- Bxb6 Nxf4 Bxc7 Nxh5 Bxd8- Checks out to me.
+[02:32:20] jg777: Actually I have Bxe5 there, better than Bxd8- anyway, it works out
+[02:33:05] jg777: well since nothing else was looking great I guess I go for it and say better than what could have been, surely?
+[02:35:06] inter-temporal: (22.Bxb6) black's Q got overworked? with the intermezzo. nice one
+[02:37:23] jg777: My knight on b1 is giving me the side eye (thanks for making me the worse piece on the team)
+[02:38:38] jg777: Oh maybe there is something wrong with this idea
+[02:40:55] jg777: Hmm maybe it is okay. I can get a check in somewhere if need be and maybe that works out.
+[02:41:25] jg777: Either way, this seems more promising than what I thought was going to happen
+[02:43:11] jg777: I thought there was some play with cxd3 that, this seems okay with d4?
+[02:44:57] jg777: Trying to determine if Qf5+ is worth throwing in here before d4.
+[02:46:13] jg777: I think that may just allow the bishop to get back into the game more easily with Bc8 ect.
+[02:46:58] jg777: Oh, also tactically busted- Qf5+ Kb8 d4 Qxd4!! That would have been a big oopsie.
+[02:51:00] jg777: So backtracking a bit, that whole position before c4 was played- I think the mass trade was much better for black there.
+[02:51:16] jg777: I'll be interested to see after the game if I'm correct.
+[02:51:46] jg777: I am a bit worried pemula's clock is going to be an issue here
+[02:52:46] jg777: Okay, going under a minute, alarm bell please
+[02:55:03] jg777: If I get the queens off the board my king is probably stuck on h1 for a long while. Not sure I like that
+[02:56:18] jg777: Well wait, I get a check don't I, Qxc7+ Kxc7 Rxf7+ then Rf1 to g1 next.
+[02:56:49] jg777: So maybe that is fine as I can trade on G file and free the king
+[02:57:34] jg777: bishop can't target e4 fast enough since c pawn is in the way
+[02:58:04] inter-temporal: (22.Bxb6) c-pawn[s are] in the way
+[03:01:21] jg777: Almost had a checkmate with e5+ Kd5?? Nc3#, but Ke6 existed and I wasn't sure I wanted that pawn structure
+[03:04:23] inter-temporal: (34.Nc3)   white seems to be in a very good position.
+[03:04:38] jg777: Well I get an endgame here so I am more than happy with how this all turned out
+[03:05:24] inter-temporal: (34.Nc3) not sure how to advance, but white appears remarkably stable
+[03:05:24] jg777: And look, that sad knight on b1 gets to be one of the stars of the game now! :)
+[03:05:39] jg777: It was... uh.. all part of my master plan?
+[03:05:54] jg777: Yeah did not expect that- did I miss something terrible here?
+[03:06:24] inter-temporal: (34...Bxe4) if this works, black deserves a gold star
+[03:06:39] inter-temporal: (35...Kd5) maybe 2
+[03:06:39] nyanners: the turntables
+[03:06:55] nyanners: it could work. its on white to calculate it correctly now
+[03:07:40] nyanners: i think Nxa5 white does win
+[03:07:55] nyanners: the point is that knight holds vs pawn and then, well, you win
+[03:08:10] nyanners: and i dont think black is fast enough to avoid that scenario
+[03:15:45] inter-temporal: (35...Kd5) Kc3-b2?
+[03:16:15] inter-temporal: (37...Kc3)  or take that a-pawn
+[03:17:00] inter-temporal: (37...Kc3) a fork in the road
+[03:17:16] inter-temporal: (38.Ke1) north!
+[03:17:31] inter-temporal: (39.Kd2) further north
+[03:18:31] acebulf: hello crowd
+[03:18:46] inter-temporal: (40...Kb5) me and nanners?
+[03:19:17] inter-temporal: (40...Kb5) everyone else abandoned our crowd... hello!
+[03:20:48] inter-temporal: (41.Nf5) Nd6 is gonna hurt
+[03:21:33] inter-temporal: (41.Nf5) deflect the white K and run to the h-file (and ::praying hands emoji::)
+[03:22:03] inter-temporal: (41...Kc5) oh, but the N will be able to defend from behind.
+[03:22:34] jg777: The way  I win is a position where my knight is on f1 (or f3) and my king protects it, after I have taken c-a pawns.
+[03:23:04] jg777: Getting there, is where I am trying to sort out.
+[03:24:50] jg777: Or maybe I am going about it wrong and I take on h6 threatening the pawn push, king runs over and my king gobbles the pawns
+[03:24:50] jg777: That looks easier to figure out
+[03:27:06] inter-temporal: (41...Kc5) after ...a3, black's K is free
+[03:31:24] inter-temporal: (44.Ne3)  good move
+[03:33:25] inter-temporal: (45...Ke6) by 1 move
+[03:33:25] nyanners: gg
+[03:33:40] inter-temporal: (48.Nd2) gg
+[03:33:40] jg777: well my original idea is what ends up
+[03:34:26] inter-temporal: (50.Kd4) yes. play it out! respect.
+[03:35:26] inter-temporal: (51.Ke5) wonder if the endgame eval has some zigzags, or just all white
+[03:35:41] jg777: There's going to be a lot to review for me this game
+[03:37:12] jg777: It was a fun game at least, but that mass trade- Pretty sure black had a won endgame there.
+[03:47:03] jg777: Reminds me of my son fork2020- Go until checkmate! :D
+[03:47:33] inter-temporal: (53.Kf3) "Never resign! (unless you feel like it)"--
+[03:49:04] inter-temporal: (68.Kg6) ...Kg8, h7+ Kh8, Nf7#
+[03:49:19] inter-temporal: gg
+[03:49:19] inter-temporal: both!
+[03:49:35] ivanhomeless: gg
+[03:51:51] jg777: Hm, Ba6 is out of  the masters database. I didn't realize I played "theory" up til then.
+[03:52:21] pemula64: gg
+[03:52:36] jg777: Yeah f4 was blunder, that much I knew. poor b2. :P
+[03:52:51] inter-temporal: after the clock showed 5 minutes for black, it turned
+[03:52:51] nyanners: 9..ne7 nc4 qc7 b4
+[03:53:06] nyanners: for the record
+[03:53:06] pemula64: didn't meant disrespect for not resigning. I really didn't know if the knight can force a win lol
+[03:53:36] nyanners: yeah theres the esoteric one where its a draw
+[03:53:52] jg777: Yeah, I wasn't sold on 24. Rdg8. I thought simply cxd3 and you are doing well there still.
+[03:53:52] nyanners: but white can avoid that by being careful before pushing
+[03:53:52] inter-temporal: total respect for not resigning!
+[03:54:07] inter-temporal: 100% respect
+[03:54:37] jg777: Nah, playing it out is fine
+[03:55:07] jg777: With this late hour, my brain has been in shut down mode, I could easily have done something silly :P
+[03:55:22] jg777: My son fork2020 plays until mate often, all good. :)
+[03:55:22] nyanners: 7k/7P/8/6NK/8/8/8/8 w this is approximately the position black wants
+[03:56:23] nyanners: of course its only too late after h7
+[03:56:23] jg777: Oh, 28 Rff1 is terrible miss also. Well, I was missing a lot this game!
+[03:56:38] pemula64: this will be a fun game to review!
+[03:58:39] jg777: Yeah I'll have to look at the pawn structure a bit, I was not sure what I needed to be doing and floated around a bit here
+[03:58:54] jg777: Also, as I mentioned during the game, I need to work on my calculation, missed a few things here
+[03:59:39] jg777: Well it is midnight for me, time to get some sleep and let my brain actually shut down for a bit. Thanks for the game and have a fun rest
+[03:59:55] jg777: of the season pemula!
+[04:00:10] jg777: Glad I got to even play an endgame and the bishop sac sure made me think!
+[04:05:42] pemula64: (21... Bxf4 22. Qf5+ Qd7 23. Qxd7+ Rxd7 24. Bxf4 Nxf4 25. Rxf4 Rgd8 26. Rh4 c4)
+[04:05:58] pemula64: that's the stuff
+[04:05:58] pemula64: good night!
