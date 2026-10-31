@@ -1,0 +1,42 @@
+Lichess game chat log
+Game      : https://lichess.org/4G8DWlpC
+White     : far1108
+Black     : billy_sprinkle
+Time      : 45+45
+Captured  : 2026-10-31 13:15:37 UTC
+Game ended : 2026-10-31 11:55:34 UTC
+Messages  : 32
+────────────────────────────────────────────────────────────
+
+[10:44:59] shurbz: Lets go far!
+[10:47:01] shurbz: 27.. nxc2 qxc2 rb4 is interesting
+[10:47:46] shurbz: c4 only works when the queen stays on the d-file
+[10:50:48] shurbz: na3 nice
+[10:53:34] shurbz: Bh3 bg2 shuffle draw?
+[10:59:23] shurbz: 31 g5 looked scary, I didn’t “get” qb2
+[11:00:23] cinemashow: (33.hxg5) I'm thinking g5 too - didn't understand Qd5+ either
+[11:02:09] shurbz: Yeah, now the queen isn’t helping the break through
+[11:03:40] shurbz: Qxe5 is bold now
+[11:04:56] shurbz: Ke1/3 is a fork so this is still risky I guess, I assume far sees that ofc
+[11:09:59] shurbz: If nxd3 was winning that’d be funny, too bad rooks are a little clunky
+[11:11:45] lorb: You mean Rxd3?
+[11:12:31] shurbz: No, nxd3 exd3 rxd3+
+[11:13:31] shurbz: black has good pawns and initiative but has lost a piece and I don’t think it works out
+[11:13:31] lorb: ah different move already. I don't see though how 38...Rxd3 doesn't work?
+[11:16:03] shurbz: Ah yeah sorry I didn’t make the move order clear, that is probably winning for black but rxd3 rxg5 idk life goes on
+[11:19:05] joonaf: go Billy!
+[11:29:11] lorb: I'm a bit worried about black not activating their king
+[11:30:11] shurbz: If rooks come off not sure its winning for white but it seems harder for black than they wanted
+[11:38:09] joonaf: was lichess down for only me?
+[11:41:41] shurbz: I see your message joonaf
+[11:41:41] shurbz: So I would assume its up?
+[11:43:27] joonaf: but works now, but was down for some minutes
+[11:45:13] shurbz: :thumbs up:
+[11:51:47] joonaf: what's going to happen
+[11:52:17] lorb: well, black queens first, but white queens with check
+[11:53:18] keplan: white wins i think
+[11:53:48] lorb: my guess is that the engine sees a draw here
+[11:54:49] joonaf: damn
+[11:55:04] joonaf: gg
+[11:58:06] lorb: wow, only way to hold draw was 59...Kb6 which certainly isn't a human move
+[11:59:21] far1108: oof yeah I did not even consider that
