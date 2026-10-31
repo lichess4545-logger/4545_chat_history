@@ -1,0 +1,138 @@
+Lichess game chat log
+Game      : https://lichess.org/7jLz47hs
+White     : drotciv
+Black     : butterpecan
+Time      : 45+45
+Captured  : 2026-10-31 23:54:43 UTC
+Game ended : 2026-10-31 22:34:32 UTC
+Messages  : 128
+────────────────────────────────────────────────────────────
+
+[20:01:33] ben3536: go butterpecan!
+[20:06:21] butterpecan: 12...c5....maybe i should start thinking since i'm not so sure i'm playing theory anymore?
+[20:06:36] ben3536: absolutely not
+[20:06:51] ben3536: no thinking allowed
+[20:06:51] butterpecan: but discouraging d3-d4, secruing the b pawn, and making room for Qb6 feels like a good idea
+[20:07:06] butterpecan: which is why i'm pretty sure 12...c5 was the move
+[20:15:11] butterpecan: 13...Bc8 - i know that redeploying the bishop on e6 is a thing in some lines, not sure about here...
+[20:15:26] butterpecan: but it looks like a reasonable option
+[20:15:41] butterpecan: Ng5 is probalby met by h6
+[20:16:11] butterpecan: and Nf5, i'd have another think about chopping it off or just playing Be6
+[20:18:13] ben3536: (14.Nh4) is Nxe4 playable here?
+[20:23:00] ben3536: (14.Nh4) I don't see why not
+[20:26:32] butterpecan: 14...Ne4....most of the time was spent looking at other sht before i noticed this
+[20:26:47] butterpecan: spend a couple minutes trying to refute it, but i don't see the problem
+[20:31:50] butterpecan: 16...Bf6 thought about Be7, but Kh8, f5 is very slow, and white is bearing down on the black kingside
+[20:32:21] butterpecan: preparing a fianchetto setup seems safer
+[20:32:36] ben3536: (16...Bf6) agree with that analysis
+[20:32:51] ben3536: (16...Bf6) the other option was Bxg3 hxg3 Qf6, but that doesn't seem super safe either
+[20:33:37] ben3536: (16...Bf6) also threatening d5 here, though whether you want to play it is a separate question
+[20:33:52] butterpecan: my pieces are a disorganized mess, so white certainly has compensation, and i might be too optimistic and there could be a winning attack
+[20:33:52] butterpecan: for white
+[20:34:07] butterpecan: but it feels like i should be able to hold this together
+[20:42:27] pepepibote: is 18... g6 good for us?
+[20:43:12] pepepibote: go butter
+[20:43:27] pepepibote: 17...
+[20:43:42] schaakruudw: not okay
+[20:43:57] ben3536: (17.Nf5) inclined to doubt it, but it's not terrible
+[20:44:43] pepepibote: um i see
+[20:44:43] ben3536: (17.Nf5) Bxf5 Qxf5 Nc6 (-> e7 g6) feels like a more straightforward way to play this
+[20:44:58] ben3536: (17.Nf5) well I mean Nh6+ and you're not winning a piece
+[20:45:28] ben3536: (17.Nf5) Kh8 Qf3 and Nxf7 is threatened
+[20:45:59] ben3536: (17.Nf5) just creating a few too many holes for my liking
+[20:46:59] schaakruudw: BxNf5
+[20:48:00] pepepibote: ah yea we're a pawn up. nc6-ne7 and king safe, no more holes
+[20:48:45] pepepibote: less attacking pieces
+[20:49:00] ben3536: (17.Nf5) yeah
+[20:49:15] ben3536: (17...d5) you still have to watch for h4 h5 h6 ideas, but that's the goal
+[20:49:31] butterpecan: 17....d5....tying my head in knots
+[20:50:16] ben3536: (17...d5) is the point here Rg4 g6? not quite sure what to think of it
+[20:51:32] ben3536: (17...d5) I guess cutting off the a2 bishop is generally good, but now d5 and e5 become weaknesses
+[20:54:03] butterpecan: 'tis late in the day for coffee, but think i probably need it
+[21:01:23] pepepibote: 18 rg5 and we bail with kh8 preparing g6, rook pinned,  threatning fork
+[21:03:24] butterpecan: 20...g6 was the idea so i guess we're about to find out if it was stupid
+[21:03:24] pepepibote: splashing water in the face also works if there is no time for coffe
+[21:08:27] butterpecan: i feel like having "superfreak" randomly come on the playlist right after "can't touch this" was an omen
+[21:08:42] butterpecan: not sure if it's a good one or a bad one
+[21:11:28] butterpecan: americans in the spectator room, don't forget to vote!
+[21:12:14] butterpecan: just saw a video on IG of crazyass long lines for early voting at the spot close to my house
+[21:12:29] butterpecan: is kinda strange, because i don't think it's ever too bad on election day itself
+[21:14:00] butterpecan: my little westie is giving me the side eye.  from his spot on my lap he can see the position
+[21:14:15] butterpecan: i'm concerned he thinks black is losing here
+[21:23:05] butterpecan: so g6 must not be obviously stupid if he's thinking this long
+[21:23:20] butterpecan: so even if it was losing, my ego is preserved?
+[21:36:13] butterpecan: i can burn another 10 minutes looking for something different (than Kh8) but it was this resource
+[21:36:13] butterpecan: that made me ok with g6
+[21:36:28] butterpecan: that like a bunch of sht is hanging for white, and i don't think there are immenent mate threats
+[21:36:43] butterpecan: but of course i could be wrong
+[21:36:58] butterpecan: but if i'm wrong, i doubt burning my clock will yield a feasible alternative
+[21:43:47] butterpecan: the think on Qf8 was about b4-b3
+[21:44:02] butterpecan: but i think after c takes and Qf8, b3-b4 is just a better version of this for white
+[21:44:17] butterpecan: i know i'm up a piece, but it's still messy
+[21:45:03] intemperate: That's exaggerated modesty, it's completely winning for Black
+[21:46:34] intemperate: Unless he carelessly gives away free pawns that is lol
+[21:59:26] butterpecan: sht.... i lost a couple minutes because i forgot to hit move confirmation
+[22:02:58] butterpecan: h i hang my kight
+[22:03:13] butterpecan: jfc
+[22:12:49] butterpecan: if i give him a move with 35...Rf8, he can move his king to prepare Rd7 with threats on g7
+[22:13:04] butterpecan: so need to get the queen back to the kingside
+[22:13:50] ben3536: (36.Kh1) h5 is a move here
+[22:14:05] qrs: 38 ... Qc3 possible?
+[22:14:20] qrs: *Qd3
+[22:14:50] ben3536: (36...Rf8) seemed good
+[22:14:50] qrs: 36. ... Qd3 I meant
+[22:15:51] ben3536: (37.h3) may not have been a followup after Rg1 but keeps more activity
+[22:16:37] ben3536: (37.h3) maybe then you just push the c pawn
+[22:16:37] qrs: Ye white has passive rook then
+[22:17:22] qrs: Definitely better than the game continuation where white has more activity
+[22:17:52] qrs: 37 ... Rxf3  not possible
+[22:18:38] ben3536: (37...Bh6) I think the point is more to stop Rd8
+[22:19:53] qrs: Well there is always threats for either side here
+[22:21:40] qrs: (38 Qh4) now ... Rxf3 could actually work ?!
+[22:22:25] qrs: Gotta be very careful though
+[22:22:55] ben3536: (38...Bg5) I think Rxf3 Rd8+ Rf8 Qf6+Bg7 Rxf8#
+[22:23:11] qrs: No, Rd8+ Bf8
+[22:24:11] ben3536: (39...a5) well then just gxf3 and you're not necessarily winning the rook back
+[22:26:12] qrs: (39. ... a5) true, but I think you had a perpet then. Also 39. ... Rxf3 only got stronger
+[22:26:58] qrs: There was no rook or queen check for white after 39 Rxf3
+[22:27:43] qrs: Sorry I keep pushing that move :D
+[22:27:43] ben3536: (42.Rd1) that's true, probably quite good then
+[22:27:58] qrs: Just looks so tempting
+[22:28:13] ben3536: (42.Rd1) well, maybe white can ignore it and play Wxa6
+[22:28:29] ben3536: (42.Rd1) but I agree that it's tempting
+[22:28:29] lotus_62: Wxa6 is interesting
+[22:28:44] ben3536: (43.Qc4) white takes a6
+[22:28:59] ben3536: (43.Qc4) don't see the problem
+[22:29:14] ben3536: (43.Qc4) none of the pieces move, just the pawn is taken off the board :)
+[22:29:29] qrs: Rxf3 Qxa6 Rxh3+
+[22:29:44] ben3536: (43.Qc4) Bxa3
+[22:29:44] ben3536: (43...Qe3) Bxh3
+[22:30:00] ben3536: (43...Qe3) I really do need to stop making these typos jeez
+[22:30:00] qrs: Ouch
+[22:31:00] intemperate: Rf1, gotta stop Qf2->g3?
+[22:31:46] qrs: (44 Qa6) Yep was just typing that it’s hard to stop that idea now ?!
+[22:32:01] intemperate: Maybe I'm too tired, simply don't understand Qa6?
+[22:32:46] intemperate: Is he hoping for Bc4 and Qf6?
+[22:33:01] intemperate: seems so lol
+[22:33:47] qrs: (44. ... Qf2) Qf1 might still save the day
+[22:34:17] intemperate: B in the way. Rf8?
+[22:34:32] intemperate: oopsie lol
+[22:34:32] qrs: Iiiirgh
+[22:34:47] qrs: No I meant Qf1 before Bc4
+[22:35:03] intemperate: ah ok
+[22:35:03] qrs: But clearly white proved us wrong, haha
+[22:35:18] qrs: GG
+[22:35:18] drotciv: proved is maybe a strong word
+[22:35:33] intemperate: I was thinking Rf8 put a stop to it
+[22:35:33] schaakruudw: good play Drotciv
+[22:36:03] intemperate: Well done. Looked lost for a looong time!
+[22:36:18] drotciv: Indeed. I went a little crazy in the opening
+[22:36:33] drotciv: ended up with everything hanging and nothing to show
+[22:36:48] drotciv: But kept it together enough not to blunder everything
+[22:36:48] intemperate: You played the poe-a-dope defence, very cunning :D
+[22:37:04] schaakruudw: Black had better position
+[22:37:04] intemperate: Rope-a-dope ffs
+[22:37:49] drotciv: I realized 17...d5 was a problem while they were thinking. And Nh4 was a bit of a counting blunder. Saw Nxe4 but in my head Rxe4 defended
+[22:38:04] drotciv: the knight
+[22:38:19] intemperate: he badly mishandled a winning position. But it's not easy. You hung in there and pounced when the opportunity arouse, well  done! Levelled t
+[22:39:35] drotciv: Maybe its not so bad if I don't throw out 17. Nf5 like a maniac. Realized d5 was an issue after I moved
