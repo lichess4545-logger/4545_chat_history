@@ -1,0 +1,118 @@
+Lichess game chat log
+Game      : https://lichess.org/492ow84L
+White     : milsbees
+Black     : irongalaxy
+Time      : 45+45
+Captured  : 2026-10-31 20:47:48 UTC
+Game ended : 2026-10-31 19:27:38 UTC
+Messages  : 108
+────────────────────────────────────────────────────────────
+
+[18:11:07] nermin_dedovic: Good luck Bees
+[18:16:10] wtm22: Let’s go irongalaxy!
+[18:18:11] pezzo17: (3.d4) lets go mils!!
+[18:20:43] guitarspider: (6.Ndb5) go Mils
+[18:22:44] pezzo17: (7...a6) i stepped away and see Qb8 and thought they were playing 960 for a second
+[18:22:59] milsbees: (1.e4) I wondered if they'd play into this
+[18:23:14] milsbees: (7...a6) my favorite line. I lose just as often as I win, but it's fun
+[18:24:00] irongalaxy: (9.Nxb5) this line is supposed to be fine for Black no? I get three minors for the queen
+[18:26:01] irongalaxy: (11.Nd6+) I am familiar with Nc7+
+[18:27:01] milsbees: (7...a6) Objectively this is slightly worse than Nc7+, but that leads to a 3 pieces for a queen position that's not that great for ...
+[18:27:01] milsbees: ...white.
+[18:27:47] milsbees: (11.Nd6+) Black has that option here too of course, but if Kf8 we go into the tightrope walking
+[18:28:48] irongalaxy: (11...Kf8) Qxd6 and Bxb6 looked rather passive
+[18:29:33] milsbees: (11.Nd6+) I played this OTB against an IM and he had never seen this before
+[18:29:48] milsbees: (12.Bc5) He did play b6 in the end (best move)
+[18:29:48] milsbees: (12.Bc5) Most people go Nge7
+[18:38:23] tactix47: (13...Nf6) Go Mils!
+[18:40:40] milsbees: (12.Bc5) Now more or less out of prep, I remember b5 being black's best move there but I think we're still following the IM game
+[18:40:40] iwishiweredecent: lets go irongalaxy!!!!!!
+[18:48:44] iwishiweredecent: Well this game is utterly crazy already by move 13... seems like the piece sacrifice might be sound
+[18:50:00] iwishiweredecent: does something crazy like 14...Ke7 work?  or maybe Ba6?
+[18:51:16] lloydret: (14.Bb5) I don't see how Black counters the (long-term) threat of b4 to win a piece (for 2 pawns)
+[18:51:31] iwishiweredecent: ahhhh
+[18:51:31] guitarspider: (14.Bb5) I guess that's why they needed b5
+[18:51:46] guitarspider: (14.Bb5) really strange line
+[18:52:01] iwishiweredecent: yeah I am seriously confused
+[18:52:16] fischerforlife: It's theory to sac the piece
+[18:52:16] guitarspider: (14.Bb5) but it will be a pawn up at the end? for a locked out rook
+[18:52:16] iwishiweredecent: but okay, so what does black play whilst waiting for b4?
+[18:52:47] fischerforlife: (14. Bb5)This is sound
+[18:54:02] iwishiweredecent: Hey Nermin_Dedovic, sorry I missed you for our game, if you would like to play a game sometime send me a message.  Hope all is well my frien
+[18:54:17] milsbees: (14.Bb5) I remember sort of loose positions from the IM game. Piecing it back together, I think they played Ba6 here
+[18:55:33] iwishiweredecent: Wait but after b4 immediately, Nxb4, cxb4, Bxb4+ wins the knight on d6 no?????
+[18:55:48] milsbees: (14.Bb5) Yeah and I think that's where I went wrong. I played a4 I think and he took over the game after that
+[18:56:04] iwishiweredecent: ahhh or white takes the knight on c6 first
+[18:56:04] milsbees: (14.Bb5) Though I did miss a slim drawing chance in time trouble
+[18:56:19] lloydret: Yes, but White can preceed b4 with Nxc8 if he chooses
+[18:57:19] iwishiweredecent: so maybe black should just play 14.... Ba6?
+[18:57:50] lloydret: Then a4 I think
+[18:57:50] iwishiweredecent: seems like just a whole lot of bad options for black
+[18:58:35] lloydret: Which would explain the deep think.
+[18:58:35] fischerforlife: I think (14...Na7) is also sound
+[18:59:20] iwishiweredecent: Yeah irongalazy is a really sharp player.. seems like he just got caught by some nasty preparation
+[18:59:36] irongalaxy: (14...Ba6) Welp that's my one 15+ minute time sink of the day
+[18:59:36] iwishiweredecent: Heyyyyyyy I guessed his move!!!
+[18:59:36] irongalaxy: (14...Ba6) Hopefully
+[19:00:21] iwishiweredecent: These guys are much higher rated than me, so trying to understand the positions is great practice for me
+[19:04:23] irongalaxy: (16.b4) ah was looking at Ke7 but Bf4 is nasty
+[19:04:39] irongalaxy: (16.b4) Nxe4 and Qe5 maybe?
+[19:06:40] lloydret: (16.b4) So White's King is stuck in the centre now - 16...Ke7 looks interesting, or maybe ..e5 to stop White playing e5
+[19:09:11] irongalaxy: (16.b4) there is also Nd5 exd Qxd6
+[19:12:44] lloydret: (16...Nxe4) 17.Nxe4 Qe5 18.Qd6+
+[19:12:59] nermin_dedovic: Does that work? Nxe4 Qe5 f3?
+[19:13:14] iwishiweredecent: What am I missing here>?
+[19:13:29] nermin_dedovic: Seems fine for white. c3 still defended by the knight and the bishop will fall as well
+[19:13:59] iwishiweredecent: Why not just take the pawn and give the piece back?
+[19:14:45] iwishiweredecent: Yeah
+[19:14:45] iwishiweredecent: This is not looking good
+[19:18:32] iwishiweredecent: Gotta apprecaite the effort to try to make something happen but it is not looking good for black at move 20
+[19:19:02] nermin_dedovic: So how does white hold the knight here? Rd1 Rd1 axb6 with the idea of pinning rook with Bc5 if the knight is captured?
+[19:19:02] iwishiweredecent: although the knight does look trapped, but what about Bg5+?
+[19:19:33] iwishiweredecent: oh nvm
+[19:19:33] iwishiweredecent: duh
+[19:21:49] lloydret: (20...Ke7) 21.0-0-0 defends the Knight, with 21...Rhd8 able to be met with Bxb6 (when Rxd6 is met with Bc5)
+[19:26:37] feet_barbie: Go mils
+[19:27:22] irongalaxy: (22.axb6) its over. Bc5 next. i can never win back the piece
+[19:27:22] irongalaxy: (22.axb6) gg
+[19:27:53] tactix47: gg
+[19:28:53] feet_barbie: Wow nice line where does prep end
+[19:28:53] feet_barbie: 16... Nd5 crazy xD
+[19:29:24] irongalaxy: wtf is b5 on move 13
+[19:29:39] irongalaxy: oh to not trap the bishop
+[19:29:54] irongalaxy: man insane line
+[19:30:54] milsbees: yeah, not even the IM played b5 after b6, that's some computer craziness
+[19:30:54] irongalaxy: yes the other move i was considering on move 16 is equal
+[19:30:54] irongalaxy: ok
+[19:31:09] irongalaxy: just didnt see the "subtle" qd6+ in my line
+[19:31:09] milsbees: I guess you missed the queen trade after Nxe4?
+[19:31:25] milsbees: yeah...unfortunate
+[19:31:40] chonov: crazy stuff
+[19:34:11] irongalaxy: so really i am supposed to sac the queen after Nd6+ as well
+[19:34:11] irongalaxy: to avoid the very complicated stuff
+[19:34:41] milsbees: it's the simplest way yeah
+[19:34:56] milsbees: I get a slightly better position compared to the Nc7+ line, but black is doing well
+[19:35:27] milsbees: A lot of people play 12...Nge7 and that can also be fine if you know what you're doing
+[19:35:42] milsbees: Nge7 Qh5 Nd8
+[19:36:27] milsbees: but that's still tough to play so b6 is definitely better imo
+[19:36:42] irongalaxy: White has the initiative in the 12...Nge7 line for sure
+[19:36:57] irongalaxy: even if it is objectively ok for Black
+[19:37:43] irongalaxy: yeah then Nd6+ is just better for White than Nc7+
+[19:37:58] irongalaxy: takes longer for Black to untangle
+[19:38:13] milsbees: yeah
+[19:38:43] irongalaxy: or i can just remember ...b5
+[19:38:58] milsbees: haha yeah that's easiest
+[19:38:58] milsbees: though you probably won't face this all that often
+[19:39:13] irongalaxy: people dont really play Ndb5
+[19:39:44] milsbees: yeah it's not common
+[19:39:59] milsbees: 12% on Lichess but only a few hundred master games
+[19:42:15] irongalaxy: Pavlidis recommends the Kf8 and Nge7 line hmm
+[19:44:01] milsbees: so my prep there goes 14.Rd1 Bc7 Bb5
+[19:46:32] irongalaxy: looks messy
+[19:46:32] milsbees: yeah definitely is
+[19:46:47] irongalaxy: regardless my alternative of 16...Nd5 would have kept the game going for a long time
+[19:47:02] irongalaxy: oppo bishop fun
+[19:47:02] milsbees: woop woop XD
+[19:47:18] irongalaxy: tactics training for moi
+[19:47:18] irongalaxy: ggs
+[19:48:03] milsbees: yeah good game!
