@@ -1,0 +1,41 @@
+Lichess game chat log
+Game      : https://lichess.org/lPSO3yjT
+White     : johansen231
+Black     : ciraid
+Time      : 45+45
+Captured  : 2026-10-31 00:23:05 UTC
+Game ended : 2026-10-30 23:02:57 UTC
+Messages  : 31
+────────────────────────────────────────────────────────────
+
+[21:50:00] inter-temporal: (23...Qf5)  go Ciraid!
+[22:29:22] highonpotnuse: go ciraid!
+[22:30:38] oachkatzerlschwoaf: go cicadas
+[22:39:13] inter-temporal: (23...Qf5) this is one of those rook endgames--each side has 2 weaknesses, defender is more active. maybe  try ...e5?
+[22:39:43] inter-temporal: (41.Rc6) my prepend was off. lol
+[22:40:44] inter-temporal: (41.Rc6) ...e5, fxe5 Rxe5+, Kf4 Re4+, Kxf5 Rxa4
+[22:40:59] inter-temporal: (41.Rc6) i think that's actually a winnable endgame
+[22:42:15] inter-temporal: (41.Rc6) maybe not with the white K so advanced. idk
+[22:45:01] nyanners: no idea
+[22:47:02] inter-temporal: (41.Rc6) maybe back at 38...gxf4 & ...e5
+[22:47:33] inter-temporal: (41.Rc6) that position, with the blocked a-pawns looks familiar
+[22:51:35] nyanners: i was wondering about this one
+[22:51:35] inter-temporal: (41.Rc6) maybe he'll come back to it later
+[22:51:50] nyanners: i think it's promising
+[22:51:50] nyanners: Rxg3
+[22:52:21] inter-temporal: (41...Rd1) Ra6 Rg1, Rxa5 Rxg3+
+[22:52:51] inter-temporal: (41...Rd1) maybe enough time to take f4
+[22:53:36] inter-temporal: (41...Rd1) for sure enough time.
+[22:53:51] inter-temporal: (41...Rd1) well
+[22:54:37] inter-temporal: (42...Ra1) something else
+[22:57:08] inter-temporal: (44...Kd6) turning out pretty good for my mate
+[22:57:38] inter-temporal: (47...Ra2+) too good almost
+[22:58:09] inter-temporal: (48.Kf1) come in to f3 with tempo, sorta
+[22:58:54] inter-temporal: (48.Kf1) ...Kf3, Rxe6 Ra1+, Re1 Rxa5,
+[22:59:24] inter-temporal: (48...Kf3) then return to a1 and trade Rs
+[23:00:25] inter-temporal: (48...Kf3) i wouldn't have thought of that in a million years.
+[23:02:11] inter-temporal: (49...Ra1+) or ...Ra4, but this works too
+[23:02:41] inter-temporal: gg
+[23:02:41] highonpotnuse: gg
+[23:04:58] inter-temporal: move 47, SF wants white to abandon the a-pawn and return to set up a philidor defense
+[23:09:15] nyanners: gg
