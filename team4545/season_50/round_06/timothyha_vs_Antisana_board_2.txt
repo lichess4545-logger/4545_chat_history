@@ -1,0 +1,54 @@
+Lichess game chat log
+Game      : https://lichess.org/l5hdyGTO
+White     : timothyha
+Black     : antisana
+Time      : 45+45
+Captured  : 2026-10-31 22:27:52 UTC
+Game ended : 2026-10-31 21:07:43 UTC
+Messages  : 44
+────────────────────────────────────────────────────────────
+
+[20:02:50] jfiras: Good luck Timothy !
+[20:03:05] rolihlahla: go Captain!
+[20:04:51] tactix47: (4.c3) Go Timothy!
+[20:06:37] timothyha: (4...g6) a reversed Meran?
+[20:06:37] timothyha: (4...g6) now I need to remember what I do as Black
+[20:07:23] timothyha: (4...g6) also no e6 so more like Catalan
+[20:07:38] timothyha: (4...g6) ah, the e6 is mine (e3) :-)
+[20:12:41] timothyha: (7...Nxc5) I remember when I did this as White, I lost to an FM
+[20:12:56] timothyha: (7...Nxc5) so doing this with Black probably should be more exploitable...
+[20:13:11] timothyha: (7...Nxc5) but that game was 4 years ago...
+[20:14:11] timothyha: (7...Nxc5) maybe c4 and claim they're too slow
+[20:16:12] timothyha: (8.c4) on Nc3 Bxc3 I get a moral victory over the fianchetto
+[20:17:59] timothyha: (8.c4) when I was White at least I had a N on c for Nxc4/c5
+[20:17:59] timothyha: (8.c4) now Black doesn't have that move in
+[20:23:01] timothyha: (12.Nd4) i probably win a pawn
+[20:24:02] scarff: This looks really nice for far Tima! Good luck!
+[20:28:50] ttsgosadow: Lets go Timothy!!
+[20:29:20] timothyha: (14.Qf3) the endgame is strange from here
+[20:29:35] timothyha: (14.Qf3) my pieces need better squares soon
+[20:31:52] timothyha: (14...Qf6) I need Rc1 and Bc3 somehow to be stable
+[20:33:07] timothyha: (16.Bd2) maybe B->e2->g4 is good
+[20:33:53] timothyha: (16.Bd2) also helpful that they need a win
+[20:36:39] rolihlahla: yes - down 0-4 is a tough place to play from
+[20:38:25] timothyha: (17.Be2) with a bishop pair I also can draw a pawn down
+[20:38:25] timothyha: (17.Be2) something to remember :-)
+[20:41:42] timothyha: (18...Rfd8) N->b5->d4 looks good too
+[20:43:43] timothyha: (18...Rfd8) Nb5 Ne4 is what makes me think...
+[20:45:45] timothyha: (19.Rfd1) Nb5 Ne4 and Rc2 happen too quickly
+[20:46:30] timothyha: (19.Rfd1) here they can swap into an equalish rook endgame
+[20:46:46] timothyha: (19.Rfd1) maybe slightly better for them
+[20:48:01] timothyha: (19.Rfd1) but if I get Be3 (after d4) then I'm better I think
+[20:52:49] scarff: Now we just need Bf1 and Ne2. Curl up and sit there :)
+[20:53:34] timothyha: (20.Be1) knights are hot-headed, bishops can wait
+[20:59:08] timothyha: (21.Nb5) maybe try a RRB endgame with opposite colours...
+[20:59:08] timothyha: (21.Nb5) when knights are gone
+[21:03:55] timothyha: (24.Bd3) they get same colour this way...
+[21:08:58] timothyha: I got a rating punishment for the draw :-) 2090/2090 with different RD I guess
+[21:09:59] scarff: Maybe because you were white?
+[21:11:14] timothyha: I don't think so
+[21:11:29] timothyha: there's a decimal value that Lichess knows
+[21:11:44] timothyha: and when it rounds to -1 I get the minus
+[21:13:15] timothyha: apparently masters just play 6.b4 and keep the pawn
+[21:13:15] timothyha: but I didn't prep against the Grunfeld today
+[21:13:30] timothyha: wasn't sure enough about the expansion
