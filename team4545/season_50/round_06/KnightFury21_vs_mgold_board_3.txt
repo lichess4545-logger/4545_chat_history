@@ -1,0 +1,259 @@
+Lichess game chat log
+Game      : https://lichess.org/89lpAK1f
+White     : knightfury21
+Black     : mgold
+Time      : 45+45
+Captured  : 2026-10-31 05:04:53 UTC
+Game ended : 2026-10-31 03:44:41 UTC
+Messages  : 249
+────────────────────────────────────────────────────────────
+
+[01:32:51] fischerforlife: Good luck mgold!
+[01:33:06] fischerforlife: I know you got this
+[01:37:08] mgold: (12... Nf6) still theory, I believe
+[01:40:10] knightfury21: Not sure about 14...Bd7 but maybe it's a move
+[01:43:57] nyanners: the bad part about playing 14 moves of theory is that it means your opponent has also played 14 moves of theory
+[01:44:43] nyanners: so well, black is okay. in theory..
+[01:44:58] mgold: (15. g4) definitely NOT theory, so I suppose the moment to think has come, eh?
+[01:45:28] mgold: first question is why not Nfxd5
+[01:45:28] fischerforlife: This may be theory, but in my opinion it is easier for non-titled players to attack than defend
+[01:45:44] mgold: I suppose I need to insert Rc8 first
+[01:54:03] mrscribbles: (16.Kb1) Is g5 Qh2 about to be annoying?
+[01:54:19] mrscribbles: (16.Kb1) Go mgold
+[01:54:34] mrscribbles: (16.Kb1) very weird position. Love it
+[02:02:39] knightfury21: Don't really understand 16...Qe8 but I don't see anything concretely wrong with it
+[02:03:09] knightfury21: Maybe ...Qf7 next is the idea?
+[02:04:55] knightfury21: My issue is that I want to get Nge2-Ng3 but the moment I play Nge2 Black has ...Nc4
+[02:05:56] knightfury21: Bd3 drops the d5 pawn and Be2 means my knight isn't getting to g3 any time soon
+[02:06:56] knightfury21: Oh I see the point - Black wants ...e4 next
+[02:08:27] inter-temporal: (16...Qe8) almost looks like this came from a Saemish v KID
+[02:08:57] inter-temporal: (16...Qe8) but a Neo-Grunfeld Alekhine var... smth
+[02:09:13] inter-temporal: (16...Qe8) with an IQP and an IKP
+[02:10:13] inter-temporal: (16...Qe8) caveman play g5
+[02:10:43] inter-temporal: (16...Qe8) or Bh6 first
+[02:11:14] inter-temporal: (16...Qe8) but is ...e4 a threat. wth
+[02:13:15] knightfury21: Be2 e4 g5 Nh5 fxe4 Bxc3 bxc3 Ng3 is interesting
+[02:14:31] knightfury21: Actually wait Black could just ...Qxe4+ at the end of that line instead of Ng3
+[02:17:02] knightfury21: Bh6 and trading the bishops first gives Black ...Nf4 in that line
+[02:21:05] knightfury21: Be2 e4 g5 Nh5 Bd4 exf3 Nxf3 looks good
+[02:22:51] mrscribbles: (16...Qe8) long think right think
+[02:27:54] knightfury21: e4 g5 Nh5 (exf3 Nxf3 Nh5 Bd4 Bxd4 Nxd4 looks okay) Bd4 exf3 Nxf3 Ng3 gives me problems with the e2-bishop and the open e-file
+[02:29:10] knightfury21: So maybe I have to take back on f3 with the bishop? Nc4 kinda annoying but my DSB isn't on e3 anymore so I think that's fine
+[02:31:11] knightfury21: Bxf3 Nc4 and I guess my rook guards the Bd4 so my queen can go to h2 or smth
+[02:31:26] mgold: (17. Be2) trying to figure out here, does just 17... e4 work?
+[02:32:57] mgold: like g5 exf  gxf fxe fxg exd+ QxQ and like I'm up an exch but my dark squares are trashed
+[02:32:57] knightfury21: I don't think Bxd4 Rxd4 Rxc3 bxc3 Qe1+ is anything for black
+[02:33:12] mgold: cool line, though
+[02:33:57] mgold: I almost feel obligated to go for it because it feels okayish and obviously if it's ok then it justifies my play
+[02:34:28] knightfury21: I'd still have my bishop on f3 stopping any Rf2+ ideas to win my queen
+[02:35:13] mgold: let
+[02:35:28] mgold: 's
+[02:35:28] mgold: go
+[02:35:28] mrscribbles: (17.Be2) '
+[02:35:59] knightfury21: Okay here we go, gotta recheck lines every move
+[02:36:44] inter-temporal: (17.Be2) looks like a reasonable move. did white say now 18.g5 ef, Bxf3
+[02:37:30] knightfury21: There will be some Bf5+ opportunities for Black but I think it's fine, just Ka1
+[02:38:30] fischerforlife: Quote of the day:" if it's ok then it justifies my play"
+[02:39:16] knightfury21: I did say Nxf3 earlier for this line, but if I'm being consistent and looking to transpose then Bxf3 is correct I think
+[02:39:16] inter-temporal: (17...e4) "...if not, then my play was truly criminal?"
+[02:40:16] knightfury21: I guess this move order gives Black the added option of Ng4 but I want to play Bd4 anyway
+[02:41:17] mgold: (19. Bxf3) booo
+[02:41:47] inter-temporal: (18...exf3) it got rid of black's weakness (and one of white's)
+[02:42:18] inter-temporal: (19.Bxf3) and all black's heavy pieces sit on the open files
+[02:42:48] knightfury21: Oh wait Ng4 Bd4 Bxd4 Qxd4 Ne3 with Nbc4 coming could be quite bad with the knights entrenched in my position
+[02:43:18] nyanners: nc4 may be concerning
+[02:43:18] knightfury21: Actually no what am I saying? Ne3 Re1 is fine
+[02:44:19] inter-temporal: (19.Bxf3) too many weak squares and too many pieces
+[02:44:19] mgold: feels like I should have something here
+[02:44:34] knightfury21: Or is it? Black could flick in Bf5 Ka1 to make Nc2+ a thing
+[02:45:04] nyanners: there are a lot of things going on
+[02:45:04] nyanners: all in black's favour it seems
+[02:45:35] inter-temporal: (19.Bxf3) white gets 1 tempo, maybe, to work it out
+[02:46:05] inter-temporal: (19.Bxf3) i think, since Nf6 is hanging
+[02:47:21] knightfury21: May need to go Kc1 to avoid issues on c2 but it looks so dumb to walk into the open and pin my knight
+[02:47:51] inter-temporal: (19.Bxf3) looks like white might have taken some luxuries with early pawn pushes
+[02:48:52] knightfury21: Bf5+ immediately is very clever because it would force me to commit with the king before knowing where the knight is going
+[02:49:22] mgold: so I think I need to start Nc4 because Ng4 gives Bxb6
+[02:50:38] knightfury21: Bf5 Ka1 Ng4 Bd4 Bxd4 Qxd4 Ne3 (threatening Nc2+ winning my queen) Rc1 Nc2+ Rxc2 Bxc2
+[02:51:08] inter-temporal: (19.Bxf3) not fun to give an exchange here
+[02:51:23] mgold: Nc4! Qe2 Ng4! Bxg4 Bxg4 Qxg4 Nxe3 Re1 Nxg4 Rxe8 Rxe8 or something?
+[02:52:54] knightfury21: So maybe Bf5+ Kc1 Nh5 and back to the earlier line but my king is randomly on c1
+[02:53:09] knightfury21: Oh I'm an idiot
+[02:53:40] knightfury21: Calculating fancy lines and missing what was right in front me
+[02:54:10] mrscribbles: (19...Nc4) oopsies
+[02:54:10] mrscribbles: (19...Nc4) we've all been there
+[02:54:25] inter-temporal: (19...Nc4) maybe there's a way through it?
+[02:54:40] knightfury21: Qh2 might save me
+[02:54:55] mrscribbles: (19...Nc4) So is this not just a trade of wLSB for bN?
+[02:55:26] mrscribbles: (19...Nc4) Or, what about Qh2?
+[02:55:26] inter-temporal: (19...Nc4) yeh "just" a trade. nothing to see here. move along.
+[02:56:11] mrscribbles: (19...Nc4) Well I guess like Qe2 Nxe3 gxf6 Nxd1 fxg7 and...
+[02:56:26] mrscribbles: (19...Nc4) And is that not fine for white? What do you see el tempoador
+[02:56:41] mgold: (19... Nc4) I guess Qh2 is probably also a move... probably even a good one.
+[02:56:41] inter-temporal: (19...Nc4) i see... caveman check king
+[02:56:56] mgold: like I don'tthink it's super scary, but maybe it's an argument for Ng4 first
+[02:58:27] inter-temporal: (19...Nc4) Qh2 Nh5, Bxh5 Nxe3, Bg4 and it's mate in 11
+[02:58:43] inter-temporal: (19...Nc4) give or take
+[02:59:13] mrscribbles: (20.Qh2) Nxe3 gxf6 Rxf6 Qxh7+ Kf7 and...
+[03:00:13] inter-temporal: (20.Qh2) maybe not Bg4 (in my line) but B somewhere
+[03:01:14] inter-temporal: (20.Qh2) at the end of ur line, maybe d6 or Re1, idk
+[03:01:44] inter-temporal: (20.Qh2) not d6.
+[03:02:15] mrscribbles: (20.Qh2) wait
+[03:02:15] mrscribbles: (20.Qh2) wait wait wait
+[03:02:30] mrscribbles: (20.Qh2) hold on
+[03:02:45] inter-temporal: (20.Qh2) sac the Q?
+[03:02:45] mrscribbles: (20.Qh2) We can't get away with Nxe3 gxf5 Nxd1, can we? ...Nxc3 comes with check after fxg7 and...
+[03:03:46] mrscribbles: (20.Qh2) Does white mate there? No idea
+[03:03:46] inter-temporal: (20.Qh2) missing a move there, maybe.  white mates there
+[03:04:01] mrscribbles: (20.Qh2) But I love you
+[03:04:01] inter-temporal: (20.Qh2) they why do you treat me so bad
+[03:04:16] inter-temporal: (20.Qh2) [then] why...
+[03:04:31] mrscribbles: (20.Qh2) you just made me spit out my drink lol
+[03:04:31] inter-temporal: (20.Qh2) lol
+[03:04:46] mrscribbles: (20.Qh2) this refutation hurts me more than it hurts you
+[03:05:01] inter-temporal: (20.Qh2) maybe we need counseling
+[03:05:01] inter-temporal: (20...Bf5+) okay, new plan
+[03:05:32] mrscribbles: (21.Ka1) I really thought my Nxe3-Nxd1-Nxc3+ line was all right
+[03:05:47] mrscribbles: (21.Ka1) but on the other hand I'm way too lazy to calculate
+[03:05:47] inter-temporal: (20...Bf5+) oof, now there's a check after ....Nxe3
+[03:06:17] inter-temporal: (21...Nxe3) mate in two if white could move
+[03:06:17] mrscribbles: (22.gxf6) oh, you were right tempy, my line failed
+[03:06:32] inter-temporal: (22.gxf6) and it's gone
+[03:06:47] mrscribbles: (22...Rxf6) Re1!
+[03:07:03] inter-temporal: (22...Rxf6) can't do that with Nc2+, can we
+[03:07:18] inter-temporal: (22...Rxf6) black mates there, i think
+[03:08:03] knightfury21: At least I have Rc1 but that would mean I can't grab h7
+[03:08:18] mrscribbles: (22...Rxf6) Rc1? What?
+[03:08:49] inter-temporal: (23.Rc1) oh. i thought maybe just some luft. but who knows
+[03:08:49] mrscribbles: (23.Rc1) Does Rb6 do anything?
+[03:09:19] mrscribbles: (23.Rc1) nice bishop-rook battery here
+[03:09:34] knightfury21: Yeah this looks awful for white, attack has stalled and my pieces are all over the place
+[03:09:49] inter-temporal: (23.Rc1) oh, white's back rank is trouble
+[03:10:04] mrscribbles: (23.Rc1) Qa4 would be funny, but I don't think it does anything?
+[03:10:20] inter-temporal: (23.Rc1) maybe good!
+[03:10:35] inter-temporal: (23.Rc1) it hits c2 again
+[03:10:50] mrscribbles: (23.Rc1) I would play Qa4 in bullet, even if it didn't work
+[03:11:05] mrscribbles: (23.Rc1) black has a lot of pieces pointed at that King
+[03:11:05] knightfury21: Nh3 only way to develop the knight and a3 would be nice to get in but Black won't give me time
+[03:11:05] mrscribbles: (23.Rc1) Maybe Rb6 or Ra6
+[03:11:35] mrscribbles: (23...Rb6) who
+[03:11:35] mrscribbles: (23...Rb6) ayo*
+[03:11:35] inter-temporal: (23.Rc1) if Nh3, then Bf3 will be hanging after the trades on c2, i think
+[03:12:21] inter-temporal: (23...Rb6) now Bf3 would be okay there
+[03:12:21] fischerforlife: (23...Rb6) Qxh7 does nothing right?
+[03:12:51] mrscribbles: (23...Rb6) I don't think it does much lischerforfife, but hard to say
+[03:12:51] inter-temporal: (23...Rb6) pulls the Q off c2
+[03:13:06] inter-temporal: (23...Rb6) drops the exchange or worse
+[03:13:37] mrscribbles: (23...Rb6) White would desperately like to connect those rooks, but where do you put the Ng1?
+[03:14:22] inter-temporal: (23...Rb6) i think the issue now is ...Rxb2, isn't it? idk
+[03:14:37] mrscribbles: (23...Rb6) I've been trying to make Rxb2 work but don't see it yet
+[03:14:52] mrscribbles: (23...Rb6) Oh the Queen covers b2, so definitely not... I think?
+[03:15:07] inter-temporal: (23...Rb6) ooooh. yeh
+[03:15:23] mrscribbles: (23...Rb6) maybe white won't see that
+[03:15:23] inter-temporal: (23...Rb6) good call. she covers all the way to b2
+[03:15:23] knightfury21: I think I need to go Nge2 and give up the exchange
+[03:15:38] mrscribbles: (23...Rb6) I was thinking about Nge2 as well, FightKnury
+[03:16:08] mrscribbles: (23...Rb6) You gotta make sure it doesn't lose worse than an exchange tho
+[03:16:08] mrscribbles: (23...Rb6) But I think it's jsut the exchange?
+[03:16:38] knightfury21: Nh3 just looks too slow, maybe I can get some semblance of the initiative back
+[03:16:54] inter-temporal: (23...Rb6) yeh then the Q doesn't cover b2 (after Nge2)
+[03:16:54] mrscribbles: (23...Rb6) You'll be down an exchange and pawn which doesn't look very fun
+[03:17:09] mrscribbles: (23...Rb6) Good point tempy. But will Nge2 Rxb2 do anything? I don't see a win yet
+[03:17:39] inter-temporal: (23...Rb6) i think so. the Q drops in with check, both Bs are pointed there
+[03:17:39] mrscribbles: (23...Rb6) Q drops in where?
+[03:18:09] inter-temporal: (23...Rb6) Rxb2, Kxb2 Qb5+ or smeth
+[03:18:09] mrscribbles: (23...Rb6) Qb5+ Nxb5 :)
+[03:18:24] inter-temporal: (23...Rb6) pinned.  or Rxb2, Kxb2 Rxc3, Rxc3, Qb5+
+[03:18:55] mrscribbles: (23...Rb6) What's pinned? The Nc3 wouldn't be pinned anymore
+[03:19:10] mrscribbles: (23...Rb6) or am I misunderstanding
+[03:19:10] inter-temporal: (23...Rb6) (after ...Rxb2, Kxb2 the Nc3 is pinned by the dsb)
+[03:19:25] mrscribbles: (23...Rb6) ahhh that's the puzzle piece i was missing
+[03:19:40] inter-temporal: (23...Rb6) those dang long range pieces
+[03:19:55] mrscribbles: (24.Nge2) New proposal: Rb3 mouseslip variation
+[03:19:55] inter-temporal: (24.Nge2) at least this backs up the Nc3
+[03:20:56] inter-temporal: (24.Nge2) at a minimum, u have to give up the exchange or lose a whole piece
+[03:21:42] mgold: do I just grab the exchange?
+[03:21:42] mrscribbles: (24.Nge2) Even with the pin, I still don't see a killing blow with Rxb2. Just gives up a rook I think
+[03:21:57] mrscribbles: (24.Nge2) Rxb2 Kxb2 Qb4+ Ka1, then what tempy?
+[03:22:12] inter-temporal: (24.Nge2) after Qb5+ forces Ka3
+[03:22:27] mrscribbles: (24.Nge2) Why not just Ka1?
+[03:22:27] inter-temporal: (24.Nge2) oh, can white play Ka1?
+[03:22:27] mrscribbles: (24.Nge2) That's what I thought tempy but could be missing something
+[03:22:42] inter-temporal: (24.Nge2) i agree its different with the Nge2 backing up the Nc3
+[03:22:57] inter-temporal: (24.Nge2) just get the easy exchange
+[03:22:57] mrscribbles: (25...Bxc2) all right, GmGold going the more direct route
+[03:23:28] mrscribbles: (25...Bxc2) So now I suppose Qxh7+ And it seems like it's anyone's game
+[03:23:43] mrscribbles: (25...Bxc2) probably white is favored
+[03:24:28] inter-temporal: (25...Bxc2) like they tell us, after u (black) win some material, the opponent usually has some initiative.
+[03:25:59] mrscribbles: (26...Kf8) Holy imbalance batman
+[03:27:15] inter-temporal: (26.Qxh7+) maybe Rf1. but that d-pawn is just in the way
+[03:27:45] inter-temporal: (26...Kf8) ah. but Rc7
+[03:28:01] inter-temporal: (27.Bg4) i was trying to deflect the K from covering the Bg7
+[03:31:33] knightfury21: Don't think I objectively have anything but we'll see
+[03:32:33] knightfury21: This feels wrong, just Rf1 and what does black do?
+[03:33:04] inter-temporal: (27.Bg4) might be a refutation
+[03:33:34] mrscribbles: (27...Rxc3) Yeah Rf1 looks convincing
+[03:33:49] mrscribbles: (27...Rxc3) but, always hard to be sure in positions like this
+[03:34:35] inter-temporal: (27...Rxc3) it's a check. deadly stuff. Rf1+ Rf6, Rxf6+ Bxf6, bxc3
+[03:34:50] knightfury21: Maybe Rf1 Bf5 Bxf5 Qxe2 is the idea but I'd have Bd3+
+[03:34:50] inter-temporal: (27...Rxc3) but maybe a Qsac there?
+[03:35:20] inter-temporal: (27...Rxc3) after ...Qxe2, Bxe2 Bxc3#
+[03:36:05] inter-temporal: (28.Rf1+) ooh
+[03:36:05] inter-temporal: (28...Rf3) always smth
+[03:36:21] inter-temporal: (28...Rf3) but it's check again sooo
+[03:36:21] knightfury21: Huh
+[03:36:51] angrybird029: Is there something wrong with 28. ... Rf6?
+[03:36:51] mrscribbles: (28...Rf3) Wow, ok
+[03:37:06] knightfury21: Just giving the rook back favourably I thought maybe Rf6 might have been the idea
+[03:37:21] inter-temporal: (29.Rxf3+) the check is the problem.
+[03:38:22] inter-temporal: (29.Rxf3+) uh oh
+[03:38:37] jg777: It’s not a problem though, mgold is playing brilliantly.
+[03:38:52] inter-temporal: (30.Bxf5) i thought Rxf5+ gxf5, Qxf5+ was okay for white
+[03:38:52] jg777: Bxb2+! Kb1 Bf6+!
+[03:39:22] inter-temporal: (30.Bxf5) cant wait to see the eval. i'm expecting the saw tooth
+[03:39:22] mrscribbles: (30.Bxf5) Oh I didn't even see Black's checks here
+[03:39:38] inter-temporal: (30.Bxf5) checks!
+[03:39:38] inter-temporal: (30.Bxf5) clock
+[03:39:53] jg777: Oops, missed it
+[03:40:08] angrybird029: stress
+[03:40:08] inter-temporal: (30...Qxe2) Bg4+ looks bad
+[03:40:08] mrscribbles: (30...Qxe2) Black isn't interested in our stupid checks
+[03:40:38] mrscribbles: (30...Qxe2) Bd3+ would be a funny way to lose
+[03:40:53] inter-temporal: (30...Qxe2) lol. but i think Bg4+ actually wins the Q i think
+[03:41:09] jg777: Pretty sure Bxb2+ Kb1 Bf6+ wins for black.
+[03:41:09] mgold: (30) literally what is happening
+[03:41:09] jg777: Or would have won.
+[03:41:39] knightfury21: I think Bg4 and Be4 might both work but Bg4 is more decisive
+[03:41:39] inter-temporal: (30...Qxe2) ...Bxb2+ would have been a killer check
+[03:42:09] mrscribbles: (30...Qxe2) very tough in time trouble
+[03:42:09] mrscribbles: (30...Qxe2) White also may blunder in time trouble
+[03:42:24] inter-temporal: (30...Qxe2) yeh, they both play better than i do in time trouble
+[03:43:40] inter-temporal: (30...Qxe2) ooh, it can still turn
+[03:43:40] jg777: Crazy fantastic game though
+[03:43:55] inter-temporal: (31.Bg4+) due to white's back rank
+[03:44:10] mrscribbles: gg
+[03:44:10] inter-temporal: oh nooooo
+[03:44:10] mrscribbles: tough game, but very fun to watch
+[03:44:10] mrscribbles: hi pepe
+[03:44:26] angrybird029: Wow that was very well played
+[03:44:26] pepepibote: scrib hey lol
+[03:44:26] mgold: whew
+[03:44:26] pepepibote: gg
+[03:44:56] mrscribbles: Also, why do we all have country flags? Is that a new thing? Or am I just unobservant
+[03:45:11] inter-temporal: Lichess Tools displays the flag, i think
+[03:45:26] mrscribbles: ahhh right. I should turn that off
+[03:45:56] nyanners: gg :o
+[03:46:27] knightfury21: Woah so many people
+[03:46:42] inter-temporal: SF says 30...Bxb2+ was it
+[03:46:57] knightfury21: Any chance someone saved the chat?
+[03:46:57] inter-temporal: players! there is a link to a site with the entire chat
+[03:47:27] inter-temporal: go to #general where JCarmody posted it yestereday. i'm not on my normal computer or i'd post it
+[03:47:58] mgold: I need to head to bed but thanks for the excellent game KF :)
+[03:47:58] inter-temporal: or ask there. or i can dm it to you later. it takes about 2 hours before it loads
+[03:48:28] knightfury21: Gn and thanks for the game mgold, it was a fun one
+[03:49:13] knightfury21: Thanks I'll check in #general
+[03:49:59] inter-temporal: https://github.com/lichess4545-logger/4545_chat_history/tree/main
+[03:50:14] inter-temporal: i was able to log in thru my phone
+[03:57:18] knightfury21: Looks like it started to go badly wrong around 17.Be2 and 18.g5 which is ironically where I started calculating
+[03:57:18] knightfury21: Think long, think wrong I guess
+[03:58:18] knightfury21: Thanks Inter-temporal
