@@ -1,0 +1,25 @@
+Lichess game chat log
+Game      : https://lichess.org/AyNTKHDj
+White     : ticey
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-10-31 22:24:16 UTC
+Game ended : 2026-10-31 21:04:06 UTC
+Messages  : 15
+────────────────────────────────────────────────────────────
+
+[19:18:04] ng_life: had no time to prep this week, I saw he played e4 so I'm playing my usual French
+[19:20:06] ng_life: 8... O-O-O - I vaguely recall in this kind of position it's good to push c4...?
+[19:24:53] ng_life: 9. re1 re8 bb5 Qxe1! if nxe1 bxd1 if Qxe1 rxe1 nxe1 nxd4...?
+[19:30:27] ng_life: 13. be3 considering exchange sack for pawn on e3...
+[19:31:12] ng_life: 13... rxe3 I have no specific calculation here, it just looks good.
+[19:32:58] ng_life: 15... ne4 immediate threat nf2+, if Qxd5 ng3+ nxe2
+[19:46:06] ng_life: 18. rxe2 I didn't see this, which is quite bad, it seems like a very reasonable try for white
+[19:49:53] ng_life: 23... Qxb2 somehow the position became equalish, although I guess I can try with my extra pawn
+[19:50:23] ng_life: my exposed king should give him plenty of checks, plus my Queen is defending d4 e5 and g7 so difficult to move the pieces
+[19:51:39] ng_life: maybe I should have tried 18... bd6+ to try to stay up an exchange?
+[19:54:25] ng_life: I guess I shoud trade Queens as a prereq to winning, with the board so open and Queens on my pieces are immobilized
+[20:02:30] ng_life: 29... b5 let's see if I regret pushing for this win.
+[20:14:22] ng_life: 36. Qc5 I see no refutation to Qh7... looking...
+[20:22:57] ng_life: wow, I didn't see 38. Qg1 :facepalm: not my finest moment here, albeit I should still be winning
+[21:12:40] ticey: btw I saw that you play bad lines after 7. Le2 and after Lg4 I knew I was much better but like I said .. completely missed your rook sac sad
