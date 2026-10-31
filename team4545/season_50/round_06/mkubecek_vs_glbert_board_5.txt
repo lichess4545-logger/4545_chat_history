@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/uFvoHu1Y
+White     : mkubecek
+Black     : glbert
+Time      : 45+45
+Captured  : 2026-10-31 21:43:22 UTC
+Game ended : 2026-10-31 20:23:13 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[18:28:51] le_merovingien: Oooh, the battle of the mods
+[18:28:51] cham: let's go glbert!
+[18:28:51] le_merovingien: Go Kuby!
+[18:28:51] cham: one mod to rule tehm all
+[18:29:21] le_merovingien: And in the Slackness bind them
+[18:32:38] mongreltiger: GO Michal!
+[18:34:24] fischerforlife: The silly defense
+[18:38:42] tactix47: (7.Be2) Modish
+[18:47:17] glbert: i think the e4 pawn was hanging on move 9, but it looked weird. Nx Bx Nxc3 Bxd8 Nxd1 anyRx Kx?
+[18:49:48] glbert: my own d-pawn might be hanging in the end too.
+[18:50:49] glbert: white clearly planning f4.
+[18:54:21] mkubecek: (10...Nxe4) OK, I missed this but thankfully I had enough time to calculate. At least I hope I did.
+[19:18:20] le_merovingien: Go Kuby
+[19:19:20] le_merovingien: Nd5?
+[19:21:06] le_merovingien: Rd8 Qe2...
+[19:43:04] glbert: i dislike being down so much time. it's making me nervous.
+[19:43:19] mkubecek: (21...Bxa4) Sigh...
+[19:51:55] le_merovingien: Seriously, how do we win this?
+[19:56:42] le_merovingien: Oooh, Kuby making cheese. Nice. Go Kuby
+[20:19:41] tbest: b6 was unfortunate
+[20:20:11] tbest: but maaaybe still winning we are active
+[20:22:43] tactix47: gg
+[20:23:13] mongreltiger: gg Kuby & Burp
+[20:24:44] goldenretrieverchess: gg
+[20:24:59] mkubecek: What? 11. Bxe7 was winning?
+[20:25:44] glbert: i think that makes a draw very fair.
+[20:25:44] mkubecek: I though I would be pawn down after Bxe7 Nxc3 Bxd8 Nxd1.
+[20:26:14] glbert: looks like you can save the B, but i cannot save the N.
+[20:27:00] mkubecek: I didn't go past Nxb2.
+[20:27:00] glbert: me neither, obviously.
+[20:27:00] cham: noooo i missed the draw
+[20:27:15] cham: ah well, wp
+[20:27:45] mkubecek: Hm... I was quite sure the N vs B endgame after the queen trade would be a draw.
+[20:29:01] glbert: i think there's a slight advantage for me because my K is closer. but i might be wrong.
+[20:29:16] mkubecek: Probably...
+[20:29:16] glbert: i thought it would likely be a draw anyway,
+[20:29:31] tbest: far pawn + bishop is scary
+[20:29:31] glbert: that too, yes.
+[20:29:46] glbert: that's why i did not want to trade b vs c pawn a move earlier.
+[20:29:46] tbest: blacks king is closer too
+[20:29:46] mkubecek: Three pawns on dark squares could have cost me some tempi.
+[20:30:16] glbert: but i also thought you had played better the last couple of moves and had the momentum.
+[20:30:32] glbert: and felt there was a decent chance i would lose just based on that.
+[20:30:47] glbert: i prefer to come back from behind into an endgame, rather than the other way around. :D
+[20:30:47] mkubecek: On the other hand, SF being confident it would win doesn't  necessarily mean any of us would.
+[20:31:32] glbert: bit silly that i did not notice that b6 would give you a check on a8.
+[20:31:47] mkubecek: Well, the main lesson from today is: always check if you don't have another game already scheduled for the same way.
+[20:32:02] mkubecek: ...day.
+[20:32:48] glbert: ah, sorry to hear that. i would have been willing to reschedule.
+[20:33:48] mkubecek: The problem was that when I realized what I did, I also saw that other possible times weren't any better for various reasons.
+[20:34:18] glbert: ah, that is annoying.
+[20:34:34] glbert: happened to me before.
+[20:34:34] glbert: how did the other game go?
+[20:35:19] mkubecek: I blundered it away in an instant after a 3.5 hour long fight.  :-(
+[20:35:49] mkubecek: But I was already losing at some points in the middlegame.
+[20:36:19] glbert: sad to hear it. and it sounds like a very long day of chess. this one was not the shortest game either.
+[20:36:19] mkubecek: But overall better than I expected, except for the length.
+[20:37:20] mkubecek: At least not as long as it could have been. Good thing my tomorrow's OTB game  starts as late as 10:00 local.
+[20:37:35] glbert: well, i hope to play you again sooner rather than later, under more favourable circumstances for you!
+[20:38:20] mkubecek: So do I. :-)
+[20:39:36] glbert: good night, and good luck for tomorrow's otb game!
+[20:40:06] mkubecek: Thank you. Good luck to you as well.
+[20:51:42] mkubecek: Ah, yes, there is no escape via c4 after Nxb2.
+[20:52:27] mkubecek: Once again I needed to calculate one move more... ore perhaps better visualisation.
