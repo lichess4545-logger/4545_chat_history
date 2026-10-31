@@ -1,0 +1,88 @@
+Lichess game chat log
+Game      : https://lichess.org/88qQkI9y
+White     : flipiflapi
+Black     : zubenelgenubi
+Time      : 45+45
+Captured  : 2026-10-31 16:06:12 UTC
+Game ended : 2026-10-31 14:45:59 UTC
+Messages  : 78
+────────────────────────────────────────────────────────────
+
+[12:22:32] zubenelgenubi: hey scribs
+[12:22:32] mrscribbles: A knight on the rim is prim. 9
+[12:22:47] mrscribbles: Hi zuby
+[12:23:02] mrscribbles: A knight on the rhymes is primes
+[12:24:48] zubenelgenubi: flipi didn't go for the endgame, I've wanted to test this var, I think I got the moves right, Nc7 and go for d5 before white plays it
+[12:29:21] zubenelgenubi: hmm maybe I mixed up, I think f3 was thematic
+[12:30:06] zubenelgenubi: two types of a game now cxd and...c5
+[12:35:55] feet_barbie: Go zub
+[12:36:25] feet_barbie: Nice prep floppy disc
+[12:41:58] zubenelgenubi: Nc7 Be6 and Bf5-e5 in some order
+[12:42:29] zubenelgenubi: hi val I think I saw Feet too
+[12:43:59] zubenelgenubi: this could get messy
+[13:25:41] ameyer: Go Flipi!
+[13:43:06] zubenelgenubi: hmm 23 Rc7
+[13:43:37] zubenelgenubi: nah probably easier ways
+[13:52:27] zubenelgenubi: thx flipi I needed that long think, made coffee
+[13:54:28] zubenelgenubi: hi Lemuel
+[14:02:48] feet_barbie: (27...Nxd5) bro is not streaming right
+[14:10:08] zubenelgenubi: hey spider
+[14:15:26] guitarspider: (29...Nf6) hi
+[14:15:56] guitarspider: (29...Nf6) Zube looks a little better to me
+[14:17:42] lemuelgullible: Not sure but maybe Qb2 was better than Qb1
+[14:18:12] lemuelgullible: or maybe Qa3 even
+[14:18:43] val1313: (29...Nf6) the N on f6 is covering important squares and is very stable
+[14:18:58] val1313: (29...Nf6) annoying
+[14:27:33] val1313: (33...Qd7) i would play Qe5 in a heartbeat here
+[14:28:03] val1313: (33...Qd7) finally some kind of activity for my queen
+[14:32:36] lemuelgullible: 38... d4?
+[14:41:26] lemuelgullible: 2 looks alright
+[14:41:41] lemuelgullible: 43 Qc2
+[14:44:43] feet_barbie: (45.Kg2) the gary special
+[14:44:43] val1313: (45...Qg5+) :)
+[14:45:14] val1313: (46.Kf1) looks like Zub prepped with Secret
+[14:45:29] val1313: gg !
+[14:45:29] feet_barbie: ggg
+[14:45:59] guitarspider: gg
+[14:45:59] feet_barbie: i thought flipi s opening looked really goo
+[14:45:59] feet_barbie: d
+[14:47:15] zubenelgenubi: gg, I think I was much worse at some pont
+[14:48:00] zubenelgenubi: T the end I couldn't figure out how to avoid a6 Qb7
+[14:48:30] zubenelgenubi: wow lol
+[14:48:46] zubenelgenubi: not what I expected
+[14:49:46] zubenelgenubi: move 14 is +0.9 for white
+[14:50:01] zubenelgenubi: so much for accurate play
+[14:50:16] flipiflapi: wth
+[14:50:16] flipiflapi: everything green olol
+[14:50:31] flipiflapi: game did not feel this way
+[14:51:32] zubenelgenubi: then I equalised and it went back to +1.2 on move 23
+[14:51:47] flipiflapi: shouldve let you take on f4 apparently..
+[14:52:34] zubenelgenubi: then I equalised, it went to -1 then equal again
+[14:52:34] flipiflapi: even g4 was just equal XD
+[14:52:49] zubenelgenubi: this analysis is very weird
+[14:53:06] flipiflapi: ah... 30.Be2 i just coudlnt dig up up the courage for be6..
+[14:53:06] flipiflapi: thought id just lose it somewhere
+[14:53:48] flipiflapi: yea the line looks insane for all sides
+[14:53:48] zubenelgenubi: I thought you'd play Be6 instantly tbh
+[14:54:21] zubenelgenubi: f5 a bit soft but so is my K
+[14:54:54] flipiflapi: yeai dunno
+[14:54:54] zubenelgenubi: I was glad to get the c file with Qc7
+[14:54:54] flipiflapi: thought i had already thrown the chance
+[14:54:54] flipiflapi: true
+[14:55:23] flipiflapi: i was glad when ih ad it as well XD
+[14:55:23] flipiflapi: thought you would try f4 yourself also
+[14:55:23] flipiflapi: but it never came
+[14:55:23] zubenelgenubi: haha yes c file was a nightmare
+[14:56:04] zubenelgenubi: b8 knight went to f6 through a8 lol, I make my knights work hard
+[14:56:19] flipiflapi: loolol
+[14:56:19] flipiflapi: im gonna go wash dishes
+[14:56:35] flipiflapi: gg again
+[14:56:35] flipiflapi: seems we were apparently playing well'sh
+[14:56:35] flipiflapi: dunno
+[14:56:50] flipiflapi: feels like engine is lying to make us feel better
+[14:57:35] zubenelgenubi: haha yes
+[14:57:50] zubenelgenubi: I think it's too shallow tbh
+[14:58:36] zubenelgenubi: those fluctuations in advantage aren't small.
+[14:59:51] zubenelgenubi: I will analyse a bit later to see i there was a way to play on without allowing that a6 Qb7 thing
+[15:00:22] zubenelgenubi: probably still a draw with black holding a7 with the Q somehow
+[15:01:07] zubenelgenubi: thx flipi have a nice evening, see you around
