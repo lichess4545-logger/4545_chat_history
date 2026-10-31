@@ -1,0 +1,30 @@
+Lichess game chat log
+Game      : https://lichess.org/VioHAW9O
+White     : nirakuhakamura
+Black     : gidged
+Time      : 45+45
+Captured  : 2026-10-31 23:51:40 UTC
+Game ended : 2026-10-31 22:31:31 UTC
+Messages  : 20
+────────────────────────────────────────────────────────────
+
+[20:04:37] pezzo17: (3.e5) go Niraku
+[20:07:24] guitarspider: (7...cxd4) go Niraku!
+[20:08:09] guitarspider: (8.Nbd2) huh, transposing into the more dangerous version of the Bd3 lines for black
+[20:10:26] nermin_dedovic: Go Niraku!
+[20:11:56] guitarspider: (9...Nge7) Nbd2 is a bit of a sideline, but it's also dangerous for black
+[20:19:16] guitarspider: (12...Qc7) c4 must be the idea now
+[20:26:50] guitarspider: (14...Qxe5) ooh black got greedy
+[20:27:05] guitarspider: (14...Qxe5) Re1 and cxd5, white should be better
+[20:32:38] irongalaxy: (15...Qc7) go gidged!
+[21:02:56] nermin_dedovic: Seems like a long time to think here. I only see Nf3 and h3 as potential candidates, unless I'm missing something
+[21:06:12] nermin_dedovic: So Qxh2+ Kf1 Qh1+ Ke2 Qh6+ Qxh5 Rxh5 and white's attack is gone and black activated one rook, kinda
+[21:06:43] nermin_dedovic: Probably still better for white, but feels like there was better
+[21:12:01] nermin_dedovic: Maybe black has better than Qh1 -> Qh5. Rh6 could be dangerous here I think
+[21:26:39] guitarspider: (27.Rc7) oh no, the game has turned
+[21:26:39] guitarspider: (27.Rc7) looked really good earlier :(
+[21:44:04] guitarspider: (37...Kg5) passive rook usually loses
+[22:21:10] fulmarsky: go nh!
+[22:22:41] marco_chess13: passive because tied down to a file?
+[22:26:28] jfiras: (52...Kf4) i think more precisely tied to a pawn, it should still there to stop the pawn, unless to give a check
+[22:42:37] fulmarsky: gg both
