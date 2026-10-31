@@ -1,0 +1,188 @@
+Lichess game chat log
+Game      : https://lichess.org/JdFUxSME
+White     : jfiras
+Black     : pvgibson
+Time      : 45+45
+Captured  : 2026-10-31 21:17:09 UTC
+Game ended : 2026-10-31 19:56:56 UTC
+Messages  : 178
+────────────────────────────────────────────────────────────
+
+[17:43:48] pineapplechiffoncake: go firas!
+[17:54:10] timothyha: (11.Ng3) interesting position, not right now, but h5 h4 looks like a plan for Black
+[17:54:10] timothyha: (11.Ng3) Black's king is even safer
+[17:57:11] timothyha: (12.Qxg3) strange, doesn't Black need that DSB
+[17:57:42] timothyha: (12.Qxg3) White should feel much safer now
+[17:57:57] timothyha: (12.Qxg3) go @jfiras
+[18:00:13] timothyha: (12.Qxg3) something like Qh4, Bg5 (and on Rg6 White could win h7)
+[18:00:59] timothyha: (13.Qe1) N->d2->b3->c5->d3->e5 too :-)
+[18:03:45] timothyha: (13...Qd6) now Q has to get back to h4
+[18:06:02] jfiras: (13...Qd6) thinking abt Qh4 Bf4
+[18:07:33] scarff: Good luck Firas!
+[18:08:03] jfiras: (13...Qd6) Qh4 Nbd7 Bf4 Qb6 and i can't play Be5 since the d pawn is pinned, and also Qxb2 is threat
+[18:09:04] timothyha: (13...Qd6) no DSB from Black, so Qf2 is safe on Qb6
+[18:09:34] jfiras: (13...Qd6) i think if Nbd7 maybe Bg5 ?
+[18:12:06] jfiras: (14.Qh4) Rg6 seems good, defending and preparing to double
+[18:18:24] timothyha: (14...Nbd7) Na3 now probably solves the b2 issue and brings a defender on time
+[18:21:57] banshee3333: Good luck PVGibson!
+[18:22:57] jfiras: (14...Nbd7) okay if Qb6 i think b4 is a valid idea since i am going to push those pawns anyway
+[18:23:43] jfiras: (14...Nbd7) let him castle first
+[18:30:01] jfiras: (15.Re1) i am thinking now that Rg4 after Bf4 is not that bad, fxg4 Qxf4 followed by Nxg4
+[18:43:25] jfiras: (16...Qf8) i wonder if c4 can be good
+[18:46:42] scarff: Why not just Na3. Seems like the threat of Nb5 is quite good
+[18:51:00] timothyha: Both Na3 and c4 looked ok, compared to the slightly passive Bg3, as Qf4 isn’t a threat yet for Black
+[18:52:01] scarff: Not developing the knight confuses me. Maybe white is not in a hurry? But why not develop the last piece?
+[18:52:16] scarff: Bg3 doesn't seem like it is doing something more important to me
+[18:54:32] invinci7777: preparing to meet 0-0-0 with qf4 ig but yeah developing knight seemed better
+[18:55:18] jfiras: (17.Bg3) i don't want to trade queens was planning Qf4 next move, but Qh6 and i am obliged to trade
+[18:58:50] jfiras: (19...O-O-O) c4 is so tempting now
+[18:58:50] scarff: Feels like white has lost some advantage here with Bg3 and Nd2. Black looks more solid now
+[18:59:35] jfiras: (19...O-O-O) especially with that bishop eyeing c7 and b8
+[19:00:21] scarff: c4 does feel nice. Still some pressure for black to solve
+[19:01:21] jdw10: Good luck Firas!
+[19:03:53] jfiras: (20...b6) the f7 forking rooks is something i am aware of now, but surely black won't allow that
+[19:04:23] jfiras: (20...b6) yeah i think dxc4 was better for white
+[19:08:11] jfiras: (21.cxd5) hopefully my next moves are quite obvious
+[19:10:12] scarff: Nc4 first might have been better. Not allowing Kb7 yet. Keep the king stuck
+[19:10:42] jfiras: (23.Nc4) let's hope to see that Nd6+ Nxf7
+[19:10:57] scarff: Still quite a tricky game. Both sides feel like they have some advantages
+[19:11:58] invinci7777: yeah nc4 first seemed much stronger
+[19:13:29] scarff: Yeah Rc1+ just helped black. They wanted Kb7 anyway. No reason to force them to play a good move
+[19:18:02] jfiras: (24.Nd6+) a3 next probably
+[19:19:17] jfiras: (24...Ka6) i tought Ka8 and black is kinda safe
+[19:20:03] jfiras: (24...Ka6) wait Rc4 Ra4
+[19:20:03] invinci7777: rc4 can be tried here
+[19:20:18] invinci7777: yeah
+[19:20:18] jfiras: (24...Ka6) Rc4 b5
+[19:20:33] marco_chess13: Go Jfiras
+[19:20:33] jfiras: (24...Ka6) but still good, i am sure there is smthg there
+[19:21:04] invinci7777: yeah likely
+[19:21:19] jfiras: (24...Ka6) we will see
+[19:21:49] scarff: Yeah this looks scary!
+[19:23:05] jfiras: (25...b5) my role in the team is playing for drawing the match :D
+[19:23:50] scarff: R+ N7b6 a4?
+[19:24:21] jfiras: (26.Rc6+) oh he can cover with both knights
+[19:24:21] jfiras: (26.Rc6+) and i have nothing more to do i guess
+[19:24:36] scarff: I think you can try to open the a file, put more pressure
+[19:25:21] scarff: And if a4 b4 then a5 looks very scary
+[19:26:22] invinci7777: yeah a4 seems strong
+[19:26:37] jfiras: (26...N7b6) wow Nxf5 is soo cool
+[19:27:08] jfiras: (26...N7b6) but probably still going for the king
+[19:28:08] invinci7777: yeah nxf5 too possible
+[19:28:38] invinci7777: not sure about rd1 though
+[19:29:09] invinci7777: trying rd3-a3 i see
+[19:29:09] jfiras: (27.Rd1) i hate when i feel i am winning and i have a lot of options, i hope not to demonstrate why i hate it during this game
+[19:31:10] jfiras: (28.Rd3) Be1 next
+[19:31:25] jfiras: (28.Rd3) maybe
+[19:32:41] invinci7777: be1 surely
+[19:32:56] invinci7777: sets up Bxb4 nxb4 ra3 also
+[19:33:11] scarff: yes
+[19:33:11] timothyha: (28...b4) yeah, looks interesting
+[19:33:26] scarff: And the knight on e3 is not that scary, no need to try to take that out
+[19:33:42] scarff: I think this is winning for white
+[19:33:57] timothyha: (29.Be1) Ka5 doesn't help, I think, as Rc5+
+[19:33:57] ben3536: (29.Be1) Ka5 Ra3#
+[19:34:12] ben3536: (29.Be1) oh wait knight blocks
+[19:34:12] timothyha: (29.Be1) right :-)
+[19:34:42] timothyha: (29.Be1) Ra3 Na4 Rc5
+[19:34:42] timothyha: (29.Be1) and knight is lost
+[19:34:42] timothyha: (29.Be1) looks good
+[19:34:57] invinci7777: but then take the knight and ra6
+[19:34:57] scarff: Rx4 Ra6#
+[19:34:57] scarff: In that line where the knight blocks
+[19:34:57] timothyha: (29...Ka5) we're in the line!
+[19:35:13] jfiras: (29...Ka5) mate right ?
+[19:35:28] invinci7777: yes
+[19:35:28] scarff: Ra3+ Na4 Rxa4+ Kxa4 Ra6# ?
+[19:35:28] jfiras: (29...Ka5) Bxb4 Nxb4 Ra3# ?
+[19:35:43] timothyha: (29...Ka5) wow
+[19:35:43] timothyha: (29...Ka5) that would be a finish for the books
+[19:35:58] jfiras: (29...Ka5) wait no
+[19:36:13] invinci7777: he doesnt see i yet
+[19:36:28] jfiras: (29...Ka5) but surely this leads to a forced mate
+[19:36:43] jfiras: (29...Ka5) and i see nthg better than Bx
+[19:36:59] jfiras: (29...Ka5) Nb7+ doesn't achieve much
+[19:37:14] invinci7777: i hope he sees
+[19:37:14] invinci7777: would be epic
+[19:37:29] scarff: It's a very pretty mate :D
+[19:37:29] timothyha: (29...Ka5) by way of elimination
+[19:37:29] jfiras: (29...Ka5) ah the knight on b6 is no more pinned ughhh
+[19:37:59] invinci7777: only 3 min on clock
+[19:37:59] timothyha: (29...Ka5) this mate is like Carlsen-Karjakin level
+[19:37:59] timothyha: (29...Ka5) same tunnel
+[19:39:00] invinci7777: comon jfiras
+[19:39:00] timothyha: (29...Ka5) give White tunnel vision :-)
+[19:39:15] marco_chess13: hey this mate is fancy
+[19:39:30] marco_chess13: i didn't see the rook sac, easy to miss the follow up
+[19:39:45] jfiras: (29...Ka5) i have no idea
+[19:40:01] jfiras: (30.Rc5+) gaining some time
+[19:40:31] jfiras: (30.Rc5+) wait!!!!
+[19:40:46] jfiras: (30.Rc5+) Ra3 was an option
+[19:40:46] robertjackson: 39.Ra3# no?
+[19:40:46] jfiras: (30.Rc5+) oh wooooooow
+[19:40:46] ben3536: (30.Rc5+) sae too late :(
+[19:41:01] marco_chess13: lol
+[19:41:01] ben3536: (30.Rc5+) *saw
+[19:41:01] marco_chess13: still fine nbd
+[19:41:01] scarff: Still an option in some lines maybe. Good that he sees it now :)
+[19:41:01] timothyha: (30.Rc5+) daring Black to play Ka4 for now
+[19:41:16] jfiras: (30.Rc5+) oh my God !!
+[19:41:47] invinci7777: ra3
+[19:41:47] scarff: Ra3+ still leading to mate now
+[19:42:02] timothyha: (30...Ka4) yeah :-)
+[19:42:02] invinci7777: also pretty
+[19:42:02] scarff: Yes
+[19:42:17] timothyha: (30...Ka4) what a position!
+[19:42:17] timothyha: (30...Ka4) do we believe in second chances
+[19:42:17] scarff: Seems much more findable now
+[19:42:17] scarff: Oh...
+[19:42:32] timothyha: (31...Ka3) Nc4 is good
+[19:42:47] jfiras: (31...Ka3) what a mate
+[19:42:47] timothyha: (31...Ka3) too many mates
+[19:42:47] jfiras: (31...Ka3) with the knight
+[19:43:02] jfiras: (31...Ka3) i hope i am not wrong this time lol
+[19:43:02] timothyha: (31...Ka3) Nb5
+[19:43:33] jfiras: (32...Kb2) oh i expected Na4
+[19:44:03] timothyha: (32...Kb2) still somewhat wrong but still winning I think :-)
+[19:44:33] timothyha: (33.Rd2+) although Nc3 will shut the c-file down later
+[19:44:33] invinci7777: winning yeah but no forced mate
+[19:44:33] ben3536: (33.Rd2+) ofc winning but now it's slow
+[19:44:49] scarff: This is the stuff that gives you so much doubt though. Not finishing it off, keeping white alive too long
+[19:44:49] scarff: Those are the moments where I start blundering badly
+[19:45:34] timothyha: (34.Rc5+) Nc3 and Nbd5
+[19:45:34] timothyha: (34.Rc5+) so Black holds for longer
+[19:46:20] invinci7777: this allows rc2
+[19:46:35] timothyha: (35.Rcc2) Rc2 is clumsy after a knight appears on c3
+[19:48:36] jfiras: (36.Rb2+) i failed
+[19:49:21] marco_chess13: your punishment is the Polgar book
+[19:49:37] scarff: Game is still going. Nothing is failed yet
+[19:51:08] scarff: Ne5 maybe a mate threat here at times
+[19:51:53] invinci7777: or Re2
+[19:52:08] scarff: Yeah that too. Still a very strong position for white
+[19:52:23] timothyha: Shift rooks to e2 and d2 and mate
+[19:52:23] invinci7777: but night can block
+[19:53:39] invinci7777: ne5 better
+[19:53:54] invinci7777: i think no defense
+[19:53:54] ben3536: (38...Rc8) Rc3
+[19:54:09] invinci7777: ne4 Rc3
+[19:54:09] invinci7777: yeah
+[19:55:25] jfiras: (39...Kd1) hopefully !!!!
+[19:55:25] ben3536: (39...Kd1) mate in 3?
+[19:55:25] timothyha: (39...Kd1) mate in 2 has to be seen now
+[19:55:25] jfiras: (39...Kd1) 4-0
+[19:55:25] timothyha: (39...Kd1) 3
+[19:55:55] invinci7777: isnt mate in 1?
+[19:55:55] invinci7777: re1
+[19:55:55] rolihlahla: Re1#
+[19:56:11] hpors: Re1
+[19:56:11] timothyha: true :-)
+[19:56:11] pineapplechiffoncake: gg!
+[19:56:11] rolihlahla: gg
+[19:56:11] timothyha: gg
+[19:56:26] invinci7777: gg
+[19:56:26] scarff: GG both! Very tense ending!
+[19:56:56] jfiras: thanks everyone for watching
+[19:56:56] timothyha: a middlegame without queens
+[19:57:11] jfiras: surely a lot of mates missed there
+[19:57:26] invinci7777: and surprisingly slippery king
+[19:57:26] timothyha: a few nicer ones @jfrias
