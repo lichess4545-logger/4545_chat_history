@@ -1,0 +1,40 @@
+Lichess game chat log
+Game      : https://lichess.org/frZu4nx8
+White     : rustyvm
+Black     : merricks
+Time      : 45+45
+Captured  : 2026-11-01 17:42:58 UTC
+Game ended : 2026-11-01 16:22:47 UTC
+Messages  : 30
+────────────────────────────────────────────────────────────
+
+[16:25:03] rustyvm: wasnt completely prepared for the opening
+[16:25:18] rustyvm: I expected KID and therefore thought I could play sth annoying
+[16:25:33] rustyvm: but the game went into a different direction lol
+[16:26:04] merricks: yeah i only got a few minutes of prep in, but i did see that you played bg5
+[16:26:34] rustyvm: ^^
+[16:26:49] rustyvm: 11.Ne4 annoyed me, it trades a lot
+[16:28:05] merricks: yeah I should have just gone ne4 earlier and it would have been a little easier
+[16:28:05] rustyvm: 14.Bc2 the engine doesnt seem to like. I didnt want to trade the bishop yet though (as i still have the h7 diagonal)
+[16:28:35] rustyvm: right, there are always early Ne4 ideas in the tromp for black
+[16:29:51] rustyvm: 14.b6 was also a very good and annoying response that i wasnt properly prepared for
+[16:30:21] merricks: Yeah I think b6 was important for me to not be a lot worse
+[16:30:36] rustyvm: it cracks down on my nice center, and after tading the c5 pawn, the one on c3 always gets weak
+[16:31:52] rustyvm: 15.g6 i didnt understand why it would be necessary already? I was so sure you would just go Qxb6 directly
+[16:32:07] merricks: at the last minute I got scared of bxh7 but g6 really wasn't necessary
+[16:33:07] merricks: I was struggling with my time management a litte bit
+[16:33:37] rustyvm: ye i thought that could still be my point of pressure
+[16:33:53] rustyvm: until the end where it became very dry
+[16:35:54] rustyvm: interesting, after 15.Qxb6 16.Bxh7 Kxh7 17.Ng5+ the engine gives Kh6 as the only winning move
+[16:36:54] rustyvm: breezy king, but i run out of checks
+[16:37:09] merricks: Yeah I was worried about spending too much time on it and making a mistake
+[16:37:39] rustyvm: right
+[16:39:10] rustyvm: at first i thought instead of 15.g6 the move Ng6 would be a more natural defending move. But turns out that loses, because then I can ...
+[16:39:10] rustyvm: ...trade it and just safely defend my passed b pawn
+[16:40:11] merricks: yeah
+[16:40:41] merricks: good game, thank you
+[16:41:26] rustyvm: it seems 17.Qe2 gives away the slight advantage i have at that point in the game. You can directly go 17.Bb5, force bishop trade and win ...
+[16:41:26] rustyvm: ...the pawn back to fully equalize
+[16:42:12] rustyvm: after these trades the game became dry and the rest was fine i suppose
+[16:42:12] rustyvm: ggs!
+[16:42:42] rustyvm: thank you too and have a good one
