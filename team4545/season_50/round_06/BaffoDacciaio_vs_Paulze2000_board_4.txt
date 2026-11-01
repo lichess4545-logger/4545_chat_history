@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/4omzD9sy
+White     : baffodacciaio
+Black     : paulze2000
+Time      : 45+45
+Captured  : 2026-11-01 01:12:27 UTC
+Game ended : 2026-10-31 23:52:17 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[22:52:13] gingersquirrelnuts: Qg4+ here?
+[22:54:14] kamagayajiji: Let’s go, Paulze2000!
+[23:02:04] gingersquirrelnuts: This is fun
+[23:12:40] mrscribbles: (21.Kc3) Love a chaotic position
+[23:12:55] mrscribbles: (21.Kc3) Any idea of an eval?
+[23:13:10] mrscribbles: (21.Kc3) Black will have to figure out what they're doing about c6 next
+[23:15:11] mrscribbles: (21...Nf6) Can white just go c6?
+[23:15:26] mrscribbles: (21...Nf6) Well, Nxe4 Kb4 and...
+[23:15:41] mrscribbles: (21...Nf6) obvioisly not Nxe4 Bxe4???? Nb5+
+[23:23:00] mrscribbles: (21...Nf6) Maaaaaaaaybe Nxf6 and then c6?
+[23:23:16] mrscribbles: (21...Nf6) no idea. Chess is hard
+[23:23:46] semlegesnev: We have troubles here if Nxf6 Qxf6 d6
+[23:26:17] mrscribbles: (22.Nxf6) All righty, white trying my move
+[23:26:48] mrscribbles: (22.Nxf6) Now what does black do about -- c6?
+[23:26:48] mrscribbles: (22.Nxf6) Too many possible moves, too lazy to calculate. Good luck
+[23:27:18] semlegesnev: Nxc6 and we are actually fine, because of dxc6 e4+
+[23:27:33] semlegesnev: I really don't see how we solve d6 tho
+[23:27:48] mrscribbles: (22.Nxf6) Sure sounds good
+[23:28:34] mrscribbles: (22.Nxf6) Wait. What am I talking about. Qa8 enxt is mate
+[23:28:49] mrscribbles: (22.Nxf6) Black has to deal with that right now
+[23:29:04] mrscribbles: (22...gxf6) no, never mind, because the Nf6 gets taken
+[23:29:04] mrscribbles: (22...gxf6) I'm hallucinating. Ignore me
+[23:29:19] semlegesnev: okay, this way c6 is a problem
+[23:33:22] semlegesnev: manifesting dxc6
+[23:37:39] semlegesnev: the problem is this seems the same as 25. ... Ke6, except now white will get their Rook on the d-file
+[23:41:11] semlegesnev: Can Black go f5-g5-h6 and claim his King is hidden?
+[23:50:01] semlegesnev: de facto #2
+[23:52:32] mrscribbles: gg
+[23:52:32] mrscribbles: Crazy game
+[23:52:48] paulze2000: gg tooo many complicastions for mn e
+[23:53:03] gingersquirrelnuts: gg! I have no idea what was going on at any point there
+[23:53:18] baffodacciaio: Crazy game
+[23:58:35] semlegesnev: gg
