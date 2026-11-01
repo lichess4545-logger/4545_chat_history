@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/cmZjpo9C
+White     : slowroast
+Black     : chessyesmen
+Time      : 45+45
+Captured  : 2026-11-01 18:40:35 UTC
+Game ended : 2026-11-01 17:20:24 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[15:05:33] chessyesmen: well that's about as far as my theory knowledge goes
+[15:27:16] slowroast: I'm surprised to see him taking so much time on this move as 10...Rxa5  looks straight-forward.
+[15:27:16] chessyesmen: (10...) I feel like Rxa5 is a bit awkward. a5 is not a particularly strong pawn, and I can pick it up later when I want maybe?
+[15:28:16] chessyesmen: also feel like Rxa5 must be a mainline, so I want to avoid that.
+[15:28:16] slowroast: i need to be careful here since he didn't play 10...Rxa5. He may have a deep idea. 11.Nd2, 12.Nb3 seems logical on first impression
+[15:28:47] chessyesmen: although I feel like white's not in prep either, but Nd7 should hopefully be all done and away with their prep
+[15:34:35] slowroast: the usual Be3-Bf2 probably won't work this game. Perhaps Bd2-Be1-Bf2
+[15:36:06] chessyesmen: (13) yeah alright, looks like I have made a pawn sac
+[15:36:21] slowroast: i don't want to get too precious about the extra a5-pawn.
+[15:36:36] chessyesmen: thankfully we might have a classic KID attack going here
+[15:37:22] chessyesmen: g5 Ng6 h5 g4 g3 and we should be good
+[15:38:07] chessyesmen: (14) is white's plan to go Be1? that's decent
+[15:51:15] feet_barbie: (15...h5) is this hikaru s kid
+[15:51:15] feet_barbie: (15...h5) damn
+[15:53:46] slowroast: 16.h3 is definitely a moment to go back and look at. I worry about a knight getting to g3. i'd have to work around it
+[15:54:02] feet_barbie: (16.h3) yeah not sure about h3 it creates more hooks for black
+[15:54:17] feet_barbie: (16.h3) white needs to push c5 get counterplay rolling open this up
+[15:54:32] feet_barbie: (16.h3) it doesnt even stop g4
+[15:54:47] chessyesmen: (16) okay there has to be some role for my dark-square bishop now
+[15:55:02] chessyesmen: Bh6 seems like a good move
+[15:55:02] chessyesmen: so does Ng6
+[15:56:03] chessyesmen: Bh6 Rf7 Rg7 g4 looks good
+[16:06:09] chessyesmen: (18) okay, Qside doesn't matter to me now. Rg7 first or g4 and then Rg7? I don't think the pawn goes
+[16:06:54] chessyesmen: actually, since white already broke through with c5, I should counter immediately
+[16:22:48] chessyesmen: (24) f3 should be all good right? I don't see anything of danger to me
+[16:36:57] chessyesmen: (26) I want to play Qd7 and trade f and g pawns.
+[16:37:43] chessyesmen: white probably played Kf1 to play gxf3, which gives them f3 as a shield to my attack
+[16:37:58] chessyesmen: fxg2 followed by Qd7 seems better then. Rf8 next and we are eating well
+[16:38:28] slowroast: was hoping to get gxf then hide on e2
+[16:41:15] chessyesmen: (27...) now I might not even take back at Bxe7
+[16:51:37] chessyesmen: (28) I wanted to play Ng6, but there's like Bf6 Nxd6 and Rxg4, removing my queen from defending g4 bishop
+[16:51:52] slowroast: these bishops are brutal
+[16:53:38] chessyesmen: Rf6 then Ng6 might work then
+[16:59:26] slowroast: sacking the exchange for more activity. otherwise ...Ng6 is devastating. BxN QxN also looked bad due to ...Qh4.
+[17:02:13] chessyesmen: is there anything wrong with Bxc1?
+[17:02:13] chessyesmen: then Rf3
+[17:22:25] slowroast: well 16.Bf2 was the other move i was considering and it looks like that's no good either, so I don't feel too bad about 16.h3.
+[17:22:40] slowroast: need to study that position
+[17:24:11] slowroast: should've heeded my own advice about getting too precious about the a4-pawn. 16.c5  gives it back but opens things up
+[17:24:26] chessyesmen: I was expecting c5 tbh
+[17:24:41] chessyesmen: didn't really have any plans other than just go boom on the Kside
+[17:25:26] chessyesmen: classic Qside vs Kside KID
+[17:25:57] chessyesmen: so it was a pleasant surprise when you didn't open up with c5 immediately
