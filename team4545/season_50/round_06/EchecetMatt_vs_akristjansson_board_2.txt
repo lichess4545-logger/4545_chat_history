@@ -1,0 +1,66 @@
+Lichess game chat log
+Game      : https://lichess.org/njhIt4uf
+White     : echecetmatt
+Black     : akristjansson
+Time      : 45+45
+Captured  : 2026-11-01 18:47:40 UTC
+Game ended : 2026-11-01 17:27:29 UTC
+Messages  : 56
+────────────────────────────────────────────────────────────
+
+[15:12:09] feet_barbie: (9...h5) wildd
+[15:19:28] akristjansson: 9... h5 this was necessary to prevent Qh5+ while also threatening to trap the bishop with ...g5 and ...h4.
+[15:20:44] akristjansson: (11. a3) no idea if actually playing this right or if i mixed up lines
+[15:23:30] akristjansson: 11... d5 Black is threatening ...dxe4 dxe4 ...d3+ in some cases, Black can park the king on f7 where its not too exposed
+[15:30:49] akristjansson: 12. e5 some interesting lines here 12... Nf5 13. exf6 gxf6 looks best for Black here as White's light-squared bishop is completely locked
+[15:30:49] akristjansson: out of play
+[15:32:05] akristjansson: also tempting is 12... Bg4 13. Qe1 Nf5 but the bishop is vulnerable to getting trapped with h3
+[15:38:39] feet_barbie: (13...gxf6) looks fun for black
+[15:39:55] tactix47: (13...gxf6) Feet_Barbie sent me :D
+[15:41:10] feet_barbie: (13...gxf6) ahah looks fun give us your take
+[15:41:10] feet_barbie: (13...gxf6) hello scribbless
+[15:41:26] feet_barbie: (13...gxf6) ne3 looming
+[15:42:11] feet_barbie: (14.Bf2) waht if i do it anywayss
+[15:42:11] feet_barbie: (14.Bf2) but re1
+[15:42:26] feet_barbie: (14.Bf2) kf7 or smth ahah
+[15:42:56] feet_barbie: (14.Bf2) there s many bg4 ideas to then push e2
+[15:42:56] feet_barbie: (14...Kf7) ne3 would be a stunner also kf7 lets goo
+[15:43:27] feet_barbie: (14...Kf7) b4 or bust idk
+[15:43:42] feet_barbie: (14...Kf7) nc3!!!!
+[15:45:13] akristjansson: 14... Kf7 15. Nbd2 Ne3 16. Bxe3 dxe3 the threat of e2+ loses material for White
+[15:47:29] feet_barbie: (15.c3) yess c3 looks like one of the only options
+[15:47:29] feet_barbie: (15.c3) though nc3 was fancier
+[15:47:44] feet_barbie: (15.c3) black looks great still, and rio is here
+[15:47:59] feet_barbie: (15.c3) he d be still in prep
+[15:50:01] feet_barbie: (15.c3) black has to be precise but looks great
+[15:50:01] feet_barbie: (15.c3) ne3 bg4 looming
+[15:53:33] feet_barbie: (15...Bd6) noo why so passive
+[15:56:04] akristjansson: 16. g3 h4 17. cxd4 Qg8 and Black can get play on the kingside
+[15:56:34] akristjansson: 16. Bxd4 Nxd4 17. cxd4 Qb6
+[15:57:35] feet_barbie: (15...Bd6) cxd4?
+[15:57:50] feet_barbie: (15...Bd6) idk about the f pawn
+[16:11:28] wave2679: I think despite being up a pawn white is in some serious trouble, b3 might be the only move?
+[16:17:47] akristjansson: 21... Rhg8 22. Nxd5 simplifies favorably for White
+[16:25:36] akristjansson: 23. Qh4 looked tricky
+[16:55:09] akristjansson: 31. Qf3 Qd2 threatens ...Qxb2 and ...hxg3 hxg3 Rxg3 and Qxe2 if Rb1 is played
+[16:57:10] drgarras: Qc3 now maybe?
+[17:00:12] qrs: (32 Qc3) strong find by white, not sure there was any other good move?!
+[17:00:27] mqll: I thought that too Dr G!
+[17:01:43] drgarras: now I am not so sure. Qxc3, bxc3, a4, and the pawn in a3 is going to fall at some point
+[17:02:13] qrs: (32. ... Rxg3+) does that work though?
+[17:02:59] drgarras: I guess white king is weaker than blacks, but this is not easy to play with low time
+[17:03:44] qrs: (35 Kxg3) well now there is Qxb2 and white probably has the harder coordination. Then again, probably Rf3 is the correct response?
+[17:05:15] drgarras: is Kg4 too crazy? opens a way for Ng3-f5
+[17:06:01] drgarras: I guess we will see
+[17:06:31] qrs: It definitely is very commital
+[17:07:01] qrs: I mean the knight will no longer defend d4 and f4 then
+[17:07:47] drgarras: if the knight gets to f5 and a rook can move to h1, the d4 pawn  is not so important
+[17:07:47] drgarras: there is a good chance of at least perpetual
+[17:08:47] drgarras: like Ng3, Qxd4, Nf5 followed by Rh1. I dont see good checks for black
+[17:10:49] drgarras: or Qxd4, Rh1 first could be event better
+[17:20:09] drgarras: is that a blunder?
+[17:20:09] qrs: 41 Rxe7
+[17:20:24] qrs: (41 Rxe7) there it is
+[17:20:24] akristjansson: 40... Qxd4 thought i had Rxe7 Qg8+ oops
+[17:23:57] drgarras: I dont see any way to stop Tee7 - Tf8++
+[17:27:44] ekramymedad: wow!!!
