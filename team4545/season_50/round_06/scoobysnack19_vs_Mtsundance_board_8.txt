@@ -1,0 +1,81 @@
+Lichess game chat log
+Game      : https://lichess.org/96nWpz0T
+White     : scoobysnack19
+Black     : mtsundance
+Time      : 45+45
+Captured  : 2026-11-01 23:56:25 UTC
+Game ended : 2026-11-01 22:36:16 UTC
+Messages  : 71
+────────────────────────────────────────────────────────────
+
+[20:58:32] bufferunderrun: let's go Mtsundance!
+[21:01:19] mtsundance: thanks for coming team!
+[21:06:22] bufferunderrun: many things that you can play against the Pirc
+[21:06:37] mtsundance: so common for him to do e4, nf3 he changed
+[21:11:55] bufferunderrun: ok, so Philidor instead
+[21:13:56] bufferunderrun: Bxf7 is a line, I don't think it the best approach, but black needs to know stuff
+[21:15:42] bufferunderrun: there is a longer line where black "sacs" the rook on a5 with compensation, involves Qg6
+[21:16:28] bufferunderrun: but Qg6 is kind of obvious, since Nxc7 is a fork
+[21:17:59] bufferunderrun: Kg8, Nd6 Qe8 Nxc7 Qg6
+[21:19:45] ysgwydd: (8.Ne6) Looks like a good try by white
+[21:19:45] ysgwydd: (8.Ne6) Even if the first moves are forced
+[21:20:45] sycoraxcirce: if they are not out of book already they will probably be soon and with chaos still on the board
+[21:24:33] bufferunderrun: hmmm 9...Rb8 and no compensation?
+[21:24:33] ysgwydd: (9...Qg6) Superflous knights that both want to the juicy fork
+[21:25:33] bufferunderrun: Qxg2 I think
+[21:26:03] ysgwydd: (10.Nbxc7) Qxe4+ doesn't look awful either
+[21:27:49] bufferunderrun: Qxe4 Kf1 Idk, Qxg2 seems better
+[21:30:36] bufferunderrun: Ng4? I can't quite remember the line, I don't play this with either colors, but I seemingly remember the moves being rather obvious
+[21:30:51] bufferunderrun: and then one precise more or something like this
+[21:32:37] ysgwydd: (11.Rf1) I haven't seen this before I think
+[21:32:52] ysgwydd: (11.Rf1) Not surprised it's theory though
+[21:38:11] ysgwydd: (13.Nxg7) Please play Qxe4+ first
+[21:38:56] bufferunderrun: or Bg4
+[21:39:26] bufferunderrun: well done
+[21:39:41] ysgwydd: (14.Kd2) Even better
+[21:39:57] ysgwydd: (14...Bxd1) You see I shouldn't be on board 2
+[21:40:12] bufferunderrun: neither should I
+[21:40:12] ysgwydd: (15.Rxd1) Then we got a problem
+[21:40:57] bufferunderrun: we can send cinema to board 2
+[21:41:43] ysgwydd: (16.Kd3) Good plan
+[21:42:43] bufferunderrun: 16...Qxd4 seemed better, since you pick up e4 with a check as well
+[21:43:14] ysgwydd: (17.Be3) Still, a queen is a queen
+[21:43:44] bufferunderrun: there is always Ng6, so white has nothing
+[21:44:29] bufferunderrun: I think Nxc7 on move nine is how you play this
+[21:46:15] sycoraxcirce: yes the line is 9.Nxc7 Qg6 10.Nxa8 Qxg2 11.Rf1 and then I forgot what the precise move for black is
+[21:46:46] sycoraxcirce: its considered to be quite a bit better for black if you play it completely precise if I remember right
+[21:47:01] bufferunderrun: yeah, I can't remember the line, maybe Ng4 it looks fine
+[21:47:31] bufferunderrun: I swear I've seen someone playing this in the league
+[21:47:46] sycoraxcirce: maybe it was in the league, I saw it recently too
+[21:48:01] sycoraxcirce: could be during one of our star streamer commentary shows
+[21:49:32] airini_h: Go Mtsundance!
+[22:35:46] sycoraxcirce: scooby is on 4 / 5 so he has a pretty good season anyways
+[22:35:46] bufferunderrun: if Ka7 I think exs4 is cute
+[22:35:46] bufferunderrun: like Bxd4 Qxd4 Rxd4 Bc5
+[22:35:46] ysgwydd: (24.Ne6+) Black loses back the queen,?
+[22:35:46] ysgwydd: (24.Ne6+) But has mate?
+[22:35:46] bufferunderrun: I would have preferred to be exd4 earlier
+[22:35:46] bufferunderrun: this is more trickier than needed
+[22:35:46] ysgwydd: (25.Rg1+) Or 22...N6d7+
+[22:35:46] bufferunderrun: probably still fine
+[22:35:46] bufferunderrun: way too much material
+[22:35:46] ysgwydd: (26.h3) Is Ra8+ leading to mate?
+[22:35:46] bufferunderrun: you can probably even play 26...h5
+[22:35:46] bufferunderrun: possibly, you have Qc2+
+[22:35:46] bufferunderrun: 26... Ra8 Kxb7 Rhb8+ Kc7 Qxc2+ Kxd7 Qc8+ Kxe7 or actually you also have Rb7+ to keep the bishop
+[22:35:46] bufferunderrun: should probably be mate there
+[22:35:46] ysgwydd: (27...Kh5) This seems risky
+[22:35:46] sycoraxcirce: 27 hmmm
+[22:35:46] bufferunderrun: shouldn't forget there is a check on g7
+[22:35:46] bufferunderrun: here we go
+[22:35:46] sycoraxcirce: White play Ng7+
+[22:35:46] ysgwydd: (28.Ng7+) Kh6 Nf5+ Kh5 Nxe3 exd4 and how does white stop Bc5#
+[22:35:46] mtsundance: think he forked my Q finally
+[22:35:46] bufferunderrun: you need to find exd4 and Bc5 though
+[22:35:46] bufferunderrun: ah perpetual
+[22:35:46] ysgwydd: (30.Ng7+) Repetition is smart
+[22:35:46] mtsundance: he wants to draw?
+[22:35:46] bufferunderrun: we will see
+[22:35:46] bufferunderrun: gg
+[22:35:46] ysgwydd: gg
+[22:35:46] sycoraxcirce: gg nice save
