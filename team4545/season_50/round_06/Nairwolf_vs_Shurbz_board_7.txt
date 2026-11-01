@@ -1,0 +1,58 @@
+Lichess game chat log
+Game      : https://lichess.org/Q3Fb5ZpD
+White     : nairwolf
+Black     : shurbz
+Time      : 45+45
+Captured  : 2026-11-01 23:56:26 UTC
+Game ended : 2026-11-01 22:36:16 UTC
+Messages  : 48
+────────────────────────────────────────────────────────────
+
+[20:29:30] shurbz: I don't believe for a second we've never played before but lichess doesn't lie I suppose
+[20:32:17] shurbz: I checked, this is the mainline of the Nf3 variation but Nairwolf has only ever faced Be7 and Nc6 there
+[20:32:32] shurbz: which is followed by bc4, Qc7 stops that
+[20:33:17] shurbz: here white plays a4 and black is supposed to be7, though its close to my book limit
+[20:34:03] shurbz: Qd2 be7 o-o-o o-o is also possible
+[20:35:03] shurbz: hey kyriakos
+[20:36:50] kyriakos1301: Hey Shurbz!
+[20:37:20] shurbz: One thing about my black openings that I don't love, I'm pretty slow developing
+[20:38:36] shurbz: that's a classic problem as black, I'm two minor pieces behind and I've got this hanging pawn struct. but its okay
+[20:39:36] joonaf: go nairwolf!
+[20:40:52] shurbz: I like Be6 but eh am I happy about nd5 bd5 exd5
+[20:41:07] joonaf: I can't stay as I have to go to sleep, but glhf!
+[20:41:07] shurbz: hey Pineapple!
+[20:41:53] shurbz: there is also b5
+[20:45:25] shurbz: all seem good idk
+[20:46:56] shurbz: Looked at Nd7 Nc6 Rd8 but here I think Nd5 blunders a knight, which is nice
+[20:47:56] shurbz: also b4  gets things moving, so a3 or b4 from white seems prudent
+[20:52:44] shurbz: the more I look the happier I am about this position
+[20:52:59] shurbz: I am doing horrible on time management though
+[20:55:31] shurbz: Hey Nyanners, our favorite WFM!
+[20:58:32] nyanners: :o
+[20:59:18] shurbz: So nxe4 there was pretty
+[21:00:34] nyanners: white is probably in trouble
+[21:00:34] shurbz: but for the pawn I wasn't sure I liked the position for me at the end
+[21:01:04] nyanners: if you like development sicilians are generally not a good choice
+[21:01:04] nyanners: for b
+[21:02:05] pineapplechiffoncake: go Nairwolf!
+[21:02:50] nyanners: yea this is definitely some sort of winning
+[21:04:21] pineapplechiffoncake: sorry Shurbz, just rooting for Nairwolf 'cuz nyanners says white is in trouble
+[21:04:36] pineapplechiffoncake: I like an underdog
+[21:06:07] nyanners: XD
+[21:06:22] nyanners: like, e4 will hang. theres no Nd5 because the Nh4 is loose
+[21:06:53] nyanners: with e4 hanging there are more problems to come
+[21:09:39] shurbz: if I was playing white I would go rxd8 rxd8 Nd1 but that doesn't solve the problems
+[21:11:40] shurbz: maybe best was 14. Nb1 idk
+[21:13:57] shurbz: also looked at Nf4 but that isn't as practical as presurring the pawn
+[21:18:15] shurbz: c4 doesn't work because of Nh6 bummer
+[21:21:01] shurbz: is g6 just good then, it solves a practical problem of my queen being locked down
+[21:32:23] shurbz: no solving Nxe Qg6 I'm sure there is a way
+[21:34:09] shurbz: Nh5 looks strong
+[21:36:11] shurbz: Nh5 Qh4 f5 I think there is just a win later in the line
+[21:36:11] nyanners: yea thats tough
+[21:39:13] shurbz: Nh5 Qh2 Nf4 Bf3 Bxf3 doesn't do it
+[21:41:44] shurbz: I do have an extra piece, so I guess every line is winning if I avoid blunders
+[22:35:46] shurbz: that was total blindness on my part
+[22:35:46] nyanners: its fine. that will do
+[22:35:46] nyanners: gg
+[22:35:46] tactix47: gg
