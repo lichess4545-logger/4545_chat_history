@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/eltu68uN
+White     : capestgeorge
+Black     : semlegesnev
+Time      : 45+45
+Captured  : 2026-11-01 16:34:14 UTC
+Game ended : 2026-11-01 15:14:04 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[13:40:40] feet_barbie: (15.Ng5) uh oh
+[13:52:16] grzybozbur: this looks great for white, but what are you supposed to do after 15...h6?
+[13:55:18] invinci7777: start with h6 rxf8 qxf8 rf1
+[13:56:34] grzybozbur: ok, but what then? ng5 is haning
+[13:57:04] invinci7777: where would the queen move?
+[13:57:04] grzybozbur: e8 i assume
+[13:57:49] invinci7777: nf7 kh7 ig
+[13:58:35] invinci7777: nothing concrete
+[14:04:08] grzybozbur: qe7 looks very suspicous
+[14:04:23] grzybozbur: what if rf7 works?
+[14:04:39] invinci7777: doesnt seem to
+[14:06:40] invinci7777: but yeah needs to be calculated
+[14:12:28] grzybozbur: if that knight has to go back, then black must be better
+[14:12:58] grzybozbur: rf7 qe8 i don't see a follow up
+[14:44:01] semlegesnev: test
+[14:44:31] semlegesnev: okay so I think I see a way I could get a perpetual, unfortunately, the team needs a win
+[14:56:39] grzybozbur: 32...bc2 what does white do?
+[14:58:40] semlegesnev: was looking into Bd3, but he can walk his King to h and my K has to cover. This at least pins his King somewhat
+[15:00:26] grzybozbur: i don't understand why black didn't play bc2. it completely immobilizes the knight, and the white king can't get to the queenside
+[15:00:56] thugnastysloth: Bc2 forks
+[15:01:26] grzybozbur: so how do you stop the plan of kc6 and get a passer on a file
+[15:01:41] grzybozbur: not now, now it makes no sense
+[15:02:12] grzybozbur: bc2 instead of trading pawns, on move 31 or 32
+[15:03:27] semlegesnev: now I'm losing for my greed
+[15:05:29] feet_barbie: (39...a6) looks winning for white
+[15:05:59] thugnastysloth: Pretty sure he could just go c4 back then and push those pawns then the bishop would’ve been in a weird spot
+[15:06:44] grzybozbur: but i want the bishop on c2 and i want the white pawn to move to c4
+[15:06:44] grzybozbur: that's the whole point
+[15:07:30] grzybozbur: white can't defend the dark squares on the queenside, because white pieces can't reach the queenside
+[15:07:30] semlegesnev: accidentally sent a wisper to my opponent :dead:
+[15:08:30] semlegesnev: anyway, I think this might be a draw still
+[15:09:16] grzybozbur: well, i managed to lose a much more winning pawn endgame the other day
+[15:09:46] grzybozbur: but this looks completely unsalvageable
+[15:10:01] grzybozbur: wait
+[15:10:17] grzybozbur: white played c5
+[15:11:02] feet_barbie: (41.c5) i think its always winning
+[15:11:32] grzybozbur: probably
+[15:11:47] grzybozbur: but why play c5 if you don't have to?
+[15:12:48] semlegesnev: this just gotta be a draw now
+[15:13:03] feet_barbie: (43.Kf3) maybe he wants  kc4 b5
+[15:14:04] semlegesnev: gg
+[15:14:19] feet_barbie: i see
+[15:15:19] capestgeorge: Tossed away a won endgame there
+[15:16:05] semlegesnev: yep, still got the team win unforch
+[15:18:51] capestgeorge: Good luck with the rest.
