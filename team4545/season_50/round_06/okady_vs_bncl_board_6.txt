@@ -1,0 +1,72 @@
+Lichess game chat log
+Game      : https://lichess.org/Bq5vYxph
+White     : okady
+Black     : bncl
+Time      : 45+45
+Captured  : 2026-11-01 20:08:07 UTC
+Game ended : 2026-11-01 18:47:56 UTC
+Messages  : 62
+────────────────────────────────────────────────────────────
+
+[18:00:27] bncl: I think I remember that in some (very similar? crucially different?) slav lines, Nc6 is the move here, even though it gives up the b pawn
+[18:00:27] bncl: something like Qxb7 Bd7 Qb3 Rb8 Qd1 e5 and in this line that may or may not be the same here I'm supposed to be better developed at least
+[18:00:27] bncl: opponent at least hesitated before taking
+[18:00:27] computability: Go bncl!!!
+[18:00:27] johnjpershing: Lets go Okady!
+[18:00:27] bncl: deviated from the line I had in mind but I believe it's in my favor
+[18:00:27] okady: missed totally this move ...
+[18:00:27] okady: two pawns for a bisshop not my best trade stupid to not see a6 ..
+[18:00:27] okady: all on the attack it is now
+[18:00:27] johnjpershing: Yeah, 9. Bb5 isn't great conceptually. Self-pinning is rarely a great move, with extremely few exceptions
+[18:00:27] johnjpershing: Pin it to win it, and whenever you get in a pin it's often top priority to get out of the pin
+[18:03:44] johnjpershing: Hmmm, the e5 pawn seems to be blocking in white's bishop, the trade there might have stopped their chances at attack
+[18:03:59] johnjpershing: Still, they get to control both open files with Rac1
+[18:18:08] computability: 27.... Re8 very clever
+[18:19:23] computability: Rxd7 Qxd7 Rxd7??? Ra1+! Rd1 Rxd1#
+[18:21:25] johnjpershing: A weak back rank will be a curse until the end of the game!
+[18:21:25] johnjpershing: But white may have some real pressure against the king here
+[18:21:55] johnjpershing: pushing the g pawn may be forced, and then there are ideas of h5, h6, Qf6 Qg7#
+[18:22:40] computability: White also has Rd8 ideas
+[18:23:41] johnjpershing: And once again, the h pawn attacking g7 makes Rd8 much more powerful
+[18:24:26] computability: Qe7?
+[18:24:42] johnjpershing: Black almost wants to play f5, but the en-passant capture from the e file makes it work for black
+[18:24:42] computability: Much of the pressure evaporates with a trade of queens
+[18:25:42] johnjpershing: 30...Qe7 hxg6, and if black continues with the trade, gxh7+, white gets two pawns back
+[18:25:58] johnjpershing: It's nuanced, but there's some chess to be played there
+[18:33:47] johnjpershing: Ahhh, letting black move their f pawn lets them defend the 7th rank so much more easily! This will be a lot harder now
+[18:34:18] johnjpershing: wait, 34 rd8
+[18:34:18] johnjpershing: Does that work?
+[18:34:48] johnjpershing: Qxd8 Rxg6 hxg6 Qxg6 with perpetual
+[18:35:03] johnjpershing: If Rxd8 Kf7, Qxh7 is mate
+[18:35:49] johnjpershing: I'm not sure if it's a real perpetual, but desparate times call for desparate measures
+[18:36:34] johnjpershing: Actually, I might see a way our for black, nevermind
+[18:37:50] johnjpershing: 35 Rxg6+ may have promise?
+[18:38:05] johnjpershing: Hard to see to the end of the line, but remove all cover for the king, and keep the rook on the d-file for skewers and distraction
+[18:38:20] johnjpershing: and it might work?
+[18:41:52] computability: I think the king is safe on e8
+[18:44:24] computability: This might be better to cover the rook on e5
+[18:45:55] johnjpershing: this is crazy tactical, good stuff happening here.
+[18:46:10] johnjpershing: Like 39...Rf5, exf5, Qxg2#
+[18:47:41] okady: well this wansn't my game
+[18:47:56] computability: GGs both
+[18:48:56] computability: That was a nail biter congrats bncl
+[18:48:56] okady: i knew their was something on move 8 but couldn't remember the correct line
+[18:49:11] okady: but was knight b5
+[18:51:28] okady: well after that mistake still could make it a game
+[18:51:28] okady: thats nice to know
+[18:51:43] okady: i had no chance then hope bncl would make a mistake with all the checks
+[18:51:43] bncl: yeah I was just looking at that
+[18:51:58] bncl: The knight move is what makes the line different from the one I had in mind
+[18:52:43] okady: yeah i couldn't remember it
+[18:52:58] okady: i was supposed to play the knight
+[18:53:29] bncl: hmmm but why doesn't the knight move work out in the line I had in mind actually
+[18:53:29] okady: check on c7 probably
+[18:53:59] okady: okay i am going away now you played well bcnl i had some hope that i could fight back but you didn't let me
+[18:54:14] bncl: stressful game, good job on the attack
+[18:54:59] bncl: Engine always has its own thoughts but I was definitely feeling the pressure, especially after the rook sac
+[18:55:15] okady: yeah i get that was my last hope
+[18:55:30] okady: on a prepetual or something
+[18:55:45] bncl: or just mate if I tried to block with queen or bishop at different points
+[18:55:45] okady: yeah i saw their were some chances
+[18:56:00] okady: but i am going now good luck
+[18:56:15] bncl: same to you in the last round!
