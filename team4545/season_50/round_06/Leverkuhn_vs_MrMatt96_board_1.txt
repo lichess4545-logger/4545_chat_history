@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/ANKfyoS1
+White     : leverkuhn
+Black     : mrmatt96
+Time      : 45+45
+Captured  : 2026-11-02 01:39:29 UTC
+Game ended : 2026-11-02 00:19:20 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[22:59:35] feet_barbie: (17.Ne3) go leverkuhn
+[22:59:35] feet_barbie: (17.Ne3) aguerooo
+[23:14:29] nyanners: i will just refrain from commenting on this one xd
+[23:14:44] nyanners: o-o-o is some new tech or something
+[23:14:44] nyanners: seems to be working
+[23:31:38] inter-temporal: (18...Nb3) my lichess has been a bit buggy
+[23:34:40] inter-temporal: (19...d5) helloo ...d5
+[23:36:41] nyanners: seems a bit desperate but i dont really blame it
+[23:37:57] inter-temporal: (20.exd5) white is better?
+[23:38:27] inter-temporal: (20.exd5) (not with K-safety, but other stuff?)
+[23:41:14] nyanners: i think with k-safety too, possibly XD
+[23:41:44] nyanners: black's position is completely rotten imo
+[23:42:29] inter-temporal: (21...a4) seems like just ...Be6 and maybe okay. but that's completely superficial
+[23:42:29] nyanners: yeah Be6 will help
+[23:43:00] nyanners: but i mean, you have no targets anywhere. even if you got Nd2 or Rd2 that doesnt even do anything
+[23:43:00] nyanners: white's targets on g7 and h7 seem more relevant
+[23:43:15] nyanners: and youre a pawn up and theres a knight on h5
+[23:44:15] nyanners: now i mean, its not like this is unwinnable. id put it at 20% or so
+[23:44:46] nyanners: if white gets down to increment then its also just the type of weird enough where something could happen
+[23:47:47] inter-temporal: (22.Bh3) black has no good way to target the white K
+[23:48:48] inter-temporal: (22.Bh3) too many moves to attack white's pawns and pieces on light squares
+[23:49:18] inter-temporal: (22...Ra5) i was just wondering how to push the b7 pawn quickly... lol
+[23:52:20] nyanners: dang thats a good find from white
+[23:52:35] nyanners: you could reasonably resign
+[23:53:21] nyanners: does this work??
+[23:53:36] nyanners: better than resigning for sure
+[23:54:06] nyanners: maybe Ka2 in advance
+[23:54:21] inter-temporal: (22...Ra5) attack the defender. if i could just remember to identify the defenders. lol
+[23:54:36] inter-temporal: (25.Ka2) good call
+[23:56:37] nyanners: i suppose now black is in this state where you are simultaneously dead lost and not dead lost
+[23:57:38] nyanners: f6 is nice
+[23:58:54] nyanners: so is d6
+[00:08:59] grzybozbur: what happens after 29...ne2?
+[00:12:47] grzybozbur: because nc1 doesn't seem to work
+[00:13:47] nyanners: both sides knew this wasnt anything but the motions had to be played out
+[00:14:17] nyanners: ne2 just like qc8 or something
+[00:15:03] nyanners: black would  have a few more checks :o
+[00:15:33] nyanners: probably qb4 would be wiser
+[00:17:19] nyanners: valiant
+[00:19:20] nyanners: gg
+[00:19:36] nyanners: kinda impressed with how black held but yea was too bad
+[00:19:51] leverkuhn: yes it got messier than I expected
+[00:20:06] mrmatt96: Pretty sure I was just dead the whole time
+[00:20:51] leverkuhn: I think so, but somehow you coming to the a2-g8 diagonal caught me off guard
+[00:21:21] mrmatt96: There are almost some useful tricks, yeah, but you plowed through without trouble
+[00:21:37] leverkuhn: it was so far from being a thing on move 26, but suddenly after 26...f6 27.d6 there were some things to calculate
+[00:22:07] leverkuhn: I think the prep gave me a leg up this game; we were following one of your games until 9.0-0-0!?
+[00:22:37] leverkuhn: I saw that White can usually play Kb1, f3, g4, h4 etc. after that and it's hard for Black to deal with
+[00:22:37] mrmatt96: I woke up this morning and told myself I wasn't going to play a Bogo. I had the 9.0-0-0 position on the board in my prep
+[00:22:52] leverkuhn: oh really wow
+[00:22:52] mrmatt96: Though, "Nah, not what I want today.
+[00:23:07] mrmatt96: Then went for it anyway!
+[00:23:07] mrmatt96: Silly me...
+[00:24:08] leverkuhn: 13...Kh8 was kind of mysterious, was the idea 14...Nfxe4 15.fxe4 Nxe4 16.Nxe4 Qxe4+ and now 17.Bd3 Qxd4 doesn't win for White
+[00:24:23] mrmatt96: It's a good line for White, and one I don't have much experience with
+[00:24:23] leverkuhn: . . . because Bxh7 isn't check?
+[00:24:38] mrmatt96: Partly; also trying to avoid problems with the g-file opening and partly trying to play ...f6 or ...f5
+[00:24:53] mrmatt96: Definitely too cute for the position at that point
+[00:26:09] leverkuhn: it felt like 12...Qe7 only makes sense in the context of 13...c6, otherwise the tempo is lost to Nd5
+[00:26:39] mrmatt96: Exactly
+[00:27:24] leverkuhn: if 14...Nfxe4 I was thinking 15.fxe4 Nxe4 16.Nxe4 Qxe4+ 17.Ka2 Qxh1 18.Bd3 with a really weird queen trap
+[00:29:25] mrmatt96: I missed that, but thought 15...Nxe4 16.Qc2 kind of killed the whole idea
+[00:29:56] mrmatt96: (Although I was coming at it from a ...Bxg4 angle in some positions, which may or may not make a difference)
+[00:31:26] leverkuhn: Thanks for the game Matt, gl in the rest of the season!
+[00:31:41] mrmatt96: Thanks, good luck
+[00:31:57] leverkuhn: oh yeah 16.Qc2 probably better
