@@ -1,0 +1,63 @@
+Lichess game chat log
+Game      : https://lichess.org/onLMhUxh
+White     : kayrosas
+Black     : silkthewanderer
+Time      : 45+45
+Captured  : 2026-11-03 15:16:35 UTC
+Game ended : 2026-11-03 13:56:24 UTC
+Messages  : 53
+────────────────────────────────────────────────────────────
+
+[12:02:02] kayrosas: don't really wanna bother with weird prep for 3rd round in a row, let's just play chess with 1.Nf3
+[12:02:47] kayrosas: I do have a couple ideas but they play a lot of stuff, so not expecting a lot
+[12:13:08] kayrosas: I remember b6 being a somewhat solid approach but iirc 6..exd5 is more solid bc my c3 knight is worse than the f6 one
+[12:14:09] kayrosas: 9.Qc2 seems natural, maybe a6 in response
+[12:15:25] kayrosas: I wonder if I ever wanna do smth like 9.Qc2 a6 e4 in these structures. usually with Bb2 not
+[12:21:43] kayrosas: 9...c5 looks more principled than a6 but I think Ba6 is fairly strong there bc no more Nc5
+[12:25:15] kayrosas: one thing about 10.Ba6 is that later Bb7 is a semi tempo like Ba6 Qc7  ... Bb7 and I don't really wanna trade
+[12:25:46] kayrosas: Bd3 could be asking a funny question maybe
+[12:26:46] kayrosas: 10.Bd3 enables Be7 tho bc I no longer have Qxh7
+[12:29:18] kayrosas: I could chuck the h pawn. black needs to play a6 before doing anything else. could be useful
+[12:39:09] kayrosas: very happy to see 10...Bxf3 :o should be an imbalance in my favour
+[12:39:39] kayrosas: fwiw I don't think my knight was that dangerous
+[12:40:55] kayrosas: e5 also looks very weakening?
+[12:47:59] kayrosas: 12.Bb5 wins a pawn I think but I sacrifice some initiative
+[12:49:14] kayrosas: Qe4/f5 seem more tempting but cant find smth concrete
+[12:50:45] chonov: Kayrosas cooking
+[12:51:46] kayrosas: 12...f6 surely not an option, Bd3 maybe just strong
+[12:57:49] kayrosas: position feels so dominant it's difficult to decide. in reality the edge is probably much smaller
+[12:59:20] kayrosas: maybe not. black's kingside is just so vulnerable
+[12:59:51] kayrosas: just a bit worried about pawn up endgames where my structure isn't good enough to win
+[13:02:52] kayrosas: kinda fun they go down the full greed line :o it might just be best fwiw
+[13:06:24] kayrosas: 14.Rg1 0-0 Qc4 Kh8 Qe6 Nb8 Qd5 looks good
+[13:06:55] kayrosas: preventing castling also tempting ofc but feels slow
+[13:07:40] kayrosas: oh Rg1 0-0 Qd3 even better, Nb8 Qd5
+[13:07:55] kayrosas: black can insert exf somewhere maybe to get Ne5
+[13:08:26] kayrosas: Rg1 exf Rxg7 tho. Rg1 Qe7 also possible
+[13:09:41] kayrosas: I could also start with 14.fxe, still weak
+[13:09:57] kayrosas: still winning that pawn in fact
+[13:10:27] kayrosas: actually not outright winning I guess
+[13:13:14] kayrosas: 14...fxe f4 seems greedy. Qf5 Qe7 and black can castle long tho
+[13:14:14] kayrosas: 14...fxe Qe4 looks good enough
+[13:17:46] kayrosas: 19.Qc3 looks tempting with g7 as a target but my king doesnt feel all that safe
+[13:19:47] kayrosas: my bad pawn structure is probably an edge here bc I can create a 2v0
+[13:22:19] kayrosas: 21.Rc1 Rad8 d4 cd should be good? but seems unstable
+[13:23:04] kayrosas: b4 instead of d4 there maybe
+[13:23:50] kayrosas: c4 and g4 to activate both rooks is kinda fun
+[13:26:51] kayrosas: 22.b4 still tempting but the 1v3 could be weird
+[13:27:37] kayrosas: I get Rb7 in the end tho, should be fine
+[13:27:52] grzybozbur: 22,b4 i don't see a move for black that doesn't look completely lost
+[13:29:23] grzybozbur: can't take, can't not take, white takes next move
+[13:31:09] kayrosas: 24.Rb1 very princpled, 24.Rg5 nice to simplify maybe
+[13:43:46] zubenelgenubi: Go Silk
+[13:45:02] zubenelgenubi: looks tough
+[13:52:37] kayrosas: I'm a bit impatient in endgames but think I'm still doing fine
+[13:58:10] kayrosas: 1.Nf3 my beloved
+[13:58:25] kayrosas: 2 rounds of losing out of the opening were enough
+[14:01:57] silkthewanderer: Doubling down on a mistake is never a good idea
+[14:02:27] silkthewanderer: Bxd5 over Qxd5 is just plain nonsense and I never got my position in order from there
+[14:03:12] kayrosas: not a big fan of Nxd5 in the first place, I'm happy to open the diagonal for my dsb
+[14:03:12] silkthewanderer: Bxf3 was a petty attempt to either fix things now or fail quickly
+[14:03:27] silkthewanderer: But these things never work
+[14:04:13] silkthewanderer: Bb7 is also questionable in itself
+[14:04:43] silkthewanderer: Be7 and 0-0 and Re8 are all sensible moves I can play before defining the queenside
