@@ -1,0 +1,102 @@
+Lichess game chat log
+Game      : https://lichess.org/2XUYV7Jm
+White     : anthammer
+Black     : fwcj68
+Time      : 45+45
+Captured  : 2026-11-03 23:42:57 UTC
+Game ended : 2026-11-03 22:22:48 UTC
+Messages  : 92
+────────────────────────────────────────────────────────────
+
+[20:49:24] nubro: go fwcj!
+[20:49:39] acerb95: go fwcj68 !!
+[20:53:41] finerik: Go 68!
+[21:14:08] acerb95: why did white not take their knight back ?
+[21:16:55] nubro: Ne4 you mean? No idea
+[21:17:40] nyanners: this is one weird game
+[21:17:55] acerb95: @Nubro: or Nf3 should work as well?
+[21:19:11] nyanners: yes but nf3 means youre sad
+[21:19:26] nyanners: because you just played ng5 the very previous move
+[21:20:42] acerb95: @nyanners: but Ne4 or Nf3 was better than giving up a piece, right ? Because its not like got some other compensation for it.
+[21:20:57] acerb95: *they got
+[21:21:43] nyanners: yea of course dont give the piece :D
+[21:21:58] nyanners: i think ng5 was just a bad move overall
+[21:22:13] nyanners: like yea i see the idea but.. it doesnt work so its too artificial
+[21:22:28] nubro: Maybe playing a bit too fast
+[21:22:58] acerb95: @nyanners: can you tell the idea because i didnt get it
+[21:23:13] nyanners: light square speculation
+[21:23:29] nyanners: qb3/bd5 for ne6/nf7 sorta thing
+[21:24:30] nyanners: of course even if white somehow got the check in both f7 and e6 are still well defended by the Qe8 so
+[21:25:30] acerb95: so if black didnt have knight on f6, this might have worked ?
+[21:25:45] nyanners: not yet because the qe8 covers the critical squares
+[21:26:00] nyanners: so it was just too much
+[21:28:17] acerb95: oh
+[21:30:18] qrs: (24 ... Qf5) why did black give up all of their queenside pawns to now play Qf5? Was expecting Bh3 tbh
+[21:30:18] nyanners: feels like a wrong reflex kicked in
+[21:30:33] nyanners: but white is making a good job out of the ruins
+[21:31:03] nyanners: gx may be really good actually
+[21:32:04] nyanners: beats allowing hxg
+[21:32:50] qrs: Well black should’ve probably also sacked his rook for the lsb
+[21:32:50] qrs: Based on whites king position
+[21:33:20] qrs: Easy to say in hindsight but I was also thinks black would go for 23 Rxc6
+[21:33:35] qrs: Thinking ..
+[21:34:51] nyanners: not that white has equalised but
+[21:34:51] nyanners: the trend is definitely a good one
+[21:36:22] qrs: 25 ... Rxb5 might work
+[21:36:52] nyanners: dang
+[21:36:52] nyanners: hadnt seen that one
+[21:36:52] nyanners: like at all
+[21:37:37] qrs: Yay, surprised you once :D
+[21:38:08] nyanners: XD
+[21:38:38] nyanners: i think it does work
+[21:38:38] qrs: The more I look at it, the deadlier it seems
+[21:40:09] nyanners: its fine. it wont be played
+[21:43:10] nubro: It still works now, no?
+[21:43:26] nubro: Before Rfd8
+[21:47:28] nyanners: is rbc8-rxc6 too on the nose xd
+[21:51:45] nyanners: okay this is a good one
+[21:52:01] nyanners: taking a pawn back helps a lot
+[21:57:34] qrs: Black just tripling on the second rank now?
+[21:58:04] qrs: 32. ... Rb2 seems winning?!
+[21:58:49] qrs: Takes at least another pawn and forces the queen trade
+[22:00:05] nyanners: black is disappointed to have to trade queens now xd
+[22:00:05] nyanners: i would too
+[22:00:20] nyanners: white put up a good fight all things considered
+[22:00:35] acerb95: but i think it might still be better to exchange for black
+[22:00:51] qrs: (33 Rc1) still black just gets to collect all the pawns then
+[22:00:51] qrs: Definitely
+[22:00:51] nyanners: yea its fine. play ng3 next
+[22:01:06] nyanners: probably forced mate or something
+[22:01:21] qrs: I’d play Ra2
+[22:01:21] acerb95: just need to get the knight into play
+[22:01:36] qrs: 35 ... Ra2
+[22:01:51] nyanners: its 200% nh5 for me
+[22:01:51] qrs: Why rush - just collect all the pawns - then have an extra knight and an extra pawn
+[22:01:51] acerb95: why not Nh5 ?
+[22:02:21] qrs: Yea, you might be right
+[22:02:37] qrs: Mate is better than a slow grinding win
+[22:03:07] nyanners: i mean i dont mind a high EV conversion but
+[22:03:07] nyanners: when we only have a single pawn that sounds like a lot of work
+[22:03:07] nyanners: so its not THAT high ev
+[22:03:22] nyanners: worst case you end up in RN vs R
+[22:03:52] qrs: After Nh5 white can force a rook trade though
+[22:03:52] qrs: Rb1 etc
+[22:04:08] nyanners: that doesnt force it
+[22:04:38] nyanners: in fact theres immediate mate
+[22:05:23] qrs: Ah yea
+[22:05:23] qrs: Rf2
+[22:05:54] qrs: Rb1 Rf2 that was - I agree
+[22:06:09] qrs: We do get to see the slow version though
+[22:06:09] qrs: But Nh5 very strong
+[22:06:39] acerb95: i liked Nh5 more! more cleaner but this gets the job done
+[22:07:09] acerb95: plus maybe in the pressure of the game, i might not find Nh5
+[22:08:25] acerb95: wait he can just take the pawn now with the knight!
+[22:08:40] nyanners: black has played well. he can have a break XD
+[22:08:40] nyanners: white has too but tough after that blunder
+[22:09:41] acerb95: go go fwcj!!
+[22:22:33] nubro: GG!
+[22:22:48] qrs: GG
+[22:22:48] acerb95: gg
+[22:36:40] nyanners: gg
+[22:38:11] qrs: 25 ... Rxb5 even missed by engine analysis?! But once you play it, engine approves
+[22:39:26] nyanners: good company i guess
