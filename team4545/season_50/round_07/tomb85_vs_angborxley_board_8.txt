@@ -1,0 +1,242 @@
+Lichess game chat log
+Game      : https://lichess.org/2FObVfJT
+White     : tomb85
+Black     : angborxley
+Time      : 45+45
+Captured  : 2026-11-03 22:29:09 UTC
+Game ended : 2026-11-03 21:08:58 UTC
+Messages  : 232
+────────────────────────────────────────────────────────────
+
+[18:57:55] qrs: Go Ang!
+[18:58:25] qrs: Also - hi Tom!
+[18:58:56] angborxley: (1.c4) was expecting d4!
+[18:59:11] qrs: 1. c4 kicking it off with a surprise
+[19:00:27] angborxley: (3.e3) hi nyanners and qrs
+[19:00:42] qrs: Heyhey :)
+[19:02:28] qrs: (4 Nf3) c5 is tempting
+[19:05:29] kayrosas: bit sad to see d4 already :o
+[19:06:15] angborxley: (5...O-O) hi pineapple
+[19:06:30] pineapplechiffoncake: hi Ang!
+[19:09:02] qrs: 7. ... b6 now maybe? Seems to fit with blacks moves so far
+[19:11:33] qrs: (7 ... Nbd7) Mh. All reasonable and playable but now blacks lsb will have a harder time coming alive?!
+[19:12:18] kayrosas: yea not a big fan of dxc4 and Nbd7 in combination
+[19:13:19] kayrosas: black's break here is c5 and after that we'd rather put the knight on c6 I'd think
+[19:15:50] qrs: (8... Nb6) I was also thinking b6 Ba6 is an option in some lines, but ofc that’s water under the bride now
+[19:17:06] qrs: White at the same already creating concrete threats against the kingside
+[19:17:21] qrs: Blacks gotta be careful with the next moves
+[19:18:52] qrs: Probably 9... h6 is sensible
+[19:19:23] kayrosas: not sure if it needs to be addressed yet
+[19:20:08] qrs: Well what should black play? I d like to go Nbe5 with the idea of a potential Nb4 but that doesn’t work right now cause of h7.
+[19:20:23] kayrosas: h6 would tempt me to try some g4 / Rg1 stuff, but here black might be quick enough with c5
+[19:20:38] qrs: Also e4 e5 might be a plan for white
+[19:21:09] angborxley: (9.Bd3) i'm thinking about h7 to stop Ng5, or knowing i'll have to play g6 at some point, kh8 maybe makes some kind of sense
+[19:21:24] kayrosas: Nbd5 looks fine, no?
+[19:21:54] qrs: Nx ex?
+[19:22:09] kayrosas: yep
+[19:22:09] kayrosas: free our lsb :o
+[19:22:24] qrs: Not sure black wants to play with the isolani but yes
+[19:22:40] kayrosas: also prevents e4 ofc
+[19:22:40] kayrosas: not an isolani, we have a c pawn still ^^
+[19:22:55] qrs: Haha
+[19:23:10] qrs: Apparently I am a bit blind tonight
+[19:23:40] qrs: Ye sure Nbd5 completely fine - I discarded it immediately for the hallucination of an isolani that would even be so bad if it was one ..
+[19:23:55] qrs: Wouldn’t
+[19:24:41] kayrosas: 10.0-0 quickly played surprises me a bit. g6 makes me wanna try some h4 or alike
+[19:24:41] qrs: Ye, same here
+[19:24:56] angborxley: (10.O-O) i don't think i like my knight on b6 so much, and my lsb doesn't have much going on at the moment
+[19:25:11] qrs: Was typing a comment on g6 still
+[19:25:26] qrs: But black is in the right track now
+[19:25:56] qrs: Let’s hope the result of his comment is 10 ... Nd5
+[19:28:28] kayrosas: g6 feels odd still but a bit difficult to see how white could exploit it
+[19:39:19] angborxley: (12.h3) Ng4 was not good
+[19:42:51] nyanners: everything begins with d4, and ends with d4
+[19:43:22] nyanners: g6 would be good in a different timing xd
+[19:43:37] nyanners: but yea white needs to be a bit careful to not end up trading all the pieces
+[19:43:52] nyanners: like, Bh6 will provoke Re8 Bf8, etc
+[19:46:54] kayrosas: I just wanna throw 16.h4 out there bc these aren't my pawns I'm saccing
+[19:48:10] kayrosas: g3 Kg2 Rh1. question is if the diagonal ever gets too weak
+[19:49:56] angborxley: (16.c4) at this rate my night is going to end up on b8 ugh
+[19:51:11] nyanners: i used to play h4 a lot because no one ever actually takes
+[19:51:27] nyanners: only 1700s did
+[19:51:27] nyanners: and got away with it
+[20:00:32] qrs: (17 ... Bd7) Ba4 is a nice threat for black
+[20:01:33] qrs: Even after 18 Bh6
+[20:09:37] qrs: (19 . ... Bb3) risky move. Guess the bishop doesn’t get trapped but black has gotta be careful
+[20:10:23] qrs: (20 Qh6) that might work though
+[20:11:08] qrs: f6 forced?!
+[20:12:54] nyanners: f5 surely
+[20:18:13] qrs: (21 Bxf6) if c5 not the nice looking Nd5 or blacks lsb might get trapped
+[20:19:28] qrs: Or actually invest some calculation - it might work :D
+[20:20:29] qrs: c5 Nd5 a4 Nb4 attacking whites lsb and freeing d5 again for the lsb
+[20:21:14] qrs: Also c5 Bc4 might be an option for black
+[20:24:46] ryune: Black is going to have a very nice endgame if they survive this middlegame
+[20:25:17] qrs: (23 Bxg5) does white have anything after Qd7?
+[20:26:02] qrs: (23. ... Qxd4) feels risky
+[20:26:02] ryune: This is crazy complicated, but it's the most natural move
+[20:26:48] qrs: 24 Bxg6?!
+[20:27:18] qrs: Seems to work alright for white
+[20:28:19] nyanners: its time to bet on black
+[20:28:34] nyanners: white missed the Bxg6 timing and Bxc4 will be well placed
+[20:29:04] nyanners: Qxd4 going to g7 is massive
+[20:29:50] qrs: Bxg6 hxg6 Qxg6 Qg7 Rxe6
+[20:30:05] nyanners: yeah just trade
+[20:30:20] nyanners: theres nothing
+[20:32:21] qrs: Qxg6 Rxg6+ Kh7 Rh6+ Kg7
+[20:32:36] qrs: True if black finds all these they should be ok :)
+[20:33:06] qrs: Go Ang! :)
+[20:33:22] ryune: Luckily there's no real alternative. Basically forced to play hxg and Qg7
+[20:33:22] kayrosas: hxg6 Rxe6 Bc2 :o
+[20:34:07] qrs: Sweeeet
+[20:34:22] kayrosas: but seems like a good try maybe
+[20:35:53] qrs: Think black would find that - simply cause there’s nothing else
+[20:36:08] nyanners: qxg6 qxe6 and hope for the best
+[20:36:08] nyanners: rxe6 qxa1 may be convincing xd
+[20:36:23] angborxley: (24...hxg6) am i ok again....?
+[20:36:54] nyanners: no way
+[20:36:54] qrs: Rxa1!!
+[20:37:09] qrs: Crazy
+[20:37:24] nyanners: okay so
+[20:37:39] nyanners: does black find it?? i mean
+[20:37:39] nyanners: you need to find qxa1 AND bc2
+[20:37:39] nyanners: i think
+[20:37:39] qrs: Ye true
+[20:37:54] qrs: Not easy
+[20:38:10] nyanners: i think its like 50%
+[20:38:10] ryune: Can't you just play Rf7 as well?
+[20:38:10] qrs: Funny how you called it though
+[20:38:10] nyanners: okay thats a start xd
+[20:38:40] nyanners: i mean, white's point is that rxg6 is very strong
+[20:38:40] nyanners: its true
+[20:38:55] nyanners: rf7 doesnt help
+[20:39:10] ryune: Yeah you're right
+[20:39:10] nyanners: like rxg6 rg7 and bf6 think white wisn
+[20:40:26] qrs: Not over there or is it?
+[20:40:56] qrs: Rf7 Rxg6 Rxg7 Bf6 Qxf6
+[20:41:11] nyanners: yea but you had to give back the material :o
+[20:41:11] qrs: And in the end white has the queen, pawns against rook and two minor pieces?
+[20:41:27] qrs: Yea, but it’s not like white easily wins then
+[20:41:42] nyanners: nah youre right
+[20:41:42] nyanners: black has a lasting king problem tho
+[20:41:57] qrs: Guess we gotta see it :/
+[20:41:57] kayrosas: those pawns will be quick
+[20:41:57] nyanners: and that
+[20:42:27] qrs: (26 Rf7) bc2 instead, unfortunate miss
+[20:43:13] qrs: Think white will find the right moves
+[20:43:28] qrs: By way of elimination
+[20:43:58] qrs: Or wait
+[20:44:13] qrs: Isn’t there also a perpetual
+[20:44:28] nyanners: white has at least a perpetual for sure
+[20:44:28] nyanners: think you can play to win
+[20:44:44] qrs: Ok would’ve been Qxg6 Rg7 Re8+
+[20:44:44] nyanners: maybe white falls for the optical illusion
+[20:44:59] nyanners: in Rxg7 first
+[20:45:14] nyanners: black thinking is concerning xd
+[20:45:14] qrs: No I just meant if white doesn’t find the right moves he would maybe be tempted by the perpetual
+[20:45:29] nyanners: ooh
+[20:45:29] nyanners: yea that was definitely possible
+[20:46:15] qrs: Well black could try to give the queen straight away but that fails
+[20:46:45] karasso: If Qxg6+ Qg7 was there instead of Rg7
+[20:47:00] nyanners: no way you actually play Qg7 here xd
+[20:47:00] qrs: Qg7 Bf6 Qxg6 Qh8#
+[20:47:30] nyanners: as a black fan id definitely be worried
+[20:47:30] qrs: Hi karasso, didn’t get to look at your game yet, but will do for sure
+[20:47:45] nyanners: like clearly black doesnt like something on rg7
+[20:48:16] qrs: Let’s hope he doesn’t go for Qg7 - that would be very unfortunate
+[20:48:16] nyanners: of course qg7 is worse but sometimes you play the alternative in frustration
+[20:48:16] karasso: I lost, got outplayed in the endgame^^
+[20:48:31] qrs: But I think he realized just now that there is Bf6
+[20:48:46] nyanners: the worst thing would be to realize you missed bc2 xd
+[20:48:46] qrs: That’s why he is searching for the non-existent alternative
+[20:48:46] nyanners: you can only see that after the game
+[20:49:01] qrs: Sorry to hear that, karasso
+[20:49:16] qrs: Also let’s just hope ang doesn’t resign
+[20:49:31] qrs: Seeing a ghost mate
+[20:49:47] qrs: Just go Rg7 you ll still need the time
+[20:50:17] karasso: Ans pray white does not find Bf6
+[20:50:17] qrs: With black getting so low on time, I am afraid there will be a queen double attack later on
+[20:50:32] nyanners: if white hadnt seen bf6 before he must have seen it by now
+[20:50:47] qrs: Yep
+[20:51:02] nyanners: its always a big tell when you think the position is normal and suddenly opponent seems very worried
+[20:51:02] qrs: There really only is two legal moves
+[20:51:18] nyanners: okay XD
+[20:51:48] nyanners: yea
+[20:51:48] qrs: (27. ... Rg7) to revisit for @angborxley after the game - too much time spent here
+[20:52:48] ryune: This is still a game :)
+[20:52:48] tactix47: (28.Bf6) Rxg6 is a forced mate, so Qxf6 is the only try, right?
+[20:53:04] qrs: Yep
+[20:53:34] qrs: Still a 3-result game, black needs to get his pieces safely coordinated and not drop one
+[20:54:19] kayrosas: well, that drops a piece
+[20:54:19] karasso: Rh7 looks losing
+[20:54:19] qrs: :/
+[20:54:50] qrs: Just Bxc4 looked ok?
+[20:54:50] tactix47: (29...Rh7) ^
+[20:54:50] nyanners: id go with rf8
+[20:54:50] nyanners: though its not ideal
+[20:55:20] karasso: Rg6+ Kh8 Qf4
+[20:55:50] karasso: With Qf6+
+[20:56:05] kayrosas: Qe3 would hit the bishop as well
+[20:56:51] karasso: It's just mate, isn't it?
+[20:57:21] kayrosas: might be yea
+[20:57:21] nyanners: probably
+[20:57:51] qrs: Admittedly Rh7 was played way too fast ss compared to e.g. Rg7. But do tough to continue ss black after you had to give the queen back
+[20:58:07] qrs: *too
+[20:58:22] qrs: Also *as x2
+[20:58:52] qrs: Let’s hope white doesn’t find it
+[20:59:53] kayrosas: :o
+[21:00:08] karasso: We are back
+[21:00:23] qrs: (30 Qxg6+) dodged a bullet there
+[21:00:38] qrs: Would be kinda unfortunate though if black tried to repeat and white wants to keep the game going accidentally finding the win
+[21:01:39] karasso: Bxc4 Qxb7 Bd5 -+
+[21:01:39] qrs: (31 Qe4) ok we re definitely back
+[21:01:54] ryune: Oh my
+[21:02:09] qrs: Bd5 wow
+[21:02:24] qrs: rc6 forced there?
+[21:02:24] karasso: Bd5 also traps the queen, i just wanted to take on g2
+[21:02:39] qrs: Also Rxg2 threats
+[21:02:54] qrs: Yea crazy
+[21:02:54] qrs: Unfortunate miss, that was a W
+[21:02:54] angborxley: (32...Rf8) Bd5 maybe was better
+[21:03:10] kayrosas: 32.Rxb6 also shouldn't go unmentioned
+[21:03:25] qrs: Maybe :D
+[21:03:55] qrs: True, Kayrosas
+[21:04:10] kayrosas: also white wins a piece here I believe
+[21:04:26] qrs: Ye, this will hurt
+[21:04:56] kayrosas: now you are back again maybe :o
+[21:05:11] qrs: Qb8+ Qxc7+
+[21:05:11] kayrosas: interesting piece dynamic
+[21:05:11] qrs: Graph will definitely look interesting
+[21:05:26] tactix47: (34.Qf3+) ^
+[21:05:56] karasso: Now atleast everything is protected
+[21:05:56] qrs: Bd5 is a threat again and we know Ang has seen it
+[21:06:27] kayrosas: time for white to use those pawns perhaps, 35.g4
+[21:06:42] qrs: White might play 35 g4 though
+[21:06:42] qrs: Exactly, haha
+[21:07:27] nyanners: rook trade probably in black's favour
+[21:07:27] ryune: Rxg2+!
+[21:07:27] kayrosas: Qxg2 :(
+[21:07:42] nyanners: id be confident even though i dont think black is doing well xd
+[21:07:42] ryune: Nevermind, I'm an idiot
+[21:07:42] ryune: Does not work
+[21:07:42] nyanners: but id be happy as black
+[21:07:58] qrs: Just Bd5
+[21:07:58] kayrosas: i did also think about it tbf ^^
+[21:07:58] kayrosas: maybe drow now
+[21:08:13] kayrosas: we'll see if white has ambitions
+[21:08:28] qrs: 35. ... Bd5 could lead to a black W?!
+[21:08:28] nyanners: actual truth is that you probably dont lose after g4
+[21:08:28] nyanners: and probably win
+[21:08:58] qrs: Draw seems fair after all
+[21:08:58] nyanners: oooh the terror
+[21:08:58] karasso: gg
+[21:09:14] nyanners: gg xd
+[21:09:14] nyanners: was a good one
+[21:09:14] kayrosas: gg
+[21:09:14] qrs: GG to both
+[21:09:29] ryune: Roller coaster of a game
+[21:09:29] qrs: Either side had winning moves
+[21:09:29] qrs: Very entertaining
+[21:09:29] angborxley: gg
+[21:09:44] angborxley: thanks for watching!
+[21:09:59] tactix47: gg
+[21:10:29] qrs: Also tomb finishing with 12:34 - in true style
