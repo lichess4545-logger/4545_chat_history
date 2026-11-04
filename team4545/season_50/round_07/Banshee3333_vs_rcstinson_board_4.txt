@@ -1,0 +1,97 @@
+Lichess game chat log
+Game      : https://lichess.org/64xRGRF7
+White     : banshee3333
+Black     : rcstinson
+Time      : 45+45
+Captured  : 2026-11-04 21:52:16 UTC
+Game ended : 2026-11-04 20:32:05 UTC
+Messages  : 87
+────────────────────────────────────────────────────────────
+
+[18:29:07] banshee3333: So much for my prep lol. I thought I had Black
+[18:29:52] kayrosas: 1.a3 then ^^
+[18:30:07] banshee3333: Absolutely would have liked to have studied this. This is my least well-known line in the French
+[18:33:24] qrs: Go russell!
+[18:35:41] banshee3333: We're waiting for something like ...O-O or ...f6 so we can finish development
+[18:35:56] banshee3333: We want to play Bd3, but we can't yet without dropping d4
+[18:36:11] banshee3333: And we don't want Ne2 until the bishop is out
+[18:37:27] banshee3333: 11...f5 takes me out of book. Like I said, I wish I'd studied this XD
+[18:37:42] banshee3333: Bd3 never works now so prolly I want to defend d4 with the bishop
+[18:46:47] banshee3333: 12. Bb2 or 12. Bd3. Bb2 the bishop is kinda dead, but maybe someday a4 and Ba3. But it unties my rook from a3 and covers the c3 square
+[18:47:18] banshee3333: I think Bb2 makes more sense if I want to play on the queenside, while Be3 makes more sense for kingside play
+[18:47:48] banshee3333: Kingside play is more principled I think, but there are reasons to suppose I might enjoy play down the c-file
+[18:48:33] banshee3333: Later a4 creates an outpost on b5, but leaves b3 backward
+[18:49:19] banshee3333: Bd3 I'm going to develop, castle, and set up to open the kingside
+[18:51:05] banshee3333: I think Bd3 is the more principled way to play
+[18:51:50] banshee3333: Maybe even we consider Kf2 instead of castling. We'll see
+[18:57:09] banshee3333: I don't think I have enough compensation after 13. Rxa3. I just missed this idea
+[18:57:09] banshee3333: So Bb2 was the way to go
+[19:01:11] banshee3333: I think I'm happy to see the bishop on b4. It's not the most effective piece to put on that square I think
+[19:01:26] banshee3333: Losing control of b4 was a big problem though
+[19:01:41] banshee3333: Maybe 14...Bc3
+[19:03:27] banshee3333: Well after ...Bc3-xd4 I can trade and leave a knight pinned there
+[19:15:35] angborxley: (18.Nh2) go rcstinson!
+[19:16:50] banshee3333: Would you guys believe me if I said that 12. Be3 was a gambit? XD
+[19:18:36] banshee3333: I was also looking at 18. Ng5 and the immediate 18. g4
+[19:18:51] banshee3333: I think there might have been some merit to 18. g4 -- check after game
+[19:19:37] banshee3333: The idea being to sac the exchange against knight takes and to argue that we've opened lines against pawn takes
+[19:20:37] banshee3333: Here I thought why sac the exchange when I can do the same thing without doing so, but maybe Black gets time to bring the queen over
+[19:21:08] banshee3333: I also kinda want to try to get on the c-file and infiltrate c7
+[19:26:11] banshee3333: 21. h6, 21. Nf6+. I'm not worried about Nxe3 -- I won't need to push f5 if I don't have a dark bishop to open up XD
+[19:27:42] banshee3333: There was also maybe simply Rc1
+[19:28:42] banshee3333: A drawback of h6 is that Black does get in ...g6. I get the f6 square and ideas to sac on g6, but he gets pressure off g7
+[19:29:28] banshee3333: I should evaluate the exchange sac after 22. Nf6+. Might be better to wait and do something else first
+[19:41:35] banshee3333: What is threatened with ...Qh4+? It kinda looks to me like the queen is there by itself. Maybe the e3 bishop falls in some lines?
+[19:42:05] banshee3333: Also maybe now I take the knight and seek to trade off dark bishops, going for an endgame with a nice passer
+[19:42:51] banshee3333: First I want to know what happens if I brazenly go Qc1
+[19:43:51] banshee3333: After we take the knight d5 also becomes weak, if we take the knight
+[19:47:24] ryune: 24... Nxd4 Bxd4 Rxf4+ looked interesting
+[19:48:09] ryune: Qxg4+ here no?
+[19:48:24] ryune: qxn kxq ne3+
+[19:48:24] karasso: Nice
+[19:48:39] karasso: Find
+[19:49:25] ryune: Let's see if they find it -- there's a lot going on to distract
+[19:50:10] banshee3333: 25...Nxe3 underconsidered
+[19:50:56] ryune: Nice!
+[19:51:11] karasso: He is on fire this season
+[19:51:11] banshee3333: ooh also that was missed
+[19:54:58] karasso: Be7 was mate insead of Nxd1
+[19:55:13] qrs: Crazy
+[19:55:13] ryune: Haha, true
+[19:55:28] ryune: Understandable to get carried away taking that queen though
+[19:55:43] qrs: Didn’t see but also didn’t understand why he played Be7 afterwards
+[19:55:59] qrs: Just came back here to see rc is on a roll again
+[19:55:59] karasso: Yeah, noone expects Kg5
+[19:56:44] kayrosas: always give a check, it might be mate
+[19:56:59] karasso: That's the spirit ^^
+[19:59:15] qrs: (31. ... Ba3) still some untangling work to do but I am sure, he will get it done :)
+[19:59:31] karasso: Bd8 was easier than Ba3
+[20:00:01] karasso: Now Be7 Bxg6+ hxg6 h7...
+[20:00:31] qrs: (31 Rc7+) even Bd7 and Rc8 next hold
+[20:00:46] qrs: The rook is still there on the 8th rank for black
+[20:02:02] karasso: After Bd7 there was Rxb7
+[20:02:32] karasso: I think Nd7 was the move
+[20:02:32] kayrosas: 34.Bxg6 looked interesting maybe
+[20:03:03] qrs: White might try it now - 35 Bxg6
+[20:03:33] kayrosas: with Bf8 being a tempo move it's less potent certainly
+[20:03:48] qrs: (36 Bf8) Or not. That dsb is moving a lot
+[20:06:50] karasso: a4 was not great
+[20:07:35] ryune: At least it helps untangle the pieces
+[20:07:51] ryune: Up so much material that it makes sense practically
+[20:08:36] karasso: Yeah, maybe. Na3 to attack the bishop on b5
+[20:09:21] karasso: And if the bishop goes to e8 you play Kg8 Bg7 Kf8
+[20:09:37] ryune: Or just getting the knight to f5 to solidify everything
+[20:10:37] ryune: At least my instinct was 39... Ne3+
+[20:10:37] karasso: B6 woth Ba6
+[20:10:52] karasso: I take it back, a4 was nice
+[20:13:39] ryune: This is partly why I liked Nf5 -- stopping this move
+[20:13:54] ryune: But black still has a great (winning) pos of course
+[20:15:40] nyanners: black with the clutch moves whenever it was about to get weird
+[20:16:26] karasso: Bc8 back was also an option
+[20:21:14] banshee3333: I don't know what possessed me to go 43. Rf6 XD
+[20:21:14] banshee3333: suicidal move
+[20:25:01] nyanners: seems like a good time to let the existential dread consume you
+[20:32:05] karasso: gg
+[20:32:05] angborxley: gg
+[20:32:05] nyanners: gg
+[21:24:47] qrs: GG
