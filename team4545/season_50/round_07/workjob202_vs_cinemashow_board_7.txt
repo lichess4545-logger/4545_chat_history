@@ -1,0 +1,103 @@
+Lichess game chat log
+Game      : https://lichess.org/aKOmkGRa
+White     : workjob202
+Black     : cinemashow
+Time      : 45+45
+Captured  : 2026-11-04 22:47:51 UTC
+Game ended : 2026-11-04 21:27:41 UTC
+Messages  : 93
+────────────────────────────────────────────────────────────
+
+[20:01:51] ysgwydd: (5...h6) Hi MrSlack
+[20:12:27] masterpiece_ki: Go Cinemashow !
+[20:13:27] jfiras: (12.Bb3) MrZuSlackLip
+[20:14:28] guitarspider: (12.Bb3) go cinema
+[20:30:37] intemperate: That, I didn't see coming! lol
+[20:30:52] ysgwydd: (15.g4) Always play g4
+[20:33:39] intemperate: f4 too?
+[20:34:25] ysgwydd: (16.Rc1) Sometimes
+[20:34:55] intemperate: I would have played Rc1 instead of g4
+[20:35:56] ysgwydd: (16...Rc8) f4 instead of Rc1 didn't look that bad
+[20:36:11] intemperate: Not as bad as g4, sure! ;-)
+[20:37:27] masterpiece_ki: g4 isn't good but I don't feel it's so much bad
+[20:38:42] intemperate: Hopefully it turns out to be a genius move, for our sake!
+[20:38:42] ysgwydd: (18.f4) Why Bxc8
+[20:39:43] intemperate: Ghosts, presumably
+[20:43:15] intemperate: That move screams f5
+[20:46:47] intemperate: He could play g5 first, hx and then f5, opens up the h5 sq for the Q
+[20:53:06] intemperate: Oh no, he's thinking, was he not planning on f5 after g5? What else?
+[20:54:37] intemperate: If he doesn't play f5, he's basically given away a pawn for nothing!
+[20:55:07] intemperate: Oh bugger! when I said 'it opens up the h5 sq for the Q, I didn't mean immediately lol
+[20:55:22] ysgwydd: (20.Qh5) f5 exf5 what was your plan?
+[20:56:23] intemperate: Nx
+[20:58:09] intemperate: Then the H-file is open, the B is blocked, and The Q coming to h5 threatens the N because of the pin from the c2 B
+[20:58:54] nyanners: umm scary
+[20:59:10] nyanners: white is probably bluffing tho
+[20:59:10] intemperate: but it's too early for the Q, gotta play f5 first. I mean, I'm not sure it's winning exactly, but it's better to att than defend!
+[21:00:10] nyanners: actually you can play Nxf4 here
+[21:00:10] nyanners: i was looking at the exf4 Rf3 stuff
+[21:00:25] nyanners: i dont think that works either but the risk is high
+[21:00:40] ysgwydd: (20.Qh5) but 20.f5 Nxf5 Qxd1, no?
+[21:00:40] nyanners: *gxf4
+[21:00:56] nyanners: qxd1 nxe7 would be white's point
+[21:01:11] nyanners: so that looked like a good try
+[21:01:11] ysgwydd: (20.Qh5) e7 is protected
+[21:01:56] nyanners: umm true XD
+[21:02:11] nyanners: i suppose white is active enough for the pawn
+[21:02:57] ysgwydd: (20...gxf4) Well they have to be, otherwise it's lost
+[21:03:12] nyanners: well this one is probably lost XD
+[21:03:12] nyanners: but i like the spirit
+[21:03:42] intemperate: this looks busted to me :(
+[21:03:57] nyanners: i think you keep bluffing with Rf3
+[21:04:28] intemperate: might as well, nothing to lose at this point :D
+[21:04:58] intemperate: e5 probably stops that little idea in it's tracks?
+[21:05:28] nyanners: enables qxg6
+[21:05:43] nyanners: doesnt look trustworthy but definitely an improvement for white at that point
+[21:05:43] intemperate: and also exd4
+[21:06:14] nyanners: i think you just keep bluff calling and put a piece on h4
+[21:06:14] intemperate: yeah, maybe not the best defence though lol
+[21:06:44] nyanners: now well, its not great to put a piece on h4, but it sure at least gains you a lot of time
+[21:07:14] intemperate: well, he didn't like that plan :()
+[21:07:29] nyanners: Rd1 is too sensible. probably not a compliment
+[21:07:45] nyanners: it would be if the position was balanced :o
+[21:08:00] intemperate: Nxe6 was poss
+[21:08:15] nyanners: yeah maybe
+[21:08:30] nyanners: id be afraid its too "simplifying" in the end
+[21:08:30] intemperate: maybe that's what he is trying to set up now, with the extra discovered att on the Q
+[21:08:30] ysgwydd: (21.Rd1) Qb6 then
+[21:08:45] nyanners: yeah the problem is that Qb6 seems really good
+[21:09:00] ysgwydd: (21.Rd1) Not a problem I want cinema to win
+[21:09:15] intemperate: We need a point here, we're 0-2 down already! :(
+[21:11:17] ysgwydd: (22.exf4) Nxf4 is too bold right
+[21:11:47] intemperate: Don't see anything wrong with it
+[21:12:48] ysgwydd: (22.exf4) Looks a bit loose
+[21:13:18] intemperate: Rd8 how does W protect that N?
+[21:13:33] ysgwydd: (22.exf4) With great trouble
+[21:14:33] nyanners: its actually easy enough that id choose Rd8 over Nxf4
+[21:14:33] nyanners: i always choose Nxf4
+[21:15:04] ysgwydd: (22.exf4) The way black can lose here is a checkmate
+[21:15:19] ysgwydd: (22.exf4) Rd8 should be safe
+[21:17:20] nyanners: id think of Nxf4 as the safe move basically
+[21:17:35] nyanners: but its simple enough that winning a piece is even safer
+[21:17:50] ysgwydd: (22...Nxf4) Sure
+[21:18:06] ysgwydd: (22...Nxf4) I would just avoid moving the DSB
+[21:19:06] intemperate: Qf3 at least force the N to move
+[21:19:52] ysgwydd: (23.Qe5) Ne2+ looks good
+[21:20:37] intemperate: Qe5, now N back to g6 and it's the Q that is forced to move
+[21:20:52] intemperate: these are important tempi W is losing
+[21:21:07] ysgwydd: (23.Qe5) Ng6 Qh5 Nf4 Qe5 repetition
+[21:21:23] intemperate: I doubt Black will settle for that lol
+[21:22:08] ysgwydd: (23...Ne2+) Ne2 is nice
+[21:22:38] intemperate: hmmm....it doesn't win any material though B is 2 pawns up going into an endgame
+[21:22:38] ysgwydd: (24...Nxd4) This forces a queen trade
+[21:23:24] nyanners: never too late for more bluffs
+[21:23:54] intemperate: As long as W has the Q and a B there's always the hope of a cheapo mate lol
+[21:24:09] nyanners: as white id consider not bluffing if i had the bishops
+[21:24:09] nyanners: but yea here you dont want to trade down
+[21:25:25] intemperate: Rd8 kind of forces more trades
+[21:26:10] ysgwydd: (26...Qxd8) I like how black handled this
+[21:26:56] intemperate: Bc2, line up the cheapo mate! ;-)
+[21:27:41] ysgwydd: gg
+[21:27:56] bufferunderrun: gg
+[21:27:56] nyanners: gg
+[21:32:14] guitarspider: gg
