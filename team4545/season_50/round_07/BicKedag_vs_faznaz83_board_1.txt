@@ -1,0 +1,65 @@
+Lichess game chat log
+Game      : https://lichess.org/UkEb8W42
+White     : bickedag
+Black     : faznaz83
+Time      : 45+45
+Captured  : 2026-11-04 00:42:31 UTC
+Game ended : 2026-11-03 23:22:22 UTC
+Messages  : 55
+────────────────────────────────────────────────────────────
+
+[21:04:34] bickedag: i already forget what to do after 9... h6 but I think i castle and play Re1
+[21:07:36] bufferunderrun: let's go faznaz83!
+[21:21:44] bickedag: hard to think of concrete lines.  I was equally likely to play 14. a3 or Bf1
+[21:33:05] bickedag: at some point I might have a sac on d5
+[21:35:22] rio2018: Go faznaz!
+[21:48:44] bickedag: oh shoot i forgot his queen goes to c7
+[22:18:31] bickedag: not sure why black is thinking, I feel like 21... Rxf5 is kinda forced
+[22:22:03] bickedag: unfortunately I don't think I have anything after something like 22... Rh5 23. Bd3+ Kh8
+[22:25:50] bickedag: 23... g6 probably even stronger
+[22:28:52] bickedag: this is such bait, I don't think I have anything after 24. Bc4+ Bf7 25. Bxf7 Kxg7 26. Qf3+ Kg6
+[22:29:38] bickedag: actually Qxf7 defends the rook on h5 so he can even play that, thought I had Qg4 but that doesnt work
+[22:31:24] bickedag: maybe Bc4+ Bf7 Qg4 is a better way of obtaining that
+[22:32:24] bickedag: idk I am running out of patience I guess
+[22:34:25] bickedag: probably should have played a non-commital move like 24. Re4
+[22:35:26] intemperate: Re4 would run into Qr6?
+[22:35:26] intemperate: Qd6
+[22:36:26] intemperate: Rd5, ok maybe not lol
+[22:41:29] bickedag: funny enough I don't think I gained anything from Bc4 because he threatens to trap the rook with b6
+[22:42:15] grzybozbur: 25.r1e5 black can't take?
+[22:42:45] grzybozbur: and there are some mate threats?
+[22:43:15] grzybozbur: and rxe8
+[22:43:46] airini_h: Go faznaz!
+[22:43:46] intemperate: will he see kit though?
+[22:44:01] bickedag: man and 25. Qf3 almost feels good but black has Bg6
+[22:44:31] intemperate: he's worried about his c5 R, he may just move his B, perhaps to e6
+[22:46:47] bickedag: wait does Rexe5 work?
+[22:47:02] intemperate: ok he sees it :D
+[22:48:18] bickedag: unfortunately black just plays Qxe5 there and is still doing well
+[22:51:35] intemperate: Got anything better Bick? I'm struggling to see anything
+[22:51:35] bickedag: Qg4 isn't threatening anything but maybe he will be confused lol
+[22:52:36] kayrosas: maybe f4 was a thing
+[22:55:22] bickedag: hold on, don't I have 26. Qe6?
+[22:56:23] bickedag: he can play Bd7 but it feels like some progress was made for me
+[23:01:56] bickedag: 27... Rh6 seems like a simple solution, not sure what he is afraid of with such low time
+[23:03:11] bickedag: actually 28. Re4 looks a bit spicy
+[23:03:57] bickedag: Re3 more accurate actually
+[23:06:13] intemperate: What is Re3 threatening?
+[23:07:44] bickedag: I can win a pawn back but that ending looks pretty sad
+[23:09:45] bickedag: oh wait I guess I am not getting anything
+[23:10:00] bickedag: 29. Be6 brilliant defense
+[23:10:46] kayrosas: 32.Rxe5 is possible fwiw
+[23:13:02] bickedag: could have played 32. Rxe5 but he can safely take on a2 there I think
+[23:16:19] grzybozbur: why is the bishop on e6?
+[23:17:04] grzybozbur: well, doesn't matter much i guess
+[23:17:35] intemperate: gonna be very difficult to save this for W, but with both players low on time, blunders are very possinle
+[23:18:05] intemperate: B is going to f5 and b1
+[23:19:36] bickedag: 36... Bb1 and it's all over for me probs
+[23:22:22] bufferunderrun: gg
+[23:24:23] kayrosas: gg
+[23:24:23] bickedag: oh wow I am surprised 25. Rexe5 is working, I rejected it since black is still up material after Qxe5
+[23:25:09] bickedag: ack and 19. Rxd5 would have been a much better order of things
+[23:27:40] bickedag: wow and 17. Nf5 also worked??
+[23:28:10] bickedag: 17. Nf5 exf5 18. Nxd5 Qf7 19. Bc4 Kh8 20. e6 Nxe6 21. Nf4
+[23:32:42] bickedag: the Rexe5 thing only works for very concrete reasons... black's pieces are on the wrong squares and white has some bs way to win material
+[23:32:58] bickedag: 25. Rexe5 Nxe5 26. Rxc7 Rxc7 27. Be2 Rxc2 28. Qe3 Rh4 29. Bd1
