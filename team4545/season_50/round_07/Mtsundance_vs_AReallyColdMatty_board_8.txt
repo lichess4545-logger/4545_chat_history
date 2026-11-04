@@ -1,0 +1,110 @@
+Lichess game chat log
+Game      : https://lichess.org/fiAy7pP7
+White     : mtsundance
+Black     : areallycoldmatty
+Time      : 45+45
+Captured  : 2026-11-04 21:29:18 UTC
+Game ended : 2026-11-04 20:09:07 UTC
+Messages  : 100
+────────────────────────────────────────────────────────────
+
+[18:01:38] bufferunderrun: let's go Mtsundance!
+[18:17:02] mtsundance: thanks for coming buffer and ysg
+[18:21:04] mtsundance: oops check K get Q
+[18:21:49] mtsundance: wait no check
+[18:22:05] jfiras: (11.b3) yeah you are safe (for now) but good to spot the pattern, well done
+[18:23:51] jfiras: (12.Qb2) i think Nxf5 was better here, not sure
+[18:25:06] jfiras: (12.Qb2) oh didn't see you are hitting the rook, that might be a good spot as well
+[18:25:37] ysgwydd: (12.Qb2) Nxf5 would lose an exchange
+[18:25:37] ysgwydd: (12.Qb2) This is complicated though
+[18:25:52] jfiras: (12...Nxf1) yes you are right
+[18:26:22] ysgwydd: (13.Qxh8) Looks like it wins a piece
+[18:28:23] ysgwydd: (13...Bd3) Yeah this is saving it I think
+[18:28:53] jfiras: (13...Bd3) Qc3 i guess
+[18:29:24] ysgwydd: (13...Bd3) Qc3 Be2
+[18:29:24] jfiras: (13...Bd3) Qc2
+[18:29:39] ysgwydd: (13...Bd3) Ah right
+[18:29:54] ysgwydd: (13...Bd3) Even withour that it looks tough for black, knight is not getting out
+[18:31:25] jfiras: (14.Nd2) okay at least that's not a losing move, still i prefer white here
+[18:32:56] ysgwydd: (14...Nxd2) White could've taken on h7 first
+[18:35:12] jfiras: (15...O-O-O) then g5 might be a good move
+[18:35:12] jfiras: (15...O-O-O) okay now Qx
+[18:37:29] cinemashow: go Mtsundance!
+[18:38:14] ysgwydd: (16...Bf5) Nxf5 and then go back to h8
+[18:41:31] rio2018: Go mtsundance!
+[18:45:33] mtsundance: if heading to end game, pick off pawns?
+[18:46:19] ysgwydd: (19.Qh7) This is looking good
+[18:46:19] jfiras: (19.Qh7) can't disagree with this move but putting more pressure on f8 is an option too
+[18:46:34] jfiras: (19.Qh7) smthg like e
+[18:46:34] jfiras: (19.Qh7) e4
+[18:46:49] ysgwydd: (19...e6) Sure but this wins a pawn
+[18:47:04] ysgwydd: (19...e6) Qxf7 here I assume
+[18:52:22] ysgwydd: (21...Kb8) A pawn is a pawn. Two pawns are two pawns
+[18:54:08] jfiras: (23.Rc1) i hope white doesn't throw this away, he is playing very well.
+[18:54:23] cinemashow: get the bishops off the board and White should be good
+[18:55:54] ysgwydd: (23...Qc7) Bc3 Bf8 looks awkward for black
+[19:11:18] jfiras: (25...Be5) take and it's either more trades or more weak pawns
+[19:11:49] ysgwydd: (25...Be5) f4 is possible if you dare
+[19:12:49] jfiras: (25...Be5) i didn't like the e3 pawn being weak, like Bg7 and you can't play Bxg7 due to Qxe3
+[19:13:04] jfiras: (25...Be5) but i am sure it is possible
+[19:13:35] ysgwydd: (25...Be5) Yes Bxe5 is safest
+[19:13:50] ysgwydd: (26.Qf3) Black is not in a hurry
+[19:14:05] ysgwydd: (26.Qf3) *white
+[19:14:50] mtsundance: unsure why his Q came to e7 except trap w/R so move Q now?
+[19:15:05] ysgwydd: (26...Rf8) Qe4
+[19:19:23] jfiras: (27...Qf6) i think Be1 is kinda forced
+[19:19:38] jfiras: (28...Bxc3) oops
+[19:20:54] ysgwydd: (28...Bxc3) That's unfortunate
+[19:43:37] ysgwydd: (38.Qxg8) oops
+[19:44:08] mtsundance: did I miss a trap?
+[19:46:54] jfiras: (40.Kg2) oh wow white is back again
+[19:48:25] ysgwydd: (40...Qc2) Not so easy
+[19:49:26] jfiras: (40...Qc2) yup
+[19:49:41] ysgwydd: (41.Rh1) Qf7+ and hope for Kc6 Qd5+
+[19:50:57] cinemashow: (42.Kh2) was anything wrong with Qg4?
+[19:51:42] ysgwydd: (42...Qxf5) I don't think so
+[19:53:13] ysgwydd: (43...Kb6) Rg1-g2 should be solid
+[19:56:15] cinemashow: (45.Kh3) well done
+[19:56:45] ysgwydd: (45...Qe2) Qg4
+[19:57:00] cinemashow: (45...Qe2) yep
+[19:57:46] nyanners: this is one of the opening sequences of all time
+[19:58:01] nyanners: very cool find from white
+[19:58:01] ysgwydd: (46.Qg4) One for the books
+[19:58:31] ysgwydd: (46.Qg4) What is the cool find? Qb2?
+[19:58:31] nyanners: yeah
+[19:58:46] nyanners: strictly speaking you could try 11 g4
+[19:59:01] ysgwydd: (46.Qg4) Always play g4
+[19:59:01] nyanners: 11..Bg7 Bb2 whatever, neither side wins material
+[19:59:47] ysgwydd: (46.Qg4) 14.Qc3 Be2 Qc2 would have been nice
+[20:00:32] nyanners: ooh XD
+[20:03:49] ysgwydd: (48.Qg4) Not Qd5?
+[20:04:50] nyanners: these conversions tend to be quite easy
+[20:05:05] nyanners: maybe not this one tho
+[20:05:20] ysgwydd: (50...Bxf4) Just protect a2 annd it should be fine
+[20:05:50] nyanners: i think black's b5 is surprisingly tough
+[20:06:05] ysgwydd: (51...Be5) Fair
+[20:06:21] nyanners: at the very least black trades a bunch of pawns
+[20:06:36] nyanners: and you dont have a good way to remove black's passer
+[20:06:51] nyanners: yea i dont like immediate Ka3
+[20:07:06] nyanners: for that reason
+[20:07:06] nyanners: get the c-pawn rolling first. then you decide on Ka3
+[20:07:21] nyanners: OOOH that idea
+[20:07:21] nyanners: i missed it
+[20:07:37] ysgwydd: (53...Bb2) Can white take on b2 and win?
+[20:07:37] nyanners: it really isnt going to be easy eh
+[20:07:37] ysgwydd: (53...Bb2) after Kh5
+[20:08:07] nyanners: umm thats a counting exercise
+[20:08:07] nyanners: i dont think d5 is it
+[20:08:22] ysgwydd: (56.cxd5) Now the counting is easier
+[20:08:37] ysgwydd: (56.cxd5) White was faster still I think
+[20:08:37] nyanners: you could say that
+[20:08:52] nyanners: dont think so
+[20:08:52] ysgwydd: gg!
+[20:08:52] jfiras: gg !
+[20:09:23] nyanners: black should play with b5 to promote c
+[20:09:38] nyanners: and then they promote at the same time?
+[20:09:53] nyanners: like black is second but doesnt matter
+[20:09:53] nyanners: gg
+[20:10:08] ysgwydd: Oh I missed b5
+[20:10:53] ysgwydd: Fun only move after this: 54. Kh5 Kxa2 55. Kxh6 Kxb3 56. Rxb2+ Kxb2 57. h5
+[20:12:24] nyanners: feel i would never find that
