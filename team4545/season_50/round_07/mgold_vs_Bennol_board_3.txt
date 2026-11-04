@@ -1,0 +1,26 @@
+Lichess game chat log
+Game      : https://lichess.org/PQonXE1y
+White     : mgold
+Black     : bennol
+Time      : 45+45
+Captured  : 2026-11-04 18:09:01 UTC
+Game ended : 2026-11-04 16:48:50 UTC
+Messages  : 16
+────────────────────────────────────────────────────────────
+
+[14:31:59] mgold: (4. Nxe5) Happy Halloween!
+[14:41:04] mgold: (9. Qxb7) I think this is a decent line for me. At least it isn't one of the most hopeless (for white) anyway.
+[14:49:24] mgold: (9... N8e7) pretty sure this isn't a good move, but need to figure out why
+[14:49:24] mgold: thinking maybe 10. Nb5
+[14:50:55] mgold: 10. Nb5 Rc8 may just be fine though because my Bc4 is still hanging
+[14:56:58] mgold: maybe just 10. exd6!?
+[14:57:29] mgold: wait but in some lines I think the open e-file is a problem
+[15:03:47] tactix47: (9...N8e7) Everyone loves the Halloween gambit!
+[15:13:23] mgold: (11. d5) so after like Nxe5 dxe6 Nxc4 exf7+ I feel like that's _ok_ for me
+[15:13:54] mgold: and alt line is 11... Bd7 e6 probably
+[15:55:48] mgold: (23) so two priorities I suppose, 1. get the passed pawns rolling, 2. trade the pawns off
+[16:01:06] mgold: (24) chickened out of Bxc7
+[16:29:23] mgold: (34) well I suppose that is quite direct
+[16:46:18] mgold: (42. b4) here a clever way for black to win is 42... Ne2!
+[16:47:04] mgold: of course this works fine to
+[16:48:50] tactix47: gg
