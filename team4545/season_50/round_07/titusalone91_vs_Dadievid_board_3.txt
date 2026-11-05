@@ -1,0 +1,191 @@
+Lichess game chat log
+Game      : https://lichess.org/i63nmXuB
+White     : titusalone91
+Black     : dadievid
+Time      : 45+45
+Captured  : 2026-11-05 23:32:02 UTC
+Game ended : 2026-11-05 22:11:52 UTC
+Messages  : 181
+────────────────────────────────────────────────────────────
+
+[19:54:00] timothyha: (3.Bf4) go @Dadievid
+[19:54:00] jfiras: Good luck Dadievid !
+[19:54:15] rolihlahla: go @Dadievid!!
+[19:54:45] rolihlahla: i hate the Jobava - silly opening :-)
+[19:55:16] timothyha: (4...cxd4) I have an adult improver in my club who loves Jobava
+[19:55:46] timothyha: (5...Bg4) I keep refuting him
+[19:56:01] timothyha: (5...Bg4) Bg4 is theory?
+[19:56:01] dadievid: Does this have move numbers (first time using an extension for it)
+[19:56:46] timothyha: (5...Bg4) @Dadievid needs to refresh the browser for the plugin to work
+[19:56:46] timothyha: (5...Bg4) the page
+[19:57:02] timothyha: (5...Bg4) as for Bg4 - scores well for masters, it seems
+[19:57:02] rolihlahla: Bg4 is theory
+[19:57:02] timothyha: (5...Bg4) and 50-50 in Lichess DB as being sharp
+[19:57:32] timothyha: (5...Bg4) funny how this line is D01 - first in D
+[19:57:47] timothyha: (5...Bg4) and Veresov is forgotten, overwrriten by Rapport and Jobava
+[19:58:02] rolihlahla: i pretty sure titus has not faced this line more than once ....
+[19:58:48] timothyha: (6.Be2) that's good then
+[19:59:18] timothyha: (6...Bxe2) Na6 is easier to play later, and no bad LSB
+[19:59:48] rolihlahla: yes
+[20:00:03] timothyha: (6...Bxe2) still need to know how to deal with a Carlsbad
+[20:00:34] timothyha: (6...Bxe2) but it's like, "still needs to know how to play chess after the opening"
+[20:01:19] rolihlahla: natural is NgxB but it's not good
+[20:05:52] ttsgosadow: Let's go Dadievid!
+[20:05:52] timothyha: (6...Bxe2) okay, will drop in to follow the game on my way to work
+[20:06:52] ttsgosadow: What plugin are you guys using for move numbers?
+[20:07:08] rolihlahla: opposite side castling and fireworks possibly
+[20:07:23] jfiras: (7...a6) yeah it seems like white is going to castle long
+[20:07:53] jfiras: (7...a6) i am using the ipr one tts (!whisper from slack)
+[20:08:08] rolihlahla: Timothy and send you a link - i used to have it but have yet to reinstall it after i upgraded my Ubuntu version
+[20:08:38] ttsgosadow: I used that before and didnt work - had another addon for a while but that added so much bloat
+[20:08:54] ttsgosadow: Maybe kingside castle after all :)
+[20:09:54] rolihlahla: yes - not looking for fireworks - but fireworks is what attracts me to the Jobava :-)
+[20:09:54] dadievid: 9 out of prep now, and happy with my position. e6 to come!
+[20:10:24] jfiras: (8...Nc6) lichess tools (browser extension) offers the same thing btw, it comes with a lot of other features that you can disable all
+[20:10:55] dadievid: I got to pay attention to my e pawn being pinned
+[20:13:41] dadievid: 10. Probally equal, but surely no advantage to white. C pawn is stuck.
+[20:14:27] ttsgosadow: (9...e6) Trying the addon again :)
+[20:14:57] jfiras: (9...e6) castling long was a masters move, but yeah this is around equal i'd say
+[20:15:42] rolihlahla: how do you turn on move numbers in lichess tools?  I have that but can't seem to find the toggle button.
+[20:15:58] jfiras: (9...e6) i wonder if g6 instead of e6 was acceptable but i think e6 is the "traditional" way and i like it
+[20:17:13] ttsgosadow: (9...e6) I sent you a msg on slack, Roli
+[20:17:44] ttsgosadow: (9...e6) Pawn structure for black looks french
+[20:17:59] rolihlahla: Thanks! got it - are you on your phone? that looks different then what I see
+[20:18:14] ttsgosadow: (9...e6) no, on the site
+[20:18:29] ttsgosadow: (9...e6) on the laptop, I mean - I use Chrome
+[20:18:44] rolihlahla: i'm on chrome as well ....
+[20:18:44] dadievid: Wow, thanks for the support dear spectators!
+[20:19:00] ttsgosadow: (9...e6) /cheer
+[20:19:00] jfiras: (9...e6) have fun
+[20:20:30] dadievid: Im expecting Rad1 (move 10)
+[20:21:01] ttsgosadow: (9...e6) ..Qb6 would attack d4 and b2
+[20:21:31] rolihlahla: i sent a screen shot of my session
+[20:23:32] ttsgosadow: (9...e6) White calculating something deep?
+[20:23:47] ttsgosadow: (9...e6) Ne4 maybe?
+[20:25:03] rolihlahla: Ne4 is pretty standard here - it's what i would play for sure
+[20:25:33] ttsgosadow: (10.a3) Suprising the audience
+[20:25:33] ttsgosadow: (10.a3) Qb6 would be a move I'd consider here
+[20:25:49] dadievid: 10 .. Qb6 currently evaluating
+[20:25:49] rolihlahla: he's way behind on time and yes a3 was not expected
+[20:26:04] rolihlahla: same wave lenght
+[20:26:19] rolihlahla: length  :-)
+[20:29:21] jfiras: (10.a3) i don't get the 10.Ne4 suggestion, black have dxe4, what i am missing ?
+[20:30:21] ttsgosadow: (10.a3) take back with tempo I guess?
+[20:31:52] rolihlahla: nothing - you are correct - first Rad1
+[20:32:23] rolihlahla: but i would probably play that and lose a pawn  :-)
+[20:32:23] jfiras: (10.a3) perfect, thanks
+[20:32:38] dadievid: Best line i see after Qb6: Rfd1 Qxb2 Na5 Qb5 Qxb5 axb5 (Nc5 Bxc5 or Nc3 b4)
+[20:33:38] jfiras: (10...Qb6) i hope black castles soon
+[20:35:39] dadievid: Wait i see now I made a calculation error after Na4 Nxd4 Nxb6 Nxe2+ Kh1 I thougth that Nxf4 won, but he has Nxa8 and he wins...
+[20:35:39] dadievid: Oh he does not play it
+[20:36:10] ttsgosadow: (11.Qd3) o weird, but what is this idea then?
+[20:37:25] ttsgosadow: (11.Qd3) Qxb2, Rb1 and you lose b7 pawn
+[20:37:25] rolihlahla: (11.Qd3) now i have enabled it - thanks ttsg!!
+[20:48:02] rolihlahla: (13...Qb5) i like this move by black  - seems like a nicer endgame structure for black  if QxQ
+[20:48:17] rolihlahla: (13...Qb5) only other move seems to be Qb3
+[20:51:19] ttsgosadow: (14.Nc5) Bxc5 gets a nice e4 spot for the Knight
+[20:54:05] dadievid: Calculated: b6 Qxb5 axb5 Nb7 Ra7 Nd6 Bxd6 Bxd6 Rc8
+[20:56:07] rolihlahla: (14.Nc5) Rfc8 and this does look pretty good ...
+[20:57:07] ttsgosadow: (14...b6) this is nice as well, if Nb7, then Rb8 still works
+[20:57:53] rolihlahla: (14...b6) Ra7?
+[20:59:24] rolihlahla: (14...b6) time will start being a factor in this game soon ....
+[21:01:25] ttsgosadow: (16.Nd3) Ne4 seems nice now - if he moves the N on f3 d4 falls
+[21:02:41] ttsgosadow: (16.Nd3) Rc8 seems nice as well, claiming the half open file and eying the weak pawn
+[21:03:56] rolihlahla: (14...b6) yes ... i guess white will play Nde5 soon
+[21:04:57] rolihlahla: (16...Ra7) now double the rooks?
+[21:05:12] dadievid: 18: I will be winning a pawn if im not mistaken
+[21:05:57] rolihlahla: (17...Nxe5) yes i believe that is true
+[21:08:14] rolihlahla: (18.dxe5) Ne4 attacking b5 is a problem for black here
+[21:08:59] rolihlahla: (18.dxe5) Ne8 then Nc7 solves this
+[21:09:30] rolihlahla: (18.dxe5) then there is time to double the rooks
+[21:10:00] dadievid: Maybe not winning the pawn I see
+[21:12:32] dadievid: I think 19 Nd4 was better for white
+[21:13:32] ttsgosadow: (19.Be3) Wouldd you now give up a pawn and make an attack of your own? Say Rc7, or Rc8
+[21:14:17] qrs: (19 Be3) I d just go Ra8
+[21:15:03] qrs: (19. ... Rf8) exactly - now black will win a pawn if I see this correctly
+[21:15:03] rolihlahla: (19.Be3) he should get the a and c pawn here
+[21:15:48] qrs: Ah no
+[21:16:04] qrs: There is still Nd4 for white
+[21:16:49] qrs: Also Both sides gotta be careful about the backrank
+[21:17:50] nyanners: black played well
+[21:20:21] qrs: (22 Ba5) probably still Ra2 now, then either Nd4 Rb2 Nxb5 Bxb4 or Nd4 Nc3
+[21:21:06] ttsgosadow: (22.Ba5) N on c3 blocking the pawn, and Ra2 attacking c pawn has options for fork if R ddefends on c1
+[21:21:37] dadievid: Comparing Rc3 Nd5 Rc4 Nxb5 Bxb4 TO Ra2 Nd5 Nc3 (threatning Rb2)
+[21:21:52] qrs: Nd4 Nc3 Rb1/Re1 f6 might be the way for black
+[21:22:37] nyanners: id just play ra4
+[21:22:53] nyanners: call it bait for rb1 nc3 and the pawn still drops
+[21:24:08] dadievid: Rb2 Rc1 Rb2 c3(?/!)
+[21:24:39] qrs: Ra4 interesting
+[21:25:09] qrs: Didn’t consider it, neither does black
+[21:25:24] dadievid: Mayby Ra2 Rc1 Nc3 stopping it, that seems good
+[21:25:24] rolihlahla: (22.Ba5) Ra4 is more direct
+[21:25:24] qrs: But it’s actually wining the pawn by force in the easiest way
+[21:26:09] dadievid: Wow, my time is really slinking, my lead is gone (22: both 15 min)
+[21:28:11] qrs: (23 .. Nc3) tricky for white now, there may be Nc6 in some lines though
+[21:28:26] kyriakos1301: Let's go Titus
+[21:29:26] qrs: Maybe 24 f4 is an option
+[21:30:57] qrs: Allowing Rb2 Nc6 Bf8 Rf2
+[21:36:46] qrs: (24 ... Rb2) Ah doesn’t work. nc6 Bf8 Rf2 Rb1+ Rf1 Ne2+ Kf2 Rxf1+ Kxf1 Nxf4
+[21:39:17] ttsgosadow: Tricky position
+[21:39:32] rolihlahla: (25...Ne4)  yes
+[21:40:33] rolihlahla: (25...Ne4) Ra2 threatens mate
+[21:41:03] ttsgosadow: Was looking at that as well
+[21:43:05] dadievid: Equal, but definitly not dead endgame (28)
+[21:43:50] ttsgosadow: Time to get the king involved id guess
+[21:44:05] rolihlahla: (26...Rxb3)  yes move the K to the Q side
+[21:44:35] rolihlahla: (27...Nc3) if he allows Na2 before he plays Ne4 then do it
+[21:44:51] jfiras: (28...Na2) Na2 yes
+[21:44:51] rolihlahla: (28.Kf2) nice!
+[21:45:06] jfiras: (29.Nd4) Bx
+[21:45:21] rolihlahla: (28...Na2) i think so
+[21:46:21] nyanners: white is fine. defend c2 before taking b5
+[21:46:21] nyanners: dont think black can do anything about it
+[21:47:07] ttsgosadow: Would you take with knight or bishop?
+[21:47:37] dadievid: I think knight is not worse then biss in this endgame beause the pawns are close togthether
+[21:48:08] jfiras: (29...Bxb4) but yeah c3 and white is fine
+[21:48:08] nyanners: ummm interesting one. you can justify either choice
+[21:49:38] ttsgosadow: Na2 forces trade of pawns
+[21:50:09] rolihlahla: (29.Nd4) get the N to c4
+[21:50:09] jfiras: (32.Ke3) Nxb5 defend the pawn on c3
+[21:50:24] jfiras: (33.Nxb5) so white will get back the pawn no matter what
+[21:50:39] jfiras: (33.Nxb5) unfortunately
+[21:51:09] nyanners: i didnt really see c3 but it also works xd
+[21:52:10] dadievid: Enabling movement for my king (33)
+[21:56:12] qrs: (35 g4) maybe Nd6 followed by c4 was an option for white to steer towards a draw - is he trying for more?
+[21:56:12] jfiras: (35.g4) i'd say both sides still have some practical chances to win this
+[21:56:58] rolihlahla: (32.Ke3) i certainly could lose this  - as black or white  :-)
+[21:56:58] qrs: I d go with 36 c4 now
+[21:56:58] jfiras: (35...Kf7) absolutely lol
+[21:57:58] jfiras: (35...Kf7) c4 isn't a free pawn ?
+[21:58:13] qrs: (35 ... Kf7) c4 force trade your lonely pawn, then white has 3 connected
+[21:58:29] jfiras: (35...Kf7) never mind
+[21:58:29] jfiras: (35...Kf7) yes true
+[21:58:59] qrs: Nd6+ is really nice to have
+[22:00:00] qrs: (36 Nd4) why allow e5 with tempo here
+[22:02:16] jfiras: (38...Ne4) c4
+[22:02:16] qrs: Exactly
+[22:03:01] qrs: Nf6 ?!
+[22:03:32] qrs: Or Nc3
+[22:03:47] nyanners: "clear" draw now i guess
+[22:04:02] nyanners: structure clarifying so there are no more ideas
+[22:04:32] qrs: What about d4+ - probably a bit suicidal for black
+[22:05:33] qrs: But it may have been worth the attempt, not sure dxc4 was better
+[22:06:03] nyanners: i dont think d4 loses but i dont think you can clear the "blockade"
+[22:06:18] nyanners: the pawns are not mobile
+[22:07:49] qrs: Whaaaat
+[22:08:35] qrs: 42 ... Kg5 black aiming for h5 next and just planing to sac the knight for the last pawn?!
+[22:08:50] nyanners: whatever i guess xd
+[22:09:05] dadievid: 45 I calculated this to be a draw
+[22:09:05] qrs: Ok over
+[22:09:20] jfiras: (45.Kg5) Nxg4
+[22:09:35] jfiras: (45.Kg5) and shake hands
+[22:09:50] rolihlahla: (35...Kf7) yep
+[22:10:05] qrs: White could’ve tried 45 g5 maybe but yea
+[22:10:05] qrs: GG
+[22:11:06] qrs: Is black calculating whether to be fancy with 45 ... h5 or what are we waiting for? :)
+[22:11:51] jfiras: gg !
+[22:11:51] rolihlahla: (45.Kg5) gg to both!!
+[22:12:07] ttsgosadow: Gg well played!
+[22:12:22] ttsgosadow: Very interesting game
+[22:12:37] dadievid: Thanks for all the support!
+[22:13:37] dadievid: Wow, not all the chat is here, where can I see the other chat?
