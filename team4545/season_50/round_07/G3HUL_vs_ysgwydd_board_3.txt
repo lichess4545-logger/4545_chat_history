@@ -1,0 +1,90 @@
+Lichess game chat log
+Game      : https://lichess.org/aLr9a7lE
+White     : g3hul
+Black     : ysgwydd
+Time      : 45+45
+Captured  : 2026-11-05 14:11:31 UTC
+Game ended : 2026-11-05 12:51:20 UTC
+Messages  : 80
+────────────────────────────────────────────────────────────
+
+[11:06:18] ysgwydd: (4...Bg7) Hi b
+[11:06:33] ysgwydd: (4...Bg7) You can feel they consider Bxf7+
+[11:07:03] cinemashow: go ysgwydd!
+[11:07:18] ysgwydd: (4...Bg7) Hi cinema
+[11:07:33] baberle: embracing the tension.
+[11:08:34] ysgwydd: (5.f5) Hi faz
+[11:08:34] ysgwydd: (5.f5) This doesn't look correct
+[11:11:51] ysgwydd: (5...gxf5) Plan is Bxf7 Kxf7 Qh5?
+[11:11:51] ysgwydd: (5...gxf5) Just Kf8 and it should be safe
+[11:13:37] ysgwydd: (5...gxf5) It's at least 3 moves too early for f5
+[11:15:08] ysgwydd: (5...gxf5) Qh5 now I guess
+[11:19:40] ysgwydd: (5...gxf5) Nf3 best try?
+[11:29:01] ysgwydd: (7.Nge2) Ne5 wins a piece?
+[11:30:32] ysgwydd: (8.Bb5+) Oh
+[11:34:19] ysgwydd: (8...Bd7) I feel I'm not playing optimally
+[11:34:19] ysgwydd: (8...Bd7) Qg3 here?
+[11:35:35] bufferunderrun: let's go ysgwydd!
+[11:35:35] ysgwydd: (8...Bd7) Hi buffer
+[11:37:51] ysgwydd: (9.Qg3) Ng6 I guess
+[11:39:52] ysgwydd: (9.Qg3) This is trickier than it had to be
+[11:41:08] flipiflapi: (9.Qg3) go ygyhdgfydhfg
+[11:41:23] ysgwydd: (9.Qg3) Ng6 exf5 Be5 not sure
+[11:41:53] flipiflapi: (9.Qg3) is this grand prix something?
+[11:41:53] flipiflapi: (9.Qg3) i ahvent seen f4 in ages like this
+[11:44:40] masterpiece_ki: Go ysg!
+[11:45:56] ysgwydd: (9.Qg3) Ng4, Kf8, Ng6 are all moves
+[11:49:58] ysgwydd: (9.Qg3) Kf8 might be the "safe" move
+[11:55:32] masterpiece_ki: What about Bh6
+[11:57:33] ysgwydd: (9.Qg3) I want Ng4 to work. exf5 is a problem though
+[11:58:03] masterpiece_ki: Bh6 is bad because of d4
+[11:59:04] ysgwydd: (9.Qg3) Bh6 maybe
+[11:59:19] masterpiece_ki: But I think still can play Bf6
+[12:00:35] ysgwydd: (9.Qg3) No immediate problems with Bh6 I think
+[12:01:20] masterpiece_ki: The problem of Bh6 that after removing the dark bishop the queen can go th g7
+[12:02:06] ysgwydd: (9...Bh6) I can't afford another 20 min think
+[12:02:36] ysgwydd: (9...Bh6) Hi everyone
+[12:02:36] masterpiece_ki: Or maybe he can cover it with knight
+[12:03:52] ysgwydd: (9...Bh6) I should have a 17:51 long think next turn to try for an award
+[12:04:52] ysgwydd: (9...Bh6) Bh6 is a move a beginner would make. Moving the attacked piece
+[12:07:09] ysgwydd: (9...Bh6) I wonder if d4 is good here
+[12:07:24] ysgwydd: (10.d4) Well
+[12:07:39] intemperate: de looked an obvious reply tbh
+[12:07:39] intemperate: d4
+[12:10:56] intemperate: B has to take on c1, then Ng6 e5 dx ex Bxb5 Nxb5 Qa5+ Nbc3
+[12:10:56] intemperate: ok scrub that lol
+[12:11:26] bufferunderrun: I kind of thought there would be issues on g7 after Bh6. Kf8 did look better.
+[12:12:12] intemperate: I think there will be issues on g7. Obv target for the Q
+[12:12:12] ysgwydd: (11.Bxh6) dxc3 Qg7!? Ng6!?
+[12:13:12] intemperate: yeah, should have taken on d4 first I think
+[12:13:12] bufferunderrun: dxc3 just Bg7
+[12:13:58] bufferunderrun: I mean after Bxd7+
+[12:13:58] ysgwydd: (11.Bxh6) dxc3 Bg7 should not work but I'm not sure
+[12:16:14] masterpiece_ki: Still move 11 and the time almost finished
+[12:17:15] intemperate: Yeah, crazy! just as well they don't have a TC to meet lol
+[12:17:30] ysgwydd: (11.Bxh6) Nxh6 Qg7 bxc3
+[12:18:00] ysgwydd: (11.Bxh6) Nxh6 Qg7 Rg8 Qxh6 dxc3
+[12:18:30] bufferunderrun: I wonder if 11...Bxb5 is possible.
+[12:19:46] bufferunderrun: probably not, then I guess Qg7 works
+[12:20:16] ysgwydd: (11...Nxh6) This is what you get by playing the tempting Ne5 without checking for zwischenzugs
+[12:26:05] ysgwydd: (12...Rg8) I think I have to start with Rg8
+[12:35:10] ysgwydd: (14...Nf6) Qxf5 exists
+[12:37:27] flipiflapi: (15.Qxf5) bxb and nc4?
+[12:38:42] ysgwydd: (15...Bxb5) Might be in trouble here
+[12:43:00] bufferunderrun: Might indeed
+[12:43:15] intemperate: Nxd6!
+[12:43:15] bufferunderrun: yeap
+[12:43:30] bufferunderrun: f6 hangs
+[12:46:02] intemperate: If he plays Rd8 Nd5 is mate or losing the Q
+[12:46:17] intemperate: ?
+[12:48:18] intemperate: Nd5!!
+[12:49:04] bufferunderrun: it was probably lost regardless of the move
+[12:49:34] ysgwydd: (19...Rd8) Rd8 is not a good try
+[12:49:49] intemperate: What??
+[12:50:19] intemperate: What did I miss? What was wrong with Nd5
+[12:50:35] bufferunderrun: doesn't matter, e5 hangs, h-pawn will promote
+[12:51:05] masterpiece_ki: Yeah, still winning
+[12:51:20] flipiflapi: gg
+[12:51:20] masterpiece_ki: Gg
+[12:51:20] bufferunderrun: gg
+[12:51:50] cinemashow: gg
