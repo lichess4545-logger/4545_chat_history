@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/LsyKcVUS
+White     : checkmate_insurance
+Black     : micomps
+Time      : 45+45
+Captured  : 2026-11-05 23:46:17 UTC
+Game ended : 2026-11-05 22:26:07 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[20:35:17] feet_barbie: (10.Nd5) go both
+[20:35:32] feet_barbie: (11.Bd3) nice a svesh
+[20:35:32] feet_barbie: (11.Bd3) finally
+[20:35:47] checkmate_insurance: not sure if i should play what i usually do or deviate slightly
+[20:36:02] checkmate_insurance: i didn't really have much time to prep since i woke up 15 minutes before we started
+[20:36:32] micomps: (11.Bd3) so, not quite the typical Sveshnikov position, but I like it when gxf6 is forced. Makes it spicy
+[20:37:03] micomps: Be6 somewhat forced here I think, f4 is pants
+[20:37:18] checkmate_insurance: normally i avoid the more mainline variations with sacking on b5 since i personally don't love the compensation
+[20:39:34] feet_barbie: (12.O-O) white chose to fight nice
+[20:39:34] feet_barbie: (12.O-O) finally someone not scared of open sicilians xd
+[20:40:35] micomps: (13.Qh5) white playing very quickly here
+[20:41:05] micomps: nothing to be alarmed by
+[20:41:51] micomps: I do wonder if this is the point to consider f4, lock down the d3 bishop for the time being
+[20:42:21] micomps: can't castle because of exf5, then h7 looks super loose. Some lines have ...h6 as a move to kibosh that idea
+[20:42:36] micomps: so probably a straight choice between h6 and f4
+[20:49:55] micomps: (13...h6) something about f4 just felt a bit...off
+[20:50:26] micomps: I was also not sure how I'd respond to 14.g3 which sounds like an odd move, but I didn't like the idea of facing it
+[20:50:56] feet_barbie: (13...h6) f4 seems to be the mainline
+[20:51:41] checkmate_insurance: h6 definitely isn't in my prep not sure if it's so bad but i feel like there could be some ideas on b5
+[21:06:36] micomps: well, we've both slowed down a bit here
+[21:07:06] micomps: I'm not quite sure what white will play - maybe c3 or c4, or swing a rook into the centre
+[21:15:41] feet_barbie: (14.c4) fun game ahead
+[21:31:20] micomps: (16.Ndb6) I am looking at fxe here. Didn't think of this before as thought white would maybe go back to e3 with the knight to attach f5
+[21:31:51] micomps: not sure if this works, but a pawn and bishop for my rook, and the knights being tied down to defending each other...
+[21:32:06] micomps: might be ok, but need to look for any alternatives, or if this even works
+[21:34:07] micomps: if Bxe4, then Rb8 is fine, likely end up two minor pieces for a rook
+[21:34:37] micomps: if Nxa8, then exd3...not sure where I'm going next but that looks playable
+[21:40:41] micomps: (17.Bxe4) oh oh, I missed white can play Nd5 in reply to Rb8.....hmm. How does that look?
+[21:41:56] micomps: probably not too bad, I can just castle. And I don't think the rook is better placed on a7
+[21:42:12] micomps: and I am quite sure there is no value in playing d5 here
+[21:43:27] giziti: (18.Nd5) seems good for white?
+[21:44:28] feet_barbie: (18.Nd5) no idea ahah
+[21:45:13] feet_barbie: (18.Nd5) black has a nice knight and bishops white has weird coordination
+[21:45:28] feet_barbie: (18.Nd5) but alas this position is concrete so idk
+[21:45:28] feet_barbie: (18.Nd5) someone calculate
+[21:46:14] feet_barbie: (18...Rb5) ok black seems to be winning an exchange or smth
+[21:46:29] feet_barbie: (18...Rb5) ahha
+[21:46:59] feet_barbie: (18...Rb5) maybe just the b2 pawn
+[21:47:30] feet_barbie: (18...Rb5) but ok black must be betterr
+[21:50:01] giziti: (19.Nce3) yeah it seems like either i was wrong earlier or white made a subtle mistake in the last couple moves (probably the latteR)
+[21:51:47] micomps: (19.Nce3) so I'm now thinking castle and throw f5 forwards
+[21:52:17] micomps: it looks a bit scary, castling kingside here, but I don't see how white can attack before me
+[21:55:04] giziti: (20.g4) g4, what a move.
+[21:55:49] micomps: (20.g4) well, that's annoying
+[21:56:20] namegoesinhere: (20.g4) does Ne2-f4 work here?
+[21:56:50] micomps: but....I can now play Ne2+, or Rxb2
+[21:59:07] micomps: Ne2, Kh1 and I initially thought Bxd5 but that runs into a problem, Nf4 doesn't work in the end
+[21:59:37] micomps: Ne2, Kh1 Bxd5, Nxd5 Rxd5, Qf5! and I am smoked. Wonder if Rxd5 works first instead
+[22:01:08] micomps: Ne2, Kh1 Rxd5...if Bxd5 then Nf4
+[22:01:23] micomps: Ne2, Kh1 Rxd5...if Nxd5 then chop chop and then Nf4
+[22:01:23] micomps: I think
+[22:01:53] micomps: I think Rxd5 works after Ne2+, or at least I am talking myself into it
+[22:08:12] giziti: (24.Qf5) I was wondering about Bxf7+ intermezzo but I don't know if you want to open up that file just to get a pawn back
+[22:08:27] giziti: (24.Qf5) oh wait you're trapped there
+[22:11:29] inter-temporal: (25...Nf4) whoa. mate-insurance is a serious underdog. i know what that's like. lol
+[22:13:30] inter-temporal: (26...Qb6) quite an amazing tactic after 20.g4
+[22:14:15] inter-temporal: (27.Rd2) these dudes know how the Ns move. i'm still learning...
+[22:16:01] giziti: (28.Qf3) yeah there's defintiely some horsey moving going on
+[22:16:16] inter-temporal: (28.Qf3) it didn't matter how white recaptured. that's amazing
+[22:18:48] inter-temporal: (29.Rc1) reminds me. i need to go work on my tactics... or manybe N endgames. smth
+[22:19:18] inter-temporal: (29.Rc1) both!
+[22:25:07] giziti: (33.Rcc2) Ne1 Nf3?
+[22:25:37] checkmate_insurance: i did not see that
+[22:26:07] goldenretrieverchess: gg
+[22:29:39] micomps: Turns out Rb5 was a huge blunder. That's surprising
+[22:36:57] feet_barbie: i m also surprised
