@@ -1,0 +1,29 @@
+Lichess game chat log
+Game      : https://lichess.org/fX1aobQq
+White     : spacebaristaken
+Black     : abourg84
+Time      : 45+45
+Captured  : 2026-11-05 02:02:53 UTC
+Game ended : 2026-11-05 00:42:45 UTC
+Messages  : 19
+────────────────────────────────────────────────────────────
+
+[00:04:08] spacebaristaken: (13) I'm out of book now. I only studied Na6 and Bb7. Didn't quite make it to Nd7. My opponent's definitely out of book though too, ...
+[00:04:08] spacebaristaken: ...12. Be3 had him think for a second.
+[00:04:54] abourg84: outta prep after ...Bxf6. I think I need to play b4 at some point soon if I can
+[00:06:09] spacebaristaken: (13) candiate moves are g2 with plans to fiancetto, a4 (which is what I would play against Na6, and Ne4.
+[00:08:41] spacebaristaken: when checking my opponent's games, I couldn't find a single game where my opponent entered the mainline of the Bortvynck variation, ...
+[00:08:41] spacebaristaken: ...all of his opponents would play either exf6 immediately or Bg3 after g5.
+[00:10:42] abourg84: ok. after 13. a4 I can play a6. if axb5 then cxb5 and I think I like that pawn structure
+[00:11:27] abourg84: then there's that
+[00:15:14] abourg84: missed that white can take c4 now too
+[00:32:24] spacebaristaken: (19) danger I played Bxc4 and calculated everything but the immediate Qb4+
+[00:33:55] spacebaristaken: I think it's still fine, but it's just not something I saw and I don't like it.
+[00:36:56] spacebaristaken: (21) is Bg5 or O-O with the plan to play Rc1 and Re8 more clinical?
+[00:37:42] spacebaristaken: Bg5 forces the queen trade I think I don't see how else white can stop mate. and then I'll be a full rook and two pawns up with an ...
+[00:37:42] spacebaristaken: ...easy conversion.
+[00:39:13] spacebaristaken: I guess he could play Qxd4 after Bg5 and get another pawn back. But maybe there is Rd1 there but then Q5+ check and Be3 or he gets my ...
+[00:39:13] spacebaristaken: ...bishop, I'm still threatening mate though I think idk I can't think.
+[00:40:59] spacebaristaken: alright once more Bg5 Qxd4 Rd1 Qe5+ Be3 and I'm threatening mate, but he has Qa5 there defending.
+[00:41:59] spacebaristaken: I think I might just go for the queen trade and say I don't need the highest possible accuracy according to Stockfish.
+[00:43:00] metalpawn: gg
