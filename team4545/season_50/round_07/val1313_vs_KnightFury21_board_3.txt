@@ -1,0 +1,269 @@
+Lichess game chat log
+Game      : https://lichess.org/nXyOs4MV
+White     : val1313
+Black     : knightfury21
+Time      : 45+45
+Captured  : 2026-11-05 23:48:14 UTC
+Game ended : 2026-11-05 22:28:04 UTC
+Messages  : 259
+────────────────────────────────────────────────────────────
+
+[20:05:39] feet_barbie: Go val
+[20:05:54] knightfury21: Oh no enemy spectators are here
+[20:07:25] knightfury21: QGD without Bg5/Bf4 is interesting
+[20:09:57] prostidude: Go go KnighFury!!!
+[20:10:57] knightfury21: I've been outprepped, don't know this system
+[20:11:27] knightfury21: It's like White is playing a Meran but I haven't played ...c6 yet
+[20:12:43] knightfury21: Issue is ...c5 dxc5 Bxc5 b5 stuff so maybe I start with ...a5?
+[20:15:30] feet_barbie: I mean these are just normal moves ahah
+[20:18:01] knightfury21: val is thinking so ...a5 probably not theory, hopefully not that bad though
+[20:20:18] knightfury21: ...b6 Qc2 bxc5 dxc5 Bxc5 Nxd5 Qxd5 doesn't work for white
+[20:21:18] knightfury21: What's the plan if I just play ...b6 here? Feels like the pawn is overextended
+[20:23:04] knightfury21: cxb6 cxb6 and we have a weird exchange slav where both of our c-bishops are stuck behind pawns
+[20:24:05] knightfury21: But I have more queenside space and have Ba6 to trade mine off
+[20:29:08] knightfury21: I want a tempo on white's lsb before playing Ba6 but what's my waiting move
+[20:30:09] knightfury21: I know the knight normally comes to c6 in the exchange slav but I think I need it on d7 to guard against Qb3-Na4 stuff
+[20:32:10] knightfury21: Bb5 Ba6 Bc6 Rc8 is fine
+[20:33:10] knightfury21: Tbh white has a lot more useful waiting moves than I do so I may need to play Ba6 without the lsb tempo
+[20:36:43] knightfury21: I think I can afford Ba6, I lose tempi getting the rook back into the game but white still has to castle
+[20:39:59] feet_barbie: (10...Ba6) bb5 collinear move
+[20:40:45] feet_barbie: (11.Nb5) ok maybe just take xd
+[20:40:45] feet_barbie: (11.Nb5) puts the rook on the awka a6 can be hit by qd3 or smth
+[20:41:15] feet_barbie: (11.Nb5) mmh ok this could lose some tempi
+[20:41:30] zorakforpresident: I didn't really like Ba6 but I also don't line Nb5 either.
+[20:42:01] feet_barbie: (11.Nb5) yeah nb5 self pins for a while
+[20:43:17] knightfury21: Rc8 Bd3 is annoying preventing Ne4
+[20:45:18] zorakforpresident: What's wrong wtih Ne4 first?
+[20:45:18] knightfury21: Ne4 Nc7 Bxf1 Nxa8 Bxg2 Rg1 Bxf3 Qxf3 Qxa8 Rc7 Qd8
+[20:46:33] knightfury21: Scary on the kingside but I'd be up material
+[20:47:49] zorakforpresident: lol.  i am so bad.  i am always saying "what's wrong with Ne4" or "I don't like Nb5."  And then people throw out 11-ply lines.
+[20:48:35] zorakforpresident: my lines are 3 or 5 at best.
+[20:49:05] zorakforpresident: Still, I kind of like Ne4.
+[20:49:20] knightfury21: Ne4 Bd3 Ndf6 Bxe4 Nxe4 Nc7 Ra7 also a line just trading the f1-bishop first
+[20:49:35] val1313: (11.Nb5) hi All ! so I am gonna pretend that 5e3 is a brilliant novelty and not a stupid blunder due to me being on the phone
+[20:49:50] feet_barbie: (11.Nb5) omg ahaha
+[20:50:06] feet_barbie: (11.Nb5) phone doesnt have move confirmation?
+[20:50:06] val1313: (11.Nb5) my dsb is so happy on d2. King of the board
+[20:50:06] knightfury21: But probably Qc2 Bc4 is fine for me there and Nxa6 Rxa6 is okay as well
+[20:50:21] feet_barbie: (11.Nb5) kf: damn i m outprepped
+[20:50:21] feet_barbie: (11.Nb5) val:
+[20:51:06] prostidude: This is a chat for the ages
+[20:51:37] knightfury21: Ne4 Bd3 Ndf6 Ne5 might be an issue though since my queenside light squares are weak
+[20:53:07] knightfury21: Ne4 Bd3 Bxb5 Bxb5 Rc8
+[20:53:38] zorakforpresident: I also like anything that arrives at Rc8.
+[20:53:53] knightfury21: White will lose the bishop pair eventually but I give up the queenside light squares permanently
+[20:54:38] prostidude: KnightFury is using all of the time that was generously provided at the start of the game
+[20:54:53] prostidude: Good choice
+[20:54:53] prostidude: No use leaving it untulouched
+[20:55:24] knightfury21: Actually wait Rc8 Bd3 Ne4 anyway, the bishop is tied down to defending the knight
+[20:55:54] knightfury21: Wasted all that time for nothing
+[20:56:09] prostidude: Dude!
+[20:56:24] zorakforpresident: Sort of liked Ne4 first.  But contesting the c-file seems mandatory.
+[20:56:24] prostidude: I just defended your time use
+[20:57:55] knightfury21: Qa4-b4 could be a future idea for white I should watch out for
+[20:59:41] handknit: hello this opening
+[21:00:12] knightfury21: I guess that's why Ne4 is important, I can trade on d2 and b5 on demand
+[21:00:57] handknit: i think Ne4 is usually more important when the white B is on f4
+[21:00:57] handknit: Then you really want to be able to stick a minor on d6 to block control of c7
+[21:01:12] feet_barbie: (11...rc8) cos you get g5
+[21:01:12] handknit: Here, e4 is just a kind of nice place for the N (until it isn't)
+[21:01:43] handknit: attacking kingside is usually something white is doing rather than black
+[21:01:43] knightfury21: Not sure about eval, it feels alright for me if I can get some control on the queenside
+[21:01:43] handknit: though the B is pretty wack on d2
+[21:02:28] handknit: the thing about the B being on d2 is that while the N looks neat on b5 it isn't really doing anything
+[21:02:58] knightfury21: Exchange Slav though so probably zeros all the way to the end and the most boring draw of the round
+[21:02:58] handknit: not going to d6, not going to c7. Black can also stick the Q on b8.
+[21:05:15] handknit: as white I would probably be thinking something like Bd3, maybe trade rooks to facilitate Qb1, and some kind of g4
+[21:06:00] handknit: your advantage as white, such that you have one, is that black's b6-a5 structure undermines his queenside counterplay
+[21:06:15] knightfury21: Ne5 Nxe5 dxe5 Ne4 f3 Nxd7 Qxd7 Rxc8 Qxc8 Nd6 looks alright
+[21:06:46] handknit: imo white should not be playing Ne5 any time soon because black's N on d7 has no squares
+[21:07:01] handknit: don't let him trade it off
+[21:07:01] knightfury21: I trade on d6, allow the trade on a6 and round up the d6-pawn
+[21:08:02] zorakforpresident: Indeed, Black's d7 knight is sad panda.
+[21:08:47] zorakforpresident: There's quite a few ways to go Ne4 and then Ndf6.
+[21:09:02] zorakforpresident: Depending what White does next.
+[21:10:03] handknit: I feel like white wants to meet that idea by just waiting until Nd6 then playing a4 to maintain the bind
+[21:10:18] handknit: I don't think you care about giving up the b4 square, since you kinda wanna trade your d2 bishop anyway
+[21:13:50] knightfury21: Is the immediate b4 a thing?
+[21:14:20] handknit: white has a B on f1 and a K on e1. He should not be thinking about b4 at all
+[21:14:51] zorakforpresident: Well...I would think the immediate thing is QxR.  Think the rest on oppo time.
+[21:15:06] knightfury21: Qxc8 Na7 Qb7 Bxa6 Qxa6 Nc6 Bd6 is okay
+[21:15:51] zorakforpresident: If I've learned anything in this league, it's that everyone else thinks in lines that are 7,9,11 ply deep.
+[21:16:37] feet_barbie: (13.Na7) interesting maneuver
+[21:16:52] knightfury21: What am I missing? Maybe either knight to Ne5 in the end is the idea
+[21:17:52] zorakforpresident: Qb7, knight goes back.  Why do that?
+[21:18:08] val1313: (13.Na7) wow completely miscalutate that
+[21:19:08] val1313: (14.Nb5) I thought I had nC6
+[21:19:23] val1313: (14.Nc6) but there is B5
+[21:21:25] knightfury21: Okay I don't get this move, White has allowed me control of the queenside while not solving their development issues
+[21:22:10] zorakforpresident: Actually, I didn't sufficiently consider Nc6 there.  It just happens  not to work.
+[21:23:56] knightfury21: I have no targets in White's position though
+[21:27:28] knightfury21: Might be slightly better for me but probably nothing serious
+[21:27:44] zorakforpresident: Can't be bad to control the c-file.   Maybe Nd6 later.
+[21:29:14] nyanners: e3 a3 c5.. this is one strange homebrew. i appreciate the spirit :D
+[21:29:14] knightfury21: Interesting, White maybe looking at knight discoveries but I don't think Nd6 works
+[21:30:30] nyanners: bxb5 into rc2 was interesting
+[21:31:01] zorakforpresident: I was thinking BxN opens c2 for rook.  Too late now.
+[21:31:31] knightfury21: Didn't really want to trade that bishop but this prevents Rc1 for now
+[21:34:17] zorakforpresident: Now Ne4 seems good again for Black, but White can also do Ne5.
+[21:38:05] feet_barbie: What a unique game
+[21:38:20] zorakforpresident: Only move 19 too.
+[21:43:23] feet_barbie: (20...Qxc8) i hope prosti game be more exciting
+[21:43:53] flipiflapi: Go val! Kick'em in the nuts assuming thet have such!
+[21:44:54] flipiflapi: Oh it's fury!
+[21:44:54] flipiflapi: Hi fury!
+[21:45:09] flipiflapi: Sorry about your nuts XD
+[21:45:39] knightfury21: Nd6 looks good but Nc3 is a solution for white
+[21:47:25] knightfury21: Oh my queen is on c8, Nd6 doesn't work the way I want
+[21:48:11] knightfury21: Qc6 Na7 Qb7 Nb5 and we repeat is the issue
+[21:49:42] ameyer: Doesn't Nd6 just drop a piece
+[21:49:57] knightfury21: Can't see anything better, we're trading pieces I guess
+[21:50:12] ameyer: wait no
+[21:51:13] knightfury21: Would be cool if my queen wasn't on c8 and the b5-knight was kinda pinned Nc3 Nc4 stuff
+[21:52:59] knightfury21: I guess Qc2 is annoying
+[21:53:59] knightfury21: Qc4 Qx dx Nd2 b5 is okay
+[21:54:45] knightfury21: b5 now also a move
+[21:55:15] zorakforpresident: Qb5 looks like a win for Black?
+[21:55:30] zorakforpresident: Just kidding.  Looks pretty drawey now.
+[21:56:00] knightfury21: Oh no at the end of this line, a4 is an issue
+[21:56:15] knightfury21: Wait but Bb4 hitting the knight saves me
+[21:57:16] ameyer: Wow I'm bad at this game. I have no idea what he's talking about
+[21:57:16] ameyer: There's a pawn on a3?
+[21:59:17] zorakforpresident: Hmm.  I thought White would not want to trade.  Guess I was wrong.  But now b5 surely?   Take the yumminess out of a4.
+[22:00:18] knightfury21: This is actually not great for me
+[22:00:33] ameyer: why did val play Kf1 instead of a4?
+[22:00:48] zorakforpresident: a4 was definitely it, imo.
+[22:00:48] knightfury21: Can't run in with the king because of Ng5 so ...a6 is required
+[22:00:48] ameyer: B7s here thinking alike
+[22:01:18] zorakforpresident: yes.  take notes.  the b7s agree.
+[22:01:34] flipiflapi: Presidential comment no less
+[22:01:34] knightfury21: Meanwhile White is just going for Ke2-Nd2-a4 with the same idea as earlier
+[22:02:34] knightfury21: I don't want the b5-a4 structure so maybe I need to go for b5-b4
+[22:02:34] zorakforpresident: but in fact now, b5 is good.  and maybe push it further later.  cuz it then supports pushing the c-pawn too.
+[22:02:34] ameyer: I would be thinking c3 bc3 Bxa3
+[22:03:05] knightfury21: I surely lose the pawn in the end though
+[22:03:35] flipiflapi: Black can't defend everything so 2v3 pawns might end up 2v3 pawns lost.
+[22:03:35] zorakforpresident: yeah, c3 has yumminess too.  maybe more yumminess.
+[22:03:35] flipiflapi: If all the pushing happens.
+[22:03:50] zorakforpresident: dang guys!  clock
+[22:04:20] zorakforpresident: i feel like that was not it.  a4 again now.
+[22:04:20] zorakforpresident: he even said in his notes he was afraid of a4.
+[22:04:35] flipiflapi: A4 after nd2 is nice as well. Attacks many things.
+[22:04:50] knightfury21: Ke2 b5 Nd2 c3 bxc3 Bxa3 is the plan, the b5-pawn stops Nc4 in the end
+[22:05:21] flipiflapi: Nvm the.
+[22:05:36] knightfury21: Yeah I thought this was a thing but now just Bb4?
+[22:06:21] flipiflapi: Ne5?
+[22:06:52] ameyer: or Ke2 then Nd2?
+[22:07:07] ameyer: trade on d2 favors white?
+[22:07:07] knightfury21: Oh I'm blind
+[22:07:07] flipiflapi: Fork. Loose pawn. Pushing it losses it.
+[22:07:22] flipiflapi: No trade.
+[22:07:22] flipiflapi: Win win
+[22:07:22] zorakforpresident: i think White is winning now.
+[22:07:37] flipiflapi: Or win a pawn at least.
+[22:07:37] flipiflapi: Maybe still a draw coz it's chess but meh
+[22:07:52] flipiflapi: What you gonna do.
+[22:08:07] knightfury21: Nd7 in the end
+[22:08:07] ameyer: oh I see. Nd7
+[22:08:07] flipiflapi: Or nxc4
+[22:08:23] flipiflapi: Or axb
+[22:08:23] zorakforpresident: it's just hard for black to defend b6.
+[22:08:38] zorakforpresident: or, impossible, now.
+[22:08:53] flipiflapi: So up a pawn. Time to draw.
+[22:09:23] ameyer: Nc4, Ke2, Kd3?
+[22:09:38] flipiflapi: King up I think
+[22:09:53] knightfury21: Let's call that a late gambit and try to save this
+[22:09:53] ameyer: But then white can go pick off the other pawns?
+[22:10:09] flipiflapi: King needs to go up first.
+[22:10:09] flipiflapi: Avoid black king coming in
+[22:10:09] handknit: Not clear to me black doesn’t win this
+[22:10:39] zorakforpresident: rly?  good to hear.
+[22:10:39] zorakforpresident: i mean...get to the a4 pawn i guess?
+[22:10:54] handknit: I guess white can repeat
+[22:11:09] handknit: Kc6 Nc4 Kd5
+[22:11:39] flipiflapi: Kd3 first no?
+[22:12:10] handknit: Okay now white is winning
+[22:14:11] handknit: After e4 the key task for white is to bring the K to c4
+[22:14:26] handknit: Not hard but takes some finesse
+[22:14:41] kayrosas: now rather simple :o
+[22:14:56] ameyer: d5 or de?
+[22:14:56] handknit: Yeah Nc4 is ballgame
+[22:15:12] ameyer: oh
+[22:15:27] flipiflapi: Free pawn
+[22:15:27] ameyer: well, forget the knight. do you go d5 or de here?
+[22:15:42] flipiflapi: Fork
+[22:15:42] ameyer: ok fine you can't forget the knight
+[22:15:57] kayrosas: if we forget it not sure actually
+[22:16:12] kayrosas: d5 would feel more principled, but closes some avenues
+[22:16:12] ameyer: I guess if K were on c4 so d5 wouldn't hang
+[22:16:27] knightfury21: What am I doing? Probably resignable now
+[22:16:43] feet_barbie: (35.Nc4+) wait how is val doing well
+[22:17:43] feet_barbie: (35...Kd5) i logged off after 26...c3
+[22:17:58] flipiflapi: Fairweather supported feet!
+[22:18:29] feet_barbie: (36.Nxe5) never give up check my lonewolf game of today
+[22:18:29] feet_barbie: (36.Nxe5) ahaha
+[22:19:14] ameyer: h3? e4?
+[22:19:29] flipiflapi: Oh you did lw today too?
+[22:19:29] flipiflapi: Busy busy
+[22:19:59] flipiflapi: Surely just e4
+[22:20:45] zorakforpresident: that's one approach.  i am hoping for Nxg6 personally.
+[22:21:15] flipiflapi: That's another approach I guess
+[22:21:30] zorakforpresident: it favors my side.
+[22:22:46] flipiflapi: That it did
+[22:24:02] flipiflapi: Nf3
+[22:24:02] flipiflapi: Get pawns rolling
+[22:24:32] flipiflapi: I liked focusing on the middle more
+[22:25:18] flipiflapi: Kc4. Back It up and go again with nf3
+[22:27:19] ameyer: gg
+[22:27:34] flipiflapi: Gg
+[22:28:19] zorakforpresident: gg val.  sorry knightfury.
+[22:28:19] knightfury21: Good game val
+[22:28:35] jfiras: gg !
+[22:28:50] val1313: thx
+[22:28:50] val1313: you too
+[22:29:35] knightfury21: Thought things looked pretty good for me but just fell apart in the endgame
+[22:29:50] val1313: yeah
+[22:30:05] val1313: I went for a clever manoeuver
+[22:30:05] val1313: which completely didn't work
+[22:30:20] val1313: thankfully I realised it before it was too late
+[22:31:06] val1313: my fancy idea was 14 NC6 forcing you to take the Knight
+[22:31:06] val1313: and taking your LSB
+[22:31:21] val1313: I missed that you just had B5 to win the B
+[22:31:36] val1313: after that I have nothing
+[22:31:36] val1313: but still somewhat solid
+[22:32:21] knightfury21: Oh yeah I see
+[22:32:21] val1313: wow QC4 is just loosing
+[22:32:21] val1313: at the end
+[22:32:21] val1313: crazy
+[22:32:36] val1313: I thought it was still drawish
+[22:32:52] knightfury21: I actually was thinking about 14.Bxa6 Qx Nc6 Bd6 Ne5 as an option for you
+[22:33:07] val1313: yeah
+[22:33:22] val1313: but my whole idea was to keep my lsb
+[22:33:37] knightfury21: That's crazy, I really thought the BvN endgame was good for me
+[22:34:07] val1313: the fact that ke1 is straight up back to a draw is hilarious
+[22:34:07] knightfury21: Qside majority and maybe a passer but your king is just close enough
+[22:34:22] val1313: A4 is important to block you
+[22:34:53] knightfury21: Yeah I needed b5 first
+[22:35:08] val1313: indeed
+[22:35:08] feet_barbie: gg
+[22:36:38] val1313: turns out 5e3 is a move
+[22:37:24] knightfury21: I didn't really understand the opening
+[22:37:39] feet_barbie: i mean ofc its a move is it like a colle stuff or
+[22:38:24] knightfury21: But I couldn't see why the c1-bishop behind the pawns was helpful
+[22:38:24] val1313: I plainly played e3 because I was on the phone and forgot to move the DSB
+[22:38:39] feet_barbie: val prep was so good he surprised both
+[22:38:39] knightfury21: Like I figured it's not a mistake but couldn't see the point
+[22:38:39] val1313: I have this huge case I am working on
+[22:38:39] knightfury21: Lol
+[22:39:10] val1313: I really thought it was a mistake
+[22:39:25] knightfury21: I was meant to start working 40 minutes ago, just watching emails roll in
+[22:39:25] val1313: and I pictured the whole chat laghing at me
+[22:40:10] knightfury21: Nah I don't think it's terrible, just a bit weird
+[22:40:25] knightfury21: I thought that in the endgame where I was dropping pawns left and right
+[22:40:25] val1313: yeah
+[22:40:40] val1313: :)
+[22:40:40] val1313: I've been there
+[22:40:40] knightfury21: My ego cannot handle scrolling up
+[22:43:12] knightfury21: Some pretty strong players have played 5.e3
+[22:44:27] knightfury21: Just following the top move, it looks like a qga type position
+[22:47:59] knightfury21: Anyway I gotta start working, thanks for the game and gl for the last round
