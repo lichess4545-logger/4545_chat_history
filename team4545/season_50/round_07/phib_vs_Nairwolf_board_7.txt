@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/qYvkZOSg
+White     : phib
+Black     : nairwolf
+Time      : 45+45
+Captured  : 2026-11-05 22:57:46 UTC
+Game ended : 2026-11-05 21:37:35 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[20:11:29] nairwolf: hi Joonaf
+[20:11:29] joonaf: go nairwolf!
+[20:11:45] nairwolf: I'm playing from my computer tonight, and not from a chessboard
+[20:12:00] nairwolf: we'll see if it's better for me
+[20:14:31] nairwolf: my opponent hasn't played what I was expecting
+[20:15:02] nairwolf: after 3..exd4, white has played a lot of 4.c3
+[20:15:02] nairwolf: which is the göring gambit, or something like that
+[20:15:32] tactix47: (6.Bb5) Go nairwolf!
+[20:17:18] nairwolf: argh, it's hard to calculate
+[20:17:33] nairwolf: 6.Bb5 is obviously not a good move. I think, 99% of moves played here is Nxc6
+[20:17:48] nairwolf: so what if Bxc3 bxc3 Nxe4, but then, what if I'm pinned with Qe2 ?
+[20:18:18] jcarmody: Go wolfie?
+[20:19:19] upgoerfive: Go nairwolf!
+[20:22:36] lorb: think black can be happy how this went so far
+[20:36:14] nairwolf: since I have spectators, have you checked my vibecoded website ?
+[20:36:14] nairwolf: https://heatmap-chess.nairwolf.net/
+[20:36:14] nairwolf: https://chessprint.nairwolf.net/
+[20:36:14] nairwolf: https://correspondence.nairwolf.net/
+[20:38:15] kygreek: Go Phib!
+[21:13:36] lorb: 17 ...Kh1 ?
+[21:13:52] lorb: *h8
+[21:16:08] nairwolf: I think 17..Bxf5 wasn't working because of
+[21:16:53] nairwolf: 17..Bxf5 18.Bxf5 h6 Qg3 and then, I only found Nh5 to attack the queen, but Qh3 and gxf5 Qxh5
+[21:17:08] nairwolf: material is equal
+[21:20:56] nairwolf: the position looks more complex than I thought
+[21:21:26] nairwolf: cxd3 Rd2 Bxf5 and I win material
+[21:21:26] nairwolf: but...
+[21:22:11] nairwolf: cxd3 if white plays c4, they have two attackers to f6
+[21:22:57] lorb: cxd3 looks unnecessarily risky, if the b2 bishop comes alive there are serious threats on the dark squares
+[21:23:27] nairwolf: cxd3 c4, if I take the rook on e2, or the knight on f5, then, white can play Bxf6+ and fork my queen
+[21:24:43] nairwolf: so cxd3 c4 Kg7 is the only move ?
+[21:24:43] nairwolf: ah no, not possible
+[21:24:58] pineapplechiffoncake: isn't the knight just hanging now?
+[21:24:58] nairwolf: okay, so Bxf5 is easier even if I lose c4
+[21:25:13] lorb: yeah, just play Bxf5 and be up a piece without having to worry about any of this dangerous stuff
+[21:25:28] pineapplechiffoncake: ok, phew, I thought I was going crazy
+[21:32:32] nairwolf: I'm going to put my knight on c5 and should be fine
+[21:32:48] nairwolf: except that Nc5 Re7 and I don't like it
+[21:34:18] nairwolf: no, I'm fine. If Re7, Be6 and the rook is in jail
+[21:34:18] nairwolf: almost
+[21:34:18] matthewhuber: i think white missed 22. g4 winning the piece back
+[21:37:05] pineapplechiffoncake: Gg
+[21:38:21] nyanners: tough :o
+[21:38:21] nyanners: gg
+[21:39:06] nairwolf: ooooh, Matthewhuber !!!!
+[21:39:21] nairwolf: Don't make me afraid like that !
+[21:39:52] lorb: no worries, whites position is so bad by that point, even if they did find g4 it's still winning for black
+[21:41:22] nairwolf: if 22.g4, I think I would have played Bxg4, but I see engine says it's not the best move
+[21:41:37] nairwolf: @phib, why haven't you played your usual stuff ?
+[21:41:53] phib: thats a very good question :D
+[21:42:23] phib: i dont know
+[21:42:38] nairwolf: before you play 6.Bb5, it's a very very common position. so only by the fact I'm surprised by 6.Bb5, it helped me have more confindence
+[21:42:53] nairwolf: although I haven't played the right refutation
+[21:43:53] phib: most opponens just take the d4 knight so i was not that solid in remembering whats the right thing todo
+[21:45:09] nairwolf: After 13.Re2 it was the critical moment
+[21:45:24] nairwolf: I was going to play something like b5
+[21:45:24] nairwolf: or eventually Bd7
+[21:45:39] nairwolf: Truth is when you played 13.Re2 for a while I didn't know what to play
+[21:46:10] nairwolf: Then, I noticed c5
+[21:46:55] phib: i totally missed 14.. c4 and had to figure out what todo after that but it kind of went well until i tried to safe the knight somehow
+[21:47:10] nairwolf: For a moment, I discared this option because c5 and then Nf5 and I thought you were safe, even if I play g6
+[21:47:40] nairwolf: So I even started to think about g6 first, but it was risky since I was making myself weak on dark squares
+[21:47:40] nairwolf: then I noticed c5 and c4...
+[21:47:56] phib: i think on my level it does not matter on which sqares the pieces are on because i will blunder anyway :D
+[21:48:11] nairwolf: yep, I'm surprised by how tough you defended after c5 c4
+[21:48:26] phib: anyway, nice game to learn something from :) have a good night
+[21:48:41] nairwolf: yep, in the scotch, if you want to play this line
+[21:48:41] nairwolf: don't forget that almost 99% of time, best move is to play Nxc6
+[21:48:56] phib: i will look into it, thx
+[21:48:56] nairwolf: The position is much worse for black if you play Nxc6
+[21:49:11] nairwolf: not worse, but much more inconvenient than what I had in my game
+[21:49:26] nairwolf: have a good night
