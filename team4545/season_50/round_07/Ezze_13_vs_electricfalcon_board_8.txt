@@ -1,0 +1,51 @@
+Lichess game chat log
+Game      : https://lichess.org/V3CWwuQB
+White     : ezze_13
+Black     : electricfalcon
+Time      : 45+45
+Captured  : 2026-11-06 15:18:26 UTC
+Game ended : 2026-11-06 13:58:16 UTC
+Messages  : 41
+────────────────────────────────────────────────────────────
+
+[12:00:08] tactix47: (1.e4) Go falcon!
+[12:14:16] micomps: Go Ezze!
+[12:30:25] ezze_13: let us not trap our queen
+[12:32:42] ezze_13: did i still trap my queen
+[12:32:57] ezze_13: ah no not even close
+[12:33:57] electricfalcon: have I trapped the queen?
+[12:33:57] ezze_13: or...
+[12:34:28] electricfalcon: Qg3, Ne2+.
+[12:34:28] electricfalcon: also hello all
+[12:36:14] electricfalcon: no
+[12:36:44] electricfalcon: Qxf6, Rxf4
+[12:37:29] tactix47: (16.f6) Nice back and forth here
+[12:38:15] electricfalcon: or that too
+[13:08:47] ezze_13: and now comes the part of chess I dont understand. like, if black goes d5 here, idk what even to calculate
+[13:11:19] electricfalcon: interesting queen sack idea on h3 maybe? Qh3, RxQh3, gxh3 , Qxg8, Rxg8+, Kh2, Rh8?
+[13:12:34] electricfalcon: I think I can then get the rook up g2+ and go for b2 and try and mop up?
+[13:12:34] electricfalcon: this could be nuts though
+[13:13:05] ezze_13: now wait a second is this not a free queen
+[13:13:35] tactix47: (27...Qh3) Nuts is fun!  Neat idea to try for a Q-side majority
+[13:13:50] electricfalcon: this could end up as no real benefit but shakes the game up
+[13:21:40] electricfalcon: dang it
+[13:52:58] ezze_13: i think ive done it, woo
+[13:57:30] electricfalcon: I'm done for
+[13:57:30] electricfalcon: ggs
+[13:58:01] electricfalcon: the queen trade was interesting, lets see how it is in the analysis
+[13:58:01] electricfalcon: well played!
+[13:59:47] electricfalcon: Dang it, How did I miss 21.
+[13:59:47] ezze_13: oh hahaha I actually hung a rook
+[14:01:02] electricfalcon: Wait though is it?
+[14:01:17] electricfalcon: I thought maybe at the time I saw the g4, but then its g4, Rxf4 no?
+[14:01:33] ezze_13: yes and i thought your queen is attacked
+[14:01:33] electricfalcon: oh yeah
+[14:01:33] electricfalcon: duh
+[14:01:33] ezze_13: but your queen just takes the rook heh
+[14:01:48] electricfalcon: didn't see the continuation taking the rook
+[14:01:48] electricfalcon: at the time I mean
+[14:02:03] ezze_13: me neither, i figured i just attack your queen and im happy
+[14:02:03] electricfalcon: ahh yeah 31. I knew that felt wrong
+[14:02:33] micomps: gg both!
+[14:02:48] tactix47: gg!
+[14:02:48] electricfalcon: anyhow, gotta dash! Thank you for the game, it was an interesting one!
