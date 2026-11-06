@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/mNXaoQWu
+White     : verqsu
+Black     : sideshow_bob
+Time      : 45+45
+Captured  : 2026-11-06 17:09:36 UTC
+Game ended : 2026-11-06 15:49:26 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[14:07:27] verqsu: This is preparation, he had one game going 10...Be7 never faced 13. Qd2 and I thought this would be easy to play with white
+[14:14:01] verqsu: ...Rh4 g4
+[14:16:32] verqsu: knight moves anytime in the future, Nf6+
+[14:25:22] verqsu: h4 and g4?
+[14:26:53] verqsu: Qe5 threatening knight moves? Qe5 Rh6 Ne4
+[14:27:23] verqsu: nvm... Qe5 Rh6?? Ng8
+[14:32:57] verqsu: Nxd5 exd5 Rh3
+[14:44:03] verqsu: h6 Rag8 g4 Qg5 Qx Rx Be2
+[14:45:19] verqsu: Re1 Rag8 g4 Qg5 etc...
+[14:45:49] verqsu: Re1 Rag8 Re5  is maybe it
+[14:52:53] verqsu: g4 a4 Rhe3
+[14:52:53] angborxley: Go Verqsu!
+[14:53:24] qrs: Go Verqsuuuuuu
+[14:53:24] verqsu: g4 b3? ax rx is good
+[14:54:54] qrs: (22 b4) that is some nice prep there, just skipped through the game and read the comments here. Good work
+[14:55:55] qrs: Position looks like three results possible but definitely ok and clear plans for white
+[14:56:10] qrs: Also b3 will open up the lsb that’s nice
+[14:56:25] qrs: And in case more pieces, in particular queens get trade I’d rather be white
+[14:58:11] verqsu: Rag8 Rh5 or Rhe3 perchance
+[15:02:59] verqsu: bxc3 b3 Kb2 or maybe even bxc3 b3 axb3 Qa3+  but that looks dangerous Kc2  Qb2+  Qd1 Qxc3+
+[15:07:17] verqsu: Actually ... Qa2+ Kd1 Qxb3+ Ke2 Bb5+ Kf3 Qxc3+ Re3 or Kg2 Bxf1+
+[15:08:47] karasso: Go Verqsu
+[15:10:03] karasso: Would not have taken on c3, just let black take on b2, play Kxb2 and the king is quite safe.
+[15:10:03] verqsu: Rag8 Ree3 blocking the Q swap
+[15:11:34] verqsu: but after ...Qg5 actually idk
+[15:12:19] karasso: Rag8 Bb5 is an idea
+[15:12:35] verqsu: Bd3 first candidate
+[15:13:05] qrs: Intersting move Bb5 also works now, right?
+[15:13:50] verqsu: Bd3 Rhh8 g5 Rag8 Bf5 !?!?!?
+[15:14:21] karasso: Yes, maybe even start with Kd2 to get the other rook into the game
+[15:15:51] verqsu: Bf5?? Qxg5
+[15:16:22] verqsu: Bd3 Rhh8 g5 Rag8 Bb5
+[15:16:37] ryune: This looks very nice for white now, Rh7 just loses a tempo at best
+[15:16:37] ryune: But still 3 results possible obviously
+[15:17:22] verqsu: wrong chat
+[15:17:53] qrs: Seems Verqsu posted a line to the opponent, classic /w fail :D
+[15:18:23] verqsu: simply Kd2
+[15:18:53] ryune: Yep, Kd2 is very nice to get in
+[15:18:53] qrs: Ye, position definitely nice so harmonious for white, like how the queen controls b8
+[15:19:54] qrs: Now there might even be Rb1 also whites lsb probably cant move because of Qc7+
+[15:19:54] qrs: I mean its still complicated, but promising :)
+[15:20:09] ryune: f7 pawn drops with check now
+[15:20:24] ryune: Qb4 just provoked Kd2 which white wanted to play anyway
+[15:20:39] qrs: Ye, Qb2+ has no real effect
+[15:21:09] qrs: Qb2+ Rc2 Qb4+ Ke3 (? or where does the king go?)
+[15:22:55] ryune: You need to play Ke2 there if anything or you lose the rook
+[15:23:26] verqsu: ...Qb2+ Rc2  Qb4+ Ke2
+[15:23:26] ryune: But then Bb5 maybe
+[15:23:41] ryune: No, can't do that I think, Qc7+
+[15:24:26] qrs: Ah true, rook on e1 ofc..
+[15:24:42] verqsu: Bb5 then saves the R but probably fails to check on c7
+[15:27:58] ryune: Qb2+ Rc2 Qb4+ Ke2 Bb5 Qc7+ Ke8 Rec1 looks promising
+[15:28:14] ryune: But I think it migh tbe better to just play Rec1 first without Qc7+
+[15:30:30] verqsu: Kd1 Qb1+ Qc1 is not it
+[15:30:30] qrs: Even bxb5 qxb5+ Ke3 seems decent if i am not missing sth
+[15:31:46] ryune: Plenty of time tow\ work this out at least
+[15:32:46] ryune: The queen is just so nicely placed right now, would be a shame to move it if the check doesn't accomplish anything right away
+[15:32:46] ryune: If possible some waiting moves would be in order
+[15:33:47] ryune: Rec1 would still be my choice, but it's pretty complicated so I might be way off
+[15:33:47] karasso: Yeah, I also like Rec1
+[15:35:03] verqsu: Qc7+ Ke8 Bxb5+ Qxb5+ Kf3 Qd3+ Re3 probably is good enough
+[15:37:34] qrs: his line probably works too, but thanks for pointing out Rec1, guys - very educational - thats why you guys are 200-400 points higher rated
+[15:38:04] verqsu: Rc7+ Kd8 Bxb5+Qxb5+ Kf3 Qxe1 mates
+[15:39:05] verqsu: Rc7 Ke8 Rec1 Bxd3+ Kxd3+ is unclear
+[15:42:37] verqsu: holy fuck
+[15:43:22] verqsu: this is why we dont drag pieces with a mouse....
+[15:43:38] verqsu: i think this funnily enough still works
+[15:44:23] karasso: Not the worst mouseslip, i guess
+[15:44:53] ryune: Qb2+ again is an issue
+[15:46:09] karasso: This is winning
+[15:46:09] ryune: This works though, got lucky there I think
+[15:46:54] verqsu: Rb1 wins 100%
+[15:47:25] ryune: Nicely done
+[15:47:40] karasso: And Kd8 Bc6+ Qd7-b7 is also mate
+[15:48:56] tomb85: Gg both
+[15:49:11] paulwithans: gg
+[15:49:26] karasso: gg
+[15:52:12] qrs: Gg
+[15:53:13] verqsu: Worked out 31. Rc7+ Ke8 Rec1 Bxd3+ Kxe3+ is way better to keep the q in place
+[15:56:45] ryune: Yeah, the queen is perfect as is
+[16:32:02] angborxley: gg
