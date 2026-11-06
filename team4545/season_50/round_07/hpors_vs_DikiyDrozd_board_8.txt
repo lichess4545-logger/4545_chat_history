@@ -1,0 +1,91 @@
+Lichess game chat log
+Game      : https://lichess.org/gVDkgnwf
+White     : hpors
+Black     : dikiydrozd
+Time      : 45+45
+Captured  : 2026-11-06 20:54:33 UTC
+Game ended : 2026-11-06 19:34:22 UTC
+Messages  : 81
+────────────────────────────────────────────────────────────
+
+[18:00:43] timothyha: (2.g3) go, @Hpors
+[18:04:00] dadievid: This is a interesting version of the English with e5
+[18:05:00] dadievid: This setup winh Ne2 leads often to a agressive attack on blacks king with f4, will be fun
+[18:10:33] dadievid: now on move 8 for white O-O and Kh2 to come?
+[18:11:04] bxvrc2lh: But early H3 is wrong? Simple be6 and qd7 stops castling
+[18:11:19] bxvrc2lh: Still love Botvinnik English set up, used to play it for years
+[18:14:20] timothyha: (8.O-O) yeah, if your opponent allows, it can be played on autopilot
+[18:24:11] rolihlahla: (9.d4) Ne2  followed by Ncd5  and Nec3 looks like a strong potential setup ...
+[18:30:30] timothyha: (11.Nde2) it's a Sicilian position now
+[18:30:45] timothyha: (11.Nde2) not sure how both are familiar with this
+[18:31:30] timothyha: (11.Nde2) I guess White needs Rb1 a3 b4 to win the queenside, and later on win d6
+[18:31:46] timothyha: (11.Nde2) the usual plans with f4 won't work here I think
+[18:33:01] jfiras: Good luck hpors !
+[18:35:03] timothyha: (12.b3) Nb6 is slightly strange, it goes nowhere from there
+[18:36:33] jfiras: (12.b3) yeah maybe Be6 was better
+[18:37:49] rolihlahla: (10...e5) quite the fight for d5  :-)
+[18:37:49] timothyha: (12...Be6) Ba3
+[18:38:35] jfiras: (12...Be6) yes d5 square is important, some sicilian vibes here
+[18:39:20] rolihlahla: (12...Be6) Ba3  yes - then black has to defend d6
+[18:40:36] timothyha: (13...Ne8) ideally we want to put a piece on d5, but not doable yet on Nd5 Bx or Nxd5
+[18:41:06] timothyha: (13...Ne8) can be patient though, the weakness won't go anywhere
+[18:41:51] timothyha: (13...Ne8) like Qd3 and Rad1 also ok
+[18:43:07] timothyha: (14.c5) c5 also a nice find!
+[18:43:07] timothyha: (14.c5) the rook is stuck on f8
+[18:43:22] timothyha: (14.c5) actually a beautiful find
+[18:44:08] jfiras: (14.c5) maybe Nc8 for black
+[18:44:08] timothyha: (14.c5) not sure about the future of the white pawn on d6 but this could be demoralising for Black
+[18:44:23] timothyha: (14...Nc8) having to untangle so many pieces
+[18:45:39] timothyha: (14...Nc8) let's try Qd3 again :-)
+[18:45:39] timothyha: (14...Nc8) the pawn is pinned
+[18:45:54] timothyha: (14...Nc8) the queen with two knights on the sides - fells like a European court
+[18:46:09] jfiras: (14...Nc8) haha
+[18:46:54] timothyha: (14...Nc8) let the pawns suffer, I have my favourites
+[18:47:10] timothyha: (15.cxd6) Qd3 and Rad1 also "finish development"
+[18:47:25] timothyha: (15.cxd6) cxd6 is giving away the advantage I'm sure
+[18:47:40] jfiras: (15.cxd6) i should admit that i didn't liked c5 because of cxd, i didn't consider not taking on d6
+[18:47:40] timothyha: (15.cxd6) still a good position, but cxd6 is not patient enough
+[18:48:10] jfiras: (15.cxd6) not taking was better for sure
+[18:55:29] timothyha: (16.Qc2) that knight is unfortunate, pinned to a rook and soon to a queen
+[18:56:00] timothyha: (16.Qc2) Qc7 and Rd8 is a must for Black I guess
+[18:56:30] timothyha: (16.Qc2) White should get c1 and d1 faster, but the position is still equal-ish
+[18:58:16] timothyha: (16...Qa5) a good find from Black I guess
+[18:59:32] timothyha: (16...Qa5) Qb2 might be playable here
+[18:59:47] timothyha: (16...Qa5) but Rd8 and the knight is free
+[19:00:02] jfiras: (16...Qa5) yeah and a possible b5 b4
+[19:00:17] jfiras: (16...Qa5) i prefer Bb2
+[19:00:17] timothyha: (16...Qa5) now Black has the initiative
+[19:00:32] timothyha: (16...Qa5) White's queen need a good square, and c2 isn't one
+[19:01:03] timothyha: (16...Qa5) I wonder if White ever saw the idea of Rc1 Qb1->a1
+[19:01:48] timothyha: (16...Qa5) I still remember that eye-opening moment when I saw that idea in a Giri game
+[19:02:34] jfiras: (17.Bxd6) Qb1, Qa1 is not obvious at least to me
+[19:02:49] jfiras: (17.Bxd6) i don't like this move
+[19:03:04] jfiras: (17.Bxd6) helping black rearrange his pieces
+[19:03:19] jfiras: (17...Nxd6) and giving away the dark squares
+[19:07:21] ttsgosadow: Go hpors!
+[19:11:24] timothyha: (18...Rfd8) Nd5 is ok for now I think
+[19:12:55] timothyha: (18...Rfd8) plug the hole and rebuild
+[19:14:56] timothyha: (19.Nd5) imagine a natural Rac8 and boom!
+[19:17:42] jfiras: (19.Nd5) Rac8 is a very good move (for us)
+[19:20:14] jfiras: (19...Bxd5) take with the rook ?
+[19:20:29] ttsgosadow: Rx yeah, looks good
+[19:20:44] ttsgosadow: Comes with tempo
+[19:23:31] jfiras: (20.Rxd5) in their last game, the opponent blundered the queen when he was under 10mns, so you never know...
+[19:25:47] ttsgosadow: 2 more minutes to go then (:
+[19:26:48] jfiras: (20...Rac8) Qx ?
+[19:26:48] ttsgosadow: This wins a rook!
+[19:26:48] ttsgosadow: Qxc8 indeed!
+[19:27:48] jfiras: (21.Qxc8) well done hpors
+[19:28:03] ttsgosadow: Yeah! Well calculated
+[19:28:03] jfiras: (21.Qxc8) Rc2 will be a little bit annoying but you can handle this
+[19:30:05] timothyha: (21...Rxc8) wow
+[19:30:20] timothyha: (22.Rxa5) well done!
+[19:30:20] timothyha: (22.Rxa5) now calm down and win
+[19:30:35] bxvrc2lh: Lol
+[19:31:20] timothyha: (22.Rxa5) the birdwatcher spotted a tactic
+[19:31:20] timothyha: (22.Rxa5) no surprise here
+[19:32:51] jfiras: (22...Rc2) Kf1 and Rc1 maybe
+[19:33:37] jfiras: gg !
+[19:33:52] ttsgosadow: Gg, good game both!
+[19:34:07] timothyha: gg
+[19:53:02] robertjackson: Gg
