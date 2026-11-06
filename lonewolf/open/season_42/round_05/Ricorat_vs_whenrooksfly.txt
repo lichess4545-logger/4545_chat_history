@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/VwXQLqaV
+White     : ricorat
+Black     : whenrooksfly
+Time      : 30+30
+Captured  : 2026-11-06 21:18:46 UTC
+Game ended : 2026-11-06 19:58:35 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[18:02:43] whenrooksfly: 9..all prep but everything is new from now on since I went wide instead of deep
+[18:10:48] whenrooksfly: 10.. also looked at 10..a6 but I think White can just ignore it instead of overreacting with 11. a4
+[19:59:05] ricorat: You were in prep all the way to move 10?
+[19:59:05] whenrooksfly: until I took on b5
+[19:59:36] ricorat: The strcuture after axb5 is interesting
+[20:00:06] whenrooksfly: yeah, I had no clue how to play it
+[20:00:06] ricorat: I kind of underestimated how annoying dxe5 was practically
+[20:00:36] ricorat: Engine says it's equal after axb5, but the games I've seen in this strcuture generally seem to suggest it's easier to play as White
+[20:01:37] ricorat: 33...Bd6 was clever too
+[20:01:37] whenrooksfly: I agree in the short term but I think White doesn't get a comfortable ending because of the structure
+[20:01:52] ricorat: I agree
+[20:02:22] whenrooksfly: apparently 53.. is still winning
+[20:02:22] ricorat: I think white has better chances in the middlegame, as they can try to cramp black, but in the endgame Black likely will have the better gam
+[20:02:22] whenrooksfly: but I have no clue how to win
+[20:02:37] whenrooksfly: Before Rd2, not after
+[20:03:07] ricorat: I wonder if it's because you might have g3 at some point?
+[20:03:23] ricorat: Computer thinks Rc2-Rc5 should be winning
+[20:03:23] whenrooksfly: its Rc2-Rc5
+[20:03:53] whenrooksfly: I was expecting this somewhat because my technique seems to have worsened
+[20:03:53] whenrooksfly: while my bullet and blitz have improved
+[20:04:08] whenrooksfly: did you see some idea with Kf4-g3+ and then mate on h1
+[20:04:23] ricorat: Rook endgames are hard man
+[20:04:23] ricorat: AT which point?
+[20:05:08] whenrooksfly: something like 56. Re6+ Kf5 57. Rh6 Kf4 58. Rxh5
+[20:05:24] whenrooksfly: but I don't think you would have entered that
+[20:05:39] ricorat: Yes I saw some ideas like that
+[20:05:54] ricorat: Maybe it's holding but I saw no reason to enter lines like that
+[20:05:54] ricorat: With how I played that middlegame I was just happy to not lose lol
+[20:06:24] whenrooksfly: I knew I was worse but I think it's really hard to crack my setup
+[20:06:54] whenrooksfly: just too cramped though, I think you probably had to push a4-a5 or smth
+[20:06:54] ricorat: I think so
+[20:06:54] ricorat: I was too scared of your Knight on d4
+[20:07:09] ricorat: I shouldn't have taken it
+[20:07:09] whenrooksfly: yeah it looks nice
+[20:07:40] ricorat: Yes, but it isn't threatening anything and giving you the d4-passer is bad for me
+[20:07:55] ricorat: I have the tendency to overeact in situations like that
+[20:09:26] whenrooksfly: Thanks for the game and good luck with the rest of the tournament!
+[20:09:41] whenrooksfly: getting lots of good practice from my games
+[20:09:56] whenrooksfly: I have been putting off reading Dvoretsky but I probably have to
+[20:10:11] ricorat: Thanks, and you too! This was a fun game!
+[20:10:11] whenrooksfly: keep getting endings
+[20:10:41] ricorat: Good luck with that book haha, should be a good read but looks quite hard
+[20:10:56] ricorat: I need to brush up on my endings too
