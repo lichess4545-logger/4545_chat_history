@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/F7jTQ3su
+White     : buki9
+Black     : daringdodo
+Time      : 45+45
+Captured  : 2026-11-06 16:15:01 UTC
+Game ended : 2026-11-06 14:54:52 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[13:15:09] daringdodo: I didnt study anything at all so im just freestyling this game like usual
+[13:15:09] tactix47: (8...exd5) Go dodo!
+[13:15:55] daringdodo: I could be alot worse for all I know, but lets just  see what happens
+[13:16:55] daringdodo: maybe bishop trade and Qa4 is something for him, not sure
+[13:20:12] daringdodo: or a3 here, when I retreat knight he sacs his queen on d5
+[13:22:29] daringdodo: Na6 to stop that idea? looks goofy lets play it
+[13:26:01] daringdodo: scary move so many double checks, am I screwed?
+[13:31:34] daringdodo: probably gotta move king to f8
+[13:44:11] daringdodo: so what if I take the bishop and play nc5
+[13:44:26] daringdodo: he has Q b4 I guess
+[13:52:46] daringdodo: I wonder what the eval is here after move 14
+[14:10:11] daringdodo: h5 might be good and interesting, getting rook out that way with tempo potentionally
+[14:13:43] daringdodo: if Qh4 maybe nc6 and queentrade should be good for me
+[14:17:00] daringdodo: h5 and then a5 would be so goofy, but maybe Qd6 is a better queentrade for white
+[14:21:17] daringdodo: endgame pawn up how bad can it be, even if b7 pawn is hanging
+[14:22:03] daringdodo: nf4 is a move but its kinda messy
+[14:25:50] daringdodo: yeah idk what to play tbh
+[14:27:06] daringdodo: maybe just b6
+[14:29:37] daringdodo: I rushed, gg
+[14:29:37] daringdodo: too bad
+[14:41:44] daringdodo: my opponent actually let me have a takeback, I didnt even ask for it  he mentioned it himself but wasnt sure if it was allowed. Very kind
+[14:42:44] cherrrioooooooo: why Na6 on move 10 instead of Nc6?
+[14:46:47] kayrosas: 10...Nc6 Qxd5 bc c7 isn't covered
+[14:49:18] goldenstatewarrior: at move 13 bd3 was big error
+[14:49:34] goldenstatewarrior: just rc8 and nc5 wins kinda easily
+[14:52:05] cherrrioooooooo: Ah, I missed that. Na6 is necessary. Perhaps Bb4+ was incorrect? a6 is better, allowing Nd6+, Bxd6, Qxd6, Qe7
+[14:52:50] cherrrioooooooo: When the knight was forced to move to a6, I feel like white already has a clear advantage
+[14:54:06] goldenstatewarrior: bb4 check earlier was kinda  strange.  nb5 by white on move 6 kinda doesnt do anything.  just nf6 there and  black must be doing well
+[14:54:21] cherrrioooooooo: Or maybe d6, Bf4
+[14:54:21] goldenstatewarrior: i think dodo  just not used to these positions as black
+[14:54:52] cherrrioooooooo: yeah, it's kinda tricky
+[14:55:22] buki9: damn after f6 the position is that bad
+[14:55:37] goldenstatewarrior: well played buki
+[14:56:07] buki9: thanks thanks i was getting really worried but then i saw that if the queens get traded its not so easy for black
+[14:57:53] buki9: i at least got what i wanted which was an interesting game, but your middle game moves very really good, dod, kicking my queen and whatnot
+[14:57:53] daringdodo: so I had to play Rh6 at move 21? im not finding that easily
+[14:58:23] buki9: oh thats crazy
+[14:58:23] goldenstatewarrior: dodo  u needed to find rc8 on move 13
+[14:58:23] goldenstatewarrior: and youd have won
+[14:58:38] daringdodo: at move 13 I was calculating the entire engine line but I missed that after Qb4 I have a5
+[14:58:38] goldenstatewarrior: was like -4 to you then
+[14:58:54] daringdodo: I missed a5 in that line
+[14:58:54] goldenstatewarrior: also i think you over worried early on about nd6 check.
+[14:59:09] buki9: yea i also missed a5
+[14:59:09] goldenstatewarrior: when he played nb5. more important to go nf6 and develop
+[14:59:24] daringdodo: I was worried about e5
+[14:59:39] daringdodo: if I play nf6
+[15:00:24] goldenstatewarrior: i think u are getting good version of c3 sicilian type structure then
+[15:00:39] goldenstatewarrior: even ne4  followed by bb4 check or bc5 looks nice for u
+[15:01:25] daringdodo: eventually I made two big mistakes when im down on time, I get really nervous
+[15:01:40] daringdodo: I was only keeping up with him on time because he kept disconnecting
