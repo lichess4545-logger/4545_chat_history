@@ -1,0 +1,124 @@
+Lichess game chat log
+Game      : https://lichess.org/caTvaMUg
+White     : macha1313
+Black     : r0b-w
+Time      : 45+45
+Captured  : 2026-11-06 21:19:47 UTC
+Game ended : 2026-11-06 19:59:37 UTC
+Messages  : 114
+────────────────────────────────────────────────────────────
+
+[17:56:24] pineapplechiffoncake: Gooooo macha!
+[17:58:10] r0b-w: (2.Nf3) Hi, Pineapplechiffoncake!
+[18:03:59] pineapplechiffoncake: Hi R0b, good luck :)
+[18:09:02] r0b-w: (8.e4) Hi, FunnyAnimatorJimTV!
+[18:11:48] r0b-w: (8...Re8) Hi, GoldenRetrieverChess!
+[18:12:03] funnyanimatorjimtv: I don't know who to root for
+[18:12:03] goldenretrieverchess: Go macha!! And good luck R0B!!
+[18:12:03] funnyanimatorjimtv: that's good
+[18:14:20] bufferunderrun: let's go macha!
+[18:17:06] r0b-w: (9.b3) Hi, BLang316!
+[18:17:52] bufferunderrun: b3 looks to drop e4 now after exd4
+[18:18:52] bufferunderrun: I'd probably consider d5 orIdk Be3
+[18:19:08] bufferunderrun: *Bd3
+[18:19:38] r0b-w: (9...exd4) Hi, bufferunderrun!
+[18:19:38] blang316: Go Rob!  And good luck macha!
+[18:20:38] bufferunderrun: hi R0b-w
+[18:23:25] mongreltiger: Hey macha, you better watch this guy. He will R0b you!
+[18:23:56] r0b-w: (10...Nxd4) Hi, mongreltiger!
+[18:24:56] mongreltiger: Hey R0b-w!
+[18:25:11] bufferunderrun: Nxd4 cxd4 Nxe4 Nxe4 Rxe4 Be3 c5 I guess and rook is in trouble
+[18:25:57] funnyanimatorjimtv: consider allowing Bxa1 Qxa1
+[18:26:42] bufferunderrun: maybe
+[18:27:28] bufferunderrun: black isn't forced to play c5 either
+[18:29:14] bufferunderrun: it's not over, but black is definitely better
+[18:29:44] r0b-w: (12...Rxe4) Hi, Asturc0n!
+[18:32:46] bufferunderrun: Bb2 seems to be alright, if c5 Qc2 Bf5 Be3 probably fine
+[18:33:01] bufferunderrun: *Bd3
+[18:33:16] bufferunderrun: Idk why I keep on pressing the wrong key
+[18:34:47] r0b-w: (13...c5) I don't have a response to 1.d4 that I'm happy with
+[18:35:17] r0b-w: (13...c5) What do you play? d5? Dutch? KID?
+[18:36:33] funnyanimatorjimtv: nothing wrong with the nimzo
+[18:36:33] bufferunderrun: d5 is fine, KID could be too deep, skip the Dutch, Nimzo is an option
+[18:39:04] funnyanimatorjimtv: (14.Bf3) this was the kind of position i'd be curious about allowing ...Bxa1 (if the white bishop weren't on b2)
+[18:41:06] bufferunderrun: I preferred Qc2, hen you can grab on c5, exchange the bishops and play pawn down
+[18:41:21] bufferunderrun: with the mostly heavy pieces left there are good chances to hold this
+[18:43:22] bufferunderrun: but this also looks similar, with pressure on a8 and b7
+[18:45:08] bufferunderrun: I don't like Rb1, since it allows Bf5
+[18:45:38] funnyanimatorjimtv: yeah and ...Bf5 was not a problem after Qc2, white could still play dxc5 and black had no good rook discoveries
+[18:46:39] funnyanimatorjimtv: well after 15...Bf5 white could throw in Bxb7 Rb8 Bc6
+[18:46:54] bufferunderrun: ah Bc6 hmmm
+[18:47:09] mennonite: Go macha! Hi Rob!
+[18:47:24] mennonite: Unhelpful autocorrect
+[18:47:24] funnyanimatorjimtv: but black plays ...Bxa2 and white's queenside is destroyed
+[18:48:55] funnyanimatorjimtv: 15...Bf5 Bxb7 Rb8 Bc6 Bxb1 Bxe8 Bxa2 Bxf7+ Kxf7
+[18:48:55] bufferunderrun: alright, so Bf5 Bxb7 Bxb1 Bxa8 Qxa8 Qxb1 cxd4 Qa1, yeah, don't like this
+[18:49:56] funnyanimatorjimtv: nvm dont play Bxf7+ retreat Ba4 and black's Ba2 is trapped??
+[18:50:56] funnyanimatorjimtv: ...Bxa2 Ba4 Qb6 dxc5 dxc5 Bxg7 Kxg7 Qa1+
+[18:50:56] bufferunderrun: then Rb8 is more or less forced, but Bc6 is annoying for black
+[18:51:57] bufferunderrun: how did you get Ba4 after Bxa2?
+[18:52:42] funnyanimatorjimtv: 15...Bf5 Bxb7 Rb8 Bc6 Bxb1 Bxe8 Bxa2 Ba4 Qb6 dxc5 Bxb3 cxb6 Bxd1 Rxd1 Bxb2 bxa7 Rb7
+[18:53:28] bufferunderrun: ah I see after Bc6, got it
+[18:53:58] funnyanimatorjimtv: final move not ...Rb7 but ...Ra8 because black no longer has a rook on e8
+[18:54:59] r0b-w: (15...Bf5) Hi, ysgwydd!
+[18:55:59] r0b-w: (15...Bf5) Hi, fork2020!
+[18:56:30] funnyanimatorjimtv: now white has 18.Bd5
+[18:57:00] funnyanimatorjimtv: or still 18.Bc6-a4
+[18:57:15] fork2020: Go R0B-W! Start us off strong!
+[18:57:30] bufferunderrun: Qb6 dxc5 looks interesting
+[18:58:00] funnyanimatorjimtv: if 18.Bd5 Qa5 Qc2 Rb8 Ra1 how much can black hold onto it
+[18:59:46] bufferunderrun: 19.dxc5 might be an option
+[18:59:46] r0b-w: (18...Re7) Hi, Mennonite!
+[19:02:48] bufferunderrun: 20.Qc2 looks like a candidate
+[19:03:19] bufferunderrun: cxd4 Qc8+
+[19:04:34] bufferunderrun: otherwise the threat is Bc3 covering e1 and preparing Ra1
+[19:14:40] bufferunderrun: 21.Qa1 Bxb3 dxc5 looks interesting
+[19:20:28] bufferunderrun: this drops g6
+[19:20:44] bufferunderrun: did see it
+[19:27:48] funnyanimatorjimtv: 22.Qxg6 would have been devastating
+[19:30:19] bufferunderrun: Bxf7 looks good I guess
+[19:31:05] funnyanimatorjimtv: dxc5 is a threat now?
+[19:31:20] bufferunderrun: if Bxb3 Qg8+ Kh6 Bc1+ g5 Bxg5 Kxg5 Qxg7+
+[19:32:36] funnyanimatorjimtv: 24...Bb1
+[19:33:36] bufferunderrun: wouldn't Bb1 allow the line above with Qg8+?
+[19:35:07] funnyanimatorjimtv: i see, true. then black could sac exchange with ...Rxc1
+[19:35:37] bufferunderrun: what macha managed to do well here is to create a bit of tactical chaos that created a lot of chances
+[19:36:53] funnyanimatorjimtv: now white can indeed go for that line and there's no ...Rxc1
+[19:37:54] bufferunderrun: fun game regardless the outcome
+[19:41:56] funnyanimatorjimtv: wow ...Qb7 protects the Bg7 and prepares for ...Qh1+
+[19:42:42] bufferunderrun: there is Bd5 if needed
+[19:43:27] funnyanimatorjimtv: 29.Bd3 Qh1+ Ke2 theres no more checks
+[19:44:12] bufferunderrun: hmmm 29.Qe6+?
+[19:44:43] bufferunderrun: and then just Bxg5 with Qg8 threat?
+[19:44:43] funnyanimatorjimtv: Bd3+
+[19:44:58] bufferunderrun: or Bd3+ yeah
+[19:45:13] bufferunderrun: since Qe8
+[19:47:29] bufferunderrun: 31.Qg6 I guess
+[19:49:46] funnyanimatorjimtv: 33.Be3 cxd4 Qd8+ Kh7 Bd3
+[19:50:16] bufferunderrun: Be3 Qg4+ perhaps
+[19:51:17] funnyanimatorjimtv: then white will be 3 pawns up in an endgame, i wonder if theres any chance for black to get counterplay in that
+[19:51:32] bufferunderrun: 34.Kf3
+[19:52:17] bufferunderrun: Qe8+ Bd3 is a threat now
+[19:53:03] bufferunderrun: c'mon macha, I need my fantasy points!
+[19:53:18] funnyanimatorjimtv: 34...Bb1 still prevents mate after Qe8+ Kh7 Bg8+ Kh8 Bf7+ Kh7
+[19:53:48] mennonite: I need a buffer for the match in the very likely event that I don't beat alp
+[19:54:18] bufferunderrun: Bb1 Qe8 Kh7 Qxh5
+[19:54:18] funnyanimatorjimtv: oh wow
+[19:55:34] bufferunderrun: Qe8 let's go!!!
+[19:55:49] r0b-w: (34...cxd4) Hi, alp_arslan92!
+[19:55:49] alp_arslan92: (34...cxd4) Hey R0B!
+[19:56:05] funnyanimatorjimtv: Bd3 might still not be on white's radar
+[19:56:35] alp_arslan92: (35.Qe8+) Ooph
+[19:56:35] bufferunderrun: precious fantasy points!
+[19:57:20] bufferunderrun: sorry R0b
+[19:59:06] bufferunderrun: Qxh5! Bh6 Qxh6!!
+[19:59:06] alp_arslan92: (36.Qxh5+) Well spotted!
+[19:59:22] funnyanimatorjimtv: nice! never needed Bd3
+[19:59:37] mongreltiger: Great match! really fun to follow along with PawnRacing
+[19:59:52] funnyanimatorjimtv: gg
+[19:59:52] alp_arslan92: gg
+[19:59:52] bufferunderrun: gg!
+[19:59:52] fork2020: gg
+[19:59:52] mennonite: gg
+[20:02:08] pineapplechiffoncake: Gg
+[20:07:26] mongreltiger: Good game, R0b-w. It looks like you faced her on her day. All I can say is better you than me.
