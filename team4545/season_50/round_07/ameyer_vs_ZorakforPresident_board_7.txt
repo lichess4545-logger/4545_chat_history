@@ -1,0 +1,85 @@
+Lichess game chat log
+Game      : https://lichess.org/5sV0iQcD
+White     : ameyer
+Black     : zorakforpresident
+Time      : 45+45
+Captured  : 2026-11-06 20:48:29 UTC
+Game ended : 2026-11-06 19:28:18 UTC
+Messages  : 75
+────────────────────────────────────────────────────────────
+
+[17:55:54] feet_barbie: go ameyerr
+[17:56:10] feet_barbie: should be exciting
+[18:00:27] feet_barbie: Ahaha what is thus
+[18:01:43] gary0892: Ah prep was spot on
+[18:06:15] prostidude: Go go zorak
+[18:12:49] ameyer: I don't know if f4 was smart. feels committal but I really don't want to allow e5. no idea why though
+[18:14:05] ameyer: I have visions of Ne2 OO, Nd2, Nf3 but Mr. President here will probably get in the way
+[18:14:20] ameyer: probably Nf6 Bg4
+[18:15:21] ameyer: I'm going to regret losing control of e4
+[18:21:09] ameyer: Qc7 really threw me off. my pieces don't seem to be finding good squares
+[18:29:29] glennjamesmax: Glgl president!
+[18:32:15] ameyer: ok I got my vision, but is it a good vision?
+[18:36:18] glennjamesmax: 11...Nh5 I'm not sure what the idea of this is
+[18:36:33] glennjamesmax: it just allows g4 to kick the knight back and gain tempo
+[18:44:22] ameyer: trying to decide Qd2 or g4 here. or castle to bring the rook to the f file
+[18:46:08] glennjamesmax: 12...0-0 Black taking a lot of risks here
+[18:46:39] glennjamesmax: already g4 nf6 g5 should be terrifying
+[18:47:09] glennjamesmax: This is probably objective losing. I wouldn't be surprised if engine gives this +4 or something
+[18:48:40] ameyer: g4 Nf3 g5 hg fg N? then maybe Qd2. Maybe I'd be happy Q wasn't on d2 so Ne4 couldn't come with tempo?
+[18:53:27] ameyer: maybe I would have preferred to find a way to sac the bishop on h6
+[18:53:27] feet_barbie: Ameyer cooking
+[18:53:43] glennjamesmax: Barbie am I delusional or isn't this borderline lost for Black already/
+[18:53:58] ameyer: now I'm losing a pawn on e5
+[18:54:13] feet_barbie: I m walking under the rain briefly glanced looks v good for white yeah
+[18:54:43] ameyer: or moving my knight and losing my grip on the position
+[18:54:58] glennjamesmax: "losing pawn on e5" learn from your teammate! He gave half the army away... here it doesn't matter much
+[18:55:14] feet_barbie: Aahaha and lost
+[18:55:29] feet_barbie: But it was 4 pawns
+[18:55:44] feet_barbie: I saw some stats I'm always down material
+[18:57:00] ameyer: so I guess I saw the line but not the consequences of it
+[18:59:46] ameyer: Nf4 Nx Bx Nxe5 Qh5 g6 and I lose a piece
+[19:01:32] ameyer: there's the bishop sac on g6 I guess but not sure there's enough follow up
+[19:01:47] ameyer: there's also Ng3 for black
+[19:02:03] ameyer: does Nc1 do anything?
+[19:03:18] val1313: Ameyer destroying his king side pawns on purpose as a statement to Prosti is a nice touch
+[19:07:05] feet_barbie: Or g6
+[19:07:21] feet_barbie: Just go all in anah
+[19:07:51] glennjamesmax: This is shocking stuff from President, but he's going to get away with it
+[19:08:36] glennjamesmax: he's just going to make obvious moves that don't immediately lose and that's probably going to be enough as this attack isn't so easy
+[19:09:07] ameyer: maybe I need to trade off and castle long and just admit  the attack failed
+[19:13:24] ameyer: idk it's the only thing I can think of that isn't passive
+[19:13:39] ameyer: trying to stay active in losing positions
+[19:14:10] glennjamesmax: To be fair, it's not at all easy and even I'm not sure. I had assume Ne4 but Zorak's bizzare Nh5 is very hard to refute
+[19:16:11] ameyer: maybe I can get a repetition with the h6 g6 checks
+[19:16:41] glennjamesmax: unfortunately, no you won't because if Bxe5 Qh5 g6 there would be Bg7 once you give the check
+[19:16:56] zorakforpresident: i hope there's not some clever mate by sacing on h7...
+[19:17:11] zorakforpresident: don't think so...but...
+[19:17:27] ameyer: missed that he has g3+
+[19:18:27] feet_barbie: Damn
+[19:18:42] feet_barbie: Just G6
+[19:18:42] ameyer: Bg3 Ke2 g6 Bxg6 hxg6 Qxg6 and maybe a repetition
+[19:18:57] feet_barbie: Yeah but g6
+[19:19:13] glennjamesmax: Bg3 would be counter-productive as the bishop can now block on g7
+[19:20:13] glennjamesmax: but actually Bg3+ and f5 might work
+[19:20:59] ameyer: but if he doesn't throw in the g3, then I guess I recapture on e5 and am just down a piece for a pawn with no compensation
+[19:21:29] ameyer: no it's worse than that bc he can block on g7
+[19:21:44] ameyer: geez
+[19:26:32] ameyer: and now I don't see how I can stop the queen from coming in
+[19:27:17] glennjamesmax: I can really empathize with ameyer quite a bit this game. More advanced versions of this have happened to me
+[19:28:03] ameyer: yup I'm cooked
+[19:28:03] glennjamesmax: Not being able to see moves other than ones that progress the game forward is a flaw I myself have
+[19:28:48] zorakforpresident: well played ameyer.  i thought f5 was bad, but then i thought you might show me it wasn't.
+[19:29:19] glennjamesmax: that was an insane game zorak
+[19:32:35] zorakforpresident: what?  when was it +4?
+[19:32:50] ameyer: I feel like I saw most of the moves for a few ply, but then couldn't evaluate the resulting positions well
+[19:33:05] zorakforpresident: it was +1 for a minute, admittedly.
+[19:33:05] ameyer: lol
+[19:33:21] ameyer: funny that the pros thought I was crushing and SF was like nope
+[19:33:36] zorakforpresident: But I don't think g4 is good after Nh5.
+[19:33:36] zorakforpresident: I have Nxf4.
+[19:34:36] ameyer: if you see what I was thinking, I had a really hard time deciding on g4
+[19:34:51] zorakforpresident: Reall...Ne5 (which aymeyer played) was the correct response to that.
+[19:37:23] zorakforpresident: I didn't really look at 12.Ne5 enough.
+[19:38:38] zorakforpresident: Then I guess the engine doesn't like 12...O-O either.  And I knew it was risky.
+[19:39:39] zorakforpresident: Well...anyway...
