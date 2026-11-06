@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/dF9HGtWK
+White     : mrmatt96
+Black     : castling-companion
+Time      : 45+45
+Captured  : 2026-11-06 16:55:24 UTC
+Game ended : 2026-11-06 15:35:14 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[13:08:49] castling-companion: so this is basically a sicilian. Rb8 was so I can play b6 without worrying about e5! by White
+[13:09:35] castling-companion: (10.a6) long term White can try for g4, f4, Ng3-Nce2 etc and kingside expansion
+[13:10:20] castling-companion: I could played it with e5 or c6-b6 setups closer to a Philidor or Ruy Lopez strucutre
+[13:11:51] castling-companion: (10.a6) if he plays Qd2, I ll hvae to think if I use the Tiviakov-Idea with Re8, so Bh6 is answered by Bh8
+[13:12:21] castling-companion: or exd4, so he cant expand on the Kingsside
+[13:12:52] castling-companion: Qc1 is strange. I dont see the advantage compared to Qd2, only d4 get weaker.
+[13:18:25] castling-companion: (12.Bb7) I hope I calculated e5 correctly
+[13:20:11] castling-companion: nah, what am I thinking. just Nx
+[13:21:11] castling-companion: so White has Bh6 plans. I think Bh6, Bx, Qx, b5! seems good.
+[13:22:12] castling-companion: (13.Bh6) yeah. I didnt really exploit the Qc1 inaccuracy , if it was even inaccurate if i play Bxh6 now
+[13:23:43] castling-companion: so maybe Nc5 and not take on h6 yet
+[13:24:28] castling-companion: (13.Bh6) I know the position with Qd2, so here Black can play e5 without the d6 pawn being an issue
+[13:27:30] castling-companion: (14.Kxg7) I like my position now. I ll play e5 soon and maybe even d5 or sometimes b5 as a pawn sac
+[13:31:17] castling-companion: (15.e5) Nf3 isnt possible, Ne2 losses tempi, Nb3, Nx, cx, b5 also looks fine for Black
+[13:36:20] castling-companion: so b5, ax, ax, b4, Ne6 is one idea
+[13:37:05] castling-companion: also Qc7, b4, Ne6. I am not worried about b4 in this case, as c2 become weak
+[13:40:37] castling-companion: 17.Rfd1 ok, i thought Rad1, bc White can try for f4. One classic plan is Bc6-Qb7
+[13:42:08] castling-companion: 17.Rfd8 just bc i need more time to see if  Bc6 is correct and Rfd8 wont lose anything.
+[13:42:23] castling-companion: maybe Rfd8 was imprecise, and Bc6 was correct.
+[13:45:56] castling-companion: (17.Rfd8) now my Q is free for Bc6-Qb7. Also the Rb8 belogns on c8 in the long run
+[13:46:26] castling-companion: in this position d6 isnt really weak, bc White cant easily pressure it further
+[13:46:56] castling-companion: if anything very bad happens, i have Ne8 as a backup
+[13:48:57] castling-companion: (18. Rd2) yeah, but Bc6 and no Rad1?
+[13:50:13] castling-companion: (18.Bc6) now I dont see a great plan for White here. b3 is just weakening c2 forever.
+[13:52:29] castling-companion: (19.g4) missed g4. The idea is Ng3 to protect e4. Is h6 stopping g5 needed?
+[13:53:45] castling-companion: Ne6, g5, Nh5 is a dream, but Ne6, Nd5 is annoying!
+[13:55:01] castling-companion: (19.h6) time-based-decision. b5 was standard--> meet an attack with an attack on the other side.
+[13:55:31] castling-companion: but b5, g5, Nh5 what do I know. Looks great for White on first sight.
+[13:56:47] castling-companion: now any Nf5+ i can just take and play Nf4, everything is safe there.
+[13:57:32] castling-companion: (20.Ne6) maybe b5 next.
+[13:58:02] castling-companion: if now Nd5, Bx, px, Nf4 yes my LSB is gone but the f4 knight makes up for it
+[13:59:33] castling-companion: I allowed him Rad1 now, but a knight/knife on f4 looks too strong
+[14:00:49] castling-companion: given the chance I ll play Nd7-Nc5 --> Nf4 or e5 and then Nce6
+[14:01:19] castling-companion: he wont allow it with Rad1 putting pressure on d6 in time
+[14:02:20] castling-companion: (20.Ne6) Nce2 is a thought. bc Black plays b5 anyway.
+[14:08:53] castling-companion: He has the surpurvlous knights as Dvoretsky call then Ne2-Nc3 looking at each other.
+[14:09:09] castling-companion: so Nd5 really makes sense for him. I didnt play this accurately
+[14:09:54] castling-companion: bc Nd5, Bx, ex Nc5 isnt that amazing + I will have the bad knights ;-)
+[14:10:55] castling-companion: actually the more I think about it-- Nfd7  doesnt make any sense
+[14:13:26] castling-companion: (21.Nd7) when f4, ex, Nx, Nx, Qx, Ne5! looks fine
+[14:17:13] castling-companion: after f4, Qc5 the Q-trade would help me. No KS-Attack
+[14:20:15] castling-companion: (23.Nf8) Ng5, h4, Nh7, g5 and the knight is dead, so that was the only option.
+[14:21:01] castling-companion: after Nh7-Nf6 back its probably still ok, bc the position is closed and tempi dont matter that much here
+[14:21:31] castling-companion: (23.Nf8) Rd8 is now misplaced, either Re8 stopping f4 or Rdc8 playing on QS
+[14:22:16] castling-companion: f4 would be a mistake here for White i think
+[14:25:48] castling-companion: (24.Qc5) after Qx, bx the 2knights are better than the B+N for White
+[14:34:38] castling-companion: ufff Na5, Ra8, b4!! I thought I have Nb6, but just Qxb5
+[14:35:09] castling-companion: maybe I can play around the N on c6 if it lands there
+[14:35:09] castling-companion: but this is annoying.
+[14:38:56] castling-companion: I can sac a pawn with 28.Nc5
+[14:43:44] castling-companion: 30.Nd3 wow. He just sacs the exchange, why?
+[14:45:45] castling-companion: ok so after c3 he wants Nb4-Nc6.
+[14:45:45] castling-companion: I was thinking b4 then I wanted to prevent f4
+[14:46:15] castling-companion: I played Re8 too quickly. b4 was ofc right. now its tricky
+[14:47:16] castling-companion: even b4 now is better for me: b4, bx, Rx, Nx, Qx and Nd7-Nc5
+[14:50:02] castling-companion: so my argument is: he get Nc6. But what is the knight doing there
+[15:00:39] castling-companion: (36.Nh7) Ng5 and Nf3 tricks. So after Na5, Rc7, Nc6, Ng5 he cant take on b5
+[15:16:18] diecast_illusion: Go matt
+[15:30:26] castling-companion: the Nxd5 trick didnt work, but it was a really good try!
+[15:30:41] castling-companion: especially c4, I only calculated Rxf6 endgame which was winning
+[15:31:42] castling-companion: the most evil move is Ne4 i guess
+[15:32:27] castling-companion: with a mate threat
+[15:32:42] castling-companion: ofc Rxf1 and Rb1 is winning
