@@ -1,0 +1,23 @@
+Lichess game chat log
+Game      : https://lichess.org/JBNA3oMF
+White     : antazhi8
+Black     : sylvlondon
+Time      : 45+45
+Captured  : 2026-11-06 21:07:43 UTC
+Game ended : 2026-11-06 19:47:33 UTC
+Messages  : 13
+────────────────────────────────────────────────────────────
+
+[18:34:21] inter-temporal: (1.d4) go antazhi8!
+[18:35:52] kygreek: Go antazhi!
+[18:56:49] joonaf: go sylvlondon!
+[19:03:53] sylvlondon: classical grunfeld ending. I think i will try to exchange the rook then brig the king to push a and b.
+[19:27:07] sylvlondon: Looks like I win an exchange. I already did this trick in a blitz game.
+[19:29:53] sylvlondon: well I missed Bf6 ...
+[19:35:42] sylvlondon: there is no way to push this ending ... dead draw.
+[19:48:04] sylvlondon: ouch the bishop ending is not a clear draw ?!
+[19:48:34] antazhi8: interesting
+[19:49:04] sylvlondon: You could have played a few move
+[19:49:19] antazhi8: yeah, i got another game tonight i need to prep for, then an otb tourney tomorrow
+[19:50:35] antazhi8: my thoughts of making progress were to attack the a-pawn, but I'd have to trade the bishops or open c6 square for my king
+[19:53:21] antazhi8: I think the engine eval is too low depth
