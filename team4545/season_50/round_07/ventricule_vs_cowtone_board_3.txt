@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/XzFN4QGy
+White     : ventricule
+Black     : cowtone
+Time      : 45+45
+Captured  : 2026-11-06 20:14:03 UTC
+Game ended : 2026-11-06 18:53:53 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[17:05:20] goldenretrieverchess: Go cowtone!!
+[17:07:36] ventricule: 4. ... Nf6 is not critical IIRC
+[17:14:10] joonaf: Go cow!
+[17:52:47] cowtone: white's pawn structure is better for sure
+[17:56:04] cowtone: 15.. not counting critical moves, i have to focus
+[18:07:10] cowtone: i would like to resign but have to try
+[18:29:23] inter-temporal: (25.Bf2) "like to resign"? but you still have a N!? and other pieces.
+[18:31:40] cowtone: 9.. was prob a mistake, should have played Nc6
+[18:32:40] inter-temporal: (25...g5) we get it. it hurts
+[18:33:11] cowtone: vibe chessing now, not a good idea
+[18:33:56] inter-temporal: (27.gxf4) gl both!
+[18:55:54] cowtone: gg, looks like there were many things that i missed
+[18:56:24] ventricule: The 22. Bxa7 blunder is very instructive
+[18:57:09] ventricule: stockfish gives the two queenside pawn for opposite colored bishop activity
+[18:57:40] cowtone: that can't be a draw, i think, with two passed and connected pawns
+[18:58:10] goldenretrieverchess: gg
+[18:58:10] ventricule: my f4 panw is doomed in that line, and then very hard to escape perpetual
+[18:58:40] ventricule: what a defense
+[18:58:55] cowtone: thank you, sometimes brain is not there to focus
+[18:59:41] cowtone: i guess your black side squares would have been so weak that i could have forced a perpetual or something?
+[18:59:41] ventricule: I guess so
+[19:00:11] ventricule: your g5 counterplay was quite good though
+[19:00:41] ventricule: I wanted to have everything under control but this was impossible
+[19:01:26] cowtone: i should have aimed for opposite colored bishop end game, there were drawing chances
+[19:01:42] ventricule: I tried not to let you get there
+[19:02:27] cowtone: bf3 - be2 - bd3 was a nice finish, saw the idea earlier
+[19:02:27] ventricule: In the opening, 4. ... Nf6 is very comfortable for white I find
+[19:02:42] ventricule: even though the computer is not impressed
+[19:02:42] ventricule: the critical line is 4. ... e6
+[19:03:58] cowtone: i knew 4 first moves
+[19:03:58] ventricule: 22. Qxb7 was the surgical move, I saw it just after capturing the knight
+[19:04:43] cowtone: maybe i will play 4.. e6 whenever i face this bird opening, which is like once a year :)
+[19:05:13] ventricule: that's the point of playing fringe openings, even if your opponent is prepped they forgot the prep
+[19:05:44] ventricule: your line with 4. ... e6 is the absolute top computer line though
+[19:06:29] cowtone: after 20.. i felt like it was completely over, qxb7 and i would have resigned probably
+[19:06:59] cowtone: i don't believe in opening prep, but sometimes it would come in handy
+[19:07:14] ventricule: yeah at move 20 your position looked catastrophic to me
+[19:07:29] ventricule: though you did manage some counterplay
+[19:08:00] ventricule: alright, thanks for the game, and good luck for the rest of the league
+[19:08:15] cowtone: i feel like i have issues if i get a worse position, it is really difficult to calculate when being worse
+[19:08:30] cowtone: likewise
+[19:08:30] cowtone: gg
