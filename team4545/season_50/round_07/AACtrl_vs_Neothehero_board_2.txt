@@ -1,0 +1,128 @@
+Lichess game chat log
+Game      : https://lichess.org/SQ8yvMxs
+White     : aactrl
+Black     : neothehero
+Time      : 45+45
+Captured  : 2026-11-07 21:43:10 UTC
+Game ended : 2026-11-07 20:23:00 UTC
+Messages  : 118
+────────────────────────────────────────────────────────────
+
+[18:07:27] aactrl: (5...Be7) they all do 5...c6, does this mean I should take on d5?
+[18:09:28] aactrl: (6...O-O) Nh4 possible here?
+[18:13:00] aactrl: (6...O-O) I never do that before castles, but why not?
+[18:14:31] aactrl: (6...O-O) Nh4 Bxb1 Rxb1 Ne4 Nf3 Bf6 hmm.. not great
+[18:17:17] aactrl: (7...c6) Nh4/Na3/d3/d4
+[18:21:20] aactrl: (8...Bg6) d3/d4/f4!?
+[18:23:36] aactrl: (8...Bg6) d3 Bh5 Bxh5 Nxh5 Qxh5 Bxh4 hmmm..
+[18:25:22] aactrl: (9.Nxg6) now open things up, or play on the light squares.. I'm very bad at this color complex shtick
+[18:28:24] aactrl: (10.d4) I don't see how to open up anything
+[18:29:09] aactrl: (10.d4) Nd2, Qc2, then e4 maybe
+[18:30:40] aactrl: (10.d4) 10...dxc4 bxc4 c5 bothers me
+[18:31:56] aactrl: (10.d4) dxc4 Nd2 cxb3 Qxb3 to check, I won't dare
+[18:33:27] aactrl: (10...a5) dxc4 bxc4 c5 Qb3?
+[18:35:58] aactrl: (11.Nd2) 11...a4!?? bxa4 Nd7 c5 b6.....
+[18:45:03] aactrl: (12...Rc8) c5 is often bad, but Rc8 and Na6 taunt me to do it
+[18:47:35] aactrl: (12...Rc8) Qc2 will meet c5
+[18:49:21] aactrl: (12...Rc8) I kick myself everytime I push c5, sigh
+[18:50:21] aactrl: (13.c5) it feels justified because b6?? Bxa6
+[18:51:07] aactrl: (13.c5) and Nc7 allows time for b4 or a4 or even Bc3
+[18:51:37] aactrl: (13.c5) is that how we open things up?...
+[18:52:07] neothehero: (13.c5) I'm happy with keeping the position closed
+[18:55:24] neothehero: (13.c5) b6 to open up the b-file seems reasonable
+[18:56:40] neothehero: (13.c5) Nb8 b4 b6
+[18:56:40] genturgidson: b6 just Bxa6 hangs the knight though?
+[18:56:55] genturgidson: I guess not immediately haha.
+[18:57:10] aactrl: (13.c5) Nc7 b4 Nb5, then what?
+[18:59:27] aactrl: (13...Nb8) b4/Ra2/Bc3
+[18:59:57] neothehero: (13...Nb8) I should be worse here
+[19:01:43] neothehero: (13...Nb8) b4 b6 bxa5 bxc5 a6 c4 Qa4 Qb6 looks like the a6 pawn would fall
+[19:01:58] aactrl: (13...Nb8) Bc3 b5!?.......
+[19:02:44] aactrl: (14.Bc3) I could close the queen side and work with e4
+[19:03:29] neothehero: (14.Bc3) Now b5 looks like a better move
+[19:03:29] aactrl: (14.Bc3) why do they give the bishop pair to me? pfffffff
+[19:10:48] aactrl: (15...Nbd7) new plan: b4, f3, e4, Rad1
+[19:18:38] aactrl: (17...Qc7) Qb2 to prevent e5? feels like overreacting
+[19:19:08] inter-temporal: (17...Qc7) would black want ...e5 here?
+[19:20:09] aactrl: (17...Qc7) e4 e5 Rae1 then.....?
+[19:20:39] lemuelgullible: I'm not sure black should go for e5
+[19:20:54] lemuelgullible: but to be fair I have no idea what exactly black should go for
+[19:21:24] lemuelgullible: e4 Nh5 maybe
+[19:21:55] lemuelgullible: e4 Nh5 g4 though
+[19:23:10] aactrl: (18.Qb2) pffff....
+[19:23:25] aactrl: (18.Qb2) I know it's bad but can't help it
+[19:27:58] aactrl: (18...Nh5) f4 or g4? feeling crazy
+[19:31:00] neothehero: (18...Nh5) please play g3, I only need a draw for the team
+[19:35:32] inter-temporal: (19...Nhf6) i think the next lessons in my new book have positions like this one
+[19:35:32] neothehero: (19...Nhf6) now white might play g4
+[19:38:04] neothehero: (20.Qc2)  ok now I really have no moves to play
+[19:38:19] feet_barbie: (20.Qc2) interesting christmas tree formation
+[19:39:20] inter-temporal: (20.Qc2) my book is not "new," but the 1990 version of a 1960 book, which even has a 2013 ed. as well
+[19:39:35] inter-temporal: (20.Qc2) is that an Inter-temporal chess book?
+[19:40:20] aactrl: (20.Qc2) I failed opening queen side, then failed in the center, now king side?
+[19:40:35] inter-temporal: (20.Qc2) next chapter: "More about active play with pawns..."
+[19:41:06] inter-temporal: (20.Qc2) there's still some things to wreck in the center here, no?
+[19:42:52] inter-temporal: (20.Qc2) i like Kf2-e1-d1-c1-b1-a2
+[19:44:38] aactrl: (20...Nh7) Nf3 or Rf3?
+[19:45:53] aactrl: (20...Nh7) or Bd3
+[19:46:24] inter-temporal: (20...Nh7) come on. who knows how to play this position?
+[19:47:55] neothehero: (21.Rf3) wow that's unexpected
+[19:49:41] aactrl: (21.Rf3) fantasy: h4 Bxh4 Rh3 then Kf2 and Rah1
+[19:50:41] aactrl: (21.Rf3) after 21...f5 I meant, otherwise g4-g5 then Rh3
+[19:53:43] inter-temporal: (22.Rh3) maybe a g4 break should be prep'd
+[19:54:43] inter-temporal: (22...Nhf6) ...Kf7 seems aproppos
+[19:57:15] neothehero: (23...Kf7)  I might not be worse anymore I feel
+[20:01:17] feet_barbie: (26.Nxe4) this gonna go crazy in time scramble
+[20:08:36] aactrl: (29.Qg2) 29.d5 to check
+[20:09:07] inter-temporal: (29.Qg2) black's in some trouble
+[20:09:22] aactrl: (29.Qg2) I allowed Bf6 like an idiot....
+[20:09:37] inter-temporal: (29.Qg2) yeh, that might help em defend
+[20:10:07] inter-temporal: (29...Bf6) lol. i thought it was white's move
+[20:12:24] inter-temporal: (30.Kh1) white generally plays well in scramble, ime
+[20:15:10] aactrl: (32.Be1) big mistake :(
+[20:16:11] aactrl: (32.Be1) oh, 32.Bh5+!???
+[20:16:41] inter-temporal: (32.Be1) nice
+[20:17:26] inter-temporal: (32...Qd8) although, maybe Ke8 is okay
+[20:18:57] inter-temporal: (33.Bh5+) (after the sac, i mean)
+[20:19:13] inter-temporal: (34.Rxg7+) here
+[20:20:28] inter-temporal: (34.Rxg7+) first ...Bxg7, maybe
+[20:20:43] inter-temporal: (34...Kf8) now this looks really dangerous
+[20:22:14] inter-temporal: (35...Bxg7) huh
+[20:22:29] inter-temporal: gg
+[20:22:45] aactrl: king side opened whoohoo!
+[20:23:15] inter-temporal: 33.lBh5+ was great move
+[20:24:00] inter-temporal: SF says it was best there.
+[20:25:01] inter-temporal: 29.d5 would have been fire on the board
+[20:25:46] neothehero: 29. d5 exd5 didn't look dangerous, no?
+[20:26:01] inter-temporal: for humans, probably
+[20:26:47] neothehero: but Bh5+ really took me by surprise
+[20:26:47] inter-temporal: because SF wants a R sac after that
+[20:26:47] neothehero: oh wo
+[20:27:02] aactrl: how did I miss 35.Rg8+
+[20:27:02] neothehero: engines are insane
+[20:27:02] neothehero: yeah I was fully expecting 35. Rg8+
+[20:27:17] inter-temporal: me too. lol
+[20:27:32] neothehero: and there might be a repetition, and I thought it was ok as I only needed a draw
+[20:28:02] inter-temporal: 29.d5 exd5 30.Qg2 is also good per SF
+[20:28:18] inter-temporal: so maybe somewhat human. idk
+[20:28:48] aactrl: I feared 29.d5 Bf6, but somehow didn't consider 29.Qg2 Bf6
+[20:29:18] inter-temporal: if black doesn't take, then 30.dxe6+ is the only mnove
+[20:29:48] aactrl: 29.d5 Bf6 dxe6+ Kxe6 Bc4+!! only move
+[20:30:03] inter-temporal: inhuman
+[20:30:03] inter-temporal: freakin SF.
+[20:30:19] neothehero: wow
+[20:30:34] neothehero: Bc4+
+[20:30:34] aactrl: so yeah that's why I didn't play d5
+[20:30:49] neothehero: if  you found that I would certainly resign lol
+[20:31:49] neothehero: ok don't spoil too many stuff here haha, I'm gonna analyse this game later
+[20:32:20] inter-temporal: if the chat got cut, do ya'll have the link to the full comments?
+[20:32:35] neothehero: wdym the chat got cut
+[20:32:50] neothehero: if it's gone too long?
+[20:33:20] inter-temporal: yeh
+[20:33:35] inter-temporal: lichess has a limit. but the league still has a link to full chat
+[20:33:50] inter-temporal: that's why i don't feel bad spamming the comments. lol
+[20:33:50] inter-temporal: https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545/season_50
+[20:35:06] inter-temporal: it loads every 2-3 hours
+[20:38:07] neothehero: nice
+[20:38:53] neothehero: I haven't looked at stockfish yet, but my guess is white was better since the start until 22...Nhf6, after that I felt that black was better
+[20:41:39] neothehero: btw good game, such a stressful game to play
