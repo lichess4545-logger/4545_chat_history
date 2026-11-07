@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/aZyzJMXH
+White     : patrickvrielink
+Black     : burner_account17
+Time      : 45+45
+Captured  : 2026-11-07 19:00:42 UTC
+Game ended : 2026-11-07 17:40:32 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[16:16:44] angborxley: Go Patrick!
+[16:16:44] karasso: (4...e6) Go Patrick!
+[16:16:44] suprascud: Go Champions !
+[16:16:44] burner_account17: (6...Nd7) no hangover today, no excuses
+[16:19:46] karasso: (14.Rac1) i really don't like,that white played b3.
+[16:21:17] karasso: (14.Rac1) the black bishop on f8, which is sometimes struggeling to find a good square, has now a3
+[16:22:02] karasso: (14.Rac1) and the bishop on a3 will be very good by controlling c1 which helps black to fight for the open c-file
+[16:22:32] ryune: 14... Rc8 Bxe7 Bxe7 Nxd5?! Rxc1 Nxb6 Rxf1 Kxf1 Nxb6 doesn't quite work for white sadly
+[16:23:33] karasso: (14.Rac1) in this type of structure, white normally goes a3-b4 or just leaves the pawns on b2 and a2/a3
+[16:24:18] karasso: (14.Rac1) if i am not wrong, it does work @ryune
+[16:25:04] ryune: I guess I miscounted the pieces a bit, it ends up being Rook and bishop for the queen which is good
+[16:25:04] ryune: But it wasn't played anyway :)
+[16:25:34] ryune: But yes, this position illustrates your previous point
+[16:27:50] karasso: (14...Ng6) not sure how to continue with white here
+[16:28:05] karasso: (14...Ng6) h4 seems to be to much
+[16:28:21] karasso: (14...Ng6) maybe Nd2 to play f4 Nf3 back and f5
+[16:29:36] ryune: Agree with f4-f5  plan
+[16:30:37] ryune: But need to solve the pin also (no dxe5 after Nxe5)
+[16:44:15] karasso: (16.Bd2) yes
+[16:45:00] karasso: (16...Qd8) here white can go h5, which is somewhat fine
+[16:45:31] burner_account17: (16...Qd8) black is undeveloped, but white has pushed some kingside pawns that potentially will introduce weaknesses.
+[16:46:16] karasso: (16...Qd8) i think black should have gone h5 themself
+[16:47:17] karasso: (17.g5) to get the f5 square for the knight
+[16:47:47] karasso: (17.g5) g5 is weird, you open the h-file for blacks rook and you give up the control over the important f5 square
+[16:50:33] karasso: (18.Bxg5) Be7 and the white h4 pawn is in huge trouble
+[16:51:34] karasso: (18.Bxg5) Be7 Nxd5 exd5 e6 looks fun, but should not work
+[16:52:04] karasso: (18.Bxg5) fxe6 would not be possible because of Qxg6+
+[16:53:20] burner_account17: (18...Be7) I think h4 pawn falls here?
+[16:55:36] karasso: (19.Qe3) Nxd5 exd5 e6 Ndf8 exf5 Kxf5 Qf5+ Kg8 was atleast sth to calculate
+[16:56:52] karasso: (19...Nxh4) exf7 Kxf7*
+[16:57:53] karasso: (19...Nxh4) Bxh5 Bxh5 Kg2 with Rh1 next seems like the way for white
+[16:59:39] karasso: (20.Nxd5) on the previous move Nxd5 was an idea, probably bad, but fun, here it is just losing i guess
+[17:07:28] burner_account17: (20.Nxd5) I did not consider this.. can't find anything concrete for white after exd5? central pawns are scary but idk how it shakes out
+[17:08:44] karasso: (21.e6) Nxf3+ Qxf3 Nf6 looks super safe for black
+[17:14:02] karasso: (22.Qxf3) maybe some hope for white with blacks time
+[17:16:48] karasso: (22...fxe6) Bxe7 Qxe7 Rc7 and black for the time being can't castle atleast. Also Nf6 is stopped
+[17:17:19] karasso: (22...fxe6) but it's ofc desparte.
+[17:18:35] karasso: (22...fxe6) Really don't understand why white playeed so fast Nxd5. I mean sure, white lost a pawn, but nothing to go crazy about, you are
+[17:19:05] karasso: (23.Bf4) not getting mated on the h-file. Just accept that you are down a pawn, and the game continues
+[17:19:20] karasso: (23.Bf4) bf4 allows 0.0
+[17:19:20] karasso: (23.Bf4) 0-0
+[17:19:35] karasso: (23.Bf4) or Nf6
