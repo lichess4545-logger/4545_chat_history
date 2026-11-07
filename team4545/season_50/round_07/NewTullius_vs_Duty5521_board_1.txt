@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/R4wPmwSw
+White     : newtullius
+Black     : duty5521
+Time      : 45+45
+Captured  : 2026-11-07 18:48:15 UTC
+Game ended : 2026-11-07 17:28:04 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[15:00:53] duty5521: [1. d4] lmao i prepped 1. e4 only
+[15:02:08] duty5521: [6. b3] This feels off-beat
+[15:09:13] duty5521: [8. Bb2] Basically, the Semi-Slav has one main issue that makes it heavy in theory: the light-squared bishop. I've been playing the ...
+[15:09:13] duty5521: ...Semi-Slave for a very short period and have not looked deeply into the theory, therefore this is going to be a very difficult game ...
+[15:09:13] duty5521: ...because I need to figure out a way to get my bishop out of its c8 grave.
+[15:11:59] duty5521: Also, I'm not very knowledgeable on what to even do here yet. I have a general idea but that's it.
+[15:20:19] duty5521: [8... e5] This looks kinda sketchy opening the diagonal for the bishop on b2, but it's better than having an inactive bishop.
+[15:23:36] duty5521: [9... Nxe5] Aw man my d5 pawn is hanging shoot
+[15:24:06] duty5521: [10... cxd5] Can't allow this tskk
+[15:26:38] duty5521: [11. O-O] I figured
+[15:29:24] duty5521: [12... Be5] I'm so lucky to have that, I didn't even see the Nb5 threat before playing e5
+[15:32:56] duty5521: [13. Na4] I'm not happy with my position but at least it's playable and it has gone better than my first time playing the Semi-Slav...
+[15:57:11] duty5521: [17... Qa3] This is an awful position to play, I can't find any play at all
+[15:57:41] duty5521: One can only hope to win
+[15:59:12] duty5521: 17... Nd7 was looking like a move, but there was no point behind it
+[16:02:14] king12-life: yeah this is painful
+[16:07:17] duty5521: [18... b6] Well, I'm dying so why not have an exciting death instead of a slow and painful one?
+[16:09:48] wave2679: This doesn't look that bad
+[16:10:34] duty5521: [20. Qe5] Oh, I was expecting Rd6... This is uh, worse for me
+[16:13:05] wave2679: I think Bxd5 is a move
+[16:13:35] wave2679: Nxe5 rxe7, exd5, rxe5
+[16:14:06] namegoesinhere: (21...Nd7) there is Rxd5 instead of exd5 for black there I believe
+[16:14:21] wave2679: Ah I missed that
+[16:34:48] duty5521: [30. a3] Not to be pessimistic, but this looks rather unpromising. I'm still going to play on for a bit but not promosing anything
+[16:54:45] grzybozbur: why not take e6 first?
+[16:54:45] grzybozbur: black can now defend it
+[16:55:00] grzybozbur: wasn't that a free pawn?
+[17:06:22] grzybozbur: 40.re5 free pawn?
+[17:27:19] grzybozbur: it feels like black is doing all white's work in this endgame
+[17:27:34] grzybozbur: first created a passer on h file, now cut off the king
+[17:27:49] guitarspider: gg
+[17:29:05] duty5521: I played poorly
+[17:30:35] duty5521: I mean, I wasn't in a great position for the start but I could've done better
+[17:31:21] newtullius: I feel like it should've been a draw, don't think it was out of drawing range until the end
+[17:32:21] grzybozbur: once white got the second passer it felt like white must be winning somehow
+[17:33:52] newtullius: The position is quite simplified though so have to be precise
+[17:35:08] newtullius: oh wow we both missed loads in the endgame
+[17:36:38] newtullius: Move 35 was kinda silly
+[17:36:54] newtullius: I saw 40 Re5 but I think he can flick in a check
+[17:37:54] newtullius: But in hindsight probably it's best
+[17:38:40] newtullius: Anyways interesting game, thanks!
+[17:43:12] grzybozbur: i thought 40.re5 rg1 kf3 kf6 ke3 and the king can go to the queenside
+[17:43:27] grzybozbur: but sf says there's rd1
