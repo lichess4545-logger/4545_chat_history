@@ -1,0 +1,232 @@
+Lichess game chat log
+Game      : https://lichess.org/MbqT5Exn
+White     : fierolocchio
+Black     : gavalanche20
+Time      : 45+45
+Captured  : 2026-11-07 09:24:01 UTC
+Game ended : 2026-11-07 08:03:52 UTC
+Messages  : 222
+────────────────────────────────────────────────────────────
+
+[05:35:38] gavalanche20: (2...Nc6) Expecting some Nc3-Bb5 system
+[05:35:38] gavalanche20: (3.f4) Hey nyanners
+[05:35:38] gavalanche20: (3.f4) Oh this is not the Nc3-Bb5 system
+[05:36:08] gavalanche20: (3.f4) I was gonna go on some spiel about how I enjoyed the Grand Prix as White but didn't love the Nc3-Bb5 positions but we will
+[05:36:24] gavalanche20: (3.f4) Save that I guess
+[05:36:39] gavalanche20: (3...g6) Hi Kamagayajiji
+[05:36:54] kamagayajiji: Hi all!
+[05:37:09] gavalanche20: (3...g6) But yeah way back in my London days a book that showed the Grand Prix was one of the things that led be back to 1. e4
+[05:37:09] gavalanche20: (4.Nf3) So definitely have a bit of a soft spot for the GP
+[05:38:25] gavalanche20: (5.Bb5) Opp came across as being decently well prepared so not getting crushed in the opening would be nice
+[05:38:55] gavalanche20: (5...Nd4) So far so standard, Nd4 because allowing Bc6 is often good for White here
+[05:39:56] gavalanche20: (5...Nd4) Was kinda nodding off in the build up to the game but puzzle streak kinda got the brain juices going
+[05:40:11] gavalanche20: (6...cxd4) Until I hung my queen at 40 lol
+[05:40:56] gavalanche20: (7.Ne2) Ok so what's the play here
+[05:42:12] gavalanche20: (7.Ne2) So the main idea I assume is White wants to go e5 and grab the pawn
+[05:43:28] gavalanche20: (7.Ne2) What happens on Nf6 I'm curious, Nd4 Ne4
+[05:43:43] gavalanche20: (7.Ne2) Any d3 loses the bishop, so e5 Nd5 hitting f4 how does White react
+[05:46:29] gavalanche20: (7.Ne2) Nf6 e5 Nd5 Bc4 does not inspire confidence
+[05:46:29] gavalanche20: (7.Ne2) So we pick a sane move, now is that e6 or Nh6
+[05:49:16] gavalanche20: (7...a6) a6-b5 d6 makes a decent amount of sense
+[05:49:31] gavalanche20: (7...a6) I'm slightly sad because I can't hope chess against some d4 Qa5+ fork anymore after this
+[05:51:47] gavalanche20: (9.Bb3) I guess Bb7 e5 d6 is a move
+[05:52:17] gavalanche20: (9.Bb3) Oh wait I'm thinking of some other thing there I go Bg2
+[05:55:04] gavalanche20: (10.d3) Ok now we pick between e6 0-0 Ne7 e5 knight move/d6 or d6 immediately
+[05:55:50] gavalanche20: (10...e6) Blunting the bishop makes a lot of sense
+[05:56:05] gavalanche20: (10...e6) No e5 immediately because g2 still hangs
+[05:58:51] gavalanche20: (11...Ne7) I think I have adequate plans against either e5 or f5 but see that's the thing with the Grand Prix
+[05:59:06] gavalanche20: (11...Ne7) You're fine unntil you hang mate
+[06:00:07] gavalanche20: (12.Qe1) Ah yes the classic maneuver
+[06:01:53] gavalanche20: (12.Qe1) Alright what happens if I castle here
+[06:03:24] gavalanche20: (12...O-O) Qh4 Nc6 and take the endgame I'm thinking
+[06:03:54] gavalanche20: (12...O-O) e5 probably Qb6-c6, f5 gets real messy
+[06:05:55] gavalanche20: (12...O-O) Ohey Scribs
+[06:06:56] mrscribbles: (12...O-O) johey ogav
+[06:07:26] gavalanche20: (13.g4) Oh dang ok
+[06:08:26] gavalanche20: (13.g4) Ngl the first move that comes to mind is f5
+[06:10:12] gavalanche20: (13.g4) g5 gf5 gf5 ef5 Nf5 and argue who's really the one attacking here
+[06:12:29] gavalanche20: (13...f5) e5 initially thought fg4 Nd4 Qb6 but what if Qb6 first instead with some Qc6 ideas?
+[06:17:32] inter-temporal: (15.Ng3) go gavalanche-6-7!!
+[06:18:17] gavalanche20: (15.Ng3) Ah there are some lines where White takes everything on f5 then sacs on e6
+[06:18:47] gavalanche20: (15.Ng3) So I guess that's a further point for my main candidate move which was Qb6
+[06:18:47] gavalanche20: (15.ng3) hey it
+[06:19:18] gavalanche20: (15...Qb6) Now ef5 I am wondering if it's possible to get cute with Qc6?
+[06:19:33] invinci7777: go gav!
+[06:20:03] gavalanche20: (15...Qb6) ef5 Qc6 Rf2 and now Nf5 has a touch of extra poison because knight can no longer recap on f5
+[06:22:04] invinci7777: looking tough for white
+[06:27:52] inter-temporal: (16.Bd2) tough choices
+[06:30:39] gavalanche20: (16.Bd2) Calculating Ng6 ef5 Qc6 Rf2 Rf5 again playing on Ng3 protecting h1
+[06:32:55] gavalanche20: (16.Bd2) I can also play a5 not committing anything on the wside but also forcing White to do something because of the a4 threat
+[06:34:11] gavalanche20: (16.Bd2) Although a4 a3 does that really do anything other than give me an extra thing to have to think about before moving Qb6
+[06:35:57] gavalanche20: (16...a5) Let's do it anyway because I don't want the bishop to come to b4 and trade for Ne7
+[06:36:27] gavalanche20: (16...a5) And then maybe the answer is a3 Rf6-g6
+[06:37:43] gavalanche20: (17...b4) Oh was White's point Bc4-b5 is now possible?
+[06:37:58] gavalanche20: (17...b4) that's kinda cool if true
+[06:41:30] gavalanche20: (18.Kf2) He wants to go Rg1-Nh5?
+[06:44:32] mrscribbles: (19.Rg1) Just checking back in now. Who vacuumed up all the g-pawns?And why did they still castle short? :sweat-smile:
+[06:45:02] mrscribbles: (19...fxe4) I see now. White just decided to go hog wild. Nice
+[06:45:17] mrscribbles: (19...fxe4) Is this like a GPA?
+[06:45:17] mrscribbles: (19...fxe4) Yes GPA
+[06:45:33] gavalanche20: (19...fxe4) I thought there wasn't time to play Nh5 here specifically
+[06:46:33] gavalanche20: (19...fxe4) Nh5 e3, but what if recapture
+[06:47:19] gavalanche20: (19...fxe4) I had either Ng6 or Qc5 stopping Nh5 and preparing e5
+[06:47:19] gavalanche20: (19...fxe4) Wait that doesn't prepare e5 I need to unpin first
+[06:47:49] mrscribbles: (19...fxe4) exf5!
+[06:48:04] mrscribbles: (19...fxe4) Pushing g4 was a bit deranged, I won't lie. But I"m here for it
+[06:54:38] inter-temporal: (20.Qxe4) i'm just downloading games from my book to a study...
+[06:54:53] gavalanche20: (20.Qxe4) Ah for some reason I didn't consider this until a minute or two ago but I was looking at Qc7 and depending on where Q goes
+[06:54:53] gavalanche20: (20.Qxe4) Rf4 might be a thing
+[06:55:53] gavalanche20: (20.Qxe4) Like for example Qc7 Qe1 Rf4! definitely works, Qe2 I'm not sure yet
+[06:59:56] mrscribbles: (21.Qe2) Qc5!
+[06:59:56] mrscribbles: (21.Qe2) Qc6 I mean
+[07:00:11] mrscribbles: (21.Qe2) No way white sees the mate twice in a row
+[07:00:11] mrscribbles: (21.Qe2) no chance
+[07:00:41] gavalanche20: (21.Qe2) Ah Ng6 f5 Rf5!
+[07:00:56] mrscribbles: (21.Qe2) Qc6!
+[07:01:26] inter-temporal: (21...Ng6) he's plowing a road to h2, i think
+[07:01:26] gavalanche20: (21...Ng6) Nh5 not sure but probably Bh6
+[07:05:29] gavalanche20: (22.Nh5) The thing that makes me uneasy is Bh6 Be6
+[07:06:44] gavalanche20: (22...Bh6) I think I survive but if I don't then GGs to opp
+[07:07:15] invinci7777: i like Raf1
+[07:07:15] gavalanche20: (22...Bh6) Be6 de6 Qe6 Kh8 Rg6 hg6 Qg6 Qh7
+[07:10:01] gavalanche20: (22...Bh6) Next move I think is Rf5 and double?
+[07:10:47] inter-temporal: (23.Raf1) sounds good
+[07:11:02] inter-temporal: (23.Raf1) or Rf7
+[07:11:02] invinci7777: I think white king is rescued now and black king will be attacked
+[07:12:48] inter-temporal: (23.Raf1) lots of lines
+[07:15:34] invinci7777: Bxe6 now may work
+[07:15:50] gavalanche20: (23...Rf5) I didn't see more than a draw after taking everything on g6 and I hadn't fully worked out g6 sacs there
+[07:16:05] gavalanche20: (23...Rf5) I don't know why I didn't give Kh8 more thought come to think of it
+[07:17:51] invinci7777: i think at least a draw is there for white after Bxe6
+[07:17:51] invinci7777: may be a win also
+[07:18:06] invinci7777: i would do it
+[07:18:21] inter-temporal: (23...Rf5) wonder if it would work better with Rxg6+ first
+[07:19:22] invinci7777: but then pawn defends rook on f5
+[07:19:22] invinci7777: so better was first bxe6 imo
+[07:19:52] gavalanche20: (24...Raf8) i am thihnking Ng3 I sac the exchange
+[07:21:08] invinci7777: now it dosnt work
+[07:21:23] invinci7777: so run further away with king I would say
+[07:22:23] invinci7777: losing f4 might even be better for white as its restricting own pieces
+[07:22:38] inter-temporal: (24...Raf8) maybe R8f7, then Kf8-e8-d8-c8-b8-a8-08
+[07:23:24] gavalanche20: (25.Ng3) At the same time I don't see the followup
+[07:24:40] inter-temporal: (25.Ng3) ...R5f6 if Ne4 Rf5 again
+[07:25:10] invinci7777: but after r5f6 white will play f5
+[07:25:25] gavalanche20: (25...Rc5) No it's too speculative
+[07:25:25] inter-temporal: (25...Rc5) there's one of those "lines" the c-file
+[07:25:55] gavalanche20: (25...Rc5) But maybe there's a world where I do it on c2
+[07:26:26] inter-temporal: (25...Rc5) gava's world
+[07:26:41] gavalanche20: (25...Rc5) Basic chess, 4 attackers 2 defenders there's no need to rush on f4 and e5 shouldn't work yet
+[07:26:56] gavalanche20: (26.f5) Oh...?
+[07:27:11] inter-temporal: (26.f5) now f5 is not so good. better for black after Ne4 when there's only 1 defender
+[07:27:26] inter-temporal: (26.f5) i mean f5 is not so good for black
+[07:27:26] invinci7777: y
+[07:27:41] invinci7777: yeah
+[07:27:41] invinci7777: its looking bad for black
+[07:28:12] inter-temporal: (26.f5) after Ne4 Rf6, f5 seems like it dropped a pawn. idk
+[07:28:12] gavalanche20: (26.f5) Oh I see there's no pin in the end after Re4 Ne4
+[07:28:42] gavalanche20: (26.f5) Buttake d2 with check and then f5...?
+[07:28:57] inter-temporal: (26...Re5) but now the white Q can also support f5, can't she?
+[07:29:12] inter-temporal: (26...Re5) maybe not quick enough
+[07:29:43] inter-temporal: (26...Re5) Ne4 is compelled then Rxf5
+[07:30:13] inter-temporal: (27.Ne4) and there's a check on d2
+[07:30:28] inter-temporal: (27.Ne4) holy sharp position batman
+[07:30:28] invinci7777: have to insert Bxd2+ also as its hanging
+[07:32:14] inter-temporal: (28...Rexf5) gava must be breathing a sigh of relief. but don't nap too soon!
+[07:32:44] inter-temporal: (28...Rexf5) he's got ...Qxh2+ after trades
+[07:33:15] inter-temporal: (28...Rexf5) maybe. :)
+[07:34:45] gavalanche20: (29...Rxf5) Was worried about Ng3 first but this way f-file control is good
+[07:36:16] inter-temporal: (30.Kd1) f4 & e3 are weak. might want to take the horse...
+[07:39:03] inter-temporal: (30...Qe5) it's sooo far past my bedtime. lol
+[07:39:33] gavalanche20: (30...Qe5) Oh this was probably not correct, I thought I had Ng3 Bf3
+[07:39:48] gavalanche20: (30...Qe5) Nvm I trolling I do
+[07:40:04] inter-temporal: (30...Qe5) lol
+[07:40:04] gavalanche20: (30...Qe5) I thought Ng3 hit my queen for two seconds
+[07:40:19] inter-temporal: (30...Qe5) that's an illegal hit
+[07:41:19] inter-temporal: (31.Kc1) is d5 smth
+[07:41:19] inter-temporal: (31.Kc1) the Q is undefended
+[07:41:50] inter-temporal: (31.Kc1) ah. Ng3. lol
+[07:42:20] invinci7777: yeah but still seems good
+[07:42:20] invinci7777: blunts the lsb
+[07:42:35] inter-temporal: (31.Kc1) i think it picks up a pawn too
+[07:43:05] invinci7777: yeah rf2 after
+[07:43:05] inter-temporal: (31.Kc1) and black's lsb hits all the way to h1
+[07:43:20] invinci7777: should be good endgame 2 pawn up
+[07:45:22] inter-temporal: (31.Kc1) downside i'm seeing d5 blocks our lsb from hitting anything
+[07:45:22] inter-temporal: (31.Kc1) block's black's lsb
+[07:46:22] mrscribbles: (31...Kh8) server resets in three mintes :eyes:
+[07:46:37] inter-temporal: (32.Kb1) i can understand being tired of all the pins for the last 2 hours
+[07:46:53] mrscribbles: (32.Kb1) hi tempy
+[07:47:08] inter-temporal: (32.Kb1) hello to the skribowl
+[07:48:08] mrscribbles: (32...Rf4) inter-temptibbles
+[07:48:39] invinci7777: rg5
+[07:48:39] mrscribbles: (32...Rf4) The server reset didn't nuke the game. Kind of disappointing
+[07:48:54] inter-temporal: (32...Rf4) Masterskrap-apples
+[07:49:31] invinci7777: then qh5
+[07:49:47] invinci7777: black might hav allowed some comeback chance
+[07:50:33] invinci7777: rxf5
+[07:50:48] inter-temporal: (34.Rg1) he can probably still play d5. lol
+[07:51:03] inter-temporal: (34.Rg1) a second lichess countdown?
+[07:51:33] inter-temporal: (34.Rg1) one more chance for an extinction level event
+[07:52:49] inter-temporal: (34.Rg1) can't connect.
+[07:52:49] inter-temporal: (34...Bxe4) lost cabin pressure
+[07:53:19] invinci7777: another countdown
+[07:53:19] mrscribbles: (34...Bxe4) Ugh hate when we get a reconnection tsunami
+[07:53:34] inter-temporal: (34...Bxe4) please use ur seat cushion as a flotation device. or else you will certainly die
+[07:53:50] inter-temporal: (35.dxe4) assume the crash positions. and for the love of god, be sure your sealt belt is fastened.
+[07:54:35] mrscribbles: (35...Rh5) I think I'd rather drown than use 86,000people's butt receptacles as a life saver
+[07:54:50] inter-temporal: (35...Rh5) it's not a choice. use it!
+[07:55:36] inter-temporal: (36.Qa6) this aint "Burger King". you don't get to "have it your way" today.
+[07:56:36] invinci7777: dangerous
+[07:56:36] invinci7777: allowing qc8
+[07:56:36] mrscribbles: (36...Qxe4) OK I'm off to sleep, good night, good luck gav, glhf both
+[07:56:51] invinci7777: gn
+[07:57:07] nyanners: im feeling this is going to be one really swingy graph
+[07:57:22] inter-temporal: (38...Kh6) nighty night
+[07:57:52] inter-temporal: (38...Kh6) okay. now we can all talk about him behind his back. lol
+[07:58:22] inter-temporal: (38...Kh6) i like Scribz. he's one of my favroite league members. :)
+[07:58:53] nyanners: mr scrabble? terrible
+[07:59:08] inter-temporal: (39...Rxh2) lol
+[07:59:23] inter-temporal: (39...Rxh2) sooo. here comes Bf5 , yeh?
+[07:59:23] inter-temporal: (40.Bb3) noo
+[08:00:08] nyanners: theyre both terrified. i love it
+[08:00:23] inter-temporal: (40.Bb3) i'd luve to negotiate a Q-trade, as black
+[08:03:06] nyanners: lmao what was that
+[08:03:06] inter-temporal: (41.Rd1) holy crap. my screen went completely psycho
+[08:03:06] invinci7777: what just happened?
+[08:03:06] nyanners: i thought white was going to flag
+[08:03:21] nyanners: it would be the weirdest thing ever
+[08:03:21] nyanners: gg xd
+[08:03:36] inter-temporal: i think white flagged and then unflagged, then traveled through a space-time worm hole or smth
+[08:03:52] nyanners: something like that
+[08:04:07] inter-temporal: gava, please don't ever do that again. k?
+[08:04:52] fierolocchio: yeah, I thought i'm better in the final position
+[08:04:52] fierolocchio: Kinda insane to play on with the update thingy though.
+[08:05:22] inter-temporal: +0.9 from SF, probably due to K-safety?
+[08:05:22] nyanners: this is the first time in a decade i see that happen
+[08:05:37] gavalanche20: Damn so the exchange sac on 29 still worked with the Q on e2
+[08:05:37] invinci7777: I thought the world was ending
+[08:05:37] inter-temporal: that was my first Lichess-zombie apocolypse
+[08:05:53] nyanners: it might still be
+[08:06:08] invinci7777: not soon hopefully
+[08:06:08] nyanners: dont just assume its safe
+[08:06:38] fierolocchio: crazy game, very complicated
+[08:06:38] inter-temporal: impossible positions
+[08:07:08] fierolocchio: It's crazy that it's possible to play with King on g8 for the whole game and nothing worked (or at least I thought)
+[08:08:24] inter-temporal: ahh. 27.Bxh6
+[08:08:24] invinci7777: crazy
+[08:08:39] inter-temporal: what a swing from 27.Ne4
+[08:09:40] invinci7777: almost impossible for humans to consider Bxh6
+[08:09:40] inter-temporal: from (+5) to (-2) ? come on SF. indeed,  don't trust a computer...
+[08:09:40] gavalanche20: Lol says on my screen White offered five draws on move 41
+[08:09:55] invinci7777: i mean normal humans
+[08:10:10] fierolocchio: Bxh6?! wild stuff
+[08:10:10] gavalanche20: Other key moment was a bunch of places where I had d5 forcing the endgame but I thought Bb7 was too locked in in the end
+[08:10:25] invinci7777: says 6 draw offers
+[08:10:25] gavalanche20: Oh nvm it says 6 for me too I can't count
+[08:10:40] inter-temporal: yeh, i got six offers as well
+[08:10:55] inter-temporal: i mean, no one can decline a draw 6 times on one move.
+[08:12:56] inter-temporal: SF : "yeh mate. just sac ur Queen. we don't need her. she be fine, mate."
+[08:13:42] fierolocchio: On the other hand, I get a Bishop, rook and also the Knight for it. Kinda unfortunate to not consider it.
+[08:14:12] fierolocchio: Honestly, I only saw Re5 a little too late and moved in the consequence a little too quickly
+[08:15:12] inter-temporal: i didn't realize u get all that material for her. yeh. easy. lol
+[08:15:27] inter-temporal: k. nitey night
