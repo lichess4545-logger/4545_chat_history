@@ -1,0 +1,57 @@
+Lichess game chat log
+Game      : https://lichess.org/Pwlx3jb4
+White     : qudit
+Black     : sp1389
+Time      : 45+45
+Captured  : 2026-11-08 03:21:16 UTC
+Game ended : 2026-11-08 02:01:07 UTC
+Messages  : 47
+────────────────────────────────────────────────────────────
+
+[00:50:12] feet_barbie: (28.Qh4) rare game with 2 long side castles
+[00:53:59] gingersquirrelnuts: Joint longest castling in league history.
+[00:54:30] gingersquirrelnuts: Fun pawn action
+[01:28:33] feet_barbie: (36...Qc6) the cannon
+[01:31:20] inter-temporal: (37...Nd7) inverted alkhine's gun?
+[01:31:50] inter-temporal: (37...Nd7) when i do it, it's like i'm pointing alekhine's gun at myself
+[01:33:51] inter-temporal: (39.Re1) "always triple the heavies"--Capablanca
+[01:41:26] giziti: (41...Ba6) i don't know how to evaluate this
+[01:45:43] feet_barbie: (43.Qxd2) black looks decent
+[01:46:28] inter-temporal: (43.Qxd2) SF evals are often completely useless
+[01:47:14] giziti: (43.Qxd2) if i were white i think i' dbe trying to do sometihng on the kingside
+[01:47:44] inter-temporal: (43.Qxd2) FB evals are always infitely more helpful, imo
+[01:47:59] giziti: (43.Qxd2) but c4 just kind of dropped didn't it
+[01:50:00] inter-temporal: (43...Nxe4) !!
+[01:55:03] feet_barbie: (45...Qxc4) IT evals are best
+[01:55:33] feet_barbie: (45...Qxc4) also i lost to black recently they must be invincible
+[01:56:19] feet_barbie: (46.Nd4) wow
+[01:57:04] feet_barbie: (46...Qxd4) rc2 might be a problem
+[01:57:20] grzybozbur: suddenly eval looks easy
+[01:58:05] feet_barbie: (46...Qxd4) qxe3 ideas too
+[01:58:20] feet_barbie: (46...Qxd4) mmh
+[01:58:20] feet_barbie: (46...Qxd4) bxa6?
+[01:58:35] giziti: (46...Qxd4) Bxa6 Rc2?
+[01:59:21] giziti: (46...Qxd4) O
+[01:59:21] feet_barbie: (46...Qxd4) if only qxa6 qxb2 worked
+[01:59:51] giziti: (47.Rxe4) yeah i was looking at Rxe4
+[02:00:06] feet_barbie: (49...Qxe4) everything falls
+[02:00:06] giziti: (47...Bd3+) yeah...
+[02:00:06] inter-temporal: (49...Qxe4) gg
+[02:00:36] grzybozbur: in hindsight, white pieces have been looking awful for quite a while
+[02:00:52] sp1389: gg
+[02:01:22] feet_barbie: qxa6 qxb2 indeed mate
+[02:01:22] feet_barbie: gg
+[02:01:37] inter-temporal: FB's evals were correct, even SF agrees
+[02:02:07] sp1389: 47.Bxa6 Nd2+ 48.Ka1 Qxe3 wins wasily
+[02:02:37] sp1389: *easily
+[02:03:38] inter-temporal: tough choice after 15...b4
+[02:03:38] feet_barbie: yeah rc2
+[02:03:38] feet_barbie: i saw
+[02:04:23] sp1389: @Feet_Barbie when Rc2 ?
+[02:04:54] feet_barbie: 47 bxa6 simply rc2
+[02:05:24] inter-temporal: SF wants 16.Na4 and 17.b3 then Nb2 so the lsb can't take
+[02:05:54] sp1389: 47.Bxa6 my idea was 47...Nd2+
+[02:06:09] sp1389: but probably both are winning
+[02:06:24] feet_barbie: i guess many moves
+[02:06:24] feet_barbie: gg
+[02:06:54] sp1389: Thank you
