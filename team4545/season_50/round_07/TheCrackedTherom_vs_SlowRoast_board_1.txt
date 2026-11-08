@@ -1,0 +1,17 @@
+Lichess game chat log
+Game      : https://lichess.org/rzzgiSN4
+White     : thecrackedtherom
+Black     : slowroast
+Time      : 45+45
+Captured  : 2026-11-08 20:09:22 UTC
+Game ended : 2026-11-08 18:49:12 UTC
+Messages  : 7
+────────────────────────────────────────────────────────────
+
+[17:41:32] slowroast: wondering about ...Qf6. It holds off the e5-break and gets queens off the board. I think i'd be better in a pawn ending with my Qmajorit
+[17:44:49] slowroast: 21...Qd7 22.e5 d5 23.c4 doesn't look appealing
+[17:56:41] slowroast: ...Qf6 seemed to lead to a situation where my LSB was out of the game (f4 and f5 from white)
+[17:57:57] slowroast: i think anything other that e5 and I'm playing ...f6. I would've dropped the b7 pawn and been vulnerable to Ne5 tactic without moving Q
+[18:09:03] slowroast: rejected ...f6 because Nh4-f5
+[19:10:22] slowroast: I think 17...exd4 was the turning point. 17...f6 and maybe reroute the bishop to the c8-h3 diagonal looks like a better approach
+[19:14:40] slowroast: 12...f5 also looks like a better approach that the path chosen.
