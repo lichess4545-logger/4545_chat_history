@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/vmhnxr75
+White     : ryune
+Black     : antisana
+Time      : 45+45
+Captured  : 2026-11-08 20:30:41 UTC
+Game ended : 2026-11-08 19:10:30 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[17:29:31] angborxley: (1.e4) go Ryune!
+[17:29:31] karasso: (5...d6) go Ryune!
+[17:29:31] ryune: Not played or studied this for years, total surprise. Probably misplayed it already
+[17:29:31] ryune: intention is g4 Bxf4, but chances are I'm mixing up my lines and it's not even good here
+[17:29:31] ryune: g4 Bxf4 gxf3 Qxf3 Bxd4 0-0-0 Bxc3 Qxc3 Qf6 looks kinda bad, so I'm glad he went another route
+[17:29:31] ryune: I guess we'll never know
+[17:29:31] ryune: I know g3 is a move in some of these lines
+[17:29:31] karasso: (7...Ne7) g3 g4 Bxf4 looks fun
+[17:29:31] broncowideswinger: Not sure what other attacking ideas white has
+[17:29:31] broncowideswinger: f7 is forever weak, have to get at it now
+[17:30:16] ryune: I know I've studied similar structures with things like Bh3 here, but I can't be sure it's this exact position
+[17:38:51] broncowideswinger: Wonder what line white saw that he didn't like
+[17:39:36] broncowideswinger: Unless he planning on nxf3 now for laughs
+[17:42:08] ryune: Think I like h3 with the idea of meeting h5 with Bg5
+[17:54:15] ryune: Be3 h5 Nxf3 gxf3 Qxf3 perhaps
+[17:55:16] broncowideswinger: Stole my idea as usual
+[17:55:31] ryune: This position has the pawn on h5 instead of h6, which means he can't simply castle in response
+[17:56:01] ryune: gxf3 Qxf3 0-0 Bxf7+ Kh8 Qh5+
+[17:56:31] ryune: gxf3 Qxf3 0-0 Bxf7+ Rxf7 Qxf7+ is a perp at worst I think
+[18:00:34] broncowideswinger: I wonder if 13 Bxf7 had merit
+[18:01:34] broncowideswinger: For these kinda reasons
+[18:03:05] broncowideswinger: I guess Rd1 and make a cocktail
+[18:03:21] ryune: Think it has to be either the immediate Bg5 or Rad1
+[18:04:36] ryune: Bg5 Nxd4 is probably good for black
+[18:05:07] ryune: I never really mind Bxd4 so I think I'm inclined to sac the rook on Nxd4
+[18:05:22] ryune: After a future Bg5 that is
+[18:05:52] ryune: This also enables e5
+[18:08:23] ryune: e5 has to be the way forward here as white the more I look at it, unless he plays Bd7 I guess
+[18:12:41] ryune: Too... many... candidate... moves
+[18:14:27] broncowideswinger: Haha
+[18:15:58] broncowideswinger: If this is not completely lost for black I'll eat a can of dog food
+[18:29:21] ryune: Nxf5 Rde1 I think. Not decided on Bxf5 yet
+[18:32:23] ryune: Nxf5 Qd5 Qe7 works for black I think
+[18:37:41] ryune: g4 was my initial thought, but I hate giving him that file
+[18:41:28] ryune: too little time. If this is where I go wrong so be it
+[18:51:19] ryune: rxb qxq+ kxq rxf7
+[18:53:20] ryune: Somehow this slipped my mind though
+[18:54:51] karasso: (21...Nxf5) nxf5 Rf1 Nce7 should be just a extra piece for black
+[18:55:06] karasso: (22.Rf1) maybe Bg5 at the end
+[18:56:22] karasso: (22.Rf1) not so easy for black, also with no time
+[18:57:07] qrs: Very late to say this but go Ryune!
+[18:57:22] karasso: (22.Rf1) after Bg5 Rg8 is funny
+[18:57:53] karasso: (22.Rf1) also Rg8 here Rxf5 Bf6
+[18:59:24] qrs: But if Rg8 Qxf5?
+[19:00:24] karasso: (22...Ne7) oh, true
+[19:00:55] karasso: (22...Ne7) i guess Bf6+ would still be a draw there
+[19:00:55] qrs: (22 ... Ne7) this must be the safest for black though
+[19:01:25] qrs: Ye, king has to stay on g/h
+[19:01:55] qrs: It’s still tricky but what does white really have
+[19:02:41] ryune: simply lost, oh well. One big oversight is all it takes
+[19:02:56] qrs: (23 Ne4) Rg8 should work?
+[19:03:11] karasso: (23...Rg8) think so
+[19:03:11] karasso: (23...Rg8) and so does black
+[19:03:41] qrs: Qh5+ Kf8?
+[19:04:57] qrs: (25 Qh5+) anything wrong with Kd8 Nf7+ Kc8?
+[19:06:58] ryune: didn't even get to pla6 26... Ne3 Qxg7 Rxg7 Rf8+ Qe8 Nd6+
+[19:07:44] karasso: (26...Bxd4) that looks over
+[19:07:44] qrs: Haha, nice swindle attempt
+[19:07:59] qrs: But that was a lot of hope to have black allow that
+[19:07:59] qrs: Ye, it seems so
+[19:10:45] qrs: Didn’t even 28 ... Nxd4 work?
+[19:11:00] qrs: GG
+[19:22:51] angborxley: gg
+[19:52:21] karasso: gg
