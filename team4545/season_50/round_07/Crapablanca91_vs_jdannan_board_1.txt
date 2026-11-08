@@ -1,0 +1,53 @@
+Lichess game chat log
+Game      : https://lichess.org/6kCHQHd3
+White     : crapablanca91
+Black     : jdannan
+Time      : 45+45
+Captured  : 2026-11-08 22:46:11 UTC
+Game ended : 2026-11-08 21:26:00 UTC
+Messages  : 43
+────────────────────────────────────────────────────────────
+
+[19:31:50] squire_western: Go James!
+[19:31:50] squire_western: Lol, Crapablanca, hard to root against that guy
+[19:31:50] jdannan: (8...O-O) hi ev!
+[19:31:50] jdannan: (8...O-O) and LemuelGullible!
+[19:31:50] jdannan: (8...O-O) the lengths I go to, to avoid a boring boring London :-)
+[19:31:50] jdannan: (11.Qc2) I'm liking my unopposed bishop right now
+[19:37:23] squire_western: For White I was looking at 17. Rb1 with the threat of 18. Nxd6 Qxd6 19. Rxb7.
+[19:41:56] squire_western: The question is, why is that not just a free pawn on d5?
+[19:41:56] squire_western: Okay, Black says it is
+[19:42:11] squire_western: 19. Nxd6 must be White's idea, but does that work?
+[19:43:27] jdannan: (19.Nxd6) that's annoying i had seen that possibility but then just ignored it
+[19:44:57] jdannan: (20.c4) but isn't it ok due to the Be2?
+[19:44:57] squire_western: So if 19...Rxd6 20. c4 Bxc4 21. Qxd6 Qxd6 22. Rxd6 Bxe2 that looks okay
+[19:44:57] squire_western: for Black
+[19:45:13] squire_western: James and I on the same page, let's hope that minds that think alike are great
+[19:45:58] jdannan: (20.c4) no I lose a rook!
+[19:46:28] jdannan: (20.c4) for two pieces?
+[19:46:28] lemuelgullible: or you just give back the bishop?
+[19:46:59] lemuelgullible: oh Bf3?
+[20:00:52] squire_western: Hmm, I must be an idiot because it looks fine for Black after ...Bxc4
+[20:01:53] lemuelgullible: Bxc4 black woudl b up a pawn, right?
+[20:02:08] squire_western: I think so, after Qxc4
+[20:02:23] squire_western: If Qxd6 then Black gets two pieces for the Rook, I'm pretty sure
+[20:02:23] squire_western: So I think James may have seen a ghost here
+[20:02:23] jdannan: (20...Rad8) too many long lines and I was going round in  circles
+[20:02:53] jdannan: (20...Rad8) solid pawn up and nice position seems a reasonable option
+[20:03:08] lemuelgullible: I suppose black will still be up a pawn
+[20:03:08] squire_western: Sure, this is fine too
+[20:06:25] nightsub: Go Crapa
+[20:27:54] squire_western: If White can trade knights, then it looks like a draw. With knights on, perhaps Black can make something of their passed pawn.
+[20:30:25] squire_western: Here's my plan for Black: ...Ne4-d6, ...Bc3 (to dominate White's knight), then push the passer
+[20:30:41] squire_western: Oh, interesting. Now an outside passer for Black. I like it
+[20:31:56] jdannan: (29...c4) on the principle that the more remote pawn with very little hint of counterplay has to be a sensible option
+[20:33:27] jdannan: (30.Bc2) ah ok well now it's further forward :-)
+[20:38:45] squire_western: 31...c3 32. Bxa2 c2, wouldn't that have ended the game?
+[20:39:16] squire_western: I guess 32. Ne1 Nb4 wuld have transposed
+[20:44:04] jdannan: (35...Nd5) nice triple fork on c3
+[20:45:35] squire_western: Now this should be a technical win for Black
+[20:45:50] squire_western: (After 37...Nxb1+)
+[20:59:28] squire_western: 42...Kb2 should be gg
+[21:03:16] squire_western: 43...c3 44. Nb4 Be7 45. Nd3+ Kb1
+[21:28:46] jdannan: just the additional 40 moves then :-)
+[21:30:47] jdannan: Nc2 blockading was the defence there though....wasn't easy to shift
