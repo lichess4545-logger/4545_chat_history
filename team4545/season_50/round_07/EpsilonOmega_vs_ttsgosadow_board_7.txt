@@ -1,0 +1,81 @@
+Lichess game chat log
+Game      : https://lichess.org/tdMrUXde
+White     : epsilonomega
+Black     : ttsgosadow
+Time      : 45+45
+Captured  : 2026-11-08 22:49:48 UTC
+Game ended : 2026-11-08 21:29:37 UTC
+Messages  : 71
+────────────────────────────────────────────────────────────
+
+[19:46:35] timothyha: (1.e4) go, @ttsgosadow
+[19:46:35] ttsgosadow: (7...Qxf6) This is where I had prepped
+[19:46:35] timothyha: (7...Qxf6) looks combative
+[19:46:35] ttsgosadow: (7...Qxf6) now to think about next plans
+[19:46:35] ttsgosadow: (7...Qxf6) develop I guess, and pick a side to castle
+[19:46:35] epsilonomega: (8.Nf1) my opponent seem to be following the chessmood repetoire so I was able to do some prep Ne3 is good here
+[19:46:35] dadievid: white looks better imo (10)
+[19:46:35] dadievid: but e5 for black might shake up the centre, now its just a backwards pawn
+[19:46:35] ttsgosadow: (10.O-O) calculating e5, but I lose a pawn and unsure if its worth it
+[19:46:35] jfiras: (10.O-O) Good luck tss !
+[19:46:35] timothyha: (10.O-O) need to put pieces on better squares first, before opening up
+[19:46:35] epsilonomega: (10...Qg6) Bd3 Qh5 Be2 Rxf3 seems scary
+[19:46:35] timothyha: (10...Qg6) Rxf3 will happen but Black still needs to bring out the other rook
+[19:46:35] timothyha: (10...Qg6) are, the mate for now
+[19:46:35] timothyha: (10...Qg6) ahhh ^ :)
+[19:46:35] timothyha: (11.c4) Still play Qh5 now, or Ne7 ?
+[19:46:35] timothyha: (11.c4) Qh5... Rxf3 g3 I guess is the refutation
+[19:46:35] kyriakos1301: Let's go Epsilon!
+[19:46:35] timothyha: (11.c4) Ne7 would make a lot of sense here
+[19:49:52] epsilonomega: (11...Qh5) c5 Rxf3 xd6 should be fine
+[19:56:57] ttsgosadow: (12...Be7) couldnt get the attack working, losing tempo with my queen now
+[19:56:57] ttsgosadow: (12...Be7) Next time develop more before try-harding in
+[19:57:27] timothyha: (12...Be7) that's what I said earlier :-)
+[19:58:58] epsilonomega: (12...Be7) trying to trap the queen
+[20:02:45] epsilonomega: (12...Be7) Nd5 Qh6 Ng4 Qh4 g3 Qh3 and I dont see continuation
+[20:11:20] epsilonomega: (13.Ne5) oh the queen could just escape to e8 anyways
+[20:33:49] jfiras: imo the queen is doing nothing there, no other pieces to support it, e8 looks a good square for the queen and just develop your pieces
+[20:34:19] jfiras: 15.
+[20:34:49] timothyha: (16...Qf7) now we're ready for e5
+[20:35:04] timothyha: (16...Qf7) after Odyssey got home
+[20:44:56] ttsgosadow: (17...Nf6) If he takes with B, its his stronger Bishop, and I sstrengthen d5 pawn
+[20:47:27] jfiras: (19) Be6 and Ne4 are good options
+[20:47:42] jfiras: Ba6*
+[21:07:39] timothyha: All the centre is gone soon I guess
+[21:07:54] timothyha: For white with a bishop check
+[21:08:25] jfiras: oh looks good
+[21:15:29] timothyha: An ideal French endgame now
+[21:15:59] ttsgosadow: (33...e5) first rook endgame since ages
+[21:17:30] ttsgosadow: (34...Kf7) d-pawn is my best chance to queen I think
+[21:17:30] ttsgosadow: (34...Kf7) need to get king involved
+[21:17:45] ttsgosadow: (34...Kf7) aandd makee aa ssetup where he canat penetrate
+[21:23:49] ttsgosadow: (37...Kf6) ah, that was ssilly, considerdd just aadvaancing e paawn, but wanted to get fancy, aand not watching tactics anymore
+[21:24:04] robertjackson: ooooh love this for black - if can get back rank mate
+[21:24:19] jfiras: 38... cool move
+[21:24:34] ttsgosadow: (38...Rxc5) looks like my opponent might maake a slipup here? either taakee iss mate
+[21:25:35] timothyha: If there is no perpetual and White is lost
+[21:25:35] robertjackson: white can go rf5+ rdt5+ Rf8#
+[21:25:35] mootivator: Now White needs to take the perpetual I guess
+[21:25:35] ttsgosadow: (38...Rxc5) bet TimothyHa is typing out the lines that I miss at move 1 (: but I will analyses them after, caaptain!
+[21:25:50] mootivator: Give checks on the fifth, if Black retreats, take on d7 with check firstg
+[21:25:50] timothyha: Need to hide on g8
+[21:25:50] timothyha: Not d8
+[21:27:06] mootivator: They won't get to hide, because (for example) 39...Kd7 is met by 40.Rxd7+ Kxd7 41.Rxc5 +−
+[21:27:06] robertjackson: cant get to g8
+[21:27:51] robertjackson: ah - yes they cab!
+[21:27:51] robertjackson: can
+[21:28:06] mootivator: line?
+[21:28:52] marco_chess13: Go ttsgosadow!
+[21:29:22] mootivator: either way, 38...Rxc5 was a nice half-point save
+[21:29:37] mootivator: uhm
+[21:29:52] jfiras: no worries tts, great fight
+[21:30:08] jfiras: gg !
+[21:30:08] epsilonomega: gg, got lucky here didn't see the backrank issue at the end
+[21:30:38] ttsgosadow: pff, I was so missing your simple tactic, my brain was on overdrivee
+[21:30:38] robertjackson: gg clever
+[21:30:38] ttsgosadow: You playedd reaally well!
+[21:30:53] marco_chess13: gg
+[21:30:53] ttsgosadow: Felt I had better endgame, then squaandered it right away
+[21:31:23] ttsgosadow: Totally misssed Rxe4
+[21:32:09] ttsgosadow: Then thought I could take your rook when I didnt get cheecked aanymore, but miscalced that (not enough time)
+[21:32:09] ttsgosadow: Again, great game! Lots to learn from
