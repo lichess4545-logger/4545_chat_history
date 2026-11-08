@@ -1,0 +1,34 @@
+Lichess game chat log
+Game      : https://lichess.org/zn3qmQMj
+White     : razorneck
+Black     : leverkuhn
+Time      : 45+45
+Captured  : 2026-11-08 22:25:04 UTC
+Game ended : 2026-11-08 21:04:51 UTC
+Messages  : 24
+────────────────────────────────────────────────────────────
+
+[19:48:04] lexgrad: Lets go Leverkuhn!
+[19:48:04] feet_barbie: (16.Nc4) go lk
+[21:04:36] leverkuhn: oof sorry about that
+[21:04:51] leverkuhn: the dastardly intermezzo to escape the pin
+[21:06:07] leverkuhn: This line is a scary one in my repertoire, because these Benoni-ish positions aren't really my style
+[21:06:37] leverkuhn: fortunately Razorneck just tried 3.g3 against Sylvlondon, so I was fresh on my prep
+[21:07:08] leverkuhn: I had prepped the first 14 moves, but 15.f4 was a surprise
+[21:07:23] leverkuhn: it doesn't make much sense to me to be honest
+[21:07:53] leverkuhn: on move 16 I was trying to make 16...Re8 work, since I have 17.Ne4?! Bxh3!
+[21:08:08] leverkuhn: but I couldn't quite figure out what to do after 17.Nb5
+[21:08:38] leverkuhn: I was thinking of some weird 17...a6 18.Nbd6 Nxb2 type of distractions tactics, but couldn't make it work
+[21:09:24] leverkuhn: also 16...Bf5 17.g4 Nxc1 18.gxf5 N1d3 19.Rf3! trapped my knight
+[21:09:54] leverkuhn: That's why I ended up playing the lame-looking 16...Nxc1: I wanted ...Bf5
+[21:10:09] leverkuhn: a real Benoni player would doubtless have been able to make something work
+[21:10:24] leverkuhn: *something else work
+[21:11:10] leverkuhn: The position was absolutely over my head for the next few moves, but after 22.Ne4?! I have to be doing well
+[21:11:25] leverkuhn: but I miscalculated and totally missed 26.Qc3!
+[21:12:10] leverkuhn: part of the problem was that from afar I was planning 25...Bc4, missing 26.Qxb4
+[21:12:56] leverkuhn: so I tried to substitute in 25...Bc2, but it's not the same as 26.Qc3 connects to the knight
+[21:14:11] leverkuhn: I was lucky not have to immediately resign immediately as I had 27...Nd3 to enter a bad endgame
+[21:15:27] leverkuhn: I was more worried about 29.c4 than 29.Rd1, as I'd have to play 29...b6 probably, but then 30.Rc3 Be2 31.Kg1 and White will come to f2
+[21:15:27] leverkuhn: with tempo
+[21:15:57] leverkuhn: but White was doubtless still much better until the final move
+[21:16:12] leverkuhn: gg
