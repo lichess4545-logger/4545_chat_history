@@ -1,0 +1,79 @@
+Lichess game chat log
+Game      : https://lichess.org/wOIbWsUV
+White     : kyriakos1301
+Black     : rolihlahla
+Time      : 45+45
+Captured  : 2026-11-08 18:25:49 UTC
+Game ended : 2026-11-08 17:05:38 UTC
+Messages  : 69
+────────────────────────────────────────────────────────────
+
+[15:04:26] timothyha: (1.d4) go, Ro!
+[15:04:41] lavizien: Good luck Kyriakos!
+[15:04:56] jfiras: Good luck Rolihlahla !
+[15:06:57] kyriakos1301: Carlsbad structure, probably
+[15:06:57] dadievid: Good luck to both players! might be a crucial match
+[15:07:28] rolihlahla: (1.d4) hi teammates :-)
+[15:07:58] jfiras: hey Ro !
+[15:08:13] kyriakos1301: whoever gets to 50min first wins a pawn :)
+[15:10:29] kyriakos1301: I guess I need to castle next and then decide do I want a minority attack or go for f3-c4 break
+[15:11:15] kyriakos1301: Hey M0r1!
+[15:12:46] kyriakos1301: hmm is he thinking of Ne4 here? I think Re1 or Nbd7 are both pretty standard
+[15:13:01] kyriakos1301: Or maybe b5, that would be interesting
+[15:13:46] kyriakos1301: Hey Mootivator!
+[15:22:06] robertjackson: Good luck Eric
+[15:24:38] timothyha: (11.Qc2) lots of theory here to remember
+[15:25:08] timothyha: (11.Qc2) I think it's a5 first, then b5 but that if White attempts f3, for now they haven't
+[15:25:38] kyriakos1301: hmm I didn't expect Bd6
+[15:27:24] kyriakos1301: Bf5 is tempting but probably silly move
+[15:27:40] kyriakos1301: Bg3 now?
+[15:28:55] kyriakos1301: Bg3 allows me to trade bishops and think about f3 but my Queen is misplaced on c2? Not sure
+[15:29:26] kyriakos1301: the other option is a3 and think about b4
+[15:30:41] kyriakos1301: I guess black needs to figure out what to do with his dark square bishop
+[15:31:27] timothyha: (11...Bd6) not White? :-)
+[15:32:12] timothyha: (11...Bd6) I once won a QGD as Black by bouncing the bishop around and attacking
+[15:32:12] timothyha: (11...Bd6) Bc7 (b8) and Q battery
+[15:33:43] kyriakos1301: I guess I can think of Bg3 if black moves his Queen
+[15:35:29] robertjackson: 12.Bxh2 maybe?
+[15:35:44] timothyha: (12.Rab1) Bxh2 right now doesn't work
+[15:36:00] timothyha: (12.Rab1) but has to be calculated throughout the game, I guess
+[15:39:47] rolihlahla: (12.Rab1) Bxh2 looks tempting but unsound
+[15:42:18] timothyha: (15.b4) Q on c is a tactical problem, just needs to be careful
+[15:42:33] timothyha: (15.b4) like b5 now isn't possible
+[15:43:04] timothyha: (15.b4) Black pieces are in slightly wrong positions for a Carlsbad
+[15:44:35] kyriakos1301: Ne6 confused me, I thought the idea of Nf8 was to develop the Bishop
+[15:45:05] kyriakos1301: Hey, Dikiy!
+[15:47:36] kyriakos1301: Rfc1 comes to mind but I am moving pieces away from my King. Also Qb3
+[15:53:40] timothyha: (16.Rbc1) I think Black needs something like Qd8->g5
+[15:54:10] timothyha: (16.Rbc1) c6 is an issue, but doable is there's kingside counterplay
+[15:58:13] kyriakos1301: I think usually after a6 I should be playing either a4 or Na4
+[16:11:05] syous780: Go kyri! I like your position!
+[16:11:51] kyriakos1301: you got to love one move threats, right. I would be curious to see how he defends Nxd5. Probably have to move his Queen somewhere.
+[16:16:54] kyriakos1301: oh geez Nxd5 is a blunder glad I didn't play it
+[16:19:41] robertjackson: Tension builds
+[16:22:58] kyriakos1301: I think he wants to play 20... c5 which would explain the Ne6 move, but not sure it works because d5 is hanging for real this time.
+[16:25:44] rolihlahla: (19...Qb8) no good moves there :-(
+[16:27:15] kyriakos1301: which way do I take?
+[16:28:31] robertjackson: 19...Qb8 is fine surely
+[16:29:32] kyriakos1301: Hey Shurbz!
+[16:29:47] kyriakos1301: bxa6 is a free pawn
+[16:30:02] robertjackson: Qb7 was my alternative to Qb8
+[16:30:17] shurbz: Hey kyrakos!
+[16:30:47] shurbz: I don’t see bxc working immediatly like bxa does
+[16:34:50] shurbz: Rfd8 might be interesting of bxc is the dream
+[16:37:06] ttsgosadow: Go Roli!
+[16:40:08] kyriakos1301: Bxa4 is an interesting sac. Would probably work if the time situation was reversed
+[16:40:53] kyriakos1301: now is there anything wrong with taking the d5 pawn?
+[16:46:11] shurbz: Be4 ra7 bc6
+[16:46:27] shurbz: ^^25.
+[16:52:46] kyriakos1301: Bc6 is tempting, he can try Rc8, BxN, RxR+, RxR and Rxd7 defending b6
+[16:54:31] shurbz: Rc8 d5 is interesting
+[17:01:51] ttsgosadow: Bxe7 walks into a nasty fork :(
+[17:02:52] kyriakos1301: I think this is winning now
+[17:05:53] jfiras: gg !
+[17:05:53] ttsgosadow: Good game, well played
+[17:06:09] kyriakos1301: gg
+[17:06:09] ttsgosadow: Time really caught up :/
+[17:06:09] robertjackson: GG
+[17:07:09] shurbz: Gg
+[17:08:25] kyriakos1301: we both had 100% accuracy in the opening as we went with the most standard drawish lines
