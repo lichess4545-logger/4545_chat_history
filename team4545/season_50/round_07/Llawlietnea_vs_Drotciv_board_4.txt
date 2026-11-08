@@ -1,0 +1,168 @@
+Lichess game chat log
+Game      : https://lichess.org/PiX1PbmV
+White     : llawlietnea
+Black     : drotciv
+Time      : 45+45
+Captured  : 2026-11-08 00:46:53 UTC
+Game ended : 2026-11-07 23:26:44 UTC
+Messages  : 158
+────────────────────────────────────────────────────────────
+
+[20:03:01] bufferunderrun: let's go Llawlietnea!
+[20:08:35] cinemashow: (12.O-O) good luck Llawlietna
+[20:35:05] iwishiweredecent: hmmm does white keep pushing the pawns on the kingside? 20. g5? or h4?
+[20:44:55] iwishiweredecent: 23. h5??
+[20:50:44] iwishiweredecent: Yeah it guess Nc4 was a threat
+[20:54:16] iwishiweredecent: yea this is starting to look pretty ugly for white.. the kingside counterplay just is not gonna come in time
+[21:24:03] lemuelgullible: 28 Nb5?
+[21:26:50] cinemashow: (27...Qc4) Bb3 first though?
+[21:30:06] lemuelgullible: it actually might have been good without Bb3 first, not sure though
+[21:30:22] cinemashow: (28.Bb3) Qb4 then Nd3?
+[21:31:37] lemuelgullible: Qba Nd1 Nd3 Bxd6
+[21:32:53] cinemashow: (28...Qb4) yes but Nxc1 with Ne2+ to come?
+[21:33:08] lemuelgullible: oof, yeah
+[21:33:54] lemuelgullible: Bxe5 Bxe5 Qf3?
+[21:33:54] cinemashow: (28...Qb4) or Qe1+ winning the d1 knight
+[21:35:40] cinemashow: (28...Qb4) I guess there's Rc8 there
+[21:43:44] cinemashow: (30...Qxe4) looking tough now for White isn't it?
+[21:44:45] cinemashow: (30...Qxe4) Nf3+ is curtains?
+[21:54:20] cinemashow: (32.Kg2) Nd4+ ->Ne2
+[22:00:24] drotciv: I think I'm blundering away a won position out of tactical futility :( (35)
+[22:05:57] intemperate: Nd3?
+[22:07:13] intemperate: Bxd6 Nc1 Bxb8 Nxb3 axa3 Bxc3 :()
+[22:07:43] bufferunderrun: Bxd6, just Rc8 I think
+[22:09:14] intemperate: Rb4?
+[22:09:44] intemperate: ok got one right lol
+[22:13:01] cinemashow: (40.Ne2) Be5?
+[22:13:01] intemperate: Re4
+[22:13:16] cinemashow: (41.Bxe5) Rg4
+[22:13:47] ysgwydd: (42...Rxg3+) Interesting imbalance
+[22:14:17] intemperate: Q vs 3 pieces aint gonna be easy
+[22:14:17] cinemashow: (43.Nxg3) I'll take White now
+[22:14:32] ysgwydd: (43.Nxg3) Who's better and why?
+[22:14:32] intemperate: me too, but gotta make sure there are no loose pieces
+[22:15:02] ysgwydd: (43...Qd3) Be7 annd then push the pawn?
+[22:16:03] ysgwydd: (43...Qd3) a4 might be annoying for white
+[22:16:03] cinemashow: (43...Qd3) a4 threatened
+[22:16:18] drotciv: well, if nothing else this is a pretty distinct endgame (43)
+[22:16:48] ysgwydd: (43...Qd3) I think black is winning here
+[22:17:03] intemperate: how do you get the last move to come up? Is it auto, or do people type it in?
+[22:17:19] ysgwydd: (43...Qd3) There is a script
+[22:17:34] drotciv: my instinct is it is slightly better for white at the start, but harder to play given all they have to coordinate
+[22:17:34] cinemashow: (43...Qd3) we use a script installed using the tampermonkey addon
+[22:18:04] intemperate: Black has chances, but I wouldn't say winning. Whatever the engine says, it's gonna be tough for Black
+[22:18:04] cinemashow: (44.Be7) https://greasyfork.org/en/scripts/422291-lichess-whisper-switch-by-ipr
+[22:18:04] ysgwydd: (44.Be7) I can't a move for white
+[22:18:19] ysgwydd: (44.Be7) a4 is a big threat
+[22:18:19] intemperate: thanls
+[22:18:19] cinemashow: (44.Be7) the author is on Slack
+[22:19:20] cinemashow: (45...Qxd5+) Queens's are powerful
+[22:19:50] cinemashow: (45...Qxd5+) maybe I won't take White
+[22:20:05] drotciv: ok, nevermind. now it should be crushing for me (46)
+[22:20:36] intemperate: Qe6
+[22:20:36] cinemashow: (47.Bc6) Qe6
+[22:21:06] intemperate: if he sees it, it's over
+[22:21:21] intemperate: bugger!
+[22:22:06] ysgwydd: (48.Kg2) I'd like to see BBN vs Q. With no pawns
+[22:22:06] intemperate: I'm torn. If Drotciv wins, it means I have to win tomorrow lol
+[22:22:37] cinemashow: (48.Kg2) he'll kick himself for not seeing that one
+[22:22:37] ysgwydd: (48.Kg2) You don't want to win anyway? Hmm
+[22:23:07] intemperate: if we're 5-2 down, it hardly matters
+[22:23:22] ysgwydd: (48...Qe5) Tie break points
+[22:23:52] intemperate: Of course I still WANT to win, but if it's 4-3 I HAVE to win. Very different scenarios :D
+[22:24:38] ysgwydd: (49.Bg5) I wouldn't mind if you made a draw
+[22:24:53] ysgwydd: (49.Bg5) Black has too many pawns for white to handle
+[22:25:54] intemperate: He had that one chance to end it. Now white will organise a fortress. Whether it can hold is another matter.
+[22:26:09] intemperate: But we could be here for a while
+[22:26:54] intemperate: The fact that White's two pawns are split is definitely in Black's favour
+[22:27:40] drotciv: 49 - now I'm frightened again. oh well
+[22:27:40] intemperate: I thought f5
+[22:27:40] intemperate: f6
+[22:27:40] cinemashow: (49...f5) going back to 47.Bc6, I don't think White had a move that didn't lose a bishop
+[22:28:10] ysgwydd: (49...f5) The mistake was Kg1 instead of Kh2
+[22:28:25] cinemashow: (50.Bf3) yes
+[22:28:25] intemperate: yes, agreed. I thought that was a mistake too
+[22:28:55] ysgwydd: (50.Bf3) It's not so easy to break through
+[22:30:57] ysgwydd: (51.Ne2) Be3-d4 incoming? That would be something
+[22:33:43] intemperate: h6 Bd4+ Kh7
+[22:34:59] ysgwydd: (53.h5) Would this be a fortress without the h7 pawn?
+[22:34:59] ysgwydd: (53.h5) Before h5
+[22:37:46] ysgwydd: (53...Qa6) Bf4
+[22:40:02] szalowiezy: Nf4 is werd
+[22:40:02] ysgwydd: (55.Nd5) Now it looks bad for white
+[22:40:02] intemperate: That just loses a pawn
+[22:40:32] szalowiezy: theres Qb7
+[22:40:32] szalowiezy: i swr
+[22:40:47] szalowiezy: hits b3 and the knight
+[22:41:18] ysgwydd: (55...g4) h6 desperation
+[22:42:33] bufferunderrun: Idk, 56.Bd4+
+[22:43:19] szalowiezy: Kf7 tho
+[22:43:19] intemperate: Then he has yet another undefended piece lol
+[22:43:34] bufferunderrun: yeah, and Qc4
+[22:43:49] ysgwydd: (55...g4) Bd4+ Kf7 Bd1 for the style points
+[22:44:04] ysgwydd: (55...g4) Bxg4 I guess
+[22:44:19] ysgwydd: (55...g4) Claim it's a fortress
+[22:44:50] cinemashow: (55...g4) the knight will fall though
+[22:45:05] szalowiezy: but the extra pawn changes it tho
+[22:45:05] intemperate: It looks lost now. Funny, I thought he'd put up a real fight
+[22:45:35] ysgwydd: (55...g4) Bxg4 fxg4 Nf4 is it so easy to win for black?
+[22:47:21] szalowiezy: Bxg4 must be tried i think
+[22:47:36] ysgwydd: (56...Kf7) But now h6 would hang
+[22:47:51] szalowiezy: bcse Qb7 on Bd1
+[22:48:22] bufferunderrun: Qc6 on Bd1 I think
+[22:48:37] szalowiezy: but u wanna stop Bb3
+[22:48:37] szalowiezy: as black
+[22:48:52] szalowiezy: which gives a defensive chance
+[22:49:07] szalowiezy: albeit its probs just scraps
+[22:49:22] bufferunderrun: nevermind, I'm too tired
+[22:49:37] ysgwydd: (56...Kf7) Kg3 gxf3 Nf4 also terrible
+[22:49:53] bufferunderrun: but I guess Qd3 would work
+[22:50:23] szalowiezy: can u take on h6
+[22:50:38] ysgwydd: (58...Qxh6) Without h6 would be a better chance
+[22:50:38] bufferunderrun: I don't see why not
+[22:50:38] szalowiezy: yh might asw
+[22:51:54] szalowiezy: almost said h5 Nxh5 Qh6 hanging Bxh6
+[22:51:54] intemperate: Qf3
+[22:53:40] ysgwydd: (62.Nh5+) Ke5?!
+[22:53:55] bufferunderrun: we can only hope :p
+[22:54:55] cinemashow: (63.Nf4+) could get a threefold by accident?
+[22:55:41] intemperate: Well, maybe just adding valuable seconds to the clock
+[22:57:27] intemperate: Qg4 and h5
+[23:00:29] intemperate: Now sure where that K is trying to get to? Would be better going around the other way, I think? Just h5 now?
+[23:02:00] ysgwydd: (69.Kh2) Maybe the king wants to visit all the squares?
+[23:06:02] intemperate: I wonder how often that has happened?
+[23:06:17] intemperate: A little side mission on your way to wearing your opponent down lol
+[23:07:48] ysgwydd: (72...Ke5) A checkmate on g2 is looking likely
+[23:09:04] intemperate: K off f1?
+[23:13:06] intemperate: f3?
+[23:13:06] bufferunderrun: 77.f3?
+[23:15:22] ysgwydd: (77...Kc2) Nf4 and there is no mate. Like the old saying
+[23:16:38] intemperate: But White will get into zig territory soon
+[23:16:38] intemperate: Zug
+[23:17:23] intemperate: Kf1 and Qf3, and black will have no moves I think
+[23:18:09] ysgwydd: (78...Kd1) Kh1 Kh2 Kh1 Kh2 and hope
+[23:19:09] bufferunderrun: there would be Qh4+ once the king is on f1
+[23:19:09] giziti: (78...Kd1) hmm this is a tricky nut to crack
+[23:19:55] ysgwydd: (79.Kh1) Imagine if white had another bishop
+[23:20:40] intemperate: Yeah, I think he would at least hold. It looked very tricky for Bl;ack
+[23:21:10] intemperate: Esp after he missed Qe6 to win win one of the B's
+[23:24:12] bufferunderrun: gg
+[23:26:13] intemperate: Qg1?h1
+[23:26:28] ysgwydd: gg
+[23:26:28] intemperate: WEll play!
+[23:26:28] cinemashow: gg
+[23:26:44] intemperate: gg
+[23:27:44] drotciv: that was intense
+[23:27:59] drotciv: felt like 3 games in 1
+[23:27:59] ysgwydd: Very interesting one
+[23:29:00] drotciv: Both in the endgame and midgame thought I got a bit lucky. Couldn't figure out how I was going to keep up any intitiative,
+[23:29:15] drotciv: but white blinked and changed the position
+[23:29:45] drotciv: the early midgame was very tricky too. Some hard decisions on trading and placing pieces. I thought the dsb should have stayed on the e5-h2
+[23:30:00] drotciv: diagonal after Nh5
+[23:30:00] drotciv: But I have no idea on the decision to back up the lsb after ba6
+[23:30:00] drotciv: hard choice
+[23:30:15] ysgwydd: Is 77.f3 a fortress? Probably not, maybe though
+[23:31:16] drotciv: my sense was as long as I got the king around to f1 there would be too many squares to defend. especially once the kingw as stuck on the h
+[23:31:16] drotciv: file
+[23:34:02] drotciv: Brutal missing 47. Qe6. I was looking at those same patterns but somehow missed that square
+[23:34:32] drotciv: or maybe I started looking a move later. that must be it
