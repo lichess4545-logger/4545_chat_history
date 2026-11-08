@@ -1,0 +1,76 @@
+Lichess game chat log
+Game      : https://lichess.org/mFdv5YIu
+White     : yellorambo
+Black     : lloydret
+Time      : 45+45
+Captured  : 2026-11-08 19:56:42 UTC
+Game ended : 2026-11-08 18:36:31 UTC
+Messages  : 66
+────────────────────────────────────────────────────────────
+
+[15:56:10] fork2020: Go LloydRet!
+[15:56:25] fork2020: (Sorry yellorambo!)
+[16:02:29] yellorambo: I love the name of this opening
+[16:06:01] r0b-w: (4...Nf6) Go, LloydRet!
+[16:06:16] lemuelgullible: Go yellorambo!
+[16:08:17] mennonite: go yellorambo!
+[16:08:32] mennonite: I also love the name of the opening. But I don't care for the opening itself so much
+[16:08:32] lemuelgullible: 5... e6 is not good according to the masters database
+[16:09:03] lemuelgullible: cngine only gives +0.3 though
+[16:09:03] lemuelgullible: *engine
+[16:10:03] lemuelgullible: the lichess database in slow games over 1800 rating gives equal outcomes
+[16:16:22] goldenretrieverchess: Go yellorambo and good luck Lloyd!
+[16:25:58] mennonite: white's plan isn't subtle but it looks promising nonetheless.
+[16:36:04] yellorambo: Greek gift if 11...Nxd7 possibly?
+[16:39:51] yellorambo: I will now spend 10-15 minutes trying to convince myself not to play 13. g4 and failing to do so
+[16:43:54] yellorambo: Qe2 Ne4 Bx dx Qx f6 Nxc and Qxe6+ and castles
+[16:44:09] yellorambo: Ne4 is bothering me otherwise
+[16:44:24] yellorambo: I don't think the e-file can open up fast enough to cost me my queen
+[16:58:17] yellorambo: 15...bxc bxc nxd4 cxd qxc3+ qd2 qxa1 gxf6 and I don't think Black gets what they are looking for in that line
+[17:04:36] yellorambo: no need to go caveman on the kingside I don't think, 16. Bd2 was my original idea but a6 is hanging here
+[17:05:06] yellorambo: I think the reason I will not take the pawn is that I currently have Bxh7+ on f6 and I think I need that
+[17:05:37] yellorambo: my king will permanently be at risk from here on out so I shouldn't randomly gobble
+[17:07:23] yellorambo: I'm looking at the smothered f8 rook, the queen being the only defender of c6, a6 being loose, the pawn storm at the king
+[17:07:53] yellorambo: g6 will shut down or slow things down re: the direct king attack so I don't want to go all-in on it here, I don't think it's forcing
+[17:08:08] yellorambo: besides something something threat something something execution
+[17:09:09] yellorambo: I suppose I also have Nc6 and Qxe6+ on f6 so the logic was faulty there
+[17:11:25] pineapplechiffoncake: go yellorambo!
+[17:13:26] yellorambo: I'm eagerly watching fork's clock dwindle on the other board but I know full well that's not the end of the story on that board
+[17:13:42] yellorambo: still, would be nice to have this position as a freeroll and go nuts with an attack
+[17:14:57] yellorambo: 17...Rb8 Rb1, arm the battery on h7 then a trade on e5, it's a bishop pair against a closed center but I think I'd still like it
+[17:15:28] yellorambo: might actually snag a6 at that point if still offered - wouldn't be surprised the engine would just say I should have snacked on it alrea
+[17:17:59] yellorambo: yeah I think that e8 N willl now just reroute to f5, and I should just get the pawn, push the passer, shift the play
+[17:19:15] yellorambo: or of course just h4 but then h5 locks it down for good unless
+[17:20:16] yellorambo: 18 h4 h5 Bxg6 fxg6 Nxg6 hits the rook and h5 and e6 too, also protecting f4 temporarily
+[17:20:31] yellorambo: oh I'm an idiot I have e.p. too
+[17:21:46] yellorambo: 18 h4 Ng7 h5 nxh rxh gxh qxh just wins, Nf5 hxg is very promising too
+[17:22:32] yellorambo: shift the play my ass
+[17:24:48] yellorambo: even with the e5 trades I like this
+[17:27:20] yellorambo: I wonder whether 19 Nxc6 is precise - dislodges the queen from the seventh rank, doesn't let Black lock down e6
+[17:28:35] yellorambo: also no Nce7 options - the trade is very likely to happen anyway so it should be on my terms
+[17:29:06] yellorambo: Nxc Qxc h5 Nxh Rxh gxh I can even shoot Bxh7+! first
+[17:29:51] yellorambo: c6 trades h5 Nf5 hxg fxg (hxg Qh2) drops e6 with check
+[17:30:06] yellorambo: don't think Nxc6 Bxf4 is a resource
+[17:31:37] yellorambo: hmm I missed Ng3 after Nf5 but letting me capture on h7 would be wild
+[17:31:52] yellorambo: acutally no Qh2 threatens mate there
+[17:40:28] yellorambo: my contention here is that Black can't really move on the kingside, Nf5 gives up h5 and f6 drops g6 way too quickly
+[17:41:13] yellorambo: the hxg fxg lines bothered me with pressure on f4 but I don't have to facilitate those
+[17:42:14] yellorambo: Ke2 (rather than f2 to guard d2 on Rd2), double the rooks and ignore the f-pawn ideas at that point?
+[17:42:14] yellorambo: don't think I could have started with 21Rh4 bc Nf5
+[17:43:14] yellorambo: hmm any of that king lift stuff drops c3 after Rb2
+[17:43:29] alp_arslan92: (21...Rab8) Obligatory go LloydRet!
+[17:43:45] alp_arslan92: (21...Rab8) Position looks dangerous, but could very well still be fine
+[17:44:15] alp_arslan92: (21...Rab8) 22.hxg6 fxg6 23.Qh3 Nf5 seems to hold everything together.
+[17:54:21] mennonite: what about 23.Rh2 here?
+[17:54:36] mennonite: *Rf2
+[17:59:39] alp_arslan92: (26...Qxc3) Great position for Lloyd, lovely!
+[17:59:54] mennonite: yes! I underestimated this.
+[18:07:29] alp_arslan92: (31...f6) 31...Nh3+!
+[18:07:29] alp_arslan92: (31...f6) too bad
+[18:07:29] alp_arslan92: (31...f6) But this should also be cleanly winning
+[18:07:29] yellorambo: 31...Nh3+ and I probably just resign
+[18:08:29] alp_arslan92: (33.Rc7) 33...e5?
+[18:08:29] alp_arslan92: (33.Rc7) hitting Ba6
+[18:17:50] yellorambo: if only my rook was on f1 on move 40
+[18:36:01] lemuelgullible: gg
+[18:36:01] blang316: gg
