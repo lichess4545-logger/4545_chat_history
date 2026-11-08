@@ -1,0 +1,97 @@
+Lichess game chat log
+Game      : https://lichess.org/SNICwGmh
+White     : alp_arslan92
+Black     : mennonite
+Time      : 45+45
+Captured  : 2026-11-08 23:50:49 UTC
+Game ended : 2026-11-08 22:30:39 UTC
+Messages  : 87
+────────────────────────────────────────────────────────────
+
+[20:43:36] schittering06: (1...d5) Let's go Mennonite! Also good luck alp!
+[20:43:36] r0b-w: (1...d5) Go, alp_arslan92!
+[20:43:36] schittering06: (1...d5) Ooh a Scandi! Haven't seen that one in a while
+[20:43:36] r0b-w: (1...d5) Hi, Mennonite!
+[20:43:36] fork2020: Go alp_arslan92!
+[20:43:36] mennonite: i had actually prepped the Icelandic-Palme Gambit, but he didn't play into it
+[20:43:36] mennonite: which is probably just as well from my end
+[20:43:36] pineapplechiffoncake: go Mennonite!
+[20:43:36] alp_arslan92: (10.Bf4) Pretty happy I checked this before the game
+[21:11:07] schittering06: (14.b4) Is taking the a pawn too dangerous here?
+[21:12:08] gavalanche20: (14...Qxa3) Surely
+[21:12:53] gavalanche20: (14...Qxa3) Yeah Ra1 Qb4 Rfb1 Qd6 Ng6 is what I'm seeing and how do you save the queen and Be7?
+[21:13:39] gavalanche20: (14...Qxa3) Oh but does Black get to throw in Ne5 in a bunch of places because it hits the queen
+[21:14:09] gavalanche20: (14...Qxa3) Ok maybe you need to take on d7 first before Ra1
+[21:17:41] schittering06: Yeah after Nxd7 black doesn't really have any counter threats
+[21:19:12] schittering06: Maybe Nxd7 Qxb4 Nxf6 Bxf6?
+[21:20:43] schittering06: Oh but then there are not enough attackers to the d4 square
+[21:21:28] mennonite: 15.Nd5 Qxd3 16.Nxe7+ Kf8 17.Rxd3 Kxe7 feels like it should be bad for me
+[21:21:28] schittering06: Maybe throwing in c5 at some point or just accepting the 2 pawns for the piece
+[21:22:59] schittering06: What about Bxb4 after Nd5?
+[21:31:34] inter-temporal: (15.Nxd7) gooo
+[21:32:20] inter-temporal: (15.Nxd7) hm. is this the Alekine-Caro-Kann Scandi?
+[21:33:20] inter-temporal: (16.Ra1) alp sacs pawns?
+[21:33:51] inter-temporal: (16...Qxb4) oh. the black Q is uncomfortable
+[21:34:21] inter-temporal: (17.Rfb1) alp does not sac pawns
+[21:35:06] inter-temporal: (17...Qc5) wow. some real drama
+[21:35:06] schittering06: Damn
+[21:35:22] schittering06: What a move
+[21:35:52] schittering06: Probably alp has already figured out exactly how to respond to it
+[21:36:52] gavalanche20: (19.cxd5) Nd5 what a move
+[21:37:07] gavalanche20: (19...Qxd5) Ngl didn't realize Rd7 insteaad of Nd7 created this extra option for Black
+[21:37:23] feet_barbie: (19...Qxd5) all planned
+[21:37:38] schittering06: Beautiful combination
+[21:37:53] inter-temporal: (20.Rxb7) they know how to use interference. i gotta learn how to do that
+[21:37:53] mennonite: i was thinking maybe ...Bc5 and ...Bb6 to lock in the rook?
+[21:38:23] mennonite: ohhh no.... Rxb6 is very much a thing
+[21:38:23] gavalanche20: (20.Rxb7) Hm in this particular case Bb6 simply hangs though
+[21:38:38] schittering06: Does Bc5 work?
+[21:38:38] inter-temporal: (20.Rxb7) gotta adjust to the material imbalance
+[21:39:24] mennonite: ok i think i still have to at minimum start with Bc5 since Raxa7
+[21:39:54] mennonite: why does my back rank have to be weak
+[21:39:54] mennonite: zen mode
+[21:40:25] schittering06: I'm like "oh that's why" this entire game so far
+[21:41:10] gavalanche20: (20.Rxb7) Hmmm Bc5 is there Qb1
+[21:41:55] gavalanche20: (20...Bc5) In between Rb8, dc5 and Raa7 I'm not sure Black can stop all those threats can he?
+[21:43:57] inter-temporal: (20...Bc5) sharp game. Qb1 Qxd4, Be3 Qd6, Bxc5 Qxc5, Rb8+ Rxb8, Qxb8 Qf8 but i'm missing smth
+[21:45:12] inter-temporal: (21.Be5) black's a-pawn drops, but not the end of the world, maybe
+[21:45:27] inter-temporal: (21.Be5) nevermind
+[21:46:43] schittering06: If the a pawn is falling anyways then what about Rd8?
+[21:47:29] feet_barbie: (21.Be5) though
+[21:48:29] inter-temporal: (21.Be5) ...Rd8, Rd1 Bb6, Bxf6 gxf6, Qg3+ Qg5, the d-pawn remains pinned. idk
+[21:48:44] nyanners: the end of the world may be a good deal here
+[21:49:00] inter-temporal: (21.Be5) Capablanca?
+[21:49:00] nyanners: yes
+[21:49:45] feet_barbie: (21.Be5) https://www.twitch.tv/ChessWithJordan also covering this now
+[21:52:16] nyanners: Ng4 seems like a good one
+[21:52:32] nyanners: may be able to avoid the end of the world for a bit
+[21:58:20] gavalanche20: (22.Qc3) I'm not sure I understand but I guess the point is
+[21:58:50] gavalanche20: (22...Nxe5) Ne5 Qc5 Qc5 dc5 White has a more controlled version of the endgame where White ends up with rooks on 7th?
+[21:59:36] gavalanche20: (23.Qxc5) As in c pawn is no longer passed and a pawn is falling no matter what because of back rank?
+[21:59:51] feet_barbie: (23.Qxc5) yeah looks over
+[22:17:16] mennonite: my original idea of ...e4 is obviously too slow. so that leaves the two knight checks...
+[22:23:35] mennonite: 33...Nd4 34.f4!
+[22:24:20] mennonite: since then ....Nf5+ Ke4!
+[22:25:06] mennonite: i could try ...Kd5 and yeet my entire kingside and try to push the pawn forward but that won't do
+[22:26:36] mennonite: ok now i see this loses.
+[22:26:52] inter-temporal: (34.Kd3) sac a pawn, maybe
+[22:27:52] inter-temporal: (34.Kd3) ...e4+, Kc3 Kd5, Kb4 Nc4
+[22:29:53] inter-temporal: (35...Kd5)  gg
+[22:30:39] alp_arslan92: Kind of shocked by all the tactics that arose after 14...Qxa3
+[22:30:54] alp_arslan92: Well done by you to not buy my bluff, I missed all these weird Nc5 and e5 ideas beforehand
+[22:31:24] goldenretrieverchess: gg
+[22:31:39] mennonite: I was sure I was missing some refutation, but I just couldn't see it
+[22:31:39] schittering06: gg
+[22:31:39] mennonite: and anything else was just passive...
+[22:31:55] inter-temporal: 28...f6 somehow much better, yet with ...Kh7-g6? wth
+[22:32:25] alp_arslan92: 28...f6 29.Ke2 is similar to the game, now?
+[22:32:25] alp_arslan92: *no?
+[22:32:40] inter-temporal: SF says, "no"
+[22:32:40] alp_arslan92: Hmm, actually Ra8+ Kh7 is possible there
+[22:33:10] mennonite: I have to run. thanks for watching everyone, and well played to alp!
+[22:33:10] alp_arslan92: Tbh I was also not sure 4 vs 3 on one wing draws for Black easily
+[22:33:10] alp_arslan92: gg Mennonite!
+[22:33:10] alp_arslan92: See you around
+[22:34:26] alp_arslan92: I was a bit disgusted I missed 15.Ra1 Qxb4 15.Rfb1 Qd6 17.Ng6 e5
+[22:34:26] neverness: GG
+[22:34:41] alp_arslan92: I thought my queen on d3 is still protected, but it's not...
