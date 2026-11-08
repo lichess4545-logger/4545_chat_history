@@ -1,0 +1,27 @@
+Lichess game chat log
+Game      : https://lichess.org/3VY9W3Qr
+White     : arandommove
+Black     : betolini
+Time      : 45+45
+Captured  : 2026-11-08 19:05:47 UTC
+Game ended : 2026-11-08 17:45:36 UTC
+Messages  : 17
+────────────────────────────────────────────────────────────
+
+[17:34:29] acebulf: Go betolini!
+[17:34:29] mgold: Go arandom!
+[17:34:29] arandommove: I had hoped we get a line where I could play a dubious piece sac. Well, a line where the piece sac is actual theory is also nice.
+[17:34:29] mgold: Hooray to dubious piece sacs!
+[17:34:29] fischerforlife: ARandomMoveforlife
+[17:34:29] arandommove: I had this in a league game before, where black declined it with 14. ... Kd7
+[17:34:29] arandommove: Stockfish of course gives 0.00 in all these positions
+[17:34:29] arandommove: I'm just exicted to have it in a serious game
+[17:45:36] betolini: I didn't remember the theory
+[17:45:52] betolini: 15....Qc8 was the best move, not Kd7
+[17:46:22] arandommove: The piece sac is a somewhat modern idea. Yeah, you need to threaten queen exchanges
+[17:46:37] betolini: I didn't know that idea, it's really nice
+[17:46:52] betolini: I knew the endgame line
+[17:46:52] betolini: But not this one
+[17:47:37] arandommove: Yeah, the idea is to avoid the endgame
+[17:48:08] betolini: I have to study this line
+[17:48:08] betolini: Thanks for the game
