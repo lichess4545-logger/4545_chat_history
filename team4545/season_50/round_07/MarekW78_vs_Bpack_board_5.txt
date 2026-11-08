@@ -1,0 +1,61 @@
+Lichess game chat log
+Game      : https://lichess.org/U983CMKB
+White     : marekw78
+Black     : bpack
+Time      : 45+45
+Captured  : 2026-11-08 21:01:45 UTC
+Game ended : 2026-11-08 19:41:34 UTC
+Messages  : 51
+────────────────────────────────────────────────────────────
+
+[18:04:22] highonpotnuse: go bpack!
+[18:04:37] pineapplechiffoncake: go Marek, go Bpack!
+[18:15:43] apidae: Go Bpack!
+[18:20:16] tommeketoch: funny how we got 2 advanced Frenches same hour start. Teams on opposite side
+[18:22:02] tommeketoch: bishop pair!
+[18:33:24] bpack: (13) not the simplest path forward if Qxd4
+[18:34:24] inter-temporal: (13.Nxg5) go Bpack!
+[18:35:10] bpack: ah, maybe just Ne6
+[18:38:42] inter-temporal: (15.Rd1) nice. might get to keep the pawn
+[18:46:31] bpack: (17) slight itch to push f6 and drop d5 to clear attacking lanes to whites king
+[18:48:02] bpack: feels a bit slow and wonky tho. not the biggest fan of giving up kingside pawn majority
+[18:50:03] inter-temporal: (18.Nc3) trade everything, push ur pawn. "chicken a la chess"
+[18:53:51] tommeketoch: bad bishop defending great pawns
+[19:03:57] inter-temporal: (24...Ke7) where'd it go
+[19:13:47] oachkatzerlschwoaf: huh
+[19:13:47] inter-temporal: (26.Rxc6) uh
+[19:13:47] inter-temporal: (26.Rxc6) B!
+[19:13:47] oachkatzerlschwoaf: this should be a win for black no?
+[19:13:47] inter-temporal: (26.Rxc6) is it?
+[19:14:03] inter-temporal: (26.Rxc6) ahh. the K
+[19:14:03] oachkatzerlschwoaf: the white king is too far off
+[19:14:03] inter-temporal: (26.Rxc6) whew. i hate pure pawn endings
+[19:14:18] oachkatzerlschwoaf: idk though
+[19:14:18] oachkatzerlschwoaf: endgames are mysterious
+[19:14:33] tommeketoch: I think white king is just fast enough not?
+[19:15:18] tommeketoch: or di we have some underming moves on the king side
+[19:15:49] tommeketoch: We had great alternative in the rook endgame
+[19:17:19] inter-temporal: (27.Kf2) i kinda thought the R endgame was good for B
+[19:18:05] tommeketoch: It was great
+[19:18:20] tommeketoch: Only reason it wans't a sure win, because it is still a rook endgame
+[19:19:05] tommeketoch: Now thinking is not great. If it is doublechecking, ok, but you need to know what to play here if you play Rc6
+[19:20:52] bpack: (27) f6 seemed no good. if no pawn on g2 it might have given me something
+[19:21:07] bpack: h5 & h6 seemed to give me more problems than benefits
+[19:25:09] inter-temporal: (31.Kc3) who gets zugged first
+[19:27:56] inter-temporal: (32.a4) oh no
+[19:28:11] inter-temporal: (32.a4) move K
+[19:28:26] inter-temporal: (32.a4) just Kd5, yeh? idk. this is a horror show
+[19:32:13] inter-temporal: (33.Kd3½?) never accept a draw (unless it's a pure pawn ending, like this one)
+[19:32:59] inter-temporal: (33.Kd3½?) hmm. but
+[19:33:14] inter-temporal: (33.Kd3½?) can't black run white out of moves first?
+[19:34:29] inter-temporal: (33.Kd3½?) i just worked it out, i think black wins
+[19:34:45] inter-temporal: (33.Kd3½?) ...h6
+[19:35:45] inter-temporal: (33.Kd3½?) but i used an analysis board to confirm
+[19:36:00] tommeketoch: I think black indeed should win
+[19:38:17] bpack: h6 seems the only glimmer of hope for a W, but too tough to see that far down the road
+[19:38:32] bpack: looks like we both Q and tough to see much further
+[19:40:18] inter-temporal: (33.Kd3½?) maybe if he'd just try h6, he could see it
+[19:42:19] bpack: let you down again tom, had a feeling XP
+[19:43:50] inter-temporal: all good
+[19:47:37] bpack: For reference, it was my game against Littleoak12 last season w/ a draw in winning position
+[19:48:37] bpack: playing well enough to gain meaningful advantages against tough opponents, i'll take it as a sign i'm still improving =)
