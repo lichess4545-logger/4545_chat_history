@@ -1,0 +1,55 @@
+Lichess game chat log
+Game      : https://lichess.org/IgtYoXL0
+White     : tellerwascher
+Black     : sivakumarr
+Time      : 45+45
+Captured  : 2026-11-08 22:04:28 UTC
+Game ended : 2026-11-08 20:44:15 UTC
+Messages  : 45
+────────────────────────────────────────────────────────────
+
+[18:46:18] avemanyeg: Go Siva!
+[18:46:48] sivakumarr: (6.c4)  Okay, Catalan transposition
+[18:47:34] sivakumarr: (6.c4) I was hoping for a traditional QGD, but alas
+[18:49:35] sivakumarr: (8.dxc5)  Hmm, that's a surprise
+[18:50:05] sivakumarr: (8.dxc5) I know there's theory for this, but I can't remember what it was
+[18:52:52] sivakumarr: (8.dxc5) 8...Bxc5 9. Qxc4 looks annoying developmentally. Qb6 runs into Nc3's easy development
+[18:54:23] sivakumarr: (8.dxc5) Na5 is screaming at me, and I can't spot anything wrong with it, but that h1-a8 diagonal will punish me if I'm wrong
+[18:57:40] sivakumarr: (8...Na5)  9. Qb4 Nd5!, so it's got to be Qa3
+[18:57:55] sivakumarr: (8...Na5) b3 then looks really appealing
+[18:58:40] sivakumarr: (9.Qc2) Wow, not on my radar at all
+[19:00:56] sivakumarr: (9.Qc2) 9...Bxc5 can't possibly be bad - right? I snatch a pawn and get one step closer to castling
+[19:00:56] sivakumarr: (9.Qc2) Hmm, Rc8 also calls out to me
+[19:03:13] sivakumarr: (9.Qc2) The line 9...Bxc5 10. b3 is the line I don't like, but maybe I'm overthinking it - White will have isolated pawns should they ...
+[19:03:13] sivakumarr: ...re-establish parity
+[19:03:58] sivakumarr: (9.Qc2) Hmm, 10. Ne5 is also an idea
+[19:12:18] sivakumarr: (9...Rc8)  At the end of the day, Rc8 puts the ball in White's court, so I went with it
+[19:14:20] sivakumarr: (10.Ne5) Bxc5 or Rxc5
+[19:14:35] sivakumarr: (10.Ne5) Rxc5 can run into Be3, thus Bxc5
+[19:16:21] sivakumarr: (10.Ne5) If only I had a tempo for b5, Qb6
+[19:22:09] sivakumarr: (11...Qb6)  Alas, 11...b4 12. Bg5 Rf2 13. Qd2 looks dreadful
+[19:22:25] sivakumarr: (11...Qb6) I couldn't see a way not to lose a piece
+[19:24:26] sivakumarr: (11...Qb6) I'm not sure if c4 is holdable, but I should mostly be out of the woods
+[19:25:26] sivakumarr: (11...Qb6) Subpar time management though, should've let Na5 rip a lot quicker
+[19:26:27] sivakumarr: (11...Qb6) I'm not sure what my plan should be - perhaps Bb5, O-O
+[19:28:28] sivakumarr: (11...Qb6) It asks a lot of White to scoop c4 back without major concessions, so I'm quite favorable to that modus operandi
+[19:30:45] sivakumarr: (11...Qb6) Not an easy decision for White on this move either - e3 shuts down one bishop, e4 the other
+[19:32:15] sivakumarr: (11...Qb6) Bg5 would be audacious beyond belief
+[19:39:50] sivakumarr: (12...Bb5)  Ah, my old friend time trouble
+[19:42:06] sivakumarr: (13.Nc3) Didn't see Nc3, but it seems fine
+[19:42:52] sivakumarr: (13...Nd7) Maybe 12...Bc6 could've been better, but doubled-pawns look unappealing, and piece recaptures even worse via discoveries
+[19:44:38] sivakumarr: (13...Nd7) Getting rid of Ne5 should solve all of my problems
+[19:46:54] sivakumarr: (13...Nd7) 14. Nxb5 Nxe5 would've been quite double-edged
+[19:50:42] sivakumarr: (14...h5)  Maybe I win, maybe I lose, but that h-file screams at me
+[19:53:13] sivakumarr: (15...h4)  It's a risky strategy activating on the h-file with a mess in the center
+[19:56:00] sivakumarr: (16.Na4) It sounds crazy given the pawn structure, but I think the LSB is my crown jewel
+[20:09:53] sivakumarr: (16...Qc7) Maybe Ba4 was a move, but with so little time and fire on the board, you can't go for it
+[20:29:21] feet_barbie: (27.Qa3) bxe5 was neededd
+[20:33:23] sycoraxcirce: Kd8 played, is it all over or not?
+[20:36:25] sivakumarr: (29...Kd8)  I swear, it's always the won-positions where I just decide to throw
+[20:36:55] sivakumarr: (29...Kd8) 28...Kf7 and there's nothing more to be said
+[20:38:11] sivakumarr: (29...Kd8) Wow, there are some insane tactics
+[20:38:41] sivakumarr: (29...Kd8) I think this is a draw
+[20:39:42] sivakumarr: (29...Kd8) Ba5 and Bxf6 ideas for White are killer
+[20:39:42] sivakumarr: (29...Kd8) Actually, there might still be something
+[20:41:43] feet_barbie: (30.Ba5) omg
