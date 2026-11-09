@@ -1,0 +1,45 @@
+Lichess game chat log
+Game      : https://lichess.org/edcaL0Y9
+White     : analogue_man
+Black     : selenedeafrodita
+Time      : 45+45
+Captured  : 2026-11-09 11:13:44 UTC
+Game ended : 2026-11-09 09:53:35 UTC
+Messages  : 35
+────────────────────────────────────────────────────────────
+
+[09:05:22] jcarmody: (26..Rxc3) Rc1?
+[09:05:52] jcarmody: duh...
+[09:06:07] jcarmody: White to move!
+[09:06:23] jcarmody: (26..Rxc3) Rb8!
+[09:12:26] nyanners: theres no buzzkiller like the interesting sequence -> drawn ending transition
+[09:12:56] nyanners: this one seems like a bit of a mess tho
+[09:13:57] nyanners: white def had a good opening not sure when it slipped
+[09:16:28] monocarp: As someone who would love if white played for a draw, I think here 31.Ba6 should draw, always copying any bishop move made on the diagonal
+[09:16:43] monocarp: (except of course ...Bf5)
+[09:17:14] nyanners: so that's the match situation? XD
+[09:17:14] nyanners: Bg4 should help
+[09:17:44] nyanners: but your plan is so interesting :D
+[09:18:14] nyanners: black can "refute" with Be6 though which protects the bishop
+[09:18:45] monocarp: yeah, and in any case black has Rc3 anyway, so it's really just trading the bishops in that line, which Bg4 forces more easily
+[09:19:15] nyanners: yeah i think you have some sort of borderline premove draw with Bg4 and a3 and keep king on g
+[09:20:15] nyanners: its difficult for black to create anything with such a structure
+[09:24:03] nyanners: ooh its there
+[09:24:33] nyanners: what does black do? i suppose Rc6 and Ke5
+[09:24:48] nyanners: has to fail somehow
+[09:28:20] nyanners: rf4 kg3 h4
+[09:32:53] nyanners: f5 is a bit desperate but i suppose black needs that
+[09:33:08] nyanners: it certainly creates more winning chances for white than for black
+[09:42:59] nyanners: white is feeling the heat
+[09:43:44] nyanners: i don't see the losing chances, mind you :o
+[09:44:29] nyanners: but i like what black is doing
+[09:46:16] monocarp: I'm not so sure about taking the rook off the b file. I guess something has to be done but ehh
+[09:53:35] nyanners: i mean, of course white's chances are better. but the situation is desperate XD
+[09:53:35] nyanners: guess black let it go
+[09:53:35] nyanners: gg
+[10:01:24] analogue_man: Machine has zeros from move 25...
+[10:02:24] analogue_man: Thanks again for the game
+[10:03:55] selenedeafrodita: thank you
+[10:04:10] selenedeafrodita: wow so if 25.rxf6 also 25...rxg3
+[10:06:11] selenedeafrodita: well, i get to go, good game
+[10:06:11] selenedeafrodita: see you
