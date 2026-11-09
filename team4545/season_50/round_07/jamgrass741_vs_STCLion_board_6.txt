@@ -1,0 +1,35 @@
+Lichess game chat log
+Game      : https://lichess.org/lAC4NQO6
+White     : jamgrass741
+Black     : stclion
+Time      : 45+45
+Captured  : 2026-11-09 00:30:26 UTC
+Game ended : 2026-11-08 23:10:16 UTC
+Messages  : 25
+────────────────────────────────────────────────────────────
+
+[21:09:36] kborman: 6...Neg4 I’ve seen this line. 7.h3 Nh6 is good for white.
+[21:13:23] namegoesinhere: (8...e6) go STC Lion!
+[21:17:25] namegoesinhere: (9...Bc5) huh this is a funny looking position
+[21:17:40] namegoesinhere: (9...Bc5) kind of reminds me of these 3...e5 lines in the fantasy Caro
+[21:17:55] kborman: Did Nxh2 fail to Be3?
+[21:19:41] namegoesinhere: (9...Bc5) i think so?
+[21:25:15] namegoesinhere: (10.Nh3) I was trying to calculate if 10.exf6 worked but this might be a simpler way for white
+[21:25:30] namegoesinhere: (10.Nh3) I don't see how to save both knights
+[21:36:51] namegoesinhere: (12...Bb4+) oh Bd2 Qe3+ is a cute idea
+[21:37:37] namegoesinhere: (12...Bb4+) white can try Qe2 but Bxd2+ and neither king nor queen can take
+[21:37:37] pepepibote: go jamgrass!
+[21:39:23] pepepibote: (13) jamgrass run!
+[21:40:08] namegoesinhere: (12...Bb4+) I think Kd1 and running to b1 works but it's a bit hairy
+[21:40:08] pepepibote: it seems 13. ke2 isbetter
+[21:41:39] pepepibote: ah yes kd1
+[21:42:25] namegoesinhere: (12...Bb4+) the line I was thinking of was Kd1 Qd4+ Kc2 and then if Qe4+ Bd3 and if Qc5+ Kb1
+[21:43:10] namegoesinhere: (12...Bb4+) maybe running to f3 via e2 is also possible but somehow I want my LSB to be open to help defend
+[21:43:25] namegoesinhere: (13.Ke2) especially since black lacks pieces that can influence the light squares
+[21:45:42] namegoesinhere: (13.Ke2) perhaps black can try starting with d4 because Qb5+ Kf3 looks like black is out of checks
+[21:46:42] namegoesinhere: (13.Ke2) but then white has a tempo to get an extra defender in
+[22:08:56] namegoesinhere: (18.Bc1) hmmmm
+[22:09:11] namegoesinhere: (18.Bc1) Be1+ Kg1 d3 looks scary
+[22:10:26] namegoesinhere: (18...Bc5) even wonder if I can try and be fancy and play d3 immediately
+[22:51:51] giziti: (40.Bc5+) a4 should just completely wreck thequeenside
+[22:53:06] giziti: (41.Bf8) Be8 beofre Bf8
