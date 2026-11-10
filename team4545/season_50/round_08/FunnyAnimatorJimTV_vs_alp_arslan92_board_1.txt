@@ -1,0 +1,212 @@
+Lichess game chat log
+Game      : https://lichess.org/u0sCSLj1
+White     : funnyanimatorjimtv
+Black     : alp_arslan92
+Time      : 45+45
+Captured  : 2026-11-10 23:24:26 UTC
+Game ended : 2026-11-10 22:04:15 UTC
+Messages  : 202
+────────────────────────────────────────────────────────────
+
+[20:33:50] funnyanimatorjimtv: really happy to have a chance to play alp!
+[20:34:21] pineapplechiffoncake: go jim! go Alp!
+[20:34:51] funnyanimatorjimtv: hi schittering06! hi pineapple, hi mrscribbles!
+[20:35:06] schittering06: Let's go Jim and Alp! Go chess! This is going to be an exciting one
+[20:35:21] funnyanimatorjimtv: i didn't do that much concrete prep for this game, the main move is 5.Nbd2 but i didnt get that clear of a position last game
+[20:35:37] funnyanimatorjimtv: i could try it again or i could play 5.Be3 which has some potential and maybe can castle queenside
+[20:36:52] funnyanimatorjimtv: i think i'll try Be3. then you play Nbd2 Bd3 Qe2 and play accordingly
+[20:37:53] funnyanimatorjimtv: but black can play ...c5 at the right moment and white has to watch out for the center and the queenside. ok he played ...c5 right away
+[20:38:23] alp_arslan92: (5...c5) Be3 is strange
+[20:38:38] alp_arslan92: (5...c5) 5.Nbd2 is the main move which he has played before
+[20:39:24] schittering06: I always like it when both players whisper, it's fun to see how different players look differently at the same position
+[20:40:40] funnyanimatorjimtv: (6.Nbd2) i guess we're both out of book now
+[20:44:12] funnyanimatorjimtv: i didnt expect 6...Nxd2, in most lines black can try to hold onto the Ne4 with ...Bf5 or ...f5 and keep developing pieces
+[20:45:12] funnyanimatorjimtv: now i guess both of us will be guessing how we develop our remaining pieces (do i castle queenside?) and worry about our weak e5,d5 pawns
+[20:46:43] mennonite: Gl both
+[20:47:13] funnyanimatorjimtv: Be2 keeps the d-file open and prevents doubled pawns (might be good in some lines but better to be safe. also worst case i can play Bf4
+[20:48:14] funnyanimatorjimtv: but if my Bf4 is stuck behind the e5 pawn the whole game that's not good. that e5 pawn might be really bad for me
+[20:48:29] funnyanimatorjimtv: if he chooses to block it with Be6 and i cant do anything about it for example
+[20:49:15] r0b-w: (7...Nc6) Go, alp_arslan92!
+[20:49:30] r0b-w: (7...Nc6) Hi, FunnyAnimatorJimTV!
+[20:51:01] funnyanimatorjimtv: 8.0-0-0 d4 Bf4/Bg5 maybe theres just not a good plan for white
+[20:51:31] funnyanimatorjimtv: maybe castling kingside will be fine and i can try to play against his d5 pawn and if he doesnt push it to d4 then i can expand kingside
+[20:51:46] funnyanimatorjimtv: so i play 8.Be2
+[20:53:02] funnyanimatorjimtv: i could have considered 8.c3 to discourage ...d4 but after 8.c3 d4 cxd4 cxd4 he might have ...Bb4 pin
+[20:53:17] funnyanimatorjimtv: he played ...h6 he's waiting for what i'll do. i'm not sure either
+[20:54:48] funnyanimatorjimtv: if i 0-0 it removes the risk of Bb4 pin and prepares for c3 and Rd1. he can't trap my bishop and i think ...g5 attack is unjustified
+[20:55:03] funnyanimatorjimtv: unless he plays ...Be6 Qc7 0-0-0 then i can't easily get at his d5 pawn
+[20:55:48] funnyanimatorjimtv: maybe that was the point of ...h6, to prevent Ng5
+[21:00:06] funnyanimatorjimtv: ok i dont think ...g5...g4 etc will be that dangerous cause he doesn't have that many pieces attacking
+[21:00:21] funnyanimatorjimtv: in the meantime i need to try to get b4 on the queenside to break up his central pawns but that will be really difficult
+[21:00:52] funnyanimatorjimtv: how about i start with c3. it still conceals my intentions a bit
+[21:01:07] funnyanimatorjimtv: and on ...d4 i assumed i had to play cxd4 but i dont, i can play Bf4
+[21:02:07] funnyanimatorjimtv: well he just plays ...Be6 or ...Be7 and then i need to pick something to do
+[21:02:22] goldenretrieverchess: Go Jim and Alp!!
+[21:03:38] jg777: Have a fun game you two!
+[21:04:09] funnyanimatorjimtv: (9...Be6) yeah this is starting to get bad
+[21:04:39] funnyanimatorjimtv: well i dont know how to properly guard or properly sacrifice the e5 pawn
+[21:04:54] funnyanimatorjimtv: and ...g5...g4 is quite disturbing to my knight
+[21:08:11] funnyanimatorjimtv: ok well he can't take the pawn immediately like 10.0-0 g5 g3 g4 Nh4 Nxe5 Bb5+ Nc6 well yeah he can
+[21:08:41] funnyanimatorjimtv: i dont think i should play Bf4 babysit the pawn and the bishop might become a target
+[21:08:56] berndwind: Go Alp!
+[21:09:12] funnyanimatorjimtv: im trying to look for a good way to allow it to be taken and i dont see any. a3 for b4 doesnt even work next move cause ...Rxa1
+[21:09:27] funnyanimatorjimtv: i guess i could always pin the knight Bb5 and guard with a4
+[21:10:58] funnyanimatorjimtv: looking at 10.0-0-0 then Rhe1 instead but then why did i play c3??
+[21:12:13] funnyanimatorjimtv: ok looking at Bf4 again maybe it's not that bad
+[21:12:44] funnyanimatorjimtv: (10.Bf4) did it
+[21:12:59] jg777: I don't understand why Bf4 would be bad? There is only 1 attacker on e5, so g5-g4 is not an issue there, plus black would struggle to find
+[21:12:59] jg777: a safe spot for their king long term.
+[21:13:29] funnyanimatorjimtv: oh no 10...g5 Bg3 g4 Nh4 Be7
+[21:15:00] funnyanimatorjimtv: guess i have to play 12.Ng1 and castle queenside now and try to exploit black's pawn structure
+[21:15:30] funnyanimatorjimtv: cause the Be6 will be guarding d5 as well as g4 so maybe i can exploit that
+[21:16:01] funnyanimatorjimtv: and now i can play f4
+[21:18:02] jg777: Well this is going to be interesting for me, because I am unsure what to make of this position for both.
+[21:18:02] jg777: So will be fun to see how they handle it.
+[21:18:17] sansationalsans: after bg7 how do u even defend the pawn
+[21:18:32] jg777: f4.
+[21:18:47] jg777: ugly but seems to be their idea anyway.
+[21:18:47] sansationalsans: but thats kinda ugly idk
+[21:18:47] sansationalsans: weird position
+[21:19:17] jg777: It is. I don't know what to make of it.
+[21:19:17] sansationalsans: also after f4 I like h5 h4 a lot for black
+[21:20:18] funnyanimatorjimtv: h3 might be good as well cause then i could get the e,f pawn duo
+[21:21:49] funnyanimatorjimtv: and my Rh1 would open. this might not be so bad for white. but maybe black can explode the position with ...d4 or ...Bg7 or something
+[21:24:51] jg777: I think white is okay here, it's just a weird position. Even if Bg7 f4, as funnyanimator suggested they'd likely play, h5 h3, right?
+[21:25:21] jg777: And sometime both kings go castle queenside I guess
+[21:26:07] sansationalsans: but f4 h5 u cant play h3 because black gets h4 Bf2 and g3?
+[21:26:22] funnyanimatorjimtv: (12...Bg7) it attacks e5 so it seems i have to start with f4 but i also could play Qe3 attacking c5 then play h3 next
+[21:26:37] sansationalsans: wait I forgot c5 is undefended
+[21:26:52] sansationalsans: maybe its fine
+[21:26:52] funnyanimatorjimtv: ...d4 doesnt do much but he has ...Qg5
+[21:27:53] jg777: Fine or not, that would be a very chaotic position
+[21:29:39] funnyanimatorjimtv: i think i can do it after Qg5 Qxc5 Nxe5 f4 gxf3 Nxf3 Nxf3 Bxf3 i can castle and he can't
+[21:30:09] sansationalsans: after d4 where does white put the queen
+[21:31:10] funnyanimatorjimtv: 14...Bd5 Qxg4 Bxg2 Qxg7 Rf8 Bf3
+[21:32:25] funnyanimatorjimtv: he destabilized his own d5 pawn so maybe there's an opportunity for me to get it or open the d-file favorably
+[21:34:27] sansationalsans: bd5?
+[21:34:42] funnyanimatorjimtv: (15.h3) dont see anything else and this removes the threat of Rh1 getting trapped but maybe he can keep the h-file blocked
+[21:34:57] funnyanimatorjimtv: or try to keep my knight blocked
+[21:35:42] funnyanimatorjimtv: like 15...Qd7 protects the g4 pawn and also prepares castling protecting the piece on h8
+[21:36:13] funnyanimatorjimtv: hey i just realized i can still play f4 but instead of taking with the knight i play gxf3 keeping both pawns then play f4 Nf3
+[21:37:44] funnyanimatorjimtv: does white even need to castle queenside anymore? Kf1 might be fine. but not if i do that f4 gxf3 plan
+[21:37:44] ysgwydd: (15.h3) Surely Bd5 is good here
+[21:38:14] sansationalsans: looked straight up winning
+[21:40:45] funnyanimatorjimtv: well this is bad
+[21:42:31] funnyanimatorjimtv: 16.bxc3 Qa5 Rc1 0-0-0 hxg4 Rd4
+[21:45:33] funnyanimatorjimtv: (17.Rd1) survival mode
+[21:46:34] funnyanimatorjimtv: i know my position looks ridiculous but there might be a chance and it will be fun to try to find it
+[21:49:36] funnyanimatorjimtv: he can easily put his king in the opposite place of where my king goes
+[21:50:52] funnyanimatorjimtv: he can just play 18...Rd8 and i cant do anything
+[21:54:54] funnyanimatorjimtv: well at least if he plays Rd8 then he can't castle queenside in one move
+[21:57:10] funnyanimatorjimtv: but i really have no moves after it
+[22:00:27] funnyanimatorjimtv: didnt even see ...Rd4. i missed so much this game.
+[22:00:27] funnyanimatorjimtv: this is how i normally play
+[22:00:58] ysgwydd: (20.Qe3) This is what happens when you don't castle. You expose your opponent's uncastled king
+[22:02:29] funnyanimatorjimtv: biggest miss probably 16...Qa5
+[22:04:45] alp_arslan92: lol @ysgwydd's last comment haha
+[22:04:45] schittering06: gg
+[22:05:00] goldenretrieverchess: gg
+[22:05:31] guitarspider: gg
+[22:05:31] alp_arslan92: I didn't even know 5.Be3 existed lol
+[22:05:46] funnyanimatorjimtv: maybe this is why. it was so difficult to play as white
+[22:06:16] ysgwydd: gg
+[22:06:16] alp_arslan92: Kind of had the same feeling, my pawns are just nice
+[22:06:31] funnyanimatorjimtv: i tried a similar line against the petrov a few games ago. and its just not clear what to do as white
+[22:07:01] funnyanimatorjimtv: 13.h3 is equal
+[22:07:16] alp_arslan92: Yeah, 13.h3 was irritating the more I thought about it
+[22:07:32] funnyanimatorjimtv: I underestimated ...d4 and missed ...Qa5
+[22:07:47] alp_arslan92: I thought 13...Nxe5, but 14.Bxe5 Bxe5 15.Bxg4 is not even too bad
+[22:08:17] alp_arslan92: I don't keep the two bishops and your position breathes again
+[22:08:17] ysgwydd: I got some Albin countergambit vibes from this
+[22:08:32] alp_arslan92: Just without the minus pawn haha
+[22:09:48] alp_arslan92: 9...d4 is an interesting pawn sac I was thinking about
+[22:09:48] ysgwydd: Who counts pawns?
+[22:10:03] alp_arslan92: 10.cxd4 cxd4 11.Nxd4?? Bb4 is clear, so 11.Bxd4 is forced and then I get the bishop pair in an open endgame for a pawn.
+[22:10:18] funnyanimatorjimtv: oh and Bf4 leads to the same ...g5 problem
+[22:10:18] alp_arslan92: But I thought, my time edge demands to keep complexity.
+[22:10:18] alp_arslan92: Exactly
+[22:10:48] funnyanimatorjimtv: 10.0-0 Qc7 b4
+[22:11:03] alp_arslan92: Yeah for sure 10.O-O is better
+[22:11:19] alp_arslan92: Bf4 killed your Nf3
+[22:11:34] alp_arslan92: b4 is interesting
+[22:11:49] funnyanimatorjimtv: i missed Nh4 Be7 winning the knight so retreated to g1 and thought i could unravel and almost did but then missed ...d4...dxc3...Qa5
+[22:12:04] alp_arslan92: Yeah Be7 is unfortunate
+[22:12:04] funnyanimatorjimtv: yeah i couldnt see the right way to start active play somewhere
+[22:12:04] alp_arslan92: 12.Bh4 Qc7 is also unfortunate
+[22:12:19] alp_arslan92: And Ng1 anyway has to follow
+[22:13:04] funnyanimatorjimtv: almost played 13.f4 gxf3 Nxf3 Qc7 0-0 0-0-0
+[22:13:20] alp_arslan92: 13.f4 I thought h5 actually
+[22:13:35] alp_arslan92: Not sure, it felt like I shouldn't allow the Ng1 to activate easily
+[22:14:20] alp_arslan92: Ah, I missed 13.f4 h5 14.h3 h4 15.Bf2 and now 15...g3? 16.Bxc5 works
+[22:14:20] funnyanimatorjimtv: true
+[22:14:35] funnyanimatorjimtv: oh
+[22:14:50] alp_arslan92: In hindsight I was unhappy with Bg7 smh
+[22:15:05] funnyanimatorjimtv: yeah the ...Bg7 made c5 vulnerable but my bishop already moved so that's hard to see
+[22:15:05] alp_arslan92: Right, it's difficult to appreciate Bf2 hitting c5 again
+[22:15:51] alp_arslan92: As for the Petroff in general, if you want to play 3.d4, I personally would take a look at 4.Bd3
+[22:15:51] alp_arslan92: I think those positions are nicer to play for White
+[22:16:06] funnyanimatorjimtv: then 5.Nxe5 or dxe5?
+[22:16:21] alp_arslan92: Well, depends against which Black move :P
+[22:16:21] funnyanimatorjimtv: 4...d5
+[22:16:21] alp_arslan92: I play 4...Nc6 but 4...d5 is the main move
+[22:16:36] funnyanimatorjimtv: Oh
+[22:16:51] alp_arslan92: 4...d5 5.Nxe5
+[22:16:51] alp_arslan92: Feels very Petrov'y
+[22:17:06] alp_arslan92: 5.dxe5 Nc5 I feel gives Black kind of what he wants in these lines
+[22:17:06] alp_arslan92: Exchange the Bd3 and play for the bishop pair
+[22:17:37] alp_arslan92: I mean, I guess White has Be2, but then again Black gets that nice queenside majority
+[22:17:52] alp_arslan92: So yeah, 5.Nxe5 even if it looks a bit dull
+[22:17:52] alp_arslan92: But White has that small lead in development
+[22:17:52] funnyanimatorjimtv: Oh that's not what I expected, I assumed black wants the symmetrical positoin
+[22:18:37] alp_arslan92: The symmetrical lines in the Petrov are always a tiny bit more comfortable for White and it feels like
+[22:18:37] alp_arslan92: Black is just tediously fighting for equality
+[22:19:07] funnyanimatorjimtv: But then why play the petrov? aren't the symmetrical lines most likely?
+[22:19:07] alp_arslan92: Hence actually on 3.Nxe5 I had prepared 3...Nxe4 for this game just to play something unorthodox
+[22:19:38] alp_arslan92: Well, that's what you'd think, but I get way too many asymmetric games
+[22:19:38] alp_arslan92: And my score is fantastic with it
+[22:19:38] alp_arslan92: It's just easy to play
+[22:19:53] alp_arslan92: Not Ruy Lopez 20 move theory needed
+[22:19:53] alp_arslan92: No weird gambits
+[22:20:08] alp_arslan92: The only gambit is 3.Nxe5 d6 4.Nxf7, which sucks
+[22:20:23] funnyanimatorjimtv: That's true
+[22:20:23] alp_arslan92: Well, I guess 3.Bc4 Nxe4 4.Nc3 also exsits, but that also sucks
+[22:20:38] alp_arslan92: I had my problems in the past with all those Evans Gambits and so on
+[22:20:53] funnyanimatorjimtv: Ok so I guess I fell into a trap by trying to make it asymmetrical
+[22:21:09] alp_arslan92: Kind of!
+[22:21:24] alp_arslan92: If you want to annoy me, play 1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 etc
+[22:21:24] funnyanimatorjimtv: 5.Nbd2 has such a good record as white but its hard to see why
+[22:22:09] funnyanimatorjimtv: Alright, as white it is was not obvious to me to think like that and go directly into symmetrical
+[22:22:24] alp_arslan92: I don't read too much into master level records tbh
+[22:22:39] alp_arslan92: Also, I prepped 5.Nbd2 Nc5 6.Nbd3 Ne6 7.Nbd4 Nxd4 etc. which is pretty level record
+[22:23:10] alp_arslan92: And those positions again are very easy to play for Black
+[22:23:25] alp_arslan92: My best guess is that most Petrov players expect 4.Bd3
+[22:23:55] alp_arslan92: Usually when I look at records, I go to the Lichess database, filter Rapid and Classical + 2200 or above
+[22:24:10] alp_arslan92: Because that's about my level and those are the records that matter to me
+[22:24:25] funnyanimatorjimtv: Yeah i guess that is more valuable in the grand scheme of things
+[22:24:25] alp_arslan92: Idk how Carlsen plays these lines against Caruana or whatever xD
+[22:24:25] alp_arslan92: *Idc
+[22:25:26] funnyanimatorjimtv: I do look at it sometimes to see the common moves, i guess you dont need to masters database to filter out bad moves, do that with engine
+[22:25:56] alp_arslan92: Right, I only use master database to look at which moves might be playable
+[22:25:56] alp_arslan92: The heavy lifting is done with the engine
+[22:26:56] funnyanimatorjimtv: Thanks for letting me know about the petrov, i'll have to pick a new line for the future
+[22:27:27] funnyanimatorjimtv: it was so difficult handling this position with the weak e5 pawn
+[22:27:27] funnyanimatorjimtv: lost previous game for the same reason
+[22:27:42] alp_arslan92: Sure, thanks for the game! Hope to meet again maybe next season(s) :)
+[22:27:42] funnyanimatorjimtv: i guess i could try it a couple more times in rapid just to see if i can handle it but yeah i should probably learn something else
+[22:27:42] alp_arslan92: And thanks for all the art work you generally produce
+[22:27:57] alp_arslan92: That's really amazing
+[22:27:57] funnyanimatorjimtv: Thank you! It was ap leasure to play you. Sorry I couldn't give you a better game
+[22:28:12] alp_arslan92: Also be ready to be featured in my next recap :D
+[22:28:12] funnyanimatorjimtv: You work so hard at chess and all those videos you produce
+[22:28:12] alp_arslan92: (game against tomme)
+[22:28:57] funnyanimatorjimtv: i'm having connection issues with lichess right now, not sure why
+[22:28:57] alp_arslan92: It's a well known bug
+[22:28:57] alp_arslan92: Websocket disconnects
+[22:29:13] alp_arslan92: It's been documented for months already
+[22:29:13] alp_arslan92: But no fix in sight :(
+[22:29:28] funnyanimatorjimtv: Ok I just reload if it happens
+[22:29:28] alp_arslan92: Yeah me too
+[22:29:28] alp_arslan92: Still annoying
+[22:29:28] funnyanimatorjimtv: Thanks! See you next season
+[22:29:43] alp_arslan92: Anyway Jim, see you around!
+[22:29:43] alp_arslan92: Cheers
