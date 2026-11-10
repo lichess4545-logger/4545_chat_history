@@ -1,0 +1,75 @@
+Lichess game chat log
+Game      : https://lichess.org/oE6NPkLp
+White     : jeeprep2374
+Black     : razorneck
+Time      : 45+45
+Captured  : 2026-11-10 20:36:36 UTC
+Game ended : 2026-11-10 19:16:26 UTC
+Messages  : 65
+────────────────────────────────────────────────────────────
+
+[16:47:00] grzybozbur: is that a pawn after 12...nxc4 bxf6 qxf6 cd qd4?
+[16:47:46] grzybozbur: maybe not worth it
+[16:50:48] jfiras: i like this nxc4
+[16:51:03] jfiras: yes
+[16:52:03] grzybozbur: you get a pawn, but you've traded all your developed pieces
+[16:52:49] grzybozbur: white seems ready to play, while black has everything on the 8th
+[17:06:27] jfiras: black's pieces are so misplaced
+[17:14:01] grzybozbur: i don't believe the knight is better on c3 than f4
+[17:15:17] grzybozbur: i don't believe the rook is better on e1 than f1 either
+[17:17:03] jfiras: i think the knight is going to b5 maybe
+[17:18:49] jfiras: i was thinking abt a4 for white, but f4 by black seems like a good move
+[17:19:19] jfiras: maybe rf1 again
+[17:34:28] jfiras: (23) interesting, now it might be g5 and Rf6-h6
+[18:20:54] tactix47: (42...Ke3) Interesting choice on move 41 - I might have gone Ke2
+[18:26:12] grzybozbur: ke2 probably losing too
+[18:31:15] giziti: (46...Rd8) Maybe Rg7 here?
+[18:32:00] giziti: (47.Rh5) I think you wanted to prevent Bb7 here so Ne4+ was a threat
+[18:32:15] grzybozbur: doesn't matter, black will clean up the queenside and white will have to sac a piece for the c pawn
+[18:32:31] giziti: (47.Rh5) yeah...
+[18:34:01] mrscribbles: (48...Rxd6) oopsies
+[18:34:32] mrscribbles: (48...Rxd6) I guess Rxh4 now
+[18:34:32] mrscribbles: (48...Rxd6) and...
+[18:34:32] mrscribbles: (48...Rxd6) not sure
+[18:35:02] mrscribbles: (49.Rxh4) What happens if Rh7? can they try to chase the bishop away from protection of e4? maybe force perpetual
+[18:35:17] mrscribbles: (49.Rxh4) repetition I mean
+[18:35:32] mrscribbles: (49.Rxh4) I would have thought about Rh7 instead of Rxh4
+[18:37:03] grzybozbur: rh7 bc6 and still dead lost
+[18:37:18] grzybozbur: but yes, i'd keep the a7 pawn too as black
+[18:52:57] inter-temporal: (58.Ng4) gooo! chesssss
+[18:54:13] inter-temporal: (58...Bd3) i guess white wants to get K to Q-side and trade N for B?
+[18:54:43] inter-temporal: (59.Kf2) phase 1! :)
+[18:54:58] grzybozbur: this would be much simpler if black had left the bishop on c8 and played 47...kxc4 instead
+[18:55:14] inter-temporal: (60.Ke3) gain a tempo on the way
+[18:55:44] grzybozbur: now i don't know what's happening again
+[18:58:00] inter-temporal: (62.Kc1) if black moves the f-pawn before the h-pawn, it's easier to draw. i think
+[18:58:00] grzybozbur: this must be draw now?
+[18:58:15] grzybozbur: with the king in front of the pawns
+[18:58:15] grzybozbur: maybe
+[18:58:46] inter-temporal: (62.Kc1) it's kinda unique with the pieces and extra a-pawn?
+[19:00:01] grzybozbur: black would have to chase the king away with the rook
+[19:00:01] grzybozbur: but is this possible?
+[19:00:32] grzybozbur: otherwise the king just parks on b2 and pawns aren't moving
+[19:01:17] inter-temporal: (63.Ne5) hm. ...a3 looks tricky to deal with?
+[19:02:02] grzybozbur: but black has no time for a3?
+[19:02:33] inter-temporal: (64.Rh5) i'm sure SF could draw it. lol
+[19:03:03] grzybozbur: my question is can sf win?
+[19:06:20] mrmatt96: 66...a3 67.Nf8 a2 68.Kb2 Rf7 69.Nf4
+[19:07:36] grzybozbur: yeah, what is ng6 about?
+[19:08:21] mrmatt96: But now ...Rxe7 and the rook checks should be enough.
+[19:10:07] mrmatt96: The bishop really wanted to be on d5 still, covering h1
+[19:10:07] grzybozbur: black must have been in shock after ne7
+[19:10:38] inter-temporal: (70...Rb7+) tactics
+[19:10:38] mrmatt96: Sneaky sneaky
+[19:11:08] inter-temporal: (70...Rb7+) they don't miss N-forks. i'm the one who misses N-forks. lol
+[19:12:39] inter-temporal: (70...Rb7+) but we only miss checks in time pressure. (hopefully)
+[19:13:54] inter-temporal: (72...a1=Q) uninvited guests
+[19:14:55] mrmatt96: That should do it. Even if Black doesn't play for immediate mate after 73.h7, there's a fork at the end of 73...Bxh7 at the very least.
+[19:15:25] mrmatt96: Fascinating endgame overall!
+[19:16:41] inter-temporal: (77...Rxh8)  "Never Resign! (unless you feel like it)"--Season 41, 6th place team
+[19:16:41] jfiras: gg !
+[19:16:41] mrmatt96: gg
+[19:16:41] inter-temporal: gg
+[19:16:41] inter-temporal: respect!
+[19:19:58] grzybozbur: i find sf eval of 47...bb7 offensive
+[19:20:43] tactix47: gg
