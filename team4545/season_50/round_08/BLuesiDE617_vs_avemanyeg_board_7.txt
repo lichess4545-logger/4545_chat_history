@@ -1,0 +1,223 @@
+Lichess game chat log
+Game      : https://lichess.org/Dm6udEl0
+White     : blueside617
+Black     : avemanyeg
+Time      : 45+45
+Captured  : 2026-11-11 05:04:59 UTC
+Game ended : 2026-11-11 03:44:50 UTC
+Messages  : 213
+────────────────────────────────────────────────────────────
+
+[01:44:43] mixxanber: 8. Be3 looks quite interesting
+[01:46:29] mixxanber: after exd5 exd5, somehow blacks king may be a little weak
+[01:46:44] mixxanber: 9. exd5 exd5 Qe2 looks very interesting
+[01:46:59] mixxanber: d4 is also interesting
+[01:47:45] blueside617: weird
+[01:48:15] blueside617: d3 getting tender
+[01:49:16] blueside617: ...dxe4 dxe4 trade queens
+[01:50:01] blueside617: if cxd first cxd and then what
+[01:50:16] blueside617: bishop annoying i wish to castle
+[01:52:32] avemanyeg: I have to be honest...i have no idea what im doing. Im pushing pawns and not developing....a recipe for disaster
+[01:54:34] blueside617: this c pawn is going bonkers
+[01:54:34] mixxanber: I think b4 will be an important move by white, prior to Rb8 being played
+[01:55:19] avemanyeg: qa4+ and i lose my bishop
+[01:56:35] avemanyeg: Qa5 is interesting
+[01:57:50] mixxanber: I think white is better after Qd2 Qx Kx
+[01:58:05] mixxanber: but its interesting
+[01:58:36] avemanyeg: kingside for black looks ridiculous
+[02:06:40] mixxanber: b4 still feels like a really essential move?
+[02:06:55] mixxanber: else it feels like black will have a nice space advantage
+[02:07:10] mixxanber: and whites pieces are very shut in
+[02:07:41] mixxanber: Rac1 first does feel fine first as well, but I think b4 is necessary at some point
+[02:08:26] mixxanber: I also notice now that c5 may be very strong for black at some point, although complicated
+[02:09:42] avemanyeg: c5 a huge weakness for black, when it falls so does d4
+[02:10:27] mixxanber: I like this plan as well for white
+[02:10:27] mixxanber: Rac1, and then put a knight on c5
+[02:21:18] nyanners: everything will be alright
+[02:21:18] avemanyeg: ahhh i played too fast there
+[02:21:48] avemanyeg: bishop protects the rook
+[02:22:03] avemanyeg: in those critical moments i play too fast sometimes
+[02:22:19] blueside617: got lucky
+[02:22:34] blueside617: forgor a6 bishop covers rook lol
+[02:28:22] nyanners: maybe less alright now XD
+[02:32:24] mixxanber: I'm a little scared for whites king
+[02:32:54] nyanners: black sorta freaked out in the opening but this is a kinda standard way to handle this structure
+[02:33:10] nyanners: only issue was c5 allows ..ex ..d4
+[02:33:40] nyanners: but yea if anything now white is in trouble
+[02:34:25] mixxanber: maybe b3 to force a pair of rooks off
+[02:34:40] nyanners: i suppose it helps
+[02:35:26] nyanners: this may be stronger :o
+[02:35:41] nyanners: or losing on the spot
+[02:35:41] nyanners: one of the two
+[02:35:41] nyanners: probably stronger tho
+[02:37:27] blueside617: ope
+[02:39:13] nyanners: umm i pretended this didnt exist
+[02:39:28] nyanners: may be a serious move tho
+[02:39:58] inter-temporal: (23.Rhc1) was there some way to trap the lsb?
+[02:40:13] nyanners: of course, the critical line is b3. so b3 rx kx (protect b3) rb8 nc1 allows bb1
+[02:40:29] nyanners: while Nd4 e5 is tempo
+[02:41:29] nyanners: at the very least its not completely trivial
+[02:42:15] nyanners: in most situations id probably play it and see what happens since white isnt risking much
+[02:42:15] inter-temporal: (23.Rhc1) maybe you could pin it too
+[02:42:30] nyanners: while the upside is really high
+[02:42:30] inter-temporal: (23.Rhc1) to the b8-R
+[02:44:01] inter-temporal: (23.Rhc1) black has the B-pari on an open board, but
+[02:44:01] inter-temporal: (23.Rhc1) but, white has a N
+[02:45:01] nyanners: the degenerate wisdom about "bishops are better, knights are more dangerous" applies here
+[02:45:32] inter-temporal: (23...Rb8) yeh. and i'm still trying to understand how stronger players develop competence dealing with enemy Ns.
+[02:45:32] nyanners: but white's real advantage is the rooks
+[02:46:47] inter-temporal: (23...Rb8) The Rs. yes. re Ns though, do ya'll just become dilligent at some point--tracking all the N moves?
+[02:47:02] inter-temporal: (23...Rb8) or it just came along like everything else, a little at a time
+[02:47:17] nyanners: knights are both very predictable and very unpredictable at the same time
+[02:47:17] nyanners: like, here, as of now, theres basically only one circuit really
+[02:47:33] nyanners: nd4-nc6
+[02:47:48] nyanners: is that a problem? it could be. but its all you have to watch out for at the moment
+[02:48:03] inter-temporal: (24.b4) you spot the N-fork pattern
+[02:48:03] inter-temporal: (24.b4) and the maneuver
+[02:48:33] inter-temporal: (24.b4) did you ever highlight all their moves, after they move? i do that a lot now
+[02:48:33] nyanners: never
+[02:48:33] nyanners: sounds fun
+[02:49:03] inter-temporal: (24.b4) lol. i hate when opponent calls the TD over it...
+[02:49:49] nyanners: yea you shouldnt use the marker pen
+[02:49:49] nyanners: some people dont like that
+[02:50:04] inter-temporal: (24.b4) picky picky
+[02:50:19] inter-temporal: (24.b4)  i mean, we all learn the color relationships, and the ways to avoid them with geometry...
+[02:51:20] mixxanber: is black getting mated?
+[02:52:20] inter-temporal: (26.Rc7+) wow. white gets some tempos
+[02:52:51] mixxanber: is there f5 here?
+[02:53:06] mixxanber: and then Nf4+?
+[02:53:06] mixxanber: i dont really see it
+[02:53:21] nyanners: white found a very good idea i think
+[02:53:21] nyanners: but i dont think it wins
+[02:53:21] mixxanber: but even rxa7 looks nice
+[02:53:51] nyanners: probably shouldnt go all-in as Nf4 would rather pin white's e-pawn
+[02:54:06] inter-temporal: (26...Kg6) Rxa7 Bb3, Rcc7 pigz
+[02:54:37] nyanners: id guess rxa7 rb2
+[02:54:52] nyanners: but you should actually try to look further
+[02:54:52] nyanners: its dangerous for black mostly
+[02:54:52] inter-temporal: (26...Kg6) trade a pair of Rs
+[02:55:07] nyanners: yea white wouldnt comply
+[02:55:22] avemanyeg: i hate that bishop on a2....very venerable
+[02:56:23] nyanners: it could be Rxa7 Bc4 as Kc3 doesnt win
+[02:58:09] inter-temporal: (26...Kg6)  27.Rxa7 Rb2+, Ke3 e5 maybe
+[02:59:09] nyanners: kh6 is probably safe
+[03:03:26] inter-temporal: (26...Kg6) what middlegame books have you studied?
+[03:04:57] inter-temporal: (26...Kg6) i just finally got around to studying Romanovsky, Middlegame Planning
+[03:06:13] inter-temporal: (27.f5+) oh! very aggressive
+[03:08:14] inter-temporal: (28.exf5+) lsb is finally safe
+[03:09:00] mixxanber: crazy game]
+[03:09:15] mixxanber: I'd imagine Rxg7 is whites idea?
+[03:09:45] inter-temporal: (29.g4+) seems to be just goin after the K
+[03:10:00] nyanners: "hope for the best" energy
+[03:10:15] nyanners: dont blame it much XD
+[03:10:15] inter-temporal: (29...Kg6) is that a book?
+[03:10:15] nyanners: it should be
+[03:10:30] inter-temporal: (29...Kg6) ur back
+[03:10:46] nyanners: in terms of actually influential titles id give this one
+[03:10:46] nyanners: https://www.newinchess.com/move-first-think-later
+[03:11:16] inter-temporal: (29...Kg6) i liked that one. i went cover to cover.  much above my level, but still a great one.
+[03:12:16] nyanners: i feel out of all fields with high performers ive seen, chess is the one that tries the most to reject the role of chance and intuition
+[03:12:32] nyanners: even though those are very very important aspects of the game
+[03:13:17] inter-temporal: (30.Rd7) my chess intuition is mostly unreliable. but some others have great intuition
+[03:13:17] mixxanber: hm, Rd7 I don't really like
+[03:14:18] inter-temporal: (30...Rb2+) i guess he stopped a check on the d-file and hopes to double on the 7th
+[03:14:18] inter-temporal: (31.Rc2) or
+[03:14:33] nyanners: my first thought is "skill issue" but ive seen it in a few players
+[03:14:33] nyanners: they can barely develop their knight to f3 if they don't see a concrete line involving it
+[03:15:18] inter-temporal: (31.Rc2) lol.
+[03:16:04] inter-temporal: (32.Kxc2) i'm trying/failing to transition out of pirnciple-based hand-waiving into more concrete analysis.
+[03:17:04] nyanners: as of now, I have some "interesting" beliefs
+[03:17:34] inter-temporal: (32...a6) do share
+[03:17:50] nyanners: the bulk of the skill is in the principle-based hand-waving. the concrete analysis portion is just to guarantee its not completely terrible
+[03:18:05] nyanners: you play piece to the square because it feels right. you dont need a greater reason
+[03:18:20] nyanners: then you calculate to make sure it doesnt randomly lose a pawn somehow
+[03:18:35] mixxanber: is h4 here strong?
+[03:18:35] nyanners: it feels right
+[03:18:35] nyanners: :D
+[03:19:05] inter-temporal: (32...a6) my uninformed belief is that it all "feels" different to someone who developed skills before becoming an adult
+[03:19:20] nyanners: Kg5 is always relevant so
+[03:20:21] nyanners: imo the main issue adults have is that you dont have a good reason to occupy your mind with chess 12 hours a day
+[03:20:21] nyanners: i did that as an adult and it still works
+[03:20:36] nyanners: i also didnt have a good reason, more like a bunch of bad ones
+[03:20:36] inter-temporal: (32...a6) generally, a player's strength at around 17 or 18, plus up to 400 points max, seems common
+[03:21:06] nyanners: yea because why would you keep up the chess dedication as an adult. thats obviously insane
+[03:21:37] inter-temporal: (33.Ra7) if you were 1500 FIDE at age 17, rare to see more than 1900s as adult. even "dedicated" ones. i think
+[03:21:52] nyanners: whats a "dedicated" one? the kids are spending all their free time on chess and most of their non-free time too
+[03:22:07] nyanners: you cant compete with that regardless of neuroplasticity or not
+[03:22:22] inter-temporal: (33...Bc4) some adults have tried that. but the stories are sad. lol
+[03:22:37] nyanners: ironically i feel the excess of structure stifles them
+[03:23:07] nyanners: like they post their 5 page training plan, i have other masters look at it and the reaction is always like
+[03:23:23] nyanners: yea thats a great plan. hes going to fail horribly
+[03:23:53] inter-temporal: (33...Bc4) i liked Rose Atwell's routine.
+[03:24:08] nyanners: we would never tell them that, of course. maybe theyre the chosen one
+[03:24:08] inter-temporal: (33...Bc4) she shared it on a stream with Ramesch, i think. he also has some ideas i find persuasive
+[03:25:09] nyanners: the common thread is that every single day there is a whole lot of  chess xd
+[03:25:39] nyanners: as a chess headhunter, i look at the questions a player asks and their natural curiosity and obsession
+[03:25:54] nyanners: unhealthy obsession is basically the strongest predictor
+[03:26:09] inter-temporal: (34.Nd4) the kids who excel seem to love it. and their imaginations are filled with wonderful fantasy
+[03:26:24] nyanners: yea the thing is, unhealthy obsession can only come from some sort of real inner desire
+[03:26:39] nyanners: if you take chess as a "serious project" or something its unlikely to work
+[03:26:55] nyanners: it needs that fire
+[03:27:10] inter-temporal: (34.Nd4) probably gotta love chess more than any other activities.
+[03:27:10] nyanners: yes. and need to afford it
+[03:27:25] nyanners: which, for most people, means being a teen with no higher understanding of the world
+[03:27:25] nyanners: which is not a diss, of course
+[03:27:40] inter-temporal: (34.Nd4) focus!
+[03:28:10] nyanners: my chess improvement rate quickly declined when my mental health improved xd
+[03:28:10] inter-temporal: (34.Nd4) lol. makes sense
+[03:28:41] inter-temporal: (34.Nd4) i'm probably preserving my current level at the cost of some mental health.
+[03:29:11] nyanners: if chess was no longer a significant part of my self-image and sense of worth, the effort could no longer be justified
+[03:29:41] nyanners: love of the game? yea that only gets you so far XD
+[03:30:11] inter-temporal: (34...Rf8) like everything else. there's several factors i guess
+[03:30:27] nyanners: i mean, its enough for me to not get worse. i still consume and ask questions
+[03:30:27] nyanners: it just doesnt reeeeeeally matter
+[03:30:27] mixxanber: Rf7 doesn't work here still
+[03:30:42] nyanners: it does!
+[03:30:42] inter-temporal: (35.Nf5) yeh
+[03:30:57] inter-temporal: (35.Nf5) black is consolidating
+[03:30:57] nyanners: after r trade the a-pawn is no longer attacked
+[03:30:57] blueside617: let me in
+[03:30:57] nyanners: so its just bx
+[03:30:57] mixxanber: Rx then Ne6+
+[03:31:12] mixxanber: Nd6*
+[03:31:12] inter-temporal: (35...Rf7) not by the hair of my chinny, chin, chin
+[03:31:27] mixxanber: oh Bx
+[03:31:27] mixxanber: Nh4+
+[03:31:42] inter-temporal: (35...Rf7) oooh
+[03:31:57] inter-temporal: (35...Rf7) see? too many things to keep track of.
+[03:31:57] nyanners: would be a draw if white had h4
+[03:32:13] nyanners: funny one
+[03:32:43] nyanners: so white's best bluff would probably be to start with 35 f4
+[03:32:43] nyanners: *h4
+[03:34:44] inter-temporal: (36.Ne7+) ahh. i see
+[03:34:59] inter-temporal: (36.Ne7+) that is funny. lol
+[03:38:01] nyanners: yea now its effectively over
+[03:38:01] inter-temporal: (38...Kh4) oof. but white has a knight! :)
+[03:38:16] nyanners: in general the knight rule applies but this is not the general
+[03:38:31] nyanners: even winning the bishop is still lost
+[03:39:17] inter-temporal: (39...Bb5)  but "Never Resign! (unless you feel like it)"--Season 41, 6th Place team
+[03:39:32] nyanners: that one is more to the point
+[03:40:17] inter-temporal: (45.Ke2) white has earned the right to play on. respect
+[03:40:32] blueside617: ow
+[03:40:47] nyanners: dang
+[03:40:47] inter-temporal: (47...Ke2) yeh. it hurts. i know
+[03:40:47] nyanners: Big Endgames shill
+[03:40:47] inter-temporal: (47...Ke2) we know
+[03:41:33] nyanners: converts demonstrating the most amount of technical knowledge possible
+[03:41:48] nyanners: i respect it
+[03:42:18] avemanyeg: ive stalemated many a game
+[03:42:33] inter-temporal: (50.Kh2) me too
+[03:42:49] inter-temporal: (50...f1=Q) 'about time for me to go check out the next game in my book
+[03:43:04] inter-temporal: (51.Kg3) Levenfish v Kan, Moscow 1927
+[03:43:19] inter-temporal: (51...Ke3) that's the Kan part of the Caro-Kan, oc. lol
+[03:43:34] inter-temporal: (53...Qg5) apparently, Levenfish had him, but let him slip away with a draw
+[03:43:49] inter-temporal: (55.Kh1) gg
+[03:44:04] matthewkcanada: gg
+[03:44:04] nyanners: poor technique. id mate on the h-file to minimize the chances of a slip
+[03:44:19] nyanners: but black played really well so he gets a pass
+[03:44:35] nyanners: gg
+[03:45:35] inter-temporal: i think the agressive move 27.f5+ is where the trouble began for white. maybe
+[03:46:05] nyanners: it was kinda tempting
+[03:46:05] nyanners: rxa7 looked like little risk though
+[03:46:20] inter-temporal: indeed. difficult decisions.
+[03:48:06] inter-temporal: c ya!!
