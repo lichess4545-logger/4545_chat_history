@@ -1,0 +1,145 @@
+Lichess game chat log
+Game      : https://lichess.org/BcFvWWiK
+White     : ttsgosadow
+Black     : nubro
+Time      : 45+45
+Captured  : 2026-11-11 23:30:49 UTC
+Game ended : 2026-11-11 22:10:40 UTC
+Messages  : 135
+────────────────────────────────────────────────────────────
+
+[19:33:07] timothyha: (1.e4) go, @ttsgosadow
+[19:33:38] ttsgosadow: (2.d4) hi spectators!
+[19:33:38] finerik: Go Nubro!!
+[19:34:08] jfiras: (5.Bf3) Good luck tts !
+[19:35:39] timothyha: (6.Ne2) when a French looks like a d4 game with some weakness on b7 and c6
+[19:37:10] timothyha: (7.Be3) e5 looks comfortable for Black here
+[19:37:10] ttsgosadow: (7.Be3) On take I plan to take back with Knight
+[19:37:40] ttsgosadow: (7.Be3) I expect quite an open position, so taking care of the bishops a bit cant hurt
+[19:42:28] robertjackson: Good luck Tim
+[19:47:31] scarff: 8.Nc3 now. Develop and use that. Losing the b pawn seems not so relevant
+[19:48:31] scarff: Maybe have to calculate cxd though. Maybe black can somehow simplify there
+[19:50:02] jfiras: (7...Qb6) maybe c3 then
+[19:50:17] jfiras: (8.b3) c3 Qxb2 Nd2
+[19:51:03] ttsgosadow: (8.b3) havnt seen this in my prep - looked if there was tactic, if there is I couldnt find it, and thought thaat this way I keep the ...
+[19:51:03] ttsgosadow: ...pawn structure
+[19:51:33] scarff: Not sure I like b3, it feels not needed, a bit slow? I wanted to just develop and use the pieces while black is undeveloped
+[19:51:48] ttsgosadow: (8.b3) Other idea would be Bxc6+, but that leads to ugly pawns for me
+[19:52:19] scarff: And b3 weakes the diagonal to the king too. cxd and then Bb4+ could be annoying?
+[19:52:19] jfiras: (8.b3) no don't give away your lsb here
+[19:53:04] scarff: I agree. The lsb is great to pressure blacks queenside, great long term piece!
+[19:54:05] ttsgosadow: (8.b3) Looks like my middle game plan will resolve around King side castle, and play on queenside pawn majority - but lets first ...
+[19:54:05] ttsgosadow: ...finish development
+[19:54:20] jfiras: (8.b3) i am thinking about Bc1 Bb2 after castling and developing the knight
+[19:54:50] jfiras: (8.b3) yeah good point Tim you should adapt your plans to these changes
+[19:55:20] scarff: What I liked most about white was the fast development and good pieces. Feels like now white is losing that plan and advantage a little
+[19:55:51] scarff: But still lots to play, many things to happen still!
+[19:56:06] ttsgosadow: (8...Be7) This is last move before he castles probably
+[20:01:24] jfiras: (9...O-O) now where to put the horsey ?
+[20:01:54] ttsgosadow: (9...O-O) I like trading pawns now, as I claim d-file and it is harder for black to move his rook to d8
+[20:02:40] scarff: Is it? Black has queen and knight defending d8, and then Rd8 comes with tempo
+[20:08:28] scarff: Maybe c4 now. Give room for Qc2 to prepare for Rd8?
+[20:08:43] scarff: And fits in the long term plan of pushing your majority too
+[20:12:00] jfiras: (11...Qxc5) i still want a knight move here
+[20:12:46] scarff: Same here. I wanted it at move 8, and now still. b3 and dxc both feel like less useful than a knight move
+[20:15:47] scarff: But c4 is also a good move I think. This was my first instinct to play to make room for the queen
+[20:16:18] ttsgosadow: (12.c4) Missed that the Knight on c6 also covers d8
+[20:17:03] ttsgosadow: (12.c4) Considered trading it for my Bishop, but then he has bishop in open position and I dont, didnt feel like a good trade, even ...
+[20:17:03] ttsgosadow: ...though it would give me some tempo
+[20:17:49] ttsgosadow: (12.c4) On Rd8 I intend to play Qc2, going for Nc3 and then stack rooks on D-file
+[20:22:21] ttsgosadow: (13.Qc2) Ne5 looks threatening, I see Nd2 or Qc3 as replies
+[20:23:52] jfiras: (13.Qc2) maybe b5 for black here, but not sure if it is safe to pin your own knight
+[20:36:29] ttsgosadow: (14.Be4) I dont like my position at the moment, Black has a lot of pressure
+[21:03:00] ttsgosadow: (19.Qc2) In hindsight a4 looks like a decent move as well - need to get my pieces in
+[21:14:52] fwcj68: Go Nubro!
+[21:28:30] jfiras: (24...Bxe4) re1
+[22:00:34] robertjackson: 42 White still fighting very hard
+[22:03:51] nyanners: a timely h4 may save the game at some point
+[22:04:36] nyanners: i dont think b4b5 helped tho
+[22:05:21] nyanners: now youve backed yourself into h4
+[22:05:37] nyanners: yea
+[22:05:52] nyanners: had to play h4 to "prevent" this
+[22:06:37] robertjackson: all over
+[22:06:37] nyanners: all choices win easily of course
+[22:08:08] nyanners: its not like Kg5-Kxh4 would help but not even having that is tragic
+[22:09:24] jfiras: gg !
+[22:10:40] pineapplechiffoncake: gg
+[22:11:40] nyanners: gg
+[22:18:59] ttsgosadow: Vanaf Qb6 zat ik vast en kon ik er niet meer uitkomen
+[22:19:14] nubro: Zoals ik zei: ik denk dat als je gewoon rokeerde of de knight bvb developt dat ik niet kan nemen.
+[22:19:14] nubro: Eens kijken was engine zegt
+[22:19:44] nyanners: its not losing but you probably dont want to take
+[22:20:14] nyanners: Nbc3 Qxb2 Rb1 Qa3 and Rb3 doesnt really get anywhere
+[22:20:14] nyanners: but just play normal for a bit
+[22:20:14] nubro: Yeah I see, it loses a lot of moves to get the queen to safety
+[22:20:29] ttsgosadow: Knew the game would be about d-file, and you got there first
+[22:20:44] nyanners: b3 isnt so bad but black played really well
+[22:20:44] ttsgosadow: I think I value damaging the pawn chain too high compared to the tempo
+[22:21:15] nubro: I was also looking at Nbc3 - Na4
+[22:21:15] nubro: Around move 9/10
+[22:22:00] ttsgosadow: I considered that, but that would place my Knight on the rim
+[22:22:15] nyanners: the position on move 15 is just tough because yea i would also not want to trade the bishop
+[22:22:30] nyanners: and 15 Nbc3 okay it may be zero but clearly black has the easier moves
+[22:23:31] nubro: I feared 15 Nbc3 haha, the sacrifice doesn't work that way
+[22:23:46] nyanners: yea youd have to take it slow..
+[22:23:46] ttsgosadow: Also around move 15 there wass Rd3 to account for, it was really tricky by then
+[22:24:46] ttsgosadow: On move 10 I thought the trade would give me timee to claaim d file, but thee horsse was covering d8 as wwell, I missedd that
+[22:25:01] nubro: 16. Bxh7, nice. Did not consider that one.
+[22:25:17] nubro: Yes, luckily haha. If I had to develop my LSB first it would've cost me a lot of moves
+[22:25:32] nubro: That one was stuck the whole game
+[22:25:32] nubro: Classic French
+[22:25:47] ttsgosadow: I calculated the lines a few moves earlieer, and didnt recalculaate by now, then I might have found it. Overlooked the rook was hanging ...
+[22:25:47] ttsgosadow: ...in the end
+[22:26:02] nyanners: i feel white played quite sensibly. it just didnt work XD
+[22:26:02] ttsgosadow: Yeah, that LSB was not doing anything, until late in the game
+[22:26:02] nyanners: ultimately we have to kinda trace it back to b3 i guess
+[22:26:17] ttsgosadow: Thats kind of you to say, nyanners
+[22:26:32] ttsgosadow: Yeah, Qb6 and then b3 set me back, or so it felt
+[22:27:02] ttsgosadow: Also developing the Knight being more important than castling was something I valued the other way around in the game
+[22:27:18] ttsgosadow: Then black gave me no breathing room - just one tempo would have been enough to free the knight and rook
+[22:27:33] nubro: Yes because of the undeveloped knight I was also looking at Qe5 at some point
+[22:28:18] nyanners: ummm yeah hard to say
+[22:28:33] nubro: Had ideas combined with a knight on g4 maybe forking the rook and a mate. Did not get that far, and was not sure if my Q would be ...
+[22:28:33] nubro: ...trapped in the corner. But the idea was in the back of my mind haha
+[22:28:33] nyanners: like, its the trends of the game
+[22:28:48] nyanners: if youve played b3 youre probably not looking at ah yes time to get aggressive-precise lets play Nc3 to threaten dxc5 lets GO
+[22:29:03] ttsgosadow: in hindsight Neg4 wassnt bad, until I made it so ith h3
+[22:29:19] ttsgosadow: yeah, its the trend of the game
+[22:30:19] nubro: Yes Neg4 does not that much if you played Nbc3
+[22:30:34] nyanners: i like it
+[22:30:34] ttsgosadow: (this analysing and chatting is really helpfull btw, thanks!)
+[22:30:49] nubro: Engine likes, 14..Nxe4 15. Qxe4 Bd7. Qxb7 does not work because of Bc6. Would've solved my bishop problem earlier.
+[22:31:04] nyanners: like, you dont really risk much. and h3 is very tempting and theres a decent chance white doesnt see
+[22:31:20] nyanners: white still cant avoid Nxe4
+[22:32:05] nubro: Yes I liked trading that bishop
+[22:32:20] nyanners: or well, i suppose white could play 15 Bf3 and repeat
+[22:32:20] nubro: I was also looking at 14. Qc3 for you, that's where you saw Rd3 I guess?
+[22:32:20] nyanners: then after 15 Bf3 Ne5 Be4 you take :o
+[22:32:50] nyanners: as long as white doesnt keep the bishop
+[22:32:50] nyanners: i dont mind what black does
+[22:33:51] nubro: Btw unusual (for me anyway) 3rd move. Have not encountered it much. 3. Bd3! I saw you played it in the past so I prepared a bit but Qb6 ...
+[22:33:51] nubro: ...was not in prep haha
+[22:34:06] ttsgosadow: The idea is to play something most French players dont see often
+[22:34:36] ttsgosadow: That worked then :)
+[22:35:21] ttsgosadow: Qb6 isnt even in my lines at all
+[22:35:37] nyanners: i tried to like Bd3 but i feel all Ne5 lines are too good
+[22:35:52] nyanners: of course many players better than me still play it
+[22:36:22] ttsgosadow: I think I played it a handfull of times now, and I am not sold yet
+[22:36:22] nubro: I think, if you play it again, I would black take the pawn and chase the queen
+[22:36:37] ttsgosadow: When I play French myself I think Nd2 is better, Tarrasch I think that is?
+[22:36:37] nubro: let black take the pawn*
+[22:37:07] ttsgosadow: Yeah, I think so as well - it feels like giving up material for free though
+[22:37:38] nubro: Nd2 at what move?
+[22:37:53] nubro: Yeah maybe, it's tricky though to find all the safe moves for the queen
+[22:38:38] ttsgosadow: 3 Nd2
+[22:38:53] nubro: Oh instead of taking
+[22:39:08] nubro: Yeah I like chasing the bishop away haha
+[22:39:23] ttsgosadow: Yeah, it gives less targets at least
+[22:39:39] nyanners: there was a time when the engine freaked out about 3 Nd2 Nf6 e5 Nfd7 c3 c5 f4 being a large advantage
+[22:39:39] nyanners: now its just a normal one XD
+[22:40:24] nubro: I play the fort knox against 2. Nd2
+[22:41:24] ttsgosadow: But again, thankss for the game and the analysing! I am going to bed, as its work early tomorrow
+[22:41:40] nubro: I don't like the positionn you just described as black haha, that's why I changed from Nf6 to dxe4
+[22:41:40] nubro: Yeah same, gg!
+[22:41:40] ttsgosadow: Hope to play again in the future, and good luck in your next gaame!
+[22:44:11] nyanners: gg
