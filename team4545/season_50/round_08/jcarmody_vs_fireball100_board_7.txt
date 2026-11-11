@@ -1,0 +1,107 @@
+Lichess game chat log
+Game      : https://lichess.org/GAyakW8y
+White     : jcarmody
+Black     : fireball100
+Time      : 45+45
+Captured  : 2026-11-11 22:50:21 UTC
+Game ended : 2026-11-11 21:30:13 UTC
+Messages  : 97
+────────────────────────────────────────────────────────────
+
+[18:57:13] simonwashere: Go fireball!
+[19:02:01] fireball100: Hello Simon!
+[19:02:31] fireball100: I am going to actually castle this game :0
+[19:03:32] guitarspider: (4...Nf6) go jc
+[19:04:17] jcarmody: I remember there's something about my LSB when the N is either on, or not on, f6.
+[19:04:32] jcarmody: if I could only remember...
+[19:05:03] jcarmody: perhaps Bd3 invites c4
+[19:06:49] zubenelgenubi: go jc!
+[19:17:40] jcarmody: (8..h6) e4 is why I played Qe2
+[19:17:55] jcarmody: (8..h6) e4 , dxe4 , Nxe4
+[19:18:41] jcarmody: (8..h6) e4 , e5 , dxe5 ;)
+[19:23:13] jcarmody: (10.Nxe4) xe4 , Qxe4 , f5 , Qh4?
+[19:24:44] fireball100: already a bit complicated...
+[19:25:29] jcarmody: (11..f5) Qh4 , Qxh4 , Nxh4
+[19:38:07] mizrab: Go Fireball!
+[19:49:28] buki9: Let’s go JC!
+[19:50:29] buki9: b3, Ba3 looks interesting for white
+[19:50:29] warvold: (19...Kg7) Go firaball!
+[19:55:32] feet_barbie: (21.a4) goo
+[19:56:47] simonwashere: goo firaball
+[19:59:34] jcarmody: I can't leave my Bs stacked like this.
+[20:00:04] simonwashere: bishop stacking is a serious offence in some jurisdictions
+[20:01:35] silkthewanderer: Go jc
+[20:05:53] jcarmody: (24..Raf8) f3 , g4 , Be2 , gxf3 , Bxf3 , Bxf3 , gxf3 , Nf5
+[20:06:23] jcarmody: (24..Raf8) h3 then?
+[20:08:39] jcarmody: (25..h5) g3 , fxg3 , fxg3
+[20:09:40] jcarmody: (25..h5) f3 , g4 , hxg4 , hxg4 , Ra3 , xf3 , g3
+[20:20:01] inter-temporal: (27...bxa5) gooo jcarmody!
+[20:22:02] inter-temporal: (28.Rxa5) the underdog is holding his own. :)
+[20:23:33] inter-temporal: (29.c5) looks like a good move
+[20:24:03] inter-temporal: (29...g4) take a6, yeh?
+[20:24:48] jcarmody: (29..g4) hxg4 , hxg4 , Ra3
+[20:27:20] jcarmody: (30..hxg4) Bxa6 , gxf3 , Bxb7 , f2 , Kxf2 , Rxb7
+[20:40:58] jcarmody: (34..Rh5) Kg2 I wanted to advance my K anyway.
+[20:42:14] inter-temporal: (35.Kg2) walking on a tight rope
+[20:42:44] jcarmody: (35.Kg2) Rh4? , c6
+[20:42:59] inter-temporal: (35.Kg2) or just Bxf4
+[20:44:15] jcarmody: (35.Kg2) Rh8 is scary
+[20:44:45] inter-temporal: (35.Kg2) which might lead to considering Bxf4
+[20:45:15] jcarmody: (35.Kg2) Rh8 , Bxf4 , Rh2 , Kxg3 , R8h3 , Kg4 , Rh4 , Kf5 , Rh5 , Ke4
+[20:45:31] jcarmody: I think I can escape.
+[20:45:31] inter-temporal: (35.Kg2) yes!
+[20:45:46] inter-temporal: (35...Rg5) new plan
+[20:46:46] jcarmody: (36.c6) Ne4+!
+[20:47:02] inter-temporal: (36...Ne4+) N-moves...
+[20:47:47] inter-temporal: (38.Ke2) circle all the N-moves. (until we reach higher levels)
+[20:49:33] jcarmody: (39..Nxf3) Rh1 , Rd2+ , Kc4 , Rh6
+[20:51:04] jcarmody: (40..Rh1) Re7+ , Kf6 , Rh7
+[20:51:19] inter-temporal: (40.Rh1) indeed. good idea
+[20:52:50] inter-temporal: (40...Ra8) but maybe c7 is better, first. aim the K at b5
+[20:53:20] inter-temporal: (40...Ra8) but ...Kf7 might be a problem to work out too
+[20:54:06] inter-temporal: (40...Ra8) or just c7 Kf7, Rc6 but it's undefended so careful
+[20:54:21] inter-temporal: (40...Ra8) no that's bad
+[20:54:36] inter-temporal: (40...Ra8) N-moves again!
+[20:55:21] inter-temporal: (40...Ra8) so reject c7 and go with the Re7+ idea?
+[20:57:22] inter-temporal: (41.Rhh6) i'd just really be sure to keep constant watch over the N-moves
+[20:57:39] jcarmody: (41..Ra3+) Ke4 , Ng5 0-1
+[20:57:39] inter-temporal: (41...Ra3+) like, no Ke4!
+[20:57:39] inter-temporal: (41...Ra3+) yes! good
+[20:59:25] jcarmody: (42.Kc4) Rc2+, Kd5 , Rd3+ , Ke4 , Ng5+ is the same thing
+[20:59:55] jcarmody: (42.Kc4) Rc2+ , Kd5 , Rd3 , Ke4 , Ng5 , Kxd3 , Nxe6 , Rxe6
+[21:00:25] jcarmody: not the same thing at all
+[21:00:25] inter-temporal: (42.Kc4) wow! ur on fire
+[21:00:40] simonwashere: Nxe5
+[21:01:41] inter-temporal: (42.Kc4) with check...
+[21:04:13] inter-temporal: (43...Rd3+) nice find simon! :)
+[21:04:58] simonwashere: thanks, if only I could find the tactics in my own games :)
+[21:06:14] inter-temporal: (44.Ke4) looks like black loses material.
+[21:06:44] inter-temporal: (44.Ke4) but perhaps can arrange a perpet
+[21:06:44] jcarmody: my network connection glitched!
+[21:07:14] jcarmody: it usually doesn't take that much time for me to make an only-move
+[21:08:15] jcarmody: he can't defend all three, right?
+[21:12:32] inter-temporal: (44...Ng5+) i think ...Rcc3, Kxf4 Nd2, Reg6+ Kf7, .... oops
+[21:12:32] jcarmody: (44..Ng5+) Kxd3 , Nxe6 , Rxe6
+[21:12:48] inter-temporal: (44...Ng5+) well played jc
+[21:13:18] fireball100: I kind of blew it here...
+[21:13:48] inter-temporal: (44...Ng5+) time pressure
+[21:16:50] inter-temporal: (47...Ra2) still gotta be careful
+[21:17:20] inter-temporal: (47...Ra2) Rf6 f3, Rxf3? Ra2+, but still might draw or win with the 2 passers
+[21:17:50] inter-temporal: (48.Rf6)  Rf6 f3, Rxf3? [Ra3+]
+[21:18:21] jcarmody: btw, I can hear my heartbeat!
+[21:18:51] inter-temporal: (49.Rxf4) "i can hear my heart beat"--Alanis Morissette?
+[21:19:06] inter-temporal: (49...Re7) no wait...
+[21:19:21] inter-temporal: (49...Re7)  "i can hear my heart beat"--Capablanca, oc
+[21:20:22] inter-temporal: (51.e6+) "do not hurry [in the endgame]."
+[21:20:52] inter-temporal: (52.b5) that's hurrying. something like Kd4, Kd5
+[21:21:07] simonwashere: "do not hurry [in the endgame]." Alanis Morissette
+[21:21:07] inter-temporal: (52...Kd8) lol
+[21:26:10] inter-temporal: (56...Kb7) i hesitate to suggest that jc should favor putting his pawns side-by-side on the 6th rank
+[21:26:41] inter-temporal: (56...Kb7) yeh. forget everything i say. just keep doin what ur doin. :)
+[21:28:27] jcarmody: (57..Rh8) e7 , Rh1 , e8=Q , Rd1 and I'm safe
+[21:28:42] jcarmody: (57..Rh8) e7 , Rh7 , Kd8
+[21:29:42] simonwashere: gg
+[21:29:42] zubenelgenubi: gg
+[21:29:42] guitarspider: gg
+[21:29:42] inter-temporal: gg
+[21:56:10] goldenretrieverchess: gg
