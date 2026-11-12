@@ -1,0 +1,82 @@
+Lichess game chat log
+Game      : https://lichess.org/8pt9WI0p
+White     : cbpio
+Black     : highonpotnuse
+Time      : 45+45
+Captured  : 2026-11-12 21:01:15 UTC
+Game ended : 2026-11-12 19:41:14 UTC
+Messages  : 72
+────────────────────────────────────────────────────────────
+
+[18:12:22] bpack: go hop!!!
+[18:14:08] inter-temporal: (7.d3) go HighonPotnuse!
+[18:14:23] inter-temporal: (7.d3) our mate is streaming voice and the game on twitch
+[18:15:09] bpack: are hank and herbert there?
+[18:15:24] bpack: ;-)
+[18:18:10] inter-temporal: (8.Re1) my favorite person(s)
+[18:18:56] bpack: (8...) now what does he do to finish development.
+[18:19:41] inter-temporal: (8.Re1) he's talking about ...Ne5. my dude
+[18:20:12] bpack: lol  o my...
+[18:20:27] bpack: to his credit, it does stop e5
+[18:21:58] inter-temporal: (8...d6) kewl. he says "get developed, get castled"
+[18:22:13] bpack: you can tell Nuse plays the dutch
+[18:22:13] bpack: look at this pawn structure!
+[18:22:13] angborxley: (8...d6) go cbpio!
+[18:22:58] inter-temporal: (8...d6) he said hes been all sicilian this season as black. but other influences come in as well
+[18:25:30] bpack: yeah, this looks like a reverse leningrad. being played like a hedgehog
+[18:27:31] bpack: all that's left is to 0-0-0
+[18:27:46] inter-temporal: (9...Nf6) an inter-species migration opening.
+[18:29:02] inter-temporal: (10.Qd2) we got time for ...Be7 and 0-0. is black going for e5 or d4? or regrouping
+[18:29:17] inter-temporal: (10.Qd2) i mean white
+[18:29:32] inter-temporal: (10.Qd2) is white aiming for a central break, or just maneuvering
+[18:31:03] inter-temporal: (11.e5) maybe e5
+[18:37:07] jfiras: (11...dxe5) http://twitch.tv/teannta
+[18:37:22] bpack: Bxe6 ideas for white brewing?
+[18:44:56] inter-temporal: (13...Qc6) early explosions
+[18:45:27] bpack: very nice move
+[18:47:13] inter-temporal: (13...Qc6) some difficultieis if we hope to castle safely and get a rook to d8
+[18:47:43] inter-temporal: (14.Qg5) you can castle long
+[18:48:13] inter-temporal: (14.Qg5) we don't need to defed the g-pawn
+[18:48:44] inter-temporal: (14.Qg5) Qxg7 is a huge blunder after Rg8, oc
+[18:51:45] bpack: h6 would be hawt
+[19:03:53] feet_barbie: (14...h6) nice move h6
+[19:03:53] feet_barbie: (14...h6) worth the 30 minutes spent xD
+[19:04:53] feet_barbie: (15.Qg3) 0-0-0
+[19:05:08] inter-temporal: (15.Qg3) indeed
+[19:05:39] inter-temporal: (15...O-O) just need another 30 minutes
+[19:07:10] inter-temporal: (16.Ne4) ...Kh7 maybe
+[19:07:40] inter-temporal: (16.Ne4) still probably defending against an attack for awhile
+[19:08:25] inter-temporal: (16.Ne4) or perhaps ...Rg8 comes quickly
+[19:10:11] inter-temporal: (16...Kh8) is this better? seems like Kh7 helps defend h6, but idk
+[19:10:26] feet_barbie: (16...Kh8) looks good for white
+[19:11:42] inter-temporal: (16...Kh8) yeh.
+[19:12:13] inter-temporal: (16...Kh8) at least he has to be careful about opening the g-file. might slow down the attack
+[19:13:28] feet_barbie: (16...Kh8) or play f3 ahha
+[19:13:28] feet_barbie: (16...Kh8) idk
+[19:15:14] inter-temporal: (16...Kh8) i might be looking at ...b5 too to open the a-file, if i don't get mated
+[19:31:54] inter-temporal: (22...Bc8) might be losing another pawn; or allowing Re7
+[19:32:24] bpack: I liked Bd5 a bit more
+[19:32:39] inter-temporal: (23.Re7) i think that led to Rxh6+ sac?
+[19:33:10] inter-temporal: (23...Qc6) but maybe so. idk
+[19:33:25] inter-temporal: (23...Qc6) white would be guaranteed a draw, i think
+[19:33:55] bpack: possibly, i hadn't looked too indepth
+[19:34:10] bpack: i think black would be happy for a draw here
+[19:34:25] inter-temporal: (24.Qg3) now we need ...Nh5 probably
+[19:34:56] inter-temporal: (24...Nh5) and Qg6 might help for a moment
+[19:35:56] bpack: Bb7 again =P
+[19:36:11] inter-temporal: (25.Qe5) ...Qf6 but Qc7
+[19:36:27] inter-temporal: (25...Rf6) ...Bb7 if it works, yeh
+[19:36:27] feet_barbie: (25...Rf6) really
+[19:36:57] bpack: might've even been necessary ::shrugs::
+[19:37:42] feet_barbie: (28.Bxa8) yeah why not re8
+[19:38:13] inter-temporal: (29.Re8+)  i think, perhaps, 15...0-0 needed to be delayed
+[19:39:43] inter-temporal: (33.Kxg2) noo. keep ur N!
+[19:39:43] bpack: i'd pin the big down swing on 18...f5
+[19:40:44] bpack: black still had a solid position at that point
+[19:40:44] inter-temporal: gg
+[19:40:44] bpack: ah, ggs
+[19:41:14] inter-temporal: 15...0-0 was okay (if ur SF)
+[19:42:00] inter-temporal: and 18...b5 was a top idea. lucky guess
+[19:43:15] inter-temporal: and again at 22... so both places where the blunders arise, SF says ...b5
+[19:44:01] inter-temporal: it seemed like possily safe counterplay and forces white to deal with his back rank
+[19:44:31] inter-temporal: now if i can just figure that out during my own games. lol
