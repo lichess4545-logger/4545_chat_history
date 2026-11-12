@@ -1,0 +1,140 @@
+Lichess game chat log
+Game      : https://lichess.org/nAgkJYdb
+White     : kygreek
+Black     : caodanny
+Time      : 45+45
+Captured  : 2026-11-12 06:10:28 UTC
+Game ended : 2026-11-12 04:50:19 UTC
+Messages  : 130
+────────────────────────────────────────────────────────────
+
+[02:31:46] mongreltiger: Go Danny!
+[02:57:31] antazhi8: Nxh4 Bxh4 Qg4 Bxg3 Qxg7 Bxf2 Kxf2 Qh4+ and 0-0-0 doesn't work for White so it seems...
+[03:01:02] antazhi8: Qc7 with the idea of 0-0-0 looks good, but then Nxd5 and e6 is a nice tactic, so maybe Qb6?
+[03:01:48] antazhi8: Qb6 b4 idea of b5 don't really like for Black either
+[03:02:03] nyanners: i remember there was a time everyone was calling this an "easy" system for white
+[03:02:03] nyanners: is it......
+[03:02:33] antazhi8: always dangerous
+[03:02:49] nyanners: the initiative is lasting, at least
+[03:02:49] nyanners: but id take black
+[03:03:04] nyanners: think its fine to bluff call e.g. O-O h6 g6
+[03:03:49] nyanners: white needs one more piece at least
+[03:03:49] nyanners: seems difficult to sneak it in
+[03:04:19] antazhi8: yeah, probably keep the pawn on h5 after 0-0
+[03:04:19] nyanners: yeah its probably Bc2 Qd3.. which still doesnt impress i think
+[03:04:35] nyanners: the bishop on g3 is somehow more of a nuisance for white than for black
+[03:05:05] nyanners: i mean everything is so awkward, Qg4 f4 Rf1?
+[03:07:36] nyanners: my main objection to the immediate Qg4 is that i think O-O is a good move and this effectively forces it
+[03:07:51] nyanners: i know its scary but you gotta do it..
+[03:08:37] antazhi8: probably Bf4 next then
+[03:08:52] antazhi8: threaten Bh6 and give queen g3 square
+[03:09:52] nyanners: inserting Bf4 Kh8 is definitely in white's favour
+[03:09:52] nyanners: though maybe that doesnt mean much
+[03:10:53] antazhi8: pawn on h5 more of a hindrance
+[03:11:23] antazhi8: without you'd have h7 sacs and Re3-h3 lifts
+[03:11:54] nyanners: would still have to clear the bishop
+[03:12:09] nyanners: so okay, Bf4 and rook lift and you force g6.. maybe. and its still tough to break
+[03:12:54] antazhi8: i think that's the way
+[03:13:24] nyanners: yeah i wouldnt be like super optimistic
+[03:13:24] nyanners: but i think its how id go about it
+[03:13:40] nyanners: scary for black for sure
+[03:14:40] nyanners: Rc1 is like, wouldnt say its "bad", its like okay i wont checkmate i give up
+[03:14:55] antazhi8: f6 or f5 feels awkward for White now
+[03:15:25] nyanners: i mean, yes, but also white has put aside the checkmate ambitions
+[03:15:25] nyanners: so you could leave it but also i dont see much better to do
+[03:15:41] nyanners: so you might as well
+[03:16:11] antazhi8: queen on g4 is asking to be discovered on with e5 pawn push
+[03:17:11] antazhi8: also f5 forces ef, right, because f4 is coming next
+[03:17:27] nyanners: its a very french continuation for sure
+[03:27:32] antazhi8: f4-f3 battering ram, with nd4-xf3
+[03:33:36] nyanners: deep trouble
+[03:35:37] antazhi8: I think Qg4 f3 Rcd1 is OK
+[03:36:37] antazhi8: OK as in not losing
+[03:41:55] antazhi8: what about f4 Be7 Bxh7 Kxh7 Qg6+ Kg8 h6 Rf7 Nxd5?
+[03:42:10] antazhi8: want it to work
+[03:42:26] antazhi8: ah h7+ Kh8 Qxf7
+[03:44:12] antazhi8: probably 25.f4 Bh6, but then bishop is terrible on h6
+[03:46:13] antazhi8: white threat: Nxd5 ed Qxd5+ Kh8 e6 and Qe4
+[03:46:43] antazhi8: no, Bxh7 and Qe4 with discovery on queen
+[03:49:30] antazhi8: too passive
+[03:51:46] juancruzariastdf: Go Danny!
+[03:52:46] antazhi8: I think both pawns are safe, but Nd4 seems good
+[03:53:02] antazhi8: no just drops knight
+[03:55:03] antazhi8: Qxh5 Nxd5 ed Qxd5+ Qf7 Qxd7 Qxd7 Bxh7+ and Rxd7
+[03:55:33] antazhi8: Rf7 though
+[03:56:49] antazhi8: Bc4 maybe?, complicated
+[03:57:19] juancruzariastdf: Getting close to time trouble and still lots of pieces on the board
+[03:58:50] antazhi8: now Nxe5 with Ng4+ works
+[04:00:21] juancruzariastdf: Maybe its complicated antazhi? Because after Ng4 there is Kh3
+[04:00:51] juancruzariastdf: If Qh5+, Bh4
+[04:00:51] antazhi8: yeah then g5?
+[04:00:51] antazhi8: maybe Kg1 better
+[04:01:51] juancruzariastdf: if g5, fxg5 no?
+[04:02:07] antazhi8: forgot about the f pawn
+[04:03:38] antazhi8: there is e5 though, opening th eBd7 diagonal
+[04:04:08] juancruzariastdf: Ooh nice bishop yes
+[04:10:11] antazhi8: want ot open that long diagonal for the bishop, thinking of sacs
+[04:11:27] nyanners: looking good for danny enthusiasts
+[04:11:42] antazhi8: kh8 play it safe
+[04:12:12] nyanners: well then
+[04:12:43] nyanners: i was thinking i didnt like Nxg3 but nevermind XD
+[04:23:34] nyanners: brutal efficiency
+[04:25:20] juancruzariastdf: Not easy to close it... Have to be careful about Qg6 and Qe6
+[04:27:21] nyanners: yea id be a bit more concerned :o
+[04:27:21] juancruzariastdf: Now after Qxe6 and with this time... Fear
+[04:27:36] nyanners: maybe tried to be a bit too efficient
+[04:28:06] nyanners: i feel ..d4 ..d3 is affordable but its not what you want XD
+[04:28:22] nyanners: sometimes you have to do what you must
+[04:28:22] juancruzariastdf: Love the all in
+[04:28:52] juancruzariastdf: Playing for the fans at home
+[04:29:07] nyanners: all is well that ends well
+[04:29:07] nyanners: will it..
+[04:29:22] nyanners: d3 bx rg2+ and rxg3
+[04:29:22] nyanners: all forced
+[04:29:22] nyanners: whoa
+[04:29:37] nyanners: thats not the move order im afraid
+[04:29:37] juancruzariastdf: My my
+[04:29:52] juancruzariastdf: Still interesting
+[04:30:07] nyanners: a bit too interesting XD
+[04:30:07] antazhi8: oh no
+[04:30:07] nyanners: id bet black if the time wasnt so bad
+[04:30:23] nyanners: i think hes panicking
+[04:30:38] nyanners: yeaa
+[04:30:38] antazhi8: but go Ky
+[04:31:08] nyanners: what a beautiful tragedy. i will go sign the rights before anyone else does
+[04:32:09] antazhi8: There's a Billy mays in all of us
+[04:32:24] nyanners: you could say that :o
+[04:32:54] nyanners: are there any tragedies left. maybe the d-pawn
+[04:32:54] nyanners: dont really believe it
+[04:33:24] nyanners: like you can play the obvious line but you could also take it, like, why not
+[04:34:55] nyanners: now is a good time to take d. just in case
+[04:35:41] nyanners: though i dont even see what the case could be
+[04:36:26] nyanners: but you know, some dozen thousand games teaches you that a little paranoia is helpful when you are two pieces up with the better position
+[04:37:27] nyanners: okay now we take d3. fair
+[04:38:58] nyanners: any perpetual geometry? not yet
+[04:38:58] nyanners: Kg1 Bf1 worst case
+[04:39:13] nyanners: not to mention Nh4 of course
+[04:41:44] nyanners: yess Kf2 :D i like it
+[04:45:31] nyanners: i respect the fighting spirit
+[04:45:46] nyanners: unfortunately this game is a case of a bad move negating 40 good ones
+[04:49:18] nyanners: thats a good finisher right there
+[04:49:34] nyanners: gg
+[04:52:20] caodanny: i pity those who had to watch the implosion more than i pity myself...
+[04:52:20] caodanny: that eval must look like a glacier
+[04:53:05] nyanners: i am a drama-lover, so if youre fine, then all is well :D
+[04:53:21] kygreek: thanks everyone for watching
+[04:53:36] kygreek: Danny had me in all rights
+[04:53:36] kygreek: which remind me of one of my favorite quotes
+[04:53:51] kygreek: Lefty Gomez: "I'd rather be lucky than good."
+[04:54:06] nyanners: i live by that motto
+[04:54:21] kygreek: ?
+[04:54:51] nyanners: being good helps in the long run, being lucky helps when you need it XD
+[04:56:37] nyanners: i am grateful for some critical moments of good luck
+[04:59:24] kygreek: ..
+[05:02:55] kygreek: ll
+[05:03:10] kygreek: chat is full?
+[05:03:41] kygreek: well, I was going to say, Lefty Gomez said "I'd rather be lucky than good."  This is a prime example
+[05:05:26] caodanny: missed the hanging e6 pawn... and the d3 resourse
+[05:08:13] kygreek: now chat is allowing more comments
+[05:08:43] kygreek: Good game Danny.  Have a good night everyone
+[05:09:28] nyanners: night :D
