@@ -1,0 +1,74 @@
+Lichess game chat log
+Game      : https://lichess.org/lzazvdr1
+White     : parziwal08
+Black     : mootivator
+Time      : 45+45
+Captured  : 2026-11-12 12:23:56 UTC
+Game ended : 2026-11-12 11:03:46 UTC
+Messages  : 64
+────────────────────────────────────────────────────────────
+
+[09:31:08] pineapplechiffoncake: go parziwal!
+[09:31:08] parziwal08: hello pineapple
+[09:33:25] parziwal08: I don't like my h4
+[09:35:56] parziwal08: Perhaps should have played the early Bc4
+[09:49:03] parziwal08: After d5, I could play exd5 nxd5 nxc6 bxc6 nxd5 cxd5 qxd5, I think
+[09:51:20] parziwal08: I thought 13...qh5 was an option
+[09:53:21] berndwind: Go go parz!
+[09:53:51] parziwal08: Hello Bernd!
+[09:54:06] parziwal08: kind of a weird position
+[09:54:22] parziwal08: i think I overplayed a bit, but seems under control for the moment
+[10:01:56] parziwal08: having a hard time coming up with a decent plan
+[10:20:36] parziwal08: the variation I calculated was complicated. I might miss somehting. There's a fork on f2
+[10:20:52] parziwal08: in some lines
+[10:36:31] jfiras: Good luck Mr Parzi !
+[10:37:01] jfiras: another sicilian
+[10:38:17] parziwal08: do I have na5?
+[10:39:02] jfiras: i don't think so
+[10:39:02] parziwal08: hello firas!
+[10:39:17] jfiras: hey !
+[10:39:32] parziwal08: na5 nxa5 nxe7+ kh8 nxg6+ something like that
+[10:39:32] parziwal08: then take on f8
+[10:40:03] parziwal08: rook and two pawns for two pieces. Is it worth it, especially with my weak e pawn?
+[10:40:48] jfiras: no need for these complications imo
+[10:42:04] parziwal08: I feel like I should go for it. I can kick the f6 knight then and play h5
+[10:42:19] parziwal08: but there would be no attack without the pieces
+[10:43:04] jfiras: g4 maybe
+[10:44:05] parziwal08: couldn't convince myself
+[10:50:08] parziwal08: hope this works
+[10:51:39] parziwal08: doesn't work
+[10:51:54] parziwal08: there will be rxd1 intermezzo
+[10:52:10] parziwal08: when I fork
+[10:52:25] parziwal08: Even if it worked, I don't think I would be better
+[10:54:11] parziwal08: do I resign now or play a few more moves?
+[10:54:26] berndwind: Nah keep playing
+[10:54:41] jfiras: what are you talking abt
+[10:54:41] berndwind: It’s messy
+[10:54:41] jfiras: ofc you have to play
+[10:54:56] berndwind: Hey Firas!
+[10:54:56] jfiras: it's time trouble
+[10:54:56] m0r1: I don’t think this works now. Maybe white missed that black has an intermediate rxd1+
+[10:54:56] jfiras: hey Mr Bernd !
+[10:55:42] m0r1: Oops. Chat didn’t update for me and now I  looking like a snail.
+[10:55:57] jfiras: xD
+[10:56:12] parziwal08: For a moment, I thought I was Tal
+[10:56:42] m0r1: We all think that eventually, and it is never true :-(
+[10:56:42] jfiras: you are but you have to be more patient haha
+[10:57:58] parziwal08: just h5 after rfd8 was good
+[10:58:28] jfiras: also keep the pressure on his clock you never know
+[10:59:29] parziwal08: sorry to disappoint the spectators. This could have shaped up to be a fighting game.
+[11:00:14] berndwind: Nah it’s just a little error. It ain’t over til Brünnhilde sings
+[11:01:15] parziwal08: Nothing to see here, Bernd. Go away!
+[11:02:15] berndwind: xD
+[11:02:31] berndwind: Always something to see Mr p
+[11:03:16] jfiras: gg !
+[11:03:16] berndwind: gg
+[11:04:32] m0r1: gg. These in-between moves are always tricky and easy to miss.
+[11:04:32] parziwal08: yes
+[11:05:02] parziwal08: I got too greedy. Just h5 and I'm much better
+[11:07:03] parziwal08: black did have 13...qh5. I was afraid of it.
+[11:07:48] mootivator: I was thinking about Qh5, but I discarded it from positional considerations (queen usually supports the queenside attack in this structure)
+[11:08:34] parziwal08: Yes, but I think after some unusual moves, we just have to play the position. Qh5 does put me under pressure.
+[11:09:04] mootivator: of course, the point I missed was that the bishop trade just leaves me a pawn up, and dodging with the rook gives me a free hand in center
+[11:09:04] parziwal08: I never wanted to go into an endgame, not with 12.nxc6, and not with 14.qxd8. That was my folly.
+[11:09:49] parziwal08: Yes, you have at least a pawn, and much betetr piece coordination then
