@@ -1,0 +1,353 @@
+Lichess game chat log
+Game      : https://lichess.org/DEvXuYXe
+White     : saybeginner
+Black     : serenemoose
+Time      : 45+45
+Captured  : 2026-11-12 06:01:28 UTC
+Game ended : 2026-11-12 04:41:17 UTC
+Messages  : 343
+────────────────────────────────────────────────────────────
+
+[02:33:02] inter-temporal: (5.Nc3) no maroczy bind here
+[02:34:48] inter-temporal: (6...d6) the Sveshnikov, Pelikan, Lasker, Siclian?
+[02:35:03] inter-temporal: (6...d6) i might have missed a name
+[02:35:33] inter-temporal: (6...d6) anti-maroczy kan variation? smth
+[02:38:20] inter-temporal: (9...Be7) with a boleslvasky hole. and that is enough for a basketball team
+[02:38:50] stclion: p0e5 , makes it the Lasker -Pelikan
+[02:39:51] inter-temporal: (9...Be7) might make Sveshnikov feel left out
+[02:40:21] inter-temporal: (9...Be7) my book just changed the name again, adding "Chelyabinsk"
+[02:40:36] stclion: so far  all the top Options ,  after p-e5
+[02:40:51] stclion: almost all thru out
+[02:41:07] stclion: including that
+[02:41:37] stclion: it was just an Old Sicilian  , before p-e5
+[02:41:52] inter-temporal: (11.Be2) lol. my book just gave up and says, "Sicilan Defense: Open"
+[02:41:52] inter-temporal: (11.Be2) nothing follows
+[02:42:07] inter-temporal: (11.Be2) like, my dude, why didn't you start with that? lol
+[02:42:37] stclion: ahh  that was the first sub-par move
+[02:42:53] stclion: tips the scales more toward Black winning
+[02:43:08] inter-temporal: (11.Be2) in the masters DB, yeh?
+[02:43:23] serenemoose: First fork in the road. Noted while prepping engine prefers 11...O-O first then Bg5, Bg5 directly allows h4.
+[02:43:38] inter-temporal: (11.Be2) the lichess DB is still balanced, i think,
+[02:43:38] stclion: c3
+[02:43:38] stclion: or c4
+[02:43:53] stclion: 6500+ GMs  played one of those two moves
+[02:43:53] stclion: 17 played B-e2
+[02:44:08] serenemoose: But opponent has two games with Bg5 castles castles, and I haven't looked at castles Nxf6.
+[02:45:09] inter-temporal: (11.Be2) the lichess 2000s are still about equal. we must be doing something wrong. oc
+[02:45:09] stclion: B-e2 says W is hesitant about forcing Black's Q to retake on f6
+[02:45:09] stclion: Chesstempo
+[02:45:24] stclion: moves ina ctual GM games
+[02:45:54] stclion: when thousands playa  move , versus a handfull ,   the handfull move is prob not good
+[02:46:25] inter-temporal: (11...O-O) in lichess 2000s & 2200s, Rapid and Blitz, last 2 years it's actually slightly better for white than c3
+[02:46:25] stclion: no matter if a GM won with it anyway
+[02:46:40] stclion: " amongst their peers " ...
+[02:47:10] inter-temporal: (11...O-O) so GMs know how to exploit Be2
+[02:47:25] inter-temporal: (11...O-O) curious
+[02:47:25] stclion: i'd have to go down that line
+[02:48:11] stclion: 0-0  is the top move  Black Win % now at 50%
+[02:48:26] stclion: 12 games
+[02:48:56] inter-temporal: (12...Bg5) Lichess 2000s are still about even
+[02:49:11] stclion: both castle  and then yes  Black saves his B with B-g5
+[02:49:11] inter-temporal: (12...Bg5) 1000 games
+[02:49:42] stclion: so  they play just like GMs
+[02:49:57] stclion: or  at least know this Var well
+[02:50:27] stclion: c3 or c4 next
+[02:50:27] inter-temporal: (12...Bg5) i'd be nervous without an early c3. but i guess it's okay at our level
+[02:50:42] stclion: well yes  he was suppsoed to play it earlier
+[02:50:57] stclion: this line calls for it now
+[02:51:12] inter-temporal: (14.Nc2) now this N will be tasked with covering d4
+[02:51:43] inter-temporal: (14...a5) i don't think it can afford to be driven away
+[02:51:58] stclion: ok  back to 9 different options now
+[02:52:13] stclion: b3 puts them ona  dominant Draw path
+[02:52:43] inter-temporal: (15...Bb7) i can't use the D word until it's over. lol
+[02:52:58] stclion: "  on the path"
+[02:52:58] inter-temporal: (15...Bb7) :)
+[02:52:58] stclion: 53% of GM games with this line
+[02:53:29] inter-temporal: (15...Bb7) at our sub-master levels, if there's a N on the board, there's game, imo
+[02:54:29] stclion: wow  line just narrowed to One game   in which kramnik with Black  beats  Frolov
+[02:54:29] stclion: after B-b7
+[02:55:00] stclion: Frolov played Q-d3 next
+[02:55:15] inter-temporal: (15...Bb7) yeh, Kramnik knows how to exploit Be2.
+[02:55:45] inter-temporal: (16...Nb8) maybe saybegiiner is a Kramnik study
+[02:55:45] stclion: they both know it   as moose played N-
+[02:56:00] stclion: b8 wayyy too fast
+[02:56:00] inter-temporal: (16...Nb8) bringing the N back around to c5
+[02:56:15] inter-temporal: (16...Nb8) white cant prepare the push fast enough
+[02:56:46] inter-temporal: (16...Nb8) so the Q-side dark squares will be eternally weak
+[02:57:01] stclion: lol  and  re-congratulate your engine   chesstempo now calls this what you said
+[02:57:16] stclion: Chiely-something
+[02:57:16] inter-temporal: (16...Nb8) Open?
+[02:58:01] stclion: as of * it was the sveshnikov Var
+[02:58:01] stclion: 8
+[02:58:32] stclion: then moose's reply made it the ChelyaBinsk
+[02:59:02] inter-temporal: (16...Nb8) it's a whole vocabulary list. lol
+[02:59:02] stclion: Rf-d1
+[02:59:17] inter-temporal: (16...Nb8) well, the Nc2 doesn't need to defend d4 anymore
+[02:59:47] inter-temporal: (16...Nb8) what are the plans here....
+[02:59:47] stclion: ;?))   hey  I'm just killing time  hoping PratikBora shows up for our game ...
+[03:00:02] inter-temporal: (16...Nb8) oh no. a late or no show?
+[03:00:02] stclion: Rf-d1 is the next move played
+[03:00:18] stclion: yeah we were suppsoed to start 30 mins before this one
+[03:00:33] stclion: i think he overslept
+[03:00:33] inter-temporal: (16...Nb8) dang.
+[03:01:18] stclion: let's see if W resists N-e3  or p-a3 ...
+[03:01:33] inter-temporal: (16...Nb8) hard to figure out which breaks are good for whom.
+[03:01:33] stclion: rf-d1  is the slower grind
+[03:01:48] inter-temporal: (16...Nb8) yay! nanners can help us
+[03:01:48] stclion: lemme see how long this game goes on
+[03:02:19] inter-temporal: (16...Nb8) who wants to push the f-pawn? anyone? or is a2-a3 the way of zen
+[03:02:34] stclion: only went 36 moves ...so its supposed to get very violent from here
+[03:03:04] stclion: Rf-d1  allows W to move the Q
+[03:03:19] stclion: and not worry about B-d2  -B-c3
+[03:03:50] inter-temporal: (17.g3) hm. for h4, oc
+[03:04:20] inter-temporal: (17.g3) sooo ...g6 maybe
+[03:04:20] stclion: prob irretrievably out of book , form here
+[03:04:35] inter-temporal: (17.g3) good! burn the book. lol
+[03:04:35] stclion: " You're On Your Own !  "
+[03:04:50] inter-temporal: (17.g3) time to dive in to the deep dark forest
+[03:05:05] stclion: opeing anything on that side  is not good
+[03:05:36] inter-temporal: (17.g3) g3/g6 might support either side's f-pawn push
+[03:06:06] inter-temporal: (17.g3) but maybe only black wants that break
+[03:06:06] stclion: Artur Frolov  vs  Vladimir Kramnik  ...if you wanna search for the game this followed
+[03:06:51] inter-temporal: (17.g3) ty
+[03:07:37] inter-temporal: (17.g3) my history shows one game where i played c3 instead of Be2
+[03:07:52] stclion: most closely followed  until move 17
+[03:08:37] inter-temporal: (17.g3) i was prepped to the teeth on that one. but long ago
+[03:08:37] stclion: so you were already in Svesh-Chelya  mode  by then
+[03:08:53] serenemoose: So 17...Nd7 or Na6 f4 Nc5 Qd1 or more realistically Qf3, and I lose the reserve tempo. Also Qf3 and e4 doesn't hang anyway.
+[03:09:08] inter-temporal: (17.g3) i was just trying to surprise my oponent. lol
+[03:09:23] stclion: i mean by B-e2
+[03:09:38] stclion: since that wa smove 11
+[03:10:08] inter-temporal: (17.g3) in my game, my lsb stayed home until 15.Bc4
+[03:10:39] inter-temporal: (17.g3) i had read about a maneuver with c3 and a4, so i just went with that
+[03:10:39] stclion: instead of pawn-c4 ...but this allows LSB to influence Kside
+[03:10:39] stclion: defensively
+[03:11:09] inter-temporal: (17.g3) i ended up trading lsbs
+[03:12:25] stclion: well  Black might need to use LSB to take this N ..
+[03:12:55] stclion: so it can flex the g pawn  without problens
+[03:13:55] inter-temporal: (17.g3) gava could help us too...
+[03:14:41] stclion: 17. .. Bxd5  Qxd5  R-a7  ....or  Bxd5  cxd5 B-d7
+[03:14:56] stclion: N-d7  i mean
+[03:15:26] serenemoose: Ah, f4 takes and White has to take with g, Nx and Nc5 and b7 also hits e4.
+[03:15:42] serenemoose: The coffee really hasn't kicked in yet huh.
+[03:15:42] gavalanche20: (17.g3) What's going on haha?
+[03:15:57] stclion: lol
+[03:16:12] gavalanche20: (17.g3) Be2 is very unfamiliar but I'm guessing by c4 we transposed into something more familiar
+[03:16:12] stclion: its Breakfast chess   for everyone but me  , apparently
+[03:16:12] inter-temporal: (17.g3)  either black wants to build up the c-file then ...Bxd5; or prepare ...f5 and ...Bxd5 or not
+[03:16:27] gavalanche20: (17.g3) Nah it's evening for me
+[03:16:27] stclion: for this one line  B-e2 is book
+[03:16:42] stclion: i mean of these players  as i was suppsoed to be playing too
+[03:16:57] stclion: 7:30 am for my opp
+[03:16:57] inter-temporal: (17.g3) but what does white want, other than h4
+[03:16:57] gavalanche20: (17.g3) From what I've seen from the Svesh from both sides I thought Ne7 was more in the spirit? To fight for the d5 square
+[03:17:12] gavalanche20: (17.g3) And Bg5 is for the moment well placed to chop a knight coming to e3 if Black wants
+[03:17:28] inter-temporal: (17.g3) so it's still all about the d-file?
+[03:17:43] stclion: prob why W wants p-f4 next
+[03:18:43] stclion: you'll have to scrol back  for the B-e2 explanations
+[03:19:44] inter-temporal: (18...exf4) i hadn't convinced myself f4 was good for  white. but this capture seems to justify it
+[03:21:30] inter-temporal: (19.gxf4) & f5 asap. and f6 if it's ready, yeh?
+[03:23:16] inter-temporal: (19.gxf4) this seems strong
+[03:24:16] stclion: " Is B-h4 OK "  seems like the only pause here
+[03:25:17] inter-temporal: (19...Nc5) good move
+[03:25:32] stclion: but if it prompts Q-d4  ...
+[03:26:03] stclion: ahh   lucked out
+[03:26:18] inter-temporal: (20.Qf3) Qd4 maybe ...Ne6
+[03:26:18] inter-temporal: (20.Qf3) oh no
+[03:26:18] inter-temporal: (20.Qf3) duh
+[03:26:33] inter-temporal: (20.Qf3) well, idk. maybe
+[03:27:03] stclion: Qe3   so it'd be a R for N-B trade
+[03:27:18] stclion: Rand pawn
+[03:28:34] inter-temporal: (20...Bh4) gotta be careful with K on g1
+[03:28:49] stclion: W  needs K-h1  R-g1
+[03:29:50] stclion: a little support from Nc  might be nice too
+[03:30:05] inter-temporal: (20...Bh4) seems like black might have ...f5 if white doesn't push first.
+[03:31:05] serenemoose: My opponent's probably going to try some e5 business, looks scary.
+[03:33:52] inter-temporal: (21.Rad1) black's lsb is loose
+[03:33:52] inter-temporal: (21.Rad1) oh no it has defense
+[03:35:08] inter-temporal: (21.Rad1) tough choices!
+[03:35:38] gavalanche20: (21.Rad1) I do kind of wonder if 19 was the correct moment to chop Nd5, eliminating the outpost
+[03:36:08] serenemoose: Ra6 defends d6, but if dxe5 and Nf6+, I have to take with the queen, so if there is one line I miss where I can't, it's gone.
+[03:36:24] inter-temporal: (21.Rad1) before Rad1 i was looking for ...f5, but now that's no good
+[03:37:09] gavalanche20: (21.Rad1) Svesh too complicated, I can't believe 1700 me wanted to main this back during the covid years lol
+[03:37:09] stclion: the weakness is e4  ....
+[03:37:24] serenemoose: Also Ra6 and an eventual c5 comes atempo. Or maybe not if I have the check.
+[03:37:39] serenemoose: My head hurts.
+[03:37:39] inter-temporal: (21.Rad1) Re8 is a candidate, but then no ...f5
+[03:37:54] stclion: ' Breakfast Chess "  is not fun  ...
+[03:38:25] inter-temporal: (21.Rad1) i'm not much of a morning person
+[03:38:40] inter-temporal: (21.Rad1) but i'm currently with gava in N. America
+[03:39:10] stclion: then you wouoldn't be ready for 3-hour  competitive chess games ,   within the first two hours of your normal awakening ...
+[03:39:25] gavalanche20: (21.Rad1) I'd consider myself an evening person but I'm 0.5/2 playing at night this season
+[03:39:40] inter-temporal: (21.Rad1) "with" = about as far away from each other as possible and still be in the same continent. lol
+[03:40:11] stclion: need to be able to eat ...to keep your brain fed
+[03:40:26] stclion: so later in the evening you may cogitate better , simply becaus eof that
+[03:40:26] inter-temporal: (21.Rad1) my brain luvs snack food. i think
+[03:40:41] stclion: whereas fresh out of the sack ....
+[03:41:11] inter-temporal: (21.Rad1) i never cogitate without proper protections
+[03:41:27] inter-temporal: (21.Rad1) :)
+[03:41:42] stclion: Euros loved me at ICC  because i was wiling to start games at 2-3 am ...
+[03:41:42] inter-temporal: (21.Rad1) night owl
+[03:41:57] stclion: i worked night    wouolnd't be home until after 1 am anyway
+[03:42:12] stclion: def not going to sleep ...
+[03:42:27] gavalanche20: (21...Ra6) Was there an issue with Re8 pressuring the e pawn
+[03:42:27] inter-temporal: (21...Ra6) ...Ra6. okay
+[03:42:42] stclion: seems like a concession move   but yes  down the line
+[03:42:58] inter-temporal: (21...Ra6) it could slide all the way over to ... the c-file
+[03:42:58] stclion: problems arise  ...
+[03:42:58] gavalanche20: (21...Ra6) Ah e5 and maybe f file gets scary
+[03:43:28] gavalanche20: (21...Ra6) I get why Ra6 but the rook feels like it could get stuck there
+[03:43:43] inter-temporal: (21...Ra6) white is unlikely to accomodate
+[03:43:43] stclion: sadly  i can't start  that late anymore    so i hope Pratik shows up  ...
+[03:43:58] inter-temporal: (21...Ra6) do u know where he lives?
+[03:44:28] stclion: 10.5 hours ahead of East coast USA time
+[03:45:14] serenemoose: I wish I had a tempo to protect b7 before the fireworks. I have no idea what's happening here.
+[03:45:14] stclion: ;?((
+[03:45:59] serenemoose: Wow I am indeed blind never mind.
+[03:45:59] stclion: as you said  gav   BxN takes some of this tempo away from W
+[03:46:30] stclion: opens up a column/file
+[03:46:30] inter-temporal: (21...Ra6) looks like pratik forfeited last week too
+[03:47:15] stclion: its a bit pointless to claim one  since neither team is going anywhere   might as well have the fun of playing
+[03:47:15] stclion: but his clock is ticking
+[03:48:16] inter-temporal: (22.Nd4) after round 6, pratik was inactive until 2 days ago (on Lichess). then nothing again
+[03:48:31] stclion: people's committment wanes , once you drop into the lower 20 ...
+[03:49:16] gavalanche20: (22.Nd4) I suppose you could always claim now but still offer to reschedule?
+[03:49:46] stclion: yeah ...but i was hoping to free up this weekend ...
+[03:49:46] gavalanche20: (22.Nd4) I'm less sure about taking now because Bd5 cd5 now comes with tempo on ra6 which might help White push e5
+[03:50:17] inter-temporal: (22.Nd4) and he's their captain.
+[03:50:17] stclion: ...time has passed
+[03:50:32] stclion: yes  he is  ...
+[03:50:32] gavalanche20: (22.Nd4) Ah fair enough maybe just best to claim it?
+[03:50:47] inter-temporal: (22.Nd4) claim now, discuss later--Capablanca
+[03:51:17] stclion: to be fair  my offer was up until 0400Thurs   he said 0200
+[03:51:33] stclion: hence why i'm hanging around
+[03:51:33] stclion: last game   and all that
+[03:51:48] inter-temporal: (22.Nd4) yeh. good call
+[03:52:03] inter-temporal: (22.Nd4) soo, it's white with the Nd4 here. very menacing Ns
+[03:52:48] inter-temporal: (22.Nd4) so no way u chop d5 here
+[03:52:48] inter-temporal: (22.Nd4) it's all bad
+[03:52:48] stclion: too damn old    ;?))   can't start 3 hour games after midnight anymore
+[03:53:19] inter-temporal: (22.Nd4) it gets tougher
+[03:53:34] inter-temporal: (22.Nd4) (age)
+[03:53:49] inter-temporal: (22.Nd4) but i also don't do as many things. so maybe less stressful in some ways
+[03:54:04] stclion: Black can only move R-e8  or p-g6
+[03:54:04] stclion: everything else is locked
+[03:54:49] inter-temporal: (22.Nd4) (and i don't care as much about as many things,... lol)
+[03:55:05] inter-temporal: (22.Nd4) maybe getting older is actually easier
+[03:55:20] stclion: care less about things you cared more about ,  "eras"  ago
+[03:55:35] inter-temporal: (22.Nd4) learning the zen wisdom of letting it go
+[03:55:50] stclion: can't staya  lid forever ,   even tho this Gen wants to
+[03:56:05] stclion: a Kid
+[03:56:20] inter-temporal: (22.Nd4) im still a kid. can't help it. lol
+[03:56:35] stclion: p-g6 stops N-f5
+[03:56:35] inter-temporal: (22.Nd4) a kid, but without any of the chess skills,
+[03:57:06] stclion: "  Find Your Whimsy !  "
+[03:57:06] stclion: lol  ...
+[03:57:21] inter-temporal: (22.Nd4) Alanis morisette?
+[03:57:36] stclion: its kind of a creed  amongs the kids
+[03:57:51] stclion: why they have little dolls and things on their keychains
+[03:58:06] inter-temporal: (22.Nd4) i have a lego darth varder on mine... but it's to match my daughter
+[03:58:06] stclion: anime characters ,  Pleu-Shies ,   etc
+[03:58:37] inter-temporal: (22.Nd4) too freakin many plushies. like thousands of dollars worth...
+[03:58:52] stclion: yeah  its hilarious
+[03:58:52] stclion: ahh  he gets it
+[03:59:22] stclion: so  maybe it wa sbetter earlier ,  in hindsight
+[04:00:38] inter-temporal: (22...g6) what about f4-f5
+[04:00:38] stclion: and crocs  ...anyone with 10-20 pairs of crocs has spent over 1000 on them
+[04:01:08] inter-temporal: (22...g6) i've tolerated a whole crock of crocs
+[04:01:54] inter-temporal: (23.Kh1) they tried to buy me a 2d pair, i was like, "no. i still haven't broken this pair..."
+[04:02:24] inter-temporal: (23.Kh1) meanwhile they each have 5 or 6 pairs. why
+[04:02:24] stclion: 100 a pop   for shoes with no backs  ....
+[04:02:39] stclion: and holes in the soles   so u can't wear them in the rain
+[04:02:54] stclion: "designer crocs"
+[04:03:09] stclion: gotta have one to match all your outfits ...
+[04:03:09] inter-temporal: (23...f5) lol. yep.  oooh ...f5
+[04:03:09] stclion: or your comic book mood
+[04:03:40] inter-temporal: (23...f5) wow. so many things pop up here
+[04:04:55] stclion: this is when Ra was better on 8
+[04:06:57] serenemoose: Ra6 was a bad idea, it's out of play, and I'm basically lost here.
+[04:07:12] stclion: oooh  he doesn't see the trap ...
+[04:08:12] stclion: N-e4   oops    no longer possible
+[04:09:13] inter-temporal: (26.Bd3) is ...Qa8 smth
+[04:09:28] inter-temporal: (26.Bd3) maybe not... next
+[04:10:29] stclion: ...B-c8
+[04:11:14] stclion: whatever it takes ,  to keep the game even ONE move longer  ...
+[04:12:00] stclion: keep the game going
+[04:13:15] inter-temporal: (26.Bd3) i can't see anythig else
+[04:15:01] nyanners: maybe take d3
+[04:15:01] nyanners: Nc5 being good is an illusion. wake up
+[04:15:01] inter-temporal: (26.Bd3) if ...Nxd3, Ne6 doesn't work yet but
+[04:15:17] inter-temporal: (26.Bd3) the lsb is Undef'd again. maybe it's okay
+[04:15:32] inter-temporal: (26.Bd3) i will never wake up! and don't try
+[04:15:47] nyanners: thats probably for the best
+[04:15:47] inter-temporal: (26...Qf6) oof
+[04:15:47] nyanners: things are pretty bad when you wake up
+[04:15:47] inter-temporal: (26...Qf6) oh
+[04:16:02] inter-temporal: (26...Qf6) sleep forever--Alanis Morrissette
+[04:16:32] nyanners: bx has to be calculated
+[04:16:47] nyanners: i missed this idea but seems itd be improved by Nxd3
+[04:17:33] inter-temporal: (27.Bxf5) e6 is weak af
+[04:17:48] nyanners: im kinda not really concerned about e6 but about all the light squares
+[04:18:03] nyanners: like e6 is one of them but not much happens (but it could)
+[04:18:03] inter-temporal: (27.Bxf5) i can't handle all of them. just one at a time
+[04:18:03] nyanners: but f5 h7
+[04:18:33] inter-temporal: (27.Bxf5) yeh too many things
+[04:19:34] inter-temporal: (28...Ra7) now how about e6?
+[04:19:49] inter-temporal: (28...Ra7) lol
+[04:22:06] inter-temporal: (29...Rg7) we doubles on the g-file,
+[04:22:36] inter-temporal: (29...Rg7) except for white's control over e6. oof
+[04:23:21] inter-temporal: (30...Qxg7) but now the dsb might escapte
+[04:24:37] inter-temporal: (31.Qh5) now i can think about h7 too. (but no other squares) :)
+[04:25:07] inter-temporal: (31...Rg8) holy cow
+[04:25:23] stclion: was thinking B-f2  ...but this works too
+[04:25:23] stclion: for now
+[04:25:53] inter-temporal: (31...Rg8) just trade initiative for a move or two, or
+[04:26:08] stclion: Small favors  , are all you need soemtimes ...
+[04:26:23] stclion: now  b-f2 ...
+[04:26:38] inter-temporal: (32.Bh3) ...Bf2then Ne2
+[04:27:09] stclion: yeah  but  still  its outta K's face ...
+[04:27:24] inter-temporal: (32.Bh3) maybe black can hold it longer
+[04:27:39] inter-temporal: (32.Bh3) ocbs and just 1 pawn down. there's hope
+[04:27:39] stclion: Black Q has almost all of the long black diag
+[04:28:24] stclion: let's see how many more "  Momentary Lapses of Brilliance  "  these two have  ...
+[04:28:55] inter-temporal: (32.Bh3) i need to go to bed.
+[04:29:10] inter-temporal: (32...Qe7) somebody do smth
+[04:29:40] inter-temporal: (32...Qe7) black is still on it
+[04:29:55] stclion: could force the Q trade next  tho
+[04:29:55] inter-temporal: (32...Qe7) Qf3 i guess, yes
+[04:30:10] stclion: like B-f2 better
+[04:30:26] stclion: cause then even R checkmates
+[04:31:11] stclion: if N does not protect ...
+[04:31:11] inter-temporal: (33.Ne6) back to black's light squares. sooo. that was fun
+[04:31:41] inter-temporal: (33...Ne4) ooh
+[04:31:56] inter-temporal: (33...Ne4) nice
+[04:32:12] inter-temporal: (33...Ne4) freakin Ns!
+[04:33:27] inter-temporal: (33...Ne4) worst case, maybe, the N gets back to f6 and covers h7 and others
+[04:33:58] inter-temporal: (34.Rf1) drops an exchange for now
+[04:34:28] inter-temporal: (34.Rf1) and trades the lsb for N, yeh?
+[04:34:28] inter-temporal: (34.Rf1) no
+[04:34:28] inter-temporal: (34.Rf1) and the dsb gets away
+[04:34:28] inter-temporal: (34.Rf1) duh
+[04:35:13] inter-temporal: (34.Rf1) i need to be sure these players have the link to the full chat comments (after Lichess cuts them)
+[04:35:59] inter-temporal: (34...Nf2+) if ...Bf2, Rxf2 too, i think
+[04:36:44] inter-temporal: (36...Qf6) still mate was threatened
+[04:36:59] inter-temporal: (36...Qf6) black still has the initiative. incredible. how did this happen
+[04:37:14] stclion: one small move
+[04:37:45] inter-temporal: (37.Qd1) i think it was 31.Qh5
+[04:38:15] stclion: all stems from taking the N
+[04:38:30] stclion: Bxn on d5
+[04:39:01] stclion: ahh   u mena  how did W take himself out  ...
+[04:39:16] stclion: yes  i could concur   chasing the B
+[04:39:31] inter-temporal: (37.Qd1) black was defending then it flipped a switch
+[04:40:16] inter-temporal: (37...Qh4) but Qa1+
+[04:40:47] inter-temporal: (37...Qh4) we gotta search for checks all the time. i think
+[04:41:02] inter-temporal: gg
+[04:41:02] stclion: Q-b2   ,  going back toa  slow game
+[04:41:47] serenemoose: Kudos to my opponent for a well-played game.
+[04:41:47] stclion: great struggle  ,  for this "early " ...
+[04:41:47] serenemoose: Really stings though, not gonna lie.
+[04:42:03] stclion: time pressure
+[04:42:03] inter-temporal: you did great moose!. yeh that hurts
+[04:43:33] inter-temporal: link to the full chat comments for all games, which popluates after about 2 hours:
+[04:43:48] inter-temporal: https://github.com/lichess4545-logger/4545_chat_history/tree/main
+[04:44:49] serenemoose: Thanks! Shall take a look later.
