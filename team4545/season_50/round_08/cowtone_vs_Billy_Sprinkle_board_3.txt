@@ -1,0 +1,56 @@
+Lichess game chat log
+Game      : https://lichess.org/DDvbZpNd
+White     : cowtone
+Black     : billy_sprinkle
+Time      : 45+45
+Captured  : 2026-11-13 20:29:12 UTC
+Game ended : 2026-11-13 19:09:02 UTC
+Messages  : 46
+────────────────────────────────────────────────────────────
+
+[17:14:40] goldenretrieverchess: Go cowtone!!
+[17:16:41] joonaf: go cowtone!
+[18:43:01] inter-temporal: (37...Nf4+) seems like black got some sound counter play?
+[18:54:08] inter-temporal: (48.Nd2) time pressure with three Ns on the board is rough, for me
+[18:54:38] inter-temporal: (48...Bf5) hm
+[18:55:54] inter-temporal: (49.g4) the c-pawn is a big threat
+[18:56:24] inter-temporal: (49...Bg6) can it run
+[19:03:43] inter-temporal: (54...Bf3) Kd2!?
+[19:09:01] inter-temporal: gg
+[19:09:32] cowtone: one of the games where opponent were +200 rated if they used their time
+[19:09:47] inter-temporal: quite complicated
+[19:10:17] cowtone: white was definitely better at some point
+[19:10:47] inter-temporal: move 54 seems impossible to know which way to go. idk.
+[19:11:18] cowtone: i think white should have aimed to trade all the pawns
+[19:11:33] cowtone: only way to draw if black has bishop only
+[19:12:18] inter-temporal: yeh, there was definitely a huge advantage that swung somewhere
+[19:12:33] cowtone: 42. c7 must be winning
+[19:13:04] inter-temporal: but then it swung back, gonna be a wild review!
+[19:13:49] inter-temporal: did u hit the engine?
+[19:14:04] cowtone: yes, exactly how it felt
+[19:14:19] inter-temporal: it looked hard to navigate
+[19:14:49] cowtone: i find it a little annyoing that black didn't waste any time, like 35.. completely winning but they play it like bullet
+[19:15:05] cowtone: clearly they were 2200+ but it's like smurfing oneself on purpose
+[19:15:05] inter-temporal: could be nerves. never know
+[19:15:20] inter-temporal: oh
+[19:15:20] inter-temporal: i see.
+[19:15:50] inter-temporal: wierd
+[19:16:20] cowtone: i think i was able to control the q side while black couldn't have attacked king side, but then something went wrong
+[19:16:35] inter-temporal: some places where natural looking moves were somehow not best
+[19:17:51] inter-temporal: not sure how to reject 30.Rxc7
+[19:17:51] cowtone: i underestimated black's counter play, open f file is so strong
+[19:18:21] cowtone: the issues is that the rook is only defended by knight
+[19:18:36] inter-temporal: i see
+[19:18:52] inter-temporal: maybe with a tad more time Nxc7 looks better
+[19:19:22] cowtone: it was an easy win when looking with stockfish now
+[19:19:52] cowtone: clearly it is better
+[19:20:07] inter-temporal: hindsight can be cruel
+[19:21:08] cowtone: i think i played it right positionally but then crumbled when needed to find correct move when position opened up
+[19:21:23] inter-temporal: when it became more concrete?
+[19:21:53] cowtone: fxe4 and then it was calculation
+[19:21:53] cowtone: but so complicated
+[19:22:23] cowtone: missed my opponent's threats
+[19:22:38] inter-temporal: it was playing itself for awhile
+[19:23:24] inter-temporal: that switch to concrete calculation is where i go wrong frequently
+[19:23:54] inter-temporal: well, i gotta go prep. my game is in an hour. :) more cannon fodder for the Board 2s. lol
+[19:24:09] cowtone: thanks for watching, good luck
