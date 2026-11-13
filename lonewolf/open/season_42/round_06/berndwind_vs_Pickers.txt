@@ -1,0 +1,155 @@
+Lichess game chat log
+Game      : https://lichess.org/EzD5XMaR
+White     : berndwind
+Black     : pickers
+Time      : 30+30
+Captured  : 2026-11-13 13:54:26 UTC
+Game ended : 2026-11-13 12:34:15 UTC
+Messages  : 145
+────────────────────────────────────────────────────────────
+
+[11:04:07] berndwind: (5...c6) As I suspected, we transpose into the mainline of QGD, with Bf4. Let's goooo
+[11:15:44] berndwind: (10.Qb3) Barbieeee
+[11:15:59] feet_barbie: (10.Qb3) i have never played qb3 once in my life
+[11:15:59] berndwind: (10.Qb3) He of the Feet
+[11:16:14] berndwind: (10.Qb3) I haven't looked at this line for a while, wasn't sure if I should leave the bishop tension and play h4
+[11:16:45] berndwind: (10.Qb3) It's been a rather long day and I haven't had time to look in detail. I just knew we were probably getting this line
+[11:17:00] feet_barbie: (10.Qb3) always though i expect h5
+[11:17:00] guitarspider: (10.Qb3) go bernd
+[11:17:00] berndwind: (10.Qb3) via transposition
+[11:17:15] feet_barbie: (10.Qb3) wait b7 hanging ahah
+[11:17:30] berndwind: (10.Qb3) spider hello! Welcome to the dvoretsky endgame student party
+[11:17:30] guitarspider: (10.Qb3) How have you not played Qb3 :D
+[11:17:45] feet_barbie: (10.Qb3) idk i never played qgds ahah
+[11:18:30] guitarspider: (10.Qb3) it's such a common move even in e4 gambits with a Bc4 :D
+[11:18:46] feet_barbie: (10.Qb3) good point
+[11:19:01] feet_barbie: (10.Qb3) maybe once in a dubov
+[11:19:01] feet_barbie: (10.Qb3) xd
+[11:19:01] guitarspider: (10.qb3) xd
+[11:19:16] feet_barbie: (10.Qb3) as a kid i used to play 4 knights scotch
+[11:19:31] feet_barbie: (10.Qb3) then i probably hit my head
+[11:20:32] guitarspider: (10...Qe7) ahahaha
+[11:21:17] guitarspider: (10...Qe7) I guess Qc7 Rc1 was a bit awkward
+[11:21:17] guitarspider: (10...Qe7) but now development is awkward
+[11:21:17] berndwind: (10...Qe7) h4?
+[11:21:32] berndwind: (10...Qe7) Be2?
+[11:21:47] berndwind: (10...Qe7) Na4?
+[11:21:47] berndwind: (10...Qe7) Maybe not the last
+[11:22:18] berndwind: (10...Qe7) Want to keep control over the e4 square
+[11:23:49] berndwind: (10...Qe7) actually Ne3 looks good
+[11:23:49] berndwind: (10...Qe7) gimme the bishop
+[11:24:49] berndwind: (10...Qe7) And if he makes room for it via an h pawn move, I can still go for Nf4 and follow it up with Bd3, eventually angling my knight
+[11:24:49] berndwind: (10...Qe7) to e5
+[11:25:19] berndwind: (10...Qe7) As in Nce2
+[11:26:50] berndwind: (10...Qe7) Nc to keep control over f5
+[11:27:05] feet_barbie: (11.Nce2) why not ne5
+[11:27:36] feet_barbie: (11.Nce2) i guess he went ne2 ng3 for a reason mmg
+[11:27:51] feet_barbie: (11.Nce2) a bit odd
+[11:28:36] feet_barbie: (11.Nce2) i guess the idea was 10.h4
+[11:28:36] feet_barbie: (11.Nce2) but he went the other way
+[11:29:07] feet_barbie: (11.Nce2) maybe waiting for castles xd
+[11:31:23] berndwind: (11.Nce2) Hey parz! Welcome to the bernd is tired but happy to play show
+[11:31:38] parziwal08: Hello Bernd
+[11:31:53] guitarspider: (12.Nf4) yeah, I'm not sure about the details of this kind of QG
+[11:32:08] guitarspider: (12...Qc7) I guess Ne2-g3 is just a bit of a slower line
+[11:33:09] berndwind: (12...Qc7) interesting idea!
+[11:33:24] berndwind: (12...Qc7) He wants Qa5 check I guess
+[11:34:25] berndwind: (12...Qc7) but I think I can just block it and if takes takes Ne4?
+[11:35:25] berndwind: (12...Qc7) I could avoid the knight trade with Ne2 aining for f3
+[11:35:40] berndwind: (12...Qc7)  and once the knight moves, Kf2
+[11:36:41] berndwind: (13...hxg6) Maybe just Bd3 to control the e4 square
+[11:36:56] berndwind: (13...hxg6) and if he checks, I block
+[11:38:42] guitarspider: (14...Re8) I don't really understand how black is better here
+[11:38:42] guitarspider: (14...Re8) sorry white
+[11:38:42] berndwind: (14...Re8) Now if the knight hops in, I can always take with my bishop if I really need to
+[11:40:28] feet_barbie: (16.a4) i dont get this i thought the point was always h4
+[11:40:58] feet_barbie: (16.a4) now the g3 knights seems simply misplaced
+[11:41:14] feet_barbie: (16.a4) like 4-5 moves to get a normal position ahah
+[11:41:14] feet_barbie: (16.a4) whatever
+[11:41:44] feet_barbie: (16.a4) magnus also has to try subpar openings to fight for an advantage these days
+[11:42:14] berndwind: (16.a4) c5 is interesting for them
+[11:43:30] berndwind: (16.a4) Well it does give black a potential weakness on d5
+[11:44:00] berndwind: (16.a4) I mean there are various queen pin options there to avoid the loss of the bishop but it does get sharp
+[11:47:47] berndwind: (16...Ne4) Gotta do somethin here folks
+[11:47:47] berndwind: (16...Ne4) don't want to be forked into an early grave
+[11:47:47] feet_barbie: (16...Ne4) ahha yeah
+[11:48:03] feet_barbie: (16...Ne4) i wonder why john bartholomew recommended this line
+[11:48:03] feet_barbie: (16...Ne4) xD
+[11:48:33] berndwind: (16...Ne4) I would love to play Ne2 but then I lose miserably
+[11:48:48] berndwind: (16...Ne4) Nd2 comes and I dance the Resign Dance
+[11:49:18] berndwind: (16...Ne4) Nx isn't out of the question either
+[11:49:33] berndwind: (16...Ne4) Follow it up with Bc5
+[11:49:49] berndwind: (16...Ne4) c4 i mean
+[11:50:49] berndwind: (16...Ne4) or Bx and either a5 or Rfc2
+[11:50:49] berndwind: (16...Ne4) c1
+[11:52:20] feet_barbie: (18...a6) we can get a carlsbad endgame kinda
+[11:52:51] feet_barbie: (19.Rfc1) maybe needed b4 b5
+[11:52:51] guitarspider: apparently Nge2 scores really well in the database
+[11:52:51] feet_barbie: (19.Rfc1) yeah i saw
+[11:53:06] feet_barbie: (19.Rfc1) but look further it does because of h4
+[11:53:21] guitarspider: yeah
+[11:53:36] feet_barbie: (19...Nf6) qb3 scores badly though rare
+[11:53:51] guitarspider: even for h4 the engine just says =
+[11:53:51] feet_barbie: (19...Nf6) anyways now looks decent black has weaknesses
+[11:54:06] berndwind: (19...Nf6) d5 tempting
+[11:54:06] guitarspider: (19...Nf6) true, this is a lot better than a few moves ago
+[11:54:52] feet_barbie: (19...Nf6) white has like no weaknesses
+[11:54:52] guitarspider: (19...Nf6) hahha, and Nxg6 it hates, it wants h4 again
+[11:54:52] feet_barbie: (19...Nf6) this gonna be a long squeeze
+[11:55:07] feet_barbie: (19...Nf6) yeah i mean ofc
+[11:55:22] feet_barbie: (19...Nf6) you can always play nxg6 after black is forced to do h6
+[11:55:22] feet_barbie: (19...Nf6) so they take with f pawn etc
+[11:55:52] berndwind: (19...Nf6) I think it's a little rushed as if he plays Rab8, I don't like taking
+[11:56:08] berndwind: (19...Nf6) Then again there isn't a threat when he plays that
+[11:56:23] feet_barbie: (19...Nf6) its a jobava pattern too wait to take the bishop force the weakness
+[11:56:23] feet_barbie: (19...Nf6) i liked h4 there even more
+[11:56:23] berndwind: (19...Nf6) except for maybe b6
+[11:56:23] feet_barbie: (19...Nf6) i like this berndwind opening
+[11:56:38] guitarspider: (19...Nf6) makes a lot of sense, yes
+[11:56:38] feet_barbie: (19...Nf6) what should we call this
+[11:56:53] feet_barbie: (20.Rc5) gone with the berndwind
+[11:57:08] feet_barbie: (20.Rc5) the subtle flank
+[11:57:08] guitarspider: (20.Rc5) let's call it the "storm in the teacup"
+[11:57:08] feet_barbie: (20.Rc5) ahah
+[11:57:08] guitarspider: (20.Rc5) it's so tame for his standards :P
+[11:58:24] feet_barbie: (20.Rc5) blacks only plan maybe was f5 f4 but idk
+[11:58:24] feet_barbie: (20.Rc5) do smth
+[11:58:54] guitarspider: (20.Rc5) I expect bernd will break through eventually, it's too hard to just sit and defend, nobody likes that
+[11:59:09] guitarspider: (20.Rc5) eventually black will lash out
+[11:59:09] feet_barbie: (20...Qd7) yeah
+[11:59:09] feet_barbie: (20...Qd7) its a typical cat and mouse squeeze
+[11:59:40] feet_barbie: (20...Qd7) b7 e4 weak b5 and d5 breaks
+[11:59:55] guitarspider: (20...Qd7) I vividly remember an otb game of mine like that, I was playing an old guy who kept looking more and more upset. I felt a bit bad
+[11:59:55] feet_barbie: (20...Qd7) not sure what black can do? only f5 f4 but takes 5 moves
+[12:00:10] guitarspider: (20...Qd7) yeah
+[12:00:25] guitarspider: (20...Qd7) that's the only option pretty much
+[12:00:25] feet_barbie: (20...Qd7) ahah if they get upset for a game of chess its not on u
+[12:00:40] feet_barbie: (20...Qd7) depends what kind of upset
+[12:00:40] feet_barbie: (20...Qd7) if they re sad i offer draws
+[12:00:55] guitarspider: (21.Rac1) well, it kinda was, I was moving back and forth just making micro threats
+[12:01:11] guitarspider: (21.Rac1) for like 20 moves
+[12:01:11] guitarspider: (21.Rac1) and eventually they had enough
+[12:01:26] guitarspider: (21.Rac1) and lost the game
+[12:01:41] feet_barbie: (21.Rac1) the boa
+[12:01:56] feet_barbie: (21.Rac1) was it karpov or smth
+[12:01:56] guitarspider: (21.Rac1) Petrosian?
+[12:02:11] guitarspider: (21.Rac1) I'm not sure
+[12:02:26] feet_barbie: (21.Rac1) mickey adams?
+[12:02:26] feet_barbie: (21...Rab8) oh no he s the spider
+[12:02:56] feet_barbie: (21...Rab8) rg5 is a threat xd
+[12:02:56] guitarspider: (21...Rab8) That one I never got, he's such a chill and friendly guy :D
+[12:03:12] guitarspider: (22.Ne2) Rg5 is kinda funny
+[12:03:27] feet_barbie: (22.Ne2) so r u
+[12:03:42] feet_barbie: (22.Ne2)  "The Spider" because his chess style involves trapping opponents in a web of restricted pieces and slow pressure
+[12:03:57] feet_barbie: (22.Ne2) thats cool
+[12:03:57] feet_barbie: (22.Ne2) slowly weaving a web of prophylaxis
+[12:03:57] guitarspider: (22.Ne2) It is, yeah.
+[12:04:12] feet_barbie: (22.Ne2) nf4 better to attack g6 xd
+[12:04:27] feet_barbie: (22.Ne2) and finally berndwind gives up on acting like ng3 was useful
+[12:04:27] feet_barbie: (22.Ne2) ahah
+[12:04:43] guitarspider: (22.Ne2) hehe
+[12:09:30] berndwind: (22...g5) Hang on
+[12:09:46] berndwind: (22...g5) Why can't I take the pawn?
+[12:13:48] guitarspider: (23...Nd5) rook and knight might trade places
+[12:13:48] guitarspider: (23...Nd5) Rg3 Nc5
+[12:35:31] guitarspider: gg
