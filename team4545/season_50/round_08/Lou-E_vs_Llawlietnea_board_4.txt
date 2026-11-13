@@ -1,0 +1,58 @@
+Lichess game chat log
+Game      : https://lichess.org/xyBHf6ED
+White     : lou-e
+Black     : llawlietnea
+Time      : 45+45
+Captured  : 2026-11-13 20:08:00 UTC
+Game ended : 2026-11-13 18:47:50 UTC
+Messages  : 48
+────────────────────────────────────────────────────────────
+
+[18:01:23] bufferunderrun: let's go Llawlietnea!
+[18:01:23] lou-e: Hello to any teammates and specs, let's goooooo
+[18:01:53] lou-e: Trying out this funky little sideline today, which I found in my old Alapin notes
+[18:02:08] lou-e: Haven't prepped it too hard but there are a few traps and fun things
+[18:02:08] lou-e: Black can equalise tho
+[18:02:23] bufferunderrun: exd instead of Nc3 is alright
+[18:03:24] lou-e: Ok they avoided the fun stuff
+[18:03:24] bufferunderrun: not sure about e6, this "French" is better for white
+[18:03:54] gavalanche20: Gl LouE
+[18:04:09] gavalanche20: I assume the funky line was e4 instead of ed5?
+[18:04:09] lou-e: (with 5...Nf6 or 5...dxe4?!)
+[18:04:40] rio2018: He played french for quite a while. So that should be fine for black
+[18:04:55] rio2018: Go Llawlietnea!
+[18:04:55] lou-e: Looked at 6. e5 here which is the top engine move, didn't love it. Considering 6. Nf3 but idk could invite some pressure
+[18:05:25] lou-e: Yeah with like Bc5 or Bb4+ in the end
+[18:05:40] lou-e: exd also a move
+[18:06:56] lou-e: fremnch
+[18:07:41] lou-e: Out of book now. I think the top move was 6...Ne7 looking for 7...Nf5
+[18:19:03] lou-e: I'm thinking I likely have to give some thought to what I'm doing after Rc8 -> Na5 because my queenside looks quite weak
+[18:28:24] bufferunderrun: Bb5 is a bit mysterious, you don't really want to trade a good bishop for a weaker counter-part
+[18:28:54] lou-e: ok maybe 15. Bb5 wasn't very thematic. Had a concrete idea in mind but didn't consider Ne4
+[18:29:09] lou-e: Might be compelled into c4 and to play the IQP position at some point
+[18:32:41] lou-e: Possibly also like Ba4 -> Bc2
+[18:37:44] lou-e: Giving serious consideration to Rxe4 here
+[18:38:45] lou-e: Looks like a legit try, I think
+[18:39:15] naveengeorge: oh dear
+[18:39:15] naveengeorge: Louis, the bishop hangs
+[18:39:45] lou-e: Although after Rx dx Qx Rc8 maybe Black is ok
+[18:40:15] naveengeorge: Rxb5! in that position
+[18:41:46] lou-e: Maybe Bx Rx Ne5
+[18:42:01] naveengeorge: That just blunders back rank mate
+[18:42:17] lou-e: You know what? Last game of the season, it seems ok, I'm going to do it
+[18:42:17] naveengeorge: ffs
+[18:42:47] lou-e: Oh wait, should look at Rxe4 Rxf3 first
+[18:44:33] lou-e: Rxe Rxf Qxf Qxf gxf dxe fxe a pawn-up position for me, c3 is a bit weak but hey c3 is a bit weak already
+[18:44:48] naveengeorge: oh dear :(
+[18:45:03] ysgwydd: (18...Rxb5) He couldn't hear you :(
+[18:45:03] lou-e: Ah yes
+[18:45:03] lou-e: Fair point
+[18:45:34] naveengeorge: Never resign!
+[18:45:34] ysgwydd: (19.Rxb5) It's always the simple things we overlook
+[18:47:35] naveengeorge: gg
+[18:47:35] ysgwydd: gg
+[18:47:35] bufferunderrun: gg
+[18:47:50] lou-e: welp
+[18:47:50] naveengeorge: It happens mate :/
+[18:48:35] lou-e: Indeed it does. Shame really because I was on track for an undefeated season
+[18:50:06] naveengeorge: It do be like that sometimes
