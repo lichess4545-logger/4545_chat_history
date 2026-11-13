@@ -1,0 +1,43 @@
+Lichess game chat log
+Game      : https://lichess.org/eoPo9Ovg
+White     : sarahwynn
+Black     : morganbp
+Time      : 45+45
+Captured  : 2026-11-13 22:19:21 UTC
+Game ended : 2026-11-13 20:59:12 UTC
+Messages  : 33
+────────────────────────────────────────────────────────────
+
+[20:04:25] zorakforpresident: Some sort of sideline where both e-pawns come to the center in the first couple moves?
+[20:21:19] zorakforpresident: 11...f5, unexpected to me.
+[20:21:50] zorakforpresident: Thought the question was to trade two minors for rook and pawn or not.
+[20:24:36] zorakforpresident: Sort of thought "no," and maybe just 11..Nf6.
+[20:26:37] zorakforpresident: Anyway, now all this 13...g3 seems good?
+[20:27:38] zorakforpresident: But what exactly happens next?
+[20:28:54] tactix47: (13.Nh2) Go morgan!
+[20:29:09] zorakforpresident: Seems all good for Black.  Many tactics.  Details fuzzy.
+[20:29:54] zorakforpresident: I would think it has to be 13...g3 though?  Stop burning clock?
+[20:34:27] zorakforpresident: zomg.  didn't expect 14.Rxf3.
+[20:34:57] tactix47: (14...Rxf3) Nf3 can't watch h4 now, here comes the Q!
+[20:35:28] zorakforpresident: Thought we'd go 14.Bxf2+, offer exchange trade.  And then pin with bishop on g5 and bring queen in to h5.
+[20:36:13] zorakforpresident: This probably is good though?  Opens h5 for queen anyway...
+[20:36:43] zorakforpresident: Um...that's g4, h4, and h4 again, duh.
+[20:36:58] zorakforpresident: Cuz I r not very good at this.
+[20:37:59] zorakforpresident: It's prettier this way, I guess.
+[20:40:15] zorakforpresident: Yeah, prettier this way I guess...cuz it is forced.
+[20:46:49] inter-temporal: (16.Be3) anyone seen my opponent... no?
+[20:47:35] inter-temporal: (16.Be3) he's lucky i can probably reschedule. but he still has 3 more minutes...
+[20:49:05] inter-temporal: (16.Be3) maybe just tryin to psyche me out and will show up with 30 seconds to spare. lol
+[20:50:36] zorakforpresident: Does it put the current move in parens automatically for you guys?
+[20:50:52] zorakforpresident: Ooh.  I was thinking Qh4 doesn't quite work?  Prolly I'm wrong.
+[20:52:53] inter-temporal: (18.Kf1) therez a script for auto prepend move
+[20:54:08] inter-temporal: (20...Bg4+) or you can download "Lichess tools," which has it
+[20:54:54] zorakforpresident: I mean...I should just assume morgan is seeing all this better than I am.
+[20:55:24] inter-temporal: (22...Bxf3) therez also a link for full chat (if Lichess truncates it):
+[20:56:10] inter-temporal: (23.Qe1) https://github.com/lichess4545-logger/4545_chat_history/tree/main/team4545
+[21:00:27] zorakforpresident: Holy shnickey Morgan.  The engine says it will consult you next time it has a game.
+[21:02:43] morganbp: I think mixed up the line av it. So a
+[21:03:29] morganbp: I think I mixed some lines in the opening...
+[21:04:29] morganbp: It might be that the key for a sacrifice on g4 is that the knight cannot jump to g5.
+[21:06:30] morganbp: So if whit had played Nbd2 and Re1, the the idea of g4 is stronger since then the knight cannot jump to g5
+[21:07:46] morganbp: Anyway, not easy defending, for my opponent anyway. Black do get an enormous initiative.
