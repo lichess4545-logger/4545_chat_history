@@ -1,0 +1,46 @@
+Lichess game chat log
+Game      : https://lichess.org/vbW8oxdS
+White     : lupy
+Black     : glennjamesmax
+Time      : 45+45
+Captured  : 2026-11-13 15:52:25 UTC
+Game ended : 2026-11-13 14:32:15 UTC
+Messages  : 36
+────────────────────────────────────────────────────────────
+
+[13:00:52] lupy: oh dang i'm already surprised
+[13:01:07] berndwind: (2...c5) ooooh Benoni time nice
+[13:01:22] berndwind: (3...b5) Ah Benko!
+[13:01:22] berndwind: (3...b5) I actually love facing the Benko tbh
+[13:01:53] berndwind: (3...b5) cx and e3 gives a decent position I like playing
+[13:05:25] glennjamesmax: Bit surprised to see this much of a think on the Benko...
+[13:06:56] berndwind: (4.e3) me and you both surprised!
+[13:06:56] berndwind: (4.e3) Everyone is surprised
+[13:07:26] berndwind: (4.e3) e3 first is a little off the beaten track... why not, I guess
+[13:10:12] feet_barbie: (5...fxe6) goo
+[13:12:44] glennjamesmax: 6.Be2, this feels to me like a ridiculously good version of the Benko after bxc4
+[13:12:59] glennjamesmax: I won't even be a pawn down for my huge center and active pieces
+[13:20:33] glennjamesmax: 8.Bf3 I hadn't even considered this but it feels insanely dubious to take twice on c6
+[13:20:48] glennjamesmax: and otherwise what's the point of playing this way?
+[13:33:11] glennjamesmax: 13.Nc3 despite the ghastly pawn structure I'm quite okay for now I think...
+[13:33:41] glennjamesmax: there are a bunch of very unpleasant kingside threats coming soon I think
+[13:41:31] glennjamesmax: 15.Qg4 I expected that but now there are some more issues.
+[13:41:46] glennjamesmax: Immediately Nxc3 doesn't work, but after 15...Rf6 Nxc3 and Be2 is very annoying
+[13:42:01] glennjamesmax: so is the general threat of Rg6 Raf8 etc
+[13:47:34] glennjamesmax: The more I look the less reasonable tries I see for White here
+[13:49:36] lupy: ugh, Be2 is a much bigger problem than I'd thought
+[13:55:09] glennjamesmax: 16.Bd2 Raf8 should be curtains..the knight is threatened and there's nowhere good to move it
+[13:55:24] glennjamesmax: 17.Nh4 is the only idea that even makes sense
+[13:57:55] glennjamesmax: I think 17.Nh4 Rh6 just doesn't work, and Ne1 is just ridiculous.hardly a solution to White's problems
+[14:00:42] glennjamesmax: no actually it's not so terminal, but I'm still very happy with the position
+[14:06:30] glennjamesmax: at a minimum I can win an exchange with 18.Qh3/h5 Nxc3 19.Bxc3 Be2
+[14:06:30] glennjamesmax: though I strongly suspect I have better
+[14:10:33] glennjamesmax: 20. Ne5 would be more disruptive but it still basically doesn't work as far as I can see
+[14:13:04] lupy: close to resigning
+[14:13:34] glennjamesmax: ah 19...Qf4 will be way simpler as it just double attacks and pins the knight
+[14:13:50] glennjamesmax: 20.Kh1 is the only critical attempt
+[14:16:36] lupy: felt like Be2 finished me off, but maybe this is even better
+[14:18:37] prostidude: go go gjm
+[14:22:25] glennjamesmax: 21.Rd7 Rxg2 looks like a winning attack to me
+[14:24:11] feet_barbie: (20...Be2) bd2? idk
+[14:24:41] feet_barbie: (20...Be2) no mmh
