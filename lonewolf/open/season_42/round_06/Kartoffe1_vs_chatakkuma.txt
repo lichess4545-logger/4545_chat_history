@@ -1,0 +1,77 @@
+Lichess game chat log
+Game      : https://lichess.org/Rq80Q2lh
+White     : kartoffe1
+Black     : chatakkuma
+Time      : 30+30
+Captured  : 2026-11-13 13:58:27 UTC
+Game ended : 2026-11-13 12:38:18 UTC
+Messages  : 67
+────────────────────────────────────────────────────────────
+
+[12:38:02] chatakkuma: I think 39...Rh8+ might hold
+[12:38:17] chatakkuma: I missed Rh8+ Kd7 Ra8
+[12:38:17] kartoffe1: but cant you just go b5
+[12:38:33] chatakkuma: 40.Rh8+ Kd7 Ra8
+[12:38:33] chatakkuma: then h4 and it gets a race
+[12:38:48] kartoffe1: aah
+[12:39:03] kartoffe1: Yeah I missed that after g4 you can just push a3
+[12:39:33] kartoffe1: I thought you had to go b5 first
+[12:39:33] chatakkuma: I think 32...Rb2 was a mistake
+[12:39:48] chatakkuma: wait which move"
+[12:39:48] chatakkuma: ?
+[12:40:03] chatakkuma: 37...b5 I was worried about Rb7
+[12:40:03] kartoffe1: 40.a3
+[12:40:19] kartoffe1: I just missed that move
+[12:40:34] chatakkuma: ah no I push the furthest advanced pawn
+[12:40:49] chatakkuma: only need one promotion to win
+[12:40:49] kartoffe1: Yeah
+[12:41:19] chatakkuma: I think after 32...Rb2 d5 I allowed too much counterplay
+[12:41:19] kartoffe1: Oo but I see that the computer likes 20.a4
+[12:41:19] chatakkuma: 32...Kf8 should be easy
+[12:41:49] chatakkuma: yeah it trades off lot of pieces
+[12:41:49] chatakkuma: kinda worried about that line
+[12:42:04] chatakkuma: might just get traded into a draw
+[12:42:04] kartoffe1: Yeah Kf8 is maybe more easy
+[12:42:35] chatakkuma: my idea with 19...Nh7 was to play f6
+[12:42:35] chatakkuma: so Re1 seemed natural
+[12:42:35] kartoffe1: No but the reason that I didn't go for a4 is that I saw that you had one more pawn in the end
+[12:43:05] kartoffe1: Yeah i saw that
+[12:43:20] chatakkuma: I was calculating 20.a4 f6 Ng6 Qxe3 Qxe3 Rxe3 dxc5 Rxc3 cxb6 axb6
+[12:43:35] chatakkuma: I thought white is comfortably drawing that
+[12:43:35] kartoffe1: and I knew that just taking my rook back had to be bad
+[12:44:20] kartoffe1: But what about, a4 f6 Ng4 h5 Nf2
+[12:44:20] kartoffe1: that was the line I was considering
+[12:44:36] kartoffe1: but I guess thats wrong
+[12:44:51] chatakkuma: oh in that case after Nf2 Qxe3 just dxc5
+[12:45:06] chatakkuma: Q is protected
+[12:45:36] chatakkuma: I didn;t see clearly during the game but vaguely I thought it should be traded into a drawish position
+[12:46:06] kartoffe1: Yeah
+[12:46:21] chatakkuma: what you played in the game I have some chances
+[12:46:37] chatakkuma: I think 27.Nb4 was bad because 28.e4 doesn't work
+[12:46:52] kartoffe1: I don't understand why e4 28.e4 is that bad
+[12:47:07] chatakkuma: because of 29...Rc4
+[12:47:07] chatakkuma: I win a pawn with a fork
+[12:47:22] kartoffe1: Yeah but if I didn't play e4 you would push my knight to a5
+[12:47:52] kartoffe1: and I wasn't sure if I could get it back to the game
+[12:47:52] chatakkuma: that's why I thought 27.Nb4 was already wrong
+[12:48:07] chatakkuma: maybe 27.Rd1
+[12:48:53] chatakkuma: also 26.Rxc3 Rxc3 allows me to invade with the rook
+[12:49:23] chatakkuma: 26.Kf2 I was thinking
+[12:49:53] kartoffe1: But can't you just invade anyways
+[12:50:08] kartoffe1: like Kf2 Rc2
+[12:50:39] chatakkuma: I guess it's tough to defend
+[12:50:54] chatakkuma: I kinda felt happy after 24.Qxc3
+[12:50:54] chatakkuma: I was thinking 24.Qe1
+[12:51:24] chatakkuma: that might also have a refutation, but at least I didn't see it
+[12:52:09] kartoffe1: I feel the game was hard after Qc7
+[12:52:24] chatakkuma: yea I felt I was pressing after that
+[12:52:24] kartoffe1: I saw that you were going to win the c file, and i couldn't stop you
+[12:53:55] chatakkuma: yea infiltrating on the c file was my plan
+[12:54:41] kartoffe1: I guess I could have ignored you to some extent
+[12:54:56] chatakkuma: 20.Qf5 I also thought about
+[12:54:56] kartoffe1: Maybe 22Nd3 was wrong couse it forced a queen trade
+[12:55:11] chatakkuma: yea Nd3 felt a bit wrong
+[12:55:41] chatakkuma: I was just worried about a4 many moves
+[12:56:11] chatakkuma: anyway, thanks for playing
+[12:56:26] chatakkuma: gl for the rest of the season
+[12:57:27] kartoffe1: Thanks you too
