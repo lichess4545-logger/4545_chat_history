@@ -1,0 +1,142 @@
+Lichess game chat log
+Game      : https://lichess.org/ujRY13JV
+White     : banshee3333
+Black     : matthewhuber
+Time      : 45+45
+Captured  : 2026-11-14 04:00:36 UTC
+Game ended : 2026-11-14 02:40:25 UTC
+Messages  : 132
+────────────────────────────────────────────────────────────
+
+[01:29:28] matthewhuber: hi mrscribbles
+[01:31:14] matthewhuber: banshee did his homework. which sucks bc were probably going to get a queenless middlegame
+[01:31:30] banshee3333: flurry of theory to start out
+[01:32:30] banshee3333: ...Nf4 is theoretically inaccurate. We'll see if I can prove it
+[01:32:45] banshee3333: 12...Nf4
+[01:32:45] matthewhuber: hi spacebar. congrats on your series win!
+[01:33:00] spacebaristaken: OO I like 5... b5 against the Italian knight attack
+[01:33:16] banshee3333: Really really important not to recapture with f-pawn after ...Qxg3
+[01:33:31] spacebaristaken: I was like two minutes late and they're already on move 13
+[01:33:31] banshee3333: under pain of an exchange
+[01:34:46] spacebaristaken: Why does fxg3 lose the exchange?
+[01:35:17] spacebaristaken: Oh nvm
+[01:35:32] spacebaristaken: Qxg3 fxg3 Bc5+ Kh1 Bxg2+ yes?
+[01:36:32] spacebaristaken: Thanks for the congrats Matthew!
+[01:46:38] matthewhuber: hi temporal
+[01:46:53] matthewhuber: i was really expecting 14 d4
+[01:46:53] inter-temporal: (14.Nc3) matt!? ur on board 4? that is a stacked team! :)
+[01:47:39] inter-temporal: (14.Nc3) although i remember a recent season where board 4 had higher accuracy than board 3
+[01:48:55] matthewhuber: hi gav
+[01:49:10] gavalanche20: (14.Nc3) Oooo ulvestad
+[01:50:10] inter-temporal: (14.Nc3) i wanna learn that one
+[01:50:26] inter-temporal: (14.Nc3) i saw menno play it
+[01:50:41] spacebaristaken: Would 14. d4 have won the knight or no?
+[01:51:11] spacebaristaken: Oh then you just trade bishop for knight right? Now white is threatening 15. d4 if black doesn't prevent it?
+[01:51:11] banshee3333: Maybe 14. d4 immediately was important
+[01:51:41] banshee3333: Black can maybe move the queen now and threaten something on g2
+[01:52:42] banshee3333: I had calculated 14. d4 Ne2+ Bxe2 Qxe2 and thought I could do better. But maybe just Nc3 after with tempo and White is doing well
+[01:53:27] banshee3333: Meanwhile 14. d4 Qxb5 Bxf4 I thought was good for White
+[01:53:42] inter-temporal: (14.Nc3) i still need a minute to get into the position :)
+[01:53:58] inter-temporal: (14...Qf6) i just finished a marathon game. lol
+[01:54:43] matthewhuber: i think 12. dxe5 was a mistake. he needs Qh3 there. this position looks very dangerous for white
+[01:55:59] banshee3333: Maybe 14...Qf6 15. Re1 and I'll drop the bishop back to f1
+[01:58:30] inter-temporal: (14...Qf6) looks good, black won't take on g2 due to
+[01:58:45] inter-temporal: (14...Qf6) Re8#
+[01:59:00] matthewhuber: hi kamagayajiji
+[01:59:31] matthewhuber: must be a slow night in the league
+[02:00:01] banshee3333: 15. d4 Nxg2 Bg5 wins a queen. 15...Bxg2 Bxf4 Rxb5 Bxc7+ maybe gets somewhere eventually?
+[02:00:46] spacebaristaken: lmfao Matthew
+[02:02:48] banshee3333: 15. d4 Bd6 should be checked
+[02:03:33] banshee3333: I guess I go Qg4 and threaten mate maybe?
+[02:06:05] kamagayajiji: Hi! This whole line is new to me. Usually just play 4. d4...
+[02:09:37] inter-temporal: (15...Bd6) "Always threaten mate" -- Capablana
+[02:09:52] spacebaristaken: Black has basically all of his pieces pointed at white's king, but could be in trouble if white manages to consolidate the position as ...
+[02:09:52] spacebaristaken: ...black is down a pawn with his king stuck in the middle of the board.
+[02:11:07] matthewhuber: if 17 Qg3 repeating now i get Rxb5 winning
+[02:11:23] matthewhuber: oh thats too complicated i forgot i put my bishop on d6
+[02:11:53] inter-temporal: (16...Bc8) apparently 9...Kd8 is book. odd
+[02:12:23] gavalanche20: (16...Bc8) Oh yeah lots of funny lines in the Ulvestad where Black gives up castling
+[02:12:53] spacebaristaken: Is that what this called? The Ulvestad?
+[02:12:53] inter-temporal: (16...Bc8) maybe i don't want to learn this. lol
+[02:12:53] gavalanche20: (16...Bc8) Yep the 5...b5 stuff
+[02:13:54] gavalanche20: (17.Qf3) Fwiw IT 9...Nxd5 is the top engine move and kind of how the theoreticians make the Ulvestad work objectively now
+[02:13:54] kamagayajiji: Bb7 and repetition?
+[02:14:09] gavalanche20: (17.Qf3) No funny Kd8s at least from what I saw when I studied it
+[02:14:24] gavalanche20: (17.Qf3) Hm why Bb7 when you can h5
+[02:14:40] inter-temporal: (17.Qf3) book wanted 13...Qf5 14.d4 Nh5
+[02:15:10] kamagayajiji: I thought h5 looked interesting too
+[02:15:55] gavalanche20: (17.Qf3) Or Bb7 first then if White repeats Qg4 then chuck h5?
+[02:15:55] gavalanche20: (17.Qf3) Wait that hangs Qd7# lol
+[02:16:26] inter-temporal: (17.Qf3) d7 is a problem
+[02:16:41] inter-temporal: (17.Qf3) so is e8
+[02:17:11] kamagayajiji: Indeed
+[02:17:11] inter-temporal: (17.Qf3) more so earlier,...
+[02:17:11] inter-temporal: (17.Qf3) im kinda catching up. lol
+[02:17:26] inter-temporal: (17.Qf3) again
+[02:17:56] spacebaristaken: Just plugged the opening into my Master's database. Apparently (12... Ne3) was the move there..? It's the best scoring line for black ...
+[02:17:56] spacebaristaken: ...and still at 59%
+[02:18:42] spacebaristaken: Nf4 scores 75%.
+[02:19:27] gavalanche20: (17.Qf3) I guess you can also try Nh3+ and force queens off
+[02:22:14] spacebaristaken: I like Nh3+ honestly. Nh3 Kh1 Qxf3 gxf3 and then Bb7 hitting f3 looks good to me. If Kg2 Ng5 and the pawn falls right? White is left ...
+[02:22:14] spacebaristaken: ...with 3 pawn islands
+[02:23:15] kamagayajiji: Implicit draw offer
+[02:26:16] matthewhuber: i screwed up somewhere
+[02:26:31] kamagayajiji: Draw, as Ne4 doesn’t work
+[02:26:47] inter-temporal: (19.Qf3) take the draw, and we'll share the championship
+[02:26:47] matthewhuber: if i wasnt already down a pawn i would play Nh3 and trade queens without thinking
+[02:27:32] inter-temporal: (19.Qf3) this line did have a Q-trade somewhere. i think
+[02:29:18] banshee3333: I would go 19...Qh6 I think
+[02:30:49] matthewhuber: think im just going to offer repitition. i think theres something here
+[02:30:49] matthewhuber: but im so tired
+[02:30:49] matthewhuber: and im not seeing anything
+[02:31:04] banshee3333: I prolly wanted 14. d4 right away -- it was an important tempo
+[02:32:20] banshee3333: So he offers a draw. I thought about checking Bc6  and d5 first
+[02:32:35] matthewhuber: d5 can be played here but Nxd5 looks good enough for me
+[02:32:50] banshee3333: My gut tells me white is worse here though so I'm inclined to repeat
+[02:34:36] banshee3333: d5 followed by Bc6 might be an interesting idea though.
+[02:35:22] banshee3333: The idea is 20 d5 Bxd5 or Nxd5 both lose due to the alignment of Black's queen and king I think
+[02:36:07] banshee3333: After d5 and Bc6, I've dealt with the active light bishop and have Black's king rather bound up.
+[02:36:53] spacebaristaken: What is Banshee seeing after d5 Nxd5 exactly? g5 isn't protected, so I'm not following pinning the queen to the king
+[02:40:40] matthewhuber: pretty anti climactic considering the game
+[02:40:40] banshee3333: d5 Nxd5 Bg5 was the idea but you're right it doesn't work
+[02:40:55] banshee3333: I think I was hung up on the other position with queen on g4
+[02:41:10] spacebaristaken: Ah makes sense, good game guys
+[02:41:25] kamagayajiji: gg!
+[02:41:25] spacebaristaken: Good game guys
+[02:41:25] spacebaristaken: Oh I already said that
+[02:41:40] banshee3333: Computer still wants to sac the d5 pawn though lol
+[02:41:40] banshee3333: and thinks White is better
+[02:41:55] banshee3333: White prolly does have the better endgame there, but I worry about the active bishops
+[02:43:11] banshee3333: So I know by theory White is just much better after 12...Nf4, but because of that it's not the line I focused on XD
+[02:43:41] banshee3333: And yes I was right, immediate 14. d4 was important
+[02:44:12] matthewhuber: I was blindly confident after Nf4 haha
+[02:44:27] banshee3333: 14. Nc3 the computer thinks I gave away the majority of my advantage
+[02:44:27] matthewhuber: I didnt even realize i screwed up the theory
+[02:44:42] banshee3333: Yeah I saw you'd played both moves, but I thought I saw you played Ne3 more
+[02:45:12] matthewhuber: well
+[02:45:27] spacebaristaken: It's an easy mistake to make, one looks intuitive, the other one looks scary lol, to me at least, I haven't studied this that deep
+[02:45:27] matthewhuber: that is certainly something i need to fix
+[02:45:58] matthewhuber: my intuition is way off though. i thought the position would have swung my way at some point in this game
+[02:46:13] banshee3333: This was interesting because this line is a rabbit hole I've explored a lot, and it just so happened you play  into it pretty exclusively
+[02:46:28] spacebaristaken: I'm out. I enjoyed watching
+[02:46:28] matthewhuber: cya spacebar
+[02:46:28] banshee3333: 0/
+[02:46:43] matthewhuber: yeah i had a league game where we went pretty deep into theory in this line
+[02:46:43] matthewhuber: i love this line as black
+[02:47:13] matthewhuber: ofc all these offbeat lines do better outside of the league when people arent expewcting it
+[02:47:28] banshee3333: I thought that 17...Qh6 was really scary, but I guess just Kh1
+[02:47:43] banshee3333: In general, I thought that sometime after 14. Nc3 Black was better
+[02:47:59] matthewhuber: i had the same feeling
+[02:48:14] matthewhuber: between the bishops, your queen being awkward and the loose-ish bishop on b5 i thought something would materialize
+[02:48:29] matthewhuber: but nothing gave
+[02:48:44] matthewhuber: well im at least glad it wasnt a marathon
+[02:48:59] banshee3333: Yeah exactly. The active bishops were the big thing in my evaluation, and I thought you could force me to play Bxf4 and give you an active
+[02:48:59] matthewhuber: thanks for the game, good luck next season i hope to see you again! maybe the colors reversed
+[02:48:59] banshee3333: bishop pair
+[02:48:59] banshee3333: Np, thanks too! You too!
+[02:59:19] banshee3333: By the way, Inter-temporal, I'm looking back at the comments. This was all theory up to 12...Nf4
+[03:00:35] banshee3333: 12...Nf4 is a mistake -- the theory goes 12...Ne3 13. Qh3 Qxg2 14. Qxg2 Nxg2 15. d4
+[03:01:51] banshee3333: And theory holds that White has an edge after that
+[03:03:06] inter-temporal: dang, i missed it.
+[03:03:06] inter-temporal: i got called away. gg!
+[03:05:07] banshee3333: Thx!
