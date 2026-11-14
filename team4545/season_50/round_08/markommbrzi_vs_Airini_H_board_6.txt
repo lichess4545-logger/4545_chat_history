@@ -1,0 +1,130 @@
+Lichess game chat log
+Game      : https://lichess.org/b9zpbFJI
+White     : markommbrzi
+Black     : airini_h
+Time      : 45+45
+Captured  : 2026-11-14 13:13:53 UTC
+Game ended : 2026-11-14 11:53:43 UTC
+Messages  : 120
+────────────────────────────────────────────────────────────
+
+[09:32:07] bufferunderrun: let's go aiRini_h!
+[09:35:24] bufferunderrun: 6...b6 felt kind of sketchy, I wonder if d5 would be a problem there
+[09:38:41] airini_h: hi spectators
+[09:40:26] bufferunderrun: also 16...Na5, the knight on e7 feels a bit misplaced, like where is it heading?
+[09:42:13] kamagayajiji: The N had to move from c6 to protect c5,  but yeah...
+[09:46:45] kamagayajiji: ICP (instead of IQP)... On the whole I like black’s B’s better, but that c-pawn doesn’t seem to have anything positive to do...
+[09:47:31] kamagayajiji: I could be wrong - and not for the first time...
+[10:09:58] bufferunderrun: 21...Nh4 seemed interesting, provoking f3 or e4
+[10:12:30] ysgwydd: (21...Rc7) I wonder if there was time for 20...Bb8 and 21...Qc7
+[10:15:47] bufferunderrun: you'd have to sacrifice on g3, but the queen would be covering h2. Yeah, Idk.
+[10:19:19] glbert: go markommbrzi!
+[10:20:04] bufferunderrun: I think 24.g4 and Ncd6 and black is collapsing
+[10:25:22] kamagayajiji: Bb2 seems less forceful than buffer’s line.
+[10:26:38] bufferunderrun: yeah, it seemed to relieve the pressure
+[10:30:25] kamagayajiji: Well, the positional way to play is to trade off all the minors and pile up against the isolani...
+[10:31:25] kamagayajiji: Seems to be what white is going for...
+[10:31:25] ysgwydd: (28.e4) e4 Nb4 Qc3 is a problem for black I think
+[10:32:26] ysgwydd: (29.Qc3) This now looks lost
+[10:32:41] kamagayajiji: Na2
+[10:32:41] bufferunderrun: f6
+[10:32:41] ysgwydd: (29...f6) Na2 Qg7#
+[10:33:27] kamagayajiji: Yes, always ignoring mate threats...
+[10:33:42] ysgwydd: (30.Rcd1) Nc6
+[10:33:57] ysgwydd: (30.Rcd1) Or e5
+[10:33:57] bufferunderrun: Idk, 30...Kf7 perhaps
+[10:34:12] ysgwydd: (30.Rcd1) I guess
+[10:47:20] bufferunderrun: take on d8, Kf7 and pray you'd survive this somehow
+[10:53:08] ysgwydd: (33...Kf7) I feel like white should've kept both rooks
+[10:55:39] bufferunderrun: Rc2 was a bit strange
+[10:55:39] bufferunderrun: Rd2*
+[10:56:55] bufferunderrun: I'm guessing white wants Bc3, but needs to cover the 2nd rank
+[10:58:26] bufferunderrun: I was wondering if 34...Nc6 was possible, with Na5 as the idea
+[11:00:27] bufferunderrun: 36.a5 looked interesting
+[11:02:13] bufferunderrun: I mean a5 Qxa5 Rd6, but this requires calculation
+[11:03:14] ysgwydd: (37...cxb4+) Is this losing for white
+[11:03:29] cinemashow: Rc1+
+[11:03:29] ysgwydd: (38.Qd4) Can't protect b3
+[11:03:44] cinemashow: no
+[11:04:30] bufferunderrun: this turned around now
+[11:04:45] ysgwydd: (38.Qd4) I guess it's equal after Qxd4 Rxd4 Rb3 Rb7+ Kg6 Ra7 Rxb3 Rxa5
+[11:07:01] cinemashow: trade Qs and Ke7 to stop Rd6 then Rc3?
+[11:07:16] bufferunderrun: Qxd4 Rxd4 Rc3 Rd7+ Ke8 Rxg7 Ra3 Rxh7 Rxa4 h4 b3 i kind of think black is faster
+[11:08:17] ysgwydd: (38.Qd4) After Ke8 then Ra7 is the move
+[11:08:32] kamagayajiji: Black also has more time to calculate...
+[11:08:47] ysgwydd: (39.Rxd4) Yeah I guess Ke7 first as Rc3 is still good next turn
+[11:09:02] ysgwydd: (41.Rd3) Even better
+[11:09:17] bufferunderrun: Kf1 was the move there
+[11:09:33] bufferunderrun: Kf2*
+[11:09:33] ysgwydd: (41.Rd3) True
+[11:09:48] cham: who is winning?
+[11:09:48] cham: i'd prefer to be black i think
+[11:10:03] ysgwydd: (41.Rd3) Winning for black I think
+[11:10:03] bufferunderrun: now Rc3 should work, since the king is too far away
+[11:10:18] ysgwydd: (41.Rd3) White can't get to a5 in time
+[11:11:03] bufferunderrun: 14 minutes to see 41.Rc3, let's go1
+[11:11:34] bufferunderrun: uff
+[11:11:49] ysgwydd: (42.Rd1) Rc2 is odd
+[11:12:19] ysgwydd: (42.Rd1) Rc3 now to force Rb1 and bring king
+[11:12:50] bufferunderrun: Rc3 can wait
+[11:15:36] ysgwydd: (45.Kg1) This way g2 will be a problem
+[11:15:51] bufferunderrun: and now 45...Rc3
+[11:16:37] ysgwydd: (45...Rc3) Good
+[11:16:37] bufferunderrun: excellent
+[11:17:07] bufferunderrun: Rd3 was unnecessary
+[11:17:22] ysgwydd: (47...Kd6) Yeah
+[11:18:08] bufferunderrun: 47...Rd2 perhaps, to keep the king over there
+[11:18:08] ysgwydd: (48...Rc3) Ke5-f4-g3 is also something
+[11:18:38] bufferunderrun: yes, of course
+[11:20:24] ysgwydd: (49...Ke5) Black got the right ideas, just wasting a couple of tempi
+[11:20:54] bufferunderrun: and making things a bit more difficult for themselves
+[11:21:09] bufferunderrun: but if this works, this works
+[11:23:26] bufferunderrun: 50...Kd4 might work, like Rd2+ Rd3 Ke2 Rxd2 Kxd2 e5
+[11:26:43] bufferunderrun: I don't understand the f5 idea
+[11:26:43] glbert: white should run out of moves very soon anyway.
+[11:28:59] ysgwydd: (52...Kf4) Yeah hard to find a move here
+[11:29:29] ysgwydd: (52...Kf4) buffer's Kd4 line was cleanly winning I think
+[11:31:30] bufferunderrun: I was looking at Re2, but Rxb3 Rxe6 Ra3 and it's over
+[11:31:45] ysgwydd: (53...e5) 53...Rxb3 54. Rxe6 Rb2+ 55. Kg1 Ra2 56. Ra6 Rxa4 is winning surely
+[11:33:01] ysgwydd: (55.Re3) Now it's a draw?
+[11:33:16] cinemashow: careful Black
+[11:33:31] cinemashow: check Rc2+ first
+[11:34:17] cinemashow: a trade on e2 is better than on e3?
+[11:34:32] ysgwydd: (56.Re2) Better to trade on c3
+[11:34:47] bufferunderrun: better not to trade
+[11:34:47] cinemashow: yes but White won't do that
+[11:34:47] ysgwydd: (56.Re2) 55...Ke6 was tricky I think
+[11:37:49] cinemashow: Rc3 back was like a triangulation wasn't it
+[11:38:19] cinemashow: same as 55.Re3 but with White to move
+[11:39:20] bufferunderrun: 58...Rb1 Re3 Rb2+ Kf1 Ke6 I guess
+[11:41:06] bufferunderrun: maybe Kg1 instead of Kf1, so there is no Kf5 Re4+ Kg3 Rg4+ and Kh2
+[11:41:21] bufferunderrun: Kf4*
+[11:44:07] ysgwydd: (58...Rd4) Re3 Kf4 looks like a decent try
+[11:44:38] cinemashow: as White, I'm looking at Ke3
+[11:45:08] ysgwydd: (59.g3) 59.Re3 Kf4 Ke2 e4 was good for black I think
+[11:45:23] ysgwydd: (59.g3) Maybe not
+[11:45:23] cinemashow: (59.g3) now with move numbers
+[11:45:38] ysgwydd: (59.g3) Ooh nice numbers
+[11:46:09] ysgwydd: (59.g3) hxg3 Kxg3 Rd3 Rb2?
+[11:46:24] cinemashow: (59.g3) hmm not sure about g3
+[11:46:39] bufferunderrun: yeah, g3 was bad
+[11:46:54] bufferunderrun: now e4 is possible
+[11:46:54] ysgwydd: (60...Rd3) 59.Re3 Kf4 Ke2 e4 Kf2 was holding I think
+[11:47:09] cinemashow: (60...Rd3) White's king now looking bad again
+[11:47:09] ysgwydd: (60...Rd3) Yeah e4 is deadly
+[11:49:41] ysgwydd: (62.Rc4) a4 falls also
+[11:49:56] ysgwydd: (62...Rc3) Or this
+[11:50:11] bufferunderrun: finishing with style
+[11:50:11] cinemashow: (62...Rc3) that's nice
+[11:50:56] kamagayajiji: b3
+[11:50:56] ysgwydd: (64.h4) And b4 is protected
+[11:51:27] bufferunderrun: just 64...b2 was fine
+[11:52:12] ysgwydd: (65...b2) Not sure about b2
+[11:52:12] ysgwydd: (65...b2) No sorry
+[11:52:12] bufferunderrun: it's fine
+[11:52:27] ysgwydd: (65...b2) I thought Rh8-Rb8 was possible in one move
+[11:53:13] bufferunderrun: gg
+[11:53:28] cinemashow: gg
+[11:53:28] masterpiece_ki: Gg
+[11:53:43] ysgwydd: gg
+[11:55:59] kamagayajiji: gg!
