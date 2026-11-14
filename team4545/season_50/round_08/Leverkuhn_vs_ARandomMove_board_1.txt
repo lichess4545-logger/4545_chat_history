@@ -1,0 +1,73 @@
+Lichess game chat log
+Game      : https://lichess.org/dT3T3ODa
+White     : leverkuhn
+Black     : arandommove
+Time      : 45+45
+Captured  : 2026-11-14 22:51:04 UTC
+Game ended : 2026-11-14 21:30:55 UTC
+Messages  : 63
+────────────────────────────────────────────────────────────
+
+[19:08:31] mgold: (3. f3) do it arandom!
+[19:08:31] mgold: Also go arandom!
+[19:08:31] mgold: (3... d5) let’s goooooo
+[19:08:31] arandommove: hi mgold! you want to play that game instead?
+[19:08:31] mgold: Hahaha
+[19:08:31] arandommove: i looked at this briefly after we talked about the f3 variant
+[19:13:49] fischerforlife: Let's go ARandomMove!
+[19:16:36] fischerforlife: If this win happens, it will make me feel more at ease for playing my planning opening
+[19:16:36] mgold: (13... fxg6) all still theory... arandom might take the longest in theory chronicles award again
+[19:18:22] fischerforlife: That's one award our team excells at
+[19:20:23] fischerforlife: ARandomMove should go (15...e4); we don't need that pawn right Mgold?
+[19:21:24] mgold: It’s actually part of the theoretical line unironically
+[19:21:39] mgold: But not for another like 2 moves
+[19:22:09] fischerforlife: Rc8 e4?
+[19:22:55] mgold: I think so, or something like that. Idea is after fx you get Ng4
+[19:24:25] mgold: I believe my game went g4 here or somewhere around this
+[19:30:44] fischerforlife: Oh yeah Kb1 is the top computer move I remember now
+[19:30:59] fischerforlife: At least I think so
+[19:33:31] mgold: (15. Kb1) yeah it might be e4 here already
+[19:33:31] mgold: I think it is
+[19:34:16] mgold: Err yeah rc8 first
+[19:35:02] mgold: Rc8 Bh6 e4 maybe? I can’t remember these lines even when I looked at them not that long ago lol
+[19:44:37] mgold: (16... e4) there it is!
+[19:44:52] mgold: Arandom I’m glad it’s you playing this and not me ahaha
+[20:04:19] fischerforlife: (18. gxf3) This looks dangerous for black even though it's probably equal
+[20:04:19] inter-temporal: (18.gxf3) go Kuhn, and friends!
+[20:05:04] mgold: Looks scary, for sure
+[20:23:15] tommeketoch: checking this game out on stream https://www.twitch.tv/thechessrunner
+[21:21:50] fischerforlife: Looks lost for black
+[21:26:52] inter-temporal: (41.Rb7) great technique by leverKoon
+[21:29:09] inter-temporal: (45...Ke6) dsb can only stop that one square, but the R is also in time for h1. soooo
+[21:31:40] leverkuhn: I was certainly more prepared for 8...Nc6 and 9...e5 rather than 8...e5! directly
+[21:31:55] inter-temporal: gg
+[21:31:55] leverkuhn: this happened to me once before in the league, maybe about two years ago?
+[21:32:26] mgold: gg tough one
+[21:32:26] leverkuhn: I faced a player who played 8...Nc6, and he surprised me with 8...e5.
+[21:32:56] leverkuhn: it that game I played 10.d6, and the game was absolutely wild
+[21:33:11] leverkuhn: this time I knew a little more of the theory, but probably not as much as my opponent
+[21:33:26] inter-temporal: apparently the final N-trade was a problem
+[21:33:41] fischerforlife: ggs
+[21:33:56] arandommove: my teammate mgold played it two weeks against that line, this was essentielly the first time i saw f3
+[21:34:11] arandommove: than i looked at i luckily
+[21:34:11] leverkuhn: 16...e4! was quite the nice sacifice and I couldn't figure out what to do after 17.fxe4 Na4!? 18.Nxa4 Bxa4 attacking d1 and e4
+[21:34:57] arandommove: i think after fxe4 Ng4 is theory
+[21:35:42] leverkuhn: ah interesting. If I had any prep by that point I certainly didn't remember it
+[21:36:12] arandommove: this Rc6, Nd5 wasn't the greatest concept from me if i didn't get my pawns moving at all
+[21:36:28] leverkuhn: I expected 18...Bf5+ 19.Ka1 and Black has lots of tactical tries connected to ...Rxc3 though I didn't see that any of them worked
+[21:36:58] leverkuhn: yeah 29...Rc6 seemed totally wrong to me as I have a passed pawn there too
+[21:37:13] arandommove: i thought with my bishop on the long diagonal i had some ideas against b2 but you gave me nothing
+[21:37:28] leverkuhn: yeah it was very concrete
+[21:38:13] leverkuhn: before that I felt the endgame was dangerous for me since you had a passed h-pawn and my king was so far from it
+[21:39:29] leverkuhn: 24...Kf7 or 25...Rxd8 26.Rxd8+ Kf7 was what was worrying me
+[21:40:14] arandommove: I didn't think I was better before but I thought there was chances for both sides. Should have played it a bit more slow.
+[21:40:30] arandommove: I didn't like Ng5 after these Kf7 lines
+[21:41:00] leverkuhn: yeah not sure if my knight get there, but I can see that
+[21:41:15] arandommove: sorry, Nb5
+[21:41:30] arandommove: aiming at d6
+[21:41:30] leverkuhn: oh I see
+[21:43:31] arandommove: after Rb8 I thought I wass okayish, blundering that after a6 Bxb2 a7 Bd4+ is not a good discovery check
+[21:44:31] leverkuhn: yes it was all just one tempo off in that race, as so often happens
+[21:45:17] tommeketoch: gg
+[21:45:47] arandommove: yeah, i lose too much time having to deal with the Rd7 ideas. Well played!
+[21:46:17] leverkuhn: thanks, gg! Hopefully see you next season
