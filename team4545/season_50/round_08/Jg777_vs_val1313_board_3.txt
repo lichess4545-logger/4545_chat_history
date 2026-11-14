@@ -1,0 +1,173 @@
+Lichess game chat log
+Game      : https://lichess.org/0OQwIDEk
+White     : jg777
+Black     : val1313
+Time      : 45+45
+Captured  : 2026-11-14 13:06:50 UTC
+Game ended : 2026-11-14 11:46:40 UTC
+Messages  : 163
+────────────────────────────────────────────────────────────
+
+[09:54:34] macha1313: (1.e4) go Jordan!
+[09:54:49] jg777: Final game of season 50 for me! The season has gone by so fast.
+[09:55:04] pineapplechiffoncake: go Jordan!
+[09:57:51] jg777: My goal when faced with these type of openings now is to focus on developing centrally and see where things go.
+[09:58:36] jg777: These openings can transpose depending on move order and such, so my main goal is to try and see if I don't fall into some move order
+[09:58:36] jg777: trap
+[09:58:51] jg777: That goes into a favorable line of some opening, like for example a KID.
+[10:00:53] jg777: Val has to make some commitments soon though, for example if they fianchetto with g6, they can't wait too long.
+[10:01:08] jg777: Ah, and they did. So that gives me pawn structure information and such. So they likely want this to go into a KID someway.
+[10:02:08] jg777: I haven't played c4 yet though, so this could be an atypical position if they want a KID. What is the difference though, not sure.
+[10:02:54] jg777: I think it is the Samaich variation that goes f3 for white here. Which I might want to try here, with g4-h4-h5 ideas early on.
+[10:03:24] jg777: Immediately signal my intent, but also perhaps give Val pause to castle kingside into an impending pawn storm.
+[10:03:39] jg777: I think that approach, with no c4 played, allows easier queenside castling
+[10:03:54] jg777: Maybe making use of that difference.
+[10:04:09] jg777: f3 also allows Be3 without Ng4 ideas for black, too.
+[10:04:40] jg777: So that seems to harmonize well with development considerations, since sometime Qd2 Bh6 is a typical idea.
+[10:07:11] jg777: a possible grievance for my position is having played Bd3 instead of Bc4, but we can't have everything. :)
+[10:08:42] jg777: c6 is a tricky move because Qb6 on b2 could be annoying as I don't want to play b3.
+[10:09:12] jg777: So c3 can make sense here, allows Qd2 to connect on b2 also, and blunts Bg7 more.
+[10:09:27] jg777: But it also gives some air if I queenside castle perhaps too.
+[10:09:58] jg777: Also b5-a5 would be easier ideas since c3 is a pawn hook for b4 later by black.
+[10:10:58] jg777: So this asks structural questions I'm not sure I want to give right now.
+[10:11:29] guitarspider: (5...c6) go both
+[10:12:29] jg777: Maybe I should ask where my b1 knight plans are- Nd2 and I can deploy it on b3 if Qb6, or maybe c4, although that is surely temporary.
+[10:13:15] jg777: I also need to be aware of no Qb6 immediately, and something like e5, with the intent that c6 discourages d5 by me somewhat.
+[10:14:15] jg777: But I think Nd2 still harmonizes okay with that idea, Nb3 could be useful, c3 still an option if e5 as well.
+[10:16:01] jg777: Yeah Nbd7 sometime castle and e5, very typical KID like ideas.
+[10:16:31] jg777: So I need to decide when g4 here. g4 is important consideration because I need to determine where Ng1 is going.
+[10:17:02] jg777: g4 h4 stuff can allow for Nh3 sometimes I think, but Ne2-g3 is more common I recall.
+[10:18:02] jg777: g4 earlier has the idea to not allow Nh5 f5 move orders.
+[10:19:03] jg777: But my bishop isn't on e2 or c4, which are issues here I think because typically it is on e2 to defend the d1-h5 diagonal stuff
+[10:19:18] jg777: Or c4 to slow f5 ideas.
+[10:19:48] jg777: But I can't throw it on c4 as then it could compete with my knight on d2 for the b3 square, say Bc4 b5 Bb3.
+[10:21:04] val1313: (7.Ne2) funny how the opening went. Feels like we played the principle moves, but in the wrong order
+[10:21:19] jg777: I think I'll prepare Ng3 so if 0-0 g4 (no Nh5), if h5 ideas there, then gxh5 if Nxh5 then Ng3, immediately looking to open kingside stuff
+[10:21:34] val1313: (7.Ne2) although very aesthetic I cant help but feeling that the double bishop double Night square cant be optimal
+[10:22:05] jg777: In the meantime, look at the smartly lined up minor pieces I have. :D
+[10:22:20] jg777: It's like they are preparing for a parade.
+[10:24:06] val1313: (7.Ne2) is it E5 time
+[10:24:06] val1313: (7.Ne2) thats the big question
+[10:25:06] guitarspider: (7.Ne2) 0-0 and e5 probably, what's white going to do with those clumped up minor pieces without active purpose
+[10:25:21] jg777: Probably I will need to play c3 here if e5 since I have no c4 support for d5
+[10:25:37] jg777: And opening that dark diagonal looks wrong.
+[10:26:22] jg777: Now my position really does look a bit too smartly organized for a parade or something. :P
+[10:27:23] jg777: An alternative I should consider here, is 0-0 f4
+[10:27:38] jg777: Yeah b5, immediately going for that c3 pawn hook and queenside push
+[10:27:53] yellorambo: gl jg!
+[10:28:08] jg777: Makes sense. I could really aim for 0-0 f4, and try to make better use of Bd3 here.
+[10:28:23] val1313: (8...b5) If I understand things correctly there is tension because Jordan wants to long castle
+[10:28:38] jg777: That may be the smarter approach now, even though I have had fun with pawn storming this season.
+[10:28:38] val1313: (8...b5) so I am delaying castling on purpose
+[10:28:53] jg777: Although I guess I could end up storming a bit with pawns later anyway, but f4-f5 after 0-0 makes sense here
+[10:29:09] val1313: (8...b5) and attacking queenside
+[10:29:24] jg777: Black isn't castled, has no early f5 that I can see, so my idea hits first there.
+[10:29:54] val1313: (8...b5) which is typical of the Pirc
+[10:29:54] jg777: Well only issue is f4 Ng4 hitting Be3.
+[10:31:10] jg777: Okay lets pause that idea and look at what b5 does/allows here.
+[10:31:25] jg777: There is no Qb6 hitting b2, there is now a weak c6 point.
+[10:31:55] jg777: If I played d5 here, b5 can fall if cxd- but that blows the center up.
+[10:33:11] jg777: things I don't like for 400, Alex. Okay, no d5. Back to development ideas.
+[10:33:56] jg777: I guess I can play h3 before f4 ideas if I really need to- I should still be caster on the draw, and h3 might support g4 later or so.
+[10:35:58] jg777: I think f4 is also important to allow for Nf3 later too, or my minor pieces get sort of stuck there in the center.
+[10:36:13] jg777: I don't want a traffic jam on Central Ave.
+[10:36:43] guitarspider: (9.O-O) b5 looks bad to me, but I'm not sure how to punish it
+[10:37:13] jg777: Like one possible idea is to use throw a lot of pressure on e5 to coerce e5 taking somewhere.
+[10:37:28] guitarspider: (9.O-O) it's destabilizing and you want to play it to weaken e4, but here there's no nc3 to hit and e4 is also protected by f3, so not even
+[10:37:28] guitarspider: (9.O-O) Bb7 looks good
+[10:37:44] guitarspider: (9.O-O) probably just a weakness
+[10:38:29] jg777: Right now I am over protecting c4-f4 so dropping a knight there for black doesn't work
+[10:39:14] jg777: Makes black have less outpost ideas for the knights, which can make it a bit more difficult to decide where the pieces are going
+[10:40:00] jg777: I am falling more for the h3, f4 idea here though, it seems like a good way forward. Even if Nh5, I'd cover g3, f4 still comes
+[10:40:15] jg777: and h3 allows g4 to kick Nh5 if I want also
+[10:40:45] jg777: Seems like I can do my idea without difficulty that I see. Good, well, that is for after the game to know. :D
+[10:41:31] jg777: And just like the KID, these set ups usually revolve around who gets f4 or f5 in
+[10:42:01] jg777: and throwing your kingside pawns even if castled kingside is fine because the opponent can't often get pieces at the king in these
+[10:42:16] jg777: situations easily because you control the space for  piece movement and all
+[10:43:17] jg777: So likely we may have a kingside throwdown with both kings looking on as the battle ensues :)
+[10:43:47] jg777: The odd, looks wrong h3 move here with f3-h3 and I just castled. Breaking the typical rules here!
+[10:44:18] guitarspider: (10...a5) probably a sign you should be doing something else ;)
+[10:44:33] jg777: Oh there is this possible annoying move, Bh6 after f4. I just realized that is possible.
+[10:44:48] jg777: I guess f4 Bh6 g4- with g5 threat. Maybe it isn't a valid idea.
+[10:45:48] jg777: I don't like a6 for Val here, I think gaining space on the queenside isn't necessary- my king isn't there, the battle won't be over there
+[10:46:34] guitarspider: (11.f4) Re8 is probably fine, maybe d5 already works for val
+[10:47:50] guitarspider: (11...Bb7) no, d5 is bad
+[10:47:50] jg777: Okay now I need to look at this because pawn structure changes can happen any move and there is growing tension as well
+[10:48:20] jg777: My pieces need to be at the right spots for various pawn transformations here.
+[10:49:21] guitarspider: (11...Bb7) f5 d5 works
+[10:49:51] jg777: I really want to throw in g4 here, but telling myself to pause here before moving.
+[10:51:22] jg777: ahh I gotta do it. I don't want to push f5 yet and I'm not taking on e5, and my minor pieces aren't ready to move just yet.
+[10:52:07] jg777: g4 offers me Ng3 and then I have g5 ideas, taking away Nh5 I think
+[10:52:38] jg777: So my attack just becomes a storm rolling into the black kingside )I hope!).
+[10:56:55] jg777: I do need to be mindful of all the loose pieces I have though, there could be some potential pins and other things
+[10:57:25] jg777: If the pawn structure changes in the center. I am attacking a flank without an actual locked up center.
+[10:57:56] jg777: it is pseudo locked by controlling specific squares, but that isn't the same thing.
+[10:58:41] jg777: So if I get careless, there is a chance for some pawn transformation in the center that exposes defects in my piece placement
+[10:59:42] jg777: I don't see any immediate issues if exd or exf4 yet, but I'll try to keep an eye on it as we progress here
+[10:59:57] jg777: and hopefully be in time to spot an upcoming issue that I can avoid/address before it is too late.
+[11:00:43] jg777: otherwise I think I have a good initiative here and good prospects on the kingside
+[11:01:13] val1313: (13.Ng3) didn't find anything good enough on  NXG4
+[11:01:58] jg777: Okay, g5 is my next move unless something forces differently, and then onwards men!
+[11:03:44] jg777: Okay, getting out of the way. So they want f5 here I assume
+[11:04:00] jg777: So I need to play f5 now and take that away from them.
+[11:04:30] jg777: reverse the move order here, instead of g5-f5, f5 threatening g5 next.
+[11:05:30] jg777: d5! There's that central play you're suppose to aim for when the opponent goes for a flank attack.
+[11:06:31] jg777: This aims to blow the center up and expose my loose bishops I think
+[11:06:46] jg777: So Qf3 is my initial idea to help shore that up, allow Rae1, things like that.
+[11:08:47] jg777: Be3 is the critical loose piece. Lets see if exchanging centrally is okay for me here.
+[11:09:18] jg777: Yeah it doesn't work for me. I didn't think it did initially. Qf3 seems necessary here.
+[11:11:34] jg777: If my center holds up, I should just be winning with all this space, nice pawns to push with, ect.
+[11:11:49] jg777: Now I have g5, e5- seems like I have a lot of looming threats here.
+[11:12:19] jg777: Yeah, dxe4 seemed critical here, I can see why they played it.
+[11:13:35] jg777: Yeah I saw this idea and not sure how I wanted to meet it. I can't play Bxc6 because e3 is loose. Unfortunate for my position.
+[11:15:52] jg777: Rae1 may be the safe move, but looking at g5..
+[11:17:22] jg777: I think the lines are working for me, lets see.
+[11:19:24] jg777: Nxe4 seems forced here, so unless I missed an alternative, I think it is Nxe4 Ndxe4 (I want Ng for if gxf5 I think), then f6 for black?
+[11:23:41] jg777: Checking if maybe f6 here works for me- that could be interesting. f6 Nxd2 fxe7! Nxf3+ Rxf3 Bxd4+ Kh2 c5...
+[11:24:27] jg777: I'll eventually be up the exchange there I think
+[11:25:27] jg777: Wait what am I talking about , they took a piece on e4, they can just play Nexf6 there.
+[11:26:43] jg777: I still have f6 threat, so no c5 yet. But if I can't trade or shut down one of those bishops this could easily come back to haunt me.
+[11:27:59] jg777: I'd like to play Nc5 next move, but I doubt I will have the time
+[11:30:45] jg777: I want Nc5 and Rae1 here. c5 looks nice for them, that pin on e4 looks tough for me.
+[11:31:46] jg777: Probably Nc5 is the save move here.
+[11:32:31] val1313: (21.Nxf5) epic missclick
+[11:33:32] jg777: Well okay, taking on f5 was unexpected so now I have fierce knights on the board and I like that.
+[11:34:48] jg777: I think Qf7 is the critical move for Val here, have to get the queen save and still touching b7.
+[11:35:48] jg777: Although maybe Qc7 can work, if Ne6 c5 and maybe that tactically works out?
+[11:36:19] macha1313: (21...Qf7) Why is Qf7 better than Qc7? They both seem to accomplish the same thing. Qc7 might have fewer future options, I guess?
+[11:36:49] gary0892: Qc7, theres a knight fork on e6
+[11:37:04] jg777: Okay time to be precise here, I need to find a good few moves now.
+[11:37:19] gary0892: Also maybe Bf4 kicks the queen again
+[11:37:34] macha1313: (21...Qf7) oh, forks. Tricky buggers.
+[11:38:05] gary0892: hahaha
+[11:42:52] jg777: What I am looking for is Ne7+ Kh8 g6 hxg6 Qh4+
+[11:43:53] feet_barbie: (24.g6) go vall
+[11:43:53] feet_barbie: (24.g6) wtf is this
+[11:44:23] jg777: Oh maybe they can ignore g6
+[11:45:09] jg777: No Qh4 here anyway wins, righ?
+[11:45:24] feet_barbie: (24...Qc4) yeah
+[11:45:24] feet_barbie: (24...Qc4) wow white didnt even have to sacrifice for thi
+[11:45:39] jg777: Qh4 h6 Bxh6?
+[11:46:09] jg777: as Qh4 holds d4 and such
+[11:46:09] feet_barbie: (25.Qh4) that ne7 is nasty
+[11:46:24] feet_barbie: gg
+[11:46:55] val1313: gg well played
+[11:47:10] jg777: Final game of season 50 for me- it went by so fast!
+[11:47:25] jg777: Lets see where the mistakes are now, I have several positions I was not sure about
+[11:47:40] jg777: Oh lol Nc5 was terrible- opps!
+[11:47:55] jg777: I just didn't like the possible pin on e4 with c5 by Val!
+[11:48:56] jg777: okay, I did not see how blowing up the kingside immediately with fxg6 worked out.
+[11:49:11] jg777: I thought I had several moves before anything and c5 looked really annoying with that pin on e4, so I wanted to stop that.
+[11:49:41] jg777: I missed the whole blowing up the kingside immediately and black never has time for anything like that.
+[11:50:42] jg777: f5 was wrong too!  Really, that surprises me. dxe5 and white is doing well, I did not expect that.
+[11:51:12] jg777: I guess the whole idea is that it "locks" the center up before f5 possibly, or black is losing pawns, either way good for white.
+[11:51:12] jg777: Okay, missed that whole thing too.
+[11:52:58] jg777: I guess I need to learn how to properly pawn storm, even g4 was a mistake, f5 immediately, let the knight on h5, okay then!
+[11:53:13] jg777: Things to learn going forward.
+[11:53:43] jg777: Well thanks for the game Val, the season was too short for me, wish it was a few more rounds! I'll have commentary to look forward to though
+[11:54:13] val1313: thx Jordan !
+[11:54:13] jg777: See everyone in season 61!
+[11:54:13] val1313: and thx for the streams
+[11:54:13] jg777: 51*
+[11:54:44] jg777: Yeah, Peter today and tomorrow! It'll be fun!
+[11:54:44] jg777: Cheers
