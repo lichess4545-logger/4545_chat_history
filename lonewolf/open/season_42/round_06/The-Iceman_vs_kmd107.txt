@@ -1,0 +1,75 @@
+Lichess game chat log
+Game      : https://lichess.org/Y3V81nGC
+White     : the-iceman
+Black     : kmd107
+Time      : 30+30
+Captured  : 2026-11-14 18:07:06 UTC
+Game ended : 2026-11-14 16:46:54 UTC
+Messages  : 65
+────────────────────────────────────────────────────────────
+
+[16:02:13] the-iceman: Expecting an acc drag. I didn't prep deeply or anything
+[16:02:13] the-iceman: Just wanting to play my normal rep
+[16:02:28] the-iceman: Thats.... new
+[16:03:28] the-iceman: I'll play my rep anyways but yeah this is unexpected
+[16:03:59] the-iceman: I considered playing one of my old lines, 3. g3. I think its a good line but i want more practice in my repertoire
+[16:04:44] the-iceman: I'm happy to see Taimanov, I have some new lines that I don't think i've played before
+[16:06:30] the-iceman: Admittedly I don't know what to do about Qx
+[16:06:45] the-iceman: I've only prepared for 7...dxc6 and 7...bxc6
+[16:07:00] the-iceman: So I think this is probably wrong for black... but why
+[16:09:02] the-iceman: My guess is that it strengthens e5 a lot so I may consider playing e5 Bf3 Ne4 against some of his moves here
+[16:09:17] the-iceman: And if 8...d6 I imagine f4 and just trying to mate him can't be wrong
+[16:16:36] the-iceman: I couldn't find better than this forcing him to play e5 himself
+[16:16:51] the-iceman: At least it feels like it forces it
+[16:17:52] the-iceman: I thought 9. e5 d5 and I couldn't find anything super strong there. It looked good but not great and i
+[16:17:52] the-iceman: Thought it simplified too much
+[16:18:22] the-iceman: I really expected 9...e5. Now I have e5 myself with a good bind on the position
+[16:20:38] the-iceman: Trying to speed up a bit
+[16:26:42] the-iceman: 12. Re1 b4 Ne4 Qxc2 Nd6 Bxd6 Bxb7 Qxd1 Raxd1 Rc4 i think still works for me
+[16:27:12] the-iceman: Oh rc7, not rc4
+[16:29:59] the-iceman: Yep that was a good move to spend 7 minutes on lol.... (12)
+[16:30:14] the-iceman: I really need to just speed up
+[16:35:02] the-iceman: This seems super scary for him
+[16:35:47] the-iceman: 14. exd6 Bxd6 Bxd6 Qxd6 Ne4 followed by some rook to d1 is what I'm considering
+[16:36:33] the-iceman: 14. Nxd5 exd5 e6 also comes to mind but harder to calculate
+[16:40:20] the-iceman: Rcd1 seems more flexible as I may consider Qb7 instead of Ne4 but probably not
+[16:42:06] the-iceman: Yeah this seems winning (16)
+[16:48:10] the-iceman: I wrote some comments during the game
+[16:48:55] kmd107: Nice, not sure how to even comment during game, that would be helpful
+[16:48:55] the-iceman: I didn't expect a Taimanov at all, I haven't play these lines before really so I was out of my comfort zone a bit
+[16:49:26] the-iceman: if you type "/w " before your message to your opponent, it goes to spectator chat instead
+[16:49:41] kmd107: Ok, I will remember that
+[16:49:41] the-iceman: It turns green while ur typing so you know youre not accidentally sending your plans to your opponent haha
+[16:50:26] kmd107: First time for me playing Taimanov, but don't like playing against Maroczy Bind  with Acc Dragon.
+[16:50:41] kmd107: Probably over thinking openings, which I prefer not to study in the first place
+[16:50:41] the-iceman: Thats fair, i love the acc dragon so makes sense
+[16:50:56] the-iceman: taimanov is nice as it punishes any attempt at a maroxczy bind
+[16:51:11] the-iceman: well doesnt allow it at all i guess
+[16:51:42] kmd107: Wasn't sureQxc6 was correct
+[16:52:12] the-iceman: I underestimated that move in my analysis. I thought it was wrong but engine says its almost the same as bxc6 and dxc6
+[16:52:12] the-iceman: so i should definitely study it as it's pretty natural
+[16:52:57] the-iceman: b5 Bb7 also surprised me as I thought it lagged kingside development too much, but turns out i'm dead wrong lol. engine things its best
+[16:54:58] kmd107: I did feel like Rc1 was slowish but it stopped alot of threats against c pawn.
+[16:55:13] kmd107: Man.  d5 was just bad.  I didn't calculate enough moves in this, lazy
+[16:55:44] the-iceman: Yeah i didn't believe in this b4 Qxc2 stuff for black and I was trying to ignore it with Re1 but couldn't calculate how to punish black
+[16:55:44] the-iceman: after taking c2
+[16:55:59] the-iceman: Rc1 was a very sad move to make after 7 min of thought
+[16:56:14] kmd107: That is the moral victory I will take away from today!! Ha
+[16:56:44] the-iceman: I was hoping it'd give me plans later with c4 but opening the c file might not even be good for me idk
+[16:57:14] kmd107: So instead of d5, Ne4 Ng6 are you jumping Nd6+?
+[16:57:45] kmd107: Sorry Ne7 instead of d5, then Ne4
+[16:59:00] the-iceman: After Ne7 I think I would have actually played Rfd1 Ng6 Bg3 which is definitely not right
+[16:59:15] the-iceman: I had really overestimated how good my e5 bind was in the game
+[17:00:01] the-iceman: Though it's possible I would have found these Ne7 Ne4 Ng6 c4 ideas as it was my plan earlier with Rc1
+[17:00:16] the-iceman: Maybe thats optimistic though
+[17:01:32] the-iceman: This position after Ne7 is way more double edged than I had given it credit for honestly
+[17:04:03] kmd107: Ya, maybe worrying too much about d6 square and just live with it was the best route? Although looking at it, def prefer white
+[17:04:03] the-iceman: I will say I don't think I ever wanted to play Nd6+ and allow Bxd6 exd6. I'm a bit concerned the pawn is overextended there
+[17:04:33] kmd107: Ok, good to know
+[17:04:33] the-iceman: Yeah I don't understand the computer eval a lot. Every line I look at I think looks great for me and engine screamed -0.3 lol
+[17:04:48] the-iceman: I guess I need to study this structure
+[17:05:34] kmd107: I do as well.
+[17:05:49] the-iceman: Well interesting game! Good luck in your next rounds!
+[17:05:49] kmd107: Developing all my qside first is newish for me
+[17:06:04] kmd107: Yes, thanks for the few mins after as well.  Good luck
+[17:06:19] the-iceman: Of course!
