@@ -1,0 +1,102 @@
+Lichess game chat log
+Game      : https://lichess.org/vGVEZ3fT
+White     : gavalanche20
+Black     : aldric123
+Time      : 45+45
+Captured  : 2026-11-14 22:27:44 UTC
+Game ended : 2026-11-14 21:07:33 UTC
+Messages  : 92
+────────────────────────────────────────────────────────────
+
+[19:18:59] gavalanche20: (1...c5) We're going e4 today to end the season
+[19:19:14] jcarmody: Go Gav!
+[19:19:29] gavalanche20: (1...c5) Opponent seems very very well prepared and I couldn't make head or tail of the kinds of positions I was getting
+[19:19:45] gavalanche20: (1...c5) in the a6 QGD I was expecting
+[19:19:45] gavalanche20: (1...c5) Hey MrScribblesChess, hey jc
+[19:20:15] gavalanche20: (4...e5) Plan today is to test the Kalashnikov
+[19:20:30] gavalanche20: (4...e5) Which....it's probably the most underrated Sicilian right now so this could get tough
+[19:21:31] gavalanche20: (8.Be3) Hey Tactix
+[19:21:31] tactix47: (8.Be3) C'mon gav!
+[19:22:01] gavalanche20: (8...Nf6) Be3 is my big idea here, not exactly mainline but some interesting ideas I think, plan is Nc4 b5 Nb6 and pick off the LSB
+[19:23:17] gavalanche20: (9...b5) Deliberately playing slowly here
+[19:23:47] gavalanche20: (11...Qxc8) Opponent doing the opposite it seems hehe
+[19:24:48] gavalanche20: (12.Be2) So the supposed big idea here is after 0-0 0-0 I'm okay with allowing b4 Nd5 Ne4 and claiming that I have good comp on the light
+[19:24:48] gavalanche20: (12.Be2) squares and c file
+[19:26:18] gavalanche20: (12.Be2) Note to self, after b4 Nd5 keep an eye out for Ba6!
+[19:28:20] silkthewanderer: Go Gav
+[19:28:20] gavalanche20: (13...b4) Hey Silk
+[19:28:35] gavalanche20: (13...b4) So apparently everything I said in our team channel about my prep plan was a lie
+[19:30:21] gavalanche20: (15.c3) Ok let's see if big idea is successful
+[19:31:06] gavalanche20: (15.c3) bc3 Qa4! actually forks both knights because of Ne7 in the end is one of the ideas
+[19:31:06] gavalanche20: (15.c3) Hey Ponder
+[19:38:41] simonwashere: Go aldric!
+[19:40:27] ponderinsilence: (18.Rxc3) I was thinking of Nxc3 Nxc3 Rxc3, but what is the fate of the b2 pawn?
+[19:40:27] gavalanche20: (18.Rxc3) I remember from clicking around there was a line where it was slightly better to take with pawn but intuitively Nc3 feels more
+[19:40:27] gavalanche20: (18.Rxc3) Natural here
+[19:42:13] ponderinsilence: (18.Rxc3) maybe Rxb2 Qxd6 Rxe2 Rxc6?
+[19:45:30] gavalanche20: (18...Ba5) Rc2 vs Rc4...?
+[19:46:00] silkthewanderer: Is Ra3 a square?
+[19:46:45] silkthewanderer: 19. Ra3 Rxb2 20. Bc1 looks a bit silly but you play Qd5 next and the Black pieces are loose
+[19:48:46] gavalanche20: (19.Rc4) Idk Rc2 protects b2 but I feel like Qa4 is useful to keep open especially now that it tickles Ba5
+[19:49:32] gavalanche20: (19.Rc4) Note to self to not forget d6 is hanging
+[19:54:05] gavalanche20: (19...Rb4) Ngl this was the first move I considered and I completely forgot in the whole Rc4 vs Rc2 thing haha
+[19:54:50] inter-temporal: (19...Rb4) go gavalanche20-6-7!
+[19:54:50] gavalanche20: (19...Rb4) Trading on b4 should get me the pawn back, question was did Rc2 give me more somehow
+[19:56:21] inter-temporal: (19...Rb4) 16...bxc3N
+[19:57:37] inter-temporal: (19...Rb4) this is a gambit line?
+[19:58:22] gavalanche20: (19...Rb4) Imagining Rc2 Rd8 Qd5 but annoyingly I think there's Ne7!
+[19:59:08] gavalanche20: (19...Rb4) Oh no there isn't
+[19:59:08] inter-temporal: (19...Rb4) why gambit. ...the 2Bs lined up to support Q-side Ps advance; central Ps adequately blockaded?
+[19:59:53] gavalanche20: (20.Rc2) Hey IT, Stain and simon
+[20:00:08] simonwashere: hello :)
+[20:00:54] inter-temporal: (20.Rc2) hello, hello. i wouldn't know how to show compensation.
+[20:01:09] inter-temporal: (20.Rc2) teach me! :)
+[20:01:39] simonwashere: surely black should move queen out of the pin
+[20:02:09] inter-temporal: (20.Rc2) do we have some initiative? (Silk knows... silk knows all the secrets!)
+[20:04:41] gavalanche20: (20.Rc2) The hope is declining the trade and trying for more means that Rb4 and Ba5 are stepping on each other's toes too much
+[20:05:26] inter-temporal: (20.Rc2) but d4 is so weak, isn't it?
+[20:05:41] inter-temporal: (20.Rc2) maybe not. idk
+[20:11:30] gavalanche20: (20...Qb7) Ah now Qd5 Nd4
+[20:13:16] gavalanche20: (20...Qb7) That tells me I probably need to try Qd6
+[20:13:46] inter-temporal: (20...Qb7) lop it off! caveman must take pawn
+[20:13:46] gavalanche20: (20...Qb7) How do we feel about Nd4 being an option there again
+[20:14:01] inter-temporal: (20...Qb7) d4 is weak...
+[20:14:17] ponderinsilence: (20...Qb7) Qxd6 Nd4 seems unpleasant
+[20:16:02] gavalanche20: (20...Qb7) Ok but there's no other move worth considering I think so we just do it
+[20:16:33] ponderinsilence: (20...Qb7) Qxd6 Nd4 Bxd4 exd4 Qxa6 Qxa6 Bxa6
+[20:17:33] gavalanche20: (21.Qxd6) Things to consider after Nd4 would probably include Bd4 at various points obvviously but also Ba6, etc
+[20:24:37] gavalanche20: (21...Rxb2) I gotta admit I did not consider this move well enough (forgot Be2 hangs in the end)
+[20:24:53] gavalanche20: (21...Rxb2) but still is there something...?
+[20:25:08] ponderinsilence: (21...Rxb2) Bxa6 maybe?
+[20:26:23] inter-temporal: (21...Rxb2) is he considering Qxc6
+[20:27:54] gavalanche20: (21...Rxb2) Rb2 Qb2 Bc4 makes a lot of sense, protect a2, point at f7 with Bc5 ideas
+[20:28:09] gavalanche20: (21...Rxb2) Meanwhile Black still has to move Nc6 and if that moves then Qe5 tempo on bishop
+[20:28:09] ponderinsilence: (21...Rxb2) Qxc6 Qxc6 Rxc6 Rxe2 Rxa6 Rxa2, I think white is still down a pawn
+[20:28:40] gavalanche20: (21...Rxb2) I guess there's Rb2 Qb2 Bc4 Rc8 when B doesn't have to move but Qd7 looks far too strong?
+[20:29:56] ponderinsilence: (21...Rxb2) Bxa6 would have been my choice
+[20:30:56] gavalanche20: (23.Bc4) Oh miscalc
+[20:31:11] gavalanche20: (23.Bc4) Nd4 Qe5 Ne2+!
+[20:31:26] tommeketoch: checking this game out on stream https://www.twitch.tv/thechessrunner
+[20:31:42] gavalanche20: (23.Bc4) Therefore I should have thrown in Bc5 before Bc4
+[20:32:12] gavalanche20: (23.Bc4) Or maybe not necessarily because Rd8
+[20:33:58] gavalanche20: (23...Nd4) Never underestimate a Kalashnikov player's avability to find Nd4 when available hehe
+[20:36:14] gavalanche20: (23...Nd4) f4, Kh1 or Rd1
+[20:43:03] gavalanche20: (24...Nf5) nooooooooooooooo
+[20:43:49] gavalanche20: (24...Nf5) I'm actually beyond lost because anything that recaptures e3 gets hit by Bb6 pinning
+[20:43:49] gavalanche20: (24...Nf5) So I guess f4 threw the game
+[20:49:07] gavalanche20: (25...Kxf8) Welp, sad ending but all told it's not been a bad season back I suppose
+[20:50:08] inter-temporal: (26...Ke8) indeed. f4 was risky
+[20:52:39] gavalanche20: (28.Bf2) Oh no Bc7 threatens mate on h2!
+[20:52:39] gavalanche20: (28.Bf2) (please?)
+[20:53:55] ponderinsilence: (28...Ne3) Put all the chips on Bxf7+ Kxf7
+[20:58:58] gavalanche20: (35...Nd4+) I do wonder where I went wrong earlier
+[21:01:45] gavalanche20: (37...Nf4) While waiting for the end this seems like a good idea for deep philosophical questions
+[21:02:00] gavalanche20: (37...Nf4) Like do I seriously believe someone would throw this position (answer is no)
+[21:06:32] inter-temporal: (41.h4) "Always play to check mate (unless you don't feel like it)"--Capablanca
+[21:06:48] simonwashere: gg
+[21:06:48] inter-temporal: gg
+[21:07:03] ponderinsilence: Well played
+[21:08:34] inter-temporal: SF might find some tiny issue with 24.f4
+[21:08:49] gavalanche20: So did I to be fair...just after teh fact :P
+[21:09:19] inter-temporal: we were watching on Tom's stream
+[21:10:19] gavalanche20: Ba6 deflection ideas everywhere wow
