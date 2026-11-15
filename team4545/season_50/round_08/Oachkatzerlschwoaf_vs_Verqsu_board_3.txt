@@ -1,0 +1,64 @@
+Lichess game chat log
+Game      : https://lichess.org/qlidFQcS
+White     : oachkatzerlschwoaf
+Black     : verqsu
+Time      : 45+45
+Captured  : 2026-11-15 16:34:54 UTC
+Game ended : 2026-11-15 15:14:44 UTC
+Messages  : 54
+────────────────────────────────────────────────────────────
+
+[13:06:30] inter-temporal: go Oachkatzerlschwoaf!
+[13:06:46] oachkatzerlschwoaf: yo it you should be sleeping
+[13:17:06] feet_barbie: (9.Qg4) nf6 qxg7 bxh7 kxh7 rg8 qh6 ng4
+[13:20:08] verqsu: why is my opponent spectating
+[13:22:40] oachkatzerlschwoaf: hi api and barbie
+[13:22:40] oachkatzerlschwoaf: horrible opening yet again
+[13:23:25] feet_barbie: (9...Nf6) yeah weird line xd
+[13:23:55] oachkatzerlschwoaf: Im too afraid
+[13:25:26] verqsu: c5 or O-O
+[13:25:41] verqsu: O-O Re1 c5 perchance
+[13:25:56] oachkatzerlschwoaf: I think im just cooked after c5 lol
+[13:26:42] verqsu: c5 before e5, ...e5 Nf5 not allowed
+[13:27:27] oachkatzerlschwoaf: my opponent never played this with 5...Nc6 before
+[13:27:42] verqsu: maybe ...e5 Nf5 Bxf5 Qxf5 is pretty good anyway
+[13:27:42] oachkatzerlschwoaf: so I didnt prep it and look what ive become
+[13:28:13] verqsu: there is also Qc7
+[13:28:13] oachkatzerlschwoaf: so numb
+[13:28:43] oachkatzerlschwoaf: i mean 7.Bxc6 is just terrible innit
+[13:32:30] oachkatzerlschwoaf: I should have just went for Giri award and play exchange french
+[13:40:20] verqsu: Nb3 Qc7 maybe
+[13:41:05] oachkatzerlschwoaf: very suspicious
+[13:41:20] verqsu: Qc7 Re2 e5 is tasty
+[13:42:36] verqsu: thinking also about ...a5 Nxd4 Ne4
+[13:45:53] verqsu: ...a5 there is Bg5 though... Rb8 Nxd4 Rxb2 Bxf6 Qxf6 Qxf6 gxf6 unclear
+[13:50:10] verqsu: ...a5 Nxd4 Qc7 Bf4 i don't trust
+[13:52:12] verqsu: ...Ne4 Nxd4 Qc7
+[13:53:12] verqsu: Bf4 and queen moves again
+[13:53:27] verqsu: maybe ...Ne4 Nxd4 Qb6
+[14:01:32] angborxley: Go Verqsu!
+[14:12:23] verqsu: i still don't like e5 Nf5
+[14:13:39] verqsu: a5 Nb5 is not to be allowed
+[14:15:25] verqsu: Rf7 a5 Qd6 is possible, Bf4?? e5
+[14:16:41] verqsu: Rf7 Nb5 a6 kicks
+[14:21:28] verqsu: keeping contact with e6. Nb5 Qd8 and knight will be unstable
+[14:26:01] verqsu: Rc8 Rd8 Re8 a6 all probably fine
+[14:26:16] verqsu: don't need to play a6 now though
+[14:27:32] verqsu: on Rc8 the e6 can get pinned in the future on the c8-h3 diagonal but i don't think it's a problem
+[14:31:34] verqsu: Nb5 Qd7
+[14:38:38] verqsu: Nc5 is tempting to clear e4 for bishop, but Nc5 Rb4 Be4 Qh5 and  some sac to remove bishop defending h7 is not it
+[14:43:56] verqsu: can't take on a7 with bish, Nd2 fork
+[14:44:11] verqsu: Rxa7 Qxa4
+[14:54:33] oachkatzerlschwoaf: oh well ofc its lost, lets play for tricks
+[14:56:03] oachkatzerlschwoaf: he said and blundered immediately
+[14:58:05] verqsu: Qd5+ Kh8 there is no knigh action
+[15:08:41] verqsu: Bf3+ Kg1 Rd1 is nasty
+[15:10:57] verqsu: Qf1+
+[15:11:12] verqsu: lmao nevermind can take with king
+[15:11:42] qrs: Just qxq RxB
+[15:13:28] qrs: (40 Bd2) Qxg3+ hxg3/fxg3 R8xd2 GG
+[15:13:28] verqsu: Qxh3 Rxe1+ Qe1 Rxe1+ Kxe1 Rd1#
+[15:13:44] feet_barbie: (40...R8xd2) mmh
+[15:14:29] qrs: GG
+[15:14:59] angborxley: GG
+[15:18:16] verqsu: Turns out e5 was still the move on 17.
