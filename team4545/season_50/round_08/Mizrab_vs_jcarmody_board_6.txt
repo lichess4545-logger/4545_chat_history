@@ -1,0 +1,87 @@
+Lichess game chat log
+Game      : https://lichess.org/Ao2OrzEd
+White     : mizrab
+Black     : jcarmody
+Time      : 45+45
+Captured  : 2026-11-15 19:04:30 UTC
+Game ended : 2026-11-15 17:44:19 UTC
+Messages  : 77
+────────────────────────────────────────────────────────────
+
+[15:31:16] simonwashere: Go Mizrab!
+[15:32:47] joonaf: go mizrab!
+[15:32:47] joonaf: hi simon
+[15:33:02] simonwashere: Hi Joonaf :)
+[15:33:02] joonaf: where's my opponent
+[15:33:17] joonaf: game was to start st 15 UTC
+[15:33:32] simonwashere: scared of you
+[15:34:03] joonaf: as they should. look at my blitz rating going up :p
+[15:50:43] silkthewanderer: Go jc
+[15:51:13] simonwashere: wow
+[15:51:13] silkthewanderer: Oof, I arrive and a bishop sac is on the board right away
+[15:51:59] jcarmody: (11.Bxh7+) Kxh7 , Ng5+ , Bxg5 , Bxg5, I guess. I'm nervous because I'm playing on board 6.
+[15:52:29] jcarmody: (11.Bxh7+) Kxh7 , Qc2+ , Kg8 , Ng5??
+[15:54:30] mizrab: maybe I didn't think that through
+[15:54:45] jcarmody: (13.Qxh5+) Bh6 , Bxh6 , gxh6 maybe
+[15:55:16] jcarmody: (13.Qxh5+) Bh6 , Nf3 bringing more toys to the playground?
+[15:57:02] jcarmody: I need to get my friends to the k-side party, too.
+[15:58:02] suprascud: Go Jc !
+[15:58:02] suprascud: ; )
+[15:59:03] jcarmody: (14.Nf3) f6 , Nh4 , Be8 , Qg4 , Rg8 perhaps
+[16:09:24] feet_barbie: (16.Qh3) go car
+[16:09:39] jcarmody: (16.Qh3) Rf7 or Rg8. Maybe Rh8 and get the K out of the way?
+[16:10:24] jcarmody: (16..Rh8) Qxe6 is too bad
+[16:12:41] jcarmody: (17..Bg6) dxc5
+[16:15:27] jcarmody: (18.Bxc5) Nxd4 , Bxb6 , Nxe6
+[16:15:43] jcarmody: (18.Bxc5) Nxd4 , exd4 , Qxe6 , Rxe6 :(
+[16:16:28] jcarmody: (18.Bxc5) Qb5
+[16:17:14] jcarmody: (18.Bxc5) Nxd4 , exd4 , Qxe6 , Rxe6 , Bxb1 :)
+[16:17:59] jcarmody: (18.Bxc5) Nxd4 , Bxb6 , Nxe6 would be good, too
+[16:18:14] simonwashere: Nxd4 Qxb6
+[16:18:29] jcarmody: (18.Bxc5) Nxd4 , Qxb6 , axb6 , Bxd4 is not ok
+[16:19:00] jcarmody: (18.Bxc5) Nxd4 , Qxb6 , axb6 , Bxd4 , Bxb1 still makes it ok
+[16:20:15] jcarmody: (18.Bxc5) Nxd4 , Qxb6 , axb6 , Bxd4 , Bxb1 , Rxb1
+[16:22:16] jcarmody: (18..Nxd4) Nxd4 didn't calculate that!
+[16:23:17] jcarmody: (18..Nxd4) Nxd4 , Qxe6 , Nxe6 , Bxb1 , Rxb1 even, with two rooks
+[16:24:18] jcarmody: (18..Nxd4) Qxb6 , Nxf3! , gxf3 , axb6 :D
+[16:24:48] simonwashere: ah good point
+[16:27:04] jcarmody: simonwashereishere
+[16:29:36] simonwashere: after all that drama it looks equal-ish maybe, although with the d4 square white could be better actually
+[16:32:37] davidsifre: Go Mizrab! Jcarmody is a scoundrel.
+[16:32:53] simonwashere: Hello David :)
+[16:33:53] simonwashere: really the knight should be on d4 not the bishop
+[16:35:39] davidsifre: The bishop prefer the a and b pawn form moving.
+[16:35:39] davidsifre: Prevents.
+[16:36:25] simonwashere: knight should be on d5 now
+[16:36:40] davidsifre: Now the knight wins a pawn.
+[16:36:55] davidsifre: All is good.
+[16:37:10] simonwashere: white must be better now yeah
+[16:37:25] davidsifre: Unless he pulls mod privileges
+[16:42:43] jcarmody: (25.h4) Rd6 or f5
+[16:45:45] jcarmody: (25..Rd6) I like Nf4 less than Nb4
+[16:46:46] simonwashere: I would play Nb4, Ne7 not working after g6
+[16:46:46] jcarmody: (25..Rd6) Ne7 , Re8 , Nf5 , Rde6 , Nxh6 , Kxh6 and it's Rs vs B + 3ps
+[16:49:17] jcarmody: (27.Nc2) I thought Nd3 was better because it could hop to my side sooner. Oh, well. Let's see.
+[16:55:21] jcarmody: I'm going to try to double my Rs on the h-file.
+[16:56:06] simonwashere: white should play g3 and single his rook on the h file
+[16:57:22] simonwashere: ok this works
+[16:57:37] simonwashere: maybe
+[16:58:07] jcarmody: the K & R are forkable, except for f6
+[16:59:08] jcarmody: (32.a4) Rh7 , axb5 , Rh1#
+[16:59:53] simonwashere: Kf1
+[17:07:13] jcarmody: (35..Ra8) Bb6
+[17:09:59] jcarmody: (37.c5) Rc6 , Rb6 , Rxb6 , cxb6 , Rb8
+[17:20:20] jcarmody: (41.Nd2) f5 I wonder if he's aiming for Bb?, Nb3 , Nd4!
+[17:22:36] jcarmody: I'd love to go after the k-side pawns, but I can't see a way in.
+[17:23:37] jcarmody: I hope I can blockade the q-side and pick off the pawns when they come.
+[17:23:52] simonwashere: Bc3
+[17:28:25] jcarmody: (45..Bb4) Nxa5 , Rxa5 , Kxb4 , Ra8
+[17:28:40] jcarmody: (45..Bb4) Nxa5 , Bxa5 better
+[17:28:55] simonwashere: b7 probably works
+[17:29:10] jcarmody: maybe not much better\
+[17:29:25] jcarmody: or, at all
+[17:29:56] jcarmody: (45..Bb4) Nxa5 , Rxa5+, Kxb4 , Ra8 and I'm down another pawn
+[17:31:42] jcarmody: (47.Kc6) Ba7!
+[17:34:13] simonwashere: Can try Bd6 but doesn't help long term
+[17:43:34] simonwashere: ggwp
+[17:58:11] suprascud: GG !
