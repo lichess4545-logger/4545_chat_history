@@ -1,0 +1,52 @@
+Lichess game chat log
+Game      : https://lichess.org/g4YKa9Co
+White     : whenrooksfly
+Black     : analogue_man
+Time      : 30+30
+Captured  : 2026-11-15 00:07:43 UTC
+Game ended : 2026-11-14 22:47:33 UTC
+Messages  : 42
+────────────────────────────────────────────────────────────
+
+[21:08:52] whenrooksfly: 8.. out of prep now. I think I should have some g4-h4 stuff but will need to do a long think before I think
+[21:15:56] whenrooksfly: 11. with the very subtle idea of g5-h5 bam pow boom
+[21:24:00] whenrooksfly: 13. I should have looked at Nxd7 more but I think there was some Qxd7 Nxc7 Rc8 stuff which isn't so pleasant
+[22:41:45] tommeketoch: checking end of this game out on stream https://www.twitch.tv/thechessrunner
+[22:50:35] analogue_man: So you can go to the spectator room and comment on the game while in progress, is that correct?
+[22:50:50] whenrooksfly: I use /w during the game
+[22:50:50] whenrooksfly: I can't see spectator chat but it shows up
+[22:51:05] whenrooksfly: for any spectators
+[22:51:05] analogue_man: Ah, okay, I wasn't aware, nice idea
+[22:51:20] whenrooksfly: I learned about this from the 4545 league
+[22:51:35] analogue_man: I was expecting I E4!
+[22:52:06] whenrooksfly: your opening was good though
+[22:52:21] analogue_man: Everyone seems to be playing these d4 misc openings now
+[22:52:21] whenrooksfly: I am surprised my g4-h4 was not winning but I guess the computer just doesn't care
+[22:52:36] whenrooksfly: yeah I think the d4-c4-nf3 complex is a better choice for trying to get an opening advantage
+[22:52:51] analogue_man: I always had h5 but that pawn then becomes weak, I had to play actively
+[22:52:51] whenrooksfly: also 1.e4 allows 1.. c5!!!!
+[22:53:21] analogue_man: Yes, that was what I was expecting :)
+[22:55:37] analogue_man: Did you consider 17 dXe5 nd7 18 N x d5?
+[22:56:08] analogue_man: Did you consider 17 dxe5 nd7 nxd5?
+[22:56:38] whenrooksfly: Thanks for the game and good luck with the rest of your rounds!
+[22:56:53] whenrooksfly: flicked through the game but we both played pretty accurately so not much to analyze imo
+[22:57:54] analogue_man: did you consider17 dxe5 nd7 nxd5?
+[22:58:09] analogue_man: testing
+[22:59:09] whenrooksfly: test
+[22:59:09] analogue_man: no longer working
+[22:59:09] whenrooksfly: sry I didn't see your msg
+[22:59:09] whenrooksfly: I think lag
+[22:59:39] whenrooksfly: cxd5 g5 h5 and you are fine I think
+[22:59:39] whenrooksfly: exd5*
+[22:59:39] whenrooksfly: not cxd5
+[23:00:10] analogue_man: qxd5?
+[23:00:40] analogue_man: possibly unsound but maybe a tricky practical choice?
+[23:00:40] whenrooksfly: Nb6 Qe4 Qd5
+[23:01:25] analogue_man: qxb7
+[23:02:26] tommeketoch: gg
+[23:02:41] whenrooksfly: hmm
+[23:03:11] analogue_man: lagging, thanks again
+[23:03:11] whenrooksfly: how about 19..b5
+[23:03:26] whenrooksfly: and then the same Nb6 Qd5 idea
+[23:03:41] whenrooksfly: computer says b5 is bad oop
+[23:04:12] whenrooksfly: maybe 20..Rb8 Qxa6 Bxh4+
