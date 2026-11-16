@@ -1,0 +1,113 @@
+Lichess game chat log
+Game      : https://lichess.org/1aiUFMot
+White     : jpgmich
+Black     : monocarp
+Time      : 45+45
+Captured  : 2026-11-16 02:14:52 UTC
+Game ended : 2026-11-16 00:54:40 UTC
+Messages  : 103
+────────────────────────────────────────────────────────────
+
+[23:02:16] giziti: (5.Nf3) my team's last game of the season, let's gooooo
+[23:12:37] giziti: (11...Nxc3) what's black's plan for their LSB?
+[23:13:23] giziti: (12...e5) I guess that defines it
+[23:32:34] monocarp: (17. Bd3) I think that the incredibly boring Bxd3 might tactically be okay, with 18.Rdxd3 being met by ...Rad8 and I think the tactics
+[23:33:05] monocarp: ... with Qxb7 don't work, so from that we probably get some queen endgame
+[23:33:50] monocarp: which is pretty boring. But I'm not so sure about 18...Be6 19. Qc2. I guess there I can probably push ...g6 and be fine
+[23:35:36] monocarp: I think ...Be6 and 18. Qb4 Doesn't work, as Bxa2 and b3 doesn't trap the bishop due to Qb6 there. Although maybe there white can trade Qs
+[23:35:51] monocarp: and the bishop is in trouble long term? seems plausible
+[23:37:07] monocarp: Genuinely unsure which 17th move I prefer.
+[23:38:23] giziti: (17...Be6) I guess Qc2?
+[23:38:53] giziti: (17...Be6) Qc2 seems actually kind of annoying for black
+[23:41:55] monocarp: Now that I think of it, h6 is probably better than g6 here
+[23:44:12] monocarp: (19. b3) I'd like to play Bd5 but right now that has tactical issues (namely Bh7+ and Rxd5) so I guess I'll just put a rook on the d file
+[23:45:43] mrscribbles: (19...Rad8) go unicarp and go monomich
+[23:45:58] mrscribbles: (19...Rad8) jpegmichigan
+[23:58:05] monocarp: (23... Qa5) maybe g6 would have been better in that earlier position because if my king ever needs to hide it would be on a light square.
+[23:58:20] monocarp: although of course there's no guarentee this line would have been played out
+[23:58:35] mrscribbles: (23...Qa5) Probably just drawish. But as black I would try to trade everything and push queenside
+[23:59:06] mrscribbles: (23...Qa5) When it's 4v3 on one side and 3v2 on the other, the 3v2 is slightly faster
+[23:59:06] mrscribbles: (23...Qa5) All easier said than done tho
+[23:59:21] nyanners: qa5 is very nice
+[23:59:36] nyanners: id actually be kinda concerned
+[23:59:36] mrscribbles: (23...Qa5) hi setnA-nners
+[23:59:51] nyanners: like Qxa2 seems borderline winning if allowed
+[00:00:06] nyanners: hi :o
+[00:00:52] monocarp: trying to figure out if I can grab the a pawn following 24. h3, if that happens
+[00:01:37] inter-temporal: (23...Qa5) looks like only 1 more game today in the 4545s
+[00:02:23] monocarp: white does also have 24. Qb1 to hang on to both the back rank and pawn but that doesn't look so excellent.
+[00:04:24] inter-temporal: (24.Qb1) ya'll know about the tournament in Mannheim, Summer 1914?
+[00:05:09] mrscribbles: (24.Qb1) What about it, tempy? It's not on my flashcard review list
+[00:05:09] inter-temporal: (24.Qb1) i heard more details about what happened in the tournament hall when they said Germany declared war on Russia (and france)
+[00:05:40] inter-temporal: (24.Qb1) lights went out; gunshots rang in the distance; and
+[00:05:55] inter-temporal: (24.Qb1) Marshall ran to a basement storage closet and wouldn't come out
+[00:06:10] inter-temporal: (24.Qb1) his mates lured him out with brandi, but then
+[00:06:25] inter-temporal: (24.Qb1) he bolted out the door leaving all his luggage and a priceless gold ornament
+[00:07:26] inter-temporal: (24...Bf5) apparently, Alekhine's game didn't finish, but he published his game with a finish (him winning), but appearing like it ...
+[00:07:26] inter-temporal: ...actually happened. lol
+[00:08:11] monocarp: I think this should send the queen to a1 (Qb2 is certaintly a blunder with Qc1+, Bd3)
+[00:08:11] bxvrc2lh: time for night stories
+[00:08:26] inter-temporal: (24...Bf5) :)
+[00:08:42] monocarp: 24.e4 Doesn't work
+[00:08:42] bxvrc2lh: is it free pawn?
+[00:08:57] monocarp: as if Bxe4, Qxe4, I have Qf1+ winning the queen
+[00:09:12] mrscribbles: (25.e4) ope, yeah looks like it unifish
+[00:09:27] monocarp: so Unless I've missed something this pawn is grabbable
+[00:09:42] giziti: (25...Bxe4) oof
+[00:11:13] monocarp: I think I accedentally wrote Qf1+ in lines where I really mean Qe1+, but anyway
+[00:11:13] bufferunderrun: double oof
+[00:12:14] giziti: (26.Qa1) you can't be leaving back rank issues for too long
+[00:12:44] bufferunderrun: now white has to defend a pawn down position
+[00:13:14] mrscribbles: (26.Qa1) This kind of thing is nearly resignable, but you feel obligated to play on because it's only a pawn down
+[00:14:00] inter-temporal: (26.Qa1) young breyer was at that tournament, schooling the old-school dudes on the hypermodern
+[00:14:15] bufferunderrun: I'm guessing jpg overlooked Qe1+ and Bf2 isn't possible when e4 was played, otherwise I cannot explain it
+[00:14:30] inter-temporal: (26.Qa1) but the game i was studying that led me to all that was Alekhine-Breyer, 1-0
+[00:15:00] giziti: (26...Qd2) I'm wondering if we get Kf1 Bxg2+
+[00:15:00] inter-temporal: (26...Qd2) (example game for pawn storms, i think)
+[00:15:46] bxvrc2lh: Bxg2 is still a move :)
+[00:16:01] bxvrc2lh: Bxg2, Qg5, h5
+[00:16:16] inter-temporal: (27.Bg4) another Q-ending, but at least they got some time
+[00:17:17] giziti: (27.Bg4) yeah Bxg2 still a move, but why be fancy? then again, 2 pawns rather than 1 is harder to draw
+[00:19:03] monocarp: (27. Bg4) I don't quite see a follow-up to ...Qg5 and then 28.Bh6 (only move I think)
+[00:19:33] bufferunderrun: Bxg2 Qe5 perhaps...
+[00:20:04] monocarp: my alternative move is just Qc2 ;pplomh to trade off the queens, which I think can be forced
+[00:20:34] monocarp: but with black's queen in such a bad position I don't reall want to do that
+[00:21:04] bxvrc2lh: Bg2, Qe5-Qd5 and black are 2 pawns up?
+[00:22:20] giziti: (27.Bg4) yeah that's just really nice for black
+[00:22:20] bufferunderrun: would be up two pawns regardless?
+[00:22:50] bufferunderrun: anyways, Bd5 might be a problem after Qe5
+[00:22:50] bxvrc2lh: not sure Bxg2, Kxg2-Qg5,h3-h5, Qd1
+[00:23:36] bxvrc2lh: but yeah Qc2 is probably safer
+[00:24:52] monocarp: I think if Kf1, then I'll trade Q's, and in response to a4 I can play a5 and then later ...Bc2 should be very unpleasent for white.
+[00:24:52] monocarp: but this isn't really forced so idk
+[00:25:22] bufferunderrun: 28.Bc8 seemed like a better try
+[00:26:07] giziti: (30.a3) i guess just a pawn down in a bishop endgame has some drawing chances, time to fight it out
+[00:27:38] bufferunderrun: Idk, everything is too weak in white's camp
+[00:27:53] giziti: (30.a3) yeah, he's down a pawn and the compensation
+[00:27:53] bufferunderrun: and it's not even opposite bishops ending
+[00:28:09] mrscribbles: (31.Kf1) you know it's bad when black has compensation for white's lost pawn
+[00:31:10] giziti: (33.Kd2) yeah m aybe keeping queens on was the better bet, more variance, chances of making something happen for white
+[00:31:25] giziti: (33.Kd2) also of course more chances for black to get more pawns, but, you know...
+[00:34:12] inter-temporal: (34...b6) maybe they'll reach a Centurini positoin. ::nerd emoji::
+[00:34:58] monocarp: (35. Bd7) I was more scared of Bb7
+[00:36:59] nyanners: strong game
+[00:42:17] inter-temporal: (38.a4) ...f4 seems to make the defense more difficult?
+[00:42:32] inter-temporal: (38...f4) two weaknesses
+[00:44:34] monocarp: If I want to I can really take it to white by putting more pawns on light squares... maybe a5 or g5 (with the idea of h5 h6)
+[00:45:19] monocarp: although this could somehow end as a fortress for white, with their king on d2 stopping my king, and the bishop on the diagonal
+[00:45:19] monocarp: that it's currently on
+[00:45:19] bufferunderrun: just Bf5-Bd7-Bc6-Bd5
+[00:45:49] inter-temporal: (39.Bc4) nice
+[00:46:05] inter-temporal: (39...g5) pinning
+[00:47:20] monocarp: I think no fortress is possible though, I see myself sneaking my b out and putting it on e6 I think which would force a response
+[00:48:06] monocarp: probably I can go Bf5 now with the idea of going to e6
+[00:48:36] inter-temporal: (40...Bf5) one way or another, hitting b3 is the key
+[00:51:08] inter-temporal: (42.Bg8) ...Bd3
+[00:51:23] monocarp: (42. Bd3) this is the other way -- now I can get Bf1
+[00:51:38] inter-temporal: (42...Bd3) yeh. two weaknesses
+[00:52:24] inter-temporal: (42...Bd3) good play
+[00:53:24] inter-temporal: (43...Kc3) now he switches back to b3
+[00:53:39] inter-temporal: (43...Kc3) classic
+[00:54:10] bufferunderrun: gg
+[00:55:10] inter-temporal: gg
+[01:30:44] nyanners: gg
