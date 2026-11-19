@@ -1,0 +1,26 @@
+Lichess game chat log
+Game      : https://lichess.org/og4tIthj
+White     : sylvlondon
+Black     : thehippocrates24
+Time      : 30+30
+Captured  : 2026-11-19 21:30:33 UTC
+Game ended : 2026-11-19 20:10:24 UTC
+Messages  : 16
+────────────────────────────────────────────────────────────
+
+[19:28:30] inter-temporal: (19.Qc4) "always sac a piece"--sylvalondon
+[19:30:16] inter-temporal: (21.Ne4) is this to provoke ...Qd5
+[19:31:02] inter-temporal: (21.Ne4) seems like a2 would fall without a Q trade
+[20:11:40] sylvlondon: bishop sac is incorrect. There is a very similar line where it works
+[20:11:55] sylvlondon: I just go for it without serious calculation ...
+[20:12:10] thehippocrates24: Yeah I was fairly sure it wasn't sound in that line
+[20:12:25] thehippocrates24: But obviously you still get some pressure, though I think Nf8 relieved most of it
+[20:13:56] thehippocrates24: I'm surprised my Rxd1 was so bad though, never would have guessed that
+[20:16:27] sylvlondon: Well computer says -3 but that's not so easy to win, I'm very solid, sound pawn structure and if you exchange too much it is drawish
+[20:16:58] thehippocrates24: I guess because Nxc5 threatens Nd3 with the fork, so I essentially pick up an extra tempo
+[20:17:28] thehippocrates24: Yeah it's definitely not an easy -3
+[20:20:14] thehippocrates24: Ah and at the end of some trades (in the Nxe5 line) your rook ends up on d1 and doesn't have an entry square
+[20:20:29] thehippocrates24: I guess that's an important nuance
+[20:20:29] thehippocrates24: Sorry, Nxc5, not Nxe5
+[20:21:00] thehippocrates24: In any case, gg!
+[20:21:15] sylvlondon: tnx have a nice end of tounament.
