@@ -1,0 +1,80 @@
+Lichess game chat log
+Game      : https://lichess.org/nQa6cILh
+White     : neothehero
+Black     : the-iceman
+Time      : 30+30
+Captured  : 2026-11-21 05:03:30 UTC
+Game ended : 2026-11-21 03:43:21 UTC
+Messages  : 70
+────────────────────────────────────────────────────────────
+
+[02:05:24] the-iceman: So far this game is going as expected (9)
+[02:05:24] the-iceman: I prepped a bit but nothing specific
+[02:05:54] the-iceman: I prefer this 10...Bh5 line to avoid trouble after Ne5. It makes sure my bishop can always get to g6
+[02:06:55] the-iceman: I was checking briefly whether it matters to play Bg6 first or castle first
+[02:06:55] the-iceman: I don't think so
+[02:08:56] the-iceman: I'm unfamiliar with this sort of move order. Definitely a bit annoying since I really wish I couple play Qc6 here
+[02:10:42] the-iceman: So I'm thinking 14...Nd7 here is an interesting idea
+[02:10:57] the-iceman: But Bg5 is maybe a little concerning
+[02:11:12] the-iceman: I doubt it actually
+[02:11:58] the-iceman: I think at least a6 a4 is a sensible inclusion and maybe then Nd7
+[02:12:43] the-iceman: 15. a4 Na5 b4 Nc4 is also something I'm evaluating. Now that I think of it, that seems pretty favorable for me
+[02:14:29] the-iceman: I wonder what my response to 15. Ng5 is actually. Looks unlikely to work
+[02:14:29] the-iceman: Oh he plays it
+[02:14:59] the-iceman: Yeah this is sort of scary, I need to play accurately here
+[02:15:45] the-iceman: I think 15...Nh5 is the obvious move. Then Qh3 and now what
+[02:16:00] the-iceman: I didn't really consider this move for him and I definitely should have lol
+[02:19:17] the-iceman: I think I've calculated I line here
+[02:19:47] the-iceman: 15...Nh5 Qh3 Bxg5 Bxg5 f6 followed by e5. Appears to work for me but pretty complex
+[02:20:02] the-iceman: Uh oh, he dcd. Hopefully his internet is alright
+[02:21:03] the-iceman: I wonder if e5 now could also be really good
+[02:22:03] the-iceman: It actually looks borderline winning for me
+[02:22:03] the-iceman: I calculated this earlier but realizing i missed something
+[02:23:19] the-iceman: Ugh he just has 16...e5 dxe5 and I don't actually have anything
+[02:29:37] the-iceman: I am pretty uneasy about this position honestly but hoping it's fine (17)
+[02:30:38] the-iceman: 18. Be3 f5 seems interesting too but sort of sketchy
+[02:35:41] the-iceman: 18. Be3 e5 g4 doesn't threaten to take my knight but still one of the lines I'm concerned about for some reason
+[02:35:41] the-iceman: I feel like I am doing alright against most everything else
+[02:36:11] the-iceman: Finally a significant think from him haha
+[02:38:43] the-iceman: The plan was 18...e5 here, quickly looking at other choices though
+[02:39:58] the-iceman: Completely missed 19. Qg2 unfortunately
+[02:43:15] the-iceman: Weird position, i honestly can't tell whats going on (19)
+[02:58:39] nyanners: same
+[03:00:40] the-iceman: I was intending 23...gxh5 but i missed d5 lol. Rad8 dxc6 Rxd2 cxb7 actually seems okay though
+[03:01:25] the-iceman: Probably just 23...gxh4 d5 Rad8 Ne4 though seems suspicious. But maybe Rf4 there, Interesting stuff
+[03:01:55] the-iceman: I think 23...exd4 is simpler though. I feel this should be fine
+[03:02:11] the-iceman: hmmm i sorta expected 24. hxg6 but maybe that's me being dumb
+[03:03:26] the-iceman: Gonna start playing faster. Wouldve liked to decide between 24...gxh5 and 24....Nxd4 but too low on the clock
+[03:03:57] the-iceman: I seem to have survived the worst of it and I feel alright now
+[03:03:57] the-iceman: Maybe better
+[03:04:42] the-iceman: Hmmm do I have concrete issues after 25. d5 and Re5 actually, shoot
+[03:05:30] the-iceman: I think 25. d5 Nd4 should be sufficient to cover everything
+[03:07:31] the-iceman: 25. d5 Nd4 Re5 Nf5 Nf3 g4 Nh4 maybe is annoying.
+[03:08:47] the-iceman: Lol nh4 Nxh4 is check nvm
+[03:13:34] the-iceman: Finally have a time edge for the first time in this game (25)
+[03:15:20] the-iceman: Briefly considering 26...Rf5 instead of Nf5
+[03:17:36] the-iceman: I want g4 and g6 and then play against his pawn and king (26(
+[03:18:07] the-iceman: I am worried about his pawn becoming a problem but I feel like I'm alright
+[03:18:37] the-iceman: I wonder if his pawn is too strong, idk
+[03:18:37] the-iceman: It's a blitz match now anyways
+[03:22:39] nyanners: wouldnt call +30 blitz XD
+[03:22:39] nyanners: but the vibe does change
+[03:26:26] brunia_student: I thought Ng3 instead of d6 was interesting, now Rae8 I thought maybe a problem
+[03:28:28] brunia_student: okay nevermind
+[03:28:43] the-iceman: I can't find anything pleasant here actually (28)
+[03:28:58] the-iceman: Pretty sure I'm losing (28)
+[03:29:13] the-iceman: But still not simple. But ya very concerning
+[03:34:01] nyanners: dang
+[03:34:01] nyanners: bluff successful
+[03:34:31] nyanners: now black will win..
+[03:35:47] brunia_student: not sure white wants to trade that pair of rooks
+[03:36:17] brunia_student: the first one I mean
+[03:36:17] the-iceman: 32. Nb7 was a bit of a gift in time pressure, pretty sure i was just lost there.
+[03:36:47] the-iceman: I'm sure this is objectively a draw but I'm obviously going to try my hardest to win this
+[03:36:47] nyanners: okay maybe black doesnt win
+[03:37:02] nyanners: 70% black wins?
+[03:37:18] nyanners: or 67%
+[03:37:18] the-iceman: And I'm not even sure it's objectively a draw. Black may be winning (39_
+[03:40:04] the-iceman: 41. b4 seems like a good move
+[03:40:19] the-iceman: Still work to be done to try to win this
+[03:41:05] the-iceman: I think 41...b5 seems to force him away by threats on his a pawn
