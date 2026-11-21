@@ -1,0 +1,46 @@
+Lichess game chat log
+Game      : https://lichess.org/FbAiHJdm
+White     : thetchigorindefense
+Black     : whenrooksfly
+Time      : 30+30
+Captured  : 2026-11-21 19:03:46 UTC
+Game ended : 2026-11-21 17:43:36 UTC
+Messages  : 36
+────────────────────────────────────────────────────────────
+
+[16:08:55] whenrooksfly: 9.. I am pretty inexperienced in this structure since I used to play 3..Bd7 against the Moscow for the longest time
+[16:09:10] whenrooksfly: 9.. I definitely have looked at a position like this in my prep but am already unsure about the move order
+[16:09:26] whenrooksfly: 9.. hard to tell when to go Be7 vs Qc7 vs O-O vs Bb7. I know at some point after Nd2 I can close the center with e5
+[16:09:56] whenrooksfly: 9.. and transpose to some Spanish-looking position
+[16:17:30] whenrooksfly: 12.. I never made this connection before, but I think you can save yourself essentially half the work of opening prep by playing
+[16:18:01] whenrooksfly: 12.. the Moscow and Spanish and then try to transpose to the Spanish
+[16:19:01] whenrooksfly: 12.. since I think 3..Nd7 is the only serious try. I played 3..Bd7 for a while but I think White gets a very easy position to play
+[16:19:16] whenrooksfly: 12.. of course, 3..Qd7!? is worth a consideration for the novelty
+[16:19:47] whenrooksfly: 12.. I am probably slightly worse, planning to play e5 and then hopefully Nc5 or smth
+[16:26:20] whenrooksfly: 14. I think h3 is super clinical, preventing Bg4 and allowing the Bg5 to come back to h2
+[16:27:06] whenrooksfly: 14.. I am undecided about what I am going to do. Maybe Bb7-exd4 or Nf8-h6-Ng6 or something else.
+[16:32:09] whenrooksfly: 15.. It is also possible (and somewhat likely) that what I am saying is complete nonsense and I have no understanding of the position.
+[17:08:00] whenrooksfly: 23.. probably is bad but it looks too fun
+[17:09:46] whenrooksfly: 24. g3 Nd3 Bxd3 Qxd3 f4 gxf4 Nxf4 and I think I have compensation for the pawn
+[17:46:07] whenrooksfly: oop sry
+[17:46:37] whenrooksfly: I wouldn't have run server analysis this early
+[17:46:37] thetchigorindefense: +5 to -3 in two moves, that is pretty good
+[17:47:07] thetchigorindefense: I hate to spoil a good game like that
+[17:47:38] whenrooksfly: I think this position is impossible to play accurately in a time scramble
+[17:48:38] whenrooksfly: Why is 19.. Rb7 20. Ra8 better than the game? Thought that would give me tons of problems on the backrank
+[17:49:23] thetchigorindefense: My chats aren't getting shown
+[17:49:39] whenrooksfly: I had some bug out
+[17:51:55] thetchigorindefense: If 19 ... Rb7 I probably would have played Rfa1 or Rxb7 instead of Ra8
+[17:52:10] thetchigorindefense: so I could continue with Qf1 as in the game
+[17:52:25] whenrooksfly: right
+[17:53:41] thetchigorindefense: wow it wanted you to sac the bishop on f5 after 27 g4
+[17:53:56] thetchigorindefense: I did think of that briefly but didn't see how it would work
+[17:54:56] thetchigorindefense: congrats on hanging on until I blundered—it was a tricky +5 in time pressure, for sure
+[17:55:11] whenrooksfly: just refreshed sry
+[17:55:42] whenrooksfly: I did not consider sacking the bishop at all, just missed g4 first before taking on d3
+[17:57:27] thetchigorindefense: it seems so obvious now that 35 Nxg6 was a bad idea
+[17:58:13] thetchigorindefense: I originally planned Qe6+ instead
+[18:00:44] whenrooksfly: Qxe6 Qxe6 Nxe6 Bxd4 cxd4 right?
+[18:03:00] thetchigorindefense: yeah, I saw this but wondered how clear it was. very clear because your knoght is trapped and a lot of other reasons I guess
+[18:04:01] thetchigorindefense: oh well, good luck in the rest of the tournament!
+[18:04:46] whenrooksfly: You too, thanks for the game!
