@@ -1,0 +1,71 @@
+Lichess game chat log
+Game      : https://lichess.org/qVCkAfBV
+White     : whenrooksfly
+Black     : mrmatt96
+Time      : 30+30
+Captured  : 2026-11-25 20:56:23 UTC
+Game ended : 2026-11-25 19:36:23 UTC
+Messages  : 61
+────────────────────────────────────────────────────────────
+
+[18:03:54] whenrooksfly: 5.. did not cover this move, yikes!
+[18:45:50] whenrooksfly: 13. I think Black is probably slightly better here but White has better practical chances
+[18:46:21] whenrooksfly: 13. I have some very fun ideas with either c3/e5
+[18:58:13] whenrooksfly: 14. This is more unsound but more fun. 14. c3 or Re1 are probably what should be played here.
+[19:00:45] whenrooksfly: 15. nvm, this looks way better than the other moves. I was planning a strange 15. e5 until I realized I can just play this instead
+[19:01:15] whenrooksfly: 15. brb to washroom, if I don't take back on f4 or c4 instantly that is why
+[19:06:49] whenrooksfly: 15. was briefly hallucinating and worrying about Nxf4 Nxf4 dxc3!!!!!!!!!!
+[19:30:04] ysgwydd: (32...fxe6) Rooks do fly
+[19:36:38] whenrooksfly: 21. Rf3 maybe instead
+[19:36:53] mrmatt96: I'm not sure it matters at that point; probably everything wins for White
+[19:36:53] whenrooksfly: yeah
+[19:37:23] mrmatt96: Maybe 13...Nh5 was the mistake then
+[19:37:38] mrmatt96: Too ambitious
+[19:37:38] whenrooksfly: I think probably 15..dxc3 was necessary
+[19:38:08] whenrooksfly: 13..Bb7 then 14. c3 looks uncomfortable I thought
+[19:38:24] mrmatt96: 13...e5 is the other thought
+[19:38:24] whenrooksfly: or maybe the same b4-c4 idea as in the game
+[19:38:54] whenrooksfly: 14. bg5 and then I was planning something like Ng3-Nf5
+[19:39:24] mrmatt96: Interesting. I would have been pretty happy to see taht
+[19:39:39] mrmatt96: Was expecting 14.Bg3 or Bd2
+[19:39:54] mrmatt96: (after ...e5)
+[19:39:54] whenrooksfly: after Bg3 Nh5 don't we get smth similar
+[19:40:09] whenrooksfly: I think Bd2 is too passive
+[19:40:25] mrmatt96: Bd2 prepares c3; had me a little nervous
+[19:41:25] whenrooksfly: 14. Bd2 Rd8
+[19:41:55] mrmatt96: I thought still 15.c3 dxc3 16.Bxc3
+[19:42:26] whenrooksfly: ah
+[19:42:41] whenrooksfly: I didn't see how uncomfortable that was for Black
+[19:42:41] whenrooksfly: I think I was focused on Rxc3 and didn't notice that e5 is hard to defend
+[19:42:56] mrmatt96: Very difficult to get organized, yeah
+[19:43:26] mrmatt96: Even 15...Qd6 and White can consider trading queens, then leaning on the open lines and better development
+[19:43:41] whenrooksfly: after Qd6 Qc2 -> Rfd1 looks strong too
+[19:43:57] whenrooksfly: wait nvm
+[19:43:57] whenrooksfly: mbmb
+[19:44:42] whenrooksfly: 17. Bb1 Qb8 maybe?
+[19:44:57] whenrooksfly: Bb7 after and you aren't pinned on the c-file like on c7
+[19:45:27] mrmatt96: Probably least bad for Black, but still very awkward, yeah
+[19:45:43] whenrooksfly: I get the rook on a8 is not ideal
+[19:47:13] whenrooksfly: 13. Ne2 e5 14. c3 exf4 15. cxd4 Qb6 16. d5 Na5 17. Nxf4
+[19:47:29] whenrooksfly: I looked briefly at this but not sure how to evaluate it
+[19:48:14] mrmatt96: Eyeballing it, feels fine for Black, but would have to untangle carefully
+[19:48:44] whenrooksfly: how do you stop e5? if Bb7, something like b4 and I get another pawn
+[19:52:17] mrmatt96: 17...Bb7 18.b4 Nc4 19.Bxc4 bxc4 20.Rxc4 Rfd8
+[19:52:47] mrmatt96: 21.Rd4 is interesting though
+[19:53:02] whenrooksfly: yeah was going to say that
+[19:53:32] whenrooksfly: 21.. a5 Qd2 axb4 axb4 Ra4
+[19:53:47] mrmatt96: Maybe even 20...a5 first
+[19:54:18] mrmatt96: Though then 21.e5 has to be calculated
+[19:55:33] whenrooksfly: 21..Bxb4 Qc2/Qd1
+[19:56:34] mrmatt96: I suspect Black is okay, but it's tenuous
+[19:57:04] whenrooksfly: yeah looks much easier for White
+[19:58:05] whenrooksfly: I was surprised in the opening after 5..Qa5. I think I probably covered this move in an old opening file but it is not in my current one.
+[19:58:35] mrmatt96: I felt like I wanted something more positional today. Usually I'm happy enough to take Black against the g4 stuff, but thought I'd mix it up
+[19:58:35] whenrooksfly: not sure if my Be2-Rc1-Bd3 stuff is correct, I do know there is some c4 ideas and Rxc5 prevents b5 because of Nc6
+[19:59:05] mrmatt96: I think your line was fine but non-critical
+[19:59:05] whenrooksfly: You play 3..a6 and 3..g6 usually yeah?
+[19:59:20] whenrooksfly: that was what I prepared for
+[19:59:36] mrmatt96: I have played those before. Not sure I've faced the Jobava London enough to have something "usual"
+[19:59:36] whenrooksfly: I think there was a 3..a6 followed by g6 system too
+[20:01:06] mrmatt96: Depends on the move order
+[20:11:27] whenrooksfly: Thanks for the game and good luck with the rest of your rounds!
