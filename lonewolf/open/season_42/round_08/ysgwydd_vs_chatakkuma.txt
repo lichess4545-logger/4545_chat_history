@@ -1,0 +1,93 @@
+Lichess game chat log
+Game      : https://lichess.org/P2USIHOl
+White     : ysgwydd
+Black     : chatakkuma
+Time      : 30+30
+Captured  : 2026-11-27 12:26:42 UTC
+Game ended : 2026-11-27 11:06:28 UTC
+Messages  : 83
+────────────────────────────────────────────────────────────
+
+[11:06:28] chatakkuma: 16.Qg5 was bad
+[11:06:43] chatakkuma: I was thinking 16.exd5 exd5
+[11:06:58] chatakkuma: and then a3 perhaps
+[11:06:58] ysgwydd: Yeah Qg5 was probably not great
+[11:07:13] ysgwydd: I didn't see anything good
+[11:07:43] chatakkuma: oh there is one move that wins on move 16
+[11:07:43] chatakkuma: for white
+[11:07:59] ysgwydd: f4?
+[11:07:59] chatakkuma: maybe it is
+[11:08:14] chatakkuma: I thought f4 Nxe4
+[11:08:29] ysgwydd: Yes
+[11:08:29] chatakkuma: yeah I think that is good for black
+[11:08:59] ysgwydd: Doesn't look like a position that is winning for white
+[11:08:59] chatakkuma: for sure
+[11:09:14] chatakkuma: Nxe4 is a threat
+[11:09:14] chatakkuma: hmm
+[11:09:44] ysgwydd: exd5 exd5 Qd4?
+[11:09:59] chatakkuma: or is it Qd4 right away?
+[11:10:30] chatakkuma: yea some Qd4 idea
+[11:10:30] ysgwydd: Maybe. You don't have Kf7 tempo there
+[11:10:30] ysgwydd: Nf7
+[11:10:30] ysgwydd: I missed Nf7
+[11:10:45] chatakkuma: right
+[11:11:15] ysgwydd: Well I missed your 14-17 moves
+[11:11:15] chatakkuma: might be Q4 right away
+[11:11:30] chatakkuma: if ed ed Qd4 then c5 Qxe5 Re8 is annoying
+[11:11:45] ysgwydd: True
+[11:12:00] ysgwydd: Qg5 was similar, just that you get a tempo
+[11:12:16] chatakkuma: exactly
+[11:12:16] chatakkuma: Bh5 I think wa s a nice move
+[11:12:31] chatakkuma: first fxe4 to open my rook
+[11:12:31] ysgwydd: I saw Bh5, but not Bxf3. I thought just about the pin
+[11:12:46] chatakkuma: I was shocked after 11.e4
+[11:13:01] chatakkuma: black has to be careful after that
+[11:13:01] ysgwydd: e4 is surprising, I think it works due to Bd6 hanging
+[11:13:16] chatakkuma: right
+[11:13:16] ysgwydd: And mate threat on g7
+[11:13:16] chatakkuma: nice find
+[11:13:31] chatakkuma: but I think Qd2 was wrong
+[11:13:46] ysgwydd: Yeah it wasn't great
+[11:14:02] ysgwydd: Realized after Bxf3
+[11:14:17] chatakkuma: but it's hard to suggest a move
+[11:14:17] ysgwydd: It was a thought from other lines
+[11:14:17] ysgwydd: just exd5 instead
+[11:14:32] chatakkuma: so if exd5 I was preparing to go Ne5
+[11:14:47] chatakkuma: and if dxe6 Ne8
+[11:14:47] chatakkuma: and Nf3 is lost
+[11:15:17] ysgwydd: Hmm not easy
+[11:15:17] chatakkuma: and after Ne5 you probably have to play Na4
+[11:15:32] chatakkuma: to take with Bxe5 later
+[11:15:47] chatakkuma: not sure with my calculations tho
+[11:16:18] ysgwydd: White is clearly better after Ne5 there
+[11:16:18] ysgwydd: Saw with engine
+[11:16:33] chatakkuma: there is only move
+[11:16:33] chatakkuma: what could it be
+[11:17:03] ysgwydd: it's not something I'd consider
+[11:17:18] ysgwydd: dxc6!
+[11:17:18] chatakkuma: then if Ne8?
+[11:17:33] ysgwydd: Nxe5!!
+[11:17:48] chatakkuma: oh wow
+[11:18:04] chatakkuma: so Bxd1 cxb7 first I assume?
+[11:18:04] ysgwydd: Yeah
+[11:18:19] ysgwydd: White gets a lot of material
+[11:18:19] ysgwydd: But still
+[11:18:34] chatakkuma: Rb8 Raxd1
+[11:18:34] chatakkuma: and got comp for the Q
+[11:18:49] chatakkuma: actually White is up material
+[11:19:04] chatakkuma: Q for two minors ad 3 pawns
+[11:19:04] ysgwydd: And b7 pawn is strong
+[11:19:04] chatakkuma: wow
+[11:19:19] ysgwydd: Not easy to go for it though
+[11:19:19] chatakkuma: thought it was four pawns
+[11:19:34] chatakkuma: black pawn on a7 looks invisible lol
+[11:19:34] ysgwydd: Bh5 is strong if that's the only response
+[11:20:05] chatakkuma: very interesting
+[11:20:05] ysgwydd: I don't think I have seen 3...f5 in that move order
+[11:20:05] ysgwydd: I assume prep?
+[11:20:20] chatakkuma: yea I cooked that up
+[11:20:35] chatakkuma: wanted to have a fun game with no thery
+[11:20:50] chatakkuma: anyway thanks for the game
+[11:20:50] ysgwydd: Fair
+[11:20:50] chatakkuma: see you and gl for the rest of the season
+[11:21:05] ysgwydd: Thanks and good luck in the rest of tournament
