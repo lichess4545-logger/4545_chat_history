@@ -1,0 +1,38 @@
+Lichess game chat log
+Game      : https://lichess.org/j4wUAL4f
+White     : whenrooksfly
+Black     : vladapro
+Time      : 20+20
+Captured  : 2026-11-27 19:36:29 UTC
+Game ended : 2026-11-27 18:16:19 UTC
+Messages  : 28
+────────────────────────────────────────────────────────────
+
+[17:52:19] whenrooksfly: 27. I was considering Qc1 but I think Bxb8 just makes more sense from a practical standpoint
+[17:52:35] whenrooksfly: 27. I get d4 after Qxc1 but not sure if that is a good thing since d3 comes under attack
+[18:13:47] whenrooksfly: 55. This type of position is in Silman's Endgame Course I think
+[18:14:02] whenrooksfly: 55. I remember the plan of pushing both pawns to the 6th and then you eventually trade the rooks
+[18:16:34] mennonite: gg
+[18:16:49] whenrooksfly: 9. cxb5??????
+[18:17:04] whenrooksfly: I completely just forgot about d5
+[18:17:34] vladapro: d5 isnt even good according to engine
+[18:18:20] whenrooksfly: this doesn't make senes
+[18:18:20] whenrooksfly: sense
+[18:18:50] vladapro: it wants to save the bishop first than to push the knight
+[18:21:06] vladapro: you missed a fork on move 19.
+[18:23:52] whenrooksfly: I wasn't sure if the exchange was worth it since it looks hard to activate my rooks
+[18:24:23] whenrooksfly: I thought the g4-g5 plan was harder to play against at low time too
+[18:26:09] vladapro: look at 6. Be7, lol
+[18:26:39] whenrooksfly: the line given by SF makes sense
+[18:26:54] whenrooksfly: very easy for humans to spot, just give your entire house and develop
+[18:27:09] vladapro: yeah, frustrated I missed that one
+[18:28:25] whenrooksfly: 4..h6 too
+[18:30:41] vladapro: crazy lines
+[18:31:26] whenrooksfly: I agree, the middlegame we got was very hard to understand
+[18:31:57] whenrooksfly: 15. b3 is a funny trick
+[18:33:43] whenrooksfly: 15. b3 Nf4 16. Be2 Nxd3+ 17. Bxd3 Qxd3 18. h4 Bxe4
+[18:38:45] whenrooksfly: Thanks for the game and good luck with the rest of your rounds!
+[18:39:15] vladapro: good line
+[18:39:30] vladapro: you too, this game was fun
+[18:40:01] vladapro: look at the lines where 2 knights are better than 2 bishops, those are also crazy
+[18:41:31] vladapro: 15. Nc4 Nb6, 16. Nd6 Qd7. 17. Nf5 Bxf5
