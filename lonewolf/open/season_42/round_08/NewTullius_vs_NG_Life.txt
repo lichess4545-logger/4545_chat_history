@@ -1,0 +1,102 @@
+Lichess game chat log
+Game      : https://lichess.org/iPxicigX
+White     : newtullius
+Black     : ng_life
+Time      : 30+30
+Captured  : 2026-11-28 00:31:31 UTC
+Game ended : 2026-11-27 23:11:21 UTC
+Messages  : 92
+────────────────────────────────────────────────────────────
+
+[21:35:40] ng_life: I saw my opponent plays both d4 and e4, so I prepped both
+[21:36:11] ng_life: for d4 I prepped the nimzo leningrad variation, not my usual stuff
+[21:38:42] ng_life: 5.... ne4 is borderline the end of my prep, my opponent has had 1 game in this position which I looked at
+[21:39:43] ng_life: 8... bb7 next move is d6, pawn structure resembles the Queen's Indian which I do play
+[21:41:44] ng_life: 9. h4 I am fully out of prep. Thinking about if I should h5, O-O, or d6 here.
+[21:43:15] ng_life: 9. h4 O-O h5 h6 he has h7-b1 diagonal, but I want to play f5 anyways sooo
+[21:44:00] ng_life: + my n can go nd7 nf6 to defend h7. So not feeling the pressure from h4 yet. I'll just O-O for now.
+[21:49:48] ng_life: 10... f5 - f5 is thematic in these positions, happens in the Queen's Indian too, so you don't lose all grip on the center
+[21:50:49] ng_life: 11. b3 I guess to play bb2 and threaten mate on g7?
+[21:51:34] ng_life: 11. b3 d6 bb2 nd7 d5 I have e5 and nf6 is coming, I guess ba3 is also possible but also blocked by d6
+[21:51:50] ng_life: so d6 seems sensible for both bb2 and ba3
+[22:05:42] ng_life: 16. rde1 thinking about c5 here, I often play this pawn break in Queen's Indian, didn't think I could do it here but with rde1...
+[22:07:13] ng_life: 16. rde1 c5 e4 fxe fxe cxd Qxd Qc5 that might be okay
+[22:07:29] ng_life: assessing d5 as an alternative to c5
+[22:08:59] ng_life: d5 c5 bxc dxc I blocked my b and unleashed his battery then ba6 yeah I don't know, maybe c5 is better?
+[22:11:46] ng_life: if he plays 17. dxc I think I have bxc so I'm expecting e4
+[22:17:04] ng_life: 17. rhg1 nxh5 g4 nf6 g5 hxg rxg rf7... might be best shot, I think I need to play nxh7 so after g5 hxg he doesn't have h6
+[22:18:50] ng_life: 18... nf6 - Do I feel safe? No. But hey, at least I'm a pawn?
+[22:20:51] ng_life: 19. d5 e5 looks quite bad so lets analyze exd
+[22:22:37] ng_life: 19. d5 exd bxf5 d4 exd cxd Qxd Qc5 looks like it might work?
+[22:23:38] ng_life: anything else looks bad, let's try that
+[22:31:58] ng_life: 23. be6+ I completely missed that he could interpose this, I think I'm lost now
+[22:32:43] ng_life: rf7 giving away exchange might be the only way to fight on a bit; kh6 or kh7 look like mate is coming soon
+[22:34:29] ng_life: (24) I think white should already be +3.7 or so here
+[22:41:03] ng_life: 25. Qd3 I guess I could 'play for the blunder' with re8 hoping he somehow hangs the g1 rook. If bd4 I have Qa3 saving the tempo
+[22:41:03] ng_life: if I do nothing he has Qg6 winning immediately
+[22:41:34] ng_life: I see nothing else to try, it's a grim situation, so re8 it is
+[22:46:06] ng_life: 26. rh1 okay to avoid immediat mate I need to lead with rxe6 or he has bxf6 gxf Qf6 ending the game, so let's lead with that
+[22:46:52] ng_life: now the night might be overwoked because it's defending e8 and h7 but eh, let's forget that, I think I need g4 so if bxf6 rxf6 I have Qg5
+[22:50:24] ng_life: 29... kf7 there must be mate, I'm just too blind to see it.
+[22:53:41] ng_life: 31. fxg Qg1+ kc2 Qf2+ kc3 no more checks
+[22:55:27] ng_life: the hanging d pawn really weakens me and ties down my Q
+[22:57:58] ng_life: this b vs r ending looks grim
+[23:11:21] ng_life: @NewTullius all my notes are here if you would like to analyze
+[23:11:51] newtullius: haha I saw the ...Ne4
+[23:11:51] newtullius: I got killed the last time in that variation
+[23:12:06] ng_life: I think probably at rg1 I went off the rails
+[23:12:52] newtullius: Yeah I wasn't sure about that -- h5 is highly commital by me
+[23:12:52] newtullius: So I kinda have to push at that point
+[23:13:37] ng_life: I think there should be some way to defend, I just couldn't find it. I thought I had to play nxh6
+[23:13:52] ng_life: To avoid g5 hxg h6
+[23:13:52] ng_life: So scary looking
+[23:14:07] newtullius: Hmmmm
+[23:14:22] ng_life: But I don't know, I missed this d5 idea which is very strong
+[23:14:38] newtullius: But if you don't play Nxh5, and I play g4, you can try Bxf3
+[23:15:08] newtullius: g5 Ng4 maybe?   Still super scary
+[23:15:23] ng_life: I did consider it but somehow I don't see by bishop doing anything on f3, so grabb
+[23:15:23] ng_life: So grabbing the pawn on f3 looked wrong
+[23:15:38] ng_life: I guess it would defend h1 at least
+[23:15:53] newtullius: Yeah I thought I was winning after d5, but I'm pretty sure I bungled the attack
+[23:16:08] ng_life: D5 was so much stronger than I anticipated, I think I saw this move but not in that position where you
+[23:16:23] ng_life: Have bf4 very strong
+[23:16:54] ng_life: I agree after d5 white is probably winning, I already went wrong somehow
+[23:17:24] newtullius: Yeah but it's hard to see where the mistake from Black is
+[23:17:39] ng_life: I felt very stable and then after rg1 the attack was so fast and strong it blindsided me, possibly I should have shored up before somehow
+[23:17:39] newtullius: It felt like you played mostly natural moves and suddenly everything I had was pointed towards the King
+[23:17:39] ng_life: Yes
+[23:18:09] ng_life: For me it felt like normal position headed toward endgame and then somehow 1 or 2 moves the attack is just massive
+[23:18:24] newtullius: Like maybe Qc8 is inaccurate?  I guess the idea is defend f5, but it makes it hard for your a-rook to come online
+[23:18:40] ng_life: Yeah I wasn't sure, the reason I played Qc8 is
+[23:19:25] ng_life: I often have similar pawn structure in queen's indian and you play c5 break, I thought if I moved my Q to c file I might be able to c5
+[23:19:25] ng_life: At some point
+[23:19:40] ng_life: With Q on D file lined up with rook I can't pawn break because my Q is vuln, very limiting
+[23:19:55] ng_life: Should we turn on engine to see where I went wrong?
+[23:20:10] newtullius: Oh yeah I was thinking Qe7 instead
+[23:20:10] newtullius: Yes!
+[23:20:25] ng_life: Yeah Qe7 probably better
+[23:20:41] newtullius: haha looking at move 29 Rxf6 just wins the Bishop on b7
+[23:20:41] newtullius: I didnt' see Kf7 so I thought I was mating
+[23:21:11] newtullius: Oh actually no lol, you play Qg5 (engine)
+[23:21:26] ng_life: Apparently my opening move order was wrong, so you got an advantage immediately
+[23:21:41] newtullius: Yeah so when I played it last time
+[23:21:56] newtullius: I went 9. f3, then Qh4+ g3 Qh5
+[23:22:11] ng_life: Yeah I was lost from c5
+[23:22:11] newtullius: and Black is doing quite well
+[23:22:57] ng_life: With d5 or b5 I still can fight, but I thought the position was equal and I saw all the problems with those moves
+[23:23:12] newtullius: I think h4 is the best, prophylactic move (according to engine), unfortunately I can't claim credit for it haha
+[23:23:27] newtullius: Hmmmm. ...b5 is interesting
+[23:23:27] ng_life: So I was basically overestimating my position and misunderstood from the beginning
+[23:23:57] ng_life: You can see in my notes I analyzed d5 and rejected it, I didn't consider b5
+[23:24:12] ng_life: Engine says b5 and d5 roughly equally good, +0.9 for white, c5 losing quickly as in game
+[23:24:27] ng_life: D5 you can block up but in a way very favorable to white
+[23:24:58] newtullius: Yeah d5 feels like I have a nice stable advantage, not winning but feels comfortable
+[23:25:13] ng_life: Because I didn't understand how bad it had gotten I rejected d5 seeing it as comfortable white advantage
+[23:25:28] ng_life: Yes I agree
+[23:25:43] newtullius: It's interesting that the engine thinks I shouldn't play Rde1 and instead play Rdg1 and go for the g-pawn push immediately
+[23:26:13] newtullius: Idea is d5 at some point saccing the pawn and then playing g4
+[23:26:28] ng_life: Yeah the engine sees you will have a massive attack so not concerned with your pawns
+[23:26:59] ng_life: Very well played game and thank you for analyzing with me @NewTullius, I appreciate it
+[23:26:59] ng_life: All the best to you and gl in next rounds
+[23:27:14] newtullius: Thanks!  You too
+[23:27:29] newtullius: Appreciate the analysis :)
